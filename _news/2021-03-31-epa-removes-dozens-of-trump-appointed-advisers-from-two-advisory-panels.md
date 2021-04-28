@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/environmental-protection
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/environmental-protection-agency-trump-appointees/index.html"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 275
+published: true
 
 provider:
   name: CNN
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "DHS dissolves independent advisory council, ousting Trump-era officials"
-    excerpt: "Department of Homeland Security Secretary Alejandro Mayorkas on Friday dissolved the Homeland Security Advisory Council, according to a letter obtained by CNN, ousting a board of independent advisers that included Trump-era officials and setting up a plan to reconfigure the council.\n    \n"
-    publishedDateTime: 2021-03-26T21:24:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8ynEP8Ps1OU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/homeland-security-advisory-council-dissolved/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/homeland-security-advisory-council-dissolved/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301130049-02-mayorkas-wh-briefing-0301-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How the current US-Mexico border crisis compares with the peak of the Trump era in 2019"
-    excerpt: "President Joe Biden is not the first US president to face a growing number of migrants at the US-Mexico border -- and he won't be the last. Fluctuations in migration flows are common, regardless of which party is in power, as was evident in 2019 during the border crisis under then-President Donald Trump.\n"
-    publishedDateTime: 2021-03-24T00:10:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cOpSznPF17E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/border-crisis-2021-2019-trump-biden-explainer/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/border-crisis-2021-2019-trump-biden-explainer/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323130008-05-border-facility-donna-texas-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "White House tells Democratic investigators it no longer has Trump White House Capitol attack documents"
     excerpt: "The White House says it no longer has custody of the documents House Democratic investigators sought to shed light on the inner workings of then President Donald Trump's top aides in the lead up to, and on the day of, the January 6 attack on the US Capitol, according to a letter obtained by CNN.\n   "
     publishedDateTime: 2021-04-02T16:26:19Z
@@ -76,22 +44,6 @@ related:
     quality: 159
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Donald Trump launches a new website after social media bans"
-    excerpt: "New York (CNN)Donald Trump is back online. The former president and first lady, Melania Trump, have launched a website to serve their personal offices. The website, 45office.com, comes after Trump's ban from social media sites in the aftermath of the ..."
-    publishedDateTime: 2021-03-30T15:40:00Z
-    webUrl: "https://www.cnn.com/2021/03/30/media/donald-trump-website-launch/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/media/donald-trump-website-launch/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/media/donald-trump-website-launch/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216111257-trump-1212-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -127,19 +79,37 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Texas museum removes Trump wax figure after visitors kept attacking it"
-    excerpt: "A wax museum in San Antonio, Texas, was forced to remove its statue of former President Donald Trump because visitors kept attacking it. Louis Tussaud's Waxworks transferred the statue from the gallery to a storage unit after the museum's guests repeatedly ..."
-    publishedDateTime: 2021-03-19T17:08:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/texas-museum-removes-trump-statue-after-visitors-kept-attacking-it-n1261546"
+  - title: "Supreme Court dismisses lawsuit over Trump's Twitter account"
+    excerpt: "WASHINGTON — The Supreme Court on Monday tossed out a lawsuit over former President Donald Trump's Twitter account, after the Justice Department said the end of Trump's presidency made the case a dead letter. The case arose after seven people responded ..."
+    publishedDateTime: 2021-04-05T14:46:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/supreme-court-dismisses-lawsuit-over-trump-s-twitter-account-n1263030"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263030"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263030"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 115
+    quality: 135
     images:
-      - url: "https://media2.s-nbcnews.com/j/newscms/2021_11/3458115/210319-donald-trump-thumbs-up-ew-1028a_232a47b4c823a1ee6a2954da3fe2ba26.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3441857/210113-donald-trump-phone-se-234p_aa2b3be771e969c8a03fdd93594f5774.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Gaetz reported to have sought a ‘blanket’ pardon from Trump"
+    excerpt: "Rep. Matt Gaetz allegedly sought a “blanket” presidential pardon from Donald Trump in the closing weeks of his administration — a request which was ultimately not fulfilled, according to news reports. The request for a blanket preemptive pardon for ..."
+    publishedDateTime: 2021-04-07T02:27:00Z
+    webUrl: "https://www.politico.com/news/2021/04/06/gaetz-blanket-pardon-trump-479504"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/06/gaetz-blanket-pardon-trump-479504"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/gaetz-blanket-pardon-trump-479504"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/3b/45/24baa3864faf9352e262d8ef8c93/4-6-21-matt-gaetz-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "yUd/UfMYUP5SwPkfgOgNtmtPSnjQMKuwlCzOBrtJquiJL0lwHuk7tBSxHGw55PB15S+X6YwCOu6/b91lZF91gMHsKMbWTVplAkjyx1w+OtKf675MolJPch+w0NJLw4blwy4rGuYkXn8gf7LjtRQkXTIAZwgn0brK1O7rrZjClXjl92FsK06f5JYj75HxJGDqm+HKwRQUEwWwlekiD+3n77xzBQZcknY0QhrNM3L21aTW4Md7jgmaYYjK4GSQFZRBK5GP8VlOs79+IR+wJVuqiYq0r/OOI4oviWRW7VcEGvqDYTGwrL4mJkh1a0jN7R1mTcnifsV13IS9j12uMgw2Oidff4A8UQshyhvxMuJ4lKE=;/fiUB4CIIjXmvt6f0Xbpew=="

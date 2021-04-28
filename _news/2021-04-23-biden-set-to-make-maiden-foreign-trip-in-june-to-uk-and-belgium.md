@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-fo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-foreign-trip/index.html"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 315
+published: true
 
 provider:
   name: CNN
@@ -31,163 +31,117 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to be briefed on Indianapolis shooting"
-    excerpt: "President Joe Biden will be briefed Friday morning on a shooting at an Indianapolis FedEx facility that left at least eight people dead, a White House official told CNN.\n    \n"
-    publishedDateTime: 2021-04-16T12:07:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tT1KgMKeqrM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/biden-indianapolis-shooting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/biden-indianapolis-shooting/index.html"
+  - title: "Analysis: Biden's superpower will soon be tested"
+    excerpt: "Where there was once a fight about whether Americans should still wear masks, new guidance from the US Centers for Disease Control and Prevention -- wrapped in a push to get more Americans vaccinated -- could create a fight over taking them off.\n    \n"
+    publishedDateTime: 2021-04-27T21:34:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dojmIP3xRaU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/joe-biden-first-100-days-strategy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/joe-biden-first-100-days-strategy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416010826-02-indianapolis-fedex-shooting-0416-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427142809-05-biden-mask-remarks-0427-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "White House tells refugee advocates Biden likely to raise cap quickly "
-    excerpt: "White House officials signaled in a conference call with refugee resettlement advocates late Friday that President Joe Biden is likely to raise the current refugee cap of 15,000 quickly, well ahead of the May 15 deadline set Friday, according to a person familiar with the matter.\n    \n"
-    publishedDateTime: 2021-04-17T14:07:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/peQc3kYUWg0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html"
+  - title: "Biden to raise minimum wage for federal contractors to $15 an hour"
+    excerpt: "Two months after his effort to raise the federal minimum wage to $15 an hour ran into the Senate parliamentarian buzz saw, President Joe Biden is set to use his executive powers to hike the pay of hundreds of thousands of federal contract workers.\n    \n"
+    publishedDateTime: 2021-04-27T10:54:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QIwza8ZlXHw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/minimum-wage-federal-contractors-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/minimum-wage-federal-contractors-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210417093925-01-joe-biden-0415-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210426201308-biden-march-19-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's big climate pledge is another promise it will be hard to honor"
-    excerpt: "A White House riding high on a wave of ambition is setting up a series of inevitable tests of whether Joe Biden is promising more than he can deliver.\n    \n"
-    publishedDateTime: 2021-04-23T04:28:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zb5NfXfH0PM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/joe-biden-climate-change-police-reform-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/joe-biden-climate-change-police-reform-republicans/index.html"
+  - title: "Senate confirms Biden pick for Pentagon's undersecretary for policy"
+    excerpt: "The Senate confirmed Colin Kahl to be the No. 3 civilian at the Pentagon on Tuesday, approving President Joe Biden's nominee for Pentagon policy chief on a party-line vote.\n    \n"
+    publishedDateTime: 2021-04-27T22:32:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j0aR3XEuhco/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/colin-kahl-confirmation-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/colin-kahl-confirmation-vote/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422142048-joe-biden-0422-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230112442-colin-kahl-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "CNN to host climate crisis town hall with Biden administration officials"
-    excerpt: "Senior Biden administration officials this week will answer questions on how President Joe Biden plans to remake US climate policy in a globally broadcast CNN town hall, the network announced Monday.\n    \n"
-    publishedDateTime: 2021-04-19T18:49:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LboOxn4BvMQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/cnn-climate-town-hall/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/cnn-climate-town-hall/index.html"
+  - title: "Bipartisan talks on infrastructure heat up as Biden prepares for big push"
+    excerpt: "As the White House intensifies conversations with key Republicans on infrastructure, a small, bipartisan group of senators is in the early stages of seeing if they might be able to break loose consensus on their own plan.\n    \n"
+    publishedDateTime: 2021-04-27T23:19:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oXqbUAyCKaE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/infrastructure-negotiations-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/infrastructure-negotiations-congress/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419144802-cnn-climate-crisis-town-hall-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/171206163232-jon-tester-montana-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden won't raise refugee cap this fiscal year in a reversal on earlier pledge"
-    excerpt: "President Joe Biden will sign a declaration on Friday to speed refugee admissions to the US but not raise the refugee cap, as he has committed to doing. Instead, he will sign an emergency determination that will cast a wider net of who can arrive to the US under the refugee ceiling currently in place.\n"
-    publishedDateTime: 2021-04-16T17:12:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j-S4fJkQ5KQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/biden-refugee-cap/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/biden-refugee-cap/index.html"
+  - title: "Biden set to announce $200 billion for universal pre-K in sweeping new proposal"
+    excerpt: "President Joe Biden is set to announce $200 billion in education funding as part of his sweeping spending package he will unveil prior to his prime-time address to a joint session of Congress, according to a White House official.\n    \n"
+    publishedDateTime: 2021-04-27T23:48:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/17Roi70pcMc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/universal-pre-k-200-billion/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/universal-pre-k-200-billion/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415170509-02-biden-russia-comments-0415-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130219144014-universal-preschool-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden hits 200 million vaccine doses. The next 200 million will be a lot harder"
-    excerpt: "It's no longer supply, it's demand. This, right now, is the moment when the government stopped the triage effort on vaccines and started trying to convince the skeptical and the unwilling to roll up their sleeves.\n    \n"
-    publishedDateTime: 2021-04-21T21:03:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jND-SSxzC5Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/21/politics/what-matters-vaccine-tipping-point/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/what-matters-vaccine-tipping-point/index.html"
+  - title: "Bidens to meet with former President Carter and Rosalynn Carter in Georgia Thursday"
+    excerpt: "President Joe Biden and first lady Jill Biden will meet with former President Jimmy Carter and former first lady Rosalynn Carter in their hometown of Plains, Georgia, on Thursday, White House press secretary Jen Psaki said Tuesday.\n    \n"
+    publishedDateTime: 2021-04-27T21:47:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6-ZlOpN8nog/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/jimmy-carter-bidens/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/jimmy-carter-bidens/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420141937-01-needles-pfizer-vaccine-0415-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210226110200-02-biden-travels-to-texas-0226-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden aims to make the economic case for fighting climate change on second day of virtual summit"
-    excerpt: "President Joe Biden on Friday aims to highlight the economic opportunities of climate action a day after announcing an ambitious new goal to reduce greenhouse gas emissions at his Leaders Summit on Climate from the White House.\n    \n"
-    publishedDateTime: 2021-04-23T10:02:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sewqePj5dow/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/white-house-leaders-climate-summit-day-two/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/white-house-leaders-climate-summit-day-two/index.html"
+  - title: "Biden set to acknowledge ground-shaking history of the last year in first speech to Congress"
+    excerpt: "When President Joe Biden delivers his first address to Congress on Wednesday, two of the past year's ground-shaking events will be hard to ignore.\n    \n"
+    publishedDateTime: 2021-04-27T21:24:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F5oHeb33AoE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/biden-speech-preview/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/biden-speech-preview/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 162
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422083025-03-biden-climate-summit-0422-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427140259-03-biden-remarks-0427-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden says Iran enriching uranium at 60% is not helpful, but is pleased country engaging in indirect talks"
-    excerpt: "President Joe Biden on Friday said Iran's decision to enrich uranium at 60% is not helpful and counter to the agreement the countries made under the Iran nuclear deal, but said he is pleased the country continues to engage in indirect talks with the United States.\n    \n"
-    publishedDateTime: 2021-04-16T22:24:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8rV8u9MjRy4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/iran-uranium-enrichment-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/iran-uranium-enrichment-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210411114711-file-01-iran-natanz-nuclear-facility-2019-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's sweeping climate goal comes down to one thing"
-    excerpt: "The president wants a sprint to slash greenhouse gas output throughout the U.S. economy. But electricity is the only sector with a running start."
-    publishedDateTime: 2021-04-22T22:54:00Z
-    webUrl: "https://www.politico.com/news/2021/04/22/biden-climate-goal-484326"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/22/biden-climate-goal-484326"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/22/biden-climate-goal-484326"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/3b/44/3632b1e4489baaca0e56152b9957/gettyimages-1167751498-c.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "POLITICO Playbook PM: Biden faces first test on policing"
-    excerpt: "I’m praying the verdict is the right verdict,” Biden said. “The evidence is overwhelming in my view.” Biden’s decision to go out on a limb like that is a bit surprising. Presidents and other politicians typically refrain from weighing in while juries deliberate — DONALD TRUMP,"
-    publishedDateTime: 2021-04-20T17:27:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/20/biden-faces-first-test-on-policing-492533"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/ed/60/d1d66c2f4d4dae0334927772719c/210420-biden-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "jSxkm9iARAzeCs9bCTr0K3GJSH31U5ccSixcZgMcDeon8yaxvG2HHcJ8AA/RaxfemXIjtFwBpRX++Iaa5K0SlkVRUagHF557Z86duCa3anyU7P+SJC6aE+6RG8xRcj3xWdltPBzJ4ZOfxNj1GpIKJ86CWidTff+VkWkjNOpEGrXGNIhQCb748WE7X91H78ih2Q/pqH/M7Tvu0vH92hh2SBMQ20CC6iKiDqc83194ORoa0A5OQWoDwXRpwAx2YQ+N5d8b4s7QhJBMUrb93elp9UXkvfakmjjz6zqJuNVu79jzPRYX/4LAuAIyd3HScDxx1UQoIVzj5xPTX8OguGy4vCokHZ61Y9BPyjl9Mxlydf0=;Ctqjl87YXlLHlVhHdU8s5w=="

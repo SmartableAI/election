@@ -2,6 +2,219 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-18-gop-white-house-hopefuls-move-forward-as-trump-considers-run.md",
+      "title": "GOP White House hopefuls move forward as Trump considers run",
+      "excerpt": "Donald Trump ended his presidency with such a firm grip on Republican voters that party leaders fretted he would freeze the field of potential 2024 candidates and delay their preparations as he consid",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 465,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-18T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-18-one-america-news-network-stays-true-to-trump.md",
+      "title": "One America News Network Stays True to Trump",
+      "excerpt": "A recent OAN segment said there were “serious doubts about who’s actually president,” and another blamed “anti-Trump extremists” for the Capitol attack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/05/business/00OAN-01/merlin_177598191_67fd0320-9bd9-4f06-b481-3683fd454302-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.amp.html",
+      "publishedDateTime": "2021-04-18T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-18-texas-gov-greg-abbott-blames-biden-for-cartel-terrorism-cites-crime-from-trump-era.md",
+      "title": "Texas Gov. Greg Abbott Blames Biden for Cartel 'Terrorism,' Cites Crime From Trump Era",
+      "excerpt": "Abbott has also failed to mention that Trump publicly vowed to add the drug cartels to the foreign terror list but ultimately backed down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452",
+      "originalUrl": "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 272,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1773480/greg-abbott.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1",
+      "publishedDateTime": "2021-04-17T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-18-new-polls-show-trump-and-clinton-neck-and-neck.md",
+      "title": "New polls show Trump and Clinton neck-and-neck",
+      "excerpt": "New polls show that Democratic candidate Hillary Clinton has lost her double-digit lead in a matchup against GOP presumptive nominee Donald Trump. What does this mean for the November election? CBS News senior political editor Steve Chaggaris and Real Clear Politics national reporter Caitlin Huey-Burns join CBSN to discuss.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/new-polls-show-trump-and-clinton-neck-and-neck/",
+      "originalUrl": "https://www.cbsnews.com/video/new-polls-show-trump-and-clinton-neck-and-neck/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/17/e75f35d7-00c4-4727-8ef5-e6b7676e2239/thumbnail/1200x630/9ede9f7dc7d90a76b4d81fe55921898e/0523-cbsn-aph-trumpvsclintonanalysis-1067329-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-17T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-17-lawyers-doj-defense-in-trump-defamation-suit-is-dangerous.md",
       "title": "Lawyers: DOJ defense in Trump defamation suit is 'dangerous'",
       "excerpt": "Lawyers for a woman who is suing former President Donald Trump say the U.S. Justice Department made a “wrong and dangerous” argument in seeking to defend him",
@@ -10,7 +223,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/lawyers-doj-defense-trump-defamation-suit-dangerous-77135952",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -66,7 +279,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 155,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -108,6 +321,63 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-17-oath-keeper-becomes-first-to-plead-guilty-in-pro-trump-capitol-riot.md",
+      "title": "Oath Keeper Becomes First to Plead Guilty in Pro-Trump Capitol Riot",
+      "excerpt": "Jon Schaffer of Indiana admits to carrying bear spray and obstructing official proceedings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401",
+      "originalUrl": "https://www.wsj.com/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-326217/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401",
+      "publishedDateTime": "2021-04-16T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {
@@ -272,63 +542,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-17-this-pro-trump-latino-wants-to-lead-virginia.md",
-      "title": "This pro-Trump Latino wants to lead Virginia",
-      "excerpt": "Now, de la Peña, 65, who never sought elective office before, is using his life story to connect with voters as he seeks to become Virginia’s first ever Latino governor. He faces a crowded primary, which the Republican Party of Virginia will hold next month in an unassembled convention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/the-recast/2021/04/16/latino-trump-virginia-sergio-de-la-pena-492502",
-      "originalUrl": "https://www.politico.com/newsletters/the-recast/2021/04/16/latino-trump-virginia-sergio-de-la-pena-492502",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/6f/30/8635360e44c49f7a766287c92f14/sergio-de-la-pena.png",
-          "width": 700,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-16-donald-trump-is-ditching-the-spray-tan-hair-highlights-and-even-some-extra-pounds-as-he-mulls-his-political-future.md",
       "title": "Donald Trump is ditching the spray tan, hair highlights, and even some extra pounds as he mulls his political future",
       "excerpt": "Former President Donald Trump has lost weight and \"feels great\" nearly three months after leaving the White House, advisors say.",
@@ -430,63 +643,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-vernon-jones-a-pro-trump-republican-will-challenge-kemp-in-georgia.md",
-      "title": "Vernon Jones, a Pro-Trump Republican, Will Challenge Kemp in Georgia",
-      "excerpt": "Vernon Jones, a Democrat-turned Republican and onetime state representative who has called Georgia’s presidential election “fixed,” will oppose Gov. Brian Kemp, one of Donald Trump’s top targets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/15/us/vernon-jones-georgia-brian-kemp.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/15/us/vernon-jones-georgia-brian-kemp.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/13/us/politics/00VernonJonesGeorgia/00VernonJonesGeorgia-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/15/us/vernon-jones-georgia-brian-kemp.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/15/us/vernon-jones-georgia-brian-kemp.amp.html",
-      "publishedDateTime": "2021-04-15T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -706,7 +862,7 @@
       "originalUrl": "https://www.usatoday.com/story/tech/2021/04/14/sebastian-gorka-youtube-bans-former-trump-aide-over-election-claims/7220169002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -730,6 +886,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-trump-era-spike-in-israeli-settlement-growth-has-only-begun.md",
+      "title": "Trump-era spike in Israeli settlement growth has only begun",
+      "excerpt": "Satellite images and data obtained by The Associated Press document for the first time the full impact of the policies of then-President Donald Trump, who abandoned decades-long U.S. opposition to ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/International/wireStory/trump-era-growth-settlement-growth-begun-77061171",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/trump-era-growth-settlement-growth-begun-77061171",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/WireAP_a04df8fa0413470e90547a8e116fc562_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/trump-era-growth-settlement-growth-begun-77061171",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/trump-era-growth-settlement-growth-begun-77061171",
+      "publishedDateTime": "2021-04-13T23:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -784,63 +992,6 @@
         "name": "New York Post",
         "domain": "nypost.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-pollsters-say-they-undercounted-republicans-trump-supporters-in-2020.md",
-      "title": "Pollsters Say They Undercounted Republicans, Trump Supporters in 2020",
-      "excerpt": "One report, released Tuesday by five Democratic polling firms, finds that their surveys undercounted voters who viewed former President Donald Trump as “presidential.’’ Another, by the nonpartisan Pew Research Center, concluded that obtaining the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142",
-      "originalUrl": "https://www.wsj.com/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-324404/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142",
-      "publishedDateTime": "2021-04-13T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1167,6 +1318,63 @@
       ]
     },
     {
+      "path": "_news/2021-04-13-ohio-republican-senate-candidate-running-as-a-trump-ally-once-called-him-a-maniac.md",
+      "title": "Ohio Republican Senate candidate running as a Trump ally once called him a 'maniac'",
+      "excerpt": "CLEVELAND — As a Republican Senate candidate in Ohio, businessman Bernie Moreno hews close to former President Donald Trump’s brand. The car dealer and blockchain technology entrepreneur from the Cleveland area presents himself in much the same ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/ohio-republican-senate-candidate-running-trump-ally-once-called-him-n1263886",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/ohio-republican-senate-candidate-running-trump-ally-once-called-him-n1263886",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_15/3464194/210412-bernie-moreno-snip-ac-933p_bb15893a22226c0d44924385f24dd0ae.JPG",
+          "width": 1106,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1263886",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263886",
+      "publishedDateTime": "2021-04-12T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-subpoenaing-the-brookings-institution-durham-focuses-on-trump-russia-dossier.md",
       "title": "Subpoenaing the Brookings Institution, Durham Focuses on Trump-Russia Dossier",
       "excerpt": "Greg Kahn for The New York Times By Charlie Savage and Adam Goldman WASHINGTON — Exiled from Twitter, former President Donald J. Trump issued a sarcastic statement recently inquiring about the ongoing public silence from John H. Durham, the special ...",
@@ -1276,58 +1484,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-12-analysis-bidens-agencies-reverse-trumps-wall-street-friendly-rules.md",
-      "title": "Analysis: Biden's agencies reverse Trump's Wall Street-friendly rules",
-      "excerpt": "WASHINGTON (Reuters) - U.S. President Joe Biden’s interim regulators are wasting no time unraveling Wall Street-friendly measures introduced under former Republican President Donald Trump, using quick-fix legal tactics. They have spiked or stalled more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-financial-regulators-analys/analysis-with-quick-fixes-bidens-agencies-reverse-trumps-wall-street-friendly-rules-idUSKBN2BZ16N",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-financial-regulators-analys/analysis-with-quick-fixes-bidens-agencies-reverse-trumps-wall-street-friendly-rules-idUSKBN2BZ16N",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 880,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558148325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B0MK",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BZ16N",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BZ16N",
-      "publishedDateTime": "2021-04-12T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-04-12-rep-liz-cheney-criticized-trump-for-embracing-insurrection-in-a-wild-speech-deepening-a-gop-rift.md",
       "title": "Rep. Liz Cheney criticized Trump for 'embracing insurrection' in a wild speech, deepening a GOP rift",
       "excerpt": "An envelope. It indicates the ability to send an email. Rep. Liz Cheney criticized former president Donald Trump for continuing to use the incendiary rhetoric that she claims provoked the January 6 riot at the US Capitol. Cheney was responding to a wild ...",
@@ -1380,63 +1536,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-12-old-trump-health-team-rivalries-resurface-in-texas-house-race.md",
-      "title": "Old Trump health team rivalries resurface in Texas House race",
-      "excerpt": "A senior Trump health official’s bid to become the first administration alumnus elected to Congress is running into resistance from an unlikely source: his own former colleagues. Brian Harrison, a chief of staff to former Health and Human Services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/12/trump-health-texas-house-race-480689",
-      "originalUrl": "https://www.politico.com/news/2021/04/12/trump-health-texas-house-race-480689",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/9f/95/6083ce4d4093a63bafe1c7155074/gettyimages-906623620-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689",
-      "publishedDateTime": "2021-04-12T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-12-arkansas-governor-says-divisive-trump-attacks-on-gop-officials-are-unhelpful.md",
       "title": "Arkansas governor says 'divisive' Trump attacks on GOP officials are 'unhelpful'",
       "excerpt": "on Sunday said he was concerned about the divisions in the GOP and criticized former President Trump Donald Trump Harry Reid reacts to Boehner book excerpt: 'We didn't mince words' Man arrested ...",
@@ -1469,115 +1568,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-sen-thune-not-afraid-of-a-fight-if-trump-backs-a-challenger-in-2022.md",
-      "title": "Sen Thune not 'afraid of a fight' if Trump backs a challenger in 2022",
-      "excerpt": "Sen. John Thune, R-S.D., said that he is not \"afraid of a fight\" if former President Donald Trump campaigns against him in 2022 after being labeled a \"weak and inneffective RINO\" by him earlier in the year. \"I've been through wars in South Dakota ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate",
-      "originalUrl": "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Thune-Trump.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-thune-donald-trump-2022-senate.amp",
-      "publishedDateTime": "2021-04-11T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-exclusive-john-boehner-says-donald-trump-abused-his-loyalists-by-lying-to-them.md",
-      "title": "Exclusive: John Boehner says Donald Trump 'abused' his loyalists by lying to them",
-      "excerpt": "And the election of the even more disruptive Donald Trump as president. Boehner's new book, being published Tuesday by St. Martin's Press, is titled \"On the House: A Washington Memoir.\" But it is unlike the classic Washington memoir, those soft-focus ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/04/11/john-boehner-says-trump-abused-his-loyalists-lying-them/7074030002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/04/11/john-boehner-says-trump-abused-his-loyalists-lying-them/7074030002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/04/09/USAT/bd333c30-2b30-4e72-8ea0-d705680ef3ae-XXX_20210405_Boehner_JK001.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7074030002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7074030002",
-      "publishedDateTime": "2021-04-11T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

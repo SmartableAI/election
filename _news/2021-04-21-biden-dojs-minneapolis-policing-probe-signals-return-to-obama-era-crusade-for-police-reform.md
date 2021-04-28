@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "GOP Reps warn against Biden administration's 'dangerous' and 'divisive' critical race theory push"
+    excerpt: "A proposed rule by President Joe Biden's Department of Education would use taxpayer dollars to incorporate into America's classrooms what critics say is \"dangerous\" curriculum."
+    publishedDateTime: 2021-04-28T00:13:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ycGZpUsjJEg/biden-critical-race-theory-push"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-critical-race-theory-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-critical-race-theory-push.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f9251b3-1815-4f83-8ae5-bf7ee86d10c6/b4319389-c2f3-4a5d-b119-d3835bb75182/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "I0BFlzjABHtka9MTzqdw0qTG4FztXsKYCwwyLrF5EjWJVvO4Zm8pskQTDVYmYwOiiTl8DYejMwsdCbhKAUoKb2qDIjgHwn977wRGlmcM30b3aTh1LA9RQzDEkkQEun41JgHBMGGYVrInUyv82813t0+TKi31TYkDlyXT3azC2xKQTwpQQ8Y1nRfNjjFGmtoDnky7MJxUQKg19hXZfuDyHbRovwgSLle38IUgS4pZKtiMUFf9RFVeMHz++hyMQ0SNH6i1K22z9UstkgDQjTkTls6ibCYdsxa/oD+UMcD6G31QF2jMe1m10tLCH1aLNnpvs2E8eieYqEqVFWUripPDgRfdQua3osKZsdPcx45hQO4=;FZJNk+vSSF8BLDpTu89Vnw=="
 ---

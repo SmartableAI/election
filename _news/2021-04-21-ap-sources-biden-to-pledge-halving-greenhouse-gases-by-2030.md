@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pledg
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769"
 type: article
 quality: 125
-heat: 265
+heat: 205
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Latest: Biden administration opens global climate summit"
-    excerpt: "The Latest on President Joe Biden’s global climate summit (all times local): 8 a.m. Support our journalism. Subscribe today. The Biden administration has opened a global climate summit including 40 world leaders."
-    publishedDateTime: 2021-04-22T12:12:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-administration-opens-global-climate-summit/2021/04/22/2991c356-a363-11eb-b314-2e993bd83e31_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-administration-opens-global-climate-summit/2021/04/22/2991c356-a363-11eb-b314-2e993bd83e31_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-administration-opens-global-climate-summit/2021/04/22/2991c356-a363-11eb-b314-2e993bd83e31_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I3JQUJFDOII6XMYUF2MTXWB6GE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Biden's first address to Congress is invite-only"
     excerpt: "Only invited members of Congress will be allowed to attend President Biden's address to a Joint Session of Congress on Wednesday, and the event \"will be invitation-only for a limited number of members of Congress,"
     publishedDateTime: 2021-04-24T11:07:00Z
@@ -62,6 +46,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/23/ab8ef0e0-16b8-48e8-b2fe-3232ed54766b/thumbnail/1200x630/24c3ca048ad637f5d5327bc25562f187/gettyimages-1232457998.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Joe Biden raises minimum wage to $15 an hour for federal contractors"
+    excerpt: "President signed an executive order that will provide a pay bump to thousands of workers, some who make as little as $10.95 an hour"
+    publishedDateTime: 2021-04-27T23:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/27/joe-biden-minimum-wage-raise-federal-contractors"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/27/joe-biden-minimum-wage-raise-federal-contractors"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/27/joe-biden-minimum-wage-raise-federal-contractors"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a4a9f1cfc7e18030a47033c96025932d63f24223/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4370a6b535660a7964baab66405bc61e"
+        width: 600
+        height: 360
         isCached: true
   - title: "Power companies urge Biden to implement policies to cut emissions 80% by 2030"
     excerpt: "A group of U.S. electricity companies wrote to President Joe Biden this week saying it will work with his administration and Congress to design a broad set of policies to reach a near-term goal of slashing the sector's carbon emissions by 2030."
@@ -79,38 +79,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "At Earth Day climate summit, Biden promises 50% reduction in US greenhouse emissions"
-    excerpt: "President Joe Biden announced the goal of reducing greenhouse gas emissions by 50% as he kicked off a climate summit with 40 other world leaders."
-    publishedDateTime: 2021-04-22T14:29:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/22/president-biden-pledge-reduction-us-greenhouse-gas-emissions/7307038002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7307038002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7307038002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2020/10/05/USATODAY/usatsports/getty-emissions-refinery-flaring.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "President Biden urges businesses to use paid leave to help workers get COVID-19 vaccines"
-    excerpt: "President Joe Biden urged businesses to help workers get vaccinated while announcing he met early the goal of 200 million shots in 100 days."
-    publishedDateTime: 2021-04-21T20:26:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/21/biden-announce-meeting-goal-200-million-covid-19-shots/7317454002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7317454002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7317454002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/06/USAT/fa33ba7c-c6c9-4f0e-b205-413e952eb5a5-AP_Biden_1.jpg?auto=webp&crop=4281,2409,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "'Existential crisis of our time': Joe Biden pledges to halve US emissions by 2030 – video"
     excerpt: "The goal, unveiled at the start of a two-day climate summit hosted by President Joe Biden, comes as the United States seeks to reclaim global leadership in the fight against global warming after former president Donald Trump withdrew the country from international efforts to cut emissions."
     publishedDateTime: 2021-04-22T12:50:00Z
@@ -124,22 +92,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/c08fbea90e2a5f93a98cb8b9c96ab96236eae02b/0_150_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b7c1c0ced33c0d8c62508ab5a7f77dc"
         width: 1200
         height: 630
-        isCached: true
-  - title: "US President Joe Biden to visit UK for first overseas trip"
-    excerpt: "The president will come to Cornwall for the G7 summit from 11-13 June, where he will meet with other world leaders, including Prime Minister Boris Johnson."
-    publishedDateTime: 2021-04-24T11:33:00Z
-    webUrl: "https://www.bbc.co.uk/newsround/56870420"
-    ampWebUrl: "https://www.bbc.co.uk/newsround/56870420.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/56870420.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/E0D5/production/_118175575_hi066931757.jpg"
-        width: 640
-        height: 360
         isCached: true
 
 secured: "zOuvIhkAZQrH2aJCEZW/Xd4cv9PxxHmqf3pgxmyxZJm5TZoh6zQvCOPax6+npkWMA6rboqe3FgFUCjH5Vm7Eh/FfmhiBGiyiAaqnkxLX5mgfHTDX3J8iHGOKuKq+lC1+TmE1NX0Q4d7o+ebd6XBWWGftRLZYWDUhJ3ZiIgVWt4CnHKt6lJl6ZNqY6DreAfhx6LevCR9CNgs2Onq3nWVRmSF5A5pKuOT7JcxmyKPNvBzPuM1MMxo6e4+2XYYGOWJLi+AQtMlAINkxKsdnGWfo/YILPrMjmuAl5+Imy8jK0nBhQSkVRmLdGf6Szm2puzxRMViFvDZraNIGu8oDcoykvvEzR5G5UOLog59IzFXiYw1ywU8vkWDnimekWypsz6FZNGvz+4tziPPxMcXdH04J95tQxmuWbMwJ8K0Utd2ghNVA9kA5dVOoXJGz5bU/d9Q8Tqq//mR1ManDlRitNOQxa2yb+zIzsROKPyt4+h5A1sd6tKg9uOJfCaFG6cAqsohD3yE1zYaZ1FhqsC1Ne0LD7w==;KBA2fXGJ1dDWHQQtJvB5kQ=="

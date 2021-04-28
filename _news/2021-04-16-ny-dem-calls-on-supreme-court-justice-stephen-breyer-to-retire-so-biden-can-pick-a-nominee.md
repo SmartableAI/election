@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Zeldin slams Pelosi for praising Biden's handling of border: 'She is a dishonest hack'"
+    excerpt: "House Speaker Nancy Pelosi, D-Calif., is a \"dishonest hack\" who needs to be replaced by someone new in Congress, Rep. Lee Zeldin, R-N.Y., told \"Fox & Friends\" on Thursday."
+    publishedDateTime: 2021-04-08T13:53:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_mtWpY9qUas/rep-zeldin-slams-pelosi-for-praising-bidens-handling-of-border"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-zeldin-slams-pelosi-for-praising-bidens-handling-of-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-zeldin-slams-pelosi-for-praising-bidens-handling-of-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Kennedy say 'wokers' want 'politicians in robes,' vows 'hell of a fight' if Biden tries to pack court"
     excerpt: "Sen. John Kennedy, R-La., said Monday that there will be a 'hell of a fight' if President Biden caves to the 'wokers' who want to pack the Supreme Court. "
     publishedDateTime: 2021-04-12T14:38:36Z
@@ -62,22 +78,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Joe Concha: Biden's Supreme Court commission outcome is a likely one"
-    excerpt: "Fox News contributor and The Hill opinion columnist Joe Concha argued on 'Fox & Friends' Sunday that President Biden's Supreme Court commission is \"all window dressing,\" saying members of the commission will likely come to a conclusion that sides with Biden."
-    publishedDateTime: 2021-04-11T16:40:00Z
-    webUrl: "https://www.foxnews.com/politics/joe-concha-supreme-court-commission"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-concha-supreme-court-commission.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-concha-supreme-court-commission.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52572f02-94b6-45ee-8fe4-0071fa5b10ba/81856677-392f-4851-8704-576ba111c3fa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Karl Rove slams Biden's pick to head Supreme Court commission as 'political hack'"
     excerpt: "DNC general counsel. In the 2020 election, he helped Biden vet his vice presidential running mates, and then in the debate prep played Donald Trump in the debate prep for Joe Biden. So here we have a very touchy issue, should we or should we not expand the ..."

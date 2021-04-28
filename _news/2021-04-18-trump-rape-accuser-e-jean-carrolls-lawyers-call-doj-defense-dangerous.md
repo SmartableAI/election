@@ -47,22 +47,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Jack Dorsey defends banning Trump but admits it sets 'dangerous' precedent"
-    excerpt: "Jack Dorsey opened up about the decision to ban President Donald Trump from the platform in a thread, saying he feels the action sets a \"dangerous\" precedent."
-    publishedDateTime: 2021-01-14T20:14:00Z
-    webUrl: "https://abcnews.go.com/Business/jack-dorsey-defends-banning-trump-admits-sets-dangerous/story?id=75248908"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/jack-dorsey-defends-banning-trump-admits-sets-dangerous/story?id=75248908"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/jack-dorsey-defends-banning-trump-admits-sets-dangerous/story?id=75248908"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 123
-    images:
-      - url: "https://s.abcnews.com/images/Business/jack-dorsey2-01-gty-iwb-210114_1610635295543_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "7rbk13xv4JBhT8bL99cDwmYqbMlivZyVHmMDHZZ8MoObvH6nZY7rH9OUUsdCgeXligsbUuARLlQw0TwZEXiT2brR1D5lcgHVdh+IHTFtJ1+5DbqOEtAz8czUHIOlKmCAUFLQpgxQztST1uXRxiPNDbZS9KRedDj8pjsr1zZydJuRxGFFTB0HxqVphW8JyXOIUgGYLc1/7f/Kx4hIDcdzxaxtiqIooGEF9SNmXSR68NpGaV2/H7vA3mW1+8yEyETV/AF7v9+ytyQIyNySuCzcN7qmlSvjYMNSpZzrxjJpFFXO6E9Xp3NYRz0HZC8iPtqXt1w5JS5oi7qumbkJTERK1z7mS6NS7+1iVxfT53lR6uAWz1bgcoB7p9AXX3AggU5RTfxatUHvx1IkkeKv+7JS1Bu/Le4iAfQyjBtb+UsDNtUdaguruLXbkUJmMRQV5lzy6d1JLReRFkyaW70pGnsF1do1rfyfut9LsVnichykm9qyk1caWIzQl7Ypsn0zvYnIz5KdXr7mzDPaOYeQDhBNzA==;wyCc3jhPqRYTDazODpAJXQ=="
 ---

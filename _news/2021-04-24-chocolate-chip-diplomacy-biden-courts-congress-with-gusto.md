@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/chocolate-chip-diploma
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/chocolate-chip-diplomacy-biden-courts-congress-gusto-77283438"
 type: article
 quality: 125
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 992
     height: 558
     isCached: true
-
-related:
-  - title: "Greta Thunberg testifies before Congress as Biden kicks off climate summit – live"
-    excerpt: "House subcommittee holds hearing on fossil fuels with climate activist as Biden says at summit: ‘No nation can solve this crisis on our own’"
-    publishedDateTime: 2021-04-22T14:36:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/22/joe-biden-climate-summit-greta-thunberg-testify-congress-latest-updates?page=with:block-6081750d8f08a84aa591acaa"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/22/joe-biden-climate-summit-greta-thunberg-testify-congress-latest-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/22/joe-biden-climate-summit-greta-thunberg-testify-congress-latest-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/ddb8bed6fafeb49dcfb81e736e9af0071d60a00e/0_153_5600_3362/master/5600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=664b12f6fe0a93b3b3631fe91702348f"
-        width: 600
-        height: 360
-        isCached: true
 
 secured: "2xz2fuePly8yA8HW4+rgH0lVodDSMbOTminjWugo+CbbW85F7TGbaNVaqKpp9XRyWzELNNCvQGa/RNWwX/2KYG7nDkvINGi+eKbkMDUdUC9G9Ylqqth5dUGopyk5g506g9NyCxGeg0FGemwCwNELWy8sCc2jswir9BTGgNzNNlcP3tsrM8NL30q/bT9d5i4TAreKYYo446I8hF/Ylm4sJOtHBRcG5KIpjwJkOp756E0kpPR4YfbEPJSxm4BxC8zIWIIX+muWeLJHgYn768GPXyEDJXW+eXjiHZhwaQ23O2waXWyXAKAeA+dV55tc1kBaPnl7GiLsATI2Ro9q/UFcYybchJNiwJeLatR4wESwzo3XX0YXYSgBzOg/5ZZuxVEQT/IRS/S4gSyUbawJdqI+09CAV/SZlFjVEol+eUJJdQY/CdnHZr1kChjtPnBSeH/XzoghhEw8TtwMZiN3uXXaIVYSZgfDexnHr2oHDx3MYtbLSnyXFAqx5fVSoRVMmfAlDlaJejlHB4SQafHOBN8EKw==;9V4jBstz6trox2GjrjgiNA=="
 ---

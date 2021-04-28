@@ -26,357 +26,133 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says it's his 'expectation' to run for reelection in 2024, makes Trump quip"
-    excerpt: "President Biden says it's his \"expectation\" that he'll run for reelection in 2024."
-    publishedDateTime: 2021-03-25T18:41:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xOuurxCSZ_E/biden-expectation-run-re-election-2024-trump-quip"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expectation-run-re-election-2024-trump-quip.amp"
+  - title: "Biden reverses Trump, lifts sanctions on International Criminal Court"
+    excerpt: "President Biden on Friday reversed Trump-era foreign policies by lifting sanctions and removing visa restrictions on officials of the International Criminal Court (ICC)."
+    publishedDateTime: 2021-04-03T00:21:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXGPm2re3qU/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 200
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91d04a2f-0fcc-4e80-a4db-39df11088247/3c84e3f6-2c0a-488c-93d2-6bbf39b4ec59/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump endorses GOP Kentucky Sen. Rand Paul for reelection in 2022"
+    excerpt: "Former President Donald Trump endorsed GOP Kentucky Sen. Rand Paul for reelection on Thursday, affirming his support for the longtime senator ahead of the 2022 midterms."
+    publishedDateTime: 2021-04-08T21:59:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cb8HUiUsXdQ/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a70ea2ed-ad0d-4165-8d02-83e4d493ca4f/3be61b07-b2e2-48c8-b609-6bd57a9d554b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Former Trump official Hogan Gidley to launch election integrity nonprofit"
+    excerpt: "EXCLUSIVE: Former Trump campaign national press secretary and former White House principal deputy press secretary Hogan Gidley is launching a nonprofit to advocate for the passage of \"constitutional election integrity laws\" in all states across the nation ahead of the 2022 midterms and beyond, Fox News"
+    publishedDateTime: 2021-04-09T14:20:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/neWokFLGmzQ/hogan-gidley-election-integrity-nonprofit"
+    ampWebUrl: "https://www.foxnews.com/politics/hogan-gidley-election-integrity-nonprofit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hogan-gidley-election-integrity-nonprofit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump, at CPAC, expected to hammer Biden on immigration, China"
-    excerpt: "Former President Donald Trump will hammer President Biden on everything from immigration to China when he addresses the Conservative Political Action Committee (CPAC) on Sunday, sources familiar with the speech told Fox News."
-    publishedDateTime: 2021-02-24T18:47:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WMBwBEmF12c/trump-cpac-biden-immigration-china"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-cpac-biden-immigration-china.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-biden-immigration-china.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a2ad743-1535-4a2f-a170-004d8af27903/8a68237d-7266-4ba0-a12b-ade26928c40a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Mayorkas blames migrant surge on Trump admin, not Biden policies"
-    excerpt: "Secretary of Homeland Security Alejandro Mayorkas has claimed that the number of people looking to enter the U.S. at the sourthern border could be the highest in 20 years, but in an interview with \"Fox News Sunday\" he claimed that this is because of the Trump administration's actions, not policy changes"
-    publishedDateTime: 2021-03-21T14:19:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BIDIVzX8FQQ/mayorkas-blames-migrant-surge-trump-admin-biden-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump-admin-biden-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-blames-migrant-surge-trump-admin-biden-policies.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "‘Small’ crowd, including Trump supporters, greets Biden in Ohio: Report"
-    excerpt: "President Biden arrived to speak in Columbus, Ohio on Tuesday where a “small” crowd of supporters and protesters awaited his arrival, according to a local report.‘Small’ crowd of supporters, protesters greet Biden in Ohio: Report"
-    publishedDateTime: 2021-03-24T01:47:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Poub1EAaMVM/small-crowd-supporters-protesters-biden-ohio"
-    ampWebUrl: "https://www.foxnews.com/politics/small-crowd-supporters-protesters-biden-ohio.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/small-crowd-supporters-protesters-biden-ohio.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7c6cbd3-e71e-4b05-90e4-e76b256c377c/bc6920e9-8bcb-4f47-b5e5-cf4d146b3c0e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump endorses incumbent Georgia GOP head for reelection"
-    excerpt: "President Trump waded into the race to head Georgia’s GOP to endorse incumbent David Shafer on Wednesday. "
-    publishedDateTime: 2021-03-24T21:25:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8hUc8MOjSlk/trump-endorses-incumbent-georgia-gop-head-for-reelection"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-incumbent-georgia-gop-head-for-reelection.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-incumbent-georgia-gop-head-for-reelection.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20334644546013-e1606925054815.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump DHS officials slam Biden ‘purge’ of Homeland Security Advisory Council"
-    excerpt: "Former Trump officials who served in the Department of Homeland Security are criticizing a move by the Biden administration to fire almost every member of the Homeland Security Advisory Council -- with one describing it as a \"purge\" designed to rinse the Council of opposing voices."
-    publishedDateTime: 2021-03-27T22:08:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jBommbVsgJs/trump-dhs-officials-biden-purge-homeland-security-advisory-council"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-dhs-officials-biden-purge-homeland-security-advisory-council.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-officials-biden-purge-homeland-security-advisory-council.amp"
+  - title: "Biden administration announces sky-high border numbers, looks to blame Trump"
+    excerpt: "Border officials encountered 172,000 migrants at the border in March, a 71% increase from February and the latest indicator of the extent of the crisis at the southern border -- but one that Biden officials are trying to blame on the Trump administration."
+    publishedDateTime: 2021-04-08T14:17:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8t2DGSkoERY/biden-sky-high-border-numbers-blame-trump-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sky-high-border-numbers-blame-trump-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sky-high-border-numbers-blame-trump-administration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 187
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43a577c3-e4f2-407b-8af6-927ba0215463/e4a52120-962a-4d8a-805d-6cf4e778e780/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a679449b-292e-4177-bc71-bacd46e8a9cd/0591600b-3003-42e9-8a15-7ff731a24268/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden offers veiled criticism of Trump in visit to CDC, says 'science is back'"
-    excerpt: "President Biden visited the Centers for Disease Control and Prevention in Georgia on Friday, touting health officials for having “changed things” in a way to “make everyone healthier\" amid the coronavirus pandemic. "
-    publishedDateTime: 2021-03-19T19:49:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-i5jfAJnoKI/biden-harris-visit-cdc-say-science-is-back-coronavirus-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-visit-cdc-say-science-is-back-coronavirus-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-visit-cdc-say-science-is-back-coronavirus-pandemic.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 186
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Operation Warp Speed Doc: 90% of Biden vaccine rollout plan was same as Trump's"
-    excerpt: "Slaoui pointed to the manufacturing, supply and distribution of the vaccine as being essentially the same as what Trump planned to do."
-    publishedDateTime: 2021-03-21T16:17:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MpqWgiUbPXg/operation-warp-speed-doc-90-of-biden-vaccine-rollout-plan-was-same-as-trumps"
-    ampWebUrl: "https://www.foxnews.com/politics/operation-warp-speed-doc-90-of-biden-vaccine-rollout-plan-was-same-as-trumps.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/operation-warp-speed-doc-90-of-biden-vaccine-rollout-plan-was-same-as-trumps.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 186
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/slaoui.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump slams Biden immigration policies: ‘There’s nothing, there’s no leadership’"
-    excerpt: "Former President Donald Trump blasted Joe Biden's handling of the border crisis Saturday, saying ICE and Border Patrol were 'dying for leadership.' "
-    publishedDateTime: 2021-03-28T01:52:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kajE50aS9EU/trump-slams-biden-immigration-policies-theres-nothing-theres-no-leadership"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-biden-immigration-policies-theres-nothing-theres-no-leadership.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-biden-immigration-policies-theres-nothing-theres-no-leadership.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden makes 'no apologies' at news conference for ending Trump-era migrant protocols"
-    excerpt: "President Biden on Thursday said that he makes \"no apologies\" for ending a variety of former President Donald Trump's immigration policies, including the Migrant Protection Protocols (MPP), also known as the \"Remain in Mexico\" policy. "
-    publishedDateTime: 2021-03-25T18:44:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hn2_-683JZY/biden-news-conference-ending-trump-era-migrant-protocols"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-news-conference-ending-trump-era-migrant-protocols.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-news-conference-ending-trump-era-migrant-protocols.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Stephen Miller slams Biden for 'detestable lie' and 'smear' about Trump border policy"
-    excerpt: "Former Trump senior adviser Stephen Miller ripped President Biden’s \"detestable lie\" that his predecessor let migrant children starve to death, telling \"Fox News Primetime\" Thursday it was a \"smear against patriotic border agents.\""
-    publishedDateTime: 2021-03-26T00:32:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HPWbKUuhVO0/stephen-miller-biden-destable-lie-smear-trump-border-policy"
-    ampWebUrl: "https://www.foxnews.com/politics/stephen-miller-biden-destable-lie-smear-trump-border-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-biden-destable-lie-smear-trump-border-policy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Former President Trump slams Biden for migrant surge: ‘They’re destroying our country’"
-    excerpt: "Former President Trump ripped President Biden and his administration over the migrant surge at the U.S. border during an exclusive interview on “The Faulkner Focus” on Monday, arguing that the Biden administration is “destroying our country.”"
-    publishedDateTime: 2021-03-22T15:30:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A3O-hpXO4rM/trump-slams-biden-border-crisis-migrant-surge-destroying-country"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-biden-border-crisis-migrant-surge-destroying-country.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-biden-border-crisis-migrant-surge-destroying-country.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden WH claims Trump ‘eschewed’ science, amid criticism for health protocols at border"
-    excerpt: "The White House on Monday announced it will review policies put in place by President Donald Trump \"that eschewed scientific integrity\" – while at the same time coming under fire for health protocols at increasingly packed migrant facilities at the border."
-    publishedDateTime: 2021-03-30T16:07:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fS1uFYVMjY0/biden-white-house-trump-science-health-protocols-border"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-trump-science-health-protocols-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-trump-science-health-protocols-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ac1f70a9-6005-43ab-927f-622438214493/8623ce1b-df84-40ed-815d-3d723d4d84d1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Marsha Blackburn calls to restore Trump immigration protocol: Biden has ‘broken the border’"
-    excerpt: "The Biden administration \"has broken the border,\" Sen. Marsha Blackburn, R-Tenn., said on Wednesday after witnessing cartels exploiting the ongoing migrant surge."
-    publishedDateTime: 2021-03-24T20:12:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CJ2aTK5B-Qg/blackburn-trump-protocol-biden-broken-border"
-    ampWebUrl: "https://www.foxnews.com/politics/blackburn-trump-protocol-biden-broken-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blackburn-trump-protocol-biden-broken-border.amp"
+  - title: "Biden to keep refugee admissions at Trump-era levels, despite earlier moves to increase it"
+    excerpt: "President Biden is keeping refugee admissions at 15,000 this fiscal year -- the level set at the end of the Trump administration -- despite earlier proposals to dramatically increase it to over 60,000."
+    publishedDateTime: 2021-04-16T17:36:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ta0eNJnNG6w/biden-keep-refugee-admissions-trump-era-levels"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-keep-refugee-admissions-trump-era-levels.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keep-refugee-admissions-trump-era-levels.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 180
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden task force to review times Trump administration 'eschewed' science in favor of politics"
-    excerpt: "The Biden administration revealed on Monday that it will carry-out an interagency review of scientific policies in place across the federal government, including some implemented by President Donald Trump’s administration that “eschewed scientific integrity.”"
-    publishedDateTime: 2021-03-29T23:44:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k0k-Y_yHmCA/wh-task-force-review-trump-administration-science"
-    ampWebUrl: "https://www.foxnews.com/politics/wh-task-force-review-trump-administration-science.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wh-task-force-review-trump-administration-science.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a96302ce-c1eb-4480-9f65-64d6b2e57c25/d938cd6a-f738-4a93-9982-96991644ddf3/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd344368-8532-4513-b2d1-a2efb623f115/dfd26a02-8311-4908-944a-cb8c76d596ef/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "CBP warned Biden admin of massive surge if Trump policies were reversed: Texas congresswoman"
-    excerpt: "Texas Congresswoman Beth Van Duyne said Tuesday that the Biden administration was warned of a massive surge by CPB officials if the Trump era policies were reversed. "
-    publishedDateTime: 2021-03-30T13:21:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lyceDMrsmjs/cbp-officials-warned-biden-admin-migrant-surge-trump-policies-texas-congresswoman"
-    ampWebUrl: "https://www.foxnews.com/politics/cbp-officials-warned-biden-admin-migrant-surge-trump-policies-texas-congresswoman.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cbp-officials-warned-biden-admin-migrant-surge-trump-policies-texas-congresswoman.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden's border 'cover-up' needs to be investigated by Congress, says former Trump DHS official"
-    excerpt: "Former Assistant DHS Secretary for Public Affairs under Trump, Alexei Woltornist, called on Congress Tuesday to investigate the Biden administration's border crisis 'cover-up.' "
-    publishedDateTime: 2021-03-23T13:11:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rI4ys78yicw/biden-border-cover-up-investigated-congress-trump-dhs-immigration"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-cover-up-investigated-congress-trump-dhs-immigration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-cover-up-investigated-congress-trump-dhs-immigration.amp"
+  - title: "Trump calls Biden jobs plan 'massive giveaway to China,' says it will 'crush American workers'"
+    excerpt: "Former President Donald Trump called President Biden's jobs plan a \"monstrosity\" that \"would be among the largest self-inflicted economic wounds in history.\""
+    publishedDateTime: 2021-03-31T18:36:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u3eAlRuK2Rw/trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 178
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a737b5f6-c3b1-44f9-ad3c-eaf38f3b8c2a/6499a067-3aad-4067-ab61-c8b877d137f8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden 'torched his message of unity' in press conference remark about Trump and 2024: Pollster"
-    excerpt: "Pollster Lee Carter explains why the president got a failing grade from Republicans and Independents when discussing the 2024 election."
-    publishedDateTime: 2021-03-26T13:27:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gf-0k3u-YXM/biden-press-conference-trump-2024-torched-message-unity"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-press-conference-trump-2024-torched-message-unity.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-conference-trump-2024-torched-message-unity.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 178
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump rips Biden for halting border wall construction, says countries are losing respect for US"
-    excerpt: "Former President Donald Trump joined \"Justice with Judge Jeanine\" Saturday, criticizing President Biden for stopping construction of the border wall."
-    publishedDateTime: 2021-03-28T01:49:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cf-zxkNraS0/trump-rips-biden-for-halting-border-wall-construction-says-countries-are-losing-respect-for-us"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-rips-biden-for-halting-border-wall-construction-says-countries-are-losing-respect-for-us.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rips-biden-for-halting-border-wall-construction-says-countries-are-losing-respect-for-us.amp"
+  - title: "Biden dog poops on White House floor"
+    excerpt: "A pool report on Wednesday detailed a rather unusual event at the White House, which the late painter Bob Ross would not refer to as a \"happy little accident.\""
+    publishedDateTime: 2021-03-31T18:48:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V3h4pzUUeDI/biden-dogs-major-champ-poop-white-house-floor"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dogs-major-champ-poop-white-house-floor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dogs-major-champ-poop-white-house-floor.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 178
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Border crisis can be 'fixed' in a week if Biden returns to Trump immigration policies: Sen. Kennedy"
-    excerpt: "The migrant crisis at the U.S. southern border could be fixed in a week if President Biden returns to the Trump-era immigration policies that he has rolled back since taking office in January, Sen. John Kennedy, R-La., said Sunday."
-    publishedDateTime: 2021-03-28T17:46:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7rcSJlwU9Po/border-crisis-biden-trump-immigration-policies-senator-john-kennedy"
-    ampWebUrl: "https://www.foxnews.com/politics/border-crisis-biden-trump-immigration-policies-senator-john-kennedy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-biden-trump-immigration-policies-senator-john-kennedy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c3117d5-9fca-4d0e-bd31-fa0a255cc0f9/147b2cc9-8365-4641-958f-cb6d41c5d719/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cca4008a-2a4d-4d2e-bc85-ae6be0f4aa54/91363c3b-dcac-4a27-8d1e-db22371f392e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden White House says it's ready to have 'frank conversation' with China"
-    excerpt: "The White House said the Biden administration is ready to have a \"frank conversation\" with China and is negotiating from a position of \"strength,\" as officials hold tense bilateral talks with Beijing. "
-    publishedDateTime: 2021-03-19T17:58:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-OqQlpkMLDU/biden-white-house-conversation-china"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-conversation-china.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-conversation-china.amp"
+  - title: "National Archives will share Trump tweets censored on Twitter"
+    excerpt: "The National Archives and Records Administration confirmed Wednesday that it is working to make publicly available tweets from former President Trump that Twitter has taken down and pledged not to allow back on its platform."
+    publishedDateTime: 2021-04-07T21:33:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OcSh2ZvfVhE/national-archives-will-share-donald-trump-tweets-censored-on-twitter"
+    ampWebUrl: "https://www.foxnews.com/politics/national-archives-will-share-donald-trump-tweets-censored-on-twitter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/national-archives-will-share-donald-trump-tweets-censored-on-twitter.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Migrant says he came to US border because Biden was elected, would not have tried to cross under Trump"
-    excerpt: "A South American migrant who recently crossed the U.S.-Mexico border said he did so \"basically\" because Joe Biden was elected president and would not have tried to cross under former President Donald Trump."
-    publishedDateTime: 2021-03-21T17:29:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tTw7TvKNrXw/migrant-border-crossing-biden-elected-not-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/migrant-border-crossing-biden-elected-not-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-border-crossing-biden-elected-not-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff1b937-e2c0-475b-88a1-41022e4da23a/3715dc97-fb6e-47cb-ab5f-a4594a10b69e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20334644546013-e1606925054815.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Hannity, Lara Trump slam Biden administration, Democrats as migrant children prioritized over US students"
     excerpt: "In his \"Opening Monologue\" on Tuesday, \"Hannity\" host Sean Hannity ripped the Biden administration over the illegal immigration crisis, going on to slam the San Diego school district for providing in-person teaching to illegal immigrants while American citizens in the California city remain mostly stuck"
@@ -394,117 +170,181 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump tells Fox News the Biden admin 'enforcing nothing' as migrants make it into the US despite health order"
-    excerpt: "Former President Donald Trump on Monday said the Biden administration is \"enforcing nothing\" at the southwestern border as more migrant families are making it into the United States despite a health order instituted last year. "
-    publishedDateTime: 2021-03-22T16:25:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BDz3rAM3qss/trump-biden-health-order-border-fox-news-interview"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-health-order-border-fox-news-interview.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-health-order-border-fox-news-interview.amp"
+  - title: "Pentagon to allow open transgender military service, reversing Trump policy"
+    excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
+    publishedDateTime: 2021-03-31T20:45:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nd2JiDwE0ZA/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Graham blasts Biden’s lack of  ‘situational awareness’ on southern border surge"
-    excerpt: "Republicans were not happy with President Biden’s assertion that his policies were not to blame for the surge in migrants at the southern border. "
-    publishedDateTime: 2021-03-25T19:08:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6IQNhpfvl_M/graham-blasts-biden-southern-border-surge-news-conference"
-    ampWebUrl: "https://www.foxnews.com/politics/graham-blasts-biden-southern-border-surge-news-conference.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-blasts-biden-southern-border-surge-news-conference.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Graham-211.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden’s inauguration priest under investigation by university after unspecified allegations"
-    excerpt: "The Rev. Kevin O'Brien, the president of Santa Clara University and the priest who delivered the Roman Catholic Mass for President Biden on the morning of his inauguration, is on leave from his job at the university after unspecified allegations against him. "
-    publishedDateTime: 2021-03-19T15:33:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-LbUv83gido/bidens-inauguration-priest-investigation-santa-clara-university"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-inauguration-priest-investigation-santa-clara-university.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-inauguration-priest-investigation-santa-clara-university.amp"
+  - title: "Omar says it's 'shameful and unacceptable' for Biden to 'continue the construction' of Trump border wall"
+    excerpt: "Rep. Ilhan Omar, D-Minn., put heat on the Biden administration Wednesday not to restart funding for the border wall. "
+    publishedDateTime: 2021-04-07T19:27:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TcV2Oh2oZ4/omar-biden-trumps-border-wall"
+    ampWebUrl: "https://www.foxnews.com/politics/omar-biden-trumps-border-wall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-biden-trumps-border-wall.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/b675a70f-image-31.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Republicans form conservative coalition to fight Biden's tax hikes in $3T infrastructure project"
-    excerpt: "Top GOP figures launched a new group to fight back against proposed tax hikes under President Biden and pressure politicians to vote against his anticipated $3 trillion infrastructure plan."
-    publishedDateTime: 2021-03-30T19:53:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dKIKDGg5Irc/republicans-conservative-coalition-fight-bidens-tax-hikes-infrastructure-project"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-conservative-coalition-fight-bidens-tax-hikes-infrastructure-project.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-conservative-coalition-fight-bidens-tax-hikes-infrastructure-project.amp"
+  - title: "El Salvador president refuses to meet with Biden envoy on immigration crisis"
+    excerpt: "El Salvador’s President Nayib Bukele refused to meet with a visiting senior U.S. diplomat this week over what he sees as a pattern of slights from Democrats and the Biden administration, according to two aides of the Central American leader."
+    publishedDateTime: 2021-04-08T20:35:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wso7x-_6DJ8/el-salvador-president-refuses-to-meet-with-biden-envoy-on-immigration-crisis-sources-say"
+    ampWebUrl: "https://www.foxnews.com/politics/el-salvador-president-refuses-to-meet-with-biden-envoy-on-immigration-crisis-sources-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/el-salvador-president-refuses-to-meet-with-biden-envoy-on-immigration-crisis-sources-say.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65de96da-f543-4865-a9c9-92eb3c5e2d16/f46278d2-4dc8-479d-af48-2112da2131dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden admin. reassigns Interior Dept. staffer who planned 50-person indoor party"
+    excerpt: "The White House is reassigning an Interior Department official after she recently planned a 50-person indoor party during the coronavirus pandemic, according to reports. "
+    publishedDateTime: 2021-04-02T08:48:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YJ3aQp610NA/biden-admin-reassigns-interior-dept-staffer-who-planned-50-person-indoor-party"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-reassigns-interior-dept-staffer-who-planned-50-person-indoor-party.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-reassigns-interior-dept-staffer-who-planned-50-person-indoor-party.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/GettyImages-82776258.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Shocking video of sisters dropped over border wall fuels criticism of Biden immigration policy"
+    excerpt: "A shocking video of two little girls dropped over a border barrier in New Mexico is fueling criticism of the Biden administration’s handling of the crisis at the southern border -- with critics saying the administration is encouraging smugglers and illegal immigrants."
+    publishedDateTime: 2021-04-02T22:34:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AFEqbrD8u4A/video-of-sisters-border-wall-criticism-of-biden-immigration-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/video-of-sisters-border-wall-criticism-of-biden-immigration-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/video-of-sisters-border-wall-criticism-of-biden-immigration-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/gloria-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Democrats, Biden push limits of infrastructure definition as fight over spending plan takes shape"
+    excerpt: "Democrats are pushing the limits of what can be defined as \"infrastructure\" as they aim to sell President Biden's $2 trillion-plus spending plan to the American people. "
+    publishedDateTime: 2021-04-07T16:45:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9uf2dICI7Qs/democrats-biden-push-limits-infrastructure-definition"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-biden-push-limits-infrastructure-definition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-biden-push-limits-infrastructure-definition.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 162
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Marc-Short.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Gaetz, under federal investigation, scheduled to speak at conservative summit at Trump-owned resort"
+    excerpt: "Fox News has learned that embattled Rep. Matt Gaetz will speak at a conference in Florida later this week who’s organizers are strong supporter of former President Trump."
+    publishedDateTime: 2021-04-06T19:02:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ITGohoVTaxA/gaetz-fbi-investigation-conservative-summit-trump-owned-resort"
+    ampWebUrl: "https://www.foxnews.com/politics/gaetz-fbi-investigation-conservative-summit-trump-owned-resort.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gaetz-fbi-investigation-conservative-summit-trump-owned-resort.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Group inspired by Trump's 1776 Commission seeks to combat 'anti-American indoctrination' in education"
+    excerpt: "A new activism group is launching to counter ideas like critical race theory and pursue the type of educational vision outlined by former President Trump at the end of his term."
+    publishedDateTime: 2021-04-08T17:30:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8kQrp85dPvI/1776-action-critical-race-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/1776-action-critical-race-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/1776-action-critical-race-theory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/School-Reopening-Massachusetts-In-Person-Learning-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden once mocked Trump over ‘slippery’ ramp descent"
-    excerpt: "Biden be trippin’. President Biden once took a swipe at Donald Trump over how his predecessor walked down a ramp at West Point — in light of his own stair stumble on Friday."
-    publishedDateTime: 2021-03-19T17:11:00Z
-    webUrl: "https://nypost.com/2021/03/19/biden-once-mocked-trump-over-slippery-ramp-descent/"
-    ampWebUrl: "https://nypost.com/2021/03/19/biden-once-mocked-trump-over-slippery-ramp-descent/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/19/biden-once-mocked-trump-over-slippery-ramp-descent/amp/"
+  - title: "Biden orders study on 'size' of Supreme Court, other possible changes amid liberal court-packing push"
+    excerpt: "President Biden will issue an executive order Friday to form a commission to study reforms to the United States Supreme Court.Biden, under pressure from liberals to expand the size of the high court, promised to create the commission during a \"60 Minutes\" interview back in October in the wake of Justice"
+    publishedDateTime: 2021-04-09T16:00:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bWINDkv33E4/biden-orders-study-size-supreme-court-liberal-court-packing-push"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-orders-study-size-supreme-court-liberal-court-packing-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-orders-study-size-supreme-court-liberal-court-packing-push.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/biden-stairs-trump.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 740
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Coney-Barrett-AP-e1606994039819.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump says Biden has turned southern border into ‘national disaster’"
-    excerpt: "Former President Donald Trump said Sunday that the Biden administration has turned the migrant crisis at the southern border into a full-fledged “national disaster.” In the statement released"
-    publishedDateTime: 2021-03-21T23:35:00Z
-    webUrl: "https://nypost.com/2021/03/21/trump-says-biden-has-turned-southern-border-into-national-disaster/"
-    ampWebUrl: "https://nypost.com/2021/03/21/trump-says-biden-has-turned-southern-border-into-national-disaster/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/21/trump-says-biden-has-turned-southern-border-into-national-disaster/amp/"
+  - title: "Hunter Biden details 2019 family drug intervention a month before father announced presidential campaign"
+    excerpt: "In his forthcoming book \"Beautiful Things,\" Hunter Biden delves into his struggles with addiction, including a dramatic intervention that his family staged for him in March 2019."
+    publishedDateTime: 2021-04-05T11:46:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a18JaI0kvws/hunter-biden-2019-family-drug-intervention-presidential-campaign"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-2019-family-drug-intervention-presidential-campaign.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-2019-family-drug-intervention-presidential-campaign.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/donald-trump-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump says he wrote Biden letter ‘from the heart’"
-    excerpt: "Former President Donald Trump says he wrote President Biden a lengthy letter “from the heart” before he left the White House— even though he believes Biden is “bought and paid"
-    publishedDateTime: 2021-03-22T17:51:00Z
-    webUrl: "https://nypost.com/2021/03/22/trump-says-he-wrote-biden-a-letter-despite-china-ties/"
-    ampWebUrl: "https://nypost.com/2021/03/22/trump-says-he-wrote-biden-a-letter-despite-china-ties/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-says-he-wrote-biden-a-letter-despite-china-ties/amp/"
+  - title: "Hunter Biden claims he doesn’t know if laptop is his, reveals father once chased him during drug intervention"
+    excerpt: "Hunter Biden in a pair of interview clips released Friday claimed that he does not know whether the laptop first reported on by the New York Post during the presidential campaign was his, and revealed that his father, President Biden, once chased him down the family's driveway as he tried to escape an"
+    publishedDateTime: 2021-04-02T14:30:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6gNI77MU0QQ/hunter-biden-laptop-father-chased-him-drug-intervention"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-laptop-father-chased-him-drug-intervention.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-laptop-father-chased-him-drug-intervention.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-biden-letter-01.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden expected to allow Trump-era guest worker pause to expire"
     excerpt: "President Biden is expected to allow a guest worker visa pause -- first signed by former President Donald Trump last year -- to expire on Wednesday, a move welcomed by big businesses who opposed the ban but opposed by immigration hawks who warn it will ..."
@@ -522,19 +362,131 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump says migrants will be ‘flowing in by the millions’ because of Biden"
-    excerpt: "Trump attributed the surge to Biden’s policies, including his termination last month of the “Remain in Mexico” policy that required Central Americans to await US asylum decisions"
-    publishedDateTime: 2021-03-22T15:48:00Z
-    webUrl: "https://nypost.com/2021/03/22/trump-blames-biden-policies-for-migrant-border-crisis/"
-    ampWebUrl: "https://nypost.com/2021/03/22/trump-blames-biden-policies-for-migrant-border-crisis/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/trump-blames-biden-policies-for-migrant-border-crisis/amp/"
+  - title: "Biden keeps Trump's National Space Council"
+    excerpt: "While President Biden has put as much distance as possible between himself and most of his predecessor’s policies, there is one area that Biden appears satisfied not to touch—space."
+    publishedDateTime: 2021-03-31T02:16:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-keeps-trumps-national-space-council"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-keeps-trumps-national-space-council.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keeps-trumps-national-space-council.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21077770966304.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden reversing Trump policy, quietly ramping up Palestinian aid"
+    excerpt: "The Biden administration is quietly ramping up its financial assistance to Palestinians, in the latest reversal of former President Donald Trump’s foreign policy."
+    publishedDateTime: 2021-04-03T12:41:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21085720002259.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Hunter Biden, Donald Trump Jr. trade jabs in ongoing war of words"
+    excerpt: "Hunter Biden took a swipe at Donald Trump Jr. during a television appearance Thursday night — the latest shot in an ongoing war of words between the two first sons. The younger Biden made the ..."
+    publishedDateTime: 2021-04-09T12:20:00Z
+    webUrl: "https://nypost.com/2021/04/09/hunter-biden-donald-trump-jr-trade-jabs-in-ongoing-war-of-words/"
+    ampWebUrl: "https://nypost.com/2021/04/09/hunter-biden-donald-trump-jr-trade-jabs-in-ongoing-war-of-words/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/09/hunter-biden-donald-trump-jr-trade-jabs-in-ongoing-war-of-words/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/hunter-biden-don-jr.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump endorses GOP Kentucky Sen. Rand Paul for reelection in 2022"
+    excerpt: "Former President Donald Trump endorsed GOP Kentucky Sen. Rand Paul for reelection on Thursday, affirming his support for the longtime senator ahead of the 2022 midterms. \"Rand Paul has done a fantastic job for our Country, and for the incredible people of ..."
+    publishedDateTime: 2021-04-08T22:01:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a70ea2ed-ad0d-4165-8d02-83e4d493ca4f/3be61b07-b2e2-48c8-b609-6bd57a9d554b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden pick to lead CBP reportedly balked at Trump immigration policies"
+    excerpt: "President Biden’s nominee to head up Customs and Border Protection has backed Black Lives Matter, defended sanctuary cities and pushed back at Trump administration orders to round up and"
+    publishedDateTime: 2021-04-13T14:03:00Z
+    webUrl: "https://nypost.com/2021/04/13/biden-pick-to-lead-cbp-balked-at-trump-immigration-policies-report/"
+    ampWebUrl: "https://nypost.com/2021/04/13/biden-pick-to-lead-cbp-balked-at-trump-immigration-policies-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/13/biden-pick-to-lead-cbp-balked-at-trump-immigration-policies-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/chris-magnus.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden's partisan divide as wide as Trump's: poll"
+    excerpt: "The nation's partisan divide hit record highs during former President Donald Trump's four-year tenure running the country. And new polling suggests there's no letup now that President Biden is in the White House. Biden stands at 54% approval and 41% ..."
+    publishedDateTime: 2021-04-14T16:01:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-partisan-divide-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-partisan-divide-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-partisan-divide-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden WH keeps Trump's National Space Council despite mocking Space Force"
+    excerpt: "While President Biden has put as much distance as possible between himself and most of his predecessor’s policies, there is one area that Biden appears satisfied not to touch—space."
+    publishedDateTime: 2021-04-02T00:16:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-keeps-trumps-national-space-council"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-keeps-trumps-national-space-council.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keeps-trumps-national-space-council.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
     quality: 149
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/Migrant-Children-trump-biden.jpg?quality=90&strip=all&w=1200"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21077770966304.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Former Trump aide Stephen Miller launches group targeting Biden’s policies"
+    excerpt: "Former President Donald Trump’s senior aide Stephen Miller has launched a new organization that aims to challenge the Biden administration’s policies in courts."
+    publishedDateTime: 2021-04-07T13:06:00Z
+    webUrl: "https://nypost.com/2021/04/07/stephen-miller-launches-group-targeting-bidens-policies/"
+    ampWebUrl: "https://nypost.com/2021/04/07/stephen-miller-launches-group-targeting-bidens-policies/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/07/stephen-miller-launches-group-targeting-bidens-policies/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 148
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/stephen-miller-03.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -554,6 +506,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump takes shot at Hunter Biden, says kids must stay from drugs, booze, cigs"
+    excerpt: "Father Trump knows best. Former President Donald Trump took a thinly veiled shot at his White House successor, saying the key to good parenting is keeping kids away from drugs, cigarettes and"
+    publishedDateTime: 2021-04-02T16:51:00Z
+    webUrl: "https://nypost.com/2021/04/02/donald-trump-seemingly-takes-shot-at-hunter-biden-in-interview/"
+    ampWebUrl: "https://nypost.com/2021/04/02/donald-trump-seemingly-takes-shot-at-hunter-biden-in-interview/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/02/donald-trump-seemingly-takes-shot-at-hunter-biden-in-interview/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 147
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-family-biden-hp-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Democrats still searching for answers on Trump's appeal to Latinos in 2020 election"
+    excerpt: "Former President Donald Trump's appeal to Latino voters may have been more widespread than originally thought, according to new research. Democrats touted their focus on increasing turnout among minority voters for the 2020 elections, but Latino voters ..."
+    publishedDateTime: 2021-04-04T12:33:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-latino-2020-election-democrats-conservative.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20303618251253.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump rips Biden’s ‘globalist’ tax hikes ahead of official infrastructure announcement"
     excerpt: "Former President Donald Trump on Wednesday slammed the Biden administration’s “globalist” multi-trillion infrastructure package, calling it a"
     publishedDateTime: 2021-03-31T19:01:00Z
@@ -570,165 +554,307 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "CNN, MSNBC erupted over Trump's ramp walk -- but virtually ignore Biden's staircase stumble"
-    excerpt: "After sounding the alarm over President Trump's use of a ramp at the U.S. Military Academy during the 2020 presidential election, both CNN and MSNBC on Friday virtually ignored President Biden's intense fall while climbing the stairs onto Air Force One."
-    publishedDateTime: 2021-03-20T06:37:00Z
-    webUrl: "https://www.foxnews.com/media/cnn-msnbc-biden-fall-air-force-one"
-    ampWebUrl: "https://www.foxnews.com/media/cnn-msnbc-biden-fall-air-force-one.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-msnbc-biden-fall-air-force-one.amp"
+  - title: "Trump calls Biden jobs plan 'massive giveaway to China,' says it will 'crush American workers'"
+    excerpt: "Former President Donald Trump called President Biden's jobs plan a \"monstrosity\" that \"would be among the largest self-inflicted economic wounds in history.\""
+    publishedDateTime: 2021-03-31T18:45:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 140
+    quality: 138
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Trump-West-Point-2.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Reversing Trump, Pentagon to release new transgender policy"
+    excerpt: "After Donald Trump took office, however, his administration delayed the enlistment date and called for additional study. A few weeks later, Trump caught military leaders by surprise, tweeting that the government wouldn’t accept or allow transgender ..."
+    publishedDateTime: 2021-03-31T18:41:00Z
+    webUrl: "https://www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy"
+    ampWebUrl: "https://www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/reversing-trump-pentagon-new-transgender-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/military-battlefield.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump: Biden press conference will be nothing but 'softballs,' media 'protects him totally'"
-    excerpt: "Former President Donald Trump said Monday there was no transparency with the press from successor Joe Biden, although he added Biden didn't need to hold press conferences because the media \"protects him totally."
-    publishedDateTime: 2021-03-22T16:30:00Z
-    webUrl: "https://www.foxnews.com/media/trump-biden-press-conference-softballs-harris-faulkner"
-    ampWebUrl: "https://www.foxnews.com/media/trump-biden-press-conference-softballs-harris-faulkner.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-biden-press-conference-softballs-harris-faulkner.amp"
+  - title: "Christie accuses Biden of ‘doing exactly’ what he accused Trump of: ‘Lying to cause racial divisions'"
+    excerpt: "He is doing exactly what he sat around in the campaign and the transition and accused Donald Trump of doing. He is lying to cause racial divisions in this country. That’s what he accused Donald Trump of doing, and he’s a liar and a hypocrite this morning.\""
+    publishedDateTime: 2021-04-05T13:08:00Z
+    webUrl: "https://www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions"
+    ampWebUrl: "https://www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 140
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/93eac511-4237-41ae-8fa7-f9f0dd56550b/e2673f4f-fc75-4ca3-9ade-d21448bb5c21/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Flashback: Biden fall conjures up memories of media hysteria when Trump walked slowly down a ramp"
-    excerpt: "President Biden fell three times when attempting to board Air Force One on Friday, conjuring up memories of the mainstream media hyperventilating over former President Trump cautiously walking down a ramp last year."
-    publishedDateTime: 2021-03-19T19:00:00Z
-    webUrl: "https://www.foxnews.com/media/flashback-biden-media-went-crazy-trump-ramp"
-    ampWebUrl: "https://www.foxnews.com/media/flashback-biden-media-went-crazy-trump-ramp.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/flashback-biden-media-went-crazy-trump-ramp.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 137
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57251046-2d50-49cc-89bb-faad0d5819f9/493c0740-d968-4c4e-8b16-bebbb2038260/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump wax figure museum ‘always had trouble with presidential section’"
-    excerpt: "Presidential wax figures need a Secret Service detail of their own. Replicas of the last three commanders in chief have been subject to constant vandalism at a San Antonio museum. “When it’s a"
-    publishedDateTime: 2021-03-19T17:34:00Z
-    webUrl: "https://nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/"
-    ampWebUrl: "https://nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/19/trump-wax-figure-museum-always-had-trouble-with-presidents/amp/"
+  - title: "Supreme Court dismisses case about Trump blocking critics on Twitter"
+    excerpt: "The court threw out a decision by the Second Circuit Court of Appeals in New York that Trump’s attempts to block critics violated the First Amendment."
+    publishedDateTime: 2021-04-05T18:03:00Z
+    webUrl: "https://nypost.com/2021/04/05/supreme-court-dismisses-case-about-trump-blocking-critics-on-twitter/"
+    ampWebUrl: "https://nypost.com/2021/04/05/supreme-court-dismisses-case-about-trump-blocking-critics-on-twitter/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/05/supreme-court-dismisses-case-about-trump-blocking-critics-on-twitter/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-wax-01.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/justice-clarence-thomas-01.jpg?quality=90&strip=all&w=1200"
         width: 1200
-        height: 801
+        height: 800
         isCached: true
-  - title: "Trump administration dismantled ‘safe’ border policies, Biden rebuilding process: DHS chief Mayorkas"
-    excerpt: "President Biden's immigration policy is under fire as a flood of unaccompanied children arrive at the Southern border and get to stay in the U.S. ALEJANDRO MAYORKAS, HOMELAND SECURITY SECRETARY: Their families make the heart wrenching decision to send them on a journey across Mexico to provide them with a better,"
-    publishedDateTime: 2021-03-21T18:40:00Z
-    webUrl: "https://www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas"
-    ampWebUrl: "https://www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/trump-administration-dismantled-safe-border-policies-biden-rebuilding-process-dhs-chief-mayorkas.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff1b937-e2c0-475b-88a1-41022e4da23a/3715dc97-fb6e-47cb-ab5f-a4594a10b69e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Tech CEOs to Face Questions on Online Disinformation, Trump Ban"
-    excerpt: "The chief executives or Alphabet, Facebook and Twitter are set to appear before a House panel on Thursday."
-    publishedDateTime: 2021-03-25T09:30:00Z
-    webUrl: "https://www.wsj.com/articles/tech-ceos-to-face-questions-on-online-disinformation-trump-ban-11616664602"
-    ampWebUrl: "https://www.wsj.com/amp/articles/tech-ceos-to-face-questions-on-online-disinformation-trump-ban-11616664602"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-ceos-to-face-questions-on-online-disinformation-trump-ban-11616664602"
+  - title: "Former Trump HUD Appointee Fined for Hatch Act Violation"
+    excerpt: "A former Trump administration appointee to the U.S. Department of Housing and Urban Development admitted she violated the Hatch Act by using her position to produce a video about conditions in New York City public housing for the Republican National ..."
+    publishedDateTime: 2021-04-06T19:21:00Z
+    webUrl: "https://www.wsj.com/articles/former-trump-hud-appointee-fined-for-hatch-act-violation-11617740486"
+    ampWebUrl: "https://www.wsj.com/amp/articles/former-trump-hud-appointee-fined-for-hatch-act-violation-11617740486"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/former-trump-hud-appointee-fined-for-hatch-act-violation-11617740486"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-315864/social"
+      - url: "https://images.wsj.net/im-321171/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Migrant says he came to US border because Biden was elected, would not have tried to cross under Trump"
-    excerpt: "A South American migrant who recently crossed the U.S.-Mexico border said he did so \"basically\" because Joe Biden was elected president and would not have tried to cross under former President Donald Trump."
-    publishedDateTime: 2021-03-21T17:34:00Z
-    webUrl: "https://www.foxnews.com/politics/migrant-border-crossing-biden-elected-not-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/migrant-border-crossing-biden-elected-not-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-border-crossing-biden-elected-not-trump.amp"
+  - title: "Trump says he doubts Biden ‘making the decisions,’ calls border wall chatter ‘positive step’: report"
+    excerpt: "Former President Trump expressed doubts Tuesday that his successor was \"making most of the decisions\" in the White House, noting from experience that being president is \"a lot of work.\" Trump also reacted positively to reports that the Biden administration ..."
+    publishedDateTime: 2021-04-07T07:49:00Z
+    webUrl: "https://www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report"
+    ampWebUrl: "https://www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3dc178aa-e834-4945-ac58-b1de3c7cc784/2cbc7bbc-d9ef-431b-8b45-8da5b3ba3be3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Haaland Explores Restoration of Utah Monuments Trump Downsized"
+    excerpt: "Biden Interior Secretary Deb Haaland to meet with competing interests in trip on Thursday to Bears Ears and Grand Staircase-Escalante."
+    publishedDateTime: 2021-04-08T11:00:00Z
+    webUrl: "https://www.wsj.com/articles/haaland-explores-restoration-of-utah-monuments-trump-downsized-11617879614"
+    ampWebUrl: "https://www.wsj.com/amp/articles/haaland-explores-restoration-of-utah-monuments-trump-downsized-11617879614"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/haaland-explores-restoration-of-utah-monuments-trump-downsized-11617879614"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-321900/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Organization Hires Criminal Defense Lawyer"
+    excerpt: "Mr. Vance’s office has said it is investigating possible bank, tax or insurance fraud. Prosecutors have subpoenaed information from former President Donald Trump’s banks, lenders, an insurance broker and other parties, The Wall Street Journal has ..."
+    publishedDateTime: 2021-04-07T23:15:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-hires-criminal-defense-lawyer-11617837781"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-hires-criminal-defense-lawyer-11617837781"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-hires-criminal-defense-lawyer-11617837781"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-322013/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Twitter won’t let National Archives preserve Trump tweets on platform"
+    excerpt: "Twitter will not allow the National Archives and Records Administration to create preserved versions of former President Donald Trump’s tweets accessible on its platform — in the first time ..."
+    publishedDateTime: 2021-04-08T13:49:00Z
+    webUrl: "https://nypost.com/2021/04/08/twitter-wont-let-agency-preserve-trump-tweets-on-platform/"
+    ampWebUrl: "https://nypost.com/2021/04/08/twitter-wont-let-agency-preserve-trump-tweets-on-platform/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/08/twitter-wont-let-agency-preserve-trump-tweets-on-platform/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-tweets-73.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden's halt of border wall construction sends migrants streaming into US"
+    excerpt: "Biden's halt of border wall construction sends migrants streaming into US Thousands of tons of steel and heavy equipment stand idle along the U.S.-Mexico border as legions of migrants exploit holes in the fence left by President Biden’s decision to halt construction."
+    publishedDateTime: 2021-04-01T09:08:00Z
+    webUrl: "https://www.foxnews.com/us/bidens-halt-of-border-wall-construction-sends-migrants-streaming-into-us"
+    ampWebUrl: "https://www.foxnews.com/us/bidens-halt-of-border-wall-construction-sends-migrants-streaming-into-us.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/bidens-halt-of-border-wall-construction-sends-migrants-streaming-into-us.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 134
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aff1b937-e2c0-475b-88a1-41022e4da23a/3715dc97-fb6e-47cb-ab5f-a4594a10b69e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-Border-Agent-Split.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Media shifts rhetoric on migrant facilities, from Trump's 'concentration camps' to Biden's border 'problem'"
-    excerpt: "The mainstream media has struck a vastly different tone in recent months when it comes to covering the ongoing migrant crisis at the southern border."
-    publishedDateTime: 2021-03-24T01:54:00Z
-    webUrl: "https://www.foxnews.com/media/media-shifts-rhetoric-on-migrant-facilities-biden-trump-concentration-camps"
-    ampWebUrl: "https://www.foxnews.com/media/media-shifts-rhetoric-on-migrant-facilities-biden-trump-concentration-camps.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-shifts-rhetoric-on-migrant-facilities-biden-trump-concentration-camps.amp"
+  - title: "Supreme Court Dismisses Case on Trump Blocking Twitter Followers as Moot"
+    excerpt: "As a plaintiffs lawyer applauds precedent of lower-court ruling against ex-president, Justice Thomas criticizes Twitter’s permanent ban of Trump after Jan. 6 riot at Capitol."
+    publishedDateTime: 2021-04-05T18:46:00Z
+    webUrl: "https://www.wsj.com/articles/supreme-court-dismisses-case-on-trump-blocking-twitter-followers-as-moot-11617652018"
+    ampWebUrl: "https://www.wsj.com/amp/articles/supreme-court-dismisses-case-on-trump-blocking-twitter-followers-as-moot-11617652018"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supreme-court-dismisses-case-on-trump-blocking-twitter-followers-as-moot-11617652018"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 134
+    images:
+      - url: "https://images.wsj.net/im-320508/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump attacks NY Times for report on recurring donors who sought refunds"
+    excerpt: "Former President Donald Trump on Monday ripped into the New York Times for running a story on refunds issued to people who claimed they unwittingly signed up to be recurring donors to his campaign."
+    publishedDateTime: 2021-04-05T19:54:00Z
+    webUrl: "https://nypost.com/2021/04/05/trump-attacks-nytimes-for-report-on-donors-who-sought-refunds/"
+    ampWebUrl: "https://nypost.com/2021/04/05/trump-attacks-nytimes-for-report-on-donors-who-sought-refunds/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/05/trump-attacks-nytimes-for-report-on-donors-who-sought-refunds/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-001.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Pentagon to allow open transgender military service, reversing Trump policy"
+    excerpt: "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military."
+    publishedDateTime: 2021-03-31T20:50:00Z
+    webUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 132
+    quality: 133
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f86ab4ae-de0d-45c7-82f8-69ce5352f9f4/cf7b71fa-403f-440b-a861-f76a71e0df0f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Montage shows media double standard on border: 'Concentration camps' under Trump, 'complicated' under Biden"
-    excerpt: "The Media Research Center posted a video on Tuesday that highlighted the difference in how the media covered the Biden administration and former President Trump’s handling of issues on the southern border."
-    publishedDateTime: 2021-03-23T17:57:00Z
-    webUrl: "https://www.foxnews.com/media/montage-media-double-standard-border-concentration"
-    ampWebUrl: "https://www.foxnews.com/media/montage-media-double-standard-border-concentration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/montage-media-double-standard-border-concentration.amp"
+  - title: "Trump Organization Executive’s Former In-Law Hands Over Documents in Probe"
+    excerpt: "A Trump Organization executive’s former daughter-in-law turned over financial documents Thursday that Manhattan prosecutors had subpoenaed for their investigation into former President Trump and his company."
+    publishedDateTime: 2021-04-09T00:01:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-executivesformer-in-law-handsover-documents-in-probe-11617912082"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-executivesformer-in-law-handsover-documents-in-probe-11617912082"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-executivesformer-in-law-handsover-documents-in-probe-11617912082"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 133
+    images:
+      - url: "https://images.wsj.net/im-322013/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "First-quarter fundraising numbers showed high-profile support - or opposition - for Trump"
+    excerpt: "Miller announced his campaign against Gonzalez after the incumbent joined 10 other Republicans to vote to impeach former President Donald Trump for incitement of an insurrection over the Jan. 6 attack on the U.S. Capitol. Shortly after Miller entered the ..."
+    publishedDateTime: 2021-04-01T20:24:00Z
+    webUrl: "https://www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach"
+    ampWebUrl: "https://www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-aide-max-miller-raised-500k-in-one-month-in-race-against-gop-member-who-voted-to-impeach.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 132
+    quality: 126
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Trump-Max-Miller-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump defends Gaetz over allegations, says GOP rep never asked him for preemptive pardon"
+    excerpt: "Former President Donald Trump on Wednesday issued a statement in defense of Florida Republican Rep. Matt Gaetz, a political ally who is facing a federal investigation over allegations of sexual misconduct."
+    publishedDateTime: 2021-04-07T16:12:00Z
+    webUrl: "https://www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Surge at the Border Challenges Biden as He Reverses Trump Policies"
-    excerpt: "Somehow, they didnt see it coming. Within weeks of Inauguration Day on Jan. 20, the Biden administration had reversed many of the"
-    publishedDateTime: 2021-03-22T12:59:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/03/22/surge_at_the_border_challenges_biden_as_he_reverses_trump_policies_145452.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/22/surge_at_the_border_challenges_biden_as_he_reverses_trump_policies_145452.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/22/surge_at_the_border_challenges_biden_as_he_reverses_trump_policies_145452.amp.html"
+  - title: "All-Star rumble, with Biden and Trump, shows corporate America breaking with GOP"
+    excerpt: "Business support for taking the All-Star Game out of Atlanta because of the Georgia voting law is emblematic of Corporate America's break from the GOP"
+    publishedDateTime: 2021-04-06T07:12:00Z
+    webUrl: "https://www.foxnews.com/media/all-star-rumble-with-biden-and-trump-shows-corporate-america-breaking-with-gop"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 100
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
     images:
-      - url: "https://assets.realclear.com/images/53/538397_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Biden-green-thumb.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Shocking video of sisters dropped over border wall fuels criticism of Biden immigration policy"
+    excerpt: "\"The reason why we’re seeing the Biden border crisis is because Joe Biden said to the world, if you’re a kid or teenager or you purport to be a teeenager or you show up with a kid, we’ll let you into our country -- what did he expect would happen?\""
+    publishedDateTime: 2021-04-02T22:38:00Z
+    webUrl: "https://www.foxnews.com/politics/video-of-sisters-border-wall-criticism-of-biden-immigration-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/video-of-sisters-border-wall-criticism-of-biden-immigration-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/video-of-sisters-border-wall-criticism-of-biden-immigration-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/gloria-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Ex-Trump aide Stephen Miller forms conservative law group to challenge Democratic policies in court"
+    excerpt: "Stephen Miller, the one-time senior advisor to former President Donald Trump who shaped immigration crackdown policies, has launched a new conservative group that could take on President Biden's progressive agenda in court. Miller formed America First ..."
+    publishedDateTime: 2021-04-07T14:55:00Z
+    webUrl: "https://www.foxnews.com/politics/ex-trump-aide-stephen-miller-conservative-law-group-challenge-democratic-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/ex-trump-aide-stephen-miller-conservative-law-group-challenge-democratic-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-trump-aide-stephen-miller-conservative-law-group-challenge-democratic-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/640/320/Stephen-Miller.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Full Interview: Former President Donald Trump Talks To Lara Trump About China, Biden, 2024 & More"
     excerpt: "President Trump is interviewed by daughter-in-law Lara Trump and discuss social media censorship, China, Joe Biden, fake news, and a potential 2024 run. Trump on running in 2024: \"You do have hope. We love our country—this country."
@@ -746,63 +872,109 @@ related:
         width: 732
         height: 548
         isCached: true
-  - title: "Biden Needs to Talk Tough on Immigration -- Fast"
-    excerpt: "Undocumented immigrants have been surging to the U.S. border, some wearing T-shirts with the Biden campaign logo and the words"
-    publishedDateTime: 2021-03-23T10:33:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/03/23/biden_needs_to_talk_tough_on_immigration_--_fast_145457.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/23/biden_needs_to_talk_tough_on_immigration_--_fast_145457.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/23/biden_needs_to_talk_tough_on_immigration_--_fast_145457.amp.html"
+  - title: "How Biden Could Get His Call For National Unity Back"
+    excerpt: "President Joe Biden began his presidency with an inaugural call for national unity. Since that time, his greatest legislative achievement is a COVID-19"
+    publishedDateTime: 2021-04-02T10:47:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 85
     images:
-      - url: "https://assets.realclear.com/images/53/538437_5_.jpg"
+      - url: "https://assets.realclear.com/images/53/539497_5_.jpg"
         width: 750
         height: 500
         isCached: true
-  - title: "Trump: Biden Border Crisis Will Get Much Worse, \"Like You've Never Seen\""
-    excerpt: "Speaking to FNC's Maria Bartiromo, former President Trump made his first public comments on the border security crisis that President Biden acknowledged in an interview with ABC News on Tuesday. FORMER PRESIDENT DONALD TRUMP: Well,"
-    publishedDateTime: 2021-03-20T15:28:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/16/trump_biden_border_crisis_will_get_much_worse_like_youve_never_seen.html#!"
+  - title: "Joe Biden's Bid to Remake America"
+    excerpt: "If Joe Biden's American Jobs Program, outlined in Pittsburgh, is enacted, then the federal government will take a great leap forward toward"
+    publishedDateTime: 2021-04-02T10:46:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/02/joe_bidens_bid_to_remake_america_145524.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/02/joe_bidens_bid_to_remake_america_145524.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/02/joe_bidens_bid_to_remake_america_145524.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 79
+    quality: 85
     images:
-      - url: "https://assets.realclear.com/images/50/509974.jpg"
-        width: 500
-        height: 375
+      - url: "https://assets.realclear.com/images/53/539501_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "Hemingway: Media \"Utterly Deranged\" With Trump, Gave Biden \"The Most Gentle Questions\""
-    excerpt: "Hemingway lamented the media that set the standard with \"utterly deranged\" questions for former President Donald Trump have shown the opposite standard for Biden with reporters like Yamish Aalcindor calling Biden a \"moral\" and \"decent\" man at the press ..."
-    publishedDateTime: 2021-03-25T20:21:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/25/hemingway_media_utterly_deranged_with_trump_gave_biden_the_most_gentle_questions.html#!"
+  - title: "Biden Pushes Gun Control, But Legislation Is Unlikely"
+    excerpt: "(In certain states, even the private sale of legal firearms also requires a background check.) “Joe Biden is either lying, never bought a gun at a gun show, or both,” Donald Trump’s former chief of staff, Mark Meadows, tweeted. And others were quick ..."
+    publishedDateTime: 2021-04-09T10:47:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/09/biden_pushes_gun_control_but_legislation_is_unlikely_145560.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/09/biden_pushes_gun_control_but_legislation_is_unlikely_145560.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/09/biden_pushes_gun_control_but_legislation_is_unlikely_145560.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 72
+    quality: 85
     images:
-      - url: "https://assets.realclear.com/images/51/514557.jpg"
-        width: 1098
-        height: 822
+      - url: "https://assets.realclear.com/images/54/540056_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "There's Zero Chance Joe Biden Will Run in 2024"
+  - title: "Biden's Weakness On World Stage Is Dangerous"
     excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-03-29T11:35:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/03/29/theres_zero_chance_joe_biden_will_run_in_2024_539251.html#!"
+    publishedDateTime: 2021-03-30T18:59:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/30/bidens_weakness_on_world_stage_is_dangerous_539365.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 65
     images:
-      - url: "https://assets.realclear.com/images/53/539017_5_.jpg"
+      - url: "https://assets.realclear.com/images/53/539202_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Joe Biden's Bait-and-Switch Presidency"
+    excerpt: "Joe Biden was elected as a moderate-left Democrat, but he is not governing as one. He pledged repeatedly to work across party lines, but he is ramming through the biggest, most expensive progressive agenda in American history without any Republican votes."
+    publishedDateTime: 2021-04-01T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/01/joe_bidens_bait-and-switch_presidency_539483.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/539407_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Fresh Data Reveal How Trump Made Inroads With Latinos"
+    excerpt: "A new analysis of U.S. voters suggests — counterintuitively — that the coronavirus pandemic may have helped drive former President Donald Trump's surprising increase in support from Latinos last November."
+    publishedDateTime: 2021-04-02T16:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/02/fresh_data_reveal_how_trump_made_inroads_with_latinos_539593.html?mc_cid=15b3dd0249&mc_eid=848bcee76a"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/526159_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Christie on GA Voting Law: Biden Is \"Lying To Cause Racial Division... That's What He Accused Trump Of Doing\""
+    excerpt: "During ABC's \"This Week\" roundtable, former N.J. Gov. Chris Christie would not let go accusations that Georgia's new election law is racist or reminiscent of Jim Crow laws. Christie accused President Biden and Democrats of \"lying to cause racial divisions,"
+    publishedDateTime: 2021-04-04T14:24:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/04/christie_on_ga_voting_law_biden_is_lying_to_cause_racial_division_thats_what_he_accused_trump_of_doing.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 61
+    images:
+      - url: "https://assets.realclear.com/images/49/498710.jpg"
+        width: 500
+        height: 375
         isCached: true
   - title: "Biden's Insane New Spend-Fest Is a Recipe for National Disaster"
     excerpt: "Three. Trillion. Dollars. Maybe four: That's how much President Joe Biden wants for his next installment of Let's Remake America. Think of it as pumping gasoline by the shipload onto a wildfire. Fr…"

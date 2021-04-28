@@ -171,6 +171,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-04-conservative-writer-says-trumps-save-america-pac-is-hurting-his-supporters.md",
+      "title": "Conservative writer says Trump's Save America PAC is hurting his supporters",
+      "excerpt": "Pedro Gonzalez, assistant editor of the conservative website American Greatness, told Hill.TV that former President Trump Donald Trump Lawmakers say fixing border crisis is Biden's job Trump calls ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/hilltv/rising/546185-conservative-writer-says-trumps-save-america-pac-is-hurting-his-supporters",
+      "originalUrl": "https://thehill.com/hilltv/rising/546185-conservative-writer-says-trumps-save-america-pac-is-hurting-his-supporters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_110120getty_memo.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/hilltv/rising/546185-conservative-writer-says-trumps-save-america-pac-is-hurting-his-supporters?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/546185-conservative-writer-says-trumps-save-america-pac-is-hurting-his-supporters?amp",
+      "publishedDateTime": "2021-04-04T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-radical-left-crazies-trump-issues-easter-greetings-by-attacking-political-rivals-griping-about-election-loss.md",
       "title": "'Radical Left CRAZIES:' Trump issues Easter greetings by attacking political rivals, griping about election loss",
       "excerpt": "WASHINGTON – Former President Donald Trump marked Easter weekend by attacking his political enemies, repeating false claims about the election, and calling for a boycott of Major League Baseball and other corporations that oppose Georgia's new election law.",
@@ -223,6 +275,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-04-trump-blasted-by-former-staffer-miles-taylor-for-deceptive-fundraising-payment-scheme.md",
+      "title": "Trump Blasted by Former Staffer Miles Taylor for Deceptive Fundraising Payment Scheme",
+      "excerpt": "Above, Donald Trump speaks during the Conservative Political Action Conference (CPAC) on February 28, 2021 in Orlando, Florida. Joe Raedle/Getty Images \"And to raid someone of their money at the end of their life has got to add onto that hardship for the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952",
+      "originalUrl": "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1771467/donald-trump-miles-taylor-election.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952?amp=1",
+      "publishedDateTime": "2021-04-04T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-hunter-biden-100-certain-hell-be-cleared-of-wrongdoing-in-doj-investigation.md",
       "title": "Hunter Biden ‘100% certain’ he’ll be cleared of wrongdoing in DOJ investigation",
       "excerpt": "Hunter Biden said he is \"100% certain\" he will be cleared of any wrongdoing in a Department of Justice investigation into his finances.",
@@ -235,7 +339,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 171,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -772,7 +876,7 @@
       "originalUrl": "https://www.newsweek.com/brian-kemp-accuses-stacey-abrams-joe-biden-lying-that-led-mlb-all-star-game-pullout-1580885",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -984,7 +1088,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-in-law-senate-run-republicans",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1132,25 +1236,25 @@
       ]
     },
     {
-      "path": "_news/2021-04-03-watch-trump-was-right-biden-is-a-trojan-horse-for-progressives.md",
-      "title": "WATCH: 'Trump was right, Biden is a Trojan horse for progressives'",
-      "excerpt": "During his first televised response over allegations of sex trafficking a minor, Rep. Matt Gaetz claimed his family was working with the FBI over an alleged extortion plot organized by former federal prosecutor David McGee. Gaetz attempted to change the ...",
+      "path": "_news/2021-04-03-biden-reverses-trump-lifts-sanctions-on-international-criminal-court.md",
+      "title": "Biden reverses Trump, lifts sanctions on International Criminal Court",
+      "excerpt": "President Biden on Friday reversed Trump-era foreign policies by lifting sanctions and removing visa restrictions on officials of the International Criminal Court (ICC).",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/02/trump-biden-trojan-horse-progressives-478958",
-      "originalUrl": "https://www.politico.com/news/2021/04/02/trump-biden-trojan-horse-progressives-478958",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXGPm2re3qU/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXGPm2re3qU/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court",
       "featuredContent": null,
       "highlight": {
-        "text": "Democratic Voice",
+        "text": "Republican Voice",
         "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
+        "backgroundColor": "#FF0000"
       },
-      "heat": 150,
+      "heat": 1410,
       "tags": null,
       "images": [
         {
-          "url": "https://static.politico.com/a2/bd/956476cb412383a4047432f027a2/boehner-hpimage-2.jpg",
-          "width": 2320,
-          "height": 1546,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91d04a2f-0fcc-4e80-a4db-39df11088247/3c84e3f6-2c0a-488c-93d2-6bbf39b4ec59/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1158,16 +1262,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/02/trump-biden-trojan-horse-progressives-478958",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/02/trump-biden-trojan-horse-progressives-478958",
-      "publishedDateTime": "2021-04-02T18:17:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp",
+      "publishedDateTime": "2021-04-02T17:21:31-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1184,8 +1288,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Democratic Voice"
+        "Republican Voice"
       ]
     },
     {
@@ -1242,110 +1345,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan.md",
-      "title": "More Raleigh-to-Richmond Amtrak runs proposed in Biden plan",
-      "excerpt": "CHARLOTTE, N.C. — More direct train service between Raleigh and Richmond and passenger service to Asheville and Wilmington are included in Amtrak’s plan for $80 billion in federal funds, proposed as part of President Joe Biden’s $2 trillion ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html?outputType=amp",
-      "publishedDateTime": "2021-04-02T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-to-say-as-a-korean.md",
-      "title": "Ex-Trump Official Sery Kim Rejects Chinese Immigrants, Believes It's OK to Say as a Korean",
-      "excerpt": "She also served served as assistant administrator for the Small Business Administration under former President Donald Trump. Kim also argued that the rise in violent attacks against Asian Americans have always existed but are only now being covered by the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802",
-      "originalUrl": "https://www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1771259/sery-kim.jpg",
-          "width": 2048,
-          "height": 1704,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802?amp=1",
-      "publishedDateTime": "2021-04-02T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

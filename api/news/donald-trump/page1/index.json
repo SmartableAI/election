@@ -2,6 +2,262 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-28-melania-trump-thanks-supporters-who-sent-her-wonderful-birthday-messages.md",
+      "title": "Melania Trump Thanks Supporters Who Sent Her 'Wonderful' Birthday Messages",
+      "excerpt": "Melania Trump said she is thankful for the supporters and social media users who remembered her on her 51st birthday on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/melania-trump-thanks-supporters-who-sent-her-wonderful-birthday-messages-3189006",
+      "originalUrl": "https://www.ibtimes.com/melania-trump-thanks-supporters-who-sent-her-wonderful-birthday-messages-3189006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/08/first-lady-melania-trump-attends-congressional-spouses-luncheon.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-lindsey-graham-announces-contest-where-winner-gets-to-golf-with-trump-and-him.md",
+      "title": "Lindsey Graham Announces Contest Where Winner Gets to Golf With Trump and Him",
+      "excerpt": "\"If you don't win, the money is going to be used to take back the House and the Senate, so we can stop this slide to socialism,\" Graham said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/lindsey-graham-announces-contest-where-winner-gets-golf-trump-him-1586971",
+      "originalUrl": "https://www.newsweek.com/lindsey-graham-announces-contest-where-winner-gets-golf-trump-him-1586971",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1783894/donald-trump-lindsey-graham-golf-contest-tournament.jpg",
+          "width": 3000,
+          "height": 1996,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/lindsey-graham-announces-contest-where-winner-gets-golf-trump-him-1586971?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-announces-contest-where-winner-gets-golf-trump-him-1586971?amp=1",
+      "publishedDateTime": "2021-04-27T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-trump-fires-back-at-nervous-mess-dimon.md",
+      "title": "Trump fires back at 'nervous mess' Dimon",
+      "excerpt": "Posted . One day after Jamie Dimon said he could beat Donald Trump in a White House race, Trump fired back at the J.P. Morgan",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idPjuB?now=true",
+      "originalUrl": "https://www.reuters.com/video/watch/idPjuB?now=true",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ajo.prod.reuters.tv/api/v2/img/5b9a7a13e4b01cce9ac7429e-1536850451190?location=LANDSCAPE",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-trump-warmongering-fool-liz-cheney-would-embarrass-her-family-with-2024-bid.md",
+      "title": "Trump: ‘warmongering fool’ Liz Cheney would ‘embarrass her family’ with 2024 bid",
+      "excerpt": "Liz Cheney telling The Post that she’s not ruling out a presidential bid. Trump called the Wyoming Republican a “warmongering fool” and said that she would “embarrass her family” with a 2024 run. “Liz Cheney is polling sooo low in Wyoming,",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/27/trump-liz-cheney-would-embarrass-her-family-with-2024-bid/",
+      "originalUrl": "https://nypost.com/2021/04/27/trump-liz-cheney-would-embarrass-her-family-with-2024-bid/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-cheney.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/27/trump-liz-cheney-would-embarrass-her-family-with-2024-bid/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/27/trump-liz-cheney-would-embarrass-her-family-with-2024-bid/amp/",
+      "publishedDateTime": "2021-04-27T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-trump-ally-sid-miller-sues-over-biden-farm-aid-program-saying-it-discriminates-against-whites.md",
+      "title": "Trump ally Sid Miller sues over Biden farm aid program, saying it discriminates against whites",
+      "excerpt": "Texas agriculture official Sid Miller files suit over a U.S. farm program that directs aid to nonwhite farmers and ranchers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/04/27/texas-agriculture-commissioner-sid-miller-sues-void-farm-program-discrimination/4862183001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/04/27/texas-agriculture-commissioner-sid-miller-sues-void-farm-program-discrimination/4862183001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/9b8802257ca609b0e2d5aed109e4086be5ed8fbe/c=0-0-750-422/local/-/media/2020/11/20/Austin/ghows-TX-200709103-e59b1b81.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4862183001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4862183001",
+      "publishedDateTime": "2021-04-27T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-donald-trump-says-lebron-james-remarks-are-divisive-nasty-insulting.md",
       "title": "Donald Trump Says LeBron James' Remarks are 'Divisive, Nasty, Insulting'",
       "excerpt": "\"LeBron James should focus on basketball rather than presiding over the destruction of the NBA,\" the former president said. \"He may be a great basketball player, but he is doing nothing to bring our Country together.",
@@ -66,7 +322,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -99,63 +355,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-a-trump-mcconnell-power-struggle-creates-landmines-in-gop-quest-to-retake-congress.md",
-      "title": "A Trump-McConnell power struggle creates landmines in GOP quest to retake Congress",
-      "excerpt": "It’s forcing congressional leadership to tread lightly and avoid setting off an explosion that does real damage to the party.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/trump-mcconnell-power-struggle-creates-landmines-gop-quest-retake-congress-n1264216",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/trump-mcconnell-power-struggle-creates-landmines-gop-quest-retake-congress-n1264216",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_15/3465028/210415-trump-mcconnell-jm-1432_f47bdedc9477cb88b301dfb643e269a2.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1264216",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264216",
-      "publishedDateTime": "2021-04-22T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -377,6 +576,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-22-lara-trump-is-wild-card-in-north-carolina-senate-race.md",
+      "title": "Lara Trump is wild card in North Carolina Senate race",
+      "excerpt": "Former President Trump’s daughter-in-law Lara Trump is looming over the Republican Senate primary in North Carolina as the field grows with some of the state’s biggest GOP names.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race",
+      "originalUrl": "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumplara_082620getty_camp.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race?amp",
+      "publishedDateTime": "2021-04-22T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-pelosi-felt-liberated-after-ripping-up-trumps-2020-state-of-the-union-speech-author-says.md",
       "title": "Pelosi felt 'liberated' after ripping up Trump's 2020 State of the Union speech, author says",
       "excerpt": "House Speaker Nancy Pelosi felt \"liberated\" when she ripped up a copy of President Donald Trump's State of the Union address last year, but the move was largely unplanned simply because she couldn't find a pen,",
@@ -546,7 +797,7 @@
       "originalUrl": "https://www.washingtonpost.com/climate-environment/2021/04/21/trump-administration-sidelined-experts-writing-car-pollution-rules-epa-watchdog-finds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -865,21 +1116,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-20-mo-brooks-has-clear-sailing-trump-says-of-alabama-senate-race.md",
-      "title": "Mo Brooks ‘has clear sailing,’ Trump says of Alabama Senate race",
-      "excerpt": "Former President Donald Trump lauded Alabama Congressman Mo Brooks on Monday, predicting an easy victory for the Republican in the state’s U.S. Senate race next year. The comments come on the heels of Trump formally endorsing Brooks in the Senate race.",
+      "path": "_news/2021-04-20-watch-mike-lindell-get-tricked-by-a-prank-caller-pretending-to-be-donald-trump-during-a-livestream-for-his-new-social-media-site.md",
+      "title": "Watch Mike Lindell get tricked by a prank caller pretending to be Donald Trump during a livestream for his new social-media site",
+      "excerpt": "MyPillow CEO Mike Lindell launched social-media site Frank on Monday with a 48-hour livestream that was plagued by technical issues and prank calls.",
       "sourceUrl": null,
-      "webUrl": "https://www.al.com/news/2021/04/mo-brooks-has-clear-sailing-trump-says-of-alabama-senate-race.html",
-      "originalUrl": "https://www.al.com/news/2021/04/mo-brooks-has-clear-sailing-trump-says-of-alabama-senate-race.html",
+      "webUrl": "https://www.businessinsider.com/mike-lindell-frank-donald-trump-prank-call-social-media-mypillow-2021-4",
+      "originalUrl": "https://www.businessinsider.com/mike-lindell-frank-donald-trump-prank-call-social-media-mypillow-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 116,
       "tags": null,
       "images": [
         {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FGOVM6KJIRF43KGTGYCUEYHIWY.jpg",
-          "width": 3366,
-          "height": 2326,
+          "url": "https://i.insider.com/607ea3c444f4540019207a1a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -887,14 +1138,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.al.com/news/2021/04/mo-brooks-has-clear-sailing-trump-says-of-alabama-senate-race.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/mo-brooks-has-clear-sailing-trump-says-of-alabama-senate-race.html?outputType=amp",
-      "publishedDateTime": "2021-04-20T09:09:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/mike-lindell-frank-donald-trump-prank-call-social-media-mypillow-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mike-lindell-frank-donald-trump-prank-call-social-media-mypillow-2021-4?amp",
+      "publishedDateTime": "2021-04-20T08:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "al.com",
-        "domain": "al.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1172,7 +1432,7 @@
       "originalUrl": "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865",
       "featuredContent": null,
       "highlight": null,
-      "heat": 719,
+      "heat": 759,
       "tags": null,
       "images": [
         {
@@ -1268,172 +1528,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-19-michael-flynn-lin-wood-and-mike-lindell-pose-in-front-of-path-to-trump-board.md",
-      "title": "Michael Flynn, Lin Wood and Mike Lindell Pose in Front of 'Path to Trump' Board",
-      "excerpt": "The board was designed to document Trump's intricate web of associates and supporters with hopes of communicating conspiracy theories to the former president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/michael-flynn-lin-wood-mike-lindell-pose-front-path-trump-board-1584648",
-      "originalUrl": "https://www.newsweek.com/michael-flynn-lin-wood-mike-lindell-pose-front-path-trump-board-1584648",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1779799/michael-flynn-speaks-during-protest.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/michael-flynn-lin-wood-mike-lindell-pose-front-path-trump-board-1584648?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/michael-flynn-lin-wood-mike-lindell-pose-front-path-trump-board-1584648?amp=1",
-      "publishedDateTime": "2021-04-19T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-illinois-gops-asterisk-first-ad-for-2022-cycle-remap-may-have-a-trump-factor.md",
-      "title": "ILLINOIS GOP’s ASTERISK — FIRST AD for 2022 CYCLE — REMAP MAY HAVE A TRUMP FACTOR",
-      "excerpt": "The Illinois GOP has never been a fundraising juggernaut, and yet the first quarter numbers were still pretty bleak. For the first quarter, Illinois GOP reported receiving a little more than $115,000 in donations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/illinois-playbook/2021/04/19/illinois-gops-asterisk-first-ad-for-2022-cycle-remap-may-have-a-trump-factor-492515",
-      "originalUrl": "https://www.politico.com/newsletters/illinois-playbook/2021/04/19/illinois-gops-asterisk-first-ad-for-2022-cycle-remap-may-have-a-trump-factor-492515",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-trumps-fight-with-murkowski-roils-gop-with-new-alaska-senate-challenger-emerging.md",
-      "title": "Trump's fight with Murkowski roils GOP with new Alaska Senate challenger emerging",
-      "excerpt": "The first major GOP rift in the post-Trump era centers on Alaska Sen. Lisa Murkowski, the maverick Republican who has the strong backing of GOP leaders in Washington but has been targeted for defeat by former President Donald Trump and his closest confidantes over her vote to convict him for inciting the January 6 attack on the US Capitol.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html",
-      "originalUrl": "https://www.cnn.com/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210416231950-tump-murkowski-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html",
-      "publishedDateTime": "2021-04-19T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-19-graham-i-could-not-disagree-more-with-trump-support-of-afghanistan-troop-withdrawal.md",
       "title": "Graham: 'I could not disagree more' with Trump support of Afghanistan troop withdrawal",
       "excerpt": "Lindsey Graham (R-S.C.) on Sunday pushed back on former President Trump 's support for removing all troops from Afghanistan, writing on Twitter that he “could not disagree more with former President Trump regarding his support for President Biden ’s withdrawal of all forces from Afghanistan against sound military advice.",
@@ -1466,110 +1560,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-18-gop-white-house-hopefuls-move-forward-as-trump-considers-run.md",
-      "title": "GOP White House hopefuls move forward as Trump considers run",
-      "excerpt": "Donald Trump ended his presidency with such a firm grip on Republican voters that party leaders fretted he would freeze the field of potential 2024 candidates and delay their preparations as he consid",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 465,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp",
-      "publishedDateTime": "2021-04-18T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-18-new-polls-show-trump-and-clinton-neck-and-neck.md",
-      "title": "New polls show Trump and Clinton neck-and-neck",
-      "excerpt": "New polls show that Democratic candidate Hillary Clinton has lost her double-digit lead in a matchup against GOP presumptive nominee Donald Trump. What does this mean for the November election? CBS News senior political editor Steve Chaggaris and Real Clear Politics national reporter Caitlin Huey-Burns join CBSN to discuss.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/new-polls-show-trump-and-clinton-neck-and-neck/",
-      "originalUrl": "https://www.cbsnews.com/video/new-polls-show-trump-and-clinton-neck-and-neck/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/17/e75f35d7-00c4-4727-8ef5-e6b7676e2239/thumbnail/1200x630/9ede9f7dc7d90a76b4d81fe55921898e/0523-cbsn-aph-trumpvsclintonanalysis-1067329-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-17T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

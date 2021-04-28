@@ -47,54 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Rep. Biggs urges Biden to keep to timeline for US withdrawal from Afghanistan"
-    excerpt: "Rep. Andy Biggs, R-Ariz., on Monday urged President Biden to keep to the current timeline for withdrawal from Afghanistan, warning that any delay could lead to a \"slippery slope.\""
-    publishedDateTime: 2021-02-22T15:33:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oX-Ef91_nPs/biggs-biden-timeline-withdrawal-afghanistan"
-    ampWebUrl: "https://www.foxnews.com/politics/biggs-biden-timeline-withdrawal-afghanistan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biggs-biden-timeline-withdrawal-afghanistan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a7b903e-cc4e-4409-881b-9423960d9b52/94fa5bc2-c641-45fa-bead-1029cfadffec/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Rep. Liz Cheney blasts Biden over 'reckless decision' to pull out of Afghanistan"
-    excerpt: "House Republican Conference Chair Liz Cheney joined \"Your World\" Wednesday to react to President Biden's announcement that U.S. forces would begin their final withdrawal from Afghanistan May 1."
-    publishedDateTime: 2021-04-14T22:30:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c-6VCYtlk-k/liz-cheney-biden-afghanistan-pullout-reckless-decision"
-    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-biden-afghanistan-pullout-reckless-decision.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-biden-afghanistan-pullout-reckless-decision.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden admin to brief full Senate on decision to withdraw US troops from Afghanistan"
-    excerpt: "The Biden Administration is expected to deliver a briefing to the full Senate next week on its decision to withdraw all U.S. troops from Afghanistan by September 11, sources told Fox News. "
-    publishedDateTime: 2021-04-15T23:32:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxWgd-ucrAw/biden-admin-to-brief-full-senate-on-decision-to-withdraw-us-troops-from-afghanistan"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-to-brief-full-senate-on-decision-to-withdraw-us-troops-from-afghanistan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-to-brief-full-senate-on-decision-to-withdraw-us-troops-from-afghanistan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden wants to withdraw all 2,500 US troops from Afghanistan by 9/11: senior defense official"
     excerpt: "President Biden plans to remove all American troops from Afghanistan by September 11, a senior defense official confirmed to Fox News. "
     publishedDateTime: 2021-04-13T16:22:11Z
@@ -110,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden CIA head William Burns says pulling out of Afghanistan will 'diminish' US intelligence"
+    excerpt: "CIA Director William Burns said U.S. intelligence will \"diminish\" after U.S. troops pull out of Afghanistan."
+    publishedDateTime: 2021-04-14T19:46:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A3J2aSYlLPA/william-burns-afghanistan-diminish-us-intelligence"
+    ampWebUrl: "https://www.foxnews.com/politics/william-burns-afghanistan-diminish-us-intelligence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/william-burns-afghanistan-diminish-us-intelligence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21011418120691-e1610366107225.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden faces bipartisan pushback over plan to withdraw all troops from Afghanistan by Sept. 11"
     excerpt: "President Biden is facing bipartisan pushback over his plans to withdraw all U.S. troops from Afghanistan, as Republicans and Democrats alike sound the alarm over whether the move could be too soon."

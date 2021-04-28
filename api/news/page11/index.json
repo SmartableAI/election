@@ -2,6 +2,614 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-04-08-epa-replaces-trump-era-chemical-guidance-calling-it-compromised-by-politics.md",
+      "title": "EPA replaces Trump-era chemical guidance, calling it 'compromised' by politics",
+      "excerpt": "The Biden-led Environmental Protection Agency says Trump administration political officials \"compromised\" an assessment of chemical dangers and has replaced it with a new one they say \"upholds the tenants of scientific integrity.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GfiiSe6n1nw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GfiiSe6n1nw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170629172604-epa-environmental-protection-agency-logo-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/08/politics/environmental-protection-agency-chemical-guidance/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/environmental-protection-agency-chemical-guidance/index.html",
+      "publishedDateTime": "2021-04-08T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-biden-obama-talk-regularly-in-close-touch-on-a-range-of-issues-white-house-says.md",
+      "title": "Biden, Obama talk 'regularly,' in 'close touch' on a 'range' of issues, White House says",
+      "excerpt": "The White House on Thursday said President Biden and former President Barack Obama \"talk regularly\" about a \"range of issues,\" as well as personal matters, but did not disclose the frequency of those conversations.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lRR-zo_udrQ/biden-obama-talk-regularly",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lRR-zo_udrQ/biden-obama-talk-regularly",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-obama-talk-regularly.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-talk-regularly.amp",
+      "publishedDateTime": "2021-04-08T11:38:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-trumps-judicial-appointments-worsened-racial-diversity-in-the-federal-courts.md",
+      "title": "Trump's judicial appointments worsened racial diversity in the federal courts",
+      "excerpt": "President Donald Trump's appointments made it worse. In just four years, Trump placed 234 judges with lifetime tenure to the federal courts, making up 28% of the current federal judiciary. An overwhelming number — 192 — of Trump's active appointments ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-federal-judge-appointments-racial-diversity-2021-4",
+      "originalUrl": "https://www.businessinsider.com/trump-federal-judge-appointments-racial-diversity-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6059f07b106eb50019d050fb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-federal-judge-appointments-racial-diversity-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-federal-judge-appointments-racial-diversity-2021-4?amp",
+      "publishedDateTime": "2021-04-08T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-trump-endorses-ron-johnson-early-run-ron-run.md",
+      "title": "Trump endorses Ron Johnson early: 'Run, Ron, Run!",
+      "excerpt": "Republican Sen. Ron Johnson of Wisconsin hasn't announced yet whether he'll run for reelection next year. But that's not stopping former President Donald Trump from encouraging Johnson to seek a third six-year term in the Senate.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/07JUGTzWN9M/trump-endorses-ron-johnson-wisconsin",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/07JUGTzWN9M/trump-endorses-ron-johnson-wisconsin",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-ron-johnson-wisconsin.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-ron-johnson-wisconsin.amp",
+      "publishedDateTime": "2021-04-08T11:03:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-gop-group-tells-online-donors-give-every-month-or-we-will-have-to-tell-trump-youre-a-defector.md",
+      "title": "GOP group tells online donors: Give every month or 'we will have to tell Trump you're a DEFECTOR' ",
+      "excerpt": "The campaign arm of House Republicans is using an aggressive tactic to push online donors toward committing to monthly contributions, telling them that opting out of having the same amount automatically charged to their credit card or withdrawn from their bank each month is an act of disloyalty toward",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rmj4mQ13sSg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rmj4mQ13sSg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210319215641-donald-trump-022821-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/08/politics/nrcc-prechecked-boxes-trump-defector/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/nrcc-prechecked-boxes-trump-defector/index.html",
+      "publishedDateTime": "2021-04-08T10:42:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-biden-atf-pick-david-chipman-alarms-gun-rights-groups.md",
+      "title": "Biden ATF pick David Chipman alarms gun rights groups",
+      "excerpt": "Gun rights groups are expressing concern over President Biden's decision to name gun-control advocate David Chipman to lead the ATF.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vo-FSaSTR-Y/biden-gun-control-atf-david-chipman-assault-weapons-nra",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vo-FSaSTR-Y/biden-gun-control-atf-david-chipman-assault-weapons-nra",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21097760253459-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-gun-control-atf-david-chipman-assault-weapons-nra.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-control-atf-david-chipman-assault-weapons-nra.amp",
+      "publishedDateTime": "2021-04-08T10:30:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-historic-border-numbers-undercut-biden-claim-that-surge-happens-every-year.md",
+      "title": "Historic border numbers undercut Biden claim that surge 'happens every year'",
+      "excerpt": "President Biden last month downplayed the surge in migrants coming to the southern border, saying surges happen \"every year\" -- but while that is the case, the numbers released Thursday show that the current surge is dwarfing anything in recent memory.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B6uPpSAipjY/historic-border-numbers-biden-claim-surge-happens-every-year",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B6uPpSAipjY/historic-border-numbers-biden-claim-surge-happens-every-year",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54b524d2-f0cb-4954-bfa7-d2ddf0769067/e418b913-e4db-4b49-aa48-27b56863f89f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/historic-border-numbers-biden-claim-surge-happens-every-year.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/historic-border-numbers-biden-claim-surge-happens-every-year.amp",
+      "publishedDateTime": "2021-04-08T10:21:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-biden-on-the-second-amendment-no-amendment-is-absolute.md",
+      "title": "Biden on the Second Amendment: 'No amendment is absolute'",
+      "excerpt": "President Biden on Thursday, in rolling out a set of executive orders on gun control, said \"no amendment is absolute,\" while maintaining that \"nothing\" he is recommending \"impinges\" on the Second Amendment.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l1JOdmqIrdk/biden-second-amendment-no-amendment-is-absolute",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l1JOdmqIrdk/biden-second-amendment-no-amendment-is-absolute",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-second-amendment-no-amendment-is-absolute.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-second-amendment-no-amendment-is-absolute.amp",
+      "publishedDateTime": "2021-04-08T09:46:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-bidens-100b-internet-overhaul-will-hurt-consumers-stifle-innovation-former-fcc-chairman.md",
+      "title": "Biden's $100B internet overhaul will hurt consumers, stifle innovation: Former FCC chairman",
+      "excerpt": "Former FCC Chairman Ajit Pai said Thursday that the allocation of $100 billion to expand broadband networks in the U.S. under the Biden administration will only serve to hurt consumers and stifle innovation. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7mr5Fi_Lsl8/biden-internet-infrastructure-consumers-innovation-ajit-pai",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7mr5Fi_Lsl8/biden-internet-infrastructure-consumers-innovation-ajit-pai",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-internet-infrastructure-consumers-innovation-ajit-pai.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-internet-infrastructure-consumers-innovation-ajit-pai.amp",
+      "publishedDateTime": "2021-04-08T09:40:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-colion-noir-biden-gun-actions-about-control-not-about-keeping-people-safe.md",
+      "title": "Colion Noir: Biden gun actions about 'control,' not about keeping people safe",
+      "excerpt": "Gun rights activist stands against Biden administration's push for new gun control measures.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbbICGWpIfg/colion-noir-biden-gun-control-orders",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbbICGWpIfg/colion-noir-biden-gun-control-orders",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/colion-noir-biden-gun-control-orders.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colion-noir-biden-gun-control-orders.amp",
+      "publishedDateTime": "2021-04-08T08:42:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-what-are-ghost-guns-biden-executive-action-targets-dangerous-and-untraceable-firearms.md",
+      "title": "What are ghost guns?: Biden executive action targets 'dangerous' and 'untraceable' firearms",
+      "excerpt": "As President Joe Biden is set to announce Thursday a host of executive actions aimed at slowing gun violence in the wake of several recent mass shootings in the U.S., renewed focus is on so-called \"ghost guns.\" Among the actions Biden will announce is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2021/04/08/what-ghost-guns-joe-biden-executive-order-targets-guns/7137233002/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2021/04/08/what-ghost-guns-joe-biden-executive-order-targets-guns/7137233002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/04/08/USAT/c2c4b7d7-e2d5-4428-862a-76ed58027963-AP_3D_Guns.JPG?auto=webp&crop=1022,575,x1,y2&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7137233002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7137233002",
+      "publishedDateTime": "2021-04-08T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-nra-tells-joe-biden-it-is-ready-to-fight-new-gun-control-measures.md",
       "title": "NRA Tells Joe Biden It Is 'Ready to Fight' New Gun Control Measures",
       "excerpt": "The National Rifle Association (NRA) warned President Joe Biden it was \"ready to fight\" any new federal gun control measures, in spite of the legal and money troubles facing the lobby giant. Posting on social media, the NRA said planned gun control ...",
@@ -10,7 +618,7 @@
       "originalUrl": "https://www.newsweek.com/nra-ready-fight-joe-biden-gun-reform-1581952",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -166,63 +774,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-scalise-blasts-bidens-border-policies-calling-them-dangerous-for-kids.md",
-      "title": "Scalise blasts Biden's border policies, calling them 'dangerous for kids'",
-      "excerpt": "What they've done not only to these border towns, the mayors, you hear them, Democrat and Republican, expressing outrage over what President Biden created. Joe Biden created this crisis, but the child abuse and neglect that's going on, it's not just the 20 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids",
-      "originalUrl": "https://www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids.amp",
-      "publishedDateTime": "2021-04-08T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-08-trump-ally-gop-rep-lee-zeldin-announces-plan-to-run-for-new-york-governor-in-2022.md",
       "title": "Trump ally GOP Rep. Lee Zeldin announces plan to run for New York governor in 2022",
       "excerpt": "Washington (CNN)Republican Rep. Lee Zeldin, a staunch supporter of former President Donald Trump, announced Thursday he plans to run for New York governor next year, saying that \"to save our state,\" embattled Democratic incumbent Andrew Cuomo \"has got to go.\"",
@@ -277,62 +828,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-275-sheriffs-sign-letter-to-biden-on-border-crisis-reckless-effort-to-put-politics-before-safety.md",
-      "title": "275 sheriffs sign letter to Biden on border crisis: 'Reckless effort' to put politics before safety",
-      "excerpt": "Bristol County, Mass. Sheriff Thomas Hodgson discussed the letter 275 sheriffs signed urging President Biden to get the border crisis under control, during a Thursday segment of 'Fox & Friends.'",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NPuUBvLJ3Rw/275-sheriffs-sign-letter-biden-border-crisis-immigration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NPuUBvLJ3Rw/275-sheriffs-sign-letter-biden-border-crisis-immigration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a4800cc-2cbe-4ee2-8264-b821ee0e4244/c40a06fc-3d7a-4ad9-8d39-7bf23e41b7b7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/275-sheriffs-sign-letter-biden-border-crisis-immigration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/275-sheriffs-sign-letter-biden-border-crisis-immigration.amp",
-      "publishedDateTime": "2021-04-08T05:49:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -509,7 +1004,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 759,
+      "heat": 879,
       "tags": null,
       "images": [
         {
@@ -658,23 +1153,23 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-biden-to-take-first-limited-steps-on-gun-control-including-on-ghost-guns-and-pistol-braces.md",
-      "title": "Biden to take first limited steps on gun control, including on 'ghost guns' and pistol braces",
-      "excerpt": "President Joe Biden plans to announce new executive actions on guns on Thursday, a person familiar with the plans said, fulfilling a commitment he made in the aftermath of two deadly shootings last month.\n    \n",
+      "path": "_news/2021-04-08-bidens-planned-pick-for-atf-director-a-fierce-advocate-for-gun-control.md",
+      "title": "Biden's planned pick for ATF director a fierce advocate for gun control",
+      "excerpt": "David Chipman, President Joe Biden's planned nominee for director of the Bureau of Alcohol, Tobacco, Firearms and Explosives, has a long history at the agency and sports credentials in gun control advocacy sure to excite firearm safety groups.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WbuhfS5sVSo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WbuhfS5sVSo/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VX54MO6W-_I/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VX54MO6W-_I/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 184,
+      "heat": 395,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210406162103-01-biden-vaccine-remarks-0406-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210407172125-david-chipman-2019-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -684,9 +1179,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/07/politics/biden-executive-actions-guns/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/biden-executive-actions-guns/index.html",
-      "publishedDateTime": "2021-04-07T18:13:16-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html",
+      "publishedDateTime": "2021-04-07T18:30:50-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -711,58 +1206,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-biden-plans-to-crack-down-on-ghost-guns-with-action-on-thursday.md",
-      "title": "Biden plans to crack down on 'ghost guns' with action on Thursday",
-      "excerpt": "WASHINGTON (Reuters) -President Joe Biden on Thursday will unveil his administration’s first steps to curb gun violence, including a plan to reduce the proliferation of “ghost guns,” after a slew of mass shootings that have put pressure on him to act.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-guns-idUSKBN2BU2QP",
-      "originalUrl": "https://www.reuters.com/article/us-usa-guns-idUSKBN2BU2QP",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 625,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210407&t=2&i=1557617247&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH361CD",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BU2QP",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2QP",
-      "publishedDateTime": "2021-04-07T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -930,444 +1373,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-rep-mccaul-says-bidens-immigration-policies-a-victory-for-traffickers-and-very-bad-defeat-for-children.md",
-      "title": "Rep. McCaul says Biden's immigration policies a 'victory' for traffickers and 'very bad defeat' for children",
-      "excerpt": "Rep. Michael McCaul, R-Texas, slammed President Biden's border policies Wednesday on \"The Story,\" calling them a \"victory\" for traffickers, who separate children from their parents and bring them on a \"very dangerous journey\" to the United States.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6dQQ7S3jDOI/rep-mccaul-says-bidens-immigration-policies-a-victory-for-traffickers-and-very-bad-defeat-for-children",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6dQQ7S3jDOI/rep-mccaul-says-bidens-immigration-policies-a-victory-for-traffickers-and-very-bad-defeat-for-children",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rep-mccaul-says-bidens-immigration-policies-a-victory-for-traffickers-and-very-bad-defeat-for-children.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-mccaul-says-bidens-immigration-policies-a-victory-for-traffickers-and-very-bad-defeat-for-children.amp",
-      "publishedDateTime": "2021-04-07T14:43:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-nikki-haley-blasts-harris-as-missing-in-action-on-border-god-help-us-if-she-ever-becomes-president.md",
-      "title": "Nikki Haley blasts Harris as 'missing in action' on border: 'God help us if she ever becomes president'",
-      "excerpt": "President Biden's \"obsession\" with reversing former President Donald Trump's policies is \"unacceptable,\" former U.S. Ambassador to the United Nations Nikki Haley told \"America Reports\" Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sVf16l22kMU/nikki-haley-kamala-harris-missing-in-action-border-crisis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sVf16l22kMU/nikki-haley-kamala-harris-missing-in-action-border-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nikki-haley-kamala-harris-missing-in-action-border-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-kamala-harris-missing-in-action-border-crisis.amp",
-      "publishedDateTime": "2021-04-07T14:33:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-mike-pences-advocacy-group-to-hone-in-unaccompanied-minor-surge-at-border.md",
-      "title": "Mike Pence's Advocacy Group to Hone in Unaccompanied Minor Surge at Border",
-      "excerpt": "Former Vice President Mike Pence launched an advocacy organization on Wednesday that said its goal is to \"promote the pro-freedom policies\" in place during former President Donald Trump's administration and protect those policies from individuals on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pences-advocacy-group-hone-unaccompanied-minor-surge-border-1581835",
-      "originalUrl": "https://www.newsweek.com/mike-pences-advocacy-group-hone-unaccompanied-minor-surge-border-1581835",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1772843/mike-pence.jpg",
-          "width": 1233,
-          "height": 822,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pences-advocacy-group-hone-unaccompanied-minor-surge-border-1581835?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pences-advocacy-group-hone-unaccompanied-minor-surge-border-1581835?amp=1",
-      "publishedDateTime": "2021-04-07T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-donald-trump-is-not-too-queens-for-iowa.md",
-      "title": "Donald Trump is not “too Queens” for Iowa",
-      "excerpt": "CBS News Correspondent Julianna Goldman, Ed O'Keefe of the Washington Post, Mark Leibovich of The New York Times Magazine, and the Atlantic’s Jeffrey Goldberg discuss Trump’s newfound Iowa appeal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/donald-trump-is-not-too-queens-for-iowa-1/",
-      "originalUrl": "https://www.cbsnews.com/video/donald-trump-is-not-too-queens-for-iowa-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/07/c1a68032-f68e-4bcd-ba4a-c86f3966bce4/thumbnail/1200x630/3c6d955cdc8e82a852c383f95c1b2883/ftn-panel3-0830-438452-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/donald-trump-is-not-too-queens-for-iowa-1/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/donald-trump-is-not-too-queens-for-iowa-1/",
-      "publishedDateTime": "2021-04-07T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-mcconnell-again-slams-biden-as-a-leftist-bernie-sanders-is-really-happy.md",
-      "title": "McConnell again slams Biden as a leftist: 'Bernie Sanders is really happy'",
-      "excerpt": "Sen. Mitch McConnell doubled down on calling President Biden “far-left,” after the administration shot back, saying Wednesday there is “nothing at all moderate about the administration so far.” ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfx3Mxw1d-g/mcconnell-doubles-down-biden-far-left-bernie-sanders",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfx3Mxw1d-g/mcconnell-doubles-down-biden-far-left-bernie-sanders",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38a79d73-0f3e-4976-86c1-df8b65cc7425/1a5adb29-437a-423f-b1a7-862019efd686/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-doubles-down-biden-far-left-bernie-sanders.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-doubles-down-biden-far-left-bernie-sanders.amp",
-      "publishedDateTime": "2021-04-07T12:50:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers.md",
-      "title": "Texas, Louisiana sue Biden administration over reduced use of ICE detainers",
-      "excerpt": "“President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far Jill Biden to visit Alabama with actress Jennifer Garner MORE’s outright ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/latino/546987-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers",
-      "originalUrl": "https://thehill.com/latino/546987-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/ice_05092019_getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/latino/546987-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/latino/546987-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers?amp",
-      "publishedDateTime": "2021-04-07T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-omar-says-its-shameful-and-unacceptable-for-biden-to-continue-the-construction-of-trump-border-wall.md",
-      "title": "Omar says it's 'shameful and unacceptable' for Biden to 'continue the construction' of Trump border wall",
-      "excerpt": "Rep. Ilhan Omar, D-Minn., put heat on the Biden administration Wednesday not to restart funding for the border wall. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TcV2Oh2oZ4/omar-biden-trumps-border-wall",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TcV2Oh2oZ4/omar-biden-trumps-border-wall",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/b675a70f-image-31.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/omar-biden-trumps-border-wall.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-biden-trumps-border-wall.amp",
-      "publishedDateTime": "2021-04-07T12:27:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-damn-it-im-sick-and-tired-of-ordinary-people-being-fleeced-biden-defends-corporate-tax-hike.md",
-      "title": "‘Damn it … I’m sick and tired of ordinary people being fleeced’: Biden defends corporate tax hike",
-      "excerpt": "President Joe Biden on Wednesday defended raising the corporate tax rate to help pay for his infrastructure plan, saying he’s “sick and tired of ordinary people being fleeced.” Biden slammed former President Donald Trump’s corporate tax rate cuts ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/07/biden-infrastructure-speech-479721",
-      "originalUrl": "https://www.politico.com/news/2021/04/07/biden-infrastructure-speech-479721",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/c3/24/49791ee84b6a94e296633797d05f/210407-biden-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/07/biden-infrastructure-speech-479721",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/biden-infrastructure-speech-479721",
-      "publishedDateTime": "2021-04-07T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

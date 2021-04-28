@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-biden-un-ambassadors-us
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-biden-un-ambassadors-us-criticism.amp"
 type: article
 quality: 172
-heat: 232
+heat: 252
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/ted-cruz.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Nikki Haley says she won’t run for president in 2024 if Trump does"
+    excerpt: "Nikki Haley, former US Ambassador to the United Nations and Governor of South Carolina, will not launch a White House bid if former President Trump chooses to run. Haley made the revelation while"
+    publishedDateTime: 2021-04-13T16:00:00Z
+    webUrl: "https://nypost.com/2021/04/13/nikki-haley-says-she-wont-run-for-president-in-2024-if-trump-does/"
+    ampWebUrl: "https://nypost.com/2021/04/13/nikki-haley-says-she-wont-run-for-president-in-2024-if-trump-does/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/13/nikki-haley-says-she-wont-run-for-president-in-2024-if-trump-does/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/haley-2024-03.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "kvpryPijYG6uRrqVjGYid0WPDrB5UNIx3RGK4AUqXAks7TYvn9zwzDcVUGtIDuw4i8Hg3MLPzo28vXFyNCSuVhSxCv/WDwggbCRq2CnFcR86VirqlHAPuzNszc32TMKIjtrRID2fJ2ViyajFbDuS0JwjsEP2t+BxPJp4956YaGia1s5o68ez0imUgprfCIadDjp0IqYMbckCeqW70Q70ZsezY359BF+HmrmFuv4QncF10bF94e1BUte1RCJljDLkPZfnWWJNsHxltcCmuaYInFgsIcavVpbKfNzBXpnXVhLxiFQNUR0jlTh/DHXDkuAeVurhSbB0PtC7eZkzi/rozpcEQEgaVQbeceklxJEYPus=;3CMZvKJc1vFqy4msO5qmYA=="

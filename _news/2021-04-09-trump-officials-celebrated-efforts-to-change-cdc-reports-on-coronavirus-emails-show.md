@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp"
 type: article
 quality: 118
-heat: -1
-published: false
+heat: 138
+published: true
 
 provider:
   name: Washington Post
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Headhunters having hard time finding jobs for former Trump officials: report"
-    excerpt: "Headhunters have indicated difficulties in finding jobs for former Trump Cabinet officials in the months since leaving their posts,"
-    publishedDateTime: 2021-04-07T18:56:00Z
-    webUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials"
-    ampWebUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
-    images:
-      - url: "https://thehill.com/sites/default/files/chaoelaine_091919gn6_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump Blasted by Former Staffer Miles Taylor for Deceptive Fundraising Payment Scheme"
-    excerpt: "Above, Donald Trump speaks during the Conservative Political Action Conference (CPAC) on February 28, 2021 in Orlando, Florida. Joe Raedle/Getty Images \"And to raid someone of their money at the end of their life has got to add onto that hardship for the ..."
-    publishedDateTime: 2021-04-04T15:23:00Z
-    webUrl: "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952"
-    ampWebUrl: "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
-    images:
-      - url: "https://d.newsweek.com/en/full/1771467/donald-trump-miles-taylor-election.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Trump officials gloated about pressuring the CDC to edit its COVID-19 reports: 'Yippee!!!'"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Health officials in former President Donald Trump's administration gloated about their efforts to edit scientific reports on COVID-19 last year to fit Trump's messaging, according to documents obtained by The ..."
     publishedDateTime: 2021-04-09T14:27:00Z

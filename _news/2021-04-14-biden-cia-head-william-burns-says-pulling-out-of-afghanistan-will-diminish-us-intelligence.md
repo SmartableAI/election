@@ -31,173 +31,182 @@ images:
     isCached: true
 
 related:
-  - title: "Biden announces William Burns for CIA director"
-    excerpt: "President-elect Joe Biden announced Ambassador William Burns as his nominee for director of the CIA on Monday."
-    publishedDateTime: 2021-01-11T11:57:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7AdeLJYzGc/biden-william-burns-cia-director"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-william-burns-cia-director.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-william-burns-cia-director.amp"
+  - title: "Biden called Bush and Obama before announcing Afghanistan troop withdrawal"
+    excerpt: "President Biden spoke to both former Presidents George Bush and Barack Obama on Tuesday before he announced his decision to withdraw all troops from Afghanistan by Sept. 11. "
+    publishedDateTime: 2021-04-14T21:27:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yc9gBGQpmGc/biden-called-bush-obama-afghanistan-troop-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-called-bush-obama-afghanistan-troop-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-called-bush-obama-afghanistan-troop-withdrawal.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011418120691-e1610366107225.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden picks Obama veterans for key State Department posts"
-    excerpt: "President-elect Joe Biden announced Saturday that he will nominate two Obama administration veterans to key State Department posts."
-    publishedDateTime: 2021-01-16T15:35:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1NOw8yW-IxA/former-obama-sherman-nuland-bidens-state"
-    ampWebUrl: "https://www.foxnews.com/politics/former-obama-sherman-nuland-bidens-state.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-obama-sherman-nuland-bidens-state.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83d781d9-a368-4b40-bd50-c2a081f73d7b/d59313cd-ebe2-451d-8223-615e77a6a1cd/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1dbde3e9-18e3-4413-9034-a6c01d33223e/4688aa78-7908-4c89-a87d-3361deba8004/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "William Burns: What to know about Biden's CIA director pick"
-    excerpt: "Burns has worked with presidents from both parties and has held a number of diplomatic roles prior to his nomination."
-    publishedDateTime: 2021-01-22T14:26:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pgUe7AyMCQg/william-burns-what-to-know-about-bidens-cia-director-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/william-burns-what-to-know-about-bidens-cia-director-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/william-burns-what-to-know-about-bidens-cia-director-pick.amp"
+  - title: "Lindsey Graham: Biden 'paving the way' for another 9/11 with Afghanistan withdrawal"
+    excerpt: "Sen. Lindsey Graham warned that President Biden is \"paving the way\" for another 9/11 with his commitment to fully withdraw all American troops from Afghanistan by September. "
+    publishedDateTime: 2021-04-14T21:12:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qo8Rte3sJ-E/lindsey-graham-biden-afghanistan-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-biden-afghanistan-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-biden-afghanistan-withdrawal.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/bb567210-William-Burns.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/US-Afghanistan-Withdrawal-Biden-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "If Biden halts border wall, it could cost taxpayers billions, CBP chief warns"
-    excerpt: "President-elect Joe Biden is promising that border wall building won't continue under his administration, but with hundreds of miles under construction, the head of Customs and Border Protection (CBP) is warning that shutting down construction could cost taxpayers billions."
-    publishedDateTime: 2021-01-09T22:25:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QQ7UW30u_NQ/biden-border-taxpayers-billions-cbp"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-taxpayers-billions-cbp.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-taxpayers-billions-cbp.amp"
+  - title: "Biden wants to withdraw all 2,500 US troops from Afghanistan by 9/11: senior defense official"
+    excerpt: "President Biden plans to remove all American troops from Afghanistan by September 11, a senior defense official confirmed to Fox News. "
+    publishedDateTime: 2021-04-13T16:22:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pJNhgPP9VIQ/biden-withdraw-2500-afghanistan-9-11-sr-defense-official"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-withdraw-2500-afghanistan-9-11-sr-defense-official.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-withdraw-2500-afghanistan-9-11-sr-defense-official.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cb36dbe-eada-4977-abd7-6669263e1345/a159a8e6-35c5-4f32-aa31-c8e2af9ce0ae/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden just announced his stimulus plan — and AOC already has a problem with it"
-    excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., is criticizing President-elect Biden's new coronavirus relief, arguing that it doesn't go far enough to help people in need during the pandemic."
-    publishedDateTime: 2021-01-15T02:16:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Myv1oy_9Dt0/biden-stimulus-plan-aoc-problem"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-stimulus-plan-aoc-problem.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-stimulus-plan-aoc-problem.amp"
+  - title: "Biden faces bipartisan pushback over plan to withdraw all troops from Afghanistan by Sept. 11"
+    excerpt: "President Biden is facing bipartisan pushback over his plans to withdraw all U.S. troops from Afghanistan, as Republicans and Democrats alike sound the alarm over whether the move could be too soon."
+    publishedDateTime: 2021-04-14T15:06:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WUhXhICX1Fw/biden-bipartisan-pushback-afghanistan-troop-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-bipartisan-pushback-afghanistan-troop-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bipartisan-pushback-afghanistan-troop-withdrawal.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/277c6958-c0f2-467b-92b4-80db098c3627/39b4bd0b-dee1-4946-8e21-fd62a4ac63a8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Lindsey Graham praises Biden's CIA director nominee: 'I have known him for years'"
-    excerpt: "Sen. Lindsey Graham, R-S.C., praised President-elect Joe Biden's nominee for CIA director on Monday."
-    publishedDateTime: 2021-01-12T12:52:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/am7GBZVDoNU/bill-burns-biden-cabinet-lindsey-graham"
-    ampWebUrl: "https://www.foxnews.com/politics/bill-burns-biden-cabinet-lindsey-graham.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-burns-biden-cabinet-lindsey-graham.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011418120691-e1610366107225.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden announces Anita Dunn as senior adviser, TJ Ducklo as deputy press secretary in additions to WH staff"
-    excerpt: "Former Obama White House communications director and senior adviser for President-elect Joe Biden’s 2020 campaign Anita Dunn is joining the White House as a senior advisor to the president."
-    publishedDateTime: 2021-01-15T16:21:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4GG3flFR1k/biden-white-house-anita-dunn-senior-adviser-tj-ducklo-deputy-press-secretary"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-anita-dunn-senior-adviser-tj-ducklo-deputy-press-secretary.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-anita-dunn-senior-adviser-tj-ducklo-deputy-press-secretary.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
+    quality: 164
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden press secretary won't say if White House visitor logs will be published"
-    excerpt: "Incoming White House Press Secretary Jen Psaki declined Friday to specify whether President-elect Joe Biden’s administration would publish White House’s visitor logs"
-    publishedDateTime: 2021-01-16T01:17:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs.amp"
+  - title: "Gen. Jack Keane warns Biden 'forgetting lessons learned' with plan for Afghanistan withdrawal"
+    excerpt: "President Biden's decision to withdraw all remaining U.S. troops from Afghanistan beginning May 1 is \"reckless,\" Fox News senior strategic analyst and retired Army Gen. Jack Keane told \"The Story\" Wednesday."
+    publishedDateTime: 2021-04-14T22:58:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g3abEH03qXg/biden-afghanistan-withdrawal-forgetting-lessons-learned"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghanistan-withdrawal-forgetting-lessons-learned.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghanistan-withdrawal-forgetting-lessons-learned.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 132
+    quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7de536e-1b1d-4f26-a547-667b1a372a6b/462cdc42-e036-410d-802a-644eed65a420/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e104576-8983-420c-b963-ee2e9c1b8114/2ecc9932-0d5b-45d4-b308-b0bc34669c79/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Chooses Veteran Diplomat Burns as CIA Director"
-    excerpt: "WASHINGTON (AP)  President-elect Joe Biden announced Monday he has chosen veteran diplomat William Burns to be his CIA director. A former ambassador"
-    publishedDateTime: 2021-01-11T14:06:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.amp.html"
+  - title: "Rep Waltz: Biden's Afghanistan withdrawal 'breaks my heart', 'worse' than Obama leaving Iraq"
+    excerpt: "Former Green Beret and current U.S. Representative Michael Waltz, R-Fla, joined Fox News' Marth MacCallum on 'The Story' Wednesday to react to President Biden's decision to withdraw American troops from Afghanistan by September 11 this year"
+    publishedDateTime: 2021-04-14T20:31:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9ZPitAADaTg/rep-waltz-bidens-afghanistan-withdrawal-breaks-my-heart-worse-than-obama-leaving-iraq"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-waltz-bidens-afghanistan-withdrawal-breaks-my-heart-worse-than-obama-leaving-iraq.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-waltz-bidens-afghanistan-withdrawal-breaks-my-heart-worse-than-obama-leaving-iraq.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Secretary of State Blinken visits Afghanistan in surprise trip after Biden troop announcement"
+    excerpt: "U.S. Secretary of State Antony Blinken made an unannounced visit to Afghanistan on Thursday to sell Afghan leaders and a wary public on President Joe Biden’s decision to withdraw all American troops from the country and end America’s longest war."
+    publishedDateTime: 2021-04-15T12:28:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J_6coFj4Z9A/secretary-of-state-blinken-visits-afghanistan-in-surprise-trip-after-biden-troop-announcement"
+    ampWebUrl: "https://www.foxnews.com/politics/secretary-of-state-blinken-visits-afghanistan-in-surprise-trip-after-biden-troop-announcement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/secretary-of-state-blinken-visits-afghanistan-in-surprise-trip-after-biden-troop-announcement.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/02/640/320/AP19030745305241.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden announces Sept. 11 Afghanistan withdrawal deadline, says it's time for troops 'to come home'"
+    excerpt: "President Biden on Wednesday announced that the U.S. will withdraw all American forces from Afghanistan by Sept. 11 — pushing back a May deadline set by the Trump administration."
+    publishedDateTime: 2021-04-14T18:39:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ORltkjZp4Dg/biden-afghanistan-withdrawal-troops-home"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghanistan-withdrawal-troops-home.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghanistan-withdrawal-troops-home.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21104669713438.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Sullivan promises Biden 'not going to take his eye off the ball' with Afghanistan, despite GOP concerns"
+    excerpt: "National Security Advisor Jake Sullivan promised Sunday that while Republicans may fear that the withdrawal of U.S. forces from Afghanistan will allow new threats to emerge or old ones to regain power, President Biden will not let that happen."
+    publishedDateTime: 2021-04-18T15:08:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Ku53OvCaSY/sullivan-biden-afghanistan-withdrawal-gop-concerns"
+    ampWebUrl: "https://www.foxnews.com/politics/sullivan-biden-afghanistan-withdrawal-gop-concerns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sullivan-biden-afghanistan-withdrawal-gop-concerns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Bush warns Biden withdrawal from Afghanistan risks harming women, girls by empowering 'brutal' Taliban"
+    excerpt: "Former President George W. Bush warned Tuesday that President Biden's decision to withdraw all American troops from Afghanistan by Sept. 11 could have harmful implications for women and girls if the \"brutal\" Taliban retakes power. "
+    publishedDateTime: 2021-04-20T13:36:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xd00LhSkFVk/bush-warns-biden-withdrawal-afghanistan-risks-women-girls-taliban"
+    ampWebUrl: "https://www.foxnews.com/politics/bush-warns-biden-withdrawal-afghanistan-risks-women-girls-taliban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bush-warns-biden-withdrawal-afghanistan-risks-women-girls-taliban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Missing Deadline, Biden Delays Afghan Withdrawal Timeline to September"
+    excerpt: "President Joe Biden will withdraw all U.S. troops from Afghanistan by Sept. 11, the 20th anniversary of the terrorist attacks on"
+    publishedDateTime: 2021-04-16T11:16:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/14/missing_deadline_biden_to_delay_afghan_troop_withdrawal_until_september.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/14/missing_deadline_biden_to_delay_afghan_troop_withdrawal_until_september.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/14/missing_deadline_biden_to_delay_afghan_troop_withdrawal_until_september.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 85
     images:
-      - url: "https://assets.realclear.com/images/53/531962_5_.jpg"
-        width: 750
-        height: 501
-        isCached: true
-  - title: "Biden Flings a Slew of Inflammatory Race-Tinged Lies"
-    excerpt: "As President Trump denounced the violence in he Capitol and called for peace and order, Joe Biden had a different idea: Attacking President Trump. And pinning the racism tag on the cops. This is what happened."
-    publishedDateTime: 2021-01-09T13:45:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/09/biden_flings_a_slew_of_inflammatory_race-tinged_lies_533032.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/531874_5_.jpg"
+      - url: "https://assets.realclear.com/images/53/539938_5_.jpg"
         width: 750
         height: 500
         isCached: true
-  - title: "Biden's Stimulus Plan Will Harm Those Who Need Most Help"
-    excerpt: "If you thought help for the coronavirus was on the way, think again. President-elect Joe Biden's plan to provide economic relief is going to cause a lot of pain and waste a lot of money on people who do not need it."
-    publishedDateTime: 2021-01-16T14:26:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/16/bidens_stimulus_plan_will_harm_those_who_need_most_help_533649.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "vcOTJeWosVhjBgK9ECg3jOvCDIlodhObgKBg1qdK2/P7oA3CepHRd58tPaaqfkCPHtxJfd/UosREeS75elZ9GAK/L31JVaCE/bUwZqvuTEP+RQbHhFggPu0HrNdWCErkN5YB8FiC0noPfi3qqQjp3KSkuZ7G2Whape93pPN564R5i9uNEZTv42l+ezErK096XACh+BBLJwwFIeI8lLYBPhJtE1duuW4tUdNb8Aoq9v+IWAWHQsuplRYfqoINF3qZMvP4bEGf2DgSp5ZmA9iZxDgImpK5NJBr2P1jXAlxAah0N975V9A3PDqPjorMgpMw899zw9gtkCwp01NxYUaHp0MthyEslWHX8Zrb5txMzDY=;u6/Zhifbu0hasxzPgiw2ig=="
 ---

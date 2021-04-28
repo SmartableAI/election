@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262494"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262494"
 type: article
 quality: 131
-heat: -1
-published: false
+heat: 131
+published: true
 
 provider:
   name: NBC News
@@ -30,24 +30,6 @@ images:
     width: 2500
     height: 1667
     isCached: true
-
-related:
-  - title: "Judge allows Summer Zervos' defamation lawsuit against Trump to proceed now that he's out of office"
-    excerpt: "A New York appeals court on Tuesday paved the way for a defamation lawsuit against former President Donald Trump to move forward.\n    \n"
-    publishedDateTime: 2021-03-30T18:13:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h8jU8sCqJik/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191119103813-summer-zervos-december-2017-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "3vxmUPXfqot1jzvsIDyD4DENGz7iA8r9EeMS28WhRoholPMIbpizAFLsHQl2drWGDDS+H0vofY2L/Zv7zGgbdVlOwBrE0o8Wg2wvhboSu8EThimpSnyLj4mqOV1JM5ogp7AySrHIDKwyBAR0ee+4BbYIdRF0gjuu8nHX1lF1mU6zp9OTWV1o5p7i5qXrGwgqDWjtyM+2JKkx3ehWgmHG27gbdTeBPZN96KAGVNujsFcM/faTESOfhH+VOoc1rvjKX04WAzhOMMlBppfz4zmraqpLoPR3WD1ml8BlNOay0mQbd6v0sPLKayTf825PpsCfBCR++d7CwL7Gt0A2Vk/bN5UbKrMaTFmvUIEf3Ory6+wOebQAlGesUdXikG93woqRwgV/4FsOkiy7MRmY3VpY8khe2HOGXqGi0OC4mm3fsZJ7raTB4db/TJxjRbrUiL3OsyRsqPV6YxRX7mkejLUtUNmQ3XEp53DhTgoOpn6RXfZ5bqQpK2YOQkQMVABEm3fUpGRk4tXKTv1OsHNlBqkGZg==;rw64YAq9zSP86twlT56OKA=="
 ---

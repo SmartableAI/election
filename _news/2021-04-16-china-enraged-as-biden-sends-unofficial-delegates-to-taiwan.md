@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to address joint session of Congress on April 28"
+    excerpt: "If Biden accepts the invitation, it would mark the first time he has addressed Congress in person since becoming president."
+    publishedDateTime: 2021-04-14T00:21:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9tajvtn_3qk/pelosi-invites-biden-to-address-joint-congress-session-on-april-28"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-invites-biden-to-address-joint-congress-session-on-april-28.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-invites-biden-to-address-joint-congress-session-on-april-28.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23634e94-94e7-4bf7-9e0c-fe06767c9820/a40574e7-a98b-4e06-b72a-eedcc3fe9dc2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Rep. Mace hits Biden for giving first joint address to an 'empty room'"
     excerpt: "President Biden has accepted House Speaker Nancy Pelosi's invitation to deliver his first joint session of Congress address on Wednesday, April 28."
     publishedDateTime: 2021-04-15T17:06:37Z
@@ -63,85 +79,115 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Sen. Tim Scott to deliver GOP response to Biden's first speech to Congress"
-    excerpt: "Sen. Tim Scott, R-SC, will deliver the Republican Party’s response following President Biden’s first speech to a joint session of Congress on April 28, GOP leadership said on Thursday."
-    publishedDateTime: 2021-04-22T20:18:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vKeji-oKtuw/sen-tim-scott-deliver-gop-response-biden-first-speech-congress"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-tim-scott-deliver-gop-response-biden-first-speech-congress.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-tim-scott-deliver-gop-response-biden-first-speech-congress.amp"
+  - title: "CA man whose brother was killed by illegal immigrant sends message to Biden"
+    excerpt: "A man whose brother was killed by an illegal alien slammed the Biden administration for refusing to admit that there is a crisis at the southern border and said the situation is getting worse by the minute."
+    publishedDateTime: 2021-04-09T12:29:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dGSc4lpIRH4/california-man-brother-killed-illegal-immigrant-biden-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/california-man-brother-killed-illegal-immigrant-biden-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-man-brother-killed-illegal-immigrant-biden-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0268a05a-cf95-4110-a9a4-402dbe6f08b4/44861f6a-69d1-400f-b2a5-971444fe656e/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b0330951-a90f-499a-abe2-ecd4bb10c804/c6e4fc37-0ba2-4fe1-b955-c29f20bbde5d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Boebert, Roy seek to force vote on reversing Biden's oil and gas executive orders"
-    excerpt: "Reps. Lauren Boebert and Chip Roy launched an effort Wednesday to force a House vote on reversing President Biden's oil and gas executive orders that the GOP lawmakers panned as detrimental to the economy and America's energy independence. "
-    publishedDateTime: 2021-04-21T18:41:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Akwbi_5_V1k/boebert-seeks-to-repeal-bidens-executive-order-limiting-oil-drilling"
-    ampWebUrl: "https://www.foxnews.com/politics/boebert-seeks-to-repeal-bidens-executive-order-limiting-oil-drilling.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-seeks-to-repeal-bidens-executive-order-limiting-oil-drilling.amp"
+  - title: "Rep. Liz Cheney blasts Biden over 'reckless decision' to pull out of Afghanistan"
+    excerpt: "House Republican Conference Chair Liz Cheney joined \"Your World\" Wednesday to react to President Biden's announcement that U.S. forces would begin their final withdrawal from Afghanistan May 1."
+    publishedDateTime: 2021-04-14T22:30:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c-6VCYtlk-k/liz-cheney-biden-afghanistan-pullout-reckless-decision"
+    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-biden-afghanistan-pullout-reckless-decision.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-biden-afghanistan-pullout-reckless-decision.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Chip-Roy-Lauren-Boebert.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden administration pays travel costs for adult sponsors to pick up migrant children"
-    excerpt: "The Biden administration is paying the travel costs for adult sponsors to go to migrant shelters and pick up migrant children – as the administration scrambles to cope with the surge in unaccompanied children (UACs) coming to the southern border."
-    publishedDateTime: 2021-04-22T15:54:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8nLJZ64BbVE/biden-administration-travel-costs-adult-sponsors-migrant-children"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-travel-costs-adult-sponsors-migrant-children.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-travel-costs-adult-sponsors-migrant-children.amp"
+  - title: "Russia expels 10 US diplomats after Biden administration announces new sanctions"
+    excerpt: "Russia on Friday responded in kind to a barrage of new U.S. sanctions, saying it would expel 10 U.S. diplomats and take other retaliatory moves in a tense showdown with Washington"
+    publishedDateTime: 2021-04-16T17:15:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gpr5a2Gxs54/russia-expels-10-us-diplomats-biden-announces-new-sanctions"
+    ampWebUrl: "https://www.foxnews.com/politics/russia-expels-10-us-diplomats-biden-announces-new-sanctions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/russia-expels-10-us-diplomats-biden-announces-new-sanctions.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6aba89ef-13d8-476d-a099-2e7d6c407a22/d8eb31b2-fab7-48ac-b0ae-0ad08d4aa013/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20340464541350.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden admin to brief full Senate on decision to withdraw US troops from Afghanistan"
+    excerpt: "The Biden Administration is expected to deliver a briefing to the full Senate next week on its decision to withdraw all U.S. troops from Afghanistan by September 11, sources told Fox News. "
+    publishedDateTime: 2021-04-15T23:32:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxWgd-ucrAw/biden-admin-to-brief-full-senate-on-decision-to-withdraw-us-troops-from-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-to-brief-full-senate-on-decision-to-withdraw-us-troops-from-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-to-brief-full-senate-on-decision-to-withdraw-us-troops-from-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Lindsey Graham calls Biden’s weakness towards Russia a ‘death sentence’: ‘Nobody’ is afraid of Joe Biden"
+    excerpt: "President Biden is bringing a weaker demeanor to the forefront of the nation and it's apparent in his relationship with Russia, Sen. Lindsey Graham, R-S.C., argued Monday on \"Fox News Primetime\""
+    publishedDateTime: 2021-04-20T02:06:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nl0lRh4N43A/lindsey-graham-calls-bidens-weakness-towards-russia-a-death-sentence-nobody-is-afraid-of-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-calls-bidens-weakness-towards-russia-a-death-sentence-nobody-is-afraid-of-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-calls-bidens-weakness-towards-russia-a-death-sentence-nobody-is-afraid-of-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21109644329141.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Joe Concha: Biden's Supreme Court commission outcome is a likely one"
+    excerpt: "Fox News contributor and The Hill opinion columnist Joe Concha argued on 'Fox & Friends' Sunday that President Biden's Supreme Court commission is \"all window dressing,\" saying members of the commission will likely come to a conclusion that sides with Biden."
+    publishedDateTime: 2021-04-11T16:40:00Z
+    webUrl: "https://www.foxnews.com/politics/joe-concha-supreme-court-commission"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-concha-supreme-court-commission.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-concha-supreme-court-commission.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52572f02-94b6-45ee-8fe4-0071fa5b10ba/81856677-392f-4851-8704-576ba111c3fa/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's Turning Point on Police Reform"
-    excerpt: "Minnesota Attorney General Keith Ellison called the guilty-verdict sweep against Derek Chauvin, the police officer who killed George Floyd, an"
-    publishedDateTime: 2021-04-21T11:25:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.amp.html"
+  - title: "Biden To Congress On Infrastructure: \"I'm Prepared To Negotiate\""
+    excerpt: "President Joe Biden said he is “prepared to negotiate” the size of his infrastructure plan and how to pay for it during a meeting with a bipartisan group of lawmakers on Monday. \"I’m prepared to negotiate as to the extent of my infrastructure project ..."
+    publishedDateTime: 2021-04-13T12:52:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/13/biden_to_congress_on_infrastructure_im_prepared_to_negotiate.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 85
+    quality: 65
     images:
-      - url: "https://assets.realclear.com/images/54/541090_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Son-in-Law Benefited From Loan Program Biden Ripped"
-    excerpt: "Joe Biden needed to talk to a family member, and the message, Politico later reported, was blunt. For Christs sake, the then-presidential"
-    publishedDateTime: 2021-04-22T10:30:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/22/son-in-law_benefited_from_loan_program_biden_ripped_145635.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/22/son-in-law_benefited_from_loan_program_biden_ripped_145635.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/22/son-in-law_benefited_from_loan_program_biden_ripped_145635.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/541165_5_.jpg"
-        width: 750
-        height: 541
+      - url: "https://assets.realclear.com/images/54/540323.jpg"
+        width: 4871
+        height: 3248
         isCached: true
   - title: "Biden Making a Major Mistake on Afghanistan"
     excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."

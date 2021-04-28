@@ -31,245 +31,277 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration resumes Taliban peace talks"
-    excerpt: "The US is sending negotiators to the Middle East to restart peace negotiations with the Taliban for the first time in the Biden administration, the State Department announced Sunday.\n    \n"
-    publishedDateTime: 2021-03-01T03:51:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QjHSGPSQjD0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/biden-taliban-peace-talks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/biden-taliban-peace-talks/index.html"
+  - title: "Obama praises Biden's 'bold leadership' on Afghanistan withdrawal"
+    excerpt: "Former President Barack Obama on Wednesday praised President Joe Biden's \"bold leadership\" for his decision to withdraw all US troops from Afghanistan by September 11, saying that \"it is time to recognize that we have accomplished all that we can militarily\" in America's longest war.\n    \n"
+    publishedDateTime: 2021-04-14T19:46:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ty0BXQf4FVQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180823092036-zalmay-khalilzad-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414151832-obama-biden-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Jill Biden to visit two reopened schools as part of education focus"
-    excerpt: "First lady Jill Biden will make a trip to Meriden, Connecticut, and Waterford, Pennsylvania, on Wednesday to visit two public schools that have recently reopened for in-person learning.\n    \n"
-    publishedDateTime: 2021-03-03T13:00:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cEId_Z1chGo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/jill-biden-reopened-schools/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/jill-biden-reopened-schools/index.html"
+  - title: "Schumer praises Biden's 'careful and thought-out plan' for Afghanistan"
+    excerpt: "Senate Majority Leader Chuck Schumer on Wednesday praised President Joe Biden's plan to withdraw US troops from Afghanistan, calling it a \"careful and thought-out plan.\"\n    \n"
+    publishedDateTime: 2021-04-14T14:28:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zVtojWIqndA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/chuck-schumer-afghanistan-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/chuck-schumer-afghanistan-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214020153-doctor-jill-biden-file-0419-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414092514-screengrab-chuck-schumer-cnn-0414-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The two political truths Joe Biden can't ignore"
-    excerpt: "Here's what we've learned about Washington and US policymaking since President Joe Biden took office, paraphrasing from CNN's political director David Chalian:\n    \n"
-    publishedDateTime: 2021-03-05T01:02:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ga2YzNgGnzc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/what-matters-march-4/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/what-matters-march-4/index.html"
+  - title: "READ: Biden's remarks announcing Afghanistan troop withdrawal "
+    excerpt: "President Joe Biden on Wednesday formally announced his decision to withdraw US troops from Afghanistan by September 11.\n    \n"
+    publishedDateTime: 2021-04-15T01:25:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FnL_lXCtsDg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/read-joe-biden-afghanistan-remarks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/read-joe-biden-afghanistan-remarks/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303231938-joe-biden-210303-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414160930-joe-biden-april-14-2021-05-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden says administration will 'probably' mail out millions of masks soon"
-    excerpt: "President Joe Biden said Tuesday the White House will \"probably\" move to send face masks directly to Americans as the country continues to grapple with the coronavirus pandemic. It's a plan originally proposed by health officials during the Trump administration but was blocked by the former President.\n"
-    publishedDateTime: 2021-02-23T20:39:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ONiUqXYU7rQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/biden-masks-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-masks-coronavirus/index.html"
+  - title: "Biden to announce withdrawal of US troops from Afghanistan by September 11"
+    excerpt: "President Joe Biden plans to announce Tuesday a withdrawal of US troops from Afghanistan by the upcoming twentieth anniversary of the September 11 terrorist attacks, according to two people familiar with the plans.\n    \n"
+    publishedDateTime: 2021-04-13T17:58:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/53X7i32etGs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/biden-afghanistan-withdrawal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/biden-afghanistan-withdrawal/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210221115959-anthony-fauci-mask-210121-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413121156-01-us-troops-afghanistan-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration preparing to sanction Russia over Navalny treatment this week"
-    excerpt: "The Biden administration is preparing to impose sanctions on Russia over the poisoning and jailing of Russian opposition leader Alexey Navalny this week, two administration officials tell CNN.\n    \n"
-    publishedDateTime: 2021-03-01T15:35:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RtjViW-MONc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/biden-administration-russia-sanctions-alexei-navalny/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/biden-administration-russia-sanctions-alexei-navalny/index.html"
+  - title: "Biden's decision to withdraw from Afghanistan is personal for this lawmaker"
+    excerpt: "Rep. Jason Crow (D-CO) shares the personal reason Biden's decision to withdraw from Afghanistan has impacted him.\n    \n"
+    publishedDateTime: 2021-04-15T13:31:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XdwtpCxHpwA/jason-crow-biden-afghanistan-withdrawal-reaction-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/15/jason-crow-biden-afghanistan-withdrawal-reaction-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/15/jason-crow-biden-afghanistan-withdrawal-reaction-sot-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202034339-04-navalny-hearing-0202-restricted-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415091427-jason-crow-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's pick for top Pentagon policy job apologizes for past tweets at confirmation hearing"
-    excerpt: "President Joe Biden's nominee to become the top policy official at the Pentagon, Colin Kahl, apologized to Republican senators for using \"sometimes disrespectful\" language in tweets criticizing several Trump administration defense policy decisions after he was grilled in his confirmation hearing on Thursday.\n"
-    publishedDateTime: 2021-03-04T20:23:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LC9AzDfSlrg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/defense-policy-nom-tweets/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/defense-policy-nom-tweets/index.html"
+  - title: "Biden spoke with Obama and Bush ahead of Afghanistan withdrawal announcement"
+    excerpt: "Former President Barack Obama on Wednesday praised President Joe Biden's \"bold leadership\" for his decision to withdraw all US troops from Afghanistan by September 11, saying that \"it is time to recognize that we have accomplished all that we can militarily\" in America's longest war.\n    \n"
+    publishedDateTime: 2021-04-15T02:37:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ty0BXQf4FVQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 165
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230112442-colin-kahl-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414143405-02-biden-afghanistan-remarks-0414-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration tells facilities for migrant children to reopen to pre-pandemic levels"
-    excerpt: "The Biden administration has notified facilities caring for migrant children that they can open back up to pre-Covid-19 levels, acknowledging \"extraordinary circumstances\" due to a rising number of minors crossing the US-Mexico border, according to a memo obtained by CNN.\n    \n"
-    publishedDateTime: 2021-03-05T20:10:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VfNvFyhkEmY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/05/politics/immigration-border-crowding-covid/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/immigration-border-crowding-covid/index.html"
+  - title: "Top Biden national security officials to brief lawmakers on Afghanistan Tuesday"
+    excerpt: "Top officials from the Biden administration's national security team will brief lawmakers from both parties about the decision to withdraw troops from Afghanistan on Tuesday, sources told CNN.\n    \n"
+    publishedDateTime: 2021-04-20T16:39:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hTo9_6wrmSw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/afghanistan-administration-officials-briefing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/afghanistan-administration-officials-briefing/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 165
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210304183516-32-week-in-photos-0305-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401133658-01-biden-cabinet-meeting-0401-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration to send 25 million masks to community health centers and food pantries "
-    excerpt: "The Biden administration said Wednesday it would send more than 25 million masks to community health centers, food pantries and soup kitchens across the country in order to reach some of the nation's most vulnerable populations.\n    \n"
-    publishedDateTime: 2021-02-24T16:38:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hJryPS5hZX0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/biden-25-million-masks-community-health-centers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/biden-25-million-masks-community-health-centers/index.html"
+  - title: "Biden aims to cement US credibility on climate and galvanize world leaders at virtual summit"
+    excerpt: "President Joe Biden's ability to galvanize global momentum faces its first major test this week when he convenes 40 of his foreign counterparts for talks on combating the climate crisis.\n    \n"
+    publishedDateTime: 2021-04-21T19:08:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ayOSfxJt_6Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/21/politics/climate-summit-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/climate-summit-white-house/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222181225-03-biden-covid-deaths-0222-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127134225-01-biden-climate-remarks-0127-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration expected to form task force to deal with Microsoft hack linked to China"
-    excerpt: "The Biden administration is expected to put together a task force to deal with major cyber intrusions that Microsoft said this week were linked to China, according to a US official.\n    \n"
-    publishedDateTime: 2021-03-07T00:04:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-6VknEZ-2Ew/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/microsoft-hack-task-force/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/microsoft-hack-task-force/index.html"
+  - title: "Biden's plans to withdraw US troops from Afghanistan splits Congress -- but not just on party lines"
+    excerpt: "President Joe Biden's decision to withdraw US troops from Afghanistan by September 11 -- the twentieth anniversary of the September 11, 2001, terrorist attacks -- prompted a split on Capitol Hill among both Republicans and Democrats, creating some strange bedfellows over what to do about America's longest"
+    publishedDateTime: 2021-04-13T19:12:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2cl11CTCnfE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/afghanistan-troops-congress-reactions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/afghanistan-troops-congress-reactions/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 161
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303120438-microsoft-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration sanctions senior Russian officials over Navalny poisoning and imprisonment"
-    excerpt: "The Biden administration has slapped sanctions on seven Russian officials in response to the poisoning and imprisonment of opposition leader Alexey Navalny.\n    \n"
-    publishedDateTime: 2021-03-02T14:18:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b3p19VbY8Io/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/biden-russia-sanctions-alexey-navalny/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/biden-russia-sanctions-alexey-navalny/index.html"
+  - title: "Biden draws on long history with the war in Afghanistan as he prepares to announce troop withdrawal"
+    excerpt: "It's an image President Joe Biden kept returning to: the sight of helicopters evacuating Americans from Saigon during the last major battle of the Vietnam War.\n    \n"
+    publishedDateTime: 2021-04-14T11:29:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uuEG4lyoECI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/joe-biden-afghanistan-announcement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/joe-biden-afghanistan-announcement/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 163
+    quality: 161
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221132025-01-alexey-navalny-file-2019-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409091509-06-biden-infrastructure-0331-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden opposes gutting filibuster despite tough path for some legislative priorities in Senate "
-    excerpt: "President Joe Biden opposes ending the legislative filibuster despite a slim Democratic majority in the Senate, White House communications director Kate Bedingfield said Sunday, as the administration faces hurdles in pushing the President's priorities through Congress.\n    \n"
-    publishedDateTime: 2021-03-07T17:55:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LjbOIMbW0q0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/07/politics/kate-bedingfield-biden-filibuster-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/07/politics/kate-bedingfield-biden-filibuster-cnntv/index.html"
+  - title: "Biden announces troops will leave Afghanistan by September 11: 'It's time to end America's longest war'"
+    excerpt: "It's an image President Joe Biden kept returning to: the sight of helicopters evacuating Americans from Saigon during the last major battle of the Vietnam War.\n    \n"
+    publishedDateTime: 2021-04-15T02:28:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uuEG4lyoECI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/joe-biden-afghanistan-announcement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/joe-biden-afghanistan-announcement/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 163
+    quality: 159
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210307094926-joe-biden-210306-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414144036-04-biden-afghanistan-remarks-0414-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration unveils raft of sanctions on Russia over Navalny poisoning and imprisonment"
-    excerpt: "The Biden administration has slapped sanctions on seven Russian officials in response to the poisoning and imprisonment of opposition leader Alexey Navalny.\n    \n"
-    publishedDateTime: 2021-03-03T02:54:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b3p19VbY8Io/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/biden-russia-sanctions-alexey-navalny/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/biden-russia-sanctions-alexey-navalny/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221132025-01-alexey-navalny-file-2019-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration considers opening additional tent facilities in Arizona amid influx of migrants"
-    excerpt: "The Biden administration is considering opening additional temporary border facilities in Arizona to manage the influx of migrants arriving at the US-Mexico border, marking the latest move to address capacity issues that have been exacerbated because of the Covid-19 pandemic.\n    \n"
-    publishedDateTime: 2021-03-06T00:29:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I9P_udnceLk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/05/politics/tent-facilities-arizona-migrants/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/tent-facilities-arizona-migrants/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210305191033-joe-biden-030221-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration disappointed after Iran rejects invite to discuss nuclear deal with US and other nations "
-    excerpt: "The Biden administration is disappointed after Iran rejected an offer by the European Union to partake in nuclear talks with the US and the other signatories of the nuclear deal on Sunday, but said they remain open to diplomacy with Iran.\n    \n"
-    publishedDateTime: 2021-02-28T23:04:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/elRFIEgsmII/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/biden-administration-iran-nuclear-deal/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/biden-administration-iran-nuclear-deal/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 155
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227211535-01-joe-biden-0227-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'Help is on the way': Biden speaks after Senate passes relief plan"
-    excerpt: "President Joe Biden gives remarks after the Senate passed his $1.9 trillion Covid relief plan by a 50-49 vote."
-    publishedDateTime: 2021-03-06T20:02:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/03/06/biden-speaks-after-senate-votes-to-pass-covid-19-relief-bill-sot-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/06/biden-speaks-after-senate-votes-to-pass-covid-19-relief-bill-sot-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/06/biden-speaks-after-senate-votes-to-pass-covid-19-relief-bill-sot-vpx.cnn"
+  - title: "Biden to announce Afghanistan withdrawal by September 11"
+    excerpt: "President Joe Biden plans to announce a withdrawal of US troops from Afghanistan by the upcoming twentieth anniversary of the September 11 terrorist attacks, according to three people familiar with the plans. The withdrawal extends the US troop presence ..."
+    publishedDateTime: 2021-04-13T16:44:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/13/biden-afghanistan-withdrawal-september-11-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/13/biden-afghanistan-withdrawal-september-11-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/13/biden-afghanistan-withdrawal-september-11-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306143728-biden-03062021-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413121156-01-us-troops-afghanistan-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden to withdraw all troops from Afghanistan by September"
+    excerpt: "WASHINGTON — President Joe Biden will announce Wednesday that the U.S. will fully withdraw its troops from Afghanistan by Sept. 11 of this year, a symbolic deadline marking the 20th anniversary of the 9/11 attacks, senior administration officials said ..."
+    publishedDateTime: 2021-04-13T16:38:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-withdraw-all-troops-afghanistan-september-n1263944"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263944"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263944"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_15/3464343/210413-joe-biden-jm-1233_0eec76743c4f536c5dca4a7f9fcfc518.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden to withdraw all U.S. forces from Afghanistan by September 11"
+    excerpt: "20 years after the attacks that pulled the U.S. into its longest war, President Joe Biden announced that all American troops will be pulled out of the region by September 11th, 2021.April 13, 2021 © 2021 NBC UNIVERSAL"
+    publishedDateTime: 2021-04-14T00:08:00Z
+    webUrl: "https://www.nbcnews.com/now/video/biden-to-withdraw-all-u-s-forces-from-afghanistan-by-september-11-110145605857"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo110145605857"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo110145605857"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202104/ott_now_biden_troops_210413_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Blinken visits Afghanistan after Biden announces U.S. troop withdrawal"
+    excerpt: "I wanted to demonstrate with my visit the ongoing commitment of the United States to the Islamic Republic and the people of Afghanistan,\" the secretary of state said."
+    publishedDateTime: 2021-04-15T13:12:00Z
+    webUrl: "https://www.nbcnews.com/news/world/blinken-visits-afghanistan-after-biden-announces-u-s-troop-withdrawal-n1264141"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264141"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264141"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_15/3464892/210415-anthony-blinken-mc-120427_0_1a83817b03f215ae8cc739d38746fac2.JPG"
+        width: 2500
+        height: 1666
+        isCached: true
+  - title: "Biden's plans to withdraw US troops from Afghanistan splits Congress -- but not just on party lines"
+    excerpt: "(CNN)President Joe Biden's decision to withdraw US troops from Afghanistan by September 11 -- the twentieth anniversary of the September 11, 2001, terrorist attacks -- prompted a split on Capitol Hill among both Republicans and Democrats, creating some ..."
+    publishedDateTime: 2021-04-13T19:11:00Z
+    webUrl: "https://www.cnn.com/2021/04/13/politics/afghanistan-troops-congress-reactions/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/afghanistan-troops-congress-reactions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/afghanistan-troops-congress-reactions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 121
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'It is time to end America's longest war': Biden to announce full withdrawal of troops in Afghanistan"
+    excerpt: "WASHINGTON — President Joe Biden is expected to say in a speech Wednesday announcing his plans to fully withdraw troops from Afghanistan by Sept. 11 that the country \"cannot continue the cycle of extending or expanding our military presence in ..."
+    publishedDateTime: 2021-04-14T14:18:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/it-time-end-america-s-longest-war-biden-announce-full-n1264048"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264048"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264048"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_14/3463177/210408-joe-biden-jm-1618_d1c5cdba8fbcc869c180d79039c53776.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "H6XEDIkoV0lFY7MifMYUpeRTkR9AXrXjfths5zo59TLIBlbCiD9QyZ68TkpPZ+iY4xelYRRAfaVWlZNGJyW3e6lq+T7CH0XFC4DvQZsbGkttYeArOzlncvfJkhJ7CupfwyzuVGbRDzfQf2ZNSCh3zVyGnuNJUMs3ya0wUi14SG/3DiaWNPlIE8yqWD4RTihOppNZ9yE2xq+EMN0NbLP02epKCtO6uRFH7Rajjman0zElAwUN5Bzmk5J03xk8hoVBjC938VNzJ2C3fRomI8i7jc63p6SddatC/5MANaWmQVA+KXeBAT6Tj9/VhuS1V7dl7vaTkXHL+2FvXdZSsAHirfjfe3r3Hr5VHLUXDGSe6S8=;MC5r2FH3jrFaJGdwPo75tw=="

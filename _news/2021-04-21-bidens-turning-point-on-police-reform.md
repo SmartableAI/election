@@ -28,127 +28,164 @@ images:
     isCached: true
 
 related:
-  - title: "Rep. Mace hits Biden for giving first joint address to an 'empty room'"
-    excerpt: "President Biden has accepted House Speaker Nancy Pelosi's invitation to deliver his first joint session of Congress address on Wednesday, April 28."
-    publishedDateTime: 2021-04-15T17:06:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UeRSwox8GUU/rep-mace-biden-state-of-the-union-address-empty-room"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-mace-biden-state-of-the-union-address-empty-room.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-mace-biden-state-of-the-union-address-empty-room.amp"
+  - title: "Biden describes border surge as a ‘crisis’ as he defends refugee moves"
+    excerpt: "President Biden on Saturday described the situation at the border as a “crisis” for the first time, as he defended his administration’s walkback on refugee policy a day earlier."
+    publishedDateTime: 2021-04-17T21:37:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c6AdPR2-6fU/biden-border-surge-crisis-defends-refugee-move"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-surge-crisis-defends-refugee-move.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-surge-crisis-defends-refugee-move.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd344368-8532-4513-b2d1-a2efb623f115/dfd26a02-8311-4908-944a-cb8c76d596ef/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ac25484-fac1-4ecf-b124-ea380a233327/cbcb9339-768d-4e2f-ac1a-33ebf8eab21e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "China enraged as Biden sends unofficial delegates to Taiwan"
-    excerpt: "Former Sen. Chris Dodd and two former U.S. deputy secretaries of state are visiting Taiwan at the request of President Joe Biden to celebrate the 42nd anniversary of the Taiwan Relations Act, which Biden voted for when he was a senator."
-    publishedDateTime: 2021-04-16T00:21:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zeQqrzFB3v8/china-enraged-biden-sends-unofficial-delegates-taiwan"
-    ampWebUrl: "https://www.foxnews.com/politics/china-enraged-biden-sends-unofficial-delegates-taiwan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/china-enraged-biden-sends-unofficial-delegates-taiwan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21104375855660.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "GOP lawmakers ask Pelosi to reschedule Biden's first speech to Congress"
-    excerpt: "A group of GOP lawmakers called Monday for House Speaker Nancy Pelosi to reschedule President Biden’s first speech to Congress later this month to a date when the House is in session."
-    publishedDateTime: 2021-04-19T20:26:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JOJyh7M26fc/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6a4c698-2716-47ac-a29c-fe49c8a2549b/b588a97f-04a0-4158-a1ee-919609e7c5fd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Sen. Tim Scott to deliver GOP response to Biden's first speech to Congress"
-    excerpt: "Sen. Tim Scott, R-SC, will deliver the Republican Party’s response following President Biden’s first speech to a joint session of Congress on April 28, GOP leadership said on Thursday."
-    publishedDateTime: 2021-04-22T20:18:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vKeji-oKtuw/sen-tim-scott-deliver-gop-response-biden-first-speech-congress"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-tim-scott-deliver-gop-response-biden-first-speech-congress.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-tim-scott-deliver-gop-response-biden-first-speech-congress.amp"
+  - title: "Psaki won't say if Biden change on refugees was due to Dems on Capitol Hill"
+    excerpt: "Press Secretary Jen Psaki on Monday refused to say whether the swift reversal by the White House on its planned 2021 refugee cap was due to outrage from congressional Democrats, who were upset that a memo from President Biden kept the Trump-era limit. "
+    publishedDateTime: 2021-04-19T18:08:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wyVINRO5Ywg/psaki-wont-say-if-biden-change-on-refugee-was-due-to-dems-on-capitol-hill-in-combative-briefing-exchange"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-wont-say-if-biden-change-on-refugee-was-due-to-dems-on-capitol-hill-in-combative-briefing-exchange.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-wont-say-if-biden-change-on-refugee-was-due-to-dems-on-capitol-hill-in-combative-briefing-exchange.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0268a05a-cf95-4110-a9a4-402dbe6f08b4/44861f6a-69d1-400f-b2a5-971444fe656e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Boebert, Roy seek to force vote on reversing Biden's oil and gas executive orders"
-    excerpt: "Reps. Lauren Boebert and Chip Roy launched an effort Wednesday to force a House vote on reversing President Biden's oil and gas executive orders that the GOP lawmakers panned as detrimental to the economy and America's energy independence. "
-    publishedDateTime: 2021-04-21T18:41:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Akwbi_5_V1k/boebert-seeks-to-repeal-bidens-executive-order-limiting-oil-drilling"
-    ampWebUrl: "https://www.foxnews.com/politics/boebert-seeks-to-repeal-bidens-executive-order-limiting-oil-drilling.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-seeks-to-repeal-bidens-executive-order-limiting-oil-drilling.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Chip-Roy-Lauren-Boebert.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden administration pays travel costs for adult sponsors to pick up migrant children"
-    excerpt: "The Biden administration is paying the travel costs for adult sponsors to go to migrant shelters and pick up migrant children – as the administration scrambles to cope with the surge in unaccompanied children (UACs) coming to the southern border."
-    publishedDateTime: 2021-04-22T15:54:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8nLJZ64BbVE/biden-administration-travel-costs-adult-sponsors-migrant-children"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-travel-costs-adult-sponsors-migrant-children.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-travel-costs-adult-sponsors-migrant-children.amp"
+  - title: "Obama DOE scientist dissents from Biden climate change ‘existential crisis’ narrative"
+    excerpt: "Former undersecretary for the Department of Energy under President Obama, Steven Koonin is dissenting from the Biden administration’s stance on the global \"climate crisis,\" saying the data do not support the \"hysteria.\""
+    publishedDateTime: 2021-04-23T01:04:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bi-qrVSN9-g/obama-doe-scientist-dissents-from-climate-change-existential-crisis-narrative"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-doe-scientist-dissents-from-climate-change-existential-crisis-narrative.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-doe-scientist-dissents-from-climate-change-existential-crisis-narrative.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6aba89ef-13d8-476d-a099-2e7d6c407a22/d8eb31b2-fab7-48ac-b0ae-0ad08d4aa013/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10f0c3e8-6b34-4e18-8c1f-0a3f62fc93f0/ee500b0f-b710-4547-8031-741d38d0311f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Son-in-Law Benefited From Loan Program Biden Ripped"
-    excerpt: "Joe Biden needed to talk to a family member, and the message, Politico later reported, was blunt. For Christs sake, the then-presidential"
-    publishedDateTime: 2021-04-22T10:30:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/22/son-in-law_benefited_from_loan_program_biden_ripped_145635.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/22/son-in-law_benefited_from_loan_program_biden_ripped_145635.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/22/son-in-law_benefited_from_loan_program_biden_ripped_145635.amp.html"
+  - title: "Rep. Malliotakis: Biden administration can stop migrant surge by reversing border policies"
+    excerpt: "New York Rep. Nicole Malliotakis slammed the Biden administration’s policies on “Fox & Friends Weekend” Sunday for “turning over our borders to the cartels,” after she traveled to Texas to witness the migrant surge."
+    publishedDateTime: 2021-04-11T17:32:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wTq3JBlnwYo/malliotakis-biden-administration-migrant-surge-border"
+    ampWebUrl: "https://www.foxnews.com/politics/malliotakis-biden-administration-migrant-surge-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/malliotakis-biden-administration-migrant-surge-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Psaki walks back Biden's border 'crisis' comments, acknowledges 'crisis in Central America'"
+    excerpt: "When President Biden referred to an immigration-related \"crisis\" over the weekend, he was not referring to migrants crossing the southern border, White House press secretary Jen Psaki insisted to reporters Monday."
+    publishedDateTime: 2021-04-19T17:58:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pJLhIE27VzQ/psaki-bidens-border-crisis-comments-crisis-central-america"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-bidens-border-crisis-comments-crisis-central-america.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-bidens-border-crisis-comments-crisis-central-america.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "White House says Biden will increase refugee cap this year, after Dem fury over original target"
+    excerpt: "The White House on Friday said that President Biden is expected to increase the refugee cap for this fiscal year, just hours after he signed an order that kept it at Trump-era levels and sparking fury from congressional Democrats."
+    publishedDateTime: 2021-04-16T21:23:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5l6MNimqVYA/white-house-biden-refugee-cap-dem-fury-over-original-target"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-refugee-cap-dem-fury-over-original-target.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-refugee-cap-dem-fury-over-original-target.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/485b14c0-ef2b-488c-a9fe-42465ed200ce/124767e5-b7f5-4881-9dbd-42f3a58f3a46/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ariz. Gov. Ducey urges Biden to declare national emergency at the border, as he deploys National Guard"
+    excerpt: "Arizona Gov. Doug Ducey on Wednesday urged President Biden to declare a national emergency at the border, a day after the Republican governor deployed the National Guard and issued an emergency declaration in response to the migrant crisis."
+    publishedDateTime: 2021-04-21T21:45:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z2MN3JD6SSY/ariz-gov-ducey-biden-national-emergency-border-national-guard"
+    ampWebUrl: "https://www.foxnews.com/politics/ariz-gov-ducey-biden-national-emergency-border-national-guard.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ariz-gov-ducey-biden-national-emergency-border-national-guard.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fa07c23e-822f-4acf-9564-ea278dd3b724/31df3aec-d9b8-4a97-a153-efba9c0bf890/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Texas AG sues Biden administration over COVID-19 risk at southern border amid migrant surge"
+    excerpt: "FIRST ON FOX: Texas Attorney General Ken Paxton on Thursday sued the Biden administration for allegedly encouraging the spread of COVID-19 at the border by allowing large numbers of migrants into the U.S., often into overcrowded facilities."
+    publishedDateTime: 2021-04-22T20:41:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8uEqrSkGs2I/texas-ag-biden-migrant-covid-risk-at-southern-border"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/481df1b5-a469-4e90-b5bd-9b29ff024316/6e779a0b-196a-4aa8-911c-e8f3ccd6770a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "White House says Biden will increase refugee cap this year, after Dem fury over original target"
+    excerpt: "The White House on Friday said that President Biden is expected to increase the refugee cap for this fiscal year, just hours after he signed an order that kept it at Trump-era levels and sparking fury from congressional Democrats."
+    publishedDateTime: 2021-04-16T21:23:00Z
+    webUrl: "https://www.foxnews.com/politics/white-house-biden-refugee-cap-dem-fury-over-original-target"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-refugee-cap-dem-fury-over-original-target.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-refugee-cap-dem-fury-over-original-target.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/485b14c0-ef2b-488c-a9fe-42465ed200ce/124767e5-b7f5-4881-9dbd-42f3a58f3a46/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Graham To Biden: It's Not Just A \"Crisis\" On The Border, It's Chaos"
+    excerpt: "South Carolina Republican Sen. Lindsey Graham told FNC's 'Justice with Judge Jeanine' to discuss the left's push to expand the Supreme Court and President Biden admitting the refugee situation at the border is a \"crisis."
+    publishedDateTime: 2021-04-18T13:46:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/18/graham_to_biden_its_not_just_a_crisis_on_the_border_its_chaos.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/04/18/graham_to_biden_its_not_just_a_crisis_on_the_border_its_chaos.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/04/18/graham_to_biden_its_not_just_a_crisis_on_the_border_its_chaos.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 85
     images:
-      - url: "https://assets.realclear.com/images/54/541165_5_.jpg"
-        width: 750
-        height: 541
+      - url: "https://assets.realclear.com/images/52/521952.jpg"
+        width: 1046
+        height: 784
         isCached: true
-  - title: "Biden Making a Major Mistake on Afghanistan"
-    excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
-    publishedDateTime: 2021-04-14T11:37:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/14/biden_making_a_major_mistake_on_afghanistan_540470.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "EPbARRcVULh3uFN1OYrIkJDwcsoQ1ko+a1daoCkPe+wmSr9Upm/Metxhafosa+1DAsLf4iFUKTqoMPiyEb5/eRmbPN8sJIDXtbipqUwmtC3vbzFvMtDG+wXQIBUWsPM2RwqdTskokvnjxvkQRzHxDemKu6NLoHsW7B77LA97AbH2MomdPUgfsJLeTXqYMFsGibXqvHh5LNLPun7/fHpLmkkiLLS8DXSMF1YavEflxveHmW1R6VGXejuJ9K76AWZnT0o5Xj4JqRbG2UM3NXqXwdaqbruOSamYFYIhbE2PgmmeDRRNIAbqwxFmSJzLxAVRvNKIMnylaSxKzwHfXW/lvyKiXF85FQD1htEDwQfOVRc=;JstgMpjEvytB6yZBvtoAHQ=="
 ---

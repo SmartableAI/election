@@ -2,6 +2,115 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-11-sen-thune-not-afraid-of-a-fight-if-trump-backs-a-challenger-in-2022.md",
+      "title": "Sen Thune not 'afraid of a fight' if Trump backs a challenger in 2022",
+      "excerpt": "Sen. John Thune, R-S.D., said that he is not \"afraid of a fight\" if former President Donald Trump campaigns against him in 2022 after being labeled a \"weak and inneffective RINO\" by him earlier in the year. \"I've been through wars in South Dakota ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate",
+      "originalUrl": "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Thune-Trump.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/john-thune-donald-trump-2022-senate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-thune-donald-trump-2022-senate.amp",
+      "publishedDateTime": "2021-04-11T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-11-exclusive-john-boehner-says-donald-trump-abused-his-loyalists-by-lying-to-them.md",
+      "title": "Exclusive: John Boehner says Donald Trump 'abused' his loyalists by lying to them",
+      "excerpt": "And the election of the even more disruptive Donald Trump as president. Boehner's new book, being published Tuesday by St. Martin's Press, is titled \"On the House: A Washington Memoir.\" But it is unlike the classic Washington memoir, those soft-focus ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/04/11/john-boehner-says-trump-abused-his-loyalists-lying-them/7074030002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/04/11/john-boehner-says-trump-abused-his-loyalists-lying-them/7074030002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/04/09/USAT/bd333c30-2b30-4e72-8ea0-d705680ef3ae-XXX_20210405_Boehner_JK001.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7074030002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7074030002",
+      "publishedDateTime": "2021-04-11T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-11-us-warns-iran-it-wont-lift-all-trump-era-sanctions-to-return-to-nuclear-deal.md",
       "title": "U.S. warns Iran it won’t lift all Trump-era sanctions to return to nuclear deal",
       "excerpt": "The Biden administration warned Friday that it will not lift every single economic sanction that former President Donald Trump imposed on Iran, despite pressure from Iran to do so as the two countries try to resurrect a nearly dead nuclear agreement.",
@@ -67,7 +176,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 694,
+      "heat": 454,
       "tags": null,
       "images": [
         {
@@ -119,7 +228,7 @@
       "originalUrl": "https://www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 253,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -160,58 +269,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-donald-trump-tumbles-down-forbes-billionaires-while-kim-kardashian-lands-on-list.md",
-      "title": "Donald Trump tumbles down Forbes' billionaires while Kim Kardashian lands on list",
-      "excerpt": "Forbes magazine estimated former President Trump's wealth fell from $3.5 billion to $2.4 billion. moving him from 1,001st place to 1,299th.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/politics/2021/04/10/donald-trump-kim-kardashian-billionaire-forbes-list/7172191002/",
-      "originalUrl": "https://www.usatoday.com/videos/news/politics/2021/04/10/donald-trump-kim-kardashian-billionaire-forbes-list/7172191002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/04/10/USAT/e567a5ff-2c30-4f38-ac5e-11d4de85964c-Donald_Trump_tumbles_down_Forbes_billion-6071983f4f499f10a8881ce2_1_Apr_10_2021_15_01_26_poster.jpeg?quality=10",
-          "width": 720,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-10T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Donald Trump"
       ]
     },
@@ -377,6 +434,63 @@
       ]
     },
     {
+      "path": "_news/2021-04-10-trump-faces-a-narrow-path-to-victory-against-facebook-suspension.md",
+      "title": "Trump faces a narrow path to victory against Facebook suspension",
+      "excerpt": "If former President Donald Trump manages to get back on Facebook and Instagram this month, his win will rest on a series of close calls. Facebook’s oversight board is expected to rule in the coming weeks on whether to uphold or overturn Trump’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/04/09/trump-facebook-suspension-oversight-board-480671",
+      "originalUrl": "https://www.politico.com/news/2021/04/09/trump-facebook-suspension-oversight-board-480671",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/c9/e9/f0ff0b934e189519ffd7493b3913/210409-trump-phone-getty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/09/trump-facebook-suspension-oversight-board-480671",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/09/trump-facebook-suspension-oversight-board-480671",
+      "publishedDateTime": "2021-04-09T15:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-casey-urlacher-following-trump-pardon-claims-victory-as-write-in-candidate-in-mettawa-mayors-race.md",
       "title": "Casey Urlacher, following Trump pardon, claims victory as write-in candidate in Mettawa mayor’s race",
       "excerpt": "He was pardoned by former President Donald Trump on Jan. 20, and became a write-in candidate. Between the two candidates, approximately $85,000 was raised. O’Connor said there are only 450 registered voters in the village. Results will not be final until ...",
@@ -481,6 +595,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-09-trump-officials-celebrated-efforts-to-change-cdc-reports-on-coronavirus-emails-show.md",
+      "title": "Trump officials celebrated efforts to change CDC reports on coronavirus, emails show",
+      "excerpt": "Political appointees also tried to blunt scientific findings they deemed unfavorable to Trump, according to new documents from House probe",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/",
+      "originalUrl": "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AD36FQXW2QI6VBPXLFARRCUYZU.jpg&w=1440",
+          "width": 1440,
+          "height": 990,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp",
+      "publishedDateTime": "2021-04-09T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-mike-pence-memoir-could-define-him-for-2024-but-donald-trump-looms-large.md",
       "title": "Mike Pence Memoir Could Define Him for 2024, but Donald Trump Looms Large",
       "excerpt": "Mike Pence has an opportunity to guide the narrative of his political career thus far with his upcoming memoir. And with the first of two parts due for release in 2023, the book is perfectly timed for a potential presidential run the next year. However ...",
@@ -489,7 +655,7 @@
       "originalUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2589,
+      "heat": 2509,
       "tags": null,
       "images": [
         {
@@ -534,6 +700,110 @@
       ]
     },
     {
+      "path": "_news/2021-04-09-update-1-bidens-first-budget-marks-sharp-change-from-trump-years.md",
+      "title": "UPDATE 1-Biden's first budget marks sharp change from Trump years",
+      "excerpt": "WASHINGTON, April 9 (Reuters) - U.S. President Joe Biden asked Congress to sharply increase spending to combat climate change and gun violence in a budget that marks a sharp departure from his predecessor, Donald Trump. The $1.5 trillion budget ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-biden-budget-climate-idUSL1N2M21ES",
+      "originalUrl": "https://www.reuters.com/article/usa-biden-budget-climate-idUSL1N2M21ES",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2240,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557841696&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH380MD",
+          "width": 860,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2M21ES",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2M21ES",
+      "publishedDateTime": "2021-04-09T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-marjorie-taylor-greene-slams-anti-trump-republican-consultants-calls-them-poison-to-party.md",
+      "title": "Marjorie Taylor Greene Slams Anti-Trump 'Republican' Consultants, Calls Them Poison to Party",
+      "excerpt": "Representative Marjorie Taylor Greene (R-Ga.), a staunch supporter of former President Donald Trump, criticized those who think it's best to distance themselves from him as being a \"poison\" to the GOP. After Trump's exit from the White House, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/marjorie-taylor-greene-slams-anti-trump-republican-consultants-calls-them-poison-party-1582381",
+      "originalUrl": "https://www.newsweek.com/marjorie-taylor-greene-slams-anti-trump-republican-consultants-calls-them-poison-party-1582381",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1774623/marjorie-taylor-greene-trump.jpg",
+          "width": 2500,
+          "height": 1653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/marjorie-taylor-greene-slams-anti-trump-republican-consultants-calls-them-poison-party-1582381?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/marjorie-taylor-greene-slams-anti-trump-republican-consultants-calls-them-poison-party-1582381?amp=1",
+      "publishedDateTime": "2021-04-09T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-donald-trump-endorses-marco-rubio-says-hell-never-let-country-down.md",
       "title": "Donald Trump Endorses Marco Rubio, Says He'll Never Let Country Down",
       "excerpt": "Former President Donald Trump has endorsed Senator Marco Rubio (R-FL) in a post on the messaging service Telegram on Friday morning. \"It is my honor to give U.S. Senator Marco Rubio my Complete and Total Endorsement,\" Trump wrote. \"Marco has been a ...",
@@ -542,7 +812,7 @@
       "originalUrl": "https://www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -594,7 +864,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 260,
+      "heat": 280,
       "tags": null,
       "images": [
         {
@@ -635,6 +905,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-trump-other-potential-2024-gop-contenders-gathering-at-major-retreat.md",
+      "title": "Trump, other potential 2024 GOP contenders, gathering at major retreat",
+      "excerpt": "... Trump’s influence is not big enough and we have some donors who think that Trump’s influence is too much.\" \"The party is bigger than any one candidate. Clearly, Donald Trump is a big force in the Republican Party but I think the key for us moving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat",
+      "originalUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/mar-a-lago.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp",
+      "publishedDateTime": "2021-04-09T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {
@@ -1111,58 +1438,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-08-headhunters-having-hard-time-finding-jobs-for-former-trump-officials-report.md",
-      "title": "Headhunters having hard time finding jobs for former Trump officials: report",
-      "excerpt": "Headhunters have indicated difficulties in finding jobs for former Trump Cabinet officials in the months since leaving their posts,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials",
-      "originalUrl": "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/chaoelaine_091919gn6_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp",
-      "publishedDateTime": "2021-04-07T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-04-08-nasty-notes-left-for-trump-staffers-came-from-celebs-not-obama-aides-dave-chappelle-says.md",
       "title": "Nasty notes left for Trump staffers came from celebs, not Obama aides, Dave Chappelle says",
       "excerpt": "When former President Donald Trump first moved into the White House in January 2017, his staffers said they found nasty notes stuffed into the drawers and cabinets — a claim President Barack",
@@ -1317,276 +1592,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-jennifer-weisselberg-has-several-boxes-of-documents-left-to-give-prosecutors-investigating-trump-her-lawyer-says.md",
-      "title": "Jennifer Weisselberg has 'several boxes of documents' left to give prosecutors investigating Trump, her lawyer says",
-      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. Jennifer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-investigations-jennifer-weisselberg-has-more-documents-for-prosecutors-2021-4",
-      "originalUrl": "https://www.businessinsider.com/trump-investigations-jennifer-weisselberg-has-more-documents-for-prosecutors-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/606cb46e30004b0019b2640e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-investigations-jennifer-weisselberg-has-more-documents-for-prosecutors-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-investigations-jennifer-weisselberg-has-more-documents-for-prosecutors-2021-4?amp",
-      "publishedDateTime": "2021-04-06T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-cnn-wapo-called-out-for-casting-doubt-on-trumps-april-timeline-for-vaccines.md",
-      "title": "CNN, WaPo called out for casting doubt on Trump's April timeline for vaccines",
-      "excerpt": "President Biden is set to announce all U.S. adults will be eligible for coronavirus vaccines by April 19, although multiple media outlets cast doubt on former President Donald Trump's claim last year there would be enough vaccines for adults by April.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april",
-      "originalUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e360c9be-94bc-48ba-b8f1-c0695538cccb/162fa33e-186e-4288-9a45-28a8efcaa517/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-trumps-claim-vaccines-americans-april.amp",
-      "publishedDateTime": "2021-04-06T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-cleveland-businessman-jumps-into-ohio-senate-race-trump-victories-need-to-be-protected.md",
-      "title": "Cleveland businessman jumps into Ohio Senate race: Trump 'victories' need to be protected",
-      "excerpt": "Moreno, a Cleveland businessman, rolled out his bid in an over two-minute-long video in which he cast himself as an outsider in the mold of former President Trump Donald Trump Joe Biden's ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/546723-cleveland-businessman-jumps-into-ohio-senate-race-saying-trump-victories",
-      "originalUrl": "https://thehill.com/homenews/campaign/546723-cleveland-businessman-jumps-into-ohio-senate-race-saying-trump-victories",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/morenobernie_4621_morenoforsenate.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/546723-cleveland-businessman-jumps-into-ohio-senate-race-saying-trump-victories?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/546723-cleveland-businessman-jumps-into-ohio-senate-race-saying-trump-victories?amp",
-      "publishedDateTime": "2021-04-06T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-trumps-mar-a-lago-charged-secret-service-almost-16000-for-396-hotel-rooms-during-presidential-christmas-trip.md",
-      "title": "Trump's Mar-a-Lago charged Secret Service almost $16,000 for $396 hotel rooms during presidential Christmas trip",
-      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump's Mar-a-Lago resort in Palm Beach, Florida, raked in $15,846 in US taxpayer money by charging the Secret Service $396 a night for hotel rooms during a Christmas trip, The Washington ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trumps-mar-a-lago-secret-service-396-night-for-hotel-2021-4",
-      "originalUrl": "https://www.businessinsider.com/trumps-mar-a-lago-secret-service-396-night-for-hotel-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/606b59a1a7d803001963ec9c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trumps-mar-a-lago-secret-service-396-night-for-hotel-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-mar-a-lago-secret-service-396-night-for-hotel-2021-4?amp",
-      "publishedDateTime": "2021-04-05T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-supreme-court-dismisses-trump-twitter-case-as-moot-as-thomas-highlights-glaring-concern-of-platforms-power.md",
-      "title": "Supreme Court dismisses Trump Twitter case as moot, as Thomas highlights 'glaring concern' of platform's power",
-      "excerpt": "The Supreme Court on Monday deemed former President Donald Trump's appeal of a ruling that said it was unconstitutional for him to block critics, deeming his page to be a protected public forum. The court called for the case to be dismissed, as Trump is no ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot",
-      "originalUrl": "https://www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/293bed5e-ef2c-4f3b-a18d-a7c565bbef69/1133c664-0b35-4f1f-9163-666f52e5e1dd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot.amp",
-      "publishedDateTime": "2021-04-05T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

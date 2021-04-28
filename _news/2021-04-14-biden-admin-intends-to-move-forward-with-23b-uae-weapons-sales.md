@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "READ: Biden's executive order imposing new sanctions on Russia"
-    excerpt: "The Biden administration on Thursday imposed new sanctions on Russia and expelled diplomatic personnel in response to election interference and cyber hacks by the country.\n    \n"
-    publishedDateTime: 2021-04-15T14:30:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rOC4qcygpOQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/russia-sanctions-executive-order/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/russia-sanctions-executive-order/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318215447-biden-putin-longobardi-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Six key takeaways from Biden's Russia sanctions announcement"
     excerpt: "The Biden administration slapped sweeping sanctions on Russia Thursday over Moscow's alleged interference in the 2020 election, the massive SolarWinds hack and the ongoing occupation of Crimea, signaling it is adopting a tougher posture toward the Kremlin and Russian President Vladimir Putin.\n    \n"
     publishedDateTime: 2021-04-15T17:20:37Z
@@ -159,22 +143,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration prepares to impose sanctions on Russia over Navalny poisoning "
-    excerpt: "The Biden administration is preparing to impose sanctions on Russia in the coming weeks over the poisoning and jailing of Russia opposition leader Alexey Navalny, according to two administration officials familiar with the matter.\n    \n"
-    publishedDateTime: 2021-02-23T18:22:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TvKJJADikGg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/biden-prepares-russia-sanctions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-prepares-russia-sanctions/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204183157-cnn-red-biden-navalny-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to announce limited gun restrictions as pressure rises following mass shootings"
     excerpt: "Facing pressure to act after a recent spate of high-profile mass shootings, President Joe Biden is set to unveil a package of moves Thursday that seek to address the scourge of gun violence.\n    \n"
     publishedDateTime: 2021-04-08T14:47:59Z
@@ -220,6 +188,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210411213734-01-myanmar-unrest-0411-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration expected to announce nine career diplomats will be US ambassadors"
+    excerpt: "The Biden administration plans to announce the nominations of nine career diplomats to be United States ambassadors as soon as Thursday, marking the first selection of overseas envoys since President Joe Biden took office, according to an internal list reviewed by CNN.\n    \n"
+    publishedDateTime: 2021-04-15T17:14:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WsT4lRtI9rM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/biden-ambassador-nominations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/biden-ambassador-nominations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180502113209-president-trump-state-department-5-2-2018-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -303,22 +287,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Negotiations over Biden's infrastructure package continue in Congress this week. Here's what to watch"
-    excerpt: "Washington is staring down a bumpy road to infrastructure consensus.\n    \n"
-    publishedDateTime: 2021-04-19T10:06:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P_3T6Y0Z-0o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/infrastructure-state-of-play/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/infrastructure-state-of-play/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329131550-washington-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration to provide $150 million to boost Covid response in underserved and vulnerable areas"
     excerpt: "The Biden administration on Monday will allocate $150 million from the American Rescue Plan to community-based health care providers across the nation to help boost their coronavirus response for \"underserved communities and vulnerable populations,\" an administration official told CNN.\n    \n"
     publishedDateTime: 2021-04-19T15:11:59Z
@@ -383,70 +351,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden to sign executive order on Supreme Court reform commission"
-    excerpt: "President Joe Biden will sign an executive order empaneling a commission to examine possible reforms to the Supreme Court and federal judiciary, the White House announced Friday. Biden first floated the idea of such a commission last fall on the campaign trail following the death of Justice Ruth Bader Ginsburg — whose seat on the high court was quickly filled by Amy Coney Barrett,"
-    publishedDateTime: 2021-04-09T16:22:00Z
-    webUrl: "https://www.politico.com/news/2021/04/09/biden-supreme-court-reform-commission-480582"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/09/biden-supreme-court-reform-commission-480582"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/09/biden-supreme-court-reform-commission-480582"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/32/18/07eab8e849d9865a2c770a28d4fe/210409-supreme-court-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden White House puts its police oversight commission on ice"
-    excerpt: "The White House is putting the creation of a national police oversight commission on hold, nixing a campaign pledge made by President Joe Biden to establish one within his first 100 days. “Based on close, respectful consultation with partners in the ..."
-    publishedDateTime: 2021-04-12T02:36:00Z
-    webUrl: "https://www.politico.com/news/2021/04/11/biden-police-oversight-commission-480931"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/11/biden-police-oversight-commission-480931"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/11/biden-police-oversight-commission-480931"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/22/6c/e8c7a90a42398e77f1d7b9d4b22c/gettyimages-1230800786-c.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden has a new point man on guns. He faces a steep hurdle in the Senate."
-    excerpt: "Joe Biden’s choice to lead the federal agency that will play a crucial role in his firearms policy is a gun owner and longtime law enforcement official. But David Chipman, whom Biden nominated Thursday as director of the Bureau of Alcohol, Tobacco ..."
-    publishedDateTime: 2021-04-09T00:43:00Z
-    webUrl: "https://www.politico.com/news/2021/04/08/biden-guns-folo-senate-480494"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/08/biden-guns-folo-senate-480494"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/08/biden-guns-folo-senate-480494"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 134
-    images:
-      - url: "https://static.politico.com/3e/cc/2008787447bc93440acf4ee1626d/4-8-21-david-chipman-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden's gun actions could have a positive, if limited, impact, experts say"
-    excerpt: "One of the executive actions President Joe Biden announced to curb gun violence could make it more difficult to obtain such accessories. The move was one of several executive actions Biden rolled out last week, which he signaled he would pursue in the wake ..."
-    publishedDateTime: 2021-04-13T08:32:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-s-gun-actions-could-have-positive-if-limited-impact-n1263535"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263535"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263535"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_14/3463179/210408-ghost-guns-jm-1621_4be9381540e40b9637d56fd9d4c378f1.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Biden Reverses Course Again After Backlash and Will Increase Refugee Limit"
     excerpt: "President Biden said earlier on Friday that he would keep the 15,000 limit set by the Trump administration, but said later that he would increase it. Prime Minister Yoshihide Suga of Japan met with Mr."
     publishedDateTime: 2021-04-17T12:35:00Z
@@ -463,6 +367,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Dam safety advocates feel forgotten in Biden's $2 trillion infrastructure plan"
+    excerpt: "“It’s one of those ticking time bombs that can really devastate a community,” said a Michigan woman who was rescued from a dam collapse last year. When President Joe Biden last week introduced a sweeping $2 trillion infrastructure plan, the details ..."
+    publishedDateTime: 2021-04-09T08:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/dam-safety-advocates-feel-forgotten-biden-s-2-trillion-infrastructure-n1263470"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263470"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263470"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3462742/210407-sanford-dam-al-1159_07000f5652b91bc448375e74cb695710.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Progressives will deliver their own response to President Joe Biden's speech to Congress"
     excerpt: "Traditionally, the opposition party gives a rebuttal to the president's address. But this year, a member of Biden's own party will respond, too."
     publishedDateTime: 2021-04-22T08:33:00Z
@@ -478,34 +398,6 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_16/3466730/210421-jamaal-bowman-ew-435p_d35a4131c8844eff13f4735c88a56a4a.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Biden goes where Congress won’t on guns"
-    excerpt: "That’s how President JOE BIDEN started off the Rose Garden speech where he unveiled his newest moves to curb gun violence. It’s both an encapsulation of the way his administration thinks about the issue and a preemptive defense against accusations from the right that he’s undermining the Second Amendment."
-    publishedDateTime: 2021-04-08T17:48:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/08/biden-goes-where-congress-wont-on-guns-492409"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/9f/32/ed70672a45a2a5ae285458df2790/210408-biden-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "POLITICO Playbook PM: Biden makes moves on immigration"
-    excerpt: "Minnesota police chief says officer who fired single shot that killed a Black man intended to discharge a Taser.” IMMIGRATION FILES — “Biden admin secures agreements with Mexico, Honduras and Guatemala to secure borders,"
-    publishedDateTime: 2021-04-12T17:33:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/12/biden-makes-moves-on-immigration-492445"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/1c/09/1bc21c6f42ea86e778c4d96a66cb/gettyimages-1311687851.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "hAlASoGFL8pnr0jLP4xRoJJEUq2E5EU7zS6oAiTEQZnvx1pfKfI27stm5KCeAICJh1+nKlEyu7NTbfN2RnqBqPTBzdZzbVQ6ikT0y16SwzZG5+sUXrYcRRIgYnro18oXPP4ZJL3Zh3hE9vwrYTdfPkINQiAio8txvIyFvN/3NbHE7zF8pfElcLePQ+AK2dkWDb2jQFot+WqlUXSGgVo9dVRlcV9AVZ4Tj/jCQqBT2/jEYfVwHqtd/Puza++RtjQcwz4FYytzzMc2dzhhsv/Z20P0ZFpem9IYwG0nDvdKN7FG8YEIXoV7XgkimYH4mABGhtbSpYkLmFfF1aydcFCgwFWzLv4QzVEVeNFhawopNxQ=;xf7YLADET1ALnTn6fq7j5Q=="

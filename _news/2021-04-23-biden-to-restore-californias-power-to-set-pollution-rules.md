@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rand Paul Calls for Joe Biden to Burn Face Mask to Promote COVID Vaccine"
+    excerpt: "Rand said that \"virtually zero\" people have died of COVID-19 after being vaccinated. The number is closer to 5,800, according to the U.S. Centers for Disease Control and Prevention."
+    publishedDateTime: 2021-04-22T01:13:00Z
+    webUrl: "https://www.newsweek.com/rand-paul-calls-joe-biden-burn-face-mask-promote-covid-vaccine-1585579"
+    ampWebUrl: "https://www.newsweek.com/rand-paul-calls-joe-biden-burn-face-mask-promote-covid-vaccine-1585579?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rand-paul-calls-joe-biden-burn-face-mask-promote-covid-vaccine-1585579?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1781388/rand-paul-biden-burn-mask-covid-vaccine.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "GOP senators unveil $568 billion counteroffer to Biden's infrastructure plan"
     excerpt: "Republican senators unveiled their counteroffer to President Biden's infrastructure proposal on Thursday, presenting a $568 billion framework that is significantly smaller than the president's $2 trillion plan."
     publishedDateTime: 2021-04-23T17:18:00Z
@@ -47,19 +63,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden Picks California Official Isabel Guzman to Head SBA"
-    excerpt: "President-elect Joe Biden announced Thursday that he picked California official Isabel Guzman to lead the Small Business Administration."
-    publishedDateTime: 2021-01-08T07:57:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-picks-california-official-isabel-guzman-to-head-sba/2021/01/07/1449ffb0-514f-11eb-a1f5-fdaf28cfca90_story.html"
+  - title: "President Biden, first lady to visit former President Jimmy Carter in Georgia this week"
+    excerpt: "Biden was a young Delaware senator and Carter ally during the Georgian’s term in the White House, from 1977 to 1981."
+    publishedDateTime: 2021-04-27T20:49:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/27/president-biden-visit-former-president-jimmy-carter-week/4861359001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4861359001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4861359001"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3UVATCSRLUI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.gannett-cdn.com/presto/2021/04/27/USAT/bfc1809d-119b-4e06-8015-609e63865332-AP080826032783.jpg?auto=webp&crop=2345,1320,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Jill Biden urges farmworkers to get vaccinated in California"
     excerpt: "First lady Jill Biden is praising California farmworkers for their persistence during the pandemic and urging them to get vaccinated"
@@ -74,22 +92,6 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_582476d4c83f4a849953260173f0be01_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "President Joe Biden to recognize atrocities against Armenians as genocide"
-    excerpt: "A presidential proclamation to mark Armenian Genocide Remembrance Day is expected to use the term genocide to describe the killings and deportations of hundreds of thousands of Armenians."
-    publishedDateTime: 2021-04-24T12:18:00Z
-    webUrl: "https://www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html"
-    ampWebUrl: "https://www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 74
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4PAU5DZLYFF5DJ3VNJ3ORP3RZ4.jpg"
-        width: 5472
-        height: 3648
         isCached: true
 
 secured: "V+q4nNkAd4SyKsgdFEDN7iriu86ou6/WVt1EaXvmtic4hQNB3kOt6/uICj77w80VaZZ8DRWHPAVJrXQEKldnD9Rna9MBvCLlkIqgk7V7SmoByXHoH5TBSd9MvzBpEzRguLBuaelLuZPfctsyY/JIdYFSz48qwrrjLqFozPSyGbhV0XsZFpMs7DwE86E/gkDYZeI3kF13QwwvLxNdRDgbHvr10vh2XEW8tnCH3NAQUAKRuHSVBpl7LWNsGB7xK6ON6xH25vLvItu1JsvofgMk7bqKRqTy9u/UtTPDiYhYtAemvDqUAF+whEv1puUtMoXo8P0LQuQCMWuCfSliUeqDAJ3VKdnABAKQIR40WFLPCL45ONuzyD3r7w0lJi27cH5O5udTPj8OtxujO/IGu+H+Z9Y8dEs10lR8UPABfALpIsUy+AExlmiAP4boTzxRwnsZO8QWY+KOtbLbI2cp4ipRmmtFsETETt5zUTjXnmKW8xaUJjyIEWnzX8FmfEsS//H33vct21AVzrtw3nYnXJ+t8Q==;MIBcqsWodaGpdNUVJsZnpA=="

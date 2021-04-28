@@ -125,38 +125,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Democrats, Biden push limits of infrastructure definition as fight over spending plan takes shape"
-    excerpt: "Democrats are pushing the limits of what can be defined as \"infrastructure\" as they aim to sell President Biden's $2 trillion-plus spending plan to the American people. "
-    publishedDateTime: 2021-04-07T16:45:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9uf2dICI7Qs/democrats-biden-push-limits-infrastructure-definition"
-    ampWebUrl: "https://www.foxnews.com/politics/democrats-biden-push-limits-infrastructure-definition.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-biden-push-limits-infrastructure-definition.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden orders study on 'size' of Supreme Court, other possible changes amid liberal court-packing push"
-    excerpt: "President Biden will issue an executive order Friday to form a commission to study reforms to the United States Supreme Court.Biden, under pressure from liberals to expand the size of the high court, promised to create the commission during a \"60 Minutes\" interview back in October in the wake of Justice"
-    publishedDateTime: 2021-04-09T16:00:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bWINDkv33E4/biden-orders-study-size-supreme-court-liberal-court-packing-push"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-orders-study-size-supreme-court-liberal-court-packing-push.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-orders-study-size-supreme-court-liberal-court-packing-push.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Coney-Barrett-AP-e1606994039819.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Biden's CBP nominee defended sanctuary cities, criticized police working with immigration authorities"
     excerpt: "President Biden's expected pick to lead U.S. Customs and Border Protection, Chris Magnus, has a record of defending sanctuary cities and resisting Trump administration orders about undocumented immigrants."
     publishedDateTime: 2021-04-12T19:53:16Z
@@ -202,6 +170,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-happy-thumb.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Joe Biden, family attend confirmation of grandson in Delaware"
+    excerpt: "President Biden and first lady Jill Biden on Sunday attended the confirmation of their 14-year-old grandson Robert Hunter Biden II — the son of the late Beau Biden. The service took place at"
+    publishedDateTime: 2021-04-18T20:46:00Z
+    webUrl: "https://nypost.com/2021/04/18/joe-biden-family-attend-confirmation-of-grandson-in-delaware/"
+    ampWebUrl: "https://nypost.com/2021/04/18/joe-biden-family-attend-confirmation-of-grandson-in-delaware/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/18/joe-biden-family-attend-confirmation-of-grandson-in-delaware/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/USA-BIDEN__21.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Joe Biden Concedes Border Refugee Issues Are A \"Crisis\""
     excerpt: "We’re going to increase the number [of refugees allowed into the country]. The problem was that the refugee part was working on the crisis that ended up on the border with young people. We couldn’t do two things at once,"

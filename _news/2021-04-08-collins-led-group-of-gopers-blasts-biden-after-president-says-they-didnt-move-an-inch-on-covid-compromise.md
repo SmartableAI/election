@@ -63,22 +63,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "House poised to approve Biden's $1.9T coronavirus relief bill in Friday vote"
-    excerpt: "The House is poised to pass President Biden's coronavirus relief package on a party-line vote Friday and send the $1.9 trillion measure to the Senate as Congress races to provide a fresh round of aid to Americans still reeling from the pandemic."
-    publishedDateTime: 2021-02-26T15:33:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v81Wn1x6bxY/house-poised-to-approve-bidens-1-9t-coronavirus-relief-bill-in-friday-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/house-poised-to-approve-bidens-1-9t-coronavirus-relief-bill-in-friday-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-poised-to-approve-bidens-1-9t-coronavirus-relief-bill-in-friday-vote.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5849ecf7-8c15-4fea-95f3-4c24ca446e85/0511ed69-9218-4c93-9e69-1929be5c050c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Hunter Biden admits he used to smoke parmesan cheese because it resembled crack"
     excerpt: "Hunter Biden admitted that when he was addicted to crack cocaine, he smoked parmesan cheese because it resembled the drug."
     publishedDateTime: 2021-04-05T18:24:46Z

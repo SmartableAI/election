@@ -31,28 +31,108 @@ images:
     isCached: true
 
 related:
-  - title: "Official: Biden moving vaccine eligibility date to April 19"
-    excerpt: "President Joe Biden is set to announce that he's shaving about two weeks off his May 1 deadline for states to make all adults eligible for coronavirus vaccines WASHINGTON -- President Joe Biden ..."
-    publishedDateTime: 2021-04-06T11:45:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952"
+  - title: "Biden sets up commission to study expansion of supreme court – live"
+    excerpt: "Updated at 1.18pm EDT Buttigieg said he hadn’t met with Senator Joe Manchin, a conservative Democrat who is opposed to Biden’s plan to raise the corporate tax rate from 21% to 28%. He prefers a rate of 25%. Buttigieg wouldn’t say how the lower rate ..."
+    publishedDateTime: 2021-04-09T16:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60707c538f088c820d861f0d"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
     type: article
     provider:
-      name: ABCNews
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/1e6c9b9c790347030e8c43b8c08c58dfda96e8d1/0_0_4500_3000/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb9cf14684e5c64e087f4e257a823f6f"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Biden sets up commission to study expansion of supreme court – live"
+    excerpt: "More on Joe Biden creating a commission to review the US Supreme Court. Congressional freshman and New York Democrat Mondaire Jones cheered the announcement. MONDAIRE JONES addresses The Fund Excluded Workers Coalition gathered earlier this week at The ..."
+    publishedDateTime: 2021-04-09T18:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-607096e78f088c820d8620d4"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/8915c06ac7ac0fd7717b71364e16efc607e995e1/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c011fd1bdd14622966c05d125c673f45"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden unveils commission to study possible expansion of Supreme Court"
+    excerpt: "Democratic presidential nominee Joe Biden initially dodged questions in October 2020 about whether he would pack the court before saying he opposed it. (JM Rieger/The Washington Post) “The topics it will examine include the genesis of the reform debate ..."
+    publishedDateTime: 2021-04-09T21:37:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-unveil-commission-to-study-possible-expansion-of-supreme-court/2021/04/09/f644552c-9944-11eb-962b-78c1d8228819_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-unveil-commission-to-study-possible-expansion-of-supreme-court/2021/04/09/f644552c-9944-11eb-962b-78c1d8228819_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-unveil-commission-to-study-possible-expansion-of-supreme-court/2021/04/09/f644552c-9944-11eb-962b-78c1d8228819_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X22SV5EZIUI6XFRLPDA5QIUIDE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "The Agenda review: why Biden must expand the supreme court – fast"
+    excerpt: "Ian Millhiser offers a perfect short read for a key moment in US constitutional history, after Republicans hijacked the court Last modified on Sun 11 Apr 2021 02.01 EDT If Congress follows Joe Biden’s $1.9tn Covid relief bill with an even more ambitious ..."
+    publishedDateTime: 2021-04-11T05:01:00Z
+    webUrl: "https://www.theguardian.com/books/2021/apr/10/the-agenda-review-biden-expand-supreme-court-trump-republicans"
+    ampWebUrl: "https://amp.theguardian.com/books/2021/apr/10/the-agenda-review-biden-expand-supreme-court-trump-republicans"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/apr/10/the-agenda-review-biden-expand-supreme-court-trump-republicans"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/b01f971dc8a8a609447df2793851052ce167a215/0_542_7276_4365/master/7276.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9b12b5fd7a73147358d01deaf6dac539"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden to address Congress under security, COVID restrictions"
+    excerpt: "President Joe Biden's first address to a joint session of Congress will look like no other in recent memory. The traditional speech for the new president, set for April 28, will unfold against the backdrop of heightened security in the aftermath of the deadly Jan."
+    publishedDateTime: 2021-04-14T16:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-address-congress-security-covid-restrictions-77070235"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-address-congress-security-covid-restrictions-77070235"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-address-congress-security-covid-restrictions-77070235"
+    type: article
+    provider:
+      name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_8f3ad97807e84cd5bc8723834d33143e_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_33e7de99fc924b6eb9cbbbe3afd78f44_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden to move COVID-19 vaccine eligibility date to April 19"
-    excerpt: "President Joe Biden is set to announce that he’s shaving about two weeks off his May 1 deadline for states to make all adults eligible for coronavirus vaccines"
-    publishedDateTime: 2021-04-06T18:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/official-biden-moving-vaccine-eligibility-date-to-april-19/2021/04/06/d43abc24-96cd-11eb-8f0a-3384cf4fb399_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/official-biden-moving-vaccine-eligibility-date-to-april-19/2021/04/06/d43abc24-96cd-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/official-biden-moving-vaccine-eligibility-date-to-april-19/2021/04/06/d43abc24-96cd-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+  - title: "Biden set to issue sweeping sanctions against Russia"
+    excerpt: "The sanctions, which may be issued as soon as Thursday, are expected to target over 30 Russian entities and include the expulsion of at least 10 Russian individuals."
+    publishedDateTime: 2021-04-15T11:07:00Z
+    webUrl: "https://www.cbsnews.com/news/russia-sanctions-us-biden-plans/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/russia-sanctions-us-biden-plans/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/russia-sanctions-us-biden-plans/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/15/57b60594-6a95-4159-b850-b005ab2e9db8/thumbnail/1200x630/5e310e510e58e3fb6a549696540f6fb3/gettyimages-1232304316.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Japan’s Suga heads to US for China-focused talks with Biden"
+    excerpt: "Japanese Prime Minister Yoshihide Suga has left for Washington for talks with President Joe Biden meant to show the strength of their security alliance at a time when both nations are concerned with C"
+    publishedDateTime: 2021-04-15T13:58:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/japans-suga-heads-to-us-for-china-focused-talks-with-biden/2021/04/15/af0b384e-9df2-11eb-b2f5-7d2f0182750d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/japans-suga-heads-to-us-for-china-focused-talks-with-biden/2021/04/15/af0b384e-9df2-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/japans-suga-heads-to-us-for-china-focused-talks-with-biden/2021/04/15/af0b384e-9df2-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -63,207 +143,255 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Kerry expected to travel to China in first visit by top Biden official"
-    excerpt: "The trip, less than a month after a face-to-face meeting between senior Chinese and U.S. diplomats in Alaska ended in traded diatribes and insults, would be the first official visit to China by a top Biden administration official. A State Department ..."
-    publishedDateTime: 2021-04-10T19:35:00Z
-    webUrl: "https://www.washingtonpost.com/world/china-us-kerry-climate/2021/04/10/1844cf02-99ff-11eb-8f0a-3384cf4fb399_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/china-us-kerry-climate/2021/04/10/1844cf02-99ff-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/china-us-kerry-climate/2021/04/10/1844cf02-99ff-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+  - title: "After outcry, WH says Biden will lift refugee cap in May"
+    excerpt: "Facing swift blowback from allies and aid groups, the White House says President Joe Biden plans to lift in the next month his predecessor’s historically low cap on refugees, after initially moving on"
+    publishedDateTime: 2021-04-16T20:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-speeds-refugees-admissions-but-doesnt-lift-trump-cap/2021/04/16/56a23502-9ed0-11eb-b2f5-7d2f0182750d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-speeds-refugees-admissions-but-doesnt-lift-trump-cap/2021/04/16/56a23502-9ed0-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-speeds-refugees-admissions-but-doesnt-lift-trump-cap/2021/04/16/56a23502-9ed0-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YWO3FOU2EAI6XMUNX6T3WXFSUU.jpg&w=1440"
-        width: 1440
-        height: 940
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Biden hands toy back to child at service for fallen Capitol officer"
-    excerpt: "President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims for Ramadan The business case for child care reform ..."
-    publishedDateTime: 2021-04-13T15:46:00Z
-    webUrl: "https://thehill.com/homenews/house/547930-biden-hands-toy-back-to-child-at-service-for-fallen-capitol-officer"
-    ampWebUrl: "https://thehill.com/homenews/house/547930-biden-hands-toy-back-to-child-at-service-for-fallen-capitol-officer?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/547930-biden-hands-toy-back-to-child-at-service-for-fallen-capitol-officer?amp"
+  - title: "Biden's appeals for action on guns, policing face reality"
+    excerpt: "President Joe Biden is calling for action as the nation struggles with yet another mass shooting and faces a reckoning over the deaths of Black men at the hands of police"
+    publishedDateTime: 2021-04-17T04:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-appeals-action-guns-policing-face-reality-77132341"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-appeals-action-guns-policing-face-reality-77132341"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-appeals-action-guns-policing-face-reality-77132341"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_cdfc1a13c1c74d47b437976ce9b093fa_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden to host Japanese PM at White House in president’s first visit from foreign leader – live"
+    excerpt: "North Korea and China will be primary topics of conversation, senior official says"
+    publishedDateTime: 2021-04-16T14:34:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/7817b7be04dd2137db9e6559de71b3b27fe0c791/0_195_3008_1805/master/3008.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fa400964ddbbb8c6cb25902b044b5ad2"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden to announce all US adults vaccine-eligible by 19 April – US politics live"
+    excerpt: "Biden to make announcement as White House encourages older Americans to get vaccinated as quickly as possible – follow all the day’s US politics news"
+    publishedDateTime: 2021-04-06T16:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest?page=with:block-606c74338f08611d06d8d7ca"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/a77da5d15e3310643e78095fbbf0dbe303834a43/0_99_5307_3184/master/5307.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2fd62229786e5cf0c86525e5fbceff2f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden to announce all US adults vaccine-eligible by 19 April – US politics live"
+    excerpt: "White House press secretary Jen Psaki was asked whether Vladimir Putin has confirmed his attendance to Joe Biden’s climate summit later this month. Bloomberg News reported today that the Russian president is making plans to attend the virtual summit."
+    publishedDateTime: 2021-04-06T18:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest?page=with:block-606c8a0b8f08098d4e05651c"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/c94bc3ce8b8e6da02323a2e4df87408b1e0c4f6c/0_158_4652_2792/master/4652.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c6c7b6781ad3305d641682f77ca4ad21"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden welcomes Japan's prime minister to White House as he tries to counter China"
+    excerpt: "Japan is one of the few industrialized nations not sanctioning China for human rights abuses. The U.S. would like that to change."
+    publishedDateTime: 2021-04-16T21:46:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-china-xinjiang-human-rights-sanctions-japan-prime-minister-suga-live-stream-today-2021-04-16/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-china-xinjiang-human-rights-sanctions-japan-prime-minister-suga-live-stream-today-2021-04-16/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-china-xinjiang-human-rights-sanctions-japan-prime-minister-suga-live-stream-today-2021-04-16/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/16/2d9f7820-890e-4117-aed2-1887ae9d5e42/thumbnail/1200x630/f26b663185e1b3ae61c1bc3818ce0a1f/screen-shot-2021-04-16-at-5-46-09-pm.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden Decision to Delay Afghanistan Withdrawal to 9/11 Could Escalate Taliban Conflict"
+    excerpt: "President Joe Biden's plan to delay the withdrawal of U.S. troops from Afghanistan until September 11 could escalate tensions with the Taliban. According to the Associated Press, Biden is scheduled to announce the delayed withdrawal date in the upcoming ..."
+    publishedDateTime: 2021-04-13T17:11:00Z
+    webUrl: "https://www.newsweek.com/biden-decision-delay-afghanistan-withdrawal-9-11-could-escalate-taliban-conflict-1583337"
+    ampWebUrl: "https://www.newsweek.com/biden-decision-delay-afghanistan-withdrawal-9-11-could-escalate-taliban-conflict-1583337?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-decision-delay-afghanistan-withdrawal-9-11-could-escalate-taliban-conflict-1583337?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1777203/president-joe-biden.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden tells family of officer killed in Capitol car attack: ‘Your Dad was a hero’ – live"
+    excerpt: "“I don’t think it was pulling the trigger too quickly.” Joe Biden will withdraw all the remaining US troops from Afghanistan by September 11, the 20th anniversary of the al-Qaida terrorist attacks on New York and Washington, a senior administration ..."
+    publishedDateTime: 2021-04-13T16:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates?page=with:block-6075cc3a8f081d5f7f94ef4a"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/54c0ae823c55ace7e5b9ccbcb747b81cc2f69eb6/0_32_4845_2907/master/4845.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6eebce1353e72fcc91b8e666f139d987"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Joe Manchin Puts a Damper on Biden's Infrastructure Plan, Says It Risks U.S. Competitiveness"
+    excerpt: "Senator Joe Manchin, a moderate West Virginia Democrat, criticized the corporate tax increase plan President Joe Biden has proposed to pay for a $2 trillion infrastructure bill, raising concerns it could risk American competitiveness. In an interview with ..."
+    publishedDateTime: 2021-04-05T18:40:00Z
+    webUrl: "https://www.newsweek.com/joe-manchin-puts-damper-bidens-infrastructure-plan-says-it-risks-us-competitiveness-1581102"
+    ampWebUrl: "https://www.newsweek.com/joe-manchin-puts-damper-bidens-infrastructure-plan-says-it-risks-us-competitiveness-1581102?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-manchin-puts-damper-bidens-infrastructure-plan-says-it-risks-us-competitiveness-1581102?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1771680/joe-manchin.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Biden administration still seizing land near border despite plans to stop building wall: report"
+    excerpt: "President Biden’s administration is still seizing land near the U.S.- Mexico border to be used to continue building a wall, according to an"
+    publishedDateTime: 2021-04-16T01:13:00Z
+    webUrl: "https://thehill.com/homenews/administration/548586-biden-admin-still-seizing-land-near-border-despite-plans-to-stop"
+    ampWebUrl: "https://thehill.com/homenews/administration/548586-biden-admin-still-seizing-land-near-border-despite-plans-to-stop?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/548586-biden-admin-still-seizing-land-near-border-despite-plans-to-stop?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 125
+    quality: 113
     images:
-      - url: "https://thehill.com/sites/default/files/evanswilliam_capitol_getty041321.jpg"
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_04152021getty.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Biden, lawmakers pay tribute to slain Capitol Police officer"
-    excerpt: "Slain U.S. Capitol Police Officer William “Billy” Evans was lauded for his dedication to country, love for his job and for a mischievous sense of humor as President Joe Biden and congressional leaders"
-    publishedDateTime: 2021-04-13T16:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/congress-to-honor-2nd-capitol-police-officer-slain-this-year/2021/04/13/58154b18-9c0f-11eb-b2f5-7d2f0182750d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/congress-to-honor-2nd-capitol-police-officer-slain-this-year/2021/04/13/58154b18-9c0f-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/congress-to-honor-2nd-capitol-police-officer-slain-this-year/2021/04/13/58154b18-9c0f-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+  - title: "Biden to pay respects to police officer killed in car attack as casket arrives at Capitol – live"
+    excerpt: "As his father’s casket was carried up the Capitol steps, Logan could be seen clutching a teddy bear. pic.twitter.com/40oYXOyvVT Joe Biden and congressional leaders will attend this morning’s ceremony to honor William “Billy” Evans, the USCP officer ..."
+    publishedDateTime: 2021-04-13T14:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates?page=with:block-607599c68f08b7e3afb8a2b5"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 112
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://i.guim.co.uk/img/media/54c0ae823c55ace7e5b9ccbcb747b81cc2f69eb6/0_32_4845_2907/master/4845.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6eebce1353e72fcc91b8e666f139d987"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Business leaders urge Biden to set ambitious climate goal"
-    excerpt: "President Joe Biden is considering options for expected carbon reductions by 2030 ahead of a virtual climate summit the United States is hosting later this month. The so-called Nationally ..."
-    publishedDateTime: 2021-04-13T11:50:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/business-leaders-urge-biden-set-ambitious-climate-goal-77039875"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/business-leaders-urge-biden-set-ambitious-climate-goal-77039875"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/business-leaders-urge-biden-set-ambitious-climate-goal-77039875"
+  - title: "'A heck of a guy': Joe Biden pays tribute to Prince Philip – video"
+    excerpt: "The US president on Friday paid tribute to the Duke of Edinburgh, Prince Philip, and sent condolences to Queen Elizabeth II."
+    publishedDateTime: 2021-04-09T21:34:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/apr/09/a-heck-of-a-guy-joe-biden-pays-tribute-to-prince-philip-video"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
     images:
-      - url: "https://s.abcnews.com/images/Business/WireAP_7756f1f499fd4c2db64c28e4e3802213_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden invited to address U.S. Congress on April 28"
-    excerpt: "WASHINGTON (Reuters) - U.S. House Speaker Nancy Pelosi on Tuesday invited President Joe Biden to address a joint session of Congress on April 28. “I am writing to invite you to address a Joint Session of Congress on Wednesday, April 28, to share your ..."
-    publishedDateTime: 2021-04-13T23:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-congress-biden/biden-invited-to-address-u-s-congress-on-april-28-idUSKBN2C101G?edition-redirect=uk"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C101G"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C101G"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210414&t=2&i=1558349728&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3D00M"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "U.S. Senate confirms Biden nominee for No. 2 State Dept post"
-    excerpt: "WASHINGTON (Reuters) -The U.S. Senate on Tuesday confirmed President Joe Biden’s nominee Wendy Sherman to be deputy secretary of state, the number two position at the department. The Senate backed the nomination by 56-42, as a handful of Republicans ..."
-    publishedDateTime: 2021-04-13T21:31:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-diplomacy-idUSKBN2C02YO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C02YO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C02YO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558338430&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C1GD"
-        width: 715
-        height: 545
-        isCached: true
-  - title: "Biden's pick for top civil rights job promises to advance racial equality"
-    excerpt: "WASHINGTON – Kristen Clarke, President Joe Biden's pick to be the Justice Department's civil rights chief, is promising to make racial equality a top priority, drawing on her experiences as a longtime civil rights attorney and the mother of a Black ..."
-    publishedDateTime: 2021-04-14T06:59:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/14/biden-civil-rights-chief-nominee-kristen-clarke-faces-confirmation-hearing/7204361002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7204361002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7204361002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 124
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/14/USAT/38f34795-1047-4e1d-9068-f0f4108ef791-GTY_1295083847.jpg?auto=webp&crop=5228,2941,x0,y0&format=pjpg&width=1200"
+      - url: "https://i.guim.co.uk/img/media/3427740fbb9252d413d0108d078651328660d5c0/0_118_4348_2609/master/4348.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c298b9b651401ae7eebb12c233c83595"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Biden family dog Major to get 'off-site, private training' after two biting incidents"
-    excerpt: "He added that Major, a 3-year-old German Shepherd the Bidens adopted in 2018, is \"still adjusting to his new surroundings\" in Washington, D.C. Major and the Bidens other dog Champ moved in to the White House a few days after Joe Biden's inauguration ..."
-    publishedDateTime: 2021-04-12T12:59:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/04/12/bidens-dog-major-get-more-training-following-biting-incidents/7186140002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7186140002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7186140002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/09/USAT/67801030-2b22-4776-9e35-1ebd4add9290-VPC_WHITE_HOUSE_DOGS_GO_BACK_TO_DELAWARE_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Hill's Morning Report - Biden bumps up vaccine eligibility amid 'life or death' race"
-    excerpt: "President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far Jill Biden to visit Alabama with actress Jennifer Garner MORE\" width=\"580 ..."
-    publishedDateTime: 2021-04-07T10:25:00Z
-    webUrl: "https://thehill.com/homenews/morning-report/546844-the-hills-morning-report"
-    ampWebUrl: "https://thehill.com/homenews/morning-report/546844-the-hills-morning-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/546844-the-hills-morning-report?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 116
-    images:
-      - url: "https://thehill.com/sites/default/files/newsletter-open_040721getty.jpg"
-        width: 580
-        height: 387
-        isCached: true
-  - title: "Roberta Jacobson, senior Biden official overseeing border, stepping down at end of month"
-    excerpt: "In his statement, Sullivan suggested that Vice President Kamala Harris, who President Joe Biden chose to deal with migration from Central America, will pick up some of Jacobson's portfolio."
-    publishedDateTime: 2021-04-09T22:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/roberta-jacobson-senior-biden-official-overseeing-border-stepping/story?id=76984133"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/roberta-jacobson-senior-biden-official-overseeing-border-stepping/story?id=76984133"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/roberta-jacobson-senior-biden-official-overseeing-border-stepping/story?id=76984133"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 116
-    images:
-      - url: "https://s.abcnews.com/images/Politics/roberta-jacobson-gty-jc-210409_1618009006290_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden pays tribute to slain Capitol Police officer"
-    excerpt: "Slain Capitol Police Officer William “Billy\" Evans was lauded as an American hero, \"defined by his dignity, his decency...and his courage,\" as President Joe Biden and congressional leaders honored him during a memorial service Tuesday."
-    publishedDateTime: 2021-04-13T17:54:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/13/biden-pays-tribute-slain-capitol-police-officer/7207126002/"
+  - title: "Biden announces tough new sanctions on Russia"
+    excerpt: "President Joe Biden announces tough new sanctions on Russia, expelling 10 diplomats and imposing sanctions against dozens of companies and people. The US holds the Kremlin accountable for interference in the 2020 presidential election hacking."
+    publishedDateTime: 2021-04-15T23:06:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/15/biden-announces-tough-new-sanctions-russia/7245271002/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a1f37893-5012-45f2-8461-47ceb11925a3_poster.jpg?quality=10"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/772e29b1-6845-449c-816c-d6d58ede2602_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
-  - title: "President Joe Biden gives powerful tribute, pays respects to slain Capitol police officer"
-    excerpt: "President Joe Biden gave an emotional tribute and paid his respects to slain U.S. Capitol Police Officer William “Billy” Evans."
-    publishedDateTime: 2021-04-13T23:24:00Z
-    webUrl: "https://www.indystar.com/videos/news/nation/2021/04/13/president-biden-pays-respects-slain-capitol-police-officer/7212635002/"
+  - title: "Biden administration to launch massive funeral assistance program for covid victims"
+    excerpt: "The Biden administration next week will launch a funeral assistance program that will provide up to $9,000 to cover the burial costs of each American who died of covid-19 — the largest program of its type ever offered by the federal government."
+    publishedDateTime: 2021-04-06T21:15:00Z
+    webUrl: "https://www.washingtonpost.com/national/covid-funerals-assistance/2021/04/06/d7d1db20-9659-11eb-b28d-bfa7bb5cb2a5_story.html"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 46
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 99
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/13/USAT/c8029d0e-d69e-4994-accc-b4eee06c60e5-DESK.00_00_41_02.Still004.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4XIAF4EXCMI6XMUNX6T3WXFSUU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "President Joe Biden will address a joint session of Congress for the first time on April 28"
-    excerpt: "Speaker of the House Nancy Pelosi extended the invite to Biden on Tuesday, “to share your vision for addressing the challenges and opportunities of this historic moment.” A documentary on Baltimore club music is coming to Netflix this week. We talked ..."
-    publishedDateTime: 2021-04-14T03:36:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-joe-biden-address-congress-april-20210414-rvc53gqm6bctpez3ccl5ya2m7e-story.html"
+  - title: "Biden could agree to a 25% corporate tax rate as a compromise with business groups, rather than the 28% he wanted, according to a report"
+    excerpt: "President Joe Biden. Jabin Botsford/The Washington Post via Getty Images Summary List Placement President Joe Biden may not achieve his proposed corporate tax rise to 28%, but lawmakers and corporations could agree on a 25% rate as a compromise ..."
+    publishedDateTime: 2021-04-08T09:40:00Z
+    webUrl: "https://www.businessinsider.com/biden-infrastructure-plan-corporate-tax-rate-white-house-companies-compromise-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-infrastructure-plan-corporate-tax-rate-white-house-companies-compromise-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-infrastructure-plan-corporate-tax-rate-white-house-companies-compromise-2021-4?amp"
     type: article
     provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 45
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
     images:
-      - url: "https://www.baltimoresun.com/resizer/rl9G2uqZvtQP3XumEQfylj_pw60=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3XJVCILI6LSBXHHTP5ECBBTCSA.aspx"
+      - url: "https://i.insider.com/606ec12730004b0019b26927?width=1200&format=jpeg"
         width: 1200
-        height: 800
+        height: 600
+        isCached: true
+  - title: "'Get on it Joe!' How a coalition for strengthening gun violence prevention pushed Biden to act"
+    excerpt: "Gun control activist Po Murray addressed the crowd at an anti-violence rally in Hartford Monday. WASHINGTON — In the first two months of President Joe Biden’s administration, many of the nation’s most powerful gun violence prevention groups were ..."
+    publishedDateTime: 2021-04-09T23:49:00Z
+    webUrl: "https://www.timesunion.com/news/article/Get-on-it-Joe-how-a-strengthening-gun-16090259.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Get-on-it-Joe-how-a-strengthening-gun-16090259.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Get-on-it-Joe-how-a-strengthening-gun-16090259.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 63
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/42/34/20850435/5/375x250.jpg"
+        width: 375
+        height: 249
         isCached: true
 
 secured: "8TRkDDTGDZat505gct8ikIadeQOH8XK3UUjxH/aVUrdUjvAXUQB71fTkQRFHomPsVi7EafwRGMFC+hZw3qwBu0a7sijF2qz/DiuiBhvRd1WYb3FCrc2dyzCWYKuSOmhbQVVFcGC1dNy1T1kEn8WA4Pcq7gTnrigUMkfarVodyX6PqN5J2gXfk/NCdMH0PPLlkUJThAFT0zt7t8iLQF7gaP2i6mi7kHXmD6wcqQkktyxb0R9PXOvx8vV0nNhZGvRTM0W3NlOoxFuQ5hFn5MOe46CxLXwSyscuut0lMaVaPwdROWjskhN2noFA5ZMbje0yDfqYWi+xI8ZVyyNiK+gmPR7v7YKwiLKKAd/xOGnjMfw9TEDuRGEBssNE5WWLwEIGnMsaFReUpqhC968HZwPyhlC9cA1QuNMUzDv+tv7aR7pKSllCfj7Vt6O/2OlBZqSTSy8rQqLAyvNGUZbB3HFqrRxpnPNs7JDnny5TKdmMfTGluqjHjuyXDgAoCNdEQNYr2A20b+avlY0kw2VUyH0bcg==;2tp6MbV/wwWkg7Ogg/CaLA=="

@@ -31,22 +31,113 @@ images:
     isCached: true
 
 related:
-  - title: "Bipartisan lawmakers signal support for Biden cybersecurity picks"
-    excerpt: "Key lawmakers on Monday expressed support for President Biden Joe Biden Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Biden to meet Monday with ..."
-    publishedDateTime: 2021-04-12T20:02:00Z
-    webUrl: "https://thehill.com/policy/cybersecurity/547756-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks"
-    ampWebUrl: "https://thehill.com/policy/cybersecurity/547756-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/cybersecurity/547756-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks?amp"
+  - title: "Biden raises concerns with Putin about Ukraine confrontation"
+    excerpt: "President Joe Biden is calling on Russian President Vladimir Putin to “de-escalate tensions” following a Russian military buildup on Ukraine’s border"
+    publishedDateTime: 2021-04-13T21:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-raises-concerns-putin-ukraine-confrontation-77045832"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-raises-concerns-putin-ukraine-confrontation-77045832"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-raises-concerns-putin-ukraine-confrontation-77045832"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0608176cbab24c1d890713852a371c99_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden says everyone in US now eligible for Covid vaccine – live updates"
+    excerpt: "Guardian US has a separate live blog dedicated to covering the Chauvin trial and related topics. There’s a livestream from court. You can read that here. The Republican leader in the House and an extremist congresswoman who champions “Anglo-Saxon political traditions” have demanded action against the Democrat Maxine Waters,"
+    publishedDateTime: 2021-04-19T16:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/39b2485b49a592b23c6ce07725257b5bc4c20a33/0_73_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9c280154f4a7d72583a1a96daad3fe97"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden to hold second meeting with bipartisan lawmakers on infrastructure"
+    excerpt: "President Biden is scheduled to meet Monday with a bipartisan group of lawmakers, all of whom are former governors or mayors, to discuss his $2.25 trillion infrastructure proposal."
+    publishedDateTime: 2021-04-19T02:17:00Z
+    webUrl: "https://thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure"
+    ampWebUrl: "https://thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 125
+    quality: 124
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_110920getty_cyber.jpg"
+      - url: "https://thehill.com/sites/default/files/bidenjoe3_04152021getty.jpg"
         width: 980
         height: 551
         isCached: true
+  - title: "Manchin's firm stance on filibuster, reconciliation threatens ambitious Biden agenda"
+    excerpt: "Without his backing, Biden may have to trim, abandon some legislative efforts. 'We're gonna find a really good strong deal space' on infrastructure: Buttigieg Moderate Democrat Joe Manchin ..."
+    publishedDateTime: 2021-04-08T22:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/manchins-firm-stance-filibuster-reconciliation-threatens-ambitious-biden/story?id=76953755"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/manchins-firm-stance-filibuster-reconciliation-threatens-ambitious-biden/story?id=76953755"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/manchins-firm-stance-filibuster-reconciliation-threatens-ambitious-biden/story?id=76953755"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-manchin-filibuster-01-gty-llr-210407_1617911131382_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Joe Biden, Vladmir Putin Summit Doesn't Signal New Friendliness with Russia, White House Says"
+    excerpt: "U.S. President Joe Biden and Russian President Vladmir Putin have agreed to take their icy relationship to the next level in the coming months—a face-to-face meeting in a third country. But the White House insists it's not a signal that the two are on ..."
+    publishedDateTime: 2021-04-13T18:15:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1777226/putin-biden.jpg"
+        width: 3477
+        height: 1775
+        isCached: true
+  - title: "Joe Biden attends grandson's confirmation in Wilmington"
+    excerpt: "President Joe Biden and First Lady Jill Biden on Sunday attended the confirmation of their 15-year-old grandson Robert Hunter Biden II in Wilmington. The service took place around 2 p.m. at St. Joseph on the Brandywine,"
+    publishedDateTime: 2021-04-19T13:26:00Z
+    webUrl: "https://www.delawareonline.com/story/news/2021/04/19/joe-biden-attends-grandsons-confirmation-while-home-delaware/7282335002/"
+    ampWebUrl: "https://amp.delawareonline.com/amp/7282335002"
+    cdnAmpWebUrl: "https://amp-delawareonline-com.cdn.ampproject.org/c/s/amp.delawareonline.com/amp/7282335002"
+    type: article
+    provider:
+      name: Delaware Online
+      domain: delawareonline.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/19/PWIL/436f944c-3093-45cc-b50b-ea1e31ec09d5-AP21107724024083.jpg?auto=webp&crop=5447,3064,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden Proposes Summit With Russia’s Vladimir Putin"
+    excerpt: "Biden and Putin have now spoken twice by phone since Biden took office in late January. But the proposed meeting, which Biden suggested should happen in a \"third country,\" would be the first between them as tensions escalate between the two countries. The ..."
+    publishedDateTime: 2021-04-13T17:48:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-13/joe-biden-proposes-summit-with-russias-vladimir-putin"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-13/joe-biden-proposes-summit-with-russias-vladimir-putin?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-13/joe-biden-proposes-summit-with-russias-vladimir-putin?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "mh5QC9Ku/2nmv2jOm1qOlzQUE/TXctnL18JED26eDDQs9zbv3RaovHjLNnLvYneaNJEaripfgwQbzd+tmOvgbNv/reL12hfYVn957BzIDjpm4g1JLvjTSDerISfmHyJLHpT7FdWCq3oYvg/oMdTJxD7R3GS3CNgCYJcz2UHgtM3tYKAaOYDhWxElQBBYX8wXlqUwj4I+VeYIEm3agS1a08uSK5Gga41IbyiXYAOhVt/7b/ogN6G+sXcOhBY3crAUVyndOIXH7IaY/lQhrmq5dEO8oFqumxQvAjJym7yOwJ8U/TQvKsMf1c3gLpkFI8FND5I2BrlWI3tOXZ03L0OFxB9dshX8V+sY9SM2GVNqIFQ=;FbHYtEwFZCdnndsHWOWVhw=="
 ---

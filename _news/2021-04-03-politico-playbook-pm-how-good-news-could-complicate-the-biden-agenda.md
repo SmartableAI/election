@@ -30,273 +30,179 @@ images:
     isCached: true
 
 related:
-  - title: "Schiff aide moves to White House as Biden rounds out press team "
-    excerpt: "The White House is rounding out its press operation, adding a veteran Capitol Hill aide as President Joe Biden prepares to launch his next major agenda push.\n    \n"
-    publishedDateTime: 2021-03-26T10:03:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xANsBiIK0Tk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/26/politics/emilie-simons-white-house-press-team/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/26/politics/emilie-simons-white-house-press-team/index.html"
+  - title: "Biden's planned pick for ATF director a fierce advocate for gun control"
+    excerpt: "David Chipman, President Joe Biden's planned nominee for director of the Bureau of Alcohol, Tobacco, Firearms and Explosives, has a long history at the agency and sports credentials in gun control advocacy sure to excite firearm safety groups.\n    \n"
+    publishedDateTime: 2021-04-08T01:30:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VX54MO6W-_I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325200615-emilie-simons-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407172125-david-chipman-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "White House says Biden is '100% fine' after he tripped boarding Air Force One"
-    excerpt: "President Joe Biden is doing \"100% fine\" after he tripped while walking up the stairs to board Air Force One earlier Friday, White House principal deputy press secretary Karine Jean-Pierre said.\n    \n"
-    publishedDateTime: 2021-03-19T17:41:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6YJxRRTs2Rw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/biden-air-force-one-trip/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/biden-air-force-one-trip/index.html"
+  - title: "Biden to nominate first woman secretary of the Army"
+    excerpt: "President Joe Biden has picked Christine Wormuth to be the next secretary of the Army, the White House announced Monday, making her the first woman to hold the position if confirmed by the Senate.\n    \n"
+    publishedDateTime: 2021-04-12T21:54:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nS6ktSR9hPc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/christine-wormuth-first-woman-army-secretary/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/christine-wormuth-first-woman-army-secretary/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319130606-01-biden-trips-air-force-one-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210412165729-christine-wormuth-file-2015-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's infrastructure plan is about to put his bipartisan appeal to the test"
-    excerpt: "With some wind in his sails from the massively popular Covid relief package, President Joe Biden's next big legislative push -- a sweeping infrastructure plan -- is set to bring a far more challenging bipartisan test in the coming weeks.\n    \n"
-    publishedDateTime: 2021-03-29T00:03:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PG4zq4HwDqo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/28/politics/infrastructure-biden-taxes/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/28/politics/infrastructure-biden-taxes/index.html"
+  - title: "Democrats urge Biden administration to reform shelter system for migrant minors "
+    excerpt: "More than 60 Democratic lawmakers called on the Biden administration Tuesday to eventually end reliance on overflow facilities for unaccompanied migrant children, according to a letter shared with CNN.\n    \n"
+    publishedDateTime: 2021-04-13T09:45:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rCC6l5o6ISc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/democrats-immigration-shelter-system/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/democrats-immigration-shelter-system/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210327183832-01-joe-biden-0327-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324190144-07-hhs-children-facility-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Biden pleads with states to slow openings as new viral surge builds"
-    excerpt: "How Covid-weary Americans behave now will decide how many are yet to die.\n    \n"
-    publishedDateTime: 2021-03-30T13:57:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uUuFzEiz6zc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/coronavirus-joe-biden-rochelle-walensky-cdc-vaccines/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/coronavirus-joe-biden-rochelle-walensky-cdc-vaccines/index.html"
+  - title: "Biden to nominate first person of color to serve as permanent Census Bureau director"
+    excerpt: "President Joe Biden has picked statistician Robert Santos as the next Census Bureau director, the White House announced Tuesday, setting the stage for the first person of color to permanently head the agency if confirmed by the Senate.\n    \n"
+    publishedDateTime: 2021-04-13T21:17:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H8lAn0sCqOk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/biden-census-bureau-robert-santos/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/biden-census-bureau-robert-santos/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329131858-01-biden-remarks-0329-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413154724-rob-santos-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden reaches out to some Republicans on Capitol Hill -- but not party leaders"
-    excerpt: "Senate GOP Leader Mitch McConnell says he's spoken with President Joe Biden just once since he took office.\n    \n"
-    publishedDateTime: 2021-03-24T23:11:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OF05IFTv9rI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/biden-republican-relationships/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/biden-republican-relationships/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106100610-01-biden-mcconnell-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Schumer eyes using budget tool twice to pass Biden's 2-part infrastructure plan"
-    excerpt: "Senate Democrats are looking at potentially using an arcane budget process twice more this year in an effort to ensure they can pass President Joe Biden's massive infrastructure project with just a simple Democratic majority.\n    \n"
-    publishedDateTime: 2021-03-29T16:04:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P7E6Q2ab71M/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/29/politics/reconciliation-senate-democrats-plans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/reconciliation-senate-democrats-plans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205121011-07-chuck-schumer-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Infrastructure timeline emerges as Biden aims to pass sweeping package this summer "
-    excerpt: "President Joe Biden is aiming to pass his sweeping infrastructure and jobs proposal this summer, a senior White House official told CNN, setting an ambitious timeline to achieve his next major legislative goal.\n    \n"
-    publishedDateTime: 2021-03-30T16:18:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KCfvddchbNc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/30/politics/biden-infrastructure-timeline/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/biden-infrastructure-timeline/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329131858-01-biden-remarks-0329-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden orders White House flags lowered to half-staff after Capitol Police officer killed"
-    excerpt: "President Joe Biden has been receiving ongoing briefings from his homeland security adviser following an attack on the US Capitol that killed Capitol Police Officer William Evans and injured another, the White House announced Friday.\n    \n"
-    publishedDateTime: 2021-04-02T22:04:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NuzvXGo-ZYM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/02/politics/biden-capitol-attack-reaction/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/02/politics/biden-capitol-attack-reaction/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323130224-01-white-house-flag-half-staff-0323-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration projects at least 34,100 more beds needed to shelter migrant children"
-    excerpt: "The Biden administration could need at least 34,100 additional beds to keep up with the projected number of unaccompanied kids arriving at the US-Mexico border through September, according to internal government estimates obtained by CNN.\n    \n"
-    publishedDateTime: 2021-03-27T18:02:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KLw_hVqmNSE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/27/politics/us-mexico-border-migrant-children-beds/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/27/politics/us-mexico-border-migrant-children-beds/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323125936-01-border-facility-donna-texas-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How the border problem caught the Biden team off guard, and how they've scrambled to fix it "
-    excerpt: "As the number of unaccompanied children in Border Patrol custody ballooned this month, President Joe Biden's team raced to find more places to house them, leaving thousands of children stuck in jail-like facilities for longer than the 72 hours allowed under the law.\n    \n"
-    publishedDateTime: 2021-03-21T00:41:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xKj_3321wFM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html"
+  - title: "Biden to take first limited steps on gun control, including on 'ghost guns' and pistol braces"
+    excerpt: "President Joe Biden plans to announce new executive actions on guns on Thursday, a person familiar with the plans said, fulfilling a commitment he made in the aftermath of two deadly shootings last month.\n    \n"
+    publishedDateTime: 2021-04-08T01:13:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WbuhfS5sVSo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/biden-executive-actions-guns/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/biden-executive-actions-guns/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316152746-07-border-crisis-unf-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406162103-01-biden-vaccine-remarks-0406-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Congress looks to Biden as an ally as it tries to finally rewrite authority for the war on terror"
-    excerpt: "There's a new movement afoot to finally curb the President's 9/11 war powers, and the Republicans and Democrats pushing it have hope in a key ally: the President himself.\n    \n"
-    publishedDateTime: 2021-03-25T10:08:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gv09_HJRAIM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/congress-war-on-terror-aumf/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/congress-war-on-terror-aumf/index.html"
+  - title: "Biden's agenda hinges on new Senate push for bipartisan deals amid distrust between the parties"
+    excerpt: "Major items on President Joe Biden's domestic agenda hang in the balance this month, hinging on Republicans' willingness to cut deals and whether Democrats agree to pare back their ambitions at the risk of causing a backlash on the left.\n    \n"
+    publishedDateTime: 2021-04-14T21:13:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t879IIHRsVQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/biden-agenda-bipartisan-deals/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/biden-agenda-bipartisan-deals/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 162
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210104140355-01-us-congress-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180212125818-01-schumer-mcconnell-02-12-2018-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Advocates call on Biden administration to prioritize youth mental health as experts warn of consequences"
-    excerpt: "Talia Kaganovsky has struggled with her mental health for years. But when Covid-19 hit, \"it was almost like a giant slap in the face,\" the 18-year-old freshman at University of Pittsburgh said.\n    \n"
-    publishedDateTime: 2021-03-28T16:01:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JnC8GQF8kqY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/28/politics/youth-mental-health-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/28/politics/youth-mental-health-biden/index.html"
+  - title: "Will Joe Biden take his place alongside FDR and LBJ?"
+    excerpt: "(CNN)Will JRB take his place alongside FDR and LBJ? President Joseph Robinette Biden just unveiled the latest move in his quest to transform the US economy to boost working Americans rather than the wealthy. His $2 trillion infrastructure plan follows a $1 ..."
+    publishedDateTime: 2021-04-01T09:13:00Z
+    webUrl: "https://www.cnn.com/2021/04/01/world/meanwhile-in-america-april-1-intl/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/world/meanwhile-in-america-april-1-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/world/meanwhile-in-america-april-1-intl/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 158
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325142746-joe-biden-march-25-2021-02-super-tease.jpeg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331171614-04-biden-infrastucture-0331-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's all quiet on the southern border. That might not last."
-    excerpt: "WASHINGTON — President Joe Biden's response to an influx of migrants at the U.S.-Mexico border has been muted so far. But a tightening political squeeze may force him to act more aggressively soon. Biden's Republican critics say that he's failing to ..."
-    publishedDateTime: 2021-03-24T08:31:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-s-all-quiet-southern-border-might-not-last-n1261857"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261857"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261857"
+  - title: "The sneaky radicalism of Joe Biden's first few months in office"
+    excerpt: "(CNN)Joe Biden ran for president on a very simple idea: Government (and the country) works best when people from opposing parties work together. And he cast himself as someone who was uniquely suited to re-stoke the desire for bipartisanship in Congress ..."
+    publishedDateTime: 2021-04-09T16:08:00Z
+    webUrl: "https://www.cnn.com/2021/04/09/politics/joe-biden-environment-guns-filibuster/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/joe-biden-environment-guns-filibuster/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/joe-biden-environment-guns-filibuster/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408122600-joe-biden-april-8-2021-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden targets 'ghost guns' and 'red flag' laws in new gun control measures"
+    excerpt: "WASHINGTON — President Joe Biden is trying to limit \"ghost guns\" and make it easier for people to flag family members who shouldn't be allowed to purchase firearms with a series of executive actions taken Thursday in the wake of recent mass shootings."
+    publishedDateTime: 2021-04-08T17:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-target-ghost-guns-red-flag-laws-new-gun-control-n1263438"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263438"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263438"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 133
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_12/3459016/210323-joe-biden-podium-ac-446p_0740f7e5d27241f32d4e6a030a00a6cd.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3463010/210408-joe-biden-se-1040a_293240327619717702ae0fcd649d9d31.jpg"
         width: 2500
-        height: 1517
+        height: 1667
         isCached: true
-  - title: "'Major is still adjusting': New White House trouble hounds Biden's dog"
-    excerpt: "President Joe Biden's dog Major has been involved in a second biting incident at the White House, NBC News has confirmed. “Major is still adjusting to his new surroundings and he nipped someone while on a walk. Out of an abundance of caution, the ..."
-    publishedDateTime: 2021-03-30T21:08:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/major-still-adjusting-new-white-house-trouble-hounds-biden-s-n1262527"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1262527"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262527"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_13/3460867/210330-major-biden-dog-ac-435p_33990fb7823b6d94d4f5c4411ad7b697.jpg"
-        width: 2500
-        height: 1668
-        isCached: true
-  - title: "Wall Street wants to know who will pay for Joe Biden's infrastructure bonanza"
-    excerpt: "The Dow fell 30 points, 0.09%. The S&P 500 is 0.01% higher. A new report from the World Economic Forum estimates that attaining global gender parity will take nearly 136 years, up from its previous estimate of almost 100 years."
-    publishedDateTime: 2021-03-31T20:03:00Z
-    webUrl: "https://www.cnn.com/business/live-news/stock-market-news-033121/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/business/live-news/stock-market-news-033121/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/business/live-news/stock-market-news-033121/index.html"
+  - title: "Biden to nominate first person of color to serve as permanent Census Bureau director"
+    excerpt: "Washington (CNN)President Joe Biden has picked statistician Robert Santos as the next Census Bureau director, the White House announced Tuesday, setting the stage for the first person of color to permanently head the agency if confirmed by the Senate."
+    publishedDateTime: 2021-04-13T21:17:00Z
+    webUrl: "https://www.cnn.com/2021/04/13/politics/biden-census-bureau-robert-santos/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/biden-census-bureau-robert-santos/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/biden-census-bureau-robert-santos/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 132
+    quality: 128
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329125221-07-nyse-0323-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413154724-rob-santos-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The three words not in Biden's infrastructure plan"
-    excerpt: "We all know JOE BIDEN likes — okay, loooooooves — trains. So it’s no surprise that the infrastructure plan he proposed this week includes $80 billion for national and intercity rail over eight years, or $10 billion a year — five times the annual $2 ..."
-    publishedDateTime: 2021-04-02T22:53:00Z
-    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/04/02/the-three-words-not-in-bidens-infrastructure-plan-492348"
+  - title: "Pelosi invites Biden to address Congress"
+    excerpt: "House Speaker Nancy Pelosi on Tuesday night formally invited President Joe Biden to address a joint session of Congress on April 28, his first speech to both chambers as president. In a brief letter to Biden, Pelosi said she invited him “to share your ..."
+    publishedDateTime: 2021-04-14T00:14:00Z
+    webUrl: "https://www.politico.com/news/2021/04/13/pelosi-invites-biden-to-address-congress-481307"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
-  - title: "White House says Biden is '100% fine' after he tripped boarding Air Force One"
-    excerpt: "(CNN)President Joe Biden is doing \"100% fine\" after he tripped while walking up the stairs to board Air Force One earlier Friday, White House principal deputy press secretary Karine Jean-Pierre said. Biden stumbled as he climbed the plane's steps ..."
-    publishedDateTime: 2021-03-19T17:41:00Z
-    webUrl: "https://www.cnn.com/2021/03/19/politics/biden-air-force-one-trip/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 112
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319130606-01-biden-trips-air-force-one-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/3b/82/9833ebea4893b24aa4846e347fbd/gettyimages-1231807954-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "yfcbDcnPIdz4GZ+3KL934T6pagcLcpfJ10sPzA4BYupGNSs2ffbXwvFzS1gxUXR788NtaWDAj89kBtuAs/DRr+2MfH2R7w3dtLcdjeZcV4KmEEj1qa5s3hKsJ9ogbDsfVEMQJTPi5S3mjCulcLazWvXN3b8dkPXdzB7dit9adM/c/T/FS89spqSM0q5FSBbiVxf8sbXybSHrlzb3Cp6DEckP3PapTXRIh2DdRpS/QejH6Yp72IOFe1MzX84to9Z1rWT/roTWwg94hzqzh38vBsD1KxUeTa8C9ldCmG8fEwlniGrr1FOUzl9Qy7qo+htEvp5XhQM8AwYQXmtMIog39xzrL0UsGlMEVcsJe4oWuxY=;Of7Dmjn4ebzfOKoIWmKM/A=="

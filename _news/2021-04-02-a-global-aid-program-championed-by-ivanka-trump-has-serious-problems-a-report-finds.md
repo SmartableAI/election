@@ -48,38 +48,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Donald Trump got a *lot* less rich as president"
-    excerpt: "(CNN)During his four years as president, Donald Trump loved to remind people that being president was costing him a whole bunch of money. \"I said to one of my friends, a very wealthy friend, I said, 'You know, I'll bet you it cost me $2 or 3 billion and it ..."
-    publishedDateTime: 2021-04-07T14:12:00Z
-    webUrl: "https://www.cnn.com/2021/04/07/politics/donald-trump-forbes-billionaires/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/donald-trump-forbes-billionaires/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/donald-trump-forbes-billionaires/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200424174956-trump-hands-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Moncef Slaoui, Trump vaccine chief, fired from board over sexual harassment allegations"
-    excerpt: "WASHINGTON — The man who led former President Donald Trump’s effort to produce Covid-19 vaccines, Moncef Slaoui, has been fired from a bioelectronics company’s board of directors over sexual harassment allegations. Slaoui, who was in charge of Trump ..."
-    publishedDateTime: 2021-03-24T16:33:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/moncef-slaoui-ex-trump-vaccine-chief-fired-board-over-sexual-n1261914"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261914"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261914"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 127
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_12/3459180/210324-moncef-slaoui-jm-0934_dda6551a87edc9aa2311df3b313f08ce.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "MXPQ5iacZ9hvpJXZa5bUtMSG9ahCzWfH6qUvfzs+WZjVj0jMsEGXdpzRi4FTaRigXCfmSNrn99rtC9JRNz953qb+waoSbe7kHCwVvDC6s2RnRWP37eDHl15G6mFxF+hMQWv9qhrEIz4TY4Tk1Z8BEMd4t7QisAW+EjOJzawOfMyjMkJVdJIHvGWV+XT2M+FLu+QnPPRqMsewhcZNGkpcWIKm9C4Im+NrUNa3xu8NZxv2knu8RWa2oWnIzHm1jTPIFG8PW2OlksENJBzcrFIecsltD+IfKUgGJG/Ycvgl8A/QazIjkeQYJQo+0z6hrSEec0wJqf5BiABvY6O3P6JnTr/TkkREzS013HvgwKclOO8Nu5+YS+qgmsO/jbKOrjVD2ReTknYMtSvY8E6n6dUgI9oJcVGGfEcZN2oTTqOeXRZINxZK0f4eYd9maz9jqns7LF58K+1jmjwnWKq8Gpzmt4IwYn+o2ae5DpGFs/0IhfHKSwb9GkL7I77oM56tXOj0fgu96sEfLCohyDiF8V5BqQ==;CqtuxVBIPqT5ZdKipgFRGQ=="
 ---

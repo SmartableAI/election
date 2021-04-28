@@ -31,110 +31,112 @@ images:
     isCached: true
 
 related:
-  - title: "Biden sees `win' for US in electric vehicle battery deal"
-    excerpt: "President Joe Biden calls it “a win for American workers and the American auto industry.\" WASHINGTON -- Two big South Korean electric vehicle battery makers have settled a long-running trade ..."
-    publishedDateTime: 2021-04-11T12:36:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985"
+  - title: "Biden raises concerns with Putin about Ukraine confrontation"
+    excerpt: "President Joe Biden is calling on Russian President Vladimir Putin to “de-escalate tensions” following a Russian military buildup on Ukraine’s border"
+    publishedDateTime: 2021-04-13T21:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-raises-concerns-putin-ukraine-confrontation-77045832"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-raises-concerns-putin-ukraine-confrontation-77045832"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-raises-concerns-putin-ukraine-confrontation-77045832"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0608176cbab24c1d890713852a371c99_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden says everyone in US now eligible for Covid vaccine – live updates"
+    excerpt: "Guardian US has a separate live blog dedicated to covering the Chauvin trial and related topics. There’s a livestream from court. You can read that here. The Republican leader in the House and an extremist congresswoman who champions “Anglo-Saxon political traditions” have demanded action against the Democrat Maxine Waters,"
+    publishedDateTime: 2021-04-19T16:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/39b2485b49a592b23c6ce07725257b5bc4c20a33/0_73_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9c280154f4a7d72583a1a96daad3fe97"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden, meeting with lawmakers, says willing to compromise on infrastructure"
+    excerpt: "U.S. President Joe Biden said he was willing to compromise on his $2.3 trillion infrastructure proposal on Monday before meeting with a group of bipartisan lawmakers at the White House."
+    publishedDateTime: 2021-04-19T16:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-infrastructure-biden-idUSW1N2LM01I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C62E6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C62E6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210419&t=2&i=1559104436&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3I1B0"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Manchin's firm stance on filibuster, reconciliation threatens ambitious Biden agenda"
+    excerpt: "Without his backing, Biden may have to trim, abandon some legislative efforts. 'We're gonna find a really good strong deal space' on infrastructure: Buttigieg Moderate Democrat Joe Manchin ..."
+    publishedDateTime: 2021-04-08T22:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/manchins-firm-stance-filibuster-reconciliation-threatens-ambitious-biden/story?id=76953755"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/manchins-firm-stance-filibuster-reconciliation-threatens-ambitious-biden/story?id=76953755"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/manchins-firm-stance-filibuster-reconciliation-threatens-ambitious-biden/story?id=76953755"
     type: article
     provider:
       name: ABCNews
       domain: abcnews.go.com
-    quality: 125
+    quality: 118
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_fad24c3069b54782a4557fd75b0981dc_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/joe-manchin-filibuster-01-gty-llr-210407_1617911131382_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden sees `win’ for US in electric vehicle battery deal"
-    excerpt: "Two big South Korean electric vehicle battery makers said they’ve settled a long-running trade dispute that will allow one company to move ahead with plans to manufacture batteries in Georgia"
-    publishedDateTime: 2021-04-12T04:32:00Z
-    webUrl: "https://www.washingtonpost.com/business/technology/ap-source-electric-vehicle-battery-firms-settle-trade-spat/2021/04/10/0d2b3bca-9a71-11eb-8f0a-3384cf4fb399_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/technology/ap-source-electric-vehicle-battery-firms-settle-trade-spat/2021/04/10/0d2b3bca-9a71-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/ap-source-electric-vehicle-battery-firms-settle-trade-spat/2021/04/10/0d2b3bca-9a71-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+  - title: "Joe Biden, Vladmir Putin Summit Doesn't Signal New Friendliness with Russia, White House Says"
+    excerpt: "U.S. President Joe Biden and Russian President Vladmir Putin have agreed to take their icy relationship to the next level in the coming months—a face-to-face meeting in a third country. But the White House insists it's not a signal that the two are on ..."
+    publishedDateTime: 2021-04-13T18:15:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://d.newsweek.com/en/full/1777226/putin-biden.jpg"
+        width: 3477
+        height: 1775
         isCached: true
-  - title: "Biden taps ex-Obama official as Interior Department deputy"
-    excerpt: "The White House is naming a former Obama administration official to be deputy secretary at the Interior Department after dropping plans for a more liberal nominee who faced key Senate opposition"
-    publishedDateTime: 2021-04-14T20:43:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-taps-former-obama-official-as-deputy-at-interior-dept/2021/04/14/466d4aae-9d4b-11eb-b2f5-7d2f0182750d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-taps-former-obama-official-as-deputy-at-interior-dept/2021/04/14/466d4aae-9d4b-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-taps-former-obama-official-as-deputy-at-interior-dept/2021/04/14/466d4aae-9d4b-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+  - title: "Joe Biden attends grandson's confirmation in Wilmington"
+    excerpt: "President Joe Biden and First Lady Jill Biden on Sunday attended the confirmation of their 15-year-old grandson Robert Hunter Biden II in Wilmington. The service took place around 2 p.m. at St. Joseph on the Brandywine,"
+    publishedDateTime: 2021-04-19T13:26:00Z
+    webUrl: "https://www.delawareonline.com/story/news/2021/04/19/joe-biden-attends-grandsons-confirmation-while-home-delaware/7282335002/"
+    ampWebUrl: "https://amp.delawareonline.com/amp/7282335002"
+    cdnAmpWebUrl: "https://amp-delawareonline-com.cdn.ampproject.org/c/s/amp.delawareonline.com/amp/7282335002"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Delaware Online
+      domain: delawareonline.com
+    quality: 75
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "After criticism, Biden says he will raise U.S. cap on refugee admissions"
-    excerpt: "President Joe Biden said on Saturday he will raise the cap on the number of refugees admitted this year to the United States, a day after he drew criticism from Democratic lawmakers for agreeing to keep the historically low figure in place."
-    publishedDateTime: 2021-04-18T12:26:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-refugees/biden-says-he-will-raise-us-cap-on-refugee-admissions-idUSKBN2C40IP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C40IP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C40IP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210417&t=2&i=1558889840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3G0AT"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden was tough on drugs for decades. Now he faces challenges in fighting money laundering"
-    excerpt: "The Biden administration has a long road ahead to tackle the hundreds of billions of dollars in narcotics-related profits laundered in the U.S."
-    publishedDateTime: 2021-04-18T09:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/18/president-joe-biden-faces-challenges-fighting-drug-related-financial-crime/7212189002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7212189002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7212189002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/16/USAT/63b2ea62-aa0c-433c-8655-e43e31290498-1410384318000-AP_Fashion_District_Raid.1.jpg?auto=webp&crop=3263,1836,x0,y229&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/04/19/PWIL/436f944c-3093-45cc-b50b-ea1e31ec09d5-AP21107724024083.jpg?auto=webp&crop=5447,3064,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden to raise cap on refugees after criticism"
-    excerpt: "Posted . President Joe Biden said on Saturday he will raise the cap on the number of refugees admitted this year to the"
-    publishedDateTime: 2021-04-18T07:42:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPJqJ?now=true"
+  - title: "Joe Biden Proposes Summit With Russia’s Vladimir Putin"
+    excerpt: "Biden and Putin have now spoken twice by phone since Biden took office in late January. But the proposed meeting, which Biden suggested should happen in a \"third country,\" would be the first between them as tensions escalate between the two countries. The ..."
+    publishedDateTime: 2021-04-13T17:48:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-13/joe-biden-proposes-summit-with-russias-vladimir-putin"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-13/joe-biden-proposes-summit-with-russias-vladimir-putin?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-13/joe-biden-proposes-summit-with-russias-vladimir-putin?context=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/607b86a2e4b0653eea185c5b-1618708130680?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "After outcry, Biden plans to lift refugee cap in May"
-    excerpt: "President Joe Biden plans to lift his predecessor’s historically low cap on refugees by next month, after initially moving only to expand the eligibility criteria for resettlements and getting swift blowback from allies in return."
-    publishedDateTime: 2021-04-18T17:38:00Z
-    webUrl: "https://www.myrtlebeachonline.com/news/politics-government/national-politics/article250746064.html"
-    ampWebUrl: "https://amp.myrtlebeachonline.com/news/politics-government/national-politics/article250746064.html"
-    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/politics-government/national-politics/article250746064.html"
-    type: article
-    provider:
-      name: The Sun News
-      domain: myrtlebeachonline.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
 
 secured: "+spbkGFgiOjCnJEFkFNuAD9chPdDg30A6mDQ/tr6ulDGeHWN1/PLmh2C2R3RNnY+UwXokn3mCIBW0tT4C+PuWMkoQEmlgl+cZtrsjjuOiRziS7CEWkNOfsfC+WZoLYqyg+i2v1UZIsDN0RVEwCzgO/aEkYROog4dbb0gFs8XgM4odEFqF4CbOppkdWECMeYRkOO/dQ5bkh8qHnwkRUnoZpy1mIr58tftbAboM3rQFfrGBOdqcNucFjQik2ShFjGOkBLqgY9V1SefZoE+F1Uf7un3wxfR2PCWJRry78+bZuf3/SqEL+OBKnQgVE7W58JgJxHJFOXxjmhKk+AFVMJrTk/rbbbcHWCKioH4i27MsPGuDnUo3zolrzaS0A78iwYIqZRxpPXX6+5JyRbn8VomHdZT/N71OyVsX4lT/6d+y6ACCv9vFD9WOgohJkDnHDfjMbbJu72zUtk7SJ+EDrnvMPrDA4ZtMIE7/T1315zjlpXOfQkbF4RpMzOxTZ3UxbOAtUFlwt9gqxSTbN2tBhALIQ==;SaMkyJYTb3FBY9Wwp3Pzug=="

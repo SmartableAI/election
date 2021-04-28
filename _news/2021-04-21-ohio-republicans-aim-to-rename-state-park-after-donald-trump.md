@@ -105,6 +105,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump rejects speechwriter's resignation"
+    excerpt: "Melania Trump's speechwriter has offered her resignation amid plagiarism claims, and has apologized for the \"chaos\" she has caused for the Trump family. CBS News senior political editor Steve Chaggaris and politics writer for The Atlantic Molly Ball join CBSN to discuss."
+    publishedDateTime: 2021-04-19T23:46:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trump-rejects-speechwriters-resignation-1/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/donald-trump-rejects-speechwriters-resignation-1/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/donald-trump-rejects-speechwriters-resignation-1/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/19/8feff424-79c4-48c2-a7c8-c25681720cea/thumbnail/1200x630/bdb2a34ced04bea350ebb6b1dfe6f115/cbsn-0720-rncday3-melaniatrumpsmistake-1095416-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ohio Republicans want to rename state park for Donald Trump"
     excerpt: "The bill sponsored by Rep. Mike Loychik to rename Mosquito State Park to Donald J. Trump State Park is the latest attempt by Ohio Republicans to honor the former president."
     publishedDateTime: 2021-04-20T17:53:00Z
@@ -450,6 +466,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Cowboys for Trump Founder Appeals Recall Bid to High Court"
+    excerpt: "Cowboys for Trump founder Couy Griffin has filed an appeal with the state Supreme Court as he seeks to fend off an effort to recall him from office as a county commissioner in southern New Mexico."
+    publishedDateTime: 2021-04-20T00:50:00Z
+    webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-04-19/cowboys-for-trump-founder-appeals-recall-bid-to-high-court"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
   - title: "George W. Bush Condemns the Trump-Era Republican Party"
     excerpt: "Bush Condemns Trump’s GOP Former President George W. Bush derided his Republican Party on Tuesday for what he said it has become in the era of Donald Trump and misinformation, describing the GOP as \"isolationist, protectionist and, to a certain extent ..."
     publishedDateTime: 2021-04-20T17:47:00Z

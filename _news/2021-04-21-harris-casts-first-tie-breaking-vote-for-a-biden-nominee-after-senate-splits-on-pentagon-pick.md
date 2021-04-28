@@ -32,405 +32,277 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris' campaign trail gun rhetoric meets Biden's reality"
-    excerpt: "Presidential candidate Kamala Harris campaigned aggressively on gun control reform -- making the case that if Congress couldn't act to make changes, the president could.\n    \n"
-    publishedDateTime: 2021-03-23T20:52:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NUijMiL4x20/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/kamala-harris-gun-control-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/kamala-harris-gun-control-biden-administration/index.html"
+  - title: "Kamala Harris cements her place in Biden's inner circle during a consequential week"
+    excerpt: "Vice President Kamala Harris was huddled with other White House officials in President Joe Biden's private dining room last week when the room let out a \"collective exhale.\" A Minnesota jury had found Derek Chauvin guilty of murdering George Floyd.\n    \n"
+    publishedDateTime: 2021-04-25T13:41:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t-94g7Epw80/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/25/politics/kamala-harris-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/25/politics/kamala-harris-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 200
+    quality: 194
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203221338-harris-biden-cnn-interview-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420191943-03-biden-harris-chauvin-verdict-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden and Harris to visit Georgia, a battleground that paved way for agenda "
-    excerpt: "Democratic voters in Georgia may have helped deliver Joe Biden's long quest to win the White House, but they take even prouder ownership of their critical role in cementing an early chapter of his legacy through the passage of the American Rescue Plan.\n    \n"
-    publishedDateTime: 2021-03-19T00:37:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gkl_48Ay00c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/18/politics/georgia-biden-harris-visit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/18/politics/georgia-biden-harris-visit/index.html"
+  - title: "Harris pitches American Jobs Plan during first extended economic speech since becoming VP"
+    excerpt: "Kamala Harris on Monday delivered her first extended economic speech since becoming vice president, making a pitch for the Biden administration's infrastructure plan and touting the White House's accomplishments since President Joe Biden was sworn in.\n    \n"
+    publishedDateTime: 2021-04-19T18:03:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vy0KNaL7-6Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/kamala-harris-economic-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/kamala-harris-economic-speech/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 197
+    quality: 176
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312150321-04-white-house-covid-relief-event-0312-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419135329-harris-american-jobs-plan-0419-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden assigning Harris to lead diplomatic efforts in Central America to address immigration"
-    excerpt: "President Joe Biden is tasking Vice President Kamala Harris with overseeing efforts with Central American countries to stem the flow of migrants to the US southern border, senior administration officials said on Wednesday, the first major issue Biden has assigned directly to his No. 2.\n    \n"
-    publishedDateTime: 2021-03-24T19:27:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jE-kw1aS9Mo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/kamala-harris-immigration-central-america/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/kamala-harris-immigration-central-america/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319183425-harris-emoroy-0319-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden and Harris travel to Atlanta to meet with Asian American leaders in wake of mass shooting"
-    excerpt: "President Joe Biden and Vice President Kamala Harris traveled to Atlanta on Friday to meet with Asian American leaders in the wake of deadly shootings that killed eight people, including six women of Asian descent.\n    \n"
-    publishedDateTime: 2021-03-19T17:30:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e3wE3JAM_Vw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/19/politics/biden-harris-atlanta/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/19/politics/biden-harris-atlanta/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 188
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210318153630-01-biden-0318-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Harris uses UN speech to champion women's role in democracy"
-    excerpt: "Kamala Harris declared \"the status of women is the status of democracy\" on Tuesday, in her first speech before the United Nations as the first female vice president of the United States.\n    \n"
-    publishedDateTime: 2021-03-16T17:20:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bwZgBfADM9s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/kamala-harris-united-nations-women-democracy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/kamala-harris-united-nations-women-democracy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 185
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310112201-02-kamala-harris-0210-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Southwest border crisis leaves Biden vulnerable on all sides"
-    excerpt: "The White House may be loath to call the situation on the Southwestern border, which hundreds of migrant children are crossing alone, a crisis. But it's fast becoming a political emergency for the new President.\n    \n"
-    publishedDateTime: 2021-03-16T10:45:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jxxANoSNWxc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/joe-biden-immigration-border/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/joe-biden-immigration-border/index.html"
+  - title: "Harris says verdict in Chauvin trial 'will not heal the pain that existed for generations'"
+    excerpt: "Vice President Kamala Harris said Tuesday the country is hungry for justice following the death of George Floyd, but acknowledged even a verdict finding former Minneapolis police officer Derek Chauvin guilty of Floyd's murder would not erase generations of trauma caused by systemic racism.\n    \n"
+    publishedDateTime: 2021-04-20T21:28:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QoaheN4QN_U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/kamala-harris-chauvin-trial/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/kamala-harris-chauvin-trial/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308160143-children-border-patrol-210225-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420165006-kamala-harris-intv-bash-vpx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "North Korea conducts first weapons test of Biden's presidency "
-    excerpt: "North Korea carried out a weapons test last weekend, launching two projectiles, according to three US officials. The move was widely expected as Kim Jong Un sends a message to the Biden administration about the country's importance in the region.\n    \n"
-    publishedDateTime: 2021-03-23T21:48:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nI_MPH77030/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/north-korea-weapons-test-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/north-korea-weapons-test-biden/index.html"
+  - title: "Biden's big climate pledge is another promise it will be hard to honor"
+    excerpt: "A White House riding high on a wave of ambition is setting up a series of inevitable tests of whether Joe Biden is promising more than he can deliver.\n    \n"
+    publishedDateTime: 2021-04-23T04:28:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zb5NfXfH0PM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/joe-biden-climate-change-police-reform-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/joe-biden-climate-change-police-reform-republicans/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210313182809-biden-north-korea-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422142048-joe-biden-0422-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's dogs are back at the White House "
-    excerpt: "Both of the President and first lady's dogs, Major and Champ, have returned to the White House after spending some time in Delaware following a biting incident involving Major, according to Jill Biden's press secretary Michael LaRosa.\n    \n"
-    publishedDateTime: 2021-03-24T11:57:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XX6sCUa5pIk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/biden-dogs-back-white-house/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/biden-dogs-back-white-house/index.html"
+  - title: "White House considers broad range of migration plans ahead of Harris visit to Central America"
+    excerpt: "The Biden administration is considering pressing Guatemala to address governance issues in the country, ranging from investment to corruption, according to a source familiar with the deliberations at the White House, highlighting just one of the delicate negotiations Vice President Kamala Harris is expected"
+    publishedDateTime: 2021-04-20T10:36:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7OZdowuMr3o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/harris-us-mexico-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/harris-us-mexico-border/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125093912-03-biden-dogs-white-house-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416215801-01-kamala-harris-0415-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact-checking Biden's first news conference as president "
-    excerpt: "President Joe Biden held the first formal news conference of his presidency on Thursday, taking questions in the East Room of the White House on immigration, foreign policy, the Senate filibuster, his political future and other subjects.\n    \n"
-    publishedDateTime: 2021-03-25T22:53:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SkItTyAEkio/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/fact-check-biden-first-press-conference/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/fact-check-biden-first-press-conference/index.html"
+  - title: "Senate Democrats holding a lottery for tickets to Biden's address to Congress"
+    excerpt: "Senate Democrats are using a lottery system to distribute the limited number of tickets available for members of the caucus who are interested in attending President Joe Biden's address to a joint session of Congress on Wednesday, multiple senators -- including Hawaii Sen. Brian Schatz -- and aides told"
+    publishedDateTime: 2021-04-27T17:57:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xK21W25g018/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/biden-congress-address-ticket-lottery-senate-democrats/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/biden-congress-address-ticket-lottery-senate-democrats/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325173626-biden-news-conference-ghtits-oped-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205170603-02-us-capitol-0208-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Key takeaways from Biden's first White House news conference"
-    excerpt: "Convening his first formal news conference Thursday, President Joe Biden stepped into a swirl of issues that have bubbled up at the two-month mark of his presidency, which has been almost exclusively focused until now on confronting the coronavirus pandemic.\n    \n"
-    publishedDateTime: 2021-03-25T20:08:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vrYZrXTQh70/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/joe-biden-news-conference-takeaways/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/joe-biden-news-conference-takeaways/index.html"
+  - title: "Biden preparing for 'tinderbox' with country on edge ahead of verdict in Chauvin trial"
+    excerpt: "President Joe Biden is keeping a watchful eye on this week's closing arguments in the Minneapolis trial of Derek Chauvin, fearful that a controversial verdict could inflame new racial tensions and further escalate a deepening crisis in confidence with the nation's police forces.\n    \n"
+    publishedDateTime: 2021-04-19T11:42:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NuwRgujjLlE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/joe-biden-chauvin-trial-preparations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/joe-biden-chauvin-trial-preparations/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325134038-07-biden-presser-0325-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416173011-01-biden-0414-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "What to watch for at Biden's first presidential news conference "
-    excerpt: "President Joe Biden is holding his first formal news conference on Thursday and will likely face scrutiny over his administration's response to the Covid-19 pandemic, the growing number of unaccompanied migrant children crossing the border and gun control, among many other pressing issues.\n    \n"
-    publishedDateTime: 2021-03-25T12:04:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wdzx-W_P-8w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/25/politics/president-biden-news-conference-today/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/25/politics/president-biden-news-conference-today/index.html"
+  - title: "Biden judicial pick secures endorsements ahead of hearing with Supreme Court overtones"
+    excerpt: "Dozens of former Supreme Court clerks, Justice Department officials and law professors are throwing their support behind President Joe Biden's highest-profile judicial nominee to date as the Senate Judiciary Committee gets set to consider his first batch of selections for the federal courts.\n    \n"
+    publishedDateTime: 2021-04-27T18:54:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hn3TmjrgH10/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/ketanji-brown-jackson-support-dc-circuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/ketanji-brown-jackson-support-dc-circuit/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319180113-01-biden-emory-speech-0319-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427133953-judge-ketanji-brown-jackson-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Man arrested outside Vice President Kamala Harris' official residence and had rifle and ammunition in car"
-    excerpt: "Washington, DC, police arrested a Texas man outside Vice President Kamala Harris' official residence, the US Naval Observatory, in the nation's capital on Wednesday and he's now facing weapons and ammunition charges.\n    \n"
-    publishedDateTime: 2021-03-17T22:43:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AbeRLleBtRM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/kamala-harris-residence-arrest/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/kamala-harris-residence-arrest/index.html"
+  - title: "Negotiations over Biden's infrastructure package continue in Congress this week. Here's what to watch"
+    excerpt: "Washington is staring down a bumpy road to infrastructure consensus.\n    \n"
+    publishedDateTime: 2021-04-19T10:06:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P_3T6Y0Z-0o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/infrastructure-state-of-play/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/infrastructure-state-of-play/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210317184044-01-naval-observatory-vice-president-residence-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Speaking out against hate crimes, Biden tries to restore moral clarity to the presidency"
-    excerpt: "President Joe Biden and Vice President Kamala Harris moved to reassert control over America's bully pulpit Friday, decrying acts of violence against Asian Americans after a year in which former President Donald Trump inflamed racist attitudes by referring countless times to the coronavirus as \"Kung Flu\""
-    publishedDateTime: 2021-03-20T04:00:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QgB6ALPRmew/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/20/politics/joe-biden-asian-american-violence-atlanta/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/20/politics/joe-biden-asian-american-violence-atlanta/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319180113-01-biden-emory-speech-0319-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Live Updates: Biden and Harris to Visit Atlanta in Wake of Shootings"
-    excerpt: "Joe Biden and Kamala Harris are set to meet with Asian-American leaders in Atlanta. The suspect wanted to curb his sexual urges, a former roommate says. Joe Biden and Kamala Harris are set to meet with Asian-American leaders in Atlanta. President Biden and ..."
-    publishedDateTime: 2021-03-19T05:01:00Z
-    webUrl: "https://www.nytimes.com/live/2021/03/19/us/atlanta-shootings-massage-spa"
-    ampWebUrl: "https://www.nytimes.com/live/2021/03/19/us/atlanta-shootings-massage-spa.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/19/us/atlanta-shootings-massage-spa.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
     quality: 160
     images:
-      - url: "https://static01.nyt.com/images/2021/03/19/us/19atlanta-shooting-briefing/19atlanta-shooting-briefing-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329131550-washington-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Joe Biden, Kamala Harris share Passover messages"
-    excerpt: "As Jewish families across the world mark Passover, President Joe Biden and first lady Jill Biden share a message of hope. Vice President Kamala Harris and the second gentleman Doug Emhoff encouraged Americans to keep the faith.March 25, 2021 © 2021 NBC ..."
-    publishedDateTime: 2021-03-25T23:27:00Z
-    webUrl: "https://www.nbcnews.com/video/joe-biden-kamala-harris-share-passover-messages-109102149584"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo109102149584"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo109102149584"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 160
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202103/bidenharrissplit.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden handed Harris a political grenade. Can she defuse it?"
-    excerpt: "When Joe Biden tapped Kamala Harris to help resolve some of the roots of the current migrant crisis, he was placing her squarely on the third rail of modern national politics. The question of what to do about the flow of migrants overwhelming border ..."
-    publishedDateTime: 2021-03-30T00:50:00Z
-    webUrl: "https://www.politico.com/news/2021/03/29/kamala-harris-border-immigration-478435"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/29/kamala-harris-border-immigration-478435"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/29/kamala-harris-border-immigration-478435"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 160
-    images:
-      - url: "https://static.politico.com/e9/dd/76a3a6424d92803c5b57d18068aa/210329-harris-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Joe Biden's legislative priorities: Gun control and five other issues fight to move forward in Congress"
-    excerpt: "In the opening months of Joe Biden's presidency, Congress' job was crystal clear: Pass a relief bill and get it signed into law.\n    \n"
-    publishedDateTime: 2021-03-23T15:40:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FjdFmpsFaOA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/23/politics/joe-biden-legislative-priority-list/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/23/politics/joe-biden-legislative-priority-list/index.html"
+  - title: "How the US went from having one of the worst Covid responses to being a global leader in vaccinations under Biden"
+    excerpt: "For the last 100 days, President Joe Biden and his top advisers have mounted an urgent, wartime effort to get millions of coronavirus vaccines into the arms of Americans in order to beat back a pandemic that has upended the world for the better part of year.\n    \n"
+    publishedDateTime: 2021-04-26T21:48:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qeHrobmquIg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/26/politics/biden-100-days-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/26/politics/biden-100-days-covid/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 159
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319180113-01-biden-emory-speech-0319-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Joe Biden and Kamala Harris plan to visit with Asian-American leaders in Atlanta."
-    excerpt: "President Biden and Vice President Kamala Harris at the White House last week. They plan to travel to Atlanta on Friday.Credit...Doug Mills/The New York Times President Biden and Vice President Kamala Harris will meet in Atlanta on Friday with community ..."
-    publishedDateTime: 2021-03-18T14:40:00Z
-    webUrl: "https://www.nytimes.com/2021/03/18/us/biden-harris-atlanta.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/18/us/biden-harris-atlanta.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/18/us/biden-harris-atlanta.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 155
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/18/multimedia/18atlanta-shootings-briefing-biden-harris/18atlanta-shootings-briefing-biden-harris-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Joe Biden and Kamala Harris are set to meet with Asian-American leaders in Atlanta."
-    excerpt: "The president has ordered that American flags be flown at half-staff to honor the victims of the Atlanta spa shootings."
-    publishedDateTime: 2021-03-19T05:01:00Z
-    webUrl: "https://www.nytimes.com/2021/03/19/us/biden-harris-atlanta.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/19/us/biden-harris-atlanta.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/19/us/biden-harris-atlanta.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
     quality: 154
     images:
-      - url: "https://static01.nyt.com/images/2021/03/19/us/19atlanta-shooting-briefing-biden-harris1/merlin_185269029_cd765145-7a66-4257-8304-4dc030273010-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311182608-01-joe-biden-0310-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Biden assigning Harris to lead diplomatic efforts in Central America to address immigration"
-    excerpt: "President Joe Biden is tasking Vice President Kamala Harris with overseeing efforts with Central American countries to stem the flow of migrants to the US southern border, senior administration officials said on Wednesday, the first major issue Biden has ..."
-    publishedDateTime: 2021-03-24T18:27:00Z
-    webUrl: "https://www.cnn.com/2021/03/24/politics/kamala-harris-immigration-central-america/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/24/politics/kamala-harris-immigration-central-america/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/24/politics/kamala-harris-immigration-central-america/index.html"
+  - title: "Biden says verdict in Chauvin trial could be a step toward racial justice in America and urges country to come together"
+    excerpt: "President Joe Biden said Tuesday the country could take a step toward racial justice after a jury found a former Minneapolis police officer guilty of murdering George Floyd in a case that was closely watched around the world.\n    \n"
+    publishedDateTime: 2021-04-20T23:34:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oF-eYeJWgaA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/white-house-president-biden-derek-chauvin-trial-statement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/white-house-president-biden-derek-chauvin-trial-statement/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 150
+    quality: 151
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319183425-harris-emoroy-0319-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420192115-04-biden-harris-chauvin-verdict-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Harris, Biden announce nominations of two women to be 4-star combatant commanders"
-    excerpt: "President Joe Biden and Kamala Harris announced the nominations of Gen. Jacqueline D. Van Ovost of the Air Force and Lt. Gen. Laura J. Richardson of the Army to be four-star combatants. Once confirmed by the Senate the women will become the second and third in U."
-    publishedDateTime: 2021-03-10T02:18:00Z
-    webUrl: "https://www.nbcnews.com/now/video/harris-biden-announce-nominations-of-two-women-to-be-4-star-combatant-commanders-102620229958"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo102620229958"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo102620229958"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 145
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202103/bidenharrisntl.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Inside Kamala Harris' historic first days"
-    excerpt: "(CNN)In the hours after her historic inauguration, Kamala Harris beamed into televisions across the country, delivering her first speech as vice president just steps beyond the sitting relic of ..."
-    publishedDateTime: 2021-01-24T11:31:00Z
-    webUrl: "https://edition.cnn.com/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html"
+  - title: "Joe Biden's infrastructure plan could leave too many women behind"
+    excerpt: "President Joe Biden says his roughly $2 trillion infrastructure plan will help create millions of jobs. But many of the proposed jobs are in historically male-dominated fields and experts worry the plan won't do enough for America's women,"
+    publishedDateTime: 2021-04-18T15:48:00Z
+    webUrl: "https://www.cnn.com/2021/04/18/economy/women-infrastructure-care-stimulus/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/economy/women-infrastructure-care-stimulus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/economy/women-infrastructure-care-stimulus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120130215-harris-emhoff-lincoln-memorial-0120-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413133507-us-women-infrastructure-care-investment-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden Endorses Filibuster Rule Changes"
-    excerpt: "In his speech on Monday, Mr. Durbin argued that the burden should be shifted to opponents of a given bill to maintain a filibuster rather than on supporters to produce 60 votes to advance it, a view similar to the one expressed by Mr. Biden. Senator Joe ..."
-    publishedDateTime: 2021-03-16T23:05:00Z
-    webUrl: "https://www.nytimes.com/2021/03/16/us/politics/mcconnell-filibuster-senate.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/16/us/politics/mcconnell-filibuster-senate.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/16/us/politics/mcconnell-filibuster-senate.amp.html"
+  - title: "Biden to deliver remarks after Derek Chauvin trial verdict"
+    excerpt: "President Joe Biden is expected to deliver remarks after the jury in the Derek Chauvin trial renders a verdict, according to multiple administration officials. The White House is monitoring the trial’s developments and is preparing a statement for Biden,"
+    publishedDateTime: 2021-04-19T17:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-deliver-remarks-after-derek-chauvin-trial-verdict-n1264513"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264513"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264513"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_16/3465912/210419-joe-biden-ew-1232p_4abe6008c53d925a33d81a3e021870c9.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Chauvin trial: Biden to deliver remarks after verdict"
+    excerpt: "President Joe Biden is expected to deliver remarks after the jury in the Derek Chauvin trial renders a verdict, according to multiple administration officials. The White House is monitoring the trial’s developments and is preparing a statement for Biden,"
+    publishedDateTime: 2021-04-19T19:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-deliver-remarks-after-derek-chauvin-trial-verdict-n1264513"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264513"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264513"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_16/3465912/210419-joe-biden-ew-1232p_4abe6008c53d925a33d81a3e021870c9.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "President Biden calls George Floyd family after Chauvin guilty verdict"
+    excerpt: "President Joe Biden and Vice President Kamala Harris spoke with the family of George Floyd after Derek Chauvin was found guilty, with Biden saying \"we're all so relieved.\""
+    publishedDateTime: 2021-04-20T22:17:00Z
+    webUrl: "https://www.nbcnews.com/video/president-biden-calls-george-floyd-family-after-chauvin-guilty-verdict-110543941911"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo110543941911"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo110543941911"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202104/1618956629547_nbc_spec_biden_call_210420_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden's sweeping climate goal comes down to one thing"
+    excerpt: "The president wants a sprint to slash greenhouse gas output throughout the U.S. economy. But electricity is the only sector with a running start."
+    publishedDateTime: 2021-04-22T22:54:00Z
+    webUrl: "https://www.politico.com/news/2021/04/22/biden-climate-goal-484326"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/22/biden-climate-goal-484326"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/22/biden-climate-goal-484326"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/3b/44/3632b1e4489baaca0e56152b9957/gettyimages-1167751498-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "New York Post Reporter Who Wrote False Kamala Harris Story Resigns"
+    excerpt: "The front-page article in the Murdoch tabloid claimed that copies of a children’s book by the vice president were given to migrant children as part of a “welcome kit.”"
+    publishedDateTime: 2021-04-28T01:30:00Z
+    webUrl: "https://www.nytimes.com/2021/04/27/business/media/new-york-post-kamala-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/27/business/media/new-york-post-kamala-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/27/business/media/new-york-post-kamala-harris.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/03/16/us/politics/16new-washington-briefing-filibuster-video/16new-washington-briefing-filibuster-video-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/04/27/us/27nypost-new/27nypost-new-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Biden wants quick action on gun violence, even as he moves slowly"
-    excerpt: "President Joe Biden said on Tuesday that he doesn't want to “wait another minute” to combat the country’s gun violence epidemic. But 63 days into his presidency, Biden hasn’t issued any unilateral gun control actions, despite a campaign pledge to ..."
-    publishedDateTime: 2021-03-24T00:27:00Z
-    webUrl: "https://www.politico.com/news/2021/03/23/biden-quick-action-gun-violence-477717"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/23/biden-quick-action-gun-violence-477717"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/23/biden-quick-action-gun-violence-477717"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/77/ab/f22165254afe8b2366370843bae2/3-23-21-joe-biden-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden decides to shelve Warren’s wealth tax"
-    excerpt: "President Joe Biden will not call for a wealth tax to help pay for his multitrillion-dollar Build Back Better initiative, according to multiple people familiar with the White House’s thinking. In doing so, he will sidestep a proposal that progressive ..."
-    publishedDateTime: 2021-03-30T23:58:00Z
-    webUrl: "https://www.politico.com/news/2021/03/30/biden-elizabeth-warren-wealth-tax-478642"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/30/biden-elizabeth-warren-wealth-tax-478642"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/30/biden-elizabeth-warren-wealth-tax-478642"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/52/6d/7843f4e645c691ceb78696d89ffb/gettyimages-1304776018-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Harris Says Biden’s Infrastructure Plan Will Create ‘Good Jobs’"
     excerpt: "Vice President Kamala Harris visited North Carolina on Monday to promote President Biden’s infrastructure plan, saying it will create “good jobs.”"
@@ -446,64 +318,75 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "‘Kamala Harris says the Atlanta attacks have ‘frightened and shocked and outraged all people.’"
-    excerpt: "Vice President Kamala Harris, the first woman and the first Asian-American to hold the office, expressed condolences for the families of the victims during a meeting with Irish officials on Wednesday. “This speaks to a larger issue which is the issue of ..."
-    publishedDateTime: 2021-03-17T09:40:00Z
-    webUrl: "https://www.nytimes.com/2021/03/17/us/kamala-harris-says-the-atlanta-attacks-have-frightened-and-shocked-and-outraged-all-people.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/17/us/kamala-harris-says-the-atlanta-attacks-have-frightened-and-shocked-and-outraged-all-people.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/17/us/kamala-harris-says-the-atlanta-attacks-have-frightened-and-shocked-and-outraged-all-people.amp.html"
+  - title: "Biden to call for peaceful protests in response to Chauvin guilty on all counts verdict"
+    excerpt: "President Joe Biden is expected to speak in response to Derek Chauvin being convicted on all counts, in the death of George Floyd. Biden will call for peaceful protests and marches in the coming days."
+    publishedDateTime: 2021-04-20T21:38:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-to-call-for-peaceful-protests-in-response-to-chauvin-guilty-on-all-counts-verdict-110544453553"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo110544453553"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo110544453553"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 123
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
     images:
-      - url: "https://static01.nyt.com/images/2021/03/17/us/17atlanta-shooting-briefing-kamala/17atlanta-shooting-briefing-kamala-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202104/1618954400263_nbc_spec_welker_biden_210420_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "CALIFORNIA’S RECALL FEVER — HARRIS’ role tested — GOP targets BIDEN nominees with TECH ties — UBER reopens SF office"
-    excerpt: "From Shasta to San Diego, California voters have recall fever. The possible recall of Gov. Gavin Newsom has generated national attention, but it’s only the most prominent example of ouster attempts across the state."
-    publishedDateTime: 2021-03-29T13:13:00Z
-    webUrl: "https://www.politico.com/newsletters/california-playbook/2021/03/29/californias-recall-fever-harris-role-tested-gop-targets-biden-nominees-with-tech-ties-uber-reopens-sf-office-492273"
+  - title: "George Floyd's brother says President Biden called his family to say he is praying for them"
+    excerpt: "After closing arguments Monday, Philonise Floyd said he's \"optimistic\" about the outcome of the trial against Derek Chauvin."
+    publishedDateTime: 2021-04-20T13:48:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/president-biden-called-george-floyd-s-family-say-he-praying-n1264612"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264612"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264612"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 117
+      name: NBC News
+      domain: nbcnews.com
+    quality: 125
     images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_15/3464044/210412-philonise-floyd-jm-1115_832f2cca25835970ae5e23fefa0cc317.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Same old Joe: Rebuffing staff who smoked pot fits Biden’s MO"
-    excerpt: "Anyone surprised that Joe Biden would scrutinize the weed-smoking habits of his White House staff hasn't paid attention to one of the more consistent policy threads of his decades-long career. He’s just not ready to embrace cannabis. Despite a shift in ..."
-    publishedDateTime: 2021-03-19T23:56:00Z
-    webUrl: "https://www.politico.com/news/2021/03/19/same-old-joe-rebuffing-staff-who-smoked-pot-fits-bidens-mo-477283"
+  - title: "Biden infrastructure bill highly uncertain"
+    excerpt: "President Joe Biden will meet with a bipartisan group of legislators today to talk about his $2 trillion-plus “American Jobs Plan.” The White House wants to make a cross-party deal but that’s very unlikely to happen."
+    publishedDateTime: 2021-04-19T12:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2021/04/19/biden-infrastructure-bill-highly-uncertain-794753"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/74/23/be836012497c9fdf3e614f9b6575/210318-joe-biden-getty-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
-  - title: "Man arrested outside Vice President Kamala Harris' official residence and had rifle and ammunition in car"
-    excerpt: "(CNN)Washington, DC, police arrested a Texas man outside Vice President Kamala Harris' official residence, the US Naval Observatory, in the nation's capital on Wednesday and he's now facing weapons and ammunition charges. A spokesperson for Washington's ..."
-    publishedDateTime: 2021-03-17T22:43:00Z
-    webUrl: "https://www.cnn.com/2021/03/17/politics/kamala-harris-residence-arrest/index.html"
+  - title: "‘Praying the Verdict Is the Right Verdict,’ Biden Tells Floyd Family"
+    excerpt: "President Biden disclosed the details of a phone call he shared with the family of George Floyd, as the family awaits the verdict in the trial of Derek Chauvin, the former officer accused of killing Mr."
+    publishedDateTime: 2021-04-20T20:28:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007720291/biden-george-floyd-family-phone-call.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 98
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210317184044-01-naval-observatory-vice-president-residence-file-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2021/04/20/us/politics/20vid-biden-floyd-family/20vid-biden-floyd-family-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
+  - title: "Watch Live: Vice President Harris Delivers Remarks on the Economy"
+    excerpt: "Vice President Harris Delivers Remarks on the Economy. U.S. & Politics. Watch Live: Vice President Harris Delivers Remarks on the Economy"
+    publishedDateTime: 2021-04-19T15:33:00Z
+    webUrl: "https://www.nytimes.com/video/us/100000007717504/kamala-harris-speech-north-carolina.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 95
 
 secured: "uBU5qXdZsc+auYOXpHvkNU+byTIHC/GYE0XkyWQzTNKFrbnVw3qAGW7B0D46HogXhfyDaIUdhzKO+odmWu/5dboyBWuH4yU0+gRtdKx6TxjB0180nbPgCufMjQ+HKcPvf5jT2dAXdaC/4kz3LNnQGSRliG7lE/rGybLPbG3mGiaZ4yCjy+RQSfZ60h4KpYSHBe1ktDx6tkRecFC5Ds5l6XQTAPBkQdW6Cru0Xmq1+/mSPL1YK5KhpREtHqKaIihSvfdekahxqmJmHUak1TlQ7YCZ8pZ97uPFOa7SEqrt10rFelaljjwm+zZXlNkfOa36AfK6raJYC/lEGgn/G1NY0Bcg6vl3HjK/Znm4k/eEJRQ=;qS/Dp+4THOJ8DZAxqa+yKw=="
 ---

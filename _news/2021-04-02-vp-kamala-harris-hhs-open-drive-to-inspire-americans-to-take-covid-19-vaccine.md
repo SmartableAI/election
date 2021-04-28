@@ -59,6 +59,38 @@ related:
         width: 1024
         height: 744
         isCached: true
+  - title: "Vice President Kamala Harris embraces role of representing American women"
+    excerpt: "for women, especially women of color, Vice President Kamala Harris said in an interview with USA TODAY. Female entrepreneurs find their shops shuttered or empty. Women are leaving the workforce in alarming numbers. Burdened with the brunt of child care ..."
+    publishedDateTime: 2021-04-01T20:27:00Z
+    webUrl: "https://www.usatoday.com/web-stories/covid-kamala-harris-says-pandemic-has-magnified-gender-inequalities/"
+    ampWebUrl: "https://www.usatoday.com/web-stories/covid-kamala-harris-says-pandemic-has-magnified-gender-inequalities/"
+    cdnAmpWebUrl: "https://www-usatoday-com.cdn.ampproject.org/c/s/www.usatoday.com/web-stories/covid-kamala-harris-says-pandemic-has-magnified-gender-inequalities/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://transform.nws.ai/https%3A%2F%2Fcdn.thenewsroom.io%2Fplatform%2Fstory_media%2F1288797929%2Fkharris%2520portrait.jpeg/fill/300/300/"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Vice President Harris is making her mark on the Washington-area crochet scene"
+    excerpt: "Five days later, on International Women’s Day, a crocheted mural of Harris’s likeness and the words “I’m Speaking” was installed at the Wharf. And with all the Googling of “Kamala Harris and crochet” there was a spike at craftyiscool.com of ..."
+    publishedDateTime: 2021-04-12T17:44:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/home/kamala-harris-crochet-dc/2021/04/12/7237cd06-8e6b-11eb-9423-04079921c915_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/home/kamala-harris-crochet-dc/2021/04/12/7237cd06-8e6b-11eb-9423-04079921c915_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/home/kamala-harris-crochet-dc/2021/04/12/7237cd06-8e6b-11eb-9423-04079921c915_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/25NEZ5UYV4I6XJWQCPJAPKW3PA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Navy Seabees built Kamala Harris a desk with wood, copper, and nails from the US's oldest warship"
     excerpt: "The USS Constitution is one of the country's first frigates and the oldest commissioned warship still afloat."
     publishedDateTime: 2021-04-06T15:04:00Z
@@ -369,6 +401,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris seeks $2M for her Washington, DC, condo"
+    excerpt: "Since being sworn in to the nation’s second-highest office, Vice President Kamala Harris has been selling off her real estate. Harris put her tony Washington, DC, condo on the market for $1,995,000 this week. The move comes just a month after she sold ..."
+    publishedDateTime: 2021-04-08T04:05:00Z
+    webUrl: "https://www.baltimoresun.com/business/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html?outputType=amp"
+    ampWebUrl: "https://www.baltimoresun.com/business/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/business/real-estate/luxury-real-estate/ct-aud-rdc-kamala-harris-dc-condo-20210408-xfgay2qwijdu5nattfxbh5qxi4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 75
+    images:
+      - url: "https://www.baltimoresun.com/resizer/H3xoktshK4QfCp3PQVoQZjEfLaI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F5JUS4O7RFGATAXXTIRECLKLCU.jpeg"
+        width: 1200
+        height: 901
+        isCached: true
   - title: "Ted Cruz Trolled After Trying To Slam Kamala Harris"
     excerpt: "Ted Cruz tried to troll Kamala Harris over her visit to Chicago, but found himself being trolled for his own actions this year."
     publishedDateTime: 2021-04-08T21:07:00Z
@@ -495,22 +543,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "TV: Kamala Harris, Kizzmekia Corbett in Lifetime special | Raleigh News & Observer"
-    excerpt: "This one-hour special honors notable female trailblazers, like Vice President Kamala Harris and North Carolina native Dr. Kissmekia “Kizzy” Corbett, a lead scientist on the development of the Moderna vaccine for COVID-19."
-    publishedDateTime: 2021-03-30T11:03:00Z
-    webUrl: "https://www.newsobserver.com/entertainment/tv/warm-tv-blog/article250289770.html"
-    ampWebUrl: "https://amp.newsobserver.com/entertainment/tv/warm-tv-blog/article250289770.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/entertainment/tv/warm-tv-blog/article250289770.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 69
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/8e831fcf-b0fe-4821-9639-a1c1dccab51a/b8f21ad2-5b84-4548-b003-1266b304582c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Vice President Kamala Harris puts D.C. condo on market for $2 million. Look inside"
     excerpt: "Vice President Kamala Harris has been busy. After being sworn into office in January, she’s sold off her one-bedroom, two-bath San Francisco condo and now, her Washington D.C. apartment is availablefor grabs for $1.99 million. Exterior of Apartments at ..."
     publishedDateTime: 2021-04-07T21:49:00Z
@@ -620,6 +652,34 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/b271040e4167263b2aefe673909db5c8/HARRIS-FAITH.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Kamala Harris to move into official VP residence next week"
+    excerpt: "After more than two months of living in temporary housing, Vice President Kamala Harris will soon be able to unpack and unwind at her official residence on the grounds of the U.S. Naval Observatory."
+    publishedDateTime: 2021-04-02T12:03:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/kamala-harris-to-move-into-official-vp-residence-next-week/VSFTUJRGYRGNZMB5Z7H3ZSPZDQ/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 55
+    images:
+      - url: "https://www.ajc.com/resizer/ICH-AyhZtiVdmdcZJG6xd6Q3t4g=/1200x630/d1fegwn2wjh0cs.cloudfront.net/08-13-2020/t_18f2ff7753ca46fba98a6ccbf49281ee_name_f27c365edffb439ca8e81a4fb9aedc7d.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kamala Harris Seeks $2M for Her Washington, DC, Condo"
+    excerpt: "Since being sworn in to the nation's second-highest office, Vice President Kamala Harris has been selling off her real estate. Harris put her tony Washington, DC, condo on the market for $1,995,000 this week."
+    publishedDateTime: 2021-04-06T20:13:00Z
+    webUrl: "https://www.chron.com/realestate/article/Kamala-Harris-Seeks-2M-for-Her-Washington-DC-16081167.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/36/44/20834622/3/rawImage.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "Kamala Harris asked Lamont to explore placing migrant youth in CT"
     excerpt: "Vice President Kamala Harris walked up to Gov. Ned Lamont during her visit to New Haven March 26 and asked if there was a way for Connecticut to help the border situation, according to the governor’s Communications Director Max Reiss."

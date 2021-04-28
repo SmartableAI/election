@@ -2,21 +2,25 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-04-14-joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-with-russia-white-house-says.md",
-      "title": "Joe Biden, Vladmir Putin Summit Doesn't Signal New Friendliness with Russia, White House Says",
-      "excerpt": "U.S. President Joe Biden and Russian President Vladmir Putin have agreed to take their icy relationship to the next level in the coming months—a face-to-face meeting in a third country. But the White House insists it's not a signal that the two are on ...",
+      "path": "_news/2021-04-14-tara-reade-rips-new-york-times-columnists-for-classifying-biden-assault-claim-as-sex-scandal.md",
+      "title": "Tara Reade rips New York Times columnists for classifying Biden assault claim as 'sex scandal'",
+      "excerpt": "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, scolded The New York Times Tuesday for putting her claims in the same category as the controversy surrounding Rep.",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363",
-      "originalUrl": "https://www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363",
+      "webUrl": "https://www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal",
+      "originalUrl": "https://www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 123,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1777226/putin-biden.jpg",
-          "width": 3477,
-          "height": 1775,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Image-from-iOS-10.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +28,166 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363?amp=1",
-      "publishedDateTime": "2021-04-13T11:15:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal.amp",
+      "publishedDateTime": "2021-04-13T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-fact-check-viral-image-does-not-show-president-joe-biden-apologizing-to-george-floyds-child.md",
+      "title": "Fact check: Viral image does not show President Joe Biden apologizing to George Floyd's child",
+      "excerpt": "A miscaptioned photo purports to show President Joe Biden apologizing to George Floyd’s son. However, the child in the image is not Floyd’s. “U.S. President Joe Biden kneels down to beg George Floyd's son for forgiveness,” media company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2021/04/13/fact-check-photo-miscaptioned-joe-biden-apology-floyd-family/7191274002/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2021/04/13/fact-check-photo-miscaptioned-joe-biden-apology-floyd-family/7191274002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/10/PDTF/ff87b317-0aa6-49c9-b3ee-e02fa10236ff-GTY_1271608759.jpg?auto=webp&crop=3408,1917,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7191274002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7191274002",
+      "publishedDateTime": "2021-04-13T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-biden-to-pull-us-troops-from-afghanistan-by-sept-11-sources-say.md",
+      "title": "Biden to pull U.S. troops from Afghanistan by Sept. 11, sources say",
+      "excerpt": "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, three sources familiar with the decision told Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-afghanistan-withdrawal/biden-to-pull-u-s-troops-from-afghanistan-by-sept-11-sources-say-idUSKBN2C028S",
+      "originalUrl": "https://www.reuters.com/article/us-usa-afghanistan-withdrawal/biden-to-pull-u-s-troops-from-afghanistan-by-sept-11-sources-say-idUSKBN2C028S",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 645,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558314068&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C17V",
+          "width": 795,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2C028S",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C028S",
+      "publishedDateTime": "2021-04-13T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-biden-administration-hopes-troops-from-mexico-guatemala-and-honduras-can-stop-migrant-surge.md",
+      "title": "Biden Administration Hopes Troops From Mexico, Guatemala, and Honduras Can Stop Migrant Surge",
+      "excerpt": "represent the latest attempts by President Joe Biden's administration to mitigate the influx of migrants trying to enter the country through the U.S.-Mexico border. Mexico, Guatemala and Honduras each agreed to heighten troop presence along their borders ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-administration-hopes-troops-mexico-guatemala-honduras-can-stop-migrant-surge-1583075",
+      "originalUrl": "https://www.newsweek.com/biden-administration-hopes-troops-mexico-guatemala-honduras-can-stop-migrant-surge-1583075",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1776683/migrants-texas.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-administration-hopes-troops-mexico-guatemala-honduras-can-stop-migrant-surge-1583075?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-administration-hopes-troops-mexico-guatemala-honduras-can-stop-migrant-surge-1583075?amp=1",
+      "publishedDateTime": "2021-04-12T15:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Newsweek",
@@ -106,227 +267,19 @@
       ]
     },
     {
-      "path": "_news/2021-04-13-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks.md",
-      "title": "Bipartisan lawmakers signal support for Biden cybersecurity picks",
-      "excerpt": "Key lawmakers on Monday expressed support for President Biden Joe Biden Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Biden to meet Monday with ...",
+      "path": "_news/2021-04-13-daunte-wright-killing-biden-calls-for-peace-and-calm-as-minneapolis-sets-curfew-live.md",
+      "title": "Daunte Wright killing: Biden calls for ‘peace and calm’ as Minneapolis sets curfew – live",
+      "excerpt": "The federal US government posted a March budget deficit of $660bn, a record high for the month, as direct payments to Americans under Joe Biden’s stimulus package were distributed, the treasury department said on Monday. The deficit for the first six ...",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/cybersecurity/547756-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks",
-      "originalUrl": "https://thehill.com/policy/cybersecurity/547756-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks",
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates?page=with:block-6074bef58f088c820d864d7e",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates?page=with:block-6074bef58f088c820d864d7e",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 156,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_110920getty_cyber.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/cybersecurity/547756-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/cybersecurity/547756-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks?amp",
-      "publishedDateTime": "2021-04-12T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest.md",
-      "title": "Brooklyn Center Mayor Says Biden Offered Support After Daunte Wright Shooting Unrest",
-      "excerpt": "President Joe Biden has offered his administration's support to the city of Brooklyn Center, Minnesota, in the wake of Daunte Wright's death and Sunday night's subsequent protests, according to Mayor Mike Elliott. \"Just got off the phone with the @WhiteHouse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977",
-      "originalUrl": "https://www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 258,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1776399/brooklyn-center.jpg",
-          "width": 594,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977?amp=1",
-      "publishedDateTime": "2021-04-12T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-biden-is-expected-to-name-a-former-top-obama-era-federal-prosecutor-to-lead-the-justice-departments-criminal-division-sources-say.md",
-      "title": "Biden is expected to name a former top Obama-era federal prosecutor to lead the Justice Department's criminal division, sources say",
-      "excerpt": "Sources tell Insider that Kenneth Polite is expected to be Biden's pick to run the Justice Department office responsible for federal criminal probes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/doj-criminal-division-kenneth-polite-biden-nominee-justice-department-2021-4",
-      "originalUrl": "https://www.businessinsider.com/doj-criminal-division-kenneth-polite-biden-nominee-justice-department-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6073ad1aa451820019b3a79c?width=700",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-biden-nominates-tucson-arizona-police-chief-to-lead-border-agency-nyt.md",
-      "title": "Biden nominates Tucson, Arizona police chief to lead border agency: NYT",
-      "excerpt": "WASHINGTON (Reuters) - U.S. President Joe Biden has nominated Tucson, Arizona, Police Chief Chris Magnus to lead the Customs And Border Protection Agency, the New York Times reported on Monday . Magnus, a critic of former President Donald Trump’s anti ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-immigration-biden-idUSKBN2BZ1L6",
-      "originalUrl": "https://www.reuters.com/article/us-usa-immigration-biden-idUSKBN2BZ1L6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558144917&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B0W3",
-          "width": 795,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BZ1L6",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BZ1L6",
-      "publishedDateTime": "2021-04-12T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-michigan-governor-vows-to-push-biden-for-more-vaccines-as-covid-cases-surge.md",
-      "title": "Michigan governor vows to push Biden for more vaccines as Covid cases surge",
-      "excerpt": "Gretchen Whitmer, the governor of Michigan, vowed on Sunday to push the Biden administration for more Covid-19 vaccines as her state experiences a worrying spike in cases. Canada ski resort linked to largest outbreak of P1 Covid variant outside Brazil Joe ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/11/michigan-governor-gretchen-whitmer-more-vaccines-covid-cases-surge",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/11/michigan-governor-gretchen-whitmer-more-vaccines-covid-cases-surge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/fd6c6bc2252ac2f148634994ab479994867cf65d/0_416_6240_3744/master/6240.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1b4ec91eaf77cc644f8de22a21440c61",
+          "url": "https://i.guim.co.uk/img/media/ad4a25e533ad6c9e7c2980bc6e5dbd216b437f03/0_445_6733_4042/master/6733.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8ac127df02353378cc3daf6f97ea30be",
           "width": 600,
           "height": 360,
           "title": null,
@@ -336,9 +289,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/11/michigan-governor-gretchen-whitmer-more-vaccines-covid-cases-surge",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/11/michigan-governor-gretchen-whitmer-more-vaccines-covid-cases-surge",
-      "publishedDateTime": "2021-04-11T11:44:00-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates",
+      "publishedDateTime": "2021-04-12T15:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -366,21 +319,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-11-greg-abbott-mocks-biden-on-guns-says-shooting-victims-family-demanded-he-uphold-2nd-amendment.md",
-      "title": "Greg Abbott Mocks Biden on Guns, Says Shooting Victim's Family Demanded He Uphold 2nd Amendment",
-      "excerpt": "President Joe Biden on Thursday condemned the country's \"gun violence epidemic\" and laid out a proposal for firearm restrictions—a move which prompted Texas Republicans to promote their own \"2nd Amendment sanctuary state\" rebuke. Abbott recently joined ...",
+      "path": "_news/2021-04-13-biden-prepared-to-negotiate-size-taxes-with-lawmakers-on-225-trillion-infrastructure-and-jobs-plan.md",
+      "title": "Biden 'prepared to negotiate' size, taxes with lawmakers on $2.25 trillion infrastructure and jobs plan",
+      "excerpt": "WASHINGTON — President Joe Biden opened talks with lawmakers Monday on his $2.25 trillion jobs and infrastructure plan, saying he's \"prepared to negotiate\" the size of the package and how to pay for it. \"I think everyone acknowledges we need a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/greg-abbott-mocks-biden-guns-says-shooting-victims-family-demanded-he-uphold-2nd-amendment-1582715",
-      "originalUrl": "https://www.newsweek.com/greg-abbott-mocks-biden-guns-says-shooting-victims-family-demanded-he-uphold-2nd-amendment-1582715",
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/04/12/joe-biden-prepared-negotiate-lawmakers-jobs-plan/7194085002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/04/12/joe-biden-prepared-negotiate-lawmakers-jobs-plan/7194085002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1751974/greg-abbott-speaking.jpg",
-          "width": 3000,
-          "height": 2000,
+          "url": "https://www.gannett-cdn.com/presto/2021/04/12/USAT/e734db0b-d403-4cac-a981-23373664bb36-Biden_meets_with_lawmakers.jpg?auto=webp&crop=5164,2905,x0,y262&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -388,9 +341,61 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/greg-abbott-mocks-biden-guns-says-shooting-victims-family-demanded-he-uphold-2nd-amendment-1582715?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/greg-abbott-mocks-biden-guns-says-shooting-victims-family-demanded-he-uphold-2nd-amendment-1582715?amp=1",
-      "publishedDateTime": "2021-04-11T09:38:00-07:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7194085002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7194085002",
+      "publishedDateTime": "2021-04-12T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-joe-biden-says-no-justification-for-looting-violence-amid-unrest-over-daunte-wright-shooting.md",
+      "title": "Joe Biden Says 'No Justification' For Looting, Violence Amid Unrest Over Daunte Wright Shooting",
+      "excerpt": "President Joe Biden condemned looting and violence that has taken place in the aftermath of the police shooting of 20-year-old Daunte Wright in Brooklyn Center, Minnesota on Sunday. Wright, a Black man, died Sunday after he was shot by a police officer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048",
+      "originalUrl": "https://www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1776653/daunte-wright-protest.jpg",
+          "width": 1024,
+          "height": 695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048?amp=1",
+      "publishedDateTime": "2021-04-12T13:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Newsweek",
@@ -398,6 +403,110 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-ramadan-begins-derek-chauvin-trial-bidens-infrastructure-plan-5-things-to-know-monday.md",
+      "title": "Ramadan begins, Derek Chauvin trial, Biden's infrastructure plan: 5 things to know Monday",
+      "excerpt": "Chauvin is charged with second-degree murder, third-degree murder and second-degree manslaughter in Floyd's death. President Joe Biden will meet with a bipartisan group of U.S. House and Senate lawmakers Monday to discuss his proposed $2.3 trillion infra ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2021/04/12/ramadan-derek-chauvin-trial-covid-19-5-things-know-monday/7158232002/",
+      "originalUrl": "https://www.usatoday.com/story/news/2021/04/12/ramadan-derek-chauvin-trial-covid-19-5-things-know-monday/7158232002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/04/12/USAT/8e808988-b36c-4d38-99e5-a1194fdf9ce3-AFP_AFP_97P74U.jpg?auto=webp&crop=5124,2883,x0,y260&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7158232002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7158232002",
+      "publishedDateTime": "2021-04-12T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-11-texas-governor-biden-actions-on-guns-just-show.md",
+      "title": "Texas governor: Biden actions on guns just 'show'",
+      "excerpt": "Texas Gov. Greg Abbott (R) rejected the idea that firearm restrictions could be passed via executive order on Sunday while dismissing President Biden Joe Biden Biden eyes bigger US role in global ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/sunday-talk-shows/547574-texas-governor-biden-actions-on-guns-just-show",
+      "originalUrl": "https://thehill.com/homenews/sunday-talk-shows/547574-texas-governor-biden-actions-on-guns-just-show",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/abbottgreg_06182020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/sunday-talk-shows/547574-texas-governor-biden-actions-on-guns-just-show?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/547574-texas-governor-biden-actions-on-guns-just-show?amp",
+      "publishedDateTime": "2021-04-11T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -470,21 +579,25 @@
       ]
     },
     {
-      "path": "_news/2021-04-11-biden-sees-win-for-us-in-electric-vehicle-battery-deal.md",
-      "title": "Biden sees `win' for US in electric vehicle battery deal",
-      "excerpt": "President Joe Biden calls it “a win for American workers and the American auto industry.\" WASHINGTON -- Two big South Korean electric vehicle battery makers have settled a long-running trade ...",
+      "path": "_news/2021-04-11-moment-of-trial-balloons-democrats-debate-what-to-cut-from-biden-bill.md",
+      "title": "'Moment of trial balloons': Democrats debate what to cut from Biden bill",
+      "excerpt": "President Joe Biden says he views his $2 trillion-plus infrastructure plan as simply a starting point for negotiations with Congress, a draft document of ideals where “compromise is inevitable.” But even as the White House maintains it is looking for ...",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985",
+      "webUrl": "https://www.politico.com/news/2021/04/11/democrats-biden-infrastructure-bill-cut-480684",
+      "originalUrl": "https://www.politico.com/news/2021/04/11/democrats-biden-infrastructure-bill-cut-480684",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_fad24c3069b54782a4557fd75b0981dc_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://static.politico.com/63/b1/d2de7cf54d3392cd9ac200123c1e/ap21098606253044-1.png",
+          "width": 1160,
+          "height": 773,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -492,16 +605,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985",
-      "publishedDateTime": "2021-04-11T05:36:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-11T04:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
+        "name": "Politico",
+        "domain": "politico.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -518,7 +631,8 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Joe Biden",
+        "Democratic Voice"
       ]
     },
     {
@@ -530,7 +644,7 @@
       "originalUrl": "https://www.bbc.com/news/world-europe-56692865?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_custom4=AFD12F22-9A8C-11EB-975F-DCB94744363C&at_medium=custom7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -574,110 +688,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-10-pelosi-aims-to-have-biden-infrastructure-passed-before-august.md",
-      "title": "Pelosi aims to have Biden infrastructure passed before August",
-      "excerpt": "The road ahead for Biden's budget proposal 03:13 Speaker Nancy Pelosi expressed hope that Congress would pass President Biden's $2 trillion infrastructure proposal ahead of the August recess. During her weekly press conference on Thursday, Pelosi said that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/pelosi-aims-to-have-biden-infrastructure-passed-before-august/",
-      "originalUrl": "https://www.cbsnews.com/news/pelosi-aims-to-have-biden-infrastructure-passed-before-august/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 525,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/10/0d824d7c-80ac-4f27-bbe4-32660aa5c4f8/thumbnail/1200x630/01e1020ae337458e1bd4eebb79968e0f/2021-03-10t180559z-460159132-rc2i8m9de0ib-rtrmadp-3-health-coronavirus-usa-congress.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/pelosi-aims-to-have-biden-infrastructure-passed-before-august/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pelosi-aims-to-have-biden-infrastructure-passed-before-august/",
-      "publishedDateTime": "2021-04-10T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-bidens-budget-wish-list-850m-for-central-america-aid-36b-for-poor-schools.md",
-      "title": "Biden's Budget Wish List: $850M for Central America Aid, $36B for Poor Schools",
-      "excerpt": "President Joe Biden is set to release his first budget wish list before members of Congress return next week, giving insight into his policy agenda and marking his stark departure from former President Donald Trump's priorities. Included in the proposal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466",
-      "originalUrl": "https://www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1775021/joe-biden.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bidens-budget-wish-list-850m-central-america-aid-36b-poor-schools-1582466?amp=1",
-      "publishedDateTime": "2021-04-09T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-04-09-biden-sets-up-commission-to-study-expansion-of-supreme-court-live.md",
       "title": "Biden sets up commission to study expansion of supreme court – live",
       "excerpt": "Updated at 1.18pm EDT Buttigieg said he hadn’t met with Senator Joe Manchin, a conservative Democrat who is opposed to Biden’s plan to raise the corporate tax rate from 21% to 28%. He prefers a rate of 25%. Buttigieg wouldn’t say how the lower rate ...",
@@ -686,7 +696,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60707c538f088c820d861f0d",
       "featuredContent": null,
       "highlight": null,
-      "heat": 665,
+      "heat": 585,
       "tags": null,
       "images": [
         {
@@ -730,58 +740,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-09-biden-budget-would-beef-up-irs-tax-enforcement-yellen.md",
-      "title": "Biden budget would beef up IRS tax enforcement: Yellen",
-      "excerpt": "WASHINGTON (Reuters) - U.S. Treasury Secretary Janet Yellen said on Friday that the Internal Revenue Service budget would increase by $1.2 billion or 10.4% under President Joe Biden’s fiscal 2022 budget request. Yellen, in a statement, said the $13.2 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-treasury-budget-idUSKBN2BW25C",
-      "originalUrl": "https://www.reuters.com/article/us-usa-treasury-budget-idUSKBN2BW25C",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557886866&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH38128",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BW25C",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW25C",
-      "publishedDateTime": "2021-04-09T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-04-09-joe-bidens-slip-saying-aft-rather-than-atf-goes-viral.md",
       "title": "Joe Biden's Slip Saying 'AFT' Rather Than 'ATF' Goes Viral",
       "excerpt": "President Joe Biden's verbal stumble over the abbreviation for the Bureau of Alcohol, Tobacco, Firearms and Explosives was seized on by his right-wing opponents and shared widely online on Thursday as he moved to install a gun control advocate as head of ...",
@@ -790,7 +748,7 @@
       "originalUrl": "https://www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -814,6 +772,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-first-thing-biden-rails-against-epidemic-of-us-gun-violence.md",
+      "title": "First Thing: Biden rails against ‘epidemic’ of US gun violence",
+      "excerpt": "Joe Biden has described gun violence in the US as an “epidemic” and an “international embarrassment”, in an emotional address at the White House after a series of mass shootings in recent weeks. The address follows his announcement of a series of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/09/first-thing-biden-lambasts-epidemic-of-us-gun-violence",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/09/first-thing-biden-lambasts-epidemic-of-us-gun-violence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/fc8e56209695d10f1fb13dc3536cd73f952d12cf/0_301_6045_3627/master/6045.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d895af94bd246ac6c6a3bc9a18931e9f",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/09/first-thing-biden-lambasts-epidemic-of-us-gun-violence",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/09/first-thing-biden-lambasts-epidemic-of-us-gun-violence",
+      "publishedDateTime": "2021-04-09T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -891,21 +901,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-09-haaland-meets-with-utah-politicians-tribes-as-biden-weighs-monument-changes.md",
-      "title": "Haaland meets with Utah politicians, tribes as Biden weighs monument changes",
-      "excerpt": "tribal leaders and other stakeholders Wednesday and Thursday as President Biden Joe Biden Anne Frank's stepsister: Trump 'obviously admired Hitler' Biden-GOP infrastructure talks off to rocky ...",
+      "path": "_news/2021-04-09-mcconnells-home-state-bridge-symbol-of-infrastructure-standoff-with-biden.md",
+      "title": "McConnell's home state bridge symbol of infrastructure standoff with Biden",
+      "excerpt": "Now, though, McConnell is flatly opposed to President Joe Biden's sweeping infrastructure plan that would likely do just that, and it's become a symbol of how even local priorities popular with ...",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs",
-      "originalUrl": "https://thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs",
+      "webUrl": "https://abcnews.go.com/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212",
+      "originalUrl": "https://abcnews.go.com/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 163,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/sites/default/files/bearsearsmonument.jpg",
-          "width": 980,
-          "height": 551,
+          "url": "https://s.abcnews.com/images/Politics/brent-spence-bridge-file-gty-jef-210407_1617823616171_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -913,16 +923,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs?amp",
-      "publishedDateTime": "2021-04-08T15:01:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212",
+      "publishedDateTime": "2021-04-08T12:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -943,21 +953,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-09-biden-says-gun-violence-in-us-is-an-embarrassment.md",
-      "title": "Biden says gun violence in U.S. is an 'embarrassment’",
-      "excerpt": "News Agency Biden says gun violence in U.S. is an 'embarrassment’ Posted . President Joe Biden called gun violence in the U.S. an 'epidemic' as he announced limited measures to",
+      "path": "_news/2021-04-08-what-are-ghost-guns-biden-executive-action-targets-dangerous-and-untraceable-firearms.md",
+      "title": "What are ghost guns?: Biden executive action targets 'dangerous' and 'untraceable' firearms",
+      "excerpt": "As President Joe Biden is set to announce Thursday a host of executive actions aimed at slowing gun violence in the wake of several recent mass shootings in the U.S., renewed focus is on so-called \"ghost guns.\" Among the actions Biden will announce is ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOVE7O393Z",
-      "originalUrl": "https://www.reuters.com/video/watch/idOVE7O393Z",
+      "webUrl": "https://www.usatoday.com/story/news/nation/2021/04/08/what-ghost-guns-joe-biden-executive-order-targets-guns/7137233002/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2021/04/08/what-ghost-guns-joe-biden-executive-order-targets-guns/7137233002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 115,
       "tags": null,
       "images": [
         {
-          "url": "https://static.reuters.com/resources/r/?d=20210408&i=OVE7O393Z&r=OVE7O393Z&t=2",
-          "width": 960,
-          "height": 540,
+          "url": "https://www.gannett-cdn.com/presto/2021/04/08/USAT/c2c4b7d7-e2d5-4428-862a-76ed58027963-AP_3D_Guns.JPG?auto=webp&crop=1022,575,x1,y2&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -965,16 +975,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T11:25:00-07:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7137233002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7137233002",
+      "publishedDateTime": "2021-04-08T07:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1003,7 +1013,7 @@
       "originalUrl": "https://www.newsweek.com/nra-ready-fight-joe-biden-gun-reform-1581952",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1027,167 +1037,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-scalise-blasts-bidens-border-policies-calling-them-dangerous-for-kids.md",
-      "title": "Scalise blasts Biden's border policies, calling them 'dangerous for kids'",
-      "excerpt": "What they've done not only to these border towns, the mayors, you hear them, Democrat and Republican, expressing outrage over what President Biden created. Joe Biden created this crisis, but the child abuse and neglect that's going on, it's not just the 20 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids",
-      "originalUrl": "https://www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-bidens-border-policies-dangerous-kids.amp",
-      "publishedDateTime": "2021-04-08T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-biden-plans-to-crack-down-on-ghost-guns-with-action-on-thursday.md",
-      "title": "Biden plans to crack down on 'ghost guns' with action on Thursday",
-      "excerpt": "WASHINGTON (Reuters) -President Joe Biden on Thursday will unveil his administration’s first steps to curb gun violence, including a plan to reduce the proliferation of “ghost guns,” after a slew of mass shootings that have put pressure on him to act.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-guns-idUSKBN2BU2QP",
-      "originalUrl": "https://www.reuters.com/article/us-usa-guns-idUSKBN2BU2QP",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 625,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210407&t=2&i=1557617247&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH361CD",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BU2QP",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2QP",
-      "publishedDateTime": "2021-04-07T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers.md",
-      "title": "Texas, Louisiana sue Biden administration over reduced use of ICE detainers",
-      "excerpt": "“President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far Jill Biden to visit Alabama with actress Jennifer Garner MORE’s outright ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/latino/546987-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers",
-      "originalUrl": "https://thehill.com/latino/546987-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/ice_05092019_getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/latino/546987-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/latino/546987-texas-louisiana-sue-biden-administration-over-reduced-use-of-ice-detainers?amp",
-      "publishedDateTime": "2021-04-07T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1262,6 +1111,167 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-biden-nominates-interior-deputy-as-departments-top-lawyer.md",
+      "title": "Biden nominates Interior deputy as department's top lawyer",
+      "excerpt": "President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far Jill Biden to visit Alabama with actress Jennifer Garner MORE has nominated ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer",
+      "originalUrl": "https://thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/deptofinterior11172020.jpg",
+          "width": 827,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer?amp",
+      "publishedDateTime": "2021-04-07T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-msnbc-host-concedes-biden-stance-on-georgia-voting-law-not-consistent-impossible-to-square-his-argument.md",
+      "title": "MSNBC host concedes Biden stance on Georgia voting law not consistent: 'Impossible to square his argument'",
+      "excerpt": "\"To listen to the president speaking right there, it's impossible to square his argument,\" MSNBC's Willie Geist said \"Morning Joe\" on Wednesday. MLB eventually did move the All-Star Game out of Georgia after Biden compared the state's new voting law to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent",
+      "originalUrl": "https://www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20f3bb9f-5836-4db5-a5df-e9a3441d9a8a/22b290f0-49ff-488d-bd4f-d5e835940878/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent.amp",
+      "publishedDateTime": "2021-04-07T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-white-house-says-biden-will-have-more-to-say-on-guns-on-thursday.md",
+      "title": "White House says Biden will have 'more to say' on guns on Thursday",
+      "excerpt": "WASHINGTON (Reuters) - President Joe Biden will have “more to say” on the actions he plans on gun regulation on Thursday, White House press secretary Jen Psaki told reporters at a briefing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-guns-idUSKBN2BU2QP",
+      "originalUrl": "https://www.reuters.com/article/us-usa-guns-idUSKBN2BU2QP",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 405,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210407&t=2&i=1557617247&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH361CD",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BU2QP",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2QP",
+      "publishedDateTime": "2021-04-07T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1444,7 +1454,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -1488,21 +1498,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-06-official-biden-moving-vaccine-eligibility-date-to-april-19.md",
-      "title": "Official: Biden moving vaccine eligibility date to April 19",
-      "excerpt": "President Joe Biden is set to announce that he's shaving about two weeks off his May 1 deadline for states to make all adults eligible for coronavirus vaccines WASHINGTON -- President Joe Biden ...",
+      "path": "_news/2021-04-05-a-miracle-hunter-biden-says-a-blind-date-with-his-future-wife-rescued-him-from-crack-addiction.md",
+      "title": "A \"miracle\": Hunter Biden says a blind date with his future wife rescued him from crack addiction",
+      "excerpt": "Biden's mother, Neilia Biden, and his one-year-old sister, Naomi, were killed in a car crash in 1972. He and his older brother, Beau, just two and three at the time, were critically injured, but survived. Their father, Joe, was sworn in to his first term ...",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952",
+      "webUrl": "https://www.cbsnews.com/news/hunter-biden-crack-addition-blind-date-future-wife/",
+      "originalUrl": "https://www.cbsnews.com/news/hunter-biden-crack-addition-blind-date-future-wife/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 132,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Health/WireAP_8f3ad97807e84cd5bc8723834d33143e_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/05/ebb7e532-69f6-4ada-9dd2-64f6cd707bdb/thumbnail/1200x630/c65d58112a1f5beed214fd35a5924ac5/0405-ctm-hunter.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1510,16 +1520,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952",
-      "publishedDateTime": "2021-04-06T04:45:00-07:00",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/hunter-biden-crack-addition-blind-date-future-wife/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/hunter-biden-crack-addition-blind-date-future-wife/",
+      "publishedDateTime": "2021-04-05T06:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
+        "name": "CBS News",
+        "domain": "cbsnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1540,21 +1550,25 @@
       ]
     },
     {
-      "path": "_news/2021-04-05-biden-and-the-waning-of-the-neoliberal-era.md",
-      "title": "Biden and the waning of the ‘neoliberal’ era",
-      "excerpt": "Support our journalism. Subscribe today. For much of his political career, President Biden was a custodian of the “neoliberal” order. He was a fixture in a Washington establishment that promoted years of economic globalization and, like political ...",
+      "path": "_news/2021-04-04-barrasso-slams-biden-over-kids-in-captivity-says-he-was-told-to-delete-photos-of-border-facilities.md",
+      "title": "Barrasso slams Biden over kids in 'captivity,' says he was told to delete photos of border facilities",
+      "excerpt": "\"The irony here is that we're hearing a lot about Joe Biden wanting vaccine passports to prove that people have vaccines,\" Barrasso said. \"Meanwhile, the border crossers, they don't even require I.D. We don't know who they are, where they're coming from ...",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/2021/04/05/biden-infrastructure-plan-neoliberalism/",
-      "originalUrl": "https://www.washingtonpost.com/world/2021/04/05/biden-infrastructure-plan-neoliberalism/",
+      "webUrl": "https://www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos",
+      "originalUrl": "https://www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 120,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YBUW7WUC3II6XPRCGLJTDWDVGA.jpg&w=1440",
-          "width": 1440,
-          "height": 895,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1562,16 +1576,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/2021/04/05/biden-infrastructure-plan-neoliberalism/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/04/05/biden-infrastructure-plan-neoliberalism/?outputType=amp",
-      "publishedDateTime": "2021-04-05T06:56:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos.amp",
+      "publishedDateTime": "2021-04-04T09:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1588,7 +1602,8 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Joe Biden",
+        "Republican Voice"
       ]
     }
   ],

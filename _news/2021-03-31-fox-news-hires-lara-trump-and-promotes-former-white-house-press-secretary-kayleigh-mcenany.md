@@ -32,22 +32,6 @@ images:
 
 related:
   - title: "Donald Trump uses new website to rewrite history of his presidency"
-    excerpt: "Narrative omits two impeachments, economic crash, Covid death toll and riot that marked end of his term Last modified on Tue 30 Mar 2021 10.23 EDT Donald Trump has launched a new website celebrating his time as US president that includes a very selective ..."
-    publishedDateTime: 2021-03-30T13:22:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency?fbclid=IwAR23dLd9Jo5OxuV0FDa1d7WiPrcCgZv8GQVVZMJXCxqjYTbr0vS1ZTJHcbw"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/4146d99f233c90973e78cde7b63a6c6c5a1791c9/0_78_3782_2271/master/3782.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ff3ad7f46a5f42688e61518116702f35"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Donald Trump uses new website to rewrite history of his presidency"
     excerpt: "Narrative omits two impeachments, economic crash, Covid death toll and riot that marked end of his term Last modified on Tue 30 Mar 2021 15.23 EDT Donald Trump has launched a new website celebrating his time as US president that includes a very selective ..."
     publishedDateTime: 2021-03-30T18:23:00Z
     webUrl: "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency"
@@ -63,21 +47,85 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Gaetz sought blanket pardon from Trump White House: report"
-    excerpt: "reportedly sought a blanket pre-emptive pardon from the White House during the final weeks of President Trump Donald Trump Joe Biden's surprising presidency The Hill's Morning Report - Biden ..."
-    publishedDateTime: 2021-04-07T00:31:00Z
-    webUrl: "https://thehill.com/homenews/house/546834-gaetz-sought-blanket-pardon-from-trump-white-house-report"
-    ampWebUrl: "https://thehill.com/homenews/house/546834-gaetz-sought-blanket-pardon-from-trump-white-house-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/546834-gaetz-sought-blanket-pardon-from-trump-white-house-report?amp"
+  - title: "How Donald Trump hurt female representation in federal courts"
+    excerpt: "DOW S&P 500 NASDAQ 100 After four years in office, President Donald Trump left America's judiciary — an institution already steeped in gender homogeneity — significantly more male. During his one-term presidency, Trump appointed more than 230 lifetime ..."
+    publishedDateTime: 2021-03-31T14:50:00Z
+    webUrl: "https://www.businessinsider.com/trump-appointed-way-more-male-judges-than-female-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/trump-appointed-way-more-male-judges-than-female-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-appointed-way-more-male-judges-than-female-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/6055053fcad7d300183f8233?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Judge rules Trump campaign's nondisclosure agreement is invalid"
+    excerpt: "A federal judge on Tuesday ruled that a non-disclosure agreement (NDA) that employees on former President Trump Donald Trump The Hill's Morning Report - Biden officials brace for worst despite ..."
+    publishedDateTime: 2021-03-31T02:51:00Z
+    webUrl: "https://thehill.com/legal/545685-judge-rules-trump-campaigns-nondisclosure-agreement-is-invalid"
+    ampWebUrl: "https://thehill.com/legal/545685-judge-rules-trump-campaigns-nondisclosure-agreement-is-invalid?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/legal/545685-judge-rules-trump-campaigns-nondisclosure-agreement-is-invalid?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/gaetzmatt_012821getty_gaetz.jpg"
+      - url: "https://thehill.com/sites/default/files/trumprally4_06202020_gettyimages.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "New York attorney general probes finances of key Trump aide"
+    excerpt: "Allen Weisselberg, center, stands between President-elect Donald Trump, left, and Donald Trump Jr. at a news conference in the lobby of Trump Tower in New York on Jan. 11, 2017. The New York attorney general recently obtained personal financial records ..."
+    publishedDateTime: 2021-04-01T22:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/new-york-attorney-general-weisselberg/2021/04/01/cbd98728-9302-11eb-9668-89be11273c09_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/new-york-attorney-general-weisselberg/2021/04/01/cbd98728-9302-11eb-9668-89be11273c09_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/new-york-attorney-general-weisselberg/2021/04/01/cbd98728-9302-11eb-9668-89be11273c09_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RMYIHQCLFYI6TFTDACWHH5EWMI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Capitol Cops Sue Donald Trump for Physical, Emotional Injuries From Riot"
+    excerpt: "Two Capitol Police officers are suing former President Donald Trump for allegedly inciting the Capitol riot and causing them physical and emotional injuries. Officers James Blassingame, a 17-year veteran of the Capitol Police, and Sidney Hemby, an 11-year ..."
+    publishedDateTime: 2021-03-31T04:05:00Z
+    webUrl: "https://www.newsweek.com/capitol-cops-sue-donald-trump-physical-emotional-injuries-riot-1579986"
+    ampWebUrl: "https://www.newsweek.com/capitol-cops-sue-donald-trump-physical-emotional-injuries-riot-1579986?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/capitol-cops-sue-donald-trump-physical-emotional-injuries-riot-1579986?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1767734/donald-trump-capitol-police-riots-lawsuit.jpg"
+        width: 2500
+        height: 1623
+        isCached: true
+  - title: "Police officers sue Donald Trump for injuries resulting from Capitol riot"
+    excerpt: "Lawsuit seeks damages for ‘physical and emotional injuries caused by Trump’s wrongful conduct inciting a riot’ on 6 January Last modified on Wed 31 Mar 2021 09.58 EDT Two US Capitol Police officers have filed a lawsuit against Donald Trump ..."
+    publishedDateTime: 2021-03-31T12:58:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/31/police-officers-sue-donald-trump-injuries-capitol-riot"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/31/police-officers-sue-donald-trump-injuries-capitol-riot"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/31/police-officers-sue-donald-trump-injuries-capitol-riot"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/f9deca06bc771f86b15d1cd4d7c3b878b1231361/0_65_2060_1236/master/2060.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=365c112e893b7e1d1a06ca9e28be9071"
+        width: 600
+        height: 360
         isCached: true
   - title: "Be at peace, meditate, Trump Buddha statue designer tells former president"
     excerpt: "XIAMEN, China (Reuters) - Chinese furniture maker Hong Jinshi first created a couple of pint-sized statues of former U.S. President Donald Trump meditating in a Buddhist pose as a fun project for himself last year. Slideshow ( 4 images ) Six months on ..."
@@ -95,21 +143,21 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Donald Trump's Team Sought Stake in Gab But Was Rejected, CEO Andrew Torba Claims"
-    excerpt: "The CEO of social media site Gab has claimed he rejected a proposal in January to have former president Donald Trump on the platform. Andrew Torba, who founded the service in 2016, said that representatives of the former president's senior adviser and son ..."
-    publishedDateTime: 2021-03-24T10:36:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-team-jared-kushner-stake-gab-rejected-ceo-andrew-torba-1578323"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-team-jared-kushner-stake-gab-rejected-ceo-andrew-torba-1578323?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-team-jared-kushner-stake-gab-rejected-ceo-andrew-torba-1578323?amp=1"
+  - title: "U.S. Capitol police officers sue former President Donald Trump for inciting Capitol riot"
+    excerpt: "WASHINGTON - Two Capitol Police officers, repeatedly assaulted during the deadly Capitol siege, have sued former President Donald Trump for inciting the deadly riots that left five dead and injured more than 100 officers. James Blassingame and Sidney ..."
+    publishedDateTime: 2021-03-31T15:51:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/31/two-u-s-capitol-police-officers-sue-trump-inciting-riot/4819740001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4819740001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4819740001"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 120
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
     images:
-      - url: "https://d.newsweek.com/en/full/1762774/donald-trump-cpac.jpg"
-        width: 3000
-        height: 2147
+      - url: "https://www.gannett-cdn.com/presto/2021/03/18/USAT/30ad6a4e-8eb8-46f2-bb4d-051cdf2e2c44-police_protesters.jpg?auto=webp&crop=5008,2817,x0,y315&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Theatre project lets Trump accusers tell their stories"
     excerpt: "The Pussy Grabber Plays – eight short pieces premiering in New York on Monday – humanise the people behind sexual misconduct allegations against the president Lucia Graves Journalist and writer Natasha Stoynoff has co-written a play about Donald Trump ..."

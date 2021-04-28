@@ -2,6 +2,592 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-04-09-trump-officials-celebrated-efforts-to-change-cdc-reports-on-coronavirus-emails-show.md",
+      "title": "Trump officials celebrated efforts to change CDC reports on coronavirus, emails show",
+      "excerpt": "Political appointees also tried to blunt scientific findings they deemed unfavorable to Trump, according to new documents from House probe",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/",
+      "originalUrl": "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AD36FQXW2QI6VBPXLFARRCUYZU.jpg&w=1440",
+          "width": 1440,
+          "height": 990,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp",
+      "publishedDateTime": "2021-04-09T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-biden-sets-up-commission-to-study-expansion-of-supreme-court-live.md",
+      "title": "Biden sets up commission to study expansion of supreme court – live",
+      "excerpt": "Updated at 1.18pm EDT Buttigieg said he hadn’t met with Senator Joe Manchin, a conservative Democrat who is opposed to Biden’s plan to raise the corporate tax rate from 21% to 28%. He prefers a rate of 25%. Buttigieg wouldn’t say how the lower rate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60707c538f088c820d861f0d",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60707c538f088c820d861f0d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 585,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1e6c9b9c790347030e8c43b8c08c58dfda96e8d1/0_0_4500_3000/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb9cf14684e5c64e087f4e257a823f6f",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates",
+      "publishedDateTime": "2021-04-09T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-white-house-blames-error-after-biden-campaign-fundraising-page-linked-on-gov-website.md",
+      "title": "White House blames 'error' after Biden campaign fundraising page linked on .gov website",
+      "excerpt": "The White House said Thursday that a link to a page on the Biden campaign website in the WhiteHouse.gov fact sheet for the president's $2 trillion-plus spending plan was put there in error. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tu_TRhW1f8o/white-house-biden-campaign-fundraising-link-gov-website",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tu_TRhW1f8o/white-house-biden-campaign-fundraising-link-gov-website",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/white-house-biden-campaign-fundraising-link-gov-website.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-campaign-fundraising-link-gov-website.amp",
+      "publishedDateTime": "2021-04-09T09:09:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-mike-pence-memoir-could-define-him-for-2024-but-donald-trump-looms-large.md",
+      "title": "Mike Pence Memoir Could Define Him for 2024, but Donald Trump Looms Large",
+      "excerpt": "Mike Pence has an opportunity to guide the narrative of his political career thus far with his upcoming memoir. And with the first of two parts due for release in 2023, the book is perfectly timed for a potential presidential run the next year. However ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227",
+      "originalUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2509,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1774301/mike-pence-georgia.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1",
+      "publishedDateTime": "2021-04-09T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-update-1-bidens-first-budget-marks-sharp-change-from-trump-years.md",
+      "title": "UPDATE 1-Biden's first budget marks sharp change from Trump years",
+      "excerpt": "WASHINGTON, April 9 (Reuters) - U.S. President Joe Biden asked Congress to sharply increase spending to combat climate change and gun violence in a budget that marks a sharp departure from his predecessor, Donald Trump. The $1.5 trillion budget ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-biden-budget-climate-idUSL1N2M21ES",
+      "originalUrl": "https://www.reuters.com/article/usa-biden-budget-climate-idUSL1N2M21ES",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2240,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557841696&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH380MD",
+          "width": 860,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2M21ES",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2M21ES",
+      "publishedDateTime": "2021-04-09T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-marjorie-taylor-greene-slams-anti-trump-republican-consultants-calls-them-poison-to-party.md",
+      "title": "Marjorie Taylor Greene Slams Anti-Trump 'Republican' Consultants, Calls Them Poison to Party",
+      "excerpt": "Representative Marjorie Taylor Greene (R-Ga.), a staunch supporter of former President Donald Trump, criticized those who think it's best to distance themselves from him as being a \"poison\" to the GOP. After Trump's exit from the White House, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/marjorie-taylor-greene-slams-anti-trump-republican-consultants-calls-them-poison-party-1582381",
+      "originalUrl": "https://www.newsweek.com/marjorie-taylor-greene-slams-anti-trump-republican-consultants-calls-them-poison-party-1582381",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1774623/marjorie-taylor-greene-trump.jpg",
+          "width": 2500,
+          "height": 1653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/marjorie-taylor-greene-slams-anti-trump-republican-consultants-calls-them-poison-party-1582381?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/marjorie-taylor-greene-slams-anti-trump-republican-consultants-calls-them-poison-party-1582381?amp=1",
+      "publishedDateTime": "2021-04-09T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-house-gop-wants-biden-admin-to-review-nys-2b-fund-for-illegal-immigrants-put-american-families-first.md",
+      "title": "House GOP wants Biden admin to review NY's $2B fund for illegal immigrants: ‘Put American families first’",
+      "excerpt": "The top Republicans on two House committees are pressing Biden coronavirus rescue plan czar Eugene Sperling to review the $2 billion fund New York created this week aimed at giving coronavirus relief money to illegal immigrants. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Cd9Yaj4eqI/house-gop-biden-admin-nyc-2b-fund-illegal-immigrants",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Cd9Yaj4eqI/house-gop-biden-admin-nyc-2b-fund-illegal-immigrants",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Gene-Sperling-Joe-Biden.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-09T06:16:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-donald-trump-endorses-marco-rubio-says-hell-never-let-country-down.md",
+      "title": "Donald Trump Endorses Marco Rubio, Says He'll Never Let Country Down",
+      "excerpt": "Former President Donald Trump has endorsed Senator Marco Rubio (R-FL) in a post on the messaging service Telegram on Friday morning. \"It is my honor to give U.S. Senator Marco Rubio my Complete and Total Endorsement,\" Trump wrote. \"Marco has been a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326",
+      "originalUrl": "https://www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1774461/trump-marco-rubio-other-senators.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326?amp=1",
+      "publishedDateTime": "2021-04-09T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-milwaukee-asks-to-sanction-trump-over-baseless-election-suit.md",
+      "title": "Milwaukee asks to sanction Trump over ‘baseless’ election suit",
+      "excerpt": "Donald Trump and his lawyers should pay more than $65,000 in legal fees to Milwaukee County and face additional sanctions for filing a “baseless” lawsuit trying to overturn the result of the presidential election, Wisconsin’s biggest metropolitan ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 280,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/SxmmnkCuK8npJYpMweFwVOqZLOI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TP6T4HP25W24BFJK5EIPZTUMX4.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html?outputType=amp",
+      "publishedDateTime": "2021-04-09T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-trump-other-potential-2024-gop-contenders-gathering-at-major-retreat.md",
+      "title": "Trump, other potential 2024 GOP contenders, gathering at major retreat",
+      "excerpt": "... Trump’s influence is not big enough and we have some donors who think that Trump’s influence is too much.\" \"The party is bigger than any one candidate. Clearly, Donald Trump is a big force in the Republican Party but I think the key for us moving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat",
+      "originalUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/mar-a-lago.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp",
+      "publishedDateTime": "2021-04-09T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-melania-trump-tough-smart-and-knows-what-she-wants-out-of-marriage-biographers-say.md",
+      "title": "Melania Trump 'Tough,' Smart And Knows What She Wants Out Of Marriage, Biographers Say",
+      "excerpt": "Four of Melania Trump's biographers have some conflicting views about the former first lady, but they all agreed that she is \"tough\" and smart, according to a report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/melania-trump-tough-smart-knows-what-she-wants-out-marriage-biographers-say-3177648",
+      "originalUrl": "https://www.ibtimes.com/melania-trump-tough-smart-knows-what-she-wants-out-marriage-biographers-say-3177648",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/melania-trump-seen-here-on-january-20-which.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/melania-trump-tough-smart-knows-what-she-wants-out-marriage-biographers-say-3177648?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-tough-smart-knows-what-she-wants-out-marriage-biographers-say-3177648?amp=1",
+      "publishedDateTime": "2021-04-09T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-trumps-quieter-hold-on-gop-stays-strong-the-note.md",
       "title": "Trump's quieter hold on GOP stays strong: The Note",
       "excerpt": "But they share a focal point: former President Donald Trump. The gatherings, organized by the Republican National Committee and two different Trump-friendly outside groups, will take place at and ...",
@@ -62,7 +648,7 @@
       "originalUrl": "https://www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -106,21 +692,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-09-washington-moves-of-the-week-hoosiers-in-dc-landed-big-jobs-this-week-a-sign-of-the-sprawling-networks-of-mike-pence-and-pete-buttigieg.md",
-      "title": "Washington moves of the week: Hoosiers in DC landed big jobs this week, a sign of the sprawling networks of Mike Pence and Pete Buttigieg",
-      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% A diaspora of Hoosier politicos in DC made big job moves this week, a sign of the enduring and sprawling political networks forged by former Vice President Mike Pence and Transportation Secretary Pete Buttigieg.",
+      "path": "_news/2021-04-09-first-thing-biden-rails-against-epidemic-of-us-gun-violence.md",
+      "title": "First Thing: Biden rails against ‘epidemic’ of US gun violence",
+      "excerpt": "Joe Biden has described gun violence in the US as an “epidemic” and an “international embarrassment”, in an emotional address at the White House after a series of mass shootings in recent weeks. The address follows his announcement of a series of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/heres-who-got-hired-in-washington-this-week-buttigieg-pence-2021-4",
-      "originalUrl": "https://www.businessinsider.com/heres-who-got-hired-in-washington-this-week-buttigieg-pence-2021-4",
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/09/first-thing-biden-lambasts-epidemic-of-us-gun-violence",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/09/first-thing-biden-lambasts-epidemic-of-us-gun-violence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 365,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/606f7cb54d3e410018b70217?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://i.guim.co.uk/img/media/fc8e56209695d10f1fb13dc3536cd73f952d12cf/0_301_6045_3627/master/6045.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d895af94bd246ac6c6a3bc9a18931e9f",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -128,16 +714,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-09T01:01:00-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/09/first-thing-biden-lambasts-epidemic-of-us-gun-violence",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/09/first-thing-biden-lambasts-epidemic-of-us-gun-violence",
+      "publishedDateTime": "2021-04-09T02:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -154,7 +740,7 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
+        "Joe Biden"
       ]
     },
     {
@@ -170,7 +756,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 715,
+      "heat": 655,
       "tags": null,
       "images": [
         {
@@ -379,114 +965,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-09-haaland-meets-with-utah-politicians-tribes-as-biden-weighs-monument-changes.md",
-      "title": "Haaland meets with Utah politicians, tribes as Biden weighs monument changes",
-      "excerpt": "tribal leaders and other stakeholders Wednesday and Thursday as President Biden Joe Biden Anne Frank's stepsister: Trump 'obviously admired Hitler' Biden-GOP infrastructure talks off to rocky ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs",
-      "originalUrl": "https://thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bearsearsmonument.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/547260-haaland-meets-with-utah-politicians-tribes-while-biden-weighs?amp",
-      "publishedDateTime": "2021-04-08T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-trump-endorses-gop-kentucky-sen-rand-paul-for-reelection-in-2022.md",
-      "title": "Trump endorses GOP Kentucky Sen. Rand Paul for reelection in 2022",
-      "excerpt": "Former President Donald Trump endorsed GOP Kentucky Sen. Rand Paul for reelection on Thursday, affirming his support for the longtime senator ahead of the 2022 midterms.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cb8HUiUsXdQ/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cb8HUiUsXdQ/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 470,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a70ea2ed-ad0d-4165-8d02-83e4d493ca4f/3be61b07-b2e2-48c8-b609-6bd57a9d554b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp",
-      "publishedDateTime": "2021-04-08T14:59:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-08-rep-kat-cammack-joe-biden-has-become-trafficker-in-chief-of-southern-border-crisis.md",
       "title": "Rep. Kat Cammack: Joe Biden has become 'trafficker-in-chief' of southern border 'crisis'",
       "excerpt": "Congresswoman Kat Cammack, R-Fla., called out her Democrat colleagues Thursday for calling the border situation anything but a \"crisis,\" telling \"The Story\" the Biden administration should have followed Trump’s lead.",
@@ -499,7 +977,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 206,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -592,6 +1070,58 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-mcconnells-home-state-bridge-symbol-of-infrastructure-standoff-with-biden.md",
+      "title": "McConnell's home state bridge symbol of infrastructure standoff with Biden",
+      "excerpt": "Now, though, McConnell is flatly opposed to President Joe Biden's sweeping infrastructure plan that would likely do just that, and it's become a symbol of how even local priorities popular with ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212",
+      "originalUrl": "https://abcnews.go.com/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/brent-spence-bridge-file-gty-jef-210407_1617823616171_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212",
+      "publishedDateTime": "2021-04-08T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -812,558 +1342,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-epa-replaces-trump-era-chemical-guidance-calling-it-compromised-by-politics.md",
-      "title": "EPA replaces Trump-era chemical guidance, calling it 'compromised' by politics",
-      "excerpt": "The Biden-led Environmental Protection Agency says Trump administration political officials \"compromised\" an assessment of chemical dangers and has replaced it with a new one they say \"upholds the tenants of scientific integrity.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GfiiSe6n1nw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GfiiSe6n1nw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170629172604-epa-environmental-protection-agency-logo-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/08/politics/environmental-protection-agency-chemical-guidance/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/environmental-protection-agency-chemical-guidance/index.html",
-      "publishedDateTime": "2021-04-08T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-biden-obama-talk-regularly-in-close-touch-on-a-range-of-issues-white-house-says.md",
-      "title": "Biden, Obama talk 'regularly,' in 'close touch' on a 'range' of issues, White House says",
-      "excerpt": "The White House on Thursday said President Biden and former President Barack Obama \"talk regularly\" about a \"range of issues,\" as well as personal matters, but did not disclose the frequency of those conversations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lRR-zo_udrQ/biden-obama-talk-regularly",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lRR-zo_udrQ/biden-obama-talk-regularly",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-obama-talk-regularly.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-talk-regularly.amp",
-      "publishedDateTime": "2021-04-08T11:38:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-biden-says-gun-violence-in-us-is-an-embarrassment.md",
-      "title": "Biden says gun violence in U.S. is an 'embarrassment’",
-      "excerpt": "News Agency Biden says gun violence in U.S. is an 'embarrassment’ Posted . President Joe Biden called gun violence in the U.S. an 'epidemic' as he announced limited measures to",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOVE7O393Z",
-      "originalUrl": "https://www.reuters.com/video/watch/idOVE7O393Z",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20210408&i=OVE7O393Z&r=OVE7O393Z&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-trumps-judicial-appointments-worsened-racial-diversity-in-the-federal-courts.md",
-      "title": "Trump's judicial appointments worsened racial diversity in the federal courts",
-      "excerpt": "President Donald Trump's appointments made it worse. In just four years, Trump placed 234 judges with lifetime tenure to the federal courts, making up 28% of the current federal judiciary. An overwhelming number — 192 — of Trump's active appointments ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-federal-judge-appointments-racial-diversity-2021-4",
-      "originalUrl": "https://www.businessinsider.com/trump-federal-judge-appointments-racial-diversity-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6059f07b106eb50019d050fb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-federal-judge-appointments-racial-diversity-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-federal-judge-appointments-racial-diversity-2021-4?amp",
-      "publishedDateTime": "2021-04-08T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-gop-group-tells-online-donors-give-every-month-or-we-will-have-to-tell-trump-youre-a-defector.md",
-      "title": "GOP group tells online donors: Give every month or 'we will have to tell Trump you're a DEFECTOR' ",
-      "excerpt": "The campaign arm of House Republicans is using an aggressive tactic to push online donors toward committing to monthly contributions, telling them that opting out of having the same amount automatically charged to their credit card or withdrawn from their bank each month is an act of disloyalty toward",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rmj4mQ13sSg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rmj4mQ13sSg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210319215641-donald-trump-022821-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/08/politics/nrcc-prechecked-boxes-trump-defector/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/nrcc-prechecked-boxes-trump-defector/index.html",
-      "publishedDateTime": "2021-04-08T10:42:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-biden-atf-pick-david-chipman-alarms-gun-rights-groups.md",
-      "title": "Biden ATF pick David Chipman alarms gun rights groups",
-      "excerpt": "Gun rights groups are expressing concern over President Biden's decision to name gun-control advocate David Chipman to lead the ATF.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vo-FSaSTR-Y/biden-gun-control-atf-david-chipman-assault-weapons-nra",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vo-FSaSTR-Y/biden-gun-control-atf-david-chipman-assault-weapons-nra",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21097760253459-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-gun-control-atf-david-chipman-assault-weapons-nra.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-control-atf-david-chipman-assault-weapons-nra.amp",
-      "publishedDateTime": "2021-04-08T10:30:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-historic-border-numbers-undercut-biden-claim-that-surge-happens-every-year.md",
-      "title": "Historic border numbers undercut Biden claim that surge 'happens every year'",
-      "excerpt": "President Biden last month downplayed the surge in migrants coming to the southern border, saying surges happen \"every year\" -- but while that is the case, the numbers released Thursday show that the current surge is dwarfing anything in recent memory.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B6uPpSAipjY/historic-border-numbers-biden-claim-surge-happens-every-year",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B6uPpSAipjY/historic-border-numbers-biden-claim-surge-happens-every-year",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54b524d2-f0cb-4954-bfa7-d2ddf0769067/e418b913-e4db-4b49-aa48-27b56863f89f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/historic-border-numbers-biden-claim-surge-happens-every-year.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/historic-border-numbers-biden-claim-surge-happens-every-year.amp",
-      "publishedDateTime": "2021-04-08T10:21:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-biden-on-the-second-amendment-no-amendment-is-absolute.md",
-      "title": "Biden on the Second Amendment: 'No amendment is absolute'",
-      "excerpt": "President Biden on Thursday, in rolling out a set of executive orders on gun control, said \"no amendment is absolute,\" while maintaining that \"nothing\" he is recommending \"impinges\" on the Second Amendment.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l1JOdmqIrdk/biden-second-amendment-no-amendment-is-absolute",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l1JOdmqIrdk/biden-second-amendment-no-amendment-is-absolute",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-second-amendment-no-amendment-is-absolute.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-second-amendment-no-amendment-is-absolute.amp",
-      "publishedDateTime": "2021-04-08T09:46:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-bidens-100b-internet-overhaul-will-hurt-consumers-stifle-innovation-former-fcc-chairman.md",
-      "title": "Biden's $100B internet overhaul will hurt consumers, stifle innovation: Former FCC chairman",
-      "excerpt": "Former FCC Chairman Ajit Pai said Thursday that the allocation of $100 billion to expand broadband networks in the U.S. under the Biden administration will only serve to hurt consumers and stifle innovation. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7mr5Fi_Lsl8/biden-internet-infrastructure-consumers-innovation-ajit-pai",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7mr5Fi_Lsl8/biden-internet-infrastructure-consumers-innovation-ajit-pai",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-internet-infrastructure-consumers-innovation-ajit-pai.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-internet-infrastructure-consumers-innovation-ajit-pai.amp",
-      "publishedDateTime": "2021-04-08T09:40:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-colion-noir-biden-gun-actions-about-control-not-about-keeping-people-safe.md",
-      "title": "Colion Noir: Biden gun actions about 'control,' not about keeping people safe",
-      "excerpt": "Gun rights activist stands against Biden administration's push for new gun control measures.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbbICGWpIfg/colion-noir-biden-gun-control-orders",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbbICGWpIfg/colion-noir-biden-gun-control-orders",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/colion-noir-biden-gun-control-orders.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colion-noir-biden-gun-control-orders.amp",
-      "publishedDateTime": "2021-04-08T08:42:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

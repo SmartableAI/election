@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Brian Kemp Accuses Stacey Abrams, Joe Biden of Lying That Led to MLB All-Star Game Pullout"
-    excerpt: "During a Saturday press conference at the Georgia State Capitol speaking on Major League Baseball's (MLB) decision to pull the All-Star Game out of Atlanta, Governor Brian Kemp accused President Joe Biden and politician and activist Stacey Abrams of lying ..."
-    publishedDateTime: 2021-04-03T16:35:00Z
-    webUrl: "https://www.newsweek.com/brian-kemp-accuses-stacey-abrams-joe-biden-lying-that-led-mlb-all-star-game-pullout-1580885"
-    ampWebUrl: "https://www.newsweek.com/brian-kemp-accuses-stacey-abrams-joe-biden-lying-that-led-mlb-all-star-game-pullout-1580885?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brian-kemp-accuses-stacey-abrams-joe-biden-lying-that-led-mlb-all-star-game-pullout-1580885?amp=1"
+  - title: "Biden affirms U.S. 'unwavering support' for Ukraine in call: statement"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden on Friday expressed the United States’ strong support for Ukraine in a call with the country’s president, Volodymyr Zelenskiy, the White House said. “President Biden affirmed the United States ..."
+    publishedDateTime: 2021-04-02T14:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-ukraine-biden-idUSKBN2BP14C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BP14C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BP14C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210402&t=2&i=1557158938&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH310OJ"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "President Joe Biden Continues Hard Line Against Russia, Offers Ukraine 'Unwavering Support'"
+    excerpt: "President Joe Biden on Friday offered \"unwavering support\" to Ukraine and reiterated his strong stance against Russian aggression amid reports of Russian actions near the Ukrainian border. After the president's Friday call with Ukrainian President Volodymyr Zelenskiy,"
+    publishedDateTime: 2021-04-02T19:40:00Z
+    webUrl: "https://www.newsweek.com/president-joe-biden-continues-hard-line-against-russia-offers-ukraine-unwavering-support-1580775"
+    ampWebUrl: "https://www.newsweek.com/president-joe-biden-continues-hard-line-against-russia-offers-ukraine-unwavering-support-1580775?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/president-joe-biden-continues-hard-line-against-russia-offers-ukraine-unwavering-support-1580775?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
     quality: 115
     images:
-      - url: "https://d.newsweek.com/en/full/1771329/georgia-governor-brian-kemp.jpg"
-        width: 1024
-        height: 683
+      - url: "https://d.newsweek.com/en/full/1771203/president-joe-biden.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "President Joe Biden says he would 'strongly support' moving the MLB All-Star Game out of Atlanta"
     excerpt: "In an interview on ESPN's \"SportsCenter\" on Wednesday night, President Joe Biden said that he would \"strongly support\" moving the 2021 MLB All-Star Game out of Atlanta. That was in response to a question about Major League Baseball Players Association ..."

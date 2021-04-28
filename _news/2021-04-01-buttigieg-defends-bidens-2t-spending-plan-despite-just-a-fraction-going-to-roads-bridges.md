@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here's how Nancy Pelosi could personally benefit from Biden’s $2T spending bill"
-    excerpt: "House Speaker Nancy Pelosi, D-Calif., is positioned to potentially personally benefit from President Biden’s $2 trillion spending bill – and here's how she could do it."
-    publishedDateTime: 2021-04-05T16:11:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QUudE0KtKOE/biden-spending-bill-pelosi-tesla-husband"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-spending-bill-pelosi-tesla-husband.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spending-bill-pelosi-tesla-husband.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6006abae-c244-4c3a-9668-00383f221969/3d269837-fe51-4751-9b4e-d1ca0217c647/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Former Sen. Perdue slams Biden spending bill as a 'climate change bill at its roots'"
     excerpt: "Former Georgia Senator David Perdue slammed President Biden's $2 trillion infrastructure spending bill Thursday, saying it was \"a climate change bill at its roots.\" "
     publishedDateTime: 2021-04-01T23:56:05Z
@@ -63,37 +47,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Zeldin slams Pelosi for praising Biden's handling of border: 'She is a dishonest hack'"
-    excerpt: "House Speaker Nancy Pelosi, D-Calif., is a \"dishonest hack\" who needs to be replaced by someone new in Congress, Rep. Lee Zeldin, R-N.Y., told \"Fox & Friends\" on Thursday."
-    publishedDateTime: 2021-04-08T13:53:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_mtWpY9qUas/rep-zeldin-slams-pelosi-for-praising-bidens-handling-of-border"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-zeldin-slams-pelosi-for-praising-bidens-handling-of-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-zeldin-slams-pelosi-for-praising-bidens-handling-of-border.amp"
+  - title: "PA candidate running to be first Black Republican woman in Senate slams Biden over past ‘ain't Black’ comments"
+    excerpt: "Kathy Barnette, a Black woman from Pennsylvania running as a Republican for U.S. Senate, criticized President Biden's previous comments on race."
+    publishedDateTime: 2021-04-06T21:12:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_a5lmf0mJyY/pa-senate-candidate-kathy-barnette-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/pa-senate-candidate-kathy-barnette-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pa-senate-candidate-kathy-barnette-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 155
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Republican senators line up against Biden's massive $2.2T spending bill: 'Far cry away from' infrastructure"
-    excerpt: "The opposition is coming even from moderates who attempted to work with Biden on the coronavirus stimulus plan."
-    publishedDateTime: 2021-04-01T13:52:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/53yiLDIzkjM/republicans-bidens-spending-bill-far-cry-away-infrastructure"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-bidens-spending-bill-far-cry-away-infrastructure.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-bidens-spending-bill-far-cry-away-infrastructure.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d9958d4-eee9-4369-9440-5a9fdb89d147/06ecc847-53bc-4476-af9c-b29f9c048f25/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "R/xTnds8qambFuIp731K4TfOCR6CJI22hljr9nJhA32WfLWonPKQBkEsdfz1czLLHQaWiL3O93Wq6Ph6nznjMmIfc0oaO3BL1FEXkZrc3lq2g7WRxm/hOiwCeGkXV90qdUMB6QD3glQSqVKMl/E8lyRg6q1a5+HqnPg5Hlzm3lpeyogyn+72Gb6zpsbolFG8ZDBkapEQ8wj733245yyUtXzMU5PSOJGIF3V4Mx2b1g5tfQDLeBTQcFqhC3Wd6wPUiY5NOMzs0CsNAsKSl2RFW1IHCXTdBBagFdjL2ClUtZKPpIlupDjCORXp9Zv/xP/qNNNLIiXGCr9EGm/8gEfOGKiAFQ4aoFPuK7xHU2Clf7U=;oY4rc9ud6/4qhA+tLK4X0Q=="

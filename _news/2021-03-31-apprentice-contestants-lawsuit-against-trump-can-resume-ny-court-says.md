@@ -31,6 +31,54 @@ images:
     isCached: true
 
 related:
+  - title: "Two Capitol Police officers sue Trump over Jan. 6 riots"
+    excerpt: "WASHINGTON (Reuters) - Two U.S. Capitol Police officers have filed a lawsuit against former President Donald Trump, saying he incited the deadly Jan. 6 insurrection and was responsible for physical and emotional injuries they suffered as a result."
+    publishedDateTime: 2021-03-31T12:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-capitol-riots-lawsuit/two-capitol-police-officers-sue-trump-over-jan-6-riots-idUSKBN2BN1RC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN1RC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1RC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556880478&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0VN"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Why tech experts are skeptical about plans for a Trump social network"
+    excerpt: "After being banned by most large social networks in January, former President Donald Trump is planning a dramatic return to social media. According to his close advisers, the former president is on the verge of launching a Trump-branded social network to ..."
+    publishedDateTime: 2021-04-01T13:12:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-social-network-tech-experts/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-social-network-tech-experts/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-social-network-tech-experts/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/07/d554aec0-4142-4565-a805-539b25336856/thumbnail/1200x630/35224ea24c8814699aa27412a09cf737/gettyimages-1230468115.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "10 Things in Politics: Trump sees legal danger ahead"
+    excerpt: "THEY MAY STILL SEE HIM IN COURT: Former President Donald Trump doesn't think he's out of the woods yet. His advisors tell him that's he's unlikely to face legal repercussions over the deadly Capitol Riot, but they are increasingly worried about prosecutors ..."
+    publishedDateTime: 2021-04-02T11:14:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-legal-troubles-new-york"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-legal-troubles-new-york?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-legal-troubles-new-york?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/604a96919942cf001865dec9?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Italian restaurant owner mistakenly sanctioned by Trump"
     excerpt: "Verona restaurant and pizzeria owner Alessandro Bazzoni sanctioned in crackdown on blacklisted Venezuelan crude oil"
     publishedDateTime: 2021-04-02T15:29:00Z
@@ -63,85 +111,229 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "‘Momentous error’: Italian businessman mistakenly blacklisted by Trump to sue"
-    excerpt: "Alessandro Bazzoni, who owns a graphic design company in Sardinia, has been unable to trade since 19 January, when his business was slapped with sanctions as part of the Trump administration’s crackdown on blacklisted Venezuelan crude oil. In a case of ..."
-    publishedDateTime: 2021-04-06T18:43:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error?share=twitter"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
-    images:
-      - url: "https://i.guim.co.uk/img/media/77075f50416d6dfd7c52865ed208c33f15ee696b/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a4cb2879f6959f413724f182ed9e8d11"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Italian pizza shop owner mistakenly sanctioned by Trump: ‘I thought it was a joke’"
-    excerpt: "On the very last day President Donald Trump was in office in January, his administration announced new sanctions targeting a catering company in Verona, Italy. According to the U.S. Treasury, the measures were designed to defeat a “network attempting to ..."
-    publishedDateTime: 2021-04-02T14:36:00Z
-    webUrl: "https://www.washingtonpost.com/world/2021/04/02/alessandro-bazzoni-sanctions-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/world/2021/04/02/alessandro-bazzoni-sanctions-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/04/02/alessandro-bazzoni-sanctions-trump/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T6BUOQEQZUI6XKW4V54HAGRQZI.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump's last blunder. Small pizzeria in Italy sanctioned instead of a Venezuelan oil exporter."
-    excerpt: "Two Italian businesses, a Verona pizzeria and a graphic design studio in Sardinia, were put on a Venezuela sanctions list by mistake."
-    publishedDateTime: 2021-04-03T10:36:00Z
-    webUrl: "https://www.businessinsider.com/italy-trump-sanctioned-a-pizzeria-in-final-blunder-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/italy-trump-sanctioned-a-pizzeria-in-final-blunder-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/italy-trump-sanctioned-a-pizzeria-in-final-blunder-2021-4?amp"
+  - title: "Ivanka Trump's women's empowerment program slammed in government report"
+    excerpt: "Former President Donald Trump's eldest daughter and adviser, Ivanka Trump, helped promote the policy program and ushered the bill through Congress. The US Agency for International Development oversaw the implementation of the initiative and was mandated to ..."
+    publishedDateTime: 2021-04-02T01:36:00Z
+    webUrl: "https://www.businessinsider.com/ivanka-trumps-womens-empowerment-program-slammed-in-government-report-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/ivanka-trumps-womens-empowerment-program-slammed-in-government-report-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ivanka-trumps-womens-empowerment-program-slammed-in-government-report-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 113
+    quality: 125
     images:
-      - url: "https://i.insider.com/60683301a7d803001963e9fe?width=1200&format=jpeg"
+      - url: "https://i.insider.com/606648fe52f11d0019431b6b?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "US, Iran agree to begin indirect talks on limiting Iran's nuclear program, nearly 3 years after Trump pulled out of deal"
-    excerpt: "US, Iran agree to begin indirect talks on limiting Iran's nuclear program, nearly 3 years after Trump pulled out of deal WASHINGTON -- US, Iran agree to begin indirect talks on limiting Iran's ..."
-    publishedDateTime: 2021-04-02T14:06:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/us-iran-agree-begin-indirect-talks-limiting-irans-76834146"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-iran-agree-begin-indirect-talks-limiting-irans-76834146"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-iran-agree-begin-indirect-talks-limiting-irans-76834146"
+  - title: "Trump looms large in race for South Carolina GOP chairman"
+    excerpt: "COLUMBIA, S.C. — In South Carolina — where Donald Trump’s 2016 primary victory marked a turning point in solidifying his nomination, and where support for him remained high throughout his term — the contest to lead the state’s Republican Party is ..."
+    publishedDateTime: 2021-04-01T19:01:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-looms-large-in-race-for-south-carolina-gop-chairman/2021/04/01/356112d6-92fb-11eb-aadc-af78701a30ca_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-looms-large-in-race-for-south-carolina-gop-chairman/2021/04/01/356112d6-92fb-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-looms-large-in-race-for-south-carolina-gop-chairman/2021/04/01/356112d6-92fb-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Headhunters having hard time finding jobs for former Trump officials: report"
+    excerpt: "Headhunters have indicated difficulties in finding jobs for former Trump Cabinet officials in the months since leaving their posts,"
+    publishedDateTime: 2021-04-07T18:56:00Z
+    webUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials"
+    ampWebUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/chaoelaine_091919gn6_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "U.S. 'Open' to First Direct Talks With Iran Since Trump Left Nuclear Deal 3 Years Ago"
+    excerpt: "The United States has said it is open to holding its first official, direct talks with Iran since former President Donald Trump left a nuclear deal between the Islamic Republic and major world powers three years ago. Following virtual discussions on Friday ..."
+    publishedDateTime: 2021-04-02T15:25:00Z
+    webUrl: "https://www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687"
+    ampWebUrl: "https://www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1770282/us-iran-flags-united-nations.jpg"
+        width: 2500
+        height: 1779
+        isCached: true
+  - title: "2 Capitol Police officers sue Trump for physical and emotional injuries from Jan. 6 riot"
+    excerpt: "2 Capitol Police officers sue Trump for injuries sustained from riot Two Capitol Police officers filed a civil suit Tuesday against former President Donald Trump for physical and emotional ..."
+    publishedDateTime: 2021-03-31T17:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
     type: article
     provider:
       name: ABCNews
       domain: abcnews.go.com
-    quality: 100
+    quality: 116
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://s.abcnews.com/images/International/trump-jan6-gty-rc-210305_1614953461904_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Sylvester Stallone Becomes Member Of Donald Trump's Private Club Mar-A-Lago: Report"
-    excerpt: "Sylvester Stallone has become a member of Donald Trump's private club after buying a home in Palm Beach, Florida, according to a report."
-    publishedDateTime: 2021-04-08T04:12:00Z
-    webUrl: "https://www.ibtimes.com/sylvester-stallone-becomes-member-donald-trumps-private-club-mar-lago-report-3176798"
-    ampWebUrl: "https://www.ibtimes.com/sylvester-stallone-becomes-member-donald-trumps-private-club-mar-lago-report-3176798?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/sylvester-stallone-becomes-member-donald-trumps-private-club-mar-lago-report-3176798?amp=1"
+  - title: "Ex-Trump Official Sery Kim Rejects Chinese Immigrants, Believes It's OK to Say as a Korean"
+    excerpt: "She also served served as assistant administrator for the Small Business Administration under former President Donald Trump. Kim also argued that the rise in violent attacks against Asian Americans have always existed but are only now being covered by the ..."
+    publishedDateTime: 2021-04-02T21:52:00Z
+    webUrl: "https://www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802"
+    ampWebUrl: "https://www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1771259/sery-kim.jpg"
+        width: 2048
+        height: 1704
+        isCached: true
+  - title: "Two Capitol police officers sue Trump for ‘physical and emotional injuries’ suffered in riots"
+    excerpt: "Two Capitol police officers who battled the mob of pro-Trump supporters who stormed the Capitol on Jan. 6 are now suing the former president for the physical end emotional injuries they say they suffered in the attacks. Support our journalism. Subscribe today."
+    publishedDateTime: 2021-03-31T04:09:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CCXZPMJ4K5BDRADGFLBWQZZQNE.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Former JPMorgan executive quits board of company that collected data for Trump 2020 campaign"
+    excerpt: "Blythe Masters, a former top executive at JPMorgan Chase, is quitting the board of Phunware, a company that created a controversial voter data collection app for Donald Trump's 2020 re-election campaign."
+    publishedDateTime: 2021-04-01T21:42:00Z
+    webUrl: "https://www.cbsnews.com/news/jpmorgan-chase-blythe-masters-phunware-quit/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/jpmorgan-chase-blythe-masters-phunware-quit/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jpmorgan-chase-blythe-masters-phunware-quit/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/01/a95746b1-61b8-487b-b467-7cb8ae7444ca/thumbnail/1200x630/d299cf992ee40f5014c04fd6ddf08d9d/img-aic-2021-blythe-masters.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Matt Gaetz sought preemptive pardon from Trump before he left office, The New York Times reports"
+    excerpt: "Matt Gaetz, a Florida Republican under investigation for alleged human trafficking, sought \"blanket pardons\" for himself and his political allies before former President Donald Trump left office, The New York Times reported Tuesday. The Times, citing two ..."
+    publishedDateTime: 2021-04-07T00:18:00Z
+    webUrl: "https://www.businessinsider.com/matt-gaetz-sought-preemptive-pardon-from-trump-nyt-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/matt-gaetz-sought-preemptive-pardon-from-trump-nyt-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-sought-preemptive-pardon-from-trump-nyt-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/60677c27856cd700198a2fde?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The Supreme Court dismissed as moot a First Amendment case over Trump blocking his critics on Twitter"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% The Supreme Court in a Monday morning ruling dismissed as moot a case over former President Donald Trump blocking Twitter users who criticized him. The Supreme Court vacated a ruling from the Court of Appeals for ..."
+    publishedDateTime: 2021-04-05T15:10:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-dismisses-case-over-trump-blocking-critics-on-twitter-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-dismisses-case-over-trump-blocking-critics-on-twitter-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-dismisses-case-over-trump-blocking-critics-on-twitter-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fa4b12af7d1cb0019e3a22d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Donald Trump's Voice Banned From Facebook, Lara Trump's Video Removed"
+    excerpt: "Lara Trump’s Facebook video in which she interviews her father-in-law, former President Donald Trump, was removed after being informed that his voice is even banned from the platform. Donald Trump was banned from Facebook shortly after the Jan. 6 attacks ..."
+    publishedDateTime: 2021-03-31T19:25:00Z
+    webUrl: "https://www.ibtimes.com/donald-trumps-voice-banned-facebook-lara-trumps-video-removed-3172722"
+    ampWebUrl: "https://www.ibtimes.com/donald-trumps-voice-banned-facebook-lara-trumps-video-removed-3172722?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trumps-voice-banned-facebook-lara-trumps-video-removed-3172722?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 69
+    quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/21/sylvester-stallone.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/14/lara-trump.jpg"
         width: 1024
-        height: 655
+        height: 683
+        isCached: true
+  - title: "Trump looms large in race for South Carolina GOP chairman"
+    excerpt: "COLUMBIA, S.C. (AP) — In South Carolina — where Donald Trump's 2016 primary victory marked a turning point in solidifying his nomination, and where support for him remained high throughout his term — the contest to lead the state's Republican Party ..."
+    publishedDateTime: 2021-04-01T14:58:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-looms-large-in-race-for-South-Carolina-GOP-16069682.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "U.S. Rep. Veronica Escobar joins lawsuit accusing Donald Trump of inciting Capitol riot"
+    excerpt: "by Bryan Mena April 7, 2021 6:33 PM Central U.S. Rep. Veronica Escobar, D-El Paso, speaks during a House Judiciary Committee markup of Articles of Impeachment against President Donald Trump in Washington, D.C. on Dec. 12, 2019. Credit: Matt McClain/Pool ..."
+    publishedDateTime: 2021-04-07T23:33:00Z
+    webUrl: "https://www.texastribune.org/2021/04/07/escobar-trump-lawshit/"
+    ampWebUrl: "https://www.texastribune.org/2021/04/07/escobar-trump-lawshit/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/04/07/escobar-trump-lawshit/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 67
+    images:
+      - url: "https://thumbnails.texastribune.org/aqe7-Li9PzIZ9QIexP_8OQM_5Q8=/1200x630/filters:quality(95)/static.texastribune.org/media/files/6f9c74896c525bff9a658560eee0db9c/Escobar%20Impeachment%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump backs Rep. Mo Brooks in Alabama Senate race, who cheered Capitol rioters for ‘kicking ass’"
+    excerpt: "Former President Donald Trump is throwing his support behind Rep. Mo Brooks in next year’s Alabama Senate race, a staunch supporter who cheered the Jan. 6 crowd at the Capitol for “taking down names and kicking ass."
+    publishedDateTime: 2021-04-07T14:29:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 62
+    images:
+      - url: "https://www.nydailynews.com/resizer/dnPImsXwM3lyMNeIzGI2SPoFcG8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H6KA7POU45DLBDWXB2NPXLDGAA.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "X3BzGnclswB1NAgAW7oJxw480sND/w6bTwCFwgIdneXmL+uXzvwe1Z6nw4eoChgDTLHUliqURfXPytABGiX2ZAHRRgrkgWpBYUx5yE0gANT2gmKuwmRyjRidX+Dwx66r2qJ6QNzQimJEczNsJ1uoO3G7O+m0m8xFFVlyDEO3NybMfrY/Wy5YHnoBWwvCZucQpc+Tp2Rub30Enlcpt4cLGnqjZrYWRjZTFxQVc0U5mrEGvTHRzWMrxhuhgn8BO0YfYFxdxI8cTOGaY2eydxExlLZwCEjkV/ZNUVBoV9Suif/Jilgyf7BkV87Hz+P9EgLsCgfXHC78sKNEaI563jFW0YlafB3F9apjcEhUBIWcPoGfo+j4TttM242Ao8/qKuER2j4gxJdVnRYjwhpA8hL0lqPy8u3r6iyW4h0ksqLaDMu18r3c0xgFdtVsO5oBDRKQISWstTL/kijhgjgsV51t1i2JHHu+l429bmnx+GZhbP/EpeP/vguBgx3APAYZJpwYeVTWDuxabugBjZt2c5TCsQ==;ZnNgpyZzsAYLKMMZKb5/sw=="

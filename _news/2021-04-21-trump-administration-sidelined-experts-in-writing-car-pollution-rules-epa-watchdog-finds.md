@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/04/21/trump-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/04/21/trump-administration-sidelined-experts-writing-car-pollution-rules-epa-watchdog-finds/?outputType=amp"
 type: article
 quality: 116
-heat: 176
+heat: 156
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HDL3CMALFII6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Former WWE wrestler, Trump administration officials and congressman's widow are among 23 candidates in Texas House race"
-    excerpt: "The crowded May race, with 23 candidates, could give Republicans an early look at Trump's staying power in the GOP."
-    publishedDateTime: 2021-04-20T16:43:00Z
-    webUrl: "https://www.cbsnews.com/news/texas-6th-district-special-election-candidates/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/texas-6th-district-special-election-candidates/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/texas-6th-district-special-election-candidates/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 101
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/06/224bf0c0-acf8-4eeb-a673-9440534ef418/thumbnail/1200x630/ebddaf808d5ce6944492d7092389d273/gettyimages-1133282164.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "pSNmtqgwMMvfCfHWjYPFFLnS2uf0nKyL3gxuIhvSrqlRAolFOAcK/vZRAGkGZv9nvExaZ9DlaDmLnn62O53yhWYX80cGij7gmoBnzDRAm/hfJ6aVrNooNeZB5KDFED636hkyhsr4FlqWtu54lKnwpX0HJQEdj01KLFGFJ4JXPQX2Je+VaYEpZCVru1Qn3NY7yZxrEusEa1Fc2CEaqdlpMKj1qh+hlsPjP0KYVSV0oi8pkvA2qNW+VvfVCWxBdM/LztxNome5ZNbTlWxrzxJco59g5rAVk/P98VMwT6ns/sFY9T1kLwyewTLZv1unbmy9q+zsmkCXIA273Sas9Nt1GX08izNk42U9KnIMcsKljv4+4UQhA2ky8S/NKtRrO/dcuspv2Ah2I0HP96brdEgE9lB/q5XU0t09f+0wFaWpLpWFO0Ex+pjar8f7ZK5ecsf2mbNkAgU/W5a5CWOPIbKafQTSxPwwOTKP9zw4/uampTEL8aveE9mrSAzqMNIPFqNoi8c/xo4l10i/Fbha52bSkQ==;ZD+7qADFrN9yYwZRMzf67w=="

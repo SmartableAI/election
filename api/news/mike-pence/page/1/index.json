@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-27-simon-schuster-staffers-call-for-mike-pence-memoir-to-be-canceled.md",
+      "title": "Simon & Schuster staffers call for Mike Pence memoir to be canceled",
+      "excerpt": "Simon & Schuster employees want the publisher to stop doing business with Trump administration officials — starting with Vice President Mike Pence. In a letter Monday to Simon &",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/26/simon-schuster-staffers-call-for-mike-pence-memoir-to-be-canceled/",
+      "originalUrl": "https://nypost.com/2021/04/26/simon-schuster-staffers-call-for-mike-pence-memoir-to-be-canceled/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/mike-pence-book.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/26/simon-schuster-staffers-call-for-mike-pence-memoir-to-be-canceled/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/26/simon-schuster-staffers-call-for-mike-pence-memoir-to-be-canceled/amp/",
+      "publishedDateTime": "2021-04-26T18:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-pence-hits-dems-over-border-crisis-touts-trumps-success-stemming-illegal-immigration.md",
       "title": "Pence hits Dems over border crisis, touts Trump's success stemming illegal immigration",
       "excerpt": "Former Vice President Mike Pence on Wednesday hit President Biden and Democrats for the escalating crisis at the southern border, while touting the Trump administration’s reduction of illegal immigration -- saying Biden inherited \"the most secure southern border in American history.\"",
@@ -99,54 +147,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-simon-schuster-will-publish-mike-pences-memoir-despite-staff-objections.md",
-      "title": "Simon & Schuster will publish Mike Pence’s memoir despite staff objections",
-      "excerpt": "Simon & Schuster says it will publish former Vice President Mike Pence’s memoir despite objections from employees who signed petitions demanding the company not sign book deals with",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/21/simon-schuster-reportedly-publishing-mike-pences-memoir/",
-      "originalUrl": "https://nypost.com/2021/04/21/simon-schuster-reportedly-publishing-mike-pences-memoir/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/mike-pence-book-hp.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/21/simon-schuster-reportedly-publishing-mike-pences-memoir/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/21/simon-schuster-reportedly-publishing-mike-pences-memoir/amp/",
-      "publishedDateTime": "2021-04-21T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
       ]
     },
     {
@@ -534,7 +534,7 @@
       "originalUrl": "https://www.businessinsider.com/mike-pence-pleaded-with-defense-secretary-clear-the-capitol-ap-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 253,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -587,7 +587,7 @@
       "originalUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2589,
+      "heat": 2509,
       "tags": null,
       "images": [
         {
@@ -629,58 +629,6 @@
         "Election",
         "Mike Pence",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-washington-moves-of-the-week-hoosiers-in-dc-landed-big-jobs-this-week-a-sign-of-the-sprawling-networks-of-mike-pence-and-pete-buttigieg.md",
-      "title": "Washington moves of the week: Hoosiers in DC landed big jobs this week, a sign of the sprawling networks of Mike Pence and Pete Buttigieg",
-      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% A diaspora of Hoosier politicos in DC made big job moves this week, a sign of the enduring and sprawling political networks forged by former Vice President Mike Pence and Transportation Secretary Pete Buttigieg.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/heres-who-got-hired-in-washington-this-week-buttigieg-pence-2021-4",
-      "originalUrl": "https://www.businessinsider.com/heres-who-got-hired-in-washington-this-week-buttigieg-pence-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/606f7cb54d3e410018b70217?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-09T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     },
     {
@@ -905,7 +853,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 649,
+      "heat": 489,
       "tags": null,
       "images": [
         {
@@ -1051,6 +999,59 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-donald-trump-fans-say-mike-pence-betraying-him-with-potential-2024-run.md",
+      "title": "Donald Trump Fans Say Mike Pence 'Betraying' Him With Potential 2024 Run",
+      "excerpt": "Some prominent pro-Trump social media users have offered harsh criticism of former Vice President Mike Pence amid suggestions that the Republican may be looking at a presidential run in 2024. Though former President Donald Trump remains the favorite to win ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393",
+      "originalUrl": "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 509,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1768451/former-vice-president-pence-karen-pence.jpg",
+          "width": 2037,
+          "height": 1358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393?amp=1",
+      "publishedDateTime": "2021-04-01T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
       ]
     },
     {
@@ -1201,21 +1202,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-30-trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.md",
-      "title": "Trump's heir? Pence reemerges, lays groundwork for 2024 run",
-      "excerpt": "Former President Donald Trump recently rattled off the names of those he viewed as future leaders of the Republican Party, including Sens. Josh Hawley and Ted Cruz along with Florida Gov. Ron DeSantis",
+      "path": "_news/2021-03-31-pence-emerges-lays-groundwork-for-2024-white-house-run.md",
+      "title": "Pence emerges, lays groundwork for 2024 White House run",
+      "excerpt": "New York City Mayor Bill de Blasio called the video of the attack “absolutely disgusting and outrageous” and said it was “absolutely unacceptable” that witnesses did not",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
+      "webUrl": "https://www.mercurynews.com/2021/03/30/pence-emerges-lays-groundwork-for-2024-white-house-run/",
+      "originalUrl": "https://www.mercurynews.com/2021/03/30/pence-emerges-lays-groundwork-for-2024-white-house-run/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1030,
+      "heat": 115,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_8dd217cdefef407ab9354e165aef7d37_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/03/sjm-937101.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1223,324 +1224,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
-      "publishedDateTime": "2021-03-30T02:50:00-07:00",
+      "ampWebUrl": "https://www.mercurynews.com/2021/03/30/pence-emerges-lays-groundwork-for-2024-white-house-run/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/03/30/pence-emerges-lays-groundwork-for-2024-white-house-run/amp/",
+      "publishedDateTime": "2021-03-30T11:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-pence-to-headline-benefit-dinner-at-faulkner-university.md",
-      "title": "Pence to headline benefit dinner at Faulkner University",
-      "excerpt": "Former U.S. Vice President Mike Pence is scheduled to visit Alabama in the fall as part of a benefit for Faulkner University. Faulkner President Mike Williams said Pence will be the keynote speaker for the school's annual benefit dinner scheduled to occur at the Renaissance Hotel and Convention Center on Oct.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/article/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Pence-to-headline-benefit-dinner-at-Faulkner-16058929.php",
-      "publishedDateTime": "2021-03-28T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-trump-didnt-include-mike-pence-in-his-list-of-very-good-republicans-and-possible-2024-presidential-candidates.md",
-      "title": "Trump didn't include Mike Pence in his list of 'very good' Republicans and possible 2024 presidential candidates",
-      "excerpt": "During the interview, Trump also repeated his false claims that Pence could have rejected certain states' Electoral College votes during the Jan. 6 joint session of Congress. \"It's too bad Mike Pence didn't go back, because you would have had a much ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3",
-      "originalUrl": "https://www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6058bad6138e680019ad92eb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-didnt-include-pence-in-his-list-of-very-good-republicans-2021-3?amp",
-      "publishedDateTime": "2021-03-22T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-pence-endorses-sarah-huckabee-sanders-for-arkansas-governor.md",
-      "title": "Pence endorses Sarah Huckabee Sanders for Arkansas governor",
-      "excerpt": "Former Vice President Mike Pence Michael (Mike) Richard Pence In 'restoring America's soul,' Biden can become a hero for the persecuted Pences announce birth of first grandchild White House faces ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/543279-pence-endorses-sarah-huckabee-sanders-for-arkansas-governor",
-      "originalUrl": "https://thehill.com/homenews/campaign/543279-pence-endorses-sarah-huckabee-sanders-for-arkansas-governor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/pencemike_11192020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/543279-pence-endorses-sarah-huckabee-sanders-for-arkansas-governor?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/543279-pence-endorses-sarah-huckabee-sanders-for-arkansas-governor?amp",
-      "publishedDateTime": "2021-03-15T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-mike-pence-welcomes-first-grandchild-with-sweet-photo.md",
-      "title": "Mike Pence welcomes first grandchild with sweet photo",
-      "excerpt": "Former Vice President Mike Pence’s premature gray always made him look the part of a grandfather — now he has the grandchild to go with it. Pence and wife Karen announced the birth of Avery",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/13/mike-pence-welcomes-first-grandchild-with-sweet-photo/",
-      "originalUrl": "https://nypost.com/2021/03/13/mike-pence-welcomes-first-grandchild-with-sweet-photo/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/210313-mike-pence-grandchild.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/13/mike-pence-welcomes-first-grandchild-with-sweet-photo/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/13/mike-pence-welcomes-first-grandchild-with-sweet-photo/amp/",
-      "publishedDateTime": "2021-03-13T11:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-former-mike-pence-adviser-says-donald-trump-didnt-care-about-covid-stricken-cruise-ship.md",
-      "title": "Former Mike Pence Adviser Says Donald Trump 'Didn't Care' About COVID-Stricken Cruise Ship",
-      "excerpt": "A former adviser to Vice President Mike Pence has said Donald Trump didn't care about people suffering from COVID-19 on board a cruise ship near the start of the pandemic. Olivia Troye, a national security adviser who was on the White House coronavirus ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-adviser-says-donald-trump-did-not-care-about-covid-cruise-ship-1575308",
-      "originalUrl": "https://www.newsweek.com/mike-pence-adviser-says-donald-trump-did-not-care-about-covid-cruise-ship-1575308",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 410,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1753218/former-president-donald-trump-new-york.jpg",
-          "width": 2978,
-          "height": 1820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-adviser-says-donald-trump-did-not-care-about-covid-cruise-ship-1575308?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-adviser-says-donald-trump-did-not-care-about-covid-cruise-ship-1575308?amp=1",
-      "publishedDateTime": "2021-03-11T00:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-pence-to-headline-event-in-south-carolina-in-april.md",
-      "title": "Pence to headline event in South Carolina in April",
-      "excerpt": "Former Vice President Mike Pence is set to headline a major event next month for a conservative Christian organization in South Carolina, an appearance likely to stoke speculation about his own presidential ambitions. A Pence spokesman confirms the former ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/mike-pence-south-carolina-event-april/",
-      "originalUrl": "https://www.cbsnews.com/news/mike-pence-south-carolina-event-april/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/26/2f065a4b-c323-4b75-a050-9741f82fa8c7/thumbnail/1200x630/9a39ef2588570d3035fb1e97f02eb586/gettyimages-1229222282.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/mike-pence-south-carolina-event-april/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-south-carolina-event-april/",
-      "publishedDateTime": "2021-03-09T19:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1554,5 +1245,5 @@
       ]
     }
   ],
-  "nextPage": 2
+  "nextPage": null
 }

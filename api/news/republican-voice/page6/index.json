@@ -2,6 +2,342 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-01-former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots.md",
+      "title": "Former Sen. Perdue slams Biden spending bill as a 'climate change bill at its roots'",
+      "excerpt": "Former Georgia Senator David Perdue slammed President Biden's $2 trillion infrastructure spending bill Thursday, saying it was \"a climate change bill at its roots.\" ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/arhZXkmdero/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/arhZXkmdero/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots.amp",
+      "publishedDateTime": "2021-04-01T16:56:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-border-crisis-result-of-biden-decisions-never-seen-it-close-to-this-bad-cruz.md",
+      "title": "Border crisis result of Biden decisions, 'never seen it close to this bad': Cruz",
+      "excerpt": "Sen. Ted Cruz, R-Texas, argued on \"America Reports\" Thursday that President Biden \"caused the border crisis we are seeing right now\" through his immigration actions during his first week in office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/e7ZyQ1_wTGc/border-crisis-critical-decisions-biden-president-cruz",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/e7ZyQ1_wTGc/border-crisis-critical-decisions-biden-president-cruz",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 250,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz.amp",
+      "publishedDateTime": "2021-04-01T13:40:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-biden-hhs-ad-campaign-mirrors-dem-super-pac-ads.md",
+      "title": "Biden HHS ad campaign mirrors Dem super PAC ads",
+      "excerpt": "While it is normal for ad blitzes promoting legislation to happen, the ads coincided with a polling memo put out by Priorities USA after the release of the initial ads saying that voters needed to witness Democrats “deliver on policies that provide real benefits to their lives.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ibPjcWhOtfM/hhs-ad-health-coverage-covid-relief-bill",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ibPjcWhOtfM/hhs-ad-health-coverage-covid-relief-bill",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e887285-a232-43af-9f21-5ce5e41052d1/0a5d2b63-0c9e-4b53-82ce-05b1b70011c3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief-bill.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief-bill.amp",
+      "publishedDateTime": "2021-04-01T13:37:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-biden-supports-vaccines-for-undocumented-immigrants-psaki.md",
+      "title": "Biden supports vaccines for undocumented immigrants: Psaki",
+      "excerpt": "White House press secretary Jen Psaki said during Thursday's press briefing that President Biden supports coronavirus vaccines for undocumented immigrants.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EV8mr7fjMXU/biden-vaccines-undocumented-immigrants-coronavirus-florida",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EV8mr7fjMXU/biden-vaccines-undocumented-immigrants-coronavirus-florida",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/COVID-Vaccine-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-vaccines-undocumented-immigrants-coronavirus-florida.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccines-undocumented-immigrants-coronavirus-florida.amp",
+      "publishedDateTime": "2021-04-01T12:48:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-kennedy-blasts-bidens-massive-spending-plans-moving-toward-the-china-model-of-capitalism.md",
+      "title": "Kennedy blasts Biden's massive spending plans: Moving toward the 'China model of capitalism'",
+      "excerpt": "Republican Louisiana Sen. John Kennedy told \"America's Newsroom\" on Thursday that the Biden administration's infrastructure plan is a \"bold-neo socialist experiment\" that is similar to the \"Chinese model of capitalism.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rTcl9v4xcFs/kennedy-biden-spending-china-neo-socialist-experiment-infrastructure",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rTcl9v4xcFs/kennedy-biden-spending-china-neo-socialist-experiment-infrastructure",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kennedy-biden-spending-china-neo-socialist-experiment-infrastructure.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kennedy-biden-spending-china-neo-socialist-experiment-infrastructure.amp",
+      "publishedDateTime": "2021-04-01T09:58:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-gop-rep-kinzinger-hauls-in-big-bucks-after-facing-trumps-wrath.md",
+      "title": "GOP Rep. Kinzinger hauls in big bucks after facing Trump's wrath",
+      "excerpt": "Rep. Adam Kinzinger, one of the 10 House Republicans who voted in January to impeach President Trump, said he has brought in $2.2 million in fundraising during the first three months of this year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tvxaqG07-58/adam-kinzinger-fundraiser-trump-wrath",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tvxaqG07-58/adam-kinzinger-fundraiser-trump-wrath",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/adam-kinzinger-fundraiser-trump-wrath.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-kinzinger-fundraiser-trump-wrath.amp",
+      "publishedDateTime": "2021-04-01T08:13:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students.md",
       "title": "San Diego county official rips Biden, Newsom as migrant children prioritized over Calif. students",
       "excerpt": "San Diego County Supervisor Jim Desmond sounded off on \"Hannity\" Wednesday, after the Biden administration sent hundreds of Central American migrant children to be housed and formally educated by local teachers at the San Diego Convention Center,",
@@ -71,7 +407,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 295,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -172,62 +508,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-31-pentagon-to-allow-open-transgender-military-service-reversing-trump-policy.md",
-      "title": "Pentagon to allow open transgender military service, reversing Trump policy",
-      "excerpt": "Secretary of Defense Lloyd Austin announced Wednesday that the Pentagon has reversed Trump-era policies, allowing transgender people to openly serve in the U.S. military.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nd2JiDwE0ZA/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nd2JiDwE0ZA/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 293,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe338f15-7644-4efc-b994-c20635154489/a4f8eaa3-e5cb-43d0-9239-d8faa063beb6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dod-to-allow-open-transgender-military-service-reversal-of-trump-era-policies.amp",
-      "publishedDateTime": "2021-03-31T13:45:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-01-donald-trump-moving-forward-with-plans-for-own-social-media-platform.md",
       "title": "Donald Trump ‘moving forward’ with plans for own social media platform",
       "excerpt": "Former President Donald Trump and his team are “moving forward” with plans to create their own social media platform, a report published Wednesday said. “We’re moving forward,”",
@@ -276,25 +556,25 @@
       ]
     },
     {
-      "path": "_news/2021-03-31-trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers.md",
-      "title": "Trump calls Biden jobs plan 'massive giveaway to China,' says it will 'crush American workers'",
-      "excerpt": "Former President Donald Trump called President Biden's jobs plan a \"monstrosity\" that \"would be among the largest self-inflicted economic wounds in history.\"",
+      "path": "_news/2021-03-31-biden-should-keep-dog-major-away-from-people-after-2nd-bite-lawyers.md",
+      "title": "Biden should keep dog Major away from people after 2nd bite: lawyers",
+      "excerpt": "President Biden has a duty to keep his German Shepherd, Major, away from people after the dog bit a second employee, a personal injury lawyer told Fox News.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u3eAlRuK2Rw/trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u3eAlRuK2Rw/trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7EjKAKvN9JU/biden-dog-major-bite-white-house-legal",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7EjKAKvN9JU/biden-dog-major-bite-white-house-legal",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 398,
+      "heat": 595,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/2021-03-23T172225Z_739678050_RC25HM9L4A90_RTRMADP_3_USA-BIDEN.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -302,9 +582,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers.amp",
-      "publishedDateTime": "2021-03-31T11:36:19-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-dog-major-bite-white-house-legal.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dog-major-bite-white-house-legal.amp",
+      "publishedDateTime": "2021-03-31T11:28:04-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -344,7 +624,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 294,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -388,19 +668,188 @@
       ]
     },
     {
-      "path": "_news/2021-03-30-trump-endorses-drew-mckissick-over-lin-wood-for-south-carolina-gop-chair.md",
-      "title": "Trump endorses Drew McKissick over Lin Wood for South Carolina GOP chair",
-      "excerpt": "Former President Donald Trump affirmed his endorsement of longtime ally Drew McKissick in his bid for re-election as South Carolina GOP chairman on Tuesday, shortly after attorney Lin Wood announced his intent to challenge him for the position.",
+      "path": "_news/2021-03-31-dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump.md",
+      "title": "Dr. Scott Atlas blasts 'despicable' Birx and Fauci 'trying to overtly rewrite history' on coronavirus, Trump",
+      "excerpt": "Dr. Scott Atlas, a member of former President Trump's coronavirus task force, blasted his ex-colleagues Drs. Anthony Fauci and Deborah Birx, after they went on CNN and tried to 'rewrite history'",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vIjfA_StU2M/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vIjfA_StU2M/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t4jiTKbgihc/dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t4jiTKbgihc/dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 194,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9425dea-559a-4dae-a3d4-0827e74f47de/9da07aed-eee1-4d47-bd13-f536575751fb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump.amp",
+      "publishedDateTime": "2021-03-30T21:41:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet.md",
+      "title": "Sen. Ron Johnson: Biden border policies facilitating business of the 'most evil people on the planet'",
+      "excerpt": "Sen. Ron Johnson, R-Wis., slammed the Biden administration’s immigration plan as \"misguided\" telling \"Fox News Primetime\" it is going to lead to \"greater inhumanity.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pu62k5rxjm0/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pu62k5rxjm0/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet.amp",
+      "publishedDateTime": "2021-03-30T21:28:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-vp-harris-thanks-guatemalan-president-giammattei-after-his-crackdown-on-migrants-doesnt-visit-border.md",
+      "title": "VP Harris thanks Guatemalan President Giammattei after his crackdown on migrants, doesn't visit border",
+      "excerpt": "Vice President Kamala Harris shared a call with Guatemalan President Alejandro Giammattei Tuesday to discuss immigration amid a surging crisis and despite declining to visit the U.S.-Mexico border herself since taking office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B0pXFkn-dGk/vice-president-harris-guatemalan-president-giammattei-illegal-immigants",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B0pXFkn-dGk/vice-president-harris-guatemalan-president-giammattei-illegal-immigants",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21089772700299.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/vice-president-harris-guatemalan-president-giammattei-illegal-immigants.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-harris-guatemalan-president-giammattei-illegal-immigants.amp",
+      "publishedDateTime": "2021-03-30T18:39:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-trump-endorses-drew-mckissick-over-lin-wood-for-south-carolina-gop-chair.md",
+      "title": "Trump endorses Drew McKissick over Lin Wood for South Carolina GOP chair",
+      "excerpt": "Former President Donald Trump affirmed his endorsement of longtime ally Drew McKissick in his bid for re-election as South Carolina GOP chairman on Tuesday, shortly after attorney Lin Wood announced his intent to challenge him for the position. \"Drew ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair",
+      "originalUrl": "https://www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -416,457 +865,7 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair.amp",
-      "publishedDateTime": "2021-03-30T16:14:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-dems-call-for-firings-of-trump-era-holdovers-in-ssa-over-stimulus-check-delays.md",
-      "title": "Dems call for firings of Trump-era holdovers in SSA over stimulus check delays",
-      "excerpt": "The House Progressive Caucus on Tuesday called for the removal of Trump administration holdover officials they say are responsible for delaying the latest round of stimulus checks to 30 million Americans. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bg53eh9eE6E/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bg53eh9eE6E/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/jaypal-cropped-153a.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp",
-      "publishedDateTime": "2021-03-30T13:55:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-bidens-border-response-blasted-as-half-a-ed-gig-by-texas-congressman.md",
-      "title": "Biden's border response blasted as 'half-a--ed gig' by Texas congressman",
-      "excerpt": "The Texas Republican then unloaded on the president for his border response, saying the country must “stand firm” on border policies and deportations “or we have no borders in this country.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ft53mxi9Udk/texas-border-immigration-republicans-biden-response",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ft53mxi9Udk/texas-border-immigration-republicans-biden-response",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ea87a8c-9e36-48dc-964c-90e65df5002c/f59f4da5-1c73-4ecf-9d66-81afd1c94004/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/texas-border-immigration-republicans-biden-response.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-immigration-republicans-biden-response.amp",
-      "publishedDateTime": "2021-03-30T12:55:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-pavlich-calls-out-vp-harris-stop-laughing-when-youre-asked-serious-questions.md",
-      "title": "Pavlich calls out VP Harris: 'Stop laughing when you're asked serious questions'",
-      "excerpt": "The Biden administration's border policies are creating a catastrophe for everyone, Fox News contributor Katie Pavlich said Tuesday on 'Outnumbered,' in reaction to migrants receiving in-person schooling in San Diego while American students are continuing to learn from home.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ArQxY1XwKlw/kamala-harris-laughs-schools-learning-pavlich",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ArQxY1XwKlw/kamala-harris-laughs-schools-learning-pavlich",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e35288a9-c026-45ee-8d2c-04832f5257c9/5c5c0e96-d1f5-4a09-a864-d89efa3afb85/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-laughs-schools-learning-pavlich.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-schools-learning-pavlich.amp",
-      "publishedDateTime": "2021-03-30T12:41:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-blinken-announces-plans-to-roll-back-trump-era-human-rights-initiatives.md",
-      "title": "Blinken announces plans to roll back Trump-era human rights initiatives",
-      "excerpt": "Secretary of State Antony Blinken diverted from the Trump administration’s human rights priorities as he unveiled the 2020 Country Reports on Human Rights Practices. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QznWelcPtvM/blinken-roll-back-trump-era-human-rights-initiatives-conservatives",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QznWelcPtvM/blinken-roll-back-trump-era-human-rights-initiatives-conservatives",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Blinken-AP.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/blinken-roll-back-trump-era-human-rights-initiatives-conservatives.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blinken-roll-back-trump-era-human-rights-initiatives-conservatives.amp",
-      "publishedDateTime": "2021-03-30T12:38:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-kamala-harris-events-lack-of-clergy-an-insult-to-the-black-community-pastor-says.md",
-      "title": "Kamala Harris event's lack of clergy 'an insult to the Black community,' pastor says",
-      "excerpt": "A pastor in Connecticut said the lack of clergy at an event hosted by Vice President Kamala Harris is \"an insult to the Black community.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0SbM-cSgBq8/kamala-harris-black-community-clergy-insult",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0SbM-cSgBq8/kamala-harris-black-community-clergy-insult",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 238,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/248dc3ad-9eb8-4abe-a05a-57fa33ae3132/2dbf9201-97d3-46d9-93d6-25dc2f60a58b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-black-community-clergy-insult.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-black-community-clergy-insult.amp",
-      "publishedDateTime": "2021-03-30T12:14:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-who-is-judge-ketanji-brown-jackson-bidens-nominee-to-replace-ag-garland-on-powerful-dc-circuit-court.md",
-      "title": "Who is Judge Ketanji Brown Jackson, Biden's nominee to replace AG Garland on powerful DC Circuit Court?",
-      "excerpt": "D.C. District Judge Ketanji Brown Jackson is President Biden's nominee to fill the D.C. Circuit Court of Appeals seat of newly-minted Attorney General Merrick Garland, making her the most high-profile choice among the president's first round of judicial nominations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Je96HMEsnLo/judge-ketanji-brown-jackson-biden-nominee-court",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Je96HMEsnLo/judge-ketanji-brown-jackson-biden-nominee-court",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/judge-ketanji-brown-jackson-biden-nominee-court.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-ketanji-brown-jackson-biden-nominee-court.amp",
-      "publishedDateTime": "2021-03-30T08:38:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-duckworth-on-biden-hesitance-to-complete-troop-withdrawal-we-need-to-do-our-jobs-in-congress.md",
-      "title": "Duckworth on Biden hesitance to complete troop withdrawal: 'We need to do our jobs' in Congress",
-      "excerpt": "Sen. Tammy Duckworth, D-Ill., said that 'we need to do our jobs in the Senate and the House in order to provide transparency for the American people on why and how long troops are in the Middle East.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kEyKXzjtsyc/duckworth-biden-withdrawal-troop-afghanistan-middle-east",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kEyKXzjtsyc/duckworth-biden-withdrawal-troop-afghanistan-middle-east",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/duckworth-biden-withdrawal-troop-afghanistan-middle-east.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/duckworth-biden-withdrawal-troop-afghanistan-middle-east.amp",
-      "publishedDateTime": "2021-03-30T08:32:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-hillary-clinton-john-kerry-repeatedly-attacked-trump-administration-after-leaving-state-department.md",
-      "title": "Hillary Clinton, John Kerry repeatedly attacked Trump administration after leaving State Department",
-      "excerpt": "The New York Times came under fierce criticism Monday for claiming Mike Pompeo stood out as a former secretary of state for his open partisanship, given the outspoken criticisms of the Trump administration by Hillary Clinton and John Kerry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke",
-      "originalUrl": "https://www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/93d6d9ec-ae27-481e-84f7-422080f3e2eb/d669044e-5520-48e2-9a64-2e55a44b5141/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke.amp",
-      "publishedDateTime": "2021-03-30T07:41:00-07:00",
+      "publishedDateTime": "2021-03-30T16:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -895,79 +894,23 @@
       ]
     },
     {
-      "path": "_news/2021-03-30-new-mexico-rancher-encountering-migrants-near-her-house-biden-admin-gave-green-light.md",
-      "title": "New Mexico rancher encountering migrants near her house: Biden admin gave 'green light'",
-      "excerpt": "A rancher from New Mexico, Amanda Adame, told “Fox & Friends” on Tuesday that migrants have been getting “fairly close” to her house and have been asking her for food and water amid the surge at the U.S. southern border.",
+      "path": "_news/2021-03-31-dems-call-for-firings-of-trump-era-holdovers-in-ssa-over-stimulus-check-delays.md",
+      "title": "Dems call for firings of Trump-era holdovers in SSA over stimulus check delays",
+      "excerpt": "The lawmakers blamed Saul -- who was nominated by former President Donald Trump -- for the delays, which they said defied congressional intent and imposed needless anxiety on taxpayers. Saul, in a statement Thursday night, attributed the delay to a lack of ...",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fJw1OxSy79Y/new-mexico-rancher-migrants-house-food-water-biden-green-light",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fJw1OxSy79Y/new-mexico-rancher-migrants-house-food-water-biden-green-light",
+      "webUrl": "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays",
+      "originalUrl": "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 187,
+      "heat": 131,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/new-mexico-rancher-migrants-house-food-water-biden-green-light.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-mexico-rancher-migrants-house-food-water-biden-green-light.amp",
-      "publishedDateTime": "2021-03-30T06:04:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-kamala-harris-stepson-cole-emhoff-calls-out-snl-for-omitting-him-from-family-skit.md",
-      "title": "Kamala Harris' stepson Cole Emhoff calls out 'SNL' for omitting him from family skit",
-      "excerpt": "Kamala Harris' stepson Cole Emhoff was disappointed \"Saturday Night Live\" left him out of a sketch portraying his family.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/kamala-harris-stepson-cole-emhoff-snl-omitting-skit",
-      "originalUrl": "https://www.foxnews.com/entertainment/kamala-harris-stepson-cole-emhoff-snl-omitting-skit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/maya-rudolph-snl.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/jaypal-cropped-153a.jpg?ve=1&tl=1",
           "width": 640,
           "height": 320,
           "title": null,
@@ -977,9 +920,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/kamala-harris-stepson-cole-emhoff-snl-omitting-skit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/kamala-harris-stepson-cole-emhoff-snl-omitting-skit.amp",
-      "publishedDateTime": "2021-03-30T05:54:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp",
+      "publishedDateTime": "2021-03-30T13:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1003,28 +946,28 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
     {
-      "path": "_news/2021-03-30-dnc-chair-jaime-harrison-who-lost-to-graham-in-november-calls-out-senator-over-guns.md",
-      "title": "DNC chair Jaime Harrison-- who lost to Graham in November-- calls out senator over guns",
-      "excerpt": "Democratic National Committee (DNC) chair Jaime Harrison on Monday said Lindsey Graham was \"embarrassing\" both himself and South Carolina after the senator revealed he would use his AR-15 to defend his home if needed.",
+      "path": "_news/2021-03-31-biden-judicial-nominee-would-be-first-muslim-federal-judge-in-us-history.md",
+      "title": "Biden judicial nominee would be first Muslim federal judge in US history",
+      "excerpt": "Some Republicans, meanwhile, have broadly criticized Biden's nominees. \"It's payback time -- we know that liberal dark money organizations spent millions of dollars to put President Joe Biden in the White House in terms of contributing to his campaign.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pMg9SLnuIe8/dnc-chair-jaime-harrison-says-graham-is-embarrassing-south-carolina-despite-senate-race-loss",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pMg9SLnuIe8/dnc-chair-jaime-harrison-says-graham-is-embarrassing-south-carolina-despite-senate-race-loss",
+      "webUrl": "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history",
+      "originalUrl": "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 152,
+      "heat": 134,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Graham-Harrison-Split.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/640/320/joe-biden-AP.jpg?ve=1&tl=1",
           "width": 640,
           "height": 320,
           "title": null,
@@ -1034,9 +977,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dnc-chair-jaime-harrison-says-graham-is-embarrassing-south-carolina-despite-senate-race-loss.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dnc-chair-jaime-harrison-says-graham-is-embarrassing-south-carolina-despite-senate-race-loss.amp",
-      "publishedDateTime": "2021-03-30T02:29:50-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history.amp",
+      "publishedDateTime": "2021-03-30T11:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1051,165 +994,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-trump-launches-45-office-website-amid-speculation-about-his-future.md",
-      "title": "Trump launches '45 Office' website amid speculation about his future",
-      "excerpt": "Former President Donald Trump and former First Lady Melania Trump launched a website Monday in what his office described as a bid to stay in touch with supporters and coordinate future appearances.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPE8UxvPSdk/trump-launches-45-office-website-amid-speculation-about-future",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPE8UxvPSdk/trump-launches-45-office-website-amid-speculation-about-future",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb14def2-f6e9-4f0e-88e8-4bb0b38a9ec8/ffc8e1c0-0304-4e43-8d1f-fa39f4ae0ca9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-launches-45-office-website-amid-speculation-about-future.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-launches-45-office-website-amid-speculation-about-future.amp",
-      "publishedDateTime": "2021-03-29T18:46:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-campos-duffy-blasts-stone-cold-political-operator-biden-claiming-compassion-for-migrants.md",
-      "title": "Campos-Duffy blasts 'stone-cold political operator' Biden claiming compassion for migrants",
-      "excerpt": "On \"Fox News Primetime,\" host Rachel Campos-Duffy slammed President Biden for claiming the migrant border surge is due to his standing as a friendly, compassionate head of state, saying that the president is really overseeing a humanitarian catastrophe.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V7hoNy-nCvg/campos-duffy-blasts-stone-cold-political-operator-biden-claiming-compassion-for-migrants",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V7hoNy-nCvg/campos-duffy-blasts-stone-cold-political-operator-biden-claiming-compassion-for-migrants",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/campos-duffy-blasts-stone-cold-political-operator-biden-claiming-compassion-for-migrants.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/campos-duffy-blasts-stone-cold-political-operator-biden-claiming-compassion-for-migrants.amp",
-      "publishedDateTime": "2021-03-29T17:51:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-buttigieg-no-plan-to-increase-gas-or-mileage-tax-in-biden-infrastructure-plan.md",
-      "title": "Buttigieg: No Plan To Increase Gas Or Mileage Tax In Biden Infrastructure Plan",
-      "excerpt": "Secretary of Transportation Pete Buttigieg pledged on Monday that the Biden infrastructure plan will not feature a tax hike on gas or mileage for those with incomes less than $400,000 in an interview with CNN host Jake Tapper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/03/29/buttigieg_no_plan_to_increase_gas_or_mileage_tax_in_biden_infrastructure_plan.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/03/29/buttigieg_no_plan_to_increase_gas_or_mileage_tax_in_biden_infrastructure_plan.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/53/539105.jpg",
-          "width": 1106,
-          "height": 828,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/03/29/buttigieg_no_plan_to_increase_gas_or_mileage_tax_in_biden_infrastructure_plan.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/29/buttigieg_no_plan_to_increase_gas_or_mileage_tax_in_biden_infrastructure_plan.amp.html",
-      "publishedDateTime": "2021-03-29T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1222,456 +1006,7 @@
         "Joe Biden",
         "Republican Voice"
       ]
-    },
-    {
-      "path": "_news/2021-03-29-trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-covid-19-response.md",
-      "title": "Trump accuses Fauci, Birx of 'trying to reinvent history' on COVID-19 response",
-      "excerpt": "Former President Donald Trump slammed Anthony Fauci and Deborah Birx on Monday, accusing the infectious disease experts of “trying to reinvent history” in televised interviews detailing their roles in combating the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W5TT_L-m9XI/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W5TT_L-m9XI/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb14def2-f6e9-4f0e-88e8-4bb0b38a9ec8/ffc8e1c0-0304-4e43-8d1f-fa39f4ae0ca9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response.amp",
-      "publishedDateTime": "2021-03-29T16:25:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-biden-says-90-of-adults-will-be-eligible-for-covid-vaccine-in-3-weeks.md",
-      "title": "Biden says 90% of adults will be eligible for COVID vaccine in 3 weeks",
-      "excerpt": "President Biden announced on Monday that the \"vast majority\" of Americans will be eligible to get their first COVID-19 vaccination shot by April 19.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kIqwgfBsvEw/biden-covid-vaccine-eligibility",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kIqwgfBsvEw/biden-covid-vaccine-eligibility",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-covid-vaccine-eligibility.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-vaccine-eligibility.amp",
-      "publishedDateTime": "2021-03-29T12:16:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-biden-border-crisis-completely-out-of-control-former-border-patrol-official-warns-on-americas-newsroom.md",
-      "title": "Biden border crisis 'completely out of control,' former Border Patrol official warns on 'America's Newsroom'",
-      "excerpt": "The former acting chief of Border Patrol in Tuscon, Arizona, Jeff Self, said Monday that the situation at the border is 'completely out of control.'",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CG_LA_dUIk8/arizona-border-patrol-chief-border-crisis-out-control",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CG_LA_dUIk8/arizona-border-patrol-chief-border-crisis-out-control",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/arizona-border-patrol-chief-border-crisis-out-control.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-border-patrol-chief-border-crisis-out-control.amp",
-      "publishedDateTime": "2021-03-29T10:25:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-white-house-lists-biden-harris-administration-on-official-website.md",
-      "title": "White House lists ‘Biden-Harris administration’ on official website",
-      "excerpt": "The White House, breaking with tradition, now lists the “Biden-Harris Administration” on its website rather than simply, “the Biden Administration.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/azyRyJ0e1IQ/white-house-lists-biden-harris-administration-on-official-website",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/azyRyJ0e1IQ/white-house-lists-biden-harris-administration-on-official-website",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 900,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-Harris-Administration.png?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-lists-biden-harris-administration-on-official-website.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-lists-biden-harris-administration-on-official-website.amp",
-      "publishedDateTime": "2021-03-28T17:13:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-trump-may-visit-us-mexico-border-region-soon-former-aide-says.md",
-      "title": "Trump may visit US-Mexico border region ‘soon,’ former aide says",
-      "excerpt": "Former President Donald Trump is \"really concerned\" about the migrant situation along the U.S.-Mexico border and may schedule a visit to the region, a former Trump aide said this week.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pyVnr2lPIBY/trump-may-visit-us-mexico-border-region-soon-former-aide-says",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pyVnr2lPIBY/trump-may-visit-us-mexico-border-region-soon-former-aide-says",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/4a1cf299-Trump-border.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-may-visit-us-mexico-border-region-soon-former-aide-says.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-may-visit-us-mexico-border-region-soon-former-aide-says.amp",
-      "publishedDateTime": "2021-03-27T02:07:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-marine-corps-reservist-warns-that-biden-pentagons-woke-rules-and-priorities-endangering-us-security.md",
-      "title": "Marine Corps reservist warns that Biden Pentagon's 'woke' rules and priorities endangering US security",
-      "excerpt": "Marine Corps Reservist Aaron Reitz warned Friday that the increasingly woke dictates coming from the Biden Defense Department are a sign the Pentagon leadership has its priorities backward.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xscbc2R85rU/marine-corps-reservist-warns-biden-woke-pentagon",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xscbc2R85rU/marine-corps-reservist-warns-biden-woke-pentagon",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e22e27ef-4aa1-4453-8264-3d69d494b006/097683f4-e2f8-48cf-8a17-8a75c68350cc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/marine-corps-reservist-warns-biden-woke-pentagon.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/marine-corps-reservist-warns-biden-woke-pentagon.amp",
-      "publishedDateTime": "2021-03-26T20:23:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-tim-scott-blasts-biden-democrats-for-filibuster-flip-flop-they-cry-racist-whenever-they-want-to-scare-you.md",
-      "title": "Tim Scott blasts Biden, Democrats for filibuster flip-flop: They cry 'racist whenever they want to scare you'",
-      "excerpt": "Sen. Tim Scott, R-S.C., ripped President Biden and congressional Democrats Friday for changing their view of the Senate filibuster rule, telling \"Fox News Primetime\" that they are invoking racism in order to scare Republicans.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eQndboNIed0/tim-scott-biden-democrats-filibuster-flip-flop-cry-racist",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eQndboNIed0/tim-scott-biden-democrats-filibuster-flip-flop-cry-racist",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78efa97c-fc3c-4cbc-8c1b-5e8db2d0a57d/0645bd61-7716-4015-ae01-3f9193659c55/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tim-scott-biden-democrats-filibuster-flip-flop-cry-racist.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tim-scott-biden-democrats-filibuster-flip-flop-cry-racist.amp",
-      "publishedDateTime": "2021-03-26T19:41:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-frustrated-trump-demands-to-know-if-special-counsel-durham-is-still-living.md",
-      "title": "Frustrated Trump demands to know if Special Counsel Durham is still 'living'",
-      "excerpt": "Former President Donald Trump called Friday for an update on the status of Special Counsel John Durham’s probe into the origins of the FBI’s “Crossfire Hurricane” investigation of his administration’s alleged ties to Russia.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WWaKh709Bbw/trump-demands-update-durham-probe-fbi-russia-investigation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WWaKh709Bbw/trump-demands-update-durham-probe-fbi-russia-investigation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39dd222a-d322-45e7-bd09-6009a95f1639/848f8402-eccc-440b-a27c-f69be2babefe/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-demands-update-durham-probe-fbi-russia-investigation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-demands-update-durham-probe-fbi-russia-investigation.amp",
-      "publishedDateTime": "2021-03-26T17:20:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
     }
   ],
-  "nextPage": 7
+  "nextPage": null
 }

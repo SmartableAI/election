@@ -32,37 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "Washington Post: Trump administration blocked investigation into delayed relief to Puerto Rico for 2017 hurricane"
-    excerpt: "The Trump administration put up barriers that delayed $20 billion in hurricane relief aid to Puerto Rico and blocked an investigation into the delayed funds, The Washington Post reported Thursday, citing a 46-page inspector general report.\n    \n"
-    publishedDateTime: 2021-04-22T13:31:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vQlhUwmwniE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/22/politics/puerto-rico-relief-investigation-washington-post/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/puerto-rico-relief-investigation-washington-post/index.html"
+  - title: "Biden administration announces new operation to crack down on human smuggling"
+    excerpt: "The Biden administration announced Tuesday an operation focused on disrupting transnational criminal organizations, including human smugglers who have facilitated the illegal crossings of migrants at the US-Mexico border.\n    \n"
+    publishedDateTime: 2021-04-27T17:00:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3VNw4AkoF3A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/human-smuggling-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/human-smuggling-border/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 154
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422075257-file-hurricane-maria-puerto-rico-2017-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301130048-01-mayorkas-wh-briefing-0301-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "New probe confirms Trump officials blocked Puerto Rico from receiving hurricane aid"
-    excerpt: "Findings from a new inspector general report show how Trump officials blocked hurricane aid for Puerto Rico and obstructed a probe looking into the withholdings."
-    publishedDateTime: 2021-04-22T21:01:00Z
-    webUrl: "https://www.nbcnews.com/news/latino/new-probe-confirms-trump-officials-blocked-puerto-rico-receiving-hurri-rcna749"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna749"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna749"
+  - title: "Biden announces US will aim to cut carbon emissions by as much as 52% by 2030 at virtual climate summit"
+    excerpt: "President Joe Biden on Thursday will kick off a climate summit attended by 40 other world leaders by announcing an ambitious cut in greenhouse gas emissions as he looks to put the US back at the center of the global effort to address the climate crisis and curb carbon emissions.\n    \n"
+    publishedDateTime: 2021-04-23T15:31:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wxx87ry5y3A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/22/politics/white-house-climate-summit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/white-house-climate-summit/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
+      name: CNN
+      domain: cnn.com
+    quality: 159
     images:
-      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/1132/200724-puerto-rico-ew-323p-053a09_a69b88d4a153c119ebf9b4c21caa3521643fa016.jpg"
-        width: 2500
-        height: 1663
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422082947-02-biden-climate-summit-0422-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to announce US will aim to cut carbon emissions by as much as 52% by 2030 at virtual climate summit"
+    excerpt: "President Joe Biden on Thursday will kick off a climate summit attended by 40 other world leaders by announcing an ambitious cut in greenhouse gas emissions as he looks to put the US back at the center of the global effort to address the climate crisis and curb carbon emissions.\n    \n"
+    publishedDateTime: 2021-04-22T11:17:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wxx87ry5y3A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/22/politics/white-house-climate-summit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/white-house-climate-summit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421141733-01-biden-remarks-0421-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "P1JmX3iXJhIspWmYdUKkn9ARuvJ7Jt2nMXoQq6c06I8/Vp5Jd7AhnWsAL25Nz2NFbGkHUC/uJqqarZ7PUc8RiMDRmQZ5F/WEtpi5AdfT7pakQ44am5rlBx/u0WqV81Pq6M+ph6SwmOOx3u6OdATY+x7kriKw3FQ6m6ICjCD9HqHyxwsSmdQkuPgEk+kkIBzlgfzcSmBjLqaSWKxpMumu7IjVgjk4FJj341hKwL5wrePNo8Z7O+byRO8EzQ47hY5JfErSvrCMqNR1sN4gojEOeBnqLJgXBU/EH92m4Dt8KFPVVs356sU8bGs2C++I51pjZ2KQlvphr3JhSuzt4ewhp/cFAT3adnUM0MCmxLrwJzqLTnXnbIL62wFF5sUUveuodMT5duXe0k+fso//rT4ehSAhcHQpLRux+EtjEnlTPI1+JwL1lNOAT7AIA3Q/9Fn0qYhBMYv/PtfckE6kkDEsXO/0Sid4WdX82lpovNvXZip7XC6Q2Eb+cPwIvLonjzc7TxqqGFvSWDQ0/sO0zl9lRg==;stHV7amgnNQBnInc9E2uYw=="

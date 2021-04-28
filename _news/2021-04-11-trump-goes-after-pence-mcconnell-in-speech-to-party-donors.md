@@ -60,22 +60,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Pence launches group as Trump officials line up new roles"
-    excerpt: "WASHINGTON — Former Vice President Mike Pence launched a new advocacy group on Wednesday as he and other Trump officials look to boost their post-White House plans. Pence’s Advancing American Freedom, which could serve as a springboard for his own ..."
-    publishedDateTime: 2021-04-07T20:07:00Z
-    webUrl: "https://www.washingtonpost.com/politics/pence-launches-new-group-as-trump-aides-line-up-new-roles/2021/04/07/cd96a504-97cc-11eb-8f0a-3384cf4fb399_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/pence-launches-new-group-as-trump-aides-line-up-new-roles/2021/04/07/cd96a504-97cc-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-launches-new-group-as-trump-aides-line-up-new-roles/2021/04/07/cd96a504-97cc-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Biden's first budget marks sharp change from Trump years"
     excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden asked Congress to sharply increase spending to combat climate change and gun violence in a budget that marks a sharp departure from his predecessor, Donald Trump. The $1.5 trillion budget, reflecting an 8% ..."
     publishedDateTime: 2021-04-09T14:44:00Z
@@ -123,6 +107,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/e2bd8cc/2147483647/strip/true/crop/6000x3919+0+46/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F97%2Fb7%2F74966f8e5cd9fcc6d73184d4a958%2Fcc6314bab3084227849612163d9a70d2"
         width: 320
         height: 209
+        isCached: true
+  - title: "Biden picks 2 Trump critics for border, immigration roles"
+    excerpt: "President Joe Biden is nominating two people who criticized Trump-era immigration policies for key roles at the Department of Homeland Security"
+    publishedDateTime: 2021-04-12T20:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-picks-trump-critics-border-immigration-roles-77024037"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-trump-critics-border-immigration-roles-77024037"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-trump-critics-border-immigration-roles-77024037"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_de8a46fb2d8746c0bc61efc539314a6d_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump : The key to Republican success is more Trumpism"
     excerpt: "Former President Donald Trump has used a closed-door speech at his resort in Palm Beach, Florida, to reinforce his commitment to the Republican Party PALM BEACH, Fla. -- Staking his claim to the ..."
@@ -188,6 +188,22 @@ related:
         width: 2526
         height: 1684
         isCached: true
+  - title: "US lifts Trump administration's sanctions on top ICC prosecutor"
+    excerpt: "Mike Pompeo had imposed sanctions and refused visas after Fatou Bensouda launched investigation into alleged war crimes"
+    publishedDateTime: 2021-04-02T19:28:00Z
+    webUrl: "https://www.theguardian.com/law/2021/apr/02/us-lifts-sanctions-icc-prosecutor-fatou-bensouda-pompeo-blinken"
+    ampWebUrl: "https://amp.theguardian.com/law/2021/apr/02/us-lifts-sanctions-icc-prosecutor-fatou-bensouda-pompeo-blinken"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/law/2021/apr/02/us-lifts-sanctions-icc-prosecutor-fatou-bensouda-pompeo-blinken"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7097f9ffc902b6790248f7494080ba34823b3aa9/0_546_5841_3506/master/5841.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d753bfc94d5173666ba7e2af219e104d"
+        width: 600
+        height: 360
+        isCached: true
   - title: "U.S. lifts Trump's sanctions on ICC prosecutor, court official"
     excerpt: "WASHINGTON (Reuters) -The United States on Friday lifted sanctions on International Criminal Court prosecutor Fatou Bensouda that drew international criticism after they were imposed by the administration of former President Donald Trump. The move ..."
     publishedDateTime: 2021-04-02T18:47:00Z
@@ -203,6 +219,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210402&t=2&i=1557161752&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH310PN"
         width: 890
         height: 545
+        isCached: true
+  - title: "Trump campaign issued $122 million in refunds to donors in 2020"
+    excerpt: "Former President Trump Donald Trump Lawmakers say fixing border crisis is Biden's job Trump calls for Republicans to boycott companies amid voting law controversy Georgia county says removal of ..."
+    publishedDateTime: 2021-04-03T19:07:00Z
+    webUrl: "https://thehill.com/homenews/campaign/546325-trump-campaign-issued-122-million-in-refunds-to-donors-in-2020"
+    ampWebUrl: "https://thehill.com/homenews/campaign/546325-trump-campaign-issued-122-million-in-refunds-to-donors-in-2020?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/546325-trump-campaign-issued-122-million-in-refunds-to-donors-in-2020?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_02282021getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Supreme court dismisses case brought by Twitter users Trump blocked"
     excerpt: "A lawsuit over whether or not former President Donald Trump could block individuals from seeing content published on his @realDonaldTrump Twitter account has been dismissed by the US supreme court. Heeding the rulings of the court of appeals for the second ..."
@@ -332,22 +364,6 @@ related:
         width: 1024
         height: 649
         isCached: true
-  - title: "Former Trump housing official sanctioned over campaign video"
-    excerpt: "NEW YORK — A former federal official admitted she abused her authority in a publicity stunt that tricked New York City public housing residents into sounding supportive of former President Donald Trump, ethics oversight officials said Tuesday."
-    publishedDateTime: 2021-04-06T18:43:00Z
-    webUrl: "https://www.washingtonpost.com/national/former-trump-housing-official-sanctioned-over-campaign-video/2021/04/06/f1c0cb32-9707-11eb-8f0a-3384cf4fb399_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/former-trump-housing-official-sanctioned-over-campaign-video/2021/04/06/f1c0cb32-9707-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/former-trump-housing-official-sanctioned-over-campaign-video/2021/04/06/f1c0cb32-9707-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Ten Democrats join NAACP lawsuit against Trump"
     excerpt: "Ten Democratic members of Congress have joined the NAACP’s lawsuit against former President Trump Donald Trump Yelp creates tool to help support Asian-owned businesses Iran espionage-linked ship ..."
     publishedDateTime: 2021-04-07T13:34:00Z
@@ -363,22 +379,6 @@ related:
       - url: "https://thehill.com/sites/default/files/basskaren_070120bc_lead.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "The Trump media era ends not with a wow but a whisper"
-    excerpt: "You probably missed it, because it was Donald Trump offering the same pudding of rhetoric we’ve heard so often to an anchor on the far-right network Newsmax. It was to presidential appearances what a pre-dusk set at the Indiana State Fair would be to Kid ..."
-    publishedDateTime: 2021-04-06T23:42:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/04/06/trump-media-era-ends-not-with-wow-whisper/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/06/trump-media-era-ends-not-with-wow-whisper/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/06/trump-media-era-ends-not-with-wow-whisper/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G4QP77Q6QUI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Trump endorses Mo Brooks for Senate in Alabama"
     excerpt: "Former President Donald Trump Donald Trump Yelp creates tool to help support Asian-owned businesses Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far ..."
@@ -459,38 +459,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/27A4/production/_116384101_mediaitem116381016.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Twitter says it will not archive tweets from Trump's suspended account"
-    excerpt: "Tweets from the permanently suspended account of former President Trump will not be preserved on the platform, Twitter confirmed in a statement to CBS News. But the social media company said it is working with the National Archives and Records ..."
-    publishedDateTime: 2021-04-09T00:14:00Z
-    webUrl: "https://www.cbsnews.com/news/donald-trump-twitter-will-not-archive/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/donald-trump-twitter-will-not-archive/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/donald-trump-twitter-will-not-archive/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/22/f2d7fecb-446f-4d77-9cf4-986701e8dcb0/thumbnail/1200x630/e7bf93be5f5d9a38d338cc97d73dc0ec/gettyimages-1230498242.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "What’s really missing from the anti-Trump GOP effort"
-    excerpt: "Brian Kemp at the Georgia Capitol last month. A number of prominent Georgia Republicans fought back against former president Donald Trump’s baseless claims of massive voter fraud in the 2020 election. But one of them subtly and gradually emerged as ..."
-    publishedDateTime: 2021-04-08T17:55:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/04/08/some-republicans-want-defeat-trumpism-few-are-willing-actually-run-against-it/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/08/some-republicans-want-defeat-trumpism-few-are-willing-actually-run-against-it/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/08/some-republicans-want-defeat-trumpism-few-are-willing-actually-run-against-it/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PSNB3TULFII6XIZ63IUJIHFZVQ.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Bowing to Trump? GOP brings leaders, donors to his backyard"
     excerpt: "PALM BEACH, Fla. — There will be no reckoning at the Republican National Committee. Three months after former President Donald Trump helped incite a violent attack against Congress, the GOP is bringing hundreds of donors and several future presidential ..."
@@ -892,22 +860,6 @@ related:
         width: 594
         height: 396
         isCached: true
-  - title: "Pence, eyeing 2024 presidential bid, launches group to defend Trump-era policies from \"liberal attacks and media distortions\""
-    excerpt: "Former Vice President Mike Pence is beginning to reemerge after the end of the Trump administration with the launch of a new group to counter the policies of the Biden administration and the Democratic-controlled Congress. The former vice president has ..."
-    publishedDateTime: 2021-04-07T16:45:00Z
-    webUrl: "https://www.cbsnews.com/news/pence-2024-presidential-bid-conservative-group-trump-policies/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/pence-2024-presidential-bid-conservative-group-trump-policies/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pence-2024-presidential-bid-conservative-group-trump-policies/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 123
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/07/cae428b8-cdb5-4d2b-936b-264e079af2d4/thumbnail/1200x630g2/78c7ce1e0d22727b10b2b6658ab8f485/gettyimages-1209192269.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "NRCC warns donors Trump will find out if they opt out of monthly donations"
     excerpt: "The National Republican Congressional Committee threatened donors that it will tell former president Donald Trump that they are defectors if they opt out of giving recurring monthly funds to the campaign arm for the House GOP. Support our journalism."
     publishedDateTime: 2021-04-07T23:25:00Z
@@ -988,17 +940,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Pence launches new group as Trump aides line up new roles"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% WASHINGTON (AP) — Former Vice President Mike Pence launched a new advocacy group on Wednesday as he and other Trump officials look to boost their post-White House plans. Pence's , which could serve as a ..."
-    publishedDateTime: 2021-04-07T18:10:00Z
-    webUrl: "https://www.businessinsider.com/pence-launches-new-group-as-trump-aides-line-up-new-roles-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/pence-launches-new-group-as-trump-aides-line-up-new-roles-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-launches-new-group-as-trump-aides-line-up-new-roles-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
   - title: "Republicans are concerned about the debt again, even as they admit Trump grew it"
     excerpt: "Republicans who voted to grow the national debt under former president Donald Trump are trumpeting fiscal conservatism again during a Democratic presidency. (JM Rieger/The Washington Post) Over the past month, Senate Republicans have acknowledged something ..."
     publishedDateTime: 2021-04-08T10:00:00Z
@@ -1389,6 +1330,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Biden keeps Trump's record-low cap on refugees"
+    excerpt: "President Joe Biden on Friday stuck with his predecessor’s historically low cap of 15,000 refugees for this year and instead moved to accelerate admissions, triggering an outcry from resettlement agencies and even Biden allies that he was backpedaling on a key promise."
+    publishedDateTime: 2021-04-16T18:26:00Z
+    webUrl: "https://www.chron.com/news/article/Biden-speeds-refugees-admissions-but-doesn-t-16106454.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Biden-speeds-refugees-admissions-but-doesn-t-16106454.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-speeds-refugees-admissions-but-doesn-t-16106454.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Mike Pence launches new conservative organization to advance Trump-era policies"
     excerpt: "Former Vice President Mike Pence has created a conservative advocacy group to advance policies that were championed during the Trump administration. Known as Advancing American Freedom, the launch of the conservative policy group was announced last week ..."
     publishedDateTime: 2021-04-13T11:32:00Z
@@ -1461,6 +1418,22 @@ related:
       - url: "https://www.nydailynews.com/resizer/DF0w7aGKTo7vFJijwlKkJsiLJ4E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CFLRBCXRCRGEJG2J3WXLS2KIGU.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Fox News Hires Another Top Trump Administration Official"
+    excerpt: "The right-leaning network continues scooping up former Trump officials, the second since former press secretary Kayleigh McEnany joined to co-host \"Outnumbered.\""
+    publishedDateTime: 2021-04-08T22:12:00Z
+    webUrl: "https://www.ibtimes.com/fox-news-hires-another-top-trump-administration-official-3177410"
+    ampWebUrl: "https://www.ibtimes.com/fox-news-hires-another-top-trump-administration-official-3177410?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/fox-news-hires-another-top-trump-administration-official-3177410?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/30/president-joe-bidens-administration-has-turned-the-page.jpg"
+        width: 1024
+        height: 687
         isCached: true
   - title: "Mike Pence Wanted To 'Clear The Capitol' During Riots, But Trump Didn't Allow It"
     excerpt: "An update about the Jan 6. Capitol riot has been released by the Associated Press which proves that former Vice President Mike Pence called for help shortly after the attacks began. The Pentagon prepared an undisclosed document about specific details of ..."
@@ -1694,22 +1667,6 @@ related:
         width: 2333
         height: 1646
         isCached: true
-  - title: "Is Donald Trump Running In 2024? Ex-President Has Millions In Save America PAC War Chest"
-    excerpt: "Trump's influence could be a wildcard in the vital 2022 midterm elections, as he's vowed to primary opponents in his own party."
-    publishedDateTime: 2021-04-06T19:55:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-running-2024-ex-president-has-millions-save-america-pac-war-chest-3175758"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-running-2024-ex-president-has-millions-save-america-pac-war-chest-3175758?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-running-2024-ex-president-has-millions-save-america-pac-war-chest-3175758?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 66
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
-        width: 1024
-        height: 731
-        isCached: true
   - title: "Will Lara Trump Be The Next Family Member In Office? Donald's Daughter-In-Law Leads In NC Poll"
     excerpt: "Lara Trump stands well ahead of potential rivals despite not even committing to run. That's left other Republicans in campaign limbo."
     publishedDateTime: 2021-04-14T20:14:00Z
@@ -1737,20 +1694,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 63
-  - title: "Pence launches group to defend Trump record, promote agenda as he eyes presidential bid"
-    excerpt: "Former Vice President Mike Pence on Wednesday launched an advocacy group to promote his agenda and defend the Trump administration’s record, a signal that he’s moving toward a 2024 presidential bid. The group, Advancing American Freedom, will “build ..."
-    publishedDateTime: 2021-04-07T15:21:00Z
-    webUrl: "https://www.sunjournal.com/2021/04/07/pence-launches-group-to-defend-trump-record-promote-agenda-as-he-eyes-presidential-bid/"
-    type: article
-    provider:
-      name: Sun Journal
-      domain: sunjournal.com
-    quality: 62
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2021/04/pence-1024x704.jpg"
-        width: 1024
-        height: 704
-        isCached: true
   - title: "Pence Launches Group To Defend Trump-Era Policies From 'Liberal Attacks & Media Distortions'"
     excerpt: "Former Vice President Mike Pence is beginning to reemerge after the end of the Trump administration with the launch of a new group to counter the policies of the Biden administration and the Democratic-controlled Congress. The former vice president has ..."
     publishedDateTime: 2021-04-07T16:59:00Z

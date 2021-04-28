@@ -96,22 +96,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's own statements in old lawsuit could haunt him in any future criminal case"
-    excerpt: "Donald Trump once said he calculated his net worth, to a degree, on his \"feelings,\" and that he put the \"best spin\" on some of the assets.\n    \n"
-    publishedDateTime: 2021-04-01T11:23:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iskEb54P2R0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/trump-statements-lawsuit-haunt/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/trump-statements-lawsuit-haunt/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330122304-01-trump-weisselberg-2017-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Pentagon announces new policies to abolish Trump administration's transgender military ban"
     excerpt: "The Pentagon has announced new policies to abolish the Trump administration's ban on transgender troops serving in the US military following a 60-day review initiated after President Joe Biden signed an executive order repealing the ban shortly after he took office in January.\n    \n"
     publishedDateTime: 2021-03-31T20:34:10Z
@@ -125,22 +109,6 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "RNC donors gather to hear Trump and others in Palm Beach, the GOP's 'new political power center'"
-    excerpt: "Donors to the Republican National Committee gathered this weekend for the first time since Donald Trump's defeat just down the road from his Mar-a-Lago home -- a sign that the institutions of the party remain centered around the former President.\n    \n"
-    publishedDateTime: 2021-04-10T21:51:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vANdLjsN-6g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/10/politics/rnc-donors-palm-beach-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/10/politics/rnc-donors-palm-beach-donald-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200103144837-trump-sobre-ataque-qasem-suleimani-hoy-el-mundo-es-mejor-sot-00010015-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -159,38 +127,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401000836-exp-ctn-todd-two-capitol-police-officers-sue-trump-for-inciting-riot-00001323-super-tease.png"
         width: 1100
         height: 619
-        isCached: true
-  - title: "How Trump Steered Supporters Into Unwitting Donations"
-    excerpt: "Online donors were guided into weekly recurring contributions. Demands for refunds spiked. Complaints to banks and credit card companies soared. But the money helped keep Donald Trump’s struggling campaign afloat."
-    publishedDateTime: 2021-04-03T20:28:00Z
-    webUrl: "https://www.nytimes.com/2021/04/03/us/politics/trump-donations.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/03/us/politics/trump-donations.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/03/us/politics/trump-donations.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/01/us/politics/00donations1/merlin_179465994_5a708364-8923-4b31-9068-df4d5c86e084-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump and his allies abandon Gaetz"
-    excerpt: "Rep. Matt Gaetz (R-Fla.) built a public profile as an unapologetic, unambiguous, omnipresent booster of President Donald Trump. But as his own political career skids toward disaster amid allegations that he had sex with a minor and paid for sex with women ..."
-    publishedDateTime: 2021-04-06T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/trump-matt-gaetz-lifeline-479126"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/5e/59/ea2fb4c640ed90176f22301bc402/4-5-21-matt-gaetz-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Kemp Seizes on Georgia Voting Law to Try to Win Back Trump and His Base"
     excerpt: "After resisting Donald Trump’s demands to overturn the state’s election results, Gov. Brian Kemp was an outcast in his own party. Now he’s embraced the state’s new voting bill as a way to rebuild his standing."
@@ -288,52 +224,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump's own statements in old lawsuit could haunt him in a future criminal case"
-    excerpt: "New York (CNN)Donald Trump once said he calculated his net worth, to a degree, on his \"feelings,\" and that he put the \"best spin\" on some of the assets. \"I think everybody\" exaggerates about the value of their properties. \"Who wouldn't?\" Did he inflate values?"
-    publishedDateTime: 2021-04-01T06:47:00Z
-    webUrl: "https://www.cnn.com/2021/04/01/politics/trump-statements-lawsuit-haunt/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/trump-statements-lawsuit-haunt/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/trump-statements-lawsuit-haunt/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 131
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330122304-01-trump-weisselberg-2017-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Pence signs a seven-figure book deal, but Trump and other administration alums face a tough market in publishing"
-    excerpt: "Washington (CNN)Mike Pence has signed a multimillion-dollar, two-book deal with publisher Simon & Schuster, making him one of the first alums of former President Donald Trump's inner circle to ink such a lucrative contract. Two people in the publishing ..."
-    publishedDateTime: 2021-04-07T16:51:00Z
-    webUrl: "https://www.cnn.com/2021/04/07/politics/pence-book-deal-trump-administration/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/pence-book-deal-trump-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/pence-book-deal-trump-administration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 129
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120162607-mike-pence-joe-biden-inauguration-01202021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Donald Trump's weird post-presidency shouldn't surprise you"
-    excerpt: "Out of office, Donald Trump is still repeating the lie that the 2020 election was stolen from him and attacking everyone from fellow Republicans to Dr. Anthony Fauci. In this latest episode of The Point,"
-    publishedDateTime: 2021-04-01T15:17:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/04/01/trump-post-presidency-tmz-video-cillizza-the-point.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 115
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401105556-the-point-trump-post-presidency-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Justice Thomas grumbles over Trump's social media ban"
     excerpt: "The decision by social media giants Twitter and Facebook to ban former President Donald Trump from their platforms appears to have drawn the ire of one of America’s most prominent jurists: Justice Clarence Thomas. As the Supreme Court issued an order ..."
     publishedDateTime: 2021-04-05T14:58:00Z
@@ -345,20 +235,6 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/5f/ed/e10ea6c847c28b17c494f425ea8f/210405-thomas-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Gaetz to be featured speaker at pro-Trump women's group event"
-    excerpt: "Rep. Matt Gaetz, mired in an ongoing federal sex trafficking investigation, is headed to former President Donald Trump’s resort in Doral this Friday where he will be a featured speaker at a summit hosted by a conservative pro-Trump women’s group."
-    publishedDateTime: 2021-04-06T23:09:00Z
-    webUrl: "https://www.politico.com/states/florida/story/2021/04/06/gaetz-to-be-featured-speaker-at-pro-trump-womens-group-event-1371835"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/08/cf/26ad306641438fbb703eb5d24a82/210406-matt-gaetz-getty-773.jpg"
         width: 1160
         height: 773
         isCached: true

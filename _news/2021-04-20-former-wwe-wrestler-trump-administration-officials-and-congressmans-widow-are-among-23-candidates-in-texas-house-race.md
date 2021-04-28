@@ -31,53 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump administration sidelined experts in writing car pollution rules, EPA watchdog finds"
-    excerpt: "The inspector general’s report may give the Biden administration more reason to tighten fuel-economy standards in the fight against global warming."
-    publishedDateTime: 2021-04-21T14:00:00Z
-    webUrl: "https://www.washingtonpost.com/climate-environment/2021/04/21/trump-administration-sidelined-experts-writing-car-pollution-rules-epa-watchdog-finds/"
-    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/04/21/trump-administration-sidelined-experts-writing-car-pollution-rules-epa-watchdog-finds/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/04/21/trump-administration-sidelined-experts-writing-car-pollution-rules-epa-watchdog-finds/?outputType=amp"
+  - title: "Lara Trump is wild card in North Carolina Senate race"
+    excerpt: "Former President Trump’s daughter-in-law Lara Trump is looming over the Republican Senate primary in North Carolina as the field grows with some of the state’s biggest GOP names."
+    publishedDateTime: 2021-04-22T10:00:00Z
+    webUrl: "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race"
+    ampWebUrl: "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 116
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q6JQL4HM2II6PH4SCCRCAP3MRU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://thehill.com/sites/default/files/trumplara_082620getty_camp.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Investigation suppressed by Trump administration reveals obstacles to hurricane aid for Puerto Rico"
-    excerpt: "A watchdog report uncovers bureaucratic hurdles the Trump administration erected for the struggling island to receive aid after Hurricanes Irma and Maria."
-    publishedDateTime: 2021-04-22T15:49:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/04/22/puerto-rico-hurricane-trump-hud/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/04/22/puerto-rico-hurricane-trump-hud/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/04/22/puerto-rico-hurricane-trump-hud/?outputType=amp"
+  - title: "Democrats move to reinstate methane rules loosened by Trump"
+    excerpt: "Congressional Democrats are moving to reinstate regulations designed to limit potent greenhouse gas emissions from oil and gas fields"
+    publishedDateTime: 2021-04-28T03:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/democrats-move-to-reinstate-methane-rules-loosened-by-trump/2021/04/28/4e64a9a4-a7d8-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/democrats-move-to-reinstate-methane-rules-loosened-by-trump/2021/04/28/4e64a9a4-a7d8-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/democrats-move-to-reinstate-methane-rules-loosened-by-trump/2021/04/28/4e64a9a4-a7d8-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 111
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UZZ77WEY24I6XDYKGOCM6T5TTE.jpg&w=1440"
-        width: 1440
-        height: 961
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J6YEKLFH2YI6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1176
+        height: 784
         isCached: true
-  - title: "DHS watchdog declined to pursue investigations into Secret Service during Trump administration, documents show"
-    excerpt: "Joseph Cuffari rejected staff recommendations to examine the agency’s handling of the Lafayette Square clearing and the spread of the coronavirus in its ranks."
-    publishedDateTime: 2021-04-20T12:11:00Z
-    webUrl: "https://www.washingtonpost.com/politics/secret-service-trump-inspector-general/2021/04/19/87f20cc6-9eea-11eb-9d05-ae06f4529ece_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/secret-service-trump-inspector-general/2021/04/19/87f20cc6-9eea-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/secret-service-trump-inspector-general/2021/04/19/87f20cc6-9eea-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
+  - title: "Mo Brooks ‘has clear sailing,’ Trump says of Alabama Senate race"
+    excerpt: "Former President Donald Trump lauded Alabama Congressman Mo Brooks on Monday, predicting an easy victory for the Republican in the state’s U.S. Senate race next year. The comments come on the heels of Trump formally endorsing Brooks in the Senate race."
+    publishedDateTime: 2021-04-20T16:09:00Z
+    webUrl: "https://www.al.com/news/2021/04/mo-brooks-has-clear-sailing-trump-says-of-alabama-senate-race.html"
+    ampWebUrl: "https://www.al.com/news/2021/04/mo-brooks-has-clear-sailing-trump-says-of-alabama-senate-race.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/mo-brooks-has-clear-sailing-trump-says-of-alabama-senate-race.html?outputType=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
+      name: al.com
+      domain: al.com
+    quality: 75
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HDL3CMALFII6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FGOVM6KJIRF43KGTGYCUEYHIWY.jpg"
+        width: 3366
+        height: 2326
         isCached: true
 
 secured: "YJ1sgwpmyR0XOA8wcJyaMbazrSTFIdJ1NS4mM91gwADzTUB/OoW7H0oiaE9JU6olkLDsqDZltWJOBoGtfaokHKLMMbv0JzcXCV/AczQnyV1+UD/F9CCXwsh5NVd9l7D7GlGq1rvSHMvjnZB8vt42rzboIDueXuSeHbUiOsnamRxutQuIYNorsMY1/DB5/iHAt2KViJBm96RWJs4DL2JqGJxSHrhL+26rqfd5FXtTOQD6+ov8qP5gjJyfKOL3r5/eNRDo4TTwlFRyIX6/+F5vAltE8S/J7AKvPo1Ecv24ngWyYJF+XGrKsVMCptktgfO0NhrladUunl+pvQuu/hQAD2lMWZGIskIl9b8eAo4Ru7X4nV7Yg88212gYl6j6Sf1fbl5EK2AB23o/kxoFVXxXth+rBnVoRFTctybZV+GBylJyWBPbK6huR0aLg7gTYSjXz2dc0uNw/BFk3pzh04f4cRBnIAPDlw8mlATB0zeFsRBtAXvqL9tTUbppujY55Ru6HqJHt591vdwccaWylyWJTg==;AwD2FCh8hDTx4jM0KXpEOg=="

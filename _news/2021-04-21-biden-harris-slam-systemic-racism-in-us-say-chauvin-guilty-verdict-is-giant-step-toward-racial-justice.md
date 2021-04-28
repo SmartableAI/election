@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-say-chauvin-guilty-ver
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-say-chauvin-guilty-verdict-is-giant-step-toward-racial-justice-call-for-congress-to-act.amp"
 type: article
 quality: 181
-heat: 301
+heat: 321
 published: true
 
 provider:
@@ -127,6 +127,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/96871bba-2991-429a-9664-e15c137ed2aa/3a8cb491-6fcc-4ffd-b747-d2391c0c53fd/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Full Interview: VP Kamala Harris On Policing, Gun Safety, George Floyd, Working With Biden"
+    excerpt: "Vice President Kamala Harris sits down for a wide-ranging interview with CNN's Dana Bash. Full transcript, via CNN: DANA BASH, CNN HOST: In the days since George Floyd's family and communities across America celebrated the Derek Chauvin guilty verdict,"
+    publishedDateTime: 2021-04-25T16:30:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/25/vp_kamala_harris_on_policing_gun_safety_border_crisis_working_with_biden.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 70
+    images:
+      - url: "https://assets.realclear.com/images/54/541429.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "xIGei+yy5Za/C/D54wqobPWpbMT5W8VMvLKKVz/v1bkLd7MGjSN/Ekn26usCl8GJRvnxAElBpkOI0+EPJZIwHj+rpQOYTj//IrDfP8EhVfii+UWjkWTiGc9EL062AUV2VRX1F2Nlm1o20Rx/hudZgKi4iO6NW4Ly1l0lrHL/xMdSScyepL77tAHLXLeII5SG2PLM4mHOe05alXrfzlSwxWtAsWXEgZEwaeSab7V/e/AecvY8vcYmfEd5Wxkwb7tBYa23CLlZyVMwZaooCAuMEiGB0MD5Ac3wkKaKS6ShDIH1c5XbruIMuDkQQMkQ+kfd2h7tvsXNVMzr71mMqgMLgzXUTi0QhJAUUKkKROogU6w=;F6s/dzhqKH9GMgLzJ1+BzQ=="

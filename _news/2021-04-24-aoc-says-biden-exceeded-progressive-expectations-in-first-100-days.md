@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/aoc-biden-exceeded-progressive-expe
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-biden-exceeded-progressive-expectations-first-100-days.amp"
 type: article
 quality: 175
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Biden says team 'exceeding' goal of 100 million vaccine doses in first 100 days"
-    excerpt: "Biden provided the update as he and Vice President Kamala Harris spoke to Arizona health care officials during a virtual tour of the vaccination site at State Farm Stadium in Glendale."
-    publishedDateTime: 2021-02-08T21:19:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Us2qvKnkpAE/biden-says-team-exceeding-goal-of-100-million-vaccine-doses-in-first-100-days"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-team-exceeding-goal-of-100-million-vaccine-doses-in-first-100-days.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-team-exceeding-goal-of-100-million-vaccine-doses-in-first-100-days.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f62f0b17-9ceb-457d-bb9b-5cb174d019e8/7404b95a-227a-479d-b3b6-a2919aee39f5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "iMyl12iJMIHNIEH1/eovygW9Wl3nDyNy0iRhXk1rzXR7TFCcmux5tEu3Tc8c80D07Sp2qR2J6nsRp0Q0ZPH+S85OLZ0/wEo3Al//ybOidoIbj2Mq+gmyOCcmdkwaLMuW8uRPG+g45XfynykpphEF6K2dZnUsoY87cdEE8YokW7RLQlJ4TT3JT7R0refjlJVSb9uzFBnTEBsqzS65ji0pJoMiwWUY1UGSw3uaXYR+GTOq79nBkx1h/LA98DAnUN562lbi4hdC6uhiOUbTvxIPvuVKVOAWcR212t8B5PGTDRFDfaNsKGkMTkJcLBmSCUHmevgVz8Jzkl4xGZwZ8VqqSmwNsqKnXvUQbLWzVtHGHCo=;s5qpGTRKD/pLwY32aPExMg=="
 ---

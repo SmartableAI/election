@@ -2,23 +2,174 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2021-03-30-pavlich-calls-out-vp-harris-stop-laughing-when-youre-asked-serious-questions.md",
-      "title": "Pavlich calls out VP Harris: 'Stop laughing when you're asked serious questions'",
-      "excerpt": "The Biden administration's border policies are creating a catastrophe for everyone, Fox News contributor Katie Pavlich said Tuesday on 'Outnumbered,' in reaction to migrants receiving in-person schooling in San Diego while American students are continuing to learn from home.",
+      "path": "_news/2021-03-31-russia-keeps-bribing-foreign-politicians-is-trump-different.md",
+      "title": "Russia Keeps Bribing Foreign Politicians. Is Trump Different?",
+      "excerpt": "In the United States, Donald Trump became a subject of suspicion in 2016 because his relationship to Russia bore many of the obvious hallmarks of these other illicit ties. Here was a right-wing ...",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ArQxY1XwKlw/kamala-harris-laughs-schools-learning-pavlich",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ArQxY1XwKlw/kamala-harris-laughs-schools-learning-pavlich",
+      "webUrl": "https://nymag.com/intelligencer/article/russia-bribe-foreign-leaders-ukraine-trump-putin-mueller.html",
+      "originalUrl": "https://nymag.com/intelligencer/article/russia-bribe-foreign-leaders-ukraine-trump-putin-mueller.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/d50/1a5/1a71bafd2392354ec0f03bc027ece4b6e2-trump-putin.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/article/russia-bribe-foreign-leaders-ukraine-trump-putin-mueller.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/russia-bribe-foreign-leaders-ukraine-trump-putin-mueller.html",
+      "publishedDateTime": "2021-03-31T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-two-us-capitol-police-officers-sue-trump-and-say-he-should-be-held-responsible-for-january-6-attack.md",
+      "title": "Two US Capitol Police officers sue Trump and say he should be held responsible for January 6 attack",
+      "excerpt": "Two US Capitol Police officers who say they were injured during the January 6 insurrection are suing former President Donald Trump for inciting the crowd.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fG4p2ZDgw1Q/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fG4p2ZDgw1Q/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 221,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210326163722-01-us-capitol-riots-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/us-capitol-police-sue-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/us-capitol-police-sue-trump/index.html",
+      "publishedDateTime": "2021-03-31T04:02:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-trump-advisor-peter-navarro-went-on-a-wild-rant-on-fox-news-calling-fauci-the-father-of-the-coronavirus.md",
+      "title": "Trump advisor Peter Navarro went on a wild rant on Fox News, calling Fauci the 'father' of the coronavirus",
+      "excerpt": "Navarro, who served as a trade advisor in President Donald Trump's White House, was asked by Fox News host Rachel Campos-Duffy for his thoughts on Fauci's saying that the decision to start trying to make a coronavirus vaccine in January 2020 \"may have been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3",
+      "originalUrl": "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6064514b6183e1001981972d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3?amp",
+      "publishedDateTime": "2021-03-31T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump.md",
+      "title": "Dr. Scott Atlas blasts 'despicable' Birx and Fauci 'trying to overtly rewrite history' on coronavirus, Trump",
+      "excerpt": "Dr. Scott Atlas, a member of former President Trump's coronavirus task force, blasted his ex-colleagues Drs. Anthony Fauci and Deborah Birx, after they went on CNN and tried to 'rewrite history'",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t4jiTKbgihc/dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/t4jiTKbgihc/dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 180,
+      "heat": 156,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e35288a9-c026-45ee-8d2c-04832f5257c9/5c5c0e96-d1f5-4a09-a864-d89efa3afb85/1280x720/match/image.jpg",
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9425dea-559a-4dae-a3d4-0827e74f47de/9da07aed-eee1-4d47-bd13-f536575751fb/1280x720/match/image.jpg",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -28,9 +179,164 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-laughs-schools-learning-pavlich.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-schools-learning-pavlich.amp",
-      "publishedDateTime": "2021-03-30T12:41:55-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump.amp",
+      "publishedDateTime": "2021-03-30T21:41:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet.md",
+      "title": "Sen. Ron Johnson: Biden border policies facilitating business of the 'most evil people on the planet'",
+      "excerpt": "Sen. Ron Johnson, R-Wis., slammed the Biden administration’s immigration plan as \"misguided\" telling \"Fox News Primetime\" it is going to lead to \"greater inhumanity.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pu62k5rxjm0/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pu62k5rxjm0/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet.amp",
+      "publishedDateTime": "2021-03-30T21:28:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-indiana-senate-congratulates-pence-on-his-retirement.md",
+      "title": "Indiana Senate congratulates Pence on his 'retirement'",
+      "excerpt": "Mike Pence’s political career is over. That at least is the opinion of the Republican-controlled Indiana Senate, which unanimously adopted a resolution Tuesday congratulating the former vice president and Indiana governor on his “retirement.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nwitimes.com/news/local/govt-and-politics/elections/indiana-senate-congratulates-pence-on-his-retirement/article_96cd3480-64d5-5b94-ac54-0289da96f060.html",
+      "originalUrl": "https://www.nwitimes.com/news/local/govt-and-politics/elections/indiana-senate-congratulates-pence-on-his-retirement/article_96cd3480-64d5-5b94-ac54-0289da96f060.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/48/c48dcc07-9dd0-52ac-8b5a-a704f9ee5745/6063a62fa17af.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nwitimes.com/news/local/govt-and-politics/elections/indiana-senate-congratulates-pence-on-his-retirement/article_96cd3480-64d5-5b94-ac54-0289da96f060.amp.html",
+      "cdnAmpWebUrl": "https://www-nwitimes-com.cdn.ampproject.org/c/s/www.nwitimes.com/news/local/govt-and-politics/elections/indiana-senate-congratulates-pence-on-his-retirement/article_96cd3480-64d5-5b94-ac54-0289da96f060.amp.html",
+      "publishedDateTime": "2021-03-30T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Northwest Indiana Times",
+        "domain": "nwitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-vp-harris-thanks-guatemalan-president-giammattei-after-his-crackdown-on-migrants-doesnt-visit-border.md",
+      "title": "VP Harris thanks Guatemalan President Giammattei after his crackdown on migrants, doesn't visit border",
+      "excerpt": "Vice President Kamala Harris shared a call with Guatemalan President Alejandro Giammattei Tuesday to discuss immigration amid a surging crisis and despite declining to visit the U.S.-Mexico border herself since taking office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B0pXFkn-dGk/vice-president-harris-guatemalan-president-giammattei-illegal-immigants",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B0pXFkn-dGk/vice-president-harris-guatemalan-president-giammattei-illegal-immigants",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21089772700299.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/vice-president-harris-guatemalan-president-giammattei-illegal-immigants.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-harris-guatemalan-president-giammattei-illegal-immigants.amp",
+      "publishedDateTime": "2021-03-30T18:39:17-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -59,25 +365,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-30-blinken-announces-plans-to-roll-back-trump-era-human-rights-initiatives.md",
-      "title": "Blinken announces plans to roll back Trump-era human rights initiatives",
-      "excerpt": "Secretary of State Antony Blinken diverted from the Trump administration’s human rights priorities as he unveiled the 2020 Country Reports on Human Rights Practices. ",
+      "path": "_news/2021-03-31-trump-ally-matt-gaetz-say-he-faces-federal-investigation-regarding-sexual-conduct.md",
+      "title": "Trump ally Matt Gaetz say he faces federal investigation 'regarding sexual conduct'",
+      "excerpt": "Florida Republican congressman says he has never had sexual relationship with underage girl Matt Gaetz, a prominent Republican in Congress and a close ally of Donald Trump, said on Tuesday he was being investigated by the justice department over a former ...",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QznWelcPtvM/blinken-roll-back-trump-era-human-rights-initiatives-conservatives",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QznWelcPtvM/blinken-roll-back-trump-era-human-rights-initiatives-conservatives",
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
       "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
+      "highlight": null,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Blinken-AP.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.guim.co.uk/img/media/e19abbddbb06134f5509b2b4af66e4186711a8d8/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3b3f2957a9a90f90582890cf4af0d18a",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -85,9 +387,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/blinken-roll-back-trump-era-human-rights-initiatives-conservatives.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blinken-roll-back-trump-era-human-rights-initiatives-conservatives.amp",
-      "publishedDateTime": "2021-03-30T12:38:22-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
+      "publishedDateTime": "2021-03-30T17:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-trump-endorses-drew-mckissick-over-lin-wood-for-south-carolina-gop-chair.md",
+      "title": "Trump endorses Drew McKissick over Lin Wood for South Carolina GOP chair",
+      "excerpt": "Former President Donald Trump affirmed his endorsement of longtime ally Drew McKissick in his bid for re-election as South Carolina GOP chairman on Tuesday, shortly after attorney Lin Wood announced his intent to challenge him for the position. \"Drew ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair",
+      "originalUrl": "https://www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Lin-Wood-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair.amp",
+      "publishedDateTime": "2021-03-30T16:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -111,24 +469,139 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
     {
-      "path": "_news/2021-03-31-poll-one-third-would-use-a-trump-backed-social-media-platform.md",
-      "title": "Poll: One-third would use a Trump-backed social media platform",
-      "excerpt": "One-third of voters said they would use a social media platform that was backed by former President Trump Donald Trump The Hill's Morning Report - Biden officials brace for worst despite vaccine ...",
+      "path": "_news/2021-03-31-major-is-still-adjusting-new-white-house-trouble-hounds-bidens-dog.md",
+      "title": "'Major is still adjusting': New White House trouble hounds Biden's dog",
+      "excerpt": "President Joe Biden's dog Major has been involved in a second biting incident at the White House, NBC News has confirmed. “Major is still adjusting to his new surroundings and he nipped someone while on a walk. Out of an abundance of caution, the ...",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform",
-      "originalUrl": "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform",
+      "webUrl": "https://www.nbcnews.com/politics/white-house/major-still-adjusting-new-white-house-trouble-hounds-biden-s-n1262527",
+      "originalUrl": "https://www.nbcnews.com/politics/white-house/major-still-adjusting-new-white-house-trouble-hounds-biden-s-n1262527",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_010421getty_trump-va.jpg",
-          "width": 980,
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_13/3460867/210330-major-biden-dog-ac-435p_33990fb7823b6d94d4f5c4411ad7b697.jpg",
+          "width": 2500,
+          "height": 1668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262527",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262527",
+      "publishedDateTime": "2021-03-30T14:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-dems-call-for-firings-of-trump-era-holdovers-in-ssa-over-stimulus-check-delays.md",
+      "title": "Dems call for firings of Trump-era holdovers in SSA over stimulus check delays",
+      "excerpt": "The lawmakers blamed Saul -- who was nominated by former President Donald Trump -- for the delays, which they said defied congressional intent and imposed needless anxiety on taxpayers. Saul, in a statement Thursday night, attributed the delay to a lack of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays",
+      "originalUrl": "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/jaypal-cropped-153a.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp",
+      "publishedDateTime": "2021-03-30T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-bloomberg-former-rnc-chair-steele-back-biden-pick-for-civil-rights-division.md",
+      "title": "Bloomberg, former RNC chair Steele back Biden pick for civil rights division",
+      "excerpt": "President Biden Joe Biden The Hill's Morning Report - Biden officials brace for worst despite vaccine data Congress looks to rein in Biden's war powers Democrats seize on voting rights ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/545611-bloomberg-former-rnc-chair-steele-back-biden-pick-for-civil-rights",
+      "originalUrl": "https://thehill.com/homenews/administration/545611-bloomberg-former-rnc-chair-steele-back-biden-pick-for-civil-rights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/steelemichael_33021_gettyimages.jpg",
+          "width": 827,
           "height": 551,
           "title": null,
           "attribution": null,
@@ -137,9 +610,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/what-americas-thinking/545597-poll-one-third-would-join-a-trump-backed-social-media-platform?amp",
-      "publishedDateTime": "2021-03-30T12:27:00-07:00",
+      "ampWebUrl": "https://thehill.com/homenews/administration/545611-bloomberg-former-rnc-chair-steele-back-biden-pick-for-civil-rights?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/545611-bloomberg-former-rnc-chair-steele-back-biden-pick-for-civil-rights?amp",
+      "publishedDateTime": "2021-03-30T12:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Hill",
@@ -163,7 +636,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Joe Biden"
       ]
     },
     {
@@ -219,25 +692,25 @@
       ]
     },
     {
-      "path": "_news/2021-03-30-kamala-harris-events-lack-of-clergy-an-insult-to-the-black-community-pastor-says.md",
-      "title": "Kamala Harris event's lack of clergy 'an insult to the Black community,' pastor says",
-      "excerpt": "A pastor in Connecticut said the lack of clergy at an event hosted by Vice President Kamala Harris is \"an insult to the Black community.\"",
+      "path": "_news/2021-03-31-court-lets-ex-apprentice-contestants-defamation-suit-vs-trump-proceed-again.md",
+      "title": "Court lets ex-'Apprentice' contestant's defamation suit vs. Trump proceed again",
+      "excerpt": "NEW YORK — Former President Donald Trump could face questioning under oath about a former “Apprentice” contestant's sexual assault allegations against him, following a ruling from New York's highest court Tuesday. Evidence-gathering has been on hold ...",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0SbM-cSgBq8/kamala-harris-black-community-clergy-insult",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0SbM-cSgBq8/kamala-harris-black-community-clergy-insult",
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/court-lets-ex-apprentice-contestant-s-defamation-suit-vs-trump-n1262494",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/court-lets-ex-apprentice-contestant-s-defamation-suit-vs-trump-n1262494",
       "featuredContent": null,
       "highlight": {
-        "text": "Republican Voice",
+        "text": "Democratic Voice",
         "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
+        "backgroundColor": "#0015BC"
       },
-      "heat": 238,
+      "heat": 131,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/248dc3ad-9eb8-4abe-a05a-57fa33ae3132/2dbf9201-97d3-46d9-93d6-25dc2f60a58b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_13/3460820/210330-summer-zervos-jm-1439_7f50bec42ce1680f710a53fe0880bf1c.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -245,9 +718,66 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-black-community-clergy-insult.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-black-community-clergy-insult.amp",
-      "publishedDateTime": "2021-03-30T12:14:39-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262494",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262494",
+      "publishedDateTime": "2021-03-30T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-biden-judicial-nominee-would-be-first-muslim-federal-judge-in-us-history.md",
+      "title": "Biden judicial nominee would be first Muslim federal judge in US history",
+      "excerpt": "Some Republicans, meanwhile, have broadly criticized Biden's nominees. \"It's payback time -- we know that liberal dark money organizations spent millions of dollars to put President Joe Biden in the White House in terms of contributing to his campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history",
+      "originalUrl": "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/640/320/joe-biden-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history.amp",
+      "publishedDateTime": "2021-03-30T11:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -271,8 +801,8 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice",
-        "Kamala Harris"
+        "Joe Biden",
+        "Republican Voice"
       ]
     },
     {
@@ -328,25 +858,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-30-judge-allows-summer-zervos-defamation-lawsuit-against-trump-to-proceed-now-that-hes-out-of-office.md",
-      "title": "Judge allows Summer Zervos' defamation lawsuit against Trump to proceed now that he's out of office",
-      "excerpt": "A New York appeals court on Tuesday paved the way for a defamation lawsuit against former President Donald Trump to move forward.\n    \n",
+      "path": "_news/2021-03-31-donald-trump-uses-new-website-to-rewrite-history-of-his-presidency.md",
+      "title": "Donald Trump uses new website to rewrite history of his presidency",
+      "excerpt": "Narrative omits two impeachments, economic crash, Covid death toll and riot that marked end of his term Last modified on Tue 30 Mar 2021 15.23 EDT Donald Trump has launched a new website celebrating his time as US president that includes a very selective ...",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h8jU8sCqJik/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h8jU8sCqJik/index.html",
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 181,
+      "highlight": null,
+      "heat": 385,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191119103813-summer-zervos-december-2017-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://i.guim.co.uk/img/media/4146d99f233c90973e78cde7b63a6c6c5a1791c9/0_78_3782_2271/master/3782.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ff3ad7f46a5f42688e61518116702f35",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -354,16 +880,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html",
-      "publishedDateTime": "2021-03-30T11:13:51-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency",
+      "publishedDateTime": "2021-03-30T11:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -380,7 +906,102 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-pence-emerges-lays-groundwork-for-2024-white-house-run.md",
+      "title": "Pence emerges, lays groundwork for 2024 White House run",
+      "excerpt": "New York City Mayor Bill de Blasio called the video of the attack “absolutely disgusting and outrageous” and said it was “absolutely unacceptable” that witnesses did not",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/03/30/pence-emerges-lays-groundwork-for-2024-white-house-run/",
+      "originalUrl": "https://www.mercurynews.com/2021/03/30/pence-emerges-lays-groundwork-for-2024-white-house-run/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/03/sjm-937101.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/03/30/pence-emerges-lays-groundwork-for-2024-white-house-run/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/03/30/pence-emerges-lays-groundwork-for-2024-white-house-run/amp/",
+      "publishedDateTime": "2021-03-30T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-biden-pushes-plan-to-rebuild-us-infrastructure-as-covid-cases-rise-live.md",
+      "title": "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live",
+      "excerpt": "President to launch next phase of Build Back Better program and announces plans to tackle rising anti-Asian violence – follow all the latest politics news",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest?page=with:block-6063448a8f0807bf71ddea4f",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest?page=with:block-6063448a8f0807bf71ddea4f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/61be9c4ea47590ba4a25375de48c9334d6cf1f4d/0_198_6048_3628/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=497c53613623a4cc3e08d76fef99cc6f",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest",
+      "publishedDateTime": "2021-03-30T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -427,21 +1048,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-30-blinken-ends-trump-rights-plan-promoting-conservative-agenda.md",
-      "title": "Blinken ends Trump rights plan promoting conservative agenda",
-      "excerpt": "In another rebuke to Trump-era policies, Secretary of State Antony Blinken will scrap a blueprint championed by his predecessor to limit U.S. promotion of human rights abroad to causes favored by cons",
+      "path": "_news/2021-03-30-women-dominate-bidens-first-slate-of-judicial-nominees.md",
+      "title": "Women dominate Biden's first slate of judicial nominees",
+      "excerpt": "WASHINGTON (Reuters) - President Joe Biden released his first slate of 11 federal judicial nominations on Tuesday, nine of them women of diverse backgrounds including several Black candidates and an Asian American. “This trailblazing slate of nominees ...",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html",
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-judicial-idUSKBN2BM1GJ",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-judicial-idUSKBN2BM1GJ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 1245,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210330&t=2&i=1556741242&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2T0O9",
+          "width": 701,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -449,501 +1070,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-30T09:03:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BM1GJ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BM1GJ",
+      "publishedDateTime": "2021-03-30T08:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-who-is-judge-ketanji-brown-jackson-bidens-nominee-to-replace-ag-garland-on-powerful-dc-circuit-court.md",
-      "title": "Who is Judge Ketanji Brown Jackson, Biden's nominee to replace AG Garland on powerful DC Circuit Court?",
-      "excerpt": "D.C. District Judge Ketanji Brown Jackson is President Biden's nominee to fill the D.C. Circuit Court of Appeals seat of newly-minted Attorney General Merrick Garland, making her the most high-profile choice among the president's first round of judicial nominations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Je96HMEsnLo/judge-ketanji-brown-jackson-biden-nominee-court",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Je96HMEsnLo/judge-ketanji-brown-jackson-biden-nominee-court",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/judge-ketanji-brown-jackson-biden-nominee-court.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-ketanji-brown-jackson-biden-nominee-court.amp",
-      "publishedDateTime": "2021-03-30T08:38:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-duckworth-on-biden-hesitance-to-complete-troop-withdrawal-we-need-to-do-our-jobs-in-congress.md",
-      "title": "Duckworth on Biden hesitance to complete troop withdrawal: 'We need to do our jobs' in Congress",
-      "excerpt": "Sen. Tammy Duckworth, D-Ill., said that 'we need to do our jobs in the Senate and the House in order to provide transparency for the American people on why and how long troops are in the Middle East.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kEyKXzjtsyc/duckworth-biden-withdrawal-troop-afghanistan-middle-east",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kEyKXzjtsyc/duckworth-biden-withdrawal-troop-afghanistan-middle-east",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/duckworth-biden-withdrawal-troop-afghanistan-middle-east.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/duckworth-biden-withdrawal-troop-afghanistan-middle-east.amp",
-      "publishedDateTime": "2021-03-30T08:32:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-hillary-clinton-john-kerry-repeatedly-attacked-trump-administration-after-leaving-state-department.md",
-      "title": "Hillary Clinton, John Kerry repeatedly attacked Trump administration after leaving State Department",
-      "excerpt": "The New York Times came under fierce criticism Monday for claiming Mike Pompeo stood out as a former secretary of state for his open partisanship, given the outspoken criticisms of the Trump administration by Hillary Clinton and John Kerry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke",
-      "originalUrl": "https://www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/93d6d9ec-ae27-481e-84f7-422080f3e2eb/d669044e-5520-48e2-9a64-2e55a44b5141/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-blasted-pompeo-partisan-joke.amp",
-      "publishedDateTime": "2021-03-30T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-donald-trump-uses-new-website-to-rewrite-history-of-his-presidency.md",
-      "title": "Donald Trump uses new website to rewrite history of his presidency",
-      "excerpt": "Narrative omits two impeachments, economic crash, Covid death toll and riot that marked end of his term Last modified on Tue 30 Mar 2021 10.23 EDT Donald Trump has launched a new website celebrating his time as US president that includes a very selective ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency?fbclid=IwAR23dLd9Jo5OxuV0FDa1d7WiPrcCgZv8GQVVZMJXCxqjYTbr0vS1ZTJHcbw",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency?fbclid=IwAR23dLd9Jo5OxuV0FDa1d7WiPrcCgZv8GQVVZMJXCxqjYTbr0vS1ZTJHcbw",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4146d99f233c90973e78cde7b63a6c6c5a1791c9/0_78_3782_2271/master/3782.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ff3ad7f46a5f42688e61518116702f35",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency",
-      "publishedDateTime": "2021-03-30T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-new-mexico-rancher-encountering-migrants-near-her-house-biden-admin-gave-green-light.md",
-      "title": "New Mexico rancher encountering migrants near her house: Biden admin gave 'green light'",
-      "excerpt": "A rancher from New Mexico, Amanda Adame, told “Fox & Friends” on Tuesday that migrants have been getting “fairly close” to her house and have been asking her for food and water amid the surge at the U.S. southern border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fJw1OxSy79Y/new-mexico-rancher-migrants-house-food-water-biden-green-light",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fJw1OxSy79Y/new-mexico-rancher-migrants-house-food-water-biden-green-light",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/new-mexico-rancher-migrants-house-food-water-biden-green-light.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-mexico-rancher-migrants-house-food-water-biden-green-light.amp",
-      "publishedDateTime": "2021-03-30T06:04:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-kamala-harris-stepson-cole-emhoff-calls-out-snl-for-omitting-him-from-family-skit.md",
-      "title": "Kamala Harris' stepson Cole Emhoff calls out 'SNL' for omitting him from family skit",
-      "excerpt": "Kamala Harris' stepson Cole Emhoff was disappointed \"Saturday Night Live\" left him out of a sketch portraying his family.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/kamala-harris-stepson-cole-emhoff-snl-omitting-skit",
-      "originalUrl": "https://www.foxnews.com/entertainment/kamala-harris-stepson-cole-emhoff-snl-omitting-skit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/maya-rudolph-snl.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/kamala-harris-stepson-cole-emhoff-snl-omitting-skit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/kamala-harris-stepson-cole-emhoff-snl-omitting-skit.amp",
-      "publishedDateTime": "2021-03-30T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-biden-unveils-first-slate-of-judicial-nominees-featuring-diverse-and-history-making-selections.md",
-      "title": "Biden unveils first slate of judicial nominees featuring diverse and history-making selections",
-      "excerpt": "President Joe Biden on Tuesday unveiled a diverse slate of 11 judicial nominees, including three African American women for Circuit Court vacancies and a candidate who, if confirmed, would be the first Muslim American federal judge in US history.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z6yG8H8V__s/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z6yG8H8V__s/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 1178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210330072136-01-ketanji-brown-jackson-file-restricted-2019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nominees/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nominees/index.html",
-      "publishedDateTime": "2021-03-30T05:16:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-tv-kamala-harris-kizzmekia-corbett-in-lifetime-special-charlotte-observer.md",
-      "title": "TV: Kamala Harris, Kizzmekia Corbett in Lifetime special | Charlotte Observer",
-      "excerpt": "Women Making History (9 p.m., Lifetime) - This one-hour special honors notable female trailblazers, like Vice President Kamala Harris and North Carolina native Dr. Kissmekia “Kizzy” Corbett, a lead scientist on the development of the Moderna vaccine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.charlotteobserver.com/entertainment/tv/article250289770.html",
-      "originalUrl": "https://www.charlotteobserver.com/entertainment/tv/article250289770.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/8e831fcf-b0fe-4821-9639-a1c1dccab51a/b8f21ad2-5b84-4548-b003-1266b304582c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.charlotteobserver.com/entertainment/tv/article250289770.html",
-      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/entertainment/tv/article250289770.html",
-      "publishedDateTime": "2021-03-30T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Charlotte Observer",
-        "domain": "charlotteobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-best-and-brightest-biden-announces-trailblazing-slate-of-judicial-nominees.md",
-      "title": "'Best and brightest': Biden announces 'trailblazing' slate of judicial nominees",
-      "excerpt": "Photograph: Lloyd DeGrane/Wikimedia Commons Last modified on Tue 30 Mar 2021 07.39 EDT Joe Biden has announced a “trailblazing” set of federal judicial nominees, 11 picks including three Black women. Ketanji Brown Jackson, a US district judge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/mar/30/biden-federal-judicial-nominees-judges",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/30/biden-federal-judicial-nominees-judges",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/a6d2ab7a2e08976af370ac51bf97b267552399f5/0_147_4403_2934/master/4403.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d96a1e7e4fcd8c9f860f4e8ccf360f96",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/30/biden-federal-judicial-nominees-judges",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/biden-federal-judicial-nominees-judges",
-      "publishedDateTime": "2021-03-30T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -962,384 +1098,7 @@
         "Election",
         "Joe Biden"
       ]
-    },
-    {
-      "path": "_news/2021-03-30-trumps-heir-pence-reemerges-lays-groundwork-for-2024-run.md",
-      "title": "Trump's heir? Pence reemerges, lays groundwork for 2024 run",
-      "excerpt": "Former President Donald Trump recently rattled off the names of those he viewed as future leaders of the Republican Party, including Sens. Josh Hawley and Ted Cruz along with Florida Gov. Ron DeSantis",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1030,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_8dd217cdefef407ab9354e165aef7d37_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-heir-pence-reemerges-lays-groundwork-2024-run-76762282",
-      "publishedDateTime": "2021-03-30T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-dnc-chair-jaime-harrison-who-lost-to-graham-in-november-calls-out-senator-over-guns.md",
-      "title": "DNC chair Jaime Harrison-- who lost to Graham in November-- calls out senator over guns",
-      "excerpt": "Democratic National Committee (DNC) chair Jaime Harrison on Monday said Lindsey Graham was \"embarrassing\" both himself and South Carolina after the senator revealed he would use his AR-15 to defend his home if needed.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pMg9SLnuIe8/dnc-chair-jaime-harrison-says-graham-is-embarrassing-south-carolina-despite-senate-race-loss",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pMg9SLnuIe8/dnc-chair-jaime-harrison-says-graham-is-embarrassing-south-carolina-despite-senate-race-loss",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Graham-Harrison-Split.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dnc-chair-jaime-harrison-says-graham-is-embarrassing-south-carolina-despite-senate-race-loss.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dnc-chair-jaime-harrison-says-graham-is-embarrassing-south-carolina-despite-senate-race-loss.amp",
-      "publishedDateTime": "2021-03-30T02:29:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-trump-will-be-back-in-office-mypillow-ceo-reveals-plan-for-white-house-return.md",
-      "title": "Trump 'Will Be Back In Office': MyPillow CEO Reveals Plan For White House Return",
-      "excerpt": "Donald Trump will be president again by August, according to a projection made by MyPillow CEO Mike Lindell. The MAGA-supporting pillow maker was on former Trump adviser Steve Bannon’s “War Room: Pandemic” podcast when he made the eyebrow-raising prediction “Donald Trump will be back in office in August,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trump-will-be-back-office-mypillow-ceo-reveals-plan-white-house-return-3171390",
-      "originalUrl": "https://www.ibtimes.com/trump-will-be-back-office-mypillow-ceo-reveals-plan-white-house-return-3171390",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/29/mike-lindell.jpg",
-          "width": 1024,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trump-will-be-back-office-mypillow-ceo-reveals-plan-white-house-return-3171390?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-will-be-back-office-mypillow-ceo-reveals-plan-white-house-return-3171390?amp=1",
-      "publishedDateTime": "2021-03-29T19:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-trump-launches-45-office-website-amid-speculation-about-his-future.md",
-      "title": "Trump launches '45 Office' website amid speculation about his future",
-      "excerpt": "Former President Donald Trump and former First Lady Melania Trump launched a website Monday in what his office described as a bid to stay in touch with supporters and coordinate future appearances.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPE8UxvPSdk/trump-launches-45-office-website-amid-speculation-about-future",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPE8UxvPSdk/trump-launches-45-office-website-amid-speculation-about-future",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb14def2-f6e9-4f0e-88e8-4bb0b38a9ec8/ffc8e1c0-0304-4e43-8d1f-fa39f4ae0ca9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-launches-45-office-website-amid-speculation-about-future.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-launches-45-office-website-amid-speculation-about-future.amp",
-      "publishedDateTime": "2021-03-29T18:46:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-campos-duffy-blasts-stone-cold-political-operator-biden-claiming-compassion-for-migrants.md",
-      "title": "Campos-Duffy blasts 'stone-cold political operator' Biden claiming compassion for migrants",
-      "excerpt": "On \"Fox News Primetime,\" host Rachel Campos-Duffy slammed President Biden for claiming the migrant border surge is due to his standing as a friendly, compassionate head of state, saying that the president is really overseeing a humanitarian catastrophe.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V7hoNy-nCvg/campos-duffy-blasts-stone-cold-political-operator-biden-claiming-compassion-for-migrants",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V7hoNy-nCvg/campos-duffy-blasts-stone-cold-political-operator-biden-claiming-compassion-for-migrants",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/campos-duffy-blasts-stone-cold-political-operator-biden-claiming-compassion-for-migrants.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/campos-duffy-blasts-stone-cold-political-operator-biden-claiming-compassion-for-migrants.amp",
-      "publishedDateTime": "2021-03-29T17:51:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-buttigieg-no-plan-to-increase-gas-or-mileage-tax-in-biden-infrastructure-plan.md",
-      "title": "Buttigieg: No Plan To Increase Gas Or Mileage Tax In Biden Infrastructure Plan",
-      "excerpt": "Secretary of Transportation Pete Buttigieg pledged on Monday that the Biden infrastructure plan will not feature a tax hike on gas or mileage for those with incomes less than $400,000 in an interview with CNN host Jake Tapper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/03/29/buttigieg_no_plan_to_increase_gas_or_mileage_tax_in_biden_infrastructure_plan.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/03/29/buttigieg_no_plan_to_increase_gas_or_mileage_tax_in_biden_infrastructure_plan.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/53/539105.jpg",
-          "width": 1106,
-          "height": 828,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/03/29/buttigieg_no_plan_to_increase_gas_or_mileage_tax_in_biden_infrastructure_plan.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/29/buttigieg_no_plan_to_increase_gas_or_mileage_tax_in_biden_infrastructure_plan.amp.html",
-      "publishedDateTime": "2021-03-29T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-covid-19-response.md",
-      "title": "Trump accuses Fauci, Birx of 'trying to reinvent history' on COVID-19 response",
-      "excerpt": "Former President Donald Trump slammed Anthony Fauci and Deborah Birx on Monday, accusing the infectious disease experts of “trying to reinvent history” in televised interviews detailing their roles in combating the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W5TT_L-m9XI/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W5TT_L-m9XI/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb14def2-f6e9-4f0e-88e8-4bb0b38a9ec8/ffc8e1c0-0304-4e43-8d1f-fa39f4ae0ca9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-accuses-fauci-birx-of-trying-to-reinvent-history-on-coronavirus-pandemic-response.amp",
-      "publishedDateTime": "2021-03-29T16:25:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
     }
   ],
-  "nextPage": 18
+  "nextPage": null
 }

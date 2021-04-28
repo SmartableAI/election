@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden resists raising refugee cap over political optics, sources say"
-    excerpt: "President Joe Biden has resisted signing off on raising the Trump-era refugee cap because of political optics, sources have told CNN.\n    \n"
-    publishedDateTime: 2021-04-15T13:53:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M4Ffv_2cEyQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/biden-refugees/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/biden-refugees/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204131909-01-biden-state-department-0204-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "These were Biden's campaign promises on the climate crisis"
     excerpt: "President Joe Biden has promised to act urgently on the climate crisis. His plans include returning the US to the Paris climate accord and working to move toward clean energy.\n    \n"
     publishedDateTime: 2021-04-20T19:00:59Z
@@ -79,19 +63,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden preparing for 'tinderbox' with country on edge ahead of verdict in Chauvin trial"
-    excerpt: "President Joe Biden is keeping a watchful eye on this week's closing arguments in the Minneapolis trial of Derek Chauvin, fearful that a controversial verdict could inflame new racial tensions and further escalate a deepening crisis in confidence with the nation's police forces.\n    \n"
-    publishedDateTime: 2021-04-19T11:42:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NuwRgujjLlE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/joe-biden-chauvin-trial-preparations/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/joe-biden-chauvin-trial-preparations/index.html"
+  - title: "Biden starts infrastructure push by meeting bipartisan group of lawmakers who could help shape $2 trillion proposal"
+    excerpt: "President Joe Biden will meet with a bipartisan group of lawmakers on Monday afternoon to discuss his roughly $2 trillion jobs and infrastructure proposal, as he faces united Republican opposition to the plan and pressure from Democrats to move without GOP support.\n    \n"
+    publishedDateTime: 2021-04-13T01:49:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Tc2zr1MJYeM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/biden-infrastructure-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/biden-infrastructure-meeting/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 153
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416173011-01-biden-0414-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409091509-06-biden-infrastructure-0331-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

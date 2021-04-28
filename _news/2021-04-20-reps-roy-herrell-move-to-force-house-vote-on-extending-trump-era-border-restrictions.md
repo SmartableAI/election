@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/reps-roy-herrell-house-vote-extendi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions.amp"
 type: article
 quality: 167
-heat: 207
+heat: 247
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Rep. Ashley Hinson seeks to revive Trump's deregulation executive orders"
+    excerpt: "EXCLUSIVE: Rep. Ashley Hinson, R-Iowa, introduced new legislation Tuesday to make permanent five of former President Donald Trump's executive orders that President Biden already repealed. "
+    publishedDateTime: 2021-04-13T19:44:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nQAr7hmtD3E/ashley-hinson-seeks-revive-trumps-deregulation-executive-orders"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Ashley-Hinson.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House Republicans Who Voted to Impeach Trump See Fundraising Boost"
     excerpt: "The 10 Republicans who voted to impeach then-President Trump after his supporters stormed the Capitol raised significantly more money during the first quarter of 2021 than they did two years earlier."
     publishedDateTime: 2021-04-17T12:00:00Z
@@ -46,6 +60,20 @@ related:
       - url: "https://images.wsj.net/im-326160/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Rep. Ashley Hinson seeks to revive Trump's deregulation executive orders"
+    excerpt: "EXCLUSIVE: Rep. Ashley Hinson, R-Iowa, introduced new legislation Tuesday to make permanent five of former President Donald Trump's executive orders that President Biden already repealed. The freshman lawmaker authored the \"Red Tape Reduction Act\" to ..."
+    publishedDateTime: 2021-04-13T19:44:00Z
+    webUrl: "https://www.foxnews.com/politics/ashley-hinson-seeks-revive-trumps-deregulation-executive-orders"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 114
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Ashley-Hinson.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump's Dominance Spells Trouble for Republican Party"
     excerpt: "RealClearPolitics"

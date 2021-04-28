@@ -32,21 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris event's lack of clergy 'an insult to the Black community,' pastor says"
-    excerpt: "A pastor in Connecticut said the lack of clergy at an event hosted by Vice President Kamala Harris is \"an insult to the Black community.\""
-    publishedDateTime: 2021-03-30T19:14:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0SbM-cSgBq8/kamala-harris-black-community-clergy-insult"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-black-community-clergy-insult.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-black-community-clergy-insult.amp"
+  - title: "VP Harris thanks Guatemalan President Giammattei after his crackdown on migrants, doesn't visit border"
+    excerpt: "Vice President Kamala Harris shared a call with Guatemalan President Alejandro Giammattei Tuesday to discuss immigration amid a surging crisis and despite declining to visit the U.S.-Mexico border herself since taking office."
+    publishedDateTime: 2021-03-31T01:39:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B0pXFkn-dGk/vice-president-harris-guatemalan-president-giammattei-illegal-immigants"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-president-harris-guatemalan-president-giammattei-illegal-immigants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-harris-guatemalan-president-giammattei-illegal-immigants.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 178
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/248dc3ad-9eb8-4abe-a05a-57fa33ae3132/2dbf9201-97d3-46d9-93d6-25dc2f60a58b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21089772700299.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Christian minister sues Nancy Pelosi, Kamala Harris over access to Capitol"
+    excerpt: "A Christian minister is suing House Speaker Nancy Pelosi, Vice President Kamala Harris, the Capitol Police Board, and the Sergeant of Arms for the Senate — saying he was denied access to"
+    publishedDateTime: 2021-03-31T16:51:00Z
+    webUrl: "https://nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/"
+    ampWebUrl: "https://nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/rev-mahoney-suing-harris-pelosi-fences-hp2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Kamala Harris event's lack of clergy 'an insult to the Black community,' pastor says"
     excerpt: "A pastor in Connecticut said the lack of clergy at a local event hosted by Vice President Kamala Harris is \"an insult to the Black community.\" The Rev. Boise Kimber, speaking on behalf of the Greater New Haven Clergy Association at a Monday press ..."
@@ -63,22 +79,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/248dc3ad-9eb8-4abe-a05a-57fa33ae3132/2dbf9201-97d3-46d9-93d6-25dc2f60a58b/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Watch: VP Kamala Harris Visits Child Development Center In Connecticut"
-    excerpt: "As part of the tour promoting the COVID-19 vaccine, the vice president visited a child development center in Connecticut on Friday afternoon."
-    publishedDateTime: 2021-03-26T20:47:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.html#!"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/26/vp_kamala_watch_live_harris_visits_child_development_center_in_connecticut.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/538866.jpg"
-        width: 6000
-        height: 4000
         isCached: true
 
 secured: "UdYtk/cMsxMGEZHPo2JRdTrfVKuDL9zVZrEjHvDhH9hV7zuhqqUQS8Zx2JFzhnt27v2YjDQgN/qrwd4qji88d1bJQjVRQWB9PtLnwhCQkYOJ0PCzIspwuJF0RI0DHiMFPXAJG7t0eAWOiUC12MS5v912YTPLo3vcuHgDtHKAbRNLD47e1P6thfIBXjr3isc9P60PTwq0JVDnkveeXZTtQp4dPnc6ZtS948wGRsyTZ2OTpeJ1Pnq50wyVLZ8PaHuHTYUGd1V2rDIbP2Hqk8IQQuB3aQ4zxJi/WOrjzfgqZvjuSj/F0GIFKvFzHfeEs9DekBvQ4yrnLlhW5hkgKHzqo5nZt1ZSRCjcSvuZREsKqao=;jM7qrRC8FMbl/a5Nv/0tAw=="

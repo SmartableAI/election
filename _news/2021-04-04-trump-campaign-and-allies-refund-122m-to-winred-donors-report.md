@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-refund-winred-donors
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-refund-winred-donors-2020.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump to rally GOP at Mar-a-lago and preview pathway for Republican victories"
+    excerpt: "Former President Trump will address a major Republican National Committee gathering Saturday night where he's expected to say that if Republicans stick to an \"America First\" agenda the GOP will win back Congress in 2022 and take back the White House in 2024."
+    publishedDateTime: 2021-04-10T21:27:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4LN8tpNf9SA/trump-to-rally-gop-at-mar-a-lago-and-preview-pathway-for-republican-victories"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-to-rally-gop-at-mar-a-lago-and-preview-pathway-for-republican-victories.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-rally-gop-at-mar-a-lago-and-preview-pathway-for-republican-victories.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3dc178aa-e834-4945-ac58-b1de3c7cc784/2cbc7bbc-d9ef-431b-8b45-8da5b3ba3be3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump denies report that Matt Gaetz asked for blanket pardon"
     excerpt: "Former President Donald Trump on Wednesday denied a report that claimed embattled Rep. Matt Gaetz sought a blanket pardon from his White House — for himself and unidentified congressional"
     publishedDateTime: 2021-04-07T15:48:00Z
@@ -47,37 +63,37 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Haaland Explores Restoration of Utah Monuments Trump Downsized"
-    excerpt: "Biden Interior Secretary Deb Haaland to meet with competing interests in trip on Thursday to Bears Ears and Grand Staircase-Escalante."
-    publishedDateTime: 2021-04-08T11:00:00Z
-    webUrl: "https://www.wsj.com/articles/haaland-explores-restoration-of-utah-monuments-trump-downsized-11617879614"
-    ampWebUrl: "https://www.wsj.com/amp/articles/haaland-explores-restoration-of-utah-monuments-trump-downsized-11617879614"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/haaland-explores-restoration-of-utah-monuments-trump-downsized-11617879614"
+  - title: "Trump Bashes McConnell in Speech to GOP Donors"
+    excerpt: "The Senate voted to acquit former President Donald Trump on the charge he incited an insurrection at the Capitol, ending a weeklong impeachment trial. Photo Illustration: Laura Kammermann Former President Donald Trump lashed out at top Senate Republican ..."
+    publishedDateTime: 2021-04-11T15:24:00Z
+    webUrl: "https://www.wsj.com/articles/trump-bashes-mcconnell-in-speech-to-gop-donors-11618158201"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-bashes-mcconnell-in-speech-to-gop-donors-11618158201"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-bashes-mcconnell-in-speech-to-gop-donors-11618158201"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-321900/social"
+      - url: "https://images.wsj.net/im-323441/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Trump attacks NY Times for report on recurring donors who sought refunds"
-    excerpt: "Former President Donald Trump on Monday ripped into the New York Times for running a story on refunds issued to people who claimed they unwittingly signed up to be recurring donors to his campaign."
-    publishedDateTime: 2021-04-05T19:54:00Z
-    webUrl: "https://nypost.com/2021/04/05/trump-attacks-nytimes-for-report-on-donors-who-sought-refunds/"
-    ampWebUrl: "https://nypost.com/2021/04/05/trump-attacks-nytimes-for-report-on-donors-who-sought-refunds/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/05/trump-attacks-nytimes-for-report-on-donors-who-sought-refunds/amp/"
+  - title: "Trump to rally GOP at Mar-a-lago and preview pathway for Republican victories"
+    excerpt: "Former President Trump will address a major Republican National Committee gathering Saturday night where he's expected to say that if Republicans stick to an \"America First\" agenda the GOP will win back Congress in 2022 and take back the White House in 2024."
+    publishedDateTime: 2021-04-10T21:31:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-to-rally-gop-at-mar-a-lago-and-preview-pathway-for-republican-victories"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-to-rally-gop-at-mar-a-lago-and-preview-pathway-for-republican-victories.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-rally-gop-at-mar-a-lago-and-preview-pathway-for-republican-victories.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-001.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3dc178aa-e834-4945-ac58-b1de3c7cc784/2cbc7bbc-d9ef-431b-8b45-8da5b3ba3be3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "rMMNmKH6G9sedt7DOtVhzN7KyS6BTo7iQu0ofFpLAuA0fYEaxDletc7SPOywyDPVmQuloR+JbkLjKxCSyfgpO8jbohKmI7eyxdJtMCBpTHsIbINYeWD2rpCIaRrXoLPaR8/GrjKgVSXFhEYOBUfeqpQjHZ5lgCePjaflNMCPJ26M7bzoW6h0s7+aqa3h0OilINorFD54wjesFp3yT/Je2M9dgoQreh2duCpD2eq98TDCvVAJ8Iwnew5ArVP3jkfoPbsqk2X3taL//7WtOOKSI6ECDSbQGsi7HzLIWDPB3EGyoYxn0XmMyl3lnTRROc+dhkkukdsQGo/PiueNbLOrsvGB0KM7wxmdFQGaX2ETcng=;/BcaDwJbB0yuEgsBVT0+IA=="

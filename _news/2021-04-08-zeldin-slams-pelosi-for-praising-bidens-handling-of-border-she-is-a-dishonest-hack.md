@@ -31,69 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Here's how Nancy Pelosi could personally benefit from Biden’s $2T spending bill"
-    excerpt: "House Speaker Nancy Pelosi, D-Calif., is positioned to potentially personally benefit from President Biden’s $2 trillion spending bill – and here's how she could do it."
-    publishedDateTime: 2021-04-05T16:11:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QUudE0KtKOE/biden-spending-bill-pelosi-tesla-husband"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-spending-bill-pelosi-tesla-husband.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spending-bill-pelosi-tesla-husband.amp"
+  - title: "Karl Rove slams Biden's pick to head Supreme Court commission as 'political hack'"
+    excerpt: "Fox News contributor Karl Rove warns Democrats against expanding the Supreme Court, saying it may not working their favor in 2022, on 'Your World.'"
+    publishedDateTime: 2021-04-09T22:32:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RUJMfA5OSYE/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack"
+    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6006abae-c244-4c3a-9668-00383f221969/3d269837-fe51-4751-9b4e-d1ca0217c647/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Former Sen. Perdue slams Biden spending bill as a 'climate change bill at its roots'"
-    excerpt: "Former Georgia Senator David Perdue slammed President Biden's $2 trillion infrastructure spending bill Thursday, saying it was \"a climate change bill at its roots.\" "
-    publishedDateTime: 2021-04-01T23:56:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/arhZXkmdero/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots"
-    ampWebUrl: "https://www.foxnews.com/politics/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
+    quality: 170
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Buttigieg defends Biden's $2T spending plan, despite just a fraction going to roads, bridges"
-    excerpt: "Transportation Secretary Pete Buttigieg on Thursday defended President Biden's sprawling economic spending measure, even though just a fraction of the $2 trillion being billed as an infrastructure package goes toward rebuilding the nation's crumbling roads and bridges."
-    publishedDateTime: 2021-04-01T15:05:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ji9t55U4sug/buttigieg-defends-biden-spending-plan-infrastructure-roads-bridges"
-    ampWebUrl: "https://www.foxnews.com/politics/buttigieg-defends-biden-spending-plan-infrastructure-roads-bridges.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-defends-biden-spending-plan-infrastructure-roads-bridges.amp"
+  - title: "NY Dem calls on Supreme Court Justice Stephen Breyer to retire so Biden can pick a nominee"
+    excerpt: "New York Democrat Rep. Mondaire Jones said there’s \"no question\" Supreme Court Justice Stephen Breyer should retire during President Biden’s presidency. "
+    publishedDateTime: 2021-04-16T18:46:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b0Q9CxFEcoA/democratic-rep-supreme-court-justice-stephen-breyer-retire"
+    ampWebUrl: "https://www.foxnews.com/politics/democratic-rep-supreme-court-justice-stephen-breyer-retire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-rep-supreme-court-justice-stephen-breyer-retire.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Biden-Spending-Plan-Infrastructure-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/mondaire-jones.jpeg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Republican senators line up against Biden's massive $2.2T spending bill: 'Far cry away from' infrastructure"
-    excerpt: "The opposition is coming even from moderates who attempted to work with Biden on the coronavirus stimulus plan."
-    publishedDateTime: 2021-04-01T13:52:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/53yiLDIzkjM/republicans-bidens-spending-bill-far-cry-away-infrastructure"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-bidens-spending-bill-far-cry-away-infrastructure.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-bidens-spending-bill-far-cry-away-infrastructure.amp"
+  - title: "Kennedy say 'wokers' want 'politicians in robes,' vows 'hell of a fight' if Biden tries to pack court"
+    excerpt: "Sen. John Kennedy, R-La., said Monday that there will be a 'hell of a fight' if President Biden caves to the 'wokers' who want to pack the Supreme Court. "
+    publishedDateTime: 2021-04-12T14:38:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h2Wrmgkrk7A/wokers-politicians-fight-biden-pack-supreme-court-john-kennedy"
+    ampWebUrl: "https://www.foxnews.com/politics/wokers-politicians-fight-biden-pack-supreme-court-john-kennedy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wokers-politicians-fight-biden-pack-supreme-court-john-kennedy.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 160
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Karl Rove slams Biden's pick to head Supreme Court commission as 'political hack'"
+    excerpt: "DNC general counsel. In the 2020 election, he helped Biden vet his vice presidential running mates, and then in the debate prep played Donald Trump in the debate prep for Joe Biden. So here we have a very touchy issue, should we or should we not expand the ..."
+    publishedDateTime: 2021-04-09T22:35:00Z
+    webUrl: "https://www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack"
+    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3898acf2-fc08-4a0d-b912-eff0dfbf077d/d3876187-a51c-4d18-96e6-b7d37a330fda/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "jLKhoWKjIu4SJaA54i6U1fHlg80Gx0/f0mmVZDr2glV390uV8dwdi1vJhAxL2kjjCESIHyBduuz/XiLBq0J+xXJ4OY+D+tc11codb7bvtLx7u++PnBj3eDaYT2rkXFANyCQn20XtVxSjvGa2Bvl0Tu+EdRousuvqANjbnCANifh90WKfkXNeA8d/hAO+OYtsNlVeCGGAgwC/hVyDGJN98g4PNJy9RIa2ncFDLQhuCg1funelpXlDsoOCN6MtKI2pq9EODro7YGlAiq+fcByt7MO7CZ5ryF2nr44WOs8Mu0zv0vV2VipCdbNfIVH1dwdUM+gkSLDIbIWk3toQrYMayn5H8SgOb5ZqZeG29TLv7Ls=;8Eb3jf6FaoOyxTm6iK6rhw=="

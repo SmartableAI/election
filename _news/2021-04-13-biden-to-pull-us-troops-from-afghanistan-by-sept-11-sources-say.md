@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C028S"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C028S"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 645
+published: true
 
 provider:
   name: Reuters
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden: 'Tough' to withdraw from Afghanistan by May"
-    excerpt: "Withdrawing all U.S. troops from Afghanistan by May 1 as called for in a deal between the United States and the Taliban would be \"tough,\" President Biden Joe Biden Biden and Congress must take bold action to prevent violent extremism The Hill's Morning Report - Presented by Facebook - Biden faces GOP's immigration and filibuster offensive Democrats play defense on border crisis MORE said in an interview aired Wednesday,"
-    publishedDateTime: 2021-03-17T15:23:00Z
-    webUrl: "https://thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may"
-    ampWebUrl: "https://thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/543599-biden-tough-to-withdraw-from-afghanistan-by-may?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe2_31121_gettyimages.png"
-        width: 826
-        height: 551
-        isCached: true
   - title: "Biden to withdraw US troops from Afghanistan by September 11"
     excerpt: "Last modified on Tue 13 Apr 2021 12.41 EDT Joe Biden will withdraw all the remaining US troops from Afghanistan by September 11, the 20th anniversary of the al-Qaida terrorist attacks on New York and Washington, a senior administration official has confirmed."
     publishedDateTime: 2021-04-13T16:41:00Z
@@ -63,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden: 9/11 ‘cannot explain’ keeping troops in Afghanistan"
+    excerpt: "WASHINGTON — President Joe Biden says the Sept. 11 attacks “cannot explain” why U.S. troops should remain in Afghanistan 20 years later as he details the timeline for withdrawing them from America’s longest war. Support our journalism. Subscribe today."
+    publishedDateTime: 2021-04-14T14:05:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden set to withdraw U.S. troops from Afghanistan by Sept. 11"
     excerpt: "President Joe Biden plans to withdraw the remaining 2,500 U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after the al Qaeda attacks that triggered America's longest war, U.S. officials said on Tuesday."
     publishedDateTime: 2021-04-13T18:01:00Z
@@ -78,22 +78,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558302396&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C13Q"
         width: 753
         height: 545
-        isCached: true
-  - title: "Biden sparks bipartisan backlash on Afghanistan withdrawal"
-    excerpt: "President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims for Ramadan The business case for child care reform ..."
-    publishedDateTime: 2021-04-13T19:02:00Z
-    webUrl: "https://thehill.com/homenews/senate/548007-biden-sparks-bipartisan-backlash-on-afghanistan-withdrawal"
-    ampWebUrl: "https://thehill.com/homenews/senate/548007-biden-sparks-bipartisan-backlash-on-afghanistan-withdrawal?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548007-biden-sparks-bipartisan-backlash-on-afghanistan-withdrawal?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/ustroopsafghanistan_092417getty.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Biden to withdraw all US troops from Afghanistan by Sept. 11"
     excerpt: "President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims for Ramadan The business case for child care reform MOR ..."
@@ -143,6 +127,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Obama: Biden made 'right decision' on Afghanistan"
+    excerpt: "Former President Obama on Wednesday praised President Biden Joe Biden IRS to roll out payments for ,000 child tax credit in July Capitol Police told not to use most aggressive tactics in riot ..."
+    publishedDateTime: 2021-04-14T19:01:00Z
+    webUrl: "https://thehill.com/homenews/administration/548262-obama-biden-made-right-decision-on-afghanistan"
+    ampWebUrl: "https://thehill.com/homenews/administration/548262-obama-biden-made-right-decision-on-afghanistan?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/548262-obama-biden-made-right-decision-on-afghanistan?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/obamabarack_11022020_1_0.jpg"
+        width: 980
+        height: 552
+        isCached: true
   - title: "Biden to withdraw U.S. troops from Afghanistan by Sept. 11, officials say"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw the remaining U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, U.S. officials said on Tuesday. U.S ..."
     publishedDateTime: 2021-04-13T15:55:00Z
@@ -158,6 +158,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558314068&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C17V"
         width: 795
         height: 545
+        isCached: true
+  - title: "With Afghanistan decision, Biden restores foreign policymaking process that Trump had largely abandoned"
+    excerpt: "The administration held dozens of meetings that included high-level arguments to stay in Afghanistan before Biden settled on a choice he had previewed more than a decade ago."
+    publishedDateTime: 2021-04-18T22:44:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-afghanistan-decision-foreign-policy-process/2021/04/18/e45e3fec-a05d-11eb-a774-7b47ceb36ee8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-afghanistan-decision-foreign-policy-process/2021/04/18/e45e3fec-a05d-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-afghanistan-decision-foreign-policy-process/2021/04/18/e45e3fec-a05d-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YL3YJFFAR4I6XBP4AZTE75CITU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden to withdraw all US forces from Afghanistan by 9/11: Defense official"
     excerpt: "On Location: April 13, 2021 A U.S. defense official confirmed to ABC News Tuesday that President Joe Biden will withdraw all U.S. forces from Afghanistan by Sept. 11, the 20th anniversary of ..."
@@ -175,38 +191,113 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden wants to explore keeping U.S. counter-terrorism troops in Afghanistan -top lawmaker"
-    excerpt: "House of Representatives Armed Services Committee Chairman Adam Smith’s comments provided new details of U.S. President Joe Biden’s conduct of the Afghanistan peace process that he inherited from the Trump administration. The State Department referred ..."
-    publishedDateTime: 2021-03-24T21:40:00Z
-    webUrl: "https://www.reuters.com/article/usa-afghanistan-lawmaker-idUSL1N2LM3DS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BG3E1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG3E1"
+  - title: "Joe Biden Won't Let 9/11 Attacks Justify U.S. Continuing Afghanistan Deployment"
+    excerpt: "President Joe Biden is scheduled to announce a full withdrawal of troops from Afghanistan by September 11, a decision he says will not be influenced by the nearly 20-year-old terrorist attacks. Excerpts released by the White House ahead of Biden's ..."
+    publishedDateTime: 2021-04-14T16:25:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-wont-let-9-11-attacks-justify-us-continuing-afghanistan-deployment-1583620"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-wont-let-9-11-attacks-justify-us-continuing-afghanistan-deployment-1583620?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-wont-let-9-11-attacks-justify-us-continuing-afghanistan-deployment-1583620?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556102487&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N228"
-        width: 784
-        height: 545
+      - url: "https://d.newsweek.com/en/full/1777900/afghanistan-2021.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Biden officials' first meeting with China may be 'frank' on tough issues, from genocide to trade retaliation"
-    excerpt: "WASHINGTON – President Joe Biden's top national security advisers arrived in Alaska Thursday for their first face-to-face meeting with Chinese diplomats in a high-stakes showdown that could determine whether Washington and Beijing are headed for a \"new ..."
-    publishedDateTime: 2021-03-18T20:54:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/18/us-china-meeting-alaska-uyghurs-trade-retaliation-table/4718787001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4718787001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4718787001"
+  - title: "Joe Biden's 2012 Comments About Leaving Afghanistan 'Period' in 2014 Resurface"
+    excerpt: "After news broke that President Joe Biden plans to withdraw U.S. troops from Afghanistan by September, people began sharing 2012 comments from Biden vowing that America's military would be withdrawn from the country in 2014. Although Biden has repeatedly ..."
+    publishedDateTime: 2021-04-13T20:49:00Z
+    webUrl: "https://www.newsweek.com/joe-bidens-2012-comments-about-leaving-afghanistan-period-2014-resurface-1583394"
+    ampWebUrl: "https://www.newsweek.com/joe-bidens-2012-comments-about-leaving-afghanistan-period-2014-resurface-1583394?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-2012-comments-about-leaving-afghanistan-period-2014-resurface-1583394?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1777278/president-joe-biden.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Biden to say in Afghanistan speech ‘it’s time to end America’s longest war’ – live"
+    excerpt: "Lawmakers of both parties have criticized Joe Biden’s plan to withdraw all US troops from Afghanistan, with some accusing the president of abandoning America’s commitment to the Afghan people. In his speech this afternoon, Biden will emphasize that ..."
+    publishedDateTime: 2021-04-14T14:56:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/6787b5cbf19fa76e68505561539e063ff63cc6d6/0_31_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8f06c37fe345cbe74e3b82b57bb71003"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "'Time for American troops to come home': Biden announces Afghanistan withdrawal by Sept. 11"
+    excerpt: "The war in Afghanistan has cost more than $2 trillion and more than 2,300 American lives. More than 38,000 Afghan civilians have been killed."
+    publishedDateTime: 2021-04-14T23:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/14/biden-announces-afghanistan-troop-withdrawal-sept-11/7219176002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7219176002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7219176002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 106
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/17/USAT/2b6806aa-93a4-4415-8642-61de5444c287-AP_Biden_1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/03/11/USAT/48cd77d6-d669-4a97-9964-60c6ef952c50-AFP_AFP_1N99IM.JPG?auto=webp&crop=6000,3375,x0,y446&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
+  - title: "J&J vaccine, ex-Brooklyn Center officer's fate, Biden's Afghanistan plan: 5 things to know Wednesday"
+    excerpt: "President Joe Biden will on Wednesday announce his plans to move all U.S. military forces out of Afghanistan. All military presence will be pulled by Sept. 11 – the 20th anniversary of the 9/11 attacks that spurred America's longest war – and more ..."
+    publishedDateTime: 2021-04-14T07:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/04/14/jj-vaccine-analysis-ex-officers-fate-5-things-know-wednesday/7158327002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7158327002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7158327002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/267070c5-fb0b-46aa-aeb5-7be30f6f52d6-004_USATSI_15860695.jpg?auto=webp&crop=1602,902,x0,y194&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Biden tells Americans ‘we cannot continue the cycle’ in Afghanistan as he announces troop withdrawal"
+    excerpt: "President Biden formally announced Wednesday that the United States will withdraw all troops from Afghanistan by Sept. 11, saying in a speech from the White House that more time and more troops have failed to end the conflict and that is now time to close down America’s longest war."
+    publishedDateTime: 2021-04-14T19:25:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-afghanistan-pullout-speech/2021/04/14/a4fd907c-9d2a-11eb-9d05-ae06f4529ece_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-afghanistan-pullout-speech/2021/04/14/a4fd907c-9d2a-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-afghanistan-pullout-speech/2021/04/14/a4fd907c-9d2a-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2CWXCNE5KYI6XAAFX76DUOPW2M.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Analysis: Biden takes a risk pulling troops from Afghanistan"
+    excerpt: "At its start, America’s war in Afghanistan was about retribution for 9/11. Then it was about shoring up a weak government and its weak army so that Osama bin Laden's al-Qaida could never again threaten the United States."
+    publishedDateTime: 2021-04-15T04:10:00Z
+    webUrl: "https://www.businessinsider.com/analysis-biden-takes-a-risk-pulling-troops-from-afghanistan-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/analysis-biden-takes-a-risk-pulling-troops-from-afghanistan-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/analysis-biden-takes-a-risk-pulling-troops-from-afghanistan-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden announces withdrawal of all U.S. troops from Afghanistan by 9/11"
     excerpt: "President Joe Biden announced Wednesday plans to pull all U.S. military forces from Afghanistan by September 11, 2021, a move that would bring an end to America's longest war by the 20th anniversary of the terrorist attacks at the World Trade Center in New York City and the Pentagon."
     publishedDateTime: 2021-04-14T19:22:00Z
@@ -221,19 +312,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden salutes war dead after Afghanistan decision"
-    excerpt: "President Joe Biden salutes the graves of U.S. troops who died in recent conflicts, buried at Arlington National Cemetery on Wednesday. The visit came, after Biden pledges to withdraw remaining U.S. troops from the “forever war” in Afghanistan."
-    publishedDateTime: 2021-04-14T21:09:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/14/biden-salutes-war-dead-after-afghanistan-decision/7227953002/"
+  - title: "Biden says it's 'time to end America's longest war' as he reveals plans to bring US troops home from Afghanistan"
+    excerpt: "Biden said he was the fourth president to preside over the Afghanistan conflict, adding: \"I will not pass this responsibility on to a fifth.\""
+    publishedDateTime: 2021-04-14T21:28:00Z
+    webUrl: "https://www.businessinsider.com/biden-says-time-to-end-americas-longest-war-in-afghanistan-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-says-time-to-end-americas-longest-war-in-afghanistan-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-time-to-end-americas-longest-war-in-afghanistan-2021-4?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/93dd08f0-7e68-4947-9f9a-1e641f55ab55_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://i.insider.com/60771e174206150018175773?width=1200&format=jpeg"
+        width: 702
+        height: 351
         isCached: true
   - title: "Joe Biden: 'It's time for American troops to come home from Afghanistan' – video"
     excerpt: "The US president has declared that it is time ‘to end America’s longest war’, announcing that nearly 10,000 US and Nato troops would return home in the run-up to the 20th anniversary of 9/11. Joe Biden is the fourth US president to preside over the US-led fight against the Taliban."
@@ -249,21 +342,59 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden not ruling out chance US stays longer in Afghanistan"
-    excerpt: "WASHINGTON (AP) — President Joe Biden on Thursday did not rule out the possibility of U.S. troops staying in Afghanistan through the end of the year, and one of his top generals told Congress that Afghanistan's military forces need American assistance to ..."
-    publishedDateTime: 2021-03-27T19:32:00Z
-    webUrl: "https://www.myjournalcourier.com/news/article/US-general-Afghans-need-US-troops-to-counter-16052900.php"
-    ampWebUrl: "https://www.myjournalcourier.com/news/amp/US-general-Afghans-need-US-troops-to-counter-16052900.php"
-    cdnAmpWebUrl: "https://www-myjournalcourier-com.cdn.ampproject.org/c/s/www.myjournalcourier.com/news/amp/US-general-Afghans-need-US-troops-to-counter-16052900.php"
+  - title: "Biden outlines Afghanistan withdrawal: ‘It’s time for American troops to come home’ – live"
+    excerpt: "President says ‘only the Afghans have the right and responsibility to lead their country’ – follow all the latest politics news"
+    publishedDateTime: 2021-04-14T20:55:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest?page=with:block-607750598f0881c4146925a5"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
     type: article
     provider:
-      name: Journal-Courier
-      domain: myjournalcourier.com
-    quality: 75
+      name: The Guardian
+      domain: theguardian.com
+    quality: 95
+  - title: "Biden outlines Afghanistan withdrawal: ‘It’s time for American troops to come home’ – as it happened"
+    excerpt: "President says ‘only the Afghans have the right and responsibility to lead their country’ – follow all the latest politics news"
+    publishedDateTime: 2021-04-14T23:41:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest?page=with:block-607763838f08a91092687e25"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 90
+  - title: "Donald Trump blasts Biden's Sept. 11 withdrawal deadline in Afghanistan"
+    excerpt: "Former President Donald Trump said Sunday that President Biden should withdraw troops from Afghanistan before September and not use the sacred date of Sept. 11 as the deadline."
+    publishedDateTime: 2021-04-18T23:44:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/apr/18/donald-trump-blasts-biden-sept-11-afghanistan-with/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/18/donald-trump-blasts-biden-sept-11-afghanistan-with/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/18/donald-trump-blasts-biden-sept-11-afghanistan-with/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/12/4_122021_beltway-trump-conse8202_c0-104-2500-1562_s1200x700.jpg?2d5ddaaeb405183379a395b29cf0e643d3db558f"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Joe Biden’s Tale of Russian Bounties in Afghanistan Collapses Completely"
+    excerpt: "Biden and the Democrats knew the Russian bounties story was likely fake news, a hoax, a scam, whatever else you want to call it. But they didn’t care."
+    publishedDateTime: 2021-04-15T17:46:00Z
+    webUrl: "https://www.nationalreview.com/corner/joe-bidens-tale-of-russian-bounties-in-afghanistan-collapses-completely/"
+    ampWebUrl: "https://www.nationalreview.com/corner/joe-bidens-tale-of-russian-bounties-in-afghanistan-collapses-completely/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/joe-bidens-tale-of-russian-bounties-in-afghanistan-collapses-completely/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 74
+    images:
+      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2021/03/Joe-Biden-2.jpg?fit=1200%2C675&ssl=1"
+        width: 1200
+        height: 675
         isCached: true
   - title: "President Joe Biden sets new target for US troop withdrawal from Afghanistan: 20th anniversary of 9/11"
     excerpt: "President Joe Biden has decided to leave American troops in Afghanistan beyond the May 1 deadline negotiated with the Taliban by the Trump administration, and has set the 20th anniversary of the Sept. 11 attacks as the new goal, a U.S. official said Tuesday."
@@ -281,19 +412,19 @@ related:
         width: 5472
         height: 3648
         isCached: true
-  - title: "Biden not ruling out chance US stays longer in Afghanistan"
-    excerpt: "WASHINGTON (AP) — President Joe Biden on Thursday did not rule out the possibility of U.S. troops staying in Afghanistan through the end of the year, and one of his top generals told Congress that Afghanistan's military forces need American assistance to ..."
-    publishedDateTime: 2021-03-27T11:51:00Z
-    webUrl: "https://www.riverbender.com/topnews/details.cfm?id=336095"
+  - title: "President Joe Biden Makes Remarks on American Jobs Plan"
+    excerpt: "President Joe Biden makes remarks during a meeting with with a bipartisan group of Members of Congress to discuss historic investments in the American Jobs Plan, in the Oval Office at the White House on Monday,"
+    publishedDateTime: 2021-04-19T18:17:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/7ab59151b0e68dd9bb8daaac04173cc5/President-Joe-Biden-Makes-Remarks-on-American-Jobs-Plan/"
     type: article
     provider:
-      name: RiverBender.com
-      domain: riverbender.com
+      name: UPI.com
+      domain: upi.com
     quality: 55
     images:
-      - url: "https://s3.amazonaws.com/rbweb-ap-photos/843571e085fb4805a1402b9c7cb43149.jpg"
-        width: 640
-        height: 427
+      - url: "https://cdnph.upi.com/pv/upi/7ab59151b0e68dd9bb8daaac04173cc5/BIDEN-JOBS.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "XECzWxVSOzjJvhJmo9D+ue6w86uaKobbqMU39Ox2SHGo6cmWVbNWOKbtk4lqCRjmLUoBeIGwRr+OFoOeC46mjNDt0Nz+IF2HkJHnl9VhAmWWMCHqaUG9PqlUle4ZDicGfFmxXvUM+uU3czEfEqJr7kpRxmLO2+fNDMUI8T2ePnIngGW/tVyfa64Wairu2rf9Nle1TsMcBJXhTg1Kq5PLAQk9DWjJxCpBKiPvjtouk96zLl3vEbHV1yFrmrT82V4rLes+e8bSwOyLH434uGRaesPfoHy9VLLMZdn+CAIDgXaI7cagiYxMED6fsEgwueZkdLvhlx6SJ8uihvWDD/ZWv8S7CYv8l9IELn9s/hd2qH8=;xqkBPfZWlQwUP4dyg2N5NA=="

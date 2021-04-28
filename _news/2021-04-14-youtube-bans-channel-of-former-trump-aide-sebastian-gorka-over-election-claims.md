@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7220169002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7220169002"
 type: article
 quality: 136
-heat: 156
+heat: 136
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 678
     isCached: true
-
-related:
-  - title: "YouTube ban: Google extends suspension of former President Trump's channel"
-    excerpt: "YouTube is maintaining its suspension of former President Trump's channel on the video site. Rudy Giuliani's channel also had its revenue nixed."
-    publishedDateTime: 2021-01-27T07:16:00Z
-    webUrl: "https://www.usatoday.com/story/tech/news/2021/01/26/youtube-ban-former-president-trumps-channel-remain-suspended/4265336001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4265336001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4265336001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/96480bcf-d324-4a80-869b-9f23606fdcc3-VPC_TRUMP_FINAL_ADDRESS_IN_OFFICE_DESK.00_00_17_15.Still001.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "cgQ8KjlxxukHGAFIZ72sVqDeODl3aCCPE7k3fN6yiGlMyNmNWLqjcBvR8KYXSAlaBHDRWMXzAhr6Eta1t7LZ84XjKOc2Ijf+xinqe1BkzyBTbd9iAsufqsE/V6V4brnoUKxCzOCWYqmSPkZBu0yW6zzG6WWMfgyuklzp9RVASHpqTmT152zbn3OyV9soJspOlST7WqIYMGWagQKd3cjMqGfBRkfk4PEZzfG4B7LsHcur6vxrJ0vBserJoWGxPtZzMtDb/zaSFkIZKarmls91XJus71EvVSSCOyr2zP/1WB520lH9D7OKGO1CvSuAseYLIIRRPnDVpyPc4IsWM/YSWvAJfKRZ8DezymZeOZs4Rw4=;Z4Ew+vkDLE8K9JfrEQDLzw=="
 ---

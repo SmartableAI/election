@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Gingrich: Biden lied about Georgia election law and he owes the people an apology"
+    excerpt: "Former Speaker of the House Newt Gingrich joined Bill Hemmer on \"America's Newsroom\" on Friday to discuss the H.R. 1 election reform bill, accusing President Biden of \"flatly false\" statements about a new Georgia voting law. "
+    publishedDateTime: 2021-04-02T15:59:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m1VSqC8GU5s/gingrich-biden-lied-georgia-election-law"
+    ampWebUrl: "https://www.foxnews.com/politics/gingrich-biden-lied-georgia-election-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-biden-lied-georgia-election-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden tells Georgia to ‘smarten up’ to avoid losing business over new election law"
     excerpt: "President Biden said that Georgia needs to “smarten up” to avoid business leaving its state over recent voting legislation. "
     publishedDateTime: 2021-04-06T21:46:12Z
@@ -63,22 +79,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden convenes Cabinet meeting amid border crisis, spending bill push"
-    excerpt: "President Biden held his first Cabinet meeting on Thursday from the East Room at the White House as his administration grapples with the crisis at the U.S. southern border and as officials push a $2 trillion spending bill through Congress."
-    publishedDateTime: 2021-04-01T18:15:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5IVfWQ2FvLY/biden-first-cabinet-meeting-border-crisis-spending-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-first-cabinet-meeting-border-crisis-spending-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-cabinet-meeting-border-crisis-spending-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden says he'd 'strongly support' MLB moving All-Star game out of Atlanta over Georgia election law"
     excerpt: "President Biden expressed support for the idea for the MLB All-Star game to move out of Atlanta in response to the new Georgia election law that has sparked fierce backlash among liberals. "
     publishedDateTime: 2021-04-01T05:26:31Z
@@ -95,69 +95,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "ICE detentions plunge under Biden, leaving thousands of empty beds"
-    excerpt: "The Biden administration currently has in custody some 19,000 unaccompanied children, and it released almost 60% of migrant families encountered at the border in February."
-    publishedDateTime: 2021-04-05T19:18:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dsDlDzgyvRk/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds"
-    ampWebUrl: "https://www.foxnews.com/politics/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/william-la-jeunesse.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Progressives ramp up pressure on Biden to forgive student loan debt"
-    excerpt: "Progressives are ramping up the pressure on President Biden to forgive student debt relief as Education Secretary Miguel Cardona investigates the administration's legal authority."
-    publishedDateTime: 2021-04-05T16:38:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EW1dYAUoWyE/biden-cancel-student-debt-50000-progressive-pressure"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cancel-student-debt-50000-progressive-pressure.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cancel-student-debt-50000-progressive-pressure.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden5.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden to address joint session of Congress on April 28"
-    excerpt: "If Biden accepts the invitation, it would mark the first time he has addressed Congress in person since becoming president."
-    publishedDateTime: 2021-04-14T00:21:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9tajvtn_3qk/pelosi-invites-biden-to-address-joint-congress-session-on-april-28"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-invites-biden-to-address-joint-congress-session-on-april-28.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-invites-biden-to-address-joint-congress-session-on-april-28.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23634e94-94e7-4bf7-9e0c-fe06767c9820/a40574e7-a98b-4e06-b72a-eedcc3fe9dc2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden expected to move up deadline for adults to be eligible for vaccines"
-    excerpt: "President Biden is expected to announce Tuesday that he is moving up the date for adults to become eligible to receive a COVID-19 vaccine by April 19."
-    publishedDateTime: 2021-04-06T15:58:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bCq8B4EwCI/biden-covid-vaccine-eligibility-adults-deadline"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-covid-vaccine-eligibility-adults-deadline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-vaccine-eligibility-adults-deadline.amp"
+  - title: "Georgia Sen. Ossoff rejects Biden's baseball boycott over new voting law"
+    excerpt: "Sen. Jon Ossoff, D-Ga., said he won't support moving Major League Baseball's All-Star game out of Georgia in protest of the state's new divisive voting law. "
+    publishedDateTime: 2021-04-02T15:10:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dPZfP92R3dk/sen-ossoff-rejects-bidens-baseball-boycott-in-georgia-over-new-voting-law"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-ossoff-rejects-bidens-baseball-boycott-in-georgia-over-new-voting-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-ossoff-rejects-bidens-baseball-boycott-in-georgia-over-new-voting-law.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21004855298319.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Psaki won't say if Biden supports MLB Georgia boycott, despite past comment"
     excerpt: "White House press secretary Jen Psaki seemed to shy away Monday from President Biden's previous comments about Major League Baseball pulling its All-Star game from Georgia."
@@ -172,6 +124,22 @@ related:
     quality: 173
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b6d8964-c1aa-4264-9835-9dcb0d672c39/08d5c0e5-b80a-4864-9e25-ea57e536515e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Psaki doubles down on Biden's Georgia voting comments after major fact-check"
+    excerpt: "White House press secretary Jen Psaki furthered the president's criticism of Georgia's new voting law even after a fact check determined his line of attack was false."
+    publishedDateTime: 2021-04-01T21:11:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X6OjPWE3G5Y/psaki-doubles-down-georgia-voting-law"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-doubles-down-georgia-voting-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-doubles-down-georgia-voting-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2243c03-5c7f-410c-809b-82da3252a441/df7fc185-1eb1-4326-96d2-1af4b0d06388/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -207,22 +175,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden’s energy policy ‘sends a very dangerous message’ to Texas: George P. Bush"
-    excerpt: "Texas Land Commissioner George P. Bush, son of Jeb, revealed in an interview with \"Fox & Friends\" host Brian Kilmeade that he is \"taking a very serious look\" at running for attorney general and said he should be making his final decision \"fairly soon.\""
-    publishedDateTime: 2021-04-05T17:25:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/glpkzQAm5SA/bidens-energy-policies-dangerous-message-texas-george-p-bush"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-energy-policies-dangerous-message-texas-george-p-bush.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-energy-policies-dangerous-message-texas-george-p-bush.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Georgia Gov. Kemp hits MLB, Biden after election law prompts All-Star move: Nothing more than 'political play'"
     excerpt: "Georgia Gov. Brian Kemp on Saturday said the decision to pull the Major League Baseball All-Star Game over objections to changes to his state's voting laws was a \"political play.\" "
     publishedDateTime: 2021-04-03T16:45:33Z
@@ -239,21 +191,21 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Hunter Biden lost business after revelation of affair with brother's widow Hallie"
-    excerpt: "\"I made a lot of decisions that I probably shouldn't have made,\" Hunter Biden said in a recent interview."
-    publishedDateTime: 2021-04-04T16:24:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LZyapbF7wz4/hunter-biden-hallie-business-affair-world-food-program"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-hallie-business-affair-world-food-program.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-hallie-business-affair-world-food-program.amp"
+  - title: "Gov. Kemp: Biden trying to distract from border crisis with call to pull MLB All-Star Game from Georgia"
+    excerpt: "Georgia Governor Brian Kemp slammed President Joe Biden's attempt to pull the MLB all-star game from Georgia as a 'distraction' from his administration's handling of the crisis at the southern border. "
+    publishedDateTime: 2021-04-01T15:45:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fOp5SrTZlRM/biden-all-star-game-georgia-brian-kemp-voting-law"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-all-star-game-georgia-brian-kemp-voting-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-all-star-game-georgia-brian-kemp-voting-law.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 159
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1230697183.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Georgia Republican teases Biden and Schumer, says voting law should be more restricted like Delaware, NY"
     excerpt: "A Georgia lawmaker is proposing that his state align its voting laws with New York and Delaware's more restrictive regulations, an admitted \"political stunt\" designed to rebuke criticism from President Biden, who has lived in Delaware and served as one of its senators, and Senate Majority Leader Chuck"
@@ -284,22 +236,6 @@ related:
     quality: 158
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden open to breaking up controversial voting bill after Manchin opposes passing on 'partisan basis:' Psaki"
-    excerpt: "White House press secretary Jen Psaki said on Wednesday morning that President Biden is open to dividing Democrats' controversial election bill into multiple parts after Sen. Joe Manchin last week said he didn't think Congress should pass the entire thing at once."
-    publishedDateTime: 2021-03-31T19:13:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pd3yOTcRUpQ/biden-break-up-voting-bill-manchin"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -351,81 +287,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "MSNBC host concedes Biden stance on Georgia voting law not consistent: 'Impossible to square his argument'"
-    excerpt: "\"To listen to the president speaking right there, it's impossible to square his argument,\" MSNBC's Willie Geist said \"Morning Joe\" on Wednesday. MLB eventually did move the All-Star Game out of Georgia after Biden compared the state's new voting law to ..."
-    publishedDateTime: 2021-04-07T17:32:00Z
-    webUrl: "https://www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent"
-    ampWebUrl: "https://www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 117
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20f3bb9f-5836-4db5-a5df-e9a3441d9a8a/22b290f0-49ff-488d-bd4f-d5e835940878/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden open to breaking up controversial voting bill after Manchin opposes passing on 'partisan basis:' Psaki"
-    excerpt: "White House press secretary Jen Psaki said on Wednesday morning that President Biden is open to dividing Democrats' controversial election bill into multiple parts after Sen. Joe Manchin last week said he didn't think Congress should pass the entire thing at once."
-    publishedDateTime: 2021-03-31T19:18:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-break-up-voting-bill-manchin"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 116
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Jen-Psaki-Biden-Tax-Hike-Infrastructure-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Joe Biden's Bid to Remake America"
-    excerpt: "If Joe Biden's American Jobs Program, outlined in Pittsburgh, is enacted, then the federal government will take a great leap forward toward"
-    publishedDateTime: 2021-04-02T10:46:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/02/joe_bidens_bid_to_remake_america_145524.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/02/joe_bidens_bid_to_remake_america_145524.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/02/joe_bidens_bid_to_remake_america_145524.amp.html"
+  - title: "States Fight Back Against Biden War on the West"
+    excerpt: "This brings us to President Joe Biden. No president in modern times, perhaps ever, has shown such contempt for our system of federalism. So I was thrilled to see this headline from, of all places, Alaska: \"Dunleavy Tells Feds Alaska Is Taking Over ..."
+    publishedDateTime: 2021-04-06T09:32:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 85
     images:
-      - url: "https://assets.realclear.com/images/53/539501_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Biden Pushes Gun Control, But Legislation Is Unlikely"
-    excerpt: "(In certain states, even the private sale of legal firearms also requires a background check.) “Joe Biden is either lying, never bought a gun at a gun show, or both,” Donald Trump’s former chief of staff, Mark Meadows, tweeted. And others were quick ..."
-    publishedDateTime: 2021-04-09T10:47:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/09/biden_pushes_gun_control_but_legislation_is_unlikely_145560.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/09/biden_pushes_gun_control_but_legislation_is_unlikely_145560.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/09/biden_pushes_gun_control_but_legislation_is_unlikely_145560.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/540056_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Biden's Weakness On World Stage Is Dangerous"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-03-30T18:59:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/03/30/bidens_weakness_on_world_stage_is_dangerous_539365.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/539202_5_.jpg"
+      - url: "https://assets.realclear.com/images/53/539741_5_.jpg"
         width: 750
         height: 500
         isCached: true
@@ -443,48 +317,29 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Joe Biden, Hunter's Laptop & Media Lapdogs"
-    excerpt: "They date back to last October and are part of the scandalous information contained on a laptop abandoned by"
-    publishedDateTime: 2021-04-04T10:50:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/04/joe_biden_hunters_laptop_amp_media_lapdogs_539674.html"
+  - title: "Does Joe Biden Believe He is The Next FDR or LBJ? And the Politics of Georgia's New Voting Laws"
+    excerpt: "A.B Stoddard joins the panel to discuss whether President Joe Biden really sees himself as a transformational president, and why that matters to his agenda. Also, a look at the reaction to the new voting laws in Georgia, including the President's support ..."
+    publishedDateTime: 2021-04-02T20:46:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/02/does_joe_biden_believe_he_is_the_next_fdr_or_lbj_and_the_politics_of_georgias_new_voting_laws.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 65
+    quality: 53
     images:
-      - url: "https://assets.realclear.com/images/53/539634_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://assets.realclear.com/images/53/539562.jpg"
+        width: 336
+        height: 280
         isCached: true
-  - title: "Hunter Biden Whitewashes Almost Everything in Tell-All"
-    excerpt: "As addiction memoirs go, Hunter Biden's Beautiful Things is remarkable in one great sense: As poorly as he comes across, it's his father, President Biden, whose character takes a hit. The Joe Bid…"
-    publishedDateTime: 2021-04-04T19:58:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/04/hunter_biden_whitewashes_almost_everything_in_tell-all_539678.html#!"
+  - title: "As Biden Stands Down at the Border, America Suffers"
+    excerpt: "President Joe Biden is ceasing the execution of federal immigration laws, and the worst crisis in 20 years (by his own Department of Homeland Security secretary's admission) is likely to reach an unprecedented level."
+    publishedDateTime: 2021-03-31T10:54:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/31/as_biden_stands_down_at_the_border_america_suffers_539409.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/529429_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "If It Ain't Broke, Joe Biden Will Break It"
-    excerpt: "The sage advice that If it ain't broke, don't fix it is older than Joe Biden, but apparently he never heard of it. Or doesn't think much of it."
-    publishedDateTime: 2021-04-11T11:25:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/11/if_it_aint_broke_joe_biden_will_break_it_540257.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/540056_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
+    quality: 45
 
 secured: "W3m3mLVCjvsAfPR7oAwrhXoYNI3z5iLDE6FScOD6fVCr7MdqNgsZS6c7cxm8ajIWWzEayz2qfu7hrWMYG7pFYAqQjBrl4fWdPj8zc/zDEvQe67LTLu3jbFoVnt+Re5QgPNvyK8ZMF5OEHp/1kryh+jN86bhELZQXjJzDDbLJLdKyj0SLrtkpfbMZLbHCedvwq3DVHPlF+VVz+/NF1eQnTAGQP8/StRPIw/3WCfvEiAlLZYMV2YphL+zx297fXG87XrkT9SIAIdUrTj+7vmksrYYPD+nkKf6MCuCf4SfWYhe+z9wTcP/95saN8OIPUFetheN1aS/N+2nyal4kL6/b+O8+uq+MsGNPlDAwz5Rlits=;8bTFSiwnnD0p1ltBG+6KAg=="
 ---

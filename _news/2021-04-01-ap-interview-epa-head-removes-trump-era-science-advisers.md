@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "EPA dismisses dozens of key science advisers picked under Trump"
+    excerpt: "The Biden administration says it needs to restore trust in the agency by “resetting” membership on two key science advisory panels."
+    publishedDateTime: 2021-03-31T17:22:00Z
+    webUrl: "https://www.washingtonpost.com/climate-environment/2021/03/31/epa-advisory-panels/"
+    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/03/31/epa-advisory-panels/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/03/31/epa-advisory-panels/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HAV34QEHMAI6XPSKES4J6YLPFQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Exclusive: EPA reverses Trump stance in push to tackle environmental racism"
     excerpt: "Enforcement of pollution violations dropped steeply under Donald Trump’s administration, with the EPA even suspending routine inspections of facilities while the Covid-19 pandemic raged in the US last year. A lack of federal intervention further ..."
     publishedDateTime: 2021-04-07T15:17:00Z
@@ -74,6 +90,38 @@ related:
       - url: "https://i.guim.co.uk/img/media/f5b44bf3819ac8f85d1b8d8c20b62dad1cf25287/0_26_3573_2144/master/3573.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f1057de51843b32fde507bf1ac27e51d"
         width: 600
         height: 360
+        isCached: true
+  - title: "Pentagon announces new policies on transgender troops, reversing Trump-era ban"
+    excerpt: "President Joe Biden in an executive order in January reversed the Trump-era ban on transgender troops serving ... The ban on transgender troops was announced by former President Donald Trump in 2017 and took effect in 2019. Secretary of Defense Lloyd ..."
+    publishedDateTime: 2021-03-31T19:31:00Z
+    webUrl: "https://www.cbsnews.com/news/transgender-troops-military-policies-updated/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/transgender-troops-military-policies-updated/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/transgender-troops-military-policies-updated/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2017/08/29/5ad04d6c-19bf-4652-9788-f4356df1cb3c/thumbnail/1200x630/42323df4d9d19fb6da5aa88315d66253/gettyimages-823246288.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Blinken Restores LGBTQ Protections, Abortion Rights Support With Removal of Trump-Era Policies"
+    excerpt: "U.S. Secretary of State Antony Blinken disavowed some foreign policy positions established by Donald Trump's administration on Tuesday. During remarks to present the State Department's latest human rights report, an annual review of human rights conditions ..."
+    publishedDateTime: 2021-03-30T20:02:00Z
+    webUrl: "https://www.newsweek.com/blinken-restores-lgbtq-protections-abortion-rights-support-removal-trump-era-policies-1579926"
+    ampWebUrl: "https://www.newsweek.com/blinken-restores-lgbtq-protections-abortion-rights-support-removal-trump-era-policies-1579926?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/blinken-restores-lgbtq-protections-abortion-rights-support-removal-trump-era-policies-1579926?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
+    images:
+      - url: "https://d.newsweek.com/en/full/1767637/antony-blinken-secretary-state.jpg"
+        width: 2500
+        height: 1639
         isCached: true
 
 secured: "TqGZvZKVsc1X8vtHh/3qqNTLwTRMuLMKi5HMvxvmmNkjIm51FjaYvab0wQZtLTfhT+MjPpCgbo3DXdaekMUm3fGlib/bt+cpUjMNEFbi4WpB7+kxRY/NMRJvfbRCKr41pyku3JBuo9dpOwwSinviZiQ/04z0supeWQ0WjqVKDGE/QnMAYnsLL7zrXz5TaOMWwPUhO9aG4tDVbwYkOdzLuAfXsFH1L9opZa5Lij6E9aorNnwgBsIIKROGsfPsXe5gnVrgsukTwi3nzuzbWscn0mwhdk9FT4n/qtvct4OSO0v/LBYtYPWv/gMdi78fQgugTFrHDVOWDNsMP0BxvFcUfx++v8LALR4w9pzwF3bJe/E=;ttpMjenSskDsDGe13+BmiQ=="

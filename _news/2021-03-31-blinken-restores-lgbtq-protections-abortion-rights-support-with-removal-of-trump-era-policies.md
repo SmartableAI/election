@@ -31,133 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Blinken ends Trump rights plan promoting conservative agenda"
-    excerpt: "In another rebuke to Trump-era policies, Secretary of State Antony Blinken will scrap a blueprint championed by his predecessor to limit U.S. promotion of human rights abroad to causes favored by cons"
-    publishedDateTime: 2021-03-30T16:03:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/blinken-ends-trump-rights-plan-promoting-conservative-agenda/2021/03/30/7f10a38c-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+  - title: "AP Interview: EPA head removes Trump-era science advisers"
+    excerpt: "Michael Regan, the new head of the Environmental Protection Agency, is reversing Trump administration actions that sidelined many academic scientists as advisers in favor of industry figures ..."
+    publishedDateTime: 2021-03-31T15:03:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/epa-chief-committed-restoring-scientific-integrity-76790177"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/epa-chief-committed-restoring-scientific-integrity-76790177"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/epa-chief-committed-restoring-scientific-integrity-76790177"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Two Capitol Police officers sue Trump over Jan. 6 riots"
-    excerpt: "WASHINGTON (Reuters) - Two U.S. Capitol Police officers have filed a lawsuit against former President Donald Trump, saying he incited the deadly Jan. 6 insurrection and was responsible for physical and emotional injuries they suffered as a result."
-    publishedDateTime: 2021-03-31T12:03:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-capitol-riots-lawsuit/two-capitol-police-officers-sue-trump-over-jan-6-riots-idUSKBN2BN1RC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN1RC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1RC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556880478&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0VN"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Blinken reaffirms Trump-era ruling on Hong Kong autonomy"
-    excerpt: "Secretary of State Antony Blinken has reaffirmed a determination made last year by the Trump administration that Hong Kong is no longer autonomous and remains undeserving of special treatment by the U"
-    publishedDateTime: 2021-03-31T17:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/blinken-reaffirms-trump-era-ruling-hong-kong-autonomy-76792365"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/blinken-reaffirms-trump-era-ruling-hong-kong-autonomy-76792365"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/blinken-reaffirms-trump-era-ruling-hong-kong-autonomy-76792365"
-    type: article
-    provider:
-      name: ABC
+      name: ABCNews
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_0da79fe716294ab78d70e81bd1af02f8_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Technology/WireAP_b4aefc1d57884968989a988d8a24dbb5_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Conservative writer says Trump's Save America PAC is hurting his supporters"
-    excerpt: "Pedro Gonzalez, assistant editor of the conservative website American Greatness, told Hill.TV that former President Trump Donald Trump Lawmakers say fixing border crisis is Biden's job Trump calls ..."
-    publishedDateTime: 2021-04-04T16:00:00Z
-    webUrl: "https://thehill.com/hilltv/rising/546185-conservative-writer-says-trumps-save-america-pac-is-hurting-his-supporters"
-    ampWebUrl: "https://thehill.com/hilltv/rising/546185-conservative-writer-says-trumps-save-america-pac-is-hurting-his-supporters?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/546185-conservative-writer-says-trumps-save-america-pac-is-hurting-his-supporters?amp"
+  - title: "EPA dismisses dozens of key science advisers picked under Trump"
+    excerpt: "The Biden administration says it needs to restore trust in the agency by “resetting” membership on two key science advisory panels."
+    publishedDateTime: 2021-03-31T17:22:00Z
+    webUrl: "https://www.washingtonpost.com/climate-environment/2021/03/31/epa-advisory-panels/"
+    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/03/31/epa-advisory-panels/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/03/31/epa-advisory-panels/?outputType=amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HAV34QEHMAI6XPSKES4J6YLPFQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Exclusive: EPA reverses Trump stance in push to tackle environmental racism"
+    excerpt: "Enforcement of pollution violations dropped steeply under Donald Trump’s administration, with the EPA even suspending routine inspections of facilities while the Covid-19 pandemic raged in the US last year. A lack of federal intervention further ..."
+    publishedDateTime: 2021-04-07T15:17:00Z
+    webUrl: "https://www.theguardian.com/environment/2021/apr/07/exclusive-epa-environmental-racism-justice"
+    ampWebUrl: "https://amp.theguardian.com/environment/2021/apr/07/exclusive-epa-environmental-racism-justice"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2021/apr/07/exclusive-epa-environmental-racism-justice"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 123
     images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_110120getty_memo.jpg"
-        width: 980
-        height: 551
+      - url: "https://i.guim.co.uk/img/media/0212b15c304f6f65fe824f0e440fd35fb4df2236/0_224_6720_4032/master/6720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a8037f13713e4177088028243fdc1df9"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Supreme Court vacates ruling barring Trump from blocking Twitter critics, saying case is moot"
-    excerpt: "The Supreme Court on Monday vacated a lower court opinion that said President Donald Trump could not block critics from his Twitter feed, which since has been suspended by the company. The U.S. Court of Appeals for the 2nd Circuit in New York had ruled ..."
-    publishedDateTime: 2021-04-05T14:41:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-trump-twitter-clarence-thomas/2021/04/05/b05686ee-960f-11eb-b28d-bfa7bb5cb2a5_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-trump-twitter-clarence-thomas/2021/04/05/b05686ee-960f-11eb-b28d-bfa7bb5cb2a5_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/supreme-court-trump-twitter-clarence-thomas/2021/04/05/b05686ee-960f-11eb-b28d-bfa7bb5cb2a5_story.html?outputType=amp"
+  - title: "New EPA chief Michael Regan relishes ‘clean slate’ after chaos of Trump era"
+    excerpt: "As the head of the Environmental Protection Agency, Regan not only has to grapple with the unfolding cataclysm of the climate crisis, he must do so at the helm of a traumatized, shrunken institution still reeling from the chaos of the Donald Trump era."
+    publishedDateTime: 2021-04-08T05:00:00Z
+    webUrl: "https://www.theguardian.com/environment/2021/apr/08/epa-chief-michael-regan-trump-climate-crisis"
+    ampWebUrl: "https://amp.theguardian.com/environment/2021/apr/08/epa-chief-michael-regan-trump-climate-crisis"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2021/apr/08/epa-chief-michael-regan-trump-climate-crisis"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IJR2R3UWC4I6XMUNX6T3WXFSUU.jpg&w=1440"
-        width: 1440
-        height: 997
+      - url: "https://i.guim.co.uk/img/media/f5b44bf3819ac8f85d1b8d8c20b62dad1cf25287/0_26_3573_2144/master/3573.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f1057de51843b32fde507bf1ac27e51d"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Official: Blinken to reverse Trump-era global rights blueprint that promoted conservative causes, dismissed LGBTQ rights"
-    excerpt: "Official: Blinken to reverse Trump-era global rights blueprint that promoted conservative causes, dismissed LGBTQ rights"
-    publishedDateTime: 2021-03-30T16:02:00Z
-    webUrl: "https://www.washingtonpost.com/politics/official-blinken-to-reverse-trump-era-global-rights-blueprint-that-promoted-conservative-causes-dismissed-lgbtq-rights/2021/03/30/4ee8f7cc-9171-11eb-aadc-af78701a30ca_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/official-blinken-to-reverse-trump-era-global-rights-blueprint-that-promoted-conservative-causes-dismissed-lgbtq-rights/2021/03/30/4ee8f7cc-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/official-blinken-to-reverse-trump-era-global-rights-blueprint-that-promoted-conservative-causes-dismissed-lgbtq-rights/2021/03/30/4ee8f7cc-9171-11eb-aadc-af78701a30ca_story.html?outputType=amp"
+  - title: "Pentagon announces new policies on transgender troops, reversing Trump-era ban"
+    excerpt: "President Joe Biden in an executive order in January reversed the Trump-era ban on transgender troops serving ... The ban on transgender troops was announced by former President Donald Trump in 2017 and took effect in 2019. Secretary of Defense Lloyd ..."
+    publishedDateTime: 2021-03-31T19:31:00Z
+    webUrl: "https://www.cbsnews.com/news/transgender-troops-military-policies-updated/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/transgender-troops-military-policies-updated/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/transgender-troops-military-policies-updated/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 100
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2017/08/29/5ad04d6c-19bf-4652-9788-f4356df1cb3c/thumbnail/1200x630/42323df4d9d19fb6da5aa88315d66253/gettyimages-823246288.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Trump Kept His Promise: Donated All His $1.6M Salary To Federal Agencies"
-    excerpt: "Donald Trump promised while on the campaign trail that he would refuse to take a salary as president. But since presidents are not allowed to decline their salary, Trump instead donated his earnings to various federal agencies,"
-    publishedDateTime: 2021-03-24T10:29:00Z
-    webUrl: "https://www.ibtimes.com/trump-kept-his-promise-donated-all-his-16m-salary-federal-agencies-3168160"
-    ampWebUrl: "https://www.ibtimes.com/trump-kept-his-promise-donated-all-his-16m-salary-federal-agencies-3168160?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-kept-his-promise-donated-all-his-16m-salary-federal-agencies-3168160?amp=1"
+  - title: "AP Interview: EPA head removes Trump-era science advisers"
+    excerpt: "WASHINGTON (AP) — In a move he said would help restore “scientific integrity,” the new head of the Environmental Protection Agency is removing dozens of scientists and other experts from key advisory boards named under President Donald Trump ..."
+    publishedDateTime: 2021-03-31T20:44:00Z
+    webUrl: "https://www.chron.com/news/article/New-EPA-chief-committed-to-restoring-scientific-16066513.php"
+    ampWebUrl: "https://www.chron.com/news/amp/New-EPA-chief-committed-to-restoring-scientific-16066513.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/New-EPA-chief-committed-to-restoring-scientific-16066513.php"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 74
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/13/former-president-donald-trump-was-acquitted-in-his.jpg"
-        width: 1024
-        height: 681
-        isCached: true
-  - title: "Trump-Dominated Appeals Court Rules Misgendering Professor Can Sue University"
-    excerpt: "And they have tried not to stifle debate by picking sides.\" Judge Thapar, a Donald Trump appointee, was joined by Judges David McKeague and Joan Larsen. The two judges were appointed by George W. Bush and Trump, respectively. Shawnee State University ..."
-    publishedDateTime: 2021-03-30T16:55:00Z
-    webUrl: "https://www.ibtimes.com/trump-dominated-appeals-court-rules-misgendering-professor-can-sue-university-3171914"
-    ampWebUrl: "https://www.ibtimes.com/trump-dominated-appeals-court-rules-misgendering-professor-can-sue-university-3171914?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-dominated-appeals-court-rules-misgendering-professor-can-sue-university-3171914?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 72
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/15/a-person-waves-a-rainbow-flag-in-front.jpg"
-        width: 1024
-        height: 681
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "ZLKk6eDAg2ac/o7ywhei5bHRxmG9FaOqKst+Y1z/UM9OvVTUxRdVDlmLKdWctT8z28UPYMUK7QIAJrwUrqGTwWITygjf+unbASYzVhw9seIF6+k/wQF3Qzjg2SLgP9XBb64grkAzJKPcjNEqJ7Zwhgd2oRP+A8RStKh1Hx5xAqNzOf4sChgr1VyNizgSdS/DPPvPqmfDMpYjlpYIBNvFvh7Pnt8FmQMvqkU2Zv9eQ2qybzL3JByxatBhAGnWMFOsvvvvfGJ2TvVD4x1sIOH/grUjTkglvWVYvBpCnl/JVLxuCWPE20GXWGLEt1gHBdGcFdauUhVPNFunOqgJnaofSiSBryCyBGGuJWgZ0/f1pzs=;e0dRy99uzBBX8UG714IGiw=="

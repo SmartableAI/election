@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Republicans try to make Kamala Harris the face of the border crisis"
+    excerpt: "Vice President Kamala Harris and her team are staring down attempts to make her the face of the Biden administration's response to the crisis at the border, a little more than a week after being assigned a role that positions her in the center of one of the administration's most divisive issues.\n   "
+    publishedDateTime: 2021-04-01T10:38:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KTxjBK-t4iw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310102406-01-kamala-harris-0302-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris moving into Naval Observatory residence after renovations delay"
     excerpt: "Vice President Kamala Harris and second gentleman Doug Emhoff will move in to the Naval Observatory residence Tuesday night after their move was delayed for more than two months because of \"repairs to the home,\" a White House official told CNN.\n    \n"
     publishedDateTime: 2021-04-06T23:55:57Z
@@ -45,22 +61,6 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210326151148-01-vice-president-residence-2015-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact-checking Texas Republicans' attacks on Harris County voting procedures"
-    excerpt: "The Texas Senate passed new voting legislation on April 1. As the bill goes through the state House, corporations like Dell Technologies and American Airlines -- both based in Texas -- have started advocating against it, arguing that it restricts voter access.\n    \n"
-    publishedDateTime: 2021-04-09T13:28:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p8NT3P7_0zI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/texas-republicans-voting-bill-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/texas-republicans-voting-bill-fact-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 183
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104121638-ballot-2020-general-election-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

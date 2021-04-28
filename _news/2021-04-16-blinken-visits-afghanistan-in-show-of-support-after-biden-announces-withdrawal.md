@@ -79,22 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden \"doesn't have all the time in the world\" to act on gun violence, gun control advocate says"
-    excerpt: "A prominent gun control advocacy group is urging President Joe Biden to act quickly on his proposed firearms legislation, after a week that saw 345 people killed by gun violence in the United States. \"He doesn't have all the time in the world. He needs to ..."
-    publishedDateTime: 2021-04-09T18:26:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-gun-violence-control-brady-bill-kris-brown/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-gun-violence-control-brady-bill-kris-brown/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-gun-violence-control-brady-bill-kris-brown/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 112
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/08/e2a6703b-facf-4c40-a52d-df971cedbd15/thumbnail/1200x630/9f88738b40ac84f7243e34d3cb90492a/cbsn-fusion-pres-biden-unveils-executive-action-on-gun-reform-thumbnail-688118-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Biden: US shootings 'a national embarrassment'"
     excerpt: "President Joe Biden is calling for action as the nation struggles with yet another mass shooting. While gun control appears to have taken a back seat, Biden on Friday insisted that wasn’t the case, saying “I’ve never not prioritized this."
     publishedDateTime: 2021-04-17T01:04:00Z
@@ -109,17 +93,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Fact Check-Joe Biden saying veterans ‘get enough handouts’ comes from satire site"
-    excerpt: "Posts containing a fabricated quote attributed to President Joe Biden about veterans originated from a satire article. Users on social media, however, are taking the claim seriously. A Google search of the text brings up an article here by the satirical website “America’s Last Line of Defense” with the same headline."
-    publishedDateTime: 2021-04-14T15:42:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-biden-veterans/fact-check-joe-biden-saying-veterans-get-enough-handouts-comes-from-satire-site-idUSL1N2M7211"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2M7211"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2M7211"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
   - title: "Republicans turn to the socialism playbook on Biden's infrastructure bill, labeling anything other than roads and bridges as 'Soviet'"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Republican lawmakers are responding to President Joe Biden's $2 trillion infrastructure bill with a litany of misleading and even false statements. The GOP's longstanding strategy of attaching the socialism label ..."
     publishedDateTime: 2021-04-14T18:22:00Z
@@ -135,36 +108,6 @@ related:
       - url: "https://i.insider.com/6077151f74da0300181e1a4c?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Why Is Joe Biden Blocking Joe Biden from Raising the Refugee Cap?"
-    excerpt: "Jen Psaki had an almost comical inability to explain why Biden hadn’t signed an executive order he promised more than two months ago."
-    publishedDateTime: 2021-04-16T16:19:00Z
-    webUrl: "https://www.nationalreview.com/corner/why-is-joe-biden-blocking-joe-biden-from-raising-the-refugee-cap/"
-    ampWebUrl: "https://www.nationalreview.com/corner/why-is-joe-biden-blocking-joe-biden-from-raising-the-refugee-cap/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/why-is-joe-biden-blocking-joe-biden-from-raising-the-refugee-cap/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 75
-    images:
-      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2021/04/President-Joe-Biden-2.jpg?fit=1200%2C700&ssl=1"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Prince Philip: US President Joe Biden describes him as 'a heck of a guy'"
-    excerpt: "US President Joe Biden said the entire administration sent their condolences to the Queen on the loss of Prince Philip, saying he was a \"heck of a guy\". He paid tribute to the Duke of Edinburgh's \"lifetime of service\", his active duty during World War Two ..."
-    publishedDateTime: 2021-04-09T20:39:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/uk-56698348"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 54
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09d7vvs.jpg"
-        width: 400
-        height: 225
         isCached: true
 
 secured: "LSYrmNCb580sGLnZkphHpTCopxdwWIVL2fkGkf/1W6U5YYprZ6zQaJt5fTjj9C9Q4d/abAeptW26icnbJC6ZAR91b+YHfmXBNkF0i4jYUKelCL6O2mrn1RD5GWE8OJG0YXZ7AQHih8QMxpK51Q6Js0FnY6D/M/JA8abdvRO4CSNkNNRM8hkQO4E8WYocS5d1Q4ugK4BSeqUOyr+SO/x6kgAbr7ZpTvf2VLmVrKywEcD7JoHg0x4GINl3bu2lVGOttffWgJoNYfQAFOrSeJ2bMjubCJKVCtqtf45TQJ9f99Da9oOfSPGTNlErHsoHzGylbf1g7euWUH3QCd0n/skK+uY7mzuisq0D+UC3prd6kI67SQKt9keRYAeab73rvVaXDy/wgCcAAx7Z6gKmYK5GbqqDxmjLMLmuc5mwX4hoEG8syi3xGdXUzRIetBhR88SE7adgB0CrzVUXvY7wOTmOZNsMPCY4hcI9Ffgr0zZlWwYHQI9Mjf0hO4poirAoHenHXTZet7lwXw0N2i42PFb1Cw==;8OuL5aZTigqw8KAZ8w+IwA=="

@@ -143,22 +143,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "U.S. Senate panel to consider Biden Postal Board nominees April 22"
-    excerpt: "The U.S. Senate Homeland Security and Government Affairs Committee will hold an April 22 hearing on President Joe Biden's three nominees to serve on the U.S. Postal Board of Governors, the panel announced Wednesday."
-    publishedDateTime: 2021-04-15T02:04:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-post-office-idUSKBN2C2087"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C2087"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C2087"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210415&t=2&i=1558516848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3E03T"
-        width: 817
-        height: 545
-        isCached: true
   - title: "After outcry, WH says Biden will lift refugee cap in May"
     excerpt: "Facing swift blowback from allies and aid groups, the White House says President Joe Biden plans to lift in the next month his predecessor’s historically low cap on refugees, after initially moving on"
     publishedDateTime: 2021-04-16T20:13:00Z
@@ -191,22 +175,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden insists he’s willing to negotiate with Republicans on infrastructure"
-    excerpt: "also took issue with the price tag and the tax increases Biden has put forward to pay for it. Some Democrats, including centrist Sen. Joe Manchin III of West Virginia, have raised their own objections to the tax hikes. Manchin also warned the Biden ..."
-    publishedDateTime: 2021-04-12T23:33:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2021/04/12/biden-infrastructure-congress/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/04/12/biden-infrastructure-congress/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/04/12/biden-infrastructure-congress/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J6M3RLE3PYI6XMXVPUXQDATVBU.jpg&w=1440"
-        width: 1440
-        height: 941
-        isCached: true
   - title: "Biden to host Japanese PM at White House in president’s first visit from foreign leader – live"
     excerpt: "North Korea and China will be primary topics of conversation, senior official says"
     publishedDateTime: 2021-04-16T14:34:00Z
@@ -223,21 +191,37 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Biden says Japan and U.S. committed to working together to meet China challenge"
-    excerpt: "U.S. President Joe Biden said he had a productive summit with Japanese Prime Minister Yoshihide Suga on Friday and the two countries were committed to working together to meet the challenge posed by China and issues including North Korea."
-    publishedDateTime: 2021-04-16T22:03:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-japan-biden-idUKKBN2C32P6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2C32P6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2C32P6"
+  - title: "Biden to announce all US adults vaccine-eligible by 19 April – US politics live"
+    excerpt: "Biden to make announcement as White House encourages older Americans to get vaccinated as quickly as possible – follow all the day’s US politics news"
+    publishedDateTime: 2021-04-06T16:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest?page=with:block-606c74338f08611d06d8d7ca"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 121
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210417&t=2&i=1558812583&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3F1CK"
-        width: 837
-        height: 545
+      - url: "https://i.guim.co.uk/img/media/a77da5d15e3310643e78095fbbf0dbe303834a43/0_99_5307_3184/master/5307.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2fd62229786e5cf0c86525e5fbceff2f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden to announce all US adults vaccine-eligible by 19 April – US politics live"
+    excerpt: "White House press secretary Jen Psaki was asked whether Vladimir Putin has confirmed his attendance to Joe Biden’s climate summit later this month. Bloomberg News reported today that the Russian president is making plans to attend the virtual summit."
+    publishedDateTime: 2021-04-06T18:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest?page=with:block-606c8a0b8f08098d4e05651c"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/06/joe-biden-coronavirus-covid-vaccine-us-politics-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/c94bc3ce8b8e6da02323a2e4df87408b1e0c4f6c/0_158_4652_2792/master/4652.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c6c7b6781ad3305d641682f77ca4ad21"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden welcomes Japan's prime minister to White House as he tries to counter China"
     excerpt: "Japan is one of the few industrialized nations not sanctioning China for human rights abuses. The U.S. would like that to change."
@@ -254,22 +238,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/16/2d9f7820-890e-4117-aed2-1887ae9d5e42/thumbnail/1200x630/f26b663185e1b3ae61c1bc3818ce0a1f/screen-shot-2021-04-16-at-5-46-09-pm.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Live updates: White House reacts to FedEx shooting, Biden expected to make statement"
-    excerpt: "Eight people were killed and several more were injured in a mass shooting at the FedEx Ground Plainfield Operations Center late Thursday. Police say the gunman, who has not been identified by authorities,"
-    publishedDateTime: 2021-04-16T16:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/crime/2021/04/16/indianapolis-fedex-shooting-live-updates-after-8-killed/7251292002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7251292002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7251292002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/16/PIND/c2cca5db-1836-4bdc-b32f-ab26e401b8aa-2021_04_16_MassShooting_MM_15.JPG?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Biden Decision to Delay Afghanistan Withdrawal to 9/11 Could Escalate Taliban Conflict"
     excerpt: "President Joe Biden's plan to delay the withdrawal of U.S. troops from Afghanistan until September 11 could escalate tensions with the Taliban. According to the Associated Press, Biden is scheduled to announce the delayed withdrawal date in the upcoming ..."
@@ -303,21 +271,21 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Texas Democratic Sheriff Slams Biden Immigration Policy, Cost of Placing Migrants for County"
-    excerpt: "Val Verde County, Texas, Sheriff Joe Frank Martinez said Friday that \"criminal aliens ... He commended Florida GOP Governor Ron DeSantis for sending a letter to the Biden administration that demanded it stop enforcing policies allowing the release of ..."
-    publishedDateTime: 2021-04-03T15:47:00Z
-    webUrl: "https://www.newsweek.com/texas-democratic-sheriff-slams-biden-immigration-policy-cost-placing-migrants-county-1580880"
-    ampWebUrl: "https://www.newsweek.com/texas-democratic-sheriff-slams-biden-immigration-policy-cost-placing-migrants-county-1580880?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-democratic-sheriff-slams-biden-immigration-policy-cost-placing-migrants-county-1580880?amp=1"
+  - title: "Joe Manchin Puts a Damper on Biden's Infrastructure Plan, Says It Risks U.S. Competitiveness"
+    excerpt: "Senator Joe Manchin, a moderate West Virginia Democrat, criticized the corporate tax increase plan President Joe Biden has proposed to pay for a $2 trillion infrastructure bill, raising concerns it could risk American competitiveness. In an interview with ..."
+    publishedDateTime: 2021-04-05T18:40:00Z
+    webUrl: "https://www.newsweek.com/joe-manchin-puts-damper-bidens-infrastructure-plan-says-it-risks-us-competitiveness-1581102"
+    ampWebUrl: "https://www.newsweek.com/joe-manchin-puts-damper-bidens-infrastructure-plan-says-it-risks-us-competitiveness-1581102?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-manchin-puts-damper-bidens-infrastructure-plan-says-it-risks-us-competitiveness-1581102?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
     quality: 114
     images:
-      - url: "https://d.newsweek.com/en/full/1765531/immigration.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://d.newsweek.com/en/full/1771680/joe-manchin.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Biden administration still seizing land near border despite plans to stop building wall: report"
     excerpt: "President Biden’s administration is still seizing land near the U.S.- Mexico border to be used to continue building a wall, according to an"
@@ -335,19 +303,21 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden visits vaccination site in Virginia"
-    excerpt: "President Joe Biden headed to Virginia Tuesday to visit a COVID-19 vaccination site at Immanuel Chapel at Virginia Theological Seminary in Alexandria. (April 6)"
-    publishedDateTime: 2021-04-06T20:27:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/06/biden-visits-vaccination-site-virginia/7112804002/"
+  - title: "Biden to pay respects to police officer killed in car attack as casket arrives at Capitol – live"
+    excerpt: "As his father’s casket was carried up the Capitol steps, Logan could be seen clutching a teddy bear. pic.twitter.com/40oYXOyvVT Joe Biden and congressional leaders will attend this morning’s ceremony to honor William “Billy” Evans, the USCP officer ..."
+    publishedDateTime: 2021-04-13T14:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates?page=with:block-607599c68f08b7e3afb8a2b5"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/13/joe-biden-capitol-police-officer-covid-coronavirus-latest-live-updates"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: The Guardian
+      domain: theguardian.com
+    quality: 112
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/31455944-75cd-4711-a963-a35c8c90fc68_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://i.guim.co.uk/img/media/54c0ae823c55ace7e5b9ccbcb747b81cc2f69eb6/0_32_4845_2907/master/4845.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6eebce1353e72fcc91b8e666f139d987"
+        width: 600
+        height: 360
         isCached: true
   - title: "'A heck of a guy': Joe Biden pays tribute to Prince Philip – video"
     excerpt: "The US president on Friday paid tribute to the Duke of Edinburgh, Prince Philip, and sent condolences to Queen Elizabeth II."
@@ -363,6 +333,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nearly 40% of Marines decline COVID vaccine, prompting some Democrats to urge Biden to set mandate for military"
+    excerpt: "Nearly 40% of United States Marines who have been offered the COVID-19 vaccine have declined it, according to the Pentagon. Of the 123,500 Marines that have had access to the vaccine, 75,500 Marines are either fully vaccinated or have only received one ..."
+    publishedDateTime: 2021-04-10T21:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/10/covid-vaccine-nearly-forty-percent-us-marines-decline/7173918002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7173918002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7173918002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/09/USAT/a5dbf9d3-615a-4fab-8350-33f576afc6f9-AP_Virus_Outbreak_Ramadan_Vaccine.jpg?auto=webp&crop=5902,3320,x0,y299&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden announces tough new sanctions on Russia"
     excerpt: "President Joe Biden announces tough new sanctions on Russia, expelling 10 diplomats and imposing sanctions against dozens of companies and people. The US holds the Kremlin accountable for interference in the 2020 presidential election hacking."
     publishedDateTime: 2021-04-15T23:06:00Z
@@ -376,20 +362,6 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/772e29b1-6845-449c-816c-d6d58ede2602_poster.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "'Opportunity is coming': Joe Biden celebrates latest jobs report – video"
-    excerpt: "Joe Biden has encouraged Americans to ‘buckle down’ as coronavirus cases rise but he was optimistic on the state of the economy and celebrated the latest jobs report. The US economy added 916,000 jobs last month according to the report which Biden ..."
-    publishedDateTime: 2021-04-02T16:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/apr/02/joe-biden-jobs-report-pandemic-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 104
-    images:
-      - url: "https://i.guim.co.uk/img/media/4bfd785c368c12de4a674263f6280200ef8c0da8/121_399_2559_1536/master/2559.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4447519030830be80da08c23eb94d7c1"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Biden administration to launch massive funeral assistance program for covid victims"
     excerpt: "The Biden administration next week will launch a funeral assistance program that will provide up to $9,000 to cover the burial costs of each American who died of covid-19 — the largest program of its type ever offered by the federal government."
@@ -405,41 +377,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden set to talk up economic resurgence after promising jobs news – US politics live"
-    excerpt: "Fully vaccinated Americans can now travel domestically without self-quarantining, the Centers for Disease Control and Prevention announced today. Vaccinated people also do not need to take a coronavirus test before traveling, although the CDC has asked ..."
-    publishedDateTime: 2021-04-02T14:45:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news?page=with:block-606736d48f083302090e2e1f"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/02/joe-biden-us-politics-economy-jobs-report-covid-latest-news"
+  - title: "'Get on it Joe!' How a coalition for strengthening gun violence prevention pushed Biden to act"
+    excerpt: "Gun control activist Po Murray addressed the crowd at an anti-violence rally in Hartford Monday. WASHINGTON — In the first two months of President Joe Biden’s administration, many of the nation’s most powerful gun violence prevention groups were ..."
+    publishedDateTime: 2021-04-09T23:49:00Z
+    webUrl: "https://www.timesunion.com/news/article/Get-on-it-Joe-how-a-strengthening-gun-16090259.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Get-on-it-Joe-how-a-strengthening-gun-16090259.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Get-on-it-Joe-how-a-strengthening-gun-16090259.php"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 98
-  - title: "Biden meets with bipartisan group of lawmakers on infrastructure"
-    excerpt: "Mr. Biden said he's confident the infrastructure push will work out. The infrastructure proposal currently includes a 28% corporate tax rate, which moderate Democratic Senator Joe Manchin has already said is too high. Manchin has said he could be more ..."
-    publishedDateTime: 2021-04-13T11:08:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-infrastructure-bipartisan-meeting/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 85
-  - title: "President Joe Biden and a whole lot of celebrities want you to get vaccinated against COVID-19"
-    excerpt: "A whole horde of celebrities, the president and former President Barack Obama are coming to your TV to encourage you to get the COVID-19 vaccine. PANDEMIC PLAYLIST: Mick Jagger and Dave Grohl team up for a pandemic anthem Vaccine hesitancy has become a growing problem as we try to finally make it to something resembling the before times."
-    publishedDateTime: 2021-04-14T19:12:00Z
-    webUrl: "https://www.chron.com/life/article/nbc-roll-up-sleeves-vaccine-special-biden-obama-16099959.php"
-    ampWebUrl: "https://www.chron.com/life/amp/nbc-roll-up-sleeves-vaccine-special-biden-obama-16099959.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/amp/nbc-roll-up-sleeves-vaccine-special-biden-obama-16099959.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Times Union
+      domain: timesunion.com
     quality: 63
     images:
-      - url: "https://s.hdnux.com/photos/01/02/42/54/17443598/3/rawImage.jpg"
-        width: 2048
-        height: 1472
+      - url: "https://s.hdnux.com/photos/01/17/42/34/20850435/5/375x250.jpg"
+        width: 375
+        height: 249
         isCached: true
 
 secured: "PFSKcAtWo0ql9JVpBWGnyHR2QrMwDqTu9FrFd19K3UI9BZWvlEkPFe9AGA11IVL0yTRSRaRrlofhKsGroPXWl2cAW/D859iFB6zjf/fNlO/y0wLG3FmuNiLmiXKHvfjACGAGD4ga4DRKTAIm1WJucHQg/PFkDDa52OvQlcF8BW4B9VkZbqOQaZ99By9jFsEnv46mWQO3z+KMixMlSWbr3+MHFjp1OKPU3711WbGw9nAq9keNLx+RxKukbFde8ninTNjf0ttG6fbfJDOblHqVRyfSt9k0+w+XdUI/SB2DnpbzIWo4oLFTclCh+1A6k0HcKUQsZz1k9Mc5o1mVezp/kis/uj0tNvwwNVA3dBVaBcE=;1rbYUnurfmd/XY7U+axbXw=="

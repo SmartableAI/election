@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-says-no-justification-looting-vio
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048?amp=1"
 type: article
 quality: 113
-heat: -1
-published: false
+heat: 153
+published: true
 
 provider:
   name: Newsweek
@@ -31,70 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Brooklyn Center Mayor Says Biden Offered Support After Daunte Wright Shooting Unrest"
-    excerpt: "President Joe Biden has offered his administration's support to the city of Brooklyn Center, Minnesota, in the wake of Daunte Wright's death and Sunday night's subsequent protests, according to Mayor Mike Elliott. \"Just got off the phone with the @WhiteHouse."
-    publishedDateTime: 2021-04-12T17:38:00Z
-    webUrl: "https://www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977"
-    ampWebUrl: "https://www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/brooklyn-center-mayor-says-biden-offered-support-after-daunte-wright-shooting-unrest-1582977?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
-    images:
-      - url: "https://d.newsweek.com/en/full/1776399/brooklyn-center.jpg"
-        width: 594
-        height: 398
-        isCached: true
-  - title: "Daunte Wright killing: Biden calls for ‘peace and calm’ as Minneapolis sets curfew – live"
-    excerpt: "The federal US government posted a March budget deficit of $660bn, a record high for the month, as direct payments to Americans under Joe Biden’s stimulus package were distributed, the treasury department said on Monday. The deficit for the first six ..."
-    publishedDateTime: 2021-04-12T22:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates?page=with:block-6074bef58f088c820d864d7e"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 116
-    images:
-      - url: "https://i.guim.co.uk/img/media/ad4a25e533ad6c9e7c2980bc6e5dbd216b437f03/0_445_6733_4042/master/6733.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8ac127df02353378cc3daf6f97ea30be"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden calls for 'peace and calm' after Daunte Wright shooting sparks protests in Minnesota"
-    excerpt: "WASHINGTON – President Joe Biden called for \"peace and calm\" on Monday following an evening of protests after a police officer in a Minneapolis suburb shot and killed a 20-year-old Black man during a traffic stop. Biden called the shooting death of ..."
-    publishedDateTime: 2021-04-13T01:29:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/12/daunte-wright-police-shooting-white-house-saddened-over-death/7190534002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7190534002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7190534002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/12/USAT/d6c59278-7bec-4a53-9be9-449dd2c14ebf-Brooklyn_Center_Minn_Police_Shooting_05.JPG?auto=webp&crop=3599,2024,x1,y120&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Daunte Wright killing: Biden calls for ‘peace and calm’ as Minneapolis sets curfew – as it happened"
-    excerpt: "The federal US government posted a March budget deficit of $660bn, a record high for the month, as direct payments to Americans under Joe Biden’s stimulus package were distributed, the treasury department said on Monday. The deficit for the first six ..."
-    publishedDateTime: 2021-04-12T23:08:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates?page=with:block-6074df6a8f088c820d864eab"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 111
-    images:
-      - url: "https://i.guim.co.uk/img/media/ad4a25e533ad6c9e7c2980bc6e5dbd216b437f03/0_445_6733_4042/master/6733.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8ac127df02353378cc3daf6f97ea30be"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Daunte Wright Protester Bashes Joe Biden for Failing Black Community: You Said, 'You Got Our Back'"
     excerpt: "Demonstrators gathered in Brooklyn Center on Saturday for a seventh night of protests against police brutality after the police killing of 20-year-old Daunte Wright."
     publishedDateTime: 2021-04-19T02:25:00Z
@@ -110,22 +46,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1779601/daunte-wright-protesters-march-colorado.jpg"
         width: 2500
         height: 1668
-        isCached: true
-  - title: "'Hunter Biden Has Nothing to Do With This': Fox News Guest Slams 'Constant' Coverage of President's Son"
-    excerpt: "\"The answer about Joe Biden is not, 'Well Hunter Biden did crack,' or 'Well Hunter disposed of a gun illegally,'\" Jessica Tarlov said."
-    publishedDateTime: 2021-04-11T19:49:00Z
-    webUrl: "https://www.newsweek.com/hunter-biden-has-nothing-do-this-fox-news-guest-slams-constant-coverage-presidents-son-1582737"
-    ampWebUrl: "https://www.newsweek.com/hunter-biden-has-nothing-do-this-fox-news-guest-slams-constant-coverage-presidents-son-1582737?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunter-biden-has-nothing-do-this-fox-news-guest-slams-constant-coverage-presidents-son-1582737?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 109
-    images:
-      - url: "https://d.newsweek.com/en/full/1775625/fox-news-contributor-jessica-tarlov.png"
-        width: 2804
-        height: 1568
         isCached: true
   - title: "Biden says there is 'no justification for violence' at protests after police shot and killed a 20-year-old Black man in Minnesota"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% In his first remarks about the police killing of a 20-year old Black man, Daunte Wright, President Joe Biden said that \"it remains to be determined,\" whether the shooting was accidental or not. Biden added that ..."

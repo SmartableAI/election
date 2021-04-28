@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McConnell: Biden is a ‘first-rate person’ but he’s running a ‘bold left-wing administration’"
+    excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., signaled Thursday that President Joe Biden’s $2 trillion spending bill will not be getting any Republican support – as he described the administration as boldly “left wing.”"
+    publishedDateTime: 2021-04-01T19:12:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4LhMpo4Ffig/mcconnell-biden-first-rate-person-bold-left-wing-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-first-rate-person-bold-left-wing-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-first-rate-person-bold-left-wing-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4af21f6b-fd84-44ca-b7bf-16bb5bc9856f/fe8db0d2-ef39-4f12-bbc1-9813942cce11/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "McConnell: Biden Supreme Court commission 'direct assault on our nation's independent judiciary'"
     excerpt: "McConnell unloaded on the idea of packing the court and the White House’s plan to form a commission to study the idea of adding justices in a Friday press release, calling the idea a “direct assault on our nation’s independent judiciary.”"
     publishedDateTime: 2021-04-09T22:48:28Z

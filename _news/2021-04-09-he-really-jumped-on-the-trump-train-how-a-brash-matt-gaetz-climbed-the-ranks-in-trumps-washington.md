@@ -96,22 +96,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Gaetz reported to have sought a ‘blanket’ pardon from Trump"
-    excerpt: "Rep. Matt Gaetz allegedly sought a “blanket” presidential pardon from Donald Trump in the closing weeks of his administration — a request which was ultimately not fulfilled, according to news reports. The request for a blanket preemptive pardon for ..."
-    publishedDateTime: 2021-04-07T02:27:00Z
-    webUrl: "https://www.politico.com/news/2021/04/06/gaetz-blanket-pardon-trump-479504"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/06/gaetz-blanket-pardon-trump-479504"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/gaetz-blanket-pardon-trump-479504"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/3b/45/24baa3864faf9352e262d8ef8c93/4-6-21-matt-gaetz-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Donald Trump breaks his silence on Matt Gaetz"
     excerpt: "Former President Donald Trump released a short statement in response to reports that Rep. Matt Gaetz (R-FL), one of Trump's most vocal defenders, asked him for a pre-emptive blanket pardon. CNN's Ryan Nobles reports."
     publishedDateTime: 2021-04-07T21:59:00Z
@@ -127,6 +111,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407175536-donald-trump-matt-gaetz-split-for-video-02-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "HUD moves to restore fair housing rules weakened under Trump"
+    excerpt: "The Trump administration suspended its implementation in 2018. Officials then proposed a watered-down revision before scrapping it altogether last summer as former President Donald Trump campaigned on the warning that Democrats were trying to ruin the ..."
+    publishedDateTime: 2021-04-13T21:39:00Z
+    webUrl: "https://www.politico.com/news/2021/04/13/hud-housing-rules-481209"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/13/hud-housing-rules-481209"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/13/hud-housing-rules-481209"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/5b/29/9978ad914a6ba3b696ae59f53459/ap21077605779705-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Shades of 2016: Republicans Stay Silent on Trump, Hoping He Fades Away"
     excerpt: "Trump was a candidate in 2016, rival Republicans are trying to avoid becoming the target of his attacks or directly confronting him, while hoping someone else will. Many Republicans have privately expressed hope that former President Donald J."
@@ -175,6 +175,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/04/06/us/politics/06dc-gaetz/merlin_170263383_ddfd807b-d425-43c9-8240-3a567e3fc04f-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Florida's Trump country stands with Gaetz"
+    excerpt: "“I believe this is nothing more than fake news,” said Larry Hetu, a Gulf Breeze activist who is part of a group trying to get a local bridge renamed after former President Donald Trump. “I don’t believe anything coming from the mainstream medi"
+    publishedDateTime: 2021-04-05T23:51:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2021/04/05/floridas-trump-country-stands-with-gaetz-1371745"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/37/5f/44583dbc49499b2763024498ce9c/210405-matt-gaetz-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Facebook adds labels to feeds. How would it label Trump?"
     excerpt: "The new feature comes as the company’s independent Oversight Board weighs whether former President Donald Trump should be allowed back on the platform. Asked how Trump, if reinstated, would have his Facebook page labeled, spokesperson Andy Stone declined ..."

@@ -63,22 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Christie accuses Biden of ‘doing exactly’ what he accused Trump of: ‘Lying to cause racial divisions'"
-    excerpt: "He is doing exactly what he sat around in the campaign and the transition and accused Donald Trump of doing. He is lying to cause racial divisions in this country. That’s what he accused Donald Trump of doing, and he’s a liar and a hypocrite this morning.\""
-    publishedDateTime: 2021-04-05T13:08:00Z
-    webUrl: "https://www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions"
-    ampWebUrl: "https://www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/christie-biden-trump-lying-racial-divisions.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "6AbhRLu5JRkPoaOQGuD4FP4r9AFo0kfpESorP9QT3yhncnwYwa0S+zG/ukW3d645GyLkEbMKGgFihM0kfKsLmX7VcX22uufysLEr3+r8nF7C1axiAQBkGTWl1MJn3ZDv5xC9zsNL/aEAH6Sg7hndYA21iVFvt+0a3Tt9sMpwrztfaVwIpVEJtk2nEDuHsNEPsUZla8alhg0LR+MIQDoJi+RPaI/NoYUGRNpXFinl3pIgBzXVvQpWF6koCWo+xbH5gRFYbB3JKPYUTc2b5+HGWTXTleWXwqiY1BCuK749CUsVQPJ4GE/HwpOfDZusaBD2qHqZEsk0f3dJ2e/ID2KmjGuxGVmPqg136QN8z54A/IA=;pnglJVKMHu0qGkIw96JdRw=="
 ---

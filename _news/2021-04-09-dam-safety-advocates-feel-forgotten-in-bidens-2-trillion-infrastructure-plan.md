@@ -32,227 +32,179 @@ images:
     isCached: true
 
 related:
-  - title: "Biden keeping Trump's pick for Moscow ambassador in place"
-    excerpt: "The Biden administration recently decided to keep the Trump-appointed US ambassador on the job in Moscow for the foreseeable future, two senior administration officials told CNN, demonstrating a willingness to nurture areas of stability in the US-Russia relationship after it got off to a tumultuous start.\n"
-    publishedDateTime: 2021-04-12T19:48:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S5_23XHVx1Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/biden-john-sullivan-moscow/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/biden-john-sullivan-moscow/index.html"
+  - title: "Biden imposes new sanctions on Russia in response to election interference and cyber hacks"
+    excerpt: "The Biden administration is expected to announce sanctions as soon as Thursday targeting Russian individuals and entities, in addition to the expulsion of as many as a dozen Russian diplomats from the US in response to the hack of SolarWinds and election interference, according to two sources familiar"
+    publishedDateTime: 2021-04-15T12:25:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zKvUE1aRpHs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-officials-hacking-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-officials-hacking-election/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 190
+    quality: 180
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210412145009-ambassador-john-sullivan-file-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201218161649-solarwinds-headquarters---stock-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration confirms Russian agent shared 2016 Trump polling data as part of election interference efforts"
-    excerpt: "The Biden administration on Thursday revealed new details about Russia's extensive interference in the 2016 and 2020 US elections, including disclosing for the first time that a Russian agent who received internal polling data from the Trump campaign in 2016 passed it along to Russia's intelligence services.\n"
-    publishedDateTime: 2021-04-15T17:29:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xnZ24B1pyEg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/biden-russia-election-interference/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/biden-russia-election-interference/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 183
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200318190038-panorama-kremlin-ue-campana-covid-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's planned pick for ATF director a fierce advocate for gun control"
-    excerpt: "David Chipman, President Joe Biden's planned nominee for director of the Bureau of Alcohol, Tobacco, Firearms and Explosives, has a long history at the agency and sports credentials in gun control advocacy sure to excite firearm safety groups.\n    \n"
-    publishedDateTime: 2021-04-08T01:30:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VX54MO6W-_I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/david-chipman-joe-biden-atf-director/index.html"
+  - title: "Biden to name Chris Inglis as new national cyber director"
+    excerpt: "President Joe Biden is expected on Monday to name Chris Inglis to the new position of national cyber director, an official familiar with the matter confirmed to CNN.\n    \n"
+    publishedDateTime: 2021-04-12T14:42:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3EGGqAIlJKg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/biden-chris-inglis-national-cyber-director/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/biden-chris-inglis-national-cyber-director/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407172125-david-chipman-2019-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's border coordinator stepping down at end of the month"
-    excerpt: "President Joe Biden's border coordinator is stepping down at the end of the month, the White House announced Friday -- an unusual time given the administration is dealing with record numbers of unaccompanied migrant children at the US southern border.\n    \n"
-    publishedDateTime: 2021-04-09T21:31:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wgU9Q7t4QJE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/biden-border-coordinator-stepping-down/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/biden-border-coordinator-stepping-down/index.html"
+  - title: "Biden to name nominees to lead two key immigration agencies "
+    excerpt: "President Joe Biden plans to nominate Tucson, Arizona, police chief Chris Magnus to serve as commissioner of US Customs and Border Protection and Ur Jaddou to serve as director of US Citizenship and Immigration Services, according to four sources familiar with the selections.\n    \n"
+    publishedDateTime: 2021-04-12T14:34:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qX54x4Axqos/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/immigration-dhs-nominations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/immigration-dhs-nominations/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310154048-02-central-american-minors-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210218111150-ice-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Major Biden to get training after two biting incidents"
-    excerpt: "President Joe Biden's German shepherd, Major, will receive training after two biting incidents involving workers at the White House, according to first lady Jill Biden's spokesman.\n    \n"
-    publishedDateTime: 2021-04-12T11:38:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SbhzlpklCrA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/major-biden-training/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/major-biden-training/index.html"
+  - title: "Biden admin intends to move forward with $23B UAE weapons sales"
+    excerpt: "The Biden administration intends to move forward with $23 billion in proposed arms sales to the United Arab Emirates even as it continues its review of pending weapons transfers, a State Department spokesperson told CNN Wednesday.\n    \n"
+    publishedDateTime: 2021-04-14T14:31:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z3lxHUqgCT4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/uae-f-35-arms-sales/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/uae-f-35-arms-sales/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330181306-major-biden-dog-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181120183114-f-35-elephant-walk-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden attempts balance amid major protests during his presidency"
-    excerpt: "President Joe Biden is confronting the first major protests of his tenure after three months in office, prompted by the police killing of a Black man in Minnesota.\n    \n"
-    publishedDateTime: 2021-04-13T12:30:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wBdd7KyJ-zg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/joe-biden-protests-minnesota/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/joe-biden-protests-minnesota/index.html"
+  - title: "Six key takeaways from Biden's Russia sanctions announcement"
+    excerpt: "The Biden administration slapped sweeping sanctions on Russia Thursday over Moscow's alleged interference in the 2020 election, the massive SolarWinds hack and the ongoing occupation of Crimea, signaling it is adopting a tougher posture toward the Kremlin and Russian President Vladimir Putin.\n    \n"
+    publishedDateTime: 2021-04-15T17:20:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dxRVYhB6cDY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/russia-sanctions-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/russia-sanctions-takeaways/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408121518-joe-biden-april-8-2021-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Joe Biden stands down at a critical juncture for police reform"
-    excerpt: "Nearly a year after the police killing of George Floyd, pressure is mounting on President Joe Biden and members of Congress to show they are committed to holding police officers accountable for misconduct, excessive force and negligence after yet another agonizing week that has demonstrated how Americans"
-    publishedDateTime: 2021-04-16T11:33:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IzRIuawahuI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/joe-biden-police-reform/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/joe-biden-police-reform/index.html"
+  - title: "'Stinging rebuke': Clapper reacts to Biden's sanctions on Russia"
+    excerpt: "Former US Director of National Intelligence, James Clapper, explains to CNN's Jim Sciutto why President Biden's sanctions against Russia are significant.\n    \n"
+    publishedDateTime: 2021-04-16T15:37:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q-Mq5zhm5C0/biden-sanctions-russia-clapper-intv-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/16/biden-sanctions-russia-clapper-intv-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/16/biden-sanctions-russia-clapper-intv-nr-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415170125-01-biden-harris-asian-pacific-american-caucus-0415-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416113008-james-clapper-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "How the Trump era made redistricting more complicated"
-    excerpt: "The political upheaval caused by the rise of former President Donald Trump has forced party operatives and elected officials tasked with laying out the nation's congressional districts for the next decade to determine whether those shifts were aberrations or signs of more lasting changes.\n    \n"
-    publishedDateTime: 2021-04-18T22:04:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/USwTatmtgTs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
+  - title: "Biden expected to tout reaching 200 million shots since taking office"
+    excerpt: "President Joe Biden is expected to tout the United States administering 200 million coronavirus vaccine shots since he took office in remarks on Wednesday, according to two administration officials.\n    \n"
+    publishedDateTime: 2021-04-21T13:57:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ioxRq6NM1_o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/21/politics/biden-200-million-shots/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/biden-200-million-shots/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212145220-102-trump-file-play-button-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420195034-joe-biden-april-20-2021-02-super-tease.jpeg"
         width: 1100
         height: 619
         isCached: true
-  - title: "What to watch as Congress gears up for work on Biden's infrastructure plan"
-    excerpt: "President Joe Biden has said he's willing to negotiate over infrastructure, a key legislative priority for the White House. There are signs, however, that Republican opposition remains as strong as ever, underscoring the challenge that awaits Democrats who face their own internal divisions over policy"
-    publishedDateTime: 2021-04-13T09:20:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TJ4Z5UHydvg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/biden-infrastructure-plan-congress/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/biden-infrastructure-plan-congress/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210412151143-02-biden-jobs-plan-0412-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump calls Afghanistan withdrawal 'a wonderful and positive thing to do' and criticizes Biden's timeline"
-    excerpt: "Former President Donald Trump on Sunday praised withdrawing US troops from Afghanistan, while knocking his successor's timeline for doing so.\n    \n"
-    publishedDateTime: 2021-04-18T19:40:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/agSvLegAQb8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/trump-afghanistan-troop-withdrawal/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/trump-afghanistan-troop-withdrawal/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Republicans mobilize for showdown that will help define the Biden presidency"
-    excerpt: "A defining political clash took shape Sunday over Joe Biden's latest effort to reshape the US economy, with Republicans mobilizing against a massive infrastructure plan that could put the President in historic Democratic company.\n    \n"
-    publishedDateTime: 2021-04-05T10:18:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xWJG-9odnS0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/05/politics/joe-biden-infrastructure-plan-republicans-democrats/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/05/politics/joe-biden-infrastructure-plan-republicans-democrats/index.html"
+  - title: "Biden administration unveils effort to strengthen cybersecurity of power grid"
+    excerpt: "The Biden administration kicked off a 100-day effort on Tuesday to beef up cybersecurity in the nation's power grid, calling for industry leaders to install technologies that could thwart attacks on the electricity supply.\n    \n"
+    publishedDateTime: 2021-04-20T15:50:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9SEGUgZKVl8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/biden-electricity-grid-cybersecurity/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/biden-electricity-grid-cybersecurity/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210331164919-01-biden-infrastructure-0331-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222102002-texas-electricity-power-lines-houston-0221-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The old guard of the judiciary moves on as Biden announces new picks for bench"
-    excerpt: "As President Joe Biden launches a new era of judicial appointments, the old guard of the bench is in its twilight.\n    \n"
-    publishedDateTime: 2021-04-09T11:34:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1NJFeWS10vY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/judges-reagan-clinton-trump-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/judges-reagan-clinton-trump-biden/index.html"
+  - title: "Biden to announce limited gun restrictions as pressure rises following mass shootings"
+    excerpt: "Facing pressure to act after a recent spate of high-profile mass shootings, President Joe Biden is set to unveil a package of moves Thursday that seek to address the scourge of gun violence.\n    \n"
+    publishedDateTime: 2021-04-08T14:47:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yutP2X6Bk9A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/gun-actions-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/gun-actions-joe-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210402091949-reagan-era-nominees-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093207-01-biden-gun-safety-forum-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Pressure builds on Biden administration to lift refugee cap after months-long delay"
-    excerpt: "In his first days in office, President Joe Biden proposed expanding the number of refugees who could be admitted to the United States after years of historic lows, but more than two months later that increase remains unsigned despite Biden's pledge, perplexing even officials within his own administration"
-    publishedDateTime: 2021-04-09T20:31:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TJ7r7nP68Ww/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/refugees-us-cap-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/refugees-us-cap-biden/index.html"
+  - title: "Biden turns to limited executive actions on gun control with Congress at a standstill"
+    excerpt: "President Joe Biden on Thursday will harness the powers of the presidency to advance a half-dozen executive actions on gun control, but they fall far short of the ambitious goals he outlined as a presidential candidate as the real fight still looms on Capitol Hill.\n    \n"
+    publishedDateTime: 2021-04-08T17:02:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cPCr2wZ65Vs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/joe-biden-guns-executive-actions/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324163902-refugee-camp-fire-video-thumbnail-lon-orig-na-super-tease.jpeg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408093823-01-biden-news-conference-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration has yet to name point person for $178 billion Provider Relief Fund"
-    excerpt: "The Biden administration has yet to name a point person for the $178 billion Provider Relief Fund, according to a senior administration official.\n    \n"
-    publishedDateTime: 2021-04-06T23:35:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V-xfF4CosuQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/provider-relief-fund-head-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/provider-relief-fund-head-biden-administration/index.html"
+  - title: "What's happening in Myanmar and what the Biden administration is trying to do about it"
+    excerpt: "The US policy on the Myanmar military's crackdown on peaceful pro-democracy demonstrators has been bipartisan -- but that hasn't helped stop the conflict in the Southeast Asian nation. At a time of rare bipartisan action, the Biden administration's position on Myanmar's violence won praise from Senate"
+    publishedDateTime: 2021-04-13T22:34:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0FFx1ajGd4E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/myanmar-explainer-us/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/myanmar-explainer-us/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406162835-02-biden-vaccine-remarks-0406-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210411213734-01-myanmar-unrest-0411-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -272,311 +224,182 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Washington Post: Trump-installed NSA lawyer resigns after being on administrative leave for three months"
-    excerpt: "National Security Agency general counsel Michael Ellis, who was installed by Trump officials in the final days of the administration, resigned from his post on Friday after being on administrative leave since the start of the Biden administration, according to The Washington Post.\n    \n"
-    publishedDateTime: 2021-04-18T19:18:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dUImdq1jD3Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/michael-ellis-resignation-nsa/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/michael-ellis-resignation-nsa/index.html"
+  - title: "Russia retaliates against Biden's sanctions by announcing it will expel 10 US diplomats"
+    excerpt: "Russian Foreign Minister Sergey Lavrov said on Friday that Russia will expel 10 US diplomats, part of a series of measures meant to retaliate for President Joe Biden's sweeping sanctions against the Kremlin Thursday.\n    \n"
+    publishedDateTime: 2021-04-16T17:35:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ca9irw7CVwc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/russia-retaliate-us-diplomats/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/russia-retaliate-us-diplomats/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415121852-moscow-russia-sanctions-0415-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration stands down on policing commission, focuses on legislative route instead"
+    excerpt: "The Biden administration is standing down on a campaign promise to create a White House-led commission and instead moving forward with its efforts toward passing police reform through legislative channels.\n    \n"
+    publishedDateTime: 2021-04-12T18:18:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WST906Khm2I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/policing-commission-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/policing-commission-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409091509-06-biden-infrastructure-0331-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Hawley raised $3 million in 2021's first quarter after objecting to electoral votes Biden won"
+    excerpt: "Missouri Sen. Josh Hawley raised $3 million in the first quarter of 2021, a person familiar with his fundraising said -- a total that showcases how the Republican base is rewarding loyalty to former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-04-12T20:14:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qcrLNE8UC8s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/josh-hawley-fundraising-first-quarter-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/josh-hawley-fundraising-first-quarter-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210228161942-hawley-cpac-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden says sanctions against Russia are proportionate response: 'Now is the time to de-escalate'"
+    excerpt: "President Joe Biden said Thursday that the sanctions he announced on Russia are a proportionate response to cyber-attacks against the US and interference in two different presidential elections, and said, \"Now is the time to de-escalate\"\n    \n"
+    publishedDateTime: 2021-04-15T22:41:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JY6ZcRLTSWY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/russia-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/russia-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415170518-01-biden-russia-comments-0415-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democrats send letter to Biden requesting immigration bill in second part of infrastructure package"
+    excerpt: "A bicameral group of Democratic lawmakers sent a letter to President Joe Biden on Tuesday requesting he prioritize legislation that would offer a pathway to citizenship to undocumented essential workers in the second part of his two-part infrastructure package set to address education and childcare.\n"
+    publishedDateTime: 2021-04-13T18:01:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/epHni426BU4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/democrats-immigration-infrastructure-biden-essential-workers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/democrats-immigration-infrastructure-biden-essential-workers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413125118-castro-warren-padilla-lieu-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration to provide $150 million to boost Covid response in underserved and vulnerable areas"
+    excerpt: "The Biden administration on Monday will allocate $150 million from the American Rescue Plan to community-based health care providers across the nation to help boost their coronavirus response for \"underserved communities and vulnerable populations,\" an administration official told CNN.\n    \n"
+    publishedDateTime: 2021-04-19T15:11:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dumFbX0rFYs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/american-rescue-plan-funding-vulnerable-communities/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/american-rescue-plan-funding-vulnerable-communities/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 158
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419104614-vaccination-april-10-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden Administration Says Russian Intelligence Obtained Trump Campaign Data"
-    excerpt: "The Biden administration revealed on Thursday that a business associate of Trump campaign officials in 2016 provided campaign polling data to Russian intelligence services, the strongest evidence to date that Russian spies had penetrated the inner workings of the Trump campaign."
-    publishedDateTime: 2021-04-15T22:55:00Z
-    webUrl: "https://www.nytimes.com/2021/04/15/us/politics/russian-intelligence-trump-campaign.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/15/us/politics/russian-intelligence-trump-campaign.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/15/us/politics/russian-intelligence-trump-campaign.amp.html"
+  - title: "White House backtracks on refugees decision after criticism and says Biden will announce increased cap by May 15"
+    excerpt: "The White House said Friday President Joe Biden will set a new, increased refugee cap next month after facing a barrage of criticism when officials confirmed to CNN and other outlets that it would remain at the historically low level set by former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-04-17T14:00:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j-S4fJkQ5KQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/biden-refugee-cap/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/biden-refugee-cap/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416173011-01-biden-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Families of Americans held in Afghanistan and Russia worry about consequences of Biden's tough foreign policy moves"
+    excerpt: "The sister of an American who was kidnapped in Afghanistan last year told CNN that she is worried that when the US troop withdrawal is complete, any leverage to get her brother home will vanish.\n    \n"
+    publishedDateTime: 2021-04-17T13:32:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_8AtO_YF00c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/17/politics/mark-frerichs-afghanistan-americans-russia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/17/politics/mark-frerichs-afghanistan-americans-russia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117175058-mark-frerichs-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to form commission to study Supreme Court changes"
+    excerpt: "WASHINGTON — President Joe Biden will sign an executive order Friday establishing a commission to study overhauling the Supreme Court, following through on a campaign promise, the White House announced. The topics that the commission will examine include ..."
+    publishedDateTime: 2021-04-09T16:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-announces-commission-study-overhauling-supreme-court-n1263644"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263644"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263644"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_14/3463454/210409-supreme-court-justices-building-file-se-1133a_cf6b5e577800884dae7568bb70dfe9fe.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden Reverses Course Again After Backlash and Will Increase Refugee Limit"
+    excerpt: "President Biden said earlier on Friday that he would keep the 15,000 limit set by the Trump administration, but said later that he would increase it. Prime Minister Yoshihide Suga of Japan met with Mr."
+    publishedDateTime: 2021-04-17T12:35:00Z
+    webUrl: "https://www.nytimes.com/live/2021/04/16/us/biden-news-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/04/16/us/biden-news-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/04/16/us/biden-news-today.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 148
+    quality: 133
     images:
-      - url: "https://static01.nyt.com/images/2021/04/15/us/politics/15dc-kilimnik/merlin_153673992_034f294e-d00f-486c-b0b8-b12b907e0ca4-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/04/16/us/politics/16new-washington-briefing-japanese-prim2/16new-washington-briefing-japanese-prim2-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "NYT: Trump campaign duped donors into repeat donations"
-    excerpt: "The New York Times is reporting that former President Donald Trump's campaign tried to make up a fundraising gap during the 2020 election cycle by signing up one-time online donors for repeat donations without their knowledge."
-    publishedDateTime: 2021-04-05T13:23:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/04/05/new-york-times-trump-campaign-duped-donors-sot-newday-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/05/new-york-times-trump-campaign-duped-donors-sot-newday-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/05/new-york-times-trump-campaign-duped-donors-sot-newday-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401220308-conclu-trump-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "2 Dem senators balk at Biden's new spending plan"
-    excerpt: "Joe Manchin wants his party's leaders and President Joe Biden to make significant changes to their sweeping new tax-and-spend legislation — and he’s got other Democratic senators with him. The West Virginia Democrat is readying for his second act after ..."
-    publishedDateTime: 2021-04-05T19:12:00Z
-    webUrl: "https://www.politico.com/news/2021/04/05/manchin-biden-spending-plan-479058"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/05/manchin-biden-spending-plan-479058"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/05/manchin-biden-spending-plan-479058"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/cd/cd/349d988a409cb1f5786a36238521/ap21070753566064.jpg"
-        width: 4500
-        height: 2998
-        isCached: true
-  - title: "How the Trump campaign steered supporters into recurring donations"
-    excerpt: "According to a New York Times investigation, Donald Trump’s 2020 campaign tricked supporters into making recurring donations. NBC News’ Danny Cevallos explains how it happened and if it’s legal.April 5, 2021 © 2021 NBC UNIVERSAL"
-    publishedDateTime: 2021-04-05T23:08:00Z
-    webUrl: "https://www.nbcnews.com/now/video/how-the-trump-campaign-steered-supporters-into-recurring-donations-109693509532"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo109693509532"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo109693509532"
+  - title: "Progressives will deliver their own response to President Joe Biden's speech to Congress"
+    excerpt: "Traditionally, the opposition party gives a rebuttal to the president's address. But this year, a member of Biden's own party will respond, too."
+    publishedDateTime: 2021-04-22T08:33:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/progressives-will-deliver-their-own-response-president-joe-biden-s-n1264880"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264880"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264880"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 126
     images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202104/ott_now_trump_cevallos_210405_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Corporate America tears down Biden's infrastructure plan"
-    excerpt: "Executives at some of America’s largest companies complain much more bitterly in private about the White House approach."
-    publishedDateTime: 2021-04-07T01:02:00Z
-    webUrl: "https://www.politico.com/news/2021/04/06/corporate-america-biden-infrastructure-plan-479490"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/06/corporate-america-biden-infrastructure-plan-479490"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/corporate-america-biden-infrastructure-plan-479490"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/1a/fb/11a78bf1427c8995db7e85fdb24b/4-6-21-joe-biden-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "The sneaky radicalism of Joe Biden's first few months in office"
-    excerpt: "(CNN)Joe Biden ran for president on a very simple idea: Government (and the country) works best when people from opposing parties work together. And he cast himself as someone who was uniquely suited to re-stoke the desire for bipartisanship in Congress ..."
-    publishedDateTime: 2021-04-09T16:08:00Z
-    webUrl: "https://www.cnn.com/2021/04/09/politics/joe-biden-environment-guns-filibuster/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/joe-biden-environment-guns-filibuster/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/joe-biden-environment-guns-filibuster/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408122600-joe-biden-april-8-2021-02-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's border coordinator stepping down at end of the month"
-    excerpt: "(CNN)President Joe Biden's border coordinator is stepping down at the end of the month, the White House announced Friday -- an unusual time given the administration is dealing with record numbers of unaccompanied migrant children at the US southern border."
-    publishedDateTime: 2021-04-09T17:11:00Z
-    webUrl: "https://www.cnn.com/2021/04/09/politics/biden-border-coordinator-stepping-down/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/biden-border-coordinator-stepping-down/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/biden-border-coordinator-stepping-down/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310154048-02-central-american-minors-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "HUD moves to restore fair housing rules weakened under Trump"
-    excerpt: "The Trump administration suspended its implementation in 2018. Officials then proposed a watered-down revision before scrapping it altogether last summer as former President Donald Trump campaigned on the warning that Democrats were trying to ruin the ..."
-    publishedDateTime: 2021-04-13T21:39:00Z
-    webUrl: "https://www.politico.com/news/2021/04/13/hud-housing-rules-481209"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/13/hud-housing-rules-481209"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/13/hud-housing-rules-481209"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/5b/29/9978ad914a6ba3b696ae59f53459/ap21077605779705-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden defends his gun reform strategy"
-    excerpt: "President Joe Biden on Friday defended his push for Congress to take action on gun legislation, saying he can work on guns and other legislative priorities at the same time. “I’ve never not prioritized this."
-    publishedDateTime: 2021-04-16T22:17:00Z
-    webUrl: "https://www.politico.com/news/2021/04/16/biden-gun-control-482549"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/16/biden-gun-control-482549"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/16/biden-gun-control-482549"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/fd/1a/cbd7f1744ffcb0783b74bf202041/210416-biden-2-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Why Biden Isn’t Getting Flamed as Being Soft on Terror"
-    excerpt: "As Joe Biden announced the withdrawal of troops from Afghanistan, one of the most notable things is what did not happen in the next 24 hours. My inbox wasn't immediately filled with anxious notes from old Democratic campaign hands."
-    publishedDateTime: 2021-04-16T21:46:00Z
-    webUrl: "https://www.politico.com/news/magazine/2021/04/16/why-biden-isnt-getting-flamed-as-being-soft-on-terror-482545"
-    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/04/16/why-biden-isnt-getting-flamed-as-being-soft-on-terror-482545"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/04/16/why-biden-isnt-getting-flamed-as-being-soft-on-terror-482545"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/c7/4f/c843deb543ab8cb31771d261b134/ap21104703703896-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Joe Biden's infrastructure plan could leave too many women behind"
-    excerpt: "President Joe Biden says his roughly $2 trillion infrastructure plan will help create millions of jobs. But many of the proposed jobs are in historically male-dominated fields and experts worry the plan won't do enough for America's women,"
-    publishedDateTime: 2021-04-18T15:48:00Z
-    webUrl: "https://www.cnn.com/2021/04/18/economy/women-infrastructure-care-stimulus/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/economy/women-infrastructure-care-stimulus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/economy/women-infrastructure-care-stimulus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413133507-us-women-infrastructure-care-investment-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How the Trump era made redistricting more complicated"
-    excerpt: "The political upheaval caused by the rise of former President Donald Trump has forced party operatives and elected officials tasked with laying out the nation's congressional districts for the next decade to determine whether those shifts were aberrations or signs of more lasting changes."
-    publishedDateTime: 2021-04-18T18:04:00Z
-    webUrl: "https://www.cnn.com/2021/04/18/politics/redistricting-post-trump-era/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212145220-102-trump-file-play-button-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden pushes sweeping jobs plan in meeting with bipartisan group of lawmakers"
-    excerpt: "President Joe Biden is working to build bipartisan support for his sweeping $2 trillion American Jobs Plan and met Monday at the White House with a bipartisan group of lawmakers. The president wants to see Congress pass the proposal,"
-    publishedDateTime: 2021-04-12T22:05:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-push-sweeping-jobs-plan-meeting-bipartisan-group-lawmakers-n1263832"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263832"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263832"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_15/3464114/210412-joe-biden-ew-313p_67f02ac37cc69eec816d68289b1fd3fd.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_16/3466730/210421-jamaal-bowman-ew-435p_d35a4131c8844eff13f4735c88a56a4a.jpg"
         width: 2500
-        height: 1706
+        height: 1667
         isCached: true
-  - title: "Biden to push sweeping jobs plan in meeting with bipartisan group of lawmakers"
-    excerpt: "WASHINGTON — President Joe Biden will seek to build bipartisan support for his sweeping $2 trillion American Jobs Plan when he is scheduled to meet Monday at the White House with a bipartisan group of lawmakers. Biden is already facing opposition from ..."
-    publishedDateTime: 2021-04-12T17:35:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-push-sweeping-jobs-plan-meeting-bipartisan-group-lawmakers-n1263832"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263832"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263832"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_15/3464114/210412-joe-biden-ew-313p_67f02ac37cc69eec816d68289b1fd3fd.jpg"
-        width: 2500
-        height: 1706
-        isCached: true
-  - title: "Biden faces battery trade case test"
-    excerpt: "Weekly Trade is a weekly version of POLITICO Pro’s daily Trade policy newsletter, Morning Trade. POLITICO Pro is a policy intelligen"
-    publishedDateTime: 2021-04-05T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/weekly-trade/2021/04/05/biden-faces-battery-trade-case-test-794463"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
-  - title: "How Biden hopes to fix the thorniest problem in housing"
-    excerpt: "President Joe Biden is proposing a historic infusion of federal money into housing as part of his $2 trillion infrastructure package, but the plan is already running into doubts about whether it’s enough and resistance from the very people he needs to ..."
-    publishedDateTime: 2021-04-11T22:30:00Z
-    webUrl: "https://www.politico.com/news/2021/04/10/biden-housing-plan-480676"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/94/35/d9b5668842989748d2d49dbd92dc/210409-nyc-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "How Trump prevents a new Tea Party from brewing"
-    excerpt: "Even Donald Trump, the Triumph the Insult Comic Dog of electoral politics, has had troubles landing a punch. His latest nickname for the president — “Saintly Joe Biden” — was debuted to donors over the weekend. It was meant as derisive … we think."
-    publishedDateTime: 2021-04-14T00:00:00Z
-    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/04/13/how-trump-prevents-a-new-tea-party-from-brewing-492461"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
-  - title: "Biden tries to rally global leaders"
-    excerpt: "The Biden administration is pressing for new climate pledges from countries that will participate in his summit next week, but the effort seems to be falling flat. — Congress digs into a host of hearings on climate and infrastructure today,"
-    publishedDateTime: 2021-04-15T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-energy/2021/04/15/biden-tries-to-rally-global-leaders-794680"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
-  - title: "Not Your Usual Police Chief: Biden Picks Trump Critic to Run Border Agency"
-    excerpt: "signaling an intent to bring a seismic cultural shift to an agency at the center of some of the more contentious policies of President Donald J. Trump, particularly the separation of thousands of migrant children from their families. Chief Magnus will be ..."
-    publishedDateTime: 2021-04-13T01:14:00Z
-    webUrl: "https://www.nytimes.com/2021/04/12/us/politics/chris-magnus.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 108
 
 secured: "HdG9S2Wx0f8X7MXwO4GwM8hUAxwvwAj6MQgm6KWXKTS7L1V9FD8HiPJ8wZJJ3LSFr6oha81XaZGuN8e7NOT+8Jkx8X06z5LMT90YPHN1/Vy7WwVwYjz0gEEcGPIYsgpPh2aL3YWUa0SKy/EVot8ml1RPoPdWT5DLWFhrhrqvbDQy5gj761SqJ3rJmXUDuoDrLUdXNpsbH2s2EN7Yk5aLQa3YMU3jOPc+ZzZmpT18TckIvQ4oPWU1UqJ5QWmLjPkIlHUXT8e7ymykf23RcpQc/oboLMg6LPCeq/IVotGtJ57M227hCXT+Xx9jebTEVa018SfWhpcuKHz70UnSV+5DCT+XdCNu8nVA5KzhXUOojUdaYUFQ64t7DhDJPCygya+y4dsY2FeYxFyIDIX9DrjshwY6iOF00bkQNwK3jX7Y/OycdUOYPBskxatBzsp3jHmntYoepxCnV5IsbvXlOI1xJgCYX8hZkLK2eQy85Ol5Hoq5OBbnZEytBni1GdGpfO6G1Q00amQr0/fivQtXFV3efA==;XVPLZOHWZOuk6ul2MGWvtQ=="
 ---

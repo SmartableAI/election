@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-border-surge-crisis-defends-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-surge-crisis-defends-refugee-move.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
       - url: "https://assets.realclear.com/images/52/521952.jpg"
         width: 1046
         height: 784
+        isCached: true
+  - title: "Biden's Turning Point on Police Reform"
+    excerpt: "Minnesota Attorney General Keith Ellison called the guilty-verdict sweep against Derek Chauvin, the police officer who killed George Floyd, an"
+    publishedDateTime: 2021-04-21T11:25:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/541090_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "9808HzmEKf+tpYOXnz2IxtwUai5tJKkWWaJxnJ03YuOKpmzxdYFlFfio9dw1RA/P2W3TJS7P/wuYTjR16TFi/ZDxny8cGXffCj2eKfwYHHCqfSuJQaqAZwiWqW1iE00JFijeeqOstQUCbeTiFfxTliCVivyqQs9od5uZ0+Tk9zZOaAEqvwam9flqbirQvNl40c/yLEwSbC+MM5jLdas2KiljxOSzfrmuOeKmTkfqbdOhWE4iuAUWOmsiubXKBcon9ofSUUeJxUGvbbUAtFNfiPrlNxivSNBt2qAQ6l6mhur30A0+7K49A9UluAHclxZ7LjSzxDf0DCM45EoqqtHt8+3DYH7xnUveX3afkbZaPCc=;keL5reZDvllgCkcT+WxTKQ=="

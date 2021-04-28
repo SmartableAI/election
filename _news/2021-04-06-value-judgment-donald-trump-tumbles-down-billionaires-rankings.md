@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/06/donald-trump-billion
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 145
+published: true
 
 provider:
   name: The Guardian
@@ -31,53 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Ivanka Trump's women's empowerment program slammed in government report"
-    excerpt: "Former President Donald Trump's eldest daughter and adviser, Ivanka Trump, helped promote the policy program and ushered the bill through Congress. The US Agency for International Development oversaw the implementation of the initiative and was mandated to ..."
-    publishedDateTime: 2021-04-02T01:36:00Z
-    webUrl: "https://www.businessinsider.com/ivanka-trumps-womens-empowerment-program-slammed-in-government-report-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/ivanka-trumps-womens-empowerment-program-slammed-in-government-report-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ivanka-trumps-womens-empowerment-program-slammed-in-government-report-2021-4?amp"
+  - title: "Donald Trump tumbles down Forbes' billionaires while Kim Kardashian lands on list"
+    excerpt: "Forbes magazine estimated former President Trump's wealth fell from $3.5 billion to $2.4 billion. moving him from 1,001st place to 1,299th."
+    publishedDateTime: 2021-04-10T15:22:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2021/04/10/donald-trump-kim-kardashian-billionaire-forbes-list/7172191002/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 100
     images:
-      - url: "https://i.insider.com/606648fe52f11d0019431b6b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Amid federal probe, Matt Gaetz will speak to conservative women’s group at Trump golf course"
-    excerpt: "Support our journalism. Subscribe today. Now, Gaetz is planning to take center stage later this week as a keynote speaker at a conservative women’s group’s conference at former president Donald Trump’s Miami golf course. Women for America First ..."
-    publishedDateTime: 2021-04-07T09:55:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2021/04/07/gaetz-save-america-summit-speaker/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2021/04/07/gaetz-save-america-summit-speaker/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/04/07/gaetz-save-america-summit-speaker/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N226PGUWR4I6XDYKGOCM6T5TTE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "The Supreme Court dismissed as moot a First Amendment case over Trump blocking his critics on Twitter"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% The Supreme Court in a Monday morning ruling dismissed as moot a case over former President Donald Trump blocking Twitter users who criticized him. The Supreme Court vacated a ruling from the Court of Appeals for ..."
-    publishedDateTime: 2021-04-05T15:10:00Z
-    webUrl: "https://www.businessinsider.com/supreme-court-dismisses-case-over-trump-blocking-critics-on-twitter-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/supreme-court-dismisses-case-over-trump-blocking-critics-on-twitter-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-dismisses-case-over-trump-blocking-critics-on-twitter-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5fa4b12af7d1cb0019e3a22d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.gannett-cdn.com/presto/2021/04/10/USAT/e567a5ff-2c30-4f38-ac5e-11d4de85964c-Donald_Trump_tumbles_down_Forbes_billion-6071983f4f499f10a8881ce2_1_Apr_10_2021_15_01_26_poster.jpeg?quality=10"
+        width: 720
+        height: 720
         isCached: true
 
 secured: "IIdsNWivOavMv0iyGTyytoMTAWsPMHPmPkzA8UTgUhCHriUl7I3FXggNs7vX28IkILuC8mkluvzWbuxVNwppY1C/lWmEJrVIFl6JZJtQXFq6dAvJcbX2XM5PF77jM381ROyvd9loNxVc+Z+paz+GR/pO1LWWb4b6l66M80NMGdIoL8hwzpCG/JPskbSb6vKd5RAPkUt0+5NR7UqCUY9qmD9NF1bpry/ieaThYh2DL4zzKpDORcB71p3fZFrKLEW8YHNSR4Xy1umdFipAVUTRDXrQuHJIeOICkR8H3nPVeEz1/41wu+5uMLTf8jzv20NVSUTQ4oCNA7l3v+LPU3emZgO0xDp86V5+HBAJFCWFPP/p75fruSIlkr1bHZeJpYz4qz7M59jX7FXc4zXtNbldFOJaWxivJEe+ne6u9eS+scNwA87kXJiQXP20Tkz10cd3E0jVqGbEnyOjH7w30vSTBex2Ph9IOVwpHaG4gFxIJtlDVP681uQXJDUuUTqp7Kd2YD2Vy0j6xFTPiIKSwhWFZA==;xJy/3DU+ItpWG+whHZp/kg=="

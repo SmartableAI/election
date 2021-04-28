@@ -31,51 +31,176 @@ images:
     isCached: true
 
 related:
-  - title: "White House: First lady Jill Biden to undergo 'procedure'"
-    excerpt: "The White House says President Joe Biden will accompany his wife, Jill Biden, early Wednesday morning to an appointment where she will undergo a “common medical procedure.” WASHINGTON -- The ..."
-    publishedDateTime: 2021-04-14T02:13:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/white-house-lady-jill-biden-undergo-procedure-77057113"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/white-house-lady-jill-biden-undergo-procedure-77057113"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/white-house-lady-jill-biden-undergo-procedure-77057113"
+  - title: "First Thing: Biden rails against ‘epidemic’ of US gun violence"
+    excerpt: "Joe Biden has described gun violence in the US as an “epidemic” and an “international embarrassment”, in an emotional address at the White House after a series of mass shootings in recent weeks. The address follows his announcement of a series of ..."
+    publishedDateTime: 2021-04-09T09:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/09/first-thing-biden-lambasts-epidemic-of-us-gun-violence"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/09/first-thing-biden-lambasts-epidemic-of-us-gun-violence"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/09/first-thing-biden-lambasts-epidemic-of-us-gun-violence"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_92adcfa535924bebbdbaa7e5b95d98bc_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.guim.co.uk/img/media/fc8e56209695d10f1fb13dc3536cd73f952d12cf/0_301_6045_3627/master/6045.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d895af94bd246ac6c6a3bc9a18931e9f"
+        width: 600
+        height: 360
         isCached: true
-  - title: "White House: Jill Biden arrives for medical ‘procedure’"
-    excerpt: "WASHINGTON — President Joe Biden and his wife, Jill Biden, were at a downtown office building Wednesday for the first lady to undergo a “common medical procedure.” The White House announced late Tuesday that the president would accompany his wife ..."
-    publishedDateTime: 2021-04-14T11:52:00Z
-    webUrl: "https://www.washingtonpost.com/politics/white-house-first-lady-jill-biden-to-undergo-procedure/2021/04/13/fdae29cc-9cbf-11eb-b2f5-7d2f0182750d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/white-house-first-lady-jill-biden-to-undergo-procedure/2021/04/13/fdae29cc-9cbf-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/white-house-first-lady-jill-biden-to-undergo-procedure/2021/04/13/fdae29cc-9cbf-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+  - title: "First Thing: Biden gets serious about going green"
+    excerpt: "The US will halve its carbon emissions by 2030, the White House announced before a climate summit later today. Plus, 200m coronavirus shots have been administered in the US"
+    publishedDateTime: 2021-04-22T10:29:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/22/first-thing-biden-gets-serious-about-going-green"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/22/first-thing-biden-gets-serious-about-going-green"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/22/first-thing-biden-gets-serious-about-going-green"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://i.guim.co.uk/img/media/23ae0518d3762e18032936bc90702d00deb3e28a/0_164_5971_3582/master/5971.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7ef1d9fc5600a623508f4e3c542b2cab"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Imagine a 20-car motorcade taking you to dinner. That's the White House bubble Joe Biden now finds himself living in."
-    excerpt: "White House living isn't quite that simple for any president. Joe Biden has described it as \"a little like a gilded cage.\""
-    publishedDateTime: 2021-04-16T19:59:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-white-house-delaware-bubble-2021-4"
+  - title: "Biden to tackle gun violence with executive actions on ‘ghost guns’ and pistols"
+    excerpt: "Joe Biden will also direct the justice department to clarify regulations to ensure that pistols fitted with stabilizing braces, which essentially transform them into rifles, will be regulated under the National Firearms Act. Pistols are cheaper ..."
+    publishedDateTime: 2021-04-08T00:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/07/joe-biden-gun-violence-executive-actions"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/07/joe-biden-gun-violence-executive-actions"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/07/joe-biden-gun-violence-executive-actions"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/8cb0f1df4d97cb291848bdcec97186e30d5ec37d/0_74_3938_2364/master/3938.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=359d318f8616008e4268fcc2c6acc0f1"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Hunter Biden on his memoir \"Beautiful Things\" and his struggles with substance abuse"
+    excerpt: "And all I can do is cooperate, and trust in the process.\" From the time he was a toddler, Hunter Biden and his older brother, Beau, were fixtures in Joe Biden's public life, and when they were both hurt in the 1972 car crash that killed their mother and ..."
+    publishedDateTime: 2021-04-04T14:01:00Z
+    webUrl: "https://www.cbsnews.com/news/hunter-biden-on-his-memoir-beautiful-things-and-his-struggles-with-substance-abuse/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/hunter-biden-on-his-memoir-beautiful-things-and-his-struggles-with-substance-abuse/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/hunter-biden-on-his-memoir-beautiful-things-and-his-struggles-with-substance-abuse/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 118
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/03/2b8c7c7c-d809-427c-a3b7-dc4534ca8698/thumbnail/1200x630/33f94a8bd914937e2677cd90ba531051/hunter-biden-sm-1920.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Hunter Biden on his memoir \"Beautiful Things\" and his struggles with substance abuse"
+    excerpt: "And all I can do is cooperate, and trust in the process.\" From the time he was a toddler, Hunter Biden and his older brother, Beau, were fixtures in Joe Biden's public life, and when they were both hurt in the 1972 car crash that killed their mother and ..."
+    publishedDateTime: 2021-04-05T10:44:00Z
+    webUrl: "https://www.cbsnews.com/news/hunter-biden-interview-memoir-substance-abuse/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/hunter-biden-interview-memoir-substance-abuse/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/hunter-biden-interview-memoir-substance-abuse/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 118
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/03/2b8c7c7c-d809-427c-a3b7-dc4534ca8698/thumbnail/1200x630/33f94a8bd914937e2677cd90ba531051/hunter-biden-sm-1920.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden says gun violence in the US is an 'international embarrassment' as he announces new executive actions"
+    excerpt: "The letter F. An envelope. It indicates the ability to send an email. President Joe Biden on Thursday announced his first executive actions amid renewed pressure to address gun violence in the US following a slew of mass shootings. \"We're taking steps to ..."
+    publishedDateTime: 2021-04-08T16:37:00Z
+    webUrl: "https://www.businessinsider.com/biden-executive-orders-gun-violence-announcement-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-executive-orders-gun-violence-announcement-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-executive-orders-gun-violence-announcement-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 82
+    quality: 107
     images:
-      - url: "https://i.insider.com/6079ec3674da0300181e23a3?width=1200&format=jpeg"
+      - url: "https://i.insider.com/606c5884a7d803001963eead?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Hunter Biden on \"Beautiful Things\" and his struggles with substance abuse"
+    excerpt: "Hunter Biden on \"Beautiful Things\" and his struggles with substance abuse Hunter Biden, the son of President Joe Biden, and author of a new memoir, \"Beautiful Things,\" opens up to \"Sunday Morning\" correspondent Tracy Smith about his abuse of drugs and ..."
+    publishedDateTime: 2021-04-04T14:15:00Z
+    webUrl: "https://www.cbsnews.com/video/hunter-biden-on-beautiful-things-and-his-struggles-with-substance-abuse/?intcid=CNI-00-10aaa3b"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 104
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/04/f45cd19a-6e42-4e56-8942-1033093d5754/thumbnail/1200x630/96cf35b6d8c41e3d27c96450f5c3d964/hunterbidensm1920-684815-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Gun violence ‘pierces the very soul of our nation’, Biden says after Indianapolis shooting – live"
+    excerpt: "President says shooting at FedEx facility is ‘just the latest in a string of tragedies’ and ‘gun violence is an epidemic’"
+    publishedDateTime: 2021-04-16T17:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates?page=with:block-6079c81a8f08a91092689de1"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 92
+  - title: "Biden condemns US gun violence as an ‘international embarrassment’ as he announces new actions – live"
+    excerpt: "Maanvi Singh in Oakland (now) and Joan E Greve in Washington (earlier) Oliver Milman Michael Regan has perhaps the most fiendishly challenging job within Joe Biden’s administration. As the head of the Environmental Protection Agency, Regan not only has ..."
+    publishedDateTime: 2021-04-08T23:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f77ea8f08098d4e058c20"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 90
+  - title: "Biden condemns US gun violence as an ‘international embarrassment’ as he announces new actions – as it happened"
+    excerpt: "Read more: The shooting occurred not long after Joe Biden announced new executive actions to address gun violence. Hours before the shooting, Abbott, a Republican, came out vehemently against the president’s gun control policies. “Biden is threatening ..."
+    publishedDateTime: 2021-04-08T23:59:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f79e38f087dc3964a397d"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 85
+  - title: "2 deadly mass shootings come as Biden introduces actions to to restrict \"ghost guns\" and promote red flag legislation"
+    excerpt: "President Joe Biden introduced half a dozen executive actions Thursday addressing gun violence, calling it an \"international embarrassment.\" Just a few hours later, one person was killed and five others were hurt in a mass shooting in Texas,"
+    publishedDateTime: 2021-04-11T20:40:00Z
+    webUrl: "https://www.cbsnews.com/video/texas-mass-shooting-hours-after-biden-introduces-plan-to-combat-gun-violence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 82
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/09/f7e3f108-22b0-4b8f-8aa4-2425e76cfcdc/thumbnail/1200x630/a3a3721f8dc95a6b183a99c855bd97b4/cbsn-fusion-texas-mass-shooting-kills-one-person-hours-after-biden-introduces-plan-to-combat-gun-violence-thumbnail-688716-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Two deadly mass shootings come as Biden introduces actions to to restrict \"ghost guns\" and promote red flag legislation"
+    excerpt: "Two deadly mass shootings come as Biden introduces actions to to restrict \"ghost guns\" and promote red flag legislation President Joe Biden introduced half a dozen executive actions Thursday addressing gun violence, calling it an \"international embarrassment.\""
+    publishedDateTime: 2021-04-09T14:52:00Z
+    webUrl: "https://www.cbsnews.com/video/texas-mass-shooting-kills-one-person-hours-after-biden-introduces-plan-to-combat-gun-violence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 81
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/09/f7e3f108-22b0-4b8f-8aa4-2425e76cfcdc/thumbnail/1200x630/a3a3721f8dc95a6b183a99c855bd97b4/cbsn-fusion-texas-mass-shooting-kills-one-person-hours-after-biden-introduces-plan-to-combat-gun-violence-thumbnail-688716-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "KwwPBUcSMMJ7XzyeOuAN1SO7OclN2dckjkF8QnYGWh3Xnt1ePavyBna5PjWUYfp/ELgmswN2wfyuxeWuxUIIqPJs4oxpYz99qO8i/P4sMQCZ5WoKagFjFpE0s/Bc94kFEg1k7280j7FnLe3bFjVv3yFylwqRspPnRJY6YMqmdYpntDnPPva5rh6MaMzYk6oMlZx54RIvBTSoE6SF+TUaf5csuwJaiYE9QSbY7x44n2qFap7WqDFIwZPVd6NqBArTnMP72L/nX0gWskpQ36bffgOnXXuHjoZYuweqG6hEP8Z23tH194dgFvBYUVGsWtVAj9IexBpbSQ03w+0aAc7S+YmbaElqqTGFjtUO7Pi9Omk=;IFs+LDRFYiKyuvBwK0q5ww=="

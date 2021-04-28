@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden strengthens Obama's legacy while seeking his own"
-    excerpt: "With sweeping economic recovery plans, President Joe Biden seeks his own legacy like the New Deal or Great Society. But he's also bolstering Barack Obama's.\n    \n"
-    publishedDateTime: 2021-04-11T13:44:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ScIMC1hWZ1A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/11/politics/joe-biden-obamacare-legacy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/11/politics/joe-biden-obamacare-legacy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212124553-biden-health-care-eo-0128-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden dispatches unofficial delegation to Taiwan "
     excerpt: "President Joe Biden dispatched an unofficial delegation to Taiwan Tuesday in a show of support for the island, according to a senior administration official and a State Department spokesperson.\n    \n"
     publishedDateTime: 2021-04-13T21:36:29Z
@@ -111,35 +95,35 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden puts his stamp on foreign policy with series of momentous decisions"
-    excerpt: "After President Joe Biden declared Wednesday that the US must shift focus from a bloody and intractable war to more modern-day pursuits, it took less than 24 hours for him to put his words into practice.\n    \n"
-    publishedDateTime: 2021-04-15T20:25:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UEvlCy6tDuE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/politics/foreign-policy-joe-biden-russia-afghanistan/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/foreign-policy-joe-biden-russia-afghanistan/index.html"
+  - title: "Why Biden is pulling the US -- and NATO -- out of Afghanistan"
+    excerpt: "As President Biden prepares to lay out his plan Wednesday to withdraw US troops from Afghanistan and end America's longest war, a source familiar with his thinking tells me that he thinks no amount of US troops in the country can be a game changer anymore.\n    \n"
+    publishedDateTime: 2021-04-14T11:15:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/288ZddxX3iI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/biden-us-nato-afghanistan-troops/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/biden-us-nato-afghanistan-troops/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408123830-joe-biden-0407-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: Joe Biden doesn't tweet enough wild stuff for this Republican"
+    excerpt: "Texas Sen. John Cornyn (R) offered a very curious critique of Joe Biden's presidency in a series of tweets on Monday.\n    \n"
+    publishedDateTime: 2021-04-12T22:32:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1CFYr5ROGAI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/john-cornyn-twitter-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/john-cornyn-twitter-biden-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414150627-05-biden-afghanistan-remarks-0414-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Manchin on his veto power over Biden agenda: 'It's not a good place to be'"
-    excerpt: "In a 50-50 Senate, with most members voting the party-line, Sen. Joe Manchin stands mostly alone: effectively holding veto power over many of President Joe Biden's nominees and key elements of his agenda.\n    \n"
-    publishedDateTime: 2021-03-11T00:49:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_bjE6jWbXzE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/joe-manchin-biden-agenda/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/joe-manchin-biden-agenda/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126203100-joe-manchin-at-inauguration-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022171048-21d-john-cornyn-play-button-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -159,22 +143,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Democrats urge Biden administration to reform shelter system for migrant minors "
-    excerpt: "More than 60 Democratic lawmakers called on the Biden administration Tuesday to eventually end reliance on overflow facilities for unaccompanied migrant children, according to a letter shared with CNN.\n    \n"
-    publishedDateTime: 2021-04-13T09:45:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rCC6l5o6ISc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/democrats-immigration-shelter-system/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/democrats-immigration-shelter-system/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324190144-07-hhs-children-facility-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to use meeting with Japan's prime minister to send 'clear signal' to China"
     excerpt: "President Joe Biden plans to use his meeting with Prime Minister Yoshihide Suga on Friday to send a signal to China that the countries are united in their opposition to recent aggression against Taiwan as the US seeks to refocus its foreign policy in East Asia.\n    \n"
     publishedDateTime: 2021-04-16T00:00:19Z
@@ -191,19 +159,35 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to nominate first person of color to serve as permanent Census Bureau director"
-    excerpt: "President Joe Biden has picked statistician Robert Santos as the next Census Bureau director, the White House announced Tuesday, setting the stage for the first person of color to permanently head the agency if confirmed by the Senate.\n    \n"
-    publishedDateTime: 2021-04-13T21:17:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H8lAn0sCqOk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/biden-census-bureau-robert-santos/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/biden-census-bureau-robert-santos/index.html"
+  - title: "Biden administration has yet to name point person for $178 billion Provider Relief Fund"
+    excerpt: "The Biden administration has yet to name a point person for the $178 billion Provider Relief Fund, according to a senior administration official.\n    \n"
+    publishedDateTime: 2021-04-06T23:35:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V-xfF4CosuQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/06/politics/provider-relief-fund-head-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/provider-relief-fund-head-biden-administration/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413154724-rob-santos-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406162835-02-biden-vaccine-remarks-0406-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden orders White House flags lowered to half-staff after Capitol Police officer killed"
+    excerpt: "President Joe Biden has been receiving ongoing briefings from his homeland security adviser following an attack on the US Capitol that killed Capitol Police Officer William Evans and injured another, the White House announced Friday.\n    \n"
+    publishedDateTime: 2021-04-02T22:04:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NuzvXGo-ZYM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/02/politics/biden-capitol-attack-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/02/politics/biden-capitol-attack-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210323130224-01-white-house-flag-half-staff-0323-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -239,22 +223,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's agenda hinges on new Senate push for bipartisan deals amid distrust between the parties"
-    excerpt: "Major items on President Joe Biden's domestic agenda hang in the balance this month, hinging on Republicans' willingness to cut deals and whether Democrats agree to pare back their ambitions at the risk of causing a backlash on the left.\n    \n"
-    publishedDateTime: 2021-04-14T21:13:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t879IIHRsVQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/biden-agenda-bipartisan-deals/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/biden-agenda-bipartisan-deals/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180212125818-01-schumer-mcconnell-02-12-2018-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden and Hill leaders to speak at ceremony ahead of slain Capitol Police officer lying in honor"
     excerpt: "President Joe Biden, congressional leaders and members of the US Capitol Police will attend a ceremony for fallen Capitol Police Officer William \"Billy\" Evans, who will lie in honor in the Capitol Rotunda on Tuesday.\n    \n"
     publishedDateTime: 2021-04-13T10:05:48Z
@@ -271,37 +239,48 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to announce executive actions on gun control, name ATF nominee"
-    excerpt: "WASHINGTON — President Joe Biden is expected to announce a series of executive actions Thursday on gun control and to nominate a prominent gun control advocate to lead the Bureau of Alcohol, Tobacco, Firearms and Explosives, White House officials said."
-    publishedDateTime: 2021-04-07T22:21:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-announce-executive-actions-guns-name-atf-nominee-n1263385"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1263385"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263385"
+  - title: "The Point: The sneaky radicalism of Joe Biden's first few months in office"
+    excerpt: "Joe Biden ran for president on a very simple idea: Government (and the country) works best when people from opposing parties work together. And he cast himself as someone who was uniquely suited to re-stoke the desire for bipartisanship in Congress (and the country).\n    \n"
+    publishedDateTime: 2021-04-09T16:08:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zs2yU2TXOfE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/joe-biden-environment-guns-filibuster/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/joe-biden-environment-guns-filibuster/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 153
+  - title: "Biden to host bipartisan group of lawmakers for infrastructure meeting as he faces pressure on both sides of the aisle"
+    excerpt: "President Joe Biden will meet with a bipartisan group of lawmakers on Monday afternoon to discuss his roughly $2 trillion jobs and infrastructure proposal, as he faces united Republican opposition to the plan and pressure from Democrats to move without GOP support.\n    \n"
+    publishedDateTime: 2021-04-12T13:29:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Tc2zr1MJYeM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/biden-infrastructure-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/biden-infrastructure-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2019_32/2960651/190805-gun-store-texas-2009-ac-746p_f75a3534f260768c4cd06851439901ce.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210409091509-06-biden-infrastructure-0331-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Down to the wire: Biden's green goals face a power grid reckoning"
-    excerpt: "President Joe Biden's dream of a climate-friendly electric grid hangs on a slender wire: his administration's ability to speed the construction of thousands of miles of power lines. But he’ll have to contend with a major obstacle: Americans who hate ..."
-    publishedDateTime: 2021-04-08T23:55:00Z
-    webUrl: "https://www.politico.com/news/2021/04/08/biden-green-goals-power-grid-480446"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/08/biden-green-goals-power-grid-480446"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/08/biden-green-goals-power-grid-480446"
+  - title: "'Smarten up': Biden admonishes states' restrictive voting laws"
+    excerpt: "President Joe Biden says that it is reassuring to see corporations speak up about restrictive voting laws and admonished states that are pushing new measures that make voting more difficult."
+    publishedDateTime: 2021-04-06T21:28:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/06/joe-biden-georgia-voting-laws-smarten-up-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/06/joe-biden-georgia-voting-laws-smarten-up-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/06/joe-biden-georgia-voting-laws-smarten-up-sot-vpx.cnn"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
+      name: CNN
+      domain: cnn.com
     quality: 135
     images:
-      - url: "https://static.politico.com/eb/41/aa0e5fcd4d8686ffb7d6af232522/20201118-power-lines-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406172321-joe-biden-april-6-2021-04-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Biden taps Tucson police chief to lead CBP"
     excerpt: "President Joe Biden on Monday announced his intent to nominate Chris Magnus as commissioner of U.S. Customs and Border Protection — tapping a police chief from Tucson, Ariz., to oversee the mammoth Department of Homeland Security agency tasked with ..."
@@ -319,37 +298,21 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "The Biden White House media doctrine: Less can be more"
-    excerpt: "Three months in, Joe Biden’s White House has settled on a firm press strategy: First, do no self-harm. The president is not doing cable news interviews. Tweets from his account are limited and, when they come, unimaginably conventional. The public ..."
-    publishedDateTime: 2021-04-12T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/04/12/biden-white-house-press-strategy-480930"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/12/biden-white-house-press-strategy-480930"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/12/biden-white-house-press-strategy-480930"
+  - title: "Joe Biden is taking a calculated risk in Afghanistan"
+    excerpt: "While the US is leaving the war, the people of Afghanistan can't. The President's decision could hasten the Taliban's toppling of Afghanistan's tenuous democracy, ushering in a new fundamentalist dark age."
+    publishedDateTime: 2021-04-15T23:19:00Z
+    webUrl: "https://www.cnn.com/2021/04/15/world/meanwhile-in-america-april-16-intl/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/15/world/meanwhile-in-america-april-16-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/world/meanwhile-in-america-april-16-intl/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
+      name: CNN
+      domain: cnn.com
     quality: 135
     images:
-      - url: "https://static.politico.com/fe/a1/543f87804c9b96e555228ae53c5a/gettyimages-1311496365-1.jpg"
-        width: 1159
-        height: 773
-        isCached: true
-  - title: "Biden moves to leverage corporate America's falling out with GOP"
-    excerpt: "The business community doesn’t dislike President Joe Biden’s proposal to hike corporate taxes to pay for a massive $2 trillion-plus infrastructure plan. They detest it. But there are some reasons to think corporate leaders are warming to Biden ..."
-    publishedDateTime: 2021-04-14T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/04/14/biden-corporate-america-gop-481338"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/14/biden-corporate-america-gop-481338"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/14/biden-corporate-america-gop-481338"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/40/e0/b52e32944a6bacf6d39b674ad197/gettyimages-1312349187-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414150627-05-biden-afghanistan-remarks-0414-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Frustrated military officials want Biden to make a decision on Afghanistan"
     excerpt: "WASHINGTON — President Joe Biden's lack of a final decision on the future status of U.S. troops in Afghanistan just three weeks before a deadline for their complete withdrawal has begun to frustrate some military officials, according to current and ..."
@@ -366,38 +329,6 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_11/3428929/201117-troops-afghanistan-mc-1450_7c348b33731f3cc4efcbc910e3f32707.JPG"
         width: 2500
         height: 1513
-        isCached: true
-  - title: "As Amazon and the White House face off, it's Jeff Bezos one, Joe Biden nil"
-    excerpt: "Jeff Bezos one, Joe Biden nil. Last week's anti-union vote by the majority of workers at an Amazon warehouse in Alabama was driven by factors both local and universal. But it indisputably demonstrated both the political might of an online behemoth that has profited handsomely during the pandemic,"
-    publishedDateTime: 2021-04-12T23:08:00Z
-    webUrl: "https://www.cnn.com/2021/04/12/world/meanwhile-in-america-april-12-intl/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/world/meanwhile-in-america-april-12-intl/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/world/meanwhile-in-america-april-12-intl/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 133
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210403142125-01-amazon-bessemer-alabama-0330-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to nominate first person of color to serve as permanent Census Bureau director"
-    excerpt: "Washington (CNN)President Joe Biden has picked statistician Robert Santos as the next Census Bureau director, the White House announced Tuesday, setting the stage for the first person of color to permanently head the agency if confirmed by the Senate."
-    publishedDateTime: 2021-04-13T21:17:00Z
-    webUrl: "https://www.cnn.com/2021/04/13/politics/biden-census-bureau-robert-santos/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/biden-census-bureau-robert-santos/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/biden-census-bureau-robert-santos/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 128
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413154724-rob-santos-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
   - title: "Live Updates: Biden Prepares to Take on Gun Violence in Wake of Back-to-Back Shootings"
     excerpt: "The president is expected to unveil executive orders on Thursday that will tackle so-called ghost guns and background checks. His office also released a plan to raise $2.5 trillion by overhauling the corporate tax code."
@@ -431,6 +362,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden sets Afghanistan pullout"
+    excerpt: "Act on the news with POLITICO Pro. — President Joe Biden is set to order all U.S. troops out of Afghanistan by Sept. 11, setting off a fierce debate over who will fill the vacuum. — The nomination of Colin Kahl should be delayed pending a review of new ..."
+    publishedDateTime: 2021-04-14T14:01:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/04/14/biden-sets-afghanistan-pullout-794657"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Clyburn doesn’t want Biden to be like FDR"
     excerpt: "“See I'm one who feels, contrary to some of our friends, that Joe Biden's legacy, if he's going to have credibility, must be much closer to Harry Truman than to Franklin Roosevelt,” Clyburn said. “I hear people talking about Joe Biden all the time ..."
     publishedDateTime: 2021-04-13T22:45:00Z
@@ -445,19 +390,19 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "Joe Biden's Modi operandi"
-    excerpt: "Narendra Modi must be so happy. Even though the Indian prime minister lost a powerful ally when voters booted Donald Trump — the kind of friend who attended a “Howdy Modi!” rally — Joe Biden is turning out to be a decent buddy,"
-    publishedDateTime: 2021-04-14T13:31:00Z
-    webUrl: "https://www.politico.com/newsletters/global-translations/2021/04/14/the-watches-and-the-time-492462"
+  - title: "Biden administration announces next steps in overhauling Title IX campus sexual assault rules"
+    excerpt: "During the presidential campaign, Joe Biden vowed to scrap the Trump administration's new regulation on campus sexual misconduct, which took effect in August under Title IX, a gender equity law. Former Education Secretary Betsy DeVos had said she had ..."
+    publishedDateTime: 2021-04-06T13:00:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/biden-administration-announces-next-steps-overhauling-title-ix-campus-sexual-n1263113"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
+      name: NBC News
+      domain: nbcnews.com
+    quality: 104
     images:
-      - url: "https://static.politico.com/da/bc/89ed482f4862b339c70a33cc0fb0/politico-global-translations-shared-graphic.jpg"
-        width: 1201
-        height: 629
+      - url: "https://media2.s-nbcnews.com/j/newscms/2021_14/3462412/210406-joe-biden-al-0857_2213a608bf9c0d57498f84c15f980937.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "XpfkK4EoHDdd55Aq7u/H7Ot5IF2apgWND8lY+IJlcyb55+1ayeNQAmt7sprpPW2wL+WmB8JfCqVHZiZlBocmHSIgR7aW2gqSgu/b87INKQJEqe8wwT2cZijyMEewc4+ZRmDkLc3zlzgPl+Xx/FCZU9GqPAtwdlG9n0kXDw0qC16yaIVSWZdIk/fFUjdr7WSp4fTQB7ShjTp3rtb/SYnqVg4kcDRKv3KPyTQEN+nEw+fzMqfiLBJtsF/ra9YNx/U2zBUjOzOv634dp4hbFdA7+voTysW9TRfo7qn2J/EEY1NTJMwFzf5UApH4PVsDXAJXOHaoWBqAkjgkkGI93nos2Nfq/Vi0GRxC347Q2Wqp/wk=;GPrusPS9b9J0ZsyA4NJvOQ=="

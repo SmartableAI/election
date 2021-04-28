@@ -32,177 +32,117 @@ images:
     isCached: true
 
 related:
-  - title: "Former Trump official Hogan Gidley to launch election integrity nonprofit"
-    excerpt: "EXCLUSIVE: Former Trump campaign national press secretary and former White House principal deputy press secretary Hogan Gidley is launching a nonprofit to advocate for the passage of \"constitutional election integrity laws\" in all states across the nation ahead of the 2022 midterms and beyond, Fox News"
-    publishedDateTime: 2021-04-09T14:20:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/neWokFLGmzQ/hogan-gidley-election-integrity-nonprofit"
-    ampWebUrl: "https://www.foxnews.com/politics/hogan-gidley-election-integrity-nonprofit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hogan-gidley-election-integrity-nonprofit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 189
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "National Archives will share Trump tweets censored on Twitter"
-    excerpt: "The National Archives and Records Administration confirmed Wednesday that it is working to make publicly available tweets from former President Trump that Twitter has taken down and pledged not to allow back on its platform."
-    publishedDateTime: 2021-04-07T21:33:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OcSh2ZvfVhE/national-archives-will-share-donald-trump-tweets-censored-on-twitter"
-    ampWebUrl: "https://www.foxnews.com/politics/national-archives-will-share-donald-trump-tweets-censored-on-twitter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/national-archives-will-share-donald-trump-tweets-censored-on-twitter.amp"
+  - title: "Matt Gaetz once sought preemptive pardon from Trump White House: source"
+    excerpt: "Florida Republican Rep. Matt Gaetz, who is facing a federal investigation over allegations of sexual misconduct, asked President Trump's White House for a preemptive pardon at the end of his term, Fox News has confirmed."
+    publishedDateTime: 2021-04-07T12:16:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2En4SAVf2Jk/matt-gaetz-preemptive-pardon-trump-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-preemptive-pardon-trump-white-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20334644546013-e1606925054815.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Group inspired by Trump's 1776 Commission seeks to combat 'anti-American indoctrination' in education"
-    excerpt: "A new activism group is launching to counter ideas like critical race theory and pursue the type of educational vision outlined by former President Trump at the end of his term."
-    publishedDateTime: 2021-04-08T17:30:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8kQrp85dPvI/1776-action-critical-race-theory"
-    ampWebUrl: "https://www.foxnews.com/politics/1776-action-critical-race-theory.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/1776-action-critical-race-theory.amp"
+  - title: "Trump's Save America PAC has $85M on hand ahead of 2022 midterms, potential 2024 run: source"
+    excerpt: "Former President Trump's super PAC has $85 million cash on hand ahead of the 2022 midterm elections and as the former president hints at a potential 2024 run, Fox News has learned."
+    publishedDateTime: 2021-04-08T15:40:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fK_9Hblb7z0/trump-save-america-pac-cash-on-hand-2022-midterms"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-save-america-pac-cash-on-hand-2022-midterms.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-save-america-pac-cash-on-hand-2022-midterms.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/School-Reopening-Massachusetts-In-Person-Learning-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Rep. Ashley Hinson seeks to revive Trump's deregulation executive orders"
-    excerpt: "EXCLUSIVE: Rep. Ashley Hinson, R-Iowa, introduced new legislation Tuesday to make permanent five of former President Donald Trump's executive orders that President Biden already repealed. "
-    publishedDateTime: 2021-04-13T19:44:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nQAr7hmtD3E/ashley-hinson-seeks-revive-trumps-deregulation-executive-orders"
+  - title: "Gaetz blasts CNN over story indicating Trump avoided Mar-a-Lago meeting"
+    excerpt: "Rep. Matt Gaetz, R.-Fla., who has vowed to fight allegations of sexual misconduct against him, took to Twitter late Sunday to challenge a CNN report that he was denied a meeting with former President Trump at Mar-a-Lago. \"This is a total lie. I am on a pre ..."
+    publishedDateTime: 2021-04-12T10:41:00Z
+    webUrl: "https://www.foxnews.com/media/matt-gaetz-cnn-trump-mar-a-lago"
+    ampWebUrl: "https://www.foxnews.com/media/matt-gaetz-cnn-trump-mar-a-lago.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/matt-gaetz-cnn-trump-mar-a-lago.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 154
+    quality: 135
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Ashley-Hinson.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/58d583e4-0b8a-40f3-86b7-9d8721afe99f/fe94cf91-e6c7-497a-b692-ac8f13fb054b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Former Trump HUD Appointee Fined for Hatch Act Violation"
-    excerpt: "A former Trump administration appointee to the U.S. Department of Housing and Urban Development admitted she violated the Hatch Act by using her position to produce a video about conditions in New York City public housing for the Republican National ..."
-    publishedDateTime: 2021-04-06T19:21:00Z
-    webUrl: "https://www.wsj.com/articles/former-trump-hud-appointee-fined-for-hatch-act-violation-11617740486"
-    ampWebUrl: "https://www.wsj.com/amp/articles/former-trump-hud-appointee-fined-for-hatch-act-violation-11617740486"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/former-trump-hud-appointee-fined-for-hatch-act-violation-11617740486"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-321171/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump Organization Hires Criminal Defense Lawyer"
-    excerpt: "Mr. Vance’s office has said it is investigating possible bank, tax or insurance fraud. Prosecutors have subpoenaed information from former President Donald Trump’s banks, lenders, an insurance broker and other parties, The Wall Street Journal has ..."
-    publishedDateTime: 2021-04-07T23:15:00Z
-    webUrl: "https://www.wsj.com/articles/trump-organization-hires-criminal-defense-lawyer-11617837781"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-hires-criminal-defense-lawyer-11617837781"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-hires-criminal-defense-lawyer-11617837781"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-322013/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Twitter won’t let National Archives preserve Trump tweets on platform"
-    excerpt: "Twitter will not allow the National Archives and Records Administration to create preserved versions of former President Donald Trump’s tweets accessible on its platform — in the first time ..."
-    publishedDateTime: 2021-04-08T13:49:00Z
-    webUrl: "https://nypost.com/2021/04/08/twitter-wont-let-agency-preserve-trump-tweets-on-platform/"
-    ampWebUrl: "https://nypost.com/2021/04/08/twitter-wont-let-agency-preserve-trump-tweets-on-platform/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/08/twitter-wont-let-agency-preserve-trump-tweets-on-platform/amp/"
+  - title: "Trump receives Senate GOP group’s first Champion for Freedom Award"
+    excerpt: "The National Republican Senatorial Committee has presented its first Champion for Freedom Award to former President Donald Trump, the organization announced Monday. As the group met in Palm ..."
+    publishedDateTime: 2021-04-12T16:12:00Z
+    webUrl: "https://nypost.com/2021/04/12/trump-receives-award-fromgop-national-republican-senatorial-committee/"
+    ampWebUrl: "https://nypost.com/2021/04/12/trump-receives-award-fromgop-national-republican-senatorial-committee/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/12/trump-receives-award-fromgop-national-republican-senatorial-committee/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-tweets-73.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/nrsc-award-trump-03.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Nikki Haley says she won’t run for president in 2024 if Trump does"
-    excerpt: "Nikki Haley, former US Ambassador to the United Nations and Governor of South Carolina, will not launch a White House bid if former President Trump chooses to run. Haley made the revelation while"
-    publishedDateTime: 2021-04-13T16:00:00Z
-    webUrl: "https://nypost.com/2021/04/13/nikki-haley-says-she-wont-run-for-president-in-2024-if-trump-does/"
-    ampWebUrl: "https://nypost.com/2021/04/13/nikki-haley-says-she-wont-run-for-president-in-2024-if-trump-does/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/13/nikki-haley-says-she-wont-run-for-president-in-2024-if-trump-does/amp/"
+  - title: "Gaetz denies CNN report on Trump refusing to meet him, demands retraction"
+    excerpt: "Rep. Matt Gaetz, who faces allegations of sexual misconduct, pushed back at CNN for claiming that former President Donald Trump refused to meet with him — calling the report a lie and"
+    publishedDateTime: 2021-04-12T13:29:00Z
+    webUrl: "https://nypost.com/2021/04/12/matt-gaetz-denies-cnn-report-about-trump-refusing-to-meet-him/"
+    ampWebUrl: "https://nypost.com/2021/04/12/matt-gaetz-denies-cnn-report-about-trump-refusing-to-meet-him/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/12/matt-gaetz-denies-cnn-report-about-trump-refusing-to-meet-him/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 135
+    quality: 134
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/haley-2024-03.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/gaetz-trump.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Oath Keeper Becomes First to Plead Guilty in Pro-Trump Capitol Riot"
-    excerpt: "Jon Schaffer of Indiana admits to carrying bear spray and obstructing official proceedings."
-    publishedDateTime: 2021-04-16T19:46:00Z
-    webUrl: "https://www.wsj.com/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401"
-    ampWebUrl: "https://www.wsj.com/amp/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401"
+  - title: "Trump hints at White House run in 2024, says supporters should have ‘hope’"
+    excerpt: "Former President Donald Trump hinted that he may run for the White House in 2024, saying his supporters should have “hope.” Trump was interviewed by Lara Trump, his daughter in law,"
+    publishedDateTime: 2021-03-31T16:18:00Z
+    webUrl: "https://nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/"
+    ampWebUrl: "https://nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/trump-hints-that-he-may-run-for-white-house-in-2024/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-326217/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump Organization Executive’s Former In-Law Hands Over Documents in Probe"
-    excerpt: "A Trump Organization executive’s former daughter-in-law turned over financial documents Thursday that Manhattan prosecutors had subpoenaed for their investigation into former President Trump and his company."
-    publishedDateTime: 2021-04-09T00:01:00Z
-    webUrl: "https://www.wsj.com/articles/trump-organization-executivesformer-in-law-handsover-documents-in-probe-11617912082"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-executivesformer-in-law-handsover-documents-in-probe-11617912082"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-executivesformer-in-law-handsover-documents-in-probe-11617912082"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: New York Post
+      domain: nypost.com
     quality: 133
     images:
-      - url: "https://images.wsj.net/im-322013/social"
-        width: 1280
-        height: 640
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-running-23.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Rep. Ashley Hinson seeks to revive Trump's deregulation executive orders"
-    excerpt: "EXCLUSIVE: Rep. Ashley Hinson, R-Iowa, introduced new legislation Tuesday to make permanent five of former President Donald Trump's executive orders that President Biden already repealed. The freshman lawmaker authored the \"Red Tape Reduction Act\" to ..."
-    publishedDateTime: 2021-04-13T19:44:00Z
-    webUrl: "https://www.foxnews.com/politics/ashley-hinson-seeks-revive-trumps-deregulation-executive-orders"
+  - title: "Trump rips CNN over Gaetz report, says they ‘probably made the whole thing up’"
+    excerpt: "Former President Donald Trump blasted CNN for its report that claimed he refused to meet with GOP Rep. Matt Gaetz, who is facing allegations of sexual misconduct, saying the cable news network"
+    publishedDateTime: 2021-04-13T15:03:00Z
+    webUrl: "https://nypost.com/2021/04/13/trump-blasts-cnn-over-report-on-matt-gaetz-meeting/"
+    ampWebUrl: "https://nypost.com/2021/04/13/trump-blasts-cnn-over-report-on-matt-gaetz-meeting/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/13/trump-blasts-cnn-over-report-on-matt-gaetz-meeting/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 114
+      name: New York Post
+      domain: nypost.com
+    quality: 131
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Ashley-Hinson.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/cnn-trump-gaetz-hp2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "dZAs0LkquPkJ61lisuOQeLq0d+SN36NJ5qnfX2m1LB89Sm4uQQA451tFf/bgs7YykEAJ1uwS0gKQW4+uXhx283xgpKMm4iZlvldVVeTOIGIKoqI9StgB7me3aGUsIrHu0rb2J3TkyPZTC2B9kagwE5REyGPjEyjf5fjjvr2+wX2sm11NpuVUjyPUarqNAF4zk2hopLvSM1RV7AaLXWkMUnhI9hp8seKKbyeT/X9EphI7Dl/LjvOOV+ogVYrCaDS05cBCeX0WjR0D4gfQ07zlup6Jm3Vy+/xoBuPcgBQDN5Cm8P7T3OCP0vr54COkSfHh5aks8WH7TOHYacUsNrO4NtuHlX5zVey6XVPoewuuBbieJmXDqfXtNSsvkBsDsNwbK6fXF9ZX7Mtno6lXY6hUzb/VhdSJCOvpQzF+PdiC/+rEIega808RJK4O7lH8uT7GxPZ7Ukm2H0/XxhqQetvupIbb+U5/ANEerhL/ueKTjGPf6GmO963xIgy3+4agopDKm8tiVou5kX/VxXnxgtS/og==;1Fv67SpMTZqOQPpWHyFhgw=="

@@ -29,113 +29,112 @@ images:
     isCached: true
 
 related:
-  - title: "Biden sees `win' for US in electric vehicle battery deal"
-    excerpt: "President Joe Biden calls it “a win for American workers and the American auto industry.\" WASHINGTON -- Two big South Korean electric vehicle battery makers have settled a long-running trade ..."
-    publishedDateTime: 2021-04-11T12:36:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-sees-win-us-electric-vehicle-battery-deal-77003985"
+  - title: "Texas Gov. Greg Abbott Blames Biden for Cartel 'Terrorism,' Cites Crime From Trump Era"
+    excerpt: "Abbott has also failed to mention that Trump publicly vowed to add the drug cartels to the foreign terror list but ultimately backed down."
+    publishedDateTime: 2021-04-17T21:30:00Z
+    webUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452"
+    ampWebUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_fad24c3069b54782a4557fd75b0981dc_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://d.newsweek.com/en/full/1773480/greg-abbott.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Biden sees `win’ for US in electric vehicle battery deal"
-    excerpt: "Two big South Korean electric vehicle battery makers said they’ve settled a long-running trade dispute that will allow one company to move ahead with plans to manufacture batteries in Georgia"
-    publishedDateTime: 2021-04-12T04:32:00Z
-    webUrl: "https://www.washingtonpost.com/business/technology/ap-source-electric-vehicle-battery-firms-settle-trade-spat/2021/04/10/0d2b3bca-9a71-11eb-8f0a-3384cf4fb399_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/technology/ap-source-electric-vehicle-battery-firms-settle-trade-spat/2021/04/10/0d2b3bca-9a71-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/ap-source-electric-vehicle-battery-firms-settle-trade-spat/2021/04/10/0d2b3bca-9a71-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+  - title: "A fight over Trump's SALT tax cap is threatening to derail Biden's $2 trillion infrastructure plan"
+    excerpt: "A bipartisan group of lawmakers is seeking to reverse a 2017 tax cap introduced by former President Donald Trump."
+    publishedDateTime: 2021-04-18T11:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-salt-tax-fight-threatens-to-hold-biden-infrastructure-plan-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/trump-salt-tax-fight-threatens-to-hold-biden-infrastructure-plan-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-salt-tax-fight-threatens-to-hold-biden-infrastructure-plan-2021-4?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 126
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://i.insider.com/5fb66dce32f2170011f6ff9f?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
         isCached: true
-  - title: "Biden taps ex-Obama official as Interior Department deputy"
-    excerpt: "The White House is naming a former Obama administration official to be deputy secretary at the Interior Department after dropping plans for a more liberal nominee who faced key Senate opposition"
-    publishedDateTime: 2021-04-14T20:43:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-taps-former-obama-official-as-deputy-at-interior-dept/2021/04/14/466d4aae-9d4b-11eb-b2f5-7d2f0182750d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-taps-former-obama-official-as-deputy-at-interior-dept/2021/04/14/466d4aae-9d4b-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-taps-former-obama-official-as-deputy-at-interior-dept/2021/04/14/466d4aae-9d4b-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+  - title: "Joe Biden’s southern border challenge: reversing Trumpism"
+    excerpt: "The 46th US president took office promising a more welcoming immigration policy. Now Republicans are calling a new wave of migrants at the southern border a ‘crisis’, but is that really the case?"
+    publishedDateTime: 2021-04-18T19:27:00Z
+    webUrl: "https://www.theguardian.com/australia-news/audio/2021/apr/19/joe-bidens-southern-border-challenge-reversing-trumpism"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "After criticism, Biden says he will raise U.S. cap on refugee admissions"
-    excerpt: "President Joe Biden said on Saturday he will raise the cap on the number of refugees admitted this year to the United States, a day after he drew criticism from Democratic lawmakers for agreeing to keep the historically low figure in place."
-    publishedDateTime: 2021-04-18T12:26:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-refugees/biden-says-he-will-raise-us-cap-on-refugee-admissions-idUSKBN2C40IP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C40IP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C40IP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210417&t=2&i=1558889840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3G0AT"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden to hold second meeting with bipartisan lawmakers on infrastructure"
-    excerpt: "President Biden is scheduled to meet Monday with a bipartisan group of lawmakers, all of whom are former governors or mayors, to discuss his $2.25 trillion infrastructure proposal."
-    publishedDateTime: 2021-04-19T02:17:00Z
-    webUrl: "https://thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure"
-    ampWebUrl: "https://thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 124
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe3_04152021getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden was tough on drugs for decades. Now he faces challenges in fighting money laundering"
-    excerpt: "The Biden administration has a long road ahead to tackle the hundreds of billions of dollars in narcotics-related profits laundered in the U.S."
-    publishedDateTime: 2021-04-18T09:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/18/president-joe-biden-faces-challenges-fighting-drug-related-financial-crime/7212189002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7212189002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7212189002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/16/USAT/63b2ea62-aa0c-433c-8655-e43e31290498-1410384318000-AP_Fashion_District_Raid.1.jpg?auto=webp&crop=3263,1836,x0,y229&format=pjpg&width=1200"
+      - url: "https://i.guim.co.uk/img/media/d991b123118a3edd78ba1afee29792b8b0284d66/0_125_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d286a196c46f2da3f9781436a2291867"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "After outcry, Biden plans to lift refugee cap in May"
-    excerpt: "President Joe Biden plans to lift his predecessor’s historically low cap on refugees by next month, after initially moving only to expand the eligibility criteria for resettlements and getting swift blowback from allies in return."
-    publishedDateTime: 2021-04-18T17:38:00Z
-    webUrl: "https://www.myrtlebeachonline.com/news/politics-government/national-politics/article250746064.html"
-    ampWebUrl: "https://amp.myrtlebeachonline.com/news/politics-government/national-politics/article250746064.html"
-    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/politics-government/national-politics/article250746064.html"
+  - title: "Trump calls for Biden to reinstate a foreign travel ban to 'keep our country safe from radical Islamic terrorism'"
+    excerpt: "Trump wants his travel ban, which Biden revoked on his first day in office, to be reinstated by the current administration."
+    publishedDateTime: 2021-04-20T05:16:00Z
+    webUrl: "https://www.businessinsider.com/trump-calls-for-biden-to-reinstate-foreign-travel-ban-terrorism-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/trump-calls-for-biden-to-reinstate-foreign-travel-ban-terrorism-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-calls-for-biden-to-reinstate-foreign-travel-ban-terrorism-2021-4?amp"
     type: article
     provider:
-      name: The Sun News
-      domain: myrtlebeachonline.com
-    quality: 55
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/605df8726746fb0018a73e7a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Greg Abbott Mocks Biden on Guns, Says Shooting Victim's Family Demanded He Uphold 2nd Amendment"
+    excerpt: "President Joe Biden on Thursday condemned the country's \"gun violence epidemic\" and laid out a proposal for firearm restrictions—a move which prompted Texas Republicans to promote their own \"2nd Amendment sanctuary state\" rebuke. Abbott recently joined ..."
+    publishedDateTime: 2021-04-11T16:38:00Z
+    webUrl: "https://www.newsweek.com/greg-abbott-mocks-biden-guns-says-shooting-victims-family-demanded-he-uphold-2nd-amendment-1582715"
+    ampWebUrl: "https://www.newsweek.com/greg-abbott-mocks-biden-guns-says-shooting-victims-family-demanded-he-uphold-2nd-amendment-1582715?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/greg-abbott-mocks-biden-guns-says-shooting-victims-family-demanded-he-uphold-2nd-amendment-1582715?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
+    images:
+      - url: "https://d.newsweek.com/en/full/1751974/greg-abbott-speaking.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "What's Next For NASA? Biden's Nominee Recommits To Trump's Moon Landing Timeline"
+    excerpt: "President Joe Biden’s pick to lead NASA recommitted to Donald Trump’s ambitious moon-landing timeline at his confirmation hearings. Former Sen. Bill Nelson, D-Fla., told Congress on Wednesday that he’s still committed to putting the U."
+    publishedDateTime: 2021-04-21T20:13:00Z
+    webUrl: "https://www.ibtimes.com/whats-next-nasa-bidens-nominee-recommits-trumps-moon-landing-timeline-3185346"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 65
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/19/bill-nelson-d-fl-speaks-during-a-press.jpg"
+        width: 1024
+        height: 685
+        isCached: true
+  - title: "Biden Plays Golf For First Time As President, Months After Trump Played His First Round As POTUS"
+    excerpt: "In 2014, while he was vice-president, Biden joked that running for president could potentially hurt his golf game. “If you want to keep your handicap in golf don’t run for pre"
+    publishedDateTime: 2021-04-18T17:14:00Z
+    webUrl: "https://ibtimes.com/biden-plays-golf-first-time-president-months-after-trump-played-his-first-round-potus-3183006"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 57
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/17/us-president-joe-biden-speaking-at-the-white.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "ZRCN4Mg3QVZOWX/NNeNkYN/Em5Fiv8nBqR6GZd6ZqGoNPjxq/aCsMRHbT9A14/fPaau4WRfU2j3rGlGQ3XdtsiZA+tXiuy+tRZoYcGVuPwzMvh1uir41TZchcXyu9bS61jKcz48fmLyo1DGyHyK5unfIThNSja+UM/1j4sS9TOpD4a7ZmuT3e+nZZsCAyTwlLGeESqjyy0lsxErqFyIKKwVPTnO8MQnACzNHytpFYk2WzMy6XxoqkfmpDczz53PBQZweDaAR4MCkyOjE188+rccmC90533uvxbF9R5y20oBIaOpWdUBP/LN26ZSjE/6/k8g0mTp/Pc1H6OdvnLQ96/qVeLgTRFRB/f5hMCokzZ1YlSSyXRaTQnjNXw02mMJGI283eg78ebVFuuWk1yEyc5UrZiP+xqMFyhibMxKQWoZpek3irVSoBECPWjhdXfSSTKcT2ELyqA5NtUxket0GYtTFfks9CBA6gOLolsC7G5PUFC4lqVOUvmV4HpUUfCTMQ93iB95jeXNzELINGzLiXQ==;cBKp016eMR6rf+3FewkP2w=="
 ---

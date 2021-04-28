@@ -95,22 +95,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden \"doesn't have all the time in the world\" to act on gun violence, gun control advocate says"
-    excerpt: "A prominent gun control advocacy group is urging President Joe Biden to act quickly on his proposed firearms legislation, after a week that saw 345 people killed by gun violence in the United States. \"He doesn't have all the time in the world. He needs to ..."
-    publishedDateTime: 2021-04-09T18:26:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-gun-violence-control-brady-bill-kris-brown/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-gun-violence-control-brady-bill-kris-brown/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-gun-violence-control-brady-bill-kris-brown/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 112
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/08/e2a6703b-facf-4c40-a52d-df971cedbd15/thumbnail/1200x630/9f88738b40ac84f7243e34d3cb90492a/cbsn-fusion-pres-biden-unveils-executive-action-on-gun-reform-thumbnail-688118-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Biden: US shootings 'a national embarrassment'"
     excerpt: "President Joe Biden is calling for action as the nation struggles with yet another mass shooting. While gun control appears to have taken a back seat, Biden on Friday insisted that wasn’t the case, saying “I’ve never not prioritized this."
     publishedDateTime: 2021-04-17T01:04:00Z
@@ -124,47 +108,6 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4883882c-0e98-48ba-939c-48d309dfff89_poster.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Fact Check-Joe Biden saying veterans ‘get enough handouts’ comes from satire site"
-    excerpt: "Posts containing a fabricated quote attributed to President Joe Biden about veterans originated from a satire article. Users on social media, however, are taking the claim seriously. A Google search of the text brings up an article here by the satirical website “America’s Last Line of Defense” with the same headline."
-    publishedDateTime: 2021-04-14T15:42:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-biden-veterans/fact-check-joe-biden-saying-veterans-get-enough-handouts-comes-from-satire-site-idUSL1N2M7211"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2M7211"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2M7211"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
-  - title: "Why Is Joe Biden Blocking Joe Biden from Raising the Refugee Cap?"
-    excerpt: "Jen Psaki had an almost comical inability to explain why Biden hadn’t signed an executive order he promised more than two months ago."
-    publishedDateTime: 2021-04-16T16:19:00Z
-    webUrl: "https://www.nationalreview.com/corner/why-is-joe-biden-blocking-joe-biden-from-raising-the-refugee-cap/"
-    ampWebUrl: "https://www.nationalreview.com/corner/why-is-joe-biden-blocking-joe-biden-from-raising-the-refugee-cap/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/why-is-joe-biden-blocking-joe-biden-from-raising-the-refugee-cap/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 75
-    images:
-      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2021/04/President-Joe-Biden-2.jpg?fit=1200%2C700&ssl=1"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Prince Philip: US President Joe Biden describes him as 'a heck of a guy'"
-    excerpt: "US President Joe Biden said the entire administration sent their condolences to the Queen on the loss of Prince Philip, saying he was a \"heck of a guy\". He paid tribute to the Duke of Edinburgh's \"lifetime of service\", his active duty during World War Two ..."
-    publishedDateTime: 2021-04-09T20:39:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/uk-56698348"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 54
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09d7vvs.jpg"
-        width: 400
-        height: 225
         isCached: true
 
 secured: "ReNM9bW94Y5o7YKOA230clxMD8vA4cHAfINifK3q2QMiuwogodJ3aKd+3wlNtYBZRoxrNzl6F2Kxouf8hNad1mujzDm2QB/5HUbZhnkOPxVGDypRMerwwwK9sCFG28/NiWSyBru8QGu71RR8Y4/4wVXTRjk79/OaEIXtZWpEZY1+K3iGdi2LSr+5OMhXDJzs8I/RDNsuG61Tch44ob11iFVwGEJKwrviO0Mrup5SXwAV7vWu0l+81W4aV1ZdfLyiZGeEXyAxyk17QIO4re40zrNrlo6Tu7dc8FgflMOfesKpuPTwoHkI4M1jHDvYkWo7/+b1Yp6Vp+EKvZoIVF/FKEDCkwLgrISOwuyrz/No36qpgvWfmbHW2lMfrNdvlRCxBHcrH8eqjdzNLbAqkU6iDV06XmEuZQk2hB+5trk5JQ6kwNKdeXkZ+E5e/T/KssRCoCG6O8CA9nO6w2HCWEPOeJyhJmny8z75iCP7bPi0oBGgSt8m/iKxi1ie4urSKm1CGyt0heb9jrCrU58XxPiUiA==;F80R4DIDjT1dDelpzYZn5g=="

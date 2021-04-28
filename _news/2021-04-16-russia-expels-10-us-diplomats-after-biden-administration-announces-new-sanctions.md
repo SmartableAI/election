@@ -31,100 +31,173 @@ images:
     isCached: true
 
 related:
-  - title: "Trump National Security Advisor commends Biden Administration: 'No more important alliance' than Japan"
-    excerpt: "Former National Security Advisor under President Trump, Robert O'Brien, discusses Biden's response to tension with China and Russia."
-    publishedDateTime: 2021-04-16T20:45:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qsH0wm3_xZc/no-more-important-alliance-than-japan-amid-tension-china"
-    ampWebUrl: "https://www.foxnews.com/politics/no-more-important-alliance-than-japan-amid-tension-china.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-more-important-alliance-than-japan-amid-tension-china.amp"
+  - title: "Biden to address joint session of Congress on April 28"
+    excerpt: "If Biden accepts the invitation, it would mark the first time he has addressed Congress in person since becoming president."
+    publishedDateTime: 2021-04-14T00:21:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9tajvtn_3qk/pelosi-invites-biden-to-address-joint-congress-session-on-april-28"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-invites-biden-to-address-joint-congress-session-on-april-28.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-invites-biden-to-address-joint-congress-session-on-april-28.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23634e94-94e7-4bf7-9e0c-fe06767c9820/a40574e7-a98b-4e06-b72a-eedcc3fe9dc2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rep. Mace hits Biden for giving first joint address to an 'empty room'"
+    excerpt: "President Biden has accepted House Speaker Nancy Pelosi's invitation to deliver his first joint session of Congress address on Wednesday, April 28."
+    publishedDateTime: 2021-04-15T17:06:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UeRSwox8GUU/rep-mace-biden-state-of-the-union-address-empty-room"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-mace-biden-state-of-the-union-address-empty-room.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-mace-biden-state-of-the-union-address-empty-room.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd344368-8532-4513-b2d1-a2efb623f115/dfd26a02-8311-4908-944a-cb8c76d596ef/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "China enraged as Biden sends unofficial delegates to Taiwan"
+    excerpt: "Former Sen. Chris Dodd and two former U.S. deputy secretaries of state are visiting Taiwan at the request of President Joe Biden to celebrate the 42nd anniversary of the Taiwan Relations Act, which Biden voted for when he was a senator."
+    publishedDateTime: 2021-04-16T00:21:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zeQqrzFB3v8/china-enraged-biden-sends-unofficial-delegates-taiwan"
+    ampWebUrl: "https://www.foxnews.com/politics/china-enraged-biden-sends-unofficial-delegates-taiwan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/china-enraged-biden-sends-unofficial-delegates-taiwan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21104375855660.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "GOP lawmakers ask Pelosi to reschedule Biden's first speech to Congress"
+    excerpt: "A group of GOP lawmakers called Monday for House Speaker Nancy Pelosi to reschedule President Biden’s first speech to Congress later this month to a date when the House is in session."
+    publishedDateTime: 2021-04-19T20:26:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JOJyh7M26fc/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6a4c698-2716-47ac-a29c-fe49c8a2549b/b588a97f-04a0-4158-a1ee-919609e7c5fd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "CA man whose brother was killed by illegal immigrant sends message to Biden"
+    excerpt: "A man whose brother was killed by an illegal alien slammed the Biden administration for refusing to admit that there is a crisis at the southern border and said the situation is getting worse by the minute."
+    publishedDateTime: 2021-04-09T12:29:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dGSc4lpIRH4/california-man-brother-killed-illegal-immigrant-biden-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/california-man-brother-killed-illegal-immigrant-biden-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-man-brother-killed-illegal-immigrant-biden-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b0330951-a90f-499a-abe2-ecd4bb10c804/c6e4fc37-0ba2-4fe1-b955-c29f20bbde5d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rep. Liz Cheney blasts Biden over 'reckless decision' to pull out of Afghanistan"
+    excerpt: "House Republican Conference Chair Liz Cheney joined \"Your World\" Wednesday to react to President Biden's announcement that U.S. forces would begin their final withdrawal from Afghanistan May 1."
+    publishedDateTime: 2021-04-14T22:30:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c-6VCYtlk-k/liz-cheney-biden-afghanistan-pullout-reckless-decision"
+    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-biden-afghanistan-pullout-reckless-decision.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-biden-afghanistan-pullout-reckless-decision.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden declares Russia threat 'national emergency,' lobs sanctions; 10 diplomats booted over election meddling"
-    excerpt: "President Biden on Thursday signed an executive order declaring a “national emergency” over the threat from Russia, as his administration slapped new sanctions on the country."
-    publishedDateTime: 2021-04-15T12:44:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WidxUv4PyHA/biden-russia-threat-national-emergency-sanctions"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-russia-threat-national-emergency-sanctions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-russia-threat-national-emergency-sanctions.amp"
+  - title: "Biden admin to brief full Senate on decision to withdraw US troops from Afghanistan"
+    excerpt: "The Biden Administration is expected to deliver a briefing to the full Senate next week on its decision to withdraw all U.S. troops from Afghanistan by September 11, sources told Fox News. "
+    publishedDateTime: 2021-04-15T23:32:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxWgd-ucrAw/biden-admin-to-brief-full-senate-on-decision-to-withdraw-us-troops-from-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-to-brief-full-senate-on-decision-to-withdraw-us-troops-from-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-to-brief-full-senate-on-decision-to-withdraw-us-troops-from-afghanistan.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden administration orders ICE, CBP to stop using terms 'illegal alien' and 'assimilation'"
-    excerpt: "President Biden's administration on Monday ordered departments to change the terms used to describe immigration matters, including how to refer to those who enter the country illegally, Fox News has confirmed."
-    publishedDateTime: 2021-04-19T14:55:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sj9lcNYNMYI/ice-cbp-to-stop-using-terms-illegal-alien-and-assimilation"
-    ampWebUrl: "https://www.foxnews.com/politics/ice-cbp-to-stop-using-terms-illegal-alien-and-assimilation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ice-cbp-to-stop-using-terms-illegal-alien-and-assimilation.amp"
+  - title: "Lindsey Graham calls Biden’s weakness towards Russia a ‘death sentence’: ‘Nobody’ is afraid of Joe Biden"
+    excerpt: "President Biden is bringing a weaker demeanor to the forefront of the nation and it's apparent in his relationship with Russia, Sen. Lindsey Graham, R-S.C., argued Monday on \"Fox News Primetime\""
+    publishedDateTime: 2021-04-20T02:06:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nl0lRh4N43A/lindsey-graham-calls-bidens-weakness-towards-russia-a-death-sentence-nobody-is-afraid-of-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-calls-bidens-weakness-towards-russia-a-death-sentence-nobody-is-afraid-of-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-calls-bidens-weakness-towards-russia-a-death-sentence-nobody-is-afraid-of-joe-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 158
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Arizona AG sues Biden administration over immigration policies that harm the environment"
-    excerpt: "Arizona Attorney General Mark Brnovich is suing the Biden administration over its immigration policies, citing questions over whether recent decisions comply with environmental regulations"
-    publishedDateTime: 2021-04-12T23:55:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JC6hDzqg5oo/arizona-ag-lawsuit-biden-immigration"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 146
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Arizona-border-immigration2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump takes jab at ‘lunacy’ of Johnson & Johnson vaccination pause"
-    excerpt: "Former President Donald Trump took aim at the Biden administration on Friday evening for allowing for a pause in the Johnson & Johnson coronavirus vaccine, accusing them of allowing “insanely"
-    publishedDateTime: 2021-04-17T00:41:00Z
-    webUrl: "https://nypost.com/2021/04/16/trump-takes-jab-at-bidens-lunacy-of-jj-vaccination-pause/"
-    ampWebUrl: "https://nypost.com/2021/04/16/trump-takes-jab-at-bidens-lunacy-of-jj-vaccination-pause/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/16/trump-takes-jab-at-bidens-lunacy-of-jj-vaccination-pause/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-calls-out-biden-jandj-pause-index.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Alyssa Milano, Chelsea Handler call on Joe Biden to take action on federal slavery reparations"
-    excerpt: "Alyssa Milano and Chelsea Handler lent their voices to a call for President Joe Biden to implement federal slavery reparations for the Black community."
-    publishedDateTime: 2021-04-15T16:22:00Z
-    webUrl: "https://www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-call-joe-biden-take-action-slavery-reparations"
-    ampWebUrl: "https://www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-call-joe-biden-take-action-slavery-reparations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-call-joe-biden-take-action-slavery-reparations.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Milano-Handler-Getty.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21109644329141.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
+  - title: "Joe Concha: Biden's Supreme Court commission outcome is a likely one"
+    excerpt: "Fox News contributor and The Hill opinion columnist Joe Concha argued on 'Fox & Friends' Sunday that President Biden's Supreme Court commission is \"all window dressing,\" saying members of the commission will likely come to a conclusion that sides with Biden."
+    publishedDateTime: 2021-04-11T16:40:00Z
+    webUrl: "https://www.foxnews.com/politics/joe-concha-supreme-court-commission"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-concha-supreme-court-commission.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-concha-supreme-court-commission.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52572f02-94b6-45ee-8fe4-0071fa5b10ba/81856677-392f-4851-8704-576ba111c3fa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden To Congress On Infrastructure: \"I'm Prepared To Negotiate\""
+    excerpt: "President Joe Biden said he is “prepared to negotiate” the size of his infrastructure plan and how to pay for it during a meeting with a bipartisan group of lawmakers on Monday. \"I’m prepared to negotiate as to the extent of my infrastructure project ..."
+    publishedDateTime: 2021-04-13T12:52:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/13/biden_to_congress_on_infrastructure_im_prepared_to_negotiate.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/540323.jpg"
+        width: 4871
+        height: 3248
+        isCached: true
+  - title: "Biden Making a Major Mistake on Afghanistan"
+    excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
+    publishedDateTime: 2021-04-14T11:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/14/biden_making_a_major_mistake_on_afghanistan_540470.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "pVk2PxtZMWD2zFB+W/adDlYIDP5DNJ4bCixPFHEfL1Hp892u6BXFBun9MiXO+2VSrNnIeU2i72YCuLAvBBgN6HlF+q1BxGUMQtBnXtu+ubXfD3ELinqH5Lv77TJrNMGQoSQZWfDVOdu3yQGR/dz7wgs7v0zfHqwQOhe3muhJGiDurrc7zQHHx9u+M9TOF53zhbRWHqnck2bzyIZwdwDuK2KivAuAmVXpkxMDvkHUc9W6v+x84ZMwBI3ybdAGCjDIo58C2znjM9H2p6fsB3cp2mB+6DjiVs6Jg7YBM4y7gU5yxFjVVNyz/UqCj4fAYTlLVDqQIBg9eWJtAeQwkB6znRXCmFgxaWGR4pU+L02v4WM=;il7BgeDahBH8q1IVEkaTmA=="
 ---

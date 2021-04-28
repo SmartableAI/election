@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326?amp=1"
 type: article
 quality: 125
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ivanka Trump tells Sen. Marco Rubio she will not run for his Senate seat in 2022"
-    excerpt: "Ivanka Trump will not be running for Sen. Marco Rubio’s U.S. Senate seat in 2022.The ex-senior White House adviser spoke with Rubio several weeks ago."
-    publishedDateTime: 2021-02-18T19:35:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 120
-    images:
-      - url: "https://www.chicagotribune.com/resizer/t_d161UjJTSv1JSV136IImAvrtU=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A3GTOAJ4C5SSVFF5ZTJXNQAYGU.aspx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Anti-Trump Republican Michael Wood Endorsed for House Seat by Texas' Biggest Newspaper"
     excerpt: "Michael Wood, an anti–Donald Trump Republican who is running in a special election in Texas, was just endorsed by the state's biggest newspaper. The Dallas Morning News Monday recommended Wood to represent the 6th Congressional District. The endorsement ..."
     publishedDateTime: 2021-04-05T16:06:00Z

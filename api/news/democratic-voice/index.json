@@ -2,6 +2,232 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-28-new-york-post-temporarily-deletes-then-edits-false-story-that-claimed-harris-book-was-given-out-in-migrant-welcome-kits.md",
+      "title": "New York Post temporarily deletes, then edits false story that claimed Harris' book was given out in migrant 'welcome kits'",
+      "excerpt": "The New York Post temporarily deleted, and then edited and republished, a debunked article that falsely claimed that copies of Vice President Kamala Harris' book were being included in \"welcome kits\" given to migrant children at a shelter in Long Beach, California.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NEHePeGr9Go/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NEHePeGr9Go/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210427164345-01-kamala-harris-file-0422-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/27/politics/new-york-post-fact-check-kamala-harris-book-migrants/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/new-york-post-fact-check-kamala-harris-book-migrants/index.html",
+      "publishedDateTime": "2021-04-27T17:03:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-biden-administration-announces-new-operation-to-crack-down-on-human-smuggling.md",
+      "title": "Biden administration announces new operation to crack down on human smuggling",
+      "excerpt": "The Biden administration announced Tuesday an operation focused on disrupting transnational criminal organizations, including human smugglers who have facilitated the illegal crossings of migrants at the US-Mexico border.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3VNw4AkoF3A/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3VNw4AkoF3A/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 232,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210301130048-01-mayorkas-wh-briefing-0301-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/27/politics/human-smuggling-border/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/human-smuggling-border/index.html",
+      "publishedDateTime": "2021-04-27T10:00:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-27-analysis-the-trump-republican-circus-gears-up-for-another-tour.md",
+      "title": "Analysis: The Trump Republican circus gears up for another tour",
+      "excerpt": "Donald Trump schooled his protégés well in his politics of down-in-the-muck misinformation.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V5wyQnnrMx4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V5wyQnnrMx4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210420081143-01-kevin-mccarthy-0415-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald-trump/index.html",
+      "publishedDateTime": "2021-04-27T03:28:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-25-kamala-harris-cements-her-place-in-bidens-inner-circle-during-a-consequential-week.md",
+      "title": "Kamala Harris cements her place in Biden's inner circle during a consequential week",
+      "excerpt": "Vice President Kamala Harris was huddled with other White House officials in President Joe Biden's private dining room last week when the room let out a \"collective exhale.\" A Minnesota jury had found Derek Chauvin guilty of murdering George Floyd.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t-94g7Epw80/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t-94g7Epw80/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 654,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210420191943-03-biden-harris-chauvin-verdict-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/25/politics/kamala-harris-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/25/politics/kamala-harris-cnntv/index.html",
+      "publishedDateTime": "2021-04-25T06:41:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-04-24-pop-is-calling-kids-and-grandkids-on-the-line-with-president-joe-biden.md",
       "title": "Pop is calling: Kids and grandkids on the line with President Joe Biden",
       "excerpt": "Joe Biden says he has a strict rule about his phone: No matter what's happening, he always answers a call from one of his grandchildren.\n    \n",
@@ -14,7 +240,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -58,23 +284,23 @@
       ]
     },
     {
-      "path": "_news/2021-04-23-fulton-county-da-has-grown-frustrated-with-georgia-secretary-of-states-office-cooperation-in-trump-probe-source-says.md",
-      "title": "Fulton County DA has grown frustrated with Georgia Secretary of State's office cooperation in Trump probe, source says",
-      "excerpt": "Investigators in Fulton County District Attorney Fani Willis' office have grown frustrated with the level of cooperation they are receiving from staffers in the Georgia Secretary of State's office regarding a probe into former President Donald Trump's efforts to influence the 2020 election, according",
+      "path": "_news/2021-04-24-john-kerry-predicts-that-bidens-climate-focused-jobs-plan-will-attract-republican-support.md",
+      "title": "John Kerry predicts that Biden's climate-focused jobs plan will attract Republican support",
+      "excerpt": "John Kerry, the special presidential envoy for climate, predicted during a CNN Climate Town Hall aired Friday that the Biden administration's efforts to combat climate change while creating jobs will garner Republican support.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r7Rp_QUafiA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r7Rp_QUafiA/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zBi2yPVFzk8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zBi2yPVFzk8/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 151,
+      "heat": 205,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210423171013-fani-willis-file-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210423180814-cnn-climate-town-hall-0423-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -84,9 +310,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/23/politics/georgia-trump-2020-election-probe-fulton-county/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/georgia-trump-2020-election-probe-fulton-county/index.html",
-      "publishedDateTime": "2021-04-23T14:35:57-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/23/politics/john-kerry-climate-town-hall-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/john-kerry-climate-town-hall-cnntv/index.html",
+      "publishedDateTime": "2021-04-23T20:03:42-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -170,23 +396,23 @@
       ]
     },
     {
-      "path": "_news/2021-04-23-biden-announces-us-will-aim-to-cut-carbon-emissions-by-as-much-as-52-by-2030-at-virtual-climate-summit.md",
-      "title": "Biden announces US will aim to cut carbon emissions by as much as 52% by 2030 at virtual climate summit",
-      "excerpt": "President Joe Biden on Thursday will kick off a climate summit attended by 40 other world leaders by announcing an ambitious cut in greenhouse gas emissions as he looks to put the US back at the center of the global effort to address the climate crisis and curb carbon emissions.\n    \n",
+      "path": "_news/2021-04-23-biden-set-to-make-maiden-foreign-trip-in-june-to-uk-and-belgium.md",
+      "title": "Biden set to make maiden foreign trip in June to UK and Belgium",
+      "excerpt": "President Joe Biden will embark upon his first foreign trip in June, the White House said on Friday, with plans to attend the Group of 7 summit in southwestern England and diplomatic meetings in Brussels.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wxx87ry5y3A/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wxx87ry5y3A/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YLIbrs3KlG4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YLIbrs3KlG4/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 179,
+      "heat": 315,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210422082947-02-biden-climate-summit-0422-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210423101800-joe-biden-0423-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -196,9 +422,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/22/politics/white-house-climate-summit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/white-house-climate-summit/index.html",
-      "publishedDateTime": "2021-04-23T08:31:47-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-foreign-trip/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-foreign-trip/index.html",
+      "publishedDateTime": "2021-04-23T08:42:43-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -222,63 +448,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-a-trump-mcconnell-power-struggle-creates-landmines-in-gop-quest-to-retake-congress.md",
-      "title": "A Trump-McConnell power struggle creates landmines in GOP quest to retake Congress",
-      "excerpt": "It’s forcing congressional leadership to tread lightly and avoid setting off an explosion that does real damage to the party.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/trump-mcconnell-power-struggle-creates-landmines-gop-quest-retake-congress-n1264216",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/trump-mcconnell-power-struggle-creates-landmines-gop-quest-retake-congress-n1264216",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_15/3465028/210415-trump-mcconnell-jm-1432_f47bdedc9477cb88b301dfb643e269a2.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1264216",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264216",
-      "publishedDateTime": "2021-04-22T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -340,25 +509,25 @@
       ]
     },
     {
-      "path": "_news/2021-04-23-republicans-unveil-568-billion-counterproposal-to-bidens-infrastructure-plan.md",
-      "title": "Republicans unveil $568 billion counterproposal to Biden's infrastructure plan",
-      "excerpt": "The White House is evaluating a $568 billion Republican counterproposal to President Joe Biden's sprawling $2.25 trillion infrastructure package, and sees it as a starting point for negotiations. White House aides plan to look into the details of the proposal and discuss it with congressional staff in the coming days,",
+      "path": "_news/2021-04-22-with-trumps-backing-walker-freezes-senate-gop-field-in-georgia.md",
+      "title": "With Trump's backing, Walker freezes Senate GOP field in Georgia  ",
+      "excerpt": "Former President Donald Trump's backing of football great Herschel Walker to run for the Georgia Senate seat has been enough to effectively freeze the GOP field in place -- even though some Republicans privately worry the political neophyte might fizzle against Sen. Raphael Warnock in a high-stakes general",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/republicans-unveil-568-billion-counter-proposal-biden-s-infrastructure-plan-n1264936",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/republicans-unveil-568-billion-counter-proposal-biden-s-infrastructure-plan-n1264936",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hnl9_MRoAQk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hnl9_MRoAQk/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 151,
+      "heat": 335,
       "tags": null,
       "images": [
         {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2021_16/3466939/210422-shelley-moore-capito-jm-1138_ebc49713bcf775ce2e8483ee5d505c5d.jpg",
-          "width": 2500,
-          "height": 1666,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210421194818-01-herschel-walker-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -366,16 +535,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1264936",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264936",
-      "publishedDateTime": "2021-04-22T11:58:00-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/22/politics/georgia-senate-race-2022-herschel-walker-donald-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/georgia-senate-race-2022-herschel-walker-donald-trump/index.html",
+      "publishedDateTime": "2021-04-22T09:50:58-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -392,7 +561,6 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -454,62 +622,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-22-washington-post-trump-administration-blocked-investigation-into-delayed-relief-to-puerto-rico-for-2017-hurricane.md",
-      "title": "Washington Post: Trump administration blocked investigation into delayed relief to Puerto Rico for 2017 hurricane",
-      "excerpt": "The Trump administration put up barriers that delayed $20 billion in hurricane relief aid to Puerto Rico and blocked an investigation into the delayed funds, The Washington Post reported Thursday, citing a 46-page inspector general report.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vQlhUwmwniE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vQlhUwmwniE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210422075257-file-hurricane-maria-puerto-rico-2017-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/22/politics/puerto-rico-relief-investigation-washington-post/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/puerto-rico-relief-investigation-washington-post/index.html",
-      "publishedDateTime": "2021-04-22T06:31:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-22-pelosi-felt-liberated-after-ripping-up-trumps-2020-state-of-the-union-speech-author-says.md",
       "title": "Pelosi felt 'liberated' after ripping up Trump's 2020 State of the Union speech, author says",
       "excerpt": "House Speaker Nancy Pelosi felt \"liberated\" when she ripped up a copy of President Donald Trump's State of the Union address last year, but the move was largely unplanned simply because she couldn't find a pen,",
@@ -563,62 +675,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-us-capitol-police-officer-allegedly-told-units-to-only-monitor-for-anti-trump-protesters-on-january-6.md",
-      "title": "US Capitol Police officer allegedly told units to only monitor for 'anti-Trump' protesters on January 6",
-      "excerpt": "A US Capitol Police officer directed \"all outside units\" on the morning of January 6 to only monitor for anti-Trump agitators \"who want to start a fight,\" not any \"pro-Trump in the crowd,\" according to the findings of a newly revealed internal investigation.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7Y0Xl1YzYXk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7Y0Xl1YzYXk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210416124427-capitol-riot-file-0106-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/21/politics/us-capitol-police-officer-investigation-radio-broadcast-lofgren/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/us-capitol-police-officer-investigation-radio-broadcast-lofgren/index.html",
-      "publishedDateTime": "2021-04-21T20:14:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     },
@@ -791,62 +847,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-21-republican-lisa-murkowski-breaks-ranks-to-advance-bidens-associate-attorney-general-nominee.md",
-      "title": "Republican Lisa Murkowski breaks ranks to advance Biden's associate attorney general nominee",
-      "excerpt": "The Senate narrowly voted to advance the nomination of President Joe Biden's nominee to be associate attorney general, Vanita Gupta, setting up a final vote expected later Tuesday despite fierce opposition from most Republican senators.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7M_9Iq-9boo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7M_9Iq-9boo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210421125524-vanita-gupta-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/21/politics/vanita-gupta-nomination-advances/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/vanita-gupta-nomination-advances/index.html",
-      "publishedDateTime": "2021-04-21T10:11:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-21-foxconn-plant-once-touted-by-trump-as-a-13000-job-juggernaut-will-now-create-just-1500-jobs.md",
       "title": "Foxconn plant, once touted by Trump as a 13,000-job juggernaut, will now create just 1,500 jobs",
       "excerpt": "Taiwan electronics manufacturer Foxconn is drastically scaling back a planned $10 billion factory in Wisconsin, confirming its retreat from a project that former President Donald Trump once called \"the eighth wonder of the world.",
@@ -973,7 +973,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 289,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1017,23 +1017,23 @@
       ]
     },
     {
-      "path": "_news/2021-04-19-jill-biden-revisits-the-idea-of-free-community-college.md",
-      "title": "Jill Biden revisits the idea of free community college",
-      "excerpt": "First lady Jill Biden on Monday stepped up her call for affordable community college for all Americans who wish to attend, revisiting her support for free community colleges.\n    \n",
+      "path": "_news/2021-04-18-washington-post-trump-installed-nsa-lawyer-resigns-after-being-on-administrative-leave-for-three-months.md",
+      "title": "Washington Post: Trump-installed NSA lawyer resigns after being on administrative leave for three months",
+      "excerpt": "National Security Agency general counsel Michael Ellis, who was installed by Trump officials in the final days of the administration, resigned from his post on Friday after being on administrative leave since the start of the Biden administration, according to The Washington Post.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MCGRiZdvrYk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MCGRiZdvrYk/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dUImdq1jD3Y/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dUImdq1jD3Y/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 455,
+      "heat": 178,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210303151350-03-jill-biden-school-visit-0303-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -1043,9 +1043,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/19/politics/jill-biden-community-colleges/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/jill-biden-community-colleges/index.html",
-      "publishedDateTime": "2021-04-19T14:49:49-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/18/politics/michael-ellis-resignation-nsa/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/michael-ellis-resignation-nsa/index.html",
+      "publishedDateTime": "2021-04-18T12:18:12-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1069,120 +1069,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-illinois-gops-asterisk-first-ad-for-2022-cycle-remap-may-have-a-trump-factor.md",
-      "title": "ILLINOIS GOP’s ASTERISK — FIRST AD for 2022 CYCLE — REMAP MAY HAVE A TRUMP FACTOR",
-      "excerpt": "The Illinois GOP has never been a fundraising juggernaut, and yet the first quarter numbers were still pretty bleak. For the first quarter, Illinois GOP reported receiving a little more than $115,000 in donations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/illinois-playbook/2021/04/19/illinois-gops-asterisk-first-ad-for-2022-cycle-remap-may-have-a-trump-factor-492515",
-      "originalUrl": "https://www.politico.com/newsletters/illinois-playbook/2021/04/19/illinois-gops-asterisk-first-ad-for-2022-cycle-remap-may-have-a-trump-factor-492515",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-trumps-fight-with-murkowski-roils-gop-with-new-alaska-senate-challenger-emerging.md",
-      "title": "Trump's fight with Murkowski roils GOP with new Alaska Senate challenger emerging",
-      "excerpt": "The first major GOP rift in the post-Trump era centers on Alaska Sen. Lisa Murkowski, the maverick Republican who has the strong backing of GOP leaders in Washington but has been targeted for defeat by former President Donald Trump and his closest confidantes over her vote to convict him for inciting the January 6 attack on the US Capitol.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html",
-      "originalUrl": "https://www.cnn.com/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210416231950-tump-murkowski-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html",
-      "publishedDateTime": "2021-04-19T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -1244,6 +1130,119 @@
       ]
     },
     {
+      "path": "_news/2021-04-18-one-america-news-network-stays-true-to-trump.md",
+      "title": "One America News Network Stays True to Trump",
+      "excerpt": "A recent OAN segment said there were “serious doubts about who’s actually president,” and another blamed “anti-Trump extremists” for the Capitol attack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/05/business/00OAN-01/merlin_177598191_67fd0320-9bd9-4f06-b481-3683fd454302-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.amp.html",
+      "publishedDateTime": "2021-04-18T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-17-white-house-tells-refugee-advocates-biden-likely-to-raise-cap-quickly.md",
+      "title": "White House tells refugee advocates Biden likely to raise cap quickly ",
+      "excerpt": "White House officials signaled in a conference call with refugee resettlement advocates late Friday that President Joe Biden is likely to raise the current refugee cap of 15,000 quickly, well ahead of the May 15 deadline set Friday, according to a person familiar with the matter.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/peQc3kYUWg0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/peQc3kYUWg0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 555,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210417093925-01-joe-biden-0415-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html",
+      "publishedDateTime": "2021-04-17T07:07:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-17-100-days-without-trump-on-twitter-a-nation-scrolls-more-calmly.md",
       "title": "100 Days Without Trump on Twitter: A Nation Scrolls More Calmly",
       "excerpt": "Democrats are breathing easier. Republicans are crying censorship. For all of the country’s news consumers, a strange quiet has descended after a four-year bombardment of presidential verbiage.",
@@ -1256,7 +1255,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 155,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1313,7 +1312,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 285,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1358,23 +1357,23 @@
       ]
     },
     {
-      "path": "_news/2021-04-16-unacceptable-and-unconscionable-top-progressives-outraged-biden-wont-raise-refugee-cap.md",
-      "title": "'Unacceptable and unconscionable': Top progressives outraged Biden won't raise refugee cap ",
-      "excerpt": "Prominent progressive lawmakers expressed outrage on Friday in response to the news that President Joe Biden will sign an emergency determination that keeps the Trump-era refugee cap of 15,000 -- a significant reversal from his administration's proposal earlier this year to lift the cap to 62,500.\n ",
+      "path": "_news/2021-04-16-biden-says-iran-enriching-uranium-at-60-is-not-helpful-but-is-pleased-country-engaging-in-indirect-talks.md",
+      "title": "Biden says Iran enriching uranium at 60% is not helpful, but is pleased country engaging in indirect talks",
+      "excerpt": "President Joe Biden on Friday said Iran's decision to enrich uranium at 60% is not helpful and counter to the agreement the countries made under the Iran nuclear deal, but said he is pleased the country continues to engage in indirect talks with the United States.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_JY-CzxXcTM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_JY-CzxXcTM/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8rV8u9MjRy4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8rV8u9MjRy4/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 165,
+      "heat": 157,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210330130505-02-rep-pramila-jayapal-0301-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210411114711-file-01-iran-natanz-nuclear-facility-2019-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -1384,9 +1383,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/16/politics/progressive-outrage-refugee-cap-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/progressive-outrage-refugee-cap-biden/index.html",
-      "publishedDateTime": "2021-04-16T12:53:23-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/16/politics/iran-uranium-enrichment-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/iran-uranium-enrichment-biden/index.html",
+      "publishedDateTime": "2021-04-16T15:24:58-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1470,25 +1469,25 @@
       ]
     },
     {
-      "path": "_news/2021-04-17-this-pro-trump-latino-wants-to-lead-virginia.md",
-      "title": "This pro-Trump Latino wants to lead Virginia",
-      "excerpt": "Now, de la Peña, 65, who never sought elective office before, is using his life story to connect with voters as he seeks to become Virginia’s first ever Latino governor. He faces a crowded primary, which the Republican Party of Virginia will hold next month in an unassembled convention.",
+      "path": "_news/2021-04-15-pence-underwent-successful-surgery-to-have-a-pacemaker-implanted.md",
+      "title": "Pence underwent successful surgery to have a pacemaker implanted",
+      "excerpt": "Former Vice President Mike Pence underwent a successful surgery Wednesday to have a pacemaker implanted to help combat a slow heart rate he's recently experienced, his office said in a statement.\n    \n",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/the-recast/2021/04/16/latino-trump-virginia-sergio-de-la-pena-492502",
-      "originalUrl": "https://www.politico.com/newsletters/the-recast/2021/04/16/latino-trump-virginia-sergio-de-la-pena-492502",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bAaKLToSeZ8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bAaKLToSeZ8/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 115,
+      "heat": 185,
       "tags": null,
       "images": [
         {
-          "url": "https://static.politico.com/6f/30/8635360e44c49f7a766287c92f14/sergio-de-la-pena.png",
-          "width": 700,
-          "height": 466,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210115145314-01-mike-pence-0104-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1496,9 +1495,122 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T10:02:00-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/15/politics/mike-pence-pacemaker/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/15/politics/mike-pence-pacemaker/index.html",
+      "publishedDateTime": "2021-04-15T12:31:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-biden-imposes-new-sanctions-on-russia-in-response-to-election-interference-and-cyber-hacks.md",
+      "title": "Biden imposes new sanctions on Russia in response to election interference and cyber hacks",
+      "excerpt": "The Biden administration is expected to announce sanctions as soon as Thursday targeting Russian individuals and entities, in addition to the expulsion of as many as a dozen Russian diplomats from the US in response to the hack of SolarWinds and election interference, according to two sources familiar",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zKvUE1aRpHs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zKvUE1aRpHs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 640,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201218161649-solarwinds-headquarters---stock-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-officials-hacking-election/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/russia-sanctions-expel-officials-hacking-election/index.html",
+      "publishedDateTime": "2021-04-15T05:25:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-biden-tells-family-of-hero-capitol-police-officer-killed-in-car-attack-hes-in-your-blood.md",
+      "title": "Biden tells family of 'hero' Capitol Police officer killed in car attack: 'He’s in your blood'",
+      "excerpt": "President Joe Biden eulogized fallen Capitol Police Officer William “Billy” Evans at a memorial service in the Capitol Rotunda on Tuesday, reflecting on his own personal tragedies as he sought to comfort Evans’ surviving wife and children.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/04/13/biden-officer-billy-evans-memorial-481148",
+      "originalUrl": "https://www.politico.com/news/2021/04/13/biden-officer-billy-evans-memorial-481148",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/bb/a7/058c09d345a19933004089104d12/210413-matt-gaetz-women-podium-getty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/13/biden-officer-billy-evans-memorial-481148",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/13/biden-officer-billy-evans-memorial-481148",
+      "publishedDateTime": "2021-04-15T00:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Politico",
@@ -1522,28 +1634,28 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
+        "Joe Biden",
         "Democratic Voice"
       ]
     },
     {
-      "path": "_news/2021-04-16-ilhan-omar-and-democratic-members-urge-biden-to-act-swiftly-on-raising-refugee-caps-lives-depend-on-it.md",
-      "title": "Ilhan Omar and Democratic members urge Biden to act swiftly on raising refugee caps: 'Lives depend on it'",
-      "excerpt": "A group of progressive Democrats is urging the Biden administration to act quickly to raise refugee caps put in place by the former Trump administration, warning that \"lives depend on it.\"\n    \n",
+      "path": "_news/2021-04-15-liz-cheney-says-she-wont-support-trump-if-he-runs-in-2024.md",
+      "title": "Liz Cheney says she won't support Trump if he runs in 2024",
+      "excerpt": "Wyoming Rep. Liz Cheney, the No. 3 House Republican, said Wednesday she would not support Donald Trump if he decided to launch another White House bid in 2024.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8O2YNrm6Z7U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8O2YNrm6Z7U/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqJt3v3lcVk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqJt3v3lcVk/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 158,
+      "heat": 255,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210416102953-rep-ilhan-omar-0311-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -1553,9 +1665,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/16/politics/democrats-letter-biden-refugee-caps/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/democrats-letter-biden-refugee-caps/index.html",
-      "publishedDateTime": "2021-04-16T07:54:23-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-2024/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-2024/index.html",
+      "publishedDateTime": "2021-04-14T17:03:19-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1579,119 +1691,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-biden-to-be-briefed-on-indianapolis-shooting.md",
-      "title": "Biden to be briefed on Indianapolis shooting",
-      "excerpt": "President Joe Biden will be briefed Friday morning on a shooting at an Indianapolis FedEx facility that left at least eight people dead, a White House official told CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tT1KgMKeqrM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tT1KgMKeqrM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210416010826-02-indianapolis-fedex-shooting-0416-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/16/politics/biden-indianapolis-shooting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/biden-indianapolis-shooting/index.html",
-      "publishedDateTime": "2021-04-16T05:07:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-vernon-jones-a-pro-trump-republican-will-challenge-kemp-in-georgia.md",
-      "title": "Vernon Jones, a Pro-Trump Republican, Will Challenge Kemp in Georgia",
-      "excerpt": "Vernon Jones, a Democrat-turned Republican and onetime state representative who has called Georgia’s presidential election “fixed,” will oppose Gov. Brian Kemp, one of Donald Trump’s top targets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/15/us/vernon-jones-georgia-brian-kemp.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/15/us/vernon-jones-georgia-brian-kemp.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/13/us/politics/00VernonJonesGeorgia/00VernonJonesGeorgia-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/15/us/vernon-jones-georgia-brian-kemp.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/15/us/vernon-jones-georgia-brian-kemp.amp.html",
-      "publishedDateTime": "2021-04-15T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

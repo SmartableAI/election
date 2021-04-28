@@ -32,21 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's special Obamacare enrollment period opens Monday. Here's what you need to know"
-    excerpt: "Uninsured Americans who want to buy Affordable Care Act coverage have another three months to do so, thanks to an executive order President Joe Biden signed last month.\n    \n"
-    publishedDateTime: 2021-02-15T11:02:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O3Y_EqdxQ6E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/obamacare-open-enrollment-information/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/obamacare-open-enrollment-information/index.html"
+  - title: "Biden and Obama to appear in TV special to promote Covid-19 vaccinations"
+    excerpt: "President Joe Biden and former President Barack Obama will appear in an hour-long NBC special on Sunday aimed at promoting Covid-19 vaccinations as they hope to convince hesitant Americans to get shots.\n    \n"
+    publishedDateTime: 2021-04-13T17:35:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTxvAPWXeyE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/13/politics/biden-obama-tv-special/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/biden-obama-tv-special/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180705105817-obamacare-crowd-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210327005047-35-barack-obama-unfurled-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Can this Latina law professor tapped by Biden help reform the Supreme Court?"
+    excerpt: "President Joe Biden has signed an executive order creating a presidential commission to study whether the Supreme Court should be overhauled, and he has named Yale Law School professor Cristina M. Rodríguez as its co-chair. Rodríguez and Bob Bauer ..."
+    publishedDateTime: 2021-04-14T16:27:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/can-latina-law-professor-tapped-biden-help-reform-supreme-court-rcna672"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna672"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna672"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/991/210414-cristina-rodriguez-e-1159a-533b60_3ba0ec6cd784659fb9b9e3059b76abe7fd305203.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Can this Latina law professor tapped by Biden help reform the Supreme Court?"
+    excerpt: "President Joe Biden has signed an executive order creating a presidential commission to study whether the Supreme Court should be overhauled, and he has named Yale Law School professor Cristina M. Rodríguez as its co-chair. Rodríguez and Bob Bauer ..."
+    publishedDateTime: 2021-04-14T17:09:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/can-latina-law-professor-cristina-m-rodriguez-help-reform-supreme-cour-rcna672"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna672"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna672"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/991/210414-cristina-rodriguez-e-1159a-533b60_3ba0ec6cd784659fb9b9e3059b76abe7fd305203.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "OUSALxbEUuTm5TYVNtwiUMi9XdxbVUwt27nFK4ioKLnvELElSAwb8ASgn8Sp3W7B+BIo7saLRj8rbq+5cbgZFuOQ49kSr0g9RPXqFnttxTEGmoKS91/GNZXPRbIJlMUbXDkkJvYycoaK/gyIDomFj9TDUIxrPtX4Z7QOy1W8HwW3uA+McVDpJka6BeDh+yGvwG5+JVdKkL1iAPPfS5+7c7GKqvDTW39EHi40kr1q8FBoh1bkMECUj7XoOcGvWY3E/Jcpjsxpr61h8M3IrAzjOT60RzhofQLFrujpOBLdzIcqUcCawtVaKEneo46VcNE+VeO4MmeQZcDMYdW4GMwsVsqemGWYe51Ib44A0gkZqmcQasjAGtMrUGEoZUmBwOG4QUyP7+EYtUjgJWk9oIceEpjeqdtrQaQfPpeEk1yLSy5mm6jRDa9Lwd946OnjQxRo72RDa9tkGXXYyQCSRams7gdxSyz7bWC3RMcCGcirdVw4OF7imFZcgzPFZaD/JrDN0ZOQHn1tkemhirszprhYzw==;U+ZKMYf7O2rjkWZduqqaFA=="

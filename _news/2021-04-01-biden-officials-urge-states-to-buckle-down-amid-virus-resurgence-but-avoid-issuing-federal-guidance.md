@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden faces first Covid surge as allies brush off warnings"
+    excerpt: "That’s left President Joe Biden fighting two battles: speeding up the vaccine rollout while pushing crisis-weary states to tamp down infections through mask mandates, social distancing and other measures in the meantime. Losing either could not only ..."
+    publishedDateTime: 2021-03-30T23:36:00Z
+    webUrl: "https://www.politico.com/news/2021/03/30/biden-first-covid-surge-478623"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/30/biden-first-covid-surge-478623"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/30/biden-first-covid-surge-478623"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ea/4b/9d66a8ca4a0e8e33362cd04ee081/gettyimages-1232023308-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "Tcr7IN1DuJNF8muYdH+C9JiwDVQrskBMd7NoWhd3R0+zoRLxEb0KxDKWVT+lpL3vYZYJQwiMe9nSJSBwlSzestI+kryV1Yndb/XHMlCNiHVIY7k2Uv/llG38ZKOWZYfVVn5YvCpKJSKiHVEBYCcToThpHLd7WJHWTaV3lTyZpfA7DkJ68mkqCnWV9nUJOuR39JbiKOYhjJFKgppDZaABDgQDLVUBe3qUQ2N+ElLUVI/HoZmCWW08ju0N5PP5YVE9Bc3rZbzfJRzWSvRacpVLU+GZAU8/nqArU41HSEP7nVlqwrTbGTE+Pfk1oMNtHLa/roCxzoJ0PbFerFCB/c8PKHYsPYbUG4R6XSEvDLqVzJK/p2C+XIyAdgL7TGKk9DHZ8Rnp6p9ntTNVgIaL1w4PauNPR5PbGJhlmff+KDa6rELo9rYxGfFMy32wxHBfmSadTZIh8mRPIznfBUXWLn9m8qIcuAAKspSOb+Zt6wOCgrbUMOyBgdEjV/hkvKdnJFU+OreRCBg+TNVo/ZPyzuaOBw==;OZy0v9K2TUlyGAIXknh49w=="
 ---

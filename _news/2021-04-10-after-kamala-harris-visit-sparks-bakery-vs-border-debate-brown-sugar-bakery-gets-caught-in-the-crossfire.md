@@ -47,22 +47,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Joe Biden And Kamala Harris Said “We Still Have Work To Do” After Derek Chauvin Was Convicted Of Murdering George Floyd"
-    excerpt: "The president and vice president called the verdict in George Floyd’s murder a “step forward” but pressed for Congress to pass police reforms."
-    publishedDateTime: 2021-04-21T00:32:00Z
-    webUrl: "https://www.buzzfeednews.com/article/ryancbrooks/biden-harris-chauvin-verdict-george-floyd-justice-act"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryancbrooks/biden-harris-chauvin-verdict-george-floyd-justice-act"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryancbrooks/biden-harris-chauvin-verdict-george-floyd-justice-act"
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 116
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-11/19/21/campaign_images/1242b492f2b1/watch-live-four-key-witnesses-are-testifying-at-t-2-5485-1574197771-1_dblbig.jpg"
-        width: 625
-        height: 415
-        isCached: true
   - title: "Essential Politics: Kamala Harris’ online fans are intense. They’re just the beginning"
     excerpt: "It remains nasty and brutish at times. Good morning and welcome to Essential Politics, Kamala Harris edition. This week, I’ll talk about my takeaways from reporting on the vice president’s biggest online cheerleaders, the KHive, a loose-knit network of ..."
     publishedDateTime: 2021-04-14T13:44:00Z
@@ -109,134 +93,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Florida woman charged for death threats against Kamala Harris"
-    excerpt: "A woman was charged for alleged death threats against VP Kamala Harris, according to a criminal complaint filed in the U.S. District Court."
-    publishedDateTime: 2021-04-17T18:10:00Z
-    webUrl: "https://thegrio.com/2021/04/17/woman-threatens-kamala-harris/"
-    ampWebUrl: "https://thegrio.com/2021/04/17/woman-threatens-kamala-harris/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/04/17/woman-threatens-kamala-harris/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 75
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2021/04/170420211618681884-1-scaled.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Florida woman made videos threatening to kill Kamala Harris, agents say"
-    excerpt: "The Secret Service says the threats against the vice president were discovered when the Miami nurse sent the videos to her husband in prison."
-    publishedDateTime: 2021-04-17T22:17:00Z
-    webUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/"
-    ampWebUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
-    type: article
-    provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 75
-    images:
-      - url: "https://www.tampabay.com/resizer/J-Do4DJDiMTPENXOY7JzzA8Jm1g=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XPWD6XFPDFSYBOP5T7UMY35PAY.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Florida woman threatened to kill Kamala Harris in videos, agents say"
-    excerpt: "The Secret Service says the threats against the vice president were discovered when the Miami nurse sent the videos to her husband in prison."
-    publishedDateTime: 2021-04-17T23:31:00Z
-    webUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/"
-    ampWebUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
-    type: article
-    provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 75
-    images:
-      - url: "https://www.tampabay.com/resizer/J-Do4DJDiMTPENXOY7JzzA8Jm1g=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XPWD6XFPDFSYBOP5T7UMY35PAY.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Vice President Kamala Harris is in NC. How to watch her speech."
-    excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan. Harris’s plane landed at 10:30 a."
-    publishedDateTime: 2021-04-19T13:56:00Z
-    webUrl: "https://www.heraldsun.com/news/politics-government/article250530439.html"
-    ampWebUrl: "https://amp.heraldsun.com/news/politics-government/article250530439.html"
-    cdnAmpWebUrl: "https://amp-heraldsun-com.cdn.ampproject.org/c/s/amp.heraldsun.com/news/politics-government/article250530439.html"
-    type: article
-    provider:
-      name: The Herald-Sun
-      domain: heraldsun.com
-    quality: 75
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/7d2f4318-041d-45c9-912e-de9066b0c035/eca2373c-9360-4972-b4c1-05cb59189b19/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "In North Carolina, Vice President Kamala Harris pitches $2.3T spending plan"
-    excerpt: "In her first visit to the state since getting sworn in to office, Harris spoke at Guilford Technical Community College’s Advanced Manufacturing Campus in support of the proposal, which was unveiled last month on the heels of the $1."
-    publishedDateTime: 2021-04-19T20:03:00Z
-    webUrl: "https://www.dailypress.com/government/nation/vp-nw-kamala-harris-north-carolina-trip-20210419-tbqknf55dbc3rakjegwglc73yu-story.html"
-    ampWebUrl: "https://www.dailypress.com/government/nation/vp-nw-kamala-harris-north-carolina-trip-20210419-tbqknf55dbc3rakjegwglc73yu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/government/nation/vp-nw-kamala-harris-north-carolina-trip-20210419-tbqknf55dbc3rakjegwglc73yu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 73
-    images:
-      - url: "https://www.dailypress.com/resizer/0AsFViKk2BxIY-BFBMcchU0_A54=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G57KVOHMDDQESR5XC5LD3PGACI.jpg"
-        width: 1200
-        height: 873
-        isCached: true
-  - title: "Florida nurse charged for death threats against Vice President Kamala Harris"
-    excerpt: "A Florida woman is being held by federal authorities for allegedly making a series of threats to kill Vice President Kamala Harris. Niviane Petit Phelps, 39, sent a series of videos to her husband in prison, expressing anger over the results of the 2020 ..."
-    publishedDateTime: 2021-04-17T16:27:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/17/kamala-harris-death-threats-florida-nurse-charged-detained/7268355002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/7268355002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7268355002"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/15/USAT/8a802859-42db-40cb-9b7c-39de0c7d31ec-Harris.jpg?auto=webp&crop=5111,2875,x0,y170&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "South Florida Nurse Arrested, Accused of Threatening to Kill VP Kamala Harris"
-    excerpt: "A longtime South Florida nurse accused of making videos threatening Vice President Kamala Harris’ life has been arrested on federal charges. Niviane Petit Phelps, of Miami Gardens, was arrested following an investigation by the U."
-    publishedDateTime: 2021-04-17T01:54:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 72
-    images:
-      - url: "https://i0.wp.com/media.nbcnewyork.com/2021/03/AP_21078788269498.jpeg?crop=933px%2C44px%2C4334px%2C2439px&quality=85&resize=1200%2C675&strip=all&ssl=1"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "VP Kamala Harris at Greensboro historic sit-in lunch counter | Charlotte Observer"
-    excerpt: "The image said it all: the first Black vice president of the United States took a seat at the same Southern lunch counter where four Black college students helped spark the civil rights movement."
-    publishedDateTime: 2021-04-20T14:59:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/article250804224.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article250804224.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article250804224.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 70
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/5b30ae35-4c27-4d55-a6ca-90ba04a14595/5ff7b641-61af-4bc0-a2da-1b36417da963/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "VP Harris says U.S. needs to fix 'implicit bias' in policing after Minnesota shooting"
     excerpt: "Vice President Kamala D. Harris said Tuesday that “folks will keep dying” if the U.S. doesn’t stamp out racial bias in law enforcement."
     publishedDateTime: 2021-04-13T17:44:00Z
@@ -252,38 +108,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/13/aptopix_police_shooting_minnesota_48122_c0-150-3600-2250_s1200x700.jpg?187bc123cc4510feb7f1966081317bdd024739c4"
         width: 1200
         height: 700
-        isCached: true
-  - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Raleigh News & Observer"
-    excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point Harris’s plane landed at 10:30 a.m. on a rainy day in Greensboro, where Gov."
-    publishedDateTime: 2021-04-18T03:00:00Z
-    webUrl: "https://www.newsobserver.com/news/politics-government/article250530439.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article250530439.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article250530439.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 68
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/7d2f4318-041d-45c9-912e-de9066b0c035/eca2373c-9360-4972-b4c1-05cb59189b19/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris takes a seat at NC lunch counter where 4 students made history in 1960"
-    excerpt: "The image said it all: the first Black vice president of the United States took a seat at the same Southern lunch counter where four Black college students helped spark the civil rights movement."
-    publishedDateTime: 2021-04-20T14:07:00Z
-    webUrl: "https://www.heraldonline.com/news/state/north-carolina/article250804224.html"
-    ampWebUrl: "https://amp.heraldonline.com/news/state/north-carolina/article250804224.html"
-    cdnAmpWebUrl: "https://amp-heraldonline-com.cdn.ampproject.org/c/s/amp.heraldonline.com/news/state/north-carolina/article250804224.html"
-    type: article
-    provider:
-      name: The Herald SC
-      domain: heraldonline.com
-    quality: 68
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/5b30ae35-4c27-4d55-a6ca-90ba04a14595/5ff7b641-61af-4bc0-a2da-1b36417da963/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Harris: Visiting border isn't my job; veep says she's focused on 'root causes' instead"
     excerpt: "Vice President Kamala Harris said Wednesday she has no plans to visit the U.S. southern border but she’s looking forward to a trip soon to Mexico and Guatemala to address the core causes of surging migration from Central America."
@@ -395,20 +219,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "VP Kamala Harris expected in NH later this week"
-    excerpt: "Vice President Kamala Harris plans to visit New Hampshire later this week, her first trip to the Granite State since she and President Joe Biden were sworn into office in"
-    publishedDateTime: 2021-04-18T19:28:00Z
-    webUrl: "https://www.unionleader.com/news/politics/vp-kamala-harris-expected-in-nh-later-this-week/article_6b159730-90a8-5e67-b535-d12439d652cc.html"
-    type: article
-    provider:
-      name: New Hampshire Union Leader
-      domain: unionleader.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/b/c5/bc5ca04d-bbc6-5000-a4d6-78e2e21fceb7/5f3325fe49ee2.image.jpg?resize=946%2C630"
-        width: 946
-        height: 630
-        isCached: true
   - title: "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Chicago's Brown Sugar Bakery gets caught in the crossfire"
     excerpt: "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ..."
     publishedDateTime: 2021-04-09T20:49:00Z
@@ -434,24 +244,24 @@ related:
       name: Politifact
       domain: politifact.com
     quality: 44
-  - title: "Kamala Harris to Speak With Guatemalan President on Monday: Axios"
-    excerpt: "U.S. Vice President Kamala Harris will meet virtually on Monday with Guatemalan President Alejandro Giammattei to discuss solutions to the surge of migration, Axios reported on Wednesday, citing a senior White House official."
-    publishedDateTime: 2021-04-22T01:02:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-04-21/kamala-harris-to-speak-with-guatemalan-president-on-monday-axios"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
-  - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Charlotte Observer"
-    excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan. Harris’s plane landed at 10:30 a."
-    publishedDateTime: 2021-04-19T15:33:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/article250530439.html"
+  - title: "Vice President Kamala Harris to talk American Jobs Plan in NC | Charlotte Observer"
+    excerpt: "Vice President Kamala Harris will make her first trip to North Carolina since taking office next week to sell the American Jobs Plan. Harris is set to make stops in Greensboro and High Point on Monday,"
+    publishedDateTime: 2021-04-14T22:12:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article250676884.html"
     type: article
     provider:
       name: Charlotte Observer
       domain: charlotteobserver.com
-    quality: 31
+    quality: 29
+  - title: "Vice President Kamala Harris to talk American Jobs Plan in NC | Raleigh News & Observer"
+    excerpt: "Vice President Kamala Harris will be pitching the administration’s infrastructure package during two stops in North Carolina. Here’s where she’ll be."
+    publishedDateTime: 2021-04-14T22:12:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article250676884.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 27
   - title: "VP Kamala Harris makes first visit to North Carolina, talks infrastructure plans | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan."
     publishedDateTime: 2021-04-19T15:41:00Z

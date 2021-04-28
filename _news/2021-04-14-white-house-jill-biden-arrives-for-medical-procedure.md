@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/white-house-first-lady-jill-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/white-house-first-lady-jill-biden-to-undergo-procedure/2021/04/13/fdae29cc-9cbf-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 185
+published: true
 
 provider:
   name: Washington Post
@@ -31,51 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "White House: First lady Jill Biden to undergo 'procedure'"
-    excerpt: "The White House says President Joe Biden will accompany his wife, Jill Biden, early Wednesday morning to an appointment where she will undergo a “common medical procedure.” WASHINGTON -- The ..."
-    publishedDateTime: 2021-04-14T02:13:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/white-house-lady-jill-biden-undergo-procedure-77057113"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/white-house-lady-jill-biden-undergo-procedure-77057113"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/white-house-lady-jill-biden-undergo-procedure-77057113"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_92adcfa535924bebbdbaa7e5b95d98bc_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden hosts Japan’s Suga as first foreign leader at the White House"
-    excerpt: "President Biden is making a point as he welcomes Japanese Prime Minister Yoshihide Suga to the White House on Friday, using the first in-person visit by a foreign leader to emphasize that his administration sees Asia as its highest priority."
-    publishedDateTime: 2021-04-16T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-hosts-japans-suga-as-first-foreign-leader-at-the-white-house/2021/04/15/cd56f946-9e1a-11eb-b7a8-014b14aeb9e4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-hosts-japans-suga-as-first-foreign-leader-at-the-white-house/2021/04/15/cd56f946-9e1a-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-hosts-japans-suga-as-first-foreign-leader-at-the-white-house/2021/04/15/cd56f946-9e1a-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp"
+  - title: "Jill Biden to visit Navajo Nation, once floored by COVID-19"
+    excerpt: "Jill Thursday and Friday will be Biden’s third to the reservation that spans 27,000 square miles (70,000 square kilometers) in the Four Corners region, and her inaugural visit as first lady. She’s expected to meet Navajo officials in the tribal capital of Window Rock,"
+    publishedDateTime: 2021-04-22T04:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/jill-biden-to-visit-navajo-nation-once-floored-by-covid-19/2021/04/22/7d5410a6-a328-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/jill-biden-to-visit-navajo-nation-once-floored-by-covid-19/2021/04/22/7d5410a6-a328-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/jill-biden-to-visit-navajo-nation-once-floored-by-covid-19/2021/04/22/7d5410a6-a328-11eb-b314-2e993bd83e31_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XYYPGMU6L4I6XAAFX76DUOPW2M.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MRADZ5VDD4I6XMYUF2MTXWB6GE.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Imagine a 20-car motorcade taking you to dinner. That's the White House bubble Joe Biden now finds himself living in."
-    excerpt: "White House living isn't quite that simple for any president. Joe Biden has described it as \"a little like a gilded cage.\""
-    publishedDateTime: 2021-04-16T19:59:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-white-house-delaware-bubble-2021-4"
+  - title: "Jill Biden visits Southwest US amid vaccine push"
+    excerpt: "First lady Jill Biden is kicking off a three-day, two-state visit to the U.S. Southwest with a tour of a vaccination clinic in Albuquerque"
+    publishedDateTime: 2021-04-21T19:17:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/jill-biden-visits-southwest-us-amid-vaccine-push-77223277"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/jill-biden-visits-southwest-us-amid-vaccine-push-77223277"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/jill-biden-visits-southwest-us-amid-vaccine-push-77223277"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 82
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/6079ec3674da0300181e23a3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Jill Biden visits US Southwest amid vaccine push"
+    excerpt: "First lady Jill Biden is kicking off a three-day, two-state visit to the U.S. Southwest with a tour of a vaccination clinic in Albuquerque"
+    publishedDateTime: 2021-04-21T19:17:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/jill-biden-visits-southwest-us-amid-vaccine-push-77223277"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/jill-biden-visits-southwest-us-amid-vaccine-push-77223277"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/jill-biden-visits-southwest-us-amid-vaccine-push-77223277"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_cf94eb95800d45ec8d4372a953fbf1f1_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "rUVOi3ui8TVXxZps9J8sVqkzsAJfONNkHcwDzAcChjl0kXdBENaojZjrnKCfw6O4wumkWyZLZRlzttFRXjc09yEUwEZmi7fOsJKyAikZntRMOxQz+0JkHhssvzRttYWbcvfUSFQJUcELQIix2tpx0xF0MycsURVRYp+IHXU5gR25O6NL3f4Hz2Hf9G1Q9ZnV6TjsjdoAVh3a3JouT/O24UybhAMQhw29tOr6mkRDOFcceHoN3/eOTnbJkiO0s1OTZ925VDjYiLeVNMC9VgCKrtLdP2ADl7VkWhTD5ODyIGpxpBmP4pS+fT4HelYK0FUOK8EtsNaSTlKoQRoTI4dWRULM3bepuVEFCu3ZIkVMw+Q=;GGEMIvliCXhubF8M+DQ6tQ=="

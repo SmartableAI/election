@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/facebook-removes-trump-interview-vi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-removes-trump-interview-video-daughter-in-law-lara-trump.amp"
 type: article
 quality: 174
-heat: 294
+heat: 254
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lara Trump on Facebook removing her interview with father-in-law: Big Tech wants to 'erase' Donald Trump"
-    excerpt: "Lara Trump said that Big Tech is trying to 'erase' Donald Trump on Thursday after Facebook removed a video of her interviewing the former President. "
-    publishedDateTime: 2021-04-01T13:48:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gOEAdNKw4Z8/lara-trump-facebook-interview-big-tech-censorhsip-erase-donald-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/lara-trump-facebook-interview-big-tech-censorhsip-erase-donald-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-facebook-interview-big-tech-censorhsip-erase-donald-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Summer Zervos Lawsuit Against Donald Trump Can Move Forward"
     excerpt: "New York’s highest court dismissed the former president’s challenge to the onetime “Apprentice” contestant’s defamation claims."
     publishedDateTime: 2021-03-30T17:51:00Z
@@ -110,20 +94,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/100022f6-198e-455a-8560-ccb91f1ac4d9/83fb32f0-05d1-497b-b1f9-fe2008dabec4/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Fresh Data Reveal How Trump Made Inroads With Latinos"
-    excerpt: "A new analysis of U.S. voters suggests — counterintuitively — that the coronavirus pandemic may have helped drive former President Donald Trump's surprising increase in support from Latinos last November."
-    publishedDateTime: 2021-04-02T16:00:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/02/fresh_data_reveal_how_trump_made_inroads_with_latinos_539593.html?mc_cid=15b3dd0249&mc_eid=848bcee76a"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/526159_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "7IdAQuqJeXVIVoRS/cUkPYeJyXgP3Eph8vhy+gLvqMZkdLyH/FkXBUngaIoEyUKmebC2zgmHD6HMSlse5KnhF764/BfYCd3GV+QDTKDMRfswBAHjUoFNRedhyFZhXeFWMMUTsPOG2IsMP4YpmDLN56uRZnWAzt8ZYChTRMrgebInqMKXh1XfV8/U4DTIWsBKmsan1wTuGuhpU052blROF4rEL+pxmsgkKM6+yp90Ru1ZHTHKqifIAZ30IDySECaWiPdOQm6GhpQWE/G/cd+4YWLO0kPDhTtClrTUnb9hfqWz/7sd8+y8Ct4mdIodWU/gjJL0FfXNyQeo7NXWQy/4JJauFuWTZo2ygqihjzsh5YE=;zRSOGj4mHgFF8y5EqjCUiQ=="

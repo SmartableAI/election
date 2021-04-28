@@ -2,6 +2,223 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-14-biden-to-address-joint-session-of-congress-on-april-28.md",
+      "title": "Biden to address joint session of Congress on April 28",
+      "excerpt": "If Biden accepts the invitation, it would mark the first time he has addressed Congress in person since becoming president.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9tajvtn_3qk/pelosi-invites-biden-to-address-joint-congress-session-on-april-28",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9tajvtn_3qk/pelosi-invites-biden-to-address-joint-congress-session-on-april-28",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23634e94-94e7-4bf7-9e0c-fe06767c9820/a40574e7-a98b-4e06-b72a-eedcc3fe9dc2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-invites-biden-to-address-joint-congress-session-on-april-28.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-invites-biden-to-address-joint-congress-session-on-april-28.amp",
+      "publishedDateTime": "2021-04-13T17:21:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-cnn-staffer-boasts-to-project-veritas-that-network-peddled-anti-trump-propaganda.md",
+      "title": "CNN staffer boasts to Project Veritas that network peddled anti-Trump ‘propaganda’",
+      "excerpt": "A CNN staffer admitted in a secretly recorded video that his network produced “propaganda” to oust former President Donald Trump during the 2020 presidential election — and",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/",
+      "originalUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-cnn-project-veritas-60.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/amp/",
+      "publishedDateTime": "2021-04-13T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-sen-ron-johnson-warns-biden-spending-blowout-is-irresponsible-could-bankrupt-nation.md",
+      "title": "Sen. Ron Johnson warns Biden spending blowout is 'irresponsible,' could 'bankrupt nation'",
+      "excerpt": "Sen. Ron Johnson, R-Wis., told \"The Story\" Tuesday that the Biden administration is \"mortgaging our children’s future\" by driving up debt to pay for a proposed infrastructure bill.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBx-uh2_8ZQ/ron-johnson-biden-spending-blowout-irresponsible-bankrupt-america",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBx-uh2_8ZQ/ron-johnson-biden-spending-blowout-irresponsible-bankrupt-america",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ron-johnson-biden-spending-blowout-irresponsible-bankrupt-america.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ron-johnson-biden-spending-blowout-irresponsible-bankrupt-america.amp",
+      "publishedDateTime": "2021-04-13T14:24:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-tara-reade-rips-new-york-times-columnists-for-classifying-biden-assault-claim-as-sex-scandal.md",
+      "title": "Tara Reade rips New York Times columnists for classifying Biden assault claim as 'sex scandal'",
+      "excerpt": "Tara Reade, the former Senate staffer who alleged last year that Joe Biden sexually assaulted her in 1993, scolded The New York Times Tuesday for putting her claims in the same category as the controversy surrounding Rep.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal",
+      "originalUrl": "https://www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Image-from-iOS-10.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tara-reade-new-york-times-biden-assault-sex-scandal.amp",
+      "publishedDateTime": "2021-04-13T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-ex-trump-dhs-officials-say-harris-needs-to-visit-border-accuse-her-of-dodging-political-hot-potato.md",
       "title": "Ex-Trump DHS officials say Harris needs to visit border, accuse her of dodging 'political hot potato'",
       "excerpt": "Former Department of Homeland Security (DHS) officials under the Trump administration on Tuesday said Vice President Kamala Harris needs to visit the border soon if she is going to succeed in her role as border czar – while accusing her of dodging what has become a \"political hot potato\" for the administration.",
@@ -239,7 +456,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 435,
+      "heat": 415,
       "tags": null,
       "images": [
         {
@@ -407,7 +624,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 210,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -463,7 +680,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -507,25 +724,25 @@
       ]
     },
     {
-      "path": "_news/2021-04-12-bidens-dog-major-to-undergo-additional-training-to-help-adjust-to-white-house-life-after-biting-people.md",
-      "title": "Biden's dog Major to undergo 'additional training' to help adjust to White House life after biting people",
-      "excerpt": "The younger Biden family dog, Major, will undergo \"additional training\" as he tries to adjust to life in the White House, a  spokesperson told Fox News.   ",
+      "path": "_news/2021-04-12-biden-urges-calm-after-daunte-wright-shooting-says-no-justification-for-looting-violence.md",
+      "title": "Biden urges calm after Daunte Wright shooting, says 'no justification' for looting, violence",
+      "excerpt": "President Biden urged “peace and calm” on Monday as authorities investigate what led to the fatal police-involved shooting of a Black man during a traffic stop in the Minneapolis suburb of Brooklyn Center, Minnesota.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xenHxgrYuuQ/biden-dog-major-training-white-house-biting",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xenHxgrYuuQ/biden-dog-major-training-white-house-biting",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6glzABee8e8/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6glzABee8e8/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 158,
+      "heat": 164,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/GettyImages-1232039308.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ada110c-7331-40cd-a281-b8345420ab7d/6ec9a2e0-4688-40b3-b7bb-b7216727bf5a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -533,9 +750,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-dog-major-training-white-house-biting.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dog-major-training-white-house-biting.amp",
-      "publishedDateTime": "2021-04-12T14:28:21-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence.amp",
+      "publishedDateTime": "2021-04-12T13:31:22-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -575,7 +792,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 233,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -962,7 +1179,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -979,6 +1196,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-goes-after-mcconnell-fauci-during-gop-speech-at-mar-a-lago.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-goes-after-mcconnell-fauci-during-gop-speech-at-mar-a-lago.amp",
       "publishedDateTime": "2021-04-11T03:22:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-10-biden-administration-denies-whitmers-request-for-extra-vaccines-as-covid-cases-surge-in-michigan.md",
+      "title": "Biden administration denies Whitmer's request for extra vaccines as COVID cases surge in Michigan",
+      "excerpt": "The Biden administration denied a request from Michigan Gov. Gretchen Whitmer to bump up the state’s allocation of coronavirus vaccines amid a surge in new Covid-19 cases.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JSPSdVpovgg/biden-administration-denies-whitmers-request-extra-vaccines",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JSPSdVpovgg/biden-administration-denies-whitmers-request-extra-vaccines",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/AP21090700647116-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-denies-whitmers-request-extra-vaccines.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-denies-whitmers-request-extra-vaccines.amp",
+      "publishedDateTime": "2021-04-10T14:25:55-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1131,7 +1404,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1231,23 +1504,23 @@
       ]
     },
     {
-      "path": "_news/2021-04-09-former-trump-official-hogan-gidley-to-launch-election-integrity-nonprofit.md",
-      "title": "Former Trump official Hogan Gidley to launch election integrity nonprofit",
-      "excerpt": "EXCLUSIVE: Former Trump campaign national press secretary and former White House principal deputy press secretary Hogan Gidley is launching a nonprofit to advocate for the passage of \"constitutional election integrity laws\" in all states across the nation ahead of the 2022 midterms and beyond, Fox News",
+      "path": "_news/2021-04-09-white-house-blames-error-after-biden-campaign-fundraising-page-linked-on-gov-website.md",
+      "title": "White House blames 'error' after Biden campaign fundraising page linked on .gov website",
+      "excerpt": "The White House said Thursday that a link to a page on the Biden campaign website in the WhiteHouse.gov fact sheet for the president's $2 trillion-plus spending plan was put there in error. ",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/neWokFLGmzQ/hogan-gidley-election-integrity-nonprofit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/neWokFLGmzQ/hogan-gidley-election-integrity-nonprofit",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tu_TRhW1f8o/white-house-biden-campaign-fundraising-link-gov-website",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tu_TRhW1f8o/white-house-biden-campaign-fundraising-link-gov-website",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 409,
+      "heat": 187,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
           "width": 340,
           "height": 340,
           "title": null,
@@ -1257,9 +1530,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hogan-gidley-election-integrity-nonprofit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hogan-gidley-election-integrity-nonprofit.amp",
-      "publishedDateTime": "2021-04-09T07:20:46-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/white-house-biden-campaign-fundraising-link-gov-website.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-campaign-fundraising-link-gov-website.amp",
+      "publishedDateTime": "2021-04-09T09:09:55-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1343,248 +1616,23 @@
       ]
     },
     {
-      "path": "_news/2021-04-09-mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.md",
-      "title": "Mark Steyn pushes back on Biden's 'gun grab' by executive order",
-      "excerpt": "In practical terms, the measures include: restrictions on pistol stabilizing braces, which Joe Biden claims allow hand-guns to be used as high-accuracy low-recoil rifles and yet with easy concealability of a pistol. A new rule closing yet another supposed ...",
+      "path": "_news/2021-04-09-trump-other-potential-2024-gop-contenders-gathering-at-major-retreat.md",
+      "title": "Trump, other potential 2024 GOP contenders, gathering at major retreat",
+      "excerpt": "... Trump’s influence is not big enough and we have some donors who think that Trump’s influence is too much.\" \"The party is bigger than any one candidate. Clearly, Donald Trump is a big force in the Republican Party but I think the key for us moving ...",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order",
-      "originalUrl": "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order",
+      "webUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat",
+      "originalUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 135,
+      "heat": 175,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a73d4e9-e32b-4f78-b01c-7836d4c075f1/1f2816d7-152b-46e5-bcfc-50912e6eb51e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mark-steyn-pushes-back-on-bidens-gun-grab-by-executive-order.amp",
-      "publishedDateTime": "2021-04-08T17:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-trump-cfos-former-daughter-in-law-subpoenaed-and-turns-over-documents-to-manhattan-da.md",
-      "title": "Trump CFO's former daughter-in-law subpoenaed and turns over documents to Manhattan DA",
-      "excerpt": "The Manhattan DA’s office has subpoenaed and now seized documents from the apartment of Jennifer Weisselberg, the former daughter-in-law of  Trump Organization CFO Allen Weisselberg.   ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YXGIlhqUjbk/trumps-cfo-former-daughter-in-law-subpoenaed-and-turns-over-documents-to-manhattan-da",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YXGIlhqUjbk/trumps-cfo-former-daughter-in-law-subpoenaed-and-turns-over-documents-to-manhattan-da",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/03/ContentBroker_contentid-465ce569746c4d99b19d6aafab45f8eb.png",
-          "width": 1920,
-          "height": 1279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T15:56:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-trump-endorses-gop-kentucky-sen-rand-paul-for-reelection-in-2022.md",
-      "title": "Trump endorses GOP Kentucky Sen. Rand Paul for reelection in 2022",
-      "excerpt": "Former President Donald Trump endorsed GOP Kentucky Sen. Rand Paul for reelection on Thursday, affirming his support for the longtime senator ahead of the 2022 midterms.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cb8HUiUsXdQ/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cb8HUiUsXdQ/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 470,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a70ea2ed-ad0d-4165-8d02-83e4d493ca4f/3be61b07-b2e2-48c8-b609-6bd57a9d554b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-gop-kentucky-sen-rand-paul-reelection-2022.amp",
-      "publishedDateTime": "2021-04-08T14:59:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-rep-kat-cammack-joe-biden-has-become-trafficker-in-chief-of-southern-border-crisis.md",
-      "title": "Rep. Kat Cammack: Joe Biden has become 'trafficker-in-chief' of southern border 'crisis'",
-      "excerpt": "Congresswoman Kat Cammack, R-Fla., called out her Democrat colleagues Thursday for calling the border situation anything but a \"crisis,\" telling \"The Story\" the Biden administration should have followed Trump’s lead.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YfaGyl9P0H0/rep-kat-cammack-joe-biden-has-become-trafficker-in-chief-of-southern-border-crisis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YfaGyl9P0H0/rep-kat-cammack-joe-biden-has-become-trafficker-in-chief-of-southern-border-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rep-kat-cammack-joe-biden-has-become-trafficker-in-chief-of-southern-border-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-kat-cammack-joe-biden-has-become-trafficker-in-chief-of-southern-border-crisis.amp",
-      "publishedDateTime": "2021-04-08T13:53:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-biden-falsely-claims-gun-manufacturers-cant-be-sued.md",
-      "title": "Biden falsely claims gun manufacturers 'can't be sued'",
-      "excerpt": "President Biden on Thursday falsely claimed that gun manufacturers \"can't be sued.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KsOf15pcfeE/biden-claim-gun-manufacturers-sued-liability-exempt",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KsOf15pcfeE/biden-claim-gun-manufacturers-sued-liability-exempt",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21098589790561-1.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/mar-a-lago.jpg?ve=1&tl=1",
           "width": 640,
           "height": 320,
           "title": null,
@@ -1594,9 +1642,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-claim-gun-manufacturers-sued-liability-exempt.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-claim-gun-manufacturers-sued-liability-exempt.amp",
-      "publishedDateTime": "2021-04-08T12:49:39-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp",
+      "publishedDateTime": "2021-04-09T03:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1620,62 +1668,7 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-trump-torches-arkansas-gov-hutchinson-for-vetoing-bill-banning-puberty-blockers-in-children.md",
-      "title": "Trump torches Arkansas Gov. Hutchinson for vetoing bill banning puberty blockers in children",
-      "excerpt": "Donald Trump blasted Gov. Asa Hutchinson for vetoing legislation to ban gender-confirming treatments or surgery for transgender youth.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0FitCey4QEU/trump-arkansas-governor-hutchinson-veto-bill-transgender",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0FitCey4QEU/trump-arkansas-governor-hutchinson-veto-bill-transgender",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21052687694067.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-arkansas-governor-hutchinson-veto-bill-transgender.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-arkansas-governor-hutchinson-veto-bill-transgender.amp",
-      "publishedDateTime": "2021-04-08T12:18:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     }

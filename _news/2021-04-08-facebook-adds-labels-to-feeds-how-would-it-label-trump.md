@@ -94,22 +94,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Gaetz reported to have sought a ‘blanket’ pardon from Trump"
-    excerpt: "Rep. Matt Gaetz allegedly sought a “blanket” presidential pardon from Donald Trump in the closing weeks of his administration — a request which was ultimately not fulfilled, according to news reports. The request for a blanket preemptive pardon for ..."
-    publishedDateTime: 2021-04-07T02:27:00Z
-    webUrl: "https://www.politico.com/news/2021/04/06/gaetz-blanket-pardon-trump-479504"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/04/06/gaetz-blanket-pardon-trump-479504"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/gaetz-blanket-pardon-trump-479504"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/3b/45/24baa3864faf9352e262d8ef8c93/4-6-21-matt-gaetz-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Donald Trump breaks his silence on Matt Gaetz"
     excerpt: "Former President Donald Trump released a short statement in response to reports that Rep. Matt Gaetz (R-FL), one of Trump's most vocal defenders, asked him for a pre-emptive blanket pardon. CNN's Ryan Nobles reports."
     publishedDateTime: 2021-04-07T21:59:00Z
@@ -125,6 +109,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210407175536-donald-trump-matt-gaetz-split-for-video-02-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "HUD moves to restore fair housing rules weakened under Trump"
+    excerpt: "The Trump administration suspended its implementation in 2018. Officials then proposed a watered-down revision before scrapping it altogether last summer as former President Donald Trump campaigned on the warning that Democrats were trying to ruin the ..."
+    publishedDateTime: 2021-04-13T21:39:00Z
+    webUrl: "https://www.politico.com/news/2021/04/13/hud-housing-rules-481209"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/13/hud-housing-rules-481209"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/13/hud-housing-rules-481209"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/5b/29/9978ad914a6ba3b696ae59f53459/ap21077605779705-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Shades of 2016: Republicans Stay Silent on Trump, Hoping He Fades Away"
     excerpt: "Trump was a candidate in 2016, rival Republicans are trying to avoid becoming the target of his attacks or directly confronting him, while hoping someone else will. Many Republicans have privately expressed hope that former President Donald J."
@@ -189,6 +189,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408162354-01-matt-gaetz-file-restricted-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Florida's Trump country stands with Gaetz"
+    excerpt: "“I believe this is nothing more than fake news,” said Larry Hetu, a Gulf Breeze activist who is part of a group trying to get a local bridge renamed after former President Donald Trump. “I don’t believe anything coming from the mainstream medi"
+    publishedDateTime: 2021-04-05T23:51:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2021/04/05/floridas-trump-country-stands-with-gaetz-1371745"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/37/5f/44583dbc49499b2763024498ce9c/210405-matt-gaetz-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "ykc2zE7xjI6BLuZKXB8OD2aXC4TA7suNRXzzhaqqesgaLj/AuFjtZSOXCazpee12KQ6PPj8qMs1sAbnswyzvYyCgExXwp4Hu5pb6jU+wplSj9ZVNCvhoDuhMcXxJGfdNGwi/3bG/HjKgz7Di6y/e0ToQ108WsCcTvAAkKBe0J66QF/muNL5jm2YWlI6fUieXDaQT85S2dw1a5dy38C7lrPrVoTX8jCnsr05jhwz21SGEE5yVXzYljqzLKFOx9hwxrGgycH4Frzg7kMqhZ1aht2T1n/q0C/Lgc5tWj+iLgX0N1YSh1dtv7qC1dS5iGE5A2ZFHri1+o/q2u7nPs2CxC0x0cWJYv25mIjIoCkLWIzw=;LoZ7evzQT+FHCt45fK95fA=="

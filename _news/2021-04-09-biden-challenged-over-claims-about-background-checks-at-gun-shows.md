@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Progressives ramp up pressure on Biden to forgive student loan debt"
+    excerpt: "Progressives are ramping up the pressure on President Biden to forgive student debt relief as Education Secretary Miguel Cardona investigates the administration's legal authority."
+    publishedDateTime: 2021-04-05T16:38:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EW1dYAUoWyE/biden-cancel-student-debt-50000-progressive-pressure"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cancel-student-debt-50000-progressive-pressure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cancel-student-debt-50000-progressive-pressure.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden5.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Hunter Biden employs a 'Don’t remember' defense on book tour"
     excerpt: "Hunter Biden’s new memoir \"Beautiful Things\" and its ensuing promotional tour have been marked with frankness and self-effacement when it comes to his past struggles with addiction — while that same drug use has been drawn upon to support claims of forgetfulness when it comes to other scandals."
     publishedDateTime: 2021-04-07T14:10:40Z
@@ -80,22 +96,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "El Salvador president refuses to meet with Biden envoy on immigration crisis"
-    excerpt: "El Salvador’s President Nayib Bukele refused to meet with a visiting senior U.S. diplomat this week over what he sees as a pattern of slights from Democrats and the Biden administration, according to two aides of the Central American leader."
-    publishedDateTime: 2021-04-08T20:35:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wso7x-_6DJ8/el-salvador-president-refuses-to-meet-with-biden-envoy-on-immigration-crisis-sources-say"
-    ampWebUrl: "https://www.foxnews.com/politics/el-salvador-president-refuses-to-meet-with-biden-envoy-on-immigration-crisis-sources-say.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/el-salvador-president-refuses-to-meet-with-biden-envoy-on-immigration-crisis-sources-say.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65de96da-f543-4865-a9c9-92eb3c5e2d16/f46278d2-4dc8-479d-af48-2112da2131dc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Inside Biden White House's ties to dark money group seeking to pack Supreme Court"
     excerpt: "Both White House press secretary Jen Psaki and President Biden's judicial nomination point person Paige Herwig previously worked for Demand Justice."
     publishedDateTime: 2021-04-08T13:54:12Z
@@ -111,52 +111,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Jen-Psaki-Border-Crisis-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Hunter Biden details 2019 family drug intervention a month before father announced presidential campaign"
-    excerpt: "In his forthcoming book \"Beautiful Things,\" Hunter Biden delves into his struggles with addiction, including a dramatic intervention that his family staged for him in March 2019."
-    publishedDateTime: 2021-04-05T11:46:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a18JaI0kvws/hunter-biden-2019-family-drug-intervention-presidential-campaign"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-2019-family-drug-intervention-presidential-campaign.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-2019-family-drug-intervention-presidential-campaign.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden pushed to make sure budget funds ICE amid border crisis"
-    excerpt: "EXCLUSIVE: Sen. Bill Hagerty, R-Tenn., is urging President Biden to increase funding for Immigration and Customs Enforcement (ICE) to help deal with the effects of the current crisis at the southern border, warning the president against political pressure to defund the agency."
-    publishedDateTime: 2021-04-05T16:17:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H-evmaZ58nY/biden-pushed-to-make-sure-budget-funds-ice-amid-border-crisis"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e816be2f-6bb3-43ae-a134-4cfd129e8efe/76f99408-2bd3-48dc-ba7e-9a89654bd9dc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "States Fight Back Against Biden War on the West"
-    excerpt: "This brings us to President Joe Biden. No president in modern times, perhaps ever, has shown such contempt for our system of federalism. So I was thrilled to see this headline from, of all places, Alaska: \"Dunleavy Tells Feds Alaska Is Taking Over ..."
-    publishedDateTime: 2021-04-06T09:32:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/539741_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "TlHQ4nDzIv4e7KJNAbS/A0oCIpmW4ZjwWf5EJfX+199E6+80gW0r8H8DtKPpkj6Gn5sbsFBM/P5bhZhGqPpHdTPzW9+JtqNz3IPH8+BvMWb2KAmPLP1ic0r8lmTr8rrUzzRiGmEmlaTM23UrjE4AflKF9EK7A0/WV8Xtebf4v12sR2uAqmfHAhfbO851ri0pBBcj7kSnX/lmXsPGw0XX6tmqLlOgt7P89gdYsVN+Hc4I2o93rQ1HO18ixGBwGu4b6vvMxh+jwmyq9338QKqpucuSB+Dx0M0fzQLzBY4FfMHEj75CeJ8eNErrcw0PnzkW2+CIlbYABuhkfjC38h4LrYK00ahCeYFtqF4QMjYPNjc=;n421Ebx6gKRatcU/Rucjsw=="

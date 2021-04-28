@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Taliban attack on covert US base in Afghanistan complicates Biden withdrawal decision"
+    excerpt: "In one of the most significant attacks against US forces in Afghanistan recently, CNN has learned that the Taliban twice targeted one of the most heavily guarded bases in the country late last month and that US military personnel working for the CIA were at the installation when it came under fire.\n"
+    publishedDateTime: 2021-04-08T10:08:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t0HhDMgYxOk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/taliban-attack-afghanistan-covert-base-biden-withdrawal-decision/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/taliban-attack-afghanistan-covert-base-biden-withdrawal-decision/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217164612-01-milley-taliban-meeting-1217-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's plans to withdraw US troops from Afghanistan splits Congress -- but not just on party lines"
     excerpt: "President Joe Biden's decision to withdraw US troops from Afghanistan by September 11 -- the twentieth anniversary of the September 11, 2001, terrorist attacks -- prompted a split on Capitol Hill among both Republicans and Democrats, creating some strange bedfellows over what to do about America's longest"
     publishedDateTime: 2021-04-13T19:12:19Z

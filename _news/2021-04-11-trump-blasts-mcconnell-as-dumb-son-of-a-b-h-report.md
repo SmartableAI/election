@@ -43,118 +43,6 @@ related:
         width: 1440
         height: 951
         isCached: true
-  - title: "McConnell says he'll vote to acquit Trump"
-    excerpt: "Senate GOP Leader Mitch McConnell (Ky.) said Saturday that he will vote to acquit former President Trump, ending weeks of speculation about what he would do."
-    publishedDateTime: 2021-02-13T14:56:00Z
-    webUrl: "https://thehill.com/homenews/senate/538730-mcconnell-says-hell-vote-to-acquit-trump"
-    ampWebUrl: "https://thehill.com/homenews/senate/538730-mcconnell-says-hell-vote-to-acquit-trump?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538730-mcconnell-says-hell-vote-to-acquit-trump?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/mcconnellmitch_020821gn2_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "McConnell responds to critics after voting to acquit Trump"
-    excerpt: "Ky., is defending his decision to acquit former President Donald Trump and hitting back at criticisms he stalled the trial."
-    publishedDateTime: 2021-02-16T23:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/mcconnell-responds-critics-voting-acquit-trump/story?id=75924352"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/mcconnell-responds-critics-voting-acquit-trump/story?id=75924352"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnell-responds-critics-voting-acquit-trump/story?id=75924352"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/General/impeachment-president-donald-trump-07-gty-llr-210212_1613173401641_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump lashes out at McConnell in deepening feud between top Republicans"
-    excerpt: "Former President Donald Trump lashed out at Senate Minority Leader Mitch McConnell on Tuesday, signaling a growing feud between the two most senior Republican voices after the party lost the White House and control of the Senate."
-    publishedDateTime: 2021-02-17T11:07:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-mcconnell-idUSKBN2AG2LL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG2LL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG2LL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551774169&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F1KA"
-        width: 900
-        height: 545
-        isCached: true
-  - title: "Trump slams McConnell as GOP divide deepens post-impeachment"
-    excerpt: "Former President Donald Trump has issued a blistering statement denouncing the top Republican in the Senate, Mitch McConnell, as a “political hack” who will make sure the party “will not win again.”"
-    publishedDateTime: 2021-02-17T00:51:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment/2021/02/16/451fa99e-70b9-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump targets Republican leader McConnell"
-    excerpt: "\"Mitch is a dour, sullen, and unsmiling political hack,\" said Mr Trump, \"and if Republican Senators are going to stay with him, they will not win again.\" Mr McConnell, who led the Senate for years, voted to acquit Mr Trump in his impeachment trial last week."
-    publishedDateTime: 2021-02-16T22:41:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-56092781"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56092781"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56092781"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/151A8/production/_117004468_mm.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Trump-McConnell feud threatens Republicans' path to power"
-    excerpt: "Former President Donald Trump is stepping up a political war within the Republican Party that could undermine the GOP’s ability to fight President Joe Biden’s agenda and ultimately return the party to"
-    publishedDateTime: 2021-02-18T07:25:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-mcconnell-feud-threatens-republicans-path-power-75964237"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-mcconnell-feud-threatens-republicans-path-power-75964237"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-mcconnell-feud-threatens-republicans-path-power-75964237"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_6116e03690dd4b53a93d6e2b3dfc7239_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "McConnell says he'd support Trump if he wins 2024 nomination"
-    excerpt: "Less than a month after excoriating Donald Trump in a blistering floor speech, Senate Minority Leader Mitch McConnell now says he would “absolutely” support the former president again if he secured th"
-    publishedDateTime: 2021-02-26T04:06:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/mcconnell-hed-support-trump-wins-2024-nomination-76125920"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mcconnell-hed-support-trump-wins-2024-nomination-76125920"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mcconnell-hed-support-trump-wins-2024-nomination-76125920"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e175ee42a4384abd84202cd19ea387dc_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump rips McConnell in speech to Republicans"
     excerpt: "Former President Trump reportedly tore into Senate Minority Leader Mitch McConnell during a gathering Saturday evening, condemning the Kentucky Republican for not doing more to overturn the results of the 2020 election."
     publishedDateTime: 2021-04-11T11:31:00Z
@@ -219,22 +107,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump lashes out after McConnell blames him for Capitol insurrection – live"
-    excerpt: "Senate minority leader has said Trump is ‘practically and morally’ responsible for US Capitol attack"
-    publishedDateTime: 2021-02-17T00:37:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates?page=with:block-602c3e0f8f08cafb5cc2b40f"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/475dbe7596faf3929ebdabf81ba12067019b7079/0_178_5416_3248/master/5416.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4d09134bff3768078bd89a05f64340d5"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Zeus of Twitter or mouse of Mar-a-Lago? Republicans court Trump in Florida"
     excerpt: "Donald Trump was scheduled to speak on Saturday at a Republican National Committee event held at his Mar-a-Lago resort, amid a weekend of summits and dinners in the former president’s corner of Florida. The Republican rush to court Trump – and to pay ..."
     publishedDateTime: 2021-04-10T14:15:00Z
@@ -283,22 +155,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump attacks McConnell as ‘political hack,’ says he will back pro-Trump candidates"
-    excerpt: "The lengthy and personal diatribe escalated a growing rift in the GOP about whether it will be controlled by pro-Trump forces or those viewed as more traditional Republicans."
-    publishedDateTime: 2021-02-17T07:51:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-republican-primaries/2021/02/16/2e37b07e-7072-11eb-93be-c10813e358a2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-republican-primaries/2021/02/16/2e37b07e-7072-11eb-93be-c10813e358a2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-mcconnell-republican-primaries/2021/02/16/2e37b07e-7072-11eb-93be-c10813e358a2_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/55AQ3LDOJMI6XHVNM4YWRVNYOQ.jpg&w=1440"
-        width: 1072
-        height: 667
-        isCached: true
   - title: "Mitch McConnell Doesn't Want to Escalate Feud After Trump Called Him 'Stone Cold Loser'"
     excerpt: "Senate Minority Leader Mitch McConnell of Kentucky chose not to escalate tensions between himself and former President Donald Trump when asked about Trump's recent insults towards him. Trump called McConnell a \"dumb son of a bitch\" and a \"stone-cold loser ..."
     publishedDateTime: 2021-04-14T03:38:00Z
@@ -314,22 +170,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1777388/mcconnell-trump-loser-comment-response-rnc-speech.jpg"
         width: 3108
         height: 2072
-        isCached: true
-  - title: "Republican McConnell proposes Trump get two weeks to prepare for Senate impeachment trial"
-    excerpt: "U.S. Senate Republican leader Mitch McConnell on Thursday proposed a timeline that would delay the start of the Senate impeachment trial of former President Donald Trump until mid-February."
-    publishedDateTime: 2021-01-22T04:17:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-senate/republican-mcconnell-proposes-trump-get-two-weeks-to-prepare-for-senate-impeachment-trial-idUSKBN29Q33P"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q33P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q33P"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548643474&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1RD"
-        width: 817
-        height: 545
         isCached: true
   - title: "Adam Kinzinger Blasts Trump for Insulting McConnell at GOP Donor Retreat: 'Classy as Always'"
     excerpt: "Illinois Republican Congressman Adam Kinzinger criticized former President Donald Trump for insulting Senate Minority Leader Mitch McConnell at a GOP retreat over the weekend. \"Classy as always. I remember when my fellow Republicans would have condemned ..."
@@ -395,22 +235,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "A McConnell-Backed Trump Conviction Is Just Fantasy"
-    excerpt: "Conviction in Trump’s impeachment trial was always a long shot. Now momentum is waning, as GOP senators aren’t onboard and McConnell won’t herd them."
-    publishedDateTime: 2021-01-21T18:57:00Z
-    webUrl: "https://nymag.com/intelligencer/article/mcconnell-trump-conviction-just-fantasy.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/article/mcconnell-trump-conviction-just-fantasy.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/mcconnell-trump-conviction-just-fantasy.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/dde/038/bd4c60c0dce402fd6be1a0dac9e2e8e396-Mitch-McConnell.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
-        isCached: true
   - title: "Senate Republicans Create New ‘Annual’ Award, Give It to Trump"
     excerpt: "On Saturday night, Donald Trump embarrassed Republican donors by delivering a rambling, grievance-laden speech that attacked Senate Minority Leader Mitch McConnell as a “dumb son of a bitch.”"
     publishedDateTime: 2021-04-12T15:20:00Z
@@ -442,22 +266,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "Matt Gaetz Update: Republican Congressman Wanted Pardon From Trump, Didn't Get It"
-    excerpt: "The New York Times on Wednesday reported that weeks before the end of Donald Trump's presidential term, Rep. Matt Gaetz, R-Fla., privately requested a blanket preemptive pardon, exacerbating recent allegations against Gaetz for sexual misconduct with a 17 ..."
-    publishedDateTime: 2021-04-07T19:35:00Z
-    webUrl: "https://www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534"
-    ampWebUrl: "https://www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/24/matt-gaetz-a-us-congressman-from-florida-addressed.jpg"
-        width: 1024
-        height: 534
         isCached: true
   - title: "Trump to give keynote speech at RNC donor retreat Saturday — right near his Mar-a-Lago club"
     excerpt: "Former President Donald Trump will be delivering the keynote speech at the Republican National Committee donor retreat on Saturday — and he won’t have to go far. The private donor event is being held at a hotel just a few miles from Trump’s Mar-a ..."

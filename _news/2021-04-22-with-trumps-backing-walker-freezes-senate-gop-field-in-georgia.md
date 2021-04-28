@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/22/politics/georgia-senate-race-2022
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/georgia-senate-race-2022-herschel-walker-donald-trump/index.html"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 335
+published: true
 
 provider:
   name: CNN
@@ -31,99 +31,127 @@ images:
     isCached: true
 
 related:
-  - title: "Georgia Republicans reassign GOP lawmakers who supported Trump's election fraud claims"
-    excerpt: "Georgia Republicans have reassigned three fellow GOP lawmakers who backed baseless allegations of voter fraud related to the November presidential election.\n    \n"
-    publishedDateTime: 2021-01-14T22:24:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bQk1jeke6AA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/georgia-republicans-election-fraud-claims-reassigned/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/georgia-republicans-election-fraud-claims-reassigned/index.html"
+  - title: "Fulton County DA has grown frustrated with Georgia Secretary of State's office cooperation in Trump probe, source says"
+    excerpt: "Investigators in Fulton County District Attorney Fani Willis' office have grown frustrated with the level of cooperation they are receiving from staffers in the Georgia Secretary of State's office regarding a probe into former President Donald Trump's efforts to influence the 2020 election, according"
+    publishedDateTime: 2021-04-23T21:35:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r7Rp_QUafiA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/georgia-trump-2020-election-probe-fulton-county/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/georgia-trump-2020-election-probe-fulton-county/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 182
+    quality: 151
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190312141705-georgia-state-capitol-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210423171013-fani-willis-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "These 10 House Republicans voted to impeach Trump on Wednesday"
-    excerpt: "The House of Representatives voted to impeach President Donald Trump on Wednesday afternoon charging him with \"incitement of insurrection.\" Among the vote were 10 House Republicans. That includes:\n    \n"
-    publishedDateTime: 2021-01-13T22:17:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p0L3sP79o1o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/house-republicans-vote-yes-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/house-republicans-vote-yes-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113171228-10-gop-impeachment-vote-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump endorses GOP primary rival to Georgia Republican secretary of state"
-    excerpt: "Former President Donald Trump endorsed GOP Rep. Jody Hice for Georgia Secretary of State on Monday, after attacking incumbent Republican Brad Raffensperger for overseeing his loss in the state last year.\n    \n"
-    publishedDateTime: 2021-03-22T14:19:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qs-0jG_LkTA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/22/politics/trump-endorses-jody-hice-georgia-secretary-of-state-gop-primary/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/22/politics/trump-endorses-jody-hice-georgia-secretary-of-state-gop-primary/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210322101010-hice-trump-raffensperger-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Georgia Officials Reveal Third Trump Call Seeking to Influence Election Results"
-    excerpt: "In a December call, President Trump told a Georgia elections investigator that the official would be a “national hero” for finding evidence of fraud."
-    publishedDateTime: 2021-01-09T20:23:00Z
-    webUrl: "https://www.nytimes.com/2021/01/09/us/georgia-presidential-election-results.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/09/us/georgia-presidential-election-results.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/09/us/georgia-presidential-election-results.amp.html"
+  - title: "Vernon Jones, a Pro-Trump Republican, Will Challenge Kemp in Georgia"
+    excerpt: "Vernon Jones, a Democrat-turned Republican and onetime state representative who has called Georgia’s presidential election “fixed,” will oppose Gov. Brian Kemp, one of Donald Trump’s top targets."
+    publishedDateTime: 2021-04-15T20:25:00Z
+    webUrl: "https://www.nytimes.com/2021/04/15/us/vernon-jones-georgia-brian-kemp.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/15/us/vernon-jones-georgia-brian-kemp.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/15/us/vernon-jones-georgia-brian-kemp.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 146
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/01/09/lens/09trump-ga-vote-photo1/merlin_180018675_4faa2d36-51fc-4c58-a49e-3781d99757b4-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/04/13/us/politics/00VernonJonesGeorgia/00VernonJonesGeorgia-facebookJumbo.jpg"
         width: 1050
-        height: 549
+        height: 550
         isCached: true
-  - title: "Poll: Just 8 percent of Republicans support Trump's impeachment and removal"
-    excerpt: "Fifty percent of Americans overall agree the president should be impeached and removed for inciting Capitol riot, a new NBC News poll finds."
-    publishedDateTime: 2021-01-15T08:18:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/nbc-news-poll-voters-are-split-trump-s-impeachment-removal-n1254314"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254314"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254314"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3442146/210114-donald-trump-ew-336p_368b08310f4eb32a61c988ac9d247208.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "AOC: GOP lawmakers fearful of threats if they impeach Trump are privileged"
-    excerpt: "Cortez said Wednesday that Republicans fearful of casting a vote to impeach President Donald Trump are privileged to not face more regular threats for their work on Capitol Hill. House Democrats have signaled in recent days that their Republican colleagues are fearful that a vote to impeach the president might incur threats against themselves and their families."
-    publishedDateTime: 2021-01-13T18:53:00Z
-    webUrl: "https://www.politico.com/news/2021/01/13/aoc-privilege-death-threats-gop-lawmakers-impeach-trump-458953"
+  - title: "North Carolina primary field builds, with or without Lara Trump"
+    excerpt: "Former North Carolina Gov. Pat McCrory participates in a University of North Carolina Institute of Politics forum in Chapel Hill The Republican Senate primary in North Carolina has been essentially frozen for months as Lara Trump,"
+    publishedDateTime: 2021-04-17T11:00:00Z
+    webUrl: "https://www.politico.com/news/2021/04/17/north-carolina-republican-primary-field-482516"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/17/north-carolina-republican-primary-field-482516"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/17/north-carolina-republican-primary-field-482516"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 113
+    quality: 135
     images:
-      - url: "https://static.politico.com/b7/50/9c26a6e4454cad68e55185d8957a/180916-ocasio-cortez-ap-773.jpg"
+      - url: "https://static.politico.com/ac/2c/745efc2e4e32bc85d4f4f72f916c/ap21103646740883.jpg"
+        width: 4371
+        height: 2912
+        isCached: true
+  - title: "Trump's fight with Murkowski roils GOP with new Alaska Senate challenger emerging"
+    excerpt: "The first major GOP rift in the post-Trump era centers on Alaska Sen. Lisa Murkowski, the maverick Republican who has the strong backing of GOP leaders in Washington but has been targeted for defeat by former President Donald Trump and his closest confidantes over her vote to convict him for inciting the January 6 attack on the US Capitol."
+    publishedDateTime: 2021-04-19T11:01:00Z
+    webUrl: "https://www.cnn.com/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/alaska-senate-race-2022-lisa-murkowski-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 130
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416231950-tump-murkowski-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "A Trump-McConnell power struggle creates landmines in GOP quest to retake Congress"
+    excerpt: "It’s forcing congressional leadership to tread lightly and avoid setting off an explosion that does real damage to the party."
+    publishedDateTime: 2021-04-22T20:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/trump-mcconnell-power-struggle-creates-landmines-gop-quest-retake-congress-n1264216"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264216"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264216"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_15/3465028/210415-trump-mcconnell-jm-1432_f47bdedc9477cb88b301dfb643e269a2.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "This pro-Trump Latino wants to lead Virginia"
+    excerpt: "Now, de la Peña, 65, who never sought elective office before, is using his life story to connect with voters as he seeks to become Virginia’s first ever Latino governor. He faces a crowded primary, which the Republican Party of Virginia will hold next month in an unassembled convention."
+    publishedDateTime: 2021-04-16T17:02:00Z
+    webUrl: "https://www.politico.com/newsletters/the-recast/2021/04/16/latino-trump-virginia-sergio-de-la-pena-492502"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/6f/30/8635360e44c49f7a766287c92f14/sergio-de-la-pena.png"
+        width: 700
+        height: 466
+        isCached: true
+  - title: "POLITICO Playbook: GOP struggles with how to handle Trumpism — and Trump"
+    excerpt: "In her statement, sheONALD TRUMP, which are steeped in white identity politics — and that could make this situation a bit sticky for McCarthy to handle. It’s all a big reminder that GOP leadership is still unsure how to handle both Trump and Trumpism."
+    publishedDateTime: 2021-04-18T15:11:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/04/18/gop-struggles-with-how-to-handle-trumpism-and-trump-492508"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 114
+    images:
+      - url: "https://static.politico.com/76/b6/b7daf8e84b9a8c1e2d0613fdb84a/gettyimages-1230985238.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "ILLINOIS GOP’s ASTERISK — FIRST AD for 2022 CYCLE — REMAP MAY HAVE A TRUMP FACTOR"
+    excerpt: "The Illinois GOP has never been a fundraising juggernaut, and yet the first quarter numbers were still pretty bleak. For the first quarter, Illinois GOP reported receiving a little more than $115,000 in donations,"
+    publishedDateTime: 2021-04-19T12:21:00Z
+    webUrl: "https://www.politico.com/newsletters/illinois-playbook/2021/04/19/illinois-gops-asterisk-first-ad-for-2022-cycle-remap-may-have-a-trump-factor-492515"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 110
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "XuTbbEyZ/+sQ0pql8kZoCn59dxz5+WhowNjPpnmQ5gIWzMyG1clU4U1oPs61jXCFLUHUzj3Kak1YOqXikvcfEjOhSOwiru4jWG2DGLu4+TQXMW/Al+ou3FLUhjFQc/5CTLmOAMl/lcmyddhOtBnIZYz0GO2ar85pXI2viLskRMpyJ6RsANnLldP6jeQ5Ds9bzC9JEt248K9emNcl6teEG9xPeOKaAkGeTDMH1NqkfsiWAMnMj6U/Aem+PY91eoj2FBAVb31jytf0mGCOI6ikK9u7e+Al0PHXSlpXQGTq+QnaslXVL0P80nWr9Kqj4ENaW+ce5V0yKbJDkhIXpb0/xQ34x0DDiPDxIkgI/6kLTFo=;KakHB9y5z9jW8F2j/7bwOQ=="

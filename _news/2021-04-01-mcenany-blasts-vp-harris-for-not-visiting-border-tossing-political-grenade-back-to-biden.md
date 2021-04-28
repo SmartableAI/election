@@ -32,83 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "White House lists ‘Biden-Harris administration’ on official website"
-    excerpt: "The White House, breaking with tradition, now lists the “Biden-Harris Administration” on its website rather than simply, “the Biden Administration.”"
-    publishedDateTime: 2021-03-29T00:13:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/azyRyJ0e1IQ/white-house-lists-biden-harris-administration-on-official-website"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-lists-biden-harris-administration-on-official-website.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-lists-biden-harris-administration-on-official-website.amp"
+  - title: "Mayorkas -- not Biden or Harris -- heading to Texas border towns Thursday"
+    excerpt: "U.S. Homeland Security Secretary Alejandro Mayorkas will travel to two Texas border towns Thursday, according to reports."
+    publishedDateTime: 2021-04-08T03:51:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RvCUqkIT1Uw/mayorkas-biden-harris-texas-border"
+    ampWebUrl: "https://www.foxnews.com/politics/mayorkas-biden-harris-texas-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-biden-harris-texas-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 200
+    quality: 199
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-Harris-Administration.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21091647660858.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Psaki: Biden, Harris don’t have to restrict nonessential travel because they use private planes"
-    excerpt: "White House press secretary Jen Psaki on Monday said President Biden and Vice President Kamala Harris are not required to restrict nonessential travel, as recommended by the Centers for Disease Control and Prevention, because they travel on private planes."
-    publishedDateTime: 2021-03-29T18:24:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q-UCQtdW45o/psaki-biden-harris-non-essential-travel-private-plane"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-harris-non-essential-travel-private-plane.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-harris-non-essential-travel-private-plane.amp"
+  - title: "Burgess Owens tells Biden, Harris to 'get some backbone,' visit border region"
+    excerpt: "Rep. Burgess Owens, R-Utah, called on President Biden and Vice President Kamala Harris to \"get some backbone\" and visit the border amid a surge in migrant crossings, according to reports."
+    publishedDateTime: 2021-04-08T06:40:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jOzpWaR_YHk/burgess-owens-tells-biden-harris-to-get-some-backbone-visit-border-region"
+    ampWebUrl: "https://www.foxnews.com/politics/burgess-owens-tells-biden-harris-to-get-some-backbone-visit-border-region.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/burgess-owens-tells-biden-harris-to-get-some-backbone-visit-border-region.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 188
+    quality: 197
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Psaki explains ‘Biden-Harris administration’ branding meant to emphasize VP’s 'important role'"
-    excerpt: "Press secretary Jen Psaki said the current White House website refers to the \"Biden-Harris\" administration to underscore the vice president’s \"important role.\" "
-    publishedDateTime: 2021-03-30T20:31:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R7MOPFPGGdA/psaki-biden-harris-administration-branding-emphasize-vps-important-role"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-harris-administration-branding-emphasize-vps-important-role.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-harris-administration-branding-emphasize-vps-important-role.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 188
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-Harris-Administration.png?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Nikki Haley hits Kamala Harris over past comparison of ICE to KKK"
-    excerpt: "Former U.N. Ambassador Nikki Haley on Friday took aim at Vice President Kamala Harris, saying that she can’t be trusted to deal with the border crisis, citing a 2018 comparison the then-senator made between Immigration and Customs Enforcement (ICE) and the Ku Klux Klan."
-    publishedDateTime: 2021-03-26T18:26:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AG9duI3EtEw/nikki-haley-kamala-harris-compare-ice-kkk"
-    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-kamala-harris-compare-ice-kkk.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-kamala-harris-compare-ice-kkk.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e70f7eab-30f9-4370-8a08-1d5f7866da5e/21b78449-660b-402c-920f-5e3981c084f4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Vice President Harris is “not doing the border,” senior adviser says"
-    excerpt: "President Biden has tasked Vice President Harris with addressing the root causes of mass migration from Central America – but she will not be handling southern border policy in general, a top aide said."
-    publishedDateTime: 2021-03-26T22:52:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LlbePye8Cpc/vp-harris-senior-advisor-says-vp-is-not-doing-the-border"
-    ampWebUrl: "https://www.foxnews.com/politics/vp-harris-senior-advisor-says-vp-is-not-doing-the-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-harris-senior-advisor-says-vp-is-not-doing-the-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07a16b5c-f8a1-4cfa-9171-5fc1bb840614/be870502-27dc-48d2-acc0-7ca18e861c89/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25765ca5-95d1-44bd-828f-9e689aac6cea/b5b7fab8-d56e-482d-97e5-1316f522bb1c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -128,53 +80,69 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden now calls filibuster ‘a relic of the Jim Crow era’ but Kamala Harris is among Dems who have embraced it"
-    excerpt: "Multiple times through the years Vice President Harris and many other Democrats have embraced the legislative filibuster, which sets a 60-vote hurdle in the Senate for any bills to make it to a final roll call. "
-    publishedDateTime: 2021-03-26T16:44:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fj1E9XOjFpM/biden-filibuster-kamala-harris-democrats-embraced-it"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-filibuster-kamala-harris-democrats-embraced-it.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-filibuster-kamala-harris-democrats-embraced-it.amp"
+  - title: "Kamala Harris lists DC condo for $2M as she moves into VP residence"
+    excerpt: "Since her inauguration, Vice President Kamala Harris has been living at Blair House, across the street from the White House, while the U.S. Naval Observatory—the traditional home of the vice president—undergoes renovations. Now Ms. Harris’s former home in Washington, D.C.—a condo at the Westlight complex"
+    publishedDateTime: 2021-04-06T16:08:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Ad52T6xzNE/kamala-harris-lists-dc-condo-for-2m-after-moving-into-vp-residence"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-lists-dc-condo-for-2m-after-moving-into-vp-residence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-lists-dc-condo-for-2m-after-moving-into-vp-residence.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 181
+    quality: 185
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f030aca-6c3c-4a44-9e4d-a4cd720a069e/e04488f9-3cb5-4496-b6a4-2ce89d78a3bb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Kamala Harris will play 'diplomatic' role in migration crisis, White House says"
-    excerpt: "Vice President Kamala Harris will play a \"diplomatic\" role in addressing the migrant surge at the U.S. southern border, White House officials said Monday."
-    publishedDateTime: 2021-03-29T23:31:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/diroO699Xds/kamala-harris-border-migration-crisis-diplomatic-role"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-border-migration-crisis-diplomatic-role.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-border-migration-crisis-diplomatic-role.amp"
+  - title: "VP Harris visits Chicago bakery even as border crisis escalates"
+    excerpt: "Vice President Kamala Harris on Tuesday visited a bakery in Chicago, coming away with a piece of German chocolate cake -- even as she faces scrutiny for not having visited the overwhelmed southern border."
+    publishedDateTime: 2021-04-07T14:15:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yogec93Pz4o/harris-visits-chicago-bakery-border-crisis-escalates"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-visits-chicago-bakery-border-crisis-escalates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-visits-chicago-bakery-border-crisis-escalates.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 181
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Kamala-Harris-Chicago-Bakery-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "White House defends Kamala Harris' travel after visiting places other than border"
+    excerpt: "The White House on Wednesday defended Vice President Kamala Harris' travel, as she faces scrutiny for not having visited the overwhelmed southern border, amid her latest assignment from President Biden to handle the \"root causes\" of the surge in migration in recent months."
+    publishedDateTime: 2021-04-07T19:48:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/USMfGs-g8Ss/white-house-defends-kamala-harris-travel-no-border-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-defends-kamala-harris-travel-no-border-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-defends-kamala-harris-travel-no-border-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Kamala Harris yet to hold press briefing despite key role in addressing border crisis"
-    excerpt: "Vice President Kamala Harris still hasn’t held a formal press briefing since taking office, even after President Biden tapped her to lead diplomatic efforts to solve the border crisis."
-    publishedDateTime: 2021-03-29T22:19:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sBJlO8A8RiM/kamala-harris-immigration-crisis-border-press-briefing"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-immigration-crisis-border-press-briefing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-immigration-crisis-border-press-briefing.amp"
+  - title: "Devine: Kamala Harris needs to see firsthand that 'open border' policies don't work"
+    excerpt: "Vice President Kamala Harris should visit the southern border immediately to see for herself that \"open border\" policies do not work, Fox News contributor Miranda Devine said Monday, arguing President Biden is \"passing the buck\" on the crisis that has unfolded. "
+    publishedDateTime: 2021-04-12T16:10:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sLVhp_jK4VY/devine-kamala-harris-firsthand-open-border-dont-work"
+    ampWebUrl: "https://www.foxnews.com/politics/devine-kamala-harris-firsthand-open-border-dont-work.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/devine-kamala-harris-firsthand-open-border-dont-work.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 178
+    quality: 179
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c2f9c69-23fa-4f50-aa77-aae068bf1b33/8310c11f-201b-4b53-b93e-d35d649bb177/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Christian minister sues Pelosi, Harris for access to Capitol grounds for Good Friday"
     excerpt: "A Presbyterian minister is suing House Speaker Nancy Pelosi, Vice President Kamala Harris, the U.S. Capitol Police Board, and the Senate Sergeant at Arms, claiming that the continued presence of a fence blocking off the area surrounding the Capitol building is violating his First Amendment rights."
@@ -192,245 +160,179 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden admin ignored warning signs that border could spiral into crisis"
-    excerpt: "The Biden administration ignored warning signs about an impending crisis at the U.S. southern border."
-    publishedDateTime: 2021-03-22T18:02:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d7H_NZZ-VO8/biden-administration-warning-signs-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-warning-signs-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-warning-signs-border-crisis.amp"
+  - title: "Biden to hold first Cabinet meeting Thursday"
+    excerpt: "President Biden will hold his first Cabinet meeting Thursday, one week after the full group was confirmed. "
+    publishedDateTime: 2021-03-31T19:25:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NWtzQKL-j1s/biden-to-hold-first-cabinet-meeting-thursday"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-hold-first-cabinet-meeting-thursday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-hold-first-cabinet-meeting-thursday.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21080583251227-1.jpg?ve=1&tl=1"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/a28ec76d-AP21078563714221.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden expected to announce executive actions on gun control Thursday"
+    excerpt: "President Biden will announce new executive action on gun control on Thursday, White House press secretary Jen Psaki indicated Wednesday. "
+    publishedDateTime: 2021-04-07T18:26:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MGloVJ9n1JI/biden-executive-actions-gun-control"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-executive-actions-gun-control.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-actions-gun-control.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20302627306817-e1603909536701.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rep. Malliotakis: 'Biden has turned over our border to the cartels'"
+    excerpt: "New York Rep. Nicole Malliotakis blasted President Biden for causing a \"inhumane and horrible\" border crisis after she traveled to Texas for a first-hand look."
+    publishedDateTime: 2021-04-10T18:12:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ot309uZF2R0/nicole-malliotakis-biden-border-cartels"
+    ampWebUrl: "https://www.foxnews.com/politics/nicole-malliotakis-biden-border-cartels.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nicole-malliotakis-biden-border-cartels.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/migrants.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden's dog Major bites another White House employee"
-    excerpt: "President Biden’s dog Major on Monday afternoon bit another employee, who then required medical attention."
-    publishedDateTime: 2021-03-30T20:56:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FnHspLYEgKc/bidens-dog-major-bites-white-house-employee"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-dog-major-bites-white-house-employee.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-dog-major-bites-white-house-employee.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/GettyImages-1232008114.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden dog poops on White House floor"
-    excerpt: "A pool report on Wednesday detailed a rather unusual event at the White House, which the late painter Bob Ross would not refer to as a \"happy little accident.\""
-    publishedDateTime: 2021-03-31T18:48:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V3h4pzUUeDI/biden-dogs-major-champ-poop-white-house-floor"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-dogs-major-champ-poop-white-house-floor.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dogs-major-champ-poop-white-house-floor.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cca4008a-2a4d-4d2e-bc85-ae6be0f4aa54/91363c3b-dcac-4a27-8d1e-db22371f392e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden to invite rivals Putin, Xi to first big climate talks of administration"
-    excerpt: "President Biden said he will invite Russia and China to the administration’s first big talks on climate change in an Earth-Day summit next month."
-    publishedDateTime: 2021-03-26T20:38:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-tVVjsXfLdE/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-invite-rivals-putin-jinping-to-first-big-climate-talks-of-admin.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07a16b5c-f8a1-4cfa-9171-5fc1bb840614/be870502-27dc-48d2-acc0-7ca18e861c89/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Texas mayor refutes Biden administration claim that border is closed and secure"
-    excerpt: "Laredo, Texas Mayor Pete Saenz refuted Homeland Security Secretary Alejandro Mayorkas' and President Biden's claim that the U.S.-Mexico border was closed and secure in an interview Monday."
-    publishedDateTime: 2021-03-22T16:29:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ypn3PC8FWGM/texas-mayor-biden-border-closed-secure-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-mayor-biden-border-closed-secure-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-mayor-biden-border-closed-secure-crisis.amp"
+  - title: "Kamala Harris has gone 7 days since being tapped for border crisis role without a press conference"
+    excerpt: "Vice President Kamala Harris was tasked last week with leading efforts to address migration to the southern border, where the nation is facing what's been described as a \"humanitarian crisis\" amid a surge in migrants coming to the U.S."
+    publishedDateTime: 2021-03-31T19:13:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yRD1nTfgEN0/kamala-harris-no-press-conference-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/kamala-harris-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Texas nonprofit lands huge contract after hiring former Biden official: report"
+    excerpt: "Family Endeavors, a nonprofit in Texas, won a contract worth up to $530 million to help the Biden administration during the crisis unfolding along the southern border, according to a report."
+    publishedDateTime: 2021-04-14T05:46:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDu2YcBIVKI/texas-nonprofit-lands-huge-contract-after-hiring-biden-official-report"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-nonprofit-lands-huge-contract-after-hiring-biden-official-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-nonprofit-lands-huge-contract-after-hiring-biden-official-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden admin sanctions Chinese government officials over Uyghur human rights abuses"
-    excerpt: "The Biden administration on Monday sanctioned Chinese government officials over \"serious human rights abuse\" against ethnic minorities in the Xinjiang Uyghur Autonomous Region, and warned that China will continue to face consequences should the \"atrocities\" continue."
-    publishedDateTime: 2021-03-22T19:06:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5G8zmBCjB-w/biden-sanctions-chinese-government-officials-uyghur"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sanctions-chinese-government-officials-uyghur.amp"
+  - title: "Kamala Harris pledged to visit border 'at some point,' but two weeks later White House has no update"
+    excerpt: "Vice President Harris said in late March that she will visit the U.S. southern border, but two weeks later there is still no update on when that trip will happen."
+    publishedDateTime: 2021-04-07T19:39:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ipUIcMB2Ioc/kamala-harris-visit-border-no-trip-scheduled-vp-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-visit-border-no-trip-scheduled-vp-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-visit-border-no-trip-scheduled-vp-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21096752997903.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Mayorkas 'knows there's a crisis' at border, but has to convince Biden: Troy Nehls"
+    excerpt: "Department of Homeland Security Secretary Alejandro Mayorkas has to convince President Biden that there is a crisis at the southern border, Rep. Troy Nehls, R-Texas, told \"Fox & Friends\" on Friday."
+    publishedDateTime: 2021-04-09T14:24:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ftJfnVDmV8/mayorkas-crisis-border-convince-biden-troy-nehls"
+    ampWebUrl: "https://www.foxnews.com/politics/mayorkas-crisis-border-convince-biden-troy-nehls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-crisis-border-convince-biden-troy-nehls.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Rep. Matt Gaetz: Biden administration worried about military's 'wokeness, not winning'"
-    excerpt: "Rep. Matt Gaetz, R-Fla., told \"Tucker Carlson Tonight\" Friday that the Biden administration's \"woke\" approach to the military should \"trouble every American.\""
-    publishedDateTime: 2021-03-27T01:59:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lt5iW0RaxpE/matt-gaetz-biden-military-wokeness-not-winning"
-    ampWebUrl: "https://www.foxnews.com/politics/matt-gaetz-biden-military-wokeness-not-winning.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/matt-gaetz-biden-military-wokeness-not-winning.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Formerly homeless veteran blasts Biden admin for spending money to house migrants in hotels"
-    excerpt: "Former homeless veteran David Hathcock blasted the Biden administration’s “heartbreaking decision” to award Immigration and Customs Enforcement (ICE) an $86.9 million contract for hotel rooms near the border for illegal families crossing into the United States, arguing on Tuesday that the current administration"
-    publishedDateTime: 2021-03-23T12:52:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mXrsf0Wkvm8/homeless-veteran-biden-illegal-immigrants-hotels"
-    ampWebUrl: "https://www.foxnews.com/politics/homeless-veteran-biden-illegal-immigrants-hotels.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/homeless-veteran-biden-illegal-immigrants-hotels.amp"
+  - title: "Arizona AG Brnovich invites VP Harris to tour border as crisis escalates"
+    excerpt: "EXCLUSIVE: Arizona Attorney General Mark Brnovich is inviting Vice President Kamala Harris, who has been tasked with tackling the root causes of the migration crisis, to tour the southwest border in the state -- saying it will give the vice president \"firsthand insight\" into what those on the ground"
+    publishedDateTime: 2021-04-05T19:30:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3x6o6sIAEMQ/arizona-ag-brnovich-harris-to-tour-border-as-crisis-escalates"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/100022f6-198e-455a-8560-ccb91f1ac4d9/83fb32f0-05d1-497b-b1f9-fe2008dabec4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Homan rips Biden border policies after video surfaces of young boy abandoned in Texas desert"
+    excerpt: "Thomas Homan, the former acting director of Immigration and Customs Enforcement (ICE), argued on “America’s Newsroom” on Wednesday that the Biden administration’s immigration policies are not humane."
+    publishedDateTime: 2021-04-07T17:39:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HeW8t6FIpgA/boy-abandoned-border-tom-homan-rips-biden-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/boy-abandoned-border-tom-homan-rips-biden-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boy-abandoned-border-tom-homan-rips-biden-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Senate Democrat furious with Biden administration over lack of Asian American representation"
-    excerpt: "Sen. Tammy Duckworth says she’s done voting for any of President Biden’s nominees that aren’t diverse until his administration “figures out” a solution to the lack of Asian American or Pacific Islander (AAPI) representation at the cabinet level."
-    publishedDateTime: 2021-03-23T22:28:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G8ZSv6PT-nY/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-democrat-furious-with-biden-administration-over-lack-of-aapi-representation.amp"
+  - title: "Cruz accuses Biden of trying to hide 'egregious failures' on border after Mayorkas bars press from tour"
+    excerpt: "Homeland Security Secretary Alejandro Mayorkas will travel to two Texas towns along the southern border Thursday, as Texas Sen. Ted Cruz accused President Biden of trying to hide \"egregious failures\" by making the event closed to the press. "
+    publishedDateTime: 2021-04-08T17:42:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JkAZeH3Ks88/cruz-biden-hide-egregious-failures-border-mayorkas-bars-press"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-biden-hide-egregious-failures-border-mayorkas-bars-press.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-biden-hide-egregious-failures-border-mayorkas-bars-press.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 159
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "McConnell: Biden is a ‘first-rate person’ but he’s running a ‘bold left-wing administration’"
-    excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., signaled Thursday that President Joe Biden’s $2 trillion spending bill will not be getting any Republican support – as he described the administration as boldly “left wing.”"
-    publishedDateTime: 2021-04-01T19:12:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4LhMpo4Ffig/mcconnell-biden-first-rate-person-bold-left-wing-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-first-rate-person-bold-left-wing-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-first-rate-person-bold-left-wing-administration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4af21f6b-fd84-44ca-b7bf-16bb5bc9856f/fe8db0d2-ef39-4f12-bbc1-9813942cce11/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/ted-cruz.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Shocking video of sisters dropped over border wall fuels criticism of Biden immigration policy"
-    excerpt: "A shocking video of two little girls dropped over a border barrier in New Mexico is fueling criticism of the Biden administration’s handling of the crisis at the southern border -- with critics saying the administration is encouraging smugglers and illegal immigrants."
-    publishedDateTime: 2021-04-02T22:34:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AFEqbrD8u4A/video-of-sisters-border-wall-criticism-of-biden-immigration-policy"
-    ampWebUrl: "https://www.foxnews.com/politics/video-of-sisters-border-wall-criticism-of-biden-immigration-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/video-of-sisters-border-wall-criticism-of-biden-immigration-policy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/gloria-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden to welcome Japan's prime minister as administration's first foreign leader at the White House"
-    excerpt: "The White House will welcome Japanese Prime Minister Yoshihide Suga in April as the first foreign leader to meet with President Biden, officials announced Friday."
-    publishedDateTime: 2021-04-02T20:12:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9mue2bsqok4/japan-will-be-bidens-first-in-person-visit-signaling-strengthened-ties-against-china"
-    ampWebUrl: "https://www.foxnews.com/politics/japan-will-be-bidens-first-in-person-visit-signaling-strengthened-ties-against-china.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/japan-will-be-bidens-first-in-person-visit-signaling-strengthened-ties-against-china.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/48f841fb-7cb2-4b62-999c-d97ce997c685/f67795c4-1e9d-4c54-982f-b15482476701/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris’ niece takes heat for presuming Boulder shooter was white"
-    excerpt: "Vice President Kamala Harris’ niece is under fire for presuming the gunman in Monday’s Colorado mass shooting was white — because he was taken into custody alive. “The Atlanta shooting was ..."
-    publishedDateTime: 2021-03-23T19:50:00Z
-    webUrl: "https://nypost.com/2021/03/23/kamala-harris-niece-slammed-for-presuming-boulder-shooter-was-white/"
-    ampWebUrl: "https://nypost.com/2021/03/23/kamala-harris-niece-slammed-for-presuming-boulder-shooter-was-white/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/23/kamala-harris-niece-slammed-for-presuming-boulder-shooter-was-white/amp/"
+  - title: "Texas Gov. Greg Abbott wants answers from Harris about migrant surge"
+    excerpt: "The governor of Texas is demanding answers from Vice President Kamala Harris about the surge of unaccompanied children to the southern border, warning in a letter this week that the"
+    publishedDateTime: 2021-03-31T13:34:00Z
+    webUrl: "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/"
+    ampWebUrl: "https://nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/texas-governor-wants-answers-from-harris-about-migrant-surge/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/meena-harris-getty-006.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/texas-harris-border-03.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "VP Kamala Harris admits there is a ‘huge problem’ on southern border"
-    excerpt: "Vice President Harris admitted Wednesday that the border is facing “a huge problem,” keeping in step with the White House’s repeated refusal to call the out of control surge of"
-    publishedDateTime: 2021-03-24T15:04:00Z
-    webUrl: "https://nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/"
-    ampWebUrl: "https://nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/24/vp-harris-says-there-is-a-huge-problem-on-southern-border/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-cbs-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Kamala Harris MIA during border crisis: Where is she?"
-    excerpt: "According to the Office of the Vice President, Harris had no events this past weekend and no mention of border-related activity. This comes as the Biden administration is now asking for government volunteers to help manage the migrant surge. The Office of ..."
-    publishedDateTime: 2021-03-30T15:26:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-during-this-border-mess"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-during-this-border-mess.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-during-this-border-mess.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Harris-walkoff.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Kamala Harris to finally move into VP mansion after renovations"
     excerpt: "Vice President Kamala Harris and second gentleman Doug Emhoff are set to move into Number One Observatory Circle at the U.S. Naval Observatory next week, following a two-month delay for \"home repairs,"
@@ -448,146 +350,214 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "White House investigating Biden's authority to cancel student debt"
-    excerpt: "President Joe Biden's Education Secretary is reportedly investigating the administration's legal authority to cancel some of the $1.7 trillion student loan debt, but the White House says the President still does not support debt relief above $10,000 for ..."
-    publishedDateTime: 2021-04-02T02:53:00Z
-    webUrl: "https://www.foxnews.com/politics/white-house-investigating-bidens-authority-to-cancel-student-debt-but-biden-resists-calls-to-cancel-50000"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-investigating-bidens-authority-to-cancel-student-debt-but-biden-resists-calls-to-cancel-50000.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-investigating-bidens-authority-to-cancel-student-debt-but-biden-resists-calls-to-cancel-50000.amp"
+  - title: "Vice President Kamala Harris Lists in Washington, D.C."
+    excerpt: "Ms. Harris’s former home—a condo at the Westlight complex in the West End—is listing for $1.995 million."
+    publishedDateTime: 2021-04-05T17:39:00Z
+    webUrl: "https://www.wsj.com/articles/vice-president-kamala-harris-lists-in-washington-d-c-11617647976"
+    ampWebUrl: "https://www.wsj.com/amp/articles/vice-president-kamala-harris-lists-in-washington-d-c-11617647976"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vice-president-kamala-harris-lists-in-washington-d-c-11617647976"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-320524/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Kamala Harris finally moves into official VP residence"
+    excerpt: "After months of waiting for renovations, Vice President Kamala Harris is moving into her official star-studded home. The Democrat and husband Doug Emhoff moved to Number One Observatory Circle"
+    publishedDateTime: 2021-04-07T01:04:00Z
+    webUrl: "https://nypost.com/2021/04/06/kamala-harris-finally-moves-into-official-vp-residence/"
+    ampWebUrl: "https://nypost.com/2021/04/06/kamala-harris-finally-moves-into-official-vp-residence/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/06/kamala-harris-finally-moves-into-official-vp-residence/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/harris-moving-into-naval-observatory-after-renovations-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Concha on Kamala Harris' 'media blackout' on border crisis: Biden admin 'acting more like Pyongyang'"
+    excerpt: "Fox News contributor Joe Concha told \"Fox & Friends\" on Tuesday that Vice President Kamala Harris is more of a \"chronic complainer,\" instead of a \"doer,\" because she has not yet visited nor addressed to the media the issues on the southern border."
+    publishedDateTime: 2021-04-13T14:22:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-concha-questions-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/211fe5e9-dbf0-4716-8289-ff66de929765/a08def23-c5fe-4fc6-91d5-aff03d0882ec/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Christian minister sues Nancy Pelosi, Kamala Harris over access to Capitol"
-    excerpt: "A Christian minister is suing House Speaker Nancy Pelosi, Vice President Kamala Harris, the Capitol Police Board, and the Sergeant of Arms for the Senate — saying he was denied access to"
-    publishedDateTime: 2021-03-31T16:51:00Z
-    webUrl: "https://nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/"
-    ampWebUrl: "https://nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/amp/"
+  - title: "Texas Gov. Abbott writes to VP Kamala Harris, demanding answers on border crisis"
+    excerpt: "Texas Gov. Greg Abbott says he wants answers regarding the crisis along the U.S.-Mexico border – and he’s seeking them from Vice President ."
+    publishedDateTime: 2021-03-31T09:15:00Z
+    webUrl: "https://www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-abbott-writes-to-vp-kamala-harris-demanding-answers-on-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/SPLIT-ABBOTT-HARRIS-452a.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "White House defends Kamala Harris' travel after visiting places other than border"
+    excerpt: "KAMALA HARRIS PLEDGED TO VISIT BORDER 'AT SOME POINT,' BUT TWO WEEKS LATER WHITE HOUSE HAS NO UPDATE \"I think as, you know, working with countries to work on a collaborative approach, to working on circumstances on the ground,\" Psaki replied, adding that ..."
+    publishedDateTime: 2021-04-07T19:53:00Z
+    webUrl: "https://www.foxnews.com/politics/white-house-defends-kamala-harris-travel-no-border-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-defends-kamala-harris-travel-no-border-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-defends-kamala-harris-travel-no-border-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Kamala-Harris-Border-Travel-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Where is Kamala? Two weeks since being named border czar, Harris still hasn’t visited"
+    excerpt: "Vice President Kamala Harris was tapped two weeks ago to “lead efforts” to stem the crisis on the southern border — but she still has not visited the crossing, nor has she held a press ..."
+    publishedDateTime: 2021-04-07T16:11:00Z
+    webUrl: "https://nypost.com/2021/04/07/two-weeks-since-being-named-border-czar-kamala-hasnt-visited/"
+    ampWebUrl: "https://nypost.com/2021/04/07/two-weeks-since-being-named-border-czar-kamala-hasnt-visited/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/07/two-weeks-since-being-named-border-czar-kamala-hasnt-visited/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 133
+    quality: 128
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/rev-mahoney-suing-harris-pelosi-fences-hp2.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/kamala-harris-border-hp.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Kamala Harris will play 'diplomatic' role in migration crisis, White House says"
-    excerpt: "Vice President Kamala Harris will play a \"diplomatic\" role in addressing the migrant surge at the U.S. southern border, White House officials said Monday."
-    publishedDateTime: 2021-03-29T23:36:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-border-migration-crisis-diplomatic-role"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-border-migration-crisis-diplomatic-role.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-border-migration-crisis-diplomatic-role.amp"
+  - title: "Kamala Harris has gone 9 days since being tapped for border crisis role without a press conference"
+    excerpt: "Vice President Kamala Harris was tasked last week with leading efforts to address migration to the southern border, where the nation is facing what's been described as a \"humanitarian crisis\" amid a surge in migrants coming to the U."
+    publishedDateTime: 2021-04-02T09:26:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 131
+    quality: 121
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/8739dfa4-kamala.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/kamala-harris-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Kamala Harris yet to hold press briefing despite key role in addressing border crisis"
-    excerpt: "Vice President Kamala Harris still hasn’t held a formal press briefing since taking office, even after President Biden tapped her to lead diplomatic efforts to solve the border crisis."
-    publishedDateTime: 2021-03-29T22:21:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-immigration-crisis-border-press-briefing"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-immigration-crisis-border-press-briefing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-immigration-crisis-border-press-briefing.amp"
+  - title: "Kamala Harris has gone 10 days since being tapped for border crisis role without a press conference"
+    excerpt: "Vice President Kamala Harris was tasked last week with leading efforts to address migration to the southern border, where the nation is facing what's been described as a \"humanitarian crisis\" amid a surge in migrants coming to the U.S. Her assigned efforts ..."
+    publishedDateTime: 2021-04-03T10:22:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-no-press-conference-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 128
+    quality: 121
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c2f9c69-23fa-4f50-aa77-aae068bf1b33/8310c11f-201b-4b53-b93e-d35d649bb177/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/kamala-harris-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Kamala Harris pledged to visit border 'at some point,' but two weeks later White House has no update"
+    excerpt: "Vice President Harris said in late March that she will visit the U.S. southern border, but two weeks later there is still no update on when that trip will happen. White House press secretary Jen Psaki said she didn't have \"any trips to outline or preview ..."
+    publishedDateTime: 2021-04-07T19:42:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-visit-border-no-trip-scheduled-vp-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-visit-border-no-trip-scheduled-vp-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-visit-border-no-trip-scheduled-vp-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21096752997903.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Media allowing Kamala Harris to ‘get away with hiding’ from questions about border crisis, experts say"
+    excerpt: "Vice President Kamala Harris hasn’t held a formal press briefing since taking office, even after President Biden tapped her to lead diplomatic efforts to solve the border crisis, but the mainstream media has been oddly silent and doesn’t appear eager to hear what she thinks about the issues."
+    publishedDateTime: 2021-03-31T14:59:00Z
+    webUrl: "https://www.foxnews.com/media/media-kamala-harris-border-crisis-hiding"
+    ampWebUrl: "https://www.foxnews.com/media/media-kamala-harris-border-crisis-hiding.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-kamala-harris-border-crisis-hiding.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Kamala-Harris.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Arizona AG Brnovich invites VP Harris to tour border as crisis escalates"
+    excerpt: "EXCLUSIVE: Arizona Attorney General Mark Brnovich is inviting Vice President Kamala Harris, who has been tasked with tackling the root causes of the migration crisis, to tour the southwest border in the state-- saying it will give the vice president ..."
+    publishedDateTime: 2021-04-05T19:34:00Z
+    webUrl: "https://www.foxnews.com/politics/arizona-ag-brnovich-harris-to-tour-border-as-crisis-escalates"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 114
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/100022f6-198e-455a-8560-ccb91f1ac4d9/83fb32f0-05d1-497b-b1f9-fe2008dabec4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From Trump Administration"
-    excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."
-    publishedDateTime: 2021-03-22T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 86
-    images:
-      - url: "https://assets.realclear.com/images/53/538477.jpg"
-        width: 936
-        height: 702
-        isCached: true
-  - title: "Can the Biden Administration Stop China?"
-    excerpt: "The acrid atmosphere last week at the Captain Cook Hotel in Anchorage, Alaska, with its vivid murals of the 18th-century British seafarer James"
-    publishedDateTime: 2021-03-26T11:21:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/03/26/can_the_biden_administration_stop_china_145483.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/26/can_the_biden_administration_stop_china_145483.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/26/can_the_biden_administration_stop_china_145483.amp.html"
+  - title: "Putting Biden's Gun Control Claims to the Truth Test"
+    excerpt: "There were so many lies in Vice President Kamala Harris and President Joe Bidens presentations on guns Thursday that it is hard to know where to"
+    publishedDateTime: 2021-04-10T10:41:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/10/putting_bidens_gun_control_claims_to_the_truth_test_145565.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/10/putting_bidens_gun_control_claims_to_the_truth_test_145565.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/10/putting_bidens_gun_control_claims_to_the_truth_test_145565.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 85
     images:
-      - url: "https://assets.realclear.com/images/53/538353_5_.jpg"
+      - url: "https://assets.realclear.com/images/54/540112_5_.jpg"
         width: 750
         height: 500
         isCached: true
-  - title: "Kamala Harris On Border: \"We Were Left With A Very Challenging Situation\" From The Trump Administration"
-    excerpt: "Vice President Kamala Harris stressed two times in a gaggle with reporters on Monday that the Biden administration was left with \"a very challenging situation\" from \"the previous administration\" in regards to the border."
-    publishedDateTime: 2021-03-23T00:22:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/22/kamala_harris_on_border_we_were_left_with_a_very_challenging_situation_from_trump_administration.amp.html"
+  - title: "Why Biden & Harris Won't Address 'Root Causes' of Migrant Surge"
+    excerpt: "Yet neither President Joe Biden nor Vice President Kamala Harris, who he's put in charge oâ¦"
+    publishedDateTime: 2021-04-12T12:16:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/12/why_biden_amp_harris_wont_address_root_causes_of_migrant_surge_540292.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 84
-    images:
-      - url: "https://assets.realclear.com/images/53/538477.jpg"
-        width: 936
-        height: 702
-        isCached: true
-  - title: "Kamala Harris: Biden \"Has Been Very Generous In Seeking My Input\""
-    excerpt: "Vice President Kamala Harris shares concern for how the COVID-19 pandemic has impacted women and the importance of addressing that disparity. Carroll: You've been a major part of the American Rescue Plan."
-    publishedDateTime: 2021-03-29T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/29/kamala_harris_biden_has_been_very_generous_in_seeking_my_input.html#!"
+    quality: 70
+  - title: "Joe Biden's Border Crisis"
+    excerpt: "Democrats and the liberal media are policing the words we should use to describe the absolute catastrophe we're witnessing each day at the southern border. They don't like crisis or surge."
+    publishedDateTime: 2021-04-05T12:06:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/05/joe_bidens_border_crisis_539734.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 80
-    images:
-      - url: "https://assets.realclear.com/images/53/539130.jpg"
-        width: 1114
-        height: 834
-        isCached: true
-  - title: "Kamala Harris Has a Message for American Women"
-    excerpt: "In a USA TODAY interview, Harris expressed deep empathy for women trying to claw their way out of the COVID-created abyss often carrying family members with them. Read Full Articl"
-    publishedDateTime: 2021-03-26T11:19:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/03/26/kamala_harris_has_a_message_for_american_women_539124.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/538452_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
+    quality: 45
 
 secured: "dgoZbOcKdRmB9diNFX134WbxoTeiJSBC2gmpAR6zUKlY9IQrJeWePpX0srdb/7jTzt/O7Y9VYXXcJCAJuQ/FYhiCZhtVLxF+4T42OuximRqC95jeRXhwNvlHWcFEDixlnCn3rmgIbtab4L2fVnPAojr+/7zIfV/4IzKFWMYqX84oeGs3sGGRDn/rnMRc1rTiTBErgiA2G0y5mNgZWYtseniHUW6gSdC6uA7CVfXI5VyloM5wxAPpl6xNt0Wq6REd/XKWvlRCSF7vmyFVLW4fLjXS7Hcaca1vFYvClATaOv91ydQ4B4F4MBy3itwMuZsVzIHOj/2tz1qDWIzbzxxxNPoAUMEGqpziWpkwKyJiAQg=;HRcZhtC6PIPP8Ea0LVOu9w=="
 ---

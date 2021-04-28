@@ -31,54 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden nominates Sen. Joe Manchin's wife to federal commission"
-    excerpt: "President Biden has picked the wife of an extremely influential U.S. senator for a federal commission post, the White House announced Friday. "
-    publishedDateTime: 2021-03-26T15:09:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0n5jaLnRznQ/biden-nominates-joe-manchins-wife-federal-commission"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-joe-manchins-wife-federal-commission.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Gayle-Conelly-Manchin-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden admin asks for government volunteers at the border amid crisis"
-    excerpt: "The Office of Personnel Management (OPM) has sent a memo to various heads of government agencies seeking \"volunteer deployments\" for up to 120 days to help border officials deal with the surge of unaccompanied children crossing the border. "
-    publishedDateTime: 2021-03-28T21:02:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MMPdgAY2v0U/biden-admin-asks-for-govt-volunteers-at-the-border-amid-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-asks-for-govt-volunteers-at-the-border-amid-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-asks-for-govt-volunteers-at-the-border-amid-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ac0b456d-c256-4ab3-a240-0477a7b63203/89443988-d43c-4bc3-8baa-27237d0dce4a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden approval numbers on immigration sink amid border crisis: poll"
-    excerpt: "A new poll indicates that Americans are giving President Biden a big thumbs up on dealing with the coronavirus pandemic. But when it comes to the divisive issue of immigration and border security, the survey suggests that the president’s approval rating plummets."
-    publishedDateTime: 2021-03-30T19:49:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7v4W1sseQnE/biden-immigration-approval-numbers-sink-border-crisis-poll"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-approval-numbers-sink-border-crisis-poll.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-approval-numbers-sink-border-crisis-poll.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden should keep dog Major away from people after 2nd bite: lawyers"
     excerpt: "President Biden has a duty to keep his German Shepherd, Major, away from people after the dog bit a second employee, a personal injury lawyer told Fox News."
     publishedDateTime: 2021-03-31T18:28:04Z
@@ -95,279 +47,318 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden judicial nominee would be first Muslim federal judge in US history"
-    excerpt: "President Biden on Tuesday nominated Judge Zahid N. Quraishi to be a federal judge on the U.S. District Court for the District of New Jersey, a move that would make the Army veteran the first-ever lifetime-appointed Muslim federal judge if confirmed. "
-    publishedDateTime: 2021-03-30T18:43:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1rT6O4ZYCpc/biden-judicial-nominee-first-muslim-federal-judge-us-history"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history.amp"
+  - title: "Biden convenes Cabinet meeting amid border crisis, spending bill push"
+    excerpt: "President Biden held his first Cabinet meeting on Thursday from the East Room at the White House as his administration grapples with the crisis at the U.S. southern border and as officials push a $2 trillion spending bill through Congress."
+    publishedDateTime: 2021-04-01T18:15:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5IVfWQ2FvLY/biden-first-cabinet-meeting-border-crisis-spending-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-first-cabinet-meeting-border-crisis-spending-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-cabinet-meeting-border-crisis-spending-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Stephen Miller calls Biden infrastructure bill a 'cost shift'"
+    excerpt: "Former Trump Senior Advisor Stephen Miller joined \"Kudlow\" Wednesday and slammed Biden's new infrastructure bill, calling it a cost shift, and saying \"actually no new infrastructure spending happens.\""
+    publishedDateTime: 2021-04-01T00:15:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZAWHELsH9fU/stephen-miller-calls-biden-infrastructure-bill-a-cost-shift"
+    ampWebUrl: "https://www.foxnews.com/politics/stephen-miller-calls-biden-infrastructure-bill-a-cost-shift.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-calls-biden-infrastructure-bill-a-cost-shift.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "ICE detentions plunge under Biden, leaving thousands of empty beds"
+    excerpt: "The Biden administration currently has in custody some 19,000 unaccompanied children, and it released almost 60% of migrant families encountered at the border in February."
+    publishedDateTime: 2021-04-05T19:18:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dsDlDzgyvRk/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds"
+    ampWebUrl: "https://www.foxnews.com/politics/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ice-detentions-plunge-under-biden-leaving-thousands-of-empty-beds.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/william-la-jeunesse.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden WH 'tension' to blame for Major getting agitated, dog expert says"
+    excerpt: "High-profile dog experts are speaking out about what they believe is really causing Biden's dog Major to act out after he bit two people at the White House in recent weeks, according to a report. "
+    publishedDateTime: 2021-04-06T06:49:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zL3ppeTplHo/biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/GettyImages-1232008114.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden White House Easter remarks included zero mentions of Jesus"
+    excerpt: "President Biden, a Roman Catholic, did not mention Jesus or Christ a single time in his Easter remarks on Monday. "
+    publishedDateTime: 2021-04-06T18:07:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PuMoWnrREKo/joe-biden-easter-remarks-white-house-jesus-mentions"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-easter-remarks-white-house-jesus-mentions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-easter-remarks-white-house-jesus-mentions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64b8dbc3-7db5-499f-8a86-9f822fd9a68c/27ce4549-c949-46a6-9990-77077da9ef0e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden task force has not reunited any families separated at border"
+    excerpt: "None of the hundreds of families separated as part of former President Trump’s zero-tolerance policy have been reunited by the Biden administration yet, Department of Homeland Security (DHS) officials told reporters on a call Wednesday. "
+    publishedDateTime: 2021-04-07T22:01:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uhumLIL17ds/biden-task-force-families-separated-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-task-force-families-separated-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-task-force-families-separated-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/04/family.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden expected to move up deadline for adults to be eligible for vaccines"
+    excerpt: "President Biden is expected to announce Tuesday that he is moving up the date for adults to become eligible to receive a COVID-19 vaccine by April 19."
+    publishedDateTime: 2021-04-06T15:58:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bCq8B4EwCI/biden-covid-vaccine-eligibility-adults-deadline"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-covid-vaccine-eligibility-adults-deadline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-vaccine-eligibility-adults-deadline.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Manchin pledges to block Biden infrastructure bill if Republicans aren't included"
-    excerpt: "Sen. Joe Manchin, a centrist Democrat, pledged to block President Biden's infrastructure bill if the planned multitrillion-dollar measure does not garner support from any Republicans."
-    publishedDateTime: 2021-03-08T17:50:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U1SHnNmKhqM/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included"
-    ampWebUrl: "https://www.foxnews.com/politics/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included.amp"
+  - title: "Here's how Nancy Pelosi could personally benefit from Biden’s $2T spending bill"
+    excerpt: "House Speaker Nancy Pelosi, D-Calif., is positioned to potentially personally benefit from President Biden’s $2 trillion spending bill – and here's how she could do it."
+    publishedDateTime: 2021-04-05T16:11:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QUudE0KtKOE/biden-spending-bill-pelosi-tesla-husband"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-spending-bill-pelosi-tesla-husband.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spending-bill-pelosi-tesla-husband.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de8bed3d-5a71-4a30-a296-6e3c8fe4ce17/b87eb2de-1125-4105-9348-cbd33a6fe40b/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6006abae-c244-4c3a-9668-00383f221969/3d269837-fe51-4751-9b4e-d1ca0217c647/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Democratic border-town mayor: Biden admin handling of crisis ‘a slap in the face’"
-    excerpt: "The Democratic mayor of a southern border town says he’s incensed over the Biden administration’s handling of the immigration crisis in his backyard — and he’s \"pleading\" with Washington to do more to stem the stream of migrants pouring into his small city. "
-    publishedDateTime: 2021-03-22T00:31:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z339aN1dMVU/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face"
-    ampWebUrl: "https://www.foxnews.com/politics/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-border-town-mayor-biden-admin-handling-of-crisis-a-slap-in-the-face.amp"
+  - title: "Hunter Biden lost business after revelation of affair with brother's widow Hallie"
+    excerpt: "\"I made a lot of decisions that I probably shouldn't have made,\" Hunter Biden said in a recent interview."
+    publishedDateTime: 2021-04-04T16:24:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LZyapbF7wz4/hunter-biden-hallie-business-affair-world-food-program"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-hallie-business-affair-world-food-program.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-hallie-business-affair-world-food-program.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a30dfc5-144a-4b76-96c1-f6baf817c817/92e81741-299a-4f50-9d6c-b1338e279cb2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden admin. reassigns Interior Dept. staffer who planned 50-person indoor party"
-    excerpt: "The White House is reassigning an Interior Department official after she recently planned a 50-person indoor party during the coronavirus pandemic, according to reports. "
-    publishedDateTime: 2021-04-02T08:48:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YJ3aQp610NA/biden-admin-reassigns-interior-dept-staffer-who-planned-50-person-indoor-party"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-reassigns-interior-dept-staffer-who-planned-50-person-indoor-party.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-reassigns-interior-dept-staffer-who-planned-50-person-indoor-party.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/GettyImages-82776258.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1230697183.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden official asked GOP senators visiting border to delete photos from facilities"
-    excerpt: "Sen. Mike Braun, R-Ind., told Fox News that a Biden official asked Republican senators to delete photos they took at a border facility they were touring on Friday. "
-    publishedDateTime: 2021-03-28T00:21:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wQA_4lf4B4g/biden-official-asked-gop-senators-visiting-border-delete-photos"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-official-asked-gop-senators-visiting-border-delete-photos.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-official-asked-gop-senators-visiting-border-delete-photos.amp"
+  - title: "Biden CDC director says youth sports, extracurricular activities 'should be limited'"
+    excerpt: "Centers for Disease Control and Prevention Director Rochelle Walensky on Monday said youth sports and other extracurricular activities \"should be limited\" amid the coronavirus pandemic, saying outbreaks in young people have stemmed from those activities."
+    publishedDateTime: 2021-04-05T16:46:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWQzbB1Bp8k/biden-cdc-director-youth-sports-limited"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cdc-director-youth-sports-limited.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cdc-director-youth-sports-limited.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 168
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/mike-braun2-thumb.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden marks National Vietnam War Veterans Day with impromptu visit to war memorial"
-    excerpt: "President Joe Biden made an impromptu visit to the Vietnam Veterans Memorial late Monday afternoon in Washington to pay tribute to National Vietnam War Veterans Day."
-    publishedDateTime: 2021-03-30T00:08:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6XblY-XvExg/biden-arrived-to-vietnam-veterans-memorial"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-arrived-to-vietnam-veterans-memorial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-arrived-to-vietnam-veterans-memorial.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden DOJ nominee Vanita Gupta’s committee vote ends in tie after heated Senate meeting"
-    excerpt: "The Senate Judiciary Committee was split evenly over President Biden's nomination of Vanita Gupta to be associate attorney general, the third-highest position in the Department of Justice."
-    publishedDateTime: 2021-03-25T17:03:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uBRj34gvkN0/vanita-gupta-tie-senate-committee-doj"
-    ampWebUrl: "https://www.foxnews.com/politics/vanita-gupta-tie-senate-committee-doj.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vanita-gupta-tie-senate-committee-doj.amp"
+  - title: "Biden's $2T spending plan, billed as infrastructure bill, spends less than half on infrastructure"
+    excerpt: "President Biden's $2.2 trillion spending plan, which is being promoted largely as a bill to address infrastructure, directs well under half of its total money to things traditionally defined as infrastructure, according to a Fox News analysis. "
+    publishedDateTime: 2021-04-02T12:18:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AAPrbiCKMGY/biden-spending-plan-billed-as-infrastructure-bill-spends-non-infrastructure"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-spending-plan-billed-as-infrastructure-bill-spends-non-infrastructure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spending-plan-billed-as-infrastructure-bill-spends-non-infrastructure.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Migrants stream through gaps in border wall following Biden's order to halt construction"
-    excerpt: "Thousands of tons of steel and heavy equipment stand idle along the border as highways of migrants exploit holes in the fence left by President Biden’s decision to halt construction."
-    publishedDateTime: 2021-03-31T22:57:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZY2QwwUj5XA/migrants-stream-through-gaps-in-border-wall-following-bidens-order-to-halt-construction"
-    ampWebUrl: "https://www.foxnews.com/politics/migrants-stream-through-gaps-in-border-wall-following-bidens-order-to-halt-construction.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrants-stream-through-gaps-in-border-wall-following-bidens-order-to-halt-construction.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/william-la-jeunesse.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden announces 11 judicial nominees to federal bench, including progressive SCOTUS favorite"
-    excerpt: "President Biden on Tuesday morning announced his first slate of judicial nominees, which includes three judges to the powerful federal courts of appeals, igniting more speculation about possible future nominees to the Supreme Court. "
-    publishedDateTime: 2021-03-30T11:04:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X2COE6ZzDqQ/biden-announces-11-judicial-nominees-to-federal-bench"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-announces-11-judicial-nominees-to-federal-bench.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-announces-11-judicial-nominees-to-federal-bench.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
+    quality: 162
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden HHS nominee Rachel Levine becomes first openly transgender federal official confirmed by US Senate"
-    excerpt: "Dr. Rachel Levine, Pennsylvania's former top health official, earned confirmation Wednesday in the Senate to become the new assistant secretary at the Department of Health and Human Services (HHS)."
-    publishedDateTime: 2021-03-24T21:34:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/09ybM-BKHB4/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-nominee-rachel-levine-first-openly-transgender-federal-official-confirmed-senate.amp"
+  - title: "Biden to welcome Japan's prime minister as administration's first foreign leader at the White House"
+    excerpt: "The White House will welcome Japanese Prime Minister Yoshihide Suga in April as the first foreign leader to meet with President Biden, officials announced Friday."
+    publishedDateTime: 2021-04-02T20:12:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9mue2bsqok4/japan-will-be-bidens-first-in-person-visit-signaling-strengthened-ties-against-china"
+    ampWebUrl: "https://www.foxnews.com/politics/japan-will-be-bidens-first-in-person-visit-signaling-strengthened-ties-against-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/japan-will-be-bidens-first-in-person-visit-signaling-strengthened-ties-against-china.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 158
+    quality: 161
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Rachel-Levine-Biden-assistant-health-secretary-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Cruz demands Biden allow media access to border facilities, after seeing 'inhumane' conditions"
-    excerpt: "EXCLUSIVE: Sen. Ted Cruz, R-Texas, on Sunday called on President Biden to open up media access to border facilities where unaccompanied migrant children are being held, after no reporters were allowed on a lawmakers' tour of a facility – and Cruz himself was challenged for taking pictures."
-    publishedDateTime: 2021-03-28T17:07:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-fAC31hCDDY/cruz-urges-biden-allow-media-access-to-border-facilities"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 143
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8b20f8d5-961d-4342-a583-007699099eba/f55684de-fbba-44b7-9496-35378f2cd1cd/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/48f841fb-7cb2-4b62-999c-d97ce997c685/f67795c4-1e9d-4c54-982f-b15482476701/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Sen. Mike Braun sends letter to Biden urging him to visit border: 'This surge makes it a moral imperative'"
-    excerpt: "EXCLUSIVE: Fresh off a visit to the southern border, Sen. Mike Braun said Saturday that President Biden has a moral imperative to immediately see the \"inhumane\" and \"dangerous\" migrant situation firsthand."
-    publishedDateTime: 2021-03-27T20:27:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2DtP_ZGvxLc/sen-mike-braun-sends-letter-to-biden-urging-him-to-visit-border"
+  - title: "Republican senators line up against Biden's massive $2.2T spending bill: 'Far cry away from' infrastructure"
+    excerpt: "The opposition is coming even from moderates who attempted to work with Biden on the coronavirus stimulus plan."
+    publishedDateTime: 2021-04-01T13:52:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/53yiLDIzkjM/republicans-bidens-spending-bill-far-cry-away-infrastructure"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-bidens-spending-bill-far-cry-away-infrastructure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-bidens-spending-bill-far-cry-away-infrastructure.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 137
+    quality: 157
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/mike-braun2-thumb.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden pushed to make sure budget funds ICE amid border crisis"
+    excerpt: "EXCLUSIVE: Sen. Bill Hagerty, R-Tenn., is urging President Biden to increase funding for Immigration and Customs Enforcement (ICE) to help deal with the effects of the current crisis at the southern border, warning the president against political pressure to defund the agency."
+    publishedDateTime: 2021-04-05T16:17:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H-evmaZ58nY/biden-pushed-to-make-sure-budget-funds-ice-amid-border-crisis"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e816be2f-6bb3-43ae-a134-4cfd129e8efe/76f99408-2bd3-48dc-ba7e-9a89654bd9dc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden judicial nominee would be first Muslim federal judge in US history"
-    excerpt: "Some Republicans, meanwhile, have broadly criticized Biden's nominees. \"It's payback time -- we know that liberal dark money organizations spent millions of dollars to put President Joe Biden in the White House in terms of contributing to his campaign."
-    publishedDateTime: 2021-03-30T18:47:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-judicial-nominee-first-muslim-federal-judge-us-history.amp"
+  - title: "House Republicans reveal game plan to fight Biden's massive spending bill"
+    excerpt: "EXCLUSIVE: The biggest conservative caucus in the House has already released a game plan to fight President Biden's $2 trillion spending package and accompanying tax hikes, signaling just how tough it will be for Democrats to garner bipartisan support for the massive bill."
+    publishedDateTime: 2021-04-01T17:28:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WJFOpx0j7KQ/house-republicans-game-plan-fight-bidens-massive-spending-bill"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 134
+    quality: 154
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/640/320/joe-biden-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Joe-Biden.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden's halt of border wall construction sends migrants streaming into US"
-    excerpt: "Biden's halt of border wall construction sends migrants streaming into US Thousands of tons of steel and heavy equipment stand idle along the U.S.-Mexico border as legions of migrants exploit holes in the fence left by President Biden’s decision to halt construction."
-    publishedDateTime: 2021-04-01T09:08:00Z
-    webUrl: "https://www.foxnews.com/us/bidens-halt-of-border-wall-construction-sends-migrants-streaming-into-us"
-    ampWebUrl: "https://www.foxnews.com/us/bidens-halt-of-border-wall-construction-sends-migrants-streaming-into-us.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/bidens-halt-of-border-wall-construction-sends-migrants-streaming-into-us.amp"
+  - title: "Hunter Biden says he wouldn’t repeat work for Ukrainian firm"
+    excerpt: "President Joe Biden’s son Hunter says his service on the board of a Ukrainian gas company, which Republicans tried to turn into a negative during the 2020 presidential campaign, wasn’t unethical and didn’t represent a lack of judgment on his part."
+    publishedDateTime: 2021-03-31T08:35:00Z
+    webUrl: "https://www.foxnews.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 134
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-Border-Agent-Split.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31559d35-d060-4ac4-85d0-c5cf2e57997e/cea027d4-af7e-4165-9019-bb52722f5b11/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "NRA Ad Targets Sen. Joe Manchin: Reject President Biden's Gun Control Agenda"
-    excerpt: "The National Rifle Association (NRA) launched an ad campaign opposing President Biden on gun control seeking to \"Stop Biden's gun grab.\" In this West Virginia ad, the NRA says: \"President Biden’s political machine is setting its"
-    publishedDateTime: 2021-04-22T16:25:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/04/22/nra_ad_targets_sen_joe_manchin_reject_president_bidens_gun_control_agenda.html#!"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/04/22/nra_ad_targets_sen_joe_manchin_reject_president_bidens_gun_control_agenda.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/04/22/nra_ad_targets_sen_joe_manchin_reject_president_bidens_gun_control_agenda.amp.html"
+  - title: "White House investigating Biden's authority to cancel student debt"
+    excerpt: "President Joe Biden's Education Secretary is reportedly investigating the administration's legal authority to cancel some of the $1.7 trillion student loan debt, but the White House says the President still does not support debt relief above $10,000 for ..."
+    publishedDateTime: 2021-04-02T02:53:00Z
+    webUrl: "https://www.foxnews.com/politics/white-house-investigating-bidens-authority-to-cancel-student-debt-but-biden-resists-calls-to-cancel-50000"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-investigating-bidens-authority-to-cancel-student-debt-but-biden-resists-calls-to-cancel-50000.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-investigating-bidens-authority-to-cancel-student-debt-but-biden-resists-calls-to-cancel-50000.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/211fe5e9-dbf0-4716-8289-ff66de929765/a08def23-c5fe-4fc6-91d5-aff03d0882ec/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Evoking FDR, Biden Spending Push Is a Tightrope Walk"
+    excerpt: "One week before the election, Joe Biden went south. He was headed for Franklin Delano Roosevelt’s familiar Georgia getaway at the foot of Pine Mountain in Meriwether County. Known as “the Little White House,” it was FDR’s frequent retreat of during ..."
+    publishedDateTime: 2021-04-01T11:46:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/01/evoking_fdr_biden_spending_push_is_a_tightrope_walk_145517.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/01/evoking_fdr_biden_spending_push_is_a_tightrope_walk_145517.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/01/evoking_fdr_biden_spending_push_is_a_tightrope_walk_145517.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 82
+    quality: 85
     images:
-      - url: "https://assets.realclear.com/images/54/541245.jpg"
+      - url: "https://assets.realclear.com/images/53/539383_5_.jpg"
         width: 750
-        height: 562
+        height: 500
         isCached: true
-  - title: "Panetta's Assessment of Biden's First Days"
-    excerpt: "Joe Biden is off to an auspicious start with passage of his $1.9 trillion COVID Relief bill, has made excellent appointments, and generally has struck the right tone. Now is when trouble is likely."
-    publishedDateTime: 2021-03-30T13:16:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/03/30/panettas_assessment_of_bidens_first_days_539239.html#!"
+  - title: "Joe Biden, Hunter's Laptop & Media Lapdogs"
+    excerpt: "They date back to last October and are part of the scandalous information contained on a laptop abandoned by"
+    publishedDateTime: 2021-04-04T10:50:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/04/joe_biden_hunters_laptop_amp_media_lapdogs_539674.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 65
     images:
-      - url: "https://assets.realclear.com/images/53/539152_5_.jpg"
+      - url: "https://assets.realclear.com/images/53/539634_5_.jpg"
         width: 750
         height: 500
         isCached: true
-  - title: "Biden Asks Governors To Reinstate Mask Mandate: \"Please, This Is Not Politics\""
-    excerpt: "President Joe Biden called on governors that have lifted mask mandates in their states to reimpose them in remarks delivered Monday updating the public on the administration's response to the COVID-19 pandemic. Earlier in March, Biden called the decision ..."
-    publishedDateTime: 2021-03-29T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/29/biden_to_governors_reinstate_the_mask_mandate_this_is_not_politics.html"
+  - title: "Hunter Biden Whitewashes Almost Everything in Tell-All"
+    excerpt: "As addiction memoirs go, Hunter Biden's Beautiful Things is remarkable in one great sense: As poorly as he comes across, it's his father, President Biden, whose character takes a hit. The Joe Bid…"
+    publishedDateTime: 2021-04-04T19:58:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/04/hunter_biden_whitewashes_almost_everything_in_tell-all_539678.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 61
+    quality: 65
     images:
-      - url: "https://assets.realclear.com/images/53/539127.jpg"
-        width: 1174
-        height: 880
+      - url: "https://assets.realclear.com/images/52/529429_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "President Trillion: Biden's Eye-Watering, Wasteful Spending"
-    excerpt: "So far the defining word of the Biden era is trillion. The Joe Biden who portrayed himself as a moderate deal-maker during the presidential campaign is a distant memory, replaced by the Joe Biden…"
-    publishedDateTime: 2021-04-02T10:55:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/02/president_trillion_bidens_eye-watering_wasteful_spending_539554.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "UKTh9zAm6qRLsHcJU6MMW8hUbbbytLIjNJpabmAyh4lC75pVQvS4/WQNpNfzwC2AZGdECHL5cZ81FMtMNpWRDa0invHSogZq35c1dco3cLdsJuHHmihcKriILMhaeyJ401SxjHdKt150i0DiOqrhIs+z43/mHwbX1n1V1CfClWi18nDBu3LvNI5PfqPay+y4CH8f1Ln5Jb462uvKmgWVCANKDtxYQkqT4x4ML7zZmXlmclYy6OUKF2SLPmf3CaEyeUhgpIUgati4dxX0p1UHaoS/pIU5mb9zwrM9cKwTJDzyycKchL7yYvf0NQQnL14S1bVYHVEl7mZGBHIgxJfLjMByIpgEsqXSpDiXVWlBbBg=;/UWWGpo8/4xiKdK1N+vrXg=="
 ---

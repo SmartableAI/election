@@ -2,6 +2,171 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-06-biden-hasnt-talked-to-chinese-president-about-coronavirus-origins.md",
+      "title": "Biden hasn't talked to Chinese president about coronavirus origins",
+      "excerpt": "President Biden on Tuesday said he has not spoken to Chinese President Xi Jinping about the origins of COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhnRJtgchao/biden-chinese-president-xi-jinping-coronavirus-origins",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhnRJtgchao/biden-chinese-president-xi-jinping-coronavirus-origins",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-chinese-president-xi-jinping-coronavirus-origins.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-chinese-president-xi-jinping-coronavirus-origins.amp",
+      "publishedDateTime": "2021-04-06T13:58:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-biden-reassuring-to-see-companies-speak-out-against-voting-laws.md",
+      "title": "Biden: 'Reassuring' to see companies speak out against voting laws",
+      "excerpt": "President Biden Joe Biden Joe Biden's surprising presidency The Hill's Morning Report - Biden, McConnell agree on vaccines, clash over infrastructure Republican battle with MLB intensifies MORE on Tuesday credited private companies with speaking up in opposition to new voting laws being passed in Georgia and elsewhere while warning about the impact on workers when businesses leave,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws",
+      "originalUrl": "https://thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 465,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe3_04062021getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546781-biden-reassuring-to-see-companies-speak-out-against-voting-laws?amp",
+      "publishedDateTime": "2021-04-06T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-cnn-wapo-called-out-for-casting-doubt-on-trumps-april-timeline-for-vaccines.md",
+      "title": "CNN, WaPo called out for casting doubt on Trump's April timeline for vaccines",
+      "excerpt": "President Biden is set to announce all U.S. adults will be eligible for coronavirus vaccines by April 19, although multiple media outlets cast doubt on former President Donald Trump's claim last year there would be enough vaccines for adults by April.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april",
+      "originalUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e360c9be-94bc-48ba-b8f1-c0695538cccb/162fa33e-186e-4288-9a45-28a8efcaa517/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/media-trumps-claim-vaccines-americans-april.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-trumps-claim-vaccines-americans-april.amp",
+      "publishedDateTime": "2021-04-06T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-cleveland-businessman-jumps-into-ohio-senate-race-trump-victories-need-to-be-protected.md",
       "title": "Cleveland businessman jumps into Ohio Senate race: Trump 'victories' need to be protected",
       "excerpt": "Moreno, a Cleveland businessman, rolled out his bid in an over two-minute-long video in which he cast himself as an outsider in the mold of former President Trump Donald Trump Joe Biden's ...",
@@ -34,6 +199,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-momentous-error-italian-businessman-mistakenly-blacklisted-by-trump-to-sue.md",
+      "title": "‘Momentous error’: Italian businessman mistakenly blacklisted by Trump to sue",
+      "excerpt": "Alessandro Bazzoni, who owns a graphic design company in Sardinia, has been unable to trade since 19 January, when his business was slapped with sanctions as part of the Trump administration’s crackdown on blacklisted Venezuelan crude oil. In a case of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error?share=twitter",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error?share=twitter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/77075f50416d6dfd7c52865ed208c33f15ee696b/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a4cb2879f6959f413724f182ed9e8d11",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error",
+      "publishedDateTime": "2021-04-06T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -110,62 +327,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-06-biden-white-house-easter-remarks-included-zero-mentions-of-jesus.md",
-      "title": "Biden White House Easter remarks included zero mentions of Jesus",
-      "excerpt": "President Biden, a Roman Catholic, did not mention Jesus or Christ a single time in his Easter remarks on Monday. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PuMoWnrREKo/joe-biden-easter-remarks-white-house-jesus-mentions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PuMoWnrREKo/joe-biden-easter-remarks-white-house-jesus-mentions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64b8dbc3-7db5-499f-8a86-9f822fd9a68c/27ce4549-c949-46a6-9990-77077da9ef0e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-easter-remarks-white-house-jesus-mentions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-easter-remarks-white-house-jesus-mentions.amp",
-      "publishedDateTime": "2021-04-06T11:07:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-06-missouri-ag-schmitt-touts-fights-alongside-trump-in-senate-gop-race-to-replace-blunt.md",
       "title": "Missouri AG Schmitt touts 'fights' alongside Trump in Senate GOP race to replace Blunt",
       "excerpt": "Missouri Attorney General Eric Schmitt plans to occupy what is likely to be a crowded pro-Trump lane in the Republican primary for the state's open U.S. Senate seat, and is emphasizing his fights \"alongside\" the former president in the early stages of the race.",
@@ -222,6 +383,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-06-value-judgment-donald-trump-tumbles-down-billionaires-rankings.md",
+      "title": "Value judgment: Donald Trump tumbles down billionaires’ rankings",
+      "excerpt": "Today, we learn that Donald Trump got richer, too, but was left trailing by his billionaire mates. Poor guy. According to the yearly update of Forbes’ billionaires list, Donald Trump’s standing among other billionaires has plummeted almost 300 places ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a7bb74a5147066fcabe5dcab29348d277436ea83/0_342_5120_3074/master/5120.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a0ddb6768f8c58f6251933c2d295ea8b",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes",
+      "publishedDateTime": "2021-04-06T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.md",
       "title": "See Kamala Harris’ own ‘Resolute’ desk made from parts of USS Constitution",
       "excerpt": "The desk was built by US Navy Seabees and delivered to the White House in February, according to outlets including Military.com.",
@@ -270,77 +483,25 @@
       ]
     },
     {
-      "path": "_news/2021-04-06-official-biden-moving-vaccine-eligibility-date-to-april-19.md",
-      "title": "Official: Biden moving vaccine eligibility date to April 19",
-      "excerpt": "President Joe Biden is set to announce that he's shaving about two weeks off his May 1 deadline for states to make all adults eligible for coronavirus vaccines WASHINGTON -- President Joe Biden ...",
+      "path": "_news/2021-04-06-gop-rep-lee-zeldin-urged-by-trump-allies-to-run-for-governor-of-ny-amid-cuomo-scandals.md",
+      "title": "GOP Rep. Lee Zeldin urged by Trump allies to run for governor of NY amid Cuomo scandals",
+      "excerpt": "EXCLUSIVE: Trump allies are quietly rallying their support behind Republican Rep. Lee Zeldin, encouraging him to mount a GOP gubernatorial bid against New York Gov. Andrew Cuomo in 2022, Fox News has learned. Sources familiar told Fox News that Zeldin ...",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_8f3ad97807e84cd5bc8723834d33143e_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/official-biden-moving-vaccine-eligibility-date-april-19-76895952",
-      "publishedDateTime": "2021-04-06T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-biden-set-to-announce-hes-moving-deadline-for-all-us-adults-to-be-eligible-for-covid-vaccine-to-april-19.md",
-      "title": "Biden set to announce he's moving deadline for all US adults to be eligible for Covid vaccine to April 19",
-      "excerpt": "President Joe Biden plans to announce Tuesday that he is moving up his deadline for states to make all American adults eligible for a coronavirus vaccine by almost two weeks.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x9whOQVB82U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x9whOQVB82U/index.html",
+      "webUrl": "https://www.foxnews.com/politics/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo",
+      "originalUrl": "https://www.foxnews.com/politics/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo",
       "featuredContent": null,
       "highlight": {
-        "text": "Democratic Voice",
+        "text": "Republican Voice",
         "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
+        "backgroundColor": "#FF0000"
       },
-      "heat": 158,
+      "heat": 127,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210404164255-01-joe-biden-0324-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -348,16 +509,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/06/politics/coronavirus-vaccine-deadline-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/coronavirus-vaccine-deadline-biden/index.html",
-      "publishedDateTime": "2021-04-06T04:19:16-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-lee-zeldin-trump-allies-run-for-governor-new-york-cuomo.amp",
+      "publishedDateTime": "2021-04-06T08:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -374,7 +535,8 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {
@@ -386,7 +548,7 @@
       "originalUrl": "https://www.newsweek.com/kamala-harris-backs-gavin-newsom-recall-election-1581208",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1060,
+      "heat": 1140,
       "tags": null,
       "images": [
         {
@@ -427,62 +589,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says.md",
-      "title": "Biden WH 'tension' to blame for Major getting agitated, dog expert says",
-      "excerpt": "High-profile dog experts are speaking out about what they believe is really causing Biden's dog Major to act out after he bit two people at the White House in recent weeks, according to a report. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zL3ppeTplHo/biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zL3ppeTplHo/biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/GettyImages-1232008114.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says.amp",
-      "publishedDateTime": "2021-04-05T23:49:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -606,7 +712,7 @@
       "originalUrl": "https://www.businessinsider.com/trumps-mar-a-lago-secret-service-396-night-for-hotel-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -650,23 +756,23 @@
       ]
     },
     {
-      "path": "_news/2021-04-05-biden-cdc-director-says-youth-sports-extracurricular-activities-should-be-limited.md",
-      "title": "Biden CDC director says youth sports, extracurricular activities 'should be limited'",
-      "excerpt": "Centers for Disease Control and Prevention Director Rochelle Walensky on Monday said youth sports and other extracurricular activities \"should be limited\" amid the coronavirus pandemic, saying outbreaks in young people have stemmed from those activities.",
+      "path": "_news/2021-04-05-bidens-energy-policy-sends-a-very-dangerous-message-to-texas-george-p-bush.md",
+      "title": "Biden’s energy policy ‘sends a very dangerous message’ to Texas: George P. Bush",
+      "excerpt": "Texas Land Commissioner George P. Bush, son of Jeb, revealed in an interview with \"Fox & Friends\" host Brian Kilmeade that he is \"taking a very serious look\" at running for attorney general and said he should be making his final decision \"fairly soon.\"",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWQzbB1Bp8k/biden-cdc-director-youth-sports-limited",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWQzbB1Bp8k/biden-cdc-director-youth-sports-limited",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/glpkzQAm5SA/bidens-energy-policies-dangerous-message-texas-george-p-bush",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/glpkzQAm5SA/bidens-energy-policies-dangerous-message-texas-george-p-bush",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 168,
+      "heat": 171,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
           "width": 340,
           "height": 340,
           "title": null,
@@ -676,9 +782,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-cdc-director-youth-sports-limited.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cdc-director-youth-sports-limited.amp",
-      "publishedDateTime": "2021-04-05T09:46:30-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-energy-policies-dangerous-message-texas-george-p-bush.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-energy-policies-dangerous-message-texas-george-p-bush.amp",
+      "publishedDateTime": "2021-04-05T10:25:49-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -762,62 +868,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-05-heres-how-nancy-pelosi-could-personally-benefit-from-bidens-2t-spending-bill.md",
-      "title": "Here's how Nancy Pelosi could personally benefit from Biden’s $2T spending bill",
-      "excerpt": "House Speaker Nancy Pelosi, D-Calif., is positioned to potentially personally benefit from President Biden’s $2 trillion spending bill – and here's how she could do it.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QUudE0KtKOE/biden-spending-bill-pelosi-tesla-husband",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QUudE0KtKOE/biden-spending-bill-pelosi-tesla-husband",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 251,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6006abae-c244-4c3a-9668-00383f221969/3d269837-fe51-4751-9b4e-d1ca0217c647/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-spending-bill-pelosi-tesla-husband.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spending-bill-pelosi-tesla-husband.amp",
-      "publishedDateTime": "2021-04-05T09:11:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-05-supreme-court-dismisses-trump-twitter-case-as-moot-as-thomas-highlights-glaring-concern-of-platforms-power.md",
       "title": "Supreme Court dismisses Trump Twitter case as moot, as Thomas highlights 'glaring concern' of platform's power",
       "excerpt": "The Supreme Court on Monday deemed former President Donald Trump's appeal of a ruling that said it was unconstitutional for him to block critics, deeming his page to be a protected public forum. The court called for the case to be dismissed, as Trump is no ...",
@@ -872,58 +922,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-biden-and-the-waning-of-the-neoliberal-era.md",
-      "title": "Biden and the waning of the ‘neoliberal’ era",
-      "excerpt": "Support our journalism. Subscribe today. For much of his political career, President Biden was a custodian of the “neoliberal” order. He was a fixture in a Washington establishment that promoted years of economic globalization and, like political ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/2021/04/05/biden-infrastructure-plan-neoliberalism/",
-      "originalUrl": "https://www.washingtonpost.com/world/2021/04/05/biden-infrastructure-plan-neoliberalism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YBUW7WUC3II6XPRCGLJTDWDVGA.jpg&w=1440",
-          "width": 1440,
-          "height": 895,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/2021/04/05/biden-infrastructure-plan-neoliberalism/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/04/05/biden-infrastructure-plan-neoliberalism/?outputType=amp",
-      "publishedDateTime": "2021-04-05T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1083,25 +1081,25 @@
       ]
     },
     {
-      "path": "_news/2021-04-05-gop-loudly-voicing-concerns-about-debt-under-biden-eerily-quiet-under-trump.md",
-      "title": "GOP loudly voicing concerns about debt under Biden 'eerily quiet' under Trump",
-      "excerpt": "CNN's Pamela Brown analyzes GOP silence about deficit growth under former President Donald Trump, despite trillions in economic growth, and their loudly voiced concerns about national debt under President Joe Biden.",
+      "path": "_news/2021-04-04-biden-in-easter-message-calls-getting-vaccine-a-moral-obligation.md",
+      "title": "Biden in Easter message calls getting vaccine a 'moral obligation'",
+      "excerpt": "President Biden and First Lady Jill Biden released an Easter video Sunday in which the president insisted that Americans get vaccinated against COVID-19, calling it a \"moral obligation.\"",
       "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
-      "originalUrl": "https://www.cnn.com/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kzQAWLzz-W8/biden-in-easter-message-calls-getting-vaccine-a-moral-obligation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kzQAWLzz-W8/biden-in-easter-message-calls-getting-vaccine-a-moral-obligation",
       "featuredContent": null,
       "highlight": {
-        "text": "Democratic Voice",
+        "text": "Republican Voice",
         "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
+        "backgroundColor": "#FF0000"
       },
-      "heat": 147,
+      "heat": 175,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210404190501-pamela-brown-fts-vpx-screengrab-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/morita.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1109,16 +1107,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
-      "publishedDateTime": "2021-04-04T16:21:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-in-easter-message-calls-getting-vaccine-a-moral-obligation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-in-easter-message-calls-getting-vaccine-a-moral-obligation.amp",
+      "publishedDateTime": "2021-04-04T16:04:19-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1135,8 +1133,7 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden",
-        "Democratic Voice"
+        "Republican Voice"
       ]
     },
     {
@@ -1208,7 +1205,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1264,7 +1261,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 235,
+      "heat": 275,
       "tags": null,
       "images": [
         {

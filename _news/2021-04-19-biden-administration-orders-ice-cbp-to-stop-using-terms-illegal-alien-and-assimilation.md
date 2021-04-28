@@ -63,22 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Russia expels 10 US diplomats after Biden administration announces new sanctions"
-    excerpt: "Russia on Friday responded in kind to a barrage of new U.S. sanctions, saying it would expel 10 U.S. diplomats and take other retaliatory moves in a tense showdown with Washington"
-    publishedDateTime: 2021-04-16T17:15:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gpr5a2Gxs54/russia-expels-10-us-diplomats-biden-announces-new-sanctions"
-    ampWebUrl: "https://www.foxnews.com/politics/russia-expels-10-us-diplomats-biden-announces-new-sanctions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/russia-expels-10-us-diplomats-biden-announces-new-sanctions.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20340464541350.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Arizona AG sues Biden administration over immigration policies that harm the environment"
     excerpt: "Arizona Attorney General Mark Brnovich is suing the Biden administration over its immigration policies, citing questions over whether recent decisions comply with environmental regulations"
     publishedDateTime: 2021-04-12T23:55:21Z

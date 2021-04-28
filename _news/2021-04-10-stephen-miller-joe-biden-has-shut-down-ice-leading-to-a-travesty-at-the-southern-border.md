@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Americans give Biden a thumbs-down on border crisis: poll"
+    excerpt: "As President Biden nears his 100th day in office, his overall approval ratings remain well above water and he scores high marks with Americans on how he’s handling the coronavirus pandemic."
+    publishedDateTime: 2021-04-15T20:56:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHicUALiP4k/biden-approval-immigration-border-crisis-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-immigration-border-crisis-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-immigration-border-crisis-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden demands Republicans move on gun background check bill"
     excerpt: "President Biden Friday demanded the Republicans in the Senate move on passing gun background check legislation, calling the string of mass shootings and gun violence a \"national embarrassment.\""
     publishedDateTime: 2021-04-16T21:54:03Z

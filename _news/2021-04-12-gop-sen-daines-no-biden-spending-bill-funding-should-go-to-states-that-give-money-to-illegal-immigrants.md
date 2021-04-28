@@ -47,22 +47,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Rand Paul: Lot of ‘hypocrisy’ from Biden admin on immigration, migrant facilities"
-    excerpt: "The Biden administration is showing \"hypocrisy\" by reopening a migrant facility that the Trump administration was criticized for using, Sen. Rand Paul, R-Ky., said on Thursday."
-    publishedDateTime: 2021-02-25T23:29:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P5CVOwVb1eE/rand-paul-biden-administration-hypocrisy-biden-administration-immigration"
-    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-biden-administration-hypocrisy-biden-administration-immigration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-biden-administration-hypocrisy-biden-administration-immigration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden vows to get $2T spending bill passed, hits back at GOP criticism: 'I'm going to push as hard as I can'"
     excerpt: "President Biden on Monday said he will \"push as hard\" as he can to get his $2 trillion spending bill through Congress, despite criticism from Republican lawmakers about its size and the contents of the package."
     publishedDateTime: 2021-04-05T16:54:24Z
@@ -78,6 +62,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "If It Ain't Broke, Joe Biden Will Break It"
+    excerpt: "The sage advice that If it ain't broke, don't fix it is older than Joe Biden, but apparently he never heard of it. Or doesn't think much of it."
+    publishedDateTime: 2021-04-11T11:25:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/11/if_it_aint_broke_joe_biden_will_break_it_540257.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/540056_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Joe Biden's Trojan Horse Presidency"
     excerpt: "Joe Biden was elected president after a campaign rooted in rhetoric emphasizing unity, moderation, and compromise. But with every day that passes, the veneer of centrism that got him elected over rivals such as Sen."

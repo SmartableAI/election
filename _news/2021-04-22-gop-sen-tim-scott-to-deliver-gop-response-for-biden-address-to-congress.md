@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "White House tells refugee advocates Biden likely to raise cap quickly "
+    excerpt: "White House officials signaled in a conference call with refugee resettlement advocates late Friday that President Joe Biden is likely to raise the current refugee cap of 15,000 quickly, well ahead of the May 15 deadline set Friday, according to a person familiar with the matter.\n    \n"
+    publishedDateTime: 2021-04-17T14:07:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/peQc3kYUWg0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/17/politics/biden-refugee-cap-advocates/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210417093925-01-joe-biden-0415-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Jill Biden revisits the idea of free community college"
     excerpt: "First lady Jill Biden on Monday stepped up her call for affordable community college for all Americans who wish to attend, revisiting her support for free community colleges.\n    \n"
     publishedDateTime: 2021-04-19T21:49:49Z
@@ -63,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "CNN to host climate crisis town hall with Biden administration officials"
+    excerpt: "Senior Biden administration officials this week will answer questions on how President Joe Biden plans to remake US climate policy in a globally broadcast CNN town hall, the network announced Monday.\n    \n"
+    publishedDateTime: 2021-04-19T18:49:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LboOxn4BvMQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/cnn-climate-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/cnn-climate-town-hall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419144802-cnn-climate-crisis-town-hall-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Vaccine hesitancy among Republicans emerges as Biden's next big challenge"
     excerpt: "As the pace of daily vaccinations slides in the US, the Biden administration is directing fresh urgency to one of the biggest political challenges it faces in stopping the spread of the coronavirus: tackling vaccine hesitancy, particularly among conservative and rural voters in the Southeast and Mountain"
     publishedDateTime: 2021-04-24T04:10:02Z
@@ -76,6 +108,38 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210423101832-02-joe-biden-0423-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden won't raise refugee cap this fiscal year in a reversal on earlier pledge"
+    excerpt: "President Joe Biden will sign a declaration on Friday to speed refugee admissions to the US but not raise the refugee cap, as he has committed to doing. Instead, he will sign an emergency determination that will cast a wider net of who can arrive to the US under the refugee ceiling currently in place.\n"
+    publishedDateTime: 2021-04-16T17:12:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j-S4fJkQ5KQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/biden-refugee-cap/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/biden-refugee-cap/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415170509-02-biden-russia-comments-0415-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden hits 200 million vaccine doses. The next 200 million will be a lot harder"
+    excerpt: "It's no longer supply, it's demand. This, right now, is the moment when the government stopped the triage effort on vaccines and started trying to convince the skeptical and the unwilling to roll up their sleeves.\n    \n"
+    publishedDateTime: 2021-04-21T21:03:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jND-SSxzC5Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/21/politics/what-matters-vaccine-tipping-point/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/what-matters-vaccine-tipping-point/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420141937-01-needles-pfizer-vaccine-0415-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -95,19 +159,83 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "John Kerry predicts that Biden's climate-focused jobs plan will attract Republican support"
-    excerpt: "John Kerry, the special presidential envoy for climate, predicted during a CNN Climate Town Hall aired Friday that the Biden administration's efforts to combat climate change while creating jobs will garner Republican support.\n    \n"
-    publishedDateTime: 2021-04-24T03:03:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zBi2yPVFzk8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/john-kerry-climate-town-hall-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/john-kerry-climate-town-hall-cnntv/index.html"
+  - title: "'Unacceptable and unconscionable': Top progressives outraged Biden won't raise refugee cap "
+    excerpt: "Prominent progressive lawmakers expressed outrage on Friday in response to the news that President Joe Biden will sign an emergency determination that keeps the Trump-era refugee cap of 15,000 -- a significant reversal from his administration's proposal earlier this year to lift the cap to 62,500.\n "
+    publishedDateTime: 2021-04-16T19:53:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_JY-CzxXcTM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/progressive-outrage-refugee-cap-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/progressive-outrage-refugee-cap-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210423180814-cnn-climate-town-hall-0423-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330130505-02-rep-pramila-jayapal-0301-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Republican Lisa Murkowski breaks ranks to advance Biden's associate attorney general nominee"
+    excerpt: "The Senate narrowly voted to advance the nomination of President Joe Biden's nominee to be associate attorney general, Vanita Gupta, setting up a final vote expected later Tuesday despite fierce opposition from most Republican senators.\n    \n"
+    publishedDateTime: 2021-04-21T17:11:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7M_9Iq-9boo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/21/politics/vanita-gupta-nomination-advances/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/vanita-gupta-nomination-advances/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421125524-vanita-gupta-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden aims to make the economic case for fighting climate change on second day of virtual summit"
+    excerpt: "President Joe Biden on Friday aims to highlight the economic opportunities of climate action a day after announcing an ambitious new goal to reduce greenhouse gas emissions at his Leaders Summit on Climate from the White House.\n    \n"
+    publishedDateTime: 2021-04-23T10:02:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sewqePj5dow/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/white-house-leaders-climate-summit-day-two/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/white-house-leaders-climate-summit-day-two/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422083025-03-biden-climate-summit-0422-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden will seek to raise taxes on richest Americans to fund sweeping education and child care proposals"
+    excerpt: "President Joe Biden is preparing to outline the next step of his economic agenda during a joint session to Congress next week and his proposal to pay for it is expected to include new taxes on the wealthiest Americans.\n    \n"
+    publishedDateTime: 2021-04-23T13:07:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gjEj8xL-fx0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/biden-tax-increase-education-childcare/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/biden-tax-increase-education-childcare/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210408121518-joe-biden-april-8-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Ilhan Omar and Democratic members urge Biden to act swiftly on raising refugee caps: 'Lives depend on it'"
+    excerpt: "A group of progressive Democrats is urging the Biden administration to act quickly to raise refugee caps put in place by the former Trump administration, warning that \"lives depend on it.\"\n    \n"
+    publishedDateTime: 2021-04-16T14:54:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8O2YNrm6Z7U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/16/politics/democrats-letter-biden-refugee-caps/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/democrats-letter-biden-refugee-caps/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416102953-rep-ilhan-omar-0311-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -159,54 +287,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Prince William urges Covid spirit in climate fight ahead of Biden summit"
-    excerpt: "The open letter signed by the prince and a string of high-profile figures calls climate change \"the most pressing challenge in human history.\""
-    publishedDateTime: 2021-04-22T11:46:00Z
-    webUrl: "https://www.nbcnews.com/news/world/prince-william-urges-covid-spirit-climate-fight-ahead-biden-summit-n1264896"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264896"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264896"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_16/3466826/210422-prince-william-mc-1005_24bb21d89a10918fb2f7bfb7c72a4387.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Can this Latina law professor tapped by Biden help reform the Supreme Court?"
-    excerpt: "President Joe Biden has signed an executive order creating a presidential commission to study whether the Supreme Court should be overhauled, and he has named Yale Law School professor Cristina M. Rodríguez as its co-chair. Rodríguez and Bob Bauer ..."
-    publishedDateTime: 2021-04-14T16:27:00Z
-    webUrl: "https://www.nbcnews.com/news/latino/can-latina-law-professor-tapped-biden-help-reform-supreme-court-rcna672"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna672"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna672"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/991/210414-cristina-rodriguez-e-1159a-533b60_3ba0ec6cd784659fb9b9e3059b76abe7fd305203.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Can this Latina law professor tapped by Biden help reform the Supreme Court?"
-    excerpt: "President Joe Biden has signed an executive order creating a presidential commission to study whether the Supreme Court should be overhauled, and he has named Yale Law School professor Cristina M. Rodríguez as its co-chair. Rodríguez and Bob Bauer ..."
-    publishedDateTime: 2021-04-14T17:09:00Z
-    webUrl: "https://www.nbcnews.com/news/latino/can-latina-law-professor-cristina-m-rodriguez-help-reform-supreme-cour-rcna672"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna672"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna672"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/991/210414-cristina-rodriguez-e-1159a-533b60_3ba0ec6cd784659fb9b9e3059b76abe7fd305203.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Live Updates: Biden to Announce Major Pledge to Cut Greenhouse Gas Emissions"
     excerpt: "President Biden’s plan to cut emissions almost in half by 2030 would require Americans to transform the way they drive, heat their homes and manufacture goods. It is expected to be announced Thursday and timed with a global summit meeting."
     publishedDateTime: 2021-04-21T12:27:00Z
@@ -223,33 +303,33 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Biden to call for peaceful protests in response to Chauvin guilty on all counts verdict"
-    excerpt: "President Joe Biden is expected to speak in response to Derek Chauvin being convicted on all counts, in the death of George Floyd. Biden will call for peaceful protests and marches in the coming days."
-    publishedDateTime: 2021-04-20T21:38:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-to-call-for-peaceful-protests-in-response-to-chauvin-guilty-on-all-counts-verdict-110544453553"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo110544453553"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo110544453553"
+  - title: "Live Updates: Biden Invites More Lawmakers to the White House to Discuss Infrastructure"
+    excerpt: "President Biden hopes to win support from a bipartisan group of former mayors and governors for his $2.3 trillion infrastructure plan. Republicans have pushed for a smaller plan focused on traditional areas like bridges and roads,"
+    publishedDateTime: 2021-04-19T10:50:00Z
+    webUrl: "https://www.nytimes.com/live/2021/04/19/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/04/19/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/04/19/us/joe-biden-news.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: New York Times
+      domain: nytimes.com
     quality: 127
     images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202104/1618954400263_nbc_spec_welker_biden_210420_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static01.nyt.com/images/2021/04/19/us/politics/19new-washington-biden-infrastructure/19new-washington-biden-infrastructure-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "POLITICO Playbook: Why the next two weeks are critical for the Biden presidency"
-    excerpt: "Get ready for a big two weeks from the Biden administration: bipartisan infrastructure talks today, a major Covid and vaccine update speech from President JOE BIDEN on Wednesday, and a two-day climate summit starting on Earth Day this Thursday when Biden will announce America’s 2030 emissions target."
-    publishedDateTime: 2021-04-19T10:08:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2021/04/19/why-the-next-two-weeks-are-critical-for-the-biden-presidency-492514"
+  - title: "POLITICO Playbook PM: Biden faces first test on policing"
+    excerpt: "I’m praying the verdict is the right verdict,” Biden said. “The evidence is overwhelming in my view.” Biden’s decision to go out on a limb like that is a bit surprising. Presidents and other politicians typically refrain from weighing in while juries deliberate — DONALD TRUMP,"
+    publishedDateTime: 2021-04-20T17:27:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/04/20/biden-faces-first-test-on-policing-492533"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 111
+    quality: 115
     images:
-      - url: "https://static.politico.com/40/22/ce04a5a7444b97c5a14388513d98/gettyimages-1232330796.jpg"
+      - url: "https://static.politico.com/ed/60/d1d66c2f4d4dae0334927772719c/210420-biden-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

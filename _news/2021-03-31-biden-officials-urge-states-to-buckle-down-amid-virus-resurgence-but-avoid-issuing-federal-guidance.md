@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/biden-coronavirus-guidan
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/biden-coronavirus-guidance/index.html"
 type: article
 quality: 160
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden faces first Covid surge as allies brush off warnings"
+    excerpt: "That’s left President Joe Biden fighting two battles: speeding up the vaccine rollout while pushing crisis-weary states to tamp down infections through mask mandates, social distancing and other measures in the meantime. Losing either could not only ..."
+    publishedDateTime: 2021-03-30T23:36:00Z
+    webUrl: "https://www.politico.com/news/2021/03/30/biden-first-covid-surge-478623"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/30/biden-first-covid-surge-478623"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/30/biden-first-covid-surge-478623"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ea/4b/9d66a8ca4a0e8e33362cd04ee081/gettyimages-1232023308-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden officials urge states to 'buckle down' amid virus resurgence but avoid issuing federal guidance"
     excerpt: "Biden administration officials are increasingly urging governors and local officials to reinstate or avoid relaxing public health restrictions as coronavirus cases continue to rise and the US stares down the prospect of another surge."
     publishedDateTime: 2021-03-31T22:41:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/world-europe-56692865"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-europe-56692865"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "After outcry, Biden plans to lift refugee cap in May"
+    excerpt: "President Joe Biden plans to lift his predecessor’s historically low cap on refugees by next month, after initially moving only to expand the eligibility criteria for resettlements and getting swift blowback from allies in return."
+    publishedDateTime: 2021-04-17T23:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/outcry-wh-biden-lift-refugee-cap-77132342"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/outcry-wh-biden-lift-refugee-cap-77132342"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/outcry-wh-biden-lift-refugee-cap-77132342"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_af5e476b20204daa83d9b6e02fe738f7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "+HC9yVaa17fXnPFeeYBbrUEWjhfwW+mqTR0rvt/D6CtOnnff/fPHcg80HHBeXriGExMdXClJ4Ug9G6qfGyk4IlFdk2y11sxoZdSyUlKykc/XhbQYNP9ffGxogrKdlGPbHsr1IQrm704CA9sSnWMeFlTWIYSf+YaRyvZon458Io9lyB19JcJ4HjZ+J4cGOVUqA7Ag0t9AvJ3M5E6ujTSZqloEPFUyGBjtjV9fcbPB59pgXe++JQ61YGkhBi6DFUUuyZv8LVkeCpee+1VhDwW8WdYQM8Jil5/kl0o0h3quKmPu58YOLsQVKbY0C3+oCxzv3H73nhJtLuug1bghQVzbAonoL0QwsyTEeQwHQIL0V/E=;FVbrELTf8VXGr/LFLvcrWQ=="
 ---

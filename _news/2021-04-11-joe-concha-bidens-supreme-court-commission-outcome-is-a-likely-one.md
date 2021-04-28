@@ -32,12 +32,92 @@ images:
     isCached: true
 
 related:
-  - title: "Karl Rove slams Biden's pick to head Supreme Court commission as 'political hack'"
-    excerpt: "Fox News contributor Karl Rove warns Democrats against expanding the Supreme Court, saying it may not working their favor in 2022, on 'Your World.'"
-    publishedDateTime: 2021-04-09T22:32:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RUJMfA5OSYE/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack"
-    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
+  - title: "Biden to address joint session of Congress on April 28"
+    excerpt: "If Biden accepts the invitation, it would mark the first time he has addressed Congress in person since becoming president."
+    publishedDateTime: 2021-04-14T00:21:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9tajvtn_3qk/pelosi-invites-biden-to-address-joint-congress-session-on-april-28"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-invites-biden-to-address-joint-congress-session-on-april-28.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-invites-biden-to-address-joint-congress-session-on-april-28.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23634e94-94e7-4bf7-9e0c-fe06767c9820/a40574e7-a98b-4e06-b72a-eedcc3fe9dc2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rep. Mace hits Biden for giving first joint address to an 'empty room'"
+    excerpt: "President Biden has accepted House Speaker Nancy Pelosi's invitation to deliver his first joint session of Congress address on Wednesday, April 28."
+    publishedDateTime: 2021-04-15T17:06:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UeRSwox8GUU/rep-mace-biden-state-of-the-union-address-empty-room"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-mace-biden-state-of-the-union-address-empty-room.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-mace-biden-state-of-the-union-address-empty-room.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd344368-8532-4513-b2d1-a2efb623f115/dfd26a02-8311-4908-944a-cb8c76d596ef/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "China enraged as Biden sends unofficial delegates to Taiwan"
+    excerpt: "Former Sen. Chris Dodd and two former U.S. deputy secretaries of state are visiting Taiwan at the request of President Joe Biden to celebrate the 42nd anniversary of the Taiwan Relations Act, which Biden voted for when he was a senator."
+    publishedDateTime: 2021-04-16T00:21:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zeQqrzFB3v8/china-enraged-biden-sends-unofficial-delegates-taiwan"
+    ampWebUrl: "https://www.foxnews.com/politics/china-enraged-biden-sends-unofficial-delegates-taiwan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/china-enraged-biden-sends-unofficial-delegates-taiwan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21104375855660.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "GOP lawmakers ask Pelosi to reschedule Biden's first speech to Congress"
+    excerpt: "A group of GOP lawmakers called Monday for House Speaker Nancy Pelosi to reschedule President Biden’s first speech to Congress later this month to a date when the House is in session."
+    publishedDateTime: 2021-04-19T20:26:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JOJyh7M26fc/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6a4c698-2716-47ac-a29c-fe49c8a2549b/b588a97f-04a0-4158-a1ee-919609e7c5fd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "CA man whose brother was killed by illegal immigrant sends message to Biden"
+    excerpt: "A man whose brother was killed by an illegal alien slammed the Biden administration for refusing to admit that there is a crisis at the southern border and said the situation is getting worse by the minute."
+    publishedDateTime: 2021-04-09T12:29:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dGSc4lpIRH4/california-man-brother-killed-illegal-immigrant-biden-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/california-man-brother-killed-illegal-immigrant-biden-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-man-brother-killed-illegal-immigrant-biden-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b0330951-a90f-499a-abe2-ecd4bb10c804/c6e4fc37-0ba2-4fe1-b955-c29f20bbde5d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rep. Liz Cheney blasts Biden over 'reckless decision' to pull out of Afghanistan"
+    excerpt: "House Republican Conference Chair Liz Cheney joined \"Your World\" Wednesday to react to President Biden's announcement that U.S. forces would begin their final withdrawal from Afghanistan May 1."
+    publishedDateTime: 2021-04-14T22:30:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c-6VCYtlk-k/liz-cheney-biden-afghanistan-pullout-reckless-decision"
+    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-biden-afghanistan-pullout-reckless-decision.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-biden-afghanistan-pullout-reckless-decision.amp"
     type: article
     provider:
       name: Fox News
@@ -48,54 +128,77 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "NY Dem calls on Supreme Court Justice Stephen Breyer to retire so Biden can pick a nominee"
-    excerpt: "New York Democrat Rep. Mondaire Jones said there’s \"no question\" Supreme Court Justice Stephen Breyer should retire during President Biden’s presidency. "
-    publishedDateTime: 2021-04-16T18:46:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b0Q9CxFEcoA/democratic-rep-supreme-court-justice-stephen-breyer-retire"
-    ampWebUrl: "https://www.foxnews.com/politics/democratic-rep-supreme-court-justice-stephen-breyer-retire.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-rep-supreme-court-justice-stephen-breyer-retire.amp"
+  - title: "Russia expels 10 US diplomats after Biden administration announces new sanctions"
+    excerpt: "Russia on Friday responded in kind to a barrage of new U.S. sanctions, saying it would expel 10 U.S. diplomats and take other retaliatory moves in a tense showdown with Washington"
+    publishedDateTime: 2021-04-16T17:15:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gpr5a2Gxs54/russia-expels-10-us-diplomats-biden-announces-new-sanctions"
+    ampWebUrl: "https://www.foxnews.com/politics/russia-expels-10-us-diplomats-biden-announces-new-sanctions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/russia-expels-10-us-diplomats-biden-announces-new-sanctions.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 170
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/mondaire-jones.jpeg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20340464541350.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Kennedy say 'wokers' want 'politicians in robes,' vows 'hell of a fight' if Biden tries to pack court"
-    excerpt: "Sen. John Kennedy, R-La., said Monday that there will be a 'hell of a fight' if President Biden caves to the 'wokers' who want to pack the Supreme Court. "
-    publishedDateTime: 2021-04-12T14:38:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h2Wrmgkrk7A/wokers-politicians-fight-biden-pack-supreme-court-john-kennedy"
-    ampWebUrl: "https://www.foxnews.com/politics/wokers-politicians-fight-biden-pack-supreme-court-john-kennedy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wokers-politicians-fight-biden-pack-supreme-court-john-kennedy.amp"
+  - title: "Biden admin to brief full Senate on decision to withdraw US troops from Afghanistan"
+    excerpt: "The Biden Administration is expected to deliver a briefing to the full Senate next week on its decision to withdraw all U.S. troops from Afghanistan by September 11, sources told Fox News. "
+    publishedDateTime: 2021-04-15T23:32:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxWgd-ucrAw/biden-admin-to-brief-full-senate-on-decision-to-withdraw-us-troops-from-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-to-brief-full-senate-on-decision-to-withdraw-us-troops-from-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-to-brief-full-senate-on-decision-to-withdraw-us-troops-from-afghanistan.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Karl Rove slams Biden's pick to head Supreme Court commission as 'political hack'"
-    excerpt: "DNC general counsel. In the 2020 election, he helped Biden vet his vice presidential running mates, and then in the debate prep played Donald Trump in the debate prep for Joe Biden. So here we have a very touchy issue, should we or should we not expand the ..."
-    publishedDateTime: 2021-04-09T22:35:00Z
-    webUrl: "https://www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack"
-    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-slams-bidens-pick-to-head-supreme-court-commission-as-political-hack.amp"
+  - title: "Lindsey Graham calls Biden’s weakness towards Russia a ‘death sentence’: ‘Nobody’ is afraid of Joe Biden"
+    excerpt: "President Biden is bringing a weaker demeanor to the forefront of the nation and it's apparent in his relationship with Russia, Sen. Lindsey Graham, R-S.C., argued Monday on \"Fox News Primetime\""
+    publishedDateTime: 2021-04-20T02:06:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nl0lRh4N43A/lindsey-graham-calls-bidens-weakness-towards-russia-a-death-sentence-nobody-is-afraid-of-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-calls-bidens-weakness-towards-russia-a-death-sentence-nobody-is-afraid-of-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-calls-bidens-weakness-towards-russia-a-death-sentence-nobody-is-afraid-of-joe-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 130
+    quality: 158
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3898acf2-fc08-4a0d-b912-eff0dfbf077d/d3876187-a51c-4d18-96e6-b7d37a330fda/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21109644329141.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
+  - title: "Biden To Congress On Infrastructure: \"I'm Prepared To Negotiate\""
+    excerpt: "President Joe Biden said he is “prepared to negotiate” the size of his infrastructure plan and how to pay for it during a meeting with a bipartisan group of lawmakers on Monday. \"I’m prepared to negotiate as to the extent of my infrastructure project ..."
+    publishedDateTime: 2021-04-13T12:52:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/13/biden_to_congress_on_infrastructure_im_prepared_to_negotiate.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/540323.jpg"
+        width: 4871
+        height: 3248
+        isCached: true
+  - title: "Biden Making a Major Mistake on Afghanistan"
+    excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
+    publishedDateTime: 2021-04-14T11:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/14/biden_making_a_major_mistake_on_afghanistan_540470.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "SMSFJmFe6YtVfv4j7cdQbojuTs0yOaKiYaRKsZh9HHIRAlMDfTFvDZcZSb6Zigt1QFMKsh5cQzzklt33o2c25PiRYJ2xhIk37UELkBum2iDD7VhIK16pl8vD10LVCbhKXH2/uOtcOesKmMwYBtFt/4/1TcyiARZHHqTkcGtHaahHlWjFdJV/VxfHlINvYIOZ/ExSrbnv90Mi0y+v9TZRYL7iLJIUQN/M+e88vhaHvfzDBRgoAD/KhDF1xHTwmsyiS1V0clXY8uxFMhuZTYf5Eo8yq5ewiZfGVEAek9lKhDKjNFjkVXQB4fE5LLnaZ2Z/9HE7/NMd+5CPNam/XfqxB7yasNfp6TEkHueasFrmaDM=;M2iGoFCkZtThCGZRixWhyw=="
 ---

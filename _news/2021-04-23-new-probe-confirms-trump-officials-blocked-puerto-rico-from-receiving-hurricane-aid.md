@@ -32,37 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Washington Post: Trump administration blocked investigation into delayed relief to Puerto Rico for 2017 hurricane"
-    excerpt: "The Trump administration put up barriers that delayed $20 billion in hurricane relief aid to Puerto Rico and blocked an investigation into the delayed funds, The Washington Post reported Thursday, citing a 46-page inspector general report.\n    \n"
-    publishedDateTime: 2021-04-22T13:31:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vQlhUwmwniE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/22/politics/puerto-rico-relief-investigation-washington-post/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/puerto-rico-relief-investigation-washington-post/index.html"
+  - title: "One America News Network Stays True to Trump"
+    excerpt: "A recent OAN segment said there were “serious doubts about who’s actually president,” and another blamed “anti-Trump extremists” for the Capitol attack."
+    publishedDateTime: 2021-04-18T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/18/business/media/oan-one-america-trump.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 154
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422075257-file-hurricane-maria-puerto-rico-2017-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2021/04/05/business/00OAN-01/merlin_177598191_67fd0320-9bd9-4f06-b481-3683fd454302-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Biden administration lifts Trump-era restrictions stalling Puerto Rico hurricane aid"
-    excerpt: "The Department of Housing and Urban Development also made $8.2 billion available to Puerto Rico, three years after Congress initially approved the aid."
-    publishedDateTime: 2021-04-21T14:50:00Z
-    webUrl: "https://www.nbcnews.com/news/latino/biden-administration-lifts-trump-era-restrictions-stalling-puerto-rico-hurricane-n1264672"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264672"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264672"
+  - title: "8 Podcasts to Help Make Sense of Post-Trump America"
+    excerpt: "In the wake of a most untraditional presidency, these shows will keep you up-to-date on what’s happening in Washington and our politically polarized country."
+    publishedDateTime: 2021-04-21T15:02:00Z
+    webUrl: "https://www.nytimes.com/2021/04/21/arts/podcasts-trump-politics.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/21/arts/podcasts-trump-politics.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/21/arts/podcasts-trump-politics.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 143
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_16/2688286/181218-puerto-rico-hurricane-maria-damage-cs-449p_224914a1716ff83713dd32469cd273d7.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://static01.nyt.com/images/2021/04/25/arts/25podcasts/25podcasts-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "t0TDt5wmte7SGuiPmhB3RZvWOGaH7rd1RqSS2frd0UZ/AQv+/wUlpX4fMFa4CnSS9gWRNtw3IHIVTVEbjHMlflMfPknclYVCRkdjU8xjSvjczVpQGOHiy3Gdk5AwgzvUIiHEujLc6JM/XV7eohtQooFjpngk46nLBYqzhKQSd/T1dQwW1mwxeA6nxlHxGxc1m4SnfZNei12x+UhKBAehVvJv2WVMqSSqA+iC/FZJrbDZlEGB0P75GNrTMB3ugSj28/q+rQXAdQmIdVfgrFbvEXDUoDglC3E63LIbr6PWqAGw43jHjuny7n29wP+L7L+RJTltCGcXqhA1BRDdoWJvNh4mRZel+k8r1xJypzOKBXZVAxL1DICWe45RJ3pfL5f4/G4WMxhXd7Ow/yHT1Kq5E048C+ESLTSMbqHvr1T6bcwdshy5a7T52OYNOdAsvhB6FhldWuJzGGzncrUYDKSLkzbGOU3W3FxNCY6fb3As/3KCNhZ4IT9lwBnbXxUTtDHxbtPn0q8hgtBfSznUtxOYlA==;YpkKm6H/cKNH7kmgDEnkIg=="

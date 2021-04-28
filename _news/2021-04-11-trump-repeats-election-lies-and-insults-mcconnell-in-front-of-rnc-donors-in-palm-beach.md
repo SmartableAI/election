@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/10/politics/rnc-donors-palm-beach-do
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/10/politics/rnc-donors-palm-beach-donald-trump/index.html"
 type: article
 quality: 182
-heat: 582
+heat: 502
 published: true
 
 provider:
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "McConnell will vote to acquit Trump in second impeachment trial"
-    excerpt: "Senate Minority Leader Mitch McConnell has told his colleagues that he will vote to acquit former President Donald Trump of inciting the insurrection at the US Capitol last month, according to a source familiar with the conversations.\n    \n"
-    publishedDateTime: 2021-02-13T14:47:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rw3HPocqnPw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "McConnell blames Trump but voted not guilty anyway"
-    excerpt: "Senate Minority Leader Mitch McConnell has told his colleagues that he will vote to acquit former President Donald Trump of inciting the insurrection at the US Capitol last month, according to a source familiar with the conversations.\n    \n"
-    publishedDateTime: 2021-02-14T00:42:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rw3HPocqnPw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump endorses Republican ally Mo Brooks for Alabama Senate "
     excerpt: "Former President Donald Trump on Wednesday endorsed Rep. Mo Brooks' campaign for US Senate in Alabama, supporting the controversial GOP congressman who stood by him during two impeachments and led the House effort to object to the 2020 election results.\n    \n"
     publishedDateTime: 2021-04-07T15:46:13Z
@@ -111,19 +79,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump rips McConnell in lengthy statement after being acquitted in impeachment trial"
-    excerpt: "Former President Donald Trump went after Senate Minority Leader Mitch McConnell on Tuesday, calling him \"a dour, sullen, and unsmiling political hack\" in a broadside attack just days after the Kentucky Republican voted to acquit Trump in his second impeachment trial.\n    \n"
-    publishedDateTime: 2021-02-16T22:55:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/96Kw5LyuNZk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/trump-mcconnell/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/trump-mcconnell/index.html"
+  - title: "McConnell-aligned super PAC backs Murkowski, setting up clash with pro-Trump candidate"
+    excerpt: "The Senate Leadership Fund will support Alaska Sen. Lisa Murkowski in her reelection campaign, setting up a clash between the Mitch McConnell-aligned group and GOP candidate Kelly Tshibaka, who has hired some advisers to former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-04-09T16:44:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I-7th-kDfbQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/mitch-mcconnell-pac-backs-murkowski/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/mitch-mcconnell-pac-backs-murkowski/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230094039-split-donald-trump-mitch-mcconnell-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213164215-04-gop-vote-murkowski-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -158,38 +126,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310143921-marjorie-taylor-greene-march-10-2021-01-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "McConnell remains undecided on convicting Trump in Senate trial"
-    excerpt: "McConnell said last week that the earliest the Senate could take up the articles would be Jan. 19, unless all 100 senators agree to come back early."
-    publishedDateTime: 2021-01-14T11:18:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/mcconnell-remains-undecided-convicting-trump-senate-trial-n1254168"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254168"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254168"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_53/3438574/201229-mitch-mcconnell-jm-1456_9251998545a2096bbf31d2253f4de884.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "McConnell Was Done With Trump. His Party Said Not So Fast."
-    excerpt: "After four years, the minority leader had finally had enough. But with most Republicans rallying around Donald J. Trump, he sided with his colleagues trying to throw out the impeachment case."
-    publishedDateTime: 2021-01-28T01:29:00Z
-    webUrl: "https://www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/27/us/politics/mcconnell-trump-impeachment.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/27/us/politics/27dc-mcconnell/27dc-mcconnell-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Boehner Blasts Trump, Saying He ‘Incited That Bloody Insurrection’"
     excerpt: "In his new book, John Boehner, the Republican former House speaker, sharply rebukes the former president for his role in the “mob violence” at the Capitol on Jan. 6."
@@ -287,22 +223,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump conviction faces uphill climb in Senate. It could all come down to McConnell."
-    excerpt: "Senators are not expected to consider the House impeachment resolution until Tuesday, the day before President-elect Joe Biden takes office."
-    publishedDateTime: 2021-01-14T08:22:00Z
-    webUrl: "https://www.nbcnews.com/politics/trump-impeachment-inquiry/trump-impeachment-faces-uphill-climb-senate-it-could-all-come-n1254171"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254171"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254171"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_02/3441896/210113-donald-trump-ac-434p_0a113ac772841e55bfd302f2f9225047.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
   - title: "'Dumb son of a bitch': Trump rips McConnell at Mar-a-Lago"
     excerpt: "Former President Donald Trump ripped into Senate Minority Leader Mitch McConnell before a Republican National Committee donor retreat Saturday evening, deriding him as a “dumb son of a bitch.” Trump veered off his prepared during a roughly 50-minute speech before several hundred well-heeled GOP donors at his Mar-a-Lago resort in South Florida,"
     publishedDateTime: 2021-04-11T04:07:00Z
@@ -316,6 +236,20 @@ related:
       - url: "https://static.politico.com/69/e7/a62f72da45c9b97fce96fb7b6fbc/210329-donald-trump-getty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "How Trump prevents a new Tea Party from brewing"
+    excerpt: "Even Donald Trump, the Triumph the Insult Comic Dog of electoral politics, has had troubles landing a punch. His latest nickname for the president — “Saintly Joe Biden” — was debuted to donors over the weekend. It was meant as derisive … we think."
+    publishedDateTime: 2021-04-14T00:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/04/13/how-trump-prevents-a-new-tea-party-from-brewing-492461"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "Former Trump HUD official fined and barred from federal work over Hatch Act violation"
     excerpt: "The investigation also found that she displayed a red \"USA\" campaign hat in her HUD office, but neither Patton nor HUD ethics counsel had realized then President-Donald Trump's campaign was selling the hat until after the allegation was made public."

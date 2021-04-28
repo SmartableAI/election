@@ -62,6 +62,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McEnany blasts VP Harris for not visiting border, tossing 'political grenade' back to Biden"
+    excerpt: "Former White House press secretary Kayleigh McEnany condemned Vice President Kamala Harris on \"Fox News Primetime\" Wednesday for not yet visiting the southern border after Joe Biden called her the \"most qualified\" person to stop the flow of illegal immigration."
+    publishedDateTime: 2021-04-01T01:55:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ePZKGnAcHF0/kayleigh-mcenany-kamala-harris-not-visiting-border"
+    ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-kamala-harris-not-visiting-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-kamala-harris-not-visiting-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Kamala Harris to finally move into VP mansion after renovations"
+    excerpt: "Vice President Kamala Harris and second gentleman Doug Emhoff are set to move into Number One Observatory Circle at the U.S. Naval Observatory next week, following a two-month delay for \"home repairs,\" Harris’ chief spokeswoman Symone Sanders said Thursday."
+    publishedDateTime: 2021-04-01T21:46:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IujFlOv-QKk/kamala-harris-to-finally-move-into-vp-mansion-after-renovations"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-to-finally-move-into-vp-mansion-after-renovations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-to-finally-move-into-vp-mansion-after-renovations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4af21f6b-fd84-44ca-b7bf-16bb5bc9856f/fe8db0d2-ef39-4f12-bbc1-9813942cce11/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris lists DC condo for $2M as she moves into VP residence"
     excerpt: "Since her inauguration, Vice President Kamala Harris has been living at Blair House, across the street from the White House, while the U.S. Naval Observatory—the traditional home of the vice president—undergoes renovations. Now Ms. Harris’s former home in Washington, D.C.—a condo at the Westlight complex"
     publishedDateTime: 2021-04-06T16:08:42Z
@@ -123,6 +155,22 @@ related:
     quality: 179
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Christian minister sues Pelosi, Harris for access to Capitol grounds for Good Friday"
+    excerpt: "A Presbyterian minister is suing House Speaker Nancy Pelosi, Vice President Kamala Harris, the U.S. Capitol Police Board, and the Senate Sergeant at Arms, claiming that the continued presence of a fence blocking off the area surrounding the Capitol building is violating his First Amendment rights."
+    publishedDateTime: 2021-03-31T12:50:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gy3YWWVrIs0/christian-minister-sues-pelosi-harris-for-access-to-capitol-grounds-for-good-friday"
+    ampWebUrl: "https://www.foxnews.com/politics/christian-minister-sues-pelosi-harris-for-access-to-capitol-grounds-for-good-friday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/christian-minister-sues-pelosi-harris-for-access-to-capitol-grounds-for-good-friday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -285,6 +333,38 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/texas-harris-border-03.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Kamala Harris to finally move into VP mansion after renovations"
+    excerpt: "Vice President Kamala Harris and second gentleman Doug Emhoff are set to move into Number One Observatory Circle at the U.S. Naval Observatory next week, following a two-month delay for \"home repairs,"
+    publishedDateTime: 2021-04-01T21:50:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-to-finally-move-into-vp-mansion-after-renovations"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-to-finally-move-into-vp-mansion-after-renovations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-to-finally-move-into-vp-mansion-after-renovations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4af21f6b-fd84-44ca-b7bf-16bb5bc9856f/fe8db0d2-ef39-4f12-bbc1-9813942cce11/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President Kamala Harris Lists in Washington, D.C."
+    excerpt: "Ms. Harris’s former home—a condo at the Westlight complex in the West End—is listing for $1.995 million."
+    publishedDateTime: 2021-04-05T17:39:00Z
+    webUrl: "https://www.wsj.com/articles/vice-president-kamala-harris-lists-in-washington-d-c-11617647976"
+    ampWebUrl: "https://www.wsj.com/amp/articles/vice-president-kamala-harris-lists-in-washington-d-c-11617647976"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vice-president-kamala-harris-lists-in-washington-d-c-11617647976"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-320524/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Kamala Harris finally moves into official VP residence"
     excerpt: "After months of waiting for renovations, Vice President Kamala Harris is moving into her official star-studded home. The Democrat and husband Doug Emhoff moved to Number One Observatory Circle"
@@ -460,6 +540,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Why Biden & Harris Won't Address 'Root Causes' of Migrant Surge"
+    excerpt: "Yet neither President Joe Biden nor Vice President Kamala Harris, who he's put in charge oâ¦"
+    publishedDateTime: 2021-04-12T12:16:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/12/why_biden_amp_harris_wont_address_root_causes_of_migrant_surge_540292.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 70
   - title: "Joe Biden's Border Crisis"
     excerpt: "Democrats and the liberal media are policing the words we should use to describe the absolute catastrophe we're witnessing each day at the southern border. They don't like crisis or surge."
     publishedDateTime: 2021-04-05T12:06:00Z

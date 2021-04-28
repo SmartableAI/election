@@ -31,195 +31,261 @@ images:
     isCached: true
 
 related:
-  - title: "In backing South Carolina GOP chair, Trump remains active"
-    excerpt: "South Carolina’s GOP chairman Drew McKissick tells The Associated Press that Donald Trump is backing him for a third term"
-    publishedDateTime: 2021-02-23T11:06:00Z
-    webUrl: "https://www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+  - title: "Two Capitol Police officers sue Trump over Jan. 6 riots"
+    excerpt: "WASHINGTON (Reuters) - Two U.S. Capitol Police officers have filed a lawsuit against former President Donald Trump, saying he incited the deadly Jan. 6 insurrection and was responsible for physical and emotional injuries they suffered as a result."
+    publishedDateTime: 2021-03-31T12:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-capitol-riots-lawsuit/two-capitol-police-officers-sue-trump-over-jan-6-riots-idUSKBN2BN1RC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN1RC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1RC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210331&t=2&i=1556880478&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2U0VN"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Why tech experts are skeptical about plans for a Trump social network"
+    excerpt: "After being banned by most large social networks in January, former President Donald Trump is planning a dramatic return to social media. According to his close advisers, the former president is on the verge of launching a Trump-branded social network to ..."
+    publishedDateTime: 2021-04-01T13:12:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-social-network-tech-experts/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-social-network-tech-experts/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-social-network-tech-experts/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/07/d554aec0-4142-4565-a805-539b25336856/thumbnail/1200x630/35224ea24c8814699aa27412a09cf737/gettyimages-1230468115.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "10 Things in Politics: Trump sees legal danger ahead"
+    excerpt: "THEY MAY STILL SEE HIM IN COURT: Former President Donald Trump doesn't think he's out of the woods yet. His advisors tell him that's he's unlikely to face legal repercussions over the deadly Capitol Riot, but they are increasingly worried about prosecutors ..."
+    publishedDateTime: 2021-04-02T11:14:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-legal-troubles-new-york"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-legal-troubles-new-york?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-legal-troubles-new-york?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/604a96919942cf001865dec9?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Italian restaurant owner mistakenly sanctioned by Trump"
+    excerpt: "Verona restaurant and pizzeria owner Alessandro Bazzoni sanctioned in crackdown on blacklisted Venezuelan crude oil"
+    publishedDateTime: 2021-04-02T15:29:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/02/italian-restaurant-owner-sanctioned-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/02/italian-restaurant-owner-sanctioned-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/02/italian-restaurant-owner-sanctioned-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/56faf8fd3e0c9237d3b553828e9f294cf21c37e3/0_263_7936_4765/master/7936.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=18b9d2746f6fc35fe6c131cbebd7e80a"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Italian restaurant wrongly targeted by Trump sanctions"
+    excerpt: "One of Donald Trump's last sanctions before he left office was mistakenly on a restaurant owner in Verona, Italy. The error happened as part of the Trump administration's crackdown on blacklisted Venezuelan crude oil."
+    publishedDateTime: 2021-04-02T02:12:00Z
+    webUrl: "https://www.bbc.com/news/business-56611977"
+    ampWebUrl: "https://www.bbc.com/news/amp/business-56611977"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-56611977"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/97EB/production/_117819883_gettyimages-184373545.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Ivanka Trump's women's empowerment program slammed in government report"
+    excerpt: "Former President Donald Trump's eldest daughter and adviser, Ivanka Trump, helped promote the policy program and ushered the bill through Congress. The US Agency for International Development oversaw the implementation of the initiative and was mandated to ..."
+    publishedDateTime: 2021-04-02T01:36:00Z
+    webUrl: "https://www.businessinsider.com/ivanka-trumps-womens-empowerment-program-slammed-in-government-report-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/ivanka-trumps-womens-empowerment-program-slammed-in-government-report-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ivanka-trumps-womens-empowerment-program-slammed-in-government-report-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/606648fe52f11d0019431b6b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "‘Apprentice’ contestant’s lawsuit against Trump can resume, N.Y. court says"
+    excerpt: "NEW YORK — The New York State Court of Appeals on Tuesday ruled that a defamation case against former president Donald Trump, brought by an \"Apprentice\" contestant who alleged he sexually assaulted her years ago, can go forward as the immunity claim he ..."
+    publishedDateTime: 2021-03-30T20:17:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/summer-zervos-trump-lawsuit/2021/03/30/a0c55060-918d-11eb-a74e-1f4cf89fd948_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/summer-zervos-trump-lawsuit/2021/03/30/a0c55060-918d-11eb-a74e-1f4cf89fd948_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/summer-zervos-trump-lawsuit/2021/03/30/a0c55060-918d-11eb-a74e-1f4cf89fd948_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 123
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WZNE3XERSEI6XJ2OD5GPRH6ZJA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "In backing South Carolina GOP chair, Trump remains active"
-    excerpt: "South Carolina’s GOP chairman Drew McKissick tells The Associated Press that Donald Trump is backing him for a third term"
-    publishedDateTime: 2021-02-24T02:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/backing-south-carolina-gop-chair-trump-remains-active-76059896"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/backing-south-carolina-gop-chair-trump-remains-active-76059896"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/backing-south-carolina-gop-chair-trump-remains-active-76059896"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_75282de617dd461fa98147b4ae80b735_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump to reemerge at CPAC as GOP tries to plot its future"
-    excerpt: "\"There's no question that the gun has gone off on the 2024 campaign for the Republican nomination,\" says American Conservative Union chairman Matt Schlapp."
-    publishedDateTime: 2021-02-26T11:00:00Z
-    webUrl: "https://www.cbsnews.com/news/cpac-2021-trump-2024-preview/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/cpac-2021-trump-2024-preview/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cpac-2021-trump-2024-preview/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/26/7558afe2-990a-4ffc-8429-7f2e6f9d3f9a/thumbnail/1200x630/8e24dcc458effb4e504fa3ad24b93094/ap21057076398977.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "At CPAC, rising GOP stars send message that Trump is here to stay"
-    excerpt: "Trump, the marquee speaker this year, will make his first public remarks since leaving office at CPAC on Sunday."
-    publishedDateTime: 2021-02-27T12:18:00Z
-    webUrl: "https://www.cbsnews.com/news/cpac-republicans-trump-here-to-stay/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/cpac-republicans-trump-here-to-stay/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cpac-republicans-trump-here-to-stay/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/27/f6ac56df-c1c4-4517-97b7-4a9d4432c6cc/thumbnail/1200x630/72421f3248e10fdac7e53c8e4aaea53f/gettyimages-1304272594.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump calls for GOP unity, says he won't start another party"
-    excerpt: "Former President Donald Trump is calling for Republican Party unity in a speech at a conservative political conference"
-    publishedDateTime: 2021-03-01T07:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-calls-gop-unity-start-party-76168664"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-calls-gop-unity-start-party-76168664"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-calls-gop-unity-start-party-76168664"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e91b6a69447e431e99cfad9fca81e71d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Lara Trump is wild card in North Carolina Senate race"
-    excerpt: "Former President Trump’s daughter-in-law Lara Trump is looming over the Republican Senate primary in North Carolina as the field grows with some of the state’s biggest GOP names."
-    publishedDateTime: 2021-04-22T10:00:00Z
-    webUrl: "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race"
-    ampWebUrl: "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race?amp"
+  - title: "Headhunters having hard time finding jobs for former Trump officials: report"
+    excerpt: "Headhunters have indicated difficulties in finding jobs for former Trump Cabinet officials in the months since leaving their posts,"
+    publishedDateTime: 2021-04-07T18:56:00Z
+    webUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials"
+    ampWebUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 125
+    quality: 122
     images:
-      - url: "https://thehill.com/sites/default/files/trumplara_082620getty_camp.jpg"
+      - url: "https://thehill.com/sites/default/files/chaoelaine_091919gn6_lead.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Extent of Trump's Usefulness to GOP Questioned by WSJ Editorial Board After CPAC"
-    excerpt: "\"If CPAC represented America, Mr. Trump would still reside in the White House, not Mar-a-Lago,\" the board wrote."
-    publishedDateTime: 2021-03-02T16:51:00Z
-    webUrl: "https://www.newsweek.com/extent-trumps-usefulness-gop-questioned-wsj-editorial-board-after-cpac-1573205"
-    ampWebUrl: "https://www.newsweek.com/extent-trumps-usefulness-gop-questioned-wsj-editorial-board-after-cpac-1573205?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/extent-trumps-usefulness-gop-questioned-wsj-editorial-board-after-cpac-1573205?amp=1"
+  - title: "U.S. 'Open' to First Direct Talks With Iran Since Trump Left Nuclear Deal 3 Years Ago"
+    excerpt: "The United States has said it is open to holding its first official, direct talks with Iran since former President Donald Trump left a nuclear deal between the Islamic Republic and major world powers three years ago. Following virtual discussions on Friday ..."
+    publishedDateTime: 2021-04-02T15:25:00Z
+    webUrl: "https://www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687"
+    ampWebUrl: "https://www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/us-open-first-direct-talks-iran-since-trump-left-nuclear-deal-3-years-ago-1580687?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 120
+    quality: 118
     images:
-      - url: "https://d.newsweek.com/en/full/1746199/former-us-president-donald-trump-addresses.jpg"
-        width: 3000
-        height: 1945
+      - url: "https://d.newsweek.com/en/full/1770282/us-iran-flags-united-nations.jpg"
+        width: 2500
+        height: 1779
         isCached: true
-  - title: "QAnon Hardliners Are Doubling Down on Theory Donald Trump Will Be Reinstated on March 4"
-    excerpt: "There are fears of potential violence as QAnon supporters say Donald Trump will somehow be inaugurated on March 4."
-    publishedDateTime: 2021-02-19T10:21:00Z
-    webUrl: "https://www.newsweek.com/qanon-march4-trump-president-proud-boys-1570274"
-    ampWebUrl: "https://www.newsweek.com/qanon-march4-trump-president-proud-boys-1570274?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-proud-boys-1570274?amp=1"
+  - title: "2 Capitol Police officers sue Trump for physical and emotional injuries from Jan. 6 riot"
+    excerpt: "2 Capitol Police officers sue Trump for injuries sustained from riot Two Capitol Police officers filed a civil suit Tuesday against former President Donald Trump for physical and emotional ..."
+    publishedDateTime: 2021-03-31T17:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/capitol-police-officers-sue-trump-physical-emotional-injuries/story?id=76784999"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/International/trump-jan6-gty-rc-210305_1614953461904_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Ex-Trump Official Sery Kim Rejects Chinese Immigrants, Believes It's OK to Say as a Korean"
+    excerpt: "She also served served as assistant administrator for the Small Business Administration under former President Donald Trump. Kim also argued that the rise in violent attacks against Asian Americans have always existed but are only now being covered by the ..."
+    publishedDateTime: 2021-04-02T21:52:00Z
+    webUrl: "https://www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802"
+    ampWebUrl: "https://www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ex-trump-official-sery-kim-rejects-chinese-immigrants-believes-its-ok-say-korean-1580802?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 117
+    quality: 115
     images:
-      - url: "https://d.newsweek.com/en/full/1738534/qanon.jpg"
-        width: 3000
-        height: 2001
+      - url: "https://d.newsweek.com/en/full/1771259/sery-kim.jpg"
+        width: 2048
+        height: 1704
         isCached: true
-  - title: "Donald Trump Jr. uses a wall of guns as backdrop to launch video attack against teaching unions"
-    excerpt: "Donald Trump Jr. stood in front of a wall of guns while declaring teachers \"out of control\" in the clip shared on a Canadian video site."
-    publishedDateTime: 2021-02-22T15:16:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-jr-video-teachers-backdrop-of-guns-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-jr-video-teachers-backdrop-of-guns-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-jr-video-teachers-backdrop-of-guns-2021-2?amp"
+  - title: "Two Capitol police officers sue Trump for ‘physical and emotional injuries’ suffered in riots"
+    excerpt: "Two Capitol police officers who battled the mob of pro-Trump supporters who stormed the Capitol on Jan. 6 are now suing the former president for the physical end emotional injuries they say they suffered in the attacks. Support our journalism. Subscribe today."
+    publishedDateTime: 2021-03-31T04:09:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/03/31/capitol-officers-sue-trump-riots/?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 113
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
     images:
-      - url: "https://i.insider.com/6033ba7e623bd30012bcc805?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CCXZPMJ4K5BDRADGFLBWQZZQNE.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "Trump plans to use his CPAC speech as a 'show of force' to exert control over the GOP, report says"
-    excerpt: "Trump plans to use his first post-presidency public speech to show what power he still has over the Republican Party, Axios reported."
-    publishedDateTime: 2021-02-22T13:36:00Z
-    webUrl: "https://www.businessinsider.com/trump-cpac-speech-plans-show-of-force-over-gop-axios-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/trump-cpac-speech-plans-show-of-force-over-gop-axios-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-cpac-speech-plans-show-of-force-over-gop-axios-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/60339663bed5c50011a2bc53?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Tracking Trump's legal cases as New York prosecutors examine tax documents"
-    excerpt: "Manhattan prosecutors are sifting through millions of pages of tax and financial documents from former President Donald Trump, after the Supreme Court rejected his effort to block them from being turned over."
-    publishedDateTime: 2021-03-01T23:56:00Z
-    webUrl: "https://www.cbsnews.com/video/tracking-trumps-legal-cases-as-new-york-prosecutors-examine-tax-documents/"
+  - title: "Former JPMorgan executive quits board of company that collected data for Trump 2020 campaign"
+    excerpt: "Blythe Masters, a former top executive at JPMorgan Chase, is quitting the board of Phunware, a company that created a controversial voter data collection app for Donald Trump's 2020 re-election campaign."
+    publishedDateTime: 2021-04-01T21:42:00Z
+    webUrl: "https://www.cbsnews.com/news/jpmorgan-chase-blythe-masters-phunware-quit/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/jpmorgan-chase-blythe-masters-phunware-quit/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/jpmorgan-chase-blythe-masters-phunware-quit/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 103
+    quality: 114
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/01/5b929da1-94b3-4243-8f0f-db4ef6eff32a/thumbnail/1200x630/4d676decdefcc90d580ff74ee451bd03/0301-redblue-bam-656442-640x360.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/01/a95746b1-61b8-487b-b467-7cb8ae7444ca/thumbnail/1200x630/d299cf992ee40f5014c04fd6ddf08d9d/img-aic-2021-blythe-masters.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Reince Priebus, former chief of staff to Donald Trump, mulling run for Wisconsin governor, according to GOP strategist"
-    excerpt: "Reince Priebus, a former White House chief of staff to Donald Trump, has called Republican donors and power brokers in Wisconsin to discuss a possible bid for governor."
-    publishedDateTime: 2021-02-19T19:00:00Z
-    webUrl: "https://www.chicagotribune.com/midwest/ct-aud-reince-priebus-wisconsin-governor-20210219-ai4c6wytbjejjmv4b45bzuvyta-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/midwest/ct-aud-reince-priebus-wisconsin-governor-20210219-ai4c6wytbjejjmv4b45bzuvyta-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/midwest/ct-aud-reince-priebus-wisconsin-governor-20210219-ai4c6wytbjejjmv4b45bzuvyta-story.html?outputType=amp"
+  - title: "Matt Gaetz sought preemptive pardon from Trump before he left office, The New York Times reports"
+    excerpt: "Matt Gaetz, a Florida Republican under investigation for alleged human trafficking, sought \"blanket pardons\" for himself and his political allies before former President Donald Trump left office, The New York Times reported Tuesday. The Times, citing two ..."
+    publishedDateTime: 2021-04-07T00:18:00Z
+    webUrl: "https://www.businessinsider.com/matt-gaetz-sought-preemptive-pardon-from-trump-nyt-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/matt-gaetz-sought-preemptive-pardon-from-trump-nyt-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-sought-preemptive-pardon-from-trump-nyt-2021-4?amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 101
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
     images:
-      - url: "https://www.chicagotribune.com/resizer/3RH0lVNQZpVMBio8n56dtId1QLA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3LVREPFOC5HT4UQWO24KRZWNRA.aspx"
+      - url: "https://i.insider.com/60677c27856cd700198a2fde?width=1200&format=jpeg"
         width: 1200
-        height: 800
+        height: 600
+        isCached: true
+  - title: "The Supreme Court dismissed as moot a First Amendment case over Trump blocking his critics on Twitter"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% The Supreme Court in a Monday morning ruling dismissed as moot a case over former President Donald Trump blocking Twitter users who criticized him. The Supreme Court vacated a ruling from the Court of Appeals for ..."
+    publishedDateTime: 2021-04-05T15:10:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-dismisses-case-over-trump-blocking-critics-on-twitter-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-dismisses-case-over-trump-blocking-critics-on-twitter-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-dismisses-case-over-trump-blocking-critics-on-twitter-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fa4b12af7d1cb0019e3a22d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Donald Trump's Voice Banned From Facebook, Lara Trump's Video Removed"
+    excerpt: "Lara Trump’s Facebook video in which she interviews her father-in-law, former President Donald Trump, was removed after being informed that his voice is even banned from the platform. Donald Trump was banned from Facebook shortly after the Jan. 6 attacks ..."
+    publishedDateTime: 2021-03-31T19:25:00Z
+    webUrl: "https://www.ibtimes.com/donald-trumps-voice-banned-facebook-lara-trumps-video-removed-3172722"
+    ampWebUrl: "https://www.ibtimes.com/donald-trumps-voice-banned-facebook-lara-trumps-video-removed-3172722?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trumps-voice-banned-facebook-lara-trumps-video-removed-3172722?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/14/lara-trump.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Trump looms large in race for South Carolina GOP chairman"
     excerpt: "COLUMBIA, S.C. (AP) — In South Carolina — where Donald Trump's 2016 primary victory marked a turning point in solidifying his nomination, and where support for him remained high throughout his term — the contest to lead the state's Republican Party ..."
@@ -237,31 +303,38 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "The GOP's first 2024 cattle call is almost here. By the looks of the CPAC speaking roster, it's gearing up to be a very Trump-friendly affair."
-    excerpt: "This year's flagship conservative event is also notable for who is not showing up. Establishment GOP leaders like Mitch McConnell, Kevin McCarthy and Mike Pence are so far not listed as speakers."
-    publishedDateTime: 2021-02-17T10:02:00Z
-    webUrl: "https://www.businessinsider.com/cpac-2021-speakers-trump-pence-orlando-republican-conservative-2021-2"
+  - title: "U.S. Rep. Veronica Escobar joins lawsuit accusing Donald Trump of inciting Capitol riot"
+    excerpt: "by Bryan Mena April 7, 2021 6:33 PM Central U.S. Rep. Veronica Escobar, D-El Paso, speaks during a House Judiciary Committee markup of Articles of Impeachment against President Donald Trump in Washington, D.C. on Dec. 12, 2019. Credit: Matt McClain/Pool ..."
+    publishedDateTime: 2021-04-07T23:33:00Z
+    webUrl: "https://www.texastribune.org/2021/04/07/escobar-trump-lawshit/"
+    ampWebUrl: "https://www.texastribune.org/2021/04/07/escobar-trump-lawshit/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/04/07/escobar-trump-lawshit/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 67
     images:
-      - url: "https://i.insider.com/602c67945847630018323658?width=1200&format=jpeg"
+      - url: "https://thumbnails.texastribune.org/aqe7-Li9PzIZ9QIexP_8OQM_5Q8=/1200x630/filters:quality(95)/static.texastribune.org/media/files/6f9c74896c525bff9a658560eee0db9c/Escobar%20Impeachment%20REUTERS%20TT.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "South Carolina Lawmaker: Trump Can Be Buried at Our Capitol"
-    excerpt: "A South Carolina Republican lawmaker says he is filing a bill that would allow former President Donald Trump to buried on the grounds of the state Capitol if Trump is banned from being buried at Arlington National Cemetery."
-    publishedDateTime: 2021-02-25T22:07:00Z
-    webUrl: "https://www.usnews.com/news/best-states/south-carolina/articles/2021-02-25/south-carolina-lawmaker-trump-can-be-buried-at-our-capitol"
-    ampWebUrl: "https://www.usnews.com/news/best-states/south-carolina/articles/2021-02-25/south-carolina-lawmaker-trump-can-be-buried-at-our-capitol?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/south-carolina/articles/2021-02-25/south-carolina-lawmaker-trump-can-be-buried-at-our-capitol?context=amp"
+  - title: "Trump backs Rep. Mo Brooks in Alabama Senate race, who cheered Capitol rioters for ‘kicking ass’"
+    excerpt: "Former President Donald Trump is throwing his support behind Rep. Mo Brooks in next year’s Alabama Senate race, a staunch supporter who cheered the Jan. 6 crowd at the Capitol for “taking down names and kicking ass."
+    publishedDateTime: 2021-04-07T14:29:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html?outputType=amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 62
+    images:
+      - url: "https://www.nydailynews.com/resizer/dnPImsXwM3lyMNeIzGI2SPoFcG8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H6KA7POU45DLBDWXB2NPXLDGAA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "RxBiQTdsw7FjmdCu2llNZxk1n+Uq9pBTrljTv1HnpwYkqUcp89QSOWcuM1iAMxU4e4/Bl8R0zkRq1HLqUhURpeWej5KI/Q484jB+WfO93uupydJumQWYnEjTOyrUgPDKoekQFTg3ZIBgtacqoK2TpdWiU8F7JNCiX2GPbk2tRcF0sBt+QluTwi9CqDLFF/VGWMsEC4udWafSNRwpxEtawG9G1P+GCck1sksSkCm/3VZcda8rajtO55hjSBoY4Qj1WtEoH7HGIjFD8OnwgFXmJByNYB0VXqXm/8scbGFh2loqfQurnoj+D8T5+TdZ/FnN2LIh9yITVgCU3GMvi5BVKCJEtVjeBm0/qF+FHI7YTbA=;3HEsI+QoSHjf9hknj3McIg=="
 ---

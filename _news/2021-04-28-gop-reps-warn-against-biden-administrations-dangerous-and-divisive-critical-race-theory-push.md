@@ -1,0 +1,69 @@
+---
+category: news
+title: "GOP Reps warn against Biden administration's 'dangerous' and 'divisive' critical race theory push"
+excerpt: "A proposed rule by President Joe Biden's Department of Education would use taxpayer dollars to incorporate into America's classrooms what critics say is \"dangerous\" curriculum."
+publishedDateTime: 2021-04-28T00:13:03Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ycGZpUsjJEg/biden-critical-race-theory-push"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ycGZpUsjJEg/biden-critical-race-theory-push"
+ampWebUrl: "https://www.foxnews.com/politics/biden-critical-race-theory-push.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-critical-race-theory-push.amp"
+type: article
+quality: 162
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f9251b3-1815-4f83-8ae5-bf7ee86d10c6/b4319389-c2f3-4a5d-b119-d3835bb75182/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
+    isCached: true
+
+related:
+  - title: "Biden DOJ's police reform agenda 'dangerous': law enforcement advocates"
+    excerpt: "The Biden Justice Department's decision to return to the Obama administration’s heavy use of consent decrees is being criticized by law enforcement officials and advocates who fear it will handicap police and erode community-police relations."
+    publishedDateTime: 2021-04-21T19:52:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kA3KGQN1WAM/biden-police-reform-dangerous-law-enforcement-advocates-say"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-police-reform-dangerous-law-enforcement-advocates-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-police-reform-dangerous-law-enforcement-advocates-say.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7a99bcd-a967-4c58-b1a9-9628b69255c9/e340ddad-00f7-4953-842b-bef590b03c64/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden DOJ's Minneapolis policing probe signals return to Obama-era crusade for police reform"
+    excerpt: "The Justice Department's new investigation into the Minneapolis Police Department will look into the ongoing practices and examine possible legal violations, reminiscent of past probes under the Obama administration."
+    publishedDateTime: 2021-04-21T18:25:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X1Xcd92Pptg/biden-dojs-minneapolis-policing-probe-signals-return-to-obama-era-crusade-for-police-reform"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dojs-minneapolis-policing-probe-signals-return-to-obama-era-crusade-for-police-reform.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dojs-minneapolis-policing-probe-signals-return-to-obama-era-crusade-for-police-reform.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+
+secured: "V1li9ZZZAaupGe5LZjbiEN9GyhYzp2OjytMRaBs/L/7dtfZ80U78NFmzB+otZYJK0jLbZsBpUYZ9ju9lNS59dAYSMvNBlD9rofzGVylUJq+5Ls+lVt5DfEGhvOXffFyZAqjHeNMpUVsFecQGmllb2p+7ryF6wSuK5M9qzTagx1T6rg0ImQe3ez3rkNkIm2FDgRjLZ8ay24DFM0lnZuI7m125UqHhD6WZZIkwIzaRW4G/v9hrOoTNx/U+kFItlwYY+U7cZ6F3uT+MB42LlY7izqEdbNkc0zLyNfdai4YW9nrr5d2hXm7lqCs2dOPM6Xk/MJuxg4bk+FngsUUjoIyrmlhJ5aAasr6r5zZh5BwE+mY=;g7eSW9juU9/PElP4Hk8UJg=="
+---
+

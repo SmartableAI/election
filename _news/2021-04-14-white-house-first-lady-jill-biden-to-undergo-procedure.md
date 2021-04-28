@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/white-house-lady-jill-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/white-house-lady-jill-biden-undergo-procedure-77057113"
 type: article
 quality: 125
-heat: 185
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABCNews
@@ -31,52 +31,207 @@ images:
     isCached: true
 
 related:
-  - title: "White House: Jill Biden arrives for medical ‘procedure’"
-    excerpt: "WASHINGTON — President Joe Biden and his wife, Jill Biden, were at a downtown office building Wednesday for the first lady to undergo a “common medical procedure.” The White House announced late Tuesday that the president would accompany his wife ..."
-    publishedDateTime: 2021-04-14T11:52:00Z
-    webUrl: "https://www.washingtonpost.com/politics/white-house-first-lady-jill-biden-to-undergo-procedure/2021/04/13/fdae29cc-9cbf-11eb-b2f5-7d2f0182750d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/white-house-first-lady-jill-biden-to-undergo-procedure/2021/04/13/fdae29cc-9cbf-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/white-house-first-lady-jill-biden-to-undergo-procedure/2021/04/13/fdae29cc-9cbf-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+  - title: "White House says Biden will have 'more to say' on guns on Thursday"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden will have “more to say” on the actions he plans on gun regulation on Thursday, White House press secretary Jen Psaki told reporters at a briefing."
+    publishedDateTime: 2021-04-07T16:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-guns-idUSKBN2BU2QP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU2QP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2QP"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210407&t=2&i=1557617247&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH361CD"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Biden hosts Japan’s Suga as first foreign leader at the White House"
-    excerpt: "President Biden is making a point as he welcomes Japanese Prime Minister Yoshihide Suga to the White House on Friday, using the first in-person visit by a foreign leader to emphasize that his administration sees Asia as its highest priority."
-    publishedDateTime: 2021-04-16T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-hosts-japans-suga-as-first-foreign-leader-at-the-white-house/2021/04/15/cd56f946-9e1a-11eb-b7a8-014b14aeb9e4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-hosts-japans-suga-as-first-foreign-leader-at-the-white-house/2021/04/15/cd56f946-9e1a-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-hosts-japans-suga-as-first-foreign-leader-at-the-white-house/2021/04/15/cd56f946-9e1a-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp"
+  - title: "Biden plans to crack down on 'ghost guns' with action on Thursday"
+    excerpt: "WASHINGTON (Reuters) -President Joe Biden on Thursday will unveil his administration’s first steps to curb gun violence, including a plan to reduce the proliferation of “ghost guns,” after a slew of mass shootings that have put pressure on him to act."
+    publishedDateTime: 2021-04-08T00:05:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-guns-idUSKBN2BU2QP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU2QP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2QP"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XYYPGMU6L4I6XAAFX76DUOPW2M.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210407&t=2&i=1557617247&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH361CD"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Imagine a 20-car motorcade taking you to dinner. That's the White House bubble Joe Biden now finds himself living in."
-    excerpt: "White House living isn't quite that simple for any president. Joe Biden has described it as \"a little like a gilded cage.\""
-    publishedDateTime: 2021-04-16T19:59:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-white-house-delaware-bubble-2021-4"
+  - title: "Biden to unveil actions on guns, including new ATF boss"
+    excerpt: "President Joe Biden will unveil a series of executive actions aimed at addressing gun violence on Thursday, according to a person familiar with the plans, delivering his first major action on gun cont"
+    publishedDateTime: 2021-04-07T21:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-announce-executive-actions-combat-gun-violence-76930708"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-announce-executive-actions-combat-gun-violence-76930708"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-announce-executive-actions-combat-gun-violence-76930708"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5791376eaca24c4f8376315a08d99172_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden's actions on guns, Chauvin trial, The Masters: 5 things to know Thursday"
+    excerpt: "President Joe Biden is set to unveil six executive actions aimed at curbing gun violence on Thursday, following a string of mass shootings that has put pressure on the administration to act upon the president's long-held campaign promise to tackle gun control."
+    publishedDateTime: 2021-04-08T07:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/04/08/joe-bidens-actions-guns-masters-5-things-know-thursday/7062967002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7062967002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7062967002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/e9796f93c669f544119eb2a950a7bd1ee4d5f6ef/c=14-0-2787-1560/local/-/media/2021/04/03/USATODAY/usatsports/MotleyFool-TMOT-837fccfc-biden-2800x1560.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden to lay out spending plans after assailing ‘epidemic’ of gun violence – US politics live"
+    excerpt: "All is relatively quiet this morning in Washington. Joe Biden has no public events scheduled for today, but he may take a few questions at the start of his economic briefing around 2.30pm. We’ll hear from Jen Psaki, the White House press secretary ..."
+    publishedDateTime: 2021-04-09T14:24:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates?page=with:block-60705dc08f08c3a98ed23a14"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/09/joe-biden-us-politics-live-covid-coronavirus-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 114
+    images:
+      - url: "https://i.guim.co.uk/img/media/1e6c9b9c790347030e8c43b8c08c58dfda96e8d1/0_0_4500_3000/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb9cf14684e5c64e087f4e257a823f6f"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "White House press secretary says Biden hasn't 'ruled out' canceling up to $50,000 in student debt"
+    excerpt: "Psaki was asked what President Joe Biden's stance on the issue is after his chief of staff, Ron Klain, recently said Biden is looking into his \"legal authority\" to use executive action for such a move. Biden's press secretary reiterated his willingness to ..."
+    publishedDateTime: 2021-04-05T20:58:00Z
+    webUrl: "https://www.businessinsider.com/biden-student-debt-50k-executive-order-rule-out-psaki-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-student-debt-50k-executive-order-rule-out-psaki-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-student-debt-50k-executive-order-rule-out-psaki-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 82
+    quality: 112
     images:
-      - url: "https://i.insider.com/6079ec3674da0300181e23a3?width=1200&format=jpeg"
+      - url: "https://i.insider.com/606b5ff6a7d803001963ecc9?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden \"doesn't have all the time in the world\" to act on gun violence, gun control advocate says"
+    excerpt: "A prominent gun control advocacy group is urging President Joe Biden to act quickly on his proposed firearms legislation, after a week that saw 345 people killed by gun violence in the United States. \"He doesn't have all the time in the world. He needs to ..."
+    publishedDateTime: 2021-04-09T18:26:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-gun-violence-control-brady-bill-kris-brown/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-gun-violence-control-brady-bill-kris-brown/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-gun-violence-control-brady-bill-kris-brown/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/08/e2a6703b-facf-4c40-a52d-df971cedbd15/thumbnail/1200x630/9f88738b40ac84f7243e34d3cb90492a/cbsn-fusion-pres-biden-unveils-executive-action-on-gun-reform-thumbnail-688118-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden meets with bipartisan group on $2.3 trillion infrastructure plan, saying he's open to negotiate"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% For the first time since unveiling his $2.3 trillion infrastructure package two weeks ago, President Joe Biden met with a bipartisan group of lawmakers on Monday to discuss the proposal. Eight lawmakers ..."
+    publishedDateTime: 2021-04-13T15:45:00Z
+    webUrl: "https://www.businessinsider.com/biden-bipartisan-infrastructure-meeting-lawmakers-democrat-republican-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-bipartisan-infrastructure-meeting-lawmakers-democrat-republican-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-bipartisan-infrastructure-meeting-lawmakers-democrat-republican-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/6074a5fb2cc1ef0018da14cf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden to announce executive actions to combat gun violence"
+    excerpt: "President Joe Biden will unveil a series of executive actions aimed at addressing gun violence on Thursday, according to a person familiar with the plans, delivering his first major action on gun control since taking office."
+    publishedDateTime: 2021-04-07T19:35:00Z
+    webUrl: "https://www.businessinsider.com/biden-to-announce-executive-actions-to-combat-gun-violence-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-to-announce-executive-actions-to-combat-gun-violence-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-announce-executive-actions-to-combat-gun-violence-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Biden to meet Monday with bipartisan lawmakers about infrastructure"
+    excerpt: "President Biden Joe Biden Biden eyes bigger US role in global vaccination efforts Trump says GOP will take White House in 2024 in prepared speech Kemp: Pulling All-Star game out of Atlanta will ..."
+    publishedDateTime: 2021-04-12T03:03:00Z
+    webUrl: "https://thehill.com/homenews/administration/547623-biden-to-meet-monday-with-bipartisan-lawmakers-about-infrastructure"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 105
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_04092021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden administration tells Congress it will restart Palestinian aid - source"
+    excerpt: "also said Washington would resume security assistance to the Palestinians, the source told Reuters. President Joe Biden is moving to restore some U.S. aid cut off by his predecessor, Donald Trump."
+    publishedDateTime: 2021-04-07T15:11:00Z
+    webUrl: "https://www.reuters.com/article/palestinians-usa-aid-int/biden-administration-tells-congress-it-will-restart-palestinian-aid-source-idUSKBN2BU2KE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU2KE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2KE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+  - title: "Father of Parkland shooting victim: Biden's action on guns \"will help our students be safe in school\""
+    excerpt: "Father of Parkland shooting victim: Biden's action on guns \"will help our students be safe in school\" President Joe Biden announced executive action on guns today at the White House, calling gun violence in America is an \"epidemic.\""
+    publishedDateTime: 2021-04-08T19:29:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-gun-reform-executive-action-parkland-tony-montalto/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 90
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/08/e2a6703b-facf-4c40-a52d-df971cedbd15/thumbnail/1200x630/9f88738b40ac84f7243e34d3cb90492a/cbsn-fusion-pres-biden-unveils-executive-action-on-gun-reform-thumbnail-688118-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Here are 9 hurdles Biden's infrastructure plan would have to overcome in Congress before it can become law"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% President Joe Biden this week released his opening bid for an infrastructure overhaul, and now the White House and Democratic leaders face the arduous task of getting enough lawmakers on board to get a bill to ..."
+    publishedDateTime: 2021-04-02T20:36:00Z
+    webUrl: "https://www.businessinsider.com/issues-that-could-tank-bidens-infrastructure-plan-congress-salt-taxes-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/60676384a7d803001963e885?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Why a Weakened NRA May Still Block Joe Biden’s Moves on Guns"
+    excerpt: "Yesterday we connected by phone to talk about President Joe Biden’s latest efforts to curb mass shootings in this country. He’s not optimistic about what Biden is introducing by way of new gun ..."
+    publishedDateTime: 2021-04-09T18:36:00Z
+    webUrl: "https://time.com/5953801/weakened-nra-biden-gun-control/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
 
 secured: "J0aP/fpblR98tWvVdMUHIXE48S7gYL6QhkAhStQ7WQHcDRkJyV5RmbZJAYIG9xKMDBkPDTDS3/X+p2zvjF0BTN6n33T8ayyqOsCp5MOMva/BrgIz56udGH+SB/YFzXEI1Gf0K4s1pPGWSeVKW/0xT5zZCcWN+au+fdV8qc0gg/1l5LCiLF68qXmdLFB8rmQyA3fVP6SP2OCD+HS983Pe9r8WHWBKLKsqHAcs6qoJTm4IoXli7q3effINXiEeCE7KDhjqFSfXHCC1k+pS5wL5tqd3reRe6/5olmpDH0J9/WM6DwdHHcSvJjCYwSgee0CYa+4eycFyNwu90oRQjCJczwBYSo6+H4hRab4VhwKDo0g=;cfM91NdUyaa+9fp8XXGNcw=="
 ---

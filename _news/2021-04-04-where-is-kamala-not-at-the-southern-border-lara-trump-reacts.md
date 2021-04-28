@@ -48,22 +48,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Lara Trump on Facebook removing her interview with father-in-law: Big Tech wants to 'erase' Donald Trump"
-    excerpt: "Lara Trump said that Big Tech is trying to 'erase' Donald Trump on Thursday after Facebook removed a video of her interviewing the former President. "
-    publishedDateTime: 2021-04-01T13:48:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gOEAdNKw4Z8/lara-trump-facebook-interview-big-tech-censorhsip-erase-donald-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/lara-trump-facebook-interview-big-tech-censorhsip-erase-donald-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-facebook-interview-big-tech-censorhsip-erase-donald-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Summer Zervos Lawsuit Against Donald Trump Can Move Forward"
     excerpt: "New York’s highest court dismissed the former president’s challenge to the onetime “Apprentice” contestant’s defamation claims."
     publishedDateTime: 2021-03-30T17:51:00Z
@@ -111,20 +95,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/F9071EBA-D99C-4F65-A1BA-BBA41328E98D.jpeg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Fresh Data Reveal How Trump Made Inroads With Latinos"
-    excerpt: "A new analysis of U.S. voters suggests — counterintuitively — that the coronavirus pandemic may have helped drive former President Donald Trump's surprising increase in support from Latinos last November."
-    publishedDateTime: 2021-04-02T16:00:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/02/fresh_data_reveal_how_trump_made_inroads_with_latinos_539593.html?mc_cid=15b3dd0249&mc_eid=848bcee76a"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/526159_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "kYb7+Y4lJkTMBI/y2JdZuSau0z289CU7DTV6lAhABALsuT3OxLqGmQtrzjdijDYBzAtIgrCMadPTgkVcam9lCA4enE0tHB3+8yYXlDI2sl1guScb1IePKl/y10/UScePqBxcD4MyRU8MRxofhuIMxKjHBP6oqrC2OkjKUnWrxdrn9/0txNMCwzj/yBoZ2qJXrO4T4i9zfI/zVKgeK+icN6zZbhwlZU2hIGUIpUpnyTi+oq/h0nYam/8HKBknbIKQKXxc2KZaW+8PrLIQkXMIKCvw+F0dzF8BeECvT/J0l8ENgaR1SZj4S81GOFO9x54OdatXjLfWNIr67R3hQDqE0bQ5eAA5v1A0MNyJARMVJMLmQzHmpUklbLvFWNRUmHB4mAXjUGspdpAv3ZQ+H68QfHo05efPyt1XcwkLRw+yFs0TdMGEGr+pAwvTCOu26JeyD85rJ81piMBvCOEWR1xNX9qr0dA6Y3BKFxRYVPQtSbradbHv3HJYSH9EsBP/hQSRpFsZ0AVA3TR1R5TOM2VcIw==;fW8JBwoR2OCgzggG6LSjWg=="

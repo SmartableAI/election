@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-police-reform-dangerous-law-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-police-reform-dangerous-law-enforcement-advocates-say.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "GOP Reps warn against Biden administration's 'dangerous' and 'divisive' critical race theory push"
+    excerpt: "A proposed rule by President Joe Biden's Department of Education would use taxpayer dollars to incorporate into America's classrooms what critics say is \"dangerous\" curriculum."
+    publishedDateTime: 2021-04-28T00:13:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ycGZpUsjJEg/biden-critical-race-theory-push"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-critical-race-theory-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-critical-race-theory-push.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f9251b3-1815-4f83-8ae5-bf7ee86d10c6/b4319389-c2f3-4a5d-b119-d3835bb75182/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "en02aidOYxO+6V+8hj1XxBPVwVL2LgcUWcSmPOExXXCkPm2iEEFOmZUFTohFW77pauJQKDUaWdeRhbACI4hsaztYjZ/e2WF3D7exkuKS+3TMrXEa+zlWsInhhCj155higtLCwd2lQpwHr/uXLKG7yDvol6G4UnncVcu31+r36Udp9exmPAjph9vHI9kSdJS9IcycrPZ8LjF335icg8dyYnPjQOhzJtdIABTvFHIlsjfmcnIAWmXvh4cgcvqeiptgxQEDWuRXRtR5TFyivoGdoiJmgI7eEEwCdjZU1bWDNWZmYhlWhCOKjDLJIYCNbYuf2Sg8nL6GzKg5oexLb1NErho1OdOTH6dnq2cRiL1yIIk=;PP+mFEjkvIvVsKQQCiC49A=="

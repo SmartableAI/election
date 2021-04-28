@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trumps-mar-a-lago-secret-service-396
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-mar-a-lago-secret-service-396-night-for-hotel-2021-4?amp"
 type: article
 quality: 104
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Donald Trump Crashing Wedding At Mar-A-Lago Parody Went Viral, Twitter Thought It Was Real"
-    excerpt: "Comedienne Blaire Erskine created a parody video of former President Donald Trump crashing a Mar-a-Lago wedding and many thought she was the actual bride."
-    publishedDateTime: 2021-03-30T02:04:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-crashing-wedding-mar-lago-parody-went-viral-twitter-thought-it-was-real-3171396"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-crashing-wedding-mar-lago-parody-went-viral-twitter-thought-it-was-real-3171396?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-crashing-wedding-mar-lago-parody-went-viral-twitter-thought-it-was-real-3171396?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 65
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
-        width: 1024
-        height: 731
-        isCached: true
 
 secured: "oWgdTT4KZxzMUYd1xP5xdV+WiGB7O1iy+gYNb0XPsb6UXSsc8Z7DtfDxLBqu1mo5DveT2NwbWkp8zwjMt3rXy2vpz8rpYNP10a91WqloiMmyoOfIiyAmvQZVQ+Yj9QU0ojB4ORnBdzc9gOiqLJXfz5YHIyW6bkXY/rgOYY1yE0tPheS2/2rQT/En5CdfeySlyiDVfV/5jtKV19iBVY3nbMc+yCR442/aibu6Gt3ujy6X8g8+26ex0qqDyh272DVxTQgozZAxlnzhCWxiRnGZ8ZH725EcwM83LkVWT9EVlC54FxPirIr6xACXrxzICwWog/e49UfuLlKY9jan5zyiWL4idxgkOefrnmthsEKfsj6fVAmnOfMT/1MsDznKCT3DHeM4HrTPP46bYGaKKUnc3+mmvQDpZwYubqUu7GNT7fFcGpC+bA3ikfOBg2QkIMLBuwZ6keZzweyzI5kGVXcxc5KTny93pS3E6ij60U3FRX4fTtbLPQvC0JJFs7KiowyKMB+MuaBh49gCP+hCkcUb/g==;BCuNPTaAg8C5s+4rdLwGbA=="
 ---

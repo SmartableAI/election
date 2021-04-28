@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden marks International Transgender Day of Visibility with first-ever presidential proclamation of its kind"
+    excerpt: "President Joe Biden marked International Transgender Day of Visibility on Wednesday by issuing the first-ever presidential proclamation of its kind in recognition of the day, which aims to celebrate the achievements of trans rights activists and increase awareness about ongoing challenges transgender"
+    publishedDateTime: 2021-03-31T21:31:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9kXytEm75iU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/biden-proclamation-international-transgender-day-visibility/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/biden-proclamation-international-transgender-day-visibility/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191016112317-transgender-flag-stock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration will not shut down Dakota Access Pipeline during environmental review, DOJ lawyer tells court"
     excerpt: "The Biden administration will not shut down the controversial Dakota Access Pipeline while an environmental review is conducted, a blow to the environmental and tribal groups that have rallied against the project for years.\n    \n"
     publishedDateTime: 2021-04-09T19:19:54Z
@@ -95,6 +111,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210406171900-file-robin-carnahan-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Legislature votes to legalize marijuana — Biden administration green lights congestion pricing — Deal close on relief fund"
+    excerpt: "New York will become the latest state to legalize marijuana, after a years-long push culminated in a vote by the state Legislature to approve a bill ending the prohibition of the drug. The legislation passed the state Senate by a vote of 40-23 Tuesday night,"
+    publishedDateTime: 2021-03-31T11:14:00Z
+    webUrl: "https://www.politico.com/newsletters/new-york-playbook/2021/03/31/legislature-votes-to-legalize-marijuana-biden-administration-green-lights-congestion-pricing-deal-close-on-relief-fund-492305"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 89
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "XrtvV6811S00AhVqQsSkQYaKhivB34e/f6c4RRZ+qrVjfyT7qRl4sCzzofBGDA6A+3GffeSl+2X7aHCiJHM1antEJLYWxvs7wP5bagjgq5mmilDyAWafVq9Lkfl9az9QrTXxsUIwMYnI0fLd6hWittTga/WZh1ivHcn1av/Df624Yg4ILC4qHAJjXf9LcCz7MaJOJZzRpef+tu/HkozEesu1icpsvOtqH4qyBocEKIE93f0wf+eqs4sOiTRWfZzvxoQatjELSwC+xmM2dzhOqWMaeZM6o5s2mYW0TbGgRZMGeD+wSBLfqCKA3EG/BUolbzkt3AtHtKJXgjz2nthWnMBqoeMfySrLhvc3yX+feeshQW8DlH8q+kpoMM060gYUGNv3RBbCRCUCmjcKAzzipbzL96gD/8QEwt88mY3AxBOJdiXogT56Q9qjbYmIbTFuDUlS52Uh3ZADoGeY9SwMP6vNeB8N/iij6e+3bqogLQCunwrtd6bmUgw/bUP9dxIGEwIwBRGC1PkXIx4NvJVneQ==;SvKfgPxBhS45QAr70pwBgw=="

@@ -63,6 +63,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden administration will not require COVID-19 vaccine passports, White House says"
+    excerpt: "The White House said Tuesday that the Biden administration will not support a system requiring Americans to carry so-called COVID-19 \"vaccine passports,\" press secretary Jen Psaki said Tuesday."
+    publishedDateTime: 2021-04-06T17:55:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aFpQXXMIGqg/biden-admin-covid-vaccine-passports-not-required"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-covid-vaccine-passports-not-required.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-covid-vaccine-passports-not-required.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Migrants stream through gaps in border wall following Biden's order to halt construction"
+    excerpt: "Thousands of tons of steel and heavy equipment stand idle along the border as highways of migrants exploit holes in the fence left by President Biden’s decision to halt construction."
+    publishedDateTime: 2021-03-31T22:57:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZY2QwwUj5XA/migrants-stream-through-gaps-in-border-wall-following-bidens-order-to-halt-construction"
+    ampWebUrl: "https://www.foxnews.com/politics/migrants-stream-through-gaps-in-border-wall-following-bidens-order-to-halt-construction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrants-stream-through-gaps-in-border-wall-following-bidens-order-to-halt-construction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/william-la-jeunesse.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Majority of Americans disapprove of Biden handling of border crisis and immigration: Poll"
     excerpt: "President Biden’s overall approval rating stands at 61% in a new national poll. But when it comes to issues of border security and immigration, the president’s underwater by double digits."
     publishedDateTime: 2021-04-05T21:59:12Z
@@ -95,21 +127,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Ari Fleischer rips Biden over border access comments: Like a 'co-conspirator hiding evidence' from police"
-    excerpt: "President Biden made stunning comments defending the administration's purported transparency when it comes to access to federal border facilities says former White House Press Secretary Ari Fleischer on 'The Story'"
-    publishedDateTime: 2021-03-25T20:44:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C3eSENFVnUc/ari-fleischer-rips-biden-over-border-access-comments-like-a-co-conspirator-hiding-evidence-from-police"
-    ampWebUrl: "https://www.foxnews.com/politics/ari-fleischer-rips-biden-over-border-access-comments-like-a-co-conspirator-hiding-evidence-from-police.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-rips-biden-over-border-access-comments-like-a-co-conspirator-hiding-evidence-from-police.amp"
+  - title: "Biden open to breaking up controversial voting bill after Manchin opposes passing on 'partisan basis:' Psaki"
+    excerpt: "White House press secretary Jen Psaki said on Wednesday morning that President Biden is open to dividing Democrats' controversial election bill into multiple parts after Sen. Joe Manchin last week said he didn't think Congress should pass the entire thing at once."
+    publishedDateTime: 2021-03-31T19:13:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pd3yOTcRUpQ/biden-break-up-voting-bill-manchin"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 158
+    quality: 156
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fd742417-0277-4ffa-bd4d-9af9bfdb3da2/9d6078a7-a336-465e-a188-c328ab15256f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden grants Michigan’s Whitmer 66K more vaccine doses, in seeming shift from population-based US plan: report"
     excerpt: "President Biden is boosting Michigan’s coronavirus vaccine allotment by more than 66,000 doses for next week after receiving a call for help from Gov. Gretchen Whitmer, according to reports."
@@ -127,19 +159,19 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Shocking video of sisters dropped over border wall fuels criticism of Biden immigration policy"
-    excerpt: "\"The reason why we’re seeing the Biden border crisis is because Joe Biden said to the world, if you’re a kid or teenager or you purport to be a teeenager or you show up with a kid, we’ll let you into our country -- what did he expect would happen?\""
-    publishedDateTime: 2021-04-02T22:38:00Z
-    webUrl: "https://www.foxnews.com/politics/video-of-sisters-border-wall-criticism-of-biden-immigration-policy"
-    ampWebUrl: "https://www.foxnews.com/politics/video-of-sisters-border-wall-criticism-of-biden-immigration-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/video-of-sisters-border-wall-criticism-of-biden-immigration-policy.amp"
+  - title: "Biden open to breaking up controversial voting bill after Manchin opposes passing on 'partisan basis:' Psaki"
+    excerpt: "White House press secretary Jen Psaki said on Wednesday morning that President Biden is open to dividing Democrats' controversial election bill into multiple parts after Sen. Joe Manchin last week said he didn't think Congress should pass the entire thing at once."
+    publishedDateTime: 2021-03-31T19:18:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-break-up-voting-bill-manchin"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-break-up-voting-bill-manchin.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 123
+    quality: 116
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/gloria-1.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Jen-Psaki-Biden-Tax-Hike-Infrastructure-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

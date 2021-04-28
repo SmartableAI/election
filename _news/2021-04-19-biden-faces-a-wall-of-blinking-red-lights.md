@@ -27,463 +27,422 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: Biden's agencies reverse Trump's Wall Street-friendly rules"
-    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden’s interim regulators are wasting no time unraveling Wall Street-friendly measures introduced under former Republican President Donald Trump, using quick-fix legal tactics. They have spiked or stalled more ..."
-    publishedDateTime: 2021-04-12T14:03:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-financial-regulators-analys/analysis-with-quick-fixes-bidens-agencies-reverse-trumps-wall-street-friendly-rules-idUSKBN2BZ16N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BZ16N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BZ16N"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558148325&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B0MK"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump: McConnell 'helpless' to stop Biden from packing court"
-    excerpt: "Former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Police in California city ..."
-    publishedDateTime: 2021-04-13T02:45:00Z
-    webUrl: "https://thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court"
-    ampWebUrl: "https://thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court?amp"
+  - title: "Watch live: Biden, Harris speak at virtual climate summit"
+    excerpt: "President Biden and Vice President Harris are scheduled to speak at the opening of a virtual White House climate summit on Thursday morning. Their remarks are expected to begin at 8 a.m."
+    publishedDateTime: 2021-04-22T11:30:00Z
+    webUrl: "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit"
+    ampWebUrl: "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 140
+    quality: 150
     images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_mcconnellmitch_021821getty-gn_split_gop-funding.jpg"
+      - url: "https://thehill.com/sites/default/files/bidenharris_1_0.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Biden to move ahead with $23 billion UAE weapons sale approved by Trump"
-    excerpt: "HuffPost first reported the plan. Former President Trump Donald Trump Biden to move ahead with billion UAE weapons sale approved by Trump Fox News hires high-profile defense team in Dominion ..."
-    publishedDateTime: 2021-04-14T01:21:00Z
-    webUrl: "https://thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump"
-    ampWebUrl: "https://thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump?amp"
+  - title: "Joe Biden and Kamala Harris Speak Out on Capitol Police Officer Killed in Attack"
+    excerpt: "President Joe Biden and Vice President Kamala Harris both expressed their sympathy to the family and friends of the police officer killed during the attack at the U.S. Capitol on Friday. Capitol Police Officer William \"Billy\" Evans was killed after 25-year ..."
+    publishedDateTime: 2021-04-02T21:09:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-speaks-out-capitol-police-officer-killed-attack-1580806"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-speaks-out-capitol-police-officer-killed-attack-1580806?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-speaks-out-capitol-police-officer-killed-attack-1580806?amp=1"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 140
+      name: Newsweek
+      domain: newsweek.com
+    quality: 145
     images:
-      - url: "https://thehill.com/sites/default/files/1230bidenlede0413.jpg"
-        width: 580
-        height: 326
+      - url: "https://d.newsweek.com/en/full/1771249/capitol-police-attack-joe-biden.jpg"
+        width: 3589
+        height: 2393
         isCached: true
-  - title: "Trump ramped up attacks on me to distract my father, Hunter Biden says"
-    excerpt: "President’s son tells podcast attacks designed to be a distraction, ‘whether it ended up in some horrible death or whatever’"
-    publishedDateTime: 2021-04-16T14:19:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/16/hunter-biden-podcast-joe-biden-donald-trump"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/16/hunter-biden-podcast-joe-biden-donald-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/16/hunter-biden-podcast-joe-biden-donald-trump"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 140
-    images:
-      - url: "https://i.guim.co.uk/img/media/cdedcad33cc99ecc90f5a1f4864732fe9f2fc691/0_79_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6c7540e486df29dc97ddaaf3f2bc7da4"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden rescinds Trump-approved Medicaid work requirements in Michigan, Wisconsin"
-    excerpt: "ADVERTISEMENT The reversal comes after Trump’s CMS Administrator Seema Verma advocated for Medicaid work requirements, saying such regulations would help people get out of poverty and not rely ..."
-    publishedDateTime: 2021-04-08T14:11:00Z
-    webUrl: "https://thehill.com/policy/healthcare/547105-biden-rescinds-trump-approved-medicaid-work-requirements-in-michigan"
-    ampWebUrl: "https://thehill.com/policy/healthcare/547105-biden-rescinds-trump-approved-medicaid-work-requirements-in-michigan?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/547105-biden-rescinds-trump-approved-medicaid-work-requirements-in-michigan?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 136
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe2_04062021getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden's first budget fuels health, education spending in sharp change from Trump"
-    excerpt: "WASHINGTON (Reuters) -U.S. President Joe Biden asked Congress to sharply increase spending to combat climate change and gun violence and to support education in a budget that marks a sharp departure from his predecessor, Donald Trump. The $1.5 trillion ..."
-    publishedDateTime: 2021-04-09T16:19:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-idINKBN2BW190"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BW190"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BW190"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 135
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557880138&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH380MD"
-        width: 860
-        height: 545
-        isCached: true
-  - title: "Trump gutted Obama-era housing discrimination rules. Biden’s bringing them back."
-    excerpt: "Housing Secretary Marcia L. Fudge moved this week to reinstate fair housing regulations that had been gutted under President Donald Trump, in one of the most tangible steps that the Biden administration has taken thus far to address systemic racism."
-    publishedDateTime: 2021-04-13T14:37:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2021/04/13/hud-biden-fair-housing-rules/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/04/13/hud-biden-fair-housing-rules/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/04/13/hud-biden-fair-housing-rules/?outputType=amp"
+  - title: "Climate change creates migrants. Biden considers protections"
+    excerpt: "Ioane Teitiota and his wife fought for years to stay in New Zealand as refugees, arguing that rising sea levels caused by climate change threaten the very existence of the tiny Pacific island nation they fled,"
+    publishedDateTime: 2021-04-20T15:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/climate-change-creates-migrants-biden-considers-protections/2021/04/20/9e9cc9d4-a1f6-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/climate-change-creates-migrants-biden-considers-protections/2021/04/20/9e9cc9d4-a1f6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/climate-change-creates-migrants-biden-considers-protections/2021/04/20/9e9cc9d4-a1f6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 135
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GF7UEGEWR4I6XDYKGOCM6T5TTE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PBBE47VB5EI6XMYUF2MTXWB6GE.jpg&w=1440"
         width: 1440
-        height: 960
+        height: 929
         isCached: true
-  - title: "Factbox-How Biden's agencies are picking apart Trump's Wall Street-friendly measures"
-    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden's interim financial regulators are using a range of legal tools to quickly here contentious measures passed under former President Donald Trump's administration, focusing on environmental, social and ..."
-    publishedDateTime: 2021-04-12T14:03:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-financial-regulators-idUKKBN2BZ1WS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BZ1WS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BZ1WS"
+  - title: "Reports: UK to toughen climate target before Biden summit"
+    excerpt: "The U.K. government plans to set itself a more ambitious climate target, pledging to reduce carbon emissions by three-quarters of their 1990 levels by 2035"
+    publishedDateTime: 2021-04-20T09:25:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/reports-uk-toughen-climate-target-biden-summit-77182857"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/reports-uk-toughen-climate-target-biden-summit-77182857"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/reports-uk-toughen-climate-target-biden-summit-77182857"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 133
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558164505&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B109"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Texas Gov. Greg Abbott Blames Biden for Cartel 'Terrorism,' Cites Crime From Trump Era"
-    excerpt: "Abbott has also failed to mention that Trump publicly vowed to add the drug cartels to the foreign terror list but ultimately backed down."
-    publishedDateTime: 2021-04-17T21:30:00Z
-    webUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452"
-    ampWebUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 132
-    images:
-      - url: "https://d.newsweek.com/en/full/1773480/greg-abbott.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump Will Slam Biden and D.C. 'Swamp Creatures' in GOP Donor Retreat Speech, Says Top Advisor"
-    excerpt: "Donald Trump's senior advisor Jason Miller on Saturday afternoon revealed that the former president intends to slam President Joe Biden and the \"swamp creatures\" in Washington D.C. during his keynote speech at the GOP donor retreat in Mar-a-Lago tonight."
-    publishedDateTime: 2021-04-10T23:15:00Z
-    webUrl: "https://www.newsweek.com/trump-will-slam-biden-dc-swamp-creatures-gop-donor-retreat-speech-says-top-advisor-1582664"
-    ampWebUrl: "https://www.newsweek.com/trump-will-slam-biden-dc-swamp-creatures-gop-donor-retreat-speech-says-top-advisor-1582664?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-will-slam-biden-dc-swamp-creatures-gop-donor-retreat-speech-says-top-advisor-1582664?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 128
-    images:
-      - url: "https://d.newsweek.com/en/full/1775556/trump-cpac.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Biden golfed as president for the first time on his 87th day in office. Trump played on his 15th."
-    excerpt: "During his four-year tenure in office, Donald Trump played nearly 300 rounds of golf. Whereas in his eight years as president, Barack Obama played 333."
-    publishedDateTime: 2021-04-18T14:47:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-golfed-on-his-87th-day-in-office-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/joe-biden-golfed-on-his-87th-day-in-office-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-golfed-on-his-87th-day-in-office-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 127
-    images:
-      - url: "https://i.insider.com/607c2bb744f4540019207525?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "A fight over Trump's SALT tax cap is threatening to derail Biden's $2 trillion infrastructure plan"
-    excerpt: "A bipartisan group of lawmakers is seeking to reverse a 2017 tax cap introduced by former President Donald Trump."
-    publishedDateTime: 2021-04-18T11:25:00Z
-    webUrl: "https://www.businessinsider.com/trump-salt-tax-fight-threatens-to-hold-biden-infrastructure-plan-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/trump-salt-tax-fight-threatens-to-hold-biden-infrastructure-plan-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-salt-tax-fight-threatens-to-hold-biden-infrastructure-plan-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 126
-    images:
-      - url: "https://i.insider.com/5fb66dce32f2170011f6ff9f?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
-        isCached: true
-  - title: "Analysis: Bumpy road ahead for Biden's infrastructure plan"
-    excerpt: "But Joe Biden believes he can use it to drive America to the future after a dozen years of false starts. The trip is unlikely to be smooth. Biden's $2.3 trillion infrastructure package ..."
-    publishedDateTime: 2021-03-31T21:38:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-bumpy-road-ahead-bidens-infrastructure-plan-76796947"
-    type: article
-    provider:
-      name: ABCNews
+      name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_321a78dd44454ce7b60608ca3d71101e_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Climate change creates migrants. Biden considers protections"
+    excerpt: "No nation offers asylum or other protections to people displaced because of climate change SAN DIEGO -- Ioane Teitiota and his wife fought for years to stay in New Zealand as refugees, arguing that rising sea levels caused by climate change threaten the very existence of the tiny Pacific island nation they fled,"
+    publishedDateTime: 2021-04-20T17:41:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/climate-change-creates-migrants-biden-considers-protections-77190887"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/climate-change-creates-migrants-biden-considers-protections-77190887"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/climate-change-creates-migrants-biden-considers-protections-77190887"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_12d54668ced94553a990f644416f3ed4_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Despite Biden claim, most migrant families not being expelled to Mexico"
-    excerpt: "WASHINGTON (Reuters) - U.S. border agents expelled roughly a third of migrant parents and children traveling together and caught crossing the southwestern border in March, according to U.S. government data, undercutting a claim by President Joe Biden that ..."
-    publishedDateTime: 2021-04-08T13:10:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-immigration-border-idUSKBN2BV24H"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BV24H"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BV24H"
+  - title: "Joe Biden faces major test building US credibility at climate summit"
+    excerpt: "President will unveil new emissions reduction target while much will hinge upon cooperation between China and US"
+    publishedDateTime: 2021-04-21T13:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/21/joe-biden-climate-summit-world-leaders-china"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/21/joe-biden-climate-summit-world-leaders-china"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/21/joe-biden-climate-summit-world-leaders-china"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/9ff180e53dd849d21a159031478df7e69d44fc93/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e869f9d3ddc3b754c60b1a728452f9f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Who's attending Biden's climate summit?"
+    excerpt: "U.S. President Joe Biden invited leaders from the world's largest countries, including the other big polluters, to a two-day virtual climate summit  that starts Thursday."
+    publishedDateTime: 2021-04-21T15:18:00Z
+    webUrl: "https://www.reuters.com/article/us-global-climate-summit-schedule-idUSKBN2C82BY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C82BY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C82BY"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557732445&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH370ZX"
-        width: 817
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210421&t=2&i=1559398218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3K19Y"
+        width: 819
         height: 545
         isCached: true
-  - title: "Biden requests large boost in domestic spending"
-    excerpt: "President Biden, saying the U.S. for years has “significantly underinvested in core public services,” will ask Congress for a 16% boost in spending on a range of domestic programs, the White House announced Friday. The first installment of Biden’s ..."
-    publishedDateTime: 2021-04-09T15:18:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-04-09/biden-budget-request-congress-boosts-domestic-spending"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-04-09/biden-budget-request-congress-boosts-domestic-spending?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-04-09/biden-budget-request-congress-boosts-domestic-spending?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/831aabd/2147483647/strip/true/crop/3000x1959+0+182/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4d%2F11%2F6a277690459db334a823fac08cbd%2Fvirus-outbreak-california-vaccine-19539.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Despite Biden claim, most migrant families not being expelled to Mexico"
-    excerpt: "WASHINGTON (Reuters) - U.S. border agents expelled roughly a third of migrant parents and children traveling together and caught crossing the southwestern border in March, according to U.S. government data, undercutting a claim by President Joe Biden that ..."
-    publishedDateTime: 2021-04-08T18:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-immigration-border-idUKKBN2BV24H"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BV24H"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BV24H"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557732445&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH370ZX"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Black lawmakers press Biden on agenda at White House meeting"
-    excerpt: "The Congressional Black Caucus met with President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims for Ramadan The ..."
-    publishedDateTime: 2021-04-13T22:11:00Z
-    webUrl: "https://thehill.com/homenews/administration/548066-black-lawmakers-press-biden-on-agenda-at-white-house-meeting"
-    ampWebUrl: "https://thehill.com/homenews/administration/548066-black-lawmakers-press-biden-on-agenda-at-white-house-meeting?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/548066-black-lawmakers-press-biden-on-agenda-at-white-house-meeting?amp"
+  - title: "Activists dump cow poop to protest Biden climate plan"
+    excerpt: "Climate activists gathered in Washington, D.C., on Thursday to dump wheelbarrows full of cow poop near the White House in protest of President Biden’s climate plan, which they say is “bulls---” and do"
+    publishedDateTime: 2021-04-22T14:37:00Z
+    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/549699-activists-dump-cow-poop-to-protest-biden-climate-plan"
+    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/549699-activists-dump-cow-poop-to-protest-biden-climate-plan?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/549699-activists-dump-cow-poop-to-protest-biden-climate-plan?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/congressionalblackcaucus_04132021getty.jpg"
+      - url: "https://thehill.com/sites/default/files/cowdungprotest_0422021getty.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Gun control advocates pin their hopes on Joe Biden"
-    excerpt: "Congress has shown little appetite to pass the sweeping reforms that gun control proponents believe can stem the violence - but advocates insist there is reason for optimism. Three years ago, as Americans heard the details of yet another mass shooting,"
-    publishedDateTime: 2021-04-17T00:07:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-56682356.amp"
-    ampWebUrl: "https://www.bbc.com/news/world-us-canada-56682356.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56682356.amp"
+  - title: "Biden aims for momentum as US returns to climate fight"
+    excerpt: "President Joe Biden is convening a coalition of the willing, the unwilling, the desperate-for-help and the avid-for-money for a two-day summit aimed at rallying the world’s worst polluters to do more"
+    publishedDateTime: 2021-04-21T18:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-aims-for-momentum-as-us-returns-to-climate-fight/2021/04/21/c1ea4e72-a2d5-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-aims-for-momentum-as-us-returns-to-climate-fight/2021/04/21/c1ea4e72-a2d5-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-aims-for-momentum-as-us-returns-to-climate-fight/2021/04/21/c1ea4e72-a2d5-11eb-b314-2e993bd83e31_story.html?outputType=amp"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17B3C/production/_117948079_fb_img_1535318390257.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/35EEPGVC2QI6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Donald Trump rejects speechwriter's resignation"
-    excerpt: "Melania Trump's speechwriter has offered her resignation amid plagiarism claims, and has apologized for the \"chaos\" she has caused for the Trump family. CBS News senior political editor Steve Chaggaris and politics writer for The Atlantic Molly Ball join CBSN to discuss."
-    publishedDateTime: 2021-04-19T23:46:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-rejects-speechwriters-resignation-1/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/donald-trump-rejects-speechwriters-resignation-1/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/donald-trump-rejects-speechwriters-resignation-1/"
+  - title: "Biden demands collective action at White House climate summit"
+    excerpt: "President Biden on Thursday called for collective action to combat climate change, saying the global community has no choice but to act to confront “the existential crisis of our time.”"
+    publishedDateTime: 2021-04-22T12:52:00Z
+    webUrl: "https://thehill.com/policy/energy-environment/549671-biden-demands-collective-action-at-white-house-climate-summit"
+    ampWebUrl: "https://thehill.com/policy/energy-environment/549671-biden-demands-collective-action-at-white-house-climate-summit?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/549671-biden-demands-collective-action-at-white-house-climate-summit?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenclimatesummit_042221getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden opening summit with ambitious new US climate pledge"
+    excerpt: "President Joe Biden is prepared to open a global Earth Day summit with an ambitious pledge to cut at least in half the climate-wrecking coal and petroleum fumes that the U.S. pumps out"
+    publishedDateTime: 2021-04-22T09:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-opening-summit-with-ambitious-new-us-climate-pledge/2021/04/22/a6a3446c-a351-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-opening-summit-with-ambitious-new-us-climate-pledge/2021/04/22/a6a3446c-a351-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-opening-summit-with-ambitious-new-us-climate-pledge/2021/04/22/a6a3446c-a351-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/35EEPGVC2QI6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden tests political climate at home and abroad: The Note"
+    excerpt: "President Joe Biden faces perhaps his biggest test yet on the international stage with the two-day climate summit, a mostly virtual gathering organized by the White House"
+    publishedDateTime: 2021-04-22T10:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-tests-political-climate-home-abroad-note/story?id=77219182"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-tests-political-climate-home-abroad-note/story?id=77219182"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-tests-political-climate-home-abroad-note/story?id=77219182"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-ge_hpMain_20210421-211411_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "How to Watch Joe Biden, 40 World Leaders Discuss Climate Change"
+    excerpt: "Issues concerning global climate change will be discussed before the world by President Joe Biden and 40 world leaders he invited to the two-day virtual Leaders Summit on Climate that can be viewed by livestream,"
+    publishedDateTime: 2021-04-22T10:00:00Z
+    webUrl: "https://www.newsweek.com/how-watch-joe-biden-40-world-leaders-discuss-climate-change-1585547"
+    ampWebUrl: "https://www.newsweek.com/how-watch-joe-biden-40-world-leaders-discuss-climate-change-1585547?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-joe-biden-40-world-leaders-discuss-climate-change-1585547?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1781334/us-president-joe-biden.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "In Biden climate show, watch for cajoling, conflict, pathos"
+    excerpt: "President Joe Biden takes center stage in a two-day climate summit highlighting America's return to the fight to curb global warming"
+    publishedDateTime: 2021-04-22T10:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-climate-show-watch-cajoling-conflict-pathos-77237180"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-climate-show-watch-cajoling-conflict-pathos-77237180"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-climate-show-watch-cajoling-conflict-pathos-77237180"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5695d385b8374d449b83a3f2eb6017cc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The Latest: Biden administration opens global climate summit"
+    excerpt: "The Latest on President Joe Biden’s global climate summit (all times local): 8 a.m. Support our journalism. Subscribe today. The Biden administration has opened a global climate summit including 40 world leaders."
+    publishedDateTime: 2021-04-22T12:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-administration-opens-global-climate-summit/2021/04/22/2991c356-a363-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-administration-opens-global-climate-summit/2021/04/22/2991c356-a363-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-administration-opens-global-climate-summit/2021/04/22/2991c356-a363-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I3JQUJFDOII6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "World leaders pledge cooperation during Biden's global climate summit"
+    excerpt: "World leaders beamed into President Biden’s virtual global summit on climate change Thursday, vowing to collaborate on targets for world-wide decarbonization while also laying out their own countries' efforts to reduce greenhouse gas emissions."
+    publishedDateTime: 2021-04-22T15:41:00Z
+    webUrl: "https://thehill.com/policy/international/549727-world-leaders-pledge-cooperation-during-bidens-global-climate-summit"
+    ampWebUrl: "https://thehill.com/policy/international/549727-world-leaders-pledge-cooperation-during-bidens-global-climate-summit?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/549727-world-leaders-pledge-cooperation-during-bidens-global-climate-summit?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_biden_021721getty_1.jpg"
+        width: 1440
+        height: 880
+        isCached: true
+  - title: "Jobs are make-or-break argument for Biden in climate plan"
+    excerpt: "The White House is bringing out the billionaires, the CEOs and the union leaders to help sell President Joe Biden’s climate-friendly transformation of the U.S. economy"
+    publishedDateTime: 2021-04-23T04:05:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/jobs-make-break-argument-biden-climate-plan-77260589"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/jobs-make-break-argument-biden-climate-plan-77260589"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/jobs-make-break-argument-biden-climate-plan-77260589"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_e78eea6a2fd94a338c306e2a872ac281_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "No vice president has broken more Senate ties as soon as Kamala Harris"
+    excerpt: "During the eight years that Joe Biden served as vice president to Barack Obama, he never cast a tiebreaking vote in the Senate. For eight years, Biden was just at the other end of Pennsylvania Avenue,"
+    publishedDateTime: 2021-04-22T20:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/22/no-vice-president-has-broken-more-senate-ties-soon-kamala-harris/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/22/no-vice-president-has-broken-more-senate-ties-soon-kamala-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/22/no-vice-president-has-broken-more-senate-ties-soon-kamala-harris/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LKYH6GVDP4I6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "World leaders join President Biden for Earth Day climate summit"
+    excerpt: "More than 40 world leaders joined President Joe Biden for a two-day virtual summit in celebration of Earth Day. The focus of the event is finding ways to cut carbon emissions, which Mr. Biden says the U."
+    publishedDateTime: 2021-04-22T18:56:00Z
+    webUrl: "https://www.cbsnews.com/video/world-leaders-join-president-biden-for-earth-day-climate-summit/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/world-leaders-join-president-biden-for-earth-day-climate-summit/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/world-leaders-join-president-biden-for-earth-day-climate-summit/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/19/8feff424-79c4-48c2-a7c8-c25681720cea/thumbnail/1200x630/bdb2a34ced04bea350ebb6b1dfe6f115/cbsn-0720-rncday3-melaniatrumpsmistake-1095416-640x360.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/22/b17e829a-3b7b-444d-a931-d14accce0d27/thumbnail/1200x630/b78024ced42604f350ac5026e51604a1/cbsn-fusion-world-leaders-join-president-biden-for-earth-day-climate-summit-thumbnail-699052-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "With Afghanistan decision, Biden restores foreign policymaking process that Trump had largely abandoned"
-    excerpt: "The administration held dozens of meetings that included high-level arguments to stay in Afghanistan before Biden settled on a choice he had previewed more than a decade ago."
-    publishedDateTime: 2021-04-18T22:44:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/biden-afghanistan-decision-foreign-policy-process/2021/04/18/e45e3fec-a05d-11eb-a774-7b47ceb36ee8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-afghanistan-decision-foreign-policy-process/2021/04/18/e45e3fec-a05d-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-afghanistan-decision-foreign-policy-process/2021/04/18/e45e3fec-a05d-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
+  - title: "What progressives think of President Biden's first 100 days"
+    excerpt: "President Joe Biden is approaching the 100-day mark in his term. CBS News political contributor and Democratic strategist Joel Payne and Briahna Joy Gray, the former national press secretary for Bernie Sanders' 2020 presidential campaign,"
+    publishedDateTime: 2021-04-27T20:27:00Z
+    webUrl: "https://www.cbsnews.com/video/president-biden-and-progressives-in-his-first-100-days-in-office/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/biden-and-progressives-in-his-first-100-days-in-office-analysis-2021-04-26/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/biden-and-progressives-in-his-first-100-days-in-office-analysis-2021-04-26/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/27/7926012f-262b-4eed-992e-d2c2bfef8a16/thumbnail/1200x630/09d33a3e7ddeb6186ff933197c52e04b/cbsn-fusion-president-biden-and-progressives-in-his-first-100-days-in-office-thumbnail-702286-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "No vice president has broken more Senate ties as early as Kamala Harris has"
+    excerpt: "During the eight years that Joe Biden served as vice president to Barack Obama, he never cast a tiebreaking vote in the Senate. For eight years, Biden was just at the other end of Pennsylvania Avenue,"
+    publishedDateTime: 2021-04-22T20:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/22/no-vice-president-has-broken-more-senate-ties-soon-kamala-harris/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/22/no-vice-president-has-broken-more-senate-ties-soon-kamala-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/22/no-vice-president-has-broken-more-senate-ties-soon-kamala-harris/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 124
+    quality: 123
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YL3YJFFAR4I6XBP4AZTE75CITU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LKYH6GVDP4I6XMYUF2MTXWB6GE.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden wants money to probe white supremacist beliefs at immigration agencies"
-    excerpt: "WASHINGTON (Reuters) -President Joe Biden is calling for funding to investigate complaints of white supremacist beliefs at U.S. immigration enforcement agencies, according to a summary of his budget request for the coming fiscal year released on Friday."
-    publishedDateTime: 2021-04-09T15:26:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-immigration-idINKBN2BW21J"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BW21J"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BW21J"
+  - title: "What Biden has done on climate change has activists applauding -- and waiting"
+    excerpt: "Biden has doubled down on climate change, hosting an international virtual summit with 40 world leaders this Earth Day."
+    publishedDateTime: 2021-04-22T16:54:00Z
+    webUrl: "https://abcnews.go.com/GMA/News/biden-climate-change-activists-applauding-waiting/story?id=77240848"
+    ampWebUrl: "https://goodmorningamerica.com/amp/news/story/biden-climate-change-activists-applauding-waiting-77240848"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/news/story/biden-climate-change-activists-applauding-waiting-77240848"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 122
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557897992&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3810R"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/GMA/biden2-gty-ml-210422_1619100244516_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "President Biden to withdraw all U.S. troops from Afghanistan by Sept. 11, extending Trump's May 1 deadline"
-    excerpt: "The move will extend military presence in Afghanistan beyond the May 1 withdrawal date previously negotiated by former President Donald Trump. Biden sees \"no military solution\" for the problems in Afghanistan, a senior administration official said."
-    publishedDateTime: 2021-04-13T16:50:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/13/biden-withdraw-us-troops-afghanistan-sept-11-not-may-1/7205023002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7205023002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7205023002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/13/USAT/0d250ba2-3f8f-44f6-bc77-b144de56e558-AP21046456203732.jpg?auto=webp&crop=2819,1586,x0,y143&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Parkland Students Want More Done on Gun Violence After Biden's Executive Order"
-    excerpt: "Parkland students are calling on President Joe Biden to sign even more executive orders targeting gun violence as he is set to take action in response to the recent wave of deadly mass shootings across the nation. In a statement released Thursday ..."
-    publishedDateTime: 2021-04-08T16:53:00Z
-    webUrl: "https://www.newsweek.com/parkland-students-want-more-done-gun-violence-after-bidens-executive-order-1582027"
-    ampWebUrl: "https://www.newsweek.com/parkland-students-want-more-done-gun-violence-after-bidens-executive-order-1582027?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/parkland-students-want-more-done-gun-violence-after-bidens-executive-order-1582027?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
-    images:
-      - url: "https://d.newsweek.com/en/full/1773469/march-our-lives.jpg"
-        width: 594
-        height: 395
-        isCached: true
-  - title: "Rep. Ilhan Omar slams Biden's 'shameful' plan to restart construction on Trump's 'xenophobic and racist' wall"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Rep. Ilhan Omar has criticized President Joe Biden for continuing the construction of Donald Trump's \"xenophobic and racist\" southern border wall. \"It's shameful and unacceptable for @POTUS to continue the ..."
-    publishedDateTime: 2021-04-08T11:00:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-trump-border-wall-restart-slammed-ilhan-omar-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/joe-biden-trump-border-wall-restart-slammed-ilhan-omar-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-trump-border-wall-restart-slammed-ilhan-omar-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 121
-    images:
-      - url: "https://i.insider.com/606ee08430004b0019b2694b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Joe Biden’s southern border challenge: reversing Trumpism"
-    excerpt: "The 46th US president took office promising a more welcoming immigration policy. Now Republicans are calling a new wave of migrants at the southern border a ‘crisis’, but is that really the case?"
-    publishedDateTime: 2021-04-18T19:27:00Z
-    webUrl: "https://www.theguardian.com/australia-news/audio/2021/apr/19/joe-bidens-southern-border-challenge-reversing-trumpism"
+  - title: "Greta Thunberg testifies before Congress as Biden kicks off climate summit – live"
+    excerpt: "House subcommittee holds hearing on fossil fuels with climate activist as Biden says at summit: ‘No nation can solve this crisis on our own’"
+    publishedDateTime: 2021-04-22T14:36:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/22/joe-biden-climate-summit-greta-thunberg-testify-congress-latest-updates?page=with:block-6081750d8f08a84aa591acaa"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/22/joe-biden-climate-summit-greta-thunberg-testify-congress-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/22/joe-biden-climate-summit-greta-thunberg-testify-congress-latest-updates"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
     quality: 120
     images:
-      - url: "https://i.guim.co.uk/img/media/d991b123118a3edd78ba1afee29792b8b0284d66/0_125_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d286a196c46f2da3f9781436a2291867"
-        width: 1200
-        height: 630
+      - url: "https://i.guim.co.uk/img/media/ddb8bed6fafeb49dcfb81e736e9af0071d60a00e/0_153_5600_3362/master/5600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=664b12f6fe0a93b3b3631fe91702348f"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Trump calls for Biden to reinstate a foreign travel ban to 'keep our country safe from radical Islamic terrorism'"
-    excerpt: "Trump wants his travel ban, which Biden revoked on his first day in office, to be reinstated by the current administration."
-    publishedDateTime: 2021-04-20T05:16:00Z
-    webUrl: "https://www.businessinsider.com/trump-calls-for-biden-to-reinstate-foreign-travel-ban-terrorism-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/trump-calls-for-biden-to-reinstate-foreign-travel-ban-terrorism-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-calls-for-biden-to-reinstate-foreign-travel-ban-terrorism-2021-4?amp"
+  - title: "Live updates: White House reacts to FedEx shooting, Biden expected to make statement"
+    excerpt: "Eight people were killed and several more were injured in a mass shooting at the FedEx Ground Plainfield Operations Center late Thursday. Police say the gunman, who has not been identified by authorities,"
+    publishedDateTime: 2021-04-16T16:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/crime/2021/04/16/indianapolis-fedex-shooting-live-updates-after-8-killed/7251292002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7251292002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7251292002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 119
-    images:
-      - url: "https://i.insider.com/605df8726746fb0018a73e7a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Analysis: Biden White House tries to craft gun executive orders that can't be undone"
-    excerpt: "WASHINGTON (Reuters) - The White House is trying to craft a series of executive actions for President Joe Biden to sign to try to limit gun violence, hoping they cannot be quickly dismantled in court, according to aides and gun safety groups. Among the ..."
-    publishedDateTime: 2021-04-02T10:12:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-guns-analysis-idUSKBN2BP0QI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BP0QI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BP0QI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: USA Today
+      domain: usatoday.com
     quality: 118
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210402&t=2&i=1557130342&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH310C3"
-        width: 817
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2021/04/16/PIND/c2cca5db-1836-4bdc-b32f-ab26e401b8aa-2021_04_16_MassShooting_MM_15.JPG?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Biden calls for funding to probe white supremacist beliefs at U.S. immigration agencies"
-    excerpt: "WASHINGTON (Reuters) - President Joe Biden is calling for funding to investigate complaints of white supremacist beliefs at U.S. immigration enforcement agencies, according to a summary of his budget request for the coming fiscal year released on Friday."
-    publishedDateTime: 2021-04-09T14:09:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-immigration-idUSKBN2BW21J"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BW21J"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW21J"
+  - title: "At Earth Day climate summit, Biden promises 50% reduction in US greenhouse emissions"
+    excerpt: "President Joe Biden announced the goal of reducing greenhouse gas emissions by 50% as he kicked off a climate summit with 40 other world leaders."
+    publishedDateTime: 2021-04-22T14:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/22/president-biden-pledge-reduction-us-greenhouse-gas-emissions/7307038002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7307038002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7307038002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557870266&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3810R"
-        width: 817
-        height: 545
+      - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2020/10/05/USATODAY/usatsports/getty-emissions-refinery-flaring.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Analysis: Biden takes a risk pulling troops from Afghanistan"
-    excerpt: "At its start, America’s war in Afghanistan was about retribution for 9/11. Then it was about shoring up a weak government and its weak army so that Osama bin Laden's al-Qaida could never again threaten the United States."
-    publishedDateTime: 2021-04-15T04:10:00Z
-    webUrl: "https://www.businessinsider.com/analysis-biden-takes-a-risk-pulling-troops-from-afghanistan-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/analysis-biden-takes-a-risk-pulling-troops-from-afghanistan-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/analysis-biden-takes-a-risk-pulling-troops-from-afghanistan-2021-4?amp"
+  - title: "Joe Biden And Kamala Harris Said “We Still Have Work To Do” After Derek Chauvin Was Convicted Of Murdering George Floyd"
+    excerpt: "The president and vice president called the verdict in George Floyd’s murder a “step forward” but pressed for Congress to pass police reforms."
+    publishedDateTime: 2021-04-21T00:32:00Z
+    webUrl: "https://www.buzzfeednews.com/article/ryancbrooks/biden-harris-chauvin-verdict-george-floyd-justice-act"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryancbrooks/biden-harris-chauvin-verdict-george-floyd-justice-act"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryancbrooks/biden-harris-chauvin-verdict-george-floyd-justice-act"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 116
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-11/19/21/campaign_images/1242b492f2b1/watch-live-four-key-witnesses-are-testifying-at-t-2-5485-1574197771-1_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
   - title: "How Joe Biden escapes life in the White House bubble"
     excerpt: "White House living isn't quite that simple for any president. Joe Biden has described it as \"a little like a gilded cage.\""
     publishedDateTime: 2021-04-15T15:23:00Z
@@ -498,105 +457,432 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "U.S. willing to lift sanctions imposed on Iran by Trump that are ‘inconsistent’ with 2015 nuclear deal, senior Biden administration official says"
-    excerpt: "The official described the negotiations as \"complicated,\" and said the initial round had centered on the specifics of what each side is prepared to do to return to compliance with the agreement, from which President Donald Trump withdrew three years ago."
-    publishedDateTime: 2021-04-09T23:31:00Z
-    webUrl: "https://www.washingtonpost.com/world/europe/iran-nuclear-talks-vienna-south-korea/2021/04/09/910fd23a-985e-11eb-8f0a-3384cf4fb399_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/europe/iran-nuclear-talks-vienna-south-korea/2021/04/09/910fd23a-985e-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/iran-nuclear-talks-vienna-south-korea/2021/04/09/910fd23a-985e-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+  - title: "Fact Check-Kamala Harris is not campaigning to end veteran benefits"
+    excerpt: "Social media posts saying U.S. Vice President Kamala Harris has started a campaign “to end veteran benefits” have no basis in fact and likely originated from a satirical article."
+    publishedDateTime: 2021-04-22T14:25:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-kamala-veterans-idUSL1N2MF1WP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MF1WP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MF1WP"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 103
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DRXHOUEZBEI6XFRLPDA5QIUIDE.jpg&w=1440"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Donald Trump blasts Biden's Sept. 11 withdrawal deadline in Afghanistan"
-    excerpt: "Former President Donald Trump said Sunday that President Biden should withdraw troops from Afghanistan before September and not use the sacred date of Sept. 11 as the deadline."
-    publishedDateTime: 2021-04-18T23:44:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/apr/18/donald-trump-blasts-biden-sept-11-afghanistan-with/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/18/donald-trump-blasts-biden-sept-11-afghanistan-with/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/18/donald-trump-blasts-biden-sept-11-afghanistan-with/"
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Biden and Harris talk about navigating the southern border crisis"
+    excerpt: "(The following is a copy of an imaginary leaked conversation between President Biden and Vice President Kamala Harris secretly recorded in Biden’s basement.) “You want me to do what?” (spontaneously laughing). “Kamala, I want you to take over the ..."
+    publishedDateTime: 2021-04-06T05:05:00Z
+    webUrl: "https://www.lowellsun.com/2021/04/06/biden-and-harris-talk-about-navigating-the-southern-border-crisis/"
+    ampWebUrl: "https://www.lowellsun.com/2021/04/06/biden-and-harris-talk-about-navigating-the-southern-border-crisis/amp/"
+    cdnAmpWebUrl: "https://www-lowellsun-com.cdn.ampproject.org/c/s/www.lowellsun.com/2021/04/06/biden-and-harris-talk-about-navigating-the-southern-border-crisis/amp/"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
+      name: The Lowell Sun
+      domain: lowellsun.com
     quality: 90
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/12/4_122021_beltway-trump-conse8202_c0-104-2500-1562_s1200x700.jpg?2d5ddaaeb405183379a395b29cf0e643d3db558f"
-        width: 1200
-        height: 700
+      - url: "https://www.lowellsun.com/wp-content/uploads/2021/03/APTOPIX_Biden_89999-1.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Analysis: Chronicling Donald Trump’s 10 worst abuses of power"
-    excerpt: "Former President Donald Trump flouted the limits of presidential power unlike any of his recent predecessors, leaving behind a legacy of unmatched abuses that range from violations of longstanding"
-    publishedDateTime: 2021-01-24T14:50:00Z
-    webUrl: "https://www.mercurynews.com/2021/01/24/analysis-chronicling-donald-trumps-10-worst-abuses-of-power/"
-    ampWebUrl: "https://www.mercurynews.com/2021/01/24/analysis-chronicling-donald-trumps-10-worst-abuses-of-power/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/24/analysis-chronicling-donald-trumps-10-worst-abuses-of-power/amp/"
+  - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
+    excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"
+    publishedDateTime: 2021-04-21T22:37:00Z
+    webUrl: "https://www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/"
+    ampWebUrl: "https://www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/amp/"
     type: article
     provider:
       name: Mercury News
       domain: mercurynews.com
+    quality: 87
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/04/sjm-4374537.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "'One giant leap': Harris says Biden's American Jobs Plan aims high, will reach higher"
+    excerpt: "Vice President Kamala Harris told a small audience at GTCC that \"the president and I are determined to get this done.\""
+    publishedDateTime: 2021-04-19T17:45:00Z
+    webUrl: "https://greensboro.com/one-giant-leap-harris-says-bidens-american-jobs-plan-aims-high-will-reach-higher/article_fea20eb4-a121-11eb-a878-1bb49daf4e3d.html"
+    ampWebUrl: "https://greensboro.com/one-giant-leap-harris-says-bidens-american-jobs-plan-aims-high-will-reach-higher/article_fea20eb4-a121-11eb-a878-1bb49daf4e3d.amp.html"
+    cdnAmpWebUrl: "https://greensboro-com.cdn.ampproject.org/c/s/greensboro.com/one-giant-leap-harris-says-bidens-american-jobs-plan-aims-high-will-reach-higher/article_fea20eb4-a121-11eb-a878-1bb49daf4e3d.amp.html"
+    type: article
+    provider:
+      name: News & Record
+      domain: greensboro.com
+    quality: 83
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/4/65/465ff4b3-a1e2-54fa-a65d-686b9cd69abe/607d9b0a8a9eb.image.jpg?crop=1261%2C846%2C37%2C0&resize=1024%2C687&order=crop%2Cresize"
+        width: 1024
+        height: 687
+        isCached: true
+  - title: "Kamala Harris Has a New Desk-and It May Be Better Than Joe Biden's"
+    excerpt: "But the second-in-command has never had such a lofty tradition—until now. Kamala Harris, our nation's first female and woman of color vice president, is finally getting a historic piece worthy of her status. As we know, Joe Biden ultimately selected the ..."
+    publishedDateTime: 2021-04-09T19:40:00Z
+    webUrl: "https://www.chron.com/realestate/article/Kamala-Harris-Has-a-New-Desk-and-It-May-Be-16089723.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 80
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/42/11/20849248/3/rawImage.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Florida woman charged for death threats against Kamala Harris"
+    excerpt: "A woman was charged for alleged death threats against VP Kamala Harris, according to a criminal complaint filed in the U.S. District Court."
+    publishedDateTime: 2021-04-17T18:10:00Z
+    webUrl: "https://thegrio.com/2021/04/17/woman-threatens-kamala-harris/"
+    ampWebUrl: "https://thegrio.com/2021/04/17/woman-threatens-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/04/17/woman-threatens-kamala-harris/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
     quality: 75
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/210114155358-20210114-trump-most-egregious-abuses-of-power-super-169.jpg?w=1024&h=576"
-        width: 1024
-        height: 576
+      - url: "https://thegrio.com/wp-content/uploads/2021/04/170420211618681884-1-scaled.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Biden Plays Golf For First Time As President, Months After Trump Played His First Round As POTUS"
-    excerpt: "In 2014, while he was vice-president, Biden joked that running for president could potentially hurt his golf game. “If you want to keep your handicap in golf don’t run for pre"
-    publishedDateTime: 2021-04-18T17:14:00Z
-    webUrl: "https://ibtimes.com/biden-plays-golf-first-time-president-months-after-trump-played-his-first-round-potus-3183006"
+  - title: "Florida woman made videos threatening to kill Kamala Harris, agents say"
+    excerpt: "The Secret Service says the threats against the vice president were discovered when the Miami nurse sent the videos to her husband in prison."
+    publishedDateTime: 2021-04-17T22:17:00Z
+    webUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/"
+    ampWebUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 57
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/17/us-president-joe-biden-speaking-at-the-white.jpg"
-        width: 1024
-        height: 682
+      - url: "https://www.tampabay.com/resizer/J-Do4DJDiMTPENXOY7JzzA8Jm1g=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XPWD6XFPDFSYBOP5T7UMY35PAY.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "U.S. President Joe Biden Arrives From Camp David"
-    excerpt: "President Joe Biden and First Lady Jill Biden arrive by Marine One to the White Hous in Washington, DC, on Monday, April 5, 2021. The traditional Easter Egg Roll at the White House with thousands of visitors was not held due to the coronavirus COVID-19 ..."
-    publishedDateTime: 2021-04-05T19:02:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/bbedb695639b7289aaa20878b9869807/US-President-Joe-Biden-Arrives-From-Camp-David/"
+  - title: "Florida woman threatened to kill Kamala Harris in videos, agents say"
+    excerpt: "The Secret Service says the threats against the vice president were discovered when the Miami nurse sent the videos to her husband in prison."
+    publishedDateTime: 2021-04-17T23:31:00Z
+    webUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/"
+    ampWebUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 75
+    images:
+      - url: "https://www.tampabay.com/resizer/J-Do4DJDiMTPENXOY7JzzA8Jm1g=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XPWD6XFPDFSYBOP5T7UMY35PAY.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Biden pressed on emissions goal as climate summit nears"
+    excerpt: "When President Joe The emissions target, eagerly awaited by all sides of the climate debate, will signal how aggressively Biden wants to move on climate change, a divisive and expensive issue that has riled Republicans to complain about job-killing government overreach even as some on the left worry Biden has not gone far enough to address a profound threat to the planet."
+    publishedDateTime: 2021-04-19T13:34:00Z
+    webUrl: "https://www.mrt.com/news/article/Biden-pressed-on-emissions-goal-as-climate-summit-16110812.php"
+    ampWebUrl: "https://www.mrt.com/news/amp/Biden-pressed-on-emissions-goal-as-climate-summit-16110812.php"
+    cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Biden-pressed-on-emissions-goal-as-climate-summit-16110812.php"
+    type: article
+    provider:
+      name: Midland Reporter-Telegram
+      domain: mrt.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Vice President Kamala Harris is in NC. How to watch her speech."
+    excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan. Harris’s plane landed at 10:30 a."
+    publishedDateTime: 2021-04-19T13:56:00Z
+    webUrl: "https://www.heraldsun.com/news/politics-government/article250530439.html"
+    ampWebUrl: "https://amp.heraldsun.com/news/politics-government/article250530439.html"
+    cdnAmpWebUrl: "https://amp-heraldsun-com.cdn.ampproject.org/c/s/amp.heraldsun.com/news/politics-government/article250530439.html"
+    type: article
+    provider:
+      name: The Herald-Sun
+      domain: heraldsun.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/7d2f4318-041d-45c9-912e-de9066b0c035/eca2373c-9360-4972-b4c1-05cb59189b19/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden’s Climate Denialism"
+    excerpt: "NRPLUS MEMBER ARTICLE I n anticipation of Thursday’s virtual Leaders Summit on Climate, a two-day global gathering of more than 40, President Joe Biden declared that the United States had a “moral imperative” to adopt an “ambitious” goal of cutting greenhouse-gas emissions by 50 percent in nine years and 100 percent in 29 years."
+    publishedDateTime: 2021-04-22T19:44:00Z
+    webUrl: "https://www.nationalreview.com/2021/04/bidens-climate-denialism/"
+    ampWebUrl: "https://www.nationalreview.com/2021/04/bidens-climate-denialism/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/2021/04/bidens-climate-denialism/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/04/biden-4.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "NRSC dings Kamala Harris ahead of New Hampshire visit"
+    excerpt: "Vice President Kamala Harris can’t seem to go anywhere without catching flak about her reluctance to visit the U.S.-Mexico border. The National Republican Senatorial Committee made certain of that Friday ahead of Ms. Harris’ scheduled trip to New ..."
+    publishedDateTime: 2021-04-23T16:07:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/apr/23/nrsc-dings-kamala-harris-ahead-new-hampshire-visit/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/apr/23/nrsc-dings-kamala-harris-ahead-new-hampshire-visit/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/apr/23/nrsc-dings-kamala-harris-ahead-new-hampshire-visit/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/23/Harris_77850.jpg-cadbc_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "BA senator implies that VP Kamala Harris slept her way into politics"
+    excerpt: "When asked Friday by a television reporter to explain his comment about Harris and paper straws, Nathan Dahm said he was referencing her \"vast experience and how she got into"
+    publishedDateTime: 2021-04-24T01:25:00Z
+    webUrl: "https://tulsaworld.com/news/state-and-regional/govt-and-politics/ba-senator-implies-that-vp-kamala-harris-slept-her-way-into-politics/article_264fcd10-a46b-11eb-b9a8-1bd10c4c3da6.html"
+    ampWebUrl: "https://tulsaworld.com/news/state-and-regional/govt-and-politics/ba-senator-implies-that-vp-kamala-harris-slept-her-way-into-politics/article_264fcd10-a46b-11eb-b9a8-1bd10c4c3da6.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/state-and-regional/govt-and-politics/ba-senator-implies-that-vp-kamala-harris-slept-her-way-into-politics/article_264fcd10-a46b-11eb-b9a8-1bd10c4c3da6.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/5/db/5dbdd1d6-a487-11eb-9b67-47d8e827e73c/5e947240e0f52.image.jpg?resize=1024%2C695"
+        width: 1024
+        height: 695
+        isCached: true
+  - title: "Vice President Kamala Harris to visit Baltimore next week to mark Biden administration’s first 100 days"
+    excerpt: "Vice President Kamala Harris will visit Baltimore next week to mark an early milestone for the Biden-Harris administration, according to the White House."
+    publishedDateTime: 2021-04-24T01:45:00Z
+    webUrl: "https://www.baltimoresun.com/politics/bs-pr-md-pol-kamala-harris-baltimore-20210423-h2gjlass5zeqpfl4qn6dixyw6a-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/politics/bs-pr-md-pol-kamala-harris-baltimore-20210423-h2gjlass5zeqpfl4qn6dixyw6a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-pr-md-pol-kamala-harris-baltimore-20210423-h2gjlass5zeqpfl4qn6dixyw6a-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 74
+    images:
+      - url: "https://www.baltimoresun.com/resizer/z-hBHdXETNSiABYi9BXSgkPau04=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TV72JP6FNMDLH2LOYIXM5SEVC4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "In North Carolina, Vice President Kamala Harris pitches $2.3T spending plan"
+    excerpt: "In her first visit to the state since getting sworn in to office, Harris spoke at Guilford Technical Community College’s Advanced Manufacturing Campus in support of the proposal, which was unveiled last month on the heels of the $1."
+    publishedDateTime: 2021-04-19T20:03:00Z
+    webUrl: "https://www.dailypress.com/government/nation/vp-nw-kamala-harris-north-carolina-trip-20210419-tbqknf55dbc3rakjegwglc73yu-story.html"
+    ampWebUrl: "https://www.dailypress.com/government/nation/vp-nw-kamala-harris-north-carolina-trip-20210419-tbqknf55dbc3rakjegwglc73yu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/government/nation/vp-nw-kamala-harris-north-carolina-trip-20210419-tbqknf55dbc3rakjegwglc73yu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 73
+    images:
+      - url: "https://www.dailypress.com/resizer/0AsFViKk2BxIY-BFBMcchU0_A54=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G57KVOHMDDQESR5XC5LD3PGACI.jpg"
+        width: 1200
+        height: 873
+        isCached: true
+  - title: "Florida nurse charged for death threats against Vice President Kamala Harris"
+    excerpt: "A Florida woman is being held by federal authorities for allegedly making a series of threats to kill Vice President Kamala Harris. Niviane Petit Phelps, 39, sent a series of videos to her husband in prison, expressing anger over the results of the 2020 ..."
+    publishedDateTime: 2021-04-17T16:27:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/17/kamala-harris-death-threats-florida-nurse-charged-detained/7268355002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/7268355002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7268355002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/15/USAT/8a802859-42db-40cb-9b7c-39de0c7d31ec-Harris.jpg?auto=webp&crop=5111,2875,x0,y170&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "South Florida Nurse Arrested, Accused of Threatening to Kill VP Kamala Harris"
+    excerpt: "A longtime South Florida nurse accused of making videos threatening Vice President Kamala Harris’ life has been arrested on federal charges. Niviane Petit Phelps, of Miami Gardens, was arrested following an investigation by the U."
+    publishedDateTime: 2021-04-17T01:54:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 72
+    images:
+      - url: "https://i0.wp.com/media.nbcnewyork.com/2021/03/AP_21078788269498.jpeg?crop=933px%2C44px%2C4334px%2C2439px&quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "VP Kamala Harris at Greensboro historic sit-in lunch counter | Charlotte Observer"
+    excerpt: "The image said it all: the first Black vice president of the United States took a seat at the same Southern lunch counter where four Black college students helped spark the civil rights movement."
+    publishedDateTime: 2021-04-20T14:59:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article250804224.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article250804224.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article250804224.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/5b30ae35-4c27-4d55-a6ca-90ba04a14595/5ff7b641-61af-4bc0-a2da-1b36417da963/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Raleigh News & Observer"
+    excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point Harris’s plane landed at 10:30 a.m. on a rainy day in Greensboro, where Gov."
+    publishedDateTime: 2021-04-18T03:00:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article250530439.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article250530439.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article250530439.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/7d2f4318-041d-45c9-912e-de9066b0c035/eca2373c-9360-4972-b4c1-05cb59189b19/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris takes a seat at NC lunch counter where 4 students made history in 1960"
+    excerpt: "The image said it all: the first Black vice president of the United States took a seat at the same Southern lunch counter where four Black college students helped spark the civil rights movement."
+    publishedDateTime: 2021-04-20T14:07:00Z
+    webUrl: "https://www.heraldonline.com/news/state/north-carolina/article250804224.html"
+    ampWebUrl: "https://amp.heraldonline.com/news/state/north-carolina/article250804224.html"
+    cdnAmpWebUrl: "https://amp-heraldonline-com.cdn.ampproject.org/c/s/amp.heraldonline.com/news/state/north-carolina/article250804224.html"
+    type: article
+    provider:
+      name: The Herald SC
+      domain: heraldonline.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/5b30ae35-4c27-4d55-a6ca-90ba04a14595/5ff7b641-61af-4bc0-a2da-1b36417da963/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "No, the Biden administration isn’t buying Kamala Harris’ book for migrant children"
+    excerpt: "On April 23, the New York Post reported that migrant children routed from the U.S.-Mexico border to a shelter in Long Beach, Calif., will be given a copy of Vice President Kamala Harris’ 2019 children’s book called \"Superheroes are Everywhere."
+    publishedDateTime: 2021-04-27T17:31:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/apr/27/facebook-posts/no-biden-administration-isnt-buying-kamala-harris-/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 64
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
+  - title: "Vice President Harris meets with nonprofit leaders to discuss root causes of Central American migration"
+    excerpt: "Harris told foundation leaders that she hopes to correct the conditions that drive people out of Guatemala, El Salvador and Honduras, instead of just increasing security at the U.S. border with Mexico."
+    publishedDateTime: 2021-04-22T17:55:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-kamala-harri-20210422-23nkzekbvng7dlqpd5ejjzziue-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-kamala-harri-20210422-23nkzekbvng7dlqpd5ejjzziue-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-kamala-harri-20210422-23nkzekbvng7dlqpd5ejjzziue-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 59
+    images:
+      - url: "https://www.nydailynews.com/resizer/0zRXhTh6zBROJfz04unRbpmc7c4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NPNRUXPX5ZGIXESRZSSCS4ZR5M.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Joe Biden pressed on emissions goal as climate summit nears"
+    excerpt: "When President Joe Biden convenes a virtual climate summit on Thursday, he faces a vexing task: how to put forward a nonbinding but symbolic goal to reduce greenhouse gas emissions that will have a tangible impact on climate change efforts not only in the U."
+    publishedDateTime: 2021-04-19T11:49:00Z
+    webUrl: "https://floridapolitics.com/archives/421565-joe-biden-pressed-on-emissions-goal-as-climate-summit-nears/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/04/1000-20-1.jpeg"
+        width: 1000
+        height: 666
+        isCached: true
+  - title: "VP Kamala Harris expected in NH later this week"
+    excerpt: "Vice President Kamala Harris plans to visit New Hampshire later this week, her first trip to the Granite State since she and President Joe Biden were sworn into office in"
+    publishedDateTime: 2021-04-18T19:28:00Z
+    webUrl: "https://www.unionleader.com/news/politics/vp-kamala-harris-expected-in-nh-later-this-week/article_6b159730-90a8-5e67-b535-d12439d652cc.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/b/c5/bc5ca04d-bbc6-5000-a4d6-78e2e21fceb7/5f3325fe49ee2.image.jpg?resize=946%2C630"
+        width: 946
+        height: 630
+        isCached: true
+  - title: "Vice President Kamala Harris speaks in Washington"
+    excerpt: "Vice President Kamala Harris makes a statement before holding a roundtable discussion with leadership on issues concerning Guatemala, Honduras, and El Salvador at the White House in Washington, DC, on Thursday April 22,"
+    publishedDateTime: 2021-04-22T15:07:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/7ba6a4d4682e22059d7d77d1e197c3da/Vice-President-Kamala-Harris-speaks-in-Washington/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/bbedb695639b7289aaa20878b9869807/USA-BIDEN-EASTER.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/7ba6a4d4682e22059d7d77d1e197c3da/HARRIS-CENTAM.jpg"
         width: 650
         height: 433
         isCached: true
-  - title: "President Joe Biden speaks from the Treaty Room in the White House"
-    excerpt: "President Joe Biden removes his mask to speak from the Treaty Room in the White House on Wednesday, April 14, 2021 about the withdrawal of the remainder of U.S. troops from Afghanistan. Pool Photo by"
-    publishedDateTime: 2021-04-14T18:53:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/4bfee34e00e76fa6a93aff450e9e3d9a/President-Joe-Biden-speaks-from-the-Treaty-Room-in-the-White-House/"
+  - title: "Vice President Kamala Harris Meets With Guatemalan Ambassador"
+    excerpt: "U.S. Vice President Kamala Harris speaks during a virtual roundtable with representatives from Guatemalan community-based organizations in the Eisenhower Executive Office Building in Washington, DC on Tuesday,"
+    publishedDateTime: 2021-04-27T23:42:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9962786deba908171271858972521ca8/Vice-President-Kamala-Harris-Meets-With-Guatemalan-Ambassador/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/4bfee34e00e76fa6a93aff450e9e3d9a/BIDEN-AFHGANISTAN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/9962786deba908171271858972521ca8/HARRIS-BORDER.jpg"
         width: 650
         height: 433
         isCached: true
-  - title: "Cowboys for Trump Founder Appeals Recall Bid to High Court"
-    excerpt: "Cowboys for Trump founder Couy Griffin has filed an appeal with the state Supreme Court as he seeks to fend off an effort to recall him from office as a county commissioner in southern New Mexico."
-    publishedDateTime: 2021-04-20T00:50:00Z
-    webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-04-19/cowboys-for-trump-founder-appeals-recall-bid-to-high-court"
+  - title: "Kamala Harris to Speak With Guatemalan President on Monday: Axios"
+    excerpt: "U.S. Vice President Kamala Harris will meet virtually on Monday with Guatemalan President Alejandro Giammattei to discuss solutions to the surge of migration, Axios reported on Wednesday, citing a senior White House official."
+    publishedDateTime: 2021-04-22T01:02:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-04-21/kamala-harris-to-speak-with-guatemalan-president-on-monday-axios"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Vice President Harris Holds Roundtable on Northern Triangle"
+    excerpt: "T10:00:00-04:00  Vice President Harris hosts a roundtable meeting with foundation leaders on the Northern Triangle (El"
+    publishedDateTime: 2021-04-22T11:47:00Z
+    webUrl: "https://www.c-span.org/video/?511155-1/vice-president-harris-holds-roundtable-northern-triangle"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Charlotte Observer"
+    excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan. Harris’s plane landed at 10:30 a."
+    publishedDateTime: 2021-04-19T15:33:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article250530439.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 31
 
 secured: "RvaAHRpyccTe0X5WW53FI5hLrL3wa5br6dkpeQpuidZTmUnE6H4cfIxAYym4DmvNtazLlW8OUkBP7bx3JKesjlYzG1DYKlLIkyd//tb/07guIXXnFadrunhseJhCid8M5KGNN6UEt0spLIZq/s3RtU4HN+zjpTSP/1tt0mbXyNgM6+pUZKTctxAG2jtGSpf/K1DEToWobx6DmYFIJ1/lqdgAAhaiOUnMiSpLO1+wqgrFxLTjAVlbCxbCB84Uf+jeFNwgWI8WEmEZLJHOkZTs351ux3ByxwI/5jfS0tget+E7+TBsC3376AJ3MWtadOytwAYhtn0azc18ambqFgs/fBUWVFFectnyxodAS4hjUqg=;KKlb5nO90pWeQbeXMV48kQ=="
 ---

@@ -25,584 +25,866 @@ topics:
   - Kamala Harris
 
 related:
-  - title: "Veep with a pearl earring: Kamala Harris ignites a jewelry trend"
-    excerpt: "Fashion insiders credit Vice President Kamala Harris with single-handedly bringing back a bygone trend: pearls. When she was sworn in as our country’s first woman, first Black and first South Asian vice president,"
-    publishedDateTime: 2021-03-05T04:00:00Z
-    webUrl: "https://www.houstonchronicle.com/lifestyle/thepage/article/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php"
-    ampWebUrl: "https://www.houstonchronicle.com/lifestyle/thepage/amp/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/lifestyle/thepage/amp/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php"
+  - title: "Watch live: Biden, Harris speak at virtual climate summit"
+    excerpt: "President Biden and Vice President Harris are scheduled to speak at the opening of a virtual White House climate summit on Thursday morning. Their remarks are expected to begin at 8 a.m."
+    publishedDateTime: 2021-04-22T11:30:00Z
+    webUrl: "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit"
+    ampWebUrl: "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 125
+      name: The Hill
+      domain: thehill.com
+    quality: 150
     images:
-      - url: "https://s.hdnux.com/photos/01/16/76/12/20701837/3/375x250.jpg"
-        width: 374
-        height: 250
+      - url: "https://thehill.com/sites/default/files/bidenharris_1_0.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Democrats tussle over minimum wage. Kamala Harris is caught in the middle"
-    excerpt: "Kamala Harris emerges as the focal point of the White House's intra-party tussle over minimum wage. How she handles this first tussle will be telling."
-    publishedDateTime: 2021-03-05T00:59:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-03-04/harris-emerging-as-magnet-for-progressive-pressure-on-the-white-house"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-03-04/harris-emerging-as-magnet-for-progressive-pressure-on-the-white-house?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-04/harris-emerging-as-magnet-for-progressive-pressure-on-the-white-house?_amp=true"
+  - title: "Joe Biden and Kamala Harris Speak Out on Capitol Police Officer Killed in Attack"
+    excerpt: "President Joe Biden and Vice President Kamala Harris both expressed their sympathy to the family and friends of the police officer killed during the attack at the U.S. Capitol on Friday. Capitol Police Officer William \"Billy\" Evans was killed after 25-year ..."
+    publishedDateTime: 2021-04-02T21:09:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-speaks-out-capitol-police-officer-killed-attack-1580806"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-speaks-out-capitol-police-officer-killed-attack-1580806?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-speaks-out-capitol-police-officer-killed-attack-1580806?amp=1"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 124
+      name: Newsweek
+      domain: newsweek.com
+    quality: 145
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/5b5a885/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb5%2F04%2F56a81f2b47b8a28f0140637d45b9%2Fbiden-92981.jpg"
-        width: 320
-        height: 209
+      - url: "https://d.newsweek.com/en/full/1771249/capitol-police-attack-joe-biden.jpg"
+        width: 3589
+        height: 2393
         isCached: true
-  - title: "Kamala Harris breaks Senate tie to begin Covid relief package debate – live"
-    excerpt: "Vice-President cast tie-breaking vote after Senate deadlocked 50-50"
-    publishedDateTime: 2021-03-05T01:05:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60413a7c8f08d01b68d70f40"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/134c519394440450a7f7a12d428244410189fea5/0_2_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a317c70618b167c39a465a419299a17c"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Kamala Harris breaks Senate tie to begin Covid relief package debate – as it happened"
-    excerpt: "Vice-president cast tie-breaking vote after Senate deadlocked 50-50"
-    publishedDateTime: 2021-03-05T01:36:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-6041418c8f08acb794a3792a"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 118
-    images:
-      - url: "https://i.guim.co.uk/img/media/134c519394440450a7f7a12d428244410189fea5/0_2_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a317c70618b167c39a465a419299a17c"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Kamala Harris announces $250 million in funding to help address COVID response inequities"
-    excerpt: "The grants will go to to community organizations that work to address gaps in the response to COVID-19, according to a government official."
-    publishedDateTime: 2021-03-09T12:06:00Z
-    webUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-inequities-funding-250-million/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-covid-response-inequities-funding-250-million/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-covid-response-inequities-funding-250-million/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 116
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/08/0fefa302-65ac-4ddd-a068-9dd807908488/thumbnail/1200x630/f9508121110b2995bd783ebece1f4341/gettyimages-1306014933.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "CityLab Daily: Watch Kamala Harris at the CityLab 2021 Conference"
-    excerpt: "A virtual edition of the annual CityLab conference starts Monday, and it includes some pretty impressive speakers. Vice President Kamala Harris will give the keynote address, and U.S. Secretary of Transportation Pete Buttigieg will be interviewed by Bloomberg CityLab’s Laura Bliss."
-    publishedDateTime: 2021-02-26T19:01:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2021-02-26/citylab-daily-watch-kamala-harris-at-the-citylab-2021-conference"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 105
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i074DLE2rc5U/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Kamala Harris to speak at Black History Month event"
-    excerpt: "House Majority Leader Steny H. Hoyer (D-Md.) is expected to introduce Vice President Harris at a virtual event marking the 40th Black History Month on Feb. 27."
-    publishedDateTime: 2021-02-27T15:24:00Z
-    webUrl: "https://www.washingtonpost.com/video/national/kamala-harris-to-speak-at-black-history-month-event/2021/02/27/533a911c-2d2c-4472-acd2-f69e987d07bf_live.html"
+  - title: "Climate change creates migrants. Biden considers protections"
+    excerpt: "Ioane Teitiota and his wife fought for years to stay in New Zealand as refugees, arguing that rising sea levels caused by climate change threaten the very existence of the tiny Pacific island nation they fled,"
+    publishedDateTime: 2021-04-20T15:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/climate-change-creates-migrants-biden-considers-protections/2021/04/20/9e9cc9d4-a1f6-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/climate-change-creates-migrants-biden-considers-protections/2021/04/20/9e9cc9d4-a1f6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/climate-change-creates-migrants-biden-considers-protections/2021/04/20/9e9cc9d4-a1f6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 105
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-27-2021/t_06aede71413242389b5cb300208ca5ba_name_202102_kamalaharris_reuters_thumbnail.jpg&w=1080"
-        width: 1080
-        height: 608
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PBBE47VB5EI6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 929
         isCached: true
-  - title: "Vice President Kamala Harris steps into new foreign policy role"
-    excerpt: "White House officials say Vice President Kamala Harris will prioritize cybersecurity and global health as part of her foreign policy role. CBS News White House reporter Tim Perry joins CBSN to explain."
-    publishedDateTime: 2021-02-26T18:29:00Z
-    webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-foreign-policy-role/"
+  - title: "Reports: UK to toughen climate target before Biden summit"
+    excerpt: "The U.K. government plans to set itself a more ambitious climate target, pledging to reduce carbon emissions by three-quarters of their 1990 levels by 2035"
+    publishedDateTime: 2021-04-20T09:25:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/reports-uk-toughen-climate-target-biden-summit-77182857"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/reports-uk-toughen-climate-target-biden-summit-77182857"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/reports-uk-toughen-climate-target-biden-summit-77182857"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Climate change creates migrants. Biden considers protections"
+    excerpt: "No nation offers asylum or other protections to people displaced because of climate change SAN DIEGO -- Ioane Teitiota and his wife fought for years to stay in New Zealand as refugees, arguing that rising sea levels caused by climate change threaten the very existence of the tiny Pacific island nation they fled,"
+    publishedDateTime: 2021-04-20T17:41:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/climate-change-creates-migrants-biden-considers-protections-77190887"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/climate-change-creates-migrants-biden-considers-protections-77190887"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/climate-change-creates-migrants-biden-considers-protections-77190887"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_12d54668ced94553a990f644416f3ed4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Joe Biden faces major test building US credibility at climate summit"
+    excerpt: "President will unveil new emissions reduction target while much will hinge upon cooperation between China and US"
+    publishedDateTime: 2021-04-21T13:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/21/joe-biden-climate-summit-world-leaders-china"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/21/joe-biden-climate-summit-world-leaders-china"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/21/joe-biden-climate-summit-world-leaders-china"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/9ff180e53dd849d21a159031478df7e69d44fc93/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e869f9d3ddc3b754c60b1a728452f9f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Who's attending Biden's climate summit?"
+    excerpt: "U.S. President Joe Biden invited leaders from the world's largest countries, including the other big polluters, to a two-day virtual climate summit  that starts Thursday."
+    publishedDateTime: 2021-04-21T15:18:00Z
+    webUrl: "https://www.reuters.com/article/us-global-climate-summit-schedule-idUSKBN2C82BY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C82BY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C82BY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210421&t=2&i=1559398218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3K19Y"
+        width: 819
+        height: 545
+        isCached: true
+  - title: "Activists dump cow poop to protest Biden climate plan"
+    excerpt: "Climate activists gathered in Washington, D.C., on Thursday to dump wheelbarrows full of cow poop near the White House in protest of President Biden’s climate plan, which they say is “bulls---” and do"
+    publishedDateTime: 2021-04-22T14:37:00Z
+    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/549699-activists-dump-cow-poop-to-protest-biden-climate-plan"
+    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/549699-activists-dump-cow-poop-to-protest-biden-climate-plan?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/549699-activists-dump-cow-poop-to-protest-biden-climate-plan?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/cowdungprotest_0422021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden aims for momentum as US returns to climate fight"
+    excerpt: "President Joe Biden is convening a coalition of the willing, the unwilling, the desperate-for-help and the avid-for-money for a two-day summit aimed at rallying the world’s worst polluters to do more"
+    publishedDateTime: 2021-04-21T18:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-aims-for-momentum-as-us-returns-to-climate-fight/2021/04/21/c1ea4e72-a2d5-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-aims-for-momentum-as-us-returns-to-climate-fight/2021/04/21/c1ea4e72-a2d5-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-aims-for-momentum-as-us-returns-to-climate-fight/2021/04/21/c1ea4e72-a2d5-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/35EEPGVC2QI6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden demands collective action at White House climate summit"
+    excerpt: "President Biden on Thursday called for collective action to combat climate change, saying the global community has no choice but to act to confront “the existential crisis of our time.”"
+    publishedDateTime: 2021-04-22T12:52:00Z
+    webUrl: "https://thehill.com/policy/energy-environment/549671-biden-demands-collective-action-at-white-house-climate-summit"
+    ampWebUrl: "https://thehill.com/policy/energy-environment/549671-biden-demands-collective-action-at-white-house-climate-summit?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/549671-biden-demands-collective-action-at-white-house-climate-summit?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenclimatesummit_042221getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden opening summit with ambitious new US climate pledge"
+    excerpt: "President Joe Biden is prepared to open a global Earth Day summit with an ambitious pledge to cut at least in half the climate-wrecking coal and petroleum fumes that the U.S. pumps out"
+    publishedDateTime: 2021-04-22T09:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-opening-summit-with-ambitious-new-us-climate-pledge/2021/04/22/a6a3446c-a351-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-opening-summit-with-ambitious-new-us-climate-pledge/2021/04/22/a6a3446c-a351-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-opening-summit-with-ambitious-new-us-climate-pledge/2021/04/22/a6a3446c-a351-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/35EEPGVC2QI6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden tests political climate at home and abroad: The Note"
+    excerpt: "President Joe Biden faces perhaps his biggest test yet on the international stage with the two-day climate summit, a mostly virtual gathering organized by the White House"
+    publishedDateTime: 2021-04-22T10:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-tests-political-climate-home-abroad-note/story?id=77219182"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-tests-political-climate-home-abroad-note/story?id=77219182"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-tests-political-climate-home-abroad-note/story?id=77219182"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-ge_hpMain_20210421-211411_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "How to Watch Joe Biden, 40 World Leaders Discuss Climate Change"
+    excerpt: "Issues concerning global climate change will be discussed before the world by President Joe Biden and 40 world leaders he invited to the two-day virtual Leaders Summit on Climate that can be viewed by livestream,"
+    publishedDateTime: 2021-04-22T10:00:00Z
+    webUrl: "https://www.newsweek.com/how-watch-joe-biden-40-world-leaders-discuss-climate-change-1585547"
+    ampWebUrl: "https://www.newsweek.com/how-watch-joe-biden-40-world-leaders-discuss-climate-change-1585547?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-joe-biden-40-world-leaders-discuss-climate-change-1585547?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1781334/us-president-joe-biden.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "In Biden climate show, watch for cajoling, conflict, pathos"
+    excerpt: "President Joe Biden takes center stage in a two-day climate summit highlighting America's return to the fight to curb global warming"
+    publishedDateTime: 2021-04-22T10:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-climate-show-watch-cajoling-conflict-pathos-77237180"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-climate-show-watch-cajoling-conflict-pathos-77237180"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-climate-show-watch-cajoling-conflict-pathos-77237180"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5695d385b8374d449b83a3f2eb6017cc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The Latest: Biden administration opens global climate summit"
+    excerpt: "The Latest on President Joe Biden’s global climate summit (all times local): 8 a.m. Support our journalism. Subscribe today. The Biden administration has opened a global climate summit including 40 world leaders."
+    publishedDateTime: 2021-04-22T12:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-administration-opens-global-climate-summit/2021/04/22/2991c356-a363-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-administration-opens-global-climate-summit/2021/04/22/2991c356-a363-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-administration-opens-global-climate-summit/2021/04/22/2991c356-a363-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I3JQUJFDOII6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "World leaders pledge cooperation during Biden's global climate summit"
+    excerpt: "World leaders beamed into President Biden’s virtual global summit on climate change Thursday, vowing to collaborate on targets for world-wide decarbonization while also laying out their own countries' efforts to reduce greenhouse gas emissions."
+    publishedDateTime: 2021-04-22T15:41:00Z
+    webUrl: "https://thehill.com/policy/international/549727-world-leaders-pledge-cooperation-during-bidens-global-climate-summit"
+    ampWebUrl: "https://thehill.com/policy/international/549727-world-leaders-pledge-cooperation-during-bidens-global-climate-summit?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/549727-world-leaders-pledge-cooperation-during-bidens-global-climate-summit?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_biden_021721getty_1.jpg"
+        width: 1440
+        height: 880
+        isCached: true
+  - title: "Jobs are make-or-break argument for Biden in climate plan"
+    excerpt: "The White House is bringing out the billionaires, the CEOs and the union leaders to help sell President Joe Biden’s climate-friendly transformation of the U.S. economy"
+    publishedDateTime: 2021-04-23T04:05:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/jobs-make-break-argument-biden-climate-plan-77260589"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/jobs-make-break-argument-biden-climate-plan-77260589"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/jobs-make-break-argument-biden-climate-plan-77260589"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_e78eea6a2fd94a338c306e2a872ac281_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "No vice president has broken more Senate ties as soon as Kamala Harris"
+    excerpt: "During the eight years that Joe Biden served as vice president to Barack Obama, he never cast a tiebreaking vote in the Senate. For eight years, Biden was just at the other end of Pennsylvania Avenue,"
+    publishedDateTime: 2021-04-22T20:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/22/no-vice-president-has-broken-more-senate-ties-soon-kamala-harris/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/22/no-vice-president-has-broken-more-senate-ties-soon-kamala-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/22/no-vice-president-has-broken-more-senate-ties-soon-kamala-harris/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LKYH6GVDP4I6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "World leaders join President Biden for Earth Day climate summit"
+    excerpt: "More than 40 world leaders joined President Joe Biden for a two-day virtual summit in celebration of Earth Day. The focus of the event is finding ways to cut carbon emissions, which Mr. Biden says the U."
+    publishedDateTime: 2021-04-22T18:56:00Z
+    webUrl: "https://www.cbsnews.com/video/world-leaders-join-president-biden-for-earth-day-climate-summit/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/world-leaders-join-president-biden-for-earth-day-climate-summit/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/world-leaders-join-president-biden-for-earth-day-climate-summit/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 105
+    quality: 125
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/26/2a8ccff5-f44e-487b-8f91-742e85cb1eab/thumbnail/1200x630/5c1316e4da52862bb493217fb7fb9010/cbsn-fusion-vice-president-kamala-harris-steps-into-new-foreign-policy-role-thumbnail-654395-640x360.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/22/b17e829a-3b7b-444d-a931-d14accce0d27/thumbnail/1200x630/b78024ced42604f350ac5026e51604a1/cbsn-fusion-world-leaders-join-president-biden-for-earth-day-climate-summit-thumbnail-699052-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Vice President Kamala Harris Calls NASA Astronaut Victor Glover"
-    excerpt: "In celebration of Black History Month, NASA astronaut Victor Glover welcomed Vice President Kamala Harris to the International Space Station for a virtual chat. In the video recorded Feb. 24 and shared Saturday,"
-    publishedDateTime: 2021-02-27T21:27:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-science-industrial-products-and-services-aerospace-and-defense-industry-space-exploration-06c6fe47125365f8ca6b6893e2e9fcc9"
+  - title: "What progressives think of President Biden's first 100 days"
+    excerpt: "President Joe Biden is approaching the 100-day mark in his term. CBS News political contributor and Democratic strategist Joel Payne and Briahna Joy Gray, the former national press secretary for Bernie Sanders' 2020 presidential campaign,"
+    publishedDateTime: 2021-04-27T20:27:00Z
+    webUrl: "https://www.cbsnews.com/video/president-biden-and-progressives-in-his-first-100-days-in-office/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/biden-and-progressives-in-his-first-100-days-in-office-analysis-2021-04-26/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/biden-and-progressives-in-his-first-100-days-in-office-analysis-2021-04-26/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/27/7926012f-262b-4eed-992e-d2c2bfef8a16/thumbnail/1200x630/09d33a3e7ddeb6186ff933197c52e04b/cbsn-fusion-president-biden-and-progressives-in-his-first-100-days-in-office-thumbnail-702286-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Kamala Harris Pushes Plan to Strengthen City Infrastructure"
-    excerpt: "The Biden administration is preparing a new stimulus proposal for Congress that would follow its coronavirus relief plan."
-    publishedDateTime: 2021-03-02T08:15:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-03-01/kamala-harris-on-stimulus-plan-for-cities"
+  - title: "No vice president has broken more Senate ties as early as Kamala Harris has"
+    excerpt: "During the eight years that Joe Biden served as vice president to Barack Obama, he never cast a tiebreaking vote in the Senate. For eight years, Biden was just at the other end of Pennsylvania Avenue,"
+    publishedDateTime: 2021-04-22T20:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/22/no-vice-president-has-broken-more-senate-ties-soon-kamala-harris/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/22/no-vice-president-has-broken-more-senate-ties-soon-kamala-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/22/no-vice-president-has-broken-more-senate-ties-soon-kamala-harris/?outputType=amp"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 105
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEdUCPOZx.G0/v1/1200x675.jpg"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LKYH6GVDP4I6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "What Biden has done on climate change has activists applauding -- and waiting"
+    excerpt: "Biden has doubled down on climate change, hosting an international virtual summit with 40 world leaders this Earth Day."
+    publishedDateTime: 2021-04-22T16:54:00Z
+    webUrl: "https://abcnews.go.com/GMA/News/biden-climate-change-activists-applauding-waiting/story?id=77240848"
+    ampWebUrl: "https://goodmorningamerica.com/amp/news/story/biden-climate-change-activists-applauding-waiting-77240848"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/news/story/biden-climate-change-activists-applauding-waiting-77240848"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/GMA/biden2-gty-ml-210422_1619100244516_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Greta Thunberg testifies before Congress as Biden kicks off climate summit – live"
+    excerpt: "House subcommittee holds hearing on fossil fuels with climate activist as Biden says at summit: ‘No nation can solve this crisis on our own’"
+    publishedDateTime: 2021-04-22T14:36:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/22/joe-biden-climate-summit-greta-thunberg-testify-congress-latest-updates?page=with:block-6081750d8f08a84aa591acaa"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/22/joe-biden-climate-summit-greta-thunberg-testify-congress-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/22/joe-biden-climate-summit-greta-thunberg-testify-congress-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/ddb8bed6fafeb49dcfb81e736e9af0071d60a00e/0_153_5600_3362/master/5600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=664b12f6fe0a93b3b3631fe91702348f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Live updates: White House reacts to FedEx shooting, Biden expected to make statement"
+    excerpt: "Eight people were killed and several more were injured in a mass shooting at the FedEx Ground Plainfield Operations Center late Thursday. Police say the gunman, who has not been identified by authorities,"
+    publishedDateTime: 2021-04-16T16:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/crime/2021/04/16/indianapolis-fedex-shooting-live-updates-after-8-killed/7251292002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7251292002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7251292002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/16/PIND/c2cca5db-1836-4bdc-b32f-ab26e401b8aa-2021_04_16_MassShooting_MM_15.JPG?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Essential Politics: Kamala Harris enters a supermarket — and a security bubble"
-    excerpt: "A press event at a grocery store underscores the new reality of Vice President Kamala Harris' protective bubble."
-    publishedDateTime: 2021-03-03T14:31:00Z
-    webUrl: "https://www.latimes.com/politics/newsletter/2021-03-03/kamala-harris-supermarket-coronavirus-essential-politics"
+  - title: "At Earth Day climate summit, Biden promises 50% reduction in US greenhouse emissions"
+    excerpt: "President Joe Biden announced the goal of reducing greenhouse gas emissions by 50% as he kicked off a climate summit with 40 other world leaders."
+    publishedDateTime: 2021-04-22T14:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/22/president-biden-pledge-reduction-us-greenhouse-gas-emissions/7307038002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7307038002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7307038002"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 101
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/04cdae2/2147483647/strip/true/crop/3401x1786+0+241/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F18%2Fa7%2F075fdbcc4db8910446ec56ee751a%2Fgettyimages-1231375480.jpg"
+      - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2020/10/05/USATODAY/usatsports/getty-emissions-refinery-flaring.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "U.S. Vice President Kamala Harris is Keynote Speaker at NOBLE Annual Executive Symposium, March 8"
-    excerpt: "NOBLE, an organization at the forefront of providing solutions to law enforcement issues and concerns, excitedly announces Vice President Kamala Harris as the keynote speaker for its 2021 William R. Bracey Winter CEO Symposium."
-    publishedDateTime: 2021-03-03T07:02:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/north-america-police-law-enforcement-agencies-government-and-politics-kamala-harris-40ccdb729d7a6c53f95cbf5b270d3774"
+  - title: "Joe Biden And Kamala Harris Said “We Still Have Work To Do” After Derek Chauvin Was Convicted Of Murdering George Floyd"
+    excerpt: "The president and vice president called the verdict in George Floyd’s murder a “step forward” but pressed for Congress to pass police reforms."
+    publishedDateTime: 2021-04-21T00:32:00Z
+    webUrl: "https://www.buzzfeednews.com/article/ryancbrooks/biden-harris-chauvin-verdict-george-floyd-justice-act"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/ryancbrooks/biden-harris-chauvin-verdict-george-floyd-justice-act"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryancbrooks/biden-harris-chauvin-verdict-george-floyd-justice-act"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 92
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 116
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-11/19/21/campaign_images/1242b492f2b1/watch-live-four-key-witnesses-are-testifying-at-t-2-5485-1574197771-1_dblbig.jpg"
+        width: 625
+        height: 415
         isCached: true
-  - title: "Republicans tee up attacks on Biden—and Kamala Harris | Raleigh News & Observer"
-    excerpt: "Republicans are planning to make Vice President Kamala Harris and the Biden administration a focus of political attacks in the lead-up to the 2022 midterm elections."
-    publishedDateTime: 2021-02-25T18:11:00Z
-    webUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article249514215.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/national-politics/article249514215.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article249514215.html"
+  - title: "How Joe Biden escapes life in the White House bubble"
+    excerpt: "White House living isn't quite that simple for any president. Joe Biden has described it as \"a little like a gilded cage.\""
+    publishedDateTime: 2021-04-15T15:23:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-white-house-delaware-bubble-2021-4"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 86
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.insider.com/60776f334206150018175938?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Republicans regroup around attacks on Biden administration —including Kamala Harris"
-    excerpt: "Republicans are planning to make Vice President Kamala Harris and the Biden administration a focus of political attacks in the lead-up to the 2022 midterm elections."
-    publishedDateTime: 2021-02-25T18:11:00Z
-    webUrl: "https://www.kansascity.com/news/politics-government/national-politics/article249514215.html"
-    ampWebUrl: "https://amp.kansascity.com/news/politics-government/national-politics/article249514215.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/national-politics/article249514215.html"
+  - title: "Biden and Harris talk about navigating the southern border crisis"
+    excerpt: "(The following is a copy of an imaginary leaked conversation between President Biden and Vice President Kamala Harris secretly recorded in Biden’s basement.) “You want me to do what?” (spontaneously laughing). “Kamala, I want you to take over the ..."
+    publishedDateTime: 2021-04-06T05:05:00Z
+    webUrl: "https://www.lowellsun.com/2021/04/06/biden-and-harris-talk-about-navigating-the-southern-border-crisis/"
+    ampWebUrl: "https://www.lowellsun.com/2021/04/06/biden-and-harris-talk-about-navigating-the-southern-border-crisis/amp/"
+    cdnAmpWebUrl: "https://www-lowellsun-com.cdn.ampproject.org/c/s/www.lowellsun.com/2021/04/06/biden-and-harris-talk-about-navigating-the-southern-border-crisis/amp/"
     type: article
     provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 84
+      name: The Lowell Sun
+      domain: lowellsun.com
+    quality: 90
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.lowellsun.com/wp-content/uploads/2021/03/APTOPIX_Biden_89999-1.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Kamala Harris: Spirit of John Lewis lives on in voting rights fight"
-    excerpt: "Kamala Harris celebrated the spirit of the late John Lewis in pre-taped remarks shown Sunday as part of ceremonies commemorating the 1965 march across the Edmund Pettus Bridge in Selma. Harris’ remarks were addressed to people gathered at Brown Chapel AME Church,"
-    publishedDateTime: 2021-03-07T21:42:00Z
-    webUrl: "https://www.al.com/news/montgomery/2021/03/kamala-harris-spirit-of-john-lewis-lives-on-in-voting-rights-fight.html"
-    ampWebUrl: "https://www.al.com/news/montgomery/2021/03/kamala-harris-spirit-of-john-lewis-lives-on-in-voting-rights-fight.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/montgomery/2021/03/kamala-harris-spirit-of-john-lewis-lives-on-in-voting-rights-fight.html?outputType=amp"
+  - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
+    excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"
+    publishedDateTime: 2021-04-21T22:37:00Z
+    webUrl: "https://www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/"
+    ampWebUrl: "https://www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/04/21/harris-casts-first-tie-breaking-vote-for-biden-nominee/amp/"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 75
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 87
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HYMYDGEZ2ZASRBVWWHRFMFUXGI.jpg"
-        width: 1361
-        height: 757
-        isCached: true
-  - title: "VP Harris to make her UN debut with March 16 speech"
-    excerpt: "Vice President Kamala Harris will speak at the virtual 65th Commission on the Status of Women on March 16, U.S. Ambassador to the United Nations Linda Thomas-Greenfield said on Monday, adding"
-    publishedDateTime: 2021-03-08T22:40:00Z
-    webUrl: "https://www.ocregister.com/2021/03/08/vp-harris-to-make-her-un-debut-with-march-16-speech/"
-    ampWebUrl: "https://www.ocregister.com/2021/03/08/vp-harris-to-make-her-un-debut-with-march-16-speech/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/03/08/vp-harris-to-make-her-un-debut-with-march-16-speech/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 75
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2021/03/sjm-15431_83070978-1.jpg?w=1024&h=683"
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/04/sjm-4374537.jpg?w=1024&h=683"
         width: 1024
         height: 683
         isCached: true
-  - title: "Vice President Kamala Harris coming to Las Vegas on Monday"
-    excerpt: "Vice President Kamala Harris and her husband, Doug Emhoff, will visit Las Vegas on Monday to tout the $1.9 trillion American Rescue Plan approved by Congress on Wednesday."
-    publishedDateTime: 2021-03-11T02:25:00Z
-    webUrl: "https://www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-coming-to-las-vegas-on-monday-2299493/"
-    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-coming-to-las-vegas-on-monday-2299493/amp/"
-    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-coming-to-las-vegas-on-monday-2299493/amp/"
+  - title: "'One giant leap': Harris says Biden's American Jobs Plan aims high, will reach higher"
+    excerpt: "Vice President Kamala Harris told a small audience at GTCC that \"the president and I are determined to get this done.\""
+    publishedDateTime: 2021-04-19T17:45:00Z
+    webUrl: "https://greensboro.com/one-giant-leap-harris-says-bidens-american-jobs-plan-aims-high-will-reach-higher/article_fea20eb4-a121-11eb-a878-1bb49daf4e3d.html"
+    ampWebUrl: "https://greensboro.com/one-giant-leap-harris-says-bidens-american-jobs-plan-aims-high-will-reach-higher/article_fea20eb4-a121-11eb-a878-1bb49daf4e3d.amp.html"
+    cdnAmpWebUrl: "https://greensboro-com.cdn.ampproject.org/c/s/greensboro.com/one-giant-leap-harris-says-bidens-american-jobs-plan-aims-high-will-reach-higher/article_fea20eb4-a121-11eb-a878-1bb49daf4e3d.amp.html"
     type: article
     provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
+      name: News & Record
+      domain: greensboro.com
+    quality: 83
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/4/65/465ff4b3-a1e2-54fa-a65d-686b9cd69abe/607d9b0a8a9eb.image.jpg?crop=1261%2C846%2C37%2C0&resize=1024%2C687&order=crop%2Cresize"
+        width: 1024
+        height: 687
+        isCached: true
+  - title: "Kamala Harris Has a New Desk-and It May Be Better Than Joe Biden's"
+    excerpt: "But the second-in-command has never had such a lofty tradition—until now. Kamala Harris, our nation's first female and woman of color vice president, is finally getting a historic piece worthy of her status. As we know, Joe Biden ultimately selected the ..."
+    publishedDateTime: 2021-04-09T19:40:00Z
+    webUrl: "https://www.chron.com/realestate/article/Kamala-Harris-Has-a-New-Desk-and-It-May-Be-16089723.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 80
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/42/11/20849248/3/rawImage.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Florida woman charged for death threats against Kamala Harris"
+    excerpt: "A woman was charged for alleged death threats against VP Kamala Harris, according to a criminal complaint filed in the U.S. District Court."
+    publishedDateTime: 2021-04-17T18:10:00Z
+    webUrl: "https://thegrio.com/2021/04/17/woman-threatens-kamala-harris/"
+    ampWebUrl: "https://thegrio.com/2021/04/17/woman-threatens-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/04/17/woman-threatens-kamala-harris/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
     quality: 75
     images:
-      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/03/14897275_web1_KAMALA-VISIT-102720_es_010.jpg?w=1200"
+      - url: "https://thegrio.com/wp-content/uploads/2021/04/170420211618681884-1-scaled.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Florida woman made videos threatening to kill Kamala Harris, agents say"
+    excerpt: "The Secret Service says the threats against the vice president were discovered when the Miami nurse sent the videos to her husband in prison."
+    publishedDateTime: 2021-04-17T22:17:00Z
+    webUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/"
+    ampWebUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 75
+    images:
+      - url: "https://www.tampabay.com/resizer/J-Do4DJDiMTPENXOY7JzzA8Jm1g=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XPWD6XFPDFSYBOP5T7UMY35PAY.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Florida woman threatened to kill Kamala Harris in videos, agents say"
+    excerpt: "The Secret Service says the threats against the vice president were discovered when the Miami nurse sent the videos to her husband in prison."
+    publishedDateTime: 2021-04-17T23:31:00Z
+    webUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/"
+    ampWebUrl: "https://www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida/2021/04/17/florida-woman-made-videos-threatening-to-kill-kamala-harris-agents-say/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 75
+    images:
+      - url: "https://www.tampabay.com/resizer/J-Do4DJDiMTPENXOY7JzzA8Jm1g=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XPWD6XFPDFSYBOP5T7UMY35PAY.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Biden Faces a Wall of Blinking Red Lights"
+    excerpt: "Over in Axios yesterday, Mike Allen warned that there are three blinking red lights facing the Biden administration: “ Russia is menacing Ukraine’s borders, China is sending increasingly ominous signals over Taiwan and Iran is accelerating its uranium enrichment to unprecedented levels."
+    publishedDateTime: 2021-04-19T13:38:00Z
+    webUrl: "https://www.nationalreview.com/the-morning-jolt/biden-faces-a-wall-of-blinking-red-lights/"
+    ampWebUrl: "https://www.nationalreview.com/the-morning-jolt/biden-faces-a-wall-of-blinking-red-lights/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/the-morning-jolt/biden-faces-a-wall-of-blinking-red-lights/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2021/04/Joe-Biden-11.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Biden pressed on emissions goal as climate summit nears"
+    excerpt: "When President Joe The emissions target, eagerly awaited by all sides of the climate debate, will signal how aggressively Biden wants to move on climate change, a divisive and expensive issue that has riled Republicans to complain about job-killing government overreach even as some on the left worry Biden has not gone far enough to address a profound threat to the planet."
+    publishedDateTime: 2021-04-19T13:34:00Z
+    webUrl: "https://www.mrt.com/news/article/Biden-pressed-on-emissions-goal-as-climate-summit-16110812.php"
+    ampWebUrl: "https://www.mrt.com/news/amp/Biden-pressed-on-emissions-goal-as-climate-summit-16110812.php"
+    cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Biden-pressed-on-emissions-goal-as-climate-summit-16110812.php"
+    type: article
+    provider:
+      name: Midland Reporter-Telegram
+      domain: mrt.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Vice President Kamala Harris is in NC. How to watch her speech."
+    excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan. Harris’s plane landed at 10:30 a."
+    publishedDateTime: 2021-04-19T13:56:00Z
+    webUrl: "https://www.heraldsun.com/news/politics-government/article250530439.html"
+    ampWebUrl: "https://amp.heraldsun.com/news/politics-government/article250530439.html"
+    cdnAmpWebUrl: "https://amp-heraldsun-com.cdn.ampproject.org/c/s/amp.heraldsun.com/news/politics-government/article250530439.html"
+    type: article
+    provider:
+      name: The Herald-Sun
+      domain: heraldsun.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/7d2f4318-041d-45c9-912e-de9066b0c035/eca2373c-9360-4972-b4c1-05cb59189b19/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden’s Climate Denialism"
+    excerpt: "NRPLUS MEMBER ARTICLE I n anticipation of Thursday’s virtual Leaders Summit on Climate, a two-day global gathering of more than 40, President Joe Biden declared that the United States had a “moral imperative” to adopt an “ambitious” goal of cutting greenhouse-gas emissions by 50 percent in nine years and 100 percent in 29 years."
+    publishedDateTime: 2021-04-22T19:44:00Z
+    webUrl: "https://www.nationalreview.com/2021/04/bidens-climate-denialism/"
+    ampWebUrl: "https://www.nationalreview.com/2021/04/bidens-climate-denialism/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/2021/04/bidens-climate-denialism/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/04/biden-4.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "NRSC dings Kamala Harris ahead of New Hampshire visit"
+    excerpt: "Vice President Kamala Harris can’t seem to go anywhere without catching flak about her reluctance to visit the U.S.-Mexico border. The National Republican Senatorial Committee made certain of that Friday ahead of Ms. Harris’ scheduled trip to New ..."
+    publishedDateTime: 2021-04-23T16:07:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/apr/23/nrsc-dings-kamala-harris-ahead-new-hampshire-visit/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/apr/23/nrsc-dings-kamala-harris-ahead-new-hampshire-visit/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/apr/23/nrsc-dings-kamala-harris-ahead-new-hampshire-visit/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/23/Harris_77850.jpg-cadbc_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "BA senator implies that VP Kamala Harris slept her way into politics"
+    excerpt: "When asked Friday by a television reporter to explain his comment about Harris and paper straws, Nathan Dahm said he was referencing her \"vast experience and how she got into"
+    publishedDateTime: 2021-04-24T01:25:00Z
+    webUrl: "https://tulsaworld.com/news/state-and-regional/govt-and-politics/ba-senator-implies-that-vp-kamala-harris-slept-her-way-into-politics/article_264fcd10-a46b-11eb-b9a8-1bd10c4c3da6.html"
+    ampWebUrl: "https://tulsaworld.com/news/state-and-regional/govt-and-politics/ba-senator-implies-that-vp-kamala-harris-slept-her-way-into-politics/article_264fcd10-a46b-11eb-b9a8-1bd10c4c3da6.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/state-and-regional/govt-and-politics/ba-senator-implies-that-vp-kamala-harris-slept-her-way-into-politics/article_264fcd10-a46b-11eb-b9a8-1bd10c4c3da6.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/5/db/5dbdd1d6-a487-11eb-9b67-47d8e827e73c/5e947240e0f52.image.jpg?resize=1024%2C695"
+        width: 1024
+        height: 695
+        isCached: true
+  - title: "Vice President Kamala Harris to visit Baltimore next week to mark Biden administration’s first 100 days"
+    excerpt: "Vice President Kamala Harris will visit Baltimore next week to mark an early milestone for the Biden-Harris administration, according to the White House."
+    publishedDateTime: 2021-04-24T01:45:00Z
+    webUrl: "https://www.baltimoresun.com/politics/bs-pr-md-pol-kamala-harris-baltimore-20210423-h2gjlass5zeqpfl4qn6dixyw6a-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/politics/bs-pr-md-pol-kamala-harris-baltimore-20210423-h2gjlass5zeqpfl4qn6dixyw6a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-pr-md-pol-kamala-harris-baltimore-20210423-h2gjlass5zeqpfl4qn6dixyw6a-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 74
+    images:
+      - url: "https://www.baltimoresun.com/resizer/z-hBHdXETNSiABYi9BXSgkPau04=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TV72JP6FNMDLH2LOYIXM5SEVC4.jpg"
         width: 1200
         height: 800
         isCached: true
-  - title: "The Biggest Thing Kamala Harris Could Do This Year"
-    excerpt: "The battle to protect voting rights needs a field general. Vice President Kamala Harris needs a cause to define her tenure. The second problem suggests the answer to the first: President Joe Biden could designate Harris as the administration’s point ..."
-    publishedDateTime: 2021-03-11T19:58:00Z
-    webUrl: "https://www.theatlantic.com/politics/archive/2021/03/why-democrats-voting-rights-battle-needs-kamala-harris/618260/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/618260/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/618260/"
+  - title: "In North Carolina, Vice President Kamala Harris pitches $2.3T spending plan"
+    excerpt: "In her first visit to the state since getting sworn in to office, Harris spoke at Guilford Technical Community College’s Advanced Manufacturing Campus in support of the proposal, which was unveiled last month on the heels of the $1."
+    publishedDateTime: 2021-04-19T20:03:00Z
+    webUrl: "https://www.dailypress.com/government/nation/vp-nw-kamala-harris-north-carolina-trip-20210419-tbqknf55dbc3rakjegwglc73yu-story.html"
+    ampWebUrl: "https://www.dailypress.com/government/nation/vp-nw-kamala-harris-north-carolina-trip-20210419-tbqknf55dbc3rakjegwglc73yu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/government/nation/vp-nw-kamala-harris-north-carolina-trip-20210419-tbqknf55dbc3rakjegwglc73yu-story.html?outputType=amp"
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 75
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/vQL0Pc2lGf46uSug5fkjUvxOXaI=/570x321/media/img/mt/2021/03/0321_Nora_Katie_Kamala/original.jpg"
-        width: 570
-        height: 321
-        isCached: true
-  - title: "What Kamala Harris Could Do for Voting Rights"
-    excerpt: "The cause needs a prominent leader who can draw national attention to Republican efforts to suppress the vote."
-    publishedDateTime: 2021-03-11T18:20:00Z
-    webUrl: "https://www.theatlantic.com/politics/archive/2021/03/why-democrats-voting-rights-battle-needs-kamala-harris/618260/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/618260/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/618260/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 75
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/vQL0Pc2lGf46uSug5fkjUvxOXaI=/570x321/media/img/mt/2021/03/0321_Nora_Katie_Kamala/original.jpg"
-        width: 570
-        height: 321
-        isCached: true
-  - title: "Kamala Harris visits woman-owned yarn store to discuss American Rescue Plan"
-    excerpt: "Vice President Kamala Harris said the Biden administration is monitoring the effect of the COVID-19 pandemic on women leaving the workforce as she visited Fibre Space, a woman-owned yarn shop in Virginia."
-    publishedDateTime: 2021-03-03T23:21:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/03/03/Kamala-Harris-visits-Fibre-Space-discusses-American-Rescue-Plan/9921614809626/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/03/03/Kamala-Harris-visits-Fibre-Space-discusses-American-Rescue-Plan/9921614809626/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/03/03/Kamala-Harris-visits-Fibre-Space-discusses-American-Rescue-Plan/9921614809626/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
+      name: Daily Press
+      domain: dailypress.com
     quality: 73
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/9921614809626/2021/1/737179c4b2717553b05f15134d377fc8/v1.5/Kamala-Harris-visits-woman-owned-yarn-store-to-discuss-American-Rescue-Plan.jpg"
-        width: 800
-        height: 534
+      - url: "https://www.dailypress.com/resizer/0AsFViKk2BxIY-BFBMcchU0_A54=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G57KVOHMDDQESR5XC5LD3PGACI.jpg"
+        width: 1200
+        height: 873
         isCached: true
-  - title: "VP Kamala Harris' Berkeley childhood home may gain historic landmark status"
-    excerpt: "A pale yellow, two-story duplex in Berkeley with a powerful political connection may soon be eligible to receive historic status. That’s because as a child, Kamala Harris — who is the first woman and first Black and Southeast Asian woman to hold the office of vice president — lived on the top floor of the home on Bancroft Way."
-    publishedDateTime: 2021-03-07T19:46:00Z
-    webUrl: "https://www.sfchronicle.com/local/article/VP-Kamala-Harris-Berkeley-childhood-home-may-16007507.php"
-    ampWebUrl: "https://www.sfchronicle.com/local/amp/VP-Kamala-Harris-Berkeley-childhood-home-may-16007507.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/local/amp/VP-Kamala-Harris-Berkeley-childhood-home-may-16007507.php"
+  - title: "Florida nurse charged for death threats against Vice President Kamala Harris"
+    excerpt: "A Florida woman is being held by federal authorities for allegedly making a series of threats to kill Vice President Kamala Harris. Niviane Petit Phelps, 39, sent a series of videos to her husband in prison, expressing anger over the results of the 2020 ..."
+    publishedDateTime: 2021-04-17T16:27:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/17/kamala-harris-death-threats-florida-nurse-charged-detained/7268355002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/7268355002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7268355002"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 73
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 72
     images:
-      - url: "https://s.hdnux.com/photos/01/15/12/50/20228649/7/375x250.jpg"
-        width: 361
-        height: 250
+      - url: "https://www.gannett-cdn.com/presto/2021/04/15/USAT/8a802859-42db-40cb-9b7c-39de0c7d31ec-Harris.jpg?auto=webp&crop=5111,2875,x0,y170&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Vice President Kamala Harris honors 'visionaries' at Black History Month event"
-    excerpt: "Vice President Kamala Harris called Black history makers 'visionaries' Saturday during a virtual celebration of the 40th annual Black History Month."
-    publishedDateTime: 2021-02-27T21:57:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/02/27/vice-president-kamala-harris-black-history-month-speech/3951614453259/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/02/27/vice-president-kamala-harris-black-history-month-speech/3951614453259/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/02/27/vice-president-kamala-harris-black-history-month-speech/3951614453259/"
+  - title: "South Florida Nurse Arrested, Accused of Threatening to Kill VP Kamala Harris"
+    excerpt: "A longtime South Florida nurse accused of making videos threatening Vice President Kamala Harris’ life has been arrested on federal charges. Niviane Petit Phelps, of Miami Gardens, was arrested following an investigation by the U."
+    publishedDateTime: 2021-04-17T01:54:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/south-florida-nurse-arrested-accused-of-threatening-to-kill-vp-kamala-harris/3004269/?amp"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 71
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 72
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/3951614453259/2021/1/4e1c9803ceb7d94f3642d013fb8a5d21/v1.5/Vice-President-Kamala-Harris-honors-visionaries-at-Black-History-Month-event.jpg"
-        width: 800
-        height: 532
+      - url: "https://i0.wp.com/media.nbcnewyork.com/2021/03/AP_21078788269498.jpeg?crop=933px%2C44px%2C4334px%2C2439px&quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Kamala Harris husband Emhoff is the first second gentleman | Charlotte Observer"
-    excerpt: "It’s an unpaid position, but Doug Emhoff, husband of Vice President Kamala Harris, says he is approaching second gentleman as a full-time job."
-    publishedDateTime: 2021-03-11T19:28:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/article249862338.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article249862338.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article249862338.html"
+  - title: "VP Kamala Harris at Greensboro historic sit-in lunch counter | Charlotte Observer"
+    excerpt: "The image said it all: the first Black vice president of the United States took a seat at the same Southern lunch counter where four Black college students helped spark the civil rights movement."
+    publishedDateTime: 2021-04-20T14:59:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article250804224.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article250804224.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article250804224.html"
     type: article
     provider:
       name: Charlotte Observer
       domain: charlotteobserver.com
-    quality: 71
+    quality: 70
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/b0018f62-b6fe-41a9-92e0-177f1e3c9a2c/6e22477c-e373-4d34-af79-1d8070ada578/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/5b30ae35-4c27-4d55-a6ca-90ba04a14595/5ff7b641-61af-4bc0-a2da-1b36417da963/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "US Vice President Salary 2021: Here's How Much Kamala Harris Will Earn This Year"
-    excerpt: "Kamala Harris became the first woman to hold the second-highest public office in American history, but will she be compensated the same as her male predecessors?"
-    publishedDateTime: 2021-03-05T06:01:00Z
-    webUrl: "https://www.ibtimes.com/us-vice-president-salary-2021-heres-how-much-kamala-harris-will-earn-year-3156870"
-    ampWebUrl: "https://www.ibtimes.com/us-vice-president-salary-2021-heres-how-much-kamala-harris-will-earn-year-3156870?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-vice-president-salary-2021-heres-how-much-kamala-harris-will-earn-year-3156870?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
-        width: 1024
-        height: 736
-        isCached: true
-  - title: "Kamala Harris husband Emhoff is the first second gentleman | Raleigh News & Observer"
-    excerpt: "It’s an unpaid position, but Doug Emhoff, husband of Vice President Kamala Harris, says he is approaching second gentleman as a full-time job."
-    publishedDateTime: 2021-03-11T18:28:00Z
-    webUrl: "https://www.newsobserver.com/news/politics-government/article249862338.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article249862338.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article249862338.html"
+  - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Raleigh News & Observer"
+    excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point Harris’s plane landed at 10:30 a.m. on a rainy day in Greensboro, where Gov."
+    publishedDateTime: 2021-04-18T03:00:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article250530439.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article250530439.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article250530439.html"
     type: article
     provider:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 68
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/b0018f62-b6fe-41a9-92e0-177f1e3c9a2c/6e22477c-e373-4d34-af79-1d8070ada578/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/7d2f4318-041d-45c9-912e-de9066b0c035/eca2373c-9360-4972-b4c1-05cb59189b19/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "The first second gentleman: Doug Emhoff, husband of Kamala Harris, breaks new ground"
-    excerpt: "It’s an unpaid position, but Doug Emhoff, husband of Vice President Kamala Harris, says he is approaching second gentleman as a full-time job."
-    publishedDateTime: 2021-03-11T19:28:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/article249862338.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article249862338.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article249862338.html"
+  - title: "Kamala Harris takes a seat at NC lunch counter where 4 students made history in 1960"
+    excerpt: "The image said it all: the first Black vice president of the United States took a seat at the same Southern lunch counter where four Black college students helped spark the civil rights movement."
+    publishedDateTime: 2021-04-20T14:07:00Z
+    webUrl: "https://www.heraldonline.com/news/state/north-carolina/article250804224.html"
+    ampWebUrl: "https://amp.heraldonline.com/news/state/north-carolina/article250804224.html"
+    cdnAmpWebUrl: "https://amp-heraldonline-com.cdn.ampproject.org/c/s/amp.heraldonline.com/news/state/north-carolina/article250804224.html"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
+      name: The Herald SC
+      domain: heraldonline.com
     quality: 68
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/b0018f62-b6fe-41a9-92e0-177f1e3c9a2c/6e22477c-e373-4d34-af79-1d8070ada578/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/5b30ae35-4c27-4d55-a6ca-90ba04a14595/5ff7b641-61af-4bc0-a2da-1b36417da963/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris won't weigh in on minimum wage ruling from Senate parliamentarian: Deese"
-    excerpt: "Brian Deese, a top economic adviser to President Biden, said Friday that Vice President Kamala Harris will not move to overturn a ruling from the Senate parliamentarian that increasing the federal minimum wage to $15 per hour is out of bounds for Democrats’ $1."
-    publishedDateTime: 2021-02-26T17:22:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
+  - title: "No, the Biden administration isn’t buying Kamala Harris’ book for migrant children"
+    excerpt: "On April 23, the New York Post reported that migrant children routed from the U.S.-Mexico border to a shelter in Long Beach, Calif., will be given a copy of Vice President Kamala Harris’ 2019 children’s book called \"Superheroes are Everywhere."
+    publishedDateTime: 2021-04-27T17:31:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/apr/27/facebook-posts/no-biden-administration-isnt-buying-kamala-harris-/"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 67
+      name: Politifact
+      domain: politifact.com
+    quality: 64
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/02/25/Harris_Vaccine_23019.jpg-d889b_c0-222-5337-3335_s1200x700.jpg?fc9c632cd81d04c067c203b8e851477caee02e4f"
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
+  - title: "Vice President Harris meets with nonprofit leaders to discuss root causes of Central American migration"
+    excerpt: "Harris told foundation leaders that she hopes to correct the conditions that drive people out of Guatemala, El Salvador and Honduras, instead of just increasing security at the U.S. border with Mexico."
+    publishedDateTime: 2021-04-22T17:55:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-kamala-harri-20210422-23nkzekbvng7dlqpd5ejjzziue-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-kamala-harri-20210422-23nkzekbvng7dlqpd5ejjzziue-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-kamala-harri-20210422-23nkzekbvng7dlqpd5ejjzziue-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 59
+    images:
+      - url: "https://www.nydailynews.com/resizer/0zRXhTh6zBROJfz04unRbpmc7c4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NPNRUXPX5ZGIXESRZSSCS4ZR5M.jpg"
         width: 1200
-        height: 700
+        height: 800
         isCached: true
-  - title: "LI parents are teaching daughters the power of possibility. Kamala Harris is strengthening that narrative."
-    excerpt: "Chloe Williams, 8, and her mom, Selina, 39, a nurse practitioner from Wheatley Heights, joined women and girls nationwide in putting on pearls the morning of Kamala Harris’ inauguration to celebrate t"
-    publishedDateTime: 2021-03-03T09:00:00Z
-    webUrl: "https://www.newsday.com/lifestyle/family/kamala-harris-long-island-families-1.50166453"
-    ampWebUrl: "https://www.newsday.com/amp/lifestyle/family/kamala-harris-long-island-families-1.50166453"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/lifestyle/family/kamala-harris-long-island-families-1.50166453"
+  - title: "Joe Biden pressed on emissions goal as climate summit nears"
+    excerpt: "When President Joe Biden convenes a virtual climate summit on Thursday, he faces a vexing task: how to put forward a nonbinding but symbolic goal to reduce greenhouse gas emissions that will have a tangible impact on climate change efforts not only in the U."
+    publishedDateTime: 2021-04-19T11:49:00Z
+    webUrl: "https://floridapolitics.com/archives/421565-joe-biden-pressed-on-emissions-goal-as-climate-summit-nears/"
     type: article
     provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 57
-    images:
-      - url: "https://cdn.newsday.com/polopoly_fs/1.50166457.1614620228!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
-        width: 1280
-        height: 719
-        isCached: true
-  - title: "Harris Participates in the House Democratic Issues Conference Virtually"
-    excerpt: "United States Vice President Kamala Harris participates virtually in the House Democratic Issues Conference from the South Court Auditorium of the Eisenhower Executive Office Building in Washington, DC on Tuesday,"
-    publishedDateTime: 2021-03-03T02:23:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/5eccd64bb081a08470baddbe620601df/Harris-Participates-in-the-House-Democratic-Issues-Conference-Virtually/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
+      name: Florida Politics
+      domain: floridapolitics.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/5eccd64bb081a08470baddbe620601df/DEMOCRATIC-ISSUES-CONFERENCE.jpg"
-        width: 650
-        height: 433
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/04/1000-20-1.jpeg"
+        width: 1000
+        height: 666
         isCached: true
-  - title: "Vice President Harris Swears in HUD Secretary Marcia Fudge"
-    excerpt: "U.S. Vice President Kamala Harris speaks to members of the press after swearing in Marcia Fudge, U.S. secretary of Housing And Urban Development (HUD), during a virtual ceremony in Washington, DC on Wednesday, March 10, 2021. During her confirmation ..."
-    publishedDateTime: 2021-03-11T00:34:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/801cc58e1186bced134ddaa50c600a99/Vice-President-Harris-Swears-in-HUD-Secretary-Marcia-Fudge/"
+  - title: "VP Kamala Harris expected in NH later this week"
+    excerpt: "Vice President Kamala Harris plans to visit New Hampshire later this week, her first trip to the Granite State since she and President Joe Biden were sworn into office in"
+    publishedDateTime: 2021-04-18T19:28:00Z
+    webUrl: "https://www.unionleader.com/news/politics/vp-kamala-harris-expected-in-nh-later-this-week/article_6b159730-90a8-5e67-b535-d12439d652cc.html"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
+      name: New Hampshire Union Leader
+      domain: unionleader.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/801cc58e1186bced134ddaa50c600a99/HUD-FUDGE.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "Vice President Kamala Harris scheduled to visit Colorado"
-    excerpt: "Vice President Kamala Harris will visit Denver on March 16 to highlight the $1.9 trillion COVID relief bill passed by Congress on Wednesday."
-    publishedDateTime: 2021-03-10T23:43:00Z
-    webUrl: "https://gazette.com/news/vice-president-kamala-harris-scheduled-to-visit-colorado/article_fdc4eaa2-81fa-11eb-ba45-8b30c57abbaf.html"
-    type: article
-    provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/6/2a/62accf86-5b9d-11eb-9ba0-1b643862cb4d/6008fcd797f38.image.jpg?resize=944%2C630"
-        width: 944
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/b/c5/bc5ca04d-bbc6-5000-a4d6-78e2e21fceb7/5f3325fe49ee2.image.jpg?resize=946%2C630"
+        width: 946
         height: 630
         isCached: true
-  - title: "Harris, Emhoff to visit Las Vegas to promote relief bill"
-    excerpt: "Vice President Kamala Harris and her husband Doug Emhoff will visit Las Vegas on Monday as part of a trip to promote the $1.9 trillion relief package that President Joe Biden signed into law Thursday."
-    publishedDateTime: 2021-03-11T20:20:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/mar/11/harris-emhoff-to-visit-las-vegas-to-promote-relief/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/11/harris-emhoff-to-visit-las-vegas-to-promote-relief/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/11/harris-emhoff-to-visit-las-vegas-to-promote-relief/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 55
-  - title: "Vice President Kamala Harris talks to Maryland residents on COVID vaccine, stimulus at Black History Month event"
-    excerpt: "Vice President Kamala Harris spoke to hundreds of Anne Arundel and Prince George’s County residents Saturday as she joined Rep. Steny Hoyer’s 40th Annual Black History Month Celebration, the first time in its 40 years the event was held online."
-    publishedDateTime: 2021-02-27T22:54:00Z
-    webUrl: "https://www.capitalgazette.com/news/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html"
-    ampWebUrl: "https://www.capitalgazette.com/news/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-capitalgazette-com.cdn.ampproject.org/c/s/www.capitalgazette.com/news/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Capital Gazette
-      domain: capitalgazette.com
-    quality: 54
-    images:
-      - url: "https://www.capitalgazette.com/resizer/GnZSS_D_H4PIb8RnycChednIWeM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/L24NKVMQ6JC2NKIDR5SQICFGXE.jpg"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Vice President Harris meets with Small Employees in Alexandria, Virginia"
-    excerpt: "Vice President Kamala Harris participates in a small business roundtable at Fiber Space, a woman-owned boutique yarn and fabric store, with small business employees and community leaders to talk about the impacts of the Biden Administration's American Rescue Plan,"
-    publishedDateTime: 2021-03-03T20:46:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/b17511dd5aa690cdc15158568c2bb0be/Vice-President-Harris-meets-with-Small-Employees-in-Alexandria-Virginia/"
+  - title: "Vice President Kamala Harris speaks in Washington"
+    excerpt: "Vice President Kamala Harris makes a statement before holding a roundtable discussion with leadership on issues concerning Guatemala, Honduras, and El Salvador at the White House in Washington, DC, on Thursday April 22,"
+    publishedDateTime: 2021-04-22T15:07:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/7ba6a4d4682e22059d7d77d1e197c3da/Vice-President-Kamala-Harris-speaks-in-Washington/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
-    quality: 54
+    quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/b17511dd5aa690cdc15158568c2bb0be/HARRIS-SMBUSINESS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/7ba6a4d4682e22059d7d77d1e197c3da/HARRIS-CENTAM.jpg"
         width: 650
         height: 433
         isCached: true
-  - title: "Vice President Harris meets with Small Business Owners in Alexandria, Virginia"
-    excerpt: "Vice President Kamala Harris leaves Fiber Space, a woman-owned boutique yarn and fabric store, after holding a roundtable with small business employees and community leaders to talk about the impacts of the Biden Administration's American Rescue Plan,"
-    publishedDateTime: 2021-03-03T18:39:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/c3b832e06b83c1e4c3ab0078505e9217/Vice-President-Harris-meets-with-Small-Business-Owners-in-Alexandria-Virginia/"
+  - title: "Vice President Kamala Harris Meets With Guatemalan Ambassador"
+    excerpt: "U.S. Vice President Kamala Harris speaks during a virtual roundtable with representatives from Guatemalan community-based organizations in the Eisenhower Executive Office Building in Washington, DC on Tuesday,"
+    publishedDateTime: 2021-04-27T23:42:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9962786deba908171271858972521ca8/Vice-President-Kamala-Harris-Meets-With-Guatemalan-Ambassador/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
-    quality: 51
+    quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/c3b832e06b83c1e4c3ab0078505e9217/HARRIS-SMBUISINESS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/9962786deba908171271858972521ca8/HARRIS-BORDER.jpg"
         width: 650
-        height: 427
+        height: 433
         isCached: true
-  - title: "Kamala Harris is emerging as a magnet for progressive pressure on the White House"
-    excerpt: "The Rev. William Barber II, one of the nation’s leading civil rights activists, defines the brewing fight over raising the national minimum wage as Kamala Harris’ first fork-in-the-road m"
-    publishedDateTime: 2021-03-08T01:00:00Z
-    webUrl: "https://www.columbian.com/news/2021/mar/07/kamala-harris-is-emerging-as-a-magnet-for-progressive-pressure-on-the-white-house/"
+  - title: "Kamala Harris to Speak With Guatemalan President on Monday: Axios"
+    excerpt: "U.S. Vice President Kamala Harris will meet virtually on Monday with Guatemalan President Alejandro Giammattei to discuss solutions to the surge of migration, Axios reported on Wednesday, citing a senior White House official."
+    publishedDateTime: 2021-04-22T01:02:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-04-21/kamala-harris-to-speak-with-guatemalan-president-on-monday-axios"
     type: article
     provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 50
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/03/Biden_78141.jpg-322d0.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "At Black History Event, Harris Champions COVID-19 Bill For Its Aid To Black Americans"
-    excerpt: "One day after the House advanced President Biden's $1.9 trillion COVID-19 relief package, Vice President Kamala Harris championed the proposed round"
-    publishedDateTime: 2021-02-27T20:46:00Z
-    webUrl: "https://www.nhpr.org/post/black-history-event-harris-champions-covid-19-bill-its-aid-black-americans"
-    type: article
-    provider:
-      name: New Hampshire Public Radio
-      domain: nhpr.org
-    quality: 48
-    images:
-      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/placed_wide/nprshared/202102/972120026.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Vice President Harris Delivers Remarks to House Democratic Caucus"
-    excerpt: "Vice President Harris delivers virtual remarks to the House Democratic Issues Conference. Vice President Kamala Harris delivered remarks at a special event hosted by the Presidential Inaugural Committee"
-    publishedDateTime: 2021-03-02T12:54:00Z
-    webUrl: "https://www.c-span.org/video/?509452-1/vice-president-harris-delivers-remarks-house-democratic-caucus"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Vice President Harris Holds Roundtable on Northern Triangle"
+    excerpt: "T10:00:00-04:00  Vice President Harris hosts a roundtable meeting with foundation leaders on the Northern Triangle (El"
+    publishedDateTime: 2021-04-22T11:47:00Z
+    webUrl: "https://www.c-span.org/video/?511155-1/vice-president-harris-holds-roundtable-northern-triangle"
     type: article
     provider:
       name: C-SPAN
       domain: c-span.org
     quality: 35
-  - title: "Vice President Harris Breaks Tie on Proceeding to COVID Relief Bill, Senator Johnson Objects to Waiving Reading of Bill"
-    excerpt: "Vice President Kamala Harris casts the tie-breaking vote on proceeding to $1.9 trillion COVID-19 relief bill. Senator Ron Johnson (R-WI) then objects to waiving the reading of the 628-page bill. The reading is expected to last several hours."
-    publishedDateTime: 2021-03-04T20:52:00Z
-    webUrl: "https://www.c-span.org/video/?c4950002/vice-president-harris-breaks-tie-proceeding-covid-relief-bill-senator-johnson-objects-waiving"
-    ampWebUrl: "https://www.c-span.org/amp/video/?c4950002"
-    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4950002"
+  - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Charlotte Observer"
+    excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan. Harris’s plane landed at 10:30 a."
+    publishedDateTime: 2021-04-19T15:33:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article250530439.html"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
+      name: Charlotte Observer
+      domain: charlotteobserver.com
     quality: 31
 
 secured: "b3fkx0lOZwfBEWRBBrHAlWfYtKrVcGsejiBmgC/UNspu5H0MF4HQRbE4mVrdyqy4fr8nxKEpsOUxj9V2G6NhbjsV3JQfh1VuPBBkN85OZfvBK7m4JnWlyUCGP7LwV097OMPv9BF3M1Oc6fFXd8VodPNq+unQFoEn1Yo6M/dvzhnpgi8NTcUlvYYMX0yRUuQ12c3g6r2whWRa5jwXyQkJ8cYC9zsNM7oJzGTq7IsdLyYl3e/0zIAsMyNGmlj8HtK2wzCWbi8/k9oHb60H5vjs8gTnL3N6Qn/SBnwolt9s6LeB8K4DZCi8J/P0f0P4ZOeFhzAL9V9Rb0XoctZnzJCsTGhiZfyd/tqKOmEZs10ffgk=;WRbdi5Y2olazMqv4SrGgWw=="

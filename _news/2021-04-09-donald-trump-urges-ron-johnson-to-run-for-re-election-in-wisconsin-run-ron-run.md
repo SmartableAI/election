@@ -47,22 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Court lets woman's defamation suit vs. Trump proceed again"
-    excerpt: "Former President Donald Trump could face questioning under oath about a former “Apprentice” contestant’s sexual assault allegations against him after a ruling from New York’s highest court Tuesday in"
-    publishedDateTime: 2021-03-30T16:36:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/court-lets-womans-defamation-suit-trump-proceed-76770701"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_bced19e82367424f8f295da3bc4dc4d9_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "DOJ asks for more time to make decision on turning over Trump taxes"
     excerpt: "Justice Department (DOJ) lawyers have reportedly requested additional time to determine their response to House Democrats’ request for former President Trump Donald Trump The Hill's Morning ..."
     publishedDateTime: 2021-04-01T01:19:00Z
@@ -95,12 +79,12 @@ related:
         width: 1200
         height: 796
         isCached: true
-  - title: "Former Trump adviser takes prominent role in voting battle"
-    excerpt: "A GOP lawyer who advised former President Donald Trump on his campaign to overturn the 2020 election results is now playing a central role coordinating the Republican effort to tighten voting laws around the country."
-    publishedDateTime: 2021-03-27T04:26:00Z
-    webUrl: "https://www.chron.com/news/article/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Former-Trump-adviser-takes-prominent-role-in-16057330.php"
+  - title: "Wisconsin governor seeks legal fees from Trump, Republicans"
+    excerpt: "MADISON, Wis. (AP) — Wisconsin Democratic Gov. Tony Evers is seeking more than $250,000 in legal fees from former President Donald Trump and a Republican Party official related to fighting a pair of election lawsuits filed last year. Evers made the ..."
+    publishedDateTime: 2021-04-01T15:45:00Z
+    webUrl: "https://www.chron.com/news/article/Wisconsin-governor-seeks-legal-fees-from-Trump-16069816.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Wisconsin-governor-seeks-legal-fees-from-Trump-16069816.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Wisconsin-governor-seeks-legal-fees-from-Trump-16069816.php"
     type: article
     provider:
       name: Houston Chronicle

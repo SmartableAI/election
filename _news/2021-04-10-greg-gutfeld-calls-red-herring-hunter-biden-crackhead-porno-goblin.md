@@ -47,21 +47,37 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Major training: Biden dog gets help adjusting to White House"
-    excerpt: "The White House says President Joe Biden and first lady Jill Biden's dog Major will get professional help adjusting to his new home after a pair of biting incidents"
-    publishedDateTime: 2021-04-12T15:17:00Z
-    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/major-training-biden-dog-adjusting-white-house-77020844"
-    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/major-training-biden-dog-adjusting-white-house-77020844"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/major-training-biden-dog-adjusting-white-house-77020844"
+  - title: "Fixing the credit Catch-22: How Biden wants to make credit scores fairer"
+    excerpt: "Reforming credit scores is one of U.S. President Joe Biden’s many priorities as he tries to repair the financial wreckage caused by the coronavirus pandemic, which disproportionately harmed minorities, women and low-income workers, according to ..."
+    publishedDateTime: 2021-04-08T10:13:00Z
+    webUrl: "https://www.reuters.com/article/usa-consumers-credit-scores/fixing-the-credit-catch-22-how-biden-wants-to-make-credit-scores-fairer-idUSL1N2LT061"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BV1DE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BV1DE"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 124
     images:
-      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_985375203bdb4cbd87e4a4c5f7165a0d_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210408&t=2&i=1557701412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH370ML"
+        width: 408
+        height: 545
+        isCached: true
+  - title: "Democrat: Biden infrastructure plan needs more funding for affordable housing"
+    excerpt: "Democratic Rep. Ritchie Torres (N.Y.) on Sunday criticized President Biden Joe Biden Lawmakers say fixing border crisis is Biden's job Trump calls for Republicans to boycott companies amid voting ..."
+    publishedDateTime: 2021-04-04T16:15:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/546375-democratic-rep-criticizes-biden-infrastructure-plan-for-not-enough"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/546375-democratic-rep-criticizes-biden-infrastructure-plan-for-not-enough?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/546375-democratic-rep-criticizes-biden-infrastructure-plan-for-not-enough?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/torresritchie_ny15.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden calls for probe into Minnesota police shooting, warns against 'looting'"
     excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden on Monday called for protests over the fatal police shooting of a 20-year-old Black man in Minnesota to be “peaceful” and said a “full-blown investigation” is needed into the incident. A video Biden ..."
@@ -95,22 +111,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden says over 80% of teachers, school staff received at least one shot by end of March"
-    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden said on Tuesday that more than 80% of teachers and school staff had received at least one vaccination shot but that variants of the coronavirus are spreading and generating a rise in cases. “We aren’t at ..."
-    publishedDateTime: 2021-04-06T19:54:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-biden-variants-idUSKBN2BT2T4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2T4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2T4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557506761&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351E7"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Joe Biden Suffers School Reopening Setback as Survey Shows Fewer Students Attending Full Time"
     excerpt: "President Joe Biden has been dealt a setback with his goal to reopen more schools for in-person learning, as new data shows that a majority of students are still not returning to the classroom full time even when given the chance. According to a new survey ..."
     publishedDateTime: 2021-04-07T21:16:00Z
@@ -142,6 +142,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/president-biden-gty-jef-210412_1618261674804_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden family dog Major involved in second biting incident while 'adjusting to his new surroundings'"
+    excerpt: "LaRosa added that Major, a 3-year-old German Shepherd the Bidens adopted in 2018, is \"still adjusting to his new surroundings\" in Washington, D.C. The dog had been seen by reporters on a walk around the White House South Lawn before President Joe Biden ..."
+    publishedDateTime: 2021-03-30T23:25:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/03/30/major-biden-dog-second-biting-incident-white-house/4811855001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4811855001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4811855001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/24/USAT/779adc61-27e0-41c5-9938-dc23ea32e59a-VPC_WHITE_HOUSE_DOGS_GO_BACK_TO_DELAWARE_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x2,y2&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden returns to Pennsylvania to rally swing-state voters for massive new spending on roads and bridges"
     excerpt: "The president's campaign for an infrastructure overhaul starts Wednesday and marks the latest outreach to a state seen as critical for bringing his broader economic agenda to fruition."
@@ -175,6 +191,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden is convening a commission to study expanding the Supreme Court and imposing term limits on justices"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% WASHINGTON (AP) — President Joe Biden on Friday ordered a study of adding seats to the Supreme Court, creating a bipartisan commission that will spend the next six months examining the politically incendiary ..."
+    publishedDateTime: 2021-04-09T18:36:00Z
+    webUrl: "https://www.businessinsider.com/biden-assigns-study-on-delicate-issue-of-supreme-court-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/biden-assigns-study-on-delicate-issue-of-supreme-court-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-assigns-study-on-delicate-issue-of-supreme-court-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/60709dbc4943790018bb1b19?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden: 'Prepared to negotiate,' on infrastructure"
     excerpt: "President Joe Biden meets Republican and Democratic lawmakers as the White House amplifies the push for its $2.3 trillion package with the release of state-by-state breakdowns that show the dire shape of the nation's infrastructure. (April 12)"
     publishedDateTime: 2021-04-12T20:25:00Z
@@ -204,6 +236,36 @@ related:
       - url: "https://i.insider.com/606e0dcd70954f0019195bdc?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "President Biden making a push for tighter gun safety laws with new executive actions"
+    excerpt: "Biden's infrastructure plan: What's inside the new $2 trillion bill?"
+    publishedDateTime: 2021-04-08T12:41:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2021/04/08/ghost-guns-among-items-targeted-new-presidential-executive-actions/7137513002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 98
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/99db72df-f487-4d46-9179-1bbabff8f383-VPC_BIDEN_GUN_CONTROL_DESK_THUMB.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "A warning to Biden: The number of federal government breakdowns has been accelerating, and there are bound to be more on his watch"
+    excerpt: "Research by New York University professor Paul Light found an increasing number of government failures in recent years, driven by “decades of neglect.”"
+    publishedDateTime: 2021-04-01T10:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/federal-government-breakdowns/2021/04/01/03e68e72-91a5-11eb-9af7-fd0822ae4398_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/federal-government-breakdowns/2021/04/01/03e68e72-91a5-11eb-9af7-fd0822ae4398_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/federal-government-breakdowns/2021/04/01/03e68e72-91a5-11eb-9af7-fd0822ae4398_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 95
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TMEH7VESPEI6XO2JLSZKSX2M5Q.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "The Hill's Morning Report - Presented by Tax March - Biden, lawmakers start down a road with infrastructure"
     excerpt: "In the Oval Office on Monday, Republican lawmakers told President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims ..."

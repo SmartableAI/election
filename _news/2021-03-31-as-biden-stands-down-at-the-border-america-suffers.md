@@ -20,177 +20,321 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Trump calls Biden jobs plan 'massive giveaway to China,' says it will 'crush American workers'"
-    excerpt: "Former President Donald Trump called President Biden's jobs plan a \"monstrosity\" that \"would be among the largest self-inflicted economic wounds in history.\""
-    publishedDateTime: 2021-03-31T18:36:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u3eAlRuK2Rw/trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers.amp"
+  - title: "Gingrich: Biden lied about Georgia election law and he owes the people an apology"
+    excerpt: "Former Speaker of the House Newt Gingrich joined Bill Hemmer on \"America's Newsroom\" on Friday to discuss the H.R. 1 election reform bill, accusing President Biden of \"flatly false\" statements about a new Georgia voting law. "
+    publishedDateTime: 2021-04-02T15:59:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m1VSqC8GU5s/gingrich-biden-lied-georgia-election-law"
+    ampWebUrl: "https://www.foxnews.com/politics/gingrich-biden-lied-georgia-election-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-biden-lied-georgia-election-law.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 178
+    quality: 185
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Sean Hannity: Biden administration waging ‘all-out assault’ on American principles"
-    excerpt: "President Biden and the Democrats are attempting to destroy American values, \"Hannity\" host Sean Hannity said."
-    publishedDateTime: 2021-04-02T02:58:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t0ElbHltqwY/sean-hannity-biden-administration-waging-all-out-assault-on-american-principles"
-    ampWebUrl: "https://www.foxnews.com/politics/sean-hannity-biden-administration-waging-all-out-assault-on-american-principles.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sean-hannity-biden-administration-waging-all-out-assault-on-american-principles.amp"
+  - title: "Biden tells Georgia to ‘smarten up’ to avoid losing business over new election law"
+    excerpt: "President Biden said that Georgia needs to “smarten up” to avoid business leaving its state over recent voting legislation. "
+    publishedDateTime: 2021-04-06T21:46:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTz0uW0cOhs/biden-georgia-smarten-up-avoid-losing-business-new-election-law"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-georgia-smarten-up-avoid-losing-business-new-election-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-smarten-up-avoid-losing-business-new-election-law.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 184
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa8c3316-6632-4082-a9a7-44390366678c/5ef799d3-b2dc-47aa-aad3-b9c8865eb279/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21037480732952-1.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Biden spokeswoman calls record migrant surge a 'cyclical issue,' denies it's worse than prior years"
-    excerpt: "President Biden's communications director Kate Bedingfield sparred with ABC's Jonathan Karl over a surge in unaccompanied minors trying to cross the U.S. southern border."
-    publishedDateTime: 2021-03-28T18:37:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RMgmCIf2g2Q/biden-kate-bedingfield-migrant-surge-psaki"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-kate-bedingfield-migrant-surge-psaki.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-kate-bedingfield-migrant-surge-psaki.amp"
+  - title: "Biden comments about Georgia election law 'incredibly irresponsible' and 'based on lies': Loeffler"
+    excerpt: "President Biden is helping to divide the country \"based on lies\" about Georgia's new election law, former GOP Sen. Kelly Loeffler told \"The Story\" Wednesday."
+    publishedDateTime: 2021-04-07T21:10:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GVC-F5no24s/biden-georgia-election-law-comments-irresponsible-loeffler"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-georgia-election-law-comments-irresponsible-loeffler.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-election-law-comments-irresponsible-loeffler.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 176
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Donna-TX-migrant-facility.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "House Republicans reveal game plan to fight Biden's massive spending bill"
-    excerpt: "EXCLUSIVE: The biggest conservative caucus in the House has already released a game plan to fight President Biden's $2 trillion spending package and accompanying tax hikes, signaling just how tough it will be for Democrats to garner bipartisan support for the massive bill."
-    publishedDateTime: 2021-04-01T17:28:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WJFOpx0j7KQ/house-republicans-game-plan-fight-bidens-massive-spending-bill"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 154
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Joe-Biden.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden reversing Trump policy, quietly ramping up Palestinian aid"
-    excerpt: "The Biden administration is quietly ramping up its financial assistance to Palestinians, in the latest reversal of former President Donald Trump’s foreign policy."
-    publishedDateTime: 2021-04-03T12:41:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reversing-trump-policy-ramping-palestinian-aid.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21085720002259.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Former Trump aide Stephen Miller launches group targeting Biden’s policies"
-    excerpt: "Former President Donald Trump’s senior aide Stephen Miller has launched a new organization that aims to challenge the Biden administration’s policies in courts."
-    publishedDateTime: 2021-04-07T13:06:00Z
-    webUrl: "https://nypost.com/2021/04/07/stephen-miller-launches-group-targeting-bidens-policies/"
-    ampWebUrl: "https://nypost.com/2021/04/07/stephen-miller-launches-group-targeting-bidens-policies/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/07/stephen-miller-launches-group-targeting-bidens-policies/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 148
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/stephen-miller-03.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump takes shot at Hunter Biden, says kids must stay from drugs, booze, cigs"
-    excerpt: "Father Trump knows best. Former President Donald Trump took a thinly veiled shot at his White House successor, saying the key to good parenting is keeping kids away from drugs, cigarettes and"
-    publishedDateTime: 2021-04-02T16:51:00Z
-    webUrl: "https://nypost.com/2021/04/02/donald-trump-seemingly-takes-shot-at-hunter-biden-in-interview/"
-    ampWebUrl: "https://nypost.com/2021/04/02/donald-trump-seemingly-takes-shot-at-hunter-biden-in-interview/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/02/donald-trump-seemingly-takes-shot-at-hunter-biden-in-interview/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 147
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-family-biden-hp-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump calls Biden jobs plan 'massive giveaway to China,' says it will 'crush American workers'"
-    excerpt: "Former President Donald Trump called President Biden's jobs plan a \"monstrosity\" that \"would be among the largest self-inflicted economic wounds in history.\""
-    publishedDateTime: 2021-03-31T18:45:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-biden-jobs-plan-massive-giveaway-to-china-says-it-will-crush-american-workers.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 138
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Hunter Biden says he wouldn’t repeat work for Ukrainian firm"
-    excerpt: "President Joe Biden’s son Hunter says his service on the board of a Ukrainian gas company, which Republicans tried to turn into a negative during the 2020 presidential campaign, wasn’t unethical and didn’t represent a lack of judgment on his part."
-    publishedDateTime: 2021-03-31T08:35:00Z
-    webUrl: "https://www.foxnews.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-says-he-wouldnt-repeat-work-for-ukrainian-firm.amp"
+  - title: "Biden says he'd 'strongly support' MLB moving All-Star game out of Atlanta over Georgia election law"
+    excerpt: "President Biden expressed support for the idea for the MLB All-Star game to move out of Atlanta in response to the new Georgia election law that has sparked fierce backlash among liberals. "
+    publishedDateTime: 2021-04-01T05:26:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rK41u2MQiqU/biden-says-hed-strongly-support-mlb-moving-all-star-game-out-of-atlanta"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-hed-strongly-support-mlb-moving-all-star-game-out-of-atlanta.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-hed-strongly-support-mlb-moving-all-star-game-out-of-atlanta.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31559d35-d060-4ac4-85d0-c5cf2e57997e/cea027d4-af7e-4165-9019-bb52722f5b11/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12203dad-15f4-42e5-9f2f-cd88b2139cdf/cd09a844-6f4a-48cf-96bc-23def1df14d0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump says he doubts Biden ‘making the decisions,’ calls border wall chatter ‘positive step’: report"
-    excerpt: "Former President Trump expressed doubts Tuesday that his successor was \"making most of the decisions\" in the White House, noting from experience that being president is \"a lot of work.\" Trump also reacted positively to reports that the Biden administration ..."
-    publishedDateTime: 2021-04-07T07:49:00Z
-    webUrl: "https://www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report"
-    ampWebUrl: "https://www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-says-he-doubts-biden-making-the-decisions-calls-border-wall-chatter-positive-step-report.amp"
+  - title: "Georgia Sen. Ossoff rejects Biden's baseball boycott over new voting law"
+    excerpt: "Sen. Jon Ossoff, D-Ga., said he won't support moving Major League Baseball's All-Star game out of Georgia in protest of the state's new divisive voting law. "
+    publishedDateTime: 2021-04-02T15:10:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dPZfP92R3dk/sen-ossoff-rejects-bidens-baseball-boycott-in-georgia-over-new-voting-law"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-ossoff-rejects-bidens-baseball-boycott-in-georgia-over-new-voting-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-ossoff-rejects-bidens-baseball-boycott-in-georgia-over-new-voting-law.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3dc178aa-e834-4945-ac58-b1de3c7cc784/2cbc7bbc-d9ef-431b-8b45-8da5b3ba3be3/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21004855298319.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Psaki won't say if Biden supports MLB Georgia boycott, despite past comment"
+    excerpt: "White House press secretary Jen Psaki seemed to shy away Monday from President Biden's previous comments about Major League Baseball pulling its All-Star game from Georgia."
+    publishedDateTime: 2021-04-05T22:44:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/du-v-DkIFDE/psaki-biden-mlb-comments"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-mlb-comments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-mlb-comments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b6d8964-c1aa-4264-9835-9dcb0d672c39/08d5c0e5-b80a-4864-9e25-ea57e536515e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "All-Star rumble, with Biden and Trump, shows corporate America breaking with GOP"
-    excerpt: "Business support for taking the All-Star Game out of Atlanta because of the Georgia voting law is emblematic of Corporate America's break from the GOP"
-    publishedDateTime: 2021-04-06T07:12:00Z
-    webUrl: "https://www.foxnews.com/media/all-star-rumble-with-biden-and-trump-shows-corporate-america-breaking-with-gop"
+  - title: "Psaki doubles down on Biden's Georgia voting comments after major fact-check"
+    excerpt: "White House press secretary Jen Psaki furthered the president's criticism of Georgia's new voting law even after a fact check determined his line of attack was false."
+    publishedDateTime: 2021-04-01T21:11:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X6OjPWE3G5Y/psaki-doubles-down-georgia-voting-law"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-doubles-down-georgia-voting-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-doubles-down-georgia-voting-law.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 125
+    quality: 172
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Biden-green-thumb.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2243c03-5c7f-410c-809b-82da3252a441/df7fc185-1eb1-4326-96d2-1af4b0d06388/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Psaki refuses to walk back fact-checked Biden comments on Georgia voting law"
+    excerpt: "White House press secretary Jen Psaki on Monday said President Biden will continue to advocate for ways to make it \"easier\" to vote, while refusing to walk back his past comments about a new Georgia voting law that have since been fact-checked. "
+    publishedDateTime: 2021-04-05T22:06:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TcMvx7lhoV8/psaki-biden-comments-georgia-voting-law-fact-check"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-comments-georgia-voting-law-fact-check.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-comments-georgia-voting-law-fact-check.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Crenshaw, Rubio slam Biden, MLB over Georgia boycott, ask if China will be next"
+    excerpt: "Republican Sen. Marco Rubio, R-Fla., and Rep. Dan Crenshaw, R-Texas, hit President Biden and Major League Baseball for the league's decision to boycott Georgia over its election law -- and asking if that hard stance will be extended to the Chinese Communist regime."
+    publishedDateTime: 2021-04-03T17:16:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3ALFqQhMUo8/crenshaw-rubio-biden-mlb-georgia-boycott-china"
+    ampWebUrl: "https://www.foxnews.com/politics/crenshaw-rubio-biden-mlb-georgia-boycott-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/crenshaw-rubio-biden-mlb-georgia-boycott-china.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12203dad-15f4-42e5-9f2f-cd88b2139cdf/cd09a844-6f4a-48cf-96bc-23def1df14d0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Georgia Gov. Kemp hits MLB, Biden after election law prompts All-Star move: Nothing more than 'political play'"
+    excerpt: "Georgia Gov. Brian Kemp on Saturday said the decision to pull the Major League Baseball All-Star Game over objections to changes to his state's voting laws was a \"political play.\" "
+    publishedDateTime: 2021-04-03T16:45:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hy2klk-B9pM/georgia-kemp-mlb-biden-election-law-all-star-move"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-kemp-mlb-biden-election-law-all-star-move.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-kemp-mlb-biden-election-law-all-star-move.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/KEMP-CROP-2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Former Georgia Rep. Doug Collins hits back at Biden on voter suppression claims: 'Learn to read'"
+    excerpt: "Former Georgia Congressman Doug Collins told \"America Reports\" on Thursday that the Biden administration and private companies need to \"read the election reform bill\" before spewing criticisms."
+    publishedDateTime: 2021-04-01T20:20:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gM3wkfGKY7o/doug-collins-hits-back-at-biden-on-voter-suppression-claims-learn-to-read"
+    ampWebUrl: "https://www.foxnews.com/politics/doug-collins-hits-back-at-biden-on-voter-suppression-claims-learn-to-read.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doug-collins-hits-back-at-biden-on-voter-suppression-claims-learn-to-read.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Gov. Kemp: Biden trying to distract from border crisis with call to pull MLB All-Star Game from Georgia"
+    excerpt: "Georgia Governor Brian Kemp slammed President Joe Biden's attempt to pull the MLB all-star game from Georgia as a 'distraction' from his administration's handling of the crisis at the southern border. "
+    publishedDateTime: 2021-04-01T15:45:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fOp5SrTZlRM/biden-all-star-game-georgia-brian-kemp-voting-law"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-all-star-game-georgia-brian-kemp-voting-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-all-star-game-georgia-brian-kemp-voting-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Georgia Republican teases Biden and Schumer, says voting law should be more restricted like Delaware, NY"
+    excerpt: "A Georgia lawmaker is proposing that his state align its voting laws with New York and Delaware's more restrictive regulations, an admitted \"political stunt\" designed to rebuke criticism from President Biden, who has lived in Delaware and served as one of its senators, and Senate Majority Leader Chuck"
+    publishedDateTime: 2021-04-05T20:49:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jyUht3uxrT8/georgia-wes-cantrell-biden-voting-law"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14a5ffe4-1a84-4ae0-a7cc-e01e93474179/7ef0499b-9c47-4f44-bcbc-ea6f95267440/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Sen. Rick Scott slams Biden for backing MLB Georgia boycott, being silent on moving Olympics out of China"
+    excerpt: "Republican Sen. Rick Scott on Tuesday called on President Biden to offer to host the 2022 Olympic Games in the United States. "
+    publishedDateTime: 2021-04-06T16:39:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_56EhNRfNw/sen-rick-scott-urges-biden-to-offer-us-to-host-2022-olympic-games-amid-chinas-human-rights-abuses"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-rick-scott-urges-biden-to-offer-us-to-host-2022-olympic-games-amid-chinas-human-rights-abuses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-rick-scott-urges-biden-to-offer-us-to-host-2022-olympic-games-amid-chinas-human-rights-abuses.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Ben Carson blasts Omar's 'disgusting' Georgia-Apartheid comparison, says Biden doesn't understand 'Jim Crow'"
+    excerpt: "Former HUD Secretary Dr. Ben Carson said Tuesday on \"The Story\" that it was \"disgusting\" to hear Rep. Ilhan Omar compare Georgia's new election law to South African Apartheid of the mid-20th Century"
+    publishedDateTime: 2021-04-06T20:44:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ehRiXhhFGdU/ben-carson-blasts-omars-disgusting-georgia-apartheid-comparison-says-biden-doesnt-understand-jim-crow"
+    ampWebUrl: "https://www.foxnews.com/politics/ben-carson-blasts-omars-disgusting-georgia-apartheid-comparison-says-biden-doesnt-understand-jim-crow.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ben-carson-blasts-omars-disgusting-georgia-apartheid-comparison-says-biden-doesnt-understand-jim-crow.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05118be2-1034-46ca-8e0d-46032940f1f8/6f04f3e0-5eb9-45ed-bdf4-c83b4c221df5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden comments about Georgia election law 'incredibly irresponsible' and 'based on lies': Loeffler"
+    excerpt: "President Biden is helping to divide the country \"based on lies\" about Georgia's new election law, former GOP Sen. Kelly Loeffler told \"The Story\" Wednesday. LOEFFLER: His [Joe Biden’s] comments were incredibly irresponsible, because he repeated ..."
+    publishedDateTime: 2021-04-07T21:13:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-georgia-election-law-comments-irresponsible-loeffler"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-georgia-election-law-comments-irresponsible-loeffler.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-georgia-election-law-comments-irresponsible-loeffler.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 136
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03b15d77-9a73-4635-b2b0-8e1264f2f4ec/330abe5e-c471-457b-8340-e83d6de2e52b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Georgia Republican name-drops Biden, says voting law should be more restricted like Delaware"
+    excerpt: "A Georgia lawmaker is proposing that his state align its voting laws with New York and Delaware's more restrictive regulations, an admitted \"political stunt\" designed to rebuke criticism from President Biden,"
+    publishedDateTime: 2021-04-05T20:52:00Z
+    webUrl: "https://www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-wes-cantrell-biden-voting-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14a5ffe4-1a84-4ae0-a7cc-e01e93474179/7ef0499b-9c47-4f44-bcbc-ea6f95267440/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "States Fight Back Against Biden War on the West"
+    excerpt: "This brings us to President Joe Biden. No president in modern times, perhaps ever, has shown such contempt for our system of federalism. So I was thrilled to see this headline from, of all places, Alaska: \"Dunleavy Tells Feds Alaska Is Taking Over ..."
+    publishedDateTime: 2021-04-06T09:32:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/06/states_fight_back_against_biden_war_on_the_west_145535.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/539741_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Joe Biden Is About to Lock Up a Lot of Black People"
+    excerpt: "If the Biden administration is serious about cracking down on the supposed rise in anti-Asian American violence and bias, it's going to have to take a break from all that racial \"equity\" it's been hyping."
+    publishedDateTime: 2021-04-01T11:25:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/01/joe_biden_is_about_to_lock_up_a_lot_of_black_people_539493.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/539402_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Does Joe Biden Believe He is The Next FDR or LBJ? And the Politics of Georgia's New Voting Laws"
+    excerpt: "A.B Stoddard joins the panel to discuss whether President Joe Biden really sees himself as a transformational president, and why that matters to his agenda. Also, a look at the reaction to the new voting laws in Georgia, including the President's support ..."
+    publishedDateTime: 2021-04-02T20:46:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/02/does_joe_biden_believe_he_is_the_next_fdr_or_lbj_and_the_politics_of_georgias_new_voting_laws.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 53
+    images:
+      - url: "https://assets.realclear.com/images/53/539562.jpg"
+        width: 336
+        height: 280
         isCached: true
 
 secured: "+zDq3iDajHH2+tbYZv4CCnLIuv+sa/3Y8/e35qg0uUXErwqo9AQ3vnY8a50m1ByKg6si/nOPHbQ/NQ9LxbKi3NI0HQHWa2h2cNR0x9dw3zPuGrpMcD8ImzmxFRpkcSV+PeGeMceEwvlh8VSgc/tsnPNTPDgGFdgowgz1HhpL/IkxW9HWRkB72AVWe8ka6dAEgMDd1Ti0aOWeA6lpG57uM/cZkzEa1/cZ6iS6ocZGlCAxjsRwGj/WRJANPc207XfjULT/BCZQZC7DviD9iVW7WY5kN2lHwZEC/1KqU+F6l0uhN/oqa3D5y8VmH1RasirVDQItlxkT+54Sso/CAyS7lV4RxQvIateUOk5susVdwsU=;MEWKDZm0OS5PyCu4Je3H+Q=="

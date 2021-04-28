@@ -80,6 +80,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Doocy to Psaki: Is VP Kamala Harris Profiting Off Of Copies Of \"Superheroes Are Everywhere\" At Border?"
+    excerpt: "FOX News White House correspondent Peter Doocy asked White House press secretary Jen Psaki at Monday's press briefing to explain why copies of Vice President Kamala Harris' book \"Superheroes Are Everywhere\" are being handed out in \"welcome kits\" at border facilities with children and if she is profiting from the endeavor."
+    publishedDateTime: 2021-04-26T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/26/doocy_to_psaki_is_vp_kamala_harris_profiting_off_of_copies_of_superheroes_are_everywhere_at_border.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 49
+    images:
+      - url: "https://assets.realclear.com/images/54/541609.jpg"
+        width: 1378
+        height: 1032
+        isCached: true
 
 secured: "K5dx3IIBYZUZQ6lcAEybajegK7jSFccAnKx8J6bJOHTcAGNp+IITAo7kEeXfkKEfioZneMo5peSRvNoucc13+BRXgdfwldu+av3UDgVegoNPxSg9XQIHzBLWJswqMjuJY7K44ETPIIvjXq7tKEJ4q08qBqh1W84F03DQ9fMeL8765o2yEmZFxhVBL2pI1As7+yrwi9GxedwvrQUqrH1yXQgcl0yK85LTOSoRAe/6oEEFB3uOIf33K2leMcDvx1it09s++7FTZ4kiCoJI9yCCTcoVLzXDrTG0Gj0CuDsPRqJgsxamWPCHtqsobFp9JVTOxxhzOPx0wS0+mXYpThqYdMhfHK5QMS4L6gVzjESHnnA=;1cgLcExblEPVCyP9AI0p7Q=="
 ---

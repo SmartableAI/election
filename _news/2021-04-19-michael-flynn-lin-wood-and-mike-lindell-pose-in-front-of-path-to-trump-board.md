@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/michael-flynn-lin-wood-mike-lindell-pose-fr
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/michael-flynn-lin-wood-mike-lindell-pose-front-path-trump-board-1584648?amp=1"
 type: article
 quality: 121
-heat: 141
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Watch Mike Lindell get tricked by a prank caller pretending to be Donald Trump during a livestream for his new social-media site"
-    excerpt: "MyPillow CEO Mike Lindell launched social-media site Frank on Monday with a 48-hour livestream that was plagued by technical issues and prank calls."
-    publishedDateTime: 2021-04-20T15:42:00Z
-    webUrl: "https://www.businessinsider.com/mike-lindell-frank-donald-trump-prank-call-social-media-mypillow-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/mike-lindell-frank-donald-trump-prank-call-social-media-mypillow-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mike-lindell-frank-donald-trump-prank-call-social-media-mypillow-2021-4?amp"
+  - title: "Trump-era spike in Israeli settlement growth has only begun"
+    excerpt: "Satellite images and data obtained by The Associated Press document for the first time the full impact of the policies of then-President Donald Trump, who abandoned decades-long U.S. opposition to ..."
+    publishedDateTime: 2021-04-14T06:28:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/trump-era-growth-settlement-growth-begun-77061171"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/trump-era-growth-settlement-growth-begun-77061171"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/trump-era-growth-settlement-growth-begun-77061171"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/607ea3c444f4540019207a1a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/International/WireAP_a04df8fa0413470e90547a8e116fc562_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "lXVUJqexH9kZP5UFWawfnvG3kTn7f/lmDEWPDMSkFqqE2Y4XzfES9x+MBbZiettyWVAx/WjR/E2Ft+d/J1A490lB+gwgOcgemvBwKHXJQk+PtKZPOtyrjIM6zvkHXB/whuFi2ZpAicbMkcdI6PubGyVH7cD/Qq8KWJF3GgQb3XDIoA+ztj994oH5hbSJFBeH9NJdfb/1ZxmBC1l3OGXaNLM7cJFeBO0zMApiMdcrrw3L7gQTBIA2PjIw8PjfxWeT7f1wYawu9xTJP+5Bm6dmeypr7xhYNkNCn4NrzjeYnpkOSW7ECiTCjSxfZ9RcNqBQFv7IfqTCs75PbBJrWCtHuMK9kcrpVW8/yU2sNeRL4BM=;wfTJuad5WGEKt/tzF9TJUw=="

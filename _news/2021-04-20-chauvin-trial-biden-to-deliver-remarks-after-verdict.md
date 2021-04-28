@@ -32,19 +32,179 @@ images:
     isCached: true
 
 related:
-  - title: "Biden called George Floyd's brother as nation awaits verdict in Derek Chauvin trial"
-    excerpt: "President Joe Biden called George Floyd's brother Philonise Floyd on Monday as his family and the nation await a verdict in the trial of former Minneapolis police Officer Derek Chauvin.\n    \n"
-    publishedDateTime: 2021-04-20T12:49:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QjDgnINtRRE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/biden-george-floyd-brother/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/biden-george-floyd-brother/index.html"
+  - title: "Kamala Harris cements her place in Biden's inner circle during a consequential week"
+    excerpt: "Vice President Kamala Harris was huddled with other White House officials in President Joe Biden's private dining room last week when the room let out a \"collective exhale.\" A Minnesota jury had found Derek Chauvin guilty of murdering George Floyd.\n    \n"
+    publishedDateTime: 2021-04-25T13:41:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t-94g7Epw80/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/25/politics/kamala-harris-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/25/politics/kamala-harris-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 194
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210415170509-02-biden-russia-comments-0415-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420191943-03-biden-harris-chauvin-verdict-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Harris casts first tie-breaking vote for a Biden nominee after Senate splits on Pentagon pick"
+    excerpt: "Vice President Kamala Harris cast her first tie-breaking vote related to a Biden administration nominee on the Senate floor Wednesday evening, voting to advance the nomination of Colin Kahl to be the Pentagon's undersecretary for policy.\n    \n"
+    publishedDateTime: 2021-04-21T23:02:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZldAeiLCWpE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/21/politics/colin-kahl-nomination-advances/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/colin-kahl-nomination-advances/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421183251-harris-kahl-split-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Harris pitches American Jobs Plan during first extended economic speech since becoming VP"
+    excerpt: "Kamala Harris on Monday delivered her first extended economic speech since becoming vice president, making a pitch for the Biden administration's infrastructure plan and touting the White House's accomplishments since President Joe Biden was sworn in.\n    \n"
+    publishedDateTime: 2021-04-19T18:03:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vy0KNaL7-6Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/kamala-harris-economic-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/kamala-harris-economic-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 176
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419135329-harris-american-jobs-plan-0419-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Harris says verdict in Chauvin trial 'will not heal the pain that existed for generations'"
+    excerpt: "Vice President Kamala Harris said Tuesday the country is hungry for justice following the death of George Floyd, but acknowledged even a verdict finding former Minneapolis police officer Derek Chauvin guilty of Floyd's murder would not erase generations of trauma caused by systemic racism.\n    \n"
+    publishedDateTime: 2021-04-20T21:28:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QoaheN4QN_U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/kamala-harris-chauvin-trial/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/kamala-harris-chauvin-trial/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420165006-kamala-harris-intv-bash-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's big climate pledge is another promise it will be hard to honor"
+    excerpt: "A White House riding high on a wave of ambition is setting up a series of inevitable tests of whether Joe Biden is promising more than he can deliver.\n    \n"
+    publishedDateTime: 2021-04-23T04:28:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zb5NfXfH0PM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/joe-biden-climate-change-police-reform-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/joe-biden-climate-change-police-reform-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422142048-joe-biden-0422-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "White House considers broad range of migration plans ahead of Harris visit to Central America"
+    excerpt: "The Biden administration is considering pressing Guatemala to address governance issues in the country, ranging from investment to corruption, according to a source familiar with the deliberations at the White House, highlighting just one of the delicate negotiations Vice President Kamala Harris is expected"
+    publishedDateTime: 2021-04-20T10:36:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7OZdowuMr3o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/harris-us-mexico-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/harris-us-mexico-border/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416215801-01-kamala-harris-0415-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Senate Democrats holding a lottery for tickets to Biden's address to Congress"
+    excerpt: "Senate Democrats are using a lottery system to distribute the limited number of tickets available for members of the caucus who are interested in attending President Joe Biden's address to a joint session of Congress on Wednesday, multiple senators -- including Hawaii Sen. Brian Schatz -- and aides told"
+    publishedDateTime: 2021-04-27T17:57:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xK21W25g018/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/biden-congress-address-ticket-lottery-senate-democrats/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/biden-congress-address-ticket-lottery-senate-democrats/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205170603-02-us-capitol-0208-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden preparing for 'tinderbox' with country on edge ahead of verdict in Chauvin trial"
+    excerpt: "President Joe Biden is keeping a watchful eye on this week's closing arguments in the Minneapolis trial of Derek Chauvin, fearful that a controversial verdict could inflame new racial tensions and further escalate a deepening crisis in confidence with the nation's police forces.\n    \n"
+    publishedDateTime: 2021-04-19T11:42:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NuwRgujjLlE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/joe-biden-chauvin-trial-preparations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/joe-biden-chauvin-trial-preparations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416173011-01-biden-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden judicial pick secures endorsements ahead of hearing with Supreme Court overtones"
+    excerpt: "Dozens of former Supreme Court clerks, Justice Department officials and law professors are throwing their support behind President Joe Biden's highest-profile judicial nominee to date as the Senate Judiciary Committee gets set to consider his first batch of selections for the federal courts.\n    \n"
+    publishedDateTime: 2021-04-27T18:54:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hn3TmjrgH10/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/ketanji-brown-jackson-support-dc-circuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/ketanji-brown-jackson-support-dc-circuit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427133953-judge-ketanji-brown-jackson-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Negotiations over Biden's infrastructure package continue in Congress this week. Here's what to watch"
+    excerpt: "Washington is staring down a bumpy road to infrastructure consensus.\n    \n"
+    publishedDateTime: 2021-04-19T10:06:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P_3T6Y0Z-0o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/infrastructure-state-of-play/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/infrastructure-state-of-play/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210329131550-washington-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How the US went from having one of the worst Covid responses to being a global leader in vaccinations under Biden"
+    excerpt: "For the last 100 days, President Joe Biden and his top advisers have mounted an urgent, wartime effort to get millions of coronavirus vaccines into the arms of Americans in order to beat back a pandemic that has upended the world for the better part of year.\n    \n"
+    publishedDateTime: 2021-04-26T21:48:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qeHrobmquIg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/26/politics/biden-100-days-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/26/politics/biden-100-days-covid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311182608-01-joe-biden-0310-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -64,6 +224,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Joe Biden's infrastructure plan could leave too many women behind"
+    excerpt: "President Joe Biden says his roughly $2 trillion infrastructure plan will help create millions of jobs. But many of the proposed jobs are in historically male-dominated fields and experts worry the plan won't do enough for America's women,"
+    publishedDateTime: 2021-04-18T15:48:00Z
+    webUrl: "https://www.cnn.com/2021/04/18/economy/women-infrastructure-care-stimulus/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/economy/women-infrastructure-care-stimulus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/economy/women-infrastructure-care-stimulus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210413133507-us-women-infrastructure-care-investment-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to deliver remarks after Derek Chauvin trial verdict"
     excerpt: "President Joe Biden is expected to deliver remarks after the jury in the Derek Chauvin trial renders a verdict, according to multiple administration officials. The White House is monitoring the trial’s developments and is preparing a statement for Biden,"
     publishedDateTime: 2021-04-19T17:37:00Z
@@ -79,22 +255,6 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_16/3465912/210419-joe-biden-ew-1232p_4abe6008c53d925a33d81a3e021870c9.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Biden calls guilty verdict in Derek Chauvin trial 'a step forward'"
-    excerpt: "Chauvin was found guilty on two counts of murder and one count of manslaughter in George Floyd's death in Minneapolis in May."
-    publishedDateTime: 2021-04-21T02:42:00Z
-    webUrl: "https://www.nbcnews.com/politics/joe-biden/president-joe-biden-calls-guilty-verdict-chauvin-trial-step-forward-n1264696"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264696"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264696"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_15/3464825/210415-russian-sanctions-mc-10093_e9e9724a2c783a458a92b7345e41e953.JPG"
-        width: 2500
-        height: 1685
         isCached: true
   - title: "President Biden calls George Floyd family after Chauvin guilty verdict"
     excerpt: "President Joe Biden and Vice President Kamala Harris spoke with the family of George Floyd after Derek Chauvin was found guilty, with Biden saying \"we're all so relieved.\""
@@ -112,6 +272,98 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden's sweeping climate goal comes down to one thing"
+    excerpt: "The president wants a sprint to slash greenhouse gas output throughout the U.S. economy. But electricity is the only sector with a running start."
+    publishedDateTime: 2021-04-22T22:54:00Z
+    webUrl: "https://www.politico.com/news/2021/04/22/biden-climate-goal-484326"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/22/biden-climate-goal-484326"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/22/biden-climate-goal-484326"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/3b/44/3632b1e4489baaca0e56152b9957/gettyimages-1167751498-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "New York Post Reporter Who Wrote False Kamala Harris Story Resigns"
+    excerpt: "The front-page article in the Murdoch tabloid claimed that copies of a children’s book by the vice president were given to migrant children as part of a “welcome kit.”"
+    publishedDateTime: 2021-04-28T01:30:00Z
+    webUrl: "https://www.nytimes.com/2021/04/27/business/media/new-york-post-kamala-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/27/business/media/new-york-post-kamala-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/27/business/media/new-york-post-kamala-harris.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/27/us/27nypost-new/27nypost-new-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Harris Says Biden’s Infrastructure Plan Will Create ‘Good Jobs’"
+    excerpt: "Vice President Kamala Harris visited North Carolina on Monday to promote President Biden’s infrastructure plan, saying it will create “good jobs.”"
+    publishedDateTime: 2021-04-19T18:14:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007718004/harris-north-carolina-jobs-plan-speech.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/19/us/politics/19new-washington-harris/19new-washington-harris-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden to call for peaceful protests in response to Chauvin guilty on all counts verdict"
+    excerpt: "President Joe Biden is expected to speak in response to Derek Chauvin being convicted on all counts, in the death of George Floyd. Biden will call for peaceful protests and marches in the coming days."
+    publishedDateTime: 2021-04-20T21:38:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-to-call-for-peaceful-protests-in-response-to-chauvin-guilty-on-all-counts-verdict-110544453553"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo110544453553"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo110544453553"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202104/1618954400263_nbc_spec_welker_biden_210420_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "George Floyd's brother says President Biden called his family to say he is praying for them"
+    excerpt: "After closing arguments Monday, Philonise Floyd said he's \"optimistic\" about the outcome of the trial against Derek Chauvin."
+    publishedDateTime: 2021-04-20T13:48:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/president-biden-called-george-floyd-s-family-say-he-praying-n1264612"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264612"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264612"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 125
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_15/3464044/210412-philonise-floyd-jm-1115_832f2cca25835970ae5e23fefa0cc317.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden infrastructure bill highly uncertain"
+    excerpt: "President Joe Biden will meet with a bipartisan group of legislators today to talk about his $2 trillion-plus “American Jobs Plan.” The White House wants to make a cross-party deal but that’s very unlikely to happen."
+    publishedDateTime: 2021-04-19T12:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2021/04/19/biden-infrastructure-bill-highly-uncertain-794753"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "‘Praying the Verdict Is the Right Verdict,’ Biden Tells Floyd Family"
     excerpt: "President Biden disclosed the details of a phone call he shared with the family of George Floyd, as the family awaits the verdict in the trial of Derek Chauvin, the former officer accused of killing Mr."
     publishedDateTime: 2021-04-20T20:28:00Z
@@ -126,6 +378,15 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Watch Live: Vice President Harris Delivers Remarks on the Economy"
+    excerpt: "Vice President Harris Delivers Remarks on the Economy. U.S. & Politics. Watch Live: Vice President Harris Delivers Remarks on the Economy"
+    publishedDateTime: 2021-04-19T15:33:00Z
+    webUrl: "https://www.nytimes.com/video/us/100000007717504/kamala-harris-speech-north-carolina.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 95
 
 secured: "R1SgO3KXW8iNDsyyM1eIkpOs/dkn7b4VrEY2Gk/dD3RSPLbrHFyJkhTb2N5bVzBrqL01Do5pxPmVKixnxm+hQobX0GNFbTn+Njd1mFkKGEa+kbZkWaptDeUgLLgKAAZspCdKuaW7Kq/Uln5/G+XLqmv7lN4VMVyRgkr73PzzB1xNq51itesilTLQj5AuWh6dr05StEirdAA0CxAxqO1e1rKbxNdg9d0lqtEBtn1EFHalCiaGHTIJLsR4Fqy5SZstUKtr1L3M4K7JOQwJCHD3te1wjvQ5oxV3b1r/v7519gMikzXKnbQjOxgkySP/FVfGqLMMWsIqvPyUN11FaCbb8dYEk1b2cmJ95NhBsYYHdhpy2swt5kY/jG0mSYhdrMmO4049Y+twyrqm1ciSr7bXmc24lxTrF+4WY65lnb98u4/fpZ5scNs1qGrPjPsYwZ9YMPJgEnnS4p0pVhhzmogS9PoCK+DhMlMr5xkqeL91fm0m9uuSu9orbihVhymv2tjPvR0dm22IwaDLwaqNp0C8Tw==;TV8KZbGxbrtGTYmcqag8iQ=="
 ---

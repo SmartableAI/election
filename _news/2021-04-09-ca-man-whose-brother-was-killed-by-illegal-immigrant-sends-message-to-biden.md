@@ -31,38 +31,173 @@ images:
     isCached: true
 
 related:
-  - title: "Biden WH 'tension' to blame for Major getting agitated, dog expert says"
-    excerpt: "High-profile dog experts are speaking out about what they believe is really causing Biden's dog Major to act out after he bit two people at the White House in recent weeks, according to a report. "
-    publishedDateTime: 2021-04-06T06:49:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zL3ppeTplHo/biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wh-tension-to-blame-for-major-getting-agitated-dog-expert-says.amp"
+  - title: "Biden to address joint session of Congress on April 28"
+    excerpt: "If Biden accepts the invitation, it would mark the first time he has addressed Congress in person since becoming president."
+    publishedDateTime: 2021-04-14T00:21:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9tajvtn_3qk/pelosi-invites-biden-to-address-joint-congress-session-on-april-28"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-invites-biden-to-address-joint-congress-session-on-april-28.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-invites-biden-to-address-joint-congress-session-on-april-28.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/GettyImages-1232008114.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23634e94-94e7-4bf7-9e0c-fe06767c9820/a40574e7-a98b-4e06-b72a-eedcc3fe9dc2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden urges calm after Daunte Wright shooting, says 'no justification' for looting, violence"
-    excerpt: "President Biden urged “peace and calm” on Monday as authorities investigate what led to the fatal police-involved shooting of a Black man during a traffic stop in the Minneapolis suburb of Brooklyn Center, Minnesota."
-    publishedDateTime: 2021-04-12T20:31:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6glzABee8e8/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-urges-calm-daunte-wright-shooting-says-no-justification-for-looting-violence.amp"
+  - title: "Rep. Mace hits Biden for giving first joint address to an 'empty room'"
+    excerpt: "President Biden has accepted House Speaker Nancy Pelosi's invitation to deliver his first joint session of Congress address on Wednesday, April 28."
+    publishedDateTime: 2021-04-15T17:06:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UeRSwox8GUU/rep-mace-biden-state-of-the-union-address-empty-room"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-mace-biden-state-of-the-union-address-empty-room.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-mace-biden-state-of-the-union-address-empty-room.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ada110c-7331-40cd-a281-b8345420ab7d/6ec9a2e0-4688-40b3-b7bb-b7216727bf5a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bd344368-8532-4513-b2d1-a2efb623f115/dfd26a02-8311-4908-944a-cb8c76d596ef/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
+  - title: "China enraged as Biden sends unofficial delegates to Taiwan"
+    excerpt: "Former Sen. Chris Dodd and two former U.S. deputy secretaries of state are visiting Taiwan at the request of President Joe Biden to celebrate the 42nd anniversary of the Taiwan Relations Act, which Biden voted for when he was a senator."
+    publishedDateTime: 2021-04-16T00:21:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zeQqrzFB3v8/china-enraged-biden-sends-unofficial-delegates-taiwan"
+    ampWebUrl: "https://www.foxnews.com/politics/china-enraged-biden-sends-unofficial-delegates-taiwan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/china-enraged-biden-sends-unofficial-delegates-taiwan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21104375855660.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "GOP lawmakers ask Pelosi to reschedule Biden's first speech to Congress"
+    excerpt: "A group of GOP lawmakers called Monday for House Speaker Nancy Pelosi to reschedule President Biden’s first speech to Congress later this month to a date when the House is in session."
+    publishedDateTime: 2021-04-19T20:26:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JOJyh7M26fc/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-lawmakers-ask-pelosi-reschedule-biden-first-speech-congress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6a4c698-2716-47ac-a29c-fe49c8a2549b/b588a97f-04a0-4158-a1ee-919609e7c5fd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rep. Liz Cheney blasts Biden over 'reckless decision' to pull out of Afghanistan"
+    excerpt: "House Republican Conference Chair Liz Cheney joined \"Your World\" Wednesday to react to President Biden's announcement that U.S. forces would begin their final withdrawal from Afghanistan May 1."
+    publishedDateTime: 2021-04-14T22:30:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c-6VCYtlk-k/liz-cheney-biden-afghanistan-pullout-reckless-decision"
+    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-biden-afghanistan-pullout-reckless-decision.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-biden-afghanistan-pullout-reckless-decision.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Russia expels 10 US diplomats after Biden administration announces new sanctions"
+    excerpt: "Russia on Friday responded in kind to a barrage of new U.S. sanctions, saying it would expel 10 U.S. diplomats and take other retaliatory moves in a tense showdown with Washington"
+    publishedDateTime: 2021-04-16T17:15:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gpr5a2Gxs54/russia-expels-10-us-diplomats-biden-announces-new-sanctions"
+    ampWebUrl: "https://www.foxnews.com/politics/russia-expels-10-us-diplomats-biden-announces-new-sanctions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/russia-expels-10-us-diplomats-biden-announces-new-sanctions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20340464541350.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden admin to brief full Senate on decision to withdraw US troops from Afghanistan"
+    excerpt: "The Biden Administration is expected to deliver a briefing to the full Senate next week on its decision to withdraw all U.S. troops from Afghanistan by September 11, sources told Fox News. "
+    publishedDateTime: 2021-04-15T23:32:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxWgd-ucrAw/biden-admin-to-brief-full-senate-on-decision-to-withdraw-us-troops-from-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-to-brief-full-senate-on-decision-to-withdraw-us-troops-from-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-to-brief-full-senate-on-decision-to-withdraw-us-troops-from-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Lindsey Graham calls Biden’s weakness towards Russia a ‘death sentence’: ‘Nobody’ is afraid of Joe Biden"
+    excerpt: "President Biden is bringing a weaker demeanor to the forefront of the nation and it's apparent in his relationship with Russia, Sen. Lindsey Graham, R-S.C., argued Monday on \"Fox News Primetime\""
+    publishedDateTime: 2021-04-20T02:06:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nl0lRh4N43A/lindsey-graham-calls-bidens-weakness-towards-russia-a-death-sentence-nobody-is-afraid-of-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-calls-bidens-weakness-towards-russia-a-death-sentence-nobody-is-afraid-of-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-calls-bidens-weakness-towards-russia-a-death-sentence-nobody-is-afraid-of-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21109644329141.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Joe Concha: Biden's Supreme Court commission outcome is a likely one"
+    excerpt: "Fox News contributor and The Hill opinion columnist Joe Concha argued on 'Fox & Friends' Sunday that President Biden's Supreme Court commission is \"all window dressing,\" saying members of the commission will likely come to a conclusion that sides with Biden."
+    publishedDateTime: 2021-04-11T16:40:00Z
+    webUrl: "https://www.foxnews.com/politics/joe-concha-supreme-court-commission"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-concha-supreme-court-commission.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-concha-supreme-court-commission.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52572f02-94b6-45ee-8fe4-0071fa5b10ba/81856677-392f-4851-8704-576ba111c3fa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden To Congress On Infrastructure: \"I'm Prepared To Negotiate\""
+    excerpt: "President Joe Biden said he is “prepared to negotiate” the size of his infrastructure plan and how to pay for it during a meeting with a bipartisan group of lawmakers on Monday. \"I’m prepared to negotiate as to the extent of my infrastructure project ..."
+    publishedDateTime: 2021-04-13T12:52:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/13/biden_to_congress_on_infrastructure_im_prepared_to_negotiate.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/540323.jpg"
+        width: 4871
+        height: 3248
+        isCached: true
+  - title: "Biden Making a Major Mistake on Afghanistan"
+    excerpt: "David A. Andelman writes that President Joe Biden should not be setting a date for withdrawal of US troops from Afghanistan since the reason the US first entered the country -- to address a major terrorist threat -- has not been fully addressed."
+    publishedDateTime: 2021-04-14T11:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/14/biden_making_a_major_mistake_on_afghanistan_540470.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "g3IZNzn4QK+CNyZgBCuQDtim/+nGfpYvgxv79AiGWMDv3/bIuzvD+jGWQ/y2ndo3bvPaaVA75C54xMtT4PdTSQj4RBS1X8AIDt/l42w3UJGjHYKZF5OJFVhTqWuc+X3avOt1hdKZ5NH0oIa30uMDrdeipW4fo9vueMQ6Vw1RC+K4WlSl1cSvuAQtT/gzJYmSDVL+aRd6FSfSifw1ZdREmmqXSR1GZ4K8gdK4loZaAYP1Xq8uKwKNe9zdpOGWkjEtO8FksjhKr5dRmM4WkwPB579dJZMzS21+FWxvJ64kJrPONhfqGXVEqW9A7XjMaWfVmH9idLu5ovHp5Qg35QB/C1fUwN0INIRJWk3MKt9Hq8I=;H+J3D5t2shCDNqTcE5FMMA=="
 ---

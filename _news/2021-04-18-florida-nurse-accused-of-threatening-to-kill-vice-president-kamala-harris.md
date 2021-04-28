@@ -48,63 +48,38 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Harris pitches American Jobs Plan during first extended economic speech since becoming VP"
-    excerpt: "Kamala Harris on Monday delivered her first extended economic speech since becoming vice president, making a pitch for the Biden administration's infrastructure plan and touting the White House's accomplishments since President Joe Biden was sworn in.\n    \n"
-    publishedDateTime: 2021-04-19T18:03:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vy0KNaL7-6Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/19/politics/kamala-harris-economic-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/19/politics/kamala-harris-economic-speech/index.html"
+  - title: "Fact-checking Texas Republicans' attacks on Harris County voting procedures"
+    excerpt: "The Texas Senate passed new voting legislation on April 1. As the bill goes through the state House, corporations like Dell Technologies and American Airlines -- both based in Texas -- have started advocating against it, arguing that it restricts voter access.\n    \n"
+    publishedDateTime: 2021-04-09T13:28:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p8NT3P7_0zI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/09/politics/texas-republicans-voting-bill-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/09/politics/texas-republicans-voting-bill-fact-check/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 176
+    quality: 183
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419135329-harris-american-jobs-plan-0419-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104121638-ballot-2020-general-election-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Harris says verdict in Chauvin trial 'will not heal the pain that existed for generations'"
-    excerpt: "Vice President Kamala Harris said Tuesday the country is hungry for justice following the death of George Floyd, but acknowledged even a verdict finding former Minneapolis police officer Derek Chauvin guilty of Floyd's murder would not erase generations of trauma caused by systemic racism.\n    \n"
-    publishedDateTime: 2021-04-20T21:28:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QoaheN4QN_U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/kamala-harris-chauvin-trial/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/kamala-harris-chauvin-trial/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420165006-kamala-harris-intv-bash-vpx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "White House considers broad range of migration plans ahead of Harris visit to Central America"
-    excerpt: "The Biden administration is considering pressing Guatemala to address governance issues in the country, ranging from investment to corruption, according to a source familiar with the deliberations at the White House, highlighting just one of the delicate negotiations Vice President Kamala Harris is expected"
-    publishedDateTime: 2021-04-20T10:36:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7OZdowuMr3o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/20/politics/harris-us-mexico-border/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/20/politics/harris-us-mexico-border/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416215801-01-kamala-harris-0415-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Watch Live: Vice President Harris Delivers Remarks on the Economy"
-    excerpt: "Vice President Harris Delivers Remarks on the Economy. U.S. & Politics. Watch Live: Vice President Harris Delivers Remarks on the Economy"
-    publishedDateTime: 2021-04-19T15:33:00Z
-    webUrl: "https://www.nytimes.com/video/us/100000007717504/kamala-harris-speech-north-carolina.html"
+  - title: "Kamala Harris Marks Black Maternal Health Week at White House"
+    excerpt: "The proclamation is part of a broader effort to address the vast racial disparities in pregnancy and childbirth-related deaths and complications in the United States."
+    publishedDateTime: 2021-04-13T18:25:00Z
+    webUrl: "https://www.nytimes.com/2021/04/13/us/politics/black-maternal-health-kamala-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/13/us/politics/black-maternal-health-kamala-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/13/us/politics/black-maternal-health-kamala-harris.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 95
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/13/us/politics/13new-washington-briefing-harris/13new-washington-briefing-harris-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "A1Ggms+iLfnnW42XgUtyU4HpxTj9yIgTjBOA9X27OPl/MvcpdYfEYA6h1uIPV3e21rNUcBpkCRvnd5KXrcNqVzs+b6WydaS/DLMU557Eppnoa7/OcFpIvbyTAGmJyipQsVlJWJMPHOToEDT+O4Y2vvW7ptiBolKhohRdBAolDs0qgmn5PN8yhh1nJMypBhvbiDmguHLez4+NOINY2XIbCny2O8lTMXAIBBgrr8tXp/WBZsYIsVdo9u9QAJ5+J7wT3z15Q21YqsdYAahsGNAMWB8t/4Z5wXcRh7VKeeLMEHDjRRMO1MqFIwnrl2WvhrAr1WXwaE5YrZYqeTTdSAI0FPRRcvqjyI/kHvRSAGNmrHTqqqs0SRIamFuFbWV6wc67Wv8mpOaTvilq0O031epvKcYulDvrvGx/aewiKZ1pBaXELofK+u9UYeXeUzyRcN2cQCwu9d71gPVaUrYqV5SDKrBT88yvf5oQMVUJxYtIVZVmHmDTKtTV3v+n6ITuuZX3LLSPpskBEgO0ytnuGTqVkQ==;K5S4GLW4QIVFEntOm3yZaA=="
 ---

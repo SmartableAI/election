@@ -2,23 +2,23 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-04-06-harris-moving-into-naval-observatory-residence-after-renovations-delay.md",
-      "title": "Harris moving into Naval Observatory residence after renovations delay",
-      "excerpt": "Vice President Kamala Harris and second gentleman Doug Emhoff will move in to the Naval Observatory residence Tuesday night after their move was delayed for more than two months because of \"repairs to the home,\" a White House official told CNN.\n    \n",
+      "path": "_news/2021-04-06-biden-to-nominate-robin-carnahan-as-administrator-of-general-services-administration.md",
+      "title": "Biden to nominate Robin Carnahan as administrator of General Services Administration",
+      "excerpt": "President Joe Biden announced Tuesday that he plans to nominate former Missouri Secretary of State Robin Carnahan as administrator of the General Services Administration, a powerful position whose previous occupant played a role in his delayed transition to the presidency.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ByFF3oGXhds/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ByFF3oGXhds/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_wbbYPHnvg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_wbbYPHnvg/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 265,
+      "heat": 288,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210326151148-01-vice-president-residence-2015-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210406171900-file-robin-carnahan-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/06/politics/kamala-harris-move-naval-observatory-residence/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/kamala-harris-move-naval-observatory-residence/index.html",
-      "publishedDateTime": "2021-04-06T16:55:57-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html",
+      "publishedDateTime": "2021-04-06T14:51:55-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -54,85 +54,27 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-joe-biden-is-not-planning-to-solve-the-israeli-palestinian-conflict.md",
-      "title": "Joe Biden is not planning to solve the Israeli-Palestinian conflict",
-      "excerpt": "Joe Biden, though, isn’t all that interested. Unlike Barack Obama and Donald Trump, Biden hasn’t named a special envoy to focus on the Israeli-Palestinian portfolio. Unlike Bill Clinton, Biden has no plans for any sort of peace conference, or even a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
-      "originalUrl": "https://www.politico.com/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/52/24/4d5812e541128852ed8c3d89e2db/210406-biden-israel-getty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/06/joe-biden-israel-palestine-conflict-479405",
-      "publishedDateTime": "2021-04-06T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     },
     {
-      "path": "_news/2021-04-06-biden-to-nominate-robin-carnahan-as-administrator-of-general-services-administration.md",
-      "title": "Biden to nominate Robin Carnahan as administrator of General Services Administration",
-      "excerpt": "President Joe Biden announced Tuesday that he plans to nominate former Missouri Secretary of State Robin Carnahan as administrator of the General Services Administration, a powerful position whose previous occupant played a role in his delayed transition to the presidency.\n    \n",
+      "path": "_news/2021-04-06-biden-its-reassuring-to-see-companies-speaking-up-about-restrictive-voting-laws.md",
+      "title": "Biden: It's 'reassuring' to see companies speaking up about restrictive voting laws",
+      "excerpt": "President Joe Biden said Tuesday that it is \"reassuring\" to see businesses \"speaking up\" about restrictive voting laws, but added that he respects whatever judgment a corporation may make as part of its response.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_wbbYPHnvg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_wbbYPHnvg/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c3Kp__9O5G0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c3Kp__9O5G0/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 248,
+      "heat": 189,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210406171900-file-robin-carnahan-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210406172321-joe-biden-april-6-2021-04-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -142,9 +84,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html",
-      "publishedDateTime": "2021-04-06T14:51:55-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/06/politics/joe-biden-georgia-voting-law-masters-all-star-game/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/joe-biden-georgia-voting-law-masters-all-star-game/index.html",
+      "publishedDateTime": "2021-04-06T14:39:16-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -228,62 +170,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-06-biden-set-to-announce-hes-moving-deadline-for-all-us-adults-to-be-eligible-for-covid-vaccine-to-april-19.md",
-      "title": "Biden set to announce he's moving deadline for all US adults to be eligible for Covid vaccine to April 19",
-      "excerpt": "President Joe Biden plans to announce Tuesday that he is moving up his deadline for states to make all American adults eligible for a coronavirus vaccine by almost two weeks.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x9whOQVB82U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x9whOQVB82U/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210404164255-01-joe-biden-0324-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/06/politics/coronavirus-vaccine-deadline-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/coronavirus-vaccine-deadline-biden/index.html",
-      "publishedDateTime": "2021-04-06T04:19:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-05-hawley-a-critic-of-biden-picks-support-for-wars-in-middle-east-previously-blogged-in-support-of-iraq-war.md",
       "title": "Hawley, a critic of Biden picks' support for wars in Middle East, previously blogged in support of Iraq War",
       "excerpt": "Republican Sen. Josh Hawley of Missouri, a frequent critic of Biden administration nominees for supporting the Iraq War and other \"forever wars,\" himself wrote in support of the Iraq War prior to becoming a senator in newly uncovered blog posts.\n    \n",
@@ -340,63 +226,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-05-gop-loudly-voicing-concerns-about-debt-under-biden-eerily-quiet-under-trump.md",
-      "title": "GOP loudly voicing concerns about debt under Biden 'eerily quiet' under Trump",
-      "excerpt": "CNN's Pamela Brown analyzes GOP silence about deficit growth under former President Donald Trump, despite trillions in economic growth, and their loudly voiced concerns about national debt under President Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
-      "originalUrl": "https://www.cnn.com/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210404190501-pamela-brown-fts-vpx-screengrab-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/04/gop-trump-biden-national-debt-pamela-brown-nr-vpx.cnn",
-      "publishedDateTime": "2021-04-04T16:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-04-the-bidens-encourage-americans-to-get-vaccinated-in-easter-message.md",
       "title": "The Bidens encourage Americans to get vaccinated in Easter message",
       "excerpt": "President Joe Biden and first lady Jill Biden shared well-wishes with Americans celebrating Easter on Sunday and encouraged them to get Covid-19 vaccinations as a moral obligation.\n    \n",
@@ -409,7 +238,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 235,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -565,63 +394,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-03-watch-trump-was-right-biden-is-a-trojan-horse-for-progressives.md",
-      "title": "WATCH: 'Trump was right, Biden is a Trojan horse for progressives'",
-      "excerpt": "During his first televised response over allegations of sex trafficking a minor, Rep. Matt Gaetz claimed his family was working with the FBI over an alleged extortion plot organized by former federal prosecutor David McGee. Gaetz attempted to change the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/02/trump-biden-trojan-horse-progressives-478958",
-      "originalUrl": "https://www.politico.com/news/2021/04/02/trump-biden-trojan-horse-progressives-478958",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/a2/bd/956476cb412383a4047432f027a2/boehner-hpimage-2.jpg",
-          "width": 2320,
-          "height": 1546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/02/trump-biden-trojan-horse-progressives-478958",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/02/trump-biden-trojan-horse-progressives-478958",
-      "publishedDateTime": "2021-04-02T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-03-pennsylvania-senate-race-emerges-as-a-test-of-progressive-firepower-in-post-trump-era.md",
       "title": "Pennsylvania Senate race emerges as a test of progressive firepower in post-Trump era",
       "excerpt": "It is also a test of whether progressives, who have found success in deep-blue House districts in recent years, can extend that formula to competitive Senate races after they helped vanquish former President Donald Trump. Fetterman and Kenyatta ...",
@@ -748,7 +520,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 446,
+      "heat": 226,
       "tags": null,
       "images": [
         {
@@ -788,6 +560,120 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-republicans-try-to-make-kamala-harris-the-face-of-the-border-crisis.md",
+      "title": "Republicans try to make Kamala Harris the face of the border crisis",
+      "excerpt": "Vice President Kamala Harris and her team are staring down attempts to make her the face of the Biden administration's response to the crisis at the border, a little more than a week after being assigned a role that positions her in the center of one of the administration's most divisive issues.\n   ",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KTxjBK-t4iw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KTxjBK-t4iw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210310102406-01-kamala-harris-0302-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html",
+      "publishedDateTime": "2021-04-01T03:38:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-loyalty-or-loyal-opposition-democrats-test-fealty-to-biden-in-special-elections.md",
+      "title": "Loyalty or loyal opposition? Democrats test fealty to Biden in special elections",
+      "excerpt": "CLEVELAND — Nina Turner, the perpetual public face of Sen. Bernie Sanders' unsuccessful presidential campaigns, once compared voting for Joe Biden to eating a bowl of fecal matter. Now Turner is a top contender for Congress. And her Democratic opponents ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/joe-biden/loyalty-or-loyal-opposition-democrats-test-fealty-biden-special-elections-n1262618",
+      "originalUrl": "https://www.nbcnews.com/politics/joe-biden/loyalty-or-loyal-opposition-democrats-test-fealty-biden-special-elections-n1262618",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2021_13/3460821/210330-joe-biden-ew-244p_e7721de5d900180188761ee588df2bac.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262618",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262618",
+      "publishedDateTime": "2021-04-01T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -861,7 +747,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 180,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -962,6 +848,118 @@
       ]
     },
     {
+      "path": "_news/2021-03-31-biden-set-to-convene-his-cabinet-in-person-for-the-first-time-on-thursday.md",
+      "title": "Biden set to convene his Cabinet in-person for the first time on Thursday",
+      "excerpt": "President Joe Biden is set to convene his Cabinet in-person for the first time Thursday at the White House.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VrTFF_y7efA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VrTFF_y7efA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210318153630-01-biden-0318-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/31/politics/biden-first-cabinet-meeting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/biden-first-cabinet-meeting/index.html",
+      "publishedDateTime": "2021-03-31T12:09:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-epa-removes-dozens-of-trump-appointed-advisers-from-two-advisory-panels.md",
+      "title": "EPA removes dozens of Trump-appointed advisers from two advisory panels",
+      "excerpt": "The Biden administration will remove dozens of Trump-appointed advisers from two Environmental Protection Agency panels.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cktgnPXLQDs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cktgnPXLQDs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170629172604-epa-environmental-protection-agency-logo-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/31/politics/environmental-protection-agency-trump-appointees/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/environmental-protection-agency-trump-appointees/index.html",
+      "publishedDateTime": "2021-03-31T10:51:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-ivanka-trumps-flagship-policy-program-slammed-by-government-auditors.md",
       "title": "Ivanka Trump's flagship policy program slammed by government auditors",
       "excerpt": "The Government Accountability Office has issued a damning report about Ivanka Trump’s pet project during her time as an adviser to her father, President Donald Trump. As Ivanka Trump traveled the world talking up the Women’s Global Development and ...",
@@ -974,7 +972,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 195,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -1075,23 +1073,23 @@
       ]
     },
     {
-      "path": "_news/2021-03-30-14-gop-led-states-file-long-shot-bid-with-scotus-to-defend-trump-era-public-charge-rule.md",
-      "title": "14 GOP-led states file long-shot bid with SCOTUS to defend Trump-era 'public charge' rule",
-      "excerpt": "Texas and 13 other Republican-led states have filed a long shot bid with the Supreme Court asking the justices to allow the states to defend a controversial Trump-era rule that makes it more difficult for immigrants to obtain legal status if they use certain public benefits, such as Medicaid, food stamps",
+      "path": "_news/2021-03-31-infrastructure-was-a-trump-punchline-but-is-a-window-into-bidens-soul.md",
+      "title": "Infrastructure was a Trump punchline but is a window into Biden's soul",
+      "excerpt": "President Joe Biden's infrastructure plan is no joke.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2368at9GbIE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2368at9GbIE/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w5fTeM5uN4g/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w5fTeM5uN4g/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 166,
+      "heat": 1570,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201207182000-immigrant-citizenship-exam-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210325143535-joe-biden-march-25-2021-03-super-tease.jpeg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -1101,9 +1099,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/public-charge-immigration-supreme-court-texas/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/public-charge-immigration-supreme-court-texas/index.html",
-      "publishedDateTime": "2021-03-30T16:47:46-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure-plan-donald-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure-plan-donald-trump/index.html",
+      "publishedDateTime": "2021-03-31T07:22:08-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1131,23 +1129,23 @@
       ]
     },
     {
-      "path": "_news/2021-03-30-john-durham-is-looking-at-fbis-launch-of-trump-campaign-probe-sources-say.md",
-      "title": "John Durham is looking at FBI's launch of Trump campaign probe, sources say",
-      "excerpt": "After two years of searching for problems with the investigation into Donald Trump's campaign advisers in 2016 and their ties to Russia, federal prosecutor John Durham hasn't found wrongdoing by Obama-era intelligence officials involved who were outside of the FBI.\n    \n",
+      "path": "_news/2021-03-31-two-us-capitol-police-officers-sue-trump-and-say-he-should-be-held-responsible-for-january-6-attack.md",
+      "title": "Two US Capitol Police officers sue Trump and say he should be held responsible for January 6 attack",
+      "excerpt": "Two US Capitol Police officers who say they were injured during the January 6 insurrection are suing former President Donald Trump for inciting the crowd.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eSmraMXTWOs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eSmraMXTWOs/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fG4p2ZDgw1Q/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fG4p2ZDgw1Q/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 213,
+      "heat": 221,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190514172200-us-attorney-john-durham-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210326163722-01-us-capitol-riots-file-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -1157,9 +1155,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/john-durham-investigation/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/john-durham-investigation/index.html",
-      "publishedDateTime": "2021-03-30T12:47:31-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/us-capitol-police-sue-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/us-capitol-police-sue-trump/index.html",
+      "publishedDateTime": "2021-03-31T04:02:08-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1187,249 +1185,25 @@
       ]
     },
     {
-      "path": "_news/2021-03-30-judge-allows-summer-zervos-defamation-lawsuit-against-trump-to-proceed-now-that-hes-out-of-office.md",
-      "title": "Judge allows Summer Zervos' defamation lawsuit against Trump to proceed now that he's out of office",
-      "excerpt": "A New York appeals court on Tuesday paved the way for a defamation lawsuit against former President Donald Trump to move forward.\n    \n",
+      "path": "_news/2021-03-31-major-is-still-adjusting-new-white-house-trouble-hounds-bidens-dog.md",
+      "title": "'Major is still adjusting': New White House trouble hounds Biden's dog",
+      "excerpt": "President Joe Biden's dog Major has been involved in a second biting incident at the White House, NBC News has confirmed. “Major is still adjusting to his new surroundings and he nipped someone while on a walk. Out of an abundance of caution, the ...",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h8jU8sCqJik/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h8jU8sCqJik/index.html",
+      "webUrl": "https://www.nbcnews.com/politics/white-house/major-still-adjusting-new-white-house-trouble-hounds-biden-s-n1262527",
+      "originalUrl": "https://www.nbcnews.com/politics/white-house/major-still-adjusting-new-white-house-trouble-hounds-biden-s-n1262527",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 181,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191119103813-summer-zervos-december-2017-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/summer-zervos-defamation-lawsuit-donald-trump/index.html",
-      "publishedDateTime": "2021-03-30T11:13:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-biden-unveils-first-slate-of-judicial-nominees-featuring-diverse-and-history-making-selections.md",
-      "title": "Biden unveils first slate of judicial nominees featuring diverse and history-making selections",
-      "excerpt": "President Joe Biden on Tuesday unveiled a diverse slate of 11 judicial nominees, including three African American women for Circuit Court vacancies and a candidate who, if confirmed, would be the first Muslim American federal judge in US history.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z6yG8H8V__s/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z6yG8H8V__s/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 1178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210330072136-01-ketanji-brown-jackson-file-restricted-2019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nominees/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/30/politics/joe-biden-judicial-nominees/index.html",
-      "publishedDateTime": "2021-03-30T05:16:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-biden-says-90-of-adults-will-be-vaccine-eligible-in-three-weeks.md",
-      "title": "Biden says 90% of adults will be vaccine eligible in three weeks",
-      "excerpt": "President Joe Biden will announce Monday afternoon that 90% of adults will be eligible to get a coronavirus vaccine within the next three weeks, an administration official told CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rDkK8xG35qk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rDkK8xG35qk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 455,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210329131858-01-biden-remarks-0329-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/29/politics/adults-vaccine-eligible-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/adults-vaccine-eligible-biden/index.html",
-      "publishedDateTime": "2021-03-29T12:27:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-new-york-times-white-house-to-probe-trump-era-political-influence-in-government-science.md",
-      "title": "New York Times: White House to probe Trump-era 'political influence' in government science ",
-      "excerpt": "The Biden administration is planning to probe \"Trump-era political interference\" in government science in an effort to prevent abuses in the future, The New York Times reported Monday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mNdkeTb0W3k/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mNdkeTb0W3k/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210328201915-01-white-house-0328-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/29/politics/biden-administration-trump-science-political-influence/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/29/politics/biden-administration-trump-science-political-influence/index.html",
-      "publishedDateTime": "2021-03-29T10:34:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-changed-hearts-and-minds-bidens-funding-offer-shifts-medicaid-expansion-debate.md",
-      "title": "'Changed hearts and minds': Biden's funding offer shifts Medicaid expansion debate",
-      "excerpt": "It’s the stimulus funds that are really the motivation. I think it has really changed some hearts and minds in the Legislature,\" one Wyoming lawmaker said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/changed-hearts-minds-biden-s-funding-offer-shifts-medicaid-expansion-n1262229",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/changed-hearts-minds-biden-s-funding-offer-shifts-medicaid-expansion-n1262229",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_12/3460112/210326-remote-area-medical-line-florida-se-636p_c5bd1a0f39484895906f55044f4fbc2f.jpg",
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_13/3460867/210330-major-biden-dog-ac-435p_33990fb7823b6d94d4f5c4411ad7b697.jpg",
           "width": 2500,
-          "height": 1667,
+          "height": 1668,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1437,9 +1211,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262229",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262229",
-      "publishedDateTime": "2021-03-28T14:46:00-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262527",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262527",
+      "publishedDateTime": "2021-03-30T14:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",
@@ -1468,25 +1242,25 @@
       ]
     },
     {
-      "path": "_news/2021-03-28-birx-recalls-very-difficult-phone-call-from-trump-following-her-covid-19-warnings.md",
-      "title": "Birx recalls 'very difficult' phone call from Trump following her Covid-19 warnings",
-      "excerpt": "Dr. Deborah Birx revealed in a CNN documentary clip released Sunday that she received a \"very uncomfortable\" and \"very difficult\" phone call from Donald Trump after speaking publicly about the spread of Covid-19 while serving in the former President's administration.\n    \n",
+      "path": "_news/2021-03-31-court-lets-ex-apprentice-contestants-defamation-suit-vs-trump-proceed-again.md",
+      "title": "Court lets ex-'Apprentice' contestant's defamation suit vs. Trump proceed again",
+      "excerpt": "NEW YORK — Former President Donald Trump could face questioning under oath about a former “Apprentice” contestant's sexual assault allegations against him, following a ruling from New York's highest court Tuesday. Evidence-gathering has been on hold ...",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n5PTyUmOepU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n5PTyUmOepU/index.html",
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/court-lets-ex-apprentice-contestant-s-defamation-suit-vs-trump-n1262494",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/court-lets-ex-apprentice-contestant-s-defamation-suit-vs-trump-n1262494",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 169,
+      "heat": 131,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210328095131-deborah-birx-gupta-covid-doc-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_13/3460820/210330-summer-zervos-jm-1439_7f50bec42ce1680f710a53fe0880bf1c.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1494,16 +1268,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/28/politics/birx-trump-covid-very-uncomfortable-phone-call/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/28/politics/birx-trump-covid-very-uncomfortable-phone-call/index.html",
-      "publishedDateTime": "2021-03-28T08:26:24-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262494",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262494",
+      "publishedDateTime": "2021-03-30T11:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "NBC News",
+        "domain": "nbcnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1520,177 +1294,10 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-analysis-why-bidens-marijuana-stance-is-10-years-behind-the-curve.md",
-      "title": "Analysis: Why Biden's marijuana stance is 10 years behind the curve",
-      "excerpt": "President Joe Biden and the federal government are behind the times on marijuana reform.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SXwIj_180RE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SXwIj_180RE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210325160346-biden-press-conference-0325-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/28/politics/biden-marijuana-policy-analysis/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/28/politics/biden-marijuana-policy-analysis/index.html",
-      "publishedDateTime": "2021-03-28T05:03:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-former-trump-chief-of-staff-calls-ex-presidents-capitol-riot-claims-manifestly-false.md",
-      "title": "Former Trump chief of staff calls ex-President's Capitol riot claims 'manifestly false'",
-      "excerpt": "The former chief of staff to ex-President Donald Trump on Saturday pushed back against his former boss' recent attempt to whitewash the history of the January 6 Capitol riot.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_q1kIhujd4Q/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_q1kIhujd4Q/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210327183851-mick-mulvaney-january-6-riot-trump-comments-intv-nr-vpx-00001330-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/27/politics/mick-mulvaney-trump-january-6-riot/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/27/politics/mick-mulvaney-trump-january-6-riot/index.html",
-      "publishedDateTime": "2021-03-27T17:19:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-maine-gop-rejects-censure-of-sen-susan-collins-after-her-vote-to-convict-trump.md",
-      "title": "Maine GOP rejects censure of Sen. Susan Collins after her vote to convict Trump",
-      "excerpt": "The Maine Republican Party's state committee on Saturday rejected a censure measure against Sen. Susan Collins, following her vote earlier this year to convict former President Donald Trump in his Senate impeachment trial.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PUnzNcONxoY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PUnzNcONxoY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210327143212-susan-collins-0224-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/27/politics/maine-gop-votes-against-censure-susan-collins/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/27/politics/maine-gop-votes-against-censure-susan-collins/index.html",
-      "publishedDateTime": "2021-03-27T12:34:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
+        "Donald Trump",
         "Democratic Voice"
       ]
     }
   ],
-  "nextPage": 4
+  "nextPage": null
 }

@@ -31,53 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Ivanka Trump's women's empowerment program slammed in government report"
-    excerpt: "Former President Donald Trump's eldest daughter and adviser, Ivanka Trump, helped promote the policy program and ushered the bill through Congress. The US Agency for International Development oversaw the implementation of the initiative and was mandated to ..."
-    publishedDateTime: 2021-04-02T01:36:00Z
-    webUrl: "https://www.businessinsider.com/ivanka-trumps-womens-empowerment-program-slammed-in-government-report-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/ivanka-trumps-womens-empowerment-program-slammed-in-government-report-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ivanka-trumps-womens-empowerment-program-slammed-in-government-report-2021-4?amp"
+  - title: "Conservative writer says Trump's Save America PAC is hurting his supporters"
+    excerpt: "Pedro Gonzalez, assistant editor of the conservative website American Greatness, told Hill.TV that former President Trump Donald Trump Lawmakers say fixing border crisis is Biden's job Trump calls ..."
+    publishedDateTime: 2021-04-04T16:00:00Z
+    webUrl: "https://thehill.com/hilltv/rising/546185-conservative-writer-says-trumps-save-america-pac-is-hurting-his-supporters"
+    ampWebUrl: "https://thehill.com/hilltv/rising/546185-conservative-writer-says-trumps-save-america-pac-is-hurting-his-supporters?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/546185-conservative-writer-says-trumps-save-america-pac-is-hurting-his-supporters?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_110120getty_memo.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Creator of a scam PAC that targeted Trump supporters has been charged with defrauding the Paycheck Protection Program"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Federal prosecutors have charged the creator of a political action committee that scammed donors by purporting to be supporting President Donald Trump's reelection with wire fraud for defrauding the Paycheck ..."
+    publishedDateTime: 2021-04-09T16:55:00Z
+    webUrl: "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/creator-pro-trump-scam-pac-charged-with-ppp-fraud-prosecutors-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 125
+    quality: 102
     images:
-      - url: "https://i.insider.com/606648fe52f11d0019431b6b?width=1200&format=jpeg"
+      - url: "https://i.insider.com/607078514943790018bb1a15?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Value judgment: Donald Trump tumbles down billionaires’ rankings"
-    excerpt: "Today, we learn that Donald Trump got richer, too, but was left trailing by his billionaire mates. Poor guy. According to the yearly update of Forbes’ billionaires list, Donald Trump’s standing among other billionaires has plummeted almost 300 places ..."
-    publishedDateTime: 2021-04-06T16:47:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes"
+  - title: "After Bitter Trump Years, Palestinians 'Thank America' Again"
+    excerpt: "In Al-Jalazun refugee camp, Mohammad Zaid on Thursday expressed a sentiment not heard from Palestinians during Donald Trump's presidency: gratitude towards the US, even if for some it's too little, too late. Zaid, 49, told AFP that on visits to the clinic ..."
+    publishedDateTime: 2021-04-08T14:40:00Z
+    webUrl: "https://www.ibtimes.com/after-bitter-trump-years-palestinians-thank-america-again-3177276"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
     images:
-      - url: "https://i.guim.co.uk/img/media/a7bb74a5147066fcabe5dcab29348d277436ea83/0_342_5120_3074/master/5120.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a0ddb6768f8c58f6251933c2d295ea8b"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "The Supreme Court dismissed as moot a First Amendment case over Trump blocking his critics on Twitter"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% The Supreme Court in a Monday morning ruling dismissed as moot a case over former President Donald Trump blocking Twitter users who criticized him. The Supreme Court vacated a ruling from the Court of Appeals for ..."
-    publishedDateTime: 2021-04-05T15:10:00Z
-    webUrl: "https://www.businessinsider.com/supreme-court-dismisses-case-over-trump-blocking-critics-on-twitter-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/supreme-court-dismisses-case-over-trump-blocking-critics-on-twitter-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-dismisses-case-over-trump-blocking-critics-on-twitter-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5fa4b12af7d1cb0019e3a22d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/08/unrwa-workers-clean-a-street-at-rafah-refugee.jpg"
+        width: 1024
+        height: 667
         isCached: true
 
 secured: "ys5SnHLXF5jh4aBnouifj4qciOqYGoIT/nhOS6b8Db00GkcoNGgrRHLPnzz/iG6gHOLEcMd6E+aPhfyeFcwuSoXF4vUYEXXnk+6g2VlGaNc4h9V4kuNBCTPB+APVhPD+UdhjMWIEMKoyal0aoAuYsoow/x21HlyMLUfmaViyV6t7in+k5+4E4zzBkvi2Ipx39SJfFQ2gSU4F9KGaI++sVrrEJJOB1IHVGJCgHe9fg7ckqbmjixT1P4k7JS9HiGJ/9P2w/nlhhsSOwR/wQZx/YuNyHSfosIyytPR5b0uWYiUmaDzM91bUNR/a/RpV/7/ZCUpLXK7sd+nazUjyeZzIKykaBWUCwdZ9Opg/94tRbvAshHduAi1CwPpbZR0kFSWaIyU9LyNblosyBbtlyWpIGmb4vbXvSkLm+gg3+SeTUtig74D7c/SRlXliqV+FHQ25R3DF4zfQvD+lEY2cmuaHQLUTqr6M8STMeAOUhj+WDB9PqtoOO7jS1PiEFtcPSqEVL8ff3G3GG4ZokJksTrFvlg==;tC+2oCHS8eoZT6yNKxL7pw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/04/22/trump-gives-thumbs-up-on-posts-push-fo
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/22/trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine/amp/"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Trump loses bid to get out of testifying in protester lawsuit"
+    excerpt: "Former President Donald Trump can’t get out of testifying in a lawsuit brought by a group of protesters — since he’s no longer in office, an appeals court ruled Tuesday. Trump"
+    publishedDateTime: 2021-04-27T20:40:00Z
+    webUrl: "https://nypost.com/2021/04/27/trump-loses-bid-to-get-out-of-testifying-in-protester-lawsuit/"
+    ampWebUrl: "https://nypost.com/2021/04/27/trump-loses-bid-to-get-out-of-testifying-in-protester-lawsuit/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/27/trump-loses-bid-to-get-out-of-testifying-in-protester-lawsuit/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-lawsuit.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "IRWSJ3ivjvcgtGi4JKoMhM42siKzOhs9ThfSZCt+Sl6RU2IRsZMwZwEenpoc+8nllY4OIFz4duJFk3RRGa/YJ2tSWIJ9JmZpUNLw1+yfqqHKAQrcbH4qiPqnY5tU58V6svkBx8b+tfOB8kIFZhCtnmcHrbWgPBxhrnbYlfUTb06DliPuv6jZTqgIIG6eR6pLdNMy42gOZ3Z5n+rQak8JElZrp1hqeI+4aLK2KbI8hQozK+kx5y1ifK2jtR+3PdySgcA+JYok38Pi2v4AQi9TSp/rpFwDPdnR1G7rf94Z1M+kIU7PU8JInYd5RI/KwikBqg1ixmDImhkmN0Fzu7ZVxjj5amcMWkKYhZQEIgVyayjD3Cos5CUDiPQsZTxnMYho8eHT/q/NRja3JbUn2oEYIYHVq00MFnjij/HKs53lfWAMDdbZTt2MDYeZjQt2J46vfER/jS5ekNPXsHVagRp2TB7ifwqcuIVgiZrRtbmY5jDSYg6zDaURYHsQaNIkcltZCDvu4I7NTCmthcYIuRt5RA==;rJq2Ul1W7kuiPU9zESXoTA=="
 ---

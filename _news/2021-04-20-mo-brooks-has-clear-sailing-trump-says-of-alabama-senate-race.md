@@ -9,8 +9,8 @@ ampWebUrl: "https://www.al.com/news/2021/04/mo-brooks-has-clear-sailing-trump-sa
 cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/mo-brooks-has-clear-sailing-trump-says-of-alabama-senate-race.html?outputType=amp"
 type: article
 quality: 75
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: al.com
@@ -25,6 +25,56 @@ images:
     width: 3366
     height: 2326
     isCached: true
+
+related:
+  - title: "Lara Trump is wild card in North Carolina Senate race"
+    excerpt: "Former President Trump’s daughter-in-law Lara Trump is looming over the Republican Senate primary in North Carolina as the field grows with some of the state’s biggest GOP names."
+    publishedDateTime: 2021-04-22T10:00:00Z
+    webUrl: "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race"
+    ampWebUrl: "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumplara_082620getty_camp.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Democrats move to reinstate methane rules loosened by Trump"
+    excerpt: "Congressional Democrats are moving to reinstate regulations designed to limit potent greenhouse gas emissions from oil and gas fields"
+    publishedDateTime: 2021-04-28T03:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/democrats-move-to-reinstate-methane-rules-loosened-by-trump/2021/04/28/4e64a9a4-a7d8-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/democrats-move-to-reinstate-methane-rules-loosened-by-trump/2021/04/28/4e64a9a4-a7d8-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/democrats-move-to-reinstate-methane-rules-loosened-by-trump/2021/04/28/4e64a9a4-a7d8-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J6YEKLFH2YI6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1176
+        height: 784
+        isCached: true
+  - title: "Former WWE wrestler, Trump administration officials and congressman's widow are among 23 candidates in Texas House race"
+    excerpt: "The crowded May race, with 23 candidates, could give Republicans an early look at Trump's staying power in the GOP."
+    publishedDateTime: 2021-04-20T16:43:00Z
+    webUrl: "https://www.cbsnews.com/news/texas-6th-district-special-election-candidates/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/texas-6th-district-special-election-candidates/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/texas-6th-district-special-election-candidates/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 101
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/06/224bf0c0-acf8-4eeb-a673-9440534ef418/thumbnail/1200x630/ebddaf808d5ce6944492d7092389d273/gettyimages-1133282164.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "jnSd9yIsJMO49nwGuJE6b9xoUaHHo5DkgzCUiPu7uMushOGYxTmgl3XU0fa87iZ6hBCqnJTDobvVdRDezowBdxcRDKEeWRdVfDNwwx9yItLQYYRbfDAngGR/eWO7/UHxTichpqGawRpezppU2RlLvDKGZKhMrzAfUzKPQZYA2Ry6TovjV2TpRkYtjT2w0fnIkkHDtWHdsIWE+4+nyq2UGzz0we/yq/Y8JdW1W0gEI+Wz+c2ahujHE/Cf1YI0AQoyU/imjeKk4q8CH/+HzjZ5UMPmQyeY9VU5T1cSh6/c4vEcHJJLJbBCRrgjodvIQcBwtwRj5JkxcyA4c5IPF5hSLkfjRx1eXkDvQ0yemXkK09AxHHyToTkBBTYDcNwXS0VeSRgAJWfaoN0riHsIn4gpG2A8YXXMoLvsb0+knzky1CGxi7//nnC2x7BQuG7BBidAOz8UzAISi6i35WFTH3TmQs9r3VjYXEiNCAgEQdiVwtddGzBCfeWOXlydbbhFu8kOUV0Sn81/xXa5K2ETyFQQKw==;pjHJaw8lpwUV8HzeieVI3A=="
 ---

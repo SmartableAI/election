@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/trump-era-growth-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/trump-era-growth-settlement-growth-begun-77061171"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 145
+published: true
 
 provider:
   name: ABCNews
@@ -31,53 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Report: Israeli settler population surged during Trump era"
-    excerpt: "A pro-settler group says Israel’s West Bank settler population has grown at a far higher rate than the country as a whole over the last four years"
-    publishedDateTime: 2021-01-27T10:25:00Z
-    webUrl: "https://www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/middle_east/report-israeli-settler-population-surged-during-trump-era/2021/01/27/411f2bde-6089-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Factbox: Five Republicans to watch during Trump's impeachment trial"
-    excerpt: "Former President Donald Trump is the first U.S. president to be impeached twice - and will be the first to face trial after leaving office."
-    publishedDateTime: 2021-02-01T11:35:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-senators-factbo-idUSKBN2A1284"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A1284"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A1284"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210201&t=2&i=1549830808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH101B7"
-        width: 901
-        height: 545
-        isCached: true
-  - title: "Tim Kaine to Drop Attempt at Censuring Donald Trump Over Lack of Support"
-    excerpt: "Senator Kaine said his bipartisan censure resolution, an alternative to the impeachment trial, does not have enough support from either the Democrats or Republicans."
-    publishedDateTime: 2021-02-02T18:31:00Z
-    webUrl: "https://www.newsweek.com/tim-kaine-drop-attempt-censuring-donald-trump-over-lack-support-1566231"
-    ampWebUrl: "https://www.newsweek.com/tim-kaine-drop-attempt-censuring-donald-trump-over-lack-support-1566231?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tim-kaine-drop-attempt-censuring-donald-trump-over-lack-support-1566231?amp=1"
+  - title: "Michael Flynn, Lin Wood and Mike Lindell Pose in Front of 'Path to Trump' Board"
+    excerpt: "The board was designed to document Trump's intricate web of associates and supporters with hopes of communicating conspiracy theories to the former president."
+    publishedDateTime: 2021-04-19T13:27:00Z
+    webUrl: "https://www.newsweek.com/michael-flynn-lin-wood-mike-lindell-pose-front-path-trump-board-1584648"
+    ampWebUrl: "https://www.newsweek.com/michael-flynn-lin-wood-mike-lindell-pose-front-path-trump-board-1584648?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/michael-flynn-lin-wood-mike-lindell-pose-front-path-trump-board-1584648?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 124
+    quality: 121
     images:
-      - url: "https://d.newsweek.com/en/full/1722918/tim-kaine.jpg"
-        width: 594
-        height: 396
+      - url: "https://d.newsweek.com/en/full/1779799/michael-flynn-speaks-during-protest.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "vyMQdq3YpnvGx93zoDuZvwUFnXQ3UcL38ehqjRfwtF/FbrGS8ecRlhosOjq1rCpCCTGnNuCmYpYQiB4CbY6IYoLRtYx3r7BtjukMZeVNhWevQ61WbW6+Em9caMEuisoTnB0dqYYBUmt5E1gde+IQUCCVYyzParr7sgygxJA12K6Dx0twyUf9MAcE4pMdqWECzSAFrogT31sFdbH7NL2NZIQgSavcDevBwLy4wvy81L8jnt8Efz/97c4ZjbDRjPT2tjNhdGQS2iEiyTBZ3zxKD5398WeT35oB+/TBJShHuRtifwogz8GFB7RUCqKE3/oYQAZcY6642ZuzwossG/1k7sfTG9Fw2zd6q6mayyd2pQ1iD61B97sr/3b7d5bCg8/FJSz2kB/EuwFJpLhBvWLP4f6BeT1lou0q5FHE9LUnCZqQlVG3Nl6qGqYv86zQOVGBHoGi9faP3JhgsGbKedpFtngQr+iVePm/8ywJ/4rKK5a4Y6wTqSZ2rUd+WoCFs78Biloim6jKSF3rWu7EggHaCA==;Rp6ppAaiVUrt/cLI7s020A=="
