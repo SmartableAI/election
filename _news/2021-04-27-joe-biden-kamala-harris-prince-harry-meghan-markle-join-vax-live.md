@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Vice President Kamala Harris is in NC. How to watch her speech."
-excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan. Harris’s plane landed at 10:30 a."
-publishedDateTime: 2021-04-19T13:56:00Z
-originalUrl: "https://www.heraldsun.com/news/politics-government/article250530439.html"
-webUrl: "https://www.heraldsun.com/news/politics-government/article250530439.html"
-ampWebUrl: "https://amp.heraldsun.com/news/politics-government/article250530439.html"
-cdnAmpWebUrl: "https://amp-heraldsun-com.cdn.ampproject.org/c/s/amp.heraldsun.com/news/politics-government/article250530439.html"
+title: "Joe Biden, Kamala Harris, Prince Harry, Meghan Markle join 'Vax Live'"
+excerpt: "President Joe Biden, first lady Dr. Jill Biden, Vice President Kamala Harris, Prince Harry, Meghan Markle and more have been added to Global Citizens' upcoming \"Vax Live\" event."
+publishedDateTime: 2021-04-27T14:14:00Z
+originalUrl: "https://www.upi.com/Entertainment_News/2021/04/27/Joe-Biden-Jill-Biden-Kamala-Harris-Prince-Harry-Meghan-Markle-Vax-Live/1191619530385/"
+webUrl: "https://www.upi.com/Entertainment_News/2021/04/27/Joe-Biden-Jill-Biden-Kamala-Harris-Prince-Harry-Meghan-Markle-Vax-Live/1191619530385/"
+ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2021/04/27/Joe-Biden-Jill-Biden-Kamala-Harris-Prince-Harry-Meghan-Markle-Vax-Live/1191619530385/"
+cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2021/04/27/Joe-Biden-Jill-Biden-Kamala-Harris-Prince-Harry-Meghan-Markle-Vax-Live/1191619530385/"
 type: article
-quality: 75
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: The Herald-Sun
-  domain: heraldsun.com
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/7d2f4318-041d-45c9-912e-de9066b0c035/eca2373c-9360-4972-b4c1-05cb59189b19/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://cdnph.upi.com/sv/ph/og/upi/1191619530385/2021/1/c3ee542b191655b27e185f65f93773a7/v1.5/Joe-Biden-Kamala-Harris-Prince-Harry-Meghan-Markle-join-Vax-Live.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -484,22 +484,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Joe Biden, Kamala Harris, Prince Harry, Meghan Markle join 'Vax Live'"
-    excerpt: "President Joe Biden, first lady Dr. Jill Biden, Vice President Kamala Harris, Prince Harry, Meghan Markle and more have been added to Global Citizens' upcoming \"Vax Live\" event."
-    publishedDateTime: 2021-04-27T14:14:00Z
-    webUrl: "https://www.upi.com/Entertainment_News/2021/04/27/Joe-Biden-Jill-Biden-Kamala-Harris-Prince-Harry-Meghan-Markle-Vax-Live/1191619530385/"
-    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2021/04/27/Joe-Biden-Jill-Biden-Kamala-Harris-Prince-Harry-Meghan-Markle-Vax-Live/1191619530385/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2021/04/27/Joe-Biden-Jill-Biden-Kamala-Harris-Prince-Harry-Meghan-Markle-Vax-Live/1191619530385/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 90
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/1191619530385/2021/1/c3ee542b191655b27e185f65f93773a7/v1.5/Joe-Biden-Kamala-Harris-Prince-Harry-Meghan-Markle-join-Vax-Live.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
     excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"
     publishedDateTime: 2021-04-21T22:37:00Z
@@ -625,6 +609,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Vice President Kamala Harris is in NC. How to watch her speech."
+    excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan. Harris’s plane landed at 10:30 a."
+    publishedDateTime: 2021-04-19T13:56:00Z
+    webUrl: "https://www.heraldsun.com/news/politics-government/article250530439.html"
+    ampWebUrl: "https://amp.heraldsun.com/news/politics-government/article250530439.html"
+    cdnAmpWebUrl: "https://amp-heraldsun-com.cdn.ampproject.org/c/s/amp.heraldsun.com/news/politics-government/article250530439.html"
+    type: article
+    provider:
+      name: The Herald-Sun
+      domain: heraldsun.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/7d2f4318-041d-45c9-912e-de9066b0c035/eca2373c-9360-4972-b4c1-05cb59189b19/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Joe Biden’s Climate Denialism"
     excerpt: "NRPLUS MEMBER ARTICLE I n anticipation of Thursday’s virtual Leaders Summit on Climate, a two-day global gathering of more than 40, President Joe Biden declared that the United States had a “moral imperative” to adopt an “ambitious” goal of cutting greenhouse-gas emissions by 50 percent in nine years and 100 percent in 29 years."
@@ -900,6 +900,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "+7KZpb3WesH2zBK2/9ly3w0gwNbdX3DiAhEUHiP+tM+PBELopHM2FGE2MDuxKenBUc5xnKlZlKToNGj0MgSOF8xX39nXgV39mh5gBTRN41gT6ximxeVGxv7Vgv1TB70mqOMVe7csD5QbO/tKQMf+LLqNTsuRcicZeOF2+5IHJ9YQYC1B2RI9Xj2bYgCS981YOsymdFW0OHG7tcM2aVVIRFx/PPSf5+5f0YbxRELOLZcG0YQAcUAtAiXyNWMk2NDUju8GypdOZG0R69bXdORnh1TX+2UvppK0k2bgAyRmNeJuYLXCMBKFpzDJ/OtAcGeyh1g1u5mQXgkWkcpUYN/hR4MWZoBwsY1O+w89aHNDNcU=;fIWXVBYXMK9sfsfHbS9+lA=="
+secured: "5lv8PqrbL1AX3g6ePkwytyZVHvhX+JsV4T7XKBYliqTMnWrOrRrlO1O8lfJRasjAKwvNugQRBkiSSTnlLroSPyvjYD2PyzMIs+pho6IyUotfQ7ZjGIhFPlpqCDJHzl2X2ygc0204n3kH13l/Z4ADuUvHeXhpreKN1+o4pAHap0SSLACK5JTc7YcskbXhvb+WplIt72Yq2GgEsRrCAzVpGoD7+nRxmUnytqudxXqpAU9ih+SEJBlNC28r91535+fYk2cF8S0tFX3W/1U051YLnRCgDwBEkG0uTPsSAR0lJoL/KL63clcrhPSSgEVMb6uOUFdMOXouFCHVssMPQjOcoGCHaz5MmqTHn0Cy1GdVO1M=;LFICHGNgGlZ+xQLAxzWHMg=="
 ---
 

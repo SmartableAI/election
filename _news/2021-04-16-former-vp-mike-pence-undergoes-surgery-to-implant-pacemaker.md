@@ -59,6 +59,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Former Vice President Mike Pence receives pacemaker, is recovering after surgery"
+    excerpt: "Former Vice President Mike Pence is recovering after pacemaker surgery after reportedly experience \"symptoms associated with a slow heart rate.\""
+    publishedDateTime: 2021-04-15T19:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/15/mike-pence-recovering-heart-surgery-pacemaker/7241810002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7241810002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7241810002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/7fbd5fcf-96e3-4ef2-ac04-0d8213dabe73-01202021_Pence_GH_005.jpg?auto=webp&crop=4036,2271,x0,y206&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Former Vice President Mike Pence has pacemaker installed"
     excerpt: "Former Vice President Mike Pence underwent a procedure to install a pacemaker this week, his office announced Thursday."
     publishedDateTime: 2021-04-15T22:08:00Z

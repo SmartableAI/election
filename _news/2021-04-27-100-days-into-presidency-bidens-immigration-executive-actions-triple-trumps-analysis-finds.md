@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Pence hits Dems over border crisis, touts Trump's success stemming illegal immigration"
-excerpt: "Former Vice President Mike Pence on Wednesday hit President Biden and Democrats for the escalating crisis at the southern border, while touting the Trump administration’s reduction of illegal immigration -- saying Biden inherited \"the most secure southern border in American history.\""
-publishedDateTime: 2021-04-22T21:40:10Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_Ko9a3YWaqg/pence-hits-dems-over-border-crisis-trumps-illegal-immigration"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_Ko9a3YWaqg/pence-hits-dems-over-border-crisis-trumps-illegal-immigration"
-ampWebUrl: "https://www.foxnews.com/politics/pence-hits-dems-over-border-crisis-trumps-illegal-immigration.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-hits-dems-over-border-crisis-trumps-illegal-immigration.amp"
+title: "100 days into presidency, Biden's immigration executive actions triple Trump's, analysis finds"
+excerpt: "President Biden has issued more than three times as many executive orders pertaining to immigration in his first 100 days than his Republican predecessor Donald Trump signed in during the same period,"
+publishedDateTime: 2021-04-27T10:01:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-100-days-immigration-executive-actions-vs-trump"
+webUrl: "https://www.foxnews.com/politics/biden-100-days-immigration-executive-actions-vs-trump"
+ampWebUrl: "https://www.foxnews.com/politics/biden-100-days-immigration-executive-actions-vs-trump.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-100-days-immigration-executive-actions-vs-trump.amp"
 type: article
-quality: 192
-heat: 352
-published: true
+quality: 138
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,16 +22,32 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
-  - Mike Pence
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3187e410-9dfa-479b-8233-dd28b7f7ebfd/674047aa-8ec5-40b0-b2b4-9cfb44aac92f/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fc3a524-edcf-4b7b-9e53-7d0cf1f47575/32f00be1-f3d6-44dd-b2be-3ab6435ab413/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
+  - title: "Pence hits Dems over border crisis, touts Trump's success stemming illegal immigration"
+    excerpt: "Former Vice President Mike Pence on Wednesday hit President Biden and Democrats for the escalating crisis at the southern border, while touting the Trump administration’s reduction of illegal immigration -- saying Biden inherited \"the most secure southern border in American history.\""
+    publishedDateTime: 2021-04-22T21:40:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_Ko9a3YWaqg/pence-hits-dems-over-border-crisis-trumps-illegal-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-hits-dems-over-border-crisis-trumps-illegal-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-hits-dems-over-border-crisis-trumps-illegal-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 192
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3187e410-9dfa-479b-8233-dd28b7f7ebfd/674047aa-8ec5-40b0-b2b4-9cfb44aac92f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden to assemble anti-corruption task force to take on illegal immigration"
     excerpt: "President Biden is considering creating an anti-corruption task force to address mass migration coming from Central America, a top U.S. official announced Thursday."
     publishedDateTime: 2021-04-23T01:29:25Z
@@ -112,22 +128,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "100 days into presidency, Biden's immigration executive actions triple Trump's, analysis finds"
-    excerpt: "President Biden has issued more than three times as many executive orders pertaining to immigration in his first 100 days than his Republican predecessor Donald Trump signed in during the same period,"
-    publishedDateTime: 2021-04-27T10:01:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-100-days-immigration-executive-actions-vs-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-100-days-immigration-executive-actions-vs-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-100-days-immigration-executive-actions-vs-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 138
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fc3a524-edcf-4b7b-9e53-7d0cf1f47575/32f00be1-f3d6-44dd-b2be-3ab6435ab413/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Former Trump administration official mulling GOP challenge against Cheney"
     excerpt: "Perry Pendley, who served as acting director of the Bureau of Land Management during the Trump administration, is expected on Thursday evening to give a speech in his home state of Wyoming where he'll strongly hint at launching a Republican primary challenge against embattled Rep."
     publishedDateTime: 2021-04-22T16:46:00Z
@@ -161,6 +161,6 @@ related:
         height: 800
         isCached: true
 
-secured: "HtEjFaoq/K58jj9jzucwBdwaN1GoZDzi6kfzXK+n+ur7wwOmojf+mgKi15oApnxBeldTe7aJaS4NaO5iEtxU5iVXgId8gxlok0lPAkVZbP2AIHOPPBlzkb+eT9Yv0T9OBll64pPu5IX0SXS2jwoaPUxzzRGQmtvDdl2bn2X7HLOtdnLaZfAg17BqVBAon6ytSjkWa4cqtnoZoBd06HkaDTJeNCOEkD9Gme9oOPgUBKirJduiKlzjlyHPIT+UBYQ44/ph4mNyV6ZevXlH31Y4miPjtezPQjT+BMf7b1uNmm+511FQJw3HwfOEIZEJNbnyLlbR8r5zZoTIEXlNGhZO6nxFZMKbmIBBaA96GJTftWs=;gDAgT1qIx59+7foM5Dm2/Q=="
+secured: "Y6vA/02Zjmg0Q1nw5xer+3XrKr0ubf1zT/Cgz4BQQuS9n8XAVsZnYuroyLskPQUH7J0aTPB3pAHNgMton6Me1wvDeVA8j51I6rVMvofk3xAkSt36cPRL5eNWja1x0xl2P2S9owLmvoM/xnS1lHwuO7reXDvZmC+vcQCqq+QtvwgX6aYPp3BQMbZmbOMSTdLuwWmZE4jKwzKABiEk9dMcOQUlerSY31Qh4JmIJbVNxPs/0M4v8GdX9zL4w8gT5hiSAeQUcCy/+bVL3lsLB4kWpS/pQwVzAvJ0RVqoB4OdIoMLIYl4sPI5bkpn58EcpVe80ULTOSFuaJEnhujQO4zcqH2moIBAJA6o6KJO9v5hMrc=;NFdB9Ix6hK3VBdrg9PvC+g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/energy-environment/549658-watch-live-bide
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp"
 type: article
 quality: 150
-heat: 1270
+heat: 1290
 published: true
 
 provider:
@@ -472,6 +472,22 @@ related:
       - url: "https://www.lowellsun.com/wp-content/uploads/2021/03/APTOPIX_Biden_89999-1.jpg?w=1024&h=682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Joe Biden, Kamala Harris, Prince Harry, Meghan Markle join 'Vax Live'"
+    excerpt: "President Joe Biden, first lady Dr. Jill Biden, Vice President Kamala Harris, Prince Harry, Meghan Markle and more have been added to Global Citizens' upcoming \"Vax Live\" event."
+    publishedDateTime: 2021-04-27T14:14:00Z
+    webUrl: "https://www.upi.com/Entertainment_News/2021/04/27/Joe-Biden-Jill-Biden-Kamala-Harris-Prince-Harry-Meghan-Markle-Vax-Live/1191619530385/"
+    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2021/04/27/Joe-Biden-Jill-Biden-Kamala-Harris-Prince-Harry-Meghan-Markle-Vax-Live/1191619530385/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2021/04/27/Joe-Biden-Jill-Biden-Kamala-Harris-Prince-Harry-Meghan-Markle-Vax-Live/1191619530385/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 90
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/1191619530385/2021/1/c3ee542b191655b27e185f65f93773a7/v1.5/Joe-Biden-Kamala-Harris-Prince-Harry-Meghan-Markle-join-Vax-Live.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
     excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"

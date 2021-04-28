@@ -472,6 +472,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Joe Biden, Kamala Harris, Prince Harry, Meghan Markle join 'Vax Live'"
+    excerpt: "President Joe Biden, first lady Dr. Jill Biden, Vice President Kamala Harris, Prince Harry, Meghan Markle and more have been added to Global Citizens' upcoming \"Vax Live\" event."
+    publishedDateTime: 2021-04-27T14:14:00Z
+    webUrl: "https://www.upi.com/Entertainment_News/2021/04/27/Joe-Biden-Jill-Biden-Kamala-Harris-Prince-Harry-Meghan-Markle-Vax-Live/1191619530385/"
+    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2021/04/27/Joe-Biden-Jill-Biden-Kamala-Harris-Prince-Harry-Meghan-Markle-Vax-Live/1191619530385/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2021/04/27/Joe-Biden-Jill-Biden-Kamala-Harris-Prince-Harry-Meghan-Markle-Vax-Live/1191619530385/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 90
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/1191619530385/2021/1/c3ee542b191655b27e185f65f93773a7/v1.5/Joe-Biden-Kamala-Harris-Prince-Harry-Meghan-Markle-join-Vax-Live.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
     excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"
     publishedDateTime: 2021-04-21T22:37:00Z
@@ -888,6 +904,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "Px/kgIYxRGoKT0FmUzjKWNXrbqUnYM31Q8zHSnLlVKAWGRSFMUw/TsZntRBU2dIYiga+ex267yHM1Rvn+Uujpe1j0yuQLNTgonNbjHdDhs4r9xtQAtaS8gBi6s4njeZsH18pz0OehbJcHi/rlBAKkp2hJP7uqWCqPNiXpXfj81JUJVl6yGPxDlWV58UCWYHq40qymShdvJ9/KeUB70zryDUI7iOm2+gRB/4tK6QKwhePRYhpkJ/62bAxaeRuRYDoEZ1uIFuqzCMSocDK6iYcFulXOZzXB8R260aJt+F+woAXphttz/MTNtMM4HOq9j87GzD4/5TAYfxEInOuayLhLpBMr+ccWEU6LCbhnVhyKwU=;OV8kQgPzh38tm1HzSuvGuA=="
+secured: "xOCPnb5a8RRkMXRJvf4IaRUqycDEEE/FnS4pwvifGn4z+6FyE6CoUFNdYUk1I7sSHokBV9z3K1wBhCdQm8llbAinB04+DNIdOPeZ90QDRiRTnP70Cgn0ijk4FjCwmPJUStW0M/2UAUxLxoFhZOj2vlZUJn/NM2qu6tVXwXK/VBOZ4Ks7estsrwH6IM4cWGkk2NWgld7TKA7djcSjh3or+MVZr1pKoEhjSkIDXhrTy4c9h2+UrWQ/A+9jWNyfJSgO4XbqdJINVIhEokPSGZ9UUQsyjHg/rkJ69DHWj67AL5UA32ma7QefJDj1Id6jl0wlZWOnFWZLXMCsxrERDR8IAMtd2KpaE5VMrHIiQooBcYziJsP30Y//zBobAkwGxrhFDz5rDhQTvdQfv+f/bJguEwpO2T1JXfCCU5G0pWEZaNhgSVXtYcGybq1BmXlpv6VtEFyATipkuqXDnvVt89rr5r7u/ZEb66p959fcwkTx6DM78TL0IKubCqUBA0hCXw8kelpCERLnJaTjbSKYTncL2w==;vUqjImttxbT+COYTKMmhcw=="
 ---
 

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Mike Pence undergoes surgery to have pacemaker implanted"
-excerpt: "\"The routine surgery was successful, and he is expected to fully recover and return to normal activity in the coming days,\" Pence's office said."
-publishedDateTime: 2021-04-16T11:20:00Z
-originalUrl: "https://www.cbsnews.com/news/mike-pence-pacemaker-implant-surgery/"
-webUrl: "https://www.cbsnews.com/news/mike-pence-pacemaker-implant-surgery/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/mike-pence-pacemaker-implant-surgery/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-pacemaker-implant-surgery/"
+title: "Former Vice President Mike Pence receives pacemaker, is recovering after surgery"
+excerpt: "Former Vice President Mike Pence is recovering after pacemaker surgery after reportedly experience \"symptoms associated with a slow heart rate.\""
+publishedDateTime: 2021-04-15T19:30:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/04/15/mike-pence-recovering-heart-surgery-pacemaker/7241810002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/04/15/mike-pence-recovering-heart-surgery-pacemaker/7241810002/"
+ampWebUrl: "https://amp.usatoday.com/amp/7241810002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7241810002"
 type: article
-quality: 125
-heat: 345
-published: true
+quality: 120
+heat: -1
+published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/13/3d46e6fa-c74e-41cc-be16-96e683b81c3e/thumbnail/1200x630/6416c4237a17d28bc745050913d7d613/gettyimages-1230408840.jpg"
+  - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/7fbd5fcf-96e3-4ef2-ac04-0d8213dabe73-01202021_Pence_GH_005.jpg?auto=webp&crop=4036,2271,x0,y206&format=pjpg&width=1200"
     width: 1200
-    height: 630
+    height: 675
     isCached: true
 
 related:
+  - title: "Mike Pence undergoes surgery to have pacemaker implanted"
+    excerpt: "\"The routine surgery was successful, and he is expected to fully recover and return to normal activity in the coming days,\" Pence's office said."
+    publishedDateTime: 2021-04-16T11:20:00Z
+    webUrl: "https://www.cbsnews.com/news/mike-pence-pacemaker-implant-surgery/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/mike-pence-pacemaker-implant-surgery/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-pacemaker-implant-surgery/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/13/3d46e6fa-c74e-41cc-be16-96e683b81c3e/thumbnail/1200x630/6416c4237a17d28bc745050913d7d613/gettyimages-1230408840.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pacemakers Explained As Mike Pence Has Heart Procedure To Implant Device"
     excerpt: "The former vice president's medical history includes a diagnosis of a heart condition known as left bundle branch block."
     publishedDateTime: 2021-04-16T12:58:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1778960/mike-pence-joe-bidens-inauguration.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Former Vice President Mike Pence receives pacemaker, is recovering after surgery"
-    excerpt: "Former Vice President Mike Pence is recovering after pacemaker surgery after reportedly experience \"symptoms associated with a slow heart rate.\""
-    publishedDateTime: 2021-04-15T19:30:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/15/mike-pence-recovering-heart-surgery-pacemaker/7241810002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7241810002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7241810002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/7fbd5fcf-96e3-4ef2-ac04-0d8213dabe73-01202021_Pence_GH_005.jpg?auto=webp&crop=4036,2271,x0,y206&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Former Vice President Mike Pence has pacemaker installed"
     excerpt: "Former Vice President Mike Pence underwent a procedure to install a pacemaker this week, his office announced Thursday."
@@ -202,6 +202,6 @@ related:
         height: 800
         isCached: true
 
-secured: "z6+kes7VDYU6uwlcch7NqB1Yyq5o8OTKZEsyZAuwT06DDvaeoH0hHtCTCtypbcgPulfgIrsMXshZr7UdWob81u+n7nx+HdXL9hJ2IGZETTtD3hIFg7/0s1dUMn4gTcZaAWTX8/8DkWWCiix/Wr/mVTITPw/jsJtSkG58COqsdtYRZpMdJo7L2GiPWoDEHw7KMqREWJZI11aQESH5b44u58mIcmzq2SMtRIqUZmrqOUaaN2iPvKq6YuGgYJ08Y9Z8A6hHr9tG90oc6B+fPjswCTj1ZSyRyEe4eOT45H95VQM1qSKCIIXQzsDtCcvqFmroRoXdGjaCne5JdiOA5H7Z2Crix/PARD2dE6mTaqNH4YGZYOY1r79kWMASOV6w0Qrb0QHhbb5U6IxCbRNS3IP800xSjp5SAYsh1/j4PTrHmZ9VXFTmmVdy8P0WuCWHc5e9gbgginqSQG5DZkdhQ6JySiUYpV7ZgUcdPY6+z6avX2pecAO5cVVg+8btFT2eR98D5adHuTzJdljs1Fj1hpdxlA==;I+4oZD0K+ep0oVZMy8feqw=="
+secured: "t1VBw1LZB3+R29rtJ7DqrMH2fWN9sc7SrTjmhMlL0ZMhdHTp5TQzz60SS2lWMjuR/sL46EsFwqhosZAU+X81gLGrmbViBzCUpzrtJcYraX3g29Lz5hRaThlxEHUC+P3sxJF5z8ccsBclPP0PUUAeaX40VTQ2ElOPUXp3KRaf5NG/1sBw6qckxgR0jxy/3ozLcDL9hOKz0ZO2JhbQKqpEjCKrLvrecj5h2ppOeRbvWrdV6RP1qdw05WBNimDb24Xl0Rpdi9dLcdr8CIFnLvrOnG4+xjXh9SApsXAtqzkRV49ingBWzGJaukH3In/durpPTDfWAr9pThMi5m/+Sg4hoT6z4PHCzdfq0a1TRKf/J/c=;YGXkQsymv2bP+Rt+QUyj1A=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to propose free preschool, as speech details emerge"
+    excerpt: "President Joe Biden will call for free preschool for all three- and four-year-old children as part of his American Families Plan"
+    publishedDateTime: 2021-04-28T04:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-propose-free-preschool-speech-details-emerge-77359818"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-propose-free-preschool-speech-details-emerge-77359818"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-propose-free-preschool-speech-details-emerge-77359818"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_46dccf9bbab04bf48a8603ee063bc032_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden raises minimum wage to $15 an hour for federal contractors"
     excerpt: "President signed an executive order that will provide a pay bump to thousands of workers, some who make as little as $10.95 an hour"
     publishedDateTime: 2021-04-27T23:10:00Z

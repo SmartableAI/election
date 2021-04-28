@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Joe Biden raises minimum wage to $15 an hour for federal contractors"
-excerpt: "President signed an executive order that will provide a pay bump to thousands of workers, some who make as little as $10.95 an hour"
-publishedDateTime: 2021-04-27T23:10:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/apr/27/joe-biden-minimum-wage-raise-federal-contractors"
-webUrl: "https://www.theguardian.com/us-news/2021/apr/27/joe-biden-minimum-wage-raise-federal-contractors"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/27/joe-biden-minimum-wage-raise-federal-contractors"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/27/joe-biden-minimum-wage-raise-federal-contractors"
+title: "Biden to propose free preschool, as speech details emerge"
+excerpt: "President Joe Biden will call for free preschool for all three- and four-year-old children as part of his American Families Plan"
+publishedDateTime: 2021-04-28T04:21:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-propose-free-preschool-speech-details-emerge-77359818"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-propose-free-preschool-speech-details-emerge-77359818"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-propose-free-preschool-speech-details-emerge-77359818"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-propose-free-preschool-speech-details-emerge-77359818"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/a4a9f1cfc7e18030a47033c96025932d63f24223/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4370a6b535660a7964baab66405bc61e"
-    width: 600
-    height: 360
+  - url: "https://s.abcnews.com/images/Politics/WireAP_46dccf9bbab04bf48a8603ee063bc032_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -63,21 +63,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden to propose free preschool, as speech details emerge"
-    excerpt: "President Joe Biden will call for free preschool for all three- and four-year-old children as part of his American Families Plan"
-    publishedDateTime: 2021-04-28T04:21:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-propose-free-preschool-speech-details-emerge-77359818"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-propose-free-preschool-speech-details-emerge-77359818"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-propose-free-preschool-speech-details-emerge-77359818"
+  - title: "Joe Biden raises minimum wage to $15 an hour for federal contractors"
+    excerpt: "President signed an executive order that will provide a pay bump to thousands of workers, some who make as little as $10.95 an hour"
+    publishedDateTime: 2021-04-27T23:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/27/joe-biden-minimum-wage-raise-federal-contractors"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/27/joe-biden-minimum-wage-raise-federal-contractors"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/27/joe-biden-minimum-wage-raise-federal-contractors"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_46dccf9bbab04bf48a8603ee063bc032_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.guim.co.uk/img/media/a4a9f1cfc7e18030a47033c96025932d63f24223/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4370a6b535660a7964baab66405bc61e"
+        width: 600
+        height: 360
         isCached: true
   - title: "Power companies urge Biden to implement policies to cut emissions 80% by 2030"
     excerpt: "A group of U.S. electricity companies wrote to President Joe Biden this week saying it will work with his administration and Congress to design a broad set of policies to reach a near-term goal of slashing the sector's carbon emissions by 2030."
@@ -110,6 +110,6 @@ related:
         height: 630
         isCached: true
 
-secured: "8XR+8gXPKIKZA2LQLX0yBAMktqiVg62DqBrA/wXXGG/SraFkVp7NLhF6L7uN9nB2GDmEr3N1ncO75u/X/rnK7rH0gMPDBYNMA0mYB9m7kPgc9ld1zAcFBp1P413yNiKsj79LGkeXOue2nhCVa+VdQzb5RJbu8VUYjnFtQDWnmw50GXevstkG7srNTUdE1tDL1IMXWkvLRIejq6ZuIQoDwC1t1MrhsmDjWYNjONr4VqbSlfehJsvCrfu0VhzB6oD6S21HF7O/zEkZsbW31+UZL2YycTjTrmpE03WSciLBsu4q2+gyU9jUqB+7FWVoxdtniCV00/STR6dLDHnErKwxNxWHmAPxLbl9qkJHdoST9wLV58HH5ydFr7o0R1iWeF000d8lMI/PrA4xUokDw1M/rjVCj8jnz3vxwIVBCcCvL5yJiE955CWwheajrwneuVim9fxbFrzuh6RtSvvfAW1hgcXyMgIU3LH8VgWTTIXSA2cGOryd9f9iVHLO0wKUCG5XwS/12gk4JcVDHbSY8wl5lw==;uBZNBIVkZ8mwY7Z5IWH4bA=="
+secured: "TNLWv9L6RMIIRxyV0O8KV1HKYiJwUdvDz4v1d2Dig7ynb8o6aabDX9jhGV86Fn469nWIQkTLTODdxxpZSUFF/F9sZkuNHKVv1Cdk08YcdeeD7gbaBuNlBeefYLBMQPM8C8UjGYYBUfRjkRahFdILCEuK179wJlpxFH3MVjoywG8Ta3X5D33QLjQM/HJTIaexNH1+HrMkOZKDjb0R0eWN6/pb1sK4xx2f75uQT5R6mtIB6jFqbylq9ACNcbQtxFBeh5c93wFXKD2cnzfHLlQ1OL8GpNxWzKIoqQuEZgbP1WdPhaHK9ZwM0HHc16M57SXCW1DDEWdlwkc/9uk/AMtJzDYUhIG38L/yPgRe6dEcf/U=;0bgGE1PW5sG2jG/V5T+NaQ=="
 ---
 

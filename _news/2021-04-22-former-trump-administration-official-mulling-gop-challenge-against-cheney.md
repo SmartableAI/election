@@ -128,6 +128,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "100 days into presidency, Biden's immigration executive actions triple Trump's, analysis finds"
+    excerpt: "President Biden has issued more than three times as many executive orders pertaining to immigration in his first 100 days than his Republican predecessor Donald Trump signed in during the same period,"
+    publishedDateTime: 2021-04-27T10:01:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-100-days-immigration-executive-actions-vs-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-100-days-immigration-executive-actions-vs-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-100-days-immigration-executive-actions-vs-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fc3a524-edcf-4b7b-9e53-7d0cf1f47575/32f00be1-f3d6-44dd-b2be-3ab6435ab413/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "U.S. sues Trump ally Roger Stone, alleging he owes about $2 million in unpaid taxes"
     excerpt: "The U.S. Department of Justice on Friday sued Roger Stone, saying the close ally of former President Donald Trump owes about $2 million in unpaid federal income taxes, according to a court"
     publishedDateTime: 2021-04-17T08:17:00Z
