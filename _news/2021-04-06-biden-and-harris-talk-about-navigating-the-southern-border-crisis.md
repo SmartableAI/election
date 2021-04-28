@@ -484,6 +484,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Essential Politics: 100 days in, Kamala Harris quells talk of her own ambitions"
+    excerpt: "Talk that Kamala Harris would angle early on to succeed President Biden is fading, given her deferential performance and his approval numbers."
+    publishedDateTime: 2021-04-28T13:46:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-04-28/100-days-kamala-harris-biden-newsletter-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 101
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6cb28d6/2147483647/strip/true/crop/4505x3003+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F42%2F4b%2F6aa707b849dfa01b0f68645042f6%2Fap21067774442426.jpg"
+        width: 840
+        height: 560
+        isCached: true
   - title: "Joe Biden, Kamala Harris, Prince Harry, Meghan Markle join 'Vax Live'"
     excerpt: "President Joe Biden, first lady Dr. Jill Biden, Vice President Kamala Harris, Prince Harry, Meghan Markle and more have been added to Global Citizens' upcoming \"Vax Live\" event."
     publishedDateTime: 2021-04-27T14:14:00Z

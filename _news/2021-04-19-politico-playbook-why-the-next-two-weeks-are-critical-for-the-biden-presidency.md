@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Why Biden's speech to Congress is technically not a State of the Union address"
+    excerpt: "President Joe Biden will deliver his first address to a joint session of Congress on Wednesday night, but since this is his first address, it's not technically called a \"State of the Union\" speech. It is an \"annual message.\"\n    \n"
+    publishedDateTime: 2021-04-28T13:04:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1eorYz_POW8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/not-a-state-of-the-union-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/not-a-state-of-the-union-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427174620-us-capitol-0427-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "iVCmLmn9hEJbrqcJe0FPUSSWOzveUDdilmzkw1m4Q5Uf1PEuX8BbZ+d0p/iW0Gt0FPnizSoreDjUsparTFGttPJ/ODPkRztTstqM5RW/8SL9O+YlJ/Np1azQhhRIrkAlt2VcZLJeOANFmm3WdEPF0J1oHjXDSQ1tKSLBhbGdDvhn0VKfNwh5AiQj50MkNJF68rd5hGvbb7uTMnaZHoV2zr5VxHU8CRq7tWfqKMUDYhGwvupv+yWR1LfNu5OLdsmgtFftBZiFCWADQpi7JScsA/OaXlpvyAdcgFNzmhlWFhDSRcF+1FSvmKdBA3QRTv6VCs9CckxsMeofwcV5I5qiEvW0rFsU+6vnDUMYocIHueQWwXnUF5rY9OCWCzSJnX1h0v5pfmxjuKf1Bzc5GrvlBRHzyae1nOXjbRWjIx+knwP49KoFcSABFKbO3aN+DPFOo3kcz9uSXATu8UYDI0TFk9SFuHgpdmfLBAZAAcWoh7BOn9NLrMeDVSEzeDY5MJX4TvJoSlNwz/AOo4pIkJiehg==;qnPQQLIW2XtBczsYrIrSqQ=="
 ---
