@@ -109,6 +109,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden to push trillions in investment, plead for police reform in Congress speech"
+    excerpt: "U.S. President Joe Biden plans to unveil a sweeping $1.8 trillion package for families and education in his first joint speech to Congress on Wednesday, as he stresses the need to invest to compete with China,"
+    publishedDateTime: 2021-04-28T13:01:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idUSKBN2CF116"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CF116"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CF116"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210428&t=2&i=1560198883&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3R0GV"
+        width: 794
+        height: 545
+        isCached: true
   - title: "'Existential crisis of our time': Joe Biden pledges to halve US emissions by 2030 – video"
     excerpt: "The goal, unveiled at the start of a two-day climate summit hosted by President Joe Biden, comes as the United States seeks to reclaim global leadership in the fight against global warming after former president Donald Trump withdrew the country from international efforts to cut emissions."
     publishedDateTime: 2021-04-22T12:50:00Z

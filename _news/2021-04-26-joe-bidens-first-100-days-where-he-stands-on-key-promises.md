@@ -107,6 +107,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden to push trillions in investment, plead for police reform in Congress speech"
+    excerpt: "U.S. President Joe Biden plans to unveil a sweeping $1.8 trillion package for families and education in his first joint speech to Congress on Wednesday, as he stresses the need to invest to compete with China,"
+    publishedDateTime: 2021-04-28T13:01:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idUSKBN2CF116"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CF116"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CF116"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210428&t=2&i=1560198883&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3R0GV"
+        width: 794
+        height: 545
+        isCached: true
   - title: "How Capital Gains Are Taxed and What Biden Wants to Do Now"
     excerpt: "Capital gains taxes are the price of making a good investment. They’re levied on profitable stock trades and real estate deals and also can apply to sales of businesses, pieces of art, collectible cars,"
     publishedDateTime: 2021-04-28T08:15:00Z

@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden hammered by border lawsuits in first 100 days as GOP state AGs take 'aggressive' approach"
+    excerpt: "Republican state attorneys general are taking an aggressive approach to suing the Biden administration for its southern border policies."
+    publishedDateTime: 2021-04-28T14:22:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UStkFmpsLvo/biden-immigration-suits-states-arizona-mark-brnovich-republicans"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-suits-states-arizona-mark-brnovich-republicans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-suits-states-arizona-mark-brnovich-republicans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15720e17-baee-4a97-b21d-8a0a34cc5ec1/b51c05bd-8c94-4815-9b5c-dae5c0ef3d73/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "Cz9gVaT7qTLaEZtJpPlcyktZJlvaGM48LaZT5Uhp+7b/nWYWNgZyq+EQrIWgtqiP0kdIsi7zvrdE+gdEfjC4FuuQzlhghcXlsV4ukiLqsKx+NCV2N2hLcJkN6qxONnRJRNEAsSxCt6rHdpw8vE6EW6oYOcgDHxlaXNMUk4+jCelXUcUJ9qSj9W15h3eJMRMmUwxHQ0l5760zE1YFoqba+hQZHUTDZEGFrBI+zo2DmzTK+wzNEq7BSaSAFNZiX5aN0Y1V5qgZNyarE5hp62LWF6nAU/xegyIUKkQ/wuXKL+Hn7kugMCpOtvV2B1i+PzWbY7gn+JkwarbUJa3JAGAnAgu7bO6ZfHpqUKCaphr+p4M=;r91KAMqSDIM4DT4QxWXENg=="
 ---

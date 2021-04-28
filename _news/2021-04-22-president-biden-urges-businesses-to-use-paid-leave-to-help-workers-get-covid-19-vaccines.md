@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Senate panel approves Biden nominees to Postal Service board"
+    excerpt: "A Senate committee has approved President Joe Biden’s three nominees to the U.S. Postal Service’s governing board"
+    publishedDateTime: 2021-04-28T14:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senate-panel-approves-biden-nominees-to-postal-service-board/2021/04/28/485f4520-a835-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senate-panel-approves-biden-nominees-to-postal-service-board/2021/04/28/485f4520-a835-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-panel-approves-biden-nominees-to-postal-service-board/2021/04/28/485f4520-a835-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "US President Joe Biden to visit UK for first overseas trip"
     excerpt: "The president will come to Cornwall for the G7 summit from 11-13 June, where he will meet with other world leaders, including Prime Minister Boris Johnson."
     publishedDateTime: 2021-04-24T11:33:00Z

@@ -47,22 +47,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Democrats move to reinstate methane rules loosened by Trump"
-    excerpt: "Congressional Democrats are moving to reinstate regulations designed to limit potent greenhouse gas emissions from oil and gas fields"
-    publishedDateTime: 2021-04-28T03:15:00Z
-    webUrl: "https://www.washingtonpost.com/politics/democrats-move-to-reinstate-methane-rules-loosened-by-trump/2021/04/28/4e64a9a4-a7d8-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/democrats-move-to-reinstate-methane-rules-loosened-by-trump/2021/04/28/4e64a9a4-a7d8-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/democrats-move-to-reinstate-methane-rules-loosened-by-trump/2021/04/28/4e64a9a4-a7d8-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J6YEKLFH2YI6XKFHL5C53TPTMQ.jpg&w=1440"
-        width: 1176
-        height: 784
-        isCached: true
   - title: "Mo Brooks ‘has clear sailing,’ Trump says of Alabama Senate race"
     excerpt: "Former President Donald Trump lauded Alabama Congressman Mo Brooks on Monday, predicting an easy victory for the Republican in the state’s U.S. Senate race next year. The comments come on the heels of Trump formally endorsing Brooks in the Senate race."
     publishedDateTime: 2021-04-20T16:09:00Z

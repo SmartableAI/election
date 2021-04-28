@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/west-virginia-ag-threatens-lawsuit-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/west-virginia-ag-threatens-lawsuit-against-biden-climate-plan.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden hammered by border lawsuits in first 100 days as GOP state AGs take 'aggressive' approach"
+    excerpt: "Republican state attorneys general are taking an aggressive approach to suing the Biden administration for its southern border policies."
+    publishedDateTime: 2021-04-28T14:22:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UStkFmpsLvo/biden-immigration-suits-states-arizona-mark-brnovich-republicans"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-suits-states-arizona-mark-brnovich-republicans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-suits-states-arizona-mark-brnovich-republicans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15720e17-baee-4a97-b21d-8a0a34cc5ec1/b51c05bd-8c94-4815-9b5c-dae5c0ef3d73/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "4IqY46VXyiaoubuqcJb3b4cnb2zD4VnBXf9RGwj/YNw95Fl961iBZlSDNl0DgRyy3p0J+5zcCPEhMOdRRFvDJ3AZmbpCZ53Ta/ErhxbPPvo/V6sKr5OX3UsCAoinXuCTk7PUzzi/0WLlr1uEor50pItB1ThqLnzItHQ+Nyj5150SE8qeSl5Lwx/k6f6JbxdNP2KPpKXOWeMqC+y1OZayv9L72yIAa6M+cUBEWRrlpYzy+dWhtwf9PkQfUlaKZ8gXQxb+ggs2rj1WS+XT4cbgupvAA0oWX9CL+VpNZyzRFSNVIqqbUIpHWjU6JRV+F3+cWw4fW7PFjzlhE6Nr2zp3VG9LKQQTDixF1vqMu4Lumvo=;2NhIPDApuSFEhISyghUndQ=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/tim-scott-republican-response-biden
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tim-scott-republican-response-biden-south-carolina.amp"
 type: article
 quality: 170
-heat: 190
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "20 Republican AGs oppose 'alarming' court-packing efforts in letter to Biden, congressional leaders"
-    excerpt: "Florida Attorney General Ashley Moody and 19 other Republican state attorneys general sent a letter to President Biden and congressional leaders opposing efforts to alter the makeup of the Supreme Court."
-    publishedDateTime: 2021-04-22T17:59:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yveOH163qDA/20-republican-ags-oppose-alarming-court-packing-efforts-in-letter-to-biden-congressional-leaders"
-    ampWebUrl: "https://www.foxnews.com/politics/20-republican-ags-oppose-alarming-court-packing-efforts-in-letter-to-biden-congressional-leaders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/20-republican-ags-oppose-alarming-court-packing-efforts-in-letter-to-biden-congressional-leaders.amp"
+  - title: "Sen. Joni Ernst to lead GOP 'prebuttal' to Biden's joint address to Congress"
+    excerpt: "EXCLUSIVE: Sen. Joni Ernst, the vice chair of the Senate GOP conference, will lead a \"prebuttal\" Wednesday afternoon to President Biden's joint address to Congress. "
+    publishedDateTime: 2021-04-28T15:29:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4eI7VbZ6h-8/joni-ernst-gop-prebuttal-biden-joint-address-congress"
+    ampWebUrl: "https://www.foxnews.com/politics/joni-ernst-gop-prebuttal-biden-joint-address-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joni-ernst-gop-prebuttal-biden-joint-address-congress.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

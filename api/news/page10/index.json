@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-04-10-truth-will-prevail-matt-gaetz-takes-break-from-scandal-to-speak-at-trump-club.md",
+      "title": "‘Truth will prevail’: Matt Gaetz takes break from scandal to speak at Trump club",
+      "excerpt": "Women for America First helped stage a rally near the White House on 6 January where Donald Trump told supporters to fight to overturn his election defeat. A crowd attacked and breached the US Capitol. Five people died, including a police officer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/da0361692602303bd56482725aff0035c926bd36/0_88_5166_3100/master/5166.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6086a62db396c12b20bdfa14f23aabbf",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first",
+      "publishedDateTime": "2021-04-10T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-matt-gaetz-shows-donald-trumps-defiant-style-is-here-to-stay.md",
       "title": "Matt Gaetz shows Donald Trump's defiant style is here to stay ",
       "excerpt": "In a fiery defense of his reputation Friday night, embattled Florida Rep. Matt Gaetz showed how former President Donald Trump's brash, defiant politics now serve as the template for survival for the most unwelcome figures in a Republican Party that's out of power in Washington and desperately trying",
@@ -1296,58 +1348,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-the-earth-holds-so-much-power-deb-haaland-visits-sacred-site-trump-shrank.md",
-      "title": "‘The earth holds so much power’: Deb Haaland visits sacred site Trump shrank",
-      "excerpt": "Photograph: Rick Bowmer/AP The interior secretary, Deb Haaland, paid a historic visit on Thursday to Bears Ears national monument, the Utah site sacred to Native Americans that was downsized by President Donald Trump. Haaland is a member of the Laguna ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/08/deb-haaland-bears-ears-national-monument",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/08/deb-haaland-bears-ears-national-monument",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c081fe5915e7b5f4b9590e9b737d83b3a89b07f3/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a7154eb957ef61d7f99d2d9cbb511f48",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/08/deb-haaland-bears-ears-national-monument",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/08/deb-haaland-bears-ears-national-monument",
-      "publishedDateTime": "2021-04-08T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

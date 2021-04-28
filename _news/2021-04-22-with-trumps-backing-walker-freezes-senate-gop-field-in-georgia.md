@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/22/politics/georgia-senate-race-2022
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/georgia-senate-race-2022-herschel-walker-donald-trump/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://static.politico.com/ac/2c/745efc2e4e32bc85d4f4f72f916c/ap21103646740883.jpg"
         width: 4371
         height: 2912
+        isCached: true
+  - title: "Democrats move to reinstate methane rules loosened by Trump"
+    excerpt: "Democrats and environmentalists called the methane rollback one of the Trump administration’s most egregious actions to deregulate U.S. businesses."
+    publishedDateTime: 2021-04-28T14:12:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/democrats-move-reinstate-methane-rules-loosened-trump-n1265640"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265640"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265640"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/201908/n_tur_levine_190829_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump's fight with Murkowski roils GOP with new Alaska Senate challenger emerging"
     excerpt: "The first major GOP rift in the post-Trump era centers on Alaska Sen. Lisa Murkowski, the maverick Republican who has the strong backing of GOP leaders in Washington but has been targeted for defeat by former President Donald Trump and his closest confidantes over her vote to convict him for inciting the January 6 attack on the US Capitol."

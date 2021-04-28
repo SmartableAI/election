@@ -397,6 +397,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Republicans falsely claim Biden wants to restrict meat in climate crisis fight"
+    excerpt: "Unfounded claims do not reflect president’s proposals to tackle global heating, which make no mention of meat consumption"
+    publishedDateTime: 2021-04-28T06:02:00Z
+    webUrl: "https://www.theguardian.com/environment/2021/apr/28/joe-biden-climate-crisis-republicans-meat"
+    ampWebUrl: "https://amp.theguardian.com/environment/2021/apr/28/joe-biden-climate-crisis-republicans-meat"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2021/apr/28/joe-biden-climate-crisis-republicans-meat"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/eb9f6fd18d9c6455f235dc49b596474f5f6c8d9a/0_326_6016_3609/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cd99cb5161106bccc674ad4c39147ea3"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Greta Thunberg testifies before Congress as Biden kicks off climate summit – live"
     excerpt: "House subcommittee holds hearing on fossil fuels with climate activist as Biden says at summit: ‘No nation can solve this crisis on our own’"
     publishedDateTime: 2021-04-22T14:36:00Z
@@ -908,6 +924,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "New York Post reporter who wrote false Kamala Harris story resigns"
+    excerpt: "The rise and collapse of the tabloid’s false accusations about the vice president illustrated the speed at which political misinformation can be weaponized in the modern media environment. The New York Post later issued brief corrections."
+    publishedDateTime: 2021-04-28T13:42:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/new-york-post-reporter-who-wrote-false-kamala-harris-story-resigns/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/new-york-post-reporter-who-wrote-false-kamala-harris-story-resigns/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/new-york-post-reporter-who-wrote-false-kamala-harris-story-resigns/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
   - title: "Vice President Kamala Harris Meets With Guatemalan Ambassador"
     excerpt: "U.S. Vice President Kamala Harris speaks during a virtual roundtable with representatives from Guatemalan community-based organizations in the Eisenhower Executive Office Building in Washington, DC on Tuesday,"
     publishedDateTime: 2021-04-27T23:42:00Z
@@ -950,6 +977,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "Ci89583JoBdnzcIJR1q6p3jEfea8t3a/F5mG/g27iWs8bTNHCvTVVXHsQKbb9puebdHYYCRiLPA87CFetumCvUbH6aWFww84i2WOJy6D9j8GVbgHA7VN8A2OcHLyUp3Ja8bDiEDRc23hCVDOGj58lNAM+VUhP71kE2wswivLIMvkjvx+BMl/8o02SvrrYLaN0s0cIoplIpTfRrm7kYbXczoHdHlsl7jeWKQSovvhbUCdCqSI7YmTph21pPfOIdaGBhPpVHaQ8qiUqPRNJlLlVyTLFh0tePh5B+1cIDUqNbiaDeN/ZEfcaWWT8bWs8HCO2hp9jgmIlsaBLUUA8Atri8llL4XAk5dLBCm2VoQKpxc=;/H+eAnPOnhEycHTGHR9eMA=="
+secured: "cOfHLWT66EyDkQ6mO/2lnQBJztssKNIt/RMr7hFolwDtz7KPkUVe7wrrcbFdF+95MMEJ2CQjClFzYNQcDpwzzsSjnaVTY//7rW8+km+OHd5+61gHJGAGok0J74WrR+QSa8WeEoYQtr2YgD1aQqEr3A+iaXcMVt9NJ636sd+5eO63JvctLkU8RPvRC/TimYdFFOewo1+X4EtBD4oR+wIBJ0km8f0mRtgf1Gv1HlsMlJhxKGHJJSFz+lhQ4/oJNaeBxAmuGvfILjALeeQo9b1SLmf48aXWrL9Lt1R3Fpcva1IPwacvumdAYu4+YhSTuAKfUyV0DrMw+fKevLSDZr0iK2MWTMfd+2RD+phsrT66tUJmzQqaXWqREBNZ+XjIIwoydVDm6E2rXh2SAJBzNXCy60es88MfWPF41WMgMX1FByvMSUt7ZZRVD5R329b8aTMbCmj/GqjQ/peXIkqkcEZhLbD5jpkxJJiFOPkWPxHpNBiJMe2g16g3oipTBR7QyQEtXxLePPZAjsZM6Z0s7/QtIA==;fGhVAYGyIGTVAVaPPX7kHA=="
 ---
 

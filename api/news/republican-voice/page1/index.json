@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-28-tim-scott-what-to-know-about-republican-senator-giving-rebuttal-to-biden-address.md",
-      "title": "Tim Scott: What to know about Republican senator giving rebuttal to Biden address",
-      "excerpt": "Sen. Tim Scott is the junior senator from South Carolina and a rising star in the GOP.",
+      "path": "_news/2021-04-28-sen-joni-ernst-to-lead-gop-prebuttal-to-bidens-joint-address-to-congress.md",
+      "title": "Sen. Joni Ernst to lead GOP 'prebuttal' to Biden's joint address to Congress",
+      "excerpt": "EXCLUSIVE: Sen. Joni Ernst, the vice chair of the Senate GOP conference, will lead a \"prebuttal\" Wednesday afternoon to President Biden's joint address to Congress. ",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GGq1oP7Fhy0/tim-scott-republican-response-biden-south-carolina",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GGq1oP7Fhy0/tim-scott-republican-response-biden-south-carolina",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4eI7VbZ6h-8/joni-ernst-gop-prebuttal-biden-joint-address-congress",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4eI7VbZ6h-8/joni-ernst-gop-prebuttal-biden-joint-address-congress",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 190,
+      "heat": 192,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11d83ee5-42e6-407a-a1ef-acb760a3c006/507e6206-8997-45de-9473-acc27728bd4a/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tim-scott-republican-response-biden-south-carolina.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tim-scott-republican-response-biden-south-carolina.amp",
-      "publishedDateTime": "2021-04-28T03:12:19-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/joni-ernst-gop-prebuttal-biden-joint-address-congress.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joni-ernst-gop-prebuttal-biden-joint-address-congress.amp",
+      "publishedDateTime": "2021-04-28T08:29:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-biden-energy-dept-nominee-praises-green-new-deal-calls-for-industry-transformation-in-new-book.md",
+      "title": "Biden Energy Dept. nominee praises Green New Deal, calls for industry 'transformation' in new book",
+      "excerpt": "President Biden's pick for an Energy Department leadership position has a new book in which she supports the Green New Deal and calls for a \"power revolution\" that would transform how the energy industry functions for the sake of combating socioeconomic inequality.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9jQ02TB1WuM/biden-energy-nominee-shalanda-baker-green-new-deal-power-revolution",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9jQ02TB1WuM/biden-energy-nominee-shalanda-baker-green-new-deal-power-revolution",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-energy-nominee-shalanda-baker-green-new-deal-power-revolution.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-energy-nominee-shalanda-baker-green-new-deal-power-revolution.amp",
+      "publishedDateTime": "2021-04-28T07:36:22-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -665,7 +721,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1165,7 +1221,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 169,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1566,63 +1622,6 @@
       "ampWebUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.amp",
       "publishedDateTime": "2021-04-21T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-leo-terrell-biden-democrats-reaction-to-chauvin-verdict-shows-you-cannot-satisfy-these-extremists.md",
-      "title": "Leo Terrell: Biden, Democrats' reaction to Chauvin verdict shows 'you cannot satisfy these extremists'",
-      "excerpt": "President Biden and his Democratic allies still want to make the Derek Chauvin trial about race relations in America, civil rights attorney Leo Terrell told \"Hannity\" Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/leo-terrell-biden-democrats-derek-chauvin-verdict-reaction",
-      "originalUrl": "https://www.foxnews.com/media/leo-terrell-biden-democrats-derek-chauvin-verdict-reaction",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cfe28a21-906e-4e25-9720-ebf56691b38f/90f018af-b1c6-4255-9893-7731659fef9d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/leo-terrell-biden-democrats-derek-chauvin-verdict-reaction.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/leo-terrell-biden-democrats-derek-chauvin-verdict-reaction.amp",
-      "publishedDateTime": "2021-04-20T19:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

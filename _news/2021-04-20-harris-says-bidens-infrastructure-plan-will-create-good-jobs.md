@@ -318,22 +318,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "New York Post Reporter Who Wrote False Kamala Harris Story Resigns"
-    excerpt: "The front-page article in the Murdoch tabloid claimed that copies of a children’s book by the vice president were given to migrant children as part of a “welcome kit.”"
-    publishedDateTime: 2021-04-28T01:30:00Z
-    webUrl: "https://www.nytimes.com/2021/04/27/business/media/new-york-post-kamala-harris.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/27/business/media/new-york-post-kamala-harris.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/27/business/media/new-york-post-kamala-harris.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/27/us/27nypost-new/27nypost-new-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Biden to call for peaceful protests in response to Chauvin guilty on all counts verdict"
     excerpt: "President Joe Biden is expected to speak in response to Derek Chauvin being convicted on all counts, in the death of George Floyd. Biden will call for peaceful protests and marches in the coming days."
     publishedDateTime: 2021-04-20T21:38:00Z
