@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Senate Dems push Biden to ramp up refugee admissions dramatically"
+    excerpt: "A coalition of more than 30 Senate Democrats is pressuring President Biden to substantially increase the number of refugees admitted into the United States this year and next."
+    publishedDateTime: 2021-04-28T19:55:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bdeaYdMUUws/senate-dems-push-biden-to-ramp-up-refugee-admissions-dramatically"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-dems-push-biden-to-ramp-up-refugee-admissions-dramatically.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-dems-push-biden-to-ramp-up-refugee-admissions-dramatically.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e853faa-a6ad-4373-aa37-527339efec9f/aa804f2c-c592-48c0-a72f-f2b282a1d485/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Cruz calls on Biden to fix gap in Texas levee that protects border towns"
     excerpt: "Sen. Ted Cruz, R-Texas, and local residents in Mission, Texas, are calling on President Biden to fix a compromised levee that protects border towns from the Rio Grande Valley – with hurricane season just weeks away."
     publishedDateTime: 2021-04-22T17:31:33Z

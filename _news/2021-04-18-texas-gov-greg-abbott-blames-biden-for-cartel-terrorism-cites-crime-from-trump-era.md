@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-t
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
 type: article
 quality: 132
-heat: 272
+heat: 252
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/607b86a2e4b0653eea185c5b-1618708130680?location=LANDSCAPE"
         width: 1200
         height: 675
-        isCached: true
-  - title: "What's Next For NASA? Biden's Nominee Recommits To Trump's Moon Landing Timeline"
-    excerpt: "President Joe Biden’s pick to lead NASA recommitted to Donald Trump’s ambitious moon-landing timeline at his confirmation hearings. Former Sen. Bill Nelson, D-Fla., told Congress on Wednesday that he’s still committed to putting the U."
-    publishedDateTime: 2021-04-21T20:13:00Z
-    webUrl: "https://www.ibtimes.com/whats-next-nasa-bidens-nominee-recommits-trumps-moon-landing-timeline-3185346"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 65
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/19/bill-nelson-d-fl-speaks-during-a-press.jpg"
-        width: 1024
-        height: 685
         isCached: true
   - title: "Biden Plays Golf For First Time As President, Months After Trump Played His First Round As POTUS"
     excerpt: "In 2014, while he was vice-president, Biden joked that running for president could potentially hurt his golf game. “If you want to keep your handicap in golf don’t run for pre"

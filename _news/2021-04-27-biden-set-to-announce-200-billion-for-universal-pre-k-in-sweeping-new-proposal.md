@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says China is betting the US can't keep up with autocracy"
+    excerpt: "President Joe Biden said Wednesday he views the challenges ahead of the country as a question of whether democracy can succeed in the 21st century.\n    \n"
+    publishedDateTime: 2021-04-28T19:48:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BvVf6jlcJFg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/china-us-democracy-autocracy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/china-us-democracy-autocracy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427232328-joe-biden-0427-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's first 100 days: What he's gotten done"
     excerpt: "President Joe Biden has moved fast since his January 20 swearing-in, signing a $1.9 trillion Covid relief bill into law less than two months into his term and issuing more executive orders so far than his three predecessors.\n    \n"
     publishedDateTime: 2021-04-28T04:14:50Z

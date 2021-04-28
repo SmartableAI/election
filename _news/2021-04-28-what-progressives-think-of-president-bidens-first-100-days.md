@@ -351,6 +351,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Watching from afar, Congress will make or break Biden agenda"
+    excerpt: "The most striking part of President Joe Biden’s address to Congress may be the absence of most members of Congress"
+    publishedDateTime: 2021-04-28T18:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/watching-from-afar-congress-will-make-or-break-biden-agenda/2021/04/28/cc6cfba8-a855-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/watching-from-afar-congress-will-make-or-break-biden-agenda/2021/04/28/cc6cfba8-a855-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/watching-from-afar-congress-will-make-or-break-biden-agenda/2021/04/28/cc6cfba8-a855-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ERACQBFHBUI6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 973
+        isCached: true
   - title: "No vice president has broken more Senate ties as early as Kamala Harris has"
     excerpt: "During the eight years that Joe Biden served as vice president to Barack Obama, he never cast a tiebreaking vote in the Senate. For eight years, Biden was just at the other end of Pennsylvania Avenue,"
     publishedDateTime: 2021-04-22T20:46:00Z
@@ -739,6 +755,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/5/db/5dbdd1d6-a487-11eb-9b67-47d8e827e73c/5e947240e0f52.image.jpg?resize=1024%2C695"
         width: 1024
         height: 695
+        isCached: true
+  - title: "VP Kamala Harris to visit Baltimore on Biden administration’s 100th day, tout COVID relief, recovery"
+    excerpt: "Democratic Vice President Kamala Harris is expected to visit Baltimore the day after President Joe Biden makes his first joint address to Congress."
+    publishedDateTime: 2021-04-28T20:00:00Z
+    webUrl: "https://www.baltimoresun.com/politics/bs-md-pol-kamala-harris-baltimore-trip-20210428-qpbzafspfjexrammxykrbv4is4-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/politics/bs-md-pol-kamala-harris-baltimore-trip-20210428-qpbzafspfjexrammxykrbv4is4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-md-pol-kamala-harris-baltimore-trip-20210428-qpbzafspfjexrammxykrbv4is4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 75
+    images:
+      - url: "https://www.baltimoresun.com/resizer/q-eMBQKp4K4D9uqhrC6Tktzy2SM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4XPWGYHAKGDFMQEVOHHYOJM7SU.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Vice President Kamala Harris to visit Baltimore next week to mark Biden administration’s first 100 days"
     excerpt: "Vice President Kamala Harris will visit Baltimore next week to mark an early milestone for the Biden-Harris administration, according to the White House."

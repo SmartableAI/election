@@ -31,21 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "GOP White House hopefuls move forward as Trump considers run"
-    excerpt: "Donald Trump ended his presidency with such a firm grip on Republican voters that party leaders fretted he would freeze the field of potential 2024 candidates and delay their preparations as he consid"
-    publishedDateTime: 2021-04-18T13:35:00Z
-    webUrl: "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+  - title: "Biden to keep intelligence inspector general Trump appointed"
+    excerpt: "President Joe Biden intends to keep the inspector general overseeing the U.S. intelligence community who was appointed by former President Donald Trump"
+    publishedDateTime: 2021-04-28T18:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-keep-intelligence-inspector-general-trump-appointed/2021/04/28/908bb602-a859-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-keep-intelligence-inspector-general-trump-appointed/2021/04/28/908bb602-a859-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-keep-intelligence-inspector-general-trump-appointed/2021/04/28/908bb602-a859-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RJTVN6VILEI6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump ally Sid Miller sues over Biden farm aid program, saying it discriminates against whites"
+    excerpt: "Texas agriculture official Sid Miller files suit over a U.S. farm program that directs aid to nonwhite farmers and ranchers."
+    publishedDateTime: 2021-04-27T21:36:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/27/texas-agriculture-commissioner-sid-miller-sues-void-farm-program-discrimination/4862183001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4862183001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4862183001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 128
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/9b8802257ca609b0e2d5aed109e4086be5ed8fbe/c=0-0-750-422/local/-/media/2020/11/20/Austin/ghows-TX-200709103-e59b1b81.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "As economy spikes, Republicans are still waiting for the ‘Biden depression’ that Trump predicted"
+    excerpt: "Throughout last year’s campaign, President Donald Trump issued a series of increasingly dark predictions about what would happen if Joe Biden were elected. “If he gets in, you will have a depression the likes of which you’ve never seen."
+    publishedDateTime: 2021-04-22T20:36:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/04/22/trump-biden-economy-depression/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/04/22/trump-biden-economy-depression/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/04/22/trump-biden-economy-depression/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 127
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KNUSWAEX2QI6XDYKGOCM6T5TTE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden seeks to slash carbon emissions in half by 2030"
+    excerpt: "President Biden on Thursday announced a new goal on greenhouse gas emissions -- calling on the U.S., by 2030, to slash emissions by 50-52%."
+    publishedDateTime: 2021-04-22T18:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-seeks-slash-carbon-emissions-half-2030/story?id=77228372"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-seeks-slash-carbon-emissions-half-2030/story?id=77228372"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-seeks-slash-carbon-emissions-half-2030/story?id=77228372"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/biden-ap-ml-210422_1619094447977_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "GOP attorneys general group in turmoil after Jan. 6 Trump rally"
     excerpt: "The chairman of the top outside group dedicated to electing Republican attorneys general has resigned his position in the wake of a show of force by rivals from other states, months after it supported"
@@ -63,232 +111,258 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Republican presidential hopefuls move forward as Trump considers 2024 run"
-    excerpt: "Many Republicans with national ambitions are openly laying the groundwork for presidential campaigns as Trump continues to mull his own plans."
-    publishedDateTime: 2021-04-18T12:23:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 124
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/162df09/2147483647/strip/true/crop/5326x3528+0+11/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1f%2F7c%2F6fe9b99109bdf0ab74f67cb5e881%2F364a92d584294633bd968e1d0bd93a46"
-        width: 320
-        height: 212
-        isCached: true
-  - title: "Inmates sent home amid pandemic may have to return under Trump-era policy"
-    excerpt: "Thousands of inmates deemed “low risk” who were allowed home supervision during the pandemic may have to return because of a Trump-era memo."
-    publishedDateTime: 2021-04-21T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZMY3V2EZQMI6XDYKGOCM6T5TTE.jpg&w=1440"
-        width: 1440
-        height: 1046
-        isCached: true
-  - title: "George W. Bush calls country \"divided\" under Trump and pushes immigration reform"
-    excerpt: "Former President George W. Bush, who has mostly stayed on the political sidelines after the White House, has reemerged with criticism of his Republican successor as he advocates for a sharply different immigration policy from former President Donald Trump."
-    publishedDateTime: 2021-04-22T10:40:00Z
-    webUrl: "https://www.cbsnews.com/news/immigration-reform-george-w-bush-donald-trump-criticism/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-reform-george-w-bush-donald-trump-criticism/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-reform-george-w-bush-donald-trump-criticism/"
+  - title: "Biden's first address to Congress is invite-only"
+    excerpt: "Only invited members of Congress will be allowed to attend President Biden's address to a Joint Session of Congress on Wednesday, and the event \"will be invitation-only for a limited number of members of Congress,"
+    publishedDateTime: 2021-04-24T11:07:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-speech-joint-session-congress-invite-only/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-speech-joint-session-congress-invite-only/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-speech-joint-session-congress-invite-only/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 120
+    quality: 125
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/20/845cd18c-e837-4007-b554-42f049a8e80c/thumbnail/1200x630/8e1cb01de7d35935dc1b4ae8bbdb396e/dsc00988.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/23/ab8ef0e0-16b8-48e8-b2fe-3232ed54766b/thumbnail/1200x630/24c3ca048ad637f5d5327bc25562f187/gettyimages-1232457998.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Nearly All of Trump's House GOP Impeachers Set Fundraising Records Since Capitol Riot"
-    excerpt: "All 10 of the House Republicans who voted to impeach Trump for his alleged role in the deadly January 6 Capitol riot have managed to out-fundraise their Trump-backed challengers."
-    publishedDateTime: 2021-04-17T15:05:00Z
-    webUrl: "https://www.newsweek.com/nearly-all-trumps-house-gop-impeachers-set-fundraising-records-since-capitol-riot-1584417"
-    ampWebUrl: "https://www.newsweek.com/nearly-all-trumps-house-gop-impeachers-set-fundraising-records-since-capitol-riot-1584417?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nearly-all-trumps-house-gop-impeachers-set-fundraising-records-since-capitol-riot-1584417?amp=1"
+  - title: "Biden to propose free preschool, as speech details emerge"
+    excerpt: "President Joe Biden will call for free preschool for all three- and four-year-old children as part of his American Families Plan"
+    publishedDateTime: 2021-04-28T04:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-propose-free-preschool-speech-details-emerge-77359818"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-propose-free-preschool-speech-details-emerge-77359818"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-propose-free-preschool-speech-details-emerge-77359818"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1779383/liz-cheney-ten-house-republicans.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s.abcnews.com/images/Politics/WireAP_46dccf9bbab04bf48a8603ee063bc032_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Republican 2024 presidential hopefuls are making early moves as Trump mulls another run"
-    excerpt: "Many Republicans with national ambitions are openly laying the groundwork for campaigns as former President Donald Trump continues to mull his own plans."
-    publishedDateTime: 2021-04-18T12:45:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html?outputType=amp"
+  - title: "Joe Biden raises minimum wage to $15 an hour for federal contractors"
+    excerpt: "President signed an executive order that will provide a pay bump to thousands of workers, some who make as little as $10.95 an hour"
+    publishedDateTime: 2021-04-27T23:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/27/joe-biden-minimum-wage-raise-federal-contractors"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/27/joe-biden-minimum-wage-raise-federal-contractors"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/27/joe-biden-minimum-wage-raise-federal-contractors"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 117
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/gd3AqHNByj1GNIHftltpXcoVWo8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7XBRM22IRCJVPCE2CQTKRTSG4.aspx"
+      - url: "https://i.guim.co.uk/img/media/a4a9f1cfc7e18030a47033c96025932d63f24223/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4370a6b535660a7964baab66405bc61e"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Senate panel approves Biden nominees to Postal Service board"
+    excerpt: "A Senate committee has approved President Joe Biden’s three nominees to the U.S. Postal Service's governing board"
+    publishedDateTime: 2021-04-28T15:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/senate-panel-approves-biden-nominees-postal-service-board-77367304"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/senate-panel-approves-biden-nominees-postal-service-board-77367304"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/senate-panel-approves-biden-nominees-postal-service-board-77367304"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "US Catholic bishops may press Biden to stop taking Communion"
+    excerpt: "When U.S. Catholic bishops hold their next national meeting in June, they’ll be deciding whether to send a tougher-than-ever message to President Joe Biden and other Catholic politicians"
+    publishedDateTime: 2021-04-28T14:59:00Z
+    webUrl: "https://www.washingtonpost.com/politics/us-catholic-bishops-may-press-biden-to-stop-taking-communion/2021/04/28/ae4f802a-a83a-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/us-catholic-bishops-may-press-biden-to-stop-taking-communion/2021/04/28/ae4f802a-a83a-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/us-catholic-bishops-may-press-biden-to-stop-taking-communion/2021/04/28/ae4f802a-a83a-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PLOODGFIFII6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "What to expect from President Biden's address to Congress"
+    excerpt: "President Biden will give his first address to a joint session of Congress tonight. CBS News political contributor Antjuan Seawright and former White House aide to President George H.W. Bush Joe Watkins joined CBSN with a look at what we can expect."
+    publishedDateTime: 2021-04-28T17:32:00Z
+    webUrl: "https://www.cbsnews.com/video/what-to-expect-from-president-bidens-address-to-congress/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/what-to-expect-from-president-bidens-address-to-congress/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/what-to-expect-from-president-bidens-address-to-congress/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/28/108a0afb-48fc-47f6-ac85-cedccb5f8e81/thumbnail/1200x630/79ae958beb214ae983cb253b3488f365/0428-cbsn-fqg-bidenaddresscongress-702977-640x360.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "RNC Chairwoman Ronna McDaniel comes under pressure to show more independence from Trump"
-    excerpt: "Some party committee members want the GOP to create some distance from the former president — or at least grapple with the fact that Republicans lost the White House, Senate and House during his administration."
-    publishedDateTime: 2021-04-17T23:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 117
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AKZT7DTBVMI6XILXO5S7FGUVEQ.jpg&w=1440"
-        width: 1440
-        height: 1080
-        isCached: true
-  - title: "Will Donald Trump Run Again? Ex-President Backs New Donor Group, Accuses Arizona Democrats"
-    excerpt: "Donald Trump is still the 2024 candidate of choice for many self-identified Republican voters, according to recent polling."
-    publishedDateTime: 2021-04-24T07:54:00Z
-    webUrl: "https://www.newsweek.com/will-donald-trump-run-again-ex-president-backs-new-donor-group-accuses-arizona-democrats-1586166"
-    ampWebUrl: "https://www.newsweek.com/will-donald-trump-run-again-ex-president-backs-new-donor-group-accuses-arizona-democrats-1586166?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/will-donald-trump-run-again-ex-president-backs-new-donor-group-accuses-arizona-democrats-1586166?amp=1"
+  - title: "Proposal to Rename State Park for Donald Trump Panned by Ohio State Agency"
+    excerpt: "A proposal to rename an Ohio state park for former President Donald Trump is not supported by Ohio's Department of Natural Resources as the agency defended the park's current name, Mosquito Creek Lake."
+    publishedDateTime: 2021-04-22T15:00:00Z
+    webUrl: "https://www.newsweek.com/proposal-rename-state-park-donald-trump-panned-ohio-state-agency-1585713"
+    ampWebUrl: "https://www.newsweek.com/proposal-rename-state-park-donald-trump-panned-ohio-state-agency-1585713?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/proposal-rename-state-park-donald-trump-panned-ohio-state-agency-1585713?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 115
+    quality: 123
     images:
-      - url: "https://d.newsweek.com/en/full/1782493/former-president-donald-trump-cpac.jpg"
+      - url: "https://d.newsweek.com/en/full/1781713/former-us-president-donald-trump.jpg"
         width: 3000
-        height: 2000
+        height: 1945
         isCached: true
-  - title: "The fading GOP establishment moves to support Cheney as Trump attacks and McCarthy keep his distance"
-    excerpt: "Instead of becoming the first female Republican House speaker — a more difficult task now that she has so many internal enemies — Liz Cheney’s legacy might be defined by her success or failure in steering the party back to its conservative foundation."
-    publishedDateTime: 2021-04-24T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/powerpost/cheney-trump-mccarthy-orlando/2021/04/23/0b41df94-a3a4-11eb-85fc-06664ff4489d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/powerpost/cheney-trump-mccarthy-orlando/2021/04/23/0b41df94-a3a4-11eb-85fc-06664ff4489d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/cheney-trump-mccarthy-orlando/2021/04/23/0b41df94-a3a4-11eb-85fc-06664ff4489d_story.html?outputType=amp"
+  - title: "GOP senators unveil $568 billion counteroffer to Biden's infrastructure plan"
+    excerpt: "Republican senators unveiled their counteroffer to President Biden's infrastructure proposal on Thursday, presenting a $568 billion framework that is significantly smaller than the president's $2 trillion plan."
+    publishedDateTime: 2021-04-23T17:18:00Z
+    webUrl: "https://www.cbsnews.com/news/republican-senators-infrastructure-counteroffer/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/republican-senators-infrastructure-counteroffer/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/republican-senators-infrastructure-counteroffer/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUWM74VCBQI6XMYUF2MTXWB6GE.jpg&w=1440"
-        width: 1440
-        height: 1007
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/22/363cae7d-cfc6-49bc-97d0-790fdb8711af/thumbnail/1200x630g2/b8e871c9faf3025e98261d67ca7e7b22/gettyimages-1231516589.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live"
-    excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
-    publishedDateTime: 2021-04-16T22:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates?page=with:block-607a0b0a8f0881c4146948ee"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
+  - title: "Biden to push trillions in investment, plead for police reform in Congress speech"
+    excerpt: "U.S. President Joe Biden plans to unveil a sweeping $1.8 trillion package for families and education in his first joint speech to Congress on Wednesday, as he stresses the need to invest to compete with China,"
+    publishedDateTime: 2021-04-28T13:01:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idUSKBN2CF116"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CF116"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CF116"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 93
-  - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – as it happened"
-    excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
-    publishedDateTime: 2021-04-16T23:47:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates?page=with:block-6079cff98f08a91092689e3a"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 88
-  - title: "This millennial GOP congressman voted to impeach Trump. Now he's trying to save his party from going off a cliff."
-    excerpt: "Republican Rep. Peter Meijer's 1st term in Congress started with a vote to impeach Trump. He's still getting plenty of flak, but he doesn't care."
-    publishedDateTime: 2021-04-24T13:36:00Z
-    webUrl: "https://www.businessinsider.com/peter-meijer-trump-impeachment-michigan-house-republican-profile-2021-4"
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210428&t=2&i=1560198883&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3R0GV"
+        width: 794
+        height: 545
+        isCached: true
+  - title: "Democrats urge Biden to stop using local police to enforce federal immigration law"
+    excerpt: "The lawmakers say the use of local law enforcement has undermined public safety by making immigrants afraid to report crimes."
+    publishedDateTime: 2021-04-22T22:06:00Z
+    webUrl: "https://www.businessinsider.com/democrats-urge-biden-stop-using-local-police-enforce-immigration-law-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/democrats-urge-biden-stop-using-local-police-enforce-immigration-law-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-urge-biden-stop-using-local-police-enforce-immigration-law-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 84
+    quality: 119
     images:
-      - url: "https://i.insider.com/60806acb4becb800190f6529?width=1200&format=jpeg"
+      - url: "https://i.insider.com/6081dbc04becb800190f6a35?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Gregg Popovich keeps heat on owners, others who support Donald Trump"
-    excerpt: "Spurs coach Gregg Popovich refused to back down Wednesday when asked about members of the franchise’s ownership group who have made financial contributions to Donald Trump and other Republican politicians who support Trump’s false claims about election fraud in 2020 and legislation critics say would suppress voter turnout among Democrats."
-    publishedDateTime: 2021-04-15T00:29:00Z
-    webUrl: "https://www.expressnews.com/sports/spurs/article/Lonnie-Walker-questions-police-reaction-to-16101583.php"
-    ampWebUrl: "https://www.expressnews.com/sports/spurs/amp/Lonnie-Walker-questions-police-reaction-to-16101583.php"
-    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/sports/spurs/amp/Lonnie-Walker-questions-police-reaction-to-16101583.php"
+  - title: "How Capital Gains Are Taxed and What Biden Wants to Do Now"
+    excerpt: "Capital gains taxes are the price of making a good investment. They’re levied on profitable stock trades and real estate deals and also can apply to sales of businesses, pieces of art, collectible cars,"
+    publishedDateTime: 2021-04-22T18:45:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-capital-gains-are-taxed-and-what-biden-wants-to-do-now/2021/04/22/875a2aa6-a399-11eb-b314-2e993bd83e31_story.html"
     type: article
     provider:
-      name: San Antonio Express-News
-      domain: expressnews.com
-    quality: 75
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
     images:
-      - url: "https://s.hdnux.com/photos/01/17/46/71/20868732/3/rawImage.jpg"
-        width: 2048
-        height: 1152
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QYXRHCVDTEI6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 1080
         isCached: true
-  - title: "GOP White House hopefuls move forward as Trump considers run"
-    excerpt: "Less than three months after former President Donald Trump left the White House, the race to succeed him atop the Republican Party is already beginning. Trump's former secretary of state, Mike Pompeo,"
-    publishedDateTime: 2021-04-20T13:39:00Z
-    webUrl: "https://www.chron.com/news/article/GOP-White-House-hopefuls-move-forward-as-Trump-16109665.php"
-    ampWebUrl: "https://www.chron.com/news/amp/GOP-White-House-hopefuls-move-forward-as-Trump-16109665.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-White-House-hopefuls-move-forward-as-Trump-16109665.php"
+  - title: "Restoring service central to Biden's postal board nominees"
+    excerpt: "President Joe Biden's of the U.S. Postal Service pledged Thursday to rebuild trust with the American public through prompt deliveries, as they outlined a vison for the agency in their first formal statements to lawmakers."
+    publishedDateTime: 2021-04-22T19:15:00Z
+    webUrl: "https://www.businessinsider.com/restoring-service-central-to-bidens-postal-board-nominees-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/restoring-service-central-to-bidens-postal-board-nominees-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/restoring-service-central-to-bidens-postal-board-nominees-2021-4?amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "How Capital Gains Are Taxed and What Biden Wants to Do Now"
+    excerpt: "Capital gains taxes are the price of making a good investment. They’re levied on profitable stock trades and real estate deals and also can apply to sales of businesses, pieces of art, collectible cars,"
+    publishedDateTime: 2021-04-28T08:15:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-capital-gains-are-taxed-and-what-biden-wants-to-do-now/2021/04/28/9638cf8e-a801-11eb-a8a7-5f45ddcdf364_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SVRTLQVIAEI6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 1080
+        isCached: true
+  - title: "Biden to push Congress for trillions in investment"
+    excerpt: "News Agency Biden to push Congress for trillions in investment. Posted . In his first address to a joint session of the U.S. Congress, President Joe Biden will press for a massive"
+    publishedDateTime: 2021-04-28T17:40:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEAFZE1R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210428&i=OVEAFZE1R&r=OVEAFZE1R&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "US President Joe Biden to visit UK for first overseas trip"
+    excerpt: "The president will come to Cornwall for the G7 summit from 11-13 June, where he will meet with other world leaders, including Prime Minister Boris Johnson."
+    publishedDateTime: 2021-04-24T11:33:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/56870420"
+    ampWebUrl: "https://www.bbc.co.uk/newsround/56870420.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/56870420.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/E0D5/production/_118175575_hi066931757.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Trump Issues Warning To GOP, Says Republicans Must Embrace His MAGA Agenda"
-    excerpt: "Donald Trump reiterated Monday that his platform was the way forward for the GOP, and those that weren't on board would face consequences."
-    publishedDateTime: 2021-04-19T21:19:00Z
-    webUrl: "https://www.ibtimes.com/trump-issues-warning-gop-says-republicans-must-embrace-his-maga-agenda-3183748"
+  - title: "What's Next For NASA? Biden's Nominee Recommits To Trump's Moon Landing Timeline"
+    excerpt: "President Joe Biden’s pick to lead NASA recommitted to Donald Trump’s ambitious moon-landing timeline at his confirmation hearings. Former Sen. Bill Nelson, D-Fla., told Congress on Wednesday that he’s still committed to putting the U."
+    publishedDateTime: 2021-04-21T20:13:00Z
+    webUrl: "https://www.ibtimes.com/whats-next-nasa-bidens-nominee-recommits-trumps-moon-landing-timeline-3185346"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 53
+    quality: 65
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/19/bill-nelson-d-fl-speaks-during-a-press.jpg"
         width: 1024
-        height: 731
+        height: 685
         isCached: true
-  - title: "Former President Donald Trump tells Fox News’ Sean Hannity that he’s ‘very seriously’ considering 2024 White House run"
-    excerpt: "Former President Donald Trump on Monday told conservative talk show host Sean Hannity that he’s “very seriously” considering another White House run in 2024, potentially depending on whether the Republican Party retakes control of the U."
-    publishedDateTime: 2021-04-20T20:45:00Z
-    webUrl: "https://www.masslive.com/politics/2021/04/former-president-donald-trump-tells-fox-news-sean-hannity-that-hes-very-seriously-considering-2024-white-house-run.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/04/former-president-donald-trump-tells-fox-news-sean-hannity-that-hes-very-seriously-considering-2024-white-house-run.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/04/former-president-donald-trump-tells-fox-news-sean-hannity-that-hes-very-seriously-considering-2024-white-house-run.html?outputType=amp"
+  - title: "Biden to Nominate Texas Sheriff and Trump Critic to Lead Immigration Enforcement Agency"
+    excerpt: "U.S. President Joe Biden will nominate a Texas sheriff who criticized Trump-era immigration raids to lead the U.S. Immigration and Customs Enforcement (ICE) agency, a homeland security official told Reuters on Tuesday."
+    publishedDateTime: 2021-04-27T19:10:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-27/biden-to-nominate-texas-sheriff-and-trump-critic-to-lead-immigration-enforcement-agency"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 51
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7CAAWWC7GRHGBNXBDN66Z547QM.jpeg"
-        width: 2000
-        height: 1352
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 42
 
 secured: "54mde8Tg8eFRP8ciRE3Lrew8iYdbkjfADzxjIiWXLh9+kpzDFSkKaf+THKsUAHKU4odzQPG6ow0/yTeZIBM4AnnoNzc8kocj38HwZ2mVPu6tNV05fOljeDIOTI+HP8MWrSJ2fZUbr/ryfRdQB0nwqFHmmbsRv1yy7fEZvKpUEwdeQJ6zvkDS+bJSeld3FPtOV5tfniH4mmHB4ov8yjTSNy+AHtB5zKbxQrcvM5/E5wTui2i/N/kgtZ89L+5fcZ8ouZ1vCwpyIfRkDEjkxvZbKqdStBmLTgQWuRVOMDHNYRwRW3vKZy8Ch+eAOXvJHgPAQw1zvgU0Ocm76NZV+haiMTdIG26zbRr3gE44oJ9tIIWaMboQKtOokkTf1Awn6ed0laFuKObDYZ6BWNxaUgSSR3nV7ft2klKIi+ye9+sxfXy47olE4Y8QipbvveAExhoFF2mWPp0k4OL4tLXVKELq71FcDb92BgrfWlQ0igv2ZECYpWQ9Bq7A/SW6HflKzwX5ZssjY9ejqPT5XAHbkOxz/A==;AIzj/ZU6E8iDHcuPwbNR9A=="
 ---

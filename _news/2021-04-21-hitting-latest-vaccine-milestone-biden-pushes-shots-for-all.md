@@ -31,95 +31,129 @@ images:
     isCached: true
 
 related:
-  - title: "Trump ally Sid Miller sues over Biden farm aid program, saying it discriminates against whites"
-    excerpt: "Texas agriculture official Sid Miller files suit over a U.S. farm program that directs aid to nonwhite farmers and ranchers."
-    publishedDateTime: 2021-04-27T21:36:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/27/texas-agriculture-commissioner-sid-miller-sues-void-farm-program-discrimination/4862183001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4862183001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4862183001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 128
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/9b8802257ca609b0e2d5aed109e4086be5ed8fbe/c=0-0-750-422/local/-/media/2020/11/20/Austin/ghows-TX-200709103-e59b1b81.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Senate panel approves Biden nominees to Postal Service board"
-    excerpt: "A Senate committee has approved President Joe Biden’s three nominees to the U.S. Postal Service's governing board"
-    publishedDateTime: 2021-04-28T15:25:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/senate-panel-approves-biden-nominees-postal-service-board-77367304"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/senate-panel-approves-biden-nominees-postal-service-board-77367304"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/senate-panel-approves-biden-nominees-postal-service-board-77367304"
+  - title: "Biden raises concerns with Putin about Ukraine confrontation"
+    excerpt: "President Joe Biden is calling on Russian President Vladimir Putin to “de-escalate tensions” following a Russian military buildup on Ukraine’s border"
+    publishedDateTime: 2021-04-13T21:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-raises-concerns-putin-ukraine-confrontation-77045832"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-raises-concerns-putin-ukraine-confrontation-77045832"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-raises-concerns-putin-ukraine-confrontation-77045832"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0608176cbab24c1d890713852a371c99_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "President Biden urges businesses to use paid leave to help workers get COVID-19 vaccines"
-    excerpt: "President Joe Biden urged businesses to help workers get vaccinated while announcing he met early the goal of 200 million shots in 100 days."
-    publishedDateTime: 2021-04-21T20:26:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/21/biden-announce-meeting-goal-200-million-covid-19-shots/7317454002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7317454002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7317454002"
+  - title: "Biden says everyone in US now eligible for Covid vaccine – live updates"
+    excerpt: "Guardian US has a separate live blog dedicated to covering the Chauvin trial and related topics. There’s a livestream from court. You can read that here. The Republican leader in the House and an extremist congresswoman who champions “Anglo-Saxon political traditions” have demanded action against the Democrat Maxine Waters,"
+    publishedDateTime: 2021-04-19T16:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/06/USAT/fa33ba7c-c6c9-4f0e-b205-413e952eb5a5-AP_Biden_1.jpg?auto=webp&crop=4281,2409,x0,y0&format=pjpg&width=1200"
+      - url: "https://i.guim.co.uk/img/media/39b2485b49a592b23c6ce07725257b5bc4c20a33/0_73_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9c280154f4a7d72583a1a96daad3fe97"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden to hold second meeting with bipartisan lawmakers on infrastructure"
+    excerpt: "President Biden is scheduled to meet Monday with a bipartisan group of lawmakers, all of whom are former governors or mayors, to discuss his $2.25 trillion infrastructure proposal."
+    publishedDateTime: 2021-04-19T02:17:00Z
+    webUrl: "https://thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure"
+    ampWebUrl: "https://thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe3_04152021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden, meeting with lawmakers, says willing to compromise on infrastructure"
+    excerpt: "U.S. President Joe Biden said he was willing to compromise on his $2.3 trillion infrastructure proposal on Monday before meeting with a group of bipartisan lawmakers at the White House."
+    publishedDateTime: 2021-04-19T16:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-infrastructure-biden-idUSW1N2LM01I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C62E6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C62E6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210419&t=2&i=1559104436&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3I1B0"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Manchin's firm stance on filibuster, reconciliation threatens ambitious Biden agenda"
+    excerpt: "Without his backing, Biden may have to trim, abandon some legislative efforts. 'We're gonna find a really good strong deal space' on infrastructure: Buttigieg Moderate Democrat Joe Manchin ..."
+    publishedDateTime: 2021-04-08T22:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/manchins-firm-stance-filibuster-reconciliation-threatens-ambitious-biden/story?id=76953755"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/manchins-firm-stance-filibuster-reconciliation-threatens-ambitious-biden/story?id=76953755"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/manchins-firm-stance-filibuster-reconciliation-threatens-ambitious-biden/story?id=76953755"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-manchin-filibuster-01-gty-llr-210407_1617911131382_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Joe Biden, Vladmir Putin Summit Doesn't Signal New Friendliness with Russia, White House Says"
+    excerpt: "U.S. President Joe Biden and Russian President Vladmir Putin have agreed to take their icy relationship to the next level in the coming months—a face-to-face meeting in a third country. But the White House insists it's not a signal that the two are on ..."
+    publishedDateTime: 2021-04-13T18:15:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1777226/putin-biden.jpg"
+        width: 3477
+        height: 1775
+        isCached: true
+  - title: "Joe Biden attends grandson's confirmation in Wilmington"
+    excerpt: "President Joe Biden and First Lady Jill Biden on Sunday attended the confirmation of their 15-year-old grandson Robert Hunter Biden II in Wilmington. The service took place around 2 p.m. at St. Joseph on the Brandywine,"
+    publishedDateTime: 2021-04-19T13:26:00Z
+    webUrl: "https://www.delawareonline.com/story/news/2021/04/19/joe-biden-attends-grandsons-confirmation-while-home-delaware/7282335002/"
+    ampWebUrl: "https://amp.delawareonline.com/amp/7282335002"
+    cdnAmpWebUrl: "https://amp-delawareonline-com.cdn.ampproject.org/c/s/amp.delawareonline.com/amp/7282335002"
+    type: article
+    provider:
+      name: Delaware Online
+      domain: delawareonline.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/19/PWIL/436f944c-3093-45cc-b50b-ea1e31ec09d5-AP21107724024083.jpg?auto=webp&crop=5447,3064,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "US President Joe Biden to visit UK for first overseas trip"
-    excerpt: "The president will come to Cornwall for the G7 summit from 11-13 June, where he will meet with other world leaders, including Prime Minister Boris Johnson."
-    publishedDateTime: 2021-04-24T11:33:00Z
-    webUrl: "https://www.bbc.co.uk/newsround/56870420"
-    ampWebUrl: "https://www.bbc.co.uk/newsround/56870420.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/56870420.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/E0D5/production/_118175575_hi066931757.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "President Joe Biden to recognize atrocities against Armenians as genocide"
-    excerpt: "A presidential proclamation to mark Armenian Genocide Remembrance Day is expected to use the term genocide to describe the killings and deportations of hundreds of thousands of Armenians."
-    publishedDateTime: 2021-04-24T12:18:00Z
-    webUrl: "https://www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html"
-    ampWebUrl: "https://www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 74
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4PAU5DZLYFF5DJ3VNJ3ORP3RZ4.jpg"
-        width: 5472
-        height: 3648
-        isCached: true
-  - title: "Biden to Nominate Texas Sheriff and Trump Critic to Lead Immigration Enforcement Agency"
-    excerpt: "U.S. President Joe Biden will nominate a Texas sheriff who criticized Trump-era immigration raids to lead the U.S. Immigration and Customs Enforcement (ICE) agency, a homeland security official told Reuters on Tuesday."
-    publishedDateTime: 2021-04-27T19:10:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-27/biden-to-nominate-texas-sheriff-and-trump-critic-to-lead-immigration-enforcement-agency"
+  - title: "Joe Biden Proposes Summit With Russia’s Vladimir Putin"
+    excerpt: "Biden and Putin have now spoken twice by phone since Biden took office in late January. But the proposed meeting, which Biden suggested should happen in a \"third country,\" would be the first between them as tensions escalate between the two countries. The ..."
+    publishedDateTime: 2021-04-13T17:48:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-13/joe-biden-proposes-summit-with-russias-vladimir-putin"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-13/joe-biden-proposes-summit-with-russias-vladimir-putin?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-13/joe-biden-proposes-summit-with-russias-vladimir-putin?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 42
+    quality: 55
 
 secured: "WRQABE8KTuWATHtjx/vLqq9XI4yQ7inlZLwZiWv/XE5lh6AW6JSwKQlaWWD9w/N3fvuHcENZQDEFhcOfBfjC/4gkMH2o0HyH6OjYHeTF34s9RfHlloann+Xh2lCgCdEdc+N7hoDK8QKddZgISxZeHY2GtJ4HvhaZqYI5LW4u1WBXM4yVLkCdFI9XZC9fT+Ky4JctjTUIRTXwUT1I2MtFjVwGb96AN7wh7LT3DA8AAF18hSlRmlRL+apytkwlBQLeAZSslZOVHfqeqaurKiERm/3hVYfFWdpU1I5fo3r/stcsYgt3WEiTYJ9CktW8WIVJeXL6ZhkhR+tc5JrkGcN5mCsdXsSj9mEEeIqA8ewiBTKHvECxt/+oCV04T8aN6pNZ0wBQnVhMGYY5EhIdWxX30IVZg8ptmt9jUmiagX14+q0IhPfVBcYYuIzoJLrDO2o8A6ZoEeX2M/MC1CL0CoYPnBvnn3RHI8Yt+ZXo7zV1yWQIQriUUeQrihmipc52XlcH8fUnCI8Ng3uSyWMfNxz+2Q==;sL0MKDv50j+xCzy4UrbC1w=="
 ---

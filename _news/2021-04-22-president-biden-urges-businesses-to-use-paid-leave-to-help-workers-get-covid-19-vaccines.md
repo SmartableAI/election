@@ -31,95 +31,68 @@ images:
     isCached: true
 
 related:
-  - title: "Trump ally Sid Miller sues over Biden farm aid program, saying it discriminates against whites"
-    excerpt: "Texas agriculture official Sid Miller files suit over a U.S. farm program that directs aid to nonwhite farmers and ranchers."
-    publishedDateTime: 2021-04-27T21:36:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/27/texas-agriculture-commissioner-sid-miller-sues-void-farm-program-discrimination/4862183001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4862183001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4862183001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 128
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/9b8802257ca609b0e2d5aed109e4086be5ed8fbe/c=0-0-750-422/local/-/media/2020/11/20/Austin/ghows-TX-200709103-e59b1b81.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Hitting latest vaccine milestone, Biden pushes shots for all"
-    excerpt: "The U.S. is set to meet President Joe Biden’s latest vaccine goal of administering 200 million COVID-19 shots in his first 100 days in office, as the White House steps up its efforts to inoculate the"
-    publishedDateTime: 2021-04-21T04:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/hitting-latest-vaccine-milestone-biden-pushes-shots-77207433"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/hitting-latest-vaccine-milestone-biden-pushes-shots-77207433"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/hitting-latest-vaccine-milestone-biden-pushes-shots-77207433"
+  - title: "AP sources: Biden to pledge halving greenhouse gases by 2030"
+    excerpt: "President Joe Biden will pledge to cut U.S. greenhouse gas emissions at least in half by 2030 as he convenes a virtual climate summit with 40 world leaders"
+    publishedDateTime: 2021-04-21T14:01:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_10f5eb8396324790b5ed12cde8427289_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_72bb4a2d95044868a55d724a16676fed_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Senate panel approves Biden nominees to Postal Service board"
-    excerpt: "A Senate committee has approved President Joe Biden’s three nominees to the U.S. Postal Service's governing board"
-    publishedDateTime: 2021-04-28T15:25:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/senate-panel-approves-biden-nominees-postal-service-board-77367304"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/senate-panel-approves-biden-nominees-postal-service-board-77367304"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/senate-panel-approves-biden-nominees-postal-service-board-77367304"
+  - title: "Power companies urge Biden to implement policies to cut emissions 80% by 2030"
+    excerpt: "A group of U.S. electricity companies wrote to President Joe Biden this week saying it will work with his administration and Congress to design a broad set of policies to reach a near-term goal of slashing the sector's carbon emissions by 2030."
+    publishedDateTime: 2021-04-17T15:38:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-climate-electricity-idCAKBN2C40DP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2C40DP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2C40DP"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 122
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210417&t=2&i=1558873837&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3G07K"
+        width: 817
+        height: 545
         isCached: true
-  - title: "US President Joe Biden to visit UK for first overseas trip"
-    excerpt: "The president will come to Cornwall for the G7 summit from 11-13 June, where he will meet with other world leaders, including Prime Minister Boris Johnson."
-    publishedDateTime: 2021-04-24T11:33:00Z
-    webUrl: "https://www.bbc.co.uk/newsround/56870420"
-    ampWebUrl: "https://www.bbc.co.uk/newsround/56870420.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/56870420.amp"
+  - title: "'Existential crisis of our time': Joe Biden pledges to halve US emissions by 2030 – video"
+    excerpt: "The goal, unveiled at the start of a two-day climate summit hosted by President Joe Biden, comes as the United States seeks to reclaim global leadership in the fight against global warming after former president Donald Trump withdrew the country from international efforts to cut emissions."
+    publishedDateTime: 2021-04-22T12:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/apr/22/joe-biden-us-emissions-pledge-climate-summit"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
+      name: The Guardian
+      domain: theguardian.com
+    quality: 96
+    images:
+      - url: "https://i.guim.co.uk/img/media/c08fbea90e2a5f93a98cb8b9c96ab96236eae02b/0_150_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b7c1c0ced33c0d8c62508ab5a7f77dc"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Joe Biden’s first 100 days: Where he stands on key promises"
+    excerpt: "As he rounds out his first 100 days in office, President Joe Biden’s focus on reining in the coronavirus during the early months of his administration seems to have paid off: He can check"
+    publishedDateTime: 2021-04-26T12:23:00Z
+    webUrl: "https://www.denverpost.com/2021/04/26/joe-biden-first-100-days-promises/"
+    ampWebUrl: "https://www.denverpost.com/2021/04/26/joe-biden-first-100-days-promises/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/04/26/joe-biden-first-100-days-promises/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
     quality: 75
     images:
-      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/E0D5/production/_118175575_hi066931757.jpg"
-        width: 640
-        height: 360
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/04/Biden_100_Days_Promises_73838.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "President Joe Biden to recognize atrocities against Armenians as genocide"
-    excerpt: "A presidential proclamation to mark Armenian Genocide Remembrance Day is expected to use the term genocide to describe the killings and deportations of hundreds of thousands of Armenians."
-    publishedDateTime: 2021-04-24T12:18:00Z
-    webUrl: "https://www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html"
-    ampWebUrl: "https://www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 74
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4PAU5DZLYFF5DJ3VNJ3ORP3RZ4.jpg"
-        width: 5472
-        height: 3648
-        isCached: true
-  - title: "Biden to Nominate Texas Sheriff and Trump Critic to Lead Immigration Enforcement Agency"
-    excerpt: "U.S. President Joe Biden will nominate a Texas sheriff who criticized Trump-era immigration raids to lead the U.S. Immigration and Customs Enforcement (ICE) agency, a homeland security official told Reuters on Tuesday."
-    publishedDateTime: 2021-04-27T19:10:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-27/biden-to-nominate-texas-sheriff-and-trump-critic-to-lead-immigration-enforcement-agency"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 42
 
 secured: "ZibFmlATrlemr+7MLvi+ddMU/jMxn1LYExlmdJdXK5ojD/I9lC4561GObYLjLMkKDLzCO5SMLaeK+4afDHMzB0i2q+InFpGIJwpnCiPnBvJ7FIfH8HtGZM9YK0Ry8xV1iwIrD9AYk2ZYL6iqzKU8s4kFT8uqCXIYChSGGioTER4NDbTS9Qyp1KKY8WFGZ6VOUzgCVNH7OtD3qXGltmFwcp1PlEC2BNv4KMPIHd5y73XbOYhwdo7tfveNjqK9JgqTJaUQiXOkeqBbKWih7Xi7nhkopkOI0BHOeV0iaDvOSTDRjd448maryWS39pzF9d9ra5ybUdsnQM49zpXxPwSvYJbm8xM9WEYOsz7E5cizYV2M5J6dBfAcNJp+v1KKFjiGDU48cAGsY0cKrAkSWgJbtzZGU/jmU5KzRKiM3eOZtbqhBvqrnqVJPLzQNu0oSgPq/i0wCp6rXTYpyN0YyUTIoiy3gLl8nEcWwGH4WLmypSNng2dZvU7OFPVpcS/6/h0oM+fv64hOhChSz8rx32Q0BQ==;5vam3DmHoOBDIYwgE2hAxw=="
 ---

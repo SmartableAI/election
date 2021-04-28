@@ -63,22 +63,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "GOP senators unveil $568 billion counteroffer to Biden's infrastructure plan"
-    excerpt: "Republican senators unveiled their counteroffer to President Biden's infrastructure proposal on Thursday, presenting a $568 billion framework that is significantly smaller than the president's $2 trillion plan."
-    publishedDateTime: 2021-04-23T17:18:00Z
-    webUrl: "https://www.cbsnews.com/news/republican-senators-infrastructure-counteroffer/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/republican-senators-infrastructure-counteroffer/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/republican-senators-infrastructure-counteroffer/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 122
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/22/363cae7d-cfc6-49bc-97d0-790fdb8711af/thumbnail/1200x630g2/b8e871c9faf3025e98261d67ca7e7b22/gettyimages-1231516589.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Jill Biden urges farmworkers to get vaccinated in California"
     excerpt: "First lady Jill Biden is praising California farmworkers for their persistence during the pandemic and urging them to get vaccinated"
     publishedDateTime: 2021-04-01T04:18:00Z
@@ -92,6 +76,22 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_582476d4c83f4a849953260173f0be01_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "President Joe Biden to recognize atrocities against Armenians as genocide"
+    excerpt: "A presidential proclamation to mark Armenian Genocide Remembrance Day is expected to use the term genocide to describe the killings and deportations of hundreds of thousands of Armenians."
+    publishedDateTime: 2021-04-24T12:18:00Z
+    webUrl: "https://www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html"
+    ampWebUrl: "https://www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4PAU5DZLYFF5DJ3VNJ3ORP3RZ4.jpg"
+        width: 5472
+        height: 3648
         isCached: true
 
 secured: "ELCKOblIJOAXJJTmSP08ktua6Se1y4aLiyFz09r6CcxMtJLA9r48QRfc/LjIXyoXml8FSBwQ+3R3x/LDUSVFLR8pAC9/aC35U5wrWducwhfUvC/ygnWddlqEUiO5ROxg+5Ow88YinU4jD7Xq8H6kSW9hdXrr+GhmFJlNMQwXmZadbalKKHKn9aHL/4Qk5o1JvPcsq41bqodNQtQ96MLHhrjEl5nzjdnWOhvfdKD+rg4CHxHFcsdPfN7D2q1m6U/P+8GHzzX7J2mU+rO8zgmY+Wiea2DXsOaGflgkQRZATy9w6gWyF8sHC+kXbGBv7Wrmow+rsge3fMshMB+b3ljTIcP7mi11K5pDDXRffvCeyurZ8GFAdb0Wedc3qvfpk98q+Dfxw6v/GLSSdVIzs26jIeUQZXiiAFuM+pFYDg0oeUNnHhsouHlPu8eLX8R0eypCPJnRGnQF0Dw33JSLRR3yHqM/LczK3yfJAyzQT+SwN14JWkYBZAyKE3/TzLZorA+yQjiqtcQ0oEgw0gl09uO5bA==;/zTuZUmps6ulq6N0SFvTPw=="

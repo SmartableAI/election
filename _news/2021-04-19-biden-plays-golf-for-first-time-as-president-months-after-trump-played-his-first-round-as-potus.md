@@ -121,20 +121,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What's Next For NASA? Biden's Nominee Recommits To Trump's Moon Landing Timeline"
-    excerpt: "President Joe Biden’s pick to lead NASA recommitted to Donald Trump’s ambitious moon-landing timeline at his confirmation hearings. Former Sen. Bill Nelson, D-Fla., told Congress on Wednesday that he’s still committed to putting the U."
-    publishedDateTime: 2021-04-21T20:13:00Z
-    webUrl: "https://www.ibtimes.com/whats-next-nasa-bidens-nominee-recommits-trumps-moon-landing-timeline-3185346"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 65
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/19/bill-nelson-d-fl-speaks-during-a-press.jpg"
-        width: 1024
-        height: 685
-        isCached: true
 
 secured: "hMp6qxS80SJmyIpdB9RoMY65PNTPh1bidHIn+ZZ+cqC8pSnsDTgjKVI8C6XLr77s+JAqeSMvbby6V1cZwn4gIZGVFtV/cTcb9LuSu5VHQ0jHmU0EJEONm+WD50HS/1gUnz7PARy1DQ3AsSlJM2PccMEQYdfIG5JZOdTpdgcqTcE4aws3/8cE07eB43ShCr17RgIkQ82VzmNRvew/vYNH9+1IP6mNnrLictM1AzDctprGFhOc2WhRHO8UdqD1KWA1YYUYyWiPrMP7TBxNi1GX6wI0gKhPOOnPYsEmliRgKIXTbLClzJSiDev1B/cM7ZeLjWnAA4XWe4XzRUZKq/mbel0a8C5hLGLD4ZcqqsnLkxKfFAq3NWGLmj0RfIWPcJJAFJfPpdpiGU30NJf7iSo2qlFnZK4qS7Yw06ASHK541LzwxG5kYZWG7l+YL+DcAG1OJbgNI65W54LP8aMSMOeCzFV4kDOY0KK0eq5CENqukkW9Bw+iPASxtMsQsb1x1opF0Ght0vJDNxBseWgfCa6uMQ==;U8lMX6fawWFV1+uh/H7yrQ=="
 ---

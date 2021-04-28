@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1"
 type: article
 quality: 139
-heat: 759
+heat: 719
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1779580/eric-metaxas.jpg"
         width: 1024
         height: 578
-        isCached: true
-  - title: "As economy spikes, Republicans are still waiting for the ‘Biden depression’ that Trump predicted"
-    excerpt: "Throughout last year’s campaign, President Donald Trump issued a series of increasingly dark predictions about what would happen if Joe Biden were elected. “If he gets in, you will have a depression the likes of which you’ve never seen."
-    publishedDateTime: 2021-04-22T20:36:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2021/04/22/trump-biden-economy-depression/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/04/22/trump-biden-economy-depression/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/04/22/trump-biden-economy-depression/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 127
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KNUSWAEX2QI6XDYKGOCM6T5TTE.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Boehner lashes out at Trump, saying he 'abused' voters' trust"
     excerpt: "Boehner on NSA Whistleblower: 'He's a Traitor' Former House Speaker John Boehner on Monday kept up his harsh criticism of President Donald Trump's role in the Jan. 6 riots, saying he \"abused\" the ..."
@@ -174,22 +158,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FPDDKZTYRII6XFEJR562ZVI6OU.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Proposal to Rename State Park for Donald Trump Panned by Ohio State Agency"
-    excerpt: "A proposal to rename an Ohio state park for former President Donald Trump is not supported by Ohio's Department of Natural Resources as the agency defended the park's current name, Mosquito Creek Lake."
-    publishedDateTime: 2021-04-22T15:00:00Z
-    webUrl: "https://www.newsweek.com/proposal-rename-state-park-donald-trump-panned-ohio-state-agency-1585713"
-    ampWebUrl: "https://www.newsweek.com/proposal-rename-state-park-donald-trump-panned-ohio-state-agency-1585713?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/proposal-rename-state-park-donald-trump-panned-ohio-state-agency-1585713?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
-    images:
-      - url: "https://d.newsweek.com/en/full/1781713/former-us-president-donald-trump.jpg"
-        width: 3000
-        height: 1945
         isCached: true
   - title: "Mike Lindell Says He Had Dream About Trump One Year Before Meeting Him, Credits God"
     excerpt: "MyPillow CEO Mike Lindell on Saturday said that he had a dream about Donald Trump in 2015, one year before the two met for the first time. During his address at the conservative Freedom Conference held in Broken Arrow,"

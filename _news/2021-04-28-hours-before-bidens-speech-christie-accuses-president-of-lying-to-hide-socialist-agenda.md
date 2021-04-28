@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Senate Dems push Biden to ramp up refugee admissions dramatically"
+    excerpt: "A coalition of more than 30 Senate Democrats is pressuring President Biden to substantially increase the number of refugees admitted into the United States this year and next."
+    publishedDateTime: 2021-04-28T19:55:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bdeaYdMUUws/senate-dems-push-biden-to-ramp-up-refugee-admissions-dramatically"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-dems-push-biden-to-ramp-up-refugee-admissions-dramatically.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-dems-push-biden-to-ramp-up-refugee-admissions-dramatically.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e853faa-a6ad-4373-aa37-527339efec9f/aa804f2c-c592-48c0-a72f-f2b282a1d485/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Cruz calls on Biden to fix gap in Texas levee that protects border towns"
     excerpt: "Sen. Ted Cruz, R-Texas, and local residents in Mission, Texas, are calling on President Biden to fix a compromised levee that protects border towns from the Rio Grande Valley – with hurricane season just weeks away."
     publishedDateTime: 2021-04-22T17:31:33Z
@@ -302,6 +318,6 @@ related:
         height: 500
         isCached: true
 
-secured: "iJFs8YCAFbMO7p0MN93veVgEBOYbK991s4o1Z8YfT2awp2rH9P3OOjhKnCpqKFiG2t2f0zz83lo7URBvzGz+GuJAColSWMQ44rIzqqE44qgPxaXcVlsCMrxMK4JRUwe0ZNo2oE2duGZt6E3koxaaxjTkuQ8w6NIGQfHIonUqBCBxzNRvR9bfSV3CmDmIIbEQH5KkZL2Rp8tK0rK+JKucIr/xICDhqtTGAGyk5CjRjQ25aCvBA+VM1iqc9cXmDdlqEmzIuftSGpqVWw8yaOROWzHYncuZGuzyvRUvdtmE/8+tjD3nh//sWTiAyQvGs1gvlGgjaPS3Z7B0E70ApO8s7uiJ2LBzdxJSXQKzFpSBEvs=;0g2IWog3h9jc68bUm6721w=="
+secured: "PO50HuJRfAGkycO6vPI6dJg9lE4Mk+h9B69TJZ0x9Tfw1+qZJBvaqyJjtoL7lV1aDcm2c8Cry0SQCldHAJw5o1jqYkFgE4lOdCyDy25ofvczL3dj/88fNe0pyWxhZpkXZhK7HkaZZTakTTcH6pUEt/XHas6kH0BVFtecYQGa+VoZH6+AWYBM7nohiiosbglMdXED3DpMnJt6VzWJTQvACx58pHeDGiSCP15V4xagdsjIti56zWVWWShQQfgpW58wkUOTWv7TRf2KLuRvn55fFLW5vVmydcECh719JMxJodWxcLfuMo1uRTcTO88s/LAonDPOFx4Df65DmzOBLBKrVaJEiGPAwSfVSdkGftQwhUs=;jn6BNdIkuNy96T6QaQvudA=="
 ---
 

@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris and Pelosi to make history as the first women to lead Senate and House during presidential address to Congress"
+    excerpt: "The imagery of President Joe Biden's address to a joint session of Congress will be notable Wednesday evening for what it will not include, with attendance dramatically scaled back to ensure social distancing amid the pandemic. But it will also be historic for what it will: two women will be sitting"
+    publishedDateTime: 2021-04-28T19:13:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5GJAmH97k8E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/kamala-harris-nancy-pelosi-joint-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/kamala-harris-nancy-pelosi-joint-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428143651-kamala-harris-nancy-pelosi-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How the US went from having one of the worst Covid responses to being a global leader in vaccinations under Biden"
     excerpt: "For the last 100 days, President Joe Biden and his top advisers have mounted an urgent, wartime effort to get millions of coronavirus vaccines into the arms of Americans in order to beat back a pandemic that has upended the world for the better part of year.\n    \n"
     publishedDateTime: 2021-04-26T21:48:05Z

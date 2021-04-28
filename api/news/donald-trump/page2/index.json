@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-20-trump-says-he-is-beyond-seriously-considering-2024-white-house-run.md",
+      "title": "Trump says he is ‘beyond seriously’ considering 2024 White House run",
+      "excerpt": "Former President Donald Trump said he is “seriously” considering another White House bid during an interview that aired Monday night. Trump teased the idea of a 2024 presidential run, but again",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/20/trump-says-he-is-beyond-seriously-considering-2024-white-house-run/",
+      "originalUrl": "https://nypost.com/2021/04/20/trump-says-he-is-beyond-seriously-considering-2024-white-house-run/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/Trump-Republicans.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/20/trump-says-he-is-beyond-seriously-considering-2024-white-house-run/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/20/trump-says-he-is-beyond-seriously-considering-2024-white-house-run/amp/",
+      "publishedDateTime": "2021-04-19T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-donald-trump-says-all-the-states-that-voted-for-him-had-no-election-fraud.md",
       "title": "Donald Trump Says All the States That Voted for Him Had No Election Fraud",
       "excerpt": "\"Florida, Ohio, all of the states that we won, were properly run,\" Trump said, speaking of states he thought had adequate voter fraud safeguards.",
@@ -10,7 +58,7 @@
       "originalUrl": "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865",
       "featuredContent": null,
       "highlight": null,
-      "heat": 759,
+      "heat": 719,
       "tags": null,
       "images": [
         {
@@ -166,7 +214,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 465,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -275,7 +323,7 @@
       "originalUrl": "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452",
       "featuredContent": null,
       "highlight": null,
-      "heat": 272,
+      "heat": 252,
       "tags": null,
       "images": [
         {
@@ -1510,63 +1558,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-subpoenaing-the-brookings-institution-durham-focuses-on-trump-russia-dossier.md",
-      "title": "Subpoenaing the Brookings Institution, Durham Focuses on Trump-Russia Dossier",
-      "excerpt": "Greg Kahn for The New York Times By Charlie Savage and Adam Goldman WASHINGTON — Exiled from Twitter, former President Donald J. Trump issued a sarcastic statement recently inquiring about the ongoing public silence from John H. Durham, the special ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/12/us/politics/durham-investigation-brookings-institution.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/12/us/politics/durham-investigation-brookings-institution.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/12/us/politics/12dc-durham1/12dc-durham1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/12/us/politics/durham-investigation-brookings-institution.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/12/us/politics/durham-investigation-brookings-institution.amp.html",
-      "publishedDateTime": "2021-04-12T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

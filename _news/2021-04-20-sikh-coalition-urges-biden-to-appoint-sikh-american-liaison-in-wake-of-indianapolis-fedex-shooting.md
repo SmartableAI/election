@@ -159,22 +159,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Biden seeks to slash carbon emissions in half by 2030"
-    excerpt: "President Biden on Thursday announced a new goal on greenhouse gas emissions -- calling on the U.S., by 2030, to slash emissions by 50-52%."
-    publishedDateTime: 2021-04-22T18:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-seeks-slash-carbon-emissions-half-2030/story?id=77228372"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-seeks-slash-carbon-emissions-half-2030/story?id=77228372"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-seeks-slash-carbon-emissions-half-2030/story?id=77228372"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-ap-ml-210422_1619094447977_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "US President Joe Biden to 'propose hiking tax on rich'"
     excerpt: "US President Joe Biden is reportedly set to propose a tax hike on the wealthiest Americans. The proposal would raise the top marginal rate and increase taxes on investment gains for the rich. The tax rise would help pay for childcare and education,"
     publishedDateTime: 2021-04-23T03:24:00Z
@@ -238,22 +222,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1779263/biden-yoshihide-suga-white-house.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Democrats urge Biden to stop using local police to enforce federal immigration law"
-    excerpt: "The lawmakers say the use of local law enforcement has undermined public safety by making immigrants afraid to report crimes."
-    publishedDateTime: 2021-04-22T22:06:00Z
-    webUrl: "https://www.businessinsider.com/democrats-urge-biden-stop-using-local-police-enforce-immigration-law-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/democrats-urge-biden-stop-using-local-police-enforce-immigration-law-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-urge-biden-stop-using-local-police-enforce-immigration-law-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 119
-    images:
-      - url: "https://i.insider.com/6081dbc04becb800190f6a35?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Biden says he’s willing ‘to compromise’ with Republicans on infrastructure bill – live"
     excerpt: "President meets with a bipartisan group of lawmakers and says ‘I am prepared to compromise’"
@@ -379,31 +347,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "How Capital Gains Are Taxed and What Biden Wants to Do Now"
-    excerpt: "Capital gains taxes are the price of making a good investment. They’re levied on profitable stock trades and real estate deals and also can apply to sales of businesses, pieces of art, collectible cars,"
-    publishedDateTime: 2021-04-22T18:45:00Z
-    webUrl: "https://www.washingtonpost.com/business/how-capital-gains-are-taxed-and-what-biden-wants-to-do-now/2021/04/22/875a2aa6-a399-11eb-b314-2e993bd83e31_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QYXRHCVDTEI6XMYUF2MTXWB6GE.jpg&w=1440"
-        width: 1440
-        height: 1080
-        isCached: true
-  - title: "Restoring service central to Biden's postal board nominees"
-    excerpt: "President Joe Biden's of the U.S. Postal Service pledged Thursday to rebuild trust with the American public through prompt deliveries, as they outlined a vison for the agency in their first formal statements to lawmakers."
-    publishedDateTime: 2021-04-22T19:15:00Z
-    webUrl: "https://www.businessinsider.com/restoring-service-central-to-bidens-postal-board-nominees-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/restoring-service-central-to-bidens-postal-board-nominees-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/restoring-service-central-to-bidens-postal-board-nominees-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Biden says he's 'prepared to compromise' on infrastructure plan during meeting with bipartisan group of lawmakers"
     excerpt: "Biden and Transportation Secretary Pete Buttigieg met with lawmakers in an effort to gain support for an infrastructure plan that Republicans rebuked."
     publishedDateTime: 2021-04-20T13:58:00Z

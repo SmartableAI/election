@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-19-psaki-says-biden-believes-protests-must-be-peaceful-after-maxine-waters-confrontational-comments.md",
+      "title": "Psaki says Biden believes ‘protests must be peaceful’ after Maxine Waters’ ‘confrontational’ comments",
+      "excerpt": "White House press secretary Jen Psaki said President Biden believes \"protests must be peaceful\" in response to Rep. Maxine Waters, D-Calif., calling for demonstrators to ramp up their actions in the event that Derek Chauvin is acquitted of murder for the death of George Floyd.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1dnlLGzm7ts/psaki-biden-believes-protests-peaceful-maxine-waters-comments",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1dnlLGzm7ts/psaki-biden-believes-protests-peaceful-maxine-waters-comments",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-biden-believes-protests-peaceful-maxine-waters-comments.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-believes-protests-peaceful-maxine-waters-comments.amp",
+      "publishedDateTime": "2021-04-19T10:23:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-the-us-counties-lagging-in-covid-19-vaccinations-have-one-thing-in-common-trump-voters.md",
       "title": "The US counties lagging in COVID-19 vaccinations have one thing in common: Trump voters",
       "excerpt": "But in hundreds of counties around the country, vaccination rates are low, with some even languishing in the teens. The disparity in vaccination rates has so far mainly broken down along political lines.",
@@ -326,7 +382,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 465,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -604,7 +660,7 @@
       "originalUrl": "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452",
       "featuredContent": null,
       "highlight": null,
-      "heat": 272,
+      "heat": 252,
       "tags": null,
       "images": [
         {
@@ -1308,58 +1364,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-pro-trump-lawmakers-form-caucus-to-promote-anglo-saxon-political-traditions.md",
-      "title": "Pro-Trump lawmakers form caucus to promote 'Anglo-Saxon political traditions'",
-      "excerpt": "Marjorie Taylor Greene (Ga.) and Paul Gosar (Ariz.), are reportedly forming a caucus that calls for a \"common respect for uniquely Anglo-Saxon political traditions.\" A policy platform for the group, which calls itself the America First Caucus,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/house/548731-pro-trump-lawmakers-form-caucus-to-promote-anglo-saxon-political-traditions",
-      "originalUrl": "https://thehill.com/homenews/house/548731-pro-trump-lawmakers-form-caucus-to-promote-anglo-saxon-political-traditions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/greenetaylormarjorie_gosarpaul_041621gn_split.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/house/548731-pro-trump-lawmakers-form-caucus-to-promote-anglo-saxon-political-traditions?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/548731-pro-trump-lawmakers-form-caucus-to-promote-anglo-saxon-political-traditions?amp",
-      "publishedDateTime": "2021-04-16T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

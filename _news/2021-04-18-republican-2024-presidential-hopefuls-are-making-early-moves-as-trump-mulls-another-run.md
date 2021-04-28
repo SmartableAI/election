@@ -47,38 +47,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "GOP attorneys general group in turmoil after Jan. 6 Trump rally"
-    excerpt: "The chairman of the top outside group dedicated to electing Republican attorneys general has resigned his position in the wake of a show of force by rivals from other states, months after it supported"
-    publishedDateTime: 2021-04-22T21:29:00Z
-    webUrl: "https://thehill.com/homenews/campaign/549840-gop-attorneys-general-group-in-turmoil-after-jan-6-trump-rally"
-    ampWebUrl: "https://thehill.com/homenews/campaign/549840-gop-attorneys-general-group-in-turmoil-after-jan-6-trump-rally?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549840-gop-attorneys-general-group-in-turmoil-after-jan-6-trump-rally?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/carrchris_041021_raga.jpeg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Housing agency ends Trump-era anti-transgender shelter rule"
-    excerpt: "The Department of Housing and Urban Development is withdrawing a Trump-era policy that would have allowed taxpayer-funded homeless shelters to deny access to transgender people"
-    publishedDateTime: 2021-04-22T20:36:00Z
-    webUrl: "https://www.washingtonpost.com/politics/housing-agency-ends-trump-era-anti-transgender-shelter-rule/2021/04/22/67c15c30-a3aa-11eb-b314-2e993bd83e31_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/housing-agency-ends-trump-era-anti-transgender-shelter-rule/2021/04/22/67c15c30-a3aa-11eb-b314-2e993bd83e31_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/housing-agency-ends-trump-era-anti-transgender-shelter-rule/2021/04/22/67c15c30-a3aa-11eb-b314-2e993bd83e31_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MRWX55VDVII6XMYUF2MTXWB6GE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Republican presidential hopefuls move forward as Trump considers 2024 run"
     excerpt: "Many Republicans with national ambitions are openly laying the groundwork for presidential campaigns as Trump continues to mull his own plans."
     publishedDateTime: 2021-04-18T12:23:00Z
