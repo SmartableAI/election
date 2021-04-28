@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-28-what-laura-italiano-said-about-the-new-york-posts-kamala-harris-book-story.md",
+      "title": "What Laura Italiano Said About the New York Post's Kamala Harris Book Story",
+      "excerpt": "The journalist who wrote an article claiming that Vice President Kamala Harris' book was being distributed to migrant children has resigned from the New York Post,and said she was \"ordered\" to write the story.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002",
+      "originalUrl": "https://www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1784064/vice-president-harris-virtual-meeting.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002?amp=1",
+      "publishedDateTime": "2021-04-28T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-professional-political-survivor-mike-pence-tests-if-theres-any-room-left-for-him-in-a-trump-republican-party.md",
+      "title": "Professional political survivor Mike Pence tests if there's any room left for him in a Trump Republican Party",
+      "excerpt": "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4",
+      "originalUrl": "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg",
+          "width": 847,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-melania-trump-thanks-supporters-who-sent-her-wonderful-birthday-messages.md",
       "title": "Melania Trump Thanks Supporters Who Sent Her 'Wonderful' Birthday Messages",
       "excerpt": "Melania Trump said she is thankful for the supporters and social media users who remembered her on her 51st birthday on Monday.",
@@ -524,6 +629,54 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-donald-trump-offers-advice-to-woke-oscars.md",
+      "title": "Donald Trump offers advice to ‘woke’ Oscars",
+      "excerpt": "Former President Donald Trump ​on Tuesday ​weighed in on the Academy Awards that critics lambasted as overly “woke” and which attracted its smallest TV audience in history, suggesting",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/27/donald-trump-offers-advice-to-woke-oscars/",
+      "originalUrl": "https://nypost.com/2021/04/27/donald-trump-offers-advice-to-woke-oscars/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-awards.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/27/donald-trump-offers-advice-to-woke-oscars/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/27/donald-trump-offers-advice-to-woke-oscars/amp/",
+      "publishedDateTime": "2021-04-27T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {
@@ -1159,174 +1312,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-erdogan-armenian-genocide.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-erdogan-armenian-genocide.amp",
       "publishedDateTime": "2021-04-23T17:08:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-durbin-grassley-hit-biden-move-to-increase-h-2b-seasonal-worker-visas.md",
-      "title": "Durbin, Grassley hit Biden move to increase H-2B seasonal worker visas",
-      "excerpt": "Sens. Dick Durbin, D-Ill., and Chuck Grassley, R-Iowa, on Thursday criticized a decision by the Biden administration to increase the number of available H-2B seasonal worker visas, citing long-standing concerns ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YWd2gjGb-JY/durbin-grassley-biden-move-increase-seasonal-worker-visas",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YWd2gjGb-JY/durbin-grassley-biden-move-increase-seasonal-worker-visas",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa434e0f-6b4c-404e-89ce-c7e26329c066/ff42937c-f70a-49f7-a7c6-6d27dc8e6c8f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/durbin-grassley-biden-move-increase-seasonal-worker-visas.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durbin-grassley-biden-move-increase-seasonal-worker-visas.amp",
-      "publishedDateTime": "2021-04-23T14:19:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-west-virginia-ag-threatens-lawsuit-against-biden-climate-plan.md",
-      "title": "West Virginia AG threatens lawsuit against Biden Climate Plan",
-      "excerpt": "West Virginia Attorney General Patrick Morrisey on Friday, vowed to take the Biden administration to court if the president does not seek congressional approval for his latest plan to combat climate change.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n5HUvxZxRCk/west-virginia-ag-threatens-lawsuit-against-biden-climate-plan",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n5HUvxZxRCk/west-virginia-ag-threatens-lawsuit-against-biden-climate-plan",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59a712c5-fbee-4739-8f1d-6c1e1b4d8cec/2cbb6979-d7f9-43e3-90a6-ecfacd5492c5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/west-virginia-ag-threatens-lawsuit-against-biden-climate-plan.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/west-virginia-ag-threatens-lawsuit-against-biden-climate-plan.amp",
-      "publishedDateTime": "2021-04-23T13:46:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-california-gov-newsom-raising-money-by-tying-caitlyn-jenner-to-trump.md",
-      "title": "California Gov. Newsom raising money by tying Caitlyn Jenner to Trump",
-      "excerpt": "Gov. Gavin Newsom’s campaign team wasted no time coming after Caitlyn Jenner as she entered the recall race to take his seat. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5oimLrPheDI/newsom-raise-money-tying-caitlyn-jenner-to-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5oimLrPheDI/newsom-raise-money-tying-caitlyn-jenner-to-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Caitlyn-Jenner-CC.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/newsom-raise-money-tying-caitlyn-jenner-to-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/newsom-raise-money-tying-caitlyn-jenner-to-trump.amp",
-      "publishedDateTime": "2021-04-23T13:02:31-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

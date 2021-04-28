@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/energy-environment/549658-watch-live-bide
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp"
 type: article
 quality: 150
-heat: 1290
+heat: 1310
 published: true
 
 provider:
@@ -319,6 +319,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/22/b17e829a-3b7b-444d-a931-d14accce0d27/thumbnail/1200x630/b78024ced42604f350ac5026e51604a1/cbsn-fusion-world-leaders-join-president-biden-for-earth-day-climate-summit-thumbnail-699052-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris to visit Baltimore to mark 100 days in office"
+    excerpt: "Vice President Kamala Harris will visit Baltimore this week, 100 days after she and President Joe Biden were sworn into office"
+    publishedDateTime: 2021-04-25T15:02:00Z
+    webUrl: "https://www.washingtonpost.com/local/kamala-harris-to-visit-baltimore-to-mark-100-days-in-office/2021/04/25/93d41830-a5df-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/kamala-harris-to-visit-baltimore-to-mark-100-days-in-office/2021/04/25/93d41830-a5df-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/kamala-harris-to-visit-baltimore-to-mark-100-days-in-office/2021/04/25/93d41830-a5df-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "What progressives think of President Biden's first 100 days"
     excerpt: "President Joe Biden is approaching the 100-day mark in his term. CBS News political contributor and Democratic strategist Joel Payne and Briahna Joy Gray, the former national press secretary for Bernie Sanders' 2020 presidential campaign,"

@@ -127,6 +127,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "How Joe Biden's Executive Orders in First 100 Days Compare to Donald Trump's"
+    excerpt: "The executive orders give a snapshot of the differing priorities between the two administrations soon after taking office."
+    publishedDateTime: 2021-04-28T09:28:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-executive-orders-first-100-days-compared-donald-trump-1586983"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-executive-orders-first-100-days-compared-donald-trump-1586983?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-executive-orders-first-100-days-compared-donald-trump-1586983?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 137
+    images:
+      - url: "https://d.newsweek.com/en/full/1784020/president-biden-speaks-about-cdc-mask-guidance.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden rescinds Trump-approved Medicaid work requirements in Michigan, Wisconsin"
     excerpt: "ADVERTISEMENT The reversal comes after Trump’s CMS Administrator Seema Verma advocated for Medicaid work requirements, saying such regulations would help people get out of poverty and not rely ..."
     publishedDateTime: 2021-04-08T14:11:00Z

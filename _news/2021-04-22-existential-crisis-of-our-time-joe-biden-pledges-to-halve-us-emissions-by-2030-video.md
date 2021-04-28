@@ -109,6 +109,36 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "How Capital Gains Are Taxed and What Biden Wants to Do Now"
+    excerpt: "Capital gains taxes are the price of making a good investment. They’re levied on profitable stock trades and real estate deals and also can apply to sales of businesses, pieces of art, collectible cars,"
+    publishedDateTime: 2021-04-28T08:15:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-capital-gains-are-taxed-and-what-biden-wants-to-do-now/2021/04/28/9638cf8e-a801-11eb-a8a7-5f45ddcdf364_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SVRTLQVIAEI6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 1080
+        isCached: true
+  - title: "Joe Biden’s first 100 days: Where he stands on key promises"
+    excerpt: "As he rounds out his first 100 days in office, President Joe Biden’s focus on reining in the coronavirus during the early months of his administration seems to have paid off: He can check"
+    publishedDateTime: 2021-04-26T12:23:00Z
+    webUrl: "https://www.denverpost.com/2021/04/26/joe-biden-first-100-days-promises/"
+    ampWebUrl: "https://www.denverpost.com/2021/04/26/joe-biden-first-100-days-promises/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/04/26/joe-biden-first-100-days-promises/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/04/Biden_100_Days_Promises_73838.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "UpSd9Vux/Jj1Lt53yMkTHXq9xaziZWcbfad7/A8SpUR/ApR6xuom5ILG17W6aUN4YsShrHWb2xtbUpi92R5UQN9z5L5uVk5FGoa/O4ivL1fFHVaPWIEMW8v5MjMKseNP6p50jOeqr162xTOjiGltl4X+bnd0LXSBtWCa0KRFTvNbcmTtvpYwg5uj9s9ATtiSZW4uqdEp87zwnFspWfyBJbmDO1dEwtzDZO3vVk19umeQ/h7gbBwmaXUmidpsL+eUPnsAuHpgpcw7hfnO93cxZ8jbYIMc3FdQBCUS4xkMzCpkb1j0tOdLJL88v8sCixrnK7Oqhe69ynEh2tNUbNVSUds2/S3IlW7kAFIki1EuCvi1HjqEc9L9Et7L1Qsj1X76kPqtBSXapmiKXO9hfyGVGCR/uddOe8ez6u85GsQWhec55K3BNrfVUoY9PeLEmHPvpac7zFY8Q1go+R8wvXe00uqqHSq82ubOS5IC5MX/r8qKAiEUjUyUK5D5sigQRZZFLK7c+Am1SDWpcMhtk2tOtQ==;miQV7gOV29ulleYAjbivUw=="
 ---

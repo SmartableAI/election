@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-28-professional-political-survivor-mike-pence-tests-if-theres-any-room-left-for-him-in-a-trump-republican-party.md",
+      "title": "Professional political survivor Mike Pence tests if there's any room left for him in a Trump Republican Party",
+      "excerpt": "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4",
+      "originalUrl": "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg",
+          "width": 847,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-simon-schuster-staffers-call-for-mike-pence-memoir-to-be-canceled.md",
       "title": "Simon & Schuster staffers call for Mike Pence memoir to be canceled",
       "excerpt": "Simon & Schuster employees want the publisher to stop doing business with Trump administration officials — starting with Vice President Mike Pence. In a letter Monday to Simon &",

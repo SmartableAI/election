@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-28-what-laura-italiano-said-about-the-new-york-posts-kamala-harris-book-story.md",
+      "title": "What Laura Italiano Said About the New York Post's Kamala Harris Book Story",
+      "excerpt": "The journalist who wrote an article claiming that Vice President Kamala Harris' book was being distributed to migrant children has resigned from the New York Post,and said she was \"ordered\" to write the story.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002",
+      "originalUrl": "https://www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1784064/vice-president-harris-virtual-meeting.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002?amp=1",
+      "publishedDateTime": "2021-04-28T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-new-york-post-temporarily-deletes-then-edits-false-story-that-claimed-harris-book-was-given-out-in-migrant-welcome-kits.md",
       "title": "New York Post temporarily deletes, then edits false story that claimed Harris' book was given out in migrant 'welcome kits'",
       "excerpt": "The New York Post temporarily deleted, and then edited and republished, a debunked article that falsely claimed that copies of Vice President Kamala Harris' book were being included in \"welcome kits\" given to migrant children at a shelter in Long Beach, California.\n    \n",
@@ -352,7 +404,7 @@
       "originalUrl": "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1290,
+      "heat": 1310,
       "tags": null,
       "images": [
         {

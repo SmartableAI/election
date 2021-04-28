@@ -95,6 +95,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "How Capital Gains Are Taxed and What Biden Wants to Do Now"
+    excerpt: "Capital gains taxes are the price of making a good investment. They’re levied on profitable stock trades and real estate deals and also can apply to sales of businesses, pieces of art, collectible cars,"
+    publishedDateTime: 2021-04-28T08:15:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-capital-gains-are-taxed-and-what-biden-wants-to-do-now/2021/04/28/9638cf8e-a801-11eb-a8a7-5f45ddcdf364_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SVRTLQVIAEI6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 1080
+        isCached: true
   - title: "'Existential crisis of our time': Joe Biden pledges to halve US emissions by 2030 – video"
     excerpt: "The goal, unveiled at the start of a two-day climate summit hosted by President Joe Biden, comes as the United States seeks to reclaim global leadership in the fight against global warming after former president Donald Trump withdrew the country from international efforts to cut emissions."
     publishedDateTime: 2021-04-22T12:50:00Z
@@ -108,6 +122,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/c08fbea90e2a5f93a98cb8b9c96ab96236eae02b/0_150_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b7c1c0ced33c0d8c62508ab5a7f77dc"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Joe Biden’s first 100 days: Where he stands on key promises"
+    excerpt: "As he rounds out his first 100 days in office, President Joe Biden’s focus on reining in the coronavirus during the early months of his administration seems to have paid off: He can check"
+    publishedDateTime: 2021-04-26T12:23:00Z
+    webUrl: "https://www.denverpost.com/2021/04/26/joe-biden-first-100-days-promises/"
+    ampWebUrl: "https://www.denverpost.com/2021/04/26/joe-biden-first-100-days-promises/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/04/26/joe-biden-first-100-days-promises/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/04/Biden_100_Days_Promises_73838.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "9o7ELP09sOlMLwqDDB1ScBR4qVCUywzy2xnCgxrmfbUdHNE5SoOdyWeXlBom0d1EXGG3w+wf+78wS0umY+zxxjFrgrTthlh8JbssZkeg9Nxh1+uJhN8dVd9/qlvVj3VeeApbI0fa/LPwhKqoGkfhfltJrxsTnH6GNfFlCk/1F/vA7pYQMC6f2aQGstbAAV1fL/GmKh0BTvt8Juux23G/oGxGxLA/7DoGBfxpzBRusWTy1th/v8eoAIl1prNJ0JTGaXyLn6DExZVCxtKEREi4Xc0q9s9wT0+0doBeP9uzzU6xPpCO7JDfKW69iyCJlc+tFIz2xdRev2OpPAe5n9CMNvoV2GCtz6IiFWRgOjBrVE8=;kvOuPKnLTa5050pMvzLF5w=="

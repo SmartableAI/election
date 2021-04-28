@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2M21ES"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2M21ES"
 type: article
 quality: 140
-heat: 2240
+heat: 2260
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/96919741d2beb8c31ce19ebfcb2c34cbd930a7e6/0_116_4096_2458/master/4096.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5fda0d5918f813b5087935a0f28c80e9"
         width: 600
         height: 360
+        isCached: true
+  - title: "How Joe Biden's Executive Orders in First 100 Days Compare to Donald Trump's"
+    excerpt: "The executive orders give a snapshot of the differing priorities between the two administrations soon after taking office."
+    publishedDateTime: 2021-04-28T09:28:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-executive-orders-first-100-days-compared-donald-trump-1586983"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-executive-orders-first-100-days-compared-donald-trump-1586983?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-executive-orders-first-100-days-compared-donald-trump-1586983?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 137
+    images:
+      - url: "https://d.newsweek.com/en/full/1784020/president-biden-speaks-about-cdc-mask-guidance.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Biden rescinds Trump-approved Medicaid work requirements in Michigan, Wisconsin"
     excerpt: "ADVERTISEMENT The reversal comes after Trump’s CMS Administrator Seema Verma advocated for Medicaid work requirements, saying such regulations would help people get out of poverty and not rely ..."

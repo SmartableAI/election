@@ -219,6 +219,54 @@
       ]
     },
     {
+      "path": "_news/2021-04-28-donald-trump-offers-advice-to-woke-oscars.md",
+      "title": "Donald Trump offers advice to ‘woke’ Oscars",
+      "excerpt": "Former President Donald Trump ​on Tuesday ​weighed in on the Academy Awards that critics lambasted as overly “woke” and which attracted its smallest TV audience in history, suggesting",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/27/donald-trump-offers-advice-to-woke-oscars/",
+      "originalUrl": "https://nypost.com/2021/04/27/donald-trump-offers-advice-to-woke-oscars/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-awards.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/27/donald-trump-offers-advice-to-woke-oscars/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/27/donald-trump-offers-advice-to-woke-oscars/amp/",
+      "publishedDateTime": "2021-04-27T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-27-simon-schuster-staffers-call-for-mike-pence-memoir-to-be-canceled.md",
       "title": "Simon & Schuster staffers call for Mike Pence memoir to be canceled",
       "excerpt": "Simon & Schuster employees want the publisher to stop doing business with Trump administration officials — starting with Vice President Mike Pence. In a letter Monday to Simon &",
@@ -1601,63 +1649,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-brian-sicknick-death-ruling-debunks-media-narrative-that-fueled-second-trump-impeachment-hurt.md",
-      "title": "Brian Sicknick death ruling debunks media narrative that fueled second Trump impeachment: Hurt",
-      "excerpt": "The official ruling on the cause of U.S. Capitol Police officer Brian Sicknick's death debunks the media narrative upon which former President Donald Trump's second impeachment was largely predicated,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction",
-      "originalUrl": "https://www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Brian-Sicknick-sharp.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brian-sicknick-death-medical-examiner-charlie-hurt-reaction.amp",
-      "publishedDateTime": "2021-04-20T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

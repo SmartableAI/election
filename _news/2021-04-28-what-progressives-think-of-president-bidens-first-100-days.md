@@ -335,6 +335,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris to visit Baltimore to mark 100 days in office"
+    excerpt: "Vice President Kamala Harris will visit Baltimore this week, 100 days after she and President Joe Biden were sworn into office"
+    publishedDateTime: 2021-04-25T15:02:00Z
+    webUrl: "https://www.washingtonpost.com/local/kamala-harris-to-visit-baltimore-to-mark-100-days-in-office/2021/04/25/93d41830-a5df-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/kamala-harris-to-visit-baltimore-to-mark-100-days-in-office/2021/04/25/93d41830-a5df-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/kamala-harris-to-visit-baltimore-to-mark-100-days-in-office/2021/04/25/93d41830-a5df-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "No vice president has broken more Senate ties as early as Kamala Harris has"
     excerpt: "During the eight years that Joe Biden served as vice president to Barack Obama, he never cast a tiebreaking vote in the Senate. For eight years, Biden was just at the other end of Pennsylvania Avenue,"
     publishedDateTime: 2021-04-22T20:46:00Z
