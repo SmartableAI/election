@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-lands-new-job-pushing-americ
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden.amp"
 type: article
 quality: 198
-heat: 818
+heat: 838
 published: true
 
 provider:
@@ -519,6 +519,20 @@ related:
       - url: "https://assets.realclear.com/images/52/526043_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Kamala Harris To Tim Scott: \"No, I Don't Think America Is A Racist Country,\" But Racism Exists"
+    excerpt: "Vice President Kamala Harris responded to GOP Sen. Tim Scott's statement that America is \"not a racist country\" and we can't \"fight discrimination with more discrimination\" during an appearance Thursday on \"Good Morning America."
+    publishedDateTime: 2021-04-29T16:08:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/29/kamala_harris_no_i_dont_think_america_is_a_racist_country_but_racism_exists.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 53
+    images:
+      - url: "https://assets.realclear.com/images/54/541903.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "ytwquF9072DCOpkVkyhaCbCuEF5Skzldq4E6M14J0aHBevgswNHbLzmdkZdNSzyZqCsLdcG5JhHS2gU9zTkkTHNFJaL03XzVnY//JlLYcezOsIWtuqcDbSziDiGBCcVWJXpf2JK+FOlArV9xyF5LhFxImmDL7KyPBaaUxLXf2Pfy90sO5x4k5lTTN17iep1EPDpNYj76X5bqhXqGilLw1jopSH3b8NRVq3sTeoLMFOSx8Yd0rjeWC5n7sbpTgc8VnMnNubYHBgHv3mBZNpNt/kxWwVY4F8ieuZVp6kdSm54wbVziMkHReI2bct61mvmcW5GLvHTpoYNB4Ev16jBJfljRSZk6VRn+A02JJVpZKRI=;z7s7K/aGgqWaIRRTyVtCBQ=="

@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden tells trans Americans he has their back as GOP governors sign more anti-trans bills"
+    excerpt: "President Joe Biden pledged his support for transgender Americans during his address to a joint session of Congress on Wednesday, telling members of the community he's standing by them at a time when they face a barrage of attacks by GOP-led state legislatures.\n    \n"
+    publishedDateTime: 2021-04-29T17:23:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GrlKJ2KN80k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/biden-transgender-youth-joint-session-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/biden-transgender-youth-joint-session-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428212311-17-biden-address-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "President Biden told Turkish President Erdogan he's planning to recognize Armenian genocide"
     excerpt: "President Joe Biden told his Turkish counterpart Recep Tayyip Erdoğan on Friday he plans to recognize the 1915 massacre of Armenians by the Ottoman Empire as a genocide, according to a person familiar with the conversation.\n    \n"
     publishedDateTime: 2021-04-23T21:30:28Z
@@ -319,6 +335,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "pPSlBIRXrzoUysdf7LF6r8vi5C6NOPw7eZacQIZ6hl4/drGVH7dKyrhD+ZITXhSdXpTnOx/TQlUTQOODNP6Wg1Uj64uYkEokvG+iuIL0YcfdRhVIcQ5JMkhub8gvzSJphxH7cb8TnjXQRxyBF79BnbsPO6f4Pqz3xavDy2ajZqz0x3zFYdxILq+5QRlO1a4GYKZZmZ1Y5Cq6NCjXPKo3USLIL0lSMqNG5f+i3n1h250+YMhtqYrM7pa0bcy6NItrKu9bBYpzHIouF42/4vfUwPEHjYGhSccFqrEswI4LolDK9htv9oH9mRFg4ZHPOCTJrT0PxqAGfP7I+h2q+Hl243q2u53Bd+PcmXze1YN/Bz8=;nnevUnmYHd2d9wSuTZdmsQ=="
+secured: "IycgkeRHBNW80I7CHHCmUTwfK1KhtJ2q47MycQFuzMe3HNRDvNzutAwi86iV58KxOZG7A+2yGeCFir1VnYkLxIu4ASwsZFZe1Sr/cr9TvjipTD5BvljIuwRBlajGcbthIzDS5Cmwhu1RTFATUvohJQrxlP/bNzoCX6GSE/PXZLUHcEKkbepVKyNVCnWTKC9p6AHlRcUgv+ivuwqnoxZ5g5zSknWykAqVG/VtPpe3ef6W/ONoPnwkojq5naW3VE+SZcMIYVUfDBDnV56z9h6jZ/5c/j3hTJg2sA7FxZQt9xlx/1mhocrqkf4fcCWi95cdq7jqxCINPO+M2d9F8SbQncbu9SLlnsVUCWoJaC9qulJSd2NIrsx5tIqfi9KwEJaSuJbgYnCcEiTDZKQ1cv5Osu/s3Oi1QBax0vnW/v1xqRTWfaTg02LfN6LIcwiKflucXG4X+dp7Iu9iYhLGvl/hnsTrRSXFWwfFR8qUQ8KZc1Lq5w+w2DFCktkaFOQ2Hlh9QaTWBEOFY3TExU+2063E/g==;eO8M8uAywjgvz6hGI3H6Fw=="
 ---
 

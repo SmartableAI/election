@@ -519,6 +519,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Kamala Harris To Tim Scott: \"No, I Don't Think America Is A Racist Country,\" But Racism Exists"
+    excerpt: "Vice President Kamala Harris responded to GOP Sen. Tim Scott's statement that America is \"not a racist country\" and we can't \"fight discrimination with more discrimination\" during an appearance Thursday on \"Good Morning America."
+    publishedDateTime: 2021-04-29T16:08:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/29/kamala_harris_no_i_dont_think_america_is_a_racist_country_but_racism_exists.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 53
+    images:
+      - url: "https://assets.realclear.com/images/54/541903.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "Q4wNy2C0nokStADNoWtXoXKhuFX48XOP+tlX888FK1o+hdlPYAvfCGzAk8y4oLMSq99F1CU6YxcuDc7qw/d0nw27/iwRUhYBpzc2cpXA4hTDxcSMNQ81QwRepn/I9UPN2kMLWePFVHECLe2e4lwNRZKtQOAg2J8y5fbFUz3g8YA1zhL22ObpdNEiGrXeIr7KVqaGgtzQas9qwZNR0vrCu0i7hIESnceh865imUzZ8KkJ5JhvhR9ljDQLj18fyL4fhXH+ry3KdxCNkxRneiggc9wbUa4IQEoUShiMMUk0Y7d3TL1lhhS3UGPPzmYfVoySI0Q7nxAdOtEOXimhkhOSj1wahapjmwnZgNjbEQH+mdQ=;DUXcCU3PPqnW+36yEILN2Q=="
 ---

@@ -1,0 +1,53 @@
+---
+category: news
+title: "Biden says he was unaware of Giuliani raid: 'I give you my word, I was not'"
+excerpt: "President Joe Biden said on Thursday that he was not given a heads-up that the apartment and office of Rudy Giuliani were set to be raided Wednesday, an extraordinary move in the Justice Department's ongoing probe of former President Donald Trump's onetime attorney.\n    \n"
+publishedDateTime: 2021-04-29T16:44:54Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/T2XuBnEN6ZA/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/T2XuBnEN6ZA/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/rudy-giuliani-joe-biden-interview/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/rudy-giuliani-joe-biden-interview/index.html"
+type: article
+quality: 173
+heat: -1
+published: false
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428150841-02-rudy-giuliani-apartment-raid-0428-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Hear Trump's response to the FBI's raid of Rudy Giuliani"
+    excerpt: "Former President Donald Trump reacts in a Fox Business interview after federal investigators executed a search warrant at the home and office of Rudy Giuliani.\n    \n"
+    publishedDateTime: 2021-04-29T13:21:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qj3ThxS9z_0/donald-trump-reacts-rudy-giuliani-fbi-raid-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/29/donald-trump-reacts-rudy-giuliani-fbi-raid-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/29/donald-trump-reacts-rudy-giuliani-fbi-raid-newday-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180731112944-01-trump-with-giuliani-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "JACJv54KRLQi9SYIt02jCZgAHOlSsO3OarlgNscCWdT8Z7SAziL7B7w89k6j9HQVTPmbThPQqI2o0bO6olhoqNDT9YXXB8rvzr3kFoH5AHxdupuIaHPscRuyg4nvjlqZtQrcS0af49Ew7fe2ZK30BCJJNs+0RQfAljiLbp+P4Q3mkr5ULWp/v4HvT2f8GVmv7lJPsirjtFfIytcyRITyr/tqWvk4pZRkWnUaRYJ+R1QYVoa3yL5KqtDr/R8wz+7lYZ68397r9xzkEb8ggntLYFS0zOk84wKysNW+QknohIcwnRlfNvnxqRqws2HEljSFctm+Bqm+RfwdeEcGTthA8J+WMsG/SXH8G7KgBN7hBzA=;MR6X1ICKMiUl61rblUZRsg=="
+---
+

@@ -73,6 +73,22 @@ related:
         width: 2984
         height: 1764
         isCached: true
+  - title: "Connecticut Republicans say President Joe Biden’s sweeping plans would spend too much, too quickly"
+    excerpt: "As Democrats coalesce around President Joe Biden’s sweeping plans, Republicans in Connecticut and elsewhere say they think the president is spending too much too quickly."
+    publishedDateTime: 2021-04-29T17:25:00Z
+    webUrl: "https://www.courant.com/politics/hc-pol-president-biden-connecticut-republicans-reaction-20210429-fhlzemwvibgfvjpnmerf7owniu-story.html"
+    ampWebUrl: "https://www.courant.com/politics/hc-pol-president-biden-connecticut-republicans-reaction-20210429-fhlzemwvibgfvjpnmerf7owniu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-president-biden-connecticut-republicans-reaction-20210429-fhlzemwvibgfvjpnmerf7owniu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 61
+    images:
+      - url: "https://www.courant.com/resizer/kp2rI7FDl_PTb-2kxsj2QtPvHNM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4TTXR4G4RCSMT7TPMONQ4CKPDA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Go62wjZaEF6d01+4VJUDRZFtTenk325KevYVbUo02N5BjGyreS2Zc1uIaq/45Q5+THwPxhKn3cI0i8oakJKcJjylsKiC0VOOyGPG7oj1TlpCkaqk1LpJQHD2EHYztpQz6WzGyQAza09N4gUYVEeib6JHfE66Czeww8uK9Lsgt4hE6ofG0BWD3vvyhStM0PNxzDFsUXKOKvSsZfFKsvLr25PsFZpdbRqHfbGAXXKc3tLGAAOOIXQjANUh0M9jwBuziVqbNFvRO0po3WN6+SXaEqfXigEWwxEJcHI7vxZnS1gTsrN3e7N0c0p/Nk/0k2pf1WKYSlMGXzbCBl7qov3jAPA7gQ+yE89w4ZNpNH6buyU=;cnJadx/JR3ZUJU9QgcvdCQ=="
 ---

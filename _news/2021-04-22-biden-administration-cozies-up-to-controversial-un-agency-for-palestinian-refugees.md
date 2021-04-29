@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Georgia Gov. Kemp argues Biden spending plans 'a year late' as states reopen"
+    excerpt: "Gov. Brian Kemp says he appreciates President Biden's optimism, but the Republican from Georgia calls the president's proposals \"behind the curve.\""
+    publishedDateTime: 2021-04-29T16:22:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hd-ZDeJJHio/georgia-gov-kemp-biden-spending-plans-a-year-late"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-gov-kemp-biden-spending-plans-a-year-late.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gov-kemp-biden-spending-plans-a-year-late.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Left-wing group dumps cow poop at White House entrance, demands Biden take climate action"
     excerpt: "Climate activists dissatisfied with President Biden's climate plan are not-so-subtly expressing their displeasure, as they are literally calling \"bull----\" while dumping cow manure in front of the White House."
     publishedDateTime: 2021-04-22T14:02:32Z

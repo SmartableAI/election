@@ -61,6 +61,22 @@ related:
         width: 2984
         height: 1764
         isCached: true
+  - title: "Connecticut Republicans say President Joe Biden’s sweeping plans would spend too much, too quickly"
+    excerpt: "As Democrats coalesce around President Joe Biden’s sweeping plans, Republicans in Connecticut and elsewhere say they think the president is spending too much too quickly."
+    publishedDateTime: 2021-04-29T17:25:00Z
+    webUrl: "https://www.courant.com/politics/hc-pol-president-biden-connecticut-republicans-reaction-20210429-fhlzemwvibgfvjpnmerf7owniu-story.html"
+    ampWebUrl: "https://www.courant.com/politics/hc-pol-president-biden-connecticut-republicans-reaction-20210429-fhlzemwvibgfvjpnmerf7owniu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-president-biden-connecticut-republicans-reaction-20210429-fhlzemwvibgfvjpnmerf7owniu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 61
+    images:
+      - url: "https://www.courant.com/resizer/kp2rI7FDl_PTb-2kxsj2QtPvHNM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4TTXR4G4RCSMT7TPMONQ4CKPDA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "President Joe Biden’s first 100 days: 53% approve of job performance, two-thirds approve of COVID efforts, new poll says"
     excerpt: "A majority of Americans approve of President Joe Biden ’s first 100 days on the job, with two-thirds supporting his handling of the COVID-19 pandemic, according to a new CNN poll. The poll results come as Biden prepares to deliver an address to Congress on Wednesday night,"
     publishedDateTime: 2021-04-28T12:57:00Z

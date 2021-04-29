@@ -3,8 +3,8 @@ category: news
 title: "New York Post reporter who wrote false Kamala Harris story resigns"
 excerpt: "The rise and collapse of the tabloid’s false accusations about the vice president illustrated the speed at which political misinformation can be weaponized in the modern media environment."
 publishedDateTime: 2021-04-28T20:41:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html"
 ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
 type: article
@@ -1221,6 +1221,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "no8HrDekNFAfKn0FFHqzSjTA+fj6D8LaDU2RhK5bF8XblMjpeB/7xRM0RtHdEKrNTEzy3KS9TIeinHp9sx9N9bpFwdHkVYymmUMgbbt3nbgKOYSzUJJIkUnh4cteKHL1jsOKjU0gezROi3pkYynQggOdXdSJSQarcOpXCP+ydQ4PdWrCuUa5OPTyiG7mTp/c3j4f5YV8xoJaLqf+ueIBxgCFIKodR937WoQxhaODRu8a2Z0WAz104BFOCstbYhIYrv76XdqoClYhF+mehiF4Hkssy9rSa6/gnOdLo1xj696cQTPiis0qfRzZLK7q9O/Y69g3Rfqm66Nifq9TXOrk692/+t4bfqiJt5KojGfM1ETXr91/FoPxYbDR0EUaXEE43lXY5i6IwqnCsb2oS72gWkXD36NRbp3SN7MAEWKsPvfMe55cMV9mn7995wMSjSpMdqFwTxyoMgvmXKr75GSet0YMyU97nZ4/I3IgzAP4OvKeKWFNg1YfbrhJUQAOtyaF21uRgsmpyPJ5mZquXowWcw==;25jwQDNsp/xQtqXib10eGQ=="
+secured: "KSz2yqxisBY87iM+Sxb0eMg4tkCjDhW9kd/KBrVqYQYkvm5K1XTwNBxbznyd6B1nED2IEZw3uyi0/Ss7VHx6+uwR1/xMG6f3r2dmPOxW2pfT1yJoY+4zKozXsGPdvVEYe0/FD1Y+e3pP/mrPy/TdaZOCd0eRqfTDO4r4p1N16gcPlvgYuu2B23CahVhF1YVzuBHgMN3mFwH8JS6Yr1xJig2DlQBK+PIsFBTnoTZjXogKhY9PCeWa3fFJJEZvezgDaVUNtonpX7rAwa9Vcsp4bpj9wssSIWbDhWrtlSW1v22ySAyjdtHJtwJ3udrz6pPOzDTLRXrVoU2KzeP3WvcdoXkm1bdx7DnbBUvG+yjx9nU=;rrYRb/RtsCVtainmqnfJmQ=="
 ---
 
