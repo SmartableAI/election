@@ -188,6 +188,20 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Trump’s Battle to Win the First 100 Days"
+    excerpt: "The former president has been on an increasingly manic crusade to knock his successor and buff his own battered legacy."
+    publishedDateTime: 2021-04-29T08:30:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/04/29/donald-trump-100-days-484926"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/7c/b1/a782d7494b8980672da54063c872/mag.Kruse.Trump100Days-lede_773override.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "ILLINOIS GOP’s ASTERISK — FIRST AD for 2022 CYCLE — REMAP MAY HAVE A TRUMP FACTOR"
     excerpt: "The Illinois GOP has never been a fundraising juggernaut, and yet the first quarter numbers were still pretty bleak. For the first quarter, Illinois GOP reported receiving a little more than $115,000 in donations,"
     publishedDateTime: 2021-04-19T12:21:00Z

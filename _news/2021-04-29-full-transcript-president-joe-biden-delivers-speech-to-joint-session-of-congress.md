@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Police reform, banning assault weapons, looking beyond COVID-19: Takeaways from Joe Biden's address to Congress"
+    excerpt: "America is on the move again. Turning peril into possibility. Crisis into opportunity ,\" Biden said to Congress."
+    publishedDateTime: 2021-04-29T03:25:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/04/28/key-takeaways-bidens-speech/7385823002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/7385823002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7385823002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/29/USAT/78d3c5d2-117d-4863-9a77-b13afedf4c1a-AP21119042183764.jpg?auto=webp&crop=3904,2196,x0,y198&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "srDQIKhhwJQ2AhNvhdD/KVaQtIEHlpu/yOYZqE7Oz5Jxdrf/EoBG+HLFZK3503Pc1+25v9jVOVGucH/CCqWOOeEZyFAN1w49k3Ofs0rxyPhGqYuTpWWvmkLhjmfN/h1FugSQIVgQdD23Ux174JJbnPPkH5Cj+RdRzzQ359a2rm5RT4AWcMQGigBN+juWdl7x7hyQo6nYhJsL7RsxnG8Q6dDrNvEoUeqKu4rHlwSAyIe0h39vvibj/1xywqoynt1ULP0uBAMTKoaWOxSR+lLXUSId9ovn81lnLGGAYo6g39VFmV9IdPypsf38gxVOZ4JaV3FIN+iKon9JgTmDRKZyH3dKBAw8Uu9FqFgeeD7Yuvs=;tgq3y3rHH9CPlBNASl4gaQ=="
 ---

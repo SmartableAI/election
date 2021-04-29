@@ -446,6 +446,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "The misunderstood first 100 days of Kamala Harris"
+    excerpt: "One hundred days into her historic turn as vice president, Kamala Harris remains a largely misunderstood figure. Rather than the cautious and overly ambitious pol she’s portrayed to be, interviews with more than a dozen current and former aides and others in Harris’ orbit paint a picture of a veep who remains intensely focused on earning the trust of Joe Biden,"
+    publishedDateTime: 2021-04-29T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/04/29/first-100-days-kamala-harris-484981"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/29/first-100-days-kamala-harris-484981"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/29/first-100-days-kamala-harris-484981"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/16/76/c3105a784eb89f3063ce5534ec1b/gettyimages-1315078572-1-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden to call for peaceful protests in response to Chauvin guilty on all counts verdict"
     excerpt: "President Joe Biden is expected to speak in response to Derek Chauvin being convicted on all counts, in the death of George Floyd. Biden will call for peaceful protests and marches in the coming days."
     publishedDateTime: 2021-04-20T21:38:00Z

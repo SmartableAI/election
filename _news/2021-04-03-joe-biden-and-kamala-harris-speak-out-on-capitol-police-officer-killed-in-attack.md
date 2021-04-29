@@ -48,6 +48,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "How Kamala Harris' Approval Rating Compares to Mike Pence's in First 100 Days"
+    excerpt: "Vice President Kamala Harris reached the 100-day point into her tenure in office with a favorability rating that's nearly the same as her predecessor Mike Pence 's rating at the same point four years ago."
+    publishedDateTime: 2021-04-29T09:00:00Z
+    webUrl: "https://www.newsweek.com/harris-pence-one-hundred-days-1586921"
+    ampWebUrl: "https://www.newsweek.com/harris-pence-one-hundred-days-1586921?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-pence-one-hundred-days-1586921?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 147
+    images:
+      - url: "https://d.newsweek.com/en/full/1784534/harris-pence-face-face.jpg"
+        width: 3719
+        height: 2419
+        isCached: true
   - title: "It's Biden's speech, but Kamala Harris and Nancy Pelosi also made history"
     excerpt: "For the first time, two women flanked an American president on the dais of the House Chamber during his first address to a joint session of Congress."
     publishedDateTime: 2021-04-29T03:55:00Z
@@ -387,7 +403,7 @@ related:
   - title: "New York Post reporter who wrote false Kamala Harris story resigns"
     excerpt: "The rise and collapse of the tabloid’s false accusations about the vice president illustrated the speed at which political misinformation can be weaponized in the modern media environment."
     publishedDateTime: 2021-04-28T20:41:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html"
     ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
     type: article
@@ -543,6 +559,22 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-11/19/21/campaign_images/1242b492f2b1/watch-live-four-key-witnesses-are-testifying-at-t-2-5485-1574197771-1_dblbig.jpg"
         width: 625
         height: 415
+        isCached: true
+  - title: "How a photo and a Long Beach book drive led to a false story and attacks on Kamala Harris"
+    excerpt: "Officials knew that wrangling that many children would be a tall order, so they launched a drive to fill a library with books for the children to read. Someone donated Vice President Kamala Harris ’ 2019 children’s book “Superheroes Are Everywhere."
+    publishedDateTime: 2021-04-28T13:39:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-04-28/kamala-harris-book-ny-post-article"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-04-28/kamala-harris-book-ny-post-article?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-04-28/kamala-harris-book-ny-post-article?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 116
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/5d43916/2147483647/strip/true/crop/840x557+0+0/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0b%2Fd1%2F1ad6409d4d5cabda9002a9fce81f%2Fschumer.jpg"
+        width: 320
+        height: 212
         isCached: true
   - title: "Kamala Harris, nearly 100 days in, has been visible as vice president. But is she influential?"
     excerpt: "Harris is often at President Biden’s side publicly, and plays a key role in selling his agenda, but her level of pull behind the scenes is uncertain."

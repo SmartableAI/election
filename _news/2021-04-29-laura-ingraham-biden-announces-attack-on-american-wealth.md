@@ -128,6 +128,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "President Biden's address to Congress: The top 5 moments"
+    excerpt: "President Biden delivered an address to a joint session of Congress on Wednesday night, giving his most high-profile address to the nation yet on the eve of his 100th day in office. "
+    publishedDateTime: 2021-04-29T09:02:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7sJUoN5tz64/biden-speech-joint-session-top-five-moments"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-speech-joint-session-top-five-moments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-joint-session-top-five-moments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Winners and losers in Biden’s address to joint session of Congress"
     excerpt: "President Biden’s first address to a joint session of comments spanned 67 minutes, a host of costly topics and a gulf of partisan reaction.And for the discerning eye, the lofty rhetoric loaded into Biden’s teleprompter laid bare the night’s winners and losers."
     publishedDateTime: 2021-04-29T03:04:54Z

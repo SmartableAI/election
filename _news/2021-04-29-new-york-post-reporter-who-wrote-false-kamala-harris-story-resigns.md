@@ -3,8 +3,8 @@ category: news
 title: "New York Post reporter who wrote false Kamala Harris story resigns"
 excerpt: "The rise and collapse of the tabloid’s false accusations about the vice president illustrated the speed at which political misinformation can be weaponized in the modern media environment."
 publishedDateTime: 2021-04-28T20:41:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html"
 ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
 type: article
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenharris_1_0.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "How Kamala Harris' Approval Rating Compares to Mike Pence's in First 100 Days"
+    excerpt: "Vice President Kamala Harris reached the 100-day point into her tenure in office with a favorability rating that's nearly the same as her predecessor Mike Pence 's rating at the same point four years ago."
+    publishedDateTime: 2021-04-29T09:00:00Z
+    webUrl: "https://www.newsweek.com/harris-pence-one-hundred-days-1586921"
+    ampWebUrl: "https://www.newsweek.com/harris-pence-one-hundred-days-1586921?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-pence-one-hundred-days-1586921?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 147
+    images:
+      - url: "https://d.newsweek.com/en/full/1784534/harris-pence-face-face.jpg"
+        width: 3719
+        height: 2419
         isCached: true
   - title: "Joe Biden and Kamala Harris Speak Out on Capitol Police Officer Killed in Attack"
     excerpt: "President Joe Biden and Vice President Kamala Harris both expressed their sympathy to the family and friends of the police officer killed during the attack at the U.S. Capitol on Friday. Capitol Police Officer William \"Billy\" Evans was killed after 25-year ..."
@@ -542,6 +558,22 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-11/19/21/campaign_images/1242b492f2b1/watch-live-four-key-witnesses-are-testifying-at-t-2-5485-1574197771-1_dblbig.jpg"
         width: 625
         height: 415
+        isCached: true
+  - title: "How a photo and a Long Beach book drive led to a false story and attacks on Kamala Harris"
+    excerpt: "Officials knew that wrangling that many children would be a tall order, so they launched a drive to fill a library with books for the children to read. Someone donated Vice President Kamala Harris ’ 2019 children’s book “Superheroes Are Everywhere."
+    publishedDateTime: 2021-04-28T13:39:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-04-28/kamala-harris-book-ny-post-article"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-04-28/kamala-harris-book-ny-post-article?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-04-28/kamala-harris-book-ny-post-article?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 116
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/5d43916/2147483647/strip/true/crop/840x557+0+0/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0b%2Fd1%2F1ad6409d4d5cabda9002a9fce81f%2Fschumer.jpg"
+        width: 320
+        height: 212
         isCached: true
   - title: "Kamala Harris, nearly 100 days in, has been visible as vice president. But is she influential?"
     excerpt: "Harris is often at President Biden’s side publicly, and plays a key role in selling his agenda, but her level of pull behind the scenes is uncertain."
@@ -1157,6 +1189,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "6t1u2HloFVx8rNZVAaV5u32z0/AbskdmSD8HtvDEQWLdqRnvff9S0Jm28H9aZCtOTHsHyCSUjjBkUkNXRpUGbslWGYHbozuv7FF0rSrICbRfOKpngsbE4yslHDqNVvSrkLCVntbyBT03+ZMG0kw1p7UHch3QhJ/zYBa5uc5rN/fcLzGMmMZXC3gGh1tuHvEJjTkE1agoTNvly4POwc5uPWe+8B7iQ+22nj6yR8gExO4ZSMO7gLNh9PXTABwrDz7JdJU4PpM9fZ75zDNU7Tv1WIwo3EJiLSmWylSWl6JYzc8v3PbHDWe3ZnS7HOlU5ZC5kxv9NoR2OkYIqTUVyLkkJyOKqpzeTr5bPXNSshaT9pc=;xeETmUyVvRgDzvx6qsZKIA=="
+secured: "OOVRO+Gu4Apc5ROpipyH5NBUoFF2ZKsOel/X8Ev0A6A1p9YysqgFbf8GRgpTjdRh6PGbJfcoGO5nvogcxPc93mmmZ7SQEGcNCrz6sT5HN17yhifi34W3T+u7McMRLGZiFu2tQk8AsfmMaf6uoIAfwENAVca/gyOsXFfrTabjOadEBwHAtugv8G78DuZGv6ibTUPFEDW4GJ/y563SP7lJlAmgjyGVBP5GNlxTpnz38VvKqVgU1ltMq5MnKLr14IJJOlcJHQ3KyaUHFlFHUZTuyZB9F3kzb0+BISqbiZAPQUIa0RDKNoW9i0vaxHdv5bW+mKR1cfEmkixkUmoTmBjdWDVaFvQT6wUCsgFBsnSixEE=;YIqiAIZUgYz4MTNbxxaOHA=="
 ---
 

@@ -340,6 +340,20 @@ related:
         width: 1440
         height: 1080
         isCached: true
+  - title: "Biden frames crises as opportunity to invest in US"
+    excerpt: "In his first address to Congress, President Joe Biden called for an expansion of federal programs to drive the economy past the pandemic and broadly extend the social safety net on a scale not seen in decades."
+    publishedDateTime: 2021-04-29T08:47:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/29/biden-frames-crises-opportunity-invest-us/4885789001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f60a9e8f-ca91-4932-8eaf-cc3073f9778f_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "US President Joe Biden to visit UK for first overseas trip"
     excerpt: "The president will come to Cornwall for the G7 summit from 11-13 June, where he will meet with other world leaders, including Prime Minister Boris Johnson."
     publishedDateTime: 2021-04-24T11:33:00Z

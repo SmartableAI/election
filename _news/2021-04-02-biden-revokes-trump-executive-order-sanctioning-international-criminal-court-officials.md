@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Joe Biden warns democracy is still threatened and Trump's looming shadow proves it"
+    excerpt: "As President Joe Biden used the grand Washington stage to bemoan the Capitol insurrection as the worst attack on US democracy since the Civil War, a flurry of Trump-era flashbacks underscored the depth of the still unvanquished threat.\n    \n"
+    publishedDateTime: 2021-04-29T09:36:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AM1UAuIV13c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/joe-biden-rudy-giuliani/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/joe-biden-rudy-giuliani/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428225508-69-biden-address-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration asks for more time to decide whether to turn Trump's taxes over to the House"
     excerpt: "Lawyers for the Department of Justice have asked a judge for additional time to decide whether to turn former President Donald Trump's taxes over to the House Ways and Means Committee.\n    \n"
     publishedDateTime: 2021-03-31T21:26:31Z

@@ -326,6 +326,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden frames crises as opportunity to invest in US"
+    excerpt: "In his first address to Congress, President Joe Biden called for an expansion of federal programs to drive the economy past the pandemic and broadly extend the social safety net on a scale not seen in decades."
+    publishedDateTime: 2021-04-29T08:47:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/29/biden-frames-crises-opportunity-invest-us/4885789001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f60a9e8f-ca91-4932-8eaf-cc3073f9778f_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden to push Congress for trillions in investment"
     excerpt: "Top News Biden to push Congress for trillions in investment. Posted . In his first address to a joint session of the U.S. Congress, President Joe Biden will press for a massive in"
     publishedDateTime: 2021-04-28T17:40:00Z

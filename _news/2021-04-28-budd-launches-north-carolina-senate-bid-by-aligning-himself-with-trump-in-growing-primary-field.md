@@ -173,6 +173,20 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Trump’s Battle to Win the First 100 Days"
+    excerpt: "The former president has been on an increasingly manic crusade to knock his successor and buff his own battered legacy."
+    publishedDateTime: 2021-04-29T08:30:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/04/29/donald-trump-100-days-484926"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/7c/b1/a782d7494b8980672da54063c872/mag.Kruse.Trump100Days-lede_773override.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "POLITICO Playbook: GOP struggles with how to handle Trumpism — and Trump"
     excerpt: "In her statement, sheONALD TRUMP, which are steeped in white identity politics — and that could make this situation a bit sticky for McCarthy to handle. It’s all a big reminder that GOP leadership is still unsure how to handle both Trump and Trumpism."
     publishedDateTime: 2021-04-18T15:11:00Z
