@@ -109,6 +109,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden urges passage of police overhaul measure"
+    excerpt: "President Joe Biden said in his first address to Congress as president that he wants lawmakers to pass police overhaul legislation by the anniversary of the death of George Floyd. (April 28)"
+    publishedDateTime: 2021-04-29T04:00:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/29/biden-urges-passage-police-overhaul-measure/4884488001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2b19c6cd-bc08-4e41-9993-1be0d4de534d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "China 'closing in fast,' Biden warns Congress"
+    excerpt: "Top News China 'closing in fast,' Biden warns Congress. Posted . President Joe Biden proposed a sweeping new $1.8 trillion plan in a speech to a joint session of Congress on Wedne"
+    publishedDateTime: 2021-04-29T06:06:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEAFZUN3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210429&i=OVEAFZUN3&r=OVEAFZUN3&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Joe Biden’s first 100 days: Where he stands on key promises"
     excerpt: "As he rounds out his first 100 days in office, President Joe Biden’s focus on reining in the coronavirus during the early months of his administration seems to have paid off: He can check"
     publishedDateTime: 2021-04-26T12:23:00Z

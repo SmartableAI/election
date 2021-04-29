@@ -95,6 +95,34 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden urges passage of police overhaul measure"
+    excerpt: "President Joe Biden said in his first address to Congress as president that he wants lawmakers to pass police overhaul legislation by the anniversary of the death of George Floyd. (April 28)"
+    publishedDateTime: 2021-04-29T04:00:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/29/biden-urges-passage-police-overhaul-measure/4884488001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2b19c6cd-bc08-4e41-9993-1be0d4de534d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "China 'closing in fast,' Biden warns Congress"
+    excerpt: "Top News China 'closing in fast,' Biden warns Congress. Posted . President Joe Biden proposed a sweeping new $1.8 trillion plan in a speech to a joint session of Congress on Wedne"
+    publishedDateTime: 2021-04-29T06:06:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEAFZUN3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210429&i=OVEAFZUN3&r=OVEAFZUN3&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "'Existential crisis of our time': Joe Biden pledges to halve US emissions by 2030 – video"
     excerpt: "The goal, unveiled at the start of a two-day climate summit hosted by President Joe Biden, comes as the United States seeks to reclaim global leadership in the fight against global warming after former president Donald Trump withdrew the country from international efforts to cut emissions."
     publishedDateTime: 2021-04-22T12:50:00Z

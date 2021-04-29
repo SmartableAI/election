@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Boebert appears to troll Biden, Harris on border crisis by unfurling Mylar blanket"
+    excerpt: "Without speaking a word, U.S. Rep. Lauren Boebert appeared to tell President Biden and Vice President Harris on Wednesday night that she was thinking about their handling of the migrant crisis at the U.S.-Mexico border."
+    publishedDateTime: 2021-04-29T06:13:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-2BwtMKOq70/boebert-appears-to-troll-biden-harris-on-border-crisis-by-unfurling-mylar-blanket"
+    ampWebUrl: "https://www.foxnews.com/politics/boebert-appears-to-troll-biden-harris-on-border-crisis-by-unfurling-mylar-blanket.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-appears-to-troll-biden-harris-on-border-crisis-by-unfurling-mylar-blanket.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 194
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/522e72be-65f2-473f-8823-84318f6b4e6d/8481d89c-08ca-462e-9332-681511900b26/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris isn't at the southern border -- but migrant kids are getting Veep's book"
     excerpt: "Vice President Kamala Harris hasn’t been to the border to address a crisis she was tasked to help fix — but a children’s book she wrote is waiting there for young migrants who are being welcomed into the country."
     publishedDateTime: 2021-04-24T13:02:15Z
@@ -427,6 +443,6 @@ related:
         height: 500
         isCached: true
 
-secured: "ONQnGE7KU8E21tgjZ74gtQuXSopNJNdVSs36xveSNI7vgS9g3xRAkaifPFrLHHvoaGFb42K8FAQ3cKMQMvw9d2f5jOyUWKscqIIA4MqK3BPg6nR1ZjtYN8f8isnpZF5ou8DCoAXrlAj0Jkn6PZ0SJNJRoqoV9pB0IUcodx2hMy013iIPWK1Yb6BwL1bGPHvO5cocMpy+71Rb5OX5rAv0JIhVv83qBjzej4r3DCfFkaF2vh+ovcymKQuX/52D3ZKpGr9MEfD9IVexCzd/vMGySDMwEOmZg2XC0J0vV9CKMpT/Zc0yPmxdv82akvnLtstRRAjxGtU69tUyvGwWU9/fdS8aM6AgIPGW6eNpggSljTs=;BFBxH4j42xBFs9exQ6bbiA=="
+secured: "R7dBjEj6W7/4cagD0/S4ze91qnPHHWJYK/IDwZB8+lM81HEAHbK0pRz11XeSk3Vgc+aN3w6NbISeSUqTcf05IF2gbDjHA00SlbUk8ipIWjB9zJ7IJc0SzEfIgrReDvguz9Db6MBznf1tuz9V+qctSZB8N6W3qZ2R2Uy6+A73vw92quyXXVhahKhDrZmnDj6BT167Bzmy6mff54jHTQSEkF/Mf3biz8P+GvmyraslXq6sv6mLR2N4vVXwHDGZEBKAZLSfYRjC6TliTkUdzLiSz7+yHmTT7uPKimKVVGwFvm+JGgDBAwlmdOG5AaPv7+DzfXOPXUPTH6KipdJDTbkSfJJU75bNr2qLYuDW+uye2LRZuZE10tw05UgiuGsNGH/thZsF+7Urh6yKktkOsqwJ81Xju8TsCLLAQsw4K+hJBs8CgD/gAa2qTxNw/4irFui9wnRw11NENEiu2WmzfUoICo1o/OlqBqTET2TF5IAB/lc6mYjb69lNlAQq3g8KLnMHeYb6cEtH8x9ChiujpS3Dkg==;lTZFuDUd0RpGWu2dEmSYdA=="
 ---
 

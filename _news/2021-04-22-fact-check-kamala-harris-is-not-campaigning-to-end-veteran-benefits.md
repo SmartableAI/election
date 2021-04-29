@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Hate mail sent to DuSable Museum threatens Joe Biden, Kamala Harris and Obama family, officials say"
+    excerpt: "The Secret Service is investigating six threatening letters sent to the DuSable Museum of African American History that mention President Joe Biden, Vice President Kamala Harris and the Obama family,"
+    publishedDateTime: 2021-04-27T22:59:00Z
+    webUrl: "https://www.chicagotribune.com/news/breaking/ct-hate-mail-dusable-museum-20210427-swxsnki6yrbxjhbs4oocpcl7je-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/news/breaking/ct-hate-mail-dusable-museum-20210427-swxsnki6yrbxjhbs4oocpcl7je-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/news/breaking/ct-hate-mail-dusable-museum-20210427-swxsnki6yrbxjhbs4oocpcl7je-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 126
+    images:
+      - url: "https://www.chicagotribune.com/resizer/keU_6Ww5niCGpbPH1trZbpjM77E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AJ4EQ7MDPJC7NG24EAFSKU3KM4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Climate change creates migrants. Biden considers protections"
     excerpt: "Ioane Teitiota and his wife fought for years to stay in New Zealand as refugees, arguing that rising sea levels caused by climate change threaten the very existence of the tiny Pacific island nation they fled,"
     publishedDateTime: 2021-04-20T15:36:00Z
@@ -380,7 +396,7 @@ related:
   - title: "New York Post reporter who wrote false Kamala Harris story resigns"
     excerpt: "The rise and collapse of the tabloid’s false accusations about the vice president illustrated the speed at which political misinformation can be weaponized in the modern media environment."
     publishedDateTime: 2021-04-28T20:41:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html"
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
     ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
     type: article
@@ -473,6 +489,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "New York Post deletes story alleging Kamala Harris book given to migrant children"
+    excerpt: "The New York Post has removed a story from its website that suggested copies of a book by Vice President Harris were given to migrant children who have crossed the border in \"welcome kits.\""
+    publishedDateTime: 2021-04-27T18:11:00Z
+    webUrl: "https://thehill.com/homenews/media/550498-new-york-post-deletes-story-alleging-kamala-harris-book-given-to-migrant"
+    ampWebUrl: "https://thehill.com/homenews/media/550498-new-york-post-deletes-story-alleging-kamala-harris-book-given-to-migrant?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/550498-new-york-post-deletes-story-alleging-kamala-harris-book-given-to-migrant?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 120
+    images:
+      - url: "https://thehill.com/sites/default/files/harriskamala_042021getty.png"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Live updates: White House reacts to FedEx shooting, Biden expected to make statement"
     excerpt: "Eight people were killed and several more were injured in a mass shooting at the FedEx Ground Plainfield Operations Center late Thursday. Police say the gunman, who has not been identified by authorities,"
     publishedDateTime: 2021-04-16T16:02:00Z
@@ -520,6 +552,38 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-11/19/21/campaign_images/1242b492f2b1/watch-live-four-key-witnesses-are-testifying-at-t-2-5485-1574197771-1_dblbig.jpg"
         width: 625
         height: 415
+        isCached: true
+  - title: "Kamala Harris, nearly 100 days in, has been visible as vice president. But is she influential?"
+    excerpt: "Harris is often at President Biden’s side publicly, and plays a key role in selling his agenda, but her level of pull behind the scenes is uncertain."
+    publishedDateTime: 2021-04-26T10:00:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-04-26/kamala-harris-100-days-vice-president-influential"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-04-26/kamala-harris-100-days-vice-president-influential?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-04-26/kamala-harris-100-days-vice-president-influential?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 113
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/85d01ef/2147483647/strip/true/crop/2388x1582+212+0/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F06%2Fcb%2Fab92c598419c8a780d1aedf4d984%2Fla-na-pol-gop-rebuttal-to-biden-20210428-1.jpg"
+        width: 320
+        height: 212
+        isCached: true
+  - title: "White House Defends Kamala Harris' Absence From Border, Says VP's Focused on Cause of Migrant Surge"
+    excerpt: "The vice president, tasked with addressing the growing border crisis, hasn't traveled there since taking office."
+    publishedDateTime: 2021-04-26T19:13:00Z
+    webUrl: "https://www.newsweek.com/white-house-defends-kamala-harris-absence-border-says-vps-focused-cause-migrant-surge-1586545"
+    ampWebUrl: "https://www.newsweek.com/white-house-defends-kamala-harris-absence-border-says-vps-focused-cause-migrant-surge-1586545?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/white-house-defends-kamala-harris-absence-border-says-vps-focused-cause-migrant-surge-1586545?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 111
+    images:
+      - url: "https://d.newsweek.com/en/full/1783140/kamala-harris.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "How Joe Biden escapes life in the White House bubble"
     excerpt: "White House living isn't quite that simple for any president. Joe Biden has described it as \"a little like a gilded cage.\""

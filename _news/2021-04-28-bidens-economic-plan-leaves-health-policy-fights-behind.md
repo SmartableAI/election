@@ -520,6 +520,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Alex Padilla replaced Kamala Harris in the Senate. Now, he's pushing for an immigration overhaul."
+    excerpt: "The first Latino to represent California in the Senate is ready to ditch the filibuster in pursuit of progress."
+    publishedDateTime: 2021-04-26T08:38:00Z
+    webUrl: "https://www.politico.com/states/california/story/2021/04/26/alex-padilla-replaced-kamala-harris-in-the-senate-now-hes-pushing-for-an-immigration-overhaul-2051505"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 102
+    images:
+      - url: "https://static.politico.com/d8/9c/4eaeadd0420997ec904e8f9895a3/0520padilla.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Watch Live: Vice President Harris Delivers Remarks on the Economy"
     excerpt: "Vice President Harris Delivers Remarks on the Economy. U.S. & Politics. Watch Live: Vice President Harris Delivers Remarks on the Economy"
     publishedDateTime: 2021-04-19T15:33:00Z

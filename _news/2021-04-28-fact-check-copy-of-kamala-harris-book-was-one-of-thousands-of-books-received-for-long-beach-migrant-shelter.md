@@ -43,6 +43,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "A New York Post story about Kamala Harris triggered conservative outrage. Almost all of it was wrong. Now the reporter has resigned."
+    excerpt: "The New York Post belatedly corrected stories the journalist says she was “ordered to write,” claiming the vice president’s book was given to undocumented migrants by the thousands."
+    publishedDateTime: 2021-04-27T20:18:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/media/new-york-post-kamala-harris-correction-migrant-book/2021/04/27/ec297ac6-a769-11eb-bca5-048b2759a489_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/media/new-york-post-kamala-harris-correction-migrant-book/2021/04/27/ec297ac6-a769-11eb-bca5-048b2759a489_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/new-york-post-kamala-harris-correction-migrant-book/2021/04/27/ec297ac6-a769-11eb-bca5-048b2759a489_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 94
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NOUDWZFHRII6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Take a first look at Kamala Harris’ Madame Tussauds wax figurine — the first for a VP"
     excerpt: "Vice President Kamala Harris will make history once again as she becomes the first vice president to get their own wax figure from world-renowned museum Madame Tussauds."
     publishedDateTime: 2021-04-28T18:18:00Z

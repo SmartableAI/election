@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Boebert appears to troll Biden, Harris on border crisis by unfurling Mylar blanket"
+    excerpt: "Without speaking a word, U.S. Rep. Lauren Boebert appeared to tell President Biden and Vice President Harris on Wednesday night that she was thinking about their handling of the migrant crisis at the U.S.-Mexico border."
+    publishedDateTime: 2021-04-29T06:13:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-2BwtMKOq70/boebert-appears-to-troll-biden-harris-on-border-crisis-by-unfurling-mylar-blanket"
+    ampWebUrl: "https://www.foxnews.com/politics/boebert-appears-to-troll-biden-harris-on-border-crisis-by-unfurling-mylar-blanket.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-appears-to-troll-biden-harris-on-border-crisis-by-unfurling-mylar-blanket.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 194
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/522e72be-65f2-473f-8823-84318f6b4e6d/8481d89c-08ca-462e-9332-681511900b26/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris isn't at the southern border -- but migrant kids are getting Veep's book"
     excerpt: "Vice President Kamala Harris hasn’t been to the border to address a crisis she was tasked to help fix — but a children’s book she wrote is waiting there for young migrants who are being welcomed into the country."
     publishedDateTime: 2021-04-24T13:02:15Z
