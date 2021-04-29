@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/25/politics/kamala-harris-cnntv/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/25/politics/kamala-harris-cnntv/index.html"
 type: article
 quality: 194
-heat: 894
+heat: 914
 published: true
 
 provider:
@@ -125,6 +125,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427134751-02-biden-remarks-0427-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Here's how long Biden spoke on different issues in the joint address"
+    excerpt: "President Joe Biden spent the majority of his first speech to Congress on Wednesday discussing his economic and infrastructure plans for the nation, his foreign policy vision for America's role in the world and the coronavirus pandemic and other health care issues, according to a CNN analysis of the"
+    publishedDateTime: 2021-04-29T18:52:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xd_Iaww0-3w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/first-address-timing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/first-address-timing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428220703-43-biden-address-0428-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

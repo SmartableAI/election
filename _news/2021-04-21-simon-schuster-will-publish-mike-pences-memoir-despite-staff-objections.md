@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pence Simon & Schuster book deal sparks war of words inside company"
+    excerpt: "The employee petition demanding Simon & Schuster cancel former Vice President Mike Pence's two-book deal is a sign of a growing political divide within an industry founded on freedom of speech, observers say."
+    publishedDateTime: 2021-04-29T19:18:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5E0i7EUugzE/mike-pence-simon-schuster-book-deal-war-of-words-inside-company"
+    ampWebUrl: "https://www.foxnews.com/politics/mike-pence-simon-schuster-book-deal-war-of-words-inside-company.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pence-simon-schuster-book-deal-war-of-words-inside-company.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/rh_laurengreen_0638_sg_cmyk.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Simon & Schuster staffers call for Mike Pence memoir to be canceled"
     excerpt: "Simon & Schuster employees want the publisher to stop doing business with Trump administration officials — starting with Vice President Mike Pence. In a letter Monday to Simon &"
     publishedDateTime: 2021-04-27T01:53:00Z
@@ -44,6 +60,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Pence Simon & Schuster book deal sparks war of words inside company"
+    excerpt: "The employee petition demanding Simon & Schuster cancel former Vice President Mike Pence's two-book deal is a sign of a growing political divide within an industry founded on freedom of speech, observers say."
+    publishedDateTime: 2021-04-29T19:18:00Z
+    webUrl: "https://www.foxnews.com/politics/mike-pence-simon-schuster-book-deal-war-of-words-inside-company"
+    ampWebUrl: "https://www.foxnews.com/politics/mike-pence-simon-schuster-book-deal-war-of-words-inside-company.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pence-simon-schuster-book-deal-war-of-words-inside-company.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/rh_laurengreen_0638_sg_cmyk.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Simon & Schuster Says Mike Pence Book Will Proceed, Despite Employee Petition"
     excerpt: "We come to work each day to publish, not cancel,” CEO Jonathan Karp says in a letter to staffers."
     publishedDateTime: 2021-04-20T18:53:00Z
@@ -57,6 +89,22 @@ related:
     quality: 132
     images:
       - url: "https://images.wsj.net/im-327598/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Former Vice President Mike Pence to Publish Autobiography With Simon & Schuster"
+    excerpt: "Former Vice President Mike Pence will publish an autobiography with Simon & Schuster that chronicles his life in politics and role in the Trump administration, the publisher said, adding another anticipated title to a hot market for political books."
+    publishedDateTime: 2021-04-07T18:58:00Z
+    webUrl: "https://www.wsj.com/articles/former-vice-president-mike-pence-to-publish-autobiography-with-simon-schuster-11617825505"
+    ampWebUrl: "https://www.wsj.com/amp/articles/former-vice-president-mike-pence-to-publish-autobiography-with-simon-schuster-11617825505"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/former-vice-president-mike-pence-to-publish-autobiography-with-simon-schuster-11617825505"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
+    images:
+      - url: "https://images.wsj.net/im-321973/social"
         width: 1280
         height: 640
         isCached: true

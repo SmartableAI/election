@@ -93,6 +93,22 @@ related:
         width: 1440
         height: 1028
         isCached: true
+  - title: "Biden and Carter, longtime allies, reconnect in Georgia"
+    excerpt: "President Joe Biden is visiting former President Jimmy Carter in Plains, Georgia, where the 39th president and his wife, Rosalynn, have lived most of their lives"
+    publishedDateTime: 2021-04-29T17:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-and-carter-longtime-allies-reconnect-in-georgia/2021/04/29/ba79dd66-a919-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-and-carter-longtime-allies-reconnect-in-georgia/2021/04/29/ba79dd66-a919-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-and-carter-longtime-allies-reconnect-in-georgia/2021/04/29/ba79dd66-a919-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CQACNIVJEMI6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Rand Paul Calls for Joe Biden to Burn Face Mask to Promote COVID Vaccine"
     excerpt: "Rand said that \"virtually zero\" people have died of COVID-19 after being vaccinated. The number is closer to 5,800, according to the U.S. Centers for Disease Control and Prevention."
     publishedDateTime: 2021-04-22T01:13:00Z
@@ -166,6 +182,20 @@ related:
     quality: 103
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/55e681a2-5ed4-4e36-929e-041b3ef76723/thumbnail/1200x630/746d54b360bfeca1597d0a2eb6d30c62/cbsn-fusion-house-speaker-nancy-pelosi-on-president-bidens-address-to-congress-nation-thumbnail-703929-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Representative Ritchie Torres reacts to President Biden's address to congress"
+    excerpt: "President Joe Biden delivered his first address to a joint session of Congress on Wednesday. Congressman Ritchie Torres, a Democrat who represents New York's 15th Congressional district, joined CBSN's Tanya Rivero with his reaction to the speech and the results of the census."
+    publishedDateTime: 2021-04-29T18:34:00Z
+    webUrl: "https://www.cbsnews.com/video/rep-ritchie-torres-reacts-to-president-bidens-address-to-congress/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 102
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/29/aaf97ef9-85de-4c54-bf3b-d2b64a8561e6/thumbnail/1200x630/4ee903d6edbc34d181e50b141bee7c96/cbsn-fusion-rep-ritchie-torres-reacts-to-president-bidens-address-to-congress-thumbnail-704310-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

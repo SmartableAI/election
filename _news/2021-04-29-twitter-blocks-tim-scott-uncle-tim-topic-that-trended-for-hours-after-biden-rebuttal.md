@@ -47,20 +47,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Tucker: Biden Admin Using Force Of Law To Crush Political Dissent"
-    excerpt: "Tucker Carlson analyzes why federal agents raided Rudy Giuliani's home. TUCKER CARLSON: Today, Joe Biden gave his first address to a joint session of congress. The speech amounted to a mushy casserole of clichés designed to calm your suspicions that anything weird or scary might be going on and to reassure you that everything’s going to be just fine,"
-    publishedDateTime: 2021-04-29T14:02:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/04/29/tucker_biden_admin_using_force_of_law_to_crush_political_dissent.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/538920.jpg"
-        width: 1100
-        height: 824
-        isCached: true
 
 secured: "drqx5QwolXss9cThGS/VHaufMweX1Eo7g8YaKgucGqNZhawaEHQt+tXpHXqCcyZOPkhxDyu50+4xV1FJJ+T/LFcNpiPDqEYDwyWiVEFIbnX3pJfF80575rx32tTxemlbf/C/D6m5hPpSbkZq8p+SvvmNqwX7c5q2Ekz9J/8h7Lud5ZD+LlYkbVkJxBga+4WhIBn9nWQe0Wns+P5kxaYm9vSmlx70YpTPAcYwBgqBqbfSjTYEwYlogej8T2ki/+DL+S18druPuvPhKRZnDAH3l+/D24/wtma5dI963+CyffKCoE7pM3wINAorUwh9PHVYJMahK0XnU6+mF9sjHE+l7eZKFelUF3pErsEuIn/UTSU=;WlgXfniG7PJNDsZOeyWAkQ=="
 ---

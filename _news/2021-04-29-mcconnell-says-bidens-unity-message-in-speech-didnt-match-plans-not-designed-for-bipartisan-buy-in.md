@@ -1,0 +1,35 @@
+---
+category: news
+title: "McConnell says Biden's unity message in speech didn't match plans not 'designed' for 'bipartisan buy-in'"
+excerpt: "Senate Minority Leader Mitch McConnell said on Thursday that President Biden's address to a joint session of Congress showed the president is not serious about seeking bipartisan compromise despite his \"understated\" tone."
+publishedDateTime: 2021-04-29T18:00:19Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2WZWFS5ibwA/mcconnell-floor-remarks-biden-address-congress"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2WZWFS5ibwA/mcconnell-floor-remarks-biden-address-congress"
+ampWebUrl: "https://www.foxnews.com/politics/mcconnell-floor-remarks-biden-address-congress.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-floor-remarks-biden-address-congress.amp"
+type: article
+quality: 158
+heat: 158
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+    width: 340
+    height: 340
+    isCached: true
+
+secured: "c4gRWlzXBUYjfMjOPiFukOD1uPDWsxk/epGDLoZ727lQjnJnY0TEQYoO6GHiLUsH5sHo1YW9Wn44Sr/Yo+fpISvk/HLN2Sna2c6WL5WGGg3YPx7WflNoVtC8JOMTJ3lVY403V0uTpkLOIiPlEFzEhPACh/QMNGf+eqAF9HOlThbiJExJckpwiEjImO4t2+j6ad4cPsEACps1scJJPatAqWi/aQTK/QlrCqRd0flLfbPL2Z5TAgz/b5HFqcDiztZ6ikMJ3jePw+1tZBhhfeahrSHnC+AK5Iw1avgiZMeVlen6AGFL1ST9hiiyiXwiwptbqMO7+ViiPLGb2qQFZHLEQ4AyOjc5eTWlcfRJPHgGOzg=;8pPC/ALQy+SKqAvOApNrgA=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat.a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp"
 type: article
 quality: 135
-heat: 175
+heat: 155
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-324404/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "GOP Leaders Clash on Trump at Annual Retreat"
-    excerpt: "Republicans hope to take back control of Congress in midterms."
-    publishedDateTime: 2021-04-28T00:48:00Z
-    webUrl: "https://www.wsj.com/articles/gop-leaders-clash-on-trump-at-annual-retreat-11619563002"
-    ampWebUrl: "https://www.wsj.com/amp/articles/gop-leaders-clash-on-trump-at-annual-retreat-11619563002"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/gop-leaders-clash-on-trump-at-annual-retreat-11619563002"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-330686/social"
         width: 1280
         height: 640
         isCached: true

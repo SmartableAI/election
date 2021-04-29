@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-fo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-foreign-trip/index.html"
 type: article
 quality: 175
-heat: 535
+heat: 555
 published: true
 
 provider:
@@ -302,6 +302,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_17/3468881/210429-joe-biden-al-0724_bc66cfa1a626da9e6085bdf9335c518f.jpg"
         width: 2500
         height: 1350
+        isCached: true
+  - title: "How Biden's taxes hit the richest but skip the suburban base"
+    excerpt: "Analysis: Democrats see an opportunity to pit billionaires against even well-off professionals by taxing wealthy investors."
+    publishedDateTime: 2021-04-29T17:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/capital-punishment-how-biden-s-taxes-hit-richest-skip-suburban-n1265827"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265827"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265827"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_17/3468936/210429-biden-tax-proposal-mb-1431_de9c430d0055e6457033afb16c4a099c.JPG"
+        width: 3270
+        height: 2177
         isCached: true
   - title: "Biden appeals for unity to confront China"
     excerpt: "The president appeals for unity to confront China and warns the threat of Islamic terrorism in Russia is still very real. — The search for a Navy secretary is focusing on a politically connected former Navy officer."

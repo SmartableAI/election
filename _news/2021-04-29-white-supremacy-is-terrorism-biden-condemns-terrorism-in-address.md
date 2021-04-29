@@ -45,6 +45,22 @@ related:
         width: 1024
         height: 707
         isCached: true
+  - title: "Representative Sara Jacobs: President Biden's address \"gave us reasons\" to feel hopeful"
+    excerpt: "Congresswoman Sarah Jacobs, a Democrat from California, says President Joe Biden's address to a joint session of Congress on Wednesday gave Americans many reasons to feel \"hopeful.\" She joins CBSN's Tanya Rivero for a closer look at Mr."
+    publishedDateTime: 2021-04-29T19:14:00Z
+    webUrl: "https://www.cbsnews.com/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 117
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/29/41bc8ffb-b4cb-4c73-b658-89f738eac29c/thumbnail/1200x630/fa07439f6dbcd1f0e70a210a7ba2d4f5/cbsn-fusion-rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful-thumbnail-704368-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Obama Official Steve Rattner Says Biden Could Set Progressivism Back Decades if Massive Government Expansion Fails"
     excerpt: "Rattner's comments come on the morning after President Joe Biden delivered his first address to a joint session of Congress."
     publishedDateTime: 2021-04-29T15:16:00Z

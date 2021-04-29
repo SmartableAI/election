@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "West Virginia AG threatens lawsuit against Biden Climate Plan"
-    excerpt: "West Virginia Attorney General Patrick Morrisey on Friday, vowed to take the Biden administration to court if the president does not seek congressional approval for his latest plan to combat climate change.  "
-    publishedDateTime: 2021-04-23T20:46:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n5HUvxZxRCk/west-virginia-ag-threatens-lawsuit-against-biden-climate-plan"
-    ampWebUrl: "https://www.foxnews.com/politics/west-virginia-ag-threatens-lawsuit-against-biden-climate-plan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/west-virginia-ag-threatens-lawsuit-against-biden-climate-plan.amp"
+  - title: "Georgia secretary of state defends election law, urges Biden to stop 'playing political games'"
+    excerpt: "EXCLUSIVE: Georgia Secretary of State Brad Raffensperger defended the state’s new voting law amid heightened scrutiny—including from President Biden, who has likened the provision to “Jim Crow on steroids”— by saying it has “commonsense” safeguards for Georgia elections, and maintaining that it is not"
+    publishedDateTime: 2021-04-29T19:50:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X89KNVzQfWM/georgia-secretary-of-state-defends-election-law-urges-biden-to-stop-playing-political-games"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-secretary-of-state-defends-election-law-urges-biden-to-stop-playing-political-games.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-secretary-of-state-defends-election-law-urges-biden-to-stop-playing-political-games.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 178
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59a712c5-fbee-4739-8f1d-6c1e1b4d8cec/2cbb6979-d7f9-43e3-90a6-ecfacd5492c5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Florida AG Moody demands Biden make Supreme Court commission meetings public"
-    excerpt: "Florida Attorney General Ashley Moody called this week for President Biden to allow public access to meetings of a commission he formed to explore a potential expansion of the Supreme Court, among other reforms."
-    publishedDateTime: 2021-04-22T02:07:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ewBhAupQ7FQ/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public"
-    ampWebUrl: "https://www.foxnews.com/politics/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05c2a13b-83af-4d3f-9d1f-6b9fdb7bfc9c/1903328b-8ba5-4353-a238-68996472ba7c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Georgia Gov. Kemp argues Biden spending plans 'a year late' as states reopen"
     excerpt: "Gov. Brian Kemp says he appreciates President Biden's optimism, but the Republican from Georgia calls the president's proposals \"behind the curve.\""
@@ -79,53 +63,19 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden administration cozies up to controversial UN agency for Palestinian refugees"
-    excerpt: "The U.N. Relief and Works Agency (UNRWA) has continuously faced accusations of teaching hatred and incitement in its school system against Jews and Israelis. Yet none of this was even hinted at in an optimistic statement released following the meeting between Ambassador Linda Thomas-Greenfield and the"
-    publishedDateTime: 2021-04-22T19:40:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vjv2JWtIe-U/biden-administration-cozies-up-to-controversial-un-agency-for-palestinian"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-cozies-up-to-controversial-un-agency-for-palestinian.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-cozies-up-to-controversial-un-agency-for-palestinian.amp"
+  - title: "Tucker: Biden Admin Using Force Of Law To Crush Political Dissent"
+    excerpt: "Tucker Carlson analyzes why federal agents raided Rudy Giuliani's home. TUCKER CARLSON: Today, Joe Biden gave his first address to a joint session of congress. The speech amounted to a mushy casserole of clichés designed to calm your suspicions that anything weird or scary might be going on and to reassure you that everything’s going to be just fine,"
+    publishedDateTime: 2021-04-29T14:02:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/29/tucker_biden_admin_using_force_of_law_to_crush_political_dissent.html#!"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21027610672208.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden hammered by border lawsuits in first 100 days as GOP state AGs take 'aggressive' approach"
-    excerpt: "Republican state attorneys general are taking an aggressive approach to suing the Biden administration for its southern border policies."
-    publishedDateTime: 2021-04-28T14:22:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UStkFmpsLvo/biden-immigration-suits-states-arizona-mark-brnovich-republicans"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-suits-states-arizona-mark-brnovich-republicans.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-suits-states-arizona-mark-brnovich-republicans.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15720e17-baee-4a97-b21d-8a0a34cc5ec1/b51c05bd-8c94-4815-9b5c-dae5c0ef3d73/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden's immigration policies hurt environment? Arizona green groups react to state AG's lawsuit"
-    excerpt: "Arizona Attorney General Mark Brnovich is suing the Biden administration for failing to examine the environmental effects of its immigration policies."
-    publishedDateTime: 2021-04-29T15:46:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YHsDYT4QPRs/biden-immigration-environment-arizona-nepa-lawsuit"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-environment-arizona-nepa-lawsuit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-environment-arizona-nepa-lawsuit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ada9c350-7eb8-4879-8743-c26265764a68/7f71219a-1627-48b2-98d2-7f7f7531e024/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://assets.realclear.com/images/53/538920.jpg"
+        width: 1100
+        height: 824
         isCached: true
 
 secured: "Cz9gVaT7qTLaEZtJpPlcyktZJlvaGM48LaZT5Uhp+7b/nWYWNgZyq+EQrIWgtqiP0kdIsi7zvrdE+gdEfjC4FuuQzlhghcXlsV4ukiLqsKx+NCV2N2hLcJkN6qxONnRJRNEAsSxCt6rHdpw8vE6EW6oYOcgDHxlaXNMUk4+jCelXUcUJ9qSj9W15h3eJMRMmUwxHQ0l5760zE1YFoqba+hQZHUTDZEGFrBI+zo2DmzTK+wzNEq7BSaSAFNZiX5aN0Y1V5qgZNyarE5hp62LWF6nAU/xegyIUKkQ/wuXKL+Hn7kugMCpOtvV2B1i+PzWbY7gn+JkwarbUJa3JAGAnAgu7bO6ZfHpqUKCaphr+p4M=;r91KAMqSDIM4DT4QxWXENg=="

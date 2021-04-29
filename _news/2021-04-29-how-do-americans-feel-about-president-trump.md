@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/how-do-americans-feel-about-presid
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/how-do-americans-feel-about-president-trump-1/"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Former President Trump criticizes FBI search of Rudy Giuliani's home and office"
+    excerpt: "Former President Donald Trump spoke out against the investigation into his personal attorney, Rudy Giuliani, after the FBI executed a search warrant at Giuliani's home and office as part of the probe into Giuliani's dealings with Ukraine."
+    publishedDateTime: 2021-04-29T18:04:00Z
+    webUrl: "https://www.cbsnews.com/video/fbi-search-warrant-rudy-giuliani-home-and-office-donald-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 101
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/29/c4afdc2d-0f1f-4899-8ff4-e9b7b0267106/thumbnail/1200x630/1fa6051efb8457378284d0e57493d5a0/cbsn-fusion-fbi-search-warrant-rudy-giuliani-home-and-office-donald-trump-thumbnail-704183-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mike Lindell told Kimmel he still speaks to Trump once a month – most recently about Trump's border fears"
     excerpt: "MyPillow CEO Mike Lindell told Jimmy Kimmel he spoke to Donald Trump a few weeks ago. Trump was \"worried about what was going down at the border.\""
     publishedDateTime: 2021-04-29T12:58:00Z

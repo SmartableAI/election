@@ -32,37 +32,67 @@ images:
     isCached: true
 
 related:
-  - title: "Trump, other potential 2024 GOP contenders, gathering at major retreat"
-    excerpt: "... Trump’s influence is not big enough and we have some donors who think that Trump’s influence is too much.\" \"The party is bigger than any one candidate. Clearly, Donald Trump is a big force in the Republican Party but I think the key for us moving ..."
-    publishedDateTime: 2021-04-09T10:57:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp"
+  - title: "Cuomo defends blocking release of true NY nursing home death toll, blames Trump DOJ"
+    excerpt: "New York Gov. Andrew Cuomo pushed back after a New York Times report said his administration conducted a months-long effort to downplay the number of nursing home patients in the state who died from coronavirus."
+    publishedDateTime: 2021-04-29T18:30:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PwAQzbtDbSg/cuomo-defends-blocking-release-ny-nursing-home-death-toll-blames-trump-doj"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-defends-blocking-release-ny-nursing-home-death-toll-blames-trump-doj.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-defends-blocking-release-ny-nursing-home-death-toll-blames-trump-doj.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/mar-a-lago.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Pollsters Say They Undercounted Republicans, Trump Supporters in 2020"
-    excerpt: "One report, released Tuesday by five Democratic polling firms, finds that their surveys undercounted voters who viewed former President Donald Trump as “presidential.’’ Another, by the nonpartisan Pew Research Center, concluded that obtaining the ..."
-    publishedDateTime: 2021-04-13T21:32:00Z
-    webUrl: "https://www.wsj.com/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142"
-    ampWebUrl: "https://www.wsj.com/amp/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pollsters-say-they-undercounted-republicans-trump-supporters-in-2020-11618353142"
+  - title: "Trump loses bid to get out of testifying in protester lawsuit"
+    excerpt: "Former President Donald Trump can’t get out of testifying in a lawsuit brought by a group of protesters — since he’s no longer in office, an appeals court ruled Tuesday. Trump"
+    publishedDateTime: 2021-04-27T20:40:00Z
+    webUrl: "https://nypost.com/2021/04/27/trump-loses-bid-to-get-out-of-testifying-in-protester-lawsuit/"
+    ampWebUrl: "https://nypost.com/2021/04/27/trump-loses-bid-to-get-out-of-testifying-in-protester-lawsuit/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/27/trump-loses-bid-to-get-out-of-testifying-in-protester-lawsuit/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: New York Post
+      domain: nypost.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-324404/social"
-        width: 1280
-        height: 640
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-lawsuit.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Cuomo defends blocking release of true NY nursing home death toll, blames Trump DOJ"
+    excerpt: "New York Gov. Andrew Cuomo pushed back after a New York Times report said his administration conducted a months-long effort to downplay the number of nursing home patients in the state who died from coronavirus."
+    publishedDateTime: 2021-04-29T18:30:00Z
+    webUrl: "https://www.foxnews.com/politics/cuomo-defends-blocking-release-ny-nursing-home-death-toll-blames-trump-doj"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-defends-blocking-release-ny-nursing-home-death-toll-blames-trump-doj.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-defends-blocking-release-ny-nursing-home-death-toll-blames-trump-doj.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump's Dominance Spells Trouble for Republican Party"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-04-22T20:38:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/04/22/trumps_dominance_spells_trouble_for_republican_party_541131.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/536849_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "UZH2SUshovmrN2AzTnH0RwVuOAsmAg3k+Cgz/+d74ZAzOBn9tdN1R32DReB6ks8+SCa0tg1+iHB+T71ag9YGq8yD3dRYJTCSY8mJJ+I/xvavqOB0VOJO3c2MV/jvRcmB1yjnMiPRgAP6mHWHCav/tC07rgnDEU83cFbGT01QL7Ef/gGJ98hebSW/ldtxAQRI0C9uKFgjVciE/TAE4XvO8KVkeOGIglFyu+51Ys9mu+hjOdx87ZbrsT5evJGFhs3cb4GFZLZD+uZHAUK7RG5RVp4AUnJmc8ii40rBwXSsZCm3dAqifwakHnfYQH8WaS9/UmNnFAOjxTuDUBN1JTMeZ/sU5r4m6rSrZQlMhOaDKCRlhYfvg/ago0heeIAau6mlCARZ2pjyXnYopPENz3KBrAU823qsCCDV6fTRU1ByXvs+Jz+8yDJphJMZbCnjy3KiobsbXbMcDmccIhBBBGNJQmI/0EssBOLsSJ0royJUHFYhbZ+iAsjh/yZtaStJDJXBaB5BixcRcCb1kf83D7qw2Q==;x5jsiFvhCz0liLN0Ybxxeg=="

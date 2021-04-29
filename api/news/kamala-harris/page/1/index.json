@@ -61,17 +61,17 @@
     {
       "path": "_news/2021-04-29-kamala-harris-to-visit-milwaukee-on-tuesday-reports.md",
       "title": "Kamala Harris to visit Milwaukee on Tuesday: reports",
-      "excerpt": "The vice president on Tuesday will travel to Milwaukee, according to reports.",
+      "excerpt": "Kamala Harris has another trip away from Washington planned for next week – but it’s not a visit to the U.S.-Mexico border region. The vice president on Tuesday will travel to Milwaukee, according to reports.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qSBSt3c_D4M/kamala-harris-to-visit-milwaukee-on-tuesday-reports",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qSBSt3c_D4M/kamala-harris-to-visit-milwaukee-on-tuesday-reports",
+      "webUrl": "https://www.foxnews.com/politics/kamala-harris-to-visit-milwaukee-on-tuesday-reports",
+      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-to-visit-milwaukee-on-tuesday-reports",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 185,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -87,7 +87,7 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-to-visit-milwaukee-on-tuesday-reports.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-to-visit-milwaukee-on-tuesday-reports.amp",
-      "publishedDateTime": "2021-04-29T03:10:15-07:00",
+      "publishedDateTime": "2021-04-29T03:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -111,8 +111,8 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice",
-        "Kamala Harris"
+        "Kamala Harris",
+        "Republican Voice"
       ]
     },
     {
@@ -128,7 +128,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 838,
+      "heat": 858,
       "tags": null,
       "images": [
         {
@@ -346,7 +346,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 894,
+      "heat": 914,
       "tags": null,
       "images": [
         {
@@ -627,7 +627,7 @@
       "originalUrl": "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1710,
+      "heat": 1730,
       "tags": null,
       "images": [
         {

@@ -2,6 +2,322 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-29-cheney-wishful-thinking-by-trump-she-wont-seek-4th-term.md",
+      "title": "Cheney: 'Wishful thinking' by Trump she won't seek 4th term",
+      "excerpt": "Liz Cheney calls speculation by former President Donald Trump that she won’t seek re-election next year “wishful thinking.”",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/cheney-wishful-thinking-trump-seek-4th-term-77379316",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/cheney-wishful-thinking-trump-seek-4th-term-77379316",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_e1b55afc1f3c47869a997474e6fdc028_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/cheney-wishful-thinking-trump-seek-4th-term-77379316",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/cheney-wishful-thinking-trump-seek-4th-term-77379316",
+      "publishedDateTime": "2021-04-28T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias.md",
+      "title": "Donald Trump Suggests He May Sue CNN Over Project Veritas Video Allegedly Proving Bias",
+      "excerpt": "\"This is like a campaign contribution of magnitudes like nobody's ever seen before,\" former President Donald Trump said of a Project Veritas video that secretly recorded a CNN employee describing the network's reporting as anti-Trump \"propaganda.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306",
+      "originalUrl": "https://www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1784619/donald-trump-project-veritas-cnn-lawsuit.jpg",
+          "width": 2500,
+          "height": 1871,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306?amp=1",
+      "publishedDateTime": "2021-04-28T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-catholic-bishops-could-consider-whether-biden-should-receive-communion.md",
+      "title": "Catholic bishops could consider whether Biden should receive Communion",
+      "excerpt": "The U.S. Conference of Catholic Bishops is holding a meeting in June to consider whether its Committee on Doctrine should draft a document clarifying the church's stance on abortion.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Ng4V4kroQ4/catholic-bishops-biden-communion",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Ng4V4kroQ4/catholic-bishops-biden-communion",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e4f7add-96ea-402f-8706-bca6e0a6a190/f4d7b388-af9f-498c-94be-e5643f225419/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/catholic-bishops-biden-communion.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/catholic-bishops-biden-communion.amp",
+      "publishedDateTime": "2021-04-28T15:10:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-trump-adviser-roger-stone-says-he-was-in-a-suspicious-hit-and-run-car-accident.md",
+      "title": "Trump adviser Roger Stone says he was in a \"suspicious\" hit and run car accident",
+      "excerpt": "Roger Stone, long-time adviser and confidant of President Trump, claims he was the victim of a \"suspicious\" hit-and-run car accident Wednesday. The crash comes days after Stone admitted to CBS News that he had made contact with a suspected Russian hacker.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/trump-adviser-roger-stone-says-he-was-in-a-suspicious-hit-and-run-car-accident-1/",
+      "originalUrl": "https://www.cbsnews.com/video/trump-adviser-roger-stone-says-he-was-in-a-suspicious-hit-and-run-car-accident-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/28/a9b3a56b-52ee-48d3-a675-c22769808fc8/thumbnail/1200x630/f59bb4e20896144e795f003553c9da2e/0315-rnb-zfw-rogerstoneaccident-1270844-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/trump-adviser-roger-stone-says-he-was-in-a-suspicious-hit-and-run-car-accident-1/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-adviser-roger-stone-says-he-was-in-a-suspicious-hit-and-run-car-accident-1/",
+      "publishedDateTime": "2021-04-28T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-the-latest-biden-to-say-us-turning-peril-into-possibility.md",
+      "title": "The Latest: Biden to say US 'turning peril into possibility'",
+      "excerpt": "In his first address to Congress, President Joe Biden will declare that the nation is “turning peril into possibility, crisis into opportunity.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6TMKQ4VIFQI6XKFHL5C53TPTMQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-28T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-biden-to-keep-intelligence-inspector-general-trump-appointed.md",
+      "title": "Biden to keep intelligence inspector general Trump appointed",
+      "excerpt": "President Joe Biden intends to keep the inspector general overseeing the U.S. intelligence community who was appointed by former President Donald Trump",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 660,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_c5166b2bec7946b7a9db269a67526cb9_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616",
+      "publishedDateTime": "2021-04-28T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-bidens-pick-to-serve-on-powerful-dc-based-appellate-says-her-experience-as-a-black-jurist-might-be-valuable-if-confirmed.md",
       "title": "Biden's pick to serve on powerful DC-based appellate says her experience as a Black jurist 'might be valuable' if confirmed ",
       "excerpt": "Judge Ketanji Brown Jackson, President Joe Biden's pick to fill a vacancy on a powerful DC-based appellate court, said at a Senate hearing Wednesday that her race doesn't play a role in her work as a judge, but that her experience as an African American jurist \"might be valuable\" should she be confirmed",
@@ -390,7 +706,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 210,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -1017,310 +1333,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-trump-warmongering-fool-liz-cheney-would-embarrass-her-family-with-2024-bid.md",
-      "title": "Trump: ‘warmongering fool’ Liz Cheney would ‘embarrass her family’ with 2024 bid",
-      "excerpt": "Liz Cheney telling The Post that she’s not ruling out a presidential bid. Trump called the Wyoming Republican a “warmongering fool” and said that she would “embarrass her family” with a 2024 run. “Liz Cheney is polling sooo low in Wyoming,",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/27/trump-liz-cheney-would-embarrass-her-family-with-2024-bid/",
-      "originalUrl": "https://nypost.com/2021/04/27/trump-liz-cheney-would-embarrass-her-family-with-2024-bid/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-cheney.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/27/trump-liz-cheney-would-embarrass-her-family-with-2024-bid/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/27/trump-liz-cheney-would-embarrass-her-family-with-2024-bid/amp/",
-      "publishedDateTime": "2021-04-27T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-donald-trump-offers-advice-to-woke-oscars.md",
-      "title": "Donald Trump offers advice to ‘woke’ Oscars",
-      "excerpt": "Former President Donald Trump ​on Tuesday ​weighed in on the Academy Awards that critics lambasted as overly “woke” and which attracted its smallest TV audience in history, suggesting",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/27/donald-trump-offers-advice-to-woke-oscars/",
-      "originalUrl": "https://nypost.com/2021/04/27/donald-trump-offers-advice-to-woke-oscars/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-awards.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/27/donald-trump-offers-advice-to-woke-oscars/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/27/donald-trump-offers-advice-to-woke-oscars/amp/",
-      "publishedDateTime": "2021-04-27T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-joe-biden-to-issue-executive-order-implementing-15-an-hour-minimum-wage-for-federal-contractors.md",
-      "title": "Joe Biden to issue executive order implementing $15-an-hour minimum wage for federal contractors",
-      "excerpt": "The move is set to increase pay for hundreds of thousands of workers on government contracts by the end of March 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-executive-order-enacting-minimum-wage-federal-contractors-2021-4",
-      "originalUrl": "https://www.businessinsider.com/biden-executive-order-enacting-minimum-wage-federal-contractors-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/608760113f0560001881c2cb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-executive-order-enacting-minimum-wage-federal-contractors-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-executive-order-enacting-minimum-wage-federal-contractors-2021-4?amp",
-      "publishedDateTime": "2021-04-27T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-analysis-the-trump-republican-circus-gears-up-for-another-tour.md",
-      "title": "Analysis: The Trump Republican circus gears up for another tour",
-      "excerpt": "Donald Trump schooled his protégés well in his politics of down-in-the-muck misinformation.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V5wyQnnrMx4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V5wyQnnrMx4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210420081143-01-kevin-mccarthy-0415-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald-trump/index.html",
-      "publishedDateTime": "2021-04-27T03:28:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-simon-schuster-staffers-call-for-mike-pence-memoir-to-be-canceled.md",
-      "title": "Simon & Schuster staffers call for Mike Pence memoir to be canceled",
-      "excerpt": "Simon & Schuster employees want the publisher to stop doing business with Trump administration officials — starting with Vice President Mike Pence. In a letter Monday to Simon &",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/26/simon-schuster-staffers-call-for-mike-pence-memoir-to-be-canceled/",
-      "originalUrl": "https://nypost.com/2021/04/26/simon-schuster-staffers-call-for-mike-pence-memoir-to-be-canceled/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/mike-pence-book.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/26/simon-schuster-staffers-call-for-mike-pence-memoir-to-be-canceled/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/26/simon-schuster-staffers-call-for-mike-pence-memoir-to-be-canceled/amp/",
-      "publishedDateTime": "2021-04-26T18:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-bidens-climate-plan-doesnt-ban-meat-but-baseless-claims-left-republicans-fuming-stay-out-of-my-kitchen.md",
-      "title": "Biden’s climate plan doesn’t ban meat. But baseless claims left Republicans fuming: ‘Stay out of my kitchen.’",
-      "excerpt": "Several prominent Republican politicians attacked Biden’s climate plan with the false claim that it would strictly limit access to meat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2021/04/26/republicans-meat-biden-climate-plan/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2021/04/26/republicans-meat-biden-climate-plan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DBP5AMVFMYI6XMYUF2MTXWB6GE.jpg&w=1440",
-          "width": 1440,
-          "height": 958,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/04/26/republicans-meat-biden-climate-plan/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/04/26/republicans-meat-biden-climate-plan/?outputType=amp",
-      "publishedDateTime": "2021-04-26T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

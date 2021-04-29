@@ -76,20 +76,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Trump's Dominance Spells Trouble for Republican Party"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-04-22T20:38:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/22/trumps_dominance_spells_trouble_for_republican_party_541131.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/536849_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "1rVHU0ut7s9G96gfyMstgW0ycHyZUNjFSW2mnE9uBfHvXcQ5dygzQVhATuxzkIQb0ZCmUdQt7C/RPXlQI7XlIeyU9QjYLJHfMb87rOzHOX1O0ntR8WAcb7q1SWsEgm4zv7f+WrSjfljiljZZRRnfqMw4YIdFA+t0xOpOpdjGrkWbUjvbxp2SkMfCGDTbEzvPHsq71BnBJJOuKgMUnWTyCqLRzdCUI5odQXhGZE/LCuMrxyHkhtvZM2hxnHPfMjqrCpuZdpWdomrCj1jif2NK298veGCF6Yjf+Waz+lzKsftckOQiiTOSsLt0GHaGCXWBpjFRb3nkpOXcujWIueqAS6UaJihC+iNc/49f1zJHpjNylwThsf/+YS6LZ4c7CF2T+VOtyvDa0PAe8iinK/Z1A2heWhMFcUb7GebIsGQUCThX0QTvS59lfYxTe+9HcrPsad5y5gXs0pbA9wuteiVdyv6udi08Kh4TautMQr09RQqQUSURgjqCMQooVnXe8n1vvcVoW1w9GvpLzeueoWB0gA==;Nm9xL5sZvtvS0h0QXTG60Q=="
 ---

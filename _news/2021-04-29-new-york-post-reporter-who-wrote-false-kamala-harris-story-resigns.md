@@ -3,8 +3,8 @@ category: news
 title: "New York Post reporter who wrote false Kamala Harris story resigns"
 excerpt: "The rise and collapse of the tabloid’s false accusations about the vice president illustrated the speed at which political misinformation can be weaponized in the modern media environment."
 publishedDateTime: 2021-04-28T20:41:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html"
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
 ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
 type: article
@@ -1182,6 +1182,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Vice President Kamala Harris visits Baltimore | PHOTOS"
+    excerpt: "Dr. Anthony Fauci and Mayor Brandon Scott chat before the arrival of Vice President Kamala Harris. (Amy Davis) Dr. Jason Marx, Dr. Anthony Fauci and Mayor Brandon Scott From left, Dr. Jason Marx, site commander of M&T vaccination site, Dr. Anthony Fauci ..."
+    publishedDateTime: 2021-04-29T17:06:00Z
+    webUrl: "https://www.baltimoresun.com/news/pg-vg-kamala-harris-visits-baltimore-20210429-bpp6nk4b4nba7kdfn45l45uwn4-photogallery.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 55
+    images:
+      - url: "https://www.baltimoresun.com/resizer/RY8R6U7iSXtSXV1TQhsVXEY_wdw=/415x384/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3QSSWDMB5ZHKHMGT3LBCES6SPA.jpg"
+        width: 415
+        height: 384
+        isCached: true
   - title: "Madame Tussauds reveals bust of Kamala Harris wax figurine | Charlotte Observer"
     excerpt: "Vice President Kamala Harris will make history once again as she becomes the first vice president to get their own wax figure from world-renowned museum Madame Tussauds."
     publishedDateTime: 2021-04-28T19:28:00Z
@@ -1221,6 +1235,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "KSz2yqxisBY87iM+Sxb0eMg4tkCjDhW9kd/KBrVqYQYkvm5K1XTwNBxbznyd6B1nED2IEZw3uyi0/Ss7VHx6+uwR1/xMG6f3r2dmPOxW2pfT1yJoY+4zKozXsGPdvVEYe0/FD1Y+e3pP/mrPy/TdaZOCd0eRqfTDO4r4p1N16gcPlvgYuu2B23CahVhF1YVzuBHgMN3mFwH8JS6Yr1xJig2DlQBK+PIsFBTnoTZjXogKhY9PCeWa3fFJJEZvezgDaVUNtonpX7rAwa9Vcsp4bpj9wssSIWbDhWrtlSW1v22ySAyjdtHJtwJ3udrz6pPOzDTLRXrVoU2KzeP3WvcdoXkm1bdx7DnbBUvG+yjx9nU=;rrYRb/RtsCVtainmqnfJmQ=="
+secured: "n1Ic5sKlxK7oiRYNN1FMoNFMzAZFiuF4hPcdjZWQumEOTiGKuxdY7L1kpTOF8VJ571N5W5JQmBSI+25x1VIQtYRCEDT/w+uFczBGz3yc4UpojC1gc2D95QnIq9Q2FtUR3TLQ2c+199cM3N5aYRlQarr3EJp6bEQHFhQJ/TPh2ajZZf1lNoE5KUoaZedyr9dT4rAtcX7wDmbqYc0HuZRSVQevFiZqgGl4YeyYf+B8xU7eUngC3lTkGyCmu5XOC0i9VCe6SSbQLYa7ZqmtgOjLpLqaFxdeZZKD9fUGJHoCOt1qAd6L40ucPUIszg09Fxkw83SvimwJND2d5hEjoUQYYGtP6yHmc3jsCd9LDVBUw+A=;88OyF2Rvm88jnwe+JzGcOQ=="
 ---
 

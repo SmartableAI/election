@@ -394,6 +394,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Progressives take credit for Biden's huge spending plan: 'We are setting the agenda for the Democratic Party'"
+    excerpt: "Progressive lawmakers and advocacy groups are hailing President Biden's sweeping multitrillion-dollar tax and spending plan as a major victory for the left-wing faction of the Democratic Party. "
+    publishedDateTime: 2021-04-29T18:21:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Na-43TRuNWA/progressives-take-credit-biden-huge-spending-plan"
+    ampWebUrl: "https://www.foxnews.com/politics/progressives-take-credit-biden-huge-spending-plan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressives-take-credit-biden-huge-spending-plan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00d96b73-38ef-46ff-9e67-c4882f4368a5/02975826-568a-4e97-b558-34896c8336e2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "GOP rep, forced to watch Biden address from home, slams social distancing measures"
     excerpt: "Rep. Nancy Mace, R-S.C., called not being able to attend President Biden's first address to a joint session of Congress a \"disservice to the country.\""
     publishedDateTime: 2021-04-29T12:25:56Z
@@ -531,6 +547,6 @@ related:
         height: 500
         isCached: true
 
-secured: "A/09rK5Jf1ZK6h8c1juYsfDtC1RoiLPKvu9ngG3bcbxsJ/YuE2T/mg4nFOi0ZHRPUzSAQPHiragXn32A6lXAZQxvSOLE0SWAbronaBVWK8ifCWtL8sfiqsRl1nTCSnhjbjgtf+ZUhTOqhtxHCmoIHoGuSIKZ2ClBZS1Y/p0x8Vqdvuzs3D+YxPR+LSYwDBhX8HNWXDOKO93WPxYiPlH/J0gU0KEuZRtFHmdMtP2XKZmfKZH2j0gUM/vGFIYoPXtg/lzbFAtdpFUm+xgpEBqd2x0SA+4Qt5rbP9M7FUyOC7y0Rr//ljV8MfEE1byvLyJjrLMN6+Th43ZtWG7GvSSTC46HRBdrz2D3XydLXgnWjcY=;ieSoEcJA2xF5zAERgFgGDQ=="
+secured: "zkRfJRkrW/q+zjCyKt7Jpk4GbeUOBtmcR8X8Ap8xLE3QZfA296glx/zDOQ5r60cimz1WWxDN/bKXT6jtL/nrbeY8cmJE50uzPI/IFHdtumzp7FLMp1HTPb+71gRowWj7wkpSqXouTpUKyB6DvUflTEfogWWDP0yq2NskpqqdmWUP/uOO8QVCQHS4W7ChLn3LEjh+7O34E9Z/VZoneZpH1Ttpt0kKvDOop9IVAILBC3e1ikIY1XS5F/vJrpJHfAONBOS+9vRFnDXnJ0L1HYFuH7c62GvPqorINargYCqar+Wye+gn3JQFHXgn8RgaevLS1Z+lNTQX+CnxWY05v3uldzRYOQwZBen93iCoX+FSgwwzAVt4JQGVa4VK498qAeQCiDyJLBKZ5NPtL2BaqlHmX1zbwwGLe/B2+0HiVqHPqYcJx2eP+1zkM7OxLuXppvBEbVtPwbLl124mfNzFDeRrBSgRix2rWhI2JvXmLxnaqERNhFsiW1IBoaz6cMbmheboT9GJXQ+wZNipXW3/IVlCHw==;zW6kkFt8HlxzazB67NbeSw=="
 ---
 

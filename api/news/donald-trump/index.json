@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-30-vocal-trump-ally-kobach-opens-launches-bid-for-kansas-ag.md",
+      "title": "Vocal Trump ally Kobach opens launches bid for Kansas AG",
+      "excerpt": "Kobach, a former Kansas secretary of state, built his political brand by advocating restrictive immigration policies and tough voter identification laws, including a prove-your-ci",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/kobach-signals-intent-to-run-for-kansas-attorney-general/2021/04/29/c33997dc-a902-11eb-a8a7-5f45ddcdf364_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/kobach-signals-intent-to-run-for-kansas-attorney-general/2021/04/29/c33997dc-a902-11eb-a8a7-5f45ddcdf364_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/kobach-signals-intent-to-run-for-kansas-attorney-general/2021/04/29/c33997dc-a902-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kobach-signals-intent-to-run-for-kansas-attorney-general/2021/04/29/c33997dc-a902-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-29T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe.md",
       "title": "Manhattan District Attorney Candidates Walk Tightrope on Trump Probe",
       "excerpt": "For Manhattan district attorney candidates talking about their experience in white-collar crime cases has become a sort of proxy for indirectly addressing the Trump investigation, which is both the office’s biggest case and off limits for debate.",
@@ -119,7 +171,7 @@
       "originalUrl": "https://www.cbsnews.com/video/how-do-americans-feel-about-president-trump-1/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -844,7 +896,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 155,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1531,58 +1583,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally.md",
-      "title": "Steve Scalise Says Maxine Waters Wants 'Violent' Protests, Trump Urged Peaceful D.C. Rally",
-      "excerpt": "\"I haven't heard Maxine saying anything about people 'peacefully' protesting,\" said Louisiana GOP Rep. Scalise Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally-1585107",
-      "originalUrl": "https://www.newsweek.com/steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally-1585107",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1780605/donald-trump-steve-scalise-insurrection.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally-1585107?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/steve-scalise-says-maxine-waters-wants-violent-protests-trump-urged-peaceful-dc-rally-1585107?amp=1",
-      "publishedDateTime": "2021-04-20T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

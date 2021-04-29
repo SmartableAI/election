@@ -2,6 +2,231 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-29-georgia-secretary-of-state-defends-election-law-urges-biden-to-stop-playing-political-games.md",
+      "title": "Georgia secretary of state defends election law, urges Biden to stop 'playing political games'",
+      "excerpt": "EXCLUSIVE: Georgia Secretary of State Brad Raffensperger defended the state’s new voting law amid heightened scrutiny—including from President Biden, who has likened the provision to “Jim Crow on steroids”— by saying it has “commonsense” safeguards for Georgia elections, and maintaining that it is not",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X89KNVzQfWM/georgia-secretary-of-state-defends-election-law-urges-biden-to-stop-playing-political-games",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X89KNVzQfWM/georgia-secretary-of-state-defends-election-law-urges-biden-to-stop-playing-political-games",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 238,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/georgia-secretary-of-state-defends-election-law-urges-biden-to-stop-playing-political-games.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-secretary-of-state-defends-election-law-urges-biden-to-stop-playing-political-games.amp",
+      "publishedDateTime": "2021-04-29T12:50:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-pence-simon-schuster-book-deal-sparks-war-of-words-inside-company.md",
+      "title": "Pence Simon & Schuster book deal sparks war of words inside company",
+      "excerpt": "The employee petition demanding Simon & Schuster cancel former Vice President Mike Pence's two-book deal is a sign of a growing political divide within an industry founded on freedom of speech, observers say.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5E0i7EUugzE/mike-pence-simon-schuster-book-deal-war-of-words-inside-company",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5E0i7EUugzE/mike-pence-simon-schuster-book-deal-war-of-words-inside-company",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/rh_laurengreen_0638_sg_cmyk.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mike-pence-simon-schuster-book-deal-war-of-words-inside-company.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pence-simon-schuster-book-deal-war-of-words-inside-company.amp",
+      "publishedDateTime": "2021-04-29T12:18:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-cuomo-defends-blocking-release-of-true-ny-nursing-home-death-toll-blames-trump-doj.md",
+      "title": "Cuomo defends blocking release of true NY nursing home death toll, blames Trump DOJ",
+      "excerpt": "New York Gov. Andrew Cuomo pushed back after a New York Times report said his administration conducted a months-long effort to downplay the number of nursing home patients in the state who died from coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PwAQzbtDbSg/cuomo-defends-blocking-release-ny-nursing-home-death-toll-blames-trump-doj",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PwAQzbtDbSg/cuomo-defends-blocking-release-ny-nursing-home-death-toll-blames-trump-doj",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-defends-blocking-release-ny-nursing-home-death-toll-blames-trump-doj.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-defends-blocking-release-ny-nursing-home-death-toll-blames-trump-doj.amp",
+      "publishedDateTime": "2021-04-29T11:30:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-mcconnell-says-bidens-unity-message-in-speech-didnt-match-plans-not-designed-for-bipartisan-buy-in.md",
+      "title": "McConnell says Biden's unity message in speech didn't match plans not 'designed' for 'bipartisan buy-in'",
+      "excerpt": "Senate Minority Leader Mitch McConnell said on Thursday that President Biden's address to a joint session of Congress showed the president is not serious about seeking bipartisan compromise despite his \"understated\" tone.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2WZWFS5ibwA/mcconnell-floor-remarks-biden-address-congress",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2WZWFS5ibwA/mcconnell-floor-remarks-biden-address-congress",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-floor-remarks-biden-address-congress.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-floor-remarks-biden-address-congress.amp",
+      "publishedDateTime": "2021-04-29T11:00:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-biden-on-giuliani-raid-i-had-no-idea-this-was-underway.md",
       "title": "Biden on Giuliani raid: 'I had no idea this was underway'",
       "excerpt": "President Biden said he did not know about the FBI plans to raid the home of former President Trump's personal attorney and former New York City Mayor Rudy Giuliani before it happened, and that he learned of the operation \"when the rest of the world learned about it.\" ",
@@ -342,17 +567,17 @@
     {
       "path": "_news/2021-04-29-kamala-harris-to-visit-milwaukee-on-tuesday-reports.md",
       "title": "Kamala Harris to visit Milwaukee on Tuesday: reports",
-      "excerpt": "The vice president on Tuesday will travel to Milwaukee, according to reports.",
+      "excerpt": "Kamala Harris has another trip away from Washington planned for next week – but it’s not a visit to the U.S.-Mexico border region. The vice president on Tuesday will travel to Milwaukee, according to reports.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qSBSt3c_D4M/kamala-harris-to-visit-milwaukee-on-tuesday-reports",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qSBSt3c_D4M/kamala-harris-to-visit-milwaukee-on-tuesday-reports",
+      "webUrl": "https://www.foxnews.com/politics/kamala-harris-to-visit-milwaukee-on-tuesday-reports",
+      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-to-visit-milwaukee-on-tuesday-reports",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 185,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -368,7 +593,7 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-to-visit-milwaukee-on-tuesday-reports.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-to-visit-milwaukee-on-tuesday-reports.amp",
-      "publishedDateTime": "2021-04-29T03:10:15-07:00",
+      "publishedDateTime": "2021-04-29T03:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -392,8 +617,8 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice",
-        "Kamala Harris"
+        "Kamala Harris",
+        "Republican Voice"
       ]
     },
     {
@@ -409,7 +634,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 838,
+      "heat": 858,
       "tags": null,
       "images": [
         {
@@ -578,7 +803,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 210,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -887,54 +1112,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-27-simon-schuster-staffers-call-for-mike-pence-memoir-to-be-canceled.md",
-      "title": "Simon & Schuster staffers call for Mike Pence memoir to be canceled",
-      "excerpt": "Simon & Schuster employees want the publisher to stop doing business with Trump administration officials — starting with Vice President Mike Pence. In a letter Monday to Simon &",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/26/simon-schuster-staffers-call-for-mike-pence-memoir-to-be-canceled/",
-      "originalUrl": "https://nypost.com/2021/04/26/simon-schuster-staffers-call-for-mike-pence-memoir-to-be-canceled/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/mike-pence-book.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/26/simon-schuster-staffers-call-for-mike-pence-memoir-to-be-canceled/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/26/simon-schuster-staffers-call-for-mike-pence-memoir-to-be-canceled/amp/",
-      "publishedDateTime": "2021-04-26T18:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-24-aoc-says-biden-exceeded-progressive-expectations-in-first-100-days.md",
       "title": "AOC says Biden 'exceeded' progressive expectations in first 100 days",
       "excerpt": "Rep. Alexandria Ocasio-Cortez gave President Biden a progressive thumbs up for his 100 days in office Friday night.",
@@ -1229,7 +1406,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 295,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1454,7 +1631,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 155,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1487,177 +1664,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-pence-hits-dems-over-border-crisis-touts-trumps-success-stemming-illegal-immigration.md",
-      "title": "Pence hits Dems over border crisis, touts Trump's success stemming illegal immigration",
-      "excerpt": "Former Vice President Mike Pence on Wednesday hit President Biden and Democrats for the escalating crisis at the southern border, while touting the Trump administration’s reduction of illegal immigration -- saying Biden inherited \"the most secure southern border in American history.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_Ko9a3YWaqg/pence-hits-dems-over-border-crisis-trumps-illegal-immigration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_Ko9a3YWaqg/pence-hits-dems-over-border-crisis-trumps-illegal-immigration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 372,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3187e410-9dfa-479b-8233-dd28b7f7ebfd/674047aa-8ec5-40b0-b2b4-9cfb44aac92f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-hits-dems-over-border-crisis-trumps-illegal-immigration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-hits-dems-over-border-crisis-trumps-illegal-immigration.amp",
-      "publishedDateTime": "2021-04-22T14:40:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-house-republicans-demand-answers-from-vp-harris-on-politically-motivated-border-decision.md",
-      "title": "House Republicans demand answers from VP Harris on 'politically motivated' border decision",
-      "excerpt": "EXCLUSIVE: House Republicans are demanding answers from Vice President Kamala Harris on whether a facility for migrant children in Florida has not been activated because of the Democrat's personal politics. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2kGx09VpZ1M/house-republicans-demand-answers-from-vp-harris-on-politically-motivated-border-decisions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2kGx09VpZ1M/house-republicans-demand-answers-from-vp-harris-on-politically-motivated-border-decisions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/Cathy-McMorris-Rodgers.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T14:12:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-kamala-harris-emphasizes-root-causes-of-border-surge-says-problem-is-complex.md",
-      "title": "Kamala Harris emphasizes 'root causes' of border surge, says problem is 'complex'",
-      "excerpt": "Vice President Kamala Harris is emphasizing what she describes as the root causes of the migrant surge at the border, calling the issue \"complex\" as she continues to face criticism for her handling of the crisis.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_oBMSyjwOA/kamala-harris-root-causes-border-surge",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_oBMSyjwOA/kamala-harris-root-causes-border-surge",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/156b921d-22d3-41f3-aff2-08200f0aa640/bf10c32e-934b-4df7-ab46-f69738a062a9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-root-causes-border-surge.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-root-causes-border-surge.amp",
-      "publishedDateTime": "2021-04-22T11:06:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

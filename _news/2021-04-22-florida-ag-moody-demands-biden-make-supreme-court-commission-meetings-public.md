@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Georgia Gov. Kemp argues Biden spending plans 'a year late' as states reopen"
-    excerpt: "Gov. Brian Kemp says he appreciates President Biden's optimism, but the Republican from Georgia calls the president's proposals \"behind the curve.\""
-    publishedDateTime: 2021-04-29T16:22:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hd-ZDeJJHio/georgia-gov-kemp-biden-spending-plans-a-year-late"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-gov-kemp-biden-spending-plans-a-year-late.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gov-kemp-biden-spending-plans-a-year-late.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden administration cozies up to controversial UN agency for Palestinian refugees"
     excerpt: "The U.N. Relief and Works Agency (UNRWA) has continuously faced accusations of teaching hatred and incitement in its school system against Jews and Israelis. Yet none of this was even hinted at in an optimistic statement released following the meeting between Ambassador Linda Thomas-Greenfield and the"
     publishedDateTime: 2021-04-22T19:40:59Z
@@ -78,22 +62,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21027610672208.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Left-wing group dumps cow poop at White House entrance, demands Biden take climate action"
-    excerpt: "Climate activists dissatisfied with President Biden's climate plan are not-so-subtly expressing their displeasure, as they are literally calling \"bull----\" while dumping cow manure in front of the White House."
-    publishedDateTime: 2021-04-22T14:02:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kISNx2lXbfI/left-cow-poop-white-house-climate"
-    ampWebUrl: "https://www.foxnews.com/politics/left-cow-poop-white-house-climate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-cow-poop-white-house-climate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Biden hammered by border lawsuits in first 100 days as GOP state AGs take 'aggressive' approach"
     excerpt: "Republican state attorneys general are taking an aggressive approach to suing the Biden administration for its southern border policies."
@@ -124,6 +92,22 @@ related:
     quality: 163
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ada9c350-7eb8-4879-8743-c26265764a68/7f71219a-1627-48b2-98d2-7f7f7531e024/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "The ACLU has not filed one lawsuit against Biden in first 100 days despite humanitarian crisis at the border"
+    excerpt: "The ACLU has yet to file a single lawsuit against President Biden in his first 100 days amid the growing humanitarian crisis at the southern border."
+    publishedDateTime: 2021-04-29T18:41:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OgEpG0t0NNQ/aclu-biden-immigration-lawsuits-100-days"
+    ampWebUrl: "https://www.foxnews.com/politics/aclu-biden-immigration-lawsuits-100-days.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aclu-biden-immigration-lawsuits-100-days.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2585e171-ce02-4574-afd9-3df52959c701/890718e3-7821-4b6b-880a-6e2a6d8e3517/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

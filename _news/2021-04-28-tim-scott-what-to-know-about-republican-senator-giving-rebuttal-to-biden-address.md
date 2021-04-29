@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tim-scott-republican-response-biden
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tim-scott-republican-response-biden-south-carolina.amp"
 type: article
 quality: 170
-heat: 210
+heat: 190
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Tucker: Biden Admin Using Force Of Law To Crush Political Dissent"
-    excerpt: "Tucker Carlson analyzes why federal agents raided Rudy Giuliani's home. TUCKER CARLSON: Today, Joe Biden gave his first address to a joint session of congress. The speech amounted to a mushy casserole of clichés designed to calm your suspicions that anything weird or scary might be going on and to reassure you that everything’s going to be just fine,"
-    publishedDateTime: 2021-04-29T14:02:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/04/29/tucker_biden_admin_using_force_of_law_to_crush_political_dissent.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/538920.jpg"
-        width: 1100
-        height: 824
         isCached: true
 
 secured: "kc112XjE3DlQbi/+69XGBLUBPamOKfMpqCrRTVn2kn8dAN0uRKEyJxbuATiXz5s8/JxT5gsgfEPfaavqowctIEHxmKouLH6BfgcJPEuYWGBZQUWrrpyc+mhvDMxgBXJthwL5bRtiSYH0TlhOMDdfxJl4j/5njd3GeubnXrbk54bmJsyQQTUvfxroI53SqP5pKlWXgbwY2v3t0+QPPo/C11qqTiDVNC34ztslHyGF+1phA93pKVRNjZHaBiI4EPNJ46q8ZDJY0kAMXgrDzEAI5QrXpIFgFIES8TUtvYZPe2wo7VmdTpEpIl/z7SclGNLWfperomlY5qG8scdA0Gs8qLhMM5NUQ3Jk9H6/srtz3CQ=;Jld2qxjGU8MLm4xBifrnqQ=="

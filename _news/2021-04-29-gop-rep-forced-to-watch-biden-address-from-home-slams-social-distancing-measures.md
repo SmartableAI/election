@@ -397,6 +397,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Progressives take credit for Biden's huge spending plan: 'We are setting the agenda for the Democratic Party'"
+    excerpt: "Progressive lawmakers and advocacy groups are hailing President Biden's sweeping multitrillion-dollar tax and spending plan as a major victory for the left-wing faction of the Democratic Party. "
+    publishedDateTime: 2021-04-29T18:21:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Na-43TRuNWA/progressives-take-credit-biden-huge-spending-plan"
+    ampWebUrl: "https://www.foxnews.com/politics/progressives-take-credit-biden-huge-spending-plan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressives-take-credit-biden-huge-spending-plan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00d96b73-38ef-46ff-9e67-c4882f4368a5/02975826-568a-4e97-b558-34896c8336e2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Trump slams Biden on joint address to Congress, ‘out of control’ border crisis"
     excerpt: "Donald Trump did not hold back Thursday morning, slamming President Biden’s first joint address to Congress and the state of the nation under his leadership. Sp"
     publishedDateTime: 2021-04-29T15:18:00Z

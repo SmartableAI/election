@@ -48,22 +48,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "GOP Leaders Clash on Trump at Annual Retreat"
-    excerpt: "Republicans hope to take back control of Congress in midterms."
-    publishedDateTime: 2021-04-28T00:48:00Z
-    webUrl: "https://www.wsj.com/articles/gop-leaders-clash-on-trump-at-annual-retreat-11619563002"
-    ampWebUrl: "https://www.wsj.com/amp/articles/gop-leaders-clash-on-trump-at-annual-retreat-11619563002"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/gop-leaders-clash-on-trump-at-annual-retreat-11619563002"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-330686/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "HZJQ9Ywd1ZuQK39f+9quipJE0WKRLLrlYPExLsAb6qYfGZ6zOUVm6iu9aWFaEpoGOE9J62xfrPPZCd2XK40jUzGbMgpLkoQS2fciEReOZKIjHXU9IKoictQpjMil8OWHxZvKC2uc+4UsPUH/ErOLPHzANUIo6HmRz6eQ9FenhumXkpX3vqQGcsGPONkdWwZsMSMm3mdDAO5Esp/J3M0whxDFJFcJ0IftqjIPQZKT7+yhZewb1wONp5gVpn5EyUIbUQ60AUjTpYAMVW6M4B5eQUZYfornsfgkxY4dJTC5QePjx+f+YaTuCrQITW82rMjN58L2zmSZWA6QwjRqVWP4BGSLO63npAqkOrXK9vzyXOcoll/aB1Wqf5UEBLmfk771E9bA/50RdLU8/1y3cg8If+UZb4LnrD3iT4WB3TGzWhE3H357VVoRp4kSKbSyVddxFPR78ZGtBAqetZhsDzrqt5LyQOBUn5pkmGhMydXfxRtzmqcgEG7Ss8HPKEV+lNPGIU1lg1Lluj6OEJUqtpO3SA==;+0yA1QqOcFFcfDrqK+QP6A=="
 ---

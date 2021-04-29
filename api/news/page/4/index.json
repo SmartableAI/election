@@ -2,6 +2,272 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-23-mike-pence-worst-border-policy-in-history.md",
+      "title": "Mike Pence: 'Worst border policy in history'",
+      "excerpt": "The situation is more than complex on the southern border these days. U.S. Customs and Border Protection offers this update:",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/apr/22/inside-the-beltway-mike-pence-worst-border-policy-/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/apr/22/inside-the-beltway-mike-pence-worst-border-policy-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2021/04/22/4_222021_beltway-border-agen8202_c0-161-3000-1911_s1200x700.jpg?ce8ba673cd04f4ec823de30e08101336c565f046",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2021/apr/22/inside-the-beltway-mike-pence-worst-border-policy-/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/apr/22/inside-the-beltway-mike-pence-worst-border-policy-/",
+      "publishedDateTime": "2021-04-22T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-house-republicans-demand-answers-from-vp-harris-on-politically-motivated-border-decision.md",
+      "title": "House Republicans demand answers from VP Harris on 'politically motivated' border decision",
+      "excerpt": "EXCLUSIVE: House Republicans are demanding answers from Vice President Kamala Harris on whether a facility for migrant children in Florida has not been activated because of the Democrat's personal politics. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2kGx09VpZ1M/house-republicans-demand-answers-from-vp-harris-on-politically-motivated-border-decisions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2kGx09VpZ1M/house-republicans-demand-answers-from-vp-harris-on-politically-motivated-border-decisions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/Cathy-McMorris-Rodgers.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T14:12:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats.md",
+      "title": "'Outrageous': Bank regulator lobbies for Trump-era rule, angering Democrats",
+      "excerpt": "Consumer watchdogs have warned that it could unleash predatory loans by enabling \"payday\" lenders to evade state interest rate caps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/04/22/outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats-484295",
+      "originalUrl": "https://www.politico.com/news/2021/04/22/outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats-484295",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/9c/60/6fa5d152480e8c5e5c3979f428d6/190716-sherrod-brown-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/22/outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats-484295",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/22/outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats-484295",
+      "publishedDateTime": "2021-04-22T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-kerry-blasts-trump-for-pulling-out-of-the-paris-accord-without-any-scientific-evidence.md",
+      "title": "Kerry blasts Trump for pulling out of the Paris accord ‘without any scientific evidence’",
+      "excerpt": "Special presidential envoy for climate John F. Kerry on April 22 said the Biden administration had to restore credibility on climate after former president Donald Trump pulled out of the Paris climate accord \"without any scientific evidence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/politics/kerry-blasts-trump-for-pulling-out-of-the-paris-accord-without-any-scientific-evidence/2021/04/22/a8579bcc-bdf9-48f5-a569-039a3ae08043_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/politics/kerry-blasts-trump-for-pulling-out-of-the-paris-accord-without-any-scientific-evidence/2021/04/22/a8579bcc-bdf9-48f5-a569-039a3ae08043_video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-22-2021/t_39115ea24e174c02b8ae6ab961c27f0a_name_e0ed4a54_a375_11eb_b314_2e993bd83e31.jpg&w=1080",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-kamala-harris-emphasizes-root-causes-of-border-surge-says-problem-is-complex.md",
+      "title": "Kamala Harris emphasizes 'root causes' of border surge, says problem is 'complex'",
+      "excerpt": "Vice President Kamala Harris is emphasizing what she describes as the root causes of the migrant surge at the border, calling the issue \"complex\" as she continues to face criticism for her handling of the crisis.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_oBMSyjwOA/kamala-harris-root-causes-border-surge",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_oBMSyjwOA/kamala-harris-root-causes-border-surge",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/156b921d-22d3-41f3-aff2-08200f0aa640/bf10c32e-934b-4df7-ab46-f69738a062a9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-root-causes-border-surge.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-root-causes-border-surge.amp",
+      "publishedDateTime": "2021-04-22T11:06:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-with-trumps-backing-walker-freezes-senate-gop-field-in-georgia.md",
       "title": "With Trump's backing, Walker freezes Senate GOP field in Georgia  ",
       "excerpt": "Former President Donald Trump's backing of football great Herschel Walker to run for the Georgia Senate seat has been enough to effectively freeze the GOP field in place -- even though some Republicans privately worry the political neophyte might fizzle against Sen. Raphael Warnock in a high-stakes general",
@@ -279,7 +545,7 @@
       "originalUrl": "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1710,
+      "heat": 1730,
       "tags": null,
       "images": [
         {
@@ -1074,281 +1340,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.md",
-      "title": "Biden ignores $1B in riot damage while praising George Floyd protesters after Chauvin conviction",
-      "excerpt": "President Biden neglected to acknowledge the rioting, looting, arson and worse that reportedly caused more than $1 billion in property damage last year as he praised George Floyd protesters Tuesday following Derek Chauvin's conviction on murder charges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction",
-      "originalUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/GettyImages-1312682563.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.amp",
-      "publishedDateTime": "2021-04-21T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-foxconn-plant-once-touted-by-trump-as-a-13000-job-juggernaut-will-now-create-just-1500-jobs.md",
-      "title": "Foxconn plant, once touted by Trump as a 13,000-job juggernaut, will now create just 1,500 jobs",
-      "excerpt": "Taiwan electronics manufacturer Foxconn is drastically scaling back a planned $10 billion factory in Wisconsin, confirming its retreat from a project that former President Donald Trump once called \"the eighth wonder of the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/business/business-news/foxconn-plant-once-touted-trump-13-000-job-juggernaut-will-n1264793",
-      "originalUrl": "https://www.nbcnews.com/business/business-news/foxconn-plant-once-touted-trump-13-000-job-juggernaut-will-n1264793",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_16/3466568/210421-foxconn-mb-1404_348c6a4a19257ed509b54c9e5196d724.JPG",
-          "width": 5228,
-          "height": 3486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1264793",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264793",
-      "publishedDateTime": "2021-04-21T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-essential-politics-biden-pledges-to-leave-afghanistan-its-a-withdrawal-years-in-the-making.md",
-      "title": "Essential Politics: Biden pledges to leave Afghanistan. It’s a withdrawal years in the making.",
-      "excerpt": "Biden is the third president to pledge to reduce or completely withdraw U.S. troops in Afghanistan. It's a promise that comes after two administrations' worth of effort.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/newsletter/2021-04-21/biden-trump-afghanistan-exit-essential-politics",
-      "originalUrl": "https://www.latimes.com/politics/newsletter/2021-04-21/biden-trump-afghanistan-exit-essential-politics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/18778c0/2147483647/strip/true/crop/5419x2845+0+384/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F49%2Fec%2Fa7c1febe441aab79ab4800a5ccee%2Fbiden-66428.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-leo-terrell-biden-democrats-reaction-to-chauvin-verdict-shows-you-cannot-satisfy-these-extremists.md",
-      "title": "Leo Terrell: Biden, Democrats' reaction to Chauvin verdict shows 'you cannot satisfy these extremists'",
-      "excerpt": "President Biden and his Democratic allies still want to make the Derek Chauvin trial about race relations in America, civil rights attorney Leo Terrell told \"Hannity\" Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/leo-terrell-biden-democrats-derek-chauvin-verdict-reaction",
-      "originalUrl": "https://www.foxnews.com/media/leo-terrell-biden-democrats-derek-chauvin-verdict-reaction",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cfe28a21-906e-4e25-9720-ebf56691b38f/90f018af-b1c6-4255-9893-7731659fef9d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/leo-terrell-biden-democrats-derek-chauvin-verdict-reaction.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/leo-terrell-biden-democrats-derek-chauvin-verdict-reaction.amp",
-      "publishedDateTime": "2021-04-20T19:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-foxconn-mostly-abandons-10-billion-wisconsin-project-touted-by-trump.md",
-      "title": "Foxconn mostly abandons $10 billion Wisconsin project touted by Trump",
-      "excerpt": "Taiwan electronics manufacturer Foxconn is drastically scaling back a planned $10 billion factory in Wisconsin, confirming its retreat from a project that former U.S. President Donald Trump once called \"the eighth wonder of the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-foxconn-wisconsin-idUKKBN2C72T9",
-      "originalUrl": "https://www.reuters.com/article/us-foxconn-wisconsin-idUKKBN2C72T9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210420&t=2&i=1559266979&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3J1HK",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2C72T9",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2C72T9",
-      "publishedDateTime": "2021-04-20T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

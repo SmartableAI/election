@@ -318,6 +318,22 @@ related:
         width: 2500
         height: 1350
         isCached: true
+  - title: "How Biden's taxes hit the richest but skip the suburban base"
+    excerpt: "Analysis: Democrats see an opportunity to pit billionaires against even well-off professionals by taxing wealthy investors."
+    publishedDateTime: 2021-04-29T17:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/capital-punishment-how-biden-s-taxes-hit-richest-skip-suburban-n1265827"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265827"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265827"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_17/3468936/210429-biden-tax-proposal-mb-1431_de9c430d0055e6457033afb16c4a099c.JPG"
+        width: 3270
+        height: 2177
+        isCached: true
 
 secured: "O8Q4IOh98j7+lOd+en00C9P2DpVeBpRD6YAayjNWvCPuuuDHN76bj3fkR4Fw+vu1Po7RDO1na8q3U1bVg6NgkqYVYQ/OkG+/xL9uEcWYQHtAJQHIkZUHw61pD0nUNVIE6WhUDTzlueo6mIpgSx+f3crHHhQ/Yryif3ok5/eqR6HWZN4OzCq65HXvoSXLDhwjIAmv7hen80fWXk/iXJb0VPdJ44s8QNpIxABWgqDpx3vt0pC+bS1mqmUTgW6/9rCg9I7dlkQdUOqpuTaNk+224aqZryKcEi24aPLElYxOB3zX9njUUHUxLyC1jiLbkBp6RSfavfONvziMQr3MZlPmBW5DjUtfWpy55nFUccyCb8U=;GODgC9EDWLwB4HfNymZ07w=="
 ---

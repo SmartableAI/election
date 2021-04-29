@@ -26,35 +26,51 @@ images:
     isCached: true
 
 related:
-  - title: "Tim Scott: What to know about Republican senator giving rebuttal to Biden address"
-    excerpt: "Sen. Tim Scott is the junior senator from South Carolina and a rising star in the GOP."
-    publishedDateTime: 2021-04-28T10:12:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GGq1oP7Fhy0/tim-scott-republican-response-biden-south-carolina"
-    ampWebUrl: "https://www.foxnews.com/politics/tim-scott-republican-response-biden-south-carolina.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tim-scott-republican-response-biden-south-carolina.amp"
+  - title: "Georgia secretary of state defends election law, urges Biden to stop 'playing political games'"
+    excerpt: "EXCLUSIVE: Georgia Secretary of State Brad Raffensperger defended the state’s new voting law amid heightened scrutiny—including from President Biden, who has likened the provision to “Jim Crow on steroids”— by saying it has “commonsense” safeguards for Georgia elections, and maintaining that it is not"
+    publishedDateTime: 2021-04-29T19:50:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X89KNVzQfWM/georgia-secretary-of-state-defends-election-law-urges-biden-to-stop-playing-political-games"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-secretary-of-state-defends-election-law-urges-biden-to-stop-playing-political-games.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-secretary-of-state-defends-election-law-urges-biden-to-stop-playing-political-games.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11d83ee5-42e6-407a-a1ef-acb760a3c006/507e6206-8997-45de-9473-acc27728bd4a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Twitter blocks Tim Scott 'Uncle Tim' topic that trended for hours after Biden rebuttal"
-    excerpt: "Twitter on Thursday morning blocked the \"Uncle Tim\" trending topic – the racial slur that flooded the platform Wednesday night after Republican Sen. Tim Scott delivered his rebuttal to President Biden's address to Congress."
-    publishedDateTime: 2021-04-29T14:23:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sS46Nu5GFR0/twitter-blocks-tim-scott-uncle-tim-trending-topic-biden-rebuttal"
-    ampWebUrl: "https://www.foxnews.com/politics/twitter-blocks-tim-scott-uncle-tim-trending-topic-biden-rebuttal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-blocks-tim-scott-uncle-tim-trending-topic-biden-rebuttal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
+    quality: 178
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Georgia Gov. Kemp argues Biden spending plans 'a year late' as states reopen"
+    excerpt: "Gov. Brian Kemp says he appreciates President Biden's optimism, but the Republican from Georgia calls the president's proposals \"behind the curve.\""
+    publishedDateTime: 2021-04-29T16:22:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hd-ZDeJJHio/georgia-gov-kemp-biden-spending-plans-a-year-late"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-gov-kemp-biden-spending-plans-a-year-late.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gov-kemp-biden-spending-plans-a-year-late.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Left-wing group dumps cow poop at White House entrance, demands Biden take climate action"
+    excerpt: "Climate activists dissatisfied with President Biden's climate plan are not-so-subtly expressing their displeasure, as they are literally calling \"bull----\" while dumping cow manure in front of the White House."
+    publishedDateTime: 2021-04-22T14:02:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kISNx2lXbfI/left-cow-poop-white-house-climate"
+    ampWebUrl: "https://www.foxnews.com/politics/left-cow-poop-white-house-climate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-cow-poop-white-house-climate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
