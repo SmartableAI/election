@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "First Black House sergeant-at-arms announces Biden for joint Congress address"
+    excerpt: "The first Black House sergeant-at-arms Maj. Gen. William Walker announced President of Joe Biden for his first joint address to Congress."
+    publishedDateTime: 2021-04-29T01:19:00Z
+    webUrl: "https://www.nbcnews.com/video/first-black-house-sergeant-at-arms-announces-biden-for-joint-congress-address-111024197527"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111024197527"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111024197527"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202104/1619659009288_nbc_spec_biden_sergeantatarms_210428_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "9QzWWX8GRpHyPUiRl2PdNS2TVmr/3aWLspD9S6jnzP7XUEgbK/iq1lFRnFyFCBzC3Kx3cS/AhAe51E/+8bw7aBQpbwT63f64EDh2IEhI3/fd2Ye20dOApZVpeZtVPANhZSI9u7U9ut+YdTiYulzdZ1q5PAwLPtzaHfh9nkQQrpyRAtQQKMElRC+CiVTvuhbYyz6FJWntkWsdMyKVM37hcxTJXmIOwgcK2hQv4rudXsiLraHyB2AL33vXVrmHnpLiUc/U0eEJvt9UWUrplog/Sb9G90I+7zrPQmfAOm/gSogPvAPdqK1SjgEYoufc40lQLx7kd/SCWZx0UNPa/zaT8RwtifbaOCRXpHKHxBzX7oCclS00QjExajaDHUXxB/vFJcZfkJbYIcs0aeaUCRzmkqiYDjy2XqybOgqG3QhEgYfVSTPow+kKxhMglk0y/OiTunv9AAKeRxyimXjebj6YCd9yu1aeDDWsI8tRW6SkL1ZIA/F7xHxoEM8iQvD2b5SEm9cAMgtxcTfgS1rN/A7MOw==;EEcWeYGhcZSjOzEj8H9N0Q=="
 ---

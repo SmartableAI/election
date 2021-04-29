@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden pushes ambitious economic plan in first prime-time address to Congress"
+    excerpt: "President Joe Biden will deliver his first address to a joint session of Congress on Wednesday night, hoping to build on the trust he engendered by accelerating the nation's response to the Covid-19 pandemic to convince Americans that they should back his ambitious plans to tackle income inequality in"
+    publishedDateTime: 2021-04-29T01:51:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eoBRFBZovCw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/presidential-prime-time-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/presidential-prime-time-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428214924-37-biden-address-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First lady's virtual joint address guests spotlight Biden administration priorities"
     excerpt: "When President Joe Biden delivers his address to a joint session of Congress Wednesday night, first lady Jill Biden will forgo the traditional set of guests in the first lady's viewing box due to social distancing constraints in the House chamber amid the coronavirus pandemic. Instead, she will virtually"
     publishedDateTime: 2021-04-28T20:21:06Z
@@ -140,6 +156,22 @@ related:
     quality: 143
     images:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_16/2688286/181218-puerto-rico-hurricane-maria-damage-cs-449p_224914a1716ff83713dd32469cd273d7.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden to propose free preschool, community college in address to Congress"
+    excerpt: "He is also expected to announce an extension to the expanded child care tax benefit as part of his American Families Plan."
+    publishedDateTime: 2021-04-28T14:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-propose-free-preschool-community-college-address-congress-n1265559"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265559"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265559"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_17/3468375/210427-joe-biden-ew-704p_ba8d8d620be5de40c9e9f614f0a462c9.jpg"
         width: 2500
         height: 1667
         isCached: true

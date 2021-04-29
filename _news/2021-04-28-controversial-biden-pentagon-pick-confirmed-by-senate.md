@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "US Senate confirms Biden pick Power to head USAID"
+    excerpt: "The U.S. Senate voted on Wednesday to confirm Samantha Power, the former U.S. Ambassador to the United Nations, to lead the U.S. Agency for International Development."
+    publishedDateTime: 2021-04-29T00:00:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aea8fdJQSDE/us-senate-confirms-biden-pick-power-to-head-usaid"
+    ampWebUrl: "https://www.foxnews.com/politics/us-senate-confirms-biden-pick-power-to-head-usaid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-senate-confirms-biden-pick-power-to-head-usaid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3399c57-36fd-4097-96c2-2ae5723e4bc2/6ab2fecd-a983-4d78-a57e-0432ec72be4b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Cruz calls on Biden to fix gap in Texas levee that protects border towns"
     excerpt: "Sen. Ted Cruz, R-Texas, and local residents in Mission, Texas, are calling on President Biden to fix a compromised levee that protects border towns from the Rio Grande Valley – with hurricane season just weeks away."
     publishedDateTime: 2021-04-22T17:31:33Z

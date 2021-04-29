@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/22/politics/white-house-climate-summ
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/white-house-climate-summit/index.html"
 type: article
 quality: 159
-heat: 199
+heat: 219
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_16/3466826/210422-prince-william-mc-1005_24bb21d89a10918fb2f7bfb7c72a4387.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "First Black House sergeant-at-arms announces Biden for joint Congress address"
+    excerpt: "The first Black House sergeant-at-arms Maj. Gen. William Walker announced President of Joe Biden for his first joint address to Congress."
+    publishedDateTime: 2021-04-29T01:19:00Z
+    webUrl: "https://www.nbcnews.com/video/first-black-house-sergeant-at-arms-announces-biden-for-joint-congress-address-111024197527"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111024197527"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111024197527"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202104/1619659009288_nbc_spec_biden_sergeantatarms_210428_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "bbxN6gDDWUdWarfHTLNdnHe/FBt52Cqat8eND1VlZfqB0pTeczP7bY0m3604ytczVSUprjv1cN/TJO4Zus8MQiiFtiasMUAWE2GACBReltbREcnTv4LQMF1TO6bXFykUJDX4tyAIKzcUFPSukodGIIi1k+usT5vuUnYD6NBsPR7PIZ7/H9OEY6wIi59YrA2+za7+paWG9UErpVvYRtm/BFMrDz7yzNKsLvKvKZJvvsudZmGNBlaEH35o8xT7gWYJ/42bUX6T8zYEPwnoLGg7zH4Ycns0VG7Dhu8JSG/FEmyXDcvsWswAK5xlOJKCmLgXcpy5EiLvUPhudMwQQTiAL1MUpsLAkJtkS8x+qFim4Yw=;JYKt3H395rMczvqau3TbZQ=="
