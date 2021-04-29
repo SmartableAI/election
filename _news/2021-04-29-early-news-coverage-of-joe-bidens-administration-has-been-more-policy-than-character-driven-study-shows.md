@@ -139,6 +139,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "House Speaker Nancy Pelosi on President Biden's address to Congress, nation"
+    excerpt: "House Speaker Nancy Pelosi, a California Democrat, joins \"CBS This Morning\" to discuss President Joe Biden's first speech to a joint session of Congress."
+    publishedDateTime: 2021-04-29T12:56:00Z
+    webUrl: "https://www.cbsnews.com/video/house-speaker-nancy-pelosi-on-president-bidens-address-to-congress-nation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/55e681a2-5ed4-4e36-929e-041b3ef76723/thumbnail/1200x630/746d54b360bfeca1597d0a2eb6d30c62/cbsn-fusion-house-speaker-nancy-pelosi-on-president-bidens-address-to-congress-nation-thumbnail-703929-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Joe Biden to recognize atrocities against Armenians as genocide"
     excerpt: "A presidential proclamation to mark Armenian Genocide Remembrance Day is expected to use the term genocide to describe the killings and deportations of hundreds of thousands of Armenians."
     publishedDateTime: 2021-04-24T12:18:00Z
@@ -156,6 +170,6 @@ related:
         height: 3648
         isCached: true
 
-secured: "yKKOnIw37MkdUk+NeBunPjR5gOu3V18h8w0FAFJN+ypXcOY6nK2eOFgSZQAkTUh6mhvKE24woSN14A7SgyRUDH71zJYgqvplMHxv4LY6e5zZllQhtoPYYU7gezkKBemi1P5ILTVAjzQOlZaexMfRTE+ml8UvRCycyFQ/OsY+ewuuLTkfLp4GC2KUFu7pZ/wML/XdFLFM9D8nr9zbbIg5snX/tBeLnpcsm93QeTPaTdegJ62B52A0lPsjPPn2H7jmF4KqwrRrN9pVrPPRkDbkCAIoDd5SamAX3VmR+JbFZrUhbPjh2G4pG9Ix5WeohVYKsEIasJ2SNB+IdGShjO6NoWo2imfn8rm8lNjK7hr0/Ic=;nPdrms50f5QJAN0mn2ItlQ=="
+secured: "WreV0KMZlRjMf4SlFJRlg81gOvHPfK+tFFX38JesCKb3BVtYEL4pdMM+j8w6zPixdc6KtQXUQosfn/R8PK6P8FXqOeZ4At1DwEsDx+PGZ8Io9ZiDXWZGR6K+hk7NmRu0OeeU/z49A8uFginBNAP3iWD5DHSC8w8ZE9kNWWuOVmYeJbNQPe/3sBr1PTCblZkV5WKEVok+eS+63pPc4CsIjLOqb7QoNXMtRMsLLT86WxWLt/wQp8SXHNyUntgwhU131mPd1QStF+hNm8HftlVFQJOhzzKkC1LG8xDeOVIjPbgFiQEn/CK9yFImSo9vPhtO5YtnQDJTV5ZsTamPlZldme64kC9gXfvCO8kVNY5LjbDLeeg2NhFbBb1TKZxEwPrCZmRtMh8ad/VQt1tPiKA1SvsddLxTgMSL3vWYfGALiShiSHCfaKKtL8C3hc2BlBfRLgAiib7ky7AS25IuVNWru/TNTYycmJQEe0hmfIYXpRMRKri9Qlmh3H4AIiVqkKzb+1aj5PEzjVu9nxBKtI26jQ==;sDwdkEiSxJGPapE85U3Dhg=="
 ---
 

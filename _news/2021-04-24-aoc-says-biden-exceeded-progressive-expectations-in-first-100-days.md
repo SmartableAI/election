@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/aoc-biden-exceeded-progressive-expe
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-biden-exceeded-progressive-expectations-first-100-days.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden's 100 days in office: How a border crisis escalated"
+    excerpt: "As President Biden reaches the 100-day mark in office, one of the biggest issues facing his administration has been the rapidly worsening crisis at the southern border -- which critics have blamed on his dramatic rollback of Trump-era policies which started on day one."
+    publishedDateTime: 2021-04-29T12:59:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4Je6iVITfo/bidens-100-days-how-border-crisis-escalated"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-100-days-how-border-crisis-escalated.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-100-days-how-border-crisis-escalated.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15720e17-baee-4a97-b21d-8a0a34cc5ec1/b51c05bd-8c94-4815-9b5c-dae5c0ef3d73/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden's first 100 days in office: 'Aggressive' progressive agenda even to the left of Obama"
     excerpt: "President Biden’s first 100 days in office were marked by fierce debates on Capitol Hill over the rollout of progressive policy initiatives that have drawn comparisons to those enacted by his Democratic predecessors Franklin D. Roosevelt and Lyndon Johnson."
     publishedDateTime: 2021-04-29T10:41:28Z

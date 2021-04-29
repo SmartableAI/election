@@ -755,6 +755,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Kamala Harris, Nancy Pelosi make history seated behind Biden at speech to Congress"
+    excerpt: "Vice President Kamala Harris and House Speaker Nancy Pelosi made history Wednesday as the first women — one of them Black and Indian American — to share the stage in Congress during a presidential address."
+    publishedDateTime: 2021-04-29T13:03:00Z
+    webUrl: "https://www.al.com/news/2021/04/kamala-harris-nancy-pelosi-make-history-seated-behind-biden-at-speech-to-congress.html"
+    ampWebUrl: "https://www.al.com/news/2021/04/kamala-harris-nancy-pelosi-make-history-seated-behind-biden-at-speech-to-congress.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/kamala-harris-nancy-pelosi-make-history-seated-behind-biden-at-speech-to-congress.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 84
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/K52BWS7Z4FDEVOEMJFCCBRC26E.jpeg"
+        width: 3596
+        height: 2244
+        isCached: true
   - title: "'One giant leap': Harris says Biden's American Jobs Plan aims high, will reach higher"
     excerpt: "Vice President Kamala Harris told a small audience at GTCC that \"the president and I are determined to get this done.\""
     publishedDateTime: 2021-04-19T17:45:00Z

@@ -2,6 +2,271 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-08-donald-trump-is-not-too-queens-for-iowa.md",
+      "title": "Donald Trump is not “too Queens” for Iowa",
+      "excerpt": "CBS News Correspondent Julianna Goldman, Ed O'Keefe of the Washington Post, Mark Leibovich of The New York Times Magazine, and the Atlantic’s Jeffrey Goldberg discuss Trump’s newfound Iowa appeal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/donald-trump-is-not-too-queens-for-iowa-1/",
+      "originalUrl": "https://www.cbsnews.com/video/donald-trump-is-not-too-queens-for-iowa-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/07/c1a68032-f68e-4bcd-ba4a-c86f3966bce4/thumbnail/1200x630/3c6d955cdc8e82a852c383f95c1b2883/ftn-panel3-0830-438452-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/donald-trump-is-not-too-queens-for-iowa-1/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/donald-trump-is-not-too-queens-for-iowa-1/",
+      "publishedDateTime": "2021-04-07T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-mcconnell-again-slams-biden-as-a-leftist-bernie-sanders-is-really-happy.md",
+      "title": "McConnell again slams Biden as a leftist: 'Bernie Sanders is really happy'",
+      "excerpt": "Sen. Mitch McConnell doubled down on calling President Biden “far-left,” after the administration shot back, saying Wednesday there is “nothing at all moderate about the administration so far.” ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfx3Mxw1d-g/mcconnell-doubles-down-biden-far-left-bernie-sanders",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qfx3Mxw1d-g/mcconnell-doubles-down-biden-far-left-bernie-sanders",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 253,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38a79d73-0f3e-4976-86c1-df8b65cc7425/1a5adb29-437a-423f-b1a7-862019efd686/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-doubles-down-biden-far-left-bernie-sanders.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-doubles-down-biden-far-left-bernie-sanders.amp",
+      "publishedDateTime": "2021-04-07T12:50:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-damn-it-im-sick-and-tired-of-ordinary-people-being-fleeced-biden-defends-corporate-tax-hike.md",
+      "title": "‘Damn it … I’m sick and tired of ordinary people being fleeced’: Biden defends corporate tax hike",
+      "excerpt": "President Joe Biden on Wednesday defended raising the corporate tax rate to help pay for his infrastructure plan, saying he’s “sick and tired of ordinary people being fleeced.” Biden slammed former President Donald Trump’s corporate tax rate cuts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/04/07/biden-infrastructure-speech-479721",
+      "originalUrl": "https://www.politico.com/news/2021/04/07/biden-infrastructure-speech-479721",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/c3/24/49791ee84b6a94e296633797d05f/210407-biden-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/07/biden-infrastructure-speech-479721",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/07/biden-infrastructure-speech-479721",
+      "publishedDateTime": "2021-04-07T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-nasty-notes-left-for-trump-staffers-came-from-celebs-not-obama-aides-dave-chappelle-says.md",
+      "title": "Nasty notes left for Trump staffers came from celebs, not Obama aides, Dave Chappelle says",
+      "excerpt": "When former President Donald Trump first moved into the White House in January 2017, his staffers said they found nasty notes stuffed into the drawers and cabinets — a claim President Barack",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/07/notes-left-for-trump-staffers-came-from-celebs-dave-chappelle/",
+      "originalUrl": "https://nypost.com/2021/04/07/notes-left-for-trump-staffers-came-from-celebs-dave-chappelle/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-dave-chappelle.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/07/notes-left-for-trump-staffers-came-from-celebs-dave-chappelle/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/07/notes-left-for-trump-staffers-came-from-celebs-dave-chappelle/amp/",
+      "publishedDateTime": "2021-04-07T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-biden-nominates-interior-deputy-as-departments-top-lawyer.md",
+      "title": "Biden nominates Interior deputy as department's top lawyer",
+      "excerpt": "President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far Jill Biden to visit Alabama with actress Jennifer Garner MORE has nominated ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer",
+      "originalUrl": "https://thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/deptofinterior11172020.jpg",
+          "width": 827,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer?amp",
+      "publishedDateTime": "2021-04-07T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-msnbc-host-concedes-biden-stance-on-georgia-voting-law-not-consistent-impossible-to-square-his-argument.md",
       "title": "MSNBC host concedes Biden stance on Georgia voting law not consistent: 'Impossible to square his argument'",
       "excerpt": "\"To listen to the president speaking right there, it's impossible to square his argument,\" MSNBC's Willie Geist said \"Morning Joe\" on Wednesday. MLB eventually did move the All-Star Game out of Georgia after Biden compared the state's new voting law to ...",
@@ -1090,274 +1355,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-cleveland-businessman-jumps-into-ohio-senate-race-trump-victories-need-to-be-protected.md",
-      "title": "Cleveland businessman jumps into Ohio Senate race: Trump 'victories' need to be protected",
-      "excerpt": "Moreno, a Cleveland businessman, rolled out his bid in an over two-minute-long video in which he cast himself as an outsider in the mold of former President Trump Donald Trump Joe Biden's ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/546723-cleveland-businessman-jumps-into-ohio-senate-race-saying-trump-victories",
-      "originalUrl": "https://thehill.com/homenews/campaign/546723-cleveland-businessman-jumps-into-ohio-senate-race-saying-trump-victories",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/morenobernie_4621_morenoforsenate.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/546723-cleveland-businessman-jumps-into-ohio-senate-race-saying-trump-victories?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/546723-cleveland-businessman-jumps-into-ohio-senate-race-saying-trump-victories?amp",
-      "publishedDateTime": "2021-04-06T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-momentous-error-italian-businessman-mistakenly-blacklisted-by-trump-to-sue.md",
-      "title": "‘Momentous error’: Italian businessman mistakenly blacklisted by Trump to sue",
-      "excerpt": "Alessandro Bazzoni, who owns a graphic design company in Sardinia, has been unable to trade since 19 January, when his business was slapped with sanctions as part of the Trump administration’s crackdown on blacklisted Venezuelan crude oil. In a case of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error?share=twitter",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error?share=twitter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/77075f50416d6dfd7c52865ed208c33f15ee696b/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a4cb2879f6959f413724f182ed9e8d11",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/06/italian-business-owner-to-sue-us-treasury-over-blacklist-error",
-      "publishedDateTime": "2021-04-06T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-former-trump-hud-official-fined-and-barred-from-federal-work-over-hatch-act-violation.md",
-      "title": "Former Trump HUD official fined and barred from federal work over Hatch Act violation",
-      "excerpt": "A former Housing and Urban Development official and Trump family associate has been fined and barred from federal work for violating the Hatch Act's prohibition of use of official authority after she blurred the lines between official business and politics by producing a video for the 2020 Republican",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jX0Px_-1p1g/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jX0Px_-1p1g/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 228,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210406113949-lynne-patton-2019-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/lynne-patton-osc-hud-violation/index.html",
-      "publishedDateTime": "2021-04-06T11:42:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-missouri-ag-schmitt-touts-fights-alongside-trump-in-senate-gop-race-to-replace-blunt.md",
-      "title": "Missouri AG Schmitt touts 'fights' alongside Trump in Senate GOP race to replace Blunt",
-      "excerpt": "Missouri Attorney General Eric Schmitt plans to occupy what is likely to be a crowded pro-Trump lane in the Republican primary for the state's open U.S. Senate seat, and is emphasizing his fights \"alongside\" the former president in the early stages of the race.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mbyaqj_-yac/missouri-ag-schmitt-touts-fights-alongside-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mbyaqj_-yac/missouri-ag-schmitt-touts-fights-alongside-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/missouri-ag-schmitt-touts-fights-alongside-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/missouri-ag-schmitt-touts-fights-alongside-trump.amp",
-      "publishedDateTime": "2021-04-06T09:57:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-value-judgment-donald-trump-tumbles-down-billionaires-rankings.md",
-      "title": "Value judgment: Donald Trump tumbles down billionaires’ rankings",
-      "excerpt": "Today, we learn that Donald Trump got richer, too, but was left trailing by his billionaire mates. Poor guy. According to the yearly update of Forbes’ billionaires list, Donald Trump’s standing among other billionaires has plummeted almost 300 places ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/a7bb74a5147066fcabe5dcab29348d277436ea83/0_342_5120_3074/master/5120.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a0ddb6768f8c58f6251933c2d295ea8b",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes",
-      "publishedDateTime": "2021-04-06T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

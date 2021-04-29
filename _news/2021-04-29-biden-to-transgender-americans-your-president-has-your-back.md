@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Biden to transgender Americans: 'Your president has your back'"
-excerpt: "During his joint address to Congress, President Joe Biden called for the passage of the Equality Act to LGBTQ Americans and spoke directly to transgender Americans."
-publishedDateTime: 2021-04-29T05:05:00Z
-originalUrl: "https://www.nbcnews.com/video/biden-to-transgender-americans-your-president-has-your-back-111031877945"
-webUrl: "https://www.nbcnews.com/video/biden-to-transgender-americans-your-president-has-your-back-111031877945"
-ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111031877945"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111031877945"
+title: "Biden to transgender Americans: 'Your president has your back.'"
+excerpt: "President Biden's remarks, made during his first joint address to Congress, comes amid a wave of state bills targeting transgender people."
+publishedDateTime: 2021-04-29T13:55:00Z
+originalUrl: "https://www.nbcnews.com/feature/nbc-out/biden-transgender-americans-your-president-has-your-back-n1265836"
+webUrl: "https://www.nbcnews.com/feature/nbc-out/biden-transgender-americans-your-president-has-your-back-n1265836"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265836"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265836"
 type: article
 quality: 135
 heat: -1
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202104/BidenTrans.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://media4.s-nbcnews.com/i/newscms/2021_17/3468920/210429-joe-biden-jm-0914_55d23117dd074be99cdfcda3fe86cb9b.jpg"
+    width: 2040
+    height: 1360
     isCached: true
 
 related:
@@ -109,6 +109,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428214924-37-biden-address-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Joe Biden can't stop thinking about China and the future of American democracy"
+    excerpt: "White House aides were prepping President Joe Biden to virtually tour an electric vehicle battery manufacturing plant last week when the President suddenly shifted the conversation to something else entirely: China and the fate of democracy.\n    \n"
+    publishedDateTime: 2021-04-29T12:16:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fDLTDtTwHrE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/president-joe-biden-china-democracy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/president-joe-biden-china-democracy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428220345-41-biden-address-0428-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -287,6 +303,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "gZiBjHdmQgQyapFakzRPu2TpcF+yINJpKiOph6wL1wo6hgmtyEO/GH59z31SRu6VFhHsx4mjUpKnWSqG0vQ6kSjFmtx7dXnNMKLQ+Hz51UG+DeV5UY4aaoswPDNyHQUBDIYC/xHLbhIRwOJPci/PGy1m1KWn3pQEJU+93ucBIOjnStTJQNgkS7ONiMg4QKpqa3X5lSoV1pxqoD3+eBZ0+K+VIZ0+fKtOqmkFNc/v4pZsDiaZJaMjBxfj3n4apXsv7ykQGkOT6hmWlRDx3jRu4Mvmh/nGpvRIqyOIpUMquAeap3KCqhZ9osDTflnY8IgH3M3LVv+WK57WyuK0oS4N8lrK2AkR9ntp9JRrJtKKZcpLo9O6yQRQMp0q17QscA2B6V3xiNy5penihG2ZT+rM6WlJ08YHxfAK7qGAROy+CB/e83783+ZZ1QFlZ29yeNa3BICJPxr9Bg5qARxa3YLwVD4W/zO0GgU68KLY9EveLxQrwLlacQqUSbxWQCcAXgxJeHr7m03ZTEFF3RWihDXuPw==;kMdr9op0qbqN8yqA2VkYTw=="
+secured: "pPSlBIRXrzoUysdf7LF6r8vi5C6NOPw7eZacQIZ6hl4/drGVH7dKyrhD+ZITXhSdXpTnOx/TQlUTQOODNP6Wg1Uj64uYkEokvG+iuIL0YcfdRhVIcQ5JMkhub8gvzSJphxH7cb8TnjXQRxyBF79BnbsPO6f4Pqz3xavDy2ajZqz0x3zFYdxILq+5QRlO1a4GYKZZmZ1Y5Cq6NCjXPKo3USLIL0lSMqNG5f+i3n1h250+YMhtqYrM7pa0bcy6NItrKu9bBYpzHIouF42/4vfUwPEHjYGhSccFqrEswI4LolDK9htv9oH9mRFg4ZHPOCTJrT0PxqAGfP7I+h2q+Hl243q2u53Bd+PcmXze1YN/Bz8=;nnevUnmYHd2d9wSuTZdmsQ=="
 ---
 

@@ -367,6 +367,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "GOP rep, forced to watch Biden address from home, slams social distancing measures"
+    excerpt: "Rep. Nancy Mace, R-S.C., called not being able to attend President Biden's first address to a joint session of Congress a \"disservice to the country.\""
+    publishedDateTime: 2021-04-29T12:25:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IKhIUT7swc4/nancy-mace-biden-speech-congress"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/NancyMaceFNC.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "GOP’s Scott to hit Biden on school reopenings, praise Trump Warp Speed plan in rebuttal"
     excerpt: "Sen. Tim Scott will lay out the GOP’s case against President Biden’s agenda following the commander-in-chief’s first joint address to Congress on Wednesday, with the South Carolina"
     publishedDateTime: 2021-04-28T23:28:00Z
@@ -426,6 +440,22 @@ related:
     quality: 85
     images:
       - url: "https://assets.realclear.com/images/54/541090_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Long Underestimated, Biden Steps Into Spotlight"
+    excerpt: "America learned Wednesday night, if it hadnt before, not to underestimate Joe Biden. Yes, he narrowly won the states needed for victory in November."
+    publishedDateTime: 2021-04-29T12:58:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/29/biden_is_his_own_man_now_145676.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/29/biden_is_his_own_man_now_145676.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/29/biden_is_his_own_man_now_145676.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/541852_5_.jpg"
         width: 750
         height: 500
         isCached: true

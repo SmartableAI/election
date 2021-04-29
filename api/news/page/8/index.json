@@ -2,6 +2,261 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-14-biden-to-address-joint-session-of-congress-on-april-28.md",
+      "title": "Biden to address joint session of Congress on April 28",
+      "excerpt": "If Biden accepts the invitation, it would mark the first time he has addressed Congress in person since becoming president.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9tajvtn_3qk/pelosi-invites-biden-to-address-joint-congress-session-on-april-28",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9tajvtn_3qk/pelosi-invites-biden-to-address-joint-congress-session-on-april-28",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23634e94-94e7-4bf7-9e0c-fe06767c9820/a40574e7-a98b-4e06-b72a-eedcc3fe9dc2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-invites-biden-to-address-joint-congress-session-on-april-28.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-invites-biden-to-address-joint-congress-session-on-april-28.amp",
+      "publishedDateTime": "2021-04-13T17:21:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-this-has-been-a-tough-week-black-lawmakers-discuss-racial-inequities-covid-with-biden.md",
+      "title": "'This has been a tough week': Black lawmakers discuss racial inequities, COVID with Biden",
+      "excerpt": "Leaders of the Congressional Black Caucus met with President Joe Biden and Vice President Kamala Harris at the White House for the first time Tuesday and laid out their policy vision. “We had an amazing meeting where we were able to share our thoughts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/04/13/congressional-black-caucus-meets-president-joe-biden-first-time/7211806002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/04/13/congressional-black-caucus-meets-president-joe-biden-first-time/7211806002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/04/13/USAT/13d92cfa-233a-4e70-9474-30770a2b5401-AP21103688032453.jpg?auto=webp&crop=5764,3242,x1,y602&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7211806002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7211806002",
+      "publishedDateTime": "2021-04-13T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-cnn-staffer-boasts-to-project-veritas-that-network-peddled-anti-trump-propaganda.md",
+      "title": "CNN staffer boasts to Project Veritas that network peddled anti-Trump ‘propaganda’",
+      "excerpt": "A CNN staffer admitted in a secretly recorded video that his network produced “propaganda” to oust former President Donald Trump during the 2020 presidential election — and",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/",
+      "originalUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-cnn-project-veritas-60.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/amp/",
+      "publishedDateTime": "2021-04-13T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-russell-wilson-co-hosting-nbc-vaccination-special-featuring-joe-biden.md",
+      "title": "Russell Wilson co-hosting NBC vaccination special featuring Joe Biden",
+      "excerpt": "Seattle Seahawks quarterback Russell Wilson and his wife, Ciara, will host a vaccination special on NBC with President Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/apr/13/russell-wilson-co-hosting-nbc-vaccination-special-/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/apr/13/russell-wilson-co-hosting-nbc-vaccination-special-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/12/10/man_of_the_year_award_football_49511_c0-125-3000-1875_s1200x700.jpg?5df86175492ddcdc04d9d2b6261257b2d49617ee",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/apr/13/russell-wilson-co-hosting-nbc-vaccination-special-/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/13/russell-wilson-co-hosting-nbc-vaccination-special-/",
+      "publishedDateTime": "2021-04-13T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-sen-ron-johnson-warns-biden-spending-blowout-is-irresponsible-could-bankrupt-nation.md",
+      "title": "Sen. Ron Johnson warns Biden spending blowout is 'irresponsible,' could 'bankrupt nation'",
+      "excerpt": "Sen. Ron Johnson, R-Wis., told \"The Story\" Tuesday that the Biden administration is \"mortgaging our children’s future\" by driving up debt to pay for a proposed infrastructure bill.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBx-uh2_8ZQ/ron-johnson-biden-spending-blowout-irresponsible-bankrupt-america",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IBx-uh2_8ZQ/ron-johnson-biden-spending-blowout-irresponsible-bankrupt-america",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ron-johnson-biden-spending-blowout-irresponsible-bankrupt-america.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ron-johnson-biden-spending-blowout-irresponsible-bankrupt-america.amp",
+      "publishedDateTime": "2021-04-13T14:24:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-biden-raises-concerns-with-putin-about-ukraine-confrontation.md",
       "title": "Biden raises concerns with Putin about Ukraine confrontation",
       "excerpt": "President Joe Biden is calling on Russian President Vladimir Putin to “de-escalate tensions” following a Russian military buildup on Ukraine’s border",
@@ -1085,283 +1340,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-analysis-michigan-vaccine-rebuff-puts-biden-and-a-top-ally-in-a-dicey-political-spot.md",
-      "title": "Analysis: Michigan vaccine rebuff puts Biden and a top ally in a dicey political spot",
-      "excerpt": "President Joe Biden is confronting his most controversial and politically unpalatable moment yet since assuming responsibility for the US' response to the pandemic.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ds1fV9WCoU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ds1fV9WCoU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210412151138-01-biden-jobs-plan-0412-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/13/politics/michigan-joe-biden-gretchen-whitmer-covid-19/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/13/politics/michigan-joe-biden-gretchen-whitmer-covid-19/index.html",
-      "publishedDateTime": "2021-04-13T05:00:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-ohio-republican-senate-candidate-running-as-a-trump-ally-once-called-him-a-maniac.md",
-      "title": "Ohio Republican Senate candidate running as a Trump ally once called him a 'maniac'",
-      "excerpt": "CLEVELAND — As a Republican Senate candidate in Ohio, businessman Bernie Moreno hews close to former President Donald Trump’s brand. The car dealer and blockchain technology entrepreneur from the Cleveland area presents himself in much the same ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/ohio-republican-senate-candidate-running-trump-ally-once-called-him-n1263886",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/ohio-republican-senate-candidate-running-trump-ally-once-called-him-n1263886",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_15/3464194/210412-bernie-moreno-snip-ac-933p_bb15893a22226c0d44924385f24dd0ae.JPG",
-          "width": 1106,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1263886",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263886",
-      "publishedDateTime": "2021-04-12T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-biden-calls-for-peace-and-calm-in-the-wake-of-daunte-wrights-fatal-encounter-with-police-in-minnesota.md",
-      "title": "Biden calls for 'peace and calm' in the wake of Daunte Wright's fatal encounter with police in Minnesota",
-      "excerpt": "President Joe Biden on Monday called for \"peace and calm\" in the wake of Daunte Wright's fatal encounter with police in Minnesota, saying his death does not justify violence or looting.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p4s72Nch4qU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p4s72Nch4qU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210408121518-joe-biden-april-8-2021-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/12/politics/joe-biden-daunte-wright-brooklyn-center-police-shooting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/joe-biden-daunte-wright-brooklyn-center-police-shooting/index.html",
-      "publishedDateTime": "2021-04-12T16:49:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-biden-administration-hopes-troops-from-mexico-guatemala-and-honduras-can-stop-migrant-surge.md",
-      "title": "Biden Administration Hopes Troops From Mexico, Guatemala, and Honduras Can Stop Migrant Surge",
-      "excerpt": "represent the latest attempts by President Joe Biden's administration to mitigate the influx of migrants trying to enter the country through the U.S.-Mexico border. Mexico, Guatemala and Honduras each agreed to heighten troop presence along their borders ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/biden-administration-hopes-troops-mexico-guatemala-honduras-can-stop-migrant-surge-1583075",
-      "originalUrl": "https://www.newsweek.com/biden-administration-hopes-troops-mexico-guatemala-honduras-can-stop-migrant-surge-1583075",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1776683/migrants-texas.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/biden-administration-hopes-troops-mexico-guatemala-honduras-can-stop-migrant-surge-1583075?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-administration-hopes-troops-mexico-guatemala-honduras-can-stop-migrant-surge-1583075?amp=1",
-      "publishedDateTime": "2021-04-12T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us.md",
-      "title": "Sen. Wicker on infrastructure meeting with Biden: We made good points but 'there is a lot of space between us'",
-      "excerpt": "Senator Roger Wicker (R-MS) joined Fox Business' 'Kudlow' on Monday following his Oval Office meeting with President Biden and says he and his Republican colleagues made 'good points' but noted there remains 'a lot of space between' the two parties",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTl3QjV6ioY/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pTl3QjV6ioY/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us.amp",
-      "publishedDateTime": "2021-04-12T15:31:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

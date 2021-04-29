@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-fo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-foreign-trip/index.html"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428223632-02-gop-response-tim-scott-play-button-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Now, it's Congress' turn to pick up the baton on Biden's agenda"
+    excerpt: "President Joe Biden laid out a far-reaching agenda to Congress on Wednesday night, one that implored his former Senate colleagues and the House of Representatives to get to work and close out nearly a dozen issues that he has worked on for most of his career.\n    \n"
+    publishedDateTime: 2021-04-29T12:58:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lB1m--QBGMM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/congress-reaction-biden-agenda-infrastructure-negotiations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/congress-reaction-biden-agenda-infrastructure-negotiations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428233100-75-biden-address-0428-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

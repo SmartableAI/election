@@ -37,6 +37,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Vice President Kamala Harris: We must 'speak truth' about history of racism in America"
+    excerpt: "Vice President Kamala Harris said in an an exclusive interview on ABC's \"Good Morning America\" Thursday that we must 'speak truth' about history of racism in America."
+    publishedDateTime: 2021-04-29T11:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/vice-president-kamala-harris-speak-truth-history-racism/story?id=77391730"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/vice-president-kamala-harris-speak-truth-history-racism/story?id=77391730"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/vice-president-kamala-harris-speak-truth-history-racism/story?id=77391730"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala1-gma-abc-ml-210429_1619697000434_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "A New York Post story about Kamala Harris triggered conservative outrage. Almost all of it was wrong. Now the reporter has resigned."
     excerpt: "The New York Post belatedly corrected stories the journalist says she was “ordered to write,” claiming the vice president’s book was given to undocumented migrants by the thousands."
     publishedDateTime: 2021-04-27T20:18:00Z
@@ -52,6 +68,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NOUDWZFHRII6XKFHL5C53TPTMQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "'It's about time': With Kamala Harris and Nancy Pelosi, women share the dais for the first time"
+    excerpt: "\"No president has ever said those words from this podium and it's about time.\" For the first time, both of those positions are now held by women: Vice President Kamala Harris and House Speaker Nancy Pelosi."
+    publishedDateTime: 2021-04-29T10:57:00Z
+    webUrl: "https://www.statesman.com/story/news/politics/2021/04/28/joe-biden-speech-nancy-pelosi-kamala-harris-make-history/7352628002/"
+    ampWebUrl: "https://amp.statesman.com/amp/7352628002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/7352628002"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 63
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/29/USAT/565d2a8b-823e-45df-b682-5b63d9d2a2e9-GTY_1232582885.jpg?auto=webp&crop=3595,2023,x0,y106&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Fact check: Copy of Kamala Harris book was one of thousands of books received for Long Beach migrant shelter"
     excerpt: "The vice president’s book “Superheroes Are Everywhere” was not included in welcome kits, as some recent news articles incorrectly claimed"

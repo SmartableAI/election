@@ -756,6 +756,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Kamala Harris, Nancy Pelosi make history seated behind Biden at speech to Congress"
+    excerpt: "Vice President Kamala Harris and House Speaker Nancy Pelosi made history Wednesday as the first women — one of them Black and Indian American — to share the stage in Congress during a presidential address."
+    publishedDateTime: 2021-04-29T13:03:00Z
+    webUrl: "https://www.al.com/news/2021/04/kamala-harris-nancy-pelosi-make-history-seated-behind-biden-at-speech-to-congress.html"
+    ampWebUrl: "https://www.al.com/news/2021/04/kamala-harris-nancy-pelosi-make-history-seated-behind-biden-at-speech-to-congress.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/kamala-harris-nancy-pelosi-make-history-seated-behind-biden-at-speech-to-congress.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 84
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/K52BWS7Z4FDEVOEMJFCCBRC26E.jpeg"
+        width: 3596
+        height: 2244
+        isCached: true
   - title: "'One giant leap': Harris says Biden's American Jobs Plan aims high, will reach higher"
     excerpt: "Vice President Kamala Harris told a small audience at GTCC that \"the president and I are determined to get this done.\""
     publishedDateTime: 2021-04-19T17:45:00Z
@@ -1205,6 +1221,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "xjKgkOQaxwLsnoUbLlRnKBC7WRIPhpgpS2v4eRBp0BfxTAREYt6k9BESbrkMRVRQlDneTtA4QhX+A1iEYlAafu8Nk9xtmiziss7d85HtP4PhlQlngkYSUieBgOdmik+EyYhMyjAQAwMZAMt0h/YBMcJN9oE9nJsTKJuaSPbuPTx/Io+MUzqXC9q4JOTIgRM0wGI0ycej7mSzDJSKvYy3CQYxHr1R1bDplc3/vzc/HMcadioQtF/+4OKKRNLIyPSkBPsVMi5keZ4AKACB+KfJygD3GJEkhdCs/89OVYuX5kQrvui5z+1utDFDX1u56NyVNPzWlUO9SSBcmr+wm/kKH2Fy05nWf4qYaPOdn8gtn+w=;PO9GUnwtzc6PO6t0MfQJDA=="
+secured: "eVTYRYyOWT2KymRLioVgvxkou0dkrm0dVw2AXVn0v9i/Yv1eB8QJn/RXYRu2/vN1m0Rx+fpi9xpZOlWU6PWJiCMxHPvPhfYm5pg3h5ia3rjORj8GMJ9SYkbrtlHpnBG4HtXj+eF0VvbJyJOSx5zKlhtStipiDNoyy7uBYsn8che4D4UI9VR8NBvms3GzJskGl3MnO8v09gwEk/Z9aSfBf6h7csXfuJwNbrwuOVAEkqADJoKtZuBqgAEAZM0SZsftHRyw0OFHiycSaOYtaeYNt/+9WrSyZqYTOr5dbxFCkC2kaYK9u16D5S5S1a2ofz2DxQS/WerSRSMvWQMlDyuM3AHdYUv+U5BMUacO0KR6rfRj2YQE1LHFCeVMA5lrdq0hYhejK+g3b0PPN0JN1N7za9V9ANl8ZOPXgh4YZSLMohPRL3Nc/4DTayvhcWYSFgZG7Fu1rkKNNFsG7ZPSc3SH0obX8d7d+DEAaXKFYw3dLjiuBpGoruf3FFn3N6W41he13monyAe366YmcIog9CnS1w==;mSw0SAf6kC+wABHqet7n4Q=="
 ---
 

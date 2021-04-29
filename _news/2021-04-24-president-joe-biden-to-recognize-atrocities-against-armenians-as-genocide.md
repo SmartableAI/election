@@ -151,6 +151,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "House Speaker Nancy Pelosi on President Biden's address to Congress, nation"
+    excerpt: "House Speaker Nancy Pelosi, a California Democrat, joins \"CBS This Morning\" to discuss President Joe Biden's first speech to a joint session of Congress."
+    publishedDateTime: 2021-04-29T12:56:00Z
+    webUrl: "https://www.cbsnews.com/video/house-speaker-nancy-pelosi-on-president-bidens-address-to-congress-nation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/55e681a2-5ed4-4e36-929e-041b3ef76723/thumbnail/1200x630/746d54b360bfeca1597d0a2eb6d30c62/cbsn-fusion-house-speaker-nancy-pelosi-on-president-bidens-address-to-congress-nation-thumbnail-703929-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "T3JnldborOwpU01sOKRZ5m4VmUOO3atpZdlqFxPXQevoBlWvKQwse2CUC23jzDCeW6KwZUfpeWpUwj+JlWwWiEFeobzxWaDSXRk3RGzr7clpDvkUaJ3ZgXQU6HfhNlSAj1atVQ85hnoxyrM2TQVlJa9dMyXB+IzBlwnJbSU23dvVjb6ZCb2SbXKyW9nh8K8B7iK0zriJeC0nqOdP2WxCJOsorcvaewDm1YS99L2c8wh4wKRF62drDzDrwfbYx4KlF5j8lbvC+YdSnqQHwZ5gTbD0sYml9JjGw6+OQOaDtkdEgkN70YdpCT2zDeBXPwBqXbqLIHKqWFj0X/WdwJEs5aZqwNRNwGKooSXpQx65+D0=;Dkt7FiH5MEuhsdx8r14D1A=="
 ---

@@ -1,0 +1,108 @@
+---
+category: news
+title: "'It's about time': With Kamala Harris and Nancy Pelosi, women share the dais for the first time"
+excerpt: "\"No president has ever said those words from this podium and it's about time.\" For the first time, both of those positions are now held by women: Vice President Kamala Harris and House Speaker Nancy Pelosi."
+publishedDateTime: 2021-04-29T10:57:00Z
+originalUrl: "https://www.statesman.com/story/news/politics/2021/04/28/joe-biden-speech-nancy-pelosi-kamala-harris-make-history/7352628002/"
+webUrl: "https://www.statesman.com/story/news/politics/2021/04/28/joe-biden-speech-nancy-pelosi-kamala-harris-make-history/7352628002/"
+ampWebUrl: "https://amp.statesman.com/amp/7352628002"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/7352628002"
+type: article
+quality: 63
+heat: -1
+published: false
+
+provider:
+  name: Austin American-Statesman
+  domain: statesman.com
+
+topics:
+  - Election
+  - Kamala Harris
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2021/04/29/USAT/565d2a8b-823e-45df-b682-5b63d9d2a2e9-GTY_1232582885.jpg?auto=webp&crop=3595,2023,x0,y106&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "What Laura Italiano Said About the New York Post's Kamala Harris Book Story"
+    excerpt: "The journalist who wrote an article claiming that Vice President Kamala Harris' book was being distributed to migrant children has resigned from the New York Post,and said she was \"ordered\" to write the story."
+    publishedDateTime: 2021-04-28T09:19:00Z
+    webUrl: "https://www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002"
+    ampWebUrl: "https://www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1784064/vice-president-harris-virtual-meeting.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Vice President Kamala Harris: We must 'speak truth' about history of racism in America"
+    excerpt: "Vice President Kamala Harris said in an an exclusive interview on ABC's \"Good Morning America\" Thursday that we must 'speak truth' about history of racism in America."
+    publishedDateTime: 2021-04-29T11:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/vice-president-kamala-harris-speak-truth-history-racism/story?id=77391730"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/vice-president-kamala-harris-speak-truth-history-racism/story?id=77391730"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/vice-president-kamala-harris-speak-truth-history-racism/story?id=77391730"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala1-gma-abc-ml-210429_1619697000434_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "A New York Post story about Kamala Harris triggered conservative outrage. Almost all of it was wrong. Now the reporter has resigned."
+    excerpt: "The New York Post belatedly corrected stories the journalist says she was “ordered to write,” claiming the vice president’s book was given to undocumented migrants by the thousands."
+    publishedDateTime: 2021-04-27T20:18:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/media/new-york-post-kamala-harris-correction-migrant-book/2021/04/27/ec297ac6-a769-11eb-bca5-048b2759a489_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/media/new-york-post-kamala-harris-correction-migrant-book/2021/04/27/ec297ac6-a769-11eb-bca5-048b2759a489_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/new-york-post-kamala-harris-correction-migrant-book/2021/04/27/ec297ac6-a769-11eb-bca5-048b2759a489_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 94
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NOUDWZFHRII6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Fact check: Copy of Kamala Harris book was one of thousands of books received for Long Beach migrant shelter"
+    excerpt: "The vice president’s book “Superheroes Are Everywhere” was not included in welcome kits, as some recent news articles incorrectly claimed"
+    publishedDateTime: 2021-04-28T00:52:00Z
+    webUrl: "https://www.ocregister.com/2021/04/27/fact-check-copy-of-kamala-harris-book-was-one-of-thousands-received-for-long-beach-migrant-shelter/"
+    ampWebUrl: "https://www.ocregister.com/2021/04/27/fact-check-copy-of-kamala-harris-book-was-one-of-thousands-received-for-long-beach-migrant-shelter/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/04/27/fact-check-copy-of-kamala-harris-book-was-one-of-thousands-received-for-long-beach-migrant-shelter/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 56
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/04/LPT-L-MIGRANT-FINAL-0423-13-BM-3.jpg?w=1024&h=656"
+        width: 1024
+        height: 656
+        isCached: true
+  - title: "Take a first look at Kamala Harris’ Madame Tussauds wax figurine — the first for a VP"
+    excerpt: "Vice President Kamala Harris will make history once again as she becomes the first vice president to get their own wax figure from world-renowned museum Madame Tussauds."
+    publishedDateTime: 2021-04-28T18:18:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article251009199.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article251009199.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article251009199.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 48
+
+secured: "ChNI1t+FP3BQqkQLkqvGJWUmI86TGCNow0EC5Fz0Qj9WjZc5i1QFNNBXw92x1UaPgRcbfgUd2zzJI+6NsZXOzjef1/EkGyLDYkeOzXv5ubNEQZs7iZyhC7773oxM3B4eIBytAgSkloVmq5MtZhANNVycKed+zj0PNHr36ljLihhGFh3mwzT3EhDHtWOMAEaRJzyP3/XPN6MRejk4UnWtdGiZG0ZHRQGWuvKwnT/+axfDZ4VEKzRE86nN2qUI7HPdCIGKPQy+0N/mG32myruDbQKfU6VUlPJawdNDJCnQWXAVTcmrHRUg/20QaJCgYM0wvvaUW7w5I+/W91kASe4dHOny3EgbV5N8sIDntagLfqA=;jEjiwfAo4ISAhl+9kyf/EA=="
+---
+

@@ -139,6 +139,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "House Speaker Nancy Pelosi on President Biden's address to Congress, nation"
+    excerpt: "House Speaker Nancy Pelosi, a California Democrat, joins \"CBS This Morning\" to discuss President Joe Biden's first speech to a joint session of Congress."
+    publishedDateTime: 2021-04-29T12:56:00Z
+    webUrl: "https://www.cbsnews.com/video/house-speaker-nancy-pelosi-on-president-bidens-address-to-congress-nation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/55e681a2-5ed4-4e36-929e-041b3ef76723/thumbnail/1200x630/746d54b360bfeca1597d0a2eb6d30c62/cbsn-fusion-house-speaker-nancy-pelosi-on-president-bidens-address-to-congress-nation-thumbnail-703929-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Joe Biden to recognize atrocities against Armenians as genocide"
     excerpt: "A presidential proclamation to mark Armenian Genocide Remembrance Day is expected to use the term genocide to describe the killings and deportations of hundreds of thousands of Armenians."
     publishedDateTime: 2021-04-24T12:18:00Z

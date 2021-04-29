@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/index.html"
 type: article
 quality: 175
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428214924-37-biden-address-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Joe Biden can't stop thinking about China and the future of American democracy"
+    excerpt: "White House aides were prepping President Joe Biden to virtually tour an electric vehicle battery manufacturing plant last week when the President suddenly shifted the conversation to something else entirely: China and the fate of democracy.\n    \n"
+    publishedDateTime: 2021-04-29T12:16:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fDLTDtTwHrE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/president-joe-biden-china-democracy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/president-joe-biden-china-democracy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428220345-41-biden-address-0428-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -189,21 +205,21 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden to transgender Americans: 'Your president has your back'"
-    excerpt: "During his joint address to Congress, President Joe Biden called for the passage of the Equality Act to LGBTQ Americans and spoke directly to transgender Americans."
-    publishedDateTime: 2021-04-29T05:05:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-to-transgender-americans-your-president-has-your-back-111031877945"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111031877945"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111031877945"
+  - title: "Biden to transgender Americans: 'Your president has your back.'"
+    excerpt: "President Biden's remarks, made during his first joint address to Congress, comes amid a wave of state bills targeting transgender people."
+    publishedDateTime: 2021-04-29T13:55:00Z
+    webUrl: "https://www.nbcnews.com/feature/nbc-out/biden-transgender-americans-your-president-has-your-back-n1265836"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265836"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265836"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202104/BidenTrans.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_17/3468920/210429-joe-biden-jm-0914_55d23117dd074be99cdfcda3fe86cb9b.jpg"
+        width: 2040
+        height: 1360
         isCached: true
   - title: "Biden to propose free preschool, community college in address to Congress"
     excerpt: "He is also expected to announce an extension to the expanded child care tax benefit as part of his American Families Plan."

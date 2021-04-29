@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's 100 days in office: How a border crisis escalated"
+    excerpt: "As President Biden reaches the 100-day mark in office, one of the biggest issues facing his administration has been the rapidly worsening crisis at the southern border -- which critics have blamed on his dramatic rollback of Trump-era policies which started on day one."
+    publishedDateTime: 2021-04-29T12:59:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4Je6iVITfo/bidens-100-days-how-border-crisis-escalated"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-100-days-how-border-crisis-escalated.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-100-days-how-border-crisis-escalated.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15720e17-baee-4a97-b21d-8a0a34cc5ec1/b51c05bd-8c94-4815-9b5c-dae5c0ef3d73/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "5c6RSf6g6yARGNtX3+9z3cNTfjivvFXPT89jFbq48Q4OtWkqpWMxhy1Qr+e0KI5bmye0RgrNL/uj7bUM8tdif+eFvPTpVLb4Qaq2xCPwiyy2TvFxpepHOrmbJMFwxZyhhzxjdaOucrLeAvrovTwo5/BurGIHl3Aoms1Lr8sF36r4sAjcuhAdpde7q6taZIkqrJD8pfiWocqLK/6y7dNWKy06IEv96Fvz/QfnVzRNbCZenSZHWckEdgYRBVjferKoLhbB3oLE60gr/AJi5ex2FrNbzahuF57M1eGjbtJO/BZU3nK5/7uLi+oGEqt0UBBCRVHj/X3vWICnXE8Nx58kRB/27bGOUwL9g13h+NtH+uE=;Wzhpq+hxt6QgwlNqTahUjw=="
 ---
