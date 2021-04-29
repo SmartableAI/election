@@ -7,7 +7,7 @@ originalUrl: "https://www.ibtimes.com/melania-trump-thanks-supporters-who-sent-h
 webUrl: "https://www.ibtimes.com/melania-trump-thanks-supporters-who-sent-her-wonderful-birthday-messages-3189006"
 type: article
 quality: 53
-heat: 73
+heat: 93
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Melania Trump 'Happy And Relaxed,' Ivanka Focusing On Family Post-White House: Report"
+    excerpt: "Melania Trump and Ivanka Trump have both maintained a low profile after relocating to Florida following their four years in Washington, D.C., a report says."
+    publishedDateTime: 2021-04-29T02:51:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-happy-relaxed-ivanka-focusing-family-post-white-house-report-3189660"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 48
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/01/melania-trump-right-exchanged-a-frosty-glare-with.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Twitter Reacts To Donald Trump's Claim Melania Never Had Cosmetic Surgery: 'Lie, It's Pretty Obvious'"
     excerpt: "Mika Brzezinski revisited the time former President Donald Trump told her Melania never had plastic surgery Twitter users have mixed opinions on former President Donald Trump's claim that his wife Melania Trump never had cosmetic surgery."
     publishedDateTime: 2021-04-22T10:00:00Z

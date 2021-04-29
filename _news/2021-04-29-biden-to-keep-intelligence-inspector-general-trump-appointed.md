@@ -2,21 +2,21 @@
 category: news
 title: "Biden to keep intelligence inspector general Trump appointed"
 excerpt: "President Joe Biden intends to keep the inspector general overseeing the U.S. intelligence community who was appointed by former President Donald Trump"
-publishedDateTime: 2021-04-28T18:40:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-to-keep-intelligence-inspector-general-trump-appointed/2021/04/28/908bb602-a859-11eb-a8a7-5f45ddcdf364_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-to-keep-intelligence-inspector-general-trump-appointed/2021/04/28/908bb602-a859-11eb-a8a7-5f45ddcdf364_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-keep-intelligence-inspector-general-trump-appointed/2021/04/28/908bb602-a859-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-keep-intelligence-inspector-general-trump-appointed/2021/04/28/908bb602-a859-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+publishedDateTime: 2021-04-28T19:52:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616"
 type: article
 quality: 140
-heat: 600
+heat: 620
 published: true
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RJTVN6VILEI6XKFHL5C53TPTMQ.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_c5166b2bec7946b7a9db269a67526cb9_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -379,7 +379,16 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 42
+  - title: "Democrats Move to Reinstate Methane Rules Loosened by Trump"
+    excerpt: "Congressional Democrats are taking action to reinstate regulations designed to limit potent greenhouse gas emissions from oil and gas fields."
+    publishedDateTime: 2021-04-28T18:57:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-04-28/democrats-move-to-reinstate-methane-rules-loosened-by-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
-secured: "W23uD1dbBlLWHzwW13qJzP+mW9AsFpvUXoKdQdiy4QSJzcMUBB8TQSotd/kUOeE81VMdhzfRXH4dn9NPZrJhHwnB/JygRT0uhRWH11h28DBifaMwyBVsmyYGvil8QOHnez10MmxEFlgge390BzgZ27TIKQ8Ygg9+/03s+ZUqePg0uouPTCJv4BL9z75q9lhxDode8gbeejN5T3PDZiBOCwZLZ/07GvdaLS0T8FxJwbFD5NoMf+70IfjllcFCh+xMMAjTk1ORWfX7NPUCwclOoAtbI9oSm49jtdad8XCRihRuwPmeB+SxIm0/iRCPe22nL5X6Lie7yuwimZ1Jh28E16319cikuvL+OuJCdggk3KY5sIuhsZx2r9vGs31ES9ALyCuEBRvTK3xLACGs09UimiPe5tBEa5fuwalEMaMfiDASTdkPiAJq0RDfzV8UthiF6UQi8eBIAhwMtXeYAuYB/HhMFmnh6dxOfgHctV5x6eSQjegzP+IYBKmP6s51Iz8tz/1tR8C2PQyjG4RA2Gkd1Q==;VCLN+W/oI0y/45oSDdY1HA=="
+secured: "k7JDmzrodTF2g/waldHwwuatzhN5uLFlfWhTRcJFfQ6Qutb4tD1I97DOXmT3orBt5gLYsCaTW2HUVOYUTXVha7PEEOcZk1MEBM+dvlIMgDa20J6muWodhMzynWReJG9xDG6e7nn/OaiuLyG/vmp5YYylFmPorxrN46EKCoIImm/HcpWyL8BJXypDDHxWBQJbH7IZUratl/B6v0ZuF+PR75OfPTBNC1ky5xCkWxpd8zPLQpSNHTs6KBbYzKlZr/0xiEieSbyLDHa6vQ56MNApceqwffrBvYDaoHfjSQuGOieGaYFv1HWEfT68WFwuFtu6qchT2exAsPIpNsNB3ucF7vHp+aS6qlXGFNQDbF5p6Ak=;ChgOYrxbFuk4ievlMKZPSw=="
 ---
 

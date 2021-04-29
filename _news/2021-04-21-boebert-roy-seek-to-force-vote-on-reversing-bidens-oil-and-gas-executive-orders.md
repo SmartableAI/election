@@ -127,22 +127,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Sen. Tim Scott to deliver GOP response to Biden's first speech to Congress"
-    excerpt: "Sen. Tim Scott, R-SC, will deliver the Republican Party’s response following President Biden’s first speech to a joint session of Congress on April 28, GOP leadership said on Thursday."
-    publishedDateTime: 2021-04-22T20:18:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vKeji-oKtuw/sen-tim-scott-deliver-gop-response-biden-first-speech-congress"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-tim-scott-deliver-gop-response-biden-first-speech-congress.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-tim-scott-deliver-gop-response-biden-first-speech-congress.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0268a05a-cf95-4110-a9a4-402dbe6f08b4/44861f6a-69d1-400f-b2a5-971444fe656e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden, NATO allies to discuss 'effective burden sharing,' White House says"
     excerpt: "President Biden will speak to NATO allies about “effective burden-sharing” next month, in a hint that his dealings with the military alliance may have at least one similarity with those of his predecessor, former President Donald Trump."
     publishedDateTime: 2021-04-23T23:03:47Z
@@ -191,22 +175,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden to unveil $200B universal preschool plan for children aged three to four"
-    excerpt: "President Biden will detail a proposal for $200 billion universal preschool program on Wednesday as part of the massive infrastructure and spending plan he is expected to detail during his first address to Congress."
-    publishedDateTime: 2021-04-27T23:31:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GEcvIdNKzUY/biden-unveil-200b-universal-preschool-plan-children-aged-3-to-4"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-unveil-200b-universal-preschool-plan-children-aged-3-to-4.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-unveil-200b-universal-preschool-plan-children-aged-3-to-4.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3dbb5edb-b1aa-401e-aea0-d358cef55b4e/a81f5493-ca39-4b83-8c4f-418d4cce561d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden administration pays travel costs for adult sponsors to pick up migrant children"
     excerpt: "The Biden administration is paying the travel costs for adult sponsors to go to migrant shelters and pick up migrant children – as the administration scrambles to cope with the surge in unaccompanied children (UACs) coming to the southern border."
     publishedDateTime: 2021-04-22T15:54:36Z
@@ -239,38 +207,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "LIVE UPDATES: Lawmakers to skip Biden's first joint address to Congress Wednesday night"
-    excerpt: "President Joe Biden is scheduled to give his first joint address to Congress Wednesday night, however, lawmakers may be skipping the limited event. "
-    publishedDateTime: 2021-04-28T04:00:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jGZSnL-o2Dg/live-updates-lawmakers-may-skip-bidens-first-joint-address-to-congress-wednesday-night"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-lawmakers-may-skip-bidens-first-joint-address-to-congress-wednesday-night.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-lawmakers-may-skip-bidens-first-joint-address-to-congress-wednesday-night.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/698e0949-38b7-4fb4-99e0-76eeb265afff/7bf55267-6b4a-4e90-a5de-2104e62d440e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "First lady hosts virtual guests, including transgender teen, for Biden address to congress"
-    excerpt: "First Lady Dr. Jill Biden held a virtual reception Wednesday for guests invited to watch President Biden’s first address to Congress – an unusual event held in light of strict coronavirus restrictions."
-    publishedDateTime: 2021-04-28T22:11:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r2dBBPZjZpA/first-lady-holds-virtual-reception-for-guests-of-bidens-first-address-to-congress"
-    ampWebUrl: "https://www.foxnews.com/politics/first-lady-holds-virtual-reception-for-guests-of-bidens-first-address-to-congress.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-holds-virtual-reception-for-guests-of-bidens-first-address-to-congress.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a226ca2a-aa49-448e-8a4a-154e4ac2d9fe/db3b37b1-cbc8-4f97-a4e0-bf4f78bde60f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden Pentagon nominee faces scrutiny over resurfaced tweet as nomination heads to final vote"
     excerpt: "An old tweet from President Biden’s nominee to be the number three at the Pentagon has resurfaced as the nomination process heads to the Senate floor."
     publishedDateTime: 2021-04-22T22:37:26Z
@@ -286,20 +222,6 @@ related:
       - url: "https://amp.spot.im/loader.png"
         width: 375
         height: 815
-        isCached: true
-  - title: "Lawmakers urge Biden to push Iranian regime on rights abuses, amid bipartisan support for resolution"
-    excerpt: "Two lawmakers have written to President Biden urging him to place human rights, and holding human rights abusers accountable, at the center of his Iran policy -- just as a resolution backing a secular and democratic Iran has picked up majority support in the House."
-    publishedDateTime: 2021-04-28T22:09:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IsLocHx4GFM/lawmakers-biden-iranian-regime-rights-abuses-resolution"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 140
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99754ab5-555f-4417-922f-b01b86858d02/1a03bcf5-509f-4b01-aa92-5bcde8886425/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Hours before Biden's speech, Christie accuses president of lying to hide 'socialist agenda'"
     excerpt: "Chris Christie is once again accusing President Biden of lying, this time charging that the president is \"not telling the truth\" about the tax increases inside the sweeping spending proposal he’ll unveil on Wednesday night."
@@ -348,20 +270,6 @@ related:
       - url: "https://assets.realclear.com/images/54/541245.jpg"
         width: 750
         height: 562
-        isCached: true
-  - title: "How the Biden Presidency Looks From Pivotal PA County"
-    excerpt: "Carol Erker vividly remembers the emotion that washed over her after Joe Biden won the 2020 election. Even as she worried about the pandemic and the Oval Office that Biden was inheriting, she felt like she could finally breathe."
-    publishedDateTime: 2021-04-28T12:05:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/28/how_the_biden_presidency_looks_from_pivotal_pa_county_541579.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/526043_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "iOpulQyPaqd+sulQ852xEO5RmXYFdleQlfvf7PNsnSmsAEg7xOZbGaYC5jN81rck9diRF0/QNYZZhBiglb/V62wY0EuRHblrFvKUgdcV3p248uYtzYtMkpEo6/UB14mNf6pqQ9BvIjTKY+5BeRWISqD7uKj3YjAuTS3dNhI+nA9U/Y7IKTPH/jjc1A8UCISnjnrf/vcMcSnNrfwAewrvacOOek2SZ+Ga900ltUbaZdTuodyyOeRfC3sNmgEm9LuEx3O7Zj0iE1MIeI+yLKSO2fO0l+0u9Y+5/fHZ2bUhuGOIsYcYa7znAiYTpWg+BMvzmAPDdbKjB1z8BDixZt/Im2Ha1asgN2uOodUpk9oTVu4=;HVBVRRKrJCkIiBldNhsoSw=="

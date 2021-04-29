@@ -31,19 +31,19 @@ images:
 related:
   - title: "Biden to keep intelligence inspector general Trump appointed"
     excerpt: "President Joe Biden intends to keep the inspector general overseeing the U.S. intelligence community who was appointed by former President Donald Trump"
-    publishedDateTime: 2021-04-28T18:40:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-to-keep-intelligence-inspector-general-trump-appointed/2021/04/28/908bb602-a859-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-keep-intelligence-inspector-general-trump-appointed/2021/04/28/908bb602-a859-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-keep-intelligence-inspector-general-trump-appointed/2021/04/28/908bb602-a859-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    publishedDateTime: 2021-04-28T19:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RJTVN6VILEI6XKFHL5C53TPTMQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c5166b2bec7946b7a9db269a67526cb9_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump ally Sid Miller sues over Biden farm aid program, saying it discriminates against whites"
     excerpt: "Texas agriculture official Sid Miller files suit over a U.S. farm program that directs aid to nonwhite farmers and ranchers."
@@ -379,6 +379,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 42
+  - title: "Democrats Move to Reinstate Methane Rules Loosened by Trump"
+    excerpt: "Congressional Democrats are taking action to reinstate regulations designed to limit potent greenhouse gas emissions from oil and gas fields."
+    publishedDateTime: 2021-04-28T18:57:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-04-28/democrats-move-to-reinstate-methane-rules-loosened-by-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "aWlRM+qphc1ufE5AzxdZzYXIpDE8s74ugNRH4iysGAGFAHL4G9mhF3Gmfx9qddTxGrEelrKvmThw8SP2guvfCMA4Md7Kz7+rFEAizv2WqoTIUePOCjTu+2v2FGawUwQISvDbOWtP3KaAJp+yI2MrbD1mswofcu1O6Hv+4zMKBZd1e2iIEoySK6z5oTZ1sOOwcLW3aoksntXfbIo7kFP6t9iDFE8YMO2dmZVg+rveIUIF4lM1Li6C1HkP4yFW1YPjBghwq5L9Tt3eOtgUSLRsy+W/8Q0WceayX8kmxZyffaC6E4A39jheFo9o52BpoAUvgKfD2ardyJlPnJeRtP7JjNXV9uE3usFUesHqtDt2XrBTQJlCvqHdW50Jat2x7bO++/Dzdxo29CHl+XiuTLDL2JPk76PssWKjVOP/6rG0dGZUjev9iB1vYSW4T8kABVDLV7mVTKY/EWXMiTRfjWlJtiJKtXbjD2LlejMFx9KqQdTlVF3CrObB+L+gGRQP/ezK9j9JsqWetX90Lp0W97yqRA==;Afk7AKg+NJB3Y9vkwKcoXA=="
 ---

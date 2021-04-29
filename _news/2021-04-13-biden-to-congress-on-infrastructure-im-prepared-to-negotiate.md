@@ -90,22 +90,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's address to Congress: Everything to know"
-    excerpt: "President Biden on Wednesday will give a primetime address to a joint session of Congress, marking the biggest speech of his presidency so far and giving him the opportunity to lay out his agenda for the rest of his time in office. "
-    publishedDateTime: 2021-04-28T11:25:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bygW-7sJzE/biden-joint-address-to-congress-everything-to-know"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-joint-address-to-congress-everything-to-know.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joint-address-to-congress-everything-to-know.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "CA man whose brother was killed by illegal immigrant sends message to Biden"
     excerpt: "A man whose brother was killed by an illegal alien slammed the Biden administration for refusing to admit that there is a crisis at the southern border and said the situation is getting worse by the minute."
     publishedDateTime: 2021-04-09T12:29:24Z

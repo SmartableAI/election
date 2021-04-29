@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Read Republican Sen. Tim Scott's response to Biden's address to Congress"
+    excerpt: "South Carolina Sen. Tim Scott delivered the Republican response to President Joe Biden's address to Congress Wednesday night. Read his remarks as prepared for delivery:\n    \n"
+    publishedDateTime: 2021-04-29T02:51:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TW_xqFteXYI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/tim-scott-response-transcript/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/tim-scott-response-transcript/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428223039-gop-response-tim-scott-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Majority of Americans approve of Biden and his priorities in first 100 days"
     excerpt: "On the cusp of the 100-day mark of Joe Biden's presidency, a new CNN Poll conducted by SSRS finds 53% of Americans approve of the way he is handling the job and say he has had the right priorities, and 59% say he is doing a good job keeping his campaign promises.\n    \n"
     publishedDateTime: 2021-04-28T11:30:00Z
@@ -160,6 +176,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "In pictures: Biden's first address to Congress"
+    excerpt: "For the first time in his presidency, Joe Biden is addressing a joint session of Congress.\n    \n"
+    publishedDateTime: 2021-04-29T03:42:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ecG3yc-okAE/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428220703-43-biden-address-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to propose free preschool, community college in address to Congress"
     excerpt: "He is also expected to announce an extension to the expanded child care tax benefit as part of his American Families Plan."
     publishedDateTime: 2021-04-28T14:36:00Z
@@ -207,6 +237,38 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_16/3466939/210422-shelley-moore-capito-jm-1138_ebc49713bcf775ce2e8483ee5d505c5d.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "President Biden: ‘American leadership means ending the forever war in Afghanistan’"
+    excerpt: "President Joe Biden said after “20-years of valor and sacrifice” its time to bring the troops in Afghanistan home."
+    publishedDateTime: 2021-04-29T02:08:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-talks-bringing-troops-in-afghanistan-home-after-20-years-111026245653"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111026245653"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111026245653"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202104/1619662015732_nbc_spec_biden_afghanistan_210428_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Rep. Clyburn hopes Biden will find 'common ground' in Congress for ambitious plans"
+    excerpt: "S.C., a key advisor to Joe Biden said he does not think the president will get everything he proposed in his address to Congress, but thinks he will get a “significant portion.”"
+    publishedDateTime: 2021-04-29T03:17:00Z
+    webUrl: "https://www.nbcnews.com/video/rep-clyburn-hopes-biden-will-find-common-ground-in-congress-for-ambitious-plans-111028805601"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111028805601"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111028805601"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202104/1619666124902_nbc_spec_clyburn_biden_210428_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "P1JmX3iXJhIspWmYdUKkn9ARuvJ7Jt2nMXoQq6c06I8/Vp5Jd7AhnWsAL25Nz2NFbGkHUC/uJqqarZ7PUc8RiMDRmQZ5F/WEtpi5AdfT7pakQ44am5rlBx/u0WqV81Pq6M+ph6SwmOOx3u6OdATY+x7kriKw3FQ6m6ICjCD9HqHyxwsSmdQkuPgEk+kkIBzlgfzcSmBjLqaSWKxpMumu7IjVgjk4FJj341hKwL5wrePNo8Z7O+byRO8EzQ47hY5JfErSvrCMqNR1sN4gojEOeBnqLJgXBU/EH92m4Dt8KFPVVs356sU8bGs2C++I51pjZ2KQlvphr3JhSuzt4ewhp/cFAT3adnUM0MCmxLrwJzqLTnXnbIL62wFF5sUUveuodMT5duXe0k+fso//rT4ehSAhcHQpLRux+EtjEnlTPI1+JwL1lNOAT7AIA3Q/9Fn0qYhBMYv/PtfckE6kkDEsXO/0Sid4WdX82lpovNvXZip7XC6Q2Eb+cPwIvLonjzc7TxqqGFvSWDQ0/sO0zl9lRg==;stHV7amgnNQBnInc9E2uYw=="

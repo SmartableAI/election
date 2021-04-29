@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Melania Trump 'Happy And Relaxed,' Ivanka Focusing On Family Post-White House: Report"
+    excerpt: "Melania Trump and Ivanka Trump have both maintained a low profile after relocating to Florida following their four years in Washington, D.C., a report says."
+    publishedDateTime: 2021-04-29T02:51:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-happy-relaxed-ivanka-focusing-family-post-white-house-report-3189660"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 48
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/01/melania-trump-right-exchanged-a-frosty-glare-with.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "l2yzVBlCtMZGzIf4nbwnQJWPWgfNdghU7w8Xrfv5HW4moqV97ixr3/GSP8a2bK4ERTSnMcDTt/YRfbwy/6SlHwqYWiCBpGXEvNjhA/1xarMB6BGhjhvi8IExSFoONAh5C/1gybHS8iKqUbEaAlgIl267xmgCrIBOWJQtwpDr1+3OXbV6oYVEzE0odGyu82q8HSPC5cJm2UVv9vAeA25E7h6EATg/APX7Ev4qavwuo9nCyb5FlIQcxW/SPqf4mzDMK+th3pz3YJjwRYRahEIVrvK+UcX1iFWXUsi/bpBDmQnTRmQTbfx7w6jjQCfLQzqElfO8dmXr1o5+r4eyHaJoF7H4ZDeTp2JK4CPi64N75Bi91T1oeC2GHH87GLZagcSMnMGbGaZRB+pB5xeEtOwFCbRJHLRXVBPff2fHAp8+Y2pfPYlyR1N4vhvx7IPiqvvWntczcFC0SGHwzCCmQsVlYgfRjSCflsCmjRRMKaSq3MxiS0a7c9OiQXJHQOmS3T/BwbL8tAMghZXgc7lpkVz11g==;ds55+TzEl5cr1qQtR/wJuA=="
 ---

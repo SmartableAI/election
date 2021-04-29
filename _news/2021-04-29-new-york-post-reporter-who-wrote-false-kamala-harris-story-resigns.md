@@ -3,25 +3,29 @@ category: news
 title: "New York Post reporter who wrote false Kamala Harris story resigns"
 excerpt: "The rise and collapse of the tabloid’s false accusations about the vice president illustrated the speed at which political misinformation can be weaponized in the modern media environment."
 publishedDateTime: 2021-04-28T20:41:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/7YzhkcpcZ-0qK4jTmaxATjfiWIA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VNC6TPHQ2ZF55P5TTUOYHX6EKE.jpg"
+  - url: "https://www.chicagotribune.com/resizer/7YzhkcpcZ-0qK4jTmaxATjfiWIA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VNC6TPHQ2ZF55P5TTUOYHX6EKE.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -516,6 +520,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "'It's about time:' Biden delivers speech alongside two women"
+    excerpt: "Biden delivers speech alongside two women. Posted . President Joe Biden's address to Congress broke a historic glass ceiling on Wednesday, as two wo"
+    publishedDateTime: 2021-04-29T03:30:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEAFZS9R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210429&i=OVEAFZS9R&r=OVEAFZS9R&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Essential Politics: 100 days in, Kamala Harris quells talk of her own ambitions"
     excerpt: "Talk that Kamala Harris would angle early on to succeed President Biden is fading, given her deferential performance and his approval numbers."
     publishedDateTime: 2021-04-28T13:46:00Z
@@ -1043,6 +1061,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "kCJ+57PJWJuWQrdn/rhknOQp8IWUhlNknjH9ZR+y+PKy3fMIN4iZ51Jj17u4EmXOONJ0cIxldvm6LNf19Ub/Dy0SJzdhfW6PVZ2xXK3PoBQZ+pDN/qrECi+nwUivnfvHHY93Ly69d/TAz36PVrsacUWrgCv5k+tXR+2/7N3i8R2XqtGE+flBz1y6gihn5KDQk0bY3iqt4Y1IOOr2b7mYlKzUTjaIBmjPteIYNDJ9z944GU7EFI9kN/K3t5Z7D/6IS+2jSwhvPQysxG/u7l8nEQwWgE/MCtreoRnHU5cuUs/eTna+LB3R+W8i/klUi4G6TDJMpN9Kx2lybFCWI8BZ71/X2wKJDXonM8DDd/DU/cur5sh27uMt6FiBKWHBw0VWX//ifHaxLMmHhlb13t7tnsKzcZIKUvgpDSVGmYr1W+DpH1mAwAv8Xs1tktzfElIGeECUOMG77O6zXdPqtQKbr/4hDZWfoSenzo9BEtwe5SBkNd3irdv6Aik9rckUnqYnJP4ZVVXMvWq0TaUuegzOpA==;MUubMvdVhEl3HdWPlxDkYw=="
+secured: "rk5EodkVKIEA5Qv9ubhDTJ0auMWAJ8o3ZXK+GHyIHTswK5ldP5Fs7YST/yVaBzsmhM2/us7b7QFa831Spx8XyfUMpGxz4xnhX+4aOWKFRDC4AmD937Gvr9fRXDrwBFTrqv+KySUQBOc5rO+IdzKh5Uwx3HpI0bmjD2ezLZTtjN0PD/ygutfGuuGq0mnpPY+4FPzRHGdddMfYR3ngx7G0sa3BS8joTANQ1aEc2atehH9/tGsRk0q/5ztzj7ySO5wzHUBkp5k1guDFX6Tf6Ze8XE8mHzMAQJgPIbh1KAG021FMVywZ0Entj+aDzy8bD1Qp551UMDIemA89jPdZIpo1naO9oF1xPbOmuedFMUP1MUU=;JBQ25RCcVLqC6NOYgh+p8w=="
 ---
 

@@ -127,6 +127,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "5 takeaways from President Biden's address to Congress"
+    excerpt: "President Joe Biden made a sweeping case Wednesday for massive new programs that would transform the government's role in Americans' lives, claiming the very future of the country is at stake in his first address to Congress.\n    \n"
+    publishedDateTime: 2021-04-29T03:17:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RxT1N0Nyi-o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/joe-biden-congress-address-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/joe-biden-congress-address-takeaways/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428212311-17-biden-address-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact-checking Biden's first joint address to Congress "
+    excerpt: "In his first joint address to Congress, President Joe Biden struck an optimistic tone, speaking for more than an hour and pushing his expansive vision of building America \"back better\" by touting his vast infrastructure plan and praising the progress the country has made against Covid-19.\n    \n"
+    publishedDateTime: 2021-04-29T03:52:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UmC_ck4-jqw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/biden-joint-address-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/biden-joint-address-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428220950-biden-address-to-congress-vpx-screengrab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to push ambitious economic plan in first prime-time address to Congress"
     excerpt: "President Joe Biden will deliver his first address to a joint session of Congress on Wednesday night, hoping to build on the trust he engendered by accelerating the nation's response to the Covid-19 pandemic to convince Americans that they should back his ambitious plans to tackle income inequality in"
     publishedDateTime: 2021-04-28T21:56:10Z

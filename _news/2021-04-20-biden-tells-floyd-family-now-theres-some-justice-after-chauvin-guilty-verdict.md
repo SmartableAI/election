@@ -127,20 +127,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Full Interview: VP Kamala Harris On Policing, Gun Safety, George Floyd, Working With Biden"
-    excerpt: "Vice President Kamala Harris sits down for a wide-ranging interview with CNN's Dana Bash. Full transcript, via CNN: DANA BASH, CNN HOST: In the days since George Floyd's family and communities across America celebrated the Derek Chauvin guilty verdict,"
-    publishedDateTime: 2021-04-25T16:30:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/04/25/vp_kamala_harris_on_policing_gun_safety_border_crisis_working_with_biden.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 70
-    images:
-      - url: "https://assets.realclear.com/images/54/541429.jpg"
-        width: 750
-        height: 562
-        isCached: true
 
 secured: "KduVJQJv0QdABVC1dFjw9xuGEpSmQvElp4PExXHBM9X6eDVcC2fwTWf43e+a36Z3OLnXMMbzcWi8+4t/vVBNbj/iIbzryTLNeeUkl6uZ8WpJ7hObqXUcAq3qqOQ3e4MgiuvrVSFnhhPGoRvzoRMkdpQwjJuhCVXub1Whd4GcUUc0FiEInxjIDQpco5vLiAVHg3SyNhDDoVop1kbZ6WicSN/OkZ/IvghcecTlut9SeLftzlevr4h//CMzqSGEtEMKPsAINzeY26zPL+GA32oqNjftdl49+QWUK6ImjqKX3DRV9RMvEXKbSSCRYTD/Dso+Yy/sDRd7i+G2TJkFFrTmIn8a1YqchqtbEfvuvjtgKf0=;YlE0P19dffStlN58J1w8BA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/25/politics/kamala-harris-cnntv/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/25/politics/kamala-harris-cnntv/index.html"
 type: article
 quality: 194
-heat: 794
+heat: 834
 published: true
 
 provider:
@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Read President Joe Biden's first address to Congress"
+    excerpt: "President Joe Biden on Wednesday delivered his first address to a joint session of Congress. Read his remarks as prepared for delivery:\n    \n"
+    publishedDateTime: 2021-04-29T02:24:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dakiwCbX7Vg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/biden-congress-address-transcript/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/biden-congress-address-transcript/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428212354-23-biden-address-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House considers broad range of migration plans ahead of Harris visit to Central America"
     excerpt: "The Biden administration is considering pressing Guatemala to address governance issues in the country, ranging from investment to corruption, according to a source familiar with the deliberations at the White House, highlighting just one of the delicate negotiations Vice President Kamala Harris is expected"
     publishedDateTime: 2021-04-20T10:36:30Z
@@ -157,6 +173,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427163143-09-biden-100-days-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden goes off-script to thank McConnell for honoring his late son in 2016"
+    excerpt: "President Joe Biden went off-script during his first joint address to Congress on Wednesday to thank Senate Minority Leader Mitch McConnell for a tribute the Kentucky Republican made to Biden's late son, Beau, in 2016.\n    \n"
+    publishedDateTime: 2021-04-29T03:07:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ep1FQzeERw0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/mcconnell-beau-biden-cancer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/mcconnell-beau-biden-cancer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215105233-mcconnell-biden-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
