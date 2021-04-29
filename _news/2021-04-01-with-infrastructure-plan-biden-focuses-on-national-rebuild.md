@@ -934,20 +934,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Joe Biden's Bait-and-Switch Presidency"
-    excerpt: "Joe Biden was elected as a moderate-left Democrat, but he is not governing as one. He pledged repeatedly to work across party lines, but he is ramming through the biggest, most expensive progressive agenda in American history without any Republican votes."
-    publishedDateTime: 2021-04-01T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/01/joe_bidens_bait-and-switch_presidency_539483.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/539407_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Fresh Data Reveal How Trump Made Inroads With Latinos"
     excerpt: "A new analysis of U.S. voters suggests — counterintuitively — that the coronavirus pandemic may have helped drive former President Donald Trump's surprising increase in support from Latinos last November."
     publishedDateTime: 2021-04-02T16:00:00Z

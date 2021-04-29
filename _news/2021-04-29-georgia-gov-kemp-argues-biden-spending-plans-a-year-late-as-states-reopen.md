@@ -47,36 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Left-wing group dumps cow poop at White House entrance, demands Biden take climate action"
-    excerpt: "Climate activists dissatisfied with President Biden's climate plan are not-so-subtly expressing their displeasure, as they are literally calling \"bull----\" while dumping cow manure in front of the White House."
-    publishedDateTime: 2021-04-22T14:02:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kISNx2lXbfI/left-cow-poop-white-house-climate"
-    ampWebUrl: "https://www.foxnews.com/politics/left-cow-poop-white-house-climate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-cow-poop-white-house-climate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Tucker: Biden Admin Using Force Of Law To Crush Political Dissent"
-    excerpt: "Tucker Carlson analyzes why federal agents raided Rudy Giuliani's home. TUCKER CARLSON: Today, Joe Biden gave his first address to a joint session of congress. The speech amounted to a mushy casserole of clichés designed to calm your suspicions that anything weird or scary might be going on and to reassure you that everything’s going to be just fine,"
-    publishedDateTime: 2021-04-29T14:02:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/04/29/tucker_biden_admin_using_force_of_law_to_crush_political_dissent.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/538920.jpg"
-        width: 1100
-        height: 824
-        isCached: true
 
 secured: "jB+yJCDrYMFXuGbIZu4NJhJCS+r2JPu9XCx4ZNUStbFLXkShPLM6bS/+XpORrurx64oS01XUsfT8ffHUf68VlpLOeDT0WO/Lvpa9S8iep6vljrse45QUdi2WzPLRPPoGa2RjOTsjjE4j3/WSvkfg1KAImvwBbKLsDLlYPQGUfKX/S2/5o3N0d5HxrtBdeTUdu5TVztfUHQrptNQ3nbp/rJVBaqdFbupZOWoCahLbm4xh6jaL9QEFUFC5R7gsqf6d4gpoBYsW0O+d5faCLUZMKlie9lYjLu84LlfezL0x2PW8tqmjJOYNnsrvLDxp4uDqfvq9ElAeGQwHIZ9k510X0qinixeYve/CuAK6mJniw74=;nSN6/2LOOzCv9caX2ZoAfA=="
 ---

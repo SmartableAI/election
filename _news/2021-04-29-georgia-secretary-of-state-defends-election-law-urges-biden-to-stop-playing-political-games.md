@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/georgia-secretary-of-state-defends-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-secretary-of-state-defends-election-law-urges-biden-to-stop-playing-political-games.amp"
 type: article
 quality: 178
-heat: 238
+heat: 198
 published: true
 
 provider:
@@ -47,37 +47,7 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Left-wing group dumps cow poop at White House entrance, demands Biden take climate action"
-    excerpt: "Climate activists dissatisfied with President Biden's climate plan are not-so-subtly expressing their displeasure, as they are literally calling \"bull----\" while dumping cow manure in front of the White House."
-    publishedDateTime: 2021-04-22T14:02:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kISNx2lXbfI/left-cow-poop-white-house-climate"
-    ampWebUrl: "https://www.foxnews.com/politics/left-cow-poop-white-house-climate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-cow-poop-white-house-climate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Tucker: Biden Admin Using Force Of Law To Crush Political Dissent"
-    excerpt: "Tucker Carlson analyzes why federal agents raided Rudy Giuliani's home. TUCKER CARLSON: Today, Joe Biden gave his first address to a joint session of congress. The speech amounted to a mushy casserole of clichés designed to calm your suspicions that anything weird or scary might be going on and to reassure you that everything’s going to be just fine,"
-    publishedDateTime: 2021-04-29T14:02:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/04/29/tucker_biden_admin_using_force_of_law_to_crush_political_dissent.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/538920.jpg"
-        width: 1100
-        height: 824
-        isCached: true
 
-secured: "lDvHuCZjg8WTwzAr7jPKsl0q6rXyvMqvA6OagqdzAZxUJfQewtAfjIU/1rq0BYkbMV1JF5esKy+/F55sohvX1mLeknqiiPCFgIplfO3ixvN2IcQFcE+OnpToK1oYSCNrYvhIwAz5dnx/3l0/BfC4IZH2MeeNaU2jdmHwnsHX9Uj08YJa3+UZgltwGBl1PHl9nLZQAnk1YgXTc6aZRscaP4AgphgxVc9vb9eK+mU+bcFGwwU4jJ2JAT1/WvvYuNjQTgra6KGDfuqz1iCMy17xrEiwTIypaJnf9L2vA/tLXSdi85FpcMNZM+iqa67WzynPuEJ+/libiQKg1GjKYM2SmIw31ql4NoTXRPWVTZIftUk=;tatIsN4WqcxHU2MrNAe9Hw=="
+secured: "PB9QKkDeWUoYrwZZX++eaNtBysbXpC2KdITVi3DwXgLqcROzNr9g3CYXIaKv8fmc9ZQGk+Szr7znzvwDthzCeVIxqoXLfn8VGWZbN4gR92JjCH8BQu/Jabd3bWeFllR4yYnuM2uqU0pT1+wtva5imC8gw6Yf2LzSWJgaSAVGZO5mdNZK1HE9s4LHOspJhAyIkaWrKnHVktV8vCTStTAMxEZu/CrU6eGgHqWti2bEiR6bh1dsjGpMeVliDZeR3Oxj3CFKUOGToTY9m9CELwTU8k5RX83qN5PaflVAYSdlBxBOokp8Io4o1nZhIOB3V1qH/JiNn97YBaNe7/c2b6W7860FAfw5Eoy5zPC5zNZh4Vs=;nNJ0TZhd8BBD2llN6jXAwQ=="
 ---
 

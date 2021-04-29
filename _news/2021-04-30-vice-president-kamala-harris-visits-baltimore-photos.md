@@ -473,6 +473,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Water bill may open spigot for Biden infrastructure plan"
+    excerpt: "Rarely has a routine water resources bill generated so much political buzz, but as senators hoisted the measure to passage Thursday the bipartisan infrastructure legislation served as a potential template for building consensus around President Joe Biden’s ambitious American Jobs Plan."
+    publishedDateTime: 2021-04-29T20:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/water-bill-may-open-spigot-for-biden-infrastructure-plan/2021/04/29/311daa82-a92f-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/water-bill-may-open-spigot-for-biden-infrastructure-plan/2021/04/29/311daa82-a92f-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/water-bill-may-open-spigot-for-biden-infrastructure-plan/2021/04/29/311daa82-a92f-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FVTU3MVJF4I6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "No vice president has broken more Senate ties as early as Kamala Harris has"
     excerpt: "During the eight years that Joe Biden served as vice president to Barack Obama, he never cast a tiebreaking vote in the Senate. For eight years, Biden was just at the other end of Pennsylvania Avenue,"
     publishedDateTime: 2021-04-22T20:46:00Z
@@ -1231,6 +1247,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "jVpIEmCvZmM7pCmxrTdhTwDk7+742PTMJyIq/gZMTrW9K+nlvzApCxm3KgshyEBOfJvexPh+kD6pKl85IlSU7/v3MrH5ySDPMwF1endJc2kC9u4WclCurZMZNeBpa2aC5HhE7X77l5m6XKrA3QVdKfDtt8YCydMMHjFoioV0gwekX3HbWAnt+6pIzJEUsyLRqKmh8Aoi4E5NfSeIOqSQlbWVSQDp5gChpD2bspQnAyQSJYvL9+5Fju7t/sYZyzmgNfibaArnmnnJJyxkTKjIODKM9T+JKTkW0TKqYriKalN/8fyg1u0w5rd/oYyPSRjSQG7fWEP9yxaruJGjEHpAPG1Y4me2MZkMWZg2jbkYy3c=;kN1wve6HpJWl6b8n6s5Ufg=="
+secured: "uR6/jqaY/yhTm1TnQMkw0LwobDD9VEidP1xw0gBH/kLgdocNagGSaLveQVQTXpVdzTQ8sBlJutiMxYA0FOy7Y3QFS9Pj9Temv9Y+f2KUfVbzvvdH3BuC/H+VxqzRbvKXpyQqSMm0nZbo/Y2hUjlEWR/hjOX5KnF+GYP4AIFw223f8xZpiGhrWibkbRjpwQIYuXo70ej1PgWfbD8eoOjtQLnZJNY6NreEQLBGmSd8vuENYfr/hQRPjlsetnotVf57hAUfSd/lRmQc5qA4zfqa4GdK3mVhtmJoUpJrnqDtCgY37WSlKf9Z/Na+oIWiCUxl8WyEp6QbL4MwPlZtsikQM6jObdjPtZy2M+Aot46tHCFmRxqdRdruImMf3TEIehH+ONchqgGVt/Myg3pgnsj341K95kVBxtSUmbkHSIc4xCPxm1DZoPkieKeE3ura5sh8dL/DfhiBn/qiPYwBTMIqZibZfUU3HYV5oDLQYR1euzg7jKakDxDFyhrrCOwQJ31FBwU0wXZ73XOQlLHstJBu7Q==;8Ji1M4kxMn2qlfsivAou+A=="
 ---
 

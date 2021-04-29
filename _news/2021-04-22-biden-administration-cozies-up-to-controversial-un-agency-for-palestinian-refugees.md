@@ -31,85 +31,115 @@ images:
     isCached: true
 
 related:
-  - title: "West Virginia AG threatens lawsuit against Biden Climate Plan"
-    excerpt: "West Virginia Attorney General Patrick Morrisey on Friday, vowed to take the Biden administration to court if the president does not seek congressional approval for his latest plan to combat climate change.  "
-    publishedDateTime: 2021-04-23T20:46:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n5HUvxZxRCk/west-virginia-ag-threatens-lawsuit-against-biden-climate-plan"
-    ampWebUrl: "https://www.foxnews.com/politics/west-virginia-ag-threatens-lawsuit-against-biden-climate-plan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/west-virginia-ag-threatens-lawsuit-against-biden-climate-plan.amp"
+  - title: "Trump National Security Advisor commends Biden Administration: 'No more important alliance' than Japan"
+    excerpt: "Former National Security Advisor under President Trump, Robert O'Brien, discusses Biden's response to tension with China and Russia."
+    publishedDateTime: 2021-04-16T20:45:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qsH0wm3_xZc/no-more-important-alliance-than-japan-amid-tension-china"
+    ampWebUrl: "https://www.foxnews.com/politics/no-more-important-alliance-than-japan-amid-tension-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-more-important-alliance-than-japan-amid-tension-china.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59a712c5-fbee-4739-8f1d-6c1e1b4d8cec/2cbb6979-d7f9-43e3-90a6-ecfacd5492c5/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden declares Russia threat 'national emergency,' lobs sanctions; 10 diplomats booted over election meddling"
+    excerpt: "President Biden on Thursday signed an executive order declaring a “national emergency” over the threat from Russia, as his administration slapped new sanctions on the country."
+    publishedDateTime: 2021-04-15T12:44:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WidxUv4PyHA/biden-russia-threat-national-emergency-sanctions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-russia-threat-national-emergency-sanctions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-russia-threat-national-emergency-sanctions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden administration orders ICE, CBP to stop using terms 'illegal alien' and 'assimilation'"
+    excerpt: "President Biden's administration on Monday ordered departments to change the terms used to describe immigration matters, including how to refer to those who enter the country illegally, Fox News has confirmed."
+    publishedDateTime: 2021-04-19T14:55:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sj9lcNYNMYI/ice-cbp-to-stop-using-terms-illegal-alien-and-assimilation"
+    ampWebUrl: "https://www.foxnews.com/politics/ice-cbp-to-stop-using-terms-illegal-alien-and-assimilation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ice-cbp-to-stop-using-terms-illegal-alien-and-assimilation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden administration increases seasonal worker visas by 22,000, including 6,000 from Central America"
+    excerpt: "The Biden administration on Tuesday announced that it is increasing the number of available H-2B seasonal worker visas available -- increasing the number by 22,000, with 6,000 reserved for workers from Central American countries."
+    publishedDateTime: 2021-04-20T16:48:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XT72O5snGgY/biden-seasonal-worker-visas-h2b"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-seasonal-worker-visas-h2b.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-seasonal-worker-visas-h2b.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e12197eb-9c6d-4b7b-b5d0-90e0fa21029a/e81f6404-111f-4d9a-b61d-4bb178ae645d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Florida AG Moody demands Biden make Supreme Court commission meetings public"
-    excerpt: "Florida Attorney General Ashley Moody called this week for President Biden to allow public access to meetings of a commission he formed to explore a potential expansion of the Supreme Court, among other reforms."
-    publishedDateTime: 2021-04-22T02:07:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ewBhAupQ7FQ/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public"
-    ampWebUrl: "https://www.foxnews.com/politics/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.amp"
+  - title: "Arizona AG sues Biden administration over immigration policies that harm the environment"
+    excerpt: "Arizona Attorney General Mark Brnovich is suing the Biden administration over its immigration policies, citing questions over whether recent decisions comply with environmental regulations"
+    publishedDateTime: 2021-04-12T23:55:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JC6hDzqg5oo/arizona-ag-lawsuit-biden-immigration"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 146
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05c2a13b-83af-4d3f-9d1f-6b9fdb7bfc9c/1903328b-8ba5-4353-a238-68996472ba7c/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Arizona-border-immigration2.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden hammered by border lawsuits in first 100 days as GOP state AGs take 'aggressive' approach"
-    excerpt: "Republican state attorneys general are taking an aggressive approach to suing the Biden administration for its southern border policies."
-    publishedDateTime: 2021-04-28T14:22:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UStkFmpsLvo/biden-immigration-suits-states-arizona-mark-brnovich-republicans"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-suits-states-arizona-mark-brnovich-republicans.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-suits-states-arizona-mark-brnovich-republicans.amp"
+  - title: "Trump takes jab at ‘lunacy’ of Johnson & Johnson vaccination pause"
+    excerpt: "Former President Donald Trump took aim at the Biden administration on Friday evening for allowing for a pause in the Johnson & Johnson coronavirus vaccine, accusing them of allowing “insanely"
+    publishedDateTime: 2021-04-17T00:41:00Z
+    webUrl: "https://nypost.com/2021/04/16/trump-takes-jab-at-bidens-lunacy-of-jj-vaccination-pause/"
+    ampWebUrl: "https://nypost.com/2021/04/16/trump-takes-jab-at-bidens-lunacy-of-jj-vaccination-pause/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/16/trump-takes-jab-at-bidens-lunacy-of-jj-vaccination-pause/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15720e17-baee-4a97-b21d-8a0a34cc5ec1/b51c05bd-8c94-4815-9b5c-dae5c0ef3d73/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-calls-out-biden-jandj-pause-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Biden's immigration policies hurt environment? Arizona green groups react to state AG's lawsuit"
-    excerpt: "Arizona Attorney General Mark Brnovich is suing the Biden administration for failing to examine the environmental effects of its immigration policies."
-    publishedDateTime: 2021-04-29T15:46:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YHsDYT4QPRs/biden-immigration-environment-arizona-nepa-lawsuit"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-environment-arizona-nepa-lawsuit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-environment-arizona-nepa-lawsuit.amp"
+  - title: "Alyssa Milano, Chelsea Handler call on Joe Biden to take action on federal slavery reparations"
+    excerpt: "Alyssa Milano and Chelsea Handler lent their voices to a call for President Joe Biden to implement federal slavery reparations for the Black community."
+    publishedDateTime: 2021-04-15T16:22:00Z
+    webUrl: "https://www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-call-joe-biden-take-action-slavery-reparations"
+    ampWebUrl: "https://www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-call-joe-biden-take-action-slavery-reparations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/alyssa-milano-chelsea-handler-call-joe-biden-take-action-slavery-reparations.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 123
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ada9c350-7eb8-4879-8743-c26265764a68/7f71219a-1627-48b2-98d2-7f7f7531e024/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "The ACLU has not filed one lawsuit against Biden in first 100 days despite humanitarian crisis at the border"
-    excerpt: "The ACLU has yet to file a single lawsuit against President Biden in his first 100 days amid the growing humanitarian crisis at the southern border."
-    publishedDateTime: 2021-04-29T18:41:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OgEpG0t0NNQ/aclu-biden-immigration-lawsuits-100-days"
-    ampWebUrl: "https://www.foxnews.com/politics/aclu-biden-immigration-lawsuits-100-days.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aclu-biden-immigration-lawsuits-100-days.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2585e171-ce02-4574-afd9-3df52959c701/890718e3-7821-4b6b-880a-6e2a6d8e3517/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/Milano-Handler-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "ClFGXHVETckkyYXsc3dIkBAv9oexD0LnF6x/n1wz42zNAlfOGtUatGcSdrJtBwLOilLSiay3k2Sc2S9yNUtmGCA0hkQjBS0TgX8Ecdhu1PRU3tvOLEiYwoUL4xppivHnjg7pDpQfDWy8S/EEEBMr/RH2qEB+3y/N53fFTj1NkGzPfSlGCHYm+I4GiVWcKYEVfzoXfo6Gwj5QAWNEhV5SAsah+ig1mWVWb2iOOJsy+ugNqMT2Breh4ZcNc8hIzUxz+XndLiTzT2ySeXcd52q5nxOEom700aRb2RoyrvIcavDDWRn02JnYpQP8WpGTF2KnMhz4jTKRvF3EC1BjLVPn6UHGfE2hgpSYeVKgZe4efKg=;yerq1fDehqQ4p+fFNZ/Upw=="

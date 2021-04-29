@@ -934,20 +934,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Joe Biden's Bait-and-Switch Presidency"
-    excerpt: "Joe Biden was elected as a moderate-left Democrat, but he is not governing as one. He pledged repeatedly to work across party lines, but he is ramming through the biggest, most expensive progressive agenda in American history without any Republican votes."
-    publishedDateTime: 2021-04-01T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/01/joe_bidens_bait-and-switch_presidency_539483.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/539407_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "With Infrastructure Plan, Biden Focuses on National Rebuild"
     excerpt: "Using a carpenters training facility in Pittsburgh as a backdrop for his speech Wednesday, President Joe Biden will propose a $2 trillion investment in..."
     publishedDateTime: 2021-03-31T18:55:00Z

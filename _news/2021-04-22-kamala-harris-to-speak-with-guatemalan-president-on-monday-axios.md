@@ -471,6 +471,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Water bill may open spigot for Biden infrastructure plan"
+    excerpt: "Rarely has a routine water resources bill generated so much political buzz, but as senators hoisted the measure to passage Thursday the bipartisan infrastructure legislation served as a potential template for building consensus around President Joe Biden’s ambitious American Jobs Plan."
+    publishedDateTime: 2021-04-29T20:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/water-bill-may-open-spigot-for-biden-infrastructure-plan/2021/04/29/311daa82-a92f-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/water-bill-may-open-spigot-for-biden-infrastructure-plan/2021/04/29/311daa82-a92f-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/water-bill-may-open-spigot-for-biden-infrastructure-plan/2021/04/29/311daa82-a92f-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FVTU3MVJF4I6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "No vice president has broken more Senate ties as early as Kamala Harris has"
     excerpt: "During the eight years that Joe Biden served as vice president to Barack Obama, he never cast a tiebreaking vote in the Senate. For eight years, Biden was just at the other end of Pennsylvania Avenue,"
     publishedDateTime: 2021-04-22T20:46:00Z

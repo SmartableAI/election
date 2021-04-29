@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Biden wants a big New Deal. This is his toughest hurdle"
+    excerpt: "President Joe Biden laid out his ambitious plan to remake the social contract between government and citizens during his first address to a joint session of Congress Wednesday night.\n    \n"
+    publishedDateTime: 2021-04-29T21:22:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gvQYDqk37Ak/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/biden-social-plan-fdr-lbj/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/biden-social-plan-fdr-lbj/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429104348-02-joe-biden-congress-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Read President Joe Biden's first address to Congress"
     excerpt: "President Joe Biden on Wednesday delivered his first address to a joint session of Congress. Read his remarks as prepared for delivery:\n    \n"
     publishedDateTime: 2021-04-29T02:24:03Z

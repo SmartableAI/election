@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-reverses-trump-era-policies-l
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp"
 type: article
 quality: 190
-heat: 1410
+heat: 1390
 published: true
 
 provider:
@@ -920,20 +920,6 @@ related:
     quality: 65
     images:
       - url: "https://assets.realclear.com/images/53/539202_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Joe Biden's Bait-and-Switch Presidency"
-    excerpt: "Joe Biden was elected as a moderate-left Democrat, but he is not governing as one. He pledged repeatedly to work across party lines, but he is ramming through the biggest, most expensive progressive agenda in American history without any Republican votes."
-    publishedDateTime: 2021-04-01T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/04/01/joe_bidens_bait-and-switch_presidency_539483.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/539407_5_.jpg"
         width: 750
         height: 500
         isCached: true

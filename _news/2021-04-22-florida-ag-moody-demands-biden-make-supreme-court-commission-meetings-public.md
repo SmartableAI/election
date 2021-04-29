@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/florida-ag-moody-demands-biden-make
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.amp"
 type: article
 quality: 172
-heat: -1
-published: false
+heat: 192
+published: true
 
 provider:
   name: Fox News
@@ -31,85 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "West Virginia AG threatens lawsuit against Biden Climate Plan"
-    excerpt: "West Virginia Attorney General Patrick Morrisey on Friday, vowed to take the Biden administration to court if the president does not seek congressional approval for his latest plan to combat climate change.  "
-    publishedDateTime: 2021-04-23T20:46:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n5HUvxZxRCk/west-virginia-ag-threatens-lawsuit-against-biden-climate-plan"
-    ampWebUrl: "https://www.foxnews.com/politics/west-virginia-ag-threatens-lawsuit-against-biden-climate-plan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/west-virginia-ag-threatens-lawsuit-against-biden-climate-plan.amp"
+  - title: "NY Dem calls on Supreme Court Justice Stephen Breyer to retire so Biden can pick a nominee"
+    excerpt: "New York Democrat Rep. Mondaire Jones said there’s \"no question\" Supreme Court Justice Stephen Breyer should retire during President Biden’s presidency. "
+    publishedDateTime: 2021-04-16T18:46:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b0Q9CxFEcoA/democratic-rep-supreme-court-justice-stephen-breyer-retire"
+    ampWebUrl: "https://www.foxnews.com/politics/democratic-rep-supreme-court-justice-stephen-breyer-retire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-rep-supreme-court-justice-stephen-breyer-retire.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59a712c5-fbee-4739-8f1d-6c1e1b4d8cec/2cbb6979-d7f9-43e3-90a6-ecfacd5492c5/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/mondaire-jones.jpeg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden administration cozies up to controversial UN agency for Palestinian refugees"
-    excerpt: "The U.N. Relief and Works Agency (UNRWA) has continuously faced accusations of teaching hatred and incitement in its school system against Jews and Israelis. Yet none of this was even hinted at in an optimistic statement released following the meeting between Ambassador Linda Thomas-Greenfield and the"
-    publishedDateTime: 2021-04-22T19:40:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vjv2JWtIe-U/biden-administration-cozies-up-to-controversial-un-agency-for-palestinian"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-cozies-up-to-controversial-un-agency-for-palestinian.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-cozies-up-to-controversial-un-agency-for-palestinian.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21027610672208.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden hammered by border lawsuits in first 100 days as GOP state AGs take 'aggressive' approach"
-    excerpt: "Republican state attorneys general are taking an aggressive approach to suing the Biden administration for its southern border policies."
-    publishedDateTime: 2021-04-28T14:22:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UStkFmpsLvo/biden-immigration-suits-states-arizona-mark-brnovich-republicans"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-suits-states-arizona-mark-brnovich-republicans.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-suits-states-arizona-mark-brnovich-republicans.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15720e17-baee-4a97-b21d-8a0a34cc5ec1/b51c05bd-8c94-4815-9b5c-dae5c0ef3d73/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden's immigration policies hurt environment? Arizona green groups react to state AG's lawsuit"
-    excerpt: "Arizona Attorney General Mark Brnovich is suing the Biden administration for failing to examine the environmental effects of its immigration policies."
-    publishedDateTime: 2021-04-29T15:46:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YHsDYT4QPRs/biden-immigration-environment-arizona-nepa-lawsuit"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-environment-arizona-nepa-lawsuit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-environment-arizona-nepa-lawsuit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ada9c350-7eb8-4879-8743-c26265764a68/7f71219a-1627-48b2-98d2-7f7f7531e024/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "The ACLU has not filed one lawsuit against Biden in first 100 days despite humanitarian crisis at the border"
-    excerpt: "The ACLU has yet to file a single lawsuit against President Biden in his first 100 days amid the growing humanitarian crisis at the southern border."
-    publishedDateTime: 2021-04-29T18:41:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OgEpG0t0NNQ/aclu-biden-immigration-lawsuits-100-days"
-    ampWebUrl: "https://www.foxnews.com/politics/aclu-biden-immigration-lawsuits-100-days.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aclu-biden-immigration-lawsuits-100-days.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2585e171-ce02-4574-afd9-3df52959c701/890718e3-7821-4b6b-880a-6e2a6d8e3517/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
         isCached: true
 
 secured: "0tolufWXCsCfTql71XgpvSTkqQuyAh33Aiv/iNIFW9pRSfePopSG1G4bX4IHPHLu8fcIEkZRyg+ltGQn7T8vthkIxPcyep5XlTQ4tK2MbIGW2vdZEubHyZgUCEs4EC3lNcBeB4evtjW2pghgpDrZvfkLUsvPsCUJp8lE9X2jaq7VLuY1bBXKvY9+Q65GT7Y8XDCJaTNPIldJ5VwycmIQd6dQCMXEwuO5fd2NGAOdOgjuNoolOG9rZICE5s4FnANqz202V0WDr0OwPPeF6n5j+I9rb2WudVEdRAqNCU/kKLBxJNRZwePMMPui2lkboarJaAb33YVj3y75GeUm5NnRQDqOSt1nD4WYdRxK/6iTZmU=;Emega8MGoCXPpWfCdiy7bw=="
