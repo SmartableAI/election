@@ -383,6 +383,20 @@ related:
         width: 1024
         height: 685
         isCached: true
+  - title: "Jill Biden Urged To 'Restore Jackie Kennedy's Rose Garden' After Melania Trump's Revamp"
+    excerpt: "A petition has been launched urging first lady Dr. Jill Biden to restore the White House Rose Garden after Melania Trump renovated it last year."
+    publishedDateTime: 2021-04-29T09:30:00Z
+    webUrl: "https://www.ibtimes.com/jill-biden-urged-restore-jackie-kennedys-rose-garden-after-melania-trumps-revamp-3189856"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/first-lady-jill-biden-wore-a-necklace-that.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Biden to Nominate Texas Sheriff and Trump Critic to Lead Immigration Enforcement Agency"
     excerpt: "U.S. President Joe Biden will nominate a Texas sheriff who criticized Trump-era immigration raids to lead the U.S. Immigration and Customs Enforcement (ICE) agency, a homeland security official told Reuters on Tuesday."
     publishedDateTime: 2021-04-27T19:10:00Z

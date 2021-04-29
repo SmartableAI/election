@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Early news coverage of Joe Biden's administration has been more policy than character-driven, study shows"
+    excerpt: "Media stories on the early days of the Biden administration focused more on policy than personality, a study released found."
+    publishedDateTime: 2021-04-29T10:09:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2021/04/29/biden-news-coverage-more-policy-than-character-driven-pew-study/4885845001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4885845001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4885845001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/29/USAT/ea9635a6-2841-463b-9659-583a04798d84-AP_Biden_100_Days_Congress.jpg?auto=webp&crop=1680,945,x564,y686&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden calls for police reform by 'next month'"
     excerpt: "Top News Biden calls for police reform by 'next month' Posted . In his first speech to Congress on Wednesday, U.S. President Joe Biden called on Congress to a pass police reform b"
     publishedDateTime: 2021-04-29T04:13:00Z

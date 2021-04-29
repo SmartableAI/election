@@ -2,11 +2,11 @@
 category: news
 title: "It's Biden's speech, but Kamala Harris and Nancy Pelosi also made history"
 excerpt: "For the first time, two women flanked an American president on the dais of the House Chamber during his first address to a joint session of Congress."
-publishedDateTime: 2021-04-29T03:55:00Z
-originalUrl: "https://www.cbsnews.com/news/kamala-harris-nancy-pelosi-biden-speech-congress/"
-webUrl: "https://www.cbsnews.com/news/kamala-harris-nancy-pelosi-biden-speech-congress/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-nancy-pelosi-biden-speech-congress/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-nancy-pelosi-biden-speech-congress/"
+publishedDateTime: 2021-04-29T11:03:00Z
+originalUrl: "https://www.cbsnews.com/news/kamala-harris-nancy-pelosi-history-biden-speech-congress/"
+webUrl: "https://www.cbsnews.com/news/kamala-harris-nancy-pelosi-history-biden-speech-congress/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-nancy-pelosi-history-biden-speech-congress/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-nancy-pelosi-history-biden-speech-congress/"
 type: article
 quality: 139
 heat: -1
@@ -78,6 +78,38 @@ related:
       - url: "https://d.newsweek.com/en/full/1771249/capitol-police-attack-joe-biden.jpg"
         width: 3589
         height: 2393
+        isCached: true
+  - title: "VP Kamala Harris, Speaker Nancy Pelosi make history seated behind Biden at speech"
+    excerpt: "Harris and Pelosi made history as the first women — one of them Black and Indian American — to share the stage in Congress during a presidential address."
+    publishedDateTime: 2021-04-29T04:33:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-harris-pelosi-biden-speech-20210429-7admpphfmfbihngnneadehveqa-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-harris-pelosi-biden-speech-20210429-7admpphfmfbihngnneadehveqa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-harris-pelosi-biden-speech-20210429-7admpphfmfbihngnneadehveqa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 135
+    images:
+      - url: "https://www.chicagotribune.com/resizer/fZkJ8_Px-oXq_3vPmIxSf5-fSzw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FPVZXWPHWXVQVDTJO3AATCEWQU.aspx"
+        width: 1200
+        height: 749
+        isCached: true
+  - title: "Kamala Harris' Husband Doug Blowing Kisses to Her Before Joe Biden Speech Goes Viral"
+    excerpt: "Vice President Harris and Speaker Nancy Pelosi made history as the first women to lead the Senate and House during the presidential address to Congress."
+    publishedDateTime: 2021-04-29T10:45:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-husband-doug-blowing-kisses-biden-speech-viral-1587383"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-husband-doug-blowing-kisses-biden-speech-viral-1587383?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-husband-doug-blowing-kisses-biden-speech-viral-1587383?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
+    images:
+      - url: "https://d.newsweek.com/en/full/1784812/second-gentleman-doug-emhoff.jpg"
+        width: 1024
+        height: 685
         isCached: true
   - title: "Hate mail sent to DuSable Museum threatens Joe Biden, Kamala Harris and Obama family, officials say"
     excerpt: "The Secret Service is investigating six threatening letters sent to the DuSable Museum of African American History that mention President Joe Biden, Vice President Kamala Harris and the Obama family,"
@@ -402,7 +434,7 @@ related:
   - title: "New York Post reporter who wrote false Kamala Harris story resigns"
     excerpt: "The rise and collapse of the tabloid’s false accusations about the vice president illustrated the speed at which political misinformation can be weaponized in the modern media environment."
     publishedDateTime: 2021-04-28T20:41:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html"
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
     ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
     type: article
@@ -723,22 +755,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/17/63/56/20921276/3/ratio3x2_400.jpg"
         width: 400
         height: 267
-        isCached: true
-  - title: "VP Kamala Harris, Speaker Nancy Pelosi make history seated behind Biden at speech"
-    excerpt: "Harris and Pelosi made history as the first women — one of them Black and Indian American — to share the stage in Congress during a presidential address."
-    publishedDateTime: 2021-04-29T04:33:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-harris-pelosi-biden-speech-20210429-7admpphfmfbihngnneadehveqa-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-harris-pelosi-biden-speech-20210429-7admpphfmfbihngnneadehveqa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-harris-pelosi-biden-speech-20210429-7admpphfmfbihngnneadehveqa-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 85
-    images:
-      - url: "https://www.baltimoresun.com/resizer/fZkJ8_Px-oXq_3vPmIxSf5-fSzw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FPVZXWPHWXVQVDTJO3AATCEWQU.aspx"
-        width: 1200
-        height: 749
         isCached: true
   - title: "'One giant leap': Harris says Biden's American Jobs Plan aims high, will reach higher"
     excerpt: "Vice President Kamala Harris told a small audience at GTCC that \"the president and I are determined to get this done.\""
@@ -1189,6 +1205,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "3XL97y2NHwgxAV+nej/Z/7u/6w60A/U6leWRqEKYgYTtPATkEUjy2+jWu6sNiwnkJdopAG/IwQ5sUgGOn5vxZ9rvwxDhjLulJyIBTuH50uU6CsMZr2eNQyTnSAl+u6qHdz0ijL+dpjZ4P4cUTdsAQzS2pSSpFf5d68ef0kEEpHwG4Pt970V82GILc7fFOX3LgJPclL4eKN92mhoKmAHc9fiW1OzJ9S4EjOto1NlOZgmo7tXoWs28KbaPn6qAawMLdZcURo575RUg/I7Il86n5j8dY2Ghbh9EA+wW4rWXyRXaQBXtlF8IahlX0JGzEyI9UgmabI9e4WP8+kYCL4Sr5rfjipyd4yXv5YIpr7v/nd+EqlyDy68Xh38f7RUfD4xeImebGe/bZXd9SKRhrxKvogEzKxrNuGfgsyHMrI2KMWMCPKcZd4kkw/6pQzQxLtRhdJjILFXJbHZSBcyrmSISECX6JFKavMaYoqXqsmZuTwN91PxwqUFzNYWPYmL8jNGTHNO2KtoMogruoWilsJUjvQ==;QlA96tUripwbjmoV+M6IkQ=="
+secured: "e6De/k9Ao30PBapY4S7DSnkKWM7XW56IK9cJMu0UsJWSEwX4JAEM1AmJGWmPIo/sfG0GcjUxVHh5wEzrP9ZMqJidv2A0uHGp6KoHSCA7g+qzrImFSYsdR3HxOLRhi+jymQH4wcWyBv+t2quQNzNyllyBuAeyuHafCe6rXmo3PPxfW/Fb+F5AgXgwGTIn8j5n+/LZr9nLmhz8Kw/IfZWHXyCqgSuyPMcThUE3asGBHieISUmismbVtFbLW55H2Y9kSyxn8cj0B23hMol5Vyi0rhmCCrzSbQDqo+nQY3zX//zveTD4RQ6g893m/UzobFyYZWkYIsDK5aJumQHzr8Mjnk0s3GekLdcRw16488ppZcg=;0DpHA+FugsoO4XYx/C9z/Q=="
 ---
 

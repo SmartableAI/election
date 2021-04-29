@@ -288,6 +288,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Lawmakers Divided Over Biden’s Plan to Withdraw All Troops from Afghanistan by Sept. 11"
+    excerpt: "The decision will keep more than 3,000 American troops in Afghanistan beyond the May 1 deadline that was announced under the Trump administration."
+    publishedDateTime: 2021-04-13T23:19:00Z
+    webUrl: "https://www.nytimes.com/live/2021/04/13/us/biden-news-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/04/13/us/biden-news-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/04/13/us/biden-news-today.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'It is time to end America's longest war': Biden to announce full withdrawal of troops in Afghanistan"
     excerpt: "WASHINGTON — President Joe Biden is expected to say in a speech Wednesday announcing his plans to fully withdraw troops from Afghanistan by Sept. 11 that the country \"cannot continue the cycle of extending or expanding our military presence in ..."
     publishedDateTime: 2021-04-14T14:18:00Z

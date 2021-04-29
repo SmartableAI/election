@@ -236,6 +236,20 @@ related:
         width: 375
         height: 815
         isCached: true
+  - title: "Biden's promises, 100 days into his term: Status check"
+    excerpt: "President Biden Thursday reached the 100th day of his presidency, with mixed results on many of his promises. Some have already been fulfilled while others seem permanently stalled. "
+    publishedDateTime: 2021-04-29T10:09:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZVJpad0vEpM/biden-100-days-promises-status-check"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Joe-Biden-100-Days-Promises-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hours before Biden's speech, Christie accuses president of lying to hide 'socialist agenda'"
     excerpt: "Chris Christie is once again accusing President Biden of lying, this time charging that the president is \"not telling the truth\" about the tax increases inside the sweeping spending proposal he’ll unveil on Wednesday night."
     publishedDateTime: 2021-04-28T15:59:00Z

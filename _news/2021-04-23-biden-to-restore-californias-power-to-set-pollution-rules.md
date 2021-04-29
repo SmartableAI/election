@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-restore-californias
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-restore-californias-power-to-set-pollution-rules/2021/04/22/efc96db8-a3bc-11eb-b314-2e993bd83e31_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 117
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/04/27/USAT/bfc1809d-119b-4e06-8015-609e63865332-AP080826032783.jpg?auto=webp&crop=2345,1320,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Early news coverage of Joe Biden's administration has been more policy than character-driven, study shows"
+    excerpt: "Media stories on the early days of the Biden administration focused more on policy than personality, a study released found."
+    publishedDateTime: 2021-04-29T10:09:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2021/04/29/biden-news-coverage-more-policy-than-character-driven-pew-study/4885845001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4885845001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4885845001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/29/USAT/ea9635a6-2841-463b-9659-583a04798d84-AP_Biden_100_Days_Congress.jpg?auto=webp&crop=1680,945,x564,y686&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

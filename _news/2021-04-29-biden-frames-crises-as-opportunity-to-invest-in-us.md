@@ -384,6 +384,20 @@ related:
         width: 1024
         height: 685
         isCached: true
+  - title: "Jill Biden Urged To 'Restore Jackie Kennedy's Rose Garden' After Melania Trump's Revamp"
+    excerpt: "A petition has been launched urging first lady Dr. Jill Biden to restore the White House Rose Garden after Melania Trump renovated it last year."
+    publishedDateTime: 2021-04-29T09:30:00Z
+    webUrl: "https://www.ibtimes.com/jill-biden-urged-restore-jackie-kennedys-rose-garden-after-melania-trumps-revamp-3189856"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/first-lady-jill-biden-wore-a-necklace-that.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Biden to Nominate Texas Sheriff and Trump Critic to Lead Immigration Enforcement Agency"
     excerpt: "U.S. President Joe Biden will nominate a Texas sheriff who criticized Trump-era immigration raids to lead the U.S. Immigration and Customs Enforcement (ICE) agency, a homeland security official told Reuters on Tuesday."
     publishedDateTime: 2021-04-27T19:10:00Z
@@ -403,6 +417,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "hXkjGKozQrRjm5iT4TWtKb/ba2V19yE7yoR47hjzBKyvaXjsoD6i6X1c6iqHvYe6+gHe4lJhqwObv6lu1GtlFSEL9VHd4Gtis7dVN+4NPqub6SVUozL9OmdXem+ftY6x1l4nhLyfeKXaBGS6/kw3Ro+Pu/rQLTYP478HRw1hEyuIBQ038HQHSX/Js3lAmvNnYf5VTfUw78vNImH2Wgi50ChLeS7WkCTO5tjZZhwZH6r61sbt3A1OAWk0ElKsjTKL2B04+PPUMlYF6eED//xtXdIbYY19pIstY11ZGhioHpXwtP2+7DKkQzn5ERPMEXi3XdQpK6Lo0wSa+gC9cy1lnSPbzd6/6i3tx57PVcLXlH8=;Mq9IjBxFIxqinCxwXxcU2g=="
+secured: "G7nXWd6+sY2ZEDaUQxamUkuqNr+Mh8wL1jpHSIP5jdmDO/WNuHUg09Tz6JnCaqazXFib2MLX8wVf1TNOtbwHbf/bZgGrMSplXCzvsnA68jn+uWwCO1zQ9EE32kryJq8tj6ZCvKI7P53SDHvmMEkIPP9wXfyYK3TVTujqtXaraUvu+S+7hWUYi4w3Yc4jPxC6MQOfkT5XdtEh5oLB4WSbB4pRP+2zf04k4i32K9E5jV1vGJc6RsXIbURO2ln9fkrlu4VGSC+Wi4GjpYOasyAusEI+nazJl0a43AYTQIH7nka+dd8gYsN4m9TBTGKWpmI6HkWhcAWu7xOSuj59SCQ0oUdLG7eCQyx32ql/5I7t15m31WcsRB3XXd8yqS+jwSDNh1xm11kjZqo9fPkHt4XQf3ew2POmreSVsvkM9w6+AMADyIMEh/D04esrDRk7huGCueAPLdowVMrjEzLy8GuH3Hz+rZ0WxVl54NN94S/r+xtwI0vMsXB0Z26fZZa0jevagF6xHRHgJnUWjm3aTOPvgA==;df+8BZEg02rdJKMB9QZJdQ=="
 ---
 

@@ -240,6 +240,20 @@ related:
         width: 375
         height: 815
         isCached: true
+  - title: "Biden's promises, 100 days into his term: Status check"
+    excerpt: "President Biden Thursday reached the 100th day of his presidency, with mixed results on many of his promises. Some have already been fulfilled while others seem permanently stalled. "
+    publishedDateTime: 2021-04-29T10:09:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZVJpad0vEpM/biden-100-days-promises-status-check"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Joe-Biden-100-Days-Promises-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Son-in-Law Benefited From Loan Program Biden Ripped"
     excerpt: "Joe Biden needed to talk to a family member, and the message, Politico later reported, was blunt. For Christs sake, the then-presidential"
     publishedDateTime: 2021-04-22T10:30:00Z
