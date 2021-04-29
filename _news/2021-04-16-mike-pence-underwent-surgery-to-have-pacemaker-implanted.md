@@ -153,6 +153,22 @@ related:
         width: 1280
         height: 755
         isCached: true
+  - title: "Former Vice President Mike Pence receives pacemaker, is recovering after surgery"
+    excerpt: "Pence reportedly experienced \"symptoms associated with a slow heart rate.\" He underwent surgery to have a pacemaker installed Wednesday."
+    publishedDateTime: 2021-04-17T12:31:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/04/15/mike-pence-pacemaker-surgery-heart/7241061002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7241061002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7241061002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/7fbd5fcf-96e3-4ef2-ac04-0d8213dabe73-01202021_Pence_GH_005.jpg?auto=webp&crop=4036,2271,x0,y206&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted"
     excerpt: "Former Vice President Mike Pence has undergone surgery to have a pacemaker implanted. His office says that Wednesday’s procedure went well and that Pence “is expected to fully recover and return to normal activity in the coming days."
     publishedDateTime: 2021-04-15T23:12:00Z

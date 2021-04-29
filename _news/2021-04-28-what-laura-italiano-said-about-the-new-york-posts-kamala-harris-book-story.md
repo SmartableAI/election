@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/what-laura-italiano-said-about-new-york-pos
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002?amp=1"
 type: article
 quality: 123
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 1024
         height: 656
         isCached: true
+  - title: "Take a first look at Kamala Harris’ Madame Tussauds wax figurine — the first for a VP"
+    excerpt: "Vice President Kamala Harris will make history once again as she becomes the first vice president to get their own wax figure from world-renowned museum Madame Tussauds."
+    publishedDateTime: 2021-04-28T18:18:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article251009199.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article251009199.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article251009199.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 48
 
 secured: "dY0A/UBEJt/Q8mF/TNd7y1IgYcyaluiSf30RkwbYM6Z+mIbzxjWUAoXv8EpCkai2QgJ+JPkvQwoyfE1NgRfLzvhcutTbtbuh97CWHX8Wehe4/ucAt9grwcxLMyRDLMOX2VJ2o0ifR6B5u+4buVUb87UyudYl7qP2tqlDEV9JFELQXUnBEprBG9U5phXODjEPy0oApUKUbSR+84AmdYOeBlBNwdFV8QpXO6ouhbdKpQTHbNZss1Az9zO2sdYaPvZKdx4+JBYOs2Xc6pLHVgcMEIhH7ULGYRjezAV3QM5QvLfLa2Ey2FZAgpdCNE6u+VrwIRHyzA0w22emkFPbOfnYAEVVcCeZzOBVpdeOpGrtsXA=;boa4azxi7ZhBHkGnDxUKGg=="
 ---

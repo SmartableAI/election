@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-28-catholic-bishops-could-consider-whether-biden-should-receive-communion.md",
+      "title": "Catholic bishops could consider whether Biden should receive Communion",
+      "excerpt": "The U.S. Conference of Catholic Bishops is holding a meeting in June to consider whether its Committee on Doctrine should draft a document clarifying the church's stance on abortion.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Ng4V4kroQ4/catholic-bishops-biden-communion",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Ng4V4kroQ4/catholic-bishops-biden-communion",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e4f7add-96ea-402f-8706-bca6e0a6a190/f4d7b388-af9f-498c-94be-e5643f225419/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/catholic-bishops-biden-communion.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/catholic-bishops-biden-communion.amp",
+      "publishedDateTime": "2021-04-28T15:10:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-trump-claims-he-would-be-on-mount-rushmore-if-he-were-a-democrat.md",
       "title": "Trump claims he would be on Mount Rushmore if he were a Democrat",
       "excerpt": "Former President Donald Trump on Wednesday claimed that his face would be added to Mount Rushmore if he were a Democrat. Trump’s allies have long flattered him with the idea that his",
@@ -50,25 +106,25 @@
       ]
     },
     {
-      "path": "_news/2021-04-28-how-bidens-address-to-congress-will-look-different-amid-covid-19-pandemic.md",
-      "title": "How Biden's address to Congress will look different amid COVID-19 pandemic",
-      "excerpt": "President Biden's first address before a joint session of Congress will look a bit different amid the pandemic.",
+      "path": "_news/2021-04-28-sen-joni-ernst-to-lead-gop-prebuttal-to-bidens-joint-address-to-congress.md",
+      "title": "Sen. Joni Ernst to lead GOP 'prebuttal' to Biden's joint address to Congress",
+      "excerpt": "EXCLUSIVE: Sen. Joni Ernst, the vice chair of the Senate GOP conference, will lead a \"prebuttal\" Wednesday afternoon to President Biden's joint address to Congress. ",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwb_e4SWJmE/biden-address-congress-different-pandemic",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwb_e4SWJmE/biden-address-congress-different-pandemic",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4eI7VbZ6h-8/joni-ernst-gop-prebuttal-biden-joint-address-congress",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4eI7VbZ6h-8/joni-ernst-gop-prebuttal-biden-joint-address-congress",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 233,
+      "heat": 232,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3773a681-47b0-44d9-a780-f69a57dd1c8a/365df13b-8c13-41d8-97c5-bf15453c7d8b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,9 +132,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-address-congress-different-pandemic.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-address-congress-different-pandemic.amp",
-      "publishedDateTime": "2021-04-28T08:56:36-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/joni-ernst-gop-prebuttal-biden-joint-address-congress.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joni-ernst-gop-prebuttal-biden-joint-address-congress.amp",
+      "publishedDateTime": "2021-04-28T08:29:48-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -881,7 +937,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 535,
+      "heat": 575,
       "tags": null,
       "images": [
         {
@@ -1201,118 +1257,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-22-hawley-braun-bill-would-force-biden-to-declassify-wuhan-coronavirus-leak-intelligence.md",
-      "title": "Hawley-Braun bill would force Biden to declassify Wuhan coronavirus leak intelligence",
-      "excerpt": "Sens. Josh Hawley, R-Mo., and Mike Braun, R-Ind., on Thursday introduced a bill that would force the Biden administration to declassify intelligence related to COVID-19 origins.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vYZdU8ZoXhk/hawley-braun-declassify-wuhan-coronavirus-intelligence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vYZdU8ZoXhk/hawley-braun-declassify-wuhan-coronavirus-intelligence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007209769820.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hawley-braun-declassify-wuhan-coronavirus-intelligence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-braun-declassify-wuhan-coronavirus-intelligence.amp",
-      "publishedDateTime": "2021-04-22T09:56:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-biden-avoids-confronting-china-over-climate-in-earth-day-speech-with-world-leaders.md",
-      "title": "Biden avoids confronting China over climate in Earth Day speech with world leaders",
-      "excerpt": "President Biden urged world leaders to act quickly and together to confront the consequences of Earth's changing climate, but notably did not specifically address heavy polluters like China.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EPD_R2_bxg4/biden-avoids-confronting-china-over-climate-in-earth-day-speech-with-world-leaders",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EPD_R2_bxg4/biden-avoids-confronting-china-over-climate-in-earth-day-speech-with-world-leaders",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21112464404501-CROP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-avoids-confronting-china-over-climate-in-earth-day-speech-with-world-leaders.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-avoids-confronting-china-over-climate-in-earth-day-speech-with-world-leaders.amp",
-      "publishedDateTime": "2021-04-22T09:16:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-22-klacik-to-lebron-james-cant-support-biden-a-1994-crime-bill-author-and-complain-about-police-brutality.md",
       "title": "Klacik to LeBron James: Can’t support Biden, a 1994 Crime Bill author, and complain about police brutality",
       "excerpt": "Kimberly Klacik, a former Republican congressional hopeful from Maryland, challenged LeBron James over his tweet that critics say threatened the life of an Ohio police officer who fatally shot a teen.",
@@ -1585,25 +1529,25 @@
       ]
     },
     {
-      "path": "_news/2021-04-21-biden-advisers-brother-lobbying-white-house-for-pharma-giants-docs-reveal.md",
-      "title": "Biden adviser's brother lobbying White House for pharma giants, docs reveal",
-      "excerpt": "Jeff Ricchetti began lobbying the White House at the beginning of this year’s first quarter, with disclosures showing that he was representing pharmaceutical giants Horizon Therapeutics, GlaxoSmithKline and Vaxart Inc., according to financial disclosure reports.",
+      "path": "_news/2021-04-21-biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.md",
+      "title": "Biden ignores $1B in riot damage while praising George Floyd protesters after Chauvin conviction",
+      "excerpt": "President Biden neglected to acknowledge the rioting, looting, arson and worse that reportedly caused more than $1 billion in property damage last year as he praised George Floyd protesters Tuesday following Derek Chauvin's conviction on murder charges.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3gHaxINDUjQ/biden-white-house-richetti-brother-lobbying-pharma",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3gHaxINDUjQ/biden-white-house-richetti-brother-lobbying-pharma",
+      "webUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction",
+      "originalUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 173,
+      "heat": 122,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f1fa356-6f69-460c-b69d-f0b1c45219ee/81fdc322-52d7-45aa-9e79-21bad849c756/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/GettyImages-1312682563.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1611,9 +1555,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-white-house-richetti-brother-lobbying-pharma.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-richetti-brother-lobbying-pharma.amp",
-      "publishedDateTime": "2021-04-21T11:47:20-07:00",
+      "ampWebUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.amp",
+      "publishedDateTime": "2021-04-21T06:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1637,6 +1581,64 @@
       ],
       "topics": [
         "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-leo-terrell-biden-democrats-reaction-to-chauvin-verdict-shows-you-cannot-satisfy-these-extremists.md",
+      "title": "Leo Terrell: Biden, Democrats' reaction to Chauvin verdict shows 'you cannot satisfy these extremists'",
+      "excerpt": "President Biden and his Democratic allies still want to make the Derek Chauvin trial about race relations in America, civil rights attorney Leo Terrell told \"Hannity\" Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/leo-terrell-biden-democrats-derek-chauvin-verdict-reaction",
+      "originalUrl": "https://www.foxnews.com/media/leo-terrell-biden-democrats-derek-chauvin-verdict-reaction",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cfe28a21-906e-4e25-9720-ebf56691b38f/90f018af-b1c6-4255-9893-7731659fef9d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/leo-terrell-biden-democrats-derek-chauvin-verdict-reaction.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/leo-terrell-biden-democrats-derek-chauvin-verdict-reaction.amp",
+      "publishedDateTime": "2021-04-20T19:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     }

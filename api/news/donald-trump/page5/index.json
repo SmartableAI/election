@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-02-wisconsin-seeks-145000-in-fees-for-trumps-bad-faith-election-lawsuit.md",
+      "title": "Wisconsin seeks $145,000 in fees for Trump's 'bad faith' election lawsuit",
+      "excerpt": "Wisconsin's Democratic Governor Tony Evers has asked a federal judge to order Donald Trump to cover $145,000 in legal fees the state spent to defend against the former Republican president's unsuccessful effort to overturn its 2020 election results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-wisconsin-idUSKBN2BO6M8",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-wisconsin-idUSKBN2BO6M8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1557071923&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH303G2",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BO6M8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO6M8",
+      "publishedDateTime": "2021-04-01T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-suicides-fell-by-2600-in-2020-despite-donald-trumps-lockdown-warnings.md",
+      "title": "Suicides Fell by 2,600 in 2020, Despite Donald Trump's Lockdown Warnings",
+      "excerpt": "Suicides dropped in 2020 amid the COVID-19 pandemic despite former President Donald Trump warning that lockdowns would inspire \"suicides by the thousands\" and cause deaths \"in far greater numbers than the numbers that we're talking about with regard to the virus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/suicides-fell-2600-2020-despite-donald-trumps-lockdown-warnings-1580585",
+      "originalUrl": "https://www.newsweek.com/suicides-fell-2600-2020-despite-donald-trumps-lockdown-warnings-1580585",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1769526/covid-19-lockdowns-suicide-rate-donald-trump.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/suicides-fell-2600-2020-despite-donald-trumps-lockdown-warnings-1580585?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/suicides-fell-2600-2020-despite-donald-trumps-lockdown-warnings-1580585?amp=1",
+      "publishedDateTime": "2021-04-01T15:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-donald-trump-fans-say-mike-pence-betraying-him-with-potential-2024-run.md",
       "title": "Donald Trump Fans Say Mike Pence 'Betraying' Him With Potential 2024 Run",
       "excerpt": "Some prominent pro-Trump social media users have offered harsh criticism of former Vice President Mike Pence amid suggestions that the Republican may be looking at a presidential run in 2024. Though former President Donald Trump remains the favorite to win ...",
@@ -272,7 +376,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2021/mar/31/facebook-donald-trump-video-clip-removed",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {

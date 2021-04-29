@@ -43,6 +43,17 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Take a first look at Kamala Harris’ Madame Tussauds wax figurine — the first for a VP"
+    excerpt: "Vice President Kamala Harris will make history once again as she becomes the first vice president to get their own wax figure from world-renowned museum Madame Tussauds."
+    publishedDateTime: 2021-04-28T18:18:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article251009199.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article251009199.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article251009199.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 48
 
 secured: "10voB4iLv0dhPgjgHP5elpM4CEbFO5mXKzlP39PFyeXDRWGXjtr+Gyzi1JVlemFA/7Xi+I8MdT0RDk4u41+5ewgWUcjWDYouzYAnxKzIB71yWWA7XAUNoq9iEKOzzxUqHl8XXrtP/zVciqzaOf7mEPJioCT/lwnmeJ3dH7n/V8cl4hxW2rnoUZhPs18opI2Nuzt4UHVpi8FRyASYVbUVFmGK/0Qmvv2b5kfclrcwu9zkyvt18nxg3iQmElZU3A0+KqDeRliyunUHsZmMAAyxnYpHnik26hDMNDitSwiXLNt7pGLBpV4VKnznFFhPhOJfCcLO42BoZJL27u7WYTQ8gSKbtZMuHOncsLyzDyxN58RK7OkhzgUWCjZM8c4SZGhRL5oPmJpuWH0w0xoRcuE3e1wojnl2q68spY17JHs9ldOPIeFaT3IoGlqiKNhxEZNSYH9pRLee67RBTKZcxNDCk5BjOJfi7GOP3+ZzHPRYPVcvOfzhI13wbiwVjPQBokVY7RjqtD5dj152fclAupJfTA==;Rdez3oO2bOio5P6v3j6jzw=="
 ---

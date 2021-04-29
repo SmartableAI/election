@@ -155,6 +155,22 @@ related:
         width: 1280
         height: 755
         isCached: true
+  - title: "Former Vice President Mike Pence receives pacemaker, is recovering after surgery"
+    excerpt: "Pence reportedly experienced \"symptoms associated with a slow heart rate.\" He underwent surgery to have a pacemaker installed Wednesday."
+    publishedDateTime: 2021-04-17T12:31:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/04/15/mike-pence-pacemaker-surgery-heart/7241061002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7241061002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7241061002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/7fbd5fcf-96e3-4ef2-ac04-0d8213dabe73-01202021_Pence_GH_005.jpg?auto=webp&crop=4036,2271,x0,y206&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Former Vice President Mike Pence undergoes heart procedure"
     excerpt: "Mike Pence to LaunchConservative Podcast.Former Vice President Mike Pence willsoon be returning to his radio roots. .Prior to being elected to Congress in 2000,61-year-old Pence s"
     publishedDateTime: 2021-04-15T20:48:00Z

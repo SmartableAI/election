@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pledg
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EOHRBZVHBUI6XKFHL5C53TPTMQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Live Updates: President Biden addresses a joint session of Congress"
+    excerpt: "President Biden will give his first address before a joint session of Congress on Wednesday, shortly before he will conclude his first 100 days in office. Mr. Biden is expected to outline his American Families Plan,"
+    publishedDateTime: 2021-04-28T23:05:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/biden-speech-congress-joint-session/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/biden-speech-congress-joint-session/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/biden-speech-congress-joint-session/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/28/3753a8ea-1a92-4a42-b872-94de9daa6dde/thumbnail/1200x630/5ee41c6fe91cd14e0a60fe24dca73e0b/gettyimages-1314888185.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Power companies urge Biden to implement policies to cut emissions 80% by 2030"
     excerpt: "A group of U.S. electricity companies wrote to President Joe Biden this week saying it will work with his administration and Congress to design a broad set of policies to reach a near-term goal of slashing the sector's carbon emissions by 2030."

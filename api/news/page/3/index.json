@@ -2,6 +2,215 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-23-biden-to-restore-californias-power-to-set-pollution-rules.md",
+      "title": "Biden to restore California's power to set pollution rules",
+      "excerpt": "The Transportation Department is moving to reverse former President Donald Trump’s bid to end California’s ability to set its own auto pollution standards",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-to-restore-californias-power-to-set-pollution-rules/2021/04/22/efc96db8-a3bc-11eb-b314-2e993bd83e31_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-to-restore-californias-power-to-set-pollution-rules/2021/04/22/efc96db8-a3bc-11eb-b314-2e993bd83e31_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4VCGVTFDXUI6XMYUF2MTXWB6GE.jpg&w=1440",
+          "width": 1440,
+          "height": 943,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-to-restore-californias-power-to-set-pollution-rules/2021/04/22/efc96db8-a3bc-11eb-b314-2e993bd83e31_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-restore-californias-power-to-set-pollution-rules/2021/04/22/efc96db8-a3bc-11eb-b314-2e993bd83e31_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-22T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-pence-hits-dems-over-border-crisis-touts-trumps-success-stemming-illegal-immigration.md",
+      "title": "Pence hits Dems over border crisis, touts Trump's success stemming illegal immigration",
+      "excerpt": "Former Vice President Mike Pence on Wednesday hit President Biden and Democrats for the escalating crisis at the southern border, while touting the Trump administration’s reduction of illegal immigration -- saying Biden inherited \"the most secure southern border in American history.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_Ko9a3YWaqg/pence-hits-dems-over-border-crisis-trumps-illegal-immigration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_Ko9a3YWaqg/pence-hits-dems-over-border-crisis-trumps-illegal-immigration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 372,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3187e410-9dfa-479b-8233-dd28b7f7ebfd/674047aa-8ec5-40b0-b2b4-9cfb44aac92f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-hits-dems-over-border-crisis-trumps-illegal-immigration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-hits-dems-over-border-crisis-trumps-illegal-immigration.amp",
+      "publishedDateTime": "2021-04-22T14:40:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-mike-pence-worst-border-policy-in-history.md",
+      "title": "Mike Pence: 'Worst border policy in history'",
+      "excerpt": "The situation is more than complex on the southern border these days. U.S. Customs and Border Protection offers this update:",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/apr/22/inside-the-beltway-mike-pence-worst-border-policy-/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/apr/22/inside-the-beltway-mike-pence-worst-border-policy-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2021/04/22/4_222021_beltway-border-agen8202_c0-161-3000-1911_s1200x700.jpg?ce8ba673cd04f4ec823de30e08101336c565f046",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2021/apr/22/inside-the-beltway-mike-pence-worst-border-policy-/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/apr/22/inside-the-beltway-mike-pence-worst-border-policy-/",
+      "publishedDateTime": "2021-04-22T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-house-republicans-demand-answers-from-vp-harris-on-politically-motivated-border-decision.md",
+      "title": "House Republicans demand answers from VP Harris on 'politically motivated' border decision",
+      "excerpt": "EXCLUSIVE: House Republicans are demanding answers from Vice President Kamala Harris on whether a facility for migrant children in Florida has not been activated because of the Democrat's personal politics. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2kGx09VpZ1M/house-republicans-demand-answers-from-vp-harris-on-politically-motivated-border-decisions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2kGx09VpZ1M/house-republicans-demand-answers-from-vp-harris-on-politically-motivated-border-decisions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/Cathy-McMorris-Rodgers.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T14:12:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats.md",
       "title": "'Outrageous': Bank regulator lobbies for Trump-era rule, angering Democrats",
       "excerpt": "Consumer watchdogs have warned that it could unleash predatory loans by enabling \"payday\" lenders to evade state interest rate caps.",
@@ -168,62 +377,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-22-hawley-braun-bill-would-force-biden-to-declassify-wuhan-coronavirus-leak-intelligence.md",
-      "title": "Hawley-Braun bill would force Biden to declassify Wuhan coronavirus leak intelligence",
-      "excerpt": "Sens. Josh Hawley, R-Mo., and Mike Braun, R-Ind., on Thursday introduced a bill that would force the Biden administration to declassify intelligence related to COVID-19 origins.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vYZdU8ZoXhk/hawley-braun-declassify-wuhan-coronavirus-intelligence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vYZdU8ZoXhk/hawley-braun-declassify-wuhan-coronavirus-intelligence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007209769820.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hawley-braun-declassify-wuhan-coronavirus-intelligence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-braun-declassify-wuhan-coronavirus-intelligence.amp",
-      "publishedDateTime": "2021-04-22T09:56:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-22-with-trumps-backing-walker-freezes-senate-gop-field-in-georgia.md",
       "title": "With Trump's backing, Walker freezes Senate GOP field in Georgia  ",
       "excerpt": "Former President Donald Trump's backing of football great Herschel Walker to run for the Georgia Senate seat has been enough to effectively freeze the GOP field in place -- even though some Republicans privately worry the political neophyte might fizzle against Sen. Raphael Warnock in a high-stakes general",
@@ -334,62 +487,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-biden-avoids-confronting-china-over-climate-in-earth-day-speech-with-world-leaders.md",
-      "title": "Biden avoids confronting China over climate in Earth Day speech with world leaders",
-      "excerpt": "President Biden urged world leaders to act quickly and together to confront the consequences of Earth's changing climate, but notably did not specifically address heavy polluters like China.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EPD_R2_bxg4/biden-avoids-confronting-china-over-climate-in-earth-day-speech-with-world-leaders",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EPD_R2_bxg4/biden-avoids-confronting-china-over-climate-in-earth-day-speech-with-world-leaders",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/AP21112464404501-CROP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-avoids-confronting-china-over-climate-in-earth-day-speech-with-world-leaders.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-avoids-confronting-china-over-climate-in-earth-day-speech-with-world-leaders.amp",
-      "publishedDateTime": "2021-04-22T09:16:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -1248,114 +1345,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-biden-briefed-on-tragic-police-killing-of-makhia-bryant-white-house-says.md",
-      "title": "Biden briefed on ‘tragic’ police killing of Ma’Khia Bryant, White House says",
-      "excerpt": "Ma’Khia, 16, shot dead by police in Columbus, Ohio on Tuesday, minutes before jury announced guilty verdict in Chauvin murder case",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/21/makhia-bryant-killing-columbus-ohio-biden-briefing-white-house",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/21/makhia-bryant-killing-columbus-ohio-biden-briefing-white-house",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/04aa95a47f93798a660fb0419df4d7e053acc3fb/0_33_2000_1200/master/2000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6dfefbcaf13ea87747971103d69119bd",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/21/makhia-bryant-killing-columbus-ohio-biden-briefing-white-house",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/21/makhia-bryant-killing-columbus-ohio-biden-briefing-white-house",
-      "publishedDateTime": "2021-04-21T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-biden-advisers-brother-lobbying-white-house-for-pharma-giants-docs-reveal.md",
-      "title": "Biden adviser's brother lobbying White House for pharma giants, docs reveal",
-      "excerpt": "Jeff Ricchetti began lobbying the White House at the beginning of this year’s first quarter, with disclosures showing that he was representing pharmaceutical giants Horizon Therapeutics, GlaxoSmithKline and Vaxart Inc., according to financial disclosure reports.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3gHaxINDUjQ/biden-white-house-richetti-brother-lobbying-pharma",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3gHaxINDUjQ/biden-white-house-richetti-brother-lobbying-pharma",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f1fa356-6f69-460c-b69d-f0b1c45219ee/81fdc322-52d7-45aa-9e79-21bad849c756/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-white-house-richetti-brother-lobbying-pharma.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-richetti-brother-lobbying-pharma.amp",
-      "publishedDateTime": "2021-04-21T11:47:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

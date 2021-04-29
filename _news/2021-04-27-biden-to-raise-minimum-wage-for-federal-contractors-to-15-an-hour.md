@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to push ambitious economic plan in first prime-time address to Congress"
+    excerpt: "President Joe Biden will deliver his first address to a joint session of Congress on Wednesday night, hoping to build on the trust he engendered by accelerating the nation's response to the Covid-19 pandemic to convince Americans that they should back his ambitious plans to tackle income inequality in"
+    publishedDateTime: 2021-04-28T21:56:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eoBRFBZovCw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/presidential-prime-time-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/presidential-prime-time-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427132505-01-centered-joe-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden set to announce $200 billion for universal pre-K in sweeping new proposal"
     excerpt: "President Joe Biden is set to announce $200 billion in education funding as part of his sweeping spending package he will unveil prior to his prime-time address to a joint session of Congress, according to a White House official.\n    \n"
     publishedDateTime: 2021-04-27T23:48:53Z

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-22-biden-briefed-on-tragic-police-killing-of-makhia-bryant-white-house-says.md",
+      "title": "Biden briefed on ‘tragic’ police killing of Ma’Khia Bryant, White House says",
+      "excerpt": "Ma’Khia, 16, shot dead by police in Columbus, Ohio on Tuesday, minutes before jury announced guilty verdict in Chauvin murder case",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/21/makhia-bryant-killing-columbus-ohio-biden-briefing-white-house",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/21/makhia-bryant-killing-columbus-ohio-biden-briefing-white-house",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/04aa95a47f93798a660fb0419df4d7e053acc3fb/0_33_2000_1200/master/2000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6dfefbcaf13ea87747971103d69119bd",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/21/makhia-bryant-killing-columbus-ohio-biden-briefing-white-house",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/21/makhia-bryant-killing-columbus-ohio-biden-briefing-white-house",
+      "publishedDateTime": "2021-04-21T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-andrew-giuliani-to-meet-with-trump-as-he-preps-ny-gubernatorial-bid.md",
       "title": "Andrew Giuliani to meet with Trump as he preps NY gubernatorial bid",
       "excerpt": "Andrew Giuliani, the son of former New York City Mayor Rudy Giuliani and a former public liaison official inside the Trump White House, will meet with the former President at Mar-a-Lago next week as he finalizes his plans to launch a campaign for New York governor.\n    \n",
@@ -66,7 +118,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1297,58 +1349,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-donald-trump-says-all-the-states-that-voted-for-him-had-no-election-fraud.md",
-      "title": "Donald Trump Says All the States That Voted for Him Had No Election Fraud",
-      "excerpt": "\"Florida, Ohio, all of the states that we won, were properly run,\" Trump said, speaking of states he thought had adequate voter fraud safeguards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865",
-      "originalUrl": "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 719,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1561291/breaking-news-newsweek-high-resolution.jpg",
-          "width": 1366,
-          "height": 911,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1",
-      "publishedDateTime": "2021-04-19T18:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

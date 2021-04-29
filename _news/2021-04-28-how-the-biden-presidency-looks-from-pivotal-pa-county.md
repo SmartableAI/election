@@ -250,6 +250,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "First lady hosts virtual guests, including transgender teen, for Biden address to congress"
+    excerpt: "First Lady Dr. Jill Biden held a virtual reception Wednesday for guests invited to watch President Biden’s first address to Congress – an unusual event held in light of strict coronavirus restrictions."
+    publishedDateTime: 2021-04-28T22:11:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r2dBBPZjZpA/first-lady-holds-virtual-reception-for-guests-of-bidens-first-address-to-congress"
+    ampWebUrl: "https://www.foxnews.com/politics/first-lady-holds-virtual-reception-for-guests-of-bidens-first-address-to-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-holds-virtual-reception-for-guests-of-bidens-first-address-to-congress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a226ca2a-aa49-448e-8a4a-154e4ac2d9fe/db3b37b1-cbc8-4f97-a4e0-bf4f78bde60f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden Pentagon nominee faces scrutiny over resurfaced tweet as nomination heads to final vote"
     excerpt: "An old tweet from President Biden’s nominee to be the number three at the Pentagon has resurfaced as the nomination process heads to the Senate floor."
     publishedDateTime: 2021-04-22T22:37:26Z
@@ -265,6 +281,20 @@ related:
       - url: "https://amp.spot.im/loader.png"
         width: 375
         height: 815
+        isCached: true
+  - title: "Lawmakers urge Biden to push Iranian regime on rights abuses, amid bipartisan support for resolution"
+    excerpt: "Two lawmakers have written to President Biden urging him to place human rights, and holding human rights abusers accountable, at the center of his Iran policy -- just as a resolution backing a secular and democratic Iran has picked up majority support in the House."
+    publishedDateTime: 2021-04-28T22:09:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IsLocHx4GFM/lawmakers-biden-iranian-regime-rights-abuses-resolution"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99754ab5-555f-4417-922f-b01b86858d02/1a03bcf5-509f-4b01-aa92-5bcde8886425/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Hours before Biden's speech, Christie accuses president of lying to hide 'socialist agenda'"
     excerpt: "Chris Christie is once again accusing President Biden of lying, this time charging that the president is \"not telling the truth\" about the tax increases inside the sweeping spending proposal he’ll unveil on Wednesday night."

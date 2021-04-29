@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-29-the-latest-biden-to-say-us-turning-peril-into-possibility.md",
+      "title": "The Latest: Biden to say US 'turning peril into possibility'",
+      "excerpt": "In his first address to Congress, President Joe Biden will declare that the nation is “turning peril into possibility, crisis into opportunity.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6TMKQ4VIFQI6XKFHL5C53TPTMQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-28T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-president-biden-nominates-texas-sheriff-ed-gonzalez-to-head-ice.md",
       "title": "President Biden nominates Texas Sheriff Ed Gonzalez to head ICE",
       "excerpt": "President Joe Biden has announced Sheriff Ed Gonzalez of Harris County, Texas, as his nominee for director of Immigration and Customs Enforcement. He was included on a list of 11 nominations for key national security positions.",
@@ -688,7 +740,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1515,49 +1567,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-russell-wilson-co-hosting-nbc-vaccination-special-featuring-joe-biden.md",
-      "title": "Russell Wilson co-hosting NBC vaccination special featuring Joe Biden",
-      "excerpt": "Seattle Seahawks quarterback Russell Wilson and his wife, Ciara, will host a vaccination special on NBC with President Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/apr/13/russell-wilson-co-hosting-nbc-vaccination-special-/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/apr/13/russell-wilson-co-hosting-nbc-vaccination-special-/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2020/12/10/man_of_the_year_award_football_49511_c0-125-3000-1875_s1200x700.jpg?5df86175492ddcdc04d9d2b6261257b2d49617ee",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/apr/13/russell-wilson-co-hosting-nbc-vaccination-special-/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/13/russell-wilson-co-hosting-nbc-vaccination-special-/",
-      "publishedDateTime": "2021-04-13T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

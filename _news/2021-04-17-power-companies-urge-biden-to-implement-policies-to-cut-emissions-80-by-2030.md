@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Live Updates: President Biden addresses a joint session of Congress"
+    excerpt: "President Biden will give his first address before a joint session of Congress on Wednesday, shortly before he will conclude his first 100 days in office. Mr. Biden is expected to outline his American Families Plan,"
+    publishedDateTime: 2021-04-28T23:05:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/biden-speech-congress-joint-session/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/biden-speech-congress-joint-session/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/biden-speech-congress-joint-session/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/28/3753a8ea-1a92-4a42-b872-94de9daa6dde/thumbnail/1200x630/5ee41c6fe91cd14e0a60fe24dca73e0b/gettyimages-1314888185.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Biden urges businesses to use paid leave to help workers get COVID-19 vaccines"
     excerpt: "President Joe Biden urged businesses to help workers get vaccinated while announcing he met early the goal of 200 million shots in 100 days."
     publishedDateTime: 2021-04-21T20:26:00Z

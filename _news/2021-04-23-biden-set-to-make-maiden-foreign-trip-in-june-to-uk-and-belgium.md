@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-fo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-foreign-trip/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/171206163232-jon-tester-montana-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to push ambitious economic plan in first prime-time address to Congress"
+    excerpt: "President Joe Biden will deliver his first address to a joint session of Congress on Wednesday night, hoping to build on the trust he engendered by accelerating the nation's response to the Covid-19 pandemic to convince Americans that they should back his ambitious plans to tackle income inequality in"
+    publishedDateTime: 2021-04-28T21:56:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eoBRFBZovCw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/presidential-prime-time-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/presidential-prime-time-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427132505-01-centered-joe-biden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
