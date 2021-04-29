@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-29-trump-says-florida-gov-desantis-would-be-considered-as-2024-running-mate.md",
+      "title": "Trump says Florida Gov. DeSantis ‘would be considered’ as 2024 running mate",
+      "excerpt": "Donald Trump revealed on Thursday that he is “100%” thinking about running for president again in 2024 and would “certainly” consider Florida Gov. Ron DeSantis as his running mate.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4KJc99QN03o/trump-desantis-2024-running-mate-considered",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4KJc99QN03o/trump-desantis-2024-running-mate-considered",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-desantis-2024-running-mate-considered.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-desantis-2024-running-mate-considered.amp",
+      "publishedDateTime": "2021-04-29T08:31:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-cheney-says-shell-campaign-on-impeaching-trump-every-day-of-the-week-amid-primary-challenges.md",
+      "title": "Cheney says she'll campaign on impeaching Trump 'every day of the week' amid primary challenges",
+      "excerpt": "Rep. Liz Cheney said in an interview with Punchbowl News Thursday that she will stand behind her vote to impeach former President Donald Trump \"every day of the week\" as she faces multiple primary challengers in her 2022 reelection effort. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oU9HcI6QFdc/cheney-campaign-impeaching-trump-primary-challenges",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oU9HcI6QFdc/cheney-campaign-impeaching-trump-primary-challenges",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cheney-campaign-impeaching-trump-primary-challenges.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-campaign-impeaching-trump-primary-challenges.amp",
+      "publishedDateTime": "2021-04-29T08:05:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-bidens-100-days-in-office-is-america-back-open-covid-outbreak-check-status-of-schools-mask-guidelines.md",
       "title": "Biden's 100 days in office: Is America back open? COVID outbreak check, status of schools, mask guidelines",
       "excerpt": "President Biden is now 100 days into his term in office, a marker that leaders often point to when promising to hit the ground running and get things done for the American people. Here is what he has accomplished -- and what remains the same -- when it comes to the coronavirus pandemic.",
@@ -115,6 +227,63 @@
       ]
     },
     {
+      "path": "_news/2021-04-29-manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe.md",
+      "title": "Manhattan District Attorney Candidates Walk Tightrope on Trump Probe",
+      "excerpt": "For Manhattan district attorney candidates talking about their experience in white-collar crime cases has become a sort of proxy for indirectly addressing the Trump investigation, which is both the office’s biggest case and off limits for debate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972",
+      "originalUrl": "https://www.wsj.com/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-330783/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972",
+      "publishedDateTime": "2021-04-29T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-kamala-harris-to-visit-milwaukee-on-tuesday-reports.md",
       "title": "Kamala Harris to visit Milwaukee on Tuesday: reports",
       "excerpt": "The vice president on Tuesday will travel to Milwaukee, according to reports.",
@@ -184,7 +353,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 778,
+      "heat": 818,
       "tags": null,
       "images": [
         {
@@ -241,7 +410,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -281,54 +450,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-trump-claims-he-would-be-on-mount-rushmore-if-he-were-a-democrat.md",
-      "title": "Trump claims he would be on Mount Rushmore if he were a Democrat",
-      "excerpt": "Former President Donald Trump on Wednesday claimed that his face would be added to Mount Rushmore if he were a Democrat. Trump’s allies have long flattered him with the idea that his",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/28/trump-claims-hed-be-on-mount-rushmore-if-he-were-a-democrat/",
-      "originalUrl": "https://nypost.com/2021/04/28/trump-claims-hed-be-on-mount-rushmore-if-he-were-a-democrat/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-rushmore-dem-01.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/28/trump-claims-hed-be-on-mount-rushmore-if-he-were-a-democrat/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/28/trump-claims-hed-be-on-mount-rushmore-if-he-were-a-democrat/amp/",
-      "publishedDateTime": "2021-04-28T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -401,7 +522,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 170,
+      "heat": 210,
       "tags": null,
       "images": [
         {
@@ -1052,7 +1173,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1513,110 +1634,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/klacik-to-lebron-james-cant-support-biden-1994-crime-bill-author-and-complain-about-police-brutality.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/klacik-to-lebron-james-cant-support-biden-1994-crime-bill-author-and-complain-about-police-brutality.amp",
       "publishedDateTime": "2021-04-22T00:46:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-white-house-rebrands-kamala-harris-husband-douglas-instead-of-doug.md",
-      "title": "White House rebrands Kamala Harris’ husband ‘Douglas’ instead of ‘Doug’",
-      "excerpt": "The White House changed the name of Kamala Harris’ husband from “Doug” to “Douglas” Emhoff in an apparent attempt to rebrand him as a more serious guy.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/21/kamala-harris-husband-rebranded-as-douglas-instead-of-doug/",
-      "originalUrl": "https://nypost.com/2021/04/21/kamala-harris-husband-rebranded-as-douglas-instead-of-doug/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/doug-emhoff.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/21/kamala-harris-husband-rebranded-as-douglas-instead-of-doug/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/21/kamala-harris-husband-rebranded-as-douglas-instead-of-doug/amp/",
-      "publishedDateTime": "2021-04-21T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-biden-admin-blocking-veterans-annual-memorial-day-motorcycle-rally-rep-mast-says.md",
-      "title": "Biden admin blocking veterans' annual Memorial Day motorcycle rally, Rep. Mast says",
-      "excerpt": "Rep. Brian Mast, R-Fla., accused the Biden administration of blocking the annual Rolling to Remember motorcycle rally, a 30-year-plus Memorial Day tradition for veterans that has always been staged in the Pentagon parking lot.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SvqNm33t6O8/brian-mast-rolling-to-remember-memorial-day-lloyd-austin",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SvqNm33t6O8/brian-mast-rolling-to-remember-memorial-day-lloyd-austin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21013669867536-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/brian-mast-rolling-to-remember-memorial-day-lloyd-austin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brian-mast-rolling-to-remember-memorial-day-lloyd-austin.amp",
-      "publishedDateTime": "2021-04-21T16:26:06-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

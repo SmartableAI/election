@@ -45,6 +45,22 @@ related:
         width: 1024
         height: 707
         isCached: true
+  - title: "Obama Official Steve Rattner Says Biden Could Set Progressivism Back Decades if Massive Government Expansion Fails"
+    excerpt: "Rattner's comments come on the morning after President Joe Biden delivered his first address to a joint session of Congress."
+    publishedDateTime: 2021-04-29T15:16:00Z
+    webUrl: "https://www.newsweek.com/obama-official-steve-rattner-says-biden-could-set-progressivism-back-decades-if-massive-government-1587474"
+    ampWebUrl: "https://www.newsweek.com/obama-official-steve-rattner-says-biden-could-set-progressivism-back-decades-if-massive-government-1587474?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/obama-official-steve-rattner-says-biden-could-set-progressivism-back-decades-if-massive-government-1587474?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 103
+    images:
+      - url: "https://d.newsweek.com/en/full/1785004/biden.jpg"
+        width: 2984
+        height: 1764
+        isCached: true
   - title: "President Joe Biden’s first 100 days: 53% approve of job performance, two-thirds approve of COVID efforts, new poll says"
     excerpt: "A majority of Americans approve of President Joe Biden ’s first 100 days on the job, with two-thirds supporting his handling of the COVID-19 pandemic, according to a new CNN poll. The poll results come as Biden prepares to deliver an address to Congress on Wednesday night,"
     publishedDateTime: 2021-04-28T12:57:00Z

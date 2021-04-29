@@ -95,6 +95,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden's immigration policies hurt environment? Arizona green groups react to state AG's lawsuit"
+    excerpt: "Arizona Attorney General Mark Brnovich is suing the Biden administration for failing to examine the environmental effects of its immigration policies."
+    publishedDateTime: 2021-04-29T15:46:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YHsDYT4QPRs/biden-immigration-environment-arizona-nepa-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-environment-arizona-nepa-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-environment-arizona-nepa-lawsuit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ada9c350-7eb8-4879-8743-c26265764a68/7f71219a-1627-48b2-98d2-7f7f7531e024/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "0tolufWXCsCfTql71XgpvSTkqQuyAh33Aiv/iNIFW9pRSfePopSG1G4bX4IHPHLu8fcIEkZRyg+ltGQn7T8vthkIxPcyep5XlTQ4tK2MbIGW2vdZEubHyZgUCEs4EC3lNcBeB4evtjW2pghgpDrZvfkLUsvPsCUJp8lE9X2jaq7VLuY1bBXKvY9+Q65GT7Y8XDCJaTNPIldJ5VwycmIQd6dQCMXEwuO5fd2NGAOdOgjuNoolOG9rZICE5s4FnANqz202V0WDr0OwPPeF6n5j+I9rb2WudVEdRAqNCU/kKLBxJNRZwePMMPui2lkboarJaAb33YVj3y75GeUm5NnRQDqOSt1nD4WYdRxK/6iTZmU=;Emega8MGoCXPpWfCdiy7bw=="
 ---

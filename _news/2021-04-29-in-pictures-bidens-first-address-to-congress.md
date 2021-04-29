@@ -189,6 +189,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden reversed Trump on the Keystone XL pipeline. Native American groups want more."
+    excerpt: "Native American and Indigenous peoples groups said they know they have an ally in Biden. But they are all too familiar with the transient nature of executive action."
+    publishedDateTime: 2021-04-29T15:05:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-reversed-trump-keystone-xl-pipeline-native-american-groups-want-n1265025"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265025"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265025"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 144
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_17/3468441/210427-lance-fourstar-pipeline-mn-2355_93a536819881e413b0e4a349da88fc4a.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden administration lifts Trump-era restrictions stalling Puerto Rico hurricane aid"
     excerpt: "The Department of Housing and Urban Development also made $8.2 billion available to Puerto Rico, three years after Congress initially approved the aid."
     publishedDateTime: 2021-04-21T14:50:00Z

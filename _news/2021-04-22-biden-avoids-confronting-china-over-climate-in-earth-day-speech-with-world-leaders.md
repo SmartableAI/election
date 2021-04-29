@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "In speech, Biden pitches 'high-tech' border security after halting wall construction"
+    excerpt: "President Biden addressed one of his administration's biggest weaknesses during his speech before a joint session of Congress Wednesday night, looking to draw Republican critics over to his side on the issue of border security."
+    publishedDateTime: 2021-04-29T14:13:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cLIlwGJAHN0/biden-speech-high-tech-border-security-wall-construction"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-speech-high-tech-border-security-wall-construction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-high-tech-border-security-wall-construction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Twitter explodes over Hunter Biden's teaching gig at Tulane: 'He should be in jail, not teaching the future'"
     excerpt: "Twitter was set ablaze Tuesday night after Tulane University confirmed that Hunter Biden will join the lineup of guest speakers for a 10-week course on \"Media Polarization\" and \"cancel culture\" this summer."
     publishedDateTime: 2021-04-29T03:42:00Z

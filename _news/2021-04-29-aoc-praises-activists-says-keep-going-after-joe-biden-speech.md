@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414?amp=1"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/29/USAT/0bbcefca-2b66-4bb1-b574-9a1034977d49-VPC_BIDEN_ON_WHITE_SUPREMACY_DESK.00_01_06_07.Still003.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Obama Official Steve Rattner Says Biden Could Set Progressivism Back Decades if Massive Government Expansion Fails"
+    excerpt: "Rattner's comments come on the morning after President Joe Biden delivered his first address to a joint session of Congress."
+    publishedDateTime: 2021-04-29T15:16:00Z
+    webUrl: "https://www.newsweek.com/obama-official-steve-rattner-says-biden-could-set-progressivism-back-decades-if-massive-government-1587474"
+    ampWebUrl: "https://www.newsweek.com/obama-official-steve-rattner-says-biden-could-set-progressivism-back-decades-if-massive-government-1587474?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/obama-official-steve-rattner-says-biden-could-set-progressivism-back-decades-if-massive-government-1587474?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 103
+    images:
+      - url: "https://d.newsweek.com/en/full/1785004/biden.jpg"
+        width: 2984
+        height: 1764
         isCached: true
   - title: "President Joe Biden’s first 100 days: 53% approve of job performance, two-thirds approve of COVID efforts, new poll says"
     excerpt: "A majority of Americans approve of President Joe Biden ’s first 100 days on the job, with two-thirds supporting his handling of the COVID-19 pandemic, according to a new CNN poll. The poll results come as Biden prepares to deliver an address to Congress on Wednesday night,"

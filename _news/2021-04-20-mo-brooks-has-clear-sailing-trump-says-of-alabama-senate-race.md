@@ -59,6 +59,22 @@ related:
         width: 1176
         height: 784
         isCached: true
+  - title: "US Senate votes to reinstate methane rules loosened by Trump"
+    excerpt: "Congressional Democrats are moving to reinstate regulations designed to limit potent greenhouse gas emissions from oil and gas fields"
+    publishedDateTime: 2021-04-29T12:38:00Z
+    webUrl: "https://www.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
+    ampWebUrl: "https://amp.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/9028a5acafbbc71e738c040c43f59f5bac5873c9/0_274_8192_4915/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e8905907090ebd6c75b239f4e275576"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Former WWE wrestler, Trump administration officials and congressman's widow are among 23 candidates in Texas House race"
     excerpt: "The crowded May race, with 23 candidates, could give Republicans an early look at Trump's staying power in the GOP."
     publishedDateTime: 2021-04-20T16:43:00Z

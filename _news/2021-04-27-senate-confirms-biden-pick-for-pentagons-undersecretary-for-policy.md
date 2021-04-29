@@ -287,6 +287,36 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden announces 2nd slate of diverse judicial nominees"
+    excerpt: "President Joe Biden announced Thursday that he is nominating additional diverse candidates for federal court vacancies. The nominees include David Estudillo, now presiding judge of Grant County Superior Court in Ephrata,"
+    publishedDateTime: 2021-04-29T12:03:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-announces-2nd-slate-diverse-judicial-nominees-n1265822"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265822"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265822"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_17/3468881/210429-joe-biden-al-0724_bc66cfa1a626da9e6085bdf9335c518f.jpg"
+        width: 2500
+        height: 1350
+        isCached: true
+  - title: "Biden appeals for unity to confront China"
+    excerpt: "The president appeals for unity to confront China and warns the threat of Islamic terrorism in Russia is still very real. — The search for a Navy secretary is focusing on a politically connected former Navy officer."
+    publishedDateTime: 2021-04-29T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/04/29/biden-appeals-for-unity-to-confront-china-794972"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "NwL3IVKcTRwsfEPgEnr/awl6hTkGDQwQEbVk7rkEI8uqpUjOctclXX/vxo8kC2kzaXsgTlKBjkrzk+KgCflGzbid2DUCv24lmJmq84ZVo/P2xMiFVDGkCQoCXA2iV4OKxBClvmO/DUYq5xap5wUTDYoIMn2heOE13OIYzqJN+zyjhd8xiM8qH0lXiuqFGi5C02UGaFsZ3ZPqB3mA9yv+kgrB9N6+n/LU9sqX1syCgNfjkVaccjbysMsUT9HDtN9GaD/G8EJj2W/dHDDShG/ltPfQgqlojCo6CJCGhlqAxJmMeZg2gcARIr2pzhDbbPw72o5TXby0FXv90s25DC5+8cjpzBWv7mF+YSjxPTrZIq4=;iVWH4rqQlB74plvo9cEGiw=="
 ---

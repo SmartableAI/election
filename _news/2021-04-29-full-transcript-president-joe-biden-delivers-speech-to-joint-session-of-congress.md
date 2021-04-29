@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "President Joe Biden address to Congress: ‘let’s raise the minimum wage to $15’"
+    excerpt: "President Joe Biden, in his first address to a joint session of Congress on Wednesday night, called on lawmakers to double the federal minimum wage — a longtime Democratic initiative that’s effectively gone nowhere for more than a decade."
+    publishedDateTime: 2021-04-29T15:06:00Z
+    webUrl: "https://www.masslive.com/politics/2021/04/president-joe-biden-address-to-congress-lets-raise-the-minimum-wage-to-15.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/04/president-joe-biden-address-to-congress-lets-raise-the-minimum-wage-to-15.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/04/president-joe-biden-address-to-congress-lets-raise-the-minimum-wage-to-15.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 71
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EIIDIENPGJAFHNKVF4QUTF3BEU.jpg"
+        width: 3852
+        height: 2568
+        isCached: true
   - title: "Police reform, banning assault weapons, looking beyond COVID-19: Takeaways from Joe Biden's address to Congress"
     excerpt: "America is on the move again. Turning peril into possibility. Crisis into opportunity ,\" Biden said to Congress."
     publishedDateTime: 2021-04-29T03:25:00Z

@@ -46,22 +46,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Budd launches North Carolina Senate bid by aligning himself with Trump in growing primary field"
-    excerpt: "Rep. Ted Budd launched his North Carolina Senate campaign on Wednesday, aligning himself with former President Donald Trump in a 2022 bid for the crucial seat.\n    \n"
-    publishedDateTime: 2021-04-28T13:35:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OhZE6tUSfv8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/budd-north-carolina-senate-bid-republican-primary/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/budd-north-carolina-senate-bid-republican-primary/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428092747-rep-ted-budd-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Fulton County DA has grown frustrated with Georgia Secretary of State's office cooperation in Trump probe, source says"
     excerpt: "Investigators in Fulton County District Attorney Fani Willis' office have grown frustrated with the level of cooperation they are receiving from staffers in the Georgia Secretary of State's office regarding a probe into former President Donald Trump's efforts to influence the 2020 election, according"
     publishedDateTime: 2021-04-23T21:35:57Z

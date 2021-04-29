@@ -57,6 +57,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Obama Official Steve Rattner Says Biden Could Set Progressivism Back Decades if Massive Government Expansion Fails"
+    excerpt: "Rattner's comments come on the morning after President Joe Biden delivered his first address to a joint session of Congress."
+    publishedDateTime: 2021-04-29T15:16:00Z
+    webUrl: "https://www.newsweek.com/obama-official-steve-rattner-says-biden-could-set-progressivism-back-decades-if-massive-government-1587474"
+    ampWebUrl: "https://www.newsweek.com/obama-official-steve-rattner-says-biden-could-set-progressivism-back-decades-if-massive-government-1587474?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/obama-official-steve-rattner-says-biden-could-set-progressivism-back-decades-if-massive-government-1587474?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 103
+    images:
+      - url: "https://d.newsweek.com/en/full/1785004/biden.jpg"
+        width: 2984
+        height: 1764
+        isCached: true
 
 secured: "Go62wjZaEF6d01+4VJUDRZFtTenk325KevYVbUo02N5BjGyreS2Zc1uIaq/45Q5+THwPxhKn3cI0i8oakJKcJjylsKiC0VOOyGPG7oj1TlpCkaqk1LpJQHD2EHYztpQz6WzGyQAza09N4gUYVEeib6JHfE66Czeww8uK9Lsgt4hE6ofG0BWD3vvyhStM0PNxzDFsUXKOKvSsZfFKsvLr25PsFZpdbRqHfbGAXXKc3tLGAAOOIXQjANUh0M9jwBuziVqbNFvRO0po3WN6+SXaEqfXigEWwxEJcHI7vxZnS1gTsrN3e7N0c0p/Nk/0k2pf1WKYSlMGXzbCBl7qov3jAPA7gQ+yE89w4ZNpNH6buyU=;cnJadx/JR3ZUJU9QgcvdCQ=="
 ---

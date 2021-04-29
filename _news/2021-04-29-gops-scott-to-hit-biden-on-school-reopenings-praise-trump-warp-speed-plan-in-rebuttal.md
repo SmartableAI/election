@@ -60,6 +60,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris reacts to Tim Scott speech, remarks on racism in America"
+    excerpt: "Vice President Kamala Harris on Thursday reacted to Republican South Carolina Sen. Tim Scott's response to President Biden's Wednesday address before Congress."
+    publishedDateTime: 2021-04-29T15:05:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cPA4uX2r_Pk/kamala-harris-reacts-tim-scott-speech-racism"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-reacts-tim-scott-speech-racism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-reacts-tim-scott-speech-racism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55f5b4c3-ee66-4a16-9c29-bb4bd704d088/4b38eb2d-0333-453e-a6c5-7415cceaf2a4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris isn't at the southern border -- but migrant kids are getting Veep's book"
     excerpt: "Vice President Kamala Harris hasn’t been to the border to address a crisis she was tasked to help fix — but a children’s book she wrote is waiting there for young migrants who are being welcomed into the country."
     publishedDateTime: 2021-04-24T13:02:15Z
@@ -393,6 +409,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/NancyMaceFNC.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump slams Biden on joint address to Congress, ‘out of control’ border crisis"
+    excerpt: "Donald Trump did not hold back Thursday morning, slamming President Biden’s first joint address to Congress and the state of the nation under his leadership. Sp"
+    publishedDateTime: 2021-04-29T15:18:00Z
+    webUrl: "https://nypost.com/2021/04/29/trump-slams-biden-on-joint-address-out-of-control-border-crisis/"
+    ampWebUrl: "https://nypost.com/2021/04/29/trump-slams-biden-on-joint-address-out-of-control-border-crisis/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/29/trump-slams-biden-on-joint-address-out-of-control-border-crisis/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-biden-split-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Lawmakers urge Biden to push Iranian regime on rights abuses, amid bipartisan support for resolution"
     excerpt: "Two lawmakers have written to President Biden urging him to place human rights, and holding human rights abusers accountable, at the center of his Iran policy -- just as a resolution backing a secular and democratic Iran has picked up majority support in the House."

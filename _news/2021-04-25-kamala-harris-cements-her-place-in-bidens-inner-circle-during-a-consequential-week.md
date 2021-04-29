@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/25/politics/kamala-harris-cnntv/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/25/politics/kamala-harris-cnntv/index.html"
 type: article
 quality: 194
-heat: 874
+heat: 894
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 189
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421183251-harris-kahl-split-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Presidents Club makes a return with Biden restoring consultations Trump dismissed"
+    excerpt: "When President Joe Biden drops by Jimmy Carter's two-bedroom ranch house in Plains, Georgia, on Thursday -- a pilgrimage to visit a man he vocally supported as a young senator decades ago -- it will be at least the fourth time he's spoken with one of his presidential or vice-presidential predecessors"
+    publishedDateTime: 2021-04-29T14:00:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xiHv3-m49e0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/presidents-club-returns/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/presidents-club-returns/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428212354-23-biden-address-0428-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

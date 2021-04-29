@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Power Up: Everything you need to know about Biden's speech to Congress"
+    excerpt: "Reach out and sign up for the Power Up newsletter. Thanks for waking up with us. THE OTHER 100 DAYS: It’s not just a big and arbitrary benchmark for the president. Thursday also marks the 100th day in office for the youngest Democrat to serve in the U."
+    publishedDateTime: 2021-04-29T15:25:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/29/power-up-everything-you-need-know-about-biden-speech-congress/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/29/power-up-everything-you-need-know-about-biden-speech-congress/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/29/power-up-everything-you-need-know-about-biden-speech-congress/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/43FL5PC2QEI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The Latest: Security tight, crowd thin for Biden's address"
     excerpt: "In his first address to Congress, President Joe Biden will declare that the nation is “turning peril into possibility, crisis into opportunity.”"
     publishedDateTime: 2021-04-28T20:23:00Z
@@ -150,6 +166,20 @@ related:
     quality: 103
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/55e681a2-5ed4-4e36-929e-041b3ef76723/thumbnail/1200x630/746d54b360bfeca1597d0a2eb6d30c62/cbsn-fusion-house-speaker-nancy-pelosi-on-president-bidens-address-to-congress-nation-thumbnail-703929-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "CBS News poll: Viewers approve of President Biden's speech amid spending, police reform proposals"
+    excerpt: "A new CBS News poll found the majority of people who watched President Joe Biden's first address to a joint session of Congress approved of the address. The speech comes as the president is proposing two large spending plans and urging police reform."
+    publishedDateTime: 2021-04-29T14:09:00Z
+    webUrl: "https://www.cbsnews.com/video/cbs-news-poll-majority-of-viewers-approve-of-pres-bidens-speech/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 92
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/bb31cd84-aa4c-41fb-9c4e-bc8460028321/thumbnail/1200x630/3e09e679992e1d12eaea21282188663c/cbsn-fusion-cbs-news-poll-majority-of-viewers-approve-of-pres-bidens-speech-thumbnail-704012-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

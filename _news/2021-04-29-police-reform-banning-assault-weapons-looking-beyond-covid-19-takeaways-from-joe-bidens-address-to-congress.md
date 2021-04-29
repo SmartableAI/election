@@ -59,6 +59,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "President Joe Biden address to Congress: ‘let’s raise the minimum wage to $15’"
+    excerpt: "President Joe Biden, in his first address to a joint session of Congress on Wednesday night, called on lawmakers to double the federal minimum wage — a longtime Democratic initiative that’s effectively gone nowhere for more than a decade."
+    publishedDateTime: 2021-04-29T15:06:00Z
+    webUrl: "https://www.masslive.com/politics/2021/04/president-joe-biden-address-to-congress-lets-raise-the-minimum-wage-to-15.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/04/president-joe-biden-address-to-congress-lets-raise-the-minimum-wage-to-15.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/04/president-joe-biden-address-to-congress-lets-raise-the-minimum-wage-to-15.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 71
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EIIDIENPGJAFHNKVF4QUTF3BEU.jpg"
+        width: 3852
+        height: 2568
+        isCached: true
 
 secured: "+ioIccW+2UkehfOhZD1bWCaymtYA36o5RgAG2e2851mdBVkZTJKSutM7Wr6MAxcyO0Cl734ZW2BLemy81d8HYsm8UxwPCBoMc97PmiGpZ5Tlj4EhKcxHjErhdB9H2k5CxLBX1KtoMM8nAZ9fzxba1c/85M9zjWNHlgHW+ROMXfexa6egpSEqI90deuSqhNVHht02X2HMEZuASsy051/jRjcKE8FJSnNxSQhJNpKS9tQGRR7n6k9GCpxSTPWkyaeGmEoL9s14oCXjq4taxCGO6frgTXVmyfhPGDmnWYaHSYTFk1BXf6+CX0SgTfIgo+dyJRsHgYVOjrezVVYOVFIEaA83+P1hgf1Xhlir0+Dl9oM=;vaVoZeXQCSS+TcL4iMBs1A=="
 ---

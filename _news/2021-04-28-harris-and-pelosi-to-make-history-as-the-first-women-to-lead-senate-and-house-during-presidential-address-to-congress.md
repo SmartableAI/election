@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Presidents Club makes a return with Biden restoring consultations Trump dismissed"
+    excerpt: "When President Joe Biden drops by Jimmy Carter's two-bedroom ranch house in Plains, Georgia, on Thursday -- a pilgrimage to visit a man he vocally supported as a young senator decades ago -- it will be at least the fourth time he's spoken with one of his presidential or vice-presidential predecessors"
+    publishedDateTime: 2021-04-29T14:00:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xiHv3-m49e0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/presidents-club-returns/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/presidents-club-returns/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428212354-23-biden-address-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris pitches American Jobs Plan during first extended economic speech since becoming VP"
     excerpt: "Kamala Harris on Monday delivered her first extended economic speech since becoming vice president, making a pitch for the Biden administration's infrastructure plan and touting the White House's accomplishments since President Joe Biden was sworn in.\n    \n"
     publishedDateTime: 2021-04-19T18:03:20Z
