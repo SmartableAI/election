@@ -206,6 +206,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden to transgender Americans: 'Your president has your back'"
+    excerpt: "During his joint address to Congress, President Joe Biden called for the passage of the Equality Act to LGBTQ Americans and spoke directly to transgender Americans."
+    publishedDateTime: 2021-04-29T05:05:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-to-transgender-americans-your-president-has-your-back-111031877945"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111031877945"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111031877945"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202104/BidenTrans.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Ex-Trump aide Stephen Miller's legal group sues Biden administration, alleging racism against white farmers"
     excerpt: "The staunch anti-immigration advocate cited MLK while charging a program to help socially disadvantaged farmers and ranchers discriminates against whites"
     publishedDateTime: 2021-04-28T20:38:00Z

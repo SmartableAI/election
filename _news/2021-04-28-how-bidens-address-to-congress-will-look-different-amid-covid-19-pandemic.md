@@ -255,6 +255,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "LIVE UPDATES: Biden proposes ambitious policy agenda as he marks his first 100 days in office"
+    excerpt: "President Biden, in his first address to a joint session of Congress Wednesday night, laid out his vision for America, through a slew of policy proposals and a legislative wish list, while vowing to work with both Republicans and Democrats to deliver on his agenda. "
+    publishedDateTime: 2021-04-29T05:20:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wM63ucjEs7w/live-updates-biden-100-days-4-29-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-100-days-4-29-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-100-days-4-29-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b41173cd-4a19-4c11-b83b-0698bdc98d0b/eb5f09e3-d370-41c3-b756-0a6c9a328c15/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Sen. Rand Paul: If Biden wants more Americans vaccinated, he should 'burn his mask' on national TV"
     excerpt: "If President Biden wants to motivate more Americans to get vaccinated against the coronavirus, he should \"go on national TV, take his mask off and burn it,\" Sen. Rand Paul, R-Ky., told \"The Story\" Wednesday."
     publishedDateTime: 2021-04-21T22:08:23Z
@@ -348,6 +364,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99754ab5-555f-4417-922f-b01b86858d02/1a03bcf5-509f-4b01-aa92-5bcde8886425/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Laura Ingraham: Biden announces attack on American wealth"
+    excerpt: "Laura Ingraham slammed Biden's first address to a joint session of Congress and policy proposals Wednesday, saying it is \"insanity to ask hard-working Americans...to give more to a bunch of bureaucrats in Washington."
+    publishedDateTime: 2021-04-29T04:59:00Z
+    webUrl: "https://www.foxnews.com/media/laura-ingraham-biden-announces-attack-on-american-wealth"
+    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-biden-announces-attack-on-american-wealth.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-biden-announces-attack-on-american-wealth.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d60341dd-d164-4bd7-a111-8ed5a95f492d/bd1e5336-552f-44f1-abd2-c3906aeb2921/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden's Turning Point on Police Reform"
     excerpt: "Minnesota Attorney General Keith Ellison called the guilty-verdict sweep against Derek Chauvin, the police officer who killed George Floyd, an"

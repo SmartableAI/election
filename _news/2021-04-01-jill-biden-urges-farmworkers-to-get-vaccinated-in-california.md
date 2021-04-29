@@ -109,6 +109,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden calls for police reform by 'next month'"
+    excerpt: "Top News Biden calls for police reform by 'next month' Posted . In his first speech to Congress on Wednesday, U.S. President Joe Biden called on Congress to a pass police reform b"
+    publishedDateTime: 2021-04-29T04:13:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEAFZT27"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210429&i=OVEAFZT27&r=OVEAFZT27&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "President Joe Biden to recognize atrocities against Armenians as genocide"
     excerpt: "A presidential proclamation to mark Armenian Genocide Remembrance Day is expected to use the term genocide to describe the killings and deportations of hundreds of thousands of Armenians."
     publishedDateTime: 2021-04-24T12:18:00Z

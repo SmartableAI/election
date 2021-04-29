@@ -59,6 +59,22 @@ related:
         width: 3589
         height: 2393
         isCached: true
+  - title: "It's Biden's speech, but Kamala Harris and Nancy Pelosi also made history"
+    excerpt: "For the first time, two women flanked an American president on the dais of the House Chamber during his first address to a joint session of Congress."
+    publishedDateTime: 2021-04-29T03:55:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-nancy-pelosi-biden-speech-congress/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-nancy-pelosi-biden-speech-congress/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-nancy-pelosi-biden-speech-congress/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 139
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/29/d7cc6587-225c-4caa-8c10-6ccb44fe6516/thumbnail/1200x630/ea3ffa90cbe0ffd9c704d7265c48eb60/gettyimages-1232583413.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Climate change creates migrants. Biden considers protections"
     excerpt: "Ioane Teitiota and his wife fought for years to stay in New Zealand as refugees, arguing that rising sea levels caused by climate change threaten the very existence of the tiny Pacific island nation they fled,"
     publishedDateTime: 2021-04-20T15:36:00Z
@@ -623,6 +639,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/17/63/56/20921276/3/ratio3x2_400.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "VP Kamala Harris, Speaker Nancy Pelosi make history seated behind Biden at speech"
+    excerpt: "Harris and Pelosi made history as the first women — one of them Black and Indian American — to share the stage in Congress during a presidential address."
+    publishedDateTime: 2021-04-29T04:33:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-harris-pelosi-biden-speech-20210429-7admpphfmfbihngnneadehveqa-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-harris-pelosi-biden-speech-20210429-7admpphfmfbihngnneadehveqa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-harris-pelosi-biden-speech-20210429-7admpphfmfbihngnneadehveqa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 85
+    images:
+      - url: "https://www.baltimoresun.com/resizer/fZkJ8_Px-oXq_3vPmIxSf5-fSzw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FPVZXWPHWXVQVDTJO3AATCEWQU.aspx"
+        width: 1200
+        height: 749
         isCached: true
   - title: "'One giant leap': Harris says Biden's American Jobs Plan aims high, will reach higher"
     excerpt: "Vice President Kamala Harris told a small audience at GTCC that \"the president and I are determined to get this done.\""

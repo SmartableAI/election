@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Biden to trans youth: 'The president has your back'"
+    excerpt: "In his first address to Congress, President Joe Biden called for passage of the Equality Act and gave a shout-out to transgender youth, saying \"the president has your back.\""
+    publishedDateTime: 2021-04-29T05:36:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEAFZTUN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210429&i=OVEAFZTUN&r=OVEAFZTUN&t=2"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "xwKHULJncbG8aHe1ooIiOUQQSDpp7uLz6tHa7/8kKahZv/zJWC3UxdK/DlWzB/v8u3EUVvcP5JZ8wfa4ShRaZIGhiy5wKrc//xfl3U4AbrnBE4DGGoDezUzQhH/DybwNPHW4QAw1Nwtw/5FuWl0k4g2eybPhY1lNcZj+ysAQPOXoFJX4q54X/Xpn1njYsGdVzAT4MEbvj663xQhNwIDKpLaNTsQaL5gSuPtPeLUkvXiDB7T3AFuPeGELbJUOdB1MxXDmrLL/e21Er9g9XlLmt5sHKTHpi5BRlF1iorrk8z2ZcdNXzsvilZV5l5jXWltCzwXiy2vjdnA3pelmeBoCNmSKLsuWBhnpmh3sbLn7nfA=;3h29JmyYNROnzDrrHOp8tg=="
 ---

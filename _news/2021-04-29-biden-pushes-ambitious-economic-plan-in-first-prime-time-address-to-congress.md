@@ -189,6 +189,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden to transgender Americans: 'Your president has your back'"
+    excerpt: "During his joint address to Congress, President Joe Biden called for the passage of the Equality Act to LGBTQ Americans and spoke directly to transgender Americans."
+    publishedDateTime: 2021-04-29T05:05:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-to-transgender-americans-your-president-has-your-back-111031877945"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111031877945"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111031877945"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202104/BidenTrans.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden to propose free preschool, community college in address to Congress"
     excerpt: "He is also expected to announce an extension to the expanded child care tax benefit as part of his American Families Plan."
     publishedDateTime: 2021-04-28T14:36:00Z

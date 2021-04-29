@@ -206,6 +206,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden to transgender Americans: 'Your president has your back'"
+    excerpt: "During his joint address to Congress, President Joe Biden called for the passage of the Equality Act to LGBTQ Americans and spoke directly to transgender Americans."
+    publishedDateTime: 2021-04-29T05:05:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-to-transgender-americans-your-president-has-your-back-111031877945"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111031877945"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111031877945"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202104/BidenTrans.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden to propose free preschool, community college in address to Congress"
     excerpt: "He is also expected to announce an extension to the expanded child care tax benefit as part of his American Families Plan."
     publishedDateTime: 2021-04-28T14:36:00Z
@@ -271,6 +287,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "Te2It6Osg44msuXLg2H6bJwi1y6ugTvsbqCYbVxeCL3RqY1a8tVy19n9oLiF9HlNQOGxFPDb1DD/WMf3GB/A45MHL88jVNKl1K5utXxVkmLM5Vev1NUvMPx337qPiq8bzWj+AO/Lqa0eaG0vr3GrFYWwlnOK73NwX6nmR7mV0zqoVXPHLvctTNbUn2w00Y8JpsvcSp3QVa4AWxwILaxeY7TvXZj7uHgBdEYsXs7xNoWQFwWqD2WBhP8idphxkPbBj51BWz7q8IdpjTGzdR+tjEAuCVU5DfI4Ly7Wc9OCoTsChh3Lp5iNApBnGLh6vQ2vDpc7Z10GMi0Ao0k/5rxbv1aBVl51zVJxDvT7sRiqgZQ=;aChrnfPujHIcw20+xJJ+8A=="
+secured: "85NXB9m1dq1F2doGFaoFccurjU/Fb/OYfJjtgFmIyLfyR5NWA2ZnGC44I2iRNC2UBrUvSn9aiGyOWS4UHZfx7rA+U6Oeoc5zgQdaZXatOOZd5Gx4t5NS2kNK0nZ3rxsNsl0uiOx8/LcKdBDaMCH0zaXuw3J/dgruuVCRBtfKCSbQzyr+bIjozPepUa73pXu3teQBgmDvjQ5TPfMHOVWLxN6vB9VojiuFPOEuQQwX6s7No645Di4p1lQ/mxnmW4PADJpIRVbMriCK8ZmswUIca364SXeNWL5Ig6pDmJ5lTW/hYsCEipont1ZxQHOkWxIuOzuz0FWK7s6sb45lN0z+n0NNsmPM0hgXfRQQYbxMLgwfigMTiWzRaJsNZPcIp10vSCxb26HkoUi4uL/dPGtJ77sIhWa07D+cGM13RLsxQDabD+2P6noucWWtxpNruIcWGMoC93bd8J/t2Lwbuetm6PSrZASyqnRNiGjbQ07QZ5IsgczSP7w17sxqUNYuR6f1rbv3C5G8Up25QH1V7zI1Zg==;cUS0O36sGPLHVvuVXXzmuw=="
 ---
 

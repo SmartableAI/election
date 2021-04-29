@@ -121,6 +121,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden calls for police reform by 'next month'"
+    excerpt: "Top News Biden calls for police reform by 'next month' Posted . In his first speech to Congress on Wednesday, U.S. President Joe Biden called on Congress to a pass police reform b"
+    publishedDateTime: 2021-04-29T04:13:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEAFZT27"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210429&i=OVEAFZT27&r=OVEAFZT27&t=2"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "T3JnldborOwpU01sOKRZ5m4VmUOO3atpZdlqFxPXQevoBlWvKQwse2CUC23jzDCeW6KwZUfpeWpUwj+JlWwWiEFeobzxWaDSXRk3RGzr7clpDvkUaJ3ZgXQU6HfhNlSAj1atVQ85hnoxyrM2TQVlJa9dMyXB+IzBlwnJbSU23dvVjb6ZCb2SbXKyW9nh8K8B7iK0zriJeC0nqOdP2WxCJOsorcvaewDm1YS99L2c8wh4wKRF62drDzDrwfbYx4KlF5j8lbvC+YdSnqQHwZ5gTbD0sYml9JjGw6+OQOaDtkdEgkN70YdpCT2zDeBXPwBqXbqLIHKqWFj0X/WdwJEs5aZqwNRNwGKooSXpQx65+D0=;Dkt7FiH5MEuhsdx8r14D1A=="
 ---

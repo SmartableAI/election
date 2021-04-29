@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4864492001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4864492001"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/f8689cd4e3fa52e9a025d26db599d5f77cd587a1/c=0-296-5168-3203/local/-/media/2021/02/25/USATODAY/usatsports/GettyImages-669737652.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden to trans youth: 'The president has your back'"
+    excerpt: "In his first address to Congress, President Joe Biden called for passage of the Equality Act and gave a shout-out to transgender youth, saying \"the president has your back.\""
+    publishedDateTime: 2021-04-29T05:36:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEAFZTUN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210429&i=OVEAFZTUN&r=OVEAFZTUN&t=2"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "RGC2TS4xkMPHz6U7rle5U4kvauR+poTZGlbgQDM4jSVpStuUwcZxANRvDKCAey79WFgk+Ert15uWcnwk8f+22MFcd33a+uoejhD8qs2HPTYpbGi8suvHakX4TDaoJNKb/leZ9hQaXpdGZuAm9HJbD0jYi9L401MFDcI1+9+gutbW0022vYkjcEhlI5vi4lq0gL57wRRVvlcV2V3XnJqS2MgU/SMHdAI9RRFVXweZsUG4oAABE/T5vAVUXj1IPVgGclsNSy3RxkYqn7FNO+sqoBClMv3M+JRzkXL/NMY6AK1/QuPsmlgXw9MuBvp2HXPNeI/rr7TmjClMeByN/J6wAN6tPkyaScaezKQpRTlc2lM=;L8afZ0SdqT7t9neBB+CeGA=="
