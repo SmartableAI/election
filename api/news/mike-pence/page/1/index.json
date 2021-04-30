@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-30-former-vice-president-mike-pence-to-deliver-first-speech-since-leaving-office.md",
-      "title": "Former Vice President Mike Pence to deliver first speech since leaving office",
-      "excerpt": "Former Vice President Mike Pence is delivering his first speech since leaving office to a group of conservatives in South Carolina on Thursday. His visit to the early primary state is fueling speculation over whether Pence is weighing a 2024 presidential bid.",
+      "path": "_news/2021-04-30-pence-gives-first-public-remarks-since-leaving-office-as-biden-marks-100-days-in-office.md",
+      "title": "Pence gives first public remarks since leaving office as Biden marks 100 days in office",
+      "excerpt": "Former Vice President Mike Pence on Thursday spoke in South Carolina, his first public remarks since leaving office. Speaking as President Biden marks his first 100 days in office, Pence slammed Mr. Biden's policies.",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/former-vice-president-mike-pence-first-speech-since-leaving-office-south-carolina/",
-      "originalUrl": "https://www.cbsnews.com/video/former-vice-president-mike-pence-first-speech-since-leaving-office-south-carolina/",
+      "webUrl": "https://www.cbsnews.com/video/mike-pence-first-public-remarks-2021-04-28/",
+      "originalUrl": "https://www.cbsnews.com/video/mike-pence-first-public-remarks-2021-04-28/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 152,
       "tags": null,
       "images": [
         {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/04427689-6436-419b-9d61-b0761cc247d9/thumbnail/1200x630/506dedf489cb7ffe29b1dbe6faefb840/cbsn-fusion-former-vice-president-mike-pence-to-deliver-first-speech-since-leaving-office-to-south-carolina-conservatives-thumbnail-704546-640x360.jpg",
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/9451bbda-308d-421f-86ca-ae896a838578/thumbnail/1200x630/6e4116a81676ae1ed279c898558c4423/cbsn-fusion-mike-pence-first-public-remarks-2021-04-28-thumbnail-704738-640x360.jpg",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T15:39:00-07:00",
+      "publishedDateTime": "2021-04-29T18:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CBS News",
@@ -66,7 +66,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1380,
+      "heat": 1440,
       "tags": null,
       "images": [
         {
@@ -290,7 +290,7 @@
       "originalUrl": "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 151,
       "tags": null,
       "images": [
         {

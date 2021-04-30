@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-30-former-vice-president-mike-pence-to-deliver-first-speech-since-leaving-office.md",
-      "title": "Former Vice President Mike Pence to deliver first speech since leaving office",
-      "excerpt": "Former Vice President Mike Pence is delivering his first speech since leaving office to a group of conservatives in South Carolina on Thursday. His visit to the early primary state is fueling speculation over whether Pence is weighing a 2024 presidential bid.",
+      "path": "_news/2021-04-30-pence-gives-first-public-remarks-since-leaving-office-as-biden-marks-100-days-in-office.md",
+      "title": "Pence gives first public remarks since leaving office as Biden marks 100 days in office",
+      "excerpt": "Former Vice President Mike Pence on Thursday spoke in South Carolina, his first public remarks since leaving office. Speaking as President Biden marks his first 100 days in office, Pence slammed Mr. Biden's policies.",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/former-vice-president-mike-pence-first-speech-since-leaving-office-south-carolina/",
-      "originalUrl": "https://www.cbsnews.com/video/former-vice-president-mike-pence-first-speech-since-leaving-office-south-carolina/",
+      "webUrl": "https://www.cbsnews.com/video/mike-pence-first-public-remarks-2021-04-28/",
+      "originalUrl": "https://www.cbsnews.com/video/mike-pence-first-public-remarks-2021-04-28/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 152,
       "tags": null,
       "images": [
         {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/04427689-6436-419b-9d61-b0761cc247d9/thumbnail/1200x630/506dedf489cb7ffe29b1dbe6faefb840/cbsn-fusion-former-vice-president-mike-pence-to-deliver-first-speech-since-leaving-office-to-south-carolina-conservatives-thumbnail-704546-640x360.jpg",
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/9451bbda-308d-421f-86ca-ae896a838578/thumbnail/1200x630/6e4116a81676ae1ed279c898558c4423/cbsn-fusion-mike-pence-first-public-remarks-2021-04-28-thumbnail-704738-640x360.jpg",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T15:39:00-07:00",
+      "publishedDateTime": "2021-04-29T18:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CBS News",
@@ -51,6 +51,162 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-biden-planning-way-to-circumvent-trump-remain-in-mexico-policy.md",
+      "title": "Biden planning way to circumvent Trump ‘Remain in Mexico’ policy",
+      "excerpt": "The Biden administration is looking to create a system that would allow some migrants to receive \"humanitarian exceptions\" to enter the U.S., despite the controversial Trump-era \"Remain in Mexico\" policy, first reported Buzz Feed News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H8PBolKunSI/biden-administration-to-create-trump-era-remain-in-mexico-work-around",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H8PBolKunSI/biden-administration-to-create-trump-era-remain-in-mexico-work-around",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b67f5c2b-ca07-4d21-b0a8-f37bcb589b2a/e8bd00c5-34b5-4617-936b-424fc9cdb814/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-to-create-trump-era-remain-in-mexico-work-around.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-to-create-trump-era-remain-in-mexico-work-around.amp",
+      "publishedDateTime": "2021-04-29T18:20:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango.md",
+      "title": "Leon Panetta on Biden's lack bipartisanship: It takes two to tango",
+      "excerpt": "We're going to get into the details of all of that, fair and balanced, with John Barrasso, the Republican senator from Wyoming, and Leon Panetta, Bill Clinton's chief of staff, and whether we are building up a lot of debt very,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango",
+      "originalUrl": "https://www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81623771-3b4f-45ee-8b65-03c338f4a578/58b06d7d-6c90-487b-aebe-6f2abac016ad/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango.amp",
+      "publishedDateTime": "2021-04-29T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments.md",
+      "title": "Oklahoma City pastor blasts Sen. Nathan Dahm on Senate floor for Kamala Harris comments",
+      "excerpt": "During the conclusion of a Thursday morning session, Rev. Lee Cooper Jr., pastor at Prospect Baptist Church in Oklahoma City, chastised Dahm during an address ahead of the official prayer",
+      "sourceUrl": null,
+      "webUrl": "https://tulsaworld.com/news/state-and-regional/govt-and-politics/oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.html",
+      "originalUrl": "https://tulsaworld.com/news/state-and-regional/govt-and-politics/oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/4/b2/4b288ace-a942-11eb-b0c9-b7d9d9ac8545/6010814374821.image.jpg?crop=1276%2C866%2C5%2C168&resize=1024%2C695&order=crop%2Cresize",
+          "width": 1024,
+          "height": 695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tulsaworld.com/news/state-and-regional/govt-and-politics/oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.amp.html",
+      "cdnAmpWebUrl": "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/state-and-regional/govt-and-politics/oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.amp.html",
+      "publishedDateTime": "2021-04-29T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tulsa World",
+        "domain": "tulsaworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {
@@ -287,7 +443,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1380,
+      "heat": 1440,
       "tags": null,
       "images": [
         {
@@ -1167,49 +1323,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-29-biden-traveling-to-voting-rights-hot-spot-georgia-to-promote-plans-to-rebuild-economy.md",
-      "title": "Biden traveling to voting rights hot spot Georgia to promote plans to rebuild economy",
-      "excerpt": "President Joe Biden marks his 100th day in office with a trip to Georgia on Thursday, visiting former President Jimmy Carter and pitching his plans to spend trillions of dollars to rebuild the U.S. economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-biden-idUSL1N2ML3NV",
-      "originalUrl": "https://www.reuters.com/article/usa-biden-idUSL1N2ML3NV",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2ML3NV",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2ML3NV",
-      "publishedDateTime": "2021-04-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-04-29-bidens-road-trip-starts-as-partisan-paths-loom-larger-the-note.md",
       "title": "Biden's road trip starts as partisan paths loom larger: The Note",
       "excerpt": "President Joe Biden and Vice President Kamala Harris hit the road -- a series of trips to mark 100 days in office that could define what the next 1,000 or so look like.",
@@ -1259,115 +1372,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-aoc-praises-activists-says-keep-going-after-joe-biden-speech.md",
-      "title": "AOC Praises Activists, Says 'Keep Going' After Joe Biden Speech",
-      "excerpt": "The Democratic congresswoman Alexandria Ocasio-Cortez praised progressive activists on Wednesday night after President Joe Biden put forth his record and future plans in a speech to a joint session of Congress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414",
-      "originalUrl": "https://www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1784908/rep-alexandria-ocasio-cortez.jpg",
-          "width": 1024,
-          "height": 707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414?amp=1",
-      "publishedDateTime": "2021-04-29T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-woke-cancel-culture-movement-backfired-on-joe-biden-stacey-abrams-gov-kemp.md",
-      "title": "'Woke cancel culture movement' backfired on Joe Biden, Stacey Abrams: Gov. Kemp",
-      "excerpt": "Georgia Gov. Brian Kemp told “Fox & Friends” Thursday, President Biden and Georgia voting rights activist Stacey Abrams has driven the “far-reaching, woke cancel culture movement” too far and now it has backfired on the Democratic Party for “lying” about the state’s election law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/kemp-georgia-election-law-biden-abrams",
-      "originalUrl": "https://www.foxnews.com/media/kemp-georgia-election-law-biden-abrams",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/kemp-georgia-election-law-biden-abrams.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kemp-georgia-election-law-biden-abrams.amp",
-      "publishedDateTime": "2021-04-29T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/how-do-americans-feel-about-presid
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/how-do-americans-feel-about-president-trump-1/"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Ex-Trump Vice President Pence Makes First Public Appearance Since January"
+    excerpt: "Pence spoke for a half hour in Columbia, South Carolina, to the Palmetto Family Council, a religious conservative group. It was his first speech since he and then-President Donald Trump handed over power to President Joe Biden and Vice President Kamala Harris on Jan."
+    publishedDateTime: 2021-04-30T01:03:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-29/ex-trump-vice-president-pence-makes-first-public-appearance-since-january"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 59
 
 secured: "fWZ2OH4adg+FeOdJw234LsT9YoWE8x0SDPZjOp+1/9lOrgGBVkX0AAPqjRpe25C95DWbJ9EaAxsAlLIHoWvx34hi3zc9TZcbQ48QYAayFxsKSCjpoAq1n9NL2vUDOn7Pf8NasQ5AY6vTxZrvIRbenzVSV0uAPau5vvhAITIwt0y1vW2zF5DW6ngU/U16ZT7dqXuHQ476mMl9TA8ZfV4CsToF7J6nlFyc+asQ8MI2HsHYQakeO04Ginz9/qFmGdCjVt3m8hJsyEvjZJC66sbiZlicMX7HclzjirrnDDsTYcXXaEsgX9OCawW2rVumJCZIou098+ugvHuIBNDAAIAYFF0HjO9XLCrra9fsN5CGmPMFPqKQVS+G0NRLcKWNQ7yBXLUF96QI2ojlSGKBteh/Bou4h66HcUkVx7zf91qQEXb4Hr9UOgmv1rQBF+m5LH0tiJuQWUr86Mf02K0U/+Au1+fL47RSZ2Jpw2KwGoTI2qKiV+JvXk5u9UIa7R9Amw+qeg48/k3aqxAPjoKfuwEM/w==;R9nQ9BlcgpeaHZ4YwsYz1Q=="
 ---

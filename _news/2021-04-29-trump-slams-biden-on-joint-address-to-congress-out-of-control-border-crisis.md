@@ -188,6 +188,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden heckled in Georgia over private detention centers"
+    excerpt: "President Biden on Thursday was interrupted as he began a rally in Georgia by protesters heckling him about private detention centers."
+    publishedDateTime: 2021-04-29T23:55:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ObWJl-kdc7g/biden-heckled-rally-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-heckled-rally-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-heckled-rally-georgia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c3f1bc7-fb4a-4b2c-b0a2-bb2c97a02c43/65f0888a-7e2f-431b-9ca2-045bba579d7d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden viewed less positively than police: poll"
     excerpt: "A new survey published Thursday shows Biden trailing behind law enforcement in popularity by almost ten points, securing the number two spot on the list above the Democratic Party and Major League Baseball."
     publishedDateTime: 2021-04-29T23:11:59Z
@@ -281,6 +297,38 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/a7c45c05-13ef-414e-bd78-df2ca9c04bd6/8ee8f7ef-a529-4602-b58d-2cd66be7fa62/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden says Stacey Abrams could be president if 'she wants'"
+    excerpt: "President Biden on Thursday said Georgia voting rights activist Stacey Abrams could be president if she wanted to, amid suspicions that she will once again run for governor in the state."
+    publishedDateTime: 2021-04-30T00:45:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ue-4bFiC0h4/biden-stacey-abrams-president-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-stacey-abrams-president-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-stacey-abrams-president-georgia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/667ea5a7-f817-4631-9bf5-a1a164e9b88f/2a9c09b4-822d-45c6-a866-5cc5650189e1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Joe Biden gets into 'trouble,' spends 30 seconds looking for his mask"
+    excerpt: "Wrapping up an outdoor Georgia rally on Thursday night, a fully vaccinated President Joe Biden spent 30 seconds looking for his mask, only to later realize it was in his pocket the entire time. "
+    publishedDateTime: 2021-04-30T00:05:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zi9jpCgguCk/joe-biden-trouble-mask"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-trouble-mask.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-trouble-mask.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00d96b73-38ef-46ff-9e67-c4882f4368a5/02975826-568a-4e97-b558-34896c8336e2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

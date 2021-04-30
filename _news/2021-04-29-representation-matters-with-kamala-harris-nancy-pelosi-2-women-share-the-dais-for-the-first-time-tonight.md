@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.freep.com/amp/7352628002"
 cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7352628002"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Oklahoma City pastor blasts Sen. Nathan Dahm on Senate floor for Kamala Harris comments"
+    excerpt: "During the conclusion of a Thursday morning session, Rev. Lee Cooper Jr., pastor at Prospect Baptist Church in Oklahoma City, chastised Dahm during an address ahead of the official prayer"
+    publishedDateTime: 2021-04-29T23:50:00Z
+    webUrl: "https://tulsaworld.com/news/state-and-regional/govt-and-politics/oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.html"
+    ampWebUrl: "https://tulsaworld.com/news/state-and-regional/govt-and-politics/oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/state-and-regional/govt-and-politics/oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 67
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/4/b2/4b288ace-a942-11eb-b0c9-b7d9d9ac8545/6010814374821.image.jpg?crop=1276%2C866%2C5%2C168&resize=1024%2C695&order=crop%2Cresize"
+        width: 1024
+        height: 695
+        isCached: true
 
 secured: "RJpEXRi/WCpgabsUr+cGIbrJDmCbg4PiztsgU2KfaOsXdVnEhre04rvHMuqdGt/nYCLbvi+O0/ggYiX3RvaBBbNVzyNYA6yTfmKioNyhmf/hT7Zj5yehEdJoJzSBKPd5dzkgTl28SNf0HJ3UmBck814VKP6uJI+AR9wu/wrAGlhyGrtQjH8J5aLhhod7hDRGkLDKq3aF9qmECkxQYfhGaMJ+v8fzVKfQzBtJ6pCS0ZoNM5hdcEgFOkKfJcYMXaTRLMR3kOFJggjU3OTWbqa+m21ss6Wl3EeMj18ikLNwDGvwdV9JlaCDHcakIJTie0rSu/0V/FYcvaY9wPBVQsSJuXp+STeSrUYAl41OhiJvpbfO/+AR98VqiR536XUvT7D9dr4WIHinOwhwu4IoTJvMOP5uLHcVyM33qP7T3Lj084+21Hp75nfGdNRs2NonumcTJWGisWAQBGrEwl1DqmPR3w9frfZ+e6jAS0t5V4grV7gjZtc0DExgTBtmD/diz4GpKBUTPgc+/yWLPPgB6lxBwA==;33SCuA64/M/nn0fJwmulDw=="
 ---

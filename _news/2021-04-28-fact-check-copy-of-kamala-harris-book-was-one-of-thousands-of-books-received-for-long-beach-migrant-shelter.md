@@ -75,6 +75,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "OKC minister rebukes senator for 'sexist, racist' remarks about VP Kamala Harris"
+    excerpt: "Oklahoma City Rev. Lee Cooper publicly rebuked Sen. Nathan Dahm for making \"'sexist,\" \"misogynistic\" and \"racist\" remarks about VP Kamala Harris."
+    publishedDateTime: 2021-04-29T23:31:00Z
+    webUrl: "https://www.oklahoman.com/story/news/2021/04/29/okc-minister-lee-cooper-rebukes-nathan-dahm-kamala-harris-comments/7399957002/"
+    ampWebUrl: "https://amp.oklahoman.com/amp/7399957002"
+    cdnAmpWebUrl: "https://amp-oklahoman-com.cdn.ampproject.org/c/s/amp.oklahoman.com/amp/7399957002"
+    type: article
+    provider:
+      name: The Oklahoman
+      domain: oklahoman.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/22/NOKL/6d8697ab-2f40-4e6d-94a2-883b08cd938c-AP21112441508026.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "'It's about time': With Kamala Harris and Nancy Pelosi, women share the dais for the first time"
     excerpt: "\"No president has ever said those words from this podium and it's about time.\" For the first time, both of those positions are now held by women: Vice President Kamala Harris and House Speaker Nancy Pelosi."
     publishedDateTime: 2021-04-29T10:57:00Z

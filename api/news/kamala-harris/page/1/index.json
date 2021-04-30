@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-30-oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments.md",
+      "title": "Oklahoma City pastor blasts Sen. Nathan Dahm on Senate floor for Kamala Harris comments",
+      "excerpt": "During the conclusion of a Thursday morning session, Rev. Lee Cooper Jr., pastor at Prospect Baptist Church in Oklahoma City, chastised Dahm during an address ahead of the official prayer",
+      "sourceUrl": null,
+      "webUrl": "https://tulsaworld.com/news/state-and-regional/govt-and-politics/oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.html",
+      "originalUrl": "https://tulsaworld.com/news/state-and-regional/govt-and-politics/oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/4/b2/4b288ace-a942-11eb-b0c9-b7d9d9ac8545/6010814374821.image.jpg?crop=1276%2C866%2C5%2C168&resize=1024%2C695&order=crop%2Cresize",
+          "width": 1024,
+          "height": 695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tulsaworld.com/news/state-and-regional/govt-and-politics/oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.amp.html",
+      "cdnAmpWebUrl": "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/state-and-regional/govt-and-politics/oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.amp.html",
+      "publishedDateTime": "2021-04-29T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tulsa World",
+        "domain": "tulsaworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-kamala-harris-agrees-with-tim-scott-that-the-us-is-not-racist-but-says-racism-must-not-be-ignored.md",
       "title": "Kamala Harris agrees with Tim Scott that the US is not racist, but says racism must not be ignored",
       "excerpt": "Vice President Kamala Harris on Thursday agreed with South Carolina Sen. Tim Scott that the United States is not a racist country, but added that the nation has a history of racism that cannot be overlooked.\n    \n",
@@ -128,7 +171,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 458,
+      "heat": 498,
       "tags": null,
       "images": [
         {
@@ -233,7 +276,7 @@
       "originalUrl": "https://www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002",
       "featuredContent": null,
       "highlight": null,
-      "heat": 223,
+      "heat": 243,
       "tags": null,
       "images": [
         {
@@ -1586,63 +1629,6 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-republicans-try-to-make-kamala-harris-the-face-of-the-border-crisis.md",
-      "title": "Republicans try to make Kamala Harris the face of the border crisis",
-      "excerpt": "Vice President Kamala Harris and her team are staring down attempts to make her the face of the Biden administration's response to the crisis at the border, a little more than a week after being assigned a role that positions her in the center of one of the administration's most divisive issues.\n   ",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KTxjBK-t4iw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KTxjBK-t4iw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210310102406-01-kamala-harris-0302-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/01/politics/kamala-harris-migration-border/index.html",
-      "publishedDateTime": "2021-04-01T03:38:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
         "Kamala Harris"
       ]
     }

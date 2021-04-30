@@ -2,6 +2,115 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-29-aoc-praises-activists-says-keep-going-after-joe-biden-speech.md",
+      "title": "AOC Praises Activists, Says 'Keep Going' After Joe Biden Speech",
+      "excerpt": "The Democratic congresswoman Alexandria Ocasio-Cortez praised progressive activists on Wednesday night after President Joe Biden put forth his record and future plans in a speech to a joint session of Congress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414",
+      "originalUrl": "https://www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1784908/rep-alexandria-ocasio-cortez.jpg",
+          "width": 1024,
+          "height": 707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414?amp=1",
+      "publishedDateTime": "2021-04-29T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-woke-cancel-culture-movement-backfired-on-joe-biden-stacey-abrams-gov-kemp.md",
+      "title": "'Woke cancel culture movement' backfired on Joe Biden, Stacey Abrams: Gov. Kemp",
+      "excerpt": "Georgia Gov. Brian Kemp told “Fox & Friends” Thursday, President Biden and Georgia voting rights activist Stacey Abrams has driven the “far-reaching, woke cancel culture movement” too far and now it has backfired on the Democratic Party for “lying” about the state’s election law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/kemp-georgia-election-law-biden-abrams",
+      "originalUrl": "https://www.foxnews.com/media/kemp-georgia-election-law-biden-abrams",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/kemp-georgia-election-law-biden-abrams.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kemp-georgia-election-law-biden-abrams.amp",
+      "publishedDateTime": "2021-04-29T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-hear-trumps-response-to-the-fbis-raid-of-rudy-giuliani.md",
       "title": "Hear Trump's response to the FBI's raid of Rudy Giuliani",
       "excerpt": "Former President Donald Trump reacts in a Fox Business interview after federal investigators executed a search warrant at the home and office of Rudy Giuliani.\n    \n",
@@ -293,7 +402,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 458,
+      "heat": 498,
       "tags": null,
       "images": [
         {
@@ -346,7 +455,7 @@
       "originalUrl": "https://www.cbsnews.com/video/how-do-americans-feel-about-president-trump-1/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -930,7 +1039,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 169,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1090,7 +1199,7 @@
       "originalUrl": "https://www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002",
       "featuredContent": null,
       "highlight": null,
-      "heat": 223,
+      "heat": 243,
       "tags": null,
       "images": [
         {
@@ -1198,7 +1307,7 @@
       "originalUrl": "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1239,110 +1348,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-melania-trump-thanks-supporters-who-sent-her-wonderful-birthday-messages.md",
-      "title": "Melania Trump Thanks Supporters Who Sent Her 'Wonderful' Birthday Messages",
-      "excerpt": "Melania Trump said she is thankful for the supporters and social media users who remembered her on her 51st birthday on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/melania-trump-thanks-supporters-who-sent-her-wonderful-birthday-messages-3189006",
-      "originalUrl": "https://www.ibtimes.com/melania-trump-thanks-supporters-who-sent-her-wonderful-birthday-messages-3189006",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/08/first-lady-melania-trump-attends-congressional-spouses-luncheon.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-lindsey-graham-announces-contest-where-winner-gets-to-golf-with-trump-and-him.md",
-      "title": "Lindsey Graham Announces Contest Where Winner Gets to Golf With Trump and Him",
-      "excerpt": "\"If you don't win, the money is going to be used to take back the House and the Senate, so we can stop this slide to socialism,\" Graham said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/lindsey-graham-announces-contest-where-winner-gets-golf-trump-him-1586971",
-      "originalUrl": "https://www.newsweek.com/lindsey-graham-announces-contest-where-winner-gets-golf-trump-him-1586971",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1783894/donald-trump-lindsey-graham-golf-contest-tournament.jpg",
-          "width": 3000,
-          "height": 1996,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/lindsey-graham-announces-contest-where-winner-gets-golf-trump-him-1586971?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-announces-contest-where-winner-gets-golf-trump-him-1586971?amp=1",
-      "publishedDateTime": "2021-04-27T20:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Donald Trump"
       ]
     }

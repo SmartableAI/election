@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris To Tim Scott: \"No, I Don't Think America Is A Racist Country,\" But Racism Exists"
 excerpt: "Vice President Kamala Harris responded to GOP Sen. Tim Scott's statement that America is \"not a racist country\" and we can't \"fight discrimination with more discrimination\" during an appearance Thursday on \"Good Morning America."
 publishedDateTime: 2021-04-29T16:08:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/04/29/kamala_harris_no_i_dont_think_america_is_a_racist_country_but_racism_exists.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/04/29/kamala_harris_no_i_dont_think_america_is_a_racist_country_but_racism_exists.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/04/29/kamala_harris_no_i_dont_think_america_is_a_racist_country_but_racism_exists.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/04/29/kamala_harris_no_i_dont_think_america_is_a_racist_country_but_racism_exists.html"
 type: article
 quality: 53
 heat: -1
@@ -89,6 +89,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3eabcf86-60bd-46d5-80b5-a8276bcc0a72/af664b23-6b18-4678-9ab3-bc0559005cef/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden says, 'I don't think the American people are racist,' despite finding 'systemic racism'"
+    excerpt: "President Biden reiterated his call for the United States to combat systemic racism through policy initiatives on Thursday in his first public response to remarks made by Republican Sen. Tim Scott of South Carolina."
+    publishedDateTime: 2021-04-30T00:20:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kJPwys3V63o/biden-responds-tim-scott-gop-rebuttal-speech-i-dont-think-the-american-people-are-racist"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-responds-tim-scott-gop-rebuttal-speech-i-dont-think-the-american-people-are-racist.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-responds-tim-scott-gop-rebuttal-speech-i-dont-think-the-american-people-are-racist.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83c2c7e5-b82b-44dc-b6de-bada8b77ace6/7c2b5790-6a5d-4900-a5dd-984a8e46ab00/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Sen. Rand Paul: If Biden wants more Americans vaccinated, he should 'burn his mask' on national TV"
     excerpt: "If President Biden wants to motivate more Americans to get vaccinated against the coronavirus, he should \"go on national TV, take his mask off and burn it,\" Sen. Rand Paul, R-Ky., told \"The Story\" Wednesday."
@@ -200,6 +216,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Gingrich: Biden's congressional speech will be the 'weirdest' in American history"
+    excerpt: "Guests: Jamie McBride, Leonydus Johnson, Newt Gingrich, Peter McCullough, Maggie Williams, Stephen Williams, Dave Turnbull, Dinesh D'Souza, Kurt Schlichter"
+    publishedDateTime: 2021-04-30T01:07:00Z
+    webUrl: "https://www.foxnews.com/transcript/gingrich-bidens-congressional-speech-will-be-the-weirdest-in-american-history"
+    ampWebUrl: "https://www.foxnews.com/transcript/gingrich-bidens-congressional-speech-will-be-the-weirdest-in-american-history.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/gingrich-bidens-congressional-speech-will-be-the-weirdest-in-american-history.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/698e0949-38b7-4fb4-99e0-76eeb265afff/7bf55267-6b4a-4e90-a5de-2104e62d440e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden's Turning Point on Police Reform"
     excerpt: "Minnesota Attorney General Keith Ellison called the guilty-verdict sweep against Derek Chauvin, the police officer who killed George Floyd, an"
     publishedDateTime: 2021-04-21T11:25:00Z
@@ -231,6 +263,6 @@ related:
         height: 562
         isCached: true
 
-secured: "zkRfJRkrW/q+zjCyKt7Jpk4GbeUOBtmcR8X8Ap8xLE3QZfA296glx/zDOQ5r60cimz1WWxDN/bKXT6jtL/nrbeY8cmJE50uzPI/IFHdtumzp7FLMp1HTPb+71gRowWj7wkpSqXouTpUKyB6DvUflTEfogWWDP0yq2NskpqqdmWUP/uOO8QVCQHS4W7ChLn3LEjh+7O34E9Z/VZoneZpH1Ttpt0kKvDOop9IVAILBC3e1ikIY1XS5F/vJrpJHfAONBOS+9vRFnDXnJ0L1HYFuH7c62GvPqorINargYCqar+Wye+gn3JQFHXgn8RgaevLS1Z+lNTQX+CnxWY05v3uldzRYOQwZBen93iCoX+FSgwwzAVt4JQGVa4VK498qAeQCiDyJLBKZ5NPtL2BaqlHmX1zbwwGLe/B2+0HiVqHPqYcJx2eP+1zkM7OxLuXppvBEbVtPwbLl124mfNzFDeRrBSgRix2rWhI2JvXmLxnaqERNhFsiW1IBoaz6cMbmheboT9GJXQ+wZNipXW3/IVlCHw==;zW6kkFt8HlxzazB67NbeSw=="
+secured: "Rk6s5kCpVOuIrUZ5drohOKvAQJsRshRcWsAh4O3pD4JSRfxlOSosvYp+3iAbPeh1I/vpRMVL9wuTBtN8nW+OXIosPySYL0Pd/qEJBsFEgJJPShC0ZI9GvZPxZBfwLPpnWAgH+PUzADsUApQLDJ/NxFcGIgUWzow+ylpO7aYqiCB8tMLFE7lPwd9c66pvu4ZZ/b7DJWTIYu1fVKtBK+ozKBPk4vlo8lCKC4qlTjMWo64+7448CQbnpyxoMexgGWp5axif7K+SHgu/D8v8AUOAPbbOTIImm2ImlBtaLCytu5qoE9Kuu+Wsiqmuq2WMjstlOBYtodc2VVF76/NWLPFD7dDWWYQ/8fGn8a8N6B0AIYs=;YbuEgOnbdUyMceVhn10J7A=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2ML3NV"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2ML3NV"
 type: article
 quality: 98
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -23,6 +23,36 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+related:
+  - title: "Pence gives first public remarks since leaving office as Biden marks 100 days in office"
+    excerpt: "Former Vice President Mike Pence on Thursday spoke in South Carolina, his first public remarks since leaving office. Speaking as President Biden marks his first 100 days in office, Pence slammed Mr. Biden's policies."
+    publishedDateTime: 2021-04-30T01:26:00Z
+    webUrl: "https://www.cbsnews.com/video/mike-pence-first-public-remarks-2021-04-28/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/9451bbda-308d-421f-86ca-ae896a838578/thumbnail/1200x630/6e4116a81676ae1ed279c898558c4423/cbsn-fusion-mike-pence-first-public-remarks-2021-04-28-thumbnail-704738-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Former Vice President Mike Pence to deliver first speech since leaving office"
+    excerpt: "Former Vice President Mike Pence is delivering his first speech since leaving office to a group of conservatives in South Carolina on Thursday. His visit to the early primary state is fueling speculation over whether Pence is weighing a 2024 presidential bid."
+    publishedDateTime: 2021-04-29T22:39:00Z
+    webUrl: "https://www.cbsnews.com/video/former-vice-president-mike-pence-first-speech-since-leaving-office-south-carolina/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 102
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/04427689-6436-419b-9d61-b0761cc247d9/thumbnail/1200x630/506dedf489cb7ffe29b1dbe6faefb840/cbsn-fusion-former-vice-president-mike-pence-to-deliver-first-speech-since-leaving-office-to-south-carolina-conservatives-thumbnail-704546-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "W//aLyA9xpy5xTPEFbC5Im70tqSfxLdToVL6mStUXmd2E/2VqvZVBA2cjXraVru0Pxk8PmMXMQBCNE/7VPlsI2+hqWFdqu2ihgvj+gvbBaDK3epJY6lAMHTNp6vsRGpcsek+A9cgqIlGh2FvKo6vSLofm5V1dQ3ScWe26O3e/+pRDLsKBaolcWy/1tXAFFZd5z/5w1/BYqgNSpWIUaRGAnwhZ2Qt5Z7TRnFX7vtpdLDffnP/ueS1BIy1NmeoJdGYmHCcd3rdnnSBth9WJBAfhIYh00nTOVK+pIRaHYeCMY/XjWxYU5ak/3C5fNKCQx8yRvFGyYgx2GxssxJ54rBZ7VkoMD10QqBQA/X0+oxgH0g=;b52ArpHpW8HQPJi727vnVw=="
 ---
