@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "New bishop of Biden's hometown mum on Communion question"
+    excerpt: "The newly appointed bishop of President Joe Biden's home diocese in Delaware says he would gladly speak with the president about his stance on abortion but he's not saying whether he would allow Biden to keep receiving Communion,"
+    publishedDateTime: 2021-04-30T16:37:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/pope-names-bishop-bidens-wilmington-diocese-77417500"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/pope-names-bishop-bidens-wilmington-diocese-77417500"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/pope-names-bishop-bidens-wilmington-diocese-77417500"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_a662771423f1442abbb692f306ffe054_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Full transcript: President Joe Biden delivers speech to joint session of Congress"
     excerpt: "The president spoke to a limited crowd due to the pandemic. President Joe Biden addresses Congress on equal pay for women and right to unionize President Joe Biden delivered his first speech to a joint session of Congress on Wednesday night,"
     publishedDateTime: 2021-04-29T02:26:00Z

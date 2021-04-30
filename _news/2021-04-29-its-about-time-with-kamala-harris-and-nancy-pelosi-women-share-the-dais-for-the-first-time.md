@@ -75,6 +75,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Kamala Harris to speak at Naval Academy commissioning"
+    excerpt: "Vice President Kamala Harris will deliver the keynote speech during the ceremony May 28, according to a White House official."
+    publishedDateTime: 2021-04-30T15:59:00Z
+    webUrl: "https://www.baltimoresun.com/education/ac-cn-kamala-harris-naval-academy-commissioning-20210430-t7kj4cfukrf33fhbzkoqojrgym-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/education/ac-cn-kamala-harris-naval-academy-commissioning-20210430-t7kj4cfukrf33fhbzkoqojrgym-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/education/ac-cn-kamala-harris-naval-academy-commissioning-20210430-t7kj4cfukrf33fhbzkoqojrgym-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 75
+    images:
+      - url: "https://www.baltimoresun.com/resizer/BE0omG1uFNrRjz_Ba5i5l2ELpmI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YCZQJIPVWRARZI3RL3CXYL6DLY.jpg"
+        width: 1200
+        height: 773
+        isCached: true
   - title: "OKC minister rebukes senator for 'sexist, racist' remarks about VP Kamala Harris"
     excerpt: "Oklahoma City Rev. Lee Cooper publicly rebuked Sen. Nathan Dahm for making \"'sexist,\" \"misogynistic\" and \"racist\" remarks about VP Kamala Harris."
     publishedDateTime: 2021-04-29T23:31:00Z

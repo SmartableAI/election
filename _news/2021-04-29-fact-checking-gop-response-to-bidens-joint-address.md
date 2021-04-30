@@ -365,6 +365,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Europe's backsliding democracies undermine Biden's united front"
+    excerpt: "President Joe Biden told Congress he wants to show that “democracy can deliver” after the United States “stared into an abyss of autocracy and insurrection.” But from France to Poland to the Balkans,"
+    publishedDateTime: 2021-04-30T13:57:00Z
+    webUrl: "https://www.politico.com/newsletters/global-translations/2021/04/30/europes-backsliding-democracies-undermine-bidens-united-front-492670"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/bc/89ed482f4862b339c70a33cc0fb0/politico-global-translations-shared-graphic.jpg"
+        width: 1201
+        height: 629
+        isCached: true
 
 secured: "/dT1iHbYKQttXBFuBSplYnLxqCgZFEO657DHeE2Im93972pWGwk+D+jS5A93XIvFDYLrSLl81YI9wsbDWoevD+dKkKEkySYsdA/KZFd4TC2Ypq7oVip1tC+ehfIuPRszvrySZBcCGjHYh6+OLqbavHpPMfWxVUGBvAhJFF/RhZmB6qM64v1BYzrhGhz92xmSy9zZmQFa8NEbCeYBMXKXA2YrCM7mWgjUPNNbVmxatkFjNPQsOz5XDw4HyBAtWMYTU6Ev0iFu8ZONMgzb9aFIQkvaoM/+mg6BCmrTY877DnYOfkNaZtwZ/28KzitdMvB8L5CvaRdykcBTa6dB695ZWPcch35iHknRaNPSxV2qMLE=;EN0/chEzyH6rERq1heh3Yg=="
 ---

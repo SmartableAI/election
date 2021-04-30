@@ -319,6 +319,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden, Tim Scott present dueling visions for America"
+    excerpt: "As President Biden marks his 100th day in office this week, the schism between Democrat and Republican visions for the country, particularly on social and economic policies, has never run more deep."
+    publishedDateTime: 2021-04-30T17:47:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lyfdrcs4AW8/biden-tim-scott-present-dueling-visions-for-america"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tim-scott-present-dueling-visions-for-america.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tim-scott-present-dueling-visions-for-america.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fed55c8-3f12-40d5-8176-35dd3e4620b7/730883fe-3197-4faa-8727-5b452c2df2ce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Cruz calls on Biden to fix gap in Texas levee that protects border towns"
     excerpt: "Sen. Ted Cruz, R-Texas, and local residents in Mission, Texas, are calling on President Biden to fix a compromised levee that protects border towns from the Rio Grande Valley – with hurricane season just weeks away."
     publishedDateTime: 2021-04-22T17:31:33Z
@@ -462,6 +478,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Schumer warns Dems will go it alone on Biden's $4T tax and spending proposal"
+    excerpt: "Senate Minority Leader Chuck Schumer said that Democrats are prepared to pass President Biden's nearly $4 trillion tax and spending plans — with or without Republican support."
+    publishedDateTime: 2021-04-30T16:11:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vzZqtoBAz0g/schumer-dems-go-it-alone-biden-tax-spending-proposal"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-dems-go-it-alone-biden-tax-spending-proposal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-dems-go-it-alone-biden-tax-spending-proposal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d73a75c1-a37c-4024-867d-7b6cc6c3c793/2b245f1b-2d1e-467f-8de6-980b4357b30d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Democrats pushing Biden to propose permanent extension of unemployment benefits"
     excerpt: "Democrats on the Hill are pushing President Biden to propose permanently expanding unemployment benefits just as governments did for the duration of the pandemic. "
