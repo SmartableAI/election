@@ -48,22 +48,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "GOP Leaders Clash on Trump at Annual Retreat"
-    excerpt: "Republicans hope to take back control of Congress in midterms."
-    publishedDateTime: 2021-04-28T00:48:00Z
-    webUrl: "https://www.wsj.com/articles/gop-leaders-clash-on-trump-at-annual-retreat-11619563002"
-    ampWebUrl: "https://www.wsj.com/amp/articles/gop-leaders-clash-on-trump-at-annual-retreat-11619563002"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/gop-leaders-clash-on-trump-at-annual-retreat-11619563002"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-330686/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Trump loses bid to get out of testifying in protester lawsuit"
     excerpt: "Former President Donald Trump can’t get out of testifying in a lawsuit brought by a group of protesters — since he’s no longer in office, an appeals court ruled Tuesday. Trump"
     publishedDateTime: 2021-04-27T20:40:00Z

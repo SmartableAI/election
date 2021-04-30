@@ -61,6 +61,22 @@ related:
         width: 1440
         height: 952
         isCached: true
+  - title: "President Trump fires FBI Director James Comey"
+    excerpt: "President Trump has fired FBI Director James Comey, which is only the second time an FBI director has been fired. CBSN contributor and Time politcal reporter Zeke Miller spoke with CBSN about Comey's dismissal."
+    publishedDateTime: 2021-04-30T21:54:00Z
+    webUrl: "https://www.cbsnews.com/video/president-trump-fires-fbi-director-james-comey-1/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/president-trump-fires-fbi-director-james-comey-1/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-trump-fires-fbi-director-james-comey-1/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/b375bccc-a264-4c3b-ba0a-9230d2206ffe/thumbnail/1200x630/ef4b250acb1ae3e7891c9eedf19255c9/0509-cbsn-vhd-1312519-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mike Lindell told Kimmel he still speaks to Trump once a month – most recently about Trump's border fears"
     excerpt: "MyPillow CEO Mike Lindell told Jimmy Kimmel he spoke to Donald Trump a few weeks ago. Trump was \"worried about what was going down at the border.\""
     publishedDateTime: 2021-04-29T12:58:00Z

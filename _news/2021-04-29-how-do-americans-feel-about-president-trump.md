@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/how-do-americans-feel-about-presid
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/how-do-americans-feel-about-president-trump-1/"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X2D2YIVJNAI6XKFHL5C53TPTMQ.jpg&w=1440"
         width: 1440
         height: 952
+        isCached: true
+  - title: "President Trump fires FBI Director James Comey"
+    excerpt: "President Trump has fired FBI Director James Comey, which is only the second time an FBI director has been fired. CBSN contributor and Time politcal reporter Zeke Miller spoke with CBSN about Comey's dismissal."
+    publishedDateTime: 2021-04-30T21:54:00Z
+    webUrl: "https://www.cbsnews.com/video/president-trump-fires-fbi-director-james-comey-1/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/president-trump-fires-fbi-director-james-comey-1/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-trump-fires-fbi-director-james-comey-1/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/b375bccc-a264-4c3b-ba0a-9230d2206ffe/thumbnail/1200x630/ef4b250acb1ae3e7891c9eedf19255c9/0509-cbsn-vhd-1312519-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Former President Trump criticizes FBI search of Rudy Giuliani's home and office"
     excerpt: "Former President Donald Trump spoke out against the investigation into his personal attorney, Rudy Giuliani, after the FBI executed a search warrant at Giuliani's home and office as part of the probe into Giuliani's dealings with Ukraine."

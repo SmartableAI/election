@@ -408,6 +408,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden restricts travel from India amid surge"
+    excerpt: "Posted . This video contains graphic content. U.S. President Joe Biden imposes new travel restrictions on India starting"
+    publishedDateTime: 2021-04-30T21:47:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPJVg?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/608c7106e4b085d3b6c327f6-1619816710091?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Praise for Trump, attacks on Biden, silence on Jan. 6: Mike Pence makes first speech since leaving office in pivotal SC"
     excerpt: "Pence did not discuss his own presidential ambitions during a 30-minute speech, spending more time talking about GOP efforts to re-take Congress"
     publishedDateTime: 2021-04-30T01:26:00Z
@@ -477,6 +491,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 42
+  - title: "Pentagon to Cancel Trump Border Wall Projects Using Military Funds"
+    excerpt: "The Pentagon on Friday said it was cancelling the construction of parts of former President Donald Trump's border wall with Mexico that were being built using military funds, with all the unobligated money being returned to military."
+    publishedDateTime: 2021-04-30T20:39:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-04-30/pentagon-to-cancel-trump-border-wall-projects-using-military-funds"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "iZ7bcsUxCY7B+s9UGOD6O9BvepPv8SH7XvekiMzJ08aF79jwHWM8GlRzxfz2jTA7dsNQTCefS5jc8jKdoBfv2rqmwNaeB+VPV9MwarMfYuiOA+S/EGesrPoyMmuuDW/gB2aM6sHh7FCYlLn1FYWB803KzlzjbXGsRyBdEMpq9ci7JWXbBvaegbjLVeRDpFPRuLmZiYmoaw2N7NYQk1/2gmvo5B4XTBJXo/BpAGcJZ6WNtDMuHaUOsCbDBG+sfZAoZNKNh1wU6wRmxHpAXecA7em9zK+rZLbIlXaX7k+y3hgxwrFReIFaBuZgA/y+tfU/P8bNI35l3+a9z0hm3kfChYyzeVF58DfOITGXje2OvEJtN4huhv/c5FPRWJaVd7D4ZnxtzFtQYSQ0iHjSxzGe7yRrWUVf6cPGWIFhEjPJEQHeUgkUKOgUuvVZcT1iORkJ3x3JZCp/PEw0GC+dc/M7qAVPzOif+zwZPvkoUmLQOFwHaDbFaY8FKa8++rduJWHQY5tIFVWpPmnzclUHzII8Lw==;IpjXL+U2ZMM0dOrxxkAYuQ=="
 ---

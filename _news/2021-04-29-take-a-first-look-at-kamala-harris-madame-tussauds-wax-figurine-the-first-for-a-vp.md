@@ -133,6 +133,17 @@ related:
         width: 1024
         height: 656
         isCached: true
+  - title: "Kamala Harris to give Naval Academy commissioning address"
+    excerpt: "Vice President Kamala Harris will deliver the keynote address at the Naval Academy's commissioning ceremony, a White House official told a Maryland news outlet Friday. Harris is expected to give the speech May 28 during the in-person,"
+    publishedDateTime: 2021-04-30T20:56:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 55
 
 secured: "aRz9ddXtA+TSDMwflsdUoLfpnqN/qOScyuB5pG0J5WJlpJFnTwwf9wKl249sFWTMWvXTIr9gcvQaRdC2hpK4w1S9YIsUIxkf/x+FOHfDQRoSvO+AiWG2qnrH+qnADCXHbcmV+/QKlEdtJCn0VAonWQhbpN0WLH8W2zpcIICzcABs9DpuLLU+85w8kKqMqxp0nhFMwiVow/gsx7OpP7zP7nguHCqJBvjb9lWZrdj7fbSpQ1VxzsT2LE6gYYnDfK9V7Zv1PTXcbyL87i/Q9h3ZGp3il0B9gEsCshbVKZIJharWdAQElt0YolTWUyNMaEpcZy+vXc8Kd20fqrHravgX1yBO2Fqzk5ZN8GuLFbAxQTbxjdIHHLzzlFLM/+ETf63Zfuk2F5JRTPdupOnM530h+GUWQjvScIqlQtlY/ryWJlOoHtDwYJletraQgbNrYt4NDXqnJAF3LRjIoqKigXx0SaCjm6mmJoIQaGiXwIlLKEcA/pk2WJN2705Tz9VEow/+UKOXY2PDU+/F2MhcG8a9dg==;ykkqQe7loYwyprtxQjCazw=="
 ---

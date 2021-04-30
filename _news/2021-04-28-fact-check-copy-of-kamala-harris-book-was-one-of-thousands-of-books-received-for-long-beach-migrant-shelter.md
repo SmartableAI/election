@@ -123,6 +123,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris to give Naval Academy commissioning address"
+    excerpt: "Vice President Kamala Harris will deliver the keynote address at the Naval Academy's commissioning ceremony, a White House official told a Maryland news outlet Friday. Harris is expected to give the speech May 28 during the in-person,"
+    publishedDateTime: 2021-04-30T20:56:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 55
   - title: "Take a first look at Kamala Harris’ Madame Tussauds wax figurine — the first for a VP"
     excerpt: "Vice President Kamala Harris will make history once again as she becomes the first vice president to get their own wax figure from world-renowned museum Madame Tussauds."
     publishedDateTime: 2021-04-28T18:18:00Z

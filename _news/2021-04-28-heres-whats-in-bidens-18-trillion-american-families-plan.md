@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/index.html"
 type: article
 quality: 175
-heat: 595
+heat: 615
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427134035-01-play-button-tim-scott-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden uses his long history with Amtrak to put a personal touch on infrastructure push"
+    excerpt: "President Joe Biden on Friday pitched his infrastructure proposal's investments in American railroads from a venue that no doubt felt very familiar to him: an Amtrak platform in Philadelphia.\n    \n"
+    publishedDateTime: 2021-04-30T20:35:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ESN4cvgvt8U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/amtrak-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/amtrak-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210430154612-02-biden-amtrak-0430-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

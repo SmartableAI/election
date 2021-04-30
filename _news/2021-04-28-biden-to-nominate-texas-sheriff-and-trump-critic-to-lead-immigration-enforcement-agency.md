@@ -408,6 +408,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden restricts travel from India amid surge"
+    excerpt: "Posted . This video contains graphic content. U.S. President Joe Biden imposes new travel restrictions on India starting"
+    publishedDateTime: 2021-04-30T21:47:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPJVg?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/608c7106e4b085d3b6c327f6-1619816710091?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Praise for Trump, attacks on Biden, silence on Jan. 6: Mike Pence makes first speech since leaving office in pivotal SC"
     excerpt: "Pence did not discuss his own presidential ambitions during a 30-minute speech, spending more time talking about GOP efforts to re-take Congress"
     publishedDateTime: 2021-04-30T01:26:00Z
@@ -472,6 +486,15 @@ related:
     excerpt: "Congressional Democrats are taking action to reinstate regulations designed to limit potent greenhouse gas emissions from oil and gas fields."
     publishedDateTime: 2021-04-28T18:57:00Z
     webUrl: "https://www.usnews.com/news/business/articles/2021-04-28/democrats-move-to-reinstate-methane-rules-loosened-by-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Pentagon to Cancel Trump Border Wall Projects Using Military Funds"
+    excerpt: "The Pentagon on Friday said it was cancelling the construction of parts of former President Donald Trump's border wall with Mexico that were being built using military funds, with all the unobligated money being returned to military."
+    publishedDateTime: 2021-04-30T20:39:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-04-30/pentagon-to-cancel-trump-border-wall-projects-using-military-funds"
     type: article
     provider:
       name: U.S. News & World Report

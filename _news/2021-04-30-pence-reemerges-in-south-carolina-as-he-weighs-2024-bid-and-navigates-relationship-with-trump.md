@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/pence-south-carolina/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/pence-south-carolina/index.html"
 type: article
 quality: 189
-heat: 249
+heat: 269
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
     quality: 149
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429101221-01-pence-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "UV lights, cars with Trump bumper stickers and a lack of transparency illustrate ongoing GOP-driven ballot review in Arizona"
+    excerpt: "At the Arizona State Fairgrounds in Phoenix, workers line up in their cars to check in with uniformed security. As each car files into the fairgrounds, they park next to the \"Crazy Times Carnival,\" complete with the familiar sights of summer — a Ferris wheel, funnel cake and balloon games.\n    \n"
+    publishedDateTime: 2021-04-30T21:49:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RMhyJadYx0E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/arizona-ballot-audit-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/arizona-ballot-audit-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 148
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210423211112-01-arizona-audit-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

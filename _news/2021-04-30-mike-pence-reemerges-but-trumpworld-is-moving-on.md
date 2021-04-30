@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "UV lights, cars with Trump bumper stickers and a lack of transparency illustrate ongoing GOP-driven ballot review in Arizona"
+    excerpt: "At the Arizona State Fairgrounds in Phoenix, workers line up in their cars to check in with uniformed security. As each car files into the fairgrounds, they park next to the \"Crazy Times Carnival,\" complete with the familiar sights of summer — a Ferris wheel, funnel cake and balloon games.\n    \n"
+    publishedDateTime: 2021-04-30T21:49:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RMhyJadYx0E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/arizona-ballot-audit-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/arizona-ballot-audit-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 148
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210423211112-01-arizona-audit-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "yzY1tY1ADeOJJ339Tr7/g/gYFmpaDFLVdr6c4sO9FAxmi10iytulv+6TmPxsiyc1k6Nt9Xes5kHYeoE3Uv4m9dS6twZyqPgoD7L19bySGdOqiSNol+E2reSs0MHk6AlmJS5srITz8znYJMkMMm7LBkVHih6w0FeBTz0ESKzUtfq1mkiRk/K91nQQEbhYCodNgu+22vpRkH+eKAevI2gH3w4G9rUY3ygF5ehh4WuAGuZ6KD3o4Nx+XdMbjCpmCi2uJZfgM7gxUJJml4IGtCYRjXAzyGQs6XC7CRiVZqin1OVPDZ6Dk7a0jYXGXiODPI2ZmS9nkHro00bf6kIL/e3xt/PMzBvWfHwpQSpEqXj2fdkaE/5yzUg6WZmACQauNiFTeYsDECXEOWt6YXXoIU9zU2hNi704v5bbQp1h/rzYVqklX9/CdgT5hHYM3jiaZQupiUer+8O5OGT3xPcJh0KWv4M7l4jeFRbzG6ewL7ubcDA3M/dj/vFCCWqr2+wmdi3aOy2Mqgc5/WXdhC5jdqDbtA==;lCZEhePQmoJo6N6f65UXJw=="
 ---
