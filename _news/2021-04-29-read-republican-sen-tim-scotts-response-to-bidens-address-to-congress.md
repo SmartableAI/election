@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration to restrict travel from India starting Tuesday"
+    excerpt: "The Biden administration will restrict travel from India starting on Tuesday on the advice of the US Centers for Disease Control and Prevention, a White House official told CNN.\n    \n"
+    publishedDateTime: 2021-04-30T19:08:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y7nLMURmpHo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/us-india-travel-restrictions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/us-india-travel-restrictions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210430011826-india-covid-0429-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Majority of Americans approve of Biden and his priorities in first 100 days"
     excerpt: "On the cusp of the 100-day mark of Joe Biden's presidency, a new CNN Poll conducted by SSRS finds 53% of Americans approve of the way he is handling the job and say he has had the right priorities, and 59% say he is doing a good job keeping his campaign promises.\n    \n"
     publishedDateTime: 2021-04-28T11:30:00Z

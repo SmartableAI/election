@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/mike-pence-president-republican-pa
 webUrl: "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4"
 type: article
 quality: 111
-heat: 131
+heat: 151
 published: true
 
 provider:
@@ -44,6 +44,17 @@ related:
         width: 946
         height: 630
         isCached: true
+  - title: "Special Report: How Trump Scored a Big Tax Break for Conserving a Golf Range"
+    excerpt: "Trump eventually abandoned a plan to build 16 homes and turned instead to the tax code to offset the lost profits - securing a $25 million tax deduction in exchange for a promise not to develop the land."
+    publishedDateTime: 2021-04-30T12:06:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 52
 
 secured: "I6bnJUYBtvtVjo7rfRZwUYzs9JYHn1BVHnCkxUQz6qwMXMf+DaVOQWOZ7Q8M2hVVDzlYEgQX7xvyJwdcFCtufjqeQWChHxBaF0udBagifkab3pT+v6CCurYJ9si8ozOW0tXDbGZxMAPx9VZT8k5+j8MRTRHVsgE9kscrq49L8S71bke2knbeG4XYGjhgc0ZfjjBvsbCY+QYxXH7DQ/Ge8yTdP6lsPvOOnUVHaQ7HHQ2uXx6nmpEqmi/4lbjubCZr1yVPCHJRu4TJCo59FwX2jkLOajFZgpvPpt/nqdWOb71C7PrKLTEa8dioUlTHLOrziDHS3SlGYePF4tPWy3GrbOfRBT/6F5gyIukWHxfrBwM5qLErCAIwAfwmDhoW28si2xQO9z1ipwJ4hGY1tWS+332pytYDsMTDISehkYOfYHBflpKtmJazQwVLmGT8El8zi4/6VCPHnuhrpbMVPvyX/Qmn+SPGtJe0PVBm0XVJLG/jV0O5k6za4CxUqxtXm7WPfPMAAN1z40QI12WDtWhWyA==;auMbA1FszTwT4XO/+9npJg=="
 ---

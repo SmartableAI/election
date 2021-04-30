@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/index.html"
 type: article
 quality: 175
-heat: 575
+heat: 595
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration to restrict travel from India starting Tuesday"
+    excerpt: "The Biden administration will restrict travel from India starting on Tuesday on the advice of the US Centers for Disease Control and Prevention, a White House official told CNN.\n    \n"
+    publishedDateTime: 2021-04-30T19:08:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y7nLMURmpHo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/us-india-travel-restrictions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/us-india-travel-restrictions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210430011826-india-covid-0429-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Read Republican Sen. Tim Scott's response to Biden's address to Congress"
     excerpt: "South Carolina Sen. Tim Scott delivered the Republican response to President Joe Biden's address to Congress Wednesday night. Read his remarks as prepared for delivery:\n    \n"
     publishedDateTime: 2021-04-29T02:51:06Z

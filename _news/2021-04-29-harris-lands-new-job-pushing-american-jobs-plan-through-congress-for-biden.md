@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-lands-new-job-pushing-americ
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden.amp"
 type: article
 quality: 198
-heat: 498
+heat: 518
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3eabcf86-60bd-46d5-80b5-a8276bcc0a72/af664b23-6b18-4678-9ab3-bc0559005cef/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Ted Cruz: Corporate America trying to 'punish' anyone who disagrees with Biden agenda"
+    excerpt: "EXCUSIVE: Sen. Ted Cruz says corporate America is trying to use its \"economic power\" to \"punish\" anyone who disagrees with President Biden’s agenda, warning that corporations are \"playing with fire\" by wading into politics."
+    publishedDateTime: 2021-04-30T18:52:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/83OT3H0w3ys/ted-cruz-pac-donations-2024-biden-agenda-corporate-america"
+    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-pac-donations-2024-biden-agenda-corporate-america.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-pac-donations-2024-biden-agenda-corporate-america.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden says, 'I don't think the American people are racist,' despite finding 'systemic racism'"
     excerpt: "President Biden reiterated his call for the United States to combat systemic racism through policy initiatives on Thursday in his first public response to remarks made by Republican Sen. Tim Scott of South Carolina."

@@ -298,6 +298,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden bans travel from India amid COVID surge"
+    excerpt: "The Biden administration has upgraded its travel advisory for India to an outright ban as the COVID-19 crisis in the country continues to spiral out of control -- something President Biden once said would \"not stop\" coronavirus."
+    publishedDateTime: 2021-04-30T19:18:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JG1F7uhWWi0/biden-bans-travel-india-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-bans-travel-india-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bans-travel-india-covid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c44268f-db8b-4fde-9331-436aa43da2a3/e7cf35fa-4c97-486d-9d42-c658d87e451e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden says Stacey Abrams could be president if 'she wants'"
     excerpt: "President Biden on Thursday said Georgia voting rights activist Stacey Abrams could be president if she wanted to, amid suspicions that she will once again run for governor in the state."
     publishedDateTime: 2021-04-30T00:45:45Z
@@ -327,6 +343,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6fed55c8-3f12-40d5-8176-35dd3e4620b7/730883fe-3197-4faa-8727-5b452c2df2ce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Flashback: Joe Biden, in 2014 speech, spoke of a 'crisis' at the border"
+    excerpt: "In a 2014 speech, then-Vice President Joe Biden spoke repeatedly of a \"crisis\" at the border -- a contrast to the current Biden White House’s reluctance to describe a much larger surge as such, instead referring to it as a \"challenge.\""
+    publishedDateTime: 2021-04-30T18:24:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9VZZV3MECs4/flashback-joe-biden-2014-speech-crisis-border"
+    ampWebUrl: "https://www.foxnews.com/politics/flashback-joe-biden-2014-speech-crisis-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-joe-biden-2014-speech-crisis-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a5345c5d-bc23-41f8-a066-30aad458c0fc/18dbbb07-8562-4713-a4c1-fca51938406e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -775,6 +807,22 @@ related:
     quality: 163
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15720e17-baee-4a97-b21d-8a0a34cc5ec1/b51c05bd-8c94-4815-9b5c-dae5c0ef3d73/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Hunter Biden still owns stake in Chinese firm 100 days into father's presidency, documents show"
+    excerpt: "President Biden's son, Hunter Biden, still owns a stake in a Chinese private equity firm 100 days into his father’s presidency after the president pledged to prohibit family members from engaging in international business dealings, according to financial documents."
+    publishedDateTime: 2021-04-30T18:59:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/64YOsE1eKTA/joe-biden-hunter-chinese-firm-investment-100-days"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-hunter-chinese-firm-investment-100-days.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-hunter-chinese-firm-investment-100-days.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62b39216-53a9-43e7-9d65-6049d4f3e31b/520e8f10-6760-411c-bf3d-cb9c7a749ea2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

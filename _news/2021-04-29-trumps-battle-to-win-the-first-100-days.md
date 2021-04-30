@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fractures in GOP on full display as Cheney faces renewed criticism for bucking Trump and disagreeing with McCarthy in public"
+    excerpt: "House Conference Chairwoman Rep. Liz Cheney is once again facing the ire of her colleagues and GOP voters, laying bare the ongoing and internal divisions within the GOP about how Republicans should move forward in the wake of former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-04-30T17:58:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ACKQE6oxmLc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/liz-cheney-republican-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/liz-cheney-republican-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 148
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205160111-01-liz-cheney-0203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Court Could Consider Whether Trump Interfered in Cloud Computing Contract"
     excerpt: "The decision could be a win for Amazon, which said it was passed over for the $10 billion Pentagon contract because of his animosity toward its founder, Jeff Bezos."
     publishedDateTime: 2021-04-28T20:35:00Z

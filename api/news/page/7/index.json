@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-18-blinken-says-it-will-be-very-hard-to-meet-bidens-pledge-to-resettle-62000-refugees.md",
+      "title": "Blinken says it will be 'very hard to meet' Biden's pledge to resettle 62,000 refugees",
+      "excerpt": "Secretary of State Antony Blinken on Sunday said it will be \"very hard to meet\" President Biden's pledge to resettle 62,000 refugees by the end of the fiscal year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jKS9gTYBmRU/blinken-says-it-will-be-very-hard-to-meet-bidens-pledge-to-resettle-62000-refugees",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jKS9gTYBmRU/blinken-says-it-will-be-very-hard-to-meet-bidens-pledge-to-resettle-62000-refugees",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21035689362211.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/blinken-says-it-will-be-very-hard-to-meet-bidens-pledge-to-resettle-62000-refugees.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blinken-says-it-will-be-very-hard-to-meet-bidens-pledge-to-resettle-62000-refugees.amp",
+      "publishedDateTime": "2021-04-18T09:22:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-18-gop-white-house-hopefuls-move-forward-as-trump-considers-run.md",
       "title": "GOP White House hopefuls move forward as Trump considers run",
       "excerpt": "Donald Trump ended his presidency with such a firm grip on Republican voters that party leaders fretted he would freeze the field of potential 2024 candidates and delay their preparations as he consid",
@@ -1323,58 +1379,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-mike-pence-undergoes-surgery-to-have-pacemaker-implanted.md",
-      "title": "Mike Pence undergoes surgery to have pacemaker implanted",
-      "excerpt": "\"The routine surgery was successful, and he is expected to fully recover and return to normal activity in the coming days,\" Pence's office said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/mike-pence-pacemaker-implant-surgery/",
-      "originalUrl": "https://www.cbsnews.com/news/mike-pence-pacemaker-implant-surgery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/13/3d46e6fa-c74e-41cc-be16-96e683b81c3e/thumbnail/1200x630/6416c4237a17d28bc745050913d7d613/gettyimages-1230408840.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/mike-pence-pacemaker-implant-surgery/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-pacemaker-implant-surgery/",
-      "publishedDateTime": "2021-04-16T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],
