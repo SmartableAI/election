@@ -1173,17 +1173,6 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 55
-  - title: "New York Post reporter who wrote false Kamala Harris story resigns"
-    excerpt: "The rise and collapse of the tabloid’s false accusations about the vice president illustrated the speed at which political misinformation can be weaponized in the modern media environment. The New York Post later issued brief corrections."
-    publishedDateTime: 2021-04-28T13:42:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/new-york-post-reporter-who-wrote-false-kamala-harris-story-resigns/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/new-york-post-reporter-who-wrote-false-kamala-harris-story-resigns/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/new-york-post-reporter-who-wrote-false-kamala-harris-story-resigns/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
   - title: "Vice President Kamala Harris Meets With Guatemalan Ambassador"
     excerpt: "U.S. Vice President Kamala Harris speaks during a virtual roundtable with representatives from Guatemalan community-based organizations in the Eisenhower Executive Office Building in Washington, DC on Tuesday,"
     publishedDateTime: 2021-04-27T23:42:00Z
@@ -1251,6 +1240,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "kdYbb5n3Vvfc8kzlxoY/ZhhYS6D2aWKa5gVS58ZVVpJYv4YRoFL5u4fHvP/x2CP06ku+/2XGFzgNhWZYXB8kTXIJ9/TkOBAh8+qPt+eMfCRazPAdOoYTsk8rVa8kAEFtJZPz3t/Z8XVVlA7fxP9lqjE3Ym9L2n99tQn9iUGdASTFdB62A/vTsyVXy3L7GjEYasDRwp3O/Sq4f3eRKiDdspEy5AGrZkR+hq8Bp5R65ZAUGpwM4QXj7ZMNqYE5W9zcHAyjnN+8Nqfr7/piSXi/uZAXnVetT3pyvWqLzBeZCevHryA+10BOQqXJHq0Xae1kUk+YImDR6SgaUYRB1iGurI83M9Y5AmKVCdtJWSLtQGw=;sKWT6EAPRHyF8yLqhvl8xQ=="
+secured: "SMMwLdefIkiRbK5ViNygBgRfwQ0n4vNVuOWzynjUw+kncG0hl+TTadgB2QSCeLVrgTaUI9cvgBswIe9+VqePOQfzEyBuVfKz5jvC7/hxu1N9CvGvx837d0LJ6R177WYao2P5hOOoSByXIU/zlL/EYjOI8JdODYsrLDDW0NNC4w7pLZGLZ5zufleP61kq4uCl9OpooMoSB2uCCax4ZC3CiAVVgnNMGpdBtUMx9c6Bivd2xygjScjknac9/U1GJhtIahrJF0PjqFsl2cSKiaOi42dOdho2slcP1v+VhWaDQCibo7Ijtpcol2U6ctmLnvjlakxeGq0MOKfFKH35hyXnNqdcDDJ/lxh1YA0G3UOjYFZe9ldvE72q/CYCpgWAI2od1EImD4BMiachz4Y4swMURKOyJhj1JaiKutPPFOcZA5jUslb9Fn+SCFk/kgFTIa7mMyk3hY/5OZb6VFINv/mJ/5G1wQlcEqCHAGMvxwt52JqCismCpRw80VG7GAFKSjgLX+82u4O/EuewXDBMigW+2Q==;XoaH1he3DJ5f5yXgqmFTLA=="
 ---
 

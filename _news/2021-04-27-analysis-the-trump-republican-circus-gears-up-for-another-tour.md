@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald-trump/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421190715-department-of-justice-ransomware-file-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Biden's first 100 days, by the numbers"
+    excerpt: "President Joe Biden marks his first 100 days in office on Thursday. Let's run the numbers on that milestone:\n    \n"
+    publishedDateTime: 2021-04-29T22:30:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hsFjPoCXdpM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/biden-100-days-by-the-numbers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/biden-100-days-by-the-numbers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428215609-20210428-biden-joint-speech-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

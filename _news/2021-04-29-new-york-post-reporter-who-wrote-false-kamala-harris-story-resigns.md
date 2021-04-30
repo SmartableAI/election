@@ -1173,17 +1173,6 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 55
-  - title: "New York Post reporter who wrote false Kamala Harris story resigns"
-    excerpt: "The rise and collapse of the tabloid’s false accusations about the vice president illustrated the speed at which political misinformation can be weaponized in the modern media environment. The New York Post later issued brief corrections."
-    publishedDateTime: 2021-04-28T13:42:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/new-york-post-reporter-who-wrote-false-kamala-harris-story-resigns/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/new-york-post-reporter-who-wrote-false-kamala-harris-story-resigns/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/new-york-post-reporter-who-wrote-false-kamala-harris-story-resigns/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
   - title: "Vice President Kamala Harris Meets With Guatemalan Ambassador"
     excerpt: "U.S. Vice President Kamala Harris speaks during a virtual roundtable with representatives from Guatemalan community-based organizations in the Eisenhower Executive Office Building in Washington, DC on Tuesday,"
     publishedDateTime: 2021-04-27T23:42:00Z

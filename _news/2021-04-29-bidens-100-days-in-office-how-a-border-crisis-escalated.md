@@ -191,6 +191,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden viewed less positively than police: poll"
+    excerpt: "A new survey published Thursday shows Biden trailing behind law enforcement in popularity by almost ten points, securing the number two spot on the list above the Democratic Party and Major League Baseball."
+    publishedDateTime: 2021-04-29T23:11:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c4KXxNVq-7A/biden-approval-rating-poll-police-more-popular"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-rating-poll-police-more-popular.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-poll-police-more-popular.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/445a55f5-bbd0-4330-9a25-3af445ea5036/6651e62b-3f87-4879-8562-9053f3dea065/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden’s bipartisan bid: President fist bumps Cheney"
     excerpt: "Even before President Biden made a pitch for national unity in his prime-time address to a joint-session of Congress on Wednesday night, he took a jab at bipartisanship."
     publishedDateTime: 2021-04-29T03:29:41Z

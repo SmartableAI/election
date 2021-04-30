@@ -96,6 +96,22 @@ related:
         width: 4371
         height: 2912
         isCached: true
+  - title: "Twitter’s revenue jumps 28 percent in its first post-Trump quarter."
+    excerpt: "Twitter’s permanent ban of former President Donald J. Trump did not appear to hurt activity. The company saw a 20 percent jump in daily active users who see ads in the first three months of the year."
+    publishedDateTime: 2021-04-29T20:05:00Z
+    webUrl: "https://www.nytimes.com/2021/04/29/business/twitter-growth-trump-ban.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/29/business/twitter-growth-trump-ban.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/29/business/twitter-growth-trump-ban.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/29/business/29econ-brf-twitter/merlin_185400969_6e091f12-3465-4839-b22d-abacd0f6ea8b-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Court Could Consider Whether Trump Interfered in Cloud Computing Contract"
     excerpt: "The decision could be a win for Amazon, which said it was passed over for the $10 billion Pentagon contract because of his animosity toward its founder, Jeff Bezos."
     publishedDateTime: 2021-04-28T20:35:00Z

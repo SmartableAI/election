@@ -496,6 +496,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "New York Post Reporter Who Wrote False Kamala Harris Story Resigns"
+    excerpt: "The front-page article in the Murdoch tabloid claimed that copies of a children’s book by the vice president were given to migrant children as part of a “welcome kit.”"
+    publishedDateTime: 2021-04-28T11:58:00Z
+    webUrl: "https://www.nytimes.com/2021/04/27/business/media/new-york-post-kamala-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/27/business/media/new-york-post-kamala-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/27/business/media/new-york-post-kamala-harris.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/27/us/27nypost-new/27nypost-new-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "The misunderstood first 100 days of Kamala Harris"
     excerpt: "One hundred days into her historic turn as vice president, Kamala Harris remains a largely misunderstood figure. Rather than the cautious and overly ambitious pol she’s portrayed to be, interviews with more than a dozen current and former aides and others in Harris’ orbit paint a picture of a veep who remains intensely focused on earning the trust of Joe Biden,"
     publishedDateTime: 2021-04-29T08:30:00Z
