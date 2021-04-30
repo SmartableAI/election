@@ -77,6 +77,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Key piece of Biden's $1.8T families plan expires after 2025"
+    excerpt: "President Joe Biden couldn’t get everything he wanted into his own $1.8 trillion families plan WASHINGTON -- President Joe Democratic lawmakers are pushing hard to make the credit a permanent policy,"
+    publishedDateTime: 2021-04-30T08:30:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/key-piece-bidens-18t-families-plan-expires-2025-77415251"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ecac508999c04df1acd389672e6982b3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Connecticut Republicans say President Joe Biden’s sweeping plans would spend too much, too quickly"
     excerpt: "As Democrats coalesce around President Joe Biden’s sweeping plans, Republicans in Connecticut and elsewhere say they think the president is spending too much too quickly."
     publishedDateTime: 2021-04-29T17:25:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/lindsey-graham-announces-contest-where-winn
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-announces-contest-where-winner-gets-golf-trump-him-1586971?amp=1"
 type: article
 quality: 122
-heat: 162
+heat: 142
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210428&i=OVEAFZ9B3&r=OVEAFZ9B3&t=2"
         width: 960
         height: 540
-        isCached: true
-  - title: "Mike Lindell told Kimmel he still speaks to Trump once a month – most recently about Trump's border fears"
-    excerpt: "MyPillow CEO Mike Lindell told Jimmy Kimmel he spoke to Donald Trump a few weeks ago. Trump was \"worried about what was going down at the border.\""
-    publishedDateTime: 2021-04-29T12:58:00Z
-    webUrl: "https://www.businessinsider.com/mike-lindell-jimmy-kimmel-donald-trump-once-month-mexico-border-2021-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
-    images:
-      - url: "https://i.insider.com/608a6ca235c46f0018c0b2d5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "kKQOVW8vI0H0gUiZmfZY2/9tbYSURjwlSHK9WfXYOk2cHT+X0B7owwJ68BL3RG9fFRjFuNhfI/l5eaqQj6oY6YpY4eF7lcurDrwusYaFP69cpa+WTorE9y4k3qSN+KqZ/Tz//vACKEU8a0HVMNQdOruWN/3I0M1M27JtHlWmVrWe+/oEv0hGf0/ukFzEJIaQbmZuHdHTZKn4lCgw8U8DQJlDo7ZFHQaFCdqEgcG7s49MFYYz2h4APwkaOys1KiEnJyyJhB+jYdzawDge2WlCFvHStYGyye6p7yp7yEX5kQ5R2UqxSVHrvUorFoZ6e2Q3zh4XontCHh+rgwLKjt6u5We+fCqSrOMkiApatIXcERs=;ikAclQumGqhYhl6rpS+mUg=="

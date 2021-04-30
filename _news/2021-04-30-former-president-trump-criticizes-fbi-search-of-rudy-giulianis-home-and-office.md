@@ -29,22 +29,45 @@ images:
     isCached: true
 
 related:
-  - title: "‘A great patriot’: Trump defends Giuliani after federal agents raid home and office"
-    excerpt: "Investigators execute search warrants at Rudy Giuliani’s Manhattan residence and office as part of Ukraine investigation"
-    publishedDateTime: 2021-04-29T12:47:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office"
+  - title: "How do Americans feel about President Trump?"
+    excerpt: "CBS News, along with YouGov, has tracked Americans' views on President Trump and his administration since he was sworn into office. CBS News elections director Anthony Salvanto joins CBSN with details on the latest poll."
+    publishedDateTime: 2021-04-29T01:11:00Z
+    webUrl: "https://www.cbsnews.com/video/how-do-americans-feel-about-president-trump-1/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/how-do-americans-feel-about-president-trump-1/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/how-do-americans-feel-about-president-trump-1/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/a7ca6fc53b3d122e1c03ee50ff448fe52a299bd4/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d2e04564148c3da82d80b9ca8d6f2b9"
-        width: 600
-        height: 360
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/a98694a2-87f8-43e5-851e-360553f9af2c/thumbnail/1200x630/886cfd09670491d318fc691ecc5dedc9/cbsn-0227-mikekellypanel-1273084-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Mike Lindell told Kimmel he still speaks to Trump once a month – most recently about Trump's border fears"
+    excerpt: "MyPillow CEO Mike Lindell told Jimmy Kimmel he spoke to Donald Trump a few weeks ago. Trump was \"worried about what was going down at the border.\""
+    publishedDateTime: 2021-04-29T12:58:00Z
+    webUrl: "https://www.businessinsider.com/mike-lindell-jimmy-kimmel-donald-trump-once-month-mexico-border-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/608a6ca235c46f0018c0b2d5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Ex-Trump Vice President Pence Makes First Public Appearance Since January"
+    excerpt: "Pence spoke for a half hour in Columbia, South Carolina, to the Palmetto Family Council, a religious conservative group. It was his first speech since he and then-President Donald Trump handed over power to President Joe Biden and Vice President Kamala Harris on Jan."
+    publishedDateTime: 2021-04-30T01:03:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-29/ex-trump-vice-president-pence-makes-first-public-appearance-since-january"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 59
 
 secured: "ZWXOjya1qEkuZUKhCsBjFXSPXwtOGJo6tdjUAVc3t8BiFvRlMozI68F7yMXKKkBMA1gCz7desPlSgbMqiIRLuuSFq5whOjR87WiLLRfjDdmzIXykr4Ibo7ZidhZTDlJ7129lKSAbhQYP+w98qPw/rOeN3P5mXCmVr/d1H1WeeUxPa8jXSa3UJ/Xl7tlgFnp/qE6AjyQPjwcVWlvAPtjEjZExIR2v8bKDPvXGjHbJKwbupqGwfsZHdTmihkzQDeJjgRjNyfq28EcZmTsAuMViwd5QOKGm3GSgfwEj/4R6b4LhEnKChXx7uWV4jPKHmCxuZM3f+rbCWgegoelf1jODm28uXOP/0uiDFvOkxxGh8Rob6+1oodjdPisSTGS644cNr0tf80TH11s/AzCnHFzxTWdjgY+VrXv6ffVfPI2TfQqJyDGFH2DppcmWVytxo5K8ACXtNLdqnMGoANQYvS94bZGAm+Uwzaf47Tfczp8gGl33FE0cMe/FVDduH8dAzwEe8K7SEnLZOSTR4cUI4g7lJA==;gwBtFoqsayFVhrsjqbRXiA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/29/trump-defends-giulia
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office"
 type: article
 quality: 119
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 600
     height: 360
     isCached: true
-
-related:
-  - title: "Former President Trump criticizes FBI search of Rudy Giuliani's home and office"
-    excerpt: "Former President Donald Trump spoke out against the investigation into his personal attorney, Rudy Giuliani, after the FBI executed a search warrant at Giuliani's home and office as part of the probe into Giuliani's dealings with Ukraine."
-    publishedDateTime: 2021-04-29T18:04:00Z
-    webUrl: "https://www.cbsnews.com/video/fbi-search-warrant-rudy-giuliani-home-and-office-donald-trump/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 101
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/29/c4afdc2d-0f1f-4899-8ff4-e9b7b0267106/thumbnail/1200x630/1fa6051efb8457378284d0e57493d5a0/cbsn-fusion-fbi-search-warrant-rudy-giuliani-home-and-office-donald-trump-thumbnail-704183-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "L61jX7ScLfLZdbAMee+UM6+oboDL5TldP/StbsuHL0jHWFzxxYF6jrUexr2TENxMviph5LBOu+wV1VK34ismtxs0Fw2qGqLTJ3lw5aPROiBiKUnGJoJ7rwELn2t04zLBhqAOQ0CBFOTk81cFUvCi/57Gi2hsGaLQyDvX3aT2ixcHKBxPpuhfRmD1CHIrATQpjgKI7cLxcDjrNd8lcLmXN3fmFAppBN9m0Qo0KlTUWw6KJ1OKMmwmYxj+BjMRWS+gWdx3F3HpCXnpa9JMBLDPi35ou10sE/ghzPtLk86Ym2duokbWMErb5s7xHwtgYpUI8xwbvyptNNAbXbKVhN46pNx/TzSRfAOszZQN8qv2wwy0L62OzBBJ/SML5nDYGH7mexpFVOFFv5SnLYVCI7QpcL834hJeyPQ+633jfzWOiU4m5KOwswtMLx0jCtZC5svwCaobHNPOvSsOFgKnNzO5YSRo5KrmpyZGEu472vf+TRE+75dJ1CCxlQCkn/Tu/M82XMmIebzZk9AaqEAAWskbmQ==;tFFhLdqp7/Y/tAK7ipPzZw=="
 ---

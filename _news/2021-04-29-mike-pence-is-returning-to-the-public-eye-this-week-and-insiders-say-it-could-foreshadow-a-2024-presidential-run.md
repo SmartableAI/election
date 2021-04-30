@@ -101,15 +101,6 @@ related:
         width: 847
         height: 423
         isCached: true
-  - title: "Ex-Trump Vice President Pence Makes First Public Appearance Since January"
-    excerpt: "Pence spoke for a half hour in Columbia, South Carolina, to the Palmetto Family Council, a religious conservative group. It was his first speech since he and then-President Donald Trump handed over power to President Joe Biden and Vice President Kamala Harris on Jan."
-    publishedDateTime: 2021-04-30T01:03:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-29/ex-trump-vice-president-pence-makes-first-public-appearance-since-january"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 59
 
 secured: "+XviqLom34JyWS/QLic8nz5QmWmO9yoqdvlqa7+3BkDwnnVk0dnNcqwl12GbMOfOaFs4zv6OOP4N5DQ3in6FNuCd+U7K1Barmju94wamIL3fRYNGNoNdOho0FGTkMfbv8BCg5kdcW5BtW31INdnwmh+nD2Mvu85Uvjt7jvjc+NXQ34YuXMtbbR8uuNnB+CHptPK/+INKNjXNXLXALaVRMKlp72Qy0JRTf107KWPEJ81e/pEtP30tWi5Y6+u5FoHl5pUlK1VmErSfpYvT8nCIlUMMvLmzZzlJhy4Vh+M2L9+I+B2qYC8sAkX6MRIav20P5HJNJ/5Sn874oV6dct2NPWdXxuCNJlVMOBg7f3xcIfgLdZTGcsgTp6iNQBd8CbbzFW8tZDvSbkTFl3lKUR6IYkjohkQmII2flczEMdzXtB/wREJt9gCzOHnu5GA/Qc/PxlklobTioju32WRRymVh/9Rn2u363XGEKL8u4LXSCnSlR73GJmUQe32KvxT56eeIqXF4dLdm841eejH5LqtaUA==;tiEx01Niq8+B17v03/CqcQ=="
 ---

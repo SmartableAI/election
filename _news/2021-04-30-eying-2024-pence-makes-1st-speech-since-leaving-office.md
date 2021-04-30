@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pe
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 225
 published: true
 
 provider:
@@ -101,15 +101,6 @@ related:
         width: 847
         height: 423
         isCached: true
-  - title: "Ex-Trump Vice President Pence Makes First Public Appearance Since January"
-    excerpt: "Pence spoke for a half hour in Columbia, South Carolina, to the Palmetto Family Council, a religious conservative group. It was his first speech since he and then-President Donald Trump handed over power to President Joe Biden and Vice President Kamala Harris on Jan."
-    publishedDateTime: 2021-04-30T01:03:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-29/ex-trump-vice-president-pence-makes-first-public-appearance-since-january"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 59
 
 secured: "m7IBBB2vyN4sZj+ZLxgbAVrzGrZBGfNRHODHb6fxjDRcSVve6lRvIb2fdjuFAo63YzM9Hv18kcTch+WgQxoyJHfiLs+bLp0xQAhZW5Qa8xR5LPuKJj+6zdP94BD+Kwf8mMPmK34iAIKukYUwdzBfcGV46kMpZMnf20S+mrhuxurH++g4cHBgT/u/7SfmjOkt2oOuDimen5S8miopnB6xLPvvDbbE8sSzxX0Jl3uMbyZqj4Z4bB1vBJa7aeJogntt8XGz2+lYdtQsczDVtNlYp2y9WX5VvnEqGqS2IpTXGfp3g1Y5e935vRUrJmDFFIClcdY46R7+XXRSuqTefa++svHseOJOXXUC/ewsCaGGDxWb/W9naSU669krZ5/5KT+VTVywqIvOtulhrjmoXS66VFj3zFg4WBArMr2wCHvqjkH/K/IC8vbZJpJuL/FhXlcEwTNYJt3awrmP3oVgePmi43s4XuC9kMrD+Qh07tq6ziKw/6qlcHT140OpP4lmgAZJ/OkP+/lt19DSzwJdcpiknQ==;UydjQMB7fDVOOp7P5IENIw=="
 ---

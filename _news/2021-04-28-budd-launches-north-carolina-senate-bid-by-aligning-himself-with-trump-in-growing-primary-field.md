@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Mike Pence reemerges. But Trumpworld is moving on."
+    excerpt: "The former VP spoke of the former president as a partner on Thursday night. But that partnership faces a difficult future."
+    publishedDateTime: 2021-04-30T09:54:00Z
+    webUrl: "https://www.politico.com/news/2021/04/30/mike-pence-trump-split-485092"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/30/mike-pence-trump-split-485092"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/30/mike-pence-trump-split-485092"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/c3/38/cfe343894a2e85e2e0b564748a86/4-29-21-mikepence-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Pence reemerges in South Carolina as he weighs 2024 bid and navigates relationship with Trump"
     excerpt: "When Mike Pence underwent heart surgery earlier this month, he had alerted only a few family members and aides beforehand. Several onetime Pence aides were caught off guard when he released a statement that after experiencing \"symptoms associated with a slow heart rate\" for two weeks,"
     publishedDateTime: 2021-04-29T15:00:00Z

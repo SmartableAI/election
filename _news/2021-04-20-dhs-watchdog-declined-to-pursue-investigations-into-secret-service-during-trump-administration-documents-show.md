@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump administration sidelined experts in writing car pollution rules, EPA watchdog finds"
-    excerpt: "The inspector general’s report may give the Biden administration more reason to tighten fuel-economy standards in the fight against global warming."
-    publishedDateTime: 2021-04-21T14:00:00Z
-    webUrl: "https://www.washingtonpost.com/climate-environment/2021/04/21/trump-administration-sidelined-experts-writing-car-pollution-rules-epa-watchdog-finds/"
-    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/04/21/trump-administration-sidelined-experts-writing-car-pollution-rules-epa-watchdog-finds/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/04/21/trump-administration-sidelined-experts-writing-car-pollution-rules-epa-watchdog-finds/?outputType=amp"
+  - title: "AG Merrick Garland rescinds a Trump-era memo curtailing consent decrees in investigations of police departments"
+    excerpt: "The memo comes as the Justice Department shifts its priorities to focus more on civil rights issues, criminal justice overhauls and policing policies."
+    publishedDateTime: 2021-04-16T17:05:00Z
+    webUrl: "https://www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 116
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q6JQL4HM2II6PH4SCCRCAP3MRU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.insider.com/6079c16a44f4540019207203?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "419cx3Uh3HRp1ePIIFcsoOtaNyYDbSkMcygtZcFO9HmECStXMoPCLc2PziiNwB4FD8LH4GvEIoPwIN9EMFdh+fSsMwDVL+qlCG/TooTRTAat8gcHTpo3xaDUvzLKHbtTCUdtYige2cgSmqADlQs3sKwYHTc3bHxslkh3rnXts2G1VF4nOE7dAebPaemzfN3LD5PfP0XLJ5bQhdcXdyH0BygIM/x4p+fT//x86LmrBeQqz0BtDBWr/IUAaDRapYO6HC5eyPqHhYLTdlZ03m+wHnoqNC0fu/7/TVETq5TLTQ6AdQNA+hHiN8xDVFxAmrJUJVDBfM43rgiwRxWWUoyofGc/39EqJuP9qrB9qKI3PPyj0NiC5aNjn0cW4zfyddsaKPKTUdPDypY/i8YWHc6LlB1rg7XKqdvYFSe82w0Im0G7HYUSdoRzKBbi2Oc/owXOxVZQaH+yZy1E6fA4w1QSoFOfydFkwglXnCNDCzepVcIWyXZifOlQqT25f4SpUff8R3CxTJ3RbKRWe7kDi4w2yw==;zDD5pdMd0/m6/HZ7gUeryg=="

@@ -237,6 +237,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden holds car rally in Georgia to mark 100 days in office"
+    excerpt: "President Biden spoke at a drive-in rally in Georgia on Thursday evening to mark his 100th day in office. The rally comes the day after the president outlined his ambitious legislative agenda in his first address before a joint session of Congress."
+    publishedDateTime: 2021-04-29T23:41:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-speech-georgia-100-days-live-stream-today-2021-04-29/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-speech-georgia-100-days-live-stream-today-2021-04-29/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-speech-georgia-100-days-live-stream-today-2021-04-29/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/29/e77dfacb-1c2e-411a-8a81-ed9aacdb4e54/thumbnail/1200x630/a470eebbe7ee0d7d920f5c6092255a08/gettyimages-1232598415.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Proposal to Rename State Park for Donald Trump Panned by Ohio State Agency"
     excerpt: "A proposal to rename an Ohio state park for former President Donald Trump is not supported by Ohio's Department of Natural Resources as the agency defended the park's current name, Mosquito Creek Lake."
     publishedDateTime: 2021-04-22T15:00:00Z
@@ -353,6 +369,22 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f60a9e8f-ca91-4932-8eaf-cc3073f9778f_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Praise for Trump, attacks on Biden, silence on Jan. 6: Mike Pence makes first speech since leaving office in pivotal SC"
+    excerpt: "Pence did not discuss his own presidential ambitions during a 30-minute speech, spending more time talking about GOP efforts to re-take Congress"
+    publishedDateTime: 2021-04-30T01:26:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/04/29/mike-pence-praises-donald-trump-attacks-joe-biden-no-talk-jan-6/7397275002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7397275002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7397275002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 81
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/30/USAT/1ba477c5-e29d-4033-ac66-3e80e563cccb-AP21119858401840.jpg?auto=webp&crop=3937,2215,x0,y198&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "US President Joe Biden to visit UK for first overseas trip"
     excerpt: "The president will come to Cornwall for the G7 summit from 11-13 June, where he will meet with other world leaders, including Prime Minister Boris Johnson."

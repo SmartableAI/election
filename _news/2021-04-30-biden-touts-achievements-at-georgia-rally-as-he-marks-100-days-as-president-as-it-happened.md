@@ -3,8 +3,8 @@ category: news
 title: "Biden touts achievements at Georgia rally as he marks 100 days as president – as it happened"
 excerpt: "End detention now’ – follow live"
 publishedDateTime: 2021-04-29T23:25:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest?page=with:block-608b3b9b8f0874ac774541c8"
-webUrl: "https://www.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest?page=with:block-608b3b9b8f0874ac774541c8"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest?page=with:block-608b14378f08300738403647"
+webUrl: "https://www.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest?page=with:block-608b14378f08300738403647"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
 type: article
@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Biden touts achievements at Georgia rally as he marks 100 days as president – live"
+    excerpt: "End detention now’ – follow live"
+    publishedDateTime: 2021-04-29T22:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest?page=with:block-608b0e4e8f0874ac77453fda"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/a5f0d64f9bd702c44ba50d404f7d894f6e39cc64/0_222_4862_2917/master/4862.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=787b2730ae0133e578be8022776ba688"
+        width: 600
+        height: 360
+        isCached: true
   - title: "'Life changing': President Biden asked for favorite national park memories, and they were heartwarming"
     excerpt: "National park-goers shared some of those memories and moments on Twitter this week in honor of National Park Week, which runs through Sunday and is celebrated by the National Park Foundation each April."
     publishedDateTime: 2021-04-24T12:00:00Z
@@ -78,6 +94,6 @@ related:
         height: 540
         isCached: true
 
-secured: "6++voFdxxBJwrHBzO/iS331RtdhENiGRfD62xSH73niaIeeiBiZ68tS6LBGF/c2/t3U36sXu+bvem8WjYqMHxpC7S0GTQFhgmLdAqCzyI2oGrU2CtFt1Ue1uS85IFTH1WO6tOHwhd9gJwUYFalxTtvu0Nn2Nt7X8Hkf2ySRC75dH3Zj+q2kNuNJS2K9VefzCTeJ9y5QfpHbKDRI7hJPR0fDgEQeewddO8+pdOBq5KelcEAgzO4JJyCbAZwjHfEaNHHx4qtyqQV5NH0pwRvX4Be+E5ZJA+j3JPZW/l1YhK6hfncjuoOhgpqjLswYX2cl+LStfN5twAyf4oQbIfTVZFB8oBj6ok2t7m3ToMZYKFQQ=;sA2PMMZyVA6HsG3wje31hw=="
+secured: "kcdk6iv9UULPZvPL+RSBZ7k23vXG2THldjyupSiM16UeagBD4cWcMoplOfqf1T4bgexC5VM1a9HKXyynVsNG7QcYJFZqIDwODsizJirABCW5EKklGN8HeVQB5e2+0Oeyx4kwejfD5JZz1l0jmJGq/35iyJaod9Oxga7K+Wenq564oCVLtHufGondPnR2oCHg0YZJNaQ0uxqgO0E+NKHSuR/PuH/MAKp95tvbu5zOTpBRpBxeXlwMhFmlcCzmDcZS8Qdq/e8oY4M5mncuFvjVqyqX5HZ/3egnU9AxgtVGgasOqOPV8VmImvwdPYAg5zAOmn51Gpzg1lRKozlo5XUYNv1ZtaE3qL18qylFma9QyaU=;qixLKHPRxpp/iN3rLvVtbg=="
 ---
 

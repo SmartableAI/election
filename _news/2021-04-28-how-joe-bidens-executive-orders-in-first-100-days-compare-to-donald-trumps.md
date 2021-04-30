@@ -143,6 +143,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Lin Wood Shares Post Claiming Joe Biden is Dead, Trump Still in White House"
+    excerpt: "The QAnon-supporting attorney posted old photos to suggest Trump was still president and working in the Oval Office."
+    publishedDateTime: 2021-04-30T08:47:00Z
+    webUrl: "https://www.newsweek.com/lin-wood-trump-white-house-biden-dead-qanon-1587710"
+    ampWebUrl: "https://www.newsweek.com/lin-wood-trump-white-house-biden-dead-qanon-1587710?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lin-wood-trump-white-house-biden-dead-qanon-1587710?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 138
+    images:
+      - url: "https://d.newsweek.com/en/full/1785389/lin-wood.jpg"
+        width: 1291
+        height: 1018
+        isCached: true
   - title: "Biden rescinds Trump-approved Medicaid work requirements in Michigan, Wisconsin"
     excerpt: "ADVERTISEMENT The reversal comes after Trump’s CMS Administrator Seema Verma advocated for Medicaid work requirements, saying such regulations would help people get out of poverty and not rely ..."
     publishedDateTime: 2021-04-08T14:11:00Z

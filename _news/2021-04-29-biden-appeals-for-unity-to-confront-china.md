@@ -334,6 +334,22 @@ related:
         width: 3270
         height: 2177
         isCached: true
+  - title: "Pro-Biden Group to Begin Ad Campaign Promoting His Agenda in Swing States"
+    excerpt: "Building Back Together will highlight the president’s coronavirus response and his economic plan and will contrast his measured approach to his bombastic predecessor’s."
+    publishedDateTime: 2021-04-30T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/04/30/us/politics/pro-biden-ads-swing-states.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/30/us/politics/pro-biden-ads-swing-states.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/30/us/politics/pro-biden-ads-swing-states.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/30/us/politics/30-BIDENAD/30-BIDENAD-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "O8Q4IOh98j7+lOd+en00C9P2DpVeBpRD6YAayjNWvCPuuuDHN76bj3fkR4Fw+vu1Po7RDO1na8q3U1bVg6NgkqYVYQ/OkG+/xL9uEcWYQHtAJQHIkZUHw61pD0nUNVIE6WhUDTzlueo6mIpgSx+f3crHHhQ/Yryif3ok5/eqR6HWZN4OzCq65HXvoSXLDhwjIAmv7hen80fWXk/iXJb0VPdJ44s8QNpIxABWgqDpx3vt0pC+bS1mqmUTgW6/9rCg9I7dlkQdUOqpuTaNk+224aqZryKcEi24aPLElYxOB3zX9njUUHUxLyC1jiLbkBp6RSfavfONvziMQr3MZlPmBW5DjUtfWpy55nFUccyCb8U=;GODgC9EDWLwB4HfNymZ07w=="
 ---

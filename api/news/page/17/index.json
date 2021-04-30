@@ -2,6 +2,167 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-04-02-trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.md",
+      "title": "Trump peeled away Latino voters nationwide in 2020, a new analysis found.",
+      "excerpt": "A post-mortem analysis of the 2020 election has found that Latino voters played a meaningful role in tipping the Senate and the presidency to the Democrats, but that former President Donald J. Trump’s concerted effort to peel away Latino support ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/02/us/politics/02new-washington-briefing-latino-voters/02new-washington-briefing-latino-voters-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/02/us/trump-peeled-away-latino-voters-nationwide-in-2020-a-new-analysis-found.amp.html",
+      "publishedDateTime": "2021-04-02T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-biden-affirms-us-unwavering-support-for-ukraine-in-call-statement.md",
+      "title": "Biden affirms U.S. 'unwavering support' for Ukraine in call: statement",
+      "excerpt": "WASHINGTON (Reuters) - U.S. President Joe Biden on Friday expressed the United States’ strong support for Ukraine in a call with the country’s president, Volodymyr Zelenskiy, the White House said. “President Biden affirmed the United States ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-ukraine-biden-idUSKBN2BP14C",
+      "originalUrl": "https://www.reuters.com/article/us-usa-ukraine-biden-idUSKBN2BP14C",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210402&t=2&i=1557158938&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH310OJ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BP14C",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BP14C",
+      "publishedDateTime": "2021-04-02T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-us-iran-agree-to-begin-indirect-talks-on-limiting-irans-nuclear-program-nearly-3-years-after-trump-pulled-out-of-deal.md",
+      "title": "US, Iran agree to begin indirect talks on limiting Iran's nuclear program, nearly 3 years after Trump pulled out of deal",
+      "excerpt": "US, Iran agree to begin indirect talks on limiting Iran's nuclear program, nearly 3 years after Trump pulled out of deal WASHINGTON -- US, Iran agree to begin indirect talks on limiting Iran's ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/us-iran-agree-begin-indirect-talks-limiting-irans-76834146",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/us-iran-agree-begin-indirect-talks-limiting-irans-76834146",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/us-iran-agree-begin-indirect-talks-limiting-irans-76834146",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-iran-agree-begin-indirect-talks-limiting-irans-76834146",
+      "publishedDateTime": "2021-04-02T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-fact-check-biden-and-kemp-misleadingly-describe-parts-of-georgia-elections-law.md",
       "title": "Fact check: Biden and Kemp misleadingly describe parts of Georgia elections law",
       "excerpt": "There are a lot of misleading claims being made about Georgia's controversial elections law.\n    \n",
@@ -1189,176 +1350,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-loyalty-or-loyal-opposition-democrats-test-fealty-to-biden-in-special-elections.md",
-      "title": "Loyalty or loyal opposition? Democrats test fealty to Biden in special elections",
-      "excerpt": "CLEVELAND — Nina Turner, the perpetual public face of Sen. Bernie Sanders' unsuccessful presidential campaigns, once compared voting for Joe Biden to eating a bowl of fecal matter. Now Turner is a top contender for Congress. And her Democratic opponents ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/joe-biden/loyalty-or-loyal-opposition-democrats-test-fealty-biden-special-elections-n1262618",
-      "originalUrl": "https://www.nbcnews.com/politics/joe-biden/loyalty-or-loyal-opposition-democrats-test-fealty-biden-special-elections-n1262618",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_13/3460821/210330-joe-biden-ew-244p_e7721de5d900180188761ee588df2bac.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262618",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262618",
-      "publishedDateTime": "2021-04-01T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students.md",
-      "title": "San Diego county official rips Biden, Newsom as migrant children prioritized over Calif. students",
-      "excerpt": "San Diego County Supervisor Jim Desmond sounded off on \"Hannity\" Wednesday, after the Biden administration sent hundreds of Central American migrant children to be housed and formally educated by local teachers at the San Diego Convention Center,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students",
-      "originalUrl": "https://www.foxnews.com/politics/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e162a72f-61f2-4cb6-a307-213bc8dc6f7d/9e440e21-ca35-453e-8c97-44ed1006db4d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students.amp",
-      "publishedDateTime": "2021-03-31T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-jill-biden-mocked-for-botched-spanish-attempt.md",
-      "title": "Jill Biden mocked for botched Spanish attempt",
-      "excerpt": "First Lady Dr. Jill Biden’s California speech garnered attention on social media on Wednesday for what users perceived as a botched attempt to pronounce a phrase in Spanish.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aBgNMQ2udcg/first-lady-jill-biden-mocked-spanish",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aBgNMQ2udcg/first-lady-jill-biden-mocked-spanish",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cf2ea775-9333-4fc3-acda-7f12713b09c4/a45827db-4a24-4190-87d8-a0179119b127/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/first-lady-jill-biden-mocked-spanish.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-jill-biden-mocked-spanish.amp",
-      "publishedDateTime": "2021-03-31T18:44:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

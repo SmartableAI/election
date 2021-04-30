@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden, in Georgia to Promote Economic Agenda, Visits Carter"
+    excerpt: "A day after his first address to Congress, President Biden met with former President Jimmy Carter and held a drive-in rally for his 100th day in office."
+    publishedDateTime: 2021-04-29T23:16:00Z
+    webUrl: "https://www.nytimes.com/2021/04/29/business/economy/biden-georgia-carter.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/29/business/economy/biden-georgia-carter.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/29/business/economy/biden-georgia-carter.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/29/us/politics/29dc-bideN/merlin_187085802_2c20a7ca-4ea0-41a6-9d95-09c86692fed6-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "X6oGWIafZ9iTgVyLNSVeLb/MW0WQy7iUq6mnZXYk1pymhrPbGf9DeCVQ6CIZTuxGPXtSBt8rT3lLxbxSFPpuZZfHoeruftwNKfowtP0eNwFyOe1klSO7rm2jCo1Cme+0PjUuzlZWT8VIkJZiQdhsBrlnyvuwcBq2qcRudiC5Hh4tNIlcCzF7HgMcCvRuRhAvmX2x867jDHir4k5p2uC6rvK6t61ytbwgZhrhO5qtBm8ZhliHtXbWcA/yRzRj/6teEBJHwJ+8J5emBU+zliIlO+MEBNEbQy4l9J9fX1QW7Y/waTv89C+tl6Ibtsfzk1UTuNcixh4o6PZeIE3Jfkn0ATXPT4wijC/qH8U9zwzjniQ=;cYH/Du9TefTI3ttkbwu/FA=="
 ---

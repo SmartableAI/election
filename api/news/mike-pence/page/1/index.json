@@ -10,7 +10,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -66,7 +66,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 229,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -279,6 +279,59 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-professional-political-survivor-mike-pence-tests-if-theres-any-room-left-for-him-in-a-trump-republican-party.md",
+      "title": "Professional political survivor Mike Pence tests if there's any room left for him in a Trump Republican Party",
+      "excerpt": "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4",
+      "originalUrl": "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg",
+          "width": 847,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
       ]
     },
     {

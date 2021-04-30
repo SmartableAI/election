@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris To Tim Scott: \"No, I Don't Think America Is A Racist Country,\" But Racism Exists"
 excerpt: "Vice President Kamala Harris responded to GOP Sen. Tim Scott's statement that America is \"not a racist country\" and we can't \"fight discrimination with more discrimination\" during an appearance Thursday on \"Good Morning America."
 publishedDateTime: 2021-04-29T16:08:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/04/29/kamala_harris_no_i_dont_think_america_is_a_racist_country_but_racism_exists.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/04/29/kamala_harris_no_i_dont_think_america_is_a_racist_country_but_racism_exists.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/04/29/kamala_harris_no_i_dont_think_america_is_a_racist_country_but_racism_exists.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/04/29/kamala_harris_no_i_dont_think_america_is_a_racist_country_but_racism_exists.html"
 type: article
 quality: 53
 heat: -1
@@ -263,6 +263,6 @@ related:
         height: 562
         isCached: true
 
-secured: "brDsPjRQeJZOCiW8/l2iLU5DRomDNye/u4CV8Jpq6SgUCyJlu7kolIuFso08garUYAYY7WC6NVl483x0Dues1EHeb/XmG/ba8RGZJktFIdJbynYSi9yBzoIIesa6IGFi2owzfA0OG/Q8r56vB2ZC/2wTZM40VhVR0uJlmTnTh7v69oxrcfdsc60oypoMNNh35XnbOV0vsJzm+HTnPBnDJ+cmp94fBx5fNCfoCUJPMiBiJkFpnticZd2+7ALavRJqIyyh2rWXoS7plDoXffM2OroLrmMFF+j4YbekCDRWU+GUa+l2UiIYquohs2TAf5fAZ+FeewKeS+CcYsRXZsPshFz08WgLegv5Y6dMwNGUDFAiPOLqlZl8Iy+YsrJHW4gFtfR7WIAkz6Au0NDxqwjbApQdgwu/RxKeKZATY5p44stD2w1SmSV70We75/L0P19wHnE/oi2G5QpVSOSaQcVANi8f3nEssXXPTYgXGofN1i2Xu50Lk1b3YN72QCinDGXZFLUedrT/fiRwxGTtHMru5Q==;FD++QqJkrag12NuqtvhuIw=="
+secured: "GeAdQIXGmam8Vbr4uBZMF1LnY0+xg0tsgPNGTxpJ24pMdKPAShyYWcCC1+rB4lbmjMrUWVtmt0eA4NY+tC4bVF3S0ADk0u2bK0w1XaW6RXU1B3B/SGXha+GCQ5RAPBmdSzUmi5ROk/CRt1y+gu8mz5Ydn9BxchrNikmgi7rRG3lZ9vqLfbCUBdq/xS81k+2MkD9hXOQoD2NZMOxYT6tlYExN28ZO8lFPzW3i1FVvb/5ern79SdH7aw9GRv+VeV9Wsv+t0pbmRApdk1DkyXmuHByttgfLNRRgNVS6xcbNvLczVH3cf6EaNmbe1L/isHccjFqSy4pI9igGoZdhzo5Pc/CY60St2diaQGEs0fAo6lk=;PVTaHAZz0UG8BFWGBeednA=="
 ---
 

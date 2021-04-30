@@ -319,6 +319,22 @@ related:
         width: 3270
         height: 2177
         isCached: true
+  - title: "Pro-Biden Group to Begin Ad Campaign Promoting His Agenda in Swing States"
+    excerpt: "Building Back Together will highlight the president’s coronavirus response and his economic plan and will contrast his measured approach to his bombastic predecessor’s."
+    publishedDateTime: 2021-04-30T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/04/30/us/politics/pro-biden-ads-swing-states.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/30/us/politics/pro-biden-ads-swing-states.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/30/us/politics/pro-biden-ads-swing-states.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/30/us/politics/30-BIDENAD/30-BIDENAD-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden appeals for unity to confront China"
     excerpt: "The president appeals for unity to confront China and warns the threat of Islamic terrorism in Russia is still very real. — The search for a Navy secretary is focusing on a politically connected former Navy officer."
     publishedDateTime: 2021-04-29T14:00:00Z
