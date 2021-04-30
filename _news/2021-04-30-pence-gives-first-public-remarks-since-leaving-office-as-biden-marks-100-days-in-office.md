@@ -7,8 +7,8 @@ originalUrl: "https://www.cbsnews.com/video/mike-pence-first-public-remarks-2021
 webUrl: "https://www.cbsnews.com/video/mike-pence-first-public-remarks-2021-04-28/"
 type: article
 quality: 112
-heat: 152
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Eying 2024, Pence makes 1st speech since leaving office"
+    excerpt: "In his first public address since the end of the Trump administration, former Vice President Mike Pence put down a marker for a potential return to elected office, telling an audience in early-voting"
+    publishedDateTime: 2021-04-30T03:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZR2LPVJI4I6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
   - title: "Former Vice President Mike Pence to deliver first speech since leaving office"
     excerpt: "Former Vice President Mike Pence is delivering his first speech since leaving office to a group of conservatives in South Carolina on Thursday. His visit to the early primary state is fueling speculation over whether Pence is weighing a 2024 presidential bid."
     publishedDateTime: 2021-04-29T22:39:00Z
@@ -43,17 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden traveling to voting rights hot spot Georgia to promote plans to rebuild economy"
-    excerpt: "President Joe Biden marks his 100th day in office with a trip to Georgia on Thursday, visiting former President Jimmy Carter and pitching his plans to spend trillions of dollars to rebuild the U.S. economy."
-    publishedDateTime: 2021-04-29T14:00:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-idUSL1N2ML3NV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2ML3NV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2ML3NV"
+  - title: "Mike Pence is returning to the public eye this week — and insiders say it could foreshadow a 2024 presidential run"
+    excerpt: "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics."
+    publishedDateTime: 2021-04-29T16:31:00Z
+    webUrl: "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
+    images:
+      - url: "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg"
+        width: 847
+        height: 423
+        isCached: true
 
 secured: "+9hZs/Rx5P7D4KAqszf+YA933ulAkno13ZlSv6GjhjlrFRbDi/ZdHWlxHC80UQW8QkYJOo2TN/syJMeO7Y9UpiU4Z1bsSu+rkvO/7keCKtrnYw3r1GgpC7ung3T9WAsfw1wEEIqx1UP6JhMiS7xcCee7o7WRIGRMp7j3jqAwl9IYZN5jBPGP7amFvFIGn4VC3/zDgNS4rQ8wJoI5YKyC8Q078RuQFd1qWXoqsuHxNbccdHEUCgPyTR+DocrWNqbC+i9kg/0kIKnCOQ44JLaoS36oOl9R9JibUfjgSRy5V6ojGLlOEKff48kF/FJg8Ywij6AUM0TYztXra98Iy7r/VncMHVF6igzUd75ixFO+95Q=;Sh9kQJGelYIak1PSmPoWcg=="
 ---

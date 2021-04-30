@@ -95,6 +95,15 @@ related:
         width: 3366
         height: 2326
         isCached: true
+  - title: "Mike Pence talks to South Carolina conservatives"
+    excerpt: "Former Vice President Mike Pence speaks to the Palmetto Family Council gala. In his speech he reiterated his and former President Donald Trump's accomplishments and criticized President Joe Biden."
+    publishedDateTime: 2021-04-30T00:53:00Z
+    webUrl: "https://www.thestate.com/news/politics-government/article251051729.html"
+    type: article
+    provider:
+      name: The State
+      domain: thestate.com
+    quality: 35
 
 secured: "YJ1sgwpmyR0XOA8wcJyaMbazrSTFIdJ1NS4mM91gwADzTUB/OoW7H0oiaE9JU6olkLDsqDZltWJOBoGtfaokHKLMMbv0JzcXCV/AczQnyV1+UD/F9CCXwsh5NVd9l7D7GlGq1rvSHMvjnZB8vt42rzboIDueXuSeHbUiOsnamRxutQuIYNorsMY1/DB5/iHAt2KViJBm96RWJs4DL2JqGJxSHrhL+26rqfd5FXtTOQD6+ov8qP5gjJyfKOL3r5/eNRDo4TTwlFRyIX6/+F5vAltE8S/J7AKvPo1Ecv24ngWyYJF+XGrKsVMCptktgfO0NhrladUunl+pvQuu/hQAD2lMWZGIskIl9b8eAo4Ru7X4nV7Yg88212gYl6j6Sf1fbl5EK2AB23o/kxoFVXxXth+rBnVoRFTctybZV+GBylJyWBPbK6huR0aLg7gTYSjXz2dc0uNw/BFk3pzh04f4cRBnIAPDlw8mlATB0zeFsRBtAXvqL9tTUbppujY55Ru6HqJHt591vdwccaWylyWJTg==;AwD2FCh8hDTx4jM0KXpEOg=="
 ---

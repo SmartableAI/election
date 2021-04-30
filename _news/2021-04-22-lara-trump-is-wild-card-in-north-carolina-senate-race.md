@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race?amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -95,6 +95,15 @@ related:
         width: 3366
         height: 2326
         isCached: true
+  - title: "Mike Pence talks to South Carolina conservatives"
+    excerpt: "Former Vice President Mike Pence speaks to the Palmetto Family Council gala. In his speech he reiterated his and former President Donald Trump's accomplishments and criticized President Joe Biden."
+    publishedDateTime: 2021-04-30T00:53:00Z
+    webUrl: "https://www.thestate.com/news/politics-government/article251051729.html"
+    type: article
+    provider:
+      name: The State
+      domain: thestate.com
+    quality: 35
 
 secured: "88nfbACC2cdyvtE2vEgtIyUp73jvK2MdGJLcPTxtNyTjjoHVccOmDJc+igBtn+GdTfISmJaxTLSEinQ8pka5tgm7xtT+ExjnY5cHEuuglCocq3ssbxYBhyL0/E5PYV9X4AZERsU2tB0kFHVELPHuu3EX/JvqXmodfDJXxwZurRaEE0qn0KqzLbevr/r1CPn1/hsGr01cKGOr67jhs770pSsJ8NtAoiaeVJjVYMwSUYfu6LboHBV0nS3XKscnKrOMN32sHsiKUs/LOfHGgKWCyIlwlqylwPb9YGnI494ReJ9bJI5X5LvL6kA0ZTW7GIQsgH/9YmDZy43pOs3d5dANE3eVBEDPTT/GnCrkfUial6SvVMjHJijmePVQjah/sFbstNcV0i9WGpQUg9PlB9iB6GXx10sxO433Os/qFpUicUkbFUIO/KZ+OYCWceci86ngB89sMu2Os86Of6xIzP33RrjhgYpemr0nzbSuNy1zIuozjhWTqrx1ZCvIso6qj1OVBcNlr3/ODhuFPDXGEpr90Q==;svYvYoYFqpElsdlIb+bq+A=="
 ---

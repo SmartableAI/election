@@ -416,6 +416,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence criticizes Biden administration in first speech since leaving office"
+    excerpt: "Former Vice President Mike Pence criticized the Biden administration and praised Sen. Tim Scott's GOP response during a speech in South Carolina."
+    publishedDateTime: 2021-04-30T03:32:00Z
+    webUrl: "https://www.nbcnews.com/video/pence-criticizes-biden-administration-in-first-speech-since-leaving-office-111092293887"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111092293887"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111092293887"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 148
+    images:
+      - url: "https://media13.s-nbcnews.com/i/mpx/2704722219/2021_04/f_mo_la_pence_speech_210429.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden to deliver remarks after Derek Chauvin trial verdict"
     excerpt: "President Joe Biden is expected to deliver remarks after the jury in the Derek Chauvin trial renders a verdict, according to multiple administration officials. The White House is monitoring the trial’s developments and is preparing a statement for Biden,"
     publishedDateTime: 2021-04-19T17:37:00Z

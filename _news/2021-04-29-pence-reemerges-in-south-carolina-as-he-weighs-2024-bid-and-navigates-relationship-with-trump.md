@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Pence reemerges in South Carolina as he weighs 2024 bid and navigates relationship with Trump"
-excerpt: "When Mike Pence underwent heart surgery earlier this month, he had alerted only a few family members and aides beforehand. Several onetime Pence aides were caught off guard when he released a statement that after experiencing \"symptoms associated with a slow heart rate\" for two weeks, the former vice"
-publishedDateTime: 2021-04-29T15:00:30Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8G9kdeYWONo/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8G9kdeYWONo/index.html"
+excerpt: "When Mike Pence underwent heart surgery earlier this month, he had alerted only a few family members and aides beforehand. Several onetime Pence aides were caught off guard when he released a statement that after experiencing \"symptoms associated with a slow heart rate\" for two weeks,"
+publishedDateTime: 2021-04-29T15:00:00Z
+originalUrl: "https://www.cnn.com/2021/04/29/politics/pence-south-carolina/"
+webUrl: "https://www.cnn.com/2021/04/29/politics/pence-south-carolina/"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/pence-south-carolina/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/pence-south-carolina/index.html"
 type: article
-quality: 189
-heat: 209
-published: true
+quality: 139
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Democratic Voice
   - Mike Pence
+  - Democratic Voice
 
 images:
   - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429101221-01-pence-0120-super-tease.jpg"
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pence reemerges in South Carolina as he weighs 2024 bid and navigates relationship with Trump"
+    excerpt: "When Mike Pence underwent heart surgery earlier this month, he had alerted only a few family members and aides beforehand. Several onetime Pence aides were caught off guard when he released a statement that after experiencing \"symptoms associated with a slow heart rate\" for two weeks, the former vice"
+    publishedDateTime: 2021-04-30T02:27:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8G9kdeYWONo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/pence-south-carolina/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/pence-south-carolina/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429101221-01-pence-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Budd launches North Carolina Senate bid by aligning himself with Trump in growing primary field"
     excerpt: "Rep. Ted Budd launched his North Carolina Senate campaign on Wednesday, aligning himself with former President Donald Trump in a 2022 bid for the crucial seat.\n    \n"
     publishedDateTime: 2021-04-28T13:35:05Z
@@ -49,6 +65,6 @@ related:
         height: 619
         isCached: true
 
-secured: "3UdWx6au1Z0naA1LuH3Jz5RQa3szT4zweNoUW0Crax6MEbJHFduMzHlIitDbfd7qwdJLuNacC3gBnul0MAp031682KzIKK9SkFw0hhX7X+VdmMQ8DO6NfYuBcpKR4W+GnPslZ+70lcoHW6FnjtASyR1MW9trCHqAIUtnOig8mZXCoOjUdedeTE5yrUQom3nfn6ZXbIts4MM6PMN+3gwxxuXHzYCe3Ej1DXGpujW1sfmYATiz72Uey9Whi8F86PUcMAF1Ox+MWV+RJ23BgrYlB4nCsvNiz0QUm59DnUaI5ROdsjCMWA6aLWdyDSam+uhoiyeLBJkw8nlcCWMPn2eXLzKy5J4Mh8HwU6WXwLMlhOc=;s5u1HfGIHzPDBdMYSiyzuA=="
+secured: "pWDCRE0nOH7Vo0VkWtynIvNKh5mis9fJX+wE7h/xrQPpOOf+0CkXGrziMHMFF9xlnMUnZIr+hqEEN+UULrQM7JyG8eVjqfDYTg/8TaY6hXImsgwZFFL2d+WVj0Hqt2aH4nZfjauoaQbtjMkB8IoOte4dZbHVyqdydAj4XiBXH0FEwDtn+z/SgBLcK1O5J+ii8QPZpVVyWuYcWiR+JbfTTuQBYWX3FkaHYkx2ZQfk52a1cOt/re3Vn1jKi1yUQY1VIxXzdLVutkQ4u37PO15KAevdu+rmV66g0rnRbs6Byvr0SDki+B/ZUHCiKLTyQQ2efTZJXKlphEP6Q5qDkudcFzymuOdssMitM2kZ3O0QenU=;/593drkQtpHiFm8PEhFtmw=="
 ---
 

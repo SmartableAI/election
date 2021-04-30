@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/bidens-carters-visit-geo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/bidens-carters-visit-georgia/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Biden stops in Georgia to sell sweeping economic proposals after prime-time speech"
+    excerpt: "President Joe Biden hit the road on Thursday, traveling to Georgia to promote his sweeping economic proposals the day after making the case for the massive new government programs in his first address to a joint session of Congress.\n    \n"
+    publishedDateTime: 2021-04-30T00:59:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G6q768A_XAc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/biden-georgia-economic-proposals/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/biden-georgia-economic-proposals/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429104002-01-joe-biden-congress-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "hsFQAQ3bXzaR7btdreRCakRSjHXz9tUK5VEyVZr53FAAcvZuCLcMmkTz1mSEYJfmkFa1nFovpLXeE8K/Sf0LBs7WVN0PIBys+V8YSWQ2AexoemWu6ofFVOVHAz3rVe1yVivhgLs/1sBRsnHP8e8CLgLEh3pjNZyzAkh6UOhzNW6UkTB7MLi+WkbAPZGxuzdh+WU2197qJ9dFvzogAY61W5ARHI6Z/MmryjdyojTacEik3i8mjCGxuvEp6Fh82fDNYdIVawH0TbVijUqzi3hR7hYVnKKb7tVSsNW9834Gow/quWc3oNhijo2Eqk4fXEnNLpS1ZDzQBxh+IlTqvdHY6s9ezrcEnE0sd4r6OrzfraE=;k9YbXcL60jsYrUdC9udzmA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/mike-pence-president-republican-pa
 webUrl: "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4"
 type: article
 quality: 111
-heat: 151
+heat: 131
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Pence is returning to the public eye this week — and insiders say it could foreshadow a 2024 presidential run"
-    excerpt: "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics."
-    publishedDateTime: 2021-04-29T16:31:00Z
-    webUrl: "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg"
-        width: 847
-        height: 423
-        isCached: true
   - title: "Former VP Mike Pence touts Trump accomplishments in return to SC as 2024 rumors swirl"
     excerpt: "In his first public speech since leaving office, former VP Mike Pence told a friendly crowd of several hundred Christian conservatives they need to \"stand up and unite behind a"
     publishedDateTime: 2021-04-30T00:45:00Z
