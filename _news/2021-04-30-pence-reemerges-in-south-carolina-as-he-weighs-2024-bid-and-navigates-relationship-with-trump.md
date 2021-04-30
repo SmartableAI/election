@@ -74,7 +74,7 @@ related:
     provider:
       name: CNN
       domain: cnn.com
-    quality: 139
+    quality: 149
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429101221-01-pence-0120-super-tease.jpg"
         width: 1100

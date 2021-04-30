@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pe
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -31,17 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Pence gives first public remarks since leaving office as Biden marks 100 days in office"
-    excerpt: "Former Vice President Mike Pence on Thursday spoke in South Carolina, his first public remarks since leaving office. Speaking as President Biden marks his first 100 days in office, Pence slammed Mr. Biden's policies."
-    publishedDateTime: 2021-04-30T01:26:00Z
-    webUrl: "https://www.cbsnews.com/video/mike-pence-first-public-remarks-2021-04-28/"
+  - title: "Pence touts \"our\" accomplishments in first remarks since leaving office"
+    excerpt: "In speaking to the Palmetto Family Council, a South Carolina social conservative Christian group, Pence criticized Mr. Biden for what he called \"an avalanche of liberal policies.\""
+    publishedDateTime: 2021-04-30T11:08:00Z
+    webUrl: "https://www.cbsnews.com/news/pence-speech-south-carolina-2021-04-29/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/pence-speech-south-carolina-2021-04-29/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pence-speech-south-carolina-2021-04-29/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 112
+    quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/9451bbda-308d-421f-86ca-ae896a838578/thumbnail/1200x630/6e4116a81676ae1ed279c898558c4423/cbsn-fusion-mike-pence-first-public-remarks-2021-04-28-thumbnail-704738-640x360.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/ebb6bd27-0803-4d04-8470-606e80f3aa00/thumbnail/1200x630/f196ff31d354a22d129afc18f0d33fbd/gettyimages-1232601399.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -100,6 +102,20 @@ related:
       - url: "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg"
         width: 847
         height: 423
+        isCached: true
+  - title: "Eyeing 2024, Pence Makes First Speech Since Leaving Office"
+    excerpt: "Mike Pence on Thursday put down a marker for a potential return to elected office, telling an audience in early-voting South Carolina that he will use the coming months “pushing back on the liberal agenda” he says is wrong for the country."
+    publishedDateTime: 2021-04-30T10:35:00Z
+    webUrl: "https://indianapublicmedia.org/news/eyeing-2024,-pence-makes-first-speech-since-leaving-office.php"
+    type: article
+    provider:
+      name: WFIU
+      domain: indianapublicmedia.org
+    quality: 55
+    images:
+      - url: "https://indianapublicmedia.org/news/news-images/pence-generic-lc_1.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "m7IBBB2vyN4sZj+ZLxgbAVrzGrZBGfNRHODHb6fxjDRcSVve6lRvIb2fdjuFAo63YzM9Hv18kcTch+WgQxoyJHfiLs+bLp0xQAhZW5Qa8xR5LPuKJj+6zdP94BD+Kwf8mMPmK34iAIKukYUwdzBfcGV46kMpZMnf20S+mrhuxurH++g4cHBgT/u/7SfmjOkt2oOuDimen5S8miopnB6xLPvvDbbE8sSzxX0Jl3uMbyZqj4Z4bB1vBJa7aeJogntt8XGz2+lYdtQsczDVtNlYp2y9WX5VvnEqGqS2IpTXGfp3g1Y5e935vRUrJmDFFIClcdY46R7+XXRSuqTefa++svHseOJOXXUC/ewsCaGGDxWb/W9naSU669krZ5/5KT+VTVywqIvOtulhrjmoXS66VFj3zFg4WBArMr2wCHvqjkH/K/IC8vbZJpJuL/FhXlcEwTNYJt3awrmP3oVgePmi43s4XuC9kMrD+Qh07tq6ziKw/6qlcHT140OpP4lmgAZJ/OkP+/lt19DSzwJdcpiknQ==;UydjQMB7fDVOOp7P5IENIw=="

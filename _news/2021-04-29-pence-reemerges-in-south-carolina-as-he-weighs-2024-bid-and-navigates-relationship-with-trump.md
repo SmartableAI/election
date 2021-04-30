@@ -8,7 +8,7 @@ webUrl: "https://www.cnn.com/2021/04/29/politics/pence-south-carolina/"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/pence-south-carolina/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/pence-south-carolina/index.html"
 type: article
-quality: 139
+quality: 149
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Mike Pence
   - Democratic Voice
+  - Donald Trump
 
 images:
   - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429101221-01-pence-0120-super-tease.jpg"

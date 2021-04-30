@@ -74,13 +74,13 @@ related:
     provider:
       name: CNN
       domain: cnn.com
-    quality: 139
+    quality: 149
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429101221-01-pence-0120-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
 
-secured: "BPHBntwnt5PTNkqCXrcoqXOTe0UMGlwrXFbRZMWND8vgJn7eSIzm1wIupxakPQhXaItMmlWiJopHHVk3l7Db/ZRYQ5m5Zk6K0HV9bmKVd7vGKabtPmtsfNP0zb0vPYCJccaL59ov/UyDoVUEl5SVGC5CXP7AwuMe2yZYdvFUys6fJ0sqO6B8kqt6kuO6EOZ2VK7nExyitp/sYfdhrLYR5BdWz8719yCQkm5Iw5PsMTFpCtYXW+DV14qXSOqgcYxfzsgevzUb+U2Um63wLio8a8vtrBY6pQePuZCzdCGCSD+j2u1wVhE+OTjl/HyKH0C7HRS/DrtkLLvMcS7WmBhKf1XRs3lSHMmR6bNct0L6+iw=;uEls3mjOuqFRu6zxtst5tw=="
+secured: "yzY1tY1ADeOJJ339Tr7/g/gYFmpaDFLVdr6c4sO9FAxmi10iytulv+6TmPxsiyc1k6Nt9Xes5kHYeoE3Uv4m9dS6twZyqPgoD7L19bySGdOqiSNol+E2reSs0MHk6AlmJS5srITz8znYJMkMMm7LBkVHih6w0FeBTz0ESKzUtfq1mkiRk/K91nQQEbhYCodNgu+22vpRkH+eKAevI2gH3w4G9rUY3ygF5ehh4WuAGuZ6KD3o4Nx+XdMbjCpmCi2uJZfgM7gxUJJml4IGtCYRjXAzyGQs6XC7CRiVZqin1OVPDZ6Dk7a0jYXGXiODPI2ZmS9nkHro00bf6kIL/e3xt/PMzBvWfHwpQSpEqXj2fdkaE/5yzUg6WZmACQauNiFTeYsDECXEOWt6YXXoIU9zU2hNi704v5bbQp1h/rzYVqklX9/CdgT5hHYM3jiaZQupiUer+8O5OGT3xPcJh0KWv4M7l4jeFRbzG6ewL7ubcDA3M/dj/vFCCWqr2+wmdi3aOy2Mqgc5/WXdhC5jdqDbtA==;lCZEhePQmoJo6N6f65UXJw=="
 ---
 

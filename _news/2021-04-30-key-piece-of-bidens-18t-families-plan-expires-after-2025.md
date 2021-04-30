@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Key piece of Biden's $1.8T families plan expires after 2025"
-excerpt: "President Joe Biden couldn’t get everything he wanted into his own $1.8 trillion families plan WASHINGTON -- President Joe Democratic lawmakers are pushing hard to make the credit a permanent policy,"
-publishedDateTime: 2021-04-30T08:30:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/key-piece-bidens-18t-families-plan-expires-2025-77415251"
-webUrl: "https://abcnews.go.com/Business/wireStory/key-piece-bidens-18t-families-plan-expires-2025-77415251"
+excerpt: "President Joe Biden couldn’t get everything he wanted into his own $1.8 trillion families plan. His proposed child tax credit is set to expire after 2025. It would provide parents with $300 a month for each child under age 6 and $250 a month for older children."
+publishedDateTime: 2021-04-30T09:06:00Z
+originalUrl: "https://www.washingtonpost.com/politics/key-piece-of-bidens-18t-families-plan-expires-after-2025/2021/04/30/f691cb3c-a96a-11eb-a8a7-5f45ddcdf364_story.html"
+webUrl: "https://www.washingtonpost.com/politics/key-piece-of-bidens-18t-families-plan-expires-after-2025/2021/04/30/f691cb3c-a96a-11eb-a8a7-5f45ddcdf364_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/key-piece-of-bidens-18t-families-plan-expires-after-2025/2021/04/30/f691cb3c-a96a-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/key-piece-of-bidens-18t-families-plan-expires-after-2025/2021/04/30/f691cb3c-a96a-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_ecac508999c04df1acd389672e6982b3_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AYB6RTFJNEI6XKFHL5C53TPTMQ.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -124,6 +126,6 @@ related:
         height: 683
         isCached: true
 
-secured: "k4IZE9WavxVk/QK2WDLRwhsrRLcqPHw9BV44qZxggFfYVcIhp4kl2R3Npm7GEZpgvoNm5sqUGSibxGBXOKZWx95fCMNDIyQuzIBZuZy2GA50iibl9oKl9jy5h+HhxKL24WERe1NcSiLLe8iYDv510nLkA9s4sO/02H0EQvPCgfMI5EIsGZFAVaVDyunatB+QtkV3wDNR2UJ9zGr49hQlIYyg4zsCZJXe+5J4dNa++GMnbgmcy9JnqQDFmc1dDz9JHxR1jWA/gGyImXsqoNJ04uHTx11l3Fud+dYdg1abiMSPTw7Ro973SwnCSm0lZZSk/GnbgzUjN1trGZAmDKLuzpVqyv//FsQ8vhLPYv8rQ4U=;MYgm3B587jh9fWr6abUhiA=="
+secured: "0O2hWt5RfT/SGtPTJGXEeXeuyVbWrmPYUHSkPsRrC1ctlqzxUPpBYZLtQqaa8+Skd/5fNkupddHjEB2RhnW0BoIWQF2Fw4FLKGEq45chMWT2rVRNgVkQgoKBGm5jD8pcwHqP8DJ+hjFvZKE/h6tpx73kezUsrRAqTaLp48Mrq0yWL+uhzMLor9mAmakzKod+NwznlMcpSP1U5IkXiY0I+kyoHe2FdhWAmp0J6artXtYJ62r5xK6SBKj/NVoyEzxreUIQxl7EZV9dgkVV7GEBry9uOCBZEILawJyCWCC/xyfEG/3wOMvZXVkqfoUgjYog/QsoHU1A1Hhl/fKGAx9oPclM+j+Dfm+Nn0z/+GndY4o=;Do6Y82qhqMGL8uqhTe2DnA=="
 ---
 

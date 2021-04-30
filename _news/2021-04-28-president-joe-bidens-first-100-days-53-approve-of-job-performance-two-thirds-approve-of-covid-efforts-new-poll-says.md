@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 707
         isCached: true
+  - title: "Key piece of Biden's $1.8T families plan expires after 2025"
+    excerpt: "President Joe Biden couldn’t get everything he wanted into his own $1.8 trillion families plan. His proposed child tax credit is set to expire after 2025. It would provide parents with $300 a month for each child under age 6 and $250 a month for older children."
+    publishedDateTime: 2021-04-30T09:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/key-piece-of-bidens-18t-families-plan-expires-after-2025/2021/04/30/f691cb3c-a96a-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/key-piece-of-bidens-18t-families-plan-expires-after-2025/2021/04/30/f691cb3c-a96a-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/key-piece-of-bidens-18t-families-plan-expires-after-2025/2021/04/30/f691cb3c-a96a-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AYB6RTFJNEI6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Representative Sara Jacobs: President Biden's address \"gave us reasons\" to feel hopeful"
     excerpt: "Congresswoman Sarah Jacobs, a Democrat from California, says President Joe Biden's address to a joint session of Congress on Wednesday gave Americans many reasons to feel \"hopeful.\" She joins CBSN's Tanya Rivero for a closer look at Mr."
     publishedDateTime: 2021-04-29T19:14:00Z
@@ -72,20 +88,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/29/USAT/0bbcefca-2b66-4bb1-b574-9a1034977d49-VPC_BIDEN_ON_WHITE_SUPREMACY_DESK.00_01_06_07.Still003.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Key piece of Biden's $1.8T families plan expires after 2025"
-    excerpt: "President Joe Biden couldn’t get everything he wanted into his own $1.8 trillion families plan WASHINGTON -- President Joe Democratic lawmakers are pushing hard to make the credit a permanent policy,"
-    publishedDateTime: 2021-04-30T08:30:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/key-piece-bidens-18t-families-plan-expires-2025-77415251"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ecac508999c04df1acd389672e6982b3_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Obama Official Steve Rattner Says Biden Could Set Progressivism Back Decades if Massive Government Expansion Fails"
     excerpt: "Rattner's comments come on the morning after President Joe Biden delivered his first address to a joint session of Congress."

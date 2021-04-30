@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-08-nra-tells-joe-biden-it-is-ready-to-fight-new-gun-control-measures.md",
+      "title": "NRA Tells Joe Biden It Is 'Ready to Fight' New Gun Control Measures",
+      "excerpt": "The National Rifle Association (NRA) warned President Joe Biden it was \"ready to fight\" any new federal gun control measures, in spite of the legal and money troubles facing the lobby giant. Posting on social media, the NRA said planned gun control ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/nra-ready-fight-joe-biden-gun-reform-1581952",
+      "originalUrl": "https://www.newsweek.com/nra-ready-fight-joe-biden-gun-reform-1581952",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1773206/ar-15-rifles-pennsylvania.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/nra-ready-fight-joe-biden-gun-reform-1581952?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nra-ready-fight-joe-biden-gun-reform-1581952?amp=1",
+      "publishedDateTime": "2021-04-08T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-damn-it-im-sick-and-tired-of-ordinary-people-being-fleeced-biden-defends-corporate-tax-hike.md",
       "title": "‘Damn it … I’m sick and tired of ordinary people being fleeced’: Biden defends corporate tax hike",
       "excerpt": "President Joe Biden on Wednesday defended raising the corporate tax rate to help pay for his infrastructure plan, saying he’s “sick and tired of ordinary people being fleeced.” Biden slammed former President Donald Trump’s corporate tax rate cuts ...",

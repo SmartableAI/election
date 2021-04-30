@@ -7,8 +7,8 @@ originalUrl: "https://www.latimes.com/politics/newsletter/2021-04-21/biden-trump
 webUrl: "https://www.latimes.com/politics/newsletter/2021-04-21/biden-trump-afghanistan-exit-essential-politics"
 type: article
 quality: 93
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: Los Angeles Times
@@ -27,6 +27,38 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "10 Things in Politics: How Biden's 100 days compare"
+    excerpt: "I hope you'll take your turn when it comes. Here's what we're talking about: With Jordan Erb. 1. ONE HUNDRED PROOF: President Joe Biden has now passed the FDR-inspired first lap of his presidency. Insider decided to compare him with his more-modern ..."
+    publishedDateTime: 2021-04-30T10:02:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-biden-100-days-history"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-biden-100-days-history?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-biden-100-days-history?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/608af05135c46f0018c0b494?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Pence gives first public remarks since leaving office as Biden marks 100 days in office"
+    excerpt: "Former Vice President Mike Pence on Thursday spoke in South Carolina, his first public remarks since leaving office. Speaking as President Biden marks his first 100 days in office, Pence slammed Mr. Biden's policies."
+    publishedDateTime: 2021-04-30T01:26:00Z
+    webUrl: "https://www.cbsnews.com/video/mike-pence-first-public-remarks-2021-04-28/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/9451bbda-308d-421f-86ca-ae896a838578/thumbnail/1200x630/6e4116a81676ae1ed279c898558c4423/cbsn-fusion-mike-pence-first-public-remarks-2021-04-28-thumbnail-704738-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "O2g4J5rWxnXFIWaD+gq2nmQue9nqunV7ASeIlRrhwGvKHdbBIi/FgqdH4Q1IubKhCy1LZVw5Izz4Bwz582BwadXh1JthiUUQNYzZ/SO5U50XjgjpxX1yJgQW97ABR8msRbL4GWMC7aW6HnHRJae3e+dOlroMpB/sijwYnysFJNUcE6oLuSQbD+gjSRmGVypOQje4ErC8X92sgsvCVJUXMt2cM6P2wX8l/qBX0eOSYUDHdeKUQ7J3xCyARo2z0+8JW0o1SCrDmTnLyXxS0EmD+ZIgOEdLsASYlU765c9e0tfAey268+QzU2E8eRUmBKu8Xvs+A74SexYjOcHG7e0AyDiPdoJFdsaeW5TrNPoKGXYxRTUvoJDqukb1rIpgaWlDbfn++kV4oXkjMjVLLSvUkqG1WTDlCh2Cra4Pdh2vnwXjFk4oJEduPSfel5GhY0H/5qretOlRPooOEt5CJJUIo30sRMv7lB+MFc/gnROxJrmXe1Qr7xytYD3ObN2Aymuv7yqC/oXNSro313XT/F+c9w==;idNe9VaZDib6pMEH4Y5VLg=="
 ---

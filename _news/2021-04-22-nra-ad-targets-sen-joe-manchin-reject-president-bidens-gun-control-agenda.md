@@ -936,6 +936,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden Could Do More to Unify the Country"
+    excerpt: "Among right-wingers, there has been some delight about polls showing that Joe Biden's popularity at the 100-day mark is the lowest of any president since"
+    publishedDateTime: 2021-04-30T10:42:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/30/biden_could_do_more_to_unify_the_country_145679.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/30/biden_could_do_more_to_unify_the_country_145679.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/30/biden_could_do_more_to_unify_the_country_145679.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/541941_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Joe Biden's Bait-and-Switch Presidency"
     excerpt: "Joe Biden was elected as a moderate-left Democrat, but he is not governing as one. He pledged repeatedly to work across party lines, but he is ramming through the biggest, most expensive progressive agenda in American history without any Republican votes."
     publishedDateTime: 2021-04-01T00:00:00Z

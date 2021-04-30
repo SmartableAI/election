@@ -29,77 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Eying 2024, Pence makes 1st speech since leaving office"
-    excerpt: "In his first public address since the end of the Trump administration, former Vice President Mike Pence put down a marker for a potential return to elected office, telling an audience in early-voting"
-    publishedDateTime: 2021-04-30T03:39:00Z
-    webUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+  - title: "10 Things in Politics: How Biden's 100 days compare"
+    excerpt: "I hope you'll take your turn when it comes. Here's what we're talking about: With Jordan Erb. 1. ONE HUNDRED PROOF: President Joe Biden has now passed the FDR-inspired first lap of his presidency. Insider decided to compare him with his more-modern ..."
+    publishedDateTime: 2021-04-30T10:02:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-biden-100-days-history"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-biden-100-days-history?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-biden-100-days-history?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZR2LPVJI4I6XKFHL5C53TPTMQ.jpg&w=1440"
-        width: 1440
-        height: 958
+      - url: "https://i.insider.com/608af05135c46f0018c0b494?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Former Vice President Pence delivers first speech since leaving office"
-    excerpt: "Former Vice President Mike Pence made his first public appearance since leaving the White House on Thursday. He spoke at the annual Palmetto Family Council gala in South Carolina. Pence slammed President Biden while also praising his time in the Trump administration."
-    publishedDateTime: 2021-04-30T04:13:00Z
-    webUrl: "https://www.cbsnews.com/video/former-vice-president-pence-delivers-first-speech-since-leaving-office/"
+  - title: "Essential Politics: Biden pledges to leave Afghanistan. It’s a withdrawal years in the making."
+    excerpt: "Biden is the third president to pledge to reduce or completely withdraw U.S. troops in Afghanistan. It's a promise that comes after two administrations' worth of effort."
+    publishedDateTime: 2021-04-21T13:00:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-04-21/biden-trump-afghanistan-exit-essential-politics"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 93
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/1b1e00aa-af99-48d7-9336-61d21b7b38c3/thumbnail/1200x630/234a8fb9e9d1ff1882c4d4099e8ad0f1/0429-cbsn-gza-704802-640x360.jpg"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/18778c0/2147483647/strip/true/crop/5419x2845+0+384/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F49%2Fec%2Fa7c1febe441aab79ab4800a5ccee%2Fbiden-66428.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Former Vice President Mike Pence to deliver first speech since leaving office"
-    excerpt: "Former Vice President Mike Pence is delivering his first speech since leaving office to a group of conservatives in South Carolina on Thursday. His visit to the early primary state is fueling speculation over whether Pence is weighing a 2024 presidential bid."
-    publishedDateTime: 2021-04-29T22:39:00Z
-    webUrl: "https://www.cbsnews.com/video/former-vice-president-mike-pence-first-speech-since-leaving-office-south-carolina/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 102
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/04427689-6436-419b-9d61-b0761cc247d9/thumbnail/1200x630/506dedf489cb7ffe29b1dbe6faefb840/cbsn-fusion-former-vice-president-mike-pence-to-deliver-first-speech-since-leaving-office-to-south-carolina-conservatives-thumbnail-704546-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Mike Pence is returning to the public eye today — and insiders say it could foreshadow a 2024 presidential run"
-    excerpt: "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics."
-    publishedDateTime: 2021-04-30T03:18:00Z
-    webUrl: "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
-    images:
-      - url: "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg"
-        width: 847
-        height: 423
-        isCached: true
-  - title: "Mike Pence is returning to the public eye this week — and insiders say it could foreshadow a 2024 presidential run"
-    excerpt: "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics."
-    publishedDateTime: 2021-04-29T16:31:00Z
-    webUrl: "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg"
-        width: 847
-        height: 423
         isCached: true
 
 secured: "+9hZs/Rx5P7D4KAqszf+YA933ulAkno13ZlSv6GjhjlrFRbDi/ZdHWlxHC80UQW8QkYJOo2TN/syJMeO7Y9UpiU4Z1bsSu+rkvO/7keCKtrnYw3r1GgpC7ung3T9WAsfw1wEEIqx1UP6JhMiS7xcCee7o7WRIGRMp7j3jqAwl9IYZN5jBPGP7amFvFIGn4VC3/zDgNS4rQ8wJoI5YKyC8Q078RuQFd1qWXoqsuHxNbccdHEUCgPyTR+DocrWNqbC+i9kg/0kIKnCOQ44JLaoS36oOl9R9JibUfjgSRy5V6ojGLlOEKff48kF/FJg8Ywij6AUM0TYztXra98Iy7r/VncMHVF6igzUd75ixFO+95Q=;Sh9kQJGelYIak1PSmPoWcg=="

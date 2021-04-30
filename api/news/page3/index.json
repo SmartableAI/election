@@ -2,6 +2,218 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-28-kamala-harris-influencer-niece-meena-should-create-a-firewall-between-business-and-family-some-ethics-experts-advise.md",
+      "title": "Kamala Harris' influencer niece, Meena, 'should create a firewall' between business and family, some ethics experts advise",
+      "excerpt": "Meena Harris, the 36-year-old influencer niece of Vice President Kamala Harris, has raised concerns among some ethics experts due to her relationship with the VP.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/kamala-harris-influencer-niece-meena-create-firewall-business/story?id=77348609",
+      "originalUrl": "https://abcnews.go.com/Politics/kamala-harris-influencer-niece-meena-create-firewall-business/story?id=77348609",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/meena-harris-01-file-gty-jef-210427_1619556942935_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/kamala-harris-influencer-niece-meena-create-firewall-business/story?id=77348609",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-influencer-niece-meena-create-firewall-business/story?id=77348609",
+      "publishedDateTime": "2021-04-28T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-trump-administration-accuses-obama-of-wiretapping.md",
+      "title": "Trump administration accuses Obama of wiretapping",
+      "excerpt": "President Trump is calling for Congress to investigate his claim that the Obama administration wiretapped phones in Trump Tower during the presidential campaign. Associated Press White House reporter Vivian Salama joins CBSN to discuss.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/trump-administration-accuses-obama-of-wiretapping-1/",
+      "originalUrl": "https://www.cbsnews.com/video/trump-administration-accuses-obama-of-wiretapping-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/28/3c065ea1-f5ce-4109-b082-ec5c177eb01f/thumbnail/1200x630/d4c9e75aea628913678984b32312628c/cbsn-qbg-0305-1263634-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/trump-administration-accuses-obama-of-wiretapping-1/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-administration-accuses-obama-of-wiretapping-1/",
+      "publishedDateTime": "2021-04-28T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-not-an-easy-transition-inside-trumps-unconventional-first-months-out-of-office.md",
+      "title": "'Not an easy transition': Inside Trump's unconventional first months out of office ",
+      "excerpt": "Most Mondays and Tuesdays, former President Donald Trump skips golf to confer with aides about the week ahead.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pOEZBB6l-VI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pOEZBB6l-VI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210427170017-01-trump-manhattan-0309-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/28/politics/trump-post-presidency/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/trump-post-presidency/index.html",
+      "publishedDateTime": "2021-04-28T04:17:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-dc-officer-who-suffered-heart-attack-on-jan-6-calls-out-trump-for-downplaying-brutal-savage-riot.md",
+      "title": "D.C. officer who suffered heart attack on Jan. 6 calls out Trump for downplaying ‘brutal, savage’ riot",
+      "excerpt": "Michael Fanone, a D.C. police officer who suffered a heart attack and concussion in the insurrection, criticized former president Donald Trump and other politicians for downplaying the severity of the Jan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2021/04/28/michael-fanone-trump-gop-riots/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/04/28/michael-fanone-trump-gop-riots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KAPW7QCC5BESROR3ESOVZH2QP4.png&w=1440",
+          "width": 1440,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/04/28/michael-fanone-trump-gop-riots/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/04/28/michael-fanone-trump-gop-riots/?outputType=amp",
+      "publishedDateTime": "2021-04-28T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-tim-scott-what-to-know-about-republican-senator-giving-rebuttal-to-biden-address.md",
       "title": "Tim Scott: What to know about Republican senator giving rebuttal to Biden address",
       "excerpt": "Sen. Tim Scott is the junior senator from South Carolina and a rising star in the GOP.",
@@ -1120,231 +1332,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-24-biden-calls-turkeys-erdogan-ahead-of-possible-armenian-genocide-recognition.md",
-      "title": "Biden calls Turkey’s Erdogan ahead of possible Armenian genocide recognition",
-      "excerpt": "Biden expressed “his interest in a constructive bilateral relationship with expanded areas of cooperation and effective management of disagreements,” the White House said in a statement.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yl5e2l_yNdY/biden-calls-erdogan-armenian-genocide",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yl5e2l_yNdY/biden-calls-erdogan-armenian-genocide",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa434e0f-6b4c-404e-89ce-c7e26329c066/ff42937c-f70a-49f7-a7c6-6d27dc8e6c8f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-erdogan-armenian-genocide.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-erdogan-armenian-genocide.amp",
-      "publishedDateTime": "2021-04-23T17:08:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-california-gov-newsom-raising-money-by-tying-caitlyn-jenner-to-trump.md",
-      "title": "California Gov. Newsom raising money by tying Caitlyn Jenner to Trump",
-      "excerpt": "Gov. Gavin Newsom’s campaign team wasted no time coming after Caitlyn Jenner as she entered the recall race to take his seat. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5oimLrPheDI/newsom-raise-money-tying-caitlyn-jenner-to-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5oimLrPheDI/newsom-raise-money-tying-caitlyn-jenner-to-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Caitlyn-Jenner-CC.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/newsom-raise-money-tying-caitlyn-jenner-to-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/newsom-raise-money-tying-caitlyn-jenner-to-trump.amp",
-      "publishedDateTime": "2021-04-23T13:02:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-ice-ends-trump-era-policy-of-fining-undocumented-immigrants-calling-penalties-ineffective.md",
-      "title": "ICE ends Trump-era policy of fining undocumented immigrants, calling penalties 'ineffective'",
-      "excerpt": "Immigration and Customs Enforcement will no longer issue fines to undocumented immigrants who have failed to depart the United States, the agency announced Friday, a reversal from the Trump-era policy that threatened immigrants with thousands of dollars in debt to the federal government.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vSTsv0HjGSY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vSTsv0HjGSY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170725063150-01-ice-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/23/politics/ice-fines-reverse-trump-policy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/ice-fines-reverse-trump-policy/index.html",
-      "publishedDateTime": "2021-04-23T12:05:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-kamala-harris-ripped-by-new-hampshire-gop-for-visiting-wrong-border.md",
-      "title": "Kamala Harris ripped by New Hampshire GOP for visiting 'wrong border'",
-      "excerpt": "The New Hampshire Republican Party called out Vice President Kamala Harris for visiting the \"wrong border\" as she heads to the Granite State for a visit.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GPxyKiKgp5U/kamala-harris-ripped-by-new-hampshire-gop-for-visiting-wrong-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GPxyKiKgp5U/kamala-harris-ripped-by-new-hampshire-gop-for-visiting-wrong-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713e9f33-c4eb-4a97-8cf1-837ab5291ca0/cf878f8f-09af-4cf4-8926-35bdddacd5dc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-ripped-by-new-hampshire-gop-for-visiting-wrong-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-ripped-by-new-hampshire-gop-for-visiting-wrong-border.amp",
-      "publishedDateTime": "2021-04-23T11:33:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

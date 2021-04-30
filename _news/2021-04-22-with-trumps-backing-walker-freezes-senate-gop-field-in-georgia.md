@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/22/politics/georgia-senate-race-2022
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/22/politics/georgia-senate-race-2022-herschel-walker-donald-trump/index.html"
 type: article
 quality: 175
-heat: 415
+heat: 375
 published: true
 
 provider:
@@ -111,22 +111,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Court Could Consider Whether Trump Interfered in Cloud Computing Contract"
-    excerpt: "The decision could be a win for Amazon, which said it was passed over for the $10 billion Pentagon contract because of his animosity toward its founder, Jeff Bezos."
-    publishedDateTime: 2021-04-28T20:35:00Z
-    webUrl: "https://www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/28/business/28jedi/merlin_161472645_b390071c-509b-4eca-a742-44668e12796f-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Trump's fight with Murkowski roils GOP with new Alaska Senate challenger emerging"
     excerpt: "The first major GOP rift in the post-Trump era centers on Alaska Sen. Lisa Murkowski, the maverick Republican who has the strong backing of GOP leaders in Washington but has been targeted for defeat by former President Donald Trump and his closest confidantes over her vote to convict him for inciting the January 6 attack on the US Capitol."
     publishedDateTime: 2021-04-19T11:01:00Z
@@ -172,20 +156,6 @@ related:
       - url: "https://static.politico.com/6f/30/8635360e44c49f7a766287c92f14/sergio-de-la-pena.png"
         width: 700
         height: 466
-        isCached: true
-  - title: "Trump’s Battle to Win the First 100 Days"
-    excerpt: "The former president has been on an increasingly manic crusade to knock his successor and buff his own battered legacy."
-    publishedDateTime: 2021-04-29T08:30:00Z
-    webUrl: "https://www.politico.com/news/magazine/2021/04/29/donald-trump-100-days-484926"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/7c/b1/a782d7494b8980672da54063c872/mag.Kruse.Trump100Days-lede_773override.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "POLITICO Playbook: GOP struggles with how to handle Trumpism — and Trump"
     excerpt: "In her statement, sheONALD TRUMP, which are steeped in white identity politics — and that could make this situation a bit sticky for McCarthy to handle. It’s all a big reminder that GOP leadership is still unsure how to handle both Trump and Trumpism."
