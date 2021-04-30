@@ -31,181 +31,165 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump Says All the States That Voted for Him Had No Election Fraud"
-    excerpt: "\"Florida, Ohio, all of the states that we won, were properly run,\" Trump said, speaking of states he thought had adequate voter fraud safeguards."
-    publishedDateTime: 2021-04-20T01:32:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1"
+  - title: "Texas special election poses test for anti-Trump Republicans"
+    excerpt: "Adam Kinzinger came to Texas this week to hunt unicorns. The Illinois congressman was looking for Republicans who, like him, see former President Donald Trump as a scourge on their party and a threat to democracy."
+    publishedDateTime: 2021-04-30T04:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/texas-special-election-poses-test-anti-trump-republicans-77413515"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/texas-special-election-poses-test-anti-trump-republicans-77413515"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/texas-special-election-poses-test-anti-trump-republicans-77413515"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 139
-    images:
-      - url: "https://d.newsweek.com/en/full/1561291/breaking-news-newsweek-high-resolution.jpg"
-        width: 1366
-        height: 911
-        isCached: true
-  - title: "Boehner says he voted for Trump, didn't push back on election claims because he's retired"
-    excerpt: "Former House Speaker John Boehner (R-Ohio) revealed in an interview with TIME that he voted for former President Trump in the 2020 election but&nbs"
-    publishedDateTime: 2021-04-13T14:19:00Z
-    webUrl: "https://thehill.com/homenews/house/547884-boehner-says-he-voted-for-trump-didnt-push-back-on-election-claims-because-hes"
-    ampWebUrl: "https://thehill.com/homenews/house/547884-boehner-says-he-voted-for-trump-didnt-push-back-on-election-claims-because-hes?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/547884-boehner-says-he-voted-for-trump-didnt-push-back-on-election-claims-because-hes?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 131
-    images:
-      - url: "https://thehill.com/sites/default/files/boehner_trump040721.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Pro-Trump Author Eric Metaxas Calls Deniers of 2020 Election Fraud 'Enemies of This Country'"
-    excerpt: "Eric Metaxas, a New York Times bestselling Christian author and staunch supporter of former President Donald Trump, said deniers of baseless conspiracy theories that the results of the 2020 election were fraudulent are \"enemies of this country."
-    publishedDateTime: 2021-04-18T20:07:00Z
-    webUrl: "https://www.newsweek.com/pro-trump-author-eric-metaxas-calls-deniers-2020-election-fraud-enemies-this-country-1584527"
-    ampWebUrl: "https://www.newsweek.com/pro-trump-author-eric-metaxas-calls-deniers-2020-election-fraud-enemies-this-country-1584527?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pro-trump-author-eric-metaxas-calls-deniers-2020-election-fraud-enemies-this-country-1584527?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 129
-    images:
-      - url: "https://d.newsweek.com/en/full/1779580/eric-metaxas.jpg"
-        width: 1024
-        height: 578
-        isCached: true
-  - title: "Boehner lashes out at Trump, saying he 'abused' voters' trust"
-    excerpt: "Boehner on NSA Whistleblower: 'He's a Traitor' Former House Speaker John Boehner on Monday kept up his harsh criticism of President Donald Trump's role in the Jan. 6 riots, saying he \"abused\" the ..."
-    publishedDateTime: 2021-04-12T21:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/boehner-lashes-trump-abused-voters-trust/story?id=77019688"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/boehner-lashes-trump-abused-voters-trust/story?id=77019688"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/boehner-lashes-trump-abused-voters-trust/story?id=77019688"
-    type: article
-    provider:
-      name: ABCNews
+      name: ABC
       domain: abcnews.go.com
-    quality: 125
+    quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/john-boehner-01-ap-iwb-210412_1618236535797_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5d63f67d2de64ddca1113fef7563b55e_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Donald Trump rejects speechwriter's resignation"
-    excerpt: "Melania Trump's speechwriter has offered her resignation amid plagiarism claims, and has apologized for the \"chaos\" she has caused for the Trump family. CBS News senior political editor Steve Chaggaris and politics writer for The Atlantic Molly Ball join CBSN to discuss."
-    publishedDateTime: 2021-04-19T23:46:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-rejects-speechwriters-resignation-1/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/donald-trump-rejects-speechwriters-resignation-1/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/donald-trump-rejects-speechwriters-resignation-1/"
+  - title: "Trump administration accuses Obama of wiretapping"
+    excerpt: "President Trump is calling for Congress to investigate his claim that the Obama administration wiretapped phones in Trump Tower during the presidential campaign. Associated Press White House reporter Vivian Salama joins CBSN to discuss."
+    publishedDateTime: 2021-04-28T12:09:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-administration-accuses-obama-of-wiretapping-1/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-administration-accuses-obama-of-wiretapping-1/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-administration-accuses-obama-of-wiretapping-1/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/19/8feff424-79c4-48c2-a7c8-c25681720cea/thumbnail/1200x630/bdb2a34ced04bea350ebb6b1dfe6f115/cbsn-0720-rncday3-melaniatrumpsmistake-1095416-640x360.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/28/3c065ea1-f5ce-4109-b082-ec5c177eb01f/thumbnail/1200x630/d4c9e75aea628913678984b32312628c/cbsn-qbg-0305-1263634-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Ohio Republicans want to rename state park for Donald Trump"
-    excerpt: "The bill sponsored by Rep. Mike Loychik to rename Mosquito State Park to Donald J. Trump State Park is the latest attempt by Ohio Republicans to honor the former president."
-    publishedDateTime: 2021-04-20T17:53:00Z
-    webUrl: "https://www.chicagotribune.com/midwest/ct-aud-nw-ohio-state-park-name-donald-trump-20210420-po6izxruenck3clyn42y7xcdj4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/midwest/ct-aud-nw-ohio-state-park-name-donald-trump-20210420-po6izxruenck3clyn42y7xcdj4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/midwest/ct-aud-nw-ohio-state-park-name-donald-trump-20210420-po6izxruenck3clyn42y7xcdj4-story.html?outputType=amp"
+  - title: "How do Americans feel about President Trump?"
+    excerpt: "CBS News, along with YouGov, has tracked Americans' views on President Trump and his administration since he was sworn into office. CBS News elections director Anthony Salvanto joins CBSN with details on the latest poll."
+    publishedDateTime: 2021-04-29T01:11:00Z
+    webUrl: "https://www.cbsnews.com/video/how-do-americans-feel-about-president-trump-1/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/how-do-americans-feel-about-president-trump-1/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/how-do-americans-feel-about-president-trump-1/"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/YLuHmrMqB44AmyDZD9U8R6ujN28=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FQALKA4NVFF5TIJWDB7XEDACXA.JPG"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/a98694a2-87f8-43e5-851e-360553f9af2c/thumbnail/1200x630/886cfd09670491d318fc691ecc5dedc9/cbsn-0227-mikekellypanel-1273084-640x360.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "House passes bill aimed at stopping future Trump travel ban"
-    excerpt: "The House passed legislation on Wednesday that would limit executive authority to issue future travel bans like the one imposed by former President Trump against several Muslim-majority countries."
-    publishedDateTime: 2021-04-21T21:01:00Z
-    webUrl: "https://thehill.com/homenews/house/549577-house-passes-bill-aimed-at-stopping-future-trump-travel-ban"
-    ampWebUrl: "https://thehill.com/homenews/house/549577-house-passes-bill-aimed-at-stopping-future-trump-travel-ban?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/549577-house-passes-bill-aimed-at-stopping-future-trump-travel-ban?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/travelban_lax_062917getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Rick Scott navigates Trump, winning back the Senate — and his own ambitions"
-    excerpt: "As chairman of the National Republican Senatorial Committee, the Florida senator is putting himself front and center as he leads the battle to win the majority in 2022."
-    publishedDateTime: 2021-04-18T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/scott-trump-senate-midterms/2021/04/17/63fed852-9e0a-11eb-8005-bffc3a39f6d3_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/scott-trump-senate-midterms/2021/04/17/63fed852-9e0a-11eb-8005-bffc3a39f6d3_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/scott-trump-senate-midterms/2021/04/17/63fed852-9e0a-11eb-8005-bffc3a39f6d3_story.html?outputType=amp"
+  - title: "Senate votes to reinstate methane rules loosened by Trump"
+    excerpt: "Congressional Democrats are moving to reinstate regulations designed to limit potent greenhouse gas emissions from oil and gas fields"
+    publishedDateTime: 2021-04-28T21:56:00Z
+    webUrl: "https://www.washingtonpost.com/politics/democrats-move-to-reinstate-methane-rules-loosened-by-trump/2021/04/28/4e64a9a4-a7d8-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/democrats-move-to-reinstate-methane-rules-loosened-by-trump/2021/04/28/4e64a9a4-a7d8-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/democrats-move-to-reinstate-methane-rules-loosened-by-trump/2021/04/28/4e64a9a4-a7d8-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 123
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FPDDKZTYRII6XFEJR562ZVI6OU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J6YEKLFH2YI6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1176
+        height: 784
+        isCached: true
+  - title: "US Senate votes to reinstate methane rules loosened by Trump"
+    excerpt: "Congressional Democrats are moving to reinstate regulations designed to limit potent greenhouse gas emissions from oil and gas fields"
+    publishedDateTime: 2021-04-29T12:38:00Z
+    webUrl: "https://www.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
+    ampWebUrl: "https://amp.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/9028a5acafbbc71e738c040c43f59f5bac5873c9/0_274_8192_4915/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e8905907090ebd6c75b239f4e275576"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Polarizing Trump ally Kobach launches bid for Kansas AG"
+    excerpt: "Polarizing conservative Kris Kobach launched a campaign Thursday for Kansas attorney general, attempting a political comeback in 2022 after losing nationally watched races for governor and U.S. Senate."
+    publishedDateTime: 2021-04-29T19:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/kobach-signals-intent-to-run-for-kansas-attorney-general/2021/04/29/c33997dc-a902-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/kobach-signals-intent-to-run-for-kansas-attorney-general/2021/04/29/c33997dc-a902-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kobach-signals-intent-to-run-for-kansas-attorney-general/2021/04/29/c33997dc-a902-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6VAYMXFJEII6XKFHL5C53TPTMQ.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Mike Lindell Says He Had Dream About Trump One Year Before Meeting Him, Credits God"
-    excerpt: "MyPillow CEO Mike Lindell on Saturday said that he had a dream about Donald Trump in 2015, one year before the two met for the first time. During his address at the conservative Freedom Conference held in Broken Arrow,"
-    publishedDateTime: 2021-04-17T20:17:00Z
-    webUrl: "https://www.newsweek.com/mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god-1584445"
-    ampWebUrl: "https://www.newsweek.com/mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god-1584445?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god-1584445?amp=1"
+  - title: "Vocal Trump ally Kobach opens launches bid for Kansas AG"
+    excerpt: "Kobach, a former Kansas secretary of state, built his political brand by advocating restrictive immigration policies and tough voter identification laws, including a prove-your-ci"
+    publishedDateTime: 2021-04-29T17:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/kobach-signals-intent-to-run-for-kansas-attorney-general/2021/04/29/c33997dc-a902-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/kobach-signals-intent-to-run-for-kansas-attorney-general/2021/04/29/c33997dc-a902-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kobach-signals-intent-to-run-for-kansas-attorney-general/2021/04/29/c33997dc-a902-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 119
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1779436/mike-lindell.jpg"
-        width: 2500
-        height: 1580
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Fox News Hosts 'Joined Forces' With Giuliani to Spread Trump Voter Fraud Lies, Lawsuit Says"
-    excerpt: "Smartmatic's motion states that Fox News and its hosts \"joined forces\" with Rudy Giuliani and Sidney Powell, two attorneys representing the re-election campaign of then-President Donald Trump, knowing that the attorneys would make false claims against ..."
-    publishedDateTime: 2021-04-13T23:57:00Z
-    webUrl: "https://www.newsweek.com/fox-news-hosts-joined-forces-giuliani-spread-trump-voter-fraud-lies-lawsuit-says-1583425"
-    ampWebUrl: "https://www.newsweek.com/fox-news-hosts-joined-forces-giuliani-spread-trump-voter-fraud-lies-lawsuit-says-1583425?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fox-news-hosts-joined-forces-giuliani-spread-trump-voter-fraud-lies-lawsuit-says-1583425?amp=1"
+  - title: "George W. Bush calls country \"divided\" under Trump and pushes immigration reform"
+    excerpt: "Former President George W. Bush, who has mostly stayed on the political sidelines after the White House, has reemerged with criticism of his Republican successor as he advocates for a sharply different immigration policy from former President Donald Trump."
+    publishedDateTime: 2021-04-22T10:40:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-reform-george-w-bush-donald-trump-criticism/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-reform-george-w-bush-donald-trump-criticism/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-reform-george-w-bush-donald-trump-criticism/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
     images:
-      - url: "https://d.newsweek.com/en/full/1777348/symantec-fox-news-lawsuit-giuliana-trump-election.jpg"
-        width: 3000
-        height: 1996
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/20/845cd18c-e837-4007-b554-42f049a8e80c/thumbnail/1200x630/8e1cb01de7d35935dc1b4ae8bbdb396e/dsc00988.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Donald Trump Supporters Protest Pirate Festival Cancellation With 'Trumparilla' Boat Parade"
-    excerpt: "Each year, in Tampa, Florida, hundreds of boaters hit the waves to celebrate the Gasparilla Pirate Festival, which also hosts a land parade. Although the event had been called off this year due to the coronavirus pandemic,"
-    publishedDateTime: 2021-04-19T15:41:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-pirate-festival-trumparilla-boat-parade-1584665"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-pirate-festival-trumparilla-boat-parade-1584665?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-pirate-festival-trumparilla-boat-parade-1584665?amp=1"
+  - title: "As Trump seizes on Arizona ballot audit, election officials fear partisan vote counts could be the norm in future elections"
+    excerpt: "The GOP-backed recount of Maricopa County’s ballots has been criticized for abandoning state guidelines and allowing the rules to be set by a private contractor who promoted claims that the election was stolen."
+    publishedDateTime: 2021-04-29T20:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-arizona-recount/2021/04/29/bcd8d832-a798-11eb-bca5-048b2759a489_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-arizona-recount/2021/04/29/bcd8d832-a798-11eb-bca5-048b2759a489_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-arizona-recount/2021/04/29/bcd8d832-a798-11eb-bca5-048b2759a489_story.html?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
     images:
-      - url: "https://d.newsweek.com/en/full/1779836/trump-supports-florida-boat.jpg"
-        width: 1024
-        height: 728
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZZ5RRBVI7YI6XDA2K3YMWT7TWU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Investigation suppressed by Trump administration reveals obstacles to hurricane aid for Puerto Rico"
+    excerpt: "A watchdog report uncovers bureaucratic hurdles the Trump administration erected for the struggling island to receive aid after Hurricanes Irma and Maria."
+    publishedDateTime: 2021-04-22T15:49:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/04/22/puerto-rico-hurricane-trump-hud/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/04/22/puerto-rico-hurricane-trump-hud/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/04/22/puerto-rico-hurricane-trump-hud/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UZZ77WEY24I6XDYKGOCM6T5TTE.jpg&w=1440"
+        width: 1440
+        height: 961
         isCached: true
   - title: "Senate Republicans unveil a $568 billion infrastructure package that would keep the Trump tax cuts"
     excerpt: "The plan would set up user-fees to tax people rather than corporations. Democrats are likely to oppose it since it's a quarter of Biden's proposal."
@@ -223,239 +207,20 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Trump didn’t bring White working-class voters to the Republican Party. The data suggest he kept them away."
-    excerpt: "It's time to bust the myth: Most Trump voters were not working class. Knowing whether Donald Trump uniquely appealed to working-class Whites is actually more difficult than you might think, largely because there’s actually no universally-accepted ..."
-    publishedDateTime: 2021-04-14T11:00:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp"
+  - title: "Professional political survivor Mike Pence tests if there's any room left for him in a Trump Republican Party"
+    excerpt: "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics."
+    publishedDateTime: 2021-04-28T08:01:00Z
+    webUrl: "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 107
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MDNNTXEOAEI6XIZ63IUJIHFZVQ.jpg&w=1440"
-        width: 1440
-        height: 918
+      - url: "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg"
+        width: 847
+        height: 423
         isCached: true
-  - title: "Donald Trump: I'm a \"unifier\" for the Republican Party"
-    excerpt: "Donald Trump has dubbed himself a \"unifier\" for the Republican Party after a dominant performance on Super Tuesday. CBS News Chief White House Correspondent Major Garrett has analysis for CBSN."
-    publishedDateTime: 2021-04-14T16:49:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/14/e428960c-cfc4-471e-b96b-0a72db98dfef/thumbnail/1200x630/ff1951d27c33bc7fbe60ba1740ee4030/cbsn-gop-trump-0302-496010-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Donald Trump goes after Bill Clinton in response to attack ad"
-    excerpt: "A new attack ad against Donald Trump mashes up a number of his questionable quotes targeting women. In response, Trump tweeted that maybe Bill Clinton should run for president instead of his wife Hillary."
-    publishedDateTime: 2021-04-17T12:17:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-goes-after-bill-clinton-in-response-to-attack-ad-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/17/ae74e810-d969-4f9f-99b9-3a4ef41bf4be/thumbnail/1200x630/fcd4fb0d9539667368fa4dc650eb9345/0517-cbsn-wtd-trumpattackswibill-1064583-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump gains endorsement of the NRA"
-    excerpt: "America's largest gun rights advocacy group is backing Donald Trump. The NRA offiicially endorsed the presumptive Republican nominee at their annual convention. Donald Trump then delivered a speech where he fired off a few shots at Hillary Clinton."
-    publishedDateTime: 2021-04-17T15:04:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-gains-endorsement-of-the-nra-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/17/cb5d15c5-812c-4091-8fa7-22e568000775/thumbnail/1200x630/debff44a0ccfb1c8355835c4d00530a5/eve-trump-nra-1066566-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Donald Trump faces backlash over comments about judge"
-    excerpt: "Beast's Betsy Woodruff joins CBSN to discuss the backlash against Donald Trump, who accused a federal judge overseeing the lawsuit regarding Trump University of being unfair based on his Mexican heritage."
-    publishedDateTime: 2021-04-18T06:30:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-faces-backlash-over-comments-about-judge/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/18/dcd664ed-ddac-4240-9f14-82e0330c3f7d/thumbnail/1200x630/21d8318cba3361fb95ab75f817569175/cbsn-trumps-trouble-0616-1073915-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Hillary Clinton calls Donald Trump a \"fraud\""
-    excerpt: "Hillary Clinton called Donald Trump a \"fraud\" for allegedly ripping off students at Trump University. This comes as President Obama jumps into the 2016 presidential race, slamming Trump's proposals as \"crazy."
-    publishedDateTime: 2021-04-18T02:26:00Z
-    webUrl: "https://www.cbsnews.com/video/hillary-clinton-calls-donald-trump-a-fraud-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/18/8a9fcd20-3b61-4e0d-a1f4-2c29ec2255de/thumbnail/1200x630/8e2fac14c92f5dffbdebed282a1d343e/cbsn-0601-clintontrumphhy-1071908-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Fact Check-No evidence Donald Trump said he plays ‘very little golf’"
-    excerpt: "Social media posts attributing a quotation about playing “very little golf” to former U.S. President Donald Trump are false. Reuters did not find any evidence of Trump ever saying this."
-    publishedDateTime: 2021-04-19T16:15:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-trump-golf-idUSL1N2MC1Z4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MC1Z4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MC1Z4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "German carmakers the focus of Trump's ire"
-    excerpt: "Posted . Shares in German carmakers BMW, Daimler and Volkswagen have fallen after United States President-elect Donald Trump"
-    publishedDateTime: 2021-04-19T05:00:00Z
-    webUrl: "https://www.reuters.com/video/watch/id4FJ?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/587d1ffee4b0b24306ef38d2-1484595198557?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Donald Trump's campaign chair resigns"
-    excerpt: "Donald Trump's campaign had yet another staffing change on Friday. Paul Manafort, Trump's campaign chair, handed in his resignation. Manafort's exit shakes up an already jittery campaign that is plummeting in the polls."
-    publishedDateTime: 2021-04-21T03:29:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trumps-campaign-chair-resigns-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/21/e490e4cf-8f4c-409b-9d9b-9a9c3fef4ff1/thumbnail/1200x630/5c0587cfd0886d7c68da051d69776619/eve-manafort-trump-0819-1109632-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Ohio Republicans aim to rename state park after Donald Trump"
-    excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake State Park to Donald J."
-    publishedDateTime: 2021-04-21T15:36:00Z
-    webUrl: "https://apnews.com/article/donald-trump-ohio-government-and-politics-ce4c53aff66aabb3c83435dba0c01314"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/4e3a416081f744298ea773bfbd3eb964/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Trump says \"the shackles are off\""
-    excerpt: "In a tweetstorm, Donald Trump criticized Paul Ryan and the Republican Party and claimed \"the shackles are off.\" CBS News Chief White House Correspondent Major Garrett is following the Trump campaign with the latest."
-    publishedDateTime: 2021-04-23T03:13:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-says-the-shackles-are-off-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/23/90f9aee8-4a69-4373-a2e0-db98a68f15b0/thumbnail/1200x630/00a4fc769e58414c28af39574f65af03/1011-cbsn-trumpunshackled-1147591-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump says he's optimistic that the GOP will take back Congress in 2022 midterm elections and the White House in 2024"
-    excerpt: "Former President Trump said at the Republican National Committee's donor retreat over the weekend that he's optimistic Republicans will retake Congress in 2022 and reclaim the White House in 2024 and reiterated falsehoods about voter fraud in 2020."
-    publishedDateTime: 2021-04-12T23:49:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-says-hes-optimistic-that-the-gop-will-take-back-congress-in-2022-midterm-elections/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 97
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/12/0fafe1a2-52d1-4b8c-bbad-773dd9aad4c2/thumbnail/1200x630/f422c01c755616e5c70b15612ab66af3/cbsn-fusion-former-president-donald-trump-says-hes-optimistic-that-the-republican-party-will-take-back-congress-in-2022-midterm-elections-and-the-white-house-in-2024-thumbnail-690432-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump Says Georgia Election Law Is ‘Far Too Weak’"
-    excerpt: "The former president’s message to Republicans is that using election laws to screw over the opposition isn’t just acceptable – it’s mandatory."
-    publishedDateTime: 2021-04-21T00:56:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/04/trump-says-georgia-election-law-is-far-too-weak.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/04/trump-says-georgia-election-law-is-far-too-weak.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/04/trump-says-georgia-election-law-is-far-too-weak.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 90
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/653/417/69698d5d9cda3fce4bd2251e096f119f23-trump-hannity.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Ohio Republicans aim to rename state park after Donald Trump"
-    excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake “This legislation is meant to honor the commitment and dedication that our 45th President of the United States,"
-    publishedDateTime: 2021-04-21T20:54:00Z
-    webUrl: "https://www.chron.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Potential jurors quizzed about feelings on Donald Trump in first Capitol-related trial"
-    excerpt: "Juror after juror raised their hand to say they had some thoughts about the Trump administration — and they weren’t positive."
-    publishedDateTime: 2021-04-20T15:56:00Z
-    webUrl: "https://www.nydailynews.com/new-york/ny-donald-trump-potential-jurors-brendan-hunt-trial-brooklyn-federal-court-20210420-uu2zwozqzvdfzg7ttvdnxxvvwq-story.html"
-    ampWebUrl: "https://www.nydailynews.com/new-york/ny-donald-trump-potential-jurors-brendan-hunt-trial-brooklyn-federal-court-20210420-uu2zwozqzvdfzg7ttvdnxxvvwq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/ny-donald-trump-potential-jurors-brendan-hunt-trial-brooklyn-federal-court-20210420-uu2zwozqzvdfzg7ttvdnxxvvwq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 67
-    images:
-      - url: "https://www.nydailynews.com/resizer/thv70YWnM_eo0AYGd6KJThFR_zk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JE4YEY4NUVHUPBE3YYBCXWCQ7Q.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Cowboys for Trump Founder Appeals Recall Bid to High Court"
-    excerpt: "Cowboys for Trump founder Couy Griffin has filed an appeal with the state Supreme Court as he seeks to fend off an effort to recall him from office as a county commissioner in southern New Mexico."
-    publishedDateTime: 2021-04-20T00:50:00Z
-    webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-04-19/cowboys-for-trump-founder-appeals-recall-bid-to-high-court"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
-  - title: "George W. Bush Condemns the Trump-Era Republican Party"
-    excerpt: "Bush Condemns Trump’s GOP Former President George W. Bush derided his Republican Party on Tuesday for what he said it has become in the era of Donald Trump and misinformation, describing the GOP as \"isolationist, protectionist and, to a certain extent ..."
-    publishedDateTime: 2021-04-20T17:47:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-20/george-w-bush-condemns-the-trump-era-republican-party"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "tUjvWSxUXoZ3VGsXFaSQcfHvkOuYAk8VLETntsRH6chCk5URH12TmQG7g54z8DoTEFpEE2T5XkyMy/TDmYqM1XyMXYEfspzEWIPcFGkJGsBdZqrS3jEo/8h5sPOq2bjlxBVcEtBxUYvOnUldOz292U9GqVa96h3n0i41RA/6aOU9RMdaf2vByje44+v0XM3EkkQtkUx/OLzL52bLHyGS6Dp4vQuWDYgNiFh5fx7uY0ZuLKNmBvXyrOQ8BboTCMqX7znMvZDmJH2ieoRbPoRRAX3DtRZvX5VCz4cF1QcOaBb4iruDO8Tm9HJeCBXp7ftokxRZbeGEilyX1wwuRR92sQCLWsL0FyPy9DTQa0di002fpEqSd64MvTHzQqd4hhTRSRfEv0x2PsYL6sF9e6Z8zWVUYPmWgcDr6/FobngGWt68pTawY8Q++jmGEn6VsHCeCdV1KWjaduUlN18JbqaMyIQC/YBUe8ZRvmaPiFdTkI326vsZw4VnON51yiy3g1iqxk46Wt78L27O3GKcY0GOmA==;P6Geg7BUB8UBt/GKJ9JS0Q=="
 ---

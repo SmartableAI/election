@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Water bill may open spigot for Biden infrastructure plan"
-excerpt: "Rarely has a routine water resources bill generated so much political buzz, but as senators hoisted the measure to passage Thursday the bipartisan infrastructure legislation served as a potential template for building consensus around President Joe Biden’s ambitious American Jobs Plan."
-publishedDateTime: 2021-04-29T20:09:00Z
-originalUrl: "https://www.washingtonpost.com/politics/water-bill-may-open-spigot-for-biden-infrastructure-plan/2021/04/29/311daa82-a92f-11eb-a8a7-5f45ddcdf364_story.html"
-webUrl: "https://www.washingtonpost.com/politics/water-bill-may-open-spigot-for-biden-infrastructure-plan/2021/04/29/311daa82-a92f-11eb-a8a7-5f45ddcdf364_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/water-bill-may-open-spigot-for-biden-infrastructure-plan/2021/04/29/311daa82-a92f-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/water-bill-may-open-spigot-for-biden-infrastructure-plan/2021/04/29/311daa82-a92f-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+excerpt: "Rarely has a routine water resources bill generated so much political buzz, but as senators hoisted the measure to passage Thursday the bipartisan infrastructure legislation served as a potential template for building consensus around President Joe Biden ’s ambitious American Jobs Plan."
+publishedDateTime: 2021-04-29T21:10:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/water-bill-open-spigot-biden-infrastructure-plan-77404493"
+webUrl: "https://abcnews.go.com/Business/wireStory/water-bill-open-spigot-biden-infrastructure-plan-77404493"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/water-bill-open-spigot-biden-infrastructure-plan-77404493"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/water-bill-open-spigot-biden-infrastructure-plan-77404493"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FVTU3MVJF4I6XKFHL5C53TPTMQ.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_b58d496d76d746199d6d5052e9ccf57c_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -1240,6 +1240,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "UooQA0sJp2yCzMSxsb4wsidge3HOhANUyokXrWg1kNuzSGFVy436ZVEYy+oloU739O7cxspMpX2/toEFwznrZE7i6Xs5ik3jpKg+xH2o8HprMyQLJ94Arsd7RwOZb7bByW2b20BRuJ7/utqBsBBGI1IGnbXeObshdtKqpA4k9P6gPLnFMGnqKaDXB4CGthRNgftE/KNg2v2jjg0lAYC34TlWxXSd0RQR1jnces70db0ho49w2MI3WcB4rUAxxC44rXq3tIXPXpee8tRuV4xMImN/w4YcYR61B4hchE+R0qruhNtpKEoCpkAsGl6p/GnNy09qU8XwCsB+X9LQj7J2qgNLYnYx6lMK9lRysz3rIS4/ePYtBAI/QW42eqj1eq1ZVbRxc3rwBdXXpGtMbuc0GoR7B1bBzDc6POt5Ljl0YnknjRhBsYfpl72zMmU9k3gQG39dOpV71gKQwlfLXo1eE3stnYgL2k4RPxTWCm27vmrWvd5nhRrol7gO26VuM53Zs8jPf96bO+aJtsr17jEp6A==;P7D4J2cbw8nRLvcrigANeQ=="
+secured: "uRwrX8q+5eByzXXzWuXp2r7fnbmCxHOQHXL4gMhCY/05p5DW4sO0hU2f9LWGA/pdsUX5kkdU2yqaqpUxorOE9eygc6/O+xi/DoUGSZUFnmTU93004CyINCF9RzHR7ZcnLQoqAWy73tZtc6bjwzfA23NDLOSje6RAjrIRrxOY3o10++PFQlLdeVqULXdF6ndYjeX8YG81colA1jF+qrJ1QPWJLWci3rBOSFObaEO4ZNixvqkgEUYsXSAyLZiJ2sYhrGbeJ5he6SuYevhOjg1LF9Y3y6ho4JpDmANts5FP0DgqeZTQRgIAoe4OPqkIbTcjXOKu/R2CDWDN1u69UhR454IuyPMqmnG4yIPCkBNTyG8=;KCtPz6kZMA3Md7WVNHamHA=="
 ---
 

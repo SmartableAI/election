@@ -29,45 +29,36 @@ images:
     isCached: true
 
 related:
-  - title: "How do Americans feel about President Trump?"
-    excerpt: "CBS News, along with YouGov, has tracked Americans' views on President Trump and his administration since he was sworn into office. CBS News elections director Anthony Salvanto joins CBSN with details on the latest poll."
-    publishedDateTime: 2021-04-29T01:11:00Z
-    webUrl: "https://www.cbsnews.com/video/how-do-americans-feel-about-president-trump-1/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/how-do-americans-feel-about-president-trump-1/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/how-do-americans-feel-about-president-trump-1/"
+  - title: "Lindsey Graham Announces Contest Where Winner Gets to Golf With Trump and Him"
+    excerpt: "\"If you don't win, the money is going to be used to take back the House and the Senate, so we can stop this slide to socialism,\" Graham said."
+    publishedDateTime: 2021-04-28T03:39:00Z
+    webUrl: "https://www.newsweek.com/lindsey-graham-announces-contest-where-winner-gets-golf-trump-him-1586971"
+    ampWebUrl: "https://www.newsweek.com/lindsey-graham-announces-contest-where-winner-gets-golf-trump-him-1586971?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-announces-contest-where-winner-gets-golf-trump-him-1586971?amp=1"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/a98694a2-87f8-43e5-851e-360553f9af2c/thumbnail/1200x630/886cfd09670491d318fc691ecc5dedc9/cbsn-0227-mikekellypanel-1273084-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d.newsweek.com/en/full/1783894/donald-trump-lindsey-graham-golf-contest-tournament.jpg"
+        width: 3000
+        height: 1996
         isCached: true
-  - title: "Former President Trump criticizes FBI search of Rudy Giuliani's home and office"
-    excerpt: "Former President Donald Trump spoke out against the investigation into his personal attorney, Rudy Giuliani, after the FBI executed a search warrant at Giuliani's home and office as part of the probe into Giuliani's dealings with Ukraine."
-    publishedDateTime: 2021-04-29T18:04:00Z
-    webUrl: "https://www.cbsnews.com/video/fbi-search-warrant-rudy-giuliani-home-and-office-donald-trump/"
+  - title: "DOJ ends Trump-era limits on grants to 'sanctuary cities'"
+    excerpt: "World DOJ ends Trump-era limits on grants to 'sanctuary cities' Posted . The U.S. Justice Department has repealed a policy put in place during Donald Trump's presidency that cut o"
+    publishedDateTime: 2021-04-29T00:56:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEAFZ9B3"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 101
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/29/c4afdc2d-0f1f-4899-8ff4-e9b7b0267106/thumbnail/1200x630/1fa6051efb8457378284d0e57493d5a0/cbsn-fusion-fbi-search-warrant-rudy-giuliani-home-and-office-donald-trump-thumbnail-704183-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static.reuters.com/resources/r/?d=20210428&i=OVEAFZ9B3&r=OVEAFZ9B3&t=2"
+        width: 960
+        height: 540
         isCached: true
-  - title: "Ex-Trump Vice President Pence Makes First Public Appearance Since January"
-    excerpt: "Pence spoke for a half hour in Columbia, South Carolina, to the Palmetto Family Council, a religious conservative group. It was his first speech since he and then-President Donald Trump handed over power to President Joe Biden and Vice President Kamala Harris on Jan."
-    publishedDateTime: 2021-04-30T01:03:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-29/ex-trump-vice-president-pence-makes-first-public-appearance-since-january"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 59
 
 secured: "tefvGK+ntTmYHD04wuhsQ9U39roBiqWT2DCZsoWZODobXt7/7B3kbLEZLU+q+MpfgV5JqSeIth7UYKPct/j0LgZINA+GBq9QrjaX414OLVibWnR/yh1W8Oi1JZqM436EgQVPgn+tEcfuRRuguUXurFHt1s0Re/LfKpW7cw6t/3jsnhwBz8jbNFVYESQ/MS6q5H9kYK4d1Hx24syV28L1LP+yuY6xtXz6kyx3I38VOG5W/EW4KS28xrty2RWpfqvuoN14CFndJobkcxI0MKlS4P/ezOpogX4HdBkK/GfsnffjxCllf1W6Qj/z2iFEYsvYsJ+IRdqmmaWbTwHOlHv4W7G4iT76zjFhu5oE/0cQKG0Y0ni4c/svTPi9+0b4F2itQ0VoYxm5LEZyX5FTw3G4yH+3MeY94V6OQiwmNPYZGZqx7c8WhPT2984RkZ0Zo5mfw8EfIX5sBzZtQqbyt9i4VgqzQyGvyq+TLV62JXvp0tJs4CCcbrSFwRSoaNp7tRG5KnMtGXwMx9Tmze2Mr7FmGA==;jH+Es6DjkUqhXAlkU/NT7Q=="
 ---

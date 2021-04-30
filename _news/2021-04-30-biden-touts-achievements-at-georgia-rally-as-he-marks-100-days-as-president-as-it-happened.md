@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Biden to trans youth: 'The president has your back'"
-excerpt: "In his first address to Congress, President Joe Biden called for passage of the Equality Act and gave a shout-out to transgender youth, saying \"the president has your back.\""
-publishedDateTime: 2021-04-29T05:36:00Z
-originalUrl: "https://www.reuters.com/video/watch/idOVEAFZTUN"
-webUrl: "https://www.reuters.com/video/watch/idOVEAFZTUN"
+title: "Biden touts achievements at Georgia rally as he marks 100 days as president – as it happened"
+excerpt: "End detention now’ – follow live"
+publishedDateTime: 2021-04-29T23:25:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest?page=with:block-608b3b9b8f0874ac774541c8"
+webUrl: "https://www.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest?page=with:block-608b3b9b8f0874ac774541c8"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
 type: article
-quality: 105
+quality: 114
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://static.reuters.com/resources/r/?d=20210429&i=OVEAFZTUN&r=OVEAFZTUN&t=2"
-    width: 960
-    height: 540
+  - url: "https://i.guim.co.uk/img/media/a5f0d64f9bd702c44ba50d404f7d894f6e39cc64/0_222_4862_2917/master/4862.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=787b2730ae0133e578be8022776ba688"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -45,22 +47,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Biden touts achievements at Georgia rally as he marks 100 days as president – as it happened"
-    excerpt: "End detention now’ – follow live"
-    publishedDateTime: 2021-04-29T23:25:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest?page=with:block-608b3b9b8f0874ac774541c8"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 114
-    images:
-      - url: "https://i.guim.co.uk/img/media/a5f0d64f9bd702c44ba50d404f7d894f6e39cc64/0_222_4862_2917/master/4862.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=787b2730ae0133e578be8022776ba688"
-        width: 600
-        height: 360
-        isCached: true
   - title: "'Life changing': President Biden asked for favorite national park memories, and they were heartwarming"
     excerpt: "National park-goers shared some of those memories and moments on Twitter this week in honor of National Park Week, which runs through Sunday and is celebrated by the National Park Foundation each April."
     publishedDateTime: 2021-04-24T12:00:00Z
@@ -77,7 +63,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden to trans youth: 'The president has your back'"
+    excerpt: "In his first address to Congress, President Joe Biden called for passage of the Equality Act and gave a shout-out to transgender youth, saying \"the president has your back.\""
+    publishedDateTime: 2021-04-29T05:36:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEAFZTUN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210429&i=OVEAFZTUN&r=OVEAFZTUN&t=2"
+        width: 960
+        height: 540
+        isCached: true
 
-secured: "eQBPzdga94eT7e2ykoN8wOETMi/m4qLmYGLC/xQXTAl0ssz3IKfio86O4b7b3n42W6Wti79sqoUT0gIRhrBjOK4qggO2celT944CA2sxlamKZuhM8fWgBlvgPZTWgWlzSs2F9cP6ylqhbQz3pOj+JWd30myQwVH4gB50YpJf+I69IMeOmmRa+eX9G5IwEXNH+4SydHJKtH+9L9JSGlp0N7eOQ2dAd/87SGZH4OElY+MYvgV+NImufsuTUOnxGqtk0cpCf+JiCZedQKFj/rXZXwWwycsKJ9U77IzSvVLBACxfXIZAUtSTJZoK3rLyRHwiGbuDhMKW8bC0Xjt0ej67eOuuV2xxie84NHvQtFlG+Cc=;ez8i/1baBw8s2RkiBYILuQ=="
+secured: "6++voFdxxBJwrHBzO/iS331RtdhENiGRfD62xSH73niaIeeiBiZ68tS6LBGF/c2/t3U36sXu+bvem8WjYqMHxpC7S0GTQFhgmLdAqCzyI2oGrU2CtFt1Ue1uS85IFTH1WO6tOHwhd9gJwUYFalxTtvu0Nn2Nt7X8Hkf2ySRC75dH3Zj+q2kNuNJS2K9VefzCTeJ9y5QfpHbKDRI7hJPR0fDgEQeewddO8+pdOBq5KelcEAgzO4JJyCbAZwjHfEaNHHx4qtyqQV5NH0pwRvX4Be+E5ZJA+j3JPZW/l1YhK6hfncjuoOhgpqjLswYX2cl+LStfN5twAyf4oQbIfTVZFB8oBj6ok2t7m3ToMZYKFQQ=;sA2PMMZyVA6HsG3wje31hw=="
 ---
 
