@@ -47,6 +47,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Texas special election poses test for anti-Trump Republicans"
+    excerpt: "Adam Kinzinger came to Texas this week to hunt unicorns."
+    publishedDateTime: 2021-04-30T04:33:00Z
+    webUrl: "https://www.businessinsider.com/texas-special-election-poses-test-for-anti-trump-republicans-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/texas-special-election-poses-test-for-anti-trump-republicans-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/texas-special-election-poses-test-for-anti-trump-republicans-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Investigation suppressed by Trump administration reveals obstacles to hurricane aid for Puerto Rico"
     excerpt: "A watchdog report uncovers bureaucratic hurdles the Trump administration erected for the struggling island to receive aid after Hurricanes Irma and Maria."
     publishedDateTime: 2021-04-22T15:49:00Z

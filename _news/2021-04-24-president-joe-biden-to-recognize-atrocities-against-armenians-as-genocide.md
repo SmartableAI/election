@@ -93,19 +93,19 @@ related:
         isCached: true
   - title: "Biden and Carter, longtime allies, reconnect in Georgia"
     excerpt: "President Joe Biden is visiting former President Jimmy Carter in Plains, Georgia, where the 39th president and his wife, Rosalynn, have lived most of their lives"
-    publishedDateTime: 2021-04-29T17:35:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-and-carter-longtime-allies-reconnect-in-georgia/2021/04/29/ba79dd66-a919-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-and-carter-longtime-allies-reconnect-in-georgia/2021/04/29/ba79dd66-a919-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-and-carter-longtime-allies-reconnect-in-georgia/2021/04/29/ba79dd66-a919-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    publishedDateTime: 2021-04-29T18:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-carter-longtime-allies-reconnect-georgia-77401025"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-carter-longtime-allies-reconnect-georgia-77401025"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-carter-longtime-allies-reconnect-georgia-77401025"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CQACNIVJEMI6XKFHL5C53TPTMQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Politics/WireAP_293c4b245f174ef1a4dadc48ca68f64f_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Rand Paul Calls for Joe Biden to Burn Face Mask to Promote COVID Vaccine"
     excerpt: "Rand said that \"virtually zero\" people have died of COVID-19 after being vaccinated. The number is closer to 5,800, according to the U.S. Centers for Disease Control and Prevention."

@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's economic push tests the power of pocketbook issues to sway America's polarized electorate"
+    excerpt: "A building Biden boom may be about to reshape America's politics.\n    \n"
+    publishedDateTime: 2021-04-30T04:31:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JwUmC_v6dVw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/joe-biden-economy-2022-elections/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/joe-biden-economy-2022-elections/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429184410-biden-discurso-comunicativo-mensaje-congreso-roberto-izurieta-aristegui-mexico-00000921-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "In pictures: Biden's first address to Congress"
     excerpt: "For the first time in his presidency, Joe Biden is addressing a joint session of Congress.\n    \n"
     publishedDateTime: 2021-04-29T03:42:52Z

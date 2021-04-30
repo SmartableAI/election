@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Former Vice President Pence delivers first speech since leaving office"
+    excerpt: "Former Vice President Mike Pence made his first public appearance since leaving the White House on Thursday. He spoke at the annual Palmetto Family Council gala in South Carolina. Pence slammed President Biden while also praising his time in the Trump administration."
+    publishedDateTime: 2021-04-30T04:13:00Z
+    webUrl: "https://www.cbsnews.com/video/former-vice-president-pence-delivers-first-speech-since-leaving-office/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/1b1e00aa-af99-48d7-9336-61d21b7b38c3/thumbnail/1200x630/234a8fb9e9d1ff1882c4d4099e8ad0f1/0429-cbsn-gza-704802-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Former Vice President Mike Pence to deliver first speech since leaving office"
     excerpt: "Former Vice President Mike Pence is delivering his first speech since leaving office to a group of conservatives in South Carolina on Thursday. His visit to the early primary state is fueling speculation over whether Pence is weighing a 2024 presidential bid."
     publishedDateTime: 2021-04-29T22:39:00Z
@@ -72,6 +86,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/04427689-6436-419b-9d61-b0761cc247d9/thumbnail/1200x630/506dedf489cb7ffe29b1dbe6faefb840/cbsn-fusion-former-vice-president-mike-pence-to-deliver-first-speech-since-leaving-office-to-south-carolina-conservatives-thumbnail-704546-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Mike Pence is returning to the public eye today — and insiders say it could foreshadow a 2024 presidential run"
+    excerpt: "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics."
+    publishedDateTime: 2021-04-30T03:18:00Z
+    webUrl: "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg"
+        width: 847
+        height: 423
         isCached: true
 
 secured: "+XviqLom34JyWS/QLic8nz5QmWmO9yoqdvlqa7+3BkDwnnVk0dnNcqwl12GbMOfOaFs4zv6OOP4N5DQ3in6FNuCd+U7K1Barmju94wamIL3fRYNGNoNdOho0FGTkMfbv8BCg5kdcW5BtW31INdnwmh+nD2Mvu85Uvjt7jvjc+NXQ34YuXMtbbR8uuNnB+CHptPK/+INKNjXNXLXALaVRMKlp72Qy0JRTf107KWPEJ81e/pEtP30tWi5Y6+u5FoHl5pUlK1VmErSfpYvT8nCIlUMMvLmzZzlJhy4Vh+M2L9+I+B2qYC8sAkX6MRIav20P5HJNJ/5Sn874oV6dct2NPWdXxuCNJlVMOBg7f3xcIfgLdZTGcsgTp6iNQBd8CbbzFW8tZDvSbkTFl3lKUR6IYkjohkQmII2flczEMdzXtB/wREJt9gCzOHnu5GA/Qc/PxlklobTioju32WRRymVh/9Rn2u363XGEKL8u4LXSCnSlR73GJmUQe32KvxT56eeIqXF4dLdm841eejH5LqtaUA==;tiEx01Niq8+B17v03/CqcQ=="

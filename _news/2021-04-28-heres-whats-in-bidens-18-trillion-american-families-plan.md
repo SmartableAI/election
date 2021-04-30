@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/index.html"
 type: article
 quality: 175
-heat: 555
+heat: 575
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210423180814-cnn-climate-town-hall-0423-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's economic push tests the power of pocketbook issues to sway America's polarized electorate"
+    excerpt: "A building Biden boom may be about to reshape America's politics.\n    \n"
+    publishedDateTime: 2021-04-30T04:31:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JwUmC_v6dVw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/joe-biden-economy-2022-elections/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/joe-biden-economy-2022-elections/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429184410-biden-discurso-comunicativo-mensaje-congreso-roberto-izurieta-aristegui-mexico-00000921-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

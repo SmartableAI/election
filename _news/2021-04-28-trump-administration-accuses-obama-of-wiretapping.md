@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/trump-administration-accuses-obama
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-administration-accuses-obama-of-wiretapping-1/"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Texas special election poses test for anti-Trump Republicans"
+    excerpt: "Adam Kinzinger came to Texas this week to hunt unicorns."
+    publishedDateTime: 2021-04-30T04:33:00Z
+    webUrl: "https://www.businessinsider.com/texas-special-election-poses-test-for-anti-trump-republicans-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/texas-special-election-poses-test-for-anti-trump-republicans-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/texas-special-election-poses-test-for-anti-trump-republicans-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Trump administration sidelined experts in writing car pollution rules, EPA watchdog finds"
     excerpt: "The inspector general’s report may give the Biden administration more reason to tighten fuel-economy standards in the fight against global warming."
     publishedDateTime: 2021-04-21T14:00:00Z

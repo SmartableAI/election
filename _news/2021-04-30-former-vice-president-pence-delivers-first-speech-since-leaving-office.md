@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Eying 2024, Pence makes 1st speech since leaving office"
-excerpt: "In his first public address since the end of the Trump administration, former Vice President Mike Pence put down a marker for a potential return to elected office, telling an audience in early-voting"
-publishedDateTime: 2021-04-30T03:39:00Z
-originalUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html"
-webUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+title: "Former Vice President Pence delivers first speech since leaving office"
+excerpt: "Former Vice President Mike Pence made his first public appearance since leaving the White House on Thursday. He spoke at the annual Palmetto Family Council gala in South Carolina. Pence slammed President Biden while also praising his time in the Trump administration."
+publishedDateTime: 2021-04-30T04:13:00Z
+originalUrl: "https://www.cbsnews.com/video/former-vice-president-pence-delivers-first-speech-since-leaving-office/"
+webUrl: "https://www.cbsnews.com/video/former-vice-president-pence-delivers-first-speech-since-leaving-office/"
 type: article
-quality: 125
-heat: 225
-published: true
+quality: 105
+heat: -1
+published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +23,28 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZR2LPVJI4I6XKFHL5C53TPTMQ.jpg&w=1440"
-    width: 1440
-    height: 958
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/1b1e00aa-af99-48d7-9336-61d21b7b38c3/thumbnail/1200x630/234a8fb9e9d1ff1882c4d4099e8ad0f1/0429-cbsn-gza-704802-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
+  - title: "Eying 2024, Pence makes 1st speech since leaving office"
+    excerpt: "In his first public address since the end of the Trump administration, former Vice President Mike Pence put down a marker for a potential return to elected office, telling an audience in early-voting"
+    publishedDateTime: 2021-04-30T03:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZR2LPVJI4I6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
   - title: "Pence gives first public remarks since leaving office as Biden marks 100 days in office"
     excerpt: "Former Vice President Mike Pence on Thursday spoke in South Carolina, his first public remarks since leaving office. Speaking as President Biden marks his first 100 days in office, Pence slammed Mr. Biden's policies."
     publishedDateTime: 2021-04-30T01:26:00Z
@@ -42,20 +56,6 @@ related:
     quality: 112
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/9451bbda-308d-421f-86ca-ae896a838578/thumbnail/1200x630/6e4116a81676ae1ed279c898558c4423/cbsn-fusion-mike-pence-first-public-remarks-2021-04-28-thumbnail-704738-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Former Vice President Pence delivers first speech since leaving office"
-    excerpt: "Former Vice President Mike Pence made his first public appearance since leaving the White House on Thursday. He spoke at the annual Palmetto Family Council gala in South Carolina. Pence slammed President Biden while also praising his time in the Trump administration."
-    publishedDateTime: 2021-04-30T04:13:00Z
-    webUrl: "https://www.cbsnews.com/video/former-vice-president-pence-delivers-first-speech-since-leaving-office/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/1b1e00aa-af99-48d7-9336-61d21b7b38c3/thumbnail/1200x630/234a8fb9e9d1ff1882c4d4099e8ad0f1/0429-cbsn-gza-704802-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -102,6 +102,6 @@ related:
         height: 423
         isCached: true
 
-secured: "m7IBBB2vyN4sZj+ZLxgbAVrzGrZBGfNRHODHb6fxjDRcSVve6lRvIb2fdjuFAo63YzM9Hv18kcTch+WgQxoyJHfiLs+bLp0xQAhZW5Qa8xR5LPuKJj+6zdP94BD+Kwf8mMPmK34iAIKukYUwdzBfcGV46kMpZMnf20S+mrhuxurH++g4cHBgT/u/7SfmjOkt2oOuDimen5S8miopnB6xLPvvDbbE8sSzxX0Jl3uMbyZqj4Z4bB1vBJa7aeJogntt8XGz2+lYdtQsczDVtNlYp2y9WX5VvnEqGqS2IpTXGfp3g1Y5e935vRUrJmDFFIClcdY46R7+XXRSuqTefa++svHseOJOXXUC/ewsCaGGDxWb/W9naSU669krZ5/5KT+VTVywqIvOtulhrjmoXS66VFj3zFg4WBArMr2wCHvqjkH/K/IC8vbZJpJuL/FhXlcEwTNYJt3awrmP3oVgePmi43s4XuC9kMrD+Qh07tq6ziKw/6qlcHT140OpP4lmgAZJ/OkP+/lt19DSzwJdcpiknQ==;UydjQMB7fDVOOp7P5IENIw=="
+secured: "0T2WNQ6LVaIjo6daluTFqZOb8Auwd2le0SVoMk54MVd5c7hVu+VF1gA6Iu/aw6Fyyx8zNk7AYlmMl1BsApEFL7mb2NrVdcAFPOpIXlRWWCRcQyXTmKEp5QWHa+UBuSpLyFy95gjXHJ5kXmSd0L5PVZU0IKQhpCrP+lY2sOzo24DT6D8MIElTE/9C7wrRAAO51QYGGYvOsPQBg249h3QuxYYht+2Sl+sVwl5hCcniEO1EyzBFWg/uAsbxhUK2gevbQ+LLH5bTAWJjVQxbeUa91CC8IZ0C+XtwiPZ+xwv/CPDF7QUP3NTRQbJkt6OyWiIhgkwKxHmkkC1y/XMEi4SwUAeiZ2Y/EzKxGgyC6u4hAMo=;pgFqeHL0nxN200BMrYtIiQ=="
 ---
 

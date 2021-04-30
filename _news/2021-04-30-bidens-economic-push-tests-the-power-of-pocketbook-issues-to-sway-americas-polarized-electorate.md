@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Rep. Clyburn hopes Biden will find 'common ground' in Congress for ambitious plans"
-excerpt: "S.C., a key advisor to Joe Biden said he does not think the president will get everything he proposed in his address to Congress, but thinks he will get a “significant portion.”"
-publishedDateTime: 2021-04-29T03:17:00Z
-originalUrl: "https://www.nbcnews.com/video/rep-clyburn-hopes-biden-will-find-common-ground-in-congress-for-ambitious-plans-111028805601"
-webUrl: "https://www.nbcnews.com/video/rep-clyburn-hopes-biden-will-find-common-ground-in-congress-for-ambitious-plans-111028805601"
-ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111028805601"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111028805601"
+title: "Biden's economic push tests the power of pocketbook issues to sway America's polarized electorate"
+excerpt: "A building Biden boom may be about to reshape America's politics.\n    \n"
+publishedDateTime: 2021-04-30T04:31:01Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JwUmC_v6dVw/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JwUmC_v6dVw/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/joe-biden-economy-2022-elections/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/joe-biden-economy-2022-elections/index.html"
 type: article
-quality: 129
+quality: 162
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202104/1619666124902_nbc_spec_clyburn_biden_210428_1920x1080.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429184410-biden-discurso-comunicativo-mensaje-congreso-roberto-izurieta-aristegui-mexico-00000921-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -208,22 +207,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's economic push tests the power of pocketbook issues to sway America's polarized electorate"
-    excerpt: "A building Biden boom may be about to reshape America's politics.\n    \n"
-    publishedDateTime: 2021-04-30T04:31:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JwUmC_v6dVw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/joe-biden-economy-2022-elections/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/joe-biden-economy-2022-elections/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429184410-biden-discurso-comunicativo-mensaje-congreso-roberto-izurieta-aristegui-mexico-00000921-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "In pictures: Biden's first address to Congress"
     excerpt: "For the first time in his presidency, Joe Biden is addressing a joint session of Congress.\n    \n"
     publishedDateTime: 2021-04-29T03:42:52Z
@@ -350,7 +333,23 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Rep. Clyburn hopes Biden will find 'common ground' in Congress for ambitious plans"
+    excerpt: "S.C., a key advisor to Joe Biden said he does not think the president will get everything he proposed in his address to Congress, but thinks he will get a “significant portion.”"
+    publishedDateTime: 2021-04-29T03:17:00Z
+    webUrl: "https://www.nbcnews.com/video/rep-clyburn-hopes-biden-will-find-common-ground-in-congress-for-ambitious-plans-111028805601"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111028805601"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111028805601"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202104/1619666124902_nbc_spec_clyburn_biden_210428_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "85NXB9m1dq1F2doGFaoFccurjU/Fb/OYfJjtgFmIyLfyR5NWA2ZnGC44I2iRNC2UBrUvSn9aiGyOWS4UHZfx7rA+U6Oeoc5zgQdaZXatOOZd5Gx4t5NS2kNK0nZ3rxsNsl0uiOx8/LcKdBDaMCH0zaXuw3J/dgruuVCRBtfKCSbQzyr+bIjozPepUa73pXu3teQBgmDvjQ5TPfMHOVWLxN6vB9VojiuFPOEuQQwX6s7No645Di4p1lQ/mxnmW4PADJpIRVbMriCK8ZmswUIca364SXeNWL5Ig6pDmJ5lTW/hYsCEipont1ZxQHOkWxIuOzuz0FWK7s6sb45lN0z+n0NNsmPM0hgXfRQQYbxMLgwfigMTiWzRaJsNZPcIp10vSCxb26HkoUi4uL/dPGtJ77sIhWa07D+cGM13RLsxQDabD+2P6noucWWtxpNruIcWGMoC93bd8J/t2Lwbuetm6PSrZASyqnRNiGjbQ07QZ5IsgczSP7w17sxqUNYuR6f1rbv3C5G8Up25QH1V7zI1Zg==;cUS0O36sGPLHVvuVXXzmuw=="
+secured: "HiP6WnKlNoOP6CebqWnumEfKzxNGyRhfl8SsFWYFWkC6GITP0xzfXstwmzRo5J6q7pH9U/SOhmBuarvckl+zkqTghaypWrpJq+kN7Hq5AeU6AnL80ZdnyQPbAlrg1U7RFQATbvzxLvwYyYmcgZny47k4Fuc9bOYDPO9cfgJFaWYhNwQVB/EfoaXjDvkBVN+ELE0dX/7noxZadECDhGuAIUlTS6OG8fF9rekpBQS6xas7cGqYhhns1ALObcdzzEb0X3tI52+pPwRcj0VwjN8fyfVEzDV+eeZbvjb2nSQ8rsLCC7uMGldseKdKzS54A877j8eub7VyVk77qx5+ahfwuZj3KqINTY5bF8453i/Dt6M=;neQXERU1DfybW6CdgDuPMg=="
 ---
 

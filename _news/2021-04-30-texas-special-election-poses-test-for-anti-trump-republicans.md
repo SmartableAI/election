@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Investigation suppressed by Trump administration reveals obstacles to hurricane aid for Puerto Rico"
-excerpt: "A watchdog report uncovers bureaucratic hurdles the Trump administration erected for the struggling island to receive aid after Hurricanes Irma and Maria."
-publishedDateTime: 2021-04-22T15:49:00Z
-originalUrl: "https://www.washingtonpost.com/business/2021/04/22/puerto-rico-hurricane-trump-hud/"
-webUrl: "https://www.washingtonpost.com/business/2021/04/22/puerto-rico-hurricane-trump-hud/"
-ampWebUrl: "https://www.washingtonpost.com/business/2021/04/22/puerto-rico-hurricane-trump-hud/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/04/22/puerto-rico-hurricane-trump-hud/?outputType=amp"
+title: "Texas special election poses test for anti-Trump Republicans"
+excerpt: "Adam Kinzinger came to Texas this week to hunt unicorns."
+publishedDateTime: 2021-04-30T04:33:00Z
+originalUrl: "https://www.businessinsider.com/texas-special-election-poses-test-for-anti-trump-republicans-2021-4"
+webUrl: "https://www.businessinsider.com/texas-special-election-poses-test-for-anti-trump-republicans-2021-4"
+ampWebUrl: "https://www.businessinsider.com/texas-special-election-poses-test-for-anti-trump-republicans-2021-4?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/texas-special-election-poses-test-for-anti-trump-republicans-2021-4?amp"
 type: article
-quality: 111
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UZZ77WEY24I6XDYKGOCM6T5TTE.jpg&w=1440"
-    width: 1440
-    height: 961
-    isCached: true
 
 related:
   - title: "Trump administration accuses Obama of wiretapping"
@@ -47,17 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Texas special election poses test for anti-Trump Republicans"
-    excerpt: "Adam Kinzinger came to Texas this week to hunt unicorns."
-    publishedDateTime: 2021-04-30T04:33:00Z
-    webUrl: "https://www.businessinsider.com/texas-special-election-poses-test-for-anti-trump-republicans-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/texas-special-election-poses-test-for-anti-trump-republicans-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/texas-special-election-poses-test-for-anti-trump-republicans-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
   - title: "Trump administration sidelined experts in writing car pollution rules, EPA watchdog finds"
     excerpt: "The inspector general’s report may give the Biden administration more reason to tighten fuel-economy standards in the fight against global warming."
     publishedDateTime: 2021-04-21T14:00:00Z
@@ -74,7 +57,23 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Investigation suppressed by Trump administration reveals obstacles to hurricane aid for Puerto Rico"
+    excerpt: "A watchdog report uncovers bureaucratic hurdles the Trump administration erected for the struggling island to receive aid after Hurricanes Irma and Maria."
+    publishedDateTime: 2021-04-22T15:49:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/04/22/puerto-rico-hurricane-trump-hud/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/04/22/puerto-rico-hurricane-trump-hud/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/04/22/puerto-rico-hurricane-trump-hud/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UZZ77WEY24I6XDYKGOCM6T5TTE.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
 
-secured: "LNh6PfAIwnUQbQQmj/E+A5TCXirNeTTMOD1MIzRoxcoNAqUdTSM9nMRgmFeoy4Fv/wELeFjYVC/57VVqb7iNBpGklbaG9foljjQOZzrvNfRSxMW8R2gykst0NeOuyVY2p21rjwPIGMYfaDdTsb12EPeO+P5gCOZ2RAwTNWePXfb6TDQ3SQuUELWk7saygUsmZQ8ZtnFqV1x+BIOOWNyqDhPJa/t+OdGp3Ox5x3beN9G8sJggO7s9XyALRhpmhWhqua0hd93TBmVjGV2jewaWWhRLIGZgSdxBOwFCjKjO2/bAL4Vs8yfdLQ1QoO566e83ootnxAbiu0G23oPLa0QvyEGWYG3T+BOdz6/h+ivDGriPg5d71crLoFZJ4Zw9VupkTzOzFnDqayxU1gQpkPiYJeHtKohqO6U6HDcpC4/6YeCh+0Sp5PPzkbfglZR5wPJuk3HLQS2U7Sg7b9SL9altPrJJdgTBiFhQ6TLF5S85Dk6cmQhjH758KZgwDo5gJ/vbukPT3KDT6XI1kvWMRTiXfA==;fbrWFrOs3UDEEmGEBwM79w=="
+secured: "Bn3ck4BOKxeIYI1meFqwiB5Tcsm8Hlzfd9DNuTiPWsDQL1rEaLE6K+jWQ/edeArAYvLyzJZD1fHUW01oAZN4H2qzO9YE9ZF5eBGGCc1gi/c3F2kY3SIEyLRaiGFezxCqk/CyUizyl06w6h42enEYdxpgkY8ttuprqSf6O0wFPG540sVnrYQVnqK/gWhQasWdk+uAXCJ9oWiPjx4jVGjvuNqU2pfsk4LEdDPCfFqUJ9r1T6IL0xRdu0hjzzvVKOCfiMSmFlNS2RByFG8lW0N287HFv/JoA0CqNpLyu2BVArFu7Qf25ddM9Pna9UAytorExkT783P9jlaBvHoeei6iwp2fQxNQcVFH1BUH/5fOx9o=;nhc0mXit9HX2Gf0L6wHBLg=="
 ---
 

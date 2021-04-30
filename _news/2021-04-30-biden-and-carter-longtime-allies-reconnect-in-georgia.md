@@ -2,21 +2,21 @@
 category: news
 title: "Biden and Carter, longtime allies, reconnect in Georgia"
 excerpt: "President Joe Biden is visiting former President Jimmy Carter in Plains, Georgia, where the 39th president and his wife, Rosalynn, have lived most of their lives"
-publishedDateTime: 2021-04-29T17:35:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-and-carter-longtime-allies-reconnect-in-georgia/2021/04/29/ba79dd66-a919-11eb-a8a7-5f45ddcdf364_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-and-carter-longtime-allies-reconnect-in-georgia/2021/04/29/ba79dd66-a919-11eb-a8a7-5f45ddcdf364_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-and-carter-longtime-allies-reconnect-in-georgia/2021/04/29/ba79dd66-a919-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-and-carter-longtime-allies-reconnect-in-georgia/2021/04/29/ba79dd66-a919-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+publishedDateTime: 2021-04-29T18:36:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-carter-longtime-allies-reconnect-georgia-77401025"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-carter-longtime-allies-reconnect-georgia-77401025"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-carter-longtime-allies-reconnect-georgia-77401025"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-carter-longtime-allies-reconnect-georgia-77401025"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CQACNIVJEMI6XKFHL5C53TPTMQ.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_293c4b245f174ef1a4dadc48ca68f64f_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -230,6 +230,6 @@ related:
         height: 3648
         isCached: true
 
-secured: "q013AhrwfEA20OudXZ7RZfCQIagup/TTD+gl+iiCwqWeosg/Y+kSdaY+dZ+adlipyQX12813UHpZLvI0ZjRmeQ4KY15Igb6bqPmYsR/FgN5siiMSbRJ7KXR2rWd6vWkHMVppgsj+jqRdM5CHDXaB7l1gdSR802IvfQ8rU6Njqv/BetsB7TVXsDxdygAj4jMk/cZzlJeHjjuGiP7S/hNwdydtdBmCAhu/cQc+WLg3QFUp3HicV8tPmJjDtx6zOgd7h9K78xSJ+ovv0kj2jJ5G79r5ZgDuhBxiN2yACNag+QalyjHN6W4KUM3RMz6f+gyDFEnV+ZDeZJtgE0i9UCf9IdOUFgH2xloWjMoLsEOsFOxqX0ts2t6vlD/4DKF01wZOqxQ4Lc70h4UXRck419WzeY0S1hiKMZSNZgspkh5AL5duM71OQopv1anQkUV4gysTlasRMs4NWjG/c5qoxLB7WwlY6s8GL8OGl138dY1u4PhvAQg1AI4rfWYrlgFKAOR6pqMDrVn5zLpuLYDavrkXog==;lJm3SvMJ4je8wjHeMcEUkA=="
+secured: "6WpPfO7ypPUb912OJaDcWJj/wfWr+kenC6rp2MTKsdEji8jWweEBLr2qnm/+UFAdpauSaoR4WsYMm5BG3X6lC2cg7f6bWJ7zFJNEhnUXPQ0aj5l7x2C74yhhaQOQgw6kuFb/SkWaJMBsNVNoG5dUczm+k2zWLhxbJf0VMLpJGHcGSCdzskq5QlmzweLMQYXcxTQTy3mBwRibZIRE0S2G4mWn57lMmWSQEaDMB8t95SxKkizin8btRm734fpXzmNtEBiFu720gpQEFliwNarWsWWBUNgrrLFQCKvhogrhZwHyWy7PlTCHyCO33EE69V332vVYpMr6Ockdcr9sYmisPu/dNHk4/doqsFflXIIm8K8=;+5Y5wigbKdmj5BUXAaIeVg=="
 ---
 
