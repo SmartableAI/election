@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says schools 'should probably all be open' in the fall"
+    excerpt: "President Joe Biden said Friday that K-12 schools \"should probably all be open\" in the fall for in-person learning after more than a year of most of the country's kids facing the challenge of remote instruction due to the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-04-30T13:46:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RQZMD1w0MgE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/biden-schools-reopening-fall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/biden-schools-reopening-fall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429104348-02-joe-biden-congress-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden hits the road to sell sweeping economic proposals after prime-time speech"
     excerpt: "President Joe Biden hit the road on Thursday, traveling to Georgia to promote his sweeping economic proposals the day after making the case for the massive new government programs in his first address to a joint session of Congress.\n    \n"
     publishedDateTime: 2021-04-29T16:11:15Z

@@ -888,6 +888,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "After 100 Days, Mike Pence Speaks: Biden Threatens Progress \"We\" Made Under Trump"
+    excerpt: "Former Vice President Mike Pence called for conservatives to unite in opposition to President Biden's agenda during his first public speech since leaving office Thursday in South Carolina. Pence referred to progress \"we\" made under the Trump administration after publicly breaking with Trump during and after the January 6 riot."
+    publishedDateTime: 2021-04-30T12:16:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/30/after_100_days_mike_pence_makes_first_public_remarks_biden_threatens_to_derail_progress_we_made.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 90
+    images:
+      - url: "https://assets.realclear.com/images/54/541989.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Son-in-Law Benefited From Loan Program Biden Ripped"
     excerpt: "Joe Biden needed to talk to a family member, and the message, Politico later reported, was blunt. For Christs sake, the then-presidential"
     publishedDateTime: 2021-04-22T10:30:00Z
@@ -923,7 +937,7 @@ related:
   - title: "Biden Could Do More to Unify the Country"
     excerpt: "Among right-wingers, there has been some delight about polls showing that Joe Biden's popularity at the 100-day mark is the lowest of any president since"
     publishedDateTime: 2021-04-30T10:42:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/30/biden_could_do_more_to_unify_the_country_145679.html#!"
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/30/biden_could_do_more_to_unify_the_country_145679.html"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/30/biden_could_do_more_to_unify_the_country_145679.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/30/biden_could_do_more_to_unify_the_country_145679.amp.html"
     type: article
@@ -935,6 +949,22 @@ related:
       - url: "https://assets.realclear.com/images/54/541941_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Biden, Debt & War; PRO Act; Quote of the Week"
+    excerpt: "Good morning, its Friday April 30, 2021, the day of the week I pass along quotations intended to be inspirational or thought-provoking. Todays comes"
+    publishedDateTime: 2021-04-30T12:53:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/30/biden_debt__war_pro_act_quote_of_the_week_145688.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/30/biden_debt__war_pro_act_quote_of_the_week_145688.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/30/biden_debt__war_pro_act_quote_of_the_week_145688.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
         isCached: true
   - title: "NRA Ad Targets Sen. Joe Manchin: Reject President Biden's Gun Control Agenda"
     excerpt: "The National Rifle Association (NRA) launched an ad campaign opposing President Biden on gun control seeking to \"Stop Biden's gun grab.\" In this West Virginia ad, the NRA says: \"President Biden’s political machine is setting its"

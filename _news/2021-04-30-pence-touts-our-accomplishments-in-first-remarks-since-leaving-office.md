@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 958
         isCached: true
+  - title: "Eying 2024, Pence says he'll push back on 'liberal agenda'"
+    excerpt: "Pence, whose relationship with President Donald Trump frayed as Trump pressured Pence to block certification of the presidential election results, praised Trump’s tenure as “four years of promises made,"
+    publishedDateTime: 2021-04-30T12:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/eying-2024-pence-says-hell-push-back-on-liberal-agenda/2021/04/30/bec59234-a9b4-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/eying-2024-pence-says-hell-push-back-on-liberal-agenda/2021/04/30/bec59234-a9b4-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/eying-2024-pence-says-hell-push-back-on-liberal-agenda/2021/04/30/bec59234-a9b4-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZR2LPVJI4I6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
   - title: "Former Vice President Pence delivers first speech since leaving office"
     excerpt: "Former Vice President Mike Pence made his first public appearance since leaving the White House on Thursday. He spoke at the annual Palmetto Family Council gala in South Carolina. Pence slammed President Biden while also praising his time in the Trump administration."
     publishedDateTime: 2021-04-30T04:13:00Z

@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden: ‘I don’t think the American people are racist’ – US politics live"
+    excerpt: "President in new interview agrees with Republican senator Tim Scott’s comments to Congress – follow all the day’s politics news"
+    publishedDateTime: 2021-04-30T12:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/30/joe-biden-us-politics-washington-america-racism-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/30/joe-biden-us-politics-washington-america-racism-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/30/joe-biden-us-politics-washington-america-racism-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/777df554d46c4d7ff874aee02d8d84a5f7219f92/0_74_5025_3016/master/5025.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=822f9f7c8dbbf2b55107902b17be772f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Essential Politics: Biden pledges to leave Afghanistan. It’s a withdrawal years in the making."
     excerpt: "Biden is the third president to pledge to reduce or completely withdraw U.S. troops in Afghanistan. It's a promise that comes after two administrations' worth of effort."
     publishedDateTime: 2021-04-21T13:00:00Z
@@ -58,6 +74,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/18778c0/2147483647/strip/true/crop/5419x2845+0+384/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F49%2Fec%2Fa7c1febe441aab79ab4800a5ccee%2Fbiden-66428.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Joe Biden’s first 100 insurrection-free days: ‘America is on the move’"
+    excerpt: "Joe Biden’s first 100 days in office have been a cool breeze. No sociopathic tweets, no gaslighting, no drama. Biden speaks in civil, humble tones and treats even his political opponents with respect."
+    publishedDateTime: 2021-04-30T12:47:00Z
+    webUrl: "https://www.al.com/news/2021/04/joe-bidens-first-100-insurrection-free-days-america-is-on-the-move.html"
+    ampWebUrl: "https://www.al.com/news/2021/04/joe-bidens-first-100-insurrection-free-days-america-is-on-the-move.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/joe-bidens-first-100-insurrection-free-days-america-is-on-the-move.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DXAMSUS6H5GYPGGFB7R2DCK5C4.jpg"
+        width: 1400
+        height: 1047
         isCached: true
 
 secured: "+9hZs/Rx5P7D4KAqszf+YA933ulAkno13ZlSv6GjhjlrFRbDi/ZdHWlxHC80UQW8QkYJOo2TN/syJMeO7Y9UpiU4Z1bsSu+rkvO/7keCKtrnYw3r1GgpC7ung3T9WAsfw1wEEIqx1UP6JhMiS7xcCee7o7WRIGRMp7j3jqAwl9IYZN5jBPGP7amFvFIGn4VC3/zDgNS4rQ8wJoI5YKyC8Q078RuQFd1qWXoqsuHxNbccdHEUCgPyTR+DocrWNqbC+i9kg/0kIKnCOQ44JLaoS36oOl9R9JibUfjgSRy5V6ojGLlOEKff48kF/FJg8Ywij6AUM0TYztXra98Iy7r/VncMHVF6igzUd75ixFO+95Q=;Sh9kQJGelYIak1PSmPoWcg=="

@@ -45,6 +45,22 @@ related:
         width: 1440
         height: 958
         isCached: true
+  - title: "Eying 2024, Pence says he'll push back on 'liberal agenda'"
+    excerpt: "Pence, whose relationship with President Donald Trump frayed as Trump pressured Pence to block certification of the presidential election results, praised Trump’s tenure as “four years of promises made,"
+    publishedDateTime: 2021-04-30T12:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/eying-2024-pence-says-hell-push-back-on-liberal-agenda/2021/04/30/bec59234-a9b4-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/eying-2024-pence-says-hell-push-back-on-liberal-agenda/2021/04/30/bec59234-a9b4-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/eying-2024-pence-says-hell-push-back-on-liberal-agenda/2021/04/30/bec59234-a9b4-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZR2LPVJI4I6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
   - title: "Pence touts \"our\" accomplishments in first remarks since leaving office"
     excerpt: "In speaking to the Palmetto Family Council, a South Carolina social conservative Christian group, Pence criticized Mr. Biden for what he called \"an avalanche of liberal policies.\""
     publishedDateTime: 2021-04-30T11:08:00Z

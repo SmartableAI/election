@@ -39,6 +39,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Former Vice President Mike Pence praises Trump policies in first public speech"
+    excerpt: "Former Vice President Mike Pence made his first public speech since leaving the White House at a conservative gala in South Carolina. Pence criticized President Biden for what he called \"an avalanche of liberal policies."
+    publishedDateTime: 2021-04-30T13:36:00Z
+    webUrl: "https://www.cbsnews.com/video/former-vice-president-mike-pence-praises-trump-first-speech-south-carolina/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/former-vice-president-mike-pence-praises-trump-first-speech-south-carolina/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/former-vice-president-mike-pence-praises-trump-first-speech-south-carolina/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 136
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/30/90d0917b-be0d-419c-8dbc-9bbcb857b620/thumbnail/1200x630/de35fb7e763677cf72751a4874191bcb/cbsn-fusion-former-vice-president-mike-pence-makes-first-public-appearance-at-conservative-gala-in-south-carolina-thumbnail-704946-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump ally Sid Miller sues over Biden farm aid program, saying it discriminates against whites"
     excerpt: "Texas agriculture official Sid Miller files suit over a U.S. farm program that directs aid to nonwhite farmers and ranchers."
     publishedDateTime: 2021-04-27T21:36:00Z
@@ -377,6 +393,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210428&i=RCV009OJK&r=RCV009OJK&t=2"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Joe Biden's 100 days in office interrupted by protesters – video"
+    excerpt: "During a speech at a drive-in rally in Duluth, Georgia, to mark 100 days in office, Joe Biden was briefly interrupted by protesters calling for an end to private prisons, a demand that Biden agreed to,"
+    publishedDateTime: 2021-04-30T06:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/apr/30/joe-bidens-100-days-in-office-interrupted-by-protesters-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/22d22fd1442283975b08f3d6315787ce71e7086e/0_0_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b840415da563210f5f3a8fe276375f75"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Praise for Trump, attacks on Biden, silence on Jan. 6: Mike Pence makes first speech since leaving office in pivotal SC"
     excerpt: "Pence did not discuss his own presidential ambitions during a 30-minute speech, spending more time talking about GOP efforts to re-take Congress"

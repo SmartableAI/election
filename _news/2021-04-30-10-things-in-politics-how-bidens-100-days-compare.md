@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-biden-100-days
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-biden-100-days-history?amp"
 type: article
 quality: 125
-heat: 165
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden: ‘I don’t think the American people are racist’ – US politics live"
+    excerpt: "President in new interview agrees with Republican senator Tim Scott’s comments to Congress – follow all the day’s politics news"
+    publishedDateTime: 2021-04-30T12:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/30/joe-biden-us-politics-washington-america-racism-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/30/joe-biden-us-politics-washington-america-racism-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/30/joe-biden-us-politics-washington-america-racism-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/777df554d46c4d7ff874aee02d8d84a5f7219f92/0_74_5025_3016/master/5025.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=822f9f7c8dbbf2b55107902b17be772f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Pence gives first public remarks since leaving office as Biden marks 100 days in office"
     excerpt: "Former Vice President Mike Pence on Thursday spoke in South Carolina, his first public remarks since leaving office. Speaking as President Biden marks his first 100 days in office, Pence slammed Mr. Biden's policies."
     publishedDateTime: 2021-04-30T01:26:00Z
@@ -59,7 +75,23 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden’s first 100 insurrection-free days: ‘America is on the move’"
+    excerpt: "Joe Biden’s first 100 days in office have been a cool breeze. No sociopathic tweets, no gaslighting, no drama. Biden speaks in civil, humble tones and treats even his political opponents with respect."
+    publishedDateTime: 2021-04-30T12:47:00Z
+    webUrl: "https://www.al.com/news/2021/04/joe-bidens-first-100-insurrection-free-days-america-is-on-the-move.html"
+    ampWebUrl: "https://www.al.com/news/2021/04/joe-bidens-first-100-insurrection-free-days-america-is-on-the-move.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/joe-bidens-first-100-insurrection-free-days-america-is-on-the-move.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DXAMSUS6H5GYPGGFB7R2DCK5C4.jpg"
+        width: 1400
+        height: 1047
+        isCached: true
 
-secured: "Zq85Ums0/txXZswK66BZ3BUuVeeS+/Hkc5Zxb/FgnISmtKHqj/y0N7gXiqmR/2kZtl2D8JS+0JQZ2vfxQQaSqNTI7TymTfru1C2TeJgFq/4o9v8J5AUHJwa+chGhcWTUhMFILeWOY7288DD3SlX37VF6suEQu3lpe4TG4Cz0IeJyDM1HKSOWJtDrwJg7LYXZkoKF9hK10bsw8JThMH1KRjFrV9rT4YCI+h/GI8hJFjPnZ1TEVKTd7Ea7BNym6GETgkOoeQZJ6Alu6bincsVNYf8RfC58tYDTwOqt5TWT4cTzhyBrALA8pBRdK7N3SM+GzT35ea2Jo9UuA6tC8eo9R1VD0ybHoGBdfV+sHVAYVa4=;rgMyyGe5qVC6C3KJFYzn+w=="
+secured: "DD++jR04UkZYvFY6AAlCfuHFu5SlBjiCvCt/8x3fdanl178Ku9HWpdu3sYpBaWVps/p7JqQXd4sBgl7rTEoaX3Alo+0ab+ejklwP4otgM4hhrQrCpEsIo/UF0qZcBewsv6/OHoRWk9zmta+RN56C93uSWs2leHlct4zuVQ/TMPiEhu649PMp8tgvxfyUxrNc/TyGKqH/AmKJeiFoXZ5fcx7vqCyRdxbiYHmTz8FOj1qtcDKUhb4nYxSQsneNhrrvNjKpqG5+PJn70L2e8EQeoB9MmzxUpqClPaCX7xH5mn9d2aBa7s2ml3eAx6MKCgurLaJ7UJ5RJCTbJskYLwqTFfC/Brvl5wxx8AVB+pN7PRMfC6zKXkmFXaKtvFj8QVn9kz5ToFLcgyhnH8E/DsRLaffjRV4qFaU9AABZI0F3yQjsGzYrVYW2BepasyuzQXSFloWvi6fPD45uxTpYJEoMSqNzzakK1KFGAuAiykhAiBgWs6Fx/0j8ywnLJRRHqrid9aN2/Z0/JpMnF/+oN1IEFQ==;qf8wYCsI7Df1V4+eQHo1ZQ=="
 ---
 
