@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Texas special election poses test for anti-Trump Republicans"
-excerpt: "Adam Kinzinger came to Texas this week to hunt unicorns. The Illinois congressman was looking for Republicans who, like him, see former President Donald Trump as a scourge on their party and a threat to democracy."
-publishedDateTime: 2021-04-30T08:34:00Z
-originalUrl: "https://www.chron.com/news/article/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
-webUrl: "https://www.chron.com/news/article/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
-ampWebUrl: "https://www.chron.com/news/amp/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
+title: "Texas Special Election Poses Test for Anti-Trump Republicans"
+excerpt: "Ill., left, shakes hands with Grant Goodyear, right, as Texas congressional candidate Michael Wood, center, shakes hands with Linda Thomas Tuesday, April 27, 2021, in Arlington, Texas. Wood is considered the anti-Trump Republican Texas congressional candidate that Kinzinger has endorsed in the May 1st special election for the 6th Congressional District."
+publishedDateTime: 2021-04-30T04:32:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-04-30/texas-special-election-poses-test-for-anti-trump-republicans"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-04-30/texas-special-election-poses-test-for-anti-trump-republicans"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-30/texas-special-election-poses-test-for-anti-trump-republicans?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-30/texas-special-election-poses-test-for-anti-trump-republicans?context=amp"
 type: article
-quality: 90
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Trump administration accuses Obama of wiretapping"
@@ -76,6 +74,6 @@ related:
         height: 961
         isCached: true
 
-secured: "PoOx6WbQ9Z1EYR1voS0uyv1CExr3HXCFxmUKYTEz7J368cthi6BJub7w+WRdOVX3RNi3yJVW861DyljjPz3C+o7LCeZyiAzKebGs5rVqNvFvL6C8cYlJCmXRMD6o8Y15b7KOzv20t/i8OqvKTVQn3OMASRshdKl3SEM0qwyihqNyhWMkvpILzvyFqhGgtHvkyp5QLSKAX1y+2BsNbrfxwKWQIQlvF+6VPk6ahPEW9Gvifu9msbyMPXv+BF9qpLqlJzLrIiz6Xyj3sVCk5+X38pwkPDICWZIf+YulbxMEKvCgETgwxtz06AHP0G5Zvmf251irywC8UszHltV0rAumH7xPcWvCnf55XHGD4+nEHG4=;5oZIfYIqoBRXep076BWkGQ=="
+secured: "pqbs6HFjiyCTrg1B7ocC0pz44XSyYAzHOgvbskaQ8y44jYvOMZgaOBQlq0zkA3x4Gc+bXhXMSfx1teO7LMd9p3//+iR5nCd/pBbafIg5dDBCaiHFZwmt3g//ppW+V7H2oZX4riWgDhmlXJFqxuip0x9dGW0JzkvUw4SaKzZUk8QQJ2NmKBZJFoKJGW3jc7v+mGWFzFAEQXcvTLbo4gPd/5Nvn9Qwb4xdvSUi9FAm31Ebbk+//Misieu6Cqt2t6c0N84UjDRZ15xHZ/mEPqMjy+a38QiabvN5JxOhsIhvAZjSVNzz8uQYU0HxgG+oevrywwqoh7mluMo9Q2GI34QlMkQIAQQCRWHJz0OwOj7zdF28wSRmx2iJy5kmGbeZWQN+NwFxs7Cn1PbQfUxj7KEu+cQLIF8Tn6ul9f8ivA8mjYO28AoS24aMbkfOD9x93gIVI9iSqvHbQeaMDfhAcK+n6cUHBcmuluVqksOsaTCro6MFrHL854LbonU6N2n0Im7hznx4JdUcnGIT66aIsATrCQ==;ThXefl8D2UMu5DpS9Pq7jA=="
 ---
 

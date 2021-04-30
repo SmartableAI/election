@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-30-live-vice-president-kamala-harris-is-on-her-way-to-cincinnati.md",
+      "title": "LIVE: Vice President Kamala Harris is on her way to Cincinnati",
+      "excerpt": "Friday's visit will be Kamala Harris' first to the Queen city either as vice president or as a candidate on the presidential ticket.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cincinnati.com/story/news/2021/04/30/vice-president-kamala-harris-cincinnati-transit-spending-plans/4871270001/",
+      "originalUrl": "https://www.cincinnati.com/story/news/2021/04/30/vice-president-kamala-harris-cincinnati-transit-spending-plans/4871270001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/04/30/PCIN/a765bc78-c06a-4a93-9d8c-331cd2009c7e-043021VPVisitCO05.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cincinnati.com/amp/4871270001",
+      "cdnAmpWebUrl": "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4871270001",
+      "publishedDateTime": "2021-04-30T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cincinnati Enquirer",
+        "domain": "cincinnati.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-kamala-harris-will-be-first-vp-to-get-wax-figure-at-madame-tussauds.md",
       "title": "Kamala Harris will be first VP to get wax figure at Madame Tussauds",
       "excerpt": "Kamala Harris will be the first vice president to have a wax figure made of her at Madame Tussauds museum in New York City because of her historic ascendance to the role, the museum announced Thursday, according to reports.",
@@ -55,49 +98,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments.md",
-      "title": "Oklahoma City pastor blasts Sen. Nathan Dahm on Senate floor for Kamala Harris comments",
-      "excerpt": "During the conclusion of a Thursday morning session, Rev. Lee Cooper Jr., pastor at Prospect Baptist Church in Oklahoma City, chastised Dahm during an address ahead of the official prayer",
-      "sourceUrl": null,
-      "webUrl": "https://tulsaworld.com/news/state-and-regional/govt-and-politics/oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.html",
-      "originalUrl": "https://tulsaworld.com/news/state-and-regional/govt-and-politics/oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/4/b2/4b288ace-a942-11eb-b0c9-b7d9d9ac8545/6010814374821.image.jpg?crop=1276%2C866%2C5%2C168&resize=1024%2C695&order=crop%2Cresize",
-          "width": 1024,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tulsaworld.com/news/state-and-regional/govt-and-politics/oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.amp.html",
-      "cdnAmpWebUrl": "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/state-and-regional/govt-and-politics/oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.amp.html",
-      "publishedDateTime": "2021-04-29T16:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tulsa World",
-        "domain": "tulsaworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     },
@@ -389,7 +389,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 974,
+      "heat": 994,
       "tags": null,
       "images": [
         {

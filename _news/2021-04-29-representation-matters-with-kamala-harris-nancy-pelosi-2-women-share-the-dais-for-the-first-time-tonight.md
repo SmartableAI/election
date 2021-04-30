@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "LIVE: Vice President Kamala Harris is on her way to Cincinnati"
+    excerpt: "Friday's visit will be Kamala Harris' first to the Queen city either as vice president or as a candidate on the presidential ticket."
+    publishedDateTime: 2021-04-30T14:49:00Z
+    webUrl: "https://www.cincinnati.com/story/news/2021/04/30/vice-president-kamala-harris-cincinnati-transit-spending-plans/4871270001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/4871270001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4871270001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/30/PCIN/a765bc78-c06a-4a93-9d8c-331cd2009c7e-043021VPVisitCO05.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Oklahoma City pastor blasts Sen. Nathan Dahm on Senate floor for Kamala Harris comments"
     excerpt: "During the conclusion of a Thursday morning session, Rev. Lee Cooper Jr., pastor at Prospect Baptist Church in Oklahoma City, chastised Dahm during an address ahead of the official prayer"
     publishedDateTime: 2021-04-29T23:50:00Z

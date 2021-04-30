@@ -63,22 +63,17 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Texas special election poses test for anti-Trump Republicans"
-    excerpt: "Adam Kinzinger came to Texas this week to hunt unicorns. The Illinois congressman was looking for Republicans who, like him, see former President Donald Trump as a scourge on their party and a threat to democracy."
-    publishedDateTime: 2021-04-30T08:34:00Z
-    webUrl: "https://www.chron.com/news/article/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
+  - title: "Texas Special Election Poses Test for Anti-Trump Republicans"
+    excerpt: "Ill., left, shakes hands with Grant Goodyear, right, as Texas congressional candidate Michael Wood, center, shakes hands with Linda Thomas Tuesday, April 27, 2021, in Arlington, Texas. Wood is considered the anti-Trump Republican Texas congressional candidate that Kinzinger has endorsed in the May 1st special election for the 6th Congressional District."
+    publishedDateTime: 2021-04-30T04:32:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-30/texas-special-election-poses-test-for-anti-trump-republicans"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-30/texas-special-election-poses-test-for-anti-trump-republicans?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-30/texas-special-election-poses-test-for-anti-trump-republicans?context=amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
 
 secured: "LNh6PfAIwnUQbQQmj/E+A5TCXirNeTTMOD1MIzRoxcoNAqUdTSM9nMRgmFeoy4Fv/wELeFjYVC/57VVqb7iNBpGklbaG9foljjQOZzrvNfRSxMW8R2gykst0NeOuyVY2p21rjwPIGMYfaDdTsb12EPeO+P5gCOZ2RAwTNWePXfb6TDQ3SQuUELWk7saygUsmZQ8ZtnFqV1x+BIOOWNyqDhPJa/t+OdGp3Ox5x3beN9G8sJggO7s9XyALRhpmhWhqua0hd93TBmVjGV2jewaWWhRLIGZgSdxBOwFCjKjO2/bAL4Vs8yfdLQ1QoO566e83ootnxAbiu0G23oPLa0QvyEGWYG3T+BOdz6/h+ivDGriPg5d71crLoFZJ4Zw9VupkTzOzFnDqayxU1gQpkPiYJeHtKohqO6U6HDcpC4/6YeCh+0Sp5PPzkbfglZR5wPJuk3HLQS2U7Sg7b9SL9altPrJJdgTBiFhQ6TLF5S85Dk6cmQhjH758KZgwDo5gJ/vbukPT3KDT6XI1kvWMRTiXfA==;fbrWFrOs3UDEEmGEBwM79w=="
 ---

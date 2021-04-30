@@ -618,6 +618,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Noem sues Biden administration for canceling Mount Rushmore Independence Day fireworks"
+    excerpt: "EXCLUSIVE: South Dakota Gov. Kristi Noem sued the Biden administration on Friday after it canceled the Independence Day fireworks celebration at Mount Rushmore, demanding the court \"expeditiously\" issue a permit for the event to take place."
+    publishedDateTime: 2021-04-30T14:22:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OEhdwYApXpE/noem-biden-mount-rushmore-fireworks-lawsuit-south-dakota"
+    ampWebUrl: "https://www.foxnews.com/politics/noem-biden-mount-rushmore-fireworks-lawsuit-south-dakota.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-biden-mount-rushmore-fireworks-lawsuit-south-dakota.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Left-wing group dumps cow poop at White House entrance, demands Biden take climate action"
     excerpt: "Climate activists dissatisfied with President Biden's climate plan are not-so-subtly expressing their displeasure, as they are literally calling \"bull----\" while dumping cow manure in front of the White House."
     publishedDateTime: 2021-04-22T14:02:32Z
@@ -745,6 +761,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "John Kerry invested in oil companies prior to becoming Biden's climate envoy, financial disclosures show"
+    excerpt: "John Kerry, President Biden’s special presidential envoy for climate, held investments in oil companies prior to divesting from the stocks as he took over the position, according to financial forms."
+    publishedDateTime: 2021-04-30T15:43:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/woMxes5rb28/john-kerry-climate-investments-oil-companies"
+    ampWebUrl: "https://www.foxnews.com/politics/john-kerry-climate-investments-oil-companies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-kerry-climate-investments-oil-companies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/426f9b97-4ea1-44d8-87bf-3feeb8a0c349/30e00994-d19c-4764-9fee-c93f27eb2ee1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Klacik to LeBron James: Can’t support Biden, a 1994 Crime Bill author, and complain about police brutality"
     excerpt: "Kimberly Klacik, a former Republican congressional hopeful from Maryland, challenged LeBron James over his tweet that critics say threatened the life of an Ohio police officer who fatally shot a teen."
@@ -1053,6 +1085,6 @@ related:
         height: 2901
         isCached: true
 
-secured: "b819C3uOmn9VYLuX3MhhIn7474uXRKNiKh9osMVepbA4cejdKwEBxY1P810XFEcSUuiPafB5W+ePahj6P2oaq0oH0craXiPNEJsFXBbt1ov1WImqL9nd+7Ci8X1wVJ14b+9iwey6HvwT8pXH9j65uFEgImawmEebZaQuu5g2T0OXrAFuW1ovvq6q1QTUllfKmWvCLPqjZAVKatfdIRhESvKpI44wf5pE1CNB+ubX3sKy2NbezJuS86L9cwmgR/gXp6xvPK3ffd0hLDVWXUS7X1U0c9xOoqW0LQKOPkLBuuO//dwxOuk+saeJDV/sH+wTHgT2opNBJvXmX/BjRX5HD0AfTRkb/zwNLaZNnIR9dEc=;ZDnDq+vU2GoGt5ULeJsXYA=="
+secured: "/ETfCaF4KRNLAS3z5FoXhSOo5yf0LKJXuQ/aphyYYuI3gJkwiFx9becVy3NgoyRmpA4KbVlS30fsY86oY2bDp1tRI3QDXuUhyfKda40vzDpflyX5x5lpdVxqqU/B+2vWR03v+WFpRjEMkiDKf+T/gU8+KfeG5TwasBnjDFwt3IhmhGJDItZ4RhdoV8GAgYcM1AUv9ZUlE8iqvNkJU3e8+TKdsdmjbocwEEaUjcTFvt90sznXBc0mMpAXMmi2WYiYzT7Rh5ZQWKdNYpBn9a7S+C5fjMHqx6lSm2MiQcLDVgpaqJYLuGdm3KQGHVmE8ckbVnBKrOLK/xB8XvFTTn3z1ucLLwo9Cl6bSwAosDkm9bPGfYA9U91zNO4+0JJ5nFFG7vvaJepLk066+eFFtlwPnFtLcoc5PpknOHzm2YWWpY1YjvWnbRip2m1QyKJg+4CU0t5CjjrssedCABNoEoWnCCY1M5MxqIq/LcMqhtxFSoKDzFb/ARvXv774VfgXIRwg9qo7H9INDEB13IUMXA01IQ==;2JSudYlGeM8OT0oHo/uHbA=="
 ---
 

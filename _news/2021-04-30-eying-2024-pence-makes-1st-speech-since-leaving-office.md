@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pe
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -132,6 +132,20 @@ related:
       - url: "https://indianapublicmedia.org/news/news-images/pence-generic-lc_1.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Mike Pence, eying 2024 bid, says he’ll push back on ‘liberal agenda’"
+    excerpt: "But the question of whether Pence's former boss will run again still looms large for the possible Republican field."
+    publishedDateTime: 2021-04-30T13:43:00Z
+    webUrl: "https://bangordailynews.com/2021/04/30/national-politics/mike-pence-eying-2024-bid-says-hell-push-back-on-liberal-agenda/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/04/Pence-Palmetto-Family-Council.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "m7IBBB2vyN4sZj+ZLxgbAVrzGrZBGfNRHODHb6fxjDRcSVve6lRvIb2fdjuFAo63YzM9Hv18kcTch+WgQxoyJHfiLs+bLp0xQAhZW5Qa8xR5LPuKJj+6zdP94BD+Kwf8mMPmK34iAIKukYUwdzBfcGV46kMpZMnf20S+mrhuxurH++g4cHBgT/u/7SfmjOkt2oOuDimen5S8miopnB6xLPvvDbbE8sSzxX0Jl3uMbyZqj4Z4bB1vBJa7aeJogntt8XGz2+lYdtQsczDVtNlYp2y9WX5VvnEqGqS2IpTXGfp3g1Y5e935vRUrJmDFFIClcdY46R7+XXRSuqTefa++svHseOJOXXUC/ewsCaGGDxWb/W9naSU669krZ5/5KT+VTVywqIvOtulhrjmoXS66VFj3zFg4WBArMr2wCHvqjkH/K/IC8vbZJpJuL/FhXlcEwTNYJt3awrmP3oVgePmi43s4XuC9kMrD+Qh07tq6ziKw/6qlcHT140OpP4lmgAZJ/OkP+/lt19DSzwJdcpiknQ==;UydjQMB7fDVOOp7P5IENIw=="

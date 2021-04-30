@@ -9,8 +9,8 @@ ampWebUrl: "https://tulsaworld.com/news/state-and-regional/govt-and-politics/okl
 cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/state-and-regional/govt-and-politics/oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.amp.html"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Tulsa World
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "LIVE: Vice President Kamala Harris is on her way to Cincinnati"
+    excerpt: "Friday's visit will be Kamala Harris' first to the Queen city either as vice president or as a candidate on the presidential ticket."
+    publishedDateTime: 2021-04-30T14:49:00Z
+    webUrl: "https://www.cincinnati.com/story/news/2021/04/30/vice-president-kamala-harris-cincinnati-transit-spending-plans/4871270001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/4871270001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4871270001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/30/PCIN/a765bc78-c06a-4a93-9d8c-331cd2009c7e-043021VPVisitCO05.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'Representation matters': With Kamala Harris, Nancy Pelosi, 2 women share the dais for the first time tonight"
     excerpt: "For the first time Wednesday, an American president will be flanked by two female leaders during an address to a joint session of Congress."
     publishedDateTime: 2021-04-29T01:57:00Z

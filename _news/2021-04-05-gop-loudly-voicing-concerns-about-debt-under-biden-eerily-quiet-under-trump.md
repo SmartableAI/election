@@ -512,6 +512,22 @@ related:
         width: 2320
         height: 1546
         isCached: true
+  - title: "Biden lays border crisis on Trump admin's refusal to cooperate"
+    excerpt: "Biden also said in an exclusive interview with \"TODAY\" that he doesn't \"think the American people are racist,\" but Black Americans are \"behind the eight ball\" in terms of opportunity."
+    publishedDateTime: 2021-04-30T15:14:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/one-god-awful-mess-biden-lays-border-crisis-trump-admin-n1265908"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265908"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265908"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_17/3469217/210430-joe-biden-today-interview-al-0914_9fe45421e71c2d2243b7cc420974dee8.jpg"
+        width: 2500
+        height: 1406
+        isCached: true
   - title: "Tapper examines why Biden admin may be hesitant to credit Trump for vaccine success"
     excerpt: "CNN's Jake Tapper shares his experience receiving the Covid-19 vaccine and looks back at how former President Donald Trump's actions affected the nation's pandemic response."
     publishedDateTime: 2021-04-04T15:01:00Z

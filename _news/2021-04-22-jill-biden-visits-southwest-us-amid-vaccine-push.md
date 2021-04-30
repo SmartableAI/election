@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Jill Biden plants tree as White House readies for family cat"
+    excerpt: "Biden said that the family’s cat would be coming to the White House “pretty soon.” The first lady told NBC News in an interview broadcast Friday that the younger of the Bidens’ two German shepherds, Major,"
+    publishedDateTime: 2021-04-30T14:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/jill-biden-plants-tree-as-white-house-readies-for-family-cat/2021/04/30/1c439f4c-a9c8-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/jill-biden-plants-tree-as-white-house-readies-for-family-cat/2021/04/30/1c439f4c-a9c8-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/jill-biden-plants-tree-as-white-house-readies-for-family-cat/2021/04/30/1c439f4c-a9c8-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SDGCUWVJYMI6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "Pgcjdxm6cbl78DVZ8+oHQ77Jp+G/Xbbn2XppwwWUwoPqeCp2cK4wbmlzwCuXXLyv9rmVyqETx5w8oEbYPsexe7t/9h92wmp/J7Bxqfm75TT8L2MlG5WOawqdqxcQpRxBZoxMODJJBRb0Yy5Br2yn8oc2+6gX8yuvliIKmULKc4mYzJs6eeASarW0gSMeZ99RXe9PGHe+7EwtvWyulJi9b8wDp+C7q9yVg9x6+sABHGQBhoa/bcdlxGCRB6mmWqfCOLMWBaTUPuUPgtTRV+oMfCScmLixyDcAmkLvyEmMBAWK45ees1lx9sZom8eLuyc1wyeZCdSdB+ZBJWjsSbot8PxnP9caqvsiSi0ebNiuziA=;uz7Kop1dsBJyAND8rtoaDg=="
 ---

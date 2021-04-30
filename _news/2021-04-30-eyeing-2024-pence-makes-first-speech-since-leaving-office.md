@@ -129,6 +129,20 @@ related:
         width: 847
         height: 423
         isCached: true
+  - title: "Mike Pence, eying 2024 bid, says he’ll push back on ‘liberal agenda’"
+    excerpt: "But the question of whether Pence's former boss will run again still looms large for the possible Republican field."
+    publishedDateTime: 2021-04-30T13:43:00Z
+    webUrl: "https://bangordailynews.com/2021/04/30/national-politics/mike-pence-eying-2024-bid-says-hell-push-back-on-liberal-agenda/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/04/Pence-Palmetto-Family-Council.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "+/RPLz6SixBjpIVqVplzWciIGRlpQBvajijivr/lf/AJyIs9oac0rI3eHtwCz5nFsh7n9Jf1Tioh6/mCb3wbzUxwJeQ1l6QZjh/VxLp+J+vNOZFD0fFH1C39JO5MEBaxnGRhbFW2KQGz3Q7DFAX5o72rfNwtuBZyeCJkXiZR8lNyAcizAtR8G1kEZaAUEl0OdNnm2kDqswWgfknHNYPhYjAW0b8KOQCEx0TPyNchh7sZL8ASIHynz5G0Uruu7P4qSkkKAukzu69Q2axFExRwSRYdvF29oGlHxqMMMyaDNYWsKKcyBdWQkxAhf8WL4f7id3G0wT0pXMp5TBqiRA2mmiQLp/2QJCSLefIA5ppExLM=;hIWS8MUQk+opPwqOIq7TBA=="
 ---

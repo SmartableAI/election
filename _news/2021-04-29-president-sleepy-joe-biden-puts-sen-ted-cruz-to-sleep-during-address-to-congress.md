@@ -607,6 +607,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Noem sues Biden administration for canceling Mount Rushmore Independence Day fireworks"
+    excerpt: "EXCLUSIVE: South Dakota Gov. Kristi Noem sued the Biden administration on Friday after it canceled the Independence Day fireworks celebration at Mount Rushmore, demanding the court \"expeditiously\" issue a permit for the event to take place."
+    publishedDateTime: 2021-04-30T14:22:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OEhdwYApXpE/noem-biden-mount-rushmore-fireworks-lawsuit-south-dakota"
+    ampWebUrl: "https://www.foxnews.com/politics/noem-biden-mount-rushmore-fireworks-lawsuit-south-dakota.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-biden-mount-rushmore-fireworks-lawsuit-south-dakota.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Left-wing group dumps cow poop at White House entrance, demands Biden take climate action"
     excerpt: "Climate activists dissatisfied with President Biden's climate plan are not-so-subtly expressing their displeasure, as they are literally calling \"bull----\" while dumping cow manure in front of the White House."
     publishedDateTime: 2021-04-22T14:02:32Z
@@ -734,6 +750,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "John Kerry invested in oil companies prior to becoming Biden's climate envoy, financial disclosures show"
+    excerpt: "John Kerry, President Biden’s special presidential envoy for climate, held investments in oil companies prior to divesting from the stocks as he took over the position, according to financial forms."
+    publishedDateTime: 2021-04-30T15:43:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/woMxes5rb28/john-kerry-climate-investments-oil-companies"
+    ampWebUrl: "https://www.foxnews.com/politics/john-kerry-climate-investments-oil-companies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-kerry-climate-investments-oil-companies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/426f9b97-4ea1-44d8-87bf-3feeb8a0c349/30e00994-d19c-4764-9fee-c93f27eb2ee1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Klacik to LeBron James: Can’t support Biden, a 1994 Crime Bill author, and complain about police brutality"
     excerpt: "Kimberly Klacik, a former Republican congressional hopeful from Maryland, challenged LeBron James over his tweet that critics say threatened the life of an Ohio police officer who fatally shot a teen."

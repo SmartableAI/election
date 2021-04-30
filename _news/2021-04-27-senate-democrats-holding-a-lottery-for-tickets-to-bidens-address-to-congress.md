@@ -615,6 +615,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Joe Biden's ringer in the Senate"
+    excerpt: "President Biden came into office with a built-in legislative advantage: He served in the Senate for 36 years and knows the ways of the chamber. But he’s got another leg-up as he deals with a Senate that’s changed plenty in the intervening 12 years: His vice president has fresher contacts,"
+    publishedDateTime: 2021-04-30T12:08:00Z
+    webUrl: "https://www.politico.com/newsletters/huddle/2021/04/30/joe-bidens-ringer-in-the-senate-492669"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Alex Padilla replaced Kamala Harris in the Senate. Now, he's pushing for an immigration overhaul."
     excerpt: "The first Latino to represent California in the Senate is ready to ditch the filibuster in pursuit of progress."
     publishedDateTime: 2021-04-26T08:38:00Z
