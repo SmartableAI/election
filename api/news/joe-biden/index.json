@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-01-fact-check-post-detailing-covid-deaths-under-biden-ignores-improving-trend.md",
+      "title": "Fact check: Post detailing COVID deaths under Biden ignores improving trend",
+      "excerpt": "A Facebook post claims more than 176,000 people died from COVID-19 in the United States since President Joe Biden took office on Jan. 20. The image of Biden masked up with his thumbs up, shared April 28,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2021/04/30/fact-check-post-detailing-covid-deaths-under-biden-ignores-trend/4889416001/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2021/04/30/fact-check-post-detailing-covid-deaths-under-biden-ignores-trend/4889416001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/04/26/USATODAY/usatsports/247WallSt.com-247WS-869589-imageForEntry9-W69.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4889416001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4889416001",
+      "publishedDateTime": "2021-04-30T18:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-cnns-gloria-borger-falsely-claims-operation-warp-speed-happened-under-joe-biden.md",
       "title": "CNN's Gloria Borger falsely claims Operation Warp Speed 'happened under Joe Biden'",
       "excerpt": "CNN political analyst Gloria Borger falsely said Operation Warp Speed occurred under President Biden on Wednesday, and no one on CNN's panel corrected her in real time.",
@@ -691,49 +743,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-biden-hails-stunning-progress-on-covid-but-warns-americans-do-not-let-up-now-as-it-happened.md",
-      "title": "Biden hails ‘stunning progress’ on Covid but warns Americans: ‘Do not let up now’ – as it happened",
-      "excerpt": "President lauds vaccination effort to reduce cases and deaths as CDC relaxes mask guidelines – follow all the day’s politics news",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/27/joe-biden-covid-coronavirus-us-politics-live-latest?page=with:block-60889b3e8f08080a7ae6dfd9",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/27/joe-biden-covid-coronavirus-us-politics-live-latest?page=with:block-60889b3e8f08080a7ae6dfd9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/27/joe-biden-covid-coronavirus-us-politics-live-latest",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/27/joe-biden-covid-coronavirus-us-politics-live-latest",
-      "publishedDateTime": "2021-04-27T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {

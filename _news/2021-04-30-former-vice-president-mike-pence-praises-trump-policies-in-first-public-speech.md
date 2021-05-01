@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to veer from Trump, Obama policies in taking on NKorea"
+    excerpt: "The White House says President Joe Biden plans to veer from the approaches of his two most recent predecessors as he tries to stop North Korea’s nuclear program, rejecting both Donald Trump’s deeply p"
+    publishedDateTime: 2021-05-01T03:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-veer-from-trump-obama-policies-in-taking-on-nkorea/2021/05/01/7ee97d28-aa32-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-veer-from-trump-obama-policies-in-taking-on-nkorea/2021/05/01/7ee97d28-aa32-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-veer-from-trump-obama-policies-in-taking-on-nkorea/2021/05/01/7ee97d28-aa32-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NGFI3YFJ5AI6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump ally Sid Miller sues over Biden farm aid program, saying it discriminates against whites"
     excerpt: "Texas agriculture official Sid Miller files suit over a U.S. farm program that directs aid to nonwhite farmers and ranchers."
     publishedDateTime: 2021-04-27T21:36:00Z

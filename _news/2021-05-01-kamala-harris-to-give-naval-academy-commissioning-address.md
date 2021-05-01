@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Kamala Harris to give Naval Academy commissioning address"
-excerpt: "A White House official tells a Maryland news outlet that Vice President Kamala Harris will deliver the keynote address at the Naval Academy’s commissioning ceremony"
-publishedDateTime: 2021-04-30T20:56:00Z
-originalUrl: "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html"
-webUrl: "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html"
-ampWebUrl: "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+excerpt: "Vice President Kamala Harris will deliver the keynote address at the Naval Academy's commissioning ceremony, a White House official told a Maryland news outlet Friday. Harris is expected to give the speech May 28 during the in-person,"
+publishedDateTime: 2021-04-30T22:03:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
+webUrl: "https://www.houstonchronicle.com/news/article/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
+ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
+cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
 type: article
 quality: 125
 heat: 445
 published: true
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3PQT64VJ7YI6XKFHL5C53TPTMQ.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.hdnux.com/photos/01/17/67/05/20934993/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -278,6 +278,6 @@ related:
       domain: sacbee.com
     quality: 48
 
-secured: "YexYx1D7yLjvmKAWOBDN4PTOZ4ritRlpJGclh5dXkJUr686XERnhbdQA65zQ08HwQNLxKZn0/lLymefRZAQymaSQSK4szQiCywqPBx65KRBZZFiGWwb2rNrUllGzn2RhT8WESKDrMzROFN3e8dIeK9L21fA4XibDBGJ05sN3wXMYtZQI/UOfd8w/SdJDfq8thNhbmwIuNBTgDdWZx3tWR0Mpb4EpA/azZ7SwTajPIDW0yEl5M1HS1U/CTOIXhC3O1VIaJZPicSq+/haD4iV3FM7c37NR5s1+CYimRiQNtqCXhvm6gYzij2IY8BpM8mCAFutBl1tw9W9CkUsWkLYS68NKfj5cgZ2mM1dQKXsQSKkLO/G3FkcWlbk6WaCykgblhfUz1xfe46b23DWnkQO5Xtv3B6HjS1zUIGimNiUW6UuGw/G4ayo6oS9UdOfVf1f9qKUsF8WMAmXPkJrI+hyFKmZN+80ACdsv0HevQpwT80braSIYSBLNKPGEZ4SEUyfq7aigm2Rq86mYS6e578LqKA==;+CbsBYJrdA7jdZEnirnueg=="
+secured: "imN6KpyqGlelJKcnj+zPrPu3Mky5PN8KbwP4KffjVSxc26Q8PKRi3q+YBGawF1MCGdaCR/N/JM56+SA5QzC2UUhmCMXnJ7jwBC1YSVEtjIfM1qoyB6sHtwh9JDfQ5zR7dYxgTITEtJeQsiUND7xibcBzwpJp5amDKlnEExAbGwSOa1wlXg0sz1DEYbeVxy09SDXqd4giicrk89ThhYFhepfySfOU4RHfguAlCIsA3OrXa7BzFUQwV/KaKV0aPQkqyTZ+uakoizgumaX98b09AoEDeQakIKh8i58CTGCp22JLwacNtMdZuxWCAKNDCY1Dr7GVAM4bT2zA3XmEtEnk05ASAoQb4XBD+DTJvCCoKBI=;8S12iuO1GtMViuZmnEpvjQ=="
 ---
 

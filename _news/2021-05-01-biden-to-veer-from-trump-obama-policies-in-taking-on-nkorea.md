@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Democrats Move to Reinstate Methane Rules Loosened by Trump"
-excerpt: "Congressional Democrats are taking action to reinstate regulations designed to limit potent greenhouse gas emissions from oil and gas fields."
-publishedDateTime: 2021-04-28T18:57:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2021-04-28/democrats-move-to-reinstate-methane-rules-loosened-by-trump"
-webUrl: "https://www.usnews.com/news/business/articles/2021-04-28/democrats-move-to-reinstate-methane-rules-loosened-by-trump"
+title: "Biden to veer from Trump, Obama policies in taking on NKorea"
+excerpt: "The White House says President Joe Biden plans to veer from the approaches of his two most recent predecessors as he tries to stop North Korea’s nuclear program, rejecting both Donald Trump’s deeply p"
+publishedDateTime: 2021-05-01T03:05:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-to-veer-from-trump-obama-policies-in-taking-on-nkorea/2021/05/01/7ee97d28-aa32-11eb-a8a7-5f45ddcdf364_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-to-veer-from-trump-obama-policies-in-taking-on-nkorea/2021/05/01/7ee97d28-aa32-11eb-a8a7-5f45ddcdf364_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-veer-from-trump-obama-policies-in-taking-on-nkorea/2021/05/01/7ee97d28-aa32-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-veer-from-trump-obama-policies-in-taking-on-nkorea/2021/05/01/7ee97d28-aa32-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
-quality: 35
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NGFI3YFJ5AI6XKFHL5C53TPTMQ.jpg&w=1440"
+    width: 1440
+    height: 960
+    isCached: true
 
 related:
   - title: "Biden to keep intelligence inspector general Trump appointed"
@@ -38,22 +46,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_c5166b2bec7946b7a9db269a67526cb9_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Biden to veer from Trump, Obama policies in taking on NKorea"
-    excerpt: "The White House says President Joe Biden plans to veer from the approaches of his two most recent predecessors as he tries to stop North Korea’s nuclear program, rejecting both Donald Trump’s deeply p"
-    publishedDateTime: 2021-05-01T03:05:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-to-veer-from-trump-obama-policies-in-taking-on-nkorea/2021/05/01/7ee97d28-aa32-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-veer-from-trump-obama-policies-in-taking-on-nkorea/2021/05/01/7ee97d28-aa32-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-veer-from-trump-obama-policies-in-taking-on-nkorea/2021/05/01/7ee97d28-aa32-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NGFI3YFJ5AI6XKFHL5C53TPTMQ.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Former Vice President Mike Pence praises Trump policies in first public speech"
     excerpt: "Former Vice President Mike Pence made his first public speech since leaving the White House at a conservative gala in South Carolina. Pence criticized President Biden for what he called \"an avalanche of liberal policies."
@@ -507,6 +499,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 42
+  - title: "Democrats Move to Reinstate Methane Rules Loosened by Trump"
+    excerpt: "Congressional Democrats are taking action to reinstate regulations designed to limit potent greenhouse gas emissions from oil and gas fields."
+    publishedDateTime: 2021-04-28T18:57:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-04-28/democrats-move-to-reinstate-methane-rules-loosened-by-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
   - title: "Pentagon to Cancel Trump Border Wall Projects Using Military Funds"
     excerpt: "The Pentagon on Friday said it was cancelling the construction of parts of former President Donald Trump's border wall with Mexico that were being built using military funds, with all the unobligated money being returned to military."
     publishedDateTime: 2021-04-30T20:39:00Z
@@ -517,6 +518,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "iZ7bcsUxCY7B+s9UGOD6O9BvepPv8SH7XvekiMzJ08aF79jwHWM8GlRzxfz2jTA7dsNQTCefS5jc8jKdoBfv2rqmwNaeB+VPV9MwarMfYuiOA+S/EGesrPoyMmuuDW/gB2aM6sHh7FCYlLn1FYWB803KzlzjbXGsRyBdEMpq9ci7JWXbBvaegbjLVeRDpFPRuLmZiYmoaw2N7NYQk1/2gmvo5B4XTBJXo/BpAGcJZ6WNtDMuHaUOsCbDBG+sfZAoZNKNh1wU6wRmxHpAXecA7em9zK+rZLbIlXaX7k+y3hgxwrFReIFaBuZgA/y+tfU/P8bNI35l3+a9z0hm3kfChYyzeVF58DfOITGXje2OvEJtN4huhv/c5FPRWJaVd7D4ZnxtzFtQYSQ0iHjSxzGe7yRrWUVf6cPGWIFhEjPJEQHeUgkUKOgUuvVZcT1iORkJ3x3JZCp/PEw0GC+dc/M7qAVPzOif+zwZPvkoUmLQOFwHaDbFaY8FKa8++rduJWHQY5tIFVWpPmnzclUHzII8Lw==;IpjXL+U2ZMM0dOrxxkAYuQ=="
+secured: "JC9hDJylrsmh+Y0fERYS1x8BfDtf+F4cy0PS1uLMDjwuKv4IwmFp7xPLvLzXr7O9TdoXThBzG/qphtlsofMmjgvPnKH3MDZQ8+pxC1IFvMUdHrd3cXZpp+nf29hISqIU/Gq2yE3fXXT3FrwVohAlF/iCcaXaXfq/freUpcayo3esWB9sCX8zUvYwIqPcVG0Rq/XDoQPOOCw1WmsOzifSRYJRsydIPYbDw+afxSK2NDieu7086bDGKqTKC1rw8D9SnUU6NQQqBUNv7NYe6HFovd5xoAQw12QHv3b2/1U4SFajZfIJ6PKfh2w9yHUnFdWCREay5MFx6ycc01BKTT7HnkGK33D9A/wSL/3fKb+MidE=;6uu45AL71fTf+U9Y6krnLw=="
 ---
 
