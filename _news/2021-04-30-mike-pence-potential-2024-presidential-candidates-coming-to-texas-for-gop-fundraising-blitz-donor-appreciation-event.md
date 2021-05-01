@@ -30,7 +30,7 @@ related:
   - title: "Mike Pence coming to Texas for GOP fundraising blitz, donor appreciation event"
     excerpt: "Former Vice President Mike Pence and several other potential 2024 presidential candidates are descending upon Texas next week to thank donors to the 2020 campaign here and to help raise money to flip the U."
     publishedDateTime: 2021-04-30T22:34:00Z
-    webUrl: "https://www.chron.com/news/houston-texas/article/mike-pence-2024-texas-16142373.php"
+    webUrl: "https://www.chron.com/lavoz/news/houston-texas/article/mike-pence-2024-texas-16142373.php"
     ampWebUrl: "https://www.chron.com/news/houston-texas/amp/mike-pence-2024-texas-16142373.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/mike-pence-2024-texas-16142373.php"
     type: article

@@ -863,6 +863,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden celebrates and prepares to expand Amtrak despite decades of cost overruns and bad service"
+    excerpt: "President Biden headed Friday to Philadelphia to celebrate Amtrak’s 50-year anniversary and push for better funding of rail service that has a decades-long history of red ink. "
+    publishedDateTime: 2021-05-01T10:22:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lv-V06f3mFo/biden-expand-amtrak-decades-of-cost-overruns"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-expand-amtrak-decades-of-cost-overruns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expand-amtrak-decades-of-cost-overruns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/biden-plane.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "John Kerry invested in oil companies prior to becoming Biden's climate envoy, financial disclosures show"
     excerpt: "John Kerry, President Biden’s special presidential envoy for climate, held investments in oil companies prior to divesting from the stocks as he took over the position, according to financial forms."
     publishedDateTime: 2021-04-30T15:43:52Z

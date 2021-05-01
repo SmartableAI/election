@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-expected-to-target-biden-as-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-expected-to-target-biden-as-he-makes-his-first-post-vice-presidency-speech.amp"
 type: article
 quality: 200
-heat: 1700
+heat: 1720
 published: true
 
 provider:
@@ -845,6 +845,22 @@ related:
     quality: 163
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62b39216-53a9-43e7-9d65-6049d4f3e31b/520e8f10-6760-411c-bf3d-cb9c7a749ea2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden celebrates and prepares to expand Amtrak despite decades of cost overruns and bad service"
+    excerpt: "President Biden headed Friday to Philadelphia to celebrate Amtrak’s 50-year anniversary and push for better funding of rail service that has a decades-long history of red ink. "
+    publishedDateTime: 2021-05-01T10:22:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lv-V06f3mFo/biden-expand-amtrak-decades-of-cost-overruns"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-expand-amtrak-decades-of-cost-overruns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expand-amtrak-decades-of-cost-overruns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/biden-plane.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Court Could Consider Whether Trump Interfered in Cloud Computing Contract"
-excerpt: "The decision could be a win for Amazon, which said it was passed over for the $10 billion Pentagon contract because of his animosity toward its founder, Jeff Bezos."
-publishedDateTime: 2021-04-28T20:35:00Z
-originalUrl: "https://www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.html"
-webUrl: "https://www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.html"
-ampWebUrl: "https://www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.amp.html"
+title: "Trump gets tested in suburban Texas"
+excerpt: "The 11 Republicans running in Saturday’s House special election have a wide range of opinions on the former president, ranging from Never Trump to Super MAGA."
+publishedDateTime: 2021-05-01T11:00:00Z
+originalUrl: "https://www.politico.com/news/2021/05/01/texas-special-election-trump-484304"
+webUrl: "https://www.politico.com/news/2021/05/01/texas-special-election-trump-484304"
+ampWebUrl: "https://www.politico.com/amp/news/2021/05/01/texas-special-election-trump-484304"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/01/texas-special-election-trump-484304"
 type: article
-quality: 134
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/04/28/business/28jedi/merlin_161472645_b390071c-509b-4eca-a742-44668e12796f-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://static.politico.com/c6/84/8bebd2aa4992bf73c1b6b4800fc6/texas-trump-illo.jpg"
+    width: 2000
+    height: 1333
     isCached: true
 
 related:
@@ -80,21 +80,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump gets tested in suburban Texas"
-    excerpt: "The 11 Republicans running in Saturday’s House special election have a wide range of opinions on the former president, ranging from Never Trump to Super MAGA."
-    publishedDateTime: 2021-05-01T11:00:00Z
-    webUrl: "https://www.politico.com/news/2021/05/01/texas-special-election-trump-484304"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/05/01/texas-special-election-trump-484304"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/01/texas-special-election-trump-484304"
+  - title: "Court Could Consider Whether Trump Interfered in Cloud Computing Contract"
+    excerpt: "The decision could be a win for Amazon, which said it was passed over for the $10 billion Pentagon contract because of his animosity toward its founder, Jeff Bezos."
+    publishedDateTime: 2021-04-28T20:35:00Z
+    webUrl: "https://www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.amp.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
     images:
-      - url: "https://static.politico.com/c6/84/8bebd2aa4992bf73c1b6b4800fc6/texas-trump-illo.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://static01.nyt.com/images/2021/04/28/business/28jedi/merlin_161472645_b390071c-509b-4eca-a742-44668e12796f-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump’s Battle to Win the First 100 Days"
     excerpt: "The former president has been on an increasingly manic crusade to knock his successor and buff his own battered legacy."
@@ -111,6 +111,6 @@ related:
         height: 773
         isCached: true
 
-secured: "jj0KYhdpbUX6RApcDk/4togpF5UP1jn9MmoFwASFkw3pkzMFa/4HL0uNIS39Q+wRtEevFQNvJ2f7ldudwHb9XwSzWcruoMwLWKi9ggczJbkzzy82LC7sbfVr3Q3UBExFjF/MYvx7JVU72kHBNAFWsZyvNrKzBXUvjWUIzIDwzSKjojOx6vlXv8Hyi+OW9qqoNUWdbeOquZT0H4g5l1MyblRtqnYw+Dg/OhmLEt6XogZxdiRaWnLFdZNzcLaCnyhGXpV+5slyJEr9fEiqAFxNY3r5dH0zNjMomb7mTMgc9yKgLKruW/AM5GYyr5ikmHFHsl6421lqMQ25P4BDA31z50SRmAOgL01h8+KvxbbVcF/aD7I/mvzx4YKXAfYEUTwC60UGdHtbwnth6KsDo2qgsGCoc7c9sbioYl4lbyv3+78tEi9oQcfRkgSZxxbJ67LR75vU9Il9FCr6Fo7Mm5I7N3oaHczBf7TFFt/ldjPWqEX63bo4+dU604b2zXs9lJ0vVN292R0hi/XNTGdHtk38Mw==;RF7pTYew/KVe66hdUzy/lQ=="
+secured: "sezOdi6zcLVwjCLyiueQB63He+P0fnIUtGqy8P1fOpTZYmbvBQxzvsSPG4pTFNnRGSG1yFOm9GvWuPJT7Q51Uy98Az03x/D3bBZIUS+CY6eG7whUlXamFksGLl3n1ds7vfEIvrJCt5nvCW38jGdmrxol/d9Wq9cP86uH5GqLwdvuOb8zxsrQ16r+043YqPgKGRfoBxyTBCFMxgnxJbGCNO1/tpIvyNS2gQYb986Oobq3GGjrCqsLoxB0IAwB1zGT5vyuSsJIxZZRp+TkX93jGYRLcZnijOxmXcKOkmIB1Qf9BoLKa8KvWFEuNgVtujmnURgDJ2kMuqxeGAGtqDQdR1PT9fMDHeGYpXdM1JKhWKM=;vkiSwnvbeXVHlXKzKW3C8A=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Joe Biden gets into 'trouble,' spends 30 seconds looking for his mask"
-excerpt: "Wrapping up an outdoor Georgia rally on Thursday night, a fully vaccinated President Joe Biden spent 30 seconds looking for his mask, only to later realize it was in his pocket the entire time. "
-publishedDateTime: 2021-04-30T00:05:31Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zi9jpCgguCk/joe-biden-trouble-mask"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zi9jpCgguCk/joe-biden-trouble-mask"
-ampWebUrl: "https://www.foxnews.com/politics/joe-biden-trouble-mask.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-trouble-mask.amp"
+title: "Biden celebrates and prepares to expand Amtrak despite decades of cost overruns and bad service"
+excerpt: "President Biden headed Friday to Philadelphia to celebrate Amtrak’s 50-year anniversary and push for better funding of rail service that has a decades-long history of red ink. "
+publishedDateTime: 2021-05-01T10:22:02Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lv-V06f3mFo/biden-expand-amtrak-decades-of-cost-overruns"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lv-V06f3mFo/biden-expand-amtrak-decades-of-cost-overruns"
+ampWebUrl: "https://www.foxnews.com/politics/biden-expand-amtrak-decades-of-cost-overruns.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expand-amtrak-decades-of-cost-overruns.amp"
 type: article
-quality: 175
+quality: 163
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00d96b73-38ef-46ff-9e67-c4882f4368a5/02975826-568a-4e97-b558-34896c8336e2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/biden-plane.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -364,6 +364,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a5345c5d-bc23-41f8-a066-30aad458c0fc/18dbbb07-8562-4713-a4c1-fca51938406e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Joe Biden gets into 'trouble,' spends 30 seconds looking for his mask"
+    excerpt: "Wrapping up an outdoor Georgia rally on Thursday night, a fully vaccinated President Joe Biden spent 30 seconds looking for his mask, only to later realize it was in his pocket the entire time. "
+    publishedDateTime: 2021-04-30T00:05:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zi9jpCgguCk/joe-biden-trouble-mask"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-trouble-mask.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-trouble-mask.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00d96b73-38ef-46ff-9e67-c4882f4368a5/02975826-568a-4e97-b558-34896c8336e2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -847,22 +863,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden celebrates and prepares to expand Amtrak despite decades of cost overruns and bad service"
-    excerpt: "President Biden headed Friday to Philadelphia to celebrate Amtrak’s 50-year anniversary and push for better funding of rail service that has a decades-long history of red ink. "
-    publishedDateTime: 2021-05-01T10:22:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lv-V06f3mFo/biden-expand-amtrak-decades-of-cost-overruns"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-expand-amtrak-decades-of-cost-overruns.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expand-amtrak-decades-of-cost-overruns.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/biden-plane.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden lays out vision for 'rebuilding' America through slew of policy proposals in first joint address"
     excerpt: "President Biden in his first address to a joint session of Congress Wednesday night laid out his vision for America, through a slew of policy proposals and a legislative wish list, while vowing to work with both Republicans and Democrats to deliver on his agenda. "
     publishedDateTime: 2021-04-29T02:58:00Z
@@ -1230,6 +1230,6 @@ related:
         height: 2901
         isCached: true
 
-secured: "b6SINSSwqR9HqiQlh9tgfw+TSZt5AmMr9AnQj5Rzapym96NSHBYX+o4078P1X2y3X5k4hQ8v5Aoyk9yxXgNWhC6UOQq2h4YJctwSqyW3AiR5QQeVf8fXjzvWR6toZTLWEerQ+1h2KSVqD1rQKtPNfHXKjMEIP2sXAJ5pM4aPCg+Xa6yTtosjSMKIz5A94nM8UtVjAQMtgEPnNy/28Ng/74J4JiI3AcxQJCNv0+VP6gsb1+84KeI0g76FNqg3W1tptlutXsP+YmDe/6+FWU35Ag/qXfQ1t8OvZI3ErqaIzu5OEAyPZrJAioBhSicFyryaVw/BfVBirmmERfqQunDnW1KTbeplEWJmG+wScn9v70M=;AqI4PL5fRlmGYzRgwii6/Q=="
+secured: "El3dMynEAYDZY73kmfAYZmE3E+pTmuXyN1pxOd+Z0n68q5PsxuBR058AFjcuut6lVDL+5YwHAdru/t55YdRbO45cjsdybDG+l53fecVBSneXNqrqqCz0vjct4xLErNDLgDMAYI6G0Pfapa9OPgctsaLiFTJK3Hhcyftuv37QFcZHactENMlQy7DIC1OqvZQpObvv7MaiD2/k2xuPO2kMA4aL0B1dgKpLDpWPmZemnG6SOLzM2LjJgesGWvDGD5KSVp4c8FNmtFpWxVmcsB6sDx0li1paVOA6AhJzPRVjbZq29Bg8VzTVhpbs8pYJAwzcASLR/xGGHCwGilb4TMs8MaVZ+uE+YfkukHzj0y/67E8=;1qprpCeyaCSihwrjE6Dd3w=="
 ---
 
