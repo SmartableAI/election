@@ -63,6 +63,22 @@ related:
         width: 320
         height: 212
         isCached: true
+  - title: "Pentagon halts border wall construction paid for with defense funds redirected by Trump"
+    excerpt: "In 2019, the Trump administration used Defense Department cash for border wall projects when Congress refused to fund them."
+    publishedDateTime: 2021-05-01T11:16:00Z
+    webUrl: "https://www.cbsnews.com/news/border-wall-construction-canceled-pentagon/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/border-wall-construction-canceled-pentagon/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/border-wall-construction-canceled-pentagon/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 117
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/04/bee1bf6c-1fd9-4ed8-94a0-3d6da2145de4/thumbnail/1200x630/feec45701550b6329b0d5a6acaeddf5b/gettyimages-1222262266.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump administration sidelined experts in writing car pollution rules, EPA watchdog finds"
     excerpt: "The inspector general’s report may give the Biden administration more reason to tighten fuel-economy standards in the fight against global warming."
     publishedDateTime: 2021-04-21T14:00:00Z

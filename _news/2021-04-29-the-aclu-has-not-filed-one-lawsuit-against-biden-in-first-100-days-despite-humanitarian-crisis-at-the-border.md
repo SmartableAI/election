@@ -575,6 +575,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Navy SEALs killed bin Laden 10 years ago today; Biden was against the mission"
+    excerpt: "Millions of Americans around the world huddled around television sets on May 1, 2011, as then-President Barack Obama addressed the nation with major news – the Al Qaeda terrorist leader Usama bin Laden had been killed be Navy SEALs."
+    publishedDateTime: 2021-05-01T20:22:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eSd1CjfYM2s/navy-seals-killed-bin-laden-biden-against-mission"
+    ampWebUrl: "https://www.foxnews.com/politics/navy-seals-killed-bin-laden-biden-against-mission.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/navy-seals-killed-bin-laden-biden-against-mission.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/720/405/white-house-bin-laden.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Democrats pushing Biden to propose permanent extension of unemployment benefits"
     excerpt: "Democrats on the Hill are pushing President Biden to propose permanently expanding unemployment benefits just as governments did for the duration of the pandemic. "
     publishedDateTime: 2021-04-23T21:42:46Z

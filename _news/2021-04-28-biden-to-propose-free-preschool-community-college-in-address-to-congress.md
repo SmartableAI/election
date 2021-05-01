@@ -318,6 +318,22 @@ related:
         width: 2040
         height: 1360
         isCached: true
+  - title: "To Promote His Infrastructure Plan, Biden Revisits ‘Amtrak Joe’ Days"
+    excerpt: "Mr. Biden’s visit to a Philadelphia Amtrak station is a message that his agenda includes plenty of money for traditional projects like railroads, bridges and tunnels."
+    publishedDateTime: 2021-04-30T23:52:00Z
+    webUrl: "https://www.nytimes.com/2021/04/30/us/politics/biden-amtrak-infrastructure.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/30/us/politics/biden-amtrak-infrastructure.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/30/us/politics/biden-amtrak-infrastructure.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/30/us/politics/30dc-biden/merlin_187129137_0fc0c0b4-10c5-43ab-be24-a4f0b7a75e10-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Ex-Trump aide Stephen Miller's legal group sues Biden administration, alleging racism against white farmers"
     excerpt: "The staunch anti-immigration advocate cited MLK while charging a program to help socially disadvantaged farmers and ranchers discriminates against whites"
     publishedDateTime: 2021-04-28T20:38:00Z

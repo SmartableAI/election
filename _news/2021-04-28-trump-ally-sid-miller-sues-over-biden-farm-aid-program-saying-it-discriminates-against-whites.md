@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pence gives first public speech since end of Trump administration"
+    excerpt: "Former vice president Mike Pence on April 29 made his first public remarks since leaving office, telling an audience in Columbia, S.C., that he plans on “pushing back on the liberal agenda” that the Biden administration is pursuing in the coming months."
+    publishedDateTime: 2021-05-01T13:09:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/pence-gives-first-public-speech-since-end-of-trump-administration/2021/05/01/3b006924-331c-471a-8796-f0d0e8035d97_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 130
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-01-2021/t_0dfeb11a239348c9bb25cad18a99259e_name_e2b1b07a_a94a_11eb_a8a7_5f45ddcdf364.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "As economy spikes, Republicans are still waiting for the ‘Biden depression’ that Trump predicted"
     excerpt: "Throughout last year’s campaign, President Donald Trump issued a series of increasingly dark predictions about what would happen if Joe Biden were elected. “If he gets in, you will have a depression the likes of which you’ve never seen."
     publishedDateTime: 2021-04-22T20:36:00Z

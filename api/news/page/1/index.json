@@ -10,7 +10,7 @@
       "originalUrl": "https://www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -362,6 +362,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-01-kamala-harris-to-give-naval-academy-commissioning-address.md",
+      "title": "Kamala Harris to give Naval Academy commissioning address",
+      "excerpt": "Vice President Kamala Harris will deliver the keynote address at the Naval Academy's commissioning ceremony, a White House official told a Maryland news outlet Friday. Harris is expected to give the speech May 28 during the in-person,",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/news/article/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php",
+      "originalUrl": "https://www.houstonchronicle.com/news/article/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 465,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/17/67/05/20934993/3/ratio3x2_400.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php",
+      "publishedDateTime": "2021-04-30T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-national-digest-gop-lawmakers-accuse-biden-administration-of-tampering-with-census-numbers.md",
       "title": "National Digest: GOP lawmakers accuse Biden administration of tampering with census numbers",
       "excerpt": "A group of Republican lawmakers have accused the Biden administration of tampering with census numbers after data released this week showed lower than expected counts in some red states. Seventeen GOP members of Congress sent a letter Friday to Commerce Secretary Gina Raimondo questioning “the methodology and the role the Biden White House may have played in releasing these numbers,",
@@ -580,58 +632,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-kamala-harris-to-give-naval-academy-commissioning-address.md",
-      "title": "Kamala Harris to give Naval Academy commissioning address",
-      "excerpt": "A White House official tells a Maryland news outlet that Vice President Kamala Harris will deliver the keynote address at the Naval Academy’s commissioning ceremony",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 465,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3PQT64VJ7YI6XKFHL5C53TPTMQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
-      "publishedDateTime": "2021-04-30T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {
@@ -1252,7 +1252,7 @@
       "originalUrl": "https://www.businessinsider.com/10-things-in-politics-biden-100-days-history",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {

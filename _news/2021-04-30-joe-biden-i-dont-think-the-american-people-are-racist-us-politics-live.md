@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "'Amtrak Joe' Biden pushes infrastructure in Philadelphia"
+    excerpt: "President Joe Biden visited an Amtrak train station on Friday to promote his $1.9 trillion infrastructure proposal, saying the United States is \"way behind\" in improving its transportation grid and needs to do so to keep up with China."
+    publishedDateTime: 2021-04-30T22:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idUKKBN2CH15A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2CH15A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2CH15A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210430&t=2&i=1560554461&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3T1AF"
+        width: 831
+        height: 545
+        isCached: true
   - title: "Pence gives first public remarks since leaving office as Biden marks 100 days in office"
     excerpt: "Former Vice President Mike Pence on Thursday spoke in South Carolina, his first public remarks since leaving office. Speaking as President Biden marks his first 100 days in office, Pence slammed Mr. Biden's policies."
     publishedDateTime: 2021-04-30T01:26:00Z

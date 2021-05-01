@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-intelligence-ins
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616"
 type: article
 quality: 140
-heat: 800
+heat: 820
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/30/90d0917b-be0d-419c-8dbc-9bbcb857b620/thumbnail/1200x630/de35fb7e763677cf72751a4874191bcb/cbsn-fusion-former-vice-president-mike-pence-makes-first-public-appearance-at-conservative-gala-in-south-carolina-thumbnail-704946-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Pence gives first public speech since end of Trump administration"
+    excerpt: "Former vice president Mike Pence on April 29 made his first public remarks since leaving office, telling an audience in Columbia, S.C., that he plans on “pushing back on the liberal agenda” that the Biden administration is pursuing in the coming months."
+    publishedDateTime: 2021-05-01T13:09:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/pence-gives-first-public-speech-since-end-of-trump-administration/2021/05/01/3b006924-331c-471a-8796-f0d0e8035d97_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 130
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-01-2021/t_0dfeb11a239348c9bb25cad18a99259e_name_e2b1b07a_a94a_11eb_a8a7_5f45ddcdf364.jpg&w=1080"
+        width: 1080
+        height: 608
         isCached: true
   - title: "Trump ally Sid Miller sues over Biden farm aid program, saying it discriminates against whites"
     excerpt: "Texas agriculture official Sid Miller files suit over a U.S. farm program that directs aid to nonwhite farmers and ranchers."
