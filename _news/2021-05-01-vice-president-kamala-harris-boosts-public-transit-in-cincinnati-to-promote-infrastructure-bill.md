@@ -155,6 +155,22 @@ related:
         width: 1024
         height: 695
         isCached: true
+  - title: "Maryland moves toward 2 million fully vaccinated in wake of VP Kamala Harris’ Baltimore visit"
+    excerpt: "Maryland reported more than 70,000 immunizations for the first time in a week while several other key coronavirus metrics decreased"
+    publishedDateTime: 2021-04-30T20:03:00Z
+    webUrl: "https://www.baltimoresun.com/coronavirus/bs-md-covid-numbers-20210430-rauyvo2kzferrm6gcdeezpfrnm-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/coronavirus/bs-md-covid-numbers-20210430-rauyvo2kzferrm6gcdeezpfrnm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/coronavirus/bs-md-covid-numbers-20210430-rauyvo2kzferrm6gcdeezpfrnm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 64
+    images:
+      - url: "https://www.baltimoresun.com/resizer/IRgrddedYtLFCkgldQMukJ742rA=/630x630/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/P44NI3FL2ZGFDLXWLYNH5HDYWQ.jpg"
+        width: 630
+        height: 630
+        isCached: true
   - title: "'It's about time': With Kamala Harris and Nancy Pelosi, women share the dais for the first time"
     excerpt: "\"No president has ever said those words from this podium and it's about time.\" For the first time, both of those positions are now held by women: Vice President Kamala Harris and House Speaker Nancy Pelosi."
     publishedDateTime: 2021-04-29T10:57:00Z
@@ -258,6 +274,6 @@ related:
       domain: sacbee.com
     quality: 48
 
-secured: "5LHUldQ7JAgNJsuHNUODezFFYHVw5JWNRW6Pe3NGx0Dv9rwp5qS2yvb+hv7XCY3+NAgCfYhRmqrQlcUG/lfBHM2dDvXbHbz6hAzMJ9PrtgsW51KdQ7uggsufg8J9eoEWcG/VWch/NQ5utQRe4vXnK68wFVCYMjKdEYllVwILqf0sFEqjuiV6giwPQUy/oYm3LjJjmo7qkB1o0ZMpz58h6PDE1Fj+jFiPdzqCIvS6UIoGgqKYdf8fSbXQiozhg4Mzv1SGpV6PWGkSxXWi3pugHh5m3m7T8uefrliOEvodataePocj9TOtWnbCsAW4XNz3mTOZxUWt6pY3a8uZ0iUSu15/EQyuCng4vhtqHMaoKKo=;Tez6uScCkUJ0aQdSkXMD2Q=="
+secured: "y7u3r1yXMXf1ihB/BtPYtQU1Ta1VLtxQgWZgLAjyXYqhSZSOCVwT7yi0L29t3S6NlRSz3R3Jbe2ou/JcSDcaK77i9GofrSbX5wnVllL/08zgfuXe230KPIhnrwObQ8TgqVesHbBl8M6K2U7gbG1DCGalcH65/JWK5MH0nv7cOtGr1uJ4iSNkJ7Ig4GzU5OGwL7igm5vUfnG369q88QfIEbVmYs+bRVYaBBmSPScXgTa/opvjNCK2Z4xRWSlyJDVKr6bcE7IH+l0tALlSpdL2SxY4MbiPbOufjmj+qcAD3SbxBjsPRNHC/UlA6MvaqF60c/V4sdca8jowsofawFp+dq9J6oef/zzHBehFPmQ84wkQlB26TSiYHpT5LjdW7hmdfEQ9zsZtfaOG0NwKMi4G9N0i8EkZAb34I6ZtA1WT1xtRQLI4j/VgHQNSyeZeXOPBEs8NWmFOdHndepRoKuwfOm1lcf7PdS57qubZepmJxXjaTbmjHIF5VsH56sr4+48JSPYwtEG6+VLPzUWrXBXI1g==;loes4bMhx1AVjvvG6blv+w=="
 ---
 

@@ -2,21 +2,21 @@
 category: news
 title: "Paul Ryan: Trump debate will fade as new candidates emerge"
 excerpt: "Nearly six months after the presidential election, Republicans remain divided over former President Donald Trump"
-publishedDateTime: 2021-04-30T15:29:00Z
-originalUrl: "https://www.washingtonpost.com/politics/paul-ryan-trump-debate-will-fade-as-new-candidates-emerge/2021/04/30/2a85b528-a9d1-11eb-a8a7-5f45ddcdf364_story.html"
-webUrl: "https://www.washingtonpost.com/politics/paul-ryan-trump-debate-will-fade-as-new-candidates-emerge/2021/04/30/2a85b528-a9d1-11eb-a8a7-5f45ddcdf364_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/paul-ryan-trump-debate-will-fade-as-new-candidates-emerge/2021/04/30/2a85b528-a9d1-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/paul-ryan-trump-debate-will-fade-as-new-candidates-emerge/2021/04/30/2a85b528-a9d1-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+publishedDateTime: 2021-04-30T16:28:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027"
+webUrl: "https://abcnews.go.com/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027"
 type: article
 quality: 125
 heat: 145
 published: true
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KSQ6TSVJZUI6XKFHL5C53TPTMQ.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_c9db11371d264d36a3059ee975d86cbf_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -48,6 +48,6 @@ related:
         height: 630
         isCached: true
 
-secured: "phWqD0u5KcYWecH8XstxdCa6NpQ+E0/zPbOruwWuDuA9GCJL5js+FGwvokr5zZUaezh4dEoTd1lDpGNx5w9FbGsZvPe1+BzlQyIe1cyK1uz0xWbYB2ExTWLJ7KmsfcyMku5EmyWxyXwae1CEKFIBBqdQYsxZ1NlAqnojGa+SOo/7s6LIFlsNQ+NQFWOg+VwwVCr0q3SOYiAfo3gwTrYXflepbBDAbIXYWtjZBYaCIqal6yqL9BglmVaMH3Dg/ed9zwxk23lYI6pSRaKyNuA9Oc2Sf6++BjuXi2OgD5uX64kxV0g9k0ACvbANavdlsFiHzUF48289UdUx8XjTs0Flq9rdBpAJp5NvemI1t/GC7dfQ+lRrIBuxWou7znESCRSaTA+SFy4JFBc63D0U3ihAyLVT1qOZPHLBWwBt6sYMfXTBt8wrKIiIk1d+aip/eVPog5cAJpK//I7pYY4H46IrkDh+q9fnLrMJVFRT2tZfrlrVyoLEnncElP8k8xj9SI6BbVtIw+7um2AetEC9Zk23rA==;64dVcCeXwUFS4UxLiddSYw=="
+secured: "9LWGxXktQdUSxUPFO/7bjRDmiZgXRjShzPFTm0dwbpSEO5HZMIfR0w8OfuFYAarGsyDTB1UvOk7EDHxMgL2cV1VPw3ilHrlvGOnlpwbRuNwIWHQYlsLAsp0huCAot7vijg9SxXAZdjm79kA5t1kq8+W2VaVdCUNgvRb79XrHMgisTDZBtEm9H6FhqlLnUWg6VYB0Igpt6L6lZ1EiJVWW1qPbf+Ob9uAY63oMPZOMA78+B8oyJ92wofkIrZ+zmMCEhZeIlOY6mr6qwrIbr0rGpn6sG5oac3NzPvNpH/vMXQaxykjj8O5eaQcb0+9eHD1cIYy7wi4XSCDFBADGkMhFQOMqGDV7b6EH4t7AE3kqi8g=;s6OKYzK330cD1evyeQIBNw=="
 ---
 

@@ -1023,7 +1023,7 @@ related:
   - title: "After 100 Days, Mike Pence Speaks: Biden Threatens Progress \"We\" Made Under Trump"
     excerpt: "Former Vice President Mike Pence called for conservatives to unite in opposition to President Biden's agenda during his first public speech since leaving office Thursday in South Carolina. Pence referred to progress \"we\" made under the Trump administration after publicly breaking with Trump during and after the January 6 riot."
     publishedDateTime: 2021-04-30T12:16:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/04/30/after_100_days_mike_pence_makes_first_public_remarks_biden_threatens_to_derail_progress_we_made.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/30/after_100_days_mike_pence_makes_first_public_remarks_biden_threatens_to_derail_progress_we_made.html"
     type: article
     provider:
       name: RealClearPolitics

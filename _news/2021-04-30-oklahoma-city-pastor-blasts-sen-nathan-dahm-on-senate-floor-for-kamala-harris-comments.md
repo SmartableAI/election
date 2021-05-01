@@ -139,6 +139,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Maryland moves toward 2 million fully vaccinated in wake of VP Kamala Harris’ Baltimore visit"
+    excerpt: "Maryland reported more than 70,000 immunizations for the first time in a week while several other key coronavirus metrics decreased"
+    publishedDateTime: 2021-04-30T20:03:00Z
+    webUrl: "https://www.baltimoresun.com/coronavirus/bs-md-covid-numbers-20210430-rauyvo2kzferrm6gcdeezpfrnm-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/coronavirus/bs-md-covid-numbers-20210430-rauyvo2kzferrm6gcdeezpfrnm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/coronavirus/bs-md-covid-numbers-20210430-rauyvo2kzferrm6gcdeezpfrnm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 64
+    images:
+      - url: "https://www.baltimoresun.com/resizer/IRgrddedYtLFCkgldQMukJ742rA=/630x630/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/P44NI3FL2ZGFDLXWLYNH5HDYWQ.jpg"
+        width: 630
+        height: 630
+        isCached: true
   - title: "'It's about time': With Kamala Harris and Nancy Pelosi, women share the dais for the first time"
     excerpt: "\"No president has ever said those words from this podium and it's about time.\" For the first time, both of those positions are now held by women: Vice President Kamala Harris and House Speaker Nancy Pelosi."
     publishedDateTime: 2021-04-29T10:57:00Z

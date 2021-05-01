@@ -1,29 +1,29 @@
 ---
 category: news
-title: "LIVE: Vice President Kamala Harris is on her way to Cincinnati"
-excerpt: "Friday's visit will be Kamala Harris' first to the Queen city either as vice president or as a candidate on the presidential ticket."
-publishedDateTime: 2021-04-30T14:49:00Z
-originalUrl: "https://www.cincinnati.com/story/news/2021/04/30/vice-president-kamala-harris-cincinnati-transit-spending-plans/4871270001/"
-webUrl: "https://www.cincinnati.com/story/news/2021/04/30/vice-president-kamala-harris-cincinnati-transit-spending-plans/4871270001/"
-ampWebUrl: "https://amp.cincinnati.com/amp/4871270001"
-cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4871270001"
+title: "Maryland moves toward 2 million fully vaccinated in wake of VP Kamala Harris’ Baltimore visit"
+excerpt: "Maryland reported more than 70,000 immunizations for the first time in a week while several other key coronavirus metrics decreased"
+publishedDateTime: 2021-04-30T20:03:00Z
+originalUrl: "https://www.baltimoresun.com/coronavirus/bs-md-covid-numbers-20210430-rauyvo2kzferrm6gcdeezpfrnm-story.html"
+webUrl: "https://www.baltimoresun.com/coronavirus/bs-md-covid-numbers-20210430-rauyvo2kzferrm6gcdeezpfrnm-story.html"
+ampWebUrl: "https://www.baltimoresun.com/coronavirus/bs-md-covid-numbers-20210430-rauyvo2kzferrm6gcdeezpfrnm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/coronavirus/bs-md-covid-numbers-20210430-rauyvo2kzferrm6gcdeezpfrnm-story.html?outputType=amp"
 type: article
-quality: 75
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Cincinnati Enquirer
-  domain: cincinnati.com
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/04/30/PCIN/a765bc78-c06a-4a93-9d8c-331cd2009c7e-043021VPVisitCO05.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://www.baltimoresun.com/resizer/IRgrddedYtLFCkgldQMukJ742rA=/630x630/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/P44NI3FL2ZGFDLXWLYNH5HDYWQ.jpg"
+    width: 630
+    height: 630
     isCached: true
 
 related:
@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 773
         isCached: true
+  - title: "LIVE: Vice President Kamala Harris is on her way to Cincinnati"
+    excerpt: "Friday's visit will be Kamala Harris' first to the Queen city either as vice president or as a candidate on the presidential ticket."
+    publishedDateTime: 2021-04-30T14:49:00Z
+    webUrl: "https://www.cincinnati.com/story/news/2021/04/30/vice-president-kamala-harris-cincinnati-transit-spending-plans/4871270001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/4871270001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4871270001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/30/PCIN/a765bc78-c06a-4a93-9d8c-331cd2009c7e-043021VPVisitCO05.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OKC minister rebukes senator for 'sexist, racist' remarks about VP Kamala Harris"
     excerpt: "Oklahoma City Rev. Lee Cooper publicly rebuked Sen. Nathan Dahm for making \"'sexist,\" \"misogynistic\" and \"racist\" remarks about VP Kamala Harris."
     publishedDateTime: 2021-04-29T23:31:00Z
@@ -138,22 +154,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/4/b2/4b288ace-a942-11eb-b0c9-b7d9d9ac8545/6010814374821.image.jpg?crop=1276%2C866%2C5%2C168&resize=1024%2C695&order=crop%2Cresize"
         width: 1024
         height: 695
-        isCached: true
-  - title: "Maryland moves toward 2 million fully vaccinated in wake of VP Kamala Harris’ Baltimore visit"
-    excerpt: "Maryland reported more than 70,000 immunizations for the first time in a week while several other key coronavirus metrics decreased"
-    publishedDateTime: 2021-04-30T20:03:00Z
-    webUrl: "https://www.baltimoresun.com/coronavirus/bs-md-covid-numbers-20210430-rauyvo2kzferrm6gcdeezpfrnm-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/coronavirus/bs-md-covid-numbers-20210430-rauyvo2kzferrm6gcdeezpfrnm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/coronavirus/bs-md-covid-numbers-20210430-rauyvo2kzferrm6gcdeezpfrnm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 64
-    images:
-      - url: "https://www.baltimoresun.com/resizer/IRgrddedYtLFCkgldQMukJ742rA=/630x630/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/P44NI3FL2ZGFDLXWLYNH5HDYWQ.jpg"
-        width: 630
-        height: 630
         isCached: true
   - title: "'It's about time': With Kamala Harris and Nancy Pelosi, women share the dais for the first time"
     excerpt: "\"No president has ever said those words from this podium and it's about time.\" For the first time, both of those positions are now held by women: Vice President Kamala Harris and House Speaker Nancy Pelosi."
@@ -274,6 +274,6 @@ related:
       domain: sacbee.com
     quality: 48
 
-secured: "HUOppNcmbKwbG/zt9WU7BNN9ClN7H1UvuU4VyFobzcbj/EcHcZJxD/IVITaXoD5fWmAfsLf4UBCUzuEoguLncPiBL4Y9N8fwm4USJT0Og3RiDfYGrIwsFTtrziolP+kqsPsieB/bJh6YShyQmc+9HklDNsyoy/igsL/HAII58RY8gVGKi/SMI8Xt90SBj7QlUujla3iuepPgKI7z0RpwXfhx3HEElyTdTRgHK8zCAtzMzON2qnvFOwpdqSEQ+JUg3zoC46b0tlYATCyhmtSH1r/2TFX4HHP6jrHRFP42xMF3KuvdwLOneFmYY7ISLtIzX7S0T5YxWKX0kSEBpxgTcm2d0TBNrtNVunSXeoGrm/k=;Vc7PBQMBi8JkFrpXYOHVZg=="
+secured: "3c5H910741VC2RgzBECR7pHbbWfKZc/3GDRQ1+7W0xlYBQwWFdlBRw5XT45SmyDMdTvemWewZwlEiA2Ms0UEN/7B5aJjJjBwKGZgsytROoCeWyHBo59H8bGKLUWINUBL7EfVJn8VY2zgRYO3pcW6ylH+MLmMCeP/crhb8Mk9OIaDwijth7IWzHcn2o+TNSttk9/edDjEFs5D6FVPy2XyDV2tAPkRY/40UTsrwCEkVcRGO7/fVNrx8UHJPYChdKcNLW116uu7CEz2y1cHYwdK4yDL5Y5sZ4nTTvj2JjdX9YfIfDC2fIWW82eMY1J+5swgJfn+liw1S7CmOKi2lYgjXrtF+0JdBxl8HlUbRLx8yow=;xeM7G/Xw60oDM1q94qXVGA=="
 ---
 

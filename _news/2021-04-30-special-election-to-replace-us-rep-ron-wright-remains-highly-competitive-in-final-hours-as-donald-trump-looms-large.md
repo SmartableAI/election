@@ -29,19 +29,19 @@ images:
 related:
   - title: "Paul Ryan: Trump debate will fade as new candidates emerge"
     excerpt: "Nearly six months after the presidential election, Republicans remain divided over former President Donald Trump"
-    publishedDateTime: 2021-04-30T15:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/paul-ryan-trump-debate-will-fade-as-new-candidates-emerge/2021/04/30/2a85b528-a9d1-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/paul-ryan-trump-debate-will-fade-as-new-candidates-emerge/2021/04/30/2a85b528-a9d1-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/paul-ryan-trump-debate-will-fade-as-new-candidates-emerge/2021/04/30/2a85b528-a9d1-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    publishedDateTime: 2021-04-30T16:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KSQ6TSVJZUI6XKFHL5C53TPTMQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c9db11371d264d36a3059ee975d86cbf_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "ICAXOaQTFjBLZI4Z95urA4jJKnIiQ5yn4b4LWNTDnstTqTp26nj16ho27I8LXh1P6KB10EAaxPHs2QAAwSG0Vr0Bi9q8vmm/Pv3zpaWYeYEeH2LYsxQrXUmC4AwtzsYsZwBGdbk/ovMQ/m4t2r6PcAt5kfsVwMVnTQqouFRY0O+n7W4KxcHF07ljD0DEBzKnl/4ztj5IITqRh57Y0r/8oTnWo1wg8A0UXkO+sLS8McVBO4iVCfh2FumupT1X00VTyZgPJwV5w0/jXoLMoZjroLHTfpyL5dR058wkLHTBkBioVVI6AdGnAu//TbCo2FTXsLnsNpxI9M8hpnwyXTx+G0zLZVH+h00BeAZQuHPmFx0=;RVxuTrc8ZzAiKo/iK+9SRg=="
