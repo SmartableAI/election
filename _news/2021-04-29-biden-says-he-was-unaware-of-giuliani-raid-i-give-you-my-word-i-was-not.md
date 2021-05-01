@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump allies worry Giuliani raid sent 'strong message' to ex-President's inner circle"
+    excerpt: "A Wednesday raid by federal agents of an apartment and office belonging to former New York City mayor and one-time Donald Trump lawyer Rudy Giuliani has left allies of the former President feeling uneasy about what could come next, according to sources close to Trump.\n    \n"
+    publishedDateTime: 2021-05-01T01:30:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L0YUSNs3dkI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/giuliani-raid-donald-trump-inner-circle/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/giuliani-raid-donald-trump-inner-circle/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "JACJv54KRLQi9SYIt02jCZgAHOlSsO3OarlgNscCWdT8Z7SAziL7B7w89k6j9HQVTPmbThPQqI2o0bO6olhoqNDT9YXXB8rvzr3kFoH5AHxdupuIaHPscRuyg4nvjlqZtQrcS0af49Ew7fe2ZK30BCJJNs+0RQfAljiLbp+P4Q3mkr5ULWp/v4HvT2f8GVmv7lJPsirjtFfIytcyRITyr/tqWvk4pZRkWnUaRYJ+R1QYVoa3yL5KqtDr/R8wz+7lYZ68397r9xzkEb8ggntLYFS0zOk84wKysNW+QknohIcwnRlfNvnxqRqws2HEljSFctm+Bqm+RfwdeEcGTthA8J+WMsG/SXH8G7KgBN7hBzA=;MR6X1ICKMiUl61rblUZRsg=="
 ---

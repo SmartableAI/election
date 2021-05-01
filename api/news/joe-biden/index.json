@@ -61,27 +61,36 @@
     {
       "path": "_news/2021-04-30-officials-in-switzerland-push-back-at-biden-tax-haven-barb.md",
       "title": "Officials in Switzerland push back at Biden 'tax haven' barb",
-      "excerpt": "Swiss authorities are taking issue with U.S. President Joe Biden's comment that many companies use Switzerland, and two other territories,",
+      "excerpt": "Swiss authorities are taking issue with comments from U.S. President Joe Biden to Congress that many companies use Switzerland as a tax haven",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/officials-in-switzerland-push-back-at-biden-tax-haven-barb-2021-4",
-      "originalUrl": "https://www.businessinsider.com/officials-in-switzerland-push-back-at-biden-tax-haven-barb-2021-4",
+      "webUrl": "https://www.washingtonpost.com/politics/officials-in-switzerland-push-back-at-biden-tax-haven-barb/2021/04/30/b69dff70-a9a9-11eb-a8a7-5f45ddcdf364_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/officials-in-switzerland-push-back-at-biden-tax-haven-barb/2021/04/30/b69dff70-a9a9-11eb-a8a7-5f45ddcdf364_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 125,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/officials-in-switzerland-push-back-at-biden-tax-haven-barb-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/officials-in-switzerland-push-back-at-biden-tax-haven-barb-2021-4?amp",
-      "publishedDateTime": "2021-04-30T04:47:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/officials-in-switzerland-push-back-at-biden-tax-haven-barb/2021/04/30/b69dff70-a9a9-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/officials-in-switzerland-push-back-at-biden-tax-haven-barb/2021/04/30/b69dff70-a9a9-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-30T03:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

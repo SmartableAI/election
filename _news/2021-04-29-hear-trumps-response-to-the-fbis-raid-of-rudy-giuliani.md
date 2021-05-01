@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/29/donald-trump-reac
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/29/donald-trump-reacts-rudy-giuliani-fbi-raid-newday-vpx.cnn"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428150841-02-rudy-giuliani-apartment-raid-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump allies worry Giuliani raid sent 'strong message' to ex-President's inner circle"
+    excerpt: "A Wednesday raid by federal agents of an apartment and office belonging to former New York City mayor and one-time Donald Trump lawyer Rudy Giuliani has left allies of the former President feeling uneasy about what could come next, according to sources close to Trump.\n    \n"
+    publishedDateTime: 2021-05-01T01:30:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L0YUSNs3dkI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/giuliani-raid-donald-trump-inner-circle/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/giuliani-raid-donald-trump-inner-circle/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

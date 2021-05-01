@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-lands-new-job-pushing-americ
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden.amp"
 type: article
 quality: 198
-heat: 518
+heat: 538
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
     quality: 164
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83c2c7e5-b82b-44dc-b6de-bada8b77ace6/7c2b5790-6a5d-4900-a5dd-984a8e46ab00/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Venezuela transfers 6 jailed American oil execs to house arrest as Biden weighs policy options"
+    excerpt: "Venezuela transferred six American oil executives to house arrest on Friday as the Biden administration mulled next steps in its relationship with Nicolas Maduro’s socialist regime."
+    publishedDateTime: 2021-05-01T01:46:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jF_XzanijwM/venezuela-6-jailed-american-oil-execs-house-arrest-biden-weighs-policy-options"
+    ampWebUrl: "https://www.foxnews.com/politics/venezuela-6-jailed-american-oil-execs-house-arrest-biden-weighs-policy-options.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/venezuela-6-jailed-american-oil-execs-house-arrest-biden-weighs-policy-options.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26b2595f-106b-4afe-87c5-d67bef930299/1dc49e81-ee56-43ec-a666-b968f01aa9c5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

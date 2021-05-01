@@ -47,7 +47,7 @@
     {
       "path": "_news/2021-04-30-biden-celebrates-amtraks-50th-anniversary-with-plans-to-expand-the-railway.md",
       "title": "Biden celebrates Amtrak's 50th anniversary with plans to expand the railway",
-      "excerpt": "",
+      "excerpt": "President Biden traveled to Philadelphia's 30th Street Station Friday to celebrate the 50th anniversary of Amtrak’s first rail ride, from New York City to Philadelphia, and tout a grand future for the federally funded train system.",
       "sourceUrl": null,
       "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ltO7ay2fTSo/biden-pushes-big-spending-package-celebrates-amtraks-50th-anniversary",
       "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ltO7ay2fTSo/biden-pushes-big-spending-package-celebrates-amtraks-50th-anniversary",
@@ -165,7 +165,7 @@
       "originalUrl": "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -654,49 +654,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-30-officials-in-switzerland-push-back-at-biden-tax-haven-barb.md",
-      "title": "Officials in Switzerland push back at Biden 'tax haven' barb",
-      "excerpt": "Swiss authorities are taking issue with U.S. President Joe Biden's comment that many companies use Switzerland, and two other territories,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/officials-in-switzerland-push-back-at-biden-tax-haven-barb-2021-4",
-      "originalUrl": "https://www.businessinsider.com/officials-in-switzerland-push-back-at-biden-tax-haven-barb-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/officials-in-switzerland-push-back-at-biden-tax-haven-barb-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/officials-in-switzerland-push-back-at-biden-tax-haven-barb-2021-4?amp",
-      "publishedDateTime": "2021-04-30T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-04-30-texas-congressional-race-showcases-gop-fight-over-trump-conspiracy-theories-and-election-lies.md",
       "title": "Texas congressional race showcases GOP fight over Trump, conspiracy theories and election lies ",
       "excerpt": "Some Republicans in a crowded field of candidates competing for a US House seat in Texas ahead of a May 1 special election have embraced Donald Trump and his political legacy. A former professional wrestler is using the tagline \"make America Texas again\" as he warns \"commies in DC are ruining America.\"",
@@ -750,6 +707,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-officials-in-switzerland-push-back-at-biden-tax-haven-barb.md",
+      "title": "Officials in Switzerland push back at Biden 'tax haven' barb",
+      "excerpt": "Swiss authorities are taking issue with comments from U.S. President Joe Biden to Congress that many companies use Switzerland as a tax haven",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/officials-in-switzerland-push-back-at-biden-tax-haven-barb/2021/04/30/b69dff70-a9a9-11eb-a8a7-5f45ddcdf364_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/officials-in-switzerland-push-back-at-biden-tax-haven-barb/2021/04/30/b69dff70-a9a9-11eb-a8a7-5f45ddcdf364_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/officials-in-switzerland-push-back-at-biden-tax-haven-barb/2021/04/30/b69dff70-a9a9-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/officials-in-switzerland-push-back-at-biden-tax-haven-barb/2021/04/30/b69dff70-a9a9-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-30T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1308,7 +1317,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/former-trump-official-zinke-eyes-montanas-new-us-house-seat/2021/04/29/1b910cc8-a924-11eb-a8a7-5f45ddcdf364_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {

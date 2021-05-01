@@ -171,6 +171,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Kamala Harris boosts public transit in Cincinnati to promote infrastructure bill"
+    excerpt: "Vice President Kamala Harris and Sen. Sherrod Brown conducted a roundtable at the University of Cincinnati’s 1819 Innovation Hub to discuss the importance of investing in the nation's public transit infrastructure."
+    publishedDateTime: 2021-04-30T18:56:00Z
+    webUrl: "https://www.cleveland.com/open/2021/04/vice-president-kamala-harris-boosts-public-transit-in-cincinnati-to-promote-infrastructure-bill.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/04/vice-president-kamala-harris-boosts-public-transit-in-cincinnati-to-promote-infrastructure-bill.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/04/vice-president-kamala-harris-boosts-public-transit-in-cincinnati-to-promote-infrastructure-bill.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 63
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/366T3GHGA5FOXNN3SJSC3P4PGA.jpg"
+        width: 5131
+        height: 3421
+        isCached: true
   - title: "‘You guys are role models’: VP Kamala Harris thanks people getting COVID vaccine at Baltimore stadium"
     excerpt: "Vice President Kamala Harris arrived via helicopter shortly after 1:30 p.m. in Port Covington, then took a short drive to the M&T Bank Stadium COVID-19 vaccination site."
     publishedDateTime: 2021-04-29T21:24:00Z

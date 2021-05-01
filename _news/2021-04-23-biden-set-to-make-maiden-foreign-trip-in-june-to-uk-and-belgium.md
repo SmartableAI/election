@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-fo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-foreign-trip/index.html"
 type: article
 quality: 175
-heat: 615
+heat: 635
 published: true
 
 provider:
@@ -300,6 +300,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427140259-03-biden-remarks-0427-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "White House expands behind-the-scenes lobbying as Biden makes public push for $4 trillion proposals"
+    excerpt: "President Joe Biden's major public -- and prime time -- push this week for his sweeping $4 trillion economic agenda was only one piece of the White House push to lay the groundwork to move his agenda.\n    \n"
+    publishedDateTime: 2021-05-01T01:23:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-MqBMRd9gQg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/white-house-behind-the-scenes-economic-proposals/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/white-house-behind-the-scenes-economic-proposals/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428222229-53-biden-address-0428-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

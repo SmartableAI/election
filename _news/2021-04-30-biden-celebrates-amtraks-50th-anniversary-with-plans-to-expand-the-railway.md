@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Biden celebrates Amtrak's 50th anniversary with plans to expand the railway"
-excerpt: ""
+excerpt: "President Biden traveled to Philadelphia's 30th Street Station Friday to celebrate the 50th anniversary of Amtrak’s first rail ride, from New York City to Philadelphia, and tout a grand future for the federally funded train system."
 publishedDateTime: 2021-04-30T21:20:14Z
 originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ltO7ay2fTSo/biden-pushes-big-spending-package-celebrates-amtraks-50th-anniversary"
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ltO7ay2fTSo/biden-pushes-big-spending-package-celebrates-amtraks-50th-anniversary"

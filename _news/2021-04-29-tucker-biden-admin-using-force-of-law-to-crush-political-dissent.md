@@ -378,6 +378,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "US and Russia working toward Biden-Putin summer summit"
+    excerpt: "Talks are in the works for a summit between President Biden and Russian President Vladimir Putin this summer, National Security Advisor Jake Sullivan said Friday."
+    publishedDateTime: 2021-05-01T01:40:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mVyqJCCPMOU/biden-and-putin-to-meet-for-summer-summit"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-and-putin-to-meet-for-summer-summit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-and-putin-to-meet-for-summer-summit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26b2595f-106b-4afe-87c5-d67bef930299/1dc49e81-ee56-43ec-a666-b968f01aa9c5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Cruz calls on Biden to fix gap in Texas levee that protects border towns"
     excerpt: "Sen. Ted Cruz, R-Texas, and local residents in Mission, Texas, are calling on President Biden to fix a compromised levee that protects border towns from the Rio Grande Valley – with hurricane season just weeks away."
     publishedDateTime: 2021-04-22T17:31:33Z
@@ -1149,6 +1165,20 @@ related:
       - url: "https://assets.realclear.com/images/52/526043_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Tucker Carlson: Biden Admin Using Force Of Law To Crush Political Dissent"
+    excerpt: "Tucker Carlson analyzes why federal agents raided Rudy Giuliani's home. TUCKER CARLSON: Today, Joe Biden gave his first address to a joint session of congress. The speech amounted to a mushy casserole of cliches designed to calm your suspicions that anything weird or scary might be going on and to reassure you that everything's going to be just fine,"
+    publishedDateTime: 2021-05-01T00:43:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/29/tucker_biden_admin_using_force_of_law_to_crush_political_dissent.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 64
+    images:
+      - url: "https://assets.realclear.com/images/53/538920.jpg"
+        width: 1100
+        height: 824
         isCached: true
   - title: "President Biden: Private Sector Can't Meet Challenges Of Climate Change \"Alone\""
     excerpt: "President Biden told Thursday's virtual global climate summit that \"time is short\" for the U.S. to address climate change. He announced that the U.S. will cut its carbon emissions \"in half\" over the next decade."

@@ -318,6 +318,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House expands behind-the-scenes lobbying as Biden makes public push for $4 trillion proposals"
+    excerpt: "President Joe Biden's major public -- and prime time -- push this week for his sweeping $4 trillion economic agenda was only one piece of the White House push to lay the groundwork to move his agenda.\n    \n"
+    publishedDateTime: 2021-05-01T01:23:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-MqBMRd9gQg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/white-house-behind-the-scenes-economic-proposals/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/white-house-behind-the-scenes-economic-proposals/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428222229-53-biden-address-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden announces 2nd slate of diverse judicial nominees"
     excerpt: "President Joe Biden announced Thursday that he is nominating additional diverse candidates for federal court vacancies. The nominees include David Estudillo, now presiding judge of Grant County Superior Court in Ephrata,"
     publishedDateTime: 2021-04-29T12:03:00Z

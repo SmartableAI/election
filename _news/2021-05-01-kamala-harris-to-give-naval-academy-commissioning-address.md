@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-aca
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Kamala Harris boosts public transit in Cincinnati to promote infrastructure bill"
+    excerpt: "Vice President Kamala Harris and Sen. Sherrod Brown conducted a roundtable at the University of Cincinnati’s 1819 Innovation Hub to discuss the importance of investing in the nation's public transit infrastructure."
+    publishedDateTime: 2021-04-30T18:56:00Z
+    webUrl: "https://www.cleveland.com/open/2021/04/vice-president-kamala-harris-boosts-public-transit-in-cincinnati-to-promote-infrastructure-bill.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/04/vice-president-kamala-harris-boosts-public-transit-in-cincinnati-to-promote-infrastructure-bill.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/04/vice-president-kamala-harris-boosts-public-transit-in-cincinnati-to-promote-infrastructure-bill.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 63
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/366T3GHGA5FOXNN3SJSC3P4PGA.jpg"
+        width: 5131
+        height: 3421
+        isCached: true
   - title: "Watch Now: Oklahoma City pastor blasts Sen. Nathan Dahm on Senate floor for Kamala Harris comments"
     excerpt: "During the conclusion of a Thursday morning session, Rev. Lee Cooper Jr., pastor at Prospect Baptist Church in Oklahoma City, chastised Dahm during an address ahead of the official prayer"
     publishedDateTime: 2021-04-30T05:20:00Z
@@ -246,6 +262,6 @@ related:
       domain: sacbee.com
     quality: 48
 
-secured: "lb+MHQkh6dI2ktTk2aHIbk7q017zyhS6pN9SbvoGuBQjwnGYmqi7cIrTRJfwSCamy94VG5/cS49LDuDQa+4MAZ24qzG9Z4e9vm2MnEaEMDxZ/Z3NSR7hYyL/Ve06qo4e9N3vfDnbEymshG9tTbAEWKbMVPoKir4e7pnHRaIh8JCdMTD89rxrMesJPoNmzqN40mOuic9y/Cva+xl3JIm9X48bd0RKBE0lNt3C9GEODv3LWzqYfP85aMZrrtVwM7YAfceznqcZugmTzwGBPvHtpvNQ/YhUo0qhfG9lEJzLwCQ+ezbQZMfK1kC6TO3ClNFcVSQDWi7W69gQMbYQS6MxiOeTnjP4Iq4HC1/euinHMDc=;OcFRwLdtUhDS8eCrsEJ5oA=="
+secured: "YexYx1D7yLjvmKAWOBDN4PTOZ4ritRlpJGclh5dXkJUr686XERnhbdQA65zQ08HwQNLxKZn0/lLymefRZAQymaSQSK4szQiCywqPBx65KRBZZFiGWwb2rNrUllGzn2RhT8WESKDrMzROFN3e8dIeK9L21fA4XibDBGJ05sN3wXMYtZQI/UOfd8w/SdJDfq8thNhbmwIuNBTgDdWZx3tWR0Mpb4EpA/azZ7SwTajPIDW0yEl5M1HS1U/CTOIXhC3O1VIaJZPicSq+/haD4iV3FM7c37NR5s1+CYimRiQNtqCXhvm6gYzij2IY8BpM8mCAFutBl1tw9W9CkUsWkLYS68NKfj5cgZ2mM1dQKXsQSKkLO/G3FkcWlbk6WaCykgblhfUz1xfe46b23DWnkQO5Xtv3B6HjS1zUIGimNiUW6UuGw/G4ayo6oS9UdOfVf1f9qKUsF8WMAmXPkJrI+hyFKmZN+80ACdsv0HevQpwT80braSIYSBLNKPGEZ4SEUyfq7aigm2Rq86mYS6e578LqKA==;+CbsBYJrdA7jdZEnirnueg=="
 ---
 
