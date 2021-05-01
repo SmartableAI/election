@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-mandate-covid-vaccine-militar
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mandate-covid-vaccine-military.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Byron York: Biden administration sending 'weird' message on COVID"
+    excerpt: "Let's bring in our panel, Mollie Hemingway, senior editor at \"The Federalist,\" Amy Walter, national editor for the \"Cook Political Report,\" and Byron York, chief political correspondent of \"The Washington Examiner."
+    publishedDateTime: 2021-05-01T12:09:00Z
+    webUrl: "https://www.foxnews.com/transcript/byron-york-biden-administration-sending-weird-message-on-covid"
+    ampWebUrl: "https://www.foxnews.com/transcript/byron-york-biden-administration-sending-weird-message-on-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/byron-york-biden-administration-sending-weird-message-on-covid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2544c3f4-7196-4d56-b880-04e4be641a11/c229c83e-ca3c-42a7-9e7c-637ac0dd1059/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "w8sATByWc8pDonbMLuPSsUWLOxTs/TFnqha1nWOCpMYz/aKBEMY26sxtbJZ7fA0rMPRm3TDW9WosdVxcEetEdiGPV6Jv1NL9+pTGGBlTYe7xP/9sa1VChY0wsRsSTAJEoZAB4ZNxRThhITXRb8MlS+4PRyeb348b8OnG7ayy6QXVzWHeLxUhlbYxunF1z+hENqNlozH0vS6RfapUrR+T3mn6XqxGjwimumn/8MTmu4oRyxNt96HeMyxiXCyzzIIbNkaGPgdC9Jn4sVfi6mCI9QaRdXpHDtDxa9c8VHVF6Uqg3dBXcU5bGNcihAyPA8jh9MZ+yrM1P8TpsKr4itgaab0g4+7loGfc6tVqD4OLPjU=;9lwvNvYaoVumre2y62nRWg=="
 ---

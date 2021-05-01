@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/jill-biden-first-100-day
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/jill-biden-first-100-days/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427140259-03-biden-remarks-0427-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Biden's cautious stance on the bin Laden raid a decade ago tells us how he might handle a crisis now"
+    excerpt: "To most Americans, the main foreign policy accomplishment of former President Barack Obama's time in office was the killing of Osama bin Laden, the al Qaeda leader who evaded justice for 10 years after the attacks of September 11, 2001, and met his end in a raid by US special operations forces on May"
+    publishedDateTime: 2021-05-01T12:02:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z4H1jf440bc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/osama-bin-laden-death-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/osama-bin-laden-death-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429140203-02-afghanistan-al-qaeda-intl-cmd-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

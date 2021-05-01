@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden hits the road to sell sweeping economic proposals after prime-time speech"
-excerpt: "President Joe Biden hit the road on Thursday, traveling to Georgia to promote his sweeping economic proposals the day after making the case for the massive new government programs in his first address to a joint session of Congress.\n    \n"
-publishedDateTime: 2021-04-29T16:11:15Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G6q768A_XAc/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G6q768A_XAc/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/biden-georgia-economic-proposals/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/biden-georgia-economic-proposals/index.html"
+title: "Analysis: Biden's cautious stance on the bin Laden raid a decade ago tells us how he might handle a crisis now"
+excerpt: "To most Americans, the main foreign policy accomplishment of former President Barack Obama's time in office was the killing of Osama bin Laden, the al Qaeda leader who evaded justice for 10 years after the attacks of September 11, 2001, and met his end in a raid by US special operations forces on May"
+publishedDateTime: 2021-05-01T12:02:45Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z4H1jf440bc/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z4H1jf440bc/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/osama-bin-laden-death-biden/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/osama-bin-laden-death-biden/index.html"
 type: article
-quality: 171
+quality: 155
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429104002-01-joe-biden-congress-0428-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429140203-02-afghanistan-al-qaeda-intl-cmd-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden hits the road to sell sweeping economic proposals after prime-time speech"
+    excerpt: "President Joe Biden hit the road on Thursday, traveling to Georgia to promote his sweeping economic proposals the day after making the case for the massive new government programs in his first address to a joint session of Congress.\n    \n"
+    publishedDateTime: 2021-04-29T16:11:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G6q768A_XAc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/biden-georgia-economic-proposals/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/biden-georgia-economic-proposals/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429104002-01-joe-biden-congress-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How the Biden presidency looks from one pivotal Pennsylvania county, 100 days in"
     excerpt: "Carol Erker vividly remembers the emotion that washed over her after Joe Biden won the 2020 election. Even as she worried about the pandemic and the Oval Office that Biden was inheriting, she felt like she could finally breathe.\n    \n"
     publishedDateTime: 2021-04-28T11:41:54Z
@@ -92,22 +108,6 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427140259-03-biden-remarks-0427-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Biden's cautious stance on the bin Laden raid a decade ago tells us how he might handle a crisis now"
-    excerpt: "To most Americans, the main foreign policy accomplishment of former President Barack Obama's time in office was the killing of Osama bin Laden, the al Qaeda leader who evaded justice for 10 years after the attacks of September 11, 2001, and met his end in a raid by US special operations forces on May"
-    publishedDateTime: 2021-05-01T12:02:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z4H1jf440bc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/osama-bin-laden-death-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/osama-bin-laden-death-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 155
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429140203-02-afghanistan-al-qaeda-intl-cmd-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -128,6 +128,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "vMNv0Rtd9Impw4zT49zSi7p/i/Delkgl0g+o0TOVxPLbtkUyWOtqMNOPcuLutT9DlvYOPq6vUi5QGyt/PZvcqFMOJtaLogTpmFr3itDMNtZgURiYk9ARFujUVO+wK5MnBp3zR4l+HLxCOLot1QOrgOSL9ShqBjmG5mIvORNxRlQFlny6mnvgdOJHBeum6yiCC+MdFR/RYjVG0Pttjqara6dJ8HxMqfCUm+JjI+yBI4fX8mOtqi3YI8uFwY+vGGNyplgnM5yLKNCexErahY+y1VqMYcTMr11/MpgEfIrhV+BSJtBKWztHKIP1HIvabmaQY0X8EI0TQ2drZWahSFxvHyxSmdD4n6g2B5NcHm4GSTg=;vvFp3aOvYFVh3030wEJRAg=="
+secured: "t/LfcOdhPMO78SXpmM3KQGhG38MXU/O7Wpxfcii6VQ5qsmxmiSEJ8HGaH9+Nrfv7xUycSBXp2cehPUpGi8WbKbGKbKTLTnQ1uDL51760zyYa7gnIG/Joaib1Ssrbfj3okeKpupagD/gB8Nu4+pphdRaafFqva/eTO2QA6amukFbPlw9/hm2sQJtJ6aDwLKJhBrAPB8nJLyRsHhnm6t5vuw2V478A8AzWx/rOTUEKef9Hhd77KntHxUpV/KedeEjFBoeI+judLaakUsTWkoeOJVGzGbt0I72Yiacwsp+F6N+YgnAyuW8WRtRisLI+X5UcDhfeGYZ6jPqaxejAty/ThL4DqP/bIFlzRFlWCxtS2nU=;cEH+taq7nMlyedIX7w5ERw=="
 ---
 

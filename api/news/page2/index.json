@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-30-trump-certainly-considers-florida-gov-desantis-as-vp-running-mate-in-2024.md",
+      "title": "Trump 'Certainly' Considers Florida Gov. DeSantis As VP Running Mate In 2024",
+      "excerpt": "Trump discussed a potential run for president in 2024. “And the polls show that everybody wants me to do it,\" he told Fox's Maria Bartiromo.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trump-certainly-considers-florida-gov-desantis-vp-running-mate-2024-3190440",
+      "originalUrl": "https://www.ibtimes.com/trump-certainly-considers-florida-gov-desantis-vp-running-mate-2024-3190440",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg",
+          "width": 1024,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trump-certainly-considers-florida-gov-desantis-vp-running-mate-2024-3190440?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-certainly-considers-florida-gov-desantis-vp-running-mate-2024-3190440?amp=1",
+      "publishedDateTime": "2021-04-29T19:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-biden-planning-way-to-circumvent-trump-remain-in-mexico-policy.md",
       "title": "Biden planning way to circumvent Trump ‘Remain in Mexico’ policy",
       "excerpt": "The Biden administration is looking to create a system that would allow some migrants to receive \"humanitarian exceptions\" to enter the U.S., despite the controversial Trump-era \"Remain in Mexico\" policy, first reported Buzz Feed News.",
@@ -898,7 +950,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -1298,58 +1350,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-aoc-praises-activists-says-keep-going-after-joe-biden-speech.md",
-      "title": "AOC Praises Activists, Says 'Keep Going' After Joe Biden Speech",
-      "excerpt": "The Democratic congresswoman Alexandria Ocasio-Cortez praised progressive activists on Wednesday night after President Joe Biden put forth his record and future plans in a speech to a joint session of Congress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414",
-      "originalUrl": "https://www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1784908/rep-alexandria-ocasio-cortez.jpg",
-          "width": 1024,
-          "height": 707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414?amp=1",
-      "publishedDateTime": "2021-04-29T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
