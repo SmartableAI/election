@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Jill Biden plants tree as White House readies for family cat"
-excerpt: "Biden said that the family’s cat would be coming to the White House “pretty soon.” The first lady told NBC News in an interview broadcast Friday that the younger of the Bidens’ two German shepherds, Major,"
-publishedDateTime: 2021-04-30T14:24:00Z
-originalUrl: "https://www.washingtonpost.com/politics/jill-biden-plants-tree-as-white-house-readies-for-family-cat/2021/04/30/1c439f4c-a9c8-11eb-a8a7-5f45ddcdf364_story.html"
-webUrl: "https://www.washingtonpost.com/politics/jill-biden-plants-tree-as-white-house-readies-for-family-cat/2021/04/30/1c439f4c-a9c8-11eb-a8a7-5f45ddcdf364_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/jill-biden-plants-tree-as-white-house-readies-for-family-cat/2021/04/30/1c439f4c-a9c8-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/jill-biden-plants-tree-as-white-house-readies-for-family-cat/2021/04/30/1c439f4c-a9c8-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+excerpt: "Biden said that the family's cat would be coming to the White House “pretty soon.” The first lady told NBC News in an inte"
+publishedDateTime: 2021-04-30T16:47:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-plants-tree-white-house-readies-family-77421307"
+webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-plants-tree-white-house-readies-family-77421307"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-plants-tree-white-house-readies-family-77421307"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-plants-tree-white-house-readies-family-77421307"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SDGCUWVJYMI6XKFHL5C53TPTMQ.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_c2d1f4e0adfa4a7c853bbfa8b397e8b0_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -96,6 +96,6 @@ related:
         height: 558
         isCached: true
 
-secured: "MDqjE1G8gY7hssPoIMuVcwqBRrBQjPNn4ONMCNbWVbUQWqXTI49DDGqJQ8HRrqIbk1Lgc7myrgprUaXYG5RpPkW84OUaoGZxL0o2reG+H61DlNgwK6Vd8jcAwInOuO5h8iVC2EleO/r59+DXc4jPIiswSe+6EM5pfnHBSW0vCygnHk8A/aIT4I4gkXAwHBC/EK6FGjZyF/cJ1XJY22uRM1+fEi5e6jTz2AJddW4GAx42tt0hd35UrGjBk1WuLfoSOyY6htyaLilA9xqzYOleUWuR7UB4N0MXpkY8W4SwwGKhj6UVS+nF5o26YyKDSlWOt2Nv3xsvrylfUa7BWX7b/s/4/XvC77BGT0D6uiYv39FkWG4JHiRyJp+Y9U3Eq88hH1PLwpB01oeLTg+Si3gjozyOKw70bCzEzn5t1DVBZIUl+nv/6ZseKa98gm7fbxzlKZs7L02bzJN6UyyyQgSDjHNVTzVAajhOdJ8SZMBls8YquAb17KYofy052ru+f13ha3f+LUGpCAPYlGckWOAVrg==;dx8KWO6O/YCqNggq8xBZJQ=="
+secured: "68j5OlWxGEsolSKmOsqEsCdg5m4bsuQHcw8pQAmcq3koq/5bhVZjXBaZZ5MF4+j7//i4h6sg9PUxytWmTbx7xlA+mc6zq60yxGyGkJoFdEj7Lnm5QI3MYlnx1RwkS/DuscZ65LIbfgpSQxGZZ6S2Wof4JDS0wh0L9AK7UmK5VLRyWLPmpRsbIpyKz6NO+RVeoceu4Gt6/f+Rj+PLw8JBqLyBqoLKc44iWcDkFEtWKb7sOA0i+4vscK31J+fjh7ZYAT2o4NXSes/L0QmIfzmmOy8G1TonKKY+XJ1UTYBz7VD69VgPyIUklElZQ4miA2TWyvnXSAlwUYwxqdMYWUaVWTJaYGzduFgilLP7JHHTGXA=;5st8vm/L+qmNv1sVrsZ4Dw=="
 ---
 

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Florida woman charged for death threats against Kamala Harris"
-excerpt: "A woman was charged for alleged death threats against VP Kamala Harris, according to a criminal complaint filed in the U.S. District Court."
-publishedDateTime: 2021-04-17T18:10:00Z
-originalUrl: "https://thegrio.com/2021/04/17/woman-threatens-kamala-harris/"
-webUrl: "https://thegrio.com/2021/04/17/woman-threatens-kamala-harris/"
-ampWebUrl: "https://thegrio.com/2021/04/17/woman-threatens-kamala-harris/amp/"
-cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/04/17/woman-threatens-kamala-harris/amp/"
+title: "Fact check: Kamala Harris didn't say Joe Biden would 'do whatever the Chinese tell you' at debate"
+excerpt: "A meme claims Kamala Harris said during the 2020 Democratic presidential primary that Joe Biden would do what China told him to. That is false."
+publishedDateTime: 2021-04-29T22:11:00Z
+originalUrl: "https://www.indystar.com/story/news/factcheck/2021/04/29/fact-check-fake-quote-china-attributed-kamala-harris/7398323002/"
+webUrl: "https://www.indystar.com/story/news/factcheck/2021/04/29/fact-check-fake-quote-china-attributed-kamala-harris/7398323002/"
+ampWebUrl: "https://amp.indystar.com/amp/7398323002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7398323002"
 type: article
-quality: 75
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: The Grio
-  domain: thegrio.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://thegrio.com/wp-content/uploads/2021/04/170420211618681884-1-scaled.jpg"
-    width: 1280
-    height: 853
+  - url: "https://www.gannett-cdn.com/presto/2019/06/30/USAT/ee5a5e85-980e-4295-8593-c0d73ee1420a-biden_harris.JPG?auto=webp&crop=4967,2794,x0,y221&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -830,21 +830,21 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Fact check: Kamala Harris didn't say Joe Biden would 'do whatever the Chinese tell you' at debate"
-    excerpt: "A meme claims Kamala Harris said during the 2020 Democratic presidential primary that Joe Biden would do what China told him to. That is false."
-    publishedDateTime: 2021-04-29T22:11:00Z
-    webUrl: "https://www.indystar.com/story/news/factcheck/2021/04/29/fact-check-fake-quote-china-attributed-kamala-harris/7398323002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7398323002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7398323002"
+  - title: "Florida woman charged for death threats against Kamala Harris"
+    excerpt: "A woman was charged for alleged death threats against VP Kamala Harris, according to a criminal complaint filed in the U.S. District Court."
+    publishedDateTime: 2021-04-17T18:10:00Z
+    webUrl: "https://thegrio.com/2021/04/17/woman-threatens-kamala-harris/"
+    ampWebUrl: "https://thegrio.com/2021/04/17/woman-threatens-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/04/17/woman-threatens-kamala-harris/amp/"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 77
+      name: The Grio
+      domain: thegrio.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2019/06/30/USAT/ee5a5e85-980e-4295-8593-c0d73ee1420a-biden_harris.JPG?auto=webp&crop=4967,2794,x0,y221&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://thegrio.com/wp-content/uploads/2021/04/170420211618681884-1-scaled.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Florida woman made videos threatening to kill Kamala Harris, agents say"
     excerpt: "The Secret Service says the threats against the vice president were discovered when the Miami nurse sent the videos to her husband in prison."
@@ -1252,6 +1252,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "yP5tDm5BRgL9FAwI8VoTM+Uh+U4UpRKk86k4JeUrXtbigpvfu4AsQsAbCas3b/zpZClB572J564iCvg6klYU/OhUwc3En+XzM6T4f0kAbXV+TwnL0LXtjy4pcODGf5QfVgP2m+S0Hr6IoTJ+n5WbHBPuR7NObWooFcGuIDIWSca5+doUZs3utM/SQB9LZtM2SHTJNpASZVh83ZhlBfvpUwbln1ziWhhdhmXAmie/XRwz7eCISC5f3Lc3vwYoXukfSv6VXefEmG9a4KITcO5BV1VGscV25+HzzrIez91OwYB4nKd6uUJ1K9oiNaD02FkSIsTlrw70JMbfsbnj4XVEuUcgSC5MvvAB84wdAdCRTCYDl/vB3AtXoGpK1VWqXXTfstE2NWiqKTBwvJntk7KSweLGDP+L5zmdBcNt9EaEgQNiHL4Ivbkc5NeBKMJKMFyx4CN3xzENodN2AF9d8zDeUOWHX6bkMstSiS/ADtxfSsMdKBuOup03eiv0O91yEt2OXI1MIcBUtUdA8BFSfWfQIg==;kDiHZHNYI66fKbgEczDdhQ=="
+secured: "Ga7CTS/poWsS25b48MTZPNE4Fc1Dpr/s32gRy7AHzybqc+o3aH+4451O/ddEHulNiYbOS/MO8GD7ds07Y4dZz4+1AvmGljNOPUBcWVxKBS2zDSkO+GTtBV0CrF5aRAkaCxvFfsizIzWIwAixI3cI3wj3Vk5dX5asT/fElg8GkDfbk84TKnSI4qummO6EDJTCDcZ+bD3OrlDULWSl+BAQ2gdTbIK3dX9L7m3E3VDjoO4ZTLiz8hRbRHmzb5QSgZnKkUN2xJKox9jkJCfd/BiSSfqo2zVOzHOi1Jjupr/WQCD4JU3dq5aip4M9caJmcEQzk6iF9YXoy58so4NpEbaFpEhy6R7dEZvrfPR11S6eNbI=;4C5oSjOkQu8VsSpTkOeOVw=="
 ---
 

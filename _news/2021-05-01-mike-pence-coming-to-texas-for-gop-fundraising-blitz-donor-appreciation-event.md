@@ -3,8 +3,8 @@ category: news
 title: "Mike Pence coming to Texas for GOP fundraising blitz, donor appreciation event"
 excerpt: "Former Vice President Mike Pence and several other potential 2024 presidential candidates are descending upon Texas next week to thank donors to the 2020 campaign here and to help raise money to flip the U."
 publishedDateTime: 2021-04-30T22:34:00Z
-originalUrl: "https://www.chron.com/lavoz/news/houston-texas/article/mike-pence-2024-texas-16142373.php"
-webUrl: "https://www.chron.com/lavoz/news/houston-texas/article/mike-pence-2024-texas-16142373.php"
+originalUrl: "https://www.chron.com/news/houston-texas/article/mike-pence-2024-texas-16142373.php"
+webUrl: "https://www.chron.com/news/houston-texas/article/mike-pence-2024-texas-16142373.php"
 ampWebUrl: "https://www.chron.com/news/houston-texas/amp/mike-pence-2024-texas-16142373.php"
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/mike-pence-2024-texas-16142373.php"
 type: article
@@ -44,6 +44,6 @@ related:
         height: 630
         isCached: true
 
-secured: "T15AD5KQTyBrqXMIRia1J2gjrPey/ifVv5NsceR4Sur3td5RrERvuoiWZQ6vmZ44I5CShPLJSTmazmCXgGR0B4vg5UshV6hjeUcQBYi2c/4hZMk4gfAU7IqhLaD3/jcTTLvElbyblOKClOb70gmNzvbwmQ9txtmtti7+tFvI+SWPCCbS6ejWs77+ouX6JfKuCN/oF7gVYOUPPDwNdX5gmwLD2yBHY9dy4sdcP5NSxMyfRYvRXmPvvRmJ9UTIlwHOIOIKof8nn8QAZxzMNYWh3D+Hs1PopSKa7fu88MQFbIUTNkgNmBadR+MzsGuB7fGCy50L7AFkZaWLvlGmixHB66QnwaFVBgYLZC+14EV6vGHtSx0nlohk2CXaJKPq0nTsU2K38tDdXpvFXY1z75ly8nXJkkZ9QEROJIgXkwNgQbv/0/7fQ6FVEirA5MP0zpEd44Ims3HDKzHyzm9BjGx8LEVAhQhPNVOq1gS84OL0E4fNQvlu/O1sX30sjg42s9rh2Oei1NxFstqGdrOMquP5GQ==;cplfVggbwFRMydmMYESTEQ=="
+secured: "H3wd2/vXr4FcTD58GoPY5DPbfEXBiDgWlpFX9yAdCfLMDAa/oDU24dvzR8N1gg7ZJ2IzkSyxLugRF20Zl1ZY8ckIPUhbAgtx82HuXNlQlJCpxLbJ3zARIjyDukjuEMOW4E1lP/3x7GdMS73nD/Gj4Dy5AFwlfavm/ZgZKwVPPLEpBIG/yM6RGmq98oDyg8w8jOgfWKMVfV7IEcHE9RIgEwJ+KqJAo+556yw6Q0lgjDhkDUWxkv5zT0NfJpb9/nyxxm+QC8Igj71J3DLj/Ebo+nUM0htXF/X0as+FgvfLf36J2mCQPxYpjuTESukzgC2kFadamPPZvgbDxIbtUkZNmPqpUwsnFpkEEWRh6tePeUY=;SNa+9SAkz/AZQLSapAipvw=="
 ---
 
