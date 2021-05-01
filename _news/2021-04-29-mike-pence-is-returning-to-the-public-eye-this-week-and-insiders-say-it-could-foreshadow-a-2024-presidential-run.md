@@ -119,6 +119,22 @@ related:
         width: 847
         height: 423
         isCached: true
+  - title: "Eyeing 2024, Mike Pence says he’ll push back on “liberal agenda”"
+    excerpt: "Former Vice President Mike Pence, positioning himself for a possible return to elected office, told an audience in early-voting South Carolina that he will spend the coming months “pushing"
+    publishedDateTime: 2021-04-30T22:28:00Z
+    webUrl: "https://www.denverpost.com/2021/04/30/mike-pence-2024-liberal-agenda-push-back/"
+    ampWebUrl: "https://www.denverpost.com/2021/04/30/mike-pence-2024-liberal-agenda-push-back/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/04/30/mike-pence-2024-liberal-agenda-push-back/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/04/Pence_Palmetto_Family_Council_22043-1.jpg?w=1024&h=681"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Eyeing 2024, Pence Makes First Speech Since Leaving Office"
     excerpt: "Mike Pence on Thursday put down a marker for a potential return to elected office, telling an audience in early-voting South Carolina that he will use the coming months “pushing back on the liberal agenda” he says is wrong for the country."
     publishedDateTime: 2021-04-30T10:35:00Z

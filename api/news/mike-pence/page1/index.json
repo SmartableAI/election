@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-01-mike-pence-coming-to-texas-for-gop-fundraising-blitz-donor-appreciation-event.md",
+      "title": "Mike Pence coming to Texas for GOP fundraising blitz, donor appreciation event",
+      "excerpt": "Former Vice President Mike Pence and several other potential 2024 presidential candidates are descending upon Texas next week to thank donors to the 2020 campaign here and to help raise money to flip the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/houston-texas/article/mike-pence-2024-texas-16142373.php",
+      "originalUrl": "https://www.chron.com/news/houston-texas/article/mike-pence-2024-texas-16142373.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/houston-texas/amp/mike-pence-2024-texas-16142373.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/mike-pence-2024-texas-16142373.php",
+      "publishedDateTime": "2021-04-30T15:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-eying-2024-pence-makes-1st-speech-since-leaving-office.md",
       "title": "Eying 2024, Pence makes 1st speech since leaving office",
       "excerpt": "In his first public address since the end of the Trump administration, former Vice President Mike Pence put down a marker for a potential return to elected office, telling an audience in early-voting",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {

@@ -1,32 +1,33 @@
 ---
 category: news
-title: "Trump’s Battle to Win the First 100 Days"
-excerpt: "The former president has been on an increasingly manic crusade to knock his successor and buff his own battered legacy."
-publishedDateTime: 2021-04-29T08:30:00Z
-originalUrl: "https://www.politico.com/news/magazine/2021/04/29/donald-trump-100-days-484926"
-webUrl: "https://www.politico.com/news/magazine/2021/04/29/donald-trump-100-days-484926"
+title: "Rep. Cheney asked if Trump should be prosecuted. Hear her answer"
+excerpt: "House Conference Chairwoman Rep. Liz Cheney is once again facing the ire of her colleagues and GOP voters after leaning in to greet President Joe Biden as he made his way down the aisle at his speech to a joint session of Congress. CNN's Manu Raju reports.\n    \n"
+publishedDateTime: 2021-04-30T21:27:15Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t69Z6BCuTp4/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t69Z6BCuTp4/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
+ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/30/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/30/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
 type: article
-quality: 115
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/7c/b1/a782d7494b8980672da54063c872/mag.Kruse.Trump100Days-lede_773override.jpg"
-    width: 1160
-    height: 773
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429105551-biden-liz-cheney-fist-bump-0428-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -43,22 +44,6 @@ related:
     quality: 178
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429222942-texas-6th-district-special-election-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Rep. Cheney asked if Trump should be prosecuted. Hear her answer"
-    excerpt: "House Conference Chairwoman Rep. Liz Cheney is once again facing the ire of her colleagues and GOP voters after leaning in to greet President Joe Biden as he made his way down the aisle at his speech to a joint session of Congress. CNN's Manu Raju reports.\n    \n"
-    publishedDateTime: 2021-04-30T21:27:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t69Z6BCuTp4/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/30/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/30/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429105551-biden-liz-cheney-fist-bump-0428-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -94,7 +79,21 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump’s Battle to Win the First 100 Days"
+    excerpt: "The former president has been on an increasingly manic crusade to knock his successor and buff his own battered legacy."
+    publishedDateTime: 2021-04-29T08:30:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/04/29/donald-trump-100-days-484926"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/7c/b1/a782d7494b8980672da54063c872/mag.Kruse.Trump100Days-lede_773override.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
-secured: "OcOnY8Z7og3M44Wa6SzLsaszZJdIcawvCkDr7M3VLExTwUeeYwQQHsNDfY+BbCyhkLGRawK9QYNP1AG4krax+YgR8cOOem54sENACldxTMcBbtjM2ddkiL3H1L/kggVPDKGEDrZ0SfX+Vz0WBFL50pFUM/PRHIcrS16SZi4oUT3QrrgioFO4qP6Vhk+PFMsADxF0OOgJwvW5lhsAkXSB6AhbRLKPgs15SQCCO2Qdy2NNFUEan1f1uUJ6GznsFdMLUwElX40bWDjJVXVQFRFNqX9opCxWpNR+sXzVP3QMnpoHnRmKDDt5YMHfDJH3+popR/iI/UZHVx/WVRJTa71GsOaLWjqTItgFfJQ0Pp07dcMqIQH1XxvHS/+D4WVHY5ZwC1ihu/1UIpZIdsLCGMokULQpWE4nP+E+rnHD6oBqNEc9XN7i3N7ccamLqKh7USsi34YGsYl/mZLTLLhyolAC4GY63JttF50tKpM24QoKHDF5tu57H2KqV8zD0PAIuS6RqwUsHCIjPULsE6iaalefig==;EDn3n/8TB4j/Ea4Ud5By4w=="
+secured: "9zjgmiSzKUtxNgD0lFVsxl9fagY2cW9wsEXcVO2bze+pK5wMYWug6NBZYidBcjuFPYUYGA9F4HSTB9ousnnNs0rTGBWhNsXKZH9EQ92uGnZI+j0F7Orvx2zrXEcRP+z03czK1bz8BmqjxEb/OSylC3uXF2FB22gzTZq6jnLDVtMe6UF2GsqG3a4vhITynrLJd9HRBPVTXVOKEIQ6hOddwZrBYRjRFpRjWMSFHCoA647hyKyQLynSRe3fgP8v4CKzw69RXN89HPKrcCoUPEhEdzKNwDk0oO8eow+0NN2RDF9Fyy1nKWvAB7H8uz7jkocw/wmPfHh9YSacZPydXVItiuff80R3rJi6x/jEazIFfX8=;0t4QRe8CAhENZDkAwZtKiA=="
 ---
 

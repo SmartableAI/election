@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-01-mike-pence-coming-to-texas-for-gop-fundraising-blitz-donor-appreciation-event.md",
+      "title": "Mike Pence coming to Texas for GOP fundraising blitz, donor appreciation event",
+      "excerpt": "Former Vice President Mike Pence and several other potential 2024 presidential candidates are descending upon Texas next week to thank donors to the 2020 campaign here and to help raise money to flip the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/houston-texas/article/mike-pence-2024-texas-16142373.php",
+      "originalUrl": "https://www.chron.com/news/houston-texas/article/mike-pence-2024-texas-16142373.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/houston-texas/amp/mike-pence-2024-texas-16142373.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/mike-pence-2024-texas-16142373.php",
+      "publishedDateTime": "2021-04-30T15:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-biden-celebrates-amtraks-50th-anniversary-with-plans-to-expand-the-railway.md",
       "title": "Biden celebrates Amtrak's 50th anniversary with plans to expand the railway",
       "excerpt": "",
@@ -111,6 +154,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-kamala-harris-to-give-naval-academy-commissioning-address.md",
+      "title": "Kamala Harris to give Naval Academy commissioning address",
+      "excerpt": "A White House official tells a Maryland news outlet that Vice President Kamala Harris will deliver the keynote address at the Naval Academy’s commissioning ceremony",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 405,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3PQT64VJ7YI6XKFHL5C53TPTMQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-30T13:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {
@@ -447,49 +542,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-30-live-vice-president-kamala-harris-is-on-her-way-to-cincinnati.md",
-      "title": "LIVE: Vice President Kamala Harris is on her way to Cincinnati",
-      "excerpt": "Friday's visit will be Kamala Harris' first to the Queen city either as vice president or as a candidate on the presidential ticket.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cincinnati.com/story/news/2021/04/30/vice-president-kamala-harris-cincinnati-transit-spending-plans/4871270001/",
-      "originalUrl": "https://www.cincinnati.com/story/news/2021/04/30/vice-president-kamala-harris-cincinnati-transit-spending-plans/4871270001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/04/30/PCIN/a765bc78-c06a-4a93-9d8c-331cd2009c7e-043021VPVisitCO05.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cincinnati.com/amp/4871270001",
-      "cdnAmpWebUrl": "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4871270001",
-      "publishedDateTime": "2021-04-30T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cincinnati Enquirer",
-        "domain": "cincinnati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-04-30-biden-says-its-tough-call-to-mandate-covid-19-vaccine-for-military.md",
       "title": "Biden says it's 'tough call' to mandate COVID-19 vaccine for military",
       "excerpt": "President Biden has not ruled out requiring military personnel to get a COVID-19 vaccine, saying it will be a \"tough call.\"",
@@ -657,7 +709,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 238,
+      "heat": 258,
       "tags": null,
       "images": [
         {
@@ -874,7 +926,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1297,62 +1349,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-biden-administration-says-its-consulting-nonstop-with-india-with-first-aid-shipment-en-route.md",
-      "title": "Biden administration says it's consulting 'nonstop' with India with first aid shipment en route",
-      "excerpt": "The Biden administration has been consulting \"nonstop\" with the Indian government on their priorities as the country grapples with a catastrophic coronavirus surge that has left its healthcare system on the brink of collapse, according to a top US Agency for International Development official.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6oQyq8U10vM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6oQyq8U10vM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210427121901-01-india-covid-ward-0427-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/29/politics/india-covid-response-biden-administration-consulting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/india-covid-response-biden-administration-consulting/index.html",
-      "publishedDateTime": "2021-04-29T14:50:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

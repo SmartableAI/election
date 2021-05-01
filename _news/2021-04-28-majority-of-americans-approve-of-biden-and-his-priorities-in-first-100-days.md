@@ -381,6 +381,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Live Updates: Biden Promotes His $2.3 Trillion Infrastructure Package and His Love of Train Travel"
+    excerpt: "The president is asking for an $80 billion increase in funding for rail projects. A group of Biden supporters launch a multimillion-dollar ad campaign trumpeting the White House coronavirus recovery package and infrastructure proposal."
+    publishedDateTime: 2021-04-30T17:36:00Z
+    webUrl: "https://www.nytimes.com/live/2021/04/30/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/04/30/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/04/30/us/joe-biden-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 121
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/30/us/politics/30new-washington-briefing-BidenAmtrak/30new-washington-briefing-BidenAmtrak-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "1euupk4BiN+0KiAmM7CLU67gSwhUjM3gpZpEDRw5SKYwZXuacIsNfLKLJYGVH7srwx2tC+8FwyuJNS1NsKhqP8EN30xr9OGN0A6pQEAPG6+GR6XBKNnITNx3B/h6VX9WsRFpY3LjxznwvRzAWO/sb4qurSKBWoSwB5igqYX2gA2ZmkpRg4n7njGDNdzFMZ/h4/JnxVuanaLB+Ge2EuUoAoeUJRheE3VOskSXh7zbb3wJY0FMkMEBqU9hwNCfNBDW47NAqzBHxHeN9OIDa2y7HeYBOuNNviwEY4t+luctat4/5hGT1vNkm6tzAXSyIsI5hl2vL/MB1PiJH6LlWLMSzy1R4Bt6Jagwn8PHlohDvmQ=;iMr7H95sc/SYdxVVRsFOrA=="
 ---

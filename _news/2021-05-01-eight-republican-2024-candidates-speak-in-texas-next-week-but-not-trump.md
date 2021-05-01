@@ -1,34 +1,26 @@
 ---
 category: news
-title: "President Trump fires FBI Director James Comey"
-excerpt: "President Trump has fired FBI Director James Comey, which is only the second time an FBI director has been fired. CBSN contributor and Time politcal reporter Zeke Miller spoke with CBSN about Comey's dismissal."
-publishedDateTime: 2021-04-30T21:54:00Z
-originalUrl: "https://www.cbsnews.com/video/president-trump-fires-fbi-director-james-comey-1/"
-webUrl: "https://www.cbsnews.com/video/president-trump-fires-fbi-director-james-comey-1/"
-ampWebUrl: "https://www.cbsnews.com/amp/video/president-trump-fires-fbi-director-james-comey-1/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-trump-fires-fbi-director-james-comey-1/"
+title: "Eight Republican 2024 Candidates Speak in Texas Next Week, but Not Trump"
+excerpt: "Candidates Speak in Texas Next Week, but Not Trump WASHINGTON (Reuters) - A Republican Party event in Texas next week will hear from eight potential candidates for the party's presidential nomination in 2024,"
+publishedDateTime: 2021-04-30T21:50:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/eight-republican-2024-candidates-speak-in-texas-next-week-but-not-trump"
+webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/eight-republican-2024-candidates-speak-in-texas-next-week-but-not-trump"
 type: article
-quality: 125
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/b375bccc-a264-4c3b-ba0a-9230d2206ffe/thumbnail/1200x630/ef4b250acb1ae3e7891c9eedf19255c9/0509-cbsn-vhd-1312519-640x360.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "How do Americans feel about President Trump?"
@@ -62,6 +54,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X2D2YIVJNAI6XKFHL5C53TPTMQ.jpg&w=1440"
         width: 1440
         height: 952
+        isCached: true
+  - title: "President Trump fires FBI Director James Comey"
+    excerpt: "President Trump has fired FBI Director James Comey, which is only the second time an FBI director has been fired. CBSN contributor and Time politcal reporter Zeke Miller spoke with CBSN about Comey's dismissal."
+    publishedDateTime: 2021-04-30T21:54:00Z
+    webUrl: "https://www.cbsnews.com/video/president-trump-fires-fbi-director-james-comey-1/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/president-trump-fires-fbi-director-james-comey-1/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-trump-fires-fbi-director-james-comey-1/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/b375bccc-a264-4c3b-ba0a-9230d2206ffe/thumbnail/1200x630/ef4b250acb1ae3e7891c9eedf19255c9/0509-cbsn-vhd-1312519-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Former President Trump criticizes FBI search of Rudy Giuliani's home and office"
     excerpt: "Former President Donald Trump spoke out against the investigation into his personal attorney, Rudy Giuliani, after the FBI executed a search warrant at Giuliani's home and office as part of the probe into Giuliani's dealings with Ukraine."
@@ -100,16 +108,7 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 59
-  - title: "Eight Republican 2024 Candidates Speak in Texas Next Week, but Not Trump"
-    excerpt: "Candidates Speak in Texas Next Week, but Not Trump WASHINGTON (Reuters) - A Republican Party event in Texas next week will hear from eight potential candidates for the party's presidential nomination in 2024,"
-    publishedDateTime: 2021-04-30T21:50:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/eight-republican-2024-candidates-speak-in-texas-next-week-but-not-trump"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
 
-secured: "3g4P1rS5XbulT792HSfwyPusvESmS08wUs/UXzxAPPhI3Og+42AMbP5yBhv1iJzmZIgKgEEw9vNeBKwre+WYONSgWjBq7l+ccQwIShvxlj+V3ku9djfxKHvEZSsestY4NunsCafhe38GCQSkBVD7ftEk5R28EtFSQwPQhKz2DkiwSat2uUXO06Gj7QJ/6OcAaeTcD5fR+9k3FGNLhPQJAV0FMeU0WwCc0Mn6n8Exy8JLG7yRTe1YZFnD9ME0slKM0B/3txnkeoV/YZCvXVoisK2fY+lu8BKPQf8UckKdXjCI97IaOaUBWEkL+jCA/uUfG95yM904pAyeV9CeDI80GTHqA8dUQusvy4ii2pK8aq0=;f9NJSXHYIIpfoSNd4p7nfA=="
+secured: "khKbYsjUKUzQY12NvJtc5b1gc8Tkq/bkVa16O6EwEaLuTZ3Lo3eRnpQTVfH6zANkH/WRtQL3TqDqav+eZD4v4XMpgBJS9HEDaSYzh81D5Pd5/tSSO02bQ4/TK0ZxQeEiricYOyZqveX4pv75SIGYSN18s3f91d8vanWqYUv0C/qAUiR2BTDTXXhyw8ennPFL+EBV+iLPYQtdW6MDfdTADZWVqaJGfhrXVj7n1k3pATgkOoLlpmTcJ7h4V1DI14rXXyyO6UDFRdnoVBuNpbu2uAPdQmgSQTm0ukLnIYzTxCABe2I2CT/qp9Gi47P1Fu4gGqDYMYeVJQF/SJfYHtM8rCOirAuKWrc9EZQTuZGqK7Ih3lKCx8+PHol3TydLaQ7asXOTu22jW8cKdZZAAmaYyNfHQQ3UDZ8hpBQt3HQv/CeY1pWKeTgMJb0pH5tqaA4XqrhuwjiGtIpN07w3v8Xe/tjNgPKvKl5ea80JMoNTUYywCsaJuidYJA1uM2OVWo3l65Tw5mBu7qgdn9jiYukOHg==;zAfeFkQztKlYz1mzpOs2aw=="
 ---
 

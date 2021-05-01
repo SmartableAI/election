@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-special-election-trump-conspiracy-theories/index.html"
 type: article
 quality: 178
-heat: 238
+heat: 258
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rep. Cheney asked if Trump should be prosecuted. Hear her answer"
+    excerpt: "House Conference Chairwoman Rep. Liz Cheney is once again facing the ire of her colleagues and GOP voters after leaning in to greet President Joe Biden as he made his way down the aisle at his speech to a joint session of Congress. CNN's Manu Raju reports.\n    \n"
+    publishedDateTime: 2021-04-30T21:27:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t69Z6BCuTp4/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/30/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/30/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429105551-biden-liz-cheney-fist-bump-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fractures in GOP on full display as Cheney faces renewed criticism for bucking Trump and disagreeing with McCarthy in public"
     excerpt: "House Conference Chairwoman Rep. Liz Cheney is once again facing the ire of her colleagues and GOP voters, laying bare the ongoing and internal divisions within the GOP about how Republicans should move forward in the wake of former President Donald Trump.\n    \n"
     publishedDateTime: 2021-04-30T17:58:02Z

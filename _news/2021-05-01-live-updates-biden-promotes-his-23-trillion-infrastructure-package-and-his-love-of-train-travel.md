@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Biden tells trans Americans he has their back as GOP governors sign more anti-trans bills"
-excerpt: "President Joe Biden pledged his support for transgender Americans during his address to a joint session of Congress on Wednesday, telling members of the community he's standing by them at a time when they face a barrage of attacks by GOP-led state legislatures.\n    \n"
-publishedDateTime: 2021-04-29T17:23:12Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GrlKJ2KN80k/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GrlKJ2KN80k/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/biden-transgender-youth-joint-session-address/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/biden-transgender-youth-joint-session-address/index.html"
+title: "Live Updates: Biden Promotes His $2.3 Trillion Infrastructure Package and His Love of Train Travel"
+excerpt: "The president is asking for an $80 billion increase in funding for rail projects. A group of Biden supporters launch a multimillion-dollar ad campaign trumpeting the White House coronavirus recovery package and infrastructure proposal."
+publishedDateTime: 2021-04-30T17:36:00Z
+originalUrl: "https://www.nytimes.com/live/2021/04/30/us/joe-biden-news"
+webUrl: "https://www.nytimes.com/live/2021/04/30/us/joe-biden-news"
+ampWebUrl: "https://www.nytimes.com/live/2021/04/30/us/joe-biden-news.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/04/30/us/joe-biden-news.amp.html"
 type: article
-quality: 166
+quality: 121
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428212311-17-biden-address-0428-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/04/30/us/politics/30new-washington-briefing-BidenAmtrak/30new-washington-briefing-BidenAmtrak-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -188,6 +189,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210430154612-02-biden-amtrak-0430-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden tells trans Americans he has their back as GOP governors sign more anti-trans bills"
+    excerpt: "President Joe Biden pledged his support for transgender Americans during his address to a joint session of Congress on Wednesday, telling members of the community he's standing by them at a time when they face a barrage of attacks by GOP-led state legislatures.\n    \n"
+    publishedDateTime: 2021-04-29T17:23:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GrlKJ2KN80k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/biden-transgender-youth-joint-session-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/biden-transgender-youth-joint-session-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428212311-17-biden-address-0428-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -381,23 +398,7 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Live Updates: Biden Promotes His $2.3 Trillion Infrastructure Package and His Love of Train Travel"
-    excerpt: "The president is asking for an $80 billion increase in funding for rail projects. A group of Biden supporters launch a multimillion-dollar ad campaign trumpeting the White House coronavirus recovery package and infrastructure proposal."
-    publishedDateTime: 2021-04-30T17:36:00Z
-    webUrl: "https://www.nytimes.com/live/2021/04/30/us/joe-biden-news"
-    ampWebUrl: "https://www.nytimes.com/live/2021/04/30/us/joe-biden-news.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/04/30/us/joe-biden-news.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 121
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/30/us/politics/30new-washington-briefing-BidenAmtrak/30new-washington-briefing-BidenAmtrak-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
-secured: "UvysjLo7A6hFo+yVw3sy8t5nPknRtbfMupbNwzkdsHQL5a24eSKTyKewCIV/8UcV65Npmo7hlZKMfpFqm9tPMYAt3aMD+OuNhVhYFpIV64BffvPHmSxnXKfgTwGQru9HMTGX6o8TbbH/A8WsIHMkQ4TH1BypdEULD/YJ0usL7npMSq/47aC9uJBJcg7ZrXW381RcKe3CJ9WmckW+m8qt15vJlZ29kW3ZmMNWpJTa5/5xa34WLnIVbEqPerJYZSnvTq/dXaBNxoRkvnk0FK9XfkD18/MIc3NAtBg/n+maCeEP7RFk8r+qsu8ymLRU6s33l4ZmNx6zB681VPF05FfhU0OJRPZsMdxOwAt2jXP64fA=;YOe6IQTAmIU4gehoPIgoew=="
+secured: "Xy17JlchGjAvjdSDAk16coIzIJWw66VQuOcEFb2xNUIePuiiz6r/zldt/HqknP0qdPmR925KBEWQdTEz/H9EG1TjdrH2q9c/BFl151LmQ82JPdtLocBI/FWWsfihA9rmFNC48Omn1CFUStgd0Ffi8ofXRuMOoZrGJF7t5JQheDK2qyuzgP7d7V5mhX4AIaaxFNU+67H6azYX5C2wuWMhyrXqNTJGsB0oXonoovWLNEf/LFYCv6GRVF7nIgXCGYcOG1GjfzfkSpF0V/5C5gZt1N8b4TzgZUvhE7IQ1zp5K4+bgu4wnhzS4EAhwQVPACUXKNhNCW6P84M9t4IX+enqPzYmvy5BSOWF1J0Mdatskw0=;//nsyu7Dqt+YZasB0dpCyg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/index.html"
 type: article
 quality: 175
-heat: 615
+heat: 635
 published: true
 
 provider:
@@ -380,6 +380,22 @@ related:
       - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202104/1619666124902_nbc_spec_clyburn_biden_210428_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Live Updates: Biden Promotes His $2.3 Trillion Infrastructure Package and His Love of Train Travel"
+    excerpt: "The president is asking for an $80 billion increase in funding for rail projects. A group of Biden supporters launch a multimillion-dollar ad campaign trumpeting the White House coronavirus recovery package and infrastructure proposal."
+    publishedDateTime: 2021-04-30T17:36:00Z
+    webUrl: "https://www.nytimes.com/live/2021/04/30/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/04/30/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/04/30/us/joe-biden-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 121
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/30/us/politics/30new-washington-briefing-BidenAmtrak/30new-washington-briefing-BidenAmtrak-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "gYGUrR72A8rYqrpf32VduDRw302I8a5ew7OV0UsWMSfYkldZ1kZQPCpiQgIs/UEzseJqpKeajxvekaQC76aijEJDt4kdBUuG1Itt8AJhnUx4HREaJNUXU9KaMu5mNiCI4bBuuEJeAzznWu8SSZYhD0BgM92Rktav0shP5xVFIH54VNFZSB/pSLHP8c1BKwpMwIawopsxRTvczlPiFsua0+/RSYNu1n4sXksx1/ktWLYnjAaRGTr04hA1eyabh2hgb/SChrQxPSo5CoNSI3xktMoLzOpE8Izk7kQQmjYkqN8+IMzwXnZu1fceKYuY7e17t0qoYz21ysqUGqgttAIcl2Me2epg/JaDLnYhc82suEY=;xLbLmJXSbTEAhxa78+pXig=="

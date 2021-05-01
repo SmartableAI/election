@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Former Vice President Pence delivers first speech since leaving office"
-excerpt: "Former Vice President Mike Pence made his first public appearance since leaving the White House on Thursday. He spoke at the annual Palmetto Family Council gala in South Carolina. Pence slammed President Biden while also praising his time in the Trump administration."
-publishedDateTime: 2021-04-30T04:13:00Z
-originalUrl: "https://www.cbsnews.com/video/former-vice-president-pence-delivers-first-speech-since-leaving-office/"
-webUrl: "https://www.cbsnews.com/video/former-vice-president-pence-delivers-first-speech-since-leaving-office/"
+title: "Eyeing 2024, Mike Pence says he’ll push back on “liberal agenda”"
+excerpt: "Former Vice President Mike Pence, positioning himself for a possible return to elected office, told an audience in early-voting South Carolina that he will spend the coming months “pushing"
+publishedDateTime: 2021-04-30T22:28:00Z
+originalUrl: "https://www.denverpost.com/2021/04/30/mike-pence-2024-liberal-agenda-push-back/"
+webUrl: "https://www.denverpost.com/2021/04/30/mike-pence-2024-liberal-agenda-push-back/"
+ampWebUrl: "https://www.denverpost.com/2021/04/30/mike-pence-2024-liberal-agenda-push-back/amp/"
+cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/04/30/mike-pence-2024-liberal-agenda-push-back/amp/"
 type: article
-quality: 105
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Denver Post
+  domain: denverpost.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/1b1e00aa-af99-48d7-9336-61d21b7b38c3/thumbnail/1200x630/234a8fb9e9d1ff1882c4d4099e8ad0f1/0429-cbsn-gza-704802-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.denverpost.com/wp-content/uploads/2021/04/Pence_Palmetto_Family_Council_22043-1.jpg?w=1024&h=681"
+    width: 1024
+    height: 681
     isCached: true
 
 related:
@@ -77,6 +75,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Former Vice President Pence delivers first speech since leaving office"
+    excerpt: "Former Vice President Mike Pence made his first public appearance since leaving the White House on Thursday. He spoke at the annual Palmetto Family Council gala in South Carolina. Pence slammed President Biden while also praising his time in the Trump administration."
+    publishedDateTime: 2021-04-30T04:13:00Z
+    webUrl: "https://www.cbsnews.com/video/former-vice-president-pence-delivers-first-speech-since-leaving-office/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/1b1e00aa-af99-48d7-9336-61d21b7b38c3/thumbnail/1200x630/234a8fb9e9d1ff1882c4d4099e8ad0f1/0429-cbsn-gza-704802-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Former Vice President Mike Pence to deliver first speech since leaving office"
     excerpt: "Former Vice President Mike Pence is delivering his first speech since leaving office to a group of conservatives in South Carolina on Thursday. His visit to the early primary state is fueling speculation over whether Pence is weighing a 2024 presidential bid."
     publishedDateTime: 2021-04-29T22:39:00Z
@@ -119,22 +131,6 @@ related:
         width: 847
         height: 423
         isCached: true
-  - title: "Eyeing 2024, Mike Pence says he’ll push back on “liberal agenda”"
-    excerpt: "Former Vice President Mike Pence, positioning himself for a possible return to elected office, told an audience in early-voting South Carolina that he will spend the coming months “pushing"
-    publishedDateTime: 2021-04-30T22:28:00Z
-    webUrl: "https://www.denverpost.com/2021/04/30/mike-pence-2024-liberal-agenda-push-back/"
-    ampWebUrl: "https://www.denverpost.com/2021/04/30/mike-pence-2024-liberal-agenda-push-back/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/04/30/mike-pence-2024-liberal-agenda-push-back/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 75
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/04/Pence_Palmetto_Family_Council_22043-1.jpg?w=1024&h=681"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "Eyeing 2024, Pence Makes First Speech Since Leaving Office"
     excerpt: "Mike Pence on Thursday put down a marker for a potential return to elected office, telling an audience in early-voting South Carolina that he will use the coming months “pushing back on the liberal agenda” he says is wrong for the country."
     publishedDateTime: 2021-04-30T10:35:00Z
@@ -164,6 +160,6 @@ related:
         height: 682
         isCached: true
 
-secured: "C/utiO0gy6fy9db/Jz8O3ijL/pFrCZHDiS0toWhzWEc3HNNTm0Q1L1Si206jPM0NPBCyOxnC7madXmw/E4aAqKXb7E38FriruseXmYbnvZui6T3Eo0HEO7K3LV27fkn4rNA37A64FEfyAdg13V37tAC8PTKll2AWdAOYvMDzDT/fbTdFDLWntIVypKoNzqjoaJDtJW2rnbLQ1oA32rTQvmRpldgXg33g7IbZ5Q3eyAXsoQS/K2JgaIdJ6ukjf5wow82I2cV4oCBiIOoWgs1iXZ7N3BXs9UaILrbtWO6zgvuDA8Yd/BxKn+d6ejEAl/y+RNyh0bns2zpDxvHBSgEhPgO7RrS72Rxg+latCzngX4qj21i/wwmOCLJUgVOVc9rvPXxICFuex8DGiZj3wJ0nI/ecwz3k76Sxy5cGbJEJPAU2ah+5zBGEjiWB9Gf7+/fnRrAa/Cts1I4YXBSr5OEhsZnlbML654TRixbem6CAJhsNPrLxqaoFtI7M/YVe5mPLjFS0FwpCZmVclkk2UWBPjw==;1TbNhLT50N4P6YIG5C8osQ=="
+secured: "J3zYA0yqXx81pbo1/2nsnLRCIHvh0Ol3h3Rdq8BvGvxXH9kvVFEB66WAGak7tyZzGYDKVfK7J2ihiX5OhPz8taEWzm9U1JXd/8egFzql4XVjexAxIIpK6OAWwn96oo4Wpf3ywaUmH6ulr3KM/4rkPrqqzJcdC0idSA5JrnBx1HVOZ5anDIxgXRaQYfGU4wv8ZbQRUwO4hp1d2cVhEbsbpYIrGbbbsN/JOiqnmrSjITEJiOs15n7lkYTnQpXI23AzWjd5IhP3IKwaWCjmWd325dfxZbuibQ9DNKO6dWD+n4cMQzgfq8KezQWSps4lLEqLlI5BFX0wekZ3xVjP2RtnzYRDX5mjt1Asr/DbMt7OmKM=;HkIklN7gJ9o5qxylPEnBIA=="
 ---
 

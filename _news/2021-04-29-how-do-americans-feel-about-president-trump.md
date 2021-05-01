@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/how-do-americans-feel-about-presid
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/how-do-americans-feel-about-president-trump-1/"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -100,6 +100,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 59
+  - title: "Eight Republican 2024 Candidates Speak in Texas Next Week, but Not Trump"
+    excerpt: "Candidates Speak in Texas Next Week, but Not Trump WASHINGTON (Reuters) - A Republican Party event in Texas next week will hear from eight potential candidates for the party's presidential nomination in 2024,"
+    publishedDateTime: 2021-04-30T21:50:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/eight-republican-2024-candidates-speak-in-texas-next-week-but-not-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
 
 secured: "fWZ2OH4adg+FeOdJw234LsT9YoWE8x0SDPZjOp+1/9lOrgGBVkX0AAPqjRpe25C95DWbJ9EaAxsAlLIHoWvx34hi3zc9TZcbQ48QYAayFxsKSCjpoAq1n9NL2vUDOn7Pf8NasQ5AY6vTxZrvIRbenzVSV0uAPau5vvhAITIwt0y1vW2zF5DW6ngU/U16ZT7dqXuHQ476mMl9TA8ZfV4CsToF7J6nlFyc+asQ8MI2HsHYQakeO04Ginz9/qFmGdCjVt3m8hJsyEvjZJC66sbiZlicMX7HclzjirrnDDsTYcXXaEsgX9OCawW2rVumJCZIou098+ugvHuIBNDAAIAYFF0HjO9XLCrra9fsN5CGmPMFPqKQVS+G0NRLcKWNQ7yBXLUF96QI2ojlSGKBteh/Bou4h66HcUkVx7zf91qQEXb4Hr9UOgmv1rQBF+m5LH0tiJuQWUr86Mf02K0U/+Au1+fL47RSZ2Jpw2KwGoTI2qKiV+JvXk5u9UIa7R9Amw+qeg48/k3aqxAPjoKfuwEM/w==;R9nQ9BlcgpeaHZ4YwsYz1Q=="
 ---

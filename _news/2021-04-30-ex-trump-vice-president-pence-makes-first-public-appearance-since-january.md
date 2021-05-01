@@ -100,6 +100,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Eight Republican 2024 Candidates Speak in Texas Next Week, but Not Trump"
+    excerpt: "Candidates Speak in Texas Next Week, but Not Trump WASHINGTON (Reuters) - A Republican Party event in Texas next week will hear from eight potential candidates for the party's presidential nomination in 2024,"
+    publishedDateTime: 2021-04-30T21:50:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/eight-republican-2024-candidates-speak-in-texas-next-week-but-not-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
 
 secured: "165a2vZBrDO6w6BaW6GdcIKCjDf0Icf3yU+6+4tkge2Kzvk15DvSLW3p+MHI09ZhnaTlVF2jiSfkgAyU4T18kRx2y2DdxE9FtfsuhcKA7U8Yum8W/+6pFZISghqAE9XKhtAesX2TTgt5i3Ii9OnA3SS34EDuja7n/VQWAzluYmW1PijJQ3bav+g2F8soMU/HQa7oCqibcKSgy1ZkhLXlEIhLEuXT+THrKpYXXEpeeswwhcyP5FJKdaqp2Uc1kYxp5gfJyHSwO1dce7A3+4M9ZrsOPVsPyQnHA9VdwaavOXJbrjed9AChKMtOzMCn7423zU851o/we5LtwAEtQ+h5PvWREaQj5aXp3uCven3Vhn1AX+/+Q22pDdRV6C2Hd3CVIQWEmCw30mLPCjSR6JZnQibvbRYnQphFd6W4EX9+ox9VkX43jhBpz26w1faY1bRduQfgrREAn0sGmcW8SiiN46ZRnRNgcmqjAGFPtc2wmsBI2uxeXBygMioTmp1Do2JHV6T02VRb8lipMHpUV1jFRw==;8BXf53xMnUvhznfPIoRc4w=="
 ---

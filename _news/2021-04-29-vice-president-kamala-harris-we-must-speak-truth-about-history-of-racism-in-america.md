@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris to give Naval Academy commissioning address"
+    excerpt: "A White House official tells a Maryland news outlet that Vice President Kamala Harris will deliver the keynote address at the Naval Academy’s commissioning ceremony"
+    publishedDateTime: 2021-04-30T20:56:00Z
+    webUrl: "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3PQT64VJ7YI6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "What Laura Italiano Said About the New York Post's Kamala Harris Book Story"
     excerpt: "The journalist who wrote an article claiming that Vice President Kamala Harris' book was being distributed to migrant children has resigned from the New York Post,and said she was \"ordered\" to write the story."
     publishedDateTime: 2021-04-28T09:19:00Z
@@ -79,6 +95,22 @@ related:
         width: 1200
         height: 773
         isCached: true
+  - title: "LIVE: Vice President Kamala Harris is on her way to Cincinnati"
+    excerpt: "Friday's visit will be Kamala Harris' first to the Queen city either as vice president or as a candidate on the presidential ticket."
+    publishedDateTime: 2021-04-30T14:49:00Z
+    webUrl: "https://www.cincinnati.com/story/news/2021/04/30/vice-president-kamala-harris-cincinnati-transit-spending-plans/4871270001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/4871270001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4871270001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/30/PCIN/a765bc78-c06a-4a93-9d8c-331cd2009c7e-043021VPVisitCO05.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OKC minister rebukes senator for 'sexist, racist' remarks about VP Kamala Harris"
     excerpt: "Oklahoma City Rev. Lee Cooper publicly rebuked Sen. Nathan Dahm for making \"'sexist,\" \"misogynistic\" and \"racist\" remarks about VP Kamala Harris."
     publishedDateTime: 2021-04-29T23:31:00Z
@@ -94,6 +126,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/22/NOKL/6d8697ab-2f40-4e6d-94a2-883b08cd938c-AP21112441508026.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Oklahoma City pastor blasts Sen. Nathan Dahm on Senate floor for Kamala Harris comments"
+    excerpt: "During the conclusion of a Thursday morning session, Rev. Lee Cooper Jr., pastor at Prospect Baptist Church in Oklahoma City, chastised Dahm during an address ahead of the official prayer"
+    publishedDateTime: 2021-04-29T23:50:00Z
+    webUrl: "https://tulsaworld.com/news/state-and-regional/govt-and-politics/oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.html"
+    ampWebUrl: "https://tulsaworld.com/news/state-and-regional/govt-and-politics/oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/state-and-regional/govt-and-politics/oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris-comments/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 67
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/4/b2/4b288ace-a942-11eb-b0c9-b7d9d9ac8545/6010814374821.image.jpg?crop=1276%2C866%2C5%2C168&resize=1024%2C695&order=crop%2Cresize"
+        width: 1024
+        height: 695
         isCached: true
   - title: "'It's about time': With Kamala Harris and Nancy Pelosi, women share the dais for the first time"
     excerpt: "\"No president has ever said those words from this podium and it's about time.\" For the first time, both of those positions are now held by women: Vice President Kamala Harris and House Speaker Nancy Pelosi."
@@ -111,6 +159,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Watch Now: Oklahoma City pastor blasts Sen. Nathan Dahm on Senate floor for Kamala Harris comments"
+    excerpt: "During the conclusion of a Thursday morning session, Rev. Lee Cooper Jr., pastor at Prospect Baptist Church in Oklahoma City, chastised Dahm during an address ahead of the official prayer"
+    publishedDateTime: 2021-04-30T05:20:00Z
+    webUrl: "https://tulsaworld.com/news/state-and-regional/govt-and-politics/watch-now-oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.html"
+    ampWebUrl: "https://tulsaworld.com/news/state-and-regional/govt-and-politics/watch-now-oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/state-and-regional/govt-and-politics/watch-now-oklahoma-city-pastor-blasts-sen-nathan-dahm-on-senate-floor-for-kamala-harris/article_d1afb360-a91f-11eb-85f6-5f64dccf8b2e.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 61
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/4/b2/4b288ace-a942-11eb-b0c9-b7d9d9ac8545/6010814374821.image.jpg?crop=1276%2C866%2C5%2C168&resize=1024%2C695&order=crop%2Cresize"
+        width: 1024
+        height: 695
+        isCached: true
+  - title: "‘You guys are role models’: VP Kamala Harris thanks people getting COVID vaccine at Baltimore stadium"
+    excerpt: "Vice President Kamala Harris arrived via helicopter shortly after 1:30 p.m. in Port Covington, then took a short drive to the M&T Bank Stadium COVID-19 vaccination site."
+    publishedDateTime: 2021-04-29T21:24:00Z
+    webUrl: "https://www.baltimoresun.com/politics/bs-md-pol-kamala-harris-baltimore-thursday-20210429-kusxxzj2dreg7alhvph6cjwgqa-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/politics/bs-md-pol-kamala-harris-baltimore-thursday-20210429-kusxxzj2dreg7alhvph6cjwgqa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-md-pol-kamala-harris-baltimore-thursday-20210429-kusxxzj2dreg7alhvph6cjwgqa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 60
+    images:
+      - url: "https://www.baltimoresun.com/resizer/Bdfgyqe8jTZDjzCPhXfdVfL7tn8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3QSSWDMB5ZHKHMGT3LBCES6SPA.jpg"
+        width: 1200
+        height: 1111
+        isCached: true
   - title: "Fact check: Copy of Kamala Harris book was one of thousands of books received for Long Beach migrant shelter"
     excerpt: "The vice president’s book “Superheroes Are Everywhere” was not included in welcome kits, as some recent news articles incorrectly claimed"
     publishedDateTime: 2021-04-28T00:52:00Z
@@ -127,17 +207,33 @@ related:
         width: 1024
         height: 656
         isCached: true
-  - title: "Kamala Harris to give Naval Academy commissioning address"
-    excerpt: "Vice President Kamala Harris will deliver the keynote address at the Naval Academy's commissioning ceremony, a White House official told a Maryland news outlet Friday. Harris is expected to give the speech May 28 during the in-person,"
-    publishedDateTime: 2021-04-30T20:56:00Z
-    webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
-    ampWebUrl: "https://www.sfchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
+  - title: "'Representation matters': With Kamala Harris, Nancy Pelosi, 2 women share the dais for the first time tonight"
+    excerpt: "For the first time Wednesday, an American president will be flanked by two female leaders during an address to a joint session of Congress."
+    publishedDateTime: 2021-04-29T01:57:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2021/04/28/joe-biden-speech-nancy-pelosi-kamala-harris-make-history/7352628002/"
+    ampWebUrl: "https://amp.freep.com/amp/7352628002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7352628002"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 55
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 56
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/29/USAT/565d2a8b-823e-45df-b682-5b63d9d2a2e9-GTY_1232582885.jpg?auto=webp&crop=3595,2023,x0,y106&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Madame Tussauds reveals bust of Kamala Harris wax figurine | Raleigh News & Observer"
+    excerpt: "Vice President Kamala Harris will make history once again as she becomes the first vice president to get their own wax figure from world-renowned museum Madame Tussauds."
+    publishedDateTime: 2021-04-28T18:18:00Z
+    webUrl: "https://www.newsobserver.com/news/nation-world/national/article251009199.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/nation-world/national/article251009199.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/nation-world/national/article251009199.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 48
   - title: "Take a first look at Kamala Harris’ Madame Tussauds wax figurine — the first for a VP"
     excerpt: "Vice President Kamala Harris will make history once again as she becomes the first vice president to get their own wax figure from world-renowned museum Madame Tussauds."
     publishedDateTime: 2021-04-28T18:18:00Z
