@@ -137,22 +137,6 @@ related:
         width: 1440
         height: 1080
         isCached: true
-  - title: "Will Donald Trump Run Again? Ex-President Backs New Donor Group, Accuses Arizona Democrats"
-    excerpt: "Donald Trump is still the 2024 candidate of choice for many self-identified Republican voters, according to recent polling."
-    publishedDateTime: 2021-04-24T07:54:00Z
-    webUrl: "https://www.newsweek.com/will-donald-trump-run-again-ex-president-backs-new-donor-group-accuses-arizona-democrats-1586166"
-    ampWebUrl: "https://www.newsweek.com/will-donald-trump-run-again-ex-president-backs-new-donor-group-accuses-arizona-democrats-1586166?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/will-donald-trump-run-again-ex-president-backs-new-donor-group-accuses-arizona-democrats-1586166?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
-    images:
-      - url: "https://d.newsweek.com/en/full/1782493/former-president-donald-trump-cpac.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "The fading GOP establishment moves to support Cheney as Trump attacks and McCarthy keep his distance"
     excerpt: "Instead of becoming the first female Republican House speaker — a more difficult task now that she has so many internal enemies — Liz Cheney’s legacy might be defined by her success or failure in steering the party back to its conservative foundation."
     publishedDateTime: 2021-04-24T09:04:00Z

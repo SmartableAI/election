@@ -1,22 +1,22 @@
 ---
 category: news
 title: "New bishop of Biden's hometown mum on Communion question"
-excerpt: "The newly appointed bishop of President Joe Biden's home diocese in Delaware says he would gladly speak with the president about his stance on abortion but he's not saying whether he would allow Biden to keep receiving Communion,"
-publishedDateTime: 2021-04-30T16:37:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/pope-names-bishop-bidens-wilmington-diocese-77417500"
-webUrl: "https://abcnews.go.com/International/wireStory/pope-names-bishop-bidens-wilmington-diocese-77417500"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/pope-names-bishop-bidens-wilmington-diocese-77417500"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/pope-names-bishop-bidens-wilmington-diocese-77417500"
+excerpt: "The newly appointed bishop of President Joe Biden’s home diocese in Delaware says he would gladly speak with the president about his stance on abortion but he’s not saying whether he would allow Biden to keep receiving Communion,"
+publishedDateTime: 2021-04-30T15:34:00Z
+originalUrl: "https://www.washingtonpost.com/world/pope-names-new-bishop-for-bidens-wilmington-diocese/2021/04/30/b0399f56-a9ac-11eb-a8a7-5f45ddcdf364_story.html"
+webUrl: "https://www.washingtonpost.com/world/pope-names-new-bishop-for-bidens-wilmington-diocese/2021/04/30/b0399f56-a9ac-11eb-a8a7-5f45ddcdf364_story.html"
+ampWebUrl: "https://www.washingtonpost.com/world/pope-names-new-bishop-for-bidens-wilmington-diocese/2021/04/30/b0399f56-a9ac-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/pope-names-new-bishop-for-bidens-wilmington-diocese/2021/04/30/b0399f56-a9ac-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/International/WireAP_a662771423f1442abbb692f306ffe054_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PLOODGFIFII6XKFHL5C53TPTMQ.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -96,6 +96,6 @@ related:
         height: 675
         isCached: true
 
-secured: "xl9Hu/BgUxwVgfhWFYfABYdLFPoxv6hbJ9II77WmFFEg3RDKBtj3nB21v4P9Mk/2oNWLRGi+VvetmX5aOSQ8SpzZymzbT8gkDaMMbBUsW6eO85ipecwcE0ewDMk23BUseqhF0scTA31l97vOZMFsUBUFDUE72LD1E6NHRARkjOrYn1PvQUn4/p98juqCg8G1WKa/Y1+fJwfvJBWAutNT62kf5do+USKnc2KeofRjSqJvMqCaD8cD9EbN/6gmoWCzTHr4PnFUGcKtYCQNkrVOzIp/SMO2djvH8OdxzX/9qnittrVmfxfIu1uEQ0iBGihqKtXw6Y71bVB5BZoJ1x594esxvrh2BXerx4e6Amq9h3qH9byYaDmuT1AIliSjWJrfQzIXBlGrDjLEP9/iDWusfW8ukmEuleFPFh40wEE8hb2YJnNI6bmkZa4/ITAYHG2mEH2xbmTMSObvVERl/HCSzzCbiXZ75pF9RhxxsXI9Mk94vknQrKyBdnIkwjfzyDSKJBiTd80xpUc3Nsujl1mrdw==;s269kQSQhlsuwBFNBAe2jg=="
+secured: "h89UsNdfFPRHV7hEOI9DpZ+3NGP9qeOLNahS187g1ExJ9ul5eXpbO2XvkHRp8v4kUflrSiseB7uYnAThxZ6Z9nhloHts8YIvAtUuL/mVy5hIGMcX1pcZ9cVkLQLZwGyX5N6KIVfEFt+b1WY+fWP1vBtpcFIuewX4OvwwEk/wOM+XDILFhc1awkccdZ8C9zzOkTzQRDAA1n6eZc5qTQrusmKUczFd0uehESspGx/ognjMALXXoEzvISDySpi/nR5bKSNnSMblquLTO/S8lblW3f7gidVPDNf0Ihzq2eBCK06lUT74X8JpQXhKGQZalY71Ihh60DJaqjNx8U/IfJcx6eyGIvKzk5WmKlMlGV+VC44=;vNl1A7dI0RXuxhh745iyJA=="
 ---
 

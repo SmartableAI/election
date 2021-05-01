@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Harris to lead National Space Council amid criticism over lack of border visit"
+    excerpt: "Vice President Kamala Harris announced Saturday that she will lead the National Space Council -- even as she continues to face criticism for not visiting the southern border as part of her role in addressing the migrant crisis."
+    publishedDateTime: 2021-05-01T19:30:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/59VzsGklxQw/harris-to-lead-the-national-space-council-border-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-to-lead-the-national-space-council-border-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-to-lead-the-national-space-council-border-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbf844e7-da00-4269-b859-827c56602764/5d922b54-0023-4170-ae81-95b2cc76f88b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "mvg+eaXqdkPHmQ4xUekjMkGePPKiM6HbPvUKBMXjeTSM3mrSfjurtA+tWOtGBTeG7FBHae6JT15cmc8myQiyewWouFaqK2HqZEu8ZP2yi4u1RcSmjqVDyYklkSz8AecxsXIaR6iUU7HqqJeuC8wM8ZAudDpN5x+4+lL4uAa17GvHnoqkrNSYS7Ihq/irVD/0njc7PNYTCDoYWqiQZyUegF/oFl3fKKYZ4iYKQ0+dw2esrXbN6wiahmtrowaNRD1sqvH97eS/mNNxI0t97bx8+bcJVe9GSFSYl+Bqy2IQLlgYwT7TwAI00U8aAO20uZZPoJ3JbCyAmlc9JLIL+ieju6w86Z9pz55XqS9cspGu/p0=;qaAAi8ZsitXzjGXa9EcYRQ=="
 ---

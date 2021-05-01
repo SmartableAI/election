@@ -32,20 +32,20 @@ images:
 
 related:
   - title: "New bishop of Biden's hometown mum on Communion question"
-    excerpt: "The newly appointed bishop of President Joe Biden's home diocese in Delaware says he would gladly speak with the president about his stance on abortion but he's not saying whether he would allow Biden to keep receiving Communion,"
-    publishedDateTime: 2021-04-30T16:37:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/pope-names-bishop-bidens-wilmington-diocese-77417500"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/pope-names-bishop-bidens-wilmington-diocese-77417500"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/pope-names-bishop-bidens-wilmington-diocese-77417500"
+    excerpt: "The newly appointed bishop of President Joe Biden’s home diocese in Delaware says he would gladly speak with the president about his stance on abortion but he’s not saying whether he would allow Biden to keep receiving Communion,"
+    publishedDateTime: 2021-04-30T15:34:00Z
+    webUrl: "https://www.washingtonpost.com/world/pope-names-new-bishop-for-bidens-wilmington-diocese/2021/04/30/b0399f56-a9ac-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/pope-names-new-bishop-for-bidens-wilmington-diocese/2021/04/30/b0399f56-a9ac-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/pope-names-new-bishop-for-bidens-wilmington-diocese/2021/04/30/b0399f56-a9ac-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/International/WireAP_a662771423f1442abbb692f306ffe054_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PLOODGFIFII6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Full transcript: President Joe Biden delivers speech to joint session of Congress"
     excerpt: "The president spoke to a limited crowd due to the pandemic. President Joe Biden addresses Congress on equal pay for women and right to unionize President Joe Biden delivered his first speech to a joint session of Congress on Wednesday night,"
