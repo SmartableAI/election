@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414?amp=1"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1785004/biden.jpg"
         width: 2984
         height: 1764
+        isCached: true
+  - title: "More perilous phase ahead for President Joe Biden after his 1st 100 days"
+    excerpt: "The president is racing against the calendar, governing with the most slender of majorities on Capitol Hill while knowing that historically the party that holds the White House loses seats in midterm elections,"
+    publishedDateTime: 2021-05-01T16:07:00Z
+    webUrl: "https://www.oregonlive.com/nation/2021/05/more-perilous-phase-ahead-for-president-joe-biden-after-his-1st-100-days.html"
+    ampWebUrl: "https://www.oregonlive.com/nation/2021/05/more-perilous-phase-ahead-for-president-joe-biden-after-his-1st-100-days.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2021/05/more-perilous-phase-ahead-for-president-joe-biden-after-his-1st-100-days.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BDVBLSTFLJDWTA5W2HANOGQFOQ.jpeg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Connecticut Republicans say President Joe Biden’s sweeping plans would spend too much, too quickly"
     excerpt: "As Democrats coalesce around President Joe Biden’s sweeping plans, Republicans in Connecticut and elsewhere say they think the president is spending too much too quickly."

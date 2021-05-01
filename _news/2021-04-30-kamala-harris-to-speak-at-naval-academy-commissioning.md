@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fact check: Kamala Harris’ children’s book is not in ‘welcome packs’ for migrants"
+    excerpt: "Long Beach officials say migrant children from the U.S.-Mexico border are not receiving copies of Harris’ book as part of a welcome package."
+    publishedDateTime: 2021-04-29T18:26:00Z
+    webUrl: "https://www.indystar.com/story/news/factcheck/2021/04/29/fact-check-kamala-harris-book-not-welcome-packs-migrants/4878301001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4878301001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4878301001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/02/USAT/11ef1b5c-d301-4d33-aad6-0a818f44ea8e-AFP_9734YP.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OKC minister rebukes senator for 'sexist, racist' remarks about VP Kamala Harris"
     excerpt: "Oklahoma City Rev. Lee Cooper publicly rebuked Sen. Nathan Dahm for making \"'sexist,\" \"misogynistic\" and \"racist\" remarks about VP Kamala Harris."
     publishedDateTime: 2021-04-29T23:31:00Z

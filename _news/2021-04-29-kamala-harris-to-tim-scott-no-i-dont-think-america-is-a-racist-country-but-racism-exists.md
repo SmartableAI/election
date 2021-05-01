@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris To Tim Scott: \"No, I Don't Think America Is A Racist Country,\" But Racism Exists"
 excerpt: "Vice President Kamala Harris responded to GOP Sen. Tim Scott's statement that America is \"not a racist country\" and we can't \"fight discrimination with more discrimination\" during an appearance Thursday on \"Good Morning America."
 publishedDateTime: 2021-04-29T16:08:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/04/29/kamala_harris_no_i_dont_think_america_is_a_racist_country_but_racism_exists.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/04/29/kamala_harris_no_i_dont_think_america_is_a_racist_country_but_racism_exists.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/04/29/kamala_harris_no_i_dont_think_america_is_a_racist_country_but_racism_exists.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/04/29/kamala_harris_no_i_dont_think_america_is_a_racist_country_but_racism_exists.html#!"
 type: article
 quality: 53
 heat: -1
@@ -295,6 +295,6 @@ related:
         height: 562
         isCached: true
 
-secured: "f48wHTrjzsR4ee56N7QiCUx93k42ee9vwHq5QZ8QCX2t3FfttzX8DY67m3jTEbsa9xLRLcsLM/CLI6TZLC5ZKaELZCdFRuAvsAoFILciiRQeawygD057uFqP8Atdxxyk2PW/Ox13V4gB4cYErcI10fAMseaU2v6pydoaHjLUP+WGzFJcvG/3CqR3j4KrGTEMQbEFg6s80jRfT4ZMjMTbElifzjLBetIUuJ2lRaEHSrcnB6QGUYsjqCIbpt2Iz64y96kNjsUPjyGX7RHzceXxOlUftK8baGdDQ5H8N3w9Ee/Yi7SCdDVYLdWnk1D5OGo4Jtv1hgu2M7hC7qQOFg7W9lLbqs3HnNnew4Ri/SGnHefMRrQ6itxZHW8Bl4nJ5Puiqi6+6bonGj8hVBoNbVfFITGAFDCLry1bAFq7TX37IrJPZ+RFh0UeXY2Z6LXhddxVyDGAIwMxxRBSmTmRI69ZWmhZIsQNCm7Nr25f4iKbZbDHvrh22S4Hg8u4B2wAksmCOc6DzP/EQa0kudtFhqUo3w==;831FlIPqgjf1+cuJaJwdqw=="
+secured: "cIfiiQO9KdvH+VbKqu1yOBjSRounqF7ECG270tprNcbO8tP8O8OnGzD1so1TYYSwgq8+Yagj73Dvvl6SPc8vYl64fU4MuR8FO4MKRmAhi6QbQ9nWNs5/+bGN5aO5JJcRXYkCmRs28z96X/r27tosNkVdCp+obwJGBO7gqmQssEq66VW+3+nPl7i8D4BlmKA87gKfNAWGokZLVQuPn4hNCiEaHiNtDcT9aGxbEQRLOcuyVGRRsOb9W7mhmqjBDXv+KsLMdgDm5UogbQIDaooY4MskOtuLA2gfir2NOBWTxuy7m5VIVhSTnBKpAEujDtN7++H1aJaC+fGOvIe1zMa47mEVVf3/+hFQML3xLP5dJD0=;geU6N1KwkXGsYY55CHYfwA=="
 ---
 

@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: How the economy is turning into a strength for Biden"
+    excerpt: "President Joe Biden hopes his Democratic Party can defy history next year. It's usually a foregone conclusion that the President's party loses House seats in midterm elections. The Democrats, of course, have a thin House majority and no room for error.\n    \n"
+    publishedDateTime: 2021-05-01T16:02:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n2zgsioWaAc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/biden-economy-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/biden-economy-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429152424-01-biden-100-days-cnnphotos-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "lDL2viDQ4bCNTqoQ99bH/Hv/SzO1oC3ygFlEHQyx3elfpIkZ/+GTZbYYO5i7JVVgYRfzEfPWpsIhWpAVDlNvn+2UEDPY0Fdh987Oj+vIXffKdXX4cB3g2j5zkBmZO3UxrDm0GdbRVzRZF87MkfPD3lq0OluYvA/0oVDYNZNgMDBEIQVjUGc2K+oi45GeXHHZ4+KW/A+12HT/fXW3MVybwX3F5hl7ekePWkZLyKIUZrV24Qg+NRoAT7nIjKH5BCa2agl0fRsI9vhPcnkCkbZ6wSGD5iTVUT3Qj1mHibn7G6NwqG2P6UU8YzFLFR0oayTevDpkSHYJHQ+VoZUGK5iYYMzahj9P26od1hyuk1yQ3jMzge9YN3+4XIEYlMDQEojDGVeQV7y1WHfaoMynz5L+wwM/sr5VZ7IezyRqHhmHTeyebkWskzzBq8a8vaeVNLwglGkXAnaLuD3U+XKXSalCdtreDgzu218B20mFu7DECicT3xVaB6LxsSlFr6SDxEZ73k9FEnbfG/bLR1JphY1zSw==;u7nJQ/KsiCWH2t/Y2KlPzQ=="
 ---

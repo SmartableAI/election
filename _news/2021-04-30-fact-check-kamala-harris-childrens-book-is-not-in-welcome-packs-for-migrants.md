@@ -1,29 +1,29 @@
 ---
 category: news
-title: "OKC minister rebukes senator for 'sexist, racist' remarks about VP Kamala Harris"
-excerpt: "Oklahoma City Rev. Lee Cooper publicly rebuked Sen. Nathan Dahm for making \"'sexist,\" \"misogynistic\" and \"racist\" remarks about VP Kamala Harris."
-publishedDateTime: 2021-04-29T23:31:00Z
-originalUrl: "https://www.oklahoman.com/story/news/2021/04/29/okc-minister-lee-cooper-rebukes-nathan-dahm-kamala-harris-comments/7399957002/"
-webUrl: "https://www.oklahoman.com/story/news/2021/04/29/okc-minister-lee-cooper-rebukes-nathan-dahm-kamala-harris-comments/7399957002/"
-ampWebUrl: "https://amp.oklahoman.com/amp/7399957002"
-cdnAmpWebUrl: "https://amp-oklahoman-com.cdn.ampproject.org/c/s/amp.oklahoman.com/amp/7399957002"
+title: "Fact check: Kamala Harris’ children’s book is not in ‘welcome packs’ for migrants"
+excerpt: "Long Beach officials say migrant children from the U.S.-Mexico border are not receiving copies of Harris’ book as part of a welcome package."
+publishedDateTime: 2021-04-29T18:26:00Z
+originalUrl: "https://www.indystar.com/story/news/factcheck/2021/04/29/fact-check-kamala-harris-book-not-welcome-packs-migrants/4878301001/"
+webUrl: "https://www.indystar.com/story/news/factcheck/2021/04/29/fact-check-kamala-harris-book-not-welcome-packs-migrants/4878301001/"
+ampWebUrl: "https://amp.indystar.com/amp/4878301001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4878301001"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: The Oklahoman
-  domain: oklahoman.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/04/22/NOKL/6d8697ab-2f40-4e6d-94a2-883b08cd938c-AP21112441508026.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+  - url: "https://www.gannett-cdn.com/presto/2021/04/02/USAT/11ef1b5c-d301-4d33-aad6-0a818f44ea8e-AFP_9734YP.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
     width: 1200
-    height: 676
+    height: 675
     isCached: true
 
 related:
@@ -123,21 +123,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Fact check: Kamala Harris’ children’s book is not in ‘welcome packs’ for migrants"
-    excerpt: "Long Beach officials say migrant children from the U.S.-Mexico border are not receiving copies of Harris’ book as part of a welcome package."
-    publishedDateTime: 2021-04-29T18:26:00Z
-    webUrl: "https://www.indystar.com/story/news/factcheck/2021/04/29/fact-check-kamala-harris-book-not-welcome-packs-migrants/4878301001/"
-    ampWebUrl: "https://amp.indystar.com/amp/4878301001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4878301001"
+  - title: "OKC minister rebukes senator for 'sexist, racist' remarks about VP Kamala Harris"
+    excerpt: "Oklahoma City Rev. Lee Cooper publicly rebuked Sen. Nathan Dahm for making \"'sexist,\" \"misogynistic\" and \"racist\" remarks about VP Kamala Harris."
+    publishedDateTime: 2021-04-29T23:31:00Z
+    webUrl: "https://www.oklahoman.com/story/news/2021/04/29/okc-minister-lee-cooper-rebukes-nathan-dahm-kamala-harris-comments/7399957002/"
+    ampWebUrl: "https://amp.oklahoman.com/amp/7399957002"
+    cdnAmpWebUrl: "https://amp-oklahoman-com.cdn.ampproject.org/c/s/amp.oklahoman.com/amp/7399957002"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: The Oklahoman
+      domain: oklahoman.com
     quality: 70
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/02/USAT/11ef1b5c-d301-4d33-aad6-0a818f44ea8e-AFP_9734YP.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/04/22/NOKL/6d8697ab-2f40-4e6d-94a2-883b08cd938c-AP21112441508026.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 675
+        height: 676
         isCached: true
   - title: "Oklahoma City pastor blasts Sen. Nathan Dahm on Senate floor for Kamala Harris comments"
     excerpt: "During the conclusion of a Thursday morning session, Rev. Lee Cooper Jr., pastor at Prospect Baptist Church in Oklahoma City, chastised Dahm during an address ahead of the official prayer"
@@ -290,6 +290,6 @@ related:
       domain: sacbee.com
     quality: 48
 
-secured: "9fMrSEWqWpf+obTC+sEDfJO5WZaDkfDSbqZpvW0g1VhDeDp8EVj4U2gqZJcujvag7wmnVjh6DyotviE1qoZwrQp1Nvn+VQC8tzV1AW0dwF1n0KsGTB4/Ms5DMbMcU10sATBqzeEXSC9IZBpfMU6bBsu8u1+XbJ/5N2uYGovV96kR/UCNNwCybw+uwXcsEJJMnkVH2iiO0ogxzi0eccWZYUooHfBbj82aE/oyJ7I+3dobbj8PVnK5bAQHfa5boxru/x5tTiAF+1TMokJ7dW3Jtaz+ItyXZqXjqqBIqcISNj3rvWYuBkXHJnpq4PvwKnhRU9uW2SHIov3+pxNUN/eU/jzBGRRr6Uis79R8Y5HK6FW/dN3CgtsIUbJBP0P6lzZve4Uw8d9kauYXvytQC7adCK3JI/kowY8BL9y97QJqCR1bMsXkAKvi8gJw22ICK+xUvAzuiNCibXf1SqQKGf3kEjAjTkqiTe7SmRdyxgKNZkNUKDL4YYTEro8BXhXQ7WcQvUyqFe2iySCU6uyeSpvZrA==;QrqJatVZ3qkzKLidceFepg=="
+secured: "xHS4Ni8TEZiRxwaSGC2kTX+RcWCnbLbyqOC/92jfgB+6RXCiyxErJ1ByeJCInKmM0mbueVZKTXFoYo7c6KHQPb0jhkq4q8ahrsngTYe2Ipf0/oCK3rdni2lmNFu75LGlu/yOph2O1Ss1580qhaMRTdAV0OAnkXCYEHHlflX9rcCRHvglxCigEb9iyR727OZAxIE29KIrAAcrt9h8kUJWUcGiIvoCtaAdcWApJPCqJxg8Zl/rxQ+yjEg8EyH8lg4fU07HDCMq608lWtYZxk8QX8LY9Iy5Frd4JTC3NCvZac17qtdQDRi43ebWCwdy1y9pX+SblKm1Yk61og++qRw8ERpGDJkhsVztuuI1GipWDn4=;lZ3H3mJLAYqTOA68BvoUEA=="
 ---
 

@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: How the economy is turning into a strength for Biden"
+    excerpt: "President Joe Biden hopes his Democratic Party can defy history next year. It's usually a foregone conclusion that the President's party loses House seats in midterm elections. The Democrats, of course, have a thin House majority and no room for error.\n    \n"
+    publishedDateTime: 2021-05-01T16:02:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n2zgsioWaAc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/biden-economy-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/biden-economy-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429152424-01-biden-100-days-cnnphotos-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "‘There Is a Tension There’: Publishers Draw Fire for Signing Trump Officials"
     excerpt: "Kellyanne Conway, Mike Pence and William Barr have book deals. That is raising new challenges for publishers trying to balance ideological lines with a desire to continue representing the political spectrum."
     publishedDateTime: 2021-04-27T23:49:00Z

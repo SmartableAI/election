@@ -105,6 +105,22 @@ related:
         width: 2984
         height: 1764
         isCached: true
+  - title: "More perilous phase ahead for President Joe Biden after his 1st 100 days"
+    excerpt: "The president is racing against the calendar, governing with the most slender of majorities on Capitol Hill while knowing that historically the party that holds the White House loses seats in midterm elections,"
+    publishedDateTime: 2021-05-01T16:07:00Z
+    webUrl: "https://www.oregonlive.com/nation/2021/05/more-perilous-phase-ahead-for-president-joe-biden-after-his-1st-100-days.html"
+    ampWebUrl: "https://www.oregonlive.com/nation/2021/05/more-perilous-phase-ahead-for-president-joe-biden-after-his-1st-100-days.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2021/05/more-perilous-phase-ahead-for-president-joe-biden-after-his-1st-100-days.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BDVBLSTFLJDWTA5W2HANOGQFOQ.jpeg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "President Joe Biden’s first 100 days: 53% approve of job performance, two-thirds approve of COVID efforts, new poll says"
     excerpt: "A majority of Americans approve of President Joe Biden ’s first 100 days on the job, with two-thirds supporting his handling of the COVID-19 pandemic, according to a new CNN poll. The poll results come as Biden prepares to deliver an address to Congress on Wednesday night,"
     publishedDateTime: 2021-04-28T12:57:00Z

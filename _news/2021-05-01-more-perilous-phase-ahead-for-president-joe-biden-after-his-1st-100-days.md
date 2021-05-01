@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Obama Official Steve Rattner Says Biden Could Set Progressivism Back Decades if Massive Government Expansion Fails"
-excerpt: "Rattner's comments come on the morning after President Joe Biden delivered his first address to a joint session of Congress."
-publishedDateTime: 2021-04-29T15:16:00Z
-originalUrl: "https://www.newsweek.com/obama-official-steve-rattner-says-biden-could-set-progressivism-back-decades-if-massive-government-1587474"
-webUrl: "https://www.newsweek.com/obama-official-steve-rattner-says-biden-could-set-progressivism-back-decades-if-massive-government-1587474"
-ampWebUrl: "https://www.newsweek.com/obama-official-steve-rattner-says-biden-could-set-progressivism-back-decades-if-massive-government-1587474?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/obama-official-steve-rattner-says-biden-could-set-progressivism-back-decades-if-massive-government-1587474?amp=1"
+title: "More perilous phase ahead for President Joe Biden after his 1st 100 days"
+excerpt: "The president is racing against the calendar, governing with the most slender of majorities on Capitol Hill while knowing that historically the party that holds the White House loses seats in midterm elections,"
+publishedDateTime: 2021-05-01T16:07:00Z
+originalUrl: "https://www.oregonlive.com/nation/2021/05/more-perilous-phase-ahead-for-president-joe-biden-after-his-1st-100-days.html"
+webUrl: "https://www.oregonlive.com/nation/2021/05/more-perilous-phase-ahead-for-president-joe-biden-after-his-1st-100-days.html"
+ampWebUrl: "https://www.oregonlive.com/nation/2021/05/more-perilous-phase-ahead-for-president-joe-biden-after-his-1st-100-days.html?outputType=amp"
+cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2021/05/more-perilous-phase-ahead-for-president-joe-biden-after-his-1st-100-days.html?outputType=amp"
 type: article
-quality: 103
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Oregonian
+  domain: oregonlive.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://d.newsweek.com/en/full/1785004/biden.jpg"
-    width: 2984
-    height: 1764
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BDVBLSTFLJDWTA5W2HANOGQFOQ.jpeg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -93,21 +89,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "More perilous phase ahead for President Joe Biden after his 1st 100 days"
-    excerpt: "The president is racing against the calendar, governing with the most slender of majorities on Capitol Hill while knowing that historically the party that holds the White House loses seats in midterm elections,"
-    publishedDateTime: 2021-05-01T16:07:00Z
-    webUrl: "https://www.oregonlive.com/nation/2021/05/more-perilous-phase-ahead-for-president-joe-biden-after-his-1st-100-days.html"
-    ampWebUrl: "https://www.oregonlive.com/nation/2021/05/more-perilous-phase-ahead-for-president-joe-biden-after-his-1st-100-days.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2021/05/more-perilous-phase-ahead-for-president-joe-biden-after-his-1st-100-days.html?outputType=amp"
+  - title: "Obama Official Steve Rattner Says Biden Could Set Progressivism Back Decades if Massive Government Expansion Fails"
+    excerpt: "Rattner's comments come on the morning after President Joe Biden delivered his first address to a joint session of Congress."
+    publishedDateTime: 2021-04-29T15:16:00Z
+    webUrl: "https://www.newsweek.com/obama-official-steve-rattner-says-biden-could-set-progressivism-back-decades-if-massive-government-1587474"
+    ampWebUrl: "https://www.newsweek.com/obama-official-steve-rattner-says-biden-could-set-progressivism-back-decades-if-massive-government-1587474?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/obama-official-steve-rattner-says-biden-could-set-progressivism-back-decades-if-massive-government-1587474?amp=1"
     type: article
     provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 74
+      name: Newsweek
+      domain: newsweek.com
+    quality: 103
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BDVBLSTFLJDWTA5W2HANOGQFOQ.jpeg"
-        width: 1024
-        height: 683
+      - url: "https://d.newsweek.com/en/full/1785004/biden.jpg"
+        width: 2984
+        height: 1764
         isCached: true
   - title: "Connecticut Republicans say President Joe Biden’s sweeping plans would spend too much, too quickly"
     excerpt: "As Democrats coalesce around President Joe Biden’s sweeping plans, Republicans in Connecticut and elsewhere say they think the president is spending too much too quickly."
@@ -142,6 +138,6 @@ related:
         height: 683
         isCached: true
 
-secured: "Dy/txZBDl5HSjkHF6tFcE8IugecJKyjKLQZp7sEfcJ0YOLH6tkkRfHpjYQqgklCk9stL9tgVMdHMgVRtbHNznwTi9E3S6qAnTNwAcqPUMWwto7a914vf/BEspyud0RkhqZEFx1+7FqTzr7QRpT2iVxuH/lxn0pqmfRMJopw5a6ms6viVacXhy8sX54TxcjlNKRU1i89I0o9JL87lQvd7LZxo/vZ7QTmXbQqzOsYbglA+SXCsY5KmqLcM91J9OO7uuBFsYrt4WfuvwiaMxGDu/SlAtdAXbdz3+FN/3WEs2V5pBZevjI1IPvLmRlZHxbizjyoCQ3BxlMHM8jGUjgiOn9abgWI2vS7bQxidFwuXqlKxfRw847qMQtKW7MXqm8IHDJAHUFBs30em15zt5oQREv0XMmVgerO7c8FCVUlFapbVjBqy40w5UeG+rWxG60OkXWqdNn4Gck6S8JGduY1wNxjz+bqdhakOyfbg7dD6L3i18SKarosIc+C3ZmcwMdjmJ29UScg5DskETX+ltky3Bg==;II+xJVKuuAQ2/tgXoXKIXw=="
+secured: "C+aZbDyXkpIEVNN8/DC1FT3MEh5qiRNopQYHGq5S/p8JS/EJQWYlEFco1ZjHQjyXZJfBniK933+WXqxhxbB2mSfhKVzFeunL8Z9QxXjfa3gglry265KuFaCtCPr10pf4JS3hKo16fypU5d1ElrtebBmlNfMqJglasCgp5zKpuMeLuOYAXxNtyLlN6VVxB9NIO8kkhZzSHhcXhRP94bmZD6sc6lAOWThi4TQIRN0bh0htd+DkRG7LRpD+NkkP8/AVd39iWv127ib/Q4GYzKZRR3x1XQJwvyzngBqqr55lYP1nAEiGkgUI6q+BNEQsl0L9JTNbDcO8i+IkyX6WTQpH7hB/YrgcxtkjFXqjMFJugAc=;5H07W3P8Y+P4FWOjL75BSQ=="
 ---
 
