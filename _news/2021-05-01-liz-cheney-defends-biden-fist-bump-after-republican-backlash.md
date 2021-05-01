@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Progressives think Biden's latest $1.8T families plan isn't big enough"
-excerpt: "Progressives on Wednesday viewed President Biden's latest spending plan on families as a good start, but said the $1.8 trillion proposal is still too small to provide a necessary safety net for the American public. "
-publishedDateTime: 2021-04-28T21:07:57Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZW6lr4iPBTg/progressives-biden-families-plan-too-small"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZW6lr4iPBTg/progressives-biden-families-plan-too-small"
-ampWebUrl: "https://www.foxnews.com/politics/progressives-biden-families-plan-too-small.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressives-biden-families-plan-too-small.amp"
+title: "Liz Cheney defends Biden fist bump after Republican backlash"
+excerpt: "U.S. Rep. Liz Cheney defended herself this week after facing criticism from conservatives following her fist bump with President Biden before his address Wednesday to a joint session of Congress."
+publishedDateTime: 2021-05-01T06:52:16Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u0w-Gqs21sk/liz-cheney-defends-biden-fist-bump-after-republican-backlash"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u0w-Gqs21sk/liz-cheney-defends-biden-fist-bump-after-republican-backlash"
+ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-defends-biden-fist-bump-after-republican-backlash.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-defends-biden-fist-bump-after-republican-backlash.amp"
 type: article
 quality: 175
 heat: -1
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26b2595f-106b-4afe-87c5-d67bef930299/1dc49e81-ee56-43ec-a666-b968f01aa9c5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -156,6 +156,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Progressives think Biden's latest $1.8T families plan isn't big enough"
+    excerpt: "Progressives on Wednesday viewed President Biden's latest spending plan on families as a good start, but said the $1.8 trillion proposal is still too small to provide a necessary safety net for the American public. "
+    publishedDateTime: 2021-04-28T21:07:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZW6lr4iPBTg/progressives-biden-families-plan-too-small"
+    ampWebUrl: "https://www.foxnews.com/politics/progressives-biden-families-plan-too-small.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressives-biden-families-plan-too-small.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -364,22 +380,6 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00d96b73-38ef-46ff-9e67-c4882f4368a5/02975826-568a-4e97-b558-34896c8336e2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Liz Cheney defends Biden fist bump after Republican backlash"
-    excerpt: "U.S. Rep. Liz Cheney defended herself this week after facing criticism from conservatives following her fist bump with President Biden before his address Wednesday to a joint session of Congress."
-    publishedDateTime: 2021-05-01T06:52:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u0w-Gqs21sk/liz-cheney-defends-biden-fist-bump-after-republican-backlash"
-    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-defends-biden-fist-bump-after-republican-backlash.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-defends-biden-fist-bump-after-republican-backlash.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26b2595f-106b-4afe-87c5-d67bef930299/1dc49e81-ee56-43ec-a666-b968f01aa9c5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -1214,6 +1214,6 @@ related:
         height: 2901
         isCached: true
 
-secured: "5QXiQfq71dTT4EIYn0N82aQFx0Ck1p3xdY9A8BTcGF42e+qZVdK9UUhof5NAlWcRLf+89ozVaFe0OlbkykHPlmnDHSiApq0mhJiLMX4BJGXEvr8GMbn80A7F4uvMQL1FMoq3oT5GBtPtqiySJBnhrtp1KKHKU/iSnJwCe9hPKptwOKtIyI3I+DAIOsvYtX/bc9ARvFCoQBE2ZcjF22rPYKR966P4+UqEW+3tre/24Nd5wcchCr1moQ/a/02anIgZwuL5LMMMAIUBrCK73cMnxHBf1CEnJeF7mkqiUUWg5PCg9gSeLg8raeonVk7ZH3RBEz8vBY4kb9akspnNeX5XROGSHzgWna2xSF5Jz6SyyqE=;VuoR/+mbn6++L2xBWnyEEg=="
+secured: "xjfpFh8D7p1g4mLF/zm2qGFkwlZGY64VSsIS9yqcfZ0gvYpCITsV+WO2q9KivoS9/8riCRJcUD9HttLOwxcWUJkRvaGopVsLucd7ylpzF9XKgRySyDg5+OxxM1FWUcycHYCMBko3yXv9iITCOem7VGQQ/hwgkkPSa8W067vDiVtpfKdWrghI2yGppVz42qGevi4zS4zqfjyVHaukAvVGiC6p3POmbl9ta690JAZbV/eTWaZQQ58G0NABUwhtQruf9jRXy9+LK2JH55ghNLmu9j8nb03+xdzX8MbktawbxzlnUS0K4nJVkSF+s8ImCNJ2cSiPIMzH+QvY1/HJxu8xIdoBlvIU3Tn4wDXizG7cPZs=;5qf9lpekJzL09JIHANMacw=="
 ---
 

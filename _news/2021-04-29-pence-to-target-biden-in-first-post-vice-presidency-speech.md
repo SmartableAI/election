@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-expected-to-target-biden-as-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-expected-to-target-biden-as-he-makes-his-first-post-vice-presidency-speech.amp"
 type: article
 quality: 200
-heat: 1680
+heat: 1700
 published: true
 
 provider:
@@ -365,6 +365,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00d96b73-38ef-46ff-9e67-c4882f4368a5/02975826-568a-4e97-b558-34896c8336e2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Liz Cheney defends Biden fist bump after Republican backlash"
+    excerpt: "U.S. Rep. Liz Cheney defended herself this week after facing criticism from conservatives following her fist bump with President Biden before his address Wednesday to a joint session of Congress."
+    publishedDateTime: 2021-05-01T06:52:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u0w-Gqs21sk/liz-cheney-defends-biden-fist-bump-after-republican-backlash"
+    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-defends-biden-fist-bump-after-republican-backlash.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-defends-biden-fist-bump-after-republican-backlash.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26b2595f-106b-4afe-87c5-d67bef930299/1dc49e81-ee56-43ec-a666-b968f01aa9c5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
