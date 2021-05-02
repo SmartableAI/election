@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-aca
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -154,6 +154,22 @@ related:
       name: The Oklahoman
       domain: oklahoman.com
     quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/22/NOKL/6d8697ab-2f40-4e6d-94a2-883b08cd938c-AP21112441508026.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Minister calls out Oklahoma senator for 'racist,' 'sexist' comments about Kamala Harris"
+    excerpt: "Oklahoma City Rev. Lee Cooper publicly rebuked Sen. Nathan Dahm for making \"'sexist,\" \"misogynistic\" and \"racist\" remarks about VP Kamala Harris."
+    publishedDateTime: 2021-04-29T23:31:00Z
+    webUrl: "https://www.oklahoman.com/story/news/2021/04/29/okc-minister-lee-cooper-rebukes-nathan-dahm-kamala-harris-comments/7399957002/"
+    ampWebUrl: "https://amp.oklahoman.com/amp/7399957002"
+    cdnAmpWebUrl: "https://amp-oklahoman-com.cdn.ampproject.org/c/s/amp.oklahoman.com/amp/7399957002"
+    type: article
+    provider:
+      name: The Oklahoman
+      domain: oklahoman.com
+    quality: 67
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/04/22/NOKL/6d8697ab-2f40-4e6d-94a2-883b08cd938c-AP21112441508026.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
         width: 1200

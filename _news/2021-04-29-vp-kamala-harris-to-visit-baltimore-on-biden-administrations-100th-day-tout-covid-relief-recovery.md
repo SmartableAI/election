@@ -1086,6 +1086,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "No, Kamala Harris Did Not Tell Joe Biden He’d Do ‘Whatever’ China Wants"
+    excerpt: "An image shared across multiple social media platforms, including Facebook and Twitter, falsely quotes Vice President Kamala Harris, claiming she said during the Democratic debates that President Joe Biden would do “whatever” the Chinese government said because they gave Hunter Biden “over a billion dollars."
+    publishedDateTime: 2021-04-30T00:00:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/apr/30/facebook-posts/no-kamala-harris-did-not-tell-joe-biden-hed-do-wha/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 70
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/tom_ruling_pof.png"
+        width: 667
+        height: 596
+        isCached: true
   - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point Harris’s plane landed at 10:30 a.m. on a rainy day in Greensboro, where Gov."
     publishedDateTime: 2021-04-18T03:00:00Z

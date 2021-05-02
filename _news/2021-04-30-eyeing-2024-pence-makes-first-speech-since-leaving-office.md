@@ -129,6 +129,22 @@ related:
         width: 847
         height: 423
         isCached: true
+  - title: "Pondering 2024, Mike Pence makes first speech since leaving office"
+    excerpt: "Mike Pence to LaunchConservative Podcast.Former Vice President Mike Pence willsoon be returning to his radio roots. .Prior to being elected to Congress in 2000,61-year-old Pence s"
+    publishedDateTime: 2021-04-30T12:08:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/eying-2024-pence-makes-first-speech-since-leaving-office/TZTC2GJD6VGQ5PFHUKSOJWJAEU/"
+    ampWebUrl: "https://www.ajc.com/news/nation-world/eying-2024-pence-makes-first-speech-since-leaving-office/TZTC2GJD6VGQ5PFHUKSOJWJAEU/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/nation-world/eying-2024-pence-makes-first-speech-since-leaving-office/TZTC2GJD6VGQ5PFHUKSOJWJAEU/?outputType=amp"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 75
+    images:
+      - url: "https://www.ajc.com/resizer/uFZmVf_YLF-dxa2DhhXYCAwISwc=/1200x630/d1fegwn2wjh0cs.cloudfront.net/02-09-2021/t_4fdb7635b61947e9aecc2ca80f04a708_name_da699ebd99784be290d6ab2ac77f11c9.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Eyeing 2024, Mike Pence says he’ll push back on “liberal agenda”"
     excerpt: "Former Vice President Mike Pence, positioning himself for a possible return to elected office, told an audience in early-voting South Carolina that he will spend the coming months “pushing"
     publishedDateTime: 2021-04-30T22:28:00Z

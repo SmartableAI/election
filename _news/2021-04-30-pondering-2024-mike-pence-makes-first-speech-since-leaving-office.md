@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Eying 2024, Pence says he'll push back on 'liberal agenda'"
-excerpt: "Pence, whose relationship with President Donald Trump frayed as Trump pressured Pence to block certification of the presidential election results, praised Trump’s tenure as “four years of promises made,"
-publishedDateTime: 2021-04-30T12:09:00Z
-originalUrl: "https://www.washingtonpost.com/politics/eying-2024-pence-says-hell-push-back-on-liberal-agenda/2021/04/30/bec59234-a9b4-11eb-a8a7-5f45ddcdf364_story.html"
-webUrl: "https://www.washingtonpost.com/politics/eying-2024-pence-says-hell-push-back-on-liberal-agenda/2021/04/30/bec59234-a9b4-11eb-a8a7-5f45ddcdf364_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/eying-2024-pence-says-hell-push-back-on-liberal-agenda/2021/04/30/bec59234-a9b4-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/eying-2024-pence-says-hell-push-back-on-liberal-agenda/2021/04/30/bec59234-a9b4-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+title: "Pondering 2024, Mike Pence makes first speech since leaving office"
+excerpt: "Mike Pence to LaunchConservative Podcast.Former Vice President Mike Pence willsoon be returning to his radio roots. .Prior to being elected to Congress in 2000,61-year-old Pence s"
+publishedDateTime: 2021-04-30T12:08:00Z
+originalUrl: "https://www.ajc.com/news/nation-world/eying-2024-pence-makes-first-speech-since-leaving-office/TZTC2GJD6VGQ5PFHUKSOJWJAEU/"
+webUrl: "https://www.ajc.com/news/nation-world/eying-2024-pence-makes-first-speech-since-leaving-office/TZTC2GJD6VGQ5PFHUKSOJWJAEU/"
+ampWebUrl: "https://www.ajc.com/news/nation-world/eying-2024-pence-makes-first-speech-since-leaving-office/TZTC2GJD6VGQ5PFHUKSOJWJAEU/?outputType=amp"
+cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/nation-world/eying-2024-pence-makes-first-speech-since-leaving-office/TZTC2GJD6VGQ5PFHUKSOJWJAEU/?outputType=amp"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Atlanta Journal-Constitution
+  domain: ajc.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZR2LPVJI4I6XKFHL5C53TPTMQ.jpg&w=1440"
-    width: 1440
-    height: 958
+  - url: "https://www.ajc.com/resizer/uFZmVf_YLF-dxa2DhhXYCAwISwc=/1200x630/d1fegwn2wjh0cs.cloudfront.net/02-09-2021/t_4fdb7635b61947e9aecc2ca80f04a708_name_da699ebd99784be290d6ab2ac77f11c9.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -37,6 +33,22 @@ related:
     webUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html"
     ampWebUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZR2LPVJI4I6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
+  - title: "Eying 2024, Pence says he'll push back on 'liberal agenda'"
+    excerpt: "Pence, whose relationship with President Donald Trump frayed as Trump pressured Pence to block certification of the presidential election results, praised Trump’s tenure as “four years of promises made,"
+    publishedDateTime: 2021-04-30T12:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/eying-2024-pence-says-hell-push-back-on-liberal-agenda/2021/04/30/bec59234-a9b4-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/eying-2024-pence-says-hell-push-back-on-liberal-agenda/2021/04/30/bec59234-a9b4-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/eying-2024-pence-says-hell-push-back-on-liberal-agenda/2021/04/30/bec59234-a9b4-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -119,22 +131,6 @@ related:
         width: 847
         height: 423
         isCached: true
-  - title: "Pondering 2024, Mike Pence makes first speech since leaving office"
-    excerpt: "Mike Pence to LaunchConservative Podcast.Former Vice President Mike Pence willsoon be returning to his radio roots. .Prior to being elected to Congress in 2000,61-year-old Pence s"
-    publishedDateTime: 2021-04-30T12:08:00Z
-    webUrl: "https://www.ajc.com/news/nation-world/eying-2024-pence-makes-first-speech-since-leaving-office/TZTC2GJD6VGQ5PFHUKSOJWJAEU/"
-    ampWebUrl: "https://www.ajc.com/news/nation-world/eying-2024-pence-makes-first-speech-since-leaving-office/TZTC2GJD6VGQ5PFHUKSOJWJAEU/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/nation-world/eying-2024-pence-makes-first-speech-since-leaving-office/TZTC2GJD6VGQ5PFHUKSOJWJAEU/?outputType=amp"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 75
-    images:
-      - url: "https://www.ajc.com/resizer/uFZmVf_YLF-dxa2DhhXYCAwISwc=/1200x630/d1fegwn2wjh0cs.cloudfront.net/02-09-2021/t_4fdb7635b61947e9aecc2ca80f04a708_name_da699ebd99784be290d6ab2ac77f11c9.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Eyeing 2024, Mike Pence says he’ll push back on “liberal agenda”"
     excerpt: "Former Vice President Mike Pence, positioning himself for a possible return to elected office, told an audience in early-voting South Carolina that he will spend the coming months “pushing"
     publishedDateTime: 2021-04-30T22:28:00Z
@@ -194,6 +190,6 @@ related:
         height: 630
         isCached: true
 
-secured: "2elHuiBLckj4N2w21WKisUCCbDRfZt76v8ThSpR1Fed80so+jp1HOI+Slot4uSELcOgcbl+Gnz0vvTHHO51y3bbsTauMJZs2FibdIShNAaZ78HFQKbbJUNGy7JKIKVRlLZM0/bC1mQzi9DQROh5HfpDUcEdr7+UW7rtFVrG5YE/BRuiFWnQNp7ItWCDrJnbLwRLlYGK/xJ5O/DTZ14RyHThRnPoHdR+d9O/r1a7kWLT53OHDxV75YXhb8RA2R0FwOsj90GK5IN/lMWKkCWmzkNtTve5JH5Yy0JK9AFYuquoVzdqvBS4gk2YH/VZLLkWDm+Oefg1rq8C6M1rF6IK2iUZyR5j1c9bsmYYzz+NfDT8id9/IE5r7C9Q6vwSZjAAZurWlI7uaUBKc86aBVhJRGulcatWtXAtM2ddgHV8sWFxZWdfKm4awa7HXIkM9/qgCAJz6hPN23k8J7qV686Yn6YWaYqyCAQEWiX48KO3+jc+l/vPa/W1CLDB1Xgz1UzBn0w5pUo95tZfONh6jaLkejw==;Av+p+Fgv6KK1Zr27YjJIUA=="
+secured: "fOFoWYAf9NrphApK7fYDH2CFJxbEa1z5mLuZav+4sl3xlS+b3jewtBbmuhYiymbQNehJbOMQram3oqZ0TBbKZCLayLoJGzQCvTaTsYuUnuD0QMYQ7cw1xwFPUU3wq3o6RiTDAEbZodVGNK9Ffc2VshfdbPmxWpvR+Z+VUG7nJ/Uv2BFWrYMbW7AeV7lPbtNkX83cGtZNYuEQrCnsIGIdb6MpUQ/utPg+q8OtgvFmYZJcfHOWsiaGcMdaNpMQ6xzFMcOOp72NV/Zlj1YF4Gsophq6o35orqZE99WKzpdE0ltYkFJb+zts/6c+lcikv9YUzf785XqjgT6zfMgslfC3YYmmHWA82HLvfVeuvquHrAI=;ke06g9WMGsa4NeW6BxpOtw=="
 ---
 

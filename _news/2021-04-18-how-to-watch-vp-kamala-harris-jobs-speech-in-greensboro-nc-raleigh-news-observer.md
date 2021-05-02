@@ -1102,6 +1102,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "No, Kamala Harris Did Not Tell Joe Biden He’d Do ‘Whatever’ China Wants"
+    excerpt: "An image shared across multiple social media platforms, including Facebook and Twitter, falsely quotes Vice President Kamala Harris, claiming she said during the Democratic debates that President Joe Biden would do “whatever” the Chinese government said because they gave Hunter Biden “over a billion dollars."
+    publishedDateTime: 2021-04-30T00:00:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/apr/30/facebook-posts/no-kamala-harris-did-not-tell-joe-biden-hed-do-wha/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 70
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/tom_ruling_pof.png"
+        width: 667
+        height: 596
+        isCached: true
   - title: "Kamala Harris takes a seat at NC lunch counter where 4 students made history in 1960"
     excerpt: "The image said it all: the first Black vice president of the United States took a seat at the same Southern lunch counter where four Black college students helped spark the civil rights movement."
     publishedDateTime: 2021-04-20T14:07:00Z

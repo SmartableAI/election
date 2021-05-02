@@ -1086,6 +1086,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "No, Kamala Harris Did Not Tell Joe Biden He’d Do ‘Whatever’ China Wants"
+    excerpt: "An image shared across multiple social media platforms, including Facebook and Twitter, falsely quotes Vice President Kamala Harris, claiming she said during the Democratic debates that President Joe Biden would do “whatever” the Chinese government said because they gave Hunter Biden “over a billion dollars."
+    publishedDateTime: 2021-04-30T00:00:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/apr/30/facebook-posts/no-kamala-harris-did-not-tell-joe-biden-hed-do-wha/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 70
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/tom_ruling_pof.png"
+        width: 667
+        height: 596
+        isCached: true
   - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point Harris’s plane landed at 10:30 a.m. on a rainy day in Greensboro, where Gov."
     publishedDateTime: 2021-04-18T03:00:00Z
@@ -1268,6 +1282,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "ppdw8tLczhfZvMGoSZITFMEshCHFp+A1fxcC1C27kgwl29BelPbutFAWRdkkzDBw8mMcou/aKm2G05JdsDt5hFfrneWMFg7NMsVDlOE8TFi7rqPIw5jWKMOoe5vAccQ/VwDbkh6A4ECCbuwIIf0B+fgnvzC8zzHPETbdB20YZ11NV0iXt2o7Dgz3w9kp7ZvJlMZ+wkX8UZtveLWE7QKL4TxAKWbHv9nxaToPFIM+NrJfGvf7Y8fxh8J63iEdOiVWEuDjQpKWcz/oWl9T48XkdzEGk5s2h05xXJREO+mcMkA2oQIgVbfA7xN06gerH8XPwnq9SD9mh8sXC8Rq7UCODXddzErB5UrfWo9PtmsJojc=;YtiP1UQKc6HyQ+yBSkwJfg=="
+secured: "44RMKNWDgD3A3N9y/KqlEvmG8nnusklzqGsNig6bhbqzLaF4mrxGMENK1ySbrJ69nQIeJPSenSsBlK7lCDxrid/NP9pG8TsNR9TxtONSlyMQ5aCw2MytVqa4N+2PPi2NRzZrArtBKOWChGR3WZfyXXrMm/iFWTP5HwPEVcSEOfNGY0MSxLHTj9SdgVZGZDXfC+MBlAM9d+hDndymh5ZJir/Zhvb1r/7CoWgqwlZ3lmibBfNyn+L1rhhTzQTTCvleNtDCfy3SM+6DluP64TEEMVTAC9xvsf6yv3p0JpBxfpFQq0nezaMqO3tFDLO1jE36m5s1+x4DNfm7Unasz5CgHaMaRf0NKew05as1fQdlIbRAubRXF5/Pndfrpdk+Kz/y2QftGc5grHrdYVQ+guFwJvus111Eol9SSyaI48snux8AK2nMlW2Jsb4kuq3tvRmkKtUqwv2QM6Gg0qAFclGm5azjUmgk1rVRYqQgPc3lcvs+PUEnxIigqeCRvCu4iRxGQu2S7Ri+TbR3Utqbg/laFw==;rmTDdzskB1o5YCGUABuPNA=="
 ---
 

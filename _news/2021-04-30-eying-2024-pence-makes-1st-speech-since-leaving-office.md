@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pe
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -118,6 +118,22 @@ related:
       - url: "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg"
         width: 847
         height: 423
+        isCached: true
+  - title: "Pondering 2024, Mike Pence makes first speech since leaving office"
+    excerpt: "Mike Pence to LaunchConservative Podcast.Former Vice President Mike Pence willsoon be returning to his radio roots. .Prior to being elected to Congress in 2000,61-year-old Pence s"
+    publishedDateTime: 2021-04-30T12:08:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/eying-2024-pence-makes-first-speech-since-leaving-office/TZTC2GJD6VGQ5PFHUKSOJWJAEU/"
+    ampWebUrl: "https://www.ajc.com/news/nation-world/eying-2024-pence-makes-first-speech-since-leaving-office/TZTC2GJD6VGQ5PFHUKSOJWJAEU/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/nation-world/eying-2024-pence-makes-first-speech-since-leaving-office/TZTC2GJD6VGQ5PFHUKSOJWJAEU/?outputType=amp"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 75
+    images:
+      - url: "https://www.ajc.com/resizer/uFZmVf_YLF-dxa2DhhXYCAwISwc=/1200x630/d1fegwn2wjh0cs.cloudfront.net/02-09-2021/t_4fdb7635b61947e9aecc2ca80f04a708_name_da699ebd99784be290d6ab2ac77f11c9.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Eyeing 2024, Mike Pence says he’ll push back on “liberal agenda”"
     excerpt: "Former Vice President Mike Pence, positioning himself for a possible return to elected office, told an audience in early-voting South Carolina that he will spend the coming months “pushing"

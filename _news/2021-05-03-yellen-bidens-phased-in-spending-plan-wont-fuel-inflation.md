@@ -2,21 +2,21 @@
 category: news
 title: "Yellen: Biden's phased-in spending plan won't fuel inflation"
 excerpt: "Treasury Secretary Janet Yellen says President Joe Biden’s massive proposed spending on infrastructure, families and education won’t fuel inflation because the plans would be phased in gradually over"
-publishedDateTime: 2021-05-02T18:16:00Z
-originalUrl: "https://www.washingtonpost.com/politics/yellen-bidens-phased-in-spending-plan-wont-fuel-inflation/2021/05/02/e0be3fea-ab7a-11eb-82c1-896aca955bb9_story.html"
-webUrl: "https://www.washingtonpost.com/politics/yellen-bidens-phased-in-spending-plan-wont-fuel-inflation/2021/05/02/e0be3fea-ab7a-11eb-82c1-896aca955bb9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/yellen-bidens-phased-in-spending-plan-wont-fuel-inflation/2021/05/02/e0be3fea-ab7a-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/yellen-bidens-phased-in-spending-plan-wont-fuel-inflation/2021/05/02/e0be3fea-ab7a-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+publishedDateTime: 2021-05-02T19:19:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/yellen-bidens-phased-spending-plan-fuel-inflation-77452321"
+webUrl: "https://abcnews.go.com/Business/wireStory/yellen-bidens-phased-spending-plan-fuel-inflation-77452321"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/yellen-bidens-phased-spending-plan-fuel-inflation-77452321"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/yellen-bidens-phased-spending-plan-fuel-inflation-77452321"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3FISD6VLPII6XAWBRFVMVFK3XE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_00e0778c0c2248f996ee853d206d10ed_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -580,6 +580,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "KQYiv+7BpG09vkVjryoLrefFlSVCoPDI79vxjjxuz1UctRHxOVOwyUkNUs3dsWqiw1cmyPT4nd96Ju7ezYgkWUQeGfACpogU6SWKvvBcLLIFbrlKMMcC4PQohBHejGduhq7yAzf/yspMPSHXVjG3kauPBunt15wvDqJIbW5WAIDYM8frM4HHUEWWfYigLJV7loo5n/khXmPN9wlR1Ao61CsnMLho/J+N8K8o0FrRrsPVtPqKoDWvX99Fck3ygIbAKUVSg6X4oDz124RG4g3yUKiaHMAhukjNtdSTGs3l0G/Z1NXIdijSbqRiqvVewC6QW97anDkIBR1vpnMQBQt+0hQ6W52sMFqnO4zvXKyfZz4=;P6HLJkrWEVnpjFMTdA6dvQ=="
+secured: "4ud56TZgDzrlNOrkZGhRlJRuO+/DNnC+hP8zgY8UfpZJ48RkR15x+iuvdLFlBKoAUnz4ek2OGL8+ZO/NeCkOjr9uP2fLGY0HGQq8pmcBJDwXFprMN6UXeNhM+gf+DTX/Xwm4NNdVIDOyaPhkbhjvKogNiEkpBGbH7iH5lQkqDu7UPYU8xl2joHbMxSS58WvT5RPhwpa71KayphXE/WZ+RW/WNkkPfoWf/EnkWB/eJIEfyR3miCd1+5WG+sFlwX1DK3t4lV0TYTOj6nw+VlZXKFnCne+l0fRmDf/LUfo/oVBOTqj6XBMUg1UyxtLtDRmOOC040DsWurkYrG94HcHra4aWBPWyiYCyPSY3buvSVCE=;jEhKQ0pU/aZEsFPuhjvGAA=="
 ---
 

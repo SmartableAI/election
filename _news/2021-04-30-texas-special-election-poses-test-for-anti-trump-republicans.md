@@ -105,6 +105,20 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Apple suppliers tumble after Trump threat"
+    excerpt: "Posted . Shares of Apple Inc (AAPL.O) suppliers fell across Asia on Monday after U.S. President Donald Trump tweeted that th"
+    publishedDateTime: 2021-05-02T20:37:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPjxJ?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5b9675d6e4b01cce9ac73fa9-1536587222929?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump-Backed Candidate Heads to Runoff in Texas Special Congressional Election"
     excerpt: "A Texas Republican backed by former President Donald Trump has advanced to a runoff election to fill a U.S. House of Representatives vacancy left by the death of her husband, while Democrats appeared in danger of being shut out of the contest."
     publishedDateTime: 2021-05-02T13:38:00Z

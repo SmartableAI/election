@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Climate change creates migrants. Biden considers protections"
-excerpt: "Ioane Teitiota and his wife fought for years to stay in New Zealand as refugees, arguing that rising sea levels caused by climate change threaten the very existence of the tiny Pacific island nation they fled,"
-publishedDateTime: 2021-04-20T15:36:00Z
-originalUrl: "https://www.washingtonpost.com/politics/climate-change-creates-migrants-biden-considers-protections/2021/04/20/9e9cc9d4-a1f6-11eb-b314-2e993bd83e31_story.html"
-webUrl: "https://www.washingtonpost.com/politics/climate-change-creates-migrants-biden-considers-protections/2021/04/20/9e9cc9d4-a1f6-11eb-b314-2e993bd83e31_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/climate-change-creates-migrants-biden-considers-protections/2021/04/20/9e9cc9d4-a1f6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/climate-change-creates-migrants-biden-considers-protections/2021/04/20/9e9cc9d4-a1f6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+title: "No, Kamala Harris Did Not Tell Joe Biden He’d Do ‘Whatever’ China Wants"
+excerpt: "An image shared across multiple social media platforms, including Facebook and Twitter, falsely quotes Vice President Kamala Harris, claiming she said during the Democratic debates that President Joe Biden would do “whatever” the Chinese government said because they gave Hunter Biden “over a billion dollars."
+publishedDateTime: 2021-04-30T00:00:00Z
+originalUrl: "https://www.politifact.com/factchecks/2021/apr/30/facebook-posts/no-kamala-harris-did-not-tell-joe-biden-hed-do-wha/"
+webUrl: "https://www.politifact.com/factchecks/2021/apr/30/facebook-posts/no-kamala-harris-did-not-tell-joe-biden-hed-do-wha/"
 type: article
-quality: 125
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Politifact
+  domain: politifact.com
 
 topics:
   - Election
-  - Joe Biden
+  - Kamala Harris
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PBBE47VB5EI6XMYUF2MTXWB6GE.jpg&w=1440"
-    width: 1440
-    height: 929
+  - url: "https://static.politifact.com/politifact/rulings/tom_ruling_pof.png"
+    width: 667
+    height: 596
     isCached: true
 
 related:
@@ -142,6 +136,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/keU_6Ww5niCGpbPH1trZbpjM77E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AJ4EQ7MDPJC7NG24EAFSKU3KM4.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Climate change creates migrants. Biden considers protections"
+    excerpt: "Ioane Teitiota and his wife fought for years to stay in New Zealand as refugees, arguing that rising sea levels caused by climate change threaten the very existence of the tiny Pacific island nation they fled,"
+    publishedDateTime: 2021-04-20T15:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/climate-change-creates-migrants-biden-considers-protections/2021/04/20/9e9cc9d4-a1f6-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/climate-change-creates-migrants-biden-considers-protections/2021/04/20/9e9cc9d4-a1f6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/climate-change-creates-migrants-biden-considers-protections/2021/04/20/9e9cc9d4-a1f6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PBBE47VB5EI6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 929
         isCached: true
   - title: "Reports: UK to toughen climate target before Biden summit"
     excerpt: "The U.K. government plans to set itself a more ambitious climate target, pledging to reduce carbon emissions by three-quarters of their 1990 levels by 2035"
@@ -1090,20 +1100,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "No, Kamala Harris Did Not Tell Joe Biden He’d Do ‘Whatever’ China Wants"
-    excerpt: "An image shared across multiple social media platforms, including Facebook and Twitter, falsely quotes Vice President Kamala Harris, claiming she said during the Democratic debates that President Joe Biden would do “whatever” the Chinese government said because they gave Hunter Biden “over a billion dollars."
-    publishedDateTime: 2021-04-30T00:00:00Z
-    webUrl: "https://www.politifact.com/factchecks/2021/apr/30/facebook-posts/no-kamala-harris-did-not-tell-joe-biden-hed-do-wha/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 70
-    images:
-      - url: "https://static.politifact.com/politifact/rulings/tom_ruling_pof.png"
-        width: 667
-        height: 596
-        isCached: true
   - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point Harris’s plane landed at 10:30 a.m. on a rainy day in Greensboro, where Gov."
     publishedDateTime: 2021-04-18T03:00:00Z
@@ -1286,6 +1282,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "06kQzYQoyuXBz4wT8Epy+8Bbin6hQmhoOglauhr5efDi6CSNHhGge1RgPHNAxjr5FYqTXasklsIo/2SU14kj500VOUj5f7HXdbC9BitgHxWLzQaiu6LEEoEQdoNDh94khxMhlhlEUY9qQLBOeaD9gJPvZrPE+k+kXCUNeif1fG+Eon46m1wqxfmuRgmnc//T/dbNktixPS0w1p8Qlfn/VplGF1FrC8q3Se6lEgzIZ5Hn3eT0TDmsGtCVKV23lN/88Myw7oTLhWPN93vlvOblEObv3DPsxXj/1gsfPsSFjziFLXACu31Nyyl98Bi/XG23CuHgf4BPSsxr+p1lp0vjXqU/+hf/E8yPBY5sIyakbVg=;P+TuVCb+SANWHcYHjHDKfg=="
+secured: "Vhx8SMfkjQyzI4zAGIQ6ew6wnbtfMezJBjbPqMZQdukVwJuJ+olfa2gR0BC0NHXMyhe6ePEM5uzglFZ/IXvZj5VuxLY5ex6RKIEBvZMEe9OhSEW1lL7XH7ij3Ye8dbncYI8TfmurnDTiQ52l9i4VdgICWfq4fpv4EUWk97bUyfNjXIsb0mTh4XYJenaUdMY1Qjir4LXiSbqf6R24ixR+onQyo3+WaNJsTYZDBzCwhpUlGXG4/fn+a7GoCtkpGDxrbWhxbzKyzp0dkwfHb/3rPj4t+rzbiMqNU2FTErdgSq1HUevbYa39SzSu5rtAM1TfJ3PmnrroT5iAn07yt2NU0wmKoHOATthM1J76wQdSizk=;5A7iIrGpQeDovSLEDrNpMQ=="
 ---
 

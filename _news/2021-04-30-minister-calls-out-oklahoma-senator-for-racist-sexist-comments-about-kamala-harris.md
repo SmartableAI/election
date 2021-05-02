@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Kamala Harris to speak at Naval Academy commissioning"
-excerpt: "Vice President Kamala Harris will deliver the keynote speech during the ceremony May 28, according to a White House official."
-publishedDateTime: 2021-04-30T15:59:00Z
-originalUrl: "https://www.baltimoresun.com/education/ac-cn-kamala-harris-naval-academy-commissioning-20210430-t7kj4cfukrf33fhbzkoqojrgym-story.html"
-webUrl: "https://www.baltimoresun.com/education/ac-cn-kamala-harris-naval-academy-commissioning-20210430-t7kj4cfukrf33fhbzkoqojrgym-story.html"
-ampWebUrl: "https://www.baltimoresun.com/education/ac-cn-kamala-harris-naval-academy-commissioning-20210430-t7kj4cfukrf33fhbzkoqojrgym-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/education/ac-cn-kamala-harris-naval-academy-commissioning-20210430-t7kj4cfukrf33fhbzkoqojrgym-story.html?outputType=amp"
+title: "Minister calls out Oklahoma senator for 'racist,' 'sexist' comments about Kamala Harris"
+excerpt: "Oklahoma City Rev. Lee Cooper publicly rebuked Sen. Nathan Dahm for making \"'sexist,\" \"misogynistic\" and \"racist\" remarks about VP Kamala Harris."
+publishedDateTime: 2021-04-29T23:31:00Z
+originalUrl: "https://www.oklahoman.com/story/news/2021/04/29/okc-minister-lee-cooper-rebukes-nathan-dahm-kamala-harris-comments/7399957002/"
+webUrl: "https://www.oklahoman.com/story/news/2021/04/29/okc-minister-lee-cooper-rebukes-nathan-dahm-kamala-harris-comments/7399957002/"
+ampWebUrl: "https://amp.oklahoman.com/amp/7399957002"
+cdnAmpWebUrl: "https://amp-oklahoman-com.cdn.ampproject.org/c/s/amp.oklahoman.com/amp/7399957002"
 type: article
-quality: 75
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: The Oklahoman
+  domain: oklahoman.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/BE0omG1uFNrRjz_Ba5i5l2ELpmI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YCZQJIPVWRARZI3RL3CXYL6DLY.jpg"
+  - url: "https://www.gannett-cdn.com/presto/2021/04/22/NOKL/6d8697ab-2f40-4e6d-94a2-883b08cd938c-AP21112441508026.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
     width: 1200
-    height: 773
+    height: 676
     isCached: true
 
 related:
@@ -107,6 +107,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Kamala Harris to speak at Naval Academy commissioning"
+    excerpt: "Vice President Kamala Harris will deliver the keynote speech during the ceremony May 28, according to a White House official."
+    publishedDateTime: 2021-04-30T15:59:00Z
+    webUrl: "https://www.baltimoresun.com/education/ac-cn-kamala-harris-naval-academy-commissioning-20210430-t7kj4cfukrf33fhbzkoqojrgym-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/education/ac-cn-kamala-harris-naval-academy-commissioning-20210430-t7kj4cfukrf33fhbzkoqojrgym-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/education/ac-cn-kamala-harris-naval-academy-commissioning-20210430-t7kj4cfukrf33fhbzkoqojrgym-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 75
+    images:
+      - url: "https://www.baltimoresun.com/resizer/BE0omG1uFNrRjz_Ba5i5l2ELpmI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YCZQJIPVWRARZI3RL3CXYL6DLY.jpg"
+        width: 1200
+        height: 773
+        isCached: true
   - title: "LIVE: Vice President Kamala Harris is on her way to Cincinnati"
     excerpt: "Friday's visit will be Kamala Harris' first to the Queen city either as vice president or as a candidate on the presidential ticket."
     publishedDateTime: 2021-04-30T14:49:00Z
@@ -150,22 +166,6 @@ related:
       name: The Oklahoman
       domain: oklahoman.com
     quality: 70
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/22/NOKL/6d8697ab-2f40-4e6d-94a2-883b08cd938c-AP21112441508026.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Minister calls out Oklahoma senator for 'racist,' 'sexist' comments about Kamala Harris"
-    excerpt: "Oklahoma City Rev. Lee Cooper publicly rebuked Sen. Nathan Dahm for making \"'sexist,\" \"misogynistic\" and \"racist\" remarks about VP Kamala Harris."
-    publishedDateTime: 2021-04-29T23:31:00Z
-    webUrl: "https://www.oklahoman.com/story/news/2021/04/29/okc-minister-lee-cooper-rebukes-nathan-dahm-kamala-harris-comments/7399957002/"
-    ampWebUrl: "https://amp.oklahoman.com/amp/7399957002"
-    cdnAmpWebUrl: "https://amp-oklahoman-com.cdn.ampproject.org/c/s/amp.oklahoman.com/amp/7399957002"
-    type: article
-    provider:
-      name: The Oklahoman
-      domain: oklahoman.com
-    quality: 67
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/04/22/NOKL/6d8697ab-2f40-4e6d-94a2-883b08cd938c-AP21112441508026.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
         width: 1200
@@ -322,6 +322,6 @@ related:
       domain: sacbee.com
     quality: 48
 
-secured: "t4PevFwmCABPxwWXRSMJAdTDKzt1HWUsFgoK97Z2kQ6SB9+bFioYZXc9knBY96QP1DSEmPnudNFQFV43ZgF9IlN1OgsAsTFwFDK8e2KNtvrRxhaPvOCLHT8ATD1G7xcgweeBznDW9BkMZijJScl8yeF31EPLRLvxaYEPVCZpqZOpcO283w9P60SttMh3UqTjVj8g8I62DLARwa0yRotJyknPNPHo5Zd6T4nNOjyrl8iervykOW6d73n2ebcCklqkl9oPq8R5Ja3E9ogCRaQ33AU/0ygdpnNeGRj0V2J5Ob6ko8pCnee3ELBJLT7HyWqqg4cRgpKlLSrOS+fe+BnXl8Y7Fj9UoihpAMxy1mPdd0/kdusXAEzxkakL4cmuzdL7JVyPF/9TbNRztl8AU0FI1uFx+od/UF1QF0MrfMQJgkyPTC+zgd/91qsfV8MAoHAMX1gSJuqI565iCdkcHeXsi8GIPzUf+T6qmYD0+9AxnDIu7er2TCpcxIBEmQq0AfZZAp3vh9Vdw0j1VvD47eKi6g==;Fu+B+14SfBn0tkZ6uhg/fg=="
+secured: "mbaSZQVDApKYzGr0vNVSrZJrIvoQErOZ1rrf/1GoDh1Z6HT6+NZsI79Fsda/K6w9RyB5iEfUPWhOgo1nzI3V2mrsUN9CDGRuNVC+0lLINex/mRNBSurmC767SAMxZ1m/pe1oV6pPzXBi5h572M1argoZAVyb8yA4xwxvbegpDiMJdImWe6J+h95Bd1Jeyd1ekL1YBQ5MpXs3xNi84LpEXtee+4KJ/sLk/4G1TQh6pRnLQZk71Z7x26OxNKAq1SfxDJca+ZPLQn5lWCJbAqhsbP1hjQo1aSTbTTPd1oOFReoe/gSsqfH/g/HjSS7+u14Ar0Ja+Fga6l8fIpzwoi7Qv2UkDSYIJzy6ra470gW0Ar8=;PgwS7gaF/Y3iHwNC4Ii6Sw=="
 ---
 

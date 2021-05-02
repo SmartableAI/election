@@ -95,6 +95,20 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Apple suppliers tumble after Trump threat"
+    excerpt: "Posted . Shares of Apple Inc (AAPL.O) suppliers fell across Asia on Monday after U.S. President Donald Trump tweeted that th"
+    publishedDateTime: 2021-05-02T20:37:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPjxJ?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5b9675d6e4b01cce9ac73fa9-1536587222929?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Texas Special Election Poses Test for Anti-Trump Republicans"
     excerpt: "Ill., left, shakes hands with Grant Goodyear, right, as Texas congressional candidate Michael Wood, center, shakes hands with Linda Thomas Tuesday, April 27, 2021, in Arlington, Texas. Wood is considered the anti-Trump Republican Texas congressional candidate that Kinzinger has endorsed in the May 1st special election for the 6th Congressional District."
     publishedDateTime: 2021-04-30T04:32:00Z

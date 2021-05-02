@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Pentagon halts border wall construction paid for with defense funds redirected by Trump"
-excerpt: "In 2019, the Trump administration used Defense Department cash for border wall projects when Congress refused to fund them."
-publishedDateTime: 2021-05-01T11:16:00Z
-originalUrl: "https://www.cbsnews.com/news/border-wall-construction-canceled-pentagon/"
-webUrl: "https://www.cbsnews.com/news/border-wall-construction-canceled-pentagon/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/border-wall-construction-canceled-pentagon/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/border-wall-construction-canceled-pentagon/"
+title: "Apple suppliers tumble after Trump threat"
+excerpt: "Posted . Shares of Apple Inc (AAPL.O) suppliers fell across Asia on Monday after U.S. President Donald Trump tweeted that th"
+publishedDateTime: 2021-05-02T20:37:00Z
+originalUrl: "https://www.reuters.com/video/watch/idPjxJ?now=true"
+webUrl: "https://www.reuters.com/video/watch/idPjxJ?now=true"
 type: article
-quality: 117
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/04/bee1bf6c-1fd9-4ed8-94a0-3d6da2145de4/thumbnail/1200x630/feec45701550b6329b0d5a6acaeddf5b/gettyimages-1222262266.jpg"
+  - url: "https://ajo.prod.reuters.tv/api/v2/img/5b9675d6e4b01cce9ac73fa9-1536587222929?location=LANDSCAPE"
     width: 1200
-    height: 630
+    height: 675
     isCached: true
 
 related:
@@ -63,6 +61,22 @@ related:
         width: 320
         height: 212
         isCached: true
+  - title: "Pentagon halts border wall construction paid for with defense funds redirected by Trump"
+    excerpt: "In 2019, the Trump administration used Defense Department cash for border wall projects when Congress refused to fund them."
+    publishedDateTime: 2021-05-01T11:16:00Z
+    webUrl: "https://www.cbsnews.com/news/border-wall-construction-canceled-pentagon/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/border-wall-construction-canceled-pentagon/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/border-wall-construction-canceled-pentagon/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 117
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/04/bee1bf6c-1fd9-4ed8-94a0-3d6da2145de4/thumbnail/1200x630/feec45701550b6329b0d5a6acaeddf5b/gettyimages-1222262266.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump administration sidelined experts in writing car pollution rules, EPA watchdog finds"
     excerpt: "The inspector general’s report may give the Biden administration more reason to tighten fuel-economy standards in the fight against global warming."
     publishedDateTime: 2021-04-21T14:00:00Z
@@ -95,20 +109,6 @@ related:
         width: 1440
         height: 961
         isCached: true
-  - title: "Apple suppliers tumble after Trump threat"
-    excerpt: "Posted . Shares of Apple Inc (AAPL.O) suppliers fell across Asia on Monday after U.S. President Donald Trump tweeted that th"
-    publishedDateTime: 2021-05-02T20:37:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPjxJ?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5b9675d6e4b01cce9ac73fa9-1536587222929?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Texas Special Election Poses Test for Anti-Trump Republicans"
     excerpt: "Ill., left, shakes hands with Grant Goodyear, right, as Texas congressional candidate Michael Wood, center, shakes hands with Linda Thomas Tuesday, April 27, 2021, in Arlington, Texas. Wood is considered the anti-Trump Republican Texas congressional candidate that Kinzinger has endorsed in the May 1st special election for the 6th Congressional District."
     publishedDateTime: 2021-04-30T04:32:00Z
@@ -130,6 +130,6 @@ related:
       domain: usnews.com
     quality: 46
 
-secured: "M+d3CinPU1A5bHBc33q/hIoipNoCCo3EhjC4DOjWAza5ba6RPQ8LNXvU6SNCMY8fvqGQYHqKZo0KP/pYz+Gu0izmL9WCPMosnbnSDCG+Fwad8+bFOqXTUTmMWy4IKroPE/1YhQL18ZdTDTdKT+TtKgmovpCq0A/LsFayn52euY4OfD6OZeg51lTo4PfnhJ/bXX/meQhn8v1IgRbFNI63Acf0BdedIjBQDwHUXfxqMNmjzmj6jMtSBmyWziz3of4G3mGt1dYSqj3lg0Xkpev2E9+z4YLz2+811wTNywrQZTQEjz5LNpsW7RcmW8AnLEARXrguysb8BxAFlRS9jT3zLMjYGdcOAej8C0JSr4Y4mm8Bxgh8kO+LrZyWP61F4HemLiwDuiY7ccXMXfROKIhtk7bNGcnNC4LLH4PhBFIoyYqtO0hjJPhNfQEuM6wuozW0/NxcqJMhtOvPZksOMWlwOzf+UHUfAXVy8z+BZ3g5kvKF0JvnKSfhzK1sEMZlAuTyzVZWDyccY+O+RaI3w9gTlA==;kUL7OgeP1Auvp8dLcXupXA=="
+secured: "HYsT2dsQ15bBRTCepFQTUcAtxHDRx+Z9InFSCGPgMfDOp3qcj0CFbh9faElNz9kbrIQWjpYjYb1+tvJNV02j8lKTKPMtyWc0BfWRzggAywrISm1LCtz48Eluzu2byQStIs/jumxZjtjGQU7KRjtrkBRvs5uybzPKrWkWlJ9DqNrF57NGL301HzsECCTSxM8MZbCjum6yeESJfyu6Jfml/hMjg7T36txWzkumh9crKAjmYHAIg7YOCWdQFL/BfxXSAyqIWtsbZhaukbFArlwviqBFW7szvUQ7LEtxVVc0hTxKGNeRbDwx4SfwAnnLs6QggaB7oIw/dxJ2yyoPvbGTUwLWdeyQvtSB8m86cx9RFpM=;b3oB4j3RczHKzgVhYvPo2w=="
 ---
 
