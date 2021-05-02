@@ -3,8 +3,8 @@ category: news
 title: "Mike Pence coming to Texas for GOP fundraising blitz, donor appreciation event"
 excerpt: "Former Vice President Mike Pence and several other potential 2024 presidential candidates are descending upon Texas next week to thank donors to the 2020 campaign here and to help raise money to flip the U."
 publishedDateTime: 2021-04-30T22:34:00Z
-originalUrl: "https://www.chron.com/lavoz/news/houston-texas/article/mike-pence-2024-texas-16142373.php"
-webUrl: "https://www.chron.com/lavoz/news/houston-texas/article/mike-pence-2024-texas-16142373.php"
+originalUrl: "https://www.chron.com/news/houston-texas/article/mike-pence-2024-texas-16142373.php"
+webUrl: "https://www.chron.com/news/houston-texas/article/mike-pence-2024-texas-16142373.php"
 ampWebUrl: "https://www.chron.com/news/houston-texas/amp/mike-pence-2024-texas-16142373.php"
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/mike-pence-2024-texas-16142373.php"
 type: article
@@ -44,6 +44,6 @@ related:
         height: 630
         isCached: true
 
-secured: "IJCSSE5Xc+UaEmqOm3KnZ5olb9LCMzuzIWuI5vyNlIltKQob9sM7Ngw08tPBePMxVJelLz3hQ4JOoJuauWngisbY7ur6S0toI59B8Ia5U1FnsZl330n1Xe43y5Z0nd17/RwfqmhtvvZed6L50EIS6t/yGbpXU4i5ZYOgA0BQcIy8yF8ffP+iHVDrWlFJ5c3Aen45+Me2wAv2gw39itzoBmzsCUOt23mtWxoeXnliq9HKEvK6dKZSdw37su+U0ZJlh6jdEyjsb/8zT4NvYjMdM25WH2oNrcx+PQ/rdX1Ma85r/iEk18AcXRPFmu64TVbE8tPSspFQjPvkOGx5clNaPr1cJzbu+QWXU+GrD7dzaqH6FCb8suwL2M9Rr3Co5ApE3ItVBT0w0WCNl21F3sgn2h9SsFIXPo2QmQNCY/7LOjCtWA4A4fMsKEwgHSe8AtmkKTyytrdLll7rFbq7rIKafY8dBPjTSjIY42iJJyk1tQPe5umOWbQ6LuPHx8wJzNLMkobAFA7w4lbgU51lP+Nldg==;6aq8BuZSvxMmSaWn63vr7Q=="
+secured: "f2GTfnIzvcEkQ/oivNtx8vq0qwhiXGRR963pQEjyrKkv8WBNBtpxVYqWrlGhkg9Y8x3d8z2eL8mM5XNssmCvTIckgZal64zOVfltSVBmvZBC2GDJgm+ezfq68kSrmHDogI3SDFlkoOpuKWRm2rQ93ydO6kQ4mUaXhTIVLTImHOUddZD20LnSg96Sohg4iB5I7Nu7xl3S73MVdXT4ClMxsAFcaozDNB89+Y/NJPJiYuWFJXlScwuxlOhEUSlabw9P5UScREplHDUoalVeCHawu1SZApaC1AZzvRQtFbe9XJ8tko9NmghRYS3jBYHZz1oyy8YYEUzDaQaOIRghq+NsNcZFg8WdheMIUGTtibGj2Aw=;hwkWhnHHePj0M5yoy99CWA=="
 ---
 

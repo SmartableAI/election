@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-28-professional-political-survivor-mike-pence-tests-if-theres-any-room-left-for-him-in-a-trump-republican-party.md",
+      "title": "Professional political survivor Mike Pence tests if there's any room left for him in a Trump Republican Party",
+      "excerpt": "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4",
+      "originalUrl": "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg",
+          "width": 847,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-melania-trump-thanks-supporters-who-sent-her-wonderful-birthday-messages.md",
       "title": "Melania Trump Thanks Supporters Who Sent Her 'Wonderful' Birthday Messages",
       "excerpt": "Melania Trump said she is thankful for the supporters and social media users who remembered her on her 51st birthday on Monday.",
@@ -1301,54 +1354,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine.md",
-      "title": "Trump gives thumbs up on Post’s push for lifesaving COVID vaccine",
-      "excerpt": "The Post’s push to get New Yorkers to roll up their sleeves and get vaccinated against the coronavirus is drawing a big thumbs-up from Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/22/trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine/",
-      "originalUrl": "https://nypost.com/2021/04/22/trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/thumbs-up-on-posts-push-for-vaccines-index.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/22/trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/22/trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine/amp/",
-      "publishedDateTime": "2021-04-22T17:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-29-cheney-says-shell-campaign-on-impeaching-trump-every-day-of-the-week-amid-primary-challenges.md",
+      "title": "Cheney says she'll campaign on impeaching Trump 'every day of the week' amid primary challenges",
+      "excerpt": "Rep. Liz Cheney said in an interview with Punchbowl News Thursday that she will stand behind her vote to impeach former President Donald Trump \"every day of the week\" as she faces multiple primary challengers in her 2022 reelection effort. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oU9HcI6QFdc/cheney-campaign-impeaching-trump-primary-challenges",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oU9HcI6QFdc/cheney-campaign-impeaching-trump-primary-challenges",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cheney-campaign-impeaching-trump-primary-challenges.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-campaign-impeaching-trump-primary-challenges.amp",
+      "publishedDateTime": "2021-04-29T08:05:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-biden-traveling-to-voting-rights-hot-spot-georgia-to-promote-plans-to-rebuild-economy.md",
       "title": "Biden traveling to voting rights hot spot Georgia to promote plans to rebuild economy",
       "excerpt": "President Joe Biden marks his 100th day in office with a trip to Georgia on Thursday, visiting former President Jimmy Carter and pitching his plans to spend trillions of dollars to rebuild the U.S. economy.",
@@ -753,7 +809,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616",
       "featuredContent": null,
       "highlight": null,
-      "heat": 820,
+      "heat": 840,
       "tags": null,
       "images": [
         {
@@ -1282,59 +1338,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-professional-political-survivor-mike-pence-tests-if-theres-any-room-left-for-him-in-a-trump-republican-party.md",
-      "title": "Professional political survivor Mike Pence tests if there's any room left for him in a Trump Republican Party",
-      "excerpt": "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4",
-      "originalUrl": "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg",
-          "width": 847,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
       ]
     }
   ],

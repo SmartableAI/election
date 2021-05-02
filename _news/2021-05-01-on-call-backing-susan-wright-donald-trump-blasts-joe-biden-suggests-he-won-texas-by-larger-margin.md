@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Joe Biden raises minimum wage to $15 an hour for federal contractors"
-excerpt: "President signed an executive order that will provide a pay bump to thousands of workers, some who make as little as $10.95 an hour"
-publishedDateTime: 2021-04-27T23:10:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/apr/27/joe-biden-minimum-wage-raise-federal-contractors"
-webUrl: "https://www.theguardian.com/us-news/2021/apr/27/joe-biden-minimum-wage-raise-federal-contractors"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/27/joe-biden-minimum-wage-raise-federal-contractors"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/27/joe-biden-minimum-wage-raise-federal-contractors"
+title: "On call backing Susan Wright, Donald Trump blasts Joe Biden, suggests he won Texas by larger margin"
+excerpt: "Donald Trump on Thursday used his endorsement of Republican congressional candidate Susan Wright to blast President Joe Biden and the Democratic"
+publishedDateTime: 2021-05-01T01:46:00Z
+originalUrl: "https://www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/"
+webUrl: "https://www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/"
+ampWebUrl: "https://www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/?outputType=amp"
+cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/?outputType=amp"
 type: article
-quality: 125
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Dallas Morning News
+  domain: dallasnews.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/a4a9f1cfc7e18030a47033c96025932d63f24223/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4370a6b535660a7964baab66405bc61e"
-    width: 600
-    height: 360
+  - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/13aDcKY2U3Vd0kTBMaV7dzXTprU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/6VNBUQ23BJCSJP36MZYIKOFCOA.JPG"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -204,6 +200,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_46dccf9bbab04bf48a8603ee063bc032_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Joe Biden raises minimum wage to $15 an hour for federal contractors"
+    excerpt: "President signed an executive order that will provide a pay bump to thousands of workers, some who make as little as $10.95 an hour"
+    publishedDateTime: 2021-04-27T23:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/27/joe-biden-minimum-wage-raise-federal-contractors"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/27/joe-biden-minimum-wage-raise-federal-contractors"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/27/joe-biden-minimum-wage-raise-federal-contractors"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a4a9f1cfc7e18030a47033c96025932d63f24223/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4370a6b535660a7964baab66405bc61e"
+        width: 600
+        height: 360
         isCached: true
   - title: "Senate panel approves Biden nominees to Postal Service board"
     excerpt: "A Senate committee has approved President Joe Biden’s three nominees to the U.S. Postal Service's governing board"
@@ -460,22 +472,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "On call backing Susan Wright, Donald Trump blasts Joe Biden, suggests he won Texas by larger margin"
-    excerpt: "Donald Trump on Thursday used his endorsement of Republican congressional candidate Susan Wright to blast President Joe Biden and the Democratic"
-    publishedDateTime: 2021-05-01T01:46:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 76
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/13aDcKY2U3Vd0kTBMaV7dzXTprU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/6VNBUQ23BJCSJP36MZYIKOFCOA.JPG"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "US President Joe Biden to visit UK for first overseas trip"
     excerpt: "The president will come to Cornwall for the G7 summit from 11-13 June, where he will meet with other world leaders, including Prime Minister Boris Johnson."
     publishedDateTime: 2021-04-24T11:33:00Z
@@ -548,6 +544,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "8XR+8gXPKIKZA2LQLX0yBAMktqiVg62DqBrA/wXXGG/SraFkVp7NLhF6L7uN9nB2GDmEr3N1ncO75u/X/rnK7rH0gMPDBYNMA0mYB9m7kPgc9ld1zAcFBp1P413yNiKsj79LGkeXOue2nhCVa+VdQzb5RJbu8VUYjnFtQDWnmw50GXevstkG7srNTUdE1tDL1IMXWkvLRIejq6ZuIQoDwC1t1MrhsmDjWYNjONr4VqbSlfehJsvCrfu0VhzB6oD6S21HF7O/zEkZsbW31+UZL2YycTjTrmpE03WSciLBsu4q2+gyU9jUqB+7FWVoxdtniCV00/STR6dLDHnErKwxNxWHmAPxLbl9qkJHdoST9wLV58HH5ydFr7o0R1iWeF000d8lMI/PrA4xUokDw1M/rjVCj8jnz3vxwIVBCcCvL5yJiE955CWwheajrwneuVim9fxbFrzuh6RtSvvfAW1hgcXyMgIU3LH8VgWTTIXSA2cGOryd9f9iVHLO0wKUCG5XwS/12gk4JcVDHbSY8wl5lw==;uBZNBIVkZ8mwY7Z5IWH4bA=="
+secured: "+KzaZF7yJKrXRrSuPhy009n/gAFSZy3yN/LbFZxJHpcPh8nuntljcxjYArnUf+Z3KMTDDppfonM+quzDmrd1H7bTuBoeDYdAF18whNg/SPVDYH5GLPIT8HScTdYwEX214q+tjfKGgvUmjWt5o1J0/xSpYvC5JsPcx1d+LQXtsfGdZD7gploh+Mypq71U4t3SeVztDWO7HQyww722HPtSj/Tx5OD+2Nig/TLrrJRi/ST8xc+a01ssM+kGYQE+SKq0iKd6gyiIL40g/6I5PmQRdbPEdeU576XAbU+VaRofsxBF9XOuVqZzWW2Cqa6eTtOSDVCrQM9yolsR7vrmtcAzkvDLCFs+4B44TgkClrzRYu4=;/VKouaqcJsNWtYharmUgyg=="
 ---
 
