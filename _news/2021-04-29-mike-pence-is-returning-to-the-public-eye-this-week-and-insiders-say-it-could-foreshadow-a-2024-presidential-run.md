@@ -163,6 +163,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Mike Pence, potential 2024 presidential candidates coming to Texas for GOP fundraising blitz, donor appreciation event"
+    excerpt: "Former Vice President Mike Pence and several other potential 2024 presidential candidates are descending upon Texas next week to thank donors to the 2020 campaign here and to help raise"
+    publishedDateTime: 2021-04-30T19:03:00Z
+    webUrl: "https://dentonrc.com/ap/state/mike-pence-potential-2024-presidential-candidates-coming-to-texas-for-gop-fundraising-blitz-donor-appreciation/article_4c6c32a7-0c1d-5c04-a46a-a2e4a4ececce.html"
+    type: article
+    provider:
+      name: Denton Record-Chronicle
+      domain: dentonrc.com
+    quality: 31
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/dentonrc.com/content/tncms/assets/v3/editorial/7/70/770601d4-d4f4-5488-ae15-5ace26f3ef67/608c5ef63aa24.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "+XviqLom34JyWS/QLic8nz5QmWmO9yoqdvlqa7+3BkDwnnVk0dnNcqwl12GbMOfOaFs4zv6OOP4N5DQ3in6FNuCd+U7K1Barmju94wamIL3fRYNGNoNdOho0FGTkMfbv8BCg5kdcW5BtW31INdnwmh+nD2Mvu85Uvjt7jvjc+NXQ34YuXMtbbR8uuNnB+CHptPK/+INKNjXNXLXALaVRMKlp72Qy0JRTf107KWPEJ81e/pEtP30tWi5Y6+u5FoHl5pUlK1VmErSfpYvT8nCIlUMMvLmzZzlJhy4Vh+M2L9+I+B2qYC8sAkX6MRIav20P5HJNJ/5Sn874oV6dct2NPWdXxuCNJlVMOBg7f3xcIfgLdZTGcsgTp6iNQBd8CbbzFW8tZDvSbkTFl3lKUR6IYkjohkQmII2flczEMdzXtB/wREJt9gCzOHnu5GA/Qc/PxlklobTioju32WRRymVh/9Rn2u363XGEKL8u4LXSCnSlR73GJmUQe32KvxT56eeIqXF4dLdm841eejH5LqtaUA==;tiEx01Niq8+B17v03/CqcQ=="
 ---

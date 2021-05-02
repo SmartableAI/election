@@ -105,6 +105,15 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Trump-Backed Candidate Heads to Runoff in Texas Special Congressional Election"
+    excerpt: "A Texas Republican backed by former President Donald Trump has advanced to a runoff election to fill a U.S. House of Representatives vacancy left by the death of her husband, while Democrats appeared in danger of being shut out of the contest."
+    publishedDateTime: 2021-05-02T13:38:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-02/trump-backed-candidate-heads-to-runoff-in-texas-special-congressional-election"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
 
 secured: "pqbs6HFjiyCTrg1B7ocC0pz44XSyYAzHOgvbskaQ8y44jYvOMZgaOBQlq0zkA3x4Gc+bXhXMSfx1teO7LMd9p3//+iR5nCd/pBbafIg5dDBCaiHFZwmt3g//ppW+V7H2oZX4riWgDhmlXJFqxuip0x9dGW0JzkvUw4SaKzZUk8QQJ2NmKBZJFoKJGW3jc7v+mGWFzFAEQXcvTLbo4gPd/5Nvn9Qwb4xdvSUi9FAm31Ebbk+//Misieu6Cqt2t6c0N84UjDRZ15xHZ/mEPqMjy+a38QiabvN5JxOhsIhvAZjSVNzz8uQYU0HxgG+oevrywwqoh7mluMo9Q2GI34QlMkQIAQQCRWHJz0OwOj7zdF28wSRmx2iJy5kmGbeZWQN+NwFxs7Cn1PbQfUxj7KEu+cQLIF8Tn6ul9f8ivA8mjYO28AoS24aMbkfOD9x93gIVI9iSqvHbQeaMDfhAcK+n6cUHBcmuluVqksOsaTCro6MFrHL854LbonU6N2n0Im7hznx4JdUcnGIT66aIsATrCQ==;ThXefl8D2UMu5DpS9Pq7jA=="
 ---

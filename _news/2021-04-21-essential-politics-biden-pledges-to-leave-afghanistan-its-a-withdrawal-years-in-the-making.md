@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'Amtrak Joe' Biden pushes infrastructure in Philly"
+    excerpt: "Top News 'Amtrak Joe' Biden pushes infrastructure in Philly. Posted . President Joe Biden visited an Amtrak train station on Friday to promote his $1.9 trillion infrastructure pro"
+    publishedDateTime: 2021-05-01T00:32:00Z
+    webUrl: "https://www.reuters.com/video/watch/amtrak-joe-biden-pushes-infrastructure-i-id729379533"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210430&i=OVEAPZ467&r=OVEAPZ467&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Joe Biden’s first 100 insurrection-free days: ‘America is on the move’"
     excerpt: "Joe Biden’s first 100 days in office have been a cool breeze. No sociopathic tweets, no gaslighting, no drama. Biden speaks in civil, humble tones and treats even his political opponents with respect."
     publishedDateTime: 2021-04-30T12:47:00Z

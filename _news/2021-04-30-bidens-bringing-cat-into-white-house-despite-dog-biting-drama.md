@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-bringing-cat-white-house-dog
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-bringing-cat-white-house-dog-biting.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Border surge not Biden's fault despite lifting restrictions: White House chief of staff"
+    excerpt: "White House Chief of Staff Ron Klain said President Biden is not to blame for a surge in unaccompanied minors crossing the U.S. southern border."
+    publishedDateTime: 2021-05-02T16:40:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fHVaa4ZXLEM/biden-border-surge-child-migrants-ron-klain-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-surge-child-migrants-ron-klain-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-surge-child-migrants-ron-klain-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7863d233-045b-4ccb-843a-160e8bcd6f10/4873de4d-8a14-4fb6-91ab-8db8ca8fb2cf/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "sWdylMq7bZQUnFubsU6J79Dg9yCOkqOL3c89zfTR6g/7HVAF/8pRrrotFJ2TecPJdWhA1hO8Doxv7U8IzGmzyfX3CinZv6yM6LhFG5jQsGHi6wjkB8t5iHeQJgH8tUrGO/ViInn1VPt/zZf8jUT62iem5fIhKwr6M1WaUeaHBQQhe1pdbKZsea7DAkM6zL07w8ByReu968B0d+GDJoAMaUGuitlY9/BrfchoTpHN4+92Pna246m1H0wRwt5gv+AmrYIv5JSMLi6tEGIUYHejGo6vMDo94MV/ksXuirshBtXAimJ0CHb1/Ve77lLxKncsBfQDR78+txcZLu1uqlFf66+fVgxRqKhtTpgbWSHx7zQ=;AAobAR9XyFu5B/2uTdMi3w=="
 ---

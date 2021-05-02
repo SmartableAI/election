@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/trump-administration-accuses-obama
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-administration-accuses-obama-of-wiretapping-1/"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -106,6 +106,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Trump-Backed Candidate Heads to Runoff in Texas Special Congressional Election"
+    excerpt: "A Texas Republican backed by former President Donald Trump has advanced to a runoff election to fill a U.S. House of Representatives vacancy left by the death of her husband, while Democrats appeared in danger of being shut out of the contest."
+    publishedDateTime: 2021-05-02T13:38:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-02/trump-backed-candidate-heads-to-runoff-in-texas-special-congressional-election"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
 
 secured: "Lhl4GWK/JIRfygf5W9Vkdwv8Qp1VAuEYwq69zoI+96QBaUFhp8K2Mr4FEWMv3/KgsMHXkBaOZd0uT4SxIhPZ6LvQ0UZ+BsBEfpMtQzqasMcUz5siGlk5xUtT10qws+Fj4lV/FCWrlRBfbSwFBhhiA5f/DY4cMqY2m3NHEnD/Q9SNk9Wqvq/5y9fDDxpRwBOHEDuJqbJ6U3+KGJAIfdHVPlAbPaqdP+0FtqSPjP4FLlv6KYT9SpeDIzuiayuuROAvSRqnBZLkBMSC9YSc1HBrlN0dY3S4QQb+cpTFcN1GXxobnjkJ7VRKLCFwef148ArT54pSkhMFlyRlusCma0sJAIVVTJZsbgYlLkTVJyDK+FczfuLpWggK81hsj4uM4bXxtqXWqXJU2BFZ3touqSk7pdURuDpxpAapsavOync8xvO6x3AToqZqoAFGeJK2nTaIFHDSOWEM4e0iHJES2L8O0pQkUVU9o03c4b310PrhN64AMYY+1HXUg5++IppZa95YkjQg0bDm6SyzO5n4yd2i2g==;NDy7y1NEKepcpCIRjzOgyw=="
 ---

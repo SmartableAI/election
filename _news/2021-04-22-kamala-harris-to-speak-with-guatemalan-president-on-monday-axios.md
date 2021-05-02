@@ -1002,6 +1002,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris to be 1st vice president with Madame Tussauds wax figure"
+    excerpt: "Kamala Harris will become the first United States vice president to have a figure on display at the Madame Tussauds wax museum in New York City."
+    publishedDateTime: 2021-04-29T23:30:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harris-to-be-1st-vice-president-with-madame-tussauds-wax-figure/article_1f6082ed-8eb8-5a1f-bdf3-7123266b8d41.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-to-be-1st-vice-president-with-madame-tussauds-wax-figure/article_1f6082ed-8eb8-5a1f-bdf3-7123266b8d41.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-to-be-1st-vice-president-with-madame-tussauds-wax-figure/article_1f6082ed-8eb8-5a1f-bdf3-7123266b8d41.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/37/a37b81c5-cea0-56c7-8898-0815dd9e7c79/608b111b9aeeb.image.jpg?resize=1024%2C602"
+        width: 1024
+        height: 602
+        isCached: true
   - title: "Vice President Kamala Harris to visit Baltimore next week to mark Biden administration’s first 100 days"
     excerpt: "Vice President Kamala Harris will visit Baltimore next week to mark an early milestone for the Biden-Harris administration, according to the White House."
     publishedDateTime: 2021-04-24T01:45:00Z

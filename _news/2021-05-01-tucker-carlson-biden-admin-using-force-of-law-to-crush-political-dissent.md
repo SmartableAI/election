@@ -810,6 +810,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Cassidy defends 2017 tax cuts targeted by Biden, pointing to wage growth among low earners"
+    excerpt: "Sen. Bill Cassidy, R-La., on Sunday defended the Trump-era tax cuts that are being targeted by President Biden in his American Jobs Plan, pointing to wage growth among low-income earners."
+    publishedDateTime: 2021-05-02T16:03:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hN0PCj3WHrQ/cassidy-defends-2017-tax-cuts-targeted-by-biden-wage-growth"
+    ampWebUrl: "https://www.foxnews.com/politics/cassidy-defends-2017-tax-cuts-targeted-by-biden-wage-growth.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cassidy-defends-2017-tax-cuts-targeted-by-biden-wage-growth.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/255d4407-5979-4434-83a0-c313af26d5fd/cb1a0662-01c3-4c50-9e85-11650398cc65/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden Pentagon nominee faces scrutiny over resurfaced tweet as nomination heads to final vote"
     excerpt: "An old tweet from President Biden’s nominee to be the number three at the Pentagon has resurfaced as the nomination process heads to the Senate floor."
     publishedDateTime: 2021-04-22T22:37:26Z

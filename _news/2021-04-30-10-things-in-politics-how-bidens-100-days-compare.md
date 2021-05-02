@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-biden-100-days
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-biden-100-days-history?amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/9451bbda-308d-421f-86ca-ae896a838578/thumbnail/1200x630/6e4116a81676ae1ed279c898558c4423/cbsn-fusion-mike-pence-first-public-remarks-2021-04-28-thumbnail-704738-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "'Amtrak Joe' Biden pushes infrastructure in Philly"
+    excerpt: "Top News 'Amtrak Joe' Biden pushes infrastructure in Philly. Posted . President Joe Biden visited an Amtrak train station on Friday to promote his $1.9 trillion infrastructure pro"
+    publishedDateTime: 2021-05-01T00:32:00Z
+    webUrl: "https://www.reuters.com/video/watch/amtrak-joe-biden-pushes-infrastructure-i-id729379533"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210430&i=OVEAPZ467&r=OVEAPZ467&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Essential Politics: Biden pledges to leave Afghanistan. It’s a withdrawal years in the making."
     excerpt: "Biden is the third president to pledge to reduce or completely withdraw U.S. troops in Afghanistan. It's a promise that comes after two administrations' worth of effort."

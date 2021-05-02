@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pe
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -162,6 +162,20 @@ related:
       - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/04/Pence-Palmetto-Family-Council.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Mike Pence, potential 2024 presidential candidates coming to Texas for GOP fundraising blitz, donor appreciation event"
+    excerpt: "Former Vice President Mike Pence and several other potential 2024 presidential candidates are descending upon Texas next week to thank donors to the 2020 campaign here and to help raise"
+    publishedDateTime: 2021-04-30T19:03:00Z
+    webUrl: "https://dentonrc.com/ap/state/mike-pence-potential-2024-presidential-candidates-coming-to-texas-for-gop-fundraising-blitz-donor-appreciation/article_4c6c32a7-0c1d-5c04-a46a-a2e4a4ececce.html"
+    type: article
+    provider:
+      name: Denton Record-Chronicle
+      domain: dentonrc.com
+    quality: 31
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/dentonrc.com/content/tncms/assets/v3/editorial/7/70/770601d4-d4f4-5488-ae15-5ace26f3ef67/608c5ef63aa24.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
 
 secured: "m7IBBB2vyN4sZj+ZLxgbAVrzGrZBGfNRHODHb6fxjDRcSVve6lRvIb2fdjuFAo63YzM9Hv18kcTch+WgQxoyJHfiLs+bLp0xQAhZW5Qa8xR5LPuKJj+6zdP94BD+Kwf8mMPmK34iAIKukYUwdzBfcGV46kMpZMnf20S+mrhuxurH++g4cHBgT/u/7SfmjOkt2oOuDimen5S8miopnB6xLPvvDbbE8sSzxX0Jl3uMbyZqj4Z4bB1vBJa7aeJogntt8XGz2+lYdtQsczDVtNlYp2y9WX5VvnEqGqS2IpTXGfp3g1Y5e935vRUrJmDFFIClcdY46R7+XXRSuqTefa++svHseOJOXXUC/ewsCaGGDxWb/W9naSU669krZ5/5KT+VTVywqIvOtulhrjmoXS66VFj3zFg4WBArMr2wCHvqjkH/K/IC8vbZJpJuL/FhXlcEwTNYJt3awrmP3oVgePmi43s4XuC9kMrD+Qh07tq6ziKw/6qlcHT140OpP4lmgAZJ/OkP+/lt19DSzwJdcpiknQ==;UydjQMB7fDVOOp7P5IENIw=="
