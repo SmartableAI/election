@@ -2,6 +2,175 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-29-pence-makes-foray-back-into-political-debate-with-speech-to-sc-conservatives.md",
+      "title": "Pence makes foray back into political debate with speech to S.C. conservatives",
+      "excerpt": "The former vice president is going to a key presidential nominating state to launch his critique of Biden's first 100 days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/pence-makes-foray-back-political-debate-speech-s-c-conservatives-n1265850",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/pence-makes-foray-back-political-debate-speech-s-c-conservatives-n1265850",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2021_17/3468965/210429-mike-pence-se-1054a_1b399ede109376b37a55904d2d142da3.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1265850",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265850",
+      "publishedDateTime": "2021-04-29T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-most-certainly-manchin-raises-concerns-about-bidens-push-for-more-expansive-government.md",
+      "title": "'Most certainly': Manchin raises concerns about Biden's push for more expansive government",
+      "excerpt": "Sen. Joe Manchin, the powerful West Virginia Democrat, made clear Thursday that the aggressive vision for the federal government that President Joe Biden laid out to the nation must first face scrutiny in Congress, signaling the long slog ahead facing the White House's sweeping domestic agenda.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K1Csfmoz1l4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K1Csfmoz1l4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210223152543-joe-manchin-january-27-2021-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/29/politics/joe-manchin-biden-reaction/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/joe-manchin-biden-reaction/index.html",
+      "publishedDateTime": "2021-04-29T08:47:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-bidens-immigration-policies-hurt-environment-arizona-green-groups-react-to-state-ags-lawsuit.md",
+      "title": "Biden's immigration policies hurt environment? Arizona green groups react to state AG's lawsuit",
+      "excerpt": "Arizona Attorney General Mark Brnovich is suing the Biden administration for failing to examine the environmental effects of its immigration policies.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YHsDYT4QPRs/biden-immigration-environment-arizona-nepa-lawsuit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YHsDYT4QPRs/biden-immigration-environment-arizona-nepa-lawsuit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ada9c350-7eb8-4879-8743-c26265764a68/7f71219a-1627-48b2-98d2-7f7f7531e024/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-immigration-environment-arizona-nepa-lawsuit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-environment-arizona-nepa-lawsuit.amp",
+      "publishedDateTime": "2021-04-29T08:46:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-trump-says-florida-gov-desantis-would-be-considered-as-2024-running-mate.md",
       "title": "Trump says Florida Gov. DeSantis ‘would be considered’ as 2024 running mate",
       "excerpt": "Donald Trump revealed on Thursday that he is “100%” thinking about running for president again in 2024 and would “certainly” consider Florida Gov. Ron DeSantis as his running mate.",
@@ -605,7 +774,7 @@
       "originalUrl": "https://www.cbsnews.com/video/how-do-americans-feel-about-president-trump-1/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -865,7 +1034,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616",
       "featuredContent": null,
       "highlight": null,
-      "heat": 840,
+      "heat": 860,
       "tags": null,
       "images": [
         {
@@ -1174,170 +1343,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-not-an-easy-transition-inside-trumps-unconventional-first-months-out-of-office.md",
-      "title": "'Not an easy transition': Inside Trump's unconventional first months out of office ",
-      "excerpt": "Most Mondays and Tuesdays, former President Donald Trump skips golf to confer with aides about the week ahead.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pOEZBB6l-VI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pOEZBB6l-VI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210427170017-01-trump-manhattan-0309-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/28/politics/trump-post-presidency/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/trump-post-presidency/index.html",
-      "publishedDateTime": "2021-04-28T04:17:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-dc-officer-who-suffered-heart-attack-on-jan-6-calls-out-trump-for-downplaying-brutal-savage-riot.md",
-      "title": "D.C. officer who suffered heart attack on Jan. 6 calls out Trump for downplaying ‘brutal, savage’ riot",
-      "excerpt": "Michael Fanone, a D.C. police officer who suffered a heart attack and concussion in the insurrection, criticized former president Donald Trump and other politicians for downplaying the severity of the Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2021/04/28/michael-fanone-trump-gop-riots/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2021/04/28/michael-fanone-trump-gop-riots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KAPW7QCC5BESROR3ESOVZH2QP4.png&w=1440",
-          "width": 1440,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/04/28/michael-fanone-trump-gop-riots/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/04/28/michael-fanone-trump-gop-riots/?outputType=amp",
-      "publishedDateTime": "2021-04-28T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-tim-scott-what-to-know-about-republican-senator-giving-rebuttal-to-biden-address.md",
-      "title": "Tim Scott: What to know about Republican senator giving rebuttal to Biden address",
-      "excerpt": "Sen. Tim Scott is the junior senator from South Carolina and a rising star in the GOP.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GGq1oP7Fhy0/tim-scott-republican-response-biden-south-carolina",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GGq1oP7Fhy0/tim-scott-republican-response-biden-south-carolina",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11d83ee5-42e6-407a-a1ef-acb760a3c006/507e6206-8997-45de-9473-acc27728bd4a/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tim-scott-republican-response-biden-south-carolina.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tim-scott-republican-response-biden-south-carolina.amp",
-      "publishedDateTime": "2021-04-28T03:12:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

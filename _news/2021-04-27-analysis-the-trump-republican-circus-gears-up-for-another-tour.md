@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald-trump/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429152424-01-biden-100-days-cnnphotos-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: GOP leaders who defy Trump feel the heat from his base"
+    excerpt: "Months after voters ousted Donald Trump from the White House, the fractures within the GOP are in sharp relief as the party wrestles with its post-Trump identity and prominent Republicans who stood up to him after the January 6 insurrection are feeling heat from his base with primaries brewing ahead"
+    publishedDateTime: 2021-05-02T04:45:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gkEzko8LTxA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/02/politics/romney-cheney-trump-gop/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/02/politics/romney-cheney-trump-gop/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

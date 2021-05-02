@@ -293,6 +293,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Celebrity politicians test voter interest in post-Trump era"
+    excerpt: "From Ronald Reagan and Arnold Schwarzenegger to Al Franken and Donald Trump, there’s a rich history of celebrities trying out new careers in politics"
+    publishedDateTime: 2021-05-02T12:34:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/celebrity-politicians-test-voter-interest-post-trump-era-77448478"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/celebrity-politicians-test-voter-interest-post-trump-era-77448478"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/celebrity-politicians-test-voter-interest-post-trump-era-77448478"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_31c3a5f964704f5eb205a7f35a3c5fb8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Proposal to Rename State Park for Donald Trump Panned by Ohio State Agency"
     excerpt: "A proposal to rename an Ohio state park for former President Donald Trump is not supported by Ohio's Department of Natural Resources as the agency defended the park's current name, Mosquito Creek Lake."
     publishedDateTime: 2021-04-22T15:00:00Z

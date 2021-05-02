@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-02-us-bus-companies-are-poised-to-reap-the-rewards-of-joe-bidens-174-billion-ev-plan-if-they-can-crack-3-key-challenges.md",
+      "title": "US bus companies are poised to reap the rewards of Joe Biden's $174 billion EV plan — if they can crack 3 key challenges",
+      "excerpt": "Few industries were hit harder by the COVID-19 pandemic than bus companies, but White House plans for electrification could cause it to boom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/6-bus-companies-benefit-from-bidens-174-billion-ev-plan-2021-5",
+      "originalUrl": "https://www.businessinsider.com/6-bus-companies-benefit-from-bidens-174-billion-ev-plan-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/608c541335c46f0018c0bb06?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-02T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-02-nkorea-warns-us-of-very-grave-situation-over-biden-speech.md",
       "title": "NKorea warns US of 'very grave situation' over Biden speech",
       "excerpt": "North Korea has warned the United States will face “a very grave situation” because President Joe Biden “made a big blunder” in his recent speech by calling the North a security threat and revealing h",
@@ -103,63 +155,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-joe-biden-the-reverse-ronald-reagan.md",
-      "title": "Joe Biden, the Reverse Ronald Reagan",
-      "excerpt": "Biden Jr. — couldn’t possibly have predicted how President Ronald Reagan’s words would come to define politics for generations. But for the decades that followed, Mr. Biden, along with most of his party,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/01/us/politics/joe-biden-the-reverse-ronald-reagan.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/01/us/politics/joe-biden-the-reverse-ronald-reagan.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/01/multimedia/01onpolitics-reagan/01onpolitics-01-facebookJumbo.jpg",
-          "width": 504,
-          "height": 263,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/01/us/politics/joe-biden-the-reverse-ronald-reagan.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/01/us/politics/joe-biden-the-reverse-ronald-reagan.amp.html",
-      "publishedDateTime": "2021-05-01T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {

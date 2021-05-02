@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Progressive House members reflect on wins and losses in Biden's first 100 days"
+    excerpt: "Progressives in the House were apprehensive when Joe Biden stepped into office -- the President was an unabashedly moderate Democrat and ready to cut deals with Republicans, many of whom he had known longer than some progressive members of Congress had been alive.\n    \n"
+    publishedDateTime: 2021-05-01T18:06:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Fv25vtuRVcU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/liberals-describe-biden-relationship/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/liberals-describe-biden-relationship/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421172219-03-green-new-deal-presser-0420-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "iVCmLmn9hEJbrqcJe0FPUSSWOzveUDdilmzkw1m4Q5Uf1PEuX8BbZ+d0p/iW0Gt0FPnizSoreDjUsparTFGttPJ/ODPkRztTstqM5RW/8SL9O+YlJ/Np1azQhhRIrkAlt2VcZLJeOANFmm3WdEPF0J1oHjXDSQ1tKSLBhbGdDvhn0VKfNwh5AiQj50MkNJF68rd5hGvbb7uTMnaZHoV2zr5VxHU8CRq7tWfqKMUDYhGwvupv+yWR1LfNu5OLdsmgtFftBZiFCWADQpi7JScsA/OaXlpvyAdcgFNzmhlWFhDSRcF+1FSvmKdBA3QRTv6VCs9CckxsMeofwcV5I5qiEvW0rFsU+6vnDUMYocIHueQWwXnUF5rY9OCWCzSJnX1h0v5pfmxjuKf1Bzc5GrvlBRHzyae1nOXjbRWjIx+knwP49KoFcSABFKbO3aN+DPFOo3kcz9uSXATu8UYDI0TFk9SFuHgpdmfLBAZAAcWoh7BOn9NLrMeDVSEzeDY5MJX4TvJoSlNwz/AOo4pIkJiehg==;qnPQQLIW2XtBczsYrIrSqQ=="
 ---

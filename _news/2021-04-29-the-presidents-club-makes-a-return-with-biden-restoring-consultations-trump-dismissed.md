@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris to chair the National Space Council"
+    excerpt: "The Biden administration will maintain the National Space Council and Vice President Kamala Harris will chair it, according to senior administration officials, adding another item to the vice president's portfolio.\n    \n"
+    publishedDateTime: 2021-05-01T19:53:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5WXjm-srRTM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/kamala-harris-chair-national-space-council/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/kamala-harris-chair-national-space-council/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427164345-01-kamala-harris-file-0422-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris pitches American Jobs Plan during first extended economic speech since becoming VP"
     excerpt: "Kamala Harris on Monday delivered her first extended economic speech since becoming vice president, making a pitch for the Biden administration's infrastructure plan and touting the White House's accomplishments since President Joe Biden was sworn in.\n    \n"
     publishedDateTime: 2021-04-19T18:03:20Z
@@ -348,6 +364,22 @@ related:
     quality: 162
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428143651-kamala-harris-nancy-pelosi-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Letters bearing Biden's name and informing Americans of Covid relief payments arriving in mailboxes"
+    excerpt: "Letters signed by President Joe Biden have begun to go out notifying beneficiaries of their direct payments under the administration's Covid relief package, CNN has learned.\n    \n"
+    publishedDateTime: 2021-05-01T23:21:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2taR3hlmseM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/letters-covid-relief-biden-signature/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/letters-covid-relief-biden-signature/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210501211001-01-white-house-american-rescue-plan-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

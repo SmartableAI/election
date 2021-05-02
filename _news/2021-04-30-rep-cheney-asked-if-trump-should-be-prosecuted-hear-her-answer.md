@@ -31,83 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Texas congressional race showcases GOP fight over Trump, conspiracy theories and election lies "
-    excerpt: "Some Republicans in a crowded field of candidates competing for a US House seat in Texas ahead of a May 1 special election have embraced Donald Trump and his political legacy. A former professional wrestler is using the tagline \"make America Texas again\" as he warns \"commies in DC are ruining America.\""
-    publishedDateTime: 2021-04-30T11:36:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WqjrEkWIjVw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-special-election-trump-conspiracy-theories/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-special-election-trump-conspiracy-theories/index.html"
+  - title: "Liz Cheney says she won't support Trump if he runs in 2024"
+    excerpt: "Wyoming Rep. Liz Cheney, the No. 3 House Republican, said Wednesday she would not support Donald Trump if he decided to launch another White House bid in 2024.\n    \n"
+    publishedDateTime: 2021-04-15T00:03:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqJt3v3lcVk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-2024/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-2024/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 178
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429222942-texas-6th-district-special-election-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fractures in GOP on full display as Cheney faces renewed criticism for bucking Trump and disagreeing with McCarthy in public"
-    excerpt: "House Conference Chairwoman Rep. Liz Cheney is once again facing the ire of her colleagues and GOP voters, laying bare the ongoing and internal divisions within the GOP about how Republicans should move forward in the wake of former President Donald Trump.\n    \n"
-    publishedDateTime: 2021-04-30T17:58:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ACKQE6oxmLc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/liz-cheney-republican-reaction/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/liz-cheney-republican-reaction/index.html"
+  - title: "How the Trump era made redistricting more complicated"
+    excerpt: "The political upheaval caused by the rise of former President Donald Trump has forced party operatives and elected officials tasked with laying out the nation's congressional districts for the next decade to determine whether those shifts were aberrations or signs of more lasting changes.\n    \n"
+    publishedDateTime: 2021-04-18T22:04:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/USwTatmtgTs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 148
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205160111-01-liz-cheney-0203-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212145220-102-trump-file-play-button-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump gets tested in suburban Texas"
-    excerpt: "The 11 Republicans running in Saturday’s House special election have a wide range of opinions on the former president, ranging from Never Trump to Super MAGA."
-    publishedDateTime: 2021-05-01T11:00:00Z
-    webUrl: "https://www.politico.com/news/2021/05/01/texas-special-election-trump-484304"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/05/01/texas-special-election-trump-484304"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/01/texas-special-election-trump-484304"
+  - title: "Nikki Haley says she'll support and not challenge Trump if he runs in 2024"
+    excerpt: "Former UN Ambassador Nikki Haley on Monday said she would back her onetime boss, former President Donald Trump, if he decides to run for the Republican Party's presidential nomination again in 2024 and not mount a bid against him.\n    \n"
+    publishedDateTime: 2021-04-13T02:07:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2tNC4vgH2FM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/nikki-haley-donald-trump-2024/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/nikki-haley-donald-trump-2024/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210412215343-trump-haley-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How the Trump era made redistricting more complicated"
+    excerpt: "The political upheaval caused by the rise of former President Donald Trump has forced party operatives and elected officials tasked with laying out the nation's congressional districts for the next decade to determine whether those shifts were aberrations or signs of more lasting changes."
+    publishedDateTime: 2021-04-18T18:04:00Z
+    webUrl: "https://www.cnn.com/2021/04/18/politics/redistricting-post-trump-era/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
     quality: 135
     images:
-      - url: "https://static.politico.com/c6/84/8bebd2aa4992bf73c1b6b4800fc6/texas-trump-illo.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212145220-102-trump-file-play-button-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Court Could Consider Whether Trump Interfered in Cloud Computing Contract"
-    excerpt: "The decision could be a win for Amazon, which said it was passed over for the $10 billion Pentagon contract because of his animosity toward its founder, Jeff Bezos."
-    publishedDateTime: 2021-04-28T20:35:00Z
-    webUrl: "https://www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.amp.html"
+  - title: "What Liz Cheney has figured out about Donald Trump"
+    excerpt: "Wyoming Rep. Liz Cheney has planted a flag firmly against another Trump run in 2024, and while she may be lonely in that position in the GOP, the numbers seem to back her up. In this latest episode of The Point,"
+    publishedDateTime: 2021-04-22T14:29:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/04/22/liz-cheney-against-trump-2024-cillizza-the-point.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/22/liz-cheney-against-trump-2024-cillizza-the-point.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/22/liz-cheney-against-trump-2024-cillizza-the-point.cnn"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
+      name: CNN
+      domain: cnn.com
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/04/28/business/28jedi/merlin_161472645_b390071c-509b-4eca-a742-44668e12796f-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump’s Battle to Win the First 100 Days"
-    excerpt: "The former president has been on an increasingly manic crusade to knock his successor and buff his own battered legacy."
-    publishedDateTime: 2021-04-29T08:30:00Z
-    webUrl: "https://www.politico.com/news/magazine/2021/04/29/donald-trump-100-days-484926"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/7c/b1/a782d7494b8980672da54063c872/mag.Kruse.Trump100Days-lede_773override.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422101510-the-point-liz-cheney-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "9zjgmiSzKUtxNgD0lFVsxl9fagY2cW9wsEXcVO2bze+pK5wMYWug6NBZYidBcjuFPYUYGA9F4HSTB9ousnnNs0rTGBWhNsXKZH9EQ92uGnZI+j0F7Orvx2zrXEcRP+z03czK1bz8BmqjxEb/OSylC3uXF2FB22gzTZq6jnLDVtMe6UF2GsqG3a4vhITynrLJd9HRBPVTXVOKEIQ6hOddwZrBYRjRFpRjWMSFHCoA647hyKyQLynSRe3fgP8v4CKzw69RXN89HPKrcCoUPEhEdzKNwDk0oO8eow+0NN2RDF9Fyy1nKWvAB7H8uz7jkocw/wmPfHh9YSacZPydXVItiuff80R3rJi6x/jEazIFfX8=;0t4QRe8CAhENZDkAwZtKiA=="

@@ -93,6 +93,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Still Donald Trump's GOP? House Runoff Will Put His Leadership to the Test"
+    excerpt: "A special election in Texas' 6th Congressional District on Saturday saw a crowded field, including 11 Republicans, in the running to succeed Republican Rep. Ron Wright."
+    publishedDateTime: 2021-05-02T13:39:00Z
+    webUrl: "https://www.newsweek.com/still-donald-trumps-gop-house-runoff-will-put-his-leadership-test-1588127"
+    ampWebUrl: "https://www.newsweek.com/still-donald-trumps-gop-house-runoff-will-put-his-leadership-test-1588127?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/still-donald-trumps-gop-house-runoff-will-put-his-leadership-test-1588127?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1786229/american-cpac.jpg"
+        width: 3000
+        height: 2082
+        isCached: true
   - title: "Mike Lindell told Kimmel he still speaks to Trump once a month – most recently about Trump's border fears"
     excerpt: "MyPillow CEO Mike Lindell told Jimmy Kimmel he spoke to Donald Trump a few weeks ago. Trump was \"worried about what was going down at the border.\""
     publishedDateTime: 2021-04-29T12:58:00Z

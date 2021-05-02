@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: GOP leaders who defy Trump feel the heat from his base"
+    excerpt: "Months after voters ousted Donald Trump from the White House, the fractures within the GOP are in sharp relief as the party wrestles with its post-Trump identity and prominent Republicans who stood up to him after the January 6 insurrection are feeling heat from his base with primaries brewing ahead"
+    publishedDateTime: 2021-05-02T04:45:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gkEzko8LTxA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/02/politics/romney-cheney-trump-gop/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/02/politics/romney-cheney-trump-gop/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "lDL2viDQ4bCNTqoQ99bH/Hv/SzO1oC3ygFlEHQyx3elfpIkZ/+GTZbYYO5i7JVVgYRfzEfPWpsIhWpAVDlNvn+2UEDPY0Fdh987Oj+vIXffKdXX4cB3g2j5zkBmZO3UxrDm0GdbRVzRZF87MkfPD3lq0OluYvA/0oVDYNZNgMDBEIQVjUGc2K+oi45GeXHHZ4+KW/A+12HT/fXW3MVybwX3F5hl7ekePWkZLyKIUZrV24Qg+NRoAT7nIjKH5BCa2agl0fRsI9vhPcnkCkbZ6wSGD5iTVUT3Qj1mHibn7G6NwqG2P6UU8YzFLFR0oayTevDpkSHYJHQ+VoZUGK5iYYMzahj9P26od1hyuk1yQ3jMzge9YN3+4XIEYlMDQEojDGVeQV7y1WHfaoMynz5L+wwM/sr5VZ7IezyRqHhmHTeyebkWskzzBq8a8vaeVNLwglGkXAnaLuD3U+XKXSalCdtreDgzu218B20mFu7DECicT3xVaB6LxsSlFr6SDxEZ73k9FEnbfG/bLR1JphY1zSw==;u7nJQ/KsiCWH2t/Y2KlPzQ=="
 ---

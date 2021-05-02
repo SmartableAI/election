@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Still Donald Trump's GOP? House Runoff Will Put His Leadership to the Test"
+    excerpt: "A special election in Texas' 6th Congressional District on Saturday saw a crowded field, including 11 Republicans, in the running to succeed Republican Rep. Ron Wright."
+    publishedDateTime: 2021-05-02T13:39:00Z
+    webUrl: "https://www.newsweek.com/still-donald-trumps-gop-house-runoff-will-put-his-leadership-test-1588127"
+    ampWebUrl: "https://www.newsweek.com/still-donald-trumps-gop-house-runoff-will-put-his-leadership-test-1588127?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/still-donald-trumps-gop-house-runoff-will-put-his-leadership-test-1588127?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1786229/american-cpac.jpg"
+        width: 3000
+        height: 2082
+        isCached: true
   - title: "Former President Trump criticizes FBI search of Rudy Giuliani's home and office"
     excerpt: "Former President Donald Trump spoke out against the investigation into his personal attorney, Rudy Giuliani, after the FBI executed a search warrant at Giuliani's home and office as part of the probe into Giuliani's dealings with Ukraine."
     publishedDateTime: 2021-04-29T18:04:00Z

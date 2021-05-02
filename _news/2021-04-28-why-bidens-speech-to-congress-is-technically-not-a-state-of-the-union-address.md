@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Progressive House members reflect on wins and losses in Biden's first 100 days"
+    excerpt: "Progressives in the House were apprehensive when Joe Biden stepped into office -- the President was an unabashedly moderate Democrat and ready to cut deals with Republicans, many of whom he had known longer than some progressive members of Congress had been alive.\n    \n"
+    publishedDateTime: 2021-05-01T18:06:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Fv25vtuRVcU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/liberals-describe-biden-relationship/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/liberals-describe-biden-relationship/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421172219-03-green-new-deal-presser-0420-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "POLITICO Playbook: Why the next two weeks are critical for the Biden presidency"
     excerpt: "Get ready for a big two weeks from the Biden administration: bipartisan infrastructure talks today, a major Covid and vaccine update speech from President JOE BIDEN on Wednesday, and a two-day climate summit starting on Earth Day this Thursday when Biden will announce America’s 2030 emissions target."
     publishedDateTime: 2021-04-19T10:08:00Z

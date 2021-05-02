@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/liz-cheney-republican-re
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/liz-cheney-republican-reaction/index.html"
 type: article
 quality: 148
-heat: -1
-published: false
+heat: 148
+published: true
 
 provider:
   name: CNN
@@ -29,86 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Texas congressional race showcases GOP fight over Trump, conspiracy theories and election lies "
-    excerpt: "Some Republicans in a crowded field of candidates competing for a US House seat in Texas ahead of a May 1 special election have embraced Donald Trump and his political legacy. A former professional wrestler is using the tagline \"make America Texas again\" as he warns \"commies in DC are ruining America.\""
-    publishedDateTime: 2021-04-30T11:36:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WqjrEkWIjVw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-special-election-trump-conspiracy-theories/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-special-election-trump-conspiracy-theories/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 178
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429222942-texas-6th-district-special-election-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Rep. Cheney asked if Trump should be prosecuted. Hear her answer"
-    excerpt: "House Conference Chairwoman Rep. Liz Cheney is once again facing the ire of her colleagues and GOP voters after leaning in to greet President Joe Biden as he made his way down the aisle at his speech to a joint session of Congress. CNN's Manu Raju reports.\n    \n"
-    publishedDateTime: 2021-04-30T21:27:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t69Z6BCuTp4/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/30/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/30/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429105551-biden-liz-cheney-fist-bump-0428-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump gets tested in suburban Texas"
-    excerpt: "The 11 Republicans running in Saturday’s House special election have a wide range of opinions on the former president, ranging from Never Trump to Super MAGA."
-    publishedDateTime: 2021-05-01T11:00:00Z
-    webUrl: "https://www.politico.com/news/2021/05/01/texas-special-election-trump-484304"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/05/01/texas-special-election-trump-484304"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/01/texas-special-election-trump-484304"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/c6/84/8bebd2aa4992bf73c1b6b4800fc6/texas-trump-illo.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Court Could Consider Whether Trump Interfered in Cloud Computing Contract"
-    excerpt: "The decision could be a win for Amazon, which said it was passed over for the $10 billion Pentagon contract because of his animosity toward its founder, Jeff Bezos."
-    publishedDateTime: 2021-04-28T20:35:00Z
-    webUrl: "https://www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/28/business/28jedi/merlin_161472645_b390071c-509b-4eca-a742-44668e12796f-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump’s Battle to Win the First 100 Days"
-    excerpt: "The former president has been on an increasingly manic crusade to knock his successor and buff his own battered legacy."
-    publishedDateTime: 2021-04-29T08:30:00Z
-    webUrl: "https://www.politico.com/news/magazine/2021/04/29/donald-trump-100-days-484926"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/7c/b1/a782d7494b8980672da54063c872/mag.Kruse.Trump100Days-lede_773override.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "w6FNlGW4ZpzO50EisvGdtai2t2FcAj94PPuM/2PrCbMf5L+EKlQqwaaEr53KehfiL2xYy4LTNllfVRTIUZN7kme4KDH7fy7FhB+MZZMFMSS/zY3C5J4jFhJn5A+4edDZf656wHVlv0PxttfL3F5z/k6cVFl01ViuFQKFAmin7ggltsfR6FK0N2Ks6WVMAgDdo6c1+6bjAMFaWj6dcI8ILOyDc0QG2uLDRMvwFcRa2Jffba8J2Oa891NbrU4zuiirNes6H3SKXIQ/tB6nmrvjGtqVDOw5jwtOh655IXq3HeVbRrwlmLSQO4jf/8upTo1COh3knJQ40Fo6dp7of6K+Gqd+3TNaCfI+MqRqCmL1vL0=;U6gOMoMal8ZKOHwr2+AVRQ=="
 ---

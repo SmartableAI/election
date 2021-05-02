@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-special-election-trump-conspiracy-theories/index.html"
 type: article
 quality: 178
-heat: 278
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,83 +31,227 @@ images:
     isCached: true
 
 related:
-  - title: "Rep. Cheney asked if Trump should be prosecuted. Hear her answer"
-    excerpt: "House Conference Chairwoman Rep. Liz Cheney is once again facing the ire of her colleagues and GOP voters after leaning in to greet President Joe Biden as he made his way down the aisle at his speech to a joint session of Congress. CNN's Manu Raju reports.\n    \n"
-    publishedDateTime: 2021-04-30T21:27:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t69Z6BCuTp4/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/30/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/30/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
+  - title: "Biden administration releases Trump-era deadly force rules for terrorist suspects abroad"
+    excerpt: "The Biden administration disclosed Trump-era rules on Friday regulating the use of deadly force against terrorism suspects abroad, releasing them with several redacted lines to the American Civil Liberties Union and the New York Times as part of a Freedom of Information Act lawsuit after the Trump administration"
+    publishedDateTime: 2021-05-01T22:46:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TzaCLD3dTrc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/biden-administration-trump-counterterrorism-rules/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/biden-administration-trump-counterterrorism-rules/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190909124239-01-donald-trump-0904-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration completes North Korea review process"
+    excerpt: "The Biden administration has completed its months-long North Korea policy review, White House press secretary Jen Psaki announced Friday.\n    \n"
+    publishedDateTime: 2021-04-30T17:41:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WFLN6mdbJ18/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/north-korea-review-over/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/north-korea-review-over/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429105551-biden-liz-cheney-fist-bump-0428-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325142512-joe-biden-march-25-2021-01-super-tease.jpeg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fractures in GOP on full display as Cheney faces renewed criticism for bucking Trump and disagreeing with McCarthy in public"
-    excerpt: "House Conference Chairwoman Rep. Liz Cheney is once again facing the ire of her colleagues and GOP voters, laying bare the ongoing and internal divisions within the GOP about how Republicans should move forward in the wake of former President Donald Trump.\n    \n"
-    publishedDateTime: 2021-04-30T17:58:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ACKQE6oxmLc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/liz-cheney-republican-reaction/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/liz-cheney-republican-reaction/index.html"
+  - title: "Biden administration to restrict travel from India starting Tuesday"
+    excerpt: "The Biden administration will restrict travel from India starting on Tuesday on the advice of the US Centers for Disease Control and Prevention, a White House official told CNN.\n    \n"
+    publishedDateTime: 2021-04-30T19:08:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y7nLMURmpHo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/us-india-travel-restrictions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/us-india-travel-restrictions/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 148
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205160111-01-liz-cheney-0203-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210430011826-india-covid-0429-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump gets tested in suburban Texas"
-    excerpt: "The 11 Republicans running in Saturday’s House special election have a wide range of opinions on the former president, ranging from Never Trump to Super MAGA."
-    publishedDateTime: 2021-05-01T11:00:00Z
-    webUrl: "https://www.politico.com/news/2021/05/01/texas-special-election-trump-484304"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/05/01/texas-special-election-trump-484304"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/01/texas-special-election-trump-484304"
+  - title: "Bipartisan talks on infrastructure heat up as Biden prepares for big push"
+    excerpt: "As the White House intensifies conversations with key Republicans on infrastructure, a small, bipartisan group of senators is in the early stages of seeing if they might be able to break loose consensus on their own plan.\n    \n"
+    publishedDateTime: 2021-04-27T23:19:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oXqbUAyCKaE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/infrastructure-negotiations-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/infrastructure-negotiations-congress/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/171206163232-jon-tester-montana-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Major Biden receives special training to prepare for new White House cat"
+    excerpt: "Some Major news at the White House: Major Biden has made his return to 1600 Pennsylvania Avenue after training following two biting incidents, but he may soon have to adjust to another furry friend.\n    \n"
+    publishedDateTime: 2021-04-30T14:03:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H9oGT5kEcrw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/major-biden-cat/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/major-biden-cat/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324142609-01-major-biden-0323-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration announces new operation to crack down on human smuggling"
+    excerpt: "The Biden administration announced Tuesday an operation focused on disrupting transnational criminal organizations, including human smugglers who have facilitated the illegal crossings of migrants at the US-Mexico border.\n    \n"
+    publishedDateTime: 2021-04-27T17:00:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3VNw4AkoF3A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/human-smuggling-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/human-smuggling-border/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301130048-01-mayorkas-wh-briefing-0301-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Joe Biden to showcase his moderate radicalism in his big congressional address"
+    excerpt: "President Joe Biden's \"radical\" idea is that government is not the problem in America but the multi-trillion-dollar solution that can end the pandemic, equalize the economy and make life better for millions of working people.\n    \n"
+    publishedDateTime: 2021-04-28T11:38:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/In7SNqCeWkI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/joe-biden-joint-address-to-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/joe-biden-joint-address-to-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427140259-03-biden-remarks-0427-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "First lady's virtual joint address guests spotlight Biden administration priorities"
+    excerpt: "When President Joe Biden delivers his address to a joint session of Congress Wednesday night, first lady Jill Biden will forgo the traditional set of guests in the first lady's viewing box due to social distancing constraints in the House chamber amid the coronavirus pandemic. Instead, she will virtually"
+    publishedDateTime: 2021-04-28T20:21:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Iq3dLiLrotw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/jill-biden-joint-address-congress-guests/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/jill-biden-joint-address-congress-guests/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225143926-jill-biden-kelly-clarkson-divorce-advice-orig-mg-00000000-super-tease.png"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden reversed Trump on the Keystone XL pipeline. Native American groups want more."
+    excerpt: "Native American and Indigenous peoples groups said they know they have an ally in Biden. But they are all too familiar with the transient nature of executive action."
+    publishedDateTime: 2021-04-29T15:05:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-reversed-trump-keystone-xl-pipeline-native-american-groups-want-n1265025"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265025"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265025"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 144
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_17/3468441/210427-lance-fourstar-pipeline-mn-2355_93a536819881e413b0e4a349da88fc4a.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Democrats move to reinstate methane rules loosened by Trump"
+    excerpt: "Democrats and environmentalists called the methane rollback one of the Trump administration’s most egregious actions to deregulate U.S. businesses."
+    publishedDateTime: 2021-04-28T14:12:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/democrats-move-reinstate-methane-rules-loosened-trump-n1265640"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265640"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265640"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://static.politico.com/c6/84/8bebd2aa4992bf73c1b6b4800fc6/texas-trump-illo.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/201908/n_tur_levine_190829_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Court Could Consider Whether Trump Interfered in Cloud Computing Contract"
-    excerpt: "The decision could be a win for Amazon, which said it was passed over for the $10 billion Pentagon contract because of his animosity toward its founder, Jeff Bezos."
-    publishedDateTime: 2021-04-28T20:35:00Z
-    webUrl: "https://www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.amp.html"
+  - title: "How Biden's taxes hit the richest but skip the suburban base"
+    excerpt: "Analysis: Democrats see an opportunity to pit billionaires against even well-off professionals by taxing wealthy investors."
+    publishedDateTime: 2021-04-29T17:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/capital-punishment-how-biden-s-taxes-hit-richest-skip-suburban-n1265827"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265827"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265827"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_17/3468936/210429-biden-tax-proposal-mb-1431_de9c430d0055e6457033afb16c4a099c.JPG"
+        width: 3270
+        height: 2177
+        isCached: true
+  - title: "Joe Biden, the Reverse Ronald Reagan"
+    excerpt: "Biden Jr. — couldn’t possibly have predicted how President Ronald Reagan’s words would come to define politics for generations. But for the decades that followed, Mr. Biden, along with most of his party,"
+    publishedDateTime: 2021-05-01T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/05/01/us/politics/joe-biden-the-reverse-ronald-reagan.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/01/us/politics/joe-biden-the-reverse-ronald-reagan.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/01/us/politics/joe-biden-the-reverse-ronald-reagan.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 134
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/04/28/business/28jedi/merlin_161472645_b390071c-509b-4eca-a742-44668e12796f-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static01.nyt.com/images/2021/05/01/multimedia/01onpolitics-reagan/01onpolitics-01-facebookJumbo.jpg"
+        width: 504
+        height: 263
         isCached: true
-  - title: "Trump’s Battle to Win the First 100 Days"
-    excerpt: "The former president has been on an increasingly manic crusade to knock his successor and buff his own battered legacy."
-    publishedDateTime: 2021-04-29T08:30:00Z
-    webUrl: "https://www.politico.com/news/magazine/2021/04/29/donald-trump-100-days-484926"
+  - title: "Ex-Trump aide Stephen Miller's legal group sues Biden administration, alleging racism against white farmers"
+    excerpt: "The staunch anti-immigration advocate cited MLK while charging a program to help socially disadvantaged farmers and ranchers discriminates against whites"
+    publishedDateTime: 2021-04-28T20:38:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/ex-trump-aide-stephen-miller-s-legal-group-sues-biden-n1265663"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265663"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265663"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_44/3418080/201006-stephen-miller-ac-920p_a4adda3966398fb1cfcf84e464e7f581.jpg"
+        width: 2500
+        height: 1784
+        isCached: true
+  - title: "Biden appeals for unity to confront China"
+    excerpt: "The president appeals for unity to confront China and warns the threat of Islamic terrorism in Russia is still very real. — The search for a Navy secretary is focusing on a politically connected former Navy officer."
+    publishedDateTime: 2021-04-29T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/04/29/biden-appeals-for-unity-to-confront-china-794972"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/7c/b1/a782d7494b8980672da54063c872/mag.Kruse.Trump100Days-lede_773override.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "ifF9FcTJIT0/XTF7JznsFwgs0TBrB0DAkene2pHfNBvkJfx6fq7qJtvzEa2nLZkNJ5OhLksSAP5gxkxTNNqqDw6YHke0n2h8naaCemn58RQP8fARSPKISQAapNcsls48y2B9OWZSWjoHOfN+z6bRzyd2VYIlB02gkxIRYmIRMAvBQ+vWkScbI3RZOcpwYkvPVJ04k8dOQ1L0xT+/FJCD+tOr6qxRhGH7Ngm95XSQdHbF/3XkG71AYyocpEAXtLDjyxJLm9faEdZTMjkC7aal0RYZ+wksHwv06w3n08tJiTwXB4RFof70ouuvu7vCHXxwApBfO2GXcWzxkSwWfMVhvoo1iL4gTACVNqvfGxc8+iE=;qUZyGm+MdL4Br8qjdhTvCA=="

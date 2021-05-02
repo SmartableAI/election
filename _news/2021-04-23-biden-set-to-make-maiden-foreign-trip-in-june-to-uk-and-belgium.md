@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-fo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-foreign-trip/index.html"
 type: article
 quality: 175
-heat: 635
+heat: 535
 published: true
 
 provider:
@@ -191,38 +191,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Bipartisan talks on infrastructure heat up as Biden prepares for big push"
-    excerpt: "As the White House intensifies conversations with key Republicans on infrastructure, a small, bipartisan group of senators is in the early stages of seeing if they might be able to break loose consensus on their own plan.\n    \n"
-    publishedDateTime: 2021-04-27T23:19:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oXqbUAyCKaE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/infrastructure-negotiations-congress/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/infrastructure-negotiations-congress/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/171206163232-jon-tester-montana-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Major Biden receives special training to prepare for new White House cat"
-    excerpt: "Some Major news at the White House: Major Biden has made his return to 1600 Pennsylvania Avenue after training following two biting incidents, but he may soon have to adjust to another furry friend.\n    \n"
-    publishedDateTime: 2021-04-30T14:03:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H9oGT5kEcrw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/major-biden-cat/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/major-biden-cat/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324142609-01-major-biden-0323-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to push ambitious economic plan in first prime-time address to Congress"
     excerpt: "President Joe Biden will deliver his first address to a joint session of Congress on Wednesday night, hoping to build on the trust he engendered by accelerating the nation's response to the Covid-19 pandemic to convince Americans that they should back his ambitious plans to tackle income inequality in"
     publishedDateTime: 2021-04-28T21:56:10Z
@@ -252,22 +220,6 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/130219144014-universal-preschool-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Joe Biden to showcase his moderate radicalism in his big congressional address"
-    excerpt: "President Joe Biden's \"radical\" idea is that government is not the problem in America but the multi-trillion-dollar solution that can end the pandemic, equalize the economy and make life better for millions of working people.\n    \n"
-    publishedDateTime: 2021-04-28T11:38:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/In7SNqCeWkI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/joe-biden-joint-address-to-congress/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/joe-biden-joint-address-to-congress/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427140259-03-biden-remarks-0427-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -335,22 +287,6 @@ related:
         width: 2500
         height: 1350
         isCached: true
-  - title: "How Biden's taxes hit the richest but skip the suburban base"
-    excerpt: "Analysis: Democrats see an opportunity to pit billionaires against even well-off professionals by taxing wealthy investors."
-    publishedDateTime: 2021-04-29T17:36:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/capital-punishment-how-biden-s-taxes-hit-richest-skip-suburban-n1265827"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265827"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265827"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_17/3468936/210429-biden-tax-proposal-mb-1431_de9c430d0055e6457033afb16c4a099c.JPG"
-        width: 3270
-        height: 2177
-        isCached: true
   - title: "Pro-Biden Group to Begin Ad Campaign Promoting His Agenda in Swing States"
     excerpt: "Building Back Together will highlight the president’s coronavirus response and his economic plan and will contrast his measured approach to his bombastic predecessor’s."
     publishedDateTime: 2021-04-30T09:00:00Z
@@ -366,20 +302,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/04/30/us/politics/30-BIDENAD/30-BIDENAD-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Biden appeals for unity to confront China"
-    excerpt: "The president appeals for unity to confront China and warns the threat of Islamic terrorism in Russia is still very real. — The search for a Navy secretary is focusing on a politically connected former Navy officer."
-    publishedDateTime: 2021-04-29T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/04/29/biden-appeals-for-unity-to-confront-china-794972"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
   - title: "Europe's backsliding democracies undermine Biden's united front"
     excerpt: "President Joe Biden told Congress he wants to show that “democracy can deliver” after the United States “stared into an abyss of autocracy and insurrection.” But from France to Poland to the Balkans,"
