@@ -3,8 +3,8 @@ category: news
 title: "After 100 Days, Mike Pence Speaks: Biden Threatens Progress \"We\" Made Under Trump"
 excerpt: "Former Vice President Mike Pence called for conservatives to unite in opposition to President Biden's agenda during his first public speech since leaving office Thursday in South Carolina. Pence referred to progress \"we\" made under the Trump administration after publicly breaking with Trump during and after the January 6 riot."
 publishedDateTime: 2021-04-30T12:16:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/04/30/after_100_days_mike_pence_makes_first_public_remarks_biden_threatens_to_derail_progress_we_made.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/04/30/after_100_days_mike_pence_makes_first_public_remarks_biden_threatens_to_derail_progress_we_made.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/04/30/after_100_days_mike_pence_makes_first_public_remarks_biden_threatens_to_derail_progress_we_made.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/04/30/after_100_days_mike_pence_makes_first_public_remarks_biden_threatens_to_derail_progress_we_made.html"
 type: article
 quality: 90
 heat: -1
@@ -1243,6 +1243,6 @@ related:
         height: 2901
         isCached: true
 
-secured: "aEWLWUqp8akkq1XR7my36A3Br9PCnHcbVVorrTM5io/vwWTQz8dLQHpw1bUgvxt8p5yRfRpT8ZOSfqNwQJGIH3ePXUgq8BX63loF57cF/ooA2RldUPlj/svh/fI7O7FUnk8z3NdUXOz5JArTEV0rIhJB9kvYueBOfwpVuBn50SMD7j7skruyVl/XfbJwyVbbsR5EzdoeYbBzSg0QZGm3Ubko8s1k1N2copKx8Nes/XyZKPoRYccd30XxgeNVznvUekr/acwb9CrIQFdLn7OLBzgJm0h4NmUeexh/DmfK9iXngzmOF/61nh/JY78Jzi53cUN2fxEID/TWraE0h7Vs8S/3ERJPo+h0LkH4brmktI4=;luBNOAY1L/6hdlhn0816PQ=="
+secured: "lIH0eGfPaHwvCTECdsc+YsazolToA3ook2YsSnN2yfO47+eQqzUhWHVS4MgOHNbT+CcziFbS0w2OBMRdBOk0GQDxzrutmy3Bqy1RN0W7dUpqtAACppxBp0LawmBnOr2yuJYiVyt4OOZcATaarsGz+UP6kxG8bqAaPaFMVGgE8byAXo1tbsBgm6DOAmjEB7/rEhcktjyI8frpiCJUn9jYYBV82L8iHiLdP3QaWpF+a1DAaVNSkljeyCntn0NSBhViiLC7uig4yLGTRBvCTK8l/AEU7F2FzdyMWOXD0R41utvVTIqO0gQ7akbPYgydumZyDfC58lExJaRXRHYhSvGg8lN1Y2POmxnzwoFXrz1M3/I=;Wg8CLixlBNQupdqG+HsFXQ=="
 ---
 
