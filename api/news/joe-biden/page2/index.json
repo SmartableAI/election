@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-22-biden-briefed-on-tragic-police-killing-of-makhia-bryant-white-house-says.md",
+      "title": "Biden briefed on ‘tragic’ police killing of Ma’Khia Bryant, White House says",
+      "excerpt": "Ma’Khia, 16, shot dead by police in Columbus, Ohio on Tuesday, minutes before jury announced guilty verdict in Chauvin murder case",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/21/makhia-bryant-killing-columbus-ohio-biden-briefing-white-house",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/21/makhia-bryant-killing-columbus-ohio-biden-briefing-white-house",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/04aa95a47f93798a660fb0419df4d7e053acc3fb/0_33_2000_1200/master/2000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6dfefbcaf13ea87747971103d69119bd",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/21/makhia-bryant-killing-columbus-ohio-biden-briefing-white-house",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/21/makhia-bryant-killing-columbus-ohio-biden-briefing-white-house",
+      "publishedDateTime": "2021-04-21T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-ap-sources-biden-to-pledge-halving-greenhouse-gases-by-2030.md",
       "title": "AP sources: Biden to pledge halving greenhouse gases by 2030",
       "excerpt": "President Joe Biden will pledge to cut U.S. greenhouse gas emissions at least in half by 2030 as he convenes a virtual climate summit with 40 world leaders",
@@ -1524,58 +1576,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-joe-biden-could-his-tax-plan-affect-us-investment-in-ireland.md",
-      "title": "Joe Biden: Could his tax plan affect US investment in Ireland?",
-      "excerpt": "The head of the country's inward investment agency, Martin Shanahan, described the Stripe investment as a \"phenomenal signal from Ireland and about Ireland\". But there's now a risk that the pipeline of investment from the US could dry up if President Joe Biden can lead a major change to global tax rules.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-europe-56692865?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_custom4=AFD12F22-9A8C-11EB-975F-DCB94744363C&at_medium=custom7",
-      "originalUrl": "https://www.bbc.com/news/world-europe-56692865?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_custom4=AFD12F22-9A8C-11EB-975F-DCB94744363C&at_medium=custom7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13308/production/_117900687_06ffc346-865c-4109-8912-654957eb9bfa.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/world-europe-56692865",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-europe-56692865",
-      "publishedDateTime": "2021-04-10T23:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

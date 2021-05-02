@@ -980,6 +980,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Trump tightens his grip on the GOP"
+    excerpt: "The last time the country came close to that level of optimism about the coming year was in December 2006.” More from ABC But DONALD TRUMP also had some wins this weekend — further signs he is cementing his grip on the GOP and exacting revenge on those Republicans who supported his impeachment."
+    publishedDateTime: 2021-05-02T15:15:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/05/02/trump-tightens-his-grip-on-the-gop-492681"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/cf/b3/f83bfb824f4cb13d2049eaee7e74/gettyimages-1304610165.jpg"
+        width: 700
+        height: 466
+        isCached: true
 
 secured: "kBxlMflRPeMMe5ADTRDXg+nk4bMCOqveTYBD0S6foDkSTxqT4RDr1577Ea455MZHxU5zXJL+iA6k9XCWVSVnYiXyJVRdsaAZtlPVhFCHO+sBjHu7DSjGwEHiGFlHm6JdAEnoktSDmHX3UvhTrdRyKh7dVyVSBxSE52s5t3EY1SXUa0hZ7rcWG9krPdNZ/lL/HkEWfFFCNM8CR1Rb371zf6vXeTawX/El1Pvu1/KErZjGeQW5eubgsh5X5BpoXd+KwhAQgBfCHsnFtWfWDYaLuuevXmUZTwSg1qMxHA84Cweso8DIQ1M1uh4lAPnF2XhYAtCSEqigxkzSoXq0cUmWSS5reaf7t2XMHK2tItaqlinTq2daDfU6TNe6AqtO6atN+pLMhh8a6CMOhjXQilEKexeJRwLJ2L4hRyaxu7Lz641L4tk+0rM5rQCmaRxzx8riiROTd0gniU13NLbvrypZEVeRBLXp9gW9NFbSRRvAV9ABVp2tBebt1J03WCAgAl+bO2jdrtainJuZGp00KHLLKg==;XkoOFCcj0GwI7vvhlKlzrw=="
 ---

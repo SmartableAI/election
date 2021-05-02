@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/12/politics/donald-trump-2024-joe-bi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/donald-trump-2024-joe-biden-legacy/index.html"
 type: article
 quality: 190
-heat: 1410
+heat: 1430
 published: true
 
 provider:
@@ -970,6 +970,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Trump tightens his grip on the GOP"
+    excerpt: "The last time the country came close to that level of optimism about the coming year was in December 2006.” More from ABC But DONALD TRUMP also had some wins this weekend — further signs he is cementing his grip on the GOP and exacting revenge on those Republicans who supported his impeachment."
+    publishedDateTime: 2021-05-02T15:15:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/05/02/trump-tightens-his-grip-on-the-gop-492681"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/cf/b3/f83bfb824f4cb13d2049eaee7e74/gettyimages-1304610165.jpg"
+        width: 700
+        height: 466
         isCached: true
   - title: "Not Your Usual Police Chief: Biden Picks Trump Critic to Run Border Agency"
     excerpt: "signaling an intent to bring a seismic cultural shift to an agency at the center of some of the more contentious policies of President Donald J. Trump, particularly the separation of thousands of migrant children from their families. Chief Magnus will be ..."

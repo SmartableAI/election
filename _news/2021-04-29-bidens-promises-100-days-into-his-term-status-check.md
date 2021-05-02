@@ -845,6 +845,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden economic adviser pushes global corporate tax minimum to counteract proposed US increase"
+    excerpt: "Council of Economic Advisers Chair Cecilia Rouse pushed for a \"global minimum tax\" on corporations."
+    publishedDateTime: 2021-05-02T14:36:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UNtiSBsNfcI/biden-corporate-tax-global-cecilia-rouse-hike"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-corporate-tax-global-cecilia-rouse-hike.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-corporate-tax-global-cecilia-rouse-hike.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/698f1871-53b2-40ac-bae8-2f12a48066bd/34493131-e4f5-4719-83a2-771920cd4618/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden hammered by border lawsuits in first 100 days as GOP state AGs take 'aggressive' approach"
     excerpt: "Republican state attorneys general are taking an aggressive approach to suing the Biden administration for its southern border policies."
     publishedDateTime: 2021-04-28T14:22:42Z

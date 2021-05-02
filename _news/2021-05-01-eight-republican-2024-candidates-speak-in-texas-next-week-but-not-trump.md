@@ -172,6 +172,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 59
+  - title: "After President Joe Biden’s first 100 days, two-thirds of Americans believe US headed in right direction"
+    excerpt: "A new poll shows almost two-thirds of Americans believe the country is headed in the right direction after President Joe Biden ’s first 100 days in office. The newest ABC News/Ipsos shows 64% are optimistic a few days after Biden reached the early milestone and just as the nationwide COVID-19 vaccination effort has significantly reduced deaths,"
+    publishedDateTime: 2021-05-02T15:24:00Z
+    webUrl: "https://www.masslive.com/politics/2021/05/after-president-joe-bidens-first-100-days-two-thirds-of-americans-believe-us-headed-in-right-direction.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/05/after-president-joe-bidens-first-100-days-two-thirds-of-americans-believe-us-headed-in-right-direction.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/after-president-joe-bidens-first-100-days-two-thirds-of-americans-believe-us-headed-in-right-direction.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 58
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AA7RDVDVBRHTVHZZIYNBYVBHAQ.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "khKbYsjUKUzQY12NvJtc5b1gc8Tkq/bkVa16O6EwEaLuTZ3Lo3eRnpQTVfH6zANkH/WRtQL3TqDqav+eZD4v4XMpgBJS9HEDaSYzh81D5Pd5/tSSO02bQ4/TK0ZxQeEiricYOyZqveX4pv75SIGYSN18s3f91d8vanWqYUv0C/qAUiR2BTDTXXhyw8ennPFL+EBV+iLPYQtdW6MDfdTADZWVqaJGfhrXVj7n1k3pATgkOoLlpmTcJ7h4V1DI14rXXyyO6UDFRdnoVBuNpbu2uAPdQmgSQTm0ukLnIYzTxCABe2I2CT/qp9Gi47P1Fu4gGqDYMYeVJQF/SJfYHtM8rCOirAuKWrc9EZQTuZGqK7Ih3lKCx8+PHol3TydLaQ7asXOTu22jW8cKdZZAAmaYyNfHQQ3UDZ8hpBQt3HQv/CeY1pWKeTgMJb0pH5tqaA4XqrhuwjiGtIpN07w3v8Xe/tjNgPKvKl5ea80JMoNTUYywCsaJuidYJA1uM2OVWo3l65Tw5mBu7qgdn9jiYukOHg==;zAfeFkQztKlYz1mzpOs2aw=="
 ---

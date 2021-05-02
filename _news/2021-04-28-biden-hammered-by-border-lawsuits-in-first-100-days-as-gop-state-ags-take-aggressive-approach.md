@@ -847,6 +847,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden economic adviser pushes global corporate tax minimum to counteract proposed US increase"
+    excerpt: "Council of Economic Advisers Chair Cecilia Rouse pushed for a \"global minimum tax\" on corporations."
+    publishedDateTime: 2021-05-02T14:36:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UNtiSBsNfcI/biden-corporate-tax-global-cecilia-rouse-hike"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-corporate-tax-global-cecilia-rouse-hike.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-corporate-tax-global-cecilia-rouse-hike.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/698f1871-53b2-40ac-bae8-2f12a48066bd/34493131-e4f5-4719-83a2-771920cd4618/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Hunter Biden still owns stake in Chinese firm 100 days into father's presidency, documents show"
     excerpt: "President Biden's son, Hunter Biden, still owns a stake in a Chinese private equity firm 100 days into his father’s presidency after the president pledged to prohibit family members from engaging in international business dealings, according to financial documents."
     publishedDateTime: 2021-04-30T18:59:22Z

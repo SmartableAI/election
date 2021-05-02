@@ -164,6 +164,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "After President Joe Biden’s first 100 days, two-thirds of Americans believe US headed in right direction"
+    excerpt: "A new poll shows almost two-thirds of Americans believe the country is headed in the right direction after President Joe Biden ’s first 100 days in office. The newest ABC News/Ipsos shows 64% are optimistic a few days after Biden reached the early milestone and just as the nationwide COVID-19 vaccination effort has significantly reduced deaths,"
+    publishedDateTime: 2021-05-02T15:24:00Z
+    webUrl: "https://www.masslive.com/politics/2021/05/after-president-joe-bidens-first-100-days-two-thirds-of-americans-believe-us-headed-in-right-direction.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/05/after-president-joe-bidens-first-100-days-two-thirds-of-americans-believe-us-headed-in-right-direction.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/after-president-joe-bidens-first-100-days-two-thirds-of-americans-believe-us-headed-in-right-direction.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 58
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AA7RDVDVBRHTVHZZIYNBYVBHAQ.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Eight Republican 2024 Candidates Speak in Texas Next Week, but Not Trump"
     excerpt: "Candidates Speak in Texas Next Week, but Not Trump WASHINGTON (Reuters) - A Republican Party event in Texas next week will hear from eight potential candidates for the party's presidential nomination in 2024,"
     publishedDateTime: 2021-04-30T21:50:00Z

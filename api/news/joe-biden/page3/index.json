@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-11-joe-biden-could-his-tax-plan-affect-us-investment-in-ireland.md",
+      "title": "Joe Biden: Could his tax plan affect US investment in Ireland?",
+      "excerpt": "The head of the country's inward investment agency, Martin Shanahan, described the Stripe investment as a \"phenomenal signal from Ireland and about Ireland\". But there's now a risk that the pipeline of investment from the US could dry up if President Joe Biden can lead a major change to global tax rules.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-europe-56692865?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_custom4=AFD12F22-9A8C-11EB-975F-DCB94744363C&at_medium=custom7",
+      "originalUrl": "https://www.bbc.com/news/world-europe-56692865?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_custom4=AFD12F22-9A8C-11EB-975F-DCB94744363C&at_medium=custom7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13308/production/_117900687_06ffc346-865c-4109-8912-654957eb9bfa.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-europe-56692865",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-europe-56692865",
+      "publishedDateTime": "2021-04-10T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-biden-sets-up-commission-to-study-expansion-of-supreme-court-live.md",
       "title": "Biden sets up commission to study expansion of supreme court – live",
       "excerpt": "Updated at 1.18pm EDT Buttigieg said he hadn’t met with Senator Joe Manchin, a conservative Democrat who is opposed to Biden’s plan to raise the corporate tax rate from 21% to 28%. He prefers a rate of 25%. Buttigieg wouldn’t say how the lower rate ...",
@@ -1557,63 +1609,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-brit-hume-calls-out-dishonest-politifact-for-grading-his-description-of-biden-as-senile-false.md",
-      "title": "Brit Hume calls out 'dishonest' PolitiFact for grading his description of Biden as 'senile' false",
-      "excerpt": "Fox News senior political analyst Brit Hume fired back Wednesday at the liberal-leaning PolitiFact for an October \"fact check\" attempting to debunk his description of then-Democratic presidential nominee Joe Biden as \"senile.\" \"Elderly people experiencing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/brit-hume-politifact-joe-biden-senile-false",
-      "originalUrl": "https://www.foxnews.com/media/brit-hume-politifact-joe-biden-senile-false",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/defd4564-7d3d-4be3-b577-46d0755716d1/0b2bd964-8a09-40cd-93c3-1e50f70bc81c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/brit-hume-politifact-joe-biden-senile-false.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brit-hume-politifact-joe-biden-senile-false.amp",
-      "publishedDateTime": "2021-03-31T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

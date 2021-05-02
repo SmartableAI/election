@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-expected-to-target-biden-as-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-expected-to-target-biden-as-he-makes-his-first-post-vice-presidency-speech.amp"
 type: article
 quality: 200
-heat: 1740
+heat: 1760
 published: true
 
 provider:
@@ -829,6 +829,22 @@ related:
     quality: 164
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b41173cd-4a19-4c11-b83b-0698bdc98d0b/eb5f09e3-d370-41c3-b756-0a6c9a328c15/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden economic adviser pushes global corporate tax minimum to counteract proposed US increase"
+    excerpt: "Council of Economic Advisers Chair Cecilia Rouse pushed for a \"global minimum tax\" on corporations."
+    publishedDateTime: 2021-05-02T14:36:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UNtiSBsNfcI/biden-corporate-tax-global-cecilia-rouse-hike"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-corporate-tax-global-cecilia-rouse-hike.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-corporate-tax-global-cecilia-rouse-hike.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/698f1871-53b2-40ac-bae8-2f12a48066bd/34493131-e4f5-4719-83a2-771920cd4618/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
