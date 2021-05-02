@@ -2,15 +2,67 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-02-north-korea-accuses-joe-biden-of-pursuing-hostile-policy-over-its-nuclear-programme.md",
-      "title": "North Korea accuses Joe Biden of pursuing 'hostile policy' over its nuclear programme",
-      "excerpt": "North Korea has hit out at the Biden administration as it prepares to unveil its strategy for dealing with Pyongyang and its nuclear programme. The foreign ministry said recent comments out of Washington showed President Joe Biden was intent on maintaining a \"hostile policy\".",
+      "path": "_news/2021-05-02-trump-nominates-christopher-wray-as-fbi-director.md",
+      "title": "Trump nominates Christopher Wray as FBI director",
+      "excerpt": "Former FBI Assistant Director Ron Hosko and CBS News justice reporter Paula Reid join CBSN to discuss President Trump's announcement that he will nominate Christopher Wray as FBI director.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-asia-56960008",
-      "originalUrl": "https://www.bbc.com/news/world-asia-56960008",
+      "webUrl": "https://www.cbsnews.com/video/trump-nominates-christopher-wray-as-fbi-director-1/",
+      "originalUrl": "https://www.cbsnews.com/video/trump-nominates-christopher-wray-as-fbi-director-1/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/02/18565c93-15fd-4ace-a66b-d5e94bdb74af/thumbnail/1200x630/d1def3f0929ee1e2a88417164d1fcd6e/0607-cbsn-fbidirectornominee-1330478-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/trump-nominates-christopher-wray-as-fbi-director-1/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-nominates-christopher-wray-as-fbi-director-1/",
+      "publishedDateTime": "2021-05-01T18:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-02-north-korea-accuses-joe-biden-of-pursuing-hostile-policy-over-its-nuclear-programme.md",
+      "title": "North Korea accuses Joe Biden of pursuing hostile policy over its nuclear programme",
+      "excerpt": "North Korea has hit out at the Biden administration as it prepares to unveil its strategy for dealing with Pyongyang and its nuclear programme. The foreign ministry said recent comments out of Washington showed President Joe Biden was intent on maintaining a \"hostile policy\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-asia-56960008.amp",
+      "originalUrl": "https://www.bbc.com/news/world-asia-56960008.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1293,58 +1345,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-10-things-in-politics-how-bidens-100-days-compare.md",
-      "title": "10 Things in Politics: How Biden's 100 days compare",
-      "excerpt": "I hope you'll take your turn when it comes. Here's what we're talking about: With Jordan Erb. 1. ONE HUNDRED PROOF: President Joe Biden has now passed the FDR-inspired first lap of his presidency. Insider decided to compare him with his more-modern ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/10-things-in-politics-biden-100-days-history",
-      "originalUrl": "https://www.businessinsider.com/10-things-in-politics-biden-100-days-history",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/608af05135c46f0018c0b494?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/10-things-in-politics-biden-100-days-history?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-biden-100-days-history?amp",
-      "publishedDateTime": "2021-04-30T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

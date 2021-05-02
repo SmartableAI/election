@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/how-do-americans-feel-about-presid
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/how-do-americans-feel-about-president-trump-1/"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/b375bccc-a264-4c3b-ba0a-9230d2206ffe/thumbnail/1200x630/ef4b250acb1ae3e7891c9eedf19255c9/0509-cbsn-vhd-1312519-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Bid to censure Romney for Trump impeachment votes fails"
+    excerpt: "Utah Republicans booed Sen. Mitt Romney but ultimately rejected a motion to censure him for his votes at President Donald Trump’s impeachment trials"
+    publishedDateTime: 2021-05-02T01:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/bid-to-censure-romney-for-trump-impeachment-votes-fails/2021/05/01/efb924f8-aae2-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/bid-to-censure-romney-for-trump-impeachment-votes-fails/2021/05/01/efb924f8-aae2-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bid-to-censure-romney-for-trump-impeachment-votes-fails/2021/05/01/efb924f8-aae2-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HADH3CFK4II6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Former President Trump criticizes FBI search of Rudy Giuliani's home and office"
     excerpt: "Former President Donald Trump spoke out against the investigation into his personal attorney, Rudy Giuliani, after the FBI executed a search warrant at Giuliani's home and office as part of the probe into Giuliani's dealings with Ukraine."

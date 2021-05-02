@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/pence-south-carolina/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/pence-south-carolina/index.html"
 type: article
 quality: 189
-heat: 269
+heat: 289
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210423211112-01-arizona-audit-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump continues baffling campaign schedule"
+    excerpt: "Rachel Maddow reports on Donald Trump's planned rally in the state of Washington and wonders again why Trump is devoting so much valuable campaign time in places where he is either guaranteed to win or has no chance of winning."
+    publishedDateTime: 2021-05-02T01:06:00Z
+    webUrl: "https://www.nbcnews.com/dateline/video/trump-continues-baffling-campaign-schedule-756494403639"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo43892805959"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo43892805959"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/MSNBC/Components/Video/201609/2016-08-30T01-57-37-8Z--1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "fa93eAwQGWVSBbBcPSezX4/O7jt8GT+aE/+sSFOI2OhsoVc1dP8QNDEdRoVt2yOYATsyCkk8BggKARDBcT1YWTYgtrDCJXuwegMKvPSpNEm13Lb1oaRX1Km40mgb1g8P69xdrP7cwO76QB/i2Jc+rpGqc69eB/e3NCFijLX6RdYB5+cavux/B8OY//dwPdvzhiEP+TDSD+DpTSE26VxQMgfp/abMEtOoXmprgvWjtDNa7qmSEqZyw5TRxQKI/Ym9SpoReuU8gXjX2QvjmlBSVc88rTxGw9AsCOIAPYps2gav4qE1OV0b84WkhD5zXIhrQ5MuIyATZ9ZUees29HBmXTBsLnYidcDN9GFnSx+3X8w=;wlP0lysHDXAEEVXbbyGnyg=="

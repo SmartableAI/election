@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Bid to censure Romney for Trump impeachment votes fails"
+    excerpt: "Utah Republicans booed Sen. Mitt Romney but ultimately rejected a motion to censure him for his votes at President Donald Trump’s impeachment trials"
+    publishedDateTime: 2021-05-02T01:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/bid-to-censure-romney-for-trump-impeachment-votes-fails/2021/05/01/efb924f8-aae2-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/bid-to-censure-romney-for-trump-impeachment-votes-fails/2021/05/01/efb924f8-aae2-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bid-to-censure-romney-for-trump-impeachment-votes-fails/2021/05/01/efb924f8-aae2-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HADH3CFK4II6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Mike Lindell told Kimmel he still speaks to Trump once a month – most recently about Trump's border fears"
     excerpt: "MyPillow CEO Mike Lindell told Jimmy Kimmel he spoke to Donald Trump a few weeks ago. Trump was \"worried about what was going down at the border.\""
     publishedDateTime: 2021-04-29T12:58:00Z

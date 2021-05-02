@@ -1,15 +1,15 @@
 ---
 category: news
-title: "North Korea accuses Joe Biden of pursuing 'hostile policy' over its nuclear programme"
+title: "North Korea accuses Joe Biden of pursuing hostile policy over its nuclear programme"
 excerpt: "North Korea has hit out at the Biden administration as it prepares to unveil its strategy for dealing with Pyongyang and its nuclear programme. The foreign ministry said recent comments out of Washington showed President Joe Biden was intent on maintaining a \"hostile policy\"."
 publishedDateTime: 2021-05-01T23:45:00Z
-originalUrl: "https://www.bbc.com/news/world-asia-56960008"
-webUrl: "https://www.bbc.com/news/world-asia-56960008"
+originalUrl: "https://www.bbc.com/news/world-asia-56960008.amp"
+webUrl: "https://www.bbc.com/news/world-asia-56960008.amp"
 ampWebUrl: "https://www.bbc.com/news/world-asia-56960008.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-56960008.amp"
 type: article
-quality: 118
-heat: 118
+quality: 119
+heat: 119
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 576
     isCached: true
 
-secured: "H8jfCy/pQC+afQDNe/h6hol2KpjsByvi5Bv6MxmwDYu0/0JTvIPOSTIrj7c+jL7Zi43wSYl9X+ZxuIAjcQIS0N3il4TNlxovd//FadOVxdwgAFfZCuML1uRLxylPkIzHNH1jyvnImzED4tKn/IqJg/3DF2BoMU7EhyvPs+UPTwTzvfCo0ydH+cfg/9JZGhMkXdco/qgBN8NlF1wM4ek3rodjkdoZI+ExDXxFsLyc3t4tWArwRlw3bW+PKwsNaMDDRuhU/iT37B4IDZD7DS19mP3jgtNRbUnoqyNegriYeiYXtcP5kF63YQGjZC31l9Hu+tict++EjXNV0qaWmEVAQP05hqbJQRRymvjS51/6ELo=;SzNt7ObgexmiD0mP6KLQCA=="
+secured: "qaQCLjnR8IzvK1AayWmllRCYWlySSdYNRDXdnBHR+e053ZyhdULMfXkfT3orNLRFDzuTHTFQSUC/pqFvb3IqY2sw41abikecAjqUBrJFz3mf2BV4Rj7i8obmtfV4U2ChSLu79MzkdGqg3A1T/2+UvCOUS2IBicdXABM9h1fC+alVAvPcHJASa28rMDFlfSWUiY5cixfmsGwVTgXhwGWpN/MhR9cwUuaXZwtY21OeQtyZzi8gVOyeghXL70V4mAt7rX+R23Euz5QscBqg1q6u6a+HX/RgnnGnqwZM1iqdTkwXuXjAJa2R6W7PSwtkCwiifkOEDLGPtZA14VLu2fijJwu28zvEBz1C3vwZW4HuBLw=;z9toRWfYV6Re1pHkkPa46w=="
 ---
 

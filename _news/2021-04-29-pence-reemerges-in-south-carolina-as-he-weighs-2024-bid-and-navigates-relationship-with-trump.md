@@ -97,6 +97,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump continues baffling campaign schedule"
+    excerpt: "Rachel Maddow reports on Donald Trump's planned rally in the state of Washington and wonders again why Trump is devoting so much valuable campaign time in places where he is either guaranteed to win or has no chance of winning."
+    publishedDateTime: 2021-05-02T01:06:00Z
+    webUrl: "https://www.nbcnews.com/dateline/video/trump-continues-baffling-campaign-schedule-756494403639"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo43892805959"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo43892805959"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/MSNBC/Components/Video/201609/2016-08-30T01-57-37-8Z--1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "oN9QRWhKLscK8bygm2TiidzMb3d2JXZkn2478N6blgLmFxXZhe6M7f5Bjuls+JCNIZPjiKDIaq3NxSLRpQF5L4S3fsOewRGAHnvcKlsg+AR5/1a5uJOJCUHWqNQ+Cs1A4kF2xP6ZoSsEZM+6N2fMVDgLssHfW7PYR0f4BzCHmx5o8Cn4XlYzUJ1HrGKzIYo2vgDd4k8+hJmmCXtOw1Ps8f0mMWWky9Dkjl31w9mlUCOrEXkKsBVjlnHM4ZP5rbe+rKBQTtX7FuvIQGA7KUFr350CxqZu9/kzj+u53wsQ2uXuHOSSEy+hQch8SCFsI2UibaS6LCtcPJ4nXi0DlyDmV22XhEVtO+jqdWyQ+ZSF+RWVw7HDgFVk797LRT69BKmxeud96FRE7wo4HzZapYvS3YDocY7R0W8stThXKEpE8MBJVOpoMGtJo3dMZIzD8h7VazFEgaw+XDb3B6o0Ii4nrLdYtwuZMXG0skNc2JRXffvX9su9p6yPMLL22ixBfoeyuzvWlzs75UDSW+lX7tOyZA==;0fFyvkEhzOW4hUq97mWSLQ=="
 ---

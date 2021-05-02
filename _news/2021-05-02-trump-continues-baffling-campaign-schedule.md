@@ -1,33 +1,34 @@
 ---
 category: news
-title: "UV lights, cars with Trump bumper stickers and a lack of transparency illustrate ongoing GOP-driven ballot review in Arizona"
-excerpt: "At the Arizona State Fairgrounds in Phoenix, workers line up in their cars to check in with uniformed security. As each car files into the fairgrounds, they park next to the \"Crazy Times Carnival,\" complete with the familiar sights of summer — a Ferris wheel, funnel cake and balloon games.\n    \n"
-publishedDateTime: 2021-04-30T21:49:13Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RMhyJadYx0E/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RMhyJadYx0E/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/arizona-ballot-audit-republicans/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/arizona-ballot-audit-republicans/index.html"
+title: "Trump continues baffling campaign schedule"
+excerpt: "Rachel Maddow reports on Donald Trump's planned rally in the state of Washington and wonders again why Trump is devoting so much valuable campaign time in places where he is either guaranteed to win or has no chance of winning."
+publishedDateTime: 2021-05-02T01:06:00Z
+originalUrl: "https://www.nbcnews.com/dateline/video/trump-continues-baffling-campaign-schedule-756494403639"
+webUrl: "https://www.nbcnews.com/dateline/video/trump-continues-baffling-campaign-schedule-756494403639"
+ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo43892805959"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo43892805959"
 type: article
-quality: 148
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210423211112-01-arizona-audit-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media1.s-nbcnews.com/i/MSNBC/Components/Video/201609/2016-08-30T01-57-37-8Z--1280x720.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -95,23 +96,23 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump continues baffling campaign schedule"
-    excerpt: "Rachel Maddow reports on Donald Trump's planned rally in the state of Washington and wonders again why Trump is devoting so much valuable campaign time in places where he is either guaranteed to win or has no chance of winning."
-    publishedDateTime: 2021-05-02T01:06:00Z
-    webUrl: "https://www.nbcnews.com/dateline/video/trump-continues-baffling-campaign-schedule-756494403639"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo43892805959"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo43892805959"
+  - title: "UV lights, cars with Trump bumper stickers and a lack of transparency illustrate ongoing GOP-driven ballot review in Arizona"
+    excerpt: "At the Arizona State Fairgrounds in Phoenix, workers line up in their cars to check in with uniformed security. As each car files into the fairgrounds, they park next to the \"Crazy Times Carnival,\" complete with the familiar sights of summer — a Ferris wheel, funnel cake and balloon games.\n    \n"
+    publishedDateTime: 2021-04-30T21:49:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RMhyJadYx0E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/arizona-ballot-audit-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/arizona-ballot-audit-republicans/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 148
     images:
-      - url: "https://media1.s-nbcnews.com/i/MSNBC/Components/Video/201609/2016-08-30T01-57-37-8Z--1280x720.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210423211112-01-arizona-audit-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
-secured: "oUHxnl6RybFAZxO+QxZrRP+jlqUJ4HjbjYbn50F+6i51CBoi9Y4bkLjr08ftBDzGFA5gzXayFTnowcyPYuyrgzN1IOnRm89fpO/A1z9bj1MKe60UZbLJbggVoMnEr8+kW85godoc95FIHdu6DE9yPRI0OYid1hnYf5CRKMFlLynqWzqV6ryos5ybUGW4uTjI8NaE51I9eVGdgJml9OQ0JmmXR5iHDu/FYQvmHBYS1JPhtkLY/zAfb+74/YHujGJygcHkd3QmQvb+HCZJAIYdLQYB0JpxWUJH+1Km2XAix2jDDaR/28XM4/FPQxdXC2dIaQpLPJ1kNWLtcAUWXvoBqvRRDqRprOCaVsFGpqupKOE=;d2Wavx8+SkXFcoeomTKpmQ=="
+secured: "17Ne27Wkoubaezl6zCCOgSPTxLNr4EBve/v6lnag4YfXNYNA47rWthk6mpF/aZhFA7Yp35N0pk1HnMCDbfUbiFLe3c4WP9S45K0JqAP2i4bqlbyzuBhD6UHgwGu6jnJsh0Y1RPHa2QZ/Xd0N6jvI5BBWLeBrK02CR0gOujdo1Zotg3HP1t7eoolOaMekuShdy8QSnLTsv2ftIJig1wZybeJEoZ5C5HbTtzvJACpaKkSXZq2ydZIk0Xsvfl2xsLPyX8Ftd1c52ZnI6o+BKCpMUeFGYB1M2sE984fQafaQUzNrflFHxaIp04xTnL4sriVcSm6l35VvGQrZPJgltL2C3zx8ghEDjc2vr+gf7O2Y4MI=;AtYKv3u+sY1uvrUvSnvsdA=="
 ---
 
