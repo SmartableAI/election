@@ -63,6 +63,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Kamala Harris agrees with Sen Tim Scott that 'America is not a racist country'"
+    excerpt: "But we also do have to speak truth about the history of racism in our country and its existence today,” Harris said."
+    publishedDateTime: 2021-04-29T21:20:00Z
+    webUrl: "https://thehill.com/changing-america/respect/551047-kamala-harris-agrees-with-sen-tim-scott-that-america-is-not-a-racist"
+    ampWebUrl: "https://thehill.com/changing-america/respect/551047-kamala-harris-agrees-with-sen-tim-scott-that-america-is-not-a-racist?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/551047-kamala-harris-agrees-with-sen-tim-scott-that-america-is-not-a-racist?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 121
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_harrisusnotracist_042921getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "A New York Post story about Kamala Harris triggered conservative outrage. Almost all of it was wrong. Now the reporter has resigned."
     excerpt: "The New York Post belatedly corrected stories the journalist says she was “ordered to write,” claiming the vice president’s book was given to undocumented migrants by the thousands."
     publishedDateTime: 2021-04-27T20:18:00Z

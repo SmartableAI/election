@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-aca
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1784064/vice-president-harris-virtual-meeting.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Kamala Harris agrees with Sen Tim Scott that 'America is not a racist country'"
+    excerpt: "But we also do have to speak truth about the history of racism in our country and its existence today,” Harris said."
+    publishedDateTime: 2021-04-29T21:20:00Z
+    webUrl: "https://thehill.com/changing-america/respect/551047-kamala-harris-agrees-with-sen-tim-scott-that-america-is-not-a-racist"
+    ampWebUrl: "https://thehill.com/changing-america/respect/551047-kamala-harris-agrees-with-sen-tim-scott-that-america-is-not-a-racist?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/551047-kamala-harris-agrees-with-sen-tim-scott-that-america-is-not-a-racist?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 121
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_harrisusnotracist_042921getty.jpg"
+        width: 1440
+        height: 880
         isCached: true
   - title: "Vice President Kamala Harris: We must 'speak truth' about history of racism in America"
     excerpt: "Vice President Kamala Harris said in an an exclusive interview on ABC's \"Good Morning America\" Thursday that we must 'speak truth' about history of racism in America."

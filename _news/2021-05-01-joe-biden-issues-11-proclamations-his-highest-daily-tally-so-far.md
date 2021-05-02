@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highe
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054?amp=1"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 2836
     height: 1900
     isCached: true
+
+related:
+  - title: "The Biden Administration continues the White House's long history of personalizing everything, from pens to cookies to shovels"
+    excerpt: "Leadership in Washington flips from red to blue every so often, but one thing always seems to remain the same: a dedication to personalization."
+    publishedDateTime: 2021-05-02T17:46:00Z
+    webUrl: "https://www.businessinsider.com/brief-history-personalized-white-house-items-candies-shovels-president-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/brief-history-personalized-white-house-items-candies-shovels-president-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brief-history-personalized-white-house-items-candies-shovels-president-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/608ee07c34af8d001859a79b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "J5es4SIcFSIdytwissdmlT452pKb0XAO7Fu1w/JWIlesx/ertOQSMs+vcmPB61j2dZS/CqiSrKETBxtUfXYEAhK92vh1orfrWyjGblf8OjaGtsqrjRfLbjg3694MRgzHtkHvEGdfSo2tBQc2PuzHJRMClDlJhDhslG9drfMxtV4vpdDzBpmikO5l7D8Z7eg6SywrlylES5RC+u0PL7TyKyIKRmh8B8oRH48P2JGDfXK4gis6eS9zbl+9xaXKdMoGBuDQc+uHTmlfeZLxSpfbnUzJ0TnOqEjJ9Ez0Rzpabw93uR8FyQs3Ig80LI60O59tDRqwovlk1hCxhm7eNx6PBxaXySiGt/oPZPI0qBkE/l4=;6gq8eklbe2jlW7zzf6ejqA=="
 ---

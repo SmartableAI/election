@@ -817,13 +817,13 @@ related:
   - title: "Fact check: Kamala Harris didn't say Joe Biden would 'do whatever the Chinese tell you' at debate"
     excerpt: "A meme claims Kamala Harris said during the 2020 Democratic presidential primary that Joe Biden would do what China told him to. That is false."
     publishedDateTime: 2021-04-29T22:11:00Z
-    webUrl: "https://www.indystar.com/story/news/factcheck/2021/04/29/fact-check-fake-quote-china-attributed-kamala-harris/7398323002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7398323002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7398323002"
+    webUrl: "https://www.freep.com/story/news/factcheck/2021/04/29/fact-check-fake-quote-china-attributed-kamala-harris/7398323002/"
+    ampWebUrl: "https://amp.freep.com/amp/7398323002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7398323002"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 77
     images:
       - url: "https://www.gannett-cdn.com/presto/2019/06/30/USAT/ee5a5e85-980e-4295-8593-c0d73ee1420a-biden_harris.JPG?auto=webp&crop=4967,2794,x0,y221&format=pjpg&width=1200"

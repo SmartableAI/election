@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-admin-practical-north-korea-n
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-practical-north-korea-nuclear-diplomacy.amp"
 type: article
 quality: 174
-heat: 174
+heat: 194
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Biden approach to North Korea nuclear policy 'not aimed at hostility': White House"
+    excerpt: "National Security Advisor Jake Sullivan responded to rebukes from Pyongyang by affirming that President Biden's approach toward North Korea is \"not aimed at hostility\" but rather at \"complete denuclearization.\""
+    publishedDateTime: 2021-05-02T18:10:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/COSBV0_N108/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "iYO97B7/E3x9Aen81wqmnix1XbNo3dVvORGEK9XBC/wCpXqAwU7Yj4qdi13tOXTea7RQJe8tGD0rbVmU1uipgtBMlJBhoyCPJ7voMvdViPKDfp5Ls+kLL3LOvN8eS//gz7SNoCVXY329Sz8hnovXsbQNyb0LyKNb8Otd0yaNZsg0zABaBwMEalNsmHT84cn251Xe2fmRBU2vRxsd8WmCpD1NsWieztMAaW9v+9Arbp+/3BUv+l6rQkGxhtw7sgW7VBONEtv62r25ou64esGkTP+OmKyPqMBTIUzDQG/eVl1qvsxSn8yeILLMYUlexVZX0uL0dC11LcEcew3ywfE3CgbbaDlbHwv6r9ybBNRq5zU=;3g5c8+jUui/GAP83TBNQcw=="
 ---

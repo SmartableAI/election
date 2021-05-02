@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: How Biden is as liberal as he said he'd be"
+    excerpt: "Poll of the week: A new ABC News/Washington Post poll finds that 48% of Americans say President Joe Biden's views on most issues are just about right, while 40% say his views are too liberal and 7% say too conservative.\n    \n"
+    publishedDateTime: 2021-05-02T16:18:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0soOCb4jJS0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/02/politics/biden-ideology-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/02/politics/biden-ideology-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429153244-03-biden-100-days-cnnphotos-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How the Biden presidency looks from one pivotal Pennsylvania county, 100 days in"
     excerpt: "Carol Erker vividly remembers the emotion that washed over her after Joe Biden won the 2020 election. Even as she worried about the pandemic and the Oval Office that Biden was inheriting, she felt like she could finally breathe.\n    \n"
     publishedDateTime: 2021-04-28T11:41:54Z

@@ -833,13 +833,13 @@ related:
   - title: "Fact check: Kamala Harris didn't say Joe Biden would 'do whatever the Chinese tell you' at debate"
     excerpt: "A meme claims Kamala Harris said during the 2020 Democratic presidential primary that Joe Biden would do what China told him to. That is false."
     publishedDateTime: 2021-04-29T22:11:00Z
-    webUrl: "https://www.indystar.com/story/news/factcheck/2021/04/29/fact-check-fake-quote-china-attributed-kamala-harris/7398323002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7398323002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7398323002"
+    webUrl: "https://www.freep.com/story/news/factcheck/2021/04/29/fact-check-fake-quote-china-attributed-kamala-harris/7398323002/"
+    ampWebUrl: "https://amp.freep.com/amp/7398323002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7398323002"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 77
     images:
       - url: "https://www.gannett-cdn.com/presto/2019/06/30/USAT/ee5a5e85-980e-4295-8593-c0d73ee1420a-biden_harris.JPG?auto=webp&crop=4967,2794,x0,y221&format=pjpg&width=1200"
@@ -1268,6 +1268,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "HMBfmQarkyqlK1MAXTKhO6YhGkpqS/39iLSOnEQFlOGEn+Yo1VzTyFqQofOTrASTKSJ+JxOGApL5HoKtvmF5jpnzpJ0WCjrmKmKqHfsVSEjnTO/THTd5SKYiuY4hgrzldgjJ+akD3Zr//P/SA+0IwUFcmRL/rVaDxVi3eU4VQGToJxotKbBAE3eGWDpYMOjxiVhs4N37hEMpnd93ElnPRCL765CCw8wgAozPK+6KQfX45jvH9QkXKAHwfcrOEx046QZYpsBUPjSKIacVk1hWHaY4lZ7y8bJBw6HeE8SVKXK109aGbONk3/qc50N4qc89BoMfL0BbQgkhTxBN8VMdDHCBrUdfJ6+u3l96UgbZPps=;Qnr3uN/jJxKsrDBHfD4hdA=="
+secured: "Eu8wmr20Rkt3XqxDIK922BVzp6seSi8Z2RWfsIV67+A/zJiW3UryldkXKQJW+K4uiAGoZHvABbXbPCq9L0EvbizcNb/3ZtuiVKyqHPJ9MR5lK4xWNz1h23OwDYZIqMYOxlaztbBj9TeYipBjBq/WVsku61XCTMirIfvZVqPvW0qcAWWs+HDJA5K4M1EfmywRlsYcOf7qVIm7B/r4RJmGlMb4wX+oUUJA1BglMo+AcpNsBbFKQRlsmpW+f4dWx974DMcy7+HGNNbV3Fxqch9AZVotYPFMrrjqJP1w/BoQDokoWigU2cEuarNWtf77JgdrKfqRAM0IFHHfg/CS8Ll7+b5fzOPMPq2+lDkLAE1x6UKukZA6DP3Oum7c7/jsD7HtLWDYWTkrxUwQJZYmruT0GIEk8RyU2KjYeJtTcWguyf42Ex2/a5kWjsPb2YPHcVQK6VWLU4dgmp5LZuvllPTlgFcvjL8WtT9I5m0yg5CM2F0ge2LSTD/tJN62/tZ/1BMeLdgwmZmyD1jsg1KqrAwxwQ==;7X3jCcYk0T1R9iXtCqoFog=="
 ---
 

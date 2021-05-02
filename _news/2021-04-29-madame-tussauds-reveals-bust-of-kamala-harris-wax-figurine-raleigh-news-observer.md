@@ -53,6 +53,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Kamala Harris agrees with Sen Tim Scott that 'America is not a racist country'"
+    excerpt: "But we also do have to speak truth about the history of racism in our country and its existence today,” Harris said."
+    publishedDateTime: 2021-04-29T21:20:00Z
+    webUrl: "https://thehill.com/changing-america/respect/551047-kamala-harris-agrees-with-sen-tim-scott-that-america-is-not-a-racist"
+    ampWebUrl: "https://thehill.com/changing-america/respect/551047-kamala-harris-agrees-with-sen-tim-scott-that-america-is-not-a-racist?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/551047-kamala-harris-agrees-with-sen-tim-scott-that-america-is-not-a-racist?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 121
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_harrisusnotracist_042921getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Vice President Kamala Harris: We must 'speak truth' about history of racism in America"
     excerpt: "Vice President Kamala Harris said in an an exclusive interview on ABC's \"Good Morning America\" Thursday that we must 'speak truth' about history of racism in America."
     publishedDateTime: 2021-04-29T11:48:00Z
