@@ -47,6 +47,22 @@ related:
         width: 2836
         height: 1900
         isCached: true
+  - title: "The Hill's Morning Report - Presented by Emergent BioSolutions - Biden sales pitch heads to Virginia and Louisiana"
+    excerpt: "President Biden and his team are playing a long legislative game, albeit with a short time frame. As weekend television talk shows revealed, the president’s efforts are at the starting point to secure another $4 trillion in spending for infrastructure and expanded government benefits,"
+    publishedDateTime: 2021-05-03T10:24:00Z
+    webUrl: "https://thehill.com/homenews/morning-report/551418-the-hills-morning-report"
+    ampWebUrl: "https://thehill.com/homenews/morning-report/551418-the-hills-morning-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/551418-the-hills-morning-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 103
+    images:
+      - url: "https://thehill.com/sites/default/files/newsletter-whitehouse_040321getty.jpg"
+        width: 580
+        height: 387
+        isCached: true
 
 secured: "0htTEn4dwCijsVZCjLS7L7TZQoVOk2EzdpB1zWOcAVf2XoKxITwW5YH0CqNyRFWuHRxlFePgQmuTXpkttm8NoBxQ+y9hFCXytOu0aZaxYoNnlHAeVm7UZHRRhxze2bRKYASsQEE6eg9y/+5iz9Uc7k28jGmFpzFUH+wU6LcCgh66rMtUcNFFD4h2YFsNQxegV8Df0RKpNlMIsdywiXnuQSCwB1HkfuUALUpxLtb5SQG+/6Dl1pj6H2EtOVzvovJbUmLS+Q9xiBVsQHLUnaag1mkmuI98Iyu9XXpHPzSqcIZikojcP6ujTcjEZcR8y1fQDHm3bDIwaHnXvnC5SEvNliWLhHYbdY1NNI4H2H5naiTIQCw10rcOO9SNQnddzITN5C8aeTD7ROimx0BhajweRX2Lk/LAVAnUlhN7sh6TBzz8QA97HJRn5GCGpF0Kjzm5HHqlyyYpvnc/Qfl26JsM8se2iLPYDcfzQEcjby2VSKf5aBGlKBa4nyY85DbY4Khkzv9UlQe6IZPU4yUvfn7ZGg==;5YlvosDRO7vVTJSXVj1rCg=="
 ---

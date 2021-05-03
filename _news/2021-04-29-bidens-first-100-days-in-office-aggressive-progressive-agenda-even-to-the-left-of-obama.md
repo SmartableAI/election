@@ -1309,6 +1309,15 @@ related:
         width: 4352
         height: 2901
         isCached: true
+  - title: "Who's Pulling Biden's Strings? Meet the Real President"
+    excerpt: "President Klain. Washington insiders delight in assigning the White House chief of staff this mischievous title as the driving force behind the actual president, Joe Biden. The man"
+    publishedDateTime: 2021-05-03T11:29:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/03/whos_pulling_bidens_strings_meet_the_real_president_541916.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "5c6RSf6g6yARGNtX3+9z3cNTfjivvFXPT89jFbq48Q4OtWkqpWMxhy1Qr+e0KI5bmye0RgrNL/uj7bUM8tdif+eFvPTpVLb4Qaq2xCPwiyy2TvFxpepHOrmbJMFwxZyhhzxjdaOucrLeAvrovTwo5/BurGIHl3Aoms1Lr8sF36r4sAjcuhAdpde7q6taZIkqrJD8pfiWocqLK/6y7dNWKy06IEv96Fvz/QfnVzRNbCZenSZHWckEdgYRBVjferKoLhbB3oLE60gr/AJi5ex2FrNbzahuF57M1eGjbtJO/BZU3nK5/7uLi+oGEqt0UBBCRVHj/X3vWICnXE8Nx58kRB/27bGOUwL9g13h+NtH+uE=;Wzhpq+hxt6QgwlNqTahUjw=="
 ---

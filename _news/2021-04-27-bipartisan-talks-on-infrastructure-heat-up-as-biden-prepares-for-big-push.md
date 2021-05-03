@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Hill Democrats aren't waiting for Biden on health care reforms"
+    excerpt: "Congressional Democrats are not waiting around for President Joe Biden to propose big changes they want to see in the nation's health care system, including reducing drug prices and expanding Medicare.\n    \n"
+    publishedDateTime: 2021-05-03T11:05:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q5anFr-1vyg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/medicare-drug-prices-biden-democrats/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/medicare-drug-prices-biden-democrats/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428220703-43-biden-address-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Major Biden receives special training to prepare for new White House cat"
     excerpt: "Some Major news at the White House: Major Biden has made his return to 1600 Pennsylvania Avenue after training following two biting incidents, but he may soon have to adjust to another furry friend.\n    \n"
     publishedDateTime: 2021-04-30T14:03:02Z
@@ -156,6 +172,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225143926-jill-biden-kelly-clarkson-divorce-advice-orig-mg-00000000-super-tease.png"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden team may partner with private firms to surveil suspected domestic terrorists online"
+    excerpt: "The Biden administration is considering using outside firms to track extremist chatter by Americans online, an effort that would expand the government's ability to gather intelligence but could draw criticism over surveillance of US citizens.\n    \n"
+    publishedDateTime: 2021-05-03T10:02:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WBMr4kaTXzU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/dhs-partner-private-firms-surveil-suspected-domestic-terrorists/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/dhs-partner-private-firms-surveil-suspected-domestic-terrorists/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107134539-20-us-capitol-riots-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

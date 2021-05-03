@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highe
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054?amp=1"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Hill's Morning Report - Presented by Emergent BioSolutions - Biden sales pitch heads to Virginia and Louisiana"
+    excerpt: "President Biden and his team are playing a long legislative game, albeit with a short time frame. As weekend television talk shows revealed, the president’s efforts are at the starting point to secure another $4 trillion in spending for infrastructure and expanded government benefits,"
+    publishedDateTime: 2021-05-03T10:24:00Z
+    webUrl: "https://thehill.com/homenews/morning-report/551418-the-hills-morning-report"
+    ampWebUrl: "https://thehill.com/homenews/morning-report/551418-the-hills-morning-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/551418-the-hills-morning-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 103
+    images:
+      - url: "https://thehill.com/sites/default/files/newsletter-whitehouse_040321getty.jpg"
+        width: 580
+        height: 387
+        isCached: true
   - title: "The Biden Administration continues the White House's long history of personalizing everything, from pens to cookies to shovels"
     excerpt: "Leadership in Washington flips from red to blue every so often, but one thing always seems to remain the same: a dedication to personalization."
     publishedDateTime: 2021-05-02T17:46:00Z
