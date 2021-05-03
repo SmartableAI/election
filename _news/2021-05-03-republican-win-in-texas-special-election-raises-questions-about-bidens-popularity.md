@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden's first 100 days in office: 'Aggressive' progressive agenda even to the left of Obama"
-excerpt: "President Biden’s first 100 days in office were marked by fierce debates on Capitol Hill over the rollout of progressive policy initiatives that have drawn comparisons to those enacted by his Democratic predecessors Franklin D. Roosevelt and Lyndon Johnson."
-publishedDateTime: 2021-04-29T10:41:28Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G476I2I8mxc/biden-100-days-in-office-progressive-agenda-challenges"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G476I2I8mxc/biden-100-days-in-office-progressive-agenda-challenges"
-ampWebUrl: "https://www.foxnews.com/politics/biden-100-days-in-office-progressive-agenda-challenges.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-100-days-in-office-progressive-agenda-challenges.amp"
+title: "Republican win in Texas special election raises questions about Biden’s popularity"
+excerpt: "The special election in Texas’ Sixth Congressional District on Saturday was seen as the first competitive race since Joe Biden was elected president and a bellwether on how a district that was seen to be purpling reacted to the new administration’s first 100 days."
+publishedDateTime: 2021-05-03T09:19:07Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8-Xq5EyeK2Y/republican-win-in-texas-special-election-raises-questions-about-bidens-popularity"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8-Xq5EyeK2Y/republican-win-in-texas-special-election-raises-questions-about-bidens-popularity"
+ampWebUrl: "https://www.foxnews.com/politics/republican-win-in-texas-special-election-raises-questions-about-bidens-popularity.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-win-in-texas-special-election-raises-questions-about-bidens-popularity.amp"
 type: article
-quality: 165
+quality: 184
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/58ada81a-3348-43bd-8c4f-7064bf543779/31dde345-192f-4fc8-a2e6-725d8916e7d1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -44,22 +44,6 @@ related:
     quality: 200
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Republican win in Texas special election raises questions about Biden’s popularity"
-    excerpt: "The special election in Texas’ Sixth Congressional District on Saturday was seen as the first competitive race since Joe Biden was elected president and a bellwether on how a district that was seen to be purpling reacted to the new administration’s first 100 days."
-    publishedDateTime: 2021-05-03T09:19:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8-Xq5EyeK2Y/republican-win-in-texas-special-election-raises-questions-about-bidens-popularity"
-    ampWebUrl: "https://www.foxnews.com/politics/republican-win-in-texas-special-election-raises-questions-about-bidens-popularity.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-win-in-texas-special-election-raises-questions-about-bidens-popularity.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 184
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -831,6 +815,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden's first 100 days in office: 'Aggressive' progressive agenda even to the left of Obama"
+    excerpt: "President Biden’s first 100 days in office were marked by fierce debates on Capitol Hill over the rollout of progressive policy initiatives that have drawn comparisons to those enacted by his Democratic predecessors Franklin D. Roosevelt and Lyndon Johnson."
+    publishedDateTime: 2021-04-29T10:41:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G476I2I8mxc/biden-100-days-in-office-progressive-agenda-challenges"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-100-days-in-office-progressive-agenda-challenges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-100-days-in-office-progressive-agenda-challenges.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/58ada81a-3348-43bd-8c4f-7064bf543779/31dde345-192f-4fc8-a2e6-725d8916e7d1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Cassidy defends 2017 tax cuts targeted by Biden, pointing to wage growth among low earners"
     excerpt: "Sen. Bill Cassidy, R-La., on Sunday defended the Trump-era tax cuts that are being targeted by President Biden in his American Jobs Plan, pointing to wage growth among low-income earners."
     publishedDateTime: 2021-05-02T16:03:12Z
@@ -1310,6 +1310,6 @@ related:
         height: 2901
         isCached: true
 
-secured: "5c6RSf6g6yARGNtX3+9z3cNTfjivvFXPT89jFbq48Q4OtWkqpWMxhy1Qr+e0KI5bmye0RgrNL/uj7bUM8tdif+eFvPTpVLb4Qaq2xCPwiyy2TvFxpepHOrmbJMFwxZyhhzxjdaOucrLeAvrovTwo5/BurGIHl3Aoms1Lr8sF36r4sAjcuhAdpde7q6taZIkqrJD8pfiWocqLK/6y7dNWKy06IEv96Fvz/QfnVzRNbCZenSZHWckEdgYRBVjferKoLhbB3oLE60gr/AJi5ex2FrNbzahuF57M1eGjbtJO/BZU3nK5/7uLi+oGEqt0UBBCRVHj/X3vWICnXE8Nx58kRB/27bGOUwL9g13h+NtH+uE=;Wzhpq+hxt6QgwlNqTahUjw=="
+secured: "O5GwZ6fyYVJbOW8oo6AdFrOAStt6CEly4faKJ3lBMNIkiNICGWYg7izTO/k/yNZOH5uJm6GNdXv7gMZBztGaxg/vibEPyHR5YAHOsn8yyv1VbLaOLPKTb/ceU9kqy91OuRoyvThgTLmFWxRaNEE1uutVOM+EYb0VPwTN2Rqjn+sOQ1I098sp9tH0zQrNiwSBgglaMdTaTVge9NootjJG2Pv1vFxF72BBx8wFPGXf0JogwMZLFZqBy73KeWmTn1X5at0cJLloZx6ENLnmFR2cVM1eleHTfjJNoh4/ME+aseQ9j7e0mCOIYrrcl8zJ5CEr5ypvk41a842ssKAF/Q5V+O5Li3Y5k4vc+HC7AmyNDBU=;z7rT9Ahjt/AvUcNb7O8Xpg=="
 ---
 

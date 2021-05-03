@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Republican win in Texas special election raises questions about Biden’s popularity"
+    excerpt: "The special election in Texas’ Sixth Congressional District on Saturday was seen as the first competitive race since Joe Biden was elected president and a bellwether on how a district that was seen to be purpling reacted to the new administration’s first 100 days."
+    publishedDateTime: 2021-05-03T09:19:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8-Xq5EyeK2Y/republican-win-in-texas-special-election-raises-questions-about-bidens-popularity"
+    ampWebUrl: "https://www.foxnews.com/politics/republican-win-in-texas-special-election-raises-questions-about-bidens-popularity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-win-in-texas-special-election-raises-questions-about-bidens-popularity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden to make first overseas trip in June for G-7, NATO summits"
     excerpt: "White House press secretary Jen Psaki announced Friday that President Biden will be taking his first overseas trip to the United Kingdom and Belgium in June."
     publishedDateTime: 2021-04-23T19:39:46Z
