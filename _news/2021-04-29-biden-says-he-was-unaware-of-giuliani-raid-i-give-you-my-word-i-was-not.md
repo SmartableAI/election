@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Alan Dershowitz, a legal adviser to Giuliani, hopes Trump will join court fight to block access to materials seized in FBI raid last week"
+    excerpt: "A legal adviser to Rudy Giuliani said he hopes former President Donald Trump will join in a court fight to attempt to block federal prosecutors from accessing seized material Giuliani believes is protected by attorney-client privilege.\n    \n"
+    publishedDateTime: 2021-05-03T17:09:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cD2p3Pftmts/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/dershowitz-giuliani-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/dershowitz-giuliani-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 142
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200129193024-dershowitz-for-begala-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "JACJv54KRLQi9SYIt02jCZgAHOlSsO3OarlgNscCWdT8Z7SAziL7B7w89k6j9HQVTPmbThPQqI2o0bO6olhoqNDT9YXXB8rvzr3kFoH5AHxdupuIaHPscRuyg4nvjlqZtQrcS0af49Ew7fe2ZK30BCJJNs+0RQfAljiLbp+P4Q3mkr5ULWp/v4HvT2f8GVmv7lJPsirjtFfIytcyRITyr/tqWvk4pZRkWnUaRYJ+R1QYVoa3yL5KqtDr/R8wz+7lYZ68397r9xzkEb8ggntLYFS0zOk84wKysNW+QknohIcwnRlfNvnxqRqws2HEljSFctm+Bqm+RfwdeEcGTthA8J+WMsG/SXH8G7KgBN7hBzA=;MR6X1ICKMiUl61rblUZRsg=="
 ---

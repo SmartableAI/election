@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Inside Chuck Schumer's mission to turn Biden's agenda into law while preserving his own 40-year legacy"
-    excerpt: "With his slim majority, Senate Democratic Leader Chuck Schumer is depending on an arcane legislative maneuver to get things done. But only if the Senate parliamentarian gives him the thumbs-up."
-    publishedDateTime: 2021-04-22T16:13:00Z
-    webUrl: "https://www.businessinsider.com/senate-schumer-reconciliation-biden-agenda-2022-midterms-policy-new-york-2021-4"
+  - title: "Biden calls on richest Americans to ‘start paying their fair share’ of taxes – live"
+    excerpt: "Biden makes case for increasing taxes on corporations and the wealthy – follow all the day’s politics news live"
+    publishedDateTime: 2021-05-03T16:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
     images:
-      - url: "https://i.insider.com/6080486474da0300181e2f85?width=700"
-        width: 700
-        height: 525
+      - url: "https://i.guim.co.uk/img/media/7796954293d26e28cbc625f5d2e035977b76ed54/0_16_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a469056c8b5fbc6d83f62203dce37fd6"
+        width: 600
+        height: 360
         isCached: true
 
 secured: "+WOb7sNgF3kwIxITc+CJKsxGNUpSTZeOtUwY/EkEvzdmNKq3wMV4VKdXf+ElVa4eaYOGP4j9axiy3hF4yGQJONPx6qsFne0vx9D5E6yCq9QHT8Y9RvJEuFUnlzsnxmnGNvnhis6ClDwJqby0YVYkobUMpVoq2UH6Uuusq4p9DvZltkYdaYTPcQwhdd56InI997A0oJeeja11WlTPBjW/rxlvYcL/YIe28fO8LkCsOoOfZmWoLdabuYHKvhbgjbIu1R1q9Xk+YpImOgCMHAF6EhEK3BuCNiPbE8Bja+S3aDLko5t6F93KFveUaMWgRpK15RiWxPwhjvlcsVMGogdaXRVjxbTTv4EXFAt+v7+yWVQ=;8+MEQI0n3YpNbwX0lf+vcA=="

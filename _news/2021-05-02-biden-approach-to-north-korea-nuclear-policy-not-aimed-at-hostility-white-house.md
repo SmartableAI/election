@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Rep. Mast blasts Biden administration for ending vets' Memorial Day motorcycle tradition"
+    excerpt: "Rep. Brian Mast, R-Fla., blasted the Biden administration for rescinding a permit for a 30-plus years Memorial Day tradition for veterans that has always been staged in the Pentagon parking lot."
+    publishedDateTime: 2021-05-03T17:04:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0jaCZKo0x0A/brian-mast-biden-rolling-to-remember-memorial-day"
+    ampWebUrl: "https://www.foxnews.com/politics/brian-mast-biden-rolling-to-remember-memorial-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brian-mast-biden-rolling-to-remember-memorial-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8b5393f-f355-4188-87a7-7017213a29a5/5d2e7d8b-a58f-419f-88fb-677cb3dcd715/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "V2v6m9AuHAwYFyfHvZP4gr71TfL5HZHufiov75JlFbd9bwBYjouL79ftMXGGdtQ+nXBU3JjqGa/arPVqsiH5ZXNaXnt5PIgzbI2PbvpIQf/T2C9XEPtgqoULT+L9wrqV7ISD6V8Xg9uoQj9P/IFqBVuZwejjButzsqwWv1189R3mtpNP9rUsLrwLemw1XwFAfXpJyaOIeIOenScdnO+TVUcPtH0c0Des2eVLTTagJW66vLQYZgLC8gKQOnbKbxfvIXFP+K06Z02EIdCWwZxMWzGzYdoziPQ/7YeaYCAuxqvbrJAbp36t8I7/AWs1ENi3n75ejvKcMnzHP+HP2tUQFTL5XU8snBd+Z12+gCwA230=;7TqgX4iLkFyga3zRjSq3Ag=="
 ---

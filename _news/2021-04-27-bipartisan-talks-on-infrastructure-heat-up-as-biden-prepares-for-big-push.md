@@ -201,7 +201,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 148
+    quality: 158
     images:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_09/3454207/210303-keep-families-together-protest-se-636p_7a1a557a0d52898a96782884cc1739e2.jpg"
         width: 2499

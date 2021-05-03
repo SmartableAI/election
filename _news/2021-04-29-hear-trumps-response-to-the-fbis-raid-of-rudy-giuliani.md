@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/29/donald-trump-reac
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/29/donald-trump-reacts-rudy-giuliani-fbi-raid-newday-vpx.cnn"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Alan Dershowitz, a legal adviser to Giuliani, hopes Trump will join court fight to block access to materials seized in FBI raid last week"
+    excerpt: "A legal adviser to Rudy Giuliani said he hopes former President Donald Trump will join in a court fight to attempt to block federal prosecutors from accessing seized material Giuliani believes is protected by attorney-client privilege.\n    \n"
+    publishedDateTime: 2021-05-03T17:09:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cD2p3Pftmts/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/dershowitz-giuliani-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/dershowitz-giuliani-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 142
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200129193024-dershowitz-for-begala-oped-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

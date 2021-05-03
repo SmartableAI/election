@@ -43,6 +43,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Vice President Kamala Harris to lead National Space Council"
+    excerpt: "In America, when we shoot for the moon, we plant our flag on it,\" the vice president tweeted following the announcement"
+    publishedDateTime: 2021-05-03T00:34:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-to-lead-national-space-council/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-to-lead-national-space-council/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-to-lead-national-space-council/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/03/7736c060-c7a7-41cb-aeb3-8f0080dfaecf/thumbnail/1200x630g2/e2357abe35bca577dc38eda50c45118d/gettyimages-1232596307.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "What Laura Italiano Said About the New York Post's Kamala Harris Book Story"
     excerpt: "The journalist who wrote an article claiming that Vice President Kamala Harris' book was being distributed to migrant children has resigned from the New York Post,and said she was \"ordered\" to write the story."
     publishedDateTime: 2021-04-28T09:19:00Z
@@ -154,6 +170,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/30/PCIN/a765bc78-c06a-4a93-9d8c-331cd2009c7e-043021VPVisitCO05.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Photos: Kamala Harris sells San Francisco loft; seeks buyer for DC condo"
+    excerpt: "Kamala Harris has sold her SoMa loft in San Francisco for $860,000 and now seeks a buyer for her Washington, DC, condo."
+    publishedDateTime: 2021-05-03T16:07:00Z
+    webUrl: "https://www.mercurynews.com/2021/05/03/photos-kamala-harris-sells-san-francisco-loft-seeks-buyer-for-dc-condo"
+    ampWebUrl: "https://www.mercurynews.com/2021/05/03/photos-kamala-harris-sells-san-francisco-loft-seeks-buyer-for-dc-condo/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/05/03/photos-kamala-harris-sells-san-francisco-loft-seeks-buyer-for-dc-condo/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 74
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/kam3.jpg?w=700&h=434"
+        width: 700
+        height: 434
         isCached: true
   - title: "Fact check: Kamala Harris’ children’s book is not in ‘welcome packs’ for migrants"
     excerpt: "Long Beach officials say migrant children from the U.S.-Mexico border are not receiving copies of Harris’ book as part of a welcome package."

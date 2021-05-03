@@ -8,7 +8,7 @@ webUrl: "https://www.nbcnews.com/politics/immigration/biden-administration-reuni
 ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266104"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266104"
 type: article
-quality: 148
+quality: 158
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Donald Trump
   - Democratic Voice
+  - Joe Biden
 
 images:
   - url: "https://media4.s-nbcnews.com/i/newscms/2021_09/3454207/210303-keep-families-together-protest-se-636p_7a1a557a0d52898a96782884cc1739e2.jpg"

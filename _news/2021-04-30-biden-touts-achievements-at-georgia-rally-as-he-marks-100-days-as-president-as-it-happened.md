@@ -93,6 +93,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "No, John Velazquez didn’t call Joe Biden a horse’s ass"
+    excerpt: "Says Kentucky Derby jockey John Velazquez turned down an invitation to the White House and said, “if I wanted to see a horse’s ass I would of came in second.” John Velazquez didn’t say this and he hasn’t been invited to the White House,"
+    publishedDateTime: 2021-05-03T17:49:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/may/03/facebook-posts/no-john-velazquez-didnt-call-joe-biden-horses-ass/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/tom_ruling_pof.png"
+        width: 667
+        height: 596
+        isCached: true
 
 secured: "kcdk6iv9UULPZvPL+RSBZ7k23vXG2THldjyupSiM16UeagBD4cWcMoplOfqf1T4bgexC5VM1a9HKXyynVsNG7QcYJFZqIDwODsizJirABCW5EKklGN8HeVQB5e2+0Oeyx4kwejfD5JZz1l0jmJGq/35iyJaod9Oxga7K+Wenq564oCVLtHufGondPnR2oCHg0YZJNaQ0uxqgO0E+NKHSuR/PuH/MAKp95tvbu5zOTpBRpBxeXlwMhFmlcCzmDcZS8Qdq/e8oY4M5mncuFvjVqyqX5HZ/3egnU9AxgtVGgasOqOPV8VmImvwdPYAg5zAOmn51Gpzg1lRKozlo5XUYNv1ZtaE3qL18qylFma9QyaU=;qixLKHPRxpp/iN3rLvVtbg=="
 ---

@@ -64,7 +64,7 @@ related:
   - title: "Biden to tout $4tn infrastructure and welfare plan – US politics live"
     excerpt: "President travels to Virginia to try to win support for proposals – follow all the day’s politics news live"
     publishedDateTime: 2021-05-03T14:46:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest?page=with:block-60900be08f0865a1048efbfa"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest?page=with:block-60900b668f0865a1048efbf4"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest"
     type: article
@@ -73,9 +73,25 @@ related:
       domain: theguardian.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/d424cc0997af81ca21f6fa24298e756687e25275/0_247_7390_4434/master/7390.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4207f18477dfb75e4b239cdbc0a4f02f"
+      - url: "https://i.guim.co.uk/img/media/7796954293d26e28cbc625f5d2e035977b76ed54/0_16_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a469056c8b5fbc6d83f62203dce37fd6"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden pushes education spending at stops in Virginia"
+    excerpt: "President Joe Biden and the first lady are in coastal Virginia to promote his plans to increase spending on education and children, part of his $1.8 trillion families proposal announced last week"
+    publishedDateTime: 2021-05-03T17:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-pushes-education-spending-stops-virginia-77466557"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pushes-education-spending-stops-virginia-77466557"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pushes-education-spending-stops-virginia-77466557"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c59f309d36174843a07f8b1896b342b4_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Joe Biden: ‘I don’t think the American people are racist’ – US politics live"
     excerpt: "President in new interview agrees with Republican senator Tim Scott’s comments to Congress – follow all the day’s politics news"
