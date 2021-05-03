@@ -119,6 +119,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Eyeing 2024, Pence says he'll push back on 'liberal agenda'"
+    excerpt: "Former Vice President Mike Pence, positioning himself for a possible return to elected office, told an audience in early-voting South Carolina that he will spend the"
+    publishedDateTime: 2021-05-03T13:00:00Z
+    webUrl: "https://www.emissourian.com/news/eyeing-2024-pence-says-hell-push-back-on-liberal-agenda/article_6f8fcb32-abc4-11eb-b14d-177f7b102f41.html"
+    type: article
+    provider:
+      name: Missourian
+      domain: emissourian.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/emissourian.com/content/tncms/assets/v3/editorial/a/ec/aeccffc2-abc4-11eb-81f9-7bc37dcb06a0/608f7665b2bc7.image.jpg?resize=947%2C630"
+        width: 947
+        height: 630
+        isCached: true
 
 secured: "fOFoWYAf9NrphApK7fYDH2CFJxbEa1z5mLuZav+4sl3xlS+b3jewtBbmuhYiymbQNehJbOMQram3oqZ0TBbKZCLayLoJGzQCvTaTsYuUnuD0QMYQ7cw1xwFPUU3wq3o6RiTDAEbZodVGNK9Ffc2VshfdbPmxWpvR+Z+VUG7nJ/Uv2BFWrYMbW7AeV7lPbtNkX83cGtZNYuEQrCnsIGIdb6MpUQ/utPg+q8OtgvFmYZJcfHOWsiaGcMdaNpMQ6xzFMcOOp72NV/Zlj1YF4Gsophq6o35orqZE99WKzpdE0ltYkFJb+zts/6c+lcikv9YUzf785XqjgT6zfMgslfC3YYmmHWA82HLvfVeuvquHrAI=;ke06g9WMGsa4NeW6BxpOtw=="
 ---

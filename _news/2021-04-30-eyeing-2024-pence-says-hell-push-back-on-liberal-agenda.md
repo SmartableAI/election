@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/eying-2024-pence-hell-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/eying-2024-pence-hell-push-back-liberal-agenda-77418589"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/04/Pence-Palmetto-Family-Council.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Eyeing 2024, Pence says he'll push back on 'liberal agenda'"
+    excerpt: "Former Vice President Mike Pence, positioning himself for a possible return to elected office, told an audience in early-voting South Carolina that he will spend the"
+    publishedDateTime: 2021-05-03T13:00:00Z
+    webUrl: "https://www.emissourian.com/news/eyeing-2024-pence-says-hell-push-back-on-liberal-agenda/article_6f8fcb32-abc4-11eb-b14d-177f7b102f41.html"
+    type: article
+    provider:
+      name: Missourian
+      domain: emissourian.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/emissourian.com/content/tncms/assets/v3/editorial/a/ec/aeccffc2-abc4-11eb-81f9-7bc37dcb06a0/608f7665b2bc7.image.jpg?resize=947%2C630"
+        width: 947
+        height: 630
         isCached: true
 
 secured: "ghDEoLqpo4W0Q/m1NknGklpY4UG+ygkZhi24+uBo5dVFnXKWWueVRaJiwg/anzTgEIQbNcnsGPXBNGIl8hOWAJ6id0QW0HVOLK3jlnDAgfK8rHRkVJbxrPNm8CoyH8914M/uvrwwD4lhljs3dhocC+ij08A1YTyMJf96UTLpp28XOvCJv1G4Ipudha+GJ7nhm66ah8HprMxuNvzZrsZVI6AjzXXEpHzzvq0WnoffjuG0I0vh+y3rcfU3kcVTrJ2Y7ywymPcHzYv5h3ZLICs9KAvqRjykYKm+El29PR4LrGSUEevkOAMjmgj6deQVR6JgwtuT4XjOwoVM/z06elI/iJHJW6QhFfDv7Tz+kjNAlZ0=;qwOgn3IYRD3gex+Cdrgt+A=="

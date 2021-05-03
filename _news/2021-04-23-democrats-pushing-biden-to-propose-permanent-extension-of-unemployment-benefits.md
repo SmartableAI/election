@@ -847,6 +847,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "DHS to reunite 4 families separated at Mexico border in push to keep Biden campaign promise"
+    excerpt: "The Department of Homeland Security (DHS) this week will begin reuniting a handful of families who were separated under the Trump administration's \"zero-tolerance\" policy on illegal immigration."
+    publishedDateTime: 2021-05-03T13:12:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NO8FIADxWag/us-begins-reuniting-some-families-separated-at-mexico-border"
+    ampWebUrl: "https://www.foxnews.com/politics/us-begins-reuniting-some-families-separated-at-mexico-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-begins-reuniting-some-families-separated-at-mexico-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden Pentagon nominee faces scrutiny over resurfaced tweet as nomination heads to final vote"
     excerpt: "An old tweet from President Biden’s nominee to be the number three at the Pentagon has resurfaced as the nomination process heads to the Senate floor."
     publishedDateTime: 2021-04-22T22:37:26Z

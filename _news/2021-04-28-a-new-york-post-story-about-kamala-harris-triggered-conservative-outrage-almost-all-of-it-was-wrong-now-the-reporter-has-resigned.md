@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Ted Cruz Jokes Kamala Harris Will Deal With 'Aliens' at National Space Council"
+    excerpt: "Republicans have criticized Harris for not visiting the southern border despite being in charge of administration's response."
+    publishedDateTime: 2021-05-03T12:34:00Z
+    webUrl: "https://www.newsweek.com/ted-cruz-jokes-kamala-harris-will-deal-aliens-national-space-council-1588196"
+    ampWebUrl: "https://www.newsweek.com/ted-cruz-jokes-kamala-harris-will-deal-aliens-national-space-council-1588196?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ted-cruz-jokes-kamala-harris-will-deal-aliens-national-space-council-1588196?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1786471/senator-ted-cruz-texas.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Vice President Kamala Harris: We must 'speak truth' about history of racism in America"
     excerpt: "Vice President Kamala Harris said in an an exclusive interview on ABC's \"Good Morning America\" Thursday that we must 'speak truth' about history of racism in America."
     publishedDateTime: 2021-04-29T11:48:00Z
@@ -126,6 +142,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/30/PCIN/a765bc78-c06a-4a93-9d8c-331cd2009c7e-043021VPVisitCO05.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris’ California successor proves to be an ‘unchecked’ liberal"
+    excerpt: "The California Democrat has embraced the Green New Deal, appearing with liberal star Rep. Alexandria Ocasio-Cortez recently to tout the plan. He joined liberal congressional leaders Bernie Sanders and Pramila Jayapal to back debt-free,"
+    publishedDateTime: 2021-05-03T11:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article251035099.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article251035099.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article251035099.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/ecea355a-ae51-471b-b0e3-1fbd7eb8f6e5/d32bcb35-22f4-43ca-afa9-db75700f38b0/1280x720/match/image.jpg"
+        width: 1279
+        height: 720
         isCached: true
   - title: "Fact check: Kamala Harris’ children’s book is not in ‘welcome packs’ for migrants"
     excerpt: "Long Beach officials say migrant children from the U.S.-Mexico border are not receiving copies of Harris’ book as part of a welcome package."

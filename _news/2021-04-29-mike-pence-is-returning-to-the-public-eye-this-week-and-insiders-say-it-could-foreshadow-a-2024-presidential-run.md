@@ -43,6 +43,22 @@ related:
         width: 847
         height: 423
         isCached: true
+  - title: "Why Trump is more likely to win in the GOP than to take his followers to a new third party"
+    excerpt: "Former President Donald Trump has claimed at times that he’ll start a third political party called the Patriot Party. In fact, most Americans – 62% in a recent poll – say they’d welcome the chance to vote for a third party."
+    publishedDateTime: 2021-05-03T12:02:00Z
+    webUrl: "https://www.chron.com/news/article/Why-Trump-is-more-likely-to-win-in-the-GOP-than-16146941.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Why-Trump-is-more-likely-to-win-in-the-GOP-than-16146941.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Why-Trump-is-more-likely-to-win-in-the-GOP-than-16146941.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 65
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Special Report: How Trump Scored a Big Tax Break for Conserving a Golf Range"
     excerpt: "Trump eventually abandoned a plan to build 16 homes and turned instead to the tax code to offset the lost profits - securing a $25 million tax deduction in exchange for a promise not to develop the land."
     publishedDateTime: 2021-04-30T12:06:00Z
