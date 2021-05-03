@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden promotes education spending at stops in Virginia"
+    excerpt: "President Joe Biden traveled to coastal Virginia to promote his plans to increase spending on education and children, part of his $1.8 trillion families proposal announced last week"
+    publishedDateTime: 2021-05-03T20:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-pushes-education-spending-at-stops-in-virginia/2021/05/03/db788a64-ac32-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-pushes-education-spending-at-stops-in-virginia/2021/05/03/db788a64-ac32-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-pushes-education-spending-at-stops-in-virginia/2021/05/03/db788a64-ac32-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MQ5NXJFMFEI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 1033
+        isCached: true
   - title: "Biden pushes education spending at stops in Virginia"
     excerpt: "President Joe Biden and the first lady are in coastal Virginia to promote his plans to increase spending on education and children, part of his $1.8 trillion families proposal announced last week"
     publishedDateTime: 2021-05-03T17:38:00Z

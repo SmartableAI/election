@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/biden-administration-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/biden-administration-trump-counterterrorism-rules/index.html"
 type: article
 quality: 181
-heat: 541
+heat: 561
 published: true
 
 provider:
@@ -236,6 +236,22 @@ related:
     quality: 144
     images:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_17/3468441/210427-lance-fourstar-pipeline-mn-2355_93a536819881e413b0e4a349da88fc4a.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden raises refugee cap to 62,500 after facing criticism for keeping Trump-era levels in place"
+    excerpt: "The announcement comes after Democrats slammed the move last month, with the White House saying then it would announce a new cap by May 15."
+    publishedDateTime: 2021-05-03T21:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-raises-refugee-cap-62-500-after-facing-criticism-keeping-n1266175"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266175"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266175"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 138
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_18/3469846/210503-joe-biden-ew-420p_80735049646c7c0378040e662109b62f.jpg"
         width: 2500
         height: 1667
         isCached: true

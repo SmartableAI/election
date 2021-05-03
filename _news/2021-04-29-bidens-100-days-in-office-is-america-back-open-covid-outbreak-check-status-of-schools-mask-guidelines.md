@@ -447,6 +447,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden quadruples refugee cap to 62,500 following Democratic outcry"
+    excerpt: "President Biden increased the limit of refugee admissions to 62,500 for this fiscal year on Monday following intense pressure from fellow Democrats."
+    publishedDateTime: 2021-05-03T20:33:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OY0BqjCY4Ik/biden-revises-refugee-cap-62500-fiscal-2021-democratic-outcry"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-revises-refugee-cap-62500-fiscal-2021-democratic-outcry.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-revises-refugee-cap-62500-fiscal-2021-democratic-outcry.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a989ee18-4a73-43cc-9666-15f4b30a1924/80dc7836-be0d-423d-a35f-44a90d7df7e9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "San Francisco archbishop suggests Pelosi, Biden be denied Communion"
     excerpt: "House Speaker Nancy Pelosi's hometown bishop is taking a not-so-subtle jab at her and President Biden's abortion advocacy, arguing that self-identified Catholics should refrain from publicly promoting the practice or face potential exclusion from Holy Communion."
     publishedDateTime: 2021-05-03T15:25:53Z

@@ -1532,6 +1532,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden raises Trump refugee cap after delay backlash"
+    excerpt: "Biden last month moved to expand the eligibility criteria for resettlements, removing one roadblock to refugees entering the U.S. put in place by Trump, but he had initially stopped short of lifting the annual cap,"
+    publishedDateTime: 2021-05-03T20:31:00Z
+    webUrl: "https://www.chron.com/news/article/AP-source-Biden-lifting-Trump-refugee-cap-after-16148139.php"
+    ampWebUrl: "https://www.chron.com/news/amp/AP-source-Biden-lifting-Trump-refugee-cap-after-16148139.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/AP-source-Biden-lifting-Trump-refugee-cap-after-16148139.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Biden's pick for top U.S. civil rights lawyer, Kristen Clarke, faces fraught task"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden’s nominee to lead the Justice Department’s Civil Rights Division, Kristen Clarke, is poised to take on the role at a fraught time in American history. Clarke will face a Senate hearing this week as hate crimes ..."
     publishedDateTime: 2021-04-13T09:02:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2M21ES"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2M21ES"
 type: article
 quality: 140
-heat: 2300
+heat: 2320
 published: true
 
 provider:
@@ -1514,6 +1514,22 @@ related:
     webUrl: "https://www.chron.com/news/article/Biden-begins-to-undo-Trump-s-ban-on-abortion-16099802.php"
     ampWebUrl: "https://www.chron.com/news/amp/Biden-begins-to-undo-Trump-s-ban-on-abortion-16099802.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-begins-to-undo-Trump-s-ban-on-abortion-16099802.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Biden raises Trump refugee cap after delay backlash"
+    excerpt: "Biden last month moved to expand the eligibility criteria for resettlements, removing one roadblock to refugees entering the U.S. put in place by Trump, but he had initially stopped short of lifting the annual cap,"
+    publishedDateTime: 2021-05-03T20:31:00Z
+    webUrl: "https://www.chron.com/news/article/AP-source-Biden-lifting-Trump-refugee-cap-after-16148139.php"
+    ampWebUrl: "https://www.chron.com/news/amp/AP-source-Biden-lifting-Trump-refugee-cap-after-16148139.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/AP-source-Biden-lifting-Trump-refugee-cap-after-16148139.php"
     type: article
     provider:
       name: Houston Chronicle

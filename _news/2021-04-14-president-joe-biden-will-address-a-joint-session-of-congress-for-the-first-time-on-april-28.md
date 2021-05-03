@@ -1534,6 +1534,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden raises Trump refugee cap after delay backlash"
+    excerpt: "Biden last month moved to expand the eligibility criteria for resettlements, removing one roadblock to refugees entering the U.S. put in place by Trump, but he had initially stopped short of lifting the annual cap,"
+    publishedDateTime: 2021-05-03T20:31:00Z
+    webUrl: "https://www.chron.com/news/article/AP-source-Biden-lifting-Trump-refugee-cap-after-16148139.php"
+    ampWebUrl: "https://www.chron.com/news/amp/AP-source-Biden-lifting-Trump-refugee-cap-after-16148139.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/AP-source-Biden-lifting-Trump-refugee-cap-after-16148139.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Biden nominee Wormuth would be first woman to lead Army"
     excerpt: "President Joe Biden says he will nominate a former senior Pentagon official to be the first woman to lead the Army"
     publishedDateTime: 2021-04-12T20:20:00Z

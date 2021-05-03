@@ -28,20 +28,20 @@ images:
 
 related:
   - title: "Kamala Harris to give Naval Academy commissioning address"
-    excerpt: "A White House official tells a Maryland news outlet that Vice President Kamala Harris will deliver the keynote address at the Naval Academy’s commissioning ceremony"
-    publishedDateTime: 2021-04-30T20:56:00Z
-    webUrl: "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    excerpt: "Vice President Kamala Harris will deliver the keynote address at the Naval Academy's commissioning ceremony, a White House official told a Maryland news outlet Friday. Harris is expected to give the speech May 28 during the in-person,"
+    publishedDateTime: 2021-04-30T22:03:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Houston Chronicle
+      domain: houstonchronicle.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3PQT64VJ7YI6XKFHL5C53TPTMQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.hdnux.com/photos/01/17/67/05/20934993/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Vice President Kamala Harris to lead National Space Council"
     excerpt: "In America, when we shoot for the moon, we plant our flag on it,\" the vice president tweeted following the announcement"
@@ -298,6 +298,22 @@ related:
       - url: "https://www.baltimoresun.com/resizer/IRgrddedYtLFCkgldQMukJ742rA=/630x630/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/P44NI3FL2ZGFDLXWLYNH5HDYWQ.jpg"
         width: 630
         height: 630
+        isCached: true
+  - title: "Kamala Harris’ Senate successor is hanging out with AOC. Why experts say that’s a smart move"
+    excerpt: "That’s become clear during his first three months as a U.S. senator. The California Democrat has embraced the Green New Deal, appearing with liberal star Rep. Alexandria Ocasio-Cortez recently to tout the plan."
+    publishedDateTime: 2021-05-03T17:14:00Z
+    webUrl: "https://www.sanluisobispo.com/news/california/article251035099.html"
+    ampWebUrl: "https://amp.sanluisobispo.com/news/california/article251035099.html"
+    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/california/article251035099.html"
+    type: article
+    provider:
+      name: SanLuisObispo
+      domain: sanluisobispo.com
+    quality: 64
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/ecea355a-ae51-471b-b0e3-1fbd7eb8f6e5/d32bcb35-22f4-43ca-afa9-db75700f38b0/1280x720/match/image.jpg"
+        width: 1279
+        height: 720
         isCached: true
   - title: "Vice President Kamala Harris boosts public transit in Cincinnati to promote infrastructure bill"
     excerpt: "Vice President Kamala Harris and Sen. Sherrod Brown conducted a roundtable at the University of Cincinnati’s 1819 Innovation Hub to discuss the importance of investing in the nation's public transit infrastructure."

@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "AP source: Biden lifting Trump refugee cap after delay"
+    excerpt: "President Joe Biden is formally lifting the nation’s refugee cap to 62,500 this year, according to a congressional aide briefed on the plans, weeks after facing bipartisan blowback for his delay in lifting former President Donald Trump’s limit of 15,"
+    publishedDateTime: 2021-05-03T19:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-source-biden-lifting-trump-refugee-cap-after-delay/2021/05/03/3ea4740e-ac4c-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-source-biden-lifting-trump-refugee-cap-after-delay/2021/05/03/3ea4740e-ac4c-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-source-biden-lifting-trump-refugee-cap-after-delay/2021/05/03/3ea4740e-ac4c-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LHYYORFMJII6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Pence gives first public speech since end of Trump administration"
     excerpt: "Former vice president Mike Pence on April 29 made his first public remarks since leaving office, telling an audience in Columbia, S.C., that he plans on “pushing back on the liberal agenda” that the Biden administration is pursuing in the coming months."
     publishedDateTime: 2021-05-01T13:09:00Z

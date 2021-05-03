@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/facebook-oversight-board-announce-decision-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-oversight-board-announce-decision-donald-trump-ban-may-5-1588223?amp=1"
 type: article
 quality: 123
-heat: 143
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "The Memo: Trump's critics face wrath of GOP base"
+    excerpt: "Cheney voted for Trump’s impeachment and has become perhaps his most persistent foe among GOP officeholders. But the bigger picture is one in which Cheney is in danger of losing her House leadership position and another Trump critic,"
+    publishedDateTime: 2021-05-03T21:47:00Z
+    webUrl: "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base"
+    ampWebUrl: "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_cheneyliz_012121getty-bc_split.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "The slow, painful death of Trump allies’ voting-machine conspiracy theories"
+    excerpt: "Among the many wild conspiracy theories about the 2020 election, few rank as high when it comes to both baselessness and reach as those involving voting machines. The theory that voting machines were programmed to steal the election from President Donald Trump had the benefit,"
+    publishedDateTime: 2021-05-03T16:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2MJW36R3GMI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Why Trump is more likely to win in the GOP than to take his followers to a new third party"
     excerpt: "Former President Donald Trump has claimed at times that he’ll start a third political party called the Patriot Party. In fact, most Americans – 62% in a recent poll – say they’d welcome the chance to vote for a third party."
     publishedDateTime: 2021-05-03T12:02:00Z

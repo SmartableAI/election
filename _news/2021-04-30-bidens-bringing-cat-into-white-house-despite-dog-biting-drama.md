@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-bringing-cat-white-house-dog
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-bringing-cat-white-house-dog-biting.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fifth graders tell the Bidens virtual learning allowed them to eat and sneak in a nap"
+    excerpt: "Students at a Virginia fifth grade classroom told President Biden and First Lady Jill Biden Monday that virtual learning gave them the chance to eat, take naps, and even fake technical glitches in order to avoid answering questions."
+    publishedDateTime: 2021-05-03T21:54:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Mk0LIf4lbA/biden-classroom-visit-5th-grade-teacher-students-in-person-virtual-learning"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-classroom-visit-5th-grade-teacher-students-in-person-virtual-learning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-classroom-visit-5th-grade-teacher-students-in-person-virtual-learning.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Border surge not Biden's fault despite lifting restrictions: White House chief of staff"
     excerpt: "White House Chief of Staff Ron Klain said President Biden is not to blame for a surge in unaccompanied minors crossing the U.S. southern border."
     publishedDateTime: 2021-05-02T16:40:37Z

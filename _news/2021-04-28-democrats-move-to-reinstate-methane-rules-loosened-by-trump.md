@@ -256,6 +256,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden raises refugee cap to 62,500 after facing criticism for keeping Trump-era levels in place"
+    excerpt: "The announcement comes after Democrats slammed the move last month, with the White House saying then it would announce a new cap by May 15."
+    publishedDateTime: 2021-05-03T21:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-raises-refugee-cap-62-500-after-facing-criticism-keeping-n1266175"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266175"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266175"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 138
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_18/3469846/210503-joe-biden-ew-420p_80735049646c7c0378040e662109b62f.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "How Biden's taxes hit the richest but skip the suburban base"
     excerpt: "Analysis: Democrats see an opportunity to pit billionaires against even well-off professionals by taxing wealthy investors."
     publishedDateTime: 2021-04-29T17:36:00Z

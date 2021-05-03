@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414?amp=1"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AYB6RTFJNEI6XKFHL5C53TPTMQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Joe Biden raises refugee admissions cap after outcry"
+    excerpt: "President Joe Biden has lifted the US annual refugee cap, bowing to outrage from his party after he initially opted to stick by the Trump-era figure. The Democratic president is raising the cap from 15,"
+    publishedDateTime: 2021-05-03T20:42:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-56975402"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0849/production/_118312120_f22118aa-cfc2-4cec-8a13-7560c65f430c.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Representative Sara Jacobs: President Biden's address \"gave us reasons\" to feel hopeful"
     excerpt: "Congresswoman Sarah Jacobs, a Democrat from California, says President Joe Biden's address to a joint session of Congress on Wednesday gave Americans many reasons to feel \"hopeful.\" She joins CBSN's Tanya Rivero for a closer look at Mr."

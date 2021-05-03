@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden promotes education spending at stops in Virginia"
+    excerpt: "President Joe Biden traveled to coastal Virginia to promote his plans to increase spending on education and children, part of his $1.8 trillion families proposal announced last week"
+    publishedDateTime: 2021-05-03T20:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-pushes-education-spending-at-stops-in-virginia/2021/05/03/db788a64-ac32-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-pushes-education-spending-at-stops-in-virginia/2021/05/03/db788a64-ac32-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-pushes-education-spending-at-stops-in-virginia/2021/05/03/db788a64-ac32-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MQ5NXJFMFEI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 1033
+        isCached: true
   - title: "Joe Biden: ‘I don’t think the American people are racist’ – US politics live"
     excerpt: "President in new interview agrees with Republican senator Tim Scott’s comments to Congress – follow all the day’s politics news"
     publishedDateTime: 2021-04-30T12:21:00Z
@@ -154,6 +170,6 @@ related:
         height: 1047
         isCached: true
 
-secured: "lbsn9z7Ca+HPOqjNtECGMzvPvH76632jXTb9mapM2SXo/yOLQ5gN1rZh4y36P/XaYn2PUMtyuPs0no4kYP8y59wzSrQy9xKByo52vqhiwET+8dS8wCPtG0mjDg92Jh405imRBCJAXGt57m4VhsU3DMq8r2cwKGCkpl9xf06saLjGaGAVg5j/KrwJ6muTuzUIULXzHCbJe5dytNTbFvlN+e6SQMAZpbCBYjmALMH5FE7UBooPsjVgbFs9NMHkSNFe3W2wOw4qXcVl9rkHWrDraJmnhTa2shxd0eW1ZWdQG/J2VhoSZNr3Tb9J2qKucxi5HdOMWSYSJ1rAtb3brC3iPjr0EBiq41CRrOdsweF/Y20=;BCYrKELvzQ1KV8DT2lbYFA=="
+secured: "JfBhUYs9T4Wj/q9Yy5GuQoh1UDAEuX2kGI5SgH/s8VJcSFS3dXRBGWvljrSTgWueSnSnoLe3pksvf119PrrrOMqZT1sHCw0RgJYGb28sCGlEoHV4/6R9e7/WIPLLhMYcLrct2u4FqhmLG+3h9hpLLFoM78lwVv5+e9bsx53JhX1GUFETyCG1GnXsdmqiLQtX4/UcgOfSjRq0mlyxE6KN10cTtf8aoZvSCn/+pOjNt56Bo9oefUiIKl/iV8owBIdG3tm4zU8UevK4LTQymd+R8DKlNM6277TjkU+HkUbwqnibavE7E0+KcaMKHpIbURbuejHTIZ+yCsUBk7MrHPD0xTO5n4xBOtBpoSfXLtXGRm7sova/4MroSEpDEzvr+JKSDnLSYwkoJrNeP7iOZXfc78M88kuOFDe4xiY1EugfoJsISUb+BVK91r4cSgKGqNL9XdUCiGVzLjEzA5gF+3w7SagvQXFw8pJNvfgsTyF4iQkIDKcjvLqmPODe0b9UcUxrgsKPCDsEPODxgjOkb8LxHw==;X8Eb6W5j+/9Gc2qcrG0vTg=="
 ---
 

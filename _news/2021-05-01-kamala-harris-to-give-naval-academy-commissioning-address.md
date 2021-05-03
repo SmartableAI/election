@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Kamala Harris to give Naval Academy commissioning address"
-excerpt: "A White House official tells a Maryland news outlet that Vice President Kamala Harris will deliver the keynote address at the Naval Academy’s commissioning ceremony"
-publishedDateTime: 2021-04-30T20:56:00Z
-originalUrl: "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html"
-webUrl: "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html"
-ampWebUrl: "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+excerpt: "Vice President Kamala Harris will deliver the keynote address at the Naval Academy's commissioning ceremony, a White House official told a Maryland news outlet Friday. Harris is expected to give the speech May 28 during the in-person,"
+publishedDateTime: 2021-04-30T22:03:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
+webUrl: "https://www.houstonchronicle.com/news/article/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
+ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
+cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
 type: article
 quality: 125
-heat: 605
+heat: 625
 published: true
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3PQT64VJ7YI6XKFHL5C53TPTMQ.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.hdnux.com/photos/01/17/67/05/20934993/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -287,6 +287,22 @@ related:
         width: 630
         height: 630
         isCached: true
+  - title: "Kamala Harris’ Senate successor is hanging out with AOC. Why experts say that’s a smart move"
+    excerpt: "That’s become clear during his first three months as a U.S. senator. The California Democrat has embraced the Green New Deal, appearing with liberal star Rep. Alexandria Ocasio-Cortez recently to tout the plan."
+    publishedDateTime: 2021-05-03T17:14:00Z
+    webUrl: "https://www.sanluisobispo.com/news/california/article251035099.html"
+    ampWebUrl: "https://amp.sanluisobispo.com/news/california/article251035099.html"
+    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/california/article251035099.html"
+    type: article
+    provider:
+      name: SanLuisObispo
+      domain: sanluisobispo.com
+    quality: 64
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/ecea355a-ae51-471b-b0e3-1fbd7eb8f6e5/d32bcb35-22f4-43ca-afa9-db75700f38b0/1280x720/match/image.jpg"
+        width: 1279
+        height: 720
+        isCached: true
   - title: "'It's about time': With Kamala Harris and Nancy Pelosi, women share the dais for the first time"
     excerpt: "\"No president has ever said those words from this podium and it's about time.\" For the first time, both of those positions are now held by women: Vice President Kamala Harris and House Speaker Nancy Pelosi."
     publishedDateTime: 2021-04-29T10:57:00Z
@@ -406,6 +422,6 @@ related:
       domain: sacbee.com
     quality: 48
 
-secured: "45ShmtUudocQbMENAfDMmBBLEUMlpbLYhOBqbIO7bM7QTGOUu0T2oHdftQstMMS/Y2p5MrAINHMxnsKOoB9GdKGHpTSYsPIl0NalBJ+6QPx+icXnUiiSDrJ3RPEbJQnDNUVBmk6z8LjUUN+JaVBEeyIJcvw/yXIq6QTKJrRjaWRCgK1BVi3WYFyyEoarvsGJ/NsCjURk6kt+9tViulzN8Tf9SN/3EpZ5L4r6gUN4VKH1JwEK3Oyf4vcyChO9Gg6vWarsfLoHl38awMcbHhxH/lf0M9BP/aB2Vem1YsWfTlb6HDZ4/qwpzHzA2gYwj3Q7JO4q3fO09u/TDRpZS02trpxxQcQWC5y4l/HBy0PZvTSna7RKzCXwi3HG/WydsOLL7IPhc7DFNq79t+nQklpOU8L8dAsIADmQPeHsCdmcwLejoV50gzo1wn8LIBqt2HSKJDhW/We7CeVLvtReUcr9FH5ZqwRLO2iOlj6rktIGPjuaq8SIdOr68WuwCa9rkV0SveM+ZbACh6t+cTm2xeAjVg==;S9XHpGenNTJcfixjRGirdQ=="
+secured: "Q7uy9yHE6cIlbSKiVllftvIfCnofpOP0Ac0f47WFLTOtkn/EgGe6e7JEiX2W70U/zh2LT7BESwzAL5NXV9s1Y4DrgftC7/QcCbpyyre3Avr3K45MXksQi9G9PuZ9Szq4oNaxIYdJr8eSLCoCq/wG0b4pzLh5isVjc2nSffcbPmUXuUOsrR5sOcKRDOOnXlDu32sS8gz9KcQCpdO/hcPYO7huY+rvPbEWFQAHYIk8UBSGV/POMY6NlRCzR0Xn7o7AEMKojOtMmJYgiuQZg+QlVk3LuYDS2j448LHcOc1ofwO9zO0jiDUX7E77yvgfeEPLpLs63+QfEqJHV86q+NmDbZy1JcxcmZGGHrF6co52gkk=;IgtWnfA/GdbBHLQrnmvU+Q=="
 ---
 
