@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Kamala Harris will be first VP to get wax figure at Madame Tussauds"
-excerpt: "Kamala Harris will be the first vice president to have a wax figure made of her at Madame Tussauds museum in New York City because of her historic ascendance to the role, the museum announced Thursday, according to reports."
-publishedDateTime: 2021-04-30T08:35:58Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P9FqTjB6WHw/kamala-harris-will-be-first-vice-president-to-get-wax-figure-at-madame-tussauds"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P9FqTjB6WHw/kamala-harris-will-be-first-vice-president-to-get-wax-figure-at-madame-tussauds"
+excerpt: "Kamala Harris will be the first vice president to have a wax figure made of her at Madame Tussauds museum in New York City because of her historic ascendance to the role, the museum announced Thursday,"
+publishedDateTime: 2021-04-30T10:19:00Z
+originalUrl: "https://www.foxnews.com/politics/kamala-harris-will-be-first-vice-president-to-get-wax-figure-at-madame-tussauds"
+webUrl: "https://www.foxnews.com/politics/kamala-harris-will-be-first-vice-president-to-get-wax-figure-at-madame-tussauds"
 ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-will-be-first-vice-president-to-get-wax-figure-at-madame-tussauds.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-will-be-first-vice-president-to-get-wax-figure-at-madame-tussauds.amp"
 type: article
-quality: 185
-heat: 225
-published: true
+quality: 135
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00e5d318-188b-4194-b44e-808dfa7813c5/7f85d4b2-3171-4419-bd9f-53efe62bc111/1280x720/match/720/405/image.jpg?ve=1&tl=1"
@@ -64,7 +64,23 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris sex joke has Oklahoma state lawmaker unrepentant with no plans to be 'politically correct'"
+    excerpt: "An Oklahoma state senator is refusing to back down over a “misogynistic” sexual joke he made about Vice President Kamala Harris that has sparked a bipartisan backlash and some calls for his resignation."
+    publishedDateTime: 2021-04-26T09:22:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-sex-joke-has-oklahoma-state-lawmaker-unrepentant-with-no-plans-to-be-politically-correct"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-sex-joke-has-oklahoma-state-lawmaker-unrepentant-with-no-plans-to-be-politically-correct.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-sex-joke-has-oklahoma-state-lawmaker-unrepentant-with-no-plans-to-be-politically-correct.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713e9f33-c4eb-4a97-8cf1-837ab5291ca0/cf878f8f-09af-4cf4-8926-35bdddacd5dc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
-secured: "wDJh892uVRiEA3/oa8+uEjvd6zazYHny7Au22FXeR3t5dYjhs0LAWVMKJ/r1E4Q8b4He6x6WCCzG/1bR4ik6KIQ2/0YKbqfMOJd0nEbwDt2cjYIHSggQ+U63x18FnauWtRUAYgzKVWwh01bOXIMpSJ82NtUBVAeJlVlzkJxQogqBGclu6MAwgr1suKxBO6EKnTheB21T+vtPghe+sABT1g9hjgttIYl2jEnL3MAX8pTE8BHdWiKOooyqK0kkIk9J+e4LKc3eYFbcX4ys2BKQIyS8zCtPnBiq5Bw/gdhT8rHA0o2BZjFN3o049XLLFi0mVtez+ZZjZ5/HfxPsDgTpI8UkVLOgukviG86K9bXRYFg=;o3l9D1JoPmDcBeq/pIOaow=="
+secured: "3WRU6tVxMHB9ofaZLTqQpB0efSSLQ8tdLE8633VnJzjXDmckggP+IQphE2iKUEUi/qDcORmhcMvzlKgNNp9OUaEjeq3HlaqrWloLFcQZ5hogZ63qRTDWQvy8SdKo3YDCW4+X9kk3kKiG7wpxLC3jNBaXGAHa53ePjI7MrRIkODnct3Aj7FGyJo4B7i/E/HzUsulHrAItSUl1dAkmdHGrVbZAWzMGZGHd0CMD5+8pFLIL652w5WzeEKpuvGB1llsXqP3mGrFq90dtrgEsIMUbJP2xUSwxP/5RncV2vVFfbOGsMUh/+51ikORmaOItYQod49lTxG2a1haIOV7EPYLF5/xuQuAdSGoZHnsda7uONxA=;glQW3AciQlQmliD1+2waWw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/pence-speech-south-carolina-2021-04
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pence-speech-south-carolina-2021-04-29/"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 185
+published: true
 
 provider:
   name: CBS News
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Eying 2024, Pence makes 1st speech since leaving office"
-    excerpt: "In his first public address since the end of the Trump administration, former Vice President Mike Pence put down a marker for a potential return to elected office, telling an audience in early-voting"
-    publishedDateTime: 2021-04-30T03:39:00Z
-    webUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZR2LPVJI4I6XKFHL5C53TPTMQ.jpg&w=1440"
-        width: 1440
-        height: 958
-        isCached: true
-  - title: "Eying 2024, Pence says he'll push back on 'liberal agenda'"
-    excerpt: "Pence, whose relationship with President Donald Trump frayed as Trump pressured Pence to block certification of the presidential election results, praised Trump’s tenure as “four years of promises made,"
-    publishedDateTime: 2021-04-30T12:09:00Z
-    webUrl: "https://www.washingtonpost.com/politics/eying-2024-pence-says-hell-push-back-on-liberal-agenda/2021/04/30/bec59234-a9b4-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/eying-2024-pence-says-hell-push-back-on-liberal-agenda/2021/04/30/bec59234-a9b4-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/eying-2024-pence-says-hell-push-back-on-liberal-agenda/2021/04/30/bec59234-a9b4-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZR2LPVJI4I6XKFHL5C53TPTMQ.jpg&w=1440"
-        width: 1440
-        height: 958
-        isCached: true
   - title: "Former Vice President Pence delivers first speech since leaving office"
     excerpt: "Former Vice President Mike Pence made his first public appearance since leaving the White House on Thursday. He spoke at the annual Palmetto Family Council gala in South Carolina. Pence slammed President Biden while also praising his time in the Trump administration."
     publishedDateTime: 2021-04-30T04:13:00Z
@@ -91,106 +59,18 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mike Pence is returning to the public eye today — and insiders say it could foreshadow a 2024 presidential run"
-    excerpt: "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics."
-    publishedDateTime: 2021-04-30T03:18:00Z
-    webUrl: "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4"
+  - title: "Former VP Mike Pence touts Trump accomplishments in return to SC as 2024 rumors swirl"
+    excerpt: "In his first public speech since leaving office, former VP Mike Pence told a friendly crowd of several hundred Christian conservatives they need to \"stand up and unite behind a"
+    publishedDateTime: 2021-04-30T00:45:00Z
+    webUrl: "https://www.postandcourier.com/politics/former-vp-mike-pence-touts-trump-accomplishments-in-return-to-sc-as-2024-rumors-swirl/article_f490025a-a91e-11eb-b90d-7b596a092326.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
+      name: Post and Courier
+      domain: postandcourier.com
+    quality: 63
     images:
-      - url: "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg"
-        width: 847
-        height: 423
-        isCached: true
-  - title: "Mike Pence is returning to the public eye this week — and insiders say it could foreshadow a 2024 presidential run"
-    excerpt: "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics."
-    publishedDateTime: 2021-04-29T16:31:00Z
-    webUrl: "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg"
-        width: 847
-        height: 423
-        isCached: true
-  - title: "Pondering 2024, Mike Pence makes first speech since leaving office"
-    excerpt: "Mike Pence to LaunchConservative Podcast.Former Vice President Mike Pence willsoon be returning to his radio roots. .Prior to being elected to Congress in 2000,61-year-old Pence s"
-    publishedDateTime: 2021-04-30T12:08:00Z
-    webUrl: "https://www.ajc.com/news/nation-world/eying-2024-pence-makes-first-speech-since-leaving-office/TZTC2GJD6VGQ5PFHUKSOJWJAEU/"
-    ampWebUrl: "https://www.ajc.com/news/nation-world/eying-2024-pence-makes-first-speech-since-leaving-office/TZTC2GJD6VGQ5PFHUKSOJWJAEU/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/nation-world/eying-2024-pence-makes-first-speech-since-leaving-office/TZTC2GJD6VGQ5PFHUKSOJWJAEU/?outputType=amp"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 75
-    images:
-      - url: "https://www.ajc.com/resizer/uFZmVf_YLF-dxa2DhhXYCAwISwc=/1200x630/d1fegwn2wjh0cs.cloudfront.net/02-09-2021/t_4fdb7635b61947e9aecc2ca80f04a708_name_da699ebd99784be290d6ab2ac77f11c9.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Eyeing 2024, Mike Pence says he’ll push back on “liberal agenda”"
-    excerpt: "Former Vice President Mike Pence, positioning himself for a possible return to elected office, told an audience in early-voting South Carolina that he will spend the coming months “pushing"
-    publishedDateTime: 2021-04-30T22:28:00Z
-    webUrl: "https://www.denverpost.com/2021/04/30/mike-pence-2024-liberal-agenda-push-back/"
-    ampWebUrl: "https://www.denverpost.com/2021/04/30/mike-pence-2024-liberal-agenda-push-back/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/04/30/mike-pence-2024-liberal-agenda-push-back/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 75
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/04/Pence_Palmetto_Family_Council_22043-1.jpg?w=1024&h=681"
-        width: 1024
-        height: 681
-        isCached: true
-  - title: "Eyeing 2024, Pence Makes First Speech Since Leaving Office"
-    excerpt: "Mike Pence on Thursday put down a marker for a potential return to elected office, telling an audience in early-voting South Carolina that he will use the coming months “pushing back on the liberal agenda” he says is wrong for the country."
-    publishedDateTime: 2021-04-30T10:35:00Z
-    webUrl: "https://indianapublicmedia.org/news/eyeing-2024,-pence-makes-first-speech-since-leaving-office.php"
-    type: article
-    provider:
-      name: WFIU
-      domain: indianapublicmedia.org
-    quality: 55
-    images:
-      - url: "https://indianapublicmedia.org/news/news-images/pence-generic-lc_1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Mike Pence, eying 2024 bid, says he’ll push back on ‘liberal agenda’"
-    excerpt: "But the question of whether Pence's former boss will run again still looms large for the possible Republican field."
-    publishedDateTime: 2021-04-30T13:43:00Z
-    webUrl: "https://bangordailynews.com/2021/04/30/national-politics/mike-pence-eying-2024-bid-says-hell-push-back-on-liberal-agenda/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/04/Pence-Palmetto-Family-Council.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Mike Pence, potential 2024 presidential candidates coming to Texas for GOP fundraising blitz, donor appreciation event"
-    excerpt: "Former Vice President Mike Pence and several other potential 2024 presidential candidates are descending upon Texas next week to thank donors to the 2020 campaign here and to help raise"
-    publishedDateTime: 2021-04-30T19:03:00Z
-    webUrl: "https://dentonrc.com/ap/state/mike-pence-potential-2024-presidential-candidates-coming-to-texas-for-gop-fundraising-blitz-donor-appreciation/article_4c6c32a7-0c1d-5c04-a46a-a2e4a4ececce.html"
-    type: article
-    provider:
-      name: Denton Record-Chronicle
-      domain: dentonrc.com
-    quality: 31
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/dentonrc.com/content/tncms/assets/v3/editorial/7/70/770601d4-d4f4-5488-ae15-5ace26f3ef67/608c5ef63aa24.image.jpg?resize=945%2C630"
-        width: 945
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/9/bc/9bcf931c-8d78-52c4-9a4e-b6fd2a50397b/608b5b51b0488.image.jpg?resize=946%2C630"
+        width: 946
         height: 630
         isCached: true
 

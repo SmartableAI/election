@@ -25,31 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "Professional political survivor Mike Pence tests if there's any room left for him in a Trump Republican Party"
-    excerpt: "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics."
-    publishedDateTime: 2021-04-28T08:01:00Z
-    webUrl: "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4"
+  - title: "Pence touts \"our\" accomplishments in first remarks since leaving office"
+    excerpt: "In speaking to the Palmetto Family Council, a South Carolina social conservative Christian group, Pence criticized Mr. Biden for what he called \"an avalanche of liberal policies.\""
+    publishedDateTime: 2021-04-30T11:08:00Z
+    webUrl: "https://www.cbsnews.com/news/pence-speech-south-carolina-2021-04-29/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/pence-speech-south-carolina-2021-04-29/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pence-speech-south-carolina-2021-04-29/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg"
-        width: 847
-        height: 423
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/ebb6bd27-0803-4d04-8470-606e80f3aa00/thumbnail/1200x630/f196ff31d354a22d129afc18f0d33fbd/gettyimages-1232601399.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Special Report: How Trump Scored a Big Tax Break for Conserving a Golf Range"
-    excerpt: "Trump eventually abandoned a plan to build 16 homes and turned instead to the tax code to offset the lost profits - securing a $25 million tax deduction in exchange for a promise not to develop the land."
-    publishedDateTime: 2021-04-30T12:06:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
+  - title: "Former Vice President Pence delivers first speech since leaving office"
+    excerpt: "Former Vice President Mike Pence made his first public appearance since leaving the White House on Thursday. He spoke at the annual Palmetto Family Council gala in South Carolina. Pence slammed President Biden while also praising his time in the Trump administration."
+    publishedDateTime: 2021-04-30T04:13:00Z
+    webUrl: "https://www.cbsnews.com/video/former-vice-president-pence-delivers-first-speech-since-leaving-office/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 52
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/1b1e00aa-af99-48d7-9336-61d21b7b38c3/thumbnail/1200x630/234a8fb9e9d1ff1882c4d4099e8ad0f1/0429-cbsn-gza-704802-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Former Vice President Mike Pence to deliver first speech since leaving office"
+    excerpt: "Former Vice President Mike Pence is delivering his first speech since leaving office to a group of conservatives in South Carolina on Thursday. His visit to the early primary state is fueling speculation over whether Pence is weighing a 2024 presidential bid."
+    publishedDateTime: 2021-04-29T22:39:00Z
+    webUrl: "https://www.cbsnews.com/video/former-vice-president-mike-pence-first-speech-since-leaving-office-south-carolina/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 102
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/04427689-6436-419b-9d61-b0761cc247d9/thumbnail/1200x630/506dedf489cb7ffe29b1dbe6faefb840/cbsn-fusion-former-vice-president-mike-pence-to-deliver-first-speech-since-leaving-office-to-south-carolina-conservatives-thumbnail-704546-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "VRFCHaxZPxLKhRU0mc0oAceA4ufX+9RjGfWjze0z0U++RU+qcf7CbSLftHF89FSzofrMgzF4k5HGoi+C8ZW5Cmi+tESOkINZfh/MKaVMrccxiZvjx+gDYCZBaPjtbg2CYbH/xIuC5VJCO5/muqGPU3ia4fn8lImVPx3DFogwMBcpWLtwcPV4fTnfkNRkE2fDO3sHxOAZ/XhGNBwRwiZbLKRUMfoG1a7xiex65xB4hlIeGCeLCioWkZl7LZrZUaPPwqAUTrTaWTiO0yQTKH04FrevwrzO7iLu46d76m6OIuJbr7NsgTjMyvHMANKUXEJgIZaI+mTvBdhoGceEDsuljB5uiopnP2EapHsxRMPaCJe1rewAspob7Lm41aKQkRP0IRhlcJMcaf6ew7w1awC0QbLqiDvDBqanYkLBx4Q3BvCQWnIqR9FDzW/hW4yM1DZrCFHAb2dsDUxOmG/NrxyGSJYjGvqgSNpCQVKU881M06YahjysenfsMkhQqRkfc6veoh4l5K1rI9bc8pBAXC/PLw==;H5bQdcWvu4ffLNMb4Zgqmg=="
 ---

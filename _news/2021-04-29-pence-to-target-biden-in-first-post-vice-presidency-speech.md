@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-expected-to-target-biden-as-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-expected-to-target-biden-as-he-makes-his-first-post-vice-presidency-speech.amp"
 type: article
 quality: 200
-heat: 1780
+heat: 1800
 published: true
 
 provider:
@@ -397,6 +397,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26b2595f-106b-4afe-87c5-d67bef930299/1dc49e81-ee56-43ec-a666-b968f01aa9c5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden wears mask outdoors as ‘extra precaution,’ White House aide says"
+    excerpt: "President Biden hasn’t been following advice from the Centers for Disease Control and Prevention to ditch his mask outdoors and around small groups of other vaccinated people because he’s taking “extra precautions,” a White House aide said Sunday."
+    publishedDateTime: 2021-05-02T22:49:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SzeMS0oAqJU/biden-wears-mask-outdoors-as-extra-precaution-white-house-aide-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-wears-mask-outdoors-as-extra-precaution-white-house-aide-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wears-mask-outdoors-as-extra-precaution-white-house-aide-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e800fe3-041a-427e-8794-c3f93680eac2/644fba82-535e-484a-8b69-0665a72e91cf/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/energy-environment/549658-watch-live-bide
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp"
 type: article
 quality: 150
-heat: 1790
+heat: 1810
 published: true
 
 provider:
@@ -1136,6 +1136,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/5b30ae35-4c27-4d55-a6ca-90ba04a14595/5ff7b641-61af-4bc0-a2da-1b36417da963/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "No, Kamala Harris didn’t attack Joe Biden on China during a primary debate"
+    excerpt: "More than a year before Joe Biden selected Kamala Harris to be his running mate, the future president and vice president sparred on the debate stage in Miami. In a tense exchange, Harris attacked Biden over his record on busing to desegregate schools in the 1970s."
+    publishedDateTime: 2021-04-30T19:50:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/apr/30/facebook-posts/no-kamala-harris-didnt-attack-joe-biden-china-duri/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 68
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/tom_ruling_pof.png"
+        width: 667
+        height: 596
         isCached: true
   - title: "No, the Biden administration isn’t buying Kamala Harris’ book for migrant children"
     excerpt: "On April 23, the New York Post reported that migrant children routed from the U.S.-Mexico border to a shelter in Long Beach, Calif., will be given a copy of Vice President Kamala Harris’ 2019 children’s book called \"Superheroes are Everywhere."

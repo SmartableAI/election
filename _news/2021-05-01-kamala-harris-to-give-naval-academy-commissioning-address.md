@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/local/kamala-harris-to-give-naval-aca
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/kamala-harris-to-give-naval-academy-commissioning-address/2021/04/30/e081f51c-a9fe-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/22/NOKL/6d8697ab-2f40-4e6d-94a2-883b08cd938c-AP21112441508026.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Kamala Harris to Be First Vice President Memorialized in Madame Tussauds Wax Museum"
+    excerpt: "Kamala Harris will become the first vice president to be memorialized in New York’s famous Madame Tussauds Wax Museum, which will unveil her likeness and that of President Joe Biden later this year. Both Biden and Harris’s wax figures will be displayed in the museum’s “Oval Office experience."
+    publishedDateTime: 2021-05-02T02:02:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/kamala-harris-to-be-first-vice-president-memorialized-in-madame-tussauds-wax-museum/3031517/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/kamala-harris-to-be-first-vice-president-memorialized-in-madame-tussauds-wax-museum/3031517/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/biden-administration/kamala-harris-to-be-first-vice-president-memorialized-in-madame-tussauds-wax-museum/3031517/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 69
+    images:
+      - url: "https://i2.wp.com/media.nbcnewyork.com/2021/05/05012021-Madame-Tussauds-Biden-Kamala.jpg?fit=1200%2C675&quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Minister calls out Oklahoma senator for 'racist,' 'sexist' comments about Kamala Harris"
     excerpt: "Oklahoma City Rev. Lee Cooper publicly rebuked Sen. Nathan Dahm for making \"'sexist,\" \"misogynistic\" and \"racist\" remarks about VP Kamala Harris."

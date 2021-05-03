@@ -1146,6 +1146,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "No, Kamala Harris didn’t attack Joe Biden on China during a primary debate"
+    excerpt: "More than a year before Joe Biden selected Kamala Harris to be his running mate, the future president and vice president sparred on the debate stage in Miami. In a tense exchange, Harris attacked Biden over his record on busing to desegregate schools in the 1970s."
+    publishedDateTime: 2021-04-30T19:50:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/apr/30/facebook-posts/no-kamala-harris-didnt-attack-joe-biden-china-duri/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 68
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/tom_ruling_pof.png"
+        width: 667
+        height: 596
+        isCached: true
   - title: "Vice President Harris meets with nonprofit leaders to discuss root causes of Central American migration"
     excerpt: "Harris told foundation leaders that she hopes to correct the conditions that drive people out of Guatemala, El Salvador and Honduras, instead of just increasing security at the U.S. border with Mexico."
     publishedDateTime: 2021-04-22T17:55:00Z

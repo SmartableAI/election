@@ -171,6 +171,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Kamala Harris to Be First Vice President Memorialized in Madame Tussauds Wax Museum"
+    excerpt: "Kamala Harris will become the first vice president to be memorialized in New York’s famous Madame Tussauds Wax Museum, which will unveil her likeness and that of President Joe Biden later this year. Both Biden and Harris’s wax figures will be displayed in the museum’s “Oval Office experience."
+    publishedDateTime: 2021-05-02T02:02:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/kamala-harris-to-be-first-vice-president-memorialized-in-madame-tussauds-wax-museum/3031517/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/biden-administration/kamala-harris-to-be-first-vice-president-memorialized-in-madame-tussauds-wax-museum/3031517/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/biden-administration/kamala-harris-to-be-first-vice-president-memorialized-in-madame-tussauds-wax-museum/3031517/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 69
+    images:
+      - url: "https://i2.wp.com/media.nbcnewyork.com/2021/05/05012021-Madame-Tussauds-Biden-Kamala.jpg?fit=1200%2C675&quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Oklahoma City pastor blasts Sen. Nathan Dahm on Senate floor for Kamala Harris comments"
     excerpt: "During the conclusion of a Thursday morning session, Rev. Lee Cooper Jr., pastor at Prospect Baptist Church in Oklahoma City, chastised Dahm during an address ahead of the official prayer"
     publishedDateTime: 2021-04-29T23:50:00Z
