@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Biden police reform pledge faces limits of presidential power"
-excerpt: "WASHINGTON (Reuters) - Nearly a year after President Joe Biden called for “real action” on police brutality as part of a pledge to fix U.S. racial inequality, he is coming up against the limits of presidential power. The White House shelved a proposed ..."
-publishedDateTime: 2021-04-14T09:15:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-police-idUSKBN2C1186"
-webUrl: "https://www.reuters.com/article/us-usa-biden-police-idUSKBN2C1186"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C1186"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C1186"
+title: "Biden task force to reunite four migrant families separated under Trump"
+excerpt: "Homeland Security Secretary Alejandro Mayorkas says the administration is committed to reuniting \"many more\" families in coming months."
+publishedDateTime: 2021-05-03T05:28:00Z
+originalUrl: "https://www.cbsnews.com/news/biden-task-force-to-reunite-migrant-families-separated-under-trump/"
+webUrl: "https://www.cbsnews.com/news/biden-task-force-to-reunite-migrant-families-separated-under-trump/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/biden-task-force-to-reunite-migrant-families-separated-under-trump/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-task-force-to-reunite-migrant-families-separated-under-trump/"
 type: article
-quality: 125
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
-
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210414&t=2&i=1558407019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3D0KB"
-    width: 817
-    height: 545
-    isCached: true
+  - Donald Trump
 
 related:
   - title: "UPDATE 1-Biden's first budget marks sharp change from Trump years"
@@ -959,6 +953,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden police reform pledge faces limits of presidential power"
+    excerpt: "WASHINGTON (Reuters) - Nearly a year after President Joe Biden called for “real action” on police brutality as part of a pledge to fix U.S. racial inequality, he is coming up against the limits of presidential power. The White House shelved a proposed ..."
+    publishedDateTime: 2021-04-14T09:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-police-idUSKBN2C1186"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C1186"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C1186"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210414&t=2&i=1558407019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3D0KB"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden works to balance civil rights and criminal justice"
     excerpt: "President Joe Biden’s difficult balancing act on policing was put on vivid display over the course of a few hours as he tries to navigate criminal justice and civil rights WASHINGTON -- On one ..."
     publishedDateTime: 2021-04-14T14:13:00Z
@@ -1247,17 +1257,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Biden task force to reunite four migrant families separated under Trump"
-    excerpt: "Homeland Security Secretary Alejandro Mayorkas says the administration is committed to reuniting \"many more\" families in coming months."
-    publishedDateTime: 2021-05-03T05:28:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-task-force-to-reunite-migrant-families-separated-under-trump/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-task-force-to-reunite-migrant-families-separated-under-trump/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-task-force-to-reunite-migrant-families-separated-under-trump/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
   - title: "Analysis: Biden White House tries to craft gun executive orders that can't be undone"
     excerpt: "WASHINGTON (Reuters) - The White House is trying to craft a series of executive actions for President Joe Biden to sign to try to limit gun violence, hoping they cannot be quickly dismantled in court, according to aides and gun safety groups. Among the ..."
     publishedDateTime: 2021-04-02T10:12:00Z
@@ -1695,6 +1694,6 @@ related:
         height: 800
         isCached: true
 
-secured: "wXnhakrUiERNkGzIXnYMVBwBVy+2MZip3sQ4oAqI+OTd7fCVxvtuF+dPhyn6Fiz39uebVneyLqmh0GXN5JaULEVvcmRsvYUN4Kz5mEENCPdI0Y5KwBI9nuSQ7lFZB/valIESuXV9YXQepCldd4rekQQB7SAI7OF1gqNWpV44rKbrmsiT0dXTQ7c7KlRMARkEimWSjXGrlTeqybgkNhLr+mTZsMZiz+otPF+LAWaqJ1T8k56CJNszODatVTtCBb+eG4dyzgtFjL44so1P5foGFkhSXqkmi/X1eUCba5MposWZgOPgIGXMHjLMSpNRncDM5Jr7X/2+x84r3MziQJFugAHfE/0xvv1ekXa+tBpWhTHi0Yitp++yA6+9MefBuIIGd+DCih3E+2ziScqPA8QITeISAkzNZkrAfxBTjMSvO9ydHCsO7wXvvuVGEsz1A1+ETbhAUlUOzFOjcyem8p3dlMpdlsALKgT0C+UFRPRlkkN/S6BIq9Pn8YbLJs80xZefqgFjTW/Ru3tAz7WxXkEstg==;O3Hf+FohghV4/HVgRrtQqA=="
+secured: "cBtR/qO3Q2CmjayFX5qZ5NuX9EJLafQTw71Qy1u7U5vw9yNTlfmbrdnHPJtlmjs5HTy/yIVdaKH3O0GMGctTdIkV8M9ycjyr0j+OS/NNp38yObLaDNGxWThpLFJbQGMLxNwDRND7LITO3MYbdOC8jPIraBlhk1njg0z0qWGT3+8hYIBESzEBFuOBCZtzui3JJ0iDmeIQVKQVmYXhDCYFM7PFcbMJAl+c/RdKwvcZvaZQamYeQA96m23GRPFrIutwjUdvA6k6JMsY0AP9trzJ1eWlFUXMufCTyU0xY/OppdCyU9llXWYK7ilUGiNj2dAYq2Yvv+6QrC9KPRboeX2/JzYkyxLjEd8riQ4YKFYX6hSDdP4yd+85ldW7g7C0xv9/Oh4qTbE5fVuw8V2crcyXrQnh6ZAl2qaUxmd+/U+4a5Tky4MZQe8jiEks/ycm9SDTJiqATQzr4z0ssatJ9zWtleo2x7HmpIQ+c2sLv2OCdk/kuQJZO+ehPLPpcFlFVkjxiHMkxGBJLummWknAqhs6WA==;/yXfhi7SbWisdyrSf5cJoQ=="
 ---
 
