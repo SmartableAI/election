@@ -1,35 +1,33 @@
 ---
 category: news
-title: "Biden administration to reunite four migrant families separated under Trump"
-excerpt: "The Biden family reunification task force estimates that more than 1,000 migrant families separated during the Trump administration still need to be reunited."
-publishedDateTime: 2021-05-03T12:09:00Z
-originalUrl: "https://www.nbcnews.com/politics/immigration/biden-administration-reunite-four-migrant-families-separated-under-trump-n1266104"
-webUrl: "https://www.nbcnews.com/politics/immigration/biden-administration-reunite-four-migrant-families-separated-under-trump-n1266104"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266104"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266104"
+title: "Biden's infrastructure plan tests his definition of bipartisanship"
+excerpt: "The Biden administration often says that though their policies are not getting bipartisan support in Congress, they're widely supported by Americans across the country. But as President Joe Biden embarks on a multi-state tour to promote his sweeping infrastructure and jobs plan, that argument is being"
+publishedDateTime: 2021-05-03T18:36:30Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S4eI2d8MdNw/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S4eI2d8MdNw/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/yorktown-joe-biden-infrastructure/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/yorktown-joe-biden-infrastructure/index.html"
 type: article
-quality: 158
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
-  - Joe Biden
 
 images:
-  - url: "https://media4.s-nbcnews.com/i/newscms/2021_09/3454207/210303-keep-families-together-protest-se-636p_7a1a557a0d52898a96782884cc1739e2.jpg"
-    width: 2499
-    height: 1666
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210430154612-02-biden-amtrak-0430-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -94,22 +92,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210430011826-india-covid-0429-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's infrastructure plan tests his definition of bipartisanship"
-    excerpt: "The Biden administration often says that though their policies are not getting bipartisan support in Congress, they're widely supported by Americans across the country. But as President Joe Biden embarks on a multi-state tour to promote his sweeping infrastructure and jobs plan, that argument is being"
-    publishedDateTime: 2021-05-03T18:36:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S4eI2d8MdNw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/yorktown-joe-biden-infrastructure/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/yorktown-joe-biden-infrastructure/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210430154612-02-biden-amtrak-0430-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -225,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration to reunite four migrant families separated under Trump"
+    excerpt: "The Biden family reunification task force estimates that more than 1,000 migrant families separated during the Trump administration still need to be reunited."
+    publishedDateTime: 2021-05-03T12:09:00Z
+    webUrl: "https://www.nbcnews.com/politics/immigration/biden-administration-reunite-four-migrant-families-separated-under-trump-n1266104"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266104"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266104"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 158
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_09/3454207/210303-keep-families-together-protest-se-636p_7a1a557a0d52898a96782884cc1739e2.jpg"
+        width: 2499
+        height: 1666
+        isCached: true
   - title: "Biden reversed Trump on the Keystone XL pipeline. Native American groups want more."
     excerpt: "Native American and Indigenous peoples groups said they know they have an ally in Biden. But they are all too familiar with the transient nature of executive action."
     publishedDateTime: 2021-04-29T15:05:00Z
@@ -320,6 +318,6 @@ related:
         height: 629
         isCached: true
 
-secured: "Ijq7A/Rvd8zco8lkEXAQb5WCLyq8yjmBFaWZrqDxgXJknOw5DyWrY97IIeQ7nFxRrtqLQdnMP4AVo8gHlKkFbtVUNfnf7M+WWyFcbPu4Ejtyi7uGdHe8pxLwIjaiFeWDJZzV6airO4i/ESUPdGkvcYqBSOuDR8d9eYXOX3klmQ8gW1ByyIWK2de/HN9bZUt9/nzwAbO2ddnRK8BWqNYdbXNPNV0WVgvdmHAPnbVt4+DNjvcMyhDaS6/F/Kktk/WoD/tOFHTe4oVRAruFKWD2CCHRPADU8OFZVmregITIvsBMW01cSO25UVKmQI8GJMi5XmSmktQRut2spXV4qVLE0Fp6ftJ1yT0B2T/fo/vzOGGQkDk48vTl1RDZ5MqsU3pSqxnm2UeKEq6HCldBV48wjWxAVpmsakJIMhti9ugbGnDiuhWuoIYeUdZg4V4tu6W6ZNSjm9GWY02zKvUBAlobN++TU863NktoEMKXpLItJD8MpDVlfwOXiA9h9D+WyahPcLlFv16IKKAjtZ7hWZTWNg==;OpuFeV+Y8W8Wtm8QRBr2zQ=="
+secured: "vFVD2MqOkSvA84xua2DLBT/GL6jcAMvN9DTS46VdTqAEa507hrPL5XJnTiwmUltLPfO37XhHhPErTQ78lwxf1Gr0SCVhIL23QPGTS6HPIcYuUsF5hK2vPAScwn2k9hbT8E8Nvca6rEHRSJ8y/WHN9G/+J1x1EfO+H6ZoU2BURmnx7WiHf0zSuKFK0G7940yZR+VMeMm0lhT8Hug/iAik+yISYtwEHC23eqBqIC3INVzQqiBYWCb5gtmdWzBlTz2CVwXXKYX0Kscht/sYJAOc+piDB5MM6sC/HbheCTxDDzP3wRFlaP43x6VG+SRsd7J1pUNkbLYOWJ0GdflRQ8lRNdWduKniAiRFe3QBqbnMctw=;LlX3o89QHilWg2P/fWDfvQ=="
 ---
 

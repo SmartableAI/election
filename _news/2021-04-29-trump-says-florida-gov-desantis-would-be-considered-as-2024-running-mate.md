@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-desantis-2024-running-mate-co
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-desantis-2024-running-mate-considered.amp"
 type: article
 quality: 173
-heat: 193
+heat: 213
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump, DeSantis, Cruz, Rubio, Tim Scott and Rick Scott speaking at pro-life summit"
+    excerpt: "A half-dozen potential 2024 Republican presidential contenders are speaking Monday and Tuesday at the Susan B. Anthony List's Pro-Life Leaders Summit in Palm Beach, Fla."
+    publishedDateTime: 2021-05-03T19:00:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/24SroJmNE9A/trump-desantis-cruz-rubio-tim-scott-rick-scott-pro-life-summit"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-desantis-cruz-rubio-tim-scott-rick-scott-pro-life-summit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-desantis-cruz-rubio-tim-scott-rick-scott-pro-life-summit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump claims he would be on Mount Rushmore if he were a Democrat"
     excerpt: "Former President Donald Trump on Wednesday claimed that his face would be added to Mount Rushmore if he were a Democrat. Trump’s allies have long flattered him with the idea that his"
     publishedDateTime: 2021-04-28T18:37:00Z

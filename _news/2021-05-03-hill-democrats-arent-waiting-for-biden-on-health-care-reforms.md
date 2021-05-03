@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's infrastructure plan tests his definition of bipartisanship"
+    excerpt: "The Biden administration often says that though their policies are not getting bipartisan support in Congress, they're widely supported by Americans across the country. But as President Joe Biden embarks on a multi-state tour to promote his sweeping infrastructure and jobs plan, that argument is being"
+    publishedDateTime: 2021-05-03T18:36:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S4eI2d8MdNw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/yorktown-joe-biden-infrastructure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/yorktown-joe-biden-infrastructure/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210430154612-02-biden-amtrak-0430-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Bipartisan talks on infrastructure heat up as Biden prepares for big push"
     excerpt: "As the White House intensifies conversations with key Republicans on infrastructure, a small, bipartisan group of senators is in the early stages of seeing if they might be able to break loose consensus on their own plan.\n    \n"
     publishedDateTime: 2021-04-27T23:19:05Z

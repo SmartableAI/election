@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-04-donald-trump-claims-his-susan-wright-endorsement-shut-democrats-out-of-texas-house-race.md",
+      "title": "Donald Trump Claims His Susan Wright Endorsement Shut Democrats Out of Texas House Race",
+      "excerpt": "\"It would be nice, however, if the pundits and Fake News Media would state the real reason for this unprecedented (Democrats have never been shut out before) victory!\" Trump said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-claims-his-susan-wright-endorsement-shut-democrats-out-texas-house-race-1588318",
+      "originalUrl": "https://www.newsweek.com/donald-trump-claims-his-susan-wright-endorsement-shut-democrats-out-texas-house-race-1588318",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1786760/trump-claims-endorsement-shut-out-texas-democrats.jpg",
+          "width": 3000,
+          "height": 1945,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-claims-his-susan-wright-endorsement-shut-democrats-out-texas-house-race-1588318?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-claims-his-susan-wright-endorsement-shut-democrats-out-texas-house-race-1588318?amp=1",
+      "publishedDateTime": "2021-05-03T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-mcconnell-says-no-gop-senator-will-back-bidens-4-trillion-infrastructure-plan.md",
+      "title": "McConnell says no GOP senator will back Biden's $4 trillion infrastructure plan",
+      "excerpt": "Senate Minority Leader Mitch McConnell, R-Ky., said Monday that he did not expect any Republican senator to support President Biden’s push for a $4 trillion spending package on infrastructure and other projects.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/567lOYv1-b4/mcconnell-no-gop-senator-will-back-bidens-4t-infrastructure-plan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/567lOYv1-b4/mcconnell-no-gop-senator-will-back-bidens-4t-infrastructure-plan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f6941b4-fed6-430c-9339-643e93a8d971/43eefd4c-85ae-4922-b8fd-cfdcdc182695/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-no-gop-senator-will-back-bidens-4t-infrastructure-plan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-no-gop-senator-will-back-bidens-4t-infrastructure-plan.amp",
+      "publishedDateTime": "2021-05-03T12:34:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-biden-i-am-not-anti-corporate-but-its-time-they-start-paying-their-fair-share.md",
       "title": "Biden: 'I am not anti-corporate but it's time they start paying their fair share'",
       "excerpt": "President Joe Biden suggested giving working class and middle class families tax breaks instead of just the very wealthy. Biden said it will be paid for by making sure that corprate America and the wealthy \"pay their fair share.",
@@ -56,6 +164,58 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-pence-to-headline-new-hampshire-event-in-june.md",
+      "title": "Pence to headline New Hampshire event in June",
+      "excerpt": "Former Vice President Mike Pence will headline a campaign event in New Hampshire next month, fueling speculation that he may run for the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/551497-pence-to-headline-new-hampshire-event-in-june",
+      "originalUrl": "https://thehill.com/homenews/campaign/551497-pence-to-headline-new-hampshire-event-in-june",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/pencemike_100820getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/551497-pence-to-headline-new-hampshire-event-in-june?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/551497-pence-to-headline-new-hampshire-event-in-june?amp",
+      "publishedDateTime": "2021-05-03T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -180,7 +340,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -228,8 +388,8 @@
       "title": "Trump Suggests Arizona Election Recount Will Go His Way: \"Let's See What They Find\"",
       "excerpt": "Former President Donald Trump suggested to guests at Mar-a-Lago on Thursday that a recount vote in Arizona could prove the 2020 election was \"stolen\" due to voter fraud. \"Let's see what they find. I wouldn't be surprised if they found thousands and thousands and thousands of votes,",
       "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/05/03/trump_suggests_arizona_election_recount_will_go_his_way_lets_see_what_they_find.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/03/trump_suggests_arizona_election_recount_will_go_his_way_lets_see_what_they_find.html",
+      "webUrl": "https://www.realclearpolitics.com/video/2021/05/03/trump_suggests_arizona_election_recount_will_go_his_way_lets_see_what_they_find.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/03/trump_suggests_arizona_election_recount_will_go_his_way_lets_see_what_they_find.html#!",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
@@ -324,6 +484,63 @@
       ]
     },
     {
+      "path": "_news/2021-05-03-pence-headed-to-new-hampshire-in-june-sparking-more-2024-buzz.md",
+      "title": "Pence headed to New Hampshire in June, sparking more 2024 buzz",
+      "excerpt": "In a move that will spark further 2024 speculation, former Vice President Mike Pence will headline a major Republican Party dinner and fundraising event in early June in New Hampshire, the state that for a century has held the first primary in the race for the White House,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/pence-new-hampshire-trip-june-2024-buzz",
+      "originalUrl": "https://www.foxnews.com/politics/pence-new-hampshire-trip-june-2024-buzz",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-new-hampshire-trip-june-2024-buzz.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-new-hampshire-trip-june-2024-buzz.amp",
+      "publishedDateTime": "2021-05-03T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-facebook-oversight-board-to-announce-decision-on-donald-trump-ban-on-may-5.md",
       "title": "Facebook Oversight Board to Announce Decision on Donald Trump Ban on May 5",
       "excerpt": "Former President Donald Trump could make a return to Facebook and Instagram very soon following an announcement by the body that oversees bans on content for the social media sites. The Oversight Board tweeted on Monday that they will reveal their decision on Trump's suspensions this Wednesday,",
@@ -373,63 +590,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-pence-headed-to-new-hampshire-in-june-sparking-more-2024-buzz.md",
-      "title": "Pence headed to New Hampshire in June, sparking more 2024 buzz",
-      "excerpt": "In a move that will spark further 2024 speculation, former Vice President Mike Pence will headline a major Republican Party dinner and fundraising event in early June in New Hampshire, the state that for a century has held the first primary in the race for the White House, Fox News has learned.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Um92AZqkLvQ/pence-new-hampshire-trip-june-2024-buzz",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Um92AZqkLvQ/pence-new-hampshire-trip-june-2024-buzz",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-new-hampshire-trip-june-2024-buzz.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-new-hampshire-trip-june-2024-buzz.amp",
-      "publishedDateTime": "2021-05-03T07:45:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     },
     {
@@ -1082,7 +1242,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 521,
+      "heat": 541,
       "tags": null,
       "images": [
         {
@@ -1180,162 +1340,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-trump-is-fixated-and-talks-constantly-about-arizona-election-recount-allies-say.md",
-      "title": "Trump is 'fixated' and talks 'constantly' about Arizona election recount, allies say",
-      "excerpt": "Trump asks aides multiple times a day about the vote recount that is currently underway in Maricopa County, according to The Washington Post.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/608d156434af8d001859a6a3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5?amp",
-      "publishedDateTime": "2021-05-01T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-watch-trump-bid-farewell-to-mar-a-lago-members-for-the-summer-after-yet-another-speech-about-the-rigged-election.md",
-      "title": "Watch Trump bid farewell to Mar-a-Lago members for the summer after yet another speech about the 'rigged' election",
-      "excerpt": "Former President Donald Trump is planning to move his political operation to New Jersey for the summer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/watch-trump-farewell-mar-a-lago-new-jersey-election-rigged-2021-5",
-      "originalUrl": "https://www.businessinsider.com/watch-trump-farewell-mar-a-lago-new-jersey-election-rigged-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/608d76c834af8d001859a6d9?width=1200&format=jpeg",
-          "width": 762,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/watch-trump-farewell-mar-a-lago-new-jersey-election-rigged-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-trump-farewell-mar-a-lago-new-jersey-election-rigged-2021-5?amp",
-      "publishedDateTime": "2021-05-01T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far.md",
-      "title": "Joe Biden Issues 11 Proclamations, His Highest Daily Tally So Far",
-      "excerpt": "President Joe Biden set a personal daily record for The president issued 11 proclamations on April 30. Proclamations are statements that serve a variety of functions, such as issuing a directive, acknowledging an event or person,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054",
-      "originalUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1786140/biden-addresses-joint-session-congress.jpg",
-          "width": 2836,
-          "height": 1900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054?amp=1",
-      "publishedDateTime": "2021-05-01T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

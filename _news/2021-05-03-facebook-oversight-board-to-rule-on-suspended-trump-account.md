@@ -1,34 +1,26 @@
 ---
 category: news
-title: "Facebook oversight board to rule on suspended Trump account"
+title: "Facebook Oversight Board to Rule on Suspended Trump Account"
 excerpt: "Former President Donald Trump will find out this week whether he gets to return to Facebook. The social network’s quasi-independent Oversight Board says it will announce its decision Wednesday on a case concerning the former president."
-publishedDateTime: 2021-05-03T13:17:00Z
-originalUrl: "https://www.washingtonpost.com/politics/facebook-oversight-board-to-rule-on-suspended-trump-account/2021/05/03/4a390ece-ac1a-11eb-82c1-896aca955bb9_story.html"
-webUrl: "https://www.washingtonpost.com/politics/facebook-oversight-board-to-rule-on-suspended-trump-account/2021/05/03/4a390ece-ac1a-11eb-82c1-896aca955bb9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/facebook-oversight-board-to-rule-on-suspended-trump-account/2021/05/03/4a390ece-ac1a-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/facebook-oversight-board-to-rule-on-suspended-trump-account/2021/05/03/4a390ece-ac1a-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+publishedDateTime: 2021-05-03T14:02:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-05-03/facebook-oversight-board-to-rule-on-suspended-trump-account"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-05-03/facebook-oversight-board-to-rule-on-suspended-trump-account"
 type: article
-quality: 125
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N6YKWTFKPAI6XKFHL5C53TPTMQ.jpg&w=1440"
-    width: 1440
-    height: 960
-    isCached: true
 
 related:
   - title: "Trump administration accuses Obama of wiretapping"
@@ -146,6 +138,6 @@ related:
       domain: usnews.com
     quality: 46
 
-secured: "krgspPaeV5C0K2+k50q8YPaPV0+goFE08BJnEQHh5JPlyMJi1hKr2YHLVCZTc9f6HSlNMPA7tk4bF2dxVr0YfbH1VSheQV0AjP1xxbaNa8bucpf8vijaG6ZVADOWqtaB7me0s6Qnk5vPVBhZrCOHtHz6Br2S1WcdFxv2QQYztybqTzdSa3EqZ9V8IEXXo8/WYMyLTadklzRvUekddeNafks1YuSYS0eiF2AdqisCXKzi0tWwxnhgnbDop+u3qt72XGEsgqyBtJyhDWxUSNzXARe5i30/o+nSRL3RgNUPheS48niuYuDm5LiiAizlPBZ9n+73gNjnDts2RMHIQwdj4clvjypcv5zLqhZg9IIw94oYtJLQ0wnA9L3daut0yINMhzMAMUWyMKx1e5N7cvixhTCJFEgIsdk+o/XDnnEu+u7fCOkBrTgev73TZBaEjab7UeVJ6xAqqPPtcw2zqCo3BYIDvm1IcNyipbYYd+Ky15Vg4EMJxBOC7hanILzT7FQmFKq258JrWb9AHPvlUV6/YQ==;tYaNI7MPJkqdv+nx8i/mpg=="
+secured: "cSvMYgamBKqSdvuJo2vuCf2fEUOT+xrw0hJ7RSby1pOKZ99XlSoCmpjgDfH+jztDqQsyX+62H8shTJbmi5fl5wpHlotmDLeadosQzZ7iIPKkTfAzpqeah8KyKDLQeGQ1X4qLkCop6c1hewhYjz5BWCMCSLkas41BktBE34oSpNGx5XVRn/10rorQf7OSzWzUuXX0LPRAGAHXcdhmcJPRRYFjKXSiPmzcr5aEm3YMZ0AJkQFMibrQA/uh42tnY40Jowwm6ROJXpwrjjH4kUG9G/e+5H2F4FWZG3fS5agU9C/SrUjar/cu7PGVjvgX3vSqdNhrvIq9pTGT/CpnLqGMWrfe9ekxkt5OcDy/X8zmiTdlIz+Qxpeo/LyyQn1OTJAG48SpYBdUm8naOcZA2eteUuf0Yf3/DntjMs+7qYqScvzZTjomo3XhvdzJrpjPRLMJZRLMmyrKIZKrmBF4m+QVWbTrf3DxVjberFdvnEGeOC35vtSW6RnpjhIcSAY99HWkHA8o0JG4+ctn2njKr3EonQ==;LmE3UwzVWMAgkeI6kl+t/A=="
 ---
 

@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "McConnell says no GOP senator will back Biden's $4 trillion infrastructure plan"
+    excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., said Monday that he did not expect any Republican senator to support President Biden’s push for a $4 trillion spending package on infrastructure and other projects."
+    publishedDateTime: 2021-05-03T19:34:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/567lOYv1-b4/mcconnell-no-gop-senator-will-back-bidens-4t-infrastructure-plan"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-no-gop-senator-will-back-bidens-4t-infrastructure-plan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-no-gop-senator-will-back-bidens-4t-infrastructure-plan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f6941b4-fed6-430c-9339-643e93a8d971/43eefd4c-85ae-4922-b8fd-cfdcdc182695/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "McConnell says Biden's unity message in speech didn't match plans not 'designed' for 'bipartisan buy-in'"
     excerpt: "Senate Minority Leader Mitch McConnell said on Thursday that President Biden's address to a joint session of Congress showed the president is not serious about seeking bipartisan compromise despite his \"understated\" tone."
     publishedDateTime: 2021-04-29T18:00:19Z

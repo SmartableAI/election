@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facebook oversight board to rule on suspended Trump account"
-    excerpt: "Former President Donald Trump will find out this week whether he gets to return to Facebook. The social network’s quasi-independent Oversight Board says it will announce its decision Wednesday on a case concerning the former president."
-    publishedDateTime: 2021-05-03T13:17:00Z
-    webUrl: "https://www.washingtonpost.com/politics/facebook-oversight-board-to-rule-on-suspended-trump-account/2021/05/03/4a390ece-ac1a-11eb-82c1-896aca955bb9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/facebook-oversight-board-to-rule-on-suspended-trump-account/2021/05/03/4a390ece-ac1a-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/facebook-oversight-board-to-rule-on-suspended-trump-account/2021/05/03/4a390ece-ac1a-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N6YKWTFKPAI6XKFHL5C53TPTMQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Pentagon halts border wall construction paid for with defense funds redirected by Trump"
     excerpt: "In 2019, the Trump administration used Defense Department cash for border wall projects when Congress refused to fund them."
     publishedDateTime: 2021-05-01T11:16:00Z
@@ -145,6 +129,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 46
+  - title: "Facebook Oversight Board to Rule on Suspended Trump Account"
+    excerpt: "Former President Donald Trump will find out this week whether he gets to return to Facebook. The social network’s quasi-independent Oversight Board says it will announce its decision Wednesday on a case concerning the former president."
+    publishedDateTime: 2021-05-03T14:02:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-03/facebook-oversight-board-to-rule-on-suspended-trump-account"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "trxuFM+jsapzTPFd1BJmaj4HZOJJ0mbNL8y432YtLm0xbpSVEciKBLHfPu+YtFekal09V0V96XF4KLhIzpTG7IyFCJvKS2r0IOno4iSjY4LksZW014whoMlx7xljF/9N2HVg6eSK1GV+8NhrqJ8+vixysbaAEKf+4Mg1gAf5mDobDdReYxq9T7vgow9kkO15S/GL1u6QBKlM18X95E9G+Ug6OmQUoRajv1zPdJbUFsqsxHTDyuibjf7o4z+QL5e8d44BlZq1esyLeMGgmDBWnZEWa68jaGlexW1nxPweqoGQkn0PNwHkrzRv3LLvn0fJXDAYDAvwhGrG9OA+WU46AMsO0uV4G2zt8vhkMAbP+VE=;pvWDZwc17tGKSrTq+I3xQg=="
 ---

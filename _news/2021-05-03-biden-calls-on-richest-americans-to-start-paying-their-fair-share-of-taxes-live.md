@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/03/joe-biden-polit
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest"
 type: article
 quality: 119
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden: time for corporations and richest Americans to 'start paying their fair share' – video"
+    excerpt: "Biden calls on richest Americans to ‘start paying their fair share’ of taxes"
+    publishedDateTime: 2021-05-03T17:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/may/03/joe-biden-time-for-corporations-and-richest-americans-to-start-paying-their-fair-share-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 92
+    images:
+      - url: "https://i.guim.co.uk/img/media/d8fc0edb1ea5b3e9df888937a204a01cbd43e980/0_0_5732_3441/master/5732.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eab2c30986f1bf406c31fff078494f81"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden laid out his ambitious vision for a post-pandemic America. Now it is up to Sen. Chuck Schumer to make it a reality."
     excerpt: "The Senate majority leader, marking his own 100 days in charge, is responsible for turning sweeping Democratic plans into law. It’s a tall order."
     publishedDateTime: 2021-04-29T21:06:00Z
@@ -48,6 +62,6 @@ related:
         height: 800
         isCached: true
 
-secured: "Z55MDs0Jmh2LTy3pyY1iDs+tOr8IXK0oHQLIgoCcxa/gZ1msZ4kOTCy5JTfhXgYkI/dbjhEWsTWVdYo/1gdAVg7rYE7LujgJMXc/mHGmt7BaiOiIXCgc2zOqdXyslYxUrZQtA2k4KYrB4UzLoNyKahEqZtHN4ilF58WumySMvt6PoFV6tRafOR4dUFuJhotIAB/h+rmB5SYeBjq0D3yWjRrksNwgB+irFi2GlB30K9MRzTRPqOk3Eu5qw115RLYoLe1D51mxCXgBzdcWxdZfpuN/o5hpjht5WjobowOM2G7aW5l3YAiTMOsphr7TCM3edNsnjTWgryUz+/UDR6ZqxNgf72xIV4TUVqaWNbQ4wdY=;0Vj5QRJbmO7IHoabof5QVA=="
+secured: "BsjqpJnHG5XUY00BX1qIlQg9IHJhM2NGLmTF+UEJ1YwS+EP7pwaWDWeBMZ6+jrF6YXTMkm+RW6/+0phHsYcmVo3WKq256RQptE7P23ptMKKIv2L8GqjQy2DRIXpt5GAfeNEvqtxOi4SCIsApvaGCdxSlx+TrErMGaraR3C7BaGuaHViK67vOKNQgnjCVzhGicEiVlyylUs8+J92MwIZ9ft1BobygaOp31sFaMOYHbMkHXo4noevk4v3Ek4S4SisunnFqyuIijVkDPwMKGMYoMzZovpT2wxHmkWHqnxYsbCQ2x9DXNJJm1UGwcZ7QFuS8ozzyVPDvq06PfaFIPFqmOWlDNeR+Pz21P4Ft5OvSRF43Z51CFSmXC6c5MzMjA7BA/Iq3u5x2gmiCp5h2AnMh4TrUAizICbGSQyR26PwXgHyn/U2Ktg5+WYg2xLrmOesVGopwpUJ+eRWaplcZQZuA7f5aCuLIlpztKUfn/HQwgHB0Rhl7XJV4xgtFdLCjX/1Ph4XuAJUXuf801odKcw+BTw==;UAq+dm7n2T9OJwdA+nwHTQ=="
 ---
 

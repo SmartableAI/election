@@ -43,6 +43,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden: time for corporations and richest Americans to 'start paying their fair share' – video"
+    excerpt: "Biden calls on richest Americans to ‘start paying their fair share’ of taxes"
+    publishedDateTime: 2021-05-03T17:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/may/03/joe-biden-time-for-corporations-and-richest-americans-to-start-paying-their-fair-share-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 92
+    images:
+      - url: "https://i.guim.co.uk/img/media/d8fc0edb1ea5b3e9df888937a204a01cbd43e980/0_0_5732_3441/master/5732.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eab2c30986f1bf406c31fff078494f81"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "+WOb7sNgF3kwIxITc+CJKsxGNUpSTZeOtUwY/EkEvzdmNKq3wMV4VKdXf+ElVa4eaYOGP4j9axiy3hF4yGQJONPx6qsFne0vx9D5E6yCq9QHT8Y9RvJEuFUnlzsnxmnGNvnhis6ClDwJqby0YVYkobUMpVoq2UH6Uuusq4p9DvZltkYdaYTPcQwhdd56InI997A0oJeeja11WlTPBjW/rxlvYcL/YIe28fO8LkCsOoOfZmWoLdabuYHKvhbgjbIu1R1q9Xk+YpImOgCMHAF6EhEK3BuCNiPbE8Bja+S3aDLko5t6F93KFveUaMWgRpK15RiWxPwhjvlcsVMGogdaXRVjxbTTv4EXFAt+v7+yWVQ=;8+MEQI0n3YpNbwX0lf+vcA=="
 ---
