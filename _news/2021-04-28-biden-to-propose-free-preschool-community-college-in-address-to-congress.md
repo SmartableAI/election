@@ -286,6 +286,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Live Updates: Republicans Push for Biden to Shrink Infrastructure Plans"
+    excerpt: "President Biden will meet this week with Republican senators on his infrastructure ambitions, which the senators want him to scale back and pay for without tax increases. Administration officials see some opportunities for compromise."
+    publishedDateTime: 2021-05-03T08:45:00Z
+    webUrl: "https://www.nytimes.com/live/2021/05/03/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/05/03/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/05/03/us/joe-biden-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/03/us/politics/03new-washington-briefing-promo2/03new-washington-briefing-promo2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Republicans unveil $568 billion counterproposal to Biden's infrastructure plan"
     excerpt: "The White House is evaluating a $568 billion Republican counterproposal to President Joe Biden's sprawling $2.25 trillion infrastructure package, and sees it as a starting point for negotiations. White House aides plan to look into the details of the proposal and discuss it with congressional staff in the coming days,"
     publishedDateTime: 2021-04-22T18:58:00Z

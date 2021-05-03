@@ -53,22 +53,6 @@ related:
         width: 847
         height: 423
         isCached: true
-  - title: "Why Trump is more likely to win in the GOP than to take his followers to a new third party"
-    excerpt: "Former President Donald Trump has claimed at times that he’ll start a third political party called the Patriot Party. In fact, most Americans – 62% in a recent poll – say they’d welcome the chance to vote for a third party."
-    publishedDateTime: 2021-05-03T12:02:00Z
-    webUrl: "https://www.chron.com/news/article/Why-Trump-is-more-likely-to-win-in-the-GOP-than-16146941.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Why-Trump-is-more-likely-to-win-in-the-GOP-than-16146941.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Why-Trump-is-more-likely-to-win-in-the-GOP-than-16146941.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 65
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
 
 secured: "3pWdevFGRijqxZ5uB0hkYtW5fdwhr+QA1Esrqg5BtCTH3cKIQpv/5umTJJ4SWZSOX7ZnELVj1EwH7XTAvqhtFmJd7mx5FIaoAoPPlo+qfLDwLwZJbqyMg8b6QlIgth2uHXUJZXrFq2rQtCcHbRJJB7r7/8XFWJlNJBEa9OmV/mXPd9telIXrQnCIGhlSwzrFM0HiwnC+nu06aVg9gtcVmNCaFa3ioeFAlwRw87FmVH64p7em0VdUlLtKVqx4WgXWgjkxRsaK8GnduyE2QOqMKK1okg4WRlvwTgP8eo616ImU742r02SkCIqRwUwxMp4KVJIA372wDWAZlHnEe6VFbKW0mxqZuA1MCosJQv8defFYaDk5+Mwcz7EBUe/Ugl3xO5poboQT7GIp/E16hy/XzwY4OmGEpBg5p2HeD2v4fiH7+O5DAbtjDQHRxKhvJ1l1GthlZgEwZFx0ld/wIzqOpxWz829z1M7aKIx2F+p19ajCt6SQ/w71wRrjJ7gyCs3pZ8MMNbOOJszp4CVxsCGrCA==;XZJN/OSxwp/0hrjNDFGqNA=="
 ---

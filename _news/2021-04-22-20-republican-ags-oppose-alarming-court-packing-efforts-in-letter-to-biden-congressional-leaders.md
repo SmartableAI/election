@@ -191,6 +191,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "House Republicans question Biden's 'naive' plan to send cash to Central America to stop migration"
+    excerpt: "EXCLUSIVE: Republicans on the House Oversight and Budget committees are questioning a reported plan by the Biden administration to send cash payments to Central America as part of a strategy to combat the root causes of the migrant crisis -- accusing the Biden administration of trying to buy its way"
+    publishedDateTime: 2021-05-03T14:00:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_UPR4QZ7R6E/house-republicans-biden-central-america-cash-transfer-program-migrants"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Houston-Migrant-Facility-Children-Buses-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Lawmakers urge Biden to push Iranian regime on rights abuses, amid bipartisan support for resolution"
     excerpt: "Two lawmakers have written to President Biden urging him to place human rights, and holding human rights abusers accountable, at the center of his Iran policy -- just as a resolution backing a secular and democratic Iran has picked up majority support in the House."
     publishedDateTime: 2021-04-28T22:09:06Z

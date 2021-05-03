@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-expected-to-target-biden-as-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-expected-to-target-biden-as-he-makes-his-first-post-vice-presidency-speech.amp"
 type: article
 quality: 200
-heat: 1860
+heat: 1900
 published: true
 
 provider:
@@ -432,6 +432,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "San Francisco archbishop suggests Pelosi, Biden be denied Communion"
+    excerpt: "House Speaker Nancy Pelosi's hometown bishop is taking a not-so-subtle jab at her and President Biden's abortion advocacy, arguing that self-identified Catholics should refrain from publicly promoting the practice or face potential exclusion from Holy Communion."
+    publishedDateTime: 2021-05-03T15:25:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9Ctaifq9qcc/san-francisco-archbishop-pelosi-biden-abortion-communion"
+    ampWebUrl: "https://www.foxnews.com/politics/san-francisco-archbishop-pelosi-biden-abortion-communion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-francisco-archbishop-pelosi-biden-abortion-communion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a30fff67-72dd-45ec-b574-7ee9c05aa8f2/22f6b8e9-25a6-4aaf-87b2-597106ff7d32/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Cruz calls on Biden to fix gap in Texas levee that protects border towns"
     excerpt: "Sen. Ted Cruz, R-Texas, and local residents in Mission, Texas, are calling on President Biden to fix a compromised levee that protects border towns from the Rio Grande Valley – with hurricane season just weeks away."
     publishedDateTime: 2021-04-22T17:31:33Z
@@ -637,6 +653,22 @@ related:
     quality: 171
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3dbb5edb-b1aa-401e-aea0-d358cef55b4e/a81f5493-ca39-4b83-8c4f-418d4cce561d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden admin slow-walked releasing John Kerry's financial disclosures for weeks"
+    excerpt: "After weeks of pushing the State Department to release climate czar John Kerry's financial disclosure report, Fox News obtained documents showing previously unknown details about Kerry's finances."
+    publishedDateTime: 2021-05-03T15:52:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rSW1Apaf1x8/john-kerry-finances-oil-energy-special-climate-envoy-net-worth"
+    ampWebUrl: "https://www.foxnews.com/politics/john-kerry-finances-oil-energy-special-climate-envoy-net-worth.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-kerry-finances-oil-energy-special-climate-envoy-net-worth.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c75aa4a6-7d38-4794-8354-b76190badd76/6d4b4144-1854-42e0-aea5-320cbc1f0d45/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -1298,6 +1330,20 @@ related:
         width: 1100
         height: 824
         isCached: true
+  - title: "Who's Pulling Biden's Strings? Meet the Real President"
+    excerpt: "President Klain. Washington insiders delight in assigning the White House chief of staff this mischievous title as the driving force behind the actual president, Joe Biden. The man"
+    publishedDateTime: 2021-05-03T11:29:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/03/whos_pulling_bidens_strings_meet_the_real_president_541916.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/542159_5_.jpg"
+        width: 750
+        height: 467
+        isCached: true
   - title: "Tucker Carlson: Biden Admin Using Force Of Law To Crush Political Dissent"
     excerpt: "Tucker Carlson analyzes why federal agents raided Rudy Giuliani's home. TUCKER CARLSON: Today, Joe Biden gave his first address to a joint session of congress. The speech amounted to a mushy casserole of cliches designed to calm your suspicions that anything weird or scary might be going on and to reassure you that everything's going to be just fine,"
     publishedDateTime: 2021-05-01T00:43:00Z
@@ -1326,15 +1372,6 @@ related:
         width: 4352
         height: 2901
         isCached: true
-  - title: "Who's Pulling Biden's Strings? Meet the Real President"
-    excerpt: "President Klain. Washington insiders delight in assigning the White House chief of staff this mischievous title as the driving force behind the actual president, Joe Biden. The man"
-    publishedDateTime: 2021-05-03T11:29:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/03/whos_pulling_bidens_strings_meet_the_real_president_541916.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "ts0wOprDEI3KZcKTLjfdKjGZp9qEz1q656E4wSZsVRNmuA6pO0cN094rphJTqaT4KBJ08g8pF3+9t+3QZhNv1Ao/QxEG3Q7hHFmrZeNhz4YfQhVD4UiML2S8Ckx6x03U9/d3/jUb61xwT4nlVgSXTYg4TegmEexfY1Cq1Zrm3ZqbG6nRBal9FiPrkxXwNQVA6Wfsx9qr2DmnisjVfKZ5QsjzumhUF3z3N+8Ox6C4+Ay3lUOscAbduAI037WVNbaagyug179aSdfYpPIYtK5vQxsL0aL3fqgoJtQyudJtj0Lvd5RmcwCdjlAldYwmioLiuXMN2yjuTE6vz3pMM8rS9pDOTJnsoH3g5apfqBJa+TA=;NLBlV5T2t12xxlyZiYbKYg=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden visits Virginia schools as latest part of economic pitch"
+    excerpt: "President Joe Biden and first lady Jill Biden are visiting an elementary school and community college in Virginia on Monday to promote his sweeping economic proposals and how they would benefit schools if signed into law.\n    \n"
+    publishedDateTime: 2021-05-03T15:24:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3VjgBCqZkP8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/biden-economic-proposals-virginia-schools/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/biden-economic-proposals-virginia-schools/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429185143-01-biden-ga-car-rally-0429-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden, in Georgia to Promote Economic Agenda, Visits Carter"
     excerpt: "A day after his first address to Congress, President Biden met with former President Jimmy Carter and held a drive-in rally for his 100th day in office."
     publishedDateTime: 2021-04-29T23:16:00Z

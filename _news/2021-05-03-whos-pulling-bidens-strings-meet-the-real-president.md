@@ -3,10 +3,10 @@ category: news
 title: "Who's Pulling Biden's Strings? Meet the Real President"
 excerpt: "President Klain. Washington insiders delight in assigning the White House chief of staff this mischievous title as the driving force behind the actual president, Joe Biden. The man"
 publishedDateTime: 2021-05-03T11:29:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/05/03/whos_pulling_bidens_strings_meet_the_real_president_541916.html"
-webUrl: "https://www.realclearpolitics.com/2021/05/03/whos_pulling_bidens_strings_meet_the_real_president_541916.html"
+originalUrl: "https://www.realclearpolitics.com/2021/05/03/whos_pulling_bidens_strings_meet_the_real_president_541916.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/05/03/whos_pulling_bidens_strings_meet_the_real_president_541916.html#!"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/54/542159_5_.jpg"
+    width: 750
+    height: 467
+    isCached: true
 
 related:
   - title: "Pence to target Biden in first post-vice presidency speech"
@@ -436,6 +442,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "San Francisco archbishop suggests Pelosi, Biden be denied Communion"
+    excerpt: "House Speaker Nancy Pelosi's hometown bishop is taking a not-so-subtle jab at her and President Biden's abortion advocacy, arguing that self-identified Catholics should refrain from publicly promoting the practice or face potential exclusion from Holy Communion."
+    publishedDateTime: 2021-05-03T15:25:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9Ctaifq9qcc/san-francisco-archbishop-pelosi-biden-abortion-communion"
+    ampWebUrl: "https://www.foxnews.com/politics/san-francisco-archbishop-pelosi-biden-abortion-communion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-francisco-archbishop-pelosi-biden-abortion-communion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a30fff67-72dd-45ec-b574-7ee9c05aa8f2/22f6b8e9-25a6-4aaf-87b2-597106ff7d32/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Cruz calls on Biden to fix gap in Texas levee that protects border towns"
     excerpt: "Sen. Ted Cruz, R-Texas, and local residents in Mission, Texas, are calling on President Biden to fix a compromised levee that protects border towns from the Rio Grande Valley – with hurricane season just weeks away."
     publishedDateTime: 2021-04-22T17:31:33Z
@@ -641,6 +663,22 @@ related:
     quality: 171
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3dbb5edb-b1aa-401e-aea0-d358cef55b4e/a81f5493-ca39-4b83-8c4f-418d4cce561d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden admin slow-walked releasing John Kerry's financial disclosures for weeks"
+    excerpt: "After weeks of pushing the State Department to release climate czar John Kerry's financial disclosure report, Fox News obtained documents showing previously unknown details about Kerry's finances."
+    publishedDateTime: 2021-05-03T15:52:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rSW1Apaf1x8/john-kerry-finances-oil-energy-special-climate-envoy-net-worth"
+    ampWebUrl: "https://www.foxnews.com/politics/john-kerry-finances-oil-energy-special-climate-envoy-net-worth.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-kerry-finances-oil-energy-special-climate-envoy-net-worth.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c75aa4a6-7d38-4794-8354-b76190badd76/6d4b4144-1854-42e0-aea5-320cbc1f0d45/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -1331,6 +1369,6 @@ related:
         height: 2901
         isCached: true
 
-secured: "+vKqVfyUYEqwpuvKwwhYB8at0T6IElEkR2iw0hpPwo0UoNB/rTY5Ro7N7TvjLORrI7PWUAzmUdUC89JZ+OrTft9EZrWGB0cXSBQPdSlZPsbachyL8XBn8gfLAg6djNrIJDfvyd/8K8bHJ3qrMm944i6xV5A0xtfjgLwcMoTzbqf1dU2bHBEMEZdhrgBfVntPPPhauKh283ofD6tl6hxPCrAnX/P2H+5TxnKzc0HukQTHol/L4MkSeOFLvlpcf0qFIcbBjAqhu4gDa016uHQ5AY9HQMLGnwrcYKm0hdCXKE8J8GeVauqiZqRMCavpKeFweOv4pYZi4ekXD/W4G54JAr3RgbkyDou6SqwIO8S3vl0=;iot0CLxFZVbfmj6JTK88Gw=="
+secured: "FRvYt8xz00OxHQWHqsF76jPrDcH38oJPAiDCky+CajJPuNLFStWo+uNogvCMdP/PaKw4GOa51tqOmN0k1wXrayXTRVdwewRW5TdBdrEkCoIilpUY2IZ1Vz6a9p+l6vxQNPPvDkdum/HjkJVEa/IQl3ZJ6l2cuXI8MmFxruX9n0LDC98xRvXfXcFpxBBcyMWJXfSqG+2jHgU5SeSof89i6NrFOCj373DhTNhQlos0gzMb8GGIdrduiF8pzZKNnDOqWWIL0uYXMjPcmLfG2TW1tbWYJuqsVRp6SieB8DBVvAJ0MXx3GlxwxQcwzncX/GaDgsOXlVDctgrezywo13z5tKKlwQ44mpEErJr5IQq/XSk=;cZdKXntKKKr8lEmqZATniA=="
 ---
 

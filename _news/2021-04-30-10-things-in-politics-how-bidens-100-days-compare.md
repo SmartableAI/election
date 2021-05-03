@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-biden-100-days
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-biden-100-days-history?amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210430&t=2&i=1560554461&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3T1AF"
         width: 831
         height: 545
+        isCached: true
+  - title: "Biden to tout $4tn infrastructure and welfare plan – US politics live"
+    excerpt: "President travels to Virginia to try to win support for proposals – follow all the day’s politics news live"
+    publishedDateTime: 2021-05-03T14:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest?page=with:block-60900be08f0865a1048efbfa"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/d424cc0997af81ca21f6fa24298e756687e25275/0_247_7390_4434/master/7390.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4207f18477dfb75e4b239cdbc0a4f02f"
+        width: 600
+        height: 360
         isCached: true
   - title: "Joe Biden: ‘I don’t think the American people are racist’ – US politics live"
     excerpt: "President in new interview agrees with Republican senator Tim Scott’s comments to Congress – follow all the day’s politics news"

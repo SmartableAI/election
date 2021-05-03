@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook oversight board to rule on suspended Trump account"
+    excerpt: "Former President Donald Trump will find out this week whether he gets to return to Facebook. The social network’s quasi-independent Oversight Board says it will announce its decision Wednesday on a case concerning the former president."
+    publishedDateTime: 2021-05-03T13:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/facebook-oversight-board-to-rule-on-suspended-trump-account/2021/05/03/4a390ece-ac1a-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/facebook-oversight-board-to-rule-on-suspended-trump-account/2021/05/03/4a390ece-ac1a-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/facebook-oversight-board-to-rule-on-suspended-trump-account/2021/05/03/4a390ece-ac1a-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N6YKWTFKPAI6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Pentagon halts border wall construction paid for with defense funds redirected by Trump"
     excerpt: "In 2019, the Trump administration used Defense Department cash for border wall projects when Congress refused to fund them."
     publishedDateTime: 2021-05-01T11:16:00Z
