@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Biden touts achievements at Georgia rally as he marks 100 days as president – as it happened"
-excerpt: "End detention now’ – follow live"
-publishedDateTime: 2021-04-29T23:25:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest?page=with:block-608b14378f08300738403647"
-webUrl: "https://www.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest?page=with:block-608b14378f08300738403647"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
+title: "President Joe Biden to tour S&WB's Carrollton Plant this week, according to White House"
+excerpt: "President Joe Biden has argued his wide-ranging, $2.3 trillion infrastructure plan is a solution to decades of underinvestment in roads, pipes and other major projects throughout the country."
+publishedDateTime: 2021-05-03T21:49:00Z
+originalUrl: "https://www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.html"
+webUrl: "https://www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.html"
+ampWebUrl: "https://www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.amp.html"
+cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.amp.html"
 type: article
-quality: 114
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NOLA.com
+  domain: nola.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/a5f0d64f9bd702c44ba50d404f7d894f6e39cc64/0_222_4862_2917/master/4862.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=787b2730ae0133e578be8022776ba688"
-    width: 600
-    height: 360
+  - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/9/0c/90cab378-25c5-11eb-b2be-476e690edf48/5df57e8ab9e25.image.jpg?resize=1024%2C676"
+    width: 1024
+    height: 676
     isCached: true
 
 related:
@@ -63,6 +59,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden touts achievements at Georgia rally as he marks 100 days as president – as it happened"
+    excerpt: "End detention now’ – follow live"
+    publishedDateTime: 2021-04-29T23:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest?page=with:block-608b14378f08300738403647"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 114
+    images:
+      - url: "https://i.guim.co.uk/img/media/a5f0d64f9bd702c44ba50d404f7d894f6e39cc64/0_222_4862_2917/master/4862.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=787b2730ae0133e578be8022776ba688"
+        width: 600
+        height: 360
+        isCached: true
   - title: "'Life changing': President Biden asked for favorite national park memories, and they were heartwarming"
     excerpt: "National park-goers shared some of those memories and moments on Twitter this week in honor of National Park Week, which runs through Sunday and is celebrated by the National Park Foundation each April."
     publishedDateTime: 2021-04-24T12:00:00Z
@@ -93,22 +105,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "President Joe Biden to tour S&WB's Carrollton Plant this week, according to White House"
-    excerpt: "President Joe Biden has argued his wide-ranging, $2.3 trillion infrastructure plan is a solution to decades of underinvestment in roads, pipes and other major projects throughout the country."
-    publishedDateTime: 2021-05-03T21:49:00Z
-    webUrl: "https://www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.html"
-    ampWebUrl: "https://www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.amp.html"
-    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.amp.html"
-    type: article
-    provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 67
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/9/0c/90cab378-25c5-11eb-b2be-476e690edf48/5df57e8ab9e25.image.jpg?resize=1024%2C676"
-        width: 1024
-        height: 676
-        isCached: true
   - title: "No, John Velazquez didn’t call Joe Biden a horse’s ass"
     excerpt: "Says Kentucky Derby jockey John Velazquez turned down an invitation to the White House and said, “if I wanted to see a horse’s ass I would of came in second.” John Velazquez didn’t say this and he hasn’t been invited to the White House,"
     publishedDateTime: 2021-05-03T17:49:00Z
@@ -124,6 +120,6 @@ related:
         height: 596
         isCached: true
 
-secured: "kcdk6iv9UULPZvPL+RSBZ7k23vXG2THldjyupSiM16UeagBD4cWcMoplOfqf1T4bgexC5VM1a9HKXyynVsNG7QcYJFZqIDwODsizJirABCW5EKklGN8HeVQB5e2+0Oeyx4kwejfD5JZz1l0jmJGq/35iyJaod9Oxga7K+Wenq564oCVLtHufGondPnR2oCHg0YZJNaQ0uxqgO0E+NKHSuR/PuH/MAKp95tvbu5zOTpBRpBxeXlwMhFmlcCzmDcZS8Qdq/e8oY4M5mncuFvjVqyqX5HZ/3egnU9AxgtVGgasOqOPV8VmImvwdPYAg5zAOmn51Gpzg1lRKozlo5XUYNv1ZtaE3qL18qylFma9QyaU=;qixLKHPRxpp/iN3rLvVtbg=="
+secured: "VJrYhAyhFInddCARSjJ86N4wBS5D7Ai3Z4htn46BLgpsUvmR2jKDGVGftfkmPTahRw2I5VTSfnfv/xBkq0gmQn+oE1pItw8Z4TXsIEsTMd+Wx87lQK7LkyGXr7ZFwmZN54d+Bcxv0LPLDTJs9bnzuqNNmMwPCMuiLn+UXnYMjacLaIcVtwNO0TdS7wv+RzfhJBqPtadhbhkG6X9bEa70OrlS7580uL8lEuIuVN+IfhPU271jqzN80N2E8FdyQfTFU6VTJ+nM+XFQ+iw8+HlVwSmjHeFRrv7CDuVowK3wv7phas8E5aHFUD6h1+EYzC0p+tfsJaTkKKr01egnn07gMVRKn9c4k7z8YqNXurfqjWI=;kRXvTkcNc4QD/iZD9LHZag=="
 ---
 

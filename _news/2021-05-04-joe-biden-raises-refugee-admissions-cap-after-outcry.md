@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden raises refugee admissions cap after outcry"
 excerpt: "President Joe Biden has lifted the US annual refugee cap, bowing to outrage from his party after he initially opted to stick by the Trump-era figure. The Democratic president is raising the cap from 15,"
-publishedDateTime: 2021-05-03T20:42:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-56975402"
-webUrl: "https://www.bbc.com/news/world-us-canada-56975402"
+publishedDateTime: 2021-05-03T20:44:00Z
+originalUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
+webUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0849/production/_118312120_f22118aa-cfc2-4cec-8a13-7560c65f430c.jpg"
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/123E1/production/_118312747_mediaitem118312746.jpg"
     width: 1024
     height: 576
     isCached: true
@@ -158,6 +158,6 @@ related:
         height: 683
         isCached: true
 
-secured: "2kI2Dju+XAuaQQcB4M7CRHjF6wRa05bfXilY7qFGUkiwsx5o+2pAB7ZsmRJlWaWOiEAg9bC44FzniuvoOsRY2WU0/GlV8r70GltITeYM85XKaBgCu7kPpe8Qj5aw2GLxZ7vNSFBaPUjGx5bpWfCjBv6FIUDMTiC0kROBMU6iscuMjXB73poYOmIgXWrpFlFOQW+ocm8rZqc8SS8s74z7Vj5r2dgdK+YiajqhU+ESzeMFYPAh6KOa7ZCqf7nzRkKTJDr5/Ait3P3HiRevCavtyydRDlzM6wLplfumdFBpouvO8U+6/TLVxPgNh6U412kObHk7anUOzveLc+/heB7ENQEGA4i9ThamAkJEHn2QuXE=;VeV6g3fUdy/kCcvpmGaKfw=="
+secured: "Njru0YQlqBqN777rlrYbya5er/IaqYl8cG6F4ZmwjgrZDBh0AexOOm1VT4U03FLoJVLGBYWTpj+anF+UI1AeW36nsVFs8tJto761Zw5vgJM8diCjErnjsi4P2bFkOZbCdxXiJNe9tkfAAwrX93tFo565Surs1EbrCD9iOut0iBC+E2opZyEMe0WpQdnug7TWpxNg+Y2xgo7+l70z2eR6pVqHdL/7qkztWI6CaLBB8ZwIBymacZs3uJUpnQQXMB65IJxPCIWlguG4EZI7yzK6CDhbW3G6xGY+WMdHD8T89ROmNE7Zxxf8qNMEJzh+NShy42Rmk+ZjFxUdcAPANtULzsrAKyO0cBUXsISc1pkb+cg=;Bzglzj7OSXWWz90SVErHYA=="
 ---
 

@@ -103,6 +103,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "President Joe Biden to tour S&WB's Carrollton Plant this week, according to White House"
+    excerpt: "President Joe Biden has argued his wide-ranging, $2.3 trillion infrastructure plan is a solution to decades of underinvestment in roads, pipes and other major projects throughout the country."
+    publishedDateTime: 2021-05-03T21:49:00Z
+    webUrl: "https://www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.html"
+    ampWebUrl: "https://www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 67
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/9/0c/90cab378-25c5-11eb-b2be-476e690edf48/5df57e8ab9e25.image.jpg?resize=1024%2C676"
+        width: 1024
+        height: 676
+        isCached: true
 
 secured: "W24JWaVTi5FQ6QLiyCjHYJ6ylXt7cUa63ErPgCtA8Gt3xR4GRXKXyMiwboeOXSvztY3gP6JMrh4qveEQcy5Bc1iQvJxxXAOeIQmRRn+qc0doYQwU4CNzQsjTQ1qaIb7ot0HnXirBXfTSatIfn6dmWwO0uenTzh0WIjfLDYvfJEyLKBNfr+05Q2A2qjtVw216pLR8B0g3U0N+eCzDBFUaErC/Jqg4BrqDE3BPXqwIsjsFCk9tJyTXosJY6nuNudjGckMCahps6Eg9ePXutn4FXMvUDQTPDpdwaUmQaejcZQvcV9r3E5ijQu+2gwnnxa3RDwpR86HGmQcc15ykvdmbDR4d/GSxm5UIdFriqmkvNmk=;1iIDCS+rXatVzdsXrzHElg=="
 ---

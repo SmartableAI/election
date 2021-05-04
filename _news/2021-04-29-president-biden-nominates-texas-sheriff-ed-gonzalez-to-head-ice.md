@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4864492001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4864492001"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210429&i=OVEAFZTUN&r=OVEAFZTUN&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "President Joe Biden to tour S&WB's Carrollton Plant this week, according to White House"
+    excerpt: "President Joe Biden has argued his wide-ranging, $2.3 trillion infrastructure plan is a solution to decades of underinvestment in roads, pipes and other major projects throughout the country."
+    publishedDateTime: 2021-05-03T21:49:00Z
+    webUrl: "https://www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.html"
+    ampWebUrl: "https://www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 67
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/9/0c/90cab378-25c5-11eb-b2be-476e690edf48/5df57e8ab9e25.image.jpg?resize=1024%2C676"
+        width: 1024
+        height: 676
         isCached: true
   - title: "No, John Velazquez didn’t call Joe Biden a horse’s ass"
     excerpt: "Says Kentucky Derby jockey John Velazquez turned down an invitation to the White House and said, “if I wanted to see a horse’s ass I would of came in second.” John Velazquez didn’t say this and he hasn’t been invited to the White House,"
