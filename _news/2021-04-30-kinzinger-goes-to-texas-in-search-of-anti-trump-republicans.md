@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/texas-special-election-poses
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/texas-special-election-poses-test-for-anti-trump-republicans/2021/04/30/38dd9c6c-a96d-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -69,6 +69,22 @@ related:
     webUrl: "https://www.chron.com/news/article/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
     ampWebUrl: "https://www.chron.com/news/amp/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Celebrity politicians test voter interest in post-Trump era"
+    excerpt: "We just elected an outsider celebrity and it didn’t work out for the country, we didn’t get much done for the country, we all were stressed out all the time.” Jenner, a gold medal-winning decathlete and transgender rights activists perhaps best known for being part of the Kardashian family,"
+    publishedDateTime: 2021-05-04T08:13:00Z
+    webUrl: "https://www.chron.com/news/article/Celebrity-politicians-test-voter-interest-in-16145369.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Celebrity-politicians-test-voter-interest-in-16145369.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Celebrity-politicians-test-voter-interest-in-16145369.php"
     type: article
     provider:
       name: Houston Chronicle

@@ -474,6 +474,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "House Republicans urge Senate to oppose Biden ATF director nominee"
+    excerpt: "EXCLUSIVE: Dozens of House Republicans are urging the Senate to oppose President Biden's nomination of David Chipman as director of the Bureau of Alcohol, Tobacco and Firearms (ATF), calling him an \"enemy of the 2nd Amendment\" and saying his confirmation would \"jeopardize\" the constitutional rights of"
+    publishedDateTime: 2021-05-04T11:30:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BLd0ZJ777Ks/house-republicans-senate-letter-oppose-biden-atf-nominee"
+    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-senate-letter-oppose-biden-atf-nominee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-senate-letter-oppose-biden-atf-nominee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Cruz calls on Biden to fix gap in Texas levee that protects border towns"
     excerpt: "Sen. Ted Cruz, R-Texas, and local residents in Mission, Texas, are calling on President Biden to fix a compromised levee that protects border towns from the Rio Grande Valley – with hurricane season just weeks away."
     publishedDateTime: 2021-04-22T17:31:33Z

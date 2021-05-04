@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The GOP's devotion to Trump threatens to destroy American democracy"
+    excerpt: "With its cultish devotion to Donald Trump, the majority of the Republican Party is choosing a wannabe-autocrat over the political system that made the United States the world's most powerful nation and its dominant democracy.\n    \n"
+    publishedDateTime: 2021-05-04T10:38:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N9vM4dNyjl4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/04/politics/donald-trump-gop-democracy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/donald-trump-gop-democracy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427170017-01-trump-manhattan-0309-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Conan O’Brien Says No More Trump Jokes for Final Two Months on TBS"
     excerpt: "O’Brien said the last episodes of “Conan” will feature special guests and clips of his favorite moments on the show before he moves to HBO Max."
     publishedDateTime: 2021-05-04T05:46:00Z
@@ -145,6 +161,6 @@ related:
         height: 550
         isCached: true
 
-secured: "fdLQYJPpfS4GvywUMOtAq+nhWNU34kxzZabc0xsBmrQJUrhjWXzXg4M9fYn+wwEs3RnAA5bmML/jMcTQf68LQkdvZuWJnje0YPhHbUqisxz0qKuah8H3AgZvryV7u9fGpqleP3mda6seWKZwxuu4YhTGIZIduCOB0krP25GRzc3LCxXkdCQ/0vuEI7sBkI8A12t3SYH9rnkoUFRfxp8fmuYgeQcYvgvrQWsNp0lXUKDbaQ7PxNIaODRoK055JAu1CzukxshjOqOG6npUCpnU8PMTt9mrfU/EMNbWR9s0MD3qbhYHUUkTapGpFM/de20v9RSUUa/sW42cCzPtNV3UxjdDXjBDaHi5g48AY57hOs4=;pSM4jBJoTnMYMmSR77GLiQ=="
+secured: "tYodjYdxvhvUh1eIv1v8jhfwZ6a8qy/VKVIRCvbWaoApvo6yzq3lzWHskQ2Be3LlsyEIdWNdHU0tJDeFnSg/KuVlb4U2ZfYFxUC+yvICx/XWfht1eZj5BDM/iibluJYGECD2gJnNgYpCJ23fs5+bhOvY+8bTVrCG5/gh7aUTL+HoXepUBfJa02QG20MvQajS1ACcoCqwWvlTwz1qoRLRNTVRLccfGCNZIVa9qH7L0St3w9QPKuMBZEVxqKpF4Vsd7e3/c6WtalU9jUEf9FJ9V3qKvZ9Zt8hJs7ppZaFBxvAW0ffxhuqGvOnd/wg2oVbQSp8c8taS157rZJVDjENw6MpwJenqtcABwoadD2QCcI4LJHE8dUVItEpgZ9ep4bUH537LEiImJovAt9vkor5LA9WGJNTUw6lx+3+yJkReVDz1gGtWmR/Otf960gaDMcHhls2jaoX0fDXoiFREV80XW7RLo3J6Yx2IRtphCNNx+Gc1W/1a3qCS2lzg6ZzIC2GidZFMGNGza2HnpIdOoSSzbw==;0EluCdUDA4AJ5Uy1iBDjsA=="
 ---
 

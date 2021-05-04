@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4864492001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4864492001"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/f8689cd4e3fa52e9a025d26db599d5f77cd587a1/c=0-296-5168-3203/local/-/media/2021/02/25/USATODAY/usatsports/GettyImages-669737652.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Joe Biden as popular as top Republican officeholders in Texas, UT/TT Poll finds"
+    excerpt: "Texas voters have a strong preference for politicians from their own parties, but overall, the president is as popular here as the governor or either of the state's U.S. senators."
+    publishedDateTime: 2021-05-04T10:00:00Z
+    webUrl: "https://www.texastribune.org/2021/05/04/texas-joe-biden-poll/"
+    ampWebUrl: "https://www.texastribune.org/2021/05/04/texas-joe-biden-poll/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/05/04/texas-joe-biden-poll/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 71
+    images:
+      - url: "https://thumbnails.texastribune.org/cIgn_HTkrz7ubDSc4aGoMgcI_uI=/1200x630/filters:quality(95)/static.texastribune.org/media/files/3966241820de010a5085a084b0e8d80a/UT%20TT%20Biden%20Assesment.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "President Joe Biden to tour S&WB's Carrollton Plant this week, according to White House"
     excerpt: "President Joe Biden has argued his wide-ranging, $2.3 trillion infrastructure plan is a solution to decades of underinvestment in roads, pipes and other major projects throughout the country."

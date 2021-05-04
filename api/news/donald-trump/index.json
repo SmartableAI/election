@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-04-facebook-and-trump-are-at-a-turning-point-in-their-long-tortured-relationship.md",
+      "title": "Facebook and Trump are at a turning point in their long, tortured relationship",
+      "excerpt": "Facebook’s decision to outsource the future of Trump’s account to an independent Oversight Board stems from a tortured relationship with the former president. It could also set a precedent on how social media companies handle politicians and on how they will balance free speech and harm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 221,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SUC6YBUU2II6XKW4V54HAGRQZI.jpg&w=1440",
+          "width": 1440,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp",
+      "publishedDateTime": "2021-05-04T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-whose-big-lie-trumps-proclamation-a-new-gop-litmus-test.md",
       "title": "Whose 'Big Lie'? Trump's proclamation a new GOP litmus test",
       "excerpt": "Donald Trump and his supporters are intensifying efforts to shame members of the party who are seen as disloyal to the former president and his false claims that last year’s election was stolen",
@@ -573,58 +625,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-01-pro-trump-and-anti-vax-sites-urging-people-to-forge-covid-19-vaccination-cards-says-cdc.md",
-      "title": "Pro-Trump and anti-vax sites urging people to forge COVID-19 vaccination cards, says CDC",
-      "excerpt": "Faking a vaccination is easy with a template and blank flashcard. New York is the only state that keeps track of authentic cards. It is against the law to fake vaccination cards. Some former President Trump supporters and anti-vaxxers are forging vaccine cards using a government-issued template to falsely state they received their shots.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to",
-      "originalUrl": "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/ca.vac_card_gettyimages-1230169189.jpg",
-          "width": 1440,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to?amp",
-      "publishedDateTime": "2021-04-30T17:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-05-01-president-trump-fires-fbi-director-james-comey.md",
       "title": "President Trump fires FBI Director James Comey",
       "excerpt": "President Trump has fired FBI Director James Comey, which is only the second time an FBI director has been fired. CBSN contributor and Time politcal reporter Zeke Miller spoke with CBSN about Comey's dismissal.",
@@ -737,7 +737,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/texas-special-election-poses-test-for-anti-trump-republicans/2021/04/30/38dd9c6c-a96d-11eb-a8a7-5f45ddcdf364_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {

@@ -395,6 +395,20 @@ related:
         width: 1024
         height: 656
         isCached: true
+  - title: "Kamala Harris, Blackpink, Simu Liu Among Gold House's 100 Most Impactful Asians"
+    excerpt: "A number of politicians, entertainers and athletes were honored in Gold House's new list of the 100 Most Impactful Asians of the Year."
+    publishedDateTime: 2021-05-04T10:10:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-blackpink-simu-liu-among-gold-houses-100-most-impactful-asians-3192522"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 51
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/24/us-vice-president-kamala-harris-pictured-april-23.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Madame Tussauds reveals bust of Kamala Harris wax figurine | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris will make history once again as she becomes the first vice president to get their own wax figure from world-renowned museum Madame Tussauds."
     publishedDateTime: 2021-04-28T18:18:00Z

@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The GOP's devotion to Trump threatens to destroy American democracy"
+    excerpt: "With its cultish devotion to Donald Trump, the majority of the Republican Party is choosing a wannabe-autocrat over the political system that made the United States the world's most powerful nation and its dominant democracy.\n    \n"
+    publishedDateTime: 2021-05-04T10:38:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N9vM4dNyjl4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/04/politics/donald-trump-gop-democracy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/donald-trump-gop-democracy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427170017-01-trump-manhattan-0309-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Conan O’Brien Says No More Trump Jokes for Final Two Months on TBS"
     excerpt: "O’Brien said the last episodes of “Conan” will feature special guests and clips of his favorite moments on the show before he moves to HBO Max."
     publishedDateTime: 2021-05-04T05:46:00Z
