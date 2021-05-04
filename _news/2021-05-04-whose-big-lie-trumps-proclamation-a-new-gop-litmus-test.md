@@ -2,11 +2,11 @@
 category: news
 title: "Whose 'Big Lie'? Trump's proclamation a new GOP litmus test"
 excerpt: "Donald Trump and his supporters are intensifying efforts to shame members of the party who are seen as disloyal to the former president and his false claims that last year’s election was stolen"
-publishedDateTime: 2021-05-03T22:37:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trumps-big-lie-litmus-test-success-gop-77472139"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-big-lie-litmus-test-success-gop-77472139"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-big-lie-litmus-test-success-gop-77472139"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-big-lie-litmus-test-success-gop-77472139"
+publishedDateTime: 2021-05-04T04:34:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
+webUrl: "https://abcnews.go.com/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
 type: article
 quality: 125
 heat: -1
@@ -126,6 +126,6 @@ related:
         height: 731
         isCached: true
 
-secured: "fyuNpe3NIC2ZiqCsmG9Maj/7UzJzZiZqyhYuTUiUD24IHpiHelC0HDTedJHbA8U3m8tHwBnb2BBRzEAxXn6ZAQl4N1EIVqHHKajzRnGL2mc6ZPIgWMJgRSwaGn9+yyFW6K+1KxNlmgL/u7El20bp/byMOTvmqvHpUp35fWVQ0RX7d5ek6AuhIXIfaBCwHXXQPgzbvzXipvzXfWnh8PL4iXgBUEYFQ+lcfvvz85TpYwmmA5/RZG0Gi3jOG1WZ+N4dO4O1jIxV0NgNHV2ggt9owNwspBMmRjHTnWeiy+vLB/6beWf/XqXOfLG9QXOjn97tE3WE6RbAC9kob/adGRbwrWSZPr+ffEKWvkyoxqdxT40=;CiQgy2pglAyjCsZmwtWI5g=="
+secured: "Oo6uwc+pTdVoo8rl6EFJeSl45WrqLMjmOg6EWiI717vLfTguYn3A9vMulmAeSYSHuZoIIL9eJZw3jp7TnhAYrLxUxxdNTATEgfpQYzkAsFBygfGwx8P/oKC/AR2KqD34O/jQUN85kJNiC8Ouqzi8rJnnUTiKgz33GXHYVtsr7EdJHbmMOLS1IOAi9TYUiavZCCPjAMrVOmYT6/jNPFgRKRMT+RqmYFXTGAzRmlgcVOhIRYoc/NKP2AgJ8NTFaaRHjnpBDoMq9LSiGD5v235zOoDb7nJZZEFNWn8qY/kCPWdQBaWF5qQOGMv1M+912Vzn9BMkSlL7Ih+Lr5706f33xJoynOBv9+LqmO9DpVpNcB4=;RslJvQ/gGkBteJtp+j6QWw=="
 ---
 

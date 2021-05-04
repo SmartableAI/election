@@ -1,14 +1,14 @@
 ---
 category: news
-title: "‘There Is a Tension There’: Publishers Draw Fire for Signing Trump Officials"
-excerpt: "Kellyanne Conway, Mike Pence and William Barr have book deals. That is raising new challenges for publishers trying to balance ideological lines with a desire to continue representing the political spectrum."
-publishedDateTime: 2021-04-27T23:49:00Z
-originalUrl: "https://www.nytimes.com/2021/04/27/books/publishing-trump-conservatives-kellyanne-conway.html"
-webUrl: "https://www.nytimes.com/2021/04/27/books/publishing-trump-conservatives-kellyanne-conway.html"
-ampWebUrl: "https://www.nytimes.com/2021/04/27/books/publishing-trump-conservatives-kellyanne-conway.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/27/books/publishing-trump-conservatives-kellyanne-conway.amp.html"
+title: "Conan O’Brien Says No More Trump Jokes for Final Two Months on TBS"
+excerpt: "O’Brien said the last episodes of “Conan” will feature special guests and clips of his favorite moments on the show before he moves to HBO Max."
+publishedDateTime: 2021-05-04T05:46:00Z
+originalUrl: "https://www.nytimes.com/2021/05/04/arts/television/conan-obrien-to-leave-tbs.html"
+webUrl: "https://www.nytimes.com/2021/05/04/arts/television/conan-obrien-to-leave-tbs.html"
+ampWebUrl: "https://www.nytimes.com/2021/05/04/arts/television/conan-obrien-to-leave-tbs.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/04/arts/television/conan-obrien-to-leave-tbs.amp.html"
 type: article
-quality: 132
+quality: 135
 heat: -1
 published: false
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/04/27/books/27rightbooks1-sub/27rightbooks1-sub-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://static01.nyt.com/images/2021/05/04/arts/04latenight/04latenight-facebookJumbo.png"
+    width: 910
+    height: 477
     isCached: true
 
 related:
@@ -112,23 +112,23 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Conan O’Brien Says No More Trump Jokes for Final Two Months on TBS"
-    excerpt: "O’Brien said the last episodes of “Conan” will feature special guests and clips of his favorite moments on the show before he moves to HBO Max."
-    publishedDateTime: 2021-05-04T05:46:00Z
-    webUrl: "https://www.nytimes.com/2021/05/04/arts/television/conan-obrien-to-leave-tbs.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/04/arts/television/conan-obrien-to-leave-tbs.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/04/arts/television/conan-obrien-to-leave-tbs.amp.html"
+  - title: "‘There Is a Tension There’: Publishers Draw Fire for Signing Trump Officials"
+    excerpt: "Kellyanne Conway, Mike Pence and William Barr have book deals. That is raising new challenges for publishers trying to balance ideological lines with a desire to continue representing the political spectrum."
+    publishedDateTime: 2021-04-27T23:49:00Z
+    webUrl: "https://www.nytimes.com/2021/04/27/books/publishing-trump-conservatives-kellyanne-conway.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/27/books/publishing-trump-conservatives-kellyanne-conway.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/27/books/publishing-trump-conservatives-kellyanne-conway.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 132
     images:
-      - url: "https://static01.nyt.com/images/2021/05/04/arts/04latenight/04latenight-facebookJumbo.png"
-        width: 910
-        height: 477
+      - url: "https://static01.nyt.com/images/2021/04/27/books/27rightbooks1-sub/27rightbooks1-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
-secured: "lDL2viDQ4bCNTqoQ99bH/Hv/SzO1oC3ygFlEHQyx3elfpIkZ/+GTZbYYO5i7JVVgYRfzEfPWpsIhWpAVDlNvn+2UEDPY0Fdh987Oj+vIXffKdXX4cB3g2j5zkBmZO3UxrDm0GdbRVzRZF87MkfPD3lq0OluYvA/0oVDYNZNgMDBEIQVjUGc2K+oi45GeXHHZ4+KW/A+12HT/fXW3MVybwX3F5hl7ekePWkZLyKIUZrV24Qg+NRoAT7nIjKH5BCa2agl0fRsI9vhPcnkCkbZ6wSGD5iTVUT3Qj1mHibn7G6NwqG2P6UU8YzFLFR0oayTevDpkSHYJHQ+VoZUGK5iYYMzahj9P26od1hyuk1yQ3jMzge9YN3+4XIEYlMDQEojDGVeQV7y1WHfaoMynz5L+wwM/sr5VZ7IezyRqHhmHTeyebkWskzzBq8a8vaeVNLwglGkXAnaLuD3U+XKXSalCdtreDgzu218B20mFu7DECicT3xVaB6LxsSlFr6SDxEZ73k9FEnbfG/bLR1JphY1zSw==;u7nJQ/KsiCWH2t/Y2KlPzQ=="
+secured: "1JeeMGqJ07I8QE6OlreBWeTDfR+buvQW9nTkLJfyuNw/aGrGvsm5+7knJGTki794VkJ/1wR+W0dCnjrsQuL+vDJBIiwzyeMnfjVCgCcbpProCVY972Ir1CZAjo31auvhxY4fixrLt823/2JK3YgXPHFFaMhmC0hWTWSzQd1OREwVQjA2rzFYE+EZcrygsultiyx0qYLvgs38D4+srWeG9FPcMK9vEHPNCuldhlBmtsacifuU8q8Fuhh5SVNXjeVmMvPEzWRSgjBUgotg0dpXXtrn6rqyqIFqBu9BzqFdJJMOuezSZltWXcdeztlY/zeLPgnYBXQVa+IBGrUlmXkRR7oYtOw7E6/qfsKYEhGtWpA=;aeex1Bw2S+HqSG17P8443Q=="
 ---
 

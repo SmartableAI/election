@@ -33,10 +33,10 @@ images:
 related:
   - title: "Whose 'Big Lie'? Trump's proclamation a new GOP litmus test"
     excerpt: "Donald Trump and his supporters are intensifying efforts to shame members of the party who are seen as disloyal to the former president and his false claims that last year’s election was stolen"
-    publishedDateTime: 2021-05-03T22:37:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-big-lie-litmus-test-success-gop-77472139"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-big-lie-litmus-test-success-gop-77472139"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-big-lie-litmus-test-success-gop-77472139"
+    publishedDateTime: 2021-05-04T04:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
     type: article
     provider:
       name: ABC
