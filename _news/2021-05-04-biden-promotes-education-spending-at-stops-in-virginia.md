@@ -2,21 +2,21 @@
 category: news
 title: "Biden promotes education spending at stops in Virginia"
 excerpt: "President Joe Biden traveled to coastal Virginia to promote his plans to increase spending on education and children, part of his $1.8 trillion families proposal announced last week"
-publishedDateTime: 2021-05-03T20:22:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-pushes-education-spending-at-stops-in-virginia/2021/05/03/db788a64-ac32-11eb-82c1-896aca955bb9_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-pushes-education-spending-at-stops-in-virginia/2021/05/03/db788a64-ac32-11eb-82c1-896aca955bb9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-pushes-education-spending-at-stops-in-virginia/2021/05/03/db788a64-ac32-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-pushes-education-spending-at-stops-in-virginia/2021/05/03/db788a64-ac32-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+publishedDateTime: 2021-05-03T21:22:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-pushes-education-spending-stops-virginia-77466557"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-pushes-education-spending-stops-virginia-77466557"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pushes-education-spending-stops-virginia-77466557"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pushes-education-spending-stops-virginia-77466557"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MQ5NXJFMFEI6XAWBRFVMVFK3XE.jpg&w=1440"
-    width: 1440
-    height: 1033
+  - url: "https://s.abcnews.com/images/Politics/WireAP_c59f309d36174843a07f8b1896b342b4_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -170,6 +170,6 @@ related:
         height: 1047
         isCached: true
 
-secured: "DvZcYAcsqCz7t1uJgX+DEZri4eRB3zq7QFiTJ294/NSr2+GfytLKb+7fgygXZN9/+anwHbxId3G8y2tYWaZmnmTOwz7B7oPUpA2MhdrKD1wqNtVu+1YUqYkgNXpAHU0M8p5Hmhcirxt5vGO21yg6DleMvDzF31MyWXB260v1FixYyl9rKANICYnXa4R9/Ro9dUZXFbxiSakHCrvTPikadA95WdfqRFrWIdw84Eq8LpA9Ve19rObqZRjoJwEj42xhtPb1ImF/yVyKpNtf/iN/nPSDLFD7BLNwo6qwYzzXbAByAIFs5kVogftV+oywh8NgtuTJYuUJwEDF/CgFVCXI/LWKnXbVMa763I95SOdygF4AuXfKXFQzwM3akguuCqeNgHd7YocCRZyXkraoyILfAxFPueBIBfP1Izfy2gREOMD8xALAb+aDOqM3zNT+g21Z0VvJpFrtOZGmfip3tPm4syFS3Gsd0n4onTSibucKWAV2YCvfqpOrduKopsQ/RKEBflkZxiPA7T8t/tfzWQduJA==;Dn6YkXNZnDqwmjefiaiSOQ=="
+secured: "Pt9R0JQc3od0qm13nYlhq3tdbYE5YStipScnqdYHaiSd66Q3F43F7oXPjLi0FI49Exkclp8zqsXGnuxrtkrPHEk4ZjAY6puCQ0QFnoXh8WyKwyhR2vFaJZP20CCzM5ufgvZ5YP4BGoXIvEDsEAVcCGzOQoSs7iUY1dyDSMRuJHtq4aA/COShfA4te3Vg+N9BkFm18Br7ISVWvKOmp84h67sh8SHSxhQCpQF8c0+YFRO19rkL9tF8gSjxylsJIhzHKMligGlJ1fU6hBoJmtMuuH/8lMBO/HD9jMocR+hAv6Pfhuf8FyfYIv2x7r5W2Ksc0U9qMNqQCAOdc7CbsoeOE7yIeQfvmlQCR3Lw7C2MU+g=;B9JT1xo3DUa4kr5in8ZutA=="
 ---
 

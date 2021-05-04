@@ -65,19 +65,19 @@ related:
         isCached: true
   - title: "Biden promotes education spending at stops in Virginia"
     excerpt: "President Joe Biden traveled to coastal Virginia to promote his plans to increase spending on education and children, part of his $1.8 trillion families proposal announced last week"
-    publishedDateTime: 2021-05-03T20:22:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-pushes-education-spending-at-stops-in-virginia/2021/05/03/db788a64-ac32-11eb-82c1-896aca955bb9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-pushes-education-spending-at-stops-in-virginia/2021/05/03/db788a64-ac32-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-pushes-education-spending-at-stops-in-virginia/2021/05/03/db788a64-ac32-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    publishedDateTime: 2021-05-03T21:22:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-pushes-education-spending-stops-virginia-77466557"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pushes-education-spending-stops-virginia-77466557"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pushes-education-spending-stops-virginia-77466557"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MQ5NXJFMFEI6XAWBRFVMVFK3XE.jpg&w=1440"
-        width: 1440
-        height: 1033
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c59f309d36174843a07f8b1896b342b4_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden pushes education spending at stops in Virginia"
     excerpt: "President Joe Biden and the first lady are in coastal Virginia to promote his plans to increase spending on education and children, part of his $1.8 trillion families proposal announced last week"
@@ -170,6 +170,6 @@ related:
         height: 1047
         isCached: true
 
-secured: "aN61K7vxVNoMb/1oUdfCdwRXzRN0zF+Gx8fCR2wiXhMAfHqNNv30U4AmkeMu5ayBtUD6PuAoorKLyGK5SMCyb/lvmxljabHo5QIYl/HZaXRb6CD8c0x/Oxfy1CxNv8EiO/WAay1lrLWDj4voq/4Lx0UQMHxvmnkKCn7rFMJjf9juD8zrW7Qfz7ZLnTlQCmTdQ0/qe76SyB2wAktdYxVPPZIAiu001x7v/qpVDl6Wv8HcCLvk44sAaVLt64Eb0vwNzwx+Pe4MJG6xBDZb8hWxonkR0PcfzAoOcS6wcALZqaxov2edFqOR75UE5mpdiCzIlggQAN7H9EYOlMPXqmYZwAouRDqJF4GPaGRM+bY6j5c=;ASOC91lwgbiqlMEJbxniwA=="
+secured: "oU+tzitLHe7fpcnCaFWosq6Yk6upylkjhG0N/oFuLqtpKDJKK/brp8ieUgaML18AMwDNh6h7uZ4TXPvOmQzzG/660CSxghrfWcrGpyVrIUOaYfHYd8YjxC0/HOI2jKLFnYAByc2YxxSwPzAorx3M4KAsrUWQtpX3a/m4qAyuzd70G2DU3UGJkGl1jEV9qPGuT6FB5rHZ8nqhLU3aDrOkzLQm6yXwncojNFenQ7tpExyE30IwcxgESzhl9M4cfeJ1nU3qEqzWMl1fM++xrNVg5Ot8NZoeehKTI4QxyVsjyjw7iHrpm2RCqYb9wIzCokRHMFbbMLoPsCFz/J8uCqlBJZiBqltcnYodimPiPJu/vhn9sby3skG4bn6h5xv6ypA9pm2oLOeQQv9AQPWkUji5+U0ZG7bPsg/CZgphABP5C1oGi5rpv9BD8DXduYtyI+yrvY2fMfyHcj/YBECbgnhUCaJit1pW9KVFDx19I/r3mySSfa0XNCsdGERgBEkA51xcM08ZXlMuMAA8+QBlbWqnHw==;YoxQqbwzSyrpQ3Zi2tBRkg=="
 ---
 
