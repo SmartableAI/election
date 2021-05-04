@@ -27,236 +27,229 @@ images:
     isCached: true
 
 related:
-  - title: "Trump slashes at McConnell as he reiterates election falsehoods at Republican event"
-    excerpt: "Former president Donald Trump called Senate Minority Leader Mitch McConnell a “dumb son of a bitch” as he used a Saturday night speech to Republicans to blame him for not helping overturn the 2020 election and reiterated false assertions that he won ..."
-    publishedDateTime: 2021-04-11T04:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html?outputType=amp"
+  - title: "GOP White House hopefuls move forward as Trump considers run"
+    excerpt: "Donald Trump ended his presidency with such a firm grip on Republican voters that party leaders fretted he would freeze the field of potential 2024 candidates and delay their preparations as he consid"
+    publishedDateTime: 2021-04-18T13:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 134
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFSY2JE2PEI6XJWQCPJAPKW3PA.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "GOP attorneys general group in turmoil after Jan. 6 Trump rally"
+    excerpt: "The chairman of the top outside group dedicated to electing Republican attorneys general has resigned his position in the wake of a show of force by rivals from other states, months after it supported"
+    publishedDateTime: 2021-04-22T21:29:00Z
+    webUrl: "https://thehill.com/homenews/campaign/549840-gop-attorneys-general-group-in-turmoil-after-jan-6-trump-rally"
+    ampWebUrl: "https://thehill.com/homenews/campaign/549840-gop-attorneys-general-group-in-turmoil-after-jan-6-trump-rally?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549840-gop-attorneys-general-group-in-turmoil-after-jan-6-trump-rally?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/carrchris_041021_raga.jpeg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Housing agency ends Trump-era anti-transgender shelter rule"
+    excerpt: "The Department of Housing and Urban Development is withdrawing a Trump-era policy that would have allowed taxpayer-funded homeless shelters to deny access to transgender people"
+    publishedDateTime: 2021-04-22T20:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/housing-agency-ends-trump-era-anti-transgender-shelter-rule/2021/04/22/67c15c30-a3aa-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/housing-agency-ends-trump-era-anti-transgender-shelter-rule/2021/04/22/67c15c30-a3aa-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/housing-agency-ends-trump-era-anti-transgender-shelter-rule/2021/04/22/67c15c30-a3aa-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MRWX55VDVII6XMYUF2MTXWB6GE.jpg&w=1440"
         width: 1440
-        height: 951
+        height: 960
         isCached: true
-  - title: "Trump rips McConnell in speech to Republicans"
-    excerpt: "Former President Trump reportedly tore into Senate Minority Leader Mitch McConnell during a gathering Saturday evening, condemning the Kentucky Republican for not doing more to overturn the results of the 2020 election."
-    publishedDateTime: 2021-04-11T11:31:00Z
-    webUrl: "https://thehill.com/homenews/senate/547552-trump-rips-mcconnell-in-speech-to-republicans"
-    ampWebUrl: "https://thehill.com/homenews/senate/547552-trump-rips-mcconnell-in-speech-to-republicans?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/547552-trump-rips-mcconnell-in-speech-to-republicans?amp"
+  - title: "Matt Gaetz request for meeting with Trump was not snubbed, both sides say"
+    excerpt: "Photograph: Marta Lavandier/AP Matt Gaetz and a spokesman for Donald Trump reacted angrily late on Sunday after CNN reported that the scandal-hit Florida Republican congressman sought a meeting with the former US president when allegations of sex ..."
+    publishedDateTime: 2021-04-12T11:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/12/matt-gaetz-trump-meeting-rebuffed-denial"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/12/matt-gaetz-trump-meeting-rebuffed-denial"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/12/matt-gaetz-trump-meeting-rebuffed-denial"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpmcconnell_midterms_051818getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "GOP Senate campaign arm awards Trump as he rails against McConnell"
-    excerpt: "The National Republican Senatorial Committee (NRSC) presented a new award to former President Donald Trump over the weekend as GOP officials and fundraisers descended on Palm Beach, Fla.,"
-    publishedDateTime: 2021-04-12T14:07:00Z
-    webUrl: "https://thehill.com/homenews/campaign/547661-gop-senate-campaign-arm-gives-trump-new-award-as-he-rails-against-mcconnell"
-    ampWebUrl: "https://thehill.com/homenews/campaign/547661-gop-senate-campaign-arm-gives-trump-new-award-as-he-rails-against-mcconnell?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/547661-gop-senate-campaign-arm-gives-trump-new-award-as-he-rails-against-mcconnell?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_110120getty_memo.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "McConnell sidesteps Trump calling him 'dumb son of a b----'"
-    excerpt: "on Monday sidestepped blistering criticism from former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without ..."
-    publishedDateTime: 2021-04-12T23:40:00Z
-    webUrl: "https://thehill.com/homenews/senate/547820-mcconnell-sidesteps-trump-calling-him-dumb-son-of-a-b"
-    ampWebUrl: "https://thehill.com/homenews/senate/547820-mcconnell-sidesteps-trump-calling-him-dumb-son-of-a-b?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/547820-mcconnell-sidesteps-trump-calling-him-dumb-son-of-a-b?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/mcconnelltrump_borderwall_121317getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Gingrich on Trump-McConnell feud: GOP 'better off' focusing on Democrats"
-    excerpt: "Former House Speaker Newt Gingrich Newton (Newt) Leroy Gingrich MORE dismissed a recent war of words between former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal ..."
-    publishedDateTime: 2021-04-12T18:08:00Z
-    webUrl: "https://thehill.com/homenews/campaign/547722-gingrich-on-trump-mcconnell-feud-gop-better-off-focusing-on-democrats"
-    ampWebUrl: "https://thehill.com/homenews/campaign/547722-gingrich-on-trump-mcconnell-feud-gop-better-off-focusing-on-democrats?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/547722-gingrich-on-trump-mcconnell-feud-gop-better-off-focusing-on-democrats?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 124
     images:
-      - url: "https://thehill.com/sites/default/files/gingrich_trump_mcconnell041221.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Zeus of Twitter or mouse of Mar-a-Lago? Republicans court Trump in Florida"
-    excerpt: "Donald Trump was scheduled to speak on Saturday at a Republican National Committee event held at his Mar-a-Lago resort, amid a weekend of summits and dinners in the former president’s corner of Florida. The Republican rush to court Trump – and to pay ..."
-    publishedDateTime: 2021-04-10T14:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/10/zeus-of-twitter-or-mouse-of-mar-a-lago-republicans-trump--florida"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/10/zeus-of-twitter-or-mouse-of-mar-a-lago-republicans-trump--florida"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/10/zeus-of-twitter-or-mouse-of-mar-a-lago-republicans-trump--florida"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/bdb78118b4ab8163719f4c193ae98a167d3bf9c9/0_340_4500_2701/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ea6d65fd64ab15a53a9512aea1fe6b36"
+      - url: "https://i.guim.co.uk/img/media/bd670a9159855d668309642261f31134fccfbfac/0_43_4868_2922/master/4868.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c8dd8276ad7b93f3c7d259bfac90e7a0"
         width: 600
         height: 360
         isCached: true
-  - title: "‘Dumb son of a bitch’: Trump attacks McConnell in Republican donors speech"
-    excerpt: "At Mar-a-Lago, former president also goes after Fauci and Chao … and claims party ‘can’t have these guys that like publicity’ Donald Trump devoted part of a speech to Republican donors on Saturday night to insulting the Senate minority leader ..."
-    publishedDateTime: 2021-04-11T10:10:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/11/donald-trump-mitch-mcconnell-dumb-son-of-a-bitch-republicans-fauci-chao-mar-a-lago"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/11/donald-trump-mitch-mcconnell-dumb-son-of-a-bitch-republicans-fauci-chao-mar-a-lago"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/11/donald-trump-mitch-mcconnell-dumb-son-of-a-bitch-republicans-fauci-chao-mar-a-lago"
+  - title: "Republican presidential hopefuls move forward as Trump considers 2024 run"
+    excerpt: "Many Republicans with national ambitions are openly laying the groundwork for presidential campaigns as Trump continues to mull his own plans."
+    publishedDateTime: 2021-04-18T12:23:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-04-18/gop-white-house-hopefuls-move-forward-as-trump-considers-run?_amp=true"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
     images:
-      - url: "https://i.guim.co.uk/img/media/f561b65003ec96a6f3bf29a6ae90a67ceb0def63/0_83_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3a3eaeb88a65a663793b4c9801aca369"
-        width: 600
-        height: 360
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/162df09/2147483647/strip/true/crop/5326x3528+0+11/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1f%2F7c%2F6fe9b99109bdf0ab74f67cb5e881%2F364a92d584294633bd968e1d0bd93a46"
+        width: 320
+        height: 212
         isCached: true
-  - title: "Mitch McConnell dodged a question about Trump calling him a 'dumb son of a b----'"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Senate Minority Leader Mitch McConnell declined to respond to attacks from former President Donald Trump, who called him a \"dumb son of a b----\" over the weekend. Reporters pressed the Kentucky Republican on ..."
-    publishedDateTime: 2021-04-13T20:25:00Z
-    webUrl: "https://www.businessinsider.com/mcconnell-dodges-trump-calling-him-dumb-son-of-a-b-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/mcconnell-dodges-trump-calling-him-dumb-son-of-a-b-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcconnell-dodges-trump-calling-him-dumb-son-of-a-b-2021-4?amp"
+  - title: "Inmates sent home amid pandemic may have to return under Trump-era policy"
+    excerpt: "Thousands of inmates deemed “low risk” who were allowed home supervision during the pandemic may have to return because of a Trump-era memo."
+    publishedDateTime: 2021-04-21T09:04:00Z
+    webUrl: "https://www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/federal-prisoners-pandemic/2021/04/21/5d4cc3c8-96fa-11eb-8e42-3906c09073f9_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZMY3V2EZQMI6XDYKGOCM6T5TTE.jpg&w=1440"
+        width: 1440
+        height: 1046
+        isCached: true
+  - title: "George W. Bush calls country \"divided\" under Trump and pushes immigration reform"
+    excerpt: "Former President George W. Bush, who has mostly stayed on the political sidelines after the White House, has reemerged with criticism of his Republican successor as he advocates for a sharply different immigration policy from former President Donald Trump."
+    publishedDateTime: 2021-04-22T10:40:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-reform-george-w-bush-donald-trump-criticism/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-reform-george-w-bush-donald-trump-criticism/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-reform-george-w-bush-donald-trump-criticism/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
     quality: 120
     images:
-      - url: "https://i.insider.com/6075ef883e3fe7001882a728?width=1200&format=jpeg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/20/845cd18c-e837-4007-b554-42f049a8e80c/thumbnail/1200x630/8e1cb01de7d35935dc1b4ae8bbdb396e/dsc00988.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "Mitch McConnell Doesn't Want to Escalate Feud After Trump Called Him 'Stone Cold Loser'"
-    excerpt: "Senate Minority Leader Mitch McConnell of Kentucky chose not to escalate tensions between himself and former President Donald Trump when asked about Trump's recent insults towards him. Trump called McConnell a \"dumb son of a bitch\" and a \"stone-cold loser ..."
-    publishedDateTime: 2021-04-14T03:38:00Z
-    webUrl: "https://www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439"
-    ampWebUrl: "https://www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439?amp=1"
+  - title: "Nearly All of Trump's House GOP Impeachers Set Fundraising Records Since Capitol Riot"
+    excerpt: "All 10 of the House Republicans who voted to impeach Trump for his alleged role in the deadly January 6 Capitol riot have managed to out-fundraise their Trump-backed challengers."
+    publishedDateTime: 2021-04-17T15:05:00Z
+    webUrl: "https://www.newsweek.com/nearly-all-trumps-house-gop-impeachers-set-fundraising-records-since-capitol-riot-1584417"
+    ampWebUrl: "https://www.newsweek.com/nearly-all-trumps-house-gop-impeachers-set-fundraising-records-since-capitol-riot-1584417?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nearly-all-trumps-house-gop-impeachers-set-fundraising-records-since-capitol-riot-1584417?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1779383/liz-cheney-ten-house-republicans.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Republican 2024 presidential hopefuls are making early moves as Trump mulls another run"
+    excerpt: "Many Republicans with national ambitions are openly laying the groundwork for campaigns as former President Donald Trump continues to mull his own plans."
+    publishedDateTime: 2021-04-18T12:45:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-republican-2024-presidential-candidates-20210418-4thphwda55dkbivarabl7zp6fe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 117
     images:
-      - url: "https://d.newsweek.com/en/full/1777388/mcconnell-trump-loser-comment-response-rnc-speech.jpg"
-        width: 3108
-        height: 2072
+      - url: "https://www.chicagotribune.com/resizer/gd3AqHNByj1GNIHftltpXcoVWo8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7XBRM22IRCJVPCE2CQTKRTSG4.aspx"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Adam Kinzinger Blasts Trump for Insulting McConnell at GOP Donor Retreat: 'Classy as Always'"
-    excerpt: "Illinois Republican Congressman Adam Kinzinger criticized former President Donald Trump for insulting Senate Minority Leader Mitch McConnell at a GOP retreat over the weekend. \"Classy as always. I remember when my fellow Republicans would have condemned ..."
-    publishedDateTime: 2021-04-11T14:10:00Z
-    webUrl: "https://www.newsweek.com/adam-kinzinger-blasts-trump-insulting-mcconnell-gop-donor-retreat-classy-always-1582705"
-    ampWebUrl: "https://www.newsweek.com/adam-kinzinger-blasts-trump-insulting-mcconnell-gop-donor-retreat-classy-always-1582705?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adam-kinzinger-blasts-trump-insulting-mcconnell-gop-donor-retreat-classy-always-1582705?amp=1"
+  - title: "RNC Chairwoman Ronna McDaniel comes under pressure to show more independence from Trump"
+    excerpt: "Some party committee members want the GOP to create some distance from the former president — or at least grapple with the fact that Republicans lost the White House, Senate and House during his administration."
+    publishedDateTime: 2021-04-17T23:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/rnc-chairwoman-ronna-mcdaniel-comes-under-pressure-to-show-more-independence-from-trump/2021/04/16/0b6647ea-9dfe-11eb-8a83-3bc1fa69c2e8_story.html?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 114
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
     images:
-      - url: "https://d.newsweek.com/en/full/1775595/adam-kinzinger.jpg"
-        width: 2500
-        height: 1799
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AKZT7DTBVMI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 1080
         isCached: true
-  - title: "GOP Gov. Asa Hutchinson Deplores Trump Attacks on McConnell: 'Let's Get Back to Our Principles'"
-    excerpt: "While appearing on CNN's State of the Union, Hutchinson was asked about Trump's speech in which he reportedly called McConnell a \"dumb son of a bitch\" and a \"stone cold loser\" while speaking to Republican National Committee (RNC) gathering at his Mar-a ..."
-    publishedDateTime: 2021-04-11T15:39:00Z
-    webUrl: "https://www.newsweek.com/gop-gov-asa-hutchinson-deplores-trump-attacks-mcconnell-lets-get-back-our-principles-1582724"
-    ampWebUrl: "https://www.newsweek.com/gop-gov-asa-hutchinson-deplores-trump-attacks-mcconnell-lets-get-back-our-principles-1582724?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-gov-asa-hutchinson-deplores-trump-attacks-mcconnell-lets-get-back-our-principles-1582724?amp=1"
+  - title: "The fading GOP establishment moves to support Cheney as Trump attacks and McCarthy keep his distance"
+    excerpt: "Instead of becoming the first female Republican House speaker — a more difficult task now that she has so many internal enemies — Liz Cheney’s legacy might be defined by her success or failure in steering the party back to its conservative foundation."
+    publishedDateTime: 2021-04-24T09:04:00Z
+    webUrl: "https://www.washingtonpost.com/powerpost/cheney-trump-mccarthy-orlando/2021/04/23/0b41df94-a3a4-11eb-85fc-06664ff4489d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/powerpost/cheney-trump-mccarthy-orlando/2021/04/23/0b41df94-a3a4-11eb-85fc-06664ff4489d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/cheney-trump-mccarthy-orlando/2021/04/23/0b41df94-a3a4-11eb-85fc-06664ff4489d_story.html?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 113
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
     images:
-      - url: "https://d.newsweek.com/en/full/1775605/asa-hutchinson.jpg"
-        width: 2500
-        height: 1666
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUWM74VCBQI6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 1007
         isCached: true
-  - title: "Senate Republicans gave a brand new award to Trump the same weekend he called Mitch McConnell a 'dumb son of a b----h'"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% The Senate Republicans' campaign arm announced on Monday that it had presented former President Donald Trump with a new award over the weekend. Trump spent part of the same weekend attacking the top Republican in ..."
-    publishedDateTime: 2021-04-12T16:58:00Z
-    webUrl: "https://www.businessinsider.com/senate-republicans-trump-award-mcconnell-insult-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/senate-republicans-trump-award-mcconnell-insult-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-republicans-trump-award-mcconnell-insult-2021-4?amp"
+  - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – as it happened"
+    excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
+    publishedDateTime: 2021-04-16T23:47:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates?page=with:block-6079cff98f08a91092689e3a"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 88
+  - title: "This millennial GOP congressman voted to impeach Trump. Now he's trying to save his party from going off a cliff."
+    excerpt: "Republican Rep. Peter Meijer's 1st term in Congress started with a vote to impeach Trump. He's still getting plenty of flak, but he doesn't care."
+    publishedDateTime: 2021-04-24T13:36:00Z
+    webUrl: "https://www.businessinsider.com/peter-meijer-trump-impeachment-michigan-house-republican-profile-2021-4"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 101
+    quality: 84
     images:
-      - url: "https://i.insider.com/60746bd23e3fe7001882a1d6?width=1200&format=jpeg"
+      - url: "https://i.insider.com/60806acb4becb800190f6529?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump spent several minutes insulting 'dumb son of a b---h' Mitch McConnell during a rambling speech to GOP donors at Mar-a-Lago, say reports"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump derided Senate Minority Leader Mitch McConnell during a 50-minute speech at his Mar-a-Lago resort, Politico reported. Trump referred to McConnell as a \"dumb son of a b---h,\" three ..."
-    publishedDateTime: 2021-04-11T09:04:00Z
-    webUrl: "https://www.businessinsider.com/mar-a-lago-trump-insults-dumb-son-bh-mitch-mcconnell-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/mar-a-lago-trump-insults-dumb-son-bh-mitch-mcconnell-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mar-a-lago-trump-insults-dumb-son-bh-mitch-mcconnell-2021-4?amp"
+  - title: "Gregg Popovich keeps heat on owners, others who support Donald Trump"
+    excerpt: "Spurs coach Gregg Popovich refused to back down Wednesday when asked about members of the franchise’s ownership group who have made financial contributions to Donald Trump and other Republican politicians who support Trump’s false claims about election fraud in 2020 and legislation critics say would suppress voter turnout among Democrats."
+    publishedDateTime: 2021-04-15T00:29:00Z
+    webUrl: "https://www.expressnews.com/sports/spurs/article/Lonnie-Walker-questions-police-reaction-to-16101583.php"
+    ampWebUrl: "https://www.expressnews.com/sports/spurs/amp/Lonnie-Walker-questions-police-reaction-to-16101583.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/sports/spurs/amp/Lonnie-Walker-questions-police-reaction-to-16101583.php"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 90
-    images:
-      - url: "https://i.insider.com/6072b6f0a451820019b3a71a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump blasts McConnell as ‘dumb son of a b---h’: report"
-    excerpt: "Former President Donald Trump called Senate Minority Leader Mitch McConnell a “dumb son of a b---h” in front of Republican donors gathered at Trump’s Florida resort on Saturday night, according to Politico. The vulgar comment came in response to the ..."
-    publishedDateTime: 2021-04-11T15:27:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-donald-trump-mitch-mcconnell-insult-mar-a-lago-20210411-yim7xp7ftzbuvdcivaqzhmksha-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-donald-trump-mitch-mcconnell-insult-mar-a-lago-20210411-yim7xp7ftzbuvdcivaqzhmksha-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-donald-trump-mitch-mcconnell-insult-mar-a-lago-20210411-yim7xp7ftzbuvdcivaqzhmksha-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
+      name: San Antonio Express-News
+      domain: expressnews.com
     quality: 75
     images:
-      - url: "https://www.nydailynews.com/resizer/E7UE7f5xsHRVKrkom1-nCuO7GnU=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YKFGTYK6BJGDBJP7VBHYYWF3UU.JPG"
-        width: 1200
-        height: 744
+      - url: "https://s.hdnux.com/photos/01/17/46/71/20868732/3/rawImage.jpg"
+        width: 2048
+        height: 1152
         isCached: true
-  - title: "Garland rescinds Trump-era memo curtailing consent decrees"
-    excerpt: "Attorney General Merrick Garland on Friday rescinded a Trump-era memo that curtailed the use of consent decrees that federal prosecutors have used in sweeping investigations of police departments. Garland issued a new memorandum to all U."
-    publishedDateTime: 2021-04-18T06:47:00Z
-    webUrl: "https://www.chron.com/news/article/Garland-rescinds-Trump-era-memo-curtailing-16106406.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Garland-rescinds-Trump-era-memo-curtailing-16106406.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Garland-rescinds-Trump-era-memo-curtailing-16106406.php"
+  - title: "GOP White House hopefuls move forward as Trump considers run"
+    excerpt: "Less than three months after former President Donald Trump left the White House, the race to succeed him atop the Republican Party is already beginning. Trump's former secretary of state, Mike Pompeo,"
+    publishedDateTime: 2021-04-20T13:39:00Z
+    webUrl: "https://www.chron.com/news/article/GOP-White-House-hopefuls-move-forward-as-Trump-16109665.php"
+    ampWebUrl: "https://www.chron.com/news/amp/GOP-White-House-hopefuls-move-forward-as-Trump-16109665.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-White-House-hopefuls-move-forward-as-Trump-16109665.php"
     type: article
     provider:
       name: Houston Chronicle
@@ -267,21 +260,35 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Trump to give keynote speech at RNC donor retreat Saturday — right near his Mar-a-Lago club"
-    excerpt: "Former President Donald Trump will be delivering the keynote speech at the Republican National Committee donor retreat on Saturday — and he won’t have to go far. The private donor event is being held at a hotel just a few miles from Trump’s Mar-a ..."
-    publishedDateTime: 2021-04-10T19:36:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-republican-donor-event-mar-a-lago-20210410-m2lwf5qyergwzl3iysszoewmq4-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-republican-donor-event-mar-a-lago-20210410-m2lwf5qyergwzl3iysszoewmq4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-republican-donor-event-mar-a-lago-20210410-m2lwf5qyergwzl3iysszoewmq4-story.html?outputType=amp"
+  - title: "Trump Issues Warning To GOP, Says Republicans Must Embrace His MAGA Agenda"
+    excerpt: "Donald Trump reiterated Monday that his platform was the way forward for the GOP, and those that weren't on board would face consequences."
+    publishedDateTime: 2021-04-19T21:19:00Z
+    webUrl: "https://www.ibtimes.com/trump-issues-warning-gop-says-republicans-must-embrace-his-maga-agenda-3183748"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 65
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 53
     images:
-      - url: "https://www.nydailynews.com/resizer/gyLJndg9ffS2yZFaaoS3SBaDE60=/1200x0/left/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CFLRBCXRCRGEJG2J3WXLS2KIGU.jpg"
-        width: 1200
-        height: 800
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
+        width: 1024
+        height: 731
+        isCached: true
+  - title: "Former President Donald Trump tells Fox News’ Sean Hannity that he’s ‘very seriously’ considering 2024 White House run"
+    excerpt: "Former President Donald Trump on Monday told conservative talk show host Sean Hannity that he’s “very seriously” considering another White House run in 2024, potentially depending on whether the Republican Party retakes control of the U."
+    publishedDateTime: 2021-04-20T20:45:00Z
+    webUrl: "https://www.masslive.com/politics/2021/04/former-president-donald-trump-tells-fox-news-sean-hannity-that-hes-very-seriously-considering-2024-white-house-run.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/04/former-president-donald-trump-tells-fox-news-sean-hannity-that-hes-very-seriously-considering-2024-white-house-run.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/04/former-president-donald-trump-tells-fox-news-sean-hannity-that-hes-very-seriously-considering-2024-white-house-run.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 51
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7CAAWWC7GRHGBNXBDN66Z547QM.jpeg"
+        width: 2000
+        height: 1352
         isCached: true
 
 secured: "w8ojgRi51kLNV9boHMaNCpJu0PNJ7kL8RzI79fQwmXnvKGMR9iEzMcmA5qeoeL7RKaHrzNl1INdBRTvEawE06E3Gf5viEkJ0qN6r9dHpwS9dh39uMo/PfLD508qG1GjJqsRag/pmD35IDDqjJD37mbuOUkxbeuacX5RnsTvhuE5nZaiZ7G4LlmhoThtbJ3CmueT9yBvKhQDQ5gOsCs0aQn3sbYsOvpQ7Vk6HAzXnTK+a67wlFRCmLvyezJZeqSltpL0992pWUwD9KM6qZjmAc1ECj13Le/RdVuI4NQEgBlM3iPcZ5C5nAP0gqIK2ZoN6TORON7iL++HhL0bvN+eOcWUF6GVUnWK+g3vkXq/IUUIdDoVj2y5rpcESAnMYNy2/JDd3vlGqGtMRmJdMQhp4D5Q9pHt8zSGnEnYQKeDrC8rWp4WYeURmsh9bZxNHRFW73BZ6Qlyd0HWkMl4Y8WeSxBJVf5NuIsmb/B/k0ot/UCD5x85i+RS2sZCX2heN6GIGqybUJMn6aCoFoRIqfvREsQ==;qSnNPN4K3HH8eaNa2veQkw=="

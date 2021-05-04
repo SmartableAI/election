@@ -29,83 +29,51 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden's Slip Saying 'AFT' Rather Than 'ATF' Goes Viral"
-    excerpt: "President Joe Biden's verbal stumble over the abbreviation for the Bureau of Alcohol, Tobacco, Firearms and Explosives was seized on by his right-wing opponents and shared widely online on Thursday as he moved to install a gun control advocate as head of ..."
-    publishedDateTime: 2021-04-09T09:54:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252?amp=1"
+  - title: "Joe Biden Says 'No Justification' For Looting, Violence Amid Unrest Over Daunte Wright Shooting"
+    excerpt: "President Joe Biden condemned looting and violence that has taken place in the aftermath of the police shooting of 20-year-old Daunte Wright in Brooklyn Center, Minnesota on Sunday. Wright, a Black man, died Sunday after he was shot by a police officer ..."
+    publishedDateTime: 2021-04-12T20:04:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-no-justification-looting-violence-amid-unrest-over-daunte-wright-shooting-1583048?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 125
+    quality: 113
     images:
-      - url: "https://d.newsweek.com/en/full/1774295/president-joe-biden.jpg"
+      - url: "https://d.newsweek.com/en/full/1776653/daunte-wright-protest.jpg"
         width: 1024
-        height: 706
+        height: 695
         isCached: true
-  - title: "What David Chipman, Joe Biden's ATF Nominee, Allegedly Said About Waco"
-    excerpt: "President Joe Biden's nominee to lead the Bureau of Alcohol, Tobacco and Firearms (ATF) may have falsely claimed that cult members at Waco shot down helicopters. Newsweek has contacted the White House for comment on this article. Newsweek has attempted to ..."
-    publishedDateTime: 2021-04-09T12:12:00Z
-    webUrl: "https://www.newsweek.com/what-david-chipman-joe-bidens-atf-nominee-allegedly-said-about-waco-1582231"
-    ampWebUrl: "https://www.newsweek.com/what-david-chipman-joe-bidens-atf-nominee-allegedly-said-about-waco-1582231?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-david-chipman-joe-bidens-atf-nominee-allegedly-said-about-waco-1582231?amp=1"
+  - title: "Daunte Wright Protester Bashes Joe Biden for Failing Black Community: You Said, 'You Got Our Back'"
+    excerpt: "Demonstrators gathered in Brooklyn Center on Saturday for a seventh night of protests against police brutality after the police killing of 20-year-old Daunte Wright."
+    publishedDateTime: 2021-04-19T02:25:00Z
+    webUrl: "https://www.newsweek.com/daunte-wright-protester-bashes-joe-biden-failing-black-community-you-said-you-got-our-back-1584539"
+    ampWebUrl: "https://www.newsweek.com/daunte-wright-protester-bashes-joe-biden-failing-black-community-you-said-you-got-our-back-1584539?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/daunte-wright-protester-bashes-joe-biden-failing-black-community-you-said-you-got-our-back-1584539?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 125
+    quality: 111
     images:
-      - url: "https://d.newsweek.com/en/full/1774249/former-atf-special-agent-david-chipman.jpg"
-        width: 3000
-        height: 1982
+      - url: "https://d.newsweek.com/en/full/1779601/daunte-wright-protesters-march-colorado.jpg"
+        width: 2500
+        height: 1668
         isCached: true
-  - title: "Biden's troop withdrawal plan marked by sobering concern: The Note"
-    excerpt: "While many allies of the president issued statements of support for Biden's decision, CIA Director William Burns warned withdrawal will inhibit intelligence gathering."
-    publishedDateTime: 2021-04-15T10:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/bidens-troop-withdrawal-plan-marked-sobering-concern-note/story?id=77072223"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-troop-withdrawal-plan-marked-sobering-concern-note/story?id=77072223"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-troop-withdrawal-plan-marked-sobering-concern-note/story?id=77072223"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/joe-biden-afghanistan-address-gty-jc-210414_1618437671570_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Blinken visits Afghanistan in show of support after Biden announces withdrawal"
-    excerpt: "U.S. Secretary of State Antony Blinken made an unannounced visit to Kabul on Thursday to show support for the Afghan government and civil society a day after President Joe Biden said he was pulling out American forces after nearly 20 years of war."
-    publishedDateTime: 2021-04-15T19:03:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-afghanistan-blinken-idAFKBN2C21HU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2C21HU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2C21HU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210415&t=2&i=1558579629&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3E0R5"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Republicans turn to the socialism playbook on Biden's infrastructure bill, labeling anything other than roads and bridges as 'Soviet'"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Republican lawmakers are responding to President Joe Biden's $2 trillion infrastructure bill with a litany of misleading and even false statements. The GOP's longstanding strategy of attaching the socialism label ..."
-    publishedDateTime: 2021-04-14T18:22:00Z
-    webUrl: "https://www.businessinsider.com/biden-infrastructure-plan-republican-response-socialism-soviet-style-scalise-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/biden-infrastructure-plan-republican-response-socialism-soviet-style-scalise-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-infrastructure-plan-republican-response-socialism-soviet-style-scalise-2021-4?amp"
+  - title: "Biden says there is 'no justification for violence' at protests after police shot and killed a 20-year-old Black man in Minnesota"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% In his first remarks about the police killing of a 20-year old Black man, Daunte Wright, President Joe Biden said that \"it remains to be determined,\" whether the shooting was accidental or not. Biden added that ..."
+    publishedDateTime: 2021-04-12T19:20:00Z
+    webUrl: "https://www.businessinsider.com/duante-wright-biden-says-no-justification-violence-protests-police-shooting-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/duante-wright-biden-says-no-justification-violence-protests-police-shooting-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/duante-wright-biden-says-no-justification-violence-protests-police-shooting-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 94
+    quality: 96
     images:
-      - url: "https://i.insider.com/6077151f74da0300181e1a4c?width=1200&format=jpeg"
+      - url: "https://i.insider.com/607498e13e3fe7001882a2d3?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

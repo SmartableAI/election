@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-quieter-hold-gop-stays-st
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-quieter-hold-gop-stays-strong-note/story?id=76951919"
 type: article
 quality: 125
-heat: 205
+heat: 185
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Trump says Mo Brooks ‘has done a spectacular job … He’s a strong guy, a tough guy’"
-    excerpt: "Former President Donald Trump on Tuesday all but endorsed Alabama Congressman Mo Brooks in his bid to win a U.S. Senate seat next year. Appearing on the Newsmax program “American Agenda,” Trump heaped praise on Brooks when host Heather Childers brought ..."
-    publishedDateTime: 2021-04-07T11:01:00Z
-    webUrl: "https://www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html"
-    ampWebUrl: "https://www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 69
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBYBGAJFHRF7BMFXXOBPEV26OU.jpg"
-        width: 4032
-        height: 3024
         isCached: true
   - title: "Donald who? Lower-profile Trump still has grip on GOP."
     excerpt: "Has Donald Trump’s time come and gone? After failing to win reelection in 2020 and getting booted from Twitter after the Jan. 6 Capitol insurrection, he seems a shadow of his former self. Even his “Trump”-emblazoned Boeing 757 sits idle and reportedly in disrepair at an airport in upstate New York."

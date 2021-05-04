@@ -27,69 +27,293 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to pull U.S. troops from Afghanistan by Sept. 11, sources say"
-    excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, three sources familiar with the decision told Reuters."
-    publishedDateTime: 2021-04-13T14:58:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-afghanistan-withdrawal/biden-to-pull-u-s-troops-from-afghanistan-by-sept-11-sources-say-idUSKBN2C028S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C028S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C028S"
+  - title: "Trump: McConnell 'helpless' to stop Biden from packing court"
+    excerpt: "Former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Police in California city ..."
+    publishedDateTime: 2021-04-13T02:45:00Z
+    webUrl: "https://thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court"
+    ampWebUrl: "https://thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: The Hill
+      domain: thehill.com
+    quality: 140
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558314068&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C17V"
-        width: 795
-        height: 545
+      - url: "https://thehill.com/sites/default/files/trumpdonald_mcconnellmitch_021821getty-gn_split_gop-funding.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Biden to withdraw US troops from Afghanistan by September 11"
-    excerpt: "Last modified on Tue 13 Apr 2021 12.41 EDT Joe Biden will withdraw all the remaining US troops from Afghanistan by September 11, the 20th anniversary of the al-Qaida terrorist attacks on New York and Washington, a senior administration official has confirmed."
-    publishedDateTime: 2021-04-13T16:41:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/13/biden-withdraw-troops-afghanistan-september-11"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/13/biden-withdraw-troops-afghanistan-september-11"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/13/biden-withdraw-troops-afghanistan-september-11"
+  - title: "Biden to move ahead with $23 billion UAE weapons sale approved by Trump"
+    excerpt: "HuffPost first reported the plan. Former President Trump Donald Trump Biden to move ahead with billion UAE weapons sale approved by Trump Fox News hires high-profile defense team in Dominion ..."
+    publishedDateTime: 2021-04-14T01:21:00Z
+    webUrl: "https://thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump"
+    ampWebUrl: "https://thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
+      name: The Hill
+      domain: thehill.com
+    quality: 140
     images:
-      - url: "https://i.guim.co.uk/img/media/37632e836ec1ba4bd404290e5b127ec1610c3c04/0_42_3400_2040/master/3400.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=685bece44856763791fcb15fda30c35c"
-        width: 600
-        height: 360
+      - url: "https://thehill.com/sites/default/files/1230bidenlede0413.jpg"
+        width: 580
+        height: 326
         isCached: true
-  - title: "Biden: 9/11 ‘cannot explain’ keeping troops in Afghanistan"
-    excerpt: "WASHINGTON — President Joe Biden says the Sept. 11 attacks “cannot explain” why U.S. troops should remain in Afghanistan 20 years later as he details the timeline for withdrawing them from America’s longest war. Support our journalism. Subscribe today."
-    publishedDateTime: 2021-04-14T14:05:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/us-to-withdraw-all-troops-from-afghanistan-by-sept-11/2021/04/13/65d4be12-9cbb-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+  - title: "Boehner: Trump's claims of stolen election a 'sad moment in American history'"
+    excerpt: "said that former President Donald Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell sidesteps Trump ..."
+    publishedDateTime: 2021-04-13T13:54:00Z
+    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in"
+    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 137
+    images:
+      - url: "https://thehill.com/sites/default/files/boehnerjohn_032614gn_boehner.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden rescinds Trump-approved Medicaid work requirements in Michigan, Wisconsin"
+    excerpt: "ADVERTISEMENT The reversal comes after Trump’s CMS Administrator Seema Verma advocated for Medicaid work requirements, saying such regulations would help people get out of poverty and not rely ..."
+    publishedDateTime: 2021-04-08T14:11:00Z
+    webUrl: "https://thehill.com/policy/healthcare/547105-biden-rescinds-trump-approved-medicaid-work-requirements-in-michigan"
+    ampWebUrl: "https://thehill.com/policy/healthcare/547105-biden-rescinds-trump-approved-medicaid-work-requirements-in-michigan?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/547105-biden-rescinds-trump-approved-medicaid-work-requirements-in-michigan?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 136
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_04062021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump slashes at McConnell as he reiterates election falsehoods at Republican event"
+    excerpt: "Former president Donald Trump called Senate Minority Leader Mitch McConnell a “dumb son of a bitch” as he used a Saturday night speech to Republicans to blame him for not helping overturn the 2020 election and reiterated false assertions that he won ..."
+    publishedDateTime: 2021-04-11T04:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 134
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFSY2JE2PEI6XJWQCPJAPKW3PA.jpg&w=1440"
+        width: 1440
+        height: 951
         isCached: true
-  - title: "Biden set to withdraw U.S. troops from Afghanistan by Sept. 11"
-    excerpt: "President Joe Biden plans to withdraw the remaining 2,500 U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after the al Qaeda attacks that triggered America's longest war, U.S. officials said on Tuesday."
-    publishedDateTime: 2021-04-13T18:01:00Z
-    webUrl: "https://www.reuters.com/article/usa-afghanistan-withdrawal-int-idUSKBN2C02JI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C02JI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C02JI"
+  - title: "Factbox-How Biden's agencies are picking apart Trump's Wall Street-friendly measures"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden's interim financial regulators are using a range of legal tools to quickly here contentious measures passed under former President Donald Trump's administration, focusing on environmental, social and ..."
+    publishedDateTime: 2021-04-12T14:03:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-financial-regulators-idUKKBN2BZ1WS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BZ1WS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BZ1WS"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558164505&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B109"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Texas Gov. Greg Abbott Blames Biden for Cartel 'Terrorism,' Cites Crime From Trump Era"
+    excerpt: "Abbott has also failed to mention that Trump publicly vowed to add the drug cartels to the foreign terror list but ultimately backed down."
+    publishedDateTime: 2021-04-17T21:30:00Z
+    webUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452"
+    ampWebUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1773480/greg-abbott.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump Will Slam Biden and D.C. 'Swamp Creatures' in GOP Donor Retreat Speech, Says Top Advisor"
+    excerpt: "Donald Trump's senior advisor Jason Miller on Saturday afternoon revealed that the former president intends to slam President Joe Biden and the \"swamp creatures\" in Washington D.C. during his keynote speech at the GOP donor retreat in Mar-a-Lago tonight."
+    publishedDateTime: 2021-04-10T23:15:00Z
+    webUrl: "https://www.newsweek.com/trump-will-slam-biden-dc-swamp-creatures-gop-donor-retreat-speech-says-top-advisor-1582664"
+    ampWebUrl: "https://www.newsweek.com/trump-will-slam-biden-dc-swamp-creatures-gop-donor-retreat-speech-says-top-advisor-1582664?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-will-slam-biden-dc-swamp-creatures-gop-donor-retreat-speech-says-top-advisor-1582664?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 128
+    images:
+      - url: "https://d.newsweek.com/en/full/1775556/trump-cpac.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Biden golfed as president for the first time on his 87th day in office. Trump played on his 15th."
+    excerpt: "During his four-year tenure in office, Donald Trump played nearly 300 rounds of golf. Whereas in his eight years as president, Barack Obama played 333."
+    publishedDateTime: 2021-04-18T14:47:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-golfed-on-his-87th-day-in-office-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-golfed-on-his-87th-day-in-office-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-golfed-on-his-87th-day-in-office-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 127
+    images:
+      - url: "https://i.insider.com/607c2bb744f4540019207525?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump rips McConnell in speech to Republicans"
+    excerpt: "Former President Trump reportedly tore into Senate Minority Leader Mitch McConnell during a gathering Saturday evening, condemning the Kentucky Republican for not doing more to overturn the results of the 2020 election."
+    publishedDateTime: 2021-04-11T11:31:00Z
+    webUrl: "https://thehill.com/homenews/senate/547552-trump-rips-mcconnell-in-speech-to-republicans"
+    ampWebUrl: "https://thehill.com/homenews/senate/547552-trump-rips-mcconnell-in-speech-to-republicans?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/547552-trump-rips-mcconnell-in-speech-to-republicans?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558302396&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C13Q"
-        width: 753
-        height: 545
+      - url: "https://thehill.com/sites/default/files/trumpmcconnell_midterms_051818getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "GOP Senate campaign arm awards Trump as he rails against McConnell"
+    excerpt: "The National Republican Senatorial Committee (NRSC) presented a new award to former President Donald Trump over the weekend as GOP officials and fundraisers descended on Palm Beach, Fla.,"
+    publishedDateTime: 2021-04-12T14:07:00Z
+    webUrl: "https://thehill.com/homenews/campaign/547661-gop-senate-campaign-arm-gives-trump-new-award-as-he-rails-against-mcconnell"
+    ampWebUrl: "https://thehill.com/homenews/campaign/547661-gop-senate-campaign-arm-gives-trump-new-award-as-he-rails-against-mcconnell?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/547661-gop-senate-campaign-arm-gives-trump-new-award-as-he-rails-against-mcconnell?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_110120getty_memo.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Senate Republicans label Biden infrastructure plan a 'slush fund'"
+    excerpt: "Senate Republicans have reportedly sent around a memo calling President Biden Joe Biden Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Biden to meet ..."
+    publishedDateTime: 2021-04-12T13:01:00Z
+    webUrl: "https://thehill.com/homenews/administration/547641-senate-republicans-label-biden-infrastructure-plan-a-slush-fund"
+    ampWebUrl: "https://thehill.com/homenews/administration/547641-senate-republicans-label-biden-infrastructure-plan-a-slush-fund?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/547641-senate-republicans-label-biden-infrastructure-plan-a-slush-fund?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_04092021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden hands toy back to child at service for fallen Capitol officer"
+    excerpt: "President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims for Ramadan The business case for child care reform ..."
+    publishedDateTime: 2021-04-13T15:46:00Z
+    webUrl: "https://thehill.com/homenews/house/547930-biden-hands-toy-back-to-child-at-service-for-fallen-capitol-officer"
+    ampWebUrl: "https://thehill.com/homenews/house/547930-biden-hands-toy-back-to-child-at-service-for-fallen-capitol-officer?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/547930-biden-hands-toy-back-to-child-at-service-for-fallen-capitol-officer?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/evanswilliam_capitol_getty041321.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden to nominate first female Army secretary"
+    excerpt: "President Biden Joe Biden Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Biden to meet Monday with bipartisan lawmakers about infrastructure Jill ..."
+    publishedDateTime: 2021-04-12T20:54:00Z
+    webUrl: "https://thehill.com/policy/defense/547773-biden-to-nominate-first-female-army-secretary"
+    ampWebUrl: "https://thehill.com/policy/defense/547773-biden-to-nominate-first-female-army-secretary?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/547773-biden-to-nominate-first-female-army-secretary?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/wormuthchristine_03032015getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Bipartisan lawmakers signal support for Biden cybersecurity picks"
+    excerpt: "Key lawmakers on Monday expressed support for President Biden Joe Biden Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Biden to meet Monday with ..."
+    publishedDateTime: 2021-04-12T20:02:00Z
+    webUrl: "https://thehill.com/policy/cybersecurity/547756-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks"
+    ampWebUrl: "https://thehill.com/policy/cybersecurity/547756-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/cybersecurity/547756-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_110920getty_cyber.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "McConnell sidesteps Trump calling him 'dumb son of a b----'"
+    excerpt: "on Monday sidestepped blistering criticism from former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without ..."
+    publishedDateTime: 2021-04-12T23:40:00Z
+    webUrl: "https://thehill.com/homenews/senate/547820-mcconnell-sidesteps-trump-calling-him-dumb-son-of-a-b"
+    ampWebUrl: "https://thehill.com/homenews/senate/547820-mcconnell-sidesteps-trump-calling-him-dumb-son-of-a-b?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/547820-mcconnell-sidesteps-trump-calling-him-dumb-son-of-a-b?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/mcconnelltrump_borderwall_121317getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump knocks CNN for 'completely false' report Gaetz was denied meeting"
+    excerpt: "Former President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell sidesteps Trump calling him 'dumb son ..."
+    publishedDateTime: 2021-04-13T12:29:00Z
+    webUrl: "https://thehill.com/homenews/media/547850-trump-knocks-dishonest-cnn-report-that-gaetz-was-denied-meeting"
+    ampWebUrl: "https://thehill.com/homenews/media/547850-trump-knocks-dishonest-cnn-report-that-gaetz-was-denied-meeting?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/547850-trump-knocks-dishonest-cnn-report-that-gaetz-was-denied-meeting?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/gaetz_matt_trump_donald041321.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden sparks bipartisan backlash on Afghanistan withdrawal"
+    excerpt: "President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims for Ramadan The business case for child care reform ..."
+    publishedDateTime: 2021-04-13T19:02:00Z
+    webUrl: "https://thehill.com/homenews/senate/548007-biden-sparks-bipartisan-backlash-on-afghanistan-withdrawal"
+    ampWebUrl: "https://thehill.com/homenews/senate/548007-biden-sparks-bipartisan-backlash-on-afghanistan-withdrawal?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548007-biden-sparks-bipartisan-backlash-on-afghanistan-withdrawal?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ustroopsafghanistan_092417getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden to withdraw all US troops from Afghanistan by Sept. 11"
     excerpt: "President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims for Ramadan The business case for child care reform MOR ..."
@@ -107,69 +331,85 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden spoke to Bush ahead of Afghanistan troop withdrawal"
-    excerpt: "President Biden Joe Biden IRS to roll out payments for ,000 child tax credit in July Capitol Police told not to use most aggressive tactics in riot response, report finds Biden to accompany first ..."
-    publishedDateTime: 2021-04-14T18:47:00Z
-    webUrl: "https://thehill.com/homenews/administration/548257-biden-spoke-to-bush-ahead-of-afghanistan-withdrawal-announcement"
-    ampWebUrl: "https://thehill.com/homenews/administration/548257-biden-spoke-to-bush-ahead-of-afghanistan-withdrawal-announcement?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/548257-biden-spoke-to-bush-ahead-of-afghanistan-withdrawal-announcement?amp"
+  - title: "Black lawmakers press Biden on agenda at White House meeting"
+    excerpt: "The Congressional Black Caucus met with President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims for Ramadan The ..."
+    publishedDateTime: 2021-04-13T22:11:00Z
+    webUrl: "https://thehill.com/homenews/administration/548066-black-lawmakers-press-biden-on-agenda-at-white-house-meeting"
+    ampWebUrl: "https://thehill.com/homenews/administration/548066-black-lawmakers-press-biden-on-agenda-at-white-house-meeting?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/548066-black-lawmakers-press-biden-on-agenda-at-white-house-meeting?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_9_0.jpg"
+      - url: "https://thehill.com/sites/default/files/congressionalblackcaucus_04132021getty.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Biden spoke to Bush, Obama ahead of Afghanistan troop withdrawal"
-    excerpt: "President Biden Joe Biden IRS to roll out payments for ,000 child tax credit in July Capitol Police told not to use most aggressive tactics in riot response, report finds Biden to accompany first ..."
-    publishedDateTime: 2021-04-14T18:47:00Z
-    webUrl: "https://thehill.com/homenews/administration/548257-biden-spoke-to-bush-obama-ahead-of-afghanistan-withdrawal-announcement"
-    ampWebUrl: "https://thehill.com/homenews/administration/548257-biden-spoke-to-bush-obama-ahead-of-afghanistan-withdrawal-announcement?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/548257-biden-spoke-to-bush-obama-ahead-of-afghanistan-withdrawal-announcement?amp"
+  - title: "McConnell brushes off Trump's 'son of a b---h' comment"
+    excerpt: "on Tuesday told reporters that he wasn’t interested in getting into a food fight with former President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on ..."
+    publishedDateTime: 2021-04-13T19:07:00Z
+    webUrl: "https://thehill.com/homenews/senate/548010-mcconnell-brushes-off-trumps-son-of-a-b-h-comment"
+    ampWebUrl: "https://thehill.com/homenews/senate/548010-mcconnell-brushes-off-trumps-son-of-a-b-h-comment?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548010-mcconnell-brushes-off-trumps-son-of-a-b-h-comment?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_9_0.jpg"
+      - url: "https://thehill.com/sites/default/files/mconnellmitch_41321_gettyimages.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Obama: Biden made 'right decision' on Afghanistan"
-    excerpt: "Former President Obama on Wednesday praised President Biden Joe Biden IRS to roll out payments for ,000 child tax credit in July Capitol Police told not to use most aggressive tactics in riot ..."
-    publishedDateTime: 2021-04-14T19:01:00Z
-    webUrl: "https://thehill.com/homenews/administration/548262-obama-biden-made-right-decision-on-afghanistan"
-    ampWebUrl: "https://thehill.com/homenews/administration/548262-obama-biden-made-right-decision-on-afghanistan?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/548262-obama-biden-made-right-decision-on-afghanistan?amp"
+  - title: "Trump alumni launch America First Policy Institute"
+    excerpt: "a political group allied with former President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell ..."
+    publishedDateTime: 2021-04-13T18:48:00Z
+    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/547996-trump-alumni-launch-america-first-policy-institute"
+    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/547996-trump-alumni-launch-america-first-policy-institute?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/547996-trump-alumni-launch-america-first-policy-institute?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/obamabarack_11022020_1_0.jpg"
-        width: 980
-        height: 552
+      - url: "https://thehill.com/sites/default/files/rollinsbrooke_41321_americafirstpolicyinstitute.jpg"
+        width: 2392
+        height: 1574
         isCached: true
-  - title: "Biden to withdraw U.S. troops from Afghanistan by Sept. 11, officials say"
-    excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw the remaining U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, U.S. officials said on Tuesday. U.S ..."
-    publishedDateTime: 2021-04-13T15:55:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-afghanistan-withdrawal-idUSKBN2C028S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C028S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C028S"
+  - title: "Colbert: 'There's no avoiding' Trump, but 'I don't like saying his name'"
+    excerpt: "report Colbert calls out 'idiot' Kennedy for Boulder remarks MORE says he avoids saying former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair ..."
+    publishedDateTime: 2021-04-12T17:04:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: The Hill
+      domain: thehill.com
     quality: 124
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558314068&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C17V"
-        width: 795
-        height: 545
+      - url: "https://thehill.com/sites/default/files/colbertstephen_031619.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Gingrich on Trump-McConnell feud: GOP 'better off' focusing on Democrats"
+    excerpt: "Former House Speaker Newt Gingrich Newton (Newt) Leroy Gingrich MORE dismissed a recent war of words between former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal ..."
+    publishedDateTime: 2021-04-12T18:08:00Z
+    webUrl: "https://thehill.com/homenews/campaign/547722-gingrich-on-trump-mcconnell-feud-gop-better-off-focusing-on-democrats"
+    ampWebUrl: "https://thehill.com/homenews/campaign/547722-gingrich-on-trump-mcconnell-feud-gop-better-off-focusing-on-democrats?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/547722-gingrich-on-trump-mcconnell-feud-gop-better-off-focusing-on-democrats?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/gingrich_trump_mcconnell041221.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "With Afghanistan decision, Biden restores foreign policymaking process that Trump had largely abandoned"
     excerpt: "The administration held dozens of meetings that included high-level arguments to stay in Afghanistan before Biden settled on a choice he had previewed more than a decade ago."
@@ -187,241 +427,230 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden to withdraw all US forces from Afghanistan by 9/11: Defense official"
-    excerpt: "On Location: April 13, 2021 A U.S. defense official confirmed to ABC News Tuesday that President Joe Biden will withdraw all U.S. forces from Afghanistan by Sept. 11, the 20th anniversary of ..."
-    publishedDateTime: 2021-04-13T16:38:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-withdraw-us-forces-afghanistan-911-defense-official/story?id=77046353"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-withdraw-us-forces-afghanistan-911-defense-official/story?id=77046353"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-withdraw-us-forces-afghanistan-911-defense-official/story?id=77046353"
+  - title: "McConnell's home state bridge symbol of infrastructure standoff with Biden"
+    excerpt: "Now, though, McConnell is flatly opposed to President Joe Biden's sweeping infrastructure plan that would likely do just that, and it's become a symbol of how even local priorities popular with ..."
+    publishedDateTime: 2021-04-08T19:50:00Z
+    webUrl: "https://abcnews.go.com/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212"
     type: article
     provider:
       name: ABCNews
       domain: abcnews.go.com
     quality: 123
     images:
-      - url: "https://s.abcnews.com/images/Politics/troops-afghanistan-gty-rc-210325_1616701125644_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/brent-spence-bridge-file-gty-jef-210407_1617823616171_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Joe Biden Won't Let 9/11 Attacks Justify U.S. Continuing Afghanistan Deployment"
-    excerpt: "President Joe Biden is scheduled to announce a full withdrawal of troops from Afghanistan by September 11, a decision he says will not be influenced by the nearly 20-year-old terrorist attacks. Excerpts released by the White House ahead of Biden's ..."
-    publishedDateTime: 2021-04-14T16:25:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-wont-let-9-11-attacks-justify-us-continuing-afghanistan-deployment-1583620"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-wont-let-9-11-attacks-justify-us-continuing-afghanistan-deployment-1583620?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-wont-let-9-11-attacks-justify-us-continuing-afghanistan-deployment-1583620?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
-    images:
-      - url: "https://d.newsweek.com/en/full/1777900/afghanistan-2021.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Joe Biden's 2012 Comments About Leaving Afghanistan 'Period' in 2014 Resurface"
-    excerpt: "After news broke that President Joe Biden plans to withdraw U.S. troops from Afghanistan by September, people began sharing 2012 comments from Biden vowing that America's military would be withdrawn from the country in 2014. Although Biden has repeatedly ..."
-    publishedDateTime: 2021-04-13T20:49:00Z
-    webUrl: "https://www.newsweek.com/joe-bidens-2012-comments-about-leaving-afghanistan-period-2014-resurface-1583394"
-    ampWebUrl: "https://www.newsweek.com/joe-bidens-2012-comments-about-leaving-afghanistan-period-2014-resurface-1583394?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-2012-comments-about-leaving-afghanistan-period-2014-resurface-1583394?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
-    images:
-      - url: "https://d.newsweek.com/en/full/1777278/president-joe-biden.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Biden to say in Afghanistan speech ‘it’s time to end America’s longest war’ – live"
-    excerpt: "Lawmakers of both parties have criticized Joe Biden’s plan to withdraw all US troops from Afghanistan, with some accusing the president of abandoning America’s commitment to the Afghan people. In his speech this afternoon, Biden will emphasize that ..."
-    publishedDateTime: 2021-04-14T14:56:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
+  - title: "‘Dumb son of a bitch’: Trump attacks McConnell in Republican donors speech"
+    excerpt: "At Mar-a-Lago, former president also goes after Fauci and Chao … and claims party ‘can’t have these guys that like publicity’ Donald Trump devoted part of a speech to Republican donors on Saturday night to insulting the Senate minority leader ..."
+    publishedDateTime: 2021-04-11T10:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/11/donald-trump-mitch-mcconnell-dumb-son-of-a-bitch-republicans-fauci-chao-mar-a-lago"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/11/donald-trump-mitch-mcconnell-dumb-son-of-a-bitch-republicans-fauci-chao-mar-a-lago"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/11/donald-trump-mitch-mcconnell-dumb-son-of-a-bitch-republicans-fauci-chao-mar-a-lago"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 119
+    quality: 123
     images:
-      - url: "https://i.guim.co.uk/img/media/6787b5cbf19fa76e68505561539e063ff63cc6d6/0_31_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8f06c37fe345cbe74e3b82b57bb71003"
+      - url: "https://i.guim.co.uk/img/media/f561b65003ec96a6f3bf29a6ae90a67ceb0def63/0_83_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3a3eaeb88a65a663793b4c9801aca369"
         width: 600
         height: 360
         isCached: true
-  - title: "'Time for American troops to come home': Biden announces Afghanistan withdrawal by Sept. 11"
-    excerpt: "The war in Afghanistan has cost more than $2 trillion and more than 2,300 American lives. More than 38,000 Afghan civilians have been killed."
-    publishedDateTime: 2021-04-14T23:21:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/14/biden-announces-afghanistan-troop-withdrawal-sept-11/7219176002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7219176002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7219176002"
+  - title: "Boehner says 'unemployed' Trump 'has nothing else to do' but 'cause trouble'"
+    excerpt: "on Monday said the \"unemployed\" former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief ..."
+    publishedDateTime: 2021-04-12T17:38:00Z
+    webUrl: "https://thehill.com/homenews/news/547712-boehner-says-unemployed-trump-has-nothing-else-to-do-but-cause-trouble"
+    ampWebUrl: "https://thehill.com/homenews/news/547712-boehner-says-unemployed-trump-has-nothing-else-to-do-but-cause-trouble?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/547712-boehner-says-unemployed-trump-has-nothing-else-to-do-but-cause-trouble?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/boehnerjohn_072915gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "President Biden to withdraw all U.S. troops from Afghanistan by Sept. 11, extending Trump's May 1 deadline"
+    excerpt: "The move will extend military presence in Afghanistan beyond the May 1 withdrawal date previously negotiated by former President Donald Trump. Biden sees \"no military solution\" for the problems in Afghanistan, a senior administration official said."
+    publishedDateTime: 2021-04-13T16:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/13/biden-withdraw-us-troops-afghanistan-sept-11-not-may-1/7205023002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7205023002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7205023002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 115
+    quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/11/USAT/48cd77d6-d669-4a97-9964-60c6ef952c50-AFP_AFP_1N99IM.JPG?auto=webp&crop=6000,3375,x0,y446&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/04/13/USAT/0d250ba2-3f8f-44f6-bc77-b144de56e558-AP21046456203732.jpg?auto=webp&crop=2819,1586,x0,y143&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "J&J vaccine, ex-Brooklyn Center officer's fate, Biden's Afghanistan plan: 5 things to know Wednesday"
-    excerpt: "President Joe Biden will on Wednesday announce his plans to move all U.S. military forces out of Afghanistan. All military presence will be pulled by Sept. 11 – the 20th anniversary of the 9/11 attacks that spurred America's longest war – and more ..."
-    publishedDateTime: 2021-04-14T07:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/2021/04/14/jj-vaccine-analysis-ex-officers-fate-5-things-know-wednesday/7158327002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7158327002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7158327002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/267070c5-fb0b-46aa-aeb5-7be30f6f52d6-004_USATSI_15860695.jpg?auto=webp&crop=1602,902,x0,y194&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Biden tells Americans ‘we cannot continue the cycle’ in Afghanistan as he announces troop withdrawal"
-    excerpt: "President Biden formally announced Wednesday that the United States will withdraw all troops from Afghanistan by Sept. 11, saying in a speech from the White House that more time and more troops have failed to end the conflict and that is now time to close down America’s longest war."
-    publishedDateTime: 2021-04-14T19:25:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-afghanistan-pullout-speech/2021/04/14/a4fd907c-9d2a-11eb-9d05-ae06f4529ece_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-afghanistan-pullout-speech/2021/04/14/a4fd907c-9d2a-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-afghanistan-pullout-speech/2021/04/14/a4fd907c-9d2a-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2CWXCNE5KYI6XAAFX76DUOPW2M.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Analysis: Biden takes a risk pulling troops from Afghanistan"
-    excerpt: "At its start, America’s war in Afghanistan was about retribution for 9/11. Then it was about shoring up a weak government and its weak army so that Osama bin Laden's al-Qaida could never again threaten the United States."
-    publishedDateTime: 2021-04-15T04:10:00Z
-    webUrl: "https://www.businessinsider.com/analysis-biden-takes-a-risk-pulling-troops-from-afghanistan-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/analysis-biden-takes-a-risk-pulling-troops-from-afghanistan-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/analysis-biden-takes-a-risk-pulling-troops-from-afghanistan-2021-4?amp"
+  - title: "Mitch McConnell dodged a question about Trump calling him a 'dumb son of a b----'"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Senate Minority Leader Mitch McConnell declined to respond to attacks from former President Donald Trump, who called him a \"dumb son of a b----\" over the weekend. Reporters pressed the Kentucky Republican on ..."
+    publishedDateTime: 2021-04-13T20:25:00Z
+    webUrl: "https://www.businessinsider.com/mcconnell-dodges-trump-calling-him-dumb-son-of-a-b-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/mcconnell-dodges-trump-calling-him-dumb-son-of-a-b-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcconnell-dodges-trump-calling-him-dumb-son-of-a-b-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
-  - title: "Biden announces withdrawal of all U.S. troops from Afghanistan by 9/11"
-    excerpt: "President Joe Biden announced Wednesday plans to pull all U.S. military forces from Afghanistan by September 11, 2021, a move that would bring an end to America's longest war by the 20th anniversary of the terrorist attacks at the World Trade Center in New York City and the Pentagon."
-    publishedDateTime: 2021-04-14T19:22:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-announces-withdrawal-of-all-us-troops-from-afghanistan-by-911/"
+    quality: 120
+    images:
+      - url: "https://i.insider.com/6075ef883e3fe7001882a728?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Biden’s southern border challenge: reversing Trumpism"
+    excerpt: "The 46th US president took office promising a more welcoming immigration policy. Now Republicans are calling a new wave of migrants at the southern border a ‘crisis’, but is that really the case?"
+    publishedDateTime: 2021-04-18T19:27:00Z
+    webUrl: "https://www.theguardian.com/australia-news/audio/2021/apr/19/joe-bidens-southern-border-challenge-reversing-trumpism"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/14/73b6e7a8-5f74-4843-8299-0328663774ce/thumbnail/1200x630/0201f6f756a295d088f665fab65a402d/cbsn-fusion-biden-announces-withdrawal-of-all-us-troops-from-afghanistan-by-911-thumbnail-692680-640x360.jpg"
+      - url: "https://i.guim.co.uk/img/media/d991b123118a3edd78ba1afee29792b8b0284d66/0_125_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d286a196c46f2da3f9781436a2291867"
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden says it's 'time to end America's longest war' as he reveals plans to bring US troops home from Afghanistan"
-    excerpt: "Biden said he was the fourth president to preside over the Afghanistan conflict, adding: \"I will not pass this responsibility on to a fifth.\""
-    publishedDateTime: 2021-04-14T21:28:00Z
-    webUrl: "https://www.businessinsider.com/biden-says-time-to-end-americas-longest-war-in-afghanistan-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/biden-says-time-to-end-americas-longest-war-in-afghanistan-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-time-to-end-americas-longest-war-in-afghanistan-2021-4?amp"
+  - title: "Trump calls for Biden to reinstate a foreign travel ban to 'keep our country safe from radical Islamic terrorism'"
+    excerpt: "Trump wants his travel ban, which Biden revoked on his first day in office, to be reinstated by the current administration."
+    publishedDateTime: 2021-04-20T05:16:00Z
+    webUrl: "https://www.businessinsider.com/trump-calls-for-biden-to-reinstate-foreign-travel-ban-terrorism-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/trump-calls-for-biden-to-reinstate-foreign-travel-ban-terrorism-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-calls-for-biden-to-reinstate-foreign-travel-ban-terrorism-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 104
+    quality: 119
     images:
-      - url: "https://i.insider.com/60771e174206150018175773?width=1200&format=jpeg"
-        width: 702
-        height: 351
-        isCached: true
-  - title: "Joe Biden: 'It's time for American troops to come home from Afghanistan' – video"
-    excerpt: "The US president has declared that it is time ‘to end America’s longest war’, announcing that nearly 10,000 US and Nato troops would return home in the run-up to the 20th anniversary of 9/11. Joe Biden is the fourth US president to preside over the US-led fight against the Taliban."
-    publishedDateTime: 2021-04-14T19:19:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/apr/14/joe-biden-its-time-for-american-troops-to-come-home-from-afghanistan-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 100
-    images:
-      - url: "https://i.guim.co.uk/img/media/fc6f8e92a2e22ef62d608e9438b40f465323f896/391_116_2640_1585/master/2640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=389c7c03ec0ce5faaa9ef7c16e825ed5"
+      - url: "https://i.insider.com/605df8726746fb0018a73e7a?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Biden outlines Afghanistan withdrawal: ‘It’s time for American troops to come home’ – live"
-    excerpt: "President says ‘only the Afghans have the right and responsibility to lead their country’ – follow all the latest politics news"
-    publishedDateTime: 2021-04-14T20:55:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest?page=with:block-607750598f0881c4146925a5"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
+  - title: "Mitch McConnell Doesn't Want to Escalate Feud After Trump Called Him 'Stone Cold Loser'"
+    excerpt: "Senate Minority Leader Mitch McConnell of Kentucky chose not to escalate tensions between himself and former President Donald Trump when asked about Trump's recent insults towards him. Trump called McConnell a \"dumb son of a bitch\" and a \"stone-cold loser ..."
+    publishedDateTime: 2021-04-14T03:38:00Z
+    webUrl: "https://www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439"
+    ampWebUrl: "https://www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439?amp=1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 95
-  - title: "Biden outlines Afghanistan withdrawal: ‘It’s time for American troops to come home’ – as it happened"
-    excerpt: "President says ‘only the Afghans have the right and responsibility to lead their country’ – follow all the latest politics news"
-    publishedDateTime: 2021-04-14T23:41:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest?page=with:block-607763838f08a91092687e25"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/14/joe-biden-us-politics-us-military-troops-afghanistan-covid-coronavirus-latest"
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1777388/mcconnell-trump-loser-comment-response-rnc-speech.jpg"
+        width: 3108
+        height: 2072
+        isCached: true
+  - title: "Adam Kinzinger Blasts Trump for Insulting McConnell at GOP Donor Retreat: 'Classy as Always'"
+    excerpt: "Illinois Republican Congressman Adam Kinzinger criticized former President Donald Trump for insulting Senate Minority Leader Mitch McConnell at a GOP retreat over the weekend. \"Classy as always. I remember when my fellow Republicans would have condemned ..."
+    publishedDateTime: 2021-04-11T14:10:00Z
+    webUrl: "https://www.newsweek.com/adam-kinzinger-blasts-trump-insulting-mcconnell-gop-donor-retreat-classy-always-1582705"
+    ampWebUrl: "https://www.newsweek.com/adam-kinzinger-blasts-trump-insulting-mcconnell-gop-donor-retreat-classy-always-1582705?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adam-kinzinger-blasts-trump-insulting-mcconnell-gop-donor-retreat-classy-always-1582705?amp=1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1775595/adam-kinzinger.jpg"
+        width: 2500
+        height: 1799
+        isCached: true
+  - title: "GOP Gov. Asa Hutchinson Deplores Trump Attacks on McConnell: 'Let's Get Back to Our Principles'"
+    excerpt: "While appearing on CNN's State of the Union, Hutchinson was asked about Trump's speech in which he reportedly called McConnell a \"dumb son of a bitch\" and a \"stone cold loser\" while speaking to Republican National Committee (RNC) gathering at his Mar-a ..."
+    publishedDateTime: 2021-04-11T15:39:00Z
+    webUrl: "https://www.newsweek.com/gop-gov-asa-hutchinson-deplores-trump-attacks-mcconnell-lets-get-back-our-principles-1582724"
+    ampWebUrl: "https://www.newsweek.com/gop-gov-asa-hutchinson-deplores-trump-attacks-mcconnell-lets-get-back-our-principles-1582724?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-gov-asa-hutchinson-deplores-trump-attacks-mcconnell-lets-get-back-our-principles-1582724?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
+    images:
+      - url: "https://d.newsweek.com/en/full/1775605/asa-hutchinson.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
+  - title: "Senate Republicans gave a brand new award to Trump the same weekend he called Mitch McConnell a 'dumb son of a b----h'"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% The Senate Republicans' campaign arm announced on Monday that it had presented former President Donald Trump with a new award over the weekend. Trump spent part of the same weekend attacking the top Republican in ..."
+    publishedDateTime: 2021-04-12T16:58:00Z
+    webUrl: "https://www.businessinsider.com/senate-republicans-trump-award-mcconnell-insult-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/senate-republicans-trump-award-mcconnell-insult-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-republicans-trump-award-mcconnell-insult-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/60746bd23e3fe7001882a1d6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump spent several minutes insulting 'dumb son of a b---h' Mitch McConnell during a rambling speech to GOP donors at Mar-a-Lago, say reports"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump derided Senate Minority Leader Mitch McConnell during a 50-minute speech at his Mar-a-Lago resort, Politico reported. Trump referred to McConnell as a \"dumb son of a b---h,\" three ..."
+    publishedDateTime: 2021-04-11T09:04:00Z
+    webUrl: "https://www.businessinsider.com/mar-a-lago-trump-insults-dumb-son-bh-mitch-mcconnell-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/mar-a-lago-trump-insults-dumb-son-bh-mitch-mcconnell-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mar-a-lago-trump-insults-dumb-son-bh-mitch-mcconnell-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 90
-  - title: "Joe Biden’s Tale of Russian Bounties in Afghanistan Collapses Completely"
-    excerpt: "Biden and the Democrats knew the Russian bounties story was likely fake news, a hoax, a scam, whatever else you want to call it. But they didn’t care."
-    publishedDateTime: 2021-04-15T17:46:00Z
-    webUrl: "https://www.nationalreview.com/corner/joe-bidens-tale-of-russian-bounties-in-afghanistan-collapses-completely/"
-    ampWebUrl: "https://www.nationalreview.com/corner/joe-bidens-tale-of-russian-bounties-in-afghanistan-collapses-completely/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/joe-bidens-tale-of-russian-bounties-in-afghanistan-collapses-completely/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 74
     images:
-      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2021/03/Joe-Biden-2.jpg?fit=1200%2C675&ssl=1"
+      - url: "https://i.insider.com/6072b6f0a451820019b3a71a?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "President Joe Biden sets new target for US troop withdrawal from Afghanistan: 20th anniversary of 9/11"
-    excerpt: "President Joe Biden has decided to leave American troops in Afghanistan beyond the May 1 deadline negotiated with the Taliban by the Trump administration, and has set the 20th anniversary of the Sept. 11 attacks as the new goal, a U.S. official said Tuesday."
-    publishedDateTime: 2021-04-13T16:41:00Z
-    webUrl: "https://www.masslive.com/politics/2021/04/president-joe-biden-sets-new-target-for-us-troop-withdrawal-from-afghanistan-20th-anniversary-of-911.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/04/president-joe-biden-sets-new-target-for-us-troop-withdrawal-from-afghanistan-20th-anniversary-of-911.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/04/president-joe-biden-sets-new-target-for-us-troop-withdrawal-from-afghanistan-20th-anniversary-of-911.html?outputType=amp"
+  - title: "Trump blasts McConnell as ‘dumb son of a b---h’: report"
+    excerpt: "Former President Donald Trump called Senate Minority Leader Mitch McConnell a “dumb son of a b---h” in front of Republican donors gathered at Trump’s Florida resort on Saturday night, according to Politico. The vulgar comment came in response to the ..."
+    publishedDateTime: 2021-04-11T15:27:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-donald-trump-mitch-mcconnell-insult-mar-a-lago-20210411-yim7xp7ftzbuvdcivaqzhmksha-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-donald-trump-mitch-mcconnell-insult-mar-a-lago-20210411-yim7xp7ftzbuvdcivaqzhmksha-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-donald-trump-mitch-mcconnell-insult-mar-a-lago-20210411-yim7xp7ftzbuvdcivaqzhmksha-story.html?outputType=amp"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 59
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UUBCGQS7UNA33MIQ7EM4662YNU.jpg"
-        width: 5472
-        height: 3648
+      - url: "https://www.nydailynews.com/resizer/E7UE7f5xsHRVKrkom1-nCuO7GnU=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YKFGTYK6BJGDBJP7VBHYYWF3UU.JPG"
+        width: 1200
+        height: 744
         isCached: true
-  - title: "President Joe Biden Makes Remarks on American Jobs Plan"
-    excerpt: "President Joe Biden makes remarks during a meeting with with a bipartisan group of Members of Congress to discuss historic investments in the American Jobs Plan, in the Oval Office at the White House on Monday,"
-    publishedDateTime: 2021-04-19T18:17:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/7ab59151b0e68dd9bb8daaac04173cc5/President-Joe-Biden-Makes-Remarks-on-American-Jobs-Plan/"
+  - title: "The Hill's Morning Report - Presented by Tax March - Biden, lawmakers start down a road with infrastructure"
+    excerpt: "In the Oval Office on Monday, Republican lawmakers told President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims ..."
+    publishedDateTime: 2021-04-13T10:34:00Z
+    webUrl: "https://thehill.com/homenews/morning-report/547844-the-hills-morning-report"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/7ab59151b0e68dd9bb8daaac04173cc5/BIDEN-JOBS.jpg"
-        width: 650
-        height: 433
-        isCached: true
+      name: The Hill
+      domain: thehill.com
+    quality: 67
+  - title: "Cowboys for Trump Founder Appeals Recall Bid to High Court"
+    excerpt: "Cowboys for Trump founder Couy Griffin has filed an appeal with the state Supreme Court as he seeks to fend off an effort to recall him from office as a county commissioner in southern New Mexico."
+    publishedDateTime: 2021-04-20T00:50:00Z
+    webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-04-19/cowboys-for-trump-founder-appeals-recall-bid-to-high-court"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "X9CMbTHPK7JbAUq36pUoeoSF2FahQF7ikaw6AMI9l+6OCOcBHrmogd8200ybm2oy8+2/KQaTJSt4DRRcKIqYP5VdgsVKXQ2refbpOob0PPBJP8B/atjzFKDiCBpEq5gCT2loPPzNfTNOO+iVy+4ay8q8huz0AYljaSoNHxQbS/vXsgBERrUh5pZ6MTYwJQseZjS1jmtEA0TUKt509LeX05y/N1UBd/+smcy43Amp2pBGYiOXuQtP0GT69tTQL4ekbMID9+NqCB6MBGeQLvbOAvIdlieV888M3PwpTfppgcdET0xbvUC+3+1x1/T1K2p063AK820wg8aaSf9Pc7M6Zhh5F4/ocZO4FgJexyam/yqS1HXrkD+FTBGmVKwPUt2okqMJL/ZydYVcs8/tVcI8uImpI2qbVRWBc9qm4F5FTGneE0Q1ze9VVWpuq0Ahsmi0JOY+x9U5iBzgC+td/nUhTazta5ogDihdICAUDdWibb+q5GNdrp6HBsgSKVabTXJiYlukKhkBydxc6wDRYCfvwQ==;aoc+y0G17cY6FnqfO5R85w=="
 ---

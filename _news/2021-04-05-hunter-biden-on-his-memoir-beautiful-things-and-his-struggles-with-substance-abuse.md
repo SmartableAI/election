@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "'We must act,' Biden says, after yet another mass shooting"
+    excerpt: "Biden said that he has been briefed on the shooting at the FedEx facility in Indianapolis, and ordered flags lowered to half-staff in honor of those who died."
+    publishedDateTime: 2021-04-16T18:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/act-biden-mass-shooting/story?id=77118883"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/act-biden-mass-shooting/story?id=77118883"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/act-biden-mass-shooting/story?id=77118883"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-4-rt-er-210415_1618531431040_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "First Thing: Biden gets serious about going green"
     excerpt: "The US will halve its carbon emissions by 2030, the White House announced before a climate summit later today. Plus, 200m coronavirus shots have been administered in the US"
     publishedDateTime: 2021-04-22T10:29:00Z
@@ -163,44 +179,21 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 90
-  - title: "Biden condemns US gun violence as an ‘international embarrassment’ as he announces new actions – as it happened"
-    excerpt: "Read more: The shooting occurred not long after Joe Biden announced new executive actions to address gun violence. Hours before the shooting, Abbott, a Republican, came out vehemently against the president’s gun control policies. “Biden is threatening ..."
-    publishedDateTime: 2021-04-08T23:59:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates?page=with:block-606f79e38f087dc3964a397d"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
+  - title: "Why Is Joe Biden Blocking Joe Biden from Raising the Refugee Cap?"
+    excerpt: "Jen Psaki had an almost comical inability to explain why Biden hadn’t signed an executive order he promised more than two months ago."
+    publishedDateTime: 2021-04-16T16:19:00Z
+    webUrl: "https://www.nationalreview.com/corner/why-is-joe-biden-blocking-joe-biden-from-raising-the-refugee-cap/"
+    ampWebUrl: "https://www.nationalreview.com/corner/why-is-joe-biden-blocking-joe-biden-from-raising-the-refugee-cap/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/why-is-joe-biden-blocking-joe-biden-from-raising-the-refugee-cap/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 85
-  - title: "2 deadly mass shootings come as Biden introduces actions to to restrict \"ghost guns\" and promote red flag legislation"
-    excerpt: "President Joe Biden introduced half a dozen executive actions Thursday addressing gun violence, calling it an \"international embarrassment.\" Just a few hours later, one person was killed and five others were hurt in a mass shooting in Texas,"
-    publishedDateTime: 2021-04-11T20:40:00Z
-    webUrl: "https://www.cbsnews.com/video/texas-mass-shooting-hours-after-biden-introduces-plan-to-combat-gun-violence/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 82
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/09/f7e3f108-22b0-4b8f-8aa4-2425e76cfcdc/thumbnail/1200x630/a3a3721f8dc95a6b183a99c855bd97b4/cbsn-fusion-texas-mass-shooting-kills-one-person-hours-after-biden-introduces-plan-to-combat-gun-violence-thumbnail-688716-640x360.jpg"
+      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2021/04/President-Joe-Biden-2.jpg?fit=1200%2C700&ssl=1"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Two deadly mass shootings come as Biden introduces actions to to restrict \"ghost guns\" and promote red flag legislation"
-    excerpt: "Two deadly mass shootings come as Biden introduces actions to to restrict \"ghost guns\" and promote red flag legislation President Joe Biden introduced half a dozen executive actions Thursday addressing gun violence, calling it an \"international embarrassment.\""
-    publishedDateTime: 2021-04-09T14:52:00Z
-    webUrl: "https://www.cbsnews.com/video/texas-mass-shooting-kills-one-person-hours-after-biden-introduces-plan-to-combat-gun-violence/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 81
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/09/f7e3f108-22b0-4b8f-8aa4-2425e76cfcdc/thumbnail/1200x630/a3a3721f8dc95a6b183a99c855bd97b4/cbsn-fusion-texas-mass-shooting-kills-one-person-hours-after-biden-introduces-plan-to-combat-gun-violence-thumbnail-688716-640x360.jpg"
-        width: 1200
-        height: 630
+        height: 700
         isCached: true
 
 secured: "C6cToKEGsHeG0dCIPf0O9tqmxls+bN8r7lQNJPwttGtWNnAaugdCnpytL4d/RZqjZs0oLFfysuH92NUJMOqZL9GixuRuXqxiD0IGWZmx90lzL0qh4wEcBOuxnjMQCZFR8rkaKPydaqmB+osuP2gIt0Yo3/SA/+M3JedqaG0SkZ8G7B1/mszB4WK/5Js47KGt9Nu7f/sWC+2bLOW8CERMAbBaBcGKQg0XZHTOavirVvi0A/4OWWd23DiOnm6KEmBEUL8fdIC8xN+j1vzzyu9PLALbIWsJ1R5nGH7kgQhL4ejglN7V0USE5Ag8kqvzlSpVdLMI8zQdaC2bWbxmVGnCgGxIkFQkGSmfIOBLFe98eQ7rO/JLbPMeOvUwTt7Gth4PVZjNVEkmevGvhAlvEn1Gxq0Lz/NzOy/2QQNPYdi7FAk+VnfHoigJqHftrLSmMcLX0RQwbZ3qzCHoqMniWsiO8+8/lPfloZnYBqVUOKhRXG1Jz2wBXE86aM7aLZHO2wVxo7v0GwJNMR90/ONbIy2Q+w==;SfdM3Nz+DBSFqz2UCRp2PQ=="

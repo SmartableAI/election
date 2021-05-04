@@ -159,6 +159,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "John Boehner says Trump incited Capitol attack via 'bullshit he'd been shoveling since he lost a fair election'"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former Republican House Speaker John Boehner in his new book blamed former President Donald Trump for the deadly Capitol insurrection on January 6, per an excerpt obtained by The New York Times, stating that ..."
+    publishedDateTime: 2021-04-07T14:18:00Z
+    webUrl: "https://www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/606dbe1a30004b0019b26624?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "U.S. 'Open' to First Direct Talks With Iran Since Trump Left Nuclear Deal 3 Years Ago"
     excerpt: "The United States has said it is open to holding its first official, direct talks with Iran since former President Donald Trump left a nuclear deal between the Islamic Republic and major world powers three years ago. Following virtual discussions on Friday ..."
     publishedDateTime: 2021-04-02T15:25:00Z
@@ -239,6 +255,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Corporate America isn’t welcoming former Trump Cabinet officials with open arms, headhunters say"
+    excerpt: "said top executives wary of backlash from associating with former Trump officials are boiling down Chao’s four-decade Washington résumé to its most recent entry: long-standing ally of Donald Trump, despite her resignation the day after the Jan. 6 ..."
+    publishedDateTime: 2021-04-07T10:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/57NN3ZD46QI6XM6RTZNKHVJCBQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Matt Gaetz sought preemptive pardon from Trump before he left office, The New York Times reports"
     excerpt: "Matt Gaetz, a Florida Republican under investigation for alleged human trafficking, sought \"blanket pardons\" for himself and his political allies before former President Donald Trump left office, The New York Times reported Tuesday. The Times, citing two ..."
     publishedDateTime: 2021-04-07T00:18:00Z
@@ -318,22 +350,6 @@ related:
       - url: "https://thumbnails.texastribune.org/aqe7-Li9PzIZ9QIexP_8OQM_5Q8=/1200x630/filters:quality(95)/static.texastribune.org/media/files/6f9c74896c525bff9a658560eee0db9c/Escobar%20Impeachment%20REUTERS%20TT.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Trump backs Rep. Mo Brooks in Alabama Senate race, who cheered Capitol rioters for ‘kicking ass’"
-    excerpt: "Former President Donald Trump is throwing his support behind Rep. Mo Brooks in next year’s Alabama Senate race, a staunch supporter who cheered the Jan. 6 crowd at the Capitol for “taking down names and kicking ass."
-    publishedDateTime: 2021-04-07T14:29:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 62
-    images:
-      - url: "https://www.nydailynews.com/resizer/dnPImsXwM3lyMNeIzGI2SPoFcG8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H6KA7POU45DLBDWXB2NPXLDGAA.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "RxBiQTdsw7FjmdCu2llNZxk1n+Uq9pBTrljTv1HnpwYkqUcp89QSOWcuM1iAMxU4e4/Bl8R0zkRq1HLqUhURpeWej5KI/Q484jB+WfO93uupydJumQWYnEjTOyrUgPDKoekQFTg3ZIBgtacqoK2TpdWiU8F7JNCiX2GPbk2tRcF0sBt+QluTwi9CqDLFF/VGWMsEC4udWafSNRwpxEtawG9G1P+GCck1sksSkCm/3VZcda8rajtO55hjSBoY4Qj1WtEoH7HGIjFD8OnwgFXmJByNYB0VXqXm/8scbGFh2loqfQurnoj+D8T5+TdZ/FnN2LIh9yITVgCU3GMvi5BVKCJEtVjeBm0/qF+FHI7YTbA=;3HEsI+QoSHjf9hknj3McIg=="

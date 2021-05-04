@@ -79,22 +79,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Biden to address Congress under security, COVID restrictions"
-    excerpt: "President Joe Biden's first address to a joint session of Congress will look like no other in recent memory. The traditional speech for the new president, set for April 28, will unfold against the backdrop of heightened security in the aftermath of the deadly Jan."
-    publishedDateTime: 2021-04-14T16:52:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-address-congress-security-covid-restrictions-77070235"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-address-congress-security-covid-restrictions-77070235"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-address-congress-security-covid-restrictions-77070235"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_33e7de99fc924b6eb9cbbbe3afd78f44_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden set to issue sweeping sanctions against Russia"
     excerpt: "The sanctions, which may be issued as soon as Thursday, are expected to target over 30 Russian entities and include the expulsion of at least 10 Russian individuals."
     publishedDateTime: 2021-04-15T11:07:00Z
@@ -110,22 +94,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/15/57b60594-6a95-4159-b850-b005ab2e9db8/thumbnail/1200x630/5e310e510e58e3fb6a549696540f6fb3/gettyimages-1232304316.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Japan’s Suga heads to US for China-focused talks with Biden"
-    excerpt: "Japanese Prime Minister Yoshihide Suga has left for Washington for talks with President Joe Biden meant to show the strength of their security alliance at a time when both nations are concerned with C"
-    publishedDateTime: 2021-04-15T13:58:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/japans-suga-heads-to-us-for-china-focused-talks-with-biden/2021/04/15/af0b384e-9df2-11eb-b2f5-7d2f0182750d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/japans-suga-heads-to-us-for-china-focused-talks-with-biden/2021/04/15/af0b384e-9df2-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/japans-suga-heads-to-us-for-china-focused-talks-with-biden/2021/04/15/af0b384e-9df2-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "After outcry, WH says Biden will lift refugee cap in May"
     excerpt: "Facing swift blowback from allies and aid groups, the White House says President Joe Biden plans to lift in the next month his predecessor’s historically low cap on refugees, after initially moving on"
@@ -158,6 +126,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_cdfc1a13c1c74d47b437976ce9b093fa_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Gun control advocates pin their hopes on Joe Biden"
+    excerpt: "Congress has shown little appetite to pass the sweeping reforms that gun control proponents believe can stem the violence - but advocates insist there is reason for optimism. Three years ago, as Americans heard the details of yet another mass shooting,"
+    publishedDateTime: 2021-04-17T00:07:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-56682356.amp"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-56682356.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56682356.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17B3C/production/_117948079_fb_img_1535318390257.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Biden to host Japanese PM at White House in president’s first visit from foreign leader – live"
     excerpt: "North Korea and China will be primary topics of conversation, senior official says"
@@ -206,6 +190,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/c94bc3ce8b8e6da02323a2e4df87408b1e0c4f6c/0_158_4652_2792/master/4652.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c6c7b6781ad3305d641682f77ca4ad21"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden says Japan and U.S. committed to working together to meet China challenge"
+    excerpt: "U.S. President Joe Biden said he had a productive summit with Japanese Prime Minister Yoshihide Suga on Friday and the two countries were committed to working together to meet the challenge posed by China and issues including North Korea."
+    publishedDateTime: 2021-04-16T22:03:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-japan-biden-idUKKBN2C32P6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2C32P6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2C32P6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210417&t=2&i=1558812583&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3F1CK"
+        width: 837
+        height: 545
         isCached: true
   - title: "Biden welcomes Japan's prime minister to White House as he tries to counter China"
     excerpt: "Japan is one of the few industrialized nations not sanctioning China for human rights abuses. The U.S. would like that to change."
@@ -376,22 +376,6 @@ related:
       - url: "https://i.insider.com/606ec12730004b0019b26927?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "'Get on it Joe!' How a coalition for strengthening gun violence prevention pushed Biden to act"
-    excerpt: "Gun control activist Po Murray addressed the crowd at an anti-violence rally in Hartford Monday. WASHINGTON — In the first two months of President Joe Biden’s administration, many of the nation’s most powerful gun violence prevention groups were ..."
-    publishedDateTime: 2021-04-09T23:49:00Z
-    webUrl: "https://www.timesunion.com/news/article/Get-on-it-Joe-how-a-strengthening-gun-16090259.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/Get-on-it-Joe-how-a-strengthening-gun-16090259.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Get-on-it-Joe-how-a-strengthening-gun-16090259.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 63
-    images:
-      - url: "https://s.hdnux.com/photos/01/17/42/34/20850435/5/375x250.jpg"
-        width: 375
-        height: 249
         isCached: true
 
 secured: "qbuPu9Kl9CKRBRwiXoHOiUsJrTdChxu1nV4cHAmWdNIvge5IK6AY0HnCYYiyI93btunUUQlZD+vqw0XItewGlxqqmikw0gMfyRv4tpZZz9AYwM1by2a0me8Tad0QuxwNnGGY30xLZQ5yqlLhK1l23df0+kW9twby5PdRXcGsWVuzeJhMjNsWl7RWmAf9nXgXD3LSFzehZ9QEaFWpK4i0OiSkmEH58S1P1KKze8S+aWkhn51s8E3teX5XqMhFEPS1UmvKDLHEzSHKvIt8RwF7pSfzKtlP/PYuUvJ56SJQw3A56djHQXvP9rEloGVxrY7Au8xJSnpWxmFUOTAzzAEKXx4vt0Ri/YirQZaI03D2ciQ=;z9MCg21I294FLLInBLODbQ=="

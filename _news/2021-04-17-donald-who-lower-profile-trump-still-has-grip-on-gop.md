@@ -69,22 +69,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Trump says Mo Brooks ‘has done a spectacular job … He’s a strong guy, a tough guy’"
-    excerpt: "Former President Donald Trump on Tuesday all but endorsed Alabama Congressman Mo Brooks in his bid to win a U.S. Senate seat next year. Appearing on the Newsmax program “American Agenda,” Trump heaped praise on Brooks when host Heather Childers brought ..."
-    publishedDateTime: 2021-04-07T11:01:00Z
-    webUrl: "https://www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html"
-    ampWebUrl: "https://www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 69
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBYBGAJFHRF7BMFXXOBPEV26OU.jpg"
-        width: 4032
-        height: 3024
-        isCached: true
 
 secured: "g9IsZIjA2LBWkYQkLOBpQBnYlIs76xdrI2CcmLmWXjcUsXZ86pCGtjVag36eGLm1bc+upXYF1WkDvz/9WiZscR7ydKunnCWG4O+AG3252Xv2ooMImj3XigoiBuTJ7hVItAkCy6FoDx1qFROMIMLghD1sPR/Lla+LllxkDDE2ZGFGP8TyLnYvfpvmxD1d2dGkTTfBE05zQWAKWSbkOhL1i6vBKilwyhQKPbOCCAukMhPCdqcBtlVP8ZYV9OjB+/FgzCIK4TFiTfug76uZObfiXQQz1N5YwtlLDb8OyTuIQkLXEDzAb2Y1Imi5lpyCdP8d6eL6+ETVfHf340toKd7mOgusXhmNfr1/cShxbKtcha8=;F8Ap6f3Atrfnv2l4bWL5/w=="
 ---

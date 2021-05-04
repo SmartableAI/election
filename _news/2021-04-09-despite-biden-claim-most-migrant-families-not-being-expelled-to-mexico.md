@@ -47,22 +47,6 @@ related:
         width: 827
         height: 551
         isCached: true
-  - title: "Biden to nominate gun control advocate as ATF director"
-    excerpt: "President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far Jill Biden to visit Alabama with actress Jennifer Garner MORE is expected to ..."
-    publishedDateTime: 2021-04-07T21:52:00Z
-    webUrl: "https://thehill.com/homenews/administration/547036-biden-to-nominate-gun-control-advocate-as-atf-director"
-    ampWebUrl: "https://thehill.com/homenews/administration/547036-biden-to-nominate-gun-control-advocate-as-atf-director?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/547036-biden-to-nominate-gun-control-advocate-as-atf-director?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/chipmandavid_09252019getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Despite Biden claim, most migrant families not being expelled to Mexico"
     excerpt: "WASHINGTON (Reuters) - U.S. border agents expelled roughly a third of migrant parents and children traveling together and caught crossing the southwestern border in March, according to U.S. government data, undercutting a claim by President Joe Biden that ..."
     publishedDateTime: 2021-04-08T13:10:00Z
@@ -95,85 +79,37 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Jill Biden shines fresh spotlight on military family program"
-    excerpt: "Jill Biden on Wednesday delivered on her promise to prioritize the struggles of military families by reviving a decade-old initiative that challenged Americans to do something as simple as mow the lawn or drop off a meal for a family with a loved one in the armed forces."
-    publishedDateTime: 2021-04-08T02:07:00Z
-    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/jill-biden-shines-fresh-spotlight-military-family-program-76932790"
-    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/jill-biden-shines-fresh-spotlight-military-family-program-76932790"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/jill-biden-shines-fresh-spotlight-military-family-program-76932790"
+  - title: "Biden budget would beef up IRS tax enforcement: Yellen"
+    excerpt: "WASHINGTON (Reuters) - U.S. Treasury Secretary Janet Yellen said on Friday that the Internal Revenue Service budget would increase by $1.2 billion or 10.4% under President Joe Biden’s fiscal 2022 budget request. Yellen, in a statement, said the $13.2 ..."
+    publishedDateTime: 2021-04-09T14:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-treasury-budget-idUSKBN2BW25C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BW25C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW25C"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_39348932ea8c4f53bd94270691cbb3b3_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557886866&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH38128"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Joe Biden to announce executive actions to address gun violence – live"
-    excerpt: "President to hold event at Rose Garden to formally announce actions in wake of mass shootings in Atlanta and Boulder"
-    publishedDateTime: 2021-04-08T13:38:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/08/joe-biden-ghost-guns-covid-coronavirus-politics-latest-updates"
+  - title: "Biden budget would beef up IRS tax enforcement -Yellen"
+    excerpt: "WASHINGTON (Reuters) -U.S. Treasury Secretary Janet Yellen said on Friday that the Internal Revenue Service budget would increase by $1.2 billion or 10.4% under President Joe Biden’s fiscal 2022 budget request. Yellen, in a statement, said the $13.2 ..."
+    publishedDateTime: 2021-04-09T21:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-treasury-budget-idUKKBN2BW25C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BW25C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BW25C"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/59e506e6d0a5bf4497576b19abf029f423a3dd89/0_23_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=132cc26e355e168c0db7a1767d86f425"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "OnPolitics: Biden takes on gun control"
-    excerpt: "President Joe Biden called for swift action on gun control legislation in the wake of the mass shootings in Colorado and Georgia in March. Today Biden took it one step farther, unveiling six executive actions on curbing gun violence. It's Mabinty ..."
-    publishedDateTime: 2021-04-08T21:44:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/08/biden-tackles-gun-control-legislation-after-mass-shootings/7145327002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7145327002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7145327002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/976f8936-4e67-4e9e-b7e9-7140c2588fac-DESK.00_00_35_25.Still002.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Tennessee Defies Joe Biden's Gun Control Push with No-Permit Law"
-    excerpt: "The Republican governor announced that he'd signed the legislation as President Joe Biden unveiled a raft of executive actions aimed at curbing gun violence and tightening firearm controls. \"I signed constitutional carry today because it shouldn't be hard ..."
-    publishedDateTime: 2021-04-09T08:13:00Z
-    webUrl: "https://www.newsweek.com/tennessee-handguns-carry-no-permit-joe-biden-control-1582235"
-    ampWebUrl: "https://www.newsweek.com/tennessee-handguns-carry-no-permit-joe-biden-control-1582235?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tennessee-handguns-carry-no-permit-joe-biden-control-1582235?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1774224/handguns-nashville-tennessee.jpg"
-        width: 1024
-        height: 681
-        isCached: true
-  - title: "West Virginia attorney general threatens to sue Biden over gun measures"
-    excerpt: "on Thursday threatened to sue the Biden administration over President Biden Joe Biden Manchin throws cold water on using budget reconciliation Moderate GOP senators and Biden clash at start of ..."
-    publishedDateTime: 2021-04-08T17:54:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/547178-west-virginia-attorney-general-threatens-to-sue-biden-over-gun-measures?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/morriseypatrick_022421_gettyimages.jpg"
-        width: 827
-        height: 551
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210410&t=2&i=1557939079&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH381F8"
+        width: 866
+        height: 545
         isCached: true
   - title: "Biden orders commission to study supreme court expansion and reform"
     excerpt: "Executive order fulfils campaign pledge to examine court reform but Biden has not said if he favors expanding nine-justice court"
@@ -191,6 +127,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden's budget meets criticism from right and left on Pentagon spending"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden asked Congress to sharply hike spending on climate change, cancer and underperforming schools, but his first budget wishlist on Friday drew howls of bipartisan concern over military spending. The $1.5 ..."
+    publishedDateTime: 2021-04-10T08:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-idUSKBN2BW190"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BW190"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW190"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557911942&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH381F5"
+        width: 812
+        height: 545
+        isCached: true
   - title: "Biden sees `win' for US in electric vehicle battery deal"
     excerpt: "President Joe Biden calls it “a win for American workers and the American auto industry.\" WASHINGTON -- Two big South Korean electric vehicle battery makers have settled a long-running trade ..."
     publishedDateTime: 2021-04-11T12:36:00Z
@@ -206,6 +158,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_fad24c3069b54782a4557fd75b0981dc_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Kerry expected to travel to China in first visit by top Biden official"
+    excerpt: "The trip, less than a month after a face-to-face meeting between senior Chinese and U.S. diplomats in Alaska ended in traded diatribes and insults, would be the first official visit to China by a top Biden administration official. A State Department ..."
+    publishedDateTime: 2021-04-10T19:35:00Z
+    webUrl: "https://www.washingtonpost.com/world/china-us-kerry-climate/2021/04/10/1844cf02-99ff-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/china-us-kerry-climate/2021/04/10/1844cf02-99ff-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/china-us-kerry-climate/2021/04/10/1844cf02-99ff-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YWO3FOU2EAI6XMUNX6T3WXFSUU.jpg&w=1440"
+        width: 1440
+        height: 940
         isCached: true
   - title: "Biden faces battle for the soul of his infrastructure plan: The Note"
     excerpt: "The fate of this package will not only test Biden's commitment to bipartisanship, but will also challenge his commitment to the bold transformative change he's promised."
@@ -223,22 +191,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden nominates Tucson, Arizona police chief to lead border agency: NYT"
-    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden has nominated Tucson, Arizona, Police Chief Chris Magnus to lead the Customs And Border Protection Agency, the New York Times reported on Monday . Magnus, a critic of former President Donald Trump’s anti ..."
-    publishedDateTime: 2021-04-12T12:25:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-immigration-biden-idUSKBN2BZ1L6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BZ1L6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BZ1L6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558144917&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B0W3"
-        width: 795
-        height: 545
-        isCached: true
   - title: "Biden sees `win’ for US in electric vehicle battery deal"
     excerpt: "Two big South Korean electric vehicle battery makers said they’ve settled a long-running trade dispute that will allow one company to move ahead with plans to manufacture batteries in Georgia"
     publishedDateTime: 2021-04-12T04:32:00Z
@@ -254,38 +206,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Senate Republicans label Biden infrastructure plan a 'slush fund'"
-    excerpt: "Senate Republicans have reportedly sent around a memo calling President Biden Joe Biden Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Biden to meet ..."
-    publishedDateTime: 2021-04-12T13:01:00Z
-    webUrl: "https://thehill.com/homenews/administration/547641-senate-republicans-label-biden-infrastructure-plan-a-slush-fund"
-    ampWebUrl: "https://thehill.com/homenews/administration/547641-senate-republicans-label-biden-infrastructure-plan-a-slush-fund?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/547641-senate-republicans-label-biden-infrastructure-plan-a-slush-fund?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_04092021getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Bipartisan lawmakers signal support for Biden cybersecurity picks"
-    excerpt: "Key lawmakers on Monday expressed support for President Biden Joe Biden Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Biden to meet Monday with ..."
-    publishedDateTime: 2021-04-12T20:02:00Z
-    webUrl: "https://thehill.com/policy/cybersecurity/547756-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks"
-    ampWebUrl: "https://thehill.com/policy/cybersecurity/547756-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/cybersecurity/547756-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_110920getty_cyber.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Biden faces long odds in push for more state 'red flag' laws"
     excerpt: "Iowa -- President Joe Biden faces an uphill battle as he tries to revive a push for more state laws that would allow authorities to temporarily disarm people who are considered a danger to ..."
@@ -318,22 +238,6 @@ related:
       - url: "https://thehill.com/sites/default/files/1230bidenlede0413.jpg"
         width: 580
         height: 326
-        isCached: true
-  - title: "Biden sparks bipartisan backlash on Afghanistan withdrawal"
-    excerpt: "President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims for Ramadan The business case for child care reform ..."
-    publishedDateTime: 2021-04-13T19:02:00Z
-    webUrl: "https://thehill.com/homenews/senate/548007-biden-sparks-bipartisan-backlash-on-afghanistan-withdrawal"
-    ampWebUrl: "https://thehill.com/homenews/senate/548007-biden-sparks-bipartisan-backlash-on-afghanistan-withdrawal?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548007-biden-sparks-bipartisan-backlash-on-afghanistan-withdrawal?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/ustroopsafghanistan_092417getty.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Inside the surprisingly close Biden-Manchin relationship"
     excerpt: "Joe Manchin Joe Manchin Five hurdles Democrats face to pass an infrastructure bill Nixed Interior nominee appointed to different department role Against mounting odds, Biden seeks GOP support ..."
@@ -383,22 +287,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "U.S. Senate panel to consider Biden Postal Board nominees April 22"
-    excerpt: "The U.S. Senate Homeland Security and Government Affairs Committee will hold an April 22 hearing on President Joe Biden's three nominees to serve on the U.S. Postal Board of Governors, the panel announced Wednesday."
-    publishedDateTime: 2021-04-15T02:04:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-post-office-idUSKBN2C2087"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C2087"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C2087"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210415&t=2&i=1558516848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3E03T"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Biden's pick for top civil rights job promises to advance racial equality"
     excerpt: "WASHINGTON – Kristen Clarke, President Joe Biden's pick to be the Justice Department's civil rights chief, is promising to make racial equality a top priority, drawing on her experiences as a longtime civil rights attorney and the mother of a Black ..."
     publishedDateTime: 2021-04-14T06:59:00Z
@@ -428,6 +316,22 @@ related:
     quality: 123
     images:
       - url: "https://thehill.com/sites/default/files/ice_05092019_getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden praises settlement in dispute between electric vehicle battery makers"
+    excerpt: "President Biden Joe Biden Biden eyes bigger US role in global vaccination efforts Trump says GOP will take White House in 2024 in prepared speech Kemp: Pulling All-Star game out of Atlanta will ..."
+    publishedDateTime: 2021-04-11T13:06:00Z
+    webUrl: "https://thehill.com/policy/technology/547561-biden-praises-settlement-in-dispute-between-electric-vehicle-battery-makers"
+    ampWebUrl: "https://thehill.com/policy/technology/547561-biden-praises-settlement-in-dispute-between-electric-vehicle-battery-makers?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/547561-biden-praises-settlement-in-dispute-between-electric-vehicle-battery-makers?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_032421getty_biden.jpg"
         width: 980
         height: 551
         isCached: true
@@ -479,6 +383,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden wants money to probe white supremacist beliefs at immigration agencies"
+    excerpt: "WASHINGTON (Reuters) -President Joe Biden is calling for funding to investigate complaints of white supremacist beliefs at U.S. immigration enforcement agencies, according to a summary of his budget request for the coming fiscal year released on Friday."
+    publishedDateTime: 2021-04-09T15:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-immigration-idINKBN2BW21J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BW21J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BW21J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557897992&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3810R"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Haaland meets with Utah politicians, tribes as Biden weighs monument changes"
     excerpt: "tribal leaders and other stakeholders Wednesday and Thursday as President Biden Joe Biden Anne Frank's stepsister: Trump 'obviously admired Hitler' Biden-GOP infrastructure talks off to rocky ..."
     publishedDateTime: 2021-04-08T22:01:00Z
@@ -494,6 +414,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bearsearsmonument.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Biden seeks funding to probe white supremacist beliefs at immigration agencies"
+    excerpt: "WASHINGTON (Reuters) -President Joe Biden called for funding to investigate complaints of white supremacist beliefs at U.S. immigration enforcement agencies in his first budget request to Congress on Friday, but officials offered no explanation for what ..."
+    publishedDateTime: 2021-04-10T02:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-immigration/biden-calls-for-funding-to-probe-white-supremacist-beliefs-at-u-s-immigration-agencies-idUSKBN2BW21J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BW21J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW21J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210410&t=2&i=1557939081&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH381FB"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden to meet with bipartisan group to discuss $2tn infrastructure plan – live"
     excerpt: "Trump specifically criticized McConnell for allowing the Senate to approve the certification of Joe Biden’s victory in the presidential election on January 6, hours after a group of the then-president’s supporters staged a deadly insurrection at the ..."
@@ -607,54 +543,6 @@ related:
         width: 594
         height: 398
         isCached: true
-  - title: "Biden introduced his infrastructure plan. How does he plan to get it through Congress?"
-    excerpt: "WASHINGTON – President Joe Biden called his infrastructure plan \"bold\" on Wednesday and insisted the massive piece of legislation is necessary. \"Put simply, these are investments we have to make,\" he said during a speech in Pittsburgh. \"Put another ..."
-    publishedDateTime: 2021-04-01T21:11:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/01/president-joe-biden-infrastructure-plan-how-pass-congress/4823282001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4823282001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4823282001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/01/USAT/cf70ab61-d90d-4cb4-828d-675a5725e375-AP_Biden_1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden announces limited gun control actions, saying gun violence epidemic 'has to stop'"
-    excerpt: "It's going to be very hard to get any kind of bipartisan consensus' on guns: Ponnuru President Joe Biden announced limited steps, using his executive power, to address gun violence Thursday ..."
-    publishedDateTime: 2021-04-08T16:44:00Z
-    webUrl: "https://abcnews.go.com/Politics/white-house-expected-announce-gun-control-actions-atf/story?id=76933179"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/white-house-expected-announce-gun-control-actions-atf/story?id=76933179"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/white-house-expected-announce-gun-control-actions-atf/story?id=76933179"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 117
-    images:
-      - url: "https://s.abcnews.com/images/Politics/president-biden-gun-violence-prevention-01-gty-iwb-210408_1617900253327_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden announces limited gun control actions, saying gun violence epidemic 'has to stop'"
-    excerpt: "He called shootings in the U.S. an \"international embarrassment.\" Biden takes aim at gun control President Joe Biden announced limited steps, using his executive power, to address gun violence ..."
-    publishedDateTime: 2021-04-08T20:45:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-announces-limited-gun-control-actions-gun-violence/story?id=76933179"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-announces-limited-gun-control-actions-gun-violence/story?id=76933179"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-announces-limited-gun-control-actions-gun-violence/story?id=76933179"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 117
-    images:
-      - url: "https://s.abcnews.com/images/Politics/president-biden-gun-violence-prevention-01-gty-iwb-210408_1617900253327_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "The Hill's Morning Report - Biden bumps up vaccine eligibility amid 'life or death' race"
     excerpt: "President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far Jill Biden to visit Alabama with actress Jennifer Garner MORE\" width=\"580 ..."
     publishedDateTime: 2021-04-07T10:25:00Z
@@ -714,20 +602,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Biden announces steps to limit 'ghost' guns"
-    excerpt: "Reuters Now Biden announces steps to limit 'ghost' guns Posted [NFA] President Joe Biden and his Attorney General Merrick Garland announced limited measures to tackle gun violence in the United States on Thursday, in what the White House described as a ..."
-    publishedDateTime: 2021-04-08T20:23:00Z
-    webUrl: "https://www.reuters.com/video/watch/idPol0?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/606f5fd3e4b0653eea185721-1617911763773?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden says gun violence in U.S. is an 'embarrassment’"
     excerpt: "News Agency Biden says gun violence in U.S. is an 'embarrassment’ Posted . President Joe Biden called gun violence in the U.S. an 'epidemic' as he announced limited measures to"
     publishedDateTime: 2021-04-08T18:25:00Z
@@ -742,17 +616,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Joe Biden announces first steps to curb ‘epidemic’ of US gun violence"
-    excerpt: "President condemned gun violence as an ‘international embarrassment’ after series of recent shootings around the US Last modified on Thu 8 Apr 2021 14.18 EDT Joe Biden, under pressure to act after a slew of mass shootings, has announced his first steps ..."
-    publishedDateTime: 2021-04-08T18:18:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/08/joe-biden-gun-violence-executive-actions-epidemic"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/08/joe-biden-gun-violence-executive-actions-epidemic"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/08/joe-biden-gun-violence-executive-actions-epidemic"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
   - title: "Biden nominates California workplace safety chief to head OSHA"
     excerpt: "President Joe Biden has tapped Doug Parker, the director of California’s workplace safety agency, to lead the Occupational Safety and Health Administration (OSHA) as it is expected to pivot to more aggressive enforcement amid the COVID-19 pandemic."
     publishedDateTime: 2021-04-12T17:46:00Z
@@ -806,29 +669,24 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Biden meets with bipartisan group of lawmakers on infrastructure"
-    excerpt: "Mr. Biden said he's confident the infrastructure push will work out. The infrastructure proposal currently includes a 28% corporate tax rate, which moderate Democratic Senator Joe Manchin has already said is too high. Manchin has said he could be more ..."
-    publishedDateTime: 2021-04-13T11:08:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-infrastructure-bipartisan-meeting/"
+  - title: "Biden nominee Wormuth would be first woman to lead Army"
+    excerpt: "President Joe Biden says he will nominate a former senior Pentagon official to be the first woman to lead the Army"
+    publishedDateTime: 2021-04-12T20:20:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/biden-nominee-wormuth-would-be-first-woman-to-lead-army/2021/04/12/81c95942-9bcc-11eb-b2f5-7d2f0182750d_story.html"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 85
-  - title: "As Biden introduces gun violence measures, the administration faces hurdles on infrastructure and the southern border"
-    excerpt: "As Biden introduces gun violence measures, the administration faces hurdles on infrastructure and the southern border President Joe Biden is set to unveil a list of executive actions tackling gun violence following a series of deadly mass shootings across ..."
-    publishedDateTime: 2021-04-08T14:49:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-set-to-unveil-executive-actions-addressing-gun-violence/"
+  - title: "Biden's pick for top U.S. civil rights lawyer, Kristen Clarke, faces fraught task"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden’s nominee to lead the Justice Department’s Civil Rights Division, Kristen Clarke, is poised to take on the role at a fraught time in American history. Clarke will face a Senate hearing this week as hate crimes ..."
+    publishedDateTime: 2021-04-13T09:02:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-justice-clarke/bidens-pick-for-top-u-s-civil-rights-lawyer-kristen-clarke-faces-fraught-task-idUSKBN2C0141?edition-redirect=in"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 82
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/08/8ce16aee-fe28-4b74-a2f8-5e091f99d5d6/thumbnail/1200x630/eb7537e8543836c4309b4bc04c54c1ee/cbsn-fusion-biden-set-to-unveil-executive-actions-addressing-gun-violence-thumbnail-687952-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 80
   - title: "No, Joe Biden did not have a medical emergency Easter Sunday"
     excerpt: "This one is bogus, even though it was shared widely on social media. Here are the facts: CLAIM: President Joe Biden needed a special medical team at the White House and was taken to the hospital late Sunday. THE FACTS: Biden was not at the White House on ..."
     publishedDateTime: 2021-04-11T15:04:00Z
@@ -923,35 +781,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "President Joe Biden and a whole lot of celebrities want you to get vaccinated against COVID-19"
-    excerpt: "A whole horde of celebrities, the president and former President Barack Obama are coming to your TV to encourage you to get the COVID-19 vaccine. PANDEMIC PLAYLIST: Mick Jagger and Dave Grohl team up for a pandemic anthem Vaccine hesitancy has become a growing problem as we try to finally make it to something resembling the before times."
-    publishedDateTime: 2021-04-14T19:12:00Z
-    webUrl: "https://www.chron.com/life/article/nbc-roll-up-sleeves-vaccine-special-biden-obama-16099959.php"
-    ampWebUrl: "https://www.chron.com/life/amp/nbc-roll-up-sleeves-vaccine-special-biden-obama-16099959.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/amp/nbc-roll-up-sleeves-vaccine-special-biden-obama-16099959.php"
+  - title: "Biden administration budget request includes nearly $25 billion for NASA"
+    excerpt: "President Joe Biden submitted on Friday a $1.5 trillion budget request that includes $24.7 billion for NASA for 2022.The ask is part of the"
+    publishedDateTime: 2021-04-12T17:58:00Z
+    webUrl: "https://www.theday.com/article/20210412/NWS21/210419861"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 63
-    images:
-      - url: "https://s.hdnux.com/photos/01/02/42/54/17443598/3/rawImage.jpg"
-        width: 2048
-        height: 1472
-        isCached: true
-  - title: "Prince Philip: US President Joe Biden describes him as 'a heck of a guy'"
-    excerpt: "US President Joe Biden said the entire administration sent their condolences to the Queen on the loss of Prince Philip, saying he was a \"heck of a guy\". He paid tribute to the Duke of Edinburgh's \"lifetime of service\", his active duty during World War Two ..."
-    publishedDateTime: 2021-04-09T20:39:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/uk-56698348"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
+      name: The Day
+      domain: theday.com
     quality: 54
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p09d7vvs.jpg"
-        width: 400
-        height: 225
+      - url: "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png"
+        width: 360
+        height: 360
         isCached: true
   - title: "Ron DeSantis polls well thru pandemic despite ’60 Minutes’ story, tops Joe Biden"
     excerpt: "The '60 Minutes' story might have actually helped the Governor. Floridians have a more favorable view of Gov. Ron DeSantis than they do of President Joe Biden. A recent survey from the ..."
@@ -967,29 +809,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "President Joe Biden gives powerful tribute, pays respects to slain Capitol police officer"
-    excerpt: "President Joe Biden gave an emotional tribute and paid his respects to slain U.S. Capitol Police Officer William “Billy” Evans."
-    publishedDateTime: 2021-04-13T23:24:00Z
-    webUrl: "https://www.indystar.com/videos/news/nation/2021/04/13/president-biden-pays-respects-slain-capitol-police-officer/7212635002/"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 46
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/13/USAT/c8029d0e-d69e-4994-accc-b4eee06c60e5-DESK.00_00_41_02.Still004.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Fact-checking Joe Biden on how little some corporations pay in taxes"
-    excerpt: "A study was released days earlier by a non-governmental group that concluded that at least 55 large companies paid zero federal income taxes in 2020. • However, Biden’s term “loopholes” may not be apt,"
-    publishedDateTime: 2021-04-12T20:33:00Z
-    webUrl: "https://www.politifact.com/factchecks/2021/apr/12/joe-biden/fact-checking-joe-biden-corporation-taxes/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 35
 
 secured: "+Q/zTNyKT9V5oOVStyNDn/jI95CmhD1EOzRNxISTs4yP8NUNcFWBzMWzPZ8SfxnO9id2pJvkgY0Lp7E1TYUWmUF8bT6G+Xq3cipyNTQ2im8DkoCiDOw4OfYcT3LoSGcLjIoQsyyqH0CYm/9grvWqBkKFobFbFtC7JiK36kG5o02DALs/nLNvapuYQgIIQVh2AcDRpqDLbozUfjQG6EWEHfotQX9KOJE52cYj8q2xPk0XYkO23HEnai7SGJozmciAJkX4Umkuh90syxEEVDCe87lkqr4TWcLY/g+iMu0w7tU3mS32IxMs8I1mG4Niuz7yAHJQFkKGORduRzZdkHQfzsuZT56ItRG3tBoiMtFb7P0=;mQCRf1H6r6M2d7vvJPIzkQ=="
 ---

@@ -27,164 +27,116 @@ images:
     isCached: true
 
 related:
-  - title: "How do Americans feel about President Trump?"
-    excerpt: "CBS News, along with YouGov, has tracked Americans' views on President Trump and his administration since he was sworn into office. CBS News elections director Anthony Salvanto joins CBSN with details on the latest poll."
-    publishedDateTime: 2021-04-29T01:11:00Z
-    webUrl: "https://www.cbsnews.com/video/how-do-americans-feel-about-president-trump-1/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/how-do-americans-feel-about-president-trump-1/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/how-do-americans-feel-about-president-trump-1/"
+  - title: "President Biden nominates Texas Sheriff Ed Gonzalez to head ICE"
+    excerpt: "President Joe Biden has announced Sheriff Ed Gonzalez of Harris County, Texas, as his nominee for director of Immigration and Customs Enforcement. He was included on a list of 11 nominations for key national security positions."
+    publishedDateTime: 2021-04-28T17:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/27/biden-names-harris-county-sheriff-ed-gonzalez-head-ice/4864492001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4864492001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4864492001"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: USA Today
+      domain: usatoday.com
     quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/a98694a2-87f8-43e5-851e-360553f9af2c/thumbnail/1200x630/886cfd09670491d318fc691ecc5dedc9/cbsn-0227-mikekellypanel-1273084-640x360.jpg"
+      - url: "https://www.gannett-cdn.com/-mm-/81d9cce7b7d1a0276ff2f5a1f631b49764f09684/c=0-229-3061-1958/local/-/media/2017/01/31/USATODAY/USATODAY/636214873441033287-USP-NFL-SUPER-BOWL-LI-SECURITY-PRESS-CONFERENCE-88450154.JPG?auto=webp&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 678
         isCached: true
-  - title: "Kinzinger goes to Texas in search of anti-Trump Republicans"
-    excerpt: "Adam Kinzinger came to Texas this week to hunt unicorns. The Illinois congressman was looking for Republicans who, like him, see former President Donald Trump as a scourge on their party and a threat to democracy."
-    publishedDateTime: 2021-04-30T14:12:00Z
-    webUrl: "https://www.washingtonpost.com/politics/texas-special-election-poses-test-for-anti-trump-republicans/2021/04/30/38dd9c6c-a96d-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/texas-special-election-poses-test-for-anti-trump-republicans/2021/04/30/38dd9c6c-a96d-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/texas-special-election-poses-test-for-anti-trump-republicans/2021/04/30/38dd9c6c-a96d-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+  - title: "Biden touts achievements at Georgia rally as he marks 100 days as president – live"
+    excerpt: "End detention now’ – follow live"
+    publishedDateTime: 2021-04-29T22:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest?page=with:block-608b0e4e8f0874ac77453fda"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X2D2YIVJNAI6XKFHL5C53TPTMQ.jpg&w=1440"
-        width: 1440
-        height: 952
-        isCached: true
-  - title: "President Trump fires FBI Director James Comey"
-    excerpt: "President Trump has fired FBI Director James Comey, which is only the second time an FBI director has been fired. CBSN contributor and Time politcal reporter Zeke Miller spoke with CBSN about Comey's dismissal."
-    publishedDateTime: 2021-04-30T21:54:00Z
-    webUrl: "https://www.cbsnews.com/video/president-trump-fires-fbi-director-james-comey-1/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/president-trump-fires-fbi-director-james-comey-1/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-trump-fires-fbi-director-james-comey-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/b375bccc-a264-4c3b-ba0a-9230d2206ffe/thumbnail/1200x630/ef4b250acb1ae3e7891c9eedf19255c9/0509-cbsn-vhd-1312519-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Bid to censure Romney for Trump impeachment votes fails"
-    excerpt: "Utah Republicans booed Sen. Mitt Romney but ultimately rejected a motion to censure him for his votes at President Donald Trump’s impeachment trials"
-    publishedDateTime: 2021-05-02T01:08:00Z
-    webUrl: "https://www.washingtonpost.com/politics/bid-to-censure-romney-for-trump-impeachment-votes-fails/2021/05/01/efb924f8-aae2-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/bid-to-censure-romney-for-trump-impeachment-votes-fails/2021/05/01/efb924f8-aae2-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bid-to-censure-romney-for-trump-impeachment-votes-fails/2021/05/01/efb924f8-aae2-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HADH3CFK4II6XKFHL5C53TPTMQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Still Donald Trump's GOP? House Runoff Will Put His Leadership to the Test"
-    excerpt: "A special election in Texas' 6th Congressional District on Saturday saw a crowded field, including 11 Republicans, in the running to succeed Republican Rep. Ron Wright."
-    publishedDateTime: 2021-05-02T13:39:00Z
-    webUrl: "https://www.newsweek.com/still-donald-trumps-gop-house-runoff-will-put-his-leadership-test-1588127"
-    ampWebUrl: "https://www.newsweek.com/still-donald-trumps-gop-house-runoff-will-put-his-leadership-test-1588127?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/still-donald-trumps-gop-house-runoff-will-put-his-leadership-test-1588127?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
-    images:
-      - url: "https://d.newsweek.com/en/full/1786229/american-cpac.jpg"
-        width: 3000
-        height: 2082
-        isCached: true
-  - title: "Former President Trump criticizes FBI search of Rudy Giuliani's home and office"
-    excerpt: "Former President Donald Trump spoke out against the investigation into his personal attorney, Rudy Giuliani, after the FBI executed a search warrant at Giuliani's home and office as part of the probe into Giuliani's dealings with Ukraine."
-    publishedDateTime: 2021-04-29T18:04:00Z
-    webUrl: "https://www.cbsnews.com/video/fbi-search-warrant-rudy-giuliani-home-and-office-donald-trump/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 101
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/29/c4afdc2d-0f1f-4899-8ff4-e9b7b0267106/thumbnail/1200x630/1fa6051efb8457378284d0e57493d5a0/cbsn-fusion-fbi-search-warrant-rudy-giuliani-home-and-office-donald-trump-thumbnail-704183-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Mike Lindell told Kimmel he still speaks to Trump once a month – most recently about Trump's border fears"
-    excerpt: "MyPillow CEO Mike Lindell told Jimmy Kimmel he spoke to Donald Trump a few weeks ago. Trump was \"worried about what was going down at the border.\""
-    publishedDateTime: 2021-04-29T12:58:00Z
-    webUrl: "https://www.businessinsider.com/mike-lindell-jimmy-kimmel-donald-trump-once-month-mexico-border-2021-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
-    images:
-      - url: "https://i.insider.com/608a6ca235c46f0018c0b2d5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Kinzinger goes to Texas in search of anti-Trump Republicans"
-    excerpt: "Adam Kinzinger came to Texas this week to hunt unicorns. The Illinois congressman was looking for Republicans who, like him, see former President Donald Trump as a scourge on their party and a threat to democracy."
-    publishedDateTime: 2021-04-30T20:21:00Z
-    webUrl: "https://www.chron.com/news/article/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+      - url: "https://i.guim.co.uk/img/media/a5f0d64f9bd702c44ba50d404f7d894f6e39cc64/0_222_4862_2917/master/4862.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=787b2730ae0133e578be8022776ba688"
         width: 600
-        height: 336
+        height: 360
         isCached: true
-  - title: "Utah Republicans’ bid to censure Sen. Mitt Romney for Trump impeachment votes fails"
-    excerpt: "Mitt Romney but ultimately rejected a motion to censure him Saturday for his votes at President Donald Trump’s impeachment trials. The measure narrowly failed, 798 to 711, in a vote by delegates to the state GOP convention,"
-    publishedDateTime: 2021-05-02T03:30:00Z
-    webUrl: "https://www.al.com/news/2021/05/utah-republicans-bid-to-censure-sen-mitt-romney-for-trump-impeachment-votes-fails.html"
-    ampWebUrl: "https://www.al.com/news/2021/05/utah-republicans-bid-to-censure-sen-mitt-romney-for-trump-impeachment-votes-fails.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/05/utah-republicans-bid-to-censure-sen-mitt-romney-for-trump-impeachment-votes-fails.html?outputType=amp"
+  - title: "Biden touts achievements at Georgia rally as he marks 100 days as president – as it happened"
+    excerpt: "End detention now’ – follow live"
+    publishedDateTime: 2021-04-29T23:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest?page=with:block-608b14378f08300738403647"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 69
+      name: The Guardian
+      domain: theguardian.com
+    quality: 114
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NT6QIB5EHZCYRI5ERTUUTQIN7E.jpg"
-        width: 1024
-        height: 683
+      - url: "https://i.guim.co.uk/img/media/a5f0d64f9bd702c44ba50d404f7d894f6e39cc64/0_222_4862_2917/master/4862.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=787b2730ae0133e578be8022776ba688"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Ex-Trump Vice President Pence Makes First Public Appearance Since January"
-    excerpt: "Pence spoke for a half hour in Columbia, South Carolina, to the Palmetto Family Council, a religious conservative group. It was his first speech since he and then-President Donald Trump handed over power to President Joe Biden and Vice President Kamala Harris on Jan."
-    publishedDateTime: 2021-04-30T01:03:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-29/ex-trump-vice-president-pence-makes-first-public-appearance-since-january"
+  - title: "'Life changing': President Biden asked for favorite national park memories, and they were heartwarming"
+    excerpt: "National park-goers shared some of those memories and moments on Twitter this week in honor of National Park Week, which runs through Sunday and is celebrated by the National Park Foundation each April."
+    publishedDateTime: 2021-04-24T12:00:00Z
+    webUrl: "https://www.usatoday.com/story/travel/experience/america/national-parks/2021/04/24/national-park-week-twitter-memories-joe-biden-yellowstone-zion/7335754002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7335754002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7335754002"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 59
-  - title: "Eight Republican 2024 Candidates Speak in Texas Next Week, but Not Trump"
-    excerpt: "Candidates Speak in Texas Next Week, but Not Trump WASHINGTON (Reuters) - A Republican Party event in Texas next week will hear from eight potential candidates for the party's presidential nomination in 2024,"
-    publishedDateTime: 2021-04-30T21:50:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/eight-republican-2024-candidates-speak-in-texas-next-week-but-not-trump"
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/f8689cd4e3fa52e9a025d26db599d5f77cd587a1/c=0-296-5168-3203/local/-/media/2021/02/25/USATODAY/usatsports/GettyImages-669737652.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President Joe Biden to tour S&WB's Carrollton Plant this week, according to White House"
+    excerpt: "President Joe Biden has argued his wide-ranging, $2.3 trillion infrastructure plan is a solution to decades of underinvestment in roads, pipes and other major projects throughout the country."
+    publishedDateTime: 2021-05-03T21:49:00Z
+    webUrl: "https://www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.html"
+    ampWebUrl: "https://www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.amp.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
+      name: NOLA.com
+      domain: nola.com
+    quality: 67
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/9/0c/90cab378-25c5-11eb-b2be-476e690edf48/5df57e8ab9e25.image.jpg?resize=1024%2C676"
+        width: 1024
+        height: 676
+        isCached: true
+  - title: "Connecticut Republicans say President Joe Biden’s sweeping plans would spend too much, too quickly"
+    excerpt: "As Democrats coalesce around President Joe Biden’s sweeping plans, Republicans in Connecticut and elsewhere say they think the president is spending too much too quickly."
+    publishedDateTime: 2021-04-29T17:25:00Z
+    webUrl: "https://www.courant.com/politics/hc-pol-president-biden-connecticut-republicans-reaction-20210429-fhlzemwvibgfvjpnmerf7owniu-story.html"
+    ampWebUrl: "https://www.courant.com/politics/hc-pol-president-biden-connecticut-republicans-reaction-20210429-fhlzemwvibgfvjpnmerf7owniu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-president-biden-connecticut-republicans-reaction-20210429-fhlzemwvibgfvjpnmerf7owniu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 61
+    images:
+      - url: "https://www.courant.com/resizer/kp2rI7FDl_PTb-2kxsj2QtPvHNM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4TTXR4G4RCSMT7TPMONQ4CKPDA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "No, John Velazquez didn’t call Joe Biden a horse’s ass"
+    excerpt: "Says Kentucky Derby jockey John Velazquez turned down an invitation to the White House and said, “if I wanted to see a horse’s ass I would of came in second.” John Velazquez didn’t say this and he hasn’t been invited to the White House,"
+    publishedDateTime: 2021-05-03T17:49:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/may/03/facebook-posts/no-john-velazquez-didnt-call-joe-biden-horses-ass/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/tom_ruling_pof.png"
+        width: 667
+        height: 596
+        isCached: true
 
 secured: "0DBjFaMI1aFY0kVVfJYAbhyQPQpxj1YCI8KrM6Ta/SG/pRVqZ43kHHFG+DXr/iBaikOO1JkVe6yoAvn6Q5lJZg+PJ3SGDoaE912kcqeQ8g8EuSMRynloMvwTk98sDdqWItXppqAUj7MiFzWk/IdZ2CYx7foalfmMUa8T5vpZ3MaASH1z1+dvbfxnOLpaQ1pgIRuV8/y4FzCYcm8XA0S7ajEATvRwi/SbypZvJE6fM3mRjTgnHYCaHQeji7Dz2OcO5ZPw4PzH0hJKuDXfIjdtRjM2ATl0DL0d2CUSFvufJnvt5wkGQdfC97KiEgRbYQkd0vbY3l5OGZkm7xCGJneVFsvF74amhZSew+JRq9WhGHGiGVPNPriMWsK1ytSVYfBirU4qbbj5j6bjWUoi236soPjDN7R2JA2tygiBjF47n/ekTEKV24F33rOwF2+ApVrbvCOUS9MCjvqS3eXE0A1p4bdO/xy9AWOPjPI5zgjkmxnhOtzwCwt0/qse3Z6a3uEdIHdcxRBOw1S2vm5MX263Yg==;CBrMTzO8+tItQ4BvoJp/WA=="
 ---

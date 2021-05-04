@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-rep
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -23,36 +23,6 @@ provider:
 topics:
   - Election
   - Donald Trump
-
-related:
-  - title: "Professional political survivor Mike Pence tests if there's any room left for him in a Trump Republican Party"
-    excerpt: "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics."
-    publishedDateTime: 2021-04-28T08:01:00Z
-    webUrl: "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg"
-        width: 847
-        height: 423
-        isCached: true
-  - title: "Mike Pence is returning to the public eye this week — and insiders say it could foreshadow a 2024 presidential run"
-    excerpt: "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics."
-    publishedDateTime: 2021-04-29T16:31:00Z
-    webUrl: "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 83
-    images:
-      - url: "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg"
-        width: 847
-        height: 423
-        isCached: true
 
 secured: "3pWdevFGRijqxZ5uB0hkYtW5fdwhr+QA1Esrqg5BtCTH3cKIQpv/5umTJJ4SWZSOX7ZnELVj1EwH7XTAvqhtFmJd7mx5FIaoAoPPlo+qfLDwLwZJbqyMg8b6QlIgth2uHXUJZXrFq2rQtCcHbRJJB7r7/8XFWJlNJBEa9OmV/mXPd9telIXrQnCIGhlSwzrFM0HiwnC+nu06aVg9gtcVmNCaFa3ioeFAlwRw87FmVH64p7em0VdUlLtKVqx4WgXWgjkxRsaK8GnduyE2QOqMKK1okg4WRlvwTgP8eo616ImU742r02SkCIqRwUwxMp4KVJIA372wDWAZlHnEe6VFbKW0mxqZuA1MCosJQv8defFYaDk5+Mwcz7EBUe/Ugl3xO5poboQT7GIp/E16hy/XzwY4OmGEpBg5p2HeD2v4fiH7+O5DAbtjDQHRxKhvJ1l1GthlZgEwZFx0ld/wIzqOpxWz829z1M7aKIx2F+p19ajCt6SQ/w71wRrjJ7gyCs3pZ8MMNbOOJszp4CVxsCGrCA==;XZJN/OSxwp/0hrjNDFGqNA=="
 ---

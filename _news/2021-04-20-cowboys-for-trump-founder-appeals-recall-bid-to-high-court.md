@@ -23,438 +23,637 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Donald Trump Says All the States That Voted for Him Had No Election Fraud"
-    excerpt: "\"Florida, Ohio, all of the states that we won, were properly run,\" Trump said, speaking of states he thought had adequate voter fraud safeguards."
-    publishedDateTime: 2021-04-20T01:32:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 139
-    images:
-      - url: "https://d.newsweek.com/en/full/1561291/breaking-news-newsweek-high-resolution.jpg"
-        width: 1366
-        height: 911
-        isCached: true
-  - title: "Boehner says he voted for Trump, didn't push back on election claims because he's retired"
-    excerpt: "Former House Speaker John Boehner (R-Ohio) revealed in an interview with TIME that he voted for former President Trump in the 2020 election but&nbs"
-    publishedDateTime: 2021-04-13T14:19:00Z
-    webUrl: "https://thehill.com/homenews/house/547884-boehner-says-he-voted-for-trump-didnt-push-back-on-election-claims-because-hes"
-    ampWebUrl: "https://thehill.com/homenews/house/547884-boehner-says-he-voted-for-trump-didnt-push-back-on-election-claims-because-hes?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/547884-boehner-says-he-voted-for-trump-didnt-push-back-on-election-claims-because-hes?amp"
+  - title: "Trump: McConnell 'helpless' to stop Biden from packing court"
+    excerpt: "Former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Police in California city ..."
+    publishedDateTime: 2021-04-13T02:45:00Z
+    webUrl: "https://thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court"
+    ampWebUrl: "https://thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/547840-trump-mcconnell-helpless-to-stop-biden-from-packing-court?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 131
+    quality: 140
     images:
-      - url: "https://thehill.com/sites/default/files/boehner_trump040721.jpg"
+      - url: "https://thehill.com/sites/default/files/trumpdonald_mcconnellmitch_021821getty-gn_split_gop-funding.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Pro-Trump Author Eric Metaxas Calls Deniers of 2020 Election Fraud 'Enemies of This Country'"
-    excerpt: "Eric Metaxas, a New York Times bestselling Christian author and staunch supporter of former President Donald Trump, said deniers of baseless conspiracy theories that the results of the 2020 election were fraudulent are \"enemies of this country."
-    publishedDateTime: 2021-04-18T20:07:00Z
-    webUrl: "https://www.newsweek.com/pro-trump-author-eric-metaxas-calls-deniers-2020-election-fraud-enemies-this-country-1584527"
-    ampWebUrl: "https://www.newsweek.com/pro-trump-author-eric-metaxas-calls-deniers-2020-election-fraud-enemies-this-country-1584527?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pro-trump-author-eric-metaxas-calls-deniers-2020-election-fraud-enemies-this-country-1584527?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 129
-    images:
-      - url: "https://d.newsweek.com/en/full/1779580/eric-metaxas.jpg"
-        width: 1024
-        height: 578
-        isCached: true
-  - title: "Boehner lashes out at Trump, saying he 'abused' voters' trust"
-    excerpt: "Boehner on NSA Whistleblower: 'He's a Traitor' Former House Speaker John Boehner on Monday kept up his harsh criticism of President Donald Trump's role in the Jan. 6 riots, saying he \"abused\" the ..."
-    publishedDateTime: 2021-04-12T21:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/boehner-lashes-trump-abused-voters-trust/story?id=77019688"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/boehner-lashes-trump-abused-voters-trust/story?id=77019688"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/boehner-lashes-trump-abused-voters-trust/story?id=77019688"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/john-boehner-01-ap-iwb-210412_1618236535797_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Donald Trump rejects speechwriter's resignation"
-    excerpt: "Melania Trump's speechwriter has offered her resignation amid plagiarism claims, and has apologized for the \"chaos\" she has caused for the Trump family. CBS News senior political editor Steve Chaggaris and politics writer for The Atlantic Molly Ball join CBSN to discuss."
-    publishedDateTime: 2021-04-19T23:46:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-rejects-speechwriters-resignation-1/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/donald-trump-rejects-speechwriters-resignation-1/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/donald-trump-rejects-speechwriters-resignation-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/19/8feff424-79c4-48c2-a7c8-c25681720cea/thumbnail/1200x630/bdb2a34ced04bea350ebb6b1dfe6f115/cbsn-0720-rncday3-melaniatrumpsmistake-1095416-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Ohio Republicans want to rename state park for Donald Trump"
-    excerpt: "The bill sponsored by Rep. Mike Loychik to rename Mosquito State Park to Donald J. Trump State Park is the latest attempt by Ohio Republicans to honor the former president."
-    publishedDateTime: 2021-04-20T17:53:00Z
-    webUrl: "https://www.chicagotribune.com/midwest/ct-aud-nw-ohio-state-park-name-donald-trump-20210420-po6izxruenck3clyn42y7xcdj4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/midwest/ct-aud-nw-ohio-state-park-name-donald-trump-20210420-po6izxruenck3clyn42y7xcdj4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/midwest/ct-aud-nw-ohio-state-park-name-donald-trump-20210420-po6izxruenck3clyn42y7xcdj4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/YLuHmrMqB44AmyDZD9U8R6ujN28=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FQALKA4NVFF5TIJWDB7XEDACXA.JPG"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Donald Trump: Molly Forbes who stood up to golf plans dies at 96"
-    excerpt: "Molly Forbes and her son captured headlines with their opposition to Mr Trump's development next to their home."
-    publishedDateTime: 2021-04-22T10:26:00Z
-    webUrl: "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-56837442"
-    ampWebUrl: "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-56837442.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-scotland-north-east-orkney-shetland-56837442.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/41CD/production/_118154861_mollygetty.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "House passes bill aimed at stopping future Trump travel ban"
-    excerpt: "The House passed legislation on Wednesday that would limit executive authority to issue future travel bans like the one imposed by former President Trump against several Muslim-majority countries."
-    publishedDateTime: 2021-04-21T21:01:00Z
-    webUrl: "https://thehill.com/homenews/house/549577-house-passes-bill-aimed-at-stopping-future-trump-travel-ban"
-    ampWebUrl: "https://thehill.com/homenews/house/549577-house-passes-bill-aimed-at-stopping-future-trump-travel-ban?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/549577-house-passes-bill-aimed-at-stopping-future-trump-travel-ban?amp"
+  - title: "Biden to move ahead with $23 billion UAE weapons sale approved by Trump"
+    excerpt: "HuffPost first reported the plan. Former President Trump Donald Trump Biden to move ahead with billion UAE weapons sale approved by Trump Fox News hires high-profile defense team in Dominion ..."
+    publishedDateTime: 2021-04-14T01:21:00Z
+    webUrl: "https://thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump"
+    ampWebUrl: "https://thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/548102-biden-to-move-ahead-with-23-billion-uae-weapons-sale-approved-by-trump?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 125
+    quality: 140
     images:
-      - url: "https://thehill.com/sites/default/files/travelban_lax_062917getty.jpg"
+      - url: "https://thehill.com/sites/default/files/1230bidenlede0413.jpg"
+        width: 580
+        height: 326
+        isCached: true
+  - title: "Boehner: Trump's claims of stolen election a 'sad moment in American history'"
+    excerpt: "said that former President Donald Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell sidesteps Trump ..."
+    publishedDateTime: 2021-04-13T13:54:00Z
+    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in"
+    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 137
+    images:
+      - url: "https://thehill.com/sites/default/files/boehnerjohn_032614gn_boehner.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Rick Scott navigates Trump, winning back the Senate — and his own ambitions"
-    excerpt: "As chairman of the National Republican Senatorial Committee, the Florida senator is putting himself front and center as he leads the battle to win the majority in 2022."
-    publishedDateTime: 2021-04-18T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/scott-trump-senate-midterms/2021/04/17/63fed852-9e0a-11eb-8005-bffc3a39f6d3_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/scott-trump-senate-midterms/2021/04/17/63fed852-9e0a-11eb-8005-bffc3a39f6d3_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/scott-trump-senate-midterms/2021/04/17/63fed852-9e0a-11eb-8005-bffc3a39f6d3_story.html?outputType=amp"
+  - title: "Biden rescinds Trump-approved Medicaid work requirements in Michigan, Wisconsin"
+    excerpt: "ADVERTISEMENT The reversal comes after Trump’s CMS Administrator Seema Verma advocated for Medicaid work requirements, saying such regulations would help people get out of poverty and not rely ..."
+    publishedDateTime: 2021-04-08T14:11:00Z
+    webUrl: "https://thehill.com/policy/healthcare/547105-biden-rescinds-trump-approved-medicaid-work-requirements-in-michigan"
+    ampWebUrl: "https://thehill.com/policy/healthcare/547105-biden-rescinds-trump-approved-medicaid-work-requirements-in-michigan?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/547105-biden-rescinds-trump-approved-medicaid-work-requirements-in-michigan?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 136
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_04062021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump slashes at McConnell as he reiterates election falsehoods at Republican event"
+    excerpt: "Former president Donald Trump called Senate Minority Leader Mitch McConnell a “dumb son of a bitch” as he used a Saturday night speech to Republicans to blame him for not helping overturn the 2020 election and reiterated false assertions that he won ..."
+    publishedDateTime: 2021-04-11T04:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-mcconnell-election/2021/04/11/297a82da-9879-11eb-962b-78c1d8228819_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 123
+    quality: 134
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FPDDKZTYRII6XFEJR562ZVI6OU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFSY2JE2PEI6XJWQCPJAPKW3PA.jpg&w=1440"
         width: 1440
-        height: 960
+        height: 951
         isCached: true
-  - title: "Mike Lindell Says He Had Dream About Trump One Year Before Meeting Him, Credits God"
-    excerpt: "MyPillow CEO Mike Lindell on Saturday said that he had a dream about Donald Trump in 2015, one year before the two met for the first time. During his address at the conservative Freedom Conference held in Broken Arrow,"
-    publishedDateTime: 2021-04-17T20:17:00Z
-    webUrl: "https://www.newsweek.com/mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god-1584445"
-    ampWebUrl: "https://www.newsweek.com/mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god-1584445?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-lindell-says-he-had-dream-about-trump-one-year-before-meeting-him-credits-god-1584445?amp=1"
+  - title: "Factbox-How Biden's agencies are picking apart Trump's Wall Street-friendly measures"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden's interim financial regulators are using a range of legal tools to quickly here contentious measures passed under former President Donald Trump's administration, focusing on environmental, social and ..."
+    publishedDateTime: 2021-04-12T14:03:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-financial-regulators-idUKKBN2BZ1WS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BZ1WS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BZ1WS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558164505&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B109"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Texas Gov. Greg Abbott Blames Biden for Cartel 'Terrorism,' Cites Crime From Trump Era"
+    excerpt: "Abbott has also failed to mention that Trump publicly vowed to add the drug cartels to the foreign terror list but ultimately backed down."
+    publishedDateTime: 2021-04-17T21:30:00Z
+    webUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452"
+    ampWebUrl: "https://www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-gov-greg-abbott-blames-biden-cartel-terrorism-cites-crime-trump-era-1584452?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 119
+    quality: 132
     images:
-      - url: "https://d.newsweek.com/en/full/1779436/mike-lindell.jpg"
+      - url: "https://d.newsweek.com/en/full/1773480/greg-abbott.jpg"
         width: 2500
-        height: 1580
+        height: 1667
         isCached: true
-  - title: "Fox News Hosts 'Joined Forces' With Giuliani to Spread Trump Voter Fraud Lies, Lawsuit Says"
-    excerpt: "Smartmatic's motion states that Fox News and its hosts \"joined forces\" with Rudy Giuliani and Sidney Powell, two attorneys representing the re-election campaign of then-President Donald Trump, knowing that the attorneys would make false claims against ..."
-    publishedDateTime: 2021-04-13T23:57:00Z
-    webUrl: "https://www.newsweek.com/fox-news-hosts-joined-forces-giuliani-spread-trump-voter-fraud-lies-lawsuit-says-1583425"
-    ampWebUrl: "https://www.newsweek.com/fox-news-hosts-joined-forces-giuliani-spread-trump-voter-fraud-lies-lawsuit-says-1583425?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fox-news-hosts-joined-forces-giuliani-spread-trump-voter-fraud-lies-lawsuit-says-1583425?amp=1"
+  - title: "Trump Will Slam Biden and D.C. 'Swamp Creatures' in GOP Donor Retreat Speech, Says Top Advisor"
+    excerpt: "Donald Trump's senior advisor Jason Miller on Saturday afternoon revealed that the former president intends to slam President Joe Biden and the \"swamp creatures\" in Washington D.C. during his keynote speech at the GOP donor retreat in Mar-a-Lago tonight."
+    publishedDateTime: 2021-04-10T23:15:00Z
+    webUrl: "https://www.newsweek.com/trump-will-slam-biden-dc-swamp-creatures-gop-donor-retreat-speech-says-top-advisor-1582664"
+    ampWebUrl: "https://www.newsweek.com/trump-will-slam-biden-dc-swamp-creatures-gop-donor-retreat-speech-says-top-advisor-1582664?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-will-slam-biden-dc-swamp-creatures-gop-donor-retreat-speech-says-top-advisor-1582664?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 115
+    quality: 128
     images:
-      - url: "https://d.newsweek.com/en/full/1777348/symantec-fox-news-lawsuit-giuliana-trump-election.jpg"
+      - url: "https://d.newsweek.com/en/full/1775556/trump-cpac.jpg"
         width: 3000
-        height: 1996
+        height: 2000
         isCached: true
-  - title: "Donald Trump Supporters Protest Pirate Festival Cancellation With 'Trumparilla' Boat Parade"
-    excerpt: "Each year, in Tampa, Florida, hundreds of boaters hit the waves to celebrate the Gasparilla Pirate Festival, which also hosts a land parade. Although the event had been called off this year due to the coronavirus pandemic,"
-    publishedDateTime: 2021-04-19T15:41:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-pirate-festival-trumparilla-boat-parade-1584665"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-pirate-festival-trumparilla-boat-parade-1584665?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-pirate-festival-trumparilla-boat-parade-1584665?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
-    images:
-      - url: "https://d.newsweek.com/en/full/1779836/trump-supports-florida-boat.jpg"
-        width: 1024
-        height: 728
-        isCached: true
-  - title: "Senate Republicans unveil a $568 billion infrastructure package that would keep the Trump tax cuts"
-    excerpt: "The plan would set up user-fees to tax people rather than corporations. Democrats are likely to oppose it since it's a quarter of Biden's proposal."
-    publishedDateTime: 2021-04-22T16:08:00Z
-    webUrl: "https://www.businessinsider.com/senate-republican-infrastructure-plan-breakdown-biden-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/senate-republican-infrastructure-plan-breakdown-biden-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-republican-infrastructure-plan-breakdown-biden-2021-4?amp"
+  - title: "Biden golfed as president for the first time on his 87th day in office. Trump played on his 15th."
+    excerpt: "During his four-year tenure in office, Donald Trump played nearly 300 rounds of golf. Whereas in his eight years as president, Barack Obama played 333."
+    publishedDateTime: 2021-04-18T14:47:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-golfed-on-his-87th-day-in-office-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-golfed-on-his-87th-day-in-office-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-golfed-on-his-87th-day-in-office-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 111
+    quality: 127
     images:
-      - url: "https://i.insider.com/607889014206150018175bc2?width=1200&format=jpeg"
-        width: 1024
-        height: 512
+      - url: "https://i.insider.com/607c2bb744f4540019207525?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Trump didn’t bring White working-class voters to the Republican Party. The data suggest he kept them away."
-    excerpt: "It's time to bust the myth: Most Trump voters were not working class. Knowing whether Donald Trump uniquely appealed to working-class Whites is actually more difficult than you might think, largely because there’s actually no universally-accepted ..."
-    publishedDateTime: 2021-04-14T11:00:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/14/trump-didnt-bring-white-working-class-voters-republican-party-data-suggest-he-kept-them-away/?outputType=amp"
+  - title: "Trump rips McConnell in speech to Republicans"
+    excerpt: "Former President Trump reportedly tore into Senate Minority Leader Mitch McConnell during a gathering Saturday evening, condemning the Kentucky Republican for not doing more to overturn the results of the 2020 election."
+    publishedDateTime: 2021-04-11T11:31:00Z
+    webUrl: "https://thehill.com/homenews/senate/547552-trump-rips-mcconnell-in-speech-to-republicans"
+    ampWebUrl: "https://thehill.com/homenews/senate/547552-trump-rips-mcconnell-in-speech-to-republicans?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/547552-trump-rips-mcconnell-in-speech-to-republicans?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpmcconnell_midterms_051818getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "GOP Senate campaign arm awards Trump as he rails against McConnell"
+    excerpt: "The National Republican Senatorial Committee (NRSC) presented a new award to former President Donald Trump over the weekend as GOP officials and fundraisers descended on Palm Beach, Fla.,"
+    publishedDateTime: 2021-04-12T14:07:00Z
+    webUrl: "https://thehill.com/homenews/campaign/547661-gop-senate-campaign-arm-gives-trump-new-award-as-he-rails-against-mcconnell"
+    ampWebUrl: "https://thehill.com/homenews/campaign/547661-gop-senate-campaign-arm-gives-trump-new-award-as-he-rails-against-mcconnell?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/547661-gop-senate-campaign-arm-gives-trump-new-award-as-he-rails-against-mcconnell?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_110120getty_memo.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Senate Republicans label Biden infrastructure plan a 'slush fund'"
+    excerpt: "Senate Republicans have reportedly sent around a memo calling President Biden Joe Biden Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Biden to meet ..."
+    publishedDateTime: 2021-04-12T13:01:00Z
+    webUrl: "https://thehill.com/homenews/administration/547641-senate-republicans-label-biden-infrastructure-plan-a-slush-fund"
+    ampWebUrl: "https://thehill.com/homenews/administration/547641-senate-republicans-label-biden-infrastructure-plan-a-slush-fund?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/547641-senate-republicans-label-biden-infrastructure-plan-a-slush-fund?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_04092021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden hands toy back to child at service for fallen Capitol officer"
+    excerpt: "President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims for Ramadan The business case for child care reform ..."
+    publishedDateTime: 2021-04-13T15:46:00Z
+    webUrl: "https://thehill.com/homenews/house/547930-biden-hands-toy-back-to-child-at-service-for-fallen-capitol-officer"
+    ampWebUrl: "https://thehill.com/homenews/house/547930-biden-hands-toy-back-to-child-at-service-for-fallen-capitol-officer?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/547930-biden-hands-toy-back-to-child-at-service-for-fallen-capitol-officer?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/evanswilliam_capitol_getty041321.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden to nominate first female Army secretary"
+    excerpt: "President Biden Joe Biden Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Biden to meet Monday with bipartisan lawmakers about infrastructure Jill ..."
+    publishedDateTime: 2021-04-12T20:54:00Z
+    webUrl: "https://thehill.com/policy/defense/547773-biden-to-nominate-first-female-army-secretary"
+    ampWebUrl: "https://thehill.com/policy/defense/547773-biden-to-nominate-first-female-army-secretary?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/547773-biden-to-nominate-first-female-army-secretary?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/wormuthchristine_03032015getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Bipartisan lawmakers signal support for Biden cybersecurity picks"
+    excerpt: "Key lawmakers on Monday expressed support for President Biden Joe Biden Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief bills Biden to meet Monday with ..."
+    publishedDateTime: 2021-04-12T20:02:00Z
+    webUrl: "https://thehill.com/policy/cybersecurity/547756-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks"
+    ampWebUrl: "https://thehill.com/policy/cybersecurity/547756-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/cybersecurity/547756-bipartisan-lawmakers-signal-support-for-biden-cybersecurity-picks?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_110920getty_cyber.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "McConnell sidesteps Trump calling him 'dumb son of a b----'"
+    excerpt: "on Monday sidestepped blistering criticism from former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without ..."
+    publishedDateTime: 2021-04-12T23:40:00Z
+    webUrl: "https://thehill.com/homenews/senate/547820-mcconnell-sidesteps-trump-calling-him-dumb-son-of-a-b"
+    ampWebUrl: "https://thehill.com/homenews/senate/547820-mcconnell-sidesteps-trump-calling-him-dumb-son-of-a-b?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/547820-mcconnell-sidesteps-trump-calling-him-dumb-son-of-a-b?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/mcconnelltrump_borderwall_121317getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump knocks CNN for 'completely false' report Gaetz was denied meeting"
+    excerpt: "Former President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell sidesteps Trump calling him 'dumb son ..."
+    publishedDateTime: 2021-04-13T12:29:00Z
+    webUrl: "https://thehill.com/homenews/media/547850-trump-knocks-dishonest-cnn-report-that-gaetz-was-denied-meeting"
+    ampWebUrl: "https://thehill.com/homenews/media/547850-trump-knocks-dishonest-cnn-report-that-gaetz-was-denied-meeting?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/547850-trump-knocks-dishonest-cnn-report-that-gaetz-was-denied-meeting?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/gaetz_matt_trump_donald041321.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden sparks bipartisan backlash on Afghanistan withdrawal"
+    excerpt: "President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims for Ramadan The business case for child care reform ..."
+    publishedDateTime: 2021-04-13T19:02:00Z
+    webUrl: "https://thehill.com/homenews/senate/548007-biden-sparks-bipartisan-backlash-on-afghanistan-withdrawal"
+    ampWebUrl: "https://thehill.com/homenews/senate/548007-biden-sparks-bipartisan-backlash-on-afghanistan-withdrawal?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548007-biden-sparks-bipartisan-backlash-on-afghanistan-withdrawal?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ustroopsafghanistan_092417getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden to withdraw all US troops from Afghanistan by Sept. 11"
+    excerpt: "President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims for Ramadan The business case for child care reform MOR ..."
+    publishedDateTime: 2021-04-13T20:31:00Z
+    webUrl: "https://thehill.com/policy/defense/547937-biden-to-withdraw-troops-from-afghanistan-but-miss-trump-deadline-report"
+    ampWebUrl: "https://thehill.com/policy/defense/547937-biden-to-withdraw-troops-from-afghanistan-but-miss-trump-deadline-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/547937-biden-to-withdraw-troops-from-afghanistan-but-miss-trump-deadline-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_04122021getty_0.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Black lawmakers press Biden on agenda at White House meeting"
+    excerpt: "The Congressional Black Caucus met with President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims for Ramadan The ..."
+    publishedDateTime: 2021-04-13T22:11:00Z
+    webUrl: "https://thehill.com/homenews/administration/548066-black-lawmakers-press-biden-on-agenda-at-white-house-meeting"
+    ampWebUrl: "https://thehill.com/homenews/administration/548066-black-lawmakers-press-biden-on-agenda-at-white-house-meeting?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/548066-black-lawmakers-press-biden-on-agenda-at-white-house-meeting?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/congressionalblackcaucus_04132021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "McConnell brushes off Trump's 'son of a b---h' comment"
+    excerpt: "on Tuesday told reporters that he wasn’t interested in getting into a food fight with former President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on ..."
+    publishedDateTime: 2021-04-13T19:07:00Z
+    webUrl: "https://thehill.com/homenews/senate/548010-mcconnell-brushes-off-trumps-son-of-a-b-h-comment"
+    ampWebUrl: "https://thehill.com/homenews/senate/548010-mcconnell-brushes-off-trumps-son-of-a-b-h-comment?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548010-mcconnell-brushes-off-trumps-son-of-a-b-h-comment?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/mconnellmitch_41321_gettyimages.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump alumni launch America First Policy Institute"
+    excerpt: "a political group allied with former President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell ..."
+    publishedDateTime: 2021-04-13T18:48:00Z
+    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/547996-trump-alumni-launch-america-first-policy-institute"
+    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/547996-trump-alumni-launch-america-first-policy-institute?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/547996-trump-alumni-launch-america-first-policy-institute?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/rollinsbrooke_41321_americafirstpolicyinstitute.jpg"
+        width: 2392
+        height: 1574
+        isCached: true
+  - title: "Colbert: 'There's no avoiding' Trump, but 'I don't like saying his name'"
+    excerpt: "report Colbert calls out 'idiot' Kennedy for Boulder remarks MORE says he avoids saying former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair ..."
+    publishedDateTime: 2021-04-12T17:04:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/colbertstephen_031619.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Gingrich on Trump-McConnell feud: GOP 'better off' focusing on Democrats"
+    excerpt: "Former House Speaker Newt Gingrich Newton (Newt) Leroy Gingrich MORE dismissed a recent war of words between former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal ..."
+    publishedDateTime: 2021-04-12T18:08:00Z
+    webUrl: "https://thehill.com/homenews/campaign/547722-gingrich-on-trump-mcconnell-feud-gop-better-off-focusing-on-democrats"
+    ampWebUrl: "https://thehill.com/homenews/campaign/547722-gingrich-on-trump-mcconnell-feud-gop-better-off-focusing-on-democrats?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/547722-gingrich-on-trump-mcconnell-feud-gop-better-off-focusing-on-democrats?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/gingrich_trump_mcconnell041221.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "With Afghanistan decision, Biden restores foreign policymaking process that Trump had largely abandoned"
+    excerpt: "The administration held dozens of meetings that included high-level arguments to stay in Afghanistan before Biden settled on a choice he had previewed more than a decade ago."
+    publishedDateTime: 2021-04-18T22:44:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-afghanistan-decision-foreign-policy-process/2021/04/18/e45e3fec-a05d-11eb-a774-7b47ceb36ee8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-afghanistan-decision-foreign-policy-process/2021/04/18/e45e3fec-a05d-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-afghanistan-decision-foreign-policy-process/2021/04/18/e45e3fec-a05d-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 107
+    quality: 124
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MDNNTXEOAEI6XIZ63IUJIHFZVQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YL3YJFFAR4I6XBP4AZTE75CITU.jpg&w=1440"
         width: 1440
-        height: 918
+        height: 960
         isCached: true
-  - title: "Donald Trump: I'm a \"unifier\" for the Republican Party"
-    excerpt: "Donald Trump has dubbed himself a \"unifier\" for the Republican Party after a dominant performance on Super Tuesday. CBS News Chief White House Correspondent Major Garrett has analysis for CBSN."
-    publishedDateTime: 2021-04-14T16:49:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-1/"
+  - title: "McConnell's home state bridge symbol of infrastructure standoff with Biden"
+    excerpt: "Now, though, McConnell is flatly opposed to President Joe Biden's sweeping infrastructure plan that would likely do just that, and it's become a symbol of how even local priorities popular with ..."
+    publishedDateTime: 2021-04-08T19:50:00Z
+    webUrl: "https://abcnews.go.com/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnells-home-state-bridge-symbol-infrastructure-standoff-biden/story?id=76930212"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 123
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/14/e428960c-cfc4-471e-b96b-0a72db98dfef/thumbnail/1200x630/ff1951d27c33bc7fbe60ba1740ee4030/cbsn-gop-trump-0302-496010-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/Politics/brent-spence-bridge-file-gty-jef-210407_1617823616171_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Donald Trump goes after Bill Clinton in response to attack ad"
-    excerpt: "A new attack ad against Donald Trump mashes up a number of his questionable quotes targeting women. In response, Trump tweeted that maybe Bill Clinton should run for president instead of his wife Hillary."
-    publishedDateTime: 2021-04-17T12:17:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-goes-after-bill-clinton-in-response-to-attack-ad-1/"
+  - title: "‘Dumb son of a bitch’: Trump attacks McConnell in Republican donors speech"
+    excerpt: "At Mar-a-Lago, former president also goes after Fauci and Chao … and claims party ‘can’t have these guys that like publicity’ Donald Trump devoted part of a speech to Republican donors on Saturday night to insulting the Senate minority leader ..."
+    publishedDateTime: 2021-04-11T10:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/11/donald-trump-mitch-mcconnell-dumb-son-of-a-bitch-republicans-fauci-chao-mar-a-lago"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/11/donald-trump-mitch-mcconnell-dumb-son-of-a-bitch-republicans-fauci-chao-mar-a-lago"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/11/donald-trump-mitch-mcconnell-dumb-son-of-a-bitch-republicans-fauci-chao-mar-a-lago"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/17/ae74e810-d969-4f9f-99b9-3a4ef41bf4be/thumbnail/1200x630/fcd4fb0d9539667368fa4dc650eb9345/0517-cbsn-wtd-trumpattackswibill-1064583-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://i.guim.co.uk/img/media/f561b65003ec96a6f3bf29a6ae90a67ceb0def63/0_83_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3a3eaeb88a65a663793b4c9801aca369"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Trump gains endorsement of the NRA"
-    excerpt: "America's largest gun rights advocacy group is backing Donald Trump. The NRA offiicially endorsed the presumptive Republican nominee at their annual convention. Donald Trump then delivered a speech where he fired off a few shots at Hillary Clinton."
-    publishedDateTime: 2021-04-17T15:04:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-gains-endorsement-of-the-nra-1/"
+  - title: "Boehner says 'unemployed' Trump 'has nothing else to do' but 'cause trouble'"
+    excerpt: "on Monday said the \"unemployed\" former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief ..."
+    publishedDateTime: 2021-04-12T17:38:00Z
+    webUrl: "https://thehill.com/homenews/news/547712-boehner-says-unemployed-trump-has-nothing-else-to-do-but-cause-trouble"
+    ampWebUrl: "https://thehill.com/homenews/news/547712-boehner-says-unemployed-trump-has-nothing-else-to-do-but-cause-trouble?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/547712-boehner-says-unemployed-trump-has-nothing-else-to-do-but-cause-trouble?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: The Hill
+      domain: thehill.com
+    quality: 122
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/17/cb5d15c5-812c-4091-8fa7-22e568000775/thumbnail/1200x630/debff44a0ccfb1c8355835c4d00530a5/eve-trump-nra-1066566-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://thehill.com/sites/default/files/boehnerjohn_072915gn_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Donald Trump faces backlash over comments about judge"
-    excerpt: "Beast's Betsy Woodruff joins CBSN to discuss the backlash against Donald Trump, who accused a federal judge overseeing the lawsuit regarding Trump University of being unfair based on his Mexican heritage."
-    publishedDateTime: 2021-04-18T06:30:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-faces-backlash-over-comments-about-judge/"
+  - title: "President Biden to withdraw all U.S. troops from Afghanistan by Sept. 11, extending Trump's May 1 deadline"
+    excerpt: "The move will extend military presence in Afghanistan beyond the May 1 withdrawal date previously negotiated by former President Donald Trump. Biden sees \"no military solution\" for the problems in Afghanistan, a senior administration official said."
+    publishedDateTime: 2021-04-13T16:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/13/biden-withdraw-us-troops-afghanistan-sept-11-not-may-1/7205023002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7205023002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7205023002"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/18/dcd664ed-ddac-4240-9f14-82e0330c3f7d/thumbnail/1200x630/21d8318cba3361fb95ab75f817569175/cbsn-trumps-trouble-0616-1073915-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Hillary Clinton calls Donald Trump a \"fraud\""
-    excerpt: "Hillary Clinton called Donald Trump a \"fraud\" for allegedly ripping off students at Trump University. This comes as President Obama jumps into the 2016 presidential race, slamming Trump's proposals as \"crazy."
-    publishedDateTime: 2021-04-18T02:26:00Z
-    webUrl: "https://www.cbsnews.com/video/hillary-clinton-calls-donald-trump-a-fraud-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/18/8a9fcd20-3b61-4e0d-a1f4-2c29ec2255de/thumbnail/1200x630/8e2fac14c92f5dffbdebed282a1d343e/cbsn-0601-clintontrumphhy-1071908-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Fact Check-No evidence Donald Trump said he plays ‘very little golf’"
-    excerpt: "Social media posts attributing a quotation about playing “very little golf” to former U.S. President Donald Trump are false. Reuters did not find any evidence of Trump ever saying this."
-    publishedDateTime: 2021-04-19T16:15:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-trump-golf-idUSL1N2MC1Z4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MC1Z4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MC1Z4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "German carmakers the focus of Trump's ire"
-    excerpt: "Posted . Shares in German carmakers BMW, Daimler and Volkswagen have fallen after United States President-elect Donald Trump"
-    publishedDateTime: 2021-04-19T05:00:00Z
-    webUrl: "https://www.reuters.com/video/watch/id4FJ?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/587d1ffee4b0b24306ef38d2-1484595198557?location=LANDSCAPE"
+      - url: "https://www.gannett-cdn.com/presto/2021/04/13/USAT/0d250ba2-3f8f-44f6-bc77-b144de56e558-AP21046456203732.jpg?auto=webp&crop=2819,1586,x0,y143&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump's campaign chair resigns"
-    excerpt: "Donald Trump's campaign had yet another staffing change on Friday. Paul Manafort, Trump's campaign chair, handed in his resignation. Manafort's exit shakes up an already jittery campaign that is plummeting in the polls."
-    publishedDateTime: 2021-04-21T03:29:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trumps-campaign-chair-resigns-1/"
+  - title: "Mitch McConnell dodged a question about Trump calling him a 'dumb son of a b----'"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Senate Minority Leader Mitch McConnell declined to respond to attacks from former President Donald Trump, who called him a \"dumb son of a b----\" over the weekend. Reporters pressed the Kentucky Republican on ..."
+    publishedDateTime: 2021-04-13T20:25:00Z
+    webUrl: "https://www.businessinsider.com/mcconnell-dodges-trump-calling-him-dumb-son-of-a-b-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/mcconnell-dodges-trump-calling-him-dumb-son-of-a-b-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcconnell-dodges-trump-calling-him-dumb-son-of-a-b-2021-4?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/21/e490e4cf-8f4c-409b-9d9b-9a9c3fef4ff1/thumbnail/1200x630/5c0587cfd0886d7c68da051d69776619/eve-manafort-trump-0819-1109632-640x360.jpg"
+      - url: "https://i.insider.com/6075ef883e3fe7001882a728?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Biden’s southern border challenge: reversing Trumpism"
+    excerpt: "The 46th US president took office promising a more welcoming immigration policy. Now Republicans are calling a new wave of migrants at the southern border a ‘crisis’, but is that really the case?"
+    publishedDateTime: 2021-04-18T19:27:00Z
+    webUrl: "https://www.theguardian.com/australia-news/audio/2021/apr/19/joe-bidens-southern-border-challenge-reversing-trumpism"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/d991b123118a3edd78ba1afee29792b8b0284d66/0_125_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d286a196c46f2da3f9781436a2291867"
         width: 1200
         height: 630
         isCached: true
-  - title: "Ohio Republicans aim to rename state park after Donald Trump"
-    excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake State Park to Donald J."
-    publishedDateTime: 2021-04-21T15:36:00Z
-    webUrl: "https://apnews.com/article/donald-trump-ohio-government-and-politics-ce4c53aff66aabb3c83435dba0c01314"
+  - title: "Trump calls for Biden to reinstate a foreign travel ban to 'keep our country safe from radical Islamic terrorism'"
+    excerpt: "Trump wants his travel ban, which Biden revoked on his first day in office, to be reinstated by the current administration."
+    publishedDateTime: 2021-04-20T05:16:00Z
+    webUrl: "https://www.businessinsider.com/trump-calls-for-biden-to-reinstate-foreign-travel-ban-terrorism-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/trump-calls-for-biden-to-reinstate-foreign-travel-ban-terrorism-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-calls-for-biden-to-reinstate-foreign-travel-ban-terrorism-2021-4?amp"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
     images:
-      - url: "https://storage.googleapis.com/afs-prod/media/4e3a416081f744298ea773bfbd3eb964/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Trump says \"the shackles are off\""
-    excerpt: "In a tweetstorm, Donald Trump criticized Paul Ryan and the Republican Party and claimed \"the shackles are off.\" CBS News Chief White House Correspondent Major Garrett is following the Trump campaign with the latest."
-    publishedDateTime: 2021-04-23T03:13:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-says-the-shackles-are-off-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/23/90f9aee8-4a69-4373-a2e0-db98a68f15b0/thumbnail/1200x630/00a4fc769e58414c28af39574f65af03/1011-cbsn-trumpunshackled-1147591-640x360.jpg"
+      - url: "https://i.insider.com/605df8726746fb0018a73e7a?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Trump says he's optimistic that the GOP will take back Congress in 2022 midterm elections and the White House in 2024"
-    excerpt: "Former President Trump said at the Republican National Committee's donor retreat over the weekend that he's optimistic Republicans will retake Congress in 2022 and reclaim the White House in 2024 and reiterated falsehoods about voter fraud in 2020."
-    publishedDateTime: 2021-04-12T23:49:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-says-hes-optimistic-that-the-gop-will-take-back-congress-in-2022-midterm-elections/"
+  - title: "Mitch McConnell Doesn't Want to Escalate Feud After Trump Called Him 'Stone Cold Loser'"
+    excerpt: "Senate Minority Leader Mitch McConnell of Kentucky chose not to escalate tensions between himself and former President Donald Trump when asked about Trump's recent insults towards him. Trump called McConnell a \"dumb son of a bitch\" and a \"stone-cold loser ..."
+    publishedDateTime: 2021-04-14T03:38:00Z
+    webUrl: "https://www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439"
+    ampWebUrl: "https://www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-doesnt-want-escalate-feud-after-trump-called-him-stone-cold-loser-1583439?amp=1"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 97
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/12/0fafe1a2-52d1-4b8c-bbad-773dd9aad4c2/thumbnail/1200x630/f422c01c755616e5c70b15612ab66af3/cbsn-fusion-former-president-donald-trump-says-hes-optimistic-that-the-republican-party-will-take-back-congress-in-2022-midterm-elections-and-the-white-house-in-2024-thumbnail-690432-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d.newsweek.com/en/full/1777388/mcconnell-trump-loser-comment-response-rnc-speech.jpg"
+        width: 3108
+        height: 2072
         isCached: true
-  - title: "Trump Says Georgia Election Law Is ‘Far Too Weak’"
-    excerpt: "The former president’s message to Republicans is that using election laws to screw over the opposition isn’t just acceptable – it’s mandatory."
-    publishedDateTime: 2021-04-21T00:56:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/04/trump-says-georgia-election-law-is-far-too-weak.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/04/trump-says-georgia-election-law-is-far-too-weak.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/04/trump-says-georgia-election-law-is-far-too-weak.html"
+  - title: "Adam Kinzinger Blasts Trump for Insulting McConnell at GOP Donor Retreat: 'Classy as Always'"
+    excerpt: "Illinois Republican Congressman Adam Kinzinger criticized former President Donald Trump for insulting Senate Minority Leader Mitch McConnell at a GOP retreat over the weekend. \"Classy as always. I remember when my fellow Republicans would have condemned ..."
+    publishedDateTime: 2021-04-11T14:10:00Z
+    webUrl: "https://www.newsweek.com/adam-kinzinger-blasts-trump-insulting-mcconnell-gop-donor-retreat-classy-always-1582705"
+    ampWebUrl: "https://www.newsweek.com/adam-kinzinger-blasts-trump-insulting-mcconnell-gop-donor-retreat-classy-always-1582705?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adam-kinzinger-blasts-trump-insulting-mcconnell-gop-donor-retreat-classy-always-1582705?amp=1"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1775595/adam-kinzinger.jpg"
+        width: 2500
+        height: 1799
+        isCached: true
+  - title: "GOP Gov. Asa Hutchinson Deplores Trump Attacks on McConnell: 'Let's Get Back to Our Principles'"
+    excerpt: "While appearing on CNN's State of the Union, Hutchinson was asked about Trump's speech in which he reportedly called McConnell a \"dumb son of a bitch\" and a \"stone cold loser\" while speaking to Republican National Committee (RNC) gathering at his Mar-a ..."
+    publishedDateTime: 2021-04-11T15:39:00Z
+    webUrl: "https://www.newsweek.com/gop-gov-asa-hutchinson-deplores-trump-attacks-mcconnell-lets-get-back-our-principles-1582724"
+    ampWebUrl: "https://www.newsweek.com/gop-gov-asa-hutchinson-deplores-trump-attacks-mcconnell-lets-get-back-our-principles-1582724?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-gov-asa-hutchinson-deplores-trump-attacks-mcconnell-lets-get-back-our-principles-1582724?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
+    images:
+      - url: "https://d.newsweek.com/en/full/1775605/asa-hutchinson.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
+  - title: "Senate Republicans gave a brand new award to Trump the same weekend he called Mitch McConnell a 'dumb son of a b----h'"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% The Senate Republicans' campaign arm announced on Monday that it had presented former President Donald Trump with a new award over the weekend. Trump spent part of the same weekend attacking the top Republican in ..."
+    publishedDateTime: 2021-04-12T16:58:00Z
+    webUrl: "https://www.businessinsider.com/senate-republicans-trump-award-mcconnell-insult-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/senate-republicans-trump-award-mcconnell-insult-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-republicans-trump-award-mcconnell-insult-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/60746bd23e3fe7001882a1d6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump spent several minutes insulting 'dumb son of a b---h' Mitch McConnell during a rambling speech to GOP donors at Mar-a-Lago, say reports"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump derided Senate Minority Leader Mitch McConnell during a 50-minute speech at his Mar-a-Lago resort, Politico reported. Trump referred to McConnell as a \"dumb son of a b---h,\" three ..."
+    publishedDateTime: 2021-04-11T09:04:00Z
+    webUrl: "https://www.businessinsider.com/mar-a-lago-trump-insults-dumb-son-bh-mitch-mcconnell-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/mar-a-lago-trump-insults-dumb-son-bh-mitch-mcconnell-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mar-a-lago-trump-insults-dumb-son-bh-mitch-mcconnell-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 90
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/653/417/69698d5d9cda3fce4bd2251e096f119f23-trump-hannity.1x.rsocial.w1200.jpg"
+      - url: "https://i.insider.com/6072b6f0a451820019b3a71a?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Ohio Republicans aim to rename state park after Donald Trump"
-    excerpt: "A GOP-backed bill introduced Monday would change the name of an Ohio state park to honor former President Donald Trump. The bill primarily sponsored by freshman state Rep. Mike Loychik to rename Mosquito Lake “This legislation is meant to honor the commitment and dedication that our 45th President of the United States,"
-    publishedDateTime: 2021-04-21T20:54:00Z
-    webUrl: "https://www.chron.com/news/article/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Ohio-Republicans-aim-to-rename-state-park-after-16115103.php"
+  - title: "Donald Trump blasts Biden's Sept. 11 withdrawal deadline in Afghanistan"
+    excerpt: "Former President Donald Trump said Sunday that President Biden should withdraw troops from Afghanistan before September and not use the sacred date of Sept. 11 as the deadline."
+    publishedDateTime: 2021-04-18T23:44:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/apr/18/donald-trump-blasts-biden-sept-11-afghanistan-with/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/18/donald-trump-blasts-biden-sept-11-afghanistan-with/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/18/donald-trump-blasts-biden-sept-11-afghanistan-with/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/12/4_122021_beltway-trump-conse8202_c0-104-2500-1562_s1200x700.jpg?2d5ddaaeb405183379a395b29cf0e643d3db558f"
+        width: 1200
+        height: 700
         isCached: true
-  - title: "Potential jurors quizzed about feelings on Donald Trump in first Capitol-related trial"
-    excerpt: "Juror after juror raised their hand to say they had some thoughts about the Trump administration — and they weren’t positive."
-    publishedDateTime: 2021-04-20T15:56:00Z
-    webUrl: "https://www.nydailynews.com/new-york/ny-donald-trump-potential-jurors-brendan-hunt-trial-brooklyn-federal-court-20210420-uu2zwozqzvdfzg7ttvdnxxvvwq-story.html"
-    ampWebUrl: "https://www.nydailynews.com/new-york/ny-donald-trump-potential-jurors-brendan-hunt-trial-brooklyn-federal-court-20210420-uu2zwozqzvdfzg7ttvdnxxvvwq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/ny-donald-trump-potential-jurors-brendan-hunt-trial-brooklyn-federal-court-20210420-uu2zwozqzvdfzg7ttvdnxxvvwq-story.html?outputType=amp"
+  - title: "Trump blasts McConnell as ‘dumb son of a b---h’: report"
+    excerpt: "Former President Donald Trump called Senate Minority Leader Mitch McConnell a “dumb son of a b---h” in front of Republican donors gathered at Trump’s Florida resort on Saturday night, according to Politico. The vulgar comment came in response to the ..."
+    publishedDateTime: 2021-04-11T15:27:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-donald-trump-mitch-mcconnell-insult-mar-a-lago-20210411-yim7xp7ftzbuvdcivaqzhmksha-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-donald-trump-mitch-mcconnell-insult-mar-a-lago-20210411-yim7xp7ftzbuvdcivaqzhmksha-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-donald-trump-mitch-mcconnell-insult-mar-a-lago-20210411-yim7xp7ftzbuvdcivaqzhmksha-story.html?outputType=amp"
     type: article
     provider:
       name: New York Daily News
       domain: nydailynews.com
-    quality: 67
+    quality: 75
     images:
-      - url: "https://www.nydailynews.com/resizer/thv70YWnM_eo0AYGd6KJThFR_zk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JE4YEY4NUVHUPBE3YYBCXWCQ7Q.jpg"
+      - url: "https://www.nydailynews.com/resizer/E7UE7f5xsHRVKrkom1-nCuO7GnU=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YKFGTYK6BJGDBJP7VBHYYWF3UU.JPG"
         width: 1200
-        height: 900
+        height: 744
         isCached: true
-  - title: "George W. Bush Condemns the Trump-Era Republican Party"
-    excerpt: "Bush Condemns Trump’s GOP Former President George W. Bush derided his Republican Party on Tuesday for what he said it has become in the era of Donald Trump and misinformation, describing the GOP as \"isolationist, protectionist and, to a certain extent ..."
-    publishedDateTime: 2021-04-20T17:47:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-20/george-w-bush-condemns-the-trump-era-republican-party"
+  - title: "The Hill's Morning Report - Presented by Tax March - Biden, lawmakers start down a road with infrastructure"
+    excerpt: "In the Oval Office on Monday, Republican lawmakers told President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims ..."
+    publishedDateTime: 2021-04-13T10:34:00Z
+    webUrl: "https://thehill.com/homenews/morning-report/547844-the-hills-morning-report"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: The Hill
+      domain: thehill.com
+    quality: 67
 
 secured: "NA/rrIgZTxs208jc+fTNqSEGPyNWG+Wx4KKVeVQufboOyYBbYHTa59EgoVDMFxwUUb994DyixH5ccj8db0yXxAY/QyZ2Gc8YcIHu6053lS3vpDwbU6z7ARo59FUhW9bdfmnvRF9duGNyMqY2FDfcgOEuCFe2SMLEpfp70wAz1In/PKmoHeWuCBEKaUdvRMrhylGx1yC8u6Rzyu17aV/xfipKU0OBpXpJfz8j3OTiDi70ZXztJfNdb9bDuV3uoDWSn7Z5vx0DVwD1jNPFeqZir3PA/HxYKn64Y9Gy67wgXXm95iVFx2jj1Be+quhCT9zLTcV7E26HehPCJTNAFqvSw07XIsrCPvUhiwh3bM4vkyzbNFmrIx0CmkjEf/laT+Fw/nBQcdFOM15j/wUP+hoZ8j67956j6aIQS6V6jZdw80f4SyPFNJPl8XloRno3XqpTcD8OuBULVAaN5bNWMm1kNNWIPMaF/94j4nEvrQ8jXZrrlqvfcynOPnYHZobMqf/UjMzlugEmpFhT5G3NLpNDyg==;KW+I1a8eAcmZjjV7Vgz8tA=="
 ---

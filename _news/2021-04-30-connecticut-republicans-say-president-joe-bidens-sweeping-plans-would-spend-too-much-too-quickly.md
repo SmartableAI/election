@@ -27,131 +27,115 @@ images:
     isCached: true
 
 related:
-  - title: "AOC Praises Activists, Says 'Keep Going' After Joe Biden Speech"
-    excerpt: "The Democratic congresswoman Alexandria Ocasio-Cortez praised progressive activists on Wednesday night after President Joe Biden put forth his record and future plans in a speech to a joint session of Congress."
-    publishedDateTime: 2021-04-29T13:35:00Z
-    webUrl: "https://www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414"
-    ampWebUrl: "https://www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1784908/rep-alexandria-ocasio-cortez.jpg"
-        width: 1024
-        height: 707
-        isCached: true
-  - title: "Key piece of Biden's $1.8T families plan expires after 2025"
-    excerpt: "President Joe Biden couldn’t get everything he wanted into his own $1.8 trillion families plan. His proposed child tax credit is set to expire after 2025. It would provide parents with $300 a month for each child under age 6 and $250 a month for older children."
-    publishedDateTime: 2021-04-30T09:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/key-piece-of-bidens-18t-families-plan-expires-after-2025/2021/04/30/f691cb3c-a96a-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/key-piece-of-bidens-18t-families-plan-expires-after-2025/2021/04/30/f691cb3c-a96a-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/key-piece-of-bidens-18t-families-plan-expires-after-2025/2021/04/30/f691cb3c-a96a-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AYB6RTFJNEI6XKFHL5C53TPTMQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Joe Biden raises refugee admissions cap after outcry"
-    excerpt: "President Joe Biden has lifted the US annual refugee cap, bowing to outrage from his party after he initially opted to stick by the Trump-era figure. The Democratic president is raising the cap from 15,"
-    publishedDateTime: 2021-05-03T20:44:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
-    ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/123E1/production/_118312747_mediaitem118312746.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Representative Sara Jacobs: President Biden's address \"gave us reasons\" to feel hopeful"
-    excerpt: "Congresswoman Sarah Jacobs, a Democrat from California, says President Joe Biden's address to a joint session of Congress on Wednesday gave Americans many reasons to feel \"hopeful.\" She joins CBSN's Tanya Rivero for a closer look at Mr."
-    publishedDateTime: 2021-04-29T19:14:00Z
-    webUrl: "https://www.cbsnews.com/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 117
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/29/41bc8ffb-b4cb-4c73-b658-89f738eac29c/thumbnail/1200x630/fa07439f6dbcd1f0e70a210a7ba2d4f5/cbsn-fusion-rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful-thumbnail-704368-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "'White supremacy is terrorism': Biden condemns terrorism in address"
-    excerpt: "President Joe Biden addressed gun violence and white supremacy in his speech to Congress. Associated Press Associated Press, USA TODAY"
-    publishedDateTime: 2021-04-29T13:23:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2021/04/29/president-biden-told-congress-white-supremacy-terrorism-during-speech/4886343001/"
+  - title: "President Biden nominates Texas Sheriff Ed Gonzalez to head ICE"
+    excerpt: "President Joe Biden has announced Sheriff Ed Gonzalez of Harris County, Texas, as his nominee for director of Immigration and Customs Enforcement. He was included on a list of 11 nominations for key national security positions."
+    publishedDateTime: 2021-04-28T17:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/27/biden-names-harris-county-sheriff-ed-gonzalez-head-ice/4864492001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4864492001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4864492001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 105
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/29/USAT/0bbcefca-2b66-4bb1-b574-9a1034977d49-VPC_BIDEN_ON_WHITE_SUPREMACY_DESK.00_01_06_07.Still003.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.gannett-cdn.com/-mm-/81d9cce7b7d1a0276ff2f5a1f631b49764f09684/c=0-229-3061-1958/local/-/media/2017/01/31/USATODAY/USATODAY/636214873441033287-USP-NFL-SUPER-BOWL-LI-SECURITY-PRESS-CONFERENCE-88450154.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
         isCached: true
-  - title: "Obama Official Steve Rattner Says Biden Could Set Progressivism Back Decades if Massive Government Expansion Fails"
-    excerpt: "Rattner's comments come on the morning after President Joe Biden delivered his first address to a joint session of Congress."
-    publishedDateTime: 2021-04-29T15:16:00Z
-    webUrl: "https://www.newsweek.com/obama-official-steve-rattner-says-biden-could-set-progressivism-back-decades-if-massive-government-1587474"
-    ampWebUrl: "https://www.newsweek.com/obama-official-steve-rattner-says-biden-could-set-progressivism-back-decades-if-massive-government-1587474?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/obama-official-steve-rattner-says-biden-could-set-progressivism-back-decades-if-massive-government-1587474?amp=1"
+  - title: "Biden touts achievements at Georgia rally as he marks 100 days as president – live"
+    excerpt: "End detention now’ – follow live"
+    publishedDateTime: 2021-04-29T22:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest?page=with:block-608b0e4e8f0874ac77453fda"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 103
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
     images:
-      - url: "https://d.newsweek.com/en/full/1785004/biden.jpg"
-        width: 2984
-        height: 1764
+      - url: "https://i.guim.co.uk/img/media/a5f0d64f9bd702c44ba50d404f7d894f6e39cc64/0_222_4862_2917/master/4862.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=787b2730ae0133e578be8022776ba688"
+        width: 600
+        height: 360
         isCached: true
-  - title: "More perilous phase ahead for President Joe Biden after his 1st 100 days"
-    excerpt: "The president is racing against the calendar, governing with the most slender of majorities on Capitol Hill while knowing that historically the party that holds the White House loses seats in midterm elections,"
-    publishedDateTime: 2021-05-01T16:07:00Z
-    webUrl: "https://www.oregonlive.com/nation/2021/05/more-perilous-phase-ahead-for-president-joe-biden-after-his-1st-100-days.html"
-    ampWebUrl: "https://www.oregonlive.com/nation/2021/05/more-perilous-phase-ahead-for-president-joe-biden-after-his-1st-100-days.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2021/05/more-perilous-phase-ahead-for-president-joe-biden-after-his-1st-100-days.html?outputType=amp"
+  - title: "Biden touts achievements at Georgia rally as he marks 100 days as president – as it happened"
+    excerpt: "End detention now’ – follow live"
+    publishedDateTime: 2021-04-29T23:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest?page=with:block-608b14378f08300738403647"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
     type: article
     provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 74
+      name: The Guardian
+      domain: theguardian.com
+    quality: 114
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BDVBLSTFLJDWTA5W2HANOGQFOQ.jpeg"
+      - url: "https://i.guim.co.uk/img/media/a5f0d64f9bd702c44ba50d404f7d894f6e39cc64/0_222_4862_2917/master/4862.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=787b2730ae0133e578be8022776ba688"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "'Life changing': President Biden asked for favorite national park memories, and they were heartwarming"
+    excerpt: "National park-goers shared some of those memories and moments on Twitter this week in honor of National Park Week, which runs through Sunday and is celebrated by the National Park Foundation each April."
+    publishedDateTime: 2021-04-24T12:00:00Z
+    webUrl: "https://www.usatoday.com/story/travel/experience/america/national-parks/2021/04/24/national-park-week-twitter-memories-joe-biden-yellowstone-zion/7335754002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7335754002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7335754002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/f8689cd4e3fa52e9a025d26db599d5f77cd587a1/c=0-296-5168-3203/local/-/media/2021/02/25/USATODAY/usatsports/GettyImages-669737652.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President Joe Biden to tour S&WB's Carrollton Plant this week, according to White House"
+    excerpt: "President Joe Biden has argued his wide-ranging, $2.3 trillion infrastructure plan is a solution to decades of underinvestment in roads, pipes and other major projects throughout the country."
+    publishedDateTime: 2021-05-03T21:49:00Z
+    webUrl: "https://www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.html"
+    ampWebUrl: "https://www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 67
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/9/0c/90cab378-25c5-11eb-b2be-476e690edf48/5df57e8ab9e25.image.jpg?resize=1024%2C676"
         width: 1024
-        height: 683
+        height: 676
         isCached: true
-  - title: "President Joe Biden’s first 100 days: 53% approve of job performance, two-thirds approve of COVID efforts, new poll says"
-    excerpt: "A majority of Americans approve of President Joe Biden ’s first 100 days on the job, with two-thirds supporting his handling of the COVID-19 pandemic, according to a new CNN poll. The poll results come as Biden prepares to deliver an address to Congress on Wednesday night,"
-    publishedDateTime: 2021-04-28T12:57:00Z
-    webUrl: "https://www.masslive.com/politics/2021/04/president-joe-bidens-first-100-days-53-approve-of-job-performance-two-thirds-approve-of-covid-efforts-new-poll-says.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/04/president-joe-bidens-first-100-days-53-approve-of-job-performance-two-thirds-approve-of-covid-efforts-new-poll-says.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/04/president-joe-bidens-first-100-days-53-approve-of-job-performance-two-thirds-approve-of-covid-efforts-new-poll-says.html?outputType=amp"
+  - title: "After President Joe Biden’s first 100 days, two-thirds of Americans believe US headed in right direction"
+    excerpt: "A new poll shows almost two-thirds of Americans believe the country is headed in the right direction after President Joe Biden ’s first 100 days in office. The newest ABC News/Ipsos shows 64% are optimistic a few days after Biden reached the early milestone and just as the nationwide COVID-19 vaccination effort has significantly reduced deaths,"
+    publishedDateTime: 2021-05-02T15:24:00Z
+    webUrl: "https://www.masslive.com/politics/2021/05/after-president-joe-bidens-first-100-days-two-thirds-of-americans-believe-us-headed-in-right-direction.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/05/after-president-joe-bidens-first-100-days-two-thirds-of-americans-believe-us-headed-in-right-direction.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/after-president-joe-bidens-first-100-days-two-thirds-of-americans-believe-us-headed-in-right-direction.html?outputType=amp"
     type: article
     provider:
       name: MassLive
       domain: masslive.com
-    quality: 50
+    quality: 58
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YJJVFBD2MVH4BDLMQSSAMIRKZM.jpg"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AA7RDVDVBRHTVHZZIYNBYVBHAQ.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "No, John Velazquez didn’t call Joe Biden a horse’s ass"
+    excerpt: "Says Kentucky Derby jockey John Velazquez turned down an invitation to the White House and said, “if I wanted to see a horse’s ass I would of came in second.” John Velazquez didn’t say this and he hasn’t been invited to the White House,"
+    publishedDateTime: 2021-05-03T17:49:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/may/03/facebook-posts/no-john-velazquez-didnt-call-joe-biden-horses-ass/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/tom_ruling_pof.png"
+        width: 667
+        height: 596
         isCached: true
 
 secured: "ffz01+q8R8tC79dTbGYqiUpWQ3BLPEnhdcxYszL3UIGTW1Vl+JTGQ8kyGZa+j0ViygCI7UfExGRVw1Q95M7Y8fimrApHx3RPfCur6hyS7UV2lgzxTxOuLmQTc9qbu2AGS36WJswQJc/gz2k+zPxC6ALakf2W2/Sz2YyzOk6mIyErOVBZCK9N9jRhvTi10y6v1HrQF9ZexQvvCraXxNgYizKhFYsnoLJk5avlSa1Q9ggAdZvmAla5vW2/DVdjN1RBw/2psUhV7ALQn4BdiQyUsHk9xe1/I+E4/Vh8hOLEsa7TF9yt4bUSG76Fs6n/hodGtnkMqnU8WT3eTBHjIGtyRcZnxX/dXyXegeDCMWC3KcE=;NiXvsy12EU9MFqJOuWd+pQ=="

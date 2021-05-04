@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Boehner: Trump's claims of stolen election a 'sad moment in American history'"
-    excerpt: "said that former President Donald Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell sidesteps Trump ..."
-    publishedDateTime: 2021-04-13T13:54:00Z
-    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in"
-    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 137
-    images:
-      - url: "https://thehill.com/sites/default/files/boehnerjohn_032614gn_boehner.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump endorses Alabama’s Mo Brooks for Senate, a promoter of his false claims of a stolen election"
-    excerpt: "Trump’s early endorsement is a major boost to Brooks, who has operated on the rightmost edge of the Republican Party during his time in the House."
-    publishedDateTime: 2021-04-07T23:18:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 126
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UVYMERCV74I6XKJRLMLC2DIDHU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "On the House review: John Boehner’s lament for pre-Trump Republicans"
     excerpt: "Boehner offers no pushback. Boehner expresses contempt for Senator Ted Cruz and Mark Meadows, a former North Carolina congressman who became Donald Trump’s final chief of staff. As for Flyin’ Ted, Boehner is unsparing: “There is nothing more ..."
     publishedDateTime: 2021-04-10T04:00:00Z
@@ -79,83 +47,83 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "McConnell brushes off Trump's 'son of a b---h' comment"
-    excerpt: "on Tuesday told reporters that he wasn’t interested in getting into a food fight with former President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on ..."
-    publishedDateTime: 2021-04-13T19:07:00Z
-    webUrl: "https://thehill.com/homenews/senate/548010-mcconnell-brushes-off-trumps-son-of-a-b-h-comment"
-    ampWebUrl: "https://thehill.com/homenews/senate/548010-mcconnell-brushes-off-trumps-son-of-a-b-h-comment?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548010-mcconnell-brushes-off-trumps-son-of-a-b-h-comment?amp"
+  - title: "Zeus of Twitter or mouse of Mar-a-Lago? Republicans court Trump in Florida"
+    excerpt: "Donald Trump was scheduled to speak on Saturday at a Republican National Committee event held at his Mar-a-Lago resort, amid a weekend of summits and dinners in the former president’s corner of Florida. The Republican rush to court Trump – and to pay ..."
+    publishedDateTime: 2021-04-10T14:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/10/zeus-of-twitter-or-mouse-of-mar-a-lago-republicans-trump--florida"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/10/zeus-of-twitter-or-mouse-of-mar-a-lago-republicans-trump--florida"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/10/zeus-of-twitter-or-mouse-of-mar-a-lago-republicans-trump--florida"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
     images:
-      - url: "https://thehill.com/sites/default/files/mconnellmitch_41321_gettyimages.jpg"
-        width: 980
-        height: 551
+      - url: "https://i.guim.co.uk/img/media/bdb78118b4ab8163719f4c193ae98a167d3bf9c9/0_340_4500_2701/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ea6d65fd64ab15a53a9512aea1fe6b36"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Trump alumni launch America First Policy Institute"
-    excerpt: "a political group allied with former President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell ..."
-    publishedDateTime: 2021-04-13T18:48:00Z
-    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/547996-trump-alumni-launch-america-first-policy-institute"
-    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/547996-trump-alumni-launch-america-first-policy-institute?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/547996-trump-alumni-launch-america-first-policy-institute?amp"
+  - title: "Exclusive: John Boehner says Donald Trump 'abused' his loyalists by lying to them"
+    excerpt: "And the election of the even more disruptive Donald Trump as president. Boehner's new book, being published Tuesday by St. Martin's Press, is titled \"On the House: A Washington Memoir.\" But it is unlike the classic Washington memoir, those soft-focus ..."
+    publishedDateTime: 2021-04-11T14:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/11/john-boehner-says-trump-abused-his-loyalists-lying-them/7074030002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7074030002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7074030002"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
     images:
-      - url: "https://thehill.com/sites/default/files/rollinsbrooke_41321_americafirstpolicyinstitute.jpg"
-        width: 2392
-        height: 1574
+      - url: "https://www.gannett-cdn.com/presto/2021/04/09/USAT/bd333c30-2b30-4e72-8ea0-d705680ef3ae-XXX_20210405_Boehner_JK001.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "John Boehner says Trump incited Capitol attack via 'bullshit he'd been shoveling since he lost a fair election'"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former Republican House Speaker John Boehner in his new book blamed former President Donald Trump for the deadly Capitol insurrection on January 6, per an excerpt obtained by The New York Times, stating that ..."
-    publishedDateTime: 2021-04-07T14:18:00Z
-    webUrl: "https://www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4?amp"
+  - title: "'Gutfeld!' review: Fox News talk show lives in glass house when critiquing Trump-obsessed media"
+    excerpt: "So it was LOL funny when host Greg Gutfeld turned to critique \"post-Trump stress\" with the night's marquee guest: Trump’s son, Eric. And that was one night after former Trump press secretary Kayleigh McEnany, the new co-host of Fox’s “Outnumbered ..."
+    publishedDateTime: 2021-04-13T14:12:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2021/04/13/fox-news-channels-gutfeld-falls-short-comedic-talk-show/7156579002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7156579002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7156579002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/02/USAT/69b6da78-fbfe-4727-b241-b66bb1756b4f-Gutfeld_New_Set.jpg?auto=webp&crop=5615,3159,x0,y285&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "John Boehner calls Trump 'a guy who's unemployed' and 'has nothing else to do but cause trouble'"
+    excerpt: "An envelope. It indicates the ability to send an email. Former GOP House Speaker John Boehner of Ohio on Monday blasted former President Donald Trump as an \"unemployed\" individual who is out to \"cause trouble\" after losing his reelection bid last year."
+    publishedDateTime: 2021-04-12T20:33:00Z
+    webUrl: "https://www.businessinsider.com/boehner-calls-trump-unemployed-republican-party-direction-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/boehner-calls-trump-unemployed-republican-party-direction-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boehner-calls-trump-unemployed-republican-party-direction-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 120
+    quality: 112
     images:
-      - url: "https://i.insider.com/606dbe1a30004b0019b26624?width=1200&format=jpeg"
+      - url: "https://i.insider.com/6074ab763e3fe7001882a34c?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Corporate America isn’t welcoming former Trump Cabinet officials with open arms, headhunters say"
-    excerpt: "said top executives wary of backlash from associating with former Trump officials are boiling down Chao’s four-decade Washington résumé to its most recent entry: long-standing ally of Donald Trump, despite her resignation the day after the Jan. 6 ..."
-    publishedDateTime: 2021-04-07T10:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/57NN3ZD46QI6XM6RTZNKHVJCBQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Nikki Haley backs Trump for 2024 run after previously saying he would be 'judged harshly by history'"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Nikki Haley, one of the Republicans tipped for a future GOP presidential run, said she wouldn't run in 2024 if former President Donald Trump decides to, after previously saying he would be \"judged harshly by ..."
-    publishedDateTime: 2021-04-13T12:26:00Z
-    webUrl: "https://www.businessinsider.com/nikki-haley-backs-trump-2024-after-condemning-capitol-riot-response-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/nikki-haley-backs-trump-2024-after-condemning-capitol-riot-response-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nikki-haley-backs-trump-2024-after-condemning-capitol-riot-response-2021-4?amp"
+  - title: "Gaetz and Trump rep challenge report that the Florida congressman was denied a meeting with the former president"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% GOP Congressman Matt Gaetz, who is facing federal sex trafficking allegations, was reportedly denied a meeting with Donald Trump as aides try to distance the former president from him, CNN reported. Two anonymous ..."
+    publishedDateTime: 2021-04-12T02:15:00Z
+    webUrl: "https://www.businessinsider.com/gaetz-challenges-report-that-he-was-denied-meeting-with-trump-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/gaetz-challenges-report-that-he-was-denied-meeting-with-trump-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gaetz-challenges-report-that-he-was-denied-meeting-with-trump-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 110
+    quality: 104
     images:
-      - url: "https://i.insider.com/60758daf3e3fe7001882a4a1?width=1200&format=jpeg"
+      - url: "https://i.insider.com/607018a44d3e410018b702ab?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

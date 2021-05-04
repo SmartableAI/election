@@ -29,52 +29,113 @@ images:
     isCached: true
 
 related:
-  - title: "‘Truth will prevail’: Matt Gaetz takes break from scandal to speak at Trump club"
-    excerpt: "Women for America First helped stage a rally near the White House on 6 January where Donald Trump told supporters to fight to overturn his election defeat. A crowd attacked and breached the US Capitol. Five people died, including a police officer."
-    publishedDateTime: 2021-04-10T11:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first"
+  - title: "Trump endorses Alabama’s Mo Brooks for Senate, a promoter of his false claims of a stolen election"
+    excerpt: "Trump’s early endorsement is a major boost to Brooks, who has operated on the rightmost edge of the Republican Party during his time in the House."
+    publishedDateTime: 2021-04-07T23:18:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html?outputType=amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 126
     images:
-      - url: "https://i.guim.co.uk/img/media/da0361692602303bd56482725aff0035c926bd36/0_88_5166_3100/master/5166.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6086a62db396c12b20bdfa14f23aabbf"
-        width: 600
-        height: 360
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UVYMERCV74I6XKJRLMLC2DIDHU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump advised to turn his back on his right-wing protégé Matt Gaetz who faces a sex trafficking investigation"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump's advisors have strongly urged him not to publicly defend GOP Rep. Matt Gaetz who is currently facing a sex crimes investigation, the Daily Beast reported Friday. Trump has ..."
-    publishedDateTime: 2021-04-03T10:16:00Z
-    webUrl: "https://www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4?amp"
+  - title: "Donald Trump Endorses Marco Rubio, Says He'll Never Let Country Down"
+    excerpt: "Former President Donald Trump has endorsed Senator Marco Rubio (R-FL) in a post on the messaging service Telegram on Friday morning. \"It is my honor to give U.S. Senator Marco Rubio my Complete and Total Endorsement,\" Trump wrote. \"Marco has been a ..."
+    publishedDateTime: 2021-04-09T13:04:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/60681af2a7d803001963e9f8?width=1200&format=jpeg"
-        width: 1024
-        height: 512
+      - url: "https://d.newsweek.com/en/full/1774461/trump-marco-rubio-other-senators.jpg"
+        width: 3000
+        height: 2000
         isCached: true
-  - title: "Matt Gaetz is employing Trump-style fundraising pitches — including automatic recurring contributions that could dupe donors"
-    excerpt: "An envelope. It indicates the ability to send an email. Embattled Rep. Matt Gaetz on Thursday asked his supporters for a little cash, Donald Trump style. Gaetz's re-election campaign committee is employing a controversial fundraising strategy similar to ..."
-    publishedDateTime: 2021-04-09T20:21:00Z
-    webUrl: "https://www.businessinsider.com/matt-gaetz-trump-fundraising-federal-investigation-2021-04"
+  - title: "Anti-Trump Republican Michael Wood Endorsed for House Seat by Texas' Biggest Newspaper"
+    excerpt: "Michael Wood, an anti–Donald Trump Republican who is running in a special election in Texas, was just endorsed by the state's biggest newspaper. The Dallas Morning News Monday recommended Wood to represent the 6th Congressional District. The endorsement ..."
+    publishedDateTime: 2021-04-05T16:06:00Z
+    webUrl: "https://www.newsweek.com/anti-trump-republican-michael-wood-endorsed-house-seat-texas-biggest-newspaper-1581026"
+    ampWebUrl: "https://www.newsweek.com/anti-trump-republican-michael-wood-endorsed-house-seat-texas-biggest-newspaper-1581026?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/anti-trump-republican-michael-wood-endorsed-house-seat-texas-biggest-newspaper-1581026?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
     images:
-      - url: "https://i.insider.com/6070b3144943790018bb1bbb?width=1200&format=jpeg"
-        width: 1024
-        height: 512
+      - url: "https://d.newsweek.com/en/full/1771634/michael-wood-texas-congressional-candidate.jpg"
+        width: 309
+        height: 292
         isCached: true
+  - title: "Mo Brooks ‘has clear sailing,’ Trump says of Alabama Senate race"
+    excerpt: "Former President Donald Trump lauded Alabama Congressman Mo Brooks on Monday, predicting an easy victory for the Republican in the state’s U.S. Senate race next year. The comments come on the heels of Trump formally endorsing Brooks in the Senate race."
+    publishedDateTime: 2021-04-20T16:09:00Z
+    webUrl: "https://www.al.com/news/2021/04/mo-brooks-has-clear-sailing-trump-says-of-alabama-senate-race.html"
+    ampWebUrl: "https://www.al.com/news/2021/04/mo-brooks-has-clear-sailing-trump-says-of-alabama-senate-race.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/mo-brooks-has-clear-sailing-trump-says-of-alabama-senate-race.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FGOVM6KJIRF43KGTGYCUEYHIWY.jpg"
+        width: 3366
+        height: 2326
+        isCached: true
+  - title: "Trump says Mo Brooks ‘has done a spectacular job … He’s a strong guy, a tough guy’"
+    excerpt: "Former President Donald Trump on Tuesday all but endorsed Alabama Congressman Mo Brooks in his bid to win a U.S. Senate seat next year. Appearing on the Newsmax program “American Agenda,” Trump heaped praise on Brooks when host Heather Childers brought ..."
+    publishedDateTime: 2021-04-07T11:01:00Z
+    webUrl: "https://www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html"
+    ampWebUrl: "https://www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBYBGAJFHRF7BMFXXOBPEV26OU.jpg"
+        width: 4032
+        height: 3024
+        isCached: true
+  - title: "Trump backs Rep. Mo Brooks in Alabama Senate race, who cheered Capitol rioters for ‘kicking ass’"
+    excerpt: "Former President Donald Trump is throwing his support behind Rep. Mo Brooks in next year’s Alabama Senate race, a staunch supporter who cheered the Jan. 6 crowd at the Capitol for “taking down names and kicking ass."
+    publishedDateTime: 2021-04-07T14:29:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 62
+    images:
+      - url: "https://www.nydailynews.com/resizer/dnPImsXwM3lyMNeIzGI2SPoFcG8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H6KA7POU45DLBDWXB2NPXLDGAA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump Endorses Mo Brooks Among Alabama GOP Senate Contenders"
+    excerpt: "Former President Donald Trump has endorsed Rep. Mo Brooks in Alabama’s 2022 Senate race, siding with the conservative firebrand who riled up the crowd before the Capitol riot over other contenders in the state’s all-important Republican primary."
+    publishedDateTime: 2021-04-07T15:18:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-07/trump-endorses-mo-brooks-among-alabama-gop-senate-contenders"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-07/trump-endorses-mo-brooks-among-alabama-gop-senate-contenders?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-07/trump-endorses-mo-brooks-among-alabama-gop-senate-contenders?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "2DFeZ8fzZ4WutkbyKZJ7qqUEJMbXDZAUyOWl79Qq3SeJW2uLVy6zbIJuhTagAXoqWa2iwqDlchVIccHSNvsc+tpTMJwcsGMsyX7eEVRM18iLuwhcI+XcSXtj4xCBNjmnn3pGNc13EK+n+Phdw31l8mO8GDUTwuSbC1Xoo9SPKheI9ZTpVEUEhI9IE+7QGLpuYSCjWoVamyhvIXGVmZyrzXtywdGeSKPtJEqFKeR9M51aIIbj4pKb3EsiM202YFtHQE1SYZz8vlPF5EJePiC1onTe1PDw8bWKJZsob6P0SP8/MNN61yibfrci98ByQsDm4KDPhWH7Nai3qVdh/JWFqVtDdcDGiyucTiiBELYwVQg=;7TkE65iG/UygxRMB3Vhy3w=="
 ---

@@ -31,84 +31,145 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden's Slip Saying 'AFT' Rather Than 'ATF' Goes Viral"
-    excerpt: "President Joe Biden's verbal stumble over the abbreviation for the Bureau of Alcohol, Tobacco, Firearms and Explosives was seized on by his right-wing opponents and shared widely online on Thursday as he moved to install a gun control advocate as head of ..."
-    publishedDateTime: 2021-04-09T09:54:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-aft-atf-david-chipman-viral-1582252?amp=1"
+  - title: "Biden raises concerns with Putin about Ukraine confrontation"
+    excerpt: "President Joe Biden is calling on Russian President Vladimir Putin to “de-escalate tensions” following a Russian military buildup on Ukraine’s border"
+    publishedDateTime: 2021-04-13T21:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-raises-concerns-putin-ukraine-confrontation-77045832"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-raises-concerns-putin-ukraine-confrontation-77045832"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-raises-concerns-putin-ukraine-confrontation-77045832"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1774295/president-joe-biden.jpg"
-        width: 1024
-        height: 706
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0608176cbab24c1d890713852a371c99_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "What David Chipman, Joe Biden's ATF Nominee, Allegedly Said About Waco"
-    excerpt: "President Joe Biden's nominee to lead the Bureau of Alcohol, Tobacco and Firearms (ATF) may have falsely claimed that cult members at Waco shot down helicopters. Newsweek has contacted the White House for comment on this article. Newsweek has attempted to ..."
-    publishedDateTime: 2021-04-09T12:12:00Z
-    webUrl: "https://www.newsweek.com/what-david-chipman-joe-bidens-atf-nominee-allegedly-said-about-waco-1582231"
-    ampWebUrl: "https://www.newsweek.com/what-david-chipman-joe-bidens-atf-nominee-allegedly-said-about-waco-1582231?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-david-chipman-joe-bidens-atf-nominee-allegedly-said-about-waco-1582231?amp=1"
+  - title: "Biden says everyone in US now eligible for Covid vaccine – live updates"
+    excerpt: "Guardian US has a separate live blog dedicated to covering the Chauvin trial and related topics. There’s a livestream from court. You can read that here. The Republican leader in the House and an extremist congresswoman who champions “Anglo-Saxon political traditions” have demanded action against the Democrat Maxine Waters,"
+    publishedDateTime: 2021-04-19T16:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1774249/former-atf-special-agent-david-chipman.jpg"
-        width: 3000
-        height: 1982
+      - url: "https://i.guim.co.uk/img/media/39b2485b49a592b23c6ce07725257b5bc4c20a33/0_73_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9c280154f4a7d72583a1a96daad3fe97"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Blinken visits Afghanistan in show of support after Biden announces withdrawal"
-    excerpt: "U.S. Secretary of State Antony Blinken made an unannounced visit to Kabul on Thursday to show support for the Afghan government and civil society a day after President Joe Biden said he was pulling out American forces after nearly 20 years of war."
-    publishedDateTime: 2021-04-15T19:03:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-afghanistan-blinken-idAFKBN2C21HU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2C21HU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2C21HU"
+  - title: "Hitting latest vaccine milestone, Biden pushes shots for all"
+    excerpt: "The U.S. is set to meet President Joe Biden’s latest vaccine goal of administering 200 million COVID-19 shots in his first 100 days in office, as the White House steps up its efforts to inoculate the"
+    publishedDateTime: 2021-04-21T04:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/hitting-latest-vaccine-milestone-biden-pushes-shots-77207433"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/hitting-latest-vaccine-milestone-biden-pushes-shots-77207433"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/hitting-latest-vaccine-milestone-biden-pushes-shots-77207433"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_10f5eb8396324790b5ed12cde8427289_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden to hold second meeting with bipartisan lawmakers on infrastructure"
+    excerpt: "President Biden is scheduled to meet Monday with a bipartisan group of lawmakers, all of whom are former governors or mayors, to discuss his $2.25 trillion infrastructure proposal."
+    publishedDateTime: 2021-04-19T02:17:00Z
+    webUrl: "https://thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure"
+    ampWebUrl: "https://thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548927-biden-to-meet-with-bipartisan-group-of-lawmakers-to-discuss-infrastructure?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe3_04152021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden, meeting with lawmakers, says willing to compromise on infrastructure"
+    excerpt: "U.S. President Joe Biden said he was willing to compromise on his $2.3 trillion infrastructure proposal on Monday before meeting with a group of bipartisan lawmakers at the White House."
+    publishedDateTime: 2021-04-19T16:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-infrastructure-biden-idUSW1N2LM01I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C62E6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C62E6"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 121
+    quality: 123
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210415&t=2&i=1558579629&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3E0R5"
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210419&t=2&i=1559104436&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3I1B0"
         width: 817
         height: 545
         isCached: true
-  - title: "Biden: US shootings 'a national embarrassment'"
-    excerpt: "President Joe Biden is calling for action as the nation struggles with yet another mass shooting. While gun control appears to have taken a back seat, Biden on Friday insisted that wasn’t the case, saying “I’ve never not prioritized this."
-    publishedDateTime: 2021-04-17T01:04:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/17/biden-us-shootings-national-embarrassment/7263347002/"
+  - title: "Manchin's firm stance on filibuster, reconciliation threatens ambitious Biden agenda"
+    excerpt: "Without his backing, Biden may have to trim, abandon some legislative efforts. 'We're gonna find a really good strong deal space' on infrastructure: Buttigieg Moderate Democrat Joe Manchin ..."
+    publishedDateTime: 2021-04-08T22:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/manchins-firm-stance-filibuster-reconciliation-threatens-ambitious-biden/story?id=76953755"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/manchins-firm-stance-filibuster-reconciliation-threatens-ambitious-biden/story?id=76953755"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/manchins-firm-stance-filibuster-reconciliation-threatens-ambitious-biden/story?id=76953755"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4883882c-0e98-48ba-939c-48d309dfff89_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://s.abcnews.com/images/Politics/joe-manchin-filibuster-01-gty-llr-210407_1617911131382_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Republicans turn to the socialism playbook on Biden's infrastructure bill, labeling anything other than roads and bridges as 'Soviet'"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Republican lawmakers are responding to President Joe Biden's $2 trillion infrastructure bill with a litany of misleading and even false statements. The GOP's longstanding strategy of attaching the socialism label ..."
-    publishedDateTime: 2021-04-14T18:22:00Z
-    webUrl: "https://www.businessinsider.com/biden-infrastructure-plan-republican-response-socialism-soviet-style-scalise-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/biden-infrastructure-plan-republican-response-socialism-soviet-style-scalise-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-infrastructure-plan-republican-response-socialism-soviet-style-scalise-2021-4?amp"
+  - title: "Joe Biden, Vladmir Putin Summit Doesn't Signal New Friendliness with Russia, White House Says"
+    excerpt: "U.S. President Joe Biden and Russian President Vladmir Putin have agreed to take their icy relationship to the next level in the coming months—a face-to-face meeting in a third country. But the White House insists it's not a signal that the two are on ..."
+    publishedDateTime: 2021-04-13T18:15:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-vladmir-putin-summit-doesnt-signal-new-friendliness-russia-white-house-says-1583363?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 94
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
     images:
-      - url: "https://i.insider.com/6077151f74da0300181e1a4c?width=1200&format=jpeg"
+      - url: "https://d.newsweek.com/en/full/1777226/putin-biden.jpg"
+        width: 3477
+        height: 1775
+        isCached: true
+  - title: "Joe Biden attends grandson's confirmation in Wilmington"
+    excerpt: "President Joe Biden and First Lady Jill Biden on Sunday attended the confirmation of their 15-year-old grandson Robert Hunter Biden II in Wilmington. The service took place around 2 p.m. at St. Joseph on the Brandywine,"
+    publishedDateTime: 2021-04-19T13:26:00Z
+    webUrl: "https://www.delawareonline.com/story/news/2021/04/19/joe-biden-attends-grandsons-confirmation-while-home-delaware/7282335002/"
+    ampWebUrl: "https://amp.delawareonline.com/amp/7282335002"
+    cdnAmpWebUrl: "https://amp-delawareonline-com.cdn.ampproject.org/c/s/amp.delawareonline.com/amp/7282335002"
+    type: article
+    provider:
+      name: Delaware Online
+      domain: delawareonline.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/19/PWIL/436f944c-3093-45cc-b50b-ea1e31ec09d5-AP21107724024083.jpg?auto=webp&crop=5447,3064,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
+  - title: "Joe Biden Proposes Summit With Russia’s Vladimir Putin"
+    excerpt: "Biden and Putin have now spoken twice by phone since Biden took office in late January. But the proposed meeting, which Biden suggested should happen in a \"third country,\" would be the first between them as tensions escalate between the two countries. The ..."
+    publishedDateTime: 2021-04-13T17:48:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-13/joe-biden-proposes-summit-with-russias-vladimir-putin"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-13/joe-biden-proposes-summit-with-russias-vladimir-putin?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-13/joe-biden-proposes-summit-with-russias-vladimir-putin?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "i19S6CZ8jEeTmpGiBeL5di5dYLjLF5JpoJMFzM3Yw7o2HnA7KN+3SL9NP2DoBvzcI5hihFWuPhN7PnWLeWz3j6++oMrPdVF3aF3XcnHpfNwIxR9X/R+YbZUwx7I7NrhnRyNdeTdA+bV6pk/zMk9dXNg/Ov7jOu5pZa7vbhzEhCOT4g5l6XZEIC9XSZfk8A3RLgEUyiHtgIeNbZQ5T7YznOZ96VJbfhzPWq3mAxxwq9M2ylFSiPeSTwcqc+scZwKl1W74AyxZs5oKNae2NgaXdtionKk++JuaVbvWLOCBq5SzjpbpyyJIVwJm6cPkZTG5rNP3VwDMKshJw/herrdK2BzSMXiDzHRugz5bvJ/VdyeeafCN/GLvCo7sQGtFKRQYp2xJy3UokZeU2/3nstf+z9wS1/+gHRC+0SGbUhknJOWmPZO/0tpd5EvS7sxQEE28q3nFqhQI0NdJeZuMcBfPkEi5bGDH/hA2gR4lGIqrfh4m68HsjJU2K8VurGFk5vGdw4SuQNxL1C/nci7ly/8ZBw==;NG7DJsdQLxAz72Y4yDbbpg=="
 ---

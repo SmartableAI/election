@@ -47,6 +47,102 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "First Thing: Biden announces sweeping gun reform orders"
+    excerpt: "Plus, more than 3,600 US healthcare workers died in the first year of the Covid pandemic Joe Biden speaking in the State Dining Room of the White House after the killing of 10 people in a Colorado supermarket in late March. Photograph: Getty Images Last ..."
+    publishedDateTime: 2021-04-08T09:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/08/first-thing-biden-announces-sweeping-gun-reform-orders"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/08/first-thing-biden-announces-sweeping-gun-reform-orders"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/08/first-thing-biden-announces-sweeping-gun-reform-orders"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/52577f63b6920f5b4b643b2159c2d9e2b93ec6fc/0_260_4000_2401/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dc0ce429f90291119ff6f21174f3fcde"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "U.S. Senate readying legislation on semiconductors, Biden says"
+    excerpt: "WASHINGTON (Reuters) -U.S. Senate leaders are preparing to introduce legislation on semiconductors, President Joe Biden said on Wednesday as the nation wrestles with an ongoing shortage of the critical technology used in a range of devices from cars to ..."
+    publishedDateTime: 2021-04-07T20:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-chips-shortage-congress-idUSKBN2BU32M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU32M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU32M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210407&t=2&i=1557642265&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH361P3"
+        width: 795
+        height: 545
+        isCached: true
+  - title: "Biden budget seeks more for schools, health care and housing"
+    excerpt: "President Joe Biden is releasing a $1.5 trillion wish list for the federal budget WASHINGTON -- President Joe Biden released a $1.5 trillion wish list for the federal budget on Friday, asking for ..."
+    publishedDateTime: 2021-04-09T16:16:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-budget-seeks-schools-health-care-housing-76975681"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-budget-seeks-schools-health-care-housing-76975681"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-budget-seeks-schools-health-care-housing-76975681"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_5790d3727f5f41abb783420774691c3e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden requests large boost in domestic spending"
+    excerpt: "President Biden, saying the U.S. for years has “significantly underinvested in core public services,” will ask Congress for a 16% boost in spending on a range of domestic programs, the White House announced Friday. The first installment of Biden’s ..."
+    publishedDateTime: 2021-04-09T15:18:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-04-09/biden-budget-request-congress-boosts-domestic-spending"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-04-09/biden-budget-request-congress-boosts-domestic-spending?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-04-09/biden-budget-request-congress-boosts-domestic-spending?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/831aabd/2147483647/strip/true/crop/3000x1959+0+182/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4d%2F11%2F6a277690459db334a823fac08cbd%2Fvirus-outbreak-california-vaccine-19539.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Biden assigns study on delicate issue of Supreme Court"
+    excerpt: "WASHINGTON — President Joe Biden on Friday ordered a study of adding seats to the Supreme Court, creating a bipartisan commission that will spend the next six months examining the politically incendiary issues of expanding the court and instituting term ..."
+    publishedDateTime: 2021-04-09T17:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-assigns-study-on-delicate-issue-of-supreme-court/2021/04/09/b8546e60-9957-11eb-8f0a-3384cf4fb399_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-assigns-study-on-delicate-issue-of-supreme-court/2021/04/09/b8546e60-9957-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-assigns-study-on-delicate-issue-of-supreme-court/2021/04/09/b8546e60-9957-11eb-8f0a-3384cf4fb399_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Major training: Biden dog gets help adjusting to White House"
+    excerpt: "The White House says President Joe Biden and first lady Jill Biden's dog Major will get professional help adjusting to his new home after a pair of biting incidents"
+    publishedDateTime: 2021-04-12T15:17:00Z
+    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/major-training-biden-dog-adjusting-white-house-77020844"
+    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/major-training-biden-dog-adjusting-white-house-77020844"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/major-training-biden-dog-adjusting-white-house-77020844"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_985375203bdb4cbd87e4a4c5f7165a0d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Fixing the credit Catch-22: How Biden wants to make credit scores fairer"
     excerpt: "Reforming credit scores is one of U.S. President Joe Biden’s many priorities as he tries to repair the financial wreckage caused by the coronavirus pandemic, which disproportionately harmed minorities, women and low-income workers, according to ..."
     publishedDateTime: 2021-04-08T10:13:00Z
@@ -94,6 +190,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210412&t=2&i=1558182888&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3B1AR"
         width: 783
         height: 545
+        isCached: true
+  - title: "Biden family dog Major to get 'off-site, private training' after two biting incidents"
+    excerpt: "He added that Major, a 3-year-old German Shepherd the Bidens adopted in 2018, is \"still adjusting to his new surroundings\" in Washington, D.C. Major and the Bidens other dog Champ moved in to the White House a few days after Joe Biden's inauguration ..."
+    publishedDateTime: 2021-04-12T12:59:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/04/12/bidens-dog-major-get-more-training-following-biting-incidents/7186140002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7186140002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7186140002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/09/USAT/67801030-2b22-4776-9e35-1ebd4add9290-VPC_WHITE_HOUSE_DOGS_GO_BACK_TO_DELAWARE_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden's Coming Executive Orders to Include Requiring Background Checks for 'Ghost Guns'"
     excerpt: "President Joe Biden is expected to include a federal directive mandating background checks for individuals purchasing \"ghost guns\" this week, alongside a wider series of executive orders addressing U.S. gun violence, the Associated Press reported on Wednesday."
@@ -267,15 +379,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "The Hill's Morning Report - Presented by Tax March - Biden, lawmakers start down a road with infrastructure"
-    excerpt: "In the Oval Office on Monday, Republican lawmakers told President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims ..."
-    publishedDateTime: 2021-04-13T10:34:00Z
-    webUrl: "https://thehill.com/homenews/morning-report/547844-the-hills-morning-report"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 67
   - title: "President Joe Biden calls for probe into Minnesota police shooting, warns against 'looting'"
     excerpt: "A video Biden described as \"fairly graphic\" showed the man, Daunte Wright, being shot on Sunday in Brooklyn Center, Minn., just miles away from where the trial of Derek Chauvin, the former white Minneapolis police officer charged with murdering George Floyd,"
     publishedDateTime: 2021-04-12T20:48:00Z

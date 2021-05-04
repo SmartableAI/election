@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/white-house-first-lady-jill-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/white-house-first-lady-jill-biden-to-undergo-procedure/2021/04/13/fdae29cc-9cbf-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 185
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Health/WireAP_cf94eb95800d45ec8d4372a953fbf1f1_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Jill Biden plants tree as White House readies for family cat"
-    excerpt: "Biden said that the family's cat would be coming to the White House “pretty soon.” The first lady told NBC News in an inte"
-    publishedDateTime: 2021-04-30T16:47:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-plants-tree-white-house-readies-family-77421307"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-plants-tree-white-house-readies-family-77421307"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-plants-tree-white-house-readies-family-77421307"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c2d1f4e0adfa4a7c853bbfa8b397e8b0_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

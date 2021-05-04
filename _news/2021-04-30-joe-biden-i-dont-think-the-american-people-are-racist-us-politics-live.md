@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden holds car rally in Georgia to mark 100 days in office"
+    excerpt: "President Biden spoke at a drive-in rally in Georgia on Thursday evening to mark his 100th day in office. The rally comes the day after the president outlined his ambitious legislative agenda in his first address before a joint session of Congress."
+    publishedDateTime: 2021-04-29T23:41:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-speech-georgia-100-days-live-stream-today-2021-04-29/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-speech-georgia-100-days-live-stream-today-2021-04-29/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-speech-georgia-100-days-live-stream-today-2021-04-29/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/29/e77dfacb-1c2e-411a-8a81-ed9aacdb4e54/thumbnail/1200x630/a470eebbe7ee0d7d920f5c6092255a08/gettyimages-1232598415.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'Amtrak Joe' Biden pushes infrastructure in Philadelphia"
     excerpt: "President Joe Biden visited an Amtrak train station on Friday to promote his $1.9 trillion infrastructure proposal, saying the United States is \"way behind\" in improving its transportation grid and needs to do so to keep up with China."
     publishedDateTime: 2021-04-30T22:50:00Z
@@ -111,19 +127,37 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Pence gives first public remarks since leaving office as Biden marks 100 days in office"
-    excerpt: "Former Vice President Mike Pence on Thursday spoke in South Carolina, his first public remarks since leaving office. Speaking as President Biden marks his first 100 days in office, Pence slammed Mr. Biden's policies."
-    publishedDateTime: 2021-04-30T01:26:00Z
-    webUrl: "https://www.cbsnews.com/video/mike-pence-first-public-remarks-2021-04-28/"
+  - title: "GOP senators unveil $568 billion counteroffer to Biden's infrastructure plan"
+    excerpt: "Republican senators unveiled their counteroffer to President Biden's infrastructure proposal on Thursday, presenting a $568 billion framework that is significantly smaller than the president's $2 trillion plan."
+    publishedDateTime: 2021-04-23T17:18:00Z
+    webUrl: "https://www.cbsnews.com/news/republican-senators-infrastructure-counteroffer/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/republican-senators-infrastructure-counteroffer/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/republican-senators-infrastructure-counteroffer/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 112
+    quality: 122
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/9451bbda-308d-421f-86ca-ae896a838578/thumbnail/1200x630/6e4116a81676ae1ed279c898558c4423/cbsn-fusion-mike-pence-first-public-remarks-2021-04-28-thumbnail-704738-640x360.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/22/363cae7d-cfc6-49bc-97d0-790fdb8711af/thumbnail/1200x630g2/b8e871c9faf3025e98261d67ca7e7b22/gettyimages-1231516589.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Early news coverage of Joe Biden's administration has been more policy than character-driven, study shows"
+    excerpt: "Media stories on the early days of the Biden administration focused more on policy than personality, a study released found."
+    publishedDateTime: 2021-04-29T10:09:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2021/04/29/biden-news-coverage-more-policy-than-character-driven-pew-study/4885845001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4885845001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4885845001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/29/USAT/ea9635a6-2841-463b-9659-583a04798d84-AP_Biden_100_Days_Congress.jpg?auto=webp&crop=1680,945,x564,y686&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "'Amtrak Joe' Biden pushes infrastructure in Philly"
     excerpt: "Top News 'Amtrak Joe' Biden pushes infrastructure in Philly. Posted . President Joe Biden visited an Amtrak train station on Friday to promote his $1.9 trillion infrastructure pro"
@@ -153,6 +187,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "CBS News poll: Viewers approve of President Biden's speech amid spending, police reform proposals"
+    excerpt: "A new CBS News poll found the majority of people who watched President Joe Biden's first address to a joint session of Congress approved of the address. The speech comes as the president is proposing two large spending plans and urging police reform."
+    publishedDateTime: 2021-04-29T14:09:00Z
+    webUrl: "https://www.cbsnews.com/video/cbs-news-poll-majority-of-viewers-approve-of-pres-bidens-speech/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 92
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/bb31cd84-aa4c-41fb-9c4e-bc8460028321/thumbnail/1200x630/3e09e679992e1d12eaea21282188663c/cbsn-fusion-cbs-news-poll-majority-of-viewers-approve-of-pres-bidens-speech-thumbnail-704012-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden’s first 100 insurrection-free days: ‘America is on the move’"
     excerpt: "Joe Biden’s first 100 days in office have been a cool breeze. No sociopathic tweets, no gaslighting, no drama. Biden speaks in civil, humble tones and treats even his political opponents with respect."
     publishedDateTime: 2021-04-30T12:47:00Z
@@ -168,6 +216,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DXAMSUS6H5GYPGGFB7R2DCK5C4.jpg"
         width: 1400
         height: 1047
+        isCached: true
+  - title: "President Joe Biden’s first 100 days: 53% approve of job performance, two-thirds approve of COVID efforts, new poll says"
+    excerpt: "A majority of Americans approve of President Joe Biden ’s first 100 days on the job, with two-thirds supporting his handling of the COVID-19 pandemic, according to a new CNN poll. The poll results come as Biden prepares to deliver an address to Congress on Wednesday night,"
+    publishedDateTime: 2021-04-28T12:57:00Z
+    webUrl: "https://www.masslive.com/politics/2021/04/president-joe-bidens-first-100-days-53-approve-of-job-performance-two-thirds-approve-of-covid-efforts-new-poll-says.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/04/president-joe-bidens-first-100-days-53-approve-of-job-performance-two-thirds-approve-of-covid-efforts-new-poll-says.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/04/president-joe-bidens-first-100-days-53-approve-of-job-performance-two-thirds-approve-of-covid-efforts-new-poll-says.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 50
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YJJVFBD2MVH4BDLMQSSAMIRKZM.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "MxpUw0pY538fhKZfMzf6Pc6HqKsNz4vvkS/2aVLvZTa4htVcdV5hs7dQAtfr50WZRl92M8wVM/e9iVchO4noUVRhZwRgmPWsukG3knkCw8y7d41yC494GYzoBt33LoKFRuoCz0HJarpGDeMsS3mBLWVCwYVrvfO5aHcVdX2XPlThNAAo63ExogVaP7xKT0qCJlKNcgxyLid2ahXbQzGwS6Yc/uNxBsWV8gpMwumCwoNCKtaRKCeOQu6Rkc8U/vQuyWsfFkvmLlDV7Vd2E5y6UEytlBJXoltSi/0GramOKtY7sJ6+eLmpyGI+kVfPduU/fzKz5wyn+4bbF96xAPwX/nQo/i4X5uEhN6Zscs4L/pc=;ovUjm6VE9ZmC94tjQdxu1w=="

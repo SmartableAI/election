@@ -47,19 +47,37 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Gaetz, under investigation for sex allegations, sought blanket pardon from Trump: Sources"
-    excerpt: "Congressman under investigation, claims extortion plot During the final weeks of President Donald Trump's administration, Republican Rep. Matt Gaetz asked the White House for a blanket ..."
-    publishedDateTime: 2021-04-07T01:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/gaetz-investigation-sex-allegations-sought-blanket-pardon-trump/story?id=76911923"
+  - title: "Donald Trump Calls CNN Report of Refusing Meeting With Matt Gaetz 'Completely False'"
+    excerpt: "Former President Donald Trump has said that a CNN news report claiming that he had refused to meet with Republican Florida Representative Matt Gaetz was \"completely false.\" \"Fake News CNN, relying on all anonymous sources, meaning they probably made the ..."
+    publishedDateTime: 2021-04-13T02:02:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-calls-cnn-report-refusing-meeting-matt-gaetz-completely-false-1583083"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-calls-cnn-report-refusing-meeting-matt-gaetz-completely-false-1583083?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-cnn-report-refusing-meeting-matt-gaetz-completely-false-1583083?amp=1"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 96
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
     images:
-      - url: "https://s.abcnews.com/images/Politics/matt-gaetz-donald-trump-01-ap-llr-210402_1617390326131_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://d.newsweek.com/en/full/1776700/donald-trump-cnn-gaetz-meeting-fake-news.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Video shows Trump meeting the man at the center of the Matt Gaetz sex trafficking allegations"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Video footage from 2019 has surfaced of former President Donald Trump and his wife Melania being greeted at a Florida airport by the man at the center of the sex trafficking allegations involving GOP Rep."
+    publishedDateTime: 2021-04-09T11:10:00Z
+    webUrl: "https://www.businessinsider.com/video-donald-trump-meeting-jason-pirozzolo-matt-gaetz-sex-trafficking-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/video-donald-trump-meeting-jason-pirozzolo-matt-gaetz-sex-trafficking-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-donald-trump-meeting-jason-pirozzolo-matt-gaetz-sex-trafficking-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fabd1b5f7d1cb0019e3b0b6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Matt Gaetz is employing Trump-style fundraising pitches — including automatic recurring contributions that could dupe donors"
     excerpt: "An envelope. It indicates the ability to send an email. Embattled Rep. Matt Gaetz on Thursday asked his supporters for a little cash, Donald Trump style. Gaetz's re-election campaign committee is employing a controversial fundraising strategy similar to ..."
@@ -74,6 +92,22 @@ related:
       - url: "https://i.insider.com/6070b3144943790018bb1bbb?width=1200&format=jpeg"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Matt Gaetz Update: Republican Congressman Wanted Pardon From Trump, Didn't Get It"
+    excerpt: "The New York Times on Wednesday reported that weeks before the end of Donald Trump's presidential term, Rep. Matt Gaetz, R-Fla., privately requested a blanket preemptive pardon, exacerbating recent allegations against Gaetz for sexual misconduct with a 17 ..."
+    publishedDateTime: 2021-04-07T19:35:00Z
+    webUrl: "https://www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534"
+    ampWebUrl: "https://www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/24/matt-gaetz-a-us-congressman-from-florida-addressed.jpg"
+        width: 1024
+        height: 534
         isCached: true
 
 secured: "XTcrLioYAJi8gFO9/D9Oa4pEFCNv7ZLxriUimHveeEPx280jx2m+KxZGtTC3gqtaOEyXb5vCfJGZ79rMn0sh0EzH/ihgbT6YGQZBRvnR/SS5edbWYDDe2+ZSaQAA7rrAl9iHDwxfZPUIiNhV8xXX8DUAeqKRWvs9Dm1U6yHD4VKgorppeEYfFz1Fbh8Ki8GuWB5He/Z6+kMRayC6eA53c+nCJ7s8jBifFosWO6YsQGXRzmdSO66Qke8SvwsuLVX6Ifa+oTHSjqFyAtzAxi4FBohmbC5TZ/rUdszE8Uo5uIybgUffPRgDizFxTuVQa22B3OCy4gHWAdb+HQNl/9O/FpYhA4QyI8RjmNTu+JPNUY2dsI6+PHUS06XIkoLQsx0+315p80Q2BL1htS08w61RfoBsVQpy9FloCz7CbFsAh3KfcMhTXZoIOolXK8nRzNc4enhPgRNk2ydU6g5bTrhpZ0zl2X6w1/L8oEGsj23r5kf5AnEe8oFIi0oHyqBQRDf8DbyKTu1BW4k5uQ+pkNAyZg==;xGiUj1bOk7qA0qnFPVoMQA=="

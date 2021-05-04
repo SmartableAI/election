@@ -47,6 +47,102 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden faces calls on pledge to recognize Armenian genocide"
+    excerpt: "President Joe Biden is facing calls to recognize the Armenian genocide of more than a century ago, something that he pledged to do as a candidate but that could further complicate an already tense rel"
+    publishedDateTime: 2021-04-21T20:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-faces-calls-on-pledge-to-recognize-armenian-genocide/2021/04/21/ace4e940-a2e6-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-faces-calls-on-pledge-to-recognize-armenian-genocide/2021/04/21/ace4e940-a2e6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-faces-calls-on-pledge-to-recognize-armenian-genocide/2021/04/21/ace4e940-a2e6-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JPGKHHVCZ4I6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "House Dems to unveil drug pricing measure ahead of Biden package"
+    excerpt: "House Democrats are preparing to reintroduce major legislation to lower drug prices ahead of President Biden's unveiling of his American Families Plan, which could include the proposals."
+    publishedDateTime: 2021-04-21T21:04:00Z
+    webUrl: "https://thehill.com/policy/healthcare/549580-house-dems-to-unveil-drug-pricing-measure-ahead-of-biden-package"
+    ampWebUrl: "https://thehill.com/policy/healthcare/549580-house-dems-to-unveil-drug-pricing-measure-ahead-of-biden-package?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/549580-house-dems-to-unveil-drug-pricing-measure-ahead-of-biden-package?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/pelosinancy_041321gn2_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "NRA launches $2 million campaign to oppose Biden gun-control agenda"
+    excerpt: "Tell Joe Manchin to reject President Biden’s extreme gun-control agenda,” the ads say, targeted to each state’s senators. As pictures of Biden, House Speaker Nancy Pelosi"
+    publishedDateTime: 2021-04-21T22:47:00Z
+    webUrl: "https://www.washingtonpost.com/politics/nra-launches-2-million-campaign-to-oppose-biden-gun-control-agenda/2021/04/21/362b2a80-a2eb-11eb-a774-7b47ceb36ee8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/nra-launches-2-million-campaign-to-oppose-biden-gun-control-agenda/2021/04/21/362b2a80-a2eb-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/nra-launches-2-million-campaign-to-oppose-biden-gun-control-agenda/2021/04/21/362b2a80-a2eb-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DQP73BVC7MI6XJ3UPND45M3O5A.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
+  - title: "Biden seeks to slash carbon emissions in half by 2030"
+    excerpt: "President Biden on Thursday announced a new goal on greenhouse gas emissions -- calling on the U.S., by 2030, to slash emissions by 50-52%."
+    publishedDateTime: 2021-04-22T18:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-seeks-slash-carbon-emissions-half-2030/story?id=77228372"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-seeks-slash-carbon-emissions-half-2030/story?id=77228372"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-seeks-slash-carbon-emissions-half-2030/story?id=77228372"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-ap-ml-210422_1619094447977_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "US President Joe Biden to 'propose hiking tax on rich'"
+    excerpt: "US President Joe Biden is reportedly set to propose a tax hike on the wealthiest Americans. The proposal would raise the top marginal rate and increase taxes on investment gains for the rich. The tax rise would help pay for childcare and education,"
+    publishedDateTime: 2021-04-23T03:24:00Z
+    webUrl: "https://www.bbc.com/news/business-56855301"
+    ampWebUrl: "https://www.bbc.com/news/business-56855301.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-56855301.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9F8E/production/_118164804_56855301.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Biden's first address to Congress is invite-only"
+    excerpt: "Only invited members of Congress will be allowed to attend President Biden's address to a Joint Session of Congress on Wednesday, and the event \"will be invitation-only for a limited number of members of Congress,"
+    publishedDateTime: 2021-04-24T11:07:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-speech-joint-session-congress-invite-only/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-speech-joint-session-congress-invite-only/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-speech-joint-session-congress-invite-only/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/23/ab8ef0e0-16b8-48e8-b2fe-3232ed54766b/thumbnail/1200x630/24c3ca048ad637f5d5327bc25562f187/gettyimages-1232457998.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Live Updates: President Biden addresses a joint session of Congress"
     excerpt: "President Biden will give his first address before a joint session of Congress on Wednesday, shortly before he will conclude his first 100 days in office. Mr. Biden is expected to outline his American Families Plan,"
     publishedDateTime: 2021-04-28T23:05:00Z
@@ -62,6 +158,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/28/3753a8ea-1a92-4a42-b872-94de9daa6dde/thumbnail/1200x630/5ee41c6fe91cd14e0a60fe24dca73e0b/gettyimages-1314888185.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Why Are Flags at Half-Staff Today? President Joe Biden's Order Explained"
+    excerpt: "President Joe Biden issued a national half-staff proclamation to honor the memory of those killed in FedEx shooting. The president issued the proclamation on Frid"
+    publishedDateTime: 2021-04-18T11:58:00Z
+    webUrl: "https://www.newsweek.com/why-are-flags-half-staff-today-president-joe-biden-order-1584480"
+    ampWebUrl: "https://www.newsweek.com/why-are-flags-half-staff-today-president-joe-biden-order-1584480?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/why-are-flags-half-staff-today-president-joe-biden-order-1584480?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1779506/flag-was-lowered-half-staff.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Power companies urge Biden to implement policies to cut emissions 80% by 2030"
     excerpt: "A group of U.S. electricity companies wrote to President Joe Biden this week saying it will work with his administration and Congress to design a broad set of policies to reach a near-term goal of slashing the sector's carbon emissions by 2030."
@@ -79,6 +191,38 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden to push trillions in investment, plead for police reform in Congress speech"
+    excerpt: "U.S. President Joe Biden plans to unveil a sweeping $1.8 trillion package for families and education in his first joint speech to Congress on Wednesday, as he stresses the need to invest to compete with China,"
+    publishedDateTime: 2021-04-28T13:01:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idUSKBN2CF116"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CF116"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CF116"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210428&t=2&i=1560198883&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3R0GV"
+        width: 794
+        height: 545
+        isCached: true
+  - title: "Democrats urge Biden to stop using local police to enforce federal immigration law"
+    excerpt: "The lawmakers say the use of local law enforcement has undermined public safety by making immigrants afraid to report crimes."
+    publishedDateTime: 2021-04-22T22:06:00Z
+    webUrl: "https://www.businessinsider.com/democrats-urge-biden-stop-using-local-police-enforce-immigration-law-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/democrats-urge-biden-stop-using-local-police-enforce-immigration-law-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-urge-biden-stop-using-local-police-enforce-immigration-law-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/6081dbc04becb800190f6a35?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "President Biden urges businesses to use paid leave to help workers get COVID-19 vaccines"
     excerpt: "President Joe Biden urged businesses to help workers get vaccinated while announcing he met early the goal of 200 million shots in 100 days."
     publishedDateTime: 2021-04-21T20:26:00Z
@@ -95,20 +239,45 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden urges passage of police overhaul measure"
-    excerpt: "President Joe Biden said in his first address to Congress as president that he wants lawmakers to pass police overhaul legislation by the anniversary of the death of George Floyd. (April 28)"
-    publishedDateTime: 2021-04-29T04:00:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/29/biden-urges-passage-police-overhaul-measure/4884488001/"
+  - title: "Mexico Plans Tree Planting, Regional Migration Pitch to Biden"
+    excerpt: "Mexico’s president will propose a regional agreement on migration to the U.S. this week and the expansion of his tree planting program to Central America as an option to provide order in the process of seeking entry to the U."
+    publishedDateTime: 2021-04-18T19:16:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-18/mexico-plans-tree-planting-regional-migration-pitch-to-biden"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Bloomberg
+      domain: bloomberg.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2b19c6cd-bc08-4e41-9993-1be0d4de534d_poster.jpg?quality=10"
-        width: 1920
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iASTAI4mLSS8/v1/1200x752.jpg"
+        width: 1200
+        height: 752
+        isCached: true
+  - title: "How Capital Gains Are Taxed and What Biden Wants to Do Now"
+    excerpt: "Capital gains taxes are the price of making a good investment. They’re levied on profitable stock trades and real estate deals and also can apply to sales of businesses, pieces of art, collectible cars,"
+    publishedDateTime: 2021-04-22T18:45:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-capital-gains-are-taxed-and-what-biden-wants-to-do-now/2021/04/22/875a2aa6-a399-11eb-b314-2e993bd83e31_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QYXRHCVDTEI6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
         height: 1080
         isCached: true
+  - title: "Restoring service central to Biden's postal board nominees"
+    excerpt: "President Joe Biden's of the U.S. Postal Service pledged Thursday to rebuild trust with the American public through prompt deliveries, as they outlined a vison for the agency in their first formal statements to lawmakers."
+    publishedDateTime: 2021-04-22T19:15:00Z
+    webUrl: "https://www.businessinsider.com/restoring-service-central-to-bidens-postal-board-nominees-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/restoring-service-central-to-bidens-postal-board-nominees-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/restoring-service-central-to-bidens-postal-board-nominees-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "China 'closing in fast,' Biden warns Congress"
     excerpt: "Top News China 'closing in fast,' Biden warns Congress. Posted . President Joe Biden proposed a sweeping new $1.8 trillion plan in a speech to a joint session of Congress on Wedne"
     publishedDateTime: 2021-04-29T06:06:00Z
@@ -137,21 +306,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Joe Biden’s first 100 days: Where he stands on key promises"
-    excerpt: "As he rounds out his first 100 days in office, President Joe Biden’s focus on reining in the coronavirus during the early months of his administration seems to have paid off: He can check"
-    publishedDateTime: 2021-04-26T12:23:00Z
-    webUrl: "https://www.denverpost.com/2021/04/26/joe-biden-first-100-days-promises/"
-    ampWebUrl: "https://www.denverpost.com/2021/04/26/joe-biden-first-100-days-promises/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/04/26/joe-biden-first-100-days-promises/amp/"
+  - title: "Imagine a 20-car motorcade taking you to dinner. That's the White House bubble Joe Biden now finds himself living in."
+    excerpt: "White House living isn't quite that simple for any president. Joe Biden has described it as \"a little like a gilded cage.\""
+    publishedDateTime: 2021-04-16T19:59:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-white-house-delaware-bubble-2021-4"
     type: article
     provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
     images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/04/Biden_100_Days_Promises_73838.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
+      - url: "https://i.insider.com/6079ec3674da0300181e23a3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "BBbH6riKj5bu6tEQbs1PpUt8GmKXXaWsYshQQe/Az2dwnWXa0A8MPpVsCDo+5Z86zAwThJsm5yi+67NmO0YRH9ZDNUAvL/veH/Y75ucrSmkRR9nv/L666rq/WNwrWllCGOPS3sR8gtNle8r1Jxc6qV8o5b2RJRISP9GEqScw99V2Km2JsZr0Anu4iTbyGymdaP5dqa28Yg4FUa4IH+ALw6vkne3c6xg2IAChv8D20r5cEI9lQNRDN7Wl1bs7gWRQKbMC0Qm+vjKI+3gh/gPeDnvPlzS9GIK1QZBwpoR3gyDivTfM8VCV+r1RsKn4F58x8UhcnrPSlX2bDKEmGiTDIFTlRTSVyftD6576LyStVHo=;lI7HJYeTJjxZsqsF4A5YJw=="

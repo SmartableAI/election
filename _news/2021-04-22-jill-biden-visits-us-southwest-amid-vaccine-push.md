@@ -79,22 +79,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Jill Biden plants tree as White House readies for family cat"
-    excerpt: "Biden said that the family's cat would be coming to the White House “pretty soon.” The first lady told NBC News in an inte"
-    publishedDateTime: 2021-04-30T16:47:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-plants-tree-white-house-readies-family-77421307"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-plants-tree-white-house-readies-family-77421307"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-plants-tree-white-house-readies-family-77421307"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c2d1f4e0adfa4a7c853bbfa8b397e8b0_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "YcxwDFQfLqkW3YPlUtc2fwdSlVsSFqnKDthT6Vqe2SAGsrWMQrgtcFiWbqQS675snXaON6PnwJRGb4LrhwTwf5DahApH3gBlkFpFJOSXYTN6bQGVKsoscEjcbnbQoN6BPWxWvnbMm5xQG0yOnTDJsXU53HIZKG4AQHFBFUCGAMQrycZG4XE5i5V4+UfIE59pca8wDT2e2rpLmR+ZI7wA+x+JeBoHX+xv6FS1eGbq1hOKc485QbiB8lYcNTZI7XQeaNo8xQxphkfdRy2D1SyUo/jnHPH+u/5qmHuKke+x6+falU58z8YW67SfKTNd2yPp0u6mB44F86LhMPgy5unCdKAnnaaVbqGC7DqvBF9i5aU=;/EdhU1yJosvIyymqmH4lqg=="
 ---

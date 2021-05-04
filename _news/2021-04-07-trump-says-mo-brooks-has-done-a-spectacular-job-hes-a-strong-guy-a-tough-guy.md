@@ -27,64 +27,110 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's quieter hold on GOP stays strong: The Note"
-    excerpt: "But they share a focal point: former President Donald Trump. The gatherings, organized by the Republican National Committee and two different Trump-friendly outside groups, will take place at and ..."
-    publishedDateTime: 2021-04-09T10:00:00Z
-    webUrl: "https://abcnews.go.com/Politics/trumps-quieter-hold-gop-stays-strong-note/story?id=76951919"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-quieter-hold-gop-stays-strong-note/story?id=76951919"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-quieter-hold-gop-stays-strong-note/story?id=76951919"
+  - title: "Trump endorses Alabama’s Mo Brooks for Senate, a promoter of his false claims of a stolen election"
+    excerpt: "Trump’s early endorsement is a major boost to Brooks, who has operated on the rightmost edge of the Republican Party during his time in the House."
+    publishedDateTime: 2021-04-07T23:18:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 126
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UVYMERCV74I6XKJRLMLC2DIDHU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Donald Trump Endorses Marco Rubio, Says He'll Never Let Country Down"
+    excerpt: "Former President Donald Trump has endorsed Senator Marco Rubio (R-FL) in a post on the messaging service Telegram on Friday morning. \"It is my honor to give U.S. Senator Marco Rubio my Complete and Total Endorsement,\" Trump wrote. \"Marco has been a ..."
+    publishedDateTime: 2021-04-09T13:04:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1774461/trump-marco-rubio-other-senators.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Anti-Trump Republican Michael Wood Endorsed for House Seat by Texas' Biggest Newspaper"
+    excerpt: "Michael Wood, an anti–Donald Trump Republican who is running in a special election in Texas, was just endorsed by the state's biggest newspaper. The Dallas Morning News Monday recommended Wood to represent the 6th Congressional District. The endorsement ..."
+    publishedDateTime: 2021-04-05T16:06:00Z
+    webUrl: "https://www.newsweek.com/anti-trump-republican-michael-wood-endorsed-house-seat-texas-biggest-newspaper-1581026"
+    ampWebUrl: "https://www.newsweek.com/anti-trump-republican-michael-wood-endorsed-house-seat-texas-biggest-newspaper-1581026?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/anti-trump-republican-michael-wood-endorsed-house-seat-texas-biggest-newspaper-1581026?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1771634/michael-wood-texas-congressional-candidate.jpg"
+        width: 309
+        height: 292
+        isCached: true
+  - title: "Gaetz, under investigation for sex allegations, sought blanket pardon from Trump: Sources"
+    excerpt: "Congressman under investigation, claims extortion plot During the final weeks of President Donald Trump's administration, Republican Rep. Matt Gaetz asked the White House for a blanket ..."
+    publishedDateTime: 2021-04-07T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/gaetz-investigation-sex-allegations-sought-blanket-pardon-trump/story?id=76911923"
     type: article
     provider:
       name: ABCNews
       domain: abcnews.go.com
-    quality: 125
+    quality: 96
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-gty-er-210408_1617928535428_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/matt-gaetz-donald-trump-01-ap-llr-210402_1617390326131_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Getting together: Donald Trump, GOP politicians, donors seek unity at RNC retreat in Palm Beach"
-    excerpt: "PALM BEACH, Fla. – As Floridians hit the beaches on a bright and sunny day, Donald Trump and wealthy Republicans huddled behind closed doors Saturday to discuss GOP unity – a challenging topic in the wake of last year's presidential election."
-    publishedDateTime: 2021-04-10T15:43:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/10/donald-trump-republican-retreat-palm-beach/7167091002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7167091002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7167091002"
+  - title: "Mo Brooks ‘has clear sailing,’ Trump says of Alabama Senate race"
+    excerpt: "Former President Donald Trump lauded Alabama Congressman Mo Brooks on Monday, predicting an easy victory for the Republican in the state’s U.S. Senate race next year. The comments come on the heels of Trump formally endorsing Brooks in the Senate race."
+    publishedDateTime: 2021-04-20T16:09:00Z
+    webUrl: "https://www.al.com/news/2021/04/mo-brooks-has-clear-sailing-trump-says-of-alabama-senate-race.html"
+    ampWebUrl: "https://www.al.com/news/2021/04/mo-brooks-has-clear-sailing-trump-says-of-alabama-senate-race.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/mo-brooks-has-clear-sailing-trump-says-of-alabama-senate-race.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
+      name: al.com
+      domain: al.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/01/USAT/2dbb7d85-9ece-4fbf-88c2-c7acdd6a1bd1-AP_Trump.jpg?auto=webp&crop=2702,1520,x0,y1460&format=pjpg&width=1200"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FGOVM6KJIRF43KGTGYCUEYHIWY.jpg"
+        width: 3366
+        height: 2326
+        isCached: true
+  - title: "Trump backs Rep. Mo Brooks in Alabama Senate race, who cheered Capitol rioters for ‘kicking ass’"
+    excerpt: "Former President Donald Trump is throwing his support behind Rep. Mo Brooks in next year’s Alabama Senate race, a staunch supporter who cheered the Jan. 6 crowd at the Capitol for “taking down names and kicking ass."
+    publishedDateTime: 2021-04-07T14:29:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 62
+    images:
+      - url: "https://www.nydailynews.com/resizer/dnPImsXwM3lyMNeIzGI2SPoFcG8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H6KA7POU45DLBDWXB2NPXLDGAA.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Melania Trump Stuns In $2K White Dress In Rare Post-White House Appearance"
-    excerpt: "Melania Trump looked gorgeous in her white gown when she accompanied her husband, former President Donald Trump, at an event for the Republican National Committee donors."
-    publishedDateTime: 2021-04-13T05:42:00Z
-    webUrl: "https://www.ibtimes.com/melania-trump-stuns-2k-white-dress-rare-post-white-house-appearance-3179844"
-    ampWebUrl: "https://www.ibtimes.com/melania-trump-stuns-2k-white-dress-rare-post-white-house-appearance-3179844?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-stuns-2k-white-dress-rare-post-white-house-appearance-3179844?amp=1"
+  - title: "Trump Endorses Mo Brooks Among Alabama GOP Senate Contenders"
+    excerpt: "Former President Donald Trump has endorsed Rep. Mo Brooks in Alabama’s 2022 Senate race, siding with the conservative firebrand who riled up the crowd before the Capitol riot over other contenders in the state’s all-important Republican primary."
+    publishedDateTime: 2021-04-07T15:18:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-07/trump-endorses-mo-brooks-among-alabama-gop-senate-contenders"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-07/trump-endorses-mo-brooks-among-alabama-gop-senate-contenders?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-07/trump-endorses-mo-brooks-among-alabama-gop-senate-contenders?context=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Donald who? Lower-profile Trump still has grip on GOP."
-    excerpt: "Has Donald Trump’s time come and gone? After failing to win reelection in 2020 and getting booted from Twitter after the Jan. 6 Capitol insurrection, he seems a shadow of his former self. Even his “Trump”-emblazoned Boeing 757 sits idle and reportedly in disrepair at an airport in upstate New York."
-    publishedDateTime: 2021-04-16T19:29:00Z
-    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0416/Donald-who-Lower-profile-Trump-still-has-grip-on-GOP?icid=rss"
-    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0416/Donald-who-Lower-profile-Trump-still-has-grip-on-GOP"
-    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0416/Donald-who-Lower-profile-Trump-still-has-grip-on-GOP"
-    type: article
-    provider:
-      name: Christian Science Monitor
-      domain: csmonitor.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
 
 secured: "vfTmASYaM0YNySglLZjykEHFjMIrrswxLB3d3M/8s3rEsyu/laS2xYBiIWNwY36I9QHjGBVaXsjonRyebhrFNQ9h3oisX9+cXByXVZhuCkJRsQitIlTdNrOX1uyX7EzbHsk6/URcVCiNJoz385zyrFFHDDRa5OvUSPlAhA0r673KA74JOHpDnu/ln2a3HSF8sjmeayFCdM/DhC5mcvj7vQODYiYxMt2R7YdIiLM+ynOZHwP3P8ONiR7FB6piks+Ojdcj2H9+jAz3LAJ+PCO1BSgbcqFsPV/mJovDeS0wvqFNHykO4dp7u647Qhuu1Ghe4pb5DykwchAqCSoOdwdPEZ0Uj3KDvafWo3VBMGeokfXvNwO3M+63VbeAEg7vtZLE44MelRDeiDPCIinS4OGooQCwVvopgj8ghJVYpPvIgoFAW4xuIDJgGtk5wf1xuVN2SA8kWbJ4s1vlI6G/rYbn/oWkmLjkH+e4dA0X+a/iY1Jvbk42tz3scohZaUabCYgkKCUsr1suGznxudSMk++xgQ==;UmMncab2AKuG4kKKesE4CA=="

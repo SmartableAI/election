@@ -31,171 +31,159 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to restore California's power to set pollution rules"
-    excerpt: "The Transportation Department is moving to reverse former President Donald Trump’s bid to end California’s ability to set its own auto pollution standards"
-    publishedDateTime: 2021-04-22T22:15:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-to-restore-californias-power-to-set-pollution-rules/2021/04/22/efc96db8-a3bc-11eb-b314-2e993bd83e31_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-restore-californias-power-to-set-pollution-rules/2021/04/22/efc96db8-a3bc-11eb-b314-2e993bd83e31_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-restore-californias-power-to-set-pollution-rules/2021/04/22/efc96db8-a3bc-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+  - title: "10 Things in Politics: How Biden's 100 days compare"
+    excerpt: "I hope you'll take your turn when it comes. Here's what we're talking about: With Jordan Erb. 1. ONE HUNDRED PROOF: President Joe Biden has now passed the FDR-inspired first lap of his presidency. Insider decided to compare him with his more-modern ..."
+    publishedDateTime: 2021-04-30T10:02:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-biden-100-days-history"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-biden-100-days-history?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-biden-100-days-history?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4VCGVTFDXUI6XMYUF2MTXWB6GE.jpg&w=1440"
-        width: 1440
-        height: 943
-        isCached: true
-  - title: "Biden to the nation: We're 'turning peril into possibility'"
-    excerpt: "President Joe Biden will use his first joint address to Congress to declare the nation is “turning peril into possibility, crisis into opportunity.”"
-    publishedDateTime: 2021-04-28T20:41:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-to-pitch-sweeping-family-plan-in-speech-to-congress/2021/04/28/17c946e4-a804-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-pitch-sweeping-family-plan-in-speech-to-congress/2021/04/28/17c946e4-a804-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-pitch-sweeping-family-plan-in-speech-to-congress/2021/04/28/17c946e4-a804-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BYM4UYFIAQI6XKFHL5C53TPTMQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Power Up: Everything you need to know about Biden's speech to Congress"
-    excerpt: "Reach out and sign up for the Power Up newsletter. Thanks for waking up with us. THE OTHER 100 DAYS: It’s not just a big and arbitrary benchmark for the president. Thursday also marks the 100th day in office for the youngest Democrat to serve in the U."
-    publishedDateTime: 2021-04-29T15:25:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/04/29/power-up-everything-you-need-know-about-biden-speech-congress/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/29/power-up-everything-you-need-know-about-biden-speech-congress/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/29/power-up-everything-you-need-know-about-biden-speech-congress/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/43FL5PC2QEI6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "The Latest: Security tight, crowd thin for Biden's address"
-    excerpt: "In his first address to Congress, President Joe Biden will declare that the nation is “turning peril into possibility, crisis into opportunity.”"
-    publishedDateTime: 2021-04-28T20:23:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YNDUHVVIRMI6XKFHL5C53TPTMQ.jpg&w=1440"
-        width: 1440
-        height: 1028
-        isCached: true
-  - title: "Biden and Carter, longtime allies, reconnect in Georgia"
-    excerpt: "President Joe Biden is visiting former President Jimmy Carter in Plains, Georgia, where the 39th president and his wife, Rosalynn, have lived most of their lives"
-    publishedDateTime: 2021-04-29T18:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-carter-longtime-allies-reconnect-georgia-77401025"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-carter-longtime-allies-reconnect-georgia-77401025"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-carter-longtime-allies-reconnect-georgia-77401025"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_293c4b245f174ef1a4dadc48ca68f64f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Rand Paul Calls for Joe Biden to Burn Face Mask to Promote COVID Vaccine"
-    excerpt: "Rand said that \"virtually zero\" people have died of COVID-19 after being vaccinated. The number is closer to 5,800, according to the U.S. Centers for Disease Control and Prevention."
-    publishedDateTime: 2021-04-22T01:13:00Z
-    webUrl: "https://www.newsweek.com/rand-paul-calls-joe-biden-burn-face-mask-promote-covid-vaccine-1585579"
-    ampWebUrl: "https://www.newsweek.com/rand-paul-calls-joe-biden-burn-face-mask-promote-covid-vaccine-1585579?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rand-paul-calls-joe-biden-burn-face-mask-promote-covid-vaccine-1585579?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
-    images:
-      - url: "https://d.newsweek.com/en/full/1781388/rand-paul-biden-burn-mask-covid-vaccine.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "President Biden, first lady to visit former President Jimmy Carter in Georgia this week"
-    excerpt: "Biden was a young Delaware senator and Carter ally during the Georgian’s term in the White House, from 1977 to 1981."
-    publishedDateTime: 2021-04-27T20:49:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/27/president-biden-visit-former-president-jimmy-carter-week/4861359001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4861359001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4861359001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/27/USAT/bfc1809d-119b-4e06-8015-609e63865332-AP080826032783.jpg?auto=webp&crop=2345,1320,x0,y0&format=pjpg&width=1200"
+      - url: "https://i.insider.com/608af05135c46f0018c0b494?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Jill Biden urges farmworkers to get vaccinated in California"
-    excerpt: "First lady Jill Biden is praising California farmworkers for their persistence during the pandemic and urging them to get vaccinated"
-    publishedDateTime: 2021-04-01T04:18:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/jill-biden-urges-farmworkers-vaccinated-california-76800132"
+  - title: "Biden holds car rally in Georgia to mark 100 days in office"
+    excerpt: "President Biden spoke at a drive-in rally in Georgia on Thursday evening to mark his 100th day in office. The rally comes the day after the president outlined his ambitious legislative agenda in his first address before a joint session of Congress."
+    publishedDateTime: 2021-04-29T23:41:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-speech-georgia-100-days-live-stream-today-2021-04-29/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-speech-georgia-100-days-live-stream-today-2021-04-29/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-speech-georgia-100-days-live-stream-today-2021-04-29/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/29/e77dfacb-1c2e-411a-8a81-ed9aacdb4e54/thumbnail/1200x630/a470eebbe7ee0d7d920f5c6092255a08/gettyimages-1232598415.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "'Amtrak Joe' Biden pushes infrastructure in Philadelphia"
+    excerpt: "President Joe Biden visited an Amtrak train station on Friday to promote his $1.9 trillion infrastructure proposal, saying the United States is \"way behind\" in improving its transportation grid and needs to do so to keep up with China."
+    publishedDateTime: 2021-04-30T22:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idUKKBN2CH15A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2CH15A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2CH15A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210430&t=2&i=1560554461&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3T1AF"
+        width: 831
+        height: 545
+        isCached: true
+  - title: "Biden to tout $4tn infrastructure and welfare plan – US politics live"
+    excerpt: "President travels to Virginia to try to win support for proposals – follow all the day’s politics news live"
+    publishedDateTime: 2021-05-03T14:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest?page=with:block-60900b668f0865a1048efbf4"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7796954293d26e28cbc625f5d2e035977b76ed54/0_16_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a469056c8b5fbc6d83f62203dce37fd6"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden promotes education spending at stops in Virginia"
+    excerpt: "President Joe Biden traveled to coastal Virginia to promote his plans to increase spending on education and children, part of his $1.8 trillion families proposal announced last week"
+    publishedDateTime: 2021-05-03T21:22:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-pushes-education-spending-stops-virginia-77466557"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pushes-education-spending-stops-virginia-77466557"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pushes-education-spending-stops-virginia-77466557"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 105
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_582476d4c83f4a849953260173f0be01_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c59f309d36174843a07f8b1896b342b4_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden calls for police reform by 'next month'"
-    excerpt: "Top News Biden calls for police reform by 'next month' Posted . In his first speech to Congress on Wednesday, U.S. President Joe Biden called on Congress to a pass police reform b"
-    publishedDateTime: 2021-04-29T04:13:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEAFZT27"
+  - title: "Biden pushes education spending at stops in Virginia"
+    excerpt: "President Joe Biden and the first lady are in coastal Virginia to promote his plans to increase spending on education and children, part of his $1.8 trillion families proposal announced last week"
+    publishedDateTime: 2021-05-03T17:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-pushes-education-spending-stops-virginia-77466557"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pushes-education-spending-stops-virginia-77466557"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pushes-education-spending-stops-virginia-77466557"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c59f309d36174843a07f8b1896b342b4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "GOP senators unveil $568 billion counteroffer to Biden's infrastructure plan"
+    excerpt: "Republican senators unveiled their counteroffer to President Biden's infrastructure proposal on Thursday, presenting a $568 billion framework that is significantly smaller than the president's $2 trillion plan."
+    publishedDateTime: 2021-04-23T17:18:00Z
+    webUrl: "https://www.cbsnews.com/news/republican-senators-infrastructure-counteroffer/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/republican-senators-infrastructure-counteroffer/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/republican-senators-infrastructure-counteroffer/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/22/363cae7d-cfc6-49bc-97d0-790fdb8711af/thumbnail/1200x630g2/b8e871c9faf3025e98261d67ca7e7b22/gettyimages-1231516589.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Joe Biden: ‘I don’t think the American people are racist’ – US politics live"
+    excerpt: "President in new interview agrees with Republican senator Tim Scott’s comments to Congress – follow all the day’s politics news"
+    publishedDateTime: 2021-04-30T12:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/30/joe-biden-us-politics-washington-america-racism-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/30/joe-biden-us-politics-washington-america-racism-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/30/joe-biden-us-politics-washington-america-racism-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/777df554d46c4d7ff874aee02d8d84a5f7219f92/0_74_5025_3016/master/5025.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=822f9f7c8dbbf2b55107902b17be772f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "'Amtrak Joe' Biden pushes infrastructure in Philly"
+    excerpt: "Top News 'Amtrak Joe' Biden pushes infrastructure in Philly. Posted . President Joe Biden visited an Amtrak train station on Friday to promote his $1.9 trillion infrastructure pro"
+    publishedDateTime: 2021-05-01T00:32:00Z
+    webUrl: "https://www.reuters.com/video/watch/amtrak-joe-biden-pushes-infrastructure-i-id729379533"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210429&i=OVEAFZT27&r=OVEAFZT27&t=2"
+      - url: "https://static.reuters.com/resources/r/?d=20210430&i=OVEAPZ467&r=OVEAPZ467&t=2"
         width: 960
         height: 540
         isCached: true
-  - title: "House Speaker Nancy Pelosi on President Biden's address to Congress, nation"
-    excerpt: "House Speaker Nancy Pelosi, a California Democrat, joins \"CBS This Morning\" to discuss President Joe Biden's first speech to a joint session of Congress."
-    publishedDateTime: 2021-04-29T12:56:00Z
-    webUrl: "https://www.cbsnews.com/video/house-speaker-nancy-pelosi-on-president-bidens-address-to-congress-nation/"
+  - title: "Essential Politics: Biden pledges to leave Afghanistan. It’s a withdrawal years in the making."
+    excerpt: "Biden is the third president to pledge to reduce or completely withdraw U.S. troops in Afghanistan. It's a promise that comes after two administrations' worth of effort."
+    publishedDateTime: 2021-04-21T13:00:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-04-21/biden-trump-afghanistan-exit-essential-politics"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 103
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 93
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/55e681a2-5ed4-4e36-929e-041b3ef76723/thumbnail/1200x630/746d54b360bfeca1597d0a2eb6d30c62/cbsn-fusion-house-speaker-nancy-pelosi-on-president-bidens-address-to-congress-nation-thumbnail-703929-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Representative Ritchie Torres reacts to President Biden's address to congress"
-    excerpt: "President Joe Biden delivered his first address to a joint session of Congress on Wednesday. Congressman Ritchie Torres, a Democrat who represents New York's 15th Congressional district, joined CBSN's Tanya Rivero with his reaction to the speech and the results of the census."
-    publishedDateTime: 2021-04-29T18:34:00Z
-    webUrl: "https://www.cbsnews.com/video/rep-ritchie-torres-reacts-to-president-bidens-address-to-congress/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 102
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/29/aaf97ef9-85de-4c54-bf3b-d2b64a8561e6/thumbnail/1200x630/4ee903d6edbc34d181e50b141bee7c96/cbsn-fusion-rep-ritchie-torres-reacts-to-president-bidens-address-to-congress-thumbnail-704310-640x360.jpg"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/18778c0/2147483647/strip/true/crop/5419x2845+0+384/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F49%2Fec%2Fa7c1febe441aab79ab4800a5ccee%2Fbiden-66428.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -213,21 +201,37 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "President Joe Biden to recognize atrocities against Armenians as genocide"
-    excerpt: "A presidential proclamation to mark Armenian Genocide Remembrance Day is expected to use the term genocide to describe the killings and deportations of hundreds of thousands of Armenians."
-    publishedDateTime: 2021-04-24T12:18:00Z
-    webUrl: "https://www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html"
-    ampWebUrl: "https://www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2021/04/president-joe-biden-to-recognize-atrocities-against-armenians-as-genocide.html?outputType=amp"
+  - title: "Joe Biden’s first 100 insurrection-free days: ‘America is on the move’"
+    excerpt: "Joe Biden’s first 100 days in office have been a cool breeze. No sociopathic tweets, no gaslighting, no drama. Biden speaks in civil, humble tones and treats even his political opponents with respect."
+    publishedDateTime: 2021-04-30T12:47:00Z
+    webUrl: "https://www.al.com/news/2021/04/joe-bidens-first-100-insurrection-free-days-america-is-on-the-move.html"
+    ampWebUrl: "https://www.al.com/news/2021/04/joe-bidens-first-100-insurrection-free-days-america-is-on-the-move.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/joe-bidens-first-100-insurrection-free-days-america-is-on-the-move.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DXAMSUS6H5GYPGGFB7R2DCK5C4.jpg"
+        width: 1400
+        height: 1047
+        isCached: true
+  - title: "President Joe Biden’s first 100 days: 53% approve of job performance, two-thirds approve of COVID efforts, new poll says"
+    excerpt: "A majority of Americans approve of President Joe Biden ’s first 100 days on the job, with two-thirds supporting his handling of the COVID-19 pandemic, according to a new CNN poll. The poll results come as Biden prepares to deliver an address to Congress on Wednesday night,"
+    publishedDateTime: 2021-04-28T12:57:00Z
+    webUrl: "https://www.masslive.com/politics/2021/04/president-joe-bidens-first-100-days-53-approve-of-job-performance-two-thirds-approve-of-covid-efforts-new-poll-says.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/04/president-joe-bidens-first-100-days-53-approve-of-job-performance-two-thirds-approve-of-covid-efforts-new-poll-says.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/04/president-joe-bidens-first-100-days-53-approve-of-job-performance-two-thirds-approve-of-covid-efforts-new-poll-says.html?outputType=amp"
     type: article
     provider:
       name: MassLive
       domain: masslive.com
-    quality: 74
+    quality: 50
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4PAU5DZLYFF5DJ3VNJ3ORP3RZ4.jpg"
-        width: 5472
-        height: 3648
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YJJVFBD2MVH4BDLMQSSAMIRKZM.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "WreV0KMZlRjMf4SlFJRlg81gOvHPfK+tFFX38JesCKb3BVtYEL4pdMM+j8w6zPixdc6KtQXUQosfn/R8PK6P8FXqOeZ4At1DwEsDx+PGZ8Io9ZiDXWZGR6K+hk7NmRu0OeeU/z49A8uFginBNAP3iWD5DHSC8w8ZE9kNWWuOVmYeJbNQPe/3sBr1PTCblZkV5WKEVok+eS+63pPc4CsIjLOqb7QoNXMtRMsLLT86WxWLt/wQp8SXHNyUntgwhU131mPd1QStF+hNm8HftlVFQJOhzzKkC1LG8xDeOVIjPbgFiQEn/CK9yFImSo9vPhtO5YtnQDJTV5ZsTamPlZldme64kC9gXfvCO8kVNY5LjbDLeeg2NhFbBb1TKZxEwPrCZmRtMh8ad/VQt1tPiKA1SvsddLxTgMSL3vWYfGALiShiSHCfaKKtL8C3hc2BlBfRLgAiib7ky7AS25IuVNWru/TNTYycmJQEe0hmfIYXpRMRKri9Qlmh3H4AIiVqkKzb+1aj5PEzjVu9nxBKtI26jQ==;sDwdkEiSxJGPapE85U3Dhg=="

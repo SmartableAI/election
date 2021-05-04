@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4864492001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4864492001"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden to trans youth: 'The president has your back'"
-    excerpt: "In his first address to Congress, President Joe Biden called for passage of the Equality Act and gave a shout-out to transgender youth, saying \"the president has your back.\""
-    publishedDateTime: 2021-04-29T05:36:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEAFZTUN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210429&i=OVEAFZTUN&r=OVEAFZTUN&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "President Joe Biden to tour S&WB's Carrollton Plant this week, according to White House"
     excerpt: "President Joe Biden has argued his wide-ranging, $2.3 trillion infrastructure plan is a solution to decades of underinvestment in roads, pipes and other major projects throughout the country."
     publishedDateTime: 2021-05-03T21:49:00Z
@@ -108,6 +94,38 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/9/0c/90cab378-25c5-11eb-b2be-476e690edf48/5df57e8ab9e25.image.jpg?resize=1024%2C676"
         width: 1024
         height: 676
+        isCached: true
+  - title: "Connecticut Republicans say President Joe Biden’s sweeping plans would spend too much, too quickly"
+    excerpt: "As Democrats coalesce around President Joe Biden’s sweeping plans, Republicans in Connecticut and elsewhere say they think the president is spending too much too quickly."
+    publishedDateTime: 2021-04-29T17:25:00Z
+    webUrl: "https://www.courant.com/politics/hc-pol-president-biden-connecticut-republicans-reaction-20210429-fhlzemwvibgfvjpnmerf7owniu-story.html"
+    ampWebUrl: "https://www.courant.com/politics/hc-pol-president-biden-connecticut-republicans-reaction-20210429-fhlzemwvibgfvjpnmerf7owniu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-president-biden-connecticut-republicans-reaction-20210429-fhlzemwvibgfvjpnmerf7owniu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 61
+    images:
+      - url: "https://www.courant.com/resizer/kp2rI7FDl_PTb-2kxsj2QtPvHNM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4TTXR4G4RCSMT7TPMONQ4CKPDA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "After President Joe Biden’s first 100 days, two-thirds of Americans believe US headed in right direction"
+    excerpt: "A new poll shows almost two-thirds of Americans believe the country is headed in the right direction after President Joe Biden ’s first 100 days in office. The newest ABC News/Ipsos shows 64% are optimistic a few days after Biden reached the early milestone and just as the nationwide COVID-19 vaccination effort has significantly reduced deaths,"
+    publishedDateTime: 2021-05-02T15:24:00Z
+    webUrl: "https://www.masslive.com/politics/2021/05/after-president-joe-bidens-first-100-days-two-thirds-of-americans-believe-us-headed-in-right-direction.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/05/after-president-joe-bidens-first-100-days-two-thirds-of-americans-believe-us-headed-in-right-direction.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/after-president-joe-bidens-first-100-days-two-thirds-of-americans-believe-us-headed-in-right-direction.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 58
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AA7RDVDVBRHTVHZZIYNBYVBHAQ.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "No, John Velazquez didn’t call Joe Biden a horse’s ass"
     excerpt: "Says Kentucky Derby jockey John Velazquez turned down an invitation to the White House and said, “if I wanted to see a horse’s ass I would of came in second.” John Velazquez didn’t say this and he hasn’t been invited to the White House,"

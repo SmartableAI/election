@@ -9,8 +9,8 @@ ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/13/russell-wilson-co-ho
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/13/russell-wilson-co-hosting-nbc-vaccination-special-/"
 type: article
 quality: 75
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Times
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden visits Arlington National Cemetery in Washington"
-    excerpt: "U.S. President Joe Biden visits Section 60 at Arlington National Cemetery in Washington on April 14, 2021. Photo by Yuri Gripas/UPI"
-    publishedDateTime: 2021-04-14T19:39:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/b43143fa69e9271435129ebdaed4fbb4/Joe-Biden-visits-Arlington-National-Cemetery-in-Washington/"
+  - title: "Roberta Jacobson, senior Biden official overseeing border, stepping down at end of month"
+    excerpt: "In his statement, Sullivan suggested that Vice President Kamala Harris, who President Joe Biden chose to deal with migration from Central America, will pick up some of Jacobson's portfolio."
+    publishedDateTime: 2021-04-09T22:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/roberta-jacobson-senior-biden-official-overseeing-border-stepping/story?id=76984133"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/roberta-jacobson-senior-biden-official-overseeing-border-stepping/story?id=76984133"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/roberta-jacobson-senior-biden-official-overseeing-border-stepping/story?id=76984133"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 116
     images:
-      - url: "https://cdnph.upi.com/pv/upi/b43143fa69e9271435129ebdaed4fbb4/BIDEN-ARLINGTON.jpg"
-        width: 650
-        height: 433
+      - url: "https://s.abcnews.com/images/Politics/roberta-jacobson-gty-jc-210409_1618009006290_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "OF7bOI7s5XG/lfGIgG4pprUfX4d2f3NpjGa+fcLnqDGy9Q4BoZWQwxI4zrKb7CPFdYTUIuYTVECugWjMCnJ9AtBYE6FBhzgnRg7toiAkblujDPu2KYHLi09lmy/oWSo6sfAwdyk/oIerEKE/3oGUdKGRQ7c6ldW0/yzAZFqCB1cQY7vY+KIYPShyes94WHrsZmppt+BLpskl+oZdlB1SoiImqj0ko/djTOx714n2tCeRYeXVJwPe3LpoYYN9h+1/W14K8HeVo3PRxJHJ8tvXAonmBsY32qQgeOx2Ad4grJZ6PJeftu7OxXhkQbsg9FIgxwOSdu0TCW1WUYq9rn1MXJJDnE0qr5ic78jR9QImngo=;UxAADULzHF6RuBehoZejEw=="

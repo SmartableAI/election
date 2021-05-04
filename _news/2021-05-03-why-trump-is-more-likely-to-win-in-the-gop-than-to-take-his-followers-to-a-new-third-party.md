@@ -27,76 +27,60 @@ images:
     isCached: true
 
 related:
-  - title: "The Memo: Trump's critics face wrath of GOP base"
-    excerpt: "Cheney voted for Trump’s impeachment and has become perhaps his most persistent foe among GOP officeholders. But the bigger picture is one in which Cheney is in danger of losing her House leadership position and another Trump critic,"
-    publishedDateTime: 2021-05-03T21:47:00Z
-    webUrl: "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base"
-    ampWebUrl: "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp"
+  - title: "Kinzinger goes to Texas in search of anti-Trump Republicans"
+    excerpt: "Adam Kinzinger came to Texas this week to hunt unicorns. The Illinois congressman was looking for Republicans who, like him, see former President Donald Trump as a scourge on their party and a threat to democracy."
+    publishedDateTime: 2021-04-30T14:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/texas-special-election-poses-test-for-anti-trump-republicans/2021/04/30/38dd9c6c-a96d-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/texas-special-election-poses-test-for-anti-trump-republicans/2021/04/30/38dd9c6c-a96d-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/texas-special-election-poses-test-for-anti-trump-republicans/2021/04/30/38dd9c6c-a96d-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_cheneyliz_012121getty-bc_split.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X2D2YIVJNAI6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 952
         isCached: true
-  - title: "Whose 'Big Lie'? Trump's proclamation a new GOP litmus test"
-    excerpt: "Donald Trump and his supporters are intensifying efforts to shame members of the party who are seen as disloyal to the former president and his false claims that last year’s election was stolen"
-    publishedDateTime: 2021-05-04T04:34:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
+  - title: "Celebrity politicians test voter interest in post-Trump era"
+    excerpt: "From Ronald Reagan and Arnold Schwarzenegger to Al Franken and Donald Trump, there’s a rich history of celebrities trying out new careers in politics"
+    publishedDateTime: 2021-05-02T12:34:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/celebrity-politicians-test-voter-interest-post-trump-era-77448478"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/celebrity-politicians-test-voter-interest-post-trump-era-77448478"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/celebrity-politicians-test-voter-interest-post-trump-era-77448478"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d94cd197df9a4c78b707faae0d52b181_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_31c3a5f964704f5eb205a7f35a3c5fb8_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Facebook Oversight Board to Announce Decision on Donald Trump Ban on May 5"
-    excerpt: "Former President Donald Trump could make a return to Facebook and Instagram very soon following an announcement by the body that oversees bans on content for the social media sites. The Oversight Board tweeted on Monday that they will reveal their decision on Trump's suspensions this Wednesday,"
-    publishedDateTime: 2021-05-03T15:22:00Z
-    webUrl: "https://www.newsweek.com/facebook-oversight-board-announce-decision-donald-trump-ban-may-5-1588223"
-    ampWebUrl: "https://www.newsweek.com/facebook-oversight-board-announce-decision-donald-trump-ban-may-5-1588223?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-oversight-board-announce-decision-donald-trump-ban-may-5-1588223?amp=1"
+  - title: "Donald Trump Claims His Susan Wright Endorsement Shut Democrats Out of Texas House Race"
+    excerpt: "\"It would be nice, however, if the pundits and Fake News Media would state the real reason for this unprecedented (Democrats have never been shut out before) victory!\" Trump said."
+    publishedDateTime: 2021-05-03T19:50:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-claims-his-susan-wright-endorsement-shut-democrats-out-texas-house-race-1588318"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-claims-his-susan-wright-endorsement-shut-democrats-out-texas-house-race-1588318?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-claims-his-susan-wright-endorsement-shut-democrats-out-texas-house-race-1588318?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 123
+    quality: 117
     images:
-      - url: "https://d.newsweek.com/en/full/1786543/former-president-trump-looks-his-phone.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://d.newsweek.com/en/full/1786760/trump-claims-endorsement-shut-out-texas-democrats.jpg"
+        width: 3000
+        height: 1945
         isCached: true
-  - title: "The slow, painful death of Trump allies’ voting-machine conspiracy theories"
-    excerpt: "Among the many wild conspiracy theories about the 2020 election, few rank as high when it comes to both baselessness and reach as those involving voting machines. The theory that voting machines were programmed to steal the election from President Donald Trump had the benefit,"
-    publishedDateTime: 2021-05-03T16:15:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2MJW36R3GMI6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump's 'big lie' becomes new litmus test for success in GOP"
-    excerpt: "It’s scary,” said Michael Wood, the Texas Republican congressional candidate who based his campaign on a vow to push the GOP past the “cult of personality” that is Trump. In the end, he garnered just 3% of the vote in Saturday’s special election,"
-    publishedDateTime: 2021-05-04T02:32:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
+  - title: "Kinzinger goes to Texas in search of anti-Trump Republicans"
+    excerpt: "Adam Kinzinger came to Texas this week to hunt unicorns. The Illinois congressman was looking for Republicans who, like him, see former President Donald Trump as a scourge on their party and a threat to democracy."
+    publishedDateTime: 2021-04-30T20:21:00Z
+    webUrl: "https://www.chron.com/news/article/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
     type: article
     provider:
       name: Houston Chronicle
@@ -107,19 +91,37 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Will Donald Trump's Facebook Account Return?"
-    excerpt: "Donald Trump may be back online as Facebook’s oversight board prepares to announce its decision on his expulsion from the platform. The former president was given the boot a day after the Jan. 6 Capitol riot and the decision Wednesday is certain to attract political controversy from one side or the other."
-    publishedDateTime: 2021-05-03T21:41:00Z
-    webUrl: "https://www.ibtimes.com/will-donald-trumps-facebook-account-return-3192364"
+  - title: "Utah Republicans’ bid to censure Sen. Mitt Romney for Trump impeachment votes fails"
+    excerpt: "Mitt Romney but ultimately rejected a motion to censure him Saturday for his votes at President Donald Trump’s impeachment trials. The measure narrowly failed, 798 to 711, in a vote by delegates to the state GOP convention,"
+    publishedDateTime: 2021-05-02T03:30:00Z
+    webUrl: "https://www.al.com/news/2021/05/utah-republicans-bid-to-censure-sen-mitt-romney-for-trump-impeachment-votes-fails.html"
+    ampWebUrl: "https://www.al.com/news/2021/05/utah-republicans-bid-to-censure-sen-mitt-romney-for-trump-impeachment-votes-fails.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/05/utah-republicans-bid-to-censure-sen-mitt-romney-for-trump-impeachment-votes-fails.html?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
+      name: al.com
+      domain: al.com
+    quality: 69
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NT6QIB5EHZCYRI5ERTUUTQIN7E.jpg"
         width: 1024
-        height: 731
+        height: 683
+        isCached: true
+  - title: "Special election to replace U.S. Rep. Ron Wright remains highly competitive in final hours, as Donald Trump looms large"
+    excerpt: "Nearly two-dozen candidates are vying to fill the late congressman's seat, and the former president is backing Wright's widow, Susan Wright."
+    publishedDateTime: 2021-04-30T15:28:00Z
+    webUrl: "https://www.texastribune.org/2021/04/30/tx-6-special-election/"
+    ampWebUrl: "https://www.texastribune.org/2021/04/30/tx-6-special-election/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/04/30/tx-6-special-election/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 66
+    images:
+      - url: "https://thumbnails.texastribune.org/-LPrcCg8VR2SW6dlG2TbqqsFAd4=/1200x630/filters:quality(95)/static.texastribune.org/media/files/5a9a462d5d7fdb74fce431e415ab49f5/US%20Capitol%20DC%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "45Er1kUrdm7sxPyp/SP5TeQn7xABtGhsmXzmLWY3f/5e1GnD1pfgSYcjJO4IeY4F6Cvq7XC5dekdbE0pzuZy/5O9mvvGWYL+ozx1JQInEOGqi13L53O8PtAPTn/QoArqsejRNDi0HUkgz/3FKU8UQ3dDLfhnAvH93w8Qdu2mdpnG9welstqOuYACiT/rUxsNiUq7mylpweM01f4/e4NJA7IWUB5vwiX7ApP3V2zRzoS3TkUxEeOvttQfTK7Ax2LOPvqCYBk6J9+ruEqWK6TCNwHkmZdY4h32isw7Ycx6aFa1SFZpmRANlCjtGSI/wpPOkxSAQLRbl1Sr0EUMuHshD9QcZic/lALZUnNvGoUZeRQ=;CJVZURZuP0hbyysluBCJTA=="

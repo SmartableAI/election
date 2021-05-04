@@ -31,53 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump knocks CNN for 'completely false' report Gaetz was denied meeting"
-    excerpt: "Former President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell sidesteps Trump calling him 'dumb son ..."
-    publishedDateTime: 2021-04-13T12:29:00Z
-    webUrl: "https://thehill.com/homenews/media/547850-trump-knocks-dishonest-cnn-report-that-gaetz-was-denied-meeting"
-    ampWebUrl: "https://thehill.com/homenews/media/547850-trump-knocks-dishonest-cnn-report-that-gaetz-was-denied-meeting?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/547850-trump-knocks-dishonest-cnn-report-that-gaetz-was-denied-meeting?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/gaetz_matt_trump_donald041321.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Matt Gaetz request for meeting with Trump was not snubbed, both sides say"
-    excerpt: "Photograph: Marta Lavandier/AP Matt Gaetz and a spokesman for Donald Trump reacted angrily late on Sunday after CNN reported that the scandal-hit Florida Republican congressman sought a meeting with the former US president when allegations of sex ..."
-    publishedDateTime: 2021-04-12T11:43:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/12/matt-gaetz-trump-meeting-rebuffed-denial"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/12/matt-gaetz-trump-meeting-rebuffed-denial"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/12/matt-gaetz-trump-meeting-rebuffed-denial"
+  - title: "‘Truth will prevail’: Matt Gaetz takes break from scandal to speak at Trump club"
+    excerpt: "Women for America First helped stage a rally near the White House on 6 January where Donald Trump told supporters to fight to overturn his election defeat. A crowd attacked and breached the US Capitol. Five people died, including a police officer."
+    publishedDateTime: 2021-04-10T11:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 124
+    quality: 120
     images:
-      - url: "https://i.guim.co.uk/img/media/bd670a9159855d668309642261f31134fccfbfac/0_43_4868_2922/master/4868.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c8dd8276ad7b93f3c7d259bfac90e7a0"
+      - url: "https://i.guim.co.uk/img/media/da0361692602303bd56482725aff0035c926bd36/0_88_5166_3100/master/5166.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6086a62db396c12b20bdfa14f23aabbf"
         width: 600
         height: 360
-        isCached: true
-  - title: "Donald Trump Defends Matt Gaetz, Denies Florida Congressman Asked for Pardon"
-    excerpt: "Former President Donald Trump has released a brief statement denying that GOP Representative Matt Gaetz of Florida solicited a pardon from him, while also offering a defense of the embattled congressman. \"Congressman Matt Gaetz has never asked me for a pardon."
-    publishedDateTime: 2021-04-07T15:30:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
-    images:
-      - url: "https://d.newsweek.com/en/full/1772657/matt-gaetz.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Video shows Trump meeting the man at the center of the Matt Gaetz sex trafficking allegations"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Video footage from 2019 has surfaced of former President Donald Trump and his wife Melania being greeted at a Florida airport by the man at the center of the sex trafficking allegations involving GOP Rep."
@@ -95,21 +63,51 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Gaetz and Trump rep challenge report that the Florida congressman was denied a meeting with the former president"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% GOP Congressman Matt Gaetz, who is facing federal sex trafficking allegations, was reportedly denied a meeting with Donald Trump as aides try to distance the former president from him, CNN reported. Two anonymous ..."
-    publishedDateTime: 2021-04-12T02:15:00Z
-    webUrl: "https://www.businessinsider.com/gaetz-challenges-report-that-he-was-denied-meeting-with-trump-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/gaetz-challenges-report-that-he-was-denied-meeting-with-trump-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gaetz-challenges-report-that-he-was-denied-meeting-with-trump-2021-4?amp"
+  - title: "Trump advised to turn his back on his right-wing protégé Matt Gaetz who faces a sex trafficking investigation"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump's advisors have strongly urged him not to publicly defend GOP Rep. Matt Gaetz who is currently facing a sex crimes investigation, the Daily Beast reported Friday. Trump has ..."
+    publishedDateTime: 2021-04-03T10:16:00Z
+    webUrl: "https://www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-advised-to-ditch-matt-gaetz-over-sex-trafficking-probe-report-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 104
+    quality: 106
     images:
-      - url: "https://i.insider.com/607018a44d3e410018b702ab?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.insider.com/60681af2a7d803001963e9f8?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Matt Gaetz is employing Trump-style fundraising pitches — including automatic recurring contributions that could dupe donors"
+    excerpt: "An envelope. It indicates the ability to send an email. Embattled Rep. Matt Gaetz on Thursday asked his supporters for a little cash, Donald Trump style. Gaetz's re-election campaign committee is employing a controversial fundraising strategy similar to ..."
+    publishedDateTime: 2021-04-09T20:21:00Z
+    webUrl: "https://www.businessinsider.com/matt-gaetz-trump-fundraising-federal-investigation-2021-04"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
+    images:
+      - url: "https://i.insider.com/6070b3144943790018bb1bbb?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Matt Gaetz Update: Republican Congressman Wanted Pardon From Trump, Didn't Get It"
+    excerpt: "The New York Times on Wednesday reported that weeks before the end of Donald Trump's presidential term, Rep. Matt Gaetz, R-Fla., privately requested a blanket preemptive pardon, exacerbating recent allegations against Gaetz for sexual misconduct with a 17 ..."
+    publishedDateTime: 2021-04-07T19:35:00Z
+    webUrl: "https://www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534"
+    ampWebUrl: "https://www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/matt-gaetz-update-republican-congressman-wanted-pardon-trump-didnt-get-it-3176534?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/24/matt-gaetz-a-us-congressman-from-florida-addressed.jpg"
+        width: 1024
+        height: 534
         isCached: true
 
 secured: "q3riShSN1wYqpc3pBBsJ30OYnyJdWn7z0tdtGdDX/qvj0KAKElXLd6S1UfuGaBvP9WiuQ6Pusnm0Z7dxiaag/r47Yu1DZadD+udNVzQiqS5EuVQ9xOkAQVPcv5WuXRM3HEea2Eo/XSsYanQOMNvi5YGlSKq81w0cPiPkw2DWvoalNx2NqRO71STYi6LwF7K8XcQC/xehvdZeBFu+EYxJMn8Px0AZquAPFPAc477xKawU0aUqbo2XQKfmIa8R/JMmtjRFfAIR8vxoHQFo3/6bN010y9sG0rrFrHIMXqpMn7VcHE3fwspAuUFlnP1WjVfMkHvldTUfeE1Eaq68YSYDA1Z+blg4MzJ3qQKoZky5D0qyPHmXdB1iaNw69zb/w4/EhsOVdT0j7TfDAzHoM10ssAzvGy9V37IrkR8ea+VfCOR1C+LKJOtte/zBCDQXaW54EIlWFUjCkFQQXH0ghqnpC9irph/tg6LDFQ4sMPoezlcBS+KVgIX1jvoc2CDAmwGN790Wj+2O6vTS2QbYJztoaQ==;b2M2clCHEKARgno+vEhNjg=="

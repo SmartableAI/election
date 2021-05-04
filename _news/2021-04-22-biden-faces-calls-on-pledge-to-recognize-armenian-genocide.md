@@ -31,53 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden civil rights nominee fends off Republican attacks at hearing"
-    excerpt: "Kristen Clarke, President Joe Biden's nominee to lead the Justice Department's civil rights division, fended off attacks from Republicans during her confirmation hearing on Wednesday, saying she does not support defunding the police while promising to find common"
-    publishedDateTime: 2021-04-15T14:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-senate-justice-idUSKBN2C118D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C118D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C118D"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210414&t=2&i=1558407501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3D0KH"
-        width: 825
-        height: 545
-        isCached: true
-  - title: "Biden praying for 'right verdict' in Chauvin trial"
-    excerpt: "President Joe Biden says he is “praying the verdict is the right verdict” in the trial of former Minneapolis Police Officer Derek Chauvin and that he believes the case to be “overwhelming.”"
-    publishedDateTime: 2021-04-20T16:12:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/feds-weighing-respond-verdict-chauvin-trial-77180555"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/feds-weighing-respond-verdict-chauvin-trial-77180555"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/feds-weighing-respond-verdict-chauvin-trial-77180555"
+  - title: "AP sources: Biden to pledge halving greenhouse gases by 2030"
+    excerpt: "President Joe Biden will pledge to cut U.S. greenhouse gas emissions at least in half by 2030 as he convenes a virtual climate summit with 40 world leaders"
+    publishedDateTime: 2021-04-21T14:01:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-sources-biden-pledge-halving-greenhouse-gases-2030-77214769"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_1fe7eb0b138b4ec7aedff414479335c6_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_72bb4a2d95044868a55d724a16676fed_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Biden thinks bar is too high for convicting violent cops"
-    excerpt: "President Joe Biden thinks \"the bar is too high\" for convicting violent U.S. police officers and will use his speech to Congress next week to push for reform, a spokeswoman said on Wednesday."
-    publishedDateTime: 2021-04-21T20:49:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-police-speech-idUSKBN2C82JH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C82JH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C82JH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210421&t=2&i=1559434547&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3K1D2"
-        width: 817
-        height: 545
         isCached: true
   - title: "House Dems to unveil drug pricing measure ahead of Biden package"
     excerpt: "House Democrats are preparing to reintroduce major legislation to lower drug prices ahead of President Biden's unveiling of his American Families Plan, which could include the proposals."
@@ -95,22 +63,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Joe Biden set to formally recognize Armenian genocide, officials say"
-    excerpt: "The anticipated move could further complicate an already tense relation ship with Recep Tayyip Erdoğan, the Turkish leader"
-    publishedDateTime: 2021-04-22T01:07:00Z
-    webUrl: "https://www.theguardian.com/world/2021/apr/21/armenian-genocide-joe-biden-turkey"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/apr/21/armenian-genocide-joe-biden-turkey"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/apr/21/armenian-genocide-joe-biden-turkey"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/b09bdf44026e9271b38ad06a8aebd9354494cd6f/0_287_5154_3092/master/5154.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=05faf750e55bc3fcccf41810ce45f18a"
-        width: 600
-        height: 360
-        isCached: true
   - title: "NRA launches $2 million campaign to oppose Biden gun-control agenda"
     excerpt: "Tell Joe Manchin to reject President Biden’s extreme gun-control agenda,” the ads say, targeted to each state’s senators. As pictures of Biden, House Speaker Nancy Pelosi"
     publishedDateTime: 2021-04-21T22:47:00Z
@@ -127,21 +79,21 @@ related:
         width: 1440
         height: 959
         isCached: true
-  - title: "What Joe Biden Has Said About Armenian Genocide"
-    excerpt: "The president promised on the campaign trail to back a resolution calling the mass killings an act of genocide."
-    publishedDateTime: 2021-04-22T07:29:00Z
-    webUrl: "https://www.newsweek.com/what-joe-biden-has-said-armenian-genocide-1585587"
-    ampWebUrl: "https://www.newsweek.com/what-joe-biden-has-said-armenian-genocide-1585587?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-joe-biden-has-said-armenian-genocide-1585587?amp=1"
+  - title: "Biden seeks to slash carbon emissions in half by 2030"
+    excerpt: "President Biden on Thursday announced a new goal on greenhouse gas emissions -- calling on the U.S., by 2030, to slash emissions by 50-52%."
+    publishedDateTime: 2021-04-22T18:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-seeks-slash-carbon-emissions-half-2030/story?id=77228372"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-seeks-slash-carbon-emissions-half-2030/story?id=77228372"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-seeks-slash-carbon-emissions-half-2030/story?id=77228372"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1781435/joe-biden-white-house.jpg"
-        width: 1024
-        height: 683
+      - url: "https://s.abcnews.com/images/Politics/biden-ap-ml-210422_1619094447977_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "US President Joe Biden to 'propose hiking tax on rich'"
     excerpt: "US President Joe Biden is reportedly set to propose a tax hike on the wealthiest Americans. The proposal would raise the top marginal rate and increase taxes on investment gains for the rich. The tax rise would help pay for childcare and education,"
@@ -159,6 +111,54 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden's first address to Congress is invite-only"
+    excerpt: "Only invited members of Congress will be allowed to attend President Biden's address to a Joint Session of Congress on Wednesday, and the event \"will be invitation-only for a limited number of members of Congress,"
+    publishedDateTime: 2021-04-24T11:07:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-speech-joint-session-congress-invite-only/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-speech-joint-session-congress-invite-only/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-speech-joint-session-congress-invite-only/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/23/ab8ef0e0-16b8-48e8-b2fe-3232ed54766b/thumbnail/1200x630/24c3ca048ad637f5d5327bc25562f187/gettyimages-1232457998.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cooling the temperature: Biden faces fractious Congress"
+    excerpt: "Trust between Republicans and Democrats on Capitol Hill has cratered as Joe Biden prepares to address House and Senate lawmakers for the first time in his presidency"
+    publishedDateTime: 2021-04-27T15:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/cooling-the-temperature-biden-faces-fractious-congress/2021/04/27/5f4b7262-a70f-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/cooling-the-temperature-biden-faces-fractious-congress/2021/04/27/5f4b7262-a70f-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/cooling-the-temperature-biden-faces-fractious-congress/2021/04/27/5f4b7262-a70f-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EOHRBZVHBUI6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Live Updates: President Biden addresses a joint session of Congress"
+    excerpt: "President Biden will give his first address before a joint session of Congress on Wednesday, shortly before he will conclude his first 100 days in office. Mr. Biden is expected to outline his American Families Plan,"
+    publishedDateTime: 2021-04-28T23:05:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/biden-speech-congress-joint-session/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/biden-speech-congress-joint-session/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/biden-speech-congress-joint-session/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/28/3753a8ea-1a92-4a42-b872-94de9daa6dde/thumbnail/1200x630/5ee41c6fe91cd14e0a60fe24dca73e0b/gettyimages-1314888185.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Why Are Flags at Half-Staff Today? President Joe Biden's Order Explained"
     excerpt: "President Joe Biden issued a national half-staff proclamation to honor the memory of those killed in FedEx shooting. The president issued the proclamation on Frid"
     publishedDateTime: 2021-04-18T11:58:00Z
@@ -175,149 +175,69 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden to meet with members of Congress over his infrastructure plan – live"
-    excerpt: "Latest example of White House officials or the president himself meeting with members of Congress as they try and move Biden’s agenda"
-    publishedDateTime: 2021-04-19T13:45:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live?page=with:block-607d8c048f08505668d94a1e"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/824475ebfb30f1464b3aa3f4f46d1b8fd4f5a908/364_429_6330_3798/master/6330.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0dda74eceece7f858c8f40878c5a265e"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Yoshihide Suga Affirms 'Tight Bond' Between U.S., Japan In Visit with Joe Biden"
-    excerpt: "Japanese Prime Minister Yoshihide Suga praised a continuing \"bond\" between Japan and the United States during his first visit to Washington D.C. since President Joe Biden took office. Speaking to reporters before meeting with Biden at the White House,"
-    publishedDateTime: 2021-04-16T22:17:00Z
-    webUrl: "https://www.newsweek.com/yoshihide-suga-affirms-tight-bond-between-us-japan-visit-joe-biden-1584356"
-    ampWebUrl: "https://www.newsweek.com/yoshihide-suga-affirms-tight-bond-between-us-japan-visit-joe-biden-1584356?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/yoshihide-suga-affirms-tight-bond-between-us-japan-visit-joe-biden-1584356?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
-    images:
-      - url: "https://d.newsweek.com/en/full/1779263/biden-yoshihide-suga-white-house.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden says he’s willing ‘to compromise’ with Republicans on infrastructure bill – live"
-    excerpt: "President meets with a bipartisan group of lawmakers and says ‘I am prepared to compromise’"
-    publishedDateTime: 2021-04-19T23:24:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live?page=with:block-607d9b868f08a84aa59179e9"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/19/joe-biden-infrastructure-plan-covid-coronavirus-latest-updates-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 117
-    images:
-      - url: "https://i.guim.co.uk/img/media/824475ebfb30f1464b3aa3f4f46d1b8fd4f5a908/364_429_6330_3798/master/6330.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0dda74eceece7f858c8f40878c5a265e"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Roberta Jacobson, senior Biden official overseeing border, stepping down at end of month"
-    excerpt: "In his statement, Sullivan suggested that Vice President Kamala Harris, who President Joe Biden chose to deal with migration from Central America, will pick up some of Jacobson's portfolio."
-    publishedDateTime: 2021-04-09T22:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/roberta-jacobson-senior-biden-official-overseeing-border-stepping/story?id=76984133"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/roberta-jacobson-senior-biden-official-overseeing-border-stepping/story?id=76984133"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/roberta-jacobson-senior-biden-official-overseeing-border-stepping/story?id=76984133"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 116
-    images:
-      - url: "https://s.abcnews.com/images/Politics/roberta-jacobson-gty-jc-210409_1618009006290_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden budget provides funding for DOJ to address 'national reckoning on racial inequality'"
-    excerpt: "President Biden’s first budget includes significant investments in policing reforms and civil rights, calling on the Department of Justice (DOJ) to spearhead efforts to address systemic racism along w"
-    publishedDateTime: 2021-04-09T16:07:00Z
-    webUrl: "https://thehill.com/policy/national-security/547365-budget-tasks-doj-with-turnaround-in-policing-hate-crimes-and-voter"
-    ampWebUrl: "https://thehill.com/policy/national-security/547365-budget-tasks-doj-with-turnaround-in-policing-hate-crimes-and-voter?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/547365-budget-tasks-doj-with-turnaround-in-policing-hate-crimes-and-voter?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 115
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_garlandemotionalhearing_022221getty.jpg"
-        width: 1440
-        height: 880
-        isCached: true
-  - title: "Biden was tough on drugs for decades. Now he faces challenges in fighting money laundering"
-    excerpt: "The Biden administration has a long road ahead to tackle the hundreds of billions of dollars in narcotics-related profits laundered in the U.S."
-    publishedDateTime: 2021-04-18T09:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/18/president-joe-biden-faces-challenges-fighting-drug-related-financial-crime/7212189002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7212189002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7212189002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/16/USAT/63b2ea62-aa0c-433c-8655-e43e31290498-1410384318000-AP_Fashion_District_Raid.1.jpg?auto=webp&crop=3263,1836,x0,y229&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Republicans unveil $568 billion infrastructure package to counter Biden's $2.3 trillion plan"
-    excerpt: "U.S. Senate Republicans on Thursday put forward their version of an infrastructure package that would spend $568 billion over five years in a response to Democratic U.S. President Joe Biden's $2.3 trillion proposal."
-    publishedDateTime: 2021-04-22T20:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-congress-infrastructure-republica-idUSKBN2C92BK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C92BK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C92BK"
+  - title: "Power companies urge Biden to implement policies to cut emissions 80% by 2030"
+    excerpt: "A group of U.S. electricity companies wrote to President Joe Biden this week saying it will work with his administration and Congress to design a broad set of policies to reach a near-term goal of slashing the sector's carbon emissions by 2030."
+    publishedDateTime: 2021-04-17T15:38:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-climate-electricity-idCAKBN2C40DP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2C40DP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2C40DP"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 114
+    quality: 122
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210422&t=2&i=1559564512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3L156"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210417&t=2&i=1558873837&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3G07K"
         width: 817
         height: 545
         isCached: true
-  - title: "As Biden approaches 100th day in office, Republicans admit difficulties in attacking his agenda"
-    excerpt: "Biden has been unrelenting in his view that now is the time for bold change in America, and so far, Republicans have largely been unable to stop him."
-    publishedDateTime: 2021-04-17T21:09:00Z
-    webUrl: "https://www.businessinsider.com/biden-100-days-legislative-agenda-republican-party-attacks-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/biden-100-days-legislative-agenda-republican-party-attacks-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-100-days-legislative-agenda-republican-party-attacks-2021-4?amp"
+  - title: "Biden to push trillions in investment, plead for police reform in Congress speech"
+    excerpt: "U.S. President Joe Biden plans to unveil a sweeping $1.8 trillion package for families and education in his first joint speech to Congress on Wednesday, as he stresses the need to invest to compete with China,"
+    publishedDateTime: 2021-04-28T13:01:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idUSKBN2CF116"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CF116"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CF116"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210428&t=2&i=1560198883&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3R0GV"
+        width: 794
+        height: 545
+        isCached: true
+  - title: "Democrats urge Biden to stop using local police to enforce federal immigration law"
+    excerpt: "The lawmakers say the use of local law enforcement has undermined public safety by making immigrants afraid to report crimes."
+    publishedDateTime: 2021-04-22T22:06:00Z
+    webUrl: "https://www.businessinsider.com/democrats-urge-biden-stop-using-local-police-enforce-immigration-law-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/democrats-urge-biden-stop-using-local-police-enforce-immigration-law-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/democrats-urge-biden-stop-using-local-police-enforce-immigration-law-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 113
+    quality: 119
     images:
-      - url: "https://i.insider.com/607b3fc774da0300181e252f?width=1200&format=jpeg"
+      - url: "https://i.insider.com/6081dbc04becb800190f6a35?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Sikh Coalition urges Biden to appoint Sikh American liaison in wake of Indianapolis FedEx shooting"
-    excerpt: "In the wake of the FedEx shooting that left eight people dead, including four members of the Sikh community, the Sikh Coalition wants President Joe Biden’s administration to enact policies to address “long standing challenges” impacting Sikh Americans."
-    publishedDateTime: 2021-04-20T16:03:00Z
-    webUrl: "https://www.washingtonpost.com/religion/sikh-coalition-urges-biden-to-appoint-sikh-american-liaison-in-wake-of-indianapolis-fedex-shooting/2021/04/20/4463d01c-a1fa-11eb-b314-2e993bd83e31_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/religion/sikh-coalition-urges-biden-to-appoint-sikh-american-liaison-in-wake-of-indianapolis-fedex-shooting/2021/04/20/4463d01c-a1fa-11eb-b314-2e993bd83e31_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/sikh-coalition-urges-biden-to-appoint-sikh-american-liaison-in-wake-of-indianapolis-fedex-shooting/2021/04/20/4463d01c-a1fa-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+  - title: "President Biden urges businesses to use paid leave to help workers get COVID-19 vaccines"
+    excerpt: "President Joe Biden urged businesses to help workers get vaccinated while announcing he met early the goal of 200 million shots in 100 days."
+    publishedDateTime: 2021-04-21T20:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/21/biden-announce-meeting-goal-200-million-covid-19-shots/7317454002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7317454002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7317454002"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 111
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.gannett-cdn.com/presto/2021/04/06/USAT/fa33ba7c-c6c9-4f0e-b205-413e952eb5a5-AP_Biden_1.jpg?auto=webp&crop=4281,2409,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Mexico Plans Tree Planting, Regional Migration Pitch to Biden"
     excerpt: "Mexico’s president will propose a regional agreement on migration to the U.S. this week and the expansion of his tree planting program to Central America as an option to provide order in the process of seeking entry to the U."
@@ -333,35 +253,58 @@ related:
         width: 1200
         height: 752
         isCached: true
-  - title: "'It was a murder in the full light of day': Biden"
-    excerpt: "Biden. Posted . U.S. President Joe Biden on Tuesday said the murder conviction of former Minneapolis policeman Derek Chauvin i"
-    publishedDateTime: 2021-04-21T01:05:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVE9C1CDB"
+  - title: "How Capital Gains Are Taxed and What Biden Wants to Do Now"
+    excerpt: "Capital gains taxes are the price of making a good investment. They’re levied on profitable stock trades and real estate deals and also can apply to sales of businesses, pieces of art, collectible cars,"
+    publishedDateTime: 2021-04-22T18:45:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-capital-gains-are-taxed-and-what-biden-wants-to-do-now/2021/04/22/875a2aa6-a399-11eb-b314-2e993bd83e31_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QYXRHCVDTEI6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 1080
+        isCached: true
+  - title: "Restoring service central to Biden's postal board nominees"
+    excerpt: "President Joe Biden's of the U.S. Postal Service pledged Thursday to rebuild trust with the American public through prompt deliveries, as they outlined a vison for the agency in their first formal statements to lawmakers."
+    publishedDateTime: 2021-04-22T19:15:00Z
+    webUrl: "https://www.businessinsider.com/restoring-service-central-to-bidens-postal-board-nominees-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/restoring-service-central-to-bidens-postal-board-nominees-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/restoring-service-central-to-bidens-postal-board-nominees-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "China 'closing in fast,' Biden warns Congress"
+    excerpt: "Top News China 'closing in fast,' Biden warns Congress. Posted . President Joe Biden proposed a sweeping new $1.8 trillion plan in a speech to a joint session of Congress on Wedne"
+    publishedDateTime: 2021-04-29T06:06:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEAFZUN3"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210421&i=OVE9C1CDB&r=OVE9C1CDB&t=2"
+      - url: "https://static.reuters.com/resources/r/?d=20210429&i=OVEAFZUN3&r=OVEAFZUN3&t=2"
         width: 960
         height: 540
         isCached: true
-  - title: "Biden says he's 'prepared to compromise' on infrastructure plan during meeting with bipartisan group of lawmakers"
-    excerpt: "Biden and Transportation Secretary Pete Buttigieg met with lawmakers in an effort to gain support for an infrastructure plan that Republicans rebuked."
-    publishedDateTime: 2021-04-20T13:58:00Z
-    webUrl: "https://www.businessinsider.com/biden-tells-lawmakers-hes-prepared-to-compromise-on-infrastructure-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/biden-tells-lawmakers-hes-prepared-to-compromise-on-infrastructure-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-tells-lawmakers-hes-prepared-to-compromise-on-infrastructure-2021-4?amp"
+  - title: "'Existential crisis of our time': Joe Biden pledges to halve US emissions by 2030 – video"
+    excerpt: "The goal, unveiled at the start of a two-day climate summit hosted by President Joe Biden, comes as the United States seeks to reclaim global leadership in the fight against global warming after former president Donald Trump withdrew the country from international efforts to cut emissions."
+    publishedDateTime: 2021-04-22T12:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/apr/22/joe-biden-us-emissions-pledge-climate-summit"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
+      name: The Guardian
+      domain: theguardian.com
+    quality: 96
     images:
-      - url: "https://i.insider.com/607e29fe74da0300181e29d9?width=1200&format=jpeg"
+      - url: "https://i.guim.co.uk/img/media/c08fbea90e2a5f93a98cb8b9c96ab96236eae02b/0_150_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b7c1c0ced33c0d8c62508ab5a7f77dc"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
   - title: "Imagine a 20-car motorcade taking you to dinner. That's the White House bubble Joe Biden now finds himself living in."
     excerpt: "White House living isn't quite that simple for any president. Joe Biden has described it as \"a little like a gilded cage.\""
@@ -376,52 +319,6 @@ related:
       - url: "https://i.insider.com/6079ec3674da0300181e23a3?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Evidently, Jen Psaki’s Job Is to Pretend Joe Biden Didn’t Say What Everybody Heard Him Say"
-    excerpt: "How is Biden saying he is praying for ‘the right verdict’ and offering that the ‘evidence is overwhelming’ not an example of weighing in on the Chauvin verdict?"
-    publishedDateTime: 2021-04-20T17:57:00Z
-    webUrl: "https://www.nationalreview.com/corner/evidently-jen-psakis-job-is-to-pretend-joe-biden-didnt-say-what-everybody-heard-him-say/"
-    ampWebUrl: "https://www.nationalreview.com/corner/evidently-jen-psakis-job-is-to-pretend-joe-biden-didnt-say-what-everybody-heard-him-say/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/evidently-jen-psakis-job-is-to-pretend-joe-biden-didnt-say-what-everybody-heard-him-say/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 65
-    images:
-      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2021/04/psaki.jpg?fit=1200%2C700&ssl=1"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "U.S. President Joe Biden Departs For Wilmington, Delaware"
-    excerpt: "Marine One, carrying U.S. President Joe Biden, departs the Ellipse of the White House in Washington, DC on Friday, April 16, 2021. Biden will travel to Wilmington, Delaware for the weekend. Photo by S"
-    publishedDateTime: 2021-04-16T23:56:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/bd28193e88e83e91050bc266b436a2c4/US-President-Joe-Biden-Departs-For-Wilmington-Delaware/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/bd28193e88e83e91050bc266b436a2c4/BIDEN-DEPARTS.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "President Joe Biden pouring $1.7 billion into fighting COVID-19 variants as ‘nearly half of all cases’ are mutant strains"
-    excerpt: "Officials hope the funds will help authorities and their private sector partners detect COVID variants faster."
-    publishedDateTime: 2021-04-16T16:55:00Z
-    webUrl: "https://www.masslive.com/coronavirus/2021/04/president-joe-biden-pouring-17-billion-into-fighting-covid-19-variants-as-nearly-half-of-all-cases-are-mutant-strains.html"
-    ampWebUrl: "https://www.masslive.com/coronavirus/2021/04/president-joe-biden-pouring-17-billion-into-fighting-covid-19-variants-as-nearly-half-of-all-cases-are-mutant-strains.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2021/04/president-joe-biden-pouring-17-billion-into-fighting-covid-19-variants-as-nearly-half-of-all-cases-are-mutant-strains.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 50
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PDKSO3CFJJH4TKEOBX6PP7KRNI.jpg"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "oSIOT5gsnDtEj9W93/mrvK/VcWaacXIXiW1NUVvA6T90M6QfspoUW9pWYrqv9hs+YBmotK4WgAr6Fc7ch2qZXEODA+1GdTSVJXdP6IkFszsVJ1Ydjg/IeX6liOOZgavQ2dfMuLNLkcFpndUFp9Jz2/iIWRDHbasE34nLO+ROMQd/77wUqUIa390oG1BN658v861nYo4ZMv1IJDNI1MGlJMAABQSDY/6hVYairn8F6afwRAbJQ9rTL9SF1fuhXQxspqWpdxrNr27dADKGmsUZA8NMRfk7dFlX9UtkS+H6zE9LADtVuaaWJ95i2QMqeIJz26I0dep51K4Qy7mXSk5O6O60B+mXr46TAju1bvfoGZnjwrbJzV9gkJDudbwgXHus90KGqsIrVzGts1P8O3DOzx11sRwSN51mOwDT9Y2bsTRQ4Vqsr3byGU/072hHZw+sDOvj00/2MBekj1EKQdJapZStgg12hPCBbIYxt7knQ1K8vEOAP56Z2GhuKJrweC3kdaKy4EIKGnjrn1bGJVwZDA==;CkQ2PaOaewwbclfze+WIOw=="

@@ -2,367 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-04-06-trumps-mar-a-lago-charged-secret-service-almost-16000-for-396-hotel-rooms-during-presidential-christmas-trip.md",
-      "title": "Trump's Mar-a-Lago charged Secret Service almost $16,000 for $396 hotel rooms during presidential Christmas trip",
-      "excerpt": "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former President Donald Trump's Mar-a-Lago resort in Palm Beach, Florida, raked in $15,846 in US taxpayer money by charging the Secret Service $396 a night for hotel rooms during a Christmas trip, The Washington ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trumps-mar-a-lago-secret-service-396-night-for-hotel-2021-4",
-      "originalUrl": "https://www.businessinsider.com/trumps-mar-a-lago-secret-service-396-night-for-hotel-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/606b59a1a7d803001963ec9c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trumps-mar-a-lago-secret-service-396-night-for-hotel-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-mar-a-lago-secret-service-396-night-for-hotel-2021-4?amp",
-      "publishedDateTime": "2021-04-05T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-supreme-court-dismisses-trump-twitter-case-as-moot-as-thomas-highlights-glaring-concern-of-platforms-power.md",
-      "title": "Supreme Court dismisses Trump Twitter case as moot, as Thomas highlights 'glaring concern' of platform's power",
-      "excerpt": "The Supreme Court on Monday deemed former President Donald Trump's appeal of a ruling that said it was unconstitutional for him to block critics, deeming his page to be a protected public forum. The court called for the case to be dismissed, as Trump is no ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot",
-      "originalUrl": "https://www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/293bed5e-ef2c-4f3b-a18d-a7c565bbef69/1133c664-0b35-4f1f-9163-666f52e5e1dd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-dismisses-trump-twitter-case-moot.amp",
-      "publishedDateTime": "2021-04-05T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-trump-melania-met-with-cheers-at-easter-church-service-in-florida.md",
-      "title": "Trump, Melania met with cheers at Easter church service in Florida",
-      "excerpt": "Former President Donald Trump and former First Lady Melania Trump spent their Easter in Florida, attending church before spending time with family at an Easter egg roll at their Mar-a-Lago estate.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/05/trump-melania-met-with-cheers-at-easter-church-service-in-florida/",
-      "originalUrl": "https://nypost.com/2021/04/05/trump-melania-met-with-cheers-at-easter-church-service-in-florida/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-easter-82.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/05/trump-melania-met-with-cheers-at-easter-church-service-in-florida/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/05/trump-melania-met-with-cheers-at-easter-church-service-in-florida/amp/",
-      "publishedDateTime": "2021-04-05T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-conservative-writer-says-trumps-save-america-pac-is-hurting-his-supporters.md",
-      "title": "Conservative writer says Trump's Save America PAC is hurting his supporters",
-      "excerpt": "Pedro Gonzalez, assistant editor of the conservative website American Greatness, told Hill.TV that former President Trump Donald Trump Lawmakers say fixing border crisis is Biden's job Trump calls ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/hilltv/rising/546185-conservative-writer-says-trumps-save-america-pac-is-hurting-his-supporters",
-      "originalUrl": "https://thehill.com/hilltv/rising/546185-conservative-writer-says-trumps-save-america-pac-is-hurting-his-supporters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_110120getty_memo.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/hilltv/rising/546185-conservative-writer-says-trumps-save-america-pac-is-hurting-his-supporters?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/546185-conservative-writer-says-trumps-save-america-pac-is-hurting-his-supporters?amp",
-      "publishedDateTime": "2021-04-04T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-radical-left-crazies-trump-issues-easter-greetings-by-attacking-political-rivals-griping-about-election-loss.md",
-      "title": "'Radical Left CRAZIES:' Trump issues Easter greetings by attacking political rivals, griping about election loss",
-      "excerpt": "WASHINGTON – Former President Donald Trump marked Easter weekend by attacking his political enemies, repeating false claims about the election, and calling for a boycott of Major League Baseball and other corporations that oppose Georgia's new election law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/04/04/crazies-donald-trump-issues-easter-greetings-attacking-rivals/7082849002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/04/04/crazies-donald-trump-issues-easter-greetings-attacking-rivals/7082849002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/04/01/USAT/02bf48df-af87-473d-bca5-45a58a3be411-AP_Trump.1.jpg?auto=webp&crop=4239,2385,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7082849002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7082849002",
-      "publishedDateTime": "2021-04-04T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-trump-blasted-by-former-staffer-miles-taylor-for-deceptive-fundraising-payment-scheme.md",
-      "title": "Trump Blasted by Former Staffer Miles Taylor for Deceptive Fundraising Payment Scheme",
-      "excerpt": "Above, Donald Trump speaks during the Conservative Political Action Conference (CPAC) on February 28, 2021 in Orlando, Florida. Joe Raedle/Getty Images \"And to raid someone of their money at the end of their life has got to add onto that hardship for the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952",
-      "originalUrl": "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1771467/donald-trump-miles-taylor-election.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952?amp=1",
-      "publishedDateTime": "2021-04-04T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-donald-trump-sends-out-easter-wishes-and-swipes-radical-left-crazies.md",
-      "title": "Donald Trump sends out Easter wishes – and swipes ‘Radical Left CRAZIES’",
-      "excerpt": "Former President Donald Trump said “Happy Easter” in his own way on Sunday — linking his holiday wishes to his claims of election fraud. “ Happy Easter to ALL, including the Radical Left ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/04/donald-trump-wishes-happy-easter-to-all-including-radical-left-crazies/",
-      "originalUrl": "https://nypost.com/2021/04/04/donald-trump-wishes-happy-easter-to-all-including-radical-left-crazies/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-005.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/04/donald-trump-wishes-happy-easter-to-all-including-radical-left-crazies/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/04/donald-trump-wishes-happy-easter-to-all-including-radical-left-crazies/amp/",
-      "publishedDateTime": "2021-04-04T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-04-mazie-hirono-rips-kavanaugh-other-trump-supreme-court-picks-as-she-promotes-new-memoir.md",
       "title": "Mazie Hirono rips Kavanaugh, other Trump Supreme Court picks, as she promotes new memoir",
       "excerpt": "\"In my view, he’s not a very good lawyer.\" She also criticized Justice Neil Gorsuch, who, like Kavanaugh, was nominated by former President Trump. She accused Gorsuch of making some \"really stupid decisions\" because he’s so \"literal\" about the law.",
@@ -1272,7 +911,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2021/mar/31/facebook-donald-trump-video-clip-removed",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1485,7 +1124,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-capitol-riots-lawsuit/two-capitol-police-officers-sue-trump-over-jan-6-riots-idUSKBN2BN1RC",
       "featuredContent": null,
       "highlight": null,
-      "heat": 505,
+      "heat": 525,
       "tags": null,
       "images": [
         {
@@ -1559,6 +1198,385 @@
         "name": "New York Magazine",
         "domain": "nymag.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-trump-advisor-peter-navarro-went-on-a-wild-rant-on-fox-news-calling-fauci-the-father-of-the-coronavirus.md",
+      "title": "Trump advisor Peter Navarro went on a wild rant on Fox News, calling Fauci the 'father' of the coronavirus",
+      "excerpt": "Navarro, who served as a trade advisor in President Donald Trump's White House, was asked by Fox News host Rachel Campos-Duffy for his thoughts on Fauci's saying that the decision to start trying to make a coronavirus vaccine in January 2020 \"may have been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3",
+      "originalUrl": "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6064514b6183e1001981972d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/peter-navarro-trump-advisor-calls-fauci-father-of-coronavirus-fox-news-rant-2021-3?amp",
+      "publishedDateTime": "2021-03-31T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-trump-ally-matt-gaetz-say-he-faces-federal-investigation-regarding-sexual-conduct.md",
+      "title": "Trump ally Matt Gaetz say he faces federal investigation 'regarding sexual conduct'",
+      "excerpt": "Florida Republican congressman says he has never had sexual relationship with underage girl Matt Gaetz, a prominent Republican in Congress and a close ally of Donald Trump, said on Tuesday he was being investigated by the justice department over a former ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e19abbddbb06134f5509b2b4af66e4186711a8d8/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3b3f2957a9a90f90582890cf4af0d18a",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
+      "publishedDateTime": "2021-03-30T17:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-trump-endorses-drew-mckissick-over-lin-wood-for-south-carolina-gop-chair.md",
+      "title": "Trump endorses Drew McKissick over Lin Wood for South Carolina GOP chair",
+      "excerpt": "Former President Donald Trump affirmed his endorsement of longtime ally Drew McKissick in his bid for re-election as South Carolina GOP chairman on Tuesday, shortly after attorney Lin Wood announced his intent to challenge him for the position. \"Drew ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair",
+      "originalUrl": "https://www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Lin-Wood-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-drew-mckissick-over-lin-wood-sc-gop-chair.amp",
+      "publishedDateTime": "2021-03-30T16:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-dems-call-for-firings-of-trump-era-holdovers-in-ssa-over-stimulus-check-delays.md",
+      "title": "Dems call for firings of Trump-era holdovers in SSA over stimulus check delays",
+      "excerpt": "The lawmakers blamed Saul -- who was nominated by former President Donald Trump -- for the delays, which they said defied congressional intent and imposed needless anxiety on taxpayers. Saul, in a statement Thursday night, attributed the delay to a lack of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays",
+      "originalUrl": "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/jaypal-cropped-153a.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-call-firings-trump-era-holdovers-ssa-stimulus-check-delays.amp",
+      "publishedDateTime": "2021-03-30T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-schaumburg-businessman-gary-rabine-supporter-of-trump-and-conservative-causes-launches-bid-for-gop-nomination-for-governor.md",
+      "title": "Schaumburg businessman Gary Rabine, supporter of Trump and conservative causes, launches bid for GOP nomination for governor",
+      "excerpt": "Northwest suburban businessman Gary Rabine, an ardent supporter of Donald Trump who turned his family’s driveway paving business into a multimillion-dollar business services group, on Tuesday announced his bid for the Republican nomination for governor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/politics/ct-gary-rabine-illinois-governor-20210330-j3jbt7igyzcxthf5vb2cvkftne-story.html",
+      "originalUrl": "https://www.chicagotribune.com/politics/ct-gary-rabine-illinois-governor-20210330-j3jbt7igyzcxthf5vb2cvkftne-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/4v9-IzGkB5Y-p7ocfeJGUF0QR1w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZEQ2XBXQLNA3VD63AWEE663BWY.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/politics/ct-gary-rabine-illinois-governor-20210330-j3jbt7igyzcxthf5vb2cvkftne-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-gary-rabine-illinois-governor-20210330-j3jbt7igyzcxthf5vb2cvkftne-story.html?outputType=amp",
+      "publishedDateTime": "2021-03-30T12:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-court-lets-ex-apprentice-contestants-defamation-suit-vs-trump-proceed-again.md",
+      "title": "Court lets ex-'Apprentice' contestant's defamation suit vs. Trump proceed again",
+      "excerpt": "NEW YORK — Former President Donald Trump could face questioning under oath about a former “Apprentice” contestant's sexual assault allegations against him, following a ruling from New York's highest court Tuesday. Evidence-gathering has been on hold ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/court-lets-ex-apprentice-contestant-s-defamation-suit-vs-trump-n1262494",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/court-lets-ex-apprentice-contestant-s-defamation-suit-vs-trump-n1262494",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_13/3460820/210330-summer-zervos-jm-1439_7f50bec42ce1680f710a53fe0880bf1c.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262494",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262494",
+      "publishedDateTime": "2021-03-30T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-donald-trump-uses-new-website-to-rewrite-history-of-his-presidency.md",
+      "title": "Donald Trump uses new website to rewrite history of his presidency",
+      "excerpt": "Narrative omits two impeachments, economic crash, Covid death toll and riot that marked end of his term Last modified on Tue 30 Mar 2021 15.23 EDT Donald Trump has launched a new website celebrating his time as US president that includes a very selective ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 405,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/4146d99f233c90973e78cde7b63a6c6c5a1791c9/0_78_3782_2271/master/3782.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ff3ad7f46a5f42688e61518116702f35",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency",
+      "publishedDateTime": "2021-03-30T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

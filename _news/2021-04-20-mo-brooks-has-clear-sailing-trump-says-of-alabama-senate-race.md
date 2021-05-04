@@ -27,79 +27,111 @@ images:
     isCached: true
 
 related:
-  - title: "Lara Trump is wild card in North Carolina Senate race"
-    excerpt: "Former President Trump’s daughter-in-law Lara Trump is looming over the Republican Senate primary in North Carolina as the field grows with some of the state’s biggest GOP names."
-    publishedDateTime: 2021-04-22T10:00:00Z
-    webUrl: "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race"
-    ampWebUrl: "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumplara_082620getty_camp.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Senate votes to reinstate methane rules loosened by Trump"
-    excerpt: "Congressional Democrats are moving to reinstate regulations designed to limit potent greenhouse gas emissions from oil and gas fields"
-    publishedDateTime: 2021-04-28T21:56:00Z
-    webUrl: "https://www.washingtonpost.com/politics/democrats-move-to-reinstate-methane-rules-loosened-by-trump/2021/04/28/4e64a9a4-a7d8-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/democrats-move-to-reinstate-methane-rules-loosened-by-trump/2021/04/28/4e64a9a4-a7d8-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/democrats-move-to-reinstate-methane-rules-loosened-by-trump/2021/04/28/4e64a9a4-a7d8-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+  - title: "Trump endorses Alabama’s Mo Brooks for Senate, a promoter of his false claims of a stolen election"
+    excerpt: "Trump’s early endorsement is a major boost to Brooks, who has operated on the rightmost edge of the Republican Party during his time in the House."
+    publishedDateTime: 2021-04-07T23:18:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 126
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J6YEKLFH2YI6XKFHL5C53TPTMQ.jpg&w=1440"
-        width: 1176
-        height: 784
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UVYMERCV74I6XKJRLMLC2DIDHU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "US Senate votes to reinstate methane rules loosened by Trump"
-    excerpt: "Congressional Democrats are moving to reinstate regulations designed to limit potent greenhouse gas emissions from oil and gas fields"
-    publishedDateTime: 2021-04-29T12:38:00Z
-    webUrl: "https://www.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
-    ampWebUrl: "https://amp.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
+  - title: "Donald Trump Endorses Marco Rubio, Says He'll Never Let Country Down"
+    excerpt: "Former President Donald Trump has endorsed Senator Marco Rubio (R-FL) in a post on the messaging service Telegram on Friday morning. \"It is my honor to give U.S. Senator Marco Rubio my Complete and Total Endorsement,\" Trump wrote. \"Marco has been a ..."
+    publishedDateTime: 2021-04-09T13:04:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326?amp=1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/9028a5acafbbc71e738c040c43f59f5bac5873c9/0_274_8192_4915/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e8905907090ebd6c75b239f4e275576"
-        width: 600
-        height: 360
+      - url: "https://d.newsweek.com/en/full/1774461/trump-marco-rubio-other-senators.jpg"
+        width: 3000
+        height: 2000
         isCached: true
-  - title: "Former WWE wrestler, Trump administration officials and congressman's widow are among 23 candidates in Texas House race"
-    excerpt: "The crowded May race, with 23 candidates, could give Republicans an early look at Trump's staying power in the GOP."
-    publishedDateTime: 2021-04-20T16:43:00Z
-    webUrl: "https://www.cbsnews.com/news/texas-6th-district-special-election-candidates/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/texas-6th-district-special-election-candidates/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/texas-6th-district-special-election-candidates/"
+  - title: "Anti-Trump Republican Michael Wood Endorsed for House Seat by Texas' Biggest Newspaper"
+    excerpt: "Michael Wood, an anti–Donald Trump Republican who is running in a special election in Texas, was just endorsed by the state's biggest newspaper. The Dallas Morning News Monday recommended Wood to represent the 6th Congressional District. The endorsement ..."
+    publishedDateTime: 2021-04-05T16:06:00Z
+    webUrl: "https://www.newsweek.com/anti-trump-republican-michael-wood-endorsed-house-seat-texas-biggest-newspaper-1581026"
+    ampWebUrl: "https://www.newsweek.com/anti-trump-republican-michael-wood-endorsed-house-seat-texas-biggest-newspaper-1581026?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/anti-trump-republican-michael-wood-endorsed-house-seat-texas-biggest-newspaper-1581026?amp=1"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 101
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/06/224bf0c0-acf8-4eeb-a673-9440534ef418/thumbnail/1200x630/ebddaf808d5ce6944492d7092389d273/gettyimages-1133282164.jpg"
+      - url: "https://d.newsweek.com/en/full/1771634/michael-wood-texas-congressional-candidate.jpg"
+        width: 309
+        height: 292
+        isCached: true
+  - title: "Gaetz, under investigation for sex allegations, sought blanket pardon from Trump: Sources"
+    excerpt: "Congressman under investigation, claims extortion plot During the final weeks of President Donald Trump's administration, Republican Rep. Matt Gaetz asked the White House for a blanket ..."
+    publishedDateTime: 2021-04-07T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/gaetz-investigation-sex-allegations-sought-blanket-pardon-trump/story?id=76911923"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 96
+    images:
+      - url: "https://s.abcnews.com/images/Politics/matt-gaetz-donald-trump-01-ap-llr-210402_1617390326131_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump says Mo Brooks ‘has done a spectacular job … He’s a strong guy, a tough guy’"
+    excerpt: "Former President Donald Trump on Tuesday all but endorsed Alabama Congressman Mo Brooks in his bid to win a U.S. Senate seat next year. Appearing on the Newsmax program “American Agenda,” Trump heaped praise on Brooks when host Heather Childers brought ..."
+    publishedDateTime: 2021-04-07T11:01:00Z
+    webUrl: "https://www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html"
+    ampWebUrl: "https://www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBYBGAJFHRF7BMFXXOBPEV26OU.jpg"
+        width: 4032
+        height: 3024
+        isCached: true
+  - title: "Trump backs Rep. Mo Brooks in Alabama Senate race, who cheered Capitol rioters for ‘kicking ass’"
+    excerpt: "Former President Donald Trump is throwing his support behind Rep. Mo Brooks in next year’s Alabama Senate race, a staunch supporter who cheered the Jan. 6 crowd at the Capitol for “taking down names and kicking ass."
+    publishedDateTime: 2021-04-07T14:29:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 62
+    images:
+      - url: "https://www.nydailynews.com/resizer/dnPImsXwM3lyMNeIzGI2SPoFcG8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H6KA7POU45DLBDWXB2NPXLDGAA.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Mike Pence talks to South Carolina conservatives"
-    excerpt: "Former Vice President Mike Pence speaks to the Palmetto Family Council gala. In his speech he reiterated his and former President Donald Trump's accomplishments and criticized President Joe Biden."
-    publishedDateTime: 2021-04-30T00:53:00Z
-    webUrl: "https://www.thestate.com/news/politics-government/article251051729.html"
+  - title: "Trump Endorses Mo Brooks Among Alabama GOP Senate Contenders"
+    excerpt: "Former President Donald Trump has endorsed Rep. Mo Brooks in Alabama’s 2022 Senate race, siding with the conservative firebrand who riled up the crowd before the Capitol riot over other contenders in the state’s all-important Republican primary."
+    publishedDateTime: 2021-04-07T15:18:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-07/trump-endorses-mo-brooks-among-alabama-gop-senate-contenders"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-07/trump-endorses-mo-brooks-among-alabama-gop-senate-contenders?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-07/trump-endorses-mo-brooks-among-alabama-gop-senate-contenders?context=amp"
     type: article
     provider:
-      name: The State
-      domain: thestate.com
-    quality: 35
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "jnSd9yIsJMO49nwGuJE6b9xoUaHHo5DkgzCUiPu7uMushOGYxTmgl3XU0fa87iZ6hBCqnJTDobvVdRDezowBdxcRDKEeWRdVfDNwwx9yItLQYYRbfDAngGR/eWO7/UHxTichpqGawRpezppU2RlLvDKGZKhMrzAfUzKPQZYA2Ry6TovjV2TpRkYtjT2w0fnIkkHDtWHdsIWE+4+nyq2UGzz0we/yq/Y8JdW1W0gEI+Wz+c2ahujHE/Cf1YI0AQoyU/imjeKk4q8CH/+HzjZ5UMPmQyeY9VU5T1cSh6/c4vEcHJJLJbBCRrgjodvIQcBwtwRj5JkxcyA4c5IPF5hSLkfjRx1eXkDvQ0yemXkK09AxHHyToTkBBTYDcNwXS0VeSRgAJWfaoN0riHsIn4gpG2A8YXXMoLvsb0+knzky1CGxi7//nnC2x7BQuG7BBidAOz8UzAISi6i35WFTH3TmQs9r3VjYXEiNCAgEQdiVwtddGzBCfeWOXlydbbhFu8kOUV0Sn81/xXa5K2ETyFQQKw==;pjHJaw8lpwUV8HzeieVI3A=="
 ---

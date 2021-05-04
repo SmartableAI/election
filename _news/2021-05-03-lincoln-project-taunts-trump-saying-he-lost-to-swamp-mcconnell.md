@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/551420-lincoln-project-trump-l
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/551420-lincoln-project-trump-lost-to-swamp-mcconnell?amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
     quality: 102
     images:
       - url: "https://i.insider.com/6090122d34af8d001859a868?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Mike Lindell told Kimmel he still speaks to Trump once a month – most recently about Trump's border fears"
+    excerpt: "MyPillow CEO Mike Lindell told Jimmy Kimmel he spoke to Donald Trump a few weeks ago. Trump was \"worried about what was going down at the border.\""
+    publishedDateTime: 2021-04-29T12:58:00Z
+    webUrl: "https://www.businessinsider.com/mike-lindell-jimmy-kimmel-donald-trump-once-month-mexico-border-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/608a6ca235c46f0018c0b2d5?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

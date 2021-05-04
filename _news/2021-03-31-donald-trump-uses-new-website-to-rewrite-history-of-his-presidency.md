@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-ne
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/donald-trump-uses-new-website-rewrite-history-presidency"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RMYIHQCLFYI6TFTDACWHH5EWMI.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Gaetz sought blanket pardon from Trump White House: report"
+    excerpt: "reportedly sought a blanket pre-emptive pardon from the White House during the final weeks of President Trump Donald Trump Joe Biden's surprising presidency The Hill's Morning Report - Biden ..."
+    publishedDateTime: 2021-04-07T00:31:00Z
+    webUrl: "https://thehill.com/homenews/house/546834-gaetz-sought-blanket-pardon-from-trump-white-house-report"
+    ampWebUrl: "https://thehill.com/homenews/house/546834-gaetz-sought-blanket-pardon-from-trump-white-house-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/546834-gaetz-sought-blanket-pardon-from-trump-white-house-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/gaetzmatt_012821getty_gaetz.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Capitol Cops Sue Donald Trump for Physical, Emotional Injuries From Riot"
     excerpt: "Two Capitol Police officers are suing former President Donald Trump for allegedly inciting the Capitol riot and causing them physical and emotional injuries. Officers James Blassingame, a 17-year veteran of the Capitol Police, and Sidney Hemby, an 11-year ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/trump-era-growth-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/trump-era-growth-settlement-growth-begun-77061171"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1779799/michael-flynn-speaks-during-protest.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Garland rescinds Trump-era memo curtailing consent decrees"
+    excerpt: "Attorney General Merrick Garland on Friday rescinded a Trump-era memo that curtailed the use of consent decrees that federal prosecutors have used in sweeping investigations of police departments. Garland issued a new memorandum to all U."
+    publishedDateTime: 2021-04-18T06:47:00Z
+    webUrl: "https://www.chron.com/news/article/Garland-rescinds-Trump-era-memo-curtailing-16106406.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Garland-rescinds-Trump-era-memo-curtailing-16106406.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Garland-rescinds-Trump-era-memo-curtailing-16106406.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "vyMQdq3YpnvGx93zoDuZvwUFnXQ3UcL38ehqjRfwtF/FbrGS8ecRlhosOjq1rCpCCTGnNuCmYpYQiB4CbY6IYoLRtYx3r7BtjukMZeVNhWevQ61WbW6+Em9caMEuisoTnB0dqYYBUmt5E1gde+IQUCCVYyzParr7sgygxJA12K6Dx0twyUf9MAcE4pMdqWECzSAFrogT31sFdbH7NL2NZIQgSavcDevBwLy4wvy81L8jnt8Efz/97c4ZjbDRjPT2tjNhdGQS2iEiyTBZ3zxKD5398WeT35oB+/TBJShHuRtifwogz8GFB7RUCqKE3/oYQAZcY6642ZuzwossG/1k7sfTG9Fw2zd6q6mayyd2pQ1iD61B97sr/3b7d5bCg8/FJSz2kB/EuwFJpLhBvWLP4f6BeT1lou0q5FHE9LUnCZqQlVG3Nl6qGqYv86zQOVGBHoGi9faP3JhgsGbKedpFtngQr+iVePm/8ywJ/4rKK5a4Y6wTqSZ2rUd+WoCFs78Biloim6jKSF3rWu7EggHaCA==;Rp6ppAaiVUrt/cLI7s020A=="

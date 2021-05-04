@@ -63,54 +63,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden allows Trump ban on temporary foreign workers to expire"
-    excerpt: "The Democratic president has rolled back some of former President Donald Trump’s immigration policies since taking office on Jan. 20 including last month revoking a proclamation that had blocked many immigrant visa applicants from entering the United States."
-    publishedDateTime: 2021-04-02T02:51:00Z
-    webUrl: "https://www.reuters.com/article/usa-immigration-visas-int-idUSKBN2BO6VE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BO6VG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO6VG"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1557087524&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH303L1"
-        width: 783
-        height: 545
-        isCached: true
-  - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
-    excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
-    publishedDateTime: 2021-04-05T18:20:00Z
-    webUrl: "https://thehill.com/hilltv/what-americas-thinking/546495-poll-more-voters-place-blame-on-biden-administration-for-border"
-    ampWebUrl: "https://thehill.com/hilltv/what-americas-thinking/546495-poll-more-voters-place-blame-on-biden-administration-for-border?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/what-americas-thinking/546495-poll-more-voters-place-blame-on-biden-administration-for-border?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 139
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_04022021getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Donald Trump's China Tariffs Saved US Jobs, Says Biden's Commerce Secretary"
-    excerpt: "Regarding the heightened taxes on Chinese exports, as well as those imposed on some goods produced in other nations during Donald Trump's presidency, Raimondo acknowledged the ways in which they have positively contributed to the U.S. economy. U.S ..."
-    publishedDateTime: 2021-04-07T21:21:00Z
-    webUrl: "https://www.newsweek.com/donald-trumps-china-tariffs-saved-us-jobs-says-bidens-commerce-secretary-1581829"
-    ampWebUrl: "https://www.newsweek.com/donald-trumps-china-tariffs-saved-us-jobs-says-bidens-commerce-secretary-1581829?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-china-tariffs-saved-us-jobs-says-bidens-commerce-secretary-1581829?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 138
-    images:
-      - url: "https://d.newsweek.com/en/full/1772817/secretary-commerce-gina-raimondo-white-house.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Hunter Biden defends his position on Burisma board, says Trump used it in \"illegitimate way\" during 2020 election"
     excerpt: "He spoke with \"CBS This Morning\" co-host Anthony Mason about whether his business dealings ever crossed a line — including work for a Ukrainian company that became a big issue in President Trump's first impeachment, and whether he regrets putting his ..."
     publishedDateTime: 2021-04-05T11:51:00Z
@@ -158,22 +110,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1772601/donald-trump-border-wall-biden-construction.jpg"
         width: 2500
         height: 1663
-        isCached: true
-  - title: "The Trump White House provided reporters with a gusher of leaks. With Biden, everything’s changed."
-    excerpt: "No such thing anymore. The Trump administration says it doesn’t tolerate leakers, but President Trump’s White House is one of the leakiest in modern history. (Victoria Walker/The Washington Post) Since then, the pipeline has gone dry. When the $1.9 ..."
-    publishedDateTime: 2021-04-06T19:56:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/media/media-biden-leaks-trump-white-house/2021/04/06/a8e53e8a-93f5-11eb-9668-89be11273c09_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/media/media-biden-leaks-trump-white-house/2021/04/06/a8e53e8a-93f5-11eb-9668-89be11273c09_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/media-biden-leaks-trump-white-house/2021/04/06/a8e53e8a-93f5-11eb-9668-89be11273c09_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 126
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZXDHQCUQWEI6XKW4V54HAGRQZI.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Biden creates Supreme Court buzz with judicial nominees"
     excerpt: "President Biden Joe Biden The Hill's Morning Report - Biden officials brace for worst despite vaccine data Congress looks to rein in Biden's war powers Democrats seize on voting rights ..."
@@ -639,20 +575,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Former Trump budget director on Biden's infrastructure plan"
-    excerpt: "President Biden's infrastructure and jobs plan is already facing opposition from Republican lawmakers. Russ Vought, former director of the Office of Management and Budget under President Trump, spoke to \"Red and Blue\" host Elaine Quijano about his oppositon to the proposal."
-    publishedDateTime: 2021-04-01T22:55:00Z
-    webUrl: "https://www.cbsnews.com/video/former-trump-budget-director-on-bidens-infrastructure-plan/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/01/cc27df09-ad20-4574-abe5-c45c1b7f9188/thumbnail/1200x630/59c808e861e8a10c12ab50a848a3918c/0401-rb-trumpbudget-683271-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Biden administration reverses Trump decision, will provide $1 billion a month more in emergency food assistance"
     excerpt: "The Biden administration has abandoned the Trump administration’s opposition to emergency nutrition assistance going to the lowest income households already at the maximum benefit levels. In two lawsuits in Pennsylvania and California, plaintiffs argued ..."
     publishedDateTime: 2021-04-02T22:51:00Z
@@ -732,20 +654,6 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/00bb77714be3d1a1bd84d0f6aec80a1d11b9c882/c=0-18-2166-1242/local/-/media/2015/12/15/Rochester/Rochester/635857591312276137-TY-121415-AMTRAK-LUGGAGE.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
-        isCached: true
-  - title: "These 10 high-profile Republicans who dumped Trump are mostly wary to back Biden's re-election. At least for now."
-    excerpt: "It indicates the ability to send an email. Hundreds of high-profile Republicans broke party lines to endorse Joe Biden in 2020, arguing that another four years of then-President Donald Trump would harm the country. Now that President Biden says he plans to ..."
-    publishedDateTime: 2021-04-05T20:55:00Z
-    webUrl: "https://www.businessinsider.com/republicans-endorsed-joe-biden-dump-trump-04-2021"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/606b7291a7d803001963ed52?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Biden's infrastructure plan, with no GOP support, gets boost from Senate 'reconciliation' ruling"
     excerpt: "Biden to unveil massive infrastructure plan The White House on Tuesday insisted that there is a \"bipartisan path forward\" on passing President Joe Biden's sweeping and costly infrastructure plan ..."
@@ -909,15 +817,6 @@ related:
         width: 6000
         height: 4000
         isCached: true
-  - title: "Biden Expected to End Trump Ban on Temporary Foreign Workers"
-    excerpt: "U.S. President Joe Biden is expected to allow a proclamation from his Republican predecessor that had blocked many temporary foreign workers from coming into the United States to expire on Wednesday,"
-    publishedDateTime: 2021-03-31T00:24:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-03-30/biden-expected-to-end-trump-ban-on-temporary-foreign-workers"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 50
 
 secured: "ShOkOHb3mkQ1lD9Lown11cOnZyU6FqUk58lL/sOYnvnJPtId6EouZARBlrQhsgWkzZWk/lTdI00wbKCYgFd5uqNyWmp1q6GeTPlSm/IXl0iuUhJ/UMBmUO5cLrate9LoR/p3H1Gysxkmvv8v+KHfkzwspYBEMnJrwTOPgavR5wCrfSTREkWCe/X1Pmixcm0dQnkX/6JhSfpEZndqr0XvjBtWHE7bJJ6XO/htecIfNG1jEeX9G27+3IXrndn/vWgHSYktfroIN8rDoZ6cyYUYj+f/Ey6lgrLc84Jvew82qNPgnTqzjhrufOHINFGfQkwH+dFQgg34woJbG7hkAy3yEO1jGZAOHhNsieqcmLK4qC8=;D4BUjGd5qckPkkvHv/HjTA=="
 ---

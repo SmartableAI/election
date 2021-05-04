@@ -63,6 +63,20 @@ related:
         width: 2500
         height: 1668
         isCached: true
+  - title: "Biden: US shootings 'a national embarrassment'"
+    excerpt: "President Joe Biden is calling for action as the nation struggles with yet another mass shooting. While gun control appears to have taken a back seat, Biden on Friday insisted that wasn’t the case, saying “I’ve never not prioritized this."
+    publishedDateTime: 2021-04-17T01:04:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/17/biden-us-shootings-national-embarrassment/7263347002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4883882c-0e98-48ba-939c-48d309dfff89_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "IQcUqaHsk3fk41LieS+qxQgRMwSShIo3PSEhluEHuimxtafoJzTau6BcObqySBLiVl8vyJTzkmoUTlUmmMhw0aROX058Q5vaNEM9eYBBBR10Hi4YxDv1tJVmgZ/x9UvJ5Ry1jXGIt4dGIQ5c5yNwxX1IS9o6WGdtKrK8gX//DaZhmM1PBmJPpUsdmp0Plwtuxf9dMqif4w55BkKe2Nwrc5GXZ2YqUuoj0+Wx8e3TZfx7hrBP73WKjl41InKO3mxSTalC/62ukoGo/Hbglm7wQo34+2zgayVAftmyV/gYIW80SiTm+5BoFuB2XBI6VgeC+cw0LC8d5M+EkbRZ4GxjZK/shfMhS7QpZFn9Us+VDjFVSzN7BkjfsWXHVJahFJBSgynvo1u4eeQZ5A4YZLxkVexBT2i1/rwN0PapFbc8DRByL8X4uMoM3dZeWG9mozvHzzFwTwTQE+W78oBSteRtJ/XRd1WPE8YokBodmI/ArOZuWXE0CCjaFj/C3ehgLQrzcmM6xDb661F2h6N/s48zgA==;9z6VPmb7GhcgGdfmgB8AjA=="
 ---

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-04-joe-biden-raises-trump-refugee-cap-after-backlash.md",
+      "title": "Joe Biden raises Trump refugee cap after backlash",
+      "excerpt": "President Joe Biden has lifted the US annual refugee cap, bowing to backlash from his party after he initially opted to stick by the Trump-era figure. The Democratic president is raising the cap from 15,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1690,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/123E1/production/_118312747_mediaitem118312746.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-56975402.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp",
+      "publishedDateTime": "2021-05-03T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-ap-fact-check-biden-overstates-how-many-americans-immunized.md",
       "title": "AP FACT CHECK: Biden overstates how many Americans immunized",
       "excerpt": "An AP Fact Check finds that President Joe Biden was off on his vaccination numbers when he addressed the subject Monday",
@@ -598,7 +651,7 @@
       "originalUrl": "https://www.businessinsider.com/10-things-in-politics-biden-100-days-history",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -808,29 +861,38 @@
       ]
     },
     {
-      "path": "_news/2021-04-29-biden-traveling-to-voting-rights-hot-spot-georgia-to-promote-plans-to-rebuild-economy.md",
-      "title": "Biden traveling to voting rights hot spot Georgia to promote plans to rebuild economy",
-      "excerpt": "President Joe Biden marks his 100th day in office with a trip to Georgia on Thursday, visiting former President Jimmy Carter and pitching his plans to spend trillions of dollars to rebuild the U.S. economy.",
+      "path": "_news/2021-04-30-representative-sara-jacobs-president-bidens-address-gave-us-reasons-to-feel-hopeful.md",
+      "title": "Representative Sara Jacobs: President Biden's address \"gave us reasons\" to feel hopeful",
+      "excerpt": "Congresswoman Sarah Jacobs, a Democrat from California, says President Joe Biden's address to a joint session of Congress on Wednesday gave Americans many reasons to feel \"hopeful.\" She joins CBSN's Tanya Rivero for a closer look at Mr.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-biden-idUSL1N2ML3NV",
-      "originalUrl": "https://www.reuters.com/article/usa-biden-idUSL1N2ML3NV",
+      "webUrl": "https://www.cbsnews.com/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/",
+      "originalUrl": "https://www.cbsnews.com/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 137,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/29/41bc8ffb-b4cb-4c73-b658-89f738eac29c/thumbnail/1200x630/fa07439f6dbcd1f0e70a210a7ba2d4f5/cbsn-fusion-rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful-thumbnail-704368-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2ML3NV",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2ML3NV",
-      "publishedDateTime": "2021-04-29T07:00:00-07:00",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/",
+      "publishedDateTime": "2021-04-29T12:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "CBS News",
+        "domain": "cbsnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -883,58 +945,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-aoc-praises-activists-says-keep-going-after-joe-biden-speech.md",
-      "title": "AOC Praises Activists, Says 'Keep Going' After Joe Biden Speech",
-      "excerpt": "The Democratic congresswoman Alexandria Ocasio-Cortez praised progressive activists on Wednesday night after President Joe Biden put forth his record and future plans in a speech to a joint session of Congress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414",
-      "originalUrl": "https://www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1784908/rep-alexandria-ocasio-cortez.jpg",
-          "width": 1024,
-          "height": 707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414?amp=1",
-      "publishedDateTime": "2021-04-29T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1012,19 +1022,71 @@
       ]
     },
     {
-      "path": "_news/2021-04-29-the-latest-biden-to-say-us-turning-peril-into-possibility.md",
-      "title": "The Latest: Biden to say US 'turning peril into possibility'",
-      "excerpt": "In his first address to Congress, President Joe Biden will declare that the nation is “turning peril into possibility, crisis into opportunity.”",
+      "path": "_news/2021-04-29-white-supremacy-is-terrorism-biden-condemns-terrorism-in-address.md",
+      "title": "'White supremacy is terrorism': Biden condemns terrorism in address",
+      "excerpt": "President Joe Biden addressed gun violence and white supremacy in his speech to Congress. Associated Press Associated Press, USA TODAY",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html",
+      "webUrl": "https://www.usatoday.com/videos/news/politics/2021/04/29/president-biden-told-congress-white-supremacy-terrorism-during-speech/4886343001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/politics/2021/04/29/president-biden-told-congress-white-supremacy-terrorism-during-speech/4886343001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6TMKQ4VIFQI6XKFHL5C53TPTMQ.jpg&w=1440",
+          "url": "https://www.gannett-cdn.com/presto/2021/04/29/USAT/0bbcefca-2b66-4bb1-b574-9a1034977d49-VPC_BIDEN_ON_WHITE_SUPREMACY_DESK.00_01_06_07.Still003.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-biden-to-the-nation-were-turning-peril-into-possibility.md",
+      "title": "Biden to the nation: We're 'turning peril into possibility'",
+      "excerpt": "President Joe Biden will use his first joint address to Congress to declare the nation is “turning peril into possibility, crisis into opportunity.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-to-pitch-sweeping-family-plan-in-speech-to-congress/2021/04/28/17c946e4-a804-11eb-a8a7-5f45ddcdf364_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-to-pitch-sweeping-family-plan-in-speech-to-congress/2021/04/28/17c946e4-a804-11eb-a8a7-5f45ddcdf364_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BYM4UYFIAQI6XKFHL5C53TPTMQ.jpg&w=1440",
           "width": 1440,
           "height": 960,
           "title": null,
@@ -1034,9 +1096,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
-      "publishedDateTime": "2021-04-28T13:23:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-to-pitch-sweeping-family-plan-in-speech-to-congress/2021/04/28/17c946e4-a804-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-pitch-sweeping-family-plan-in-speech-to-congress/2021/04/28/17c946e4-a804-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-28T13:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -1072,7 +1134,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/04/27/biden-names-harris-county-sheriff-ed-gonzalez-head-ice/4864492001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1285,7 +1347,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/chocolate-chip-diplomacy-biden-courts-congress-gusto-77283438",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1438,21 +1500,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-23-biden-to-restore-californias-power-to-set-pollution-rules.md",
-      "title": "Biden to restore California's power to set pollution rules",
-      "excerpt": "The Transportation Department is moving to reverse former President Donald Trump’s bid to end California’s ability to set its own auto pollution standards",
+      "path": "_news/2021-04-23-republicans-unveil-568-billion-infrastructure-package-to-counter-bidens-23-trillion-plan.md",
+      "title": "Republicans unveil $568 billion infrastructure package to counter Biden's $2.3 trillion plan",
+      "excerpt": "U.S. Senate Republicans on Thursday put forward their version of an infrastructure package that would spend $568 billion over five years in a response to Democratic U.S. President Joe Biden's $2.3 trillion proposal.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-to-restore-californias-power-to-set-pollution-rules/2021/04/22/efc96db8-a3bc-11eb-b314-2e993bd83e31_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-to-restore-californias-power-to-set-pollution-rules/2021/04/22/efc96db8-a3bc-11eb-b314-2e993bd83e31_story.html",
+      "webUrl": "https://www.reuters.com/article/us-usa-congress-infrastructure-republica-idUSKBN2C92BK",
+      "originalUrl": "https://www.reuters.com/article/us-usa-congress-infrastructure-republica-idUSKBN2C92BK",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 154,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4VCGVTFDXUI6XMYUF2MTXWB6GE.jpg&w=1440",
-          "width": 1440,
-          "height": 943,
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210422&t=2&i=1559564512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3L156",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1460,16 +1522,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-to-restore-californias-power-to-set-pollution-rules/2021/04/22/efc96db8-a3bc-11eb-b314-2e993bd83e31_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-restore-californias-power-to-set-pollution-rules/2021/04/22/efc96db8-a3bc-11eb-b314-2e993bd83e31_story.html?outputType=amp",
-      "publishedDateTime": "2021-04-22T15:15:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2C92BK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C92BK",
+      "publishedDateTime": "2021-04-22T13:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1522,58 +1584,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-analysis-us-financial-regulators-in-hot-seat-as-biden-ramps-up-climate-agenda.md",
-      "title": "Analysis: U.S. financial regulators in hot seat as Biden ramps up climate agenda",
-      "excerpt": "As U.S. President Joe Biden escalates his climate change agenda, pressure is growing on the country's regulators to catch up with Europe and incorporate various risks posed by climate change into their oversight of the financial system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-global-climate-summit-regulators-anal-idUSKBN2C91E2",
-      "originalUrl": "https://www.reuters.com/article/us-global-climate-summit-regulators-anal-idUSKBN2C91E2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210422&t=2&i=1559548915&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3L0LC",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2C91E2",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C91E2",
-      "publishedDateTime": "2021-04-22T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

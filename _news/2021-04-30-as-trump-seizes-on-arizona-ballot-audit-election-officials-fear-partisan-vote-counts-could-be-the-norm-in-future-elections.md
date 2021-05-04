@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump wants Supreme Court to reinstate travel ban"
-    excerpt: "President Trump wants the Supreme Court to reinstate the travel ban that he says will strengthen national security. Others say it discriminates based on religion. CBS News justice reporter Paula Reid joins CBSN to discuss the latest."
-    publishedDateTime: 2021-05-01T21:27:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-wants-supreme-court-to-reinstate-travel-ban-1/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-wants-supreme-court-to-reinstate-travel-ban-1/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-wants-supreme-court-to-reinstate-travel-ban-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/01/3b7f2577-8abe-47e8-a486-e74bacc282d5/thumbnail/1200x630/d9a242e3ca725665c6cd4f8bb3ef985a/0602-cbsn-travelbanback-prp-1327827-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Will Donald Trump Run Again? Ex-President Backs New Donor Group, Accuses Arizona Democrats"
     excerpt: "Donald Trump is still the 2024 candidate of choice for many self-identified Republican voters, according to recent polling."
     publishedDateTime: 2021-04-24T07:54:00Z

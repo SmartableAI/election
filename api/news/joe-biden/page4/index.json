@@ -2,6 +2,219 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-02-biden-only-wants-to-raise-taxes-on-the-wealthy-but-hes-misleading-families-with-400000-plus-income.md",
+      "title": "Biden only wants to raise taxes on the wealthy, but he's misleading families with $400,000-plus income",
+      "excerpt": "DOW S&P 500 NASDAQ 100 President Joe Biden has repeatedly hinged his massive spending plans on a series of tax hikes with the single rule that \"no one making under $400,000 will see their federal taxes go up.\" The assertion is true, depending on your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-infrastructure-400000-federal-tax-hike-murky-wealthy-americans-affected-2021-4",
+      "originalUrl": "https://www.businessinsider.com/biden-infrastructure-400000-federal-tax-hike-murky-wealthy-americans-affected-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6065e9f652f11d001943196a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-infrastructure-400000-federal-tax-hike-murky-wealthy-americans-affected-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-infrastructure-400000-federal-tax-hike-murky-wealthy-americans-affected-2021-4?amp",
+      "publishedDateTime": "2021-04-01T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-christian-pastor-claims-biden-surrounded-by-demonic-hedge-of-protection.md",
+      "title": "Christian Pastor Claims Biden Surrounded By 'Demonic Hedge of Protection'",
+      "excerpt": "Pastor Mario Murillo claimed this week that President Joe Biden is surrounded by a \"demonic hedge of protection,\" urging fellow Christians to pray for a \"powerful move of God\" to bring it down. \"War has been declared on your faith,\" Murillo said during the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476",
+      "originalUrl": "https://www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1768836/mario-murillo.png",
+          "width": 1439,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/christian-pastor-claims-biden-surrounded-demonic-hedge-protection-1580476?amp=1",
+      "publishedDateTime": "2021-04-01T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-loyalty-or-loyal-opposition-democrats-test-fealty-to-biden-in-special-elections.md",
+      "title": "Loyalty or loyal opposition? Democrats test fealty to Biden in special elections",
+      "excerpt": "CLEVELAND — Nina Turner, the perpetual public face of Sen. Bernie Sanders' unsuccessful presidential campaigns, once compared voting for Joe Biden to eating a bowl of fecal matter. Now Turner is a top contender for Congress. And her Democratic opponents ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/joe-biden/loyalty-or-loyal-opposition-democrats-test-fealty-biden-special-elections-n1262618",
+      "originalUrl": "https://www.nbcnews.com/politics/joe-biden/loyalty-or-loyal-opposition-democrats-test-fealty-biden-special-elections-n1262618",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2021_13/3460821/210330-joe-biden-ew-244p_e7721de5d900180188761ee588df2bac.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262618",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262618",
+      "publishedDateTime": "2021-04-01T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-jill-biden-urges-farmworkers-to-get-vaccinated-in-california.md",
+      "title": "Jill Biden urges farmworkers to get vaccinated in California",
+      "excerpt": "First lady Jill Biden is praising California farmworkers for their persistence during the pandemic and urging them to get vaccinated",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/wireStory/jill-biden-urges-farmworkers-vaccinated-california-76800132",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/jill-biden-urges-farmworkers-vaccinated-california-76800132",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Health/WireAP_582476d4c83f4a849953260173f0be01_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students.md",
       "title": "San Diego county official rips Biden, Newsom as migrant children prioritized over Calif. students",
       "excerpt": "San Diego County Supervisor Jim Desmond sounded off on \"Hannity\" Wednesday, after the Biden administration sent hundreds of Central American migrant children to be housed and formally educated by local teachers at the San Diego Convention Center,",
@@ -181,7 +394,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/545713-hunter-biden-blasts-trump-in-new-book-a-vile-man-with-a-vile-mission",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1280,
+      "heat": 1140,
       "tags": null,
       "images": [
         {
@@ -451,7 +664,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-judicial-idUSKBN2BM1GJ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1245,
+      "heat": 1565,
       "tags": null,
       "images": [
         {

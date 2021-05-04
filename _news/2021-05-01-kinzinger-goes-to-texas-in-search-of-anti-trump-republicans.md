@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How do Americans feel about President Trump?"
-    excerpt: "CBS News, along with YouGov, has tracked Americans' views on President Trump and his administration since he was sworn into office. CBS News elections director Anthony Salvanto joins CBSN with details on the latest poll."
-    publishedDateTime: 2021-04-29T01:11:00Z
-    webUrl: "https://www.cbsnews.com/video/how-do-americans-feel-about-president-trump-1/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/how-do-americans-feel-about-president-trump-1/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/how-do-americans-feel-about-president-trump-1/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/a98694a2-87f8-43e5-851e-360553f9af2c/thumbnail/1200x630/886cfd09670491d318fc691ecc5dedc9/cbsn-0227-mikekellypanel-1273084-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Kinzinger goes to Texas in search of anti-Trump Republicans"
     excerpt: "Adam Kinzinger came to Texas this week to hunt unicorns. The Illinois congressman was looking for Republicans who, like him, see former President Donald Trump as a scourge on their party and a threat to democracy."
     publishedDateTime: 2021-04-30T14:12:00Z
@@ -59,81 +43,37 @@ related:
         width: 1440
         height: 952
         isCached: true
-  - title: "President Trump fires FBI Director James Comey"
-    excerpt: "President Trump has fired FBI Director James Comey, which is only the second time an FBI director has been fired. CBSN contributor and Time politcal reporter Zeke Miller spoke with CBSN about Comey's dismissal."
-    publishedDateTime: 2021-04-30T21:54:00Z
-    webUrl: "https://www.cbsnews.com/video/president-trump-fires-fbi-director-james-comey-1/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/president-trump-fires-fbi-director-james-comey-1/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-trump-fires-fbi-director-james-comey-1/"
+  - title: "Celebrity politicians test voter interest in post-Trump era"
+    excerpt: "From Ronald Reagan and Arnold Schwarzenegger to Al Franken and Donald Trump, there’s a rich history of celebrities trying out new careers in politics"
+    publishedDateTime: 2021-05-02T12:34:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/celebrity-politicians-test-voter-interest-post-trump-era-77448478"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/celebrity-politicians-test-voter-interest-post-trump-era-77448478"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/celebrity-politicians-test-voter-interest-post-trump-era-77448478"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/b375bccc-a264-4c3b-ba0a-9230d2206ffe/thumbnail/1200x630/ef4b250acb1ae3e7891c9eedf19255c9/0509-cbsn-vhd-1312519-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_31c3a5f964704f5eb205a7f35a3c5fb8_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Bid to censure Romney for Trump impeachment votes fails"
-    excerpt: "Utah Republicans booed Sen. Mitt Romney but ultimately rejected a motion to censure him for his votes at President Donald Trump’s impeachment trials"
-    publishedDateTime: 2021-05-02T01:08:00Z
-    webUrl: "https://www.washingtonpost.com/politics/bid-to-censure-romney-for-trump-impeachment-votes-fails/2021/05/01/efb924f8-aae2-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/bid-to-censure-romney-for-trump-impeachment-votes-fails/2021/05/01/efb924f8-aae2-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bid-to-censure-romney-for-trump-impeachment-votes-fails/2021/05/01/efb924f8-aae2-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HADH3CFK4II6XKFHL5C53TPTMQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Still Donald Trump's GOP? House Runoff Will Put His Leadership to the Test"
-    excerpt: "A special election in Texas' 6th Congressional District on Saturday saw a crowded field, including 11 Republicans, in the running to succeed Republican Rep. Ron Wright."
-    publishedDateTime: 2021-05-02T13:39:00Z
-    webUrl: "https://www.newsweek.com/still-donald-trumps-gop-house-runoff-will-put-his-leadership-test-1588127"
-    ampWebUrl: "https://www.newsweek.com/still-donald-trumps-gop-house-runoff-will-put-his-leadership-test-1588127?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/still-donald-trumps-gop-house-runoff-will-put-his-leadership-test-1588127?amp=1"
+  - title: "Donald Trump Claims His Susan Wright Endorsement Shut Democrats Out of Texas House Race"
+    excerpt: "\"It would be nice, however, if the pundits and Fake News Media would state the real reason for this unprecedented (Democrats have never been shut out before) victory!\" Trump said."
+    publishedDateTime: 2021-05-03T19:50:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-claims-his-susan-wright-endorsement-shut-democrats-out-texas-house-race-1588318"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-claims-his-susan-wright-endorsement-shut-democrats-out-texas-house-race-1588318?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-claims-his-susan-wright-endorsement-shut-democrats-out-texas-house-race-1588318?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 123
+    quality: 117
     images:
-      - url: "https://d.newsweek.com/en/full/1786229/american-cpac.jpg"
+      - url: "https://d.newsweek.com/en/full/1786760/trump-claims-endorsement-shut-out-texas-democrats.jpg"
         width: 3000
-        height: 2082
-        isCached: true
-  - title: "Former President Trump criticizes FBI search of Rudy Giuliani's home and office"
-    excerpt: "Former President Donald Trump spoke out against the investigation into his personal attorney, Rudy Giuliani, after the FBI executed a search warrant at Giuliani's home and office as part of the probe into Giuliani's dealings with Ukraine."
-    publishedDateTime: 2021-04-29T18:04:00Z
-    webUrl: "https://www.cbsnews.com/video/fbi-search-warrant-rudy-giuliani-home-and-office-donald-trump/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 101
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/29/c4afdc2d-0f1f-4899-8ff4-e9b7b0267106/thumbnail/1200x630/1fa6051efb8457378284d0e57493d5a0/cbsn-fusion-fbi-search-warrant-rudy-giuliani-home-and-office-donald-trump-thumbnail-704183-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Mike Lindell told Kimmel he still speaks to Trump once a month – most recently about Trump's border fears"
-    excerpt: "MyPillow CEO Mike Lindell told Jimmy Kimmel he spoke to Donald Trump a few weeks ago. Trump was \"worried about what was going down at the border.\""
-    publishedDateTime: 2021-04-29T12:58:00Z
-    webUrl: "https://www.businessinsider.com/mike-lindell-jimmy-kimmel-donald-trump-once-month-mexico-border-2021-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
-    images:
-      - url: "https://i.insider.com/608a6ca235c46f0018c0b2d5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+        height: 1945
         isCached: true
   - title: "Utah Republicans’ bid to censure Sen. Mitt Romney for Trump impeachment votes fails"
     excerpt: "Mitt Romney but ultimately rejected a motion to censure him Saturday for his votes at President Donald Trump’s impeachment trials. The measure narrowly failed, 798 to 711, in a vote by delegates to the state GOP convention,"
@@ -151,40 +91,38 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Ex-Trump Vice President Pence Makes First Public Appearance Since January"
-    excerpt: "Pence spoke for a half hour in Columbia, South Carolina, to the Palmetto Family Council, a religious conservative group. It was his first speech since he and then-President Donald Trump handed over power to President Joe Biden and Vice President Kamala Harris on Jan."
-    publishedDateTime: 2021-04-30T01:03:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-29/ex-trump-vice-president-pence-makes-first-public-appearance-since-january"
+  - title: "Special election to replace U.S. Rep. Ron Wright remains highly competitive in final hours, as Donald Trump looms large"
+    excerpt: "Nearly two-dozen candidates are vying to fill the late congressman's seat, and the former president is backing Wright's widow, Susan Wright."
+    publishedDateTime: 2021-04-30T15:28:00Z
+    webUrl: "https://www.texastribune.org/2021/04/30/tx-6-special-election/"
+    ampWebUrl: "https://www.texastribune.org/2021/04/30/tx-6-special-election/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/04/30/tx-6-special-election/amp/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 59
-  - title: "After President Joe Biden’s first 100 days, two-thirds of Americans believe US headed in right direction"
-    excerpt: "A new poll shows almost two-thirds of Americans believe the country is headed in the right direction after President Joe Biden ’s first 100 days in office. The newest ABC News/Ipsos shows 64% are optimistic a few days after Biden reached the early milestone and just as the nationwide COVID-19 vaccination effort has significantly reduced deaths,"
-    publishedDateTime: 2021-05-02T15:24:00Z
-    webUrl: "https://www.masslive.com/politics/2021/05/after-president-joe-bidens-first-100-days-two-thirds-of-americans-believe-us-headed-in-right-direction.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/05/after-president-joe-bidens-first-100-days-two-thirds-of-americans-believe-us-headed-in-right-direction.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/after-president-joe-bidens-first-100-days-two-thirds-of-americans-believe-us-headed-in-right-direction.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 58
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 66
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AA7RDVDVBRHTVHZZIYNBYVBHAQ.jpg"
-        width: 1024
-        height: 683
+      - url: "https://thumbnails.texastribune.org/-LPrcCg8VR2SW6dlG2TbqqsFAd4=/1200x630/filters:quality(95)/static.texastribune.org/media/files/5a9a462d5d7fdb74fce431e415ab49f5/US%20Capitol%20DC%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Eight Republican 2024 Candidates Speak in Texas Next Week, but Not Trump"
-    excerpt: "Candidates Speak in Texas Next Week, but Not Trump WASHINGTON (Reuters) - A Republican Party event in Texas next week will hear from eight potential candidates for the party's presidential nomination in 2024,"
-    publishedDateTime: 2021-04-30T21:50:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/eight-republican-2024-candidates-speak-in-texas-next-week-but-not-trump"
+  - title: "Why Trump is more likely to win in the GOP than to take his followers to a new third party"
+    excerpt: "Former President Donald Trump has claimed at times that he’ll start a third political party called the Patriot Party. In fact, most Americans – 62% in a recent poll – say they’d welcome the chance to vote for a third party."
+    publishedDateTime: 2021-05-03T12:02:00Z
+    webUrl: "https://www.chron.com/news/article/Why-Trump-is-more-likely-to-win-in-the-GOP-than-16146941.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Why-Trump-is-more-likely-to-win-in-the-GOP-than-16146941.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Why-Trump-is-more-likely-to-win-in-the-GOP-than-16146941.php"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 65
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "lCkg4C/3whv3Y1RavkHv0RlywWQL3b9WjABeSvWvcRaiYjxpj81QL+5eWohdkzDzsXN0xYGG8iBb/16kBlJLl6Y0Dh51ZMFrn6gO5Hoqw9ASvNMOw9aKCUkxoR8piCmzi7RbwxNVCGEc93fKroyyLHUwlCVr4b5JLgaAje/wDa9tpdYpEy4GOIdFN63d+YXljpxTqPGBVtEYICcYDaYUHCtFbR9H+d3KomE8jf4GWmQ1AjayNWS1FYFMlZxsE/t1JV/Jc1sk7d3H2bcFqepzpV3Qk0tuGZ3zLRtIH28e8s/G53dXV/WlqX5pbbBBRmE9h98pqhdxoX3n52qxlIQAtNNrX3VcANS/2URzzVBXTvo=;WgPciEcsQuV+dHN5Sbz+uA=="
 ---

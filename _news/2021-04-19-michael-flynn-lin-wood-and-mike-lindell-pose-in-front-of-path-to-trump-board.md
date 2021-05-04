@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Garland rescinds Trump-era memo curtailing consent decrees"
+    excerpt: "Attorney General Merrick Garland on Friday rescinded a Trump-era memo that curtailed the use of consent decrees that federal prosecutors have used in sweeping investigations of police departments. Garland issued a new memorandum to all U."
+    publishedDateTime: 2021-04-18T06:47:00Z
+    webUrl: "https://www.chron.com/news/article/Garland-rescinds-Trump-era-memo-curtailing-16106406.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Garland-rescinds-Trump-era-memo-curtailing-16106406.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Garland-rescinds-Trump-era-memo-curtailing-16106406.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "lXVUJqexH9kZP5UFWawfnvG3kTn7f/lmDEWPDMSkFqqE2Y4XzfES9x+MBbZiettyWVAx/WjR/E2Ft+d/J1A490lB+gwgOcgemvBwKHXJQk+PtKZPOtyrjIM6zvkHXB/whuFi2ZpAicbMkcdI6PubGyVH7cD/Qq8KWJF3GgQb3XDIoA+ztj994oH5hbSJFBeH9NJdfb/1ZxmBC1l3OGXaNLM7cJFeBO0zMApiMdcrrw3L7gQTBIA2PjIw8PjfxWeT7f1wYawu9xTJP+5Bm6dmeypr7xhYNkNCn4NrzjeYnpkOSW7ECiTCjSxfZ9RcNqBQFv7IfqTCs75PbBJrWCtHuMK9kcrpVW8/yU2sNeRL4BM=;wfTJuad5WGEKt/tzF9TJUw=="
 ---

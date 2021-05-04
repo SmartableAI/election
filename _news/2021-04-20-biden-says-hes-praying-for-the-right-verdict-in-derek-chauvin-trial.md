@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/george-floyd-joe-biden-derek-chauvi
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/george-floyd-joe-biden-derek-chauvin-trial-verdict/"
 type: article
 quality: 125
-heat: 325
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden praying for 'right verdict' in Chauvin trial"
+    excerpt: "President Joe Biden says he is “praying the verdict is the right verdict” in the trial of former Minneapolis Police Officer Derek Chauvin and that he believes the case to be “overwhelming.”"
+    publishedDateTime: 2021-04-20T16:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/feds-weighing-respond-verdict-chauvin-trial-77180555"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/feds-weighing-respond-verdict-chauvin-trial-77180555"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/feds-weighing-respond-verdict-chauvin-trial-77180555"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1fe7eb0b138b4ec7aedff414479335c6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden thinks bar is too high for convicting violent cops"
+    excerpt: "President Joe Biden thinks \"the bar is too high\" for convicting violent U.S. police officers and will use his speech to Congress next week to push for reform, a spokeswoman said on Wednesday."
+    publishedDateTime: 2021-04-21T20:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-police-speech-idUSKBN2C82JH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C82JH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C82JH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210421&t=2&i=1559434547&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3K1D2"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden responds to Derek Chauvin's conviction in the murder of George Floyd"
     excerpt: "\"No one should be above the law,\" President Joe Biden said. \"And today's verdict sends that message. But it's not enough.\""
     publishedDateTime: 2021-04-21T09:25:00Z
@@ -79,6 +111,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden was tough on drugs for decades. Now he faces challenges in fighting money laundering"
+    excerpt: "The Biden administration has a long road ahead to tackle the hundreds of billions of dollars in narcotics-related profits laundered in the U.S."
+    publishedDateTime: 2021-04-18T09:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/18/president-joe-biden-faces-challenges-fighting-drug-related-financial-crime/7212189002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7212189002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7212189002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/16/USAT/63b2ea62-aa0c-433c-8655-e43e31290498-1410384318000-AP_Fashion_District_Raid.1.jpg?auto=webp&crop=3263,1836,x0,y229&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden: Floyd murder 'verdict a giant step forward'"
     excerpt: "President Joe Biden says the conviction of former Minneapolis Police Officer Derek Chauvin in the killing of George Floyd is a \"step forward” in the fight against systemic racism. But he said it's not enough and called for swift police reform."
     publishedDateTime: 2021-04-21T00:41:00Z
@@ -121,6 +169,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "'It was a murder in the full light of day': Biden"
+    excerpt: "Biden. Posted . U.S. President Joe Biden on Tuesday said the murder conviction of former Minneapolis policeman Derek Chauvin i"
+    publishedDateTime: 2021-04-21T01:05:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE9C1CDB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210421&i=OVE9C1CDB&r=OVE9C1CDB&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "WH: Biden 'not looking to influence' Chauvin trial"
     excerpt: "The White House says President Joe Biden was “not looking to influence” the outcome of the Derek Chauvin trial after he said he was praying for \"the right verdict.\" (April 20)"
     publishedDateTime: 2021-04-20T19:51:00Z
@@ -157,6 +219,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 87
+  - title: "US President Joe Biden to visit UK for first overseas trip"
+    excerpt: "The president will come to Cornwall for the G7 summit from 11-13 June, where he will meet with other world leaders, including Prime Minister Boris Johnson."
+    publishedDateTime: 2021-04-24T11:33:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/56870420"
+    ampWebUrl: "https://www.bbc.co.uk/newsround/56870420.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/56870420.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/E0D5/production/_118175575_hi066931757.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "President Joe Biden ‘praying the verdict is the right verdict’ in Derek Chauvin trial"
     excerpt: "President Joe Biden said that he is “praying the verdict is the right verdict” in the trial of ex-Minneapolis Police Officer Derek Chauvin and that he believed the case to be “overwhelming.”"
     publishedDateTime: 2021-04-20T19:55:00Z
@@ -172,6 +250,22 @@ related:
       - url: "https://www.baltimoresun.com/resizer/J8aJMNcQJhVfHjZpsuUUc0j8PhA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KJCX44HETD666B7DXASS5GOH2A.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Evidently, Jen Psaki’s Job Is to Pretend Joe Biden Didn’t Say What Everybody Heard Him Say"
+    excerpt: "How is Biden saying he is praying for ‘the right verdict’ and offering that the ‘evidence is overwhelming’ not an example of weighing in on the Chauvin verdict?"
+    publishedDateTime: 2021-04-20T17:57:00Z
+    webUrl: "https://www.nationalreview.com/corner/evidently-jen-psakis-job-is-to-pretend-joe-biden-didnt-say-what-everybody-heard-him-say/"
+    ampWebUrl: "https://www.nationalreview.com/corner/evidently-jen-psakis-job-is-to-pretend-joe-biden-didnt-say-what-everybody-heard-him-say/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/evidently-jen-psakis-job-is-to-pretend-joe-biden-didnt-say-what-everybody-heard-him-say/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 65
+    images:
+      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2021/04/psaki.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
         isCached: true
 
 secured: "RPzX/EPFKryq4HgBKVqRg1H4w0LF07ss5SUzWOSsE3WINaIS2Fhyk6mutM4Eq9UtI1snQY1TQPHHXZL8+pbRzDO2K497QHqtrZFEIsnOaxArMcRk09yAwRUZPu7/1XzfcuPVlUxJDxuXYfLSR+pyqTd6VZfHHtJxjntRo73Eys6+yE8Rewm7rwx/jl3ygavG9Kp0W9WmoSS5qAFGPkhKONu2DksHsXVZSuWTlhG3ee3yRu9ll3LXLRKBE8fi3853re4L8j2cOHs9jF4sGx16iwhhQvVcQT/FXxQauaZVB8dNqWba3IVBuEGRLi52M5IElN8Y0t8NSkBW2jCJ9hjL220/US31aRsVjQ3o8srshU8=;Wovl2BIQDkvNeXrrLv+ENw=="

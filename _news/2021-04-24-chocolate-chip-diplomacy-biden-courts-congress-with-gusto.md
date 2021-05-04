@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/chocolate-chip-diploma
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/chocolate-chip-diplomacy-biden-courts-congress-gusto-77283438"
 type: article
 quality: 125
-heat: 205
+heat: 285
 published: true
 
 provider:
@@ -31,21 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "New bishop of Biden's hometown mum on Communion question"
-    excerpt: "The newly appointed bishop of President Joe Biden’s home diocese in Delaware says he would gladly speak with the president about his stance on abortion but he’s not saying whether he would allow Biden to keep receiving Communion,"
-    publishedDateTime: 2021-04-30T15:34:00Z
-    webUrl: "https://www.washingtonpost.com/world/pope-names-new-bishop-for-bidens-wilmington-diocese/2021/04/30/b0399f56-a9ac-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/pope-names-new-bishop-for-bidens-wilmington-diocese/2021/04/30/b0399f56-a9ac-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/pope-names-new-bishop-for-bidens-wilmington-diocese/2021/04/30/b0399f56-a9ac-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+  - title: "Power Up: Everything you need to know about Biden's speech to Congress"
+    excerpt: "Reach out and sign up for the Power Up newsletter. Thanks for waking up with us. THE OTHER 100 DAYS: It’s not just a big and arbitrary benchmark for the president. Thursday also marks the 100th day in office for the youngest Democrat to serve in the U."
+    publishedDateTime: 2021-04-29T15:25:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/29/power-up-everything-you-need-know-about-biden-speech-congress/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/29/power-up-everything-you-need-know-about-biden-speech-congress/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/29/power-up-everything-you-need-know-about-biden-speech-congress/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PLOODGFIFII6XKFHL5C53TPTMQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/43FL5PC2QEI6XKCJN6KCHJ277U.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "The Latest: Security tight, crowd thin for Biden's address"
+    excerpt: "In his first address to Congress, President Joe Biden will declare that the nation is “turning peril into possibility, crisis into opportunity.”"
+    publishedDateTime: 2021-04-28T20:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YNDUHVVIRMI6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 1028
+        isCached: true
+  - title: "Yoshihide Suga Affirms 'Tight Bond' Between U.S., Japan In Visit with Joe Biden"
+    excerpt: "Japanese Prime Minister Yoshihide Suga praised a continuing \"bond\" between Japan and the United States during his first visit to Washington D.C. since President Joe Biden took office. Speaking to reporters before meeting with Biden at the White House,"
+    publishedDateTime: 2021-04-16T22:17:00Z
+    webUrl: "https://www.newsweek.com/yoshihide-suga-affirms-tight-bond-between-us-japan-visit-joe-biden-1584356"
+    ampWebUrl: "https://www.newsweek.com/yoshihide-suga-affirms-tight-bond-between-us-japan-visit-joe-biden-1584356?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/yoshihide-suga-affirms-tight-bond-between-us-japan-visit-joe-biden-1584356?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1779263/biden-yoshihide-suga-white-house.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Full transcript: President Joe Biden delivers speech to joint session of Congress"
     excerpt: "The president spoke to a limited crowd due to the pandemic. President Joe Biden addresses Congress on equal pay for women and right to unionize President Joe Biden delivered his first speech to a joint session of Congress on Wednesday night,"
@@ -62,6 +94,34 @@ related:
       - url: "https://s.abcnews.com/images/Politics/biden-address-14-gty-jc-210428_1619659552559_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "House Speaker Nancy Pelosi on President Biden's address to Congress, nation"
+    excerpt: "House Speaker Nancy Pelosi, a California Democrat, joins \"CBS This Morning\" to discuss President Joe Biden's first speech to a joint session of Congress."
+    publishedDateTime: 2021-04-29T12:56:00Z
+    webUrl: "https://www.cbsnews.com/video/house-speaker-nancy-pelosi-on-president-bidens-address-to-congress-nation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/55e681a2-5ed4-4e36-929e-041b3ef76723/thumbnail/1200x630/746d54b360bfeca1597d0a2eb6d30c62/cbsn-fusion-house-speaker-nancy-pelosi-on-president-bidens-address-to-congress-nation-thumbnail-703929-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Representative Ritchie Torres reacts to President Biden's address to congress"
+    excerpt: "President Joe Biden delivered his first address to a joint session of Congress on Wednesday. Congressman Ritchie Torres, a Democrat who represents New York's 15th Congressional district, joined CBSN's Tanya Rivero with his reaction to the speech and the results of the census."
+    publishedDateTime: 2021-04-29T18:34:00Z
+    webUrl: "https://www.cbsnews.com/video/rep-ritchie-torres-reacts-to-president-bidens-address-to-congress/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 102
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/29/aaf97ef9-85de-4c54-bf3b-d2b64a8561e6/thumbnail/1200x630/4ee903d6edbc34d181e50b141bee7c96/cbsn-fusion-rep-ritchie-torres-reacts-to-president-bidens-address-to-congress-thumbnail-704310-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "President Joe Biden address to Congress: ‘let’s raise the minimum wage to $15’"
     excerpt: "President Joe Biden, in his first address to a joint session of Congress on Wednesday night, called on lawmakers to double the federal minimum wage — a longtime Democratic initiative that’s effectively gone nowhere for more than a decade."

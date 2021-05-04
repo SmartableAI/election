@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-04-whose-big-lie-trumps-proclamation-a-new-gop-litmus-test.md",
+      "title": "Whose 'Big Lie'? Trump's proclamation a new GOP litmus test",
+      "excerpt": "Donald Trump and his supporters are intensifying efforts to shame members of the party who are seen as disloyal to the former president and his false claims that last year’s election was stolen",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_d94cd197df9a4c78b707faae0d52b181_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647",
+      "publishedDateTime": "2021-05-03T21:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-joe-biden-raises-trump-refugee-cap-after-backlash.md",
+      "title": "Joe Biden raises Trump refugee cap after backlash",
+      "excerpt": "President Joe Biden has lifted the US annual refugee cap, bowing to backlash from his party after he initially opted to stick by the Trump-era figure. The Democratic president is raising the cap from 15,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1690,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/123E1/production/_118312747_mediaitem118312746.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-56975402.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp",
+      "publishedDateTime": "2021-05-03T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-rep-liz-cheneys-role-as-gop-conference-chair-facing-renewed-jeopardy-amid-trump-feud.md",
       "title": "Rep. Liz Cheney's role as GOP conference chair facing renewed jeopardy amid Trump feud",
       "excerpt": "Wyoming Rep. Liz Cheney’s ongoing feud with former President Donald Trump has sparked discussions among senior House GOP leadership about her future as the party’s conference chair, according to sources familiar with the situation.",
@@ -58,58 +163,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-04-the-memo-trumps-critics-face-wrath-of-gop-base.md",
-      "title": "The Memo: Trump's critics face wrath of GOP base",
-      "excerpt": "Cheney voted for Trump’s impeachment and has become perhaps his most persistent foe among GOP officeholders. But the bigger picture is one in which Cheney is in danger of losing her House leadership position and another Trump critic,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base",
-      "originalUrl": "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_cheneyliz_012121getty-bc_split.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp",
-      "publishedDateTime": "2021-05-03T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-05-04-ap-fact-check-biden-overstates-how-many-americans-immunized.md",
       "title": "AP FACT CHECK: Biden overstates how many Americans immunized",
       "excerpt": "An AP Fact Check finds that President Joe Biden was off on his vaccination numbers when he addressed the subject Monday",
@@ -159,49 +212,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-irs-chief-counsel-under-trump-admin-joins-gibson-dunn.md",
-      "title": "IRS chief counsel under Trump admin joins Gibson Dunn",
-      "excerpt": "Gibson, Dunn & Crutcher on Monday announced it has tapped Michael Desmond, whose successful nomination to serve as chief counsel of the U.S. Internal Revenue Service was reportedly a personal priority for former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/gibson-tax-idUSL1N2MQ2GE",
-      "originalUrl": "https://www.reuters.com/article/gibson-tax-idUSL1N2MQ2GE",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2MQ2GE",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MQ2GE",
-      "publishedDateTime": "2021-05-03T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -314,58 +324,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-donald-trump-claims-his-susan-wright-endorsement-shut-democrats-out-of-texas-house-race.md",
-      "title": "Donald Trump Claims His Susan Wright Endorsement Shut Democrats Out of Texas House Race",
-      "excerpt": "\"It would be nice, however, if the pundits and Fake News Media would state the real reason for this unprecedented (Democrats have never been shut out before) victory!\" Trump said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-claims-his-susan-wright-endorsement-shut-democrats-out-texas-house-race-1588318",
-      "originalUrl": "https://www.newsweek.com/donald-trump-claims-his-susan-wright-endorsement-shut-democrats-out-texas-house-race-1588318",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1786760/trump-claims-endorsement-shut-out-texas-democrats.jpg",
-          "width": 3000,
-          "height": 1945,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-claims-his-susan-wright-endorsement-shut-democrats-out-texas-house-race-1588318?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-claims-his-susan-wright-endorsement-shut-democrats-out-texas-house-race-1588318?amp=1",
-      "publishedDateTime": "2021-05-03T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -639,6 +597,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-03-the-slow-painful-death-of-trump-allies-voting-machine-conspiracy-theories.md",
+      "title": "The slow, painful death of Trump allies’ voting-machine conspiracy theories",
+      "excerpt": "Among the many wild conspiracy theories about the 2020 election, few rank as high when it comes to both baselessness and reach as those involving voting machines. The theory that voting machines were programmed to steal the election from President Donald Trump had the benefit,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2MJW36R3GMI6XKWZRFMSE4UAYQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/?outputType=amp",
+      "publishedDateTime": "2021-05-03T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-pence-headed-to-new-hampshire-in-june-sparking-more-2024-buzz.md",
       "title": "Pence headed to New Hampshire in June, sparking more 2024 buzz",
       "excerpt": "In a move that will spark further 2024 speculation, former Vice President Mike Pence will headline a major Republican Party dinner and fundraising event in early June in New Hampshire, the state that for a century has held the first primary in the race for the White House,",
@@ -808,7 +818,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/551420-lincoln-project-trump-lost-to-swamp-mcconnell",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1229,58 +1239,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-02-trump-nominates-christopher-wray-as-fbi-director.md",
-      "title": "Trump nominates Christopher Wray as FBI director",
-      "excerpt": "Former FBI Assistant Director Ron Hosko and CBS News justice reporter Paula Reid join CBSN to discuss President Trump's announcement that he will nominate Christopher Wray as FBI director.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/trump-nominates-christopher-wray-as-fbi-director-1/",
-      "originalUrl": "https://www.cbsnews.com/video/trump-nominates-christopher-wray-as-fbi-director-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/02/18565c93-15fd-4ace-a66b-d5e94bdb74af/thumbnail/1200x630/d1def3f0929ee1e2a88417164d1fcd6e/0607-cbsn-fbidirectornominee-1330478-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/trump-nominates-christopher-wray-as-fbi-director-1/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-nominates-christopher-wray-as-fbi-director-1/",
-      "publishedDateTime": "2021-05-01T18:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-05-02-nkorea-warns-us-of-very-grave-situation-over-biden-speech.md",
       "title": "NKorea warns US of 'very grave situation' over Biden speech",
       "excerpt": "North Korea has warned the United States will face “a very grave situation” because President Joe Biden “made a big blunder” in his recent speech by calling the North a security threat and revealing h",
@@ -1330,6 +1288,62 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-biden-administration-releases-trump-era-deadly-force-rules-for-terrorist-suspects-abroad.md",
+      "title": "Biden administration releases Trump-era deadly force rules for terrorist suspects abroad",
+      "excerpt": "The Biden administration disclosed Trump-era rules on Friday regulating the use of deadly force against terrorism suspects abroad, releasing them with several redacted lines to the American Civil Liberties Union and the New York Times as part of a Freedom of Information Act lawsuit after the Trump administration",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TzaCLD3dTrc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TzaCLD3dTrc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 561,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190909124239-01-donald-trump-0904-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/01/politics/biden-administration-trump-counterterrorism-rules/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/biden-administration-trump-counterterrorism-rules/index.html",
+      "publishedDateTime": "2021-05-01T15:46:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

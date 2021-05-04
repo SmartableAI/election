@@ -128,6 +128,22 @@ related:
         width: 910
         height: 477
         isCached: true
+  - title: "The pro-Trump Republican gunning for Cheney's leadership job"
+    excerpt: "Jim Banks speaks to the media with members of the Republican Study Committee about Iran on April 21 in Washington. | Photo by Joshua Roberts/ Jim Banks is the head of the House GOP’s biggest caucus. He’s also earning another unofficial title: shadow chair of the House GOP Conference."
+    publishedDateTime: 2021-05-04T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/05/04/jim-banks-liz-cheney-gop-485269"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/05/04/jim-banks-liz-cheney-gop-485269"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/04/jim-banks-liz-cheney-gop-485269"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/99/39/3b9a4f474c63ba2e1ce5d4d1f68d/5-3-21-jimbanks-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "lDL2viDQ4bCNTqoQ99bH/Hv/SzO1oC3ygFlEHQyx3elfpIkZ/+GTZbYYO5i7JVVgYRfzEfPWpsIhWpAVDlNvn+2UEDPY0Fdh987Oj+vIXffKdXX4cB3g2j5zkBmZO3UxrDm0GdbRVzRZF87MkfPD3lq0OluYvA/0oVDYNZNgMDBEIQVjUGc2K+oi45GeXHHZ4+KW/A+12HT/fXW3MVybwX3F5hl7ekePWkZLyKIUZrV24Qg+NRoAT7nIjKH5BCa2agl0fRsI9vhPcnkCkbZ6wSGD5iTVUT3Qj1mHibn7G6NwqG2P6UU8YzFLFR0oayTevDpkSHYJHQ+VoZUGK5iYYMzahj9P26od1hyuk1yQ3jMzge9YN3+4XIEYlMDQEojDGVeQV7y1WHfaoMynz5L+wwM/sr5VZ7IezyRqHhmHTeyebkWskzzBq8a8vaeVNLwglGkXAnaLuD3U+XKXSalCdtreDgzu218B20mFu7DECicT3xVaB6LxsSlFr6SDxEZ73k9FEnbfG/bLR1JphY1zSw==;u7nJQ/KsiCWH2t/Y2KlPzQ=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Nikki Haley backs Trump for 2024 run after previously saying he would be 'judged harshly by history'"
+    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Nikki Haley, one of the Republicans tipped for a future GOP presidential run, said she wouldn't run in 2024 if former President Donald Trump decides to, after previously saying he would be \"judged harshly by ..."
+    publishedDateTime: 2021-04-13T12:26:00Z
+    webUrl: "https://www.businessinsider.com/nikki-haley-backs-trump-2024-after-condemning-capitol-riot-response-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/nikki-haley-backs-trump-2024-after-condemning-capitol-riot-response-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nikki-haley-backs-trump-2024-after-condemning-capitol-riot-response-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/60758daf3e3fe7001882a4a1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "2/29: Photographer taken down by Secret Service at Trump rally; Navy SEAL presented with Medal of Honor"
     excerpt: "A photographer was slammed to the ground by a member of Donald Trump's security detail at a campaign rally on Monday; he was awarded the Medal of Honor at the White House Monday for his courageous actions."
     publishedDateTime: 2021-04-14T15:28:00Z

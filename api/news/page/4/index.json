@@ -2,29 +2,42 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-04-29-biden-traveling-to-voting-rights-hot-spot-georgia-to-promote-plans-to-rebuild-economy.md",
-      "title": "Biden traveling to voting rights hot spot Georgia to promote plans to rebuild economy",
-      "excerpt": "President Joe Biden marks his 100th day in office with a trip to Georgia on Thursday, visiting former President Jimmy Carter and pitching his plans to spend trillions of dollars to rebuild the U.S. economy.",
+      "path": "_news/2021-04-29-trump-says-florida-gov-desantis-would-be-considered-as-2024-running-mate.md",
+      "title": "Trump says Florida Gov. DeSantis ‘would be considered’ as 2024 running mate",
+      "excerpt": "Donald Trump revealed on Thursday that he is “100%” thinking about running for president again in 2024 and would “certainly” consider Florida Gov. Ron DeSantis as his running mate.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-biden-idUSL1N2ML3NV",
-      "originalUrl": "https://www.reuters.com/article/usa-biden-idUSL1N2ML3NV",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4KJc99QN03o/trump-desantis-2024-running-mate-considered",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4KJc99QN03o/trump-desantis-2024-running-mate-considered",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 213,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2ML3NV",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2ML3NV",
-      "publishedDateTime": "2021-04-29T07:00:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-desantis-2024-running-mate-considered.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-desantis-2024-running-mate-considered.amp",
+      "publishedDateTime": "2021-04-29T08:31:49-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -41,7 +54,7 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Republican Voice"
       ]
     },
     {
@@ -77,58 +90,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-aoc-praises-activists-says-keep-going-after-joe-biden-speech.md",
-      "title": "AOC Praises Activists, Says 'Keep Going' After Joe Biden Speech",
-      "excerpt": "The Democratic congresswoman Alexandria Ocasio-Cortez praised progressive activists on Wednesday night after President Joe Biden put forth his record and future plans in a speech to a joint session of Congress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414",
-      "originalUrl": "https://www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1784908/rep-alexandria-ocasio-cortez.jpg",
-          "width": 1024,
-          "height": 707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/aoc-praises-activists-joe-biden-speech-1587414?amp=1",
-      "publishedDateTime": "2021-04-29T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -203,6 +164,58 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-white-supremacy-is-terrorism-biden-condemns-terrorism-in-address.md",
+      "title": "'White supremacy is terrorism': Biden condemns terrorism in address",
+      "excerpt": "President Joe Biden addressed gun violence and white supremacy in his speech to Congress. Associated Press Associated Press, USA TODAY",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/politics/2021/04/29/president-biden-told-congress-white-supremacy-terrorism-during-speech/4886343001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/politics/2021/04/29/president-biden-told-congress-white-supremacy-terrorism-during-speech/4886343001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/04/29/USAT/0bbcefca-2b66-4bb1-b574-9a1034977d49-VPC_BIDEN_ON_WHITE_SUPREMACY_DESK.00_01_06_07.Still003.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-29T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -384,7 +397,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -482,58 +495,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-how-do-americans-feel-about-president-trump.md",
-      "title": "How do Americans feel about President Trump?",
-      "excerpt": "CBS News, along with YouGov, has tracked Americans' views on President Trump and his administration since he was sworn into office. CBS News elections director Anthony Salvanto joins CBSN with details on the latest poll.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/how-do-americans-feel-about-president-trump-1/",
-      "originalUrl": "https://www.cbsnews.com/video/how-do-americans-feel-about-president-trump-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/a98694a2-87f8-43e5-851e-360553f9af2c/thumbnail/1200x630/886cfd09670491d318fc691ecc5dedc9/cbsn-0227-mikekellypanel-1273084-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/how-do-americans-feel-about-president-trump-1/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/how-do-americans-feel-about-president-trump-1/",
-      "publishedDateTime": "2021-04-28T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -693,19 +654,19 @@
       ]
     },
     {
-      "path": "_news/2021-04-29-the-latest-biden-to-say-us-turning-peril-into-possibility.md",
-      "title": "The Latest: Biden to say US 'turning peril into possibility'",
-      "excerpt": "In his first address to Congress, President Joe Biden will declare that the nation is “turning peril into possibility, crisis into opportunity.”",
+      "path": "_news/2021-04-29-biden-to-the-nation-were-turning-peril-into-possibility.md",
+      "title": "Biden to the nation: We're 'turning peril into possibility'",
+      "excerpt": "President Joe Biden will use his first joint address to Congress to declare the nation is “turning peril into possibility, crisis into opportunity.”",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html",
+      "webUrl": "https://www.washingtonpost.com/politics/biden-to-pitch-sweeping-family-plan-in-speech-to-congress/2021/04/28/17c946e4-a804-11eb-a8a7-5f45ddcdf364_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-to-pitch-sweeping-family-plan-in-speech-to-congress/2021/04/28/17c946e4-a804-11eb-a8a7-5f45ddcdf364_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 165,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6TMKQ4VIFQI6XKFHL5C53TPTMQ.jpg&w=1440",
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BYM4UYFIAQI6XKFHL5C53TPTMQ.jpg&w=1440",
           "width": 1440,
           "height": 960,
           "title": null,
@@ -715,9 +676,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-to-say-us-turning-peril-into-possibility/2021/04/28/04156a74-a868-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
-      "publishedDateTime": "2021-04-28T13:23:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-to-pitch-sweeping-family-plan-in-speech-to-congress/2021/04/28/17c946e4-a804-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-pitch-sweeping-family-plan-in-speech-to-congress/2021/04/28/17c946e4-a804-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-28T13:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -742,58 +703,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-biden-to-keep-intelligence-inspector-general-trump-appointed.md",
-      "title": "Biden to keep intelligence inspector general Trump appointed",
-      "excerpt": "President Joe Biden intends to keep the inspector general overseeing the U.S. intelligence community who was appointed by former President Donald Trump",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 920,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_c5166b2bec7946b7a9db269a67526cb9_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616",
-      "publishedDateTime": "2021-04-28T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -918,7 +827,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/04/27/biden-names-harris-county-sheriff-ed-gonzalez-head-ice/4864492001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1067,58 +976,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-trump-administration-accuses-obama-of-wiretapping.md",
-      "title": "Trump administration accuses Obama of wiretapping",
-      "excerpt": "President Trump is calling for Congress to investigate his claim that the Obama administration wiretapped phones in Trump Tower during the presidential campaign. Associated Press White House reporter Vivian Salama joins CBSN to discuss.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/trump-administration-accuses-obama-of-wiretapping-1/",
-      "originalUrl": "https://www.cbsnews.com/video/trump-administration-accuses-obama-of-wiretapping-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/28/3c065ea1-f5ce-4109-b082-ec5c177eb01f/thumbnail/1200x630/d4c9e75aea628913678984b32312628c/cbsn-qbg-0305-1263634-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/trump-administration-accuses-obama-of-wiretapping-1/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-administration-accuses-obama-of-wiretapping-1/",
-      "publishedDateTime": "2021-04-28T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1339,6 +1196,166 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-melania-trump-thanks-supporters-who-sent-her-wonderful-birthday-messages.md",
+      "title": "Melania Trump Thanks Supporters Who Sent Her 'Wonderful' Birthday Messages",
+      "excerpt": "Melania Trump said she is thankful for the supporters and social media users who remembered her on her 51st birthday on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/melania-trump-thanks-supporters-who-sent-her-wonderful-birthday-messages-3189006",
+      "originalUrl": "https://www.ibtimes.com/melania-trump-thanks-supporters-who-sent-her-wonderful-birthday-messages-3189006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/08/first-lady-melania-trump-attends-congressional-spouses-luncheon.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-lindsey-graham-announces-contest-where-winner-gets-to-golf-with-trump-and-him.md",
+      "title": "Lindsey Graham Announces Contest Where Winner Gets to Golf With Trump and Him",
+      "excerpt": "\"If you don't win, the money is going to be used to take back the House and the Senate, so we can stop this slide to socialism,\" Graham said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/lindsey-graham-announces-contest-where-winner-gets-golf-trump-him-1586971",
+      "originalUrl": "https://www.newsweek.com/lindsey-graham-announces-contest-where-winner-gets-golf-trump-him-1586971",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1783894/donald-trump-lindsey-graham-golf-contest-tournament.jpg",
+          "width": 3000,
+          "height": 1996,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/lindsey-graham-announces-contest-where-winner-gets-golf-trump-him-1586971?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-announces-contest-where-winner-gets-golf-trump-him-1586971?amp=1",
+      "publishedDateTime": "2021-04-27T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-pompeo-slams-iran-news-when-i-was-briefing-trump-kerry-was-briefing-zarif.md",
+      "title": "Pompeo slams Iran news: 'When I was briefing Trump, Kerry was briefing Zarif'",
+      "excerpt": "Biden climate czar and former Senator John Kerry, D-Mass., was essentially acting in the same role Trump Secretary of State Mike Pompeo was, except in relation to Iranian Foreign Minister Mohammad Javad Zarif during the Republican president's administration, Pompeo told \"Hannity\" on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/USljndIEoqc/pompeo-slams-iran-news-when-i-was-briefing-trump-kerry-was-briefing-zarif",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/USljndIEoqc/pompeo-slams-iran-news-when-i-was-briefing-trump-kerry-was-briefing-zarif",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d680524-8d5e-4af4-9634-ee3d3c117942/72df003f-5c2a-49a6-be0e-459682735a16/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-slams-iran-news-when-i-was-briefing-trump-kerry-was-briefing-zarif.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-slams-iran-news-when-i-was-briefing-trump-kerry-was-briefing-zarif.amp",
+      "publishedDateTime": "2021-04-27T19:39:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

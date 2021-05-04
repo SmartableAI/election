@@ -7,8 +7,8 @@ originalUrl: "https://www.cbsnews.com/video/stephen-colbert-on-donald-trumps-one
 webUrl: "https://www.cbsnews.com/video/stephen-colbert-on-donald-trumps-one-saving-grace-1/"
 type: article
 quality: 105
-heat: -1
-published: false
+heat: 105
+published: true
 
 provider:
   name: CBS News
@@ -27,40 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Colbert: 'There's no avoiding' Trump, but 'I don't like saying his name'"
-    excerpt: "report Colbert calls out 'idiot' Kennedy for Boulder remarks MORE says he avoids saying former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair ..."
-    publishedDateTime: 2021-04-12T17:04:00Z
-    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his"
-    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/547700-colbert-theres-no-avoiding-trump-but-i-dont-like-saying-his?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 124
-    images:
-      - url: "https://thehill.com/sites/default/files/colbertstephen_031619.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Boehner says 'unemployed' Trump 'has nothing else to do' but 'cause trouble'"
-    excerpt: "on Monday said the \"unemployed\" former President Trump Donald Trump Gaetz was denied meeting with Trump: CNN Federal Reserve chair: Economy would have been 'so much worse' without COVID-19 relief ..."
-    publishedDateTime: 2021-04-12T17:38:00Z
-    webUrl: "https://thehill.com/homenews/news/547712-boehner-says-unemployed-trump-has-nothing-else-to-do-but-cause-trouble"
-    ampWebUrl: "https://thehill.com/homenews/news/547712-boehner-says-unemployed-trump-has-nothing-else-to-do-but-cause-trouble?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/547712-boehner-says-unemployed-trump-has-nothing-else-to-do-but-cause-trouble?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
-    images:
-      - url: "https://thehill.com/sites/default/files/boehnerjohn_072915gn_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
 
 secured: "KEoFacnqhYo3rrAcBeOGTqDyNu+qywg5pQL8d/jWXmonoyFZi0R4+VIf3o7trNYlfTtpA6J0iDDD9WOMU9Pqr9xvBeEZj8Y1ZvA3l5MNmTYGol4laS+rOa8f8wUGfpqERAlbDUjXlkEHSqx54THQVG0Rix2vcyfIr/AW9iImXMnRxdou5lbpCKsPc1ireBp7OF8+vCnk8VooJBGnXBj+sEWA9ZnK3r2JaHYLPJbJVw0FScm8b7v17tJUESvX/QfunS9Qpybrt0+UY4PzlIAjTqgkQ9gEDtgsIe7eSwfM+IZ3uUlv4CaUNV5EJnVa6I9Cq2un3HknOwdzGWdsWA25nHYFAViSE6QQVy4BsqWLNjOSa2+5bAd1kKeG6ckgYhS/Zf8jJlDXlpD6Xsaogotl7bNmlx+Rc1jfd1wJr7mnBoLlWtrVpnFgayt3c2ERvNHyC7i9Z2OvIPkCp2NnzABVWYh6WAQpTCDuXLKcCZ2wkML5DfEd+LVWp5v8LLwxiS1IWNQcaKZ1ugI6wf6DSxICQw==;DIEBZkfWUsARNuB1rFwJgA=="
 ---

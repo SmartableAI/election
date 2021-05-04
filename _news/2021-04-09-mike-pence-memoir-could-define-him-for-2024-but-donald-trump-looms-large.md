@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1"
 type: article
 quality: 149
-heat: 2509
+heat: 2389
 published: true
 
 provider:
@@ -48,22 +48,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden's first budget marks sharp change from Trump years"
-    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden asked Congress to sharply increase spending to combat climate change and gun violence in a budget that marks a sharp departure from his predecessor, Donald Trump. The $1.5 trillion budget, reflecting an 8% ..."
-    publishedDateTime: 2021-04-09T14:44:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-budget/white-house-set-to-release-first-sketch-of-budget-proposal-on-friday-idUSKBN2BU2VH?edition-redirect=uk"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BU2VH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BU2VH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210407&t=2&i=1557635606&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH361EZ"
-        width: 844
-        height: 545
-        isCached: true
   - title: "Every Endorsement Donald Trump Has Made for the 2022 Election Cycle"
     excerpt: "In his farewell address to supporters ahead of Joe Biden's inauguration, Donald Trump hinted at a return to politics. \"I want you to know that the movement we started is only just beginning,\" the outgoing president said. \"There's never been anything like it."
     publishedDateTime: 2021-04-09T17:19:00Z
@@ -96,22 +80,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Biden picks 2 Trump critics for border, immigration roles"
-    excerpt: "President Joe Biden is nominating two people who criticized Trump-era immigration policies for key roles at the Department of Homeland Security"
-    publishedDateTime: 2021-04-12T20:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-picks-trump-critics-border-immigration-roles-77024037"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-trump-critics-border-immigration-roles-77024037"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-trump-critics-border-immigration-roles-77024037"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_de8a46fb2d8746c0bc61efc539314a6d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump : The key to Republican success is more Trumpism"
     excerpt: "Former President Donald Trump has used a closed-door speech at his resort in Palm Beach, Florida, to reinforce his commitment to the Republican Party PALM BEACH, Fla. -- Staking his claim to the ..."
     publishedDateTime: 2021-04-11T11:54:00Z
@@ -127,22 +95,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_b6d49faf981243478c6e3448b9a3e707_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Biden breaks with Trump and says he'll stick up for Federal Reserve's independence"
-    excerpt: "An envelope. It indicates the ability to send an email. President Joe Biden said on Tuesday he would safeguard the independence of the Federal Reserve, breaking with his predecessor, Donald Trump, who often tried pressuring the central bank to lower the ..."
-    publishedDateTime: 2021-04-06T21:30:00Z
-    webUrl: "https://www.businessinsider.com/biden-trump-federal-reserve-independence-powell-yellen-central-banking-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/biden-trump-federal-reserve-independence-powell-yellen-central-banking-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-trump-federal-reserve-independence-powell-yellen-central-banking-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 134
-    images:
-      - url: "https://i.insider.com/5fb66ea832f2170011f6ffa2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "John Boehner reveals he voted for Trump despite attacking him for spreading lies about the election"
     excerpt: "He counts former President Donald Trump as a leader and product of that \"chaos.\" But the former Ohio lawmaker revealed this week that, despite all that, he cast his 2020 ballot for Trump. \"Donald Trump is a product of the chaos we've seen in our political ..."
@@ -944,20 +896,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Biden Accelerates Refugee Admissions, But Won't Raise Trump's Low Cap"
-    excerpt: "Joe Biden signed an emergency determination that would speed refugee admissions to the U.S., but he did not lift Trump's low cap of 15,000 refugees."
-    publishedDateTime: 2021-04-16T18:17:00Z
-    webUrl: "https://time.com/5955707/biden-refugee-admissions/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 120
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2021/04/biden-refugee-admissions.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
   - title: "Merrick Garland rolls back Trump-era restrictions on forcing local police reforms"
     excerpt: "The Justice Department’s new policy is likely to be welcomed by civil liberties advocates, but face criticism from conservatives wary of government overreach."
     publishedDateTime: 2021-04-16T19:33:00Z
@@ -1286,22 +1224,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Biden lifts Trump sanctions on international court officials"
-    excerpt: "President Joe Biden on Friday lifted sanctions that Donald Trump had imposed on two top officials of the International Criminal Court, undoing one of the past administration's more aggressive moves targeting international institutions and officials."
-    publishedDateTime: 2021-04-03T00:03:00Z
-    webUrl: "https://www.chron.com/news/article/Biden-lifts-Trump-sanctions-on-international-16073212.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Biden-lifts-Trump-sanctions-on-international-16073212.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-lifts-Trump-sanctions-on-international-16073212.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "In speech to party donors, Trump goes after Pence, McConnell"
     excerpt: "It was supposed to be a unifying weekend for a Republican Party at war with itself over former President Donald Trump’s divisive leadership. But Trump himself"
     publishedDateTime: 2021-04-11T21:38:00Z
@@ -1333,22 +1255,6 @@ related:
       - url: "https://www.tampabay.com/resizer/L0pVJVN_aQ85FoSczxFmZK_AlLM=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/3474HOS4AH7Z7JL72W46HEHHXA.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Biden keeps Trump's record-low cap on refugees"
-    excerpt: "President Joe Biden on Friday stuck with his predecessor’s historically low cap of 15,000 refugees for this year and instead moved to accelerate admissions, triggering an outcry from resettlement agencies and even Biden allies that he was backpedaling on a key promise."
-    publishedDateTime: 2021-04-16T18:26:00Z
-    webUrl: "https://www.chron.com/news/article/Biden-speeds-refugees-admissions-but-doesn-t-16106454.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Biden-speeds-refugees-admissions-but-doesn-t-16106454.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-speeds-refugees-admissions-but-doesn-t-16106454.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Mike Pence launches new conservative organization to advance Trump-era policies"
     excerpt: "Former Vice President Mike Pence has created a conservative advocacy group to advance policies that were championed during the Trump administration. Known as Advancing American Freedom, the launch of the conservative policy group was announced last week ..."

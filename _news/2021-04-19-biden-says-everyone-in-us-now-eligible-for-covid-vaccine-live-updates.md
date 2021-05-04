@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden's troop withdrawal plan marked by sobering concern: The Note"
+    excerpt: "While many allies of the president issued statements of support for Biden's decision, CIA Director William Burns warned withdrawal will inhibit intelligence gathering."
+    publishedDateTime: 2021-04-15T10:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/bidens-troop-withdrawal-plan-marked-sobering-concern-note/story?id=77072223"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/bidens-troop-withdrawal-plan-marked-sobering-concern-note/story?id=77072223"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-troop-withdrawal-plan-marked-sobering-concern-note/story?id=77072223"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-afghanistan-address-gty-jc-210414_1618437671570_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Hitting latest vaccine milestone, Biden pushes shots for all"
     excerpt: "The U.S. is set to meet President Joe Biden’s latest vaccine goal of administering 200 million COVID-19 shots in his first 100 days in office, as the White House steps up its efforts to inoculate the"
     publishedDateTime: 2021-04-21T04:24:00Z

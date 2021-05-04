@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Donald Trump Defends Matt Gaetz, Denies Florida Congressman Asked for Pardon"
+    excerpt: "Former President Donald Trump has released a brief statement denying that GOP Representative Matt Gaetz of Florida solicited a pardon from him, while also offering a defense of the embattled congressman. \"Congressman Matt Gaetz has never asked me for a pardon."
+    publishedDateTime: 2021-04-07T15:30:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-defends-matt-gaetz-denies-florida-congressman-asked-pardon-1581697?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1772657/matt-gaetz.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Donald Trump Jr., Kimberly Guilfoyle pay $9.7 million for Admirals Cove home in Jupiter"
     excerpt: "After months of house hunting, Donald Trump Jr. and his girlfriend Kimberly Guilfoyle are Palm Beach County homeowners. On Wednesday, the high-profile couple paid $9.7 million for a waterfront home in Admirals Cove, an exclusive gated community in Jupiter."
     publishedDateTime: 2021-04-01T21:03:00Z

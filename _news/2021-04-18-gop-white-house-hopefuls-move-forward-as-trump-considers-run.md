@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-mov
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 405
+heat: 465
 published: true
 
 provider:
@@ -31,6 +31,54 @@ images:
     isCached: true
 
 related:
+  - title: "GOP attorneys general group in turmoil after Jan. 6 Trump rally"
+    excerpt: "The chairman of the top outside group dedicated to electing Republican attorneys general has resigned his position in the wake of a show of force by rivals from other states, months after it supported"
+    publishedDateTime: 2021-04-22T21:29:00Z
+    webUrl: "https://thehill.com/homenews/campaign/549840-gop-attorneys-general-group-in-turmoil-after-jan-6-trump-rally"
+    ampWebUrl: "https://thehill.com/homenews/campaign/549840-gop-attorneys-general-group-in-turmoil-after-jan-6-trump-rally?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549840-gop-attorneys-general-group-in-turmoil-after-jan-6-trump-rally?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/carrchris_041021_raga.jpeg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Housing agency ends Trump-era anti-transgender shelter rule"
+    excerpt: "The Department of Housing and Urban Development is withdrawing a Trump-era policy that would have allowed taxpayer-funded homeless shelters to deny access to transgender people"
+    publishedDateTime: 2021-04-22T20:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/housing-agency-ends-trump-era-anti-transgender-shelter-rule/2021/04/22/67c15c30-a3aa-11eb-b314-2e993bd83e31_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/housing-agency-ends-trump-era-anti-transgender-shelter-rule/2021/04/22/67c15c30-a3aa-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/housing-agency-ends-trump-era-anti-transgender-shelter-rule/2021/04/22/67c15c30-a3aa-11eb-b314-2e993bd83e31_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MRWX55VDVII6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Matt Gaetz request for meeting with Trump was not snubbed, both sides say"
+    excerpt: "Photograph: Marta Lavandier/AP Matt Gaetz and a spokesman for Donald Trump reacted angrily late on Sunday after CNN reported that the scandal-hit Florida Republican congressman sought a meeting with the former US president when allegations of sex ..."
+    publishedDateTime: 2021-04-12T11:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/12/matt-gaetz-trump-meeting-rebuffed-denial"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/12/matt-gaetz-trump-meeting-rebuffed-denial"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/12/matt-gaetz-trump-meeting-rebuffed-denial"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/bd670a9159855d668309642261f31134fccfbfac/0_43_4868_2922/master/4868.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c8dd8276ad7b93f3c7d259bfac90e7a0"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Republican presidential hopefuls move forward as Trump considers 2024 run"
     excerpt: "Many Republicans with national ambitions are openly laying the groundwork for presidential campaigns as Trump continues to mull his own plans."
     publishedDateTime: 2021-04-18T12:23:00Z
@@ -143,17 +191,6 @@ related:
         width: 1440
         height: 1007
         isCached: true
-  - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live"
-    excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
-    publishedDateTime: 2021-04-16T22:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates?page=with:block-607a0b0a8f0881c4146948ee"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/16/joe-biden-japanese-prime-minister-visit-covid-coronavirus-latest-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 93
   - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – as it happened"
     excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
     publishedDateTime: 2021-04-16T23:47:00Z
@@ -178,6 +215,22 @@ related:
       - url: "https://i.insider.com/60806acb4becb800190f6529?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Senate Republicans Create New ‘Annual’ Award, Give It to Trump"
+    excerpt: "On Saturday night, Donald Trump embarrassed Republican donors by delivering a rambling, grievance-laden speech that attacked Senate Minority Leader Mitch McConnell as a “dumb son of a bitch.”"
+    publishedDateTime: 2021-04-12T15:20:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/04/senate-republican-award-trump-silver-bowl-champion-freedom.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/04/senate-republican-award-trump-silver-bowl-champion-freedom.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/04/senate-republican-award-trump-silver-bowl-champion-freedom.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/4ed/6f8/d547981b4ff6b1f8e006aa60d872ee3269-donald-trump-award.1x.rsocial.w1200.jpg"
+        width: 706
+        height: 370
         isCached: true
   - title: "Gregg Popovich keeps heat on owners, others who support Donald Trump"
     excerpt: "Spurs coach Gregg Popovich refused to back down Wednesday when asked about members of the franchise’s ownership group who have made financial contributions to Donald Trump and other Republican politicians who support Trump’s false claims about election fraud in 2020 and legislation critics say would suppress voter turnout among Democrats."

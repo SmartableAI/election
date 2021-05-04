@@ -95,6 +95,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Gaetz sought blanket pardon from Trump White House: report"
+    excerpt: "reportedly sought a blanket pre-emptive pardon from the White House during the final weeks of President Trump Donald Trump Joe Biden's surprising presidency The Hill's Morning Report - Biden ..."
+    publishedDateTime: 2021-04-07T00:31:00Z
+    webUrl: "https://thehill.com/homenews/house/546834-gaetz-sought-blanket-pardon-from-trump-white-house-report"
+    ampWebUrl: "https://thehill.com/homenews/house/546834-gaetz-sought-blanket-pardon-from-trump-white-house-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/546834-gaetz-sought-blanket-pardon-from-trump-white-house-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/gaetzmatt_012821getty_gaetz.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Police officers sue Donald Trump for injuries resulting from Capitol riot"
     excerpt: "Lawsuit seeks damages for ‘physical and emotional injuries caused by Trump’s wrongful conduct inciting a riot’ on 6 January Last modified on Wed 31 Mar 2021 09.58 EDT Two US Capitol Police officers have filed a lawsuit against Donald Trump ..."
     publishedDateTime: 2021-03-31T12:58:00Z

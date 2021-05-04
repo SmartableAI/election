@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden calls for funding to probe white supremacist beliefs at U.S. immigration agencies"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden is calling for funding to investigate complaints of white supremacist beliefs at U.S. immigration enforcement agencies, according to a summary of his budget request for the coming fiscal year released on Friday."
+    publishedDateTime: 2021-04-09T14:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-immigration-idUSKBN2BW21J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BW21J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BW21J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557870266&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3810R"
+        width: 817
+        height: 545
+        isCached: true
   - title: "President Joe Biden says he would 'strongly support' moving the MLB All-Star Game out of Atlanta"
     excerpt: "In an interview on ESPN's \"SportsCenter\" on Wednesday night, President Joe Biden said that he would \"strongly support\" moving the 2021 MLB All-Star Game out of Atlanta. That was in response to a question about Major League Baseball Players Association ..."
     publishedDateTime: 2021-04-01T03:59:00Z

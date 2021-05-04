@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald-trump/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/05/04/arts/04latenight/04latenight-facebookJumbo.png"
         width: 910
         height: 477
+        isCached: true
+  - title: "The pro-Trump Republican gunning for Cheney's leadership job"
+    excerpt: "Jim Banks speaks to the media with members of the Republican Study Committee about Iran on April 21 in Washington. | Photo by Joshua Roberts/ Jim Banks is the head of the House GOP’s biggest caucus. He’s also earning another unofficial title: shadow chair of the House GOP Conference."
+    publishedDateTime: 2021-05-04T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/05/04/jim-banks-liz-cheney-gop-485269"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/05/04/jim-banks-liz-cheney-gop-485269"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/04/jim-banks-liz-cheney-gop-485269"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/99/39/3b9a4f474c63ba2e1ce5d4d1f68d/5-3-21-jimbanks-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "‘There Is a Tension There’: Publishers Draw Fire for Signing Trump Officials"
     excerpt: "Kellyanne Conway, Mike Pence and William Barr have book deals. That is raising new challenges for publishers trying to balance ideological lines with a desire to continue representing the political spectrum."

@@ -89,54 +89,6 @@ related:
         width: 753
         height: 545
         isCached: true
-  - title: "Biden to withdraw all US troops from Afghanistan by Sept. 11"
-    excerpt: "President Biden Joe Biden Trump: McConnell 'helpless' to stop Biden from packing court Biden, first lady send 'warmest greetings' to Muslims for Ramadan The business case for child care reform MOR ..."
-    publishedDateTime: 2021-04-13T20:31:00Z
-    webUrl: "https://thehill.com/policy/defense/547937-biden-to-withdraw-troops-from-afghanistan-but-miss-trump-deadline-report"
-    ampWebUrl: "https://thehill.com/policy/defense/547937-biden-to-withdraw-troops-from-afghanistan-but-miss-trump-deadline-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/547937-biden-to-withdraw-troops-from-afghanistan-but-miss-trump-deadline-report?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe2_04122021getty_0.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden spoke to Bush ahead of Afghanistan troop withdrawal"
-    excerpt: "President Biden Joe Biden IRS to roll out payments for ,000 child tax credit in July Capitol Police told not to use most aggressive tactics in riot response, report finds Biden to accompany first ..."
-    publishedDateTime: 2021-04-14T18:47:00Z
-    webUrl: "https://thehill.com/homenews/administration/548257-biden-spoke-to-bush-ahead-of-afghanistan-withdrawal-announcement"
-    ampWebUrl: "https://thehill.com/homenews/administration/548257-biden-spoke-to-bush-ahead-of-afghanistan-withdrawal-announcement?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/548257-biden-spoke-to-bush-ahead-of-afghanistan-withdrawal-announcement?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_9_0.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden spoke to Bush, Obama ahead of Afghanistan troop withdrawal"
-    excerpt: "President Biden Joe Biden IRS to roll out payments for ,000 child tax credit in July Capitol Police told not to use most aggressive tactics in riot response, report finds Biden to accompany first ..."
-    publishedDateTime: 2021-04-14T18:47:00Z
-    webUrl: "https://thehill.com/homenews/administration/548257-biden-spoke-to-bush-obama-ahead-of-afghanistan-withdrawal-announcement"
-    ampWebUrl: "https://thehill.com/homenews/administration/548257-biden-spoke-to-bush-obama-ahead-of-afghanistan-withdrawal-announcement?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/548257-biden-spoke-to-bush-obama-ahead-of-afghanistan-withdrawal-announcement?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_9_0.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Obama: Biden made 'right decision' on Afghanistan"
     excerpt: "Former President Obama on Wednesday praised President Biden Joe Biden IRS to roll out payments for ,000 child tax credit in July Capitol Police told not to use most aggressive tactics in riot ..."
     publishedDateTime: 2021-04-14T19:01:00Z
@@ -168,22 +120,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558314068&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C17V"
         width: 795
         height: 545
-        isCached: true
-  - title: "With Afghanistan decision, Biden restores foreign policymaking process that Trump had largely abandoned"
-    excerpt: "The administration held dozens of meetings that included high-level arguments to stay in Afghanistan before Biden settled on a choice he had previewed more than a decade ago."
-    publishedDateTime: 2021-04-18T22:44:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/biden-afghanistan-decision-foreign-policy-process/2021/04/18/e45e3fec-a05d-11eb-a774-7b47ceb36ee8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-afghanistan-decision-foreign-policy-process/2021/04/18/e45e3fec-a05d-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-afghanistan-decision-foreign-policy-process/2021/04/18/e45e3fec-a05d-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YL3YJFFAR4I6XBP4AZTE75CITU.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Biden to withdraw all US forces from Afghanistan by 9/11: Defense official"
     excerpt: "On Location: April 13, 2021 A U.S. defense official confirmed to ABC News Tuesday that President Joe Biden will withdraw all U.S. forces from Afghanistan by Sept. 11, the 20th anniversary of ..."
@@ -232,6 +168,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1777278/president-joe-biden.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Blinken visits Afghanistan in show of support after Biden announces withdrawal"
+    excerpt: "U.S. Secretary of State Antony Blinken made an unannounced visit to Kabul on Thursday to show support for the Afghan government and civil society a day after President Joe Biden said he was pulling out American forces after nearly 20 years of war."
+    publishedDateTime: 2021-04-15T19:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-afghanistan-blinken-idAFKBN2C21HU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2C21HU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2C21HU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210415&t=2&i=1558579629&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3E0R5"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden to say in Afghanistan speech ‘it’s time to end America’s longest war’ – live"
     excerpt: "Lawmakers of both parties have criticized Joe Biden’s plan to withdraw all US troops from Afghanistan, with some accusing the president of abandoning America’s commitment to the Afghan people. In his speech this afternoon, Biden will emphasize that ..."
@@ -374,22 +326,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 90
-  - title: "Donald Trump blasts Biden's Sept. 11 withdrawal deadline in Afghanistan"
-    excerpt: "Former President Donald Trump said Sunday that President Biden should withdraw troops from Afghanistan before September and not use the sacred date of Sept. 11 as the deadline."
-    publishedDateTime: 2021-04-18T23:44:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/apr/18/donald-trump-blasts-biden-sept-11-afghanistan-with/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/apr/18/donald-trump-blasts-biden-sept-11-afghanistan-with/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/apr/18/donald-trump-blasts-biden-sept-11-afghanistan-with/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 90
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/12/4_122021_beltway-trump-conse8202_c0-104-2500-1562_s1200x700.jpg?2d5ddaaeb405183379a395b29cf0e643d3db558f"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Joe Biden’s Tale of Russian Bounties in Afghanistan Collapses Completely"
     excerpt: "Biden and the Democrats knew the Russian bounties story was likely fake news, a hoax, a scam, whatever else you want to call it. But they didn’t care."
     publishedDateTime: 2021-04-15T17:46:00Z

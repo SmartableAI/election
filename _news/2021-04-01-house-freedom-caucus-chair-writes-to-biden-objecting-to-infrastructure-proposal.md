@@ -191,6 +191,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden affirms support for Ukraine in first call to leader"
+    excerpt: "President Joe Biden has underscored U.S. support for Ukraine in his first call to that country's leader President Joe Biden underscored U.S. support for Ukraine on Friday in his first call to that ..."
+    publishedDateTime: 2021-04-02T16:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-affirms-support-ukraine-call-leader-76837011"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_407719467cc74e3dac8c0f95498cfa84_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden's infrastructure plan tests Democratic unity in Congress"
     excerpt: "Biden commerce secretary: Infrastructure plan a ‘historic’ investment President Joe Biden unveiled his sweeping infrastructure proposal to expected opposition from Republicans. But before he ..."
     publishedDateTime: 2021-04-02T13:05:00Z
@@ -271,6 +287,38 @@ related:
         width: 3589
         height: 2393
         isCached: true
+  - title: "How Joe Biden tamed the left — at least for now"
+    excerpt: "President Biden gives remarks in the State Dining Room of the White House on Friday. (Demetrius Freeman/The Washington Post) Joe Biden launched the early months of his presidency with a one-two combination that’s gone a long way toward taming the party ..."
+    publishedDateTime: 2021-04-04T05:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/how-joe-biden-tamed-the-left--at-least-for-now/2021/04/03/1c23d4d2-93b6-11eb-9668-89be11273c09_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/how-joe-biden-tamed-the-left--at-least-for-now/2021/04/03/1c23d4d2-93b6-11eb-9668-89be11273c09_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/how-joe-biden-tamed-the-left--at-least-for-now/2021/04/03/1c23d4d2-93b6-11eb-9668-89be11273c09_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4R774HUT2UI6XKW4V54HAGRQZI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Lawmakers say fixing border crisis is Biden's job"
+    excerpt: "Lawmakers on Capitol Hill say Congress has little role to play in fixing the border crisis, arguing the responsibility falls largely on President Biden Joe Biden Jobs report adds to Biden momentum ..."
+    publishedDateTime: 2021-04-04T11:01:00Z
+    webUrl: "https://thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job"
+    ampWebUrl: "https://thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/546333-lawmakers-say-fixing-border-crisis-is-bidens-job?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/testerjon_021221gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Republicans claim Biden $2tn infrastructure plan a partisan tax hike"
     excerpt: "Last modified on Sun 4 Apr 2021 13.50 EDT Republicans opposed to Joe Biden’s proposed $2tn infrastructure bill claimed on Sunday that it was effectively a partisan tax hike that allocated too much money to electric vehicles and other environmental ..."
     publishedDateTime: 2021-04-04T12:45:00Z
@@ -335,6 +383,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden's Approval Rating Weighed Down by Border Crisis, Gun Policy"
+    excerpt: "A majority of Americans disapprove of President Joe Biden's immigration policies and handling of the U.S.-Mexico border crisis, and people think reuniting the migrant children and parents separated at the border should be the federal government's highest ..."
+    publishedDateTime: 2021-04-05T16:00:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-immigration-border-guns-poll-1581048"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-immigration-border-guns-poll-1581048?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-immigration-border-guns-poll-1581048?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1771621/joe-biden.jpg"
+        width: 3589
+        height: 2393
+        isCached: true
   - title: "Biden summons public support as GOP bucks infrastructure"
     excerpt: "WASHINGTON — With an appeal to think big, President Joe Biden is promoting his $2.3 trillion infrastructure plan directly to Americans, summoning public support to push past the Republicans lining up against the massive effort they sum up as big taxes ..."
     publishedDateTime: 2021-04-05T21:48:00Z
@@ -367,6 +431,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden says he has not spoken with Fed Chair Powell"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden said on Tuesday that he has not spoken to Federal Reserve Chair Jerome Powell, calling the central bank an independent agency."
+    publishedDateTime: 2021-04-06T19:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-federal-reserve-idUSKBN2BT2SK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2SK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2SK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557506212&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351DY"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden to move COVID-19 vaccine eligibility date to April 19"
     excerpt: "President Joe Biden is set to announce that he’s shaving about two weeks off his May 1 deadline for states to make all adults eligible for coronavirus vaccines"
     publishedDateTime: 2021-04-06T18:29:00Z
@@ -382,6 +462,38 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Senate gives Biden a big tool to work around GOP filibuster"
+    excerpt: "Senate Majority Leader Chuck Schumer has fresh options for advancing President Joe Biden’s priorities over Republican obstruction in the 50-50 split Senate WASHINGTON -- With a powerful new tool ..."
+    publishedDateTime: 2021-04-06T22:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/senate-biden-big-tool-work-gop-filibuster-76915766"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/senate-biden-big-tool-work-gop-filibuster-76915766"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/senate-biden-big-tool-work-gop-filibuster-76915766"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_883d1796173f44a998267ba2805493f1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "U.S. Senate confirms Biden nominee for No. 2 State Dept post"
+    excerpt: "WASHINGTON (Reuters) -The U.S. Senate on Tuesday confirmed President Joe Biden’s nominee Wendy Sherman to be deputy secretary of state, the number two position at the department. The Senate backed the nomination by 56-42, as a handful of Republicans ..."
+    publishedDateTime: 2021-04-13T21:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-diplomacy-idUSKBN2C02YO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C02YO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C02YO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558338430&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C1GD"
+        width: 715
+        height: 545
         isCached: true
   - title: "S&P futures flat ahead of funding details on Biden's infrastructure plan"
     excerpt: "(Reuters) - S&P 500 futures were flat on Wednesday, as investors awaited details of how President Joe Biden would fund a massive infrastructure plan, while Wall Street headed for its fourth straight quarterly gain on signs of a strong economic rebound."
@@ -463,6 +575,22 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "The Daily 202: Biden infrastructure push could face SALT-y Democratic challenge"
+    excerpt: "Welcome to The Daily 202 newsletter! T ell your friends to sign up here. Support our journalism. Subscribe today. As President Biden tries to corral the votes to muscle through his $2 trillion infrastructure package,"
+    publishedDateTime: 2021-04-02T15:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/02/daily-202-biden-infrastructure-push-could-face-salt-y-democratic-challenge/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/02/daily-202-biden-infrastructure-push-could-face-salt-y-democratic-challenge/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/02/daily-202-biden-infrastructure-push-could-face-salt-y-democratic-challenge/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z5PUJJUMEEI6XIZ63IUJIHFZVQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Permanent resident who hoped Biden would be his 'miracle' is set to be deported"
     excerpt: "Hiding in plain sight Kelvin Silva, 44, hoped President Joe Biden would take a different stance than his predecessor by not deporting him. \"We just need a miracle,\" Silva told ABC News in December."
     publishedDateTime: 2021-04-06T09:05:00Z
@@ -494,6 +622,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/biden-gty-er-210323_1616541488590_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Why green initiatives count as infrastructure, from Biden's top climate officials"
+    excerpt: "DOW S&P 500 NASDAQ 100 The letter F. An envelope. It indicates the ability to send an email. The first $2 trillion of President Joe Biden's up to $4 trillion infrastructure package includes not only funding for roads and bridges, but also for climate ..."
+    publishedDateTime: 2021-04-02T15:27:00Z
+    webUrl: "https://www.businessinsider.com/climate-crisis-biden-infrastructure-bill-green-new-deal-roads-bridges-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/climate-crisis-biden-infrastructure-bill-green-new-deal-roads-bridges-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/climate-crisis-biden-infrastructure-bill-green-new-deal-roads-bridges-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/606723ac52f11d0019431bdc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "More than 100 lawmakers call on Biden to regulate weapon used in Colorado shooting"
     excerpt: "WASHINGTON – More than 100 lawmakers called on President Joe Biden to take executive action and enforce regulations regarding the AR-556 pistol, according to a letter obtained by USA TODAY. The weapon was used in the recent shooting in a Boulder ..."
@@ -575,6 +719,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Analysis: Biden White House tries to craft gun executive orders that can't be undone"
+    excerpt: "WASHINGTON (Reuters) - The White House is trying to craft a series of executive actions for President Joe Biden to sign to try to limit gun violence, hoping they cannot be quickly dismantled in court, according to aides and gun safety groups. Among the ..."
+    publishedDateTime: 2021-04-02T10:12:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-guns-analysis-idUSKBN2BP0QI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BP0QI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BP0QI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210402&t=2&i=1557130342&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH310C3"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Here's what Biden's DOE has done so far to tackle the $1.7 trillion student-debt crisis"
     excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden has started to act on the $1.7 trillion student debt crisis in the country. His Department of Education has already canceled student debt for about 72,000 defrauded borrowers, and for over 41,000 borrowers with ..."
     publishedDateTime: 2021-04-01T17:26:00Z
@@ -607,6 +767,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden says over 80% of teachers, school staff received at least one shot by end of March"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden said on Tuesday that more than 80% of teachers and school staff had received at least one vaccination shot but that variants of the coronavirus are spreading and generating a rise in cases. “We aren’t at ..."
+    publishedDateTime: 2021-04-06T19:54:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-biden-variants-idUSKBN2BT2T4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BT2T4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2T4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557506761&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351E7"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Texas Democratic Sheriff Slams Biden Immigration Policy, Cost of Placing Migrants for County"
     excerpt: "Val Verde County, Texas, Sheriff Joe Frank Martinez said Friday that \"criminal aliens ... He commended Florida GOP Governor Ron DeSantis for sending a letter to the Biden administration that demanded it stop enforcing policies allowing the release of ..."
     publishedDateTime: 2021-04-03T15:47:00Z
@@ -622,6 +798,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1765531/immigration.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "2 Democratic Senators are already saying Biden's infrastructure plan probably needs to change"
+    excerpt: "An envelope. It indicates the ability to send an email. Two Democratic senators have already voiced concerns about President Joe Biden's $2 trillion infrastructure plan. One of them is Sen. Joe Manchin, a moderate Democrat from West Virginia who has ..."
+    publishedDateTime: 2021-04-05T21:42:00Z
+    webUrl: "https://www.businessinsider.com/senate-democrats-bidens-infrastructure-plan-needs-change-warner-manchin-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/senate-democrats-bidens-infrastructure-plan-needs-change-warner-manchin-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-democrats-bidens-infrastructure-plan-needs-change-warner-manchin-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/606b8433856cd700198a344f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Joe Biden Remains Firm On July 4 Goal Despite Moving Up Deadline For Adult COVID Vaccinations"
     excerpt: "President Joe Biden praised the accelerated vaccination in the United States — where a record four million shots were administered in a single day on Saturday— but his administration hasn't backed off his goal of having enough people vaccinated for an ..."
@@ -727,6 +919,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/E_-6Q-O_PdxfdMf61NbAqoBTCQE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TDIM6HUPJFEZBFY7QXANYXT5RQ.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Can Joe Biden recreate the U.S. economy he grew up with?"
+    excerpt: "U.S. President Joe Biden is flanked by Secretary of State Antony Blinken and Defense Secretary Lloyd Austin as he holds a Cabinet meeting in the East Room at the White House in Washington, U.S., April"
+    publishedDateTime: 2021-04-02T16:24:00Z
+    webUrl: "https://www.reuters.com/news/picture/can-joe-biden-recreate-the-us-economy-he-idUSKBN2BO50O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210401&t=2&i=1557085547&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH303LY"
+        width: 810
+        height: 522
         isCached: true
   - title: "AP-NORC poll: Border woes dent Biden approval"
     excerpt: "More Americans disapprove than approve of how President Joe Biden is handling waves of unaccompanied immigrant children arriving at the U.S.-Mexico border, which suggests immigration policy could be a weak point for the new administration."
@@ -852,6 +1058,48 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
+  - title: "Joe Biden Makes Remarks on A Good Jobs Report"
+    excerpt: "U.S. President Joe Biden and first lady Jill Biden walk from the White House in Washington before their departure to Camp David for Easter weekend on Friday, April 2, 2021. The economy added a robust 916,"
+    publishedDateTime: 2021-04-02T16:37:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/265af8b929ae68841dd7f2e2814f1991/Joe-Biden-Makes-Remarks-on-A-Good-Jobs-Report/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/265af8b929ae68841dd7f2e2814f1991/BIDEN-JOBS.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "U.S. President Joe Biden Arrives From Camp David"
+    excerpt: "President Joe Biden and First Lady Jill Biden arrive by Marine One to the White Hous in Washington, DC, on Monday, April 5, 2021. The traditional Easter Egg Roll at the White House with thousands of visitors was not held due to the coronavirus COVID-19 ..."
+    publishedDateTime: 2021-04-05T19:02:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/bbedb695639b7289aaa20878b9869807/US-President-Joe-Biden-Arrives-From-Camp-David/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/bbedb695639b7289aaa20878b9869807/USA-BIDEN-EASTER.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "U.S. President Joe Biden Delivers Remarks Regarding Easter"
+    excerpt: "President Joe Biden (R) waves beside First Lady Jill Biden (L) and the Easter bunny while delivering remarks regarding Easter, on the Truman Balcony at the South Lawn of the White House, in Washington, DC, on Monday, April 5, 2021. The traditional Easter ..."
+    publishedDateTime: 2021-04-05T18:55:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c24df801152d36a75d4fe1f1737b49bc/US-President-Joe-Biden-Delivers-Remarks-Regarding-Easter/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/c24df801152d36a75d4fe1f1737b49bc/USA-BIDEN-EASTER.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "President Joe Biden signs the PPP Extension Act of 2021 at the White House"
     excerpt: "President Joe Biden signs the PPP Extension Act of 2021 into law in the Oval Office with Vice President Kamala Harris, left and SBA Administrator Isabel Guzman, right, looking on, at the White House in Washington, DC on Tuesday, March, 30 2021. Pool Photo ..."
     publishedDateTime: 2021-03-30T21:08:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html?outputType=amp"
 type: article
 quality: 126
-heat: -1
-published: false
+heat: 266
+published: true
 
 provider:
   name: Washington Post
@@ -31,134 +31,111 @@ images:
     isCached: true
 
 related:
-  - title: "Boehner: Trump's claims of stolen election a 'sad moment in American history'"
-    excerpt: "said that former President Donald Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell sidesteps Trump ..."
-    publishedDateTime: 2021-04-13T13:54:00Z
-    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in"
-    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/547879-boehner-trumps-claims-of-stolen-election-a-sad-moment-in?amp"
+  - title: "Donald Trump Endorses Marco Rubio, Says He'll Never Let Country Down"
+    excerpt: "Former President Donald Trump has endorsed Senator Marco Rubio (R-FL) in a post on the messaging service Telegram on Friday morning. \"It is my honor to give U.S. Senator Marco Rubio my Complete and Total Endorsement,\" Trump wrote. \"Marco has been a ..."
+    publishedDateTime: 2021-04-09T13:04:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-endorses-marco-rubio-says-hell-never-let-country-down-1582326?amp=1"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 137
-    images:
-      - url: "https://thehill.com/sites/default/files/boehnerjohn_032614gn_boehner.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "On the House review: John Boehner’s lament for pre-Trump Republicans"
-    excerpt: "Boehner offers no pushback. Boehner expresses contempt for Senator Ted Cruz and Mark Meadows, a former North Carolina congressman who became Donald Trump’s final chief of staff. As for Flyin’ Ted, Boehner is unsparing: “There is nothing more ..."
-    publishedDateTime: 2021-04-10T04:00:00Z
-    webUrl: "https://www.theguardian.com/books/2021/apr/10/on-the-house-review-john-boehners-donald-trump-republicans"
-    ampWebUrl: "https://amp.theguardian.com/books/2021/apr/10/on-the-house-review-john-boehners-donald-trump-republicans"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/apr/10/on-the-house-review-john-boehners-donald-trump-republicans"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/d8c59c546c7310a8c2debabf5263186861e96952/0_263_3929_2357/master/3929.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=adebe66c8debb45d75e5adc31944d502"
-        width: 600
-        height: 360
+      - url: "https://d.newsweek.com/en/full/1774461/trump-marco-rubio-other-senators.jpg"
+        width: 3000
+        height: 2000
         isCached: true
-  - title: "Boehner: Trump 'stepped all over their loyalty' by lying to followers"
-    excerpt: "ADVERTISEMENT \"What struck me, especially after the election, was, here's all these people loyal to Donald Trump, and he abused them,\" Boehner added. \"He stepped all over their loyalty to him by ..."
-    publishedDateTime: 2021-04-11T23:24:00Z
-    webUrl: "https://thehill.com/homenews/house/547611-boehner-trump-stepped-all-over-their-loyalty-of-his-followers"
-    ampWebUrl: "https://thehill.com/homenews/house/547611-boehner-trump-stepped-all-over-their-loyalty-of-his-followers?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/547611-boehner-trump-stepped-all-over-their-loyalty-of-his-followers?amp"
+  - title: "Anti-Trump Republican Michael Wood Endorsed for House Seat by Texas' Biggest Newspaper"
+    excerpt: "Michael Wood, an anti–Donald Trump Republican who is running in a special election in Texas, was just endorsed by the state's biggest newspaper. The Dallas Morning News Monday recommended Wood to represent the 6th Congressional District. The endorsement ..."
+    publishedDateTime: 2021-04-05T16:06:00Z
+    webUrl: "https://www.newsweek.com/anti-trump-republican-michael-wood-endorsed-house-seat-texas-biggest-newspaper-1581026"
+    ampWebUrl: "https://www.newsweek.com/anti-trump-republican-michael-wood-endorsed-house-seat-texas-biggest-newspaper-1581026?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/anti-trump-republican-michael-wood-endorsed-house-seat-texas-biggest-newspaper-1581026?amp=1"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
     images:
-      - url: "https://thehill.com/sites/default/files/boehner_trump040721.jpg"
-        width: 980
-        height: 551
+      - url: "https://d.newsweek.com/en/full/1771634/michael-wood-texas-congressional-candidate.jpg"
+        width: 309
+        height: 292
         isCached: true
-  - title: "McConnell brushes off Trump's 'son of a b---h' comment"
-    excerpt: "on Tuesday told reporters that he wasn’t interested in getting into a food fight with former President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on ..."
-    publishedDateTime: 2021-04-13T19:07:00Z
-    webUrl: "https://thehill.com/homenews/senate/548010-mcconnell-brushes-off-trumps-son-of-a-b-h-comment"
-    ampWebUrl: "https://thehill.com/homenews/senate/548010-mcconnell-brushes-off-trumps-son-of-a-b-h-comment?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548010-mcconnell-brushes-off-trumps-son-of-a-b-h-comment?amp"
+  - title: "Gaetz, under investigation for sex allegations, sought blanket pardon from Trump: Sources"
+    excerpt: "Congressman under investigation, claims extortion plot During the final weeks of President Donald Trump's administration, Republican Rep. Matt Gaetz asked the White House for a blanket ..."
+    publishedDateTime: 2021-04-07T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/gaetz-investigation-sex-allegations-sought-blanket-pardon-trump/story?id=76911923"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 96
     images:
-      - url: "https://thehill.com/sites/default/files/mconnellmitch_41321_gettyimages.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.abcnews.com/images/Politics/matt-gaetz-donald-trump-01-ap-llr-210402_1617390326131_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump alumni launch America First Policy Institute"
-    excerpt: "a political group allied with former President Trump Donald Trump Trump: McConnell 'helpless' to stop Biden from packing court Romney on NRSC awarding Trump: Not 'my preference' McConnell ..."
-    publishedDateTime: 2021-04-13T18:48:00Z
-    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/547996-trump-alumni-launch-america-first-policy-institute"
-    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/547996-trump-alumni-launch-america-first-policy-institute?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/547996-trump-alumni-launch-america-first-policy-institute?amp"
+  - title: "Mo Brooks ‘has clear sailing,’ Trump says of Alabama Senate race"
+    excerpt: "Former President Donald Trump lauded Alabama Congressman Mo Brooks on Monday, predicting an easy victory for the Republican in the state’s U.S. Senate race next year. The comments come on the heels of Trump formally endorsing Brooks in the Senate race."
+    publishedDateTime: 2021-04-20T16:09:00Z
+    webUrl: "https://www.al.com/news/2021/04/mo-brooks-has-clear-sailing-trump-says-of-alabama-senate-race.html"
+    ampWebUrl: "https://www.al.com/news/2021/04/mo-brooks-has-clear-sailing-trump-says-of-alabama-senate-race.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/mo-brooks-has-clear-sailing-trump-says-of-alabama-senate-race.html?outputType=amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: al.com
+      domain: al.com
+    quality: 75
     images:
-      - url: "https://thehill.com/sites/default/files/rollinsbrooke_41321_americafirstpolicyinstitute.jpg"
-        width: 2392
-        height: 1574
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FGOVM6KJIRF43KGTGYCUEYHIWY.jpg"
+        width: 3366
+        height: 2326
         isCached: true
-  - title: "John Boehner says Trump incited Capitol attack via 'bullshit he'd been shoveling since he lost a fair election'"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former Republican House Speaker John Boehner in his new book blamed former President Donald Trump for the deadly Capitol insurrection on January 6, per an excerpt obtained by The New York Times, stating that ..."
-    publishedDateTime: 2021-04-07T14:18:00Z
-    webUrl: "https://www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boehner-trump-incited-capitol-riot-via-bullshit-hed-been-shoveling-2021-4?amp"
+  - title: "Trump says Mo Brooks ‘has done a spectacular job … He’s a strong guy, a tough guy’"
+    excerpt: "Former President Donald Trump on Tuesday all but endorsed Alabama Congressman Mo Brooks in his bid to win a U.S. Senate seat next year. Appearing on the Newsmax program “American Agenda,” Trump heaped praise on Brooks when host Heather Childers brought ..."
+    publishedDateTime: 2021-04-07T11:01:00Z
+    webUrl: "https://www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html"
+    ampWebUrl: "https://www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/04/trump-says-mo-brooks-has-done-a-spectacular-job-hes-a-strong-guy-a-tough-guy.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
+      name: al.com
+      domain: al.com
+    quality: 69
     images:
-      - url: "https://i.insider.com/606dbe1a30004b0019b26624?width=1200&format=jpeg"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBYBGAJFHRF7BMFXXOBPEV26OU.jpg"
+        width: 4032
+        height: 3024
+        isCached: true
+  - title: "Trump backs Rep. Mo Brooks in Alabama Senate race, who cheered Capitol rioters for ‘kicking ass’"
+    excerpt: "Former President Donald Trump is throwing his support behind Rep. Mo Brooks in next year’s Alabama Senate race, a staunch supporter who cheered the Jan. 6 crowd at the Capitol for “taking down names and kicking ass."
+    publishedDateTime: 2021-04-07T14:29:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-mo-brooks-alabama-senate-20210407-j37dwr3flbcd3dghai7oken2ua-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 62
+    images:
+      - url: "https://www.nydailynews.com/resizer/dnPImsXwM3lyMNeIzGI2SPoFcG8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H6KA7POU45DLBDWXB2NPXLDGAA.jpg"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
-  - title: "Corporate America isn’t welcoming former Trump Cabinet officials with open arms, headhunters say"
-    excerpt: "said top executives wary of backlash from associating with former Trump officials are boiling down Chao’s four-decade Washington résumé to its most recent entry: long-standing ally of Donald Trump, despite her resignation the day after the Jan. 6 ..."
-    publishedDateTime: 2021-04-07T10:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/04/07/former-trump-cabinet-officials-corporate-seats/?outputType=amp"
+  - title: "Trump Endorses Mo Brooks Among Alabama GOP Senate Contenders"
+    excerpt: "Former President Donald Trump has endorsed Rep. Mo Brooks in Alabama’s 2022 Senate race, siding with the conservative firebrand who riled up the crowd before the Capitol riot over other contenders in the state’s all-important Republican primary."
+    publishedDateTime: 2021-04-07T15:18:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-07/trump-endorses-mo-brooks-among-alabama-gop-senate-contenders"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-07/trump-endorses-mo-brooks-among-alabama-gop-senate-contenders?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-07/trump-endorses-mo-brooks-among-alabama-gop-senate-contenders?context=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/57NN3ZD46QI6XM6RTZNKHVJCBQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Nikki Haley backs Trump for 2024 run after previously saying he would be 'judged harshly by history'"
-    excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Nikki Haley, one of the Republicans tipped for a future GOP presidential run, said she wouldn't run in 2024 if former President Donald Trump decides to, after previously saying he would be \"judged harshly by ..."
-    publishedDateTime: 2021-04-13T12:26:00Z
-    webUrl: "https://www.businessinsider.com/nikki-haley-backs-trump-2024-after-condemning-capitol-riot-response-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/nikki-haley-backs-trump-2024-after-condemning-capitol-riot-response-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nikki-haley-backs-trump-2024-after-condemning-capitol-riot-response-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/60758daf3e3fe7001882a4a1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "EDocowWy9a1VQBFJJZ19enQ+FyQa2jSKi/k3zHuWqcWa+p9lbH1Ew0u3+EPGCNuo7ShvuRACdXryh0eAOucOVYLGziGK9c1HHO5rmnULkBYj9ll6a5haVs3Vyz0/wRg0VdGnvTyoZaFdLelpgVm3DM9R44DKFJU+8GK4wGkcCf5KM84VAkYCoDPemqn8B5JeWhESGlqtti+Lcm1dPqPqjde0Ip00Dpti/gchtI+hARjo6o8qOAKrqaaCKKl8zdGBpoTOs3Smn0mZl1DVp826BC3HUjTtiklCj3I0uc/ESbehKj6J9jmLCbFCiNZpD5VYNDw3Two2mF60u+TLcLTM9TurfEBJidZcuM7KkkpEm5vjxDPiPRJFvldFZ4nkuFJjMLLHMetYOZ6cUN0C62Khzu4WVu4BoyDsYpmrF20Sz4JCG49rjiGqMUEYxXG18sp6Wa4yDzTSZkZvKahLm9EMsIJjp8YbeVjtRgSoSGxxdAvLXwLpSOThcNU18JMJu+UWFEC/KXX30snt+NjzI3Dm0g==;Kra07uITyPKOTq7Lr18BiQ=="
 ---

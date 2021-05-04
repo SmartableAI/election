@@ -27,21 +27,101 @@ images:
     isCached: true
 
 related:
-  - title: "Paul Ryan: Trump debate will fade as new candidates emerge"
-    excerpt: "Nearly six months after the presidential election, Republicans remain divided over former President Donald Trump"
-    publishedDateTime: 2021-04-30T16:28:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027"
+  - title: "Kinzinger goes to Texas in search of anti-Trump Republicans"
+    excerpt: "Adam Kinzinger came to Texas this week to hunt unicorns. The Illinois congressman was looking for Republicans who, like him, see former President Donald Trump as a scourge on their party and a threat to democracy."
+    publishedDateTime: 2021-04-30T14:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/texas-special-election-poses-test-for-anti-trump-republicans/2021/04/30/38dd9c6c-a96d-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/texas-special-election-poses-test-for-anti-trump-republicans/2021/04/30/38dd9c6c-a96d-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/texas-special-election-poses-test-for-anti-trump-republicans/2021/04/30/38dd9c6c-a96d-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X2D2YIVJNAI6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 952
+        isCached: true
+  - title: "Celebrity politicians test voter interest in post-Trump era"
+    excerpt: "From Ronald Reagan and Arnold Schwarzenegger to Al Franken and Donald Trump, there’s a rich history of celebrities trying out new careers in politics"
+    publishedDateTime: 2021-05-02T12:34:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/celebrity-politicians-test-voter-interest-post-trump-era-77448478"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/celebrity-politicians-test-voter-interest-post-trump-era-77448478"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/celebrity-politicians-test-voter-interest-post-trump-era-77448478"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c9db11371d264d36a3059ee975d86cbf_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_31c3a5f964704f5eb205a7f35a3c5fb8_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Donald Trump Claims His Susan Wright Endorsement Shut Democrats Out of Texas House Race"
+    excerpt: "\"It would be nice, however, if the pundits and Fake News Media would state the real reason for this unprecedented (Democrats have never been shut out before) victory!\" Trump said."
+    publishedDateTime: 2021-05-03T19:50:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-claims-his-susan-wright-endorsement-shut-democrats-out-texas-house-race-1588318"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-claims-his-susan-wright-endorsement-shut-democrats-out-texas-house-race-1588318?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-claims-his-susan-wright-endorsement-shut-democrats-out-texas-house-race-1588318?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1786760/trump-claims-endorsement-shut-out-texas-democrats.jpg"
+        width: 3000
+        height: 1945
+        isCached: true
+  - title: "Kinzinger goes to Texas in search of anti-Trump Republicans"
+    excerpt: "Adam Kinzinger came to Texas this week to hunt unicorns. The Illinois congressman was looking for Republicans who, like him, see former President Donald Trump as a scourge on their party and a threat to democracy."
+    publishedDateTime: 2021-04-30T20:21:00Z
+    webUrl: "https://www.chron.com/news/article/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Utah Republicans’ bid to censure Sen. Mitt Romney for Trump impeachment votes fails"
+    excerpt: "Mitt Romney but ultimately rejected a motion to censure him Saturday for his votes at President Donald Trump’s impeachment trials. The measure narrowly failed, 798 to 711, in a vote by delegates to the state GOP convention,"
+    publishedDateTime: 2021-05-02T03:30:00Z
+    webUrl: "https://www.al.com/news/2021/05/utah-republicans-bid-to-censure-sen-mitt-romney-for-trump-impeachment-votes-fails.html"
+    ampWebUrl: "https://www.al.com/news/2021/05/utah-republicans-bid-to-censure-sen-mitt-romney-for-trump-impeachment-votes-fails.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/05/utah-republicans-bid-to-censure-sen-mitt-romney-for-trump-impeachment-votes-fails.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NT6QIB5EHZCYRI5ERTUUTQIN7E.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Why Trump is more likely to win in the GOP than to take his followers to a new third party"
+    excerpt: "Former President Donald Trump has claimed at times that he’ll start a third political party called the Patriot Party. In fact, most Americans – 62% in a recent poll – say they’d welcome the chance to vote for a third party."
+    publishedDateTime: 2021-05-03T12:02:00Z
+    webUrl: "https://www.chron.com/news/article/Why-Trump-is-more-likely-to-win-in-the-GOP-than-16146941.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Why-Trump-is-more-likely-to-win-in-the-GOP-than-16146941.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Why-Trump-is-more-likely-to-win-in-the-GOP-than-16146941.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 65
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "iLZ0YQY1FC4nbZibo89zL6R15S32aAZlGMC/UsZykqzy0Y0Xpoj30fXLxAZl0kPH7l/uCJR7ZcB0qUW5qjpNU70FhvZm61ENuRNqKvjDkKUPb7OVuvPJ4BKmv5U3/7GL01JeY9I5f8qD4LO4YSblsuPMh3/BQX7RpvCk7dj7pFHkRhdZj2FiGJvDPSDt7FLzX48hm/xNN+U01z2zK1osIfcKmvCYUQKQe2csUoiqHK3khAhjMCeiJtS5O8anPoRIncGfldJGFZszxiC8RXHvF9AslrNuW2l43hQx3kxqSvrkjPQuT93sZOLXRLhlzUXvesTYhXmLJyky4mjEo0H8JBp3PQdY8bIzdyVYGlt922n4WBrLx5hu3gXacKuR3u/VBxdrvRlwzV69QfyGulDQ3FELXPjAk6avCm61WGYONHAj/qq9w7fMaNNK/Wus9oyqcrbgg+74qt3a8d+0Lcq1l/LXseUPy/W2HoXvmyQG9HtsDGkSnWRE1k+lpEJY6LWrbDe2/hpIFTP5mJMI/k5Jtw==;hnAc5+zlx334eF5ls/qWhw=="

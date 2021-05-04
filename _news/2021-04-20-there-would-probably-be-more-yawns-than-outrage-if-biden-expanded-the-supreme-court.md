@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/20/thered-probably-b
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/20/thered-probably-be-more-yawns-than-outrage-if-biden-expanded-supreme-court/?outputType=amp"
 type: article
 quality: 119
-heat: 139
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rand Paul Calls for Joe Biden to Burn Face Mask to Promote COVID Vaccine"
+    excerpt: "Rand said that \"virtually zero\" people have died of COVID-19 after being vaccinated. The number is closer to 5,800, according to the U.S. Centers for Disease Control and Prevention."
+    publishedDateTime: 2021-04-22T01:13:00Z
+    webUrl: "https://www.newsweek.com/rand-paul-calls-joe-biden-burn-face-mask-promote-covid-vaccine-1585579"
+    ampWebUrl: "https://www.newsweek.com/rand-paul-calls-joe-biden-burn-face-mask-promote-covid-vaccine-1585579?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rand-paul-calls-joe-biden-burn-face-mask-promote-covid-vaccine-1585579?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1781388/rand-paul-biden-burn-mask-covid-vaccine.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Factbox: How Biden's proposed tax hikes for the wealthy would fund childcare, community college"
     excerpt: "President Joe Biden is expected to announce a sweeping \"American Families\" proposal next week to invest in government-funded childcare, universal pre-kindergarten education, and paid leave for workers - and make the wealthiest Americans pick up the tab."
     publishedDateTime: 2021-04-22T21:31:00Z
@@ -46,6 +62,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210422&t=2&i=1559591668&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3L1ED"
         width: 819
         height: 545
+        isCached: true
+  - title: "President Joe Biden pouring $1.7 billion into fighting COVID-19 variants as ‘nearly half of all cases’ are mutant strains"
+    excerpt: "Officials hope the funds will help authorities and their private sector partners detect COVID variants faster."
+    publishedDateTime: 2021-04-16T16:55:00Z
+    webUrl: "https://www.masslive.com/coronavirus/2021/04/president-joe-biden-pouring-17-billion-into-fighting-covid-19-variants-as-nearly-half-of-all-cases-are-mutant-strains.html"
+    ampWebUrl: "https://www.masslive.com/coronavirus/2021/04/president-joe-biden-pouring-17-billion-into-fighting-covid-19-variants-as-nearly-half-of-all-cases-are-mutant-strains.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2021/04/president-joe-biden-pouring-17-billion-into-fighting-covid-19-variants-as-nearly-half-of-all-cases-are-mutant-strains.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 50
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PDKSO3CFJJH4TKEOBX6PP7KRNI.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "gc0anaX+rdRYmCWJnVtsHr6CfKxV22YM0kaWDFxreajfuLXDuqgeKqt45wcbAwvZk9UqAjClEpxaTPyQZXftZTrOIThyldLY4oYNUWOAcDYfXCwMsWNEAFTToyiLz71DBmCOBpPRlR5ln23pwDLfDUmlp3kx53NAozzUNDoiZ/G85lwjp2EQ7XY/5eMPdvtMkffj2vuzIRhlzDVUsHOOUyZs/LMSLuvGgjRPbFQOG8AaSwXJKupY7+FSkvTVPQ1Mb6uVtfq/kiyIvmoV2dXm66PzQG/aZLPLW+WnqVYe+2nD1Q+0PJg6FR0ayBDnG3w+LhSkexlG5dmp9UaiuVodHn3/enCFBb7b0VqqgtpEblLt8ZO1aDnTQ4/wzC/3uyUYL2Kw8PHgdhA9U5M5c7B6A2jQrQjQBLQLgVjOoRjpGqi0NfkfDwzhIvsrsYVDRO82cyIv6lCCbCZF2VT+8quWPjNI9pdZ0IPs5KqleO7To3ZljehtXbFYYfDcciVvhEVOtBmkDio34QZE/4niV5OuGg==;oiywmtewqdDEF6ouGPFX9w=="

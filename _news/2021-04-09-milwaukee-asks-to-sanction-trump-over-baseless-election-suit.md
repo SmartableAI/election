@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trum
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html?outputType=amp"
 type: article
 quality: 140
-heat: 280
+heat: 260
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://thehill.com/sites/default/files/pelosinancy_031821gn8_lead.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Biden budget seeks to flip script on Trump administration’s spending priorities"
-    excerpt: "President Biden’s first budget request to Congress includes $1.5 trillion in federal spending that turbocharges funding for education, health and environmental protections — flipping the script on the very programs the Trump administration long ..."
-    publishedDateTime: 2021-04-09T15:01:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2021/04/09/what-is-in-biden-2022-budget/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/04/09/what-is-in-biden-2022-budget/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/04/09/what-is-in-biden-2022-budget/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 136
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FZ4MASUY5MI6XDYKGOCM6T5TTE.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Donald Trump Called on to Pay $144,000 in Legal Fees for 'Meritless' Wisconsin Election Lawsuit"
     excerpt: "Wisconsin Governor Tony Evers has called on former President Donald Trump and others to foot the bill for their failed legal challenges to overturn the state's 2020 election results. In motions filed Wednesday by Evers' attorneys, Trump and La Crosse ..."

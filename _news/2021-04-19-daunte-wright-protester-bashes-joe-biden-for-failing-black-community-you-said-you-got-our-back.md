@@ -47,6 +47,20 @@ related:
         width: 1024
         height: 695
         isCached: true
+  - title: "Biden: US shootings 'a national embarrassment'"
+    excerpt: "President Joe Biden is calling for action as the nation struggles with yet another mass shooting. While gun control appears to have taken a back seat, Biden on Friday insisted that wasn’t the case, saying “I’ve never not prioritized this."
+    publishedDateTime: 2021-04-17T01:04:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/17/biden-us-shootings-national-embarrassment/7263347002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4883882c-0e98-48ba-939c-48d309dfff89_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden says there is 'no justification for violence' at protests after police shot and killed a 20-year-old Black man in Minnesota"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% In his first remarks about the police killing of a 20-year old Black man, Daunte Wright, President Joe Biden said that \"it remains to be determined,\" whether the shooting was accidental or not. Biden added that ..."
     publishedDateTime: 2021-04-12T19:20:00Z

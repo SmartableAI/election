@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-30-officials-in-switzerland-push-back-at-biden-tax-haven-barb.md",
+      "title": "Officials in Switzerland push back at Biden 'tax haven' barb",
+      "excerpt": "Swiss authorities are taking issue with comments from U.S. President Joe Biden to Congress that many companies use Switzerland as a tax haven",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/officials-switzerland-push-back-biden-tax-haven-barb-77417358",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/officials-switzerland-push-back-biden-tax-haven-barb-77417358",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/210430_vod_onlocation_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/officials-switzerland-push-back-biden-tax-haven-barb-77417358",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/officials-switzerland-push-back-biden-tax-haven-barb-77417358",
+      "publishedDateTime": "2021-04-30T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-two-border-state-dems-break-with-biden-on-the-crisis-want-to-see-more-action.md",
       "title": "Two border state Dems break with Biden on the crisis: 'Want to see more action'",
       "excerpt": "Two border state Democratic senators say President Biden is not doing enough to address the ongoing border crisis. ",
@@ -66,7 +118,7 @@
       "originalUrl": "https://www.businessinsider.com/10-things-in-politics-biden-100-days-history",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -118,7 +170,7 @@
       "originalUrl": "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -500,7 +552,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/former-trump-official-zinke-eyes-montanas-new-us-house-seat/2021/04/29/1b910cc8-a924-11eb-a8a7-5f45ddcdf364_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -826,58 +878,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-30-polarizing-trump-ally-kobach-launches-bid-for-kansas-ag.md",
-      "title": "Polarizing Trump ally Kobach launches bid for Kansas AG",
-      "excerpt": "Polarizing conservative Kris Kobach launched a campaign Thursday for Kansas attorney general, attempting a political comeback in 2022 after losing nationally watched races for governor and U.S. Senate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/kobach-signals-intent-to-run-for-kansas-attorney-general/2021/04/29/c33997dc-a902-11eb-a8a7-5f45ddcdf364_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/kobach-signals-intent-to-run-for-kansas-attorney-general/2021/04/29/c33997dc-a902-11eb-a8a7-5f45ddcdf364_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6VAYMXFJEII6XKFHL5C53TPTMQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/kobach-signals-intent-to-run-for-kansas-attorney-general/2021/04/29/c33997dc-a902-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kobach-signals-intent-to-run-for-kansas-attorney-general/2021/04/29/c33997dc-a902-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp",
-      "publishedDateTime": "2021-04-29T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-04-29-pence-simon-schuster-book-deal-sparks-war-of-words-inside-company.md",
       "title": "Pence Simon & Schuster book deal sparks war of words inside company",
       "excerpt": "The employee petition demanding Simon & Schuster cancel former Vice President Mike Pence's two-book deal is a sign of a growing political divide within an industry founded on freedom of speech, observers say.",
@@ -932,6 +932,58 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-representative-sara-jacobs-president-bidens-address-gave-us-reasons-to-feel-hopeful.md",
+      "title": "Representative Sara Jacobs: President Biden's address \"gave us reasons\" to feel hopeful",
+      "excerpt": "Congresswoman Sarah Jacobs, a Democrat from California, says President Joe Biden's address to a joint session of Congress on Wednesday gave Americans many reasons to feel \"hopeful.\" She joins CBSN's Tanya Rivero for a closer look at Mr.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/",
+      "originalUrl": "https://www.cbsnews.com/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/29/41bc8ffb-b4cb-4c73-b658-89f738eac29c/thumbnail/1200x630/fa07439f6dbcd1f0e70a210a7ba2d4f5/cbsn-fusion-rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful-thumbnail-704368-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/",
+      "publishedDateTime": "2021-04-29T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1301,62 +1353,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-immigration-environment-arizona-nepa-lawsuit.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-environment-arizona-nepa-lawsuit.amp",
       "publishedDateTime": "2021-04-29T08:46:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-trump-says-florida-gov-desantis-would-be-considered-as-2024-running-mate.md",
-      "title": "Trump says Florida Gov. DeSantis ‘would be considered’ as 2024 running mate",
-      "excerpt": "Donald Trump revealed on Thursday that he is “100%” thinking about running for president again in 2024 and would “certainly” consider Florida Gov. Ron DeSantis as his running mate.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4KJc99QN03o/trump-desantis-2024-running-mate-considered",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4KJc99QN03o/trump-desantis-2024-running-mate-considered",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-desantis-2024-running-mate-considered.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-desantis-2024-running-mate-considered.amp",
-      "publishedDateTime": "2021-04-29T08:31:49-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
