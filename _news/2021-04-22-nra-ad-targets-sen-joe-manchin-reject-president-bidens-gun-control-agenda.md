@@ -1372,6 +1372,20 @@ related:
         width: 750
         height: 467
         isCached: true
+  - title: "There Is No Biden Moment"
+    excerpt: "If Joe Biden wanted to spend massively in response to a nearly unprecedented public-health emergency, he was elected too late. The conventional wisdom justifying the president's new FDR-sized"
+    publishedDateTime: 2021-05-04T12:06:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/04/there_is_no_biden_moment_542022.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/541946_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Tucker Carlson: Biden Admin Using Force Of Law To Crush Political Dissent"
     excerpt: "Tucker Carlson analyzes why federal agents raided Rudy Giuliani's home. TUCKER CARLSON: Today, Joe Biden gave his first address to a joint session of congress. The speech amounted to a mushy casserole of cliches designed to calm your suspicions that anything weird or scary might be going on and to reassure you that everything's going to be just fine,"
     publishedDateTime: 2021-05-01T00:43:00Z

@@ -1386,6 +1386,20 @@ related:
         width: 750
         height: 467
         isCached: true
+  - title: "There Is No Biden Moment"
+    excerpt: "If Joe Biden wanted to spend massively in response to a nearly unprecedented public-health emergency, he was elected too late. The conventional wisdom justifying the president's new FDR-sized"
+    publishedDateTime: 2021-05-04T12:06:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/04/there_is_no_biden_moment_542022.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/541946_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "President Biden: Private Sector Can't Meet Challenges Of Climate Change \"Alone\""
     excerpt: "President Biden told Thursday's virtual global climate summit that \"time is short\" for the U.S. to address climate change. He announced that the U.S. will cut its carbon emissions \"in half\" over the next decade."
     publishedDateTime: 2021-04-22T19:38:00Z

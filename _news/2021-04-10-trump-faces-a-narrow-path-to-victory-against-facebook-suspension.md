@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.com/amp/news/2021/04/09/trump-facebook-suspensi
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/09/trump-facebook-suspension-oversight-board-480671"
 type: article
 quality: 135
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/rockcms/2021-05/1235/210503-donald-trump-al-1047-c2648d_f77920af1b4dd0f14ea5d04f2a53a071db3c70db.jpg"
         width: 2500
         height: 1802
+        isCached: true
+  - title: "Will Trump be allowed back on Facebook? This board will decide"
+    excerpt: "The former president had his Facebook account cut off after the insurrection. But on Wednesday, Facebook's new oversight board will announce if he'll be allowed to use the platform again."
+    publishedDateTime: 2021-05-04T10:55:00Z
+    webUrl: "https://www.cnn.com/videos/business/2021/05/04/facebook-oversight-board-trump-decision-orig.cnn-business"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/05/04/facebook-oversight-board-trump-decision-orig.cnn-business"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/05/04/facebook-oversight-board-trump-decision-orig.cnn-business"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200717085352-zuckerberg-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "V+xgSEFGGjzMDE1o/5AyBcK0a/9kOwjBYW4z++uCVpHf0mLJnX1hyqkrBo15v9hTgec5NtOAq8leM8GqwnSjXHoqjvhWy6o+8SfNBtC5FeHkk5XbWFzzkwGzAmNBWsjubhvKV9B41CJrg63Cr87vm+M8rJIs/HSTf7ms8qoxx5HVgxeE6YMtGjBe15TmLtE2JeucwuRLr8WLGd1dCu+oZ9+Afzpk66mh6fMVNUbov67CXZdoRHc0/A6WdU5ME4brhcD/COsSg+zXQx5omidlflDQOdxe7L2HsbCu0T3qDyAMCfBYidC8i+mjH+YiEvzHASJ5rnEPiWC6W12MMaAnHGwm6TaagonRp3OsFmclYW4scuj8v9Dg2mQvxQU7xlsuPqFiacHWZwhB8nhIZS6V13gkNl+CPw3++00oKsJs8RMh0OK/Cbe2mMATEzIc+FtzA8OMy6L5iRoBjJYB2ydZZjFV5KyUsn/kOiJDis5qCXVv4YhHEhlkGJ+lg+Lh9fdaMWDjRVNVP2+V3/C2r8mNxw==;HnLdIx4VbixEUWSfHa6yqg=="

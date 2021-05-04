@@ -781,6 +781,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Joe Biden Jimmy Carter Photo Leaves People Confused About How Tall They Are"
+    excerpt: "The Carter Center shared the photo on Twitter and said: \"We're pleased to share this wonderful photo from the @POTUS and @FLOTUS visit to see the Carters in Plains, Ga.! Thank you President and Mrs. Biden!"
+    publishedDateTime: 2021-05-04T13:06:00Z
+    webUrl: "https://www.newsweek.com/bizarre-optical-illusion-bidens-carters-photo-leaves-people-baffled-1588437"
+    ampWebUrl: "https://www.newsweek.com/bizarre-optical-illusion-bidens-carters-photo-leaves-people-baffled-1588437?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bizarre-optical-illusion-bidens-carters-photo-leaves-people-baffled-1588437?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1786993/joe-jill-biden-meet-carters.jpg"
+        width: 680
+        height: 454
+        isCached: true
   - title: "Biden Accelerates Refugee Admissions, But Won't Raise Trump's Low Cap"
     excerpt: "Joe Biden signed an emergency determination that would speed refugee admissions to the U.S., but he did not lift Trump's low cap of 15,000 refugees."
     publishedDateTime: 2021-04-16T18:17:00Z

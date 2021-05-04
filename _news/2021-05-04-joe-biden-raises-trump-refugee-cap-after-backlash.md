@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 1690
+heat: 1710
 published: true
 
 provider:
@@ -767,6 +767,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1786830/robin-bullock-joe-biden-president-sin.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Joe Biden Jimmy Carter Photo Leaves People Confused About How Tall They Are"
+    excerpt: "The Carter Center shared the photo on Twitter and said: \"We're pleased to share this wonderful photo from the @POTUS and @FLOTUS visit to see the Carters in Plains, Ga.! Thank you President and Mrs. Biden!"
+    publishedDateTime: 2021-05-04T13:06:00Z
+    webUrl: "https://www.newsweek.com/bizarre-optical-illusion-bidens-carters-photo-leaves-people-baffled-1588437"
+    ampWebUrl: "https://www.newsweek.com/bizarre-optical-illusion-bidens-carters-photo-leaves-people-baffled-1588437?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bizarre-optical-illusion-bidens-carters-photo-leaves-people-baffled-1588437?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1786993/joe-jill-biden-meet-carters.jpg"
+        width: 680
+        height: 454
         isCached: true
   - title: "Former Trump budget director on Biden's infrastructure plan"
     excerpt: "President Biden's infrastructure and jobs plan is already facing opposition from Republican lawmakers. Russ Vought, former director of the Office of Management and Budget under President Trump, spoke to \"Red and Blue\" host Elaine Quijano about his oppositon to the proposal."

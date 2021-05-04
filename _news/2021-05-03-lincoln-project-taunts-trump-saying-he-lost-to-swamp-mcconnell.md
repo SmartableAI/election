@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/551420-lincoln-project-trump-l
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/551420-lincoln-project-trump-lost-to-swamp-mcconnell?amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lincoln Project airs one last ding at Trump before he leaves Mar-a-Lago for New Jersey"
+    excerpt: "President Donald Trump set to relocate from Mar-a-Lago to New Jersey for summer, The Lincoln Project is teasing him on Palm Beach airwaves."
+    publishedDateTime: 2021-05-04T13:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/04/lincoln-project-airs-final-taunt-trump-readies-leave-palm-beach/4935584001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4935584001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4935584001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/30/NPPP/50febe59-ef03-4319-a2bb-bc3926a9b06f-Billboard_barge.jpg?auto=webp&crop=1279,720,x0,y64&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Mitch McConnell draws a red line at $600 billion for infrastructure and jobs — and says Trump tax cuts are off-limits"
     excerpt: "McConnell said there would be \"zero\" GOP support for Biden's $4.1 trillion spending plans, which include universal pre-K and cash payments."
     publishedDateTime: 2021-05-03T21:30:00Z

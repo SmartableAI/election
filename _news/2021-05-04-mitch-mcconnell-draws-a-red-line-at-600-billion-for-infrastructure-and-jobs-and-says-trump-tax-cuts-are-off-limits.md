@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Lincoln Project airs one last ding at Trump before he leaves Mar-a-Lago for New Jersey"
+    excerpt: "President Donald Trump set to relocate from Mar-a-Lago to New Jersey for summer, The Lincoln Project is teasing him on Palm Beach airwaves."
+    publishedDateTime: 2021-05-04T13:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/04/lincoln-project-airs-final-taunt-trump-readies-leave-palm-beach/4935584001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4935584001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4935584001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/30/NPPP/50febe59-ef03-4319-a2bb-bc3926a9b06f-Billboard_barge.jpg?auto=webp&crop=1279,720,x0,y64&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Mike Lindell told Kimmel he still speaks to Trump once a month – most recently about Trump's border fears"
     excerpt: "MyPillow CEO Mike Lindell told Jimmy Kimmel he spoke to Donald Trump a few weeks ago. Trump was \"worried about what was going down at the border.\""
     publishedDateTime: 2021-04-29T12:58:00Z

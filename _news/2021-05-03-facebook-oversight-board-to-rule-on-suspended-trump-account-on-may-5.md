@@ -64,6 +64,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Will Trump be allowed back on Facebook? This board will decide"
+    excerpt: "The former president had his Facebook account cut off after the insurrection. But on Wednesday, Facebook's new oversight board will announce if he'll be allowed to use the platform again."
+    publishedDateTime: 2021-05-04T10:55:00Z
+    webUrl: "https://www.cnn.com/videos/business/2021/05/04/facebook-oversight-board-trump-decision-orig.cnn-business"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/05/04/facebook-oversight-board-trump-decision-orig.cnn-business"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/05/04/facebook-oversight-board-trump-decision-orig.cnn-business"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200717085352-zuckerberg-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "E074tTK35v0JrLBY+lhrv3V3cpjBP5KFiUxdaGEpF71f0hyIKGc+501/kD7hkLTT0uCp6ZMlrXiDVmJkMYT9ZP8VCOb2Oh+UOpacmt3xbXP+7z7VG5hidTJCtaz2Iihw0MtiElhAMjdxosW+p1dEAdX1ldNTkYkCdPUnnW1t414vwfhxb1E7rMdXmXeX2esa73nCTWp2dO5bQdPe0KQL57wAb/gvIyXxVqeE4MPOPVJw70pDCRnVla/rmPhp71yB8u3VAw4ziRTMDe9PDNjXkSvermQJRjKRUqYw8G64l5wpLQhjDaWSj5HRMkgaPTzL87xKGGb4hu8xSLacpuuCc40aht0KMu4sTzNGq1bMuNU=;ZZvNJh2Sl0dIL5tG9UqJmw=="
 ---
