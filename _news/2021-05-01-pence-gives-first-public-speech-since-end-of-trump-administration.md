@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/video/politics/pence-gives-first-pu
 webUrl: "https://www.washingtonpost.com/video/politics/pence-gives-first-public-speech-since-end-of-trump-administration/2021/05/01/3b006924-331c-471a-8796-f0d0e8035d97_video.html"
 type: article
 quality: 130
-heat: 610
+heat: 630
 published: true
 
 provider:
@@ -344,6 +344,15 @@ related:
     excerpt: "Former President Donald Trump will find out this week whether he gets to return to Facebook. The social network’s quasi-independent Oversight Board says it will announce its decision Wednesday on a case concerning the former president."
     publishedDateTime: 2021-05-03T14:02:00Z
     webUrl: "https://www.usnews.com/news/politics/articles/2021-05-03/facebook-oversight-board-to-rule-on-suspended-trump-account"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "House Republicans Ready Vote on Trump Critic's Leadership Post: Sources"
+    excerpt: "The expected House Republican Conference vote is only the latest skirmish in a Republican civil war between Trump supporters and those who worry that his repeated false election c"
+    publishedDateTime: 2021-05-04T21:41:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-04/house-republicans-ready-vote-on-trump-critics-leadership-post-sources"
     type: article
     provider:
       name: U.S. News & World Report

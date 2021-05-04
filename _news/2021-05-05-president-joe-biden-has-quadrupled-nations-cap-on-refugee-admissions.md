@@ -747,6 +747,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "House Democrats urge Biden to suspend vaccine patents"
+    excerpt: "Simply put, we must make vaccines, testing, and treatments available everywhere if we are going to crush the virus anywhere,” lawmakers said."
+    publishedDateTime: 2021-05-04T16:01:00Z
+    webUrl: "https://thehill.com/changing-america/well-being/prevention-cures/551697-house-democrats-urge-biden-to-suspend-vaccine"
+    ampWebUrl: "https://thehill.com/changing-america/well-being/prevention-cures/551697-house-democrats-urge-biden-to-suspend-vaccine?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/prevention-cures/551697-house-democrats-urge-biden-to-suspend-vaccine?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/gettyimages-1232585235.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Joe Biden raises refugee admissions cap after outcry"
     excerpt: "President Joe Biden has lifted the US annual refugee cap, bowing to outrage from his party after he initially opted to stick by the Trump-era figure. The Democratic president is raising the cap from 15,"
     publishedDateTime: 2021-05-03T20:44:00Z
@@ -762,6 +778,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/123E1/production/_118312747_mediaitem118312746.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Smiling Jimmy Carter seen in photo from Biden visit"
+    excerpt: "The White House released a photo of a smiling Jimmy Carter sitting in a chair and holding the hand of first lady Jill Biden while the president kneels beside a seated Rosalynn Car"
+    publishedDateTime: 2021-05-04T19:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/smiling-jimmy-carter-seen-in-photo-from-biden-visit/2021/05/04/e5dd5cd6-ad14-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/smiling-jimmy-carter-seen-in-photo-from-biden-visit/2021/05/04/e5dd5cd6-ad14-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/smiling-jimmy-carter-seen-in-photo-from-biden-visit/2021/05/04/e5dd5cd6-ad14-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/74PF6CFM7YI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Pastor Robin Bullock Says It's a Sin to Recognize Joe Biden as President"
     excerpt: "\"You can pray for the office of the president. But you cannot pray for President Joe Biden,\" Bullock said. \"Because you might as well pray for the Easter Bunny, because he don't exist.\""
@@ -1187,6 +1219,22 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2021/04/Biden_100_Days_Promises_73838.jpg?w=1024&h=682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Judge orders Justice Dept. to release Trump obstruction memo"
+    excerpt: "A federal judge has ordered the release of a legal memorandum the Trump-era Justice Department prepared for then-Attorney General William Barr before he announced his conclusion that President Donald Trump had not obstructed justice during the Russia investigation."
+    publishedDateTime: 2021-05-04T19:40:00Z
+    webUrl: "https://www.chron.com/news/article/Judge-orders-Justice-Dept-to-release-Trump-16151235.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Judge-orders-Justice-Dept-to-release-Trump-16151235.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Judge-orders-Justice-Dept-to-release-Trump-16151235.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "More perilous phase ahead for President Joe Biden after his 1st 100 days"
     excerpt: "The president is racing against the calendar, governing with the most slender of majorities on Capitol Hill while knowing that historically the party that holds the White House loses seats in midterm elections,"

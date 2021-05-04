@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's plan to fight domestic terror will mark shift from Trump"
+    excerpt: "The Biden administration will release its highly anticipated national strategy for fighting domestic terrorists in the coming weeks, the White House announced Tuesday, signaling a major break from President Donald Trump's administration in addressing more directly the threats posed by White supremacists"
+    publishedDateTime: 2021-05-04T20:33:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JhnDnQNdfLM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/04/politics/white-house-domestic-terror-strategy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/white-house-domestic-terror-strategy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190222184317-white-house-exterior-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Joe Biden warns democracy is still threatened and Trump's looming shadow proves it"
     excerpt: "As President Joe Biden used the grand Washington stage to bemoan the Capitol insurrection as the worst attack on US democracy since the Civil War, a flurry of Trump-era flashbacks underscored the depth of the still unvanquished threat.\n    \n"
     publishedDateTime: 2021-04-29T09:36:49Z

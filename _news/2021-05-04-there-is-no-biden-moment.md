@@ -3,8 +3,8 @@ category: news
 title: "There Is No Biden Moment"
 excerpt: "If Joe Biden wanted to spend massively in response to a nearly unprecedented public-health emergency, he was elected too late. The conventional wisdom justifying the president's new FDR-sized"
 publishedDateTime: 2021-05-04T12:06:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/05/04/there_is_no_biden_moment_542022.html"
-webUrl: "https://www.realclearpolitics.com/2021/05/04/there_is_no_biden_moment_542022.html"
+originalUrl: "https://www.realclearpolitics.com/2021/05/04/there_is_no_biden_moment_542022.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/05/04/there_is_no_biden_moment_542022.html#!"
 type: article
 quality: 65
 heat: -1
@@ -1463,6 +1463,6 @@ related:
         height: 2901
         isCached: true
 
-secured: "RDeP6DT9GPkWGKu0c2WLG8vTCGY6APJg0Te+YH5DzOGrFFWtL/WVEbzaV3mQQCXhWHKc0G9rlSqXtldPWoXCHrka8tGyC6IJ+9ra7gemE9rvUj67EHgqdg2zRPwsuNPt+/naF+Es+S+1Aoi8PpW6kRFS/hZV3e34sRVouLbRUonWNrzbL/HuxludxQen+C0TRyx74Pu95PlDvynyU+ONZt5Uggpf/K/sAL8Ms0+h0ftIP9kOJ68wStVKifbgTJ6mY4PDUv6vtyc8d5tbL6O71J/Ef4wVKq16cFNvIBuLD1IennwhaeB1keV3cBinVirFRijPqPfmNMRK07Vg5EiOqxypLR7JulTPd/yRSl7YGaA=;iq1c5O8ag+fBoAG2QPxmtQ=="
+secured: "eFEWLmue7n1ZlFag43FbklbopxnfV8YxTQK/w22ULnKqgZ2OnMNHsYqbcYm86RryTk/4zzwLGBmGdQZ8kRhYvLf/Gws/fVWmB2mPODgiyq3pkdYdOdzSyRunlAGE/HWBpW7RN2Y9FZLoiKkadG0S6Dmr/KN5IZW53691aVk+gzawBZo6g6Z5husR/XfnEwecaRrf90In/yTQY2FPkiHe0dYCcrhP0PNFX9pycDASirNFDIzo5zoAubOEihd7XFN2h3Nd06gsWsaXpQ5QaYVYj5e2zSgK3WdDNXPUHruGvxlcUGAjcnZ/QioPH4/s7MwZtvzWmkz9U/7a8+7aZxoKQPwO2B4cD8uIL9DVvm1PKPI=;lFtZVP7It8yV8rZWa0K4Wg=="
 ---
 

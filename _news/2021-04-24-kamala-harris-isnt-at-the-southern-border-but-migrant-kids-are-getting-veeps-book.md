@@ -64,6 +64,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Harris says she spoke to leaders of Japan, Finland about combating migrant crisis"
+    excerpt: "Vice President Kamala Harris on Tuesday said she has spoken to leaders of countries such as Japan, Finland and Ireland about helping Northern Triangle countries, as part of the response to the migration crisis at the southern U.S. border."
+    publishedDateTime: 2021-05-04T20:42:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mRQwVOg5V4s/harris-japan-finland-migrant-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-japan-finland-migrant-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-japan-finland-migrant-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/522168c6-fcb3-4c3e-bd13-73e602efa01a/55e12e22-50d2-4aa1-af41-481d1e901615/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Republican states lambaste alleged legal defects of Biden's 'radical' climate plan"
     excerpt: "Republican state attorneys general are taking issue with legal defects in President Biden's plan to reduce U.S. carbon emissions in half from 2005 levels by 2030."
     publishedDateTime: 2021-04-22T21:07:11Z

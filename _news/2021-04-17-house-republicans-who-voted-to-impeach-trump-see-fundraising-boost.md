@@ -96,6 +96,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Liz Cheney Draws More GOP Fire Over Anti-Trump Stance"
+    excerpt: "House Republican leader Kevin McCarthy questions whether the Wyoming lawmaker can carry out her job in leadership ahead of a closed-door meeting next week."
+    publishedDateTime: 2021-05-04T19:53:00Z
+    webUrl: "https://www.wsj.com/articles/liz-cheney-draws-more-gop-fire-over-anti-trump-stance-11620161615"
+    ampWebUrl: "https://www.wsj.com/amp/articles/liz-cheney-draws-more-gop-fire-over-anti-trump-stance-11620161615"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/liz-cheney-draws-more-gop-fire-over-anti-trump-stance-11620161615"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-334085/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "DtknmLUIhF4+VfEYQN8C8vuohiVsAYrSEfBOoKPZo999gmAMwrJunUw8dO2QYaimEtFZuI1G/9SlaCxTI0GjEhsF4r6bzXUJ4//BELSTHRPDAC36oTe8G5Q3h9hhEifJ8H9CLZJBB6sblPdtb2//17A7D9YLysaw3nKHN3r/v8+EUCKoV2pTa9I5OxeNVCCwzM+CCJe4RwBr8Z4yUJ6ISwmFa/McaEwySLOBK/873a+gjHaXYHMBBmqlV3rJuByOL52d/vooMror4+OpghWGpQU1HBhPFMcNTqmJFtylM/q+kuIZ0M18zH2M+xEgvoLYqO4fYh/bfJ78Th6IdXIHIdfglEaJnvmpieB4utORmW0BNR432bv/JTyeqMn66extBXyPPqpQnJ6gWhiLzGY1z+kgcUJtdxzoWi2MuI6k4AdX/Nkv8ZqsI7IwsBUQ4VPsjO32DXu/5CD4KtpAZDE1eltruXsYl/xhUE1pUOeGixz0fuoxKpRHMcqVgJrdZrrcfwlQUC+i65ByY1tOubo95A==;5TabURMVjt2H9TXVanwlLg=="
 ---

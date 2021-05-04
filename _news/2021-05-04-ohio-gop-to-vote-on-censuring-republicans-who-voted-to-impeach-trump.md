@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ohio-gop-censure-house-republicans-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-gop-censure-house-republicans-trump-impeachment.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-lawsuit.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Liz Cheney Draws More GOP Fire Over Anti-Trump Stance"
+    excerpt: "House Republican leader Kevin McCarthy questions whether the Wyoming lawmaker can carry out her job in leadership ahead of a closed-door meeting next week."
+    publishedDateTime: 2021-05-04T19:53:00Z
+    webUrl: "https://www.wsj.com/articles/liz-cheney-draws-more-gop-fire-over-anti-trump-stance-11620161615"
+    ampWebUrl: "https://www.wsj.com/amp/articles/liz-cheney-draws-more-gop-fire-over-anti-trump-stance-11620161615"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/liz-cheney-draws-more-gop-fire-over-anti-trump-stance-11620161615"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-334085/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "YRZiVHyjffKFnQxdq+pnQuTpF6rJiy+Ol2TzaX/9SYFbEF4CFD8BoB18HHNkxMLrT/bkDkzsT0U511gbtdYfQGeUIl07nAsE/hfE651xjSXhmSi3jvWdY42v0Q8qPZbpjuqcqdB1XOmsCTcZCE6xnQ+p7qETEQws742ABFaACEA1Plij00rah9evmi5mOb4BNCCgBWH31QnN3k/3S0+E+lLTaKX8lumYvFsA85LbbYHZEv3wHF724+NaBGKcSL2ulG+TrykKna7zpW77FrsSnlCCDd4gMfIqxqnif7E3JZpdG+hh20JExYKpP4qWPe539efhK9vwXQ9xCMFv9oSL6g80Tirp7LJZwUTscH+z1cs=;skMJfm1NF4a4qUWfr5Xd9A=="

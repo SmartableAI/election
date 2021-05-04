@@ -356,6 +356,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "House Republicans Ready Vote on Trump Critic's Leadership Post: Sources"
+    excerpt: "The expected House Republican Conference vote is only the latest skirmish in a Republican civil war between Trump supporters and those who worry that his repeated false election c"
+    publishedDateTime: 2021-05-04T21:41:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-04/house-republicans-ready-vote-on-trump-critics-leadership-post-sources"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "khKbYsjUKUzQY12NvJtc5b1gc8Tkq/bkVa16O6EwEaLuTZ3Lo3eRnpQTVfH6zANkH/WRtQL3TqDqav+eZD4v4XMpgBJS9HEDaSYzh81D5Pd5/tSSO02bQ4/TK0ZxQeEiricYOyZqveX4pv75SIGYSN18s3f91d8vanWqYUv0C/qAUiR2BTDTXXhyw8ennPFL+EBV+iLPYQtdW6MDfdTADZWVqaJGfhrXVj7n1k3pATgkOoLlpmTcJ7h4V1DI14rXXyyO6UDFRdnoVBuNpbu2uAPdQmgSQTm0ukLnIYzTxCABe2I2CT/qp9Gi47P1Fu4gGqDYMYeVJQF/SJfYHtM8rCOirAuKWrc9EZQTuZGqK7Ih3lKCx8+PHol3TydLaQ7asXOTu22jW8cKdZZAAmaYyNfHQQ3UDZ8hpBQt3HQv/CeY1pWKeTgMJb0pH5tqaA4XqrhuwjiGtIpN07w3v8Xe/tjNgPKvKl5ea80JMoNTUYywCsaJuidYJA1uM2OVWo3l65Tw5mBu7qgdn9jiYukOHg==;zAfeFkQztKlYz1mzpOs2aw=="
 ---

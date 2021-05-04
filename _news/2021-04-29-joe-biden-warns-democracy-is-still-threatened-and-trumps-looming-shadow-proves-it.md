@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's plan to fight domestic terror will mark shift from Trump"
+    excerpt: "The Biden administration will release its highly anticipated national strategy for fighting domestic terrorists in the coming weeks, the White House announced Tuesday, signaling a major break from President Donald Trump's administration in addressing more directly the threats posed by White supremacists"
+    publishedDateTime: 2021-05-04T20:33:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JhnDnQNdfLM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/04/politics/white-house-domestic-terror-strategy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/white-house-domestic-terror-strategy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190222184317-white-house-exterior-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden revokes Trump executive order sanctioning International Criminal Court officials"
     excerpt: "President Joe Biden revoked a Trump executive order that authorized sanctions on International Criminal Court officials and lifted sanctions on two officials, Secretary of State Antony Blinken said in a statement Friday.\n    \n"
     publishedDateTime: 2021-04-02T20:04:57Z

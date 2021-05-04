@@ -205,6 +205,22 @@ related:
         width: 1279
         height: 720
         isCached: true
+  - title: "Harris touts research during first Wisconsin trip"
+    excerpt: "Wisconsin Republicans said Harris' time would have been better spent at the U.S. border dealing with the increase of migrants trying to cross from Mexico. Harris also participated in a roundtable discussion about the investments in research and development proposed in Biden's infrastructure jobs plan,"
+    publishedDateTime: 2021-05-04T21:59:00Z
+    webUrl: "https://www.ctpost.com/news/article/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
+    ampWebUrl: "https://www.ctpost.com/news/amp/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
+    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
+    type: article
+    provider:
+      name: Connecticut Post
+      domain: ctpost.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Harris trip to Wisconsin draws Republican criticism"
     excerpt: "Vice President Kamala Harris planned to tour clean energy laboratories on the University of Wisconsin-Milwaukee campus Tuesday during her first Wisconsin visit since taking office."
     publishedDateTime: 2021-05-04T17:43:00Z
@@ -236,6 +252,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/kam3.jpg?w=700&h=434"
         width: 700
         height: 434
+        isCached: true
+  - title: "Kamala Harris touts research during first Wisconsin trip as vice president"
+    excerpt: "Wisconsin Republicans said Harris' time would have been better spent at the U.S. border dealing with the increase of migrants."
+    publishedDateTime: 2021-05-04T19:35:00Z
+    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/kamala-harris-touts-research-during-first-wisconsin-trip-as-vice-president/article_50f6164c-0690-5387-b44e-43c0615d4436.html"
+    ampWebUrl: "https://madison.com/news/local/govt-and-politics/kamala-harris-touts-research-during-first-wisconsin-trip-as-vice-president/article_50f6164c-0690-5387-b44e-43c0615d4436.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/kamala-harris-touts-research-during-first-wisconsin-trip-as-vice-president/article_50f6164c-0690-5387-b44e-43c0615d4436.amp.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 73
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/1c/81c27c0b-ea43-51a9-94cb-4e8e34090bab/6091a225ba06a.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Fact check: Kamala Harris’ children’s book is not in ‘welcome packs’ for migrants"
     excerpt: "Long Beach officials say migrant children from the U.S.-Mexico border are not receiving copies of Harris’ book as part of a welcome package."
@@ -444,6 +476,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/29/USAT/565d2a8b-823e-45df-b682-5b63d9d2a2e9-GTY_1232582885.jpg?auto=webp&crop=3595,2023,x0,y106&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vice President Kamala Harris talks broadband, American Jobs Plan at UWM"
+    excerpt: "Milwaukee, Vice President Kamala Harris talks about broadband, investments in research and development in the  American Jobs Plan."
+    publishedDateTime: 2021-05-04T21:36:00Z
+    webUrl: "https://www.jsonline.com/videos/news/2021/05/04/vice-president-kamala-harris-talks-broadband-american-jobs-plan-uwm/4945677001/"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/04/PMJS/bcc9b78a-8bac-4c57-b99d-98f28a9eaa51-98624c12-7040-4318-9f1a-c8920f978be5_thumbnail.png?quality=10"
+        width: 852
+        height: 480
         isCached: true
   - title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
     excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."

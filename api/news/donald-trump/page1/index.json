@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-05-it-really-fks-the-other-24-wannabes-how-facebook-could-give-trump-a-huge-boost.md",
+      "title": "‘It really f**ks the other ‘24 wannabes' — How Facebook could give Trump a huge boost",
+      "excerpt": "Donald Trump’s potential reemergence on Facebook this week could dramatically upend politics. But it’s not the megaphone the platform offers him — it’s the money. Trump has not been on Facebook since it booted him in the wake of his encouragement of the January 6 riots at the Capitol.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/05/04/trump-facebook-social-media-return-485379",
+      "originalUrl": "https://www.politico.com/news/2021/05/04/trump-facebook-social-media-return-485379",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/fc/90/4fe8e5f94ec8aa224e75bbc21d33/210504-trump-getty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-house-minority-leader-kevin-mccarthy-cites-republican-concerns-about-liz-cheneys-ability-to-carry-out-her-job-after-she-calls-out-trump.md",
       "title": "House Minority Leader Kevin McCarthy cites Republican concerns about Liz Cheney’s ‘ability to carry out her job’ after she calls out Trump",
       "excerpt": "Rather than standing by Rep. Liz Cheney, House Minority Leader Kevin McCarthy essentially landed himself in the camp of her Republican critics.",
@@ -166,7 +223,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1830,
+      "heat": 1890,
       "tags": null,
       "images": [
         {
@@ -575,7 +632,7 @@
       "originalUrl": "https://www.washingtonpost.com/video/politics/pence-gives-first-public-speech-since-end-of-trump-administration/2021/05/01/3b006924-331c-471a-8796-f0d0e8035d97_video.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 610,
+      "heat": 630,
       "tags": null,
       "images": [
         {
@@ -737,7 +794,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1503,54 +1560,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine.md",
-      "title": "Trump gives thumbs up on Post’s push for lifesaving COVID vaccine",
-      "excerpt": "The Post’s push to get New Yorkers to roll up their sleeves and get vaccinated against the coronavirus is drawing a big thumbs-up from Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/22/trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine/",
-      "originalUrl": "https://nypost.com/2021/04/22/trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/thumbs-up-on-posts-push-for-vaccines-index.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/22/trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/22/trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine/amp/",
-      "publishedDateTime": "2021-04-22T17:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

@@ -349,6 +349,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "House Republicans Ready Vote on Trump Critic's Leadership Post: Sources"
+    excerpt: "The expected House Republican Conference vote is only the latest skirmish in a Republican civil war between Trump supporters and those who worry that his repeated false election c"
+    publishedDateTime: 2021-05-04T21:41:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-04/house-republicans-ready-vote-on-trump-critics-leadership-post-sources"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
   - title: "Eight Republican 2024 Candidates Speak in Texas Next Week, but Not Trump"
     excerpt: "Candidates Speak in Texas Next Week, but Not Trump WASHINGTON (Reuters) - A Republican Party event in Texas next week will hear from eight potential candidates for the party's presidential nomination in 2024,"
     publishedDateTime: 2021-04-30T21:50:00Z

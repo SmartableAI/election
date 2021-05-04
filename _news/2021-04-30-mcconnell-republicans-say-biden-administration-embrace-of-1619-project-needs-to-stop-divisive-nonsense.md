@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden thanks 'conservatives' like McConnell for pushing vaccines"
+    excerpt: "President Biden thanked Republicans pushing vaccination in a Covid-19 briefing Tuesday, specifically citing Sen. Minority Leader Mitch McConnell, R-Ky."
+    publishedDateTime: 2021-05-04T21:12:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBGLv4Xgx4w/biden-thanks-conservatives-mcconnell-pushing-vaccines"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-thanks-conservatives-mcconnell-pushing-vaccines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-thanks-conservatives-mcconnell-pushing-vaccines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/Biden-1.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "McConnell says no GOP senator will back Biden's $4 trillion infrastructure plan"
     excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., said Monday that he did not expect any Republican senator to support President Biden’s push for a $4 trillion spending package on infrastructure and other projects."
     publishedDateTime: 2021-05-03T19:34:13Z
