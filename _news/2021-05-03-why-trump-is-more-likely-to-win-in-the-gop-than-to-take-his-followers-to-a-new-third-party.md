@@ -91,6 +91,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump's 'big lie' becomes new litmus test for success in GOP"
+    excerpt: "It’s scary,” said Michael Wood, the Texas Republican congressional candidate who based his campaign on a vow to push the GOP past the “cult of personality” that is Trump. In the end, he garnered just 3% of the vote in Saturday’s special election,"
+    publishedDateTime: 2021-05-04T02:32:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Will Donald Trump's Facebook Account Return?"
     excerpt: "Donald Trump may be back online as Facebook’s oversight board prepares to announce its decision on his expulsion from the platform. The former president was given the boot a day after the Jan. 6 Capitol riot and the decision Wednesday is certain to attract political controversy from one side or the other."
     publishedDateTime: 2021-05-03T21:41:00Z

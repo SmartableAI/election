@@ -1,36 +1,48 @@
 ---
 category: news
-title: "The Memo: Trump's critics face wrath of GOP base"
-excerpt: "Cheney voted for Trump’s impeachment and has become perhaps his most persistent foe among GOP officeholders. But the bigger picture is one in which Cheney is in danger of losing her House leadership position and another Trump critic,"
-publishedDateTime: 2021-05-03T21:47:00Z
-originalUrl: "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base"
-webUrl: "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base"
-ampWebUrl: "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp"
+title: "Trump's 'big lie' becomes new litmus test for success in GOP"
+excerpt: "It’s scary,” said Michael Wood, the Texas Republican congressional candidate who based his campaign on a vow to push the GOP past the “cult of personality” that is Trump. In the end, he garnered just 3% of the vote in Saturday’s special election,"
+publishedDateTime: 2021-05-04T02:32:00Z
+originalUrl: "https://www.chron.com/news/article/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
+webUrl: "https://www.chron.com/news/article/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
+ampWebUrl: "https://www.chron.com/news/amp/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
 type: article
-quality: 125
-heat: 245
-published: true
+quality: 75
+heat: -1
+published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/trumpdonald_cheneyliz_012121getty-bc_split.jpg"
-    width: 980
-    height: 551
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
+  - title: "The Memo: Trump's critics face wrath of GOP base"
+    excerpt: "Cheney voted for Trump’s impeachment and has become perhaps his most persistent foe among GOP officeholders. But the bigger picture is one in which Cheney is in danger of losing her House leadership position and another Trump critic,"
+    publishedDateTime: 2021-05-03T21:47:00Z
+    webUrl: "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base"
+    ampWebUrl: "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_cheneyliz_012121getty-bc_split.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Whose 'Big Lie'? Trump's proclamation a new GOP litmus test"
     excerpt: "Donald Trump and his supporters are intensifying efforts to shame members of the party who are seen as disloyal to the former president and his false claims that last year’s election was stolen"
     publishedDateTime: 2021-05-03T22:37:00Z
@@ -79,22 +91,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump's 'big lie' becomes new litmus test for success in GOP"
-    excerpt: "It’s scary,” said Michael Wood, the Texas Republican congressional candidate who based his campaign on a vow to push the GOP past the “cult of personality” that is Trump. In the end, he garnered just 3% of the vote in Saturday’s special election,"
-    publishedDateTime: 2021-05-04T02:32:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Why Trump is more likely to win in the GOP than to take his followers to a new third party"
     excerpt: "Former President Donald Trump has claimed at times that he’ll start a third political party called the Patriot Party. In fact, most Americans – 62% in a recent poll – say they’d welcome the chance to vote for a third party."
     publishedDateTime: 2021-05-03T12:02:00Z
@@ -126,6 +122,6 @@ related:
         height: 731
         isCached: true
 
-secured: "XiIuswYNUC6SPfxsixRKH4K6mUkWz2ZESRsVaxJOSneDIW2/rt3W2eHrnpupqhWNRReLwWHo/+DoGQEeWCJlUd2Ae7AvUY0gKN9tpvRAtDqUiWG6ISjFa/6LREqPGeDSvXrRd8Bo/Zf8Ni/+WoOrLDVjKDPgXsA/TDahf1OtYBhUpn/i1LdG9m7AyKfx4ojnkGlLDacb0+b1o0HBo0zW/K1zpK3hwoPm1lMPLwdopY/3MGjWJko84czlcmK4iRDHzkWF5p+oBcAhP46LaqbLR8/QEBBB/geIgpb3Uyosid+GbqGZwO8HpjQQMq7gIROn2RyqiXbPzfHKcYyp+vSkUip3H49JV1jPMWzUhNbvTk0=;Sn3H2JiFMh2wj8zyc07wVA=="
+secured: "9Ea+gmZaYeM3AM1ImN9juhJIXOFFfCJlbsVUqa5WnBZaGk26SWrdrONYzG1yRu629OaPQwXIAzogy/qeNYn15KBLg35xaylRe3wc3V0UkJlWoMGRJC2w7dw6U/URS65RqJjqTOAbd2A+zV0QVLP1Nv8ewOuu4QP/S27NyUeoRPIUPsWnodOju1lm5jzGl3oHqkXoJzJR8qUkLwabwQFtkk0JnzxkYcY16WBR1aIp5jaGIuCb3YiVivosPUGXfASTh5LTZAuz1xkp3fXgG8kcpbRV6mFb0u1EyPjxo5y9yFeewgsTLrqS2EWpMgMLlBx3Z++8mAy4yWC0/TLYyqx1x5tYboAxFu5ao3jlWHs6aPY=;zhD0z0ryQn7hkAUrSMd2wQ=="
 ---
 
