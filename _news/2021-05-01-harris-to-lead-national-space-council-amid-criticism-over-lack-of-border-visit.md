@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-to-lead-the-national-space-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-to-lead-the-national-space-council-border-visit.amp"
 type: article
 quality: 181
-heat: 241
+heat: 261
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
     quality: 118
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713e9f33-c4eb-4a97-8cf1-837ab5291ca0/cf878f8f-09af-4cf4-8926-35bdddacd5dc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Brandon Judd: Kamala Harris can't visit southern border because fixing issues would 'go against her base'"
+    excerpt: "Border Patrol union President Brandon Judd and Pinal County, Arizona Sheriff Mark Lamb joined \"Your World\" Monday to discuss the Biden administration's response to the southern border crisis."
+    publishedDateTime: 2021-05-03T22:39:00Z
+    webUrl: "https://www.foxnews.com/media/judd-kamala-harris-cant-visit-the-southern-border-because-fixing-the-issues-would-go-against-her-base"
+    ampWebUrl: "https://www.foxnews.com/media/judd-kamala-harris-cant-visit-the-southern-border-because-fixing-the-issues-would-go-against-her-base.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/judd-kamala-harris-cant-visit-the-southern-border-because-fixing-the-issues-would-go-against-her-base.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61a09385-d936-4e51-b48e-e32d19a2be35/f213bd7d-7421-4961-9149-02ad10d29edc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

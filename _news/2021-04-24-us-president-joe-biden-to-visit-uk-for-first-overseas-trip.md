@@ -345,6 +345,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Pastor Robin Bullock Says It's a Sin to Recognize Joe Biden as President"
+    excerpt: "\"You can pray for the office of the president. But you cannot pray for President Joe Biden,\" Bullock said. \"Because you might as well pray for the Easter Bunny, because he don't exist.\""
+    publishedDateTime: 2021-05-03T23:31:00Z
+    webUrl: "https://www.newsweek.com/pastor-robin-bullock-says-its-sin-recognize-joe-biden-president-1588361"
+    ampWebUrl: "https://www.newsweek.com/pastor-robin-bullock-says-its-sin-recognize-joe-biden-president-1588361?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-robin-bullock-says-its-sin-recognize-joe-biden-president-1588361?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1786830/robin-bullock-joe-biden-president-sin.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Proposal to Rename State Park for Donald Trump Panned by Ohio State Agency"
     excerpt: "A proposal to rename an Ohio state park for former President Donald Trump is not supported by Ohio's Department of Natural Resources as the agency defended the park's current name, Mosquito Creek Lake."
     publishedDateTime: 2021-04-22T15:00:00Z

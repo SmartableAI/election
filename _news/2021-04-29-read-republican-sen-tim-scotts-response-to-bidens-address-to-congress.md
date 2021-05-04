@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration taps Richard Cordray as student loan chief "
+    excerpt: "The Department of Education announced Monday that Richard Cordray will be the chief operating officer of federal student aid, a high-profile position within the office responsible for managing the government's student financial assistance and loan programs.\n    \n"
+    publishedDateTime: 2021-05-03T22:17:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IwFG4557S7g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/richard-cordray-appointment-federal-student-aid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/richard-cordray-appointment-federal-student-aid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180508221219-cordray-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Majority of Americans approve of Biden and his priorities in first 100 days"
     excerpt: "On the cusp of the 100-day mark of Joe Biden's presidency, a new CNN Poll conducted by SSRS finds 53% of Americans approve of the way he is handling the job and say he has had the right priorities, and 59% say he is doing a good job keeping his campaign promises.\n    \n"
     publishedDateTime: 2021-04-28T11:30:00Z

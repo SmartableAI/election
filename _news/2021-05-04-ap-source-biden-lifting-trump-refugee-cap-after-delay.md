@@ -333,6 +333,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Pastor Robin Bullock Says It's a Sin to Recognize Joe Biden as President"
+    excerpt: "\"You can pray for the office of the president. But you cannot pray for President Joe Biden,\" Bullock said. \"Because you might as well pray for the Easter Bunny, because he don't exist.\""
+    publishedDateTime: 2021-05-03T23:31:00Z
+    webUrl: "https://www.newsweek.com/pastor-robin-bullock-says-its-sin-recognize-joe-biden-president-1588361"
+    ampWebUrl: "https://www.newsweek.com/pastor-robin-bullock-says-its-sin-recognize-joe-biden-president-1588361?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-robin-bullock-says-its-sin-recognize-joe-biden-president-1588361?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1786830/robin-bullock-joe-biden-president-sin.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Proposal to Rename State Park for Donald Trump Panned by Ohio State Agency"
     excerpt: "A proposal to rename an Ohio state park for former President Donald Trump is not supported by Ohio's Department of Natural Resources as the agency defended the park's current name, Mosquito Creek Lake."
     publishedDateTime: 2021-04-22T15:00:00Z
@@ -596,6 +612,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "jGntUvPNQURmyUE4FdeL32cx2ICV/Q1nDgrTrLFuxuF8FtNcNiHb7JuQlD5TI9EpPnenw9hJQN7dsdtmI7Y7Cs1tDF28FGYbdKXqLyY73OHKNeSj/6JFpm8gqk0HeQtZL4F7bY8sMwP2lZirPpfliJsd6B859ZtVR5MYqdLwXbLmRFY5KMrY1uKksZVlF7aFK4s7/JAAgVVKJw7iIgNKksudoszuQ8TnidgRrQHmfuUvgjeytqilVE/2Wwccxk4RjahkXY5hEFoUi8Pl0rlO3MwZRRGwh+GfjMWb6OMo4uQsAp90AzATKSgDkaY0WKmPpQBYPVPqJXXlSIHsw6AYeHsysnNJf//oojZNBo+Dr+M=;IM2H50aOhhfagep8tz8NtA=="
+secured: "92Rpyd+IpHpnUQOr4PPZcv1tglpQW7I+1GHDWClZ2fih0wN6OA3BJh8ntpR3ZB+T0F3XqkAlcfVSpZryVjYMm8+qHRfTrn26274XuAyq3Jyrtb6bwHi8AVh51DS6Rs226+geSUqdfRkc8KeIGMg0+Sftek+e41pymXdsxSFvKmnzZAJrivAwi5Uhj8mc22kHU+ZY8AesUlEdaxtoXC89oVrl+W7tb1uYMfEoZGLMyj2qp/PzDHUGO+EIK03IPwOSi3Hw51vxt7bzn4mvgP0r4BkZn1nwrb2aiaWjKcAnjvpN3K3rvYX6dgr+swlJe+MF6i1U/fRMpeCM2huciKSmgxtxSDHFplBNsD+WGUGHWCO8AX+krWPsnK8sDkcLYiqCDfZF9mPIQxwsXLVEgaukLOuxsI7A4Tjgs+hS2mBnqLE3E2YJ98ihYJlorde0O+mxIAKDC/HZ5LNiGDelB2roCBS8Cpgj6wob0Sat/vo/YbNzXFfS34r69rJWVW39ucWnXxHNAQFdLPanvj/OG2TbHQ==;BqiiD/4Cu0jGyS0RXe+SsQ=="
 ---
 

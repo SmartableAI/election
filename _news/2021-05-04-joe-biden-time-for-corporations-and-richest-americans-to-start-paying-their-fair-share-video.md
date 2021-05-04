@@ -29,6 +29,38 @@ images:
     isCached: true
 
 related:
+  - title: "AP FACT CHECK: Biden overstates how many Americans immunized"
+    excerpt: "An AP Fact Check finds that President Joe Biden was off on his vaccination numbers when he addressed the subject Monday"
+    publishedDateTime: 2021-05-03T21:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F3S2LJFMHII6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Fact check: Post detailing COVID deaths under Biden ignores improving trend"
+    excerpt: "A Facebook post claims more than 176,000 people died from COVID-19 in the United States since President Joe Biden took office on Jan. 20. The image of Biden masked up with his thumbs up, shared April 28,"
+    publishedDateTime: 2021-05-01T01:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/04/30/fact-check-post-detailing-covid-deaths-under-biden-ignores-trend/4889416001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4889416001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4889416001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/04/26/USATODAY/usatsports/247WallSt.com-247WS-869589-imageForEntry9-W69.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden calls on richest Americans to ‘start paying their fair share’ of taxes – live"
     excerpt: "Biden makes case for increasing taxes on corporations and the wealthy – follow all the day’s politics news live"
     publishedDateTime: 2021-05-03T16:42:00Z
@@ -45,6 +77,17 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden hails ‘stunning progress’ on Covid but warns Americans: ‘Do not let up now’ – as it happened"
+    excerpt: "President lauds vaccination effort to reduce cases and deaths as CDC relaxes mask guidelines – follow all the day’s politics news"
+    publishedDateTime: 2021-04-27T23:29:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/27/joe-biden-covid-coronavirus-us-politics-live-latest?page=with:block-60889b3e8f08080a7ae6dfd9"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/27/joe-biden-covid-coronavirus-us-politics-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/27/joe-biden-covid-coronavirus-us-politics-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 91
   - title: "Joe Biden laid out his ambitious vision for a post-pandemic America. Now it is up to Sen. Chuck Schumer to make it a reality."
     excerpt: "The Senate majority leader, marking his own 100 days in charge, is responsible for turning sweeping Democratic plans into law. It’s a tall order."
     publishedDateTime: 2021-04-29T21:06:00Z

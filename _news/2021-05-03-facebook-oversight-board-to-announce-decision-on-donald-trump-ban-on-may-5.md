@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Whose 'Big Lie'? Trump's proclamation a new GOP litmus test"
+    excerpt: "Donald Trump and his supporters are intensifying efforts to shame members of the party who are seen as disloyal to the former president and his false claims that last year’s election was stolen"
+    publishedDateTime: 2021-05-03T22:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-big-lie-litmus-test-success-gop-77472139"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-big-lie-litmus-test-success-gop-77472139"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-big-lie-litmus-test-success-gop-77472139"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d94cd197df9a4c78b707faae0d52b181_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The slow, painful death of Trump allies’ voting-machine conspiracy theories"
     excerpt: "Among the many wild conspiracy theories about the 2020 election, few rank as high when it comes to both baselessness and reach as those involving voting machines. The theory that voting machines were programmed to steal the election from President Donald Trump had the benefit,"
     publishedDateTime: 2021-05-03T16:15:00Z
@@ -78,6 +94,20 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Will Donald Trump's Facebook Account Return?"
+    excerpt: "Donald Trump may be back online as Facebook’s oversight board prepares to announce its decision on his expulsion from the platform. The former president was given the boot a day after the Jan. 6 Capitol riot and the decision Wednesday is certain to attract political controversy from one side or the other."
+    publishedDateTime: 2021-05-03T21:41:00Z
+    webUrl: "https://www.ibtimes.com/will-donald-trumps-facebook-account-return-3192364"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
+        width: 1024
+        height: 731
         isCached: true
 
 secured: "Hsy3IuRpGIC0Zv6NR1NvVIvDcOEPpeVOLHKEa47R0Mbho9kEAMMKZN/KCr+u5owWKe57qoG9fjewQb12HNS8O11tHbMJVATlmtpCUNpzsvCMvvtfK2LbkC3MYd9KONsdQ/sNLmuxK7ijAEQJZEE73b5W5f3mbU7Fs9+y8oiMfKC+UVqJIIb6IsBUGMcsc0QlKHiOlUo0g2TnDCZRf+nVtfMYbl9gAnEyXGzFJB6WHwV2hogy0GzdHJDxMdTtSAi2MYC1e/oRhIXlUGkv8iKHOaHfQnfpJEe8g5LSojaMHRsZMGFNKC1LLNC2gEWUibxnbv7vlTNcKU/LhWdaTezjgTC05CDOWdJMdHpoR/3xVts=;TLRM40FblqUV2gzq1MElqg=="

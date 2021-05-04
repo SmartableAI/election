@@ -43,6 +43,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Whose 'Big Lie'? Trump's proclamation a new GOP litmus test"
+    excerpt: "Donald Trump and his supporters are intensifying efforts to shame members of the party who are seen as disloyal to the former president and his false claims that last year’s election was stolen"
+    publishedDateTime: 2021-05-03T22:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-big-lie-litmus-test-success-gop-77472139"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-big-lie-litmus-test-success-gop-77472139"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-big-lie-litmus-test-success-gop-77472139"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d94cd197df9a4c78b707faae0d52b181_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Facebook Oversight Board to Announce Decision on Donald Trump Ban on May 5"
     excerpt: "Former President Donald Trump could make a return to Facebook and Instagram very soon following an announcement by the body that oversees bans on content for the social media sites. The Oversight Board tweeted on Monday that they will reveal their decision on Trump's suspensions this Wednesday,"
     publishedDateTime: 2021-05-03T15:22:00Z
@@ -74,6 +90,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2MJW36R3GMI6XKWZRFMSE4UAYQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Will Donald Trump's Facebook Account Return?"
+    excerpt: "Donald Trump may be back online as Facebook’s oversight board prepares to announce its decision on his expulsion from the platform. The former president was given the boot a day after the Jan. 6 Capitol riot and the decision Wednesday is certain to attract political controversy from one side or the other."
+    publishedDateTime: 2021-05-03T21:41:00Z
+    webUrl: "https://www.ibtimes.com/will-donald-trumps-facebook-account-return-3192364"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
+        width: 1024
+        height: 731
         isCached: true
 
 secured: "45Er1kUrdm7sxPyp/SP5TeQn7xABtGhsmXzmLWY3f/5e1GnD1pfgSYcjJO4IeY4F6Cvq7XC5dekdbE0pzuZy/5O9mvvGWYL+ozx1JQInEOGqi13L53O8PtAPTn/QoArqsejRNDi0HUkgz/3FKU8UQ3dDLfhnAvH93w8Qdu2mdpnG9welstqOuYACiT/rUxsNiUq7mylpweM01f4/e4NJA7IWUB5vwiX7ApP3V2zRzoS3TkUxEeOvttQfTK7Ax2LOPvqCYBk6J9+ruEqWK6TCNwHkmZdY4h32isw7Ycx6aFa1SFZpmRANlCjtGSI/wpPOkxSAQLRbl1Sr0EUMuHshD9QcZic/lALZUnNvGoUZeRQ=;CJVZURZuP0hbyysluBCJTA=="

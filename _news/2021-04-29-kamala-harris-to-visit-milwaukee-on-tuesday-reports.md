@@ -80,6 +80,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Brandon Judd: Kamala Harris can't visit southern border because fixing issues would 'go against her base'"
+    excerpt: "Border Patrol union President Brandon Judd and Pinal County, Arizona Sheriff Mark Lamb joined \"Your World\" Monday to discuss the Biden administration's response to the southern border crisis."
+    publishedDateTime: 2021-05-03T22:39:00Z
+    webUrl: "https://www.foxnews.com/media/judd-kamala-harris-cant-visit-the-southern-border-because-fixing-the-issues-would-go-against-her-base"
+    ampWebUrl: "https://www.foxnews.com/media/judd-kamala-harris-cant-visit-the-southern-border-because-fixing-the-issues-would-go-against-her-base.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/judd-kamala-harris-cant-visit-the-southern-border-because-fixing-the-issues-would-go-against-her-base.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61a09385-d936-4e51-b48e-e32d19a2be35/f213bd7d-7421-4961-9149-02ad10d29edc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "mvg+eaXqdkPHmQ4xUekjMkGePPKiM6HbPvUKBMXjeTSM3mrSfjurtA+tWOtGBTeG7FBHae6JT15cmc8myQiyewWouFaqK2HqZEu8ZP2yi4u1RcSmjqVDyYklkSz8AecxsXIaR6iUU7HqqJeuC8wM8ZAudDpN5x+4+lL4uAa17GvHnoqkrNSYS7Ihq/irVD/0njc7PNYTCDoYWqiQZyUegF/oFl3fKKYZ4iYKQ0+dw2esrXbN6wiahmtrowaNRD1sqvH97eS/mNNxI0t97bx8+bcJVe9GSFSYl+Bqy2IQLlgYwT7TwAI00U8aAO20uZZPoJ3JbCyAmlc9JLIL+ieju6w86Z9pz55XqS9cspGu/p0=;qaAAi8ZsitXzjGXa9EcYRQ=="
 ---

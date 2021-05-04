@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A decision on suspended Trump Facebook account this week"
+    excerpt: "Former President Donald Trump will find out this week whether he gets to return to Facebook in a decision likely to stir up strong feelings no matter which way it goes. The social network’s quasi-independent Oversight Board says it will announce its ruling Wednesday on a case concerning the former president."
+    publishedDateTime: 2021-05-03T18:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/facebook-oversight-board-rule-suspended-trump-account-77462418"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/facebook-oversight-board-rule-suspended-trump-account-77462418"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/facebook-oversight-board-rule-suspended-trump-account-77462418"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_3c0ea3596b8d44c59b0504ddcf959987_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pentagon halts border wall construction paid for with defense funds redirected by Trump"
     excerpt: "In 2019, the Trump administration used Defense Department cash for border wall projects when Congress refused to fund them."
     publishedDateTime: 2021-05-01T11:16:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/index.html"
 type: article
 quality: 175
-heat: 595
+heat: 615
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210430154611-01-biden-amtrak-0430-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration taps Richard Cordray as student loan chief "
+    excerpt: "The Department of Education announced Monday that Richard Cordray will be the chief operating officer of federal student aid, a high-profile position within the office responsible for managing the government's student financial assistance and loan programs.\n    \n"
+    publishedDateTime: 2021-05-03T22:17:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IwFG4557S7g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/richard-cordray-appointment-federal-student-aid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/richard-cordray-appointment-federal-student-aid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180508221219-cordray-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
