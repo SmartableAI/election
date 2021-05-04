@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclam
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "House GOP leader Kevin McCarthy amps up pressure on Liz Cheney over Donald Trump barbs"
+    excerpt: "Kevin McCarthy has planted himself on the side of Liz Cheney's critics, raising the question of her fitness to lead House Republicans."
+    publishedDateTime: 2021-05-04T16:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/04/house-gop-leader-kevin-mccarthy-turns-up-pressure-liz-cheney/4939378001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4939378001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4939378001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/24/USAT/ad6c012f-d872-4235-80c8-9ad0284e6393-VPC_CHENEY_MCCARTHY_ON_TRUMP_CPAC_DESK.00_00_13_17.Still009.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump's 'big lie' becomes new litmus test for success in GOP"
     excerpt: "It’s scary,” said Michael Wood, the Texas Republican congressional candidate who based his campaign on a vow to push the GOP past the “cult of personality” that is Trump. In the end, he garnered just 3% of the vote in Saturday’s special election,"
     publishedDateTime: 2021-05-04T02:32:00Z

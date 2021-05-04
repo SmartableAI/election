@@ -111,6 +111,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Vice President Kamala Harris to tour clean energy labs at Wisconsin college Tuesday"
+    excerpt: "Harris was also scheduled to participate in a roundtable discussion about the investments in research and development proposed in President Joe Biden’s infrastructure jobs plan."
+    publishedDateTime: 2021-05-04T17:43:00Z
+    webUrl: "https://www.chicagotribune.com/midwest/ct-aud-nw-kamala-harris-wisconsin-visit-20210504-hcvl2kzksnepnagusmrix7kth4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/midwest/ct-aud-nw-kamala-harris-wisconsin-visit-20210504-hcvl2kzksnepnagusmrix7kth4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/midwest/ct-aud-nw-kamala-harris-wisconsin-visit-20210504-hcvl2kzksnepnagusmrix7kth4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 119
+    images:
+      - url: "https://www.chicagotribune.com/resizer/vRhrjMYBpgrGi1nWN12ygq0g7Mw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YR7NYDXIYOJLFIUM6WBSKSFIEY.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "A New York Post story about Kamala Harris triggered conservative outrage. Almost all of it was wrong. Now the reporter has resigned."
     excerpt: "The New York Post belatedly corrected stories the journalist says she was “ordered to write,” claiming the vice president’s book was given to undocumented migrants by the thousands."
     publishedDateTime: 2021-04-27T20:18:00Z
@@ -174,6 +190,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/ecea355a-ae51-471b-b0e3-1fbd7eb8f6e5/d32bcb35-22f4-43ca-afa9-db75700f38b0/1280x720/match/image.jpg"
         width: 1279
         height: 720
+        isCached: true
+  - title: "Harris trip to Wisconsin draws Republican criticism"
+    excerpt: "Vice President Kamala Harris planned to tour clean energy laboratories on the University of Wisconsin-Milwaukee campus Tuesday during her first Wisconsin visit since taking office."
+    publishedDateTime: 2021-05-04T17:43:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/may/4/harris-to-tour-uw-milwaukee-clean-water-lab/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/4/harris-to-tour-uw-milwaukee-clean-water-lab/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/4/harris-to-tour-uw-milwaukee-clean-water-lab/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/04/harris_02681_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Photos: Kamala Harris sells San Francisco loft; seeks buyer for DC condo"
     excerpt: "Kamala Harris has sold her SoMa loft in San Francisco for $860,000 and now seeks a buyer for her Washington, DC, condo."

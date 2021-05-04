@@ -105,6 +105,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Vice President Kamala Harris to tour clean energy labs at Wisconsin college Tuesday"
+    excerpt: "Harris was also scheduled to participate in a roundtable discussion about the investments in research and development proposed in President Joe Biden’s infrastructure jobs plan."
+    publishedDateTime: 2021-05-04T17:43:00Z
+    webUrl: "https://www.chicagotribune.com/midwest/ct-aud-nw-kamala-harris-wisconsin-visit-20210504-hcvl2kzksnepnagusmrix7kth4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/midwest/ct-aud-nw-kamala-harris-wisconsin-visit-20210504-hcvl2kzksnepnagusmrix7kth4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/midwest/ct-aud-nw-kamala-harris-wisconsin-visit-20210504-hcvl2kzksnepnagusmrix7kth4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 119
+    images:
+      - url: "https://www.chicagotribune.com/resizer/vRhrjMYBpgrGi1nWN12ygq0g7Mw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YR7NYDXIYOJLFIUM6WBSKSFIEY.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vice President Kamala Harris: We must 'speak truth' about history of racism in America"
     excerpt: "Vice President Kamala Harris said in an an exclusive interview on ABC's \"Good Morning America\" Thursday that we must 'speak truth' about history of racism in America."
     publishedDateTime: 2021-04-29T11:48:00Z
@@ -184,6 +200,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/ecea355a-ae51-471b-b0e3-1fbd7eb8f6e5/d32bcb35-22f4-43ca-afa9-db75700f38b0/1280x720/match/image.jpg"
         width: 1279
         height: 720
+        isCached: true
+  - title: "Harris trip to Wisconsin draws Republican criticism"
+    excerpt: "Vice President Kamala Harris planned to tour clean energy laboratories on the University of Wisconsin-Milwaukee campus Tuesday during her first Wisconsin visit since taking office."
+    publishedDateTime: 2021-05-04T17:43:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/may/4/harris-to-tour-uw-milwaukee-clean-water-lab/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/4/harris-to-tour-uw-milwaukee-clean-water-lab/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/4/harris-to-tour-uw-milwaukee-clean-water-lab/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/04/harris_02681_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Photos: Kamala Harris sells San Francisco loft; seeks buyer for DC condo"
     excerpt: "Kamala Harris has sold her SoMa loft in San Francisco for $860,000 and now seeks a buyer for her Washington, DC, condo."
@@ -446,6 +478,6 @@ related:
       domain: sacbee.com
     quality: 48
 
-secured: "zq37yZpJS+GLll1E6VD6NM+P66bErsaV4Jp5b/jAiWKyfyQ/9zjQDHZ7f1/HfJQ6fv8CC8e4Kqzjo8C/La1gd1Iz7wYuGJnCMTxsM0yneAAEYiE3P6ud9ys7zwNwfQaIxSrWLK1TiWLqTjIm7RxPjhQ7E5z+trf7z1A7QVx6LqSGp+oPSvioqloARzVF0G+J1Rx5CYEMGyRVHBZckI3iPdpRB/A0yMdMmHxs2csCQjt9UraEN6RPHsYrzRu6bkUtCAWfi0LmjkMdPuX7Yfgzk1c/gxA/xPzPjKp9lJE+XWf+bEr+TH4yDJYQJT/y/d9juu439sOM6o2RX1jILN9NQ9O6p7qN6lnRBgX0oTvHPWk=;bI/GkUvwgxFmDuz78KLDVQ=="
+secured: "232hgtm8l0b9YnvRvyN9h+iEuT2GYGclXR0Amx+rDbkLRjVJzdt4zaDN9QusD5su7fipYpQezR28aH9qt08atzhy61VEve5ru4AGwyj9/zjGTbsCxx7dahkOg3jh9GyC2kVTMDsMBC2j4Armp/9voeWqWdauAHQSs23tv/fWH+cQIG/YKIhMZ0w9UKmmF6QySWlpt5VcS8A6yVUx0Bud97m5b90WAkBoymrFneKOCVJ0bN+dImFHTY+1GKEH2rp6xVo9ZXIDmEX6tXnw+lt6rlqIP72Ov7ujAdwB3uI8Ows9DWAoJ9x70GM6Q7NdmLY74fatey7kPGHeJ+QumkneFMNMc11PsgDyGgCMhNmg5rD06I+OvAoaIvm0OQwbM43onnjPXOwv7HaGSMEs/H8vOxWRdwjR7PSipJrFIcTXxm1HiI05qhDxFUolpW7hXN+TTQHzOSlPhDVIAkPcKf3h8OiC5IzJ7NS32WPhBnj6FLZjNHUEi77/Knv1JTHo/8fXBzGYcyVYsou4IXs0/H6yQQ==;bkpa6OXGTZxOjNJmH2CGHQ=="
 ---
 

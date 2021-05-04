@@ -850,6 +850,22 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 120
+  - title: "Trump supporter admits to voter fraud after casting dead mother's ballot in 2020"
+    excerpt: "A Pennsylvania man pleaded guilty to voter fraud charges after he illegally cast a ballot for former President Trump using his dead mother’s name during the 2020 presidential election."
+    publishedDateTime: 2021-05-04T17:48:00Z
+    webUrl: "https://thehill.com/regulation/court-battles/551735-trump-supporter-admits-to-voter-fraud-after-casting-dead-mothers"
+    ampWebUrl: "https://thehill.com/regulation/court-battles/551735-trump-supporter-admits-to-voter-fraud-after-casting-dead-mothers?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/551735-trump-supporter-admits-to-voter-fraud-after-casting-dead-mothers?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 120
+    images:
+      - url: "https://thehill.com/sites/default/files/voting_ballot_2020_110220gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "President Biden, first lady to visit former President Jimmy Carter in Georgia this week"
     excerpt: "Biden was a young Delaware senator and Carter ally during the Georgian’s term in the White House, from 1977 to 1981."
     publishedDateTime: 2021-04-27T20:49:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4864492001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4864492001"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to set goal of at least one shot to 70 percent of adults by July 4"
+    excerpt: "President Biden will announce Tuesday a goal to administer at least one shot of the coronavirus vaccine to 70 percent of U.S. adults by July 4th, as the country moves to vaccinate harder-to-reach Americans."
+    publishedDateTime: 2021-05-04T17:48:00Z
+    webUrl: "https://thehill.com/policy/healthcare/551741-biden-to-set-goal-of-at-least-one-shot-to-70-percent-of-adults-by-july-4"
+    ampWebUrl: "https://thehill.com/policy/healthcare/551741-biden-to-set-goal-of-at-least-one-shot-to-70-percent-of-adults-by-july-4?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/551741-biden-to-set-goal-of-at-least-one-shot-to-70-percent-of-adults-by-july-4?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_bidenjill_05032021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden touts achievements at Georgia rally as he marks 100 days as president – live"
     excerpt: "End detention now’ – follow live"
     publishedDateTime: 2021-04-29T22:32:00Z

@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "House GOP leader Kevin McCarthy amps up pressure on Liz Cheney over Donald Trump barbs"
+    excerpt: "Kevin McCarthy has planted himself on the side of Liz Cheney's critics, raising the question of her fitness to lead House Republicans."
+    publishedDateTime: 2021-05-04T16:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/04/house-gop-leader-kevin-mccarthy-turns-up-pressure-liz-cheney/4939378001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4939378001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4939378001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/24/USAT/ad6c012f-d872-4235-80c8-9ad0284e6393-VPC_CHENEY_MCCARTHY_ON_TRUMP_CPAC_DESK.00_00_13_17.Still009.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "9Ea+gmZaYeM3AM1ImN9juhJIXOFFfCJlbsVUqa5WnBZaGk26SWrdrONYzG1yRu629OaPQwXIAzogy/qeNYn15KBLg35xaylRe3wc3V0UkJlWoMGRJC2w7dw6U/URS65RqJjqTOAbd2A+zV0QVLP1Nv8ewOuu4QP/S27NyUeoRPIUPsWnodOju1lm5jzGl3oHqkXoJzJR8qUkLwabwQFtkk0JnzxkYcY16WBR1aIp5jaGIuCb3YiVivosPUGXfASTh5LTZAuz1xkp3fXgG8kcpbRV6mFb0u1EyPjxo5y9yFeewgsTLrqS2EWpMgMLlBx3Z++8mAy4yWC0/TLYyqx1x5tYboAxFu5ao3jlWHs6aPY=;zhD0z0ryQn7hkAUrSMd2wQ=="
 ---

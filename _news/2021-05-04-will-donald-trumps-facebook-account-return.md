@@ -77,6 +77,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Defining Moment For Facebook Oversight Panel With Trump Ban Ruling"
+    excerpt: "Facebook's independent oversight board was set for a momentous decision on the platform's ban of former US president Donald Trump, as debate swirls on the role of social media in curbing hateful and abusive speech while controlling political discourse."
+    publishedDateTime: 2021-05-04T16:18:00Z
+    webUrl: "https://www.ibtimes.com/defining-moment-facebook-oversight-panel-trump-ban-ruling-3192936"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/donald-trump-is-seen-addressing-supporters-flooding-the.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Special Report: How Trump Scored a Big Tax Break for Conserving a Golf Range"
     excerpt: "Trump eventually abandoned a plan to build 16 homes and turned instead to the tax code to offset the lost profits - securing a $25 million tax deduction in exchange for a promise not to develop the land."
     publishedDateTime: 2021-04-30T12:06:00Z

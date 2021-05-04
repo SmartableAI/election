@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Biden to set goal of at least one shot to 70 percent of adults by July 4"
+    excerpt: "President Biden will announce Tuesday a goal to administer at least one shot of the coronavirus vaccine to 70 percent of U.S. adults by July 4th, as the country moves to vaccinate harder-to-reach Americans."
+    publishedDateTime: 2021-05-04T17:48:00Z
+    webUrl: "https://thehill.com/policy/healthcare/551741-biden-to-set-goal-of-at-least-one-shot-to-70-percent-of-adults-by-july-4"
+    ampWebUrl: "https://thehill.com/policy/healthcare/551741-biden-to-set-goal-of-at-least-one-shot-to-70-percent-of-adults-by-july-4?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/551741-biden-to-set-goal-of-at-least-one-shot-to-70-percent-of-adults-by-july-4?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_bidenjill_05032021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden touts achievements at Georgia rally as he marks 100 days as president – live"
     excerpt: "End detention now’ – follow live"
     publishedDateTime: 2021-04-29T22:32:00Z
@@ -154,6 +170,6 @@ related:
         height: 596
         isCached: true
 
-secured: "wV8Y4tPEhcn5xL1YBczqoFBsCgkThh7fEuejxwrqLLzUWcG+XnajM9ZlmW5yND8Aw7Bq7Q+dym3kHw8DlbXXSu+zur6tk4NVUffid2BizYLqqlKxuE0hWl6fMFZ36/moPVoMm6L77j3/byKGnnDSJfdhMkFRax/dBasijlk+IT6j7PlJ++HAiwP2X9GS+a90E6HyM0aBll66cFLCqnODybs6sf1Rp7fxwaFqyRQsvwPO1l4b3bjeTD1NvwRAri/h96sibIIuLjftXSgmQww23gGKfQz7VLKQRrkQ4bfvmHEB15k3ewZNyOm0KWfy4hbE2asFT+p9h7PpCRGDTgKfMZ3mvO7Og5gYPmPMWGMvEDs=;y1JGqUBaiutDB4L1OHGHYQ=="
+secured: "MCNnXIZAjlCNDdCxgYQZ45Ls0zZbocMYUFGzQhOX3vn5rR6NXAZHcxTz9m+zVlMtTylaG8sUIAf4u1Wz6HVi2LV0sHbBFyr0NMsZbfqXAZ7AqKENJilQoVfXGS+HKow/euBBvWc2dlVfOuU0BNX9VvHcd75txSnpJf5xMFlhknHxHpmNT6WcuFISB4o3DMrnjdfH0vuUPKvbzyn1+pDX5x9+v5FI/j2nvm9+CVJV1UR52XlcJBBB/kPoZC/BEO9ojL+6CqkGKRmLHs4sYA/QJAo+hRY1teJPkFoqLHxa84HLtqUEQ9v3lUX9xStkRu/ylEvPgxrs0t+opSQoHI/64UAH12zjVuww+RXv9TXpltDG8hf+GyNOdd8t+WerPcUBBcadzUrm1B+pSKCHJYkxozyplyGfPhUix5jXV9hUKYf7xiZV8LnRhUedpIRiiGgZ71dllr4ls437k6EvglGy/5kle7/33kaNA3X+UUH/W4JxeEyBfBakahBpO2HL6GqqW5ZgAN+B/LjM/dGlLHWgBQ==;RsUnvjN2bgjVymiTxd4bCg=="
 ---
 

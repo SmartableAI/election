@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/national/national-digest-gop-lawmaker
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/national-digest-gop-lawmakers-accuse-biden-administration-of-tampering-with-census-numbers/2021/04/30/3dcdda00-a4ab-11eb-a7ee-949c574a09ac_story.html?outputType=amp"
 type: article
 quality: 115
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -29,6 +29,24 @@ images:
     width: 1484
     height: 779
     isCached: true
+
+related:
+  - title: "Biden expected to speak on shift in US vaccine distribution strategy – live"
+    excerpt: "White House reportedly to deliver unused doses to other states as part of ‘use it or lose it’ strategy – follow all the day’s politics news"
+    publishedDateTime: 2021-05-04T15:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest?page=with:block-60916c278f08235e51f1e2ec"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/cca8fd69fd929c563cf5d0423303d1d11a51c924/0_206_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1055a8a67a46d0831699cf04c784163a"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "tHzr/NoZ7cxz1LYN/O81Y5yhdCi89lrioxTRd197Xp3wDLO48qIExch+zFAQxTu6luSs3YJuW6Qdl6ZZBZcTZG5WOtr0B8NCbV8nz7EvTg984UwYQPVBkC+mvcwDstGXCpWtqOjqAQK+8LWmNsdtXke647kQd4mw+YF4nN2ZwP7goma/XgbE7aZjzcKGuCsRy0wqDs0zxNvLu7TrboqxUGkbEK/gTIYwXjoUD7ZRJgdRHPcACh3j/Gzn64Dl8Ry475HZ+Gd8MntpeqEDFSn+i8wqvFwq4YukW/U43zlus62L291HkKO9bOQnJMAMlOCWsiWa9qx2e1fjyRw+3us8smvYDvvmj/5cOYrF4tbR0Ns=;FqIKqr+bdol1g+GReaeDXg=="
 ---

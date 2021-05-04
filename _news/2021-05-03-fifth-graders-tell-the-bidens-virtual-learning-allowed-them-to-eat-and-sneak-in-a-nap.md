@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Bidens appear to tower over Jimmy and Rosalynn Carter in 'dollhouse' photo"
+    excerpt: "A new head-scratching photo of President Biden and first lady Jill Biden posing with former President Jimmy Carter and former first lady Rosalynn Carter has social media abuzz over the camera angle where the Bidens look like giants towering over the former first couple. "
+    publishedDateTime: 2021-05-04T16:52:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8VzHCCCeHLs/bidens-jimmy-rosalynn-carter-dollhouse-photo"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-jimmy-rosalynn-carter-dollhouse-photo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-jimmy-rosalynn-carter-dollhouse-photo.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Border surge not Biden's fault despite lifting restrictions: White House chief of staff"
     excerpt: "White House Chief of Staff Ron Klain said President Biden is not to blame for a surge in unaccompanied minors crossing the U.S. southern border."
     publishedDateTime: 2021-05-02T16:40:37Z

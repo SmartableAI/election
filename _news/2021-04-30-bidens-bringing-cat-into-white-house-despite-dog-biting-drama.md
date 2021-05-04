@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-bringing-cat-white-house-dog
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-bringing-cat-white-house-dog-biting.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bidens appear to tower over Jimmy and Rosalynn Carter in 'dollhouse' photo"
+    excerpt: "A new head-scratching photo of President Biden and first lady Jill Biden posing with former President Jimmy Carter and former first lady Rosalynn Carter has social media abuzz over the camera angle where the Bidens look like giants towering over the former first couple. "
+    publishedDateTime: 2021-05-04T16:52:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8VzHCCCeHLs/bidens-jimmy-rosalynn-carter-dollhouse-photo"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-jimmy-rosalynn-carter-dollhouse-photo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-jimmy-rosalynn-carter-dollhouse-photo.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Fifth graders tell the Bidens virtual learning allowed them to eat and sneak in a nap"
     excerpt: "Students at a Virginia fifth grade classroom told President Biden and First Lady Jill Biden Monday that virtual learning gave them the chance to eat, take naps, and even fake technical glitches in order to avoid answering questions."
     publishedDateTime: 2021-05-03T21:54:06Z

@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Harris says she takes migrant crisis role 'very seriously' ahead of Guatemala visit next month"
+    excerpt: "Vice President Kamala Harris on Tuesday said she takes her role in tackling the migrant crisis \"very seriously\" ahead of her first trip to the Northern Triangle next month, as she sketched out her vision of how the U.S. would help tackle the \"root causes\" of the migrant crisis."
+    publishedDateTime: 2021-05-04T16:41:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0WP3o3jxC_U/harris-migrant-crisis-guatemala-visit-next-month"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-migrant-crisis-guatemala-visit-next-month.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-migrant-crisis-guatemala-visit-next-month.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbf844e7-da00-4269-b859-827c56602764/5d922b54-0023-4170-ae81-95b2cc76f88b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris will be first VP to get wax figure at Madame Tussauds"
     excerpt: "Kamala Harris will be the first vice president to have a wax figure made of her at Madame Tussauds museum in New York City because of her historic ascendance to the role, the museum announced Thursday,"
     publishedDateTime: 2021-04-30T10:19:00Z
@@ -63,6 +79,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00e5d318-188b-4194-b44e-808dfa7813c5/7f85d4b2-3171-4419-bd9f-53efe62bc111/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Kamala Harris acknowledges ‘alarming’ migrant influx, still won’t call it a crisis"
+    excerpt: "Vice President Kamala Harris said the “alarming” influx of migrants along the US-Mexico border cannot be solved without cleaning up corruption in Central America."
+    publishedDateTime: 2021-05-04T15:37:00Z
+    webUrl: "https://nypost.com/2021/05/04/kamala-harris-acknowledges-alarming-migration-influx/"
+    ampWebUrl: "https://nypost.com/2021/05/04/kamala-harris-acknowledges-alarming-migration-influx/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/04/kamala-harris-acknowledges-alarming-migration-influx/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 129
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-alarming-hp1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Kamala Harris sex joke has Oklahoma state lawmaker unrepentant with no plans to be 'politically correct'"
     excerpt: "An Oklahoma state senator is refusing to back down over a “misogynistic” sexual joke he made about Vice President Kamala Harris that has sparked a bipartisan backlash and some calls for his resignation."

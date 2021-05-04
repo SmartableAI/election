@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The crucial thing Liz Cheney’s GOP critics don’t say: She’s wrong about Trump"
+    excerpt: "Liz Cheney (Wyo.) may not be long for House GOP leadership. After a failed attempt to oust the No. 3 GOP official following her vote to impeach President Donald Trump, the movement has again built steam following Cheney’s increasing efforts to distance her party from Trump and his false claims about a stolen 2020 election."
+    publishedDateTime: 2021-05-04T15:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/05/04/crucial-thing-liz-cheneys-gop-critics-dont-say-shes-wrong-about-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/04/crucial-thing-liz-cheneys-gop-critics-dont-say-shes-wrong-about-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/04/crucial-thing-liz-cheneys-gop-critics-dont-say-shes-wrong-about-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-03-2021/t_7ed03d269ec142f3b14b66cb21289875_name_cheney_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "wIeShSX+PX4hOkaOIpeqpfGJKEtstVHPpV0pzgJcKDnDC4EEs5jMTPlq4rAN71gm2GCZyVQIiZl4hFKk3n14Uyt+GR7habNotzJl+aYbeUZiTlUyuFjN5+48TD5TC4dHvnGLdn9Z0NlOhLvuI4jOZ1Wz0/A+uLDuQGmGO3IJ1GtbSeBjVrDbhVgu/HcmWOFt3vNKcWQZhWTxYwWeV9Ot1Wl3mty4yrliTRuxKuI/QiIIfGTda3lHQ09xmST/Poy/BNjdtM1i4Wl+828aDS01cKHyfHwcetO1sXV3Io6A2fp7qlfpn77aIGVhfLuH+ztEpO7TztdrEIWzkEVuPCGj6IK/mvXlB7A/uKQ1XJA4Pjw=;qjwBe8gNbTr3YQVygAu4Pg=="
 ---

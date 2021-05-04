@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/cheney-wishful-thinkin
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/cheney-wishful-thinking-trump-seek-4th-term-77379316"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The crucial thing Liz Cheney’s GOP critics don’t say: She’s wrong about Trump"
+    excerpt: "Liz Cheney (Wyo.) may not be long for House GOP leadership. After a failed attempt to oust the No. 3 GOP official following her vote to impeach President Donald Trump, the movement has again built steam following Cheney’s increasing efforts to distance her party from Trump and his false claims about a stolen 2020 election."
+    publishedDateTime: 2021-05-04T15:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/05/04/crucial-thing-liz-cheneys-gop-critics-dont-say-shes-wrong-about-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/04/crucial-thing-liz-cheneys-gop-critics-dont-say-shes-wrong-about-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/04/crucial-thing-liz-cheneys-gop-critics-dont-say-shes-wrong-about-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-03-2021/t_7ed03d269ec142f3b14b66cb21289875_name_cheney_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Liz Cheney slams Trump's 'big lie' claim"
     excerpt: "Rep. Liz Cheney (R-Wyo.) pushed back May 3 against former president Donald Trump’s attempt to commandeer the term “Big Lie,” saying he is \"poisoning our democratic system\" with his persistent false claims that the 2020 election was \"stolen\" from him."
     publishedDateTime: 2021-05-03T21:28:00Z

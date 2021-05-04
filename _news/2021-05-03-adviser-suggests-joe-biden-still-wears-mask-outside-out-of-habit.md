@@ -848,6 +848,22 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 120
+  - title: "Trump supporter admits to voter fraud after casting dead mother's ballot in 2020"
+    excerpt: "A Pennsylvania man pleaded guilty to voter fraud charges after he illegally cast a ballot for former President Trump using his dead mother’s name during the 2020 presidential election."
+    publishedDateTime: 2021-05-04T17:48:00Z
+    webUrl: "https://thehill.com/regulation/court-battles/551735-trump-supporter-admits-to-voter-fraud-after-casting-dead-mothers"
+    ampWebUrl: "https://thehill.com/regulation/court-battles/551735-trump-supporter-admits-to-voter-fraud-after-casting-dead-mothers?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/551735-trump-supporter-admits-to-voter-fraud-after-casting-dead-mothers?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 120
+    images:
+      - url: "https://thehill.com/sites/default/files/voting_ballot_2020_110220gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "President Biden, first lady to visit former President Jimmy Carter in Georgia this week"
     excerpt: "Biden was a young Delaware senator and Carter ally during the Georgian’s term in the White House, from 1977 to 1981."
     publishedDateTime: 2021-04-27T20:49:00Z
@@ -1253,6 +1269,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "fogrMvL7k58a+EUoxq5rP6f5VWMi1uVKqOnTtP75kuDxPwSZYYJIKIdQ4s0kq+hjzrzcx8uQawTNLwTPCr3bdwjfnKrbP9p+lEQn8IPYfl23rm/zjGuJ+JzNY8H382usPwJgmtcYkXgueulqwu9uoanrKER2UrExlCpzM6pi3H+3xjHY86VRu0GZro8LWGnNd90p+uqhWAKO/E/F9lGglueG9X6KZN8i4Xj7YJoSGfefJT7tO92vlRnmOJILr0u6C5OXwhDzQ/7xma/HDB7D/S4kVIKmG2eBCqwQ+r5M+xhg6bLknWI+Df1S8hWXAZ1kaqBXgjT2W6Yjf5UMykH2MpUwI6kmdHinmKUt7AkDf6M=;isOFJx8SQslt3ofceXpl8Q=="
+secured: "MPW9p4SpI+0N98z062QV7bGSNXrVAkhI1rNoAgtSueBgwBiZGPQt6TGuNq47eyV7cEMSkE9fLDgTnyo0Zei3FHhko4SbVm5hEsSCx4Kyr7HbOocxlAEbKNpDINbfap34j8xkhm4UnK6mtzov1POcGjCeHkSVc3fnTI/SsyX9Oo18I9bQm5U72Bf9pX6DeNc94kYrjo03XWnQXqKgfvBZD0JsB6PIf10RLkhZZ9WMBQz8vGcUZGhBx5gs1ZemibBziUEF8tKsnq25ao54k5Ci03W0e9uEJsoPSgir2N8bYSEJME4vZIfBsmLZbtRduC+iG69GJ4j6nMrHik0siQn52OTcCExa4fIOAuCjcBB+0N8qWvVIdLaEjqWOpNcJjsgyFpOmSvzS7Uq6qPcmwGgzocgFKGnEIJGyQDU/OJMVnHxdQ2OS16lF00HrHm5E76SDpZudCfCnO89fbv5QUH4fpNeGP+FmtGcpTQIHu8vJkFIUwh8nYv2QUeNz8ZtouHi6Zb73fhLAYQ4SbmhdMtTp1A==;vr0/eTE0WXqkvPiYb5gKXA=="
 ---
 
