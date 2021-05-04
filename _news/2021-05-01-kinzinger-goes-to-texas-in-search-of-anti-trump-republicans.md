@@ -75,6 +75,22 @@ related:
         width: 3000
         height: 1945
         isCached: true
+  - title: "Republicans are said to be plotting to oust Liz Cheney from House leadership and replace her with a pro-Trump woman"
+    excerpt: "Cheney, the third most senior House Republican, has been a vocal critic of former President Donald Trump."
+    publishedDateTime: 2021-05-04T12:40:00Z
+    webUrl: "https://www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/609124fef22c6b00185db6a2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Celebrity politicians test voter interest in post-Trump era"
     excerpt: "We just elected an outsider celebrity and it didn’t work out for the country, we didn’t get much done for the country, we all were stressed out all the time.” Jenner, a gold medal-winning decathlete and transgender rights activists perhaps best known for being part of the Kardashian family,"
     publishedDateTime: 2021-05-04T08:13:00Z

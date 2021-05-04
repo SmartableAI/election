@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Republicans are said to be plotting to oust Liz Cheney from House leadership and replace her with a pro-Trump woman"
+    excerpt: "Cheney, the third most senior House Republican, has been a vocal critic of former President Donald Trump."
+    publishedDateTime: 2021-05-04T12:40:00Z
+    webUrl: "https://www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/609124fef22c6b00185db6a2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Kinzinger goes to Texas in search of anti-Trump Republicans"
     excerpt: "Adam Kinzinger came to Texas this week to hunt unicorns. The Illinois congressman was looking for Republicans who, like him, see former President Donald Trump as a scourge on their party and a threat to democracy."
     publishedDateTime: 2021-04-30T20:21:00Z

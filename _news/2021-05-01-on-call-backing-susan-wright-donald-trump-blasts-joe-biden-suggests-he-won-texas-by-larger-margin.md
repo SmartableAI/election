@@ -1054,6 +1054,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "State of LGBT+ rights after Biden's first 100 days"
+    excerpt: "One hundred days into office, how has U.S. President Biden done? Here’s a look at the state of LGBT+ rights today and how they stack up against Biden’s pre-election pledge to better protect LGBT+ Americans,"
+    publishedDateTime: 2021-05-04T15:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-lgbt-idUSKBN2CL1RM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CL1RM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CL1RM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live"
     excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
     publishedDateTime: 2021-04-16T22:17:00Z
@@ -1160,6 +1171,22 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2021/04/Biden_100_Days_Promises_73838.jpg?w=1024&h=682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "President Joe Biden has quadrupled nation’s cap on refugee admissions"
+    excerpt: "President Joe Biden formally raised the nation’s cap on refugee admissions to 62,500 this year, weeks after facing bipartisan blowback for his delay in replacing the record-low ceiling set by former President Donald Trump."
+    publishedDateTime: 2021-05-04T18:38:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/president-joe-biden-has-quadrupled-nations-cap-on-refugee-admissions/YM6CXOZIGBBLLIGORIGXT7DIPI/"
+    ampWebUrl: "https://www.ajc.com/news/nation-world/president-joe-biden-has-quadrupled-nations-cap-on-refugee-admissions/YM6CXOZIGBBLLIGORIGXT7DIPI/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/nation-world/president-joe-biden-has-quadrupled-nations-cap-on-refugee-admissions/YM6CXOZIGBBLLIGORIGXT7DIPI/?outputType=amp"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 75
+    images:
+      - url: "https://www.ajc.com/resizer/WimXFKSyj9hVemru0GthR2LqRcE=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/YEGNCM52U3IEJTJL7GT4EXXFWY.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "More perilous phase ahead for President Joe Biden after his 1st 100 days"
     excerpt: "The president is racing against the calendar, governing with the most slender of majorities on Capitol Hill while knowing that historically the party that holds the White House loses seats in midterm elections,"

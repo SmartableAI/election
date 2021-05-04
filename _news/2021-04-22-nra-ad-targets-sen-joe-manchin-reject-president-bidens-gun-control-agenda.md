@@ -1334,6 +1334,22 @@ related:
         width: 375
         height: 815
         isCached: true
+  - title: "Watch Live: President Biden Delivers Remarks On COVID Vaccines"
+    excerpt: "Watch live coverage as President Biden delivers remarks on his administration's response to the Covid-19 pandemic and vaccination programs."
+    publishedDateTime: 2021-05-04T18:20:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/04/watch_live_president_biden_delivers_remarks_on_covid_response_and_vaccines.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/04/watch_live_president_biden_delivers_remarks_on_covid_response_and_vaccines.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/04/watch_live_president_biden_delivers_remarks_on_covid_response_and_vaccines.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/541946.jpg"
+        width: 4446
+        height: 2964
+        isCached: true
   - title: "Joe Biden's Bait-and-Switch Presidency"
     excerpt: "Joe Biden was elected as a moderate-left Democrat, but he is not governing as one. He pledged repeatedly to work across party lines, but he is ramming through the biggest, most expensive progressive agenda in American history without any Republican votes."
     publishedDateTime: 2021-04-01T00:00:00Z

@@ -64,6 +64,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Harris claims lack of 'climate adaptation and climate resilience' part of root causes of migrant crisis"
+    excerpt: "Vice President Kamala Harris on Tuesday claimed that a lack of \"climate adaptation and climate resilience\" in Northern Triangle countries was one of the root causes of the migration crisis at the southern U.S. border -- along with a list of other issues including violence and government corruption."
+    publishedDateTime: 2021-05-04T17:56:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RLmY9C7ByjE/harris-climate-adaptation-resilience-root-causes-migrant-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-climate-adaptation-resilience-root-causes-migrant-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-climate-adaptation-resilience-root-causes-migrant-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713e9f33-c4eb-4a97-8cf1-837ab5291ca0/cf878f8f-09af-4cf4-8926-35bdddacd5dc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris will be first VP to get wax figure at Madame Tussauds"
     excerpt: "Kamala Harris will be the first vice president to have a wax figure made of her at Madame Tussauds museum in New York City because of her historic ascendance to the role, the museum announced Thursday,"
     publishedDateTime: 2021-04-30T10:19:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/551497-pence-to-headline-new-h
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/551497-pence-to-headline-new-hampshire-event-in-june?amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Eyes on 2024? Former Vice President Mike Pence to visit New Hampshire"
+    excerpt: "Pence told an audience in another early voting state, South Carolina, that he will spend the coming months \"pushing back on the liberal agenda.\""
+    publishedDateTime: 2021-05-04T18:39:00Z
+    webUrl: "https://www.seacoastonline.com/story/news/politics/2021/05/04/former-vice-president-mike-pence-visit-new-hampshire-2024/4942731001/"
+    ampWebUrl: "https://amp.seacoastonline.com/amp/4942731001"
+    cdnAmpWebUrl: "https://amp-seacoastonline-com.cdn.ampproject.org/c/s/amp.seacoastonline.com/amp/4942731001"
+    type: article
+    provider:
+      name: Seacoastonline.com
+      domain: seacoastonline.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/20/NPOH/9f7d66ac-6847-4af7-8c14-94a076c98ab9-RB-Oct-Pease_Pence.jpg?auto=webp&crop=2820,1587,x0,y94&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Former Vice President Mike Pence to visit New Hampshire"
     excerpt: "Former Vice President Mike Pence is scheduled to visit New Hampshire in June, his first trip to the first-in-the nation presidential primary state since the 2020 general election campaign."
     publishedDateTime: 2021-05-04T14:46:00Z
