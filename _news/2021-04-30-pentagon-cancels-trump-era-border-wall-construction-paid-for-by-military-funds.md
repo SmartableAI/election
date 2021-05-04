@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pentagon-trump-era-border-wall-cons
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pentagon-trump-era-border-wall-construction-military-funds.amp"
 type: article
 quality: 171
-heat: 191
+heat: 171
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "GOP Leaders Clash on Trump at Annual Retreat"
-    excerpt: "Republicans hope to take back control of Congress in midterms."
-    publishedDateTime: 2021-04-28T00:48:00Z
-    webUrl: "https://www.wsj.com/articles/gop-leaders-clash-on-trump-at-annual-retreat-11619563002"
-    ampWebUrl: "https://www.wsj.com/amp/articles/gop-leaders-clash-on-trump-at-annual-retreat-11619563002"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/gop-leaders-clash-on-trump-at-annual-retreat-11619563002"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-330686/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "gI2rBfatxrXaWRUI5WpJW31N9fMoJ9TpJjnM7A9amz3F+2ic6KZTwIzDk6BC2EWA9ePYRTUPAD5VvCZTLjBxkhX1R13/Y0M3OL5cDs4kOTe0e1K4xu6r0IWlwdQ1hAHJNuaqfW0nVSv1R+b7/IjbStAl1kZ7ARRyNdEl/KWUDgPA7vxnCq/Djz0e8GYxwgX4q00JxXnFzi1wr9MfYj6d5L4+JqhcJKk/40F0MgobbL66qD/oJ/6eSe1zqeSu08262uBAVkpFP0ZjKSSePEsIYPs+02Unn04mhvEXaKMJTTcr5dpe0wZoVgNvYR9PuyJOSiX8N5UvUj6eQaEY4aylUK29nNOb7gjpbww+x0m0GyI=;R2GoYMbMUDkmtTCuOPTJ3A=="
 ---

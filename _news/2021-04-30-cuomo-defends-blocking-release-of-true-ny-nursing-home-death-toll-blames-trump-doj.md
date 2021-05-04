@@ -48,22 +48,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump loses bid to get out of testifying in protester lawsuit"
-    excerpt: "Former President Donald Trump can’t get out of testifying in a lawsuit brought by a group of protesters — since he’s no longer in office, an appeals court ruled Tuesday. Trump"
-    publishedDateTime: 2021-04-27T20:40:00Z
-    webUrl: "https://nypost.com/2021/04/27/trump-loses-bid-to-get-out-of-testifying-in-protester-lawsuit/"
-    ampWebUrl: "https://nypost.com/2021/04/27/trump-loses-bid-to-get-out-of-testifying-in-protester-lawsuit/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/27/trump-loses-bid-to-get-out-of-testifying-in-protester-lawsuit/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-lawsuit.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Trump's Dominance Spells Trouble for Republican Party"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-04-22T20:38:00Z

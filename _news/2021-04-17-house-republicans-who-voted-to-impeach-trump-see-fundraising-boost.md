@@ -32,49 +32,69 @@ images:
     isCached: true
 
 related:
-  - title: "Reps. Roy, Herrell move to force House vote on extending Trump-era border restrictions"
-    excerpt: "FIRST ON FOX: Reps. Chip Roy, R-Texas, and Yvette Herrell, R-N.M., on Monday moved to force a vote on a bill that would keep a Trump-era public health order -- which allows migrants to be rapidly expelled from the U.S. -- in place until the COVID-19 pandemic and associated restrictions are repealed."
-    publishedDateTime: 2021-04-20T11:01:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pUYbfdUD37M/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions"
-    ampWebUrl: "https://www.foxnews.com/politics/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reps-roy-herrell-house-vote-extending-trump-era-border-restrictions.amp"
+  - title: "Ohio GOP to vote on censuring Republicans who voted to impeach Trump"
+    excerpt: "The resolution was obtained exclusively by Fox News and takes aim at the 10 House Republicans who voted to impeach Trump this year, including the number three Republican in the House, Rep. Liz Cheney of Wyoming."
+    publishedDateTime: 2021-05-04T15:13:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4BmLzpcrZNI/ohio-gop-censure-house-republicans-trump-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-gop-censure-house-republicans-trump-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-gop-censure-house-republicans-trump-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/05/18/720/405/694940094001_5438848447001_5438775026001-vs.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Rep. Liz Cheney's role as GOP conference chair facing renewed jeopardy amid Trump feud"
+    excerpt: "Wyoming Rep. Liz Cheney’s ongoing feud with former President Donald Trump has sparked discussions among senior House GOP leadership about her future as the party’s conference chair, according to sources familiar with the situation."
+    publishedDateTime: 2021-05-04T01:19:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tz92hv88-ak/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6aba89ef-13d8-476d-a099-2e7d6c407a22/d8eb31b2-fab7-48ac-b0ae-0ad08d4aa013/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Rep. Ashley Hinson seeks to revive Trump's deregulation executive orders"
-    excerpt: "EXCLUSIVE: Rep. Ashley Hinson, R-Iowa, introduced new legislation Tuesday to make permanent five of former President Donald Trump's executive orders that President Biden already repealed. "
-    publishedDateTime: 2021-04-13T19:44:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nQAr7hmtD3E/ashley-hinson-seeks-revive-trumps-deregulation-executive-orders"
+  - title: "GOP Leaders Clash on Trump at Annual Retreat"
+    excerpt: "Republicans hope to take back control of Congress in midterms."
+    publishedDateTime: 2021-04-28T00:48:00Z
+    webUrl: "https://www.wsj.com/articles/gop-leaders-clash-on-trump-at-annual-retreat-11619563002"
+    ampWebUrl: "https://www.wsj.com/amp/articles/gop-leaders-clash-on-trump-at-annual-retreat-11619563002"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/gop-leaders-clash-on-trump-at-annual-retreat-11619563002"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 154
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Ashley-Hinson.jpg"
+      - url: "https://images.wsj.net/im-330686/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
-  - title: "Rep. Ashley Hinson seeks to revive Trump's deregulation executive orders"
-    excerpt: "EXCLUSIVE: Rep. Ashley Hinson, R-Iowa, introduced new legislation Tuesday to make permanent five of former President Donald Trump's executive orders that President Biden already repealed. The freshman lawmaker authored the \"Red Tape Reduction Act\" to ..."
-    publishedDateTime: 2021-04-13T19:44:00Z
-    webUrl: "https://www.foxnews.com/politics/ashley-hinson-seeks-revive-trumps-deregulation-executive-orders"
+  - title: "Trump loses bid to get out of testifying in protester lawsuit"
+    excerpt: "Former President Donald Trump can’t get out of testifying in a lawsuit brought by a group of protesters — since he’s no longer in office, an appeals court ruled Tuesday. Trump"
+    publishedDateTime: 2021-04-27T20:40:00Z
+    webUrl: "https://nypost.com/2021/04/27/trump-loses-bid-to-get-out-of-testifying-in-protester-lawsuit/"
+    ampWebUrl: "https://nypost.com/2021/04/27/trump-loses-bid-to-get-out-of-testifying-in-protester-lawsuit/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/27/trump-loses-bid-to-get-out-of-testifying-in-protester-lawsuit/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 114
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Ashley-Hinson.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-lawsuit.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "DtknmLUIhF4+VfEYQN8C8vuohiVsAYrSEfBOoKPZo999gmAMwrJunUw8dO2QYaimEtFZuI1G/9SlaCxTI0GjEhsF4r6bzXUJ4//BELSTHRPDAC36oTe8G5Q3h9hhEifJ8H9CLZJBB6sblPdtb2//17A7D9YLysaw3nKHN3r/v8+EUCKoV2pTa9I5OxeNVCCwzM+CCJe4RwBr8Z4yUJ6ISwmFa/McaEwySLOBK/873a+gjHaXYHMBBmqlV3rJuByOL52d/vooMror4+OpghWGpQU1HBhPFMcNTqmJFtylM/q+kuIZ0M18zH2M+xEgvoLYqO4fYh/bfJ78Th6IdXIHIdfglEaJnvmpieB4utORmW0BNR432bv/JTyeqMn66extBXyPPqpQnJ6gWhiLzGY1z+kgcUJtdxzoWi2MuI6k4AdX/Nkv8ZqsI7IwsBUQ4VPsjO32DXu/5CD4KtpAZDE1eltruXsYl/xhUE1pUOeGixz0fuoxKpRHMcqVgJrdZrrcfwlQUC+i65ByY1tOubo95A==;5TabURMVjt2H9TXVanwlLg=="

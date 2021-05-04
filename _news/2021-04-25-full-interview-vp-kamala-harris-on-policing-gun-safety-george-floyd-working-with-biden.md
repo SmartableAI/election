@@ -294,6 +294,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "VP Kamala Harris: We Must Focus On \"Root Causes\" Of Migration Crisis In Central America"
+    excerpt: "Vice President Kamala Harris spoke about the migration crisis in Latin America during remarks to the 51st annual Washington Conference on Tuesday. It is one of the first times she has discussed the idea in detail since the administration announced she would be spearheading efforts to stop a surge of immigrants on the Southern border."
+    publishedDateTime: 2021-05-04T15:15:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 77
+    images:
+      - url: "https://assets.realclear.com/images/54/542318.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Kamala Harris To Tim Scott: \"No, I Don't Think America Is A Racist Country,\" But Racism Exists"
     excerpt: "Vice President Kamala Harris responded to GOP Sen. Tim Scott's statement that America is \"not a racist country\" and we can't \"fight discrimination with more discrimination\" during an appearance Thursday on \"Good Morning America."
     publishedDateTime: 2021-04-29T16:08:00Z

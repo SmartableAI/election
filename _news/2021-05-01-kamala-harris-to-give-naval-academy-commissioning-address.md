@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Nava
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
 type: article
 quality: 125
-heat: 645
+heat: 665
 published: true
 
 provider:
@@ -398,6 +398,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/29/USAT/565d2a8b-823e-45df-b682-5b63d9d2a2e9-GTY_1232582885.jpg?auto=webp&crop=3595,2023,x0,y106&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
+    excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."
+    publishedDateTime: 2021-05-04T15:13:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 52
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Biden-Harris.jpg"
+        width: 650
+        height: 429
         isCached: true
   - title: "Kamala Harris, Blackpink, Simu Liu Among Gold House's 100 Most Impactful Asians"
     excerpt: "A number of politicians, entertainers and athletes were honored in Gold House's new list of the 100 Most Impactful Asians of the Year."

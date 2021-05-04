@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-04-ohio-gop-to-vote-on-censuring-republicans-who-voted-to-impeach-trump.md",
+      "title": "Ohio GOP to vote on censuring Republicans who voted to impeach Trump",
+      "excerpt": "The resolution was obtained exclusively by Fox News and takes aim at the 10 House Republicans who voted to impeach Trump this year, including the number three Republican in the House, Rep. Liz Cheney of Wyoming.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4BmLzpcrZNI/ohio-gop-censure-house-republicans-trump-impeachment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4BmLzpcrZNI/ohio-gop-censure-house-republicans-trump-impeachment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/05/18/720/405/694940094001_5438848447001_5438775026001-vs.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ohio-gop-censure-house-republicans-trump-impeachment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-gop-censure-house-republicans-trump-impeachment.amp",
+      "publishedDateTime": "2021-05-04T08:13:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-house-minority-leader-kevin-mccarthy-cites-republican-concerns-about-liz-cheneys-ability-to-carry-out-her-job-after-she-calls-out-trump.md",
+      "title": "House Minority Leader Kevin McCarthy cites Republican concerns about Liz Cheney’s ‘ability to carry out her job’ after she calls out Trump",
+      "excerpt": "Rather than standing by Rep. Liz Cheney, House Minority Leader Kevin McCarthy essentially landed himself in the camp of her Republican critics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-congress-liz-cheney-kevin-mccarthy-20210504-wv3apyy6yfcqrfmeokvoefv34q-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-congress-liz-cheney-kevin-mccarthy-20210504-wv3apyy6yfcqrfmeokvoefv34q-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/jh8iB5dqesYFt-aPQCl7dzY03s8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/56EBA5GLOJHSFGEYLUWX63OLLI",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-congress-liz-cheney-kevin-mccarthy-20210504-wv3apyy6yfcqrfmeokvoefv34q-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-congress-liz-cheney-kevin-mccarthy-20210504-wv3apyy6yfcqrfmeokvoefv34q-story.html?outputType=amp",
+      "publishedDateTime": "2021-05-04T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-facebook-and-trump-are-at-a-turning-point-in-their-long-tortured-relationship.md",
       "title": "Facebook and Trump are at a turning point in their long, tortured relationship",
       "excerpt": "Facebook’s decision to outsource the future of Trump’s account to an independent Oversight Board stems from a tortured relationship with the former president. It could also set a precedent on how social media companies handle politicians and on how they will balance free speech and harm.",
@@ -114,7 +222,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1710,
+      "heat": 1770,
       "tags": null,
       "images": [
         {
@@ -156,62 +264,6 @@
         "Election",
         "Joe Biden",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-rep-liz-cheneys-role-as-gop-conference-chair-facing-renewed-jeopardy-amid-trump-feud.md",
-      "title": "Rep. Liz Cheney's role as GOP conference chair facing renewed jeopardy amid Trump feud",
-      "excerpt": "Wyoming Rep. Liz Cheney’s ongoing feud with former President Donald Trump has sparked discussions among senior House GOP leadership about her future as the party’s conference chair, according to sources familiar with the situation.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tz92hv88-ak/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tz92hv88-ak/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud.amp",
-      "publishedDateTime": "2021-05-03T18:19:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -500,7 +552,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/551497-pence-to-headline-new-hampshire-event-in-june",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1288,58 +1340,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-nkorea-warns-us-of-very-grave-situation-over-biden-speech.md",
-      "title": "NKorea warns US of 'very grave situation' over Biden speech",
-      "excerpt": "North Korea has warned the United States will face “a very grave situation” because President Joe Biden “made a big blunder” in his recent speech by calling the North a security threat and revealing h",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/nkorea-warns-us-grave-situation-biden-speech-77443536",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/nkorea-warns-us-grave-situation-biden-speech-77443536",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/WireAP_f7cf6236d848471fae09a5f9905f9b83_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/nkorea-warns-us-grave-situation-biden-speech-77443536",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/nkorea-warns-us-grave-situation-biden-speech-77443536",
-      "publishedDateTime": "2021-05-01T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

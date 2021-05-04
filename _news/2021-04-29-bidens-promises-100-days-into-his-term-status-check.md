@@ -1117,6 +1117,38 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden plan to subsidize child care could have unintended consequences, including price increases, experts say"
+    excerpt: "The subsidies for child care in President Biden's American Families Plan could have some unintended consequences for both families and child care businesses, including price increases, experts tell Fox News. "
+    publishedDateTime: 2021-05-04T15:12:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CrwmjDr5yhU/biden-subsidize-child-care-unintended-consequences-price-increases"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-subsidize-child-care-unintended-consequences-price-increases.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-subsidize-child-care-unintended-consequences-price-increases.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump reportedly slams Biden on progressive agenda, pro-abortion stance"
+    excerpt: "Former President Donald Trump reportedly took President Biden and Democrats to task over the rising influence of the progressive wing of the party."
+    publishedDateTime: 2021-05-04T14:13:00Z
+    webUrl: "https://nypost.com/2021/05/04/trump-slams-biden-on-progressive-agenda-pro-abortion-stance-report/"
+    ampWebUrl: "https://nypost.com/2021/05/04/trump-slams-biden-on-progressive-agenda-pro-abortion-stance-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/04/trump-slams-biden-on-progressive-agenda-pro-abortion-stance-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-biden-remarks.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "GOP rep, forced to watch Biden address from home, slams social distancing measures"
     excerpt: "Rep. Nancy Mace, R-S.C., called not being able to attend President Biden's first address to a joint session of Congress a \"disservice to the country.\""
     publishedDateTime: 2021-04-29T12:25:56Z
@@ -1378,7 +1410,7 @@ related:
   - title: "There Is No Biden Moment"
     excerpt: "If Joe Biden wanted to spend massively in response to a nearly unprecedented public-health emergency, he was elected too late. The conventional wisdom justifying the president's new FDR-sized"
     publishedDateTime: 2021-05-04T12:06:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/04/there_is_no_biden_moment_542022.html#!"
+    webUrl: "https://www.realclearpolitics.com/2021/05/04/there_is_no_biden_moment_542022.html"
     type: article
     provider:
       name: RealClearPolitics

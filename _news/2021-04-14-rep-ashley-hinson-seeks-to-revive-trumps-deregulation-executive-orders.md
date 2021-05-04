@@ -60,22 +60,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "House Republicans Who Voted to Impeach Trump See Fundraising Boost"
-    excerpt: "The 10 Republicans who voted to impeach then-President Trump after his supporters stormed the Capitol raised significantly more money during the first quarter of 2021 than they did two years earlier."
-    publishedDateTime: 2021-04-17T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400?mod=newsviewer_click"
-    ampWebUrl: "https://www.wsj.com/amp/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-326160/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "1rVHU0ut7s9G96gfyMstgW0ycHyZUNjFSW2mnE9uBfHvXcQ5dygzQVhATuxzkIQb0ZCmUdQt7C/RPXlQI7XlIeyU9QjYLJHfMb87rOzHOX1O0ntR8WAcb7q1SWsEgm4zv7f+WrSjfljiljZZRRnfqMw4YIdFA+t0xOpOpdjGrkWbUjvbxp2SkMfCGDTbEzvPHsq71BnBJJOuKgMUnWTyCqLRzdCUI5odQXhGZE/LCuMrxyHkhtvZM2hxnHPfMjqrCpuZdpWdomrCj1jif2NK298veGCF6Yjf+Waz+lzKsftckOQiiTOSsLt0GHaGCXWBpjFRb3nkpOXcujWIueqAS6UaJihC+iNc/49f1zJHpjNylwThsf/+YS6LZ4c7CF2T+VOtyvDa0PAe8iinK/Z1A2heWhMFcUb7GebIsGQUCThX0QTvS59lfYxTe+9HcrPsad5y5gXs0pbA9wuteiVdyv6udi08Kh4TautMQr09RQqQUSURgjqCMQooVnXe8n1vvcVoW1w9GvpLzeueoWB0gA==;Nm9xL5sZvtvS0h0QXTG60Q=="
 ---

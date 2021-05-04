@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/cuomo-defends-blocking-release-ny-n
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-defends-blocking-release-ny-nursing-home-death-toll-blames-trump-doj.amp"
 type: article
 quality: 169
-heat: 229
+heat: 209
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump loses bid to get out of testifying in protester lawsuit"
-    excerpt: "Former President Donald Trump can’t get out of testifying in a lawsuit brought by a group of protesters — since he’s no longer in office, an appeals court ruled Tuesday. Trump"
-    publishedDateTime: 2021-04-27T20:40:00Z
-    webUrl: "https://nypost.com/2021/04/27/trump-loses-bid-to-get-out-of-testifying-in-protester-lawsuit/"
-    ampWebUrl: "https://nypost.com/2021/04/27/trump-loses-bid-to-get-out-of-testifying-in-protester-lawsuit/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/27/trump-loses-bid-to-get-out-of-testifying-in-protester-lawsuit/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-lawsuit.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Cuomo defends blocking release of true NY nursing home death toll, blames Trump DOJ"
     excerpt: "New York Gov. Andrew Cuomo pushed back after a New York Times report said his administration conducted a months-long effort to downplay the number of nursing home patients in the state who died from coronavirus."
     publishedDateTime: 2021-04-29T18:30:00Z

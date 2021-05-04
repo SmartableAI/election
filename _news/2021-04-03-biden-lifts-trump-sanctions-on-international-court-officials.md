@@ -795,6 +795,22 @@ related:
         width: 680
         height: 454
         isCached: true
+  - title: "Biden raises refugee ceiling, and faith-based groups brace for rebuilding work"
+    excerpt: "Faith-based refugee resettlement groups are celebrating President Joe Biden’s decision to raise the number of refugees allowed into the U.S. for the remainder of the federal fiscal year to 62,500, even as they acknowledge that they need to rebuild their capacity after years of cuts under the previous administration."
+    publishedDateTime: 2021-05-04T14:13:00Z
+    webUrl: "https://www.washingtonpost.com/religion/biden-raises-refugee-ceiling-and-faith-based-groups-brace-for-rebuilding-work/2021/05/04/46356738-aceb-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/religion/biden-raises-refugee-ceiling-and-faith-based-groups-brace-for-rebuilding-work/2021/05/04/46356738-aceb-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/biden-raises-refugee-ceiling-and-faith-based-groups-brace-for-rebuilding-work/2021/05/04/46356738-aceb-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Former Trump budget director on Biden's infrastructure plan"
     excerpt: "President Biden's infrastructure and jobs plan is already facing opposition from Republican lawmakers. Russ Vought, former director of the Office of Management and Budget under President Trump, spoke to \"Red and Blue\" host Elaine Quijano about his oppositon to the proposal."
     publishedDateTime: 2021-04-01T22:55:00Z
@@ -849,6 +865,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/27/USAT/bfc1809d-119b-4e06-8015-609e63865332-AP080826032783.jpg?auto=webp&crop=2345,1320,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden increases US refugee cap to 62,500 amid backlash over earlier plan – as it happened"
+    excerpt: "Announcement marks turnaround after initial plan to keep number at 15,000 – follow all the day’s politics news live"
+    publishedDateTime: 2021-05-03T23:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest?page=with:block-609001928f08658e7200f7eb"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/03/joe-biden-politics-live-coronavirus-covid-politics-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/c8d42ade0f3becc5ba807350061f55b4a5503894/0_238_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9e6c5af5b74555d4b13bbdce65d415e2"
+        width: 600
+        height: 360
         isCached: true
   - title: "These 10 high-profile Republicans who dumped Trump are mostly wary to back Biden's re-election. At least for now."
     excerpt: "It indicates the ability to send an email. Hundreds of high-profile Republicans broke party lines to endorse Joe Biden in 2020, arguing that another four years of then-President Donald Trump would harm the country. Now that President Biden says he plans to ..."
@@ -1178,6 +1210,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/04/17/us-president-joe-biden-speaking-at-the-white.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Adviser suggests Joe Biden still wears mask outside out of habit"
+    excerpt: "The CDC now says fully vaccinated individuals don’t need to cover their faces unless they’re in a large crowd of strangers."
+    publishedDateTime: 2021-05-02T22:30:00Z
+    webUrl: "https://floridapolitics.com/archives/426095-adviser-biden-mask-habit/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Jaoe-Biden-mask.jpeg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Biden Expected to End Trump Ban on Temporary Foreign Workers"
     excerpt: "U.S. President Joe Biden is expected to allow a proclamation from his Republican predecessor that had blocked many temporary foreign workers from coming into the United States to expire on Wednesday,"

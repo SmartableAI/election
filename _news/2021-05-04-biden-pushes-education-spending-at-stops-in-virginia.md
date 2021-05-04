@@ -97,19 +97,19 @@ related:
         isCached: true
   - title: "Biden promotes education spending at stops in Virginia"
     excerpt: "President Joe Biden traveled to coastal Virginia to promote his plans to increase spending on education and children, part of his $1.8 trillion families proposal announced last week"
-    publishedDateTime: 2021-05-03T20:22:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-pushes-education-spending-at-stops-in-virginia/2021/05/03/db788a64-ac32-11eb-82c1-896aca955bb9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-pushes-education-spending-at-stops-in-virginia/2021/05/03/db788a64-ac32-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-pushes-education-spending-at-stops-in-virginia/2021/05/03/db788a64-ac32-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    publishedDateTime: 2021-05-03T21:22:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-pushes-education-spending-stops-virginia-77466557"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pushes-education-spending-stops-virginia-77466557"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pushes-education-spending-stops-virginia-77466557"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MQ5NXJFMFEI6XAWBRFVMVFK3XE.jpg&w=1440"
-        width: 1440
-        height: 1033
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c59f309d36174843a07f8b1896b342b4_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "GOP senators unveil $568 billion counteroffer to Biden's infrastructure plan"
     excerpt: "Republican senators unveiled their counteroffer to President Biden's infrastructure proposal on Thursday, presenting a $568 billion framework that is significantly smaller than the president's $2 trillion plan."
