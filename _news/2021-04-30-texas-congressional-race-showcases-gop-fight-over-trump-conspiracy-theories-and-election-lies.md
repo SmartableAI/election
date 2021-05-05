@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-special-election-trump-conspiracy-theories/index.html"
 type: article
 quality: 178
-heat: 438
+heat: 458
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504074428-michael-wood-new-day-0504-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Redacted Justice Department memo on Trump and obstruction raises fresh questions about Barr's handling of Mueller probe"
+    excerpt: "A federal judge's ruling this week ordering the release of a redacted Justice Department memo recommending that former President Donald Trump should not be charged with obstruction of justice could place new scrutiny on then-Attorney General William Barr's handling of the Mueller investigation.\n    \n"
+    publishedDateTime: 2021-05-05T18:24:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0-RN4TtsHoo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/barr-justice-memo-mueller/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/barr-justice-memo-mueller/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222172423-02-bill-barr-0210-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/05/facebook-donald
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -123,6 +123,20 @@ related:
         width: 1024
         height: 731
         isCached: true
+  - title: "Facebook Board Upholds Donald Trump Suspension. Could His YouTube,Twitter Accounts Return?"
+    excerpt: "Facebook has six months to decide whether Trump will return or be banned outright. What are his odds on other social media platforms?"
+    publishedDateTime: 2021-05-05T16:24:00Z
+    webUrl: "https://www.ibtimes.com/facebook-board-upholds-donald-trump-suspension-could-his-youtubetwitter-accounts-3193568"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 45
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/donald-trump-was-suspended-from-facebook-and-instagram.jpg"
+        width: 1024
+        height: 652
+        isCached: true
   - title: "Donald Trump’s Facebook suspension upheld by Oversight Board; group calls on social media giant to conduct six-month review of case, policies"
     excerpt: "Former president Donald Trump will remain suspended from posting on Facebook, the world’s most popular social media platform, according to an independent Oversight Board. But the board, a diverse group of international experts in law,"
     publishedDateTime: 2021-05-05T13:14:00Z
@@ -158,6 +172,6 @@ related:
       domain: usnews.com
     quality: 24
 
-secured: "oaTUce6clQDYmT52ZpNsjSVmKD9UaCg9+V58q34DMtYzspQkW63GOMIY4KFpYmkRXhh4PHYxKpUNBDBEuKlbvM0jZVzm/nfgMGYQbseq+5ERr0gwwboOkx4/SiH0akxDySdl4PNxAvnDNWLuuALT4/xgpm8qWa+3r0hEDKktd/QJCsTNESh7IXgw1SKx/Jrm9hMmKxtsV2aLGOeBh5QuifXpmjHTin9P7Pti9xpKfXkm6BuEtTewDOkJpId44DSej4x9eL5YApFe6DXfgMbChLGu49ffUshVX+2U8Vyd8Oc9wHyCv6qXIbgmecEZnkGHiU3bcS+JvtVOlN/+OK52jsRKxz6hWQ9wMPERySQoecA=;enlbOyBvATLffFzHgvm0Pw=="
+secured: "13gbnHRteIdD9zM4TAUo+kAvcA4HHyCkoXEasvIMGr9RK9ZMAgLAtiLCZfimy8K591ih2ue08ufJEeRHEY0U2COJttbuFqwgiYIXSKr0bBHrwIj432s2BsDEbZA9hdWYQzxFiW+3n8MJIflOYw58ubE/fygBP9fDbSsBiHnzQ7+h1q1G8/Cla2C/iVHbERveRDbWVWaiPPKuGYYUr/WRpFz7zalGhrlRmSw5RCAV81lQKosKmy7emo3TTf9JsMupPMNoG3Px9HnXuKeKxuiigvAi7prWkh/rK63x8v1tEL/hKjPzAfqoUP6VpyzcvowVjU49XTubrR0ko0FpvVoomg1mP4cCo2xz78dyAOxAWQY0540Zaq0H6snJyzDgwnYR2GOaFxmng5FoWl5+MBpm9omTfA/fwKMtkPUeS5ZiMm6qgJB9P1D0zkh8fEUE3FzGnA6zpozkSNuGFNAPvgTH7y3hz0YbZk+XLhRnUlMF059XReSdlbow7oOw/kHc3zGQXh/hANgwGdfP8EBdSc42kg==;mCO2ytoACK+Tjfo54M0LPQ=="
 ---
 

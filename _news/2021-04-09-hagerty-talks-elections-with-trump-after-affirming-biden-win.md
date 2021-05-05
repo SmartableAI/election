@@ -843,6 +843,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden offers assistance to Mexico after deadly subway collapse"
+    excerpt: "President Biden offered U.S. support to Mexico's government on Wednesday after the collapse of a rail overpass killed dozens in Mexico City."
+    publishedDateTime: 2021-05-05T18:09:00Z
+    webUrl: "https://thehill.com/policy/international/americas/551961-biden-offers-assistance-to-mexico-after-deadly-subway-collapse"
+    ampWebUrl: "https://thehill.com/policy/international/americas/551961-biden-offers-assistance-to-mexico-after-deadly-subway-collapse?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/americas/551961-biden-offers-assistance-to-mexico-after-deadly-subway-collapse?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_05042021getty.png"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Pastor Robin Bullock Says It's a Sin to Recognize Joe Biden as President"
     excerpt: "\"You can pray for the office of the president. But you cannot pray for President Joe Biden,\" Bullock said. \"Because you might as well pray for the Easter Bunny, because he don't exist.\""
     publishedDateTime: 2021-05-03T23:31:00Z
@@ -961,6 +977,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/27/USAT/bfc1809d-119b-4e06-8015-609e63865332-AP080826032783.jpg?auto=webp&crop=2345,1320,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "President Biden touts direct relief for businesses with Restaurant Revitalization Fund"
+    excerpt: "President Joe Biden called the newly launched Restaurant Revitalization Fund \"badly needed\" Wednesday as he continues to tout the implementation of the American Rescue Plan. The application process for the $28."
+    publishedDateTime: 2021-05-05T19:19:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-restaurant-revitalization-fund/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-restaurant-revitalization-fund/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-restaurant-revitalization-fund/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 117
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/17/2a158f19-f986-4b28-a1dc-8b268e04ed03/thumbnail/1200x630/8c1ab4a2db166c9f799a2792602b2d38/cbsn-fusion-biden-turns-focus-away-from-middle-east-and-toward-china-russia-thumbnail-695058-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden increases US refugee cap to 62,500 amid backlash over earlier plan – as it happened"
     excerpt: "Announcement marks turnaround after initial plan to keep number at 15,000 – follow all the day’s politics news live"
@@ -1129,6 +1161,34 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Biden Touts Relief Funds for Restaurants Hit by Pandemic"
+    excerpt: "President Joe Biden visited a Washington restaurant owned in part by Mexican immigrants on Wednesday to highlight $28.6 billion in federal aid for restaurants that struggled during the pandemic."
+    publishedDateTime: 2021-05-05T15:20:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-touts-relief-funds-for-restaurants-hit-by-pandemic/2021/05/05/e332c45e-adbd-11eb-82c1-896aca955bb9_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden Says Restaurant Grants Show Quick Use of Rescue Money"
+    excerpt: "President Joe Biden said a $28.6 billion program that gives grants to restaurants hit by the pandemic shows how his administration is quickly making use of a rescue plan he signed into law in March."
+    publishedDateTime: 2021-05-05T18:38:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-says-restaurant-grants-show-quick-use-of-rescue-money/2021/05/05/e332c45e-adbd-11eb-82c1-896aca955bb9_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live"
     excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
     publishedDateTime: 2021-04-16T22:17:00Z
@@ -1283,6 +1343,22 @@ related:
       - url: "https://www.ajc.com/resizer/WimXFKSyj9hVemru0GthR2LqRcE=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/YEGNCM52U3IEJTJL7GT4EXXFWY.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "President Joe Biden once again confirmed human, not a giant"
+    excerpt: "People were quick with the reactions to the news that each Biden is seemingly 9 feet tall if we're only going off of appearances. according to scale, each Biden is around 9 feet tall pic.twitter.com/tBDVjXx0bH There."
+    publishedDateTime: 2021-05-05T19:30:00Z
+    webUrl: "https://www.chron.com/politics/article/how-tall-is-joe-biden-jimmy-carter-16153265.php"
+    ampWebUrl: "https://www.chron.com/politics/amp/how-tall-is-joe-biden-jimmy-carter-16153265.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/how-tall-is-joe-biden-jimmy-carter-16153265.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "More perilous phase ahead for President Joe Biden after his 1st 100 days"
     excerpt: "The president is racing against the calendar, governing with the most slender of majorities on Capitol Hill while knowing that historically the party that holds the White House loses seats in midterm elections,"

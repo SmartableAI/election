@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trum
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Boebert blasts Facebook over continued Trump suspension, calls for antitrust action"
+    excerpt: "Rep. Lauren Boebert, R-Colo., called Wednesday for Facebook to be broken up after the social media giant’s oversight committee affirmed a decision to suspend former President Donald Trump’s account following the Jan. 6 riot at the Capitol."
+    publishedDateTime: 2021-05-05T19:24:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/opxZ_2Mgij4/boebert-blasts-facebook-trump-account-decision-calls-for-antitrust-action"
+    ampWebUrl: "https://www.foxnews.com/politics/boebert-blasts-facebook-trump-account-decision-calls-for-antitrust-action.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-blasts-facebook-trump-account-decision-calls-for-antitrust-action.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c854aa97-4b5f-4323-a141-a711ec984ca4/69a9c07e-ea7e-4a54-ae3f-e52c399e2d98/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Donald Trump offers advice to ‘woke’ Oscars"
     excerpt: "Former President Donald Trump ​on Tuesday ​weighed in on the Academy Awards that critics lambasted as overly “woke” and which attracted its smallest TV audience in history, suggesting"

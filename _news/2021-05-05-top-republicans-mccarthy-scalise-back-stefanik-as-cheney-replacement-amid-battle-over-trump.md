@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Elise Stefanik, GOP conference chair favorite, voted with Trump less than Liz Cheney"
-    excerpt: "Rep. Elise Stefanik, the favorite to replace Rep. Liz Cheney as the House GOP conference chair, voted with former President Donald Trump less than Cheney and has lower voting scores from top conservative organizations."
-    publishedDateTime: 2021-05-05T16:29:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZglNdJhJOc/cheney-stefanik-republicans-house-votes-trump-conservative"
-    ampWebUrl: "https://www.foxnews.com/politics/cheney-stefanik-republicans-house-votes-trump-conservative.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-stefanik-republicans-house-votes-trump-conservative.amp"
+  - title: "Biden, when asked about Liz Cheney, says 'I don't understand Republicans'"
+    excerpt: "President Biden seemed perplexed Wednesday by the effort of House Republicans to oust Rep. Liz Cheney as the GOP conference chair."
+    publishedDateTime: 2021-05-05T18:15:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DTg4Dn4DSrQ/biden-liz-cheney-dont-understand-republicans"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-liz-cheney-dont-understand-republicans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-liz-cheney-dont-understand-republicans.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Rep. Liz Cheney's role as GOP conference chair facing renewed jeopardy amid Trump feud"
-    excerpt: "Wyoming Rep. Liz Cheney’s ongoing feud with former President Donald Trump has sparked discussions among senior House GOP leadership about her future as the party’s conference chair, according to sources familiar with the situation."
-    publishedDateTime: 2021-05-04T01:19:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tz92hv88-ak/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud.amp"
+  - title: "Tim Scott: What to know about Republican senator giving rebuttal to Biden address"
+    excerpt: "Sen. Tim Scott is the junior senator from South Carolina and a rising star in the GOP."
+    publishedDateTime: 2021-04-28T10:12:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GGq1oP7Fhy0/tim-scott-republican-response-biden-south-carolina"
+    ampWebUrl: "https://www.foxnews.com/politics/tim-scott-republican-response-biden-south-carolina.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tim-scott-republican-response-biden-south-carolina.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11d83ee5-42e6-407a-a1ef-acb760a3c006/507e6206-8997-45de-9473-acc27728bd4a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Trump supports Elise Stefanik for House GOP conference chair amid Liz Cheney feud: sources"
     excerpt: "Former President Donald Trump supports Rep. Elise Stefanik to replace Rep. Liz Cheney as the House Republican conference chair, sources close to the former president tell Fox News. "
@@ -78,20 +78,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "NYT's Tom Friedman: Liz Cheney And Mitt Romney Are Defending Democracy From Trump's \"Gigantic Lie\""
-    excerpt: "New York Times columnist Thomas Friedman warned there would be \"people in the streets\" if Republicans who believe President Trump's \"big lie\" about voter fraud in the 2020 election during an appearance Monday with CNN's Anderson Cooper."
-    publishedDateTime: 2021-05-04T14:53:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/04/nyts_tom_friedman_liz_cheney_and_mitt_romney_are_defending_democracy_from_chilling_trump_danger.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 51
-    images:
-      - url: "https://assets.realclear.com/images/48/486909.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "p7eyPfY1bzlvWIrRZUZwfbqm70CqkECB6uqt99ICmIbyjM8EgevdpVEKiRaNk+PbV6reNtmdb9rARMinPtSlRkxr8NM3D7lQ7hVEXZ9+UzWNqgf7Nk9g8k7ifZ1P9J+o9GPHFEoO0p4WBYEr+fm64D25QXB8T46lyL5ku+xXzqhbla0YL8B9g2NeMUDF3DSNkbJj9hIxqRRLqEwvHm7H9oJoZ1LAFp+WNBa42X1Q9oD/SeCl9xV5l7RRrHJKg4NPatmbUsZorjAy5Pc5U6t6h9givWMyBDgxMcL7d0dWxyRPX2PIBIjUtVrXLp919P+b2KmG9pZHtZrcIeIB2Xr6sTI/ieCqE5gCKz9ZGowSAVM=;CPJxlOBXMSWtwEyRhrJwkQ=="

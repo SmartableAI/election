@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/schiff-omar-democrats-facebook-trum
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schiff-omar-democrats-facebook-trump-ban.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -53,6 +53,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4kXmtfD_u28/facebooks-trump-ban"
     ampWebUrl: "https://www.foxnews.com/politics/facebooks-trump-ban.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebooks-trump-ban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "White House backs social media crackdown on 'misinformation' after Trump Facebook ruling"
+    excerpt: "The White House on Wednesday said social media companies need to do more to protect the public from “disinformation” and “misinformation,” after Facebook’s Oversight Board upheld the company’s ban against former President Trump from using the platform."
+    publishedDateTime: 2021-05-05T19:13:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qGYH685DdwE/white-house-social-media-crackdown-misinformation-trump-facebook-ruling"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-social-media-crackdown-misinformation-trump-facebook-ruling.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-social-media-crackdown-misinformation-trump-facebook-ruling.amp"
     type: article
     provider:
       name: Fox News

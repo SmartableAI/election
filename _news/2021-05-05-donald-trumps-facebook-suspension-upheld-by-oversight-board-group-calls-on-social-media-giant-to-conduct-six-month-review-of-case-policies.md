@@ -135,6 +135,20 @@ related:
         width: 1024
         height: 731
         isCached: true
+  - title: "Facebook Board Upholds Donald Trump Suspension. Could His YouTube,Twitter Accounts Return?"
+    excerpt: "Facebook has six months to decide whether Trump will return or be banned outright. What are his odds on other social media platforms?"
+    publishedDateTime: 2021-05-05T16:24:00Z
+    webUrl: "https://www.ibtimes.com/facebook-board-upholds-donald-trump-suspension-could-his-youtubetwitter-accounts-3193568"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 45
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/donald-trump-was-suspended-from-facebook-and-instagram.jpg"
+        width: 1024
+        height: 652
+        isCached: true
   - title: "U.S. House Majority Leader Hoyer Applauds Facebook Decision on Trump"
     excerpt: "House Majority Leader Steny Hoyer applauded Facebook Inc's decision to maintain its suspension of Donald Trump after the Jan. 6 Capitol riots, saying it has the right to refuse to be a medium for the former Republican president."
     publishedDateTime: 2021-05-05T13:28:00Z

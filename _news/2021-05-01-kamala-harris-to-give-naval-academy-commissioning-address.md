@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Nava
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
 type: article
 quality: 125
-heat: 825
+heat: 845
 published: true
 
 provider:
@@ -462,6 +462,22 @@ related:
       - url: "https://www.baltimoresun.com/resizer/Bdfgyqe8jTZDjzCPhXfdVfL7tn8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3QSSWDMB5ZHKHMGT3LBCES6SPA.jpg"
         width: 1200
         height: 1111
+        isCached: true
+  - title: "Amanda Seales on Kamala Harris saying America isn’t racist: ‘She embarrassed everyone who supported her’"
+    excerpt: "Amanda Seales says Kamala Harris disappointed her supporters with her recent comments on race that echoed ones by Sen. Tim Scott."
+    publishedDateTime: 2021-05-05T18:13:00Z
+    webUrl: "https://thegrio.com/2021/05/05/amanda-seales-on-kamala-harris-saying-america-isnt-racist/"
+    ampWebUrl: "https://thegrio.com/2021/05/05/amanda-seales-on-kamala-harris-saying-america-isnt-racist/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/05/05/amanda-seales-on-kamala-harris-saying-america-isnt-racist/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 58
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/05/AmandaKamala2-scaled.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Fact check: Copy of Kamala Harris book was one of thousands of books received for Long Beach migrant shelter"
     excerpt: "The vice president’s book “Superheroes Are Everywhere” was not included in welcome kits, as some recent news articles incorrectly claimed"

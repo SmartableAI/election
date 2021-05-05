@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Redacted Justice Department memo on Trump and obstruction raises fresh questions about Barr's handling of Mueller probe"
+    excerpt: "A federal judge's ruling this week ordering the release of a redacted Justice Department memo recommending that former President Donald Trump should not be charged with obstruction of justice could place new scrutiny on then-Attorney General William Barr's handling of the Mueller investigation.\n    \n"
+    publishedDateTime: 2021-05-05T18:24:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0-RN4TtsHoo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/barr-justice-memo-mueller/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/barr-justice-memo-mueller/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222172423-02-bill-barr-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fractures in GOP on full display as Cheney faces renewed criticism for bucking Trump and disagreeing with McCarthy in public"
     excerpt: "House Conference Chairwoman Rep. Liz Cheney is once again facing the ire of her colleagues and GOP voters, laying bare the ongoing and internal divisions within the GOP about how Republicans should move forward in the wake of former President Donald Trump.\n    \n"
     publishedDateTime: 2021-04-30T17:58:02Z

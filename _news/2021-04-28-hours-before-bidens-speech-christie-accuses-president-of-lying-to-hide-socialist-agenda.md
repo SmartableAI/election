@@ -912,6 +912,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Rep. Mast asks Biden to intervene after veterans group denied use of Pentagon parking lot"
+    excerpt: "Rep. Brian Mast sent a letter to President Biden on Wednesday asking him to reverse the Pentagon's decision on a veterans event."
+    publishedDateTime: 2021-05-05T19:47:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yDk38RYz6SA/brian-mast-biden-rolling-to-remember-pentagon-veterans"
+    ampWebUrl: "https://www.foxnews.com/politics/brian-mast-biden-rolling-to-remember-pentagon-veterans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brian-mast-biden-rolling-to-remember-pentagon-veterans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd13b987-cc4d-4d34-8e55-2c8c4876c6b6/b48fab23-52b1-4171-b8b8-768569b6af89/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "First lady hosts virtual guests, including transgender teen, for Biden address to congress"
     excerpt: "First Lady Dr. Jill Biden held a virtual reception Wednesday for guests invited to watch President Biden’s first address to Congress – an unusual event held in light of strict coronavirus restrictions."
     publishedDateTime: 2021-04-28T22:11:08Z

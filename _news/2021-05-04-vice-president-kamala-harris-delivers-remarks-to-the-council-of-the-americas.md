@@ -473,6 +473,22 @@ related:
         width: 1200
         height: 1111
         isCached: true
+  - title: "Amanda Seales on Kamala Harris saying America isn’t racist: ‘She embarrassed everyone who supported her’"
+    excerpt: "Amanda Seales says Kamala Harris disappointed her supporters with her recent comments on race that echoed ones by Sen. Tim Scott."
+    publishedDateTime: 2021-05-05T18:13:00Z
+    webUrl: "https://thegrio.com/2021/05/05/amanda-seales-on-kamala-harris-saying-america-isnt-racist/"
+    ampWebUrl: "https://thegrio.com/2021/05/05/amanda-seales-on-kamala-harris-saying-america-isnt-racist/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/05/05/amanda-seales-on-kamala-harris-saying-america-isnt-racist/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 58
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/05/AmandaKamala2-scaled.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Fact check: Copy of Kamala Harris book was one of thousands of books received for Long Beach migrant shelter"
     excerpt: "The vice president’s book “Superheroes Are Everywhere” was not included in welcome kits, as some recent news articles incorrectly claimed"
     publishedDateTime: 2021-04-28T00:52:00Z
@@ -565,6 +581,6 @@ related:
       domain: mcall.com
     quality: 22
 
-secured: "+shyA3TuCMhP4Re1PsmkzG+OuDWFlMctzAwZ+psb9LXz6qrMtyG9x/7ohRfB4hoIxrKraN6283aATMBQWcAoF+2u75Lw4kcTzEuD+84RqUXlQ3p7nH5Jf4czW/+GAiKK2uSj3TemPKbY585EB8zg1udI3KJh1l6Ok0fmwJFJhvn5MxEXLa8NXOmXr1O+cOwHLCIk/PBF1CagB5HyII6lCLLyEGyiM1G/DFzKEN7aX5hgBbJWhKGiRk/hrkjdiZAnbzCkvlcSca+UZwTDuuaT5y2Z695vqxwWxXHinRqEvqCLKavQ5GFnvUVaZEWidKMq3mdo/ceaKugsCyNgGOdqhfeUL6f3TCnJuEcxDwa4R4Y=;q4WdrHJ8K3fsBMJCqMX1gg=="
+secured: "30zmpGvYqhr2hRoFRkRN0opoSLCvbgNsKUPa4ORHxM7Qw1x2c882xXsZs9kDJyLdJOLgF+gOvuC7Z7r6LDEY07OB22bjtBro3LXsvw6T4mWdNOQlRQhb6kgNjSwu8cZJNGTx3VwwAVgq3nrdj3AzoOmFI9vV3x17LwsWvXlcUFBU0shwPMofcnlu9z7dWxoeCDc18H3lm1quSys2lnvvUQQEwZ/f6r/aEWp7+4zHy/rihboFPB3CMm7TSPdk10fpiYhGWoVpIke59pkgygubakwjeI2Fg1IHKGjS5lnR+F8q1yt5B9dSrXzLGPs5Uvj7GPwHa7kHE5wspuXt415wyZbCF0+/oosQsq2sOidq09/PQwq4LE76w1CbElf8h9NEkknmICBDnWYKFnDl4wtUGKWmA88B/HvJWtsLpMIBsBv6b8bj1rxXBqXWk/GgbkA/Ho8hvZTlLQqz9DWmvanUPoLuJDlZwxFtBIHn1G0ZHr2N90dXDPHT246RA4oOmXL93L9xU1gvzR7RCy0e5We+9Q==;iBxmEUnmjDKMVQxF5Unk3A=="
 ---
 

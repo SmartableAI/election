@@ -80,6 +80,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "White House backs social media crackdown on 'misinformation' after Trump Facebook ruling"
+    excerpt: "The White House on Wednesday said social media companies need to do more to protect the public from “disinformation” and “misinformation,” after Facebook’s Oversight Board upheld the company’s ban against former President Trump from using the platform."
+    publishedDateTime: 2021-05-05T19:13:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qGYH685DdwE/white-house-social-media-crackdown-misinformation-trump-facebook-ruling"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-social-media-crackdown-misinformation-trump-facebook-ruling.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-social-media-crackdown-misinformation-trump-facebook-ruling.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump slams Facebook ban as 'total disgrace,' says Big Tech companies 'must pay a political price'"
     excerpt: "Former President Trump on Wednesday slammed the Facebook Oversight Board’s decision to uphold his ban from Facebook and Instagram as a “total disgrace,” saying Big Tech companies “must pay a political price.”"
     publishedDateTime: 2021-05-05T15:56:19Z
@@ -129,6 +145,6 @@ related:
         height: 405
         isCached: true
 
-secured: "AmBF5i0c42MyX7nrf+V/9mAvT+J6t+QmBfBXuCxCInZFnWu5mkXGWJQCoB0xcNcr9ZTkcCdvu7kl2poBthij83xgorLSie7z44lwiM09YU5lG9Uho9nKabn8+1wcd+6H+HUkuMk1+gBPLROknAu9JKrQGyBb6M/H+zid3jUXL0U334etsz0NDT+4hxyc8fCVIXY4HybbYZuDQAZbAwJ5ciWXVyeECGQq+HUawA+hMeBATNtYEUxE84yUbOemEqZ51MV0tcfLddaPWWRCYLhAXiFNvU5nzXUdvaTlDqBBggzHivZLh3NvCz1ZU98wb1dHB/4f5cVYlTcdUmWfSTeKrl4XSQkW3CQRozvXCVOZoOc=;U7n1tfF3Yjx5o5dqtCjzJQ=="
+secured: "2B4pi3LYQ5edH7AUHytCojV6WcK6A5SVVZHokXErsocLvnW95Dg+S9fPTVh8rSYeWu9iaepfwufVkwjQX0H6gWxLsQAQpb7JFKCzJEGwW5mlTzAembn7k6gU7rDDXh4xB2DiB+GQdr8ppPKyXYq6WcT0HPzIWcui4sP1zFkNc5eG5yzr6J4GOLwicB+/wyIw8IKlPtFVR5hQYkoj9Tf7nX2p9wugCGJYoQcJy4bhZF7Pm7K5gtpPtqxgOGXrK/kOV3e3s7LH90JS/AzvbqsB2D0vDag/ZCLrguQSpCCFlWG2cYcOBmdhrVeQqkRKEI5Q1XBmjf0+dNPVgVqDK8MNJcPjpStAyRSmgafG073RrzIdU8ADKaMsbQfSLG4DhRkWNvgR+q6HwKi87yS44sOqTdaClAFOWZo+UBWuNtF9I3flZTzA4XKJJWnKnKfJ4M68ke4slEInfuNspufRaCvlyKKGxk1QqKfTbc4otLkc6RUd9Tfud8e4v3LYv188vY6jmrUcWU8Qv92Jt0Hq/bl39Q==;R2PayOm1MgHEFvy8LQ9uaA=="
 ---
 

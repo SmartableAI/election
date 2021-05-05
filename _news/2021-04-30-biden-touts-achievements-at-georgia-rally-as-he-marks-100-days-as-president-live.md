@@ -95,6 +95,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fact Check-President Biden did not sign 96 executive orders in his first three months in office"
+    excerpt: "In his first 100 days in office, President Joe Biden has not signed 96 executive orders. According to FederalRegister.gov, part of the United States National Archives, the Biden Administration had published 42 executive orders by April 27,"
+    publishedDateTime: 2021-05-05T15:40:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-biden-executive-orders-idUSL1N2MS24C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MS24C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MS24C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 93
   - title: "Joe Biden as popular as top Republican officeholders in Texas, UT/TT Poll finds"
     excerpt: "Texas voters have a strong preference for politicians from their own parties, but overall, the president is as popular here as the governor or either of the state's U.S. senators."
     publishedDateTime: 2021-05-04T10:00:00Z

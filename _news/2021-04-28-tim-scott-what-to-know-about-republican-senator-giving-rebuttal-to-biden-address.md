@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/tim-scott-republican-response-biden
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tim-scott-republican-response-biden-south-carolina.amp"
 type: article
 quality: 170
-heat: 190
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Twitter blocks Tim Scott 'Uncle Tim' topic that trended for hours after Biden rebuttal"
-    excerpt: "Twitter on Thursday morning blocked the \"Uncle Tim\" trending topic – the racial slur that flooded the platform Wednesday night after Republican Sen. Tim Scott delivered his rebuttal to President Biden's address to Congress."
-    publishedDateTime: 2021-04-29T14:23:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sS46Nu5GFR0/twitter-blocks-tim-scott-uncle-tim-trending-topic-biden-rebuttal"
-    ampWebUrl: "https://www.foxnews.com/politics/twitter-blocks-tim-scott-uncle-tim-trending-topic-biden-rebuttal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-blocks-tim-scott-uncle-tim-trending-topic-biden-rebuttal.amp"
+  - title: "Biden, when asked about Liz Cheney, says 'I don't understand Republicans'"
+    excerpt: "President Biden seemed perplexed Wednesday by the effort of House Republicans to oust Rep. Liz Cheney as the GOP conference chair."
+    publishedDateTime: 2021-05-05T18:15:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DTg4Dn4DSrQ/biden-liz-cheney-dont-understand-republicans"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-liz-cheney-dont-understand-republicans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-liz-cheney-dont-understand-republicans.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump supports Elise Stefanik for House GOP conference chair amid Liz Cheney feud: sources"
+    excerpt: "Former President Donald Trump supports Rep. Elise Stefanik to replace Rep. Liz Cheney as the House Republican conference chair, sources close to the former president tell Fox News. "
+    publishedDateTime: 2021-05-05T13:31:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGBDKsL-pBo/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Top Republicans McCarthy, Scalise back Stefanik as Cheney replacement amid battle over Trump"
+    excerpt: "The top two Republicans in the House are behind Rep. Elise Stefanik's efforts to replace Rep. Liz Cheney as Republican conference chair as the party continues to grapple over former President Trump's future role, according to a report. "
+    publishedDateTime: 2021-05-05T12:25:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x3400qqbMFw/republican-leaders-stefanik-cheney-house-conference-chair-trump-election"
+    ampWebUrl: "https://www.foxnews.com/politics/republican-leaders-stefanik-cheney-house-conference-chair-trump-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-leaders-stefanik-cheney-house-conference-chair-trump-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
