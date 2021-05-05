@@ -1266,6 +1266,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Donald Trump launches website to host public statements"
+    excerpt: "Former President Donald Trump launched a new website \"From the desk of Donald J. Trump\" to host his public statements following his bans from most social media platforms."
+    publishedDateTime: 2021-05-05T03:12:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/05/04/Donald-Trump-launches-communication-website-public-statements/5221620180333/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/05/04/Donald-Trump-launches-communication-website-public-statements/5221620180333/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/04/Donald-Trump-launches-communication-website-public-statements/5221620180333/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5221620180333/2021/1/44d257940703bad9db33f7c51a8b03f0/v1.5/Donald-Trump-launches-website-to-host-public-statements.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "More perilous phase ahead for President Joe Biden after his 1st 100 days"
     excerpt: "The president is racing against the calendar, governing with the most slender of majorities on Capitol Hill while knowing that historically the party that holds the White House loses seats in midterm elections,"
     publishedDateTime: 2021-05-01T16:07:00Z

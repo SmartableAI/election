@@ -1250,6 +1250,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Donald Trump launches website to host public statements"
+    excerpt: "Former President Donald Trump launched a new website \"From the desk of Donald J. Trump\" to host his public statements following his bans from most social media platforms."
+    publishedDateTime: 2021-05-05T03:12:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/05/04/Donald-Trump-launches-communication-website-public-statements/5221620180333/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/05/04/Donald-Trump-launches-communication-website-public-statements/5221620180333/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/04/Donald-Trump-launches-communication-website-public-statements/5221620180333/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5221620180333/2021/1/44d257940703bad9db33f7c51a8b03f0/v1.5/Donald-Trump-launches-website-to-host-public-statements.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "President Joe Biden has quadrupled nation’s cap on refugee admissions"
     excerpt: "President Joe Biden formally raised the nation’s cap on refugee admissions to 62,500 this year, weeks after facing bipartisan blowback for his delay in replacing the record-low ceiling set by former President Donald Trump."
     publishedDateTime: 2021-05-04T18:38:00Z

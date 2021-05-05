@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclam
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Cheney Could Be 'Toast' in Fight With Trump Over GOP Future"
+    excerpt: "House Republican leader Kevin McCarthy wants his party to stand firmly with Donald Trump, despite the former president’s false claims about the election being stolen from him."
+    publishedDateTime: 2021-05-05T01:43:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-04/house-gop-leader-cites-rank-and-file-concerns-about-cheney"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-05-04/house-gop-leader-cites-rank-and-file-concerns-about-cheney?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-05-04/house-gop-leader-cites-rank-and-file-concerns-about-cheney?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "OYMbwSbJPJnJ69kAxH+BiREmdUFRbmIEmY3IJV7HGu6EIP63FUNHOdjWlKcu7KgGWkv8bJ55859Sla8jeeMdGbOQBjouaxO9wpYuUaaPRvbIGC2PZh9fyBxuTBsnEz+7nftePSwNWJ6iSopVULPiEU0r4AbfsLuhRhMzJlph1kbhdteeCoOeds82MR4tCa+qoeSl6GPXmHPe280tLhcpoc91DEBqUPcqXbJSKH7cDOJwN7NjiC+HhWuVqx0gRAV2aWhrOC0lEU0c3uXQpIF95l7wZNcrzNFYZFwSo4ynAJ1ZKLV6sBoyU0nbD0QmHtrDZFkBlv7gEMRdgCsC6qXOYm1MTnDYEQNrE3bXZFOebu8=;vdBsZZMjBnzC+p1Yz8CzNw=="
 ---

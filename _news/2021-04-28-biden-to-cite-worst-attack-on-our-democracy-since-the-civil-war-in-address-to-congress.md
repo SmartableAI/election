@@ -495,6 +495,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden considers new role for LA Mayor Garcetti as India ambassador"
+    excerpt: "President Biden is considering Los Angles Mayor Eric Garcetti for a top position in his administration as ambassador to India, Axios first reported Tuesday."
+    publishedDateTime: 2021-05-05T02:29:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pf1lZ5aoquU/biden-considers-new-role-for-la-mayor-garcetti-as-india-ambassador"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-considers-new-role-for-la-mayor-garcetti-as-india-ambassador.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-considers-new-role-for-la-mayor-garcetti-as-india-ambassador.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a41eca76-9b2c-4cc8-9f52-62fae2ae0d1f/0ff8d774-815e-4781-adab-ecac04b0cd52/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Cruz calls on Biden to fix gap in Texas levee that protects border towns"
     excerpt: "Sen. Ted Cruz, R-Texas, and local residents in Mission, Texas, are calling on President Biden to fix a compromised levee that protects border towns from the Rio Grande Valley – with hurricane season just weeks away."
     publishedDateTime: 2021-04-22T17:31:33Z
@@ -862,6 +878,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden operatives begin opposition research on potential 2024 GOP presidential candidates"
+    excerpt: "President Biden has yet to say whether he intends to run for re-election in 2024, but Democratic National Committee operatives have already begun compiling opposition research on an array of potential GOP candidates – including some outside the traditional political landscape."
+    publishedDateTime: 2021-05-05T02:09:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-UN-VsoCifI/biden-operatives-begin-opposition-research-potential-2024-gop-presidential-candidates"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-operatives-begin-opposition-research-potential-2024-gop-presidential-candidates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-operatives-begin-opposition-research-potential-2024-gop-presidential-candidates.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab7331de-b452-4be7-8f8d-2ac612d93083/8e0fe1fc-dc20-4755-9020-87326897804d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "First lady hosts virtual guests, including transgender teen, for Biden address to congress"
     excerpt: "First Lady Dr. Jill Biden held a virtual reception Wednesday for guests invited to watch President Biden’s first address to Congress – an unusual event held in light of strict coronavirus restrictions."
