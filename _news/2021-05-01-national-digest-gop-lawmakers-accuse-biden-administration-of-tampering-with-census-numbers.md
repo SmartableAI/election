@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden says US ‘ready to move immediately’ if vaccine approved for young teens – as it happened"
+    excerpt: "FDA likely to authorize Pfizer vaccine for those aged 12 to 15 as Biden targets 70% of US adults vaccinated by Fourth of July – follow the day’s politics news"
+    publishedDateTime: 2021-05-04T22:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/3f7e93a0aa8cd607a4edc7c122480f23916d6769/0_219_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9cdb82a1110b98b036a7e27661cd97fe"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "tHzr/NoZ7cxz1LYN/O81Y5yhdCi89lrioxTRd197Xp3wDLO48qIExch+zFAQxTu6luSs3YJuW6Qdl6ZZBZcTZG5WOtr0B8NCbV8nz7EvTg984UwYQPVBkC+mvcwDstGXCpWtqOjqAQK+8LWmNsdtXke647kQd4mw+YF4nN2ZwP7goma/XgbE7aZjzcKGuCsRy0wqDs0zxNvLu7TrboqxUGkbEK/gTIYwXjoUD7ZRJgdRHPcACh3j/Gzn64Dl8Ry475HZ+Gd8MntpeqEDFSn+i8wqvFwq4YukW/U43zlus62L291HkKO9bOQnJMAMlOCWsiWa9qx2e1fjyRw+3us8smvYDvvmj/5cOYrF4tbR0Ns=;FqIKqr+bdol1g+GReaeDXg=="
 ---

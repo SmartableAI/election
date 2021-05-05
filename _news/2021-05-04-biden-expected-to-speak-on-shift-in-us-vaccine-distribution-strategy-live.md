@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
 type: article
 quality: 123
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden says US ‘ready to move immediately’ if vaccine approved for young teens – as it happened"
+    excerpt: "FDA likely to authorize Pfizer vaccine for those aged 12 to 15 as Biden targets 70% of US adults vaccinated by Fourth of July – follow the day’s politics news"
+    publishedDateTime: 2021-05-04T22:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/3f7e93a0aa8cd607a4edc7c122480f23916d6769/0_219_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9cdb82a1110b98b036a7e27661cd97fe"
+        width: 600
+        height: 360
         isCached: true
 
 secured: "P6TNxCJElQkotYNBdBUbkhBV/lJi4JHZFn2GWfmp9rsVlOQsJo7hiuCcVsZJ2j1e3ASL/fdSDlU0ybu7nlCwpYaXFQwO8+iNlnmZ1J3EeawyMCiXNe8LSbDf2SbdDhact3alq3T27qkHP+9cTX6DQ3TCfn3dub59oTte3eiyRnDAF5pCUT+Bsy1qmfcoVlRTx6geZsIHUdBG63IxWVIl1yzmtAJe2b+ufCm2sdSqvy6r/D97eG+6lXNp4eT4Ls8eVncdMlwBzlTwi1+V8Sxr0jJ+jOLGkn7eI93SA/snWeL3a8EsipqroYAAKKkkntZfjCORgLPUhXjd8xcImUK6/juyBSEltkg8WRNnclTRmsQJXAOdPCzQiK6QRs5cLLawsFyn6fKsUnL9LkHLecgIvIGOCRP+KYnvnjMnEW3Yuxe18NCNzbOHwknTc9sdt26YczPaRXVPopcQTgrE9LX8OirZ7MdrKuNkuAW9rFjY/6UD7OpJ6/jui7SwTD3UZA7YOAiQv8uOaJ+Q4TXBl54oyA==;KYpfKpRl8J1mGzrJmiSNvw=="

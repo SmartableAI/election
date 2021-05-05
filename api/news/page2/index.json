@@ -862,6 +862,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-01-pro-trump-and-anti-vax-sites-urging-people-to-forge-covid-19-vaccination-cards-says-cdc.md",
+      "title": "Pro-Trump and anti-vax sites urging people to forge COVID-19 vaccination cards, says CDC",
+      "excerpt": "Faking a vaccination is easy with a template and blank flashcard. New York is the only state that keeps track of authentic cards. It is against the law to fake vaccination cards. Some former President Trump supporters and anti-vaxxers are forging vaccine cards using a government-issued template to falsely state they received their shots.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to",
+      "originalUrl": "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/ca.vac_card_gettyimages-1230169189.jpg",
+          "width": 1440,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to?amp",
+      "publishedDateTime": "2021-04-30T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-mike-pence-coming-to-texas-for-gop-fundraising-blitz-donor-appreciation-event.md",
       "title": "Mike Pence coming to Texas for GOP fundraising blitz, donor appreciation event",
       "excerpt": "Former Vice President Mike Pence and several other potential 2024 presidential candidates are descending upon Texas next week to thank donors to the 2020 campaign here and to help raise money to flip the U.",
@@ -1287,63 +1339,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-cnns-gloria-borger-falsely-claims-operation-warp-speed-happened-under-joe-biden.md",
-      "title": "CNN's Gloria Borger falsely claims Operation Warp Speed 'happened under Joe Biden'",
-      "excerpt": "CNN political analyst Gloria Borger falsely said Operation Warp Speed occurred under President Biden on Wednesday, and no one on CNN's panel corrected her in real time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnns-gloria-borger-operation-warp-speed-joe-biden",
-      "originalUrl": "https://www.foxnews.com/media/cnns-gloria-borger-operation-warp-speed-joe-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02d8a247-9dbf-48a1-90ff-5e2576f98549/c71a7b29-2c1e-46d9-811b-d231e175c379/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnns-gloria-borger-operation-warp-speed-joe-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnns-gloria-borger-operation-warp-speed-joe-biden.amp",
-      "publishedDateTime": "2021-04-30T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

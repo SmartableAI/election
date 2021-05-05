@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Explainer-Ahead of Trump Facebook Ruling, Here’s How Social Media Sites Handle World Leaders"
-excerpt: "Facebook's independent oversight board on Wednesday will announce whether it is overturning the company's suspension of former U.S. President Donald Trump's account. The long-awaited ruling will bring the focus back onto how the world's largest social network decides what world leaders and politicians can and can't say on their platforms."
-publishedDateTime: 2021-05-04T11:20:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-05-04/explainer-ahead-of-trump-facebook-ruling-heres-how-social-media-sites-handle-world-leaders"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-04/explainer-ahead-of-trump-facebook-ruling-heres-how-social-media-sites-handle-world-leaders"
+title: "EXPLAINER: Will Donald Trump return to Facebook?"
+excerpt: "Former President Donald Trump will find out whether he gets to return to Facebook on Wednesday, when the social network’s quasi-independent Oversight Board plans to announce its ruling in the high-profile case."
+publishedDateTime: 2021-05-04T18:44:00Z
+originalUrl: "https://www.washingtonpost.com/politics/explainer-will-donald-trump-return-to-facebook/2021/05/04/28c506a6-ad11-11eb-82c1-896aca955bb9_story.html"
+webUrl: "https://www.washingtonpost.com/politics/explainer-will-donald-trump-return-to-facebook/2021/05/04/28c506a6-ad11-11eb-82c1-896aca955bb9_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/explainer-will-donald-trump-return-to-facebook/2021/05/04/28c506a6-ad11-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/explainer-will-donald-trump-return-to-facebook/2021/05/04/28c506a6-ad11-11eb-82c1-896aca955bb9_story.html?outputType=amp"
 type: article
-quality: 24
-heat: -1
-published: false
+quality: 125
+heat: 205
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,23 +24,13 @@ topics:
   - Election
   - Donald Trump
 
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6YQMIKVNBII6XAWBRFVMVFK3XE.jpg&w=1440"
+    width: 1440
+    height: 960
+    isCached: true
+
 related:
-  - title: "EXPLAINER: Will Donald Trump return to Facebook?"
-    excerpt: "Former President Donald Trump will find out whether he gets to return to Facebook on Wednesday, when the social network’s quasi-independent Oversight Board plans to announce its ruling in the high-profile case."
-    publishedDateTime: 2021-05-04T18:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/explainer-will-donald-trump-return-to-facebook/2021/05/04/28c506a6-ad11-11eb-82c1-896aca955bb9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/explainer-will-donald-trump-return-to-facebook/2021/05/04/28c506a6-ad11-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/explainer-will-donald-trump-return-to-facebook/2021/05/04/28c506a6-ad11-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6YQMIKVNBII6XAWBRFVMVFK3XE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Facebook and Trump are at a turning point in their long, tortured relationship"
     excerpt: "Facebook’s decision to outsource the future of Trump’s account to an independent Oversight Board stems from a tortured relationship with the former president. It could also set a precedent on how social media companies handle politicians and on how they will balance free speech and harm."
     publishedDateTime: 2021-05-04T10:15:00Z
@@ -83,7 +75,16 @@ related:
         width: 1024
         height: 731
         isCached: true
+  - title: "Explainer-Ahead of Trump Facebook Ruling, Here’s How Social Media Sites Handle World Leaders"
+    excerpt: "Facebook's independent oversight board on Wednesday will announce whether it is overturning the company's suspension of former U.S. President Donald Trump's account. The long-awaited ruling will bring the focus back onto how the world's largest social network decides what world leaders and politicians can and can't say on their platforms."
+    publishedDateTime: 2021-05-04T11:20:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-04/explainer-ahead-of-trump-facebook-ruling-heres-how-social-media-sites-handle-world-leaders"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 24
 
-secured: "PoPAgZQDECHIM0RX8hqx/0Lx5TyL81AbFjkrPv/niM9YdSR0W+qO6tfD88Gsr2bDP8tbNnabLUJ0T/iduKgywD9P2oVKe1FfbAxMSV+yp2AgUmw3igMMLZvM7n5/huRL/gbG5YTa/CA6YOMJGivxw81E7w0JSfvJRO9cIxXD/hc1KQx9JkP+3T7oscWNm9Fj2kqkg8qvCgiHUuTs5eU8hD2KrPgMSi62PGvr1jaOEPC7pltMt+v1WFDCdMWQjMGjtQCnbXpXuChw3SZxbLXOtfjS9Ryq978klWiyeMESaFHzmXNKbCOFtiwnt0nvu4sMCRqMzEv23oJ58tsvplmzl7dz8kEvX4/bR43O7oVv4s3QV1LdDgLo3p70Aj3WV+y0MnkeT4t2K+CJ2RwBPYHaTgmuB3v3GNuuEmWrP9AMXwd7Wg2AxUg72D0tfthwrKdnuspap26lklSCTWHxRsjBVgiYUeVwbG0/Az1qUMltdPk6UiZ57nMws1YwstMQwGAa4rVqJ8/QUdZYlfV1440HaA==;Z/KGdr8/0mjWb7AuKdErpQ=="
+secured: "ZCtxVQVfTfs67TD2LXKf6NXPXLyVWONj6Le1RXbObk2TkOQR5+B3qdJYVbgdEASdoKUynVPoA6q/s8p8ypC8PXk6FOWtBQte5F2uarfjaQ6V53EjZ01urQV11QEYyCQiRCNQ0fEiExmPM2B6c7RTXGGEPCbwhWCGJR9BvJW3TvcIpa47XUAavGhAQCKHGBEJ2geLZm36Luk3KMCv7H4L3ybVgpmQvOkvvrkBrAa7zBKdKYFHa2DJNRGTsIhI4yh+dNhiDShiXTdYg8/6zvMN5OsFdlD73wl/kAzwtBr9NsuidmPPJlpHlw1wY19Nh6LMgt+kE4XbYENnI+koTd0641EeNkyooxOxrRROGKKAAhk=;mkOcU8CjMhjzD407qZYmBw=="
 ---
 
