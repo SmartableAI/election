@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Point: A GOP candidate ran on an anti-Trump platform. He won just 3% of the vote."
-    excerpt: "Michael Wood's candidacy in this weekend's special election for Texas' 6th district was regarded as a potential canary in a coal mine.\n    \n"
-    publishedDateTime: 2021-05-03T13:55:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKZnbCwuAWU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/michael-wood-texas-6th-district-susan-wright/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/michael-wood-texas-6th-district-susan-wright/index.html"
+  - title: "Secret William Barr memo saying not to charge Trump must be released, judge says"
+    excerpt: "A federal judge this week rejected the Justice Department's attempts to keep secret a departmental opinion to not charge former President Donald Trump with obstruction at the end of the Mueller investigation, calling the administration's lawyers \"disingenuous.\"\n    \n"
+    publishedDateTime: 2021-05-04T23:05:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IvPvRos6aUw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/04/politics/william-barr-memo-trump-memo/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/william-barr-memo-trump-memo/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223084616-texas-energy-market-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190411180959-0411-01-barr-trump-mueller-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

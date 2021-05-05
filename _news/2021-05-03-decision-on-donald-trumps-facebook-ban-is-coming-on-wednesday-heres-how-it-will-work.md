@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-facebook-ban-decision-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-facebook-ban-decision-11620056600"
 type: article
 quality: 126
-heat: -1
-published: false
+heat: 126
+published: true
 
 provider:
   name: Wall Street Journal
@@ -30,24 +30,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Facebook oversight board to reveal decision on Trump ban on Wednesday"
-    excerpt: "Facebook’s “Oversight Board” said Monday that its decision on whether to keep former US President Donald Trump blocked from its social media platforms will come Wednesday."
-    publishedDateTime: 2021-05-03T14:45:00Z
-    webUrl: "https://nypost.com/2021/05/03/facebook-oversight-board-to-reveal-decision-on-trump-ban/"
-    ampWebUrl: "https://nypost.com/2021/05/03/facebook-oversight-board-to-reveal-decision-on-trump-ban/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/03/facebook-oversight-board-to-reveal-decision-on-trump-ban/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/facebook-trump-ban-03.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "+tvu34rby3zjTvMjIBLinRDX9X7qMG60du9E68DKjy0rYx5gEWYaulHi/7ndMNVOGGYagr1TG6z6PBQmgiYODOxoAej+b/6ayzeBFLniBthlNAhUnq4y8GCeOCNJSTiY+XwMsokheHGjLdxMlTYT6hQWfT8DzwNTAcQC4skOj4awR8Rn+Djx8LNLnJYsL4eLzuFmvQ//BB56WuJGYwQaXjbxl+sWcmivW4E3v5+AAb4VIwA33uKyVycXmmmxyvU2MCQKKMsq81ufp5G9k2PLZSQaT0zQ/WGpt7wE1AU1hVs5LbgO0Q0aXIYEb9P7jcXCtrUeTO4xObVbY0tRSIQVXmsKNGBqgZ1Y22UB/NFDDLE=;+s4qsZqJ+YuuN+UbxnU01g=="
 ---

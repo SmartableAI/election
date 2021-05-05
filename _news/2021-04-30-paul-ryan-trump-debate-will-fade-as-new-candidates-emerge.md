@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/paul-ryan-trump-debate
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1786229/american-cpac.jpg"
         width: 3000
         height: 2082
+        isCached: true
+  - title: "Former President Donald Trump launches new website to communicate with supporters on the eve of Oversight Board ruling"
+    excerpt: "Former president Donald Trump has launched a new messaging platform as a way to communicate with followers the day before an independent oversight board is set to review Facebook’s decision to ban the Republican from the platform."
+    publishedDateTime: 2021-05-04T22:16:00Z
+    webUrl: "https://www.masslive.com/politics/2021/05/former-president-donald-trump-launches-new-website-to-communicate-with-supporters-on-the-eve-of-oversight-board-ruling.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/05/former-president-donald-trump-launches-new-website-to-communicate-with-supporters-on-the-eve-of-oversight-board-ruling.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/former-president-donald-trump-launches-new-website-to-communicate-with-supporters-on-the-eve-of-oversight-board-ruling.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 51
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HR3FW4ACXZFGHKLRJBLKDLTPK4.jpg"
+        width: 3789
+        height: 2526
         isCached: true
   - title: "Will Donald Trump Run In 2024? Former President Gives New Comments About Political Fate"
     excerpt: "Donald Trump will be featured on a conservative website Tuesday night where he'll give insight on his 2024 running decision."

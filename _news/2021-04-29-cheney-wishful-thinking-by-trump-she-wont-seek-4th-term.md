@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/cheney-wishful-thinkin
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/cheney-wishful-thinking-trump-seek-4th-term-77379316"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-03-2021/t_7ed03d269ec142f3b14b66cb21289875_name_cheney_scaled.jpg&w=1080"
         width: 1080
         height: 608
+        isCached: true
+  - title: "Liz Cheney Under Attack From GOP For Standing Up To Donald Trump"
+    excerpt: "Wyo., may find herself ousted from her position as the third-highest Republican as her strong stance against Donald Trump nets her few allies and increasing hostility from her caucus. Removing her from her post would require a conference vote,"
+    publishedDateTime: 2021-05-04T21:37:00Z
+    webUrl: "https://www.ibtimes.com/liz-cheney-under-attack-gop-standing-donald-trump-3193020"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/liz-cheney.jpg"
+        width: 1200
+        height: 843
         isCached: true
 
 secured: "aoNkIRAkPWOzWbhxXv0N47hQRA6jXVYI2ybsZvcq78Si2SnpgW1/0FounOSNP8YQgmz/bWoSih0vUOKm6YoqGvhts7EkYuU8eZGR20byFU+nRDZihN6VdE6vhRH3pO24DOd4blHikJXrumfzEOgj6UjHT+B1L3/bt5228Uz4RNGG5Au86WsIopwIh+3hfjpeBD7MnBLkg52qiCTRzHtaAjdSRtRof9exRtgqEeFq6JrGloDeVjOV81IkP7evnA8d9yZVKztOjAsR4y2X86iujt8LVLr6LiN0ytR/sXx2VTxjz05WFP4aEDjro0WA3b3qcuTi/FQjaCkJS7KRZEDxLK7iMHNlREmltkGOb1Ya7YP+orvJ5dnqsYdNTbItbeSHeXf6h4pdsHx+tMkxDJYcxmjjvP0mXF5z7DEA+mjhnPGyqvY8Xd1G2w9epp7z5Sft+3l1C68ULrXKoQTARSoJQ1mRyXsbSLl2P2AO+bWTm4baEbqcicUQ6n67TGv6yS7y9SevWIgB9vaT2iJw/wkZVA==;X8xn2xJdFAYzgxjLGTthJQ=="

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-04-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.md",
+      "title": "DOJ ordered to turn over Trump obstruction of justice memo",
+      "excerpt": "A judge has ordered the Department of Justice (DOJ) to turn over an internal memo from March 2019 that then-Attorney General Bill Barr cited as his reason not to charge former President Trump with obstruction of justice following the Mueller investigation. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nyOZae-aROc/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nyOZae-aROc/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/720/405/ag-barr.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp",
+      "publishedDateTime": "2021-05-04T16:33:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-biden-thanks-conservatives-like-mcconnell-for-pushing-vaccines.md",
       "title": "Biden thanks 'conservatives' like McConnell for pushing vaccines",
       "excerpt": "President Biden thanked Republicans pushing vaccination in a Covid-19 briefing Tuesday, specifically citing Sen. Minority Leader Mitch McConnell, R-Ky.",
@@ -105,25 +161,25 @@
       ]
     },
     {
-      "path": "_news/2021-05-04-ohio-gop-to-vote-on-censuring-republicans-who-voted-to-impeach-trump.md",
-      "title": "Ohio GOP to vote on censuring Republicans who voted to impeach Trump",
-      "excerpt": "The resolution was obtained exclusively by Fox News and takes aim at the 10 House Republicans who voted to impeach Trump this year, including the number three Republican in the House, Rep. Liz Cheney of Wyoming.",
+      "path": "_news/2021-05-04-rep-liz-cheneys-role-as-gop-conference-chair-facing-renewed-jeopardy-amid-trump-feud.md",
+      "title": "Rep. Liz Cheney's role as GOP conference chair facing renewed jeopardy amid Trump feud",
+      "excerpt": "Wyoming Rep. Liz Cheney’s ongoing feud with former President Donald Trump has sparked discussions among senior House GOP leadership about her future as the party’s conference chair, according to sources familiar with the situation.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4BmLzpcrZNI/ohio-gop-censure-house-republicans-trump-impeachment",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4BmLzpcrZNI/ohio-gop-censure-house-republicans-trump-impeachment",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tz92hv88-ak/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tz92hv88-ak/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 227,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/05/18/720/405/694940094001_5438848447001_5438775026001-vs.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -131,9 +187,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ohio-gop-censure-house-republicans-trump-impeachment.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-gop-censure-house-republicans-trump-impeachment.amp",
-      "publishedDateTime": "2021-05-04T08:13:39-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud.amp",
+      "publishedDateTime": "2021-05-03T18:19:06-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -323,25 +379,25 @@
       ]
     },
     {
-      "path": "_news/2021-05-03-facebook-oversight-board-to-reveal-decision-on-trump-ban-on-wednesday.md",
-      "title": "Facebook oversight board to reveal decision on Trump ban on Wednesday",
-      "excerpt": "Facebook’s “Oversight Board” said Monday that its decision on whether to keep former US President Donald Trump blocked from its social media platforms will come Wednesday.",
+      "path": "_news/2021-05-03-decision-on-donald-trumps-facebook-ban-is-coming-on-wednesday-heres-how-it-will-work.md",
+      "title": "Decision on Donald Trump’s Facebook Ban Is Coming on Wednesday. Here’s How It Will Work.",
+      "excerpt": "Facebook’s independent oversight board said it would issue a ruling Wednesday morning that could determine whether the former president can return to the company’s Facebook and Instagram platforms.",
       "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/03/facebook-oversight-board-to-reveal-decision-on-trump-ban/",
-      "originalUrl": "https://nypost.com/2021/05/03/facebook-oversight-board-to-reveal-decision-on-trump-ban/",
+      "webUrl": "https://www.wsj.com/articles/donald-trump-facebook-ban-decision-11620056600",
+      "originalUrl": "https://www.wsj.com/articles/donald-trump-facebook-ban-decision-11620056600",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 155,
+      "heat": 126,
       "tags": null,
       "images": [
         {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/facebook-trump-ban-03.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://images.wsj.net/im-333171/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -349,14 +405,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/03/facebook-oversight-board-to-reveal-decision-on-trump-ban/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/03/facebook-oversight-board-to-reveal-decision-on-trump-ban/amp/",
-      "publishedDateTime": "2021-05-03T07:45:00-07:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/donald-trump-facebook-ban-decision-11620056600",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-facebook-ban-decision-11620056600",
+      "publishedDateTime": "2021-05-03T07:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -701,62 +766,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-30-pentagon-cancels-trump-era-border-wall-construction-paid-for-by-military-funds.md",
-      "title": "Pentagon cancels Trump-era border wall construction paid for by military funds",
-      "excerpt": "The Pentagon on Friday announced it is canceling all border wall construction projects that were paid for by military funding -- part of a broader effort by the Biden administration to cancel the Trump-era barrier.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IdNoFDrjFks/pentagon-trump-era-border-wall-construction-military-funds",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IdNoFDrjFks/pentagon-trump-era-border-wall-construction-military-funds",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/814821ac-3d31-4657-929a-379c885a0262/45252813-4b99-417b-9df8-42566b71912b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pentagon-trump-era-border-wall-construction-military-funds.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pentagon-trump-era-border-wall-construction-military-funds.amp",
-      "publishedDateTime": "2021-04-30T13:31:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-30-hillary-clinton-signals-break-from-biden-over-us-troop-withdrawal-from-afghanistan-report.md",
       "title": "Hillary Clinton signals break from Biden over US troop withdrawal from Afghanistan: report",
       "excerpt": "Former Secretary of State Hillary Clinton has reportedly expressed concerns over President Biden’s plan to withdraw U.S. troops from Afghanistan by Sept. 11. ",
@@ -882,7 +891,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1433,62 +1442,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-29-cuomo-defends-blocking-release-of-true-ny-nursing-home-death-toll-blames-trump-doj.md",
-      "title": "Cuomo defends blocking release of true NY nursing home death toll, blames Trump DOJ",
-      "excerpt": "New York Gov. Andrew Cuomo pushed back after a New York Times report said his administration conducted a months-long effort to downplay the number of nursing home patients in the state who died from coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PwAQzbtDbSg/cuomo-defends-blocking-release-ny-nursing-home-death-toll-blames-trump-doj",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PwAQzbtDbSg/cuomo-defends-blocking-release-ny-nursing-home-death-toll-blames-trump-doj",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-defends-blocking-release-ny-nursing-home-death-toll-blames-trump-doj.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-defends-blocking-release-ny-nursing-home-death-toll-blames-trump-doj.amp",
-      "publishedDateTime": "2021-04-29T11:30:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-29-biden-on-giuliani-raid-i-had-no-idea-this-was-underway.md",
       "title": "Biden on Giuliani raid: 'I had no idea this was underway'",
       "excerpt": "President Biden said he did not know about the FBI plans to raid the home of former President Trump's personal attorney and former New York City Mayor Rudy Giuliani before it happened, and that he learned of the operation \"when the rest of the world learned about it.\" ",
@@ -1613,7 +1566,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 213,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -1653,6 +1606,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-woke-cancel-culture-movement-backfired-on-joe-biden-stacey-abrams-gov-kemp.md",
+      "title": "'Woke cancel culture movement' backfired on Joe Biden, Stacey Abrams: Gov. Kemp",
+      "excerpt": "Georgia Gov. Brian Kemp told “Fox & Friends” Thursday, President Biden and Georgia voting rights activist Stacey Abrams has driven the “far-reaching, woke cancel culture movement” too far and now it has backfired on the Democratic Party for “lying” about the state’s election law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/kemp-georgia-election-law-biden-abrams",
+      "originalUrl": "https://www.foxnews.com/media/kemp-georgia-election-law-biden-abrams",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/kemp-georgia-election-law-biden-abrams.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kemp-georgia-election-law-biden-abrams.amp",
+      "publishedDateTime": "2021-04-29T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     }

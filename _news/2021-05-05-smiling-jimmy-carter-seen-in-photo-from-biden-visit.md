@@ -783,6 +783,38 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Donald Trump returns to social media with glorified blog"
+    excerpt: "Ex-president unveils retro webpage featuring series of statements resembling blogposts ahead of Facebook oversight board’s decision on his suspension"
+    publishedDateTime: 2021-05-04T21:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/04/donald-trump-social-media-platform-blog"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/04/donald-trump-social-media-platform-blog"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/04/donald-trump-social-media-platform-blog"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7e7e930e36b7d1481f010ea9cbad6da3b9766d04/717_580_2717_1631/master/2717.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=971dc1bdd24bdb873d8f2bc0c5005b97"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Judge orders Justice Dept. to release Trump obstruction memo"
+    excerpt: "A federal judge has ordered the release of a legal memorandum the Trump-era Justice Department prepared for then-Attorney General William Barr before he announced his conclusion that President Donald"
+    publishedDateTime: 2021-05-04T21:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/judge-orders-justice-dept-to-release-trump-obstruction-memo/2021/05/04/bb13b820-ad18-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/judge-orders-justice-dept-to-release-trump-obstruction-memo/2021/05/04/bb13b820-ad18-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/judge-orders-justice-dept-to-release-trump-obstruction-memo/2021/05/04/bb13b820-ad18-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7LC6KUFNDEI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Pastor Robin Bullock Says It's a Sin to Recognize Joe Biden as President"
     excerpt: "\"You can pray for the office of the president. But you cannot pray for President Joe Biden,\" Bullock said. \"Because you might as well pray for the Easter Bunny, because he don't exist.\""
     publishedDateTime: 2021-05-03T23:31:00Z
@@ -1085,6 +1117,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Facebook board's Trump decision could have wider impacts"
+    excerpt: "Since the day after the deadly Jan. 6 riots at the U.S. Capitol, former President Donald Trump’s social media accounts have been silent — muzzled for inciting violence using the platforms as online me"
+    publishedDateTime: 2021-05-04T22:11:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/facebook-boards-trump-decision-wider-impacts-77493717"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_79aa5472f76e48e5838a47dcbe5e58f9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live"
     excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
     publishedDateTime: 2021-04-16T22:17:00Z
@@ -1207,22 +1253,6 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2021/04/Biden_100_Days_Promises_73838.jpg?w=1024&h=682"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Judge orders Justice Dept. to release Trump obstruction memo"
-    excerpt: "A federal judge has ordered the release of a legal memorandum the Trump-era Justice Department prepared for then-Attorney General William Barr before he announced his conclusion that President Donald Trump had not obstructed justice during the Russia investigation."
-    publishedDateTime: 2021-05-04T19:40:00Z
-    webUrl: "https://www.chron.com/news/article/Judge-orders-Justice-Dept-to-release-Trump-16151235.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Judge-orders-Justice-Dept-to-release-Trump-16151235.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Judge-orders-Justice-Dept-to-release-Trump-16151235.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "President Joe Biden has quadrupled nation’s cap on refugee admissions"
     excerpt: "President Joe Biden formally raised the nation’s cap on refugee admissions to 62,500 this year, weeks after facing bipartisan blowback for his delay in replacing the record-low ceiling set by former President Donald Trump."
@@ -1348,6 +1378,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "WQWi1mHVwH4IeHmId9ZC14nV36Sgt3sMknzJYSzxX/pVais5FaDh0MOCCy7EvpD4LIClVPh03YN6RTf4I71vkJ6ZAMxYN22WtKjig/nHvOQPVTOmV9gF8bFupcW/+zq70ntGiX6SZbRuKz5YUwhW5IBZ5ITF2XjRZ/K3MgVZG6hkBzcnGnvGNzXbxxBlxCfsvtnLth0h6xUGIL+mi9UHcCEoyAiInX3LWfifbPlMZnVTuAg+/V1I8+ztMIUHLiqsms1XulCgf4+ZAANLCkcG9LeDhA/nEY1D8X7KVtF+x6/6cAOtSMYmeEzkrzil8EaGwVERO2JCBRu2A1ei0SvEFgSKgwaIqf/S2jv2NJjobBk=;zgCMdVTdraeJ3FYh5fkC0A=="
+secured: "mOX7SjybmJmXiRqPT1wYa0nctYTKfzio/LpeI4cHW5GA95dglM6i6p1nr9H8xy1HIAe+dx6bnBpnjcH6xaw+A0Di0woAWjfAIt200PFbspKM65XebvD4X96priIKB+6mmXzh2HIJY2LqYMUEyyFa4ZTt8oPZo7IPCfPqUW2i0TRTznj41ppZKsOZSE4k6hLalwCPDib7V5ultDnGF3/Mdz4Bn1ZfQFbQPsCwEfvbEFIP66tDoSvSaqb/u58PomF0EjxOtdS+zf5Hj81/kxcp0dqWVxi/SLopW+U2WGWv15aexvMKhwEiIsR6xgs9LNh0X2QsjfH6f1ZFXKOGAJgJS5UCluK77n0ajdbyeNe3XpfUfCKoUhSN+MmCFPatqKYNh7SLiIui077+nP9jeDbP1qhJpOgM1+GkZYPkQP7QwYvbyGxqwB1mHquF+nmAfsVtwHnKxqfyoWNT3jbmSi+3gg97QmY1ZO/vN1SSCQeM3qAE1gthguIIIJMmiilvACmYsvWUHWZ6Xff4N7zkfhLCuA==;EmMJOuNJir4O1zWnux20PQ=="
 ---
 

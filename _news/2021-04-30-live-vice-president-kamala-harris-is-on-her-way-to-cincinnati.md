@@ -187,16 +187,32 @@ related:
         width: 1279
         height: 720
         isCached: true
-  - title: "Harris touts research during first Wisconsin trip"
-    excerpt: "Wisconsin Republicans said Harris' time would have been better spent at the U.S. border dealing with the increase of migrants trying to cross from Mexico. Harris also participated in a roundtable discussion about the investments in research and development proposed in Biden's infrastructure jobs plan,"
-    publishedDateTime: 2021-05-04T21:59:00Z
-    webUrl: "https://www.ctpost.com/news/article/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
-    ampWebUrl: "https://www.ctpost.com/news/amp/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
-    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
+  - title: "Edward Snowden knocks Kamala Harris over press freedom assertions"
+    excerpt: "Edward J. Snowden, the fugitive leaker wanted for spilling U.S. secrets, seemed unconvinced Tuesday by the White House touting press freedoms given its pursuit of WikiLeaks publisher Julian Assange."
+    publishedDateTime: 2021-05-04T21:58:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/may/4/edward-snowden-rips-kamala-harris-over-press-freed/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/4/edward-snowden-rips-kamala-harris-over-press-freed/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/4/edward-snowden-rips-kamala-harris-over-press-freed/"
     type: article
     provider:
-      name: Connecticut Post
-      domain: ctpost.com
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/02/19/Britain_Julian_Assange_90409.jpg-a696f_c0-234-5210-3273_s1200x700.jpg?0e12f8273a7941ae1f74801aa0f9344c70566cd8"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Harris touts research during first Wisconsin trip"
+    excerpt: "Wisconsin Republicans said Harris' time would have been better spent at the U.S. border dealing with the increase of migrants trying to cross from Mexico. Harris also participated in a roundtable discussion about the investments in research and development proposed in Biden's infrastructure jobs plan,"
+    publishedDateTime: 2021-05-04T23:59:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
@@ -476,16 +492,16 @@ related:
   - title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
     excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."
     publishedDateTime: 2021-05-04T15:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/09628999484734dfb11d5be67f224a17/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Biden-Harris.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/09628999484734dfb11d5be67f224a17/Biden-Harris.jpg"
         width: 650
-        height: 429
+        height: 431
         isCached: true
   - title: "Kamala Harris, Blackpink, Simu Liu Among Gold House's 100 Most Impactful Asians"
     excerpt: "A number of politicians, entertainers and athletes were honored in Gold House's new list of the 100 Most Impactful Asians of the Year."

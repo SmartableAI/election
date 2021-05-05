@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-bringing-cat-white-house-dog
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-bringing-cat-white-house-dog-biting.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7863d233-045b-4ccb-843a-160e8bcd6f10/4873de4d-8a14-4fb6-91ab-8db8ca8fb2cf/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Psaki: Biden Wants To Eliminate Any Doubt From Refugees That The United States Is Not A Welcoming Country"
+    excerpt: "White House press secretary Jen Psaki defended President Joe Biden's decision to raise the limit on the number of refugees the United States will admit in the country. At the White House press briefing on Tuesday,"
+    publishedDateTime: 2021-05-04T23:32:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/04/psaki_biden_wants_to_eliminate_any_doubt_from_refugees_that_the_united_states_is_not_a_welcoming_country.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 48
+    images:
+      - url: "https://assets.realclear.com/images/54/542360.jpg"
+        width: 932
+        height: 698
         isCached: true
 
 secured: "sWdylMq7bZQUnFubsU6J79Dg9yCOkqOL3c89zfTR6g/7HVAF/8pRrrotFJ2TecPJdWhA1hO8Doxv7U8IzGmzyfX3CinZv6yM6LhFG5jQsGHi6wjkB8t5iHeQJgH8tUrGO/ViInn1VPt/zZf8jUT62iem5fIhKwr6M1WaUeaHBQQhe1pdbKZsea7DAkM6zL07w8ByReu968B0d+GDJoAMaUGuitlY9/BrfchoTpHN4+92Pna246m1H0wRwt5gv+AmrYIv5JSMLi6tEGIUYHejGo6vMDo94MV/ksXuirshBtXAimJ0CHb1/Ve77lLxKncsBfQDR78+txcZLu1uqlFf66+fVgxRqKhtTpgbWSHx7zQ=;AAobAR9XyFu5B/2uTdMi3w=="

@@ -79,6 +79,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Psaki: Biden Wants To Eliminate Any Doubt From Refugees That The United States Is Not A Welcoming Country"
+    excerpt: "White House press secretary Jen Psaki defended President Joe Biden's decision to raise the limit on the number of refugees the United States will admit in the country. At the White House press briefing on Tuesday,"
+    publishedDateTime: 2021-05-04T23:32:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/04/psaki_biden_wants_to_eliminate_any_doubt_from_refugees_that_the_united_states_is_not_a_welcoming_country.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 48
+    images:
+      - url: "https://assets.realclear.com/images/54/542360.jpg"
+        width: 932
+        height: 698
+        isCached: true
 
 secured: "iYqwYDr/fGvMoWHuxgw91bLE9S9Z0zSun/0Ee+vZQa5rGE6TB9m69VEbxPCtyDRX5JSur1rkneJukbW8vtbX39lB1chzC5JtwLHZFdepTqZetw8Oq4ZX9PrdhMiGCNc2ZStaYgN0A6dmep0dlhvWTtBQANs3UKnyfMYhjO4tN3N611C+FSDHPCp4l7odYOTFRW0S6BY0YTqQH2/8FbNtf+3e3vb46ylwghrbqQcpBcKNQovj1w4ISfNVuxaTTdwUWg6ClfMSe8sMPDKfRoYni4IO+a5kX3aTsKN6RHELMq2uBKnUFVEQz0SvfBxJtby4Q8FGM1h6IJeH1X/n78VG/W4i2Jl3QxHb/qc+ddoPGic=;oQF5hRIX6KJi26OuH4+6TQ=="
 ---

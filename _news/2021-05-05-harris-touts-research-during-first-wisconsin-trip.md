@@ -2,19 +2,19 @@
 category: news
 title: "Harris touts research during first Wisconsin trip"
 excerpt: "Wisconsin Republicans said Harris' time would have been better spent at the U.S. border dealing with the increase of migrants trying to cross from Mexico. Harris also participated in a roundtable discussion about the investments in research and development proposed in Biden's infrastructure jobs plan,"
-publishedDateTime: 2021-05-04T21:59:00Z
-originalUrl: "https://www.ctpost.com/news/article/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
-webUrl: "https://www.ctpost.com/news/article/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
-ampWebUrl: "https://www.ctpost.com/news/amp/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
-cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
+publishedDateTime: 2021-05-04T23:59:00Z
+originalUrl: "https://www.mysanantonio.com/news/article/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
+webUrl: "https://www.mysanantonio.com/news/article/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
+ampWebUrl: "https://www.mysanantonio.com/news/amp/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
+cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Connecticut Post
-  domain: ctpost.com
+  name: My San Antonio
+  domain: mysanantonio.com
 
 topics:
   - Election
@@ -202,6 +202,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/ecea355a-ae51-471b-b0e3-1fbd7eb8f6e5/d32bcb35-22f4-43ca-afa9-db75700f38b0/1280x720/match/image.jpg"
         width: 1279
         height: 720
+        isCached: true
+  - title: "Edward Snowden knocks Kamala Harris over press freedom assertions"
+    excerpt: "Edward J. Snowden, the fugitive leaker wanted for spilling U.S. secrets, seemed unconvinced Tuesday by the White House touting press freedoms given its pursuit of WikiLeaks publisher Julian Assange."
+    publishedDateTime: 2021-05-04T21:58:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/may/4/edward-snowden-rips-kamala-harris-over-press-freed/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/4/edward-snowden-rips-kamala-harris-over-press-freed/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/4/edward-snowden-rips-kamala-harris-over-press-freed/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/02/19/Britain_Julian_Assange_90409.jpg-a696f_c0-234-5210-3273_s1200x700.jpg?0e12f8273a7941ae1f74801aa0f9344c70566cd8"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Harris trip to Wisconsin draws Republican criticism"
     excerpt: "Vice President Kamala Harris planned to tour clean energy laboratories on the University of Wisconsin-Milwaukee campus Tuesday during her first Wisconsin visit since taking office."
@@ -476,16 +492,16 @@ related:
   - title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
     excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."
     publishedDateTime: 2021-05-04T15:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/09628999484734dfb11d5be67f224a17/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Biden-Harris.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/09628999484734dfb11d5be67f224a17/Biden-Harris.jpg"
         width: 650
-        height: 429
+        height: 431
         isCached: true
   - title: "Kamala Harris, Blackpink, Simu Liu Among Gold House's 100 Most Impactful Asians"
     excerpt: "A number of politicians, entertainers and athletes were honored in Gold House's new list of the 100 Most Impactful Asians of the Year."
@@ -524,6 +540,6 @@ related:
       domain: sacbee.com
     quality: 48
 
-secured: "RhO3LjmMvhjfEkAuEWl5A1BRvzKvgimLGxhrFEK+fINCjCm09AyxiMlLDW/+XCPEBCJgLZGMm3QR3Y9YnflJ5qhaN1N3d3LtCUfrHrYgUNNRm3YyM0kVJTL6LtvGij1aboo1sCLAITzjAA4KOHo8/vXlJXoneaxTX9jjH8WKTq6IRk0a6wFtoaXZQyXES3vNNxNBajrD4YtQUBoHbcal0IqE+yBGNyZD4vxIw6+b7qQ9uN7/JJTjsrKB6gRtPF1y34Ro2e/fFZGUtWIwMXV6C9XJWBLtbaGPjDpkJEDUYv/Ua0g6qQxCJJZueON++H2O1XdysrmOo0STV8XhZ7nLvDutOLushW3yL0xqm0KhP0A=;poaN4HBqD8LvGv+jurPYYQ=="
+secured: "KX0dEVEbbDQOsJiq2WPHSFb/Y5cyp6z/hb3DJxgOXW5fkiG585mX85Z3UfDWPmHTLlJzy3FHyNPLD3rvOQlhqUCWYwdKYLH9lkp8ZlOhQCNH2H02sOVlAn7o38JON4wFZGeNrGrEnELkQ2dMlDTxcizkvAJvr7MnzwkAW8BTkumRNVHWJrY/+nZvcMwXgr4m3DC4mZUg69EgSWc/1HbsOMzQn2k718Yrk/IjwrHM2nQO0EG6uyT2o3X3pAGhQUSm9MgPDnv8FuwtTbpN9aK4sj/oG8GWEnsUw3v9Oai00vm4nlK8AUM87ZNS8TAhFWKLRUXRpmqYP7e0G5k3upH2agqxG3/bgj/62P+Rqzo7Z38=;4lZeQWIJMyAyf43GUGWBxw=="
 ---
 

@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Judge orders Justice Dept. to release Trump obstruction memo"
-excerpt: "A federal judge has ordered the release of a legal memorandum the Trump-era Justice Department prepared for then-Attorney General William Barr before he announced his conclusion that President Donald Trump had not obstructed justice during the Russia investigation."
-publishedDateTime: 2021-05-04T19:40:00Z
-originalUrl: "https://www.chron.com/news/article/Judge-orders-Justice-Dept-to-release-Trump-16151235.php"
-webUrl: "https://www.chron.com/news/article/Judge-orders-Justice-Dept-to-release-Trump-16151235.php"
-ampWebUrl: "https://www.chron.com/news/amp/Judge-orders-Justice-Dept-to-release-Trump-16151235.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Judge-orders-Justice-Dept-to-release-Trump-16151235.php"
+excerpt: "A federal judge has ordered the release of a legal memorandum the Trump-era Justice Department prepared for then-Attorney General William Barr before he announced his conclusion that President Donald"
+publishedDateTime: 2021-05-04T21:17:00Z
+originalUrl: "https://www.washingtonpost.com/politics/judge-orders-justice-dept-to-release-trump-obstruction-memo/2021/05/04/bb13b820-ad18-11eb-82c1-896aca955bb9_story.html"
+webUrl: "https://www.washingtonpost.com/politics/judge-orders-justice-dept-to-release-trump-obstruction-memo/2021/05/04/bb13b820-ad18-11eb-82c1-896aca955bb9_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/judge-orders-justice-dept-to-release-trump-obstruction-memo/2021/05/04/bb13b820-ad18-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/judge-orders-justice-dept-to-release-trump-obstruction-memo/2021/05/04/bb13b820-ad18-11eb-82c1-896aca955bb9_story.html?outputType=amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7LC6KUFNDEI6XAWBRFVMVFK3XE.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -779,6 +783,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Donald Trump returns to social media with glorified blog"
+    excerpt: "Ex-president unveils retro webpage featuring series of statements resembling blogposts ahead of Facebook oversight board’s decision on his suspension"
+    publishedDateTime: 2021-05-04T21:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/04/donald-trump-social-media-platform-blog"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/04/donald-trump-social-media-platform-blog"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/04/donald-trump-social-media-platform-blog"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7e7e930e36b7d1481f010ea9cbad6da3b9766d04/717_580_2717_1631/master/2717.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=971dc1bdd24bdb873d8f2bc0c5005b97"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Smiling Jimmy Carter seen in photo from Biden visit"
     excerpt: "The White House released a photo of a smiling Jimmy Carter sitting in a chair and holding the hand of first lady Jill Biden while the president kneels beside a seated Rosalynn Car"
     publishedDateTime: 2021-05-04T19:11:00Z
@@ -1097,6 +1117,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Facebook board's Trump decision could have wider impacts"
+    excerpt: "Since the day after the deadly Jan. 6 riots at the U.S. Capitol, former President Donald Trump’s social media accounts have been silent — muzzled for inciting violence using the platforms as online me"
+    publishedDateTime: 2021-05-04T22:11:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/facebook-boards-trump-decision-wider-impacts-77493717"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_79aa5472f76e48e5838a47dcbe5e58f9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live"
     excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
     publishedDateTime: 2021-04-16T22:17:00Z
@@ -1344,6 +1378,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "T/fux+tlWRIaTB7ngKgcKYj961r+MdPIvNVWB39FXJLufiafkdfo+ex29PZX/RLJHS9V/0xks0M+h4YN3xkPT/RQjH3mdb2CWUsdDT+YInzMonPeSmXXJYzdl1BylZW4ba5/Ga6KiHppgoGtwNcmeUuTT4V2n1o3ea5+DLoePaky18exAfb+DrzdVTz5xkRNADEqI/Dv1F4t47jeIaaYxWeW5evnpVxbOoMyGpBKBUJvl8nLv+Ro+r88RXh3/cJUR7EuKonG7rnmJXczNk8VuvEnfCGo46YoHG8woV4fNyALAof3pwGzNn8O7Y/Bxq3qrp8iuI7ZuYr8bm3/VH6fqYawylCdeRENulHWWaix1C0=;lruN0TsGrtk0LF/TWHsLvg=="
+secured: "gkygcEftFqW/zB+PiG6+RDsIgTb5qoRXPj31yaIK7NtDBWGNgmqBVIaLcJOiCYHBnimoNGDiSTACnTr/nvwfSP3UEGmf0IjOC4gi9VaobYaCs6xRK3Ozs78sZ7RHytsvGN03pw0jvjKzM3mUNqthokDHxktNNn2v1Xq4vfwWqRkulIkTgtMd/cUswcF1tNPX0AmwcG0rUsH3EGzVQ57J1p31cCwwneObXOn1B47S+fn3E09qwgABlMk8BkOvxwEdhXxd7Srp83pxV55mMVkjON9xJBgr1mmLwpijH4wpshttQIZsNlKyHpsP1RKsJEel+Yp9iQo94b8TLTm8mZjOcRl4hhGgM3lZq3Nx4oJxi60=;aJp86RY+pUweBBgXI37jZA=="
 ---
 

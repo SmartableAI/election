@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
 excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."
 publishedDateTime: 2021-05-04T15:13:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/09628999484734dfb11d5be67f224a17/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/09628999484734dfb11d5be67f224a17/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
 type: article
 quality: 52
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Biden-Harris.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/09628999484734dfb11d5be67f224a17/Biden-Harris.jpg"
     width: 650
-    height: 429
+    height: 431
     isCached: true
 
 related:
@@ -201,16 +201,32 @@ related:
         width: 1279
         height: 720
         isCached: true
-  - title: "Harris touts research during first Wisconsin trip"
-    excerpt: "Wisconsin Republicans said Harris' time would have been better spent at the U.S. border dealing with the increase of migrants trying to cross from Mexico. Harris also participated in a roundtable discussion about the investments in research and development proposed in Biden's infrastructure jobs plan,"
-    publishedDateTime: 2021-05-04T21:59:00Z
-    webUrl: "https://www.ctpost.com/news/article/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
-    ampWebUrl: "https://www.ctpost.com/news/amp/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
-    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
+  - title: "Edward Snowden knocks Kamala Harris over press freedom assertions"
+    excerpt: "Edward J. Snowden, the fugitive leaker wanted for spilling U.S. secrets, seemed unconvinced Tuesday by the White House touting press freedoms given its pursuit of WikiLeaks publisher Julian Assange."
+    publishedDateTime: 2021-05-04T21:58:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/may/4/edward-snowden-rips-kamala-harris-over-press-freed/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/4/edward-snowden-rips-kamala-harris-over-press-freed/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/4/edward-snowden-rips-kamala-harris-over-press-freed/"
     type: article
     provider:
-      name: Connecticut Post
-      domain: ctpost.com
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/02/19/Britain_Julian_Assange_90409.jpg-a696f_c0-234-5210-3273_s1200x700.jpg?0e12f8273a7941ae1f74801aa0f9344c70566cd8"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Harris touts research during first Wisconsin trip"
+    excerpt: "Wisconsin Republicans said Harris' time would have been better spent at the U.S. border dealing with the increase of migrants trying to cross from Mexico. Harris also participated in a roundtable discussion about the investments in research and development proposed in Biden's infrastructure jobs plan,"
+    publishedDateTime: 2021-05-04T23:59:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Harris-to-tour-UW-Milwaukee-clean-water-lab-16149895.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
@@ -524,6 +540,6 @@ related:
       domain: sacbee.com
     quality: 48
 
-secured: "232hgtm8l0b9YnvRvyN9h+iEuT2GYGclXR0Amx+rDbkLRjVJzdt4zaDN9QusD5su7fipYpQezR28aH9qt08atzhy61VEve5ru4AGwyj9/zjGTbsCxx7dahkOg3jh9GyC2kVTMDsMBC2j4Armp/9voeWqWdauAHQSs23tv/fWH+cQIG/YKIhMZ0w9UKmmF6QySWlpt5VcS8A6yVUx0Bud97m5b90WAkBoymrFneKOCVJ0bN+dImFHTY+1GKEH2rp6xVo9ZXIDmEX6tXnw+lt6rlqIP72Ov7ujAdwB3uI8Ows9DWAoJ9x70GM6Q7NdmLY74fatey7kPGHeJ+QumkneFMNMc11PsgDyGgCMhNmg5rD06I+OvAoaIvm0OQwbM43onnjPXOwv7HaGSMEs/H8vOxWRdwjR7PSipJrFIcTXxm1HiI05qhDxFUolpW7hXN+TTQHzOSlPhDVIAkPcKf3h8OiC5IzJ7NS32WPhBnj6FLZjNHUEi77/Knv1JTHo/8fXBzGYcyVYsou4IXs0/H6yQQ==;bkpa6OXGTZxOjNJmH2CGHQ=="
+secured: "L8cnHMKVBT3xYj/pj5N4lhBqPrGwn8fQE2QC2gijKT7k3tqOguFVf7s0sg/u87xmWT2NdblhEJGJcK6O8hGijAOqPKjrxpJGLdkIS5FJM+dP27rODQ+n/yWuKE+jMBGkBvnyqylV/JiKrLdyXeW2HwbsO+bicJZE7q720ec+h1+sfkLJR9ltHbw/lySnLqL6Q4OfP8+GVP5UYDQqcGM4GC+jubYWNzeHXzKWJetWaCqMLvaKwSIBAPTUOkEWoK5m0dISASQ2duHCGF5IbzPDTlznHeIZT7e4sbzh6VGxyYkEBYNRxnZlpQwJeLA357A26f7g83LCUC+0dGOwp8rJ6VGGEkyshb3nFm+B5nZF3PU=;j0e+BSCKp4pxre+lolQTEw=="
 ---
 

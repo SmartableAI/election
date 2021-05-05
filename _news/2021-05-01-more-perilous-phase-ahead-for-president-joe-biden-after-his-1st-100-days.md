@@ -779,6 +779,38 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Donald Trump returns to social media with glorified blog"
+    excerpt: "Ex-president unveils retro webpage featuring series of statements resembling blogposts ahead of Facebook oversight board’s decision on his suspension"
+    publishedDateTime: 2021-05-04T21:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/04/donald-trump-social-media-platform-blog"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/04/donald-trump-social-media-platform-blog"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/04/donald-trump-social-media-platform-blog"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7e7e930e36b7d1481f010ea9cbad6da3b9766d04/717_580_2717_1631/master/2717.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=971dc1bdd24bdb873d8f2bc0c5005b97"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Judge orders Justice Dept. to release Trump obstruction memo"
+    excerpt: "A federal judge has ordered the release of a legal memorandum the Trump-era Justice Department prepared for then-Attorney General William Barr before he announced his conclusion that President Donald"
+    publishedDateTime: 2021-05-04T21:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/judge-orders-justice-dept-to-release-trump-obstruction-memo/2021/05/04/bb13b820-ad18-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/judge-orders-justice-dept-to-release-trump-obstruction-memo/2021/05/04/bb13b820-ad18-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/judge-orders-justice-dept-to-release-trump-obstruction-memo/2021/05/04/bb13b820-ad18-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7LC6KUFNDEI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Smiling Jimmy Carter seen in photo from Biden visit"
     excerpt: "The White House released a photo of a smiling Jimmy Carter sitting in a chair and holding the hand of first lady Jill Biden while the president kneels beside a seated Rosalynn Car"
     publishedDateTime: 2021-05-04T19:11:00Z
@@ -1097,6 +1129,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Facebook board's Trump decision could have wider impacts"
+    excerpt: "Since the day after the deadly Jan. 6 riots at the U.S. Capitol, former President Donald Trump’s social media accounts have been silent — muzzled for inciting violence using the platforms as online me"
+    publishedDateTime: 2021-05-04T22:11:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/facebook-boards-trump-decision-wider-impacts-77493717"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_79aa5472f76e48e5838a47dcbe5e58f9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live"
     excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
     publishedDateTime: 2021-04-16T22:17:00Z
@@ -1219,22 +1265,6 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2021/04/Biden_100_Days_Promises_73838.jpg?w=1024&h=682"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Judge orders Justice Dept. to release Trump obstruction memo"
-    excerpt: "A federal judge has ordered the release of a legal memorandum the Trump-era Justice Department prepared for then-Attorney General William Barr before he announced his conclusion that President Donald Trump had not obstructed justice during the Russia investigation."
-    publishedDateTime: 2021-05-04T19:40:00Z
-    webUrl: "https://www.chron.com/news/article/Judge-orders-Justice-Dept-to-release-Trump-16151235.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Judge-orders-Justice-Dept-to-release-Trump-16151235.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Judge-orders-Justice-Dept-to-release-Trump-16151235.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "President Joe Biden has quadrupled nation’s cap on refugee admissions"
     excerpt: "President Joe Biden formally raised the nation’s cap on refugee admissions to 62,500 this year, weeks after facing bipartisan blowback for his delay in replacing the record-low ceiling set by former President Donald Trump."

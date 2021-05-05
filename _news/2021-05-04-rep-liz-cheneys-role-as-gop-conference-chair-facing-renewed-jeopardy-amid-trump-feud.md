@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/rep-liz-cheney-gop-conference-chair
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud.amp"
 type: article
 quality: 167
-heat: -1
-published: false
+heat: 227
+published: true
 
 provider:
   name: Fox News
@@ -31,85 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Ohio GOP to vote on censuring Republicans who voted to impeach Trump"
-    excerpt: "The resolution was obtained exclusively by Fox News and takes aim at the 10 House Republicans who voted to impeach Trump this year, including the number three Republican in the House, Rep. Liz Cheney of Wyoming."
-    publishedDateTime: 2021-05-04T15:13:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4BmLzpcrZNI/ohio-gop-censure-house-republicans-trump-impeachment"
-    ampWebUrl: "https://www.foxnews.com/politics/ohio-gop-censure-house-republicans-trump-impeachment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-gop-censure-house-republicans-trump-impeachment.amp"
+  - title: "Cheney says she'll campaign on impeaching Trump 'every day of the week' amid primary challenges"
+    excerpt: "Rep. Liz Cheney said in an interview with Punchbowl News Thursday that she will stand behind her vote to impeach former President Donald Trump \"every day of the week\" as she faces multiple primary challengers in her 2022 reelection effort. "
+    publishedDateTime: 2021-04-29T15:05:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oU9HcI6QFdc/cheney-campaign-impeaching-trump-primary-challenges"
+    ampWebUrl: "https://www.foxnews.com/politics/cheney-campaign-impeaching-trump-primary-challenges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-campaign-impeaching-trump-primary-challenges.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 163
     images:
-      - url: "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/05/18/720/405/694940094001_5438848447001_5438775026001-vs.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "House Republicans Who Voted to Impeach Trump See Fundraising Boost"
-    excerpt: "The 10 Republicans who voted to impeach then-President Trump after his supporters stormed the Capitol raised significantly more money during the first quarter of 2021 than they did two years earlier."
-    publishedDateTime: 2021-04-17T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400?mod=newsviewer_click"
-    ampWebUrl: "https://www.wsj.com/amp/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/house-republicans-who-voted-to-impeach-trump-see-fundraising-boost-11618664400"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-326160/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "GOP Leaders Clash on Trump at Annual Retreat"
-    excerpt: "Republicans hope to take back control of Congress in midterms."
-    publishedDateTime: 2021-04-28T00:48:00Z
-    webUrl: "https://www.wsj.com/articles/gop-leaders-clash-on-trump-at-annual-retreat-11619563002"
-    ampWebUrl: "https://www.wsj.com/amp/articles/gop-leaders-clash-on-trump-at-annual-retreat-11619563002"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/gop-leaders-clash-on-trump-at-annual-retreat-11619563002"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-330686/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump loses bid to get out of testifying in protester lawsuit"
-    excerpt: "Former President Donald Trump can’t get out of testifying in a lawsuit brought by a group of protesters — since he’s no longer in office, an appeals court ruled Tuesday. Trump"
-    publishedDateTime: 2021-04-27T20:40:00Z
-    webUrl: "https://nypost.com/2021/04/27/trump-loses-bid-to-get-out-of-testifying-in-protester-lawsuit/"
-    ampWebUrl: "https://nypost.com/2021/04/27/trump-loses-bid-to-get-out-of-testifying-in-protester-lawsuit/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/27/trump-loses-bid-to-get-out-of-testifying-in-protester-lawsuit/amp/"
+  - title: "Trump: ‘warmongering fool’ Liz Cheney would ‘embarrass her family’ with 2024 bid"
+    excerpt: "Liz Cheney telling The Post that she’s not ruling out a presidential bid. Trump called the Wyoming Republican a “warmongering fool” and said that she would “embarrass her family” with a 2024 run. “Liz Cheney is polling sooo low in Wyoming,"
+    publishedDateTime: 2021-04-27T22:21:00Z
+    webUrl: "https://nypost.com/2021/04/27/trump-liz-cheney-would-embarrass-her-family-with-2024-bid/"
+    ampWebUrl: "https://nypost.com/2021/04/27/trump-liz-cheney-would-embarrass-her-family-with-2024-bid/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/27/trump-liz-cheney-would-embarrass-her-family-with-2024-bid/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 135
+    quality: 130
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-lawsuit.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-cheney.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Liz Cheney Draws More GOP Fire Over Anti-Trump Stance"
-    excerpt: "House Republican leader Kevin McCarthy questions whether the Wyoming lawmaker can carry out her job in leadership ahead of a closed-door meeting next week."
-    publishedDateTime: 2021-05-04T19:53:00Z
-    webUrl: "https://www.wsj.com/articles/liz-cheney-draws-more-gop-fire-over-anti-trump-stance-11620161615"
-    ampWebUrl: "https://www.wsj.com/amp/articles/liz-cheney-draws-more-gop-fire-over-anti-trump-stance-11620161615"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/liz-cheney-draws-more-gop-fire-over-anti-trump-stance-11620161615"
+  - title: "NYT's Tom Friedman: Liz Cheney And Mitt Romney Are Defending Democracy From Trump's \"Gigantic Lie\""
+    excerpt: "New York Times columnist Thomas Friedman warned there would be \"people in the streets\" if Republicans who believe President Trump's \"big lie\" about voter fraud in the 2020 election during an appearance Monday with CNN's Anderson Cooper."
+    publishedDateTime: 2021-05-04T14:53:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/04/nyts_tom_friedman_liz_cheney_and_mitt_romney_are_defending_democracy_from_chilling_trump_danger.html"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 51
     images:
-      - url: "https://images.wsj.net/im-334085/social"
-        width: 1280
-        height: 640
+      - url: "https://assets.realclear.com/images/48/486909.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "XewIxLidqxrBOtCw0491LyFC+Hkicy2GdtVCxjonmVhjghcD85REMCgY5Hm8mYFj6l0kzaAPEzcnZDRjUDIOCULNzctPiFthbdmBnE+sfc72CeJ6JEnBIhQU7l+b89DkidGrPEnbPBRF+tWYgDeA4R4+9Sj9DKOG87QWmFKE+Dpau5OuWK5JA2ZUbek9s9q7fXmvz0vPJiPPdFsJ461eIkL7kO/aM4yeR8qECI0E84S9yDfOzi6k91kcHwn76d8AEKvv7481BwCTb/7Ges4+AkhkNBDN7AljhfQCuZTWHJxR6uKcS+5rMi/6nRQQ0F6jMidiWvlkzVDW07OYzzoK17i9stnxK/j0c3lgROr7l9o=;iI29vwxNW7noX0YPolvtZw=="

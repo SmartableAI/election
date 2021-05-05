@@ -77,7 +77,23 @@ related:
         width: 3000
         height: 2082
         isCached: true
+  - title: "Former President Donald Trump launches new website to communicate with supporters on the eve of Oversight Board ruling"
+    excerpt: "Former president Donald Trump has launched a new messaging platform as a way to communicate with followers the day before an independent oversight board is set to review Facebook’s decision to ban the Republican from the platform."
+    publishedDateTime: 2021-05-04T22:16:00Z
+    webUrl: "https://www.masslive.com/politics/2021/05/former-president-donald-trump-launches-new-website-to-communicate-with-supporters-on-the-eve-of-oversight-board-ruling.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/05/former-president-donald-trump-launches-new-website-to-communicate-with-supporters-on-the-eve-of-oversight-board-ruling.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/former-president-donald-trump-launches-new-website-to-communicate-with-supporters-on-the-eve-of-oversight-board-ruling.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 51
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HR3FW4ACXZFGHKLRJBLKDLTPK4.jpg"
+        width: 3789
+        height: 2526
+        isCached: true
 
-secured: "T3f73WMpveXcaaCkO5J1NJVTLBIfS3zyXvdfLG4XDsLHmJJ85ZUHaGOFoME0lyOqiTJMawWxFnBWmRsxcbHH/Vq3IEs7YK6K+E/q1h16sHzUBYP/j6zxUbzsFuNokASi/gwBDGW7/ipf/1ZZEAcxfTTVpk8v2QQObRGbfIaGnOxzO32h5ZsZcnVMxViCCSiEIP1nUM2tJDZKw7kVyvEgccHDCSIZMzr+/4xueBfmgHPFQ3FCTlmn4LcofSBdj+vvBhaGD5VP6rUxSDk2imJqV6AuG+p1a0ZWGc4Z67vPRrbxCX3zl7gfIKvmlGgmc+NALFX592+Ygukp/XhpHOEcwsq7XfOk7haRoEHokDoGvbE=;q1L1uJrpVYW1BfqsEEabpQ=="
+secured: "80pqfU5rpJQ8CL80oufrDYrktECLOxjMlVl5pMulMTnWaa1Mc9m2TkOoCukBx6vXfoJqm1zE97eJTVLIMfRC7j98mqOe/3Z9HcZn7pa3SPdzbGs4K0ghnKZe2lBeK4IQn4Na9Y4CSUlYSMMm5MnXZeMWBWWXRUg51NQfMbZtw1hvU8/edj86u5BcrEqFLljqDeu+2cHItxxHnJ63cguYDjHcRL2LPLD7HRQNJPoSGcG+8MJCNPbg3NmdGGOQrfdQnDKJlTMB6/68iwLoLeIf/+/A8C4DOEGMMnZ8ff25DTk/sFMsnuqYdlVdJBYxlEB8NO2K/KaffZI01BbcQHOqm5U1r9M/91fwiqlXtO2hzNBh3PzGcEbtIZeEg8aUl9QDwGMP0RUSvDE7mG3sTmLSj5d/zHvAmoGYuB/+jLUqVs1EEzDRE/ebmRrfn75rti+uY2kO69yjaBlymiMs+byz5A0v1T8olTuMLZLVsH3PXJTE9xHJsBkdPgulgDG8bvlCro1VV5o9wZZPDwwNekwcQA==;g9lOl1tWGhGyptkZr3ll+w=="
 ---
 

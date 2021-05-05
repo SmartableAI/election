@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump claims he would be on Mount Rushmore if he were a Democrat"
-    excerpt: "Former President Donald Trump on Wednesday claimed that his face would be added to Mount Rushmore if he were a Democrat. Trump’s allies have long flattered him with the idea that his"
-    publishedDateTime: 2021-04-28T18:37:00Z
-    webUrl: "https://nypost.com/2021/04/28/trump-claims-hed-be-on-mount-rushmore-if-he-were-a-democrat/"
-    ampWebUrl: "https://nypost.com/2021/04/28/trump-claims-hed-be-on-mount-rushmore-if-he-were-a-democrat/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/28/trump-claims-hed-be-on-mount-rushmore-if-he-were-a-democrat/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-rushmore-dem-01.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "ZSvSjxBeBAKXccuBQxGoZFutBSbtIdTJF2zmMAVzW3E0uZqi1G6MELSSgls8sv4inEOnZ/VN2iNP6ECENNaQOuDfAQTNL9qre/62Hk7xGiBZl2P9E4vktoUZPuQ9qLOl8OHhWmjxML2Qf4qElHKHOr7p6JKAUnma/GAw0lTeiJrwDxBsoFb22pGlGgrkWikQJKnJTIll+smcYY4eS3MfBBB5HiG1S0J4/8qshwPDI3c6tp+x5ABmS+XbP0LUtZsyPXVHf9FfaMLiiP9olpHq8kewMXc8pVKBBHa0abRu3dSTPbU7Qel6P68u/yq17ZmWxtBk3eHsA9jT5v1IiUFQqkPTWMdjEmLB253sJsXAKh4=;4o9AorLveUCOqYT82MDxSw=="
 ---

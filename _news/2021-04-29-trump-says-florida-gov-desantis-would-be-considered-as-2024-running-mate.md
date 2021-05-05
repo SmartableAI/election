@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-desantis-2024-running-mate-co
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-desantis-2024-running-mate-considered.amp"
 type: article
 quality: 173
-heat: 213
+heat: 193
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Trump claims he would be on Mount Rushmore if he were a Democrat"
-    excerpt: "Former President Donald Trump on Wednesday claimed that his face would be added to Mount Rushmore if he were a Democrat. Trump’s allies have long flattered him with the idea that his"
-    publishedDateTime: 2021-04-28T18:37:00Z
-    webUrl: "https://nypost.com/2021/04/28/trump-claims-hed-be-on-mount-rushmore-if-he-were-a-democrat/"
-    ampWebUrl: "https://nypost.com/2021/04/28/trump-claims-hed-be-on-mount-rushmore-if-he-were-a-democrat/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/28/trump-claims-hed-be-on-mount-rushmore-if-he-were-a-democrat/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-rushmore-dem-01.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "GcA81joQOd5Xyasm6xq8cL3MLWgm9WCgpEbUUtVadFXOcE0gN+sHwaeng0GulaHINdVf4+fIxutgzWxGIWQVw0JfXtdBtTtVY28iSrIpRqXf4lE/HAav59u8V2S0JW+sxPAaE/yBLTB5gz3szz4e/po9CUAOun1C9GhO+V1hA0k4e48yV1SgPNfn8w3X14Xn5RnUuo0uN9dMgE0NBIs9i0hulZRyeMa5Qy9AsWTP/6ffnUpIfUcoAchjQG4mI40fD1w7CIKjUJj7m3EY7yRhJCS4QO31uXnzR0Digi3Z0j57Q63tnM+B2+q46u3NJ6gUGg75Qc7Kw1dgWq5y67KCan+4FxCg3TxrMjIgyhWBJyM=;w8biHEkE7BNjld4n0AYKrQ=="
