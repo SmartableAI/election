@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Top Republicans McCarthy, Scalise back Stefanik as Cheney replacement amid battle over Trump"
-    excerpt: "The top two Republicans in the House are behind Rep. Elise Stefanik's efforts to replace Rep. Liz Cheney as Republican conference chair as the party continues to grapple over former President Trump's future role, according to a report. "
-    publishedDateTime: 2021-05-05T12:25:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x3400qqbMFw/republican-leaders-stefanik-cheney-house-conference-chair-trump-election"
-    ampWebUrl: "https://www.foxnews.com/politics/republican-leaders-stefanik-cheney-house-conference-chair-trump-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-leaders-stefanik-cheney-house-conference-chair-trump-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Cheney says she'll campaign on impeaching Trump 'every day of the week' amid primary challenges"
     excerpt: "Rep. Liz Cheney said in an interview with Punchbowl News Thursday that she will stand behind her vote to impeach former President Donald Trump \"every day of the week\" as she faces multiple primary challengers in her 2022 reelection effort. "
     publishedDateTime: 2021-04-29T15:05:34Z
@@ -110,6 +94,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Ep2o3heJaIOH7tp0MuS/kn96rW5fg/DEQMr/L2E8S++kBEkuzDCQXW6HnpI+G2X7oG19mt85tjMTEajvy0tKMhfuW8I9Pj/Am1P9x50nois+F1qoL4yMaw6aeOJgroLyAIno8nHxiUC0sAWe+e0akt58V31gn4qgQK1PbilvuvivNawFtm19vqSEVDVQxZYE9/0EkziDj23xh6hoEtCCjipWS/jL7BhhAu/KVzSpZCEcJJhssCHzS9iMxilcwchcG/VCFM1YocuP+zixxAIiK+ShGBD6Tc4T3tROefhvahxQv9DjuDAk+sfTvDqoKSTLFvafZxJljymezGHp5RDRo+C2aHT4v8DobXcht6X8ItA=;HE2qHi8T7qsOm/+POfCgaA=="
+secured: "hpKNShuE2eJeyQ8PBN12TpwZM+RqUU8Bb1K4hvjw1yaiLDE+Vc0cIJtduQMDgvZ3ohliGeFxgrhAUnzl5W8S2eYVUZsGs7D9ehstX0872F88Ab0tV/nDrxxRYhfMq5dBzhQ885EDoX8LWG09++ae1TrJMuHv9ym186iEmyT8cKqLTIST2Q6jgiql4VpJCtrIbGg62grjviJyge+yPPEjpMZxOap5Mu4Gq+OF2/Ct1dfdUk5idcBW13e0h/vrRurNHikwqeXnYQc5tUbIAVLHI+pdw4wYjLopFtCSxUsWscvZdf9xhYgsjrXcGExKFTMRSCJcOvO85AEhJ6E4+5BqyR5p1VqVpq03gD72fkraHQI=;jAwoU+AOEoGxGl1R+07SIw=="
 ---
 

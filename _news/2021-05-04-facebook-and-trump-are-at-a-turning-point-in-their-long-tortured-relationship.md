@@ -32,9 +32,9 @@ images:
 
 related:
   - title: "Facebook oversight board to give verdict on Donald Trump ban – live"
-    excerpt: "Good morning, this is Lauren Aratani kicking off today’s politics live blog. Facebook’s Oversight Board – AKA Facebook’s “supreme court” – will be announcing its dec"
-    publishedDateTime: 2021-05-05T10:35:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live"
+    excerpt: "What exactly is Facebook’s Oversight Board? If you need some catching up on exactly what Facebook’s Oversight Board is, here are some basic facts: Facebook announced the creat"
+    publishedDateTime: 2021-05-05T10:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live?page=with:block-6091a7488f08ae30bfe0426d"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live"
     type: article
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/9ec4843e2e4cfdd90b7b916a71df314a47003225/0_59_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4481d464346f41d93bb22d4493664ab4"
         width: 600
         height: 360
+        isCached: true
+  - title: "Facebook board to decide today if former President Donald Trump can post again on the social media site"
+    excerpt: "On Wednesday, his fate on Facebook, the biggest social platform around, will be decided. The company’s quasi-independent Oversight Board will announce its ruling around 9 a.m. ET. If it rules in Trump’s favor,"
+    publishedDateTime: 2021-05-05T14:09:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-facebook-trump-decision-20210505-2cvwvvrzd5f5fawgmw652r34gu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-facebook-trump-decision-20210505-2cvwvvrzd5f5fawgmw652r34gu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-facebook-trump-decision-20210505-2cvwvvrzd5f5fawgmw652r34gu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
+    images:
+      - url: "https://www.chicagotribune.com/resizer/EdDUGwtzjwBcFovhqqYK-Scvjqw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZXEMQWNFPFACPHFROHLXQYAWMM.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "EXPLAINER: Will Donald Trump return to Facebook?"
     excerpt: "Former President Donald Trump will find out whether he gets to return to Facebook on Wednesday, when the social network’s quasi-independent Oversight Board plans to announce its ruling in the high-profile case."

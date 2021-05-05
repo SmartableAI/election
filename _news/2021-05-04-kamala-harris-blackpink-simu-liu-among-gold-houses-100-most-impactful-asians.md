@@ -526,16 +526,16 @@ related:
   - title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
     excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."
     publishedDateTime: 2021-05-04T15:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/09628999484734dfb11d5be67f224a17/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Biden-Harris.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/09628999484734dfb11d5be67f224a17/Biden-Harris.jpg"
         width: 650
-        height: 429
+        height: 431
         isCached: true
   - title: "Madame Tussauds reveals bust of Kamala Harris wax figurine | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris will make history once again as she becomes the first vice president to get their own wax figure from world-renowned museum Madame Tussauds."
@@ -559,6 +559,15 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 48
+  - title: "Live Updates: Doug Emhoff, husband of Vice President Kamala Harris, in Lehigh Valley on Wednesday"
+    excerpt: "Doug Emhoff, husband of Vice President Kamala Harris, is visiting the Lehigh Valley on Wednesday to tout President Joe Biden’s infrastructure plan."
+    publishedDateTime: 2021-05-05T14:04:00Z
+    webUrl: "https://www.mcall.com/news/breaking/mc-live-doug-emhoff-lehigh-valley-20210505-467dqjxj6zfylcimsdxz76infi-htmlstory.html"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 22
 
 secured: "HPQx/rRp94nNjh3v9dSwsFVqNARr1qyGPYCOjWM8MwMqjpZcOBEY/aYQjdKJVKMcgg1jJiCW2+yVxhYrmP2gbzKQbPO7PQ14B1m8eVu2TVsepmq+5I0zTn/eTriRKzIip4dhF+g+J7Be6N87p3o7z1pWxrP7PEqaqCyQx4zigQUPXIyrAN9pk5I0Q6NGxL6LVWcshDesw1inSoh3VQ8btUbLS8eRoiit0J3hJAdrk8tlqpTxmYq3O2kmPLJc+zFml1VEoKPfRUgvdBy+0azMTljZ99pvj7gNmfXtqCBdadrUE/cYaXubvrpJv4tCblChKUb0imuewu4XQ7V/EasM6T6h5zKYSChL19gGnJFTI1/7MdDJ41f5sdrZ8YpCJSrVXHNjWvXJK7YW6eRyCJ/Ekq4/Zgb16aNcsDv/nf9Y6YNJF7j0dDKs/Ay3ArG+kh+ilE+xGjM2c6ohzrPDRvsbjCwTgjW00JY4mEVZT9ZZoolfFomrjeGpskSTfXiO+iwlyxGGso0uDIIMB+v1mv3QMg==;nsMIn4w71QedauR+RBhN2Q=="
 ---

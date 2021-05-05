@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
 excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."
 publishedDateTime: 2021-05-04T15:13:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/09628999484734dfb11d5be67f224a17/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/09628999484734dfb11d5be67f224a17/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
 type: article
 quality: 52
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Biden-Harris.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/09628999484734dfb11d5be67f224a17/Biden-Harris.jpg"
     width: 650
-    height: 429
+    height: 431
     isCached: true
 
 related:
@@ -555,7 +555,16 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 48
+  - title: "Live Updates: Doug Emhoff, husband of Vice President Kamala Harris, in Lehigh Valley on Wednesday"
+    excerpt: "Doug Emhoff, husband of Vice President Kamala Harris, is visiting the Lehigh Valley on Wednesday to tout President Joe Biden’s infrastructure plan."
+    publishedDateTime: 2021-05-05T14:04:00Z
+    webUrl: "https://www.mcall.com/news/breaking/mc-live-doug-emhoff-lehigh-valley-20210505-467dqjxj6zfylcimsdxz76infi-htmlstory.html"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 22
 
-secured: "5v3VzPboqQOhKiNChixn5dlwkQxnzM9HDe7FJWzJxQWD0ROmvJliW5oy9oQXcJlR//Dftr99n4Y5Lp2yvZjlsBMtv7uOaspCRlaueXolBtt3rknlfSBShZQbUkXQdV77nu6TV567JiQWT44jRysYV4cWJkPER32L4WJjHLS32pYGk8TL0fcQ8QSnQ4zT9cLoOBqrTBBWaj5N/UD/84DDehQuGLv4JGqnHp597BOLgUu6h3IrXJCf6DJ39enbRZXfePMJ0wciMDtU5T0vWBTFhUjNedPQcFaoDGrAR6KxZQCFioDly1pIs6Gz/DeKddGul+cgIg66O9eCAjiKEID9yCeKmpiquncLBrlFQd55EUnM3yKWlPLm+z6zUBrcVnJEL75rCWUSQR8Fa2FVOv4w+kDILC35ajCFPaYfa2xEbkx87mX543NI+R9N2qHQ2Vxy7UkUlC6QgxrWJm6MoJiXy5+ZTRrLHSNDGPag/s0gP96IHfbA0PBr2nlraSeYlc4oy0ZCqQoQBCQuVF93CJSMeg==;sS19nXd9BMXVNVswZyFfPg=="
+secured: "+shyA3TuCMhP4Re1PsmkzG+OuDWFlMctzAwZ+psb9LXz6qrMtyG9x/7ohRfB4hoIxrKraN6283aATMBQWcAoF+2u75Lw4kcTzEuD+84RqUXlQ3p7nH5Jf4czW/+GAiKK2uSj3TemPKbY585EB8zg1udI3KJh1l6Ok0fmwJFJhvn5MxEXLa8NXOmXr1O+cOwHLCIk/PBF1CagB5HyII6lCLLyEGyiM1G/DFzKEN7aX5hgBbJWhKGiRk/hrkjdiZAnbzCkvlcSca+UZwTDuuaT5y2Z695vqxwWxXHinRqEvqCLKavQ5GFnvUVaZEWidKMq3mdo/ceaKugsCyNgGOdqhfeUL6f3TCnJuEcxDwa4R4Y=;q4WdrHJ8K3fsBMJCqMX1gg=="
 ---
 

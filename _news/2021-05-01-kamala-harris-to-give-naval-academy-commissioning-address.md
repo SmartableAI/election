@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Nava
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
 type: article
 quality: 125
-heat: 805
+heat: 825
 published: true
 
 provider:
@@ -512,16 +512,16 @@ related:
   - title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
     excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."
     publishedDateTime: 2021-05-04T15:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/09628999484734dfb11d5be67f224a17/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Biden-Harris.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/09628999484734dfb11d5be67f224a17/Biden-Harris.jpg"
         width: 650
-        height: 429
+        height: 431
         isCached: true
   - title: "Kamala Harris, Blackpink, Simu Liu Among Gold House's 100 Most Impactful Asians"
     excerpt: "A number of politicians, entertainers and athletes were honored in Gold House's new list of the 100 Most Impactful Asians of the Year."
@@ -559,6 +559,15 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 48
+  - title: "Live Updates: Doug Emhoff, husband of Vice President Kamala Harris, in Lehigh Valley on Wednesday"
+    excerpt: "Doug Emhoff, husband of Vice President Kamala Harris, is visiting the Lehigh Valley on Wednesday to tout President Joe Biden’s infrastructure plan."
+    publishedDateTime: 2021-05-05T14:04:00Z
+    webUrl: "https://www.mcall.com/news/breaking/mc-live-doug-emhoff-lehigh-valley-20210505-467dqjxj6zfylcimsdxz76infi-htmlstory.html"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 22
 
 secured: "Q7uy9yHE6cIlbSKiVllftvIfCnofpOP0Ac0f47WFLTOtkn/EgGe6e7JEiX2W70U/zh2LT7BESwzAL5NXV9s1Y4DrgftC7/QcCbpyyre3Avr3K45MXksQi9G9PuZ9Szq4oNaxIYdJr8eSLCoCq/wG0b4pzLh5isVjc2nSffcbPmUXuUOsrR5sOcKRDOOnXlDu32sS8gz9KcQCpdO/hcPYO7huY+rvPbEWFQAHYIk8UBSGV/POMY6NlRCzR0Xn7o7AEMKojOtMmJYgiuQZg+QlVk3LuYDS2j448LHcOc1ofwO9zO0jiDUX7E77yvgfeEPLpLs63+QfEqJHV86q+NmDbZy1JcxcmZGGHrF6co52gkk=;IgtWnfA/GdbBHLQrnmvU+Q=="
 ---

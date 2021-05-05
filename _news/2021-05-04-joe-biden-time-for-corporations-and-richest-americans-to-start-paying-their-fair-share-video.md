@@ -77,6 +77,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden's American Families Plan will cost $900 billion more than White House predicts, study says"
+    excerpt: "Analysts from Wharton School say plan will spend $700 billion more, and tax $200 billion less, than Biden estimates."
+    publishedDateTime: 2021-05-05T15:41:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-american-families-plan-900-billion-cost/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-american-families-plan-900-billion-cost/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-american-families-plan-900-billion-cost/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/03/768485d6-1fd6-43d7-96f8-9ee401ade551/thumbnail/1200x630/354ae3beb9f5b26b9ec2f9ff7afa36c0/cbsn-fusion-president-biden-visiting-virginia-to-promote-american-families-and-jobs-plans-thumbnail-706923-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden hails ‘stunning progress’ on Covid but warns Americans: ‘Do not let up now’ – as it happened"
     excerpt: "President lauds vaccination effort to reduce cases and deaths as CDC relaxes mask guidelines – follow all the day’s politics news"
     publishedDateTime: 2021-04-27T23:29:00Z

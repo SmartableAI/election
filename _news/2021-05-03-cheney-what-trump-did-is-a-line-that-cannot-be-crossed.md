@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/liz-cheney-doubles-down-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/liz-cheney-doubles-down-trump-gop/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kevin McCarthy and Donald Trump in touch ahead of Liz Cheney's expected ouster"
+    excerpt: "Former President Donald Trump is weighing in on the fight to replace Rep. Liz Cheney in the House Republican Party's leadership, blasting Cheney in a new statement and staying in touch with Republicans on Capitol Hill as the effort gets underway.\n    \n"
+    publishedDateTime: 2021-05-05T15:15:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wWGtJdsw5tk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/mccarthy-trump-liz-cheney-latest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/mccarthy-trump-liz-cheney-latest/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128192549-mccarthy-trump-cheney-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Cheney calls out Trump's latest attempt to promote 'BIG LIE' amid criticism from within her own party"
     excerpt: "Wyoming Rep. Liz Cheney, the No. 3 House Republican, publicly rejected former President Donald Trump's most recent false charge that he would've won the 2020 election if not for \"fraudulent\" votes, her latest rebuke of the former president that has put her at odds with many members of her own party.\n"
     publishedDateTime: 2021-05-03T17:46:33Z

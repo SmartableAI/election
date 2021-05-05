@@ -508,16 +508,16 @@ related:
   - title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
     excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."
     publishedDateTime: 2021-05-04T15:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/09628999484734dfb11d5be67f224a17/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Biden-Harris.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/09628999484734dfb11d5be67f224a17/Biden-Harris.jpg"
         width: 650
-        height: 429
+        height: 431
         isCached: true
   - title: "Kamala Harris, Blackpink, Simu Liu Among Gold House's 100 Most Impactful Asians"
     excerpt: "A number of politicians, entertainers and athletes were honored in Gold House's new list of the 100 Most Impactful Asians of the Year."
@@ -555,6 +555,15 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 48
+  - title: "Live Updates: Doug Emhoff, husband of Vice President Kamala Harris, in Lehigh Valley on Wednesday"
+    excerpt: "Doug Emhoff, husband of Vice President Kamala Harris, is visiting the Lehigh Valley on Wednesday to tout President Joe Biden’s infrastructure plan."
+    publishedDateTime: 2021-05-05T14:04:00Z
+    webUrl: "https://www.mcall.com/news/breaking/mc-live-doug-emhoff-lehigh-valley-20210505-467dqjxj6zfylcimsdxz76infi-htmlstory.html"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 22
 
 secured: "9fMrSEWqWpf+obTC+sEDfJO5WZaDkfDSbqZpvW0g1VhDeDp8EVj4U2gqZJcujvag7wmnVjh6DyotviE1qoZwrQp1Nvn+VQC8tzV1AW0dwF1n0KsGTB4/Ms5DMbMcU10sATBqzeEXSC9IZBpfMU6bBsu8u1+XbJ/5N2uYGovV96kR/UCNNwCybw+uwXcsEJJMnkVH2iiO0ogxzi0eccWZYUooHfBbj82aE/oyJ7I+3dobbj8PVnK5bAQHfa5boxru/x5tTiAF+1TMokJ7dW3Jtaz+ItyXZqXjqqBIqcISNj3rvWYuBkXHJnpq4PvwKnhRU9uW2SHIov3+pxNUN/eU/jzBGRRr6Uis79R8Y5HK6FW/dN3CgtsIUbJBP0P6lzZve4Uw8d9kauYXvytQC7adCK3JI/kowY8BL9y97QJqCR1bMsXkAKvi8gJw22ICK+xUvAzuiNCibXf1SqQKGf3kEjAjTkqiTe7SmRdyxgKNZkNUKDL4YYTEro8BXhXQ7WcQvUyqFe2iySCU6uyeSpvZrA==;QrqJatVZ3qkzKLidceFepg=="
 ---

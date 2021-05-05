@@ -271,6 +271,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to deliver remarks on newly launched Restaurant Revitalization Fund"
+    excerpt: "President Joe Biden on Wednesday is set to promote the newly launched Restaurant Revitalization Fund, which was established to help struggling restaurants and other eligible businesses keep their doors open during the coronavirus pandemic, according to a White House official. \n    \n"
+    publishedDateTime: 2021-05-05T14:38:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Czc4bMf0afY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/biden-restaurant-revitalization-fund/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/biden-restaurant-revitalization-fund/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504134315-02-biden-covid-remarks-0504-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Joe Biden to showcase his moderate radicalism in his big congressional address"
     excerpt: "President Joe Biden's \"radical\" idea is that government is not the problem in America but the multi-trillion-dollar solution that can end the pandemic, equalize the economy and make life better for millions of working people.\n    \n"
     publishedDateTime: 2021-04-28T11:38:27Z
@@ -396,6 +412,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428220703-43-biden-address-0428-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden's Labor Department rescinds Trump-era rule affecting gig workers"
+    excerpt: "President Joe Biden’s Labor Department on Wednesday rescinded a Trump-era rule that would have made it easier for businesses to classify workers as"
+    publishedDateTime: 2021-05-05T15:33:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/bidens-labor-department-rescinds-trump-era-rule-affecting-gig-workers-rcna837"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna837"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna837"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-05/1304/210505-gig-worker-protest-jm-1127-2f7004_4753b70876b6daab534373fae3579f27047d2b94.jpg"
+        width: 2500
+        height: 1670
         isCached: true
   - title: "Biden reversed Trump on the Keystone XL pipeline. Native American groups want more."
     excerpt: "Native American and Indigenous peoples groups said they know they have an ally in Biden. But they are all too familiar with the transient nature of executive action."
