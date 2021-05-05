@@ -96,22 +96,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump Copes With Facebook, Twitter Ban by Relying on Email, Media Interviews"
-    excerpt: "President Donald Trump used to reach tens of millions of people with a tweet. Now, the former president, unable since January to tweet or post to YouTube or Facebook, has been relying on email blasts to make statements,"
-    publishedDateTime: 2021-05-05T13:49:00Z
-    webUrl: "https://www.wsj.com/articles/trump-copes-with-facebook-twitter-ban-by-relying-on-email-media-interviews-11620226189"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-copes-with-facebook-twitter-ban-by-relying-on-email-media-interviews-11620226189"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-copes-with-facebook-twitter-ban-by-relying-on-email-media-interviews-11620226189"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 132
-    images:
-      - url: "https://images.wsj.net/im-333926/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "kYb7+Y4lJkTMBI/y2JdZuSau0z289CU7DTV6lAhABALsuT3OxLqGmQtrzjdijDYBzAtIgrCMadPTgkVcam9lCA4enE0tHB3+8yYXlDI2sl1guScb1IePKl/y10/UScePqBxcD4MyRU8MRxofhuIMxKjHBP6oqrC2OkjKUnWrxdrn9/0txNMCwzj/yBoZ2qJXrO4T4i9zfI/zVKgeK+icN6zZbhwlZU2hIGUIpUpnyTi+oq/h0nYam/8HKBknbIKQKXxc2KZaW+8PrLIQkXMIKCvw+F0dzF8BeECvT/J0l8ENgaR1SZj4S81GOFO9x54OdatXjLfWNIr67R3hQDqE0bQ5eAA5v1A0MNyJARMVJMLmQzHmpUklbLvFWNRUmHB4mAXjUGspdpAv3ZQ+H68QfHo05efPyt1XcwkLRw+yFs0TdMGEGr+pAwvTCOu26JeyD85rJ81piMBvCOEWR1xNX9qr0dA6Y3BKFxRYVPQtSbradbHv3HJYSH9EsBP/hQSRpFsZ0AVA3TR1R5TOM2VcIw==;fW8JBwoR2OCgzggG6LSjWg=="
 ---

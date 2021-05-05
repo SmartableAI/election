@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/president-joe-biden-chin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/president-joe-biden-china-democracy/index.html"
 type: article
 quality: 171
-heat: 271
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden on GOP move to oust Cheney: 'I don't understand the Republicans'"
+    excerpt: "President Joe Biden on Wednesday offered his first public reaction to the House GOP's efforts to oust Rep. Liz Cheney from party leadership, saying simply: \"I don't understand the Republicans.\"\n    \n"
+    publishedDateTime: 2021-05-05T16:47:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1ishJlO_1ug/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/joe-biden-liz-cheney/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/joe-biden-liz-cheney/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429105551-biden-liz-cheney-fist-bump-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Read Republican Sen. Tim Scott's response to Biden's address to Congress"
+    excerpt: "South Carolina Sen. Tim Scott delivered the Republican response to President Joe Biden's address to Congress Wednesday night. Read his remarks as prepared for delivery:\n    \n"
+    publishedDateTime: 2021-04-29T02:51:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TW_xqFteXYI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/tim-scott-response-transcript/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/tim-scott-response-transcript/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428223039-gop-response-tim-scott-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden tells trans Americans he has their back as GOP governors sign more anti-trans bills"
     excerpt: "President Joe Biden pledged his support for transgender Americans during his address to a joint session of Congress on Wednesday, telling members of the community he's standing by them at a time when they face a barrage of attacks by GOP-led state legislatures.\n    \n"
     publishedDateTime: 2021-04-29T17:23:12Z
@@ -47,69 +79,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "'Most certainly': Manchin raises concerns about Biden's push for more expansive government"
-    excerpt: "Sen. Joe Manchin, the powerful West Virginia Democrat, made clear Thursday that the aggressive vision for the federal government that President Joe Biden laid out to the nation must first face scrutiny in Congress, signaling the long slog ahead facing the White House's sweeping domestic agenda.\n    \n"
-    publishedDateTime: 2021-04-29T15:47:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K1Csfmoz1l4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/joe-manchin-biden-reaction/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/joe-manchin-biden-reaction/index.html"
+  - title: "Live Updates: Republicans Push for Biden to Shrink Infrastructure Plans"
+    excerpt: "President Biden will meet this week with Republican senators on his infrastructure ambitions, which the senators want him to scale back and pay for without tax increases. Administration officials see some opportunities for compromise."
+    publishedDateTime: 2021-05-03T08:45:00Z
+    webUrl: "https://www.nytimes.com/live/2021/05/03/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/05/03/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/05/03/us/joe-biden-news.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223152543-joe-manchin-january-27-2021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's economic push tests the power of pocketbook issues to sway America's polarized electorate"
-    excerpt: "A building Biden boom may be about to reshape America's politics.\n    \n"
-    publishedDateTime: 2021-04-30T04:31:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JwUmC_v6dVw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/joe-biden-economy-2022-elections/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/joe-biden-economy-2022-elections/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429184410-biden-discurso-comunicativo-mensaje-congreso-roberto-izurieta-aristegui-mexico-00000921-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden: 'I am not anti-corporate but it's time they start paying their fair share'"
-    excerpt: "President Joe Biden suggested giving working class and middle class families tax breaks instead of just the very wealthy. Biden said it will be paid for by making sure that corprate America and the wealthy \"pay their fair share."
-    publishedDateTime: 2021-05-03T17:49:00Z
-    webUrl: "https://www.nbcnews.com/now/video/biden-suggests-giving-tax-breaks-to-working-class-families-111259205885"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111259205885"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111259205885"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/1620064002102_ott_now_biden_taxcuts_workingclass_210503_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "President Biden: ‘American leadership means ending the forever war in Afghanistan’"
-    excerpt: "President Joe Biden said after “20-years of valor and sacrifice” its time to bring the troops in Afghanistan home."
-    publishedDateTime: 2021-04-29T02:08:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-talks-bringing-troops-in-afghanistan-home-after-20-years-111026245653"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111026245653"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111026245653"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202104/1619662015732_nbc_spec_biden_afghanistan_210428_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static01.nyt.com/images/2021/05/03/us/politics/03new-washington-briefing-promo2/03new-washington-briefing-promo2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "PMoGuwVJ81YuE87OSmF1Taz+f5852TqJGZDyhMKmc0+7aZEo+t+Bv+VpZZ89n3UtcgfbCBgD3bSg2ikyN0aby36NZz1sBRZBOLmZXuzg4S6Hn6KDoq8Fe7xzd8wR0UP6S1iKid9CXMHby7PolQezoBb+ub4rGrAYRfNeUCkCMtmfWUtjvRRHRoObfEl407/CongHf8EnQAWeQdrDAGzqrbmcNyIM4vl8dHNUnX7dup9Bm9WwEE5JfK0tPlG7kymhqBQCilP+dXAFc/ktLVmtBSEEs2U2b1m/9YdOQPJ9a1ViPfAqdm0NHofiRAUk8/whSL/RKBtqPENxcia2JlbtuQIxhmoKd6lQwC9ocA8zFQY=;tnoPNRBfAYRC8fVd5i6gTg=="

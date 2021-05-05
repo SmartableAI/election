@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-05-trump-ban-republicans-threaten-to-break-up-facebook-after-oversight-board-decision.md",
-      "title": "Trump ban: Republicans threaten to break up Facebook after Oversight Board decision",
-      "excerpt": "Republican members of Congress will do everything in their power to break up Facebook, Trump's former chief of staff said.",
+      "path": "_news/2021-05-05-democrats-schiff-omar-celebrate-facebooks-indefinite-trump-ban.md",
+      "title": "Democrats Schiff, Omar celebrate Facebook's indefinite Trump ban",
+      "excerpt": "Democrats, including Rep. Adam Schiff, D-Calif., and Rep. Ilhan Omar, D-Minn., praised Facebook's indefinite ban of former President Trump.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VxO0S_rni3k/trump-ban-conservatives-facebook-break-up-big-tech",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VxO0S_rni3k/trump-ban-conservatives-facebook-break-up-big-tech",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cAQHKJdDo78/schiff-omar-democrats-facebook-trump-ban",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cAQHKJdDo78/schiff-omar-democrats-facebook-trump-ban",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 249,
+      "heat": 295,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a69231ea-ddbb-4614-abbe-a9d2746fd492/57230d5d-ba9c-4fcc-8aca-a77d6ba9b456/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7338d066-a169-425e-98b8-3f7f1df557ed/ff69bda7-feee-43c0-b834-08e1c3668882/1280x720/match/720/405/image.jpg?ve=1&tl=1",
           "width": 720,
           "height": 405,
           "title": null,
@@ -28,9 +28,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-ban-conservatives-facebook-break-up-big-tech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ban-conservatives-facebook-break-up-big-tech.amp",
-      "publishedDateTime": "2021-05-05T07:42:18-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/schiff-omar-democrats-facebook-trump-ban.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schiff-omar-democrats-facebook-trump-ban.amp",
+      "publishedDateTime": "2021-05-05T09:58:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-elise-stefanik-gop-conference-chair-favorite-voted-with-trump-less-than-liz-cheney.md",
+      "title": "Elise Stefanik, GOP conference chair favorite, voted with Trump less than Liz Cheney",
+      "excerpt": "Rep. Elise Stefanik, the favorite to replace Rep. Liz Cheney as the House GOP conference chair, voted with former President Donald Trump less than Cheney and has lower voting scores from top conservative organizations.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZglNdJhJOc/cheney-stefanik-republicans-house-votes-trump-conservative",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZglNdJhJOc/cheney-stefanik-republicans-house-votes-trump-conservative",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 248,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cheney-stefanik-republicans-house-votes-trump-conservative.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-stefanik-republicans-house-votes-trump-conservative.amp",
+      "publishedDateTime": "2021-05-05T09:29:40-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -302,62 +358,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-05-04T12:19:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-rep-liz-cheneys-role-as-gop-conference-chair-facing-renewed-jeopardy-amid-trump-feud.md",
-      "title": "Rep. Liz Cheney's role as GOP conference chair facing renewed jeopardy amid Trump feud",
-      "excerpt": "Wyoming Rep. Liz Cheney’s ongoing feud with former President Donald Trump has sparked discussions among senior House GOP leadership about her future as the party’s conference chair, according to sources familiar with the situation.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tz92hv88-ak/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tz92hv88-ak/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 247,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud.amp",
-      "publishedDateTime": "2021-05-03T18:19:06-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

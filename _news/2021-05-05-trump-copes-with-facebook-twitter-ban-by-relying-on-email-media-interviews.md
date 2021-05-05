@@ -32,85 +32,101 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook removes video of Trump interview with daughter-in-law Lara Trump"
-    excerpt: "Facebook removed a video of an interview with former President Trump conducted by his daughter-in-law Lara Trump, saying any content “in the voice of Donald Trump” would be scrubbed from the social media platform."
-    publishedDateTime: 2021-03-31T14:23:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PzqlRWb8SEU/facebook-removes-trump-interview-video-daughter-in-law-lara-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/facebook-removes-trump-interview-video-daughter-in-law-lara-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-removes-trump-interview-video-daughter-in-law-lara-trump.amp"
+  - title: "Democrats Schiff, Omar celebrate Facebook's indefinite Trump ban"
+    excerpt: "Democrats, including Rep. Adam Schiff, D-Calif., and Rep. Ilhan Omar, D-Minn., praised Facebook's indefinite ban of former President Trump."
+    publishedDateTime: 2021-05-05T16:58:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cAQHKJdDo78/schiff-omar-democrats-facebook-trump-ban"
+    ampWebUrl: "https://www.foxnews.com/politics/schiff-omar-democrats-facebook-trump-ban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schiff-omar-democrats-facebook-trump-ban.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7338d066-a169-425e-98b8-3f7f1df557ed/ff69bda7-feee-43c0-b834-08e1c3668882/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Trump ban: Republicans threaten to break up Facebook after Oversight Board decision"
+    excerpt: "Republican members of Congress will do everything in their power to break up Facebook, Trump's former chief of staff said."
+    publishedDateTime: 2021-05-05T14:42:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VxO0S_rni3k/trump-ban-conservatives-facebook-break-up-big-tech"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-ban-conservatives-facebook-break-up-big-tech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ban-conservatives-facebook-break-up-big-tech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a69231ea-ddbb-4614-abbe-a9d2746fd492/57230d5d-ba9c-4fcc-8aca-a77d6ba9b456/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Trump Facebook ban could be a fundraising hurdle for possible 2024 campaign, sources say"
+    excerpt: "The Facebook Oversight Board decision to uphold former President Trump’s ban from the platform could be “devastating” to his digital marketing and fundraising efforts for 2024, a source with Trump’s Facebook strategy told Fox News Wednesday, while others close to the former president said his fundraising"
+    publishedDateTime: 2021-05-05T17:26:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4kXmtfD_u28/facebooks-trump-ban"
+    ampWebUrl: "https://www.foxnews.com/politics/facebooks-trump-ban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebooks-trump-ban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Summer Zervos Lawsuit Against Donald Trump Can Move Forward"
-    excerpt: "New York’s highest court dismissed the former president’s challenge to the onetime “Apprentice” contestant’s defamation claims."
-    publishedDateTime: 2021-03-30T17:51:00Z
-    webUrl: "https://www.wsj.com/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269"
-    ampWebUrl: "https://www.wsj.com/amp/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/summer-zervos-lawsuit-against-donald-trump-can-move-forward-11617130269"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-318142/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Big Tech is out to ‘erase’ former President Trump: daughter-in-law"
-    excerpt: "Big Tech wants to “erase” former President Donald Trump, daughter-in-law Lara Trump said Thursday, adding that her father-in-law is “very upset” by the effort. Lara Trump spoke out one day ..."
-    publishedDateTime: 2021-04-01T20:35:00Z
-    webUrl: "https://nypost.com/2021/04/01/big-tech-is-out-to-erase-donald-trump-daughter-in-law/"
-    ampWebUrl: "https://nypost.com/2021/04/01/big-tech-is-out-to-erase-donald-trump-daughter-in-law/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/01/big-tech-is-out-to-erase-donald-trump-daughter-in-law/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/lara-trump-donald-interview-01.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump blasts big tech ‘censorship’ after interview pulled by Facebook"
-    excerpt: "Former President Donald Trump on Thursday night decried big tech “censorship” after an interview he gave to his daughter-in-law, Lara Trump, was taken off Facebook. “I did a very nice interview"
-    publishedDateTime: 2021-04-02T04:39:00Z
-    webUrl: "https://nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/"
-    ampWebUrl: "https://nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/02/trump-blasts-big-tech-after-interview-pulled-by-facebook/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/F9071EBA-D99C-4F65-A1BA-BBA41328E98D.jpeg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Where is Kamala? Not at the southern border; Lara Trump reacts"
-    excerpt: "Fox News Contributor Lara Trump slammed Kamala Harris Saturday on \"Watters' World\" for refusing to visit the southern border more than a week after the Vice President was tasked with managing the crisis,"
-    publishedDateTime: 2021-04-04T02:35:00Z
-    webUrl: "https://www.foxnews.com/politics/where-is-kamala-not-at-the-southern-border"
-    ampWebUrl: "https://www.foxnews.com/politics/where-is-kamala-not-at-the-southern-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/where-is-kamala-not-at-the-southern-border.amp"
+  - title: "Trump slams Facebook ban as 'total disgrace,' says Big Tech companies 'must pay a political price'"
+    excerpt: "Former President Trump on Wednesday slammed the Facebook Oversight Board’s decision to uphold his ban from Facebook and Instagram as a “total disgrace,” saying Big Tech companies “must pay a political price.”"
+    publishedDateTime: 2021-05-05T15:56:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OOII9ZPBuAc/trump-facebook-ban-reaction-big-tech-companies-political-price"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-facebook-ban-reaction-big-tech-companies-political-price.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-facebook-ban-reaction-big-tech-companies-political-price.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 161
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/100022f6-198e-455a-8560-ccb91f1ac4d9/83fb32f0-05d1-497b-b1f9-fe2008dabec4/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Decision on Donald Trump’s Facebook Ban Is Coming on Wednesday. Here’s How It Will Work."
+    excerpt: "Facebook’s independent oversight board said it would issue a ruling Wednesday morning that could determine whether the former president can return to the company’s Facebook and Instagram platforms."
+    publishedDateTime: 2021-05-03T14:53:00Z
+    webUrl: "https://www.wsj.com/articles/donald-trump-facebook-ban-decision-11620056600"
+    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-facebook-ban-decision-11620056600"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-facebook-ban-decision-11620056600"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 126
+    images:
+      - url: "https://images.wsj.net/im-333171/social"
         width: 1280
-        height: 720
+        height: 640
+        isCached: true
+  - title: "CNN's Brian Stelter complains that 'free speech advocates' on Facebook board may allow Trump back on platform"
+    excerpt: "CNN's left-wing media guru Brian Stelter seemed upset about the possibility that \"First Amendment absolutists\" at Facebook could allow former President Trump back on the platform."
+    publishedDateTime: 2021-05-05T03:57:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-brian-stelter-facebook-trump"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-brian-stelter-facebook-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-brian-stelter-facebook-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/056d89b0-94f1-408a-9cca-871ac178d1e2/0a6019c7-1875-4ad1-b68e-8410b6e3d6ff/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "AmBF5i0c42MyX7nrf+V/9mAvT+J6t+QmBfBXuCxCInZFnWu5mkXGWJQCoB0xcNcr9ZTkcCdvu7kl2poBthij83xgorLSie7z44lwiM09YU5lG9Uho9nKabn8+1wcd+6H+HUkuMk1+gBPLROknAu9JKrQGyBb6M/H+zid3jUXL0U334etsz0NDT+4hxyc8fCVIXY4HybbYZuDQAZbAwJ5ciWXVyeECGQq+HUawA+hMeBATNtYEUxE84yUbOemEqZ51MV0tcfLddaPWWRCYLhAXiFNvU5nzXUdvaTlDqBBggzHivZLh3NvCz1ZU98wb1dHB/4f5cVYlTcdUmWfSTeKrl4XSQkW3CQRozvXCVOZoOc=;U7n1tfF3Yjx5o5dqtCjzJQ=="

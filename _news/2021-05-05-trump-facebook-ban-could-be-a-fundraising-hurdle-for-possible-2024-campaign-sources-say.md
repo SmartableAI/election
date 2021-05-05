@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump slams Facebook ban as 'total disgrace,' says Big Tech companies 'must pay a political price'"
-excerpt: "Former President Trump on Wednesday slammed the Facebook Oversight Board’s decision to uphold his ban from Facebook and Instagram as a “total disgrace,” saying Big Tech companies “must pay a political price.”"
-publishedDateTime: 2021-05-05T15:56:19Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OOII9ZPBuAc/trump-facebook-ban-reaction-big-tech-companies-political-price"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OOII9ZPBuAc/trump-facebook-ban-reaction-big-tech-companies-political-price"
-ampWebUrl: "https://www.foxnews.com/politics/trump-facebook-ban-reaction-big-tech-companies-political-price.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-facebook-ban-reaction-big-tech-companies-political-price.amp"
+title: "Trump Facebook ban could be a fundraising hurdle for possible 2024 campaign, sources say"
+excerpt: "The Facebook Oversight Board decision to uphold former President Trump’s ban from the platform could be “devastating” to his digital marketing and fundraising efforts for 2024, a source with Trump’s Facebook strategy told Fox News Wednesday, while others close to the former president said his fundraising"
+publishedDateTime: 2021-05-05T17:26:15Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4kXmtfD_u28/facebooks-trump-ban"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4kXmtfD_u28/facebooks-trump-ban"
+ampWebUrl: "https://www.foxnews.com/politics/facebooks-trump-ban.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebooks-trump-ban.amp"
 type: article
-quality: 161
+quality: 166
 heat: -1
 published: false
 
@@ -63,17 +63,17 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Trump Facebook ban could be a fundraising hurdle for possible 2024 campaign, sources say"
-    excerpt: "The Facebook Oversight Board decision to uphold former President Trump’s ban from the platform could be “devastating” to his digital marketing and fundraising efforts for 2024, a source with Trump’s Facebook strategy told Fox News Wednesday, while others close to the former president said his fundraising"
-    publishedDateTime: 2021-05-05T17:26:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4kXmtfD_u28/facebooks-trump-ban"
-    ampWebUrl: "https://www.foxnews.com/politics/facebooks-trump-ban.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebooks-trump-ban.amp"
+  - title: "Trump slams Facebook ban as 'total disgrace,' says Big Tech companies 'must pay a political price'"
+    excerpt: "Former President Trump on Wednesday slammed the Facebook Oversight Board’s decision to uphold his ban from Facebook and Instagram as a “total disgrace,” saying Big Tech companies “must pay a political price.”"
+    publishedDateTime: 2021-05-05T15:56:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OOII9ZPBuAc/trump-facebook-ban-reaction-big-tech-companies-political-price"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-facebook-ban-reaction-big-tech-companies-political-price.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-facebook-ban-reaction-big-tech-companies-political-price.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 161
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
@@ -128,6 +128,6 @@ related:
         height: 405
         isCached: true
 
-secured: "7nLjNNNYo4ZU/LH/yWRKzDUFSM+8a3TYO8+oe7ETD4MB1rg4NB8d+DhQLiveAfuWVQD9pjx9HYyitBculVsVm6KppzJJKMyOseBW/Lwr9MdQiAhCwJJ+C/CC55TFahXK1cghjLCyYpyzE2bavWpgp2j9dmXNg3Qhn4+Zl5E7gwI4LXNrJMs8hY16GR4ZOJRqug0ygBREussPTdb5lu4zpH8UHTFzBzzaqW7w5Mz5cye6dDTaKWKq2+L2io4OumNjOHC2dk0sBZDmSewx6aThOG6Etdu1Mdn9AtsxBvhUa1/iZTfzuRMwzPeE6Lqgz7AGn/DQzGNBHksoszZFcz8QBFWzXgk0qquIlaeZZ90UNzo=;lpHVfJITzc5p82XXNRnEkw=="
+secured: "/VODZGg1bmviYwGxbspvXBYiaCYa0YrBYkDk8keaErHuuKGlf6vVhS1EN8IrCgvRqx/fGvHYhgCiv3d/kvNDpTP9vwx9hMDZvu+R9CYSAbvmvCGYyLWYJ0nHLizNF7lJ/UsERP8t8R0xV3RvMNNQmQ8MCCZmpg96JbPqAVSYvjvHZlK1U6xR8m2p6RTJux3om2cGq5GVv3oIoOjwfoBanf7Cq1yqj7jA0cQa8D+ClC6GNbNx/44fFkbBi4UFn7DM1UI7nJAfc4Oop9MmzXwVNLL6GjJtvWMBaHSPdFSOrH/Ijz902ViRsgSSF0D7E83v8Z+3o1N5YxvoAYz5rKX2scXXuLnmB6gJnT3B/XP47Es=;c0Bt7bwJZyDt4IgVVkPIAA=="
 ---
 

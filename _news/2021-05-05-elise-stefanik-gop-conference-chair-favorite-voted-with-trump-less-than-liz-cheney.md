@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Trump supports Elise Stefanik for House GOP conference chair amid Liz Cheney feud: sources"
-excerpt: "Former President Donald Trump supports Rep. Elise Stefanik to replace Rep. Liz Cheney as the House Republican conference chair, sources close to the former president tell Fox News. "
-publishedDateTime: 2021-05-05T13:31:26Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGBDKsL-pBo/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGBDKsL-pBo/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud"
-ampWebUrl: "https://www.foxnews.com/politics/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud.amp"
+title: "Elise Stefanik, GOP conference chair favorite, voted with Trump less than Liz Cheney"
+excerpt: "Rep. Elise Stefanik, the favorite to replace Rep. Liz Cheney as the House GOP conference chair, voted with former President Donald Trump less than Cheney and has lower voting scores from top conservative organizations."
+publishedDateTime: 2021-05-05T16:29:40Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZglNdJhJOc/cheney-stefanik-republicans-house-votes-trump-conservative"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZglNdJhJOc/cheney-stefanik-republicans-house-votes-trump-conservative"
+ampWebUrl: "https://www.foxnews.com/politics/cheney-stefanik-republicans-house-votes-trump-conservative.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-stefanik-republicans-house-votes-trump-conservative.amp"
 type: article
-quality: 165
-heat: -1
-published: false
+quality: 168
+heat: 248
+published: true
 
 provider:
   name: Fox News
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elise Stefanik, GOP conference chair favorite, voted with Trump less than Liz Cheney"
-    excerpt: "Rep. Elise Stefanik, the favorite to replace Rep. Liz Cheney as the House GOP conference chair, voted with former President Donald Trump less than Cheney and has lower voting scores from top conservative organizations."
-    publishedDateTime: 2021-05-05T16:29:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZglNdJhJOc/cheney-stefanik-republicans-house-votes-trump-conservative"
-    ampWebUrl: "https://www.foxnews.com/politics/cheney-stefanik-republicans-house-votes-trump-conservative.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-stefanik-republicans-house-votes-trump-conservative.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Rep. Liz Cheney's role as GOP conference chair facing renewed jeopardy amid Trump feud"
     excerpt: "Wyoming Rep. Liz Cheney’s ongoing feud with former President Donald Trump has sparked discussions among senior House GOP leadership about her future as the party’s conference chair, according to sources familiar with the situation."
     publishedDateTime: 2021-05-04T01:19:06Z
@@ -60,6 +44,22 @@ related:
     quality: 167
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump supports Elise Stefanik for House GOP conference chair amid Liz Cheney feud: sources"
+    excerpt: "Former President Donald Trump supports Rep. Elise Stefanik to replace Rep. Liz Cheney as the House Republican conference chair, sources close to the former president tell Fox News. "
+    publishedDateTime: 2021-05-05T13:31:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGBDKsL-pBo/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -94,6 +94,6 @@ related:
         height: 600
         isCached: true
 
-secured: "hpKNShuE2eJeyQ8PBN12TpwZM+RqUU8Bb1K4hvjw1yaiLDE+Vc0cIJtduQMDgvZ3ohliGeFxgrhAUnzl5W8S2eYVUZsGs7D9ehstX0872F88Ab0tV/nDrxxRYhfMq5dBzhQ885EDoX8LWG09++ae1TrJMuHv9ym186iEmyT8cKqLTIST2Q6jgiql4VpJCtrIbGg62grjviJyge+yPPEjpMZxOap5Mu4Gq+OF2/Ct1dfdUk5idcBW13e0h/vrRurNHikwqeXnYQc5tUbIAVLHI+pdw4wYjLopFtCSxUsWscvZdf9xhYgsjrXcGExKFTMRSCJcOvO85AEhJ6E4+5BqyR5p1VqVpq03gD72fkraHQI=;jAwoU+AOEoGxGl1R+07SIw=="
+secured: "Ae/KW/1TsAf9EDPrLi8X1rTT5x4B7Ljl/rPeu+nulggiRJYLdj55UbvXV36yaaZ0IF6bN/6wuUL50QMvoXIOk3KhBKU7CycGH30rW8gAYIIaQs4f6n36+5bOF8X40aIGH5zl3LkHICDALJMPDxGUDtcnVhNHtm9jcvySbGzufs/Xz6Vdjk9nvm0ZJm4e6ITtts+cXwoKh8tKeDI40JJPa44coJqvrdxQKUl6P8A8A/w6U58R1Ek1Jpeqctw5+dMyN57BC5DQ6OPiPpykXOaFTFTnoGM2PZQrvzebm7sdy3nvsoKPeNOWux2bfff4U1y6t7u+h+a9mN9yLt4v7ajAn8vmMZ0E7AcPDNkgQu1E+yU=;GOFugRJGgA4EuOYZ7EYuaA=="
 ---
 

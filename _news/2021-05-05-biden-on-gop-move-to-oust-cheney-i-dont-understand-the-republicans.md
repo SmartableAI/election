@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden tells trans Americans he has their back as GOP governors sign more anti-trans bills"
-excerpt: "President Joe Biden pledged his support for transgender Americans during his address to a joint session of Congress on Wednesday, telling members of the community he's standing by them at a time when they face a barrage of attacks by GOP-led state legislatures.\n    \n"
-publishedDateTime: 2021-04-29T17:23:12Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GrlKJ2KN80k/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GrlKJ2KN80k/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/biden-transgender-youth-joint-session-address/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/biden-transgender-youth-joint-session-address/index.html"
+title: "Biden on GOP move to oust Cheney: 'I don't understand the Republicans'"
+excerpt: "President Joe Biden on Wednesday offered his first public reaction to the House GOP's efforts to oust Rep. Liz Cheney from party leadership, saying simply: \"I don't understand the Republicans.\"\n    \n"
+publishedDateTime: 2021-05-05T16:47:56Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1ishJlO_1ug/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1ishJlO_1ug/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/joe-biden-liz-cheney/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/joe-biden-liz-cheney/index.html"
 type: article
-quality: 166
-heat: -1
-published: false
+quality: 175
+heat: 255
+published: true
 
 provider:
   name: CNN
@@ -25,28 +25,12 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428212311-17-biden-address-0428-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429105551-biden-liz-cheney-fist-bump-0428-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
-  - title: "Biden on GOP move to oust Cheney: 'I don't understand the Republicans'"
-    excerpt: "President Joe Biden on Wednesday offered his first public reaction to the House GOP's efforts to oust Rep. Liz Cheney from party leadership, saying simply: \"I don't understand the Republicans.\"\n    \n"
-    publishedDateTime: 2021-05-05T16:47:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1ishJlO_1ug/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/joe-biden-liz-cheney/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/joe-biden-liz-cheney/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429105551-biden-liz-cheney-fist-bump-0428-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Read Republican Sen. Tim Scott's response to Biden's address to Congress"
     excerpt: "South Carolina Sen. Tim Scott delivered the Republican response to President Joe Biden's address to Congress Wednesday night. Read his remarks as prepared for delivery:\n    \n"
     publishedDateTime: 2021-04-29T02:51:06Z
@@ -79,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden tells trans Americans he has their back as GOP governors sign more anti-trans bills"
+    excerpt: "President Joe Biden pledged his support for transgender Americans during his address to a joint session of Congress on Wednesday, telling members of the community he's standing by them at a time when they face a barrage of attacks by GOP-led state legislatures.\n    \n"
+    publishedDateTime: 2021-04-29T17:23:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GrlKJ2KN80k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/biden-transgender-youth-joint-session-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/biden-transgender-youth-joint-session-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428212311-17-biden-address-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Live Updates: Republicans Push for Biden to Shrink Infrastructure Plans"
     excerpt: "President Biden will meet this week with Republican senators on his infrastructure ambitions, which the senators want him to scale back and pay for without tax increases. Administration officials see some opportunities for compromise."
     publishedDateTime: 2021-05-03T08:45:00Z
@@ -96,6 +96,6 @@ related:
         height: 550
         isCached: true
 
-secured: "UvysjLo7A6hFo+yVw3sy8t5nPknRtbfMupbNwzkdsHQL5a24eSKTyKewCIV/8UcV65Npmo7hlZKMfpFqm9tPMYAt3aMD+OuNhVhYFpIV64BffvPHmSxnXKfgTwGQru9HMTGX6o8TbbH/A8WsIHMkQ4TH1BypdEULD/YJ0usL7npMSq/47aC9uJBJcg7ZrXW381RcKe3CJ9WmckW+m8qt15vJlZ29kW3ZmMNWpJTa5/5xa34WLnIVbEqPerJYZSnvTq/dXaBNxoRkvnk0FK9XfkD18/MIc3NAtBg/n+maCeEP7RFk8r+qsu8ymLRU6s33l4ZmNx6zB681VPF05FfhU0OJRPZsMdxOwAt2jXP64fA=;YOe6IQTAmIU4gehoPIgoew=="
+secured: "5POZnJNdyT97+UrrPaQHDmjKBfK0NGoxBK+zyrl350xSqTbcSiLoFBv2pGXg4tpRhOzr8HDObCPapMd3MMfTLReQ4tFCZ+J8h4lIDcQ5IlgvBFe4T+Puv1fZv5ka0XYj5e4v7ycDmHUT8s2WOOVAwTjR+DwmUeNcRLuksRmxhpjpDKYbH/T47NwtJL/DPumSjFYTN48sbKPFZGgJAvDweknGkjmq9zBh1Jl+Vbtt3/CoryhrpC4WvGNQdcYZXe7oOmG3f0rGusbR1KcBTEZBMhF7kEFwyDOvf6L8eiiuQjqxDNu01KgDBzbvH4b0d8fQ+uEL3ahg1KHDpv17d1373MDJTEoewdajlwasSeGz/XA=;2152wgP74/q+Sz95BokD2Q=="
 ---
 

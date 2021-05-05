@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/tim-scott-response-trans
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/tim-scott-response-transcript/index.html"
 type: article
 quality: 174
-heat: 274
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,37 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Republican House leader Kevin McCarthy repeats debunked claim that Biden is trying to impose meat limits "
-    excerpt: "By Monday, numerous media outlets had debunked the viral false claim that President Joe Biden has proposed to restrict how much red meat Americans are allowed to eat. Even a Fox News anchor admitted on air on Monday afternoon that the claim was inaccurate.\n    \n"
-    publishedDateTime: 2021-04-29T18:54:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EPghEnEPet0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/fact-check-kevin-mccarthy-biden-red-meat-limit-four-pounds/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/fact-check-kevin-mccarthy-biden-red-meat-limit-four-pounds/index.html"
+  - title: "Biden on GOP move to oust Cheney: 'I don't understand the Republicans'"
+    excerpt: "President Joe Biden on Wednesday offered his first public reaction to the House GOP's efforts to oust Rep. Liz Cheney from party leadership, saying simply: \"I don't understand the Republicans.\"\n    \n"
+    publishedDateTime: 2021-05-05T16:47:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1ishJlO_1ug/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/joe-biden-liz-cheney/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/joe-biden-liz-cheney/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 158
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420081324-02-kevin-mccarthy-0415-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429105551-biden-liz-cheney-fist-bump-0428-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to transgender Americans: 'Your president has your back.'"
-    excerpt: "President Biden's remarks, made during his first joint address to Congress, comes amid a wave of state bills targeting transgender people."
-    publishedDateTime: 2021-04-29T13:55:00Z
-    webUrl: "https://www.nbcnews.com/feature/nbc-out/biden-transgender-americans-your-president-has-your-back-n1265836"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265836"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265836"
+  - title: "Joe Biden can't stop thinking about China and the future of American democracy"
+    excerpt: "White House aides were prepping President Joe Biden to virtually tour an electric vehicle battery manufacturing plant last week when the President suddenly shifted the conversation to something else entirely: China and the fate of democracy.\n    \n"
+    publishedDateTime: 2021-04-29T12:16:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fDLTDtTwHrE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/president-joe-biden-china-democracy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/president-joe-biden-china-democracy/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 171
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_17/3468920/210429-joe-biden-jm-0914_55d23117dd074be99cdfcda3fe86cb9b.jpg"
-        width: 2040
-        height: 1360
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428220345-41-biden-address-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden tells trans Americans he has their back as GOP governors sign more anti-trans bills"
+    excerpt: "President Joe Biden pledged his support for transgender Americans during his address to a joint session of Congress on Wednesday, telling members of the community he's standing by them at a time when they face a barrage of attacks by GOP-led state legislatures.\n    \n"
+    publishedDateTime: 2021-04-29T17:23:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GrlKJ2KN80k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/biden-transgender-youth-joint-session-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/biden-transgender-youth-joint-session-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428212311-17-biden-address-0428-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Live Updates: Republicans Push for Biden to Shrink Infrastructure Plans"
     excerpt: "President Biden will meet this week with Republican senators on his infrastructure ambitions, which the senators want him to scale back and pay for without tax increases. Administration officials see some opportunities for compromise."
@@ -78,38 +94,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/05/03/us/politics/03new-washington-briefing-promo2/03new-washington-briefing-promo2-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Republicans unveil $568 billion counterproposal to Biden's infrastructure plan"
-    excerpt: "The White House is evaluating a $568 billion Republican counterproposal to President Joe Biden's sprawling $2.25 trillion infrastructure package, and sees it as a starting point for negotiations. White House aides plan to look into the details of the proposal and discuss it with congressional staff in the coming days,"
-    publishedDateTime: 2021-04-22T18:58:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/republicans-unveil-568-billion-counter-proposal-biden-s-infrastructure-plan-n1264936"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1264936"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264936"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_16/3466939/210422-shelley-moore-capito-jm-1138_ebc49713bcf775ce2e8483ee5d505c5d.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
-  - title: "Rep. Clyburn hopes Biden will find 'common ground' in Congress for ambitious plans"
-    excerpt: "S.C., a key advisor to Joe Biden said he does not think the president will get everything he proposed in his address to Congress, but thinks he will get a “significant portion.”"
-    publishedDateTime: 2021-04-29T03:17:00Z
-    webUrl: "https://www.nbcnews.com/video/rep-clyburn-hopes-biden-will-find-common-ground-in-congress-for-ambitious-plans-111028805601"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111028805601"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111028805601"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202104/1619666124902_nbc_spec_clyburn_biden_210428_1920x1080.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "ePxFT6Puij3Do/bhj6ASWJ1l9Y+Db+8BNXlcSq4FTk79nkoc2zB6MVAFqKRhjHn2WRRI0vBZ/WCC2E81jIIh60TZkaSjTiZ9zt903th/j/FMmGG99JEgd0ROMtO+/HhumUURgGGEaMLd18lpSWHwPccXozbi16g3brkiFhdOrh968RvY1cOwXZO4oenhjGegeikgFMB0381FgR+dE0DU5T6tSrN00/qFm6sv6CodMJIel3e2J3/EVtWZXSoC7G7iyvUkcS9kLkEM5CmfvGMunZL7080DXffGb9yrgRKJD1WngvTkYL9j6hxQ1ua0HgL/itr3rosmQNcGAeMWpCxNIVt7w7CTXuYEHcHXB14+i/E=;vaH+IFIi9KKdPmj5UK+hUg=="

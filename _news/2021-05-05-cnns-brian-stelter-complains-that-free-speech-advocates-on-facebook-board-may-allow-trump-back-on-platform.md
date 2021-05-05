@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Democrats Schiff, Omar celebrate Facebook's indefinite Trump ban"
+    excerpt: "Democrats, including Rep. Adam Schiff, D-Calif., and Rep. Ilhan Omar, D-Minn., praised Facebook's indefinite ban of former President Trump."
+    publishedDateTime: 2021-05-05T16:58:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cAQHKJdDo78/schiff-omar-democrats-facebook-trump-ban"
+    ampWebUrl: "https://www.foxnews.com/politics/schiff-omar-democrats-facebook-trump-ban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schiff-omar-democrats-facebook-trump-ban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7338d066-a169-425e-98b8-3f7f1df557ed/ff69bda7-feee-43c0-b834-08e1c3668882/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Trump ban: Republicans threaten to break up Facebook after Oversight Board decision"
     excerpt: "Republican members of Congress will do everything in their power to break up Facebook, Trump's former chief of staff said."
     publishedDateTime: 2021-05-05T14:42:18Z
@@ -48,19 +64,19 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Top Republicans McCarthy, Scalise back Stefanik as Cheney replacement amid battle over Trump"
-    excerpt: "The top two Republicans in the House are behind Rep. Elise Stefanik's efforts to replace Rep. Liz Cheney as Republican conference chair as the party continues to grapple over former President Trump's future role, according to a report. "
-    publishedDateTime: 2021-05-05T12:25:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x3400qqbMFw/republican-leaders-stefanik-cheney-house-conference-chair-trump-election"
-    ampWebUrl: "https://www.foxnews.com/politics/republican-leaders-stefanik-cheney-house-conference-chair-trump-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-leaders-stefanik-cheney-house-conference-chair-trump-election.amp"
+  - title: "Trump Facebook ban could be a fundraising hurdle for possible 2024 campaign, sources say"
+    excerpt: "The Facebook Oversight Board decision to uphold former President Trump’s ban from the platform could be “devastating” to his digital marketing and fundraising efforts for 2024, a source with Trump’s Facebook strategy told Fox News Wednesday, while others close to the former president said his fundraising"
+    publishedDateTime: 2021-05-05T17:26:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4kXmtfD_u28/facebooks-trump-ban"
+    ampWebUrl: "https://www.foxnews.com/politics/facebooks-trump-ban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebooks-trump-ban.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -79,6 +95,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump Copes With Facebook, Twitter Ban by Relying on Email, Media Interviews"
+    excerpt: "President Donald Trump used to reach tens of millions of people with a tweet. Now, the former president, unable since January to tweet or post to YouTube or Facebook, has been relying on email blasts to make statements,"
+    publishedDateTime: 2021-05-05T13:49:00Z
+    webUrl: "https://www.wsj.com/articles/trump-copes-with-facebook-twitter-ban-by-relying-on-email-media-interviews-11620226189"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-copes-with-facebook-twitter-ban-by-relying-on-email-media-interviews-11620226189"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-copes-with-facebook-twitter-ban-by-relying-on-email-media-interviews-11620226189"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 132
+    images:
+      - url: "https://images.wsj.net/im-333926/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Decision on Donald Trump’s Facebook Ban Is Coming on Wednesday. Here’s How It Will Work."
     excerpt: "Facebook’s independent oversight board said it would issue a ruling Wednesday morning that could determine whether the former president can return to the company’s Facebook and Instagram platforms."

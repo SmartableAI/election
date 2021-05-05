@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Trump slams Facebook ban as 'total disgrace,' says Big Tech companies 'must pay a political price'"
-excerpt: "Former President Trump on Wednesday slammed the Facebook Oversight Board’s decision to uphold his ban from Facebook and Instagram as a “total disgrace,” saying Big Tech companies “must pay a political price.”"
-publishedDateTime: 2021-05-05T15:56:19Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OOII9ZPBuAc/trump-facebook-ban-reaction-big-tech-companies-political-price"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OOII9ZPBuAc/trump-facebook-ban-reaction-big-tech-companies-political-price"
-ampWebUrl: "https://www.foxnews.com/politics/trump-facebook-ban-reaction-big-tech-companies-political-price.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-facebook-ban-reaction-big-tech-companies-political-price.amp"
+title: "Democrats Schiff, Omar celebrate Facebook's indefinite Trump ban"
+excerpt: "Democrats, including Rep. Adam Schiff, D-Calif., and Rep. Ilhan Omar, D-Minn., praised Facebook's indefinite ban of former President Trump."
+publishedDateTime: 2021-05-05T16:58:59Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cAQHKJdDo78/schiff-omar-democrats-facebook-trump-ban"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cAQHKJdDo78/schiff-omar-democrats-facebook-trump-ban"
+ampWebUrl: "https://www.foxnews.com/politics/schiff-omar-democrats-facebook-trump-ban.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schiff-omar-democrats-facebook-trump-ban.amp"
 type: article
-quality: 161
-heat: -1
-published: false
+quality: 175
+heat: 295
+published: true
 
 provider:
   name: Fox News
@@ -25,28 +25,12 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7338d066-a169-425e-98b8-3f7f1df557ed/ff69bda7-feee-43c0-b834-08e1c3668882/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
-  - title: "Democrats Schiff, Omar celebrate Facebook's indefinite Trump ban"
-    excerpt: "Democrats, including Rep. Adam Schiff, D-Calif., and Rep. Ilhan Omar, D-Minn., praised Facebook's indefinite ban of former President Trump."
-    publishedDateTime: 2021-05-05T16:58:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cAQHKJdDo78/schiff-omar-democrats-facebook-trump-ban"
-    ampWebUrl: "https://www.foxnews.com/politics/schiff-omar-democrats-facebook-trump-ban.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schiff-omar-democrats-facebook-trump-ban.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7338d066-a169-425e-98b8-3f7f1df557ed/ff69bda7-feee-43c0-b834-08e1c3668882/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Trump ban: Republicans threaten to break up Facebook after Oversight Board decision"
     excerpt: "Republican members of Congress will do everything in their power to break up Facebook, Trump's former chief of staff said."
     publishedDateTime: 2021-05-05T14:42:18Z
@@ -74,6 +58,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump slams Facebook ban as 'total disgrace,' says Big Tech companies 'must pay a political price'"
+    excerpt: "Former President Trump on Wednesday slammed the Facebook Oversight Board’s decision to uphold his ban from Facebook and Instagram as a “total disgrace,” saying Big Tech companies “must pay a political price.”"
+    publishedDateTime: 2021-05-05T15:56:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OOII9ZPBuAc/trump-facebook-ban-reaction-big-tech-companies-political-price"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-facebook-ban-reaction-big-tech-companies-political-price.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-facebook-ban-reaction-big-tech-companies-political-price.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
@@ -128,6 +128,6 @@ related:
         height: 405
         isCached: true
 
-secured: "7nLjNNNYo4ZU/LH/yWRKzDUFSM+8a3TYO8+oe7ETD4MB1rg4NB8d+DhQLiveAfuWVQD9pjx9HYyitBculVsVm6KppzJJKMyOseBW/Lwr9MdQiAhCwJJ+C/CC55TFahXK1cghjLCyYpyzE2bavWpgp2j9dmXNg3Qhn4+Zl5E7gwI4LXNrJMs8hY16GR4ZOJRqug0ygBREussPTdb5lu4zpH8UHTFzBzzaqW7w5Mz5cye6dDTaKWKq2+L2io4OumNjOHC2dk0sBZDmSewx6aThOG6Etdu1Mdn9AtsxBvhUa1/iZTfzuRMwzPeE6Lqgz7AGn/DQzGNBHksoszZFcz8QBFWzXgk0qquIlaeZZ90UNzo=;lpHVfJITzc5p82XXNRnEkw=="
+secured: "bZWkgPCDXpWNeecQNndmWKuQxR5/7XqsE+D7hUs2OMSyniunisGRlsbahNRBblH1jEh68TEMq2stxAxxZZDUanJa16aACVyFp+w1iD2LZ54PuDBUk4Mz1A+ODNhtgA9/ynUV+lRlJ7OXUVj+9dC54jAgBrUUoK2/levsKVMfhtuvXsunuHI9Fo2eAc+s+Bf2Gw9LC3Jmv8ins8+MB9AEs8n4zbqY3DFcGz1Gv87xAZzrjarkOWTpG2fUqX55s7KDtZqvQR6szD4bfabfy2uoBex6s+1gGHkLRy5nC75JFhccE5EOjTLKeLjF3o+CZpGXaPhT737OoTQkwznuJyCgUeGOliJiLHjZ5+oxQ1V7Yok=;JKA4R6NSElp8pMCMDFnvHQ=="
 ---
 

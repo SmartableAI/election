@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/joe-biden-economy-2022-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/joe-biden-economy-2022-elections/index.html"
 type: article
 quality: 162
-heat: -1
-published: false
+heat: 182
+published: true
 
 provider:
   name: CNN
@@ -31,85 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden can't stop thinking about China and the future of American democracy"
-    excerpt: "White House aides were prepping President Joe Biden to virtually tour an electric vehicle battery manufacturing plant last week when the President suddenly shifted the conversation to something else entirely: China and the fate of democracy.\n    \n"
-    publishedDateTime: 2021-04-29T12:16:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fDLTDtTwHrE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/president-joe-biden-china-democracy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/president-joe-biden-china-democracy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428220345-41-biden-address-0428-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden tells trans Americans he has their back as GOP governors sign more anti-trans bills"
-    excerpt: "President Joe Biden pledged his support for transgender Americans during his address to a joint session of Congress on Wednesday, telling members of the community he's standing by them at a time when they face a barrage of attacks by GOP-led state legislatures.\n    \n"
-    publishedDateTime: 2021-04-29T17:23:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GrlKJ2KN80k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/biden-transgender-youth-joint-session-address/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/biden-transgender-youth-joint-session-address/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428212311-17-biden-address-0428-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'Most certainly': Manchin raises concerns about Biden's push for more expansive government"
-    excerpt: "Sen. Joe Manchin, the powerful West Virginia Democrat, made clear Thursday that the aggressive vision for the federal government that President Joe Biden laid out to the nation must first face scrutiny in Congress, signaling the long slog ahead facing the White House's sweeping domestic agenda.\n    \n"
-    publishedDateTime: 2021-04-29T15:47:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K1Csfmoz1l4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/joe-manchin-biden-reaction/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/joe-manchin-biden-reaction/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223152543-joe-manchin-january-27-2021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden: 'I am not anti-corporate but it's time they start paying their fair share'"
-    excerpt: "President Joe Biden suggested giving working class and middle class families tax breaks instead of just the very wealthy. Biden said it will be paid for by making sure that corprate America and the wealthy \"pay their fair share."
-    publishedDateTime: 2021-05-03T17:49:00Z
-    webUrl: "https://www.nbcnews.com/now/video/biden-suggests-giving-tax-breaks-to-working-class-families-111259205885"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111259205885"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111259205885"
+  - title: "Biden to transgender Americans: 'Your president has your back.'"
+    excerpt: "President Biden's remarks, made during his first joint address to Congress, comes amid a wave of state bills targeting transgender people."
+    publishedDateTime: 2021-04-29T13:55:00Z
+    webUrl: "https://www.nbcnews.com/feature/nbc-out/biden-transgender-americans-your-president-has-your-back-n1265836"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265836"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265836"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 130
+    quality: 135
     images:
-      - url: "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/1620064002102_ott_now_biden_taxcuts_workingclass_210503_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "President Biden: ‘American leadership means ending the forever war in Afghanistan’"
-    excerpt: "President Joe Biden said after “20-years of valor and sacrifice” its time to bring the troops in Afghanistan home."
-    publishedDateTime: 2021-04-29T02:08:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-talks-bringing-troops-in-afghanistan-home-after-20-years-111026245653"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111026245653"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111026245653"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202104/1619662015732_nbc_spec_biden_afghanistan_210428_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_17/3468920/210429-joe-biden-jm-0914_55d23117dd074be99cdfcda3fe86cb9b.jpg"
+        width: 2040
+        height: 1360
         isCached: true
 
 secured: "HiP6WnKlNoOP6CebqWnumEfKzxNGyRhfl8SsFWYFWkC6GITP0xzfXstwmzRo5J6q7pH9U/SOhmBuarvckl+zkqTghaypWrpJq+kN7Hq5AeU6AnL80ZdnyQPbAlrg1U7RFQATbvzxLvwYyYmcgZny47k4Fuc9bOYDPO9cfgJFaWYhNwQVB/EfoaXjDvkBVN+ELE0dX/7noxZadECDhGuAIUlTS6OG8fF9rekpBQS6xas7cGqYhhns1ALObcdzzEb0X3tI52+pPwRcj0VwjN8fyfVEzDV+eeZbvjb2nSQ8rsLCC7uMGldseKdKzS54A877j8eub7VyVk77qx5+ahfwuZj3KqINTY5bF8453i/Dt6M=;neQXERU1DfybW6CdgDuPMg=="

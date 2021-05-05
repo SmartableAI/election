@@ -32,85 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Read Republican Sen. Tim Scott's response to Biden's address to Congress"
-    excerpt: "South Carolina Sen. Tim Scott delivered the Republican response to President Joe Biden's address to Congress Wednesday night. Read his remarks as prepared for delivery:\n    \n"
-    publishedDateTime: 2021-04-29T02:51:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TW_xqFteXYI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/tim-scott-response-transcript/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/tim-scott-response-transcript/index.html"
+  - title: "Biden invites Capito to the White House on infrastructure but warns 'it's a no-go from me' if GOP doesn't meet him halfway"
+    excerpt: "President Joe Biden has invited Sen. Shelly Moore Capito back to the White House to discuss infrastructure, the President told reporters Thursday, a week after the West Virginia Republican unveiled a counterproposal to the White House's $2 trillion package.\n    \n"
+    publishedDateTime: 2021-04-30T02:46:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rGawJ0ozSH0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/infrastructure-joe-biden-shelley-moore-capito/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/infrastructure-joe-biden-shelley-moore-capito/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 149
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428223039-gop-response-tim-scott-0428-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210426201308-biden-march-19-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Republican House leader Kevin McCarthy repeats debunked claim that Biden is trying to impose meat limits "
-    excerpt: "By Monday, numerous media outlets had debunked the viral false claim that President Joe Biden has proposed to restrict how much red meat Americans are allowed to eat. Even a Fox News anchor admitted on air on Monday afternoon that the claim was inaccurate.\n    \n"
-    publishedDateTime: 2021-04-29T18:54:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EPghEnEPet0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/fact-check-kevin-mccarthy-biden-red-meat-limit-four-pounds/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/fact-check-kevin-mccarthy-biden-red-meat-limit-four-pounds/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 158
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420081324-02-kevin-mccarthy-0415-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to transgender Americans: 'Your president has your back.'"
-    excerpt: "President Biden's remarks, made during his first joint address to Congress, comes amid a wave of state bills targeting transgender people."
-    publishedDateTime: 2021-04-29T13:55:00Z
-    webUrl: "https://www.nbcnews.com/feature/nbc-out/biden-transgender-americans-your-president-has-your-back-n1265836"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265836"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265836"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_17/3468920/210429-joe-biden-jm-0914_55d23117dd074be99cdfcda3fe86cb9b.jpg"
-        width: 2040
-        height: 1360
-        isCached: true
-  - title: "Live Updates: Republicans Push for Biden to Shrink Infrastructure Plans"
-    excerpt: "President Biden will meet this week with Republican senators on his infrastructure ambitions, which the senators want him to scale back and pay for without tax increases. Administration officials see some opportunities for compromise."
-    publishedDateTime: 2021-05-03T08:45:00Z
-    webUrl: "https://www.nytimes.com/live/2021/05/03/us/joe-biden-news"
-    ampWebUrl: "https://www.nytimes.com/live/2021/05/03/us/joe-biden-news.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/05/03/us/joe-biden-news.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/03/us/politics/03new-washington-briefing-promo2/03new-washington-briefing-promo2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Rep. Clyburn hopes Biden will find 'common ground' in Congress for ambitious plans"
-    excerpt: "S.C., a key advisor to Joe Biden said he does not think the president will get everything he proposed in his address to Congress, but thinks he will get a “significant portion.”"
-    publishedDateTime: 2021-04-29T03:17:00Z
-    webUrl: "https://www.nbcnews.com/video/rep-clyburn-hopes-biden-will-find-common-ground-in-congress-for-ambitious-plans-111028805601"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111028805601"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111028805601"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202104/1619666124902_nbc_spec_clyburn_biden_210428_1920x1080.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "23CsHSrIIiulWi/KhYnQdDj11uT7smJnb2Qd8vlsmK9MuIw0vXaSJc/q2wzGmkrjzIm1K7ufz7fTf39XCTdhCk4rZ1W+vjFk5Liu+bI8vYLehr18lh2u9ilksDK0KdXy0mrls0Sfh4XQInAPS14yqCqZP7vwKHE3IPs4IEjfOGikghs8wvl/jcrb9oD96P8Mx5eUWJpOPyrQ+XH8qicwq2cWNSCxjlR+tYqsr0TTpYBLYebBtHANN6kG9Mc2gDkj2BeOZLxK+oTTcvAm6N/dB5yCYPZQkTi0k7sgv+l7L2e+QGof3aqV7F6r/AzbSg24xqTk4EiMc7q2c32sL099zH8td3Fcas1XbPw9ZQVJZ5qD5aeFVHzUMwnYvSG3RrBkro1QyXKZxAL0N6df+V2KE/96qZ+zdOcumD6fk+lld/J02UbDBmKst3PHXmJGnfAR+l1WB9MzdXOdmR014rCOPOnf0ahHz6JOGlhLf0jtqaMoH3rKGDHbGBsXF+SflIINvfLrqrSodx4Oee2tElT/rQ==;p9Jydkw8xWcJIBIeFKOjSA=="

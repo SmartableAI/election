@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/facebook-removes-trump-interview-vi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-removes-trump-interview-video-daughter-in-law-lara-trump.amp"
 type: article
 quality: 174
-heat: 274
+heat: 254
 published: true
 
 provider:
@@ -94,22 +94,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/100022f6-198e-455a-8560-ccb91f1ac4d9/83fb32f0-05d1-497b-b1f9-fe2008dabec4/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump Copes With Facebook, Twitter Ban by Relying on Email, Media Interviews"
-    excerpt: "President Donald Trump used to reach tens of millions of people with a tweet. Now, the former president, unable since January to tweet or post to YouTube or Facebook, has been relying on email blasts to make statements,"
-    publishedDateTime: 2021-05-05T13:49:00Z
-    webUrl: "https://www.wsj.com/articles/trump-copes-with-facebook-twitter-ban-by-relying-on-email-media-interviews-11620226189"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-copes-with-facebook-twitter-ban-by-relying-on-email-media-interviews-11620226189"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-copes-with-facebook-twitter-ban-by-relying-on-email-media-interviews-11620226189"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 132
-    images:
-      - url: "https://images.wsj.net/im-333926/social"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "7IdAQuqJeXVIVoRS/cUkPYeJyXgP3Eph8vhy+gLvqMZkdLyH/FkXBUngaIoEyUKmebC2zgmHD6HMSlse5KnhF764/BfYCd3GV+QDTKDMRfswBAHjUoFNRedhyFZhXeFWMMUTsPOG2IsMP4YpmDLN56uRZnWAzt8ZYChTRMrgebInqMKXh1XfV8/U4DTIWsBKmsan1wTuGuhpU052blROF4rEL+pxmsgkKM6+yp90Ru1ZHTHKqifIAZ30IDySECaWiPdOQm6GhpQWE/G/cd+4YWLO0kPDhTtClrTUnb9hfqWz/7sd8+y8Ct4mdIodWU/gjJL0FfXNyQeo7NXWQy/4JJauFuWTZo2ygqihjzsh5YE=;zRSOGj4mHgFF8y5EqjCUiQ=="

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-05-biden-on-gop-move-to-oust-cheney-i-dont-understand-the-republicans.md",
+      "title": "Biden on GOP move to oust Cheney: 'I don't understand the Republicans'",
+      "excerpt": "President Joe Biden on Wednesday offered his first public reaction to the House GOP's efforts to oust Rep. Liz Cheney from party leadership, saying simply: \"I don't understand the Republicans.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1ishJlO_1ug/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1ishJlO_1ug/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210429105551-biden-liz-cheney-fist-bump-0428-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/05/politics/joe-biden-liz-cheney/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/joe-biden-liz-cheney/index.html",
+      "publishedDateTime": "2021-05-05T09:47:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-the-point-donald-trump-may-be-banned-from-facebook-but-trumpism-dominates-it.md",
       "title": "The Point: Donald Trump may be banned from Facebook. But Trumpism dominates it.",
       "excerpt": "The decision by the Facebook Oversight Board to uphold Donald Trump's ban from the social media behemoth was immediately celebrated by opponents of the the former Pesident, who saw the ruling as another step to putting him in the rear view mirror of our politics and our culture.\n    \n",
@@ -283,6 +339,63 @@
       ]
     },
     {
+      "path": "_news/2021-05-04-biden-i-am-not-anti-corporate-but-its-time-they-start-paying-their-fair-share.md",
+      "title": "Biden: 'I am not anti-corporate but it's time they start paying their fair share'",
+      "excerpt": "President Joe Biden suggested giving working class and middle class families tax breaks instead of just the very wealthy. Biden said it will be paid for by making sure that corprate America and the wealthy \"pay their fair share.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/biden-suggests-giving-tax-breaks-to-working-class-families-111259205885",
+      "originalUrl": "https://www.nbcnews.com/now/video/biden-suggests-giving-tax-breaks-to-working-class-families-111259205885",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/1620064002102_ott_now_biden_taxcuts_workingclass_210503_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo111259205885",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111259205885",
+      "publishedDateTime": "2021-05-03T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-biden-team-may-partner-with-private-firms-to-surveil-suspected-domestic-terrorists-online.md",
       "title": "Biden team may partner with private firms to surveil suspected domestic terrorists online",
       "excerpt": "The Biden administration is considering using outside firms to track extremist chatter by Americans online, an effort that would expand the government's ability to gather intelligence but could draw criticism over surveillance of US citizens.\n    \n",
@@ -508,6 +621,62 @@
       ]
     },
     {
+      "path": "_news/2021-04-30-bidens-economic-push-tests-the-power-of-pocketbook-issues-to-sway-americas-polarized-electorate.md",
+      "title": "Biden's economic push tests the power of pocketbook issues to sway America's polarized electorate",
+      "excerpt": "A building Biden boom may be about to reshape America's politics.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JwUmC_v6dVw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JwUmC_v6dVw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210429184410-biden-discurso-comunicativo-mensaje-congreso-roberto-izurieta-aristegui-mexico-00000921-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/30/politics/joe-biden-economy-2022-elections/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/joe-biden-economy-2022-elections/index.html",
+      "publishedDateTime": "2021-04-29T21:31:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-biden-invites-capito-to-the-white-house-on-infrastructure-but-warns-its-a-no-go-from-me-if-gop-doesnt-meet-him-halfway.md",
       "title": "Biden invites Capito to the White House on infrastructure but warns 'it's a no-go from me' if GOP doesn't meet him halfway",
       "excerpt": "President Joe Biden has invited Sen. Shelly Moore Capito back to the White House to discuss infrastructure, the President told reporters Thursday, a week after the West Virginia Republican unveiled a counterproposal to the White House's $2 trillion package.\n    \n",
@@ -520,7 +689,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 149,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -734,6 +903,62 @@
       ]
     },
     {
+      "path": "_news/2021-04-29-republican-house-leader-kevin-mccarthy-repeats-debunked-claim-that-biden-is-trying-to-impose-meat-limits.md",
+      "title": "Republican House leader Kevin McCarthy repeats debunked claim that Biden is trying to impose meat limits ",
+      "excerpt": "By Monday, numerous media outlets had debunked the viral false claim that President Joe Biden has proposed to restrict how much red meat Americans are allowed to eat. Even a Fox News anchor admitted on air on Monday afternoon that the claim was inaccurate.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EPghEnEPet0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EPghEnEPet0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210420081324-02-kevin-mccarthy-0415-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/29/politics/fact-check-kevin-mccarthy-biden-red-meat-limit-four-pounds/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/fact-check-kevin-mccarthy-biden-red-meat-limit-four-pounds/index.html",
+      "publishedDateTime": "2021-04-29T11:54:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-in-her-first-100-days-jill-biden-shows-shes-not-her-predecessor.md",
       "title": "In her first 100 days, Jill Biden shows she's not her predecessor",
       "excerpt": "Jill Biden has no time for dawdling; she has work to do. At a vaccine clinic in Albuquerque, New Mexico, last week, sensing hesitancy from a woman waiting to get her first shot, the first lady spoke up: \"It's, like, so fast.\" The woman said she was scared, so Biden went to stand next to her. With an",
@@ -843,6 +1068,62 @@
       "topics": [
         "Election",
         "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-most-certainly-manchin-raises-concerns-about-bidens-push-for-more-expansive-government.md",
+      "title": "'Most certainly': Manchin raises concerns about Biden's push for more expansive government",
+      "excerpt": "Sen. Joe Manchin, the powerful West Virginia Democrat, made clear Thursday that the aggressive vision for the federal government that President Joe Biden laid out to the nation must first face scrutiny in Congress, signaling the long slog ahead facing the White House's sweeping domestic agenda.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K1Csfmoz1l4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K1Csfmoz1l4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210223152543-joe-manchin-january-27-2021-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/29/politics/joe-manchin-biden-reaction/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/joe-manchin-biden-reaction/index.html",
+      "publishedDateTime": "2021-04-29T08:47:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Democratic Voice"
       ]
     },
@@ -960,25 +1241,25 @@
       ]
     },
     {
-      "path": "_news/2021-04-29-joe-biden-cant-stop-thinking-about-china-and-the-future-of-american-democracy.md",
-      "title": "Joe Biden can't stop thinking about China and the future of American democracy",
-      "excerpt": "White House aides were prepping President Joe Biden to virtually tour an electric vehicle battery manufacturing plant last week when the President suddenly shifted the conversation to something else entirely: China and the fate of democracy.\n    \n",
+      "path": "_news/2021-04-29-rep-clyburn-hopes-biden-will-find-common-ground-in-congress-for-ambitious-plans.md",
+      "title": "Rep. Clyburn hopes Biden will find 'common ground' in Congress for ambitious plans",
+      "excerpt": "S.C., a key advisor to Joe Biden said he does not think the president will get everything he proposed in his address to Congress, but thinks he will get a “significant portion.”",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fDLTDtTwHrE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fDLTDtTwHrE/index.html",
+      "webUrl": "https://www.nbcnews.com/video/rep-clyburn-hopes-biden-will-find-common-ground-in-congress-for-ambitious-plans-111028805601",
+      "originalUrl": "https://www.nbcnews.com/video/rep-clyburn-hopes-biden-will-find-common-ground-in-congress-for-ambitious-plans-111028805601",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 271,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210428220345-41-biden-address-0428-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202104/1619666124902_nbc_spec_clyburn_biden_210428_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -986,16 +1267,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/29/politics/president-joe-biden-china-democracy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/president-joe-biden-china-democracy/index.html",
-      "publishedDateTime": "2021-04-29T05:16:33-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo111028805601",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111028805601",
+      "publishedDateTime": "2021-04-28T20:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "NBC News",
+        "domain": "nbcnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1012,29 +1293,30 @@
       ],
       "topics": [
         "Election",
+        "Joe Biden",
         "Democratic Voice"
       ]
     },
     {
-      "path": "_news/2021-04-29-read-republican-sen-tim-scotts-response-to-bidens-address-to-congress.md",
-      "title": "Read Republican Sen. Tim Scott's response to Biden's address to Congress",
-      "excerpt": "South Carolina Sen. Tim Scott delivered the Republican response to President Joe Biden's address to Congress Wednesday night. Read his remarks as prepared for delivery:\n    \n",
+      "path": "_news/2021-04-29-president-biden-american-leadership-means-ending-the-forever-war-in-afghanistan.md",
+      "title": "President Biden: ‘American leadership means ending the forever war in Afghanistan’",
+      "excerpt": "President Joe Biden said after “20-years of valor and sacrifice” its time to bring the troops in Afghanistan home.",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TW_xqFteXYI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TW_xqFteXYI/index.html",
+      "webUrl": "https://www.nbcnews.com/video/biden-talks-bringing-troops-in-afghanistan-home-after-20-years-111026245653",
+      "originalUrl": "https://www.nbcnews.com/video/biden-talks-bringing-troops-in-afghanistan-home-after-20-years-111026245653",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 274,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210428223039-gop-response-tim-scott-0428-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202104/1619662015732_nbc_spec_biden_afghanistan_210428_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1042,16 +1324,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/28/politics/tim-scott-response-transcript/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/tim-scott-response-transcript/index.html",
-      "publishedDateTime": "2021-04-28T19:51:06-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo111026245653",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111026245653",
+      "publishedDateTime": "2021-04-28T19:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "NBC News",
+        "domain": "nbcnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1068,6 +1350,7 @@
       ],
       "topics": [
         "Election",
+        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -1406,288 +1689,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-25-kamala-harris-cements-her-place-in-bidens-inner-circle-during-a-consequential-week.md",
-      "title": "Kamala Harris cements her place in Biden's inner circle during a consequential week",
-      "excerpt": "Vice President Kamala Harris was huddled with other White House officials in President Joe Biden's private dining room last week when the room let out a \"collective exhale.\" A Minnesota jury had found Derek Chauvin guilty of murdering George Floyd.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t-94g7Epw80/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t-94g7Epw80/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 1034,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210420191943-03-biden-harris-chauvin-verdict-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/25/politics/kamala-harris-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/25/politics/kamala-harris-cnntv/index.html",
-      "publishedDateTime": "2021-04-25T06:41:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-24-pop-is-calling-kids-and-grandkids-on-the-line-with-president-joe-biden.md",
-      "title": "Pop is calling: Kids and grandkids on the line with President Joe Biden",
-      "excerpt": "Joe Biden says he has a strict rule about his phone: No matter what's happening, he always answers a call from one of his grandchildren.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XtZxv2ZavsA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XtZxv2ZavsA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/161028184703-20-joe-biden-vice-president-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/24/politics/joe-biden-phone-calls-family/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/24/politics/joe-biden-phone-calls-family/index.html",
-      "publishedDateTime": "2021-04-24T05:02:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-ice-ends-trump-era-policy-of-fining-undocumented-immigrants-calling-penalties-ineffective.md",
-      "title": "ICE ends Trump-era policy of fining undocumented immigrants, calling penalties 'ineffective'",
-      "excerpt": "Immigration and Customs Enforcement will no longer issue fines to undocumented immigrants who have failed to depart the United States, the agency announced Friday, a reversal from the Trump-era policy that threatened immigrants with thousands of dollars in debt to the federal government.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vSTsv0HjGSY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vSTsv0HjGSY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170725063150-01-ice-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/23/politics/ice-fines-reverse-trump-policy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/ice-fines-reverse-trump-policy/index.html",
-      "publishedDateTime": "2021-04-23T12:05:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-biden-set-to-make-maiden-foreign-trip-in-june-to-uk-and-belgium.md",
-      "title": "Biden set to make maiden foreign trip in June to UK and Belgium",
-      "excerpt": "President Joe Biden will embark upon his first foreign trip in June, the White House said on Friday, with plans to attend the Group of 7 summit in southwestern England and diplomatic meetings in Brussels.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YLIbrs3KlG4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YLIbrs3KlG4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 435,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210423101800-joe-biden-0423-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-foreign-trip/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-foreign-trip/index.html",
-      "publishedDateTime": "2021-04-23T08:42:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats.md",
-      "title": "'Outrageous': Bank regulator lobbies for Trump-era rule, angering Democrats",
-      "excerpt": "Consumer watchdogs have warned that it could unleash predatory loans by enabling \"payday\" lenders to evade state interest rate caps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/04/22/outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats-484295",
-      "originalUrl": "https://www.politico.com/news/2021/04/22/outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats-484295",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/9c/60/6fa5d152480e8c5e5c3979f428d6/190716-sherrod-brown-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/04/22/outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats-484295",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/22/outrageous-bank-regulator-lobbies-for-trump-era-rule-angering-democrats-484295",
-      "publishedDateTime": "2021-04-22T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

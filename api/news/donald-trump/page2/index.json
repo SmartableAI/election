@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-23-kerry-blasts-trump-for-pulling-out-of-the-paris-accord-without-any-scientific-evidence.md",
+      "title": "Kerry blasts Trump for pulling out of the Paris accord ‘without any scientific evidence’",
+      "excerpt": "Special presidential envoy for climate John F. Kerry on April 22 said the Biden administration had to restore credibility on climate after former president Donald Trump pulled out of the Paris climate accord \"without any scientific evidence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/politics/kerry-blasts-trump-for-pulling-out-of-the-paris-accord-without-any-scientific-evidence/2021/04/22/a8579bcc-bdf9-48f5-a569-039a3ae08043_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/politics/kerry-blasts-trump-for-pulling-out-of-the-paris-accord-without-any-scientific-evidence/2021/04/22/a8579bcc-bdf9-48f5-a569-039a3ae08043_video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-22-2021/t_39115ea24e174c02b8ae6ab961c27f0a_name_e0ed4a54_a375_11eb_b314_2e993bd83e31.jpg&w=1080",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-the-trump-admin-awarded-a-firm-up-to-13-billion-to-make-covid-vaccine-syringes-where-are-they.md",
       "title": "The Trump admin awarded a firm up to $1.3 billion to make Covid vaccine syringes. Where are they?",
       "excerpt": "The Trump admin awarded a firm up to $1.3 billion to make Covid vaccine syringes. Where are they? The Covid vaccines are here, but the ApiJect syringe is not yet approved by federal regulators. WASHINGTON — A year after a Connecticut company was awarded federal loans and contracts worth up to nearly $1.",
@@ -1548,58 +1600,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-ag-merrick-garland-rescinds-a-trump-era-memo-curtailing-consent-decrees-in-investigations-of-police-departments.md",
-      "title": "AG Merrick Garland rescinds a Trump-era memo curtailing consent decrees in investigations of police departments",
-      "excerpt": "The memo comes as the Justice Department shifts its priorities to focus more on civil rights issues, criminal justice overhauls and policing policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4",
-      "originalUrl": "https://www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6079c16a44f4540019207203?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/garland-rescinds-trump-era-memo-curtailing-consent-decrees-2021-4?amp",
-      "publishedDateTime": "2021-04-16T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
