@@ -2,19 +2,21 @@
 category: news
 title: "Facebook board's Trump decision could have wider impacts"
 excerpt: "On Wednesday, former President Donald Trump will know his fate on the world’s biggest social platform, Facebook"
-publishedDateTime: 2021-05-05T06:48:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/facebook-boards-trump-decision-wider-impacts-77499800"
-webUrl: "https://abcnews.go.com/Business/wireStory/facebook-boards-trump-decision-wider-impacts-77499800"
+publishedDateTime: 2021-05-05T10:45:00Z
+originalUrl: "https://www.washingtonpost.com/business/facebook-boards-trump-decision-could-have-wider-impacts/2021/05/05/c1873404-ad66-11eb-82c1-896aca955bb9_story.html"
+webUrl: "https://www.washingtonpost.com/business/facebook-boards-trump-decision-could-have-wider-impacts/2021/05/05/c1873404-ad66-11eb-82c1-896aca955bb9_story.html"
+ampWebUrl: "https://www.washingtonpost.com/business/facebook-boards-trump-decision-could-have-wider-impacts/2021/05/05/c1873404-ad66-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/facebook-boards-trump-decision-could-have-wider-impacts/2021/05/05/c1873404-ad66-11eb-82c1-896aca955bb9_story.html?outputType=amp"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_79aa5472f76e48e5838a47dcbe5e58f9_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YMF7GKFNEUI6XAWBRFVMVFK3XE.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -1403,6 +1405,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "E5ggcgYUPasK+6CmaiQYv6IaqkwyfKuHIAbDqZpscf2N2WAZ3q/nxgHJ/EJVTryqwreJZtGKqiducCasMkcYeaCgrWuS04x194IMVlrNQTPfz1065CGxosnGwxtz9m8G/nBf/zpkJC7xf8qhSUbZogMwstI+NmbHq7dObTbwM0FE5kUyTLQ8lahG2IANwXDIGmXbhKVsXHXpTyjPHwjdfx+I3fgwIL5K9gPjblnspVYHkU5JgkP4IFvXBGu9I6+84hmniPi4XEpZWUeEZgFa4/t+db4zW+rAwuwA3y5pwjzbf/zbnnf8TBNjfg1LqE7bw3664vOgcS2VFzWfP+Lw9BRp6F7V09rrk58MUHgI88a5w43ksxcgCOV9rOzbO6YjR9zNpWWV/u+vlm5ynwe2G+gxuJaGpG6JVE1uSSYEl0fDc+8jmQFF4hHGY6WbnYIfvhblJnDNQyWKv6sAJt//9RScfBXHPEjshn4nrsB4aJeB+hASjd9ctfMPcrXV+I+uQY5nwiHOiQV2w6057iSZXA==;+SGrh9MYCqZdXVTxhffVIg=="
+secured: "YcT4UFLXqQlQ95mUwM4W//9F1Mnkaxnd0F4zegpuY+EXlKa4x+j5haiySHoF3IHYsKjE2wLD2QqjDLksUDw6ZZ3WK6nj+WAPJIkLnWOSllHB1IpTZ9zb7XJKW1JPGk/lrec/xLEu7OEYKO3MK66TQFaxo5cFYA70x1HhU/MKBE7npqWheCpEb9DVz/z9vKavxaVKg6eXVip+UDEeaYxMhH26VkQ5xGAF2AY2nGdZ/QRL3o25gsM6tcYH26HjcGXl1vBFcFQi94Z0+U5OfZA6+Z8sE3SIamRtSqJ1DoWP7DmRYsHCC0IUkU4JkojZ3OHgGsVMDyzPl4Ig/Gwc31am+tIQuzPAqg4+90PSUHoCgtc=;/P/qrVuvo45Y2cka2Dl2Rg=="
 ---
 

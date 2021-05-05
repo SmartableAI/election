@@ -2,25 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-05-trump-attorney-other-allies-launch-voter-fraud-organization.md",
-      "title": "Trump attorney, other allies launch voter fraud organization",
-      "excerpt": "The Election Integrity Alliance's board includes former Trump campaign lawyer Jenna Ellis and other notable supporters.",
+      "path": "_news/2021-05-05-facebook-oversight-board-to-give-verdict-on-donald-trump-ban-live.md",
+      "title": "Facebook oversight board to give verdict on Donald Trump ban – live",
+      "excerpt": "Good morning, this is Lauren Aratani kicking off today’s politics live blog. Facebook’s Oversight Board – AKA Facebook’s “supreme court” – will be announcing its dec",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/05/05/trump-election-integrity-organization-485399",
-      "originalUrl": "https://www.politico.com/news/2021/05/05/trump-election-integrity-organization-485399",
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
+      "highlight": null,
+      "heat": 225,
       "tags": null,
       "images": [
         {
-          "url": "https://static.politico.com/a4/08/1329ed1641b6a7162ea146df6ea7/ap20324801945195-1.jpg",
-          "width": 1160,
-          "height": 773,
+          "url": "https://i.guim.co.uk/img/media/9ec4843e2e4cfdd90b7b916a71df314a47003225/0_59_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4481d464346f41d93bb22d4493664ab4",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T01:35:00-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live",
+      "publishedDateTime": "2021-05-05T03:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,8 +50,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Democratic Voice"
+        "Donald Trump"
       ]
     },
     {
@@ -200,58 +195,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-facebook-and-trump-are-at-a-turning-point-in-their-long-tortured-relationship.md",
-      "title": "Facebook and Trump are at a turning point in their long, tortured relationship",
-      "excerpt": "Facebook’s decision to outsource the future of Trump’s account to an independent Oversight Board stems from a tortured relationship with the former president. It could also set a precedent on how social media companies handle politicians and on how they will balance free speech and harm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 261,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SUC6YBUU2II6XKW4V54HAGRQZI.jpg&w=1440",
-          "width": 1440,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp",
-      "publishedDateTime": "2021-05-04T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -750,7 +693,7 @@
       "originalUrl": "https://www.washingtonpost.com/video/politics/pence-gives-first-public-speech-since-end-of-trump-administration/2021/05/01/3b006924-331c-471a-8796-f0d0e8035d97_video.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 630,
+      "heat": 650,
       "tags": null,
       "images": [
         {
@@ -795,25 +738,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-01-trump-gets-tested-in-suburban-texas.md",
-      "title": "Trump gets tested in suburban Texas",
-      "excerpt": "The 11 Republicans running in Saturday’s House special election have a wide range of opinions on the former president, ranging from Never Trump to Super MAGA.",
+      "path": "_news/2021-05-01-pro-trump-and-anti-vax-sites-urging-people-to-forge-covid-19-vaccination-cards-says-cdc.md",
+      "title": "Pro-Trump and anti-vax sites urging people to forge COVID-19 vaccination cards, says CDC",
+      "excerpt": "Faking a vaccination is easy with a template and blank flashcard. New York is the only state that keeps track of authentic cards. It is against the law to fake vaccination cards. Some former President Trump supporters and anti-vaxxers are forging vaccine cards using a government-issued template to falsely state they received their shots.",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/05/01/texas-special-election-trump-484304",
-      "originalUrl": "https://www.politico.com/news/2021/05/01/texas-special-election-trump-484304",
+      "webUrl": "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to",
+      "originalUrl": "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
+      "highlight": null,
+      "heat": 136,
       "tags": null,
       "images": [
         {
-          "url": "https://static.politico.com/c6/84/8bebd2aa4992bf73c1b6b4800fc6/texas-trump-illo.jpg",
-          "width": 2000,
-          "height": 1333,
+          "url": "https://thehill.com/sites/default/files/ca.vac_card_gettyimages-1230169189.jpg",
+          "width": 1440,
+          "height": 880,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -821,16 +760,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/05/01/texas-special-election-trump-484304",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/01/texas-special-election-trump-484304",
-      "publishedDateTime": "2021-05-01T04:00:00-07:00",
+      "ampWebUrl": "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to?amp",
+      "publishedDateTime": "2021-04-30T17:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -847,8 +786,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Democratic Voice"
+        "Donald Trump"
       ]
     },
     {
@@ -1582,6 +1520,54 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine.md",
+      "title": "Trump gives thumbs up on Post’s push for lifesaving COVID vaccine",
+      "excerpt": "The Post’s push to get New Yorkers to roll up their sleeves and get vaccinated against the coronavirus is drawing a big thumbs-up from Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/22/trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine/",
+      "originalUrl": "https://nypost.com/2021/04/22/trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/thumbs-up-on-posts-push-for-vaccines-index.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/22/trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/22/trump-gives-thumbs-up-on-posts-push-for-lifesaving-covid-vaccine/amp/",
+      "publishedDateTime": "2021-04-22T17:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     }
   ],

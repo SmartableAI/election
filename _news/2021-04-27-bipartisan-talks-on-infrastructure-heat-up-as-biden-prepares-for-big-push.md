@@ -31,307 +31,213 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration releases Trump-era deadly force rules for terrorist suspects abroad"
-    excerpt: "The Biden administration disclosed Trump-era rules on Friday regulating the use of deadly force against terrorism suspects abroad, releasing them with several redacted lines to the American Civil Liberties Union and the New York Times as part of a Freedom of Information Act lawsuit after the Trump administration"
-    publishedDateTime: 2021-05-01T22:46:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TzaCLD3dTrc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/biden-administration-trump-counterterrorism-rules/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/biden-administration-trump-counterterrorism-rules/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 181
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190909124239-01-donald-trump-0904-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Texas congressional race showcases GOP fight over Trump, conspiracy theories and election lies "
-    excerpt: "Some Republicans in a crowded field of candidates competing for a US House seat in Texas ahead of a May 1 special election have embraced Donald Trump and his political legacy. A former professional wrestler is using the tagline \"make America Texas again\" as he warns \"commies in DC are ruining America.\""
-    publishedDateTime: 2021-04-30T11:36:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WqjrEkWIjVw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-special-election-trump-conspiracy-theories/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-special-election-trump-conspiracy-theories/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 178
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429222942-texas-6th-district-special-election-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration completes North Korea review process"
-    excerpt: "The Biden administration has completed its months-long North Korea policy review, White House press secretary Jen Psaki announced Friday.\n    \n"
-    publishedDateTime: 2021-04-30T17:41:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WFLN6mdbJ18/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/north-korea-review-over/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/north-korea-review-over/index.html"
+  - title: "Biden set to make maiden foreign trip in June to UK and Belgium"
+    excerpt: "President Joe Biden will embark upon his first foreign trip in June, the White House said on Friday, with plans to attend the Group of 7 summit in southwestern England and diplomatic meetings in Brussels.\n    \n"
+    publishedDateTime: 2021-04-23T15:42:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YLIbrs3KlG4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-foreign-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/joe-biden-uk-brussels-foreign-trip/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210325142512-joe-biden-march-25-2021-01-super-tease.jpeg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210423101800-joe-biden-0423-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration to restrict travel from India starting Tuesday"
-    excerpt: "The Biden administration will restrict travel from India starting on Tuesday on the advice of the US Centers for Disease Control and Prevention, a White House official told CNN.\n    \n"
-    publishedDateTime: 2021-04-30T19:08:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y7nLMURmpHo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/us-india-travel-restrictions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/us-india-travel-restrictions/index.html"
+  - title: "Analysis: Biden's superpower will soon be tested"
+    excerpt: "Where there was once a fight about whether Americans should still wear masks, new guidance from the US Centers for Disease Control and Prevention -- wrapped in a push to get more Americans vaccinated -- could create a fight over taking them off.\n    \n"
+    publishedDateTime: 2021-04-27T21:34:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dojmIP3xRaU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/joe-biden-first-100-days-strategy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/joe-biden-first-100-days-strategy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210430011826-india-covid-0429-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427142809-05-biden-mask-remarks-0427-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's infrastructure plan tests his definition of bipartisanship"
-    excerpt: "The Biden administration often says that though their policies are not getting bipartisan support in Congress, they're widely supported by Americans across the country. But as President Joe Biden embarks on a multi-state tour to promote his sweeping infrastructure and jobs plan, that argument is being"
-    publishedDateTime: 2021-05-03T18:36:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S4eI2d8MdNw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/yorktown-joe-biden-infrastructure/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/yorktown-joe-biden-infrastructure/index.html"
+  - title: "Biden to raise minimum wage for federal contractors to $15 an hour"
+    excerpt: "Two months after his effort to raise the federal minimum wage to $15 an hour ran into the Senate parliamentarian buzz saw, President Joe Biden is set to use his executive powers to hike the pay of hundreds of thousands of federal contract workers.\n    \n"
+    publishedDateTime: 2021-04-27T10:54:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QIwza8ZlXHw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/minimum-wage-federal-contractors-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/minimum-wage-federal-contractors-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210430154612-02-biden-amtrak-0430-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210426201308-biden-march-19-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Hill Democrats aren't waiting for Biden on health care reforms"
-    excerpt: "Congressional Democrats are not waiting around for President Joe Biden to propose big changes they want to see in the nation's health care system, including reducing drug prices and expanding Medicare.\n    \n"
-    publishedDateTime: 2021-05-03T11:05:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q5anFr-1vyg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/medicare-drug-prices-biden-democrats/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/medicare-drug-prices-biden-democrats/index.html"
+  - title: "Senate confirms Biden pick for Pentagon's undersecretary for policy"
+    excerpt: "The Senate confirmed Colin Kahl to be the No. 3 civilian at the Pentagon on Tuesday, approving President Joe Biden's nominee for Pentagon policy chief on a party-line vote.\n    \n"
+    publishedDateTime: 2021-04-27T22:32:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j0aR3XEuhco/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/colin-kahl-confirmation-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/colin-kahl-confirmation-vote/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428220703-43-biden-address-0428-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230112442-colin-kahl-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Major Biden receives special training to prepare for new White House cat"
-    excerpt: "Some Major news at the White House: Major Biden has made his return to 1600 Pennsylvania Avenue after training following two biting incidents, but he may soon have to adjust to another furry friend.\n    \n"
-    publishedDateTime: 2021-04-30T14:03:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H9oGT5kEcrw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/major-biden-cat/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/major-biden-cat/index.html"
+  - title: "Biden says China is betting the US can't keep up with autocracy"
+    excerpt: "President Joe Biden said Wednesday he views the challenges ahead of the country as a question of whether democracy can succeed in the 21st century.\n    \n"
+    publishedDateTime: 2021-04-28T19:48:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BvVf6jlcJFg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/china-us-democracy-autocracy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/china-us-democracy-autocracy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324142609-01-major-biden-0323-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427232328-joe-biden-0427-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration announces new operation to crack down on human smuggling"
-    excerpt: "The Biden administration announced Tuesday an operation focused on disrupting transnational criminal organizations, including human smugglers who have facilitated the illegal crossings of migrants at the US-Mexico border.\n    \n"
-    publishedDateTime: 2021-04-27T17:00:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3VNw4AkoF3A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/human-smuggling-border/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/human-smuggling-border/index.html"
+  - title: "Biden's first 100 days: What he's gotten done"
+    excerpt: "President Joe Biden has moved fast since his January 20 swearing-in, signing a $1.9 trillion Covid relief bill into law less than two months into his term and issuing more executive orders so far than his three predecessors.\n    \n"
+    publishedDateTime: 2021-04-28T04:14:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SKyijwMUVf8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/president-biden-first-100-days/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/president-biden-first-100-days/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427113628-20210427-joe-biden-100-days-illustration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Now, it's Congress' turn to pick up the baton on Biden's agenda"
+    excerpt: "President Joe Biden laid out a far-reaching agenda to Congress on Wednesday night, one that implored his former Senate colleagues and the House of Representatives to get to work and close out nearly a dozen issues that he has worked on for most of his career.\n    \n"
+    publishedDateTime: 2021-04-29T12:58:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lB1m--QBGMM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/congress-reaction-biden-agenda-infrastructure-negotiations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/congress-reaction-biden-agenda-infrastructure-negotiations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428233100-75-biden-address-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to push ambitious economic plan in first prime-time address to Congress"
+    excerpt: "President Joe Biden will deliver his first address to a joint session of Congress on Wednesday night, hoping to build on the trust he engendered by accelerating the nation's response to the Covid-19 pandemic to convince Americans that they should back his ambitious plans to tackle income inequality in"
+    publishedDateTime: 2021-04-28T21:56:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eoBRFBZovCw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/presidential-prime-time-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/presidential-prime-time-address/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301130048-01-mayorkas-wh-briefing-0301-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427132505-01-centered-joe-biden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Joe Biden to showcase his moderate radicalism in his big congressional address"
-    excerpt: "President Joe Biden's \"radical\" idea is that government is not the problem in America but the multi-trillion-dollar solution that can end the pandemic, equalize the economy and make life better for millions of working people.\n    \n"
-    publishedDateTime: 2021-04-28T11:38:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/In7SNqCeWkI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/joe-biden-joint-address-to-congress/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/joe-biden-joint-address-to-congress/index.html"
+  - title: "Biden set to announce $200 billion for universal pre-K in sweeping new proposal"
+    excerpt: "President Joe Biden is set to announce $200 billion in education funding as part of his sweeping spending package he will unveil prior to his prime-time address to a joint session of Congress, according to a White House official.\n    \n"
+    publishedDateTime: 2021-04-27T23:48:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/17Roi70pcMc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/universal-pre-k-200-billion/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/universal-pre-k-200-billion/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427140259-03-biden-remarks-0427-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130219144014-universal-preschool-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "First lady's virtual joint address guests spotlight Biden administration priorities"
-    excerpt: "When President Joe Biden delivers his address to a joint session of Congress Wednesday night, first lady Jill Biden will forgo the traditional set of guests in the first lady's viewing box due to social distancing constraints in the House chamber amid the coronavirus pandemic. Instead, she will virtually"
-    publishedDateTime: 2021-04-28T20:21:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Iq3dLiLrotw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/jill-biden-joint-address-congress-guests/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/jill-biden-joint-address-congress-guests/index.html"
+  - title: "Bidens to meet with former President Carter and Rosalynn Carter in Georgia Thursday"
+    excerpt: "President Joe Biden and first lady Jill Biden will meet with former President Jimmy Carter and former first lady Rosalynn Carter in their hometown of Plains, Georgia, on Thursday, White House press secretary Jen Psaki said Tuesday.\n    \n"
+    publishedDateTime: 2021-04-27T21:47:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6-ZlOpN8nog/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/jimmy-carter-bidens/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/jimmy-carter-bidens/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225143926-jill-biden-kelly-clarkson-divorce-advice-orig-mg-00000000-super-tease.png"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210226110200-02-biden-travels-to-texas-0226-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden team may partner with private firms to surveil suspected domestic terrorists online"
-    excerpt: "The Biden administration is considering using outside firms to track extremist chatter by Americans online, an effort that would expand the government's ability to gather intelligence but could draw criticism over surveillance of US citizens.\n    \n"
-    publishedDateTime: 2021-05-03T10:02:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WBMr4kaTXzU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/dhs-partner-private-firms-surveil-suspected-domestic-terrorists/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/dhs-partner-private-firms-surveil-suspected-domestic-terrorists/index.html"
+  - title: "Biden set to acknowledge ground-shaking history of the last year in first speech to Congress"
+    excerpt: "When President Joe Biden delivers his first address to Congress on Wednesday, two of the past year's ground-shaking events will be hard to ignore.\n    \n"
+    publishedDateTime: 2021-04-27T21:24:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F5oHeb33AoE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/biden-speech-preview/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/biden-speech-preview/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107134539-20-us-capitol-riots-0106-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427140259-03-biden-remarks-0427-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration to reunite four migrant families separated under Trump"
-    excerpt: "The Biden family reunification task force estimates that more than 1,000 migrant families separated during the Trump administration still need to be reunited."
-    publishedDateTime: 2021-05-03T12:09:00Z
-    webUrl: "https://www.nbcnews.com/politics/immigration/biden-administration-reunite-four-migrant-families-separated-under-trump-n1266104"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266104"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266104"
+  - title: "White House expands behind-the-scenes lobbying as Biden makes public push for $4 trillion proposals"
+    excerpt: "President Joe Biden's major public -- and prime time -- push this week for his sweeping $4 trillion economic agenda was only one piece of the White House push to lay the groundwork to move his agenda.\n    \n"
+    publishedDateTime: 2021-05-01T01:23:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-MqBMRd9gQg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/white-house-behind-the-scenes-economic-proposals/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/white-house-behind-the-scenes-economic-proposals/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 158
+      name: CNN
+      domain: cnn.com
+    quality: 161
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_09/3454207/210303-keep-families-together-protest-se-636p_7a1a557a0d52898a96782884cc1739e2.jpg"
-        width: 2499
-        height: 1666
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428222229-53-biden-address-0428-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Biden reversed Trump on the Keystone XL pipeline. Native American groups want more."
-    excerpt: "Native American and Indigenous peoples groups said they know they have an ally in Biden. But they are all too familiar with the transient nature of executive action."
-    publishedDateTime: 2021-04-29T15:05:00Z
-    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-reversed-trump-keystone-xl-pipeline-native-american-groups-want-n1265025"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265025"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265025"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 144
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_17/3468441/210427-lance-fourstar-pipeline-mn-2355_93a536819881e413b0e4a349da88fc4a.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden raises refugee cap to 62,500 after facing criticism for keeping Trump-era levels in place"
-    excerpt: "The announcement comes after Democrats slammed the move last month, with the White House saying then it would announce a new cap by May 15."
-    publishedDateTime: 2021-05-03T21:21:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-raises-refugee-cap-62-500-after-facing-criticism-keeping-n1266175"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266175"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266175"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 138
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_18/3469846/210503-joe-biden-ew-420p_80735049646c7c0378040e662109b62f.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Democrats move to reinstate methane rules loosened by Trump"
-    excerpt: "Democrats and environmentalists called the methane rollback one of the Trump administration’s most egregious actions to deregulate U.S. businesses."
-    publishedDateTime: 2021-04-28T14:12:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/democrats-move-reinstate-methane-rules-loosened-trump-n1265640"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265640"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265640"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/201908/n_tur_levine_190829_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "How Biden's taxes hit the richest but skip the suburban base"
-    excerpt: "Analysis: Democrats see an opportunity to pit billionaires against even well-off professionals by taxing wealthy investors."
-    publishedDateTime: 2021-04-29T17:36:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/capital-punishment-how-biden-s-taxes-hit-richest-skip-suburban-n1265827"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265827"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265827"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_17/3468936/210429-biden-tax-proposal-mb-1431_de9c430d0055e6457033afb16c4a099c.JPG"
-        width: 3270
-        height: 2177
-        isCached: true
-  - title: "Joe Biden, the Reverse Ronald Reagan"
-    excerpt: "Biden Jr. — couldn’t possibly have predicted how President Ronald Reagan’s words would come to define politics for generations. But for the decades that followed, Mr. Biden, along with most of his party,"
-    publishedDateTime: 2021-05-01T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/05/01/us/politics/joe-biden-the-reverse-ronald-reagan.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/01/us/politics/joe-biden-the-reverse-ronald-reagan.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/01/us/politics/joe-biden-the-reverse-ronald-reagan.amp.html"
+  - title: "Pro-Biden Group to Begin Ad Campaign Promoting His Agenda in Swing States"
+    excerpt: "Building Back Together will highlight the president’s coronavirus response and his economic plan and will contrast his measured approach to his bombastic predecessor’s."
+    publishedDateTime: 2021-04-30T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/04/30/us/politics/pro-biden-ads-swing-states.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/30/us/politics/pro-biden-ads-swing-states.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/30/us/politics/pro-biden-ads-swing-states.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 134
     images:
-      - url: "https://static01.nyt.com/images/2021/05/01/multimedia/01onpolitics-reagan/01onpolitics-01-facebookJumbo.jpg"
-        width: 504
-        height: 263
-        isCached: true
-  - title: "Ex-Trump aide Stephen Miller's legal group sues Biden administration, alleging racism against white farmers"
-    excerpt: "The staunch anti-immigration advocate cited MLK while charging a program to help socially disadvantaged farmers and ranchers discriminates against whites"
-    publishedDateTime: 2021-04-28T20:38:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/ex-trump-aide-stephen-miller-s-legal-group-sues-biden-n1265663"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265663"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265663"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_44/3418080/201006-stephen-miller-ac-920p_a4adda3966398fb1cfcf84e464e7f581.jpg"
-        width: 2500
-        height: 1784
-        isCached: true
-  - title: "Biden appeals for unity to confront China"
-    excerpt: "The president appeals for unity to confront China and warns the threat of Islamic terrorism in Russia is still very real. — The search for a Navy secretary is focusing on a politically connected former Navy officer."
-    publishedDateTime: 2021-04-29T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/04/29/biden-appeals-for-unity-to-confront-china-794972"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
+      - url: "https://static01.nyt.com/images/2021/04/30/us/politics/30-BIDENAD/30-BIDENAD-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "hvbGaiDqCmWsXpg4AU35XeRiFK/HDOcjZU2AVdi5qpTji0Jm8ZCKpIPajHeUtsXInUYiTyReu+c4sS97DLzrjt1shQCzqkA54eSws+7MtQMBrj0s/BBHhSDw4PkVaTedzDjz7KJmZVitXpDilZiIPD3wGVOcH2guWMIi97VYar5HQxsGO9QCGO8Cj/9zIOqvpqS91bPcpYcw7yTpbn1LooOWeiHr1IpdZzL/G2Wp97D3E1+llXZTu2+gDHm4WT2KKJ2z1h8DgpZdNa4EAFkBGX/f0UUGc+8I1Z2HTodB0zGNOLeO9V6hoiSUFmuCwIfOJMX02D9sa1QiSPZWFN8q76ZTDiW7y8mpkr61TgYuwIc=;8lePNWGKOR2zxDFGYRjwPg=="

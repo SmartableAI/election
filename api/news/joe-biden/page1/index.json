@@ -263,63 +263,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-04-biden-i-am-not-anti-corporate-but-its-time-they-start-paying-their-fair-share.md",
-      "title": "Biden: 'I am not anti-corporate but it's time they start paying their fair share'",
-      "excerpt": "President Joe Biden suggested giving working class and middle class families tax breaks instead of just the very wealthy. Biden said it will be paid for by making sure that corprate America and the wealthy \"pay their fair share.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/biden-suggests-giving-tax-breaks-to-working-class-families-111259205885",
-      "originalUrl": "https://www.nbcnews.com/now/video/biden-suggests-giving-tax-breaks-to-working-class-families-111259205885",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/1620064002102_ott_now_biden_taxcuts_workingclass_210503_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo111259205885",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111259205885",
-      "publishedDateTime": "2021-05-03T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-02-biden-is-a-moderate-no-more-judge-jeanine.md",
       "title": "Biden is a 'moderate no more': Judge Jeanine",
       "excerpt": "Guests: Byron Donalds, Richard Grenell, Steve Moore, Lara Trump, Ashley Strohmier, Joe Concha, Leo Terrell, Tomi Lahren",
@@ -1584,6 +1527,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-republicans-unveil-568-billion-infrastructure-package-to-counter-bidens-23-trillion-plan.md",
+      "title": "Republicans unveil $568 billion infrastructure package to counter Biden's $2.3 trillion plan",
+      "excerpt": "U.S. Senate Republicans on Thursday put forward their version of an infrastructure package that would spend $568 billion over five years in a response to Democratic U.S. President Joe Biden's $2.3 trillion proposal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-congress-infrastructure-republica-idUSKBN2C92BK",
+      "originalUrl": "https://www.reuters.com/article/us-usa-congress-infrastructure-republica-idUSKBN2C92BK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210422&t=2&i=1559564512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3L156",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2C92BK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C92BK",
+      "publishedDateTime": "2021-04-22T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

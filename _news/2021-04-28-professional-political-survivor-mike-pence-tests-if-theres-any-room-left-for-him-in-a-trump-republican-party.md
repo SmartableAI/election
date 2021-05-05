@@ -124,6 +124,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Judge orders Justice Department to release Trump obstruction memo"
+    excerpt: "U.S. District Judge Amy Berman Jackson said AG William Barr had obscured \"the true purpose of the memorandum\" when it withheld the document."
+    publishedDateTime: 2021-05-05T11:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/05/judge-orders-justice-department-release-trump-obstruction-memo/4952659001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4952659001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4952659001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/11/USAT/cd70680c-eb01-4028-811e-d96055489d94-AFP_AFP_8WA7MF.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Facebook Oversight Board to Announce Decision on Donald Trump Ban on May 5"
     excerpt: "Former President Donald Trump could make a return to Facebook and Instagram very soon following an announcement by the body that oversees bans on content for the social media sites. The Oversight Board tweeted on Monday that they will reveal their decision on Trump's suspensions this Wednesday,"
     publishedDateTime: 2021-05-03T15:22:00Z

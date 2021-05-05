@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trum
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-333892/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Facebook Oversight Board Is Set to Rule on Donald Trump Ban"
+    excerpt: "The technology company’s independent oversight board will issue a ruling Wednesday morning that could determine whether the former president can return to its Facebook and Instagram platforms."
+    publishedDateTime: 2021-05-05T08:37:00Z
+    webUrl: "https://www.wsj.com/articles/donald-trump-facebook-ban-decision-11620056600"
+    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-facebook-ban-decision-11620056600"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-facebook-ban-decision-11620056600"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-333171/social"
         width: 1280
         height: 640
         isCached: true

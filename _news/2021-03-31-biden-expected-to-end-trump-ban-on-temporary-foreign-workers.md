@@ -791,6 +791,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Facebook board's Trump decision could have wider impacts"
+    excerpt: "On Wednesday, former President Donald Trump will know his fate on the world’s biggest social platform, Facebook"
+    publishedDateTime: 2021-05-05T10:45:00Z
+    webUrl: "https://www.washingtonpost.com/business/facebook-boards-trump-decision-could-have-wider-impacts/2021/05/05/c1873404-ad66-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/facebook-boards-trump-decision-could-have-wider-impacts/2021/05/05/c1873404-ad66-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/facebook-boards-trump-decision-could-have-wider-impacts/2021/05/05/c1873404-ad66-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YMF7GKFNEUI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Judge orders Justice Dept. to release Trump obstruction memo"
     excerpt: "A federal judge has ordered the release of a legal memorandum the Trump-era Justice Department prepared for then-Attorney General William Barr before he announced his conclusion that President Donald"
     publishedDateTime: 2021-05-04T21:17:00Z
@@ -1125,20 +1141,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Facebook board's Trump decision could have wider impacts"
-    excerpt: "On Wednesday, former President Donald Trump will know his fate on the world’s biggest social platform, Facebook"
-    publishedDateTime: 2021-05-05T06:48:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/facebook-boards-trump-decision-wider-impacts-77499800"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_79aa5472f76e48e5838a47dcbe5e58f9_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live"
     excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
     publishedDateTime: 2021-04-16T22:17:00Z

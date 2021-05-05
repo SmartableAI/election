@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-05-trump-attorney-other-allies-launch-voter-fraud-organization.md",
-      "title": "Trump attorney, other allies launch voter fraud organization",
-      "excerpt": "The Election Integrity Alliance's board includes former Trump campaign lawyer Jenna Ellis and other notable supporters.",
+      "path": "_news/2021-05-05-trump-era-policy-biden-administration-uses-to-expel-migrants-faces-uncertain-future.md",
+      "title": "Trump-era policy Biden administration uses to expel migrants faces uncertain future ",
+      "excerpt": "President Joe Biden came into office pledging to reverse a slew of Trump-era policies that had restricted immigration to the United States. But for months, Biden officials have relied on an unprecedented Trump policy put in place at the US southern border that's led to half a million migrants being swiftly",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/05/05/trump-election-integrity-organization-485399",
-      "originalUrl": "https://www.politico.com/news/2021/05/05/trump-election-integrity-organization-485399",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zaMBP-VZDz8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zaMBP-VZDz8/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 115,
+      "heat": 863,
       "tags": null,
       "images": [
         {
-          "url": "https://static.politico.com/a4/08/1329ed1641b6a7162ea146df6ea7/ap20324801945195-1.jpg",
-          "width": 1160,
-          "height": 773,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210415171747-11-week-in-photos-0415-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,16 +28,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-05T01:35:00-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/05/politics/us-mexico-border-pandemic-policy/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/us-mexico-border-pandemic-policy/index.html",
+      "publishedDateTime": "2021-05-05T04:04:04-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,8 +54,59 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-facebook-oversight-board-to-give-verdict-on-donald-trump-ban-live.md",
+      "title": "Facebook oversight board to give verdict on Donald Trump ban – live",
+      "excerpt": "Good morning, this is Lauren Aratani kicking off today’s politics live blog. Facebook’s Oversight Board – AKA Facebook’s “supreme court” – will be announcing its dec",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/9ec4843e2e4cfdd90b7b916a71df314a47003225/0_59_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4481d464346f41d93bb22d4493664ab4",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live",
+      "publishedDateTime": "2021-05-05T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -235,7 +286,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 395,
+      "heat": 415,
       "tags": null,
       "images": [
         {
@@ -500,62 +551,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-04-biden-says-his-hope-and-expectation-is-to-meet-putin-on-upcoming-europe-trip.md",
-      "title": "Biden says his 'hope and expectation' is to meet Putin on upcoming Europe trip",
-      "excerpt": "President Joe Biden said Tuesday it is his \"hope and expectation\" to meet with his Russian counterpart during a planned visit to Europe in June, a high-stakes diplomatic encounter he hopes can restore a degree of predictability to an increasingly fraught relationship.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZSr-NF7oZUI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZSr-NF7oZUI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/04/politics/putin-biden-summit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/putin-biden-summit/index.html",
-      "publishedDateTime": "2021-05-04T13:50:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-05-morning-mail-gps-grapple-with-vaccine-shortfalls-pfizers-34bn-revenue-giant-joe-biden.md",
       "title": "Morning mail: GPs grapple with vaccine shortfalls, Pfizer’s $34bn revenue, giant Joe Biden",
       "excerpt": "Australian doctors are still struggling to get Covid vaccines. Plus: the photography trick that made the US leader larger than life",
@@ -620,7 +615,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 123,
+      "heat": 143,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -739,58 +734,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-facebook-and-trump-are-at-a-turning-point-in-their-long-tortured-relationship.md",
-      "title": "Facebook and Trump are at a turning point in their long, tortured relationship",
-      "excerpt": "Facebook’s decision to outsource the future of Trump’s account to an independent Oversight Board stems from a tortured relationship with the former president. It could also set a precedent on how social media companies handle politicians and on how they will balance free speech and harm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 261,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SUC6YBUU2II6XKW4V54HAGRQZI.jpg&w=1440",
-          "width": 1440,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp",
-      "publishedDateTime": "2021-05-04T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1080,119 +1023,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-03-biden-raises-refugee-cap-to-62500-after-blowback.md",
-      "title": "Biden raises refugee cap to 62,500 after blowback",
-      "excerpt": "The Biden administration is set to raise the refugee ceiling to 62,500 this fiscal year, according to a source familiar with the discussions, after receiving swift criticism last month when President Joe Biden kept the lower Trump-era cap in place.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9kJryzBYedM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9kJryzBYedM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210502211626-joe-biden-0428-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html",
-      "publishedDateTime": "2021-05-03T14:12:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-biden-i-am-not-anti-corporate-but-its-time-they-start-paying-their-fair-share.md",
-      "title": "Biden: 'I am not anti-corporate but it's time they start paying their fair share'",
-      "excerpt": "President Joe Biden suggested giving working class and middle class families tax breaks instead of just the very wealthy. Biden said it will be paid for by making sure that corprate America and the wealthy \"pay their fair share.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/biden-suggests-giving-tax-breaks-to-working-class-families-111259205885",
-      "originalUrl": "https://www.nbcnews.com/now/video/biden-suggests-giving-tax-breaks-to-working-class-families-111259205885",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/1620064002102_ott_now_biden_taxcuts_workingclass_210503_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo111259205885",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111259205885",
-      "publishedDateTime": "2021-05-03T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-04-pence-to-headline-new-hampshire-event-in-june.md",
       "title": "Pence to headline New Hampshire event in June",
       "excerpt": "Former Vice President Mike Pence will headline a campaign event in New Hampshire next month, fueling speculation that he may run for the White House.",
@@ -1336,6 +1166,172 @@
         "name": "RealClearPolitics",
         "domain": "realclearpolitics.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-the-slow-painful-death-of-trump-allies-voting-machine-conspiracy-theories.md",
+      "title": "The slow, painful death of Trump allies’ voting-machine conspiracy theories",
+      "excerpt": "Among the many wild conspiracy theories about the 2020 election, few rank as high when it comes to both baselessness and reach as those involving voting machines. The theory that voting machines were programmed to steal the election from President Donald Trump had the benefit,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2MJW36R3GMI6XKWZRFMSE4UAYQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/?outputType=amp",
+      "publishedDateTime": "2021-05-03T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-pence-headed-to-new-hampshire-in-june-sparking-more-2024-buzz.md",
+      "title": "Pence headed to New Hampshire in June, sparking more 2024 buzz",
+      "excerpt": "In a move that will spark further 2024 speculation, former Vice President Mike Pence will headline a major Republican Party dinner and fundraising event in early June in New Hampshire, the state that for a century has held the first primary in the race for the White House,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/pence-new-hampshire-trip-june-2024-buzz",
+      "originalUrl": "https://www.foxnews.com/politics/pence-new-hampshire-trip-june-2024-buzz",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-new-hampshire-trip-june-2024-buzz.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-new-hampshire-trip-june-2024-buzz.amp",
+      "publishedDateTime": "2021-05-03T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-decision-on-donald-trumps-facebook-ban-is-coming-on-wednesday-heres-how-it-will-work.md",
+      "title": "Decision on Donald Trump’s Facebook Ban Is Coming on Wednesday. Here’s How It Will Work.",
+      "excerpt": "Facebook’s independent oversight board said it would issue a ruling Wednesday morning that could determine whether the former president can return to the company’s Facebook and Instagram platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/donald-trump-facebook-ban-decision-11620056600",
+      "originalUrl": "https://www.wsj.com/articles/donald-trump-facebook-ban-decision-11620056600",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-333171/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/donald-trump-facebook-ban-decision-11620056600",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-facebook-ban-decision-11620056600",
+      "publishedDateTime": "2021-05-03T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Why Biden's speech to Congress is technically not a State of the Union address"
-    excerpt: "President Joe Biden will deliver his first address to a joint session of Congress on Wednesday night, but since this is his first address, it's not technically called a \"State of the Union\" speech. It is an \"annual message.\"\n    \n"
-    publishedDateTime: 2021-04-28T13:04:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1eorYz_POW8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/not-a-state-of-the-union-address/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/not-a-state-of-the-union-address/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427174620-us-capitol-0427-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "POLITICO Playbook: Why the next two weeks are critical for the Biden presidency"
     excerpt: "Get ready for a big two weeks from the Biden administration: bipartisan infrastructure talks today, a major Covid and vaccine update speech from President JOE BIDEN on Wednesday, and a two-day climate summit starting on Earth Day this Thursday when Biden will announce America’s 2030 emissions target."
     publishedDateTime: 2021-04-19T10:08:00Z

@@ -32,67 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: The Trump Republican circus gears up for another tour"
-    excerpt: "Donald Trump schooled his protégés well in his politics of down-in-the-muck misinformation.\n    \n"
-    publishedDateTime: 2021-04-27T10:28:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V5wyQnnrMx4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald-trump/index.html"
+  - title: "Texas congressional race showcases GOP fight over Trump, conspiracy theories and election lies "
+    excerpt: "Some Republicans in a crowded field of candidates competing for a US House seat in Texas ahead of a May 1 special election have embraced Donald Trump and his political legacy. A former professional wrestler is using the tagline \"make America Texas again\" as he warns \"commies in DC are ruining America.\""
+    publishedDateTime: 2021-04-30T11:36:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WqjrEkWIjVw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-special-election-trump-conspiracy-theories/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-special-election-trump-conspiracy-theories/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 178
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420081143-01-kevin-mccarthy-0415-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429222942-texas-6th-district-special-election-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "DOJ repeals Trump ban on grants to 'sanctuary cities'"
-    excerpt: "The Justice Department has repealed a policy put in place during the Trump administration that restricted so-called sanctuary cities from receiving federal grants for criminal justice efforts.\n    \n"
-    publishedDateTime: 2021-04-28T15:51:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OFOs5--oius/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/sanctuary-cities-justice-department-trump-policy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/sanctuary-cities-justice-department-trump-policy/index.html"
+  - title: "Rep. Cheney asked if Trump should be prosecuted. Hear her answer"
+    excerpt: "House Conference Chairwoman Rep. Liz Cheney is once again facing the ire of her colleagues and GOP voters after leaning in to greet President Joe Biden as he made his way down the aisle at his speech to a joint session of Congress. CNN's Manu Raju reports.\n    \n"
+    publishedDateTime: 2021-04-30T21:27:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t69Z6BCuTp4/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/30/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/30/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421190715-department-of-justice-ransomware-file-2019-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Biden's first 100 days, by the numbers"
-    excerpt: "President Joe Biden marks his first 100 days in office on Thursday. Let's run the numbers on that milestone:\n    \n"
-    publishedDateTime: 2021-04-29T22:30:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hsFjPoCXdpM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/biden-100-days-by-the-numbers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/biden-100-days-by-the-numbers/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428215609-20210428-biden-joint-speech-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: How the economy is turning into a strength for Biden"
-    excerpt: "President Joe Biden hopes his Democratic Party can defy history next year. It's usually a foregone conclusion that the President's party loses House seats in midterm elections. The Democrats, of course, have a thin House majority and no room for error.\n    \n"
-    publishedDateTime: 2021-05-01T16:02:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n2zgsioWaAc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/biden-economy-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/biden-economy-analysis/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429152424-01-biden-100-days-cnnphotos-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429105551-biden-liz-cheney-fist-bump-0428-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -128,37 +96,129 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The pro-Trump Republican gunning for Cheney's leadership job"
-    excerpt: "Jim Banks speaks to the media with members of the Republican Study Committee about Iran on April 21 in Washington. | Photo by Joshua Roberts/ Jim Banks is the head of the House GOP’s biggest caucus. He’s also earning another unofficial title: shadow chair of the House GOP Conference."
-    publishedDateTime: 2021-05-04T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/05/04/jim-banks-liz-cheney-gop-485269"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/05/04/jim-banks-liz-cheney-gop-485269"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/04/jim-banks-liz-cheney-gop-485269"
+  - title: "Liz Cheney chooses truth over power -- a lonely path in Trump's GOP"
+    excerpt: "Donald Trump is effectively forcing every Republican who wants a political future to show how far they're willing to compromise on principle, truth and conscience for power.\n    \n"
+    publishedDateTime: 2021-05-05T11:11:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z4uoUrvIdzE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/liz-cheney-donald-trump-gop/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/liz-cheney-donald-trump-gop/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505064526-01-liz-cheney-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: A GOP candidate ran on an anti-Trump platform. He won just 3% of the vote."
+    excerpt: "Michael Wood's candidacy in this weekend's special election for Texas' 6th district was regarded as a potential canary in a coal mine.\n    \n"
+    publishedDateTime: 2021-05-03T13:55:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKZnbCwuAWU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/michael-wood-texas-6th-district-susan-wright/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/michael-wood-texas-6th-district-susan-wright/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223084616-texas-energy-market-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP candidate crushed after opposing Trump says party 'not living up to this moment'"
+    excerpt: "Michael Wood, a Republican whose anti-Donald Trump message resulted in a crushing defeat in a special election for a Texas US House seat over the weekend, said the party is compromising its values by spreading the former president's falsehoods.\n    \n"
+    publishedDateTime: 2021-05-04T13:20:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xevB1YamUyU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/04/politics/michael-wood-texas-election-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/michael-wood-texas-election-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504074428-michael-wood-new-day-0504-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fractures in GOP on full display as Cheney faces renewed criticism for bucking Trump and disagreeing with McCarthy in public"
+    excerpt: "House Conference Chairwoman Rep. Liz Cheney is once again facing the ire of her colleagues and GOP voters, laying bare the ongoing and internal divisions within the GOP about how Republicans should move forward in the wake of former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-04-30T17:58:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ACKQE6oxmLc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/liz-cheney-republican-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/liz-cheney-republican-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 148
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205160111-01-liz-cheney-0203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump gets tested in suburban Texas"
+    excerpt: "The 11 Republicans running in Saturday’s House special election have a wide range of opinions on the former president, ranging from Never Trump to Super MAGA."
+    publishedDateTime: 2021-05-01T11:00:00Z
+    webUrl: "https://www.politico.com/news/2021/05/01/texas-special-election-trump-484304"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/05/01/texas-special-election-trump-484304"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/01/texas-special-election-trump-484304"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 135
     images:
-      - url: "https://static.politico.com/99/39/3b9a4f474c63ba2e1ce5d4d1f68d/5-3-21-jimbanks-getty-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static.politico.com/c6/84/8bebd2aa4992bf73c1b6b4800fc6/texas-trump-illo.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "‘There Is a Tension There’: Publishers Draw Fire for Signing Trump Officials"
-    excerpt: "Kellyanne Conway, Mike Pence and William Barr have book deals. That is raising new challenges for publishers trying to balance ideological lines with a desire to continue representing the political spectrum."
-    publishedDateTime: 2021-04-27T23:49:00Z
-    webUrl: "https://www.nytimes.com/2021/04/27/books/publishing-trump-conservatives-kellyanne-conway.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/27/books/publishing-trump-conservatives-kellyanne-conway.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/27/books/publishing-trump-conservatives-kellyanne-conway.amp.html"
+  - title: "Court Could Consider Whether Trump Interfered in Cloud Computing Contract"
+    excerpt: "The decision could be a win for Amazon, which said it was passed over for the $10 billion Pentagon contract because of his animosity toward its founder, Jeff Bezos."
+    publishedDateTime: 2021-04-28T20:35:00Z
+    webUrl: "https://www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/28/technology/trump-jedi-pentagon-microsoft-amazon.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 132
+    quality: 134
     images:
-      - url: "https://static01.nyt.com/images/2021/04/27/books/27rightbooks1-sub/27rightbooks1-sub-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/04/28/business/28jedi/merlin_161472645_b390071c-509b-4eca-a742-44668e12796f-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump’s Battle to Win the First 100 Days"
+    excerpt: "The former president has been on an increasingly manic crusade to knock his successor and buff his own battered legacy."
+    publishedDateTime: 2021-04-29T08:30:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/04/29/donald-trump-100-days-484926"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/7c/b1/a782d7494b8980672da54063c872/mag.Kruse.Trump100Days-lede_773override.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump attorney, other allies launch voter fraud organization"
+    excerpt: "The Election Integrity Alliance's board includes former Trump campaign lawyer Jenna Ellis and other notable supporters."
+    publishedDateTime: 2021-05-05T08:35:00Z
+    webUrl: "https://www.politico.com/news/2021/05/05/trump-election-integrity-organization-485399"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/a4/08/1329ed1641b6a7162ea146df6ea7/ap20324801945195-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "u5/Zig7b4bd+wTHRq3YD7KBL9HzUBVGaFYRkT0d1V6B58bEjPvsHLD3jCqPIcADTedFNLw6Ej2R7oZgjQcfn2O7HfxE0j3jFv5pdxBaM1peocOESvaKCXFWMZxR+X5Hr4YHf9QdxYfRtbTAEo5Cj2jJZ539kXI0sE5VwoVYLLrHwABCFeAb41BCQePs8poKmPUNsPDDgCScou/FW/yGAfVRjY7MhPA9yziHafe5sz6ZTNJrDCrkVJA8jdxZA3eBQPsEAFhpwPl/6PIIBpWIvUSLlsN/7mHUHxm3tFyBCJk+oPKn5lhaDlj6U3k0KhifDupLy7i3mLGDYFvafZJ51GJ7GC5Cu4RDIEuq8bIP64LLNvsP+cVHPYAKBZkMzS1jVxMKhn5u4Hvl2bAC1lqJJJAdyioL7OYZyddAJdUh6II2Utpv2AC0NBQBFPURNd4OMpbVL6aEyGan3RIe2CQnwwlHCUBa8Zy48ZyVlPLTriiy3pXuCnodu7lp5C1z4S83ReHehe1X57zfLJLv9KGH8Zw==;GSdGnsSZLjjSWhv+R1a9yQ=="

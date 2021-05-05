@@ -192,6 +192,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Facebook Oversight Board Is Set to Rule on Donald Trump Ban"
+    excerpt: "The technology company’s independent oversight board will issue a ruling Wednesday morning that could determine whether the former president can return to its Facebook and Instagram platforms."
+    publishedDateTime: 2021-05-05T08:37:00Z
+    webUrl: "https://www.wsj.com/articles/donald-trump-facebook-ban-decision-11620056600"
+    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-facebook-ban-decision-11620056600"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-facebook-ban-decision-11620056600"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-333171/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Cuomo defends blocking release of true NY nursing home death toll, blames Trump DOJ"
     excerpt: "New York Gov. Andrew Cuomo pushed back after a New York Times report said his administration conducted a months-long effort to downplay the number of nursing home patients in the state who died from coronavirus."
     publishedDateTime: 2021-04-29T18:30:00Z

@@ -125,6 +125,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Judge orders Justice Department to release Trump obstruction memo"
+    excerpt: "U.S. District Judge Amy Berman Jackson said AG William Barr had obscured \"the true purpose of the memorandum\" when it withheld the document."
+    publishedDateTime: 2021-05-05T11:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/05/judge-orders-justice-department-release-trump-obstruction-memo/4952659001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4952659001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4952659001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/11/USAT/cd70680c-eb01-4028-811e-d96055489d94-AFP_AFP_8WA7MF.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pentagon halts border wall construction paid for with defense funds redirected by Trump"
     excerpt: "In 2019, the Trump administration used Defense Department cash for border wall projects when Congress refused to fund them."
     publishedDateTime: 2021-05-01T11:16:00Z

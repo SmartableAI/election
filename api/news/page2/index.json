@@ -2,228 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-05-03-the-slow-painful-death-of-trump-allies-voting-machine-conspiracy-theories.md",
-      "title": "The slow, painful death of Trump allies’ voting-machine conspiracy theories",
-      "excerpt": "Among the many wild conspiracy theories about the 2020 election, few rank as high when it comes to both baselessness and reach as those involving voting machines. The theory that voting machines were programmed to steal the election from President Donald Trump had the benefit,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2MJW36R3GMI6XKWZRFMSE4UAYQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/?outputType=amp",
-      "publishedDateTime": "2021-05-03T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-pence-headed-to-new-hampshire-in-june-sparking-more-2024-buzz.md",
-      "title": "Pence headed to New Hampshire in June, sparking more 2024 buzz",
-      "excerpt": "In a move that will spark further 2024 speculation, former Vice President Mike Pence will headline a major Republican Party dinner and fundraising event in early June in New Hampshire, the state that for a century has held the first primary in the race for the White House,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/pence-new-hampshire-trip-june-2024-buzz",
-      "originalUrl": "https://www.foxnews.com/politics/pence-new-hampshire-trip-june-2024-buzz",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-new-hampshire-trip-june-2024-buzz.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-new-hampshire-trip-june-2024-buzz.amp",
-      "publishedDateTime": "2021-05-03T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-decision-on-donald-trumps-facebook-ban-is-coming-on-wednesday-heres-how-it-will-work.md",
-      "title": "Decision on Donald Trump’s Facebook Ban Is Coming on Wednesday. Here’s How It Will Work.",
-      "excerpt": "Facebook’s independent oversight board said it would issue a ruling Wednesday morning that could determine whether the former president can return to the company’s Facebook and Instagram platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/donald-trump-facebook-ban-decision-11620056600",
-      "originalUrl": "https://www.wsj.com/articles/donald-trump-facebook-ban-decision-11620056600",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-333171/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/donald-trump-facebook-ban-decision-11620056600",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-facebook-ban-decision-11620056600",
-      "publishedDateTime": "2021-05-03T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-the-point-a-gop-candidate-ran-on-an-anti-trump-platform-he-won-just-3-of-the-vote.md",
-      "title": "The Point: A GOP candidate ran on an anti-Trump platform. He won just 3% of the vote.",
-      "excerpt": "Michael Wood's candidacy in this weekend's special election for Texas' 6th district was regarded as a potential canary in a coal mine.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKZnbCwuAWU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKZnbCwuAWU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210223084616-texas-energy-market-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/03/politics/michael-wood-texas-6th-district-susan-wright/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/michael-wood-texas-6th-district-susan-wright/index.html",
-      "publishedDateTime": "2021-05-03T06:55:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-03-lincoln-project-taunts-trump-saying-he-lost-to-swamp-mcconnell.md",
       "title": "Lincoln Project taunts Trump, saying he lost to 'swamp,' McConnell",
       "excerpt": "The Lincoln Project is taunting former President Trump in a new attack ad, saying the former president got \"played\" by the Republican establishment in Washington, D.C.",
@@ -273,6 +51,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-biden-team-may-partner-with-private-firms-to-surveil-suspected-domestic-terrorists-online.md",
+      "title": "Biden team may partner with private firms to surveil suspected domestic terrorists online",
+      "excerpt": "The Biden administration is considering using outside firms to track extremist chatter by Americans online, an effort that would expand the government's ability to gather intelligence but could draw criticism over surveillance of US citizens.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WBMr4kaTXzU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WBMr4kaTXzU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210107134539-20-us-capitol-riots-0106-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/03/politics/dhs-partner-private-firms-surveil-suspected-domestic-terrorists/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/dhs-partner-private-firms-surveil-suspected-domestic-terrorists/index.html",
+      "publishedDateTime": "2021-05-03T03:02:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -549,62 +383,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-02-janet-yellen-says-critics-of-bidens-tax-hikes-are-asking-the-wrong-question.md",
-      "title": "Janet Yellen says critics of Biden's tax hikes are asking the wrong question  ",
-      "excerpt": "Doctors follow the Hippocratic oath: do no harm. The architects of President Joe Biden's tax increases took a somewhat different approach.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ULQQIWvOXv8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ULQQIWvOXv8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200113043352-janet-yellen-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/02/politics/janet-yellen-biden-tax-hikes/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/02/politics/janet-yellen-biden-tax-hikes/index.html",
-      "publishedDateTime": "2021-05-02T04:06:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-02-tucker-carlson-biden-believes-in-crushing-civil-liberties-in-order-to-achieve-political-imperatives.md",
       "title": "Tucker Carlson: Biden Believes In Crushing Civil Liberties In Order To Achieve Political Imperatives",
       "excerpt": "Tucker Carlson's opening monologue on Joe Biden's address to the Joint Session of Congress: TUCKER CARLSON: Joe Biden spoke to a joint session of Congress Wednesday, night. If you saw it -- and relatively few people did,",
@@ -702,62 +480,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-biden-administration-releases-trump-era-deadly-force-rules-for-terrorist-suspects-abroad.md",
-      "title": "Biden administration releases Trump-era deadly force rules for terrorist suspects abroad",
-      "excerpt": "The Biden administration disclosed Trump-era rules on Friday regulating the use of deadly force against terrorism suspects abroad, releasing them with several redacted lines to the American Civil Liberties Union and the New York Times as part of a Freedom of Information Act lawsuit after the Trump administration",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TzaCLD3dTrc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TzaCLD3dTrc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 561,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190909124239-01-donald-trump-0904-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/01/politics/biden-administration-trump-counterterrorism-rules/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/biden-administration-trump-counterterrorism-rules/index.html",
-      "publishedDateTime": "2021-05-01T15:46:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -982,7 +704,7 @@
       "originalUrl": "https://www.washingtonpost.com/video/politics/pence-gives-first-public-speech-since-end-of-trump-administration/2021/05/01/3b006924-331c-471a-8796-f0d0e8035d97_video.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 630,
+      "heat": 650,
       "tags": null,
       "images": [
         {
@@ -1027,25 +749,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-01-trump-gets-tested-in-suburban-texas.md",
-      "title": "Trump gets tested in suburban Texas",
-      "excerpt": "The 11 Republicans running in Saturday’s House special election have a wide range of opinions on the former president, ranging from Never Trump to Super MAGA.",
+      "path": "_news/2021-05-01-pro-trump-and-anti-vax-sites-urging-people-to-forge-covid-19-vaccination-cards-says-cdc.md",
+      "title": "Pro-Trump and anti-vax sites urging people to forge COVID-19 vaccination cards, says CDC",
+      "excerpt": "Faking a vaccination is easy with a template and blank flashcard. New York is the only state that keeps track of authentic cards. It is against the law to fake vaccination cards. Some former President Trump supporters and anti-vaxxers are forging vaccine cards using a government-issued template to falsely state they received their shots.",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/05/01/texas-special-election-trump-484304",
-      "originalUrl": "https://www.politico.com/news/2021/05/01/texas-special-election-trump-484304",
+      "webUrl": "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to",
+      "originalUrl": "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
+      "highlight": null,
+      "heat": 136,
       "tags": null,
       "images": [
         {
-          "url": "https://static.politico.com/c6/84/8bebd2aa4992bf73c1b6b4800fc6/texas-trump-illo.jpg",
-          "width": 2000,
-          "height": 1333,
+          "url": "https://thehill.com/sites/default/files/ca.vac_card_gettyimages-1230169189.jpg",
+          "width": 1440,
+          "height": 880,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1053,16 +771,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/05/01/texas-special-election-trump-484304",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/01/texas-special-election-trump-484304",
-      "publishedDateTime": "2021-05-01T04:00:00-07:00",
+      "ampWebUrl": "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to?amp",
+      "publishedDateTime": "2021-04-30T17:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1079,8 +797,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Democratic Voice"
+        "Donald Trump"
       ]
     },
     {
@@ -1341,6 +1058,283 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-biden-administration-to-pursue-practical-north-korea-nuclear-diplomacy.md",
+      "title": "Biden administration to pursue 'practical' North Korea nuclear diplomacy",
+      "excerpt": "The White House Friday confirmed the Biden Administration has completed a months-long review of North Korea policy and will chart a different path than former President Donald Trump in an effort to end North Korea’s nuclear and ballistic missile program.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SsYdkh90qU4/biden-admin-practical-north-korea-nuclear-diplomacy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SsYdkh90qU4/biden-admin-practical-north-korea-nuclear-diplomacy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-practical-north-korea-nuclear-diplomacy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-practical-north-korea-nuclear-diplomacy.amp",
+      "publishedDateTime": "2021-04-30T14:01:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-hillary-clinton-signals-break-from-biden-over-us-troop-withdrawal-from-afghanistan-report.md",
+      "title": "Hillary Clinton signals break from Biden over US troop withdrawal from Afghanistan: report",
+      "excerpt": "Former Secretary of State Hillary Clinton has reportedly expressed concerns over President Biden’s plan to withdraw U.S. troops from Afghanistan by Sept. 11. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LwzwQY--8os/hillary-clinton-biden-afghan-troop-withdrawal",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LwzwQY--8os/hillary-clinton-biden-afghan-troop-withdrawal",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a5069a4f-7bc9-458b-b0ab-003b5ce6841a/52740765-1d54-48a5-915c-be1921e0d2cf/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hillary-clinton-biden-afghan-troop-withdrawal.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-biden-afghan-troop-withdrawal.amp",
+      "publishedDateTime": "2021-04-30T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-01-cnns-gloria-borger-falsely-claims-operation-warp-speed-happened-under-joe-biden.md",
+      "title": "CNN's Gloria Borger falsely claims Operation Warp Speed 'happened under Joe Biden'",
+      "excerpt": "CNN political analyst Gloria Borger falsely said Operation Warp Speed occurred under President Biden on Wednesday, and no one on CNN's panel corrected her in real time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/cnns-gloria-borger-operation-warp-speed-joe-biden",
+      "originalUrl": "https://www.foxnews.com/media/cnns-gloria-borger-operation-warp-speed-joe-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02d8a247-9dbf-48a1-90ff-5e2576f98549/c71a7b29-2c1e-46d9-811b-d231e175c379/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/cnns-gloria-borger-operation-warp-speed-joe-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnns-gloria-borger-operation-warp-speed-joe-biden.amp",
+      "publishedDateTime": "2021-04-30T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-bidens-bringing-cat-into-white-house-despite-dog-biting-drama.md",
+      "title": "Bidens bringing cat into White House despite dog-biting drama",
+      "excerpt": "Despite having a ruff run of things with first dog Major caught up in a biting scandal, President Biden and first lady Jill Biden announced Friday that they’re bringing a cat to the White House.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TN1s2IHXNqg/bidens-bringing-cat-white-house-dog-biting",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TN1s2IHXNqg/bidens-bringing-cat-white-house-dog-biting",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b6165699-e33d-4790-9f5d-d33471d1c4b4/19c2eb65-527f-4e43-9d3a-3aed7ed97d5b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-bringing-cat-white-house-dog-biting.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-bringing-cat-white-house-dog-biting.amp",
+      "publishedDateTime": "2021-04-30T09:46:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-paul-ryan-trump-debate-will-fade-as-new-candidates-emerge.md",
+      "title": "Paul Ryan: Trump debate will fade as new candidates emerge",
+      "excerpt": "Nearly six months after the presidential election, Republicans remain divided over former President Donald Trump",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_c9db11371d264d36a3059ee975d86cbf_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027",
+      "publishedDateTime": "2021-04-30T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

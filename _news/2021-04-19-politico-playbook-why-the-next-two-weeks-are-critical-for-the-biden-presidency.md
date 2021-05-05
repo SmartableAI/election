@@ -46,22 +46,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Why Biden's speech to Congress is technically not a State of the Union address"
-    excerpt: "President Joe Biden will deliver his first address to a joint session of Congress on Wednesday night, but since this is his first address, it's not technically called a \"State of the Union\" speech. It is an \"annual message.\"\n    \n"
-    publishedDateTime: 2021-04-28T13:04:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1eorYz_POW8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/not-a-state-of-the-union-address/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/not-a-state-of-the-union-address/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427174620-us-capitol-0427-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Progressive House members reflect on wins and losses in Biden's first 100 days"
     excerpt: "Progressives in the House were apprehensive when Joe Biden stepped into office -- the President was an unabashedly moderate Democrat and ready to cut deals with Republicans, many of whom he had known longer than some progressive members of Congress had been alive.\n    \n"
     publishedDateTime: 2021-05-01T18:06:28Z

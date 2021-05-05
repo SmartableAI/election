@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "DOJ repeals Trump ban on grants to 'sanctuary cities'"
-    excerpt: "The Justice Department has repealed a policy put in place during the Trump administration that restricted so-called sanctuary cities from receiving federal grants for criminal justice efforts.\n    \n"
-    publishedDateTime: 2021-04-28T15:51:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OFOs5--oius/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/sanctuary-cities-justice-department-trump-policy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/sanctuary-cities-justice-department-trump-policy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421190715-department-of-justice-ransomware-file-2019-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Analysis: How the economy is turning into a strength for Biden"
     excerpt: "President Joe Biden hopes his Democratic Party can defy history next year. It's usually a foregone conclusion that the President's party loses House seats in midterm elections. The Democrats, of course, have a thin House majority and no room for error.\n    \n"
     publishedDateTime: 2021-05-01T16:02:13Z
@@ -78,54 +62,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429152424-01-biden-100-days-cnnphotos-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Analysis: GOP leaders who defy Trump feel the heat from his base"
-    excerpt: "Months after voters ousted Donald Trump from the White House, the fractures within the GOP are in sharp relief as the party wrestles with its post-Trump identity and prominent Republicans who stood up to him after the January 6 insurrection are feeling heat from his base with primaries brewing ahead"
-    publishedDateTime: 2021-05-02T04:45:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gkEzko8LTxA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/02/politics/romney-cheney-trump-gop/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/02/politics/romney-cheney-trump-gop/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The GOP's devotion to Trump threatens to destroy American democracy"
-    excerpt: "With its cultish devotion to Donald Trump, the majority of the Republican Party is choosing a wannabe-autocrat over the political system that made the United States the world's most powerful nation and its dominant democracy.\n    \n"
-    publishedDateTime: 2021-05-04T10:38:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N9vM4dNyjl4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/04/politics/donald-trump-gop-democracy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/donald-trump-gop-democracy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427170017-01-trump-manhattan-0309-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Conan O’Brien Says No More Trump Jokes for Final Two Months on TBS"
-    excerpt: "O’Brien said the last episodes of “Conan” will feature special guests and clips of his favorite moments on the show before he moves to HBO Max."
-    publishedDateTime: 2021-05-04T05:46:00Z
-    webUrl: "https://www.nytimes.com/2021/05/04/arts/television/conan-obrien-to-leave-tbs.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/04/arts/television/conan-obrien-to-leave-tbs.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/04/arts/television/conan-obrien-to-leave-tbs.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/04/arts/04latenight/04latenight-facebookJumbo.png"
-        width: 910
-        height: 477
         isCached: true
   - title: "The pro-Trump Republican gunning for Cheney's leadership job"
     excerpt: "Jim Banks speaks to the media with members of the Republican Study Committee about Iran on April 21 in Washington. | Photo by Joshua Roberts/ Jim Banks is the head of the House GOP’s biggest caucus. He’s also earning another unofficial title: shadow chair of the House GOP Conference."

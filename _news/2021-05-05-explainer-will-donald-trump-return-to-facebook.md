@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook oversight board to give verdict on Donald Trump ban – live"
+    excerpt: "Good morning, this is Lauren Aratani kicking off today’s politics live blog. Facebook’s Oversight Board – AKA Facebook’s “supreme court” – will be announcing its dec"
+    publishedDateTime: 2021-05-05T10:35:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/9ec4843e2e4cfdd90b7b916a71df314a47003225/0_59_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4481d464346f41d93bb22d4493664ab4"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Facebook and Trump are at a turning point in their long, tortured relationship"
     excerpt: "Facebook’s decision to outsource the future of Trump’s account to an independent Oversight Board stems from a tortured relationship with the former president. It could also set a precedent on how social media companies handle politicians and on how they will balance free speech and harm."
     publishedDateTime: 2021-05-04T10:15:00Z
@@ -42,38 +58,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SUC6YBUU2II6XKW4V54HAGRQZI.jpg&w=1440"
         width: 1440
         height: 901
-        isCached: true
-  - title: "Pro-Trump and anti-vax sites urging people to forge COVID-19 vaccination cards, says CDC"
-    excerpt: "Faking a vaccination is easy with a template and blank flashcard. New York is the only state that keeps track of authentic cards. It is against the law to fake vaccination cards. Some former President Trump supporters and anti-vaxxers are forging vaccine cards using a government-issued template to falsely state they received their shots."
-    publishedDateTime: 2021-05-01T00:17:00Z
-    webUrl: "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to"
-    ampWebUrl: "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 116
-    images:
-      - url: "https://thehill.com/sites/default/files/ca.vac_card_gettyimages-1230169189.jpg"
-        width: 1440
-        height: 880
-        isCached: true
-  - title: "After Trump-era cutbacks and a pandemic, immigrant advocacy groups prepare to meet a rising need"
-    excerpt: "Even before the pandemic hit immigrant relief organizations — forcing them to cut hours, freeze volunteer programs, move online and scrap for funding as donations dried up — groups that serve newly arrived immigrants were struggling to keep some programs afloat."
-    publishedDateTime: 2021-05-03T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/local/immigration-services-need/2021/05/02/4f139f8c-a395-11eb-a774-7b47ceb36ee8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/immigration-services-need/2021/05/02/4f139f8c-a395-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/immigration-services-need/2021/05/02/4f139f8c-a395-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XLMI2GETXYI6XKW4V54HAGRQZI.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Defining Moment For Facebook Oversight Panel With Trump Ban Ruling"
     excerpt: "Facebook's independent oversight board was set for a momentous decision on the platform's ban of former US president Donald Trump, as debate swirls on the role of social media in curbing hateful and abusive speech while controlling political discourse."
@@ -103,17 +87,6 @@ related:
         width: 1024
         height: 731
         isCached: true
-  - title: "Special Report: How Trump Scored a Big Tax Break for Conserving a Golf Range"
-    excerpt: "Trump eventually abandoned a plan to build 16 homes and turned instead to the tax code to offset the lost profits - securing a $25 million tax deduction in exchange for a promise not to develop the land."
-    publishedDateTime: 2021-04-30T12:06:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 52
   - title: "Explainer-Ahead of Trump Facebook Ruling, Here’s How Social Media Sites Handle World Leaders"
     excerpt: "Facebook's independent oversight board on Wednesday will announce whether it is overturning the company's suspension of former U.S. President Donald Trump's account. The long-awaited ruling will bring the focus back onto how the world's largest social network decides what world leaders and politicians can and can't say on their platforms."
     publishedDateTime: 2021-05-04T11:20:00Z

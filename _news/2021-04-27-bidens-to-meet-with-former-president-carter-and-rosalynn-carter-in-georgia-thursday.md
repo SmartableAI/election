@@ -127,54 +127,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "5 takeaways from President Biden's address to Congress"
-    excerpt: "President Joe Biden made a sweeping case Wednesday for massive new programs that would transform the government's role in Americans' lives, claiming the very future of the country is at stake in his first address to Congress.\n    \n"
-    publishedDateTime: 2021-04-29T03:17:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RxT1N0Nyi-o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/joe-biden-congress-address-takeaways/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/joe-biden-congress-address-takeaways/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428212311-17-biden-address-0428-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact-checking Biden's first joint address to Congress "
-    excerpt: "In his first joint address to Congress, President Joe Biden struck an optimistic tone, speaking for more than an hour and pushing his expansive vision of building America \"back better\" by touting his vast infrastructure plan and praising the progress the country has made against Covid-19.\n    \n"
-    publishedDateTime: 2021-04-29T03:52:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UmC_ck4-jqw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/biden-joint-address-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/biden-joint-address-fact-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428220950-biden-address-to-congress-vpx-screengrab-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact-checking GOP response to Biden's joint address "
-    excerpt: "In the Republican response to President Joe Biden's joint address to Congress, Sen. Tim Scott of South Carolina said Biden and Democrats were \"pulling\" the US apart and took time to praise former President Donald Trump.\n    \n"
-    publishedDateTime: 2021-04-29T06:14:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0xIeT0TOenU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/tim-scott-joint-address-response-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/tim-scott-joint-address-response-fact-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428223632-02-gop-response-tim-scott-play-button-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Now, it's Congress' turn to pick up the baton on Biden's agenda"
     excerpt: "President Joe Biden laid out a far-reaching agenda to Congress on Wednesday night, one that implored his former Senate colleagues and the House of Representatives to get to work and close out nearly a dozen issues that he has worked on for most of his career.\n    \n"
     publishedDateTime: 2021-04-29T12:58:21Z
@@ -191,19 +143,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Hits and misses from Biden's speech"
-    excerpt: "President Joe Biden delivered the biggest speech of his presidency to date on Wednesday night -- an address to a joint session of Congress.\n    \n"
-    publishedDateTime: 2021-04-29T04:45:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BD1B9lgduyI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/biden-speech-hits-and-misses/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/biden-speech-hits-and-misses/index.html"
+  - title: "Bipartisan talks on infrastructure heat up as Biden prepares for big push"
+    excerpt: "As the White House intensifies conversations with key Republicans on infrastructure, a small, bipartisan group of senators is in the early stages of seeing if they might be able to break loose consensus on their own plan.\n    \n"
+    publishedDateTime: 2021-04-27T23:19:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oXqbUAyCKaE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/infrastructure-negotiations-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/infrastructure-negotiations-congress/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428225506-67-biden-address-0428-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/171206163232-jon-tester-montana-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -271,22 +223,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden announces 2nd slate of diverse judicial nominees"
-    excerpt: "President Joe Biden announced Thursday that he is nominating additional diverse candidates for federal court vacancies. The nominees include David Estudillo, now presiding judge of Grant County Superior Court in Ephrata,"
-    publishedDateTime: 2021-04-29T12:03:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-announces-2nd-slate-diverse-judicial-nominees-n1265822"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265822"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265822"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_17/3468881/210429-joe-biden-al-0724_bc66cfa1a626da9e6085bdf9335c518f.jpg"
-        width: 2500
-        height: 1350
-        isCached: true
   - title: "Pro-Biden Group to Begin Ad Campaign Promoting His Agenda in Swing States"
     excerpt: "Building Back Together will highlight the president’s coronavirus response and his economic plan and will contrast his measured approach to his bombastic predecessor’s."
     publishedDateTime: 2021-04-30T09:00:00Z
@@ -302,20 +238,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/04/30/us/politics/30-BIDENAD/30-BIDENAD-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Europe's backsliding democracies undermine Biden's united front"
-    excerpt: "President Joe Biden told Congress he wants to show that “democracy can deliver” after the United States “stared into an abyss of autocracy and insurrection.” But from France to Poland to the Balkans,"
-    publishedDateTime: 2021-04-30T13:57:00Z
-    webUrl: "https://www.politico.com/newsletters/global-translations/2021/04/30/europes-backsliding-democracies-undermine-bidens-united-front-492670"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/bc/89ed482f4862b339c70a33cc0fb0/politico-global-translations-shared-graphic.jpg"
-        width: 1201
-        height: 629
         isCached: true
 
 secured: "sTqB12qLbIKzg/EeYmOKkJWqaCx+dS8q/eYhHnId1RBFhvXSlQncYwiE1ZrOQNBpbrTp07nKbqPoPVONu65UJ1dvT57ZiBFbsa1W7rwPEGpmew5N+qHR4d+ZntcLkYNF293AHf9GM3A5Ss9eGkRolI5nyvwypfjlKbNqgWSuiAiToxt9/WA/ebiuq/tQb6LJvmpY1QdTPZHgvlxsRLJ8glBhrxcNv79ZeT85lNPUNyNDatuxe+D8vFSEst1D1tHuDK5jnc8gdgwqBY/mMIVG2aLeyYlX5sDoJzgyzo8urOPEVqrENDA/D10hMprbqBSR9HroUuINCtF6sqZU00Mt5Ghg9Qm+wkXIkBHqQF5DWCo=;v2oJ5DThVVx2bpoAGWEQ3A=="

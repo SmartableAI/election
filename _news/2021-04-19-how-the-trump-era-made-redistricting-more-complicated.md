@@ -64,22 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Rep. Cheney asked if Trump should be prosecuted. Hear her answer"
-    excerpt: "House Conference Chairwoman Rep. Liz Cheney is once again facing the ire of her colleagues and GOP voters after leaning in to greet President Joe Biden as he made his way down the aisle at his speech to a joint session of Congress. CNN's Manu Raju reports.\n    \n"
-    publishedDateTime: 2021-04-30T21:27:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t69Z6BCuTp4/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/04/30/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/04/30/liz-cheney-fist-bump-biden-republican-reaction-mccarthy-raju-pkg-lead-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429105551-biden-liz-cheney-fist-bump-0428-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Nikki Haley says she'll support and not challenge Trump if he runs in 2024"
     excerpt: "Former UN Ambassador Nikki Haley on Monday said she would back her onetime boss, former President Donald Trump, if he decides to run for the Republican Party's presidential nomination again in 2024 and not mount a bid against him.\n    \n"
     publishedDateTime: 2021-04-13T02:07:29Z

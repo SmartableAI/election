@@ -48,21 +48,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "GOP candidate crushed after opposing Trump says party 'not living up to this moment'"
-    excerpt: "Michael Wood, a Republican whose anti-Donald Trump message resulted in a crushing defeat in a special election for a Texas US House seat over the weekend, said the party is compromising its values by spreading the former president's falsehoods.\n    \n"
-    publishedDateTime: 2021-05-04T13:20:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xevB1YamUyU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/04/politics/michael-wood-texas-election-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/michael-wood-texas-election-cnntv/index.html"
+  - title: "Judge orders DOJ to release Trump obstruction memo prepared for Barr on Russia investigation"
+    excerpt: "U.S. District Judge Amy Berman Jackson, in a sharp rebuke of the former attorney general, said the Justice Dept. had obscured “the true purpose of the memorandum.\""
+    publishedDateTime: 2021-05-05T10:29:00Z
+    webUrl: "https://www.nbcnews.com/politics/justice-department/judge-orders-doj-release-trump-obstruction-memo-prepared-barr-russia-n1266355"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266355"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266355"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504074428-michael-wood-new-day-0504-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_18/3470302/210505-william-barr-mc-1117_4474e29e3e04d86c6038f8b4a9171c12.JPG"
+        width: 2500
+        height: 1666
         isCached: true
 
 secured: "NmMxIIBeVrea2Pd5NqJKT2Da0h6XelAwIyH3aL96AlyURyQKIbLyvtHQXohmYbG0ZFZKi+HHVMgKcA+Wuvi/65qgRrLWZgSQLIbtCs5CVJ8z6q15RXxz+SJx0hoGaGscC4XhHZZaJBSDrI4CCWNBeWAsHzqc1kf0MHaeSg6MnGGzaXV9F9nEnZyzkTPfadJYQVLI9QvhbbPjNP3TeyGa21HDWW6+Jg7d1RyCLdtsUa+Y4+LxoL0P3TV/HKuc7HHSStQPchElZ4dFNaVbqDF1CoUDcj9rrydj463kLhoxUuaezdIuzDTwblLxTxkcmu6epheQvMa1WBcpNDV33uLUV5lAIgEGv+NDEJ947bi3RXzGLrQthOxhvhNWh2nXPRhtrnmhIxjR+cnXF4QRUaCfQcolz040y9SXCjdW8RIgUMn1HM9512VOiaHgBCdYbQSce4lQFQ6HPoT6RUh70i7EueWsaNePDJN2d5eGdurpz4cJ6LKWncAGHVxN4vDKVs0B+eb0hLnlD9qFf9g34iYPpQ==;AF8j5BoOijvwdnQ8fbjXNQ=="
