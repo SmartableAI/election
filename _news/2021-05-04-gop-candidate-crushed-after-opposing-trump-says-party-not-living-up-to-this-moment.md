@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Judge Rebukes Barr’s Justice Dept. as Misleading on Decision Not to Charge Trump"
+    excerpt: "Judge Amy Berman Jackson said in a ruling that the misleading statements were similar to others that William P. Barr, the former attorney general, had made about the Mueller investigation."
+    publishedDateTime: 2021-05-04T23:26:00Z
+    webUrl: "https://www.nytimes.com/2021/05/04/us/politics/barr-trump-obstruction-russia-inquiry.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/04/us/politics/barr-trump-obstruction-russia-inquiry.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/04/us/politics/barr-trump-obstruction-russia-inquiry.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/04/us/politics/04dc-obstruction/04dc-obstruction-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "FD2PQhNfO4mjZR1oj5NHdhotc3ObToTrfAr/bAyp3uUk/kj1vp/E4i4fQpgca7p4p4kvSvgg5DN2jLLs+QmZW4bFNWRD0glVlk0uXde+niYn4y2co/rWB96Ab8LQuvdCXMYUcNTc61VfQoM7qfUFP7EgIzg7EaBducEI5JrWOmHcLeUKFAAGObtXJrNxMpqPZsle5Yb+wpgvICAM0P/pGQK2JkL5y0yUhbmoqU5yOKYtAVKMDGIFOB8Jr9txsRXVSQmGASoOe1TG2JIVRyGkVWuJuWKAP3Ztwd2No5BvL/5xRU0thwX9tCKWYWeBC1wv8ehicfnxm3f+viM4SpHkuex4sT6kFvqeH6AGWOKsIGI=;9tk4HX0NFUtyCdqiHo83iA=="
 ---

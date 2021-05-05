@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Nava
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
 type: article
 quality: 125
-heat: 785
+heat: 805
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/04/harris_02681_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Vice President Kamala Harris to visit Rhode Island today"
+    excerpt: "Vice President Kamala Harris is scheduled to pay a visit to Rhode Island on Wednesday. She’ll be joined by Rhode I"
+    publishedDateTime: 2021-05-05T04:00:00Z
+    webUrl: "https://www.wpri.com/dont-miss/vp-kamala-harris-visits-rhode-island/"
+    ampWebUrl: "https://www.wpri.com/dont-miss/vp-kamala-harris-visits-rhode-island/amp/"
+    cdnAmpWebUrl: "https://www-wpri-com.cdn.ampproject.org/c/s/www.wpri.com/dont-miss/vp-kamala-harris-visits-rhode-island/amp/"
+    type: article
+    provider:
+      name: WPRI 12
+      domain: wpri.com
+    quality: 75
+    images:
+      - url: "https://www.wpri.com/wp-content/uploads/sites/23/2021/05/GettyImages-1232595371.jpg?w=1280"
+        width: 800
+        height: 449
         isCached: true
   - title: "Photos: Kamala Harris sells San Francisco loft; seeks buyer for DC condo"
     excerpt: "Kamala Harris has sold her SoMa loft in San Francisco for $860,000 and now seeks a buyer for her Washington, DC, condo."

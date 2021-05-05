@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Giuliani’s Legal Bills Are Growing. His Allies Want Trump to Pay Them."
+    excerpt: "As Rudolph Giuliani faces an escalating federal investigation and defamation suits, his advisers believe he should benefit from a $250 million Trump campaign war chest."
+    publishedDateTime: 2021-05-04T23:53:00Z
+    webUrl: "https://www.nytimes.com/2021/05/04/us/politics/rudy-giuliani-warrant-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/04/us/politics/rudy-giuliani-warrant-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/04/us/politics/rudy-giuliani-warrant-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/04/nyregion/04nygiuliani/04nygiuliani-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "JACJv54KRLQi9SYIt02jCZgAHOlSsO3OarlgNscCWdT8Z7SAziL7B7w89k6j9HQVTPmbThPQqI2o0bO6olhoqNDT9YXXB8rvzr3kFoH5AHxdupuIaHPscRuyg4nvjlqZtQrcS0af49Ew7fe2ZK30BCJJNs+0RQfAljiLbp+P4Q3mkr5ULWp/v4HvT2f8GVmv7lJPsirjtFfIytcyRITyr/tqWvk4pZRkWnUaRYJ+R1QYVoa3yL5KqtDr/R8wz+7lYZ68397r9xzkEb8ggntLYFS0zOk84wKysNW+QknohIcwnRlfNvnxqRqws2HEljSFctm+Bqm+RfwdeEcGTthA8J+WMsG/SXH8G7KgBN7hBzA=;MR6X1ICKMiUl61rblUZRsg=="
 ---

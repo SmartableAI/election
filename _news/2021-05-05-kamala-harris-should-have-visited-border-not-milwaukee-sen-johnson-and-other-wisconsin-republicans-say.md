@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Harris to lead National Space Council amid criticism over lack of border visit"
-excerpt: "Vice President Kamala Harris announced Saturday that she will lead the National Space Council -- even as she continues to face criticism for not visiting the southern border as part of her role in addressing the migrant crisis."
-publishedDateTime: 2021-05-01T19:30:12Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/59VzsGklxQw/harris-to-lead-the-national-space-council-border-visit"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/59VzsGklxQw/harris-to-lead-the-national-space-council-border-visit"
-ampWebUrl: "https://www.foxnews.com/politics/harris-to-lead-the-national-space-council-border-visit.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-to-lead-the-national-space-council-border-visit.amp"
+title: "Kamala Harris should have visited border, not Milwaukee, Sen. Johnson and other Wisconsin Republicans say"
+excerpt: "Kamala Harris was in Milwaukee on Tuesday but several Wisconsin Republicans said they wished the vice president had gone to the U.S.-Mexico border instead."
+publishedDateTime: 2021-05-05T04:58:22Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XNft5V4Vf7w/kamala-harris-should-have-visited-border-not-milwaukee-sen-johnson-and-other-wisconsin-republicans-say"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XNft5V4Vf7w/kamala-harris-should-have-visited-border-not-milwaukee-sen-johnson-and-other-wisconsin-republicans-say"
+ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-should-have-visited-border-not-milwaukee-sen-johnson-and-other-wisconsin-republicans-say.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-should-have-visited-border-not-milwaukee-sen-johnson-and-other-wisconsin-republicans-say.amp"
 type: article
-quality: 181
-heat: 341
-published: true
+quality: 168
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -26,12 +26,28 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbf844e7-da00-4269-b859-827c56602764/5d922b54-0023-4170-ae81-95b2cc76f88b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/522168c6-fcb3-4c3e-bd13-73e602efa01a/55e12e22-50d2-4aa1-af41-481d1e901615/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
 
 related:
+  - title: "Harris to lead National Space Council amid criticism over lack of border visit"
+    excerpt: "Vice President Kamala Harris announced Saturday that she will lead the National Space Council -- even as she continues to face criticism for not visiting the southern border as part of her role in addressing the migrant crisis."
+    publishedDateTime: 2021-05-01T19:30:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/59VzsGklxQw/harris-to-lead-the-national-space-council-border-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-to-lead-the-national-space-council-border-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-to-lead-the-national-space-council-border-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbf844e7-da00-4269-b859-827c56602764/5d922b54-0023-4170-ae81-95b2cc76f88b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Harris says she takes migrant crisis role 'very seriously' ahead of Guatemala visit next month"
     excerpt: "Vice President Kamala Harris on Tuesday said she takes her role in tackling the migrant crisis \"very seriously\" ahead of her first trip to the Northern Triangle next month, as she sketched out her vision of how the U.S. would help tackle the \"root causes\" of the migrant crisis."
     publishedDateTime: 2021-05-04T16:41:29Z
@@ -61,22 +77,6 @@ related:
     quality: 169
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713e9f33-c4eb-4a97-8cf1-837ab5291ca0/cf878f8f-09af-4cf4-8926-35bdddacd5dc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Kamala Harris should have visited border, not Milwaukee, Sen. Johnson and other Wisconsin Republicans say"
-    excerpt: "Kamala Harris was in Milwaukee on Tuesday but several Wisconsin Republicans said they wished the vice president had gone to the U.S.-Mexico border instead."
-    publishedDateTime: 2021-05-05T04:58:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XNft5V4Vf7w/kamala-harris-should-have-visited-border-not-milwaukee-sen-johnson-and-other-wisconsin-republicans-say"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-should-have-visited-border-not-milwaukee-sen-johnson-and-other-wisconsin-republicans-say.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-should-have-visited-border-not-milwaukee-sen-johnson-and-other-wisconsin-republicans-say.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/522168c6-fcb3-4c3e-bd13-73e602efa01a/55e12e22-50d2-4aa1-af41-481d1e901615/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -161,6 +161,6 @@ related:
         height: 405
         isCached: true
 
-secured: "jehWqnpNRJpwlSm7+KgsqWnyi4Z41V7NX1Kc/B311u1w8fsKJAzgOpvG5MqfNmATuy0fVoZlodHAiTKdz1OwdX/tQYcTzNdqGogJs5qrbHwUa4NpPpCttzNLooGqkwb3rqL04aiUgKBUPa6oxgyS3r7P+DBOAf6D3TswwPpzJ6nsjY2NWK4qPJXpA4oE96jXBfNn4sNLoH2rbgN7PUHpsYh2k1C4dROvEI8p9RstLP7YQDnOD2AItjCAuWNuYJs5W4NmPlWAGihDNcGtT+sU7RxC4bvvas2Cw4HcHAGl4/ScU8jOyK6mFJ6xcLPf7xT1LJe11H8YcOVb4/Uirvsan9gRSIXVREt6CUnXDvrQxbU=;GemXc5NkgdndAYId8Nj1ig=="
+secured: "wWhgzD6e3JFQMNc5dWH/lniBKdOg8BgdMEqk3CFpVJL5FEWo9hCevNiwaUbTMBToYCG3W/o3NdDFc9gt7ZsZCesiCoYut9VR1ZNbXXDdgDC4WiXCyI9m8rNQA3LTUcWDpkLKyFZh5qSu9Kejx0/gqVoSwbc+zAKkUEj9zrt5dMCJdJXRX7okeR6QIJYz6OHbCWBz7D+ZQ5fhlk8gXwuQy67k+iJCI41aQCcv528lEvjiPMT5Ilv6sZajISoV+xsIPhLbgJgdU1/mnfjfhQu5krKhULG59k4jMtAvx8+rEb/GS7urPOyl35DgY1Ca5QRx7DcVv73Amx4TngFYZweRG2TYiZAcAiHMsj1fOTKg2/Y=;G1frKJeURxmhRA39VS8SQQ=="
 ---
 

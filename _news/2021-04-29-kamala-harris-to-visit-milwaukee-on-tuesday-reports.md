@@ -80,6 +80,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris should have visited border, not Milwaukee, Sen. Johnson and other Wisconsin Republicans say"
+    excerpt: "Kamala Harris was in Milwaukee on Tuesday but several Wisconsin Republicans said they wished the vice president had gone to the U.S.-Mexico border instead."
+    publishedDateTime: 2021-05-05T04:58:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XNft5V4Vf7w/kamala-harris-should-have-visited-border-not-milwaukee-sen-johnson-and-other-wisconsin-republicans-say"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-should-have-visited-border-not-milwaukee-sen-johnson-and-other-wisconsin-republicans-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-should-have-visited-border-not-milwaukee-sen-johnson-and-other-wisconsin-republicans-say.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/522168c6-fcb3-4c3e-bd13-73e602efa01a/55e12e22-50d2-4aa1-af41-481d1e901615/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris will be first VP to get wax figure at Madame Tussauds"
     excerpt: "Kamala Harris will be the first vice president to have a wax figure made of her at Madame Tussauds museum in New York City because of her historic ascendance to the role, the museum announced Thursday,"
     publishedDateTime: 2021-04-30T10:19:00Z

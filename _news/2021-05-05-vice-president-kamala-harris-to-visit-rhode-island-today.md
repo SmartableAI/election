@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Fact check: Kamala Harris’ children’s book is not in ‘welcome packs’ for migrants"
-excerpt: "Long Beach officials say migrant children from the U.S.-Mexico border are not receiving copies of Harris’ book as part of a welcome package."
-publishedDateTime: 2021-04-29T18:26:00Z
-originalUrl: "https://www.indystar.com/story/news/factcheck/2021/04/29/fact-check-kamala-harris-book-not-welcome-packs-migrants/4878301001/"
-webUrl: "https://www.indystar.com/story/news/factcheck/2021/04/29/fact-check-kamala-harris-book-not-welcome-packs-migrants/4878301001/"
-ampWebUrl: "https://amp.indystar.com/amp/4878301001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4878301001"
+title: "Vice President Kamala Harris to visit Rhode Island today"
+excerpt: "Vice President Kamala Harris is scheduled to pay a visit to Rhode Island on Wednesday. She’ll be joined by Rhode I"
+publishedDateTime: 2021-05-05T04:00:00Z
+originalUrl: "https://www.wpri.com/dont-miss/vp-kamala-harris-visits-rhode-island/"
+webUrl: "https://www.wpri.com/dont-miss/vp-kamala-harris-visits-rhode-island/"
+ampWebUrl: "https://www.wpri.com/dont-miss/vp-kamala-harris-visits-rhode-island/amp/"
+cdnAmpWebUrl: "https://www-wpri-com.cdn.ampproject.org/c/s/www.wpri.com/dont-miss/vp-kamala-harris-visits-rhode-island/amp/"
 type: article
-quality: 70
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: WPRI 12
+  domain: wpri.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/04/02/USAT/11ef1b5c-d301-4d33-aad6-0a818f44ea8e-AFP_9734YP.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://www.wpri.com/wp-content/uploads/sites/23/2021/05/GettyImages-1232595371.jpg?w=1280"
+    width: 800
+    height: 449
     isCached: true
 
 related:
@@ -251,22 +251,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Vice President Kamala Harris to visit Rhode Island today"
-    excerpt: "Vice President Kamala Harris is scheduled to pay a visit to Rhode Island on Wednesday. She’ll be joined by Rhode I"
-    publishedDateTime: 2021-05-05T04:00:00Z
-    webUrl: "https://www.wpri.com/dont-miss/vp-kamala-harris-visits-rhode-island/"
-    ampWebUrl: "https://www.wpri.com/dont-miss/vp-kamala-harris-visits-rhode-island/amp/"
-    cdnAmpWebUrl: "https://www-wpri-com.cdn.ampproject.org/c/s/www.wpri.com/dont-miss/vp-kamala-harris-visits-rhode-island/amp/"
-    type: article
-    provider:
-      name: WPRI 12
-      domain: wpri.com
-    quality: 75
-    images:
-      - url: "https://www.wpri.com/wp-content/uploads/sites/23/2021/05/GettyImages-1232595371.jpg?w=1280"
-        width: 800
-        height: 449
-        isCached: true
   - title: "Photos: Kamala Harris sells San Francisco loft; seeks buyer for DC condo"
     excerpt: "Kamala Harris has sold her SoMa loft in San Francisco for $860,000 and now seeks a buyer for her Washington, DC, condo."
     publishedDateTime: 2021-05-03T16:07:00Z
@@ -298,6 +282,22 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/1c/81c27c0b-ea43-51a9-94cb-4e8e34090bab/6091a225ba06a.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Fact check: Kamala Harris’ children’s book is not in ‘welcome packs’ for migrants"
+    excerpt: "Long Beach officials say migrant children from the U.S.-Mexico border are not receiving copies of Harris’ book as part of a welcome package."
+    publishedDateTime: 2021-04-29T18:26:00Z
+    webUrl: "https://www.indystar.com/story/news/factcheck/2021/04/29/fact-check-kamala-harris-book-not-welcome-packs-migrants/4878301001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4878301001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4878301001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/02/USAT/11ef1b5c-d301-4d33-aad6-0a818f44ea8e-AFP_9734YP.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "OKC minister rebukes senator for 'sexist, racist' remarks about VP Kamala Harris"
     excerpt: "Oklahoma City Rev. Lee Cooper publicly rebuked Sen. Nathan Dahm for making \"'sexist,\" \"misogynistic\" and \"racist\" remarks about VP Kamala Harris."
@@ -556,6 +556,6 @@ related:
       domain: sacbee.com
     quality: 48
 
-secured: "C28jESXMVJn5PRLI3wxFCBOFXgYeh+oPAFynOuoI7/AcdADJhWYi5RGwc3GWvn+WkJy40f4+BByCo3/HHKqxL8ZyhAuxDLOMmlWyKY7JuQW+lI9Dzli47dFImMHDUFY8Nv7bkV5TiHvRQB9iGN2xPLU7goIeIeM/lDjmT1N0V1F1xJ7i2Q9Qc1UElewNukR8qg2Tfp57XoMqjCFbL/u5C/QQ8MwRs7s6Na3V6Q0NazU+7iJjWRC1fyTjR9Ekphw7IShyb3PKFzIf/viXukVfZq+RsbNxiNbi8pGfJdLnNbCJsUu7exoKmXCHPxzqGSAFx0o2fUMEUqINKo/UEYqZUMpVaS/8sJjIDJA9PIq5bPQOEksHj30MH67I71tj20+j4h3Mbff7yZqQf43T3zYR3WrZ0WdP9Vm1cAfXdlrjRPezOZJh0aNkgJKvPKAhRpMLAe8FwJWej4IKWHqR4GIRItB8177pUWYfoiOm9fEyrG3QeQ64xMXhKugnqK2XQJIiToI8aNYYVTg0O/6Do4UbAA==;tEssRQAQc5xAag3ji2OubA=="
+secured: "91e6PlYZKTetckEtpfzzaI01BqIETd0k0ymX/xlH2nQL9gTEHAQZsoALKktA6E+Bqc6PfAuBeW8xu4XdRAcf7mhSpb50KnLeO3D36k0W6uwnHnnr6Np21i41SIU0rIq1+i375qAbYWg3umg/h3ntOHphf1S09Q9zXqaAobLrBXmeYP7LClrMS/QWPDBdrC1xPabrhCp/5YCChbsRi7LcP4AbdScDxu7//8iGhMiGqI2NPlDY7BHAf9KJw1Tv9PxFOwVXbpAyitQNFtzOr4KWj4yPrbylk/zhxOS584J4PL/rxIY5/lWx/XZzDbnnMdhI8mu7p4/kSlBbEnWt7m148DAOPlinG5CJGi27NgdtKR8=;si+36s79cveYa91yk3E4sQ=="
 ---
 
