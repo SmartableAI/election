@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
 excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."
 publishedDateTime: 2021-05-04T15:13:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/09628999484734dfb11d5be67f224a17/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/09628999484734dfb11d5be67f224a17/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
 type: article
 quality: 52
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/09628999484734dfb11d5be67f224a17/Biden-Harris.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Biden-Harris.jpg"
     width: 650
-    height: 431
+    height: 429
     isCached: true
 
 related:
@@ -556,6 +556,6 @@ related:
       domain: sacbee.com
     quality: 48
 
-secured: "tXOiqaJdh+dpGChEpXpGP1nTNGONittg8tsKj03QCAMnzHySAtb+zXIFsVoxuer0OVKHbW3mP+0jj0F+f87JZn78UA8bzFCm9LCHHCs+tpFxmfF+9+YjrpVRW5SUZ+c/WlwCQSYaM8dLep8FEEeFDvrdCicCt4LnOg+pJhfM8lV95ztcJ8MdNJSZ76QKfKTuX2Iraq6+pM/qiaNwQRyUrv+no+iYMe9bDlBzrXTyBzPioycfcF9BhNpfC5ihrYIYtJTL0yy024ncMdISLZ9OfcHwSCJven/N7tOtouwfGBNterFsk7BUfnTYbWtnVo2oC2aBSX1+X6U+GvT/TrGQfQ8+7VLOY73URcmFKQ7Yn5N9l73oRlzY5WBuHHLLdBmaN1OfwiQqLr1slUcBXBIJ7NTB1a0uU/rmNQ3oVoSJhTbFVbK2uiRYY63dBi/0t2AAxxzkE3zvs6x0OVph/gxoZm31MZjzrD8tbABApPk4gaGNAC+xDBHFgGlQF0cOyf+eGjtKQ02YRSaYcFSFD6wxCg==;rbVr3IwSDyiJ3KNxGR+Kzw=="
+secured: "HoNs5JvWa1PFbAkukQuJBJNGJabsvbdXtCt2lyEfu6IqYNuZa0fkTjusXodWizgRhFRcea6q1VilToILLUKrkoMNq9JK9O6Tnu+bb7PeY7wANVQGvdLpAZ4ICFRpBM0+bUvzf3WQZlUuD2lAyGQMQMRtCZJyfjSynHYBf5aTAGRm9gYXuVjavKQwOU1/LWihTuWvBEUdTM/QHyN/Oy4T7huv5+7hyZe2Nv0IwpiCBT8LwLD4Un4VFVMzTPFpUETx3bKEs00lshdG1ufFeyBsjhNf3nbzBR3ieWdI35ooam4W3JkoBIS4/zowrjCwb3fWeaINvukUgV1tXQLGkXiFsc25A+vuvOsSXe33kCiCces=;hwWRteRP6zWN5Q8Fw8I9Nw=="
 ---
 

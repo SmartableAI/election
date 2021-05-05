@@ -1,34 +1,22 @@
 ---
 category: news
-title: "US Senate votes to reinstate methane rules loosened by Trump"
-excerpt: "Congressional Democrats are moving to reinstate regulations designed to limit potent greenhouse gas emissions from oil and gas fields"
-publishedDateTime: 2021-04-29T12:38:00Z
-originalUrl: "https://www.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
-webUrl: "https://www.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
-ampWebUrl: "https://amp.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
+title: "From The Desk Of Donald J. Trump"
+excerpt: "Trump Launches Sad Twitter Just for HimTrump debuted a new page on his website that he’s calling “a beacon of freedom,” but it’s basically just a social-media network for one."
+publishedDateTime: 2021-05-04T23:14:00Z
+originalUrl: "https://nymag.com/intelligencer/tags/from-the-desk-of-donald-j.-trump/"
+webUrl: "https://nymag.com/intelligencer/tags/from-the-desk-of-donald-j.-trump/"
 type: article
-quality: 125
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Magazine
+  domain: nymag.com
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://i.guim.co.uk/img/media/9028a5acafbbc71e738c040c43f59f5bac5873c9/0_274_8192_4915/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e8905907090ebd6c75b239f4e275576"
-    width: 600
-    height: 360
-    isCached: true
 
 related:
   - title: "Joe Biden raises Trump refugee cap after backlash"
@@ -590,6 +578,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J6YEKLFH2YI6XKFHL5C53TPTMQ.jpg&w=1440"
         width: 1176
         height: 784
+        isCached: true
+  - title: "US Senate votes to reinstate methane rules loosened by Trump"
+    excerpt: "Congressional Democrats are moving to reinstate regulations designed to limit potent greenhouse gas emissions from oil and gas fields"
+    publishedDateTime: 2021-04-29T12:38:00Z
+    webUrl: "https://www.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
+    ampWebUrl: "https://amp.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2021/apr/29/us-senate-methane-rules-trump-environment"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/9028a5acafbbc71e738c040c43f59f5bac5873c9/0_274_8192_4915/master/8192.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e8905907090ebd6c75b239f4e275576"
+        width: 600
+        height: 360
         isCached: true
   - title: "What to expect from President Biden's address to Congress"
     excerpt: "President Biden will give his first address to a joint session of Congress tonight. CBS News political contributor Antjuan Seawright and former White House aide to President George H.W. Bush Joe Watkins joined CBSN with a look at what we can expect."
@@ -1393,16 +1397,7 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
-  - title: "From The Desk Of Donald J. Trump"
-    excerpt: "Trump Launches Sad Twitter Just for HimTrump debuted a new page on his website that he’s calling “a beacon of freedom,” but it’s basically just a social-media network for one."
-    publishedDateTime: 2021-05-04T23:14:00Z
-    webUrl: "https://nymag.com/intelligencer/tags/from-the-desk-of-donald-j.-trump/"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 35
 
-secured: "j2ZxGrwWRyQmacxPU4vCQCoYGmXT9CUSCSJ7lf0rlJ2FewhzO/nYe3YDt6SwWfcAVfjnrf6xOFzvoB/VMjdlcVBVVvJm/8u/bN8UU5d53rHv3drb9EMULA+cCQsltdiF7Rv99AnnHIz0DJiPj/TQzgUdll1wjFCJzwCGMYozMmJ8WrRElhVYKgjHUjZTt3FTuF8jY5Mb4EbfYuj+HeJe8yKr5Na/zPxObToDCY/l3wxserLyAdROPChcPWpSK2+Z7JDEOXVapV+2MOMTsCxHlIYuqE7QXH2DNySjvs4BHocjQE2I6w86a1/6Bcl8MYLxOjh6gsFKc9MapHiKS70exjmHMNieVBLg2eMwF+VsRPU=;VG7VG3GDhWk7seYwDOKytQ=="
+secured: "P7lSIGaN6k9tFFY+3REWagwRVybiPD4TO6NjhKLHkHR3vRCy7SzYla9pb41OhkRgkAVf4x/vJMgtZ9RbOQumcoZWtt78/UawuH5LF5t7wbk67NSBUzYi3ghW5GtCCqhq9+KgOqkNQ/o2mOtJlutLDIVVZIuKvWtvPF75XT2U/P8yWxSuJ2Ij8ENcenhzoyO1tudtV15nYtmKjqrV0EBLjm538hlrBNyBQRwnJ1Gvz95LqcEeIwkI7OxFqPceWvYrV0YJzZX58Gu8Y4+OibXFgrtf7IOm7VaN6yMWY7sKqTA1GVe70XquzotkKf0ISVePwyMAgCGANjD8YSVqP8RrNG0BztmR4DCpm/OrvgCwUZZElGRvzbTNKGTBoDAMAjpirl2R+Dp/1o/qcCKdjaoToyYae50RTHroTiXg7+BX45C7YNzz4nm4nVsDnXOAUlX4fQfCIsRP8G5bj/5oWL9NZDy0wJSKtTtqGyHzGMZxodmXlfTH1mxLvqmpvUIRyl9hVpg8uAr5HejMxZbyL6J2DQ==;dD6vauRG3yCzw8ldR7ssOQ=="
 ---
 

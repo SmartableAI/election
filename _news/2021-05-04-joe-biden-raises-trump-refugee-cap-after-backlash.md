@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 1950
+heat: 1970
 published: true
 
 provider:
@@ -1119,9 +1119,9 @@ related:
       domain: reuters.com
     quality: 105
   - title: "Facebook board's Trump decision could have wider impacts"
-    excerpt: "Since the day after the deadly Jan. 6 riots at the U.S. Capitol, former President Donald Trump’s social media accounts have been silent — muzzled for inciting violence using the platforms as online me"
-    publishedDateTime: 2021-05-04T22:11:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/facebook-boards-trump-decision-wider-impacts-77493717"
+    excerpt: "On Wednesday, former President Donald Trump will know his fate on the world’s biggest social platform, Facebook"
+    publishedDateTime: 2021-05-05T06:48:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/facebook-boards-trump-decision-wider-impacts-77499800"
     type: article
     provider:
       name: ABC
@@ -1393,6 +1393,15 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 35
+  - title: "From The Desk Of Donald J. Trump"
+    excerpt: "Trump Launches Sad Twitter Just for HimTrump debuted a new page on his website that he’s calling “a beacon of freedom,” but it’s basically just a social-media network for one."
+    publishedDateTime: 2021-05-04T23:14:00Z
+    webUrl: "https://nymag.com/intelligencer/tags/from-the-desk-of-donald-j.-trump/"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
     quality: 35
 
 secured: "wDIgGWhRhUfIpP6/eya/QrAHr6o7dooQ6xUSCCHYIRhkKQGsv2uz/4oNkyy66wrxxtscWFblcswilGEKsn5TROhCsSHc72YgqKGE5pfif6EGDZoGS/vEElUfqakwJQ5osn5bS0WwrZQSxF7N+AEUYDc/pr1ln7kt4ps/CdXFD770jzjkXNV4EepM8g6Oud7wkz8alR4krcGNuEHESzHggfRcpik+NCq8XlltZntzU1jhPs98jYMCyHAvekdpIg2nY7yPDKDR+YTrhK9sSrJcVfQYY3s9VWGV9DgwW85E5fihGxdMpV0gaGpNCmU0i/CaFG73UtEeMFQDPEOuNCA+cZOyWKLMmWGvvhbQy006bVgccsphoYoOz5UHCISlKqTDz51hD+Lt9lJnx1PQWqlbg2J0VQpDM7yITlPHgE8BnRMdJrH/8sZP/p49DlS9WabWiEKLpv6xMb5elHzthgzpKs0XErcFvcil4b5ZrojsiP0q3xyYOrYFzXuWS+vn//rOLgxKrwYHDFdm9NHn9YTmxw==;iDoHY24kCL9/9Jxz/kw0dg=="

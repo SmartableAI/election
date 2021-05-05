@@ -526,16 +526,16 @@ related:
   - title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
     excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."
     publishedDateTime: 2021-05-04T15:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/09628999484734dfb11d5be67f224a17/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/09628999484734dfb11d5be67f224a17/Biden-Harris.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Biden-Harris.jpg"
         width: 650
-        height: 431
+        height: 429
         isCached: true
   - title: "Madame Tussauds reveals bust of Kamala Harris wax figurine | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris will make history once again as she becomes the first vice president to get their own wax figure from world-renowned museum Madame Tussauds."

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Facebook board's Trump decision could have wider impacts"
-excerpt: "Since the day after the deadly Jan. 6 riots at the U.S. Capitol, former President Donald Trump’s social media accounts have been silent — muzzled for inciting violence using the platforms as online me"
-publishedDateTime: 2021-05-04T22:11:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/facebook-boards-trump-decision-wider-impacts-77493717"
-webUrl: "https://abcnews.go.com/Technology/wireStory/facebook-boards-trump-decision-wider-impacts-77493717"
+excerpt: "On Wednesday, former President Donald Trump will know his fate on the world’s biggest social platform, Facebook"
+publishedDateTime: 2021-05-05T06:48:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/facebook-boards-trump-decision-wider-impacts-77499800"
+webUrl: "https://abcnews.go.com/Business/wireStory/facebook-boards-trump-decision-wider-impacts-77499800"
 type: article
 quality: 105
 heat: -1
@@ -1393,7 +1393,16 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "From The Desk Of Donald J. Trump"
+    excerpt: "Trump Launches Sad Twitter Just for HimTrump debuted a new page on his website that he’s calling “a beacon of freedom,” but it’s basically just a social-media network for one."
+    publishedDateTime: 2021-05-04T23:14:00Z
+    webUrl: "https://nymag.com/intelligencer/tags/from-the-desk-of-donald-j.-trump/"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 35
 
-secured: "FYmJASJftJMmIGFB5E54l3np/E6Qh6cC0+vZ8zktDhxZxwuJzSZFYo18dN+eEz0Z2Rik75igCub338Lu5ON/ay4loOUrIsBnE2abYNjY6/UY6O4PljoH+nOTWjfFlbManyC8YaEEvH1j4sc+sF0diuzZ+9s8VTcyCLWmTwqLx8nvCw/SvOJPjNoSc3vSyO/nzajWAjeXnW5dkPOuVC/QnQ8dEl97wp6yFDQkc9/n9poDsYrGXk2gQNgQN7zx2LvQ/WWF1jvLhmcie0zPeRw8KmDZP3lsWAs936K73LJUFNCw7jJWEctQ1hnHeKLsg1qFpYXGGkpdrcYjdGJiy9nsrfWt5m6G0wT55W1nF8iM9wbBg0iR6L+/tn/BOI1uayzm8R+3LvPcEOWkXdV4UloGWP7CIUzx68b543QrHu4gRs3vg6it/CdBZb6SpA3BhIwdvqKa4nU4MbW4R4yURTHEXbgehfCLPZDb+6qC9FCH8R7GFD6NNcrE+BckGJLnenEehV3/CFCCq2GWUhG8dQKC5A==;A36HMhLme7GIG59fcyRDaA=="
+secured: "62Fjvp0raXGPgpLe91A/zJvb5VZOasn6e3nf2Jd/+M+O8T7EXVMBR+FMLR1BoutQofVdqazOfU7ROOc99G2gE92m9/xpVBBuC5WrXge3L2r6rSd+j4zKc+gAmDsGEvx4x+tEXe+ySNZlbPIkkTwjtWTz8ysqrHo5+4m9u6+DJtecVHhGg13lsfrIOEztV3Ar7C6vPuNOptNlSiWs3waWMCw+01pUnLIXY1rXnyvQM+hblzJwzEPXEGDjmO+fzHuTYr0lkTKr3bivw4hVd4vH+vVmeBJT8xcpommwkM6/78nRb8GuPka6Yo5jEPoLp79/86nra0W4HKbHVDxHjjkAZMh2738yAYhwXePS9aM73b0=;GmJSp6Rk5sp5g2Xg9avJxw=="
 ---
 

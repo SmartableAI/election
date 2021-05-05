@@ -1118,9 +1118,9 @@ related:
       domain: reuters.com
     quality: 105
   - title: "Facebook board's Trump decision could have wider impacts"
-    excerpt: "Since the day after the deadly Jan. 6 riots at the U.S. Capitol, former President Donald Trump’s social media accounts have been silent — muzzled for inciting violence using the platforms as online me"
-    publishedDateTime: 2021-05-04T22:11:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/facebook-boards-trump-decision-wider-impacts-77493717"
+    excerpt: "On Wednesday, former President Donald Trump will know his fate on the world’s biggest social platform, Facebook"
+    publishedDateTime: 2021-05-05T06:48:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/facebook-boards-trump-decision-wider-impacts-77499800"
     type: article
     provider:
       name: ABC
@@ -1392,6 +1392,15 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 35
+  - title: "From The Desk Of Donald J. Trump"
+    excerpt: "Trump Launches Sad Twitter Just for HimTrump debuted a new page on his website that he’s calling “a beacon of freedom,” but it’s basically just a social-media network for one."
+    publishedDateTime: 2021-05-04T23:14:00Z
+    webUrl: "https://nymag.com/intelligencer/tags/from-the-desk-of-donald-j.-trump/"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
     quality: 35
 
 secured: "92Rpyd+IpHpnUQOr4PPZcv1tglpQW7I+1GHDWClZ2fih0wN6OA3BJh8ntpR3ZB+T0F3XqkAlcfVSpZryVjYMm8+qHRfTrn26274XuAyq3Jyrtb6bwHi8AVh51DS6Rs226+geSUqdfRkc8KeIGMg0+Sftek+e41pymXdsxSFvKmnzZAJrivAwi5Uhj8mc22kHU+ZY8AesUlEdaxtoXC89oVrl+W7tb1uYMfEoZGLMyj2qp/PzDHUGO+EIK03IPwOSi3Hw51vxt7bzn4mvgP0r4BkZn1nwrb2aiaWjKcAnjvpN3K3rvYX6dgr+swlJe+MF6i1U/fRMpeCM2huciKSmgxtxSDHFplBNsD+WGUGHWCO8AX+krWPsnK8sDkcLYiqCDfZF9mPIQxwsXLVEgaukLOuxsI7A4Tjgs+hS2mBnqLE3E2YJ98ihYJlorde0O+mxIAKDC/HZ5LNiGDelB2roCBS8Cpgj6wob0Sat/vo/YbNzXFfS34r69rJWVW39ucWnXxHNAQFdLPanvj/OG2TbHQ==;BqiiD/4Cu0jGyS0RXe+SsQ=="
