@@ -2,6 +2,171 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-06-trump-backs-stefanik-to-replace-cheney-as-gop-conference-chair.md",
+      "title": "Trump backs Stefanik to replace Cheney as GOP conference chair",
+      "excerpt": "Former President Donald Trump on Wednesday publicly called for the removal of GOP conference chair Liz Cheney, who has repeatedly criticized him for spreading falsehoods about the 2020 election and seeking to downplay the January 6 attack on the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/elise-stefanik-gop-conference-chair-cheney-scalise/",
+      "originalUrl": "https://www.cbsnews.com/news/elise-stefanik-gop-conference-chair-cheney-scalise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/05/6919431c-67c8-479c-88ab-c6050aa53655/thumbnail/1200x630g2/26b9f80caac1ce448a08298adb4914db/gettyimages-1231615029.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/elise-stefanik-gop-conference-chair-cheney-scalise/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/elise-stefanik-gop-conference-chair-cheney-scalise/",
+      "publishedDateTime": "2021-05-05T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-biden-defends-proposed-tax-hikes-as-helping-the-standard-of-living-of-people-i-grew-up-with.md",
+      "title": "Biden defends proposed tax hikes as helping 'the standard of living of people I grew up with'",
+      "excerpt": "President Joe Biden grew animated on Wednesday while discussing his pitch to increase certain taxes to fund his sweeping spending proposals, saying his plan will not hurt most wealthy Americans and corporations, but will instead help the kind of people he grew up with.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l6w257iNAkk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l6w257iNAkk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/05/politics/joe-biden-defends-tax-hikes/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/joe-biden-defends-tax-hikes/index.html",
+      "publishedDateTime": "2021-05-05T14:28:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-kamala-harris-and-doug-emhoff-both-vaccinated-kiss-with-their-masks-on-not-about-the-science.md",
+      "title": "Kamala Harris and Doug Emhoff, both vaccinated, kiss with their masks on: 'Not about the science'",
+      "excerpt": "Vice President Kamala Harris and Second Gentleman Douglas Emhoff kissed each other with their masks on Wednesday, even though both are fully vaccinated.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/stq8UMhm1aM/kamala-harris-and-doug-emhoff-both-vaccinated-kiss-with-their-masks-on-not-about-the-science",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/stq8UMhm1aM/kamala-harris-and-doug-emhoff-both-vaccinated-kiss-with-their-masks-on-not-about-the-science",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbf844e7-da00-4269-b859-827c56602764/5d922b54-0023-4170-ae81-95b2cc76f88b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-and-doug-emhoff-both-vaccinated-kiss-with-their-masks-on-not-about-the-science.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-and-doug-emhoff-both-vaccinated-kiss-with-their-masks-on-not-about-the-science.amp",
+      "publishedDateTime": "2021-05-05T13:16:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-biden-when-asked-about-liz-cheney-says-i-dont-understand-republicans.md",
       "title": "Biden, when asked about Liz Cheney, says 'I don't understand Republicans'",
       "excerpt": "President Biden seemed perplexed Wednesday by the effort of House Republicans to oust Rep. Liz Cheney as the GOP conference chair.",
@@ -70,7 +235,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -238,7 +403,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 311,
+      "heat": 331,
       "tags": null,
       "images": [
         {
@@ -279,6 +444,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-joe-biden-republicans-are-in-the-midst-of-a-mini-revolution-video.md",
+      "title": "Joe Biden: Republicans are in the midst of a 'mini-revolution' – video",
+      "excerpt": "It seems as though the Republican party is trying to identify what it stands for,’ president says",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/video/2021/may/05/joe-biden-republican-party-mini-revolution-video",
+      "originalUrl": "https://www.theguardian.com/us-news/video/2021/may/05/joe-biden-republican-party-mini-revolution-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/155933644ca31356ee6e351da5da13564c4026e9/0_177_6856_4113/master/6856.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5194ca667f816d46c4c8e2eddbb0c1a8",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -351,7 +568,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 923,
+      "heat": 943,
       "tags": null,
       "images": [
         {
@@ -403,7 +620,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live?page=with:block-6091a7488f08ae30bfe0426d",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -623,7 +840,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 455,
+      "heat": 495,
       "tags": null,
       "images": [
         {
@@ -1094,7 +1311,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2070,
+      "heat": 2090,
       "tags": null,
       "images": [
         {
@@ -1136,223 +1353,6 @@
         "Election",
         "Joe Biden",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-ap-fact-check-biden-overstates-how-many-americans-immunized.md",
-      "title": "AP FACT CHECK: Biden overstates how many Americans immunized",
-      "excerpt": "An AP Fact Check finds that President Joe Biden was off on his vaccination numbers when he addressed the subject Monday",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F3S2LJFMHII6XAWBRFVMVFK3XE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-03T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-cheney-what-trump-did-is-a-line-that-cannot-be-crossed.md",
-      "title": "Cheney: What Trump did 'is a line that cannot be crossed'",
-      "excerpt": "Wyoming Rep. Liz Cheney, the No. 3 House Republican, said on Monday her party cannot accept the \"poison\" of the idea that the 2020 election was stolen and should not \"whitewash\" the January 6 Capitol riot -- and Donald Trump's role in fomenting it.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iSO3TU1sRok/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iSO3TU1sRok/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210503055421-liz-cheney-donald-trump-split-for-video-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/03/politics/liz-cheney-doubles-down-trump-gop/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/liz-cheney-doubles-down-trump-gop/index.html",
-      "publishedDateTime": "2021-05-03T14:13:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-biden-i-am-not-anti-corporate-but-its-time-they-start-paying-their-fair-share.md",
-      "title": "Biden: 'I am not anti-corporate but it's time they start paying their fair share'",
-      "excerpt": "President Joe Biden suggested giving working class and middle class families tax breaks instead of just the very wealthy. Biden said it will be paid for by making sure that corprate America and the wealthy \"pay their fair share.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/biden-suggests-giving-tax-breaks-to-working-class-families-111259205885",
-      "originalUrl": "https://www.nbcnews.com/now/video/biden-suggests-giving-tax-breaks-to-working-class-families-111259205885",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/1620064002102_ott_now_biden_taxcuts_workingclass_210503_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo111259205885",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111259205885",
-      "publishedDateTime": "2021-05-03T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-pence-to-headline-new-hampshire-event-in-june.md",
-      "title": "Pence to headline New Hampshire event in June",
-      "excerpt": "Former Vice President Mike Pence will headline a campaign event in New Hampshire next month, fueling speculation that he may run for the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/551497-pence-to-headline-new-hampshire-event-in-june",
-      "originalUrl": "https://thehill.com/homenews/campaign/551497-pence-to-headline-new-hampshire-event-in-june",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/pencemike_100820getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/551497-pence-to-headline-new-hampshire-event-in-june?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/551497-pence-to-headline-new-hampshire-event-in-june?amp",
-      "publishedDateTime": "2021-05-03T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

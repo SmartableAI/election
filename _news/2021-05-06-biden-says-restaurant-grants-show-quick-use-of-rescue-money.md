@@ -1193,6 +1193,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden focuses on restaurants hit by pandemic"
+    excerpt: "Highlighting his administration’s $28.6 billion program to help eateries that lost business because of the coronavirus pandemic, President Joe Biden insists his Restaurant Revitalization Fund \"is about a seat at the table,"
+    publishedDateTime: 2021-05-05T20:21:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/05/biden-focuses-restaurants-hit-pandemic/4962246001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/6236c6e2-4e3f-4abb-9a35-a3df148dc0ec_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live"
     excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
     publishedDateTime: 2021-04-16T22:17:00Z

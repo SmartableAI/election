@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The politics of takeout: Biden brings back the presidential lunch run"
+    excerpt: "The morning phone call from a government number. The swarm of Secret Service agents descending with their dogs. The rumbling black SUV pulling up at the appointed hour. The bag of tacos.\n    \n"
+    publishedDateTime: 2021-05-05T20:58:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I8tT1fvuOiY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/presidential-lunch-run-returns/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/presidential-lunch-run-returns/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505151629-02-biden-dc-restaurant-0505-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Majority of Americans approve of Biden and his priorities in first 100 days"
     excerpt: "On the cusp of the 100-day mark of Joe Biden's presidency, a new CNN Poll conducted by SSRS finds 53% of Americans approve of the way he is handling the job and say he has had the right priorities, and 59% say he is doing a good job keeping his campaign promises.\n    \n"
     publishedDateTime: 2021-04-28T11:30:00Z

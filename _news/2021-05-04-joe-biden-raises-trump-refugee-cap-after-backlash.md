@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 2070
+heat: 2090
 published: true
 
 provider:
@@ -1179,6 +1179,20 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden focuses on restaurants hit by pandemic"
+    excerpt: "Highlighting his administration’s $28.6 billion program to help eateries that lost business because of the coronavirus pandemic, President Joe Biden insists his Restaurant Revitalization Fund \"is about a seat at the table,"
+    publishedDateTime: 2021-05-05T20:21:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/05/biden-focuses-restaurants-hit-pandemic/4962246001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/6236c6e2-4e3f-4abb-9a35-a3df148dc0ec_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden Says Restaurant Grants Show Quick Use of Rescue Money"
     excerpt: "President Joe Biden said a $28.6 billion program that gives grants to restaurants hit by the pandemic shows how his administration is quickly making use of a rescue plan he signed into law in March."

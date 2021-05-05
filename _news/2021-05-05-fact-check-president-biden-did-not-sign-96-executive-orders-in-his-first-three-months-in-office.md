@@ -3,8 +3,8 @@ category: news
 title: "Fact Check-President Biden did not sign 96 executive orders in his first three months in office"
 excerpt: "In his first 100 days in office, President Joe Biden has not signed 96 executive orders. According to FederalRegister.gov, part of the United States National Archives, the Biden Administration had published 42 executive orders by April 27,"
 publishedDateTime: 2021-05-05T15:40:00Z
-originalUrl: "https://www.reuters.com/article/factcheck-biden-executive-orders-idUSL1N2MS24C"
-webUrl: "https://www.reuters.com/article/factcheck-biden-executive-orders-idUSL1N2MS24C"
+originalUrl: "https://www.reuters.com/article/factcheck-biden-executive-orders/fact-check-president-biden-did-not-sign-96-executive-orders-in-his-first-three-months-in-office-idUSL1N2MS24C"
+webUrl: "https://www.reuters.com/article/factcheck-biden-executive-orders/fact-check-president-biden-did-not-sign-96-executive-orders-in-his-first-three-months-in-office-idUSL1N2MS24C"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MS24C"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MS24C"
 type: article
@@ -184,6 +184,6 @@ related:
         height: 596
         isCached: true
 
-secured: "82anMedwDj1PcPBEB+ukGKGapd+1fJrusFj22jBdSTqtx0ayAwyc1+ak/F75wiO1YLUxvF1jG488+JHHmN+qjWUGJuJMvvSC+9a3+rrB6noGtVxdzKW/Z2WhE8uOOV+W/jWbO+lS0BHMvsEAsS+gSAxwk4+nNARQgVISHwklZaS76VF1CyarenWgpw76uNjsl90fU4DL9LJaMxnl2nplaJ6+2sxAmH5RbnYmAeaMcOPVqo0a53iVRY4V7HQsKxredxmKB+xd8izNjulBfZIIoEjpggUBlhfx23uHudjCBJgBNUkLvKXiT+sGcqsv587zJcPRuIDF2x5zwMM77bjMQBvvON97kAuKh7Y0n5lZj3E=;IUfGHeIreA2Igh0CDQIPNw=="
+secured: "ibyc8i72hlAgpvsLQH10M0vJKeXu+k0v2mkp/Z9qBeEcj3KIbfhcT4iDPDfyJBEj1gC6E2Gu6iq7/1q+9fskXgpaOf4ECsG4TbkEGF8Fh1dAF1jHqqjcl8xaCPScswT/i6UXrKNTePgMM9WOq2vIomR00g3fnWBOQ4Vi5beYCVuMUXra7WqRpGibHpuM3LakkuNnDFGYqgrYviwRKiEw4bAsnf+Q3ZxQBFZ16XBBQyb/lJufJRSRe7XyGN3sS29exxbGQfI/rzV4cd8Y3VBxCnMEE3CL5GeQHDsiXkWqTdQGeyN3g6U9GbVVCPrPFogH607xysveMHsMhHpN3IiwLQ8nkYfTkxO0L+iWnj6DPw8=;Qx8JIazatR1OmS64/qnWKA=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-09-trump-officials-celebrated-efforts-to-change-cdc-reports-on-coronavirus-emails-show.md",
+      "title": "Trump officials celebrated efforts to change CDC reports on coronavirus, emails show",
+      "excerpt": "Political appointees also tried to blunt scientific findings they deemed unfavorable to Trump, according to new documents from House probe",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/",
+      "originalUrl": "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AD36FQXW2QI6VBPXLFARRCUYZU.jpg&w=1440",
+          "width": 1440,
+          "height": 990,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/04/09/cdc-covid-political-interference/?outputType=amp",
+      "publishedDateTime": "2021-04-09T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-mike-pence-memoir-could-define-him-for-2024-but-donald-trump-looms-large.md",
       "title": "Mike Pence Memoir Could Define Him for 2024, but Donald Trump Looms Large",
       "excerpt": "Mike Pence has an opportunity to guide the narrative of his political career thus far with his upcoming memoir. And with the first of two parts due for release in 2023, the book is perfectly timed for a potential presidential run the next year. However ...",
@@ -1513,58 +1565,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-trump-blasted-by-former-staffer-miles-taylor-for-deceptive-fundraising-payment-scheme.md",
-      "title": "Trump Blasted by Former Staffer Miles Taylor for Deceptive Fundraising Payment Scheme",
-      "excerpt": "Above, Donald Trump speaks during the Conservative Political Action Conference (CPAC) on February 28, 2021 in Orlando, Florida. Joe Raedle/Getty Images \"And to raid someone of their money at the end of their life has got to add onto that hardship for the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952",
-      "originalUrl": "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1771467/donald-trump-miles-taylor-election.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-blasted-former-staffer-miles-taylor-deceptive-fundraising-payment-scheme-1580952?amp=1",
-      "publishedDateTime": "2021-04-04T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

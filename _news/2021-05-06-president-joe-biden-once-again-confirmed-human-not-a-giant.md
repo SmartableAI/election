@@ -1191,6 +1191,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden focuses on restaurants hit by pandemic"
+    excerpt: "Highlighting his administration’s $28.6 billion program to help eateries that lost business because of the coronavirus pandemic, President Joe Biden insists his Restaurant Revitalization Fund \"is about a seat at the table,"
+    publishedDateTime: 2021-05-05T20:21:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/05/biden-focuses-restaurants-hit-pandemic/4962246001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/6236c6e2-4e3f-4abb-9a35-a3df148dc0ec_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden Says Restaurant Grants Show Quick Use of Rescue Money"
     excerpt: "President Joe Biden said a $28.6 billion program that gives grants to restaurants hit by the pandemic shows how his administration is quickly making use of a rescue plan he signed into law in March."
     publishedDateTime: 2021-05-05T18:38:00Z
@@ -1477,6 +1491,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "sdMAlihwG0ZiIA564Tu9MjImWtwxWgHaeTM0EWFAi3LBr2S3ALgwupYLvfQYVOqVFftwIKwgxsOpJGnrPw4QeHhx08CNCqMszTOJk1gYCtreJ1igw8TpZo7FE3GkvMZheVYAsBSyQ1avOgInf2La9TZzvKeLChjnsjnBBvDcHDp61YY4OL9VGxVLPIeqt4L6R23zMPerR0RIUnQE0m7f3rtOIQUElEYVgQFN5X68gxofn29Qgnc2p527qMFgC3LfKTr/nXD4fup6mGkBtPKljSt51/7tC2rPsjAKKUYUMAfxz0juKqHpla3nPNG90z424NUmL1tgkKruJjL1WEA0F5aKY4zx640T/aayRbuwgu8=;XAmW+Wp5svANnlLjjVyJtw=="
+secured: "hQqDwq+n13ee0CTz4k6mQKMk+Hpor3fwKgdZhE1obK69gnSup9pcqaaDzYUpzZFK4MDTnTVD8b1QuSTcQ6lqSEDdAN+wmpR1PI1VLtQAbt3YJ56XKVshvuZrlwGFrziXw2Kal5zydmQX2BVxhj0EKuGatCMSRZAMx0t4bvgaecoAenNCVM2gcu6lQ269Cd7eR8adqiKRhXj1qwBvybnbdgoXEgxGkJ6YLrXCQKzTB37G8jL8/I0JdhoC4gCBhOsewyoGi/HgtoiqphImGTm+EcgDrYmfKy+Lwu2JI/J1uQRT8K068V1MvcsU9RuR6ahKSKqlc2aCPX9NWP0sWAdtkAyYWR9uw3wPBrHF0OPGF34HE3oDJv1TMw6nFvGgHyn8DfRg5QE54n45jYhZ4iXjGKMFmguheyo3mO9+KIqj2y+9XJYK8zV2ZWJjp8kzILxg3y55F31huhbhBsJNAjsMmiaQ5j9Ero35UaWiRTgKRbnWysXo5nPaMT2fDAcqKd5BxPAB1+qHD/BY8unnAnKZYA==;CVQALFweklaFA4OjW5UQBg=="
 ---
 

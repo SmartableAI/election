@@ -251,6 +251,38 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "Photos: Vice President Kamala Harris visits RI"
+    excerpt: "On Wednesday, May 5, Vice President Kamala Harris spent a few hours in Rhode Island, meeting with small business owners and touting President Joe Biden’s proposed multitrillion-dollar American Jobs Plan. WARWICK, R.I. (WPRI) — Warwick Public Schools is ..."
+    publishedDateTime: 2021-05-05T21:18:00Z
+    webUrl: "https://www.wpri.com/news/photo-galleries/photos-vice-president-kamala-harris-visits-ri/"
+    ampWebUrl: "https://www.wpri.com/news/photo-galleries/photos-vice-president-kamala-harris-visits-ri/amp/"
+    cdnAmpWebUrl: "https://www-wpri-com.cdn.ampproject.org/c/s/www.wpri.com/news/photo-galleries/photos-vice-president-kamala-harris-visits-ri/amp/"
+    type: article
+    provider:
+      name: WPRI 12
+      domain: wpri.com
+    quality: 75
+    images:
+      - url: "https://www.wpri.com/wp-content/uploads/sites/23/2021/05/kamala-collage.jpg?w=1280"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "VP Kamala Harris sits down with WPRI’s Ted Nesi to discuss trip to RI"
+    excerpt: "During a one-day visit to Rhode Island on Wednesday, Vice President Kamala Harris sat down with 12 News politics editor Ted Nesi for her only local television interview on the trip. After landing at T."
+    publishedDateTime: 2021-05-05T19:51:00Z
+    webUrl: "https://www.wpri.com/news/politics/vp-kamala-harris-sits-down-with-wpris-ted-nesi-to-discuss-trip-to-ri/"
+    ampWebUrl: "https://www.wpri.com/news/politics/vp-kamala-harris-sits-down-with-wpris-ted-nesi-to-discuss-trip-to-ri/amp/"
+    cdnAmpWebUrl: "https://www-wpri-com.cdn.ampproject.org/c/s/www.wpri.com/news/politics/vp-kamala-harris-sits-down-with-wpris-ted-nesi-to-discuss-trip-to-ri/amp/"
+    type: article
+    provider:
+      name: WPRI 12
+      domain: wpri.com
+    quality: 75
+    images:
+      - url: "https://www.wpri.com/wp-content/uploads/sites/23/2021/05/harris-interview.jpg?w=1280"
+        width: 800
+        height: 449
+        isCached: true
   - title: "Photos: Kamala Harris sells San Francisco loft; seeks buyer for DC condo"
     excerpt: "Kamala Harris has sold her SoMa loft in San Francisco for $860,000 and now seeks a buyer for her Washington, DC, condo."
     publishedDateTime: 2021-05-03T16:07:00Z
@@ -518,6 +550,20 @@ related:
     quality: 55
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/05/04/PMJS/bcc9b78a-8bac-4c57-b99d-98f28a9eaa51-98624c12-7040-4318-9f1a-c8920f978be5_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
+  - title: "VP Kamala Harris visits Rhode Island with Commerce Secretary Gina Raimondo"
+    excerpt: "Vice President Kamala Harris answers questions during a visit to RI with Commerce Secretary Gina Raimondo. Providence Journal video/ Kris Craig]"
+    publishedDateTime: 2021-05-05T21:35:00Z
+    webUrl: "https://www.providencejournal.com/videos/news/2021/05/05/vp-kamala-harris-visits-rhode-island-commerce-secretary-gina-raimondo/4963450001/"
+    type: article
+    provider:
+      name: Providence Journal
+      domain: providencejournal.com
+    quality: 53
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/05/NPRJ/dfac8328-a086-49e1-8f02-465a9b647be9-c744e0de-93ce-4937-9845-ab7c8a825c7b_thumbnail.png?quality=10"
         width: 852
         height: 480
         isCached: true

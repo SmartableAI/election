@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump and legal team approached about Giuliani legal costs"
+    excerpt: "Allies of Rudy Giuliani continue to call on former President Donald Trump and Republicans to pay for his efforts around the election and, in turn, subsidize the mounting legal bills facing the former New York City mayor.\n    \n"
+    publishedDateTime: 2021-05-05T21:42:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BMXVDBYO5U0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/trump-giuliani-legal-costs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/trump-giuliani-legal-costs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: A GOP candidate ran on an anti-Trump platform. He won just 3% of the vote."
     excerpt: "Michael Wood's candidacy in this weekend's special election for Texas' 6th district was regarded as a potential canary in a coal mine.\n    \n"
     publishedDateTime: 2021-05-03T13:55:02Z
@@ -140,6 +156,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504074428-michael-wood-new-day-0504-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Elise Stefanik's rapid rise as Trump supporter highlights the Trump takeover of the GOP"
+    excerpt: "GOP Rep. Elise Stefanik now appears poised to become the next House Republican conference chairwoman as the party unites against Rep. Liz Cheney for calling out former President Donald Trump's Big Lie that the 2020 election was stolen.\n    \n"
+    publishedDateTime: 2021-05-05T21:27:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XPSV64d9vuk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/elise-stefanik-trump-supporter-history/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/elise-stefanik-trump-supporter-history/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505140659-05-rep-elise-stefanik-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

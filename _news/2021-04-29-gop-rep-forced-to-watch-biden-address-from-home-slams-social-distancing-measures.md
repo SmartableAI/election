@@ -509,6 +509,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden's bizarre Amtrak story doesn't add up"
+    excerpt: "President Biden told a story last week about an Amtrak conductor congratulating him for riding more than 1.5 million miles – but the details don't seem to add up."
+    publishedDateTime: 2021-05-05T21:01:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4PTCj7r3mmA/biden-amtrak-story-fact-check-conductor-million-miles"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-amtrak-story-fact-check-conductor-million-miles.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-amtrak-story-fact-check-conductor-million-miles.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3306ed57-da8b-45bc-92dc-8e1ec22dda55/7536b03d-1f9a-47c6-97cc-d7ce58234a67/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Cruz calls on Biden to fix gap in Texas levee that protects border towns"
     excerpt: "Sen. Ted Cruz, R-Texas, and local residents in Mission, Texas, are calling on President Biden to fix a compromised levee that protects border towns from the Rio Grande Valley – with hurricane season just weeks away."
     publishedDateTime: 2021-04-22T17:31:33Z

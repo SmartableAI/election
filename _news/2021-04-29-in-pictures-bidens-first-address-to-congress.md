@@ -333,6 +333,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden dismisses McConnell's pledge to focus 'on stopping this new administration'"
+    excerpt: "President Joe Biden responded on Wednesday to Senate Minority Leader Mitch McConnell's comment that \"100%\" of his focus is \"on stopping this new administration,\" asserting that he had heard such threats from the Kentucky Republican before and worked through them.\n    \n"
+    publishedDateTime: 2021-05-05T20:56:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3-dkiCWW_-c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/biden-mcconnell-100-stopping-new-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/biden-mcconnell-100-stopping-new-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106100610-01-biden-mcconnell-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First lady's virtual joint address guests spotlight Biden administration priorities"
     excerpt: "When President Joe Biden delivers his address to a joint session of Congress Wednesday night, first lady Jill Biden will forgo the traditional set of guests in the first lady's viewing box due to social distancing constraints in the House chamber amid the coronavirus pandemic. Instead, she will virtually"
     publishedDateTime: 2021-04-28T20:21:06Z

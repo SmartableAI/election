@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Facebook’s Oversight Board upholds ban on Trump. At least for now."
+    excerpt: "The panel faulted the social network for making a hasty decision without clear criteria and told Facebook to reevaluate the decision within six months."
+    publishedDateTime: 2021-05-05T20:20:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CXWOKATSREI6XBSRNUYJD2WGH4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Facebook board to decide today if former President Donald Trump can post again on the social media site"
     excerpt: "On Wednesday, his fate on Facebook, the biggest social platform around, will be decided. The company’s quasi-independent Oversight Board will announce its ruling around 9 a.m. ET. If it rules in Trump’s favor,"
     publishedDateTime: 2021-05-05T14:09:00Z

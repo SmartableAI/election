@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/donald-trump-facebook/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/donald-trump-facebook/index.html"
 type: article
 quality: 171
-heat: 311
+heat: 331
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://static.politico.com/54/a4/873e2b024444941520a326b37fba/mag-gettyimages-1229555360.jpg"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "British Political Veteran Steers Facebook’s Trump Decision"
+    excerpt: "Trump from its service in January, Mark Zuckerberg, the chief executive, defended the decision in a Facebook post the morning after the siege of the Capitol. But the first draft was written the night before by Nick Clegg,"
+    publishedDateTime: 2021-05-05T20:42:00Z
+    webUrl: "https://www.nytimes.com/2021/05/05/technology/facebook-trump-nick-clegg.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/05/technology/facebook-trump-nick-clegg.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/05/technology/facebook-trump-nick-clegg.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/06/business/06clegg/05clegg-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "‘It really f--ks the other ‘24 wannabes' — How Facebook could give Trump a huge boost"
     excerpt: "Former President Donald Trump’s potential reemergence on Facebook this week could dramatically upend politics. But it’s not the megaphone the platform offers him — it’s the money. Trump has not been on Facebook since it booted him in the wake of his encouragement of the January 6 riots at the Capitol."

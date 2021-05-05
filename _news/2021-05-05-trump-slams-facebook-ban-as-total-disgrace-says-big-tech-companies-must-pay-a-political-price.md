@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Freedom of speech is from the Constitution not 'Facebook's Oversight Board,' RNC says of Trump ban"
+    excerpt: "The Republican National Committee slammed Facebook as “an extension of the left’s woke mob” after its oversight board upheld a ban on President Trump."
+    publishedDateTime: 2021-05-05T21:06:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ynh7xQ3HYAA/facebooks-oversight-board-rnc-trump-ban"
+    ampWebUrl: "https://www.foxnews.com/politics/facebooks-oversight-board-rnc-trump-ban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebooks-oversight-board-rnc-trump-ban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/720/405/Ronna-Mcdaneil-GETTY.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Trump Copes With Facebook, Twitter Ban by Relying on Email, Media Interviews"
     excerpt: "President Donald Trump used to reach tens of millions of people with a tweet. Now, the former president, unable since January to tweet or post to YouTube or Facebook, has been relying on email blasts to make statements,"
     publishedDateTime: 2021-05-05T13:49:00Z

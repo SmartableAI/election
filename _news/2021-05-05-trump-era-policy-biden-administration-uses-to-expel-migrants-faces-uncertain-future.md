@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/us-mexico-border-pandemi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/us-mexico-border-pandemic-policy/index.html"
 type: article
 quality: 183
-heat: 923
+heat: 943
 published: true
 
 provider:
@@ -316,6 +316,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427174620-us-capitol-0427-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden dismisses McConnell's pledge to focus 'on stopping this new administration'"
+    excerpt: "President Joe Biden responded on Wednesday to Senate Minority Leader Mitch McConnell's comment that \"100%\" of his focus is \"on stopping this new administration,\" asserting that he had heard such threats from the Kentucky Republican before and worked through them.\n    \n"
+    publishedDateTime: 2021-05-05T20:56:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3-dkiCWW_-c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/biden-mcconnell-100-stopping-new-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/biden-mcconnell-100-stopping-new-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106100610-01-biden-mcconnell-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

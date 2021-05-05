@@ -112,6 +112,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "DOJ memo will 'validate' Barr not charging Trump with obstruction of justice, GOP congressman predicts"
+    excerpt: "Former chairman of the House Rules Committee Pete Sessions, R-Texas, told Fox News on Wednesday that he predicts the DOJ memo from March 2019 will “validate” Barr’s decision to clear Trump from obstruction of justice charges."
+    publishedDateTime: 2021-05-05T21:46:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GKkkwcxeKYs/trump-doj-bill-barr-obstruction-of-justice-memo-sessions"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-doj-bill-barr-obstruction-of-justice-memo-sessions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doj-bill-barr-obstruction-of-justice-memo-sessions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0217ba45-4b1f-45af-a61e-06b1ff7ed4fa/762f403d-d1bb-46f5-8975-4e4c6a13b68e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Donald Trump offers advice to ‘woke’ Oscars"
     excerpt: "Former President Donald Trump ​on Tuesday ​weighed in on the Academy Awards that critics lambasted as overly “woke” and which attracted its smallest TV audience in history, suggesting"
     publishedDateTime: 2021-04-27T17:53:00Z
@@ -237,6 +253,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-334085/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Justice Department Obstruction Memo Must Be Released, Judge Orders"
+    excerpt: "A federal judge said the agency improperly characterized as privileged a 2019 memo, prepared after Mueller report was done, recommending against prosecuting Trump for obstruction of justice."
+    publishedDateTime: 2021-05-05T15:54:00Z
+    webUrl: "https://www.wsj.com/articles/trump-justice-department-obstruction-memo-must-be-released-judge-orders-11620233658"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-justice-department-obstruction-memo-must-be-released-judge-orders-11620233658"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-justice-department-obstruction-memo-must-be-released-judge-orders-11620233658"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 134
+    images:
+      - url: "https://images.wsj.net/im-334427/social"
         width: 1280
         height: 640
         isCached: true

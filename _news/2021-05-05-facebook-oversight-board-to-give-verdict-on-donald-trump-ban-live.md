@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/05/facebook-donald
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook’s Oversight Board upholds ban on Trump. At least for now."
+    excerpt: "The panel faulted the social network for making a hasty decision without clear criteria and told Facebook to reevaluate the decision within six months."
+    publishedDateTime: 2021-05-05T20:20:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CXWOKATSREI6XBSRNUYJD2WGH4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Facebook and Trump are at a turning point in their long, tortured relationship"
     excerpt: "Facebook’s decision to outsource the future of Trump’s account to an independent Oversight Board stems from a tortured relationship with the former president. It could also set a precedent on how social media companies handle politicians and on how they will balance free speech and harm."
     publishedDateTime: 2021-05-04T10:15:00Z

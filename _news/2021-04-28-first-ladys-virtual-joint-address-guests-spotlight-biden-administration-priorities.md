@@ -335,6 +335,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden dismisses McConnell's pledge to focus 'on stopping this new administration'"
+    excerpt: "President Joe Biden responded on Wednesday to Senate Minority Leader Mitch McConnell's comment that \"100%\" of his focus is \"on stopping this new administration,\" asserting that he had heard such threats from the Kentucky Republican before and worked through them.\n    \n"
+    publishedDateTime: 2021-05-05T20:56:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3-dkiCWW_-c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/biden-mcconnell-100-stopping-new-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/biden-mcconnell-100-stopping-new-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106100610-01-biden-mcconnell-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'The honeymoon is over': Biden faces tougher tasks ahead as progressives demand more"
     excerpt: "The era of good feelings enjoyed by President Joe Biden and the Democratic Party's progressive wing will face a stern test of its staying power as the administration pushes forward into the next phases of its big-ticket policy agenda.\n    \n"
     publishedDateTime: 2021-05-02T00:12:20Z
