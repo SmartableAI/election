@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Cheney could be 'toast' in fight with Trump over GOP future"
-excerpt: "WASHINGTON — House Republican leader Kevin McCarthy wants his party to stand firmly with Donald Trump, despite the former president’s false claims about the election being stolen from him. No. 3 GOP leader Liz Cheney is trying to steer the party far ..."
-publishedDateTime: 2021-05-05T04:10:00Z
-originalUrl: "https://www.washingtonpost.com/politics/cheney-could-be-toast-in-fight-with-trump-over-gop-future/2021/05/05/3b8ab16a-ad60-11eb-82c1-896aca955bb9_story.html"
-webUrl: "https://www.washingtonpost.com/politics/cheney-could-be-toast-in-fight-with-trump-over-gop-future/2021/05/05/3b8ab16a-ad60-11eb-82c1-896aca955bb9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/cheney-could-be-toast-in-fight-with-trump-over-gop-future/2021/05/05/3b8ab16a-ad60-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/cheney-could-be-toast-in-fight-with-trump-over-gop-future/2021/05/05/3b8ab16a-ad60-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+title: "Cheney Could Be 'Toast' in Fight With Trump Over GOP Future"
+excerpt: "House Republican leader Kevin McCarthy wants his party to stand firmly with Donald Trump, despite the former president’s false claims about the election being stolen from him."
+publishedDateTime: 2021-05-05T05:09:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-05-05/cheney-could-be-toast-in-fight-with-trump-over-gop-future"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-05-05/cheney-could-be-toast-in-fight-with-trump-over-gop-future"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-05-05/cheney-could-be-toast-in-fight-with-trump-over-gop-future?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-05-05/cheney-could-be-toast-in-fight-with-trump-over-gop-future?context=amp"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PSOPEDVNBII6XAWBRFVMVFK3XE.jpg&w=1440"
-    width: 1440
-    height: 960
-    isCached: true
 
 related:
   - title: "Whose 'Big Lie'? Trump's proclamation a new GOP litmus test"
@@ -80,6 +74,6 @@ related:
         height: 336
         isCached: true
 
-secured: "RSG+37VMQyBYCSgftZoi4E5OsTEK/El7rUqiQ+d0L7nPKNb+E4e+QOuLjK2ZOxwU73JMAvABdlAD0bBR9KZeaUQ/Hn2Eu0Skw7/6Pp/gwWOnYbTAh3nbPb11FPmiGH3nW9nlJn10i3oYBjv9NV0dExAkPMl9W9RZuCF9/4RxAjUSivLu6y9AV5s6F67ypB1kjlCR80qgSzLuMXAu79qmyoPe1EdL+Jdouveu+lQX1dNUEHDDoYIFkSBxS7tHNQhgbxxsFxpLqlwSF3B46nf2vbcUcBcZL+9XiaJ+J4vT6tvzroZXPTJnZTuWROp27McmqIsaFRARuv7M8/DkqYENo+S4oyewEXN8OO0DBWt+nwk=;y5/G4EFXKBnBR07J/Canew=="
+secured: "wpVh7Wk7Jq2MY3/Ve5jE4mf0a+OGsxwX+FGRV0lgaYEuJ9+O/aNCfnUDif18YmASNlZhnY1iKMNT2zcO+MUCd9C4sK/1pe8XbIJNz9SK3uyKW/b2wGdsjsfoYnuZ0YULTP83BY9h52YO9RMPtklnW1SSrJ/2yy0kNEdiZEBc7eabHjiIFFFhaEvsD0iPR14QSzytJVBli9IihrxXXXAgytm7q4XRIxOGzxxw64VuNxPMw6DiXs9SmDGN45FL8tFPrf/pm8NBRwidCxF4lTP+jfo1z1T0cfVZ+TzJACmHHnuB3ZDnnddIRdIalrsHdw3LcKBzwp+y6drr3HLHlqy8O/KA0QQhCQtLjzNhRgx/WHnoCaNIet+nX+eepF2gJ61n9L7ja+AL3RZXlgyHKzBe9RHzncFnUx7Uj5xuPEd/kcO5kmLndmisGyFQfbrwYVS59liZ/EtLajDet4TuopVRCDtT07ZkJgnuMEdnRYa94ArOfDSUgQ3lLKTQ2dWjXAIY9isJMu+uCx1A32EftGxSTg==;/Ku5DbxwplxbgY4qVPfcXA=="
 ---
 

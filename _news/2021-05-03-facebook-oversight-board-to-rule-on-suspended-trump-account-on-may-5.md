@@ -80,6 +80,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Facebook Oversight Board Set to Rule on Trump Ban"
+    excerpt: "The panel of about 20 people, including academics and political leaders, will decide whether the company’s ban of former President Donald J. Trump will remain in effect."
+    publishedDateTime: 2021-05-05T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/05/05/technology/What-Is-the-Facebook-Oversight-Board.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/05/technology/What-Is-the-Facebook-Oversight-Board.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/05/technology/What-Is-the-Facebook-Oversight-Board.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/05/business/05fbboard-explainer/05fbboard-explainer-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "The Facebook Ban Hurt Trump in Surprising Ways"
+    excerpt: "MAGA world still loves him, but it doesn’t hear him with the same force it used to. How long before that begins to erode his support?"
+    publishedDateTime: 2021-05-05T08:34:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/05/05/trump-social-media-supporters-485381"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/05/05/trump-social-media-supporters-485381"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/05/05/trump-social-media-supporters-485381"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/54/a4/873e2b024444941520a326b37fba/mag-gettyimages-1229555360.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "E074tTK35v0JrLBY+lhrv3V3cpjBP5KFiUxdaGEpF71f0hyIKGc+501/kD7hkLTT0uCp6ZMlrXiDVmJkMYT9ZP8VCOb2Oh+UOpacmt3xbXP+7z7VG5hidTJCtaz2Iihw0MtiElhAMjdxosW+p1dEAdX1ldNTkYkCdPUnnW1t414vwfhxb1E7rMdXmXeX2esa73nCTWp2dO5bQdPe0KQL57wAb/gvIyXxVqeE4MPOPVJw70pDCRnVla/rmPhp71yB8u3VAw4ziRTMDe9PDNjXkSvermQJRjKRUqYw8G64l5wpLQhjDaWSj5HRMkgaPTzL87xKGGb4hu8xSLacpuuCc40aht0KMu4sTzNGq1bMuNU=;ZZvNJh2Sl0dIL5tG9UqJmw=="
 ---

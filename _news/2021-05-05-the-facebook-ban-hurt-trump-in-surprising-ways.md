@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Old Trump health team rivalries resurface in Texas House race"
-excerpt: "A senior Trump health official’s bid to become the first administration alumnus elected to Congress is running into resistance from an unlikely source: his own former colleagues. Brian Harrison, a chief of staff to former Health and Human Services ..."
-publishedDateTime: 2021-04-12T08:30:00Z
-originalUrl: "https://www.politico.com/news/2021/04/12/trump-health-texas-house-race-480689"
-webUrl: "https://www.politico.com/news/2021/04/12/trump-health-texas-house-race-480689"
-ampWebUrl: "https://www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689"
+title: "The Facebook Ban Hurt Trump in Surprising Ways"
+excerpt: "MAGA world still loves him, but it doesn’t hear him with the same force it used to. How long before that begins to erode his support?"
+publishedDateTime: 2021-05-05T08:34:00Z
+originalUrl: "https://www.politico.com/news/magazine/2021/05/05/trump-social-media-supporters-485381"
+webUrl: "https://www.politico.com/news/magazine/2021/05/05/trump-social-media-supporters-485381"
+ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/05/05/trump-social-media-supporters-485381"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/05/05/trump-social-media-supporters-485381"
 type: article
 quality: 135
 heat: -1
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/9f/95/6083ce4d4093a63bafe1c7155074/gettyimages-906623620-1.jpg"
-    width: 1160
-    height: 773
+  - url: "https://static.politico.com/54/a4/873e2b024444941520a326b37fba/mag-gettyimages-1229555360.jpg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
@@ -45,6 +45,22 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/c9/e9/f0ff0b934e189519ffd7493b3913/210409-trump-phone-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Old Trump health team rivalries resurface in Texas House race"
+    excerpt: "A senior Trump health official’s bid to become the first administration alumnus elected to Congress is running into resistance from an unlikely source: his own former colleagues. Brian Harrison, a chief of staff to former Health and Human Services ..."
+    publishedDateTime: 2021-04-12T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/04/12/trump-health-texas-house-race-480689"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/9f/95/6083ce4d4093a63bafe1c7155074/gettyimages-906623620-1.jpg"
         width: 1160
         height: 773
         isCached: true
@@ -96,23 +112,7 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "The Facebook Ban Hurt Trump in Surprising Ways"
-    excerpt: "MAGA world still loves him, but it doesn’t hear him with the same force it used to. How long before that begins to erode his support?"
-    publishedDateTime: 2021-05-05T08:34:00Z
-    webUrl: "https://www.politico.com/news/magazine/2021/05/05/trump-social-media-supporters-485381"
-    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/05/05/trump-social-media-supporters-485381"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/05/05/trump-social-media-supporters-485381"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/54/a4/873e2b024444941520a326b37fba/mag-gettyimages-1229555360.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
 
-secured: "zYpbFNI6DlAw3gB0J0cZ7joQ+MmW+DYB7UwMrNKaFcH5PRpRJXyWoQUfdGyDro2/l/szDtnVC3WcChe9kwAOOjZ2llTlxNwDI8+jW/+CZG5ry+aiTDHTktrtNLS4diOg0WzmOJcJRqWrNzlfIeXqISD0nrwBW8ZBgpHxm7ZnubiDxrv8xmkH14vd44xHUSKVtKU9OHhzaHJ98jNv+1p1Nqx8V5Pacbx/0DFbKy05DzUpM1Jf+LG855yCq/KVy9I77+tOQI/QQ8fcSMKVCvt/KoCYYJR4JQLMof4Y2PgQcWlwgjYOj1rY2uj2l4l591f27nIvrLnpQ1Xbp05TffI1tI8C8NM1f1ZOQEsijpXsuBYIzFopv4YK8LPIMbO6xl9y++wGlKdT56tPkTPrxeV9s7jRpxVEtiquyJRlyOJIfKl+cT0Uu4xlvV/prE0HWC5HtDJikJG2ttOFLAbKMHCMtRKzUVTCqbAEA/7QJ9VqlLcEyqKnF9boyAMhDyT1C79JCpturMMG7Q8foaLoTsSOBw==;rchaOjZYyORzyp4aNAiLJA=="
+secured: "3Cmy7Pc3B/kTl7xTqWCvGXo5YxEXEzv/YYDvadk7mfxu4mXdaZ+a9snFqvdnygNezDFmKvGhR3kyI3Pz3aaWSrVU1rC9e/YAVybygBJ9cUAdNNiXaxEpg2hy54pCr82rufGdoDr8DeMsdOoPoNf0RO+e9bqkA7h+p2ZykELQoVPqmyYuvFfPy7Tu1Uup/npXFjAhP1C/HsDnA1zqvUE7PPKk+X7y4MRNfwai1y8ZylFf6SiBJM0V/iR1AtcbH9mtgR4jKSHBS3nx8/bHI1pfklZTMc65fRzBB3lr7jOXMr1OOYcorDoXL1O+RGdByN7lay4jZeTTQGXxDxP271/VC8ZFa8K+9aMQ6n/WWptnuDY=;bCSqGeSApCIz25PXe4tNiA=="
 ---
 

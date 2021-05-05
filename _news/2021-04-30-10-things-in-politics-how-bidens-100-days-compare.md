@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-biden-100-days
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-biden-100-days-history?amp"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -172,6 +172,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210430&i=OVEAPZ467&r=OVEAPZ467&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "10 Things in Politics: Trump's a blogger now"
+    excerpt: "And a federal judge orders the Justice Department to turn over a secret memo related to the Mueller report."
+    publishedDateTime: 2021-05-05T09:35:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-new-website-facebook"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/5ff9757fd184b30018aadec6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Essential Politics: Biden pledges to leave Afghanistan. It’s a withdrawal years in the making."
     excerpt: "Biden is the third president to pledge to reduce or completely withdraw U.S. troops in Afghanistan. It's a promise that comes after two administrations' worth of effort."

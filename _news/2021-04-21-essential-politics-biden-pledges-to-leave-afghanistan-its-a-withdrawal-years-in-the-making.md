@@ -187,6 +187,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "10 Things in Politics: Trump's a blogger now"
+    excerpt: "And a federal judge orders the Justice Department to turn over a secret memo related to the Mueller report."
+    publishedDateTime: 2021-05-05T09:35:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-new-website-facebook"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/5ff9757fd184b30018aadec6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "CBS News poll: Viewers approve of President Biden's speech amid spending, police reform proposals"
     excerpt: "A new CBS News poll found the majority of people who watched President Joe Biden's first address to a joint session of Congress approved of the address. The speech comes as the president is proposing two large spending plans and urging police reform."
     publishedDateTime: 2021-04-29T14:09:00Z

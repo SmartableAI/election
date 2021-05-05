@@ -1,29 +1,31 @@
 ---
 category: news
-title: "President Joe Biden’s first 100 days: 53% approve of job performance, two-thirds approve of COVID efforts, new poll says"
-excerpt: "A majority of Americans approve of President Joe Biden ’s first 100 days on the job, with two-thirds supporting his handling of the COVID-19 pandemic, according to a new CNN poll. The poll results come as Biden prepares to deliver an address to Congress on Wednesday night,"
-publishedDateTime: 2021-04-28T12:57:00Z
-originalUrl: "https://www.masslive.com/politics/2021/04/president-joe-bidens-first-100-days-53-approve-of-job-performance-two-thirds-approve-of-covid-efforts-new-poll-says.html"
-webUrl: "https://www.masslive.com/politics/2021/04/president-joe-bidens-first-100-days-53-approve-of-job-performance-two-thirds-approve-of-covid-efforts-new-poll-says.html"
-ampWebUrl: "https://www.masslive.com/politics/2021/04/president-joe-bidens-first-100-days-53-approve-of-job-performance-two-thirds-approve-of-covid-efforts-new-poll-says.html?outputType=amp"
-cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/04/president-joe-bidens-first-100-days-53-approve-of-job-performance-two-thirds-approve-of-covid-efforts-new-poll-says.html?outputType=amp"
+title: "10 Things in Politics: Trump's a blogger now"
+excerpt: "And a federal judge orders the Justice Department to turn over a secret memo related to the Mueller report."
+publishedDateTime: 2021-05-05T09:35:00Z
+originalUrl: "https://www.businessinsider.com/10-things-in-politics-trump-new-website-facebook"
+webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-new-website-facebook"
 type: article
-quality: 50
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: MassLive
-  domain: masslive.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YJJVFBD2MVH4BDLMQSSAMIRKZM.jpg"
-    width: 1024
-    height: 683
+  - url: "https://i.insider.com/5ff9757fd184b30018aadec6?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -185,20 +187,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "10 Things in Politics: Trump's a blogger now"
-    excerpt: "And a federal judge orders the Justice Department to turn over a secret memo related to the Mueller report."
-    publishedDateTime: 2021-05-05T09:35:00Z
-    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-new-website-facebook"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/5ff9757fd184b30018aadec6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Essential Politics: Biden pledges to leave Afghanistan. It’s a withdrawal years in the making."
     excerpt: "Biden is the third president to pledge to reduce or completely withdraw U.S. troops in Afghanistan. It's a promise that comes after two administrations' worth of effort."
     publishedDateTime: 2021-04-21T13:00:00Z
@@ -243,7 +231,23 @@ related:
         width: 1400
         height: 1047
         isCached: true
+  - title: "President Joe Biden’s first 100 days: 53% approve of job performance, two-thirds approve of COVID efforts, new poll says"
+    excerpt: "A majority of Americans approve of President Joe Biden ’s first 100 days on the job, with two-thirds supporting his handling of the COVID-19 pandemic, according to a new CNN poll. The poll results come as Biden prepares to deliver an address to Congress on Wednesday night,"
+    publishedDateTime: 2021-04-28T12:57:00Z
+    webUrl: "https://www.masslive.com/politics/2021/04/president-joe-bidens-first-100-days-53-approve-of-job-performance-two-thirds-approve-of-covid-efforts-new-poll-says.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/04/president-joe-bidens-first-100-days-53-approve-of-job-performance-two-thirds-approve-of-covid-efforts-new-poll-says.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/04/president-joe-bidens-first-100-days-53-approve-of-job-performance-two-thirds-approve-of-covid-efforts-new-poll-says.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 50
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YJJVFBD2MVH4BDLMQSSAMIRKZM.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
-secured: "Go62wjZaEF6d01+4VJUDRZFtTenk325KevYVbUo02N5BjGyreS2Zc1uIaq/45Q5+THwPxhKn3cI0i8oakJKcJjylsKiC0VOOyGPG7oj1TlpCkaqk1LpJQHD2EHYztpQz6WzGyQAza09N4gUYVEeib6JHfE66Czeww8uK9Lsgt4hE6ofG0BWD3vvyhStM0PNxzDFsUXKOKvSsZfFKsvLr25PsFZpdbRqHfbGAXXKc3tLGAAOOIXQjANUh0M9jwBuziVqbNFvRO0po3WN6+SXaEqfXigEWwxEJcHI7vxZnS1gTsrN3e7N0c0p/Nk/0k2pf1WKYSlMGXzbCBl7qov3jAPA7gQ+yE89w4ZNpNH6buyU=;cnJadx/JR3ZUJU9QgcvdCQ=="
+secured: "998FpI1839CGTmCcC97FwmFYVb8KK7lZI2lFMtTlmMQwRrUMSzcotZyKI3Q+ha3GRa3yAppX8vS8mWlfDvM/o8DVM+lCNeiF3X3Kebn3mkhyokwRuGVxSPcEG4t6dmrBt1lTepkm1+OOIDzPW1hUIZZpC4aJDy87Vcx8mgu3t/yzj3i3lnwkkfsiU/pJzv21+f0y5lM73JenaJPO0btCa5YSu0YID8UZpQ9OUGAY8uIx+dnGhlVwfeQ7B9hU6ddKTIWNkPhrhJku2y+KsDdURcJfuyLYRk+i3OZPqjlGf2X2mjZmRiBzBfNeIp/fVr3wCvJ2ATd/U9a+2yjEggVA/tRQEgsjlYpNdegMqAjy6SQ=;9IOKIZG+yqHL0BEL3aITkg=="
 ---
 
