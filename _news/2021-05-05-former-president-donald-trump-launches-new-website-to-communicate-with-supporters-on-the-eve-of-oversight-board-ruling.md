@@ -75,6 +75,20 @@ related:
         width: 3000
         height: 2082
         isCached: true
+  - title: "Facebook Ban On Donald Trump Will Hold, Social Media's Oversight Board Rules"
+    excerpt: "While the panel upheld Facebook's suspension of the former president, it said the company's indefinite ban was wrong and gave Facebook six months to either ban Trump permanently or reinstate him."
+    publishedDateTime: 2021-05-05T13:26:00Z
+    webUrl: "https://www.npr.org/2021/05/05/987679590/facebook-justified-in-banning-donald-trump-social-medias-oversight-board-rules"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 102
+    images:
+      - url: "https://media.npr.org/assets/img/2021/04/15/gettyimages-578547766_wide-2a7344918d393632228f6e013d7fa4544ec1b2af.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Will Donald Trump Run In 2024? Former President Gives New Comments About Political Fate"
     excerpt: "Donald Trump will be featured on a conservative website Tuesday night where he'll give insight on his 2024 running decision."
     publishedDateTime: 2021-05-04T20:41:00Z

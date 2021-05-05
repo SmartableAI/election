@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Facebook Oversight Board upholds Donald Trump's suspension from the platform"
+    excerpt: "Facebook can keep blocking former President Donald Trump from using its platform, the social network's court-like Oversight Board said Wednesday. The landmark move affirms the company's decision to suspend Trump in January after the US Capitol riots. However, the board said Facebook must review the decision"
+    publishedDateTime: 2021-05-05T13:37:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zblur6tofDA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/tech/donald-trump-facebook-account/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/tech/donald-trump-facebook-account/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210503160416-01-donald-trump-phone-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP candidate crushed after opposing Trump says party 'not living up to this moment'"
     excerpt: "Michael Wood, a Republican whose anti-Donald Trump message resulted in a crushing defeat in a special election for a Texas US House seat over the weekend, said the party is compromising its values by spreading the former president's falsehoods.\n    \n"
     publishedDateTime: 2021-05-04T13:20:20Z

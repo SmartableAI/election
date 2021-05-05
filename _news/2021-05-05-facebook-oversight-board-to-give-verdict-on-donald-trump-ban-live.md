@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/05/facebook-donald
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live"
 type: article
 quality: 125
-heat: 225
+heat: 285
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Donald Trump's Facebook ban is permanent, social network's Oversight Board rules"
+    excerpt: "Former President Donald Trump won’t return to Facebook. The social network’s quasi-independent Oversight Board has voted to permanently ban his account after it was suspended four months ago for inciting violence that led to the deadly Jan."
+    publishedDateTime: 2021-05-05T13:05:00Z
+    webUrl: "https://www.nola.com/news/politics/national_politics/article_af3cfcd0-ada1-11eb-abd2-c3ef83b7cf9b.html"
+    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_af3cfcd0-ada1-11eb-abd2-c3ef83b7cf9b.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_af3cfcd0-ada1-11eb-abd2-c3ef83b7cf9b.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/8/b3/8b3ccfa8-ada2-11eb-897f-d3cffbf2ca1e/6092981d6297f.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Defining Moment For Facebook Oversight Panel With Trump Ban Ruling"
     excerpt: "Facebook's independent oversight board was set for a momentous decision on the platform's ban of former US president Donald Trump, as debate swirls on the role of social media in curbing hateful and abusive speech while controlling political discourse."
     publishedDateTime: 2021-05-04T16:18:00Z
@@ -91,6 +107,31 @@ related:
         width: 1024
         height: 731
         isCached: true
+  - title: "Donald Trump’s Facebook suspension upheld by Oversight Board; group calls on social media giant to conduct six-month review of case, policies"
+    excerpt: "Former president Donald Trump will remain suspended from posting on Facebook, the world’s most popular social media platform, according to an independent Oversight Board. But the board, a diverse group of international experts in law,"
+    publishedDateTime: 2021-05-05T13:14:00Z
+    webUrl: "https://www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 40
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/U3T3Z7ONNZDCBMPY2WPOZSOEPE.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "U.S. House Majority Leader Hoyer Applauds Facebook Decision on Trump"
+    excerpt: "House Majority Leader Steny Hoyer applauded Facebook Inc's decision to maintain its suspension of Donald Trump after the Jan. 6 Capitol riots, saying it has the right to refuse to be a medium for the former Republican president."
+    publishedDateTime: 2021-05-05T13:28:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-05/us-house-majority-leader-hoyer-applauds-facebook-decision-on-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
   - title: "Explainer-Ahead of Trump Facebook Ruling, Here’s How Social Media Sites Handle World Leaders"
     excerpt: "Facebook's independent oversight board on Wednesday will announce whether it is overturning the company's suspension of former U.S. President Donald Trump's account. The long-awaited ruling will bring the focus back onto how the world's largest social network decides what world leaders and politicians can and can't say on their platforms."
     publishedDateTime: 2021-05-04T11:20:00Z
@@ -101,6 +142,6 @@ related:
       domain: usnews.com
     quality: 24
 
-secured: "QBrhTAbBO07LjIAax/bAs3/CaMkSBjYnsnGxVRpsk1c7oEn3O0VjmfUYj9ueuE/bQHmEumnMb2JEJ784lo+KUEHS9QVMlticjwVYQU6pNyXfvL6zFv/hzLkoGdMIh22+lHMklXYY1raUgkdYBsJ9jCllaAuyglR0VOErWyeWPmoCVQB0u22xLWV3ehOj1aWLR4gnu4SV6awQ6M10lR3iJEOttrchQ4W4cjusg6ZwzZ8E8kISrCR0nu3bditMVNcThrHvosoLUKy85w1fbshQdIAimQR3Qdf+DWpGwVXyBoNnwWT8FKbMwHqDc4OClP6h6ThyRra+6WRYZUsWjjYS1i7N6K+qYYpIuXCA8ID1Zgk=;bRcr/u6B3UtauDLTYlOC8w=="
+secured: "BN85xkGDWfBYyrmo6MPIiuvbDXU1AiRDpU/UCr+Y3Jbx48HHoSXIrkpS+1/1gCkeC0kVLi6kwTxQR8hpgi1xXxOMHxszkKUi8YZ1O/ohdUMeK/ZwN+VWQmeIp664Vxu4K0lQ36wweMepsxhZNKoF/Dm25WRDsLefOs1DTmf7+xcUdXjiZA2yvUaoRtAyXbLj58yjaFt3H6kfMDcDSm0tidDCpUHqNh1Stz9Z0rmw4owIfZhvGfwL47oq0JWQqFV67OlfJeUeoJ0ajv4bgE9cMvhr1kdcZC30B3NIkVsMaKXsGaLXKq8Vz/oMTqs5UsgPb/AeE45KoRM0SlvNM4VYCsPAsSCa0ZPre13kbXtL1K1qmTe4aKtnpFWIVw48iMUR1ydesQXvsFaUCm9TEXrsJAbEL6SAfJMcVshWwM8MNeGoU30UerYj7LRVT7OjE8zgAs4rKlanNgQh3QwMFYAbrtFYhR+c1DIH06h9Ib/pnApxewMJruy+u9W4ZvCyH1ktEWs7h+BHms963dtBTZ95/A==;MKtdcf23yzFyIyPswHPUBQ=="
 ---
 

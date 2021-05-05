@@ -253,6 +253,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden team divided on vaccine patent waivers"
+    excerpt: "Divisions within the Biden administration persist over whether to ease some patent restrictions on vaccines, according to people familiar with the matter, as the President nears a decision on loosening some intellectual property rules on pharmaceutical products, a move that could expand global vaccine"
+    publishedDateTime: 2021-05-05T12:00:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Np6kvJ9Nqi8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/vaccine-patent-waivers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/vaccine-patent-waivers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428022815-us-coronavirus-0426-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Major Biden receives special training to prepare for new White House cat"
     excerpt: "Some Major news at the White House: Major Biden has made his return to 1600 Pennsylvania Avenue after training following two biting incidents, but he may soon have to adjust to another furry friend.\n    \n"
     publishedDateTime: 2021-04-30T14:03:02Z

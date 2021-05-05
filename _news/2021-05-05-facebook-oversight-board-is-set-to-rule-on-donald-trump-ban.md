@@ -192,6 +192,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Donald Trump’s Facebook Ban is Upheld by Oversight Board"
+    excerpt: "The independent panel ruled that the social-media company was justified in banning Donald Trump’s account, but in coming months must decide whether the former president is permanently locked out of the platform."
+    publishedDateTime: 2021-05-05T12:10:00Z
+    webUrl: "https://www.wsj.com/articles/donald-trumps-facebook-ban-is-upheld-by-oversight-board-11620220252"
+    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trumps-facebook-ban-is-upheld-by-oversight-board-11620220252"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trumps-facebook-ban-is-upheld-by-oversight-board-11620220252"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-334309/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Liz Cheney Draws More GOP Fire Over Anti-Trump Stance"
     excerpt: "House Republican leader Kevin McCarthy questions whether the Wyoming lawmaker can carry out her job in leadership ahead of a closed-door meeting next week."
     publishedDateTime: 2021-05-04T19:53:00Z

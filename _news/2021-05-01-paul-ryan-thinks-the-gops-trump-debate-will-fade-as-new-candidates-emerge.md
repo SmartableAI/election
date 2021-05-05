@@ -63,6 +63,20 @@ related:
         width: 3000
         height: 2082
         isCached: true
+  - title: "Facebook Ban On Donald Trump Will Hold, Social Media's Oversight Board Rules"
+    excerpt: "While the panel upheld Facebook's suspension of the former president, it said the company's indefinite ban was wrong and gave Facebook six months to either ban Trump permanently or reinstate him."
+    publishedDateTime: 2021-05-05T13:26:00Z
+    webUrl: "https://www.npr.org/2021/05/05/987679590/facebook-justified-in-banning-donald-trump-social-medias-oversight-board-rules"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 102
+    images:
+      - url: "https://media.npr.org/assets/img/2021/04/15/gettyimages-578547766_wide-2a7344918d393632228f6e013d7fa4544ec1b2af.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Former President Donald Trump launches new website to communicate with supporters on the eve of Oversight Board ruling"
     excerpt: "Former president Donald Trump has launched a new messaging platform as a way to communicate with followers the day before an independent oversight board is set to review Facebook’s decision to ban the Republican from the platform."
     publishedDateTime: 2021-05-04T22:16:00Z
