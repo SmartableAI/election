@@ -626,6 +626,17 @@ related:
       name: Morning Call PA
       domain: mcall.com
     quality: 22
+  - title: "After talking with small business leaders in Providence, Vice President Kamala Harris promises: ‘I will keep coming back to Rhode Island’"
+    excerpt: "On a trip to promote President Biden’s economic plans, the vice president visited Books on the Square before holding two events with small businesses owners and discussing dates for an upcoming trip to Mexico and Guatemala."
+    publishedDateTime: 2021-05-05T21:50:00Z
+    webUrl: "https://www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 22
 
 secured: "KX0dEVEbbDQOsJiq2WPHSFb/Y5cyp6z/hb3DJxgOXW5fkiG585mX85Z3UfDWPmHTLlJzy3FHyNPLD3rvOQlhqUCWYwdKYLH9lkp8ZlOhQCNH2H02sOVlAn7o38JON4wFZGeNrGrEnELkQ2dMlDTxcizkvAJvr7MnzwkAW8BTkumRNVHWJrY/+nZvcMwXgr4m3DC4mZUg69EgSWc/1HbsOMzQn2k718Yrk/IjwrHM2nQO0EG6uyT2o3X3pAGhQUSm9MgPDnv8FuwtTbpN9aK4sj/oG8GWEnsUw3v9Oai00vm4nlK8AUM87ZNS8TAhFWKLRUXRpmqYP7e0G5k3upH2agqxG3/bgj/62P+Rqzo7Z38=;4lZeQWIJMyAyf43GUGWBxw=="
 ---

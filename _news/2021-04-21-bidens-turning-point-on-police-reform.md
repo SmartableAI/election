@@ -280,6 +280,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "VP Kamala Harris finally sets date for trip to Mexico, Guatemala"
+    excerpt: "Vice President Kamala Harris, the Biden administration’s migration czar, has set dates for her first trips to Mexico and Central America."
+    publishedDateTime: 2021-05-05T23:55:00Z
+    webUrl: "https://nypost.com/2021/05/05/vp-kamala-harris-finally-sets-date-for-trip-to-mexico-guatemala/"
+    ampWebUrl: "https://nypost.com/2021/05/05/vp-kamala-harris-finally-sets-date-for-trip-to-mexico-guatemala/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/05/vp-kamala-harris-finally-sets-date-for-trip-to-mexico-guatemala/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-latin-america-trip-690.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Gingrich: Biden's congressional speech will be the 'weirdest' in American history"
     excerpt: "Guests: Jamie McBride, Leonydus Johnson, Newt Gingrich, Peter McCullough, Maggie Williams, Stephen Williams, Dave Turnbull, Dinesh D'Souza, Kurt Schlichter"
     publishedDateTime: 2021-04-30T01:07:00Z
@@ -299,7 +315,7 @@ related:
   - title: "VP Kamala Harris: We Must Focus On \"Root Causes\" Of Migration Crisis In Central America"
     excerpt: "Vice President Kamala Harris spoke about the migration crisis in Latin America during remarks to the 51st annual Washington Conference on Tuesday. It is one of the first times she has discussed the idea in detail since the administration announced she would be spearheading efforts to stop a surge of immigrants on the Southern border."
     publishedDateTime: 2021-05-04T15:15:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.html"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.amp.html"
     type: article

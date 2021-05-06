@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden Cabinet secretary defends race-based COVID aid, citing historical discrimination"
+    excerpt: "Agriculture Secretary Tom Vilsack defended loan forgiveness for minority farmers in a press briefing Wednesday, citing historical discrimination by the U.S. Department of Agriculture."
+    publishedDateTime: 2021-05-05T22:19:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nb1sqqbeUaI/biden-cabinet-secretary-race-based-covid-aid-historical-discrimination"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-secretary-race-based-covid-aid-historical-discrimination.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-secretary-race-based-covid-aid-historical-discrimination.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/720/405/Tom-Vilsack-USDA.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "jB+yJCDrYMFXuGbIZu4NJhJCS+r2JPu9XCx4ZNUStbFLXkShPLM6bS/+XpORrurx64oS01XUsfT8ffHUf68VlpLOeDT0WO/Lvpa9S8iep6vljrse45QUdi2WzPLRPPoGa2RjOTsjjE4j3/WSvkfg1KAImvwBbKLsDLlYPQGUfKX/S2/5o3N0d5HxrtBdeTUdu5TVztfUHQrptNQ3nbp/rJVBaqdFbupZOWoCahLbm4xh6jaL9QEFUFC5R7gsqf6d4gpoBYsW0O+d5faCLUZMKlie9lYjLu84LlfezL0x2PW8tqmjJOYNnsrvLDxp4uDqfvq9ElAeGQwHIZ9k510X0qinixeYve/CuAK6mJniw74=;nSN6/2LOOzCv9caX2ZoAfA=="
 ---

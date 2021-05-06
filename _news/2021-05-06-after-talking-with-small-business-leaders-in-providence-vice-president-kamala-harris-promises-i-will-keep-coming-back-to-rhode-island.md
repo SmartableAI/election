@@ -1,30 +1,24 @@
 ---
 category: news
-title: "Kamala Harris touts research during first Wisconsin trip as vice president"
-excerpt: "Wisconsin Republicans said Harris' time would have been better spent at the U.S. border dealing with the increase of migrants."
-publishedDateTime: 2021-05-04T19:35:00Z
-originalUrl: "https://madison.com/wsj/news/local/govt-and-politics/kamala-harris-touts-research-during-first-wisconsin-trip-as-vice-president/article_50f6164c-0690-5387-b44e-43c0615d4436.html"
-webUrl: "https://madison.com/wsj/news/local/govt-and-politics/kamala-harris-touts-research-during-first-wisconsin-trip-as-vice-president/article_50f6164c-0690-5387-b44e-43c0615d4436.html"
-ampWebUrl: "https://madison.com/news/local/govt-and-politics/kamala-harris-touts-research-during-first-wisconsin-trip-as-vice-president/article_50f6164c-0690-5387-b44e-43c0615d4436.amp.html"
-cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/kamala-harris-touts-research-during-first-wisconsin-trip-as-vice-president/article_50f6164c-0690-5387-b44e-43c0615d4436.amp.html"
+title: "After talking with small business leaders in Providence, Vice President Kamala Harris promises: ‘I will keep coming back to Rhode Island’"
+excerpt: "On a trip to promote President Biden’s economic plans, the vice president visited Books on the Square before holding two events with small businesses owners and discussing dates for an upcoming trip to Mexico and Guatemala."
+publishedDateTime: 2021-05-05T21:50:00Z
+originalUrl: "https://www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/"
+webUrl: "https://www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/"
+ampWebUrl: "https://www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/?outputType=amp"
+cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/?outputType=amp"
 type: article
-quality: 73
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: The Boston Globe
+  domain: bostonglobe.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/1c/81c27c0b-ea43-51a9-94cb-4e8e34090bab/6091a225ba06a.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
-    isCached: true
 
 related:
   - title: "Kamala Harris to give Naval Academy commissioning address"
@@ -314,6 +308,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/kam3.jpg?w=700&h=434"
         width: 700
         height: 434
+        isCached: true
+  - title: "Kamala Harris touts research during first Wisconsin trip as vice president"
+    excerpt: "Wisconsin Republicans said Harris' time would have been better spent at the U.S. border dealing with the increase of migrants."
+    publishedDateTime: 2021-05-04T19:35:00Z
+    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/kamala-harris-touts-research-during-first-wisconsin-trip-as-vice-president/article_50f6164c-0690-5387-b44e-43c0615d4436.html"
+    ampWebUrl: "https://madison.com/news/local/govt-and-politics/kamala-harris-touts-research-during-first-wisconsin-trip-as-vice-president/article_50f6164c-0690-5387-b44e-43c0615d4436.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/kamala-harris-touts-research-during-first-wisconsin-trip-as-vice-president/article_50f6164c-0690-5387-b44e-43c0615d4436.amp.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 73
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/1c/81c27c0b-ea43-51a9-94cb-4e8e34090bab/6091a225ba06a.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Fact check: Kamala Harris’ children’s book is not in ‘welcome packs’ for migrants"
     excerpt: "Long Beach officials say migrant children from the U.S.-Mexico border are not receiving copies of Harris’ book as part of a welcome package."
@@ -626,18 +636,7 @@ related:
       name: Morning Call PA
       domain: mcall.com
     quality: 22
-  - title: "After talking with small business leaders in Providence, Vice President Kamala Harris promises: ‘I will keep coming back to Rhode Island’"
-    excerpt: "On a trip to promote President Biden’s economic plans, the vice president visited Books on the Square before holding two events with small businesses owners and discussing dates for an upcoming trip to Mexico and Guatemala."
-    publishedDateTime: 2021-05-05T21:50:00Z
-    webUrl: "https://www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 22
 
-secured: "QAbYLKOP+obryEWQK2XWAtu+9wGdHIluvERCa2xkqMg4XzI4cIWnrzY4Ii4+l3MLEQzCmiRvxcBm8RG7Sebyj52aNJmEX/VJM673ECHvhwjkbIwNpp9j+NZY8ekI/kyiGopLVEBp38Ohd/6IT4qr8fXBpB1CRx4qrhVA4uglHtE38T+2990nWsd10c3lpmdccLkOTLhpAa8G6KkXJIDyVbe9BzgjPBN9hBZ8APr889iT4ebH1hlGLywWMwkAHevwJTt5V3hoq5wX/FszBMs1hrOIUwgr2pVpxAKPDi8UrjoYpLMq5SvZ9uxrNq2yjomd1j18FV41uIZasbkKXkIA4/t5GzM7tWbh5szOO4fYL0CHNmu0vu2/BI2XNCoxej6ZsatSxTODO4ofV4bNdId4pgunEiodYMO7P+3do6ynI/4Mn+hkXOzOmwxARg/PpioJ5USBauRjFiC30qakCCuIkxu52M+52f1k1rXoV2y8j8Qou1VKp5Qt0enUM9BEhnvmz2/ZZ2E9IbHG2U3Zg+nhCg==;I2YGKbmxym3/8iDWwbl1aQ=="
+secured: "0f+Bq4a/I8xtVymGWzhQpGlf0CcthFjqBIYmfNPXjnMcHPWB0iyIb8dpB1TrowBVh0Tk00k/Oikj+du3xZDJXgo1dR/M0ZGQPgMGao24tnPCEcB5KskzRKLNKxxP41Y5ljy1kebrMzStp4AgNf9l6I6ix7NalW3ktPeRnHm1SUHZZ3PxrAs1lLX1Fs4zHdnL4vsJLCXiUu89wMj5VqzWj0NWjRYuR9gGYP2Ujci5Rs+6HdeW34gg+qFLEDaCpdztqou+Df7WKzQeK+xbXtqzclRxDqQFHFniKTpgBFXah4NdZa8V6j8kPal6dk7LGgWNUcBOuYklc4ND2dP9Vcas5SIuArh/xht6lCBxldbtR2/hg6IomIssY40BzQeIf9bydw7c6jGNKH4qFM7HwlBALb5YiklxTYc9apIG7fPL60KmgJ5TRyNcmu8O+HUAiBL8HRk4sMH9pEarkQyPr/PdMBgLm1DPgMfyfzqr7TjivIGtnOC1G/ws2/GQgXPbtzvDs5Ew7sp+/7bP/79G91c0lw==;/1hIBYFUQuvHKJ/b5y5VVA=="
 ---
 

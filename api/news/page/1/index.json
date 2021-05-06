@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-05-liz-cheney-facing-gop-leadership-removal-takes-swipe-at-trump-cult.md",
+      "title": "Liz Cheney, facing GOP leadership removal, takes swipe at Trump 'cult'",
+      "excerpt": "Rep. Liz Cheney (R-WY) wrote that the Republican Party is at a \"turning point\" and must decide “whether we will join Trump’s crusade to delegitimize and undo the legal outcome of the 2020 election, with all the consequences that might have.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9U2WmSW-Ztw/liz-cheney-gop-leadership-trump-cult",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9U2WmSW-Ztw/liz-cheney-gop-leadership-trump-cult",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e70db19-b3db-400c-b524-0b89525a6127/45d59833-a005-43db-9996-e0dcc2be08ff/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/liz-cheney-gop-leadership-trump-cult.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-gop-leadership-trump-cult.amp",
+      "publishedDateTime": "2021-05-05T16:23:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-new-details-on-giulianis-attempt-to-push-ukraine-to-investigate-biden.md",
+      "title": "New details on Giuliani’s attempt to push Ukraine to investigate Biden",
+      "excerpt": "NBC News' Andrea Mitchell speaks to Igor Novikov, former adviser to Ukraine President Zelensky, about what he says he heard as Rudy Giuliani attempted to press for an investigation into Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/new-details-on-giuliani-s-attempt-to-push-ukraine-to-investigate-biden-111409733680",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/new-details-on-giuliani-s-attempt-to-push-ukraine-to-investigate-biden-111409733680",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media11.s-nbcnews.com/i/mpx/2704722219/2021_05/1620256508703_nn_ami_inside_ukraine_giuliani_210505_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo111409733680",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111409733680",
+      "publishedDateTime": "2021-05-05T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-06-bad-bill-donald-trump-jr-criticizes-alabama-gambling-legislation.md",
+      "title": "‘Bad bill’: Donald Trump Jr. criticizes Alabama gambling legislation",
+      "excerpt": "Trump Jr., the son of former President Donald Trump, criticized the gambling legislation under consideration by Alabama state lawmakers via a tweet on Wednesday. He said legislation would prevent world-class resorts and casinos from entering Alabama.",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/news/2021/05/bad-bill-donald-trump-jr-criticizes-alabama-gambling-legislation.html",
+      "originalUrl": "https://www.al.com/news/2021/05/bad-bill-donald-trump-jr-criticizes-alabama-gambling-legislation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/L2B7DLGFFVC6RNHXVWKCDWDJ3I.JPG",
+          "width": 4990,
+          "height": 3327,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al.com/news/2021/05/bad-bill-donald-trump-jr-criticizes-alabama-gambling-legislation.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/05/bad-bill-donald-trump-jr-criticizes-alabama-gambling-legislation.html?outputType=amp",
+      "publishedDateTime": "2021-05-05T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-trump-backs-stefanik-to-replace-cheney-as-gop-conference-chair.md",
       "title": "Trump backs Stefanik to replace Cheney as GOP conference chair",
       "excerpt": "Former President Donald Trump on Wednesday publicly called for the removal of GOP conference chair Liz Cheney, who has repeatedly criticized him for spreading falsehoods about the 2020 election and seeking to downplay the January 6 attack on the U.",
@@ -179,7 +335,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 234,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -335,62 +491,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-05-elise-stefanik-gop-conference-chair-favorite-voted-with-trump-less-than-liz-cheney.md",
-      "title": "Elise Stefanik, GOP conference chair favorite, voted with Trump less than Liz Cheney",
-      "excerpt": "Rep. Elise Stefanik, the favorite to replace Rep. Liz Cheney as the House GOP conference chair, voted with former President Donald Trump less than Cheney and has lower voting scores from top conservative organizations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZglNdJhJOc/cheney-stefanik-republicans-house-votes-trump-conservative",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZglNdJhJOc/cheney-stefanik-republicans-house-votes-trump-conservative",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cheney-stefanik-republicans-house-votes-trump-conservative.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-stefanik-republicans-house-votes-trump-conservative.amp",
-      "publishedDateTime": "2021-05-05T09:29:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-05-the-point-donald-trump-may-be-banned-from-facebook-but-trumpism-dominates-it.md",
       "title": "The Point: Donald Trump may be banned from Facebook. But Trumpism dominates it.",
       "excerpt": "The decision by the Facebook Oversight Board to uphold Donald Trump's ban from the social media behemoth was immediately celebrated by opponents of the the former Pesident, who saw the ruling as another step to putting him in the rear view mirror of our politics and our culture.\n    \n",
@@ -496,63 +596,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-giuliani-wanted-multiple-investigations-into-joe-biden-says-former-ukrainian-presidential-aide.md",
-      "title": "Giuliani wanted ‘multiple investigations’ into Joe Biden, says former Ukrainian presidential aide",
-      "excerpt": "Igor Novikov, a former adviser to Ukrainian President Zelensky, told NBC News that Rudy Giuliani wanted “multiple investigations” into Joe Biden during a 2019 phone call with Ukrainian officials. NBC News’ Andrea Mitchell explains what Novikov claims Giuliani said and why that phone call is so important.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/giuliani-wanted-multiple-investigations-into-joe-biden-says-former-ukrainian-presidential-aide-111373893730",
-      "originalUrl": "https://www.nbcnews.com/now/video/giuliani-wanted-multiple-investigations-into-joe-biden-says-former-ukrainian-presidential-aide-111373893730",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/1620219403651_ott_now_am_ukraine_210505_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo111373893730",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111373893730",
-      "publishedDateTime": "2021-05-05T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -1299,59 +1342,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-joe-biden-raises-trump-refugee-cap-after-backlash.md",
-      "title": "Joe Biden raises Trump refugee cap after backlash",
-      "excerpt": "President Joe Biden has lifted the US annual refugee cap, bowing to backlash from his party after he initially opted to stick by the Trump-era figure. The Democratic president is raising the cap from 15,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2090,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/123E1/production/_118312747_mediaitem118312746.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-56975402.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp",
-      "publishedDateTime": "2021-05-03T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Donald Trump"
       ]
     }

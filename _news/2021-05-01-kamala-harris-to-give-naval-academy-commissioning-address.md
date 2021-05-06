@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Nava
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
 type: article
 quality: 125
-heat: 905
+heat: 925
 published: true
 
 provider:
@@ -629,6 +629,17 @@ related:
     provider:
       name: Morning Call PA
       domain: mcall.com
+    quality: 22
+  - title: "After talking with small business leaders in Providence, Vice President Kamala Harris promises: ‘I will keep coming back to Rhode Island’"
+    excerpt: "On a trip to promote President Biden’s economic plans, the vice president visited Books on the Square before holding two events with small businesses owners and discussing dates for an upcoming trip to Mexico and Guatemala."
+    publishedDateTime: 2021-05-05T21:50:00Z
+    webUrl: "https://www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
     quality: 22
 
 secured: "Q7uy9yHE6cIlbSKiVllftvIfCnofpOP0Ac0f47WFLTOtkn/EgGe6e7JEiX2W70U/zh2LT7BESwzAL5NXV9s1Y4DrgftC7/QcCbpyyre3Avr3K45MXksQi9G9PuZ9Szq4oNaxIYdJr8eSLCoCq/wG0b4pzLh5isVjc2nSffcbPmUXuUOsrR5sOcKRDOOnXlDu32sS8gz9KcQCpdO/hcPYO7huY+rvPbEWFQAHYIk8UBSGV/POMY6NlRCzR0Xn7o7AEMKojOtMmJYgiuQZg+QlVk3LuYDS2j448LHcOc1ofwO9zO0jiDUX7E77yvgfeEPLpLs63+QfEqJHV86q+NmDbZy1JcxcmZGGHrF6co52gkk=;IgtWnfA/GdbBHLQrnmvU+Q=="

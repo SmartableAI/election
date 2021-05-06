@@ -31,53 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Biden, when asked about Liz Cheney, says 'I don't understand Republicans'"
-    excerpt: "President Biden seemed perplexed Wednesday by the effort of House Republicans to oust Rep. Liz Cheney as the GOP conference chair."
-    publishedDateTime: 2021-05-05T18:15:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DTg4Dn4DSrQ/biden-liz-cheney-dont-understand-republicans"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-liz-cheney-dont-understand-republicans.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-liz-cheney-dont-understand-republicans.amp"
+  - title: "Liz Cheney, facing GOP leadership removal, takes swipe at Trump 'cult'"
+    excerpt: "Rep. Liz Cheney (R-WY) wrote that the Republican Party is at a \"turning point\" and must decide “whether we will join Trump’s crusade to delegitimize and undo the legal outcome of the 2020 election, with all the consequences that might have.”"
+    publishedDateTime: 2021-05-05T23:23:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9U2WmSW-Ztw/liz-cheney-gop-leadership-trump-cult"
+    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-gop-leadership-trump-cult.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-gop-leadership-trump-cult.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Tim Scott: What to know about Republican senator giving rebuttal to Biden address"
-    excerpt: "Sen. Tim Scott is the junior senator from South Carolina and a rising star in the GOP."
-    publishedDateTime: 2021-04-28T10:12:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GGq1oP7Fhy0/tim-scott-republican-response-biden-south-carolina"
-    ampWebUrl: "https://www.foxnews.com/politics/tim-scott-republican-response-biden-south-carolina.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tim-scott-republican-response-biden-south-carolina.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11d83ee5-42e6-407a-a1ef-acb760a3c006/507e6206-8997-45de-9473-acc27728bd4a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e70db19-b3db-400c-b524-0b89525a6127/45d59833-a005-43db-9996-e0dcc2be08ff/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Top Republicans McCarthy, Scalise back Stefanik as Cheney replacement amid battle over Trump"
-    excerpt: "The top two Republicans in the House are behind Rep. Elise Stefanik's efforts to replace Rep. Liz Cheney as Republican conference chair as the party continues to grapple over former President Trump's future role, according to a report. "
-    publishedDateTime: 2021-05-05T12:25:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x3400qqbMFw/republican-leaders-stefanik-cheney-house-conference-chair-trump-election"
-    ampWebUrl: "https://www.foxnews.com/politics/republican-leaders-stefanik-cheney-house-conference-chair-trump-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-leaders-stefanik-cheney-house-conference-chair-trump-election.amp"
+  - title: "Elise Stefanik, GOP conference chair favorite, voted with Trump less than Liz Cheney"
+    excerpt: "Rep. Elise Stefanik, the favorite to replace Rep. Liz Cheney as the House GOP conference chair, voted with former President Donald Trump less than Cheney and has lower voting scores from top conservative organizations."
+    publishedDateTime: 2021-05-05T16:29:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZglNdJhJOc/cheney-stefanik-republicans-house-votes-trump-conservative"
+    ampWebUrl: "https://www.foxnews.com/politics/cheney-stefanik-republicans-house-votes-trump-conservative.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-stefanik-republicans-house-votes-trump-conservative.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 168
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Rep. Liz Cheney's role as GOP conference chair facing renewed jeopardy amid Trump feud"
+    excerpt: "Wyoming Rep. Liz Cheney’s ongoing feud with former President Donald Trump has sparked discussions among senior House GOP leadership about her future as the party’s conference chair, according to sources familiar with the situation."
+    publishedDateTime: 2021-05-04T01:19:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tz92hv88-ak/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-liz-cheney-gop-conference-chair-renewed-scrutiny-trump-feud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Cheney says she'll campaign on impeaching Trump 'every day of the week' amid primary challenges"
+    excerpt: "Rep. Liz Cheney said in an interview with Punchbowl News Thursday that she will stand behind her vote to impeach former President Donald Trump \"every day of the week\" as she faces multiple primary challengers in her 2022 reelection effort. "
+    publishedDateTime: 2021-04-29T15:05:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oU9HcI6QFdc/cheney-campaign-impeaching-trump-primary-challenges"
+    ampWebUrl: "https://www.foxnews.com/politics/cheney-campaign-impeaching-trump-primary-challenges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-campaign-impeaching-trump-primary-challenges.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "NYT's Tom Friedman: Liz Cheney And Mitt Romney Are Defending Democracy From Trump's \"Gigantic Lie\""
+    excerpt: "New York Times columnist Thomas Friedman warned there would be \"people in the streets\" if Republicans who believe President Trump's \"big lie\" about voter fraud in the 2020 election during an appearance Monday with CNN's Anderson Cooper."
+    publishedDateTime: 2021-05-04T14:53:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/04/nyts_tom_friedman_liz_cheney_and_mitt_romney_are_defending_democracy_from_chilling_trump_danger.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 51
+    images:
+      - url: "https://assets.realclear.com/images/48/486909.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "hpKNShuE2eJeyQ8PBN12TpwZM+RqUU8Bb1K4hvjw1yaiLDE+Vc0cIJtduQMDgvZ3ohliGeFxgrhAUnzl5W8S2eYVUZsGs7D9ehstX0872F88Ab0tV/nDrxxRYhfMq5dBzhQ885EDoX8LWG09++ae1TrJMuHv9ym186iEmyT8cKqLTIST2Q6jgiql4VpJCtrIbGg62grjviJyge+yPPEjpMZxOap5Mu4Gq+OF2/Ct1dfdUk5idcBW13e0h/vrRurNHikwqeXnYQc5tUbIAVLHI+pdw4wYjLopFtCSxUsWscvZdf9xhYgsjrXcGExKFTMRSCJcOvO85AEhJ6E4+5BqyR5p1VqVpq03gD72fkraHQI=;jAwoU+AOEoGxGl1R+07SIw=="

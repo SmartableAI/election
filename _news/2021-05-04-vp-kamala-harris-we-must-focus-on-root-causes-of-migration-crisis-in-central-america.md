@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris: We Must Focus On \"Root Causes\" Of Migration Crisis In Central America"
 excerpt: "Vice President Kamala Harris spoke about the migration crisis in Latin America during remarks to the 51st annual Washington Conference on Tuesday. It is one of the first times she has discussed the idea in detail since the administration announced she would be spearheading efforts to stop a surge of immigrants on the Southern border."
 publishedDateTime: 2021-05-04T15:15:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.html"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.amp.html"
 type: article
@@ -280,6 +280,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "VP Kamala Harris finally sets date for trip to Mexico, Guatemala"
+    excerpt: "Vice President Kamala Harris, the Biden administration’s migration czar, has set dates for her first trips to Mexico and Central America."
+    publishedDateTime: 2021-05-05T23:55:00Z
+    webUrl: "https://nypost.com/2021/05/05/vp-kamala-harris-finally-sets-date-for-trip-to-mexico-guatemala/"
+    ampWebUrl: "https://nypost.com/2021/05/05/vp-kamala-harris-finally-sets-date-for-trip-to-mexico-guatemala/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/05/vp-kamala-harris-finally-sets-date-for-trip-to-mexico-guatemala/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-latin-america-trip-690.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Gingrich: Biden's congressional speech will be the 'weirdest' in American history"
     excerpt: "Guests: Jamie McBride, Leonydus Johnson, Newt Gingrich, Peter McCullough, Maggie Williams, Stephen Williams, Dave Turnbull, Dinesh D'Souza, Kurt Schlichter"
     publishedDateTime: 2021-04-30T01:07:00Z
@@ -341,6 +357,6 @@ related:
         height: 562
         isCached: true
 
-secured: "vLueTIJvh3dmrMMelvUThXMC4j3AafdR0ylmasnI+k/6wgXms4H4UJuAeRViWRDdbaGG3FtAych+J+rdtIIEnAEIfXyxajXvuRobhacu5WNr6Y/AW6cpW0dP6MwFSMbVRBv0oHlDAabjfVW+Lo6Fc7pAj+lGKgeUUApX0aSvzqkra+WiLqm2a5SR3Gi6kMHlBTBGh8VIESW18+jRCgeF5UXBp75f/a7QlV1k+GhIyvXquHNMrPJnL0eHcoRgT56U2X8l2vhMTTp1L+FlRsxSFdXffjUlEg07XyoLwLsjH/EPZfjPi0Ce5f3TREo0BBG65TPrso8ll44vHRoGATJnZnfrCOmZ5PekNOqmk1c7T5aVCTLvqJojaNGbtIzoypR4DcmJ/o1DcUajvPSxyLZ6DcMvFBFA47XWcDYbOo080iwsp9JnCQKLDJ56yorI+zx80Bk0sZqFmIBtvdEIbGBowrimcATl8fFCFpJZT5p58nuBwpDsSB1DDpCzyO1uc4GY9sVHWJsPM01KVH4HOru71g==;ogEToemI2908G7w3JpRlRw=="
+secured: "lkVpNSa9pZs+fxXg76lZYSaF7qSoktAj/k+dyZ4EV0K6ZMxfDsxspQxrJnQF3M+Pr4uerRJUijGDJWDLAeBQtB02dUgpZwYlc3n7tBJ9+DTniTMM4ZezEkAO4KCkCBpAOT21+Pr8ZBUbQbRz23YVo7FBTfaEl3JtZ9Kh8vjalIx5IPer7qutnQ9dwZA1T/JNHqS9txLFToJO4iCwpoMNDqQWpo01mrJMN89mH9LREzSPWzBepV/iapwtE7wjaLi3OwXHy0Ri8SL74oqzGLJ2kkOmLGGeixANDWTqNtnC4WkqgwWejgoWeOs0r8EL5WkK2L7O6J581JmRZn3yHr5eDf8CzVggqhXwohq5sLEvlmU=;p+ukRCCxbhuWkycO1CDJ6g=="
 ---
 

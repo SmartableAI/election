@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Venezuela transfers 6 jailed American oil execs to house arrest as Biden weighs policy options"
-excerpt: "Venezuela transferred six American oil executives to house arrest on Friday as the Biden administration mulled next steps in its relationship with Nicolas Maduro’s socialist regime."
-publishedDateTime: 2021-05-01T01:46:00Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jF_XzanijwM/venezuela-6-jailed-american-oil-execs-house-arrest-biden-weighs-policy-options"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jF_XzanijwM/venezuela-6-jailed-american-oil-execs-house-arrest-biden-weighs-policy-options"
-ampWebUrl: "https://www.foxnews.com/politics/venezuela-6-jailed-american-oil-execs-house-arrest-biden-weighs-policy-options.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/venezuela-6-jailed-american-oil-execs-house-arrest-biden-weighs-policy-options.amp"
+title: "VP Kamala Harris finally sets date for trip to Mexico, Guatemala"
+excerpt: "Vice President Kamala Harris, the Biden administration’s migration czar, has set dates for her first trips to Mexico and Central America."
+publishedDateTime: 2021-05-05T23:55:00Z
+originalUrl: "https://nypost.com/2021/05/05/vp-kamala-harris-finally-sets-date-for-trip-to-mexico-guatemala/"
+webUrl: "https://nypost.com/2021/05/05/vp-kamala-harris-finally-sets-date-for-trip-to-mexico-guatemala/"
+ampWebUrl: "https://nypost.com/2021/05/05/vp-kamala-harris-finally-sets-date-for-trip-to-mexico-guatemala/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/05/vp-kamala-harris-finally-sets-date-for-trip-to-mexico-guatemala/amp/"
 type: article
-quality: 163
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
+  - Kamala Harris
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26b2595f-106b-4afe-87c5-d67bef930299/1dc49e81-ee56-43ec-a666-b968f01aa9c5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-latin-america-trip-690.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -140,6 +137,22 @@ related:
     quality: 164
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83c2c7e5-b82b-44dc-b6de-bada8b77ace6/7c2b5790-6a5d-4900-a5dd-984a8e46ab00/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Venezuela transfers 6 jailed American oil execs to house arrest as Biden weighs policy options"
+    excerpt: "Venezuela transferred six American oil executives to house arrest on Friday as the Biden administration mulled next steps in its relationship with Nicolas Maduro’s socialist regime."
+    publishedDateTime: 2021-05-01T01:46:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jF_XzanijwM/venezuela-6-jailed-american-oil-execs-house-arrest-biden-weighs-policy-options"
+    ampWebUrl: "https://www.foxnews.com/politics/venezuela-6-jailed-american-oil-execs-house-arrest-biden-weighs-policy-options.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/venezuela-6-jailed-american-oil-execs-house-arrest-biden-weighs-policy-options.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26b2595f-106b-4afe-87c5-d67bef930299/1dc49e81-ee56-43ec-a666-b968f01aa9c5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -267,22 +280,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "VP Kamala Harris finally sets date for trip to Mexico, Guatemala"
-    excerpt: "Vice President Kamala Harris, the Biden administration’s migration czar, has set dates for her first trips to Mexico and Central America."
-    publishedDateTime: 2021-05-05T23:55:00Z
-    webUrl: "https://nypost.com/2021/05/05/vp-kamala-harris-finally-sets-date-for-trip-to-mexico-guatemala/"
-    ampWebUrl: "https://nypost.com/2021/05/05/vp-kamala-harris-finally-sets-date-for-trip-to-mexico-guatemala/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/05/vp-kamala-harris-finally-sets-date-for-trip-to-mexico-guatemala/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-latin-america-trip-690.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Gingrich: Biden's congressional speech will be the 'weirdest' in American history"
     excerpt: "Guests: Jamie McBride, Leonydus Johnson, Newt Gingrich, Peter McCullough, Maggie Williams, Stephen Williams, Dave Turnbull, Dinesh D'Souza, Kurt Schlichter"
     publishedDateTime: 2021-04-30T01:07:00Z
@@ -360,6 +357,6 @@ related:
         height: 562
         isCached: true
 
-secured: "+m6WgarGFCLwDTpEzz6gCBYVWZFmu9OwB42Tw5w33tCVWbiP9M4YhCs9S1irkUSYuzdDUTPMa9JRFk/e1cw92189InXElv1dBPiXENc2xK1qUDiqNYlCKnqsMVTyyrUEFk+rSmRqagJojRtJ9+xNZguyD6enZc3eck9ODvGKC727ptmlzgRXNtqMkpRoucy5CPlL43n3JnaWgr+V+xRMP0Lglh1x290V2fc5p39465UOKnMifrUAPJyO2tRRWJXKB+U73tFBO27FbDzOHpYU5EgWgwcKdD1SG1TQ4RjpT/q41ht3FnbJtSuSBLHmqSZPmUqP1/u3rh2C90emmTKJ0VqNiB9eVITq3Pa23NG+vw0=;XJxpdSWk9V+dvDgN28oaTg=="
+secured: "JBvcu5i9V6KTTcy5Y7/tmbMBWoNi51aJVaArxlz4GKtvYns9pSqGYUaaKWyXCFrA/dux/d4gjaLKldnaH/jZaZPdGaOPTG4sxJdaBZQL2TTmio5XUllGYxOjliTuY88XelBEHRi7rmGDLsuieQBgz4UjlFBlvKT+gKPjsTx/67lrYIbmSO7kvGXCZTuh/dWyWU/v7BasSYeDsOcMa3Scn+hDzJI7fh6YBztbMINnjblg0/LElxFZVRq2WrbEkDAZmZH+c1o38ncdTJ300+z/6QaInXWEm6XPNIvao7iGSgI4DNmhazM7CFryI7vctSEqeI43SVBcc5JZs4oZKmggJQp5fLoT5qxnK+y1ldFutMs=;7F3t9xaSf+fFNo32SsSlXw=="
 ---
 

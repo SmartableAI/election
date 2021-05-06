@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Cheney says she'll campaign on impeaching Trump 'every day of the week' amid primary challenges"
-excerpt: "Rep. Liz Cheney said in an interview with Punchbowl News Thursday that she will stand behind her vote to impeach former President Donald Trump \"every day of the week\" as she faces multiple primary challengers in her 2022 reelection effort. "
-publishedDateTime: 2021-04-29T15:05:34Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oU9HcI6QFdc/cheney-campaign-impeaching-trump-primary-challenges"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oU9HcI6QFdc/cheney-campaign-impeaching-trump-primary-challenges"
-ampWebUrl: "https://www.foxnews.com/politics/cheney-campaign-impeaching-trump-primary-challenges.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-campaign-impeaching-trump-primary-challenges.amp"
+title: "Liz Cheney, facing GOP leadership removal, takes swipe at Trump 'cult'"
+excerpt: "Rep. Liz Cheney (R-WY) wrote that the Republican Party is at a \"turning point\" and must decide “whether we will join Trump’s crusade to delegitimize and undo the legal outcome of the 2020 election, with all the consequences that might have.”"
+publishedDateTime: 2021-05-05T23:23:24Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9U2WmSW-Ztw/liz-cheney-gop-leadership-trump-cult"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9U2WmSW-Ztw/liz-cheney-gop-leadership-trump-cult"
+ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-gop-leadership-trump-cult.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-gop-leadership-trump-cult.amp"
 type: article
-quality: 163
-heat: -1
-published: false
+quality: 175
+heat: 275
+published: true
 
 provider:
   name: Fox News
@@ -25,28 +25,12 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e70db19-b3db-400c-b524-0b89525a6127/45d59833-a005-43db-9996-e0dcc2be08ff/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
-  - title: "Liz Cheney, facing GOP leadership removal, takes swipe at Trump 'cult'"
-    excerpt: "Rep. Liz Cheney (R-WY) wrote that the Republican Party is at a \"turning point\" and must decide “whether we will join Trump’s crusade to delegitimize and undo the legal outcome of the 2020 election, with all the consequences that might have.”"
-    publishedDateTime: 2021-05-05T23:23:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9U2WmSW-Ztw/liz-cheney-gop-leadership-trump-cult"
-    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-gop-leadership-trump-cult.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-gop-leadership-trump-cult.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e70db19-b3db-400c-b524-0b89525a6127/45d59833-a005-43db-9996-e0dcc2be08ff/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Elise Stefanik, GOP conference chair favorite, voted with Trump less than Liz Cheney"
     excerpt: "Rep. Elise Stefanik, the favorite to replace Rep. Liz Cheney as the House GOP conference chair, voted with former President Donald Trump less than Cheney and has lower voting scores from top conservative organizations."
     publishedDateTime: 2021-05-05T16:29:40Z
@@ -95,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cheney says she'll campaign on impeaching Trump 'every day of the week' amid primary challenges"
+    excerpt: "Rep. Liz Cheney said in an interview with Punchbowl News Thursday that she will stand behind her vote to impeach former President Donald Trump \"every day of the week\" as she faces multiple primary challengers in her 2022 reelection effort. "
+    publishedDateTime: 2021-04-29T15:05:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oU9HcI6QFdc/cheney-campaign-impeaching-trump-primary-challenges"
+    ampWebUrl: "https://www.foxnews.com/politics/cheney-campaign-impeaching-trump-primary-challenges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-campaign-impeaching-trump-primary-challenges.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "NYT's Tom Friedman: Liz Cheney And Mitt Romney Are Defending Democracy From Trump's \"Gigantic Lie\""
     excerpt: "New York Times columnist Thomas Friedman warned there would be \"people in the streets\" if Republicans who believe President Trump's \"big lie\" about voter fraud in the 2020 election during an appearance Monday with CNN's Anderson Cooper."
     publishedDateTime: 2021-05-04T14:53:00Z
@@ -110,6 +110,6 @@ related:
         height: 600
         isCached: true
 
-secured: "zic+d5by8Y8ZSq6AsFUhGp6IEyvPqPXj7IzcagMASedCxzP7C6ZwIt4vK0m1HNBDIEyZquk1mZ+fnNKZmm3UYwEjFv5KlyfhZxUgAzq8f3VphBqfa1XlPd7v6uoBikCNdfZ4gLnW18+LrkZ6e3i9EvQZmS9Wy0v9agkLFkzLu+givjl1+ao40UG/VojrvtPQzhsjoyhg3JnkyAM6KRPX0juFkvYit13wA2aWjChohWiTTC4uwMSh7iL+9G59VdaUyb3fFoPhmYPdNW4wB5Mbkwqx4BTcN0f+oiP5rPd8fdL5kkW6/ek2x8V7vt1mGfx7RHqVfHmdsSj7aA8WDDhdkKJt5aZkgcLS/Qw+z8GGwc4=;VGt6tBtrTT/FHSMw++gEzw=="
+secured: "3a2JKtXQhZxZ+xSAJest7tjI5yxlQ+Y6OZw7HsaD0dsdij0d/VoTi4/RSjMS5Z+fkaRBVJ2pcIgUf14JvHJvKKVH/Lg/PlV+TiltmROj6apcVssE3bsauiIW7IX4873CvD2DgndGXdFtUnp5v1In1Zu2kRsRwagBA1eWUkcC4Q5M9CYUSSjlSOGOruRCol9xtT4kacvDzTgYw/1u9YklvfU7vZTvRDSM3FwYfIEobNE1Ap22vI7EipFGlrpIhYsjEdE2YqsAAdj0rU8JMrJsAtwQIQTePCXtT9dx1Rmopch1b3NIPkhjWWHLL7t4n5vvTe31UFx1fsszD9YSRJKT+uNiJ694Ks+eH5INdZHwoP8=;PRrcJ+CA62jRlbWMEIW1zQ=="
 ---
 

@@ -625,6 +625,17 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 48
+  - title: "After talking with small business leaders in Providence, Vice President Kamala Harris promises: ‘I will keep coming back to Rhode Island’"
+    excerpt: "On a trip to promote President Biden’s economic plans, the vice president visited Books on the Square before holding two events with small businesses owners and discussing dates for an upcoming trip to Mexico and Guatemala."
+    publishedDateTime: 2021-05-05T21:50:00Z
+    webUrl: "https://www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/05/05/metro/kamala-harris-visit-rhode-island-wednesday/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 22
 
 secured: "fg76WoTAmQ3jJpiIVBINIDUf1ed4JssEbjFD53f0j97auobH/d8DO/bxgC/x5gACDSqndwFPccT5pEaZ4vG9qMIIOIwte3RtXDGlwFNVYJ/STpQc0bNyrhC0aXcB1Ko5Ulfi4vytVjaeMc/YV0Htk48T0nmjKDNq2ix2CpjSupNqCVP4zEXfDhHMOZzWD8GcNm9z7ysKL9uclza9mq8z1h/CtAQ4SJ8sHhmEZ9+23JUMv/NPUP8MvBQtINUzqDZE+4w0yXaPcRWafQwtwaQaXqQOWTAvsly4c3tgP++CBMH9dGfJphvWbB6bDcUdvObrqBzIA2ywXczpP9aWemoOtjAliQYed0S4q6ainMPE1ggSVDSH1jEBWuYd4FN9xSa7J/BZLdHX5ZyETnypnNiMtQCyj2zBnU1A2Pox/VgopQtdowp0I0x8q9bTqQxG+Zajy8JEgiu+NNsYq9IZfAOCHfLCehq2lDys4JF8cvbULZWopXIyeIW17G62weUoCQQu7BvuyQmd9KAyXb1ztJRbvg==;P07rvjaHiFNGfnM0qaxLiw=="
 ---

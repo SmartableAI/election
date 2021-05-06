@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/georgia-secretary-of-state-defends-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-secretary-of-state-defends-election-law-urges-biden-to-stop-playing-political-games.amp"
 type: article
 quality: 178
-heat: 198
+heat: 218
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden Cabinet secretary defends race-based COVID aid, citing historical discrimination"
+    excerpt: "Agriculture Secretary Tom Vilsack defended loan forgiveness for minority farmers in a press briefing Wednesday, citing historical discrimination by the U.S. Department of Agriculture."
+    publishedDateTime: 2021-05-05T22:19:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Nb1sqqbeUaI/biden-cabinet-secretary-race-based-covid-aid-historical-discrimination"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-secretary-race-based-covid-aid-historical-discrimination.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-secretary-race-based-covid-aid-historical-discrimination.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/720/405/Tom-Vilsack-USDA.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "PB9QKkDeWUoYrwZZX++eaNtBysbXpC2KdITVi3DwXgLqcROzNr9g3CYXIaKv8fmc9ZQGk+Szr7znzvwDthzCeVIxqoXLfn8VGWZbN4gR92JjCH8BQu/Jabd3bWeFllR4yYnuM2uqU0pT1+wtva5imC8gw6Yf2LzSWJgaSAVGZO5mdNZK1HE9s4LHOspJhAyIkaWrKnHVktV8vCTStTAMxEZu/CrU6eGgHqWti2bEiR6bh1dsjGpMeVliDZeR3Oxj3CFKUOGToTY9m9CELwTU8k5RX83qN5PaflVAYSdlBxBOokp8Io4o1nZhIOB3V1qH/JiNn97YBaNe7/c2b6W7860FAfw5Eoy5zPC5zNZh4Vs=;nNJ0TZhd8BBD2llN6jXAwQ=="

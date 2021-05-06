@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Liz Cheney, facing GOP leadership removal, takes swipe at Trump 'cult'"
+    excerpt: "Rep. Liz Cheney (R-WY) wrote that the Republican Party is at a \"turning point\" and must decide “whether we will join Trump’s crusade to delegitimize and undo the legal outcome of the 2020 election, with all the consequences that might have.”"
+    publishedDateTime: 2021-05-05T23:23:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9U2WmSW-Ztw/liz-cheney-gop-leadership-trump-cult"
+    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-gop-leadership-trump-cult.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-gop-leadership-trump-cult.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e70db19-b3db-400c-b524-0b89525a6127/45d59833-a005-43db-9996-e0dcc2be08ff/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Elise Stefanik, GOP conference chair favorite, voted with Trump less than Liz Cheney"
     excerpt: "Rep. Elise Stefanik, the favorite to replace Rep. Liz Cheney as the House GOP conference chair, voted with former President Donald Trump less than Cheney and has lower voting scores from top conservative organizations."
     publishedDateTime: 2021-05-05T16:29:40Z
@@ -55,6 +71,38 @@ related:
     quality: 167
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump supports Elise Stefanik for House GOP conference chair amid Liz Cheney feud: sources"
+    excerpt: "Former President Donald Trump supports Rep. Elise Stefanik to replace Rep. Liz Cheney as the House Republican conference chair, sources close to the former president tell Fox News. "
+    publishedDateTime: 2021-05-05T13:31:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGBDKsL-pBo/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Cheney says she'll campaign on impeaching Trump 'every day of the week' amid primary challenges"
+    excerpt: "Rep. Liz Cheney said in an interview with Punchbowl News Thursday that she will stand behind her vote to impeach former President Donald Trump \"every day of the week\" as she faces multiple primary challengers in her 2022 reelection effort. "
+    publishedDateTime: 2021-04-29T15:05:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oU9HcI6QFdc/cheney-campaign-impeaching-trump-primary-challenges"
+    ampWebUrl: "https://www.foxnews.com/politics/cheney-campaign-impeaching-trump-primary-challenges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-campaign-impeaching-trump-primary-challenges.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

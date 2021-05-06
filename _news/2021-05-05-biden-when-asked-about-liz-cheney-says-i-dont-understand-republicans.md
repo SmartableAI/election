@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-liz-cheney-dont-understand-re
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-liz-cheney-dont-understand-republicans.amp"
 type: article
 quality: 174
-heat: 234
+heat: 214
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11d83ee5-42e6-407a-a1ef-acb760a3c006/507e6206-8997-45de-9473-acc27728bd4a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Trump supports Elise Stefanik for House GOP conference chair amid Liz Cheney feud: sources"
-    excerpt: "Former President Donald Trump supports Rep. Elise Stefanik to replace Rep. Liz Cheney as the House Republican conference chair, sources close to the former president tell Fox News. "
-    publishedDateTime: 2021-05-05T13:31:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGBDKsL-pBo/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Top Republicans McCarthy, Scalise back Stefanik as Cheney replacement amid battle over Trump"
     excerpt: "The top two Republicans in the House are behind Rep. Elise Stefanik's efforts to replace Rep. Liz Cheney as Republican conference chair as the party continues to grapple over former President Trump's future role, according to a report. "
