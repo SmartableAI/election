@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-biden-100-days
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-biden-100-days-history?amp"
 type: article
 quality: 125
-heat: 465
+heat: 505
 published: true
 
 provider:
@@ -143,6 +143,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Jill Biden to meet military spouses during stop in Colorado"
+    excerpt: "First lady Jill Biden plans to visit military spouses at a Colorado military base in her last stop during a swing through the U.S. West"
+    publishedDateTime: 2021-05-06T18:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-meet-military-spouses-stop-colorado-77525304"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-meet-military-spouses-stop-colorado-77525304"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-meet-military-spouses-stop-colorado-77525304"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0bdebb6defa34edab106f6a66b36c6bb_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "GOP senators unveil $568 billion counteroffer to Biden's infrastructure plan"
     excerpt: "Republican senators unveiled their counteroffer to President Biden's infrastructure proposal on Thursday, presenting a $568 billion framework that is significantly smaller than the president's $2 trillion plan."
     publishedDateTime: 2021-04-23T17:18:00Z
@@ -262,6 +278,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DXAMSUS6H5GYPGGFB7R2DCK5C4.jpg"
         width: 1400
         height: 1047
+        isCached: true
+  - title: "Watch: Joe Biden, John Bel Edwards compare pocket rosaries during Louisiana meeting"
+    excerpt: "When Gov. John Bel Edwards welcomed President Joe Biden to Louisiana on Thursday, the two Catholics briefly bonded over a token of their shared faith -- a pocket rosary."
+    publishedDateTime: 2021-05-06T20:03:00Z
+    webUrl: "https://www.nola.com/news/politics/article_09aeebfc-aea0-11eb-a7a6-d79073978d8d.html"
+    ampWebUrl: "https://www.nola.com/news/politics/article_09aeebfc-aea0-11eb-a7a6-d79073978d8d.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/article_09aeebfc-aea0-11eb-a7a6-d79073978d8d.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 69
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/d/38/d38d55f5-cc17-5d32-8832-909ef0741e9d/609430f8e2f73.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Washington Post is still fact-checking Joe Biden"
     excerpt: "On April 28, political commentator Brandon Tatum posted an image to Facebook claiming that the Washington Post would no longer fact-check President Joe Biden. \"Washington Post end"

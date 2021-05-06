@@ -927,6 +927,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "In GOP stronghold, Biden pushes for his infrastructure plan"
+    excerpt: "With a badly aging bridge as his backdrop, President Joe Biden stood in reliably Republican Louisiana on Thursday to pressure GOP lawmakers to support his $2.3 trillion infrastructure plan"
+    publishedDateTime: 2021-05-06T20:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-ready-to-sell-23t-infrastructure-plan-in-louisiana/2021/05/06/19baaeae-ae4c-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-ready-to-sell-23t-infrastructure-plan-in-louisiana/2021/05/06/19baaeae-ae4c-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-ready-to-sell-23t-infrastructure-plan-in-louisiana/2021/05/06/19baaeae-ae4c-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/763ZS6FOT4I6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Joe Biden Jimmy Carter Photo Leaves People Confused About How Tall They Are"
     excerpt: "The Carter Center shared the photo on Twitter and said: \"We're pleased to share this wonderful photo from the @POTUS and @FLOTUS visit to see the Carters in Plains, Ga.! Thank you President and Mrs. Biden!"
     publishedDateTime: 2021-05-04T13:06:00Z
@@ -1282,6 +1298,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/38d2d520-ef91-4003-9282-2a8a1ea44211_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden pushes infrastructure plan in GOP stronghold"
+    excerpt: "With a badly aging bridge as his backdrop, President Joe Biden stood in reliably Republican Louisiana on Thursday to pressure GOP lawmakers to support his $2.3 trillion infrastructure plan, calling it a \"blue collar blueprint to rebuild America."
+    publishedDateTime: 2021-05-06T21:01:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/06/biden-pushes-infrastructure-plan-gop-stronghold/4979017001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/df47bd19-9c56-4eec-a02f-a4717ba4a80a_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

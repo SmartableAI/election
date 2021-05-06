@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/jill-biden-first-100-day
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/jill-biden-first-100-days/index.html"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429140203-02-afghanistan-al-qaeda-intl-cmd-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden hits schools goal even as many students still learn remotely"
+    excerpt: "Education Secretary Miguel Cardona applauded the nation’s progress but also drew attention to racial disparities, saying schools must do more to reach all students."
+    publishedDateTime: 2021-05-06T10:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-hits-schools-goal-even-many-students-still-learn-remotely-n1266479"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266479"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266479"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_18/3470616/210506-biden-school-mc-1125_3e1d7158bb0d253a208700a0c8473551.JPG"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Biden to propose free preschool, community college in address to Congress"
     excerpt: "He is also expected to announce an extension to the expanded child care tax benefit as part of his American Families Plan."

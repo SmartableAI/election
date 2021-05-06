@@ -1,27 +1,25 @@
 ---
 category: news
-title: "Ex-Pence Economic Official Eyes 2024 Indiana Governor Bid"
+title: "Ex-Pence economic official eyes 2024 Indiana governor bid"
 excerpt: "A Fort Wayne businessman who was a top official in former Gov. Mike Pence’s administration is getting an early jump on running for governor in the 2024 election."
-publishedDateTime: 2021-05-06T18:56:00Z
-originalUrl: "https://www.usnews.com/news/best-states/indiana/articles/2021-05-06/ex-pence-economic-official-eyes-2024-indiana-governor-bid"
-webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2021-05-06/ex-pence-economic-official-eyes-2024-indiana-governor-bid"
+publishedDateTime: 2021-05-06T20:20:00Z
+originalUrl: "https://www.washingtontimes.com/news/2021/may/6/ex-pence-economic-official-eyes-2024-indiana-gover/"
+webUrl: "https://www.washingtontimes.com/news/2021/may/6/ex-pence-economic-official-eyes-2024-indiana-gover/"
+ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/6/ex-pence-economic-official-eyes-2024-indiana-gover/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/6/ex-pence-economic-official-eyes-2024-indiana-gover/"
 type: article
-quality: 35
-heat: 35
+quality: 55
+heat: 55
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
   - Election
   - Mike Pence
 
-secured: "180n9vmXrMOFJLslzePSii/Z9Vg/nsSKCnLQFaR+hfsQNZTG1D66Lq2pvWfxBpX7U0qi5gM4BVr70qrYcGlq2yPc0RhjGlDq9pEX/SA9OWZ1lFDjLaghNWe8UJNnJ38rDwPZA/e8v7ehXvR4+0liHBopD79vyH4JQ68eulSX1F8xWg3+1x8gZVz9RwdZ7cKikIgfZUtp0nM+nZ286xLJ2bkGiYAPq+dUBIjGeJ9vACCiuuJOE5E9E2kKvX9O9v9G2Tf+PvyW940lpbmSyZQHpyk68y7U7anAYBfObk/7iq/1SgzG14WfAXeqNFVV7hu1nAYGFKAB7ajNFmUmxp9R3T949N1QIadxXUeKztdTkOc=;wLJ2Xvp08E7Pl6WLeSNFPw=="
+secured: "5zqgRAh0/be2V7P6Vgl1qwVsBFlu5OWdrchZgM3G8tpIhuJQwzvI0imq5bBYZFdmLG9zLjD6ihXDRqMK+QMgCmxtVxT/t+aXNNX2Ac1EpOnOS5kbgB/4PRZHuOLLnppWrZF2RYNgbnDb+qZvmK1FU2tuC4T2Ci5pkFXhlSYCaGMYEWlAe2dYY9tbGACjCn5MoVcdA0g5uGbCOzM+WIEZhpQgxeIU9t5g2941Ntqi/rn8oTpf00RmB8EwYr2Ae/4+0h+g5pzv9Rrk7/QCUE1HqVpDtXuWsNtQb5fY8SuYZSS9ktV+IfhU+w0QMnziZ7RvrLOfGIwkBZkfP0ZnJcpTm1On3HhlgdrQiYJHE5NCB0s=;VhkgnsCOBAWvaXJD868XtA=="
 ---
 

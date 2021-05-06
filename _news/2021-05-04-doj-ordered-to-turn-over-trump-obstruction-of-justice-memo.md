@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trum
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp"
 type: article
 quality: 175
-heat: 575
+heat: 595
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/05/18/720/405/694940094001_5438848447001_5438775026001-vs.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Supreme Court justice photo includes all three Trump picks for first time"
+    excerpt: "The latest official photo of the Supreme Court's current nine justices has been released, showing all three of former President Donald Trump's picks for the first time."
+    publishedDateTime: 2021-05-06T20:39:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hzROFEnPME4/supreme-court-justice-photo-trump-picks-first-time"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-justice-photo-trump-picks-first-time.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-justice-photo-trump-picks-first-time.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8db31137-c6d1-42f6-b6c3-105cadba2d6d/6f4d1e85-e44a-42d4-86ba-0f9612af8783/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

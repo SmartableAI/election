@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-expected-to-target-biden-as-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-expected-to-target-biden-as-he-makes-his-first-post-vice-presidency-speech.amp"
 type: article
 quality: 200
-heat: 2180
+heat: 2200
 published: true
 
 provider:
@@ -525,6 +525,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92593f23-01dc-4aae-8060-f48e4dfb9565/19b8f6de-3e2a-4fe0-9770-22275c6797c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "'God' left out of Biden's National Day of Prayer proclamation"
+    excerpt: "Like his predecessors, President Biden issued a proclamation on the National Day of Prayer this week, but one word was missing."
+    publishedDateTime: 2021-05-06T20:17:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J0hR_vPESkk/biden-national-day-prayer-god-trump-obama-proclamation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-national-day-prayer-god-trump-obama-proclamation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-day-prayer-god-trump-obama-proclamation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1851ba32-58c2-4035-ba54-2ed19de56b45/eac18659-5b67-4864-8ecb-3225adcf2f54/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -1453,7 +1469,7 @@ related:
   - title: "Biden's Economic Agenda May Be More Truman Than FDR"
     excerpt: "Joe Biden's multitrillion-dollar plans to revive the economy, fix America's infrastructure and ease poverty have spawned comparisons between him and"
     publishedDateTime: 2021-05-06T10:54:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.html"
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.html#!"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.amp.html"
     type: article

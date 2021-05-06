@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Kamala Harris stops in Rhode Island to pitch Biden jobs plan"
-excerpt: "Vice President Kamala Harris stopped by a local bookshop and participated in a business roundtable event during a visit to Rhode Island on Wednesday. The stop was part of a push by the administration to promote President Joe Biden’s priorities including his American Jobs Plan,"
-publishedDateTime: 2021-05-05T19:51:00Z
-originalUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
-webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
-ampWebUrl: "https://www.sfchronicle.com/news/amp/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
-cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
+excerpt: "Vice President Kamala Harris stopped by a local bookshop and participated in a business roundtable event during a visit to Rhode Island on Wednesday."
+publishedDateTime: 2021-05-06T00:48:00Z
+originalUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/"
+webUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/"
+ampWebUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/amp/"
+cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/amp/"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: Boston Herald
+  domain: bostonherald.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://s.hdnux.com/photos/01/17/73/33/20952772/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
+  - url: "https://www.bostonherald.com/wp-content/uploads/2021/05/Harris_44221.jpg?w=1024&#038;h=683"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -1312,6 +1312,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "2mUZYQiE/IErtMZU38zocRPRm8H4zksKTN5f6gkJXkDksnogrUkJlvwKNiwCW/2AVDAljAs4UDSyGv3ki5T404hu7voUAykJB6ppije3fJdISi2GJO3nNztx3ACTXtOf0cVZbo2+ceRwS876agEvxuCZiF1YpfbqDDM/c/YbLUCZ0GoTrDvbUunb+gPHBIuxxal5swpDI++UK8OdFApfVnyKr4cPpMLV4NpEOfQ2Jnm19JkDEJGevSkWpaMVIz2XpFBbbjCHp3if1EpT4sYPXaB6zlhRbVOpS3lcxAo09lsw0t7UI8hvbgkWUGXwgJjIsHPH/+LtjFx3U9uNBODw++VseaFh5zTM5S0K323sZCJdY3vD7tW5dqysviH+PKnSFPh92TSYOW0DV7tEa+HmTLHyBDJvfWsvcyDHPHcKrf40q+EXzN8TNSX7BjlBYG21nQwyBkXHWbRVBAkByc+T/pDUUPqGbQRs00SNBgPJyBf4zS8M9XsHS8bRh59gPmSE/neShKKh7wwQBMJr+ca2SQ==;eGBDX9zSvOD1zv5H/ctyZQ=="
+secured: "WiWpOehEFlSguv8aHowc8tIwE48H0jS81NP+qCjBtpN0gFHvVtW1834X7G2GsoSTeqvFdpqy2Bc4+JFmWe8o8IMd+BaRsn6HM+lqTujE/067YJZVrMlCnTsVCh0DGGuPSJuuypeNvOsc2KNIQi+X0ODEZrqQjcLKOCvEeKE/hosHQM+4WmVzVCCBWWfYPD293nR75YURmU4VDlorv6g0PgE/A+xZzKOG6YbKMiHOtCKEcpKv18fr830AGn/zxIIZv25wdsCBjYFBH+NvWmjKEXWaPSxAHBN1/A7jKqPnSq6pTv3xoUdOMkmL4THe70UkwqQLWgmkPT3vFm0HejRWP17ustoq+3cWdp9YlME9y4Q=;wm6GmXjVKbCSNd9wic4Baw=="
 ---
 

@@ -142,6 +142,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "As Trump loyalty trumps ideology, conservatives hold their noses for Stefanik"
+    excerpt: "Even as Rep. Elise Stefanik has consolidated her position as the likely replacement for Rep. Liz Cheney as the No. 3 House Republican, her voting record has raised concerns from some conservatives in the House and around Washington.\n    \n"
+    publishedDateTime: 2021-05-06T20:21:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vvd0x3UViJM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/conservatives-concerns-stefanik-replace-cheney-trump-loyalty/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/conservatives-concerns-stefanik-replace-cheney-trump-loyalty/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505140702-03-rep-elise-stefanik-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: A GOP candidate ran on an anti-Trump platform. He won just 3% of the vote."
     excerpt: "Michael Wood's candidacy in this weekend's special election for Texas' 6th district was regarded as a potential canary in a coal mine.\n    \n"
     publishedDateTime: 2021-05-03T13:55:02Z

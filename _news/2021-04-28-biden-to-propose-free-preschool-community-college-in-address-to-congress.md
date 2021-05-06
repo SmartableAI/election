@@ -224,6 +224,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden hits schools goal even as many students still learn remotely"
+    excerpt: "Education Secretary Miguel Cardona applauded the nation’s progress but also drew attention to racial disparities, saying schools must do more to reach all students."
+    publishedDateTime: 2021-05-06T10:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-hits-schools-goal-even-many-students-still-learn-remotely-n1266479"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266479"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266479"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_18/3470616/210506-biden-school-mc-1125_3e1d7158bb0d253a208700a0c8473551.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "Ei55mNwIXSiXpWZ3WG6QpoS2W8Ep1EsywqHKAW/0C+pseKS5mAXrGLk1/TVKIxoxLpS9/Qw89tvE9ZzHlgLl0+o6b2ShgQxHNB5OwOlOITe/zoBk+fW5N9TRJ57OhykMfqkSXDK4nzKLNZG0BHrseZ9ek2mXxfQDUBfZWGp2OnAhbj+LE1d8FV+utuBuGN9llbXwMkLC9nUNDxmmZjTNgSKS7wAEmcoXWoiheipliVNYYupMTLssZhDQDqlMS46z0NQ8ud9brnC5xI1yXxd+pR3lmuWbkEVtd4w8xgIWsygdH/tvd0UBF8X26EWv/sCRgcTSjEHl8sc70vwR4FcH4u9JvNQKJbq+g12iI1opblE=;DjlnllL6LnX6gQ5OmJA6+A=="
 ---

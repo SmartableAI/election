@@ -299,6 +299,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Personal ties: Harris' family in India grapples with COVID"
+    excerpt: "Harris' uncle says he spoke with the vice president and her husband, Doug Emhoff, for quite a while. To close out the conversation, Harris assured him she’d take care of his daughter — her cousin — who lives in Washington."
+    publishedDateTime: 2021-05-06T21:53:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Personal-ties-Harris-family-in-India-grapples-16157868.php"
+    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Personal-ties-Harris-family-in-India-grapples-16157868.php"
+    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Personal-ties-Harris-family-in-India-grapples-16157868.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Photos: Kamala Harris sells San Francisco loft; seeks buyer for DC condo"
     excerpt: "Kamala Harris has sold her SoMa loft in San Francisco for $860,000 and now seeks a buyer for her Washington, DC, condo."
     publishedDateTime: 2021-05-03T16:07:00Z
