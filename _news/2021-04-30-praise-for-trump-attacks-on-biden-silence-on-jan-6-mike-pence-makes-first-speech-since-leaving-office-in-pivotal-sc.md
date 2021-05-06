@@ -2,19 +2,23 @@
 category: news
 title: "Praise for Trump, attacks on Biden, silence on Jan. 6: Mike Pence makes first speech since leaving office in pivotal SC"
 excerpt: "Pence did not discuss his own presidential ambitions during a 30-minute speech, spending more time talking about GOP efforts to re-take Congress"
-publishedDateTime: 2021-04-30T01:26:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/2021/04/29/mike-pence-praises-donald-trump-attacks-joe-biden-no-talk-jan-6/7397275002/"
-webUrl: "https://www.indystar.com/story/news/politics/2021/04/29/mike-pence-praises-donald-trump-attacks-joe-biden-no-talk-jan-6/7397275002/"
-ampWebUrl: "https://amp.indystar.com/amp/7397275002"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7397275002"
+publishedDateTime: 2021-04-30T00:46:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/04/29/mike-pence-praises-donald-trump-attacks-joe-biden-no-talk-jan-6/7397275002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/04/29/mike-pence-praises-donald-trump-attacks-joe-biden-no-talk-jan-6/7397275002/"
+ampWebUrl: "https://amp.usatoday.com/amp/7397275002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7397275002"
 type: article
-quality: 81
+quality: 131
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: YAHOO!News
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -1521,6 +1525,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "0/mv0LwMObaknOCEHqRazCDKR0ssWD/lFa9HWQ+DwIP6knoB5UzyRr53s+arXgKf7b7APmbtm5QikZdrXjqCCqeYoHmM4QSkm/KGY13cFppAqjEMKz4/+U+nkGNS4KTC9nByS/lpRsd+L2HJzYDI1cwUcZcB1fxe9HKX0UkCqoZbUkAloyHZMD3MOBhIRE8zCDbE9sdTwKkUPGKl1FcIqEy1lOFc0Cry5Tb6KOQI+AlKnV19JlKrw395hXEa6gfJ+oFDrpPGuCP2TqRCI46z8+Am1+3dV22KfVQ2wQrpBUAHyBSeIagxSt/4TC8NRTIR8WuoWsU5LACohvJ83V/Fp9IgdhPmZdHVGLrP7mQEagBUERphguSGWwqvsHaHTZTAxRGDG0+Ri23miMiLZiOIzm3M7SVtAryLfTAj1Hb9IxNOZbBSlV4wlqQhvZi3rER8IWZMf/adykLhGqlnrglfDAK8H2pk4whdY0ajnBArGVJFIzT9JsSmk3NvKv/vZMb/87KWB4y7MQrP4t1nj4IsLA==;YjflXmO3JalbS+tJ/8bz3g=="
+secured: "nqU5g69Tdfq1fgMvsg34PlLdznZBG1Vm/35CZy1db78lNszDxD3zJlrzOw2vmb3JlKwfcw5feNm40RgcyBu3guXZN8rAO1EZVGRS5OxQ8YbnF7fi0Ooz1Spvhntz6HX1UNVpYRM9CeniqtcojVZBlg55+PSRABdcVlYKnrHgiX/YqSki29XrpmQyn3p3PnvAifRQqDsI97ycaUwKdFRw++SDmbmM7RTq8bmiubTxl9thdZwj0iWAnopYfOamV4Qo4wYzKspz2nFCWGXxT+BcwvcpOgsZAXfrgzMNh+ZRz+AYKrstbt+aVxjPwWqgx5V4DACaHRkp/q52Oz/ucXDZX8bE1/Kc7TGnIS5GUo6QVc8=;Z54/xR7QZLQUZrVu8+FIRw=="
 ---
 

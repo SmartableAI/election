@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-18-new-polls-show-trump-and-clinton-neck-and-neck.md",
+      "title": "New polls show Trump and Clinton neck-and-neck",
+      "excerpt": "New polls show that Democratic candidate Hillary Clinton has lost her double-digit lead in a matchup against GOP presumptive nominee Donald Trump. What does this mean for the November election? CBS News senior political editor Steve Chaggaris and Real Clear Politics national reporter Caitlin Huey-Burns join CBSN to discuss.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/new-polls-show-trump-and-clinton-neck-and-neck/",
+      "originalUrl": "https://www.cbsnews.com/video/new-polls-show-trump-and-clinton-neck-and-neck/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/17/e75f35d7-00c4-4727-8ef5-e6b7676e2239/thumbnail/1200x630/9ede9f7dc7d90a76b4d81fe55921898e/0523-cbsn-aph-trumpvsclintonanalysis-1067329-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-17T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-17-lawyers-doj-defense-in-trump-defamation-suit-is-dangerous.md",
       "title": "Lawyers: DOJ defense in Trump defamation suit is 'dangerous'",
       "excerpt": "Lawyers for a woman who is suing former President Donald Trump say the U.S. Justice Department made a “wrong and dangerous” argument in seeking to defend him",
@@ -1515,58 +1567,6 @@
       "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first",
       "publishedDateTime": "2021-04-10T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-on-the-house-review-john-boehners-lament-for-pre-trump-republicans.md",
-      "title": "On the House review: John Boehner’s lament for pre-Trump Republicans",
-      "excerpt": "Boehner offers no pushback. Boehner expresses contempt for Senator Ted Cruz and Mark Meadows, a former North Carolina congressman who became Donald Trump’s final chief of staff. As for Flyin’ Ted, Boehner is unsparing: “There is nothing more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/books/2021/apr/10/on-the-house-review-john-boehners-donald-trump-republicans",
-      "originalUrl": "https://www.theguardian.com/books/2021/apr/10/on-the-house-review-john-boehners-donald-trump-republicans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d8c59c546c7310a8c2debabf5263186861e96952/0_263_3929_2357/master/3929.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=adebe66c8debb45d75e5adc31944d502",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/books/2021/apr/10/on-the-house-review-john-boehners-donald-trump-republicans",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/apr/10/on-the-house-review-john-boehners-donald-trump-republicans",
-      "publishedDateTime": "2021-04-09T21:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",

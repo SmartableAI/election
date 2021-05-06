@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-expected-to-target-biden-as-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-expected-to-target-biden-as-he-makes-his-first-post-vice-presidency-speech.amp"
 type: article
 quality: 200
-heat: 2140
+heat: 2160
 published: true
 
 provider:
@@ -509,6 +509,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3306ed57-da8b-45bc-92dc-8e1ec22dda55/7536b03d-1f9a-47c6-97cc-d7ce58234a67/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden climate nominee touted 'environmental upside' to pandemic"
+    excerpt: "One of President Biden’s top State Department climate nominees touted the environmental benefits of the COVID-19 pandemic in an op-ed published while the pandemic was in full swing."
+    publishedDateTime: 2021-05-06T15:35:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W6_v2dOE1cM/biden-climate-pandemic-upside-monica-medina-ron-klain-wife"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-climate-pandemic-upside-monica-medina-ron-klain-wife.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-climate-pandemic-upside-monica-medina-ron-klain-wife.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92593f23-01dc-4aae-8060-f48e4dfb9565/19b8f6de-3e2a-4fe0-9770-22275c6797c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

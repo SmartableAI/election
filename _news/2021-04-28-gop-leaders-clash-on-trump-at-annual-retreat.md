@@ -128,6 +128,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Twitter cracks down on accounts that solely post content from Trump communications platform"
+    excerpt: "Twitter has been taking \"enforcement action\" on accounts that exist solely to repost the content from former President Trump's new communications platform."
+    publishedDateTime: 2021-05-06T15:10:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y6uyjV-Ge6A/twitter-crackdown-accounts-content-trump-communications-platform"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-crackdown-accounts-content-trump-communications-platform.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-crackdown-accounts-content-trump-communications-platform.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "DOJ memo will 'validate' Barr not charging Trump with obstruction of justice, GOP congressman predicts"
     excerpt: "Former chairman of the House Rules Committee Pete Sessions, R-Texas, told Fox News on Wednesday that he predicts the DOJ memo from March 2019 will “validate” Barr’s decision to clear Trump from obstruction of justice charges."
     publishedDateTime: 2021-05-05T21:46:13Z
@@ -274,8 +290,8 @@ related:
         isCached: true
   - title: "Trump Is Still Banned on YouTube. That Could Change."
     excerpt: "The video-sharing service has provided limited information on its call to suspend the former president and has said it is continuing to monitor the threat of violence in the wake of the Capitol riot by his supporters."
-    publishedDateTime: 2021-05-06T09:30:00Z
-    webUrl: "https://www.wsj.com/articles/trump-is-still-banned-on-youtube-that-could-change-11620293402?mod=hp_lead_pos5"
+    publishedDateTime: 2021-05-06T15:15:00Z
+    webUrl: "https://www.wsj.com/articles/trump-is-still-banned-on-youtube-that-could-change-11620293402"
     ampWebUrl: "https://www.wsj.com/amp/articles/trump-is-still-banned-on-youtube-that-could-change-11620293402"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-is-still-banned-on-youtube-that-could-change-11620293402"
     type: article
@@ -285,6 +301,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-334082/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "With Trump Decision, Facebook’s Problems Don’t Get Any Easier"
+    excerpt: "Our executive Washington editor and tech columnist discuss news that the ban of former President Donald Trump would be upheld—but would require further explanation."
+    publishedDateTime: 2021-05-06T16:00:00Z
+    webUrl: "https://www.wsj.com/articles/with-trump-decision-facebooks-problems-dont-get-any-easier-11620302401?mod=politics_lead_pos3"
+    ampWebUrl: "https://www.wsj.com/amp/articles/with-trump-decision-facebooks-problems-dont-get-any-easier-11620302401"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/with-trump-decision-facebooks-problems-dont-get-any-easier-11620302401"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-334096/social"
         width: 1280
         height: 640
         isCached: true

@@ -409,6 +409,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Praise for Trump, attacks on Biden, silence on Jan. 6: Mike Pence makes first speech since leaving office in pivotal SC"
+    excerpt: "Pence did not discuss his own presidential ambitions during a 30-minute speech, spending more time talking about GOP efforts to re-take Congress"
+    publishedDateTime: 2021-04-30T00:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/29/mike-pence-praises-donald-trump-attacks-joe-biden-no-talk-jan-6/7397275002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7397275002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7397275002"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/30/USAT/1ba477c5-e29d-4033-ac66-3e80e563cccb-AP21119858401840.jpg?auto=webp&crop=3937,2215,x0,y198&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump ally Sid Miller sues over Biden farm aid program, saying it discriminates against whites"
     excerpt: "Texas agriculture official Sid Miller files suit over a U.S. farm program that directs aid to nonwhite farmers and ranchers."
     publishedDateTime: 2021-04-27T21:36:00Z
@@ -1310,22 +1326,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "Praise for Trump, attacks on Biden, silence on Jan. 6: Mike Pence makes first speech since leaving office in pivotal SC"
-    excerpt: "Pence did not discuss his own presidential ambitions during a 30-minute speech, spending more time talking about GOP efforts to re-take Congress"
-    publishedDateTime: 2021-04-30T01:26:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/04/29/mike-pence-praises-donald-trump-attacks-joe-biden-no-talk-jan-6/7397275002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7397275002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7397275002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 81
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/30/USAT/1ba477c5-e29d-4033-ac66-3e80e563cccb-AP21119858401840.jpg?auto=webp&crop=3937,2215,x0,y198&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "On call backing Susan Wright, Donald Trump blasts Joe Biden, suggests he won Texas by larger margin"
     excerpt: "Donald Trump on Thursday used his endorsement of Republican congressional candidate Susan Wright to blast President Joe Biden and the Democratic"

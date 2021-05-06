@@ -2,9 +2,9 @@
 category: news
 title: "Trump Is Still Banned on YouTube. That Could Change."
 excerpt: "The video-sharing service has provided limited information on its call to suspend the former president and has said it is continuing to monitor the threat of violence in the wake of the Capitol riot by his supporters."
-publishedDateTime: 2021-05-06T09:30:00Z
-originalUrl: "https://www.wsj.com/articles/trump-is-still-banned-on-youtube-that-could-change-11620293402?mod=hp_lead_pos5"
-webUrl: "https://www.wsj.com/articles/trump-is-still-banned-on-youtube-that-could-change-11620293402?mod=hp_lead_pos5"
+publishedDateTime: 2021-05-06T15:15:00Z
+originalUrl: "https://www.wsj.com/articles/trump-is-still-banned-on-youtube-that-could-change-11620293402"
+webUrl: "https://www.wsj.com/articles/trump-is-still-banned-on-youtube-that-could-change-11620293402"
 ampWebUrl: "https://www.wsj.com/amp/articles/trump-is-still-banned-on-youtube-that-could-change-11620293402"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-is-still-banned-on-youtube-that-could-change-11620293402"
 type: article
@@ -127,6 +127,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/618f5785-2270-40bc-abf4-5aaf713d2c2a/71d14e4e-5cad-445f-8928-823183c1bf9d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Twitter cracks down on accounts that solely post content from Trump communications platform"
+    excerpt: "Twitter has been taking \"enforcement action\" on accounts that exist solely to repost the content from former President Trump's new communications platform."
+    publishedDateTime: 2021-05-06T15:10:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y6uyjV-Ge6A/twitter-crackdown-accounts-content-trump-communications-platform"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-crackdown-accounts-content-trump-communications-platform.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-crackdown-accounts-content-trump-communications-platform.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "DOJ memo will 'validate' Barr not charging Trump with obstruction of justice, GOP congressman predicts"
     excerpt: "Former chairman of the House Rules Committee Pete Sessions, R-Texas, told Fox News on Wednesday that he predicts the DOJ memo from March 2019 will “validate” Barr’s decision to clear Trump from obstruction of justice charges."
@@ -288,6 +304,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "With Trump Decision, Facebook’s Problems Don’t Get Any Easier"
+    excerpt: "Our executive Washington editor and tech columnist discuss news that the ban of former President Donald Trump would be upheld—but would require further explanation."
+    publishedDateTime: 2021-05-06T16:00:00Z
+    webUrl: "https://www.wsj.com/articles/with-trump-decision-facebooks-problems-dont-get-any-easier-11620302401?mod=politics_lead_pos3"
+    ampWebUrl: "https://www.wsj.com/amp/articles/with-trump-decision-facebooks-problems-dont-get-any-easier-11620302401"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/with-trump-decision-facebooks-problems-dont-get-any-easier-11620302401"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-334096/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump Justice Department Obstruction Memo Must Be Released, Judge Orders"
     excerpt: "A federal judge said the agency improperly characterized as privileged a 2019 memo, prepared after Mueller report was done, recommending against prosecuting Trump for obstruction of justice."
     publishedDateTime: 2021-05-05T15:54:00Z
@@ -321,6 +353,6 @@ related:
         height: 340
         isCached: true
 
-secured: "UcH1uyLU3xeJu4oK9u0rkKCWOVazSrYv5Mn3qXZyznb/0IzlXPXBy/VjGPyGlFotOI56/CsrbG5JmVN5Vp974Cal+a8/Kix4cw9WwdNTStqQg/sXmxInjHtOTgDgpEdVBdCaCArM5qzqs89UEFk4Snc1pGh0nBVysh7aiNibV5qeSGDJXAKIjotx3qRCPUyNnRArOT4OSyUgGKdackhFzuW0PnqApczJv3dHQ8MdNFFHfeYjGhRuQWVQHVO3H19f7j8rB58yh/dKMRd4YEktztdM1hKVmAuPIo6hUnupidDY51M44kvZJY1OTcrA1Ci2E2n6j9PBH3DMacfe9YL8kE3UqZTGZ3ZlQT9xWeBfI+IA0Ld7nVy/BfgExHAeerTzEGW/qlF0ckAOcq+vEqVDMAsyTyfPKSh6sN/v3yd+9/RQK5c7KHRY/iSQyRouOfC32eOvmTlsnouxaAjrj61hNmrJru8NEeUMq5P2sfORgH/HokOE2n3/onzYS6rSJ+IKTWuftwK0kTBCjeU/fDB28w==;xx01o5xPiIVEIJ42FxHBhA=="
+secured: "ib/AM8ZN+swjrUjqRjPJNQtK6Y47P05FgfCVOZbpUw5ps/CXb1n4m7bhXtiWzB9Hg09niJiIwmI9moJyPCvSYnLMEvavF6G9jZgn9WTGGBCXSPWIe1eYJPOy/lPUMIrKH8Qs5Xy7HTGZmKW9+CnRyfo0nChPDEWvchrBcBnTwGRgSWswfiMsFYA8gLLhwBXbzbl9jSN2t8nAZDONzlzVtvJ1d7Oi5BSIPKYLitSiZaGBEXT921mMLMuzRJZNzpQ3hBoQHfJxuxEJBfyEj8TJ8AjA4pbqej2hZqIxlQtF+u1j2MX8D+f0z8v9pjr2jaxu+S5AsuHGblmwAhCu83pOBKyesmokSwt9o2UipxLy3TI=;dYY9kdU27ee7oRFhk47ZVA=="
 ---
 

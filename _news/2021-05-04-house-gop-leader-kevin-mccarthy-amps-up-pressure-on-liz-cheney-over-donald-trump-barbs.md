@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Challenger hits Liz Cheney, says GOP must work with Trump"
+    excerpt: "No. 3 House Republican Liz Cheney is clinging to her post as party leaders are lining up behind an heir apparent for her job"
+    publishedDateTime: 2021-05-06T14:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BMJHGUFNVQI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump's 'big lie' becomes new litmus test for success in GOP"
     excerpt: "It’s scary,” said Michael Wood, the Texas Republican congressional candidate who based his campaign on a vow to push the GOP past the “cult of personality” that is Trump. In the end, he garnered just 3% of the vote in Saturday’s special election,"
     publishedDateTime: 2021-05-04T02:32:00Z

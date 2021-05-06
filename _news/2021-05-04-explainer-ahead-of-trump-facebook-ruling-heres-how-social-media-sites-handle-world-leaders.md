@@ -55,6 +55,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "The Daily 202: Facebook board’s Trump decision isn’t just about Trump"
+    excerpt: "Welcome to The Daily 202 newsletter! If you’re still wondering, in 2021, how powerful Facebook is, consider that their oversight board’s website is just oversightboard dot com. Tell your friends to sign up here."
+    publishedDateTime: 2021-05-06T15:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/05/06/daily-202-facebook-boards-trump-decision-isnt-just-about-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/06/daily-202-facebook-boards-trump-decision-isnt-just-about-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/06/daily-202-facebook-boards-trump-decision-isnt-just-about-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G6PQNKVOAUI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 947
+        isCached: true
   - title: "Facebook and Trump are at a turning point in their long, tortured relationship"
     excerpt: "Facebook’s decision to outsource the future of Trump’s account to an independent Oversight Board stems from a tortured relationship with the former president. It could also set a precedent on how social media companies handle politicians and on how they will balance free speech and harm."
     publishedDateTime: 2021-05-04T10:15:00Z

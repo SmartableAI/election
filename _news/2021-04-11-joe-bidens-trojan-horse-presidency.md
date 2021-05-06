@@ -522,6 +522,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden climate nominee touted 'environmental upside' to pandemic"
+    excerpt: "One of President Biden’s top State Department climate nominees touted the environmental benefits of the COVID-19 pandemic in an op-ed published while the pandemic was in full swing."
+    publishedDateTime: 2021-05-06T15:35:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W6_v2dOE1cM/biden-climate-pandemic-upside-monica-medina-ron-klain-wife"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-climate-pandemic-upside-monica-medina-ron-klain-wife.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-climate-pandemic-upside-monica-medina-ron-klain-wife.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92593f23-01dc-4aae-8060-f48e4dfb9565/19b8f6de-3e2a-4fe0-9770-22275c6797c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Cruz calls on Biden to fix gap in Texas levee that protects border towns"
     excerpt: "Sen. Ted Cruz, R-Texas, and local residents in Mission, Texas, are calling on President Biden to fix a compromised levee that protects border towns from the Rio Grande Valley – with hurricane season just weeks away."
     publishedDateTime: 2021-04-22T17:31:33Z

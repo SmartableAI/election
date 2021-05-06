@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Drugmakers say Biden misguided over vaccine patent waiver"
+    excerpt: "Drugmakers on Thursday said U.S. President Joe Biden's support for waiving patents of COVID-19 vaccines could disrupt a fragile supply chain and that rich countries should instead share more generously with the developing world."
+    publishedDateTime: 2021-05-06T14:13:00Z
+    webUrl: "https://www.reuters.com/article/legal-us-health-coronavirus-waiver-ifpma-idUSKBN2CN1ME"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CN1ME"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CN1ME"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210506&t=2&i=1561155795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH450TX"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Biden expected to speak on shift in US vaccine distribution strategy – live"
     excerpt: "White House reportedly to deliver unused doses to other states as part of ‘use it or lose it’ strategy – follow all the day’s politics news"
     publishedDateTime: 2021-05-04T15:19:00Z
@@ -44,22 +60,6 @@ related:
     quality: 123
     images:
       - url: "https://i.guim.co.uk/img/media/cca8fd69fd929c563cf5d0423303d1d11a51c924/0_206_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1055a8a67a46d0831699cf04c784163a"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden says US ‘ready to move immediately’ if vaccine approved for young teens – as it happened"
-    excerpt: "FDA likely to authorize Pfizer vaccine for those aged 12 to 15 as Biden targets 70% of US adults vaccinated by Fourth of July – follow the day’s politics news"
-    publishedDateTime: 2021-05-04T22:53:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 113
-    images:
-      - url: "https://i.guim.co.uk/img/media/3f7e93a0aa8cd607a4edc7c122480f23916d6769/0_219_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9cdb82a1110b98b036a7e27661cd97fe"
         width: 600
         height: 360
         isCached: true

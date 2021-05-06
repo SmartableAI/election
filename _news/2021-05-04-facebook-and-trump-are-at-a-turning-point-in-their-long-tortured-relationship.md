@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "The Daily 202: Facebook board’s Trump decision isn’t just about Trump"
+    excerpt: "Welcome to The Daily 202 newsletter! If you’re still wondering, in 2021, how powerful Facebook is, consider that their oversight board’s website is just oversightboard dot com. Tell your friends to sign up here."
+    publishedDateTime: 2021-05-06T15:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/05/06/daily-202-facebook-boards-trump-decision-isnt-just-about-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/06/daily-202-facebook-boards-trump-decision-isnt-just-about-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/06/daily-202-facebook-boards-trump-decision-isnt-just-about-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G6PQNKVOAUI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 947
+        isCached: true
   - title: "Facebook board to decide today if former President Donald Trump can post again on the social media site"
     excerpt: "On Wednesday, his fate on Facebook, the biggest social platform around, will be decided. The company’s quasi-independent Oversight Board will announce its ruling around 9 a.m. ET. If it rules in Trump’s favor,"
     publishedDateTime: 2021-05-05T14:09:00Z
