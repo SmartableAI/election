@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trum
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp"
 type: article
 quality: 175
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 169
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c854aa97-4b5f-4323-a141-a711ec984ca4/69a9c07e-ea7e-4a54-ae3f-e52c399e2d98/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Hawley: Facebook board's Trump ban proves its time to 'get serious' on antitrust action"
+    excerpt: "Sen. Josh Hawley, R-Mo., renewed his call for antitrust action against Facebook and other tech platforms on Wednesday, calling it “a little bit ridiculous” that an oversight board was able to determine whether the social media platform’s suspension of former President Donald Trump’s account was justified."
+    publishedDateTime: 2021-05-06T00:34:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xq2Z7xySXpk/hawley-facebook-board-trump-decision-proves-time-get-serious-antitrust-action"
+    ampWebUrl: "https://www.foxnews.com/politics/hawley-facebook-board-trump-decision-proves-time-get-serious-antitrust-action.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-facebook-board-trump-decision-proves-time-get-serious-antitrust-action.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/618f5785-2270-40bc-abf4-5aaf713d2c2a/71d14e4e-5cad-445f-8928-823183c1bf9d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

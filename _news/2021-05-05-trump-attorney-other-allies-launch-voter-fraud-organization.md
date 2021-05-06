@@ -270,6 +270,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump, other top Republicans back Stefanik to replace Cheney as GOP conference chair"
+    excerpt: "House Minority Whip Steve Scalise is calling for Rep. Elise Stefanik of New York to take over the leadership role."
+    publishedDateTime: 2021-05-06T00:35:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/another-top-republican-publicly-backs-ousting-cheney-gop-conference-chair-n1266376"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266376"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266376"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_18/3470385/210505-steve-scalise-liz-cheney-jm-0937_910536d813fe4ed25277364b5d361ecc.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump’s Battle to Win the First 100 Days"
     excerpt: "The former president has been on an increasingly manic crusade to knock his successor and buff his own battered legacy."
     publishedDateTime: 2021-04-29T08:30:00Z

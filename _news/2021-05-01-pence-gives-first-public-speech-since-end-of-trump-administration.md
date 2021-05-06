@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/video/politics/pence-gives-first-pu
 webUrl: "https://www.washingtonpost.com/video/politics/pence-gives-first-public-speech-since-end-of-trump-administration/2021/05/01/3b006924-331c-471a-8796-f0d0e8035d97_video.html"
 type: article
 quality: 130
-heat: 650
+heat: 670
 published: true
 
 provider:
@@ -239,6 +239,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Cheney's views on Trump puts her GOP post in peril"
+    excerpt: "No. 3 House Republican Liz Cheney was clinging to her post Wednesday as party leaders lined up behind an heir apparent, signaling that fallout over her clashes with former President Donald Trump was becoming too much for her to overcome."
+    publishedDateTime: 2021-05-06T01:45:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/06/cheneys-views-trump-puts-her-gop-post-peril/4966432001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/290fa076-f007-4377-8118-c4e82f5c328c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Former Vice President Mike Pence to deliver first speech since leaving office"
     excerpt: "Former Vice President Mike Pence is delivering his first speech since leaving office to a group of conservatives in South Carolina on Thursday. His visit to the early primary state is fueling speculation over whether Pence is weighing a 2024 presidential bid."
     publishedDateTime: 2021-04-29T22:39:00Z

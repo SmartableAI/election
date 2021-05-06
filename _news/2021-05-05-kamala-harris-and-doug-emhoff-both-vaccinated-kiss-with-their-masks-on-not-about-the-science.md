@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-and-doug-emhoff-both-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-and-doug-emhoff-both-vaccinated-kiss-with-their-masks-on-not-about-the-science.amp"
 type: article
 quality: 172
-heat: 172
+heat: 192
 published: true
 
 provider:
@@ -31,6 +31,24 @@ images:
     height: 405
     isCached: true
 
-secured: "YgJ5ot+gMk3VPyXDOsptZCiEgElH7ygqPcbWbd36SVztMt8jZUU9jGjEGMsLec6zMblkyAs0Xb5sfivztlePjGjmGMR0ZTeMNpcw7/m/CH29tEEW5xltoThzmkB/9LRjgDuZBZKmLtXdnCfWPqcV659eGtZz41tbKg6c/r4toyC7KaKOduMwBYO4H2u0pBXEa35sw3bWSOiBI9PD8+62o+yDNLbvo2l5L/MfAFghARS+MiEuYjWDZdFQuyqLDcskJLqX7nizvIKGnWOaXFdYQ8MNR98Qwo9wRTfnLrmej2HIE3EX76EYoHeEfsoODc3exxcdlZXzHk8K3VSJheP8CE9f5qqUqiKhfyhBxcBt9ug=;N5fD3MNJUEBqIIiXPdGUcw=="
+related:
+  - title: "Watch: VP Kamala Harris and Husband Douglas Emhoff Kiss With Their Masks On"
+    excerpt: "Vice President Kamala Harris and her husband Douglas Emhoff share a kiss with their masks on at a tarmac in Allentown, Penn. on Wednesday."
+    publishedDateTime: 2021-05-05T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/05/watch_vp_kamala_harris_and_husband_douglas_emhoff_kiss_with_their_masks_on.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/05/watch_vp_kamala_harris_and_husband_douglas_emhoff_kiss_with_their_masks_on.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/05/watch_vp_kamala_harris_and_husband_douglas_emhoff_kiss_with_their_masks_on.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 83
+    images:
+      - url: "https://assets.realclear.com/images/54/542507.jpg"
+        width: 694
+        height: 520
+        isCached: true
+
+secured: "luzgQfOq0A128zQrLKMrO4W7mxDpM37OMv6+HEGq2BmTGxmCu1lFy/dx3nDybpuPlaQHSoGW0u+c1geDbwyE+PSQ3Z7oDZVYImGqMrn4VnwYWLbzFUPbWwYq+jEGlAdnPxprPl7zghUtDiYHIPFsDRkpHofInMXL7p2XKcw3OOfBMzpZx99qtkSUkPYzsHH2KxvQo4qPwn6gbVuxZERGAAICkjATmd2tq6B8ZVaZK0hG9VmulVIZ2f9tYG7KlBGLZXEjA+xCf/rj9fTqDGtzYuzjU3qh0Qw6TcLYOrxLFd8iuyhgleycBrtIBxtqFGXuHzehWDYUn+KJUB8mg7N0FyODSOXE/fuQF5H30FwhRy0=;q5rZ2SDFFCj6VRuZ/AcmCw=="
 ---
 

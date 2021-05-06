@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-06-the-first-day-of-donald-trumps-new-website-recalls-his-earlier-twitterstorms.md",
+      "title": "The First Day of Donald Trump's New Website Recalls His Earlier 'Twitterstorms'",
+      "excerpt": "The official Twitter account linked to Trump's new blog was banned from the social network shortly after it appeared online.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/first-day-donald-trumps-new-website-recalls-his-earlier-twitterstorms-1589077",
+      "originalUrl": "https://www.newsweek.com/first-day-donald-trumps-new-website-recalls-his-earlier-twitterstorms-1589077",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1788439/trump-tweetstorm-twitterstorm-twitter-desk-blog-tweets.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/first-day-donald-trumps-new-website-recalls-his-earlier-twitterstorms-1589077?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/first-day-donald-trumps-new-website-recalls-his-earlier-twitterstorms-1589077?amp=1",
+      "publishedDateTime": "2021-05-05T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-liz-cheney-facing-gop-leadership-removal-takes-swipe-at-trump-cult.md",
       "title": "Liz Cheney, facing GOP leadership removal, takes swipe at Trump 'cult'",
       "excerpt": "Rep. Liz Cheney (R-WY) wrote that the Republican Party is at a \"turning point\" and must decide “whether we will join Trump’s crusade to delegitimize and undo the legal outcome of the 2020 election, with all the consequences that might have.”",
@@ -278,7 +330,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 172,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -883,7 +935,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 495,
+      "heat": 515,
       "tags": null,
       "images": [
         {
@@ -1274,58 +1326,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-whose-big-lie-trumps-proclamation-a-new-gop-litmus-test.md",
-      "title": "Whose 'Big Lie'? Trump's proclamation a new GOP litmus test",
-      "excerpt": "Donald Trump and his supporters are intensifying efforts to shame members of the party who are seen as disloyal to the former president and his false claims that last year’s election was stolen",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_d94cd197df9a4c78b707faae0d52b181_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647",
-      "publishedDateTime": "2021-05-03T21:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

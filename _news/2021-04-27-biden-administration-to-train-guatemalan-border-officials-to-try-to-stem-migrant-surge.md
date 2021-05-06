@@ -831,6 +831,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "ICE deportations fall to under 3,000 in April amid Biden rules that restrict removals"
+    excerpt: "Immigration and Customs Enforcement (ICE) deported less than 3,000 illegal immigrants in April, the agency confirmed to Fox News on Wednesday -- a sign of how drastically the agency’s enforcement capabilities have been limited by the Biden administration."
+    publishedDateTime: 2021-05-06T00:45:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YQPwiOcaTW0/ice-deportations-april-biden-guidance-limits-agents"
+    ampWebUrl: "https://www.foxnews.com/politics/ice-deportations-april-biden-guidance-limits-agents.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ice-deportations-april-biden-guidance-limits-agents.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5b199d6-e7c1-4703-920c-98dc635d43dc/b7143e73-c92d-4a88-8ae7-c2ce07826294/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "LIVE UPDATES: Lawmakers to skip Biden's first joint address to Congress Wednesday night"
     excerpt: "President Joe Biden is scheduled to give his first joint address to Congress Wednesday night, however, lawmakers may be skipping the limited event. "
     publishedDateTime: 2021-04-28T04:00:53Z

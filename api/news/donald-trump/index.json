@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-06-the-first-day-of-donald-trumps-new-website-recalls-his-earlier-twitterstorms.md",
+      "title": "The First Day of Donald Trump's New Website Recalls His Earlier 'Twitterstorms'",
+      "excerpt": "The official Twitter account linked to Trump's new blog was banned from the social network shortly after it appeared online.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/first-day-donald-trumps-new-website-recalls-his-earlier-twitterstorms-1589077",
+      "originalUrl": "https://www.newsweek.com/first-day-donald-trumps-new-website-recalls-his-earlier-twitterstorms-1589077",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1788439/trump-tweetstorm-twitterstorm-twitter-desk-blog-tweets.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/first-day-donald-trumps-new-website-recalls-his-earlier-twitterstorms-1589077?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/first-day-donald-trumps-new-website-recalls-his-earlier-twitterstorms-1589077?amp=1",
+      "publishedDateTime": "2021-05-05T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-bad-bill-donald-trump-jr-criticizes-alabama-gambling-legislation.md",
       "title": "‘Bad bill’: Donald Trump Jr. criticizes Alabama gambling legislation",
       "excerpt": "Trump Jr., the son of former President Donald Trump, criticized the gambling legislation under consideration by Alabama state lawmakers via a tweet on Wednesday. He said legislation would prevent world-class resorts and casinos from entering Alabama.",
@@ -674,7 +726,7 @@
       "originalUrl": "https://www.washingtonpost.com/video/politics/pence-gives-first-public-speech-since-end-of-trump-administration/2021/05/01/3b006924-331c-471a-8796-f0d0e8035d97_video.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 650,
+      "heat": 670,
       "tags": null,
       "images": [
         {
@@ -1497,58 +1549,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-donald-trump-says-lebron-james-remarks-are-divisive-nasty-insulting.md",
-      "title": "Donald Trump Says LeBron James' Remarks are 'Divisive, Nasty, Insulting'",
-      "excerpt": "\"LeBron James should focus on basketball rather than presiding over the destruction of the NBA,\" the former president said. \"He may be a great basketball player, but he is doing nothing to bring our Country together.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-says-lebron-james-remarks-are-divisive-nasty-insulting-1585865",
-      "originalUrl": "https://www.newsweek.com/donald-trump-says-lebron-james-remarks-are-divisive-nasty-insulting-1585865",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1781934/donald-trump-lebron-james.jpg",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-says-lebron-james-remarks-are-divisive-nasty-insulting-1585865?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-lebron-james-remarks-are-divisive-nasty-insulting-1585865?amp=1",
-      "publishedDateTime": "2021-04-22T18:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
