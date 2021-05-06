@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden set to accept fewest refugees of any modern president, including Trump, report says"
-excerpt: "Since his days on the campaign trail, President Biden has tried to cast himself as diametrically opposed to former president Donald Trump when it comes to welcoming refugees into the United States. Within two weeks of taking office, Biden signed an ..."
-publishedDateTime: 2021-04-11T22:16:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-refugees-trump-policies-intact/2021/04/11/d3cd4c36-9aef-11eb-9d05-ae06f4529ece_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-refugees-trump-policies-intact/2021/04/11/d3cd4c36-9aef-11eb-9d05-ae06f4529ece_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-refugees-trump-policies-intact/2021/04/11/d3cd4c36-9aef-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-refugees-trump-policies-intact/2021/04/11/d3cd4c36-9aef-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
+title: "Biden hits schools goal even as many students learn remotely"
+excerpt: "President Joe Biden has met his goal of having most elementary and middle schools open for full, in-person learning in his first 100 days"
+publishedDateTime: 2021-05-06T03:04:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-hits-schools-goal-even-as-many-students-learn-remotely/2021/05/06/2372dc0e-ae20-11eb-82c1-896aca955bb9_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-hits-schools-goal-even-as-many-students-learn-remotely/2021/05/06/2372dc0e-ae20-11eb-82c1-896aca955bb9_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-hits-schools-goal-even-as-many-students-learn-remotely/2021/05/06/2372dc0e-ae20-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-hits-schools-goal-even-as-many-students-learn-remotely/2021/05/06/2372dc0e-ae20-11eb-82c1-896aca955bb9_story.html?outputType=amp"
 type: article
-quality: 131
+quality: 125
 heat: -1
 published: false
 
@@ -22,12 +22,12 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C3BRZFU3BYI6XAAFX76DUOPW2M.jpg&w=1440"
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3OMDTVOD4I6XAWBRFVMVFK3XE.jpg&w=1440"
     width: 1440
-    height: 810
+    height: 960
     isCached: true
 
 related:
@@ -382,6 +382,22 @@ related:
       - url: "https://i.insider.com/5fb66ea832f2170011f6ffa2?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden set to accept fewest refugees of any modern president, including Trump, report says"
+    excerpt: "Since his days on the campaign trail, President Biden has tried to cast himself as diametrically opposed to former president Donald Trump when it comes to welcoming refugees into the United States. Within two weeks of taking office, Biden signed an ..."
+    publishedDateTime: 2021-04-11T22:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-refugees-trump-policies-intact/2021/04/11/d3cd4c36-9aef-11eb-9d05-ae06f4529ece_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-refugees-trump-policies-intact/2021/04/11/d3cd4c36-9aef-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-refugees-trump-policies-intact/2021/04/11/d3cd4c36-9aef-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 131
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C3BRZFU3BYI6XAAFX76DUOPW2M.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Under Trump-era border rule that Biden has kept, few asylum-seekers can seek U.S. refuge"
     excerpt: "Just 0.3% of more than 600,000 migrants expelled by U.S. border officials under a pandemic-era policy have been allowed to pursue U.S. refuge."
@@ -828,22 +844,6 @@ related:
     quality: 125
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/74PF6CFM7YI6XAWBRFVMVFK3XE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden hits schools goal even as many students learn remotely"
-    excerpt: "President Joe Biden has met his goal of having most elementary and middle schools open for full, in-person learning in his first 100 days"
-    publishedDateTime: 2021-05-06T03:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-hits-schools-goal-even-as-many-students-learn-remotely/2021/05/06/2372dc0e-ae20-11eb-82c1-896aca955bb9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-hits-schools-goal-even-as-many-students-learn-remotely/2021/05/06/2372dc0e-ae20-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-hits-schools-goal-even-as-many-students-learn-remotely/2021/05/06/2372dc0e-ae20-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3OMDTVOD4I6XAWBRFVMVFK3XE.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -1511,6 +1511,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "3VUKjjtoeEB7Fo6A3Rfy1iu5LjlbMxme38hgVevTM4zJ5ZgSqVZ8FlQjjWP5DAnJGFa+yoO/nrO7JzswfdFPwimlrc9QGPqDfZHv2aWnEzFw76s8lE+l9/kZl6AsZEDJmKhONBvyqJr8xCv/FNttTtMRKzCW27jqNSPwgnpGp0BaD4HhK0dVr/8leBW9EjeGYknfa4vhuVpfwP8QyPsARY9AAAagT6AtaIjl/fM2qh7Ip6mIE1n/RYZX5DDKxha4+pR3bxwAuWtTB1s0OSb5KRmIKB8fiQQTP5Kb7vx7NXKD9Tesa5v+Yj7BkYkYRBmD1UWCJHPsaEzyO7t5EnSD/DZ2jyBBGQYMrHgHna+RxZgbcPVlXRPga2KLfU0IRpF5WfptUs4CEv4HGY3hb94xd2iGkaOiygoxC2kpfeJys4vkRdrj+BACigkSOWb/THE7kz4Wxpj9iTWX14OT/o5xSBg8crFgxJR1k1T+t8yvrVZhgHrIntolfZfED/fX07NZuJY1mro60Q7qOqMZ4bXt5Q==;jetW1rciso9cefaO2pj2Hw=="
+secured: "HP6rrOI679IePh5t3dwsF2NocgkKRHG7YlGa7r/hFaShI+S5CQtkz3Mm4FZ5x0pq+SWvPfauE0iPaHfo8AiZJeiR99zmqqSaCvUJJ8RLW94/3AI9DakJDzR6KiJ+UcCzzJhlN97zBvxBO860oGWhvoij7ih4XHZblNqXHu76RorzDvznVJ0ayovFnWHSXmU7bXa/af1Yv1cSUVABJYIwqyBZr5JrotX7sjh/dTA8jayaIIM3Kzsqxqzjcwj8k3a3Wbt8WcGio9xps1Gej+ZSfGCmoTEthbu9wgjHfbyOZ5QZvfms+NOeAbdotmcyH/YJJd4s5WYXrSzmXhFmStz4eSjHbe6Ekkt9wbnRb1e8b/Q=;Fz7Giau2kBrWkPO+Fm7k9g=="
 ---
 

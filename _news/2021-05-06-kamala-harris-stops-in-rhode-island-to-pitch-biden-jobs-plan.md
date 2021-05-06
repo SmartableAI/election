@@ -1,33 +1,29 @@
 ---
 category: news
-title: "No vice president has broken more Senate ties as soon as Kamala Harris"
-excerpt: "During the eight years that Joe Biden served as vice president to Barack Obama, he never cast a tiebreaking vote in the Senate. For eight years, Biden was just at the other end of Pennsylvania Avenue,"
-publishedDateTime: 2021-04-22T20:28:00Z
-originalUrl: "https://www.washingtonpost.com/politics/2021/04/22/no-vice-president-has-broken-more-senate-ties-soon-kamala-harris/"
-webUrl: "https://www.washingtonpost.com/politics/2021/04/22/no-vice-president-has-broken-more-senate-ties-soon-kamala-harris/"
-ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/22/no-vice-president-has-broken-more-senate-ties-soon-kamala-harris/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/22/no-vice-president-has-broken-more-senate-ties-soon-kamala-harris/?outputType=amp"
+title: "Kamala Harris stops in Rhode Island to pitch Biden jobs plan"
+excerpt: "Vice President Kamala Harris stopped by a local bookshop and participated in a business roundtable event during a visit to Rhode Island on Wednesday."
+publishedDateTime: 2021-05-06T00:48:00Z
+originalUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/"
+webUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/"
+ampWebUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/amp/"
+cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/amp/"
 type: article
-quality: 125
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Boston Herald
+  domain: bostonherald.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LKYH6GVDP4I6XMYUF2MTXWB6GE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://www.bostonherald.com/wp-content/uploads/2021/05/Harris_44221.jpg?w=1024&h=683"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -382,6 +378,22 @@ related:
       - url: "https://s.abcnews.com/images/Technology/WireAP_e78eea6a2fd94a338c306e2a872ac281_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "No vice president has broken more Senate ties as soon as Kamala Harris"
+    excerpt: "During the eight years that Joe Biden served as vice president to Barack Obama, he never cast a tiebreaking vote in the Senate. For eight years, Biden was just at the other end of Pennsylvania Avenue,"
+    publishedDateTime: 2021-04-22T20:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/04/22/no-vice-president-has-broken-more-senate-ties-soon-kamala-harris/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/04/22/no-vice-president-has-broken-more-senate-ties-soon-kamala-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/22/no-vice-president-has-broken-more-senate-ties-soon-kamala-harris/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LKYH6GVDP4I6XMYUF2MTXWB6GE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "World leaders join President Biden for Earth Day climate summit"
     excerpt: "More than 40 world leaders joined President Joe Biden for a two-day virtual summit in celebration of Earth Day. The focus of the event is finding ways to cut carbon emissions, which Mr. Biden says the U."
@@ -739,22 +751,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/1191619530385/2021/1/c3ee542b191655b27e185f65f93773a7/v1.5/Joe-Biden-Kamala-Harris-Prince-Harry-Meghan-Markle-join-Vax-Live.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Kamala Harris stops in Rhode Island to pitch Biden jobs plan"
-    excerpt: "Vice President Kamala Harris stopped by a local bookshop and participated in a business roundtable event during a visit to Rhode Island on Wednesday."
-    publishedDateTime: 2021-05-06T00:48:00Z
-    webUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/"
-    ampWebUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 90
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2021/05/Harris_44221.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
     excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"
@@ -1316,6 +1312,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "rgN5mamFuRmwuomJA6e3Bqq10B1FOm7dCM678i+SYiMsMMeyBUQr+7lv+fChAhUNYi3XJQ6fq//e3jRBaEFpDXBTlEjLxCf+KBcNrrqcpjb7E8YIv5oRW/S2oUn+X4YHyNAYPFbdVWk49kikHs4HqHnGemWGsBJHBokWurFDPBUrPG0UjAznmzV39XdEIZ5aa95ZbiPWTLfhlxtSB0eot2FyYMN3i1Z8Ft7TRQ+WmcrrYQ28/SAWH3X3mIS+lJ/3N4oic8UMf81JqpqsVNpCRc9tunnfpm3Nr5hKAgCME2/uxlSe3UQHbaZA1eDmWHa0RwwgoqjrYOMJLIahED2F4hbCDOxn+j8KhKgD5BLlwgg=;5JaadDLM426/YAKjWH9jmg=="
+secured: "xAWfYu1una1ELjMubRZTRkM8HUO7TKfRivJ5bkaXs0oOJcBvS6oEi28kR9exynLRhKL77qs/VulETklPCF1yEMJABFVgBSaeYH37HMlRz/5IQ+NZ0abY95rON+mk43Col50sRzx55WUSGBMgWQMJc0o7jAO7x152Hp+Jn3EJuHv8K5xj2EDXmbqIrfENeN+2yg5Yx6oHDwpzB33WumkQzPKFl1rYZAKAfVh3AFepXfh8KvfimQaLPXBd4/7UJyylbGAYh4rOmTFX1ByoOml5FeQDS0DtB6EVgM11r6RqHSokGispXK29K9vac3jR3xkzjY+vchtdv5zXUw1YcsOEGxkgj3V2YPvN0Nz/g4C2NYs=;ngwpklkEvLjMkl7gEU/kvQ=="
 ---
 

@@ -752,6 +752,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Kamala Harris stops in Rhode Island to pitch Biden jobs plan"
+    excerpt: "Vice President Kamala Harris stopped by a local bookshop and participated in a business roundtable event during a visit to Rhode Island on Wednesday."
+    publishedDateTime: 2021-05-06T00:48:00Z
+    webUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/"
+    ampWebUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 90
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2021/05/Harris_44221.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
     excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"
     publishedDateTime: 2021-04-21T22:37:00Z

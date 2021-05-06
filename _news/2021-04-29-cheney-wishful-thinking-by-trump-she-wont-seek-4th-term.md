@@ -33,19 +33,19 @@ images:
 related:
   - title: "Liz Cheney clings to GOP post as Trump endorses replacement"
     excerpt: "No. 3 House Republican Liz Cheney is clinging to her post as party leaders are lining up behind an heir apparent for her job"
-    publishedDateTime: 2021-05-06T00:25:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/cheney-toast-fight-trump-gop-future-77499425"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/cheney-toast-fight-trump-gop-future-77499425"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/cheney-toast-fight-trump-gop-future-77499425"
+    publishedDateTime: 2021-05-06T03:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Sports/WireAP_1c648ee9a8344c72a95c5b5ec703e505_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FAWQ2GVNVQI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "The crucial thing Liz Cheney’s GOP critics don’t say: She’s wrong about Trump"
     excerpt: "Liz Cheney (Wyo.) may not be long for House GOP leadership. After a failed attempt to oust the No. 3 GOP official following her vote to impeach President Donald Trump, the movement has again built steam following Cheney’s increasing efforts to distance her party from Trump and his false claims about a stolen 2020 election."

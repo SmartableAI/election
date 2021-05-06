@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 2090
+heat: 2110
 published: true
 
 provider:
@@ -829,6 +829,22 @@ related:
     quality: 125
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/74PF6CFM7YI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden hits schools goal even as many students learn remotely"
+    excerpt: "President Joe Biden has met his goal of having most elementary and middle schools open for full, in-person learning in his first 100 days"
+    publishedDateTime: 2021-05-06T03:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-hits-schools-goal-even-as-many-students-learn-remotely/2021/05/06/2372dc0e-ae20-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-hits-schools-goal-even-as-many-students-learn-remotely/2021/05/06/2372dc0e-ae20-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-hits-schools-goal-even-as-many-students-learn-remotely/2021/05/06/2372dc0e-ae20-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3OMDTVOD4I6XAWBRFVMVFK3XE.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
