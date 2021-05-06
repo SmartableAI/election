@@ -263,6 +263,20 @@ related:
         width: 1400
         height: 1047
         isCached: true
+  - title: "Washington Post is still fact-checking Joe Biden"
+    excerpt: "On April 28, political commentator Brandon Tatum posted an image to Facebook claiming that the Washington Post would no longer fact-check President Joe Biden. \"Washington Post end"
+    publishedDateTime: 2021-05-06T13:42:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/may/06/facebook-posts/washington-post-still-fact-checking-joe-biden/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
   - title: "President Joe Biden’s first 100 days: 53% approve of job performance, two-thirds approve of COVID efforts, new poll says"
     excerpt: "A majority of Americans approve of President Joe Biden ’s first 100 days on the job, with two-thirds supporting his handling of the COVID-19 pandemic, according to a new CNN poll. The poll results come as Biden prepares to deliver an address to Congress on Wednesday night,"
     publishedDateTime: 2021-04-28T12:57:00Z
@@ -280,6 +294,6 @@ related:
         height: 683
         isCached: true
 
-secured: "NEFlAwTHyieWdutTEmVSrPXqOhmEiYfZnkurcL/Ydedap/YJ0arzcRsXTM52nCaix002hyyNBi02yFfCmd2ewdXePEsV0fg5XznMvlD8WQq5id7AVb1fb3eIunQHH/m5EKSXakEd4nblAcah2vYfESfZq/P5NNGv9IGvX4QQocyMwQo5ztxLzrtJwN7k8PsDgP5V04s85E4AmNNR9IDGd2nE4Cm7t9upWKvV/Ga8m3ulsUgHa9er6zuDyutiR9sZpmsptwTCEvn1xNiGibSQIULt6L+MDe+ZogIjuoqnUgl7h5FH77DddQvioDvaIxdM6xmoP3hmxO9NVnCa26Zd5bkgaSNaguSCES7IGSTBwf8=;FgH+u3IVbbXt7V8G5HHumg=="
+secured: "Ty+LLeRGWB9bGq2CELtqDhns74b9LD8q0lULIHP3QdCnWliVO/DUGpg3MYBpXqeaSdEfgkhDxdyP7JOZDaiHs9B47pV4XPXK/Kn8bf324CKj4lXp7/TVsxC+63eNEoq54xdFg+wJtPu63CmepQCpTzjYHy+e3qVP+zk9VbjcaqoVjUCV0/kJ3x6yBPSg2L8Uq3288kd19hkxwDmJ1AU1XEXEST+U4VJd4fMH7f4BidTt63DMXBfEauzr2VhsxNyRVjjb22DyXwkCRwmL8jEmL4Wlj7s/G6CRL6fCFSsinnkSfL90+JoBBdjR5dW6n+Be4JCJ++3BhH1SHwVVx5LVDd4oQ4esP4Y24OzIkB5y3h+vf5ts/nX/L+uYhNWaIj8ZF1JDDW5C1yKcDkBCT5H6enqeH9/BWis9P1o4pt+XOHzj5zfYCUrUbQdp21n3hr1GyBMyyFQR6NQmXVmwxHvMeVcja/r56Qk4/ipACPXkmOU0kbbmH0miAEaNJptTRSpxq2AwH5+7eYNt4v3tGqx83w==;iuRCYOBs9hUH14K4+AyBmA=="
 ---
 

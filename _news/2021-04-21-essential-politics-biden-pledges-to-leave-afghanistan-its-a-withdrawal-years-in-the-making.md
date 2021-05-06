@@ -263,6 +263,20 @@ related:
         width: 1400
         height: 1047
         isCached: true
+  - title: "Washington Post is still fact-checking Joe Biden"
+    excerpt: "On April 28, political commentator Brandon Tatum posted an image to Facebook claiming that the Washington Post would no longer fact-check President Joe Biden. \"Washington Post end"
+    publishedDateTime: 2021-05-06T13:42:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/may/06/facebook-posts/washington-post-still-fact-checking-joe-biden/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
   - title: "President Joe Biden’s first 100 days: 53% approve of job performance, two-thirds approve of COVID efforts, new poll says"
     excerpt: "A majority of Americans approve of President Joe Biden ’s first 100 days on the job, with two-thirds supporting his handling of the COVID-19 pandemic, according to a new CNN poll. The poll results come as Biden prepares to deliver an address to Congress on Wednesday night,"
     publishedDateTime: 2021-04-28T12:57:00Z

@@ -159,6 +159,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Brian Stelter defends Facebook's decision to uphold Trump ban: His 'misconduct,' 'autocratic streak' caused it"
+    excerpt: "CNN's left-wing media guru Brian Stelter went to bat for Facebook following the tech giant's decision to uphold its ban of former President Trump"
+    publishedDateTime: 2021-05-06T02:52:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-brian-stelter-defends-facebook-trump-ban"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-brian-stelter-defends-facebook-trump-ban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-brian-stelter-defends-facebook-trump-ban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a69231ea-ddbb-4614-abbe-a9d2746fd492/57230d5d-ba9c-4fcc-8aca-a77d6ba9b456/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "/VODZGg1bmviYwGxbspvXBYiaCYa0YrBYkDk8keaErHuuKGlf6vVhS1EN8IrCgvRqx/fGvHYhgCiv3d/kvNDpTP9vwx9hMDZvu+R9CYSAbvmvCGYyLWYJ0nHLizNF7lJ/UsERP8t8R0xV3RvMNNQmQ8MCCZmpg96JbPqAVSYvjvHZlK1U6xR8m2p6RTJux3om2cGq5GVv3oIoOjwfoBanf7Cq1yqj7jA0cQa8D+ClC6GNbNx/44fFkbBi4UFn7DM1UI7nJAfc4Oop9MmzXwVNLL6GjJtvWMBaHSPdFSOrH/Ijz902ViRsgSSF0D7E83v8Z+3o1N5YxvoAYz5rKX2scXXuLnmB6gJnT3B/XP47Es=;c0Bt7bwJZyDt4IgVVkPIAA=="
 ---

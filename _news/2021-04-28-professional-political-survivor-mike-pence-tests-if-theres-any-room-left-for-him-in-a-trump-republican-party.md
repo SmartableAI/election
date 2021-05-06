@@ -140,6 +140,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump, Republicans express outrage over extension of Facebook ban"
+    excerpt: "Former White House chief of staff Mark Meadows lashed out at the social media platform while Rep. Lauren Boebert said Facebook will “pay the price” before deleting the tweet."
+    publishedDateTime: 2021-05-06T02:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-facebook-social-media-republicans/2021/05/05/919cb430-adb1-11eb-acd3-24b44a57093a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-facebook-social-media-republicans/2021/05/05/919cb430-adb1-11eb-acd3-24b44a57093a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-facebook-social-media-republicans/2021/05/05/919cb430-adb1-11eb-acd3-24b44a57093a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YS77EQVNWUI6XLGTES2EUVYJHI.jpg&w=1440"
+        width: 1440
+        height: 1856
+        isCached: true
   - title: "Facebook Oversight Board to Announce Decision on Donald Trump Ban on May 5"
     excerpt: "Former President Donald Trump could make a return to Facebook and Instagram very soon following an announcement by the body that oversees bans on content for the social media sites. The Oversight Board tweeted on Monday that they will reveal their decision on Trump's suspensions this Wednesday,"
     publishedDateTime: 2021-05-03T15:22:00Z

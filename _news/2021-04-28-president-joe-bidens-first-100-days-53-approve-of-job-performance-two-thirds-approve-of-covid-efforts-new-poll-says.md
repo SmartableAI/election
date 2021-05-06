@@ -275,6 +275,20 @@ related:
         width: 1400
         height: 1047
         isCached: true
+  - title: "Washington Post is still fact-checking Joe Biden"
+    excerpt: "On April 28, political commentator Brandon Tatum posted an image to Facebook claiming that the Washington Post would no longer fact-check President Joe Biden. \"Washington Post end"
+    publishedDateTime: 2021-05-06T13:42:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/may/06/facebook-posts/washington-post-still-fact-checking-joe-biden/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
 
 secured: "Go62wjZaEF6d01+4VJUDRZFtTenk325KevYVbUo02N5BjGyreS2Zc1uIaq/45Q5+THwPxhKn3cI0i8oakJKcJjylsKiC0VOOyGPG7oj1TlpCkaqk1LpJQHD2EHYztpQz6WzGyQAza09N4gUYVEeib6JHfE66Czeww8uK9Lsgt4hE6ofG0BWD3vvyhStM0PNxzDFsUXKOKvSsZfFKsvLr25PsFZpdbRqHfbGAXXKc3tLGAAOOIXQjANUh0M9jwBuziVqbNFvRO0po3WN6+SXaEqfXigEWwxEJcHI7vxZnS1gTsrN3e7N0c0p/Nk/0k2pf1WKYSlMGXzbCBl7qov3jAPA7gQ+yE89w4ZNpNH6buyU=;cnJadx/JR3ZUJU9QgcvdCQ=="
 ---

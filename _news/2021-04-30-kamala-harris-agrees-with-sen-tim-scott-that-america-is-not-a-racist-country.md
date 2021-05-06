@@ -95,6 +95,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Vice President Kamala Harris tours clean energy labs at Wisconsin college, touts Biden’s infrastructure plan"
+    excerpt: "Harris took part in a roundtable discussion about the investments in research and development proposed in President Joe Biden’s infrastructure jobs plan."
+    publishedDateTime: 2021-05-04T17:43:00Z
+    webUrl: "https://www.chicagotribune.com/midwest/ct-aud-nw-kamala-harris-wisconsin-visit-20210504-hcvl2kzksnepnagusmrix7kth4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/midwest/ct-aud-nw-kamala-harris-wisconsin-visit-20210504-hcvl2kzksnepnagusmrix7kth4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/midwest/ct-aud-nw-kamala-harris-wisconsin-visit-20210504-hcvl2kzksnepnagusmrix7kth4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 121
+    images:
+      - url: "https://www.chicagotribune.com/resizer/vRhrjMYBpgrGi1nWN12ygq0g7Mw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YR7NYDXIYOJLFIUM6WBSKSFIEY.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vice President Kamala Harris to tour clean energy labs at Wisconsin college Tuesday"
     excerpt: "Harris was also scheduled to participate in a roundtable discussion about the investments in research and development proposed in President Joe Biden’s infrastructure jobs plan."
     publishedDateTime: 2021-05-04T17:43:00Z

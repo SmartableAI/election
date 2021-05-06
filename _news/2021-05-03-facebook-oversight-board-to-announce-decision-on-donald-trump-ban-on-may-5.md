@@ -141,6 +141,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump, Republicans express outrage over extension of Facebook ban"
+    excerpt: "Former White House chief of staff Mark Meadows lashed out at the social media platform while Rep. Lauren Boebert said Facebook will “pay the price” before deleting the tweet."
+    publishedDateTime: 2021-05-06T02:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-facebook-social-media-republicans/2021/05/05/919cb430-adb1-11eb-acd3-24b44a57093a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-facebook-social-media-republicans/2021/05/05/919cb430-adb1-11eb-acd3-24b44a57093a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-facebook-social-media-republicans/2021/05/05/919cb430-adb1-11eb-acd3-24b44a57093a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YS77EQVNWUI6XLGTES2EUVYJHI.jpg&w=1440"
+        width: 1440
+        height: 1856
+        isCached: true
   - title: "Pentagon halts border wall construction paid for with defense funds redirected by Trump"
     excerpt: "In 2019, the Trump administration used Defense Department cash for border wall projects when Congress refused to fund them."
     publishedDateTime: 2021-05-01T11:16:00Z
