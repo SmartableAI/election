@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/cheney-sees-turning-point-party-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/cheney-sees-turning-point-party-turned-trump-note/story?id=77509792"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -47,7 +47,23 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Rep. Elise Stefanik, seeking Liz Cheney’s House leadership post, says Republicans must back Trump"
+    excerpt: "Rep. Elise Stefanik stated her case on on Steve Bannon’s podcast Thursday for replacing Rep. Liz Cheney as the No. 3 House Republican leader."
+    publishedDateTime: 2021-05-06T16:48:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republicans-elise-stefanik-liz-cheney-trump-20210506-nn4htwhewzfvxbiupizyb7qofq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republicans-elise-stefanik-liz-cheney-trump-20210506-nn4htwhewzfvxbiupizyb7qofq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-republicans-elise-stefanik-liz-cheney-trump-20210506-nn4htwhewzfvxbiupizyb7qofq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 112
+    images:
+      - url: "https://www.chicagotribune.com/resizer/FjIKfFFlvlxaPvZZdy6C_zXVBFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DNWPM37OTNDZ3DCSVKITMWEUWM"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "ZbsBzI9Byg0hI+A9divtLY0l4s5nPM9y2I+F3QHoCdznn13uT5ediIe61qv2MgLRiM0BFZ+m7alD2zMKkHiCLFw/l8KeMO1wVv1lOFYzq14rDAH9Pq5kdwnxEtdS3BuKU+BhdoYu5HC6UCVRTS+JKIacdUmPfLNopENjJSKogAMnjLbDjeQqTn/+L4Ff6OdFHe4TutegcilnzxTLb24povS3DXb66FsG2t2peG4aF6fut/WlHj/D+J8YH0eM+R1CwxD/6/eycHBfTOgq3elofvfDsET+wJ/B/QKm2ecMKZ4a8wlBX37u3ecrINuAuB8cA59aufMAutFVAZbhtiWjSJPIR39ot1eq59MubfcVpVQ=;WzSNdltrDIfg60Ja2q4uIA=="
+secured: "tK2LHgblg8Yme7HAnDwBRiUEXCW8EobKhAMt5wQ0QfXqnIPZkTwXmZjIDnk98Jvb58sYCvpNp9j+8b2EMme1CKKkPdafVGTDGS8Jza+BSX3wgdtWRMjGizK0F/Ucz4p/64umWeOD8Yvas0dVn4Rkrrq9z5ABZa5QDrmz88eA5U/UnWSUImgE/0wy1ycAvFiukjB4cG9X6XuS5OZn19t0Av7vAO8JopxTVOPBrhiHXB52KhnyXU51U41IqN2T0Pjm7jGvrlC468arytpIZgjhfsqwS8pcxudrSPcuIG1O5cY31NrF+TItAx3S/cegyjRZ9hOVKCviR8HW/gHIqlmYoq32QNRIafSWzLG+fk8UYf8Xaqhwxfcd0OvMaOsEIfO0YtHgGvzY8Wa4vWG7I62jVAwW+acyj8EeZxBcGThvNBVnvnSxxjeOW97KL4VYn7EF4is5Z8WRUFBoecVSGwijnwJB8wGe4KBsadpz1RezFQO2La2efrqlrm77G97sexC5hp1/bAwLt141T4sr2g2b3w==;nGdLtx+S+b91n6kCHp/1iw=="
 ---
 

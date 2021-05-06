@@ -909,6 +909,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "8 GOP senators oppose Biden amnesty program benefiting China, other foreign adversaries"
+    excerpt: "GOP senators are calling on the Biden administration to scrap a proposal for an amnesty program for U.S.-based scientists and academics who failed to disclose foreign support in securing federal research grants."
+    publishedDateTime: 2021-05-06T16:39:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cHspUjOsBDE/gop-senators-biden-amnesty-program-china"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-biden-amnesty-program-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-biden-amnesty-program-china.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Left-wing group dumps cow poop at White House entrance, demands Biden take climate action"
     excerpt: "Climate activists dissatisfied with President Biden's climate plan are not-so-subtly expressing their displeasure, as they are literally calling \"bull----\" while dumping cow manure in front of the White House."
     publishedDateTime: 2021-04-22T14:02:32Z

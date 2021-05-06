@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-06-stefanik-says-gop-needs-to-be-one-team-in-2022-is-committed-to-working-with-trump.md",
+      "title": "Stefanik says GOP needs to be 'one team' in 2022, is committed to working with Trump",
+      "excerpt": "Rep. Elise Stefanik said Thursday that Republicans need to work as \"one team\" in 2022 to win back the House of Representatives, comments made as she emerges as the favorite to replace Rep. Liz Cheney as the House Republican Conference chair.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/z7nmdw7v-ww/stefanik-republicans-one-team-working-with-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/z7nmdw7v-ww/stefanik-republicans-one-team-working-with-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/stefanik-republicans-one-team-working-with-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stefanik-republicans-one-team-working-with-trump.amp",
+      "publishedDateTime": "2021-05-06T09:44:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-liz-cheney-facing-gop-leadership-removal-takes-swipe-at-trump-cult.md",
       "title": "Liz Cheney, facing GOP leadership removal, takes swipe at Trump 'cult'",
       "excerpt": "Rep. Liz Cheney (R-WY) wrote that the Republican Party is at a \"turning point\" and must decide “whether we will join Trump’s crusade to delegitimize and undo the legal outcome of the 2020 election, with all the consequences that might have.”",
@@ -1508,7 +1564,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 2160,
+      "heat": 2180,
       "tags": null,
       "images": [
         {
@@ -1606,63 +1662,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-pence-simon-schuster-book-deal-sparks-war-of-words-inside-company.md",
-      "title": "Pence Simon & Schuster book deal sparks war of words inside company",
-      "excerpt": "The employee petition demanding Simon & Schuster cancel former Vice President Mike Pence's two-book deal is a sign of a growing political divide within an industry founded on freedom of speech, observers say.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5E0i7EUugzE/mike-pence-simon-schuster-book-deal-war-of-words-inside-company",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5E0i7EUugzE/mike-pence-simon-schuster-book-deal-war-of-words-inside-company",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/rh_laurengreen_0638_sg_cmyk.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mike-pence-simon-schuster-book-deal-war-of-words-inside-company.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pence-simon-schuster-book-deal-war-of-words-inside-company.amp",
-      "publishedDateTime": "2021-04-29T12:18:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

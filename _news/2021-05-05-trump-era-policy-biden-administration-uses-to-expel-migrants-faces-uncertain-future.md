@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/us-mexico-border-pandemi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/us-mexico-border-pandemic-policy/index.html"
 type: article
 quality: 183
-heat: 963
+heat: 983
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 181
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190909124239-01-donald-trump-0904-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Stefanik says she supports GOP review of Biden's Arizona victory as she stresses embrace of Trump"
+    excerpt: "Rep. Elise Stefanik, who appears on track to replace Rep. Liz Cheney as House GOP conference chair, stressed an embrace of former President Donald Trump and a message of unity for the Republican Party even as she faces attacks from one conservative group that she is insufficiently conservative.\n    \n"
+    publishedDateTime: 2021-05-06T17:33:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TrnPrE30O4Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/elise-stefanik-liz-cheney-republican-leadership/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/elise-stefanik-liz-cheney-republican-leadership/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505140701-04-rep-elise-stefanik-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

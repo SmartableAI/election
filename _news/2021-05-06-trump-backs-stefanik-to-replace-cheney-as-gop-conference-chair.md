@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Rep. Elise Stefanik, seeking Liz Cheney’s House leadership post, says Republicans must back Trump"
+    excerpt: "Rep. Elise Stefanik stated her case on on Steve Bannon’s podcast Thursday for replacing Rep. Liz Cheney as the No. 3 House Republican leader."
+    publishedDateTime: 2021-05-06T16:48:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republicans-elise-stefanik-liz-cheney-trump-20210506-nn4htwhewzfvxbiupizyb7qofq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republicans-elise-stefanik-liz-cheney-trump-20210506-nn4htwhewzfvxbiupizyb7qofq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-republicans-elise-stefanik-liz-cheney-trump-20210506-nn4htwhewzfvxbiupizyb7qofq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 112
+    images:
+      - url: "https://www.chicagotribune.com/resizer/FjIKfFFlvlxaPvZZdy6C_zXVBFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DNWPM37OTNDZ3DCSVKITMWEUWM"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "E6FgVA564jCdNoCEPvVmITY/4A/geNZgU+tXotrRX5DCnALuIYq8lufgndlU41+CWYHMs55fSIQjg4Mva666uBFH+P3vXCyquW5IALKovgalKKnMyuS7wEL6VKc842nXP31elLohWLBD4bDh2/SV2jI+nPc53RiQWrs/AF4MkN2cR76GEJTGIJIJ+TFCf9+WljnZmVM7nOGMSLeeMi2wVL5uzjP+lk0TREhv0Dxl+dBx/97aC6q/q9mJ5wCGqr/7LNsuK1StlxH2GZMEtkUkkYiOEUN1Nc2Sg7fI5Ag4WDxX+FXKRoTaXRKKzwayV7cl2fpUzqaKY+w0zS0TYDd66iKNaMTibm3Y2yOSV+TC4/BYMfSlSXEty0SrYGwIZ9uHFj3elHtW7symOgc0Dpb3KfG1mqOpaWhS9kuambAcjp7GA8nJ444N21B1doXp76TBEwnPo/kHTowEq+0GqMGWPkuIj/wVmOxKJvTHQCSHqBXUufAGcFgxYGCNB9pFYXEB55QvChsgCaUvrrzgAq/rLg==;OIbjSutAoOxXR804T3E7Dg=="
 ---

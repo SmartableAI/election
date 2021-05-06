@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Samantha Bee on GOP post-Trump: ‘Republicans eating each other alive’"
+    excerpt: "Late-night hosts discuss the GOP’s internecine war over Trump’s election lies, Facebook’s extension of Trump’s ban and the ex-president’s new blog"
+    publishedDateTime: 2021-05-06T15:34:00Z
+    webUrl: "https://www.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
+    ampWebUrl: "https://amp.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/c29a9135d769e4091474929113d593620084b91a/114_114_2542_1525/master/2542.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=847e93a77619edf2539744548c39bdda"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Republicans are said to be plotting to oust Liz Cheney from House leadership and replace her with a pro-Trump woman"
     excerpt: "Cheney, the third most senior House Republican, has been a vocal critic of former President Donald Trump."
     publishedDateTime: 2021-05-04T12:40:00Z

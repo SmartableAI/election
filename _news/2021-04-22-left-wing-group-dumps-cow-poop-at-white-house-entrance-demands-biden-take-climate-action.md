@@ -911,6 +911,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "8 GOP senators oppose Biden amnesty program benefiting China, other foreign adversaries"
+    excerpt: "GOP senators are calling on the Biden administration to scrap a proposal for an amnesty program for U.S.-based scientists and academics who failed to disclose foreign support in securing federal research grants."
+    publishedDateTime: 2021-05-06T16:39:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cHspUjOsBDE/gop-senators-biden-amnesty-program-china"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-biden-amnesty-program-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-biden-amnesty-program-china.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden to cite 'worst attack on our democracy since the Civil War' in address to Congress"
     excerpt: "President Biden Wednesday evening in his address to Congress, that he took over as president after \"the worst attack on our democracy since the Civil War,\" an apparent reference to the Jan. 6 assault on the U.S. Capitol."
     publishedDateTime: 2021-04-28T22:51:17Z

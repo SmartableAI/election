@@ -2,6 +2,54 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-02-tucker-carlson-biden-believes-in-crushing-civil-liberties-in-order-to-achieve-political-imperatives.md",
+      "title": "Tucker Carlson: Biden Believes In Crushing Civil Liberties In Order To Achieve Political Imperatives",
+      "excerpt": "Tucker Carlson's opening monologue on Joe Biden's address to the Joint Session of Congress: TUCKER CARLSON: Joe Biden spoke to a joint session of Congress Wednesday, night. If you saw it -- and relatively few people did,",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/04/30/tucker_carlson_joe_biden_says_hes_in_charge_and_will_brook_no_opposition.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/04/30/tucker_carlson_joe_biden_says_hes_in_charge_and_will_brook_no_opposition.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/542000.png",
+          "width": 500,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-02T00:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-02-nkorea-warns-us-of-very-grave-situation-over-biden-speech.md",
       "title": "NKorea warns US of 'very grave situation' over Biden speech",
       "excerpt": "North Korea has warned the United States will face “a very grave situation” because President Joe Biden “made a big blunder” in his recent speech by calling the North a security threat and revealing h",
@@ -1025,7 +1073,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/texas-special-election-poses-test-for-anti-trump-republicans/2021/04/30/38dd9c6c-a96d-11eb-a8a7-5f45ddcdf364_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1286,62 +1334,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-two-border-state-dems-break-with-biden-on-the-crisis-want-to-see-more-action.md",
-      "title": "Two border state Dems break with Biden on the crisis: 'Want to see more action'",
-      "excerpt": "Two border state Democratic senators say President Biden is not doing enough to address the ongoing border crisis. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JNnmXg8jt2I/senate-dems-biden-border-security",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JNnmXg8jt2I/senate-dems-biden-border-security",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d3999f0-05d5-42d3-85ce-11b71b6f0ca5/290ed328-1fa5-4854-9aa8-ac73dd07ceb0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/senate-dems-biden-border-security.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-dems-biden-border-security.amp",
-      "publishedDateTime": "2021-04-30T03:04:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

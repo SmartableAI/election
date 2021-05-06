@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/texas-special-election-poses
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/texas-special-election-poses-test-for-anti-trump-republicans/2021/04/30/38dd9c6c-a96d-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Entertainment/WireAP_31c3a5f964704f5eb205a7f35a3c5fb8_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Samantha Bee on GOP post-Trump: ‘Republicans eating each other alive’"
+    excerpt: "Late-night hosts discuss the GOP’s internecine war over Trump’s election lies, Facebook’s extension of Trump’s ban and the ex-president’s new blog"
+    publishedDateTime: 2021-05-06T15:34:00Z
+    webUrl: "https://www.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
+    ampWebUrl: "https://amp.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/c29a9135d769e4091474929113d593620084b91a/114_114_2542_1525/master/2542.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=847e93a77619edf2539744548c39bdda"
+        width: 600
+        height: 360
         isCached: true
   - title: "Donald Trump Claims His Susan Wright Endorsement Shut Democrats Out of Texas House Race"
     excerpt: "\"It would be nice, however, if the pundits and Fake News Media would state the real reason for this unprecedented (Democrats have never been shut out before) victory!\" Trump said."

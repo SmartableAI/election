@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump aides flood Senate and gubernatorial races as consultants and pollsters"
+    excerpt: "More than a dozen onetime aides and advisers to former President Donald Trump have signed on to assist Republicans competing in statewide and federal contests across the country, in some cases setting up potential showdowns in the months to come as they work to cast their candidates as the most Trump-aligned"
+    publishedDateTime: 2021-05-06T16:09:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9LlBXNsuBhc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/trump-aides-campaign-consultants/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/trump-aides-campaign-consultants/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003071645-kelly-conway-0124-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Mike Pence reemerges. But Trumpworld is moving on."
     excerpt: "The former VP spoke of the former president as a partner on Thursday night. But that partnership faces a difficult future."
     publishedDateTime: 2021-04-30T09:54:00Z

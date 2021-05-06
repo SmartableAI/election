@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Stefanik says she supports GOP review of Biden's Arizona victory as she stresses embrace of Trump"
+    excerpt: "Rep. Elise Stefanik, who appears on track to replace Rep. Liz Cheney as House GOP conference chair, stressed an embrace of former President Donald Trump and a message of unity for the Republican Party even as she faces attacks from one conservative group that she is insufficiently conservative.\n    \n"
+    publishedDateTime: 2021-05-06T17:33:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TrnPrE30O4Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/elise-stefanik-liz-cheney-republican-leadership/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/elise-stefanik-liz-cheney-republican-leadership/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505140701-04-rep-elise-stefanik-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "DOJ repeals Trump ban on grants to 'sanctuary cities'"
     excerpt: "The Justice Department has repealed a policy put in place during the Trump administration that restricted so-called sanctuary cities from receiving federal grants for criminal justice efforts.\n    \n"
     publishedDateTime: 2021-04-28T15:51:52Z
