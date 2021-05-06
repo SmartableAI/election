@@ -1414,6 +1414,22 @@ related:
         width: 375
         height: 815
         isCached: true
+  - title: "Biden's Economic Agenda May Be More Truman Than FDR"
+    excerpt: "Joe Biden's multitrillion-dollar plans to revive the economy, fix America's infrastructure and ease poverty have spawned comparisons between him and"
+    publishedDateTime: 2021-05-06T10:54:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/542529_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "NRA Ad Targets Sen. Joe Manchin: Reject President Biden's Gun Control Agenda"
     excerpt: "The National Rifle Association (NRA) launched an ad campaign opposing President Biden on gun control seeking to \"Stop Biden's gun grab.\" In this West Virginia ad, the NRA says: \"President Biden’s political machine is setting its"
     publishedDateTime: 2021-04-22T16:25:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-2024/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212145220-102-trump-file-play-button-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Liz Cheney's fall shows that Trump is here to stay"
+    excerpt: "The unmistakable message of Liz Cheney's downfall is that Donald Trump will be a dominant figure in the Republican Party -- and by extension American life -- most likely for years to come.\n    \n"
+    publishedDateTime: 2021-05-06T09:01:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8vM3rGmjBOo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/liz-cheney-donald-trump-gop/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/liz-cheney-donald-trump-gop/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505064319-01-liz-cheney-0203-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

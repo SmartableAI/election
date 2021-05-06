@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trum
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp"
 type: article
 quality: 175
-heat: 515
+heat: 535
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-334085/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Is Still Banned on YouTube. That Could Change."
+    excerpt: "The video-sharing service has provided limited information on its call to suspend the former president and has said it is continuing to monitor the threat of violence in the wake of the Capitol riot by his supporters."
+    publishedDateTime: 2021-05-06T09:30:00Z
+    webUrl: "https://www.wsj.com/articles/trump-is-still-banned-on-youtube-that-could-change-11620293402?mod=hp_lead_pos5"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-is-still-banned-on-youtube-that-could-change-11620293402"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-is-still-banned-on-youtube-that-could-change-11620293402"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-334082/social"
         width: 1280
         height: 640
         isCached: true

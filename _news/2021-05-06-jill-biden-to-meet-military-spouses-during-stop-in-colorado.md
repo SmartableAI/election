@@ -2,21 +2,21 @@
 category: news
 title: "Jill Biden to meet military spouses during stop in Colorado"
 excerpt: "First lady Jill Biden plans to visit military spouses at a Colorado military base in her last stop during a swing through the U.S. West"
-publishedDateTime: 2021-05-06T08:30:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-meet-military-spouses-stop-colorado-77525304"
-webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-meet-military-spouses-stop-colorado-77525304"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-meet-military-spouses-stop-colorado-77525304"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-meet-military-spouses-stop-colorado-77525304"
+publishedDateTime: 2021-05-06T04:05:00Z
+originalUrl: "https://www.washingtonpost.com/politics/jill-biden-to-meet-military-spouses-during-stop-in-colorado/2021/05/06/a035db76-ae28-11eb-82c1-896aca955bb9_story.html"
+webUrl: "https://www.washingtonpost.com/politics/jill-biden-to-meet-military-spouses-during-stop-in-colorado/2021/05/06/a035db76-ae28-11eb-82c1-896aca955bb9_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/jill-biden-to-meet-military-spouses-during-stop-in-colorado/2021/05/06/a035db76-ae28-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/jill-biden-to-meet-military-spouses-during-stop-in-colorado/2021/05/06/a035db76-ae28-11eb-82c1-896aca955bb9_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_0bdebb6defa34edab106f6a66b36c6bb_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TH23TXVOFAI6XAWBRFVMVFK3XE.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -280,6 +280,6 @@ related:
         height: 683
         isCached: true
 
-secured: "bvtQ6tmMui5sBV4rXFzuRGZ+HdEpa+tmVw8SuovhRB8SqwTecAT6mS8WUgOPK1ECv23IZi0P8/TylIa4M/9q/CtcktYOvFwQ+2PpPubg6AwrKK8waDK3iKOsjivxIJYF1i8CH9zXiLEcS1OnRYfTzXp6XIQzEIUIIPhgnrc5CaLomj6GMQUCFZeTZC8gYsY1LXVydFSdrPiY5MwYg8+aTlbAu7E29gsQtJgwAqeMkp5rMHqXhU9Cb0r//K1i+lxFLiOKreEJC5c3P0Uit9EVuAvT8M1yr7wj/C8i/VD+JkArQNm3CeG86BRqZ2rutSocYqOFr9JGuHRdivFDQecIGzyddFFbx/IqNq+aACsBwcQ=;fhaqGsSAx1UVX28UYk7C0g=="
+secured: "NEFlAwTHyieWdutTEmVSrPXqOhmEiYfZnkurcL/Ydedap/YJ0arzcRsXTM52nCaix002hyyNBi02yFfCmd2ewdXePEsV0fg5XznMvlD8WQq5id7AVb1fb3eIunQHH/m5EKSXakEd4nblAcah2vYfESfZq/P5NNGv9IGvX4QQocyMwQo5ztxLzrtJwN7k8PsDgP5V04s85E4AmNNR9IDGd2nE4Cm7t9upWKvV/Ga8m3ulsUgHa9er6zuDyutiR9sZpmsptwTCEvn1xNiGibSQIULt6L+MDe+ZogIjuoqnUgl7h5FH77DddQvioDvaIxdM6xmoP3hmxO9NVnCa26Zd5bkgaSNaguSCES7IGSTBwf8=;FgH+u3IVbbXt7V8G5HHumg=="
 ---
 

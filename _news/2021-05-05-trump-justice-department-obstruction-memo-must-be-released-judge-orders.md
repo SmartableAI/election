@@ -288,6 +288,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Is Still Banned on YouTube. That Could Change."
+    excerpt: "The video-sharing service has provided limited information on its call to suspend the former president and has said it is continuing to monitor the threat of violence in the wake of the Capitol riot by his supporters."
+    publishedDateTime: 2021-05-06T09:30:00Z
+    webUrl: "https://www.wsj.com/articles/trump-is-still-banned-on-youtube-that-could-change-11620293402?mod=hp_lead_pos5"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-is-still-banned-on-youtube-that-could-change-11620293402"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-is-still-banned-on-youtube-that-could-change-11620293402"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-334082/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Cuomo defends blocking release of true NY nursing home death toll, blames Trump DOJ"
     excerpt: "New York Gov. Andrew Cuomo pushed back after a New York Times report said his administration conducted a months-long effort to downplay the number of nursing home patients in the state who died from coronavirus."
     publishedDateTime: 2021-04-29T18:30:00Z

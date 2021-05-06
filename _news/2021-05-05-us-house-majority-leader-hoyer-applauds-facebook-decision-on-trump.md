@@ -87,6 +87,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Hill's Morning Report - Presented by Emergent BioSolutions - Facebook upholds Trump ban; GOP leaders back Stefanik to replace Cheney"
+    excerpt: "President Trump Donald Trump Caitlyn Jenner on Hannity touts Trump: 'He was a disruptor' Ivanka Trump doubles down on vaccine push with post celebrating second shot Conservative Club for Growth PAC comes out against Stefanik to replace Cheney MORE checks his phone on a golf course\" width=\"580\" height=\"387\" data-delta=\"2\"> Welcome to The Hill’s Morning Report."
+    publishedDateTime: 2021-05-06T10:24:00Z
+    webUrl: "https://thehill.com/homenews/morning-report/552067-the-hills-morning-report"
+    ampWebUrl: "https://thehill.com/homenews/morning-report/552067-the-hills-morning-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/552067-the-hills-morning-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 92
+    images:
+      - url: "https://thehill.com/sites/default/files/newsletter-trump_050621getty.jpg"
+        width: 580
+        height: 387
+        isCached: true
   - title: "EXPLAINER: Will Donald Trump return to Facebook?"
     excerpt: "Former President Donald Trump will find out whether he gets to return to Facebook on Wednesday, when the social network’s quasi-independent Oversight Board plans to announce its ruling in the high-profile case."
     publishedDateTime: 2021-05-04T18:46:00Z

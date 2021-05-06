@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Hill's Morning Report - Presented by Emergent BioSolutions - Facebook upholds Trump ban; GOP leaders back Stefanik to replace Cheney"
+    excerpt: "President Trump Donald Trump Caitlyn Jenner on Hannity touts Trump: 'He was a disruptor' Ivanka Trump doubles down on vaccine push with post celebrating second shot Conservative Club for Growth PAC comes out against Stefanik to replace Cheney MORE checks his phone on a golf course\" width=\"580\" height=\"387\" data-delta=\"2\"> Welcome to The Hill’s Morning Report."
+    publishedDateTime: 2021-05-06T10:24:00Z
+    webUrl: "https://thehill.com/homenews/morning-report/552067-the-hills-morning-report"
+    ampWebUrl: "https://thehill.com/homenews/morning-report/552067-the-hills-morning-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/552067-the-hills-morning-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 92
+    images:
+      - url: "https://thehill.com/sites/default/files/newsletter-trump_050621getty.jpg"
+        width: 580
+        height: 387
+        isCached: true
   - title: "Donald Trump's Facebook ban is permanent, social network's Oversight Board rules"
     excerpt: "Former President Donald Trump won’t return to Facebook. The social network’s quasi-independent Oversight Board has voted to permanently ban his account after it was suspended four months ago for inciting violence that led to the deadly Jan."
     publishedDateTime: 2021-05-05T13:05:00Z

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Liz Cheney's fall shows that Trump is here to stay"
+    excerpt: "The unmistakable message of Liz Cheney's downfall is that Donald Trump will be a dominant figure in the Republican Party -- and by extension American life -- most likely for years to come.\n    \n"
+    publishedDateTime: 2021-05-06T09:01:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8vM3rGmjBOo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/liz-cheney-donald-trump-gop/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/liz-cheney-donald-trump-gop/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505064319-01-liz-cheney-0203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Nikki Haley says she'll support and not challenge Trump if he runs in 2024"
     excerpt: "Former UN Ambassador Nikki Haley on Monday said she would back her onetime boss, former President Donald Trump, if he decides to run for the Republican Party's presidential nomination again in 2024 and not mount a bid against him.\n    \n"
     publishedDateTime: 2021-04-13T02:07:29Z

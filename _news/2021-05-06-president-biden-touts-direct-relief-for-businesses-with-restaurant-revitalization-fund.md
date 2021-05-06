@@ -1525,6 +1525,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "oYQqDG+a4Y01sQUW+Yh1wRja2k/3BgcaIsRAjjhZWAp2/I88Nmg3Pl134oZSDZ+TaR4fGkm6ZO1/QVhQXbuwvvL6joKIqoi9M/5twyh+vUSu+ulO80vHIuMg9xY+7P+S6m+jyyAdFbS4w2v0O0G7vJ8gBN9YxcvJRgh2g1eVefx7dXoHkMkUUNTuVyoysnoUVzVOxPHZxfHouSjbzHbQLA5E5ElJYKZAzBUK/r76ImHa0PhKWqa+Blydz+QWFTRVvELRVZgu/y4UnZiclEhZeUNo4J+s+crHLdEf1RUCTHQu3fNLNhiy3/XzWMZ2tovr3Tf0udxCx3GU9GG7GxNZBOTpr7GtxihECZ/md8FpnGk=;BhQ91oBUP8S0vhXPp1EtNw=="
+secured: "JcuH+7Dk0hjZgEc0ygkNtkduTbfWQ7FeX6wUx2SLH2vpMglzQensHCA/aG6SggGDKgP9PwJNG1GdAXukaeSmamqJ78GnVAjJ3wHREqIgi38D6oYOFNCQOhjipOkegKAl+rqog2tTvt4hTqsup8+qtMBHiSOzsBMWM5N9ZqWDsUQIsll0Aq149hEhl+CJh1Z+IN7N3i+G/GPysV6bGmP9gK90jW4Il9tghvhxdfLBwuoiK0icGbakrQzd9NohDTZmHPwHG+nEgcX51doWZBLJdgEZLpxx3bKyiqgRDl5VcmGJQrzgXiMPNH5ZPQCiwk/+NKsp6Zesvc00oGNmeBpXAZ0LELqBMeGht1a3mseqaIBoxqxgxw3c80LmRrzm6BSA+CqaoOzuxhn8MRG+cEmmwtYMDTeaRBSafAYK+hlsVS+L+LatyM0StDxmuqbsxPDPs92J1J2wJ68uL5TpBYhwwqEY6cf/Dkcz/t8o/n6W/DN+q8qs+Y3a4Z8y25rhyjJEuxhvC68mvXsO7IVDQztLRg==;NZ19Uele1F87wCQ+UcPeFQ=="
 ---
 
