@@ -153,6 +153,20 @@ related:
         width: 1024
         height: 731
         isCached: true
+  - title: "Trump Moves To Assert Party Control Despite Facebook Ban"
+    excerpt: "Social media has been his weapon of choice for battling Republican dissidents, but Donald Trump is seeking to tighten his iron grip on the party even after a ruling Wednesday extending his ban on Facebook."
+    publishedDateTime: 2021-05-06T00:08:00Z
+    webUrl: "https://www.ibtimes.com/trump-moves-assert-party-control-despite-facebook-ban-3193784"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/former-us-president-donald-trump-who-remains-the.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Donald Trump’s Facebook suspension upheld by Oversight Board; group calls on social media giant to conduct six-month review of case, policies"
     excerpt: "Former president Donald Trump will remain suspended from posting on Facebook, the world’s most popular social media platform, according to an independent Oversight Board. But the board, a diverse group of international experts in law,"
     publishedDateTime: 2021-05-05T13:14:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Fact Check-President Biden did not sign 96 executive orders in his first three months in office"
 excerpt: "In his first 100 days in office, President Joe Biden has not signed 96 executive orders. According to FederalRegister.gov, part of the United States National Archives, the Biden Administration had published 42 executive orders by April 27,"
 publishedDateTime: 2021-05-05T15:40:00Z
-originalUrl: "https://www.reuters.com/article/factcheck-biden-executive-orders/fact-check-president-biden-did-not-sign-96-executive-orders-in-his-first-three-months-in-office-idUSL1N2MS24C"
-webUrl: "https://www.reuters.com/article/factcheck-biden-executive-orders/fact-check-president-biden-did-not-sign-96-executive-orders-in-his-first-three-months-in-office-idUSL1N2MS24C"
+originalUrl: "https://www.reuters.com/article/factcheck-biden-executive-orders-idUSL1N2MS24C"
+webUrl: "https://www.reuters.com/article/factcheck-biden-executive-orders-idUSL1N2MS24C"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MS24C"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MS24C"
 type: article
@@ -184,6 +184,6 @@ related:
         height: 596
         isCached: true
 
-secured: "ibyc8i72hlAgpvsLQH10M0vJKeXu+k0v2mkp/Z9qBeEcj3KIbfhcT4iDPDfyJBEj1gC6E2Gu6iq7/1q+9fskXgpaOf4ECsG4TbkEGF8Fh1dAF1jHqqjcl8xaCPScswT/i6UXrKNTePgMM9WOq2vIomR00g3fnWBOQ4Vi5beYCVuMUXra7WqRpGibHpuM3LakkuNnDFGYqgrYviwRKiEw4bAsnf+Q3ZxQBFZ16XBBQyb/lJufJRSRe7XyGN3sS29exxbGQfI/rzV4cd8Y3VBxCnMEE3CL5GeQHDsiXkWqTdQGeyN3g6U9GbVVCPrPFogH607xysveMHsMhHpN3IiwLQ8nkYfTkxO0L+iWnj6DPw8=;Qx8JIazatR1OmS64/qnWKA=="
+secured: "H9269eay2UshVPwtgxztiZ3lQw3yjt+ufmBdQqacC0aMGGGpBZdhgHXNRU8x7HkpyvO46qiE1BS8S7GH1Bo6cYaEvHwy5f1vlDT04Q0k+orEyNogZifKxQ5xr2W2kLHpHofHY7TIbI4E3qg4W7Fppo1RvYSWsU6mRsw523bNbFgZGKlcBp5PWwrpgnKx4lurI29YfNOYT4MYri4aPWf9qcs+k6B6rk/+5hT+evrl5QWzDe5jlALjcTAvhWpRu4dw5M/D1ZcbBSrwOjjdslVQumtHStlMUzUb+fHBS6rmiqxpIg/hcI0VuJ/WDq9nea56LZ2mvTaDtQY+thCWnC9Ihex/XaQMduMc81ABQyDxQaE=;9fQHDwEfSbZb6g8k4iuqpA=="
 ---
 

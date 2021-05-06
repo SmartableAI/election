@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Liz Cheney clings to GOP post as Trump endorses replacement"
+    excerpt: "No. 3 House Republican Liz Cheney is clinging to her post as party leaders are lining up behind an heir apparent for her job"
+    publishedDateTime: 2021-05-06T00:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/cheney-toast-fight-trump-gop-future-77499425"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/cheney-toast-fight-trump-gop-future-77499425"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/cheney-toast-fight-trump-gop-future-77499425"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Sports/WireAP_1c648ee9a8344c72a95c5b5ec703e505_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Liz Cheney slams Trump's 'big lie' claim"
     excerpt: "Rep. Liz Cheney (R-Wyo.) pushed back May 3 against former president Donald Trump’s attempt to commandeer the term “Big Lie,” saying he is \"poisoning our democratic system\" with his persistent false claims that the 2020 election was \"stolen\" from him."
     publishedDateTime: 2021-05-03T21:28:00Z

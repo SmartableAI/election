@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Facebook board to decide today if former President Donald Trump can post again on the social media site"
-excerpt: "On Wednesday, his fate on Facebook, the biggest social platform around, will be decided. The company’s quasi-independent Oversight Board will announce its ruling around 9 a.m. ET. If it rules in Trump’s favor,"
-publishedDateTime: 2021-05-05T14:09:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-facebook-trump-decision-20210505-2cvwvvrzd5f5fawgmw652r34gu-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-facebook-trump-decision-20210505-2cvwvvrzd5f5fawgmw652r34gu-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-facebook-trump-decision-20210505-2cvwvvrzd5f5fawgmw652r34gu-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-facebook-trump-decision-20210505-2cvwvvrzd5f5fawgmw652r34gu-story.html?outputType=amp"
+title: "Trump Moves To Assert Party Control Despite Facebook Ban"
+excerpt: "Social media has been his weapon of choice for battling Republican dissidents, but Donald Trump is seeking to tighten his iron grip on the party even after a ruling Wednesday extending his ban on Facebook."
+publishedDateTime: 2021-05-06T00:08:00Z
+originalUrl: "https://www.ibtimes.com/trump-moves-assert-party-control-despite-facebook-ban-3193784"
+webUrl: "https://www.ibtimes.com/trump-moves-assert-party-control-despite-facebook-ban-3193784"
 type: article
-quality: 109
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/EdDUGwtzjwBcFovhqqYK-Scvjqw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZXEMQWNFPFACPHFROHLXQYAWMM.jpg"
-    width: 1200
-    height: 675
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/former-us-president-donald-trump-who-remains-the.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -78,6 +76,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SUC6YBUU2II6XKW4V54HAGRQZI.jpg&w=1440"
         width: 1440
         height: 901
+        isCached: true
+  - title: "Facebook board to decide today if former President Donald Trump can post again on the social media site"
+    excerpt: "On Wednesday, his fate on Facebook, the biggest social platform around, will be decided. The company’s quasi-independent Oversight Board will announce its ruling around 9 a.m. ET. If it rules in Trump’s favor,"
+    publishedDateTime: 2021-05-05T14:09:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-facebook-trump-decision-20210505-2cvwvvrzd5f5fawgmw652r34gu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-facebook-trump-decision-20210505-2cvwvvrzd5f5fawgmw652r34gu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-facebook-trump-decision-20210505-2cvwvvrzd5f5fawgmw652r34gu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
+    images:
+      - url: "https://www.chicagotribune.com/resizer/EdDUGwtzjwBcFovhqqYK-Scvjqw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZXEMQWNFPFACPHFROHLXQYAWMM.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "EXPLAINER: Will Donald Trump return to Facebook?"
     excerpt: "Former President Donald Trump will find out whether he gets to return to Facebook on Wednesday, when the social network’s quasi-independent Oversight Board plans to announce its ruling in the high-profile case."
@@ -139,20 +153,6 @@ related:
         width: 1024
         height: 731
         isCached: true
-  - title: "Trump Moves To Assert Party Control Despite Facebook Ban"
-    excerpt: "Social media has been his weapon of choice for battling Republican dissidents, but Donald Trump is seeking to tighten his iron grip on the party even after a ruling Wednesday extending his ban on Facebook."
-    publishedDateTime: 2021-05-06T00:08:00Z
-    webUrl: "https://www.ibtimes.com/trump-moves-assert-party-control-despite-facebook-ban-3193784"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/former-us-president-donald-trump-who-remains-the.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Facebook Board Upholds Donald Trump Suspension. Could His YouTube,Twitter Accounts Return?"
     excerpt: "Facebook has six months to decide whether Trump will return or be banned outright. What are his odds on other social media platforms?"
     publishedDateTime: 2021-05-05T16:24:00Z
@@ -202,6 +202,6 @@ related:
       domain: usnews.com
     quality: 24
 
-secured: "am/qJDUKlmYjdGt1Y9qIyVAUZ83+Sg1EEA18ogpYvfbBpQCpGIL7STRgifPnK5TBc8PHM+EcDGDlrD+t/zFINedj54MJSdRPQguWyEFmcTDopVlVT90z6uYWsIHPzYgimGoSquGcp+gT0TbkYF5Eg4Mg06I6+PkrJ/26cV1DQtRBgNqk/2bR9kWURC0HOQOOPWA/zwPdFi8K4bQjr10TUXEFPgFYxTd5koAxvhyLk07w1Lu2QzpM54G3IU3IiGxFULSWylDjKOW7n3A/Q9ICSIvBxQeXbLKqXLJXF2+DfbucltsB1YD8+RY7QZQ52W73Ufzfc3Du6Dg4aAUuVkmwsAJBRBYqksG84L6iSkj7KHnn9u3aSMbLBYHdPJjVpzxIRepKprHKecC3AxZaiKFG+oqtMZyrROVEsCPQJ6oIv7g/bzW9QayjC8ZeyWRY0Nk1FzYf1s8BdwUUrJSfoKbIsMY0S6txChVlK8+4ACxSY2Hg8tO3dzzPYLTQTbFLm7CENZc7Bih+vvDCQ+oIcuegpQ==;pULkZhFlB5dPUAYEhhJ2Og=="
+secured: "8+e5njgCfeQKlTZyp1RtUlzh81qshkEOWXxW3LUkQMnznuK6vv4qDlNhobOF/GeQ9qS5QDNnb+3H+01DcpWvn+3gOe9nFRLmeksBKzC8+GwxW721+wtFgQ9MjbLd9ma513dgYV7VKb1nVnojvBHTFukM4ttGC49CNDRt7HOc1t65GQSiLN87UAmb74pGDet65OOim5pg3dBc/ihNMckTMbG1TxiGogcAiveABNYVZeaRFzeFnWfoSOMp2LYrMpJ/opHCQ6WNslE6h4Js8YRm5NyKYWEnzfDyX+YivT3ljOn3VP+Qbep9QnGeGz+bibsXjfasQl+iEVemZMq+VuFJjPmPTNhvB+rCOHOdsIN61J8=;+gZeMOLtlJLRYPPpMgrTrA=="
 ---
 

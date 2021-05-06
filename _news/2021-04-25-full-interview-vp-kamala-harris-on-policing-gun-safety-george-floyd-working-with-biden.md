@@ -329,7 +329,7 @@ related:
   - title: "VP Kamala Harris: We Must Focus On \"Root Causes\" Of Migration Crisis In Central America"
     excerpt: "Vice President Kamala Harris spoke about the migration crisis in Latin America during remarks to the 51st annual Washington Conference on Tuesday. It is one of the first times she has discussed the idea in detail since the administration announced she would be spearheading efforts to stop a surge of immigrants on the Southern border."
     publishedDateTime: 2021-05-04T15:15:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.html"
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.html#!"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.amp.html"
     type: article

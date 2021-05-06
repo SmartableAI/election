@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Liz Cheney clings to GOP post as Trump endorses replacement"
+    excerpt: "No. 3 House Republican Liz Cheney is clinging to her post as party leaders are lining up behind an heir apparent for her job"
+    publishedDateTime: 2021-05-06T00:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/cheney-toast-fight-trump-gop-future-77499425"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/cheney-toast-fight-trump-gop-future-77499425"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/cheney-toast-fight-trump-gop-future-77499425"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Sports/WireAP_1c648ee9a8344c72a95c5b5ec703e505_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The crucial thing Liz Cheney’s GOP critics don’t say: She’s wrong about Trump"
     excerpt: "Liz Cheney (Wyo.) may not be long for House GOP leadership. After a failed attempt to oust the No. 3 GOP official following her vote to impeach President Donald Trump, the movement has again built steam following Cheney’s increasing efforts to distance her party from Trump and his false claims about a stolen 2020 election."
     publishedDateTime: 2021-05-04T15:49:00Z

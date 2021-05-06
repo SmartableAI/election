@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris: We Must Focus On \"Root Causes\" Of Migration Crisis In Central America"
 excerpt: "Vice President Kamala Harris spoke about the migration crisis in Latin America during remarks to the 51st annual Washington Conference on Tuesday. It is one of the first times she has discussed the idea in detail since the administration announced she would be spearheading efforts to stop a surge of immigrants on the Southern border."
 publishedDateTime: 2021-05-04T15:15:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.amp.html"
 type: article
@@ -357,6 +357,6 @@ related:
         height: 562
         isCached: true
 
-secured: "G2z7doGWh0Y1okdER1Zlw6QTnk8ub+QA3RHfXKznhBhm7Ax/fTTmLX53H/PzAD79zim13oVi7SzI6vOKjpqiqISxAaOKbrgM1e6GUOBZY7ZDEIo+SZghdz7HZR28ZXOMe12fYLxCdo8Bmd2fltv3zHNaQmI41ZMg3sZWlRQ2R1iAbhpJnPv9+We+PosXAOIbE0fbJVO4B9cFoMg2oL7Pc/JTTY/7OODSkz01AYV8ZTeWOou1i088PhEDqorSZr/b92yRYNRYgJnnrBx6/a8x0eqZaIeLVfMmPrBYoKMevajmW6KJksQqVZSKM9oZWQ2QfhI3A8jCp7XB9un+d/hBOOeroe0hIYSRv0PyVt5Mm42dgD7zloFOKnKnRh7QNSuKUp7aHSBYGeA3ob4mLEDHVSndxThw6PtModxPy6smQFUga9W2KkLYx7Tqj2rdhGv8xkWFaN6NwAugsaHgKgU7ztfOQRYF2MOuv3VSm0AzYUjdSCdKSnf6swnjBh1ZaM14Zjkudxhtj5yCCpGFCueQ/A==;nRr2PaOetQvOJbdfS/dAFw=="
+secured: "gPPEFnCt8r3kNW8CFwks4Ma3PclDiKjqdxjj8+6w1+AyW5nxgRKIl0uatM6+JoIgTTd6713QcIDHt7oiKacOar0rb3wCjeaAoBf3ArROlP8xHn3p5RjKle/vhEFNa2Pqn6OeNbgjJz86bggSCQ/u/Z9TY9rc97lJN7KkzDqLUh/qhTfU5pReK8kkCXZTxvz7+5sHe//XvEC8kwEKqLZzf3R+QcGMfzkn6f9tV81SonOFDf8y6vvxdGA0PnwoWOZwxx+VZSX+GJzXPaAXZUb2pJH6STYqDvoi9HNmHmrnODIMOizjIFvHU6Jc/yxi0OqicGTIOwF9a7a4Xh8G/BsjGAStYtWpvqvaLftNOZwe8fc=;XAhSW/meAoRXQgNt83sOBQ=="
 ---
 

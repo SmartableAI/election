@@ -32,21 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "The Point: Donald Trump may be banned from Facebook. But Trumpism dominates it."
-    excerpt: "The decision by the Facebook Oversight Board to uphold Donald Trump's ban from the social media behemoth was immediately celebrated by opponents of the the former Pesident, who saw the ruling as another step to putting him in the rear view mirror of our politics and our culture.\n    \n"
-    publishedDateTime: 2021-05-05T15:14:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/je22-6gO35w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/donald-trump-facebook/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/donald-trump-facebook/index.html"
+  - title: "Trump faces a narrow path to victory against Facebook suspension"
+    excerpt: "If former President Donald Trump manages to get back on Facebook and Instagram this month, his win will rest on a series of close calls. Facebook’s oversight board is expected to rule in the coming weeks on whether to uphold or overturn Trump’s ..."
+    publishedDateTime: 2021-04-09T22:56:00Z
+    webUrl: "https://www.politico.com/news/2021/04/09/trump-facebook-suspension-oversight-board-480671"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/09/trump-facebook-suspension-oversight-board-480671"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/09/trump-facebook-suspension-oversight-board-480671"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200629091038-mark-zuckerberg-0411-file-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/c9/e9/f0ff0b934e189519ffd7493b3913/210409-trump-phone-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Old Trump health team rivalries resurface in Texas House race"
+    excerpt: "A senior Trump health official’s bid to become the first administration alumnus elected to Congress is running into resistance from an unlikely source: his own former colleagues. Brian Harrison, a chief of staff to former Health and Human Services ..."
+    publishedDateTime: 2021-04-12T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/04/12/trump-health-texas-house-race-480689"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/04/12/trump-health-texas-house-race-480689"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/9f/95/6083ce4d4093a63bafe1c7155074/gettyimages-906623620-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Will Trump be allowed back on Facebook? This board will decide"
     excerpt: "The former president had his Facebook account cut off after the insurrection. But on Wednesday, Facebook's new oversight board will announce if he'll be allowed to use the platform again."
@@ -127,34 +143,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/05/06/business/06clegg/05clegg-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "‘It really f--ks the other ‘24 wannabes' — How Facebook could give Trump a huge boost"
-    excerpt: "Former President Donald Trump’s potential reemergence on Facebook this week could dramatically upend politics. But it’s not the megaphone the platform offers him — it’s the money. Trump has not been on Facebook since it booted him in the wake of his encouragement of the January 6 riots at the Capitol."
-    publishedDateTime: 2021-05-04T22:03:00Z
-    webUrl: "https://www.politico.com/news/2021/05/04/trump-facebook-social-media-return-485379"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 108
-    images:
-      - url: "https://static.politico.com/fc/90/4fe8e5f94ec8aa224e75bbc21d33/210504-trump-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "‘It really f**ks the other ‘24 wannabes' — How Facebook could give Trump a huge boost"
-    excerpt: "Donald Trump’s potential reemergence on Facebook this week could dramatically upend politics. But it’s not the megaphone the platform offers him — it’s the money. Trump has not been on Facebook since it booted him in the wake of his encouragement of the January 6 riots at the Capitol."
-    publishedDateTime: 2021-05-04T21:02:00Z
-    webUrl: "https://www.politico.com/news/2021/05/04/trump-facebook-social-media-return-485379"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 108
-    images:
-      - url: "https://static.politico.com/fc/90/4fe8e5f94ec8aa224e75bbc21d33/210504-trump-getty-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "E074tTK35v0JrLBY+lhrv3V3cpjBP5KFiUxdaGEpF71f0hyIKGc+501/kD7hkLTT0uCp6ZMlrXiDVmJkMYT9ZP8VCOb2Oh+UOpacmt3xbXP+7z7VG5hidTJCtaz2Iihw0MtiElhAMjdxosW+p1dEAdX1ldNTkYkCdPUnnW1t414vwfhxb1E7rMdXmXeX2esa73nCTWp2dO5bQdPe0KQL57wAb/gvIyXxVqeE4MPOPVJw70pDCRnVla/rmPhp71yB8u3VAw4ziRTMDe9PDNjXkSvermQJRjKRUqYw8G64l5wpLQhjDaWSj5HRMkgaPTzL87xKGGb4hu8xSLacpuuCc40aht0KMu4sTzNGq1bMuNU=;ZZvNJh2Sl0dIL5tG9UqJmw=="
