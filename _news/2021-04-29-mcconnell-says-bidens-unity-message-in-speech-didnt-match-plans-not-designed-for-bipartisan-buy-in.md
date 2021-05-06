@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "McConnell says 'real chance' Biden, Dems could work with GOP on 'bipartisan' infrastructure bill"
+    excerpt: "Senate Minority Leader Mitch McConnell said Thursday that there is a \"real chance\" some Democrats and the White House could work with Republicans to pass a \"bipartisan\" infrastructure bill, a shift from other comments he made this week that Republicans are \"100%\" focused on stopping President Biden."
+    publishedDateTime: 2021-05-06T18:56:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kq0tg-Mj6G4/mcconnell-bipartisan-infrastructure-bill-chances"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-bipartisan-infrastructure-bill-chances.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-bipartisan-infrastructure-bill-chances.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "McConnell, Republicans say Biden administration embrace of 1619 Project needs to stop: 'Divisive nonsense'"
     excerpt: "Senate Minority Leader Mitch McConnell and fellow Republicans are demanding President Biden's Education Department block a planned history education proposal that invokes the 1619 Project."
     publishedDateTime: 2021-04-30T20:00:17Z

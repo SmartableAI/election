@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Biden's first budget fuels health, education spending in sharp change from Trump"
-excerpt: "WASHINGTON (Reuters) -U.S. President Joe Biden asked Congress to sharply increase spending to combat climate change and gun violence and to support education in a budget that marks a sharp departure from his predecessor, Donald Trump. The $1.5 trillion ..."
-publishedDateTime: 2021-04-09T16:19:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-budget-idINKBN2BW190"
-webUrl: "https://www.reuters.com/article/us-usa-biden-budget-idINKBN2BW190"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BW190"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BW190"
+title: "Biden to push his big infrastructure plan in GOP stronghold"
+excerpt: "President Joe Biden will push the case for his $2.3 trillion infrastructure plan in the reliably Republican state of Louisiana"
+publishedDateTime: 2021-05-06T19:29:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-ready-to-sell-23t-infrastructure-plan-in-louisiana/2021/05/06/19baaeae-ae4c-11eb-82c1-896aca955bb9_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-ready-to-sell-23t-infrastructure-plan-in-louisiana/2021/05/06/19baaeae-ae4c-11eb-82c1-896aca955bb9_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-ready-to-sell-23t-infrastructure-plan-in-louisiana/2021/05/06/19baaeae-ae4c-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-ready-to-sell-23t-infrastructure-plan-in-louisiana/2021/05/06/19baaeae-ae4c-11eb-82c1-896aca955bb9_story.html?outputType=amp"
 type: article
-quality: 135
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557880138&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH380MD"
-    width: 860
-    height: 545
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LEUT3HFOPMI6XAWBRFVMVFK3XE.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -333,6 +333,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210503&t=2&i=1560737159&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH42093"
         width: 817
+        height: 545
+        isCached: true
+  - title: "Biden's first budget fuels health, education spending in sharp change from Trump"
+    excerpt: "WASHINGTON (Reuters) -U.S. President Joe Biden asked Congress to sharply increase spending to combat climate change and gun violence and to support education in a budget that marks a sharp departure from his predecessor, Donald Trump. The $1.5 trillion ..."
+    publishedDateTime: 2021-04-09T16:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-budget-idINKBN2BW190"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2BW190"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2BW190"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210409&t=2&i=1557880138&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH380MD"
+        width: 860
         height: 545
         isCached: true
   - title: "Trump gutted Obama-era housing discrimination rules. Biden’s bringing them back."
@@ -878,22 +894,6 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe_05042021getty.png"
         width: 980
         height: 551
-        isCached: true
-  - title: "Biden to push his big infrastructure plan in GOP stronghold"
-    excerpt: "President Joe Biden will push the case for his $2.3 trillion infrastructure plan in the reliably Republican state of Louisiana"
-    publishedDateTime: 2021-05-06T19:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-ready-to-sell-23t-infrastructure-plan-in-louisiana/2021/05/06/19baaeae-ae4c-11eb-82c1-896aca955bb9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-ready-to-sell-23t-infrastructure-plan-in-louisiana/2021/05/06/19baaeae-ae4c-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-ready-to-sell-23t-infrastructure-plan-in-louisiana/2021/05/06/19baaeae-ae4c-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LEUT3HFOPMI6XAWBRFVMVFK3XE.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Cheney drama exposes GOP's Trump rifts"
     excerpt: "The days-long drama over Rep. Liz Cheney (R-Wyo.) is exposing deep rifts in the party about its most prominent member: Donald Trump."
@@ -1557,6 +1557,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "hpoEkdl3PEdC4igZyS92WVxPQ5g4a2smKzpQuiuofpBiq4tzFnL1yar+nH8fArwXEDo8uBpZSCLK93a/JPY09pQWjmo7hfC2ml5S/9D/+O3xQyfwIIZ0Wl50evZy5TZHqX9NOU67vT8NjX+0HgBEdLVkpSo4Q3Lg62iSe6gZhwitg+hDr9HQQnlgPiuTjLfUCOhTJ/ZLHjYn0h5CgmggvNGCH8WuGinkKJTfuP0grKZV3xeWv6L0RGp9u8ah6I9VfjdFxtwdOroh7jxeWtTA2U0PW1XWJJQj5um2XTo2VQ9nREsh8pBL3QzSSkYvNkjsXqe86Tm0Y/xbC1AzmiAbGRKXRhHKs873aTGkOqhExHY=;WfCQwps91Q597g83mfBZ/Q=="
+secured: "CuIzFDdMNt9Id7Aa7RhvQHXD/aQz6aRXxUpeBbDHT0LsYAhQfTn6Aoa57glqyvLeedXVfdP4M/5i4kiBGypfnnA3E8PEqqTc0GmVVhTfz1bZBTK5B8P/QB2pY6vPaVl2Foj5EsvuhftY535D+p/TPVgGKVbJwLv6CGupd9njVBNXJizDo253kn/qVhh8Wm2fD73Js++UV0XVDr/doITHwQxrINniIjjgC0NtdrJpQ+nYbXlXvx3tUI4/HSEhxrAxVbV6G+rQdjavnsfzhIqrNjBs8TnAG3LPD121sqGGD+eu+/zTf93TFIXHc1GrvjjC4kdm/YAsXfwq85DeV5DYuT6YmsBLiFBAeOlOysBdFI4=;6Ps2oNw7fdv29tqGjT0QzA=="
 ---
 

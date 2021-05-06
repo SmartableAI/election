@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump supports Elise Stefanik for House GOP conference chair amid Liz Cheney feud: sources"
-excerpt: "Former President Donald Trump supports Rep. Elise Stefanik to replace Rep. Liz Cheney as the House Republican conference chair, sources close to the former president tell Fox News. "
-publishedDateTime: 2021-05-05T13:31:26Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGBDKsL-pBo/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGBDKsL-pBo/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud"
-ampWebUrl: "https://www.foxnews.com/politics/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud.amp"
+title: "Kim Strassel: Trump sending mixed message with Liz Cheney fight"
+excerpt: "Guests: Kim Strassel, Charlie Gasparino, Kat Timpf, Mike Gunzelman, Greg Gianforte, Danielle McLaughlin, Amie Parnes"
+publishedDateTime: 2021-05-06T18:25:00Z
+originalUrl: "https://www.foxnews.com/transcript/kim-strassel-trump-sending-mixed-message-with-liz-cheney-fight"
+webUrl: "https://www.foxnews.com/transcript/kim-strassel-trump-sending-mixed-message-with-liz-cheney-fight"
+ampWebUrl: "https://www.foxnews.com/transcript/kim-strassel-trump-sending-mixed-message-with-liz-cheney-fight.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/kim-strassel-trump-sending-mixed-message-with-liz-cheney-fight.amp"
 type: article
-quality: 165
+quality: 135
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/066ef194-6d0e-4085-a047-ca65a806a5ca/02d8da0b-b1da-4209-8830-bc9b3531275b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -79,6 +80,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump supports Elise Stefanik for House GOP conference chair amid Liz Cheney feud: sources"
+    excerpt: "Former President Donald Trump supports Rep. Elise Stefanik to replace Rep. Liz Cheney as the House Republican conference chair, sources close to the former president tell Fox News. "
+    publishedDateTime: 2021-05-05T13:31:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGBDKsL-pBo/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Cheney says she'll campaign on impeaching Trump 'every day of the week' amid primary challenges"
     excerpt: "Rep. Liz Cheney said in an interview with Punchbowl News Thursday that she will stand behind her vote to impeach former President Donald Trump \"every day of the week\" as she faces multiple primary challengers in her 2022 reelection effort. "
     publishedDateTime: 2021-04-29T15:05:34Z
@@ -111,22 +128,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Kim Strassel: Trump sending mixed message with Liz Cheney fight"
-    excerpt: "Guests: Kim Strassel, Charlie Gasparino, Kat Timpf, Mike Gunzelman, Greg Gianforte, Danielle McLaughlin, Amie Parnes"
-    publishedDateTime: 2021-05-06T18:25:00Z
-    webUrl: "https://www.foxnews.com/transcript/kim-strassel-trump-sending-mixed-message-with-liz-cheney-fight"
-    ampWebUrl: "https://www.foxnews.com/transcript/kim-strassel-trump-sending-mixed-message-with-liz-cheney-fight.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/kim-strassel-trump-sending-mixed-message-with-liz-cheney-fight.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/066ef194-6d0e-4085-a047-ca65a806a5ca/02d8da0b-b1da-4209-8830-bc9b3531275b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "NYT's Tom Friedman: Liz Cheney And Mitt Romney Are Defending Democracy From Trump's \"Gigantic Lie\""
     excerpt: "New York Times columnist Thomas Friedman warned there would be \"people in the streets\" if Republicans who believe President Trump's \"big lie\" about voter fraud in the 2020 election during an appearance Monday with CNN's Anderson Cooper."
     publishedDateTime: 2021-05-04T14:53:00Z
@@ -142,6 +143,6 @@ related:
         height: 600
         isCached: true
 
-secured: "hpKNShuE2eJeyQ8PBN12TpwZM+RqUU8Bb1K4hvjw1yaiLDE+Vc0cIJtduQMDgvZ3ohliGeFxgrhAUnzl5W8S2eYVUZsGs7D9ehstX0872F88Ab0tV/nDrxxRYhfMq5dBzhQ885EDoX8LWG09++ae1TrJMuHv9ym186iEmyT8cKqLTIST2Q6jgiql4VpJCtrIbGg62grjviJyge+yPPEjpMZxOap5Mu4Gq+OF2/Ct1dfdUk5idcBW13e0h/vrRurNHikwqeXnYQc5tUbIAVLHI+pdw4wYjLopFtCSxUsWscvZdf9xhYgsjrXcGExKFTMRSCJcOvO85AEhJ6E4+5BqyR5p1VqVpq03gD72fkraHQI=;jAwoU+AOEoGxGl1R+07SIw=="
+secured: "g5bHqliszxJFrMP2IToUnTbBxzAcn0Sb0S3jJCNZAk6J49EqVq4jv8Q+znEyv/59fm68zgBtwaf8SAX9n0wbSEwRK5zE2sVnZndRK5W/CdPJoqPtTbAU8tR2ivIYnEdLKhMOJm2l/7DIGlLrnX/mzyqpz6qlUIes5/5Fl92u059VF1+Z0tKDpsvjeGdSOkUF1eM0kr+Dbk2H/iirpNFbb89xHFT1ws104+7kXPBzdONvTz+DlK8TLm4lXEz+vg627LeEn+tQT98h/v2c7aCxpqeHhtOW+LW0/GgmJxXfanlD0zk2mxa/jynHMMnQjfKU7fZ3izX0mhG3eyEy4KuACvvpxyQyMU2rYt0zkPLWHcI=;j9FkBMvKURC82rMdOvc/Rg=="
 ---
 

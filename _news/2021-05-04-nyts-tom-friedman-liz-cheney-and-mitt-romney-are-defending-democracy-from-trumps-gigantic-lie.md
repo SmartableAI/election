@@ -106,6 +106,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Elise Stefanik Embraces GOP’s Pro-Trump Wing in Leadership Campaign"
+    excerpt: "New York congresswoman is seeking to succeed Liz Cheney, who has criticized the former president over his claims the election was stolen and the Jan. 6 Capitol riot by his supporters."
+    publishedDateTime: 2021-05-06T19:38:00Z
+    webUrl: "https://www.wsj.com/articles/elise-stefanik-embraces-gops-pro-trump-wing-in-leadership-campaign-11620329921"
+    ampWebUrl: "https://www.wsj.com/amp/articles/elise-stefanik-embraces-gops-pro-trump-wing-in-leadership-campaign-11620329921"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/elise-stefanik-embraces-gops-pro-trump-wing-in-leadership-campaign-11620329921"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-334869/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Kim Strassel: Trump sending mixed message with Liz Cheney fight"
+    excerpt: "Guests: Kim Strassel, Charlie Gasparino, Kat Timpf, Mike Gunzelman, Greg Gianforte, Danielle McLaughlin, Amie Parnes"
+    publishedDateTime: 2021-05-06T18:25:00Z
+    webUrl: "https://www.foxnews.com/transcript/kim-strassel-trump-sending-mixed-message-with-liz-cheney-fight"
+    ampWebUrl: "https://www.foxnews.com/transcript/kim-strassel-trump-sending-mixed-message-with-liz-cheney-fight.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/kim-strassel-trump-sending-mixed-message-with-liz-cheney-fight.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/066ef194-6d0e-4085-a047-ca65a806a5ca/02d8da0b-b1da-4209-8830-bc9b3531275b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "RQB1EZclklr0gp8VbLg8dd9v/jfP/eSLI05AZ3I4YPSfQjYD53naSXmee9SaC/oxjh6KR+BcalAohvhgrTnAlB6JATeLeEX2FMGKUQDSzj5LEYdY1ZBczqrvPsReaULGi8hVlqPUsZAGP/vNGYyqyXP1gw6bWG4dC5PXVLVKusT8B6Hz5UlNxiJ7krwuP0Jla7TmQVzv3G2IcVufMa1BWl/Y5zItjYStwHH7tE4xHro3TOAwYGMvJdHUEHvBHzUyHv9xRwbOTMqaHmU+Ama4jbuhD1zNgNU+cOwad/UDwbq8pld4koKmJgRYelmX8Jdp+BueEzpy/rouUMFOSnnsD0OFs0MrqZ1mD9bg/s6dqCH6lqgHn9KO1j4Ax6gAn+S5yRq4V9KpWPFLxb6HDegaDVfendzxydc0o6q3ndvQGl0W0SQYm2261LQ3uPXLgh0/+IeQa1T641kdprUNz+hPrdOqsp4KVdwN/tU/BnhaV1YuZhe+UzUIyngTxkPcuCZnbo2KgU8Fj4noxmckB2r6zQ==;bY/F0F0CP90OfwHKzBJzVg=="
 ---

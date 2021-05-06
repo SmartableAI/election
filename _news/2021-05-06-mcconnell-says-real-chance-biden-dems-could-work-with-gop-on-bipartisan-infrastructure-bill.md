@@ -1,12 +1,14 @@
 ---
 category: news
-title: "McConnell, Republicans say Biden administration embrace of 1619 Project needs to stop: 'Divisive nonsense'"
-excerpt: "Senate Minority Leader Mitch McConnell and fellow Republicans are demanding President Biden's Education Department block a planned history education proposal that invokes the 1619 Project."
-publishedDateTime: 2021-04-30T20:00:17Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lw2a-rikXg8/mcconnell-republicans-biden-1619-project"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lw2a-rikXg8/mcconnell-republicans-biden-1619-project"
+title: "McConnell says 'real chance' Biden, Dems could work with GOP on 'bipartisan' infrastructure bill"
+excerpt: "Senate Minority Leader Mitch McConnell said Thursday that there is a \"real chance\" some Democrats and the White House could work with Republicans to pass a \"bipartisan\" infrastructure bill, a shift from other comments he made this week that Republicans are \"100%\" focused on stopping President Biden."
+publishedDateTime: 2021-05-06T18:56:07Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kq0tg-Mj6G4/mcconnell-bipartisan-infrastructure-bill-chances"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kq0tg-Mj6G4/mcconnell-bipartisan-infrastructure-bill-chances"
+ampWebUrl: "https://www.foxnews.com/politics/mcconnell-bipartisan-infrastructure-bill-chances.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-bipartisan-infrastructure-bill-chances.amp"
 type: article
-quality: 137
+quality: 162
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/mcconnell-thumb.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -61,22 +63,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "McConnell says 'real chance' Biden, Dems could work with GOP on 'bipartisan' infrastructure bill"
-    excerpt: "Senate Minority Leader Mitch McConnell said Thursday that there is a \"real chance\" some Democrats and the White House could work with Republicans to pass a \"bipartisan\" infrastructure bill, a shift from other comments he made this week that Republicans are \"100%\" focused on stopping President Biden."
-    publishedDateTime: 2021-05-06T18:56:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kq0tg-Mj6G4/mcconnell-bipartisan-infrastructure-bill-chances"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-bipartisan-infrastructure-bill-chances.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-bipartisan-infrastructure-bill-chances.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "McConnell says Biden's unity message in speech didn't match plans not 'designed' for 'bipartisan buy-in'"
     excerpt: "Senate Minority Leader Mitch McConnell said on Thursday that President Biden's address to a joint session of Congress showed the president is not serious about seeking bipartisan compromise despite his \"understated\" tone."
     publishedDateTime: 2021-04-29T18:00:19Z
@@ -93,7 +79,21 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "McConnell, Republicans say Biden administration embrace of 1619 Project needs to stop: 'Divisive nonsense'"
+    excerpt: "Senate Minority Leader Mitch McConnell and fellow Republicans are demanding President Biden's Education Department block a planned history education proposal that invokes the 1619 Project."
+    publishedDateTime: 2021-04-30T20:00:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lw2a-rikXg8/mcconnell-republicans-biden-1619-project"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 137
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/mcconnell-thumb.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "C+g0MhlduNyYC4uup7FLmP6V4KyrttDM1Jspbe62fg6VaS29W5+Hay6rLzo5In41iIml05sMH5JaJkWAnV1gfhcfm8KLnnyraAMTDwrv7L3gx3a5tMAB/zvSFAtDjuWRn1w5c0aWZZ0KJb4XTjdFN5GHUQQOjr1sVnyYBtUCniwNgKbQJCej4/LpzkfOTuukbf79MsdoLQ2PVZDrzdc7hlh/rmTEHt+5Odw//qfn1+Hkz/Cx6dy5e0vw/NS8bywuflPvpt54ZOWaBuS9uiApx4Vb+rnwlUAzKsABfcCgL0t56gA1X3nIqs3P2okbaUoHv3wtyWyV+4E4R16cP2rMQIGzmzIu1JUKY1pVZUnIet0=;WY78rHjM0GA68+qZd7EPtQ=="
+secured: "we1qy0b1AMHzYfz0jakCu1VILBM9ZwqRa9FxFJeQRjHBQI95vw6Sue1TuEKU9K3He3CiOREn88Y4fKkgVRxCpNGKZ1c324wFIH/mz+yDfpCr1pyjLvpSvFuvC9nJyf2NnCStvbeOrZpagv6LUCzkF7BWwRpAzZiLiVogzinhCo7a2qzY9GtQYx1Whk92f0y4eODvHp3V5EztjmY5fkc8IVawD8/ACv03qABnnQwIt0cMhkUd8KWvvoox3O3hNI6TM+BEdnPCIwTSUL73m2F41E3hHqSVYOpVVZT/PWpOHwcI6cJpI3eCSFPOQ7XLCYDGLYlOzc8KCWyNQtEOZ59snQ+c5EZ+ClZIa4WkcEm938Q=;3OP5Cn71Mcxv+3Ugy3Z7fQ=="
 ---
 

@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Trump supports Elise Stefanik for House GOP conference chair amid Liz Cheney feud: sources"
-excerpt: "Former President Donald Trump supports Rep. Elise Stefanik to replace Rep. Liz Cheney as the House Republican conference chair, sources close to the former president tell Fox News. "
-publishedDateTime: 2021-05-05T13:31:26Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGBDKsL-pBo/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGBDKsL-pBo/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud"
-ampWebUrl: "https://www.foxnews.com/politics/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud.amp"
+title: "Elise Stefanik Embraces GOP’s Pro-Trump Wing in Leadership Campaign"
+excerpt: "New York congresswoman is seeking to succeed Liz Cheney, who has criticized the former president over his claims the election was stolen and the Jan. 6 Capitol riot by his supporters."
+publishedDateTime: 2021-05-06T19:38:00Z
+originalUrl: "https://www.wsj.com/articles/elise-stefanik-embraces-gops-pro-trump-wing-in-leadership-campaign-11620329921"
+webUrl: "https://www.wsj.com/articles/elise-stefanik-embraces-gops-pro-trump-wing-in-leadership-campaign-11620329921"
+ampWebUrl: "https://www.wsj.com/amp/articles/elise-stefanik-embraces-gops-pro-trump-wing-in-leadership-campaign-11620329921"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/elise-stefanik-embraces-gops-pro-trump-wing-in-leadership-campaign-11620329921"
 type: article
-quality: 165
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
+  name: Wall Street Journal
+  domain: wsj.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://images.wsj.net/im-334869/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -79,6 +80,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump supports Elise Stefanik for House GOP conference chair amid Liz Cheney feud: sources"
+    excerpt: "Former President Donald Trump supports Rep. Elise Stefanik to replace Rep. Liz Cheney as the House Republican conference chair, sources close to the former president tell Fox News. "
+    publishedDateTime: 2021-05-05T13:31:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xGBDKsL-pBo/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supports-elise-stefanik-house-gop-conference-chair-liz-cheney-feud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Cheney says she'll campaign on impeaching Trump 'every day of the week' amid primary challenges"
     excerpt: "Rep. Liz Cheney said in an interview with Punchbowl News Thursday that she will stand behind her vote to impeach former President Donald Trump \"every day of the week\" as she faces multiple primary challengers in her 2022 reelection effort. "
     publishedDateTime: 2021-04-29T15:05:34Z
@@ -94,22 +111,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Elise Stefanik Embraces GOP’s Pro-Trump Wing in Leadership Campaign"
-    excerpt: "New York congresswoman is seeking to succeed Liz Cheney, who has criticized the former president over his claims the election was stolen and the Jan. 6 Capitol riot by his supporters."
-    publishedDateTime: 2021-05-06T19:38:00Z
-    webUrl: "https://www.wsj.com/articles/elise-stefanik-embraces-gops-pro-trump-wing-in-leadership-campaign-11620329921"
-    ampWebUrl: "https://www.wsj.com/amp/articles/elise-stefanik-embraces-gops-pro-trump-wing-in-leadership-campaign-11620329921"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/elise-stefanik-embraces-gops-pro-trump-wing-in-leadership-campaign-11620329921"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-334869/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Kim Strassel: Trump sending mixed message with Liz Cheney fight"
     excerpt: "Guests: Kim Strassel, Charlie Gasparino, Kat Timpf, Mike Gunzelman, Greg Gianforte, Danielle McLaughlin, Amie Parnes"
@@ -142,6 +143,6 @@ related:
         height: 600
         isCached: true
 
-secured: "hpKNShuE2eJeyQ8PBN12TpwZM+RqUU8Bb1K4hvjw1yaiLDE+Vc0cIJtduQMDgvZ3ohliGeFxgrhAUnzl5W8S2eYVUZsGs7D9ehstX0872F88Ab0tV/nDrxxRYhfMq5dBzhQ885EDoX8LWG09++ae1TrJMuHv9ym186iEmyT8cKqLTIST2Q6jgiql4VpJCtrIbGg62grjviJyge+yPPEjpMZxOap5Mu4Gq+OF2/Ct1dfdUk5idcBW13e0h/vrRurNHikwqeXnYQc5tUbIAVLHI+pdw4wYjLopFtCSxUsWscvZdf9xhYgsjrXcGExKFTMRSCJcOvO85AEhJ6E4+5BqyR5p1VqVpq03gD72fkraHQI=;jAwoU+AOEoGxGl1R+07SIw=="
+secured: "hTS0T4dwSkwhZt5Ij2mmmyHG8sGrJhKslyeznSedohcWoPL/zzE7C3Ltohma+f0OH2tUCMv+s4ABLqX7hj3WbnKY6uy49lRN/azsK6nlTSRDOmgBHLlFMiViLD4mBQh5Q/t47UuHXVuGyN30QwNb7jOMFxPh90Vz0azfgMX1/4Bx1Y13zE0ozarik1Wa+XyU/uiBWb0ArPX/Ba67zzfFXrUZBxFd4EQugb3tTiaZvbNEK1iRdGsVJ635deTWeDKwIEOGm7JHA8LtOEXhL3g2YVKtZVHBo1NUtekgFgWY3ji+pvjcQZkqkFGeg7uxcj0puQ6KBJSOypDgit2g7RKG73I4YBjuoOrRhG070pqD1DM=;N4EnnNDDaMgxf2xXzt9+mg=="
 ---
 
