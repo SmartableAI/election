@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Pro-Trump and anti-vax sites urging people to forge COVID-19 vaccination cards, says CDC"
-    excerpt: "Faking a vaccination is easy with a template and blank flashcard. New York is the only state that keeps track of authentic cards. It is against the law to fake vaccination cards. Some former President Trump supporters and anti-vaxxers are forging vaccine cards using a government-issued template to falsely state they received their shots."
-    publishedDateTime: 2021-05-01T00:17:00Z
-    webUrl: "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to"
-    ampWebUrl: "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to?amp"
+  - title: "Chris Ruddy and Newsmax went all-in on Trump. Now they might pay a price for it."
+    excerpt: "The conservative media entrepreneur became Trump’s most quotable friend. His cable channel became one of the biggest promoters of Trump’s election-fraud fantasies."
+    publishedDateTime: 2021-05-06T08:04:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 116
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
     images:
-      - url: "https://thehill.com/sites/default/files/ca.vac_card_gettyimages-1230169189.jpg"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YCJTFSVNXEI6XLGTES2EUVYJHI.jpg&w=1440"
         width: 1440
-        height: 880
+        height: 1008
         isCached: true
 
 secured: "fNbewGdsAwJzBSjslk8Bt+Fa5Dr3qL33D2BPtE5pp34flghWX2gFzashnTETKcWAdaKcNIMisqZM/6GYij+4EJzsWsWHBsz3yuIdUAx159pXb5VPxy7T3Fj1f94aj9zf1s6l4+T/Hggj+iQ0zmBH1FSsnJNna5ACxHPvXY7e3C3Ws7SbjAHcOvf3Bai1yom0uMtuPrgxMyrKQcXcoyEfWnH64FWZQbLac1+Qt+tBh/tsVn12b8p3RxyYvYs9LYBCJLI7wAHRmLgm2OmSH6YUCHo3SDih2ETV25LULNwAGX5PhabeVkIK/L89z4m9oJxNk0HA3s2dmChwHOUDBIJB85GUXWILF/lCazZ6y5cwGNOQ8NVmuJPY+uolJVi8+KJpM86TkdDkWgIa2yg8sW4a8eAcSNBw5uZNkxdNrG73dvcBIEwHJ08smD6vpKlDDoWrWBH75T1q4DeOGjLJQWT74MU3wO/P5d5bxJbaLzSut9mHcX2r0jt/RSz5Oada4DMkuGM5SueqncdwW3BvH7S9ug==;gfJGUSakETt44+gM9092jQ=="

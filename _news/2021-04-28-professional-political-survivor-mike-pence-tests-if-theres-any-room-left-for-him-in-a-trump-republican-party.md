@@ -297,6 +297,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump is staying out of the Virginia GOP's governor race. His absence is making a chaotic campaign even more bonkers."
+    excerpt: "The former president hasn't endorsed any of the Virginia Republicans running to lead the Old Dominion, a state he lost by double digits to Biden in 2020."
+    publishedDateTime: 2021-05-06T08:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-virginia-republicans-chase-snyder-youngkin-cox-davis-cruz-endorsement-2021-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/60931ce434af8d001859bb9f?width=700"
+        width: 700
+        height: 525
+        isCached: true
   - title: "Pondering 2024, Mike Pence makes first speech since leaving office"
     excerpt: "Mike Pence to LaunchConservative Podcast.Former Vice President Mike Pence willsoon be returning to his radio roots. .Prior to being elected to Congress in 2000,61-year-old Pence s"
     publishedDateTime: 2021-04-30T12:08:00Z

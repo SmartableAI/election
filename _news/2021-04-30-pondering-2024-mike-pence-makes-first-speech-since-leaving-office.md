@@ -308,6 +308,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump is staying out of the Virginia GOP's governor race. His absence is making a chaotic campaign even more bonkers."
+    excerpt: "The former president hasn't endorsed any of the Virginia Republicans running to lead the Old Dominion, a state he lost by double digits to Biden in 2020."
+    publishedDateTime: 2021-05-06T08:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-virginia-republicans-chase-snyder-youngkin-cox-davis-cruz-endorsement-2021-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/60931ce434af8d001859bb9f?width=700"
+        width: 700
+        height: 525
+        isCached: true
   - title: "Texas Special Election Poses Test for Anti-Trump Republicans"
     excerpt: "Ill., left, shakes hands with Grant Goodyear, right, as Texas congressional candidate Michael Wood, center, shakes hands with Linda Thomas Tuesday, April 27, 2021, in Arlington, Texas. Wood is considered the anti-Trump Republican Texas congressional candidate that Kinzinger has endorsed in the May 1st special election for the 6th Congressional District."
     publishedDateTime: 2021-04-30T04:32:00Z

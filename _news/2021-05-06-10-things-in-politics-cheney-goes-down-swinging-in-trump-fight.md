@@ -1,33 +1,33 @@
 ---
 category: news
-title: "GOP senators unveil $568 billion counteroffer to Biden's infrastructure plan"
-excerpt: "Republican senators unveiled their counteroffer to President Biden's infrastructure proposal on Thursday, presenting a $568 billion framework that is significantly smaller than the president's $2 trillion plan."
-publishedDateTime: 2021-04-23T17:18:00Z
-originalUrl: "https://www.cbsnews.com/news/republican-senators-infrastructure-counteroffer/"
-webUrl: "https://www.cbsnews.com/news/republican-senators-infrastructure-counteroffer/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/republican-senators-infrastructure-counteroffer/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/republican-senators-infrastructure-counteroffer/"
+title: "10 Things in Politics: Cheney goes down swinging in Trump fight"
+excerpt: "And meet the Prince devotee teaching yoga and meditation to burned-out DC Democratic insiders."
+publishedDateTime: 2021-05-06T09:17:00Z
+originalUrl: "https://www.businessinsider.com/10-things-in-politics-liz-cheney-trump-gop"
+webUrl: "https://www.businessinsider.com/10-things-in-politics-liz-cheney-trump-gop"
+ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-liz-cheney-trump-gop?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-liz-cheney-trump-gop?amp"
 type: article
-quality: 122
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/22/363cae7d-cfc6-49bc-97d0-790fdb8711af/thumbnail/1200x630g2/b8e871c9faf3025e98261d67ca7e7b22/gettyimages-1231516589.jpg"
+  - url: "https://i.insider.com/6093b55634af8d001859bbd0?width=1200&format=jpeg"
     width: 1200
-    height: 630
+    height: 600
     isCached: true
 
 related:
@@ -127,22 +127,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "10 Things in Politics: Cheney goes down swinging in Trump fight"
-    excerpt: "And meet the Prince devotee teaching yoga and meditation to burned-out DC Democratic insiders."
-    publishedDateTime: 2021-05-06T09:17:00Z
-    webUrl: "https://www.businessinsider.com/10-things-in-politics-liz-cheney-trump-gop"
-    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-liz-cheney-trump-gop?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-liz-cheney-trump-gop?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/6093b55634af8d001859bbd0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Jill Biden to meet military spouses during stop in Colorado"
     excerpt: "First lady Jill Biden plans to visit military spouses at a Colorado military base in her last stop during a swing through the U.S. West"
     publishedDateTime: 2021-05-06T08:30:00Z
@@ -158,6 +142,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_0bdebb6defa34edab106f6a66b36c6bb_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "GOP senators unveil $568 billion counteroffer to Biden's infrastructure plan"
+    excerpt: "Republican senators unveiled their counteroffer to President Biden's infrastructure proposal on Thursday, presenting a $568 billion framework that is significantly smaller than the president's $2 trillion plan."
+    publishedDateTime: 2021-04-23T17:18:00Z
+    webUrl: "https://www.cbsnews.com/news/republican-senators-infrastructure-counteroffer/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/republican-senators-infrastructure-counteroffer/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/republican-senators-infrastructure-counteroffer/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/22/363cae7d-cfc6-49bc-97d0-790fdb8711af/thumbnail/1200x630g2/b8e871c9faf3025e98261d67ca7e7b22/gettyimages-1231516589.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Joe Biden: ‘I don’t think the American people are racist’ – US politics live"
     excerpt: "President in new interview agrees with Republican senator Tim Scott’s comments to Congress – follow all the day’s politics news"
@@ -280,6 +280,6 @@ related:
         height: 683
         isCached: true
 
-secured: "gIFNVg0VQGAQngrusthNhq6x1oKhWk2k57jcgZO26fhOYIPRwNlHeze57VssdCTlzUOllguf6zCVacjnoommMIlLyJTW6a6zyKgQxam12VbaFPhfBRAhZW/7LCoJcaFHGkhmzomqWIFS6/PvmxLHOAvNTUHjVkIddMlAXd09MJcSlVK4K+b1+3kRvLDS3rgeBrgBCCTXw0bqn8aRSxMZILljrCLC/gPD4/1iC7Vm9wlbgYst0s5tVuAbNZKNLcXJwayBjI8B5aNcVLhrunM8Yu0DZ4Ys36MqXl0DVyxS105fGtXXzG65UCW3pSfTLuvN/TCVHhxQeZtcJBva/MGKTZtagN1lhDTE0WKIXWy1VDp/eUuKf3l9sSxJ2Ew9PwMyFWMk74ekJU+t46eBzXnp/Y5zH1gN4RysnCaX2oOwec/1tIaWIVBF81SjY6CQCqZcDKIpu+9EWbw4lAjmpHX5zGxrZGLlnFaTVStW6iFLM177/vG1GoxMchJM1TaSMqLjFLsJxz2ojP7AkId++kKMGQ==;tnQo2lgLn3t9dNLuF00gcQ=="
+secured: "UO/NPE77HXG4PyqCOqKlpA+bHliiztw67EgnHYZrnvOjN6J+w6B3mHV2N0eF6A3dXpMsK2N/86ottwjIdq3kRT6l3szt8CZwXn/eKOKFtfhTP0Mia8VXsY/GV0nmGNby/enAY+kLezC6buLDScHjic4rhr3/XNYKIa7xuMXtTXSNkJlJJjcQMCSz1XHafI1+Xsp6NyIkTursBqvT1OI29uYoQjuXL4RWFeP8rEF9ergjAgMSOdA/CuthRqJ6Ad6ymHaz/u20BBpz9K1eKQ+uAqpyUHr0KiAf8kGSfI1qSScxtyN3+76lYLvJ7W428GezlQytCdHKtHbi7PiD+d3rVVE068m21jRmxZ7DZasCrsg=;wGRvcTaJXey4mAhsyPxRMw=="
 ---
 

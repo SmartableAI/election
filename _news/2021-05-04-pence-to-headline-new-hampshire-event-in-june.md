@@ -48,16 +48,19 @@ related:
         height: 675
         isCached: true
   - title: "Former Vice President Mike Pence to visit New Hampshire"
-    excerpt: "Former Vice President Mike Pence is scheduled to visit New Hampshire in June, his first trip to the first-in-the nation presidential primary state since the 2020 general election campaign."
-    publishedDateTime: 2021-05-04T14:46:00Z
-    webUrl: "https://www.bostonglobe.com/2021/05/04/metro/former-vice-president-mike-pence-visit-new-hampshire/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/05/04/metro/former-vice-president-mike-pence-visit-new-hampshire/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/05/04/metro/former-vice-president-mike-pence-visit-new-hampshire/?outputType=amp"
+    excerpt: "He will speak at the Hillsborough County Republican Committee's annual Lincoln-Reagan Awards Dinner in Manchester on June 3."
+    publishedDateTime: 2021-05-04T16:24:00Z
+    webUrl: "https://bangordailynews.com/2021/05/04/news/new-england/former-vice-president-mike-pence-to-visit-new-hampshire/"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
+      name: Bangor Daily News
+      domain: bangordailynews.com
     quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/05/Pence-Palmetto-Family-Council.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "UKTqnzsrJ181k1uS95CCrrVWztKT0IhlqfqSCqwqlVIO59jm4tCSOeWCH0Xavz5BDFPR0WvoVQsDezrZpZwx0+TdjPZH5ykFsKLvgJjFDH+GMBhr4hU/7SyZK2IZlIjsUUVFMxo9/VpSBC05DqzohAy3npwoFPnOK7hLD5+V7uOBpdnQxMOSf3bZCeHUrNIvqiThhLhKCX+xL1Pgyk24r0VSpwC4/4t4ltOYv6jwwpG77hy+YzfrJXDcorIwJcHPgXsDqNjxVQXuyCPUPTieNX+7SeW5vLFysOPnO/+PGKap+O0kDQvtqHmPHJtAAGVTMWaokIzLIBttseORijK7HMO+TtlC8k/ZwQYrYUqWQQoo77IzStScymKYMzUdYaHs75Iv6xAodA88fb7WzOaTO2Glb4gDlprSx1A2J+gCxoKJ9x1CW7EXCV2Eu8n7XchYxDnuMk/POcWPkQSJUBWBIChhHFEtXp58iawNj8n/+ESWR6U9w8t5oqrRt2tOIJrConryqTWQ2qcOzJiB/ULMqg==;XoWpk6rZ6kgZpEkE2zO84g=="
 ---

@@ -44,16 +44,19 @@ related:
         height: 551
         isCached: true
   - title: "Former Vice President Mike Pence to visit New Hampshire"
-    excerpt: "Former Vice President Mike Pence is scheduled to visit New Hampshire in June, his first trip to the first-in-the nation presidential primary state since the 2020 general election campaign."
-    publishedDateTime: 2021-05-04T14:46:00Z
-    webUrl: "https://www.bostonglobe.com/2021/05/04/metro/former-vice-president-mike-pence-visit-new-hampshire/"
-    ampWebUrl: "https://www.bostonglobe.com/2021/05/04/metro/former-vice-president-mike-pence-visit-new-hampshire/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/05/04/metro/former-vice-president-mike-pence-visit-new-hampshire/?outputType=amp"
+    excerpt: "He will speak at the Hillsborough County Republican Committee's annual Lincoln-Reagan Awards Dinner in Manchester on June 3."
+    publishedDateTime: 2021-05-04T16:24:00Z
+    webUrl: "https://bangordailynews.com/2021/05/04/news/new-england/former-vice-president-mike-pence-to-visit-new-hampshire/"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
+      name: Bangor Daily News
+      domain: bangordailynews.com
     quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/05/Pence-Palmetto-Family-Council.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "awbU3Oe4Ymzk6nqz05usqmuVrpigeveOXjoXkU2wsr+pdd3G5emzJaEQeZ6SDCqUlaEoywI3IkOgihPYCv5oeka3BN6fqBFLSIBJmr4osGYVqpntAOOAD9onDWw66OSl/SSnhDFBTfWoQOTaoeIUP3cjOUh0dMiG2SoROqHeP2R4BGkAvOQ6bpiDkkzUd1hppbbxMKNA6sucP2HUcLfOWYNS931l4n+deeCQtEF/lBXU+aX2iwsn63DYFsOVrvwSnYX+lyG8V2/9lbOVbzaLD0iIgWraP3jSLLDtR3FNaWjJHfDlxBR6hpzQ72KdXFw7Iu6hF5a9j7wAB8TdUcRZQktxPwVqIFZNi6W8xFwjLq6r+n3JUug7uuVB8lqaE8kHgyyFFoGa6xATGbmbKI9jOF24zS2aftZEsJH9GL8sZXRxLyb1lGUwwhZh/jjG3sNOCe4DRWVHGzgAYGou2q7xdIIQibmS5Yh2rJ1iNLZLhzfGXtx2iCYlai2xweroYrEidHzfEOvNOebSz40GRQTgyg==;834ajjnbV0ubq+op4wc1ig=="
 ---

@@ -1,35 +1,48 @@
 ---
 category: news
-title: "Pence gives first public speech since end of Trump administration"
-excerpt: "Former vice president Mike Pence on April 29 made his first public remarks since leaving office, telling an audience in Columbia, S.C., that he plans on “pushing back on the liberal agenda” that the Biden administration is pursuing in the coming months."
-publishedDateTime: 2021-05-01T13:09:00Z
-originalUrl: "https://www.washingtonpost.com/video/politics/pence-gives-first-public-speech-since-end-of-trump-administration/2021/05/01/3b006924-331c-471a-8796-f0d0e8035d97_video.html"
-webUrl: "https://www.washingtonpost.com/video/politics/pence-gives-first-public-speech-since-end-of-trump-administration/2021/05/01/3b006924-331c-471a-8796-f0d0e8035d97_video.html"
+title: "Trump is staying out of the Virginia GOP's governor race. His absence is making a chaotic campaign even more bonkers."
+excerpt: "The former president hasn't endorsed any of the Virginia Republicans running to lead the Old Dominion, a state he lost by double digits to Biden in 2020."
+publishedDateTime: 2021-05-06T08:01:00Z
+originalUrl: "https://www.businessinsider.com/trump-virginia-republicans-chase-snyder-youngkin-cox-davis-cruz-endorsement-2021-5"
+webUrl: "https://www.businessinsider.com/trump-virginia-republicans-chase-snyder-youngkin-cox-davis-cruz-endorsement-2021-5"
 type: article
-quality: 130
-heat: 690
-published: true
+quality: 82
+heat: -1
+published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-  - Mike Pence
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-01-2021/t_0dfeb11a239348c9bb25cad18a99259e_name_e2b1b07a_a94a_11eb_a8a7_5f45ddcdf364.jpg&w=1080"
-    width: 1080
-    height: 608
+  - url: "https://i.insider.com/60931ce434af8d001859bb9f?width=700"
+    width: 700
+    height: 525
     isCached: true
 
 related:
+  - title: "Pence gives first public speech since end of Trump administration"
+    excerpt: "Former vice president Mike Pence on April 29 made his first public remarks since leaving office, telling an audience in Columbia, S.C., that he plans on “pushing back on the liberal agenda” that the Biden administration is pursuing in the coming months."
+    publishedDateTime: 2021-05-01T13:09:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/pence-gives-first-public-speech-since-end-of-trump-administration/2021/05/01/3b006924-331c-471a-8796-f0d0e8035d97_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 130
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-01-2021/t_0dfeb11a239348c9bb25cad18a99259e_name_e2b1b07a_a94a_11eb_a8a7_5f45ddcdf364.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Trump administration accuses Obama of wiretapping"
     excerpt: "President Trump is calling for Congress to investigate his claim that the Obama administration wiretapped phones in Trump Tower during the presidential campaign. Associated Press White House reporter Vivian Salama joins CBSN to discuss."
     publishedDateTime: 2021-04-28T12:09:00Z
@@ -297,20 +310,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump is staying out of the Virginia GOP's governor race. His absence is making a chaotic campaign even more bonkers."
-    excerpt: "The former president hasn't endorsed any of the Virginia Republicans running to lead the Old Dominion, a state he lost by double digits to Biden in 2020."
-    publishedDateTime: 2021-05-06T08:01:00Z
-    webUrl: "https://www.businessinsider.com/trump-virginia-republicans-chase-snyder-youngkin-cox-davis-cruz-endorsement-2021-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 82
-    images:
-      - url: "https://i.insider.com/60931ce434af8d001859bb9f?width=700"
-        width: 700
-        height: 525
-        isCached: true
   - title: "Pondering 2024, Mike Pence makes first speech since leaving office"
     excerpt: "Mike Pence to LaunchConservative Podcast.Former Vice President Mike Pence willsoon be returning to his radio roots. .Prior to being elected to Congress in 2000,61-year-old Pence s"
     publishedDateTime: 2021-04-30T12:08:00Z
@@ -412,6 +411,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "DBcXj8u8zGJmjsamYswjyhCpZYLVJ1+SZ8ZrJ+xkiOTah0bsq4i3eFNjntcgpJrlibU8wMrVaWzGXANWZ/1fkOSuU6jtZFRjTnY39lAnYhsbh56x8AEpxWAY/leon/JRcq/xl9LKUrj9MNaZAME43m3MFpxjq/kJ1Kgq9vPSMn878mte9MMgLmrSl/MJI9kF5a1aYiDHlfZRbvQEanuJIO9CYhaoPzPpnvDsiRscj0Nl0eGN1eRYiDT9dIZN/B1RCgty7rizESk5WrgfNIKDoCWAbkBXmq+D1aX6HDP+rIdzKBcMr/a0HUvwdWWxUpoHEl1Qsf2eqV/iPkCbUvF286Y//4NjMQUaYcF1HgFXzDJ2c4WeMDmgTa38z23O5JMlOIG6AA4+lFjov6qxYyH/q7pt0X02k6E91k7KvIlLRMoB8WEvbS74FmU7TGVtySOFXpR1Xo8FflR6ZnTVX0AbwpT5yGoNdn3mZDFMRaNYnOjei9rrzM9YcpvxBQvVITUD34e+jOGc7ff6r5QDtN06Cg==;VFoq8oiWUB2Yo3bLu8FMtg=="
+secured: "5n9oOGsV4A85ijAZ+PPfF3XuaKsiXRbvdDdNE3EnMOQHdbzCsFCERLT66vER2KwoRfSBMH3phXlrLgQcpNjUwNjHfswkWdWZxBY1RK193bgs/0XM2K1orKKAR937igWm+J/OOdW+GiQCdvDDe07/WLIUaLZxDRT2PPL5bphnHvQuozMnTD9GgSoC6h+JKj8Bpvi/u5D1cmZPbgKZH7RCA6cUAeE8GEwaQP2C9buRAR2W0IKVYvXY8D/5wV2Oarern2F/nEuaSWL1GZCduUczXJ+Uc3+uZzGV18qOhpBuQMZDPzDaJnjWLD1l6921IsOYiswtl3Rr/NJj8qyA9Bqw8BDli9K71EBlA8w/8Yup92o=;q0dw18q5q87NI2OEYLzT4w=="
 ---
 

@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Former Vice President Mike Pence to visit New Hampshire"
-excerpt: "Former Vice President Mike Pence is scheduled to visit New Hampshire in June, his first trip to the first-in-the nation presidential primary state since the 2020 general election campaign."
-publishedDateTime: 2021-05-04T14:46:00Z
-originalUrl: "https://www.bostonglobe.com/2021/05/04/metro/former-vice-president-mike-pence-visit-new-hampshire/"
-webUrl: "https://www.bostonglobe.com/2021/05/04/metro/former-vice-president-mike-pence-visit-new-hampshire/"
-ampWebUrl: "https://www.bostonglobe.com/2021/05/04/metro/former-vice-president-mike-pence-visit-new-hampshire/?outputType=amp"
-cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/05/04/metro/former-vice-president-mike-pence-visit-new-hampshire/?outputType=amp"
+excerpt: "He will speak at the Hillsborough County Republican Committee's annual Lincoln-Reagan Awards Dinner in Manchester on June 3."
+publishedDateTime: 2021-05-04T16:24:00Z
+originalUrl: "https://bangordailynews.com/2021/05/04/news/new-england/former-vice-president-mike-pence-to-visit-new-hampshire/"
+webUrl: "https://bangordailynews.com/2021/05/04/news/new-england/former-vice-president-mike-pence-to-visit-new-hampshire/"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: Bangor Daily News
+  domain: bangordailynews.com
 
 topics:
   - Election
   - Mike Pence
+
+images:
+  - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/05/Pence-Palmetto-Family-Council.jpg"
+    width: 1024
+    height: 682
+    isCached: true
 
 related:
   - title: "Pence to headline New Hampshire event in June"
@@ -54,6 +58,6 @@ related:
         height: 675
         isCached: true
 
-secured: "svy8YiD0K4lQXzPEZGDFi3nl2Rgp2DwdkY5ixJQ9A8fYSOKxLrsMzGWAuTsCVpVs3vkzm37q5PK5tgX5Gx18eqtAtYHJF/09zo4+LornXtYHUT5UCiH3PwhdS3W8aAyfXfWtitbWzo/8ol17WIiyul/pO2pIBXZcN+7OuQmS5Ywz6JZWgLR1H9MEZ/KUBodVI56HSnzpudkxT6IeyKxccm4KIFsaOMjSFs50eOMF18lM5c68L9PhayqtaQ1i2Ixxsk9mU1uprynVU7AqxuAYVf3kLJuhMUfW5+2msWPlMw+hfH1Kmw1kr5FfM9+EmRbt4s9wyLRgw2B9Wr7TPNMv4fmXiFywBJp88LzQsNrsNapXSubeXhqQAxgrtWe8BTpmCKCiEgkQg/xmZQzQaFtRQlod3hhMGGpxza07cxF45yp4S7zcjVFRM8vgXvQY2nJjre3Sv/ZCe2H8JbPHaOwzFVbrROlsUKDG+KrTi24gg3JYbGyVf9v6du+d1G0hNHH40613e5IVbf7Q5zaafA6eMQ==;7UIa2/YNtFt0KBjs/EpkcA=="
+secured: "E76swoP7J82jF5yszA0Xu9Q+CygkZ/AqjhI9GMl6kpGndZGKAyyymkIaJg8jl10uI4g/peJuIaHbntbA4dgNV+VLlSU3xi4nXz30h4F3TWQlTBBRMKw0mhwT5Cp0Y6SLrZE3/bUcpx6kw74nRDlf0It7oQlM4Mibm8bvcSwkqAmRUf7rXu48Sx3ZW/lj3sQNTv9ZH9AnGnZ1NC2C9G+dGHhoIQzBUSUrKIEDrh9caP/mMQ//5ex4g+YFgWat6UFtAqEZtOewyrV+6wDX5e1ylGJrf6SfFHzON65AhaDmSIgoqMHeOrbnuoMbCh9XCjemi4CHYHiM+4M/CPPpbdqRVZ0177U5ecTTDIAoSnJy/Lg=;mvf40zaMhTsa/0EfQ4GI0w=="
 ---
 
