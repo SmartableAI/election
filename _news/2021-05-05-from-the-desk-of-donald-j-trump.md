@@ -1227,6 +1227,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "WH: Biden says platforms answerable for content"
+    excerpt: "After Facebook's quasi-independent oversight board upholds temporary bans on former President Donald Trump, White House press secretary Jen Psaki says President Joe Biden wants online platforms to have more responsibility for content."
+    publishedDateTime: 2021-05-05T21:51:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/05/wh-biden-says-platforms-answerable-content/4963960001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/38d2d520-ef91-4003-9282-2a8a1ea44211_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live"
     excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
     publishedDateTime: 2021-04-16T22:17:00Z

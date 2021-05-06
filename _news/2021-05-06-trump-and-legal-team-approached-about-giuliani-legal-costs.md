@@ -1,14 +1,14 @@
 ---
 category: news
-title: "GOP candidate crushed after opposing Trump says party 'not living up to this moment'"
-excerpt: "Michael Wood, a Republican whose anti-Donald Trump message resulted in a crushing defeat in a special election for a Texas US House seat over the weekend, said the party is compromising its values by spreading the former president's falsehoods.\n    \n"
-publishedDateTime: 2021-05-04T13:20:20Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xevB1YamUyU/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xevB1YamUyU/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/04/politics/michael-wood-texas-election-cnntv/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/michael-wood-texas-election-cnntv/index.html"
+title: "Trump and legal team approached about Giuliani legal costs"
+excerpt: "Allies of Rudy Giuliani continue to call on former President Donald Trump and Republicans to pay for his efforts around the election and, in turn, subsidize the mounting legal bills facing the former New York City mayor."
+publishedDateTime: 2021-05-05T23:10:00Z
+originalUrl: "https://www.cnn.com/2021/05/05/politics/trump-giuliani-legal-costs/index.html"
+webUrl: "https://www.cnn.com/2021/05/05/politics/trump-giuliani-legal-costs/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/trump-giuliani-legal-costs/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/trump-giuliani-legal-costs/index.html"
 type: article
-quality: 168
+quality: 135
 heat: -1
 published: false
 
@@ -22,10 +22,11 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504074428-michael-wood-new-day-0504-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -159,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP candidate crushed after opposing Trump says party 'not living up to this moment'"
+    excerpt: "Michael Wood, a Republican whose anti-Donald Trump message resulted in a crushing defeat in a special election for a Texas US House seat over the weekend, said the party is compromising its values by spreading the former president's falsehoods.\n    \n"
+    publishedDateTime: 2021-05-04T13:20:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xevB1YamUyU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/04/politics/michael-wood-texas-election-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/michael-wood-texas-election-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504074428-michael-wood-new-day-0504-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Elise Stefanik's rapid rise as Trump supporter highlights the Trump takeover of the GOP"
     excerpt: "GOP Rep. Elise Stefanik now appears poised to become the next House Republican conference chairwoman as the party unites against Rep. Liz Cheney for calling out former President Donald Trump's Big Lie that the 2020 election was stolen.\n    \n"
     publishedDateTime: 2021-05-05T21:27:49Z
@@ -255,22 +272,6 @@ related:
         width: 856
         height: 449
         isCached: true
-  - title: "Trump and legal team approached about Giuliani legal costs"
-    excerpt: "Allies of Rudy Giuliani continue to call on former President Donald Trump and Republicans to pay for his efforts around the election and, in turn, subsidize the mounting legal bills facing the former New York City mayor."
-    publishedDateTime: 2021-05-05T23:10:00Z
-    webUrl: "https://www.cnn.com/2021/05/05/politics/trump-giuliani-legal-costs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/trump-giuliani-legal-costs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/trump-giuliani-legal-costs/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Court Could Consider Whether Trump Interfered in Cloud Computing Contract"
     excerpt: "The decision could be a win for Amazon, which said it was passed over for the $10 billion Pentagon contract because of his animosity toward its founder, Jeff Bezos."
     publishedDateTime: 2021-04-28T20:35:00Z
@@ -332,6 +333,6 @@ related:
         height: 773
         isCached: true
 
-secured: "FD2PQhNfO4mjZR1oj5NHdhotc3ObToTrfAr/bAyp3uUk/kj1vp/E4i4fQpgca7p4p4kvSvgg5DN2jLLs+QmZW4bFNWRD0glVlk0uXde+niYn4y2co/rWB96Ab8LQuvdCXMYUcNTc61VfQoM7qfUFP7EgIzg7EaBducEI5JrWOmHcLeUKFAAGObtXJrNxMpqPZsle5Yb+wpgvICAM0P/pGQK2JkL5y0yUhbmoqU5yOKYtAVKMDGIFOB8Jr9txsRXVSQmGASoOe1TG2JIVRyGkVWuJuWKAP3Ztwd2No5BvL/5xRU0thwX9tCKWYWeBC1wv8ehicfnxm3f+viM4SpHkuex4sT6kFvqeH6AGWOKsIGI=;9tk4HX0NFUtyCdqiHo83iA=="
+secured: "a59S1MKJhXKsdxZCCpG2VpnMaRxrqEJOjDSSUxtJMJr8TO9ziUEIE/t9DjCIU6Zjb1rudvQ468xMBJvLs0gPkPepVLS1UdFXMAbo8/Pu3d21xZ2Z9TTbD/VEVEMaya3m3S4p9lSxpewkgeST0DekQu9tMZ3kJZubZ8cGgfGiIU5JwL1Q2MHOea2htF93+FtWB7L9/xlilfFWXuhxjqepNhFGlh4p5PLqrWAo4Xy2j5yZDZqMEudfFLAtCdtxoCus7jPzQJpZajCpQXtfXqZaHu1yxz80qqztVq1zBm55DQcczQfVtHC71oYwbA4EBZenadfTdAboZBniV9bOh1SMKcSWVBbt4tP5g3LGxtRCf9Q=;DvqgUlyq+wwfeJBHnWJgGw=="
 ---
 

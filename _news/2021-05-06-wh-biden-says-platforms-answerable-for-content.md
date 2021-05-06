@@ -1,33 +1,31 @@
 ---
 category: news
-title: "Biden to keep intelligence inspector general Trump appointed"
-excerpt: "President Joe Biden intends to keep the inspector general overseeing the U.S. intelligence community who was appointed by former President Donald Trump"
-publishedDateTime: 2021-04-28T19:52:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616"
+title: "WH: Biden says platforms answerable for content"
+excerpt: "After Facebook's quasi-independent oversight board upholds temporary bans on former President Donald Trump, White House press secretary Jen Psaki says President Joe Biden wants online platforms to have more responsibility for content."
+publishedDateTime: 2021-05-05T21:51:00Z
+originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/05/wh-biden-says-platforms-answerable-content/4963960001/"
+webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/05/wh-biden-says-platforms-answerable-content/4963960001/"
 type: article
-quality: 140
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_c5166b2bec7946b7a9db269a67526cb9_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/38d2d520-ef91-4003-9282-2a8a1ea44211_poster.jpg?quality=10"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -142,6 +140,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/cdedcad33cc99ecc90f5a1f4864732fe9f2fc691/0_79_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6c7540e486df29dc97ddaaf3f2bc7da4"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden to keep intelligence inspector general Trump appointed"
+    excerpt: "President Joe Biden intends to keep the inspector general overseeing the U.S. intelligence community who was appointed by former President Donald Trump"
+    publishedDateTime: 2021-04-28T19:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-intelligence-inspector-general-trump-appointed-77374616"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c5166b2bec7946b7a9db269a67526cb9_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden to veer from Trump, Obama policies in taking on NKorea"
     excerpt: "The White House says President Joe Biden plans to veer from the approaches of his two most recent predecessors as he tries to stop North Korea’s nuclear program, rejecting both Donald Trump’s deeply p"
@@ -1223,20 +1237,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "WH: Biden says platforms answerable for content"
-    excerpt: "After Facebook's quasi-independent oversight board upholds temporary bans on former President Donald Trump, White House press secretary Jen Psaki says President Joe Biden wants online platforms to have more responsibility for content."
-    publishedDateTime: 2021-05-05T21:51:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/05/wh-biden-says-platforms-answerable-content/4963960001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/38d2d520-ef91-4003-9282-2a8a1ea44211_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live"
     excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
     publishedDateTime: 2021-04-16T22:17:00Z
@@ -1525,6 +1525,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "/lQYdFPVBDbkHES7jB2mYKI11/3aNgES+b0wvIEFL38+20BH9mss8ZdmGtwwL4s/VYmj3wpifj8RPE0O41yAmpXNQB1bfylVNK1sbycgtaP3q2R8LZoOx71JyfNkXPjolmIpD1M5O6bfyx9oL9sU8iExAuTIgK7lCs50i8am7tZVRH6qXIhK985XupCOGruGs0AS6Sz1BeQrRzo0Rc920AnAw7ISF8cDYTGGlWgdh4pDxfY3Yg+SzKVPAFGxIDHcId95OgxK9Sgs2dlhWUirGn8tQM/HAg+ZuGHBO8gsziDU2b+SfUP6W2VV1fl0dzRhtKceQjAVb2R2269WiKKofCru5zkNshPV79+KfEVkySNi5s/NK8dWoaCqIgyrIqDQo2Sm2Hb7HrLoUi+InzolZ4X9c1HJlPEqDbcrpNXaQbNtrSQS2lvt9tgmjx5tly7o2mYiamdKO96ynqNEZu0qbYJIW/jkt+/gfkAIbZKDPLuUo1JV19e56ImT9WIYkoV5qwOcEc6bcJ3ryA76yFZPkg==;ZTmPATSDWAn1olVyWcWXCQ=="
+secured: "WPOQNbxpaP7aPPymDSfkTl22TWzOZvhbmr8fKTU28pcS7poJr5pvyI4pj3HkD8MLufM5/2B7Bj/ssB9+SpkXKP+T0H6fXX1Rw0IImstCsZmb87uFufgHtP8LIiAOQ0FkeUCrFvaWpMrDsDNpEVzGYdJ3iOczm4inyyUFJAIl0yaq9GPd1Lz4ZQqp0IQuVuMGOAnOAE4VS11r7MxeQR+yteKDUr77QDbOhWZz6POg0MNCJnr4OuAx8WUHl4He6c9XwjOX7xlb2WwkptXRjJbSUzzMwxe3QMhOk3LEUfIBE2YjspAWO1/d8ir4XW6ropgYrbj3GLuizAGmuX+ueQzOacLCfw3u/zq62iAR1QutN+Q=;ehsR9yt2mOt+PeV2JnLQtQ=="
 ---
 

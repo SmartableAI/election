@@ -3,8 +3,8 @@ category: news
 title: "After 100 Days, Mike Pence Speaks: Biden Threatens Progress \"We\" Made Under Trump"
 excerpt: "Former Vice President Mike Pence called for conservatives to unite in opposition to President Biden's agenda during his first public speech since leaving office Thursday in South Carolina. Pence referred to progress \"we\" made under the Trump administration after publicly breaking with Trump during and after the January 6 riot."
 publishedDateTime: 2021-04-30T12:16:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/04/30/after_100_days_mike_pence_makes_first_public_remarks_biden_threatens_to_derail_progress_we_made.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/04/30/after_100_days_mike_pence_makes_first_public_remarks_biden_threatens_to_derail_progress_we_made.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/04/30/after_100_days_mike_pence_makes_first_public_remarks_biden_threatens_to_derail_progress_we_made.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/04/30/after_100_days_mike_pence_makes_first_public_remarks_biden_threatens_to_derail_progress_we_made.html#!"
 type: article
 quality: 90
 heat: -1
@@ -1543,6 +1543,6 @@ related:
         height: 2901
         isCached: true
 
-secured: "wX4LuLwrDgG9AgLO5qwdDFXukioyI2qCgBioQYE7+VFn79Ixlb/hNya9tem6zOp465WMdGfLEcU3vQhPfypCIsVPV6DWnGbpckrc9FBzvF7GcatW7beNYkhrjMJJsQTnK9htdpKG/BBO0iFUAlcUqkgCaGebZ4FI/lpKIw8BJqtH6Jq8UpeJqw8hAaZlmcLAaOmFHcv75yxXECxylqby67nENaaOBHz3cqc6/8nVmdsxG9+AwyZuCEhNGuUZX76TVBCmvO9dvsNS2v+J3+HQEuOkEcWmK6P9/ulEoHOvRzjaZzVJOpmGFLq2jWSDVe+JaU0pbLz9vjt/FGtwg5gWaDF0Wj6hyQD8Z2chUSa6SwXHTvQsAAL/9/ZH1vJ+uxCVcjfj0bBibgjzuQrDUn6PR8m4TR7OXmAqftyKIC0boHHKkCYfygSAPN45XEn0a8iu3N3p+TruP83W3rdwjyWB/61q5JRUhrQ+quLdZccc5xridsFE3Oo5w8zOR1c4DKPKSpfKf6k6jqA0kOQ7cgbx4w==;6ALcXtRWMZkFv9njxRlO6w=="
+secured: "ONKjNv/+yo1g0wIi7nG0v7ct3dqk06niN4G0pemJ6iFf6WvQ008Tu07FFvQndKobuqDpTR/Yy1y6Plmr5HgFbXBGCDeg29T9/7opPj2Y7z8MbvgIXdmdO4WpSqQ9Kk4RNKpfkMhecF1b0sGI9WlLLhjwGPsVijq5OGKZJRVe1Qh4fEhTBGgg8U3fe2Fr7TkfIdHTJazuQyBtvplqo0oTeEiDa3wo7depJi6HS+WSkb6Std6hl3XpuYsIkvUzopM+vcf/KVGHmp1RTt4yGIkGIQP2nyjr7Wjz8Qz4uw3QosTgidaqQ6ODbvSE8IN1DAGrJUfn6kg0INjQ8gz9oRYwzNyFKMPx8s40ALJyMtUukyw=;g2mToKOyI3NZa0NV0UQZUQ=="
 ---
 

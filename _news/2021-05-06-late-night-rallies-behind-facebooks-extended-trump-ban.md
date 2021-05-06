@@ -1,33 +1,34 @@
 ---
 category: news
-title: "GOP candidate crushed after opposing Trump says party 'not living up to this moment'"
-excerpt: "Michael Wood, a Republican whose anti-Donald Trump message resulted in a crushing defeat in a special election for a Texas US House seat over the weekend, said the party is compromising its values by spreading the former president's falsehoods.\n    \n"
-publishedDateTime: 2021-05-04T13:20:20Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xevB1YamUyU/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xevB1YamUyU/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/04/politics/michael-wood-texas-election-cnntv/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/michael-wood-texas-election-cnntv/index.html"
+title: "Late Night Rallies Behind Facebook’s Extended Trump Ban"
+excerpt: "It has been five months since Trump was indefinitely suspended from Facebook for the minor infraction of trying to overthrow the government. I mean, who hasn’t done that?” Trevor Noah said."
+publishedDateTime: 2021-05-06T05:58:00Z
+originalUrl: "https://www.nytimes.com/2021/05/06/arts/television/late-night-facebook-trump-ban.html"
+webUrl: "https://www.nytimes.com/2021/05/06/arts/television/late-night-facebook-trump-ban.html"
+ampWebUrl: "https://www.nytimes.com/2021/05/06/arts/television/late-night-facebook-trump-ban.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/06/arts/television/late-night-facebook-trump-ban.amp.html"
 type: article
-quality: 168
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504074428-michael-wood-new-day-0504-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/05/06/arts/06latenight/06latenight-facebookJumbo.png"
+    width: 856
+    height: 449
     isCached: true
 
 related:
@@ -159,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP candidate crushed after opposing Trump says party 'not living up to this moment'"
+    excerpt: "Michael Wood, a Republican whose anti-Donald Trump message resulted in a crushing defeat in a special election for a Texas US House seat over the weekend, said the party is compromising its values by spreading the former president's falsehoods.\n    \n"
+    publishedDateTime: 2021-05-04T13:20:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xevB1YamUyU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/04/politics/michael-wood-texas-election-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/michael-wood-texas-election-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504074428-michael-wood-new-day-0504-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Elise Stefanik's rapid rise as Trump supporter highlights the Trump takeover of the GOP"
     excerpt: "GOP Rep. Elise Stefanik now appears poised to become the next House Republican conference chairwoman as the party unites against Rep. Liz Cheney for calling out former President Donald Trump's Big Lie that the 2020 election was stolen.\n    \n"
     publishedDateTime: 2021-05-05T21:27:49Z
@@ -239,22 +256,6 @@ related:
         width: 910
         height: 477
         isCached: true
-  - title: "Late Night Rallies Behind Facebook’s Extended Trump Ban"
-    excerpt: "It has been five months since Trump was indefinitely suspended from Facebook for the minor infraction of trying to overthrow the government. I mean, who hasn’t done that?” Trevor Noah said."
-    publishedDateTime: 2021-05-06T05:58:00Z
-    webUrl: "https://www.nytimes.com/2021/05/06/arts/television/late-night-facebook-trump-ban.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/06/arts/television/late-night-facebook-trump-ban.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/06/arts/television/late-night-facebook-trump-ban.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/06/arts/06latenight/06latenight-facebookJumbo.png"
-        width: 856
-        height: 449
-        isCached: true
   - title: "Trump and legal team approached about Giuliani legal costs"
     excerpt: "Allies of Rudy Giuliani continue to call on former President Donald Trump and Republicans to pay for his efforts around the election and, in turn, subsidize the mounting legal bills facing the former New York City mayor."
     publishedDateTime: 2021-05-05T23:10:00Z
@@ -332,6 +333,6 @@ related:
         height: 773
         isCached: true
 
-secured: "FD2PQhNfO4mjZR1oj5NHdhotc3ObToTrfAr/bAyp3uUk/kj1vp/E4i4fQpgca7p4p4kvSvgg5DN2jLLs+QmZW4bFNWRD0glVlk0uXde+niYn4y2co/rWB96Ab8LQuvdCXMYUcNTc61VfQoM7qfUFP7EgIzg7EaBducEI5JrWOmHcLeUKFAAGObtXJrNxMpqPZsle5Yb+wpgvICAM0P/pGQK2JkL5y0yUhbmoqU5yOKYtAVKMDGIFOB8Jr9txsRXVSQmGASoOe1TG2JIVRyGkVWuJuWKAP3Ztwd2No5BvL/5xRU0thwX9tCKWYWeBC1wv8ehicfnxm3f+viM4SpHkuex4sT6kFvqeH6AGWOKsIGI=;9tk4HX0NFUtyCdqiHo83iA=="
+secured: "i3KZUAwZ5yn80T0mxou5QF9y2ZBkqRIMwuzNDmeG0NgNJAe1pMM8HzwcrqfQsu6UUOfhcjjIXIHUNz/X3kSpPmYN4bFRqIAToCpL3IKsoBnLrJZHPNSG8qbJC6WeU+jaEGOVzLtUA887P1l5FxBD0BUX2mLGtpQoxHceWxFmNE2hhCvFYYZV/oE0gT0AuU2tm8hygKeFr6lP9sR/7mQuJXZk1cwyrT2Sl4PoZtVZwoiQoTBCts23ExvVBXOPJZTSrWoTORdrwjHR0R/isofSbMpnMkI2Lk5JogKMf1tgYPzL6yAoK+hAk4Hx/bc/HdWPFDWipp5JMNvm7tDIdNEE8DFfMT5rb24Z+4N0vSQSPpI=;AwsV0WzJrg07321PEeeMLg=="
 ---
 

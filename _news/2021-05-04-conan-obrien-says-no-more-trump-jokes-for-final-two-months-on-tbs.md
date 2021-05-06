@@ -240,6 +240,38 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Late Night Rallies Behind Facebook’s Extended Trump Ban"
+    excerpt: "It has been five months since Trump was indefinitely suspended from Facebook for the minor infraction of trying to overthrow the government. I mean, who hasn’t done that?” Trevor Noah said."
+    publishedDateTime: 2021-05-06T05:58:00Z
+    webUrl: "https://www.nytimes.com/2021/05/06/arts/television/late-night-facebook-trump-ban.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/06/arts/television/late-night-facebook-trump-ban.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/06/arts/television/late-night-facebook-trump-ban.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/06/arts/06latenight/06latenight-facebookJumbo.png"
+        width: 856
+        height: 449
+        isCached: true
+  - title: "Trump and legal team approached about Giuliani legal costs"
+    excerpt: "Allies of Rudy Giuliani continue to call on former President Donald Trump and Republicans to pay for his efforts around the election and, in turn, subsidize the mounting legal bills facing the former New York City mayor."
+    publishedDateTime: 2021-05-05T23:10:00Z
+    webUrl: "https://www.cnn.com/2021/05/05/politics/trump-giuliani-legal-costs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/trump-giuliani-legal-costs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/trump-giuliani-legal-costs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Court Could Consider Whether Trump Interfered in Cloud Computing Contract"
     excerpt: "The decision could be a win for Amazon, which said it was passed over for the $10 billion Pentagon contract because of his animosity toward its founder, Jeff Bezos."
     publishedDateTime: 2021-04-28T20:35:00Z

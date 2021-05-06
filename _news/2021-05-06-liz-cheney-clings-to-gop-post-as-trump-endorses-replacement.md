@@ -2,21 +2,21 @@
 category: news
 title: "Liz Cheney clings to GOP post as Trump endorses replacement"
 excerpt: "No. 3 House Republican Liz Cheney is clinging to her post as party leaders are lining up behind an heir apparent for her job"
-publishedDateTime: 2021-05-06T03:11:00Z
-originalUrl: "https://www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html"
-webUrl: "https://www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+publishedDateTime: 2021-05-06T02:39:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/cheney-toast-fight-trump-gop-future-77499425"
+webUrl: "https://abcnews.go.com/Politics/wireStory/cheney-toast-fight-trump-gop-future-77499425"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/cheney-toast-fight-trump-gop-future-77499425"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/cheney-toast-fight-trump-gop-future-77499425"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FAWQ2GVNVQI6XAWBRFVMVFK3XE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Sports/WireAP_1c648ee9a8344c72a95c5b5ec703e505_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -92,6 +92,6 @@ related:
         height: 843
         isCached: true
 
-secured: "vcCT1n7+8gLHDAxFkMKBFM8/zScqUVvM8YfS0P6H85zzvo23hHQAoQjaQlkwF2ESZD0bIaRT+SWuNYPTVXrH5r11zAUCZT38lO/TAxjz2YYRUCouWbrZ2tz+ywJicxqBGVPy5a6Bub7uvtmCbL1XSbk2zW8+79zlypbsoQ5FHtuCoyLwGBIQsocSlRGob3XnbbrsX3//gJ0XT0yfGCqILE08U/Jy83YlJU01hOsXgFiJSOFd2hp+Cmxc3hx7z6wNIxm+myocwrelFLZnc4Z8aKanSxSw5OGZcFk8UKwStqkpv3ZEsfNWOs34MGB5rhbaoQ7L+OX/I2sGFAh5UgeXe7upNg1XJr/ayjuwFXmp+OQ=;QIRNbyK8XHqU+0v9W2YdLg=="
+secured: "09Be47isQWb9V//0M2zsUQ+9K2AyuIJdIhHoJG91Mfjq/k3MLFalgz+BDRNY2x6ri82MYWjJ/EfZNGnyYXjQaQeV/J9We6Lj4Fc2Ovb+J87eEDOZHHCLRrHTuikKDoxneeVc555Y2wjEF1ciQKtw+pSS6KbK+sMTE0VyKted4qNtftIK/na/BqX1dIaDaSe2Z+gEg/wPepnWXPG4REQd0qPb4VeyWOk4vzfZw8TY/lf7jrRNg4FdKTmPOx3kWdxJw6SThYMWz6uHlwT1YrsmZ19Bm8jbP+REajvImo3Gpq5acpFwYJJZG14tmD5B546pntGtkn3L4CAPXwD4uxs0Pt6e28sb1VIybbZ7l5Y/IcQ=;kPmq5V0z25UdFI6Vvb2koA=="
 ---
 

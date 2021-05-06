@@ -1223,6 +1223,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "WH: Biden says platforms answerable for content"
+    excerpt: "After Facebook's quasi-independent oversight board upholds temporary bans on former President Donald Trump, White House press secretary Jen Psaki says President Joe Biden wants online platforms to have more responsibility for content."
+    publishedDateTime: 2021-05-05T21:51:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/05/wh-biden-says-platforms-answerable-content/4963960001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/38d2d520-ef91-4003-9282-2a8a1ea44211_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live"
     excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
     publishedDateTime: 2021-04-16T22:17:00Z
@@ -1511,6 +1525,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "HP6rrOI679IePh5t3dwsF2NocgkKRHG7YlGa7r/hFaShI+S5CQtkz3Mm4FZ5x0pq+SWvPfauE0iPaHfo8AiZJeiR99zmqqSaCvUJJ8RLW94/3AI9DakJDzR6KiJ+UcCzzJhlN97zBvxBO860oGWhvoij7ih4XHZblNqXHu76RorzDvznVJ0ayovFnWHSXmU7bXa/af1Yv1cSUVABJYIwqyBZr5JrotX7sjh/dTA8jayaIIM3Kzsqxqzjcwj8k3a3Wbt8WcGio9xps1Gej+ZSfGCmoTEthbu9wgjHfbyOZ5QZvfms+NOeAbdotmcyH/YJJd4s5WYXrSzmXhFmStz4eSjHbe6Ekkt9wbnRb1e8b/Q=;Fz7Giau2kBrWkPO+Fm7k9g=="
+secured: "N6wuT9ndkVxUMyzEqImEcWMrfMg3WtRm1DsDpehho6Ey18QBdFH82R4fvOeSr/p/clr1ZkS6G/1qD226sRugUmHRN1+C5W8gJDup5ldfoZlwWBHUjHxQNINSbRN4n5chEqcipCyXG5w1AxvyrG2ny9z+pzoMzBPO1F+IHZrn2QiQLcC01CB1bcHAo+RMx7KCLog9GeaZrilh2fExxy5foPv7G3CDuLi15pb5D/oQHW81n4vEsN80O35diR8DeR7YmOOrlDolLeleYd7bPB0aUIgwYNEpn+bfec0ionscIUW99qaoxUULgWS21NGpasCtN7WgKL3in1ySOBxzAcLyzurYinjw0Ox/nXSDHpr66Klwg/9ITY6s8+bg6yX1B4ZKcJ7WAxmpsXoiwbW1zXCz3B2Mofkjmf831+bmwcXz56ibwJ265tF0VEFG6lzlrVXDomfaa4TMUEYrzdTpvhDWe22+6t4qge9ZSeTcaMe26h7bL1h+lQTBGA2Z0TYtOsz3MVLh5JHCKHrBokFGdjNgew==;cAqp+gAE0CtGFnbcgmRurw=="
 ---
 
