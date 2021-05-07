@@ -2,6 +2,62 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-04-16-fox-nation-takes-a-look-at-taxes-how-trump-cuomo-and-the-rolling-stones-have-shaped-the-taxation-debate.md",
+      "title": "Fox Nation takes a look at taxes: How Trump, Cuomo and the Rolling Stones have shaped the taxation debate",
+      "excerpt": "In the fifth, and final, episode of Fox Nation's special \"An Unauthorized History of Taxes,\" anchor Bret Baier and his guest experts explore the contemporary state of taxation, and its cause-and-effect.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GzptEPeQPZ0/fox-nation-takes-a-look-at-taxes-how-trump-cuomo-and-the-rolling-stones",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GzptEPeQPZ0/fox-nation-takes-a-look-at-taxes-how-trump-cuomo-and-the-rolling-stones",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4bf88bfc-054a-4218-bd34-235119560599/e8d018ef-f1fd-47a8-af14-3b2e8bfb605b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fox-nation-takes-a-look-at-taxes-how-trump-cuomo-and-the-rolling-stones.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fox-nation-takes-a-look-at-taxes-how-trump-cuomo-and-the-rolling-stones.amp",
+      "publishedDateTime": "2021-04-16T15:07:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-biden-says-us-japan-committed-to-working-together-on-challenges-from-china-north-korea.md",
       "title": "Biden says US, Japan 'committed to working together' on challenges from China, North Korea",
       "excerpt": "President Biden on Friday said he and Japanese Prime Minister Yoshihide Suga affirmed their “ironclad support” of the U.S.-Japanese alliance, saying the two nations committed to take on challenges posed by China and North Korea together to “ensure a future of a free and open Indo-Pacific.”",
@@ -1305,58 +1361,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-pastor-darrell-scott-claims-capitol-riot-was-congress-set-up-to-impeach-donald-trump.md",
-      "title": "Pastor Darrell Scott Claims Capitol Riot Was Congress 'Set Up' to Impeach Donald Trump",
-      "excerpt": "The New Spirit Revival Center founder made the claims on his radio show while discussing the recent review about the January 6 disorder.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878",
-      "originalUrl": "https://www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1778410/darrell-scott.jpg",
-          "width": 2500,
-          "height": 1662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/darrell-scott-capitol-riot-congress-set-impeach-donald-trump-1583878?amp=1",
-      "publishedDateTime": "2021-04-15T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

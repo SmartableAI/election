@@ -3,8 +3,8 @@ category: news
 title: "Biden's Economic Agenda May Be More Truman Than FDR"
 excerpt: "Joe Biden's multitrillion-dollar plans to revive the economy, fix America's infrastructure and ease poverty have spawned comparisons between him and"
 publishedDateTime: 2021-05-06T10:54:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.amp.html"
 type: article
@@ -892,6 +892,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden Cabinet members banned from delivering in-person commencement addresses: report"
+    excerpt: "Members of President Joe Biden’s Cabinet have been told not to give in-person commencement addresses at universities this year, according to a report Thursday."
+    publishedDateTime: 2021-05-07T01:57:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iMqzs3ZV3Rs/biden-cabinet-members-banned-delivering-in-person-commencement-addresses"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-members-banned-delivering-in-person-commencement-addresses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-members-banned-delivering-in-person-commencement-addresses.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1cacc8a4-4fe5-4d67-8f34-77fcc9fd82c3/6e295d1d-0362-4b5a-8c4b-ee74a827370f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden administration to train Guatemalan border officials to try to stem migrant surge"
     excerpt: "The Biden administration has agreed to train members of a Guatemalan task force so it can protect its borders from a migrant surge -- as part of what Vice President Kamala Harris is describing as a \"comprehensive approach\" to the crisis from countries south of the border."
     publishedDateTime: 2021-04-27T23:14:21Z
@@ -1623,6 +1639,6 @@ related:
         height: 2901
         isCached: true
 
-secured: "Ka8XI8AScWbnmjs89R7SegtZsfd5J0/lTY8CkBL6JRdQh4UWhknY97Lwk0/HNFUSnZ85/HTOfaORId0JRLZnIPqHzKjOxkiQND6wZz6ajxS5FgDrlfBHu9XOGmUhn1QLVuR5y3QUBm70CSWynw90r/2Wp82+3/a0wjCjAcALHBW5qFCupzbOXc7OxtUlnHl/mhsLCmm9LtZ/2WO7ZZ9uMRoAdVSqlxzkx5oQ/bYtfT+D8SSrB02/4ti76pPF0NRGHdvNTe/3nIuC2pGP3/f6pkVFPR5ooSjUDznf19urSBT/2ql/mq+AvraqLQ0BCZ8WQDryFjZNS18/s5mqoEo4D3GaLyPCZUkQKjpT+lG7YcZshOaa6GKmaEYAFVbbfTAOJbX9J7AQY6C4+XjSp6v/YRGWN3KjAGwV8b/2Cx0H2Y9LYkJIoJDDyFquKgDch11Pn509EntOM3CXxem5FhQ800AHUtAyyKJ/P2Ss1xOpt/giqjmWErh8GUgnu6es0q69Wha6LLaLSoCPs1/uzZlwDw==;IroWGZXvY4wWpZJHCT/vcg=="
+secured: "GO69871O+e7POiGoKATQDtbGZ5ZhkQvE+w6jYv+WcpgzOJjFerp/jOaA4O1IhyhJCp4KKo0Y+Cb4gZ3ZeFRlq4MOx427swxddfTt11Qp9Y1mXtgERE/A8N8NrUj1Rc5LZvVSU20HIb63+xefkaSvE3zySoZH5mt4ZiiiHLfxheKEpTA8rTFiSagUJ9X9Wv7DcH4RVSvY6d54bj+lw2fc7B6O2hDYWulOTWS46zHlsTQcedEeoQRmxj37AkIECc5WVnzn6I6HWfYj+SM/mbrJIDV7Bbx+65a5VuG9+QAxqdAX44XyfyzWtP2wSjgnhNl/JvWd6TM6kWPTO9dX2uB3EewJ8IHA112ErJChd8ofRUk=;7OvhHyFAIPcFDpGxSOUHsQ=="
 ---
 

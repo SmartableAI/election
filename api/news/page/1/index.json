@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-07-sara-carter-exclusive-biden-border-policies-fueling-sprawling-cartel-linked-pot-growing-operations-far-inland.md",
+      "title": "Sara Carter exclusive: Biden border policies fueling sprawling cartel-linked pot-growing operations far inland",
+      "excerpt": "In a special “Hannity” investigation, investigative journalist Sara Carter traveled to the Antelope Valley around Lancaster, Calif., where – hundreds of miles away from the Mexican border – the Biden border crisis is starkly affecting everyday Americans as cartel-linked marijuana growing operations have",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rhn84YRy62Q/sara-carter-exclusive-biden-border-crisis-fueling-sprawling-cartel-linked-pot-growing-operations-far-inland",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rhn84YRy62Q/sara-carter-exclusive-biden-border-crisis-fueling-sprawling-cartel-linked-pot-growing-operations-far-inland",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c5fb830-de6d-4edd-bcd9-b6febbed1e9b/136d7057-b82d-4475-818a-f92ba76c95f2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sara-carter-exclusive-biden-border-crisis-fueling-sprawling-cartel-linked-pot-growing-operations-far-inland.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sara-carter-exclusive-biden-border-crisis-fueling-sprawling-cartel-linked-pot-growing-operations-far-inland.amp",
+      "publishedDateTime": "2021-05-06T20:31:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-07-fec-drops-inquiry-into-trump-hush-money-payment-to-stormy-daniels.md",
+      "title": "FEC drops inquiry into Trump hush-money payment to Stormy Daniels",
+      "excerpt": "The case stems from allegations that former president Donald Trump ordered his personal lawyer at the time, Michael Cohen, to make a hush-money payment to adult-film actress Stormy Daniels.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2021/05/06/fec-trump-stormy-daniels-cohen/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/05/06/fec-trump-stormy-daniels-cohen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MDRQ2WTVD4I6XFEJR562ZVI6OU.jpg&w=1440",
+          "width": 1440,
+          "height": 1060,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/05/06/fec-trump-stormy-daniels-cohen/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/05/06/fec-trump-stormy-daniels-cohen/?outputType=amp",
+      "publishedDateTime": "2021-05-06T19:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-07-fec-drops-case-reviewing-trump-hush-money-payments-to-women.md",
       "title": "F.E.C. Drops Case Reviewing Trump Hush-Money Payments to Women",
       "excerpt": "The case had examined whether Donald Trump violated election law with a $130,000 payment shortly before the 2016 election to a pornographic-film actress by his personal lawyer, Michael Cohen.",
@@ -1255,114 +1363,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-trump-era-policy-biden-administration-uses-to-expel-migrants-faces-uncertain-future.md",
-      "title": "Trump-era policy Biden administration uses to expel migrants faces uncertain future ",
-      "excerpt": "President Joe Biden came into office pledging to reverse a slew of Trump-era policies that had restricted immigration to the United States. But for months, Biden officials have relied on an unprecedented Trump policy put in place at the US southern border that's led to half a million migrants being swiftly",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zaMBP-VZDz8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zaMBP-VZDz8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 983,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210415171747-11-week-in-photos-0415-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/05/politics/us-mexico-border-pandemic-policy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/us-mexico-border-pandemic-policy/index.html",
-      "publishedDateTime": "2021-05-05T04:04:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-facebook-oversight-board-to-give-verdict-on-donald-trump-ban-live.md",
-      "title": "Facebook oversight board to give verdict on Donald Trump ban – live",
-      "excerpt": "What exactly is Facebook’s Oversight Board? If you need some catching up on exactly what Facebook’s Oversight Board is, here are some basic facts: Facebook announced the creat",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live?page=with:block-6091a7488f08ae30bfe0426d",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live?page=with:block-6091a7488f08ae30bfe0426d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 405,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/9ec4843e2e4cfdd90b7b916a71df314a47003225/0_59_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4481d464346f41d93bb22d4493664ab4",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live",
-      "publishedDateTime": "2021-05-05T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

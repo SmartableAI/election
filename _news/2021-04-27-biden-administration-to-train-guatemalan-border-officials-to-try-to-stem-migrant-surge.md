@@ -895,6 +895,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden Cabinet members banned from delivering in-person commencement addresses: report"
+    excerpt: "Members of President Joe Biden’s Cabinet have been told not to give in-person commencement addresses at universities this year, according to a report Thursday."
+    publishedDateTime: 2021-05-07T01:57:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iMqzs3ZV3Rs/biden-cabinet-members-banned-delivering-in-person-commencement-addresses"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-members-banned-delivering-in-person-commencement-addresses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-members-banned-delivering-in-person-commencement-addresses.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1cacc8a4-4fe5-4d67-8f34-77fcc9fd82c3/6e295d1d-0362-4b5a-8c4b-ee74a827370f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "LIVE UPDATES: Lawmakers to skip Biden's first joint address to Congress Wednesday night"
     excerpt: "President Joe Biden is scheduled to give his first joint address to Congress Wednesday night, however, lawmakers may be skipping the limited event. "
     publishedDateTime: 2021-04-28T04:00:53Z
@@ -1484,7 +1500,7 @@ related:
   - title: "Biden's Economic Agenda May Be More Truman Than FDR"
     excerpt: "Joe Biden's multitrillion-dollar plans to revive the economy, fix America's infrastructure and ease poverty have spawned comparisons between him and"
     publishedDateTime: 2021-05-06T10:54:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.html#!"
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.html"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.amp.html"
     type: article

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden admin slow-walked releasing John Kerry's financial disclosures for weeks"
-excerpt: "After weeks of pushing the State Department to release climate czar John Kerry's financial disclosure report, Fox News obtained documents showing previously unknown details about Kerry's finances."
-publishedDateTime: 2021-05-03T15:52:51Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rSW1Apaf1x8/john-kerry-finances-oil-energy-special-climate-envoy-net-worth"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rSW1Apaf1x8/john-kerry-finances-oil-energy-special-climate-envoy-net-worth"
-ampWebUrl: "https://www.foxnews.com/politics/john-kerry-finances-oil-energy-special-climate-envoy-net-worth.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-kerry-finances-oil-energy-special-climate-envoy-net-worth.amp"
+title: "Biden Cabinet members banned from delivering in-person commencement addresses: report"
+excerpt: "Members of President Joe Biden’s Cabinet have been told not to give in-person commencement addresses at universities this year, according to a report Thursday."
+publishedDateTime: 2021-05-07T01:57:40Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iMqzs3ZV3Rs/biden-cabinet-members-banned-delivering-in-person-commencement-addresses"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iMqzs3ZV3Rs/biden-cabinet-members-banned-delivering-in-person-commencement-addresses"
+ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-members-banned-delivering-in-person-commencement-addresses.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-members-banned-delivering-in-person-commencement-addresses.amp"
 type: article
-quality: 171
+quality: 168
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c75aa4a6-7d38-4794-8354-b76190badd76/6d4b4144-1854-42e0-aea5-320cbc1f0d45/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1cacc8a4-4fe5-4d67-8f34-77fcc9fd82c3/6e295d1d-0362-4b5a-8c4b-ee74a827370f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -783,6 +783,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden admin slow-walked releasing John Kerry's financial disclosures for weeks"
+    excerpt: "After weeks of pushing the State Department to release climate czar John Kerry's financial disclosure report, Fox News obtained documents showing previously unknown details about Kerry's finances."
+    publishedDateTime: 2021-05-03T15:52:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rSW1Apaf1x8/john-kerry-finances-oil-energy-special-climate-envoy-net-worth"
+    ampWebUrl: "https://www.foxnews.com/politics/john-kerry-finances-oil-energy-special-climate-envoy-net-worth.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-kerry-finances-oil-energy-special-climate-envoy-net-worth.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c75aa4a6-7d38-4794-8354-b76190badd76/6d4b4144-1854-42e0-aea5-320cbc1f0d45/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden avoids confronting China over climate in Earth Day speech with world leaders"
     excerpt: "President Biden urged world leaders to act quickly and together to confront the consequences of Earth's changing climate, but notably did not specifically address heavy polluters like China."
     publishedDateTime: 2021-04-22T16:16:12Z
@@ -876,22 +892,6 @@ related:
     quality: 168
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5b199d6-e7c1-4703-920c-98dc635d43dc/b7143e73-c92d-4a88-8ae7-c2ce07826294/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden Cabinet members banned from delivering in-person commencement addresses: report"
-    excerpt: "Members of President Joe Biden’s Cabinet have been told not to give in-person commencement addresses at universities this year, according to a report Thursday."
-    publishedDateTime: 2021-05-07T01:57:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iMqzs3ZV3Rs/biden-cabinet-members-banned-delivering-in-person-commencement-addresses"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-members-banned-delivering-in-person-commencement-addresses.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-members-banned-delivering-in-person-commencement-addresses.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1cacc8a4-4fe5-4d67-8f34-77fcc9fd82c3/6e295d1d-0362-4b5a-8c4b-ee74a827370f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -1642,6 +1642,6 @@ related:
         height: 2901
         isCached: true
 
-secured: "4DXEOST03y9o/U2uAtrJb8VoLUsuNk0/kXHWswMZ8PWewzkoIwMcKkM4Qcjm6kbgXHzJmN/rcg3p73kl5ObdB5/p53NILN9T+ZuyFUIDUH2fI1QPHxElHtR3lJohZllESczTKRqPFDfsf+z3FxHioHzSTHTbfxlr5/dmH2EGZIswGZxxgN9ty8qgguQs6yVX842eX8sWZ61EicFjQyJC+23bjH4fqUWDNswdI78b6FFh3E4h+YtbV8sYURk0W1B3+leUIvw9aOr4vElcKd9cIztCLSI3djeO2Rx2Vrl3kmvp4F0HjeBzJ9WDFfyoKwM2ciFwtr+rcWEBSkP/APY4GmHUL+0YK/VhqZJWk4V3m48=;SMPclyvW4CyOnST4mma+oQ=="
+secured: "w6qHhHHcLnd6uZdUJ0dpyzFG19WddFhZIXq1j22f67I8MVNJpbcg7d8s2NGZSJAU+mXmcqwYnRBOE02Jf8ZCFv3EdfSq92aG/9BQJofsauCeENBt8rXxsKRCVZzI7ySm9fCa1X9JUD4sGQ300MV02qY5TdVoofmeW6tBZOydd9hw3YxVV+yW4+FGf4MZ/TgnBP+UodEYZUg/vFdWBwFQfMPIug/QpCK8QWnDAx9OuQxTZFlc6X1P2hOKL1Wf/etlSjLDkTKl5mb5JgmhJaE9HvQtrohrUGFdo/tVr+WRvx0KpVv94akdRWff2LhSf5+s9OzZ7boz6Dm+YP8bikeq8d0bu38VW5eLekwjvXtZieg=;pyN2W9J2Z2Kabp41Bunmqw=="
 ---
 
