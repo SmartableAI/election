@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "In booting Cheney, 'My Kevin' leads GOP back to Trump"
+    excerpt: "Liz Cheney from the No. 3 House leadership position and transform The GOP leader argues that ousting Cheney has less to do with her very public criticism of the former president's lies about his 2020 election loss to President Joe Biden than her inability to set aside personal convictions and do her job."
+    publishedDateTime: 2021-05-07T03:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5N4JR5VO5AI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump's 'big lie' becomes new litmus test for success in GOP"
     excerpt: "It’s scary,” said Michael Wood, the Texas Republican congressional candidate who based his campaign on a vow to push the GOP past the “cult of personality” that is Trump. In the end, he garnered just 3% of the vote in Saturday’s special election,"
     publishedDateTime: 2021-05-04T02:32:00Z

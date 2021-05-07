@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Whose 'Big Lie'? Trump's proclamation a new GOP litmus test"
-excerpt: "Donald Trump and his supporters are intensifying efforts to shame members of the party who are seen as disloyal to the former president and his false claims that last year’s election was stolen"
-publishedDateTime: 2021-05-04T04:34:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
-webUrl: "https://abcnews.go.com/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
+title: "In booting Cheney, 'My Kevin' leads GOP back to Trump"
+excerpt: "Liz Cheney from the No. 3 House leadership position and transform The GOP leader argues that ousting Cheney has less to do with her very public criticism of the former president's lies about his 2020 election loss to President Joe Biden than her inability to set aside personal convictions and do her job."
+publishedDateTime: 2021-05-07T03:51:00Z
+originalUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html"
+webUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
-published: true
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_d94cd197df9a4c78b707faae0d52b181_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5N4JR5VO5AI6XAWBRFVMVFK3XE.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
+  - title: "Whose 'Big Lie'? Trump's proclamation a new GOP litmus test"
+    excerpt: "Donald Trump and his supporters are intensifying efforts to shame members of the party who are seen as disloyal to the former president and his false claims that last year’s election was stolen"
+    publishedDateTime: 2021-05-04T04:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d94cd197df9a4c78b707faae0d52b181_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Challenger hits Liz Cheney, says GOP must work with Trump"
     excerpt: "No. 3 House Republican Liz Cheney is clinging to her post as party leaders are lining up behind an heir apparent for her job"
     publishedDateTime: 2021-05-06T14:49:00Z
@@ -44,22 +60,6 @@ related:
     quality: 125
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BMJHGUFNVQI6XAWBRFVMVFK3XE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "In booting Cheney, 'My Kevin' leads GOP back to Trump"
-    excerpt: "Liz Cheney from the No. 3 House leadership position and transform The GOP leader argues that ousting Cheney has less to do with her very public criticism of the former president's lies about his 2020 election loss to President Joe Biden than her inability to set aside personal convictions and do her job."
-    publishedDateTime: 2021-05-07T03:51:00Z
-    webUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5N4JR5VO5AI6XAWBRFVMVFK3XE.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -107,6 +107,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "OYMbwSbJPJnJ69kAxH+BiREmdUFRbmIEmY3IJV7HGu6EIP63FUNHOdjWlKcu7KgGWkv8bJ55859Sla8jeeMdGbOQBjouaxO9wpYuUaaPRvbIGC2PZh9fyBxuTBsnEz+7nftePSwNWJ6iSopVULPiEU0r4AbfsLuhRhMzJlph1kbhdteeCoOeds82MR4tCa+qoeSl6GPXmHPe280tLhcpoc91DEBqUPcqXbJSKH7cDOJwN7NjiC+HhWuVqx0gRAV2aWhrOC0lEU0c3uXQpIF95l7wZNcrzNFYZFwSo4ynAJ1ZKLV6sBoyU0nbD0QmHtrDZFkBlv7gEMRdgCsC6qXOYm1MTnDYEQNrE3bXZFOebu8=;vdBsZZMjBnzC+p1Yz8CzNw=="
+secured: "pcgBHZXN+5qPFkt6/zvLmKGABiywLFbo84U35KIykw7AJDPtnfceEh7sE52pM0HWzdbabcXDGJpf20xa5CmphMlLa8XEx8R7v5E/x1Wctvcwx/i+QB/INURXsp7H86MpBSu5Lh/dGYSYEn4irdFiUCGqKL5FPvEIFED99l3iH7dYUjYU1Vg0xdKROUIw63PIcx0WA7ZOYSOBc3RtKJjUmQOLMh6woVijKePXpL+mTpCabus4oRWSn57uu2i6oTAzVAhQi5sUuRvRFyu6Ibgyoh4hAEcG9zRtgEpPn5TtHBqJ8H3P0cp2zFNOAQkz2Sqc9jk3TabXFS+MhNOs9K3pKOPzIK6NXkZnTYquewUI+nQ=;k/sHrhwlu1d/x1XE9JtWDg=="
 ---
 

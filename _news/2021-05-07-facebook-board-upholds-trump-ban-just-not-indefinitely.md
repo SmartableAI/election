@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Explainer-Ahead of Trump Facebook Ruling, Here’s How Social Media Sites Handle World Leaders"
-excerpt: "Facebook's independent oversight board on Wednesday will announce whether it is overturning the company's suspension of former U.S. President Donald Trump's account. The long-awaited ruling will bring the focus back onto how the world's largest social network decides what world leaders and politicians can and can't say on their platforms."
-publishedDateTime: 2021-05-04T11:20:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-05-04/explainer-ahead-of-trump-facebook-ruling-heres-how-social-media-sites-handle-world-leaders"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-04/explainer-ahead-of-trump-facebook-ruling-heres-how-social-media-sites-handle-world-leaders"
+title: "Facebook board upholds Trump ban, just not indefinitely"
+excerpt: "Former President Donald Trump won’t return to Facebook — at least not yet. The social network’s quasi-independent Oversight Board voted to uphold his ban from the platform after his account was suspended four months ago."
+publishedDateTime: 2021-05-07T03:56:00Z
+originalUrl: "https://www.chron.com/news/article/Facebook-board-s-Trump-decision-could-have-wider-16152347.php"
+webUrl: "https://www.chron.com/news/article/Facebook-board-s-Trump-decision-could-have-wider-16152347.php"
+ampWebUrl: "https://www.chron.com/news/amp/Facebook-board-s-Trump-decision-could-have-wider-16152347.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Facebook-board-s-Trump-decision-could-have-wider-16152347.php"
 type: article
-quality: 24
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.hdnux.com/photos/01/17/70/54/20941630/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
+    isCached: true
 
 related:
   - title: "Facebook oversight board to give verdict on Donald Trump ban – live"
@@ -135,22 +139,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Facebook board upholds Trump ban, just not indefinitely"
-    excerpt: "Former President Donald Trump won’t return to Facebook — at least not yet. The social network’s quasi-independent Oversight Board voted to uphold his ban from the platform after his account was suspended four months ago."
-    publishedDateTime: 2021-05-07T03:56:00Z
-    webUrl: "https://www.chron.com/news/article/Facebook-board-s-Trump-decision-could-have-wider-16152347.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Facebook-board-s-Trump-decision-could-have-wider-16152347.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Facebook-board-s-Trump-decision-could-have-wider-16152347.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/17/70/54/20941630/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Donald Trump's Facebook ban is permanent, social network's Oversight Board rules"
     excerpt: "Former President Donald Trump won’t return to Facebook. The social network’s quasi-independent Oversight Board has voted to permanently ban his account after it was suspended four months ago for inciting violence that led to the deadly Jan."
     publishedDateTime: 2021-05-05T13:05:00Z
@@ -248,7 +236,16 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Explainer-Ahead of Trump Facebook Ruling, Here’s How Social Media Sites Handle World Leaders"
+    excerpt: "Facebook's independent oversight board on Wednesday will announce whether it is overturning the company's suspension of former U.S. President Donald Trump's account. The long-awaited ruling will bring the focus back onto how the world's largest social network decides what world leaders and politicians can and can't say on their platforms."
+    publishedDateTime: 2021-05-04T11:20:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-04/explainer-ahead-of-trump-facebook-ruling-heres-how-social-media-sites-handle-world-leaders"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 24
 
-secured: "PoPAgZQDECHIM0RX8hqx/0Lx5TyL81AbFjkrPv/niM9YdSR0W+qO6tfD88Gsr2bDP8tbNnabLUJ0T/iduKgywD9P2oVKe1FfbAxMSV+yp2AgUmw3igMMLZvM7n5/huRL/gbG5YTa/CA6YOMJGivxw81E7w0JSfvJRO9cIxXD/hc1KQx9JkP+3T7oscWNm9Fj2kqkg8qvCgiHUuTs5eU8hD2KrPgMSi62PGvr1jaOEPC7pltMt+v1WFDCdMWQjMGjtQCnbXpXuChw3SZxbLXOtfjS9Ryq978klWiyeMESaFHzmXNKbCOFtiwnt0nvu4sMCRqMzEv23oJ58tsvplmzl7dz8kEvX4/bR43O7oVv4s3QV1LdDgLo3p70Aj3WV+y0MnkeT4t2K+CJ2RwBPYHaTgmuB3v3GNuuEmWrP9AMXwd7Wg2AxUg72D0tfthwrKdnuspap26lklSCTWHxRsjBVgiYUeVwbG0/Az1qUMltdPk6UiZ57nMws1YwstMQwGAa4rVqJ8/QUdZYlfV1440HaA==;Z/KGdr8/0mjWb7AuKdErpQ=="
+secured: "uQy+1hbvAvhNG4Wq3ffGfqm0wjmIdOWqvk2q8V0TQvbb9HhkjA7ud/lN+6pmoYkOV5NncsWkLEyYOtenKFSrXxBaI6QrQ3BbhAlfhMbXJS7QID+20kwyCCyG4ly+VC5egIn3w18rwSkI4lc2WtqN/mTxGgvNmRz9//rZe9WxnitWm6Dby76pqeRO50GW7WO4EE4xis8VP5IJO5vMYsTN1qnA79zPeFHY+wsZxs73zehFAPJBQjrlvtMxnhBrND7vm7EWDGGDo0b/4drM+MtI+uTkMtOwTdsvxAWYOPj+oRLIu9aC4dbk59o5P/iqgrdziGZFRzQqYz/IEtxMH/lzAg/HRl4F2bzghHEJTmjw828=;OT7Hf3kRlEp+SjmIfBAYeA=="
 ---
 

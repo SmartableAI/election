@@ -139,6 +139,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Facebook board upholds Trump ban, just not indefinitely"
+    excerpt: "Former President Donald Trump won’t return to Facebook — at least not yet. The social network’s quasi-independent Oversight Board voted to uphold his ban from the platform after his account was suspended four months ago."
+    publishedDateTime: 2021-05-07T03:56:00Z
+    webUrl: "https://www.chron.com/news/article/Facebook-board-s-Trump-decision-could-have-wider-16152347.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Facebook-board-s-Trump-decision-could-have-wider-16152347.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Facebook-board-s-Trump-decision-could-have-wider-16152347.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/70/54/20941630/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Defining Moment For Facebook Oversight Panel With Trump Ban Ruling"
     excerpt: "Facebook's independent oversight board was set for a momentous decision on the platform's ban of former US president Donald Trump, as debate swirls on the role of social media in curbing hateful and abusive speech while controlling political discourse."
     publishedDateTime: 2021-05-04T16:18:00Z
