@@ -1376,6 +1376,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "'We still have a long way to go,' says Joe Biden after disappointing jobs numbers – video"
+    excerpt: "Joe Biden did not appear downhearted by a disappointing April jobs report"
+    publishedDateTime: 2021-05-07T12:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/may/07/joe-biden-jobs-numbers-april-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 96
+    images:
+      - url: "https://i.guim.co.uk/img/media/f800c165af24c3c1e54719ad8fc932a5fb89cb8e/0_364_5462_3277/master/5462.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=618ed11e019569d6e28e37ec96cd245e"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Fact Check-Trump had been accused of racism by contemporaries prior to presidential campaign"
     excerpt: "Before former President Donald Trump launched his first presidential campaign in summer 2015, critics had publicly accused him of making remarks and taking actions they regarded as racist. Social media posts claiming that Trump did not face criticism on this front"
     publishedDateTime: 2021-05-06T21:39:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-to-lead-the-national-space-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-to-lead-the-national-space-council-border-visit.amp"
 type: article
 quality: 181
-heat: 361
+heat: 401
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
     quality: 168
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/522168c6-fcb3-4c3e-bd13-73e602efa01a/55e12e22-50d2-4aa1-af41-481d1e901615/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Kamala Harris calls for 'immediate relief' for Northern Triangle in virtual meeting with Mexican president"
+    excerpt: "Vice President Kamala Harris on Friday called for “immediate relief” for Northern Triangle countries in a “virtual” meeting with the Mexican president -- part of her strategy to counter “root causes” of the migration crisis at the southern border."
+    publishedDateTime: 2021-05-07T18:09:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n8ZuVjkoDOI/kamala-harris-immediate-relief-northern-triangle-mexican-president"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-immediate-relief-northern-triangle-mexican-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-immediate-relief-northern-triangle-mexican-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -173,6 +189,22 @@ related:
     quality: 118
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61a09385-d936-4e51-b48e-e32d19a2be35/f213bd7d-7421-4961-9149-02ad10d29edc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Kamala Harris calls for 'immediate relief' for Northern Triangle in virtual meeting with Mexican president"
+    excerpt: "Vice President Kamala Harris on Friday called for “immediate relief” for Northern Triangle countries in a “virtual” meeting with the Mexican president -- part of her strategy to counter “root causes” of the migration crisis at the southern border."
+    publishedDateTime: 2021-05-07T18:09:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-immediate-relief-northern-triangle-mexican-president"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-immediate-relief-northern-triangle-mexican-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-immediate-relief-northern-triangle-mexican-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

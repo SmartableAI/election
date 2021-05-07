@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Ohio GOP calls on Rep. Anthony Gonzalez to resign for impeaching ex-President Trump"
+    excerpt: "Rep. Anthony Gonzalez was one of 10 Republicans who voted to impeach Trump for inciting the Jan. 6 attack on the U.S. Capitol."
+    publishedDateTime: 2021-05-07T19:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/07/ohio-gop-vote-censuring-rep-gonzalez-over-trump-impeachment-vote/4993540001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4993540001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4993540001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/29/NREP/49ce64dd-aef5-477b-840e-a698b63a081a-thumbnail_AG_116th_Congress_Official_Headshot.jpg?auto=webp&crop=1018,573,x0,y192&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Professional political survivor Mike Pence tests if there's any room left for him in a Trump Republican Party"
     excerpt: "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics."
     publishedDateTime: 2021-04-28T08:01:00Z

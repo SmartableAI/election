@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/texas-special-election-poses
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/texas-special-election-poses-test-for-anti-trump-republicans/2021/04/30/38dd9c6c-a96d-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Entertainment/WireAP_31c3a5f964704f5eb205a7f35a3c5fb8_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Ohio GOP calls on Rep. Anthony Gonzalez to resign for impeaching ex-President Trump"
+    excerpt: "Rep. Anthony Gonzalez was one of 10 Republicans who voted to impeach Trump for inciting the Jan. 6 attack on the U.S. Capitol."
+    publishedDateTime: 2021-05-07T19:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/07/ohio-gop-vote-censuring-rep-gonzalez-over-trump-impeachment-vote/4993540001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4993540001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4993540001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/29/NREP/49ce64dd-aef5-477b-840e-a698b63a081a-thumbnail_AG_116th_Congress_Official_Headshot.jpg?auto=webp&crop=1018,573,x0,y192&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Donald Trump Claims His Susan Wright Endorsement Shut Democrats Out of Texas House Race"
     excerpt: "\"It would be nice, however, if the pundits and Fake News Media would state the real reason for this unprecedented (Democrats have never been shut out before) victory!\" Trump said."

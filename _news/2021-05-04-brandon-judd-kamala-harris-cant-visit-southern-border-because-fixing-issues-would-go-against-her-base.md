@@ -96,6 +96,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris calls for 'immediate relief' for Northern Triangle in virtual meeting with Mexican president"
+    excerpt: "Vice President Kamala Harris on Friday called for “immediate relief” for Northern Triangle countries in a “virtual” meeting with the Mexican president -- part of her strategy to counter “root causes” of the migration crisis at the southern border."
+    publishedDateTime: 2021-05-07T18:09:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n8ZuVjkoDOI/kamala-harris-immediate-relief-northern-triangle-mexican-president"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-immediate-relief-northern-triangle-mexican-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-immediate-relief-northern-triangle-mexican-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris to visit Milwaukee on Tuesday: reports"
     excerpt: "Kamala Harris has another trip away from Washington planned for next week – but it’s not a visit to the U.S.-Mexico border region. The vice president on Tuesday will travel to Milwaukee, according to reports."
     publishedDateTime: 2021-04-29T10:10:00Z
@@ -173,6 +189,22 @@ related:
     quality: 118
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713e9f33-c4eb-4a97-8cf1-837ab5291ca0/cf878f8f-09af-4cf4-8926-35bdddacd5dc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Kamala Harris calls for 'immediate relief' for Northern Triangle in virtual meeting with Mexican president"
+    excerpt: "Vice President Kamala Harris on Friday called for “immediate relief” for Northern Triangle countries in a “virtual” meeting with the Mexican president -- part of her strategy to counter “root causes” of the migration crisis at the southern border."
+    publishedDateTime: 2021-05-07T18:09:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-immediate-relief-northern-triangle-mexican-president"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-immediate-relief-northern-triangle-mexican-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-immediate-relief-northern-triangle-mexican-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

@@ -2,9 +2,9 @@
 category: news
 title: "Biden says ‘We still have a long way to go’ after disheartening jobs report – live"
 excerpt: "Biden insists country is ‘moving in the direction’ despite poor numbers – follow all the day’s politics news"
-publishedDateTime: 2021-05-07T17:30:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live?page=with:block-60956df68f080cbad78f717f"
-webUrl: "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live?page=with:block-60956df68f080cbad78f717f"
+publishedDateTime: 2021-05-07T19:52:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live?page=with:block-60958ebd8f08973dcfaca9a0"
+webUrl: "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live?page=with:block-60958ebd8f08973dcfaca9a0"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 360
     isCached: true
 
-secured: "7+sHhjHDuCxptA4M5anZpJEmeSshYkabj/04ElV7VW/yaW9zBNM7Q2T9T8CpMP3dZlx1D4FVLHjyg1gw+0TRAwAmxR50h7xwSCAmhVQ5lTPiNDyQExTC5kGrBTQo/Ugy6oANs663QuEiuZ9azpqH+igCWhu5WhiB0O/KMVqPucPvl2jgv2ehnmEKZan1yDBkjrsFGQ3vV3KuoaqLGCnw+lbsPXER2iU6JPLRU5h4Gs2Zb4z0jmrqvVhJvAp0RRaf6ntoMZr1oiw/76zSRHhsfS2/a/ShUZ78BTo2ZhgMEnjxZFVxACeiMbH+AChKLPvJ6vudInLN2xIlFW95bErGFUgpM7krOeAiSesxFAjCfzU=;tuVoFqzjaZGvn9ne0H7TqA=="
+secured: "tPXWYV+svrjfAiy53MZaneLHnzwkjhr6oI0jdUBBbCgiS6vD0VS7T1t7rUQ7aou8kiwEPCj7Pkxb9JgoIpnbH59on1j19zVJxo6qTGwaA1A1o4ZiH+A5t8PpDsnhmd3Qj5mREhlKNRc19rWq4OBUEiQ1EE+WY6+xmI8I0gWeF0XNOUiWzAcAxAGN7ErXdD4Eh9akVcIupP7LPfsiYWiIY4WQ3/lrwyHTMyhSbaziLvqp8pR9NmwoiZAlO8RLNZAVpzly94f2fBb87zM/b7XEtrl2bddGVrBSgoRcVAXBFpE3rtev5qQUWR2a/ixo9MkLk7sH/sN1ViHJNMjyfzS/8BqBI1tJrYvP4j+6XS/L49M=;8gimQAnj3r9Ajb6/6YGd8g=="
 ---
 

@@ -401,6 +401,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Ohio GOP censures 10 Republicans who voted to impeach Trump"
+    excerpt: "The Ohio Republican Party censured U.S. Rep. Anthony Gonzalez and nine other GOP representatives Friday for voting in February to impeach former President Donald Trump, in a nearly unanimous vote of the powerful central committee."
+    publishedDateTime: 2021-05-07T17:17:00Z
+    webUrl: "https://www.chron.com/news/article/Ohio-GOP-may-censure-own-for-supporting-Trump-16159539.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Ohio-GOP-may-censure-own-for-supporting-Trump-16159539.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Ohio-GOP-may-censure-own-for-supporting-Trump-16159539.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Utah Republicans’ bid to censure Sen. Mitt Romney for Trump impeachment votes fails"
     excerpt: "Mitt Romney but ultimately rejected a motion to censure him Saturday for his votes at President Donald Trump’s impeachment trials. The measure narrowly failed, 798 to 711, in a vote by delegates to the state GOP convention,"
     publishedDateTime: 2021-05-02T03:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/white-house-construction
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/white-house-construction-trump-biden/index.html"
 type: article
 quality: 190
-heat: 510
+heat: 530
 published: true
 
 provider:
@@ -222,6 +222,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/rockcms/2021-05/1304/210505-gig-worker-protest-jm-1127-2f7004_4753b70876b6daab534373fae3579f27047d2b94.jpg"
         width: 2500
         height: 1670
+        isCached: true
+  - title: "Trump signed off on last-minute Medicaid changes. Now Biden faces the legal challenges"
+    excerpt: "A Medicaid lawsuit in Tennessee and similar ones in other states have Biden walking a legal tightrope to undo Trump’s Medicaid policies at a fraught time."
+    publishedDateTime: 2021-05-07T16:54:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/trump-signed-last-minute-medicaid-changes-now-biden-faces-legal-n1266621"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266621"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266621"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_18/3470728/210506-brandi-mccutchen-brylee-ew-1203p_e35c4b15e13a5e50ae5dc98b89de827b.jpg"
+        width: 2000
+        height: 1000
         isCached: true
   - title: "Biden raises refugee cap to 62,500 after facing criticism for keeping Trump-era levels in place"
     excerpt: "The announcement comes after Democrats slammed the move last month, with the White House saying then it would announce a new cap by May 15."

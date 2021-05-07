@@ -92,6 +92,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris calls for 'immediate relief' for Northern Triangle in virtual meeting with Mexican president"
+    excerpt: "Vice President Kamala Harris on Friday called for “immediate relief” for Northern Triangle countries in a “virtual” meeting with the Mexican president -- part of her strategy to counter “root causes” of the migration crisis at the southern border."
+    publishedDateTime: 2021-05-07T18:09:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n8ZuVjkoDOI/kamala-harris-immediate-relief-northern-triangle-mexican-president"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-immediate-relief-northern-triangle-mexican-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-immediate-relief-northern-triangle-mexican-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris to visit Milwaukee on Tuesday: reports"
     excerpt: "Kamala Harris has another trip away from Washington planned for next week – but it’s not a visit to the U.S.-Mexico border region. The vice president on Tuesday will travel to Milwaukee, according to reports."
     publishedDateTime: 2021-04-29T10:10:00Z
@@ -172,7 +188,23 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris calls for 'immediate relief' for Northern Triangle in virtual meeting with Mexican president"
+    excerpt: "Vice President Kamala Harris on Friday called for “immediate relief” for Northern Triangle countries in a “virtual” meeting with the Mexican president -- part of her strategy to counter “root causes” of the migration crisis at the southern border."
+    publishedDateTime: 2021-05-07T18:09:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-immediate-relief-northern-triangle-mexican-president"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-immediate-relief-northern-triangle-mexican-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-immediate-relief-northern-triangle-mexican-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
-secured: "hEYvevzYdC8HiQB0UDrpVdJjnHArBHWUz+02Pn7HqA+4BIgnDzveZ9lMPlku6ovufPo+8AKQj4+j9vcPFCc8NZt2ovyCsrJM+2l2fLC3uAxHyWwLDIz4ehfmrVO38GwnLj4v6CmsZ/YqpZm6nbex72uvPWkf+dLAFoXj03JPO5CACfMMD+vgiuiL8QKhTvpHTcDmBtnWGIPY+hytiE6vAXfGDryHtQD6clWL9a3KRAsb2Y+g3Inz5Df+AzElfHTx5f6hnqhBP9+Lu3rfgUY9j9T+ch5H7b8L9jE7PX34vgqeXkEOcVNJLPKpN2HfnS3P0kDFKFOLxng640QwC219yizdReTtevLfQ3KB+yN4cIY=;W6GoJczt0OAbqr9B8OzeUg=="
+secured: "FaH4TqvLSEr7woKlX1GvkWnWj7S0UvaVryYBIP52+YfFKECoLsN44EOx2S7C1dwdGbZjDvxvkr+ctCx21VL3EsAGbG0Z7Uo4QFlENyuxmwhqITFRGRt4KwrwC/GxY4m15JkwjSrssICMZB6u2sK1ku1blHcjFmjSP2RlCGHvBuum3luvbP91AezarZC3uQDlfrXIQOZPe6lgYWvlbEwhWqEkedXd64wepBSw/026Syz5zjb7ex4j5O5Dv4wIqc9kMKnoUKe5d/8cI8l3JS9VdSXcxYEDVzcrpqbGGY3oeY9wDwcpD+zKH6L4mj/QZiudqKqaXY+AjcxSnn2QgO662N10FAtnH450KqUEI2iUI1XhQjL36+E61VvIqhd6wwgp/3wuMG0ZnZMAB+hM29qfy7uIBFdRiM7DHMRtAjgwbRmd70zpb27uuDi/7Pwugy40/PeQ6VWkszpnjq5ao2GFf/BUXVt5RgKZ8EW/WC7ly3C+iHcoHjIJerWgC4Vp3+220lZV9hn/DUbrouc1l9DTqQ==;xPH8/ZMta2B5ugY19a1FvQ=="
 ---
 

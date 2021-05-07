@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden says wearing masks inside 'still good policy,' even when vaccinated"
+    excerpt: "President Biden defended wearing a mask inside even when everyone around is vaccinated Friday, adding that it is “still good policy.” "
+    publishedDateTime: 2021-05-07T18:03:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BLtX3sOeKSc/biden-masks-inside-good-policy-vaccinated"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-masks-inside-good-policy-vaccinated.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-masks-inside-good-policy-vaccinated.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/bidens.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Joe Biden, Economy Killer"
     excerpt: "Along with a working vaccine, Joe Biden inherited a V-shaped economic recovery, but he is now planting the seeds of its destruction. Inflation,"
     publishedDateTime: 2021-05-07T10:34:00Z
