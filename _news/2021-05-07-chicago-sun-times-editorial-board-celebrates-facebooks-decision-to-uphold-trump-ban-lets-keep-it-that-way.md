@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump ban: Republicans threaten to break up Facebook after Oversight Board decision"
-excerpt: "Republican members of Congress will do everything in their power to break up Facebook, Trump's former chief of staff said."
-publishedDateTime: 2021-05-05T14:42:18Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VxO0S_rni3k/trump-ban-conservatives-facebook-break-up-big-tech"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VxO0S_rni3k/trump-ban-conservatives-facebook-break-up-big-tech"
-ampWebUrl: "https://www.foxnews.com/politics/trump-ban-conservatives-facebook-break-up-big-tech.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ban-conservatives-facebook-break-up-big-tech.amp"
+title: "Chicago Sun-Times editorial board celebrates Facebook's decision to uphold Trump ban: 'Let's keep it that way'"
+excerpt: "The editorial board of the Chicago Sun-Times celebrated Facebook's decision to uphold its ban of former President Trump."
+publishedDateTime: 2021-05-07T03:37:00Z
+originalUrl: "https://www.foxnews.com/media/chicago-sun-times-editorial-board-celebrates-facebooks-decision-to-uphold-trump-ban-lets-keep-it-that-way"
+webUrl: "https://www.foxnews.com/media/chicago-sun-times-editorial-board-celebrates-facebooks-decision-to-uphold-trump-ban-lets-keep-it-that-way"
+ampWebUrl: "https://www.foxnews.com/media/chicago-sun-times-editorial-board-celebrates-facebooks-decision-to-uphold-trump-ban-lets-keep-it-that-way.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/chicago-sun-times-editorial-board-celebrates-facebooks-decision-to-uphold-trump-ban-lets-keep-it-that-way.amp"
 type: article
-quality: 169
+quality: 115
 heat: -1
 published: false
 
@@ -22,10 +22,11 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a69231ea-ddbb-4614-abbe-a9d2746fd492/57230d5d-ba9c-4fcc-8aca-a77d6ba9b456/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa0ec152-d976-460f-a4ed-f7f11c6b97f1/1d480094-0ec6-40c0-b215-3a142160b801/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -44,6 +45,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7338d066-a169-425e-98b8-3f7f1df557ed/ff69bda7-feee-43c0-b834-08e1c3668882/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Trump ban: Republicans threaten to break up Facebook after Oversight Board decision"
+    excerpt: "Republican members of Congress will do everything in their power to break up Facebook, Trump's former chief of staff said."
+    publishedDateTime: 2021-05-05T14:42:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VxO0S_rni3k/trump-ban-conservatives-facebook-break-up-big-tech"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-ban-conservatives-facebook-break-up-big-tech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ban-conservatives-facebook-break-up-big-tech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a69231ea-ddbb-4614-abbe-a9d2746fd492/57230d5d-ba9c-4fcc-8aca-a77d6ba9b456/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -175,23 +192,7 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Chicago Sun-Times editorial board celebrates Facebook's decision to uphold Trump ban: 'Let's keep it that way'"
-    excerpt: "The editorial board of the Chicago Sun-Times celebrated Facebook's decision to uphold its ban of former President Trump."
-    publishedDateTime: 2021-05-07T03:37:00Z
-    webUrl: "https://www.foxnews.com/media/chicago-sun-times-editorial-board-celebrates-facebooks-decision-to-uphold-trump-ban-lets-keep-it-that-way"
-    ampWebUrl: "https://www.foxnews.com/media/chicago-sun-times-editorial-board-celebrates-facebooks-decision-to-uphold-trump-ban-lets-keep-it-that-way.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/chicago-sun-times-editorial-board-celebrates-facebooks-decision-to-uphold-trump-ban-lets-keep-it-that-way.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa0ec152-d976-460f-a4ed-f7f11c6b97f1/1d480094-0ec6-40c0-b215-3a142160b801/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
-secured: "zx5tobtn0OGUEezYClD3P4L72wKrDrFnjn4japkQuT1vLzM4ctRdzII5uVE8eb+6O37edbbl1jULFklcXQyNrfaTwVhov8fmrSBhbyOtzphJnc0q6R7mdCtyD67cLyeF2meNllrjU2qNdOhULNGJHne5cE2UnFxwDAOPD6ET5i+vM/JpOpYSRPgr913lb8i4vINHkVnmIc8uWq7tbgLIxUikpFMSIK7cJZ+TAEexrxTH5W9aMHQ1sOB5bqF4Lv65+wEFBSoJRIl1RCGj3YTJnt1gxszH2iK3alPA+mmmyT5+jFmSQrXHdPGA4gcq4Os5K8YL1GGBYnmyT4b0ajmVP5PRO92ilq6bMewwKElRe0w=;6AKC0ms9f4tPv7HNMaAZOQ=="
+secured: "XOubNsP4PnDHoWDBvT5bT4F8UdkGbZb7jqkk+Mq+RcTBBQZLtFqvMvvQQOdS7K3FDIid8yFnx5s/TRqLSVF6IKzFFcG1/83d4G07IXa4T45WJayb5lCCIyhHTHJYvRsRQMiCp0JRClVCtyXpJuqsFdu2UhwzBsmcnJQ2+FD+q/62hIoeRhte0mSn1cp0jb0jpQjCofJqICE6DhYQiQD+eztg0lgZZa4qm39425iK5AcVtL3qXuaM6R53KenPE3yyLxMhn2XW4DO+RzwbcftS7ekkOz2kxIT1CZztQD2yW5703uH3ZJqG/jzx9wu2gbk/hfPi5LvrX+/EvTaxPhC66wL2TUHjxbUABlMvAwofbDM=;1w8o4OToyM26Xxt3M6tQKA=="
 ---
 

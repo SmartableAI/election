@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-biden-100-days
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-biden-100-days-history?amp"
 type: article
 quality: 125
-heat: 525
+heat: 545
 published: true
 
 provider:
@@ -340,6 +340,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YJJVFBD2MVH4BDLMQSSAMIRKZM.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Joe Biden in New Orleans, Lake Charles: Here's what happened during the President's visit"
+    excerpt: "President Joe Biden will visit Louisiana today, stopping in Lake Charles first and then heading to New Orleans. The trip is part of his promotion of an infrastructure plan. Biden is expected to touchdown in Lake Charles at 12:15 p."
+    publishedDateTime: 2021-05-06T13:45:00Z
+    webUrl: "https://www.nola.com/news/politics/article_b20af06c-ae6d-11eb-a27b-8b93402fe206.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 46
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/2/30/23063c22-ae7d-11eb-ab60-3352f3450e89/609406de0966c.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
 
 secured: "DD++jR04UkZYvFY6AAlCfuHFu5SlBjiCvCt/8x3fdanl178Ku9HWpdu3sYpBaWVps/p7JqQXd4sBgl7rTEoaX3Alo+0ab+ejklwP4otgM4hhrQrCpEsIo/UF0qZcBewsv6/OHoRWk9zmta+RN56C93uSWs2leHlct4zuVQ/TMPiEhu649PMp8tgvxfyUxrNc/TyGKqH/AmKJeiFoXZ5fcx7vqCyRdxbiYHmTz8FOj1qtcDKUhb4nYxSQsneNhrrvNjKpqG5+PJn70L2e8EQeoB9MmzxUpqClPaCX7xH5mn9d2aBa7s2ml3eAx6MKCgurLaJ7UJ5RJCTbJskYLwqTFfC/Brvl5wxx8AVB+pN7PRMfC6zKXkmFXaKtvFj8QVn9kz5ToFLcgyhnH8E/DsRLaffjRV4qFaU9AABZI0F3yQjsGzYrVYW2BepasyuzQXSFloWvi6fPD45uxTpYJEoMSqNzzakK1KFGAuAiykhAiBgWs6Fx/0j8ywnLJRRHqrid9aN2/Z0/JpMnF/+oN1IEFQ==;qf8wYCsI7Df1V4+eQHo1ZQ=="

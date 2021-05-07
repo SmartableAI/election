@@ -175,6 +175,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Chicago Sun-Times editorial board celebrates Facebook's decision to uphold Trump ban: 'Let's keep it that way'"
+    excerpt: "The editorial board of the Chicago Sun-Times celebrated Facebook's decision to uphold its ban of former President Trump."
+    publishedDateTime: 2021-05-07T03:37:00Z
+    webUrl: "https://www.foxnews.com/media/chicago-sun-times-editorial-board-celebrates-facebooks-decision-to-uphold-trump-ban-lets-keep-it-that-way"
+    ampWebUrl: "https://www.foxnews.com/media/chicago-sun-times-editorial-board-celebrates-facebooks-decision-to-uphold-trump-ban-lets-keep-it-that-way.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/chicago-sun-times-editorial-board-celebrates-facebooks-decision-to-uphold-trump-ban-lets-keep-it-that-way.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa0ec152-d976-460f-a4ed-f7f11c6b97f1/1d480094-0ec6-40c0-b215-3a142160b801/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "PsmXdihYgEgNRY9bB3+6Tdn+SgKEjnmEu09URhgc4KS0IIR1BZ/3hh8jKdNFurNx2zONyBucPgjLs7rNnZ2/j2BOVCDcyJp0xF1bCvES+9fidq3ib10B/QQcsY1k9f6Nv+VTfSSffzGS4VkpDGYUEXNBVwBNRgLZ5WVwpHH+M5fei/F8hWs4vsTJITMLkqE23Gzq+PS6oY0Y+OhaEtetYeV6e+CnQuybT2s2L7j+ctKTZThz6B8G4a1W2e5wKvvAEpJIoWDmnFAdTm3ISPI28oUasf9srjTkCwtzXKzkq9cAk1xuz9Wsn/eLXCpLwVLtKbZNRBSKC5z2coGiZfuqXeLnTOCzkixLTdLuIUEuCtQ=;XB0zYBqET22SAQ8sW2mJhw=="
 ---

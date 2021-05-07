@@ -3,8 +3,8 @@ category: news
 title: "Biden's Economic Agenda May Be More Truman Than FDR"
 excerpt: "Joe Biden's multitrillion-dollar plans to revive the economy, fix America's infrastructure and ease poverty have spawned comparisons between him and"
 publishedDateTime: 2021-05-06T10:54:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/06/bidens_economic_agenda_may_be_more_truman_than_fdr_145715.amp.html"
 type: article
@@ -1639,6 +1639,6 @@ related:
         height: 2901
         isCached: true
 
-secured: "EC3Pio0fS2K+HjBEJHeBe+mxmDOag/pXC3iFSuKbqPvSIUV5jlpXeQkw/l1QnRSaL+rK8LbJRtLGhBaEf0LuPSWixwAbcezkbt8qhHm8K0neGWiO8IoH3c8YF7M3/xHQWS40XGtvE1gIy5suKyZND+ee3y6TZeAUM80hbaSdccOBwwAElLAVwaozqebTXTT0MxErCKc0QhG7atstdE3cjPP/6r1WvuMCSgUicI8tezZ9RQccLQ3hl2UAaNTpdnXhKn8y+MPoBTbtyc/jwtkGxCnii1E/NvWPBaJPO4tMzpEFb341LSgSqM0Z0WybZxMUCeI2XYovUkIWSsMWu4JriE/QRaG7dDcPp2aCq7dElOA=;uKC8Gz6hihCTBI4uYH5USA=="
+secured: "2byYBE3Uz+VaJ7mwoDIOF/bwnzxCdpMOFkTLgj4KmPqnlmCrHScAal84bh9ydFdkCzumZwUzgTiRzHFvqa5glZjH81RU53aH1ft/GxJDQ9mUcwxOZqXpR+kwhFwPPMgZOB+ogwyBVBpl6fc/uJHN+fjXYFuhkOoEyIBAFsk4PIgR5yA6Kw+bowDv/Xpu40BhUCvkmlEi7KEqXEraMVbbsHTBbal2WWn0mRu4kfBczVlghNFwzcYojJ4/pIBS7i9CuwwWXTYzObzpLh71R/2O5REIoGB0RNLqc9ef1FZl/cUb3aS6Ma73gVA1stCy+s9pUXulQuSDooIeZRoSgBzxxeR/+/fqzq4lVeqISIiVQgU=;8DSvcG5vJ9XDXdeD6EE9pg=="
 ---
 

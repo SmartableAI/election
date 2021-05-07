@@ -341,6 +341,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Joe Biden in New Orleans, Lake Charles: Here's what happened during the President's visit"
+    excerpt: "President Joe Biden will visit Louisiana today, stopping in Lake Charles first and then heading to New Orleans. The trip is part of his promotion of an infrastructure plan. Biden is expected to touchdown in Lake Charles at 12:15 p."
+    publishedDateTime: 2021-05-06T13:45:00Z
+    webUrl: "https://www.nola.com/news/politics/article_b20af06c-ae6d-11eb-a27b-8b93402fe206.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 46
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/2/30/23063c22-ae7d-11eb-ab60-3352f3450e89/609406de0966c.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "O2g4J5rWxnXFIWaD+gq2nmQue9nqunV7ASeIlRrhwGvKHdbBIi/FgqdH4Q1IubKhCy1LZVw5Izz4Bwz582BwadXh1JthiUUQNYzZ/SO5U50XjgjpxX1yJgQW97ABR8msRbL4GWMC7aW6HnHRJae3e+dOlroMpB/sijwYnysFJNUcE6oLuSQbD+gjSRmGVypOQje4ErC8X92sgsvCVJUXMt2cM6P2wX8l/qBX0eOSYUDHdeKUQ7J3xCyARo2z0+8JW0o1SCrDmTnLyXxS0EmD+ZIgOEdLsASYlU765c9e0tfAey268+QzU2E8eRUmBKu8Xvs+A74SexYjOcHG7e0AyDiPdoJFdsaeW5TrNPoKGXYxRTUvoJDqukb1rIpgaWlDbfn++kV4oXkjMjVLLSvUkqG1WTDlCh2Cra4Pdh2vnwXjFk4oJEduPSfel5GhY0H/5qretOlRPooOEt5CJJUIo30sRMv7lB+MFc/gnROxJrmXe1Qr7xytYD3ObN2Aymuv7yqC/oXNSro313XT/F+c9w==;idNe9VaZDib6pMEH4Y5VLg=="
 ---

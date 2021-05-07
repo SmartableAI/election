@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Joe Biden: ‘I don’t think the American people are racist’ – US politics live"
-excerpt: "President in new interview agrees with Republican senator Tim Scott’s comments to Congress – follow all the day’s politics news"
-publishedDateTime: 2021-04-30T12:21:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/apr/30/joe-biden-us-politics-washington-america-racism-live-updates"
-webUrl: "https://www.theguardian.com/us-news/live/2021/apr/30/joe-biden-us-politics-washington-america-racism-live-updates"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/30/joe-biden-us-politics-washington-america-racism-live-updates"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/30/joe-biden-us-politics-washington-america-racism-live-updates"
+title: "Joe Biden in New Orleans, Lake Charles: Here's what happened during the President's visit"
+excerpt: "President Joe Biden will visit Louisiana today, stopping in Lake Charles first and then heading to New Orleans. The trip is part of his promotion of an infrastructure plan. Biden is expected to touchdown in Lake Charles at 12:15 p."
+publishedDateTime: 2021-05-06T13:45:00Z
+originalUrl: "https://www.nola.com/news/politics/article_b20af06c-ae6d-11eb-a27b-8b93402fe206.html"
+webUrl: "https://www.nola.com/news/politics/article_b20af06c-ae6d-11eb-a27b-8b93402fe206.html"
 type: article
-quality: 122
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NOLA.com
+  domain: nola.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/777df554d46c4d7ff874aee02d8d84a5f7219f92/0_74_5025_3016/master/5025.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=822f9f7c8dbbf2b55107902b17be772f"
-    width: 600
-    height: 360
+  - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/2/30/23063c22-ae7d-11eb-ab60-3352f3450e89/609406de0966c.image.jpg?resize=945%2C630"
+    width: 945
+    height: 630
     isCached: true
 
 related:
@@ -207,6 +201,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden: ‘I don’t think the American people are racist’ – US politics live"
+    excerpt: "President in new interview agrees with Republican senator Tim Scott’s comments to Congress – follow all the day’s politics news"
+    publishedDateTime: 2021-04-30T12:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/30/joe-biden-us-politics-washington-america-racism-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/30/joe-biden-us-politics-washington-america-racism-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/30/joe-biden-us-politics-washington-america-racism-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/777df554d46c4d7ff874aee02d8d84a5f7219f92/0_74_5025_3016/master/5025.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=822f9f7c8dbbf2b55107902b17be772f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Early news coverage of Joe Biden's administration has been more policy than character-driven, study shows"
     excerpt: "Media stories on the early days of the Biden administration focused more on policy than personality, a study released found."
     publishedDateTime: 2021-04-29T10:09:00Z
@@ -341,21 +351,7 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Joe Biden in New Orleans, Lake Charles: Here's what happened during the President's visit"
-    excerpt: "President Joe Biden will visit Louisiana today, stopping in Lake Charles first and then heading to New Orleans. The trip is part of his promotion of an infrastructure plan. Biden is expected to touchdown in Lake Charles at 12:15 p."
-    publishedDateTime: 2021-05-06T13:45:00Z
-    webUrl: "https://www.nola.com/news/politics/article_b20af06c-ae6d-11eb-a27b-8b93402fe206.html"
-    type: article
-    provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 46
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/2/30/23063c22-ae7d-11eb-ab60-3352f3450e89/609406de0966c.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
 
-secured: "MxpUw0pY538fhKZfMzf6Pc6HqKsNz4vvkS/2aVLvZTa4htVcdV5hs7dQAtfr50WZRl92M8wVM/e9iVchO4noUVRhZwRgmPWsukG3knkCw8y7d41yC494GYzoBt33LoKFRuoCz0HJarpGDeMsS3mBLWVCwYVrvfO5aHcVdX2XPlThNAAo63ExogVaP7xKT0qCJlKNcgxyLid2ahXbQzGwS6Yc/uNxBsWV8gpMwumCwoNCKtaRKCeOQu6Rkc8U/vQuyWsfFkvmLlDV7Vd2E5y6UEytlBJXoltSi/0GramOKtY7sJ6+eLmpyGI+kVfPduU/fzKz5wyn+4bbF96xAPwX/nQo/i4X5uEhN6Zscs4L/pc=;ovUjm6VE9ZmC94tjQdxu1w=="
+secured: "Zur01LTlHWcZV0QZnLMLmgskenMNS0Kr+zTEqvFQY/UNVYuP7dx1wDB3ietw/8i3ruqhb/OKt4X59D0SKoDG+OLv0djqf7kT8cJ1HyrXAFHnkxL6d17qWGGyGvPWstU1cvZBeddJBJMev4ybL4kO7RhPwAglouYB0bnrAovUmFASNEvebhVinnYQp3gfHEM9ZtW21ylolee7IL8hYUvY1XWWdsl9GeH4W+u9pxWLKj9LiiSjZyvSCMxYe7nPMpIOMl1J84s+ZWUk98SjglorL8wJTdOZ48iD1vZXsLAddcjqH8EpP41Ua8Hnmos84It6DoofTGbEVYL6/JlRbtTGc5HFM3UDsRAYjtV8P6wRBCk=;pMd+FdBK6NKsSaETBRNWFQ=="
 ---
 
