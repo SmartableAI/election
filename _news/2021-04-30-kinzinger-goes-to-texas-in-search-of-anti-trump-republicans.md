@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/texas-special-election-poses
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/texas-special-election-poses-test-for-anti-trump-republicans/2021/04/30/38dd9c6c-a96d-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -129,6 +129,15 @@ related:
     excerpt: "The expected House Republican Conference vote is only the latest skirmish in a Republican civil war between Trump supporters and those who worry that his repeated false election c"
     publishedDateTime: 2021-05-04T21:41:00Z
     webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-04/house-republicans-ready-vote-on-trump-critics-leadership-post-sources"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Ohio GOP May Censure Own for Supporting Trump Impeachment"
+    excerpt: "The Ohio Republican Party's Central Committee is preparing to decide whether to censure the 10 GOP congressional members who voted in February to impeach former President Donald Trump."
+    publishedDateTime: 2021-05-07T13:51:00Z
+    webUrl: "https://www.usnews.com/news/best-states/ohio/articles/2021-05-07/ohio-gop-may-censure-own-for-supporting-trump-impeachment"
     type: article
     provider:
       name: U.S. News & World Report

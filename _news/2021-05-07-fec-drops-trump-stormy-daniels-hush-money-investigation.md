@@ -1,34 +1,33 @@
 ---
 category: news
-title: "As Decision on Trump Looms, Facebook Preps Its Advertisers"
-excerpt: "Facebook’s oversight board will decide whether to allow Donald Trump back on its platform. The company has been reaching out to ad agencies to explain it has no sway over the board’s ruling."
-publishedDateTime: 2021-05-04T17:05:00Z
-originalUrl: "https://www.wsj.com/articles/as-decision-on-trump-looms-facebook-preps-its-advertisers-11620151529"
-webUrl: "https://www.wsj.com/articles/as-decision-on-trump-looms-facebook-preps-its-advertisers-11620151529"
-ampWebUrl: "https://www.wsj.com/amp/articles/as-decision-on-trump-looms-facebook-preps-its-advertisers-11620151529"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/as-decision-on-trump-looms-facebook-preps-its-advertisers-11620151529"
+title: "FEC drops Trump-Stormy Daniels hush-money investigation"
+excerpt: "The Federal Election Commission on Thursday dropped the case examining whether former President Trump violated election law with the $130,000 payment made by his ex-attorney Michael Cohen to adult film star Stormy Daniels in the weeks leading up to the 2016 presidential election."
+publishedDateTime: 2021-05-07T15:56:21Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZG9zZYEJyaI/fec-drops-trump-stormy-daniels-hush-money-investigation"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZG9zZYEJyaI/fec-drops-trump-stormy-daniels-hush-money-investigation"
+ampWebUrl: "https://www.foxnews.com/politics/fec-drops-trump-stormy-daniels-hush-money-investigation.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fec-drops-trump-stormy-daniels-hush-money-investigation.amp"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
+  name: Fox News
+  domain: foxnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-333892/social"
-    width: 1280
-    height: 640
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -63,22 +62,6 @@ related:
       - url: "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/05/18/720/405/694940094001_5438848447001_5438775026001-vs.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "FEC drops Trump-Stormy Daniels hush-money investigation"
-    excerpt: "The Federal Election Commission on Thursday dropped the case examining whether former President Trump violated election law with the $130,000 payment made by his ex-attorney Michael Cohen to adult film star Stormy Daniels in the weeks leading up to the 2016 presidential election."
-    publishedDateTime: 2021-05-07T15:56:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZG9zZYEJyaI/fec-drops-trump-stormy-daniels-hush-money-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/fec-drops-trump-stormy-daniels-hush-money-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fec-drops-trump-stormy-daniels-hush-money-investigation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Supreme Court justice photo includes all three Trump picks for first time"
     excerpt: "The latest official photo of the Supreme Court's current nine justices has been released, showing all three of former President Donald Trump's picks for the first time."
@@ -272,6 +255,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "As Decision on Trump Looms, Facebook Preps Its Advertisers"
+    excerpt: "Facebook’s oversight board will decide whether to allow Donald Trump back on its platform. The company has been reaching out to ad agencies to explain it has no sway over the board’s ruling."
+    publishedDateTime: 2021-05-04T17:05:00Z
+    webUrl: "https://www.wsj.com/articles/as-decision-on-trump-looms-facebook-preps-its-advertisers-11620151529"
+    ampWebUrl: "https://www.wsj.com/amp/articles/as-decision-on-trump-looms-facebook-preps-its-advertisers-11620151529"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/as-decision-on-trump-looms-facebook-preps-its-advertisers-11620151529"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-333892/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Donald Trump’s Facebook Ban is Upheld by Oversight Board"
     excerpt: "The independent panel ruled that the social-media company was justified in banning Donald Trump’s account, but in coming months must decide whether the former president is permanently locked out of the platform."
     publishedDateTime: 2021-05-05T12:10:00Z
@@ -417,6 +416,6 @@ related:
         height: 784
         isCached: true
 
-secured: "AlEatC7hY8IHJR6LVB8KZ7yCyH0jThtfGYof7L/ixQmM3n0gTuxPyc2HQupITjWBlnBJzGgt9/YjAvC+tiiwV04D1aQtES+NvUh1bhaQarEBujo7BoeuMT3HAAskOjSufIVZ+8zUfaoMUYuOVwx8lJ/BDxbZVEX5QoZZIDrSRIqVOXWTFZt11uvTSGZw4LKZMEoyx6fw9XHloNMV+a2ds3dvFTyNpzyyEFj2nRdmQaosAUM77e5vT97ejWz7k4Wyv00hxbYMM46vGukv6CJ7pudGQ9rGUMFyOwBaEtnwRTwuozGsKC1M2CQ5SsVzv4+eI7soPqMSE1NlJoVMxFiB0zhQVoX5lgExtV02b+odNa17+vi4cWMf9k8z7BJ7wTS0APpEId61dzxmB/Fdk9NvnW4UU3rdke5X//fWFPw3HJ9EQSOD0NYhsoQnQveHbSfyCGJ+wF/mh9VIabQQrJTg2oJ+hO0StbIo+1MSDHrHfr7qc9Y3cQXjHFo54P7BGKmuZkeNrJaO+aHNZWcY1AOVXw==;0QP27tycZTACZz5SJAboxg=="
+secured: "tGj5nAhDbRDKaXaJioZFMYtup02mDweJLZhN43dzZElWDGppJK/KFFdISzye0OvjsKzLmAr3TxeYllUa+IzHT5k60m+nV4M5Pb5/+Ay6y5LSRtzA2p+96ulG0pZmL+iIvt+GjJh1fON7LfAG2sPlOaQgNZInB1AMAFjONUnSES43Z6ETsPfsC8t7ti/DPV0ProifJVbVIpcb7Rdt6iQr8oChyBvT0sIxEhfLgmq/Jvz6RJ8nOV0SMEiohFdW+7JlgLMrup7gkQsO+ESXv+YQupTZ7kq5L94wnuAnp9/n1chMiLBWcKjMVV2bgkJHwCWCInWY22xZSKm9XGpilQAQ5aDIweiPwL/eKcXZcLZcDF0=;I4u5Jpg8xWpatfvmkddJ8Q=="
 ---
 

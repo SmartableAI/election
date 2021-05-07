@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "FEC drops Trump-Stormy Daniels hush-money investigation"
+    excerpt: "The Federal Election Commission on Thursday dropped the case examining whether former President Trump violated election law with the $130,000 payment made by his ex-attorney Michael Cohen to adult film star Stormy Daniels in the weeks leading up to the 2016 presidential election."
+    publishedDateTime: 2021-05-07T15:56:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZG9zZYEJyaI/fec-drops-trump-stormy-daniels-hush-money-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/fec-drops-trump-stormy-daniels-hush-money-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fec-drops-trump-stormy-daniels-hush-money-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pentagon cancels Trump-era border wall construction paid for by military funds"
     excerpt: "The Pentagon on Friday announced it is canceling all border wall construction projects that were paid for by military funding -- part of a broader effort by the Biden administration to cancel the Trump-era barrier."
     publishedDateTime: 2021-04-30T20:31:42Z

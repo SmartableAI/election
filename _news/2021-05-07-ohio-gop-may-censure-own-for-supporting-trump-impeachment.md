@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Eight Republican 2024 Candidates Speak in Texas Next Week, but Not Trump"
-excerpt: "Candidates Speak in Texas Next Week, but Not Trump WASHINGTON (Reuters) - A Republican Party event in Texas next week will hear from eight potential candidates for the party's presidential nomination in 2024,"
-publishedDateTime: 2021-04-30T21:50:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/eight-republican-2024-candidates-speak-in-texas-next-week-but-not-trump"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/eight-republican-2024-candidates-speak-in-texas-next-week-but-not-trump"
+title: "Ohio GOP May Censure Own for Supporting Trump Impeachment"
+excerpt: "The Ohio Republican Party's Central Committee is preparing to decide whether to censure the 10 GOP congressional members who voted in February to impeach former President Donald Trump."
+publishedDateTime: 2021-05-07T13:51:00Z
+originalUrl: "https://www.usnews.com/news/best-states/ohio/articles/2021-05-07/ohio-gop-may-censure-own-for-supporting-trump-impeachment"
+webUrl: "https://www.usnews.com/news/best-states/ohio/articles/2021-05-07/ohio-gop-may-censure-own-for-supporting-trump-impeachment"
 type: article
-quality: 34
+quality: 35
 heat: -1
 published: false
 
@@ -142,16 +142,16 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
-  - title: "Ohio GOP May Censure Own for Supporting Trump Impeachment"
-    excerpt: "The Ohio Republican Party's Central Committee is preparing to decide whether to censure the 10 GOP congressional members who voted in February to impeach former President Donald Trump."
-    publishedDateTime: 2021-05-07T13:51:00Z
-    webUrl: "https://www.usnews.com/news/best-states/ohio/articles/2021-05-07/ohio-gop-may-censure-own-for-supporting-trump-impeachment"
+  - title: "Eight Republican 2024 Candidates Speak in Texas Next Week, but Not Trump"
+    excerpt: "Candidates Speak in Texas Next Week, but Not Trump WASHINGTON (Reuters) - A Republican Party event in Texas next week will hear from eight potential candidates for the party's presidential nomination in 2024,"
+    publishedDateTime: 2021-04-30T21:50:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/eight-republican-2024-candidates-speak-in-texas-next-week-but-not-trump"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 35
+    quality: 34
 
-secured: "khKbYsjUKUzQY12NvJtc5b1gc8Tkq/bkVa16O6EwEaLuTZ3Lo3eRnpQTVfH6zANkH/WRtQL3TqDqav+eZD4v4XMpgBJS9HEDaSYzh81D5Pd5/tSSO02bQ4/TK0ZxQeEiricYOyZqveX4pv75SIGYSN18s3f91d8vanWqYUv0C/qAUiR2BTDTXXhyw8ennPFL+EBV+iLPYQtdW6MDfdTADZWVqaJGfhrXVj7n1k3pATgkOoLlpmTcJ7h4V1DI14rXXyyO6UDFRdnoVBuNpbu2uAPdQmgSQTm0ukLnIYzTxCABe2I2CT/qp9Gi47P1Fu4gGqDYMYeVJQF/SJfYHtM8rCOirAuKWrc9EZQTuZGqK7Ih3lKCx8+PHol3TydLaQ7asXOTu22jW8cKdZZAAmaYyNfHQQ3UDZ8hpBQt3HQv/CeY1pWKeTgMJb0pH5tqaA4XqrhuwjiGtIpN07w3v8Xe/tjNgPKvKl5ea80JMoNTUYywCsaJuidYJA1uM2OVWo3l65Tw5mBu7qgdn9jiYukOHg==;zAfeFkQztKlYz1mzpOs2aw=="
+secured: "E9R/FjQ1hcT0J1A5QYMbY4Gqn9owKzcQC4CYeQWGd72I/D40C3IR3fl56M6P9G0t0RKgGkdcOMoW+mQ0q9JyhPgaNqZsIpVQs2SRfHSi0gx9u6RH4lV2JMC4QidL7BanwK6OLYT8y4xn2VjzLUoLw6A8Vs5aNZ9ZtUX710zUMiUskgB/R1y+vJeqdDk4DH73lqxn1gJEzMDTViY37DLFLKSsy/ij2XFP8r00EO0RkYlMsgK9D37q5zKzc1C4ukoXG746RxsQwur4GMjbg3Ycd/F2VEuuyCpvK1fLkmTY+pzHepxj1Irvb/TrAIxLYt4CnyRkZB3FpRbywmGqG12sTdjENjhk9WEStdbeXAzQt/Y=;HnRHAl8rjstaJeDjNFHNgA=="
 ---
 

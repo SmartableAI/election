@@ -135,6 +135,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Ohio GOP May Censure Own for Supporting Trump Impeachment"
+    excerpt: "The Ohio Republican Party's Central Committee is preparing to decide whether to censure the 10 GOP congressional members who voted in February to impeach former President Donald Trump."
+    publishedDateTime: 2021-05-07T13:51:00Z
+    webUrl: "https://www.usnews.com/news/best-states/ohio/articles/2021-05-07/ohio-gop-may-censure-own-for-supporting-trump-impeachment"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
   - title: "Eight Republican 2024 Candidates Speak in Texas Next Week, but Not Trump"
     excerpt: "Candidates Speak in Texas Next Week, but Not Trump WASHINGTON (Reuters) - A Republican Party event in Texas next week will hear from eight potential candidates for the party's presidential nomination in 2024,"
     publishedDateTime: 2021-04-30T21:50:00Z

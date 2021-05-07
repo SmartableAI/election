@@ -116,6 +116,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 91
+  - title: "Here's what Kentucky would get from President Joe Biden's American Families Plan"
+    excerpt: "The White House outlined how many Kentucky children and workers would benefit from the $1.8 trillion plan, which includes universal preschool."
+    publishedDateTime: 2021-05-07T09:26:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/05/07/joe-biden-american-families-plan-what-kentucky-would-get/4970027001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/4970027001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4970027001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/05/NAAS/faa8db64-affc-4ee1-9222-412ac8f843f3-Biden_8.jpg?auto=webp&crop=3955,2225,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "+WOb7sNgF3kwIxITc+CJKsxGNUpSTZeOtUwY/EkEvzdmNKq3wMV4VKdXf+ElVa4eaYOGP4j9axiy3hF4yGQJONPx6qsFne0vx9D5E6yCq9QHT8Y9RvJEuFUnlzsnxmnGNvnhis6ClDwJqby0YVYkobUMpVoq2UH6Uuusq4p9DvZltkYdaYTPcQwhdd56InI997A0oJeeja11WlTPBjW/rxlvYcL/YIe28fO8LkCsOoOfZmWoLdabuYHKvhbgjbIu1R1q9Xk+YpImOgCMHAF6EhEK3BuCNiPbE8Bja+S3aDLko5t6F93KFveUaMWgRpK15RiWxPwhjvlcsVMGogdaXRVjxbTTv4EXFAt+v7+yWVQ=;8+MEQI0n3YpNbwX0lf+vcA=="
 ---

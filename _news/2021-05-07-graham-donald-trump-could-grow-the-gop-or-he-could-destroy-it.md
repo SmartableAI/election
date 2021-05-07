@@ -60,6 +60,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "FEC drops Trump-Stormy Daniels hush-money investigation"
+    excerpt: "The Federal Election Commission on Thursday dropped the case examining whether former President Trump violated election law with the $130,000 payment made by his ex-attorney Michael Cohen to adult film star Stormy Daniels in the weeks leading up to the 2016 presidential election."
+    publishedDateTime: 2021-05-07T15:56:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZG9zZYEJyaI/fec-drops-trump-stormy-daniels-hush-money-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/fec-drops-trump-stormy-daniels-hush-money-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fec-drops-trump-stormy-daniels-hush-money-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Supreme Court justice photo includes all three Trump picks for first time"
     excerpt: "The latest official photo of the Supreme Court's current nine justices has been released, showing all three of former President Donald Trump's picks for the first time."
     publishedDateTime: 2021-05-06T20:39:09Z
@@ -397,6 +413,6 @@ related:
         height: 500
         isCached: true
 
-secured: "LCgHFOHCEDKbycHAFHbWBLnAfdHT7S8B9ZL85rMkgelEH8UQOaWR59vsNcMDDw4smt5LX9u6Wl9utDCGKu6rWg3syIRFs89ViN6WUms+66RDVAG1LElsuW0rCzqDxz28a3QqMCTsE6aqHOeDp67na1xrSjzHUi1Y4NLce7DcxskK4WNVdhw1Pa1TWrZytXEBSnw+GzxP8s2qlBnXraa368LZAgk/uAK+SbBkD6Fguo5QBs3PlCq+RfSyG2iDaQPlvn6pMBgWKaj3TU94aMv34+3+tasr6dX+6tXejm8tW+aHVA/V5TjA31XZZ3NUjDNs6cztbSuId63uVk2RtKOgHGgg9vW+S3kPsK2++NlOJyE=;TrQPHu4apzzFxIm8yIkDiA=="
+secured: "bXyQn3a7tOw8F4Q/aeul5efOqFEQRiGnflZUMQBAa7guA58wM3o7Mit1rKzgoJgd4PF1pho4SpgfTKscpML1ayWph1v+2bhQfdN8VvYsf2BvYZLSOvNB9znreWhn2ol4koKY1xaqqljsaM2z9ejD1syOBXYTH5Poyt9V2YLJr1RrCqxfDNSUFjPtynmu9B9rY78UXI7kD2npJgnd/aYtg1j8KwqzElYI4jRcRhFm1JvzzYw4BnUjlV0f0v+mV7jKd0Hq6qWC7XqPIUwdtk785P8VTq9QUes2xBSLBBH9x54/n7MhDqSjoNPggqtTE1Q+042nKqFbt/iObnWx7g/Gs8yIEkxiuo7Wp7iS6kVUkmZMMT9FQ78e10oMynl71I6EJg8qanrmx7q/YK94Xm57+T01jnZm7vNY3v1u6dzoxKENXQZVJiPFhOyEIejusELk38mSiHXgtIrrQ9Qa5dcdxB3zcefPGOi4CLtBQEjPWn4XPE4iIETi/GD+0RWSO5LFoWvp4RAo9MvLuJfgcB2kjw==;4J1qpzWUQQsCx8Kr/ZUy/w=="
 ---
 

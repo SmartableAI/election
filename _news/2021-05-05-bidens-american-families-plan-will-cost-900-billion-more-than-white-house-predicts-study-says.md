@@ -104,6 +104,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 91
+  - title: "Here's what Kentucky would get from President Joe Biden's American Families Plan"
+    excerpt: "The White House outlined how many Kentucky children and workers would benefit from the $1.8 trillion plan, which includes universal preschool."
+    publishedDateTime: 2021-05-07T09:26:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/05/07/joe-biden-american-families-plan-what-kentucky-would-get/4970027001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/4970027001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4970027001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/05/NAAS/faa8db64-affc-4ee1-9222-412ac8f843f3-Biden_8.jpg?auto=webp&crop=3955,2225,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden laid out his ambitious vision for a post-pandemic America. Now it is up to Sen. Chuck Schumer to make it a reality."
     excerpt: "The Senate majority leader, marking his own 100 days in charge, is responsible for turning sweeping Democratic plans into law. It’s a tall order."
     publishedDateTime: 2021-04-29T21:06:00Z

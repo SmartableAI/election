@@ -2,19 +2,19 @@
 category: news
 title: "Personal ties: Harris' family in India where COVID rages"
 excerpt: "Harris' uncle says he spoke with the vice president and her husband, Doug Emhoff, for quite a while. To close out the conversation, Harris assured him she’d take care of his daughter — her cousin — who lives in Washington."
-publishedDateTime: 2021-05-07T13:57:00Z
-originalUrl: "https://www.seattlepi.com/news/article/Personal-ties-Harris-family-in-India-grapples-16157868.php"
-webUrl: "https://www.seattlepi.com/news/article/Personal-ties-Harris-family-in-India-grapples-16157868.php"
-ampWebUrl: "https://www.seattlepi.com/news/amp/Personal-ties-Harris-family-in-India-grapples-16157868.php"
-cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Personal-ties-Harris-family-in-India-grapples-16157868.php"
+publishedDateTime: 2021-05-07T15:33:00Z
+originalUrl: "https://www.chron.com/news/article/Personal-ties-Harris-family-in-India-grapples-16158873.php"
+webUrl: "https://www.chron.com/news/article/Personal-ties-Harris-family-in-India-grapples-16158873.php"
+ampWebUrl: "https://www.chron.com/news/amp/Personal-ties-Harris-family-in-India-grapples-16158873.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Personal-ties-Harris-family-in-India-grapples-16158873.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
@@ -789,6 +789,6 @@ related:
       domain: bostonglobe.com
     quality: 22
 
-secured: "GdvOx6em7DjW4yuUp5SqPK3fIkb/T2tslaI4GDDRj9uv6LrGygM6ZIaB9kFifhpoCafdIbi/fGvpJHK//oyHIr8b4pxqN0Ltmjlo+/skUZ1EQdPJwv73Cf+i6U5O0S18fokp9u7xLrHq+dQ5IaeJvB8ezSVbsNIXQuhvL/6BYyCANSeU4z/hZ/bjYtlPQYXsi/Tea7h33PaIcrBWn1IKx7+VcroPf2QKvsQoRKbbxUY0B2b4HrFpJFXrAY51Nm0v8UGbYoSPac/xNd2pRAniEFpa9yqcmBchcbMccOLtMEPWeq/iCPhL91sz+GCNuOGIho6v3SQ7aTx2HLBMLsOZ0WR9jP16OnRe4ceBrM5fhLQ=;XUHkXAabp1T+dYorppk7Ow=="
+secured: "eNOsJq70yMLX/zdz8+nrmxiPas5/CLVDovfpC3eQVdH++kY0RKf3QmZ+mt1UKpfNq+FAvo+z6ktSKkI27M++hTAQ/PVzAR2kNa3bznLQ4fUtq+FAW4w6/dL/PT1fBG6VgAfYHSfl4l4Gbl2lhAsu9Ff11xtQrUVIYK55n5u9BIuI4g7jbUUX2FrR3t8RDHiSSIigrs5GCXc5OX2Q1792bwU3qFy76Ie+awbzANDN6E/eH73Nov+PkUBt7p82AZuIfQRQPNig/dR+xKuRo+bJ7c6GXbTE0Xu7qSQWe9JwkYs7Ef+IPWd1WxBlSMxjwRF0K5kkF6DDIdyx7gEwoSm4GZM677OerCiioAi80ZE66f0=;88jPgWDSm1QsAPU8PsAx3w=="
 ---
 
