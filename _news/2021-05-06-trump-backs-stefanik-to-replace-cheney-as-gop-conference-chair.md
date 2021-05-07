@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Cheney challenger Stefanik says GOP must work with Trump"
+    excerpt: "New York Republican Rep. Elise Stefanik is stating her case for replacing Rep. Liz Cheney as the No. 3 House Republican leader"
+    publishedDateTime: 2021-05-07T01:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BMJHGUFNVQI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Rep. Elise Stefanik, seeking Liz Cheney’s House leadership post, says Republicans must back Trump"
     excerpt: "Rep. Elise Stefanik stated her case on on Steve Bannon’s podcast Thursday for replacing Rep. Liz Cheney as the No. 3 House Republican leader."
     publishedDateTime: 2021-05-06T16:48:00Z

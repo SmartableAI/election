@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-ready-sell-23t-i
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/3/63/36311596-61d9-53b3-a059-00008a0443b4/604ac094deaab.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "President Joe Biden spotlights decrepit Louisiana infrastructure as he pitches $2 trillion plan"
+    excerpt: "President Joe Biden pitched his plan to modernize the country’s infrastructure during two Louisiana stops on Thursday, telling a small crowd in Lake Charles that he wanted to replace the"
+    publishedDateTime: 2021-05-06T23:45:00Z
+    webUrl: "https://www.nola.com/news/politics/article_0ac4dbba-aeb8-11eb-88b3-eba71d8ac703.html"
+    ampWebUrl: "https://www.nola.com/news/politics/article_0ac4dbba-aeb8-11eb-88b3-eba71d8ac703.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/article_0ac4dbba-aeb8-11eb-88b3-eba71d8ac703.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 63
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/9/62/96285bc8-aeb8-11eb-937e-0b523f52bba8/60946ba1360cd.image.jpg?crop=481%2C355%2C16%2C66"
+        width: 481
+        height: 355
         isCached: true
 
 secured: "vadhZZQCr7KICgnUfS8k1Qujc6ElfXP83V9kXEaE5eMtfJV8xHwP3DgvNPn7difAfEIgJ0P+PctVWRdfewj4hQQ3UATvovq5Ywhk5KjjAJ4jkCRAaUD/bj0I4FNgg8QT9eytQFj23n0FPrEsyKzVSVEnZwPi4fZ3iXMefk4oAoNlULqbGdy0vLKi4IDdg4vXcGUzaDq0n5MZepaxOxq0YyQQjVtE8ophPBs2MKLFEq99xJeEufRj7Xea+JQLFGWN1hgHy6/TN8Pr4j0v9TYGZfN0xX4oG7vQ0zF25D1q5h5hU+p9JHTpnp/89FfboqIZ3lNECD3c35YvT1G87dn3W78GLOaM19vuC/Ahz8s4Mhtyqt8nHPnMggZbGRqWs/tq+fPyPPIOI8x1HD5d0i2gBbgx/WT/FfPA7MDoqTB60PZH8yfcmpANhlMPReYJEZlXj3Lf7yazJqG0Us3albKv3dfOWsGmlmexWZemwskquf5g2mYMyacKZ7uBIHcuZa2l4f4bNS9v1AGZesIgsaGv+g==;BaE2cBQE+6IJbRj/GuwyrA=="

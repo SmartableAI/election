@@ -139,6 +139,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Liz Cheney, Donald Trump feud gets mixed reviews in Wyoming"
+    excerpt: "Liz Cheney, the defiant third-term congresswoman faces mixed reviews at home. So far, Wyoming’s governor and congressional delegation have avoided sticking out their necks for Cheney, who faces ouster from House GOP leadership over her frequent criticism of former President Donald Trump."
+    publishedDateTime: 2021-05-06T23:36:00Z
+    webUrl: "https://www.chron.com/news/article/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Special election to replace U.S. Rep. Ron Wright remains highly competitive in final hours, as Donald Trump looms large"
     excerpt: "Nearly two-dozen candidates are vying to fill the late congressman's seat, and the former president is backing Wright's widow, Susan Wright."
     publishedDateTime: 2021-04-30T15:28:00Z

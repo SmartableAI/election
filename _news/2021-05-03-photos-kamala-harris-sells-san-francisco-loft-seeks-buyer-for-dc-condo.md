@@ -363,6 +363,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Kamala Harris’ family in India grapples with coronavirus"
+    excerpt: "WASHINGTON >> G. Balachandran turned 80 this spring — a milestone of a birthday in India, where he lives. If not for the coronavirus pandemic, he would have been surrounded by family members who gathered to celebrate with him."
+    publishedDateTime: 2021-05-06T23:53:00Z
+    webUrl: "https://www.staradvertiser.com/2021/05/06/breaking-news/vice-president-kamala-harris-family-in-india-grapples-with-coronavirus/"
+    ampWebUrl: "https://www.staradvertiser.com/2021/05/06/breaking-news/vice-president-kamala-harris-family-in-india-grapples-with-coronavirus/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/05/06/breaking-news/vice-president-kamala-harris-family-in-india-grapples-with-coronavirus/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 75
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2021/05/web1_11265332-744d9c0501b94d82be9d3a90d452aa0d.jpg"
+        width: 760
+        height: 521
+        isCached: true
   - title: "Kamala Harris touts research during first Wisconsin trip as vice president"
     excerpt: "Wisconsin Republicans said Harris' time would have been better spent at the U.S. border dealing with the increase of migrants."
     publishedDateTime: 2021-05-04T19:35:00Z

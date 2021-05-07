@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris blames climate change for immigration crisis at U.S.-Mexico border"
+    excerpt: "The Biden administration is reframing the migrant crisis at the U.S.-Mexico border, saying the influx results not from any White House actions, but rather from climate change in Central America’s Northern Triangle of El Salvador,"
+    publishedDateTime: 2021-05-07T00:54:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/may/6/biden-administration-blames-climate-change-immigra/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/6/biden-administration-blames-climate-change-immigra/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/6/biden-administration-blames-climate-change-immigra/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 70
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/03/Immigration_Separated_Families_09017.jpg-e5170_c0-211-5053-3158_s1200x700.jpg?83421a3c904197716859c156501a258464f5c27a"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "VP Harris says U.S. needs to fix 'implicit bias' in policing after Minnesota shooting"
     excerpt: "Vice President Kamala D. Harris said Tuesday that “folks will keep dying” if the U.S. doesn’t stamp out racial bias in law enforcement."
     publishedDateTime: 2021-04-13T17:44:00Z

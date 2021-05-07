@@ -347,6 +347,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Kamala Harris’ family in India grapples with coronavirus"
+    excerpt: "WASHINGTON >> G. Balachandran turned 80 this spring — a milestone of a birthday in India, where he lives. If not for the coronavirus pandemic, he would have been surrounded by family members who gathered to celebrate with him."
+    publishedDateTime: 2021-05-06T23:53:00Z
+    webUrl: "https://www.staradvertiser.com/2021/05/06/breaking-news/vice-president-kamala-harris-family-in-india-grapples-with-coronavirus/"
+    ampWebUrl: "https://www.staradvertiser.com/2021/05/06/breaking-news/vice-president-kamala-harris-family-in-india-grapples-with-coronavirus/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/05/06/breaking-news/vice-president-kamala-harris-family-in-india-grapples-with-coronavirus/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 75
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2021/05/web1_11265332-744d9c0501b94d82be9d3a90d452aa0d.jpg"
+        width: 760
+        height: 521
+        isCached: true
   - title: "Photos: Kamala Harris sells San Francisco loft; seeks buyer for DC condo"
     excerpt: "Kamala Harris has sold her SoMa loft in San Francisco for $860,000 and now seeks a buyer for her Washington, DC, condo."
     publishedDateTime: 2021-05-03T16:07:00Z
@@ -713,6 +729,6 @@ related:
       domain: bostonglobe.com
     quality: 22
 
-secured: "X3rlHIa7hab3IMaDWsbXVya20dilpsI9aS2xkF8IhSEMsaX/fzX4R677AvsKnmDg3LzlzjWIuKEl7R9nCE+IPW06p54L8N2cW7pAQ2q+3TFe+eAE9D4l8SzCrF5xTBPnFMdsQpp31MwQuZqcGtKCx+zzca7uOP4NbdwRtVvcHJYvQr0ux5l7mRfx6y8lyPiv0H7uFX/0HWshkqFknMxncq/NB9+osyCtUdeDPTjL8Y7xyUqWlJwM7gRSCBbo1CSkQcVe1lHXudGqUSvtvbeBZ6tN5SxY3SNwnnXCVJmAyMItCrEO5be+lyc0RLua2Fkt1SLis7jFHR0z6vHxXon9wg8DD13HruAlZZCTZofEptI=;CbDnywMmLnVIVUw/FtMzXQ=="
+secured: "VmwpcySiE0rRbf4EuRgZDb0HafIuasFfniyYOGgSyHJRHWuXbXQkxM+NOC9XNp8FJrjf0+KJ5Mbnr0mTkDkjWTtBANYTaA4yoZ6SjLKNV5QrlapDdsgmNmMbMvGKRss6JnY2C05wRN7j5B70sPyoogI5V6AcsmFX6Ow6S+4RrBzR58Rb35/sAcNhsuYdKIFQE4Rqk2yByZ21JAzvY6a7MPEu4g5tiL8ic8qYJF+Hxnj78FyJYz7zL0yEhtgkCEzIGh3svA0KBA7yX6jC20390K2V6HqTKZgUOEFyTEi8ONyyxiJiwEzIlp9MoTLuVIEgraq4eEfkgHvPgYuLi0UPZmAnKJmqZJiSOadlptJxtuXtvszGMdZEIt/DxCTskb8ZpqCm74JCdvKd73aAMTdCGcDGMNgdw5HT8uihHoF8iSXCDb9NJwjY7pAN0HvX41KmYJWaPBuI0RklrV1IbzTLQf5Vi306u3toW3GDAgYABf/HVfSi9e3XIxhti1vi15uuNhOyDgLtA9NrSnvA26Jbjw==;LDJmRcBkQjEwVWlWbd6+IQ=="
 ---
 

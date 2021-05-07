@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cheney challenger Stefanik says GOP must work with Trump"
+    excerpt: "New York Republican Rep. Elise Stefanik is stating her case for replacing Rep. Liz Cheney as the No. 3 House Republican leader"
+    publishedDateTime: 2021-05-07T01:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BMJHGUFNVQI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "MVKs+VZ8yfY15kzkJ+m2HP8xTmzkpNYC3ww51Fs2kfi79Psq9WHvdUhoH4tZmWQeXIVpy3UvMjUMCFkHTtLZYH1i21pYbaqq3zQyP1xk+78fcOLuX/JXSTkFZhofW0ROkkSRnEbaPf+VzuVK4x4O6T3OH3uMdvJNMNDVbQpTXP8tU00WoKq7sb9Hc1eEK3B2Josgto2OcYXxEV7f+BLZwG4d16m74T4dsFRBMLeWIHZcVUvHAOXOORjp0mDtuohkR+ul/MPEMtbYYV6uqztn+XdVbC35q1juEeganczZCIvQmd3rIkq7mz4f9u3o9Vizhq8IjOn9aN/js945wfSaSk1UvSE3UlNWINcS2N6FFaBdX9wHrUFVAm1OVI1D1N4Pcu48sDoSA/YPnrTa41OH45QRwH2iZyCwHgLlNB7ueEWWPQRSXNKFZd6zpdmR3I2RBzc2771DiXBtNPy+F550hjanbo8i/W14JG5xnPFYT18DMdDJn1+UHPJVLgj4qKUubEP1B1tWM4ulGVZGFAffgA==;kA/M4wPShw6Xwevw1gGInQ=="
 ---

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Kamala Harris stops in Rhode Island to pitch Biden jobs plan"
-excerpt: "Vice President Kamala Harris stopped by a local bookshop and participated in a business roundtable event during a visit to Rhode Island on Wednesday."
-publishedDateTime: 2021-05-06T00:48:00Z
-originalUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/"
-webUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/"
-ampWebUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/amp/"
-cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/amp/"
+excerpt: "Vice President Kamala Harris stopped by a local bookshop and participated in a business roundtable event during a visit to Rhode Island on Wednesday. The stop was part of a push by the administration to promote President Joe Biden’s priorities including his American Jobs Plan,"
+publishedDateTime: 2021-05-05T19:51:00Z
+originalUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
+webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
+ampWebUrl: "https://www.sfchronicle.com/news/amp/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
+cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Boston Herald
-  domain: bostonherald.com
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.bostonherald.com/wp-content/uploads/2021/05/Harris_44221.jpg?w=1024&#038;h=683"
-    width: 1024
-    height: 683
+  - url: "https://s.hdnux.com/photos/01/17/73/33/20952772/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -1312,6 +1312,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "n2wCi1uRc6PYOW3iTr9Mh8rBXSVBoMrzxWL0NjnUQ0RXRq9nE5/SHncxu19psFq760ayMwAt9yomPyZVlPUXadAH0S6oAPYdrD1Ia5mLyB0G6Dqmjcozc69xypm1VQsTCdVzR/G2qX5EAEtalS73O7JQqk9+62qrXFRyK412R1AqlOCnkNsdEVVzaWR7Bt8UFQt3d956jH/C28zuvHuojef2Z4ioZyI8fkuexn0dDUuEP1r2EpsNZ0PIJczEWCnh4PQR2CXrGnsFAVR3Mr+n552GavdRLRjxqxGIfR08RkDSs+sis0IpQUYXVghL8J5ajvq3g+Qplfv8XnNxmcETUz6VzsMmAxIzJ+WovppkhtXQCgXUXStoEK7f/rGLAI6z3Veebu4AlUfpJoZVjCrR9Itkngtvp4g88SW4F1P7qXSCdcTZPIE4lfv5LG9ufbnV+0Fg1V5axKqtOQV4FXvKVRhdU0A7yfaKgHj1kCDDUVVulLQ2ZQGwnW243R0rjdvJZ8VcOYEpuSflIUdBQeqHMg==;JogXZCGDZM3L3ozAh/b0vg=="
+secured: "kuZxCTHFKkePJ6ONlFN1oun1d/Wdoj0hboyvd8yOXncNBu80vUAe8pU8pc9cs19334XxNAlAifGB1A2YkDLWrJxsM8zAC9tpS+o85rnYrHTe65NRZaNNj/NUexYBKnDMysE4Z3YZz4JWrxdFc++3pvtYy/wGFSqXw88KhPRm3yD61OO4c1gK/kFYisSoQ0CJUFCeFFE7CU/3hVrO8j5UK4LKLZbre4EgkRrLgg2gS0ygsfPkgGvYSj3RGMwGP4xuky/Hu0E84IiKPgfc/JSq6CjlT+RkbcRm/CexRbtFDBrfsBsRVq8Zk6AD71VVwMU2bxQXRhppWAqbG5cAoKqNQYIDwAmJK2rIVIm/ZWCPBs4=;Wc/VDiFQc+2f490d+EdlwQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-v
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -106,6 +106,22 @@ related:
     quality: 76
     images:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/05/AP_Poll_Immigration_11730.jpg-b711f_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Kamala Harris blames climate change for immigration crisis at U.S.-Mexico border"
+    excerpt: "The Biden administration is reframing the migrant crisis at the U.S.-Mexico border, saying the influx results not from any White House actions, but rather from climate change in Central America’s Northern Triangle of El Salvador,"
+    publishedDateTime: 2021-05-07T00:54:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/may/6/biden-administration-blames-climate-change-immigra/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/6/biden-administration-blames-climate-change-immigra/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/6/biden-administration-blames-climate-change-immigra/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 70
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/03/Immigration_Separated_Families_09017.jpg-e5170_c0-211-5053-3158_s1200x700.jpg?83421a3c904197716859c156501a258464f5c27a"
         width: 1200
         height: 700
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Nava
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
 type: article
 quality: 125
-heat: 1025
+heat: 1045
 published: true
 
 provider:
@@ -350,6 +350,22 @@ related:
       - url: "https://i1.wp.com/media.nbcnewyork.com/2021/05/GettyImages-1229521983.jpg?quality=85&resize=1200%2C675&strip=all&ssl=1"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vice President Kamala Harris’ family in India grapples with coronavirus"
+    excerpt: "WASHINGTON >> G. Balachandran turned 80 this spring — a milestone of a birthday in India, where he lives. If not for the coronavirus pandemic, he would have been surrounded by family members who gathered to celebrate with him."
+    publishedDateTime: 2021-05-06T23:53:00Z
+    webUrl: "https://www.staradvertiser.com/2021/05/06/breaking-news/vice-president-kamala-harris-family-in-india-grapples-with-coronavirus/"
+    ampWebUrl: "https://www.staradvertiser.com/2021/05/06/breaking-news/vice-president-kamala-harris-family-in-india-grapples-with-coronavirus/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/05/06/breaking-news/vice-president-kamala-harris-family-in-india-grapples-with-coronavirus/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 75
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2021/05/web1_11265332-744d9c0501b94d82be9d3a90d452aa0d.jpg"
+        width: 760
+        height: 521
         isCached: true
   - title: "Photos: Kamala Harris sells San Francisco loft; seeks buyer for DC condo"
     excerpt: "Kamala Harris has sold her SoMa loft in San Francisco for $860,000 and now seeks a buyer for her Washington, DC, condo."

@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats on Federal Election Commission denounce group's decision not to punish Trump over hush money payment to Stormy Daniels"
+    excerpt: "Two Democrats on the Federal Election Commission are criticizing Republican members after the commission deadlocked and did not take action against former President Donald Trump's campaign related to the $130,000 hush money payment to Stormy Daniels on the eve of the 2016 election.\n    \n"
+    publishedDateTime: 2021-05-07T00:58:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a3K2o-md2rg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/fec-democrats-punish-trump-hush-money-payment-stormy-daniels/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/fec-democrats-punish-trump-hush-money-payment-stormy-daniels/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505154024-trump-for-alaimo-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Redacted Justice Department memo on Trump and obstruction raises fresh questions about Barr's handling of Mueller probe"
     excerpt: "A federal judge's ruling this week ordering the release of a redacted Justice Department memo recommending that former President Donald Trump should not be charged with obstruction of justice could place new scrutiny on then-Attorney General William Barr's handling of the Mueller investigation.\n    \n"
     publishedDateTime: 2021-05-05T18:24:03Z

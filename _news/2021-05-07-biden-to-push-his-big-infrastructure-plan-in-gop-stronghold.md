@@ -191,6 +191,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "AP FACT CHECK: Yes, Trump lost election despite what he says"
+    excerpt: "Seeking to shame Republicans who are disloyal to him, former President Donald Trump distorted the Constitution’s meaning in asserting widespread voter fraud and insisting that state legislatures could overturn Joe Biden’s presidential win."
+    publishedDateTime: 2021-05-07T01:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-yes-trump-lost-election-despite-what-he-says/2021/05/06/90103c14-aeb4-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-yes-trump-lost-election-despite-what-he-says/2021/05/06/90103c14-aeb4-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-yes-trump-lost-election-despite-what-he-says/2021/05/06/90103c14-aeb4-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q7ZYANVOWQI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
     publishedDateTime: 2021-04-05T18:20:00Z
@@ -895,6 +911,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden's plan would boost conservation of US lands, waters"
+    excerpt: "The Biden administration has detailed steps to achieve its goal of conserving about one-third of America’s lands and waters by 2030"
+    publishedDateTime: 2021-05-06T14:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-plan-boost-conservation-us-lands-waters-77531507"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-plan-boost-conservation-us-lands-waters-77531507"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-plan-boost-conservation-us-lands-waters-77531507"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_55793c843bad4f4ba2a3bb39cb5da35e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Cheney drama exposes GOP's Trump rifts"
     excerpt: "The days-long drama over Rep. Liz Cheney (R-Wyo.) is exposing deep rifts in the party about its most prominent member: Donald Trump."
     publishedDateTime: 2021-05-06T19:01:00Z
@@ -1560,6 +1592,20 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2021/05/Jaoe-Biden-mask.jpeg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Twitter Suspends Accounts Skirting Trump Ban"
+    excerpt: "Twitter on Thursday confirmed that it pulled the plug on several accounts trying to skirt its ban on former president Donald Trump by promoting his blog posts. The ex-president launched a page on his website earlier this week promising comment \"straight from the desk of Donald J Trump."
+    publishedDateTime: 2021-05-07T01:04:00Z
+    webUrl: "https://www.ibtimes.com/twitter-suspends-accounts-skirting-trump-ban-3194466"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/06/twitter-accounts-with-names-playing-on-trump-themes.jpg"
+        width: 1024
+        height: 705
         isCached: true
   - title: "Biden Expected to End Trump Ban on Temporary Foreign Workers"
     excerpt: "U.S. President Joe Biden is expected to allow a proclamation from his Republican predecessor that had blocked many temporary foreign workers from coming into the United States to expire on Wednesday,"

@@ -747,20 +747,20 @@ related:
         height: 533
         isCached: true
   - title: "Kamala Harris stops in Rhode Island to pitch Biden jobs plan"
-    excerpt: "Vice President Kamala Harris stopped by a local bookshop and participated in a business roundtable event during a visit to Rhode Island on Wednesday."
-    publishedDateTime: 2021-05-06T00:48:00Z
-    webUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/"
-    ampWebUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/amp/"
+    excerpt: "Vice President Kamala Harris stopped by a local bookshop and participated in a business roundtable event during a visit to Rhode Island on Wednesday. The stop was part of a push by the administration to promote President Joe Biden’s priorities including his American Jobs Plan,"
+    publishedDateTime: 2021-05-05T19:51:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
     type: article
     provider:
-      name: Boston Herald
-      domain: bostonherald.com
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
     quality: 90
     images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2021/05/Harris_44221.jpg?w=1024&#038;h=683"
-        width: 1024
-        height: 683
+      - url: "https://s.hdnux.com/photos/01/17/73/33/20952772/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
     excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"

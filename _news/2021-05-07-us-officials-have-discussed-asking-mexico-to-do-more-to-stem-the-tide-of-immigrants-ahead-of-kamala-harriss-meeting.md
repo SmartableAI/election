@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris blames climate change for immigration crisis at U.S.-Mexico border"
+    excerpt: "The Biden administration is reframing the migrant crisis at the U.S.-Mexico border, saying the influx results not from any White House actions, but rather from climate change in Central America’s Northern Triangle of El Salvador,"
+    publishedDateTime: 2021-05-07T00:54:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/may/6/biden-administration-blames-climate-change-immigra/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/6/biden-administration-blames-climate-change-immigra/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/6/biden-administration-blames-climate-change-immigra/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 70
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/03/Immigration_Separated_Families_09017.jpg-e5170_c0-211-5053-3158_s1200x700.jpg?83421a3c904197716859c156501a258464f5c27a"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "VP Harris says U.S. needs to fix 'implicit bias' in policing after Minnesota shooting"
     excerpt: "Vice President Kamala D. Harris said Tuesday that “folks will keep dying” if the U.S. doesn’t stamp out racial bias in law enforcement."
     publishedDateTime: 2021-04-13T17:44:00Z
@@ -288,6 +304,6 @@ related:
       domain: newsobserver.com
     quality: 17
 
-secured: "AbX4RqEyv4ht1sLSEmVHeX1pOl8bccnYKokm5Q/0d7upyMvte/8knXWWwBl5UsWSUdDWDbHsbq7zQFbxjjP/9iraGt12enqiIeScxWaDkSRH/ud7YChR9kKuF6TgOXCc6mmf7lKWpYU0pFCoxSKksIr4hBXW6zRdnM5sx4iuCtSUUa5SCfozxUjQIRqI+kvvwC9M8iO3Bek8mKSxCKyODX7GlQrrRrQ7OYvimWluz0VEUEtpgl+6dIlQWPPFwNwt4fHYKwmrvbOpOY+hB2H8xrXiaMi6zGeC1lXOyDziUcZrAicpLYtfi4Nl0vhw8GSEV1jFTpG10y+fNcMFrzSUPGlFCFsQFufKsOt0yKYBAl4=;q1ZB5Gvkoulwl0S8d4jvkg=="
+secured: "L83hX5ozrQj6/7m7yma3ZoDkugNnngsklqw2RLsne0E88C/nKFiw6H3chx2mk2i91bYcr27tUzDN+m3KBxieL1XAo84q+nyiMOY0k1ZrmfB/ty4mOUEXmxIc43RJsoCFWI+kp0oYlCnOVLU4JV9gkCvzcRfQiyOaRVOB/PRTV25s/xF9g/L2p5VTuO4pXe2YUVM8IcEjjOzw62bgCdB/84SoShV1WU7eVSBt+giTcbU6C7i8IZlS99to9k4vB5QSxkQoGCx2RPfIaENWMgVpo+ACRFf1gRdq9DOom8R59PMoaFETRLvbtvbBN/mFLAoBctk2OrimUmCSUpSV+/vz2vdSckREIx6mOK/MapHfY4F03JIf8a+4RPvJ218mHdIACp9XbmdcEoA25ZZYTMQmxDtRqIP5D/Y727c9GN34we+Oba494WInwcr+7stcyaYvrlhNJVg5+dL6T4kAvqt2DhJ1RBqIccVEZ8gaJguUTz7lzH37jRS0fYoQKh/hrJdZX0PDrO9JurhZq1hz7CQZXg==;QwS28qhcnnApWC3UKpo3vQ=="
 ---
 
