@@ -66,7 +66,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/eying-2024-pence-hell-push-back-liberal-agenda-77418589",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -118,7 +118,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/texas-special-election-poses-test-for-anti-trump-republicans/2021/04/30/38dd9c6c-a96d-11eb-a8a7-5f45ddcdf364_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -382,6 +382,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-30-pence-touts-our-accomplishments-in-first-remarks-since-leaving-office.md",
+      "title": "Pence touts \"our\" accomplishments in first remarks since leaving office",
+      "excerpt": "In speaking to the Palmetto Family Council, a South Carolina social conservative Christian group, Pence criticized Mr. Biden for what he called \"an avalanche of liberal policies.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/pence-speech-south-carolina-2021-04-29/",
+      "originalUrl": "https://www.cbsnews.com/news/pence-speech-south-carolina-2021-04-29/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/ebb6bd27-0803-4d04-8470-606e80f3aa00/thumbnail/1200x630/f196ff31d354a22d129afc18f0d33fbd/gettyimages-1232601399.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/pence-speech-south-carolina-2021-04-29/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pence-speech-south-carolina-2021-04-29/",
+      "publishedDateTime": "2021-04-30T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-two-border-state-dems-break-with-biden-on-the-crisis-want-to-see-more-action.md",
       "title": "Two border state Dems break with Biden on the crisis: 'Want to see more action'",
       "excerpt": "Two border state Democratic senators say President Biden is not doing enough to address the ongoing border crisis. ",
@@ -490,62 +542,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-30-bidens-economic-push-tests-the-power-of-pocketbook-issues-to-sway-americas-polarized-electorate.md",
-      "title": "Biden's economic push tests the power of pocketbook issues to sway America's polarized electorate",
-      "excerpt": "A building Biden boom may be about to reshape America's politics.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JwUmC_v6dVw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JwUmC_v6dVw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210429184410-biden-discurso-comunicativo-mensaje-congreso-roberto-izurieta-aristegui-mexico-00000921-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/30/politics/joe-biden-economy-2022-elections/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/joe-biden-economy-2022-elections/index.html",
-      "publishedDateTime": "2021-04-29T21:31:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-30-mike-pence-is-returning-to-the-public-eye-today-and-insiders-say-it-could-foreshadow-a-2024-presidential-run.md",
       "title": "Mike Pence is returning to the public eye today — and insiders say it could foreshadow a 2024 presidential run",
       "excerpt": "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics.",
@@ -610,7 +606,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 169,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -936,7 +932,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/former-trump-official-zinke-eyes-montanas-new-us-house-seat/2021/04/29/1b910cc8-a924-11eb-a8a7-5f45ddcdf364_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 165,
       "tags": null,
       "images": [
         {

@@ -31,82 +31,170 @@ images:
     isCached: true
 
 related:
-  - title: "Paul Ryan: Trump debate will fade as new candidates emerge"
-    excerpt: "Nearly six months after the presidential election, Republicans remain divided over former President Donald Trump"
-    publishedDateTime: 2021-04-30T16:28:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027"
+  - title: "Trump administration accuses Obama of wiretapping"
+    excerpt: "President Trump is calling for Congress to investigate his claim that the Obama administration wiretapped phones in Trump Tower during the presidential campaign. Associated Press White House reporter Vivian Salama joins CBSN to discuss."
+    publishedDateTime: 2021-04-28T12:09:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-administration-accuses-obama-of-wiretapping-1/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-administration-accuses-obama-of-wiretapping-1/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-administration-accuses-obama-of-wiretapping-1/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c9db11371d264d36a3059ee975d86cbf_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/28/3c065ea1-f5ce-4109-b082-ec5c177eb01f/thumbnail/1200x630/d4c9e75aea628913678984b32312628c/cbsn-qbg-0305-1263634-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Still Donald Trump's GOP? House Runoff Will Put His Leadership to the Test"
-    excerpt: "A special election in Texas' 6th Congressional District on Saturday saw a crowded field, including 11 Republicans, in the running to succeed Republican Rep. Ron Wright."
-    publishedDateTime: 2021-05-02T13:39:00Z
-    webUrl: "https://www.newsweek.com/still-donald-trumps-gop-house-runoff-will-put-his-leadership-test-1588127"
-    ampWebUrl: "https://www.newsweek.com/still-donald-trumps-gop-house-runoff-will-put-his-leadership-test-1588127?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/still-donald-trumps-gop-house-runoff-will-put-his-leadership-test-1588127?amp=1"
+  - title: "Judge orders Justice Department to release Trump obstruction memo"
+    excerpt: "U.S. District Judge Amy Berman Jackson said AG William Barr had obscured \"the true purpose of the memorandum\" when it withheld the document."
+    publishedDateTime: 2021-05-05T11:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/05/judge-orders-justice-department-release-trump-obstruction-memo/4952659001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4952659001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4952659001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/11/USAT/cd70680c-eb01-4028-811e-d96055489d94-AFP_AFP_8WA7MF.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pentagon halts border wall construction paid for with defense funds redirected by Trump"
+    excerpt: "In 2019, the Trump administration used Defense Department cash for border wall projects when Congress refused to fund them."
+    publishedDateTime: 2021-05-01T11:16:00Z
+    webUrl: "https://www.cbsnews.com/news/border-wall-construction-canceled-pentagon/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/border-wall-construction-canceled-pentagon/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/border-wall-construction-canceled-pentagon/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 117
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/04/bee1bf6c-1fd9-4ed8-94a0-3d6da2145de4/thumbnail/1200x630/feec45701550b6329b0d5a6acaeddf5b/gettyimages-1222262266.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump administration sidelined experts in writing car pollution rules, EPA watchdog finds"
+    excerpt: "The inspector general’s report may give the Biden administration more reason to tighten fuel-economy standards in the fight against global warming."
+    publishedDateTime: 2021-04-21T14:00:00Z
+    webUrl: "https://www.washingtonpost.com/climate-environment/2021/04/21/trump-administration-sidelined-experts-writing-car-pollution-rules-epa-watchdog-finds/"
+    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2021/04/21/trump-administration-sidelined-experts-writing-car-pollution-rules-epa-watchdog-finds/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2021/04/21/trump-administration-sidelined-experts-writing-car-pollution-rules-epa-watchdog-finds/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q6JQL4HM2II6PH4SCCRCAP3MRU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Donald Trump Obstruction Memo Was a Fig Leaf for Bill Barr, Judge Says, Ordering Release"
+    excerpt: "U.S. District Judge Amy Berman Jackson had harsh words Monday for former Attorney General William Barr, saying the Justice Department should not have withheld a memo from a watchdog group."
+    publishedDateTime: 2021-05-05T03:24:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-obstruction-memo-was-fig-leaf-bill-barr-judge-says-ordering-release-1588712"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-obstruction-memo-was-fig-leaf-bill-barr-judge-says-ordering-release-1588712?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-obstruction-memo-was-fig-leaf-bill-barr-judge-says-ordering-release-1588712?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 123
+    quality: 116
     images:
-      - url: "https://d.newsweek.com/en/full/1786229/american-cpac.jpg"
-        width: 3000
-        height: 2082
+      - url: "https://d.newsweek.com/en/full/1787742/bill-barr-fig-leaf-memo.jpg"
+        width: 3193
+        height: 2129
         isCached: true
-  - title: "Facebook Ban On Donald Trump Will Hold, Social Media's Oversight Board Rules"
-    excerpt: "While the panel upheld Facebook's suspension of the former president, it said the company's indefinite ban was wrong and gave Facebook six months to either ban Trump permanently or reinstate him."
-    publishedDateTime: 2021-05-05T13:26:00Z
-    webUrl: "https://www.npr.org/2021/05/05/987679590/facebook-justified-in-banning-donald-trump-social-medias-oversight-board-rules"
+  - title: "Investigation suppressed by Trump administration reveals obstacles to hurricane aid for Puerto Rico"
+    excerpt: "A watchdog report uncovers bureaucratic hurdles the Trump administration erected for the struggling island to receive aid after Hurricanes Irma and Maria."
+    publishedDateTime: 2021-04-22T15:49:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/04/22/puerto-rico-hurricane-trump-hud/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/04/22/puerto-rico-hurricane-trump-hud/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/04/22/puerto-rico-hurricane-trump-hud/?outputType=amp"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 102
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
     images:
-      - url: "https://media.npr.org/assets/img/2021/04/15/gettyimages-578547766_wide-2a7344918d393632228f6e013d7fa4544ec1b2af.jpg?s=1400"
-        width: 1400
-        height: 787
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UZZ77WEY24I6XDYKGOCM6T5TTE.jpg&w=1440"
+        width: 1440
+        height: 961
         isCached: true
-  - title: "Former President Donald Trump launches new website to communicate with supporters on the eve of Oversight Board ruling"
-    excerpt: "Former president Donald Trump has launched a new messaging platform as a way to communicate with followers the day before an independent oversight board is set to review Facebook’s decision to ban the Republican from the platform."
-    publishedDateTime: 2021-05-04T22:16:00Z
-    webUrl: "https://www.masslive.com/politics/2021/05/former-president-donald-trump-launches-new-website-to-communicate-with-supporters-on-the-eve-of-oversight-board-ruling.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/05/former-president-donald-trump-launches-new-website-to-communicate-with-supporters-on-the-eve-of-oversight-board-ruling.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/former-president-donald-trump-launches-new-website-to-communicate-with-supporters-on-the-eve-of-oversight-board-ruling.html?outputType=amp"
+  - title: "A decision on suspended Trump Facebook account this week"
+    excerpt: "Former President Donald Trump will find out this week whether he gets to return to Facebook in a decision likely to stir up strong feelings no matter which way it goes. The social network’s quasi-independent Oversight Board says it will announce its ruling Wednesday on a case concerning the former president."
+    publishedDateTime: 2021-05-03T18:17:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/decision-suspended-trump-facebook-account-week-77467356"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 51
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HR3FW4ACXZFGHKLRJBLKDLTPK4.jpg"
-        width: 3789
-        height: 2526
+      - url: "https://s.abcnews.com/images/Politics/WireAP_3c0ea3596b8d44c59b0504ddcf959987_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Will Donald Trump Run In 2024? Former President Gives New Comments About Political Fate"
-    excerpt: "Donald Trump will be featured on a conservative website Tuesday night where he'll give insight on his 2024 running decision."
-    publishedDateTime: 2021-05-04T20:41:00Z
-    webUrl: "https://www.ibtimes.com/will-donald-trump-run-2024-former-president-gives-new-comments-about-political-fate-3192990"
+  - title: "‘Bad bill’: Donald Trump Jr. criticizes Alabama gambling legislation"
+    excerpt: "Trump Jr., the son of former President Donald Trump, criticized the gambling legislation under consideration by Alabama state lawmakers via a tweet on Wednesday. He said legislation would prevent world-class resorts and casinos from entering Alabama."
+    publishedDateTime: 2021-05-05T22:08:00Z
+    webUrl: "https://www.al.com/news/2021/05/bad-bill-donald-trump-jr-criticizes-alabama-gambling-legislation.html"
+    ampWebUrl: "https://www.al.com/news/2021/05/bad-bill-donald-trump-jr-criticizes-alabama-gambling-legislation.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/05/bad-bill-donald-trump-jr-criticizes-alabama-gambling-legislation.html?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 47
+      name: al.com
+      domain: al.com
+    quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
-        width: 1024
-        height: 731
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/L2B7DLGFFVC6RNHXVWKCDWDJ3I.JPG"
+        width: 4990
+        height: 3327
         isCached: true
+  - title: "Texas Special Election Poses Test for Anti-Trump Republicans"
+    excerpt: "Ill., left, shakes hands with Grant Goodyear, right, as Texas congressional candidate Michael Wood, center, shakes hands with Linda Thomas Tuesday, April 27, 2021, in Arlington, Texas. Wood is considered the anti-Trump Republican Texas congressional candidate that Kinzinger has endorsed in the May 1st special election for the 6th Congressional District."
+    publishedDateTime: 2021-04-30T04:32:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-30/texas-special-election-poses-test-for-anti-trump-republicans"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-30/texas-special-election-poses-test-for-anti-trump-republicans?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-30/texas-special-election-poses-test-for-anti-trump-republicans?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Trump-Backed Candidate Heads to Runoff in Texas Special Congressional Election"
+    excerpt: "A Texas Republican backed by former President Donald Trump has advanced to a runoff election to fill a U.S. House of Representatives vacancy left by the death of her husband, while Democrats appeared in danger of being shut out of the contest."
+    publishedDateTime: 2021-05-02T13:38:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-02/trump-backed-candidate-heads-to-runoff-in-texas-special-congressional-election"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
+  - title: "Pentagon to Cancel Trump Border Wall Projects Using Military Funds"
+    excerpt: "The Pentagon on Friday said it was cancelling the construction of parts of former President Donald Trump's border wall with Mexico that were being built using military funds, with all the unobligated money being returned to military."
+    publishedDateTime: 2021-04-30T20:39:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-04-30/pentagon-to-cancel-trump-border-wall-projects-using-military-funds"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Facebook Oversight Board to Rule on Suspended Trump Account"
+    excerpt: "Former President Donald Trump will find out this week whether he gets to return to Facebook. The social network’s quasi-independent Oversight Board says it will announce its decision Wednesday on a case concerning the former president."
+    publishedDateTime: 2021-05-03T14:02:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-03/facebook-oversight-board-to-rule-on-suspended-trump-account"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "trxuFM+jsapzTPFd1BJmaj4HZOJJ0mbNL8y432YtLm0xbpSVEciKBLHfPu+YtFekal09V0V96XF4KLhIzpTG7IyFCJvKS2r0IOno4iSjY4LksZW014whoMlx7xljF/9N2HVg6eSK1GV+8NhrqJ8+vixysbaAEKf+4Mg1gAf5mDobDdReYxq9T7vgow9kkO15S/GL1u6QBKlM18X95E9G+Ug6OmQUoRajv1zPdJbUFsqsxHTDyuibjf7o4z+QL5e8d44BlZq1esyLeMGgmDBWnZEWa68jaGlexW1nxPweqoGQkn0PNwHkrzRv3LLvn0fJXDAYDAvwhGrG9OA+WU46AMsO0uV4G2zt8vhkMAbP+VE=;pvWDZwc17tGKSrTq+I3xQg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/president-trump-fires-fbi-director
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-trump-fires-fbi-director-james-comey-1/"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/5b9a7a13e4b01cce9ac7429e-1536850451190?location=LANDSCAPE"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Former President Trump criticizes FBI search of Rudy Giuliani's home and office"
+    excerpt: "Former President Donald Trump spoke out against the investigation into his personal attorney, Rudy Giuliani, after the FBI executed a search warrant at Giuliani's home and office as part of the probe into Giuliani's dealings with Ukraine."
+    publishedDateTime: 2021-04-29T18:04:00Z
+    webUrl: "https://www.cbsnews.com/video/fbi-search-warrant-rudy-giuliani-home-and-office-donald-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 101
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/29/c4afdc2d-0f1f-4899-8ff4-e9b7b0267106/thumbnail/1200x630/1fa6051efb8457378284d0e57493d5a0/cbsn-fusion-fbi-search-warrant-rudy-giuliani-home-and-office-donald-trump-thumbnail-704183-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "3g4P1rS5XbulT792HSfwyPusvESmS08wUs/UXzxAPPhI3Og+42AMbP5yBhv1iJzmZIgKgEEw9vNeBKwre+WYONSgWjBq7l+ccQwIShvxlj+V3ku9djfxKHvEZSsestY4NunsCafhe38GCQSkBVD7ftEk5R28EtFSQwPQhKz2DkiwSat2uUXO06Gj7QJ/6OcAaeTcD5fR+9k3FGNLhPQJAV0FMeU0WwCc0Mn6n8Exy8JLG7yRTe1YZFnD9ME0slKM0B/3txnkeoV/YZCvXVoisK2fY+lu8BKPQf8UckKdXjCI97IaOaUBWEkL+jCA/uUfG95yM904pAyeV9CeDI80GTHqA8dUQusvy4ii2pK8aq0=;f9NJSXHYIIpfoSNd4p7nfA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trum
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp"
 type: article
 quality: 175
-heat: 615
+heat: 635
 published: true
 
 provider:
@@ -382,6 +382,22 @@ related:
       - url: "https://assets.realclear.com/images/54/542535_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Graham: Donald Trump Could Grow The GOP Or He Could Destroy It"
+    excerpt: "Sen. Lindsey Graham told FNC's Sean Hannity on Thursday that the Republican Party will never be able to \"move forward\" without former President Trump, in light of opposition from Rep. Liz Cheney, the GOP conference chair."
+    publishedDateTime: 2021-05-07T13:48:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/07/lindsey_graham_donald_trump_can_make_the_gop_bigger_stronger_--_or_he_could_destroy_it.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/07/lindsey_graham_donald_trump_can_make_the_gop_bigger_stronger_--_or_he_could_destroy_it.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/07/lindsey_graham_donald_trump_can_make_the_gop_bigger_stronger_--_or_he_could_destroy_it.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/521952.jpg"
+        width: 1046
+        height: 784
         isCached: true
 
 secured: "Nb5O72C/1efY+xOApLidWE2Q71gULXPan6n4ld7hIbWpLBg0Blgm3fGB22LnCNlyPTnI+4jYtG0eNDJxbCrDLJ2igxoV0sU44MxUFJ9HIvIN/HNwWY09O3QtF5yuRQf+WtqqN83Wvm//lnTnvPnkGLtSc7Pj5YPZozw3Xq0FSwkKaVbW3DcHPoGr5SnrQ5iUOZ75gilWEIsQAIrLANO1SL1o8wUE4iTm+bot3NHHdSYUJnaly2XnTFIrcfQJ27t9iWi1SxMIvaC5gADqvmCqaVdEfr2/JOpLQ3nOLMD5YlqLdu03Um+ZHxFhBJJ1Z1wWmgGvMRaWxjjf2BoPkS2AeRgehb7/N3Lcm0Fk5jnv0cU=;+TSjzNvwEQol+H/RUDPvLQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2021/mar/31/facebook-donald-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/mar/31/facebook-donald-trump-video-clip-removed"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Facebook’s growth puts Trump in his place"
+    excerpt: "Social media has moved on from Donald Trump. Companies from Twitter to Facebook to Alphabet’s YouTube banned the former U.S. president after rioters invaded the U.S. Capitol in January. He – and his followers – were prolific users of the networks."
+    publishedDateTime: 2021-04-28T20:39:00Z
+    webUrl: "https://www.reuters.com/article/us-facebook-results-breakingviews-idUSKBN2CF2UK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CF2UK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CF2UK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210428&t=2&i=1560277217&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3R1FR"
+        width: 818
+        height: 545
+        isCached: true
 
 secured: "Tl/TXV3t5Hr8HfHfrQ8ofaDSflyUaSW9VHM67F0jTYwLDrxG/9/3VwR22dTWT9GYmT34LvNC8toZAyedXPW63cd2ZF3GJYfduj1oNJLxPusKiqdON6/hBZc/xdL1YkJ7tZQjPZzb8tY5F4K5Ie+EPcJC72XwDJjO+Axu2RhJt9dX85Q+gLQowjOz+CYXSKpPwfG41R/iUgUDRtAxI5mUAMgTX79K5Sb55XE3LqubXAzA8YfGCySRzGQx0Oh0QnCHcX9ErH/7FZA3qwDro70gZS5NWoTw1+UU9/eZ0AH9T31AoB+hW2W05moks+4HlpGbQUIprcYk8roEqZR96DCnM06mFKTWLI5k6RO3w5i0QFuX7zJ0EHz+rXIgJ+N0Mpa0U6QghYgirSNw27z9dUekU1nNl6wH3vsrDDVwYE/bmwvwkDiBPWVj5zTOve//lOFdrnqD/DYC2jThIvqG81xjAP5EhRzTTJmYKTsvyVqLoV8thjLF5gzYJDsIZ1zXfta69dUGZz5IzR4/80pJVHiq5A==;SEPiuVgh1mEE2W/LLaLTfQ=="
 ---

@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Republicans look to oust Liz Cheney as Trump allies push election lie – live"
+    excerpt: "Congresswoman all but certain to lose conference chair role because of criticism of Donald Trump – follow all the day’s politics news"
+    publishedDateTime: 2021-05-07T12:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/13bce181f26a92e2b9fa3dc8dd26a9780f2ce6aa/0_81_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0c4665f52765643b5228bf31bb73b8d3"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Pence gives first public speech since end of Trump administration"
     excerpt: "Former vice president Mike Pence on April 29 made his first public remarks since leaving office, telling an audience in Columbia, S.C., that he plans on “pushing back on the liberal agenda” that the Biden administration is pursuing in the coming months."
     publishedDateTime: 2021-05-01T13:09:00Z
@@ -43,101 +59,133 @@ related:
         width: 1080
         height: 608
         isCached: true
-  - title: "Trump administration accuses Obama of wiretapping"
-    excerpt: "President Trump is calling for Congress to investigate his claim that the Obama administration wiretapped phones in Trump Tower during the presidential campaign. Associated Press White House reporter Vivian Salama joins CBSN to discuss."
-    publishedDateTime: 2021-04-28T12:09:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-administration-accuses-obama-of-wiretapping-1/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-administration-accuses-obama-of-wiretapping-1/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-administration-accuses-obama-of-wiretapping-1/"
+  - title: "Whose 'Big Lie'? Trump's proclamation a new GOP litmus test"
+    excerpt: "Donald Trump and his supporters are intensifying efforts to shame members of the party who are seen as disloyal to the former president and his false claims that last year’s election was stolen"
+    publishedDateTime: 2021-05-04T04:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/28/3c065ea1-f5ce-4109-b082-ec5c177eb01f/thumbnail/1200x630/d4c9e75aea628913678984b32312628c/cbsn-qbg-0305-1263634-640x360.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d94cd197df9a4c78b707faae0d52b181_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Facebook oversight board to give verdict on Donald Trump ban – live"
+    excerpt: "What exactly is Facebook’s Oversight Board? If you need some catching up on exactly what Facebook’s Oversight Board is, here are some basic facts: Facebook announced the creat"
+    publishedDateTime: 2021-05-05T10:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live?page=with:block-6091a7488f08ae30bfe0426d"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/9ec4843e2e4cfdd90b7b916a71df314a47003225/0_59_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4481d464346f41d93bb22d4493664ab4"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "10 Things in Politics: Cheney goes down swinging in Trump fight"
+    excerpt: "And meet the Prince devotee teaching yoga and meditation to burned-out DC Democratic insiders."
+    publishedDateTime: 2021-05-06T09:17:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-liz-cheney-trump-gop"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-liz-cheney-trump-gop?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-liz-cheney-trump-gop?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/6093b55634af8d001859bbd0?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Facebook’s growth puts Trump in his place"
-    excerpt: "Social media has moved on from Donald Trump. Companies from Twitter to Facebook to Alphabet’s YouTube banned the former U.S. president after rioters invaded the U.S. Capitol in January. He – and his followers – were prolific users of the networks."
-    publishedDateTime: 2021-04-28T20:39:00Z
-    webUrl: "https://www.reuters.com/article/us-facebook-results-breakingviews-idUSKBN2CF2UK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CF2UK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CF2UK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210428&t=2&i=1560277217&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3R1FR"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Eying 2024, Pence makes 1st speech since leaving office"
-    excerpt: "In his first public address since the end of the Trump administration, former Vice President Mike Pence put down a marker for a potential return to elected office, telling an audience in early-voting"
-    publishedDateTime: 2021-04-30T03:39:00Z
-    webUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+  - title: "Challenger hits Liz Cheney, says GOP must work with Trump"
+    excerpt: "No. 3 House Republican Liz Cheney is clinging to her post as party leaders are lining up behind an heir apparent for her job"
+    publishedDateTime: 2021-05-06T14:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZR2LPVJI4I6XKFHL5C53TPTMQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BMJHGUFNVQI6XAWBRFVMVFK3XE.jpg&w=1440"
         width: 1440
-        height: 958
+        height: 960
         isCached: true
-  - title: "Pence touts \"our\" accomplishments in first remarks since leaving office"
-    excerpt: "In speaking to the Palmetto Family Council, a South Carolina social conservative Christian group, Pence criticized Mr. Biden for what he called \"an avalanche of liberal policies.\""
-    publishedDateTime: 2021-04-30T11:08:00Z
-    webUrl: "https://www.cbsnews.com/news/pence-speech-south-carolina-2021-04-29/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/pence-speech-south-carolina-2021-04-29/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pence-speech-south-carolina-2021-04-29/"
+  - title: "Cheney sees 'turning point' for party already turned to Trump: The Note"
+    excerpt: "Republicans are set to punish the third-ranking member of their House leadership team for supposed disloyalty where she chose to tell the truth."
+    publishedDateTime: 2021-05-06T14:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/cheney-sees-turning-point-party-turned-trump-note/story?id=77509792"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/cheney-sees-turning-point-party-turned-trump-note/story?id=77509792"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/cheney-sees-turning-point-party-turned-trump-note/story?id=77509792"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/liz-cheney-ge_hpMain_20210505-215123_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Liz Cheney clings to GOP post as Trump endorses replacement"
+    excerpt: "No. 3 House Republican Liz Cheney is clinging to her post as party leaders are lining up behind an heir apparent for her job"
+    publishedDateTime: 2021-05-06T02:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/cheney-toast-fight-trump-gop-future-77499425"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/cheney-toast-fight-trump-gop-future-77499425"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/cheney-toast-fight-trump-gop-future-77499425"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Sports/WireAP_1c648ee9a8344c72a95c5b5ec703e505_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Samantha Bee on GOP post-Trump: ‘Republicans eating each other alive’"
+    excerpt: "Late-night hosts discuss the GOP’s internecine war over Trump’s election lies, Facebook’s extension of Trump’s ban and the ex-president’s new blog"
+    publishedDateTime: 2021-05-06T15:34:00Z
+    webUrl: "https://www.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
+    ampWebUrl: "https://amp.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/c29a9135d769e4091474929113d593620084b91a/114_114_2542_1525/master/2542.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=847e93a77619edf2539744548c39bdda"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump backs Stefanik to replace Cheney as GOP conference chair"
+    excerpt: "Former President Donald Trump on Wednesday publicly called for the removal of GOP conference chair Liz Cheney, who has repeatedly criticized him for spreading falsehoods about the 2020 election and seeking to downplay the January 6 attack on the U."
+    publishedDateTime: 2021-05-05T21:35:00Z
+    webUrl: "https://www.cbsnews.com/news/elise-stefanik-gop-conference-chair-cheney-scalise/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/elise-stefanik-gop-conference-chair-cheney-scalise/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/elise-stefanik-gop-conference-chair-cheney-scalise/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/ebb6bd27-0803-4d04-8470-606e80f3aa00/thumbnail/1200x630/f196ff31d354a22d129afc18f0d33fbd/gettyimages-1232601399.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/05/6919431c-67c8-479c-88ab-c6050aa53655/thumbnail/1200x630g2/26b9f80caac1ce448a08298adb4914db/gettyimages-1231615029.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "The Memo: Trump's critics face wrath of GOP base"
-    excerpt: "Cheney voted for Trump’s impeachment and has become perhaps his most persistent foe among GOP officeholders. But the bigger picture is one in which Cheney is in danger of losing her House leadership position and another Trump critic,"
-    publishedDateTime: 2021-05-03T21:47:00Z
-    webUrl: "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base"
-    ampWebUrl: "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_cheneyliz_012121getty-bc_split.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Judge orders Justice Department to release Trump obstruction memo"
-    excerpt: "U.S. District Judge Amy Berman Jackson said AG William Barr had obscured \"the true purpose of the memorandum\" when it withheld the document."
-    publishedDateTime: 2021-05-05T11:30:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/05/judge-orders-justice-department-release-trump-obstruction-memo/4952659001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4952659001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4952659001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/11/USAT/cd70680c-eb01-4028-811e-d96055489d94-AFP_AFP_8WA7MF.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Trump, Republicans express outrage over extension of Facebook ban"
     excerpt: "Former White House chief of staff Mark Meadows lashed out at the social media platform while Rep. Lauren Boebert said Facebook will “pay the price” before deleting the tweet."
@@ -155,105 +203,100 @@ related:
         width: 1440
         height: 1856
         isCached: true
-  - title: "Facebook Oversight Board to Announce Decision on Donald Trump Ban on May 5"
-    excerpt: "Former President Donald Trump could make a return to Facebook and Instagram very soon following an announcement by the body that oversees bans on content for the social media sites. The Oversight Board tweeted on Monday that they will reveal their decision on Trump's suspensions this Wednesday,"
-    publishedDateTime: 2021-05-03T15:22:00Z
-    webUrl: "https://www.newsweek.com/facebook-oversight-board-announce-decision-donald-trump-ban-may-5-1588223"
-    ampWebUrl: "https://www.newsweek.com/facebook-oversight-board-announce-decision-donald-trump-ban-may-5-1588223?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-oversight-board-announce-decision-donald-trump-ban-may-5-1588223?amp=1"
+  - title: "Cheney challenger Stefanik says GOP must work with Trump"
+    excerpt: "New York Republican Rep. Elise Stefanik is stating her case for replacing Rep. Liz Cheney as the No. 3 House Republican leader"
+    publishedDateTime: 2021-05-07T01:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1786543/former-president-trump-looks-his-phone.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BMJHGUFNVQI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Pentagon halts border wall construction paid for with defense funds redirected by Trump"
-    excerpt: "In 2019, the Trump administration used Defense Department cash for border wall projects when Congress refused to fund them."
-    publishedDateTime: 2021-05-01T11:16:00Z
-    webUrl: "https://www.cbsnews.com/news/border-wall-construction-canceled-pentagon/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/border-wall-construction-canceled-pentagon/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/border-wall-construction-canceled-pentagon/"
+  - title: "In booting Cheney, 'My Kevin' leads GOP back to Trump"
+    excerpt: "Liz Cheney from the No. 3 House leadership position and transform The GOP leader argues that ousting Cheney has less to do with her very public criticism of the former president's lies about his 2020 election loss to President Joe Biden than her inability to set aside personal convictions and do her job."
+    publishedDateTime: 2021-05-07T03:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5N4JR5VO5AI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "The crucial thing Liz Cheney’s GOP critics don’t say: She’s wrong about Trump"
+    excerpt: "Liz Cheney (Wyo.) may not be long for House GOP leadership. After a failed attempt to oust the No. 3 GOP official following her vote to impeach President Donald Trump, the movement has again built steam following Cheney’s increasing efforts to distance her party from Trump and his false claims about a stolen 2020 election."
+    publishedDateTime: 2021-05-04T15:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/05/04/crucial-thing-liz-cheneys-gop-critics-dont-say-shes-wrong-about-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/04/crucial-thing-liz-cheneys-gop-critics-dont-say-shes-wrong-about-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/04/crucial-thing-liz-cheneys-gop-critics-dont-say-shes-wrong-about-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-03-2021/t_7ed03d269ec142f3b14b66cb21289875_name_cheney_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "House GOP leader Kevin McCarthy amps up pressure on Liz Cheney over Donald Trump barbs"
+    excerpt: "Kevin McCarthy has planted himself on the side of Liz Cheney's critics, raising the question of her fitness to lead House Republicans."
+    publishedDateTime: 2021-05-04T16:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/04/house-gop-leader-kevin-mccarthy-turns-up-pressure-liz-cheney/4939378001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4939378001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4939378001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
     quality: 117
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/04/bee1bf6c-1fd9-4ed8-94a0-3d6da2145de4/thumbnail/1200x630/feec45701550b6329b0d5a6acaeddf5b/gettyimages-1222262266.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2021/02/24/USAT/ad6c012f-d872-4235-80c8-9ad0284e6393-VPC_CHENEY_MCCARTHY_ON_TRUMP_CPAC_DESK.00_00_13_17.Still009.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Pence gives first public remarks since leaving office as Biden marks 100 days in office"
-    excerpt: "Former Vice President Mike Pence on Thursday spoke in South Carolina, his first public remarks since leaving office. Speaking as President Biden marks his first 100 days in office, Pence slammed Mr. Biden's policies."
-    publishedDateTime: 2021-04-30T01:26:00Z
-    webUrl: "https://www.cbsnews.com/video/mike-pence-first-public-remarks-2021-04-28/"
+  - title: "Rep. Elise Stefanik, seeking Liz Cheney’s House leadership post, says Republicans must back Trump"
+    excerpt: "Rep. Elise Stefanik stated her case on on Steve Bannon’s podcast Thursday for replacing Rep. Liz Cheney as the No. 3 House Republican leader."
+    publishedDateTime: 2021-05-06T16:48:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republicans-elise-stefanik-liz-cheney-trump-20210506-nn4htwhewzfvxbiupizyb7qofq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republicans-elise-stefanik-liz-cheney-trump-20210506-nn4htwhewzfvxbiupizyb7qofq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-republicans-elise-stefanik-liz-cheney-trump-20210506-nn4htwhewzfvxbiupizyb7qofq-story.html?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 112
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/9451bbda-308d-421f-86ca-ae896a838578/thumbnail/1200x630/6e4116a81676ae1ed279c898558c4423/cbsn-fusion-mike-pence-first-public-remarks-2021-04-28-thumbnail-704738-640x360.jpg"
+      - url: "https://www.chicagotribune.com/resizer/FjIKfFFlvlxaPvZZdy6C_zXVBFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DNWPM37OTNDZ3DCSVKITMWEUWM"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Professional political survivor Mike Pence tests if there's any room left for him in a Trump Republican Party"
-    excerpt: "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics."
-    publishedDateTime: 2021-04-28T08:01:00Z
-    webUrl: "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4"
+  - title: "Liz Cheney slams Trump's 'big lie' claim"
+    excerpt: "Rep. Liz Cheney (R-Wyo.) pushed back May 3 against former president Donald Trump’s attempt to commandeer the term “Big Lie,” saying he is \"poisoning our democratic system\" with his persistent false claims that the 2020 election was \"stolen\" from him."
+    publishedDateTime: 2021-05-03T21:28:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/liz-cheney-slams-trumps-big-lie-claim/2021/05/03/6d9e9392-6f76-4a16-b004-77c7eb6485f1_video.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg"
-        width: 847
-        height: 423
-        isCached: true
-  - title: "Former Vice President Pence delivers first speech since leaving office"
-    excerpt: "Former Vice President Mike Pence made his first public appearance since leaving the White House on Thursday. He spoke at the annual Palmetto Family Council gala in South Carolina. Pence slammed President Biden while also praising his time in the Trump administration."
-    publishedDateTime: 2021-04-30T04:13:00Z
-    webUrl: "https://www.cbsnews.com/video/former-vice-president-pence-delivers-first-speech-since-leaving-office/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 105
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/1b1e00aa-af99-48d7-9336-61d21b7b38c3/thumbnail/1200x630/234a8fb9e9d1ff1882c4d4099e8ad0f1/0429-cbsn-gza-704802-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-03-2021/t_7ed03d269ec142f3b14b66cb21289875_name_cheney_scaled.jpg&w=1080"
+        width: 1080
+        height: 608
         isCached: true
-  - title: "A decision on suspended Trump Facebook account this week"
-    excerpt: "Former President Donald Trump will find out this week whether he gets to return to Facebook in a decision likely to stir up strong feelings no matter which way it goes. The social network’s quasi-independent Oversight Board says it will announce its ruling Wednesday on a case concerning the former president."
-    publishedDateTime: 2021-05-03T18:17:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/decision-suspended-trump-facebook-account-week-77467356"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_3c0ea3596b8d44c59b0504ddcf959987_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "IRS chief counsel under Trump admin joins Gibson Dunn"
-    excerpt: "Gibson, Dunn & Crutcher on Monday announced it has tapped Michael Desmond, whose successful nomination to serve as chief counsel of the U.S. Internal Revenue Service was reportedly a personal priority for former President Donald Trump."
-    publishedDateTime: 2021-05-03T21:17:00Z
-    webUrl: "https://www.reuters.com/article/gibson-tax-idUSL1N2MQ2GE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MQ2GE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MQ2GE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "Cheney's views on Trump puts her GOP post in peril"
     excerpt: "No. 3 House Republican Liz Cheney was clinging to her post Wednesday as party leaders lined up behind an heir apparent, signaling that fallout over her clashes with former President Donald Trump was becoming too much for her to overcome."
     publishedDateTime: 2021-05-06T01:45:00Z
@@ -268,164 +311,143 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Former Vice President Mike Pence to deliver first speech since leaving office"
-    excerpt: "Former Vice President Mike Pence is delivering his first speech since leaving office to a group of conservatives in South Carolina on Thursday. His visit to the early primary state is fueling speculation over whether Pence is weighing a 2024 presidential bid."
-    publishedDateTime: 2021-04-29T22:39:00Z
-    webUrl: "https://www.cbsnews.com/video/former-vice-president-mike-pence-first-speech-since-leaving-office-south-carolina/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 102
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/29/04427689-6436-419b-9d61-b0761cc247d9/thumbnail/1200x630/506dedf489cb7ffe29b1dbe6faefb840/cbsn-fusion-former-vice-president-mike-pence-to-deliver-first-speech-since-leaving-office-to-south-carolina-conservatives-thumbnail-704546-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Former President Trump criticizes FBI search of Rudy Giuliani's home and office"
-    excerpt: "Former President Donald Trump spoke out against the investigation into his personal attorney, Rudy Giuliani, after the FBI executed a search warrant at Giuliani's home and office as part of the probe into Giuliani's dealings with Ukraine."
-    publishedDateTime: 2021-04-29T18:04:00Z
-    webUrl: "https://www.cbsnews.com/video/fbi-search-warrant-rudy-giuliani-home-and-office-donald-trump/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 101
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/29/c4afdc2d-0f1f-4899-8ff4-e9b7b0267106/thumbnail/1200x630/1fa6051efb8457378284d0e57493d5a0/cbsn-fusion-fbi-search-warrant-rudy-giuliani-home-and-office-donald-trump-thumbnail-704183-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Search warrant for Rudy Giuliani’s records resolved a Justice Department dispute leftover from the Trump administration"
-    excerpt: "The question of whether to serve a search warrant for Rudy Giuliani's records simmered inside the Justice Department in the waning months of the Trump administration, dividing officials in New York and Washington and remaining unresolved for a new leadership team to sort out."
-    publishedDateTime: 2021-05-01T17:59:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 101
-    images:
-      - url: "https://www.chicagotribune.com/resizer/c-Ale6YBxYo5LkKH0F3piP2Xdj4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4ULNT3YHFH66AEJUZPITPRDTPQ.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump is staying out of the Virginia GOP's governor race. His absence is making a chaotic campaign even more bonkers."
-    excerpt: "The former president hasn't endorsed any of the Virginia Republicans running to lead the Old Dominion, a state he lost by double digits to Biden in 2020."
-    publishedDateTime: 2021-05-06T08:01:00Z
-    webUrl: "https://www.businessinsider.com/trump-virginia-republicans-chase-snyder-youngkin-cox-davis-cruz-endorsement-2021-5"
+  - title: "Republicans are said to be plotting to oust Liz Cheney from House leadership and replace her with a pro-Trump woman"
+    excerpt: "Cheney, the third most senior House Republican, has been a vocal critic of former President Donald Trump."
+    publishedDateTime: 2021-05-04T12:40:00Z
+    webUrl: "https://www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 82
+    quality: 103
     images:
-      - url: "https://i.insider.com/60931ce434af8d001859bb9f?width=700"
-        width: 700
-        height: 525
+      - url: "https://i.insider.com/609124fef22c6b00185db6a2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Pondering 2024, Mike Pence makes first speech since leaving office"
-    excerpt: "Mike Pence to LaunchConservative Podcast.Former Vice President Mike Pence willsoon be returning to his radio roots. .Prior to being elected to Congress in 2000,61-year-old Pence s"
-    publishedDateTime: 2021-04-30T12:08:00Z
-    webUrl: "https://www.ajc.com/news/nation-world/eying-2024-pence-makes-first-speech-since-leaving-office/TZTC2GJD6VGQ5PFHUKSOJWJAEU/"
-    ampWebUrl: "https://www.ajc.com/news/nation-world/eying-2024-pence-makes-first-speech-since-leaving-office/TZTC2GJD6VGQ5PFHUKSOJWJAEU/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/nation-world/eying-2024-pence-makes-first-speech-since-leaving-office/TZTC2GJD6VGQ5PFHUKSOJWJAEU/?outputType=amp"
+  - title: "The Hill's Morning Report - Presented by Emergent BioSolutions - Facebook upholds Trump ban; GOP leaders back Stefanik to replace Cheney"
+    excerpt: "President Trump Donald Trump Caitlyn Jenner on Hannity touts Trump: 'He was a disruptor' Ivanka Trump doubles down on vaccine push with post celebrating second shot Conservative Club for Growth PAC comes out against Stefanik to replace Cheney MORE checks his phone on a golf course\" width=\"580\" height=\"387\" data-delta=\"2\"> Welcome to The Hill’s Morning Report."
+    publishedDateTime: 2021-05-06T10:24:00Z
+    webUrl: "https://thehill.com/homenews/morning-report/552067-the-hills-morning-report"
+    ampWebUrl: "https://thehill.com/homenews/morning-report/552067-the-hills-morning-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/552067-the-hills-morning-report?amp"
     type: article
     provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
+      name: The Hill
+      domain: thehill.com
+    quality: 92
+    images:
+      - url: "https://thehill.com/sites/default/files/newsletter-trump_050621getty.jpg"
+        width: 580
+        height: 387
+        isCached: true
+  - title: "House Minority Leader Kevin McCarthy cites Republican concerns about Liz Cheney’s ‘ability to carry out her job’ after she calls out Trump"
+    excerpt: "Rather than standing by Rep. Liz Cheney, House Minority Leader Kevin McCarthy essentially landed himself in the camp of her Republican critics."
+    publishedDateTime: 2021-05-04T14:54:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-congress-liz-cheney-kevin-mccarthy-20210504-wv3apyy6yfcqrfmeokvoefv34q-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-congress-liz-cheney-kevin-mccarthy-20210504-wv3apyy6yfcqrfmeokvoefv34q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-congress-liz-cheney-kevin-mccarthy-20210504-wv3apyy6yfcqrfmeokvoefv34q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 91
+    images:
+      - url: "https://www.chicagotribune.com/resizer/jh8iB5dqesYFt-aPQCl7dzY03s8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/56EBA5GLOJHSFGEYLUWX63OLLI"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump's 'big lie' becomes new litmus test for success in GOP"
+    excerpt: "It’s scary,” said Michael Wood, the Texas Republican congressional candidate who based his campaign on a vow to push the GOP past the “cult of personality” that is Trump. In the end, he garnered just 3% of the vote in Saturday’s special election,"
+    publishedDateTime: 2021-05-04T02:32:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
     quality: 75
     images:
-      - url: "https://www.ajc.com/resizer/uFZmVf_YLF-dxa2DhhXYCAwISwc=/1200x630/d1fegwn2wjh0cs.cloudfront.net/02-09-2021/t_4fdb7635b61947e9aecc2ca80f04a708_name_da699ebd99784be290d6ab2ac77f11c9.jpg"
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Liz Cheney, Donald Trump feud gets mixed reviews in Wyoming"
+    excerpt: "Liz Cheney, the defiant third-term congresswoman faces mixed reviews at home. So far, Wyoming’s governor and congressional delegation have avoided sticking out their necks for Cheney, who faces ouster from House GOP leadership over her frequent criticism of former President Donald Trump."
+    publishedDateTime: 2021-05-06T23:36:00Z
+    webUrl: "https://www.chron.com/news/article/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Utah Republicans’ bid to censure Sen. Mitt Romney for Trump impeachment votes fails"
+    excerpt: "Mitt Romney but ultimately rejected a motion to censure him Saturday for his votes at President Donald Trump’s impeachment trials. The measure narrowly failed, 798 to 711, in a vote by delegates to the state GOP convention,"
+    publishedDateTime: 2021-05-02T03:30:00Z
+    webUrl: "https://www.al.com/news/2021/05/utah-republicans-bid-to-censure-sen-mitt-romney-for-trump-impeachment-votes-fails.html"
+    ampWebUrl: "https://www.al.com/news/2021/05/utah-republicans-bid-to-censure-sen-mitt-romney-for-trump-impeachment-votes-fails.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/05/utah-republicans-bid-to-censure-sen-mitt-romney-for-trump-impeachment-votes-fails.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NT6QIB5EHZCYRI5ERTUUTQIN7E.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Special election to replace U.S. Rep. Ron Wright remains highly competitive in final hours, as Donald Trump looms large"
+    excerpt: "Nearly two-dozen candidates are vying to fill the late congressman's seat, and the former president is backing Wright's widow, Susan Wright."
+    publishedDateTime: 2021-04-30T15:28:00Z
+    webUrl: "https://www.texastribune.org/2021/04/30/tx-6-special-election/"
+    ampWebUrl: "https://www.texastribune.org/2021/04/30/tx-6-special-election/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/04/30/tx-6-special-election/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 66
+    images:
+      - url: "https://thumbnails.texastribune.org/-LPrcCg8VR2SW6dlG2TbqqsFAd4=/1200x630/filters:quality(95)/static.texastribune.org/media/files/5a9a462d5d7fdb74fce431e415ab49f5/US%20Capitol%20DC%20REUTERS%20TT.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Texas Special Election Poses Test for Anti-Trump Republicans"
-    excerpt: "Ill., left, shakes hands with Grant Goodyear, right, as Texas congressional candidate Michael Wood, center, shakes hands with Linda Thomas Tuesday, April 27, 2021, in Arlington, Texas. Wood is considered the anti-Trump Republican Texas congressional candidate that Kinzinger has endorsed in the May 1st special election for the 6th Congressional District."
-    publishedDateTime: 2021-04-30T04:32:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-04-30/texas-special-election-poses-test-for-anti-trump-republicans"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-04-30/texas-special-election-poses-test-for-anti-trump-republicans?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-04-30/texas-special-election-poses-test-for-anti-trump-republicans?context=amp"
+  - title: "Cheney Could Be 'Toast' in Fight With Trump Over GOP Future"
+    excerpt: "House Republican leader Kevin McCarthy wants his party to stand firmly with Donald Trump, despite the former president’s false claims about the election being stolen from him."
+    publishedDateTime: 2021-05-05T05:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-05/cheney-could-be-toast-in-fight-with-trump-over-gop-future"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-05-05/cheney-could-be-toast-in-fight-with-trump-over-gop-future?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-05-05/cheney-could-be-toast-in-fight-with-trump-over-gop-future?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 70
-  - title: "Former VP Mike Pence touts Trump accomplishments in return to SC as 2024 rumors swirl"
-    excerpt: "In his first public speech since leaving office, former VP Mike Pence told a friendly crowd of several hundred Christian conservatives they need to \"stand up and unite behind a"
-    publishedDateTime: 2021-04-30T00:45:00Z
-    webUrl: "https://www.postandcourier.com/politics/former-vp-mike-pence-touts-trump-accomplishments-in-return-to-sc-as-2024-rumors-swirl/article_f490025a-a91e-11eb-b90d-7b596a092326.html"
+    quality: 55
+  - title: "Liz Cheney Under Attack From GOP For Standing Up To Donald Trump"
+    excerpt: "Wyo., may find herself ousted from her position as the third-highest Republican as her strong stance against Donald Trump nets her few allies and increasing hostility from her caucus. Removing her from her post would require a conference vote,"
+    publishedDateTime: 2021-05-04T21:37:00Z
+    webUrl: "https://www.ibtimes.com/liz-cheney-under-attack-gop-standing-donald-trump-3193020"
     type: article
     provider:
-      name: Post and Courier
-      domain: postandcourier.com
-    quality: 63
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/9/bc/9bcf931c-8d78-52c4-9a4e-b6fd2a50397b/608b5b51b0488.image.jpg?resize=946%2C630"
-        width: 946
-        height: 630
-        isCached: true
-  - title: "Ex-Trump Vice President Pence Makes First Public Appearance Since January"
-    excerpt: "Pence spoke for a half hour in Columbia, South Carolina, to the Palmetto Family Council, a religious conservative group. It was his first speech since he and then-President Donald Trump handed over power to President Joe Biden and Vice President Kamala Harris on Jan."
-    publishedDateTime: 2021-04-30T01:03:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-29/ex-trump-vice-president-pence-makes-first-public-appearance-since-january"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 59
-  - title: "Eyeing 2024, Pence Makes First Speech Since Leaving Office"
-    excerpt: "Mike Pence on Thursday put down a marker for a potential return to elected office, telling an audience in early-voting South Carolina that he will use the coming months “pushing back on the liberal agenda” he says is wrong for the country."
-    publishedDateTime: 2021-04-30T10:35:00Z
-    webUrl: "https://indianapublicmedia.org/news/eyeing-2024,-pence-makes-first-speech-since-leaving-office.php"
-    type: article
-    provider:
-      name: WFIU
-      domain: indianapublicmedia.org
+      name: International Business Times
+      domain: ibtimes.com
     quality: 55
     images:
-      - url: "https://indianapublicmedia.org/news/news-images/pence-generic-lc_1.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/liz-cheney.jpg"
         width: 1200
-        height: 800
+        height: 843
         isCached: true
-  - title: "Pentagon to Cancel Trump Border Wall Projects Using Military Funds"
-    excerpt: "The Pentagon on Friday said it was cancelling the construction of parts of former President Donald Trump's border wall with Mexico that were being built using military funds, with all the unobligated money being returned to military."
-    publishedDateTime: 2021-04-30T20:39:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-04-30/pentagon-to-cancel-trump-border-wall-projects-using-military-funds"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
-  - title: "Facebook Oversight Board to Rule on Suspended Trump Account"
-    excerpt: "Former President Donald Trump will find out this week whether he gets to return to Facebook. The social network’s quasi-independent Oversight Board says it will announce its decision Wednesday on a case concerning the former president."
-    publishedDateTime: 2021-05-03T14:02:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-03/facebook-oversight-board-to-rule-on-suspended-trump-account"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
-  - title: "House Republicans Ready Vote on Trump Critic's Leadership Post: Sources"
-    excerpt: "The expected House Republican Conference vote is only the latest skirmish in a Republican civil war between Trump supporters and those who worry that his repeated false election c"
-    publishedDateTime: 2021-05-04T21:41:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-04/house-republicans-ready-vote-on-trump-critics-leadership-post-sources"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
-  - title: "Eight Republican 2024 Candidates Speak in Texas Next Week, but Not Trump"
-    excerpt: "Candidates Speak in Texas Next Week, but Not Trump WASHINGTON (Reuters) - A Republican Party event in Texas next week will hear from eight potential candidates for the party's presidential nomination in 2024,"
-    publishedDateTime: 2021-04-30T21:50:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/eight-republican-2024-candidates-speak-in-texas-next-week-but-not-trump"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
 
 secured: "tHgyyTaUZxtWUHqJR06iGZq6WbTZWoIQ+hFOf8acnJvtCv8FMewI2art1oRYAkCqIU6MLSuNFlaQVTZTMp5eXMBy5OqCh/zlblWeVY+vkZFsHiHlr1ovE3HLJ3IEwYMQNEmG3WJB2MimPh3dU61qxZs3Cmerw0BX3E4744baK9M5QoeETILRgM5zstXNLYkT/qm7h5LpjV3L9Fc9biRMovKh5/4St8F18jGtCWLGijLK/f8D0RnD1LCNu2aQd1PLipAQqbUSAAhM63vlbaTwiruJanwuVLl61ZYH3Etm9vwa31JyyaLVKqUiA9YeN+m9iyujCEFGI6sjY9do1QhYnjoAH3kHBgFuad/gVAkS3NE=;1Aym84m2EIzdka1kDeEcVQ=="
 ---

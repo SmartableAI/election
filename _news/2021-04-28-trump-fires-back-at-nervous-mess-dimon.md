@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Former President Trump criticizes FBI search of Rudy Giuliani's home and office"
+    excerpt: "Former President Donald Trump spoke out against the investigation into his personal attorney, Rudy Giuliani, after the FBI executed a search warrant at Giuliani's home and office as part of the probe into Giuliani's dealings with Ukraine."
+    publishedDateTime: 2021-04-29T18:04:00Z
+    webUrl: "https://www.cbsnews.com/video/fbi-search-warrant-rudy-giuliani-home-and-office-donald-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 101
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/29/c4afdc2d-0f1f-4899-8ff4-e9b7b0267106/thumbnail/1200x630/1fa6051efb8457378284d0e57493d5a0/cbsn-fusion-fbi-search-warrant-rudy-giuliani-home-and-office-donald-trump-thumbnail-704183-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "43GxGxgTOFGHaw7g5Jtm4lFVnFw7OmHxSYm6xtLMYIBDj286NE/fo+iHOoYc8pGXl4cGrXQJZ79AvApKoCq7CZL0QUuqZTaaJYQfWCbuEZP8Zmy6aoYwn6es8cOjHNIFTNKumgk+Pr880zkac+pgQAhi82khLqPlZgP06S0MlmGa34ZclK2p8AokG2/rpM3Xq4OHMu/dqUiwdsZg6U6v2DpeKifglqUKSR71vFKClP/ZdhBlepQXvPliCqfx4wRL/u0W2srhXmq/ymF3r3L4n6TLQHsS7ArQpH4A79OFEY/OoUv5HC8Yu6GbcmWxGDDsUnN5Pwrt8AMcylyxEzxUIkIKGT+mR9M7BUEKqhbUhstaK/Ml3gbJKRvH5I4zCXb0uUHT13AwSEnU8Ib2q6fyDoGaRKVNojYBhM6dRpXj/qF2idTi1Q3wfFUc22XEHCdipRhINT9MieI57q+XF3xcduF97Hm62ga708FCWz0KEpOeVmd2ppjCQocQRm0LKiMjiX6aJ8Onl2HLkTKHGPNYMA==;4jzLAfpqmcjOtxNealN3qw=="
 ---

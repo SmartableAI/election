@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp"
 type: article
 quality: 121
-heat: -1
-published: false
+heat: 301
+published: true
 
 provider:
   name: Washington Post
@@ -31,53 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook oversight board to give verdict on Donald Trump ban – live"
-    excerpt: "What exactly is Facebook’s Oversight Board? If you need some catching up on exactly what Facebook’s Oversight Board is, here are some basic facts: Facebook announced the creat"
-    publishedDateTime: 2021-05-05T10:53:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live?page=with:block-6091a7488f08ae30bfe0426d"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live"
+  - title: "Pro-Trump and anti-vax sites urging people to forge COVID-19 vaccination cards, says CDC"
+    excerpt: "Faking a vaccination is easy with a template and blank flashcard. New York is the only state that keeps track of authentic cards. It is against the law to fake vaccination cards. Some former President Trump supporters and anti-vaxxers are forging vaccine cards using a government-issued template to falsely state they received their shots."
+    publishedDateTime: 2021-05-01T00:17:00Z
+    webUrl: "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to"
+    ampWebUrl: "https://thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/prevention-cures/551275-pro-trump-and-anti-vax-sites-urging-people-to?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
+      name: The Hill
+      domain: thehill.com
+    quality: 116
     images:
-      - url: "https://i.guim.co.uk/img/media/9ec4843e2e4cfdd90b7b916a71df314a47003225/0_59_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4481d464346f41d93bb22d4493664ab4"
-        width: 600
-        height: 360
+      - url: "https://thehill.com/sites/default/files/ca.vac_card_gettyimages-1230169189.jpg"
+        width: 1440
+        height: 880
         isCached: true
-  - title: "Facebook’s Oversight Board upholds ban on Trump. At least for now."
-    excerpt: "The panel faulted the social network for making a hasty decision without clear criteria and told Facebook to reevaluate the decision within six months."
-    publishedDateTime: 2021-05-05T20:20:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/?outputType=amp"
+  - title: "After Trump-era cutbacks and a pandemic, immigrant advocacy groups prepare to meet a rising need"
+    excerpt: "Even before the pandemic hit immigrant relief organizations — forcing them to cut hours, freeze volunteer programs, move online and scrap for funding as donations dried up — groups that serve newly arrived immigrants were struggling to keep some programs afloat."
+    publishedDateTime: 2021-05-03T09:04:00Z
+    webUrl: "https://www.washingtonpost.com/local/immigration-services-need/2021/05/02/4f139f8c-a395-11eb-a774-7b47ceb36ee8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/immigration-services-need/2021/05/02/4f139f8c-a395-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/immigration-services-need/2021/05/02/4f139f8c-a395-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 112
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CXWOKATSREI6XBSRNUYJD2WGH4.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XLMI2GETXYI6XKW4V54HAGRQZI.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "The Daily 202: Facebook board’s Trump decision isn’t just about Trump"
-    excerpt: "Welcome to The Daily 202 newsletter! If you’re still wondering, in 2021, how powerful Facebook is, consider that their oversight board’s website is just oversightboard dot com. Tell your friends to sign up here."
-    publishedDateTime: 2021-05-06T15:35:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/05/06/daily-202-facebook-boards-trump-decision-isnt-just-about-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/06/daily-202-facebook-boards-trump-decision-isnt-just-about-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/06/daily-202-facebook-boards-trump-decision-isnt-just-about-trump/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G6PQNKVOAUI6XAWBRFVMVFK3XE.jpg&w=1440"
-        width: 1440
-        height: 947
         isCached: true
   - title: "Facebook board to decide today if former President Donald Trump can post again on the social media site"
     excerpt: "On Wednesday, his fate on Facebook, the biggest social platform around, will be decided. The company’s quasi-independent Oversight Board will announce its ruling around 9 a.m. ET. If it rules in Trump’s favor,"
@@ -95,22 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Hill's Morning Report - Presented by Emergent BioSolutions - Facebook upholds Trump ban; GOP leaders back Stefanik to replace Cheney"
-    excerpt: "President Trump Donald Trump Caitlyn Jenner on Hannity touts Trump: 'He was a disruptor' Ivanka Trump doubles down on vaccine push with post celebrating second shot Conservative Club for Growth PAC comes out against Stefanik to replace Cheney MORE checks his phone on a golf course\" width=\"580\" height=\"387\" data-delta=\"2\"> Welcome to The Hill’s Morning Report."
-    publishedDateTime: 2021-05-06T10:24:00Z
-    webUrl: "https://thehill.com/homenews/morning-report/552067-the-hills-morning-report"
-    ampWebUrl: "https://thehill.com/homenews/morning-report/552067-the-hills-morning-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/552067-the-hills-morning-report?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 92
-    images:
-      - url: "https://thehill.com/sites/default/files/newsletter-trump_050621getty.jpg"
-        width: 580
-        height: 387
-        isCached: true
   - title: "EXPLAINER: Will Donald Trump return to Facebook?"
     excerpt: "Former President Donald Trump will find out whether he gets to return to Facebook on Wednesday, when the social network’s quasi-independent Oversight Board plans to announce its ruling in the high-profile case."
     publishedDateTime: 2021-05-04T18:46:00Z
@@ -126,22 +94,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "Facebook board upholds Trump ban, just not indefinitely"
-    excerpt: "Former President Donald Trump won’t return to Facebook — at least not yet. The social network’s quasi-independent Oversight Board voted to uphold his ban from the platform after his account was suspended four months ago."
-    publishedDateTime: 2021-05-07T03:56:00Z
-    webUrl: "https://www.chron.com/news/article/Facebook-board-s-Trump-decision-could-have-wider-16152347.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Facebook-board-s-Trump-decision-could-have-wider-16152347.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Facebook-board-s-Trump-decision-could-have-wider-16152347.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/17/70/54/20941630/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
         isCached: true
   - title: "Donald Trump's Facebook ban is permanent, social network's Oversight Board rules"
     excerpt: "Former President Donald Trump won’t return to Facebook. The social network’s quasi-independent Oversight Board has voted to permanently ban his account after it was suspended four months ago for inciting violence that led to the deadly Jan."
@@ -159,48 +111,17 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Defining Moment For Facebook Oversight Panel With Trump Ban Ruling"
-    excerpt: "Facebook's independent oversight board was set for a momentous decision on the platform's ban of former US president Donald Trump, as debate swirls on the role of social media in curbing hateful and abusive speech while controlling political discourse."
-    publishedDateTime: 2021-05-04T16:18:00Z
-    webUrl: "https://www.ibtimes.com/defining-moment-facebook-oversight-panel-trump-ban-ruling-3192936"
+  - title: "Special Report: How Trump Scored a Big Tax Break for Conserving a Golf Range"
+    excerpt: "Trump eventually abandoned a plan to build 16 homes and turned instead to the tax code to offset the lost profits - securing a $25 million tax deduction in exchange for a promise not to develop the land."
+    publishedDateTime: 2021-04-30T12:06:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/donald-trump-is-seen-addressing-supporters-flooding-the.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Will Donald Trump's Facebook Account Return?"
-    excerpt: "Donald Trump may be back online as Facebook’s oversight board prepares to announce its decision on his expulsion from the platform. The former president was given the boot a day after the Jan. 6 Capitol riot and the decision Wednesday is certain to attract political controversy from one side or the other."
-    publishedDateTime: 2021-05-03T21:41:00Z
-    webUrl: "https://www.ibtimes.com/will-donald-trumps-facebook-account-return-3192364"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
-        width: 1024
-        height: 731
-        isCached: true
-  - title: "Trump Moves To Assert Party Control Despite Facebook Ban"
-    excerpt: "Social media has been his weapon of choice for battling Republican dissidents, but Donald Trump is seeking to tighten his iron grip on the party even after a ruling Wednesday extending his ban on Facebook."
-    publishedDateTime: 2021-05-06T00:08:00Z
-    webUrl: "https://www.ibtimes.com/trump-moves-assert-party-control-despite-facebook-ban-3193784"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/former-us-president-donald-trump-who-remains-the.jpg"
-        width: 1024
-        height: 682
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 52
   - title: "Facebook Board Upholds Donald Trump Suspension. Could His YouTube,Twitter Accounts Return?"
     excerpt: "Facebook has six months to decide whether Trump will return or be banned outright. What are his odds on other social media platforms?"
     publishedDateTime: 2021-05-05T16:24:00Z
@@ -240,15 +161,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
-  - title: "Explainer-Ahead of Trump Facebook Ruling, Here’s How Social Media Sites Handle World Leaders"
-    excerpt: "Facebook's independent oversight board on Wednesday will announce whether it is overturning the company's suspension of former U.S. President Donald Trump's account. The long-awaited ruling will bring the focus back onto how the world's largest social network decides what world leaders and politicians can and can't say on their platforms."
-    publishedDateTime: 2021-05-04T11:20:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-04/explainer-ahead-of-trump-facebook-ruling-heres-how-social-media-sites-handle-world-leaders"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 24
 
 secured: "FMB7tJ4YHddS4AVyrAPtcc5Wh3Nk1tQhSz/PYp4daWBeq7+Tos+VFfg6p0AqVB1YbQ+5HFFW0MO4qiCd8nrRg/9C1SGVwhYbqAft5UysbJPIOIgpsPv5ogzr+8Mq57Pr3Qx5Q8P0DpTJS2FAlaVkkHR/U3i9oow36NMoZKyZjLoOCz/o6lnXvHhb9A45nXyaalTYjpS/p1/7q7fkyQ+V6QC+dZAXfKQrUgeioynmfqtX3Y4ojo02gnotzDlh4vZkMHbdPgw7ssalAhhL+8acI1PqgvNfVb6OdUpw28WIInLIR0gD5KF+JyIh6U9NCyG9SLWa2gocZ7iNb/A0FidBIux7wSXP4M8cH8clzR4+ZIzrIeZU7dc25oNidBIj9RvsR/grUpoRK/ZJOVjVx7QSm4PVGLqCRF/3a+SzO8pFuCq5nNkiU7zuw0AQ31q+vjKlBILCyrzMQDN/9QecAKnVJrr3tOTJKFBWqWufxd0kk2V/WKOspQ7LgUZXxIqBib3dZ07bZqIquWwtXNT09J+ucg==;sHHP+lcnhmQw5vzFIVI+jQ=="
 ---

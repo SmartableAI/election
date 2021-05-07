@@ -379,6 +379,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Personal ties: Harris' family in India where COVID rages"
+    excerpt: "Harris' uncle says he spoke with the vice president and her husband, Doug Emhoff, for quite a while. To close out the conversation, Harris assured him she’d take care of his daughter — her cousin — who lives in Washington."
+    publishedDateTime: 2021-05-07T13:57:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Personal-ties-Harris-family-in-India-grapples-16157868.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Personal-ties-Harris-family-in-India-grapples-16157868.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Personal-ties-Harris-family-in-India-grapples-16157868.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Personal Ties: Kamala Harris' Family in India Grapples With COVID"
     excerpt: "The coronavirus crisis in India has created diplomatic and humanitarian challenges for the Biden administration"
     publishedDateTime: 2021-05-06T22:48:00Z
@@ -777,6 +793,6 @@ related:
       domain: bostonglobe.com
     quality: 22
 
-secured: "GU/Rkkn9zNK8qAyTcai3RUQCh0wcZxVw3VrCxcE4flockeNcnEQDVz1FSqLGA66yx9j1OaKUONANecULxNMCcQ89zIF6CkCNRfuXuOm7cC9CM94eVjXdVzAAGrpquxO61Mtd/Bl4pQjgj5v7geF0Sqv4mMKwks/YY0OrRIi57LcQMp2iDDfulvEbeELObYo/O+gvPfTE9pDk9zFt2R28x5F4vxzTljxzaxbEOapyEVfUCipQv1uSmDH+uJtchuWPGVMZceILf4mByW0sawJABcX9AzXGshu25wtHSGEoBciQSBNPmpRNITiJ+c/NwQbIBftdAWMWEjU6mIgkIa9XP00Dyp4AgkCdXt77naNAl8k=;Fkt8r3CAv2zR9nwNyafdnw=="
+secured: "xbkMyyuNtnmkWyM8mLzbE3sSojBBMjRpL+K/DHpaQXHFFqvpFTW+jMY6DgnGgoVZLdlieA6RMljF8RDMeNB5rOp/sJTYF90lYkJUiDfiy51E8SVc22wMY9TlMgaGyVI9p6Zk1WL1sSnAYO6SY2ZXCIjubGopuic6M/TUCZUpnzo+6DKgsfo6s8c2lAyGmG6hOozhshkdViPzAofSq9VK2XBHgbqAIKGdZQfx4Przy8a54LYHnWdrURyBR5oTUoAcGim+GEvlFa2hRmYzM1iDOvhxvV7clcASM6Mwr8o3MzWq2QOeHuXD3IaMcleUhO5ibRjAU/+yP8RR+2s37z65WqKEK0BGnFOWg+D+luR7++4NLS74Q8/pHQwuiq+x1ohrVkpKYSBtAiclu8J4I5APzb8wX8ih1fsHm5KRi/jywRc0iyn8LIKaJUojdwMzh20wuMMVI/4q6qDtmsYWGGyUMHUBG41vlZH38m1XGNwflJu46zIpVx0vACsXgP+AgemV71dyGqdd1nl2h+JZ+7Kn9A==;SmZexKYbByvhSxje8XcH4g=="
 ---
 

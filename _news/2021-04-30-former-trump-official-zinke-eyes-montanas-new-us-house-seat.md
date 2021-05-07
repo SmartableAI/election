@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/former-trump-official-zinke-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/former-trump-official-zinke-eyes-montanas-new-us-house-seat/2021/04/29/1b910cc8-a924-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
         width: 1440
         height: 954
         isCached: true
-  - title: "Trump-Backed Candidate Heads to Runoff in Texas Special Congressional Election"
-    excerpt: "A Texas Republican backed by former President Donald Trump has advanced to a runoff election to fill a U.S. House of Representatives vacancy left by the death of her husband, while Democrats appeared in danger of being shut out of the contest."
-    publishedDateTime: 2021-05-02T13:38:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-02/trump-backed-candidate-heads-to-runoff-in-texas-special-congressional-election"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 46
 
 secured: "X+VDtgbTa4K15fhut2nYYxdryuXwIvwAptKElbmBO9vVXW35c5d4dRFyxzN7/Yknhl+FmF/24AFK5YHWY7hQhnRguUzbzXOR4wpMpIy0aPcLMFe4flobAXe4uPkgaNZEvvEiCmKuF7mfzTHgpcWluaeAvHbERRX/CHiGLVKiCGqg86dZJQ/kF/Kys3dmQvKjTq90W2o91FSQSXPqNCeOQDXnrAY5gxjxWnP1ruaF8dfxKuDwcF9nWQ96dUvmadOD5Ij6M6gdvhm4m3Ww6kHga4zTzMHOp4Z6OjDoEYB9r/99wIF/CN0B6gXeGPRfbBCZHTCM7ZTrR4ID1xBJYps+JqA/I3QQ7bw//T6Sx5vF6T7WHrLPIGtPom9uw3IBWvErToEATJlyDSeDVfU6umYl0u6+kPKOPT3wBeSldw3GuCzZ5Vw8QlXyhceTbSGw264/Bzv7n8xFlYsHFT+///f59uIafWyeaJg1zH6NcFx5TvbD0pBj3WaMPXjR2ZS3OkR6bQrZmGz+djnMcXQazyIt9Q==;bhMWKTeoyA3x3Y3qofs71w=="
 ---

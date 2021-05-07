@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "DOJ repeals Trump ban on grants to 'sanctuary cities'"
+    excerpt: "The Justice Department has repealed a policy put in place during the Trump administration that restricted so-called sanctuary cities from receiving federal grants for criminal justice efforts.\n    \n"
+    publishedDateTime: 2021-04-28T15:51:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OFOs5--oius/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/sanctuary-cities-justice-department-trump-policy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/sanctuary-cities-justice-department-trump-policy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421190715-department-of-justice-ransomware-file-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: How the economy is turning into a strength for Biden"
     excerpt: "President Joe Biden hopes his Democratic Party can defy history next year. It's usually a foregone conclusion that the President's party loses House seats in midterm elections. The Democrats, of course, have a thin House majority and no room for error.\n    \n"
     publishedDateTime: 2021-05-01T16:02:13Z
@@ -62,22 +78,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429152424-01-biden-100-days-cnnphotos-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "The pro-Trump Republican gunning for Cheney's leadership job"
-    excerpt: "Jim Banks speaks to the media with members of the Republican Study Committee about Iran on April 21 in Washington. | Photo by Joshua Roberts/ Jim Banks is the head of the House GOP’s biggest caucus. He’s also earning another unofficial title: shadow chair of the House GOP Conference."
-    publishedDateTime: 2021-05-04T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/05/04/jim-banks-liz-cheney-gop-485269"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/05/04/jim-banks-liz-cheney-gop-485269"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/04/jim-banks-liz-cheney-gop-485269"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/99/39/3b9a4f474c63ba2e1ce5d4d1f68d/5-3-21-jimbanks-getty-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "‘There Is a Tension There’: Publishers Draw Fire for Signing Trump Officials"
     excerpt: "Kellyanne Conway, Mike Pence and William Barr have book deals. That is raising new challenges for publishers trying to balance ideological lines with a desire to continue representing the political spectrum."

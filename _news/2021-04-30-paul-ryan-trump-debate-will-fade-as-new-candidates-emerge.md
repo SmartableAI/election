@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/paul-ryan-trump-debate
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/paul-ryan-trump-debate-fade-candidates-emerge-77422027"
 type: article
 quality: 125
-heat: 225
+heat: 205
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Paul Ryan thinks the GOP’s Trump debate will fade as new candidates emerge"
-    excerpt: "Former U.S. House Speaker Paul Ryan thinks his divided party — and history — will move on. The either-or debate over fealty to Trump “is going to fade,” the 2012 Republican vice presidential candidate said in an interview with the Associated Press."
-    publishedDateTime: 2021-05-01T10:02:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-05-01/paul-ryan-trump-debate-will-fade-as-new-candidates-emerge"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-05-01/paul-ryan-trump-debate-will-fade-as-new-candidates-emerge?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-05-01/paul-ryan-trump-debate-will-fade-as-new-candidates-emerge?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 123
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/037ffdc/2147483647/strip/true/crop/5740x3803+0+12/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa4%2F3a%2F955eaef93aefa31d0f274893ed0f%2Fda771a8154d84379915676ed1a9afa30"
-        width: 320
-        height: 212
-        isCached: true
   - title: "Still Donald Trump's GOP? House Runoff Will Put His Leadership to the Test"
     excerpt: "A special election in Texas' 6th Congressional District on Saturday saw a crowded field, including 11 Republicans, in the running to succeed Republican Rep. Ron Wright."
     publishedDateTime: 2021-05-02T13:39:00Z

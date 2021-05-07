@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/05/facebook-donald
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live"
 type: article
 quality: 125
-heat: 425
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -31,69 +31,301 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook’s Oversight Board upholds ban on Trump. At least for now."
-    excerpt: "The panel faulted the social network for making a hasty decision without clear criteria and told Facebook to reevaluate the decision within six months."
-    publishedDateTime: 2021-05-05T20:20:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/?outputType=amp"
+  - title: "Republicans look to oust Liz Cheney as Trump allies push election lie – live"
+    excerpt: "Congresswoman all but certain to lose conference chair role because of criticism of Donald Trump – follow all the day’s politics news"
+    publishedDateTime: 2021-05-07T12:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/13bce181f26a92e2b9fa3dc8dd26a9780f2ce6aa/0_81_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0c4665f52765643b5228bf31bb73b8d3"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Pence gives first public speech since end of Trump administration"
+    excerpt: "Former vice president Mike Pence on April 29 made his first public remarks since leaving office, telling an audience in Columbia, S.C., that he plans on “pushing back on the liberal agenda” that the Biden administration is pursuing in the coming months."
+    publishedDateTime: 2021-05-01T13:09:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/pence-gives-first-public-speech-since-end-of-trump-administration/2021/05/01/3b006924-331c-471a-8796-f0d0e8035d97_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 130
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-01-2021/t_0dfeb11a239348c9bb25cad18a99259e_name_e2b1b07a_a94a_11eb_a8a7_5f45ddcdf364.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
+  - title: "Whose 'Big Lie'? Trump's proclamation a new GOP litmus test"
+    excerpt: "Donald Trump and his supporters are intensifying efforts to shame members of the party who are seen as disloyal to the former president and his false claims that last year’s election was stolen"
+    publishedDateTime: 2021-05-04T04:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/big-lie-trumps-proclamation-gop-litmus-test-77477647"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d94cd197df9a4c78b707faae0d52b181_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "10 Things in Politics: Cheney goes down swinging in Trump fight"
+    excerpt: "And meet the Prince devotee teaching yoga and meditation to burned-out DC Democratic insiders."
+    publishedDateTime: 2021-05-06T09:17:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-liz-cheney-trump-gop"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-liz-cheney-trump-gop?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-liz-cheney-trump-gop?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/6093b55634af8d001859bbd0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Challenger hits Liz Cheney, says GOP must work with Trump"
+    excerpt: "No. 3 House Republican Liz Cheney is clinging to her post as party leaders are lining up behind an heir apparent for her job"
+    publishedDateTime: 2021-05-06T14:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CXWOKATSREI6XBSRNUYJD2WGH4.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BMJHGUFNVQI6XAWBRFVMVFK3XE.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "The Daily 202: Facebook board’s Trump decision isn’t just about Trump"
-    excerpt: "Welcome to The Daily 202 newsletter! If you’re still wondering, in 2021, how powerful Facebook is, consider that their oversight board’s website is just oversightboard dot com. Tell your friends to sign up here."
-    publishedDateTime: 2021-05-06T15:35:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/05/06/daily-202-facebook-boards-trump-decision-isnt-just-about-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/06/daily-202-facebook-boards-trump-decision-isnt-just-about-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/06/daily-202-facebook-boards-trump-decision-isnt-just-about-trump/?outputType=amp"
+  - title: "Cheney sees 'turning point' for party already turned to Trump: The Note"
+    excerpt: "Republicans are set to punish the third-ranking member of their House leadership team for supposed disloyalty where she chose to tell the truth."
+    publishedDateTime: 2021-05-06T14:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/cheney-sees-turning-point-party-turned-trump-note/story?id=77509792"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/cheney-sees-turning-point-party-turned-trump-note/story?id=77509792"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/cheney-sees-turning-point-party-turned-trump-note/story?id=77509792"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/liz-cheney-ge_hpMain_20210505-215123_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Liz Cheney clings to GOP post as Trump endorses replacement"
+    excerpt: "No. 3 House Republican Liz Cheney is clinging to her post as party leaders are lining up behind an heir apparent for her job"
+    publishedDateTime: 2021-05-06T02:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/cheney-toast-fight-trump-gop-future-77499425"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/cheney-toast-fight-trump-gop-future-77499425"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/cheney-toast-fight-trump-gop-future-77499425"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Sports/WireAP_1c648ee9a8344c72a95c5b5ec703e505_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Samantha Bee on GOP post-Trump: ‘Republicans eating each other alive’"
+    excerpt: "Late-night hosts discuss the GOP’s internecine war over Trump’s election lies, Facebook’s extension of Trump’s ban and the ex-president’s new blog"
+    publishedDateTime: 2021-05-06T15:34:00Z
+    webUrl: "https://www.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
+    ampWebUrl: "https://amp.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/c29a9135d769e4091474929113d593620084b91a/114_114_2542_1525/master/2542.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=847e93a77619edf2539744548c39bdda"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump backs Stefanik to replace Cheney as GOP conference chair"
+    excerpt: "Former President Donald Trump on Wednesday publicly called for the removal of GOP conference chair Liz Cheney, who has repeatedly criticized him for spreading falsehoods about the 2020 election and seeking to downplay the January 6 attack on the U."
+    publishedDateTime: 2021-05-05T21:35:00Z
+    webUrl: "https://www.cbsnews.com/news/elise-stefanik-gop-conference-chair-cheney-scalise/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/elise-stefanik-gop-conference-chair-cheney-scalise/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/elise-stefanik-gop-conference-chair-cheney-scalise/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/05/6919431c-67c8-479c-88ab-c6050aa53655/thumbnail/1200x630g2/26b9f80caac1ce448a08298adb4914db/gettyimages-1231615029.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump, Republicans express outrage over extension of Facebook ban"
+    excerpt: "Former White House chief of staff Mark Meadows lashed out at the social media platform while Rep. Lauren Boebert said Facebook will “pay the price” before deleting the tweet."
+    publishedDateTime: 2021-05-06T02:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-facebook-social-media-republicans/2021/05/05/919cb430-adb1-11eb-acd3-24b44a57093a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-facebook-social-media-republicans/2021/05/05/919cb430-adb1-11eb-acd3-24b44a57093a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-facebook-social-media-republicans/2021/05/05/919cb430-adb1-11eb-acd3-24b44a57093a_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G6PQNKVOAUI6XAWBRFVMVFK3XE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YS77EQVNWUI6XLGTES2EUVYJHI.jpg&w=1440"
         width: 1440
-        height: 947
+        height: 1856
         isCached: true
-  - title: "Facebook and Trump are at a turning point in their long, tortured relationship"
-    excerpt: "Facebook’s decision to outsource the future of Trump’s account to an independent Oversight Board stems from a tortured relationship with the former president. It could also set a precedent on how social media companies handle politicians and on how they will balance free speech and harm."
-    publishedDateTime: 2021-05-04T10:15:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp"
+  - title: "Cheney challenger Stefanik says GOP must work with Trump"
+    excerpt: "New York Republican Rep. Elise Stefanik is stating her case for replacing Rep. Liz Cheney as the No. 3 House Republican leader"
+    publishedDateTime: 2021-05-07T01:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/liz-cheney-clings-to-gop-post-as-trump-endorses-replacement/2021/05/06/269e7090-ae21-11eb-82c1-896aca955bb9_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 121
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SUC6YBUU2II6XKW4V54HAGRQZI.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BMJHGUFNVQI6XAWBRFVMVFK3XE.jpg&w=1440"
         width: 1440
-        height: 901
+        height: 960
         isCached: true
-  - title: "Facebook board to decide today if former President Donald Trump can post again on the social media site"
-    excerpt: "On Wednesday, his fate on Facebook, the biggest social platform around, will be decided. The company’s quasi-independent Oversight Board will announce its ruling around 9 a.m. ET. If it rules in Trump’s favor,"
-    publishedDateTime: 2021-05-05T14:09:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-facebook-trump-decision-20210505-2cvwvvrzd5f5fawgmw652r34gu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-facebook-trump-decision-20210505-2cvwvvrzd5f5fawgmw652r34gu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-facebook-trump-decision-20210505-2cvwvvrzd5f5fawgmw652r34gu-story.html?outputType=amp"
+  - title: "In booting Cheney, 'My Kevin' leads GOP back to Trump"
+    excerpt: "Liz Cheney from the No. 3 House leadership position and transform The GOP leader argues that ousting Cheney has less to do with her very public criticism of the former president's lies about his 2020 election loss to President Joe Biden than her inability to set aside personal convictions and do her job."
+    publishedDateTime: 2021-05-07T03:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5N4JR5VO5AI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "The crucial thing Liz Cheney’s GOP critics don’t say: She’s wrong about Trump"
+    excerpt: "Liz Cheney (Wyo.) may not be long for House GOP leadership. After a failed attempt to oust the No. 3 GOP official following her vote to impeach President Donald Trump, the movement has again built steam following Cheney’s increasing efforts to distance her party from Trump and his false claims about a stolen 2020 election."
+    publishedDateTime: 2021-05-04T15:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/05/04/crucial-thing-liz-cheneys-gop-critics-dont-say-shes-wrong-about-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/04/crucial-thing-liz-cheneys-gop-critics-dont-say-shes-wrong-about-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/04/crucial-thing-liz-cheneys-gop-critics-dont-say-shes-wrong-about-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-03-2021/t_7ed03d269ec142f3b14b66cb21289875_name_cheney_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "House GOP leader Kevin McCarthy amps up pressure on Liz Cheney over Donald Trump barbs"
+    excerpt: "Kevin McCarthy has planted himself on the side of Liz Cheney's critics, raising the question of her fitness to lead House Republicans."
+    publishedDateTime: 2021-05-04T16:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/04/house-gop-leader-kevin-mccarthy-turns-up-pressure-liz-cheney/4939378001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4939378001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4939378001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/24/USAT/ad6c012f-d872-4235-80c8-9ad0284e6393-VPC_CHENEY_MCCARTHY_ON_TRUMP_CPAC_DESK.00_00_13_17.Still009.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Rep. Elise Stefanik, seeking Liz Cheney’s House leadership post, says Republicans must back Trump"
+    excerpt: "Rep. Elise Stefanik stated her case on on Steve Bannon’s podcast Thursday for replacing Rep. Liz Cheney as the No. 3 House Republican leader."
+    publishedDateTime: 2021-05-06T16:48:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republicans-elise-stefanik-liz-cheney-trump-20210506-nn4htwhewzfvxbiupizyb7qofq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-republicans-elise-stefanik-liz-cheney-trump-20210506-nn4htwhewzfvxbiupizyb7qofq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-republicans-elise-stefanik-liz-cheney-trump-20210506-nn4htwhewzfvxbiupizyb7qofq-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 109
+    quality: 112
     images:
-      - url: "https://www.chicagotribune.com/resizer/EdDUGwtzjwBcFovhqqYK-Scvjqw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZXEMQWNFPFACPHFROHLXQYAWMM.jpg"
+      - url: "https://www.chicagotribune.com/resizer/FjIKfFFlvlxaPvZZdy6C_zXVBFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DNWPM37OTNDZ3DCSVKITMWEUWM"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Facebook to announce decision on Trump ban"
+    excerpt: "Video Module Facebook to announce decision on Trump ban. Posted . Facebook's independent oversight board will announce whether it will uphold or reverse a decision blocking former"
+    publishedDateTime: 2021-05-04T01:26:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEBEXJVJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210503&i=OVEBEXJVJ&r=OVEBEXJVJ&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Liz Cheney slams Trump's 'big lie' claim"
+    excerpt: "Rep. Liz Cheney (R-Wyo.) pushed back May 3 against former president Donald Trump’s attempt to commandeer the term “Big Lie,” saying he is \"poisoning our democratic system\" with his persistent false claims that the 2020 election was \"stolen\" from him."
+    publishedDateTime: 2021-05-03T21:28:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/liz-cheney-slams-trumps-big-lie-claim/2021/05/03/6d9e9392-6f76-4a16-b004-77c7eb6485f1_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-03-2021/t_7ed03d269ec142f3b14b66cb21289875_name_cheney_scaled.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
+  - title: "Cheney's views on Trump puts her GOP post in peril"
+    excerpt: "No. 3 House Republican Liz Cheney was clinging to her post Wednesday as party leaders lined up behind an heir apparent, signaling that fallout over her clashes with former President Donald Trump was becoming too much for her to overcome."
+    publishedDateTime: 2021-05-06T01:45:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/06/cheneys-views-trump-puts-her-gop-post-peril/4966432001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/290fa076-f007-4377-8118-c4e82f5c328c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Republicans are said to be plotting to oust Liz Cheney from House leadership and replace her with a pro-Trump woman"
+    excerpt: "Cheney, the third most senior House Republican, has been a vocal critic of former President Donald Trump."
+    publishedDateTime: 2021-05-04T12:40:00Z
+    webUrl: "https://www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/609124fef22c6b00185db6a2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "The Hill's Morning Report - Presented by Emergent BioSolutions - Facebook upholds Trump ban; GOP leaders back Stefanik to replace Cheney"
     excerpt: "President Trump Donald Trump Caitlyn Jenner on Hannity touts Trump: 'He was a disruptor' Ivanka Trump doubles down on vaccine push with post celebrating second shot Conservative Club for Growth PAC comes out against Stefanik to replace Cheney MORE checks his phone on a golf course\" width=\"580\" height=\"387\" data-delta=\"2\"> Welcome to The Hill’s Morning Report."
@@ -111,12 +343,28 @@ related:
         width: 580
         height: 387
         isCached: true
-  - title: "EXPLAINER: Will Donald Trump return to Facebook?"
-    excerpt: "Former President Donald Trump will find out whether he gets to return to Facebook on Wednesday, when the social network’s quasi-independent Oversight Board plans to announce its ruling in the high-profile case."
-    publishedDateTime: 2021-05-04T18:46:00Z
-    webUrl: "https://www.chron.com/news/article/EXPLAINER-Will-Donald-Trump-return-to-Facebook-16151044.php"
-    ampWebUrl: "https://www.chron.com/news/amp/EXPLAINER-Will-Donald-Trump-return-to-Facebook-16151044.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/EXPLAINER-Will-Donald-Trump-return-to-Facebook-16151044.php"
+  - title: "House Minority Leader Kevin McCarthy cites Republican concerns about Liz Cheney’s ‘ability to carry out her job’ after she calls out Trump"
+    excerpt: "Rather than standing by Rep. Liz Cheney, House Minority Leader Kevin McCarthy essentially landed himself in the camp of her Republican critics."
+    publishedDateTime: 2021-05-04T14:54:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-congress-liz-cheney-kevin-mccarthy-20210504-wv3apyy6yfcqrfmeokvoefv34q-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-congress-liz-cheney-kevin-mccarthy-20210504-wv3apyy6yfcqrfmeokvoefv34q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-congress-liz-cheney-kevin-mccarthy-20210504-wv3apyy6yfcqrfmeokvoefv34q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 91
+    images:
+      - url: "https://www.chicagotribune.com/resizer/jh8iB5dqesYFt-aPQCl7dzY03s8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/56EBA5GLOJHSFGEYLUWX63OLLI"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump's 'big lie' becomes new litmus test for success in GOP"
+    excerpt: "It’s scary,” said Michael Wood, the Texas Republican congressional candidate who based his campaign on a vow to push the GOP past the “cult of personality” that is Trump. In the end, he garnered just 3% of the vote in Saturday’s special election,"
+    publishedDateTime: 2021-05-04T02:32:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
     type: article
     provider:
       name: Houston Chronicle
@@ -127,128 +375,79 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Facebook board upholds Trump ban, just not indefinitely"
-    excerpt: "Former President Donald Trump won’t return to Facebook — at least not yet. The social network’s quasi-independent Oversight Board voted to uphold his ban from the platform after his account was suspended four months ago."
-    publishedDateTime: 2021-05-07T03:56:00Z
-    webUrl: "https://www.chron.com/news/article/Facebook-board-s-Trump-decision-could-have-wider-16152347.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Facebook-board-s-Trump-decision-could-have-wider-16152347.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Facebook-board-s-Trump-decision-could-have-wider-16152347.php"
+  - title: "Liz Cheney, Donald Trump feud gets mixed reviews in Wyoming"
+    excerpt: "Liz Cheney, the defiant third-term congresswoman faces mixed reviews at home. So far, Wyoming’s governor and congressional delegation have avoided sticking out their necks for Cheney, who faces ouster from House GOP leadership over her frequent criticism of former President Donald Trump."
+    publishedDateTime: 2021-05-06T23:36:00Z
+    webUrl: "https://www.chron.com/news/article/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
     type: article
     provider:
       name: Houston Chronicle
       domain: chron.com
     quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/17/70/54/20941630/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Donald Trump's Facebook ban is permanent, social network's Oversight Board rules"
-    excerpt: "Former President Donald Trump won’t return to Facebook. The social network’s quasi-independent Oversight Board has voted to permanently ban his account after it was suspended four months ago for inciting violence that led to the deadly Jan."
-    publishedDateTime: 2021-05-05T13:05:00Z
-    webUrl: "https://www.nola.com/news/politics/national_politics/article_af3cfcd0-ada1-11eb-abd2-c3ef83b7cf9b.html"
-    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_af3cfcd0-ada1-11eb-abd2-c3ef83b7cf9b.amp.html"
-    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_af3cfcd0-ada1-11eb-abd2-c3ef83b7cf9b.amp.html"
+  - title: "Utah Republicans’ bid to censure Sen. Mitt Romney for Trump impeachment votes fails"
+    excerpt: "Mitt Romney but ultimately rejected a motion to censure him Saturday for his votes at President Donald Trump’s impeachment trials. The measure narrowly failed, 798 to 711, in a vote by delegates to the state GOP convention,"
+    publishedDateTime: 2021-05-02T03:30:00Z
+    webUrl: "https://www.al.com/news/2021/05/utah-republicans-bid-to-censure-sen-mitt-romney-for-trump-impeachment-votes-fails.html"
+    ampWebUrl: "https://www.al.com/news/2021/05/utah-republicans-bid-to-censure-sen-mitt-romney-for-trump-impeachment-votes-fails.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/05/utah-republicans-bid-to-censure-sen-mitt-romney-for-trump-impeachment-votes-fails.html?outputType=amp"
     type: article
     provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 70
+      name: al.com
+      domain: al.com
+    quality: 69
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/8/b3/8b3ccfa8-ada2-11eb-897f-d3cffbf2ca1e/6092981d6297f.image.jpg?resize=1024%2C683"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NT6QIB5EHZCYRI5ERTUUTQIN7E.jpg"
         width: 1024
         height: 683
         isCached: true
-  - title: "Defining Moment For Facebook Oversight Panel With Trump Ban Ruling"
-    excerpt: "Facebook's independent oversight board was set for a momentous decision on the platform's ban of former US president Donald Trump, as debate swirls on the role of social media in curbing hateful and abusive speech while controlling political discourse."
-    publishedDateTime: 2021-05-04T16:18:00Z
-    webUrl: "https://www.ibtimes.com/defining-moment-facebook-oversight-panel-trump-ban-ruling-3192936"
+  - title: "Special election to replace U.S. Rep. Ron Wright remains highly competitive in final hours, as Donald Trump looms large"
+    excerpt: "Nearly two-dozen candidates are vying to fill the late congressman's seat, and the former president is backing Wright's widow, Susan Wright."
+    publishedDateTime: 2021-04-30T15:28:00Z
+    webUrl: "https://www.texastribune.org/2021/04/30/tx-6-special-election/"
+    ampWebUrl: "https://www.texastribune.org/2021/04/30/tx-6-special-election/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/04/30/tx-6-special-election/amp/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 66
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/donald-trump-is-seen-addressing-supporters-flooding-the.jpg"
-        width: 1024
-        height: 682
+      - url: "https://thumbnails.texastribune.org/-LPrcCg8VR2SW6dlG2TbqqsFAd4=/1200x630/filters:quality(95)/static.texastribune.org/media/files/5a9a462d5d7fdb74fce431e415ab49f5/US%20Capitol%20DC%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Will Donald Trump's Facebook Account Return?"
-    excerpt: "Donald Trump may be back online as Facebook’s oversight board prepares to announce its decision on his expulsion from the platform. The former president was given the boot a day after the Jan. 6 Capitol riot and the decision Wednesday is certain to attract political controversy from one side or the other."
-    publishedDateTime: 2021-05-03T21:41:00Z
-    webUrl: "https://www.ibtimes.com/will-donald-trumps-facebook-account-return-3192364"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
-        width: 1024
-        height: 731
-        isCached: true
-  - title: "Trump Moves To Assert Party Control Despite Facebook Ban"
-    excerpt: "Social media has been his weapon of choice for battling Republican dissidents, but Donald Trump is seeking to tighten his iron grip on the party even after a ruling Wednesday extending his ban on Facebook."
-    publishedDateTime: 2021-05-06T00:08:00Z
-    webUrl: "https://www.ibtimes.com/trump-moves-assert-party-control-despite-facebook-ban-3193784"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/former-us-president-donald-trump-who-remains-the.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Facebook Board Upholds Donald Trump Suspension. Could His YouTube,Twitter Accounts Return?"
-    excerpt: "Facebook has six months to decide whether Trump will return or be banned outright. What are his odds on other social media platforms?"
-    publishedDateTime: 2021-05-05T16:24:00Z
-    webUrl: "https://www.ibtimes.com/facebook-board-upholds-donald-trump-suspension-could-his-youtubetwitter-accounts-3193568"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 45
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/donald-trump-was-suspended-from-facebook-and-instagram.jpg"
-        width: 1024
-        height: 652
-        isCached: true
-  - title: "Donald Trump’s Facebook suspension upheld by Oversight Board; group calls on social media giant to conduct six-month review of case, policies"
-    excerpt: "Former president Donald Trump will remain suspended from posting on Facebook, the world’s most popular social media platform, according to an independent Oversight Board. But the board, a diverse group of international experts in law,"
-    publishedDateTime: 2021-05-05T13:14:00Z
-    webUrl: "https://www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 40
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/U3T3Z7ONNZDCBMPY2WPOZSOEPE.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "U.S. House Majority Leader Hoyer Applauds Facebook Decision on Trump"
-    excerpt: "House Majority Leader Steny Hoyer applauded Facebook Inc's decision to maintain its suspension of Donald Trump after the Jan. 6 Capitol riots, saying it has the right to refuse to be a medium for the former Republican president."
-    publishedDateTime: 2021-05-05T13:28:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-05/us-house-majority-leader-hoyer-applauds-facebook-decision-on-trump"
+  - title: "Cheney Could Be 'Toast' in Fight With Trump Over GOP Future"
+    excerpt: "House Republican leader Kevin McCarthy wants his party to stand firmly with Donald Trump, despite the former president’s false claims about the election being stolen from him."
+    publishedDateTime: 2021-05-05T05:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-05/cheney-could-be-toast-in-fight-with-trump-over-gop-future"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-05-05/cheney-could-be-toast-in-fight-with-trump-over-gop-future?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-05-05/cheney-could-be-toast-in-fight-with-trump-over-gop-future?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 35
-  - title: "Explainer-Ahead of Trump Facebook Ruling, Here’s How Social Media Sites Handle World Leaders"
-    excerpt: "Facebook's independent oversight board on Wednesday will announce whether it is overturning the company's suspension of former U.S. President Donald Trump's account. The long-awaited ruling will bring the focus back onto how the world's largest social network decides what world leaders and politicians can and can't say on their platforms."
-    publishedDateTime: 2021-05-04T11:20:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-04/explainer-ahead-of-trump-facebook-ruling-heres-how-social-media-sites-handle-world-leaders"
+    quality: 55
+  - title: "Liz Cheney Under Attack From GOP For Standing Up To Donald Trump"
+    excerpt: "Wyo., may find herself ousted from her position as the third-highest Republican as her strong stance against Donald Trump nets her few allies and increasing hostility from her caucus. Removing her from her post would require a conference vote,"
+    publishedDateTime: 2021-05-04T21:37:00Z
+    webUrl: "https://www.ibtimes.com/liz-cheney-under-attack-gop-standing-donald-trump-3193020"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 24
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/liz-cheney.jpg"
+        width: 1200
+        height: 843
+        isCached: true
 
 secured: "13gbnHRteIdD9zM4TAUo+kAvcA4HHyCkoXEasvIMGr9RK9ZMAgLAtiLCZfimy8K591ih2ue08ufJEeRHEY0U2COJttbuFqwgiYIXSKr0bBHrwIj432s2BsDEbZA9hdWYQzxFiW+3n8MJIflOYw58ubE/fygBP9fDbSsBiHnzQ7+h1q1G8/Cla2C/iVHbERveRDbWVWaiPPKuGYYUr/WRpFz7zalGhrlRmSw5RCAV81lQKosKmy7emo3TTf9JsMupPMNoG3Px9HnXuKeKxuiigvAi7prWkh/rK63x8v1tEL/hKjPzAfqoUP6VpyzcvowVjU49XTubrR0ko0FpvVoomg1mP4cCo2xz78dyAOxAWQY0540Zaq0H6snJyzDgwnYR2GOaFxmng5FoWl5+MBpm9omTfA/fwKMtkPUeS5ZiMm6qgJB9P1D0zkh8fEUE3FzGnA6zpozkSNuGFNAPvgTH7y3hz0YbZk+XLhRnUlMF059XReSdlbow7oOw/kHc3zGQXh/hANgwGdfP8EBdSc42kg==;mCO2ytoACK+Tjfo54M0LPQ=="
 ---

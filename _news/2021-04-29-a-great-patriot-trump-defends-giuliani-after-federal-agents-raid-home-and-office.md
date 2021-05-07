@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/29/trump-defends-giulia
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office"
 type: article
 quality: 119
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Search warrant for Rudy Giuliani’s records resolved a Justice Department dispute leftover from the Trump administration"
+    excerpt: "The question of whether to serve a search warrant for Rudy Giuliani's records simmered inside the Justice Department in the waning months of the Trump administration, dividing officials in New York and Washington and remaining unresolved for a new leadership team to sort out."
+    publishedDateTime: 2021-05-01T17:59:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
+    images:
+      - url: "https://www.chicagotribune.com/resizer/c-Ale6YBxYo5LkKH0F3piP2Xdj4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4ULNT3YHFH66AEJUZPITPRDTPQ.aspx"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "L61jX7ScLfLZdbAMee+UM6+oboDL5TldP/StbsuHL0jHWFzxxYF6jrUexr2TENxMviph5LBOu+wV1VK34ismtxs0Fw2qGqLTJ3lw5aPROiBiKUnGJoJ7rwELn2t04zLBhqAOQ0CBFOTk81cFUvCi/57Gi2hsGaLQyDvX3aT2ixcHKBxPpuhfRmD1CHIrATQpjgKI7cLxcDjrNd8lcLmXN3fmFAppBN9m0Qo0KlTUWw6KJ1OKMmwmYxj+BjMRWS+gWdx3F3HpCXnpa9JMBLDPi35ou10sE/ghzPtLk86Ym2duokbWMErb5s7xHwtgYpUI8xwbvyptNNAbXbKVhN46pNx/TzSRfAOszZQN8qv2wwy0L62OzBBJ/SML5nDYGH7mexpFVOFFv5SnLYVCI7QpcL834hJeyPQ+633jfzWOiU4m5KOwswtMLx0jCtZC5svwCaobHNPOvSsOFgKnNzO5YSRo5KrmpyZGEu472vf+TRE+75dJ1CCxlQCkn/Tu/M82XMmIebzZk9AaqEAAWskbmQ==;tFFhLdqp7/Y/tAK7ipPzZw=="
 ---

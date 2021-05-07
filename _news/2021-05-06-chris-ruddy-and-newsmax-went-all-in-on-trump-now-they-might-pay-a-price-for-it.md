@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
 type: article
 quality: 120
-heat: 140
+heat: 120
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1440
     height: 1008
     isCached: true
-
-related:
-  - title: "After Trump-era cutbacks and a pandemic, immigrant advocacy groups prepare to meet a rising need"
-    excerpt: "Even before the pandemic hit immigrant relief organizations — forcing them to cut hours, freeze volunteer programs, move online and scrap for funding as donations dried up — groups that serve newly arrived immigrants were struggling to keep some programs afloat."
-    publishedDateTime: 2021-05-03T09:04:00Z
-    webUrl: "https://www.washingtonpost.com/local/immigration-services-need/2021/05/02/4f139f8c-a395-11eb-a774-7b47ceb36ee8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/immigration-services-need/2021/05/02/4f139f8c-a395-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/immigration-services-need/2021/05/02/4f139f8c-a395-11eb-a774-7b47ceb36ee8_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XLMI2GETXYI6XKW4V54HAGRQZI.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "giQZgViAfyq6E7Zq6Avg7X37zcDMtaMnFrdCtlhmBpX80dVMvVumEIFD+5XITEDjRv1iVEAqyrATJ/k1XfIY/jpXBGB1w7eHDU6rYyvC3zuVcJ+xkbn6fMChBjmY0RnBoQ/nLfaqLiAihY4LlUppEHtpJ8VsCZh9sX8nnKddfAHeKOl3/WvcKkzrdeZbzSVduBZCIJaJKtxqT3FEKRemnDOKZPFeBaH8Q/+3j7lmltqlSQB2HfS8LwOO/ieQNcIjE3xS38pQyy7H35XlmYFGx05jWotPaQ7izArmX4InABDCiE4/57LGl9I6erfCbKHskyOnNmOxhx7H8Z6QnKwp/R5u81OReaNl6+iVY1/NWka9bq/TpZH+xXyDgM9epPqHx8Axu95BrrWjtdBkrHXOed9I8zyT7GMl9bDWxARycU68FFpe/lUC+/64/M+l+ei0aa3q7kTqzzr3S4w/4IF8DMvD51s+65jB26Osa2IXdw2KGkZaNTEYDKzIrwPMl3wfir2YiFazVYbn4o8wS/Ncow==;m5wzvQR5F5CG8x5vJLhcBA=="
 ---

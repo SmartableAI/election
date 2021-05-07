@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Nava
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
 type: article
 quality: 125
-heat: 1105
+heat: 1125
 published: true
 
 provider:
@@ -373,6 +373,22 @@ related:
     provider:
       name: Times Union
       domain: timesunion.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Personal ties: Harris' family in India where COVID rages"
+    excerpt: "Harris' uncle says he spoke with the vice president and her husband, Doug Emhoff, for quite a while. To close out the conversation, Harris assured him she’d take care of his daughter — her cousin — who lives in Washington."
+    publishedDateTime: 2021-05-07T13:57:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Personal-ties-Harris-family-in-India-grapples-16157868.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Personal-ties-Harris-family-in-India-grapples-16157868.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Personal-ties-Harris-family-in-India-grapples-16157868.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

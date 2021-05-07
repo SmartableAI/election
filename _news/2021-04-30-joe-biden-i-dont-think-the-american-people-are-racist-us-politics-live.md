@@ -127,22 +127,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "10 Things in Politics: Cheney goes down swinging in Trump fight"
-    excerpt: "And meet the Prince devotee teaching yoga and meditation to burned-out DC Democratic insiders."
-    publishedDateTime: 2021-05-06T09:17:00Z
-    webUrl: "https://www.businessinsider.com/10-things-in-politics-liz-cheney-trump-gop"
-    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-liz-cheney-trump-gop?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-liz-cheney-trump-gop?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/6093b55634af8d001859bbd0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Jill Biden to meet military spouses during stop in Colorado"
     excerpt: "First lady Jill Biden plans to visit military spouses at a Colorado military base in her last stop during a swing through the U.S. West"
     publishedDateTime: 2021-05-06T04:05:00Z
@@ -204,6 +188,20 @@ related:
     quality: 122
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/22/363cae7d-cfc6-49bc-97d0-790fdb8711af/thumbnail/1200x630g2/b8e871c9faf3025e98261d67ca7e7b22/gettyimages-1231516589.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Pence gives first public remarks since leaving office as Biden marks 100 days in office"
+    excerpt: "Former Vice President Mike Pence on Thursday spoke in South Carolina, his first public remarks since leaving office. Speaking as President Biden marks his first 100 days in office, Pence slammed Mr. Biden's policies."
+    publishedDateTime: 2021-04-30T01:26:00Z
+    webUrl: "https://www.cbsnews.com/video/mike-pence-first-public-remarks-2021-04-28/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/9451bbda-308d-421f-86ca-ae896a838578/thumbnail/1200x630/6e4116a81676ae1ed279c898558c4423/cbsn-fusion-mike-pence-first-public-remarks-2021-04-28-thumbnail-704738-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

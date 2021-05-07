@@ -319,6 +319,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Fight to stop Texas election bill, Trump's Medicaid legacy and Iran nuclear deal hope: Friday's top stories"
+    excerpt: "A late-night bid to stop an election bill, President Joe Biden's attempts to unpick his predecessor's Medicaid changes and the latest on the Iran nuclear deal."
+    publishedDateTime: 2021-05-07T11:51:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/fight-stop-texas-election-bill-trump-s-medicaid-legacy-iran-n1266652"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266652"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266652"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_18/3470983/210507-texas-voting-mc-813_c5ca9208f08e1a1e5ba05e9452247414.JPG"
+        width: 2500
+        height: 1559
+        isCached: true
   - title: "Trump, other top Republicans back Stefanik to replace Cheney as GOP conference chair"
     excerpt: "House Minority Whip Steve Scalise is calling for Rep. Elise Stefanik of New York to take over the leadership role."
     publishedDateTime: 2021-05-06T00:35:00Z
@@ -362,20 +378,6 @@ related:
       - url: "https://static.politico.com/a4/08/1329ed1641b6a7162ea146df6ea7/ap20324801945195-1.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "GOP leaders diverge on Trump approach"
-    excerpt: "While McCarthy stayed in close contact with Trump on House GOP Conference Chair Liz Cheney’s (R-Wyo.) potential ouster, McConnell declined to acknowledge Trump at all. When asked about Trump’s attacks on him,"
-    publishedDateTime: 2021-05-07T11:01:00Z
-    webUrl: "https://www.politico.com/newsletters/huddle/2021/05/07/gop-leaders-diverge-on-trump-approach-492767"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "LLQTYZR9ThoGZmVcHZu/N0127+4GIStsm7Brj9JQ+IH0ZmJx7kAj5jJVQ95rtzi3g4G3AvQ4hbiI8oPgTzmp7vkKkBIug0KAdKk21cI9skZXpjuMlCyDnlpRycEokmvGxTIQxM2uJpiUMMjLLPDNb6yjzMcw+do47HQ0SDxbc1I7rx4z0gQbBJeAjOiqnhjpSkWzNJhFT90tUkKZhYxalsDEaYe63wU5yMynyEu/Jl89Uz0FLAs2Md4Ix+dUFlUQ37GN0vN+C1zbV14KtWVkNoFovgGhFNQSfkolDybN9RvCLaNq7G9KH9ae5xae6IqWXM2XQIeCIF8/ayvgne3apbbHd74mgFVyntZv8/74eq8=;xogfzCEqkH0u4NkRFU+ZgQ=="

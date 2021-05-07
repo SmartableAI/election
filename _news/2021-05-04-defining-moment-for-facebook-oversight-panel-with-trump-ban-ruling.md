@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook oversight board to give verdict on Donald Trump ban – live"
-    excerpt: "What exactly is Facebook’s Oversight Board? If you need some catching up on exactly what Facebook’s Oversight Board is, here are some basic facts: Facebook announced the creat"
-    publishedDateTime: 2021-05-05T10:53:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live?page=with:block-6091a7488f08ae30bfe0426d"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/05/facebook-donald-trump-ban-us-politics-biden-live"
+  - title: "The Memo: Trump's critics face wrath of GOP base"
+    excerpt: "Cheney voted for Trump’s impeachment and has become perhaps his most persistent foe among GOP officeholders. But the bigger picture is one in which Cheney is in danger of losing her House leadership position and another Trump critic,"
+    publishedDateTime: 2021-05-03T21:47:00Z
+    webUrl: "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base"
+    ampWebUrl: "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/9ec4843e2e4cfdd90b7b916a71df314a47003225/0_59_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4481d464346f41d93bb22d4493664ab4"
-        width: 600
-        height: 360
+      - url: "https://thehill.com/sites/default/files/trumpdonald_cheneyliz_012121getty-bc_split.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Facebook’s Oversight Board upholds ban on Trump. At least for now."
     excerpt: "The panel faulted the social network for making a hasty decision without clear criteria and told Facebook to reevaluate the decision within six months."
@@ -77,69 +77,81 @@ related:
         width: 1440
         height: 947
         isCached: true
-  - title: "Facebook and Trump are at a turning point in their long, tortured relationship"
-    excerpt: "Facebook’s decision to outsource the future of Trump’s account to an independent Oversight Board stems from a tortured relationship with the former president. It could also set a precedent on how social media companies handle politicians and on how they will balance free speech and harm."
-    publishedDateTime: 2021-05-04T10:15:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp"
+  - title: "Rep. Elise Stefanik on path to GOP leadership after aligning with Trump"
+    excerpt: "Now, she’s on the verge of joining Republican leadership, as a growing number of lawmakers call for Rep. Liz Cheney to be replaced as the No. 3 House Republican."
+    publishedDateTime: 2021-05-07T09:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/rep-elise-stefanik-path-gop-leadership-aligning-trump/story?id=77505107"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/rep-elise-stefanik-path-gop-leadership-aligning-trump/story?id=77505107"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/rep-elise-stefanik-path-gop-leadership-aligning-trump/story?id=77505107"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/elise-stefanik-gop-leadership-03-ap-llr-210505_1620258693019_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Facebook Oversight Board to Announce Decision on Donald Trump Ban on May 5"
+    excerpt: "Former President Donald Trump could make a return to Facebook and Instagram very soon following an announcement by the body that oversees bans on content for the social media sites. The Oversight Board tweeted on Monday that they will reveal their decision on Trump's suspensions this Wednesday,"
+    publishedDateTime: 2021-05-03T15:22:00Z
+    webUrl: "https://www.newsweek.com/facebook-oversight-board-announce-decision-donald-trump-ban-may-5-1588223"
+    ampWebUrl: "https://www.newsweek.com/facebook-oversight-board-announce-decision-donald-trump-ban-may-5-1588223?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-oversight-board-announce-decision-donald-trump-ban-may-5-1588223?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1786543/former-president-trump-looks-his-phone.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "The slow, painful death of Trump allies’ voting-machine conspiracy theories"
+    excerpt: "Among the many wild conspiracy theories about the 2020 election, few rank as high when it comes to both baselessness and reach as those involving voting machines. The theory that voting machines were programmed to steal the election from President Donald Trump had the benefit,"
+    publishedDateTime: 2021-05-03T16:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 121
+    quality: 123
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SUC6YBUU2II6XKW4V54HAGRQZI.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2MJW36R3GMI6XKWZRFMSE4UAYQ.jpg&w=1440"
         width: 1440
-        height: 901
+        height: 960
         isCached: true
-  - title: "Facebook board to decide today if former President Donald Trump can post again on the social media site"
-    excerpt: "On Wednesday, his fate on Facebook, the biggest social platform around, will be decided. The company’s quasi-independent Oversight Board will announce its ruling around 9 a.m. ET. If it rules in Trump’s favor,"
-    publishedDateTime: 2021-05-05T14:09:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-facebook-trump-decision-20210505-2cvwvvrzd5f5fawgmw652r34gu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-facebook-trump-decision-20210505-2cvwvvrzd5f5fawgmw652r34gu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-facebook-trump-decision-20210505-2cvwvvrzd5f5fawgmw652r34gu-story.html?outputType=amp"
+  - title: "Trump aides are casting doubt on McCarthy's prospects for House speaker if the GOP wins back the majority in 2022"
+    excerpt: "Axing Cheney solves one problem for Kevin McCarthy's House-speaker aspirations but creates another if the Trump-fueled backstabbing doesn't subside."
+    publishedDateTime: 2021-05-07T13:12:00Z
+    webUrl: "https://www.businessinsider.com/trump-mccarthy-cheney-jordan-republican-leadership-speaker-2022-midterms-2021-5"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 109
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
     images:
-      - url: "https://www.chicagotribune.com/resizer/EdDUGwtzjwBcFovhqqYK-Scvjqw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZXEMQWNFPFACPHFROHLXQYAWMM.jpg"
+      - url: "https://i.insider.com/6013f2bc1d2df20018b7182f?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "The Hill's Morning Report - Presented by Emergent BioSolutions - Facebook upholds Trump ban; GOP leaders back Stefanik to replace Cheney"
-    excerpt: "President Trump Donald Trump Caitlyn Jenner on Hannity touts Trump: 'He was a disruptor' Ivanka Trump doubles down on vaccine push with post celebrating second shot Conservative Club for Growth PAC comes out against Stefanik to replace Cheney MORE checks his phone on a golf course\" width=\"580\" height=\"387\" data-delta=\"2\"> Welcome to The Hill’s Morning Report."
-    publishedDateTime: 2021-05-06T10:24:00Z
-    webUrl: "https://thehill.com/homenews/morning-report/552067-the-hills-morning-report"
-    ampWebUrl: "https://thehill.com/homenews/morning-report/552067-the-hills-morning-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/552067-the-hills-morning-report?amp"
+  - title: "Trump is staying out of the Virginia GOP's governor race. His absence is making a chaotic campaign even more bonkers."
+    excerpt: "The former president hasn't endorsed any of the Virginia Republicans running to lead the Old Dominion, a state he lost by double digits to Biden in 2020."
+    publishedDateTime: 2021-05-06T08:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-virginia-republicans-chase-snyder-youngkin-cox-davis-cruz-endorsement-2021-5"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 92
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
     images:
-      - url: "https://thehill.com/sites/default/files/newsletter-trump_050621getty.jpg"
-        width: 580
-        height: 387
-        isCached: true
-  - title: "EXPLAINER: Will Donald Trump return to Facebook?"
-    excerpt: "Former President Donald Trump will find out whether he gets to return to Facebook on Wednesday, when the social network’s quasi-independent Oversight Board plans to announce its ruling in the high-profile case."
-    publishedDateTime: 2021-05-04T18:46:00Z
-    webUrl: "https://www.chron.com/news/article/EXPLAINER-Will-Donald-Trump-return-to-Facebook-16151044.php"
-    ampWebUrl: "https://www.chron.com/news/amp/EXPLAINER-Will-Donald-Trump-return-to-Facebook-16151044.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/EXPLAINER-Will-Donald-Trump-return-to-Facebook-16151044.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://i.insider.com/60931ce434af8d001859bb9f?width=700"
+        width: 700
+        height: 525
         isCached: true
   - title: "Facebook board upholds Trump ban, just not indefinitely"
     excerpt: "Former President Donald Trump won’t return to Facebook — at least not yet. The social network’s quasi-independent Oversight Board voted to uphold his ban from the platform after his account was suspended four months ago."
@@ -156,22 +168,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/17/70/54/20941630/3/ratio3x2_400.jpg"
         width: 400
         height: 267
-        isCached: true
-  - title: "Donald Trump's Facebook ban is permanent, social network's Oversight Board rules"
-    excerpt: "Former President Donald Trump won’t return to Facebook. The social network’s quasi-independent Oversight Board has voted to permanently ban his account after it was suspended four months ago for inciting violence that led to the deadly Jan."
-    publishedDateTime: 2021-05-05T13:05:00Z
-    webUrl: "https://www.nola.com/news/politics/national_politics/article_af3cfcd0-ada1-11eb-abd2-c3ef83b7cf9b.html"
-    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_af3cfcd0-ada1-11eb-abd2-c3ef83b7cf9b.amp.html"
-    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_af3cfcd0-ada1-11eb-abd2-c3ef83b7cf9b.amp.html"
-    type: article
-    provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 70
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/8/b3/8b3ccfa8-ada2-11eb-897f-d3cffbf2ca1e/6092981d6297f.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Will Donald Trump's Facebook Account Return?"
     excerpt: "Donald Trump may be back online as Facebook’s oversight board prepares to announce its decision on his expulsion from the platform. The former president was given the boot a day after the Jan. 6 Capitol riot and the decision Wednesday is certain to attract political controversy from one side or the other."
@@ -201,45 +197,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Facebook Board Upholds Donald Trump Suspension. Could His YouTube,Twitter Accounts Return?"
-    excerpt: "Facebook has six months to decide whether Trump will return or be banned outright. What are his odds on other social media platforms?"
-    publishedDateTime: 2021-05-05T16:24:00Z
-    webUrl: "https://www.ibtimes.com/facebook-board-upholds-donald-trump-suspension-could-his-youtubetwitter-accounts-3193568"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 45
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/donald-trump-was-suspended-from-facebook-and-instagram.jpg"
-        width: 1024
-        height: 652
-        isCached: true
-  - title: "Donald Trump’s Facebook suspension upheld by Oversight Board; group calls on social media giant to conduct six-month review of case, policies"
-    excerpt: "Former president Donald Trump will remain suspended from posting on Facebook, the world’s most popular social media platform, according to an independent Oversight Board. But the board, a diverse group of international experts in law,"
-    publishedDateTime: 2021-05-05T13:14:00Z
-    webUrl: "https://www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 40
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/U3T3Z7ONNZDCBMPY2WPOZSOEPE.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "U.S. House Majority Leader Hoyer Applauds Facebook Decision on Trump"
-    excerpt: "House Majority Leader Steny Hoyer applauded Facebook Inc's decision to maintain its suspension of Donald Trump after the Jan. 6 Capitol riots, saying it has the right to refuse to be a medium for the former Republican president."
-    publishedDateTime: 2021-05-05T13:28:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-05/us-house-majority-leader-hoyer-applauds-facebook-decision-on-trump"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
   - title: "Explainer-Ahead of Trump Facebook Ruling, Here’s How Social Media Sites Handle World Leaders"
     excerpt: "Facebook's independent oversight board on Wednesday will announce whether it is overturning the company's suspension of former U.S. President Donald Trump's account. The long-awaited ruling will bring the focus back onto how the world's largest social network decides what world leaders and politicians can and can't say on their platforms."
     publishedDateTime: 2021-05-04T11:20:00Z

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "DOJ repeals Trump ban on grants to 'sanctuary cities'"
+    excerpt: "The Justice Department has repealed a policy put in place during the Trump administration that restricted so-called sanctuary cities from receiving federal grants for criminal justice efforts.\n    \n"
+    publishedDateTime: 2021-04-28T15:51:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OFOs5--oius/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/sanctuary-cities-justice-department-trump-policy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/sanctuary-cities-justice-department-trump-policy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421190715-department-of-justice-ransomware-file-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Biden's first 100 days, by the numbers"
     excerpt: "President Joe Biden marks his first 100 days in office on Thursday. Let's run the numbers on that milestone:\n    \n"
     publishedDateTime: 2021-04-29T22:30:34Z
@@ -79,22 +95,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429152424-01-biden-100-days-cnnphotos-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "The pro-Trump Republican gunning for Cheney's leadership job"
-    excerpt: "Jim Banks speaks to the media with members of the Republican Study Committee about Iran on April 21 in Washington. | Photo by Joshua Roberts/ Jim Banks is the head of the House GOP’s biggest caucus. He’s also earning another unofficial title: shadow chair of the House GOP Conference."
-    publishedDateTime: 2021-05-04T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/05/04/jim-banks-liz-cheney-gop-485269"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/05/04/jim-banks-liz-cheney-gop-485269"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/04/jim-banks-liz-cheney-gop-485269"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/99/39/3b9a4f474c63ba2e1ce5d4d1f68d/5-3-21-jimbanks-getty-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "lDL2viDQ4bCNTqoQ99bH/Hv/SzO1oC3ygFlEHQyx3elfpIkZ/+GTZbYYO5i7JVVgYRfzEfPWpsIhWpAVDlNvn+2UEDPY0Fdh987Oj+vIXffKdXX4cB3g2j5zkBmZO3UxrDm0GdbRVzRZF87MkfPD3lq0OluYvA/0oVDYNZNgMDBEIQVjUGc2K+oi45GeXHHZ4+KW/A+12HT/fXW3MVybwX3F5hl7ekePWkZLyKIUZrV24Qg+NRoAT7nIjKH5BCa2agl0fRsI9vhPcnkCkbZ6wSGD5iTVUT3Qj1mHibn7G6NwqG2P6UU8YzFLFR0oayTevDpkSHYJHQ+VoZUGK5iYYMzahj9P26od1hyuk1yQ3jMzge9YN3+4XIEYlMDQEojDGVeQV7y1WHfaoMynz5L+wwM/sr5VZ7IezyRqHhmHTeyebkWskzzBq8a8vaeVNLwglGkXAnaLuD3U+XKXSalCdtreDgzu218B20mFu7DECicT3xVaB6LxsSlFr6SDxEZ73k9FEnbfG/bLR1JphY1zSw==;u7nJQ/KsiCWH2t/Y2KlPzQ=="

@@ -334,6 +334,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Fight to stop Texas election bill, Trump's Medicaid legacy and Iran nuclear deal hope: Friday's top stories"
+    excerpt: "A late-night bid to stop an election bill, President Joe Biden's attempts to unpick his predecessor's Medicaid changes and the latest on the Iran nuclear deal."
+    publishedDateTime: 2021-05-07T11:51:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/fight-stop-texas-election-bill-trump-s-medicaid-legacy-iran-n1266652"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266652"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266652"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_18/3470983/210507-texas-voting-mc-813_c5ca9208f08e1a1e5ba05e9452247414.JPG"
+        width: 2500
+        height: 1559
+        isCached: true
   - title: "Trump, other top Republicans back Stefanik to replace Cheney as GOP conference chair"
     excerpt: "House Minority Whip Steve Scalise is calling for Rep. Elise Stefanik of New York to take over the leadership role."
     publishedDateTime: 2021-05-06T00:35:00Z
@@ -363,20 +379,6 @@ related:
       - url: "https://static.politico.com/7c/b1/a782d7494b8980672da54063c872/mag.Kruse.Trump100Days-lede_773override.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "GOP leaders diverge on Trump approach"
-    excerpt: "While McCarthy stayed in close contact with Trump on House GOP Conference Chair Liz Cheney’s (R-Wyo.) potential ouster, McConnell declined to acknowledge Trump at all. When asked about Trump’s attacks on him,"
-    publishedDateTime: 2021-05-07T11:01:00Z
-    webUrl: "https://www.politico.com/newsletters/huddle/2021/05/07/gop-leaders-diverge-on-trump-approach-492767"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "2NyQt/NG22XpyRmmKUXfgc6CIMWv5TYdzDpCYyneh9ceu/hCwyrIS9rsP6Oia0M8JNGx91exJ0+AGITvMfUiBkwtvhuV0su8vWMrAfADCIEW/LXaEc2tWf8hqDUp6uIc/Mxm9a1d4OXQx1izW8Gr8C24zZFyMZoRJCupVy0HD20SP59EUW4DsivBFt3lBu7Ngv4KatZ2L95/uX2KOv7vA/tJOffkn0Z58MNtmj4WDCw8UfzjJvETiw78CWnzk8HVEZmc7h0ARIXBuOsjuLnlq0fAhlXaOHvnQ2fBf1iDJwuPPtqIEJABvClGabwnrYPVFaiCdpxU/0s0wyZSsnoRAB1i9UXm3zuOZiKhdvFB9EY=;i60Rp+88wAOXX64urf09uQ=="

@@ -59,22 +59,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Samantha Bee on GOP post-Trump: ‘Republicans eating each other alive’"
-    excerpt: "Late-night hosts discuss the GOP’s internecine war over Trump’s election lies, Facebook’s extension of Trump’s ban and the ex-president’s new blog"
-    publishedDateTime: 2021-05-06T15:34:00Z
-    webUrl: "https://www.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
-    ampWebUrl: "https://amp.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/c29a9135d769e4091474929113d593620084b91a/114_114_2542_1525/master/2542.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=847e93a77619edf2539744548c39bdda"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Donald Trump Claims His Susan Wright Endorsement Shut Democrats Out of Texas House Race"
     excerpt: "\"It would be nice, however, if the pundits and Fake News Media would state the real reason for this unprecedented (Democrats have never been shut out before) victory!\" Trump said."
     publishedDateTime: 2021-05-03T19:50:00Z
@@ -91,21 +75,19 @@ related:
         width: 3000
         height: 1945
         isCached: true
-  - title: "Republicans are said to be plotting to oust Liz Cheney from House leadership and replace her with a pro-Trump woman"
-    excerpt: "Cheney, the third most senior House Republican, has been a vocal critic of former President Donald Trump."
-    publishedDateTime: 2021-05-04T12:40:00Z
-    webUrl: "https://www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5"
-    ampWebUrl: "https://www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5?amp"
+  - title: "Professional political survivor Mike Pence tests if there's any room left for him in a Trump Republican Party"
+    excerpt: "Mike Pence is plotting a return to public prominence, employing a methodical approach that's a hallmark of his career in politics."
+    publishedDateTime: 2021-04-28T08:01:00Z
+    webUrl: "https://www.businessinsider.com/mike-pence-president-republican-party-donald-trump-2021-4"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 103
+    quality: 111
     images:
-      - url: "https://i.insider.com/609124fef22c6b00185db6a2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg"
+        width: 847
+        height: 423
         isCached: true
   - title: "Kinzinger goes to Texas in search of anti-Trump Republicans"
     excerpt: "Adam Kinzinger came to Texas this week to hunt unicorns. The Illinois congressman was looking for Republicans who, like him, see former President Donald Trump as a scourge on their party and a threat to democracy."
@@ -139,54 +121,24 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Liz Cheney, Donald Trump feud gets mixed reviews in Wyoming"
-    excerpt: "Liz Cheney, the defiant third-term congresswoman faces mixed reviews at home. So far, Wyoming’s governor and congressional delegation have avoided sticking out their necks for Cheney, who faces ouster from House GOP leadership over her frequent criticism of former President Donald Trump."
-    publishedDateTime: 2021-05-06T23:36:00Z
-    webUrl: "https://www.chron.com/news/article/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
+  - title: "House Republicans Ready Vote on Trump Critic's Leadership Post: Sources"
+    excerpt: "The expected House Republican Conference vote is only the latest skirmish in a Republican civil war between Trump supporters and those who worry that his repeated false election c"
+    publishedDateTime: 2021-05-04T21:41:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-04/house-republicans-ready-vote-on-trump-critics-leadership-post-sources"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Utah Republicans’ bid to censure Sen. Mitt Romney for Trump impeachment votes fails"
-    excerpt: "Mitt Romney but ultimately rejected a motion to censure him Saturday for his votes at President Donald Trump’s impeachment trials. The measure narrowly failed, 798 to 711, in a vote by delegates to the state GOP convention,"
-    publishedDateTime: 2021-05-02T03:30:00Z
-    webUrl: "https://www.al.com/news/2021/05/utah-republicans-bid-to-censure-sen-mitt-romney-for-trump-impeachment-votes-fails.html"
-    ampWebUrl: "https://www.al.com/news/2021/05/utah-republicans-bid-to-censure-sen-mitt-romney-for-trump-impeachment-votes-fails.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/05/utah-republicans-bid-to-censure-sen-mitt-romney-for-trump-impeachment-votes-fails.html?outputType=amp"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Eight Republican 2024 Candidates Speak in Texas Next Week, but Not Trump"
+    excerpt: "Candidates Speak in Texas Next Week, but Not Trump WASHINGTON (Reuters) - A Republican Party event in Texas next week will hear from eight potential candidates for the party's presidential nomination in 2024,"
+    publishedDateTime: 2021-04-30T21:50:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/eight-republican-2024-candidates-speak-in-texas-next-week-but-not-trump"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 69
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NT6QIB5EHZCYRI5ERTUUTQIN7E.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Special election to replace U.S. Rep. Ron Wright remains highly competitive in final hours, as Donald Trump looms large"
-    excerpt: "Nearly two-dozen candidates are vying to fill the late congressman's seat, and the former president is backing Wright's widow, Susan Wright."
-    publishedDateTime: 2021-04-30T15:28:00Z
-    webUrl: "https://www.texastribune.org/2021/04/30/tx-6-special-election/"
-    ampWebUrl: "https://www.texastribune.org/2021/04/30/tx-6-special-election/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/04/30/tx-6-special-election/amp/"
-    type: article
-    provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 66
-    images:
-      - url: "https://thumbnails.texastribune.org/-LPrcCg8VR2SW6dlG2TbqqsFAd4=/1200x630/filters:quality(95)/static.texastribune.org/media/files/5a9a462d5d7fdb74fce431e415ab49f5/US%20Capitol%20DC%20REUTERS%20TT.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
 
 secured: "45Er1kUrdm7sxPyp/SP5TeQn7xABtGhsmXzmLWY3f/5e1GnD1pfgSYcjJO4IeY4F6Cvq7XC5dekdbE0pzuZy/5O9mvvGWYL+ozx1JQInEOGqi13L53O8PtAPTn/QoArqsejRNDi0HUkgz/3FKU8UQ3dDLfhnAvH93w8Qdu2mdpnG9welstqOuYACiT/rUxsNiUq7mylpweM01f4/e4NJA7IWUB5vwiX7ApP3V2zRzoS3TkUxEeOvttQfTK7Ax2LOPvqCYBk6J9+ruEqWK6TCNwHkmZdY4h32isw7Ycx6aFa1SFZpmRANlCjtGSI/wpPOkxSAQLRbl1Sr0EUMuHshD9QcZic/lALZUnNvGoUZeRQ=;CJVZURZuP0hbyysluBCJTA=="
 ---
