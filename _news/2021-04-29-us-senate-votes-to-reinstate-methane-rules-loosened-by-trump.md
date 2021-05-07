@@ -1673,6 +1673,15 @@ related:
       name: New York Magazine
       domain: nymag.com
     quality: 35
+  - title: "US Drops Trump Plan for More Biometric Data on Immigrants"
+    excerpt: "The Biden administration has withdrawn a Trump-era proposal to expand the amount and types of biometric data collected by U.S. immigration authorities."
+    publishedDateTime: 2021-05-07T17:17:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-07/us-drops-trump-plan-for-more-biometric-data-on-immigrants"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "j2ZxGrwWRyQmacxPU4vCQCoYGmXT9CUSCSJ7lf0rlJ2FewhzO/nYe3YDt6SwWfcAVfjnrf6xOFzvoB/VMjdlcVBVVvJm/8u/bN8UU5d53rHv3drb9EMULA+cCQsltdiF7Rv99AnnHIz0DJiPj/TQzgUdll1wjFCJzwCGMYozMmJ8WrRElhVYKgjHUjZTt3FTuF8jY5Mb4EbfYuj+HeJe8yKr5Na/zPxObToDCY/l3wxserLyAdROPChcPWpSK2+Z7JDEOXVapV+2MOMTsCxHlIYuqE7QXH2DNySjvs4BHocjQE2I6w86a1/6Bcl8MYLxOjh6gsFKc9MapHiKS70exjmHMNieVBLg2eMwF+VsRPU=;VG7VG3GDhWk7seYwDOKytQ=="
 ---

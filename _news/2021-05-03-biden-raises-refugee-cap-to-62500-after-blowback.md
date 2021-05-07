@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Biden urges passage of economic proposals in wake of dismal jobs report"
+    excerpt: "President Joe Biden said Friday the US economy is \"moving in the right direction\" but there is still a long way to go after a disappointing Friday jobs report fell well below expectations.\n    \n"
+    publishedDateTime: 2021-05-07T17:48:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a_R7bXc4Hpk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/biden-april-jobs-report/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/biden-april-jobs-report/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507133814-01-joe-biden-0507-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "jWr7pKucUGOK0k1rxWbM4e9U7w6usk3qd99oRVs2l+YrnPZURywpkOgEj1fG6mYku7g6HR2YgmHVqnEuFYswJEvl+0km5gP9yf4AeIAlJAj6awJ86SsT3dxFt6fRpwfgT+fTWhKpJUU5G8b5RJMla+nnwL52Z/jlMqqs18y2Uo55ptP57rsFTc/uAyjNYeBngLnA/tlYMsN4cYMiK6Mh7JtYHVnYh6WzWZsKl0cj4m1zUPRw1Ko4IgdwwQX+zxAKHqECYR16K4e54erlwEmax7+gf71XWWCjk5A3TLFPFK5549plRH6UB9L196K287siWrcmLb7x2we1cAQH6DI6k4X5Dp+hXIOAnFZcgAFPg5U=;MJLyL1QpbWRNjpLGJcz9iw=="
 ---

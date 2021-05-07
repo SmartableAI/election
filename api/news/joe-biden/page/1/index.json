@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-08-biden-says-we-still-have-a-long-way-to-go-after-disheartening-jobs-report-live.md",
+      "title": "Biden says ‘We still have a long way to go’ after disheartening jobs report – live",
+      "excerpt": "Biden insists country is ‘moving in the direction’ despite poor numbers – follow all the day’s politics news",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live?page=with:block-60956df68f080cbad78f717f",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live?page=with:block-60956df68f080cbad78f717f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/3160a0614d599fccca299ef687b417498a74ee5d/0_4_2700_1620/master/2700.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93446cb430b243f629f209c7855b4138",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
+      "publishedDateTime": "2021-05-07T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-mcconnell-says-hes-100-percent-focused-on-stopping-bidens-administration.md",
       "title": "McConnell says he's '100 percent' focused on 'stopping' Biden's administration",
       "excerpt": "McConnell \"said that about the last administration — about Barack, that he was going to stop everything,\" President Joe Biden said.",
@@ -436,7 +488,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2330,
+      "heat": 2350,
       "tags": null,
       "images": [
         {
@@ -1558,58 +1610,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-joe-biden-to-issue-executive-order-implementing-15-an-hour-minimum-wage-for-federal-contractors.md",
-      "title": "Joe Biden to issue executive order implementing $15-an-hour minimum wage for federal contractors",
-      "excerpt": "The move is set to increase pay for hundreds of thousands of workers on government contracts by the end of March 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-executive-order-enacting-minimum-wage-federal-contractors-2021-4",
-      "originalUrl": "https://www.businessinsider.com/biden-executive-order-enacting-minimum-wage-federal-contractors-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/608760113f0560001881c2cb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-executive-order-enacting-minimum-wage-federal-contractors-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-executive-order-enacting-minimum-wage-federal-contractors-2021-4?amp",
-      "publishedDateTime": "2021-04-27T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

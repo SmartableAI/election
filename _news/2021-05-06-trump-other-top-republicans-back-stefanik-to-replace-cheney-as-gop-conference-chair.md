@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Homeland Security reverses Trump-era DNA collection plan for immigration vetting "
+    excerpt: "The Department of Homeland Security on Friday withdrew Trump-era plans to vastly expand the collection of biometric data, including DNA samples, which would have been used for immigration purposes such as verifying family relationships.\n    \n"
+    publishedDateTime: 2021-05-07T16:14:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mK-YpOL22Oo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/immigration-dna-trump-biometrics-collection/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/immigration-dna-trump-biometrics-collection/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193425-01-dhs-logo-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: A GOP candidate ran on an anti-Trump platform. He won just 3% of the vote."
     excerpt: "Michael Wood's candidacy in this weekend's special election for Texas' 6th district was regarded as a potential canary in a coal mine.\n    \n"
     publishedDateTime: 2021-05-03T13:55:02Z

@@ -128,6 +128,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris ‘meets’ with Mexico president ahead of migration crisis trip"
+    excerpt: "Vice President Kamala Harris on Friday met virtually with Mexican President Andrés Manuel López Obrador ahead of her long-anticipated trip to Latin America as President Biden’s migration"
+    publishedDateTime: 2021-05-07T16:12:00Z
+    webUrl: "https://nypost.com/2021/05/07/kamala-harris-virtually-meets-with-mexico-president-ahead-of-trip/"
+    ampWebUrl: "https://nypost.com/2021/05/07/kamala-harris-virtually-meets-with-mexico-president-ahead-of-trip/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/07/kamala-harris-virtually-meets-with-mexico-president-ahead-of-trip/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-mexico-president-03.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris acknowledges ‘alarming’ migrant influx, still won’t call it a crisis"
     excerpt: "Vice President Kamala Harris said the “alarming” influx of migrants along the US-Mexico border cannot be solved without cleaning up corruption in Central America."
     publishedDateTime: 2021-05-04T15:37:00Z

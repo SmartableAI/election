@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Homeland Security reverses Trump-era DNA collection plan for immigration vetting "
+    excerpt: "The Department of Homeland Security on Friday withdrew Trump-era plans to vastly expand the collection of biometric data, including DNA samples, which would have been used for immigration purposes such as verifying family relationships.\n    \n"
+    publishedDateTime: 2021-05-07T16:14:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mK-YpOL22Oo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/immigration-dna-trump-biometrics-collection/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/immigration-dna-trump-biometrics-collection/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193425-01-dhs-logo-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP candidate crushed after opposing Trump says party 'not living up to this moment'"
     excerpt: "Michael Wood, a Republican whose anti-Donald Trump message resulted in a crushing defeat in a special election for a Texas US House seat over the weekend, said the party is compromising its values by spreading the former president's falsehoods.\n    \n"
     publishedDateTime: 2021-05-04T13:20:20Z

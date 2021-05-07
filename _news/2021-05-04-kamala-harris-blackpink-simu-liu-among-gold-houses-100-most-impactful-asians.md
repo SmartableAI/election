@@ -173,6 +173,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Can Kamala Harris Resurrect the Alliance for Prosperity—With Thugs?"
+    excerpt: "Report: Can Kamala Harris Resurrect the Alliance for Prosperity—With Thugs? Can Kamala Harris Resurrect the Alliance for... Biden’s first 100 days This article is part of Foreign Policy’s ongoing coverage of U."
+    publishedDateTime: 2021-05-07T13:04:00Z
+    webUrl: "https://foreignpolicy.com/2021/05/07/kamala-harris-central-america-migrant-crisis-root-causes/"
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 105
+    images:
+      - url: "https://foreignpolicy.com/wp-content/uploads/2021/05/GettyImages-1316804389.jpg?w=1000"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "For Kamala Harris, India’s Covid Crisis Is Personal"
     excerpt: "On Friday, the U.S. vice president is set to deliver remarks at a State Department event that is expected to express U.S. solidarity with India."
     publishedDateTime: 2021-05-07T05:29:00Z
@@ -473,6 +487,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "VP Kamala Harris, Mexico President López Obrador pledge immigration progress"
+    excerpt: "Vice President Kamala Harris met virtually Friday with Mexico President Andrés Manuel López Obrador to discuss ways to address immigration from Guatemala, Honduras and El Salvador."
+    publishedDateTime: 2021-05-07T16:15:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/05/07/kamala-harris-obrador-lopez-meeting-immigration/4931620399328/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/05/07/kamala-harris-obrador-lopez-meeting-immigration/4931620399328/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/07/kamala-harris-obrador-lopez-meeting-immigration/4931620399328/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 72
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/4931620399328/2021/1/0c4a148d330e6d7cccf16d663e239fd2/v1.5/VP-Kamala-Harris-Mexico-President-Lpez-Obrador-pledge-immigration-progress.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Fact check: Kamala Harris’ children’s book is not in ‘welcome packs’ for migrants"
     excerpt: "Long Beach officials say migrant children from the U.S.-Mexico border are not receiving copies of Harris’ book as part of a welcome package."
     publishedDateTime: 2021-04-29T18:26:00Z
@@ -772,6 +802,20 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 48
+  - title: "Vice President Kamala Harris shows off her picks from Books on the Square in Providence"
+    excerpt: "Vice President Kamala Harris shows off her picks from Books on the Square bookstore in Providence’s Wayland Square during her visit Wednesday."
+    publishedDateTime: 2021-05-05T16:37:00Z
+    webUrl: "https://www.bostonglobe.com/video/2021/05/05/metro/new-england/rhode-island/vice-president-kamala-harris-shows-off-her-picks-from-books-on-the-square-in-providence/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 47
+    images:
+      - url: "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=268"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Live Updates: Doug Emhoff, husband of Vice President Kamala Harris, in Lehigh Valley on Wednesday"
     excerpt: "Doug Emhoff, husband of Vice President Kamala Harris, is visiting the Lehigh Valley on Wednesday to tout President Joe Biden’s infrastructure plan."
     publishedDateTime: 2021-05-05T14:04:00Z

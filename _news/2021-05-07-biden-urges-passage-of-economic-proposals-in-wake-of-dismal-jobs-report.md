@@ -1,0 +1,53 @@
+---
+category: news
+title: "Biden urges passage of economic proposals in wake of dismal jobs report"
+excerpt: "President Joe Biden said Friday the US economy is \"moving in the right direction\" but there is still a long way to go after a disappointing Friday jobs report fell well below expectations.\n    \n"
+publishedDateTime: 2021-05-07T17:48:19Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a_R7bXc4Hpk/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a_R7bXc4Hpk/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/biden-april-jobs-report/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/biden-april-jobs-report/index.html"
+type: article
+quality: 175
+heat: -1
+published: false
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507133814-01-joe-biden-0507-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Biden raises refugee cap to 62,500 after blowback"
+    excerpt: "The Biden administration is set to raise the refugee ceiling to 62,500 this fiscal year, according to a source familiar with the discussions, after receiving swift criticism last month when President Joe Biden kept the lower Trump-era cap in place.\n    \n"
+    publishedDateTime: 2021-05-03T21:12:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9kJryzBYedM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210502211626-joe-biden-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "nL43wZ+wwveCqAlPsX0FLf5FdANXZLdSosP5Bbb3Py6Kxc+b6QqvkiLuubKnu5fnf+Dtc6VzHSd7V7sPK4dDGj0EyBmPpEYvdvK+ric4mnrMDsrnAn0fAALCeSHLSTq5vdjLoRt7D7h4DLOrAFo7KtC1aJqx0csZZFsluX/Ze6MUJi5N+SQ1v/Bolk0shx6Y1oAMDaReHYhYs3/GNvjLAlt163rjXZWBdPlD9lqoya4jJnPE+or8FSjDmrGH9eycPlbmAuJaufqUNvmZpTUTheL52HRmMtZOwBhRYsBUmZ1NSAZazDQXmIJhMW3oWguojOljAPixHwCBwN3Uv3udbBHSacOpVbHMiNRB0tQdWw4=;cpRA3bSrwIU3z1rNPdy5pQ=="
+---
+

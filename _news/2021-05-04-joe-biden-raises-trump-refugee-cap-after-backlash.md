@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 2330
+heat: 2350
 published: true
 
 provider:
@@ -1673,6 +1673,15 @@ related:
     provider:
       name: New York Magazine
       domain: nymag.com
+    quality: 35
+  - title: "US Drops Trump Plan for More Biometric Data on Immigrants"
+    excerpt: "The Biden administration has withdrawn a Trump-era proposal to expand the amount and types of biometric data collected by U.S. immigration authorities."
+    publishedDateTime: 2021-05-07T17:17:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-07/us-drops-trump-plan-for-more-biometric-data-on-immigrants"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 35
 
 secured: "wDIgGWhRhUfIpP6/eya/QrAHr6o7dooQ6xUSCCHYIRhkKQGsv2uz/4oNkyy66wrxxtscWFblcswilGEKsn5TROhCsSHc72YgqKGE5pfif6EGDZoGS/vEElUfqakwJQ5osn5bS0WwrZQSxF7N+AEUYDc/pr1ln7kt4ps/CdXFD770jzjkXNV4EepM8g6Oud7wkz8alR4krcGNuEHESzHggfRcpik+NCq8XlltZntzU1jhPs98jYMCyHAvekdpIg2nY7yPDKDR+YTrhK9sSrJcVfQYY3s9VWGV9DgwW85E5fihGxdMpV0gaGpNCmU0i/CaFG73UtEeMFQDPEOuNCA+cZOyWKLMmWGvvhbQy006bVgccsphoYoOz5UHCISlKqTDz51hD+Lt9lJnx1PQWqlbg2J0VQpDM7yITlPHgE8BnRMdJrH/8sZP/p49DlS9WabWiEKLpv6xMb5elHzthgzpKs0XErcFvcil4b5ZrojsiP0q3xyYOrYFzXuWS+vn//rOLgxKrwYHDFdm9NHn9YTmxw==;iDoHY24kCL9/9Jxz/kw0dg=="
