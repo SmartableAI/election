@@ -336,6 +336,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Trump is hunting down the GOP’s leading families"
+    excerpt: "In his attempt to exercise full dominion over the Republican Party, Donald Trump has reserved a special fury for the dynasties that helped shape it."
+    publishedDateTime: 2021-05-07T19:07:00Z
+    webUrl: "https://www.politico.com/news/2021/05/07/trump-cheney-gop-families-485528"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/05/07/trump-cheney-gop-families-485528"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/07/trump-cheney-gop-families-485528"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/e2/40/e3ea59a84ddeb87d74518fd812f2/trump-gop-establishment.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Fight to stop Texas election bill, Trump's Medicaid legacy and Iran nuclear deal hope: Friday's top stories"
     excerpt: "A late-night bid to stop an election bill, President Joe Biden's attempts to unpick his predecessor's Medicaid changes and the latest on the Iran nuclear deal."
     publishedDateTime: 2021-05-07T11:51:00Z

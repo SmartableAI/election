@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-special-election-trump-conspiracy-theories/index.html"
 type: article
 quality: 178
-heat: 638
+heat: 658
 published: true
 
 provider:
@@ -318,6 +318,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "How Trump is hunting down the GOP’s leading families"
+    excerpt: "In his attempt to exercise full dominion over the Republican Party, Donald Trump has reserved a special fury for the dynasties that helped shape it."
+    publishedDateTime: 2021-05-07T19:07:00Z
+    webUrl: "https://www.politico.com/news/2021/05/07/trump-cheney-gop-families-485528"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/05/07/trump-cheney-gop-families-485528"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/07/trump-cheney-gop-families-485528"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/e2/40/e3ea59a84ddeb87d74518fd812f2/trump-gop-establishment.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Court Could Consider Whether Trump Interfered in Cloud Computing Contract"
     excerpt: "The decision could be a win for Amazon, which said it was passed over for the $10 billion Pentagon contract because of his animosity toward its founder, Jeff Bezos."

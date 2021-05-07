@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Jill Biden thanks military spouses in Colorado for service"
-excerpt: "First lady Jill Biden extended her gratitude to military spouses for their service at an Army base in Colorado"
-publishedDateTime: 2021-05-07T01:43:00Z
-originalUrl: "https://www.washingtonpost.com/politics/jill-biden-to-meet-military-spouses-during-stop-in-colorado/2021/05/06/a035db76-ae28-11eb-82c1-896aca955bb9_story.html"
-webUrl: "https://www.washingtonpost.com/politics/jill-biden-to-meet-military-spouses-during-stop-in-colorado/2021/05/06/a035db76-ae28-11eb-82c1-896aca955bb9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/jill-biden-to-meet-military-spouses-during-stop-in-colorado/2021/05/06/a035db76-ae28-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/jill-biden-to-meet-military-spouses-during-stop-in-colorado/2021/05/06/a035db76-ae28-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+title: "Biden says he's confident he will be able to meet Putin soon"
+excerpt: "U.S. President Joe Biden on Friday said he expects to be able to meet with Russian President Vladimir Putin soon, adding that the time and place for their encounter are still being worked out."
+publishedDateTime: 2021-05-07T15:32:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-russia-biden-idUSKBN2CO1P1"
+webUrl: "https://www.reuters.com/article/us-usa-russia-biden-idUSKBN2CO1P1"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CO1P1"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CO1P1"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TH23TXVOFAI6XAWBRFVMVFK3XE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210507&t=2&i=1561326232&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4610D"
+    width: 812
+    height: 545
     isCached: true
 
 related:
@@ -143,21 +143,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden says he's confident he will be able to meet Putin soon"
-    excerpt: "U.S. President Joe Biden on Friday said he expects to be able to meet with Russian President Vladimir Putin soon, adding that the time and place for their encounter are still being worked out."
-    publishedDateTime: 2021-05-07T15:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-russia-biden-idUSKBN2CO1P1"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CO1P1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CO1P1"
+  - title: "Jill Biden thanks military spouses in Colorado for service"
+    excerpt: "First lady Jill Biden extended her gratitude to military spouses for their service at an Army base in Colorado"
+    publishedDateTime: 2021-05-07T01:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/jill-biden-to-meet-military-spouses-during-stop-in-colorado/2021/05/06/a035db76-ae28-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/jill-biden-to-meet-military-spouses-during-stop-in-colorado/2021/05/06/a035db76-ae28-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/jill-biden-to-meet-military-spouses-during-stop-in-colorado/2021/05/06/a035db76-ae28-11eb-82c1-896aca955bb9_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210507&t=2&i=1561326232&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4610D"
-        width: 812
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TH23TXVOFAI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Jill Biden to meet military spouses during stop in Colorado"
     excerpt: "First lady Jill Biden plans to visit military spouses at a Colorado military base in her last stop during a swing through the U.S. West"
@@ -386,6 +386,6 @@ related:
         height: 630
         isCached: true
 
-secured: "x/3QJAq+14xt/sapUKgFVYHxx9tkb4n4ZOS8HzMr4ngvVpLJ9NF8lfoD0i3IayUe5GF2DIel9pjkHYot/5ydH2Z/e8hXCe9csUfeDZxkGMcOlKXG1Rjl6R5ZR0SBVp3SnVoHoqGYOLAjC8sTVfWbMGai7BM/QVg4PLDYDz+Amt4SdwvMu0UrGIw4yKsYbYXE/d4xX7xDwT11rKNh98KPibiEzZfRGnZ+gCBqNZ0OxsV/xiSDn0r96pc4eaWKNNfIzVcYR0yUAsfR0HWbglboAuhmgqyH83YSVolfMnicu22xML2c9cgS+J6EGSxYv876edMq3itWdjYPCQjNEw+d1N6r2ITlcxx1wgi53Bgh9HK1s5RCXum6ej7SzqdacTibtmZykAE29lpdiphlm6Ed4+XJsdmR5GxZ+Rr/o5gRPn3D32Cegj8w9VJxyObGbBQrnRHw2pv6vrZHKW+IPp9u0BFFI5amo0CvqNz9H01mkvZK9ruPBKl83xno6ywrBwsWf6vQCSnrlVCArgt2+86ZNA==;75L5WdF3IKoJw+WJkMydRg=="
+secured: "/uEl4q6iCYBiMgv6TP6TD3uXIFRfTK3+cifXAMTHc3xq5HbP+8kKWrdXEFpknKzZSy6thF3lyXG/RtLaBUOkUJhWS8o2yWs6dxM3jrhZMBW5dTS9IQ5LB+qBFi7Og4eDxCPjSPiZiws4FFe7kgb+l4LDDDCGQMzG8SDxhD9iW3smioKn0UKzz4tnJDd9NQSdUxwisBCMempC5AVdxt3YMFoe1v8bIfbzPLv32/sGt95KD30b5gqEzeCoowT7Lfmj6hPc/rDZKZ/h1ERMT8VLPQnwCAgCR1NrWCi4y9kzitH6m346nl18nfszUu8vOIFyFo3Bki7ezdOG96isF18staEPllmzs0pkwnqbNes3Fxs=;8dlfvGZJSHRVVFoCMwgfaw=="
 ---
 

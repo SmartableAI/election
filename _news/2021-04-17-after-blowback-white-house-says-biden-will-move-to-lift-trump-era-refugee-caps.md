@@ -965,6 +965,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Weak jobs report could spur, slow Biden's huge money package"
+    excerpt: "President Joe Biden's promised economic comeback hit a speed bump Friday with the April jobs report, which found modest job gains of 266,000 that complicated his $4 trillion push on infrastructure, education and children."
+    publishedDateTime: 2021-05-07T18:30:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/weak-jobs-report-risk-opportunity-biden-77557657"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/weak-jobs-report-risk-opportunity-biden-77557657"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/weak-jobs-report-risk-opportunity-biden-77557657"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_adbb5a6a012e47d98c0b19779f80826b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pastor Robin Bullock Says It's a Sin to Recognize Joe Biden as President"
     excerpt: "\"You can pray for the office of the president. But you cannot pray for President Joe Biden,\" Bullock said. \"Because you might as well pray for the Easter Bunny, because he don't exist.\""
     publishedDateTime: 2021-05-03T23:31:00Z

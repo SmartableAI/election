@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-biden-100-days
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-biden-100-days-history?amp"
 type: article
 quality: 125
-heat: 565
+heat: 585
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TH23TXVOFAI6XAWBRFVMVFK3XE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden says he's confident he will be able to meet Putin soon"
+    excerpt: "U.S. President Joe Biden on Friday said he expects to be able to meet with Russian President Vladimir Putin soon, adding that the time and place for their encounter are still being worked out."
+    publishedDateTime: 2021-05-07T15:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-russia-biden-idUSKBN2CO1P1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CO1P1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CO1P1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210507&t=2&i=1561326232&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4610D"
+        width: 812
+        height: 545
         isCached: true
   - title: "Jill Biden thanks military spouses in Colorado for service"
     excerpt: "First lady Jill Biden extended her gratitude to military spouses for their service at an Army base in Colorado"

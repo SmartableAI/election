@@ -975,6 +975,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Weak jobs report could spur, slow Biden's huge money package"
+    excerpt: "President Joe Biden's promised economic comeback hit a speed bump Friday with the April jobs report, which found modest job gains of 266,000 that complicated his $4 trillion push on infrastructure, education and children."
+    publishedDateTime: 2021-05-07T18:30:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/weak-jobs-report-risk-opportunity-biden-77557657"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/weak-jobs-report-risk-opportunity-biden-77557657"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/weak-jobs-report-risk-opportunity-biden-77557657"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_adbb5a6a012e47d98c0b19779f80826b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden Jimmy Carter Photo Leaves People Confused About How Tall They Are"
     excerpt: "The Carter Center shared the photo on Twitter and said: \"We're pleased to share this wonderful photo from the @POTUS and @FLOTUS visit to see the Carters in Plains, Ga.! Thank you President and Mrs. Biden!"
     publishedDateTime: 2021-05-04T13:06:00Z

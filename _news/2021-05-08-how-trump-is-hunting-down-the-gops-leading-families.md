@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Homeland Security reverses Trump-era DNA collection plan for immigration vetting "
-excerpt: "The Department of Homeland Security on Friday withdrew Trump-era plans to vastly expand the collection of biometric data, including DNA samples, which would have been used for immigration purposes such as verifying family relationships.\n    \n"
-publishedDateTime: 2021-05-07T16:14:22Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mK-YpOL22Oo/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mK-YpOL22Oo/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/immigration-dna-trump-biometrics-collection/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/immigration-dna-trump-biometrics-collection/index.html"
+title: "How Trump is hunting down the GOP’s leading families"
+excerpt: "In his attempt to exercise full dominion over the Republican Party, Donald Trump has reserved a special fury for the dynasties that helped shape it."
+publishedDateTime: 2021-05-07T19:07:00Z
+originalUrl: "https://www.politico.com/news/2021/05/07/trump-cheney-gop-families-485528"
+webUrl: "https://www.politico.com/news/2021/05/07/trump-cheney-gop-families-485528"
+ampWebUrl: "https://www.politico.com/amp/news/2021/05/07/trump-cheney-gop-families-485528"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/07/trump-cheney-gop-families-485528"
 type: article
-quality: 170
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193425-01-dhs-logo-file-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/e2/40/e3ea59a84ddeb87d74518fd812f2/trump-gop-establishment.jpg"
+    width: 2000
+    height: 1333
     isCached: true
 
 related:
@@ -156,6 +157,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505140702-03-rep-elise-stefanik-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Homeland Security reverses Trump-era DNA collection plan for immigration vetting "
+    excerpt: "The Department of Homeland Security on Friday withdrew Trump-era plans to vastly expand the collection of biometric data, including DNA samples, which would have been used for immigration purposes such as verifying family relationships.\n    \n"
+    publishedDateTime: 2021-05-07T16:14:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mK-YpOL22Oo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/immigration-dna-trump-biometrics-collection/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/immigration-dna-trump-biometrics-collection/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193425-01-dhs-logo-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -319,22 +336,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "How Trump is hunting down the GOP’s leading families"
-    excerpt: "In his attempt to exercise full dominion over the Republican Party, Donald Trump has reserved a special fury for the dynasties that helped shape it."
-    publishedDateTime: 2021-05-07T19:07:00Z
-    webUrl: "https://www.politico.com/news/2021/05/07/trump-cheney-gop-families-485528"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/05/07/trump-cheney-gop-families-485528"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/07/trump-cheney-gop-families-485528"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/e2/40/e3ea59a84ddeb87d74518fd812f2/trump-gop-establishment.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Court Could Consider Whether Trump Interfered in Cloud Computing Contract"
     excerpt: "The decision could be a win for Amazon, which said it was passed over for the $10 billion Pentagon contract because of his animosity toward its founder, Jeff Bezos."
     publishedDateTime: 2021-04-28T20:35:00Z
@@ -412,6 +413,6 @@ related:
         height: 773
         isCached: true
 
-secured: "eJTGHlf04ouX6C+z7RccxKuymc8r/V5tNdaRFSEAuT0llOcUojsZAa8T2i0xOj3xHiycZI0wWXj2GZrgHow3w7j9bujShRz5DvAjPtfjNaMARx8r52d/y3qNSbigvKbU7G/f10rRK5TWLprF7auCpX55ub8I9eFqJ3BI8YoJIBft/NrBoowbJKff+4raASdcsrw7iJBoEh5poj2Gb7Rf8nrv7q4zGIPDHRjVS3mFLhjYwC/jDOFtfh3oXWmmrObyAexOCtUgA0u8wKetSfcTlW5i98MRsJT38wR/+KIzr0LyvbwgS5Y8vnnc4MkPzueJrzPcF+VwxI2cfRXq9OGsxRsFvsZU4YJKhg6EcgJbxcQ=;UllmXmH/E5YFvhSQOPSvxQ=="
+secured: "yAcAjXN4MYREiXYg4jne8CkOIKzEQSOxcraKRevGEx/DDNu/T26W+7KYBOGQoqui65Tyaw6FiEfngOPFugi7iJe0Ie7LTGHqziVt0oYLJsAgsJ/jIj1QV3kGuxmnxiKcoXp+8A23NLs/zgdXe9UydcCRYyEMczqwu2QZmC4QUjw0i8HsgohZuklkvV1EujmTIWiDcTLeGrtwLtbDqwpLVtu5w4f5BA94WNVWvMnwpqKuPcq1pS7NMmGyGDwjqxa3ZUh3cWjd3bkGADN+V5/xHSOv00j5R17TdgziJa6oRPf4VwEhjiuKas3EgBr0B+pvMx4IlZLHaZ1i34CiAHlNzAjPPwGVwAuYxDHcfJGTopY=;zjhobvRddG/Q7R1ycaXJfg=="
 ---
 
