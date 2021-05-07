@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 2210
+heat: 2230
 published: true
 
 provider:
@@ -1316,6 +1316,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Fact Check-Trump had been accused of racism by contemporaries prior to presidential campaign"
+    excerpt: "Before former President Donald Trump launched his first presidential campaign in summer 2015, critics had publicly accused him of making remarks and taking actions they regarded as racist. Social media posts claiming that Trump did not face criticism on this front"
+    publishedDateTime: 2021-05-06T21:39:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-trump-racism-idUSL1N2MT312"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MT312"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MT312"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 94
   - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live"
     excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
     publishedDateTime: 2021-04-16T22:17:00Z

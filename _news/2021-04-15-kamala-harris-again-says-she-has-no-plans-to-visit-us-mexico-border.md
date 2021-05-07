@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-v
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/f80KcHyN02ys1DUVgempWW8QoG0=/1200x0/right/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2JNAWLAZUVGVXDCBJCXY5VUQNU.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "US Officials Have Discussed Asking Mexico To Do More To Stem The Tide Of Immigrants Ahead Of Kamala Harris’s Meeting"
+    excerpt: "Some of the measures discussed included Mexico apprehending an average of 1,000 immigrants moving through the country a day."
+    publishedDateTime: 2021-05-06T21:39:00Z
+    webUrl: "https://www.buzzfeednews.com/article/hamedaleaziz/us-mexico-president-immigration-harris-meeting"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/hamedaleaziz/us-mexico-president-immigration-harris-meeting"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/hamedaleaziz/us-mexico-president-immigration-harris-meeting"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 102
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2021-05/6/20/asset/915d29b0e633/sub-buzz-674-1620334685-9.jpg?crop=1200%3A800%3B0%2C0&resize=475%3A%2A"
+        width: 475
+        height: 317
         isCached: true
   - title: "Essential Politics: Kamala Harris’ online fans are intense. They’re just the beginning"
     excerpt: "It remains nasty and brutish at times. Good morning and welcome to Essential Politics, Kamala Harris edition. This week, I’ll talk about my takeaways from reporting on the vice president’s biggest online cheerleaders, the KHive, a loose-knit network of ..."

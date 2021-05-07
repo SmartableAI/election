@@ -607,6 +607,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden falsely claims $2T infrastructure plan will create 16 million jobs"
+    excerpt: "President Biden appeared to significantly misstate estimates on how many jobs would be created through the implantation of his “American Jobs Plan” during a speech Wednesday in Lake Charles, Louisiana."
+    publishedDateTime: 2021-05-06T23:19:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kjs_uaZCVjw/fact-check-biden-claims-2t-infrastructure-plan-will-create-16m-jobs"
+    ampWebUrl: "https://www.foxnews.com/politics/fact-check-biden-claims-2t-infrastructure-plan-will-create-16m-jobs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fact-check-biden-claims-2t-infrastructure-plan-will-create-16m-jobs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cce93269-85a1-4d4d-932f-a6ed65bda1f9/302c3184-a009-4236-8987-309cd1e95f7b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden, NATO allies to discuss 'effective burden sharing,' White House says"
     excerpt: "President Biden will speak to NATO allies about “effective burden-sharing” next month, in a hint that his dealings with the military alliance may have at least one similarity with those of his predecessor, former President Donald Trump."
     publishedDateTime: 2021-04-23T23:03:47Z

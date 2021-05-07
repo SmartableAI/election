@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "US Officials Have Discussed Asking Mexico To Do More To Stem The Tide Of Immigrants Ahead Of Kamala Harris’s Meeting"
+    excerpt: "Some of the measures discussed included Mexico apprehending an average of 1,000 immigrants moving through the country a day."
+    publishedDateTime: 2021-05-06T21:39:00Z
+    webUrl: "https://www.buzzfeednews.com/article/hamedaleaziz/us-mexico-president-immigration-harris-meeting"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/hamedaleaziz/us-mexico-president-immigration-harris-meeting"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/hamedaleaziz/us-mexico-president-immigration-harris-meeting"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 102
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2021-05/6/20/asset/915d29b0e633/sub-buzz-674-1620334685-9.jpg?crop=1200%3A800%3B0%2C0&resize=475%3A%2A"
+        width: 475
+        height: 317
+        isCached: true
   - title: "A nurse who sent her jailed husband videos threatening to kill Kamala Harris was charged after the Secret Service intercepted them"
     excerpt: "Niviane Petit Phelps is accused of sending several threatening videos, was pictured at a shooting range, and applied for a concealed weapons permit."
     publishedDateTime: 2021-04-17T18:33:00Z

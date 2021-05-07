@@ -1315,6 +1315,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Fact Check-Trump had been accused of racism by contemporaries prior to presidential campaign"
+    excerpt: "Before former President Donald Trump launched his first presidential campaign in summer 2015, critics had publicly accused him of making remarks and taking actions they regarded as racist. Social media posts claiming that Trump did not face criticism on this front"
+    publishedDateTime: 2021-05-06T21:39:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-trump-racism-idUSL1N2MT312"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MT312"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MT312"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 94
   - title: "White House to raise Trump-era refugee cap next month after backlash over broken pledge – live"
     excerpt: "Democrats had denounced president’s plan to maintain historically low levels set by predecessor"
     publishedDateTime: 2021-04-16T22:17:00Z
@@ -1587,6 +1598,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "a2ENaAKAOgK6a7scK2zkGG4p/18HDS13plUgMTwlKMc57v/aAazNDmMVxccU6e+G7zCWva8GENGVSCmcaEtZS+Vz0iy3lvz5e5LB2CeMd5s7Eiz+Cy++L0QNiYZMXa/jAOc3wz0Dp+ivktedcg4hdooN/x9uwVkCfXc6uLMfBmp6mYR6rYfz4xbv3/FgSsJK4ftxzTNVjgPffykCd2RrxjlsIACwEqKEx6pJKTXq5qYF/YhiaTqNuVb1Wsm7zhgM+16Ldvx9YfVKUbEUmXTAdp0QskEXcGz39OExjZcxv/hAjOwDIhkbEkz8ulLhisFhXP9LcFrdvMizzPqJs9Rli4D3a7ENA4awpEcXESnhhOM=;FBzjhZKROHHbiClBOCL5/Q=="
+secured: "ot3OHe5NjHpDzy2xoQ25vd+leKckjD00BqlJjZ+cYZRulpI0L99IOJG/V6NZ2ETMyIayv1H4RMWWH64+exmpRPUlZzRcgDfKs2o7CLHMEV/9dTnRXPSj2ynj5m12m+29MkYWQ0utVSvngRyTg/8CjAGKcr8ANNML3MrTHhDwZkXpeWnlyXsX8G86vZeoVUAbp2bZZHfijuchKPYlhCnAzWfNLi8dlo3ACqaZDUDnpMFIWSGoGocU3KjdsrNI/CrL4U9kA0KrvGIgnK4YzFAd+X5fw9wOdYoyDucjpIaOfzizpIGgr2YfF+cUelEZcFzO0R3c3Q82HmF0c/ymTDuBBisSw6bXFWckYPKnhHeBA80ilEnaiPKrNmRYsRGNM6z53tO53pxf3eghOxz6VrNttOxTkmr5Yiz6J0ICH+oxqqMjIgA7dLl7sgU22kNStZtWiPUKP/wdPin1BtpDg4FCIb1Kc+TR5CkkoyKCG4S8jnw//M0iMiI6OMLx3mZVZTZv5T9NluBYyzbdwkLQDzW3+A==;w70mC+J0oFI1TI8XQWFbxA=="
 ---
 

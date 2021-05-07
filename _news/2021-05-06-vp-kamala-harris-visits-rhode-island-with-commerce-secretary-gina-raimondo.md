@@ -313,6 +313,22 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "Kamala Harris’ family in India grapples with COVID"
+    excerpt: "Harris’ uncle G. Balachandran says he spoke with the vice president and her husband for quite a while. To close out the conversation, Harris assured him she’d take care of his daughter — her cousin — who lives in Washington."
+    publishedDateTime: 2021-05-06T22:05:00Z
+    webUrl: "https://chicago.suntimes.com/2021/5/6/22423756/kamala-harris-family-in-india-grapples-with-covid"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/5/6/22423756/kamala-harris-family-in-india-grapples-with-covid"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/5/6/22423756/kamala-harris-family-in-india-grapples-with-covid"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 75
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Personal ties: Harris' family in India grapples with COVID"
     excerpt: "Harris' uncle says he spoke with the vice president and her husband, Doug Emhoff, for quite a while. To close out the conversation, Harris assured him she’d take care of his daughter — her cousin — who lives in Washington."
     publishedDateTime: 2021-05-06T21:53:00Z
@@ -328,6 +344,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Personal Ties: Kamala Harris' Family in India Grapples With COVID"
+    excerpt: "The coronavirus crisis in India has created diplomatic and humanitarian challenges for the Biden administration"
+    publishedDateTime: 2021-05-06T22:48:00Z
+    webUrl: "https://www.nbcnewyork.com/news/coronavirus/personal-ties-kamala-harris-family-in-india-grapples-with-covid/3041906/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/coronavirus/personal-ties-kamala-harris-family-in-india-grapples-with-covid/3041906/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/coronavirus/personal-ties-kamala-harris-family-in-india-grapples-with-covid/3041906/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://i1.wp.com/media.nbcnewyork.com/2021/05/GettyImages-1229521983.jpg?quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Photos: Kamala Harris sells San Francisco loft; seeks buyer for DC condo"
     excerpt: "Kamala Harris has sold her SoMa loft in San Francisco for $860,000 and now seeks a buyer for her Washington, DC, condo."
@@ -599,6 +631,17 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "Kamala Harris’ family in India keeps up hope as COVID ravages nation"
+    excerpt: "While the crisis in India has created diplomatic and humanitarian challenges for the Biden administration, for Vice President Kamala Harris it is also personal: Her mother was born there, and an aunt and uncle live there."
+    publishedDateTime: 2021-05-06T21:59:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/health/personal-ties-harris-family-in-india-grapples-with-covid/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/health/personal-ties-harris-family-in-india-grapples-with-covid/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/health/personal-ties-harris-family-in-india-grapples-with-covid/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
   - title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
     excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."
     publishedDateTime: 2021-05-04T15:13:00Z
