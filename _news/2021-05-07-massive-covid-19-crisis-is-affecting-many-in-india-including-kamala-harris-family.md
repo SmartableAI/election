@@ -159,6 +159,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "For Kamala Harris, India’s Covid Crisis Is Personal"
+    excerpt: "On Friday, the U.S. vice president is set to deliver remarks at a State Department event that is expected to express U.S. solidarity with India."
+    publishedDateTime: 2021-05-07T05:29:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-05-07/personal-ties-harris-family-in-india-grapples-with-covid"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSABuhHISTuw/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vice President Kamala Harris' Family in India Is Grappling with COVID"
     excerpt: "Vice President Kamala Harris. “Unfortunately, because of the COVID, I cannot have such an elaborate function,” the retired academic said in a Zoom interview Thursday from his home in New Delhi. Harris’ uncle says he spoke with the vice president and her husband,"
     publishedDateTime: 2021-05-07T07:58:00Z
@@ -763,6 +777,6 @@ related:
       domain: bostonglobe.com
     quality: 22
 
-secured: "vO3jkZeQbIOehv+IOuMbQBuQUcPLZOyjU9dgnnL9eKTjvzwSYohieYvWpxE2ET0nA2xBtItnW+pTPHKqCEnFsi9gMglGhKIeeHNP1yMK3SyrIFC8lwxBFoeOr4y1xL0v2gEq34XnBDm00umo+jhRg62i7XVe7gamKDFAVv93l0ky3kZz4oj2qAZyB3CLZRDhcgZserMcPGwBI0D93ownr6ZxRZyaAOZV5ArdRbE9YO3nUrJH1I9O7Y0dHWhqzzojCBp9Up6TRtUhdZzmSFh+YcMo3YNaG3mT/V6toM9r7X+5vSQ2Hl0AKLFMUYZGwXe3w2rqkwOMe3k6kT/KzAaAsAmlZJPwJpOlqPVli81ipzc=;olPzaJaGYSmzspi8bDx/wA=="
+secured: "CBsO54pqUH0nrFdgbrMj2dwv98xbY/V7qHDgBreUyxtjS8dzF21m7TgszKXtgiduLzJcZQrMyZWLTbo00YRGqmqjr8G8Ge69koz20Pl18D7Yc0aEctyAZz2nEagjR7qFy/lPM6Zhe+HE0l4e+jYey1/sIV245Taf6SR9paLezqWDJVZEu587OWqZk1UHbgJ5oLQplwFDCYziuoNJX0kPna4+M+6oAnR58Va84QRRuXvdNdSnvZ9HYwISJ7xBtup23ZpFkFEByvjBFU6x95wvzbaAwEaTRW/CPs6Sera6W+2qhJzqqJdFTEP+LchLexZAAKac51PuRjlCSVktRD9C2X2fCN5Qp3Z4IoAEttLs9CGHYPVZ7WGrlSd0LzlZaN7RA3TzdfnQ8FXSUhrsYvXnSuW4IShMNp90pCXYvksH5tkVo5FBuztZEU2MeFZffXC2Y1Q1UKRWnF8RMqXwZcFWjAlt6XAsJhh2g0ta97VPBgpd4X8mJAziddxl5Ui6Y1f7CKPsGVWJ3WH4ZioYfpZp8A==;WQGGZg75y/xKsjCnyrNCjA=="
 ---
 

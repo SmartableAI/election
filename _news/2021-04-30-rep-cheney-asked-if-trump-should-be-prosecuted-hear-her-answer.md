@@ -363,6 +363,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "GOP leaders diverge on Trump approach"
+    excerpt: "While McCarthy stayed in close contact with Trump on House GOP Conference Chair Liz Cheney’s (R-Wyo.) potential ouster, McConnell declined to acknowledge Trump at all. When asked about Trump’s attacks on him,"
+    publishedDateTime: 2021-05-07T11:01:00Z
+    webUrl: "https://www.politico.com/newsletters/huddle/2021/05/07/gop-leaders-diverge-on-trump-approach-492767"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "9zjgmiSzKUtxNgD0lFVsxl9fagY2cW9wsEXcVO2bze+pK5wMYWug6NBZYidBcjuFPYUYGA9F4HSTB9ousnnNs0rTGBWhNsXKZH9EQ92uGnZI+j0F7Orvx2zrXEcRP+z03czK1bz8BmqjxEb/OSylC3uXF2FB22gzTZq6jnLDVtMe6UF2GsqG3a4vhITynrLJd9HRBPVTXVOKEIQ6hOddwZrBYRjRFpRjWMSFHCoA647hyKyQLynSRe3fgP8v4CKzw69RXN89HPKrcCoUPEhEdzKNwDk0oO8eow+0NN2RDF9Fyy1nKWvAB7H8uz7jkocw/wmPfHh9YSacZPydXVItiuff80R3rJi6x/jEazIFfX8=;0t4QRe8CAhENZDkAwZtKiA=="
 ---

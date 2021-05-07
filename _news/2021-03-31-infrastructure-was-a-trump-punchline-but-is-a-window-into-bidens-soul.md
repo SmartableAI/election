@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure-plan-donald-trump/index.html"
 type: article
 quality: 190
-heat: 1630
+heat: 1650
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190222184317-white-house-exterior-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's Republicans assault democracy while Biden gets down to work "
+    excerpt: "As the Republican Party finds new ways to pay homage to Donald Trump and attack democracy, Joe Biden is pushing ahead with the grunt work of building a substantive presidency that could change the shape of America.\n    \n"
+    publishedDateTime: 2021-05-07T10:16:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_KLU_zVBEzY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/president-joe-biden-donald-trump-liz-cheney-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/president-joe-biden-donald-trump-liz-cheney-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200724045327-03-biden-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

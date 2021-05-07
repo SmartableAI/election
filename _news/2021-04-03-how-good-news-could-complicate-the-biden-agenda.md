@@ -94,6 +94,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's Republicans assault democracy while Biden gets down to work "
+    excerpt: "As the Republican Party finds new ways to pay homage to Donald Trump and attack democracy, Joe Biden is pushing ahead with the grunt work of building a substantive presidency that could change the shape of America.\n    \n"
+    publishedDateTime: 2021-05-07T10:16:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_KLU_zVBEzY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/president-joe-biden-donald-trump-liz-cheney-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/president-joe-biden-donald-trump-liz-cheney-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200724045327-03-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Joe Biden warns democracy is still threatened and Trump's looming shadow proves it"
     excerpt: "As President Joe Biden used the grand Washington stage to bemoan the Capitol insurrection as the worst attack on US democracy since the Civil War, a flurry of Trump-era flashbacks underscored the depth of the still unvanquished threat.\n    \n"
     publishedDateTime: 2021-04-29T09:36:49Z

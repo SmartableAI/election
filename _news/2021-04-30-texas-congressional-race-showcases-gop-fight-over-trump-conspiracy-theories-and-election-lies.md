@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-special-election-trump-conspiracy-theories/index.html"
 type: article
 quality: 178
-heat: 598
+heat: 618
 published: true
 
 provider:
@@ -362,6 +362,20 @@ related:
       - url: "https://static.politico.com/a4/08/1329ed1641b6a7162ea146df6ea7/ap20324801945195-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "GOP leaders diverge on Trump approach"
+    excerpt: "While McCarthy stayed in close contact with Trump on House GOP Conference Chair Liz Cheney’s (R-Wyo.) potential ouster, McConnell declined to acknowledge Trump at all. When asked about Trump’s attacks on him,"
+    publishedDateTime: 2021-05-07T11:01:00Z
+    webUrl: "https://www.politico.com/newsletters/huddle/2021/05/07/gop-leaders-diverge-on-trump-approach-492767"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "ifF9FcTJIT0/XTF7JznsFwgs0TBrB0DAkene2pHfNBvkJfx6fq7qJtvzEa2nLZkNJ5OhLksSAP5gxkxTNNqqDw6YHke0n2h8naaCemn58RQP8fARSPKISQAapNcsls48y2B9OWZSWjoHOfN+z6bRzyd2VYIlB02gkxIRYmIRMAvBQ+vWkScbI3RZOcpwYkvPVJ04k8dOQ1L0xT+/FJCD+tOr6qxRhGH7Ngm95XSQdHbF/3XkG71AYyocpEAXtLDjyxJLm9faEdZTMjkC7aal0RYZ+wksHwv06w3n08tJiTwXB4RFof70ouuvu7vCHXxwApBfO2GXcWzxkSwWfMVhvoo1iL4gTACVNqvfGxc8+iE=;qUZyGm+MdL4Br8qjdhTvCA=="

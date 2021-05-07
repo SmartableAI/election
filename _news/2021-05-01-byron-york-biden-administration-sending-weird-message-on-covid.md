@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Joe Biden, Economy Killer"
+    excerpt: "Along with a working vaccine, Joe Biden inherited a V-shaped economic recovery, but he is now planting the seeds of its destruction. Inflation,"
+    publishedDateTime: 2021-05-07T10:34:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/07/joe_biden_economy_killer_145718.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/07/joe_biden_economy_killer_145718.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/07/joe_biden_economy_killer_145718.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/542606_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "N0ewbWfasPylj3a88bUv7u1Te1QOZ2qml3xMaH09E0vLcnun4oCnCkwMjWOW4zg2YGurDwrU7xiiJFgtA5QMiMOZE9A389JOC6yw7BiA/c2kz3fJKz/0hMl0+Eqw0HZxWykyTBxoRIyjMiyjji5qV0Rn3Bo/WkUJ3W8R8UdexVihowRSZCfGvlMFdqmjkEGYfQzW8xX5+QR9Ct2QEnyuCLmYyIWyc6WCwk2eWXADJz/ujTPVw0fj/QZpHs9JlAO8du2I6FFTen6VoaoYfeihD+64tI4cQvdP+Fodp9QeQ3QrV7tm5fRXV4i7CX9kgZxkToByFn8rLsNr6Y8zHgCr8Gx8c2y7kU0zVypK2oC9Z0p9dpB0c1D5ccH5OIXkLWo9Ohe55iScucVIeNEQ07NyGkTzctJBXcj7y11DkpeTK7r1pYPCeLaXVjsLedg+WD8MUDJ4Mr05JYr/tqNLjBaA94nH1Z7R/MRQWow2+dv/K6/K2UoYUTVVnahWLxODbxiZYuU8HC47Qeu7mZH3ITlJDg==;E8VkVaLF+A1PfqIn4Szakg=="
 ---

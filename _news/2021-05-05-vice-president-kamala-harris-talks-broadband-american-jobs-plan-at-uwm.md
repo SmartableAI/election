@@ -169,6 +169,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "For Kamala Harris, India’s Covid Crisis Is Personal"
+    excerpt: "On Friday, the U.S. vice president is set to deliver remarks at a State Department event that is expected to express U.S. solidarity with India."
+    publishedDateTime: 2021-05-07T05:29:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-05-07/personal-ties-harris-family-in-india-grapples-with-covid"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSABuhHISTuw/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vice President Kamala Harris' Family in India Is Grappling with COVID"
     excerpt: "Vice President Kamala Harris. “Unfortunately, because of the COVID, I cannot have such an elaborate function,” the retired academic said in a Zoom interview Thursday from his home in New Delhi. Harris’ uncle says he spoke with the vice president and her husband,"
     publishedDateTime: 2021-05-07T07:58:00Z

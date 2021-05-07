@@ -173,6 +173,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "For Kamala Harris, India’s Covid Crisis Is Personal"
+    excerpt: "On Friday, the U.S. vice president is set to deliver remarks at a State Department event that is expected to express U.S. solidarity with India."
+    publishedDateTime: 2021-05-07T05:29:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-05-07/personal-ties-harris-family-in-india-grapples-with-covid"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSABuhHISTuw/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "A New York Post story about Kamala Harris triggered conservative outrage. Almost all of it was wrong. Now the reporter has resigned."
     excerpt: "The New York Post belatedly corrected stories the journalist says she was “ordered to write,” claiming the vice president’s book was given to undocumented migrants by the thousands."
     publishedDateTime: 2021-04-27T20:18:00Z
@@ -763,6 +777,6 @@ related:
       domain: bostonglobe.com
     quality: 22
 
-secured: "jiI3Z95V9iPac0O7TPl12bt5UiBX5MsKCEWZr1vfI2DU5M8gonXTf/erN+fq7y4szRdCPULH2rHk0bbnerA36RfGG3RicoqsXtXKENg4okaOPgZi4cqYIrLCrdQSVIU1pFMoCrrt3IjEYbRyiFucLAQDt4qE3sZdU8Zu0T6kfat+Vd+/cuM91Zbe+DNN4SXdHA/EQOynH+0sXbxXdqTKNMIcPNTN0hmd5/NsLenP2DCpaWGrzyabxyM9+oUTimOU8awW3qZnkyIxEQ8iZOEFOP/9d0YGmDfNkYPf/ughNxTpW6a9bP5mCXt8CAdUaSzgOIf3K9BoSddJS5jXutxN4MqSlSQqS4AfSirqwPw0Yj0=;QBrozCBT1hBuO+0H0Nvg/A=="
+secured: "eroMrvNWU/KBnmMoF4mP8M4A++JMeb1kUY+OX7Xxhh9B7//WZcaY36V23Rz7p99UaIyaugJcDFbKNjNDXWeQMzrRqhcIwpclAA1TJDQswusuJGOrZD2TtrR8pRSN0Mkn+z50RAi44hNX18zl7UUevTROjK/6fKReRrvYTQlKiBKmCfUuL16fbf4MebLELIGNpjbrDXGkFMqQTA6GOI1JklCjkm7Ttxc+4ZOJLamameXBrTFAYz4SFU/zLKl/Ljb5Ze23ZTAtyItOE7H0flPglUh3fZ/ef/nD/vMmSuvietuAHLfp3/na60DZZ9gKQmaY5YXkoUxX7uaR9H/axpWU5qnRKfRgZ2/Q/gmj22ST2/QF1eyl+wQp1tugqy6TcCS7xPo8HJk/CALArXMbc6VJf9HUF31ahloUZmis1IfxfjpJA6m7Bjyvw9sWRqkIpE++w4WPPVVgV4b/6etpXyaSYX0vzTlrBo1UjZO1Yy3/9yRNVVgFG1MHPepd2Ji/h3i00djblUWrQCqWCCst7w10Rw==;apOZnyBCEtYeSrAGriXDkQ=="
 ---
 

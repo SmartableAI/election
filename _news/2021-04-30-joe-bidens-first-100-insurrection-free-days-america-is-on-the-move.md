@@ -291,6 +291,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden's support of labor unions is historic. Here's what it means"
+    excerpt: "No recent president of either party has come close to expressing the overt support for the labor movement that Biden has during his first three months."
+    publishedDateTime: 2021-05-07T11:00:00Z
+    webUrl: "https://www.freep.com/story/news/local/michigan/2021/05/07/joe-biden-labor-unions/4922992001/"
+    ampWebUrl: "https://amp.freep.com/amp/4922992001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4922992001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/09/PDTF/0626d6b8-286e-46bc-9825-174988b351b8-AP_Election_2020_Biden_MIPA3_5.jpg?auto=webp&crop=4847,2727,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Watch: Joe Biden, John Bel Edwards compare pocket rosaries during Louisiana meeting"
     excerpt: "When Gov. John Bel Edwards welcomed President Joe Biden to Louisiana on Thursday, the two Catholics briefly bonded over a token of their shared faith -- a pocket rosary."
     publishedDateTime: 2021-05-06T20:03:00Z

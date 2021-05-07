@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Rep. Elise Stefanik on path to GOP leadership after aligning with Trump"
+    excerpt: "Now, she’s on the verge of joining Republican leadership, as a growing number of lawmakers call for Rep. Liz Cheney to be replaced as the No. 3 House Republican."
+    publishedDateTime: 2021-05-07T09:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/rep-elise-stefanik-path-gop-leadership-aligning-trump/story?id=77505107"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/rep-elise-stefanik-path-gop-leadership-aligning-trump/story?id=77505107"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/rep-elise-stefanik-path-gop-leadership-aligning-trump/story?id=77505107"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/elise-stefanik-gop-leadership-03-ap-llr-210505_1620258693019_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "House GOP leader Kevin McCarthy amps up pressure on Liz Cheney over Donald Trump barbs"
     excerpt: "Kevin McCarthy has planted himself on the side of Liz Cheney's critics, raising the question of her fitness to lead House Republicans."
     publishedDateTime: 2021-05-04T16:35:00Z

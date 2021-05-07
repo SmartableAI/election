@@ -367,6 +367,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Don't Blacklist Trump; Boycott Big Tech"
+    excerpt: "Facebook's tyrannical blacklisting of former President Donald Trump, an elected politician 74 million Americans voted for, is wholly un-American and must"
+    publishedDateTime: 2021-05-07T10:32:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/07/dont_blacklist_trump_boycott_big_tech_145723.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/07/dont_blacklist_trump_boycott_big_tech_145723.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/07/dont_blacklist_trump_boycott_big_tech_145723.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/542535_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "jAgLvAULb9dkjD/MPBPq+zWXfoEoPwwALCOvx4CUGONu+LfqO85naoD/Qw7dW0LnBCcE+mXHC0olNP/RSsLil4LTomuKi7nNEWYgCJOzRnDslTmc++8kXot2XlK+WEyNcnXBO5mbrqNF+etXgVXV5IjJxglZ5B30NFB0XJYp/LDlydp3MRsxaPnem9ZZao6i5erZpA4OVkshVhNjcZwr+bqaC3VN8moPZfPynWNlgbn9qOPSW9EnsTJGiNBhe5sPwqmywIRusNUVRtERBbnaonYfbTs8JO4loyKIR9pbne8tTIgW15ajaTwTBQfDqnh+B3Ivhvin/e/NWma9G2tMXgokhno/bpXONQGQxfD6phE=;uPwzJESXwED2MxQYHdC+iQ=="
 ---
