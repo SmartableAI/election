@@ -2,19 +2,19 @@
 category: news
 title: "Personal ties: Harris' family in India grapples with COVID"
 excerpt: "Harris' uncle says he spoke with the vice president and her husband, Doug Emhoff, for quite a while. To close out the conversation, Harris assured him she’d take care of his daughter — her cousin — who lives in Washington."
-publishedDateTime: 2021-05-06T21:53:00Z
-originalUrl: "https://www.stamfordadvocate.com/news/article/Personal-ties-Harris-family-in-India-grapples-16157868.php"
-webUrl: "https://www.stamfordadvocate.com/news/article/Personal-ties-Harris-family-in-India-grapples-16157868.php"
-ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Personal-ties-Harris-family-in-India-grapples-16157868.php"
-cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Personal-ties-Harris-family-in-India-grapples-16157868.php"
+publishedDateTime: 2021-05-07T09:49:00Z
+originalUrl: "https://www.timesunion.com/news/article/Personal-ties-Harris-family-in-India-grapples-16158873.php"
+webUrl: "https://www.timesunion.com/news/article/Personal-ties-Harris-family-in-India-grapples-16158873.php"
+ampWebUrl: "https://www.timesunion.com/news/amp/Personal-ties-Harris-family-in-India-grapples-16158873.php"
+cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Personal-ties-Harris-family-in-India-grapples-16158873.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - Election
@@ -139,6 +139,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Massive COVID-19 crisis is affecting many in India, including Kamala Harris’ family"
+    excerpt: "India's coronavirus crisis has created diplomatic and humanitarian challenges for the Biden administration, but it's also personal for Kamala Harris."
+    publishedDateTime: 2021-05-07T09:12:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-05-07/kamala-harris-family-india-covid-catastrophe"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-05-07/kamala-harris-family-india-covid-catastrophe?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-05-07/kamala-harris-family-india-covid-catastrophe?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 119
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d90a2c4/2147483647/strip/true/crop/6048x4007+0+9/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6b%2F96%2F0263ba9305dcf5799b8b821eb765%2F10f967f4515342c09acded7e13d9db2d"
+        width: 320
+        height: 212
+        isCached: true
   - title: "Vice President Kamala Harris: We must 'speak truth' about history of racism in America"
     excerpt: "Vice President Kamala Harris said in an an exclusive interview on ABC's \"Good Morning America\" Thursday that we must 'speak truth' about history of racism in America."
     publishedDateTime: 2021-04-29T11:48:00Z
@@ -154,6 +170,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/kamala1-gma-abc-ml-210429_1619697000434_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Vice President Kamala Harris' Family in India Is Grappling with COVID"
+    excerpt: "Vice President Kamala Harris. “Unfortunately, because of the COVID, I cannot have such an elaborate function,” the retired academic said in a Zoom interview Thursday from his home in New Delhi. Harris’ uncle says he spoke with the vice president and her husband,"
+    publishedDateTime: 2021-05-07T07:58:00Z
+    webUrl: "https://time.com/6046693/kamala-harris-family-india-covid/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/05/GettyImages-1232459585.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "A New York Post story about Kamala Harris triggered conservative outrage. Almost all of it was wrong. Now the reporter has resigned."
     excerpt: "The New York Post belatedly corrected stories the journalist says she was “ordered to write,” claiming the vice president’s book was given to undocumented migrants by the thousands."
@@ -729,6 +759,6 @@ related:
       domain: bostonglobe.com
     quality: 22
 
-secured: "VmwpcySiE0rRbf4EuRgZDb0HafIuasFfniyYOGgSyHJRHWuXbXQkxM+NOC9XNp8FJrjf0+KJ5Mbnr0mTkDkjWTtBANYTaA4yoZ6SjLKNV5QrlapDdsgmNmMbMvGKRss6JnY2C05wRN7j5B70sPyoogI5V6AcsmFX6Ow6S+4RrBzR58Rb35/sAcNhsuYdKIFQE4Rqk2yByZ21JAzvY6a7MPEu4g5tiL8ic8qYJF+Hxnj78FyJYz7zL0yEhtgkCEzIGh3svA0KBA7yX6jC20390K2V6HqTKZgUOEFyTEi8ONyyxiJiwEzIlp9MoTLuVIEgraq4eEfkgHvPgYuLi0UPZmAnKJmqZJiSOadlptJxtuXtvszGMdZEIt/DxCTskb8ZpqCm74JCdvKd73aAMTdCGcDGMNgdw5HT8uihHoF8iSXCDb9NJwjY7pAN0HvX41KmYJWaPBuI0RklrV1IbzTLQf5Vi306u3toW3GDAgYABf/HVfSi9e3XIxhti1vi15uuNhOyDgLtA9NrSnvA26Jbjw==;LDJmRcBkQjEwVWlWbd6+IQ=="
+secured: "61jIJ6ZR0bzGZSxtFlS4U0p1WHBTUpGFxpCV5D1bG25+7qPJYrCc9nFEEgq6TIkOv4owb+8jZ2BCgpSmLBnwbFUTYMvFnd/8z0suYduzOSGdHDqmZcF/1OSBGoix37aU9WXA/M9qtIzdPAo37/IZTak0wPBRD/qkFHjYVh8FSeayWagoHZm/Pevzc61gJzoDhMDibbH1fSPQ5uT8D4p73sHqGoKk5rk8hREGOzc3bJhvvSwm1xlF0DUgoR19me92gsZtuKK1K6WkDkX/GMQWmzzmF0dOylFzTlkXOZljR2XlYveP3ZZvsqb9eRPMfLcOSyyMNrZod2/VkS+6za4GkAKW8t1ZNWYhwI9SjGdFb5s=;SmHa+lEhNeXCxiMaiokOkg=="
 ---
 

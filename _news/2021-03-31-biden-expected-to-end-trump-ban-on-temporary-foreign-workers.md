@@ -999,6 +999,22 @@ related:
         width: 680
         height: 454
         isCached: true
+  - title: "An inside look at how Donald Trump's name came to appear on stimulus checks"
+    excerpt: "Now, internal emails obtained by ABC News give an inside look at the scramble to add Trump's name just days before payments started going out in the middle of a presidential elect"
+    publishedDateTime: 2021-05-07T09:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/inside-donald-trumps-stimulus-checks/story?id=77534116"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/inside-donald-trumps-stimulus-checks/story?id=77534116"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/inside-donald-trumps-stimulus-checks/story?id=77534116"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/check-1-ht-er-210506_1620338745509_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden raises refugee ceiling, and faith-based groups brace for rebuilding work"
     excerpt: "Faith-based refugee resettlement groups are celebrating President Joe Biden’s decision to raise the number of refugees allowed into the U.S. for the remainder of the federal fiscal year to 62,500, even as they acknowledge that they need to rebuild their capacity after years of cuts under the previous administration."
     publishedDateTime: 2021-05-04T14:13:00Z
@@ -1352,6 +1368,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/df47bd19-9c56-4eec-a02f-a4717ba4a80a_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden's capital gains tax plan could backfire, says 8VC founder Joe Lonsdale"
+    excerpt: "President Joe Biden's $3.5 trillion tax plan includes a hike on the capital gains tax to 39.6% in order to increase revenue. Joe Lonsdale, founding partner at 8VC and Palantir co-founder, joined \"Squawk Box\" on Thursday to discuss why he thinks the proposal may actually do the economy more harm than good."
+    publishedDateTime: 2021-05-06T16:18:00Z
+    webUrl: "https://www.cnbc.com/video/2021/05/06/joe-lonsdale-capital-gain-tax-hike-proposal.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 102
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106879107-16203028511620302846-15908151650-1080pnbcnews.jpg?v=1620302850"
         width: 1920
         height: 1080
         isCached: true
