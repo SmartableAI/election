@@ -384,6 +384,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Ohio GOP censures U.S. Rep Anthony Gonzalez, urges him to resign for voting to impeach Trump"
+    excerpt: "The Ohio Republican Party censured U.S. Rep. Anthony Gonzalez and nine other GOP representatives from other states on Friday for voting in February to impeach former President Donald Trump, in a nearly unanimous vote of the powerful central committee."
+    publishedDateTime: 2021-05-07T23:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/ohio-gop-censures-u-s-rep-anthony-gonzalez-urges-him-n1266732"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266732"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266732"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_05/3447037/210202-anthony-gonzalez-mn-1356_591470757b2036b9848f4477becdff64.jpg"
+        width: 2500
+        height: 2000
+        isCached: true
   - title: "Trump’s Battle to Win the First 100 Days"
     excerpt: "The former president has been on an increasingly manic crusade to knock his successor and buff his own battered legacy."
     publishedDateTime: 2021-04-29T08:30:00Z
@@ -413,6 +429,6 @@ related:
         height: 773
         isCached: true
 
-secured: "yAcAjXN4MYREiXYg4jne8CkOIKzEQSOxcraKRevGEx/DDNu/T26W+7KYBOGQoqui65Tyaw6FiEfngOPFugi7iJe0Ie7LTGHqziVt0oYLJsAgsJ/jIj1QV3kGuxmnxiKcoXp+8A23NLs/zgdXe9UydcCRYyEMczqwu2QZmC4QUjw0i8HsgohZuklkvV1EujmTIWiDcTLeGrtwLtbDqwpLVtu5w4f5BA94WNVWvMnwpqKuPcq1pS7NMmGyGDwjqxa3ZUh3cWjd3bkGADN+V5/xHSOv00j5R17TdgziJa6oRPf4VwEhjiuKas3EgBr0B+pvMx4IlZLHaZ1i34CiAHlNzAjPPwGVwAuYxDHcfJGTopY=;zjhobvRddG/Q7R1ycaXJfg=="
+secured: "G0JFFhWGWOqoXF+0aQUKdR4IIjTiLmULJXmliWx0/f/tf/40qdeYfaKab9ME9A/GvkypopttJa+y3sTz788pnGZYWbKjlDJxEAHApBcRbmWBHWKgJ41mj6swH0ZdzNKzrVpsvwI1/nUWGP4oH+q6CulbyaTGrIXqU3yIaqRx4ZWJ2wXZzPiE/IPdhU2prUOXdVPgi9cm8l8T/guxEWmIDQU0jeiZWb1qa+TNDVclHOAq2Nj8yb48ZjpugiPSeGRtI1bm5RvIzVQK4rUF6fJ6IBe4KB2JDg3H97qiGfE/7xp+qzeIHvkHXcdWR/YK3fQkqlY3f+dKp3aV2HV/STo2X8S1jTeM+x/+uwfa3bu8ThviP6m2PYAnoxg6FVGAi2rHQVZb8Kp5wWDdEjQj1elzCj7ny+P8d/a+IH4tRbF8IG28sfF4tscmPmzGNI9AgODjlt4tdDohs2wY2nH+i/kG37QGGgiY92OdiXCFtlgB1bYh682D8fuBPfIo//0uS3XVR5K0bDEZqTYtReLKRZ2sMA==;6gnqCvXuqA9bXM98Vzirtw=="
 ---
 

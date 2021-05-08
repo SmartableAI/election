@@ -2,30 +2,26 @@
 category: news
 title: "New York Post reporter who wrote false Kamala Harris story resigns"
 excerpt: "The rise and collapse of the tabloid’s false accusations about the vice president illustrated the speed at which political misinformation can be weaponized in the modern media environment."
-publishedDateTime: 2021-04-28T20:41:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
+publishedDateTime: 2021-04-28T23:41:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-new-york-post-kamala-harris-20210428-op7da2agp5dhviy5wrscqdrb4e-story.html?outputType=amp"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/7YzhkcpcZ-0qK4jTmaxATjfiWIA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VNC6TPHQ2ZF55P5TTUOYHX6EKE.jpg"
+  - url: "https://www.baltimoresun.com/resizer/7YzhkcpcZ-0qK4jTmaxATjfiWIA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VNC6TPHQ2ZF55P5TTUOYHX6EKE.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -1316,6 +1312,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "n1Ic5sKlxK7oiRYNN1FMoNFMzAZFiuF4hPcdjZWQumEOTiGKuxdY7L1kpTOF8VJ571N5W5JQmBSI+25x1VIQtYRCEDT/w+uFczBGz3yc4UpojC1gc2D95QnIq9Q2FtUR3TLQ2c+199cM3N5aYRlQarr3EJp6bEQHFhQJ/TPh2ajZZf1lNoE5KUoaZedyr9dT4rAtcX7wDmbqYc0HuZRSVQevFiZqgGl4YeyYf+B8xU7eUngC3lTkGyCmu5XOC0i9VCe6SSbQLYa7ZqmtgOjLpLqaFxdeZZKD9fUGJHoCOt1qAd6L40ucPUIszg09Fxkw83SvimwJND2d5hEjoUQYYGtP6yHmc3jsCd9LDVBUw+A=;88OyF2Rvm88jnwe+JzGcOQ=="
+secured: "wLJaE8kXfttRktbNDfs1Vo4gzmCpzWUFJNc35fLYDF6dgNB9kbtjKXqJvqK3K9ab6XQZK2hWWLq71hSFkODbHnWitZMNUjYqMzTnydYdnl7facQFWAekSgVWca41EfBN9jWSX2i5LZfedlTQDV5FkLdHMn5wTAEeoBdtzo9hvnxLX4gCN0Op1WW3xNO/utbKZP+Fblg7hCM7S1ljsnDJq6M6xKvide9KVcQX+IYsViNuEd97mP2lzg0bM+KUQUPyKYsUh7yDd+EflwkSn0UFAwfV6FS4+JjwinOtqhXT6lYG/otnfgLSOnDIz6R3dzCbtbowJBLkGZ6lu7viC2UIBwhAr/P36rJ3d7t6afv3yHU=;YS9FjCiuww4BXTxqbb+54A=="
 ---
 

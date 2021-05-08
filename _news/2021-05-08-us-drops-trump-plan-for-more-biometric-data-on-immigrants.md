@@ -1,26 +1,34 @@
 ---
 category: news
-title: "US Drops Trump Plan for More Biometric Data on Immigrants"
-excerpt: "The Biden administration has withdrawn a Trump-era proposal to expand the amount and types of biometric data collected by U.S. immigration authorities."
+title: "US drops Trump plan for more biometric data on immigrants"
+excerpt: "The Biden administration has withdrawn a Trump-era proposal to expand the amount and types of biometric data collected by U.S. immigration authorities"
 publishedDateTime: 2021-05-07T17:17:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-05-07/us-drops-trump-plan-for-more-biometric-data-on-immigrants"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-05-07/us-drops-trump-plan-for-more-biometric-data-on-immigrants"
+originalUrl: "https://abcnews.go.com/Politics/wireStory/us-drops-trump-plan-biometric-data-immigrants-77557884"
+webUrl: "https://abcnews.go.com/Politics/wireStory/us-drops-trump-plan-biometric-data-immigrants-77557884"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-drops-trump-plan-biometric-data-immigrants-77557884"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-drops-trump-plan-biometric-data-immigrants-77557884"
 type: article
-quality: 35
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_5c22c17f25af4d34a28b8d83e53cfc76_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Joe Biden raises Trump refugee cap after backlash"
@@ -983,6 +991,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "White House releases Jan. logs of visitors to Biden, aides"
+    excerpt: "The White House has released a list of hundreds of people who visited with President Joe Biden or his aides in January"
+    publishedDateTime: 2021-05-07T22:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/white-house-releases-jan-logs-of-visitors-to-biden-aides/2021/05/07/8b856320-af88-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/white-house-releases-jan-logs-of-visitors-to-biden-aides/2021/05/07/8b856320-af88-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/white-house-releases-jan-logs-of-visitors-to-biden-aides/2021/05/07/8b856320-af88-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5XUVD7VPQEI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Pastor Robin Bullock Says It's a Sin to Recognize Joe Biden as President"
     excerpt: "\"You can pray for the office of the president. But you cannot pray for President Joe Biden,\" Bullock said. \"Because you might as well pray for the Easter Bunny, because he don't exist.\""
     publishedDateTime: 2021-05-03T23:31:00Z
@@ -1712,6 +1736,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "PuALclcNGWGkGTHW5jt9etCYCLbK+y0j2Zm4LTdIxLV5aJUNvsoAInEaqm8353wiv6WniNd4xzAaei/H6ie/hvxXzRPqG9vYvs0koVk7l3GdHxVNz++HnQ/8NLNp6kOS44iURs2ZhO7LYxZpMzTZBmoftvPFlJSysNHa1vkwy4EMvmYrpwn4wZ2XRTR7CKPBQusfPrbXxtRLh8ZqupewKCxjBcvbtR9M5n8aHlbqYAVDoFTBpdwez6miNfB0QHYfBSF7XwlqQbMMKsOfh4C2XXPrX37qRio7IJW1i/3J5oaNeJhVQ4M7ASCQyjpEnkz4VXqWp6j1M2P0G9fLAIx/2AT3nhIlAPMakHz5vZzmZ6kjNMtgkAThRbABKAT++SHL1CXCLQVG0XHKKBt3IBceAvj3B5B9d2LTINyCdhkvsevwpwJ3t+2iKfuW/P6gt4bwt0kRM+ydkfd/2DpHiz5z286kAo3Wj+Pm2Rpv7hyHZOeJ8oB7kmTjVEUIHFnhPsdN66/uOw0rF+N+ERiyADvE2A==;pp9I2By0NLhb/B2dy5A9pw=="
+secured: "iTgfNY/pBZdIr2/sraPGyPNkriY1tOooxgypESpqeuTFV6Qi3qus6ZryEQ7VlCVEWpUDjPbY3xj6chb7d+zzeNA9Pbird897mr1UuGwsJWwFInpkM+x38NWRIMO6/t2xe1/WzhEN1ZqdnfghdXQSda2oixy2PyieI/xG06rt0wUF4SUb2F75bhUTJ9f1ziJQc4EynZZ56JUKVu5i1QkKfm6XDQYsFh+n5j3WeOah565o35ZiujVOyciwtQGQZUCi/yKMBAEmTuwI8aZZupvYBOK4F9MTIEC1XepmHv5u2fvds4yhLfaM/gaGogH1bEHyrCVKjDaksALLP4OV+b2+1TV8aegw95A85h/vCN0jNLA=;CDimbX2WbVEOp24JD7hT1g=="
 ---
 

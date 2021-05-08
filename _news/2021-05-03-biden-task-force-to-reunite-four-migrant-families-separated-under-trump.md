@@ -969,6 +969,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "US drops Trump plan for more biometric data on immigrants"
+    excerpt: "The Biden administration has withdrawn a Trump-era proposal to expand the amount and types of biometric data collected by U.S. immigration authorities"
+    publishedDateTime: 2021-05-07T17:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/us-drops-trump-plan-biometric-data-immigrants-77557884"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-drops-trump-plan-biometric-data-immigrants-77557884"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-drops-trump-plan-biometric-data-immigrants-77557884"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5c22c17f25af4d34a28b8d83e53cfc76_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Weak jobs report could spur, slow Biden's huge money package"
     excerpt: "President Joe Biden's promised economic comeback hit a speed bump Friday with the April jobs report, which found modest job gains of 266,000 that complicated his $4 trillion push on infrastructure, education and children."
     publishedDateTime: 2021-05-07T18:30:00Z
@@ -984,6 +1000,22 @@ related:
       - url: "https://s.abcnews.com/images/US/WireAP_adbb5a6a012e47d98c0b19779f80826b_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "White House releases Jan. logs of visitors to Biden, aides"
+    excerpt: "The White House has released a list of hundreds of people who visited with President Joe Biden or his aides in January"
+    publishedDateTime: 2021-05-07T22:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/white-house-releases-jan-logs-of-visitors-to-biden-aides/2021/05/07/8b856320-af88-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/white-house-releases-jan-logs-of-visitors-to-biden-aides/2021/05/07/8b856320-af88-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/white-house-releases-jan-logs-of-visitors-to-biden-aides/2021/05/07/8b856320-af88-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5XUVD7VPQEI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Pastor Robin Bullock Says It's a Sin to Recognize Joe Biden as President"
     excerpt: "\"You can pray for the office of the president. But you cannot pray for President Joe Biden,\" Bullock said. \"Because you might as well pray for the Easter Bunny, because he don't exist.\""
@@ -1701,15 +1733,6 @@ related:
     provider:
       name: New York Magazine
       domain: nymag.com
-    quality: 35
-  - title: "US Drops Trump Plan for More Biometric Data on Immigrants"
-    excerpt: "The Biden administration has withdrawn a Trump-era proposal to expand the amount and types of biometric data collected by U.S. immigration authorities."
-    publishedDateTime: 2021-05-07T17:17:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-07/us-drops-trump-plan-for-more-biometric-data-on-immigrants"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
     quality: 35
 
 secured: "cBtR/qO3Q2CmjayFX5qZ5NuX9EJLafQTw71Qy1u7U5vw9yNTlfmbrdnHPJtlmjs5HTy/yIVdaKH3O0GMGctTdIkV8M9ycjyr0j+OS/NNp38yObLaDNGxWThpLFJbQGMLxNwDRND7LITO3MYbdOC8jPIraBlhk1njg0z0qWGT3+8hYIBESzEBFuOBCZtzui3JJ0iDmeIQVKQVmYXhDCYFM7PFcbMJAl+c/RdKwvcZvaZQamYeQA96m23GRPFrIutwjUdvA6k6JMsY0AP9trzJ1eWlFUXMufCTyU0xY/OppdCyU9llXWYK7ilUGiNj2dAYq2Yvv+6QrC9KPRboeX2/JzYkyxLjEd8riQ4YKFYX6hSDdP4yd+85ldW7g7C0xv9/Oh4qTbE5fVuw8V2crcyXrQnh6ZAl2qaUxmd+/U+4a5Tky4MZQe8jiEks/ycm9SDTJiqATQzr4z0ssatJ9zWtleo2x7HmpIQ+c2sLv2OCdk/kuQJZO+ehPLPpcFlFVkjxiHMkxGBJLummWknAqhs6WA==;/yXfhi7SbWisdyrSf5cJoQ=="

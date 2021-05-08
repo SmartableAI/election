@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-special-election-trump-conspiracy-theories/index.html"
 type: article
 quality: 178
-heat: 658
+heat: 678
 published: true
 
 provider:
@@ -382,6 +382,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_18/3470385/210505-steve-scalise-liz-cheney-jm-0937_910536d813fe4ed25277364b5d361ecc.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Ohio GOP censures U.S. Rep Anthony Gonzalez, urges him to resign for voting to impeach Trump"
+    excerpt: "The Ohio Republican Party censured U.S. Rep. Anthony Gonzalez and nine other GOP representatives from other states on Friday for voting in February to impeach former President Donald Trump, in a nearly unanimous vote of the powerful central committee."
+    publishedDateTime: 2021-05-07T23:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/ohio-gop-censures-u-s-rep-anthony-gonzalez-urges-him-n1266732"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266732"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266732"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_05/3447037/210202-anthony-gonzalez-mn-1356_591470757b2036b9848f4477becdff64.jpg"
+        width: 2500
+        height: 2000
         isCached: true
   - title: "Trump’s Battle to Win the First 100 Days"
     excerpt: "The former president has been on an increasingly manic crusade to knock his successor and buff his own battered legacy."

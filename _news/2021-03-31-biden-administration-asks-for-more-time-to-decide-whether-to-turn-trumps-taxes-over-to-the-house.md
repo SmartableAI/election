@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden White House posts first tranche of White House visitor logs in break with Trump "
+    excerpt: "The White House on Friday released the first tranche of the complex's visitor logs after announcing it would resume releasing the records that the Trump administration withheld.\n    \n"
+    publishedDateTime: 2021-05-07T21:47:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Kj_0rnncdl8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/white-house-visitor-logs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/white-house-visitor-logs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden set to unveil $2 trillion infrastructure and climate plan"
     excerpt: "President Joe Biden is set to unveil a roughly $2 trillion jobs proposal focused on infrastructure and the climate crisis in a speech in Pittsburgh on Wednesday.\n    \n"
     publishedDateTime: 2021-03-31T18:37:00Z
