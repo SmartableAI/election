@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-jobs-report-economic-collapse
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-jobs-report-economic-collapse-white-house.amp"
 type: article
 quality: 157
-heat: 157
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,40 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Biden administration has spent $3B on migrant facility contracts: report"
+    excerpt: "The Biden administration has reportedly spent $3 billion in contracts to house unaccompanied children at the border – as it continues to deal with a continued influx of migrants coming to the border each day."
+    publishedDateTime: 2021-05-08T21:33:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qsgBBzNOuw/biden-administration-border-migrant-facility-contracts-spending"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-border-migrant-facility-contracts-spending.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-border-migrant-facility-contracts-spending.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f550adb-2ed6-455f-a2ae-68505d5f7890/5c62bf26-1061-41a5-a638-47043d8946a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden admin’s photos of empty migrant facility are misleading, Texas Democrat says: ‘They’re just next door’"
+    excerpt: "A Texas Democrat who has been critical of Biden administration policies at the U.S.-Mexico border lashed out this week, accusing the administration of posting misleading photos from a migrant processing facility."
+    publishedDateTime: 2021-05-06T04:03:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dzetqEJ33Og/biden-admins-photos-of-empty-migrant-facility-are-misleading-texas-democrat-says-theyre-just-next-door"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admins-photos-of-empty-migrant-facility-are-misleading-texas-democrat-says-theyre-just-next-door.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admins-photos-of-empty-migrant-facility-are-misleading-texas-democrat-says-theyre-just-next-door.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3306ed57-da8b-45bc-92dc-8e1ec22dda55/7536b03d-1f9a-47c6-97cc-d7ce58234a67/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "daDY8TNA28w/+hxgkdOqZKVtW5n4O0JkHyVvv3WmsS3giWoLna9frytfizWZauLJorUC8sKlSrTAhrewaw/LUzJB14FViiXlL9ijqP/DMAv+AtOhsRKU8aTJQYq7dK1x7dXzL/q3OO1x+WB2573cwhL2oKLVeWAIbdY9oV1XuVl12k0PNev8+qF2QLpuwwa87AezQsWyP65PFeywt1qWDcCYmPiy/IgVHzOCKr/7nYVuEfjrOFwdhU9/UPbFbq3VitP+Xa4yFC0wZ/4gEDEGFiAE1Qf6HCamPPXVgkCEG0nElb7jinu8VSIWM+P0cZhBNBNIjUxulpzwSpk3DMud5RTi6gkADxppFft+yijYFxw=;gfYKLzeHP3/dQwbsXEkwww=="
 ---

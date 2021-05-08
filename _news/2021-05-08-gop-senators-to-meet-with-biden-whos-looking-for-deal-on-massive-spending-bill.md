@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden approach to North Korea nuclear policy 'not aimed at hostility': White House"
-excerpt: "National Security Advisor Jake Sullivan responded to rebukes from Pyongyang by affirming that President Biden's approach toward North Korea is \"not aimed at hostility\" but rather at \"complete denuclearization.\""
-publishedDateTime: 2021-05-02T18:10:31Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/COSBV0_N108/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/COSBV0_N108/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility"
-ampWebUrl: "https://www.foxnews.com/politics/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility.amp"
+title: "GOP senators to meet with Biden, who's looking for deal on massive spending bill"
+excerpt: "President Biden will court GOP senators next week at the White House in an effort to strike a deal on his spending bill, but Republicans stressed they don't want tax increases on businesses or any liberal \"wish list\" items as part of any compromise. "
+publishedDateTime: 2021-05-08T20:12:06Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZWDUURkIkPY/gop-senators-meet-biden-deal-spending-bill"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZWDUURkIkPY/gop-senators-meet-biden-deal-spending-bill"
+ampWebUrl: "https://www.foxnews.com/politics/gop-senators-meet-biden-deal-spending-bill.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-meet-biden-deal-spending-bill.amp"
 type: article
-quality: 169
+quality: 170
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
     width: 340
     height: 340
     isCached: true
@@ -47,19 +47,19 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "GOP senators to meet with Biden, who's looking for deal on massive spending bill"
-    excerpt: "President Biden will court GOP senators next week at the White House in an effort to strike a deal on his spending bill, but Republicans stressed they don't want tax increases on businesses or any liberal \"wish list\" items as part of any compromise. "
-    publishedDateTime: 2021-05-08T20:12:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZWDUURkIkPY/gop-senators-meet-biden-deal-spending-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-meet-biden-deal-spending-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-meet-biden-deal-spending-bill.amp"
+  - title: "Biden approach to North Korea nuclear policy 'not aimed at hostility': White House"
+    excerpt: "National Security Advisor Jake Sullivan responded to rebukes from Pyongyang by affirming that President Biden's approach toward North Korea is \"not aimed at hostility\" but rather at \"complete denuclearization.\""
+    publishedDateTime: 2021-05-02T18:10:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/COSBV0_N108/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -80,6 +80,6 @@ related:
         height: 405
         isCached: true
 
-secured: "V2v6m9AuHAwYFyfHvZP4gr71TfL5HZHufiov75JlFbd9bwBYjouL79ftMXGGdtQ+nXBU3JjqGa/arPVqsiH5ZXNaXnt5PIgzbI2PbvpIQf/T2C9XEPtgqoULT+L9wrqV7ISD6V8Xg9uoQj9P/IFqBVuZwejjButzsqwWv1189R3mtpNP9rUsLrwLemw1XwFAfXpJyaOIeIOenScdnO+TVUcPtH0c0Des2eVLTTagJW66vLQYZgLC8gKQOnbKbxfvIXFP+K06Z02EIdCWwZxMWzGzYdoziPQ/7YeaYCAuxqvbrJAbp36t8I7/AWs1ENi3n75ejvKcMnzHP+HP2tUQFTL5XU8snBd+Z12+gCwA230=;7TqgX4iLkFyga3zRjSq3Ag=="
+secured: "oYpNoIREp5M3dPrKepdfF1JEEKV6iavMjbUeosTjmNSzlPnacLmBHzzdrOtLD75a3KZqKDkN1aHLE1nWfhyZPf2jVgN8EzAO5I6m9kxgfUlvaEfrl8DMejeIPjNpil5hv7ZoaVjfc/IDG0phPoPOwr0cVoWpSGqxvykJ2778xEZ7XBNAM4+/B5oU9kz5W3wa4U8YP9hAg2VLejslv0BiaiEw8u00rEjFE54g/meT7OudcyR3Qitn597QYpsovLt0qG2ZF8ctx5qy8AqOd+TWib1tTSdAYsFanTE9aMqHTZsUgHCh40OXBvBPN85SPgAiAhVbfB8H5rNqCcf+JzASLcrAeDuI8IwjD+i9BH+Be8E=;hS2cE6ZjuiUo08UmD8dGYg=="
 ---
 

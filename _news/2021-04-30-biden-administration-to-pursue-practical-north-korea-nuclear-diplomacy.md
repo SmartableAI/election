@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-admin-practical-north-korea-n
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-practical-north-korea-nuclear-diplomacy.amp"
 type: article
 quality: 174
-heat: 214
+heat: 194
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden approach to North Korea nuclear policy 'not aimed at hostility': White House"
-    excerpt: "National Security Advisor Jake Sullivan responded to rebukes from Pyongyang by affirming that President Biden's approach toward North Korea is \"not aimed at hostility\" but rather at \"complete denuclearization.\""
-    publishedDateTime: 2021-05-02T18:10:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/COSBV0_N108/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Rep. Mast blasts Biden administration for ending vets' Memorial Day motorcycle tradition"
     excerpt: "Rep. Brian Mast, R-Fla., blasted the Biden administration for rescinding a permit for a 30-plus years Memorial Day tradition for veterans that has always been staged in the Pentagon parking lot."
     publishedDateTime: 2021-05-03T17:04:50Z

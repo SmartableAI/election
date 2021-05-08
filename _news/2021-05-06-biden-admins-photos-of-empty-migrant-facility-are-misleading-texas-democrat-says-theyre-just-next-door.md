@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden 'abandoned the rule of law' at border, sending Texas costs soaring, Gov. Abbott says"
-    excerpt: "President Biden has abandoned the rule of law at the U.S.-Mexico border amid the migrant crisis, sending costs for border security soaring in Texas, Gov. Greg Abbott said Sunday."
-    publishedDateTime: 2021-05-02T18:03:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/frpdoh4lwwg/biden-border-crisis-texas-costs-greg-abbott"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-texas-costs-greg-abbott.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-texas-costs-greg-abbott.amp"
+  - title: "Biden administration has spent $3B on migrant facility contracts: report"
+    excerpt: "The Biden administration has reportedly spent $3 billion in contracts to house unaccompanied children at the border – as it continues to deal with a continued influx of migrants coming to the border each day."
+    publishedDateTime: 2021-05-08T21:33:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qsgBBzNOuw/biden-administration-border-migrant-facility-contracts-spending"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-border-migrant-facility-contracts-spending.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-border-migrant-facility-contracts-spending.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713587da-5828-4066-8cb4-999e43da8e19/49429ba3-a486-43e2-8995-c2db8564fb63/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f550adb-2ed6-455f-a2ae-68505d5f7890/5c62bf26-1061-41a5-a638-47043d8946a5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden reacts to weak jobs report, says US 'still digging out of an economic collapse,' but on 'right track'"
+    excerpt: "President Biden on Friday said the country is “still digging out of an economic collapse” amid the coronavirus pandemic, but that the U.S. is on the “right track,” as the administration reported that the economy created 266,000 jobs in April."
+    publishedDateTime: 2021-05-07T16:40:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_-3H8XVoX88/biden-jobs-report-economic-collapse-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-jobs-report-economic-collapse-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-jobs-report-economic-collapse-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "wbxvHII/v3aB1CepV2bJNUSHhzQwlr7vX+4HpvsJCLzJkKfFs2kEO2eKom14q7Gg1Z3Wy+7XBsSQb31BWDO+ofhS0zsc5IA/naQw1H92cVH1xsVUzNfux74aQTb1yJuL1HMPCIAQ5hOY6dlHlVic2Q3O6JDpwlk42+degbYPWPSwZkS37oBxD8T5Kn+XCOoy5wQLE6DosCYepQ4QRO0z+0Fk4xrXBpC2moduO5rY5l378Jg+oA4xXJvtKv++xbArlAGYwu35mXKSEcZTgctfqryjebIh4cFNUa1dIplIEuri9/e3v9/XN+A1FL8PXTNJ3DpFyOGlsgy+kpbsSw3alntnlCKWaXf302aYWLIS26M=;wGj3ufLW6MUJlv9RxpYimg=="
