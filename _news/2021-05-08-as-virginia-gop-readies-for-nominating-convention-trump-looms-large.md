@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Kinzinger goes to Texas in search of anti-Trump Republicans"
-excerpt: "Adam Kinzinger came to Texas this week to hunt unicorns. The Illinois congressman was looking for Republicans who, like him, see former President Donald Trump as a scourge on their party and a threat to democracy."
-publishedDateTime: 2021-04-30T20:21:00Z
-originalUrl: "https://www.chron.com/news/article/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
-webUrl: "https://www.chron.com/news/article/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
-ampWebUrl: "https://www.chron.com/news/amp/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
+title: "As Virginia GOP readies for nominating convention, Trump looms large"
+excerpt: "Republicans will pick their nominees for Virginia governor, lieutenant governor and attorney general Saturday at a novel and unpredictable convention with just one certainty: former president Donald Trump still dominates the GOP in a state where he got walloped."
+publishedDateTime: 2021-05-07T21:32:00Z
+originalUrl: "https://www.washingtonpost.com/local/virginia-politics/virginia-republican-candidates-convention-process/2021/05/07/cc92b834-ad0f-11eb-acd3-24b44a57093a_story.html"
+webUrl: "https://www.washingtonpost.com/local/virginia-politics/virginia-republican-candidates-convention-process/2021/05/07/cc92b834-ad0f-11eb-acd3-24b44a57093a_story.html"
+ampWebUrl: "https://www.washingtonpost.com/local/virginia-politics/virginia-republican-candidates-convention-process/2021/05/07/cc92b834-ad0f-11eb-acd3-24b44a57093a_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/virginia-politics/virginia-republican-candidates-convention-process/2021/05/07/cc92b834-ad0f-11eb-acd3-24b44a57093a_story.html?outputType=amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AOIRYEDTRYI6XBSRNUYJD2WGH4.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -58,22 +62,6 @@ related:
       - url: "https://s.abcnews.com/images/Entertainment/WireAP_31c3a5f964704f5eb205a7f35a3c5fb8_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "As Virginia GOP readies for nominating convention, Trump looms large"
-    excerpt: "Republicans will pick their nominees for Virginia governor, lieutenant governor and attorney general Saturday at a novel and unpredictable convention with just one certainty: former president Donald Trump still dominates the GOP in a state where he got walloped."
-    publishedDateTime: 2021-05-07T21:32:00Z
-    webUrl: "https://www.washingtonpost.com/local/virginia-politics/virginia-republican-candidates-convention-process/2021/05/07/cc92b834-ad0f-11eb-acd3-24b44a57093a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/virginia-politics/virginia-republican-candidates-convention-process/2021/05/07/cc92b834-ad0f-11eb-acd3-24b44a57093a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/virginia-politics/virginia-republican-candidates-convention-process/2021/05/07/cc92b834-ad0f-11eb-acd3-24b44a57093a_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AOIRYEDTRYI6XBSRNUYJD2WGH4.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Ohio GOP calls on Rep. Anthony Gonzalez to resign for impeaching ex-President Trump"
     excerpt: "Rep. Anthony Gonzalez was one of 10 Republicans who voted to impeach Trump for inciting the Jan. 6 attack on the U.S. Capitol."
@@ -120,6 +108,22 @@ related:
       - url: "https://i.insider.com/6088bbba3f0560001881c6f4?width=1200&format=jpeg"
         width: 847
         height: 423
+        isCached: true
+  - title: "Kinzinger goes to Texas in search of anti-Trump Republicans"
+    excerpt: "Adam Kinzinger came to Texas this week to hunt unicorns. The Illinois congressman was looking for Republicans who, like him, see former President Donald Trump as a scourge on their party and a threat to democracy."
+    publishedDateTime: 2021-04-30T20:21:00Z
+    webUrl: "https://www.chron.com/news/article/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Texas-special-election-poses-test-for-anti-Trump-16140850.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Celebrity politicians test voter interest in post-Trump era"
     excerpt: "We just elected an outsider celebrity and it didn’t work out for the country, we didn’t get much done for the country, we all were stressed out all the time.” Jenner, a gold medal-winning decathlete and transgender rights activists perhaps best known for being part of the Kardashian family,"
@@ -190,6 +194,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "lCkg4C/3whv3Y1RavkHv0RlywWQL3b9WjABeSvWvcRaiYjxpj81QL+5eWohdkzDzsXN0xYGG8iBb/16kBlJLl6Y0Dh51ZMFrn6gO5Hoqw9ASvNMOw9aKCUkxoR8piCmzi7RbwxNVCGEc93fKroyyLHUwlCVr4b5JLgaAje/wDa9tpdYpEy4GOIdFN63d+YXljpxTqPGBVtEYICcYDaYUHCtFbR9H+d3KomE8jf4GWmQ1AjayNWS1FYFMlZxsE/t1JV/Jc1sk7d3H2bcFqepzpV3Qk0tuGZ3zLRtIH28e8s/G53dXV/WlqX5pbbBBRmE9h98pqhdxoX3n52qxlIQAtNNrX3VcANS/2URzzVBXTvo=;WgPciEcsQuV+dHN5Sbz+uA=="
+secured: "3h2qJ2fU9r4b6dthpVtFXQ1kIfEUIXRd4ySZ04LKLWmMWlFXqG35C96+UuQAe8L/PisfOOCa7IySqQaTapca3RG6NUE/E4p8AASTkRT/RhE8EwTzjEgv4/ISlX5Eko1uXU+E+Fq96CepJ3ydg5u7BZXMCH0HWhcOdQjoGQCQxPcZecctnkDb3CreAuTUdy2Q7KE1FViFURWCjEPn1wgMToRT92fKSteN6+cejkL2dpbjRKfuPRZSdCnJLYkXxJmv8So9nrxO4CMdVaQo1FVmIb6cbejTK430QuPK+ATiXvBLGB7ATe9KAhideEox9NkUo+mAC2TdlxkWQwzdDIXYRTXXwxczk8mroLe47x5sJew=;JWqW+UQE8AOAo7je6zlIcg=="
 ---
 

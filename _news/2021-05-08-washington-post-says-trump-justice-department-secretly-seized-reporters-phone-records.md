@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Justice Department secretly obtained reporters’ phone records, Washington Post says"
+    excerpt: "The Trump Justice Department secretly seized phone records of three Washington Post reporters who covered the probe into ties between Russia and Trump's 2016 presidential campaign."
+    publishedDateTime: 2021-05-08T07:46:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-05-08/trump-reporter-phone-records-washington-post"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-05-08/trump-reporter-phone-records-washington-post?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-08/trump-reporter-phone-records-washington-post?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 116
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/5b8cc32/2147483647/strip/true/crop/5015x3322+0+0/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F24%2F59%2F6c94dad74b23a340cffe0a4009c2%2Fcongress-equality-act-15761.jpg"
+        width: 320
+        height: 212
+        isCached: true
   - title: "Search warrant for Rudy Giuliani’s records resolved a Justice Department dispute leftover from the Trump administration"
     excerpt: "The question of whether to serve a search warrant for Rudy Giuliani's records simmered inside the Justice Department in the waning months of the Trump administration, dividing officials in New York and Washington and remaining unresolved for a new leadership team to sort out."
     publishedDateTime: 2021-05-01T17:59:00Z

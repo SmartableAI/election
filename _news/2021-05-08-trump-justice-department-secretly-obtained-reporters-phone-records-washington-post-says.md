@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Search warrant for Rudy Giuliani’s records resolved a Justice Department dispute leftover from the Trump administration"
-excerpt: "The question of whether to serve a search warrant for Rudy Giuliani's records simmered inside the Justice Department in the waning months of the Trump administration, dividing officials in New York and Washington and remaining unresolved for a new leadership team to sort out."
-publishedDateTime: 2021-05-01T17:59:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html?outputType=amp"
+title: "Trump Justice Department secretly obtained reporters’ phone records, Washington Post says"
+excerpt: "The Trump Justice Department secretly seized phone records of three Washington Post reporters who covered the probe into ties between Russia and Trump's 2016 presidential campaign."
+publishedDateTime: 2021-05-08T07:46:00Z
+originalUrl: "https://www.latimes.com/politics/story/2021-05-08/trump-reporter-phone-records-washington-post"
+webUrl: "https://www.latimes.com/politics/story/2021-05-08/trump-reporter-phone-records-washington-post"
+ampWebUrl: "https://www.latimes.com/politics/story/2021-05-08/trump-reporter-phone-records-washington-post?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-08/trump-reporter-phone-records-washington-post?_amp=true"
 type: article
-quality: 101
+quality: 116
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: Los Angeles Times
+  domain: latimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/c-Ale6YBxYo5LkKH0F3piP2Xdj4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4ULNT3YHFH66AEJUZPITPRDTPQ.aspx"
-    width: 1200
-    height: 800
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/5b8cc32/2147483647/strip/true/crop/5015x3322+0+0/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F24%2F59%2F6c94dad74b23a340cffe0a4009c2%2Fcongress-equality-act-15761.jpg"
+    width: 320
+    height: 212
     isCached: true
 
 related:
@@ -63,21 +63,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump Justice Department secretly obtained reporters’ phone records, Washington Post says"
-    excerpt: "The Trump Justice Department secretly seized phone records of three Washington Post reporters who covered the probe into ties between Russia and Trump's 2016 presidential campaign."
-    publishedDateTime: 2021-05-08T07:46:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-05-08/trump-reporter-phone-records-washington-post"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-05-08/trump-reporter-phone-records-washington-post?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-08/trump-reporter-phone-records-washington-post?_amp=true"
+  - title: "Search warrant for Rudy Giuliani’s records resolved a Justice Department dispute leftover from the Trump administration"
+    excerpt: "The question of whether to serve a search warrant for Rudy Giuliani's records simmered inside the Justice Department in the waning months of the Trump administration, dividing officials in New York and Washington and remaining unresolved for a new leadership team to sort out."
+    publishedDateTime: 2021-05-01T17:59:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-rudy-giuliani-search-warrant-20210501-cf7dj4hjdrbrvd7yy353ijz6ia-story.html?outputType=amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 116
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/5b8cc32/2147483647/strip/true/crop/5015x3322+0+0/resize/320x212!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F24%2F59%2F6c94dad74b23a340cffe0a4009c2%2Fcongress-equality-act-15761.jpg"
-        width: 320
-        height: 212
+      - url: "https://www.chicagotribune.com/resizer/c-Ale6YBxYo5LkKH0F3piP2Xdj4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4ULNT3YHFH66AEJUZPITPRDTPQ.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump Administration Obtained Phone Records Of Journalists: Washington Post"
     excerpt: "The Trump administration secretly obtained the phone records of Washington Post journalists who reported on allegations of Russian meddling in the 2016 election, the newspaper reported Friday, prompting concerns over freedom of speech."
@@ -105,6 +105,6 @@ related:
       domain: usnews.com
     quality: 52
 
-secured: "ZDvTuWJkjRZfw70C9n/oQwxAJcO3+WZxl93RvytzbuXXyu4qJaJnfM+zsG2mtcgGk0YD2TKZSNK1rHotlsJyeeaY8hiwXGmLXfCNSfTVnQZGq9NndFhPrQQ5OSw6mJ/LVx8gMOL3B48aAxj1gweTBO/ZZLondDwue5lrR8hXOgZuvvzjUCQFHz3uqwemfSURoUkP4dQPbshd+kZC4uXvMhw/7/lpgcXHJabeNlRC2/eGZPSaI//od8ZJI3r5qpGFu5tZSSpuS9PUYRWgjp7u3Q3iNY2ndFUZOCMouQklWFjb0UVdtpYUWCjPFWf39SHgfTt10BcCKhde6ydYU6UINDAXrpIyFlq25FuTmLhQxtU8qmvZbx8GYrqvd52WWPzouktf3sdSiPmvHLIn6VEnkj1Y8lbMtk+5eKlmZ9cZUa5rPgO46KCG9rkh/MC290rKqwMfAXH6o5mrtyOipeUr3ebjIx8hzyDePeSyaOev+5Bi2/YPKiNus0lkccPNkvN8OzEwLs0f+SFhvMAodIfmWg==;l1SDi8p95GIceUQWyZQYCQ=="
+secured: "alzAB9KIDmgJqH8k6rNhRX6ksFBTYSFOIDukqB396/X445y7/iTlBNewdN9eaPRqQNcpjXtJJy4caXsgdNLQ3tgKhmwcACqZRiAxHO8S+skfdlvuVYqIsY+jQRGH5foS+TlZXFKiqKDztibjxTDpi0n6ibYd/GQe1dkpIIftO3PANzQl/yY6Fam1128rA2XJ65/dy6yxR2fYRkel8puzJgnYG9YpbDJ+43rfAKWrOnf2MfjGXqG08LZWsGR+MLUy+p9I1xQ1LkNjeMuWPIJoHFc/9DvMSWb33O1pNamWnNHe2l2jEWPmfv/gQVUP8BIooJIr90W56wU+e+8rq0I1WqZBSRTA1emPjq/39/eZ4Nw=;JO4RRg4qVrjGi5LUm0RjqQ=="
 ---
 

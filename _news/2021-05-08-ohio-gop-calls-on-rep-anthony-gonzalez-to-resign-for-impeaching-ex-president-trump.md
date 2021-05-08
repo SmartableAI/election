@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "As Virginia GOP readies for nominating convention, Trump looms large"
+    excerpt: "Republicans will pick their nominees for Virginia governor, lieutenant governor and attorney general Saturday at a novel and unpredictable convention with just one certainty: former president Donald Trump still dominates the GOP in a state where he got walloped."
+    publishedDateTime: 2021-05-07T21:32:00Z
+    webUrl: "https://www.washingtonpost.com/local/virginia-politics/virginia-republican-candidates-convention-process/2021/05/07/cc92b834-ad0f-11eb-acd3-24b44a57093a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/virginia-politics/virginia-republican-candidates-convention-process/2021/05/07/cc92b834-ad0f-11eb-acd3-24b44a57093a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/virginia-politics/virginia-republican-candidates-convention-process/2021/05/07/cc92b834-ad0f-11eb-acd3-24b44a57093a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AOIRYEDTRYI6XBSRNUYJD2WGH4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Donald Trump Claims His Susan Wright Endorsement Shut Democrats Out of Texas House Race"
     excerpt: "\"It would be nice, however, if the pundits and Fake News Media would state the real reason for this unprecedented (Democrats have never been shut out before) victory!\" Trump said."
     publishedDateTime: 2021-05-03T19:50:00Z

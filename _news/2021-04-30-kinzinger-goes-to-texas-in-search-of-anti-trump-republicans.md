@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/texas-special-election-poses
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/texas-special-election-poses-test-for-anti-trump-republicans/2021/04/30/38dd9c6c-a96d-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Entertainment/WireAP_31c3a5f964704f5eb205a7f35a3c5fb8_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "As Virginia GOP readies for nominating convention, Trump looms large"
+    excerpt: "Republicans will pick their nominees for Virginia governor, lieutenant governor and attorney general Saturday at a novel and unpredictable convention with just one certainty: former president Donald Trump still dominates the GOP in a state where he got walloped."
+    publishedDateTime: 2021-05-07T21:32:00Z
+    webUrl: "https://www.washingtonpost.com/local/virginia-politics/virginia-republican-candidates-convention-process/2021/05/07/cc92b834-ad0f-11eb-acd3-24b44a57093a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/virginia-politics/virginia-republican-candidates-convention-process/2021/05/07/cc92b834-ad0f-11eb-acd3-24b44a57093a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/virginia-politics/virginia-republican-candidates-convention-process/2021/05/07/cc92b834-ad0f-11eb-acd3-24b44a57093a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AOIRYEDTRYI6XBSRNUYJD2WGH4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Ohio GOP calls on Rep. Anthony Gonzalez to resign for impeaching ex-President Trump"
     excerpt: "Rep. Anthony Gonzalez was one of 10 Republicans who voted to impeach Trump for inciting the Jan. 6 attack on the U.S. Capitol."
