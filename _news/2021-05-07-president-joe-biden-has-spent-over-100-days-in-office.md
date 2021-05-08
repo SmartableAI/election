@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Biden Touts Relief Funds for Restaurants Hit by Pandemic"
-excerpt: "President Joe Biden visited a Washington restaurant owned in part by Mexican immigrants on Wednesday to highlight $28.6 billion in federal aid for restaurants that struggled during the pandemic."
-publishedDateTime: 2021-05-05T15:20:00Z
-originalUrl: "https://www.washingtonpost.com/business/on-small-business/biden-touts-relief-funds-for-restaurants-hit-by-pandemic/2021/05/05/e332c45e-adbd-11eb-82c1-896aca955bb9_story.html"
-webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-touts-relief-funds-for-restaurants-hit-by-pandemic/2021/05/05/e332c45e-adbd-11eb-82c1-896aca955bb9_story.html"
+title: "President Joe Biden has spent over 100 days in office."
+excerpt: "Biden rejoined the Paris Agreement on climate change in January, overturning Trump’s decision to remove the U.S. from the accord. Last week, Biden announced a target of a 50% to"
+publishedDateTime: 2021-05-06T22:19:00Z
+originalUrl: "https://www.usatoday.com/web-stories/how-biden-has-spent-his-first-100-days-in-office/"
+webUrl: "https://www.usatoday.com/web-stories/how-biden-has-spent-his-first-100-days-in-office/"
+ampWebUrl: "https://www.usatoday.com/web-stories/how-biden-has-spent-his-first-100-days-in-office/"
+cdnAmpWebUrl: "https://www-usatoday-com.cdn.ampproject.org/c/s/www.usatoday.com/web-stories/how-biden-has-spent-his-first-100-days-in-office/"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://transform.nws.ai/https%3A%2F%2Fcdn.thenewsroom.io%2Fplatform%2Fstory_media%2F1288794426%2Fb1.png/fill/300/300/"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -989,22 +991,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "President Joe Biden has spent over 100 days in office."
-    excerpt: "Biden rejoined the Paris Agreement on climate change in January, overturning Trump’s decision to remove the U.S. from the accord. Last week, Biden announced a target of a 50% to"
-    publishedDateTime: 2021-05-06T22:19:00Z
-    webUrl: "https://www.usatoday.com/web-stories/how-biden-has-spent-his-first-100-days-in-office/"
-    ampWebUrl: "https://www.usatoday.com/web-stories/how-biden-has-spent-his-first-100-days-in-office/"
-    cdnAmpWebUrl: "https://www-usatoday-com.cdn.ampproject.org/c/s/www.usatoday.com/web-stories/how-biden-has-spent-his-first-100-days-in-office/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://transform.nws.ai/https%3A%2F%2Fcdn.thenewsroom.io%2Fplatform%2Fstory_media%2F1288794426%2Fb1.png/fill/300/300/"
-        width: 300
-        height: 300
-        isCached: true
   - title: "US drops Trump plan for more biometric data on immigrants"
     excerpt: "The Biden administration has withdrawn a Trump-era proposal to expand the amount and types of biometric data collected by U.S. immigration authorities"
     publishedDateTime: 2021-05-07T17:17:00Z
@@ -1387,6 +1373,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Biden Touts Relief Funds for Restaurants Hit by Pandemic"
+    excerpt: "President Joe Biden visited a Washington restaurant owned in part by Mexican immigrants on Wednesday to highlight $28.6 billion in federal aid for restaurants that struggled during the pandemic."
+    publishedDateTime: 2021-05-05T15:20:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-touts-relief-funds-for-restaurants-hit-by-pandemic/2021/05/05/e332c45e-adbd-11eb-82c1-896aca955bb9_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden focuses on restaurants hit by pandemic"
     excerpt: "Highlighting his administration’s $28.6 billion program to help eateries that lost business because of the coronavirus pandemic, President Joe Biden insists his Restaurant Revitalization Fund \"is about a seat at the table,"
     publishedDateTime: 2021-05-05T20:21:00Z
@@ -1796,6 +1796,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "egU4Y3EIIhLT7mbBABwFk5gGbFOL3e6LAEf0C0VIIM8lqZcvtAOAj3hZuRz/j14jZKX4T0D3yGj6Wlx1pS3pvaBXZ7ISJweaAg8OGqw93CpzeqehBOIQMMsS2eMmc/oL7TqlUEVtvtiJHOFVRrNmOU4b7E/ZNpzq9iCFzi6rxo710e/xlUDnNwV0RpKpNGeSLcWHVP7gRlaZLgca5YCZchuPJCERRY12eSkhgajkyLe2HCbZ8dtuZLuLuG9Ks989A8K5hdo35SvjW4o+7NqAhqoQrQzpBX93uKUDOU1JRt7wOu6zVP/+SK284Ko4xLkNFAOu3Xi0lBTY0ESrPG6VrSKzuxj9SslLHkEYW7SlLLs=;8uwZ00EzxcDHV6+yt3DWqA=="
+secured: "QLhEq22flEUe7bMSa3ZBsvQAGHx5SVpdf8GUQBl7PxLmdfh6O3dr00/tZIRWwlVR1ZSbZk5tiNyYg+UkNmRGbH8R/c7sLbmJu+kCJADnusvSEAJXdSuN0aHLRVBMko8UbopCFWZ2L6QwEp4ycGHroguZlTfMp8UwbSgIg4xYZ9ri7DthlUEacSkUZ+WSJrNJn307Hs6HukZYBCUqH0oEDwsBpxSff7lbh/k2SPhHxiK0E7BHFJjxK9BW3Nn1HA93/zDrCW7utBtIRJ7xEcwV565Q3jPY7hu/2oZtunmOeAgQS+W4203o//Whr048asi0Op0c/sAJfnA1ZElGVZRVT2mSfjxucoU6yXEN8lI0x9o=;BqOUD+OrNWW2dMjukWVvHA=="
 ---
 

@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Justice Department Seized Reporters’ Phone Records In ‘Authoritarian’ Move"
+    excerpt: "Three Washington Post reporters became the subject of an investigation by Donald Trump’s Justice Department after reporting on his administration’s alleged ties with Russia during the 2016 election."
+    publishedDateTime: 2021-05-08T15:41:00Z
+    webUrl: "https://www.ibtimes.com/trump-justice-department-seized-reporters-phone-records-authoritarian-move-3195392"
+    ampWebUrl: "https://www.ibtimes.com/trump-justice-department-seized-reporters-phone-records-authoritarian-move-3195392?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-justice-department-seized-reporters-phone-records-authoritarian-move-3195392?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/07/us-intelligence-believes-that-russia-meddles-in-the.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Trump Administration Obtained Phone Records Of Journalists: Washington Post"
     excerpt: "The Trump administration secretly obtained the phone records of Washington Post journalists who reported on allegations of Russian meddling in the 2016 election, the newspaper reported Friday, prompting concerns over freedom of speech."
     publishedDateTime: 2021-05-08T03:12:00Z

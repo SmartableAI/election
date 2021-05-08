@@ -991,6 +991,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "President Joe Biden has spent over 100 days in office."
+    excerpt: "Biden rejoined the Paris Agreement on climate change in January, overturning Trump’s decision to remove the U.S. from the accord. Last week, Biden announced a target of a 50% to"
+    publishedDateTime: 2021-05-06T22:19:00Z
+    webUrl: "https://www.usatoday.com/web-stories/how-biden-has-spent-his-first-100-days-in-office/"
+    ampWebUrl: "https://www.usatoday.com/web-stories/how-biden-has-spent-his-first-100-days-in-office/"
+    cdnAmpWebUrl: "https://www-usatoday-com.cdn.ampproject.org/c/s/www.usatoday.com/web-stories/how-biden-has-spent-his-first-100-days-in-office/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://transform.nws.ai/https%3A%2F%2Fcdn.thenewsroom.io%2Fplatform%2Fstory_media%2F1288794426%2Fb1.png/fill/300/300/"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Weak jobs report could spur, slow Biden's huge money package"
     excerpt: "President Joe Biden's promised economic comeback hit a speed bump Friday with the April jobs report, which found modest job gains of 266,000 that complicated his $4 trillion push on infrastructure, education and children."
     publishedDateTime: 2021-05-07T18:30:00Z

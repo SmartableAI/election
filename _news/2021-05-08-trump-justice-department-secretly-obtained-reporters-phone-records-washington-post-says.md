@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Justice Department Seized Reporters’ Phone Records In ‘Authoritarian’ Move"
+    excerpt: "Three Washington Post reporters became the subject of an investigation by Donald Trump’s Justice Department after reporting on his administration’s alleged ties with Russia during the 2016 election."
+    publishedDateTime: 2021-05-08T15:41:00Z
+    webUrl: "https://www.ibtimes.com/trump-justice-department-seized-reporters-phone-records-authoritarian-move-3195392"
+    ampWebUrl: "https://www.ibtimes.com/trump-justice-department-seized-reporters-phone-records-authoritarian-move-3195392?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-justice-department-seized-reporters-phone-records-authoritarian-move-3195392?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/07/us-intelligence-believes-that-russia-meddles-in-the.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Trump Administration Obtained Phone Records Of Journalists: Washington Post"
     excerpt: "The Trump administration secretly obtained the phone records of Washington Post journalists who reported on allegations of Russian meddling in the 2016 election, the newspaper reported Friday, prompting concerns over freedom of speech."
     publishedDateTime: 2021-05-08T03:12:00Z
@@ -105,6 +121,6 @@ related:
       domain: usnews.com
     quality: 52
 
-secured: "alzAB9KIDmgJqH8k6rNhRX6ksFBTYSFOIDukqB396/X445y7/iTlBNewdN9eaPRqQNcpjXtJJy4caXsgdNLQ3tgKhmwcACqZRiAxHO8S+skfdlvuVYqIsY+jQRGH5foS+TlZXFKiqKDztibjxTDpi0n6ibYd/GQe1dkpIIftO3PANzQl/yY6Fam1128rA2XJ65/dy6yxR2fYRkel8puzJgnYG9YpbDJ+43rfAKWrOnf2MfjGXqG08LZWsGR+MLUy+p9I1xQ1LkNjeMuWPIJoHFc/9DvMSWb33O1pNamWnNHe2l2jEWPmfv/gQVUP8BIooJIr90W56wU+e+8rq0I1WqZBSRTA1emPjq/39/eZ4Nw=;JO4RRg4qVrjGi5LUm0RjqQ=="
+secured: "ZCKXYGAX2ln11oYAHw79NYRy+UwIlRUXdrhTEUrSSYrMFB5W3BgfipSsG7+EQrNuI++4elNFzkhfDb1/nzt0/zZ+6JlB7WOrY86KGWSuIYewomtB0xS2QJMhbu/rZiiiNTdVICGwY+M6glkPQ/E+oXawgVJKxE3GwuHDtNCFvnIR2Kdil+2KPW7hBT+FdUyyMbfty8q4gQeZVPA1PhrprpDkT0tTx09vHqh3doeR8idGiUR/zxwGv8ICa8tN+eFteK1Q+xbUw0Tw38UmbcQ0mcZoeBUpwnSszFGMg2GL8wXpnsJq6OW3lgKoLZ6KnYmINAxGhTToQpKa1E3m2yg1fdyrup6fokBheFsb4eJR/PbfZzweM/dm4E6vHs54zhzItaJWVOgiGDdFni/yi+8kZmMNqj+58235eifJHNeOrWUc9Q8Nz9WkwBrNXD/iwUiSuQNm13qEG6cBfXxFSVmDJmegHGWGtZ+VznhhZk2ceES0gBTw8tuf8DIwS588/EaqS5xKQMbKdAMngjq1g4iW8A==;JsLgt/k4rJ4XT23fC30V4A=="
 ---
 

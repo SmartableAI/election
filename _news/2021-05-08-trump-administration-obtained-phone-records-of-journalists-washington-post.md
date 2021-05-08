@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Justice Department Seized Reporters’ Phone Records In ‘Authoritarian’ Move"
+    excerpt: "Three Washington Post reporters became the subject of an investigation by Donald Trump’s Justice Department after reporting on his administration’s alleged ties with Russia during the 2016 election."
+    publishedDateTime: 2021-05-08T15:41:00Z
+    webUrl: "https://www.ibtimes.com/trump-justice-department-seized-reporters-phone-records-authoritarian-move-3195392"
+    ampWebUrl: "https://www.ibtimes.com/trump-justice-department-seized-reporters-phone-records-authoritarian-move-3195392?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-justice-department-seized-reporters-phone-records-authoritarian-move-3195392?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/07/us-intelligence-believes-that-russia-meddles-in-the.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Special Report: How Trump Scored a Big Tax Break for Conserving a Golf Range"
     excerpt: "Trump eventually abandoned a plan to build 16 homes and turned instead to the tax code to offset the lost profits - securing a $25 million tax deduction in exchange for a promise not to develop the land."
     publishedDateTime: 2021-04-30T12:06:00Z
