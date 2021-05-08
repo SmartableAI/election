@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4997276001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4997276001"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Administration Obtained Phone Records Of Journalists: Washington Post"
+    excerpt: "The Trump administration secretly obtained the phone records of Washington Post journalists who reported on allegations of Russian meddling in the 2016 election, the newspaper reported Friday, prompting concerns over freedom of speech."
+    publishedDateTime: 2021-05-08T03:12:00Z
+    webUrl: "https://www.ibtimes.com/trump-administration-obtained-phone-records-journalists-washington-post-3195258"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 53
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/07/us-intelligence-believes-that-russia-meddles-in-the.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Special Report: How Trump Scored a Big Tax Break for Conserving a Golf Range"
     excerpt: "Trump eventually abandoned a plan to build 16 homes and turned instead to the tax code to offset the lost profits - securing a $25 million tax deduction in exchange for a promise not to develop the land."
     publishedDateTime: 2021-04-30T12:06:00Z
@@ -75,6 +89,6 @@ related:
       domain: usnews.com
     quality: 52
 
-secured: "e3+vYDqCqJNSC1BfbH191QSxk51Ss4T3n4gKHd4Bhivyf4Xk7YD5Yzx2TOUttR9hjHDmuEPLQ7NA3brAsh7yUqrzc2z6sqqQqPHRD/cooauD/3fKxSSvX/XaVpIP/f0h6H1pXoiIxj563nXf8y4Vv6U2S6Xil4jS7koRRg04ge98s6XDRCR0Y8ATasTB7OjIDICeQ0ahItY88mJmtG9GsWaAbC5XyQjzfzHJfdI3AbOhBGkYB6rPR5cQwnNlEDC1D07JDaJpf203FO+XRhxOrYZXusEwPixxebJYp1qQ/EO/LLAoi0vs4OTDcbHqAl70m0J9n13CwggdBzHYFT/iDVPOKNY6WZvwSXN67y1Jg8aexrmPkGPu90b/FnCp5Qqx/YHbWsi9zma1OfSdPZuy4/mHmznG4hgTyCoaCFQVHLVU/p340MZ0GTKR0RLS70DlFc7+s+GEloUmQ3dEIPFGQbOwV+Qn+vksAUT/IfDZihWQovDMYFv9SB+xMnu3tg8nuhH0f0PmkjElmqz6QzWnPQ==;zxoUnuBR3lRQQlCl59ZZjw=="
+secured: "QOzTEBDGg5TmFegvB0o/6oO3bAKrrRNi9TC0gQM+6P0ZH6hReRzzV2R9/IWWdUFxsggKB/pYqSm61uuAoTe3WqkdBYWPOgXM7Ceb/6bc5Hw24X1MQPOy1/hrbC5nuvdqZhNGd8GSzxqQEU9BLEeXSh5StrFRD6dLbT4l+v47BxiHXCXfZ4Bz81d0BRQMHn9rZOnAXpsDervj/VZxvbTZut2FIV/hZD8xx7IrCiC7uu8DFLBPH/+psvQDqhiqZJJ3cgsIprXCx+pA1aRV7fB+iudhR0X+2V8jnkHK7MKHE+KPtCYXqpRIonMiEnvXvg9rc1COH0h26oOwxtXwWFrvU1KODJJps1vAAo2gtUWU5lHqiUX8JjTfax4+/C8JXWV2WEOk7XFu9HGQ6/7clupQ9lhjX3JS8aMWLAPWFw0t+dlgE/xCmMFGE5I4iJ9wqlagnjYA0zjZB0xGXgCFWe37vOILrTCNGXTVCIGNqlJf+4BHNBeZQI+D2oPoRHCADYNasjxf5OfFsYL5npDmYq4gPg==;Qowco6TqcUors1TlPyVNyQ=="
 ---
 

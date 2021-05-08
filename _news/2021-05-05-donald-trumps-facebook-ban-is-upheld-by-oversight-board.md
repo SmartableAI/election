@@ -432,6 +432,20 @@ related:
         width: 1046
         height: 784
         isCached: true
+  - title: "Facebook Should Make Trump's Ban Permanent"
+    excerpt: "Facebook's Oversight Board has upheld the site's decision to restrict former President Donald Trump's access to posting content on his Facebook page and Instagram account, given that \"the risks of allowing President Trump to continue to use our service during this period are simply too great."
+    publishedDateTime: 2021-05-07T18:42:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/07/facebook_should_make_trumps_ban_permanent_542231.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/46/461893_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "czojQIhXwtrrrAMUMcWsfQ/xqglcfrWaTsjb/M8EEFkFjmhvhLlZUWZ2mf3sY4wDl5Y/EVPL3WUuEpZXLpaMDE1WaHDMqK52W27Qo12LyQ3kjvXVmGMWXWFyuGjxXFLIUATQ5Fng1Il7un3gG8n8l8BqQ6IMFdOh/0lVKsDdYesEO/F2bPdHsBmYIPotZ7DoAibeZFIoGHJvMhOJHyUhoQwnUy3KuwSg6lY5i6+acgQxK6bffgtaMEp7YwPdZ6W8D3OK5IbM18x1WuE0hbfChljGPUMJCla6qWQUamANxeT0qTOhCvQaCdrrDTFtLUMGw6qSVk8O09yub+yGDyVLzPWzCwoynX6HF8Y6C5h19lc=;kuxtdEHShy92IhGkdVyUUQ=="
 ---

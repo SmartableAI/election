@@ -1,20 +1,18 @@
 ---
 category: news
-title: "Trump claims he would be on Mount Rushmore if he were a Democrat"
-excerpt: "Former President Donald Trump on Wednesday claimed that his face would be added to Mount Rushmore if he were a Democrat. Trump’s allies have long flattered him with the idea that his"
-publishedDateTime: 2021-04-28T18:37:00Z
-originalUrl: "https://nypost.com/2021/04/28/trump-claims-hed-be-on-mount-rushmore-if-he-were-a-democrat/"
-webUrl: "https://nypost.com/2021/04/28/trump-claims-hed-be-on-mount-rushmore-if-he-were-a-democrat/"
-ampWebUrl: "https://nypost.com/2021/04/28/trump-claims-hed-be-on-mount-rushmore-if-he-were-a-democrat/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/28/trump-claims-hed-be-on-mount-rushmore-if-he-were-a-democrat/amp/"
+title: "Facebook Should Make Trump's Ban Permanent"
+excerpt: "Facebook's Oversight Board has upheld the site's decision to restrict former President Donald Trump's access to posting content on his Facebook page and Instagram account, given that \"the risks of allowing President Trump to continue to use our service during this period are simply too great."
+publishedDateTime: 2021-05-07T18:42:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/05/07/facebook_should_make_trumps_ban_permanent_542231.html"
+webUrl: "https://www.realclearpolitics.com/2021/05/07/facebook_should_make_trumps_ban_permanent_542231.html"
 type: article
-quality: 135
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
@@ -22,9 +20,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-rushmore-dem-01.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://assets.realclear.com/images/46/461893_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -252,6 +250,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump claims he would be on Mount Rushmore if he were a Democrat"
+    excerpt: "Former President Donald Trump on Wednesday claimed that his face would be added to Mount Rushmore if he were a Democrat. Trump’s allies have long flattered him with the idea that his"
+    publishedDateTime: 2021-04-28T18:37:00Z
+    webUrl: "https://nypost.com/2021/04/28/trump-claims-hed-be-on-mount-rushmore-if-he-were-a-democrat/"
+    ampWebUrl: "https://nypost.com/2021/04/28/trump-claims-hed-be-on-mount-rushmore-if-he-were-a-democrat/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/28/trump-claims-hed-be-on-mount-rushmore-if-he-were-a-democrat/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-rushmore-dem-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facebook oversight board to reveal decision on Trump ban on Wednesday"
     excerpt: "Facebook’s “Oversight Board” said Monday that its decision on whether to keep former US President Donald Trump blocked from its social media platforms will come Wednesday."
     publishedDateTime: 2021-05-03T14:45:00Z
@@ -428,21 +442,7 @@ related:
         width: 1046
         height: 784
         isCached: true
-  - title: "Facebook Should Make Trump's Ban Permanent"
-    excerpt: "Facebook's Oversight Board has upheld the site's decision to restrict former President Donald Trump's access to posting content on his Facebook page and Instagram account, given that \"the risks of allowing President Trump to continue to use our service during this period are simply too great."
-    publishedDateTime: 2021-05-07T18:42:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/07/facebook_should_make_trumps_ban_permanent_542231.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/46/461893_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
-secured: "HQplTwgPrq6APz9obpuXf4B4I8uylJZVWk7udlMMHhomiDcwF6AAzozYWLszopaI/62D4/24p+SUlvKrevg6OsRS7onUdu23jWe0yEPmkMAurYci5zO2Ptrrhxk/MaqzoD/V1qGZjgy5yadzqwH0eWc21R6lLybOl2YXWZ6Mm4zJLG4TSBHeYn28ElI+ijUe1HTxK/xaDb47t90+oIYhFVMxz/+1q7fokgLEwMWF1IDHsPHRqrne67tUbjf9Sin5ta2HqnFSFZVWJwBTCEHkK7ahixiY4UkZDSV0Pomq9KmeKsjfTMJ5a2uHCxlxhRS5chbsYqGX7RLxBUZ2wiq6x82An9S5AqbQ06Dlg7PtNqGkrnJy7EJgZb1BdCLcgwA8j9hWdKLjfQ32U3fDFkUJJSbNRPlH+CTfegHo6c5UE5vO2qJpowj9R/9Vj7lV1y0Cwr8pmY24Z4Jbp0K7/pfgOfvSnERA6ymkmLlH5TSSkn251J08xVc6ngw+vmaXinQlsyuEvBBQqCAY7TVqLIKqkg==;hfXDWitCqjr/Ru9lPmKw2w=="
+secured: "wMbYBZ6R0gfY4PAbp0rk8HJ53bihvrQw1+od3Nj7olkQ7bxMNR1cnZV3SANNgPKjPq8ocitjaur/xeJJfw5cz2kFZVs38Ujfy0SEYve3Gid3LKCB714mDSj62nltSgtbOQ08FbdolizueMAtrmf6XqpkVKaDCYOmgekw8zGmHgJrJtAQIjeU+s8VASeSvBi8+vS4x0hroB6IO7F64u9tIv81HPMYBIZs3j+aJ81gErerI+96Tg8pK8ZelO2E35ZS0r4c07Qafd3DzJ3bvoUl5T1Y2Xt47MLBWTcqEH38P2o5rat0n/kz/HGqTM2c48YCgSfK+mp78W2M3dT0uYc0fnU+hfVaz+zOSTk/v00EGOs=;k13qR4aE1rtKWZ6/2nYiPQ=="
 ---
 

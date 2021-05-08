@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Special Report: How Trump Scored a Big Tax Break for Conserving a Golf Range"
-excerpt: "Trump eventually abandoned a plan to build 16 homes and turned instead to the tax code to offset the lost profits - securing a $25 million tax deduction in exchange for a promise not to develop the land."
-publishedDateTime: 2021-04-30T12:06:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
+title: "Trump Administration Obtained Phone Records Of Journalists: Washington Post"
+excerpt: "The Trump administration secretly obtained the phone records of Washington Post journalists who reported on allegations of Russian meddling in the 2016 election, the newspaper reported Friday, prompting concerns over freedom of speech."
+publishedDateTime: 2021-05-08T03:12:00Z
+originalUrl: "https://www.ibtimes.com/trump-administration-obtained-phone-records-journalists-washington-post-3195258"
+webUrl: "https://www.ibtimes.com/trump-administration-obtained-phone-records-journalists-washington-post-3195258"
 type: article
-quality: 52
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/07/us-intelligence-believes-that-russia-meddles-in-the.jpg"
+    width: 1024
+    height: 682
+    isCached: true
 
 related:
   - title: "Washington Post: Trump Justice Department got reporters’ phone records"
@@ -73,21 +77,18 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump Administration Obtained Phone Records Of Journalists: Washington Post"
-    excerpt: "The Trump administration secretly obtained the phone records of Washington Post journalists who reported on allegations of Russian meddling in the 2016 election, the newspaper reported Friday, prompting concerns over freedom of speech."
-    publishedDateTime: 2021-05-08T03:12:00Z
-    webUrl: "https://www.ibtimes.com/trump-administration-obtained-phone-records-journalists-washington-post-3195258"
+  - title: "Special Report: How Trump Scored a Big Tax Break for Conserving a Golf Range"
+    excerpt: "Trump eventually abandoned a plan to build 16 homes and turned instead to the tax code to offset the lost profits - securing a $25 million tax deduction in exchange for a promise not to develop the land."
+    publishedDateTime: 2021-04-30T12:06:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 53
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/07/us-intelligence-believes-that-russia-meddles-in-the.jpg"
-        width: 1024
-        height: 682
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 52
 
-secured: "3pWdevFGRijqxZ5uB0hkYtW5fdwhr+QA1Esrqg5BtCTH3cKIQpv/5umTJJ4SWZSOX7ZnELVj1EwH7XTAvqhtFmJd7mx5FIaoAoPPlo+qfLDwLwZJbqyMg8b6QlIgth2uHXUJZXrFq2rQtCcHbRJJB7r7/8XFWJlNJBEa9OmV/mXPd9telIXrQnCIGhlSwzrFM0HiwnC+nu06aVg9gtcVmNCaFa3ioeFAlwRw87FmVH64p7em0VdUlLtKVqx4WgXWgjkxRsaK8GnduyE2QOqMKK1okg4WRlvwTgP8eo616ImU742r02SkCIqRwUwxMp4KVJIA372wDWAZlHnEe6VFbKW0mxqZuA1MCosJQv8defFYaDk5+Mwcz7EBUe/Ugl3xO5poboQT7GIp/E16hy/XzwY4OmGEpBg5p2HeD2v4fiH7+O5DAbtjDQHRxKhvJ1l1GthlZgEwZFx0ld/wIzqOpxWz829z1M7aKIx2F+p19ajCt6SQ/w71wRrjJ7gyCs3pZ8MMNbOOJszp4CVxsCGrCA==;XZJN/OSxwp/0hrjNDFGqNA=="
+secured: "WUTwuF3bSlxCi6wf6XyISTY7L4m6z3+ZNLU9n2ytsWGGkwMM8VYwcRYuXDrOzF4WrxmTOvIMqDPfWHu6i+4MyAnkcA8yEb9M//+4KXOC8zTtQX163/XSbGlxy8KlwIN+O+lj2gW6w9yQ2MdW2zpX+o7yWfI/bNB8jc7jlquN9Xv12tDm3vBUIW/sKQGC02mIc9FBIoIyGygkJzfnqMDP1mOZmmdVeC0WMz1vGOwI5u37zlPmkifw50THKdxkYgtRgUzbhu4yVWb/9V32+qOTDc3mfpwDHiZus4P3SpAr6YKou674+bwIZqbpJe3FB3+kVnrBdkKtbmBRZGdG/Joelw+SkngLBrutKZW4nLknJ70=;e7Yk2GGVlvcfuz4aAj2WOg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trum
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp"
 type: article
 quality: 175
-heat: 675
+heat: 695
 published: true
 
 provider:
@@ -430,6 +430,20 @@ related:
       - url: "https://assets.realclear.com/images/52/521952.jpg"
         width: 1046
         height: 784
+        isCached: true
+  - title: "Facebook Should Make Trump's Ban Permanent"
+    excerpt: "Facebook's Oversight Board has upheld the site's decision to restrict former President Donald Trump's access to posting content on his Facebook page and Instagram account, given that \"the risks of allowing President Trump to continue to use our service during this period are simply too great."
+    publishedDateTime: 2021-05-07T18:42:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/07/facebook_should_make_trumps_ban_permanent_542231.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/46/461893_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "Nb5O72C/1efY+xOApLidWE2Q71gULXPan6n4ld7hIbWpLBg0Blgm3fGB22LnCNlyPTnI+4jYtG0eNDJxbCrDLJ2igxoV0sU44MxUFJ9HIvIN/HNwWY09O3QtF5yuRQf+WtqqN83Wvm//lnTnvPnkGLtSc7Pj5YPZozw3Xq0FSwkKaVbW3DcHPoGr5SnrQ5iUOZ75gilWEIsQAIrLANO1SL1o8wUE4iTm+bot3NHHdSYUJnaly2XnTFIrcfQJ27t9iWi1SxMIvaC5gADqvmCqaVdEfr2/JOpLQ3nOLMD5YlqLdu03Um+ZHxFhBJJ1Z1wWmgGvMRaWxjjf2BoPkS2AeRgehb7/N3Lcm0Fk5jnv0cU=;+TSjzNvwEQol+H/RUDPvLQ=="
