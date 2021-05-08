@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,36 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507133814-01-joe-biden-0507-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden tries to sell his agenda while Republicans go after their own "
+    excerpt: "President Joe Biden met Republican criticisms of his economic proposals head-on Friday, citing disappointing jobs data as a call to action for more government spending and brushing aside concerns that generous expanded unemployment benefits have kept Americans from returning to work.\n    \n"
+    publishedDateTime: 2021-05-08T04:02:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fbBT6xPcIpM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/08/politics/joe-biden-jobs-numbers-republicans-cheney-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/08/politics/joe-biden-jobs-numbers-republicans-cheney-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fight for $15 minimum wage heats up after Biden's endorsement"
+    excerpt: "After two decades working for Walmart, Cynthia Murray says she only recently saw her pay go above $15 an hour."
+    publishedDateTime: 2021-05-08T13:02:00Z
+    webUrl: "https://www.cnn.com/2021/05/08/business/minimum-wage-biden-walmart/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507161449-minimum-wage-mcdonalds-jan-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

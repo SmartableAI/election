@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Biden's ambitions for the country depend on this key state"
+    excerpt: "When I saw that CNN's Jeff Zeleny was in Arizona covering the senators there, I was a little confused. The next election is more than a year away. Plus, Arizona is currently home to the most distracting and strange sideshow in politics -- an audit of 2020 votes forced by Republicans in the state and"
+    publishedDateTime: 2021-05-08T12:21:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dL_KMhkhHUA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/08/politics/what-matters-arizona/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/08/politics/what-matters-arizona/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507131521-maricopa-county-ballot-recount-0501-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Progressive House members reflect on wins and losses in Biden's first 100 days"
     excerpt: "Progressives in the House were apprehensive when Joe Biden stepped into office -- the President was an unabashedly moderate Democrat and ready to cut deals with Republicans, many of whom he had known longer than some progressive members of Congress had been alive.\n    \n"
     publishedDateTime: 2021-05-01T18:06:28Z

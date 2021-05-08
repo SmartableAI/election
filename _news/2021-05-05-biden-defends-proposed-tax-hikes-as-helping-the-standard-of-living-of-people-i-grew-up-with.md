@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Janet Yellen says critics of Biden's tax hikes are asking the wrong question  "
-    excerpt: "Doctors follow the Hippocratic oath: do no harm. The architects of President Joe Biden's tax increases took a somewhat different approach.\n    \n"
-    publishedDateTime: 2021-05-02T11:06:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ULQQIWvOXv8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/02/politics/janet-yellen-biden-tax-hikes/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/02/politics/janet-yellen-biden-tax-hikes/index.html"
+  - title: "'Doesn't add a single penny': Fact-checking Biden's deficit claims"
+    excerpt: "In the past, Republicans have typically fought the Democrats over concerns spending proposals would expand the deficit and the continually growing national debt. Having weathered those critiques during the Obama years, President Joe Biden's proposals to revitalize the US economy seem designed to circumvent"
+    publishedDateTime: 2021-05-08T13:05:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gEtqLwiFh4E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/08/politics/joe-biden-infrastructure-plans-deficit-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/08/politics/joe-biden-infrastructure-plans-deficit-fact-check/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200113043352-janet-yellen-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'The honeymoon is over': Biden faces tougher tasks ahead as progressives demand more"
-    excerpt: "The era of good feelings enjoyed by President Joe Biden and the Democratic Party's progressive wing will face a stern test of its staying power as the administration pushes forward into the next phases of its big-ticket policy agenda.\n    \n"
-    publishedDateTime: 2021-05-02T00:12:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E5JDO_5vx8I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/joe-biden-100-days-progressives-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/joe-biden-100-days-progressives-analysis/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429104002-01-joe-biden-congress-0428-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210430194109-joe-biden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

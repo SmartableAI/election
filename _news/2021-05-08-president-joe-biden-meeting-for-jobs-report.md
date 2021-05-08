@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Meeting for Jobs Report"
-excerpt: "Energy Secretary Jennifer Granholm (2nd L), Housing and Urban Development Secretary Marcia Fudge (C), Secretary of Transportation Pete Buttigieg (2nd R) and Commerce Secretary Gina Raimondo (R), speak to the media outside of the West Wing of the White House in Washington,"
+excerpt: "Secretary of Transportation Pete Buttigieg, Energy Secretary Jennifer Granholm (2nd L), Housing and Urban Development Secretary Marcia Fudge (C), and Commerce Secretary Gina Raimondo (R), and US Labor Secretary Martin Walsh speak to the media outside of the West Wing of the White House in Washington,"
 publishedDateTime: 2021-05-08T00:20:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/87915cc700ac537a623329edfbb2023f/President-Joe-Biden-Meeting-for-Jobs-Report/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/87915cc700ac537a623329edfbb2023f/President-Joe-Biden-Meeting-for-Jobs-Report/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/7a266e3c68575448241e859887ed7916/President-Joe-Biden-Meeting-for-Jobs-Report/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/7a266e3c68575448241e859887ed7916/President-Joe-Biden-Meeting-for-Jobs-Report/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/87915cc700ac537a623329edfbb2023f/BIDEN-JOBS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/7a266e3c68575448241e859887ed7916/BIDEN-JOBS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1776,6 +1776,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "N45ccLOzlgBmGC75SPV464KP3DIBgDyu9JTtyK+Hbp9eXqmVgGULlIBL15JZdlQ4PqSNPPAAtHnUtAw/5Kz87GiEeWSF37wWQJdEpXg3lijMHCpTvkdV4rpAL9JUStcKgaL2IJRGXRqxu/w20uj4PWJpcjacqg/nNwZyEEO00jOrN4zYBYNFQdNAktA53j9d6PtD/4VNYjEgaSE+OS3cIZxY4W4w3HptuqxNwU5mMU4ytLut7oyxv+NKR0oGmRk4tWAWah1PbnAWXdBOfXN9ijK6DIRG64ykXvib2iClQf9nY7imkP1B1pO5+MTXwh2hVYV4sKZ4e13eHTljtRgoHLC+M/ZEVaCRjbtuf0J1kb0BDNinUy7rbDXQlV2bz/T6Tb7r6kkKNMrimOhNTfvuGoCGe97/dW6TJZoNDUe7oH7yvFqUJEIbSwaCK+LAclYLuXWrJmusbWkpEBhVwosbvNRe1QhQrf7aaSc93y0LJaaP58jDqz/T0gtTwsRA9/C/Q1QhJ/nyXSckAw2se4S1tg==;j1uVPg1zPmiraZgsqzHFTw=="
+secured: "saJpIl4+AEu6E6eeTG0IuGU/F/ITHGh/7dkbZHa406P3lDqqzSZeQwnZkYCW7bHdr3pvJX9G1ugrVW3WFNkFIx1J8fOzpyT6GP8GaWSzfvE4WXXLMN6uW8Tda5E/nhHxWzG0KPITQO92af+Bn7RLEUyiDU1jWrWd59f0ixsy4KMcB1A0AZqkl6l0l0zYiKliRF3GL2vkPs1NAc65N5iKcG6w089AQ/tzZamIoi2DVgEl8yzS80GwiPHZQepBgePIpMz/Psk8fX9XrfWQOOqDrAF5TXL58Md8tooHiO2aKp0r9SrxwFNm4arJzGP5uXgci6en6XTEVzO8ILz+0PMqlU2K2nYOxVMuq0cx5WEoTmc=;vEiHrmA7X8J/b2RRcIhHsw=="
 ---
 

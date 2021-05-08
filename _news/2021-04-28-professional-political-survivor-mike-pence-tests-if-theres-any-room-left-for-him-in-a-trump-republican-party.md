@@ -169,6 +169,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
+  - title: "Ohio Republican Party Censures U.S. Rep. Gonzalez for Voting to Impeach Trump"
+    excerpt: "U.S. Representative Anthony Gonzalez on Friday joined a growing list of lawmakers being censured by state Republican Party officials for voting to impeach former President Donald Trump on a charge of inciting the deadly attack on the U."
+    publishedDateTime: 2021-05-07T20:48:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-07/ohio-republican-party-censures-us-rep-gonzalez-for-voting-to-impeach-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 32
 
 secured: "I6bnJUYBtvtVjo7rfRZwUYzs9JYHn1BVHnCkxUQz6qwMXMf+DaVOQWOZ7Q8M2hVVDzlYEgQX7xvyJwdcFCtufjqeQWChHxBaF0udBagifkab3pT+v6CCurYJ9si8ozOW0tXDbGZxMAPx9VZT8k5+j8MRTRHVsgE9kscrq49L8S71bke2knbeG4XYGjhgc0ZfjjBvsbCY+QYxXH7DQ/Ge8yTdP6lsPvOOnUVHaQ7HHQ2uXx6nmpEqmi/4lbjubCZr1yVPCHJRu4TJCo59FwX2jkLOajFZgpvPpt/nqdWOb71C7PrKLTEa8dioUlTHLOrziDHS3SlGYePF4tPWy3GrbOfRBT/6F5gyIukWHxfrBwM5qLErCAIwAfwmDhoW28si2xQO9z1ipwJ4hGY1tWS+332pytYDsMTDISehkYOfYHBflpKtmJazQwVLmGT8El8zi4/6VCPHnuhrpbMVPvyX/Qmn+SPGtJe0PVBm0XVJLG/jV0O5k6za4CxUqxtXm7WPfPMAAN1z40QI12WDtWhWyA==;auMbA1FszTwT4XO/+9npJg=="
 ---

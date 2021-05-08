@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Liz Cheney is learning the GOP equals Trumpism "
+    excerpt: "The movement to replace Wyoming Rep. Liz Cheney in the House Republican leadership after she voted to impeach former President Donald Trump shouldn't come as a surprise. And the fact that her potential replacement could be the relatively moderate New York Rep. Elise Stefanik should be even less shocking.\n"
+    publishedDateTime: 2021-05-08T13:02:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dLr3FHw2Kn4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/08/politics/liz-cheney-gop-trumpism-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/08/politics/liz-cheney-gop-trumpism-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505064526-01-liz-cheney-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Cheney calls out Trump's latest attempt to promote 'BIG LIE' amid criticism from within her own party"
     excerpt: "Wyoming Rep. Liz Cheney, the No. 3 House Republican, publicly rejected former President Donald Trump's most recent false charge that he would've won the 2020 election if not for \"fraudulent\" votes, her latest rebuke of the former president that has put her at odds with many members of her own party.\n"
     publishedDateTime: 2021-05-03T17:46:33Z

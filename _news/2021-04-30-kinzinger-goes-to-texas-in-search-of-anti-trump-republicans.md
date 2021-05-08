@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/texas-special-election-poses
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/texas-special-election-poses-test-for-anti-trump-republicans/2021/04/30/38dd9c6c-a96d-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -168,6 +168,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
+  - title: "Ohio Republican Party Censures U.S. Rep. Gonzalez for Voting to Impeach Trump"
+    excerpt: "U.S. Representative Anthony Gonzalez on Friday joined a growing list of lawmakers being censured by state Republican Party officials for voting to impeach former President Donald Trump on a charge of inciting the deadly attack on the U."
+    publishedDateTime: 2021-05-07T20:48:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-07/ohio-republican-party-censures-us-rep-gonzalez-for-voting-to-impeach-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 32
 
 secured: "M9kM5+NyLPmuiW7Vqrw8exheFmD1xLVI70uc8k+qEsEohviX0eCXgWzMHyl39W6jZtCB51QDlkqCQWZCGn6KeT4u//zvIkvMJwVB7PE1kImfqKwrs4o7Hv2DWbP3p41ai9jbwLX+KS/36egGpBJXEQSZGowtQXGRYzcyfTY3MbJ0+rZ4zJJlDSosqkxgcI2cf2Z55Ko0yEKNARldePPIQ2rpSl5fnPhXZ4Nsg2pql8uGhCO8tiUViAhJNzKmYbS5F7AX350RRbd6GFIfUrcNa3IXklr1P4vSADxq4Da+FFi9ruxmEx9zIx2EqRuaCySRMvGmjURtSFCH21+dwxpzCCDh8CzEHqz7znQ/0yGVZ7TBxGMlLVHIymU5k44QlIooN/psuJhQOx/rpM/Y5wSq2rJHlStrkRuJvXcnQMMsnwBgGrMA0shlNLrrwaFhtV9uLr+BeJJAqMir+bmjekDGncJ6cJDXKR9cCTKSkdsT5c3Z9G4174xfytwlQwm/wgxR85gjtUzS3+YmN0ygOESZcQ==;vFXOaU0lvWDCfhsVE5fBxQ=="
 ---

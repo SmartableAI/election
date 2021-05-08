@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Liz Cheney is learning the GOP equals Trumpism "
+    excerpt: "The movement to replace Wyoming Rep. Liz Cheney in the House Republican leadership after she voted to impeach former President Donald Trump shouldn't come as a surprise. And the fact that her potential replacement could be the relatively moderate New York Rep. Elise Stefanik should be even less shocking.\n"
+    publishedDateTime: 2021-05-08T13:02:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dLr3FHw2Kn4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/08/politics/liz-cheney-gop-trumpism-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/08/politics/liz-cheney-gop-trumpism-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505064526-01-liz-cheney-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kevin McCarthy and Donald Trump in touch ahead of Liz Cheney's expected ouster"
     excerpt: "Former President Donald Trump is weighing in on the fight to replace Rep. Liz Cheney in the House Republican Party's leadership, blasting Cheney in a new statement and staying in touch with Republicans on Capitol Hill as the effort gets underway.\n    \n"
     publishedDateTime: 2021-05-05T15:15:45Z

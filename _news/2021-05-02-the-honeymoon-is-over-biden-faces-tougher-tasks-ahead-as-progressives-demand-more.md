@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden defends proposed tax hikes as helping 'the standard of living of people I grew up with'"
-    excerpt: "President Joe Biden grew animated on Wednesday while discussing his pitch to increase certain taxes to fund his sweeping spending proposals, saying his plan will not hurt most wealthy Americans and corporations, but will instead help the kind of people he grew up with.\n    \n"
-    publishedDateTime: 2021-05-05T21:28:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l6w257iNAkk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/joe-biden-defends-tax-hikes/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/joe-biden-defends-tax-hikes/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "w1KEJav8hk+CRdDIgtv56YPtMfLGEELlaKUmby/rzSQ5jqi0QyE648S6NMqdW2iAnnCFDifSi2xUVwtcerHw08lzOGvi/iy+EDlbP+9Bj0dEu8p/jAD9QXzaS0oQQopQooJm0pLwFdWM1IC1mrnQLOfSGwFP6MV9jNac/B5kRc5Xe0fEjEMVi+RJhKpoT8paW9pnPFQkyyqZk75n07Lq0XfnkfMsUkrQOmkPkl/NlMY7QNFJ3XUoDQp4kc3yHnok87gQ8sgIzaph6wdrRgU4YwCeilCI22ctUHJeyoBVx+t6CfoB4YRy6sZ1uN4W30lmLgfDIZ/kQA4sqdTOfNoETDSRUeqZQtWCF9F84vAKnc4=;f2rqSlexm0Rj3Zti+d1QTQ=="
 ---

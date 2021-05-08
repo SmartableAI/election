@@ -1738,16 +1738,16 @@ related:
         height: 433
         isCached: true
   - title: "President Joe Biden Meeting for Jobs Report"
-    excerpt: "Energy Secretary Jennifer Granholm (2nd L), Housing and Urban Development Secretary Marcia Fudge (C), Secretary of Transportation Pete Buttigieg (2nd R) and Commerce Secretary Gina Raimondo (R), speak to the media outside of the West Wing of the White House in Washington,"
+    excerpt: "Secretary of Transportation Pete Buttigieg, Energy Secretary Jennifer Granholm (2nd L), Housing and Urban Development Secretary Marcia Fudge (C), and Commerce Secretary Gina Raimondo (R), and US Labor Secretary Martin Walsh speak to the media outside of the West Wing of the White House in Washington,"
     publishedDateTime: 2021-05-08T00:20:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/87915cc700ac537a623329edfbb2023f/President-Joe-Biden-Meeting-for-Jobs-Report/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/7a266e3c68575448241e859887ed7916/President-Joe-Biden-Meeting-for-Jobs-Report/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/87915cc700ac537a623329edfbb2023f/BIDEN-JOBS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/7a266e3c68575448241e859887ed7916/BIDEN-JOBS.jpg"
         width: 650
         height: 433
         isCached: true
