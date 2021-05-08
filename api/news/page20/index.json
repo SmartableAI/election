@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-04-03-more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan.md",
+      "title": "More Raleigh-to-Richmond Amtrak runs proposed in Biden plan",
+      "excerpt": "CHARLOTTE, N.C. — More direct train service between Raleigh and Richmond and passenger service to Asheville and Wilmington are included in Amtrak’s plan for $80 billion in federal funds, proposed as part of President Joe Biden’s $2 trillion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/more-raleigh-to-richmond-amtrak-runs-proposed-in-biden-plan/2021/04/02/cdd7856e-93fe-11eb-aadc-af78701a30ca_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-02T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-tom-homan-slams-outright-lies-by-biden-dhs-secretary-about-border-patrol-agents.md",
       "title": "Tom Homan slams 'outright lies' by Biden, DHS secretary about Border Patrol agents",
       "excerpt": "Fox News contributor and former acting ICE director Tom Homan told \"America's Newsroom\" Friday that Border Patrol agents \"deserve better\" treatment than what the Biden administration is doing for them during the migrant surge at the southern border.",
@@ -1305,59 +1357,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-donald-trump-fans-say-mike-pence-betraying-him-with-potential-2024-run.md",
-      "title": "Donald Trump Fans Say Mike Pence 'Betraying' Him With Potential 2024 Run",
-      "excerpt": "Some prominent pro-Trump social media users have offered harsh criticism of former Vice President Mike Pence amid suggestions that the Republican may be looking at a presidential run in 2024. Though former President Donald Trump remains the favorite to win ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393",
-      "originalUrl": "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 509,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1768451/former-vice-president-pence-karen-pence.jpg",
-          "width": 2037,
-          "height": 1358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-mike-pence-betrayal-2024-election-1580393?amp=1",
-      "publishedDateTime": "2021-04-01T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
       ]
     }
   ],

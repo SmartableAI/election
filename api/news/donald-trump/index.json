@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-08-marooned-at-mar-a-lago-trump-still-has-iron-grip-on-republicans.md",
+      "title": "Marooned at Mar-a-Lago, Trump Still Has Iron Grip on Republicans",
+      "excerpt": "The vilification of Liz Cheney and a bizarre vote recount in Arizona showed the damage from his assault on a bedrock of democracy: election integrity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/05/08/us/politics/trump-republicans-liz-cheney.html",
+      "originalUrl": "https://www.nytimes.com/2021/05/08/us/politics/trump-republicans-liz-cheney.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/05/08/us/politics/08gop-memo1/08gop-memo1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/05/08/us/politics/trump-republicans-liz-cheney.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/08/us/politics/trump-republicans-liz-cheney.amp.html",
+      "publishedDateTime": "2021-05-08T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-08-bill-maher-desantis-could-run-in-2024-without-trumps-blessing-but-its-a-risky-move.md",
       "title": "Bill Maher: DeSantis could run in 2024 without Trump's 'blessing' -- but it's a risky move",
       "excerpt": "\"Real Time\" host Bill Maher wondered if Republican Florida Gov. Ron DeSantis will run for president in 2024 -- regardless of whether he receives former President Trump's \"blessing.\"",
@@ -1513,58 +1570,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-cheney-wishful-thinking-by-trump-she-wont-seek-4th-term.md",
-      "title": "Cheney: 'Wishful thinking' by Trump she won't seek 4th term",
-      "excerpt": "Liz Cheney calls speculation by former President Donald Trump that she won’t seek re-election next year “wishful thinking.”",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/cheney-wishful-thinking-trump-seek-4th-term-77379316",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/cheney-wishful-thinking-trump-seek-4th-term-77379316",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_e1b55afc1f3c47869a997474e6fdc028_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/cheney-wishful-thinking-trump-seek-4th-term-77379316",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/cheney-wishful-thinking-trump-seek-4th-term-77379316",
-      "publishedDateTime": "2021-04-28T16:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Departs White House for Camp David"
-excerpt: "President Joe Biden walks to Marine One helicopter en route to Camp David from the Ellipse near the White House in Washington, DC on Friday, May 7, 2021. Photo by Tasos Katopodis/UPI"
+excerpt: "Marine One helicopter with President Joe Biden takes off to Camp David from the Ellipse near the White House in Washington, DC on Friday, May 18, 2021. Photo by Tasos Katopodis/UPI"
 publishedDateTime: 2021-05-08T00:21:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/d94083901f23f4e7b7a6c077b33009ad/President-Joe-Biden-Departs-White-House-for-Camp-David/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/d94083901f23f4e7b7a6c077b33009ad/President-Joe-Biden-Departs-White-House-for-Camp-David/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/b075ca896fb1ba7c7c0c126b4bf73856/President-Joe-Biden-Departs-White-House-for-Camp-David/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/b075ca896fb1ba7c7c0c126b4bf73856/President-Joe-Biden-Departs-White-House-for-Camp-David/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/d94083901f23f4e7b7a6c077b33009ad/BIDEN-CAMP-DAVID.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/b075ca896fb1ba7c7c0c126b4bf73856/BIDEN-CAMP-DAVID.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1776,6 +1776,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "oRUhL+F7hyzAsA93IwrZHkOIVyy2WdGE33kEoDXfJ5hHhnN3kJ5arnYz2lUFivXtPFaqlCfodgQfpDIwCO7Ndz9fyoZAF3Y/YbPXCJl3LW1vPt9omBU0dlJ00bPlHubpSJ5UADw0bucBhHTgy3HT29jvv99qy8HyPjgFekSC+MXT40Q90S9KerFXaBw3gfZyZEIXo0ok5c7iJIKsj9vcvOxP17860jaJSYpRiwMjF3+Mh/UfrcgU29cZFF+F1UU8nUqzeq0ha7jPMRlbGD1nZFKo63YEbB0y6Gfy3spD4MlMnHUhykpJz38STOeQuPBRGamvZgTC6fufQYfG6iLqtpAfIYQbKfrFZhEdGMSxNj8=;4IfmoPAX0H0SAnsXU2ETRQ=="
+secured: "38SNjCFZnORn4y49rxLwtJSPUaxTVxB2POAuuqhCiX6ujILKynDgWxfqH/nO9GPd6vBHKhSPznn7Gr67Ym1Kv4GO1DNuChQlx6/5dCGN2IDYMIE4WHP8pykW2PK0EcPGsxywO/tfMh0eqA/UTYk2gPfQgqMu5D+Pz5q6++XPvQKm1baCVxC9n4qVbqiKtAr2MauFHrs6i5TjPFDPhy/sjJ0i2i6wRablIhLz9X+eKg9lQ1Jv95ilUy6ZKHax4smwe4pJ6Kj94f9R3GmcYlC3VZLRhSGkSoJd5eyinDMsd+BtvXhmd6oDmNV4bPoSzwfCDV7Jr/78HIoVd3I9GDpsQ7lZOhT7y/RXcCNiE7GnsSA=;bUK08lUPLM+1nLafYTHA1Q=="
 ---
 

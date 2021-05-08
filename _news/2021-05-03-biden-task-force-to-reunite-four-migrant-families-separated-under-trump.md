@@ -1715,16 +1715,16 @@ related:
         height: 705
         isCached: true
   - title: "President Joe Biden Departs White House for Camp David"
-    excerpt: "President Joe Biden walks to Marine One helicopter en route to Camp David from the Ellipse near the White House in Washington, DC on Friday, May 7, 2021. Photo by Tasos Katopodis/UPI"
+    excerpt: "Marine One helicopter with President Joe Biden takes off to Camp David from the Ellipse near the White House in Washington, DC on Friday, May 18, 2021. Photo by Tasos Katopodis/UPI"
     publishedDateTime: 2021-05-08T00:21:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/d94083901f23f4e7b7a6c077b33009ad/President-Joe-Biden-Departs-White-House-for-Camp-David/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b075ca896fb1ba7c7c0c126b4bf73856/President-Joe-Biden-Departs-White-House-for-Camp-David/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/d94083901f23f4e7b7a6c077b33009ad/BIDEN-CAMP-DAVID.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/b075ca896fb1ba7c7c0c126b4bf73856/BIDEN-CAMP-DAVID.jpg"
         width: 650
         height: 433
         isCached: true

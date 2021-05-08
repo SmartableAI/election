@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-06-biden-ready-to-sell-23t-infrastructure-plan-in-louisiana.md",
+      "title": "Biden ready to sell $2.3T infrastructure plan in Louisiana",
+      "excerpt": "President Joe Biden will push the case for his $2.3 trillion infrastructure plan in the reliably Republican state of Louisiana",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_630a781b90374f4f8cb6cfeefe957f18_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895",
+      "publishedDateTime": "2021-05-06T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-biden-to-criticize-tax-cuts-for-wealthy-while-pushing-middle-class-agenda-in-louisiana.md",
       "title": "Biden to criticize tax cuts for wealthy while pushing middle-class agenda in Louisiana",
       "excerpt": "President Joe Biden on Thursday will make the case that his sweeping economic proposals are better positioned to bolster the middle class than tax cuts for the wealthy and corporations, according to a White House official. \n    \n",
@@ -1319,53 +1371,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-texas-house-candidate-susan-wright-spotlights-late-husbands-legacy-trumps-support-in-runoff.md",
-      "title": "Texas House candidate Susan Wright spotlights late husband's legacy, Trump's support, in runoff",
-      "excerpt": "Susan Wright says her late husband always took his constituents' concerns to Washington and “that’s the legacy I want to continue.” Rep. Ron Wright died from COVID-19 in February and his widow, a longtime GOP activist, came in first in a field of 23 candidates this past weekend in a special election",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VigjYkm43L4/texas-house-runoff-susan-wright-husband-legacy-trump-support",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VigjYkm43L4/texas-house-runoff-susan-wright-husband-legacy-trump-support",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 143,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-04T12:19:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
