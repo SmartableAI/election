@@ -3,25 +3,27 @@ category: news
 title: "Mike Pence, potential 2024 presidential candidates coming to Texas for GOP fundraising blitz, donor appreciation event"
 excerpt: "The event next week is attracting a who's who of big-name Republicans who could run for the White House in a few years."
 publishedDateTime: 2021-04-30T16:00:00Z
-originalUrl: "https://theeagle.com/news/state-and-regional/mike-pence-potential-2024-presidential-candidates-coming-to-texas-for-gop-fundraising-blitz-donor-appreciation/article_470e4e16-bee5-5ed4-8368-8cd9366a6ce2.html"
-webUrl: "https://theeagle.com/news/state-and-regional/mike-pence-potential-2024-presidential-candidates-coming-to-texas-for-gop-fundraising-blitz-donor-appreciation/article_470e4e16-bee5-5ed4-8368-8cd9366a6ce2.html"
+originalUrl: "https://www.texastribune.org/2021/04/30/mike-pence-2024-texas/"
+webUrl: "https://www.texastribune.org/2021/04/30/mike-pence-2024-texas/"
+ampWebUrl: "https://www.texastribune.org/2021/04/30/mike-pence-2024-texas/amp/"
+cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/04/30/mike-pence-2024-texas/amp/"
 type: article
-quality: 31
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: The Eagle
-  domain: theeagle.com
+  name: Texas Tribune
+  domain: texastribune.org
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://thumbnails.texastribune.org/lFZXuyt9OyUdS4_dtmhRaIzh1Ew=/375x251/smart/filters:quality(75)/https://static.texastribune.org/media/files/013022c67506bbc06e083a5abaa99cf7/Pence%20Trump%20Rally%20OK%20REUTERS%20TT.jpg"
-    width: 375
-    height: 251
+  - url: "https://thumbnails.texastribune.org/7QJmCNzdFyIQ4ygwlIcB4Abpd_o=/1200x630/filters:quality(95)/static.texastribune.org/media/files/013022c67506bbc06e083a5abaa99cf7/Pence%20Trump%20Rally%20OK%20REUTERS%20TT.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -68,6 +70,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Y0Yiv1n8OzYK71Py/96o0LZQBig3IPLwTjNDNEndfJlDvDHsw7nfNchEtTg4Ez+gN2ZOyGuAJ112dcsCvzFxjJsQhVwgSGZKfWcRyMfRKb/uJbOSYMoSHvE6vsRc22cqTt9fL3pBtYNHG7HGcfxbrMlMP3yadBhmPuZ2xwZ1hnxowfNCxCKZ7fuXjEjOqe21d1QPqYPDT6zdgPX3A1pqjpZo6DT+OLO+QcWB8GXoeq78uopA0rCng4arwpGXQQFlJl4UZ4fI0GMQGvKN2WSBBIELA1383rACpD5Q9rNdxbFSvJ75kWCWCDcOpscvxF5I6VWfGV9jkbY+olWv2LAeEe36LTeRKT9vw+X5dJUzNXM=;wjSGsTxiEwmFVrtMK9Y40Q=="
+secured: "/qcpKzW9xiq12XPU1CARnu3o48G4awBqDJczTclehMbTM/HAKxSM39JDbHnC1KrZ0VhnqXIQfCieJ4ES+sPt8zh5rSVd7wpKvd4z7HEz9gfGTtIKQa4qCy21Yo0kEYotN+yBYvzKbglHe/lCDKi/fdRIeBzUhvGivdyASy5Waj8adL/QqmniPhmIQseMrbNkVNbHwcLIhuGW9pMk9f6EH9bYWB0cbTYvwta3+4yRKQIrFub/WQItQ1beGYirssJPAR2vsA7AVHviWk6ODn28AnPsfnwK/GbDel/9oeFP/5o12jsGzjT7/dG85Z2FKDpzAKvX67yqsBNdTQayCn85U3weSDCdiV8ggmpJquV3wsY=;1y0kTbSRLHXGEHfssTsGHA=="
 ---
 

@@ -1,31 +1,33 @@
 ---
 category: news
-title: "Biden to trans youth: 'The president has your back'"
-excerpt: "In his first address to Congress, President Joe Biden called for passage of the Equality Act and gave a shout-out to transgender youth, saying \"the president has your back.\""
-publishedDateTime: 2021-04-29T05:36:00Z
-originalUrl: "https://www.reuters.com/video/watch/idOVEAFZTUN"
-webUrl: "https://www.reuters.com/video/watch/idOVEAFZTUN"
+title: "Biden to cancel Trump proposal to require immigrants' eye scans, voice prints and DNA samples"
+excerpt: "Former President Trump proposed a rule that would have required immigrants to submit biometric information with many applications. Biden has cancelled the rule. “They’re using what is overly general language in the law to justify a massive,"
+publishedDateTime: 2021-05-08T16:31:00Z
+originalUrl: "https://thehill.com/changing-america/resilience/refugees/552479-biden-to-cancel-trump-proposal-to-require-immigrants-eye"
+webUrl: "https://thehill.com/changing-america/resilience/refugees/552479-biden-to-cancel-trump-proposal-to-require-immigrants-eye"
+ampWebUrl: "https://thehill.com/changing-america/resilience/refugees/552479-biden-to-cancel-trump-proposal-to-require-immigrants-eye?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/resilience/refugees/552479-biden-to-cancel-trump-proposal-to-require-immigrants-eye?amp"
 type: article
-quality: 105
+quality: 129
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: The Hill
+  domain: thehill.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?d=20210429&i=OVEAFZTUN&r=OVEAFZTUN&t=2"
-    width: 960
-    height: 540
+  - url: "https://thehill.com/sites/default/files/ca._bio_immigrantsgettyimages-79469216.jpg"
+    width: 1440
+    height: 880
     isCached: true
 
 related:
@@ -460,22 +462,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/30/USAT/1ba477c5-e29d-4033-ac66-3e80e563cccb-AP21119858401840.jpg?auto=webp&crop=3937,2215,x0,y198&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Biden to cancel Trump proposal to require immigrants' eye scans, voice prints and DNA samples"
-    excerpt: "Former President Trump proposed a rule that would have required immigrants to submit biometric information with many applications. Biden has cancelled the rule. “They’re using what is overly general language in the law to justify a massive,"
-    publishedDateTime: 2021-05-08T16:31:00Z
-    webUrl: "https://thehill.com/changing-america/resilience/refugees/552479-biden-to-cancel-trump-proposal-to-require-immigrants-eye"
-    ampWebUrl: "https://thehill.com/changing-america/resilience/refugees/552479-biden-to-cancel-trump-proposal-to-require-immigrants-eye?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/resilience/refugees/552479-biden-to-cancel-trump-proposal-to-require-immigrants-eye?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 129
-    images:
-      - url: "https://thehill.com/sites/default/files/ca._bio_immigrantsgettyimages-79469216.jpg"
-        width: 1440
-        height: 880
         isCached: true
   - title: "Trump ally Sid Miller sues over Biden farm aid program, saying it discriminates against whites"
     excerpt: "Texas agriculture official Sid Miller files suit over a U.S. farm program that directs aid to nonwhite farmers and ranchers."
@@ -1322,6 +1308,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden to trans youth: 'The president has your back'"
+    excerpt: "In his first address to Congress, President Joe Biden called for passage of the Equality Act and gave a shout-out to transgender youth, saying \"the president has your back.\""
+    publishedDateTime: 2021-04-29T05:36:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEAFZTUN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210429&i=OVEAFZTUN&r=OVEAFZTUN&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Biden urges passage of police overhaul measure"
     excerpt: "President Joe Biden said in his first address to Congress as president that he wants lawmakers to pass police overhaul legislation by the anniversary of the death of George Floyd. (April 28)"
     publishedDateTime: 2021-04-29T04:00:00Z
@@ -1812,6 +1812,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "eQBPzdga94eT7e2ykoN8wOETMi/m4qLmYGLC/xQXTAl0ssz3IKfio86O4b7b3n42W6Wti79sqoUT0gIRhrBjOK4qggO2celT944CA2sxlamKZuhM8fWgBlvgPZTWgWlzSs2F9cP6ylqhbQz3pOj+JWd30myQwVH4gB50YpJf+I69IMeOmmRa+eX9G5IwEXNH+4SydHJKtH+9L9JSGlp0N7eOQ2dAd/87SGZH4OElY+MYvgV+NImufsuTUOnxGqtk0cpCf+JiCZedQKFj/rXZXwWwycsKJ9U77IzSvVLBACxfXIZAUtSTJZoK3rLyRHwiGbuDhMKW8bC0Xjt0ej67eOuuV2xxie84NHvQtFlG+Cc=;ez8i/1baBw8s2RkiBYILuQ=="
+secured: "ZGIL5s38UBDFaNKI6pQN7NEsgB7s6uyEhbh3SiFpW+SWYCM4eUe7uPCwLyLMkLwnz3Qkl63V2dN0O3U+/ADz6W4QnsySZBRpkPKMbZQicrVgYks8/BOLMlYxJhG9EtvP8Xr/bMXdAqAS0WjDhqWhKOP1Gw8CNNiDQR/Lf7LEEKqoQogx0jqvECYIRqsFWtarrYsZe2HYy9gChtFF0U8/6/+NMs15AlQL+itdJPNvK08K17ri017hHhwL2gDGuYMzdlw9+MJNBdGeAng3S+CZSAOeMa/rO/hCMZQHPiR3L/VDmWQqoEhIBh4thNO3pV4yIkgxpqzC49Sfu6g7czGR0Lm+hXtFRmNDFzYERvueVJc=;qZBbz5g7n+onOKNeOgZ2gw=="
 ---
 

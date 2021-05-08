@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Facebook’s Oversight Board upholds ban on Trump. At least for now."
-excerpt: "The panel faulted the social network for making a hasty decision without clear criteria and told Facebook to reevaluate the decision within six months."
-publishedDateTime: 2021-05-05T20:20:00Z
-originalUrl: "https://www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/"
-webUrl: "https://www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/"
-ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/?outputType=amp"
+title: "Amanda Chase, Who Pushed Trump for Martial Law, Vows Audit If She Loses GOP VA Gov. Nomination"
+excerpt: "\"If I come out of this election as anything other than the victor, of course, we are going to have a full audit,\" the state senator said."
+publishedDateTime: 2021-05-08T18:57:00Z
+originalUrl: "https://www.newsweek.com/amanda-chase-who-pushed-trump-martial-law-vows-audit-if-she-loses-gop-va-gov-nomination-1589817"
+webUrl: "https://www.newsweek.com/amanda-chase-who-pushed-trump-martial-law-vows-audit-if-she-loses-gop-va-gov-nomination-1589817"
+ampWebUrl: "https://www.newsweek.com/amanda-chase-who-pushed-trump-martial-law-vows-audit-if-she-loses-gop-va-gov-nomination-1589817?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/amanda-chase-who-pushed-trump-martial-law-vows-audit-if-she-loses-gop-va-gov-nomination-1589817?amp=1"
 type: article
-quality: 125
+quality: 113
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CXWOKATSREI6XBSRNUYJD2WGH4.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://d.newsweek.com/en/full/1791671/amanda-chase-virginia-state-senator-vote-audit.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_cheneyliz_012121getty-bc_split.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Facebook’s Oversight Board upholds ban on Trump. At least for now."
+    excerpt: "The panel faulted the social network for making a hasty decision without clear criteria and told Facebook to reevaluate the decision within six months."
+    publishedDateTime: 2021-05-05T20:20:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CXWOKATSREI6XBSRNUYJD2WGH4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "The Daily 202: Facebook board’s Trump decision isn’t just about Trump"
     excerpt: "Welcome to The Daily 202 newsletter! If you’re still wondering, in 2021, how powerful Facebook is, consider that their oversight board’s website is just oversightboard dot com. Tell your friends to sign up here."
@@ -110,22 +126,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2MJW36R3GMI6XKWZRFMSE4UAYQ.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Amanda Chase, Who Pushed Trump for Martial Law, Vows Audit If She Loses GOP VA Gov. Nomination"
-    excerpt: "\"If I come out of this election as anything other than the victor, of course, we are going to have a full audit,\" the state senator said."
-    publishedDateTime: 2021-05-08T18:57:00Z
-    webUrl: "https://www.newsweek.com/amanda-chase-who-pushed-trump-martial-law-vows-audit-if-she-loses-gop-va-gov-nomination-1589817"
-    ampWebUrl: "https://www.newsweek.com/amanda-chase-who-pushed-trump-martial-law-vows-audit-if-she-loses-gop-va-gov-nomination-1589817?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/amanda-chase-who-pushed-trump-martial-law-vows-audit-if-she-loses-gop-va-gov-nomination-1589817?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 113
-    images:
-      - url: "https://d.newsweek.com/en/full/1791671/amanda-chase-virginia-state-senator-vote-audit.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Trump aides are casting doubt on McCarthy's prospects for House speaker if the GOP wins back the majority in 2022"
     excerpt: "Axing Cheney solves one problem for Kevin McCarthy's House-speaker aspirations but creates another if the Trump-fueled backstabbing doesn't subside."
@@ -223,6 +223,6 @@ related:
       domain: usnews.com
     quality: 24
 
-secured: "cdWdsS3KVc9oCjVSgHo+YYA6YGoKeBTkqkS1Ns6jro0cht3HR77bUqebqAk7bz59thvghBnwH7YWFKmS9cP1gvIaDmYWa8dnW5+zdkx6TyeVX2DUnFmTXgTmXHOTk9NiZMmZcSj1MQbvQfCK00czfqkszOkfRw5+opljPTHj20MB4ePnWw7T8x2ldvVUIv2Se0B5u27UDgC+uZcVMsOYy1xRfeWRaZ0WK57pQsyMQR0dSEkaWeRTfh68A+UR0mJCSxjcJRkfNehNCrGPrBcEchO9INtxXruQdvVoEv52q1HuxrvZ12n9JRywk2rKCB7x/kKp5sMsCoFl/1zDyMirwCaKMz8nC1sjP4kDne5/mWUS3ZINqbzpIVrN7fZBoRC+iy2mhXtCHzbY7NE7SYnbykOagjERuHZ+iXtVAor0P1zR26kYLcaNko2AUMV1NO52JpHJDkOk0euo8Nxsr6f/kG0sXhvhV2i2Rn7HX8W7HR8pqvHQdN7D+lDm2dee8wRYPxsUyiP8V/QBQoqCiuig4A==;23u1zbbwRWGjKuKNrg1awQ=="
+secured: "RcingZamLiRWuIRQ4Wxi7iCDaYYwTTScRoBUHmebLXkw8tT4Zdq0iS36NUZYHEl71pD2qtNm7FhkLu+KeHMTzrK6NMw8yiPS8cJfPnjm+2xiNSZaUaBt99lsrQNwCZPnmDlcTFSOm2BmOLYX/26JYg9w4MvV0ZEoBdZ7+G377JLtm5NjxbN4obCNOJqC4w1RAb/+ezNy3N1k6Kb+hVYXexerHBvWF35o50814SU3sPy7TuQBqu5OXdb1qFjab25GFWGl6l5sOETQxV+/lrFQgMP2pyIwKGakQpYDt8bWU8gc2VBglFM3L+43I/GAOIQpXJoEqWmckbP2NtIvTkmjF3uK1QzyYPmjp/042DVAmCs=;dqC23icsE+lXMHfpZ7tl/A=="
 ---
 

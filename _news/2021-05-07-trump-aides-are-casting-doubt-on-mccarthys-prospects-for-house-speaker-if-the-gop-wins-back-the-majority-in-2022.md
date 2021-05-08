@@ -125,6 +125,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Amanda Chase, Who Pushed Trump for Martial Law, Vows Audit If She Loses GOP VA Gov. Nomination"
+    excerpt: "\"If I come out of this election as anything other than the victor, of course, we are going to have a full audit,\" the state senator said."
+    publishedDateTime: 2021-05-08T18:57:00Z
+    webUrl: "https://www.newsweek.com/amanda-chase-who-pushed-trump-martial-law-vows-audit-if-she-loses-gop-va-gov-nomination-1589817"
+    ampWebUrl: "https://www.newsweek.com/amanda-chase-who-pushed-trump-martial-law-vows-audit-if-she-loses-gop-va-gov-nomination-1589817?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/amanda-chase-who-pushed-trump-martial-law-vows-audit-if-she-loses-gop-va-gov-nomination-1589817?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
+    images:
+      - url: "https://d.newsweek.com/en/full/1791671/amanda-chase-virginia-state-senator-vote-audit.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump is staying out of the Virginia GOP's governor race. His absence is making a chaotic campaign even more bonkers."
     excerpt: "The former president hasn't endorsed any of the Virginia Republicans running to lead the Old Dominion, a state he lost by double digits to Biden in 2020."
     publishedDateTime: 2021-05-06T08:01:00Z

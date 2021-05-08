@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 2490
+heat: 2510
 published: true
 
 provider:
@@ -447,6 +447,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/30/USAT/1ba477c5-e29d-4033-ac66-3e80e563cccb-AP21119858401840.jpg?auto=webp&crop=3937,2215,x0,y198&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden to cancel Trump proposal to require immigrants' eye scans, voice prints and DNA samples"
+    excerpt: "Former President Trump proposed a rule that would have required immigrants to submit biometric information with many applications. Biden has cancelled the rule. “They’re using what is overly general language in the law to justify a massive,"
+    publishedDateTime: 2021-05-08T16:31:00Z
+    webUrl: "https://thehill.com/changing-america/resilience/refugees/552479-biden-to-cancel-trump-proposal-to-require-immigrants-eye"
+    ampWebUrl: "https://thehill.com/changing-america/resilience/refugees/552479-biden-to-cancel-trump-proposal-to-require-immigrants-eye?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/resilience/refugees/552479-biden-to-cancel-trump-proposal-to-require-immigrants-eye?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 129
+    images:
+      - url: "https://thehill.com/sites/default/files/ca._bio_immigrantsgettyimages-79469216.jpg"
+        width: 1440
+        height: 880
         isCached: true
   - title: "Trump ally Sid Miller sues over Biden farm aid program, saying it discriminates against whites"
     excerpt: "Texas agriculture official Sid Miller files suit over a U.S. farm program that directs aid to nonwhite farmers and ranchers."

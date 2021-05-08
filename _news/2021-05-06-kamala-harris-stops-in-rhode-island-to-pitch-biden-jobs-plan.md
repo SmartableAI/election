@@ -2,19 +2,23 @@
 category: news
 title: "Kamala Harris stops in Rhode Island to pitch Biden jobs plan"
 excerpt: "Vice President Kamala Harris stopped by a local bookshop and participated in a business roundtable event during a visit to Rhode Island on Wednesday. The stop was part of a push by the administration to promote President Joe Biden’s priorities including his American Jobs Plan,"
-publishedDateTime: 2021-05-05T19:51:00Z
-originalUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
-webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
-ampWebUrl: "https://www.sfchronicle.com/news/amp/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
-cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
+publishedDateTime: 2021-05-05T20:56:00Z
+originalUrl: "https://www.houstonchronicle.com/news/article/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
+webUrl: "https://www.houstonchronicle.com/news/article/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
+ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
+cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
 type: article
-quality: 90
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -1312,6 +1316,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "NPDfrfYHSmhp2Hmtg2/f4I+NV9H2fV6diO8s86fL2v1MIRd/V6PmTgjfGAYd4QaillF8Nfxpw+PUHf0wQsUqVU3VYxw/o7RJVbGXJYpmb2w2tH7iwytXCW2M0pnVaLZbV5K8txqFk8dEglSSmuNZ32IOwqTgpiTJHt07OO4BvasyHJ7jHu/rwhZBGAHeIS/uxb57P/eOWbOOGYeCcN9k7ghySBZfGF7eMKw7hk7yutae4I+ezmZbBVjxKzK2wANVxurIFwzIoAhJ7cY5uowR3RHhCxjmOuVigRB2E/nTa0PgCaasH/rILHzt/N1n2l2o21RLmdyncJXkOzzmi21AzTWlmpjGTRRjYdYZaRLfHTTXXiWmVQN24bEr5uaZuZdHyNBS/fDgZzzwoAl88taF+HQUojg3E4uo2DqTEGJ6d93HN4oWThXow8PAgjaGjaNkhhWERvDfYjZOZX3rSROF2KGotUXRFAZkEXYFHgLyoaBt8N4+Y50KgDHgQlepW126xV+4GATI8ntaACEA4V7VyA==;RALXFPmrBv94IwLIKBdWZA=="
+secured: "LhWViFB4QJRBvkZw7GLFv89SGUr3O07PCCLRAiq43zBEQuCh1OZId67yQ8hQjlxu7OHXTUXIe6BOsVwa/Sai3VFDOhPGo49ld37jMSkFyIv5W2DJCA1K8PgiEWSkmWhoSGA2h577GvmhgjjiPvXjoMsDcykM04C6peE0H4cq2i46SolIEluw1p98xkXgZpKOlwD64uFGpTHDMSamThVm8QqFSxpv7obJYbzECfkt80O5FRSAERfSaGpAnUunlQM3sNVxj5SUvORzK8HYuWxJY2/xf7XuZ16ROGAI2e8m6+76wf9lNMSQZQ0dF8YJ0UpBEPtann1fU1/GukE9AnJqmVhbkg4Xr1Kx2zAeY/eukkw=;KzempHZigW5WAWX6H76u1w=="
 ---
 

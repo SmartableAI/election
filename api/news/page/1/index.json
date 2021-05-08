@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-09-first-lady-vice-president-harris-highlight-different-paths-to-motherhood.md",
+      "title": "First lady, Vice President Harris highlight different paths to motherhood",
+      "excerpt": "Kamala Harris’ childhood friends share memories about presidential hopeful With families around the country preparing to celebrate Mother’s Day on Sunday, first lady Jill Biden and Vice President Kamala Harris are putting a new national spotlight on less traditional types of motherhood.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746",
+      "originalUrl": "https://abcnews.go.com/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/mothers-day-kamala-harris-jill-biden-09-gty-llr-210508_1620502085825_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746",
+      "publishedDateTime": "2021-05-08T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-05-08-doesnt-add-a-single-penny-fact-checking-bidens-deficit-claims.md",
       "title": "'Doesn't add a single penny': Fact-checking Biden's deficit claims",
       "excerpt": "In the past, Republicans have typically fought the Democrats over concerns spending proposals would expand the deficit and the continually growing national debt. Having weathered those critiques during the Obama years, President Joe Biden's proposals to revitalize the US economy seem designed to circumvent",
@@ -1325,58 +1377,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-drugmakers-say-biden-misguided-over-vaccine-patent-waiver.md",
-      "title": "Drugmakers say Biden misguided over vaccine patent waiver",
-      "excerpt": "Drugmakers on Thursday said U.S. President Joe Biden's support for waiving patents of COVID-19 vaccines could disrupt a fragile supply chain and that rich countries should instead share more generously with the developing world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/legal-us-health-coronavirus-waiver-ifpma-idUSKBN2CN1ME",
-      "originalUrl": "https://www.reuters.com/article/legal-us-health-coronavirus-waiver-ifpma-idUSKBN2CN1ME",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210506&t=2&i=1561155795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH450TX",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2CN1ME",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CN1ME",
-      "publishedDateTime": "2021-05-06T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

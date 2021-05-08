@@ -463,6 +463,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden to cancel Trump proposal to require immigrants' eye scans, voice prints and DNA samples"
+    excerpt: "Former President Trump proposed a rule that would have required immigrants to submit biometric information with many applications. Biden has cancelled the rule. “They’re using what is overly general language in the law to justify a massive,"
+    publishedDateTime: 2021-05-08T16:31:00Z
+    webUrl: "https://thehill.com/changing-america/resilience/refugees/552479-biden-to-cancel-trump-proposal-to-require-immigrants-eye"
+    ampWebUrl: "https://thehill.com/changing-america/resilience/refugees/552479-biden-to-cancel-trump-proposal-to-require-immigrants-eye?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/resilience/refugees/552479-biden-to-cancel-trump-proposal-to-require-immigrants-eye?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 129
+    images:
+      - url: "https://thehill.com/sites/default/files/ca._bio_immigrantsgettyimages-79469216.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "The Trump White House provided reporters with a gusher of leaks. With Biden, everything’s changed."
     excerpt: "No such thing anymore. The Trump administration says it doesn’t tolerate leakers, but President Trump’s White House is one of the leakiest in modern history. (Victoria Walker/The Washington Post) Since then, the pipeline has gone dry. When the $1.9 ..."
     publishedDateTime: 2021-04-06T19:56:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/551576-the-memo-trumps-c
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2MJW36R3GMI6XKWZRFMSE4UAYQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Amanda Chase, Who Pushed Trump for Martial Law, Vows Audit If She Loses GOP VA Gov. Nomination"
+    excerpt: "\"If I come out of this election as anything other than the victor, of course, we are going to have a full audit,\" the state senator said."
+    publishedDateTime: 2021-05-08T18:57:00Z
+    webUrl: "https://www.newsweek.com/amanda-chase-who-pushed-trump-martial-law-vows-audit-if-she-loses-gop-va-gov-nomination-1589817"
+    ampWebUrl: "https://www.newsweek.com/amanda-chase-who-pushed-trump-martial-law-vows-audit-if-she-loses-gop-va-gov-nomination-1589817?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/amanda-chase-who-pushed-trump-martial-law-vows-audit-if-she-loses-gop-va-gov-nomination-1589817?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
+    images:
+      - url: "https://d.newsweek.com/en/full/1791671/amanda-chase-virginia-state-senator-vote-audit.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump aides are casting doubt on McCarthy's prospects for House speaker if the GOP wins back the majority in 2022"
     excerpt: "Axing Cheney solves one problem for Kevin McCarthy's House-speaker aspirations but creates another if the Trump-fueled backstabbing doesn't subside."
