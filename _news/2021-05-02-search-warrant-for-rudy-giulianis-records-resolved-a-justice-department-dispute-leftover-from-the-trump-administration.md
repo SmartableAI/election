@@ -31,22 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "‘A great patriot’: Trump defends Giuliani after federal agents raid home and office"
-    excerpt: "Investigators execute search warrants at Rudy Giuliani’s Manhattan residence and office as part of Ukraine investigation"
-    publishedDateTime: 2021-04-29T12:47:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/29/trump-defends-giuliani-federal-agents-raid-home-office"
+  - title: "Washington Post: Trump Justice Department got reporters’ phone records"
+    excerpt: "The Washington Post reported on Friday that the Department of Justice under former President Donald Trump secretly obtained phone records from some of the newspaper's reporters. The Post reported that the DOJ sent letters dated May 3 to Post reporters Ellen Nakashima and Greg Miller,"
+    publishedDateTime: 2021-05-07T23:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/07/washington-post-trump-doj-got-reporters-phone-records/4997276001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4997276001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4997276001"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/a7ca6fc53b3d122e1c03ee50ff448fe52a299bd4/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d2e04564148c3da82d80b9ca8d6f2b9"
-        width: 600
-        height: 360
+      - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2021/03/24/USATODAY/usatsports/justice-department-getty-fool-1.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Washington Post says Trump Justice Department secretly seized reporters’ phone records"
+    excerpt: "The Trump Justice Department secretly seized the phone records of three Washington Post reporters who covered the federal investigation into ties between Russia and Donald Trump’s 2016 presidential campaign,"
+    publishedDateTime: 2021-05-08T00:29:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-justice-department-washington-post-phone-records-20210508-nx54jogftnd4bjaibcvm5vej7e-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-justice-department-washington-post-phone-records-20210508-nx54jogftnd4bjaibcvm5vej7e-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-justice-department-washington-post-phone-records-20210508-nx54jogftnd4bjaibcvm5vej7e-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 117
+    images:
+      - url: "https://www.chicagotribune.com/resizer/sB5cQgbvIQZhpKMxyt-M95yTIwM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NRXIDCVBOSJ4I3MD7H43RSYGNU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Special Report: How Trump Scored a Big Tax Break for Conserving a Golf Range"
+    excerpt: "Trump eventually abandoned a plan to build 16 homes and turned instead to the tax code to offset the lost profits - securing a $25 million tax deduction in exchange for a promise not to develop the land."
+    publishedDateTime: 2021-04-30T12:06:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-04-30/special-report-how-trump-scored-a-big-tax-break-for-conserving-a-golf-range?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 52
 
 secured: "ZDvTuWJkjRZfw70C9n/oQwxAJcO3+WZxl93RvytzbuXXyu4qJaJnfM+zsG2mtcgGk0YD2TKZSNK1rHotlsJyeeaY8hiwXGmLXfCNSfTVnQZGq9NndFhPrQQ5OSw6mJ/LVx8gMOL3B48aAxj1gweTBO/ZZLondDwue5lrR8hXOgZuvvzjUCQFHz3uqwemfSURoUkP4dQPbshd+kZC4uXvMhw/7/lpgcXHJabeNlRC2/eGZPSaI//od8ZJI3r5qpGFu5tZSSpuS9PUYRWgjp7u3Q3iNY2ndFUZOCMouQklWFjb0UVdtpYUWCjPFWf39SHgfTt10BcCKhde6ydYU6UINDAXrpIyFlq25FuTmLhQxtU8qmvZbx8GYrqvd52WWPzouktf3sdSiPmvHLIn6VEnkj1Y8lbMtk+5eKlmZ9cZUa5rPgO46KCG9rkh/MC290rKqwMfAXH6o5mrtyOipeUr3ebjIx8hzyDePeSyaOev+5Bi2/YPKiNus0lkccPNkvN8OzEwLs0f+SFhvMAodIfmWg==;l1SDi8p95GIceUQWyZQYCQ=="
 ---

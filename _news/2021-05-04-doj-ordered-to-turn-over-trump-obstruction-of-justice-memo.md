@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trum
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp"
 type: article
 quality: 175
-heat: 655
+heat: 675
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump DOJ secretly seized phone records from Washington Post reporters"
+    excerpt: "The Trump administration’s Justice Department secretly obtained phone records for three Washington Post reporters who published stories detailing discussions between Russia and members of former President Donald Trump’s 2016 campaign, according to a report Friday."
+    publishedDateTime: 2021-05-08T01:40:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PszhFu18sYg/trump-doj-secretly-seized-phone-records-washington-post-reporters"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-doj-secretly-seized-phone-records-washington-post-reporters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doj-secretly-seized-phone-records-washington-post-reporters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b021ab2-998c-4f09-9fb6-e347f124957d/398faa53-b1b8-48f4-9167-171d2479b5d4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Supreme Court justice photo includes all three Trump picks for first time"
     excerpt: "The latest official photo of the Supreme Court's current nine justices has been released, showing all three of former President Donald Trump's picks for the first time."

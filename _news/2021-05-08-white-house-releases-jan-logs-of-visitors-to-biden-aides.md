@@ -1699,6 +1699,34 @@ related:
         width: 1024
         height: 705
         isCached: true
+  - title: "President Joe Biden Departs White House for Camp David"
+    excerpt: "Marine One helicopter with President Joe Biden takes off to Camp David from the Ellipse near the White House in Washington, DC on Friday, May 18, 2021. Photo by Tasos Katopodis/UPI"
+    publishedDateTime: 2021-05-08T00:21:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b075ca896fb1ba7c7c0c126b4bf73856/President-Joe-Biden-Departs-White-House-for-Camp-David/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/b075ca896fb1ba7c7c0c126b4bf73856/BIDEN-CAMP-DAVID.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "President Joe Biden Meeting for Jobs Report"
+    excerpt: "Energy Secretary Jennifer Granholm (2nd L), Housing and Urban Development Secretary Marcia Fudge (C), Secretary of Transportation Pete Buttigieg (2nd R) and Commerce Secretary Gina Raimondo (R), speak to the media outside of the West Wing of the White House in Washington,"
+    publishedDateTime: 2021-05-08T00:20:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/87915cc700ac537a623329edfbb2023f/President-Joe-Biden-Meeting-for-Jobs-Report/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/87915cc700ac537a623329edfbb2023f/BIDEN-JOBS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Biden Expected to End Trump Ban on Temporary Foreign Workers"
     excerpt: "U.S. President Joe Biden is expected to allow a proclamation from his Republican predecessor that had blocked many temporary foreign workers from coming into the United States to expire on Wednesday,"
     publishedDateTime: 2021-03-31T00:24:00Z
@@ -1736,6 +1764,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "QLCZWnzMe48HiMGRklquRy7ZT7lKKTEsqBCEvxt5nHInexQ+sM5K/ZG9l8V3ayLBARV8B0ydDoJrymHvunn/VlnFkSgBACwWuzp7e2I8Ue2P1ZELiKwvRKxSe9rvQWkxPtuwT/8ExMdcX6hlU9D8lJ8ifVXrtKM+uizQzycLf4KcKNhH0to+xvyyNayafkjzNZPD4IYfY8T+vMmatH2YEOeJJVgZhMaA1eBfJ44I2xdTEP/+GkJwgHSSnpxCTkmFbSDt7SDsetlAd/YiTNOIkIbwOvkvb2FgqJdQcVqECALj2EKWXqkQNefI3pVQ1R+wVrb/yihR6owlceE6s6f5Czzd2cnEJw1NO2bDrPvfq7E=;xWLrR/w/BXU29lFxDYHAEw=="
+secured: "5eg4+gsIficu5rkGF+AbubiV+CxvCpV9c9w8brxqp/1xbBPZq26ZKBd+49cgRAQKBbSGzvXHV2d543++lywuLi7CkhoF5/9LDa4eyYfLbaCIWUlvhU9GzQb/F4sV9hkM5WM+6xuvKNA6cnSmskPI1IfzZJ26hUa8Kbu6F+klPP8huTce5AUv/U90MT4tjYBQ4f1HkvYFovpdwEaZWlxhPDo4GsFnqRY5KI7Jsp20EbZ07Dm7aC0FSU4mU8diND8GGE8pR3Xxj5TMFkK7KJ/2ZqXG8lhfRBLS1h8Qlvpyb2hqsV1mKKdE8QLL88oREkh23iyxcVs5CEc2G+kkC86CEaF9eJKQO+0aBPmBcCVeBoRoaLrA8xkNDlz9BfeUb4ttuv0xZ5p1QhlQTUA6f+jhgUC9eq52RZudz0xIaE8RIYPO09uP+uvfTh3oHIfcv6KBN2jLaFurUiZigq907nsto/3S1fZ2tl68fSK3mhTOPkbxh/JI3JaQA5XQciWuGDk7VlX9NbwMaK3O4ajU23K80A==;l5E/USeNQXZ2iM+9CC7/KA=="
 ---
 

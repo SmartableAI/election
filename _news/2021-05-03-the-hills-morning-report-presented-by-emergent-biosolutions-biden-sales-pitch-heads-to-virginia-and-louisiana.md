@@ -47,6 +47,22 @@ related:
         width: 2836
         height: 1900
         isCached: true
+  - title: "Biden administration allocates $21.6B in rental assistance"
+    excerpt: "The Biden administration is allocating $21.6 billion to provide emergency rental assistance to help prevent evictions of people who lost jobs during the pandemic"
+    publishedDateTime: 2021-05-07T18:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/administration-allocates-216-billion-rental-assistance-77558570"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/administration-allocates-216-billion-rental-assistance-77558570"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/administration-allocates-216-billion-rental-assistance-77558570"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5b11c3120f9c45c8a6b6d34c47ef4b12_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Biden Administration continues the White House's long history of personalizing everything, from pens to cookies to shovels"
     excerpt: "Leadership in Washington flips from red to blue every so often, but one thing always seems to remain the same: a dedication to personalization."
     publishedDateTime: 2021-05-02T17:46:00Z

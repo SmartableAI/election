@@ -1694,6 +1694,34 @@ related:
         width: 1024
         height: 705
         isCached: true
+  - title: "President Joe Biden Departs White House for Camp David"
+    excerpt: "Marine One helicopter with President Joe Biden takes off to Camp David from the Ellipse near the White House in Washington, DC on Friday, May 18, 2021. Photo by Tasos Katopodis/UPI"
+    publishedDateTime: 2021-05-08T00:21:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b075ca896fb1ba7c7c0c126b4bf73856/President-Joe-Biden-Departs-White-House-for-Camp-David/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/b075ca896fb1ba7c7c0c126b4bf73856/BIDEN-CAMP-DAVID.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "President Joe Biden Meeting for Jobs Report"
+    excerpt: "Energy Secretary Jennifer Granholm (2nd L), Housing and Urban Development Secretary Marcia Fudge (C), Secretary of Transportation Pete Buttigieg (2nd R) and Commerce Secretary Gina Raimondo (R), speak to the media outside of the West Wing of the White House in Washington,"
+    publishedDateTime: 2021-05-08T00:20:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/87915cc700ac537a623329edfbb2023f/President-Joe-Biden-Meeting-for-Jobs-Report/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/87915cc700ac537a623329edfbb2023f/BIDEN-JOBS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Biden Expected to End Trump Ban on Temporary Foreign Workers"
     excerpt: "U.S. President Joe Biden is expected to allow a proclamation from his Republican predecessor that had blocked many temporary foreign workers from coming into the United States to expire on Wednesday,"
     publishedDateTime: 2021-03-31T00:24:00Z

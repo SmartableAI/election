@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highe
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054?amp=1"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration allocates $21.6B in rental assistance"
+    excerpt: "The Biden administration is allocating $21.6 billion to provide emergency rental assistance to help prevent evictions of people who lost jobs during the pandemic"
+    publishedDateTime: 2021-05-07T18:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/administration-allocates-216-billion-rental-assistance-77558570"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/administration-allocates-216-billion-rental-assistance-77558570"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/administration-allocates-216-billion-rental-assistance-77558570"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5b11c3120f9c45c8a6b6d34c47ef4b12_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Hill's Morning Report - Presented by Emergent BioSolutions - Biden sales pitch heads to Virginia and Louisiana"
     excerpt: "President Biden and his team are playing a long legislative game, albeit with a short time frame. As weekend television talk shows revealed, the president’s efforts are at the starting point to secure another $4 trillion in spending for infrastructure and expanded government benefits,"
     publishedDateTime: 2021-05-03T10:24:00Z
