@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Departs White House for Camp David"
-excerpt: "President Joe Biden prepares to board Marine One helicopter en route to Camp David from the Ellipse near the White House in Washington, DC on Friday, May 7, 2021. Photo by Tasos Katopodis/UPI"
+excerpt: "President Joe Biden walks to Marine One helicopter en route to Camp David from the Ellipse near the White House in Washington, DC on Friday, May 7, 2021. Photo by Tasos Katopodis/UPI"
 publishedDateTime: 2021-05-08T00:21:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/7d625e89c09ab039a05926597a779a13/President-Joe-Biden-Departs-White-House-for-Camp-David/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/7d625e89c09ab039a05926597a779a13/President-Joe-Biden-Departs-White-House-for-Camp-David/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/d94083901f23f4e7b7a6c077b33009ad/President-Joe-Biden-Departs-White-House-for-Camp-David/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/d94083901f23f4e7b7a6c077b33009ad/President-Joe-Biden-Departs-White-House-for-Camp-David/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/7d625e89c09ab039a05926597a779a13/BIDEN-CAMP-DAVID.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/d94083901f23f4e7b7a6c077b33009ad/BIDEN-CAMP-DAVID.jpg"
     width: 650
     height: 433
     isCached: true
@@ -200,6 +200,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q7ZYANVOWQI6XAWBRFVMVFK3XE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Up close with Biden and Trump's top diplomats"
+    excerpt: "It's a foreign policy vision drafted by Biden's mild-mannered Secretary of State Antony Blinken, a veteran diplomat who received a warm welcome from allies relieved to be putting four years of Donald Trump's erratic unilateralism behind them."
+    publishedDateTime: 2021-05-07T21:00:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57022920"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57022920.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57022920.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/49FE/production/_118424981_gettyimages-1231463734.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
@@ -1760,6 +1776,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "AcY8NTdxs8XxmGMey25q3cupHDkTbqMHbQi4K9WOOlOkz80Fu+DM/bvf4hcMG5+zaHLrgYpqrZSIR+FUjBsY37eTLjXE+bZvHzWh6wa0Ref02ZARMtBKdlf1cFBYsK/vdYJBvY9NtHd10gNKD354v/3dw+3jkai/NaWVGDg+r3iP/VS/D29q3qszB4reZ5yxicvE8C/RXEIXh6ZTkRmZR2Wx27GgODpoV9b+UzkoyNAeRcoOYNMZNe/3GAs3DSP4Mr89Oh+EFYy3Md66fzNZ9Eixr3FtuBdsA/VaYgctTbzTJziG0a3uNxkQdIROgAMdbf2nENKYqv+aZuGNT/HZxVZKpirIdF7zpQ3NdZPB+173JmD49jCXmSJy3DhBTS9sQCtMIT5GhVGspNR/q9BIhngHvluFpUDL6XywBMa3QN5A/Z4TuNnGEYe2KR9qQrbmFDXBSpzkCM1TKeBw5mk8kAGSmzDCI379MEuytBd+Un/NJXhbtibkpzJ+6Z3wp+XY6mrhxsV2Dq1Jhbt4hir20w==;qVIrjVXvKvsKq93AHBG+gQ=="
+secured: "oRUhL+F7hyzAsA93IwrZHkOIVyy2WdGE33kEoDXfJ5hHhnN3kJ5arnYz2lUFivXtPFaqlCfodgQfpDIwCO7Ndz9fyoZAF3Y/YbPXCJl3LW1vPt9omBU0dlJ00bPlHubpSJ5UADw0bucBhHTgy3HT29jvv99qy8HyPjgFekSC+MXT40Q90S9KerFXaBw3gfZyZEIXo0ok5c7iJIKsj9vcvOxP17860jaJSYpRiwMjF3+Mh/UfrcgU29cZFF+F1UU8nUqzeq0ha7jPMRlbGD1nZFKo63YEbB0y6Gfy3spD4MlMnHUhykpJz38STOeQuPBRGamvZgTC6fufQYfG6iLqtpAfIYQbKfrFZhEdGMSxNj8=;4IfmoPAX0H0SAnsXU2ETRQ=="
 ---
 

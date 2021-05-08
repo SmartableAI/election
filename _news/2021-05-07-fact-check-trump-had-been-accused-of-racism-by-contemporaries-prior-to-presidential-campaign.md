@@ -201,6 +201,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Up close with Biden and Trump's top diplomats"
+    excerpt: "It's a foreign policy vision drafted by Biden's mild-mannered Secretary of State Antony Blinken, a veteran diplomat who received a warm welcome from allies relieved to be putting four years of Donald Trump's erratic unilateralism behind them."
+    publishedDateTime: 2021-05-07T21:00:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57022920"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57022920.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57022920.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/49FE/production/_118424981_gettyimages-1231463734.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
     publishedDateTime: 2021-04-05T18:20:00Z
@@ -1699,16 +1715,16 @@ related:
         height: 705
         isCached: true
   - title: "President Joe Biden Departs White House for Camp David"
-    excerpt: "President Joe Biden prepares to board Marine One helicopter en route to Camp David from the Ellipse near the White House in Washington, DC on Friday, May 7, 2021. Photo by Tasos Katopodis/UPI"
+    excerpt: "President Joe Biden walks to Marine One helicopter en route to Camp David from the Ellipse near the White House in Washington, DC on Friday, May 7, 2021. Photo by Tasos Katopodis/UPI"
     publishedDateTime: 2021-05-08T00:21:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/7d625e89c09ab039a05926597a779a13/President-Joe-Biden-Departs-White-House-for-Camp-David/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d94083901f23f4e7b7a6c077b33009ad/President-Joe-Biden-Departs-White-House-for-Camp-David/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/7d625e89c09ab039a05926597a779a13/BIDEN-CAMP-DAVID.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/d94083901f23f4e7b7a6c077b33009ad/BIDEN-CAMP-DAVID.jpg"
         width: 650
         height: 433
         isCached: true
