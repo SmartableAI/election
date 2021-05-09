@@ -2,28 +2,28 @@
 category: news
 title: "Kamala Harris stops in Rhode Island to pitch Biden jobs plan"
 excerpt: "Vice President Kamala Harris stopped by a local bookshop and participated in a business roundtable event during a visit to Rhode Island on Wednesday."
-publishedDateTime: 2021-05-06T00:48:00Z
-originalUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/"
-webUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/"
-ampWebUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/amp/"
-cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/amp/"
+publishedDateTime: 2021-05-06T11:45:00Z
+originalUrl: "https://www.masslive.com/politics/2021/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan.html"
+webUrl: "https://www.masslive.com/politics/2021/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan.html"
+ampWebUrl: "https://www.masslive.com/politics/2021/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan.html?outputType=amp"
+cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan.html?outputType=amp"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Boston Herald
-  domain: bostonherald.com
+  name: MassLive
+  domain: masslive.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.bostonherald.com/wp-content/uploads/2021/05/Harris_44221.jpg?w=1024&#038;h=683"
-    width: 1024
-    height: 683
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PHWB64HSI5AXDFCX4DM3DKNVLI.jpg"
+    width: 6000
+    height: 4000
     isCached: true
 
 related:
@@ -1312,6 +1312,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "Hi1ct7fB5Lki3TxsVje6PbhfEqAF1vWjwKAhUCtYYcgtNcu8kEN6zv2ktyvMP8367ZnBiOKIM73F+dj7qf2AAU2hA91RDe4o6po6uoJ8xx4FZa3NTn20sBG1M+HU0jEI6qUZr5BvtCwZO8+s3u8LSDNdnluDcJ8I+X9uMRLMJuqhSKfD41Wo0w6s77mibRnR9uaoxuunkbusq+7MiMWKsBapXTGfepyZWu5IdXIBH5dk7YCMck/FS/oHBhaGDJLfbpLcZ7MFV7xeQynYwX1dJWKbmhiovICXXR6tDhZoszFMmAnESjMMUqkr/CQ8H3RokQmHJVAgV0rNdZHKyXkxWQTQ5LLjF7UVS/eVP2SD5/0=;fku3leNNqEk1JI+eWryKSw=="
+secured: "NqI+apBaQj8qCZFxOR9kmPOHrM4BU2HZedwJqW1a+YPSjdt5H6/WltmQ1h3hkTbI6AslghqfyKtwZeUZZV3/8a9q0cHs9aUbt9MygXgnkyt6vgNIGO6ozG/nHOW6uwUGz7uRBfxYhByJLEDuTld6Q6r/SubeV5rYlCxooEUWaIADmnYVHrQW1mzsNswpGTe2UgHhzbtO/9/zhvgbxlGDjWdAbyiLsdCp4iVbCYEDPKA8WkAN46YHvG8BrNU9+3u17HxwCz5Wkf3c1dFr1/o9dO3Y+wQGndggQFFeX6CsUxwyHoym3/BE7x1YHENv91sedGSaAYdT9pEe31UvkIJZcoabN9o0mElZ8gAH39Ii+ng=;7zf+M5SZRO/J2AYYFWBzkg=="
 ---
 

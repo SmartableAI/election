@@ -736,19 +736,19 @@ related:
         isCached: true
   - title: "Kamala Harris stops in Rhode Island to pitch Biden jobs plan"
     excerpt: "Vice President Kamala Harris stopped by a local bookshop and participated in a business roundtable event during a visit to Rhode Island on Wednesday."
-    publishedDateTime: 2021-05-06T00:48:00Z
-    webUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/"
-    ampWebUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/amp/"
+    publishedDateTime: 2021-05-06T11:45:00Z
+    webUrl: "https://www.masslive.com/politics/2021/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan.html?outputType=amp"
     type: article
     provider:
-      name: Boston Herald
-      domain: bostonherald.com
+      name: MassLive
+      domain: masslive.com
     quality: 90
     images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2021/05/Harris_44221.jpg?w=1024&#038;h=683"
-        width: 1024
-        height: 683
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PHWB64HSI5AXDFCX4DM3DKNVLI.jpg"
+        width: 6000
+        height: 4000
         isCached: true
   - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
     excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"
