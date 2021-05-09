@@ -1740,6 +1740,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "President Donald Trump got banned from Twitter again. (Kind of.)"
+    excerpt: "Trump — an account sharing posts from the blog verbatim was banned from Twitter on Thursday. The Twitter account, @deskofdjt, is seemingly linked to the blog, but a Trump spokesman told NBC News that the account was not made by Trump or an affiliate."
+    publishedDateTime: 2021-05-07T00:44:00Z
+    webUrl: "https://www.chron.com/tech/article/2021-05-Donald-Trump-desk-banned-Twitter-again-16157590.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/13/22/20493488/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Twitter Suspends Accounts Skirting Trump Ban"
     excerpt: "Twitter on Thursday confirmed that it pulled the plug on several accounts trying to skirt its ban on former president Donald Trump by promoting his blog posts. The ex-president launched a page on his website earlier this week promising comment \"straight from the desk of Donald J Trump."
     publishedDateTime: 2021-05-07T01:04:00Z

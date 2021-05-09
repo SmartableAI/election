@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Biden hits schools goal even as many students learn remotely"
-excerpt: "President Joe Biden has met his goal of having most elementary and middle schools open for full, in-person learning in his first 100 days"
-publishedDateTime: 2021-05-06T04:20:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-hits-schools-goal-students-learn-remotely-77524133"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-hits-schools-goal-students-learn-remotely-77524133"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-hits-schools-goal-students-learn-remotely-77524133"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-hits-schools-goal-students-learn-remotely-77524133"
+title: "President Donald Trump got banned from Twitter again. (Kind of.)"
+excerpt: "Trump — an account sharing posts from the blog verbatim was banned from Twitter on Thursday. The Twitter account, @deskofdjt, is seemingly linked to the blog, but a Trump spokesman told NBC News that the account was not made by Trump or an affiliate."
+publishedDateTime: 2021-05-07T00:44:00Z
+originalUrl: "https://www.chron.com/tech/article/2021-05-Donald-Trump-desk-banned-Twitter-again-16157590.php"
+webUrl: "https://www.chron.com/tech/article/2021-05-Donald-Trump-desk-banned-Twitter-again-16157590.php"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_9520eed1da2540198a1508d49702a014_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s.hdnux.com/photos/01/16/13/22/20493488/3/rawImage.jpg"
+    width: 2048
+    height: 1365
     isCached: true
 
 related:
@@ -911,6 +905,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden hits schools goal even as many students learn remotely"
+    excerpt: "President Joe Biden has met his goal of having most elementary and middle schools open for full, in-person learning in his first 100 days"
+    publishedDateTime: 2021-05-06T04:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-hits-schools-goal-students-learn-remotely-77524133"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-hits-schools-goal-students-learn-remotely-77524133"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-hits-schools-goal-students-learn-remotely-77524133"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9520eed1da2540198a1508d49702a014_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden offers assistance to Mexico after deadly subway collapse"
     excerpt: "President Biden offered U.S. support to Mexico's government on Wednesday after the collapse of a rail overpass killed dozens in Mexico City."
     publishedDateTime: 2021-05-05T18:09:00Z
@@ -1744,20 +1754,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "President Donald Trump got banned from Twitter again. (Kind of.)"
-    excerpt: "Trump — an account sharing posts from the blog verbatim was banned from Twitter on Thursday. The Twitter account, @deskofdjt, is seemingly linked to the blog, but a Trump spokesman told NBC News that the account was not made by Trump or an affiliate."
-    publishedDateTime: 2021-05-07T00:44:00Z
-    webUrl: "https://www.chron.com/tech/article/2021-05-Donald-Trump-desk-banned-Twitter-again-16157590.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/16/13/22/20493488/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Twitter Suspends Accounts Skirting Trump Ban"
     excerpt: "Twitter on Thursday confirmed that it pulled the plug on several accounts trying to skirt its ban on former president Donald Trump by promoting his blog posts. The ex-president launched a page on his website earlier this week promising comment \"straight from the desk of Donald J Trump."
     publishedDateTime: 2021-05-07T01:04:00Z
@@ -1837,6 +1833,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "MnC9KXSmM41Elam9lWS4HR20cCjR1edJjoQ6fPn40z1VlN/Vhfv/lnPE7iROEoFOmiAf+ucCtipQWr5zoxdXqRFW9Ia40jQbkEk9ZYV/E+FKp3mf1tp6VFeL08pIGXKTLmCDQrlsLuQ28iPdmZx4DWaZdMi6YJV+NwvN4bX38kquoY/Fmh6lhM7Rjnmhet7w6R4Yuf+67ritYTdDm8B29cbBAC5MWGjhxQ/WLrg+USeH2E68fA3EufkICX7yzr+cFNhRE8PsEg2m7n3LzSNaFbavSda9J/0HkQRDBqM8kEnXkNRasb1QJBx354+VDF21ufz9TH+hTIZq9CrJB6gIWBSPQaVkBrLsimP531/FAyI=;df6TjHpVtRxHX3mng/7m+w=="
+secured: "eDU2YiCmsLP3G35Go27pvWl1VYmlixUeno9BqwQthOspOfJk/ZESOEFKZ9ikdR5hZNjhvGEnWBA11xt08sBe58j8hdzRNGKTeu8UBXG8JzIOfeEu9jK98ZM3j6ebTeOhRJjCz5Y9O7dkeTtLy4kF7Wf0xOYCQ2XKAPyWx7RV65PTlhDiF9ykrrcdwHdqpIaE6j4P6GQYV08FNetqzgQt7beEbaAFU+aV5X8B8N5HMsAUOikgYD7g2R44KkCV0YmhW2ZXbkFpFZMQEKGT91KMJzcOGC4A5xT83Ul3Ht8gT3mUvSW9HI7FY2lXPlSwk8trRCZLQ9Y56v1Yw8OnOboNIswrsH6OSJQFeRKFDf//RCI=;39fHrNVkKsgAqsfZ1VIYOw=="
 ---
 

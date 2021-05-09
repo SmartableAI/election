@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/05/08/us/politics/trump-republicans-liz
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/08/us/politics/trump-republicans-liz-cheney.amp.html"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Quotation of the Day: Trump Keeps an Iron Grip on the G.O.P."
+    excerpt: "Quotation of the Day for Sunday, May 9, 2021."
+    publishedDateTime: 2021-05-08T22:52:00Z
+    webUrl: "https://www.nytimes.com/2021/05/08/todayspaper/quotation-of-the-day-trump-keeps-an-iron-grip-on-the-gop.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/08/todayspaper/quotation-of-the-day-trump-keeps-an-iron-grip-on-the-gop.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/08/todayspaper/quotation-of-the-day-trump-keeps-an-iron-grip-on-the-gop.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "31nbRNe9kLCrPh5Hc+CjAJHyJuEwT2OWofusFaBHFlbwtP3BDvGD5Be6ghXkfAcCTtKoCV+9Ayt3tZpv6Dask2DX3q5rWFMK6yB9JrQLmRoX1d3Lz0qBbx0gmMU+plEDe+0MLQtEUfJ7D6sVb6MD6KTtozEyZH3JfD3gHrAKKzznmfIdSQXQZv2I38dO2CSrak0jrS5NSO6ncsGdZnZ2kqOPzXq+BHCJk/v1QEqqe615RESNJBGY6PfB+zvYgXq6Xs2weKvvPfrlrWAVOzPcQBJ5AUdXef4zNmPTBNnc6LHF/wPm5QR6AzZqT9jBthTEK0PTaSSzACaIz11qV6rivXlRa2Lji45aY3gt5Y239R3XyeV6gs1EtzCwMUSNv+2kJiJISMZeX85Auc3iV6VJkW+J3ySqbv1RYZp7XFTVwLXqJR+osib9x9rrEcjLeCVBUCAHsoVvjluP2dby01kH9wExn/5Br8bc4vHeijcNY6RawUizLjyg6MNFgzxRGI4dk2Ruv8JnMCDiAFMwpwIE2g==;diigU9ohB1OcSi6f7ZHecw=="
 ---
