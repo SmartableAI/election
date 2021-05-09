@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chron.com/news/amp/Gaetz-Greene-take-mantle-of-Trump-s-p
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Gaetz-Greene-take-mantle-of-Trump-s-populism-at-16161164.php"
 type: article
 quality: 75
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: Houston Chronicle
@@ -25,6 +25,22 @@ images:
     width: 600
     height: 336
     isCached: true
+
+related:
+  - title: "Gaetz promises future ‘America First’ rallies, teases Trump appearance"
+    excerpt: "Rep. Matt Gaetz (R-Fla.) and Rep. Marjorie Taylor Greene (R-Ga.) held a rally in the Villages, a retirement community in Florida, on May 7."
+    publishedDateTime: 2021-05-08T13:25:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/gaetz-promises-future-america-first-rallies-teases-trump-appearance/2021/05/08/3907d8b4-ca93-4088-94c0-a96db45fb362_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-08-2021/t_3cc8fbca9f11464990ad48e31b607700_name_gaetz2_scaled.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
 
 secured: "dwKmwEXF2NDQPMgX71VyOzhoxPrKS6VkwiB2xW9r/SKxAhaX/H7Jb4ve4TKYwa64MTDbt/GOoDS7bqQ2ss5thy2P2UeFCQPJAYT4DFvFB93lZ/99v80W+v/dEdC3coIp0J+vvHd7OrQc/LZHltM5AmPTvnTBRz0NVnRd2KmmRI1zmo3xeXZUtHq3OnFK/Q+Ezj4gh79JgiI6dUQlsqgtCfLsc9+4lKM4bxctArNu4jOpJwFOtqVQd3c89qI6u4OTDk4SbDa6hgTn+oysNUCJWid7+6xyDiiEnBw+JF4beh9Y3Zf25hNMLePeXQhPfX+pN59dszksnInNqVLsIxNhCEgkU6kPYOrBNGcd1UlWB+A=;AUtxHrkIhLiCXe1VQCU2FQ=="
 ---

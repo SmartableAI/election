@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/lady-vice-president-harris-highl
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
 type: article
 quality: 124
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 992
     height: 558
     isCached: true
+
+related:
+  - title: "Kamala Harris said corruption costs as much as 5% of the world's GDP. That stat is questionable"
+    excerpt: "For more than a decade, an interesting statistic about the cost of corruption has been bouncing around the global-economics community, showing up in statements and reports from or"
+    publishedDateTime: 2021-05-09T08:51:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/may/07/kamala-harris/kamala-harris-said-corruption-costs-much-5-worlds-/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 43
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
 
 secured: "vvUcw0bleem7qMsy9KRJfH2kQBL4KfB7Zei1ar0ngmLL8AFE+iGHneI+FtsiKFanKUz37V1zy/5Arxk58KcL7K5puhK5AcvaL4rfdt1V7uE6hF4N5y8VP2MCQiEahv/tk8nTXaCFIz8TtuuNbyme1mWB5iB95Dw9IeK+6GJpbEJ9gEaAbb3OtS/Ue+9njUc+jK+CVfzly0R9pzmRfUECtDIgXPEgvPPEa1nchBfPKVB3YcQsPrqzOiSbei2ftDaR939SKQ61nQnG7mRjrGdsxN07qPmL0WwEKRssOxZ9Ru69NdM6VN7o/ue78ngi6DiwITVedQG9bRsVgyfxA3ls8z46v//Lq4kxpIyUp6nS2Go=;ajbWuhGEBXv1QPMDHoPxJA=="
 ---
