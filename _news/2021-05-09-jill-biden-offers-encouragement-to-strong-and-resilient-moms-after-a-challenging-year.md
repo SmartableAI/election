@@ -1,0 +1,35 @@
+---
+category: news
+title: "Jill Biden offers encouragement to 'strong and resilient' moms after a 'challenging' year"
+excerpt: "First lady Jill Biden honored the role \"strong and resilient\" mothers play in taking care of their families after a \"challenging\" year of COVID-19."
+publishedDateTime: 2021-05-09T15:24:00Z
+originalUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/05/09/mothers-day-jill-biden-honors-moms-after-difficult-year/5013390001/"
+webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/05/09/mothers-day-jill-biden-honors-moms-after-difficult-year/5013390001/"
+ampWebUrl: "https://amp.usatoday.com/amp/5013390001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5013390001"
+type: article
+quality: 116
+heat: 116
+published: true
+
+provider:
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2021/04/23/USAT/599ffb1d-e4c0-4d02-aaab-ce73404b92ef-DrB_long.jpg?auto=webp&crop=2024,1139,x795,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "o2a+MXY3F4Z7afTZWyGmtW0KRh5T6Y0pXRYOAPIb6Dt29f56YcXc5jemgXjPEaIOKjuqJE4Xy3Zlie6iQEEdWGDpvXLgK6FfZMfjKA+awqIFOjx7pmZVc/fj4LgW7uYXNKo3diQIbVftVMO9ORmC/c1E9KCZfU6KBa5hLyz3Vb1jsoY5EJh7OVTh9eML+Ynm1UtufTnOAH3TdyEWxi0gCWx97POy1PM9tmlIH6SNkP6DLngYBFmbjb3V05gzMdUDKjEqTwTNdW4VJRudNcV6NJcSc+pL4/+feXsXK63GwacZJKrYU+2x7ocgVg4b/Ys0xYOhSPIrecnHE2o74rQhfZNaSf2DRhFxo5WKinaAPUE=;OzZ+2ySfDDtavbNwCNHikA=="
+---
+

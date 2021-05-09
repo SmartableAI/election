@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trum
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp"
 type: article
 quality: 175
-heat: 695
+heat: 715
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0217ba45-4b1f-45af-a61e-06b1ff7ed4fa/762f403d-d1bb-46f5-8975-4e4c6a13b68e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Trump 2020 Election Lawsuits Lead to Requests to Discipline Lawyers"
+    excerpt: "Courts and licensing bodies are weighing whether some of the failed legal challenges to the 2020 presidential election were frivolous or improper and warrant punishment for the lawyers who filed them."
+    publishedDateTime: 2021-05-09T13:00:00Z
+    webUrl: "https://www.wsj.com/articles/trump-2020-election-lawsuits-lead-to-requests-to-discipline-lawyers-11620568801"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-2020-election-lawsuits-lead-to-requests-to-discipline-lawyers-11620568801"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-2020-election-lawsuits-lead-to-requests-to-discipline-lawyers-11620568801"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-334136/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Donald Trump offers advice to ‘woke’ Oscars"
     excerpt: "Former President Donald Trump ​on Tuesday ​weighed in on the Academy Awards that critics lambasted as overly “woke” and which attracted its smallest TV audience in history, suggesting"

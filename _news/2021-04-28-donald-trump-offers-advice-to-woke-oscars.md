@@ -188,6 +188,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump 2020 Election Lawsuits Lead to Requests to Discipline Lawyers"
+    excerpt: "Courts and licensing bodies are weighing whether some of the failed legal challenges to the 2020 presidential election were frivolous or improper and warrant punishment for the lawyers who filed them."
+    publishedDateTime: 2021-05-09T13:00:00Z
+    webUrl: "https://www.wsj.com/articles/trump-2020-election-lawsuits-lead-to-requests-to-discipline-lawyers-11620568801"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-2020-election-lawsuits-lead-to-requests-to-discipline-lawyers-11620568801"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-2020-election-lawsuits-lead-to-requests-to-discipline-lawyers-11620568801"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-334136/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "GOP Leaders Clash on Trump at Annual Retreat"
     excerpt: "Republicans hope to take back control of Congress in midterms."
     publishedDateTime: 2021-04-28T00:48:00Z

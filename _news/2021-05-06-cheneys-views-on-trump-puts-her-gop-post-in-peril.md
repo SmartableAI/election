@@ -423,6 +423,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump's 'Big Lie' imperils Republicans who don't embrace it"
+    excerpt: "Trump's discredited allegations about a stolen election did nothing to save his presidency when courtrooms high and low, state governments and ultimately Congress — meeting in the chaos of an insurrection powered by his grievances — affirmed the legitimacy of his defeat and the honesty of the process that led to it."
+    publishedDateTime: 2021-05-09T15:38:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Utah Republicans’ bid to censure Sen. Mitt Romney for Trump impeachment votes fails"
     excerpt: "Mitt Romney but ultimately rejected a motion to censure him Saturday for his votes at President Donald Trump’s impeachment trials. The measure narrowly failed, 798 to 711, in a vote by delegates to the state GOP convention,"
     publishedDateTime: 2021-05-02T03:30:00Z
@@ -480,17 +496,6 @@ related:
         width: 1200
         height: 843
         isCached: true
-  - title: "Trump's 'Big Lie' Imperils Republicans Who Don't Embrace It"
-    excerpt: "Allegiance to a lie has become a test of loyalty to Donald Trump and a means of self-preservation for Republicans. Trump's discredited allegations about a stolen election did nothing to save his presidency when courtrooms high and low,"
-    publishedDateTime: 2021-05-09T11:36:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-09/trumps-big-lie-imperils-republicans-who-dont-embrace-it"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-05-09/trumps-big-lie-imperils-republicans-who-dont-embrace-it?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-05-09/trumps-big-lie-imperils-republicans-who-dont-embrace-it?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "lLbqkRD3bV+4tpwlrUjP236CFLkczDvmT1OtZaZYyFZ5sp6i5hynajgIb1b+Qi7rpThhaUcICuna/XbYu9pEo41y9tLFJtfapY2d6Ugw/TjG7yjYf1yKgoBqaf781GMq2sQAAu8CArPNuWQYnCDPlRjJitsUdaU4iI//7iz5VWLnaRAc2nJuEaL5yycrRNJoqOAFsGsIHVrcLGWNwgGTV+rI+N2PIiTU+xzcYb2gltQvbKNizWa1KgXvtdTFj5rUd7J2DpKEun++PHq2/EhkEE91s6GEimE+nPHJBXqlfadAE1YbUk3rcrzqr56f6FEY6MK9H+O/YVR6TPc2Ui0m9D7K7GER2uaQj164u0ntckDO22fVfR9hawGIbWtnk/ey98i7fXGV/qqFDnLntnfm0uvpGaRy/QYEOUm2rDQ/u8ZrCMVSluA+/47BD0zaU6hMeA8xG3YBkv+sivc+RMWlotiM0KlRW0Z+9nVXJkedwG8zsG5S+7N+dVFwxNhSnboyeGuAG1dBSlk9nxdT7q6h2Q==;qLNXIjbXQPXzLi55gMvQKQ=="
 ---

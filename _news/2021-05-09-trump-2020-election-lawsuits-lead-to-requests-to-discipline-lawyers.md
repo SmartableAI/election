@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Boebert blasts Facebook over continued Trump suspension, calls for antitrust action"
-excerpt: "Rep. Lauren Boebert, R-Colo., called Wednesday for Facebook to be broken up after the social media giant’s oversight committee affirmed a decision to suspend former President Donald Trump’s account following the Jan. 6 riot at the Capitol."
-publishedDateTime: 2021-05-05T19:24:11Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/opxZ_2Mgij4/boebert-blasts-facebook-trump-account-decision-calls-for-antitrust-action"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/opxZ_2Mgij4/boebert-blasts-facebook-trump-account-decision-calls-for-antitrust-action"
-ampWebUrl: "https://www.foxnews.com/politics/boebert-blasts-facebook-trump-account-decision-calls-for-antitrust-action.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-blasts-facebook-trump-account-decision-calls-for-antitrust-action.amp"
+title: "Trump 2020 Election Lawsuits Lead to Requests to Discipline Lawyers"
+excerpt: "Courts and licensing bodies are weighing whether some of the failed legal challenges to the 2020 presidential election were frivolous or improper and warrant punishment for the lawyers who filed them."
+publishedDateTime: 2021-05-09T13:00:00Z
+originalUrl: "https://www.wsj.com/articles/trump-2020-election-lawsuits-lead-to-requests-to-discipline-lawyers-11620568801"
+webUrl: "https://www.wsj.com/articles/trump-2020-election-lawsuits-lead-to-requests-to-discipline-lawyers-11620568801"
+ampWebUrl: "https://www.wsj.com/amp/articles/trump-2020-election-lawsuits-lead-to-requests-to-discipline-lawyers-11620568801"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-2020-election-lawsuits-lead-to-requests-to-discipline-lawyers-11620568801"
 type: article
-quality: 169
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
+  name: Wall Street Journal
+  domain: wsj.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c854aa97-4b5f-4323-a141-a711ec984ca4/69a9c07e-ea7e-4a54-ae3f-e52c399e2d98/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://images.wsj.net/im-334136/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -127,6 +128,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Boebert blasts Facebook over continued Trump suspension, calls for antitrust action"
+    excerpt: "Rep. Lauren Boebert, R-Colo., called Wednesday for Facebook to be broken up after the social media giant’s oversight committee affirmed a decision to suspend former President Donald Trump’s account following the Jan. 6 riot at the Capitol."
+    publishedDateTime: 2021-05-05T19:24:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/opxZ_2Mgij4/boebert-blasts-facebook-trump-account-decision-calls-for-antitrust-action"
+    ampWebUrl: "https://www.foxnews.com/politics/boebert-blasts-facebook-trump-account-decision-calls-for-antitrust-action.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-blasts-facebook-trump-account-decision-calls-for-antitrust-action.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c854aa97-4b5f-4323-a141-a711ec984ca4/69a9c07e-ea7e-4a54-ae3f-e52c399e2d98/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Hawley: Facebook board's Trump ban proves its time to 'get serious' on antitrust action"
     excerpt: "Sen. Josh Hawley, R-Mo., renewed his call for antitrust action against Facebook and other tech platforms on Wednesday, calling it “a little bit ridiculous” that an oversight board was able to determine whether the social media platform’s suspension of former President Donald Trump’s account was justified."
     publishedDateTime: 2021-05-06T00:34:27Z
@@ -174,22 +191,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0217ba45-4b1f-45af-a61e-06b1ff7ed4fa/762f403d-d1bb-46f5-8975-4e4c6a13b68e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Trump 2020 Election Lawsuits Lead to Requests to Discipline Lawyers"
-    excerpt: "Courts and licensing bodies are weighing whether some of the failed legal challenges to the 2020 presidential election were frivolous or improper and warrant punishment for the lawyers who filed them."
-    publishedDateTime: 2021-05-09T13:00:00Z
-    webUrl: "https://www.wsj.com/articles/trump-2020-election-lawsuits-lead-to-requests-to-discipline-lawyers-11620568801"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-2020-election-lawsuits-lead-to-requests-to-discipline-lawyers-11620568801"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-2020-election-lawsuits-lead-to-requests-to-discipline-lawyers-11620568801"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-334136/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Donald Trump offers advice to ‘woke’ Oscars"
     excerpt: "Former President Donald Trump ​on Tuesday ​weighed in on the Academy Awards that critics lambasted as overly “woke” and which attracted its smallest TV audience in history, suggesting"
@@ -462,6 +463,6 @@ related:
         height: 500
         isCached: true
 
-secured: "WLDNBAaT3p4hCeJl4CVTvQGLHX2wEiI7q2AnWSI3AtsL3JRXBoLmJgKjx52+5kzq/B6IdkF5QK+QaQMtoAj7A5nfaOLDZBl6rQzDWBPI17iSmEvEgh7E0Gx/pJP8S+Oq8DBDhV04GL9cBwqQfy4Azm2RF++kH4i1DBscwoFBlVI6Zu/J81uUCQcUontXarOHLyB6CdYGFTv/Smehw68a6rF9bqJNVIZgV833jdmI+AUgKEKRKRcipDKj9HwDIA2DwHFRyGzRwBmf4ZyHBFEYkHspqftEVGZ7mCFtsQM7oIyY0OUug3gKsXVN1/IVqp6K1Qwj1l0KlBR2slGM5SVrbV9LNm/K07LeeHF72GK7IkQ=;gdfYKTfD9NMrB8gA99Un9A=="
+secured: "pb//w49/PGXsxrIVZdoPPf7Q7x1Nj0PIwxuRQSUuSMAFmPdmgrRzcPkkLma7ZHtTCpe/B7xeFTdZS1DtGGfmc7eFYRqA2fnFH5Rb8bcGT0SrAYBiJVUD7C62eizRTIReb665UXFF7b14c82ZwpYhmFL3bR3zUwr0DMq2Bg96+jyWCb5h2l2fEZdkze/Hrnxa98ZHBgEXjfq1kGLgzuTYjRPJxXTXtKUfDeRJer9tRQjb5GIJGJmru0Yj/46SEKnEbB2W2kHSNWugYK9H6h3Hwj45MNuy1CoZiHFnOPuB953eUpPhZh6canZ8rT0BPJIS4XD1dQIm4voXqHV0Yh6NL2ztj8BBYU334oYqTnqUDvk=;DmeimmDyu9wQ9E+zYybvqg=="
 ---
 

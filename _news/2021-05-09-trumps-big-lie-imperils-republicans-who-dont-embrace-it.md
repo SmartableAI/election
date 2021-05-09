@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Trump's 'Big Lie' Imperils Republicans Who Don't Embrace It"
-excerpt: "Allegiance to a lie has become a test of loyalty to Donald Trump and a means of self-preservation for Republicans. Trump's discredited allegations about a stolen election did nothing to save his presidency when courtrooms high and low,"
-publishedDateTime: 2021-05-09T11:36:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-05-09/trumps-big-lie-imperils-republicans-who-dont-embrace-it"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-05-09/trumps-big-lie-imperils-republicans-who-dont-embrace-it"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-05-09/trumps-big-lie-imperils-republicans-who-dont-embrace-it?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-05-09/trumps-big-lie-imperils-republicans-who-dont-embrace-it?context=amp"
+title: "Trump's 'Big Lie' imperils Republicans who don't embrace it"
+excerpt: "Trump's discredited allegations about a stolen election did nothing to save his presidency when courtrooms high and low, state governments and ultimately Congress — meeting in the chaos of an insurrection powered by his grievances — affirmed the legitimacy of his defeat and the honesty of the process that led to it."
+publishedDateTime: 2021-05-09T15:38:00Z
+originalUrl: "https://www.chron.com/news/article/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
+webUrl: "https://www.chron.com/news/article/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
+ampWebUrl: "https://www.chron.com/news/amp/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Republicans look to oust Liz Cheney as Trump allies push election lie – live"
@@ -491,6 +493,6 @@ related:
         height: 843
         isCached: true
 
-secured: "dANT1zTVKHnmgE81ZBHvOur9vWxRmoiBucsTvsaSubGRynfkUnE8rLWCcd1Z50mA2BwQNc/VZJplnibYwH6TwV6dwIlUAc9QNedzqwwSUQxLYGpuBNG8yoDzwTsc3Q5NdHWnkrTHEc5e9p5CTlXQsv7PjNXtDms7jC4cehsc9IEbjt4DhhIcczsPHsEju5qHdN4ZhGQ7tPPA5Ow2dxAzMXN0FPXXLuKJbLUVzzPRC5n9Y4xiQEWuRgZIeMBtuzlph9bWHZQe/EaiWtVyQ/MM4zn3ZZj+Y23RKUvuz5aHJ9SVOOiyhV9o3tGPXHAuZ6QP6nvj5b7wZ6quTkoqdH4B1+Xy6pujWsjGgy3DpDhCXYCdU1LzuMAqzjLadw+uAlGX0zSr/vwqo+I8k+Zg9a8ic/GqBrKb3QD2hzvHTwx5sE0+n6L5REfLKJ4qYjT/AWh9ZF2EqQTPMkLXX+mJv6MDU0U26BxKBAlGLWsIV2xTE264AX67XH7hM4dWQnKCanh7FH6LJSm853LUOjq9o08HUg==;MKQptbkLcmpmDod/rWh+ag=="
+secured: "4ZIiqqV5YClyqvuwioXBmYy+VQWF1PI7rYKZbWV6CcjddO/xISVLEGPhQIzaUB/jNWF0iGbCoJn0qG2ZJTbfEU+fjVtpMebPyThfoajWMoGxwr5h5yQx37KNbfZdLjRAnNF8K3uUzNfHkppC2ghJ4CTcBGSy9YhsreoKsYKmkGytJlhomIpnJsGZMyYLZSBFgY0NXUOXrCtupRyRS8BQkMMIcqur6DeLYIEEDb7VCj14t6kNS7dIp/+KDMT5OSHYY2rl98CPQz2aIoeAXy249pHFfsAS7qvE+8I/p9ntG7Tpei1cP1kOCqpri9FKHc3MyG734CRKw8WKiGalvnBXjCW5s08EHwvzIfutCVTeka4=;fgbaQKIctRcrPUjn35NcOg=="
 ---
 
