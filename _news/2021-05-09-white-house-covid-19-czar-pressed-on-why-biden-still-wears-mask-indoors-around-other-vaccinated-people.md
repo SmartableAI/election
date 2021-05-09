@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Ron Klain, Biden's powerful chief of staff, leads White House rife with dark money ties"
-excerpt: "President Biden has padded his administration with a number of individuals with strong ties to progressive dark money groups, including his chief of staff Ron Klain, which could provide a pipeline for the groups to push their agendas to the White House."
-publishedDateTime: 2021-05-06T20:19:47Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kLBvN_IVe7w/biden-white-house-ron-klain-dark-money-groups"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kLBvN_IVe7w/biden-white-house-ron-klain-dark-money-groups"
-ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-ron-klain-dark-money-groups.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-ron-klain-dark-money-groups.amp"
+title: "White House COVID-19 czar pressed on why Biden still wears mask indoors around other vaccinated people"
+excerpt: "White House COVID-19 response coordinator Jeff Zients was asked Sunday to explain why President Biden still wears a mask during press briefings despite being fully vaccinated and standing in a room with fully vaccinated journalists."
+publishedDateTime: 2021-05-09T16:50:03Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mV_w1eNiO9k/white-house-covid-czar-biden-mask-indoors-around-vaccinated-people"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mV_w1eNiO9k/white-house-covid-czar-biden-mask-indoors-around-vaccinated-people"
+ampWebUrl: "https://www.foxnews.com/politics/white-house-covid-czar-biden-mask-indoors-around-vaccinated-people.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-covid-czar-biden-mask-indoors-around-vaccinated-people.amp"
 type: article
-quality: 167
+quality: 159
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89a1c725-b3de-4d00-87f1-a854249a170e/8b4e1e68-391e-42d1-a1d4-13227debc130/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ron Klain, Biden's powerful chief of staff, leads White House rife with dark money ties"
+    excerpt: "President Biden has padded his administration with a number of individuals with strong ties to progressive dark money groups, including his chief of staff Ron Klain, which could provide a pipeline for the groups to push their agendas to the White House."
+    publishedDateTime: 2021-05-06T20:19:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kLBvN_IVe7w/biden-white-house-ron-klain-dark-money-groups"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-ron-klain-dark-money-groups.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-ron-klain-dark-money-groups.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89a1c725-b3de-4d00-87f1-a854249a170e/8b4e1e68-391e-42d1-a1d4-13227debc130/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Teachers union bosses visited White House for Jill Biden event ahead of CDC lobbying effort"
     excerpt: "The nation's leading teachers unions were among the Biden administration's first visitors to the White House, visitor logs show."
     publishedDateTime: 2021-05-09T02:01:50Z
@@ -110,22 +126,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88785100-c591-4705-a000-240dbb0fec6e/e8c41f49-b049-4819-a13e-a62dfe9c3e34/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "White House COVID-19 czar pressed on why Biden still wears mask indoors around other vaccinated people"
-    excerpt: "White House COVID-19 response coordinator Jeff Zients was asked Sunday to explain why President Biden still wears a mask during press briefings despite being fully vaccinated and standing in a room with fully vaccinated journalists."
-    publishedDateTime: 2021-05-09T16:50:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mV_w1eNiO9k/white-house-covid-czar-biden-mask-indoors-around-vaccinated-people"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-covid-czar-biden-mask-indoors-around-vaccinated-people.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-covid-czar-biden-mask-indoors-around-vaccinated-people.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Based on Biden's Performance So Far, There's Trouble Ahead for Democrats"
     excerpt: "On the surface, Joe Biden seems to be doing pretty well. But underneath, there are signs of problems, areas where partisan overstretch threatens"
@@ -144,6 +144,6 @@ related:
         height: 500
         isCached: true
 
-secured: "nYxApSlJgx8OqKibMxH7XtrY8uv9qJj9qS/v7yKkjpFmO1nNR5ys/NuuGSHydA1jKM50O1qAMierIY02IemIFTGgBT6j6dsRRua2AkZoV1N9NYFzj6PBDhu1tokF+yVpwDBmvHmVxnSCKb/EKvarmnzcIf4MI/+iolYHjEUrMyLLZX+2kKjsbDY2DjNTBiJsOrTt6iufQ7wWfqqiffcwvBMz19YGo+e0xfYHlEvKnKcDlzoKsrxr5PiXXY7sJOrHOMTVKHyOhtiV66Ny3GzLnuEdsuNVZ5/sUcq2/HyDu5DYKyk730+xewiyFac2Eoy/O1pCiNfJ0v+SUXlb2NvGV3A010Tyy1bBAEOl0mcasao=;tRy6noKumLk7tPaCu60/rw=="
+secured: "cYkb+wSee2GYoLAqrGJL/zEq/dz8CdEr5wQ/LJs9d3lu5M8Ociu62FKgYy6L2Jogqc4RGEb2URHEk0M/PXHWgmd7IL/7YNHrU4MIfMc0FYdedYZ5sq5SsGlq5hXwgqb4kM5PdWPiSHui6/lxdF/bmMVE1sg3CJybwxlcSK/YzFkVkK7Vsi7bq38pXREQREfIAYQZdaZmbGuwOX2Lcx6eJpFuyd9TA2FTz9pND60LScXF/EXDpnAgYL2qsVV32TB0d2zXCaPT/+G1/IpHKBKrRihYn553ClzOIzDf6HWGlvwIvB+udPrRHXHET6zPNVE5pP42j1yo81m4z5Yr7UrCjYZAtpas8yc+jnzQ2YLD8o0=;qY13fPx1ajzYvbTtb4PxoQ=="
 ---
 

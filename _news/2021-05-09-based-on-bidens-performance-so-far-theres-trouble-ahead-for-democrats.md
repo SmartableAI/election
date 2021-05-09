@@ -124,6 +124,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "White House COVID-19 czar pressed on why Biden still wears mask indoors around other vaccinated people"
+    excerpt: "White House COVID-19 response coordinator Jeff Zients was asked Sunday to explain why President Biden still wears a mask during press briefings despite being fully vaccinated and standing in a room with fully vaccinated journalists."
+    publishedDateTime: 2021-05-09T16:50:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mV_w1eNiO9k/white-house-covid-czar-biden-mask-indoors-around-vaccinated-people"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-covid-czar-biden-mask-indoors-around-vaccinated-people.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-covid-czar-biden-mask-indoors-around-vaccinated-people.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "WsLTRV2mj2t8NMyi2eNLaYl2mQZpu/3aLhC4fV/6X2Pp4ravzaBIpJ535exXBVnaP6bNpp3+r5LLYbqQzrdD5pxRWETteLixXNNqdRt8p3G+EjAPZztlcn/GUm63Ct1Smn9z4yDR1kYLfh+j6QIojxmamgrivT1uMxjnHvRkVTyg13KQ4HifTHrmY338gOSgy0TBLpid+c947P8mWbyFtiD/2S4hDE+zKTNs5ZrzeomCD+bpULT2Cy6hK17OILro8D5Ml4t9AeaS7AV29OkWaF8R8pJVGa60TYFVmR8LvTi4emLQ9ezDzQQwtTZ3NHTPc8saQurzL6XzRfaBk7dJcS6WcmOH5plxlhcnM+dYBxhILtte9J6uY32cbYQ2tAtVhSpTO9HBY71cXKtqYO/inqyZZwMglaq3gyBhP7zdhayESdD9syA8VVpPduvhmHGUhVQ7lpdCuiAZcntCOEzVTA+YKoqU4Jk0kNd1H7uE/Rlck36hXDvLo0Kwky+Xt9VfjI4DWVns4IbbELX9QXmCUg==;MbDR2aDtNaTedjcHybXz5g=="
 ---
