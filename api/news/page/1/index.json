@@ -70,7 +70,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -336,6 +336,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-08-gaetz-greene-take-mantle-of-trumps-populism-at-rally.md",
+      "title": "Gaetz, Greene take mantle of Trump's populism at rally",
+      "excerpt": "Tell me, who is your president?\"\" Greene shouted after walking out onto a ballroom stage in front of hundreds of supporters wearing “Trump\" T-shirts and “Make America Great Again\" red ballcaps. “Trump!",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/Gaetz-Greene-take-mantle-of-Trump-s-populism-at-16161164.php",
+      "originalUrl": "https://www.chron.com/news/article/Gaetz-Greene-take-mantle-of-Trump-s-populism-at-16161164.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/Gaetz-Greene-take-mantle-of-Trump-s-populism-at-16161164.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Gaetz-Greene-take-mantle-of-Trump-s-populism-at-16161164.php",
+      "publishedDateTime": "2021-05-07T22:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-08-bill-maher-desantis-could-run-in-2024-without-trumps-blessing-but-its-a-risky-move.md",
       "title": "Bill Maher: DeSantis could run in 2024 without Trump's 'blessing' -- but it's a risky move",
       "excerpt": "\"Real Time\" host Bill Maher wondered if Republican Florida Gov. Ron DeSantis will run for president in 2024 -- regardless of whether he receives former President Trump's \"blessing.\"",
@@ -390,58 +433,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-gaetz-greene-take-mantle-of-trumps-populism-at-rally.md",
-      "title": "Gaetz, Greene take mantle of Trump's populism at rally",
-      "excerpt": "U.S. Reps. Matt Gaetz and Marjory Taylor Greene, two of the Republican Party’s most controversial figures, have kicked off their “America First Rally” roadshow with a Trump-centric revival of sorts at",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/gaetz-greene-take-mantle-of-trumps-populism-at-rally/2021/05/07/8fdcb194-af92-11eb-82c1-896aca955bb9_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/gaetz-greene-take-mantle-of-trumps-populism-at-rally/2021/05/07/8fdcb194-af92-11eb-82c1-896aca955bb9_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RRAN2OVPSII6XAWBRFVMVFK3XE.jpg&w=1440",
-          "width": 1440,
-          "height": 958,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/gaetz-greene-take-mantle-of-trumps-populism-at-rally/2021/05/07/8fdcb194-af92-11eb-82c1-896aca955bb9_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gaetz-greene-take-mantle-of-trumps-populism-at-rally/2021/05/07/8fdcb194-af92-11eb-82c1-896aca955bb9_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-07T17:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {

@@ -108,6 +108,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Teachers union bosses visited White House for Jill Biden event ahead of CDC lobbying effort"
+    excerpt: "The nation's leading teachers unions were among the Biden administration's first visitors to the White House, visitor logs show."
+    publishedDateTime: 2021-05-09T02:01:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/neNueTmP03Y/teacher-union-officials-white-house-visit-cdc-lobbying"
+    ampWebUrl: "https://www.foxnews.com/politics/teacher-union-officials-white-house-visit-cdc-lobbying.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/teacher-union-officials-white-house-visit-cdc-lobbying.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88785100-c591-4705-a000-240dbb0fec6e/e8c41f49-b049-4819-a13e-a62dfe9c3e34/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "WsLTRV2mj2t8NMyi2eNLaYl2mQZpu/3aLhC4fV/6X2Pp4ravzaBIpJ535exXBVnaP6bNpp3+r5LLYbqQzrdD5pxRWETteLixXNNqdRt8p3G+EjAPZztlcn/GUm63Ct1Smn9z4yDR1kYLfh+j6QIojxmamgrivT1uMxjnHvRkVTyg13KQ4HifTHrmY338gOSgy0TBLpid+c947P8mWbyFtiD/2S4hDE+zKTNs5ZrzeomCD+bpULT2Cy6hK17OILro8D5Ml4t9AeaS7AV29OkWaF8R8pJVGa60TYFVmR8LvTi4emLQ9ezDzQQwtTZ3NHTPc8saQurzL6XzRfaBk7dJcS6WcmOH5plxlhcnM+dYBxhILtte9J6uY32cbYQ2tAtVhSpTO9HBY71cXKtqYO/inqyZZwMglaq3gyBhP7zdhayESdD9syA8VVpPduvhmHGUhVQ7lpdCuiAZcntCOEzVTA+YKoqU4Jk0kNd1H7uE/Rlck36hXDvLo0Kwky+Xt9VfjI4DWVns4IbbELX9QXmCUg==;MbDR2aDtNaTedjcHybXz5g=="
 ---

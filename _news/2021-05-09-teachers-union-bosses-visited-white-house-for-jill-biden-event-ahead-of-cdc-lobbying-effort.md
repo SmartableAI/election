@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden waives ethics rules for former union bosses who now work in White House"
-excerpt: "The Biden administration has come under scrutiny from Republicans on Capitol Hill following its decision to circumvent federal ethics rules and staff former union officials in senior posts."
-publishedDateTime: 2021-05-08T22:38:58Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oxat4gGPX_o/biden-waives-ethics-rules-for-former-union-bosses-who-now-work-in-white-house"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oxat4gGPX_o/biden-waives-ethics-rules-for-former-union-bosses-who-now-work-in-white-house"
-ampWebUrl: "https://www.foxnews.com/politics/biden-waives-ethics-rules-for-former-union-bosses-who-now-work-in-white-house.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-waives-ethics-rules-for-former-union-bosses-who-now-work-in-white-house.amp"
+title: "Teachers union bosses visited White House for Jill Biden event ahead of CDC lobbying effort"
+excerpt: "The nation's leading teachers unions were among the Biden administration's first visitors to the White House, visitor logs show."
+publishedDateTime: 2021-05-09T02:01:50Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/neNueTmP03Y/teacher-union-officials-white-house-visit-cdc-lobbying"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/neNueTmP03Y/teacher-union-officials-white-house-visit-cdc-lobbying"
+ampWebUrl: "https://www.foxnews.com/politics/teacher-union-officials-white-house-visit-cdc-lobbying.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/teacher-union-officials-white-house-visit-cdc-lobbying.amp"
 type: article
-quality: 172
+quality: 165
 heat: -1
 published: false
 
@@ -42,6 +42,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88785100-c591-4705-a000-240dbb0fec6e/e8c41f49-b049-4819-a13e-a62dfe9c3e34/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden waives ethics rules for former union bosses who now work in White House"
+    excerpt: "The Biden administration has come under scrutiny from Republicans on Capitol Hill following its decision to circumvent federal ethics rules and staff former union officials in senior posts."
+    publishedDateTime: 2021-05-08T22:38:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oxat4gGPX_o/biden-waives-ethics-rules-for-former-union-bosses-who-now-work-in-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-waives-ethics-rules-for-former-union-bosses-who-now-work-in-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-waives-ethics-rules-for-former-union-bosses-who-now-work-in-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88785100-c591-4705-a000-240dbb0fec6e/e8c41f49-b049-4819-a13e-a62dfe9c3e34/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
@@ -95,22 +111,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Teachers union bosses visited White House for Jill Biden event ahead of CDC lobbying effort"
-    excerpt: "The nation's leading teachers unions were among the Biden administration's first visitors to the White House, visitor logs show."
-    publishedDateTime: 2021-05-09T02:01:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/neNueTmP03Y/teacher-union-officials-white-house-visit-cdc-lobbying"
-    ampWebUrl: "https://www.foxnews.com/politics/teacher-union-officials-white-house-visit-cdc-lobbying.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/teacher-union-officials-white-house-visit-cdc-lobbying.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88785100-c591-4705-a000-240dbb0fec6e/e8c41f49-b049-4819-a13e-a62dfe9c3e34/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Based on Biden's Performance So Far, There's Trouble Ahead for Democrats"
     excerpt: "On the surface, Joe Biden seems to be doing pretty well. But underneath, there are signs of problems, areas where partisan overstretch threatens"
     publishedDateTime: 2021-05-08T22:09:00Z
@@ -128,6 +128,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Zor6LLJeLqCKBot4mTQCRlkWFmoehM9XbKO/Xt5jlcCPmzpf7hFzcNjZFd7YmfJUapblsKBXGvzqJx5DQ//jdfCvBYaI6Hgw6blBLrJdCntTetaFb8/Ay24XgLNyUE2WJT1B8pCNmrETXwyVtI37l/edH29+9Opnh3fhkN6kce4/UUFzYI+N2u3frKMsEylEAovVRtMgYd2ldtkpkKJV5XfkebHZwQpIOS0icpXafJexDjQHG87yzUdmVkLD6tzJzjqeIt3mkH67RkZ1KdXXQDDDY0SwQ97koIBtxZVJcnyHEBwYBgmSugRQBEdoG96+b8ycHoL+VCZR2BNeEoBohV6psHc1BYWJq1AI9IDTLtI=;M832sTmCD5xU4pmdBtaWMg=="
+secured: "QNHLIotE6UBCLW6wXtx1bYKTRfc0Ctxvhtnzjy9rJ5FFAb0JFr5AJhxZGaaB4ASI4QmJZxE4pfSJVkNNtqFO9kZdVZzV4vW5bAhUyZY87pugJyLw6IScLgUJu0zv8/YaBnDYHsroxjoHBegnnNDAXqTWvvj3YOM76Mj+8OBWQWupnBzsJ3pb4Aw5HZGyRGC8qcd13uEMB/CE8mBeMVcKwgHbgLU1khypgd2rpgcbjATP4olWl8NojJPgxrhnPCyNcJjtbxhL6/YbTiNHhb1rd/Ve0cJERhDImXSns1OLwKEUw4yZG3zr/F5kQhrZuyyipKaNCSRjBgFTJbrpCGiWUFwJAP1iL+Pddwfcyvd5ELc=;Kj9WAhYy7LHVhbKZwxdGPA=="
 ---
 
