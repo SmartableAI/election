@@ -111,6 +111,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden admin rejects that extended unemployment benefits to blame for dismal job report"
+    excerpt: "U.S. Secretary of Commerce Gina Raimondo said on Sunday that the dismal April jobs report shows the economy has a \"long way to go\" as it recovers from the coronavirus pandemic amid criticism that extended unemployment benefits are lowering the incentive for Americans to get back to work."
+    publishedDateTime: 2021-05-09T18:09:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y8UspqhX1No/biden-admin-dismal-job-report-extended-unemployment-benefits"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-dismal-job-report-extended-unemployment-benefits.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-dismal-job-report-extended-unemployment-benefits.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "White House COVID-19 czar pressed on why Biden still wears mask indoors around other vaccinated people"
     excerpt: "White House COVID-19 response coordinator Jeff Zients was asked Sunday to explain why President Biden still wears a mask during press briefings despite being fully vaccinated and standing in a room with fully vaccinated journalists."
     publishedDateTime: 2021-05-09T16:50:03Z

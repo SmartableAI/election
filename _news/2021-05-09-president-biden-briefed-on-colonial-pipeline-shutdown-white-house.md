@@ -2,11 +2,11 @@
 category: news
 title: "President Biden briefed on Colonial Pipeline shutdown - White House"
 excerpt: "President Joe Biden was briefed early on Saturday on the Colonial Pipeline shutdown that resulted from a ransom attack, the White House said."
-publishedDateTime: 2021-05-08T19:34:00Z
-originalUrl: "https://www.reuters.com/article/usa-products-colonialpipeline-white-hous-idINL1N2MV0EL"
-webUrl: "https://www.reuters.com/article/usa-products-colonialpipeline-white-hous-idINL1N2MV0EL"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINL1N2MV0EL"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL1N2MV0EL"
+publishedDateTime: 2021-05-09T00:34:00Z
+originalUrl: "https://www.reuters.com/article/usa-products-colonialpipeline-white-hous-idUSL1N2MV0EL"
+webUrl: "https://www.reuters.com/article/usa-products-colonialpipeline-white-hous-idUSL1N2MV0EL"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MV0EL"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MV0EL"
 type: article
 quality: 105
 heat: -1
@@ -1852,6 +1852,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "eNTfmRImTWGr8Hr3VbWPslbgHyLxR/j2j4qeNCZeHT5yfLy2O9Er1k5kvNVXHtKgZrV9MOg9Tv9pstH96RwGqJcieMALp1bCqM+/haZp0l3a6eLRQYS2VHHiLdcGIfOlGyD4xpUPP5jjNhMYhWpXqHleI6MM/XIqnLGN+XVSZjUSzSP9si0aQzzNhx2j3uZdvbSRHPi+mIpGAhS/pWqw0JMZyjVAbBXZ0C/KI4qInnBrMXpa8zGA41/EsuXPQQioLqcnawR72gANEwcu9o0ezpRL+tEsysmJOCqv5Qxy5AFy5h9XwFlhM6K63VCSRuIMH8oD0lDCEMpcwhzXZW3czCr0nYf9+0lbAR/H/NKiN5A=;UvHyyiiA1k0bwi6usZHlBA=="
+secured: "GAN8i5VfsEuCDdz4mJ5MjPhqzh7MzHyqmc4zjoq63OFhuxd3Cgd31UTY1rtybyUhpV0GpQr7OGaOpm8vDqRAcLCwW8Npmg8/Pk8TgeKPrFkakrHFU9LBTcloNam9nRi1kF9ab3RrSWmaVDft4gOAVqpJ05YPd/F7WSS1W+6rdcMDScZ1UPYX0o8IwrQom/Yo8ameab70PpVIYmP42G2/aAlpguxXxuskprA95EdRnggx0HzcgXa4ROwTXdzmVcXcSBX/nNQg8iVWeuehofm9S6+o2qo5emW6W+aYG6CGeyqXtGjabqvPzK8JfbdnlR6PDPM66IwFFyEFXkhEK2VRBw0UDPL+auqW1UqsIpU2jRo=;7/h/D64dFg3J3Ytn6k0QJQ=="
 ---
 

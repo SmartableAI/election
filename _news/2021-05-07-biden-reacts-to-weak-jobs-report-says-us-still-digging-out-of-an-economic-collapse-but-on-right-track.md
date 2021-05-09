@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Texas sheriff blasts Biden administration for making National Guard pick up garbage at border"
+    excerpt: "A Texas sheriff slammed President Biden’s border policies and argued it’s a “complete embarrassment” that his administration is forcing the Texas National Guard to clean up the piles of trash left behind by migrants."
+    publishedDateTime: 2021-05-09T18:49:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ETFcwXZ2KCQ/texas-sheriff-biden-administration-national-guard"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-sheriff-biden-administration-national-guard.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-sheriff-biden-administration-national-guard.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3eff6116-44c4-4b35-90ef-5772901dad4c/7f79efdf-0a4c-4542-9a00-dd847acac2e5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden admin’s photos of empty migrant facility are misleading, Texas Democrat says: ‘They’re just next door’"
     excerpt: "A Texas Democrat who has been critical of Biden administration policies at the U.S.-Mexico border lashed out this week, accusing the administration of posting misleading photos from a migrant processing facility."
     publishedDateTime: 2021-05-06T04:03:47Z

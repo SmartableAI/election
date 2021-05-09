@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-09-pelosi-biden-praise-moms-on-mothers-day-amid-progressive-talk-of-birthing-people.md",
+      "title": "Pelosi, Biden praise moms on Mother's Day amid progressive talk of 'birthing people'",
+      "excerpt": "House Speaker Nancy Pelosi and the White House issued Mother's Day messages on Sunday as some progressives use the term \"birthing people\" instead.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iuPEBIPNG-w/mothers-day-birthing-people-democrats-pelosi-cori-bush",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iuPEBIPNG-w/mothers-day-birthing-people-democrats-pelosi-cori-bush",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/16b0dc99-e121-415c-b87d-2f890616897e/236da878-ceff-4311-976e-acb04b43505a/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mothers-day-birthing-people-democrats-pelosi-cori-bush.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mothers-day-birthing-people-democrats-pelosi-cori-bush.amp",
+      "publishedDateTime": "2021-05-09T11:28:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-trump-calls-medina-spirit-a-junky-after-horse-tests-positive-for-betamethasone.md",
+      "title": "Trump calls Medina Spirit a ‘junky’ after horse tests positive for betamethasone",
+      "excerpt": "Former President Donald Trump called Medina Spirit a “junky” on Sunday, after the Kentucky Derby winner’s trainer revealed the horse tested positive for an illegal",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/09/trump-calls-medina-spirit-a-junky-after-drug-test-revelation/",
+      "originalUrl": "https://nypost.com/2021/05/09/trump-calls-medina-spirit-a-junky-after-drug-test-revelation/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-calls-medina-spirit-junky-3.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/09/trump-calls-medina-spirit-a-junky-after-drug-test-revelation/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/09/trump-calls-medina-spirit-a-junky-after-drug-test-revelation/amp/",
+      "publishedDateTime": "2021-05-09T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-09-biden-admin-faces-lack-of-icebreakers-increasing-russian-and-chinese-threats-in-arctic.md",
       "title": "Biden admin faces lack of icebreakers, increasing Russian and Chinese threats in Arctic",
       "excerpt": "One of the least talked-about challenges for the new administration is one that's been brewing for years, long before Donald Trump's presidency: growing challenges to the United States' ability to assert its will in the Arctic. ",
@@ -127,7 +231,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 214,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -183,7 +287,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -1557,118 +1661,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-bidens-bringing-cat-into-white-house-despite-dog-biting-drama.md",
-      "title": "Bidens bringing cat into White House despite dog-biting drama",
-      "excerpt": "Despite having a ruff run of things with first dog Major caught up in a biting scandal, President Biden and first lady Jill Biden announced Friday that they’re bringing a cat to the White House.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TN1s2IHXNqg/bidens-bringing-cat-white-house-dog-biting",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TN1s2IHXNqg/bidens-bringing-cat-white-house-dog-biting",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b6165699-e33d-4790-9f5d-d33471d1c4b4/19c2eb65-527f-4e43-9d3a-3aed7ed97d5b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-bringing-cat-white-house-dog-biting.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-bringing-cat-white-house-dog-biting.amp",
-      "publishedDateTime": "2021-04-30T09:46:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-biden-claims-weve-now-gotten-control-of-migrant-surge-at-southern-border-amid-criticism.md",
-      "title": "Biden claims 'we've now gotten control' of migrant surge at southern border, amid criticism",
-      "excerpt": "President Biden, in an interview this week, claimed that his administration has \"now gotten control\" of the high number of migrants surging at the southern border -- while again blaming the Trump administration for the crisis that overwhelmed officials in recent months.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LTluZE7NV9I/biden-claims-control-migrant-surge",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LTluZE7NV9I/biden-claims-control-migrant-surge",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e67ffbe5-2bb3-479b-9dc1-24505bb3bacf/5c55c28e-ad94-4fb5-8434-0f3fa509ec88/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-claims-control-migrant-surge.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-claims-control-migrant-surge.amp",
-      "publishedDateTime": "2021-04-30T08:31:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

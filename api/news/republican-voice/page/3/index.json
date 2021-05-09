@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-22-white-house-rebrands-kamala-harris-husband-douglas-instead-of-doug.md",
+      "title": "White House rebrands Kamala Harris’ husband ‘Douglas’ instead of ‘Doug’",
+      "excerpt": "The White House changed the name of Kamala Harris’ husband from “Doug” to “Douglas” Emhoff in an apparent attempt to rebrand him as a more serious guy.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/21/kamala-harris-husband-rebranded-as-douglas-instead-of-doug/",
+      "originalUrl": "https://nypost.com/2021/04/21/kamala-harris-husband-rebranded-as-douglas-instead-of-doug/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/doug-emhoff.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/21/kamala-harris-husband-rebranded-as-douglas-instead-of-doug/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/21/kamala-harris-husband-rebranded-as-douglas-instead-of-doug/amp/",
+      "publishedDateTime": "2021-04-21T19:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.md",
+      "title": "Florida AG Moody demands Biden make Supreme Court commission meetings public",
+      "excerpt": "Florida Attorney General Ashley Moody called this week for President Biden to allow public access to meetings of a commission he formed to explore a potential expansion of the Supreme Court, among other reforms.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ewBhAupQ7FQ/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ewBhAupQ7FQ/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/05c2a13b-83af-4d3f-9d1f-6b9fdb7bfc9c/1903328b-8ba5-4353-a238-68996472ba7c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-ag-moody-demands-biden-make-supreme-court-commission-meetings-public.amp",
+      "publishedDateTime": "2021-04-21T19:07:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-biden-admin-blocking-veterans-annual-memorial-day-motorcycle-rally-rep-mast-says.md",
       "title": "Biden admin blocking veterans' annual Memorial Day motorcycle rally, Rep. Mast says",
       "excerpt": "Rep. Brian Mast, R-Fla., accused the Biden administration of blocking the annual Rolling to Remember motorcycle rally, a 30-year-plus Memorial Day tradition for veterans that has always been staged in the Pentagon parking lot.",
@@ -1568,119 +1672,6 @@
         "Republican Voice",
         "Mike Pence",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-texas-gov-abbott-calls-on-biden-harris-to-apply-terrorist-label-to-mexican-cartels-report.md",
-      "title": "Texas Gov. Abbott calls on Biden, Harris to apply ‘terrorist’ label to Mexican cartels: report",
-      "excerpt": "Texas Gov. Greg Abbott wants the Biden administration to declare Mexico’s drug cartels to be terrorist organizations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OLDUYa775UI/texas-gov-abbott-calls-on-biden-harris-to-apply-terrorist-label-to-mexican-cartels-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OLDUYa775UI/texas-gov-abbott-calls-on-biden-harris-to-apply-terrorist-label-to-mexican-cartels-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 248,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b7e0d43-01ac-4ea4-9373-689fb8848fe4/418929e4-8d25-4f2b-bc61-6d784c399913/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/texas-gov-abbott-calls-on-biden-harris-to-apply-terrorist-label-to-mexican-cartels-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-gov-abbott-calls-on-biden-harris-to-apply-terrorist-label-to-mexican-cartels-report.amp",
-      "publishedDateTime": "2021-04-15T21:58:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-ex-trump-official-kellyanne-conway-named-senior-adviser-to-ohio-senate-candidate-bernie-moreno.md",
-      "title": "Ex-Trump official Kellyanne Conway named senior adviser to Ohio Senate candidate Bernie Moreno",
-      "excerpt": "Former Trump campaign manager Kellyanne Conway will serve as a senior adviser to Ohio Senate candidate Bernie Moreno, his campaign announced on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HbMI4K9W-yY/ex-trump-official-kellyanne-conway-senior-adviser-ohio-senate-candidate-bernie-moreno",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HbMI4K9W-yY/ex-trump-official-kellyanne-conway-senior-adviser-ohio-senate-candidate-bernie-moreno",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b9ac759-5944-4eae-a66a-9543f7b07e79/4d7bc46b-988a-4b72-8a6a-96c59393937f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ex-trump-official-kellyanne-conway-senior-adviser-ohio-senate-candidate-bernie-moreno.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-trump-official-kellyanne-conway-senior-adviser-ohio-senate-candidate-bernie-moreno.amp",
-      "publishedDateTime": "2021-04-15T15:09:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

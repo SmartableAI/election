@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-first-virtual-vis
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89a1c725-b3de-4d00-87f1-a854249a170e/8b4e1e68-391e-42d1-a1d4-13227debc130/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden admin rejects that extended unemployment benefits to blame for dismal job report"
+    excerpt: "U.S. Secretary of Commerce Gina Raimondo said on Sunday that the dismal April jobs report shows the economy has a \"long way to go\" as it recovers from the coronavirus pandemic amid criticism that extended unemployment benefits are lowering the incentive for Americans to get back to work."
+    publishedDateTime: 2021-05-09T18:09:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y8UspqhX1No/biden-admin-dismal-job-report-extended-unemployment-benefits"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-dismal-job-report-extended-unemployment-benefits.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-dismal-job-report-extended-unemployment-benefits.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Teachers union bosses visited White House for Jill Biden event ahead of CDC lobbying effort"
     excerpt: "The nation's leading teachers unions were among the Biden administration's first visitors to the White House, visitor logs show."

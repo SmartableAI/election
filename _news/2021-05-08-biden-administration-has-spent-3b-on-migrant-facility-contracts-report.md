@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-administration-border-migrant
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-border-migrant-facility-contracts-spending.amp"
 type: article
 quality: 174
-heat: 214
+heat: 234
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Texas sheriff blasts Biden administration for making National Guard pick up garbage at border"
+    excerpt: "A Texas sheriff slammed President Biden’s border policies and argued it’s a “complete embarrassment” that his administration is forcing the Texas National Guard to clean up the piles of trash left behind by migrants."
+    publishedDateTime: 2021-05-09T18:49:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ETFcwXZ2KCQ/texas-sheriff-biden-administration-national-guard"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-sheriff-biden-administration-national-guard.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-sheriff-biden-administration-national-guard.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3eff6116-44c4-4b35-90ef-5772901dad4c/7f79efdf-0a4c-4542-9a00-dd847acac2e5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden reacts to weak jobs report, says US 'still digging out of an economic collapse,' but on 'right track'"
     excerpt: "President Biden on Friday said the country is “still digging out of an economic collapse” amid the coronavirus pandemic, but that the U.S. is on the “right track,” as the administration reported that the economy created 266,000 jobs in April."
     publishedDateTime: 2021-05-07T16:40:38Z
