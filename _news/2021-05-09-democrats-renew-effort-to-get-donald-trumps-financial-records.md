@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
-excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
-publishedDateTime: 2021-04-05T18:20:00Z
-originalUrl: "https://thehill.com/hilltv/what-americas-thinking/546495-poll-more-voters-place-blame-on-biden-administration-for-border"
-webUrl: "https://thehill.com/hilltv/what-americas-thinking/546495-poll-more-voters-place-blame-on-biden-administration-for-border"
-ampWebUrl: "https://thehill.com/hilltv/what-americas-thinking/546495-poll-more-voters-place-blame-on-biden-administration-for-border?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/what-americas-thinking/546495-poll-more-voters-place-blame-on-biden-administration-for-border?amp"
+title: "Democrats renew effort to get Donald Trump’s financial records"
+excerpt: "House committee is arguing to federal judge that with Trump out of office, he no longer has a viable claim to withhold materials"
+publishedDateTime: 2021-05-09T05:00:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/may/08/democrat-house-committee-judge-trump-subpoena-financial-records"
+webUrl: "https://www.theguardian.com/us-news/2021/may/08/democrat-house-committee-judge-trump-subpoena-financial-records"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/08/democrat-house-committee-judge-trump-subpoena-financial-records"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/08/democrat-house-committee-judge-trump-subpoena-financial-records"
 type: article
-quality: 139
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/bidenjoe_04022021getty.jpg"
-    width: 980
-    height: 551
+  - url: "https://i.guim.co.uk/img/media/e7e3bb37e126360d7c5858afcd1de6bafb9c442d/0_0_4060_2436/master/4060.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8dc99ed58217f4c44b4be772016e92e2"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -222,6 +222,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/49FE/production/_118424981_gettyimages-1231463734.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
+    excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
+    publishedDateTime: 2021-04-05T18:20:00Z
+    webUrl: "https://thehill.com/hilltv/what-americas-thinking/546495-poll-more-voters-place-blame-on-biden-administration-for-border"
+    ampWebUrl: "https://thehill.com/hilltv/what-americas-thinking/546495-poll-more-voters-place-blame-on-biden-administration-for-border?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/what-americas-thinking/546495-poll-more-voters-place-blame-on-biden-administration-for-border?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 139
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_04022021getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden keeps Trump-era cap on refugee admissions, breaking earlier pledge"
     excerpt: "Instead, the president is adjusting the allocation limits and lifting restrictions on resettlements from Somalia, Syria and Yemen"
@@ -1055,22 +1071,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Democrats renew effort to get Donald Trump’s financial records"
-    excerpt: "House committee is arguing to federal judge that with Trump out of office, he no longer has a viable claim to withhold materials"
-    publishedDateTime: 2021-05-09T05:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/may/08/democrat-house-committee-judge-trump-subpoena-financial-records"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/08/democrat-house-committee-judge-trump-subpoena-financial-records"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/08/democrat-house-committee-judge-trump-subpoena-financial-records"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/e7e3bb37e126360d7c5858afcd1de6bafb9c442d/0_0_4060_2436/master/4060.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8dc99ed58217f4c44b4be772016e92e2"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Pastor Robin Bullock Says It's a Sin to Recognize Joe Biden as President"
     excerpt: "\"You can pray for the office of the president. But you cannot pray for President Joe Biden,\" Bullock said. \"Because you might as well pray for the Easter Bunny, because he don't exist.\""
     publishedDateTime: 2021-05-03T23:31:00Z
@@ -1853,6 +1853,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "8I2yRV1K8qXD6Gj9vYRX9OvRkbVs5nN+DrvQ1efXBQX1i6gkFgdccdJpttDaSj9HBaDF1q8EM7QllNCR91Vh8NLLvGiZc86o4G/C03HYms3XCVUv9lZGo2qkiaFpaSSVmm16HEm5FFAEYh817YwIHOgF2eNKIP1jMyLDZymp4eYoYIpYtiTvoMtEzmsziGSN/wolglSo+T5tFN8Toge9llJu0oRMoiqk7LbhYOwzMpghHR+Dfhrh8tdhZTSfuadYzc/fCTwCIkYOqSmbbYGD6KgXwDAtx4YoS/WAXK5mFoyrv3hRcXJOpNhMf/OXT056nS0OVojqhTtt2bYBZ/bnL2JEOgTy1whiHes8fLeT/nw=;pAYZPVzahVVS2zvrt33aPQ=="
+secured: "jElvvVJklaI66ELTRcDdItLYq5FFRWvxfJ4QIl/2yNdah07c7j65zirxfShm2gjYqwEWkaRzdoDNTISUqoqnuFS4cOWr+f92oWSH5t4F/0pQwVJdRmMNafB6Qb6ICyPW5ieyEVobP04920ZJnlslL8O43/7WfuJJ8oKaReAo2iub3EPo2M8potbvqabLyxmvawA19uThBkR60px9b2/Gm4ZtLSLoIYzRORwOf1UpUhtqMWPJWChzFBNoLey+Ks4j/1Mx2lDWjgqVzR9DCU2XBboHPyv5QhPmN0XPSzE5BgD6H9HP7GHuMjF1Ih1zfK8Z95/0pF5XA1Shb5rfb1ChnxZiSVuqfRuJZ2gh1Za5q/c=;5SBxZcloQ01HjVGv2U6lKg=="
 ---
 

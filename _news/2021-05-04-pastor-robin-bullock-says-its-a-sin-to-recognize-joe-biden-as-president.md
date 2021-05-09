@@ -1071,6 +1071,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Democrats renew effort to get Donald Trump’s financial records"
+    excerpt: "House committee is arguing to federal judge that with Trump out of office, he no longer has a viable claim to withhold materials"
+    publishedDateTime: 2021-05-09T05:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/08/democrat-house-committee-judge-trump-subpoena-financial-records"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/08/democrat-house-committee-judge-trump-subpoena-financial-records"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/08/democrat-house-committee-judge-trump-subpoena-financial-records"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7e3bb37e126360d7c5858afcd1de6bafb9c442d/0_0_4060_2436/master/4060.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8dc99ed58217f4c44b4be772016e92e2"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden Jimmy Carter Photo Leaves People Confused About How Tall They Are"
     excerpt: "The Carter Center shared the photo on Twitter and said: \"We're pleased to share this wonderful photo from the @POTUS and @FLOTUS visit to see the Carters in Plains, Ga.! Thank you President and Mrs. Biden!"
     publishedDateTime: 2021-05-04T13:06:00Z

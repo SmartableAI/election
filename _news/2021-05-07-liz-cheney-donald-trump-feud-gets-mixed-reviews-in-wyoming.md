@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Liz Cheney, Donald Trump feud gets mixed reviews in Wyoming"
-excerpt: "Elected officials in Wyoming aren’t sticking their necks out in defense of Liz Cheney as she faces ouster from House GOP leadership"
-publishedDateTime: 2021-05-07T00:29:00Z
-originalUrl: "https://www.washingtonpost.com/politics/wyoming-officials-steer-clear-of-cheney-peril-before-vote/2021/05/06/bcfadc76-aea9-11eb-82c1-896aca955bb9_story.html"
-webUrl: "https://www.washingtonpost.com/politics/wyoming-officials-steer-clear-of-cheney-peril-before-vote/2021/05/06/bcfadc76-aea9-11eb-82c1-896aca955bb9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/wyoming-officials-steer-clear-of-cheney-peril-before-vote/2021/05/06/bcfadc76-aea9-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wyoming-officials-steer-clear-of-cheney-peril-before-vote/2021/05/06/bcfadc76-aea9-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+excerpt: "Liz Cheney, the defiant third-term congresswoman faces mixed reviews at home. So far, Wyoming’s governor and congressional delegation have avoided sticking out their necks for Cheney, who faces ouster from House GOP leadership over her frequent criticism of former President Donald Trump."
+publishedDateTime: 2021-05-06T23:36:00Z
+originalUrl: "https://www.chron.com/news/article/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
+webUrl: "https://www.chron.com/news/article/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
+ampWebUrl: "https://www.chron.com/news/amp/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LVJJTRVOVEI6XAWBRFVMVFK3XE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -481,6 +477,6 @@ related:
         height: 843
         isCached: true
 
-secured: "Tf97TFlZFywDpQ4Oe+vyEPi7ew7TlZpqgxrt3I5WBqYXL7k+1DHvx9n5LzWTJGyB4FNO3h8bqAQROa1K1StuY1czYwQqg5zcTok1DOs9N9mnLwc3wjcIiCNB7O0DYwBNUBQ74J5Hd4o705ihh+i5NXC+7BGeKLwcIrfCYWlKAlG0RnqR7qBliw8UYK4alCLDUqwn1qyWizBFjJ/LVgKZgaICbf2jtD4u88svD+wu+B9wJ4xis3ZGvpsMthoRaRirlIhX8wNoo0T++IZhmSpgzgZhpbDkKoKhiXNABqyRZbKxwNyxaFIgonZW/ncDmQwf5REgRJRMOLR8c4aU/m5N476SbVMgKEAwsxLEM63vSMAJrt7BXF9Z6StNMVobOqrS3YBgh2qO19lU4JSj7drUUOcDwT9cB9u3yt/KofiRhnmp7aIr+KiiiOVEZw8DXrYLsvuAobUi9j+ipSG44uYsOasCwnWAXbvoPYR8rYgtno7ifPt9ylPXNRsizsWzkfBLbZPCVh2pn3t7JUWUO0Xjqw==;bzrEbHsNwHJhhz/ITxp8Og=="
+secured: "Vix2t12ekJbrJfRm1gK9ghxjtfOdNRjN0NAyRx/5MRtGizmXjTf5NFrrseS7lAd1Ti/ZiWELXODPJQCw5CnrrEJqo7l4pFfcglPCH9rLGnFxQ5VQLnOiFlgay/tkI4fKCfezpcw1zeBeZoAOCd+IFKmh0DOMpG9+qYU28V85l60QZi3y5LyE1vn49DYOkeDYYzLYSVqTdqTJPLusA4TWquzMa0QD1SxwG56vOfC2mlw0IfSx9lboJGSTypHfxDGZxtIJ/DMR7FAU7yQXHUpimw5IqAx7vPo1jV9NRMMw0sTNYCyEoisuPUoL2BlaujdlqVBH6RZvxHF3if7iW5liaa2CxBmlWrF2zzKfqFJ6Kco=;iRBVGa+3X/KW4ddw3/+mGg=="
 ---
 

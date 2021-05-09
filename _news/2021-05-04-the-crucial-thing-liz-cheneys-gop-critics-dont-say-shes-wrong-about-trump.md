@@ -237,22 +237,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Liz Cheney, Donald Trump feud gets mixed reviews in Wyoming"
-    excerpt: "Elected officials in Wyoming aren’t sticking their necks out in defense of Liz Cheney as she faces ouster from House GOP leadership"
-    publishedDateTime: 2021-05-07T00:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/wyoming-officials-steer-clear-of-cheney-peril-before-vote/2021/05/06/bcfadc76-aea9-11eb-82c1-896aca955bb9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/wyoming-officials-steer-clear-of-cheney-peril-before-vote/2021/05/06/bcfadc76-aea9-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wyoming-officials-steer-clear-of-cheney-peril-before-vote/2021/05/06/bcfadc76-aea9-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LVJJTRVOVEI6XAWBRFVMVFK3XE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "House GOP leader Kevin McCarthy amps up pressure on Liz Cheney over Donald Trump barbs"
     excerpt: "Kevin McCarthy has planted himself on the side of Liz Cheney's critics, raising the question of her fitness to lead House Republicans."
     publishedDateTime: 2021-05-04T16:35:00Z
@@ -397,6 +381,22 @@ related:
     webUrl: "https://www.chron.com/news/article/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
     ampWebUrl: "https://www.chron.com/news/amp/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Liz Cheney, Donald Trump feud gets mixed reviews in Wyoming"
+    excerpt: "Liz Cheney, the defiant third-term congresswoman faces mixed reviews at home. So far, Wyoming’s governor and congressional delegation have avoided sticking out their necks for Cheney, who faces ouster from House GOP leadership over her frequent criticism of former President Donald Trump."
+    publishedDateTime: 2021-05-06T23:36:00Z
+    webUrl: "https://www.chron.com/news/article/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
     type: article
     provider:
       name: Houston Chronicle
