@@ -125,6 +125,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump 'Egged On' Capitol Rioters: Facebook Panel Co-chair"
+    excerpt: "Donald Trump encouraged the Capitol rioters and so earned his Facebook ban, but the social media giant's rules are in \"shambles\" and need fixing, the co-chair of the network's oversight panel said Sunday."
+    publishedDateTime: 2021-05-09T19:39:00Z
+    webUrl: "https://www.ibtimes.com/trump-egged-capitol-rioters-facebook-panel-co-chair-3195688"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/09/the-co-chair-of-facebooks-oversight-panel-said.jpg"
+        width: 1024
+        height: 695
+        isCached: true
   - title: "Donald Trump’s Facebook suspension upheld by Oversight Board; group calls on social media giant to conduct six-month review of case, policies"
     excerpt: "Former president Donald Trump will remain suspended from posting on Facebook, the world’s most popular social media platform, according to an independent Oversight Board. But the board, a diverse group of international experts in law,"
     publishedDateTime: 2021-05-05T13:14:00Z

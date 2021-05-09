@@ -2,6 +2,62 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-03-31-biden-should-keep-dog-major-away-from-people-after-2nd-bite-lawyers.md",
+      "title": "Biden should keep dog Major away from people after 2nd bite: lawyers",
+      "excerpt": "President Biden has a duty to keep his German Shepherd, Major, away from people after the dog bit a second employee, a personal injury lawyer told Fox News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7EjKAKvN9JU/biden-dog-major-bite-white-house-legal",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7EjKAKvN9JU/biden-dog-major-bite-white-house-legal",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 595,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/2021-03-23T172225Z_739678050_RC25HM9L4A90_RTRMADP_3_USA-BIDEN.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-dog-major-bite-white-house-legal.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dog-major-bite-white-house-legal.amp",
+      "publishedDateTime": "2021-03-31T11:28:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-donald-trump-video-clip-removed-from-facebook-in-line-with-block.md",
       "title": "Donald Trump video clip removed from Facebook ‘in line with block’",
       "excerpt": "Former US president has been banned from the platform since early January after the violent insurrection of the Capitol Last modified on Wed 31 Mar 2021 15.23 EDT Facebook on Wednesday removed a clip of an interview with Donald Trump from its platform ...",
@@ -1282,63 +1338,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-court-lets-ex-apprentice-contestants-defamation-suit-vs-trump-proceed-again.md",
-      "title": "Court lets ex-'Apprentice' contestant's defamation suit vs. Trump proceed again",
-      "excerpt": "NEW YORK — Former President Donald Trump could face questioning under oath about a former “Apprentice” contestant's sexual assault allegations against him, following a ruling from New York's highest court Tuesday. Evidence-gathering has been on hold ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/court-lets-ex-apprentice-contestant-s-defamation-suit-vs-trump-n1262494",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/court-lets-ex-apprentice-contestant-s-defamation-suit-vs-trump-n1262494",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_13/3460820/210330-summer-zervos-jm-1439_7f50bec42ce1680f710a53fe0880bf1c.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262494",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262494",
-      "publishedDateTime": "2021-03-30T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

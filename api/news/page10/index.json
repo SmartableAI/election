@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-04-20-donald-trump-says-all-the-states-that-voted-for-him-had-no-election-fraud.md",
+      "title": "Donald Trump Says All the States That Voted for Him Had No Election Fraud",
+      "excerpt": "\"Florida, Ohio, all of the states that we won, were properly run,\" Trump said, speaking of states he thought had adequate voter fraud safeguards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865",
+      "originalUrl": "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 739,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1561291/breaking-news-newsweek-high-resolution.jpg",
+          "width": 1366,
+          "height": 911,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1",
+      "publishedDateTime": "2021-04-19T18:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-trump-to-hannity-gop-must-run-on-maga-agenda-if-they-want-to-retake-congress-in-2022.md",
       "title": "Trump to Hannity: GOP must run on 'MAGA' agenda if they want to retake Congress in 2022",
       "excerpt": "In an exclusive, hour-long interview with Fox News, former President Donald J. Trump will tell host Sean Hannity that the future of the Republican Party hinges on whether it can coalesce behind the \"Make America Great\" platform that brought new voters into the 'big tent' in both 2016 and 2020.",
@@ -1310,63 +1362,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-17-oath-keeper-becomes-first-to-plead-guilty-in-pro-trump-capitol-riot.md",
-      "title": "Oath Keeper Becomes First to Plead Guilty in Pro-Trump Capitol Riot",
-      "excerpt": "Jon Schaffer of Indiana admits to carrying bear spray and obstructing official proceedings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401",
-      "originalUrl": "https://www.wsj.com/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-326217/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/oath-keeper-becomes-first-to-plead-guilty-in-capitol-riot-11618596401",
-      "publishedDateTime": "2021-04-16T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

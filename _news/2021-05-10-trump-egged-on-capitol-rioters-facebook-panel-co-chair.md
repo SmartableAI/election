@@ -1,29 +1,31 @@
 ---
 category: news
-title: "EXPLAINER: Will Donald Trump return to Facebook?"
-excerpt: "Former President Donald Trump will find out whether he gets to return to Facebook on Wednesday, when the social network’s quasi-independent Oversight Board plans to announce its ruling in the high-profile case."
-publishedDateTime: 2021-05-04T18:46:00Z
-originalUrl: "https://www.chron.com/news/article/EXPLAINER-Will-Donald-Trump-return-to-Facebook-16151044.php"
-webUrl: "https://www.chron.com/news/article/EXPLAINER-Will-Donald-Trump-return-to-Facebook-16151044.php"
-ampWebUrl: "https://www.chron.com/news/amp/EXPLAINER-Will-Donald-Trump-return-to-Facebook-16151044.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/EXPLAINER-Will-Donald-Trump-return-to-Facebook-16151044.php"
+title: "Trump 'Egged On' Capitol Rioters: Facebook Panel Co-chair"
+excerpt: "Donald Trump encouraged the Capitol rioters and so earned his Facebook ban, but the social media giant's rules are in \"shambles\" and need fixing, the co-chair of the network's oversight panel said Sunday."
+publishedDateTime: 2021-05-09T19:39:00Z
+originalUrl: "https://www.ibtimes.com/trump-egged-capitol-rioters-facebook-panel-co-chair-3195688"
+webUrl: "https://www.ibtimes.com/trump-egged-capitol-rioters-facebook-panel-co-chair-3195688"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: International Business Times
+  domain: ibtimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/09/the-co-chair-of-facebooks-oversight-panel-said.jpg"
+    width: 1024
+    height: 695
     isCached: true
 
 related:
@@ -91,6 +93,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "EXPLAINER: Will Donald Trump return to Facebook?"
+    excerpt: "Former President Donald Trump will find out whether he gets to return to Facebook on Wednesday, when the social network’s quasi-independent Oversight Board plans to announce its ruling in the high-profile case."
+    publishedDateTime: 2021-05-04T18:46:00Z
+    webUrl: "https://www.chron.com/news/article/EXPLAINER-Will-Donald-Trump-return-to-Facebook-16151044.php"
+    ampWebUrl: "https://www.chron.com/news/amp/EXPLAINER-Will-Donald-Trump-return-to-Facebook-16151044.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/EXPLAINER-Will-Donald-Trump-return-to-Facebook-16151044.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Donald Trump's Facebook ban is permanent, social network's Oversight Board rules"
     excerpt: "Former President Donald Trump won’t return to Facebook. The social network’s quasi-independent Oversight Board has voted to permanently ban his account after it was suspended four months ago for inciting violence that led to the deadly Jan."
     publishedDateTime: 2021-05-05T13:05:00Z
@@ -106,20 +124,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/8/b3/8b3ccfa8-ada2-11eb-897f-d3cffbf2ca1e/6092981d6297f.image.jpg?resize=1024%2C683"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Trump 'Egged On' Capitol Rioters: Facebook Panel Co-chair"
-    excerpt: "Donald Trump encouraged the Capitol rioters and so earned his Facebook ban, but the social media giant's rules are in \"shambles\" and need fixing, the co-chair of the network's oversight panel said Sunday."
-    publishedDateTime: 2021-05-09T19:39:00Z
-    webUrl: "https://www.ibtimes.com/trump-egged-capitol-rioters-facebook-panel-co-chair-3195688"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/09/the-co-chair-of-facebooks-oversight-panel-said.jpg"
-        width: 1024
-        height: 695
         isCached: true
   - title: "Facebook Board Upholds Donald Trump Suspension. Could His YouTube,Twitter Accounts Return?"
     excerpt: "Facebook has six months to decide whether Trump will return or be banned outright. What are his odds on other social media platforms?"
@@ -161,6 +165,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "FbnXjcs0DWgHMuy0H9KiKxdrYBhaTL+QckeU6r1lYebNAY4Ak/AK1DVvPXpj0c81XEcT0i/FU3MY41xza5bs2nLmvL3rn7T3GX1hgkhthUMizESNK33gRe6SX1zmZCeMdLvrQvvAqvsvBjdbjhYd6iFTzSKNFFloOnR8+nmOl02Gg7+tILBom7pQIklnJcERgQKFBDtl9aQP2uC8+TptGNuP/MYMbVPU6HTgLs4fsC5jY1aMfe+ChZbMjUSuUHCndwdUSYF4IeCxl6SOJ096eG+xvUrNogYvNwnjDFC1WfX14UTlnZV2zv+Pbhw0OQN8SOwXZm0yYfFhZMMKCTh+nMbJ3Hn4HUvLIcuRyIP/2WfcNaE9iMLFQ07WcD6PpN1UTOzD0QD7dI+Fh596QGP3H9neHhx8qeLHzBsss8df/cXXTpQcEkeRMHXlPhqZcgRTf9Hbo/4IQ0K5qxD34HN2+Se+NINJPWNlDDvZ+UGy8RUiiqGHrNyPepTdjm+SUwQ36T7VECkgWmpi97pfrBsNcA==;oAkptCmQOvWDuFmOwLbO2g=="
+secured: "p5IDSrXlhHMi2zSfXZnJ/E+38J49AvUI4D8Gl8d/rgR3J+FuOszjwx+T1IpolC6kUw1oVGkOaGiFAPtxm16H5HxLp8+c+DMVX8kea8C3mMs/z896wfM2xS8T4wlfDJ5yy/bzQlpy2JQGeXcwZPECcw3LLSUF8a0iJuVRpUSPg5Ij9OYLaazhIInNMUyYXO35ZYn3tMCpLl5NDip5suhHrN9gxwsvZuMjgR+fXD5cLIvRA3SUwfj3REZSEMuHG9QsOBRB+pGJ56/G1fhBJQQPDWE8CXZM8fvOnjufWD8UpnHJotKtGksuyyJecl/P6znUcehWx7rgCWaT+UuKHhjY9S0skce6tdhitTaaF11Gspk=;iPT7hyYAtvVBm7Kn+x7hWA=="
 ---
 

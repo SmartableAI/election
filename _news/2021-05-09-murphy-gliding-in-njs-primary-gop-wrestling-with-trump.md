@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Rep. Elise Stefanik on path to GOP leadership after aligning with Trump"
-excerpt: "Now, she’s on the verge of joining Republican leadership, as a growing number of lawmakers call for Rep. Liz Cheney to be replaced as the No. 3 House Republican."
-publishedDateTime: 2021-05-07T09:00:00Z
-originalUrl: "https://abcnews.go.com/Politics/rep-elise-stefanik-path-gop-leadership-aligning-trump/story?id=77505107"
-webUrl: "https://abcnews.go.com/Politics/rep-elise-stefanik-path-gop-leadership-aligning-trump/story?id=77505107"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/rep-elise-stefanik-path-gop-leadership-aligning-trump/story?id=77505107"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/rep-elise-stefanik-path-gop-leadership-aligning-trump/story?id=77505107"
+title: "Murphy Gliding in NJ's Primary; GOP Wrestling With Trump"
+excerpt: "New Jersey Republicans will decide whether they want an outspoken Donald Trump supporter to be their standard bearer in the fall election for governor, while Democratic incumbent Gov. Phil Murphy is on an easy path toward capturing his party’s nomination."
+publishedDateTime: 2021-05-09T05:00:00Z
+originalUrl: "https://www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump"
+webUrl: "https://www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump"
+ampWebUrl: "https://www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump?context=amp"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/elise-stefanik-gop-leadership-03-ap-llr-210505_1620258693019_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "The Memo: Trump's critics face wrath of GOP base"
@@ -78,6 +72,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G6PQNKVOAUI6XAWBRFVMVFK3XE.jpg&w=1440"
         width: 1440
         height: 947
+        isCached: true
+  - title: "Rep. Elise Stefanik on path to GOP leadership after aligning with Trump"
+    excerpt: "Now, she’s on the verge of joining Republican leadership, as a growing number of lawmakers call for Rep. Liz Cheney to be replaced as the No. 3 House Republican."
+    publishedDateTime: 2021-05-07T09:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/rep-elise-stefanik-path-gop-leadership-aligning-trump/story?id=77505107"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/rep-elise-stefanik-path-gop-leadership-aligning-trump/story?id=77505107"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/rep-elise-stefanik-path-gop-leadership-aligning-trump/story?id=77505107"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/elise-stefanik-gop-leadership-03-ap-llr-210505_1620258693019_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Online speech shield under fire as Trump Facebook ban stays"
     excerpt: "Lurking beneath Facebook’s decision on whether to continue Donald Trump’s suspension from its platform is a far more complex and consequential question: Do the protections carved out for companies whe"
@@ -229,17 +239,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Murphy Gliding in NJ's Primary; GOP Wrestling With Trump"
-    excerpt: "New Jersey Republicans will decide whether they want an outspoken Donald Trump supporter to be their standard bearer in the fall election for governor, while Democratic incumbent Gov. Phil Murphy is on an easy path toward capturing his party’s nomination."
-    publishedDateTime: 2021-05-09T05:00:00Z
-    webUrl: "https://www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump"
-    ampWebUrl: "https://www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Explainer-Ahead of Trump Facebook Ruling, Here’s How Social Media Sites Handle World Leaders"
     excerpt: "Facebook's independent oversight board on Wednesday will announce whether it is overturning the company's suspension of former U.S. President Donald Trump's account. The long-awaited ruling will bring the focus back onto how the world's largest social network decides what world leaders and politicians can and can't say on their platforms."
     publishedDateTime: 2021-05-04T11:20:00Z
@@ -250,6 +249,6 @@ related:
       domain: usnews.com
     quality: 24
 
-secured: "Gb/Ns67OLbtv2ZlKQRJobhGUc2EePgN++lh2tekwfs4k55MAoqfQ7LX59G9mf7FYVugERHKGKh8AjiACcoNbGadiQnONi46HwIdOw9dyHKvPjlDOrV/cDoCOJJrDX15BdyCsPvEKOLmH5WOlk0DC3XJh2FCmqKHoPdiu4rJ4pUlNx+e2BRD6obph56jJvGdBRUNd8nRw6WnaMXeVgOIQpZcsZjaNU26Rljp4OMzIhOpWUiDoapyndhRK1DVa1x1hFFnV/uxXQyojEefR94hsVSoVTT/24xYiBmHC72c6WH9YiBwfWDwyHSXYnBQWUNPO5XJ+z2T/fKXqamvDgmHQSqT3g7YsbcIWnvg4gO6MQoDYgd8V5UkDGN00CJqBGHq9VctiXUJ+s+TeXBqK+/YmUDEE1A6gMn8ZyOHfX3Ufc4qN00/QOdGSwXoLo/oUbDk4Plty0fPu2GUj64zLFqM2pATDiIA/5NDnFrPgEjnsyTU81fnF1WhJzYpB5zCrm4zG0FoC/KVVk9N4DkuyqF1ApA==;McDtWPzf2uuym8n62lbZIg=="
+secured: "ZeWjaIVOIVwtW8FNnz/lcyXHAFi7dpTUhjdqETKi9nGvd0XyuTgEOSgfZvJktIQHttvVTnroUQAqJlUpKScnTc0i9nDiiGoBKJV3p8gf0AE76jGwiQpNYr5v7jek5i6mEn0ViZOkUqVzOZPBGq57nEn4TfheWeJshkRdcV8q4r7q74q6IxX8ueVQL3Hdnj88b9N1gJqSR9ZtBPMr08nPiJKeZuviGCRRDRXn1wJiSe14KgZsuYurcmKIdH6x91UgVfPqH8LjozTVx4TItkfSrdr8wC+KuIkKu7WXSixwEpIiF+oRXLVibFrGTXnQYSWTmj3g5gw3FoSU7xJWEbBOOPRL5m7brkK+h5qJboWWsVMaFY5w3LbGzOH7gCgxvONSSic+cUGH8tUouxxM/OuZ0xW1V4MKbRL/GTG4idSP6CnPUl6Yk6/K/uMxQAx3GMS+4k1+JjA289T1toSdKXsCf4BP8uul8kpivQrYgeSR64jr8GcTLcx7+dWG/pVLdpwUlmpa9sjahQ0cEu6wJ+IW+w==;7TVMLmVJWI9hka59zSQgsg=="
 ---
 
