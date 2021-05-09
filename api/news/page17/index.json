@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-04-08-trump-endorses-alabamas-mo-brooks-for-senate-a-promoter-of-his-false-claims-of-a-stolen-election.md",
+      "title": "Trump endorses Alabama’s Mo Brooks for Senate, a promoter of his false claims of a stolen election",
+      "excerpt": "Trump’s early endorsement is a major boost to Brooks, who has operated on the rightmost edge of the Republican Party during his time in the House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 266,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UVYMERCV74I6XKJRLMLC2DIDHU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-brooks-alabama-senate/2021/04/07/c7dabeee-97ad-11eb-a6d0-13d207aadb78_story.html?outputType=amp",
+      "publishedDateTime": "2021-04-07T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-biden-chief-of-staff-once-said-roads-and-bridges-are-what-most-americans-think-infrastructure-is.md",
       "title": "Biden chief of staff once said roads and bridges are what 'most Americans think' infrastructure is",
       "excerpt": "As Democrats continue to expand their definition of infrastructure, White House chief of staff Ron Klain reined in what qualified as infrastructure in 2017 under the Trump administration. ",
@@ -1279,62 +1331,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/biden-robin-carnahan-administrator-general-services-administration/index.html",
       "publishedDateTime": "2021-04-06T14:51:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-biden-its-reassuring-to-see-companies-speaking-up-about-restrictive-voting-laws.md",
-      "title": "Biden: It's 'reassuring' to see companies speaking up about restrictive voting laws",
-      "excerpt": "President Joe Biden said Tuesday that it is \"reassuring\" to see businesses \"speaking up\" about restrictive voting laws, but added that he respects whatever judgment a corporation may make as part of its response.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c3Kp__9O5G0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c3Kp__9O5G0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210406172321-joe-biden-april-6-2021-04-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/06/politics/joe-biden-georgia-voting-law-masters-all-star-game/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/06/politics/joe-biden-georgia-voting-law-masters-all-star-game/index.html",
-      "publishedDateTime": "2021-04-06T14:39:16-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-09-pence-trips-spark-further-2024-white-house-race-speculation.md",
+      "title": "Pence trips spark further 2024 White House race speculation",
+      "excerpt": "In a move that will spark further 2024 speculation, former Vice President Mike Pence will headline a major Republican Party dinner and fundraising event in early June in New Hampshire, the state that for a century has held the first primary in the race for the White House.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SGmQKRGgpLs/pence-trips-2024-white-house-race-speculation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SGmQKRGgpLs/pence-trips-2024-white-house-race-speculation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-trips-2024-white-house-race-speculation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trips-2024-white-house-race-speculation.amp",
+      "publishedDateTime": "2021-05-09T04:27:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-05-09-hes-like-an-upside-down-iceberg-historian-jon-meacham-on-joe-biden.md",
+      "title": "‘He’s like an upside down iceberg’: historian Jon Meacham on Joe Biden",
+      "excerpt": "With Biden what you see is what you get, says the Pulitzer prize winner, who has advised the president, but FDR informs his approach to democracy in peril",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/may/09/jon-meacham-joe-biden-fdr",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/may/09/jon-meacham-joe-biden-fdr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/75963551a9eac3f4659d382a17b4f727ee3e6bfa/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=89f9494d8415059d4bd83d8b67aaf6fb",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/09/jon-meacham-joe-biden-fdr",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/09/jon-meacham-joe-biden-fdr",
+      "publishedDateTime": "2021-05-09T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-08-biden-administration-has-spent-3b-on-migrant-facility-contracts-report.md",
       "title": "Biden administration has spent $3B on migrant facility contracts: report",
       "excerpt": "The Biden administration has reportedly spent $3 billion in contracts to house unaccompanied children at the border – as it continues to deal with a continued influx of migrants coming to the border each day.",
@@ -1265,118 +1374,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-trump-allies-search-for-viable-cheney-foe-in-wyoming-amid-fight-over-big-lie.md",
-      "title": "Trump allies search for viable Cheney foe in Wyoming amid fight over 'Big Lie' ",
-      "excerpt": "Chuck Gray, a Wyoming Republican state legislator, \"absolutely\" believes that former President Donald Trump won the 2020 election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c0bxwwRiiis/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c0bxwwRiiis/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210505174309-chuck-gray-wyoming-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/06/politics/wyoming-trump-allies-cheney-fight/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/wyoming-trump-allies-cheney-fight/index.html",
-      "publishedDateTime": "2021-05-06T08:01:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-biden-administration-details-plans-to-conserve-30-of-us-land-and-water-by-2030.md",
-      "title": "Biden administration details plans to conserve 30% of US land and water by 2030",
-      "excerpt": "The Biden administration on Thursday outlined in a new report how it aims to achieve its goal of conserving 30% of America's lands and waters by 2030.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q7bcAZiakp4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q7bcAZiakp4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/120417062219-park-isle-royale-7-story-top.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/06/politics/conservation-plans-biden-administration/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/conservation-plans-biden-administration/index.html",
-      "publishedDateTime": "2021-05-06T07:17:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

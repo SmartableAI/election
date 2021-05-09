@@ -736,22 +736,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Kamala Harris stops in Rhode Island to pitch Biden jobs plan"
-    excerpt: "Vice President Kamala Harris stopped by a local bookshop and participated in a business roundtable event during a visit to Rhode Island on Wednesday."
-    publishedDateTime: 2021-05-06T11:45:00Z
-    webUrl: "https://www.masslive.com/politics/2021/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PHWB64HSI5AXDFCX4DM3DKNVLI.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
   - title: "Kamala Harris, Nancy Pelosi will be historic duo at Biden's address to Congress"
     excerpt: "When Joe Biden delivers his first speech as president to Congress on Wednesday, history will be made behind him. For the first time during a joint address to Congress, the majority of politicians on the dais in the House of Representatives will be women,"
     publishedDateTime: 2021-04-28T11:18:00Z
@@ -1284,6 +1268,15 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 51
+  - title: "Kamala Harris Stops in Rhode Island to Pitch Biden Jobs Plan"
+    excerpt: "Vice President Kamala Harris stopped by a local bookshop and participated in a business roundtable event during a visit to Rhode Island."
+    publishedDateTime: 2021-05-05T20:48:00Z
+    webUrl: "https://www.usnews.com/news/best-states/rhode-island/articles/2021-05-05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
   - title: "Kamala Harris to Speak With Guatemalan President on Monday: Axios"
     excerpt: "U.S. Vice President Kamala Harris will meet virtually on Monday with Guatemalan President Alejandro Giammattei to discuss solutions to the surge of migration, Axios reported on Wednesday, citing a senior White House official."
     publishedDateTime: 2021-04-22T01:02:00Z

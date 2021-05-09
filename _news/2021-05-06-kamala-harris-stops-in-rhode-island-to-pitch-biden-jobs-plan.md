@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Kamala Harris stops in Rhode Island to pitch Biden jobs plan"
-excerpt: "Vice President Kamala Harris stopped by a local bookshop and participated in a business roundtable event during a visit to Rhode Island on Wednesday."
-publishedDateTime: 2021-05-06T11:45:00Z
-originalUrl: "https://www.masslive.com/politics/2021/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan.html"
-webUrl: "https://www.masslive.com/politics/2021/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan.html"
-ampWebUrl: "https://www.masslive.com/politics/2021/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan.html?outputType=amp"
-cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan.html?outputType=amp"
+title: "Kamala Harris Stops in Rhode Island to Pitch Biden Jobs Plan"
+excerpt: "Vice President Kamala Harris stopped by a local bookshop and participated in a business roundtable event during a visit to Rhode Island."
+publishedDateTime: 2021-05-05T20:48:00Z
+originalUrl: "https://www.usnews.com/news/best-states/rhode-island/articles/2021-05-05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan"
+webUrl: "https://www.usnews.com/news/best-states/rhode-island/articles/2021-05-05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan"
 type: article
-quality: 90
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: MassLive
-  domain: masslive.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PHWB64HSI5AXDFCX4DM3DKNVLI.jpg"
-    width: 6000
-    height: 4000
-    isCached: true
 
 related:
   - title: "Watch live: Biden, Harris speak at virtual climate summit"
@@ -1312,6 +1308,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "6pSHomLBrvSgNkDe4DdbU8dpqyOke/+4Gs6U0+qTkiX2B4Y8NWww6AqYzE9smdlzidEAadFUOO2NUo0qJmwJTio35JFruz6R88LA4DIyZIBZglMvYISJZZSoWQq/xq9VmWE+/zag0bwBro7Lw3mTsnuBOPxysOge61XDp0wXa1zQVmOGKVRUzWf6Yedtu3483MOvioJ7WdtGsTRoJlF2O2o8T33gK8RVsLRNJ/8vG9/N6mCRRQgaaZRjFdF+MGswwsqSBcBq3s7R09cwimkpEjvGfiqybc+i/VUhXbS2aRRfVfSowshvUQBY9RWVjb8558Zt38Ph/5jT136H1UjJQBijSP2triFoAk3XM7gyiayce9T+B8YYodrGIG7YP8iQ3pGVK1y4oZOg+h3SMsxJadobmfU65mLKmywsbxy4b72vSoE7VF0Q4ENcVTgM2tnLIr8l0nxD+Q4G6dxY6u8By7d8DTzvlIHNIwWUEpSaQCQ9K4IV3PSz0GE18qjIHS/Mbstr8kNVZs+IhIJNtJ0pJA==;Ro5vDlQ4xBa0R854+Jewng=="
+secured: "LpIi/R9Gpr3F0RbqjaNyK+SLu9j62fYzvJA/it8vAS0e6m3BtesUzfaLt3RDYL52eXBnNIdOxUI2BQ9ieQerBtHEnJitCRwRnW6pyPCY7tpauvh5UDHu61xBOD1owntZ42IT0S4+dAFtjJcS3hKloXawqk043cO23bTR4TDdNi5bq679QpWVps+7ADsNljmgDLrAaHhfcOrkTaY/NF/ntDiMjPecSPwL4YjoZlR+2jP6VCcVSCpwI8k/lYCZGW7kPwZKAxJiMVdgtVaiqZ6iDcCqdte0fHLl8uoHR7wGY1Yz4rv+ZsLhki8gHgrW2JEcr4AyDT06HZw6BG8Eq2s1svavTVh8mn8U0dsYdjtM4EW8DSO1wrgvYbUkPgB/edgQslUNDoLe/PUlQ60COT0VUmnMIFl4nDwkrO1cdvPxJGQo0GZtl8/tWzO/Z2qjWG+rVlVe0itxnfIwVl1gwDS4sHX2TEWlLnSzgLctEd3Anx4zR7jwuAHYmSZ5Kjh9a6J6h+ff3E3nufsEohTddGSTXg==;3BnYWlbmjToCrlG+LyxBeA=="
 ---
 

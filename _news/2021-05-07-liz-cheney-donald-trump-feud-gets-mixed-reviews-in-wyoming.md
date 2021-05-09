@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Liz Cheney, Donald Trump feud gets mixed reviews in Wyoming"
-excerpt: "Liz Cheney, the defiant third-term congresswoman faces mixed reviews at home. So far, Wyoming’s governor and congressional delegation have avoided sticking out their necks for Cheney, who faces ouster from House GOP leadership over her frequent criticism of former President Donald Trump."
-publishedDateTime: 2021-05-06T23:36:00Z
-originalUrl: "https://www.chron.com/news/article/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
-webUrl: "https://www.chron.com/news/article/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
-ampWebUrl: "https://www.chron.com/news/amp/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Wyoming-officials-steer-clear-of-Cheney-peril-16157665.php"
+excerpt: "Elected officials in Wyoming aren’t sticking their necks out in defense of Liz Cheney as she faces ouster from House GOP leadership"
+publishedDateTime: 2021-05-07T00:29:00Z
+originalUrl: "https://www.washingtonpost.com/politics/wyoming-officials-steer-clear-of-cheney-peril-before-vote/2021/05/06/bcfadc76-aea9-11eb-82c1-896aca955bb9_story.html"
+webUrl: "https://www.washingtonpost.com/politics/wyoming-officials-steer-clear-of-cheney-peril-before-vote/2021/05/06/bcfadc76-aea9-11eb-82c1-896aca955bb9_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/wyoming-officials-steer-clear-of-cheney-peril-before-vote/2021/05/06/bcfadc76-aea9-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wyoming-officials-steer-clear-of-cheney-peril-before-vote/2021/05/06/bcfadc76-aea9-11eb-82c1-896aca955bb9_story.html?outputType=amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LVJJTRVOVEI6XAWBRFVMVFK3XE.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -477,6 +481,6 @@ related:
         height: 843
         isCached: true
 
-secured: "qVCyGIxxku2rTpF4OMuS4JrL6178/U5Vdmnjkcn4m+cHCEjwR+f9R2LsSWhN2UNjdqh9+OHR8qex25DXB8HMzKZdj4fISshyLW6zgLrwioWfq4xsr85Xyiwu1ROv3KhyHnghiigNZrQDT1eajJXm7kFfhABuGLOM2VvvoMdev3nsWQLC3OxjP095zPTmpCDUIzkdiSCHR1ssC7i4axygeeFgyAMpf86Ih9yGfcXDAaPx6evplXs3IW559SqAf17VJEFZUG5OoitwTkm99KVr8xgsAQGc/LqnbrT5oqZaHvs2OdN0o1Aw9lI+RvbuZl/ZtAK1t57I/KMMwkWwv6PdjxBxaUzLOxRwB+pjU69QChEJxRxZLVqCkxcrIgshiVoPHucNo8IJfhJlXiInrjUs+JsjhWZprKriFrdGWCgAD3+0ptMgcdVDYO8nI6I+uLQYuyzJDJR+L9003TCv2z3iAgCwsVe0e+VXFCZIq58MxVy0HSUSsMRZRXXwK4B8Ugsh3JVtRiwZlMxPkBnnv5sYFQ==;FplTVIHiL5VFdjGz+7JhUA=="
+secured: "YW4nUR2VEThuSgCRlLwvWaznPUkL2j3NNzPHOM+yl9dB1RY0PqSAvyfJeLvZKRSHF0Yf3yXF/IeFdX2WLAHoqkMdh+N4p2+3wizr/BNka1Uqp3HcmB0o1lkl50XnzCorCojtcADNd5UOuTaQL2qC0A0eZqXODZTx74Y1wtQhQ6HpA9cgtXSeIBETeGokYgsbPE0JMAoQLbWBGymCdce3L/QV2ZpFgeW5nSBWuAvleN5OV9OaRK52TWBuHfCl4J19nPxUjg0Bk1bpZzN9UQzJUdjqLbXiEujugrvVwA5hplvxx0KiAowrzVUCSxrEeW0w403sYygH8HYJ+tHzUNYaEHqyz+ewbefCw6dD/V4bEF4=;ih6tux8cmBz1O4Q1SVpG/g=="
 ---
 
