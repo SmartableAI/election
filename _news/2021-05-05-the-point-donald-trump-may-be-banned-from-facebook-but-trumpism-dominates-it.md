@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Full Panel: GOP hasn't figured out 'Trumpism without Trump'"
+    excerpt: "Hallie Jackson, Jake Sherman, Cornell Belcher and Danielle Pletka join the Meet the Press roundtable to talk about the fight over Republican leadership and the former president's role in the future of the party."
+    publishedDateTime: 2021-05-09T13:37:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-panel-gop-hasn-t-figured-out-trumpism-without-trump-111591493717"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111591493717"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111591493717"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/mpx/2704722219/2021_05/1620567161181_mtp_full_panel_210509_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Qucf/8YnBcA1z2xLkdaAW9Q45tziS4ZsC9PvlX/ZyqKz6gvZlwCLqxtP/rzDvxqTeFhj/FVI8nQYz1Wm5OZqR7yEnHClHL69v3hoxzfDoQZBmczgaRA85vgZIV5fuaDWof+DBZwhwhWLsAK/o6Oq3b5xlFVE0yRIP23vJL9lzEVss9k3tEEzdKMCuCg4f8SBWpvzBVx2vYuw5bhcZdb1VpN4NK2+zlEJcBHoK6Ek2ikmBFSAFcgNn0Jy3pUCIEPOIq4cBdc99EjoTjavAdZb6oiO6dkOZnH3jzLIQLMbPw8tFCA+dgYM+pQulKJkH65v9BepX469aR3L7lES1BKpD1jedcVRoXQFSzZ0+ej53hI=;th0A2ybWpu3JNod+inyJMA=="
 ---

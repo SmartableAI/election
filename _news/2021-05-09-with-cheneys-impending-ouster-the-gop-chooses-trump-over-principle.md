@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Kevin McCarthy and Donald Trump in touch ahead of Liz Cheney's expected ouster"
-excerpt: "Former President Donald Trump is weighing in on the fight to replace Rep. Liz Cheney in the House Republican Party's leadership, blasting Cheney in a new statement and staying in touch with Republicans on Capitol Hill as the effort gets underway.\n    \n"
-publishedDateTime: 2021-05-05T15:15:45Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wWGtJdsw5tk/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wWGtJdsw5tk/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/mccarthy-trump-liz-cheney-latest/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/mccarthy-trump-liz-cheney-latest/index.html"
+title: "With Cheney's impending ouster, the GOP chooses Trump over principle"
+excerpt: "Former President Donald Trump promised to exact his revenge on Republicans who refused to go along with his election lies or turn a blind eye to his role in the January 6 insurrection. This week, Americans are likely to watch his first political casualty fall as the House GOP is poised to oust Wyoming"
+publishedDateTime: 2021-05-09T10:15:27Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SWQJKM_9_kM/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SWQJKM_9_kM/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/trump-cheney-stefanik-republican-party/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/trump-cheney-stefanik-republican-party/index.html"
 type: article
-quality: 171
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128192549-mccarthy-trump-cheney-split-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505064319-01-liz-cheney-0203-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -63,19 +63,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "With Cheney's impending ouster, the GOP chooses Trump over principle"
-    excerpt: "Former President Donald Trump promised to exact his revenge on Republicans who refused to go along with his election lies or turn a blind eye to his role in the January 6 insurrection. This week, Americans are likely to watch his first political casualty fall as the House GOP is poised to oust Wyoming"
-    publishedDateTime: 2021-05-09T10:15:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SWQJKM_9_kM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/trump-cheney-stefanik-republican-party/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/trump-cheney-stefanik-republican-party/index.html"
+  - title: "Kevin McCarthy and Donald Trump in touch ahead of Liz Cheney's expected ouster"
+    excerpt: "Former President Donald Trump is weighing in on the fight to replace Rep. Liz Cheney in the House Republican Party's leadership, blasting Cheney in a new statement and staying in touch with Republicans on Capitol Hill as the effort gets underway.\n    \n"
+    publishedDateTime: 2021-05-05T15:15:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wWGtJdsw5tk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/mccarthy-trump-liz-cheney-latest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/mccarthy-trump-liz-cheney-latest/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505064319-01-liz-cheney-0203-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128192549-mccarthy-trump-cheney-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -96,6 +96,6 @@ related:
         height: 619
         isCached: true
 
-secured: "2F9Lp3Gtw7qpu3ciILEU41uFTVuhvVkoBMg7pRehoKyyORXDHhDQkh2SR+rogXn3wOVcbJ7qybOUjr1dpyeK1sHYNE+uNw6/zjzILk5ho5i3EZtw0Ww82QCiLCigJmRPDrozwLMaQMiEOouH9Fi9FMhAVNGn3jGD5PHDiyL25fdYq+np0mcCaSRTdZ7LZCaM8DjVfXRBloUZgPlvFV6QXGLxRfI6UI4TC/KvW+UaxjAmAFEWypMCj+VLHOxeoXdeE7ATwRsGz9aM6Vg7XtAAeD2j+ow0m1T4o753/WxsDIAyjDJCO7DbplqQCW0GoUNjXxavzRMoO89UCiSNvt4SgkZJ+VkcQmBnZ4S5Nk5Smlk=;T9i3kthB/UEv/tTLjD9PCA=="
+secured: "bYZ8hnFpn9thqjq0FbKU7MFYTi0ppjsWJAYaZxk4LMD+jJQlilx3ncngfFqyCom71RjJRlTIz7P1vHoYdJ54pbHZ32pp3R/QTJJV+75uiaEPlUG1NAydd+uOw+Xg6e1qw7cqU0Peh0+bqR596Q00LrDxUNqDg9tkaptLu5sI01/1UoJcDpYBOROjaIqsKfRocn2anT0uX7yk8+uTAnSWchlymWGPyX+zsuypQynLFKylOwJSiSbjnMx+ihjiKS5c9N37QR4Rpo/GgIPq3/jjh8816Oj4zt07ZTkGS5oPvNklBoHNA9sllu10l6IHwN6MbVFYsKxXu7wTvcBigY0/Se4jpjLvmuPp7Jwt0/uuHh0=;1eSByi0oyNZEIKTsZ/qE/A=="
 ---
 

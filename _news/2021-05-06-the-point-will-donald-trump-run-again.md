@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/trump-run-for-president-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/trump-run-for-president-again-2024/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200629091038-mark-zuckerberg-0411-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Full Panel: GOP hasn't figured out 'Trumpism without Trump'"
+    excerpt: "Hallie Jackson, Jake Sherman, Cornell Belcher and Danielle Pletka join the Meet the Press roundtable to talk about the fight over Republican leadership and the former president's role in the future of the party."
+    publishedDateTime: 2021-05-09T13:37:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-panel-gop-hasn-t-figured-out-trumpism-without-trump-111591493717"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111591493717"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111591493717"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/mpx/2704722219/2021_05/1620567161181_mtp_full_panel_210509_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "pEKUJH8GBX30VFtZ9MEy8RaWfPmiAUuVZ8xuAab1IL23+WpjrzBj82SrIzvNolq6udW1dBfHN+npRMO1fCsYBVvJrJCkTky3F+yA0X1bLS0uOYSamkhOjzWqQ5lkkJtiT6M9ViYVfuwbqDB8PYoyrqNJteQpT96doBdBMdV1svpb0TbNi+OKzeptS2C+TUHA+4khSrGac2PfLKIbZcxZ4iZw/UOK0OaATRzrliLdUvLoVFnpQwFddVIOZJIlIUZeQ86rc5W1S/OFdWe/dkygiknEdNAxqAjccLmfB9y6RIom/xnq0eE/+P4jWQNSuCseB9Vci8u32EZxc5OwDGnMYd2pEZjiLobUyAjmKM/V55g=;xqSch845obYFby8cvAI+IA=="

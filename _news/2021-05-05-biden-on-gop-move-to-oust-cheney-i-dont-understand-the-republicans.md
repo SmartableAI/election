@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/joe-biden-liz-cheney/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/joe-biden-liz-cheney/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Biden says he no longer understands Republicans. He has a chance to figure the GOP out this week."
+    excerpt: "President Joe Biden used a fleeting handshake moment below Air Force One this week to pitch two Republican senators on his plan for infrastructure.\n    \n"
+    publishedDateTime: 2021-05-09T12:00:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZhiAce6Hm2I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/joe-biden-republican-party-bipartisanship/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/joe-biden-republican-party-bipartisanship/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506155226-01-joe-biden-speech-louisiana-0506-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "8zXb6WdeNOIlSXXc/R2tOuNl/1CaVTE/htFSLdjRNbPTOH4N79aDAg5vLcKxu+ZPEuQ5btS7uxSX33415wb3JBO0V6q3aERCa0/G4GbMWgQmdNpIu8NFPmbhxadMBQHmY5D+xto8Qzi7p/HdxQnfqjb3hwjqnUcfn8Bf/HI2BMf5S92SIcZHF4UFblkb1lGChyEsqmONW/abxk1vwatOJWkDHIc7QJDJC2fRuyOfZNOIvg0GxBHny557ABn+8uLxOz5Pd7TPVCKciRuPUfm1+RX6A6gV0YIaUbvFTbPzyzpWn+2tj6lgPIQErBE80B2/sM/+pam8+Clbfu23F7LXEHTkLjK3I7OvmNtAkH2srxU=;0WuyDnaw04tXj6subsCmng=="
 ---

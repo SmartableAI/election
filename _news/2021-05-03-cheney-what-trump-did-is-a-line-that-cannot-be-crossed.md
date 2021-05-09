@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/liz-cheney-doubles-down-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/liz-cheney-doubles-down-trump-gop/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505064526-01-liz-cheney-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "With Cheney's impending ouster, the GOP chooses Trump over principle"
+    excerpt: "Former President Donald Trump promised to exact his revenge on Republicans who refused to go along with his election lies or turn a blind eye to his role in the January 6 insurrection. This week, Americans are likely to watch his first political casualty fall as the House GOP is poised to oust Wyoming"
+    publishedDateTime: 2021-05-09T10:15:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SWQJKM_9_kM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/trump-cheney-stefanik-republican-party/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/trump-cheney-stefanik-republican-party/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505064319-01-liz-cheney-0203-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
