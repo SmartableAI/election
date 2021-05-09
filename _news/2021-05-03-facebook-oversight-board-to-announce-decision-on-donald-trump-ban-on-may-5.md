@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Online speech shield under fire as Trump Facebook ban stays"
+    excerpt: "Lurking beneath Facebook’s decision on whether to continue Donald Trump’s suspension from its platform is a far more complex and consequential question: Do the protections carved out for companies whe"
+    publishedDateTime: 2021-05-08T03:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/online-speech-shield-under-fire-as-trump-facebook-ban-stays/2021/05/08/7be6abba-afb3-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/online-speech-shield-under-fire-as-trump-facebook-ban-stays/2021/05/08/7be6abba-afb3-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/online-speech-shield-under-fire-as-trump-facebook-ban-stays/2021/05/08/7be6abba-afb3-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DBU6ZEVPWII6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The slow, painful death of Trump allies’ voting-machine conspiracy theories"
     excerpt: "Among the many wild conspiracy theories about the 2020 election, few rank as high when it comes to both baselessness and reach as those involving voting machines. The theory that voting machines were programmed to steal the election from President Donald Trump had the benefit,"
     publishedDateTime: 2021-05-03T16:15:00Z

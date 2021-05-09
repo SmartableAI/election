@@ -118,19 +118,19 @@
     {
       "path": "_news/2021-05-08-gaetz-greene-take-mantle-of-trumps-populism-at-rally.md",
       "title": "Gaetz, Greene take mantle of Trump's populism at rally",
-      "excerpt": "U.S. Reps. Matt Gaetz and Marjorie Taylor Greene, two of the Republican Party’s most controversial figures, have kicked off their “America First Rally” roadshow with a Trump-centric revival of sorts a",
+      "excerpt": "U.S. Reps. Matt Gaetz and Marjory Taylor Greene, two of the Republican Party’s most controversial figures, have kicked off their “America First Rally” roadshow with a Trump-centric revival of sorts at",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/gaetz-greene-mantle-trumps-populism-rally-77566680",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/gaetz-greene-mantle-trumps-populism-rally-77566680",
+      "webUrl": "https://www.washingtonpost.com/politics/gaetz-greene-take-mantle-of-trumps-populism-at-rally/2021/05/07/8fdcb194-af92-11eb-82c1-896aca955bb9_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/gaetz-greene-take-mantle-of-trumps-populism-at-rally/2021/05/07/8fdcb194-af92-11eb-82c1-896aca955bb9_story.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 125,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_df04493808584f9b8eb8c19487a12f87_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RRAN2OVPSII6XAWBRFVMVFK3XE.jpg&w=1440",
+          "width": 1440,
+          "height": 958,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -138,16 +138,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/gaetz-greene-mantle-trumps-populism-rally-77566680",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gaetz-greene-mantle-trumps-populism-rally-77566680",
-      "publishedDateTime": "2021-05-07T18:14:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/gaetz-greene-take-mantle-of-trumps-populism-at-rally/2021/05/07/8fdcb194-af92-11eb-82c1-896aca955bb9_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gaetz-greene-take-mantle-of-trumps-populism-at-rally/2021/05/07/8fdcb194-af92-11eb-82c1-896aca955bb9_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-07T17:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -825,7 +825,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2510,
+      "heat": 2530,
       "tags": null,
       "images": [
         {
@@ -878,7 +878,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 405,
       "tags": null,
       "images": [
         {

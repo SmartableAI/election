@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden waives ethics rules for former union bosses who now work in White House"
+    excerpt: "The Biden administration has come under scrutiny from Republicans on Capitol Hill following its decision to circumvent federal ethics rules and staff former union officials in senior posts."
+    publishedDateTime: 2021-05-08T22:38:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oxat4gGPX_o/biden-waives-ethics-rules-for-former-union-bosses-who-now-work-in-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-waives-ethics-rules-for-former-union-bosses-who-now-work-in-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-waives-ethics-rules-for-former-union-bosses-who-now-work-in-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88785100-c591-4705-a000-240dbb0fec6e/e8c41f49-b049-4819-a13e-a62dfe9c3e34/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "GOP senators to meet with Biden, who's looking for deal on massive spending bill"
     excerpt: "President Biden will court GOP senators next week at the White House in an effort to strike a deal on his spending bill, but Republicans stressed they don't want tax increases on businesses or any liberal \"wish list\" items as part of any compromise. "
     publishedDateTime: 2021-05-08T20:12:06Z
@@ -78,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89a1c725-b3de-4d00-87f1-a854249a170e/8b4e1e68-391e-42d1-a1d4-13227debc130/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Based on Biden's Performance So Far, There's Trouble Ahead for Democrats"
+    excerpt: "On the surface, Joe Biden seems to be doing pretty well. But underneath, there are signs of problems, areas where partisan overstretch threatens"
+    publishedDateTime: 2021-05-08T22:09:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/07/some_rotten_underpinnings_of_bidens_positive_rating_145721.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/07/some_rotten_underpinnings_of_bidens_positive_rating_145721.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/07/some_rotten_underpinnings_of_bidens_positive_rating_145721.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
+    images:
+      - url: "https://assets.realclear.com/images/54/542635_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "V2v6m9AuHAwYFyfHvZP4gr71TfL5HZHufiov75JlFbd9bwBYjouL79ftMXGGdtQ+nXBU3JjqGa/arPVqsiH5ZXNaXnt5PIgzbI2PbvpIQf/T2C9XEPtgqoULT+L9wrqV7ISD6V8Xg9uoQj9P/IFqBVuZwejjButzsqwWv1189R3mtpNP9rUsLrwLemw1XwFAfXpJyaOIeIOenScdnO+TVUcPtH0c0Des2eVLTTagJW66vLQYZgLC8gKQOnbKbxfvIXFP+K06Z02EIdCWwZxMWzGzYdoziPQ/7YeaYCAuxqvbrJAbp36t8I7/AWs1ENi3n75ejvKcMnzHP+HP2tUQFTL5XU8snBd+Z12+gCwA230=;7TqgX4iLkFyga3zRjSq3Ag=="

@@ -1473,6 +1473,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "President Biden briefed on Colonial Pipeline shutdown - White House"
+    excerpt: "President Joe Biden was briefed early on Saturday on the Colonial Pipeline shutdown that resulted from a ransom attack, the White House said."
+    publishedDateTime: 2021-05-08T20:35:00Z
+    webUrl: "https://www.reuters.com/article/usa-products-colonialpipeline-white-hous-idUSL1N2MV0EL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MV0EL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MV0EL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "'We still have a long way to go,' says Joe Biden after disappointing jobs numbers – video"
     excerpt: "Joe Biden did not appear downhearted by a disappointing April jobs report"
     publishedDateTime: 2021-05-07T12:09:00Z

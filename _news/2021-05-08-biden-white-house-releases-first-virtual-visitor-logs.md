@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-first-virtual-vis
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp"
 type: article
 quality: 175
-heat: 235
+heat: 275
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden waives ethics rules for former union bosses who now work in White House"
+    excerpt: "The Biden administration has come under scrutiny from Republicans on Capitol Hill following its decision to circumvent federal ethics rules and staff former union officials in senior posts."
+    publishedDateTime: 2021-05-08T22:38:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oxat4gGPX_o/biden-waives-ethics-rules-for-former-union-bosses-who-now-work-in-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-waives-ethics-rules-for-former-union-bosses-who-now-work-in-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-waives-ethics-rules-for-former-union-bosses-who-now-work-in-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88785100-c591-4705-a000-240dbb0fec6e/e8c41f49-b049-4819-a13e-a62dfe9c3e34/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "GOP senators to meet with Biden, who's looking for deal on massive spending bill"
     excerpt: "President Biden will court GOP senators next week at the White House in an effort to strike a deal on his spending bill, but Republicans stressed they don't want tax increases on businesses or any liberal \"wish list\" items as part of any compromise. "
     publishedDateTime: 2021-05-08T20:12:06Z
@@ -78,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89a1c725-b3de-4d00-87f1-a854249a170e/8b4e1e68-391e-42d1-a1d4-13227debc130/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Based on Biden's Performance So Far, There's Trouble Ahead for Democrats"
+    excerpt: "On the surface, Joe Biden seems to be doing pretty well. But underneath, there are signs of problems, areas where partisan overstretch threatens"
+    publishedDateTime: 2021-05-08T22:09:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/07/some_rotten_underpinnings_of_bidens_positive_rating_145721.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/07/some_rotten_underpinnings_of_bidens_positive_rating_145721.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/07/some_rotten_underpinnings_of_bidens_positive_rating_145721.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
+    images:
+      - url: "https://assets.realclear.com/images/54/542635_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "AKq81hMBrIeNDCceCJIROU6A3WgWXq+0WoM/yPOnar60QkzDEvPOA+rpn1hX2W5mdgHr1sDOyD34bfvDNaJP+T3+Al+XzBVy/D/X0G2nKHYEuTL7ZUBeCvYKRxnPzhIvnIRYy6JA9WkUL8tyJmH5XVgwKadGxac5CIXpU9FJEMlPQh/lKa1PvbOkwrZVkaSaRXdGye5wFpRtQC2F4kelvbCIu2wsLnFPLFVq+db9SxylTVD+TtUu6tqV5raXKVrHfEn/SjlC4gbqzr7XOT34jIYgMKZsBTC5no+AOEWbMeH+RDGcGPTgLCK+3WFr6c4L4phU+THYeGAomwmk5y5HLEg35Mf16bBr7iX3uP5eCOo=;F9cD7HjSlbm/0q2sGd8e6g=="

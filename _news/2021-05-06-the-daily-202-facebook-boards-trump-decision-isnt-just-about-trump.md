@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Online speech shield under fire as Trump Facebook ban stays"
+    excerpt: "Lurking beneath Facebook’s decision on whether to continue Donald Trump’s suspension from its platform is a far more complex and consequential question: Do the protections carved out for companies whe"
+    publishedDateTime: 2021-05-08T03:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/online-speech-shield-under-fire-as-trump-facebook-ban-stays/2021/05/08/7be6abba-afb3-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/online-speech-shield-under-fire-as-trump-facebook-ban-stays/2021/05/08/7be6abba-afb3-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/online-speech-shield-under-fire-as-trump-facebook-ban-stays/2021/05/08/7be6abba-afb3-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DBU6ZEVPWII6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Facebook Oversight Board to Announce Decision on Donald Trump Ban on May 5"
     excerpt: "Former President Donald Trump could make a return to Facebook and Instagram very soon following an announcement by the body that oversees bans on content for the social media sites. The Oversight Board tweeted on Monday that they will reveal their decision on Trump's suspensions this Wednesday,"
     publishedDateTime: 2021-05-03T15:22:00Z

@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Kamala Harris stops in Rhode Island to pitch Biden jobs plan"
-excerpt: "Vice President Kamala Harris stopped by a local bookshop and participated in a business roundtable event during a visit to Rhode Island on Wednesday. The stop was part of a push by the administration to promote President Joe Biden’s priorities including his American Jobs Plan,"
-publishedDateTime: 2021-05-05T20:56:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
-webUrl: "https://www.houstonchronicle.com/news/article/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-stops-in-Rhode-Island-to-pitch-16154379.php"
+excerpt: "Vice President Kamala Harris stopped by a local bookshop and participated in a business roundtable event during a visit to Rhode Island on Wednesday."
+publishedDateTime: 2021-05-06T00:48:00Z
+originalUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/"
+webUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/"
+ampWebUrl: "https://www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/amp/"
+cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/05/05/kamala-harris-stops-in-rhode-island-to-pitch-biden-jobs-plan/amp/"
 type: article
-quality: 140
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Boston Herald
+  domain: bostonherald.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://s.hdnux.com/photos/01/17/73/33/20952772/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
+  - url: "https://www.bostonherald.com/wp-content/uploads/2021/05/Harris_44221.jpg?w=1024&#038;h=683"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -1316,6 +1312,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "LhWViFB4QJRBvkZw7GLFv89SGUr3O07PCCLRAiq43zBEQuCh1OZId67yQ8hQjlxu7OHXTUXIe6BOsVwa/Sai3VFDOhPGo49ld37jMSkFyIv5W2DJCA1K8PgiEWSkmWhoSGA2h577GvmhgjjiPvXjoMsDcykM04C6peE0H4cq2i46SolIEluw1p98xkXgZpKOlwD64uFGpTHDMSamThVm8QqFSxpv7obJYbzECfkt80O5FRSAERfSaGpAnUunlQM3sNVxj5SUvORzK8HYuWxJY2/xf7XuZ16ROGAI2e8m6+76wf9lNMSQZQ0dF8YJ0UpBEPtann1fU1/GukE9AnJqmVhbkg4Xr1Kx2zAeY/eukkw=;KzempHZigW5WAWX6H76u1w=="
+secured: "Hi1ct7fB5Lki3TxsVje6PbhfEqAF1vWjwKAhUCtYYcgtNcu8kEN6zv2ktyvMP8367ZnBiOKIM73F+dj7qf2AAU2hA91RDe4o6po6uoJ8xx4FZa3NTn20sBG1M+HU0jEI6qUZr5BvtCwZO8+s3u8LSDNdnluDcJ8I+X9uMRLMJuqhSKfD41Wo0w6s77mibRnR9uaoxuunkbusq+7MiMWKsBapXTGfepyZWu5IdXIBH5dk7YCMck/FS/oHBhaGDJLfbpLcZ7MFV7xeQynYwX1dJWKbmhiovICXXR6tDhZoszFMmAnESjMMUqkr/CQ8H3RokQmHJVAgV0rNdZHKyXkxWQTQ5LLjF7UVS/eVP2SD5/0=;fku3leNNqEk1JI+eWryKSw=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Trump DOJ secretly seized phone records from Washington Post reporters"
-excerpt: "The Trump administration’s Justice Department secretly obtained phone records for three Washington Post reporters who published stories detailing discussions between Russia and members of former President Donald Trump’s 2016 campaign, according to a report Friday."
-publishedDateTime: 2021-05-08T01:40:32Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PszhFu18sYg/trump-doj-secretly-seized-phone-records-washington-post-reporters"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PszhFu18sYg/trump-doj-secretly-seized-phone-records-washington-post-reporters"
+excerpt: "The Trump administration’s Justice Department secretly obtained phone records for three Washington Post reporters who published stories detailing discussions between Russia and members of former President Donald Trump’s 2016 campaign,"
+publishedDateTime: 2021-05-08T01:41:00Z
+originalUrl: "https://www.foxnews.com/politics/trump-doj-secretly-seized-phone-records-washington-post-reporters"
+webUrl: "https://www.foxnews.com/politics/trump-doj-secretly-seized-phone-records-washington-post-reporters"
 ampWebUrl: "https://www.foxnews.com/politics/trump-doj-secretly-seized-phone-records-washington-post-reporters.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doj-secretly-seized-phone-records-washington-post-reporters.amp"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -446,6 +447,6 @@ related:
         height: 500
         isCached: true
 
-secured: "xHAbXzXePbXJlEZQWSvynTg+44EeU5U3CbPoe0/ij0BCzIoReWd60+LphEB0Kx1cqzXVmX1/pPzG74MYGu1vE+t/GkUadmXw59mcpxg7gHQF7J7Dt1KXZmMiNYHtvT9rnItPT9+ongMMfQ8I5FH3dgWHXvSYGgwbES27T7FjCATZnXzpYPMb1Qn5m+6SVYSD/HuzkMgW6nHZg9NPeAZwRk8aMPPHzPyK5lArqNsCD/SXLVFzldesstSwBzXNketDj/nGgf2A5YDbRhPq6ClOEYqmdc5QUdby9CUlO8EMZPY2Bz3IXsiL+SskeEjvZ8385c3yVVi0VeLPeuqX7/tmS9eoF0qVq83t2+RaedNS+H4=;Jux8833JZoziXQfvMluzPA=="
+secured: "VfTm0QuILW8zQXHdSwFY8NctxUfuuFkW8KBCvRMYFr53Yrkk4gn2cyHf1SON2ZEBLjDbl8aTVegwHfPagF9YBSHCnWHecQ6hYrICqZHmRHzYrLhS9MGm742BgE7c6+sWdVLabMK6CSAgWXGzFO4dhaJWz4Hf5eD9FLTmTZ13mYtRagmgBeBO1Es5nobikTxn+jzdg0a0L16+dVwoYxih/koXf72SIbZ6hBtY8d59HkIG9o506jjpfhjqa3UCb8Gs3KUHmw+MTsHlIlsukNFCTfgjM9bbrYQzDrWSuNwvqQ8uiFVSzvnBNXvGmjoCq1CArNd2uLZ4vXIVNVcCjEh8WBeojRfhigk0iOan91QKf/4=;UhkUwoK747DAzwqc4tWJXQ=="
 ---
 

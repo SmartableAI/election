@@ -1459,6 +1459,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "President Biden briefed on Colonial Pipeline shutdown - White House"
+    excerpt: "President Joe Biden was briefed early on Saturday on the Colonial Pipeline shutdown that resulted from a ransom attack, the White House said."
+    publishedDateTime: 2021-05-08T20:35:00Z
+    webUrl: "https://www.reuters.com/article/usa-products-colonialpipeline-white-hous-idUSL1N2MV0EL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MV0EL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MV0EL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Biden's capital gains tax plan could backfire, says 8VC founder Joe Lonsdale"
     excerpt: "President Joe Biden's $3.5 trillion tax plan includes a hike on the capital gains tax to 39.6% in order to increase revenue. Joe Lonsdale, founding partner at 8VC and Palantir co-founder, joined \"Squawk Box\" on Thursday to discuss why he thinks the proposal may actually do the economy more harm than good."
     publishedDateTime: 2021-05-06T16:18:00Z
@@ -1812,6 +1823,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "QLhEq22flEUe7bMSa3ZBsvQAGHx5SVpdf8GUQBl7PxLmdfh6O3dr00/tZIRWwlVR1ZSbZk5tiNyYg+UkNmRGbH8R/c7sLbmJu+kCJADnusvSEAJXdSuN0aHLRVBMko8UbopCFWZ2L6QwEp4ycGHroguZlTfMp8UwbSgIg4xYZ9ri7DthlUEacSkUZ+WSJrNJn307Hs6HukZYBCUqH0oEDwsBpxSff7lbh/k2SPhHxiK0E7BHFJjxK9BW3Nn1HA93/zDrCW7utBtIRJ7xEcwV565Q3jPY7hu/2oZtunmOeAgQS+W4203o//Whr048asi0Op0c/sAJfnA1ZElGVZRVT2mSfjxucoU6yXEN8lI0x9o=;BqOUD+OrNWW2dMjukWVvHA=="
+secured: "FoT0QBpzVb4wLRVq65KAwOhXw9ZWmA0FZQIrihwOdD69EOcVCHin9D76TWOC/mJcS0zaFCEpdn98h62rPB5tflEheXY12ePZxveYLAZqfmb2L4yMNL1kZncMq3ykUPdBRmEMdAM3jkZfD1jrYWN6IL4Huh/1PFnyxP4omT3ibwbADuNCdT7RjPo7++Ze46wjC2M4td1D1i5IWgQWGxgvU59o7UOtOp3EiuOBGpXFDXo7Mbg3yfPPuscYbaJVV5jLcIK0sOjCls4QlRWgjtUuBDkIh7RuHcZnlZkGVCfPJYpt5QEt4f69qQhPkxP4MrUaZZqSDVShF64o6zVLx3R9YDQ2cceFfC/zkwypiR8L/D4FZe/Xf65YrRH/obEL8k6C4bDVC+kWHjCiwLNGXDc96y4qa9P0qtbhOFktHtzhk6GlwSITPM7JrI56oQMBUfwO1LRjU469bA8AsjuvaKBHcRsfK5YhGN/0IcGo+H0EqLjaVlvUXEqGvLIpoiXAXTO7YcJKBmpwtRlkdfHcafvmOw==;VLXACJ5+b9AXRSvTZE2+iw=="
 ---
 
