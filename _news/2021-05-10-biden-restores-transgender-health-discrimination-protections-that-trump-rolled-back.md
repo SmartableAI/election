@@ -1,29 +1,29 @@
 ---
 category: news
-title: "On call backing Susan Wright, Donald Trump blasts Joe Biden, suggests he won Texas by larger margin"
-excerpt: "Donald Trump on Thursday used his endorsement of Republican congressional candidate Susan Wright to blast President Joe Biden and the Democratic"
-publishedDateTime: 2021-05-01T01:46:00Z
-originalUrl: "https://www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/"
-webUrl: "https://www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/"
-ampWebUrl: "https://www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/?outputType=amp"
-cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/?outputType=amp"
+title: "Biden restores transgender health discrimination protections that Trump rolled back"
+excerpt: "Health and Human Services Secretary Xavier Becerra said that federal law barring sex discrimination also protect LGBTQ people."
+publishedDateTime: 2021-05-10T13:51:00Z
+originalUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-biden-transgender-healthcare-20210510-hbmgrsu55zelhc4fsob62mpkwe-story.html"
+webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-biden-transgender-healthcare-20210510-hbmgrsu55zelhc4fsob62mpkwe-story.html"
+ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-biden-transgender-healthcare-20210510-hbmgrsu55zelhc4fsob62mpkwe-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-biden-transgender-healthcare-20210510-hbmgrsu55zelhc4fsob62mpkwe-story.html?outputType=amp"
 type: article
-quality: 76
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Dallas Morning News
-  domain: dallasnews.com
+  name: New York Daily News
+  domain: nydailynews.com
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/13aDcKY2U3Vd0kTBMaV7dzXTprU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/6VNBUQ23BJCSJP36MZYIKOFCOA.JPG"
+  - url: "https://www.nydailynews.com/resizer/pmah39pAQobXi2Tqn8PnO6mozZw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ERS3NK4GLVFG3EP7ARMBZN3FSI.jpg"
     width: 1200
-    height: 630
+    height: 800
     isCached: true
 
 related:
@@ -1644,21 +1644,21 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Biden restores transgender health discrimination protections that Trump rolled back"
-    excerpt: "Health and Human Services Secretary Xavier Becerra said that federal law barring sex discrimination also protect LGBTQ people."
-    publishedDateTime: 2021-05-10T13:51:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-biden-transgender-healthcare-20210510-hbmgrsu55zelhc4fsob62mpkwe-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-biden-transgender-healthcare-20210510-hbmgrsu55zelhc4fsob62mpkwe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-biden-transgender-healthcare-20210510-hbmgrsu55zelhc4fsob62mpkwe-story.html?outputType=amp"
+  - title: "On call backing Susan Wright, Donald Trump blasts Joe Biden, suggests he won Texas by larger margin"
+    excerpt: "Donald Trump on Thursday used his endorsement of Republican congressional candidate Susan Wright to blast President Joe Biden and the Democratic"
+    publishedDateTime: 2021-05-01T01:46:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/?outputType=amp"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 84
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 76
     images:
-      - url: "https://www.nydailynews.com/resizer/pmah39pAQobXi2Tqn8PnO6mozZw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ERS3NK4GLVFG3EP7ARMBZN3FSI.jpg"
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/13aDcKY2U3Vd0kTBMaV7dzXTprU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/6VNBUQ23BJCSJP36MZYIKOFCOA.JPG"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
   - title: "Joe Biden’s first 100 days: Where he stands on key promises"
     excerpt: "As he rounds out his first 100 days in office, President Joe Biden’s focus on reining in the coronavirus during the early months of his administration seems to have paid off: He can check"
@@ -1913,6 +1913,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "+KzaZF7yJKrXRrSuPhy009n/gAFSZy3yN/LbFZxJHpcPh8nuntljcxjYArnUf+Z3KMTDDppfonM+quzDmrd1H7bTuBoeDYdAF18whNg/SPVDYH5GLPIT8HScTdYwEX214q+tjfKGgvUmjWt5o1J0/xSpYvC5JsPcx1d+LQXtsfGdZD7gploh+Mypq71U4t3SeVztDWO7HQyww722HPtSj/Tx5OD+2Nig/TLrrJRi/ST8xc+a01ssM+kGYQE+SKq0iKd6gyiIL40g/6I5PmQRdbPEdeU576XAbU+VaRofsxBF9XOuVqZzWW2Cqa6eTtOSDVCrQM9yolsR7vrmtcAzkvDLCFs+4B44TgkClrzRYu4=;/VKouaqcJsNWtYharmUgyg=="
+secured: "i468z5GDsnrPO3bs6DYTOO0s0H4dPrT3yI7dDw/tExZqSMlNzvi9D40g8m4J5tSaBLUOWJmkmvDYaUpAGUc3xe9f4opjWLxIoJJGjdVXVZJem5ZfK2AfPVKXGwJUWg/kvEiZ6jepVCkOhUGa817XTeWYYs8+pZeFFgkF5wAuW/ehf4j8cETlZOOfqZKkY5yzr6a69cC0d/sfmcMH9APjMEn1C+ysKatOvakIeIzKPJAKGAMs5wJfGTCZCLZn4yCskkdXcCuPAydsANYeJU1FksNPKwhttP7CBOSEuJDUJy8hZittYGeITGjsdqa4t2SuiJ7JClWclOUNDDL2fUk+dwMRwcO8B3rsKvviaTg2nWc=;vVSwFacRhe1/Mpbyw/t9vg=="
 ---
 

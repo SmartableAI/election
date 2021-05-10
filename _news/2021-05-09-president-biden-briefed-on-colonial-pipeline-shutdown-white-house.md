@@ -3,10 +3,10 @@ category: news
 title: "President Biden briefed on Colonial Pipeline shutdown - White House"
 excerpt: "President Joe Biden was briefed early on Saturday on the Colonial Pipeline shutdown that resulted from a ransom attack, the White House said."
 publishedDateTime: 2021-05-08T19:34:00Z
-originalUrl: "https://www.reuters.com/article/usa-products-colonialpipeline-white-hous-idINL1N2MV0EL"
-webUrl: "https://www.reuters.com/article/usa-products-colonialpipeline-white-hous-idINL1N2MV0EL"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINL1N2MV0EL"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL1N2MV0EL"
+originalUrl: "https://www.reuters.com/article/usa-products-colonialpipeline-white-hous-idUKL1N2MV0EL"
+webUrl: "https://www.reuters.com/article/usa-products-colonialpipeline-white-hous-idUKL1N2MV0EL"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKL1N2MV0EL"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL1N2MV0EL"
 type: article
 quality: 105
 heat: -1
@@ -408,6 +408,22 @@ related:
       - url: "https://i.insider.com/5fb66ea832f2170011f6ffa2?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden administration restores transgender health protections, reversing Trump policy"
+    excerpt: "The move reverses a Trump-era policy​ that sought to narrow the scope of legal rights in sensitive situations involving medical care."
+    publishedDateTime: 2021-05-10T13:00:00Z
+    webUrl: "https://www.cbsnews.com/news/transgender-health-protections-biden-administration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/transgender-health-protections-biden-administration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/transgender-health-protections-biden-administration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 133
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/10/01342bd7-4387-460d-acc1-a9d4cded49d6/thumbnail/1200x630g3/e26829fa7786553ce7bd9a6f160fc09b/ap17162636435092.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden set to accept fewest refugees of any modern president, including Trump, report says"
     excerpt: "Since his days on the campaign trail, President Biden has tried to cast himself as diametrically opposed to former president Donald Trump when it comes to welcoming refugees into the United States. Within two weeks of taking office, Biden signed an ..."
@@ -1615,6 +1631,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden restores transgender health discrimination protections that Trump rolled back"
+    excerpt: "Health and Human Services Secretary Xavier Becerra said that federal law barring sex discrimination also protect LGBTQ people."
+    publishedDateTime: 2021-05-10T13:51:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-biden-transgender-healthcare-20210510-hbmgrsu55zelhc4fsob62mpkwe-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-biden-transgender-healthcare-20210510-hbmgrsu55zelhc4fsob62mpkwe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-biden-transgender-healthcare-20210510-hbmgrsu55zelhc4fsob62mpkwe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 84
+    images:
+      - url: "https://www.nydailynews.com/resizer/pmah39pAQobXi2Tqn8PnO6mozZw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ERS3NK4GLVFG3EP7ARMBZN3FSI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "On call backing Susan Wright, Donald Trump blasts Joe Biden, suggests he won Texas by larger margin"
     excerpt: "Donald Trump on Thursday used his endorsement of Republican congressional candidate Susan Wright to blast President Joe Biden and the Democratic"
     publishedDateTime: 2021-05-01T01:46:00Z
@@ -1884,6 +1916,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "TlAhfPOY528lQNjRsH/NqrL7rHSTxYbJyKNEcNKik9GkCfYulHLlFHj5thG5m/qYBCVFt4TqoGu8v4F+X0pl/agI/Q0xTISibtmqBxHb4MRDdZaJxE97iBL+GllM3Yx6z2hfZ9PAxEPaHpEgalS6hjI2kc0aq5Y7iFBQDDpIywYS/1rwzWq/iZItPKlLRswPjU/Obe7TxnqySSyj7aZ18WyfAADbT6u9G5ZBJwk2WdpA4LeFhldZFhexO5LGZbJfgcondD0OQ6WfGWCtWPrMxC8sz70d6NVZ7q1Kb92Ex+3wDGs3lRRhdS8YQFsUJN0/8Xho0jcAjbSj1/NGRHXq5SJc0o8QTOjOd0Wzwjqon8I=;+e16i80QJXnW+mBmYeHFRg=="
+secured: "w8cjhtNhyXrbnO2pT+DKsUnlLTem/teausD3HHIwtME4Y+WyigZ823KrgiMlFOGAOIQfScK4figP4EAfAIoIg4SK2WdHrTbYDS6rWQIEobqc5NruubigIuWRYiBtY2qAXAw6FX92CbvXgYPOiNo2WjeLGXwxnFXUb5puvKYxNYKSNNJYRiTbubyofWkK613h0YOl9CkM9N8ycqbgig65U47rZnUWoHbesNvt8PAp5RlbhE67KlK4eyDpaEs99EXWq3ewjEki/5xxlfWArBSFjs8geaSdpLRyHdEQ4Va/Qkp3/l7D1ggIjSkCduyEh7VkuTk0u21wpJEsK0KPKC5FgYE0OgmANYLoUrR8nPVbeMA=;F2ptQncCf0GPFj0iKHRcgQ=="
 ---
 

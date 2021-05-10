@@ -1,27 +1,31 @@
 ---
 category: news
-title: "On call backing Susan Wright, Donald Trump blasts Joe Biden, suggests he won Texas by larger margin"
-excerpt: "Donald Trump on Thursday used his endorsement of Republican congressional candidate Susan Wright to blast President Joe Biden and the Democratic"
-publishedDateTime: 2021-05-01T01:46:00Z
-originalUrl: "https://www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/"
-webUrl: "https://www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/"
-ampWebUrl: "https://www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/?outputType=amp"
-cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/?outputType=amp"
+title: "Biden administration restores transgender health protections, reversing Trump policy"
+excerpt: "The move reverses a Trump-era policy​ that sought to narrow the scope of legal rights in sensitive situations involving medical care."
+publishedDateTime: 2021-05-10T13:00:00Z
+originalUrl: "https://www.cbsnews.com/news/transgender-health-protections-biden-administration/"
+webUrl: "https://www.cbsnews.com/news/transgender-health-protections-biden-administration/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/transgender-health-protections-biden-administration/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/transgender-health-protections-biden-administration/"
 type: article
-quality: 76
+quality: 133
 heat: -1
 published: false
 
 provider:
-  name: Dallas Morning News
-  domain: dallasnews.com
+  name: CBS News
+  domain: cbsnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/13aDcKY2U3Vd0kTBMaV7dzXTprU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/6VNBUQ23BJCSJP36MZYIKOFCOA.JPG"
+  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/10/01342bd7-4387-460d-acc1-a9d4cded49d6/thumbnail/1200x630g3/e26829fa7786553ce7bd9a6f160fc09b/ap17162636435092.jpg"
     width: 1200
     height: 630
     isCached: true
@@ -410,22 +414,6 @@ related:
       - url: "https://i.insider.com/5fb66ea832f2170011f6ffa2?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Biden administration restores transgender health protections, reversing Trump policy"
-    excerpt: "The move reverses a Trump-era policy​ that sought to narrow the scope of legal rights in sensitive situations involving medical care."
-    publishedDateTime: 2021-05-10T13:00:00Z
-    webUrl: "https://www.cbsnews.com/news/transgender-health-protections-biden-administration/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/transgender-health-protections-biden-administration/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/transgender-health-protections-biden-administration/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 133
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/10/01342bd7-4387-460d-acc1-a9d4cded49d6/thumbnail/1200x630g3/e26829fa7786553ce7bd9a6f160fc09b/ap17162636435092.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Biden set to accept fewest refugees of any modern president, including Trump, report says"
     excerpt: "Since his days on the campaign trail, President Biden has tried to cast himself as diametrically opposed to former president Donald Trump when it comes to welcoming refugees into the United States. Within two weeks of taking office, Biden signed an ..."
@@ -1660,6 +1648,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "On call backing Susan Wright, Donald Trump blasts Joe Biden, suggests he won Texas by larger margin"
+    excerpt: "Donald Trump on Thursday used his endorsement of Republican congressional candidate Susan Wright to blast President Joe Biden and the Democratic"
+    publishedDateTime: 2021-05-01T01:46:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/04/29/on-call-backing-susan-wright-donald-trump-blasts-joe-biden-suggests-he-won-texas-by-larger-margin/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 76
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/13aDcKY2U3Vd0kTBMaV7dzXTprU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/6VNBUQ23BJCSJP36MZYIKOFCOA.JPG"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden’s first 100 days: Where he stands on key promises"
     excerpt: "As he rounds out his first 100 days in office, President Joe Biden’s focus on reining in the coronavirus during the early months of his administration seems to have paid off: He can check"
     publishedDateTime: 2021-04-26T12:23:00Z
@@ -1913,6 +1917,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "+KzaZF7yJKrXRrSuPhy009n/gAFSZy3yN/LbFZxJHpcPh8nuntljcxjYArnUf+Z3KMTDDppfonM+quzDmrd1H7bTuBoeDYdAF18whNg/SPVDYH5GLPIT8HScTdYwEX214q+tjfKGgvUmjWt5o1J0/xSpYvC5JsPcx1d+LQXtsfGdZD7gploh+Mypq71U4t3SeVztDWO7HQyww722HPtSj/Tx5OD+2Nig/TLrrJRi/ST8xc+a01ssM+kGYQE+SKq0iKd6gyiIL40g/6I5PmQRdbPEdeU576XAbU+VaRofsxBF9XOuVqZzWW2Cqa6eTtOSDVCrQM9yolsR7vrmtcAzkvDLCFs+4B44TgkClrzRYu4=;/VKouaqcJsNWtYharmUgyg=="
+secured: "owWlDYjKT22os54sRax4hvRAbFDexsEP9iPgu00bpL7yaWFOl9cewejwnHYnqSt4omV7V6RBbrttnpX4ZwaLoICgti5wwEBe0pS2syYdM5WXfUYixN2pfZ3szZLgBKUcp4RZb0fW1L95utlwrJCw5C7gMtObKDlLbbrRS29F2DompelbMaTkBxHRAkaoQFMcB+AcXPihqpkyxriFSqC7em4pCcyKvf0nxWJrJTiUnZevEZ2g+FyHZ0vj81ohgSihDbhN2zOrtP4b75yvX3t7IODjyAUEPrOqP7UwKhtl96jLjRUGJkO0NqruFH56e7Byy+PMuUdXxGMhOS8Z9hCrBx3Qi30/1PLB0+X26Ip14rA=;rbfOzYgztbCFiWQEXe3oDQ=="
 ---
 
