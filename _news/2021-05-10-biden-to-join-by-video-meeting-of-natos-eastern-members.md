@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Biden to trans youth: 'The president has your back'"
-excerpt: "In his first address to Congress, President Joe Biden called for passage of the Equality Act and gave a shout-out to transgender youth, saying \"the president has your back.\""
-publishedDateTime: 2021-04-29T05:36:00Z
-originalUrl: "https://www.reuters.com/video/watch/idOVEAFZTUN"
-webUrl: "https://www.reuters.com/video/watch/idOVEAFZTUN"
+title: "Biden to join by video meeting of NATO's eastern members"
+excerpt: "U.S. President Joe Biden will join a meeting by video link of presidents of countries on NATO’s eastern flank being held Monday in the Romanian capital"
+publishedDateTime: 2021-05-10T07:05:00Z
+originalUrl: "https://www.washingtonpost.com/world/biden-to-join-by-video-meeting-of-natos-eastern-members/2021/05/10/72aa6668-b166-11eb-bc96-fdf55de43bef_story.html"
+webUrl: "https://www.washingtonpost.com/world/biden-to-join-by-video-meeting-of-natos-eastern-members/2021/05/10/72aa6668-b166-11eb-bc96-fdf55de43bef_story.html"
+ampWebUrl: "https://www.washingtonpost.com/world/biden-to-join-by-video-meeting-of-natos-eastern-members/2021/05/10/72aa6668-b166-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/biden-to-join-by-video-meeting-of-natos-eastern-members/2021/05/10/72aa6668-b166-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://static.reuters.com/resources/r/?d=20210429&i=OVEAFZTUN&r=OVEAFZTUN&t=2"
-    width: 960
-    height: 540
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -1085,22 +1087,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Biden to join by video meeting of NATO's eastern members"
-    excerpt: "U.S. President Joe Biden will join a meeting by video link of presidents of countries on NATO’s eastern flank being held Monday in the Romanian capital"
-    publishedDateTime: 2021-05-10T07:05:00Z
-    webUrl: "https://www.washingtonpost.com/world/biden-to-join-by-video-meeting-of-natos-eastern-members/2021/05/10/72aa6668-b166-11eb-bc96-fdf55de43bef_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/biden-to-join-by-video-meeting-of-natos-eastern-members/2021/05/10/72aa6668-b166-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/biden-to-join-by-video-meeting-of-natos-eastern-members/2021/05/10/72aa6668-b166-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Pastor Robin Bullock Says It's a Sin to Recognize Joe Biden as President"
     excerpt: "\"You can pray for the office of the president. But you cannot pray for President Joe Biden,\" Bullock said. \"Because you might as well pray for the Easter Bunny, because he don't exist.\""
     publishedDateTime: 2021-05-03T23:31:00Z
@@ -1353,6 +1339,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210428&i=RCV009OJK&r=RCV009OJK&t=2"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden to trans youth: 'The president has your back'"
+    excerpt: "In his first address to Congress, President Joe Biden called for passage of the Equality Act and gave a shout-out to transgender youth, saying \"the president has your back.\""
+    publishedDateTime: 2021-04-29T05:36:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEAFZTUN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210429&i=OVEAFZTUN&r=OVEAFZTUN&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Biden urges passage of police overhaul measure"
     excerpt: "President Joe Biden said in his first address to Congress as president that he wants lawmakers to pass police overhaul legislation by the anniversary of the death of George Floyd. (April 28)"
@@ -1885,6 +1885,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "eQBPzdga94eT7e2ykoN8wOETMi/m4qLmYGLC/xQXTAl0ssz3IKfio86O4b7b3n42W6Wti79sqoUT0gIRhrBjOK4qggO2celT944CA2sxlamKZuhM8fWgBlvgPZTWgWlzSs2F9cP6ylqhbQz3pOj+JWd30myQwVH4gB50YpJf+I69IMeOmmRa+eX9G5IwEXNH+4SydHJKtH+9L9JSGlp0N7eOQ2dAd/87SGZH4OElY+MYvgV+NImufsuTUOnxGqtk0cpCf+JiCZedQKFj/rXZXwWwycsKJ9U77IzSvVLBACxfXIZAUtSTJZoK3rLyRHwiGbuDhMKW8bC0Xjt0ej67eOuuV2xxie84NHvQtFlG+Cc=;ez8i/1baBw8s2RkiBYILuQ=="
+secured: "UPQfopKiw9xnWWpIzm47gKc6TJPy78DNHY5JWDSdmndMQ1GtB/5wU0EOUNAJneaWn9g5o2lstHtwUqKWnYpYHsSVyN3T1ArXnRAQBsA83yKeJ60YaERTgqP8b4xS9qS+0x9aRalIVpNH24JjPIRNW3G7vVMJBugdgzsjJIoSPQqOzpg4O0Rgwp/il0XB2BVLI6x9kw7zhVioQLuopw0WdJJxPBuiFRyP16LlpF0jk594uPkvpkjoVTSCCepTJ8ikJ29EY9sQ3icJ7wBnm5JcQzxRukd92oB+ehFeyDxTma93jwIwtgL0TxZSDg37RJjiaU/0fNCOc1aF/xK+96vZtmCeGhBYSYoKrLYLsqiZAoI=;6JjtkS1KKjoTj+4G5ITByQ=="
 ---
 

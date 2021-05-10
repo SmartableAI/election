@@ -1075,6 +1075,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden to join by video meeting of NATO's eastern members"
+    excerpt: "U.S. President Joe Biden will join a meeting by video link of presidents of countries on NATO’s eastern flank being held Monday in the Romanian capital"
+    publishedDateTime: 2021-05-10T07:05:00Z
+    webUrl: "https://www.washingtonpost.com/world/biden-to-join-by-video-meeting-of-natos-eastern-members/2021/05/10/72aa6668-b166-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/biden-to-join-by-video-meeting-of-natos-eastern-members/2021/05/10/72aa6668-b166-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/biden-to-join-by-video-meeting-of-natos-eastern-members/2021/05/10/72aa6668-b166-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Pastor Robin Bullock Says It's a Sin to Recognize Joe Biden as President"
     excerpt: "\"You can pray for the office of the president. But you cannot pray for President Joe Biden,\" Bullock said. \"Because you might as well pray for the Easter Bunny, because he don't exist.\""
     publishedDateTime: 2021-05-03T23:31:00Z

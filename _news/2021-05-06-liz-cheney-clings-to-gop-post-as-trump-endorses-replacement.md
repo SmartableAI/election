@@ -496,6 +496,17 @@ related:
         width: 1200
         height: 843
         isCached: true
+  - title: "Top House Republican Says He Will Back Stefanik, Not Trump Critic Cheney, as Conference Chair"
+    excerpt: "The top Republican in the U.S. House of Representatives signaled on Sunday that he would vote to remove fellow Republican and Trump critic Liz Cheney as a party leader, saying he will back Representative Elise Stefanik instead."
+    publishedDateTime: 2021-05-09T16:23:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-09/top-house-republican-says-he-will-back-stefanik-not-trump-critic-cheney-as-conference-chair"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-05-09/top-house-republican-says-he-will-back-stefanik-not-trump-critic-cheney-as-conference-chair?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-05-09/top-house-republican-says-he-will-back-stefanik-not-trump-critic-cheney-as-conference-chair?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 44
 
 secured: "PpjcEWnOyOCwUteFqKA5OGXg0oRxUCA7mLLAPTXzyxKGxhyiS8N5+5+AWrWlUQleW35y4VHZ4QslH08SSPzh/ERAZHas9v9jKbR5lzy8Z6bmrCwuRtci6Lh4tObIz8o1kxer/kikDckG5y2+D0BGv3ZcSpbddTeRLr8lXsu0PG5dFqz1egWERKefnae1wOCrcf48QNHqCOP3eD9BluD3XwV7dT2Yo72b8V3CFL6kqtAusVbfA/Z2LiQYYmzGgljA5opyvsh0eedqYs9ZFOGhm5WZnS92f5grrqZBlMHT23ks0w7Lgdjjq9s1cl4xdtIPpnd5UMRGeY13T9vD78ZpVy46BRoDt+9yP3aef0njUCLR6ok+7+0dwyb+Q8sSINyg9KUaxo1oMK/27IQ9XJLYsQlM6PubJW6kgMtSuqR4KJuv2eUznqlrKV2gMT5UJdqAKGkBtMoS38QAMVSgPIdZUP4sSs5f+kD9nuROSmMVqdbexhgrCrYzBoMV7ge7rmbCgFvtznbyPu2udDSi3ioAgA==;Cl7UV3xEdsXgj+V9IPmUQA=="
 ---

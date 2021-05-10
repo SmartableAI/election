@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Trump, Republicans express outrage over extension of Facebook ban"
-excerpt: "Former White House chief of staff Mark Meadows lashed out at the social media platform while Rep. Lauren Boebert said Facebook will “pay the price” before deleting the tweet."
-publishedDateTime: 2021-05-06T02:13:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-facebook-social-media-republicans/2021/05/05/919cb430-adb1-11eb-acd3-24b44a57093a_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-facebook-social-media-republicans/2021/05/05/919cb430-adb1-11eb-acd3-24b44a57093a_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-facebook-social-media-republicans/2021/05/05/919cb430-adb1-11eb-acd3-24b44a57093a_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-facebook-social-media-republicans/2021/05/05/919cb430-adb1-11eb-acd3-24b44a57093a_story.html?outputType=amp"
+title: "Top House Republican Says He Will Back Stefanik, Not Trump Critic Cheney, as Conference Chair"
+excerpt: "The top Republican in the U.S. House of Representatives signaled on Sunday that he would vote to remove fellow Republican and Trump critic Liz Cheney as a party leader, saying he will back Representative Elise Stefanik instead."
+publishedDateTime: 2021-05-09T16:23:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2021-05-09/top-house-republican-says-he-will-back-stefanik-not-trump-critic-cheney-as-conference-chair"
+webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-09/top-house-republican-says-he-will-back-stefanik-not-trump-critic-cheney-as-conference-chair"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-05-09/top-house-republican-says-he-will-back-stefanik-not-trump-critic-cheney-as-conference-chair?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-05-09/top-house-republican-says-he-will-back-stefanik-not-trump-critic-cheney-as-conference-chair?context=amp"
 type: article
-quality: 125
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YS77EQVNWUI6XLGTES2EUVYJHI.jpg&w=1440"
-    width: 1440
-    height: 1856
-    isCached: true
 
 related:
   - title: "Republicans look to oust Liz Cheney as Trump allies push election lie – live"
@@ -188,6 +182,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/05/6919431c-67c8-479c-88ab-c6050aa53655/thumbnail/1200x630g2/26b9f80caac1ce448a08298adb4914db/gettyimages-1231615029.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump, Republicans express outrage over extension of Facebook ban"
+    excerpt: "Former White House chief of staff Mark Meadows lashed out at the social media platform while Rep. Lauren Boebert said Facebook will “pay the price” before deleting the tweet."
+    publishedDateTime: 2021-05-06T02:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-facebook-social-media-republicans/2021/05/05/919cb430-adb1-11eb-acd3-24b44a57093a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-facebook-social-media-republicans/2021/05/05/919cb430-adb1-11eb-acd3-24b44a57093a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-facebook-social-media-republicans/2021/05/05/919cb430-adb1-11eb-acd3-24b44a57093a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YS77EQVNWUI6XLGTES2EUVYJHI.jpg&w=1440"
+        width: 1440
+        height: 1856
         isCached: true
   - title: "Cheney challenger Stefanik says GOP must work with Trump"
     excerpt: "New York Republican Rep. Elise Stefanik is stating her case for replacing Rep. Liz Cheney as the No. 3 House Republican leader"
@@ -496,18 +506,7 @@ related:
         width: 1200
         height: 843
         isCached: true
-  - title: "Top House Republican Says He Will Back Stefanik, Not Trump Critic Cheney, as Conference Chair"
-    excerpt: "The top Republican in the U.S. House of Representatives signaled on Sunday that he would vote to remove fellow Republican and Trump critic Liz Cheney as a party leader, saying he will back Representative Elise Stefanik instead."
-    publishedDateTime: 2021-05-09T16:23:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-09/top-house-republican-says-he-will-back-stefanik-not-trump-critic-cheney-as-conference-chair"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-05-09/top-house-republican-says-he-will-back-stefanik-not-trump-critic-cheney-as-conference-chair?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-05-09/top-house-republican-says-he-will-back-stefanik-not-trump-critic-cheney-as-conference-chair?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 44
 
-secured: "CHliIII72KfHQFBRfLz5h1CnUVKScenS8B9xNLrZzd/NBvrtSZvSrbLYV2L5lOgs/ql0EA9uTMtpk0qvstccsAXUmdpdAMiTA5S2bQFU+0Z6BHe/H/7m1PN0lvGd5S4XsAt3f6XRddqEWs1A/2S1lPXIXvGE/DovXjdNuNX6iIap04QWhjiUSuXopoPTjDSt9FI5POn6Hn279pTKZEF8Y9Cd88WFtuaWhUmcYq5DxKunvEKxb84APbXOsnUU3zpmS1hGaqK6ajgXAcoZcidWI8ap0sWbWxUwDHlpY4B1SSL9JC1IOSmaIGIILnALAn5lqj0gHxQtEa3hnUOzUCTptdNJNz7qgdelZlESaSDSODc=;7A22xmT2qdWo0Da/TEW3KA=="
+secured: "Mn5VYFb4LqSqqZfwvR/qvjwNMawHHx0lRDQd4evkoFD3lc9UD/0vHh4DxhocN+C1l4uxamEAL07VXUJ766xHgqOydf1D9+dO+PYJ/Xao3OfOPD7KHfRCMloBV+sYl6rGSoPqAbkZWDeY9EPT1F7fi49FG6UU2mi7u3+cW7h4raRzaoKz+MBnIW833+QztjA+QJN92+/Z3qIUrvd7DhA63kF7MJV245ChuWjYuBp4Cw5oolqTHj9fyJVA7IuSViH1GbV20p8vlzIFAXIL8ycxOBiopRjlkonCQlDdzYIibtru9c9bTbw6M0jxpcBH/tJw/kjuh9nRTBhfbyfk+m/6Kc4BohyNKVelMA+D4+RJdBmNH+acljwr1813B6DGuQs/ZkIDkqjF08BByTFKBf56Vr+hrnnOe+j9PiOpupesN3OHiABwqVi58D+yIK0j+lwZ70yS/8hKDMt2EZvdQx98ECJ3/LDGGxxDw83nHU9FiLbygHLznTyWRLAlVUG4CuuB5ywEqjkUA1wliToIGoEBbw==;QBN57EEjAtunSC3c1uNCYA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trum
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
 type: article
 quality: 137
-heat: 737
+heat: 757
 published: true
 
 provider:
@@ -496,6 +496,17 @@ related:
         width: 1200
         height: 843
         isCached: true
+  - title: "Top House Republican Says He Will Back Stefanik, Not Trump Critic Cheney, as Conference Chair"
+    excerpt: "The top Republican in the U.S. House of Representatives signaled on Sunday that he would vote to remove fellow Republican and Trump critic Liz Cheney as a party leader, saying he will back Representative Elise Stefanik instead."
+    publishedDateTime: 2021-05-09T16:23:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-09/top-house-republican-says-he-will-back-stefanik-not-trump-critic-cheney-as-conference-chair"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-05-09/top-house-republican-says-he-will-back-stefanik-not-trump-critic-cheney-as-conference-chair?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-05-09/top-house-republican-says-he-will-back-stefanik-not-trump-critic-cheney-as-conference-chair?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 44
 
 secured: "VGwOqao60DjG+Va/dCWDlDNkvwHiv4Tl93fy7njVhFv375zTeYaOPFUoxTWNJ+pxkHXxPCV3zoDaTfSJVXI5Jysf95T85wu79K6Jh/w5bbU8P6w51VyIQPGqQzLCxIkv0NonsRiFWcuTWxxmBEwjMHWzuJZXZix13oQrxjQVk0OcQVkGLhxp0DedJeUimy1t0kxNMK+Yb9GutKUnchh3HH2aXvqQGoTzzdcNJmQ2/GkKtHI4ad9fLFXL2ssY7QciQ6P6OgkaCg9oDH5yjMPQ19E6OLjV76pOCsLlL8N7kbIbPPeC59BzjIkBkZWSLsUJ0ub/BJoxmOsMoQPk95/Ox9bx4cKfylevIjJE2QtlxnOGZx8pbEeVQBmwO0AzilDXaqqiYO9Jk+/RuLZuHELIfwkmLqJ8bkk6R8MoeEyeUnNnAk3F3822ulMvcAHKZ0ciqdJChXtI1xOpNbRvjv2309HhhjXDdWbCrPx4zs39Qan+SjIBueO4ms0rVsVImK9ssqrbXWZtZg9oULeAKvkbAA==;ucejVfiYTnYAnwYvSiI+eQ=="
 ---

@@ -1087,6 +1087,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden to join by video meeting of NATO's eastern members"
+    excerpt: "U.S. President Joe Biden will join a meeting by video link of presidents of countries on NATO’s eastern flank being held Monday in the Romanian capital"
+    publishedDateTime: 2021-05-10T07:05:00Z
+    webUrl: "https://www.washingtonpost.com/world/biden-to-join-by-video-meeting-of-natos-eastern-members/2021/05/10/72aa6668-b166-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/biden-to-join-by-video-meeting-of-natos-eastern-members/2021/05/10/72aa6668-b166-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/biden-to-join-by-video-meeting-of-natos-eastern-members/2021/05/10/72aa6668-b166-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Joe Biden Jimmy Carter Photo Leaves People Confused About How Tall They Are"
     excerpt: "The Carter Center shared the photo on Twitter and said: \"We're pleased to share this wonderful photo from the @POTUS and @FLOTUS visit to see the Carters in Plains, Ga.! Thank you President and Mrs. Biden!"
     publishedDateTime: 2021-05-04T13:06:00Z
