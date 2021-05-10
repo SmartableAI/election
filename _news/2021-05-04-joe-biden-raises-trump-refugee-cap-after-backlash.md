@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 2690
+heat: 2710
 published: true
 
 provider:
@@ -1135,6 +1135,22 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffbe4290c-9e36-4121-b0cb-66c8fb5cebd3.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "US restores transgender health protections denied by Trump"
+    excerpt: "The Biden administration says the government will protect gay and transgender people against sex discrimination in health care"
+    publishedDateTime: 2021-05-10T18:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/reversing-trump-us-restores-transgender-health-protections/2021/05/10/b632e296-b18b-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/reversing-trump-us-restores-transgender-health-protections/2021/05/10/b632e296-b18b-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/reversing-trump-us-restores-transgender-health-protections/2021/05/10/b632e296-b18b-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TH3KWNVRRII6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Pastor Robin Bullock Says It's a Sin to Recognize Joe Biden as President"
     excerpt: "\"You can pray for the office of the president. But you cannot pray for President Joe Biden,\" Bullock said. \"Because you might as well pray for the Easter Bunny, because he don't exist.\""

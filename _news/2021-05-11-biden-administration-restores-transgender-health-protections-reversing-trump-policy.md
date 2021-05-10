@@ -1135,6 +1135,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "US restores transgender health protections denied by Trump"
+    excerpt: "The Biden administration says the government will protect gay and transgender people against sex discrimination in health care"
+    publishedDateTime: 2021-05-10T18:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/reversing-trump-us-restores-transgender-health-protections/2021/05/10/b632e296-b18b-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/reversing-trump-us-restores-transgender-health-protections/2021/05/10/b632e296-b18b-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/reversing-trump-us-restores-transgender-health-protections/2021/05/10/b632e296-b18b-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TH3KWNVRRII6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Pastor Robin Bullock Says It's a Sin to Recognize Joe Biden as President"
     excerpt: "\"You can pray for the office of the president. But you cannot pray for President Joe Biden,\" Bullock said. \"Because you might as well pray for the Easter Bunny, because he don't exist.\""
     publishedDateTime: 2021-05-03T23:31:00Z
@@ -1949,6 +1965,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "8/ASwQ4KdVel6JlhK3yzbVMuNg5mzW/3SOG9uXYSgXyVfZygeJcvPRPmBGWEi0NLRyKdth8o8T+9Wkb9TgTpqyTLnhdnguaQhkAjv6D07gquQMstOzlEiQMZz1yNU+SXxAglUoyJBCr6Lyav3F8e5V0s/UZ8TSJCGtEqHTTAGjHUfH6S79aD0GeADtDQPcVIwHxGQJLSZl3/FPTC4zI4SxWDfaaXPN8l6rj1MKaXJznwU/IkVsAkIlmVTg92ZMmm0awL3p2JJ/ouP/C3Z4SsmhixUrT6u2qHjnJ6oZFb9PHYWem23o1hkpPQXMhpE8bjuHNWm5u/KYv4IZyBklX7s9/kqJQHgCiqUYsBxbFr70c=;HloEaPZda1v/LOUlGPOkoA=="
+secured: "nvl6n+usF1BpxHqjkspTYRjeCJQXyYHZ5ejeoNiPmW1Rz8+4hBU81D9+2YwhZUYaW8sSlsVMV3rO/s54HOrZGIU+g7RnT8o6YAwOV1gkxHVinsh+UzvT8R/DNvPJsJJcPawYjNuYxDDQAfZ1SDw/rJnnx6Yt/uLkPQU46aALVsHuGmJKrUe0VDvpXzr6R1uqPe1S/YdKSGe9ocYBf2jk0B2Rdfo10oEXNqTbFM7JKagSQiC83EVwbi3qhQRYA3cUaoG4ndOob6acleeW5gM+dAm6nrAAOlhyN1Gvw16r/ps27llOAlhsQvieS94wyP1tEhzYdilWJV/uUU4j451YAV2sRVWrG2wr6BkoAvD9xwV7vVgfl1pc+CAsmMswXpuvgaCZ3bVD3PPXvq7b1jW+hp4IYnkPBn76HK0xp9JBuBqa2N9KcuQ69iD7lrJhER9EFEROwVht6ixohf3sMwAJS6kAoRKwv+VSlvAnJqsjoH1qfKXMmjnhgydVMqrPQZjbLnk0pmo6qbsr3+UfJmHy3Q==;+1NSyZzAmQAY7WNoSFfwrg=="
 ---
 

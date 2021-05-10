@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-05-liz-cheney-facing-gop-leadership-removal-takes-swipe-at-trump-cult.md",
+      "title": "Liz Cheney, facing GOP leadership removal, takes swipe at Trump 'cult'",
+      "excerpt": "Rep. Liz Cheney (R-WY) wrote that the Republican Party is at a \"turning point\" and must decide “whether we will join Trump’s crusade to delegitimize and undo the legal outcome of the 2020 election, with all the consequences that might have.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9U2WmSW-Ztw/liz-cheney-gop-leadership-trump-cult",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9U2WmSW-Ztw/liz-cheney-gop-leadership-trump-cult",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e70db19-b3db-400c-b524-0b89525a6127/45d59833-a005-43db-9996-e0dcc2be08ff/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/liz-cheney-gop-leadership-trump-cult.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-gop-leadership-trump-cult.amp",
+      "publishedDateTime": "2021-05-05T16:23:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-biden-dismisses-mcconnells-pledge-to-focus-on-stopping-this-new-administration.md",
       "title": "Biden dismisses McConnell's pledge to focus 'on stopping this new administration'",
       "excerpt": "President Joe Biden responded on Wednesday to Senate Minority Leader Mitch McConnell's comment that \"100%\" of his focus is \"on stopping this new administration,\" asserting that he had heard such threats from the Kentucky Republican before and worked through them.\n    \n",
@@ -389,62 +445,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-gop-rep-blasts-biden-on-illegal-immigration-more-got-aways-than-a-sold-out-penn-state-game.md",
-      "title": "GOP Rep blasts Biden on illegal immigration: More 'got-aways' than a sold-out Penn State game",
-      "excerpt": "A western Pennsylvania congressman slammed President Biden's border policy, quipping that the estimated number of illegal immigrant \"got aways\" from Border Patrol is more than the number of attendees at a typical sold-out Penn State football game.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vh5SLl2O5KI/gop-rep-blasts-biden-border-crisis-more-got-aways-than-a-full-penn-state-game",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vh5SLl2O5KI/gop-rep-blasts-biden-border-crisis-more-got-aways-than-a-full-penn-state-game",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1313bbdc-fa3a-4cd6-bf0f-ecfe3b1eb12d/ccea9e77-40d2-4fe8-a6df-d8eb00d2e144/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gop-rep-blasts-biden-border-crisis-more-got-aways-than-a-full-penn-state-game.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-blasts-biden-border-crisis-more-got-aways-than-a-full-penn-state-game.amp",
-      "publishedDateTime": "2021-05-04T19:26:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -1048,7 +1048,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2690,
+      "heat": 2710,
       "tags": null,
       "images": [
         {
@@ -1153,7 +1153,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1308,7 +1308,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {

@@ -1151,6 +1151,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "US restores transgender health protections denied by Trump"
+    excerpt: "The Biden administration says the government will protect gay and transgender people against sex discrimination in health care"
+    publishedDateTime: 2021-05-10T18:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/reversing-trump-us-restores-transgender-health-protections/2021/05/10/b632e296-b18b-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/reversing-trump-us-restores-transgender-health-protections/2021/05/10/b632e296-b18b-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/reversing-trump-us-restores-transgender-health-protections/2021/05/10/b632e296-b18b-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TH3KWNVRRII6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Joe Biden Jimmy Carter Photo Leaves People Confused About How Tall They Are"
     excerpt: "The Carter Center shared the photo on Twitter and said: \"We're pleased to share this wonderful photo from the @POTUS and @FLOTUS visit to see the Carters in Plains, Ga.! Thank you President and Mrs. Biden!"
     publishedDateTime: 2021-05-04T13:06:00Z

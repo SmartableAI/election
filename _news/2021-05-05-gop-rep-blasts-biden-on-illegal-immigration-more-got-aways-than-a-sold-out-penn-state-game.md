@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-rep-blasts-biden-border-crisis-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-blasts-biden-border-crisis-more-got-aways-than-a-full-penn-state-game.amp"
 type: article
 quality: 164
-heat: 184
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden approval rating: Thumbs up overall, but thumbs down on immigration: poll"
+    excerpt: "A new national poll indicates that most Americans approve of the overall job President Biden is doing in the White House. But, according to AP-NORC survey released Monday, the president’s numbers are mixed on gun violence and underwater on immigration."
+    publishedDateTime: 2021-05-10T19:15:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "New Biden DOJ staffer deleted over 39K tweets, including Russia collusion accusations"
+    excerpt: "Author and National Security Administration alum Susan Hennessey announced on Monday that she would be joining Biden’s DOJ as part of the agency’s National Security Division."
+    publishedDateTime: 2021-05-10T17:46:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W9Axlg4Aiww/biden-doj-susan-hennessey-deleted-tweets-russia-collusion"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-susan-hennessey-deleted-tweets-russia-collusion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-susan-hennessey-deleted-tweets-russia-collusion.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd4368f8-cd7f-41ec-9588-3cf5860dbeb7/556aa109-f016-4f1c-873b-d74d824082e7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Stephen Miller slams Biden's immigration policy as reckless and immoral on 'Life, Liberty & Levin'"
     excerpt: "Stephen Miller discusses Biden's 'reckless' immigration policies on 'Life, Liberty & Levin'"
     publishedDateTime: 2021-05-09T11:40:11Z

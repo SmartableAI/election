@@ -143,6 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "White House ally: Biden is 'most liberal president we've had' but 'public thinks he's a moderate'"
+    excerpt: "A New York Magazine article Sunday quoted a figure \"close to the White House\" who said the Biden White House's tightly controlled media strategy has been successful in getting the administration portrayed as moderate when it's the \"most liberal\" one in history."
+    publishedDateTime: 2021-05-10T18:23:00Z
+    webUrl: "https://www.foxnews.com/media/white-house-ally-biden-liberal-president-public-moderate"
+    ampWebUrl: "https://www.foxnews.com/media/white-house-ally-biden-liberal-president-public-moderate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/white-house-ally-biden-liberal-president-public-moderate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6e05967a-6fda-48c2-b31d-31ed35ff654d/1319fe5c-a5d7-4656-b9c5-71afa2fac35e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Based on Biden's Performance So Far, There's Trouble Ahead for Democrats"
     excerpt: "On the surface, Joe Biden seems to be doing pretty well. But underneath, there are signs of problems, areas where partisan overstretch threatens"
     publishedDateTime: 2021-05-08T22:09:00Z

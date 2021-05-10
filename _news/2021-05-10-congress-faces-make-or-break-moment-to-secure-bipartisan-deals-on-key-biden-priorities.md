@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden pushes economic aid proposals as GOP calls for paring back unemployment benefits"
+    excerpt: "President Joe Biden will focus in a speech Monday on how the administration is providing funding for states and localities, bolstering child care providers and helping Americans return to work safely, a White House official told CNN.\n    \n"
+    publishedDateTime: 2021-05-10T18:13:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JhPkmIHS3cA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/biden-employer-assistance-child-care-state-and-local-funding/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/biden-employer-assistance-child-care-state-and-local-funding/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210510004358-03-joe-biden-0507-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fight for $15 minimum wage heats up after Biden's endorsement"
     excerpt: "After two decades working for Walmart, Cynthia Murray says she only recently saw her pay go above $15 an hour."
     publishedDateTime: 2021-05-08T13:02:00Z

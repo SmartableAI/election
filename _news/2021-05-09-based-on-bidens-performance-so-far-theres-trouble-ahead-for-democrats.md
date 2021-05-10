@@ -156,6 +156,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "White House ally: Biden is 'most liberal president we've had' but 'public thinks he's a moderate'"
+    excerpt: "A New York Magazine article Sunday quoted a figure \"close to the White House\" who said the Biden White House's tightly controlled media strategy has been successful in getting the administration portrayed as moderate when it's the \"most liberal\" one in history."
+    publishedDateTime: 2021-05-10T18:23:00Z
+    webUrl: "https://www.foxnews.com/media/white-house-ally-biden-liberal-president-public-moderate"
+    ampWebUrl: "https://www.foxnews.com/media/white-house-ally-biden-liberal-president-public-moderate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/white-house-ally-biden-liberal-president-public-moderate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6e05967a-6fda-48c2-b31d-31ed35ff654d/1319fe5c-a5d7-4656-b9c5-71afa2fac35e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "WsLTRV2mj2t8NMyi2eNLaYl2mQZpu/3aLhC4fV/6X2Pp4ravzaBIpJ535exXBVnaP6bNpp3+r5LLYbqQzrdD5pxRWETteLixXNNqdRt8p3G+EjAPZztlcn/GUm63Ct1Smn9z4yDR1kYLfh+j6QIojxmamgrivT1uMxjnHvRkVTyg13KQ4HifTHrmY338gOSgy0TBLpid+c947P8mWbyFtiD/2S4hDE+zKTNs5ZrzeomCD+bpULT2Cy6hK17OILro8D5Ml4t9AeaS7AV29OkWaF8R8pJVGa60TYFVmR8LvTi4emLQ9ezDzQQwtTZ3NHTPc8saQurzL6XzRfaBk7dJcS6WcmOH5plxlhcnM+dYBxhILtte9J6uY32cbYQ2tAtVhSpTO9HBY71cXKtqYO/inqyZZwMglaq3gyBhP7zdhayESdD9syA8VVpPduvhmHGUhVQ7lpdCuiAZcntCOEzVTA+YKoqU4Jk0kNd1H7uE/Rlck36hXDvLo0Kwky+Xt9VfjI4DWVns4IbbELX9QXmCUg==;MbDR2aDtNaTedjcHybXz5g=="
 ---

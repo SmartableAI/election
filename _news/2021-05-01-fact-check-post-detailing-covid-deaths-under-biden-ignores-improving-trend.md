@@ -136,6 +136,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Joe Biden's support of labor unions is historic. Here's what it means"
+    excerpt: "No recent president of either party has come close to expressing the overt support for the labor movement that Biden has during his first three months."
+    publishedDateTime: 2021-05-10T18:29:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/05/10/joe-biden-labor-unions/5024518001/"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 35
 
 secured: "L4s2FkBCy/kpgkjVmxc6fpM0fTegkCVHuvLjsbcwR0asyxm2RNTbGM8+mivJlO9WKAI6I0e5dWPTnLDopSglYXkDgQfJlkzoXIbEWxmIjGQ16QDoUFIKUSl5/98zViEbQ77j727Y4n3AOtIzadNemik1XS4vw0ZCaO2X6p1xBeIyWcAvdCN/F5xZvoc7jYq6u0QjlJnx04Hk3sLrK+EAdzDOv9hI6BNfsnJgghEYNMEgAEmLxHsnIVcCAVrhZeTVlp2h63UdbdII+Fknx2WjQcudlpJlGpVHuOjnL1Tz3fcUip+Hb1jFF4g+FXIYCkjFin5cJ6HFpYBkWTElNFINuHY9rX9TtfsRHDPhAfSp1ZtRh5u6mjRoNiPBpz/IN77WfuVWKVmfrmOyaJwFvezFutORpguIVQVlMbZ7GMH+5p8729jBkFbsP17md4Yk81pEkHd5GfmRg5sgtgyIF5BL61ijp52KRAS0Wieemz2fvXBk3xwL7x1mdwkamKblT8uUa2yMbtITNI1tO6yB7Waf6Q==;ngmNm8oInQhtDPJxh1k0Ug=="
 ---

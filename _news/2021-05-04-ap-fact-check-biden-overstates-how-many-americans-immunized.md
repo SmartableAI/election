@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstat
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -136,6 +136,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Joe Biden's support of labor unions is historic. Here's what it means"
+    excerpt: "No recent president of either party has come close to expressing the overt support for the labor movement that Biden has during his first three months."
+    publishedDateTime: 2021-05-10T18:29:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/05/10/joe-biden-labor-unions/5024518001/"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 35
 
 secured: "WbSNgDMByCRNFlzyDgNDFqiM+A3UBKxV5FTkAv9zC4AcJhBTSdidc/GuxGPTJsEf1FRptUcSCx9I24Xo+VV8l3tbcIEPgRA1adtS7onBnHdCr/ylAQM+CyxQnLU4VknZKTf7GvsrmUoLwLXArrhA623CIDoOppM8mAh61UAokr9xamueWNSF084y7L5qX5EaIeDt2PdrsOO1f+tAyy0IPpaZoBfCBQ/o5FhOiY38BcfJjNHiGFIYYuqCrXVy4PSJHQKBuEELOK0lXR7lluEfZuCvSWBneaHWHX7DEGuS7c0ZEN3B/tBk6yaOBgqpOKsWWzZe+VdnLKIipWnvSMC0+YzXN/DTC14gKr0JskK35JE=;gMxVG6hOQG8VmjJiXpqc3Q=="
 ---
