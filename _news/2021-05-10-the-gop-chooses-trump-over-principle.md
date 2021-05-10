@@ -1,34 +1,23 @@
 ---
 category: news
-title: "Twitter cracks down on accounts that solely post content from Trump communications platform"
-excerpt: "Twitter has been taking \"enforcement action\" on accounts that exist solely to repost the content from former President Trump's new communications platform."
-publishedDateTime: 2021-05-06T15:10:37Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y6uyjV-Ge6A/twitter-crackdown-accounts-content-trump-communications-platform"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y6uyjV-Ge6A/twitter-crackdown-accounts-content-trump-communications-platform"
-ampWebUrl: "https://www.foxnews.com/politics/twitter-crackdown-accounts-content-trump-communications-platform.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-crackdown-accounts-content-trump-communications-platform.amp"
+title: "The GOP Chooses Trump Over Principle"
+excerpt: "Former President Donald Trump promised to exact his revenge on Republicans who refused to go along with his election lies or turn a blind eye to his role in the January 6 insurrection. Americans are likely to watch his first political casualty fall as the House GOP is poised to oust Wyoming Rep."
+publishedDateTime: 2021-05-10T02:24:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/05/09/the_gop_chooses_trump_over_principle_542410.html"
+webUrl: "https://www.realclearpolitics.com/2021/05/09/the_gop_chooses_trump_over_principle_542410.html"
 type: article
-quality: 165
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
-
-images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
-    isCached: true
 
 related:
   - title: "DOJ ordered to turn over Trump obstruction of justice memo"
@@ -158,6 +147,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/618f5785-2270-40bc-abf4-5aaf713d2c2a/71d14e4e-5cad-445f-8928-823183c1bf9d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Twitter cracks down on accounts that solely post content from Trump communications platform"
+    excerpt: "Twitter has been taking \"enforcement action\" on accounts that exist solely to repost the content from former President Trump's new communications platform."
+    publishedDateTime: 2021-05-06T15:10:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y6uyjV-Ge6A/twitter-crackdown-accounts-content-trump-communications-platform"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-crackdown-accounts-content-trump-communications-platform.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-crackdown-accounts-content-trump-communications-platform.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "DOJ memo will 'validate' Barr not charging Trump with obstruction of justice, GOP congressman predicts"
     excerpt: "Former chairman of the House Rules Committee Pete Sessions, R-Texas, told Fox News on Wednesday that he predicts the DOJ memo from March 2019 will “validate” Barr’s decision to clear Trump from obstruction of justice charges."
@@ -461,16 +466,7 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "The GOP Chooses Trump Over Principle"
-    excerpt: "Former President Donald Trump promised to exact his revenge on Republicans who refused to go along with his election lies or turn a blind eye to his role in the January 6 insurrection. Americans are likely to watch his first political casualty fall as the House GOP is poised to oust Wyoming Rep."
-    publishedDateTime: 2021-05-10T02:24:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/09/the_gop_chooses_trump_over_principle_542410.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
-secured: "PLu2Hqyqp71lx02m3XtdcHrapGfAPA1puyOJ/yk8M2u4IUQVlvMI0YcX6ctJ+KA3ecAf71FXWVScjyXZAnsY9YgwpxdHmtHgfjOPHO/MlYqKSaDD4C9ivf/Dy3URaXeqU2hA3seZGpymIArzmi0HaN6Fbt1efUeRtXVLuX2qrCMvQcbSs5m+nIuzWdU7Ek6qJEFmG1p/pHUz7q0hF79UAYLvmQkPIGMpI+dtGXLn5vvwmgLsLVZvkAEM6FFiqxmjb9Yf4qX70FW18dKX1wAae0O9ZIDF+/j5nwtyBkMHqYuaEOIdSOMWGJAwaPKVPgYtrW5KxHDBwHws5DpiUavJemICzznqDZyM1BiRWXa8Iz4=;lcUF8PWglmD5HzyrAY7m1w=="
+secured: "ifoTh4O0SlUNIebwSsIvIBdiadC+hxMONylkTZiayN/Bzw1Z8dh3y0BGWu7RF577hYwWSNP9mWYmm21kvvCFb4wL3BQExM9t4Nd7pFB5R9yhYJt3wBzW1G44fJz6goXQcVIMaOdmNjGiEFxIGZp9OoCFzxvg7ymBhRvKK+O1Ff7wjAH78bHSryV/fWwpAAOXDCnpV5h+g9WYubvfODgVimpSqqFiXSixZo9gnK1ka8d9aZgWoCptMkKRhyC5KBQFbdiu0ZSMweM2e+w6WT+nSe/UxjedzcGXzK/bO0muRsXBsDRxGrA0l/PJAnnkccODXIQI/a9O1oenQoU0DFLbimbFpeK5iIseB+Jftan3syg=;3TStZWjxP9cwNyrW3QkDbw=="
 ---
 

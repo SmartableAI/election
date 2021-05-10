@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Congress faces make-or-break moment to secure bipartisan deals on key Biden priorities"
+    excerpt: "President Joe Biden's bipartisan push faces a crucial moment on Capitol Hill this month where talks over several big-ticket items could lead to major legislative victories hailed by both parties -- or they could collapse and prompt a bitter round of recriminations and open partisan warfare.\n    \n"
+    publishedDateTime: 2021-05-10T10:03:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQ1wJsWAgLI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/congress-agenda-biden-bipartisan-talks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/congress-agenda-biden-bipartisan-talks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504000658-us-capitol-building-0429-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

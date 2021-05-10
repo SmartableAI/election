@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Fight for $15 minimum wage heats up after Biden's endorsement"
-excerpt: "After two decades working for Walmart, Cynthia Murray says she only recently saw her pay go above $15 an hour."
-publishedDateTime: 2021-05-08T13:02:00Z
-originalUrl: "https://www.cnn.com/2021/05/08/business/minimum-wage-biden-walmart/index.html"
-webUrl: "https://www.cnn.com/2021/05/08/business/minimum-wage-biden-walmart/index.html"
+title: "Congress faces make-or-break moment to secure bipartisan deals on key Biden priorities"
+excerpt: "President Joe Biden's bipartisan push faces a crucial moment on Capitol Hill this month where talks over several big-ticket items could lead to major legislative victories hailed by both parties -- or they could collapse and prompt a bitter round of recriminations and open partisan warfare.\n    \n"
+publishedDateTime: 2021-05-10T10:03:41Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQ1wJsWAgLI/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQ1wJsWAgLI/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/congress-agenda-biden-bipartisan-talks/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/congress-agenda-biden-bipartisan-talks/index.html"
 type: article
-quality: 115
+quality: 167
 heat: -1
 published: false
 
@@ -20,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507161449-minimum-wage-mcdonalds-jan-2021-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504000658-us-capitol-building-0429-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -78,23 +79,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Congress faces make-or-break moment to secure bipartisan deals on key Biden priorities"
-    excerpt: "President Joe Biden's bipartisan push faces a crucial moment on Capitol Hill this month where talks over several big-ticket items could lead to major legislative victories hailed by both parties -- or they could collapse and prompt a bitter round of recriminations and open partisan warfare.\n    \n"
-    publishedDateTime: 2021-05-10T10:03:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQ1wJsWAgLI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/congress-agenda-biden-bipartisan-talks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/congress-agenda-biden-bipartisan-talks/index.html"
+  - title: "Fight for $15 minimum wage heats up after Biden's endorsement"
+    excerpt: "After two decades working for Walmart, Cynthia Murray says she only recently saw her pay go above $15 an hour."
+    publishedDateTime: 2021-05-08T13:02:00Z
+    webUrl: "https://www.cnn.com/2021/05/08/business/minimum-wage-biden-walmart/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 115
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504000658-us-capitol-building-0429-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507161449-minimum-wage-mcdonalds-jan-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
 
-secured: "RydH6E6aGzDdFKO7Hf3q+3Taba7ue3/OgLeEy30PNm709ixRjjO3k9DW5QVm7sWcpGrZl8drcJ7vHnFwB1q/sHRmeT+Yt1CVolJLkjSLbhkdY+u2Dsp7h1C1JKtgJF9XmsZcBZRdGkOy5MEO++7fZFjd4BvIpNbGMffFBtmwZh11Q+7aQu7QSAOA93WgvX/Bnj4K0Uo7N/RKoB+JTLxE3AEjkrCCh+C3AWieQiO/FIcW7QMC2vXZmzKqeYTxgIemwFCjQhg96syStOXjBIiEeEPwcZ8Q23Wyg3YvXkuG78ajD9mfVricITQaVt5nEZQRjJU4rbx7FDwhDEn90fb1iw9A5aQEV6rNPD7ORECSyN1ueM1Dope2bIM609wUBBvH/iHc0femUTd8Qk1Sa0soiSKkkwknrrvCqTuq3A0Iugc8azHVdzV5Ugme4CZCI1oDVDhcZnQFNRRy4SgJf5ABTxFHHx7yaTSsbwbVNOAISj3UcTWYu+X55nioLNT/cYRyqNK1cVxvi2MORQC8wnEsRQ==;xVwcgLDKTluaKf4HapLcPw=="
+secured: "7pUDVBN2jJmC/mmslUv3hzaxNew4Z/sghAE6rCuyW2I+edkp/CmJqqs0ti9+cUPPQ/xPq+4k/rYVXLGXPSnTiRo9peA2/ChG5zeo0rw/LZ55vWRXv9gcL+SCYMVdU/3oD9czSbIJidMOfkMylqLiIcJUhZ2jY+Wb1ExlmrQcASRARhWn/WQiktieHlcyXW0flHB5Klv/stHiA0myiAfZ5AFssFVOXf/WhEaxvoovEi2tmWA/m8H/wMtMeqdRa8pHDiK1J09DSrdkG3I1kampEF+d+bBWWk4GsE2XNkcv0bOEIzOC4ZEFQ1uZl6I6siLB+ViZL/KgTbqLYTAwzM7qo7mad2PbL4dmmt3YgK/t9nQ=;pYtb4NfhjhOgkr8IdXT4hw=="
 ---
 

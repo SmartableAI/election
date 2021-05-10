@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trum
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp"
 type: article
 quality: 175
-heat: 715
+heat: 735
 published: true
 
 provider:
@@ -461,6 +461,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "The GOP Chooses Trump Over Principle"
+    excerpt: "Former President Donald Trump promised to exact his revenge on Republicans who refused to go along with his election lies or turn a blind eye to his role in the January 6 insurrection. Americans are likely to watch his first political casualty fall as the House GOP is poised to oust Wyoming Rep."
+    publishedDateTime: 2021-05-10T02:24:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/09/the_gop_chooses_trump_over_principle_542410.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "Nb5O72C/1efY+xOApLidWE2Q71gULXPan6n4ld7hIbWpLBg0Blgm3fGB22LnCNlyPTnI+4jYtG0eNDJxbCrDLJ2igxoV0sU44MxUFJ9HIvIN/HNwWY09O3QtF5yuRQf+WtqqN83Wvm//lnTnvPnkGLtSc7Pj5YPZozw3Xq0FSwkKaVbW3DcHPoGr5SnrQ5iUOZ75gilWEIsQAIrLANO1SL1o8wUE4iTm+bot3NHHdSYUJnaly2XnTFIrcfQJ27t9iWi1SxMIvaC5gADqvmCqaVdEfr2/JOpLQ3nOLMD5YlqLdu03Um+ZHxFhBJJ1Z1wWmgGvMRaWxjjf2BoPkS2AeRgehb7/N3Lcm0Fk5jnv0cU=;+TSjzNvwEQol+H/RUDPvLQ=="
 ---

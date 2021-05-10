@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden to criticize tax cuts for wealthy while pushing middle-class agenda in Louisiana"
-excerpt: "President Joe Biden on Thursday will make the case that his sweeping economic proposals are better positioned to bolster the middle class than tax cuts for the wealthy and corporations, according to a White House official. \n    \n"
-publishedDateTime: 2021-05-06T13:31:28Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
+title: "Biden embarks on his bipartisan push for an infrastructure deal"
+excerpt: "President Joe Biden faces a daunting task as he embarks on a bipartisan push with top congressional leaders to advance several of his key priorities -- which will advance or collapse depending on how the coming weeks shake out.\n    \n"
+publishedDateTime: 2021-05-10T10:42:41Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GTUYTPQNdSA/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GTUYTPQNdSA/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html"
 type: article
-quality: 167
-heat: -1
-published: false
+quality: 175
+heat: 335
+published: true
 
 provider:
   name: CNN
@@ -25,28 +25,12 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506155226-01-joe-biden-speech-louisiana-0506-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
-  - title: "Biden embarks on his bipartisan push for an infrastructure deal"
-    excerpt: "President Joe Biden faces a daunting task as he embarks on a bipartisan push with top congressional leaders to advance several of his key priorities -- which will advance or collapse depending on how the coming weeks shake out.\n    \n"
-    publishedDateTime: 2021-05-10T10:42:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GTUYTPQNdSA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506155226-01-joe-biden-speech-louisiana-0506-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration details plans to conserve 30% of US land and water by 2030"
     excerpt: "The Biden administration on Thursday outlined in a new report how it aims to achieve its goal of conserving 30% of America's lands and waters by 2030.\n    \n"
     publishedDateTime: 2021-05-06T14:17:15Z
@@ -76,6 +60,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303103803-01-jennifer-granholm-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to criticize tax cuts for wealthy while pushing middle-class agenda in Louisiana"
+    excerpt: "President Joe Biden on Thursday will make the case that his sweeping economic proposals are better positioned to bolster the middle class than tax cuts for the wealthy and corporations, according to a White House official. \n    \n"
+    publishedDateTime: 2021-05-06T13:31:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -158,6 +158,6 @@ related:
         height: 773
         isCached: true
 
-secured: "vx8utuZpTwLuSFSXhCN0rheTvvcHarsnMLCInE8EyuJEViGArg1FR5PpChSev/ryTuZx1FkefL9cOFCSHaRjqYPlLQG/rVCUwQAeb7jVHohkTBTX9gylAiSs9kvXF+gGAHkwMpT6jz4F7xCx2DVbCt0O1ScKClhqULD5Vggaum2zL/NEvlQwLeeyFudkVjVGqSM+0KKpFR2mN+eLndGjDJaBFj2nsqbHpcsmOSbyxSPpWGqjb3R+H5meEOAo8omCAxJ53/78SulTLFnv58vtwhRnx96umNqS/JtqRYbqe4OoyedSMXqxREUhOFFVCmh+UGtDEP4WGHt00/4TZ9+93+IIdUgHhmr78P+rH2y5mUk=;6OVF4aspYXEsYVjF6pE5ig=="
+secured: "U+estDAh8Qr+9gqqwtlCigKfOEChc74ztQUskq7xQ8kF9zTukR7EHW3Qy9XSx9CvTrojBMhAEBi6OMuySkqAndvQrFFyYzLcmGueJNbkb1A8TYdDdoLM1I55zkzW+0A2DemjOF7IhnIU9Pm9VOgImH2EdtDI067oouoY9Px0zTelqwqcW0oBypbjKuqjmIu1jGeeZtl/ulZR9hmktCrGlRWZnNzkfht8bZat1tS/fymhoZe8YdvgxqH1ffHVyGCLCACJ326soRYvw6mkBGETvYVSoT7CiKIvJMWJTcc8eqGFID0QjRiuAvTNoWQsQHGWt+ynonU+xlWyJcfDdXKO3bDXW1nvBH20J/jIdKsA4Dg=;J1eeHGweHOAXoZLDvi8dOg=="
 ---
 

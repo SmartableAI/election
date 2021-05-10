@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden to criticize tax cuts for wealthy while pushing middle-class agenda in Louisiana"
-excerpt: "President Joe Biden on Thursday will make the case that his sweeping economic proposals are better positioned to bolster the middle class than tax cuts for the wealthy and corporations, according to a White House official. \n    \n"
-publishedDateTime: 2021-05-06T13:31:28Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
+title: "Biden administration formally launches task force to ensure scientific decisions are free from political influence"
+excerpt: "The Biden administration announced Monday the formal launch of its Scientific Integrity Task Force which will review the federal government's scientific policies to ensure they are free from inappropriate political influence.\n    \n"
+publishedDateTime: 2021-05-10T11:03:03Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TrK9GOpsKbw/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TrK9GOpsKbw/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/biden-task-force-science/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/biden-task-force-science/index.html"
 type: article
-quality: 167
+quality: 153
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506172538-01-biden-welfare-queen-myth-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -79,19 +79,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration formally launches task force to ensure scientific decisions are free from political influence"
-    excerpt: "The Biden administration announced Monday the formal launch of its Scientific Integrity Task Force which will review the federal government's scientific policies to ensure they are free from inappropriate political influence.\n    \n"
-    publishedDateTime: 2021-05-10T11:03:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TrK9GOpsKbw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/biden-task-force-science/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/biden-task-force-science/index.html"
+  - title: "Biden to criticize tax cuts for wealthy while pushing middle-class agenda in Louisiana"
+    excerpt: "President Joe Biden on Thursday will make the case that his sweeping economic proposals are better positioned to bolster the middle class than tax cuts for the wealthy and corporations, according to a White House official. \n    \n"
+    publishedDateTime: 2021-05-06T13:31:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 153
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506172538-01-biden-welfare-queen-myth-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -158,6 +158,6 @@ related:
         height: 773
         isCached: true
 
-secured: "vx8utuZpTwLuSFSXhCN0rheTvvcHarsnMLCInE8EyuJEViGArg1FR5PpChSev/ryTuZx1FkefL9cOFCSHaRjqYPlLQG/rVCUwQAeb7jVHohkTBTX9gylAiSs9kvXF+gGAHkwMpT6jz4F7xCx2DVbCt0O1ScKClhqULD5Vggaum2zL/NEvlQwLeeyFudkVjVGqSM+0KKpFR2mN+eLndGjDJaBFj2nsqbHpcsmOSbyxSPpWGqjb3R+H5meEOAo8omCAxJ53/78SulTLFnv58vtwhRnx96umNqS/JtqRYbqe4OoyedSMXqxREUhOFFVCmh+UGtDEP4WGHt00/4TZ9+93+IIdUgHhmr78P+rH2y5mUk=;6OVF4aspYXEsYVjF6pE5ig=="
+secured: "hkHQS38Q6i8OvWwmTgc3jwYwc19xdJO4CXO9UzrIYkwJeJAEMuAe7PZtAR/rspTDymcGQzkOPpEHQTb2H83tIjzbSAohtQpn2JbjejM99UCVvc0boXH+S8fIan33jJ2aIwSVxtyv/Zc55/ikQnpXmJhc3QxBDUfI1ecmTxvMUCTDklxlN06BYyRBk3DPj66AQqT8/G3HF5KLNzVp1GRitSbHJuUODc/5/yfS0CaxiKP//wUABBnDuLXAtM0ZBuha7SQ8xI61w+voD06/OAI9+ndWKmUI9rSRKyYAq3c9/KNCnSGNYxO3c2iLO8/4emsmh+ykgeXpoK1NhEaJvBN22X26pfOnFSDK/kmHjPCF8pU=;BdMdjY76As8tMv0jKfN8zA=="
 ---
 
