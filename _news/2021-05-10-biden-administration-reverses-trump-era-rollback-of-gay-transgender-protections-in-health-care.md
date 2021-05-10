@@ -1,30 +1,34 @@
 ---
 category: news
-title: "How Biden Could Get His Call For National Unity Back"
-excerpt: "President Joe Biden began his presidency with an inaugural call for national unity. Since that time, his greatest legislative achievement is a COVID-19"
-publishedDateTime: 2021-04-02T10:47:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.html"
-ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.amp.html"
-cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.amp.html"
+title: "Biden Administration Reverses Trump-Era Rollback of Gay, Transgender Protections in Health Care"
+excerpt: "The administration cited authority under Title IX of the Civil Rights Act and its interpretation of a Supreme Court ruling last year."
+publishedDateTime: 2021-05-10T15:35:00Z
+originalUrl: "https://www.wsj.com/articles/biden-administration-reverses-trump-era-rollback-of-gay-transgender-protections-in-health-care-11620664532?mod=hp_lead_pos11"
+webUrl: "https://www.wsj.com/articles/biden-administration-reverses-trump-era-rollback-of-gay-transgender-protections-in-health-care-11620664532?mod=hp_lead_pos11"
+ampWebUrl: "https://www.wsj.com/amp/articles/biden-administration-reverses-trump-era-rollback-of-gay-transgender-protections-in-health-care-11620664532"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-administration-reverses-trump-era-rollback-of-gay-transgender-protections-in-health-care-11620664532"
 type: article
-quality: 85
+quality: 138
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/53/539497_5_.jpg"
-    width: 750
-    height: 500
+  - url: "https://images.wsj.net/im-336312/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -588,22 +592,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden Administration Reverses Trump-Era Rollback of Gay, Transgender Protections in Health Care"
-    excerpt: "The administration cited authority under Title IX of the Civil Rights Act and its interpretation of a Supreme Court ruling last year."
-    publishedDateTime: 2021-05-10T15:35:00Z
-    webUrl: "https://www.wsj.com/articles/biden-administration-reverses-trump-era-rollback-of-gay-transgender-protections-in-health-care-11620664532?mod=hp_lead_pos11"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-administration-reverses-trump-era-rollback-of-gay-transgender-protections-in-health-care-11620664532"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-administration-reverses-trump-era-rollback-of-gay-transgender-protections-in-health-care-11620664532"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 138
-    images:
-      - url: "https://images.wsj.net/im-336312/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Reversing Trump, Pentagon to release new transgender policy"
     excerpt: "After Donald Trump took office, however, his administration delayed the enlistment date and called for additional study. A few weeks later, Trump caught military leaders by surprise, tweeting that the government wouldn’t accept or allow transgender ..."
     publishedDateTime: 2021-03-31T18:41:00Z
@@ -906,6 +894,22 @@ related:
         width: 732
         height: 548
         isCached: true
+  - title: "How Biden Could Get His Call For National Unity Back"
+    excerpt: "President Joe Biden began his presidency with an inaugural call for national unity. Since that time, his greatest legislative achievement is a COVID-19"
+    publishedDateTime: 2021-04-02T10:47:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/02/how_biden_could_get_his_call_for_national_unity_back.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/539497_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Joe Biden's Bid to Remake America"
     excerpt: "If Joe Biden's American Jobs Program, outlined in Pittsburgh, is enacted, then the federal government will take a great leap forward toward"
     publishedDateTime: 2021-04-02T10:46:00Z
@@ -1004,6 +1008,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "aINk89uloSwlcAB8ulzZyhisIQ7S78+LfEpqLOBj2N9Ub3BQqxfgmHBNdGMTaiKHIWyqPsiINXDMPdRv2FQWjR2r2VyPopeWfpFdN2Zd6kIrcZl9hTaztkqwPWgNlIcfUELbg34HDNr8pgWSuVjaLsLxYs8AYQUqaKItMWA3kN3yWHWCblLk6YvifLxgH7j9EImg5rd59bz9YhbtHcNLDNy99DxIaz2BayKAmeaDhVtUapmNziNr4OmOyj/4eP0/KMsxWpXsh9wKLcXvtsqjn7QEdvlusTyNhXWzekge+nP6QLSxoXGcayefKKkHr4X7LgXqWqe469R2GrlRcdRdnN8ibT2taTWwt7HtgwHb2nw=;11+tTg+MmIQvEtpot77sAw=="
+secured: "5wjQKT9ZH5AUa14U7jSTq8dymcx6CyGUljTCzQJjcExljDgOnLpcaymolJkFL9CkTAVCwOFJAQn3PspwRa+07DKP5VDhaiOynLLlSAL7bMF5242zEgKOHucBKmEeDwyV67v2ZVOrBmzfpLlHVSlwJ8jfYoAPBcDKlGIC8bzBxx44DqGuKGX6c+WoIxuOj1oBvAw+khhaFCGMSWxPDm6ENL+2/OiaZ983VdcKacGpuDeZ3e3wdlRSnsMwRpl0+5MYnatKxNrO3SzRxHnrggslLXqJypjXA77tt3PR7GatSApDNUK/mKqcz7NRge8wQV/T0gSMqKzQHAl/0hUOrWOMrITQge09wUHk7R38c4+51SI=;SXnu7xrH8Kt6lgr4UVqCgg=="
 ---
 

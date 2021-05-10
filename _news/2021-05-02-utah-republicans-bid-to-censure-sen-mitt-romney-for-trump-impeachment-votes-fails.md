@@ -451,6 +451,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump vs. Cheney: One Republican Comes To Defense Of Embattled Conference Chair"
+    excerpt: "The Illinois Representative savaged House Minority Leader Kevin McCarthy, saying he no longer represents the Republican party."
+    publishedDateTime: 2021-05-10T21:20:00Z
+    webUrl: "https://www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350"
+    ampWebUrl: "https://www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://dc.newsweek.com/en/full/2034408/betsy-devos.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Special election to replace U.S. Rep. Ron Wright remains highly competitive in final hours, as Donald Trump looms large"
     excerpt: "Nearly two-dozen candidates are vying to fill the late congressman's seat, and the former president is backing Wright's widow, Susan Wright."
     publishedDateTime: 2021-04-30T15:28:00Z

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Republicans are said to be plotting to oust Liz Cheney from House leadership and replace her with a pro-Trump woman"
-excerpt: "Cheney, the third most senior House Republican, has been a vocal critic of former President Donald Trump."
-publishedDateTime: 2021-05-04T12:40:00Z
-originalUrl: "https://www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5"
-webUrl: "https://www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5"
-ampWebUrl: "https://www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5?amp"
+title: "Trump vs. Cheney: One Republican Comes To Defense Of Embattled Conference Chair"
+excerpt: "The Illinois Representative savaged House Minority Leader Kevin McCarthy, saying he no longer represents the Republican party."
+publishedDateTime: 2021-05-10T21:20:00Z
+originalUrl: "https://www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350"
+webUrl: "https://www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350"
+ampWebUrl: "https://www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350?amp=1"
 type: article
-quality: 103
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/609124fef22c6b00185db6a2?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://dc.newsweek.com/en/full/2034408/betsy-devos.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -359,6 +359,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Republicans are said to be plotting to oust Liz Cheney from House leadership and replace her with a pro-Trump woman"
+    excerpt: "Cheney, the third most senior House Republican, has been a vocal critic of former President Donald Trump."
+    publishedDateTime: 2021-05-04T12:40:00Z
+    webUrl: "https://www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-gop-plotting-replace-liz-cheney-with-pro-trump-woman-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/609124fef22c6b00185db6a2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Hill's Morning Report - Presented by Emergent BioSolutions - Facebook upholds Trump ban; GOP leaders back Stefanik to replace Cheney"
     excerpt: "President Trump Donald Trump Caitlyn Jenner on Hannity touts Trump: 'He was a disruptor' Ivanka Trump doubles down on vaccine push with post celebrating second shot Conservative Club for Growth PAC comes out against Stefanik to replace Cheney MORE checks his phone on a golf course\" width=\"580\" height=\"387\" data-delta=\"2\"> Welcome to The Hill’s Morning Report."
     publishedDateTime: 2021-05-06T10:24:00Z
@@ -439,22 +455,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Trump vs. Cheney: One Republican Comes To Defense Of Embattled Conference Chair"
-    excerpt: "The Illinois Representative savaged House Minority Leader Kevin McCarthy, saying he no longer represents the Republican party."
-    publishedDateTime: 2021-05-10T21:20:00Z
-    webUrl: "https://www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350"
-    ampWebUrl: "https://www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 71
-    images:
-      - url: "https://dc.newsweek.com/en/full/2034408/betsy-devos.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Utah Republicans’ bid to censure Sen. Mitt Romney for Trump impeachment votes fails"
     excerpt: "Mitt Romney but ultimately rejected a motion to censure him Saturday for his votes at President Donald Trump’s impeachment trials. The measure narrowly failed, 798 to 711, in a vote by delegates to the state GOP convention,"
     publishedDateTime: 2021-05-02T03:30:00Z
@@ -524,6 +524,6 @@ related:
       domain: usnews.com
     quality: 44
 
-secured: "zzWlcu5b8jw0z4XSdNrHqsOuUgXiF1gFd0Pp/vOe6WYpoZjxRAttFL3t7bwIG6X2HPaJizTCXNakoRCI3Y1R/hpikv0DW3n/JDlk9o4uxJ3dnrkjj+rh1grvza8avxkZkjkagv3OtrX6MM7cXd1z+fy8vH8EvrzQxLiAzSNkLHIkmL19R+Zv4ia/wE57sk8+6v+g6qZiym8PvGt1+vDFd5qkND4NFYWMCPKJwwx/38DaBfo4o4v2uj0pLbeLWrVPYIL09N5vFZiPWtv6YXolg1Z4T+eluGOhc3oUARigrAFHHruJkh4480Vv+P4se3ES45xOBecL4Kc5MFjDqds6w6/+icLJcEN34Bn0UU3H7blD4RyDHCmKDyHS/cUZ7iiNEhJ86BAUnpKTU+3a4vC/x4ml36uablPoHwObueXQG+3O977ggIL4ptFk8ebWXo0aawumLWUE3D/tuJ1ksxP966muox79O/aDIT+/VjoyBbDnwnVpLW0W7Sr8SokWxIBFMewQu3ut5/5o5898mIDKiQ==;+5TiiTlx+CxgJCN4YnWQTQ=="
+secured: "ERQHz0k2NqMK6zF5JA4b5qfJBzAs0GZynfz+Al38xvk4ya5BLrvHL3lXukxIvmhR/UERAvvBCFxeF2mP2xRTCfvSol3D54/HUede329cqEAoOCb9/gB0Y96ui47YHFfUF+lAXIbm6RpL2cjHw5GO5zVdcRScmU/1pcYi9AAN0YJVOVPJ/Y6XAND9pLlpUWnv+RHUU3TcEtOs+u37M3+MgX4/T2GrFcph2QXRQR9L/ToLpwqZQvGEmQmM4HXmKucXI1uRoFOz6Gx8iA6++LUys/sb1A+bERtRdAPfX0qPLkSkC5IKkSeOgvNRr0iCnMs9Wu1McezexabH3bFQ2JYReXy+AJhB3VBKmD/sH+Ko7Es=;nVBc4odkWlLLpY2GfkGXSA=="
 ---
 

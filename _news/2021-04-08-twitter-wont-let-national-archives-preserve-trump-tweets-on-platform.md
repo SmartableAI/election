@@ -588,6 +588,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden Administration Reverses Trump-Era Rollback of Gay, Transgender Protections in Health Care"
+    excerpt: "The administration cited authority under Title IX of the Civil Rights Act and its interpretation of a Supreme Court ruling last year."
+    publishedDateTime: 2021-05-10T15:35:00Z
+    webUrl: "https://www.wsj.com/articles/biden-administration-reverses-trump-era-rollback-of-gay-transgender-protections-in-health-care-11620664532?mod=hp_lead_pos11"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-administration-reverses-trump-era-rollback-of-gay-transgender-protections-in-health-care-11620664532"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-administration-reverses-trump-era-rollback-of-gay-transgender-protections-in-health-care-11620664532"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 138
+    images:
+      - url: "https://images.wsj.net/im-336312/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Reversing Trump, Pentagon to release new transgender policy"
     excerpt: "After Donald Trump took office, however, his administration delayed the enlistment date and called for additional study. A few weeks later, Trump caught military leaders by surprise, tweeting that the government wouldn’t accept or allow transgender ..."
     publishedDateTime: 2021-03-31T18:41:00Z

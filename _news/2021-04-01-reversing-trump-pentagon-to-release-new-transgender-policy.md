@@ -592,6 +592,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden Administration Reverses Trump-Era Rollback of Gay, Transgender Protections in Health Care"
+    excerpt: "The administration cited authority under Title IX of the Civil Rights Act and its interpretation of a Supreme Court ruling last year."
+    publishedDateTime: 2021-05-10T15:35:00Z
+    webUrl: "https://www.wsj.com/articles/biden-administration-reverses-trump-era-rollback-of-gay-transgender-protections-in-health-care-11620664532?mod=hp_lead_pos11"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-administration-reverses-trump-era-rollback-of-gay-transgender-protections-in-health-care-11620664532"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-administration-reverses-trump-era-rollback-of-gay-transgender-protections-in-health-care-11620664532"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 138
+    images:
+      - url: "https://images.wsj.net/im-336312/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Christie accuses Biden of ‘doing exactly’ what he accused Trump of: ‘Lying to cause racial divisions'"
     excerpt: "He is doing exactly what he sat around in the campaign and the transition and accused Donald Trump of doing. He is lying to cause racial divisions in this country. That’s what he accused Donald Trump of doing, and he’s a liar and a hypocrite this morning.\""
     publishedDateTime: 2021-04-05T13:08:00Z
