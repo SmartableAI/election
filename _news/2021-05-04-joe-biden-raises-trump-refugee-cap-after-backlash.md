@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 2570
+heat: 2590
 published: true
 
 provider:
@@ -1671,6 +1671,22 @@ related:
     webUrl: "https://www.chron.com/politics/article/how-tall-is-joe-biden-jimmy-carter-16153265.php"
     ampWebUrl: "https://www.chron.com/politics/amp/how-tall-is-joe-biden-jimmy-carter-16153265.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/how-tall-is-joe-biden-jimmy-carter-16153265.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Governor cancels fundraiser being co-hosted by Trump backer"
+    excerpt: "McKee had been scheduled to attend a May 12 event co-hosted by Gerald Zarrella, a Republican who was co-chair of Trump’s Rhode Island re-election campaign. But when the Democrat learned who was behind the fundraiser,"
+    publishedDateTime: 2021-05-09T18:28:00Z
+    webUrl: "https://www.chron.com/news/article/Governor-cancels-fundraiser-being-co-hosted-by-16163748.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Governor-cancels-fundraiser-being-co-hosted-by-16163748.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Governor-cancels-fundraiser-being-co-hosted-by-16163748.php"
     type: article
     provider:
       name: Houston Chronicle

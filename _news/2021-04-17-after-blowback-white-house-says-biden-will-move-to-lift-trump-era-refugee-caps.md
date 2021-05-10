@@ -1686,6 +1686,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Governor cancels fundraiser being co-hosted by Trump backer"
+    excerpt: "McKee had been scheduled to attend a May 12 event co-hosted by Gerald Zarrella, a Republican who was co-chair of Trump’s Rhode Island re-election campaign. But when the Democrat learned who was behind the fundraiser,"
+    publishedDateTime: 2021-05-09T18:28:00Z
+    webUrl: "https://www.chron.com/news/article/Governor-cancels-fundraiser-being-co-hosted-by-16163748.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Governor-cancels-fundraiser-being-co-hosted-by-16163748.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Governor-cancels-fundraiser-being-co-hosted-by-16163748.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "More perilous phase ahead for President Joe Biden after his 1st 100 days"
     excerpt: "The president is racing against the calendar, governing with the most slender of majorities on Capitol Hill while knowing that historically the party that holds the White House loses seats in midterm elections,"
     publishedDateTime: 2021-05-01T16:07:00Z

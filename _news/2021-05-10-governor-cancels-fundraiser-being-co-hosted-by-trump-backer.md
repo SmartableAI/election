@@ -1,33 +1,29 @@
 ---
 category: news
-title: "AP FACT CHECK: Yes, Trump lost election despite what he says"
-excerpt: "Seeking to shame Republicans who are disloyal to him, former President Donald Trump distorted the Constitution’s meaning in asserting widespread voter fraud and insisting that state legislatures could overturn Joe Biden’s presidential win."
-publishedDateTime: 2021-05-07T01:46:00Z
-originalUrl: "https://www.washingtonpost.com/politics/ap-fact-check-yes-trump-lost-election-despite-what-he-says/2021/05/06/90103c14-aeb4-11eb-82c1-896aca955bb9_story.html"
-webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-yes-trump-lost-election-despite-what-he-says/2021/05/06/90103c14-aeb4-11eb-82c1-896aca955bb9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-yes-trump-lost-election-despite-what-he-says/2021/05/06/90103c14-aeb4-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-yes-trump-lost-election-despite-what-he-says/2021/05/06/90103c14-aeb4-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+title: "Governor cancels fundraiser being co-hosted by Trump backer"
+excerpt: "McKee had been scheduled to attend a May 12 event co-hosted by Gerald Zarrella, a Republican who was co-chair of Trump’s Rhode Island re-election campaign. But when the Democrat learned who was behind the fundraiser,"
+publishedDateTime: 2021-05-09T18:28:00Z
+originalUrl: "https://www.chron.com/news/article/Governor-cancels-fundraiser-being-co-hosted-by-16163748.php"
+webUrl: "https://www.chron.com/news/article/Governor-cancels-fundraiser-being-co-hosted-by-16163748.php"
+ampWebUrl: "https://www.chron.com/news/amp/Governor-cancels-fundraiser-being-co-hosted-by-16163748.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Governor-cancels-fundraiser-being-co-hosted-by-16163748.php"
 type: article
-quality: 140
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q7ZYANVOWQI6XAWBRFVMVFK3XE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -188,6 +184,22 @@ related:
     quality: 140
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LHYYORFMJII6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "AP FACT CHECK: Yes, Trump lost election despite what he says"
+    excerpt: "Seeking to shame Republicans who are disloyal to him, former President Donald Trump distorted the Constitution’s meaning in asserting widespread voter fraud and insisting that state legislatures could overturn Joe Biden’s presidential win."
+    publishedDateTime: 2021-05-07T01:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-yes-trump-lost-election-despite-what-he-says/2021/05/06/90103c14-aeb4-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-yes-trump-lost-election-despite-what-he-says/2021/05/06/90103c14-aeb4-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-yes-trump-lost-election-despite-what-he-says/2021/05/06/90103c14-aeb4-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q7ZYANVOWQI6XAWBRFVMVFK3XE.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -1680,22 +1692,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Governor cancels fundraiser being co-hosted by Trump backer"
-    excerpt: "McKee had been scheduled to attend a May 12 event co-hosted by Gerald Zarrella, a Republican who was co-chair of Trump’s Rhode Island re-election campaign. But when the Democrat learned who was behind the fundraiser,"
-    publishedDateTime: 2021-05-09T18:28:00Z
-    webUrl: "https://www.chron.com/news/article/Governor-cancels-fundraiser-being-co-hosted-by-16163748.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Governor-cancels-fundraiser-being-co-hosted-by-16163748.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Governor-cancels-fundraiser-being-co-hosted-by-16163748.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "More perilous phase ahead for President Joe Biden after his 1st 100 days"
     excerpt: "The president is racing against the calendar, governing with the most slender of majorities on Capitol Hill while knowing that historically the party that holds the White House loses seats in midterm elections,"
     publishedDateTime: 2021-05-01T16:07:00Z
@@ -1869,6 +1865,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "ZmMkSakipGd9iIveE6Vheeiq8RYbUxwiwI3ZA6L2JsOe/tFtRsZEHUhOKlj3Bt5OSkkUGk1GWxUyY1p1uMq4OFk+3akSGzNWDJjWTMcym9Cf06qREs4/d6YEdRb6F7BfgZSVboqJrvhHLmfkJqiLq51cml1EATkRAWOEUAP98//Ox8jqlvQAnf8aJclHjbKcohdaIZ1yCyVJ5R4iB5dAQQuk0wuTgbidqkQkLHARdMYqxY0Rminh0J3Hd7dh2B4i2XVxjGt5KDq/CG0E6Y3qnp4rtS4gHD2OgC/ipWhZdYwnL6edt9q8H1anrPN5fj4OnLG3sBZn4Pdq851IMYRUjP1omv/btg6Y6gsA2pquWKQ=;cLcuBisj5iilyiYiOjtQ7w=="
+secured: "kcU3dzTA7BhiE5JohUwekldO3PJ3vzLVl3/MA3y2ZD8f3SinzvtsZXHTmhapyYaWx70A6Ll75JNPZ9+Rwe1KIkhsD/7iyczL5/XyxPMJM84Rs+tsGTRLzzo/u/gATMcSX7CMH27MCzrGdZ7P6ZoEw+f9V8rUNxg4Y+TJpC+9v48wjSKyCCresI9B0tG7coa3ruF+pbiixIzTlKSJd7j4GQmb3WyHqO1Dx7lBTxbI6LxuCDBsAypLtL7DYy3SqHkaUFS2/ih1H1RaoeGbjsdTj2UC95qf1AWyzPW7Q2kFe1HlSgJLvK3ppmNrRc4BhNispSKH+UuD9my+gx6TuMrKsLZ3uKI1zIZus6OFosfLTCw=;jKlN4gOUONCtzhutpXygNw=="
 ---
 
