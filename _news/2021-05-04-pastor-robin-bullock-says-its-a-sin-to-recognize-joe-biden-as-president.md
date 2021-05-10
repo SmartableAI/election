@@ -1119,6 +1119,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Joe Biden’s best bet is to close the federal tax gap"
+    excerpt: "To ‘build back better’, the president should strengthen the IRS and make sure high earners pay their fair share"
+    publishedDateTime: 2021-05-10T15:40:00Z
+    webUrl: "https://www.ft.com/content/81aba63a-3b19-4fb5-875d-e6c157efa23a"
+    ampWebUrl: "https://amp.ft.com/content/81aba63a-3b19-4fb5-875d-e6c157efa23a"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/81aba63a-3b19-4fb5-875d-e6c157efa23a"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffbe4290c-9e36-4121-b0cb-66c8fb5cebd3.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Joe Biden Jimmy Carter Photo Leaves People Confused About How Tall They Are"
     excerpt: "The Carter Center shared the photo on Twitter and said: \"We're pleased to share this wonderful photo from the @POTUS and @FLOTUS visit to see the Carters in Plains, Ga.! Thank you President and Mrs. Biden!"
     publishedDateTime: 2021-05-04T13:06:00Z

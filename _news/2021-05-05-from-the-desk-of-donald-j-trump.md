@@ -1107,6 +1107,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Joe Biden’s best bet is to close the federal tax gap"
+    excerpt: "To ‘build back better’, the president should strengthen the IRS and make sure high earners pay their fair share"
+    publishedDateTime: 2021-05-10T15:40:00Z
+    webUrl: "https://www.ft.com/content/81aba63a-3b19-4fb5-875d-e6c157efa23a"
+    ampWebUrl: "https://amp.ft.com/content/81aba63a-3b19-4fb5-875d-e6c157efa23a"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/81aba63a-3b19-4fb5-875d-e6c157efa23a"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffbe4290c-9e36-4121-b0cb-66c8fb5cebd3.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Pastor Robin Bullock Says It's a Sin to Recognize Joe Biden as President"
     excerpt: "\"You can pray for the office of the president. But you cannot pray for President Joe Biden,\" Bullock said. \"Because you might as well pray for the Easter Bunny, because he don't exist.\""
     publishedDateTime: 2021-05-03T23:31:00Z

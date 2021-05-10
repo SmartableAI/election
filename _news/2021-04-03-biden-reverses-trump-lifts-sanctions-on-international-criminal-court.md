@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-reverses-trump-era-policies-l
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp"
 type: article
 quality: 190
-heat: 1390
+heat: 1410
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a70ea2ed-ad0d-4165-8d02-83e4d493ca4f/3be61b07-b2e2-48c8-b609-6bd57a9d554b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden HHS reverses Trump-era policy limiting transgender health rights"
+    excerpt: "The Department of Health and Human Services on Monday announced that it will protect against discrimination on the basis of sexual orientation and gender identity in health care, reversing a Trump-era policy."
+    publishedDateTime: 2021-05-10T14:09:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kq3ydvevxBI/biden-hhs-reverses-trump-era-policy-transgender-health-rights"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-reverses-trump-era-policy-transgender-health-rights.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-reverses-trump-era-policy-transgender-health-rights.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Former Trump official Hogan Gidley to launch election integrity nonprofit"
     excerpt: "EXCLUSIVE: Former Trump campaign national press secretary and former White House principal deputy press secretary Hogan Gidley is launching a nonprofit to advocate for the passage of \"constitutional election integrity laws\" in all states across the nation ahead of the 2022 midterms and beyond, Fox News"

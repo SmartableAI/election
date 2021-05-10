@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to host two crucial Democratic senators Monday to talk infrastructure at start of critical week"
+    excerpt: "President Joe Biden on Monday will host two critical Democratic senators for individual meetings at the White House as he enters a crucial week for his legislative agenda.\n    \n"
+    publishedDateTime: 2021-05-10T15:14:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jOJxX1QDhNo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/biden-manchin-carper/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/biden-manchin-carper/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429114426-01-joe-manchin-biden-joint-session-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New details on Giuliani’s attempt to push Ukraine to investigate Biden"
     excerpt: "NBC News' Andrea Mitchell speaks to Igor Novikov, former adviser to Ukraine President Zelensky, about what he says he heard as Rudy Giuliani attempted to press for an investigation into Joe Biden."
     publishedDateTime: 2021-05-05T23:18:00Z
