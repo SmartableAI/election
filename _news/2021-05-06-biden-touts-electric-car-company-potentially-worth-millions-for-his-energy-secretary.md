@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/granholm-proterra-electr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/granholm-proterra-electric-car/index.html"
 type: article
 quality: 168
-heat: 188
+heat: 208
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden wants trillions for infrastructure, but a big hurdle will remain: Spending the cash"
+    excerpt: "Progressives are optimistic that the administration learned from the struggles of the 2009 stimulus and will be able to move faster."
+    publishedDateTime: 2021-05-08T17:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-wants-trillions-infrastructure-big-hurdle-will-remain-spending-cash-n1265409"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1265409"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265409"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_17/3467978/210426-infrastructure-road-repair-se-304p_998ef81354957cc06ebe3b45b264dc73.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Will Biden go to bat for Dems in the midterms?"
     excerpt: "It’s no secret that for years, Dems have had skirmishes over ideology, race, age and gender — and the differences between who makes up the party’s base and who ends up getting nominated for office. As the 2022 primaries take shape,"
     publishedDateTime: 2021-05-09T15:38:00Z

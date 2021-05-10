@@ -756,20 +756,6 @@ related:
         width: 852
         height: 480
         isCached: true
-  - title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
-    excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."
-    publishedDateTime: 2021-05-04T15:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/09628999484734dfb11d5be67f224a17/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 52
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/09628999484734dfb11d5be67f224a17/Biden-Harris.jpg"
-        width: 650
-        height: 431
-        isCached: true
   - title: "Kamala Harris, Blackpink, Simu Liu Among Gold House's 100 Most Impactful Asians"
     excerpt: "A number of politicians, entertainers and athletes were honored in Gold House's new list of the 100 Most Impactful Asians of the Year."
     publishedDateTime: 2021-05-04T10:10:00Z
@@ -820,6 +806,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
+    excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."
+    publishedDateTime: 2021-05-04T15:13:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 32
   - title: "After talking with small business leaders in Providence, Vice President Kamala Harris promises: ‘I will keep coming back to Rhode Island’"
     excerpt: "On a trip to promote President Biden’s economic plans, the vice president visited Books on the Square before holding two events with small businesses owners and discussing dates for an upcoming trip to Mexico and Guatemala."
     publishedDateTime: 2021-05-05T21:50:00Z

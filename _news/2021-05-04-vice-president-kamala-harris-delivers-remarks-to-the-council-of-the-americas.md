@@ -3,10 +3,10 @@ category: news
 title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
 excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."
 publishedDateTime: 2021-05-04T15:13:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/09628999484734dfb11d5be67f224a17/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/09628999484734dfb11d5be67f224a17/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/9e8e08f5bc5b60f1ce4a57eb350a8e3a/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
 type: article
-quality: 52
+quality: 32
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://cdnph.upi.com/pv/upi/09628999484734dfb11d5be67f224a17/Biden-Harris.jpg"
-    width: 650
-    height: 431
-    isCached: true
 
 related:
   - title: "Kamala Harris to give Naval Academy commissioning address"
@@ -833,6 +827,6 @@ related:
       domain: bostonglobe.com
     quality: 22
 
-secured: "30zmpGvYqhr2hRoFRkRN0opoSLCvbgNsKUPa4ORHxM7Qw1x2c882xXsZs9kDJyLdJOLgF+gOvuC7Z7r6LDEY07OB22bjtBro3LXsvw6T4mWdNOQlRQhb6kgNjSwu8cZJNGTx3VwwAVgq3nrdj3AzoOmFI9vV3x17LwsWvXlcUFBU0shwPMofcnlu9z7dWxoeCDc18H3lm1quSys2lnvvUQQEwZ/f6r/aEWp7+4zHy/rihboFPB3CMm7TSPdk10fpiYhGWoVpIke59pkgygubakwjeI2Fg1IHKGjS5lnR+F8q1yt5B9dSrXzLGPs5Uvj7GPwHa7kHE5wspuXt415wyZbCF0+/oosQsq2sOidq09/PQwq4LE76w1CbElf8h9NEkknmICBDnWYKFnDl4wtUGKWmA88B/HvJWtsLpMIBsBv6b8bj1rxXBqXWk/GgbkA/Ho8hvZTlLQqz9DWmvanUPoLuJDlZwxFtBIHn1G0ZHr2N90dXDPHT246RA4oOmXL93L9xU1gvzR7RCy0e5We+9Q==;iBxmEUnmjDKMVQxF5Unk3A=="
+secured: "aj89pR4MFkBkWP1t8jP/aj2iQgBsovyrzWeiccVn/SqApu1FKcxGs5tLdCZSxLNQm3df04VoWFKEyIzF5r7fKkwPho5C4HVWtqtVNrnlzQnbdYE85TBMq9uJEv3Fx8SkZwkvTFL0gGsMHlxWW+LogO3Ej/glI1Mik6ihcdiq/Uqc+9V6gbkXLJoaZf2bUvnZdwThGmN8WQRY1q4EsSTgMRVnX8JATE6sO2RgEltObZ/RzFcBSjrMbAUKuYwy/o6++H+1+YcKybCuc10fLJ98EPbqwk9bOdcjibhGUOb3QkD7k4s3kR3ExuZL6+P4QkBdhLz6acs3TT7rXf9UrLC5WH0LuJ/W6xbqiaCwlabBL9rwIQuim7U9Jc8T25TtaAG1Y5H/kIkPOANCUfwBwAID4bk8t2eitePMcpkgZi2B1Jpqvqbpa7VUF4n2qNI718GIKv9GQOz2BrY+/ZqHhBwUGQxQ2LtTkDDU3SGXKTx+59fvCcablsO/bhQHY4bw+jAYopOvR4YFNHCwj58wdjtPfQ==;wzTzc3VBbqWNeTVIeWQzPw=="
 ---
 
