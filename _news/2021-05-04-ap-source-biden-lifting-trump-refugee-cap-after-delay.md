@@ -415,6 +415,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden administration restores transgender health protections, reversing Trump policy"
+    excerpt: "The move reverses a Trump-era policy​ that sought to narrow the scope of legal rights in sensitive situations involving medical care."
+    publishedDateTime: 2021-05-10T17:20:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-restores-transgender-health-protections/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-restores-transgender-health-protections/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-restores-transgender-health-protections/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 133
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/10/01342bd7-4387-460d-acc1-a9d4cded49d6/thumbnail/1200x630g3/e26829fa7786553ce7bd9a6f160fc09b/ap17162636435092.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden set to accept fewest refugees of any modern president, including Trump, report says"
     excerpt: "Since his days on the campaign trail, President Biden has tried to cast himself as diametrically opposed to former president Donald Trump when it comes to welcoming refugees into the United States. Within two weeks of taking office, Biden signed an ..."
     publishedDateTime: 2021-04-11T22:16:00Z

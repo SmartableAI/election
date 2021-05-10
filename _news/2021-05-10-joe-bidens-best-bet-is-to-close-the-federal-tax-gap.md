@@ -431,6 +431,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden administration restores transgender health protections, reversing Trump policy"
+    excerpt: "The move reverses a Trump-era policy​ that sought to narrow the scope of legal rights in sensitive situations involving medical care."
+    publishedDateTime: 2021-05-10T17:20:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-restores-transgender-health-protections/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-restores-transgender-health-protections/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-restores-transgender-health-protections/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 133
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/10/01342bd7-4387-460d-acc1-a9d4cded49d6/thumbnail/1200x630g3/e26829fa7786553ce7bd9a6f160fc09b/ap17162636435092.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden set to accept fewest refugees of any modern president, including Trump, report says"
     excerpt: "Since his days on the campaign trail, President Biden has tried to cast himself as diametrically opposed to former president Donald Trump when it comes to welcoming refugees into the United States. Within two weeks of taking office, Biden signed an ..."
     publishedDateTime: 2021-04-11T22:16:00Z
@@ -1933,6 +1949,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "PakpV0kE5XB/ig1FkR2VdNAgoY4iXeDT0xm4bXKNJiXKg2dnhAQJgIFSUTynRXf0R3E6+z0hhA3THrWS9FzEC8fwwMG0Nu/4OAf0Fjq8jLVLeQSYoRzLeoVQYkYhXY+pSC3XP9MHKauxYV5Y7U0jViv2rQ3bs8KUnEoFLCkxw/bPyh7kPwMCK/z+3w38daYYsEmzZg4yXWaipXxDser/8ScIXEB8eOeKwdnsdwDqOkVrnPHP4OKuxSEIcQw1VtPPAezBJsP12Sj9hEAB/H2WdF4sU0dmYaMM2Ywt6RPm/hzpqQ4WpTwb5rX75Zzkx1o+oIU13AMx5ZmMxTwEI7ImUzH58B0AwGcsSc96hsL0rpk=;M+dp5XNPwzPneyXxEJGigg=="
+secured: "npKRPAudLSomW1DsYXb51yfOQXaJN5h+1wwp59OEuGYev9wpO1GBQ79t0C8FosWqDIz62XxMVqJMad7y33tS3oVZ+QT8UO0M1ZUNL+NUCrTx2pESw1ue32vzbKWXjEE6krc95kDuGjWLLh4voh8IAs9P8OlL2YyXkhd3wYzfrSVfFkx7KB7qkYigt6LOxzMVE6vfJOyRd9S/akhl8n186v0S+tyyqxcwMNQgXgTwKGqueewXuJjyFUOK//CGsoI8rn8MkTSQXZnS40sKZfKBv8DcBvGnI2xjko43pT4SFqF40/kFAmkCwIXstn1JdJnnXQ8MizOHK7VCW5aQOlh5PuYE/CvAv4bTNilxX/zdOQ80/Gm3PmRnbTaK1GyCfjqDgKrwYwPLI7UNsHs5Cztp2nm5CHPzdjj5pWGEl3O+vvQe3RIaK13nMBfysitUl3E/JguK0FS6WmspXTFVMVoYuI3PoCqDcRUSPhkbELIPw1aANhQgfU7XpicY2rWMmxnlUIdnVkerW2CdD9479kim/Q==;NjloyP++BvTI/GWozeNjHA=="
 ---
 

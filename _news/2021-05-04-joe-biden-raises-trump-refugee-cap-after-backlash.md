@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 2670
+heat: 2690
 published: true
 
 provider:
@@ -406,6 +406,22 @@ related:
     webUrl: "https://www.cbsnews.com/news/transgender-health-protections-biden-administration/"
     ampWebUrl: "https://www.cbsnews.com/amp/news/transgender-health-protections-biden-administration/"
     cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/transgender-health-protections-biden-administration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 133
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/10/01342bd7-4387-460d-acc1-a9d4cded49d6/thumbnail/1200x630g3/e26829fa7786553ce7bd9a6f160fc09b/ap17162636435092.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden administration restores transgender health protections, reversing Trump policy"
+    excerpt: "The move reverses a Trump-era policy​ that sought to narrow the scope of legal rights in sensitive situations involving medical care."
+    publishedDateTime: 2021-05-10T17:20:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-restores-transgender-health-protections/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-restores-transgender-health-protections/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-restores-transgender-health-protections/"
     type: article
     provider:
       name: CBS News

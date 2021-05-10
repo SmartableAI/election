@@ -139,6 +139,17 @@ related:
         width: 1024
         height: 695
         isCached: true
+  - title: "Look who’s moving in. Eric and Lara Trump are the latest to call South Florida home"
+    excerpt: "Property records show the Trump Organization exec and his wife Lara paid $3.2 million for a five bedroom, seven-bathroom spread at the Trump National Golf Club gated community. Donald Trump bought the South Florida club from The Ritz-Carlton Co."
+    publishedDateTime: 2021-05-10T16:00:00Z
+    webUrl: "https://www.miamiherald.com/entertainment/celebrities/article251286709.html"
+    ampWebUrl: "https://amp.miamiherald.com/entertainment/celebrities/article251286709.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/entertainment/celebrities/article251286709.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 49
   - title: "Donald Trump’s Facebook suspension upheld by Oversight Board; group calls on social media giant to conduct six-month review of case, policies"
     excerpt: "Former president Donald Trump will remain suspended from posting on Facebook, the world’s most popular social media platform, according to an independent Oversight Board. But the board, a diverse group of international experts in law,"
     publishedDateTime: 2021-05-05T13:14:00Z

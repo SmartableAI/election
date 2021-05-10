@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CN1ME"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CN1ME"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Watch live: Joe Biden delivers remarks on the economy"
+    excerpt: "Biden's latest remarks come days after he argued that an underwhelming jobs report underscores the need to quickly pass his economic overhaul proposals."
+    publishedDateTime: 2021-05-10T15:01:00Z
+    webUrl: "https://www.cnbc.com/2021/05/10/watch-live-joe-biden-delivers-remarks-on-the-economy.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/05/10/watch-live-joe-biden-delivers-remarks-on-the-economy.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/10/watch-live-joe-biden-delivers-remarks-on-the-economy.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 125
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106879919-1620404041665-106879919-16204035502021-05-07t160147z_2078930979_rc24bn9h8enw_rtrmadp_0_usa-biden-economy.jpg?v=1620660250"
+        width: 3500
+        height: 2333
+        isCached: true
   - title: "Biden expected to speak on shift in US vaccine distribution strategy – live"
     excerpt: "White House reportedly to deliver unused doses to other states as part of ‘use it or lose it’ strategy – follow all the day’s politics news"
     publishedDateTime: 2021-05-04T15:19:00Z

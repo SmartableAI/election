@@ -160,22 +160,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Homeland Security reverses Trump-era DNA collection plan for immigration vetting "
-    excerpt: "The Department of Homeland Security on Friday withdrew Trump-era plans to vastly expand the collection of biometric data, including DNA samples, which would have been used for immigration purposes such as verifying family relationships.\n    \n"
-    publishedDateTime: 2021-05-07T16:14:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mK-YpOL22Oo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/immigration-dna-trump-biometrics-collection/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/immigration-dna-trump-biometrics-collection/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193425-01-dhs-logo-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "The Point: A GOP candidate ran on an anti-Trump platform. He won just 3% of the vote."
     excerpt: "Michael Wood's candidacy in this weekend's special election for Texas' 6th district was regarded as a potential canary in a coal mine.\n    \n"
     publishedDateTime: 2021-05-03T13:55:02Z
@@ -205,22 +189,6 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504074428-michael-wood-new-day-0504-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Elise Stefanik's rapid rise as Trump supporter highlights the Trump takeover of the GOP"
-    excerpt: "GOP Rep. Elise Stefanik now appears poised to become the next House Republican conference chairwoman as the party unites against Rep. Liz Cheney for calling out former President Donald Trump's Big Lie that the 2020 election was stolen.\n    \n"
-    publishedDateTime: 2021-05-05T21:27:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XPSV64d9vuk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/elise-stefanik-trump-supporter-history/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/elise-stefanik-trump-supporter-history/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505140659-05-rep-elise-stefanik-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -288,22 +256,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Conan O’Brien Says No More Trump Jokes for Final Two Months on TBS"
-    excerpt: "O’Brien said the last episodes of “Conan” will feature special guests and clips of his favorite moments on the show before he moves to HBO Max."
-    publishedDateTime: 2021-05-04T05:46:00Z
-    webUrl: "https://www.nytimes.com/2021/05/04/arts/television/conan-obrien-to-leave-tbs.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/04/arts/television/conan-obrien-to-leave-tbs.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/04/arts/television/conan-obrien-to-leave-tbs.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/04/arts/04latenight/04latenight-facebookJumbo.png"
-        width: 910
-        height: 477
-        isCached: true
   - title: "Trump and legal team approached about Giuliani legal costs"
     excerpt: "Allies of Rudy Giuliani continue to call on former President Donald Trump and Republicans to pay for his efforts around the election and, in turn, subsidize the mounting legal bills facing the former New York City mayor."
     publishedDateTime: 2021-05-05T23:10:00Z
@@ -319,22 +271,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "How Trump is hunting down the GOP’s leading families"
-    excerpt: "In his attempt to exercise full dominion over the Republican Party, Donald Trump has reserved a special fury for the dynasties that helped shape it."
-    publishedDateTime: 2021-05-07T19:07:00Z
-    webUrl: "https://www.politico.com/news/2021/05/07/trump-cheney-gop-families-485528"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/05/07/trump-cheney-gop-families-485528"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/07/trump-cheney-gop-families-485528"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/e2/40/e3ea59a84ddeb87d74518fd812f2/trump-gop-establishment.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Court Could Consider Whether Trump Interfered in Cloud Computing Contract"
     excerpt: "The decision could be a win for Amazon, which said it was passed over for the $10 billion Pentagon contract because of his animosity toward its founder, Jeff Bezos."
@@ -411,20 +347,6 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/7c/b1/a782d7494b8980672da54063c872/mag.Kruse.Trump100Days-lede_773override.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump attorney, other allies launch voter fraud organization"
-    excerpt: "The Election Integrity Alliance's board includes former Trump campaign lawyer Jenna Ellis and other notable supporters."
-    publishedDateTime: 2021-05-05T08:35:00Z
-    webUrl: "https://www.politico.com/news/2021/05/05/trump-election-integrity-organization-485399"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/a4/08/1329ed1641b6a7162ea146df6ea7/ap20324801945195-1.jpg"
         width: 1160
         height: 773
         isCached: true

@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration says it will enforce federal transgender health care protections, undoing controversial Trump-era reversal"
+    excerpt: "The Biden administration will work to protect transgender Americans from discrimination in health care, undoing a controversial Trump-era decision to nix federal protections for members of the community, the Department of Health and Human Services announced Monday.\n    \n"
+    publishedDateTime: 2021-05-10T16:25:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o5a7dkjF9rQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/hhs-transgender-healthcare-protections-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/hhs-transgender-healthcare-protections-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416115012-transgender-visibility-op-ed-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration to reunite four migrant families separated under Trump"
     excerpt: "The Biden family reunification task force estimates that more than 1,000 migrant families separated during the Trump administration still need to be reunited."
     publishedDateTime: 2021-05-03T12:09:00Z

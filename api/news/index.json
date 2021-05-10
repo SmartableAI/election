@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-10-new-biden-doj-staffer-deleted-over-39k-tweets-including-russia-collusion-accusations.md",
+      "title": "New Biden DOJ staffer deleted over 39K tweets, including Russia collusion accusations",
+      "excerpt": "Author and National Security Administration alum Susan Hennessey announced on Monday that she would be joining Biden’s DOJ as part of the agency’s National Security Division.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W9Axlg4Aiww/biden-doj-susan-hennessey-deleted-tweets-russia-collusion",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W9Axlg4Aiww/biden-doj-susan-hennessey-deleted-tweets-russia-collusion",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd4368f8-cd7f-41ec-9588-3cf5860dbeb7/556aa109-f016-4f1c-873b-d74d824082e7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-doj-susan-hennessey-deleted-tweets-russia-collusion.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-susan-hennessey-deleted-tweets-russia-collusion.amp",
+      "publishedDateTime": "2021-05-10T10:46:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-hogan-criticizes-gop-as-a-circular-firing-squad-that-had-worst-four-years-under-trump.md",
       "title": "Hogan criticizes GOP as a 'circular firing squad' that had 'worst four years' under Trump",
       "excerpt": "Republican Maryland Gov. Larry Hogan on Sunday lambasted the GOP as a \"circular firing squad\" attacking each other and said the party experienced \"the worst four years\" under former President Donald Trump.\n    \n",
@@ -31,6 +87,62 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/10/politics/larry-hogan-gop-firing-squad/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/larry-hogan-gop-firing-squad/index.html",
       "publishedDateTime": "2021-05-10T08:12:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-i-saw-it-on-tv-why-trump-supporter-says-she-believes-election-lie.md",
+      "title": "'I saw it on TV!': Why Trump supporter says she believes election lie",
+      "excerpt": "A couple attending an event hosted by Rep. Matt Gaetz (R-FL) and Rep. Marjorie Taylor Greene (R-GA) tell CNN's Donie O'Sullivan why they still believe debunked conspiracy theories cited as evidence that the 2020 presidential election was \"stolen\" from former President Donald Trump.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iyRhQrB_ZpY/trump-voter-gaetz-rally-election-conspiracy-big-lie-o-sullivan-lkl-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iyRhQrB_ZpY/trump-voter-gaetz-rally-election-conspiracy-big-lie-o-sullivan-lkl-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 350,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210510110049-donie-osullivan-gaetz-event-trump-voter-01-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/media/2021/05/10/trump-voter-gaetz-rally-election-conspiracy-big-lie-o-sullivan-lkl-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2021/05/10/trump-voter-gaetz-rally-election-conspiracy-big-lie-o-sullivan-lkl-vpx.cnn",
+      "publishedDateTime": "2021-05-10T08:11:32-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -686,62 +798,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-09-biden-admin-faces-lack-of-icebreakers-increasing-russian-and-chinese-threats-in-arctic.md",
-      "title": "Biden admin faces lack of icebreakers, increasing Russian and Chinese threats in Arctic",
-      "excerpt": "One of the least talked-about challenges for the new administration is one that's been brewing for years, long before Donald Trump's presidency: growing challenges to the United States' ability to assert its will in the Arctic. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gDcW-M7RqbE/biden-administration-arctic-challenges-russia-china-threats",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gDcW-M7RqbE/biden-administration-arctic-challenges-russia-china-threats",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-arctic-challenges-russia-china-threats.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-arctic-challenges-russia-china-threats.amp",
-      "publishedDateTime": "2021-05-09T06:30:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-09-pence-trips-spark-further-2024-white-house-race-speculation.md",
       "title": "Pence trips spark further 2024 White House race speculation",
       "excerpt": "In a move that will spark further 2024 speculation, former Vice President Mike Pence will headline a major Republican Party dinner and fundraising event in early June in New Hampshire, the state that for a century has held the first primary in the race for the White House.",
@@ -1191,7 +1247,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 155,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1289,63 +1345,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-bill-maher-desantis-could-run-in-2024-without-trumps-blessing-but-its-a-risky-move.md",
-      "title": "Bill Maher: DeSantis could run in 2024 without Trump's 'blessing' -- but it's a risky move",
-      "excerpt": "\"Real Time\" host Bill Maher wondered if Republican Florida Gov. Ron DeSantis will run for president in 2024 -- regardless of whether he receives former President Trump's \"blessing.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/bill-maher-desantis-could-run-in-2024-without-trumps-blessing-but-its-a-risky-move",
-      "originalUrl": "https://www.foxnews.com/entertainment/bill-maher-desantis-could-run-in-2024-without-trumps-blessing-but-its-a-risky-move",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/98932544-4f11-48aa-8a87-290a38753cce/286df5b5-d7b3-4c91-96e0-76a93ae32307/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/bill-maher-desantis-could-run-in-2024-without-trumps-blessing-but-its-a-risky-move.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/bill-maher-desantis-could-run-in-2024-without-trumps-blessing-but-its-a-risky-move.amp",
-      "publishedDateTime": "2021-05-07T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

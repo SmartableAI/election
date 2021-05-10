@@ -206,6 +206,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration says it will enforce federal transgender health care protections, undoing controversial Trump-era reversal"
+    excerpt: "The Biden administration will work to protect transgender Americans from discrimination in health care, undoing a controversial Trump-era decision to nix federal protections for members of the community, the Department of Health and Human Services announced Monday.\n    \n"
+    publishedDateTime: 2021-05-10T16:25:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o5a7dkjF9rQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/hhs-transgender-healthcare-protections-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/hhs-transgender-healthcare-protections-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416115012-transgender-visibility-op-ed-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House expands behind-the-scenes lobbying as Biden makes public push for $4 trillion proposals"
     excerpt: "President Joe Biden's major public -- and prime time -- push this week for his sweeping $4 trillion economic agenda was only one piece of the White House push to lay the groundwork to move his agenda.\n    \n"
     publishedDateTime: 2021-05-01T01:23:57Z

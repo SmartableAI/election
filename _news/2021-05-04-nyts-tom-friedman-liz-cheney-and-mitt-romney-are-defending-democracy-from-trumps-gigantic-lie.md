@@ -138,6 +138,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump ramps up calls for Rep. Stefanik to replace Liz Cheney in leadership"
+    excerpt: "Former President Donald Trump is ramping up his calls for the House GOP conference to rally behind Rep. Elise Stefanik to replace Liz Cheney as House Republican Conference Chair."
+    publishedDateTime: 2021-05-10T16:22:00Z
+    webUrl: "https://nypost.com/2021/05/10/trump-ramps-up-calls-for-elise-stefanik-to-replace-liz-cheney/"
+    ampWebUrl: "https://nypost.com/2021/05/10/trump-ramps-up-calls-for-elise-stefanik-to-replace-liz-cheney/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/10/trump-ramps-up-calls-for-elise-stefanik-to-replace-liz-cheney/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/stefanik-cheney.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "RQB1EZclklr0gp8VbLg8dd9v/jfP/eSLI05AZ3I4YPSfQjYD53naSXmee9SaC/oxjh6KR+BcalAohvhgrTnAlB6JATeLeEX2FMGKUQDSzj5LEYdY1ZBczqrvPsReaULGi8hVlqPUsZAGP/vNGYyqyXP1gw6bWG4dC5PXVLVKusT8B6Hz5UlNxiJ7krwuP0Jla7TmQVzv3G2IcVufMa1BWl/Y5zItjYStwHH7tE4xHro3TOAwYGMvJdHUEHvBHzUyHv9xRwbOTMqaHmU+Ama4jbuhD1zNgNU+cOwad/UDwbq8pld4koKmJgRYelmX8Jdp+BueEzpy/rouUMFOSnnsD0OFs0MrqZ1mD9bg/s6dqCH6lqgHn9KO1j4Ax6gAn+S5yRq4V9KpWPFLxb6HDegaDVfendzxydc0o6q3ndvQGl0W0SQYm2261LQ3uPXLgh0/+IeQa1T641kdprUNz+hPrdOqsp4KVdwN/tU/BnhaV1YuZhe+UzUIyngTxkPcuCZnbo2KgU8Fj4noxmckB2r6zQ==;bY/F0F0CP90OfwHKzBJzVg=="
 ---

@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration scrambles to respond to cyberattack on critical pipeline"
+    excerpt: "Biden administration officials worked urgently Monday to ascertain the scope and fallout of a ransomware attack on the Colonial Pipeline, which supplies much of the eastern United States its gasoline -- an incident that laid bare vulnerabilities in the country's aging energy infrastructure.\n    \n"
+    publishedDateTime: 2021-05-10T17:27:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mxgCsj0tK9o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/colonial-pipeline-white-house-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/colonial-pipeline-white-house-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210508093128-file-colonial-pipeline-alabama-2016-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Congress faces make-or-break moment to secure bipartisan deals on key Biden priorities"
     excerpt: "President Joe Biden's bipartisan push faces a crucial moment on Capitol Hill this month where talks over several big-ticket items could lead to major legislative victories hailed by both parties -- or they could collapse and prompt a bitter round of recriminations and open partisan warfare.\n    \n"
     publishedDateTime: 2021-05-10T10:03:41Z

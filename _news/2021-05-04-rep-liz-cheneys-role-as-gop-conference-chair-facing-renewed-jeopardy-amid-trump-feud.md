@@ -127,6 +127,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump ramps up calls for Rep. Stefanik to replace Liz Cheney in leadership"
+    excerpt: "Former President Donald Trump is ramping up his calls for the House GOP conference to rally behind Rep. Elise Stefanik to replace Liz Cheney as House Republican Conference Chair."
+    publishedDateTime: 2021-05-10T16:22:00Z
+    webUrl: "https://nypost.com/2021/05/10/trump-ramps-up-calls-for-elise-stefanik-to-replace-liz-cheney/"
+    ampWebUrl: "https://nypost.com/2021/05/10/trump-ramps-up-calls-for-elise-stefanik-to-replace-liz-cheney/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/10/trump-ramps-up-calls-for-elise-stefanik-to-replace-liz-cheney/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/stefanik-cheney.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "NYT's Tom Friedman: Liz Cheney And Mitt Romney Are Defending Democracy From Trump's \"Gigantic Lie\""
     excerpt: "New York Times columnist Thomas Friedman warned there would be \"people in the streets\" if Republicans who believe President Trump's \"big lie\" about voter fraud in the 2020 election during an appearance Monday with CNN's Anderson Cooper."
     publishedDateTime: 2021-05-04T14:53:00Z

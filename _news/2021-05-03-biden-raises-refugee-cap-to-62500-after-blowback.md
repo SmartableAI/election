@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration scrambles to respond to cyberattack on critical pipeline"
+    excerpt: "Biden administration officials worked urgently Monday to ascertain the scope and fallout of a ransomware attack on the Colonial Pipeline, which supplies much of the eastern United States its gasoline -- an incident that laid bare vulnerabilities in the country's aging energy infrastructure.\n    \n"
+    publishedDateTime: 2021-05-10T17:27:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mxgCsj0tK9o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/colonial-pipeline-white-house-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/colonial-pipeline-white-house-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210508093128-file-colonial-pipeline-alabama-2016-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

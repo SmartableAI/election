@@ -47,6 +47,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Watch live: Joe Biden delivers remarks on the economy"
+    excerpt: "Biden's latest remarks come days after he argued that an underwhelming jobs report underscores the need to quickly pass his economic overhaul proposals."
+    publishedDateTime: 2021-05-10T15:01:00Z
+    webUrl: "https://www.cnbc.com/2021/05/10/watch-live-joe-biden-delivers-remarks-on-the-economy.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/05/10/watch-live-joe-biden-delivers-remarks-on-the-economy.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/10/watch-live-joe-biden-delivers-remarks-on-the-economy.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 125
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106879919-1620404041665-106879919-16204035502021-05-07t160147z_2078930979_rc24bn9h8enw_rtrmadp_0_usa-biden-economy.jpg?v=1620660250"
+        width: 3500
+        height: 2333
+        isCached: true
   - title: "National Digest: GOP lawmakers accuse Biden administration of tampering with census numbers"
     excerpt: "A group of Republican lawmakers have accused the Biden administration of tampering with census numbers after data released this week showed lower than expected counts in some red states. Seventeen GOP members of Congress sent a letter Friday to Commerce Secretary Gina Raimondo questioning “the methodology and the role the Biden White House may have played in releasing these numbers,"
     publishedDateTime: 2021-04-30T21:42:00Z
