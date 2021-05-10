@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Liz Cheney's fall shows that Trump is here to stay"
-excerpt: "The unmistakable message of Liz Cheney's downfall is that Donald Trump will be a dominant figure in the Republican Party -- and by extension American life -- most likely for years to come.\n    \n"
-publishedDateTime: 2021-05-06T09:01:45Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8vM3rGmjBOo/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8vM3rGmjBOo/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/liz-cheney-donald-trump-gop/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/liz-cheney-donald-trump-gop/index.html"
+title: "Republicans say Cheney needs to stop talking about the past. But Trump won't."
+excerpt: "Trump has posted more than 20 statements about last fall's election in the past six weeks compared to just one directly criticizing the Biden administration."
+publishedDateTime: 2021-05-09T22:08:00Z
+originalUrl: "https://www.nbcnews.com/politics/donald-trump/republicans-say-cheney-needs-stop-talking-about-past-trump-won-n1266779"
+webUrl: "https://www.nbcnews.com/politics/donald-trump/republicans-say-cheney-needs-stop-talking-about-past-trump-won-n1266779"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266779"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266779"
 type: article
-quality: 175
+quality: 132
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505064319-01-liz-cheney-0203-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media4.s-nbcnews.com/i/newscms/2021_18/3471445/210509-liz-cheney-jm-1029_1c3b0a522b8f83266db4b05def1bdf27.jpg"
+    width: 2500
+    height: 1690
     isCached: true
 
 related:
@@ -60,6 +61,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212145220-102-trump-file-play-button-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Liz Cheney's fall shows that Trump is here to stay"
+    excerpt: "The unmistakable message of Liz Cheney's downfall is that Donald Trump will be a dominant figure in the Republican Party -- and by extension American life -- most likely for years to come.\n    \n"
+    publishedDateTime: 2021-05-06T09:01:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8vM3rGmjBOo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/liz-cheney-donald-trump-gop/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/liz-cheney-donald-trump-gop/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505064319-01-liz-cheney-0203-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,23 +128,7 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Republicans say Cheney needs to stop talking about the past. But Trump won't."
-    excerpt: "Trump has posted more than 20 statements about last fall's election in the past six weeks compared to just one directly criticizing the Biden administration."
-    publishedDateTime: 2021-05-09T22:08:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/republicans-say-cheney-needs-stop-talking-about-past-trump-won-n1266779"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266779"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266779"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_18/3471445/210509-liz-cheney-jm-1029_1c3b0a522b8f83266db4b05def1bdf27.jpg"
-        width: 2500
-        height: 1690
-        isCached: true
 
-secured: "BV+Qf0q0TlULhSMWDHUz4vmD4Px1hWNMLWAQInROeD2wNWVXQR8HibOEaNFMyHJMG2C9+enspopMzD5oo0oVqGZE+F7i1Wdh5t1cwe5h+GN3/GZMHJiRhZWK772Kpf4AsRX1T//s26Fa42P4yJR7pRB4pfDNLPteMf2yOrI03D/ZQdyiwnCocFJAWNqitTNtQI9+zEpxbB5u70xTH+Uwqxq8VN8JTucBmDuriAYAq+w1oNbVtKJwc7OTQUwFnmMB6mR3WR39cTPlIHn3w4gQLcQrjZ/G6EYPuT3txccGzo00roxf3h2FDRshkUH1M9e8WVzW3pYtC4DAQU8PERdfkzSHH5JUZUwVVFhBL1QJvsw=;qarRKFDjeyVImrMNNQDPig=="
+secured: "lYxZrxeZ6Z3RcsisK5sc1ZEZt7TA4DQMfu+FPPWp0YWozLYoLbWFYfqaiE9NBlV0vV5m/Aq/KcL3OX9Q2hd3iNKJWtiSnxDLVBRqedDkhAmJNkZUtv38HAIvNVrlDx18J3wXsxk9nUPijchJE5Lu4uH9EvMmprPSRXwDJgElIfi8TFX9TES3+DEML7dbegWgICNpuKUSWv2YV0kjuEvp86abZiC56Q3vBwzDaUawanQWfF8Npq+ps3bE62NtGGkc/kIXPwFThB/v2CvHbyAR9FFEF5ZCf60300g+MN+eqf2b2AETKBQNqY+dvnTc//KSGwK4ATLwkDkGD7ztC98vu/TY3h7w3/2hlz7PxiAI6Sw=;xP/VdY4Ar8g+/ccqruHx+Q=="
 ---
 

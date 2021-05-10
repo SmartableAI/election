@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-2024/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422101510-the-point-liz-cheney-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Republicans say Cheney needs to stop talking about the past. But Trump won't."
+    excerpt: "Trump has posted more than 20 statements about last fall's election in the past six weeks compared to just one directly criticizing the Biden administration."
+    publishedDateTime: 2021-05-09T22:08:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/republicans-say-cheney-needs-stop-talking-about-past-trump-won-n1266779"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266779"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266779"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_18/3471445/210509-liz-cheney-jm-1029_1c3b0a522b8f83266db4b05def1bdf27.jpg"
+        width: 2500
+        height: 1690
         isCached: true
 
 secured: "5S9hjaaGNWHq/7iEuZ9EVRoRorPBUMrIhKiQh5qr6BI9uQIO+dJcvOA8Km1q6BfkMbMZbJV8jbEMvsGX7Gi/TiU8goii9wj9LVxAp12U+kGjZUIBlncM68/CQ+NkGRppZ4LYXgUQSlgGS0sDtKOT1OJOlNHMjJO3wxFt3txkwjKWtohcaDq24BTzagFL6iYLUdMNYChilE+GQ73DghBoajP4TXPDGtJ4A+EwZIdjC/yDogOPMsykGBMvcE549BWHVdgX+E0+iWrkvsDWsgAljQxM7YHcX1AC0RGXnLjz41MUnBOR98AYG81LPWG7+SyFQWkGg9pmmgAjKptfo0UXGTsqfXRXlwZahj6PWceMNZ0=;uo6aRP+8A2kDePL4SDJc5w=="
