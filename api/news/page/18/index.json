@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-04-08-biden-nominates-interior-deputy-as-departments-top-lawyer.md",
+      "title": "Biden nominates Interior deputy as department's top lawyer",
+      "excerpt": "President Biden Joe Biden Iran espionage-linked ship attacked at sea Biden exceeds expectations on vaccines — so far Jill Biden to visit Alabama with actress Jennifer Garner MORE has nominated ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer",
+      "originalUrl": "https://thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/deptofinterior11172020.jpg",
+          "width": 827,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/546949-biden-nominates-interior-deputy-as-departments-top-lawyer?amp",
+      "publishedDateTime": "2021-04-07T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-msnbc-host-concedes-biden-stance-on-georgia-voting-law-not-consistent-impossible-to-square-his-argument.md",
       "title": "MSNBC host concedes Biden stance on Georgia voting law not consistent: 'Impossible to square his argument'",
       "excerpt": "\"To listen to the president speaking right there, it's impossible to square his argument,\" MSNBC's Willie Geist said \"Morning Joe\" on Wednesday. MLB eventually did move the All-Star Game out of Georgia after Biden compared the state's new voting law to ...",
@@ -1306,58 +1358,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-value-judgment-donald-trump-tumbles-down-billionaires-rankings.md",
-      "title": "Value judgment: Donald Trump tumbles down billionaires’ rankings",
-      "excerpt": "Today, we learn that Donald Trump got richer, too, but was left trailing by his billionaire mates. Poor guy. According to the yearly update of Forbes’ billionaires list, Donald Trump’s standing among other billionaires has plummeted almost 300 places ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/a7bb74a5147066fcabe5dcab29348d277436ea83/0_342_5120_3074/master/5120.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a0ddb6768f8c58f6251933c2d295ea8b",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes",
-      "publishedDateTime": "2021-04-06T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

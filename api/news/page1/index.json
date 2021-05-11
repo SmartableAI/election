@@ -97,6 +97,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-11-qanon-podcast-airs-bishop-larry-gaiters-outrageous-claim-of-bidens-satanic-sacrifice.md",
+      "title": "QAnon Podcast Airs Bishop Larry Gaiters' Outrageous Claim of Biden's 'Satanic Sacrifice'",
+      "excerpt": "Bishop Larry Gaiters, a far-right conservative host, has claimed that the deaths of Democratic President Joe Biden 's family members—including his first wife Neilia Biden, his daughter Naomi Biden and his eldest son Beau Biden—were all a \"satanic sacrifice\" to help him acquire political power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/bishop-larry-gaiters-calls-death-bidens-wife-daughter-son-satanic-sacrifice-1590247",
+      "originalUrl": "https://www.newsweek.com/bishop-larry-gaiters-calls-death-bidens-wife-daughter-son-satanic-sacrifice-1590247",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1792698/neilia-naomi-beau-joe-biden-deaths-pastor.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/bishop-larry-gaiters-calls-death-bidens-wife-daughter-son-satanic-sacrifice-1590247?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bishop-larry-gaiters-calls-death-bidens-wife-daughter-son-satanic-sacrifice-1590247?amp=1",
+      "publishedDateTime": "2021-05-10T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-caitlyn-jenner-on-biden-he-is-our-president-i-respect-that.md",
       "title": "Caitlyn Jenner on Biden: 'He is our President. I respect that'",
       "excerpt": "While former President Donald Trump continues to spread falsehoods about the 2020 election, California recall candidate Caitlyn Jenner told CNN's Dana Bash in a new interview that she does not believe the election was \"stolen,\" but argued there needs to be \"integrity\" in the US election system.\n    \n",
@@ -1284,58 +1336,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-09-first-lady-vice-president-harris-highlight-different-paths-to-motherhood.md",
-      "title": "First lady, Vice President Harris highlight different paths to motherhood",
-      "excerpt": "Kamala Harris’ childhood friends share memories about presidential hopeful With families around the country preparing to celebrate Mother’s Day on Sunday, first lady Jill Biden and Vice President Kamala Harris are putting a new national spotlight on less traditional types of motherhood.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746",
-      "originalUrl": "https://abcnews.go.com/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/mothers-day-kamala-harris-jill-biden-09-gty-llr-210508_1620502085825_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746",
-      "publishedDateTime": "2021-05-08T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

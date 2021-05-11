@@ -1229,6 +1229,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden pushes back as Republican-led states end increased unemployment benefits"
+    excerpt: "A growing number of GOP governors have said they will end increased unemployment insurance benefits, citing workforce shortages."
+    publishedDateTime: 2021-05-11T00:20:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-unemployment-benefits-states-pushback/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-unemployment-benefits-states-pushback/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-unemployment-benefits-states-pushback/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/08/2ff7afae-77a6-419f-a3e1-1a9c5e039087/thumbnail/1200x630/7158e56014971c41de1a8fe73543f37a/cbsn-fusion-eye-opener-biden-defends-dissapointing-jobs-report-numbers-thumbnail-710791-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden Accelerates Refugee Admissions, But Won't Raise Trump's Low Cap"
     excerpt: "Joe Biden signed an emergency determination that would speed refugee admissions to the U.S., but he did not lift Trump's low cap of 15,000 refugees."
     publishedDateTime: 2021-04-16T18:17:00Z

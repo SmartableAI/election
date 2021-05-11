@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Biden to trans youth: 'The president has your back'"
-excerpt: "In his first address to Congress, President Joe Biden called for passage of the Equality Act and gave a shout-out to transgender youth, saying \"the president has your back.\""
-publishedDateTime: 2021-04-29T05:36:00Z
-originalUrl: "https://www.reuters.com/video/watch/idOVEAFZTUN"
-webUrl: "https://www.reuters.com/video/watch/idOVEAFZTUN"
+title: "Biden pushes back as Republican-led states end increased unemployment benefits"
+excerpt: "A growing number of GOP governors have said they will end increased unemployment insurance benefits, citing workforce shortages."
+publishedDateTime: 2021-05-11T00:20:00Z
+originalUrl: "https://www.cbsnews.com/news/biden-unemployment-benefits-states-pushback/"
+webUrl: "https://www.cbsnews.com/news/biden-unemployment-benefits-states-pushback/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/biden-unemployment-benefits-states-pushback/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-unemployment-benefits-states-pushback/"
 type: article
-quality: 105
+quality: 121
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://static.reuters.com/resources/r/?d=20210429&i=OVEAFZTUN&r=OVEAFZTUN&t=2"
-    width: 960
-    height: 540
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/08/2ff7afae-77a6-419f-a3e1-1a9c5e039087/thumbnail/1200x630/7158e56014971c41de1a8fe73543f37a/cbsn-fusion-eye-opener-biden-defends-dissapointing-jobs-report-numbers-thumbnail-710791-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -1229,22 +1231,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden pushes back as Republican-led states end increased unemployment benefits"
-    excerpt: "A growing number of GOP governors have said they will end increased unemployment insurance benefits, citing workforce shortages."
-    publishedDateTime: 2021-05-11T00:20:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-unemployment-benefits-states-pushback/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-unemployment-benefits-states-pushback/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-unemployment-benefits-states-pushback/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 121
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/08/2ff7afae-77a6-419f-a3e1-1a9c5e039087/thumbnail/1200x630/7158e56014971c41de1a8fe73543f37a/cbsn-fusion-eye-opener-biden-defends-dissapointing-jobs-report-numbers-thumbnail-710791-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Former Trump budget director on Biden's infrastructure plan"
     excerpt: "President Biden's infrastructure and jobs plan is already facing opposition from Republican lawmakers. Russ Vought, former director of the Office of Management and Budget under President Trump, spoke to \"Red and Blue\" host Elaine Quijano about his oppositon to the proposal."
     publishedDateTime: 2021-04-01T22:55:00Z
@@ -1433,6 +1419,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210428&i=RCV009OJK&r=RCV009OJK&t=2"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden to trans youth: 'The president has your back'"
+    excerpt: "In his first address to Congress, President Joe Biden called for passage of the Equality Act and gave a shout-out to transgender youth, saying \"the president has your back.\""
+    publishedDateTime: 2021-04-29T05:36:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEAFZTUN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210429&i=OVEAFZTUN&r=OVEAFZTUN&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Biden urges passage of police overhaul measure"
     excerpt: "President Joe Biden said in his first address to Congress as president that he wants lawmakers to pass police overhaul legislation by the anniversary of the death of George Floyd. (April 28)"
@@ -1997,6 +1997,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "eQBPzdga94eT7e2ykoN8wOETMi/m4qLmYGLC/xQXTAl0ssz3IKfio86O4b7b3n42W6Wti79sqoUT0gIRhrBjOK4qggO2celT944CA2sxlamKZuhM8fWgBlvgPZTWgWlzSs2F9cP6ylqhbQz3pOj+JWd30myQwVH4gB50YpJf+I69IMeOmmRa+eX9G5IwEXNH+4SydHJKtH+9L9JSGlp0N7eOQ2dAd/87SGZH4OElY+MYvgV+NImufsuTUOnxGqtk0cpCf+JiCZedQKFj/rXZXwWwycsKJ9U77IzSvVLBACxfXIZAUtSTJZoK3rLyRHwiGbuDhMKW8bC0Xjt0ej67eOuuV2xxie84NHvQtFlG+Cc=;ez8i/1baBw8s2RkiBYILuQ=="
+secured: "Sew3qmmnaqQReG/3j1Fy9nKf+gMUvq8LxYx/eB78ispprq5w3lTCSZn6wKYg0ZnW3NnQTfVjsBUXAeTstsxDtn7zurf6xSZlkSSxvV52oOdfFtoiJZ+T0pV2gDbOiOTbi9jsp622TbYfptRagAAHbDVylaG0NC+Znl+LnDEbsZ1+IMC7BaqA5GSOtC5PvmL2LjHtEx1EjnYBChuj2jS42amCZoJPfSWFFyt8OSC0SX94JGWCpvKaksJX3Cps/GMiduABckZ+klu/wwSNZsbOmoqpXCa9JuBswhDKEFBqtSMXWR/v9GHqZwye+wzyzvdLGekIegPnF6KVpu0Q8PdIxCcc1SXwgkf2tWrvu8Cksx0=;nOlBtgoz6GgJj9vJwgTL+w=="
 ---
 

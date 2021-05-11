@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-04-06-value-judgment-donald-trump-tumbles-down-billionaires-rankings.md",
+      "title": "Value judgment: Donald Trump tumbles down billionaires’ rankings",
+      "excerpt": "Today, we learn that Donald Trump got richer, too, but was left trailing by his billionaire mates. Poor guy. According to the yearly update of Forbes’ billionaires list, Donald Trump’s standing among other billionaires has plummeted almost 300 places ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a7bb74a5147066fcabe5dcab29348d277436ea83/0_342_5120_3074/master/5120.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a0ddb6768f8c58f6251933c2d295ea8b",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/06/donald-trump-billionaire-rankings-forbes",
+      "publishedDateTime": "2021-04-06T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-see-kamala-harris-own-resolute-desk-made-from-parts-of-uss-constitution.md",
       "title": "See Kamala Harris’ own ‘Resolute’ desk made from parts of USS Constitution",
       "excerpt": "The desk was built by US Navy Seabees and delivered to the White House in February, according to outlets including Military.com.",
@@ -1305,54 +1357,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-donald-trump-sends-out-easter-wishes-and-swipes-radical-left-crazies.md",
-      "title": "Donald Trump sends out Easter wishes – and swipes ‘Radical Left CRAZIES’",
-      "excerpt": "Former President Donald Trump said “Happy Easter” in his own way on Sunday — linking his holiday wishes to his claims of election fraud. “ Happy Easter to ALL, including the Radical Left ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/04/donald-trump-wishes-happy-easter-to-all-including-radical-left-crazies/",
-      "originalUrl": "https://nypost.com/2021/04/04/donald-trump-wishes-happy-easter-to-all-including-radical-left-crazies/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-005.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/04/donald-trump-wishes-happy-easter-to-all-including-radical-left-crazies/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/04/donald-trump-wishes-happy-easter-to-all-including-radical-left-crazies/amp/",
-      "publishedDateTime": "2021-04-04T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

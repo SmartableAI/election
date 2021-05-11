@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-06-the-first-day-of-donald-trumps-new-website-recalls-his-earlier-twitterstorms.md",
+      "title": "The First Day of Donald Trump's New Website Recalls His Earlier 'Twitterstorms'",
+      "excerpt": "The official Twitter account linked to Trump's new blog was banned from the social network shortly after it appeared online.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/first-day-donald-trumps-new-website-recalls-his-earlier-twitterstorms-1589077",
+      "originalUrl": "https://www.newsweek.com/first-day-donald-trumps-new-website-recalls-his-earlier-twitterstorms-1589077",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1788439/trump-tweetstorm-twitterstorm-twitter-desk-blog-tweets.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/first-day-donald-trumps-new-website-recalls-his-earlier-twitterstorms-1589077?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/first-day-donald-trumps-new-website-recalls-his-earlier-twitterstorms-1589077?amp=1",
+      "publishedDateTime": "2021-05-05T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-the-point-will-donald-trump-run-again.md",
       "title": "The Point: Will Donald Trump run again?",
       "excerpt": "Strike up a conversation with any Republican -- or really, any person -- and tell them you're a political reporter and the first question you always get is this: \"So, is Trump running again?\"\n    \n",
@@ -1156,7 +1208,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2730,
+      "heat": 2750,
       "tags": null,
       "images": [
         {
@@ -1302,49 +1354,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-irs-chief-counsel-under-trump-admin-joins-gibson-dunn.md",
-      "title": "IRS chief counsel under Trump admin joins Gibson Dunn",
-      "excerpt": "Gibson, Dunn & Crutcher on Monday announced it has tapped Michael Desmond, whose successful nomination to serve as chief counsel of the U.S. Internal Revenue Service was reportedly a personal priority for former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/gibson-tax-idUSL1N2MQ2GE",
-      "originalUrl": "https://www.reuters.com/article/gibson-tax-idUSL1N2MQ2GE",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2MQ2GE",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MQ2GE",
-      "publishedDateTime": "2021-05-03T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

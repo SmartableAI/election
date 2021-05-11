@@ -2,6 +2,63 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-04-17-100-days-without-trump-on-twitter-a-nation-scrolls-more-calmly.md",
+      "title": "100 Days Without Trump on Twitter: A Nation Scrolls More Calmly",
+      "excerpt": "Democrats are breathing easier. Republicans are crying censorship. For all of the country’s news consumers, a strange quiet has descended after a four-year bombardment of presidential verbiage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/17/us/politics/trump-twitter.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/17/us/politics/trump-twitter.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/18/us/politics/18trumptwitter/18trumptwitter-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/17/us/politics/trump-twitter.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/17/us/politics/trump-twitter.amp.html",
+      "publishedDateTime": "2021-04-17T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-17-florida-woman-charged-for-allegedly-threatening-to-kill-kamala-harris.md",
       "title": "Florida woman charged for allegedly threatening to kill Kamala Harris",
       "excerpt": "A Miami woman has been charged for allegedly threatening to kill Vice President Kamala Harris, according to a criminal complaint filed in the United States District Court for the Southern District of Florida.\n    \n",
@@ -1308,63 +1365,6 @@
       "topics": [
         "Election",
         "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-former-vp-pence-undergoes-routine-surgery-to-implant-pacemaker-office-says.md",
-      "title": "Former VP Pence undergoes routine surgery to implant pacemaker, office says",
-      "excerpt": "Former Vice President Mike Pence underwent surgery to implant a pacemaker after experiencing a slow heart rate, his office disclosed on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RDsRDIKAY60/former-vp-pence-underwent-heart-surgery-to-implant-pacemaker-office-says",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RDsRDIKAY60/former-vp-pence-underwent-heart-surgery-to-implant-pacemaker-office-says",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 243,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/923f386d-3ccc-41f9-9133-8ebc9a94f111/7d90a6ea-b0e5-42f8-b867-367f1b07e616/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-vp-pence-underwent-heart-surgery-to-implant-pacemaker-office-says.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-vp-pence-underwent-heart-surgery-to-implant-pacemaker-office-says.amp",
-      "publishedDateTime": "2021-04-15T11:53:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Mike Pence"
       ]
     }
