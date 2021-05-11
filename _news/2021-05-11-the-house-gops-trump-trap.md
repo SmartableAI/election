@@ -1,33 +1,32 @@
 ---
 category: news
-title: "Major Biden receives special training to prepare for new White House cat"
-excerpt: "Some Major news at the White House: Major Biden has made his return to 1600 Pennsylvania Avenue after training following two biting incidents, but he may soon have to adjust to another furry friend.\n    \n"
-publishedDateTime: 2021-04-30T14:03:02Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H9oGT5kEcrw/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H9oGT5kEcrw/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/major-biden-cat/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/major-biden-cat/index.html"
+title: "The House GOP’s Trump trap"
+excerpt: "Trump has offered a much different narrative of a “fake” presidential election — as the former president put it on Sunday. In another statement slamming Cheney last week, Trump envisioned “a far different presidential result” had then-Vice President Mike Pence declined to accept the will of the voters in two of six states."
+publishedDateTime: 2021-05-11T00:00:00Z
+originalUrl: "https://www.politico.com/newsletters/politico-nightly/2021/05/10/the-house-gops-trump-trap-492789"
+webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/05/10/the-house-gops-trump-trap-492789"
 type: article
-quality: 174
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324142609-01-major-biden-0323-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+    width: 1120
+    height: 629
     isCached: true
 
 related:
@@ -172,6 +171,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507131521-maricopa-county-ballot-recount-0501-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Major Biden receives special training to prepare for new White House cat"
+    excerpt: "Some Major news at the White House: Major Biden has made his return to 1600 Pennsylvania Avenue after training following two biting incidents, but he may soon have to adjust to another furry friend.\n    \n"
+    publishedDateTime: 2021-04-30T14:03:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H9oGT5kEcrw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/30/politics/major-biden-cat/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/major-biden-cat/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210324142609-01-major-biden-0323-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -333,21 +348,7 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "The House GOP’s Trump trap"
-    excerpt: "Trump has offered a much different narrative of a “fake” presidential election — as the former president put it on Sunday. In another statement slamming Cheney last week, Trump envisioned “a far different presidential result” had then-Vice President Mike Pence declined to accept the will of the voters in two of six states."
-    publishedDateTime: 2021-05-11T00:00:00Z
-    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/05/10/the-house-gops-trump-trap-492789"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
 
-secured: "yAmzrAQzKgWsg+d4qQH4S7rymbMOAWlz61l7IzmxQr4FU5OIBB/NTAQjQuLsM91QavuE6w1rpLKNFIixzitrokM7HYsGT0tURfh3hpapHveeOc1TCEvWT25TO5PuLv6rXFD78qx99ZyD0W65e8ry5f8EgeFQI2ZPj9AiyB1TYpEbaRnAhI93luADZ6YwhnUEGSiLE5weoE01N0gqx2H2H9+rT19nwwnUvhDSxze7wF+/LhhJFbELnXrzBNg/sITcUt+FfVx0JVOEqnewIHJk2BUgsJDbhFzs6THbLiEuYep2jaYi1PbseCGh1/aIK6OJdMZYZGZ9sM0u3RHFxBukvTnmYfhljt7/4SxlRh6u358=;CM+Mc8Jkl0cVgXIW3loWrA=="
+secured: "c0Zshtlq6laFfc6/2Yg/ahvYxh4Rg9FMZyzRqvNWxsZ2Xrn+Pyah55wDVLlpWkWnt8kPDQyz78IhcUZsBT3ywKiYKZdXJw4Cu0jb6rKBp637m+W2pfTWbF/RP4veB6o77PH31guJdPRL5EkUMKFdyzIVnu/vytTgE9ry+hJfAoWkJ1LLOjOIXzjyRiwkQHoI7OByIVHxIB2NI+1tL5HIgF88DUZOIGUENg9P/D9SR1VoJ3BUHAPChG9jWENCA/w3eRa6DIVKntW+/Sjhgn/4ZrAM52JHCpzymBUKBxlR0k966v8D99oTug+iMQs/X77DjGTrjGcKhW2kM9WepRAoxi2u9nxm3sjd1FiznT3AEek=;CQrN5wrmJV3Gxi1nOdW6+g=="
 ---
 

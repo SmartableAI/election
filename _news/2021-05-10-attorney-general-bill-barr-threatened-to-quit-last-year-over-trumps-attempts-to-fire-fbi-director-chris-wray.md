@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 1008
         isCached: true
+  - title: "Trump's Ex-Pentagon Chief Chris Miller Expected to Turn On Him At Capitol Riot Hearing"
+    excerpt: "The former Defense Department chief said that the insurrection occurred because of Trump's \"Stop the Steal\" rally and speech beforehand."
+    publishedDateTime: 2021-05-11T00:56:00Z
+    webUrl: "https://www.newsweek.com/trumps-ex-pentagon-chief-chris-miller-expected-turn-him-capitol-riot-hearing-1590251"
+    ampWebUrl: "https://www.newsweek.com/trumps-ex-pentagon-chief-chris-miller-expected-turn-him-capitol-riot-hearing-1590251?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trumps-ex-pentagon-chief-chris-miller-expected-turn-him-capitol-riot-hearing-1590251?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1792713/christopher-miller-donald-trump-capitol-riots-hearing.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "SepprS9yBr+qFdx0S1+1G4ikmrfFQIIt9hJKtB3ROjUy7pZPmuqN5JlGZToMyp4Vtdrvx5CAGhZFFiokFZRJuICP3qPk1zgBY+8wFwBIKqbGcBy+AGrTGFf6QUUnPXb1BmZbTWCH0nC+CFY6ekfTo/uV8kFN7YaoyW/+2rhHDCxdKiOwJ8xy5cw3HhHtJy6UAPTRY74mtK6ssjtKxG3xvfXUZHwAUyrzH/n2DRVYLvdRzVAEoWRKlzMylWXxLzegAbTTnL90KMjLqWiuzImh1kTOWEfTUCIzZKnrOm6yOA/ftJAerLCsFbeRUhp13rDMaiSu8brOEU3IQtwLApzivXKTiyFcVaFpkXEJEZSxIYSsdZakBK79jAh96LbCn3eTesrGxW1CBW19Ev7PTTpmy5B1uh5MtuYwcnFJnJO1zHz2hKby27nMfzyEzb7+6+gikTio52hBvBdLMU4DcZJbqOYrclPF0Yh7drWVaf8uYpE3x7BThS7hAydFZrrPaTva9GHEo55+Z+M6R1yBb/+opw==;6aCnDMtmDI6Ithgr72tFsg=="
 ---

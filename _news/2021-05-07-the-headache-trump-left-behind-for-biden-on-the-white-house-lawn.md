@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/white-house-construction
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/white-house-construction-trump-biden/index.html"
 type: article
 quality: 190
-heat: 570
+heat: 590
 published: true
 
 provider:
@@ -323,6 +323,20 @@ related:
     excerpt: "While McCarthy stayed in close contact with Trump on House GOP Conference Chair Liz Cheney’s (R-Wyo.) potential ouster, McConnell declined to acknowledge Trump at all. When asked about Trump’s attacks on him,"
     publishedDateTime: 2021-05-07T11:01:00Z
     webUrl: "https://www.politico.com/newsletters/huddle/2021/05/07/gop-leaders-diverge-on-trump-approach-492767"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "The House GOP’s Trump trap"
+    excerpt: "Trump has offered a much different narrative of a “fake” presidential election — as the former president put it on Sunday. In another statement slamming Cheney last week, Trump envisioned “a far different presidential result” had then-Vice President Mike Pence declined to accept the will of the voters in two of six states."
+    publishedDateTime: 2021-05-11T00:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/05/10/the-house-gops-trump-trap-492789"
     type: article
     provider:
       name: Politico

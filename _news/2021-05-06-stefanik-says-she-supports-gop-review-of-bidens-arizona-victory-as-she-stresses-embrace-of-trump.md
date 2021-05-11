@@ -333,6 +333,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "The House GOP’s Trump trap"
+    excerpt: "Trump has offered a much different narrative of a “fake” presidential election — as the former president put it on Sunday. In another statement slamming Cheney last week, Trump envisioned “a far different presidential result” had then-Vice President Mike Pence declined to accept the will of the voters in two of six states."
+    publishedDateTime: 2021-05-11T00:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/05/10/the-house-gops-trump-trap-492789"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "DXk/oj2ieiJT3DQ81p+SZ1mQkWnJsPOZFefG6SZbla5h08jerVx6bnDnZj69t2YLwNBsKSCOdMe0Ymbi+OnMG50toNT8skVQHw2xPYoBX1MnzdFCTycmyTXxBcIhzPE905e1e9qda5fi9OxEIiDLF35SFKvakdg67H0eCFNdxjU7CplaxU165HgiRsvQNGFVr87ug2wBVu2qvkpj6PKmeIEmzaI74AywuH0Y/4niz1rKsScsOGCd05iqb1AoUnkGjq0E16QRlLEp3HdRMXI9Xk22oM4WQxR+9D7EQr/QhC9SQQvMJaBnlUWqW8/ESFr8eotXxTiw00HGy9DUAfWoDPEqbwu0TtWpuoT7gWbnxj0=;wE5q183SffJ+ZMf7Fzb4Pw=="
 ---

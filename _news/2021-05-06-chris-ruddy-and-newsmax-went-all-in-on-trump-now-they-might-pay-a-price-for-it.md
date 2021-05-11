@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
 type: article
 quality: 120
-heat: 140
+heat: 160
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's Ex-Pentagon Chief Chris Miller Expected to Turn On Him At Capitol Riot Hearing"
+    excerpt: "The former Defense Department chief said that the insurrection occurred because of Trump's \"Stop the Steal\" rally and speech beforehand."
+    publishedDateTime: 2021-05-11T00:56:00Z
+    webUrl: "https://www.newsweek.com/trumps-ex-pentagon-chief-chris-miller-expected-turn-him-capitol-riot-hearing-1590251"
+    ampWebUrl: "https://www.newsweek.com/trumps-ex-pentagon-chief-chris-miller-expected-turn-him-capitol-riot-hearing-1590251?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trumps-ex-pentagon-chief-chris-miller-expected-turn-him-capitol-riot-hearing-1590251?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1792713/christopher-miller-donald-trump-capitol-riots-hearing.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Attorney General Bill Barr threatened to quit last year over Trump's attempts to fire FBI Director Chris Wray"
     excerpt: "Wray's remarks about antifa, voter fraud, and Russian election interference often put him at odds with Trump, who publicly voiced his frustration."
     publishedDateTime: 2021-05-10T05:36:00Z
