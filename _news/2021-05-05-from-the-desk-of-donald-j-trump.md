@@ -335,6 +335,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "GOP senators hit Biden on infrastructure, taxes"
+    excerpt: "Two days before Republicans sit down with President Joe Biden to discuss infrastructure legislation, GOP leaders in the Senate criticized Biden on what qualifies as infrastructure spending, and how much the U."
+    publishedDateTime: 2021-05-11T21:45:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/11/gop-senators-hit-biden-infrastructure-taxes/5045164001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f223ddec-c9da-423e-b303-4fb349e7d70c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden restores transgender health discrimination protections that Trump rolled back"
     excerpt: "Health and Human Services Secretary Xavier Becerra said that federal law barring sex discrimination also protect LGBTQ people."
     publishedDateTime: 2021-05-10T13:51:00Z

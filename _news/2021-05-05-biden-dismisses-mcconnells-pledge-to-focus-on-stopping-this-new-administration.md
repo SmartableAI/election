@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration officials privately frustrated with Colonial Pipeline's weak security ahead of crippling cyberattack"
+    excerpt: "Biden administration officials have privately voiced frustration with what they see as Colonial Pipeline's weak security protocols and a lack of preparation that could have allowed hackers to pull off a crippling ransomware attack , officials familiar with government's initial investigation into the"
+    publishedDateTime: 2021-05-11T20:20:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Jh-xa0KGqcM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/biden-administration-ransomware-frustration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/biden-administration-ransomware-frustration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210510160035-01-colonial-pipeline-new-jersey-0510-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "VEkqyYE6U2yyFEDxxt5EoD3NlYJcLV4KMeIUdbsQ0kHV4iCTu36TZimXug7SYHvfbTKXP/J4q8uWAN3U/uM4azSzg6H+QzSOn3XSSyAaF61Idkntr6stmNucXtdDW/iFqxPFiv6aUmKNKlQcYY+5cvDf4MjCvy7o+zPhKwNCHdmAYzz4osL/dCr1OMgeKpLPsp5wTFMFp42XrMX9/A4KpwwJKSvDLJJ15dgsTy6+CqJapIcuDd8BSIzJaPvpB0RBaksQMQuQ+XfDvnC5wbz6UqdNvbGyHUsBGCH/KYZG6W3oqPHaciTcgDGPpsSYKsXhhWYwJ/LKqi67KWhfc5Q7hM7ApsYvFgPSylkWSjTUblc=;2NouscoT3qAzccdmooJg+w=="
 ---

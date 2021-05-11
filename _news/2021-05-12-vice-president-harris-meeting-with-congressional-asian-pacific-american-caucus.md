@@ -1,0 +1,55 @@
+---
+category: news
+title: "Vice President Harris Meeting with Congressional Asian Pacific American Caucus"
+excerpt: "T16:24:02-04:00 President Harris meets with members of the Congressional Asian Pacific American Caucus. Javascript must be enabled in order to access C-SPAN videos. Democratic vice presidential candidate Kamala Harris meets with officials in Fresno,"
+publishedDateTime: 2021-05-11T20:43:00Z
+originalUrl: "https://www.c-span.org/video/?511654-1/vice-president-harris-meeting-congressional-asian-pacific-american-caucus"
+webUrl: "https://www.c-span.org/video/?511654-1/vice-president-harris-meeting-congressional-asian-pacific-american-caucus"
+type: article
+quality: 31
+heat: -1
+published: false
+
+provider:
+  name: C-SPAN
+  domain: c-span.org
+
+topics:
+  - Election
+  - Kamala Harris
+
+related:
+  - title: "First lady, Vice President Harris highlight different paths to motherhood"
+    excerpt: "Kamala Harris’ childhood friends share memories about presidential hopeful With families around the country preparing to celebrate Mother’s Day on Sunday, first lady Jill Biden and Vice President Kamala Harris are putting a new national spotlight on less traditional types of motherhood."
+    publishedDateTime: 2021-05-08T19:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mothers-day-kamala-harris-jill-biden-09-gty-llr-210508_1620502085825_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Kamala Harris said corruption costs as much as 5% of the world's GDP. That stat is questionable"
+    excerpt: "For more than a decade, an interesting statistic about the cost of corruption has been bouncing around the global-economics community, showing up in statements and reports from or"
+    publishedDateTime: 2021-05-09T08:51:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/may/07/kamala-harris/kamala-harris-said-corruption-costs-much-5-worlds-/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 43
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
+
+secured: "DSMZwyKK9ncwAjOfinGFgQjpd2Dgk6LVMSssUtj3hUi7jre/Vi5zZJGwwJG7IxTvvZ1PVuIrSB20x5tsP6YIz3tO23/7H+U4tbXdcee8L1P43i62l0+CDv9W0h4GFzSpStiUQ9huKYddUKKM1k1pIb9lKpcinl2GWWnYbNCGfIB64Q0WmIAfh3aleIDZNWBFBXmxG0p+GaElutlHtcQ8v6dziTcJnhpLGQ+w0dbtX+DrxZUM2NnGQeMjKCBwNSrIUjJVVRIv6hEoTjEQABNgt01S9R8kCF+Vlxo2RJwrGVrdk6eRot2TqmFk7R1iv8rwoQfbkq2zgG9Nzkkb8F18BM9901L+JueKfZDXb/aF0PnxGJh/AB7w6hgXYR2yxu+TmZiZzixjxjqdX7qu7JVwnOVdAJlyavpdQ0EmJ6WOLJIncG2GXLapfVOMy3TNbOIDOBsC1trtSBAk3D5kzYmAzffHef1vEmhV/J4i11+mR/sD3uRvZQr3sE4Zlu4K0mhiJ/b9xIclgRGFTbp7E5hTYA==;HIQZDYKXShOyOiSnLIiEvg=="
+---
+

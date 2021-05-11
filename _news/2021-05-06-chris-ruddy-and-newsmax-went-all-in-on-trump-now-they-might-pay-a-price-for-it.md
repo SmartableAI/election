@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html?outputType=amp"
 type: article
 quality: 120
-heat: 160
+heat: 180
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.insider.com/60987750f22c6b00185dd2e2?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Of Course Donald Trump Jr.’s Ex-Wife Traded Him In for a Secret Service Agent"
+    excerpt: "For example, if you found yourself married to Donald Trump Jr., the mortifying, simpleminded, sheep-killing son of the 45th president, whose own father seems to despise him, you’d almost certainly replace him with a Secret Service agent,"
+    publishedDateTime: 2021-05-11T20:18:00Z
+    webUrl: "https://www.vanityfair.com/news/2021/05/vanessa-trump-tiffany-trump-secret-service-agents"
+    ampWebUrl: "https://www.vanityfair.com/news/2021/05/vanessa-trump-tiffany-trump-secret-service-agents/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2021/05/vanessa-trump-tiffany-trump-secret-service-agents/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 72
+    images:
+      - url: "https://media.vanityfair.com/photos/609adff30852bc00c5141a2f/master/pass/vanessatrump.jpg"
+        width: 2000
+        height: 1301
         isCached: true
 
 secured: "giQZgViAfyq6E7Zq6Avg7X37zcDMtaMnFrdCtlhmBpX80dVMvVumEIFD+5XITEDjRv1iVEAqyrATJ/k1XfIY/jpXBGB1w7eHDU6rYyvC3zuVcJ+xkbn6fMChBjmY0RnBoQ/nLfaqLiAihY4LlUppEHtpJ8VsCZh9sX8nnKddfAHeKOl3/WvcKkzrdeZbzSVduBZCIJaJKtxqT3FEKRemnDOKZPFeBaH8Q/+3j7lmltqlSQB2HfS8LwOO/ieQNcIjE3xS38pQyy7H35XlmYFGx05jWotPaQ7izArmX4InABDCiE4/57LGl9I6erfCbKHskyOnNmOxhx7H8Z6QnKwp/R5u81OReaNl6+iVY1/NWka9bq/TpZH+xXyDgM9epPqHx8Axu95BrrWjtdBkrHXOed9I8zyT7GMl9bDWxARycU68FFpe/lUC+/64/M+l+ei0aa3q7kTqzzr3S4w/4IF8DMvD51s+65jB26Osa2IXdw2KGkZaNTEYDKzIrwPMl3wfir2YiFazVYbn4o8wS/Ncow==;m5wzvQR5F5CG8x5vJLhcBA=="

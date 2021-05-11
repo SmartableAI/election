@@ -93,6 +93,20 @@ related:
         width: 700
         height: 525
         isCached: true
+  - title: "Inside Joe Biden's Plan to Confirm Diverse Federal Judges"
+    excerpt: "Biden is placing a premium on nominating a diverse range of judicial nominees, and confirming them quickly with the help of the Senate."
+    publishedDateTime: 2021-05-11T21:49:00Z
+    webUrl: "https://time.com/6047501/joe-biden-federal-judges/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/05/joe-biden-judges.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Fact Check-President Biden did not sign 96 executive orders in his first three months in office"
     excerpt: "In his first 100 days in office, President Joe Biden has not signed 96 executive orders. According to FederalRegister.gov, part of the United States National Archives, the Biden Administration had published 42 executive orders by April 27,"
     publishedDateTime: 2021-05-05T15:40:00Z

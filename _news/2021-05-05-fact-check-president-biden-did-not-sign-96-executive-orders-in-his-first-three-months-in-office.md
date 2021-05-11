@@ -103,6 +103,20 @@ related:
         width: 700
         height: 525
         isCached: true
+  - title: "Inside Joe Biden's Plan to Confirm Diverse Federal Judges"
+    excerpt: "Biden is placing a premium on nominating a diverse range of judicial nominees, and confirming them quickly with the help of the Senate."
+    publishedDateTime: 2021-05-11T21:49:00Z
+    webUrl: "https://time.com/6047501/joe-biden-federal-judges/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/05/joe-biden-judges.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Here's what Kentucky would get from President Joe Biden's American Families Plan"
     excerpt: "The White House outlined how many Kentucky children and workers would benefit from the $1.8 trillion plan, which includes universal preschool."
     publishedDateTime: 2021-05-07T09:26:00Z

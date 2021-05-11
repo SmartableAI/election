@@ -41,6 +41,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Vice President Harris Meeting with Congressional Asian Pacific American Caucus"
+    excerpt: "T16:24:02-04:00 President Harris meets with members of the Congressional Asian Pacific American Caucus. Javascript must be enabled in order to access C-SPAN videos. Democratic vice presidential candidate Kamala Harris meets with officials in Fresno,"
+    publishedDateTime: 2021-05-11T20:43:00Z
+    webUrl: "https://www.c-span.org/video/?511654-1/vice-president-harris-meeting-congressional-asian-pacific-american-caucus"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 31
 
 secured: "pd5uMFV+6+nBrDEtXliZtkeaZe3yuDDbBDgWJnFIuf7Yq8g98Py4Q49KN77VdhtrkS9r7Tnrgp4OgGp5wf3a0/a9vl4Kpn9pdVDPd1KGsjOucA93dTOZcJ3uAFRxOngoNU9bsBe3XINPcb/IpiM5ozo5Ex4PrCHbGHfGdQ/ZFeFXpEy/0bxFmHw2UeVxXhrDVx8XnzMIS73vsf2nG9wl4TcIFlKsvn7e/F9Qajqg5vmc/Yb5+JaIzpwbMM8VC0H/gOPngX8a4kQS48xm6syFrEKaICI2bG3CLDRhmdp7swr/Mm+VHsTAeAD0GaHgnAvd8oG/iahdVayfuUsZ9aLBohy9ZheK/atS6nbQ2wbluWU=;c7IB7nBTfvbSO2IvBJ1MMw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/lady-vice-president-harris-highl
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
 type: article
 quality: 124
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 438
         height: 392
         isCached: true
+  - title: "Vice President Harris Meeting with Congressional Asian Pacific American Caucus"
+    excerpt: "T16:24:02-04:00 President Harris meets with members of the Congressional Asian Pacific American Caucus. Javascript must be enabled in order to access C-SPAN videos. Democratic vice presidential candidate Kamala Harris meets with officials in Fresno,"
+    publishedDateTime: 2021-05-11T20:43:00Z
+    webUrl: "https://www.c-span.org/video/?511654-1/vice-president-harris-meeting-congressional-asian-pacific-american-caucus"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 31
 
 secured: "vvUcw0bleem7qMsy9KRJfH2kQBL4KfB7Zei1ar0ngmLL8AFE+iGHneI+FtsiKFanKUz37V1zy/5Arxk58KcL7K5puhK5AcvaL4rfdt1V7uE6hF4N5y8VP2MCQiEahv/tk8nTXaCFIz8TtuuNbyme1mWB5iB95Dw9IeK+6GJpbEJ9gEaAbb3OtS/Ue+9njUc+jK+CVfzly0R9pzmRfUECtDIgXPEgvPPEa1nchBfPKVB3YcQsPrqzOiSbei2ftDaR939SKQ61nQnG7mRjrGdsxN07qPmL0WwEKRssOxZ9Ru69NdM6VN7o/ue78ngi6DiwITVedQG9bRsVgyfxA3ls8z46v//Lq4kxpIyUp6nS2Go=;ajbWuhGEBXv1QPMDHoPxJA=="
 ---

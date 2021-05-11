@@ -331,6 +331,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "GOP senators hit Biden on infrastructure, taxes"
+    excerpt: "Two days before Republicans sit down with President Joe Biden to discuss infrastructure legislation, GOP leaders in the Senate criticized Biden on what qualifies as infrastructure spending, and how much the U."
+    publishedDateTime: 2021-05-11T21:45:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/11/gop-senators-hit-biden-infrastructure-taxes/5045164001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f223ddec-c9da-423e-b303-4fb349e7d70c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden restores transgender health discrimination protections that Trump rolled back"
     excerpt: "Health and Human Services Secretary Xavier Becerra said that federal law barring sex discrimination also protect LGBTQ people."
     publishedDateTime: 2021-05-10T13:51:00Z
@@ -410,6 +424,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "wBWgiuawln8WeMpK4bP1D6TRqM4G/tCi/M9WEDPMuy29H127VmdFmUFmXKtzzaaWYxoOWdrXfU/4WyB0M9wQQRRtsArDOYR83feKx8i4SPfuaWMoxD8CKQkF3YMKQ1phWgQrs3Qv70bem07XyPI/vLmq5iZqtTXpLbQMzZrOk/NsVVXCsVVuJJfJcgjVzWdf0L4XuKZWmhJng86RJRwjOJ8jyTlIrp0GtD7WRNm9JFR902zQF+rLcm4noVRU+z7aVVB95fOsmnnaSZFQK38zT6D6r1CCGoWIXDyiPZSNehztPwGKCd8EHG5Wff2Vr0Kx1Ddfy4xix09rG3PdtNUEPEqUWiFW971eRnoOMTk7QGU=;DU+Dl6LfCp5uoZM9XU47nA=="
+secured: "84+KNQfsL5iipgunq7CR7vAr5aCDbxsVySXWM9zGF5XfvYoWljHm0oRMtIFED9yP2/knLws4gYrsAMuE/9QBpPe/2TmExGBI87e2ogCN7qbbK6rwHw0j9iDdfbRKZdF1KCeI7+QQ1FQ+tQLiGvCGizAAurlTTbBBUd7BLMYcoOsC0PcKNIJsZ84Sgn1z8HOUsBVotEKFb3hH4mtk6MH1CfG2G5thxcHcUVDTbAzdtWBVkIo3hpw9kl4VXJ17Khpjb1mucdq3TY5qbSDqU9gAvqIZRXh1F7Wy4hjcTRbeDpD8rUYZi5clKXIbdzJe+sKdr9+zGfFmurffbeY1GC9URcZfCYupwbJWbdTKnVO/DPBpltJblDzyCxCRh5CTXlDycJDxpOzYRtltV/6/3RRqTiTGhGWuET+sU7YlAW6t8qKJvqz0XBnU2sf2X/E1ZPhFnx2dwh9sjAAUhYyiSWoNwBPK7+kyyiYYxOlkeAKlf+fxXjmzJvsMI/2VnCMl5DQq4qWqxawWzqm69DZZw0S9Wg==;rEilzWsG1VGtCfVUJdCTQw=="
 ---
 

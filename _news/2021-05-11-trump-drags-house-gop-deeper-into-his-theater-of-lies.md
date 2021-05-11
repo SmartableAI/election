@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/donald-trump-liz-cheney-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/donald-trump-liz-cheney-joe-biden/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Life after leadership: Liz Cheney plots her long game against Donald Trump"
+    excerpt: "Liz Cheney entered this week knowing it would likely be her last as a member of the House Republican leadership team.\n    \n"
+    publishedDateTime: 2021-05-11T20:59:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j-mV13pNLWo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/liz-cheney-republican-party-trump-long-game/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/liz-cheney-republican-party-trump-long-game/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210511093432-01-liz-cheney-vote-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "F.E.C. Drops Case Reviewing Trump Hush-Money Payments to Women"
     excerpt: "The case had examined whether Donald Trump violated election law with a $130,000 payment shortly before the 2016 election to a pornographic-film actress by his personal lawyer, Michael Cohen."
     publishedDateTime: 2021-05-06T23:11:00Z

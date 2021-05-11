@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/british-elections-send-a-mes
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 655
+heat: 675
 published: true
 
 provider:
@@ -328,6 +328,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/df47bd19-9c56-4eec-a02f-a4717ba4a80a_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "GOP senators hit Biden on infrastructure, taxes"
+    excerpt: "Two days before Republicans sit down with President Joe Biden to discuss infrastructure legislation, GOP leaders in the Senate criticized Biden on what qualifies as infrastructure spending, and how much the U."
+    publishedDateTime: 2021-05-11T21:45:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/11/gop-senators-hit-biden-infrastructure-taxes/5045164001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f223ddec-c9da-423e-b303-4fb349e7d70c_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

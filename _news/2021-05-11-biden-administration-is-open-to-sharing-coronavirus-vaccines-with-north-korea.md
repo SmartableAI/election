@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/us-coronavirus-vaccines-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/us-coronavirus-vaccines-north-korea/index.html"
 type: article
 quality: 172
-heat: 212
+heat: 232
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 157
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504134315-02-biden-covid-remarks-0504-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration officials privately frustrated with Colonial Pipeline's weak security ahead of crippling cyberattack"
+    excerpt: "Biden administration officials have privately voiced frustration with what they see as Colonial Pipeline's weak security protocols and a lack of preparation that could have allowed hackers to pull off a crippling ransomware attack , officials familiar with government's initial investigation into the"
+    publishedDateTime: 2021-05-11T20:20:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Jh-xa0KGqcM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/biden-administration-ransomware-frustration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/biden-administration-ransomware-frustration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210510160035-01-colonial-pipeline-new-jersey-0510-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

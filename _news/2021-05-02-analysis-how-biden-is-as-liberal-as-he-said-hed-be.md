@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration reverses Trump-era policy that blocked undocumented students from pandemic aid"
+    excerpt: "The Biden administration is expanding eligibility for pandemic relief aid to include undocumented and international college students, reversing a Trump-era policy that blocked them from receiving federal emergency grants.\n    \n"
+    publishedDateTime: 2021-05-11T21:17:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8UjqnZdDM9o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/undocumented-students-pandemic-aid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/undocumented-students-pandemic-aid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 176
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303113702-01-miguel-cardona-0203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "What it's been like fact-checking Joe Biden through 100 days "
     excerpt: "Things have been quieter around here in presidential-fact-check land.\n    \n"
     publishedDateTime: 2021-05-02T12:06:07Z

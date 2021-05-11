@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Colonial Pipeline cyberattack: Republicans demand more action from Biden energy security"
+    excerpt: "The shutdown of a major fuel pipeline should be a wake-up call to the Biden administration that the U.S. needs to be investing more in oil and gas production and strengthening its ability to combat cyberattacks, according to several Republicans."
+    publishedDateTime: 2021-05-11T20:15:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZmC2bgt4QCc/colonial-pipeline-cyberattack-republicans-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/colonial-pipeline-cyberattack-republicans-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colonial-pipeline-cyberattack-republicans-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Top Republicans McCarthy, Scalise back Stefanik as Cheney replacement amid battle over Trump"
     excerpt: "The top two Republicans in the House are behind Rep. Elise Stefanik's efforts to replace Rep. Liz Cheney as Republican conference chair as the party continues to grapple over former President Trump's future role, according to a report. "
     publishedDateTime: 2021-05-05T12:25:20Z
