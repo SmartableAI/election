@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trum
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp"
 type: article
 quality: 175
-heat: 755
+heat: 775
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8db31137-c6d1-42f6-b6c3-105cadba2d6d/6f4d1e85-e44a-42d4-86ba-0f9612af8783/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Schumer and McConnell spar over Trump, state election laws in showdown over Democrat-backed elections bill"
+    excerpt: "Senate Minority Leader Mitch McConnell and Majority Leader Chuck Schumer clashed Tuesday at a Senate Rules Committee markup of S. 1, a Democrat-backed elections bill that would dramatically change the role of the federal government in elections. "
+    publishedDateTime: 2021-05-11T12:36:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_5klGh6RJ0Y/schumer-mcconnell-showdown-elections-bill-senate-markup"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-mcconnell-showdown-elections-bill-senate-markup.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-mcconnell-showdown-elections-bill-senate-markup.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Pentagon cancels Trump-era border wall construction paid for by military funds"
     excerpt: "The Pentagon on Friday announced it is canceling all border wall construction projects that were paid for by military funding -- part of a broader effort by the Biden administration to cancel the Trump-era barrier."

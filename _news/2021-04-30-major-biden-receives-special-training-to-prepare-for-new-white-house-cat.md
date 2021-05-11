@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House says Biden will receive his physical exam later this year"
+    excerpt: "President Joe Biden will receive a regular physical exam later this year, the White House said Tuesday, setting a timeline for when the oldest first-term president in US history might provide more information about his health.\n    \n"
+    publishedDateTime: 2021-05-11T13:49:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NvmuUYEZGBI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/president-physical/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/president-physical/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507133959-02-joe-biden-0507-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Progressive House members reflect on wins and losses in Biden's first 100 days"
     excerpt: "Progressives in the House were apprehensive when Joe Biden stepped into office -- the President was an unabashedly moderate Democrat and ready to cut deals with Republicans, many of whom he had known longer than some progressive members of Congress had been alive.\n    \n"
     publishedDateTime: 2021-05-01T18:06:28Z
@@ -318,6 +334,22 @@ related:
       - url: "https://static.politico.com/99/39/3b9a4f474c63ba2e1ce5d4d1f68d/5-3-21-jimbanks-getty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden administration announces reversal of Trump-era limits on protections for transgender people in health care"
+    excerpt: "The Trump administration in June 2020 finalized its rollback of protections against gender identity discrimination in health care regulated by Obamacare."
+    publishedDateTime: 2021-05-11T11:00:00Z
+    webUrl: "https://www.nbcnews.com/feature/nbc-out/biden-administration-announces-reversal-trump-era-limits-protections-transgender-people-n1266823"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266823"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266823"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_19/3471568/210510-transgender-rally-white-house-jm-0856_ba802737195be88ad4c94d6bece200d0.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "GOP leaders diverge on Trump approach"
     excerpt: "While McCarthy stayed in close contact with Trump on House GOP Conference Chair Liz Cheney’s (R-Wyo.) potential ouster, McConnell declined to acknowledge Trump at all. When asked about Trump’s attacks on him,"

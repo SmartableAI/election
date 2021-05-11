@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-11-ambassador-rahm-emanuel-former-chicago-mayor-reportedly-president-joe-bidens-pick-for-japan.md",
+      "title": "Ambassador Rahm Emanuel: Former Chicago mayor reportedly President Joe Biden’s pick for Japan",
+      "excerpt": "President Joe Biden is expected to select former Chicago Mayor Rahm Emanuel as his ambassador to Japan, according to multiple reports Tuesday.The move would give Biden a deeply experienced government tactician and political veteran in a prominent foreign post,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/politics/ct-rahm-emanuel-japan-ambassador-biden-20210511-v7mhkpq7l5gvnkfbzib34k5fcm-story.html",
+      "originalUrl": "https://www.chicagotribune.com/politics/ct-rahm-emanuel-japan-ambassador-biden-20210511-v7mhkpq7l5gvnkfbzib34k5fcm-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/yrdOzCKFGxDPI0nwU1_Jr22zedM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TRNLAI7SYJHE3NMZXVTXBHDEME.jpg",
+          "width": 1200,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/politics/ct-rahm-emanuel-japan-ambassador-biden-20210511-v7mhkpq7l5gvnkfbzib34k5fcm-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-rahm-emanuel-japan-ambassador-biden-20210511-v7mhkpq7l5gvnkfbzib34k5fcm-story.html?outputType=amp",
+      "publishedDateTime": "2021-05-11T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-texas-sheriff-bidens-destructive-border-policies-caused-migrant-surge.md",
+      "title": "Texas sheriff: Biden's 'destructive' border policies caused migrant surge",
+      "excerpt": "Guests: Peter Doocy, Bill Melugin, Aishah Hasnie, Grady Trimble, Donald Swartz, Sarah Westwood, Patrice Onwuka, Robert Patillo, Barry Loudermilk, A.J. Louderback, Chris Swecker, Jared Max, Amy Myers J",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/texas-sheriff-bidens-destructive-border-policies-caused-migrant-surge",
+      "originalUrl": "https://www.foxnews.com/transcript/texas-sheriff-bidens-destructive-border-policies-caused-migrant-surge",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/724a4e71-2fd6-4bb8-ad45-36c1ee8a7498/e46cbc30-44d5-4313-840c-c715d542e755/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/texas-sheriff-bidens-destructive-border-policies-caused-migrant-surge.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/texas-sheriff-bidens-destructive-border-policies-caused-migrant-surge.amp",
+      "publishedDateTime": "2021-05-11T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president.md",
       "title": "Caitlyn Jenner says election was not 'stolen,' calls Biden 'our president'",
       "excerpt": "GOP California gubernatorial candidate and former reality TV star Caitlyn Jenner says she does not believe the 2020 presidential election was stolen, but she added that the U.S. must “have integrity in our election system.",
@@ -540,7 +649,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -857,7 +966,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2770,
+      "heat": 2410,
       "tags": null,
       "images": [
         {
@@ -1479,115 +1588,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-biden-is-giving-child-care-prime-time-attention-can-he-actually-tranform-it.md",
-      "title": "Biden Is Giving Child Care ‘Prime-Time Attention.’ Can He Actually Tranform It?",
-      "excerpt": "A turbulent pandemic, more women in Congress and decades of advocacy have set the stage for a complete overhaul of the child care system, experts said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/29/us/biden-child-care-tranformation.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/29/us/biden-child-care-tranformation.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/29/world/29childcare-ihw/29childcare-ihw-facebookJumbo-v3.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/29/us/biden-child-care-tranformation.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/29/us/biden-child-care-tranformation.amp.html",
-      "publishedDateTime": "2021-04-29T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-representative-sara-jacobs-president-bidens-address-gave-us-reasons-to-feel-hopeful.md",
-      "title": "Representative Sara Jacobs: President Biden's address \"gave us reasons\" to feel hopeful",
-      "excerpt": "Congresswoman Sarah Jacobs, a Democrat from California, says President Joe Biden's address to a joint session of Congress on Wednesday gave Americans many reasons to feel \"hopeful.\" She joins CBSN's Tanya Rivero for a closer look at Mr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/",
-      "originalUrl": "https://www.cbsnews.com/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/29/41bc8ffb-b4cb-4c73-b658-89f738eac29c/thumbnail/1200x630/fa07439f6dbcd1f0e70a210a7ba2d4f5/cbsn-fusion-rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful-thumbnail-704368-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/rep-sara-jacobs-says-pres-bidens-address-to-congress-gave-us-reasons-to-feel-hopeful/",
-      "publishedDateTime": "2021-04-29T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

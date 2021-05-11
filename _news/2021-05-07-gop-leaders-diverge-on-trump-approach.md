@@ -174,6 +174,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House says Biden will receive his physical exam later this year"
+    excerpt: "President Joe Biden will receive a regular physical exam later this year, the White House said Tuesday, setting a timeline for when the oldest first-term president in US history might provide more information about his health.\n    \n"
+    publishedDateTime: 2021-05-11T13:49:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NvmuUYEZGBI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/president-physical/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/president-physical/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507133959-02-joe-biden-0507-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Major Biden receives special training to prepare for new White House cat"
     excerpt: "Some Major news at the White House: Major Biden has made his return to 1600 Pennsylvania Avenue after training following two biting incidents, but he may soon have to adjust to another furry friend.\n    \n"
     publishedDateTime: 2021-04-30T14:03:02Z
@@ -333,6 +349,22 @@ related:
       - url: "https://static.politico.com/99/39/3b9a4f474c63ba2e1ce5d4d1f68d/5-3-21-jimbanks-getty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden administration announces reversal of Trump-era limits on protections for transgender people in health care"
+    excerpt: "The Trump administration in June 2020 finalized its rollback of protections against gender identity discrimination in health care regulated by Obamacare."
+    publishedDateTime: 2021-05-11T11:00:00Z
+    webUrl: "https://www.nbcnews.com/feature/nbc-out/biden-administration-announces-reversal-trump-era-limits-protections-transgender-people-n1266823"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266823"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266823"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_19/3471568/210510-transgender-rally-white-house-jm-0856_ba802737195be88ad4c94d6bece200d0.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "The House GOP’s Trump trap"
     excerpt: "Trump has offered a much different narrative of a “fake” presidential election — as the former president put it on Sunday. In another statement slamming Cheney last week, Trump envisioned “a far different presidential result” had then-Vice President Mike Pence declined to accept the will of the voters in two of six states."

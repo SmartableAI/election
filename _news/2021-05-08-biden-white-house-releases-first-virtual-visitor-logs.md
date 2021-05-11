@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-first-virtual-vis
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp"
 type: article
 quality: 175
-heat: 415
+heat: 455
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to have medical exam later this year, White House says"
+    excerpt: "The White House on Tuesday said President Biden is set to have a medical check up later this year, and the Biden administration will release the results of his exam to the public. "
+    publishedDateTime: 2021-05-11T14:34:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v30SfRtbrkY/biden-to-have-medical-exam-later-this-year-white-house-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-have-medical-exam-later-this-year-white-house-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-have-medical-exam-later-this-year-white-house-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden waives ethics rules for former union bosses who now work in White House"
     excerpt: "The Biden administration has come under scrutiny from Republicans on Capitol Hill following its decision to circumvent federal ethics rules and staff former union officials in senior posts."
     publishedDateTime: 2021-05-08T22:38:58Z
@@ -111,6 +127,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden to announce partnership with Uber, Lyft for free rides to COVID vaccination sites"
+    excerpt: "President Biden on Tuesday is set to announce a partnership with ride-sharing companies Uber and Lyft to provide free rides to anyone going to a vaccination site to get vaccinated through July 4, the White House said. "
+    publishedDateTime: 2021-05-11T15:37:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bDnmAh9Ueng/biden-to-announce-partnership-with-uber-lyft-for-free-rides-to-covid-vaccination-sites"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-announce-partnership-with-uber-lyft-for-free-rides-to-covid-vaccination-sites.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-announce-partnership-with-uber-lyft-for-free-rides-to-covid-vaccination-sites.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Teachers union bosses visited White House for Jill Biden event ahead of CDC lobbying effort"
     excerpt: "The nation's leading teachers unions were among the Biden administration's first visitors to the White House, visitor logs show."
     publishedDateTime: 2021-05-09T02:01:50Z
@@ -178,7 +210,7 @@ related:
   - title: "Biden Must Reverse Course on Iran -- Before It's Too Late"
     excerpt: "Media outlets around the world recently reported on leaked audio comments in which Iranian Foreign Minister Javad Zarif admitted that Irans"
     publishedDateTime: 2021-05-11T10:52:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/11/biden_must_reverse_course_on_iran_--_before_its_too_late_145737.html"
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/11/biden_must_reverse_course_on_iran_--_before_its_too_late_145737.html#!"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/11/biden_must_reverse_course_on_iran_--_before_its_too_late_145737.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/11/biden_must_reverse_course_on_iran_--_before_its_too_late_145737.amp.html"
     type: article

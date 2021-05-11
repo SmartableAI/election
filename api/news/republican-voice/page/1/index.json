@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-11-texas-sheriff-bidens-destructive-border-policies-caused-migrant-surge.md",
+      "title": "Texas sheriff: Biden's 'destructive' border policies caused migrant surge",
+      "excerpt": "Guests: Peter Doocy, Bill Melugin, Aishah Hasnie, Grady Trimble, Donald Swartz, Sarah Westwood, Patrice Onwuka, Robert Patillo, Barry Loudermilk, A.J. Louderback, Chris Swecker, Jared Max, Amy Myers J",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/texas-sheriff-bidens-destructive-border-policies-caused-migrant-surge",
+      "originalUrl": "https://www.foxnews.com/transcript/texas-sheriff-bidens-destructive-border-policies-caused-migrant-surge",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/724a4e71-2fd6-4bb8-ad45-36c1ee8a7498/e46cbc30-44d5-4313-840c-c715d542e755/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/texas-sheriff-bidens-destructive-border-policies-caused-migrant-surge.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/texas-sheriff-bidens-destructive-border-policies-caused-migrant-surge.amp",
+      "publishedDateTime": "2021-05-11T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-stephen-miller-sounds-alarm-over-bidens-unprecedented-border-policies.md",
       "title": "Stephen Miller sounds alarm over Biden's 'unprecedented' border policies",
       "excerpt": "Stephen Miller, former senior adviser to President Trump, now America First Legal founder. Stephen Miller, how are you my friend? STEPHEN MILLER, FOUNDER, AMERICA FIRST LEGAL: I am doing great. Thank you for having me.",
@@ -448,7 +505,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 415,
+      "heat": 455,
       "tags": null,
       "images": [
         {
@@ -1180,7 +1237,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 755,
+      "heat": 775,
       "tags": null,
       "images": [
         {
@@ -1599,62 +1656,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-biden-celebrates-amtraks-50th-anniversary-with-plans-to-expand-the-railway.md",
-      "title": "Biden celebrates Amtrak's 50th anniversary with plans to expand the railway",
-      "excerpt": "President Biden traveled to Philadelphia's 30th Street Station Friday to celebrate the 50th anniversary of Amtrak’s first rail ride, from New York City to Philadelphia, and tout a grand future for the federally funded train system.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ltO7ay2fTSo/biden-pushes-big-spending-package-celebrates-amtraks-50th-anniversary",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ltO7ay2fTSo/biden-pushes-big-spending-package-celebrates-amtraks-50th-anniversary",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26b2595f-106b-4afe-87c5-d67bef930299/1dc49e81-ee56-43ec-a666-b968f01aa9c5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-pushes-big-spending-package-celebrates-amtraks-50th-anniversary.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pushes-big-spending-package-celebrates-amtraks-50th-anniversary.amp",
-      "publishedDateTime": "2021-04-30T14:20:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -339,20 +339,6 @@ related:
         width: 1080
         height: 608
         isCached: true
-  - title: "Cheney's views on Trump puts her GOP post in peril"
-    excerpt: "No. 3 House Republican Liz Cheney was clinging to her post Wednesday as party leaders lined up behind an heir apparent, signaling that fallout over her clashes with former President Donald Trump was becoming too much for her to overcome."
-    publishedDateTime: 2021-05-06T01:45:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/06/cheneys-views-trump-puts-her-gop-post-peril/4966432001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/290fa076-f007-4377-8118-c4e82f5c328c_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Republicans are said to be plotting to oust Liz Cheney from House leadership and replace her with a pro-Trump woman"
     excerpt: "Cheney, the third most senior House Republican, has been a vocal critic of former President Donald Trump."
     publishedDateTime: 2021-05-04T12:40:00Z
@@ -407,22 +393,6 @@ related:
     webUrl: "https://www.chron.com/news/article/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
     ampWebUrl: "https://www.chron.com/news/amp/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-big-lie-becomes-new-litmus-test-for-16148560.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Ohio GOP censures 10 Republicans who voted to impeach Trump"
-    excerpt: "The Ohio Republican Party censured U.S. Rep. Anthony Gonzalez and nine other GOP representatives Friday for voting in February to impeach former President Donald Trump, in a nearly unanimous vote of the powerful central committee."
-    publishedDateTime: 2021-05-07T17:17:00Z
-    webUrl: "https://www.chron.com/news/article/Ohio-GOP-may-censure-own-for-supporting-Trump-16159539.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Ohio-GOP-may-censure-own-for-supporting-Trump-16159539.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Ohio-GOP-may-censure-own-for-supporting-Trump-16159539.php"
     type: article
     provider:
       name: Houston Chronicle
@@ -508,20 +478,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Liz Cheney Under Attack From GOP For Standing Up To Donald Trump"
-    excerpt: "Wyo., may find herself ousted from her position as the third-highest Republican as her strong stance against Donald Trump nets her few allies and increasing hostility from her caucus. Removing her from her post would require a conference vote,"
-    publishedDateTime: 2021-05-04T21:37:00Z
-    webUrl: "https://www.ibtimes.com/liz-cheney-under-attack-gop-standing-donald-trump-3193020"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/liz-cheney.jpg"
-        width: 1200
-        height: 843
-        isCached: true
 
 secured: "Mn5VYFb4LqSqqZfwvR/qvjwNMawHHx0lRDQd4evkoFD3lc9UD/0vHh4DxhocN+C1l4uxamEAL07VXUJ766xHgqOydf1D9+dO+PYJ/Xao3OfOPD7KHfRCMloBV+sYl6rGSoPqAbkZWDeY9EPT1F7fi49FG6UU2mi7u3+cW7h4raRzaoKz+MBnIW833+QztjA+QJN92+/Z3qIUrvd7DhA63kF7MJV245ChuWjYuBp4Cw5oolqTHj9fyJVA7IuSViH1GbV20p8vlzIFAXIL8ycxOBiopRjlkonCQlDdzYIibtru9c9bTbw6M0jxpcBH/tJw/kjuh9nRTBhfbyfk+m/6Kc4BohyNKVelMA+D4+RJdBmNH+acljwr1813B6DGuQs/ZkIDkqjF08BByTFKBf56Vr+hrnnOe+j9PiOpupesN3OHiABwqVi58D+yIK0j+lwZ70yS/8hKDMt2EZvdQx98ECJ3/LDGGxxDw83nHU9FiLbygHLznTyWRLAlVUG4CuuB5ywEqjkUA1wliToIGoEBbw==;QBN57EEjAtunSC3c1uNCYA=="
 ---

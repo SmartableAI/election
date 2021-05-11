@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden viewed Manchin and Carper meetings as productive as White House gears up for critical infrastructure week"
+    excerpt: "President Joe Biden on Monday will host two critical Democratic senators for individual meetings at the White House as he enters a crucial week for his legislative agenda.\n    \n"
+    publishedDateTime: 2021-05-11T14:13:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jOJxX1QDhNo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/biden-manchin-carper/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/biden-manchin-carper/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429114426-01-joe-manchin-biden-joint-session-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Warren calls for larger child care investment in Biden's infrastructure plan: 'This one is personal for so many of us'"
     excerpt: "Sen. Elizabeth Warren on Monday called for universal government-subsidized child care as part of President Joe Biden's infrastructure proposal, describing it as a \"big ticket item\" that demands more resources.\n    \n"
     publishedDateTime: 2021-05-10T21:58:40Z
