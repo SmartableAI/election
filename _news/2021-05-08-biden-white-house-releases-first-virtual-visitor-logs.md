@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-first-virtual-vis
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -172,6 +172,20 @@ related:
     quality: 84
     images:
       - url: "https://assets.realclear.com/images/54/542635_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Jen Psaki Says the Quiet Part Out Loud About Joe Biden"
+    excerpt: "Jen Psaki made a stunning admission in a patently flippant way last week during a conversation with CNN's David Axelrod. The White House press secretary openly admitted that President Biden's handlers often tell him they prefer he not speak to reporters outside of controlled settings."
+    publishedDateTime: 2021-05-10T18:57:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/10/jen_psaki_says_the_quiet_part_out_loud_about_joe_biden_542486.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/542871_5_.jpg"
         width: 750
         height: 500
         isCached: true

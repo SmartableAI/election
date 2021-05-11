@@ -1,24 +1,18 @@
 ---
 category: news
-title: "White House ally: Biden is 'most liberal president we've had' but 'public thinks he's a moderate'"
-excerpt: "A New York Magazine article Sunday quoted a figure \"close to the White House\" who said the Biden White House's tightly controlled media strategy has been successful in getting the administration portrayed as moderate when it's the \"most liberal\" one in history."
-publishedDateTime: 2021-05-10T18:23:00Z
-originalUrl: "https://www.foxnews.com/media/white-house-ally-biden-liberal-president-public-moderate"
-webUrl: "https://www.foxnews.com/media/white-house-ally-biden-liberal-president-public-moderate"
-ampWebUrl: "https://www.foxnews.com/media/white-house-ally-biden-liberal-president-public-moderate.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/white-house-ally-biden-liberal-president-public-moderate.amp"
+title: "Jen Psaki Says the Quiet Part Out Loud About Joe Biden"
+excerpt: "Jen Psaki made a stunning admission in a patently flippant way last week during a conversation with CNN's David Axelrod. The White House press secretary openly admitted that President Biden's handlers often tell him they prefer he not speak to reporters outside of controlled settings."
+publishedDateTime: 2021-05-10T18:57:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/05/10/jen_psaki_says_the_quiet_part_out_loud_about_joe_biden_542486.html"
+webUrl: "https://www.realclearpolitics.com/2021/05/10/jen_psaki_says_the_quiet_part_out_loud_about_joe_biden_542486.html"
 type: article
-quality: 122
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
@@ -26,9 +20,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6e05967a-6fda-48c2-b31d-31ed35ff654d/1319fe5c-a5d7-4656-b9c5-71afa2fac35e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://assets.realclear.com/images/54/542871_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -160,6 +154,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "White House ally: Biden is 'most liberal president we've had' but 'public thinks he's a moderate'"
+    excerpt: "A New York Magazine article Sunday quoted a figure \"close to the White House\" who said the Biden White House's tightly controlled media strategy has been successful in getting the administration portrayed as moderate when it's the \"most liberal\" one in history."
+    publishedDateTime: 2021-05-10T18:23:00Z
+    webUrl: "https://www.foxnews.com/media/white-house-ally-biden-liberal-president-public-moderate"
+    ampWebUrl: "https://www.foxnews.com/media/white-house-ally-biden-liberal-president-public-moderate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/white-house-ally-biden-liberal-president-public-moderate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6e05967a-6fda-48c2-b31d-31ed35ff654d/1319fe5c-a5d7-4656-b9c5-71afa2fac35e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Based on Biden's Performance So Far, There's Trouble Ahead for Democrats"
     excerpt: "On the surface, Joe Biden seems to be doing pretty well. But underneath, there are signs of problems, areas where partisan overstretch threatens"
     publishedDateTime: 2021-05-08T22:09:00Z
@@ -176,21 +186,7 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Jen Psaki Says the Quiet Part Out Loud About Joe Biden"
-    excerpt: "Jen Psaki made a stunning admission in a patently flippant way last week during a conversation with CNN's David Axelrod. The White House press secretary openly admitted that President Biden's handlers often tell him they prefer he not speak to reporters outside of controlled settings."
-    publishedDateTime: 2021-05-10T18:57:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/10/jen_psaki_says_the_quiet_part_out_loud_about_joe_biden_542486.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/542871_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
-secured: "ujmJ3PRAg4W9OrCj/sGWN1RGASbQhj2LUhLaTONmLoT6Yb8032QKNWr52+Fj6PXMLp854HVCEuONT03eVJPMn5TDAugNITaaCEwC4gPIUGU0T/8uHPNWjGdYq4CkV4I+yLX66W7zf2FYtBf+AvxsUv3r5jJGHXYIjqURMZfluH0ajnJEWFMGsLUbiVlARN9loeTq8L3dq4nr3HJ8dtSEfQ76Ga444eXj4Nfjgiu3AWaL1Lu5Ou56JK7hz/296RD/PmcEkLISHLiewIUGYmB1zXcW8AfK4i1P4uEMDWbRnCtkfboDFRwxF5kMPu/54m9a1wSJXA/yb5lwCgOli2qLZZRhOBB9KEouFIFzVzlRWfc=;7nPMlD5eQTuVdIlPVOvalw=="
+secured: "i+OKs7X5NbRbbqpOqyZ8DPNeUrEmP7dVQzaytnp6UU21TjneB37H9ic4A2sgAwSmelcyY1P64779DtdVj/znqI4Ez+Z7yodXT085hcpulZu/R8SuGNzDhbA3atepdBwJw0g8oQUqWut2/4Kk2RV0QKChjIFCeboqj6YmuKZT6KbifAk/T5fWfMxMyPbDd7Cmy28Zdcnm4yZSiCunXtXsJUP9QfI0CiBMqKO2IcAqokZnxF3q9yU+k0eiNLJd+sMEGH4jYqBq4T8P6qQAqjyPNRqHIOpBXyUp31Qif7fCRNhcaEYFS+7+Q+K1aV4AdyPm6lMP9sEfVU9+ZKLGe9tTmltOlHWalB3foxbdpU6GMBU=;8kRYHmHK6PIKNxqy3jADPg=="
 ---
 

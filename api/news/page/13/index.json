@@ -2,6 +2,54 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-14-cnn-staffer-boasts-to-project-veritas-that-network-peddled-anti-trump-propaganda.md",
+      "title": "CNN staffer boasts to Project Veritas that network peddled anti-Trump ‘propaganda’",
+      "excerpt": "A CNN staffer admitted in a secretly recorded video that his network produced “propaganda” to oust former President Donald Trump during the 2020 presidential election — and",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/",
+      "originalUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-cnn-project-veritas-60.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/13/cnns-charlie-chester-says-network-peddled-anti-trump-propaganda/amp/",
+      "publishedDateTime": "2021-04-13T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-sen-ron-johnson-warns-biden-spending-blowout-is-irresponsible-could-bankrupt-nation.md",
       "title": "Sen. Ron Johnson warns Biden spending blowout is 'irresponsible,' could 'bankrupt nation'",
       "excerpt": "Sen. Ron Johnson, R-Wis., told \"The Story\" Tuesday that the Biden administration is \"mortgaging our children’s future\" by driving up debt to pay for a proposed infrastructure bill.",
@@ -1297,58 +1345,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-daunte-wright-killing-biden-calls-for-peace-and-calm-as-minneapolis-sets-curfew-live.md",
-      "title": "Daunte Wright killing: Biden calls for ‘peace and calm’ as Minneapolis sets curfew – live",
-      "excerpt": "The federal US government posted a March budget deficit of $660bn, a record high for the month, as direct payments to Americans under Joe Biden’s stimulus package were distributed, the treasury department said on Monday. The deficit for the first six ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates?page=with:block-6074bef58f088c820d864d7e",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates?page=with:block-6074bef58f088c820d864d7e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ad4a25e533ad6c9e7c2980bc6e5dbd216b437f03/0_445_6733_4042/master/6733.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8ac127df02353378cc3daf6f97ea30be",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates",
-      "publishedDateTime": "2021-04-12T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

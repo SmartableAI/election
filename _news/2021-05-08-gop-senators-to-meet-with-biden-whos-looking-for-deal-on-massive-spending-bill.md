@@ -175,6 +175,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Jen Psaki Says the Quiet Part Out Loud About Joe Biden"
+    excerpt: "Jen Psaki made a stunning admission in a patently flippant way last week during a conversation with CNN's David Axelrod. The White House press secretary openly admitted that President Biden's handlers often tell him they prefer he not speak to reporters outside of controlled settings."
+    publishedDateTime: 2021-05-10T18:57:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/10/jen_psaki_says_the_quiet_part_out_loud_about_joe_biden_542486.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/542871_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "oYpNoIREp5M3dPrKepdfF1JEEKV6iavMjbUeosTjmNSzlPnacLmBHzzdrOtLD75a3KZqKDkN1aHLE1nWfhyZPf2jVgN8EzAO5I6m9kxgfUlvaEfrl8DMejeIPjNpil5hv7ZoaVjfc/IDG0phPoPOwr0cVoWpSGqxvykJ2778xEZ7XBNAM4+/B5oU9kz5W3wa4U8YP9hAg2VLejslv0BiaiEw8u00rEjFE54g/meT7OudcyR3Qitn597QYpsovLt0qG2ZF8ctx5qy8AqOd+TWib1tTSdAYsFanTE9aMqHTZsUgHCh40OXBvBPN85SPgAiAhVbfB8H5rNqCcf+JzASLcrAeDuI8IwjD+i9BH+Be8E=;hS2cE6ZjuiUo08UmD8dGYg=="
 ---
