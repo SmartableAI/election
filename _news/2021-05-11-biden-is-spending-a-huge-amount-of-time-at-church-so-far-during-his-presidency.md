@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Fact Check-President Biden did not sign 96 executive orders in his first three months in office"
-excerpt: "In his first 100 days in office, President Joe Biden has not signed 96 executive orders. According to FederalRegister.gov, part of the United States National Archives, the Biden Administration had published 42 executive orders by April 27,"
-publishedDateTime: 2021-05-05T15:40:00Z
-originalUrl: "https://www.reuters.com/article/factcheck-biden-executive-orders-idUSL1N2MS24C"
-webUrl: "https://www.reuters.com/article/factcheck-biden-executive-orders-idUSL1N2MS24C"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MS24C"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MS24C"
+title: "Biden is spending a huge amount of time at church so far during his presidency"
+excerpt: "The second Catholic US president has attended church services at least 15 times since his inauguration. Observers say Biden appears at home there."
+publishedDateTime: 2021-05-11T08:01:00Z
+originalUrl: "https://www.businessinsider.com/biden-catholic-faith-church-comfort-controversy-communion-abortion-pope-francis-2021-5"
+webUrl: "https://www.businessinsider.com/biden-catholic-faith-church-comfort-controversy-communion-abortion-pope-francis-2021-5"
 type: article
-quality: 93
+quality: 101
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://i.insider.com/60999483342837001822c7f9?width=700"
+    width: 700
+    height: 525
+    isCached: true
 
 related:
   - title: "Caitlyn Jenner says election was not 'stolen,' calls Biden 'our president'"
@@ -89,20 +93,17 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden is spending a huge amount of time at church so far during his presidency"
-    excerpt: "The second Catholic US president has attended church services at least 15 times since his inauguration. Observers say Biden appears at home there."
-    publishedDateTime: 2021-05-11T08:01:00Z
-    webUrl: "https://www.businessinsider.com/biden-catholic-faith-church-comfort-controversy-communion-abortion-pope-francis-2021-5"
+  - title: "Fact Check-President Biden did not sign 96 executive orders in his first three months in office"
+    excerpt: "In his first 100 days in office, President Joe Biden has not signed 96 executive orders. According to FederalRegister.gov, part of the United States National Archives, the Biden Administration had published 42 executive orders by April 27,"
+    publishedDateTime: 2021-05-05T15:40:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-biden-executive-orders-idUSL1N2MS24C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MS24C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MS24C"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://i.insider.com/60999483342837001822c7f9?width=700"
-        width: 700
-        height: 525
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 93
   - title: "Here's what Kentucky would get from President Joe Biden's American Families Plan"
     excerpt: "The White House outlined how many Kentucky children and workers would benefit from the $1.8 trillion plan, which includes universal preschool."
     publishedDateTime: 2021-05-07T09:26:00Z
@@ -168,6 +169,6 @@ related:
         height: 478
         isCached: true
 
-secured: "H9269eay2UshVPwtgxztiZ3lQw3yjt+ufmBdQqacC0aMGGGpBZdhgHXNRU8x7HkpyvO46qiE1BS8S7GH1Bo6cYaEvHwy5f1vlDT04Q0k+orEyNogZifKxQ5xr2W2kLHpHofHY7TIbI4E3qg4W7Fppo1RvYSWsU6mRsw523bNbFgZGKlcBp5PWwrpgnKx4lurI29YfNOYT4MYri4aPWf9qcs+k6B6rk/+5hT+evrl5QWzDe5jlALjcTAvhWpRu4dw5M/D1ZcbBSrwOjjdslVQumtHStlMUzUb+fHBS6rmiqxpIg/hcI0VuJ/WDq9nea56LZ2mvTaDtQY+thCWnC9Ihex/XaQMduMc81ABQyDxQaE=;9fQHDwEfSbZb6g8k4iuqpA=="
+secured: "1aFCZuq6jbFpgw11jbFpynEQXzT0y9XMAfsuDZr3IrjkFlWQmP0HUkuXt3ClXULCerOtgPRAvE4QcSv1WsanlThiMU4JALkCHMnVlw4+dvVmj8YBoZEUHUg6q2/fRmvvH1fsTqC5BI4baIs7QAUy/id4tqHSQ029AAHXlmDscub4VmmaG/g4QERxX1X1WeauncrAps28VsyRaX+CP9ATmvucXKefoh8c5zTqqXKZFqmPqCrDHE0E+7exinFY+gVkvGgnLkFTb9G0RVxipsu1CuzdnyC/aUFezbgl+zInNwf9htFsvtFdvNO9ty390hhXFMF3oOejBG7yadW17Nue1TTnLHh8yaFgWjfd2vVoTiM=;83XV1nnsV373yihyLGhZPw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-ele
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp"
 type: article
 quality: 138
-heat: 298
+heat: 318
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/04/23/USAT/599ffb1d-e4c0-4d02-aaab-ce73404b92ef-DrB_long.jpg?auto=webp&crop=2024,1139,x795,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden is spending a huge amount of time at church so far during his presidency"
+    excerpt: "The second Catholic US president has attended church services at least 15 times since his inauguration. Observers say Biden appears at home there."
+    publishedDateTime: 2021-05-11T08:01:00Z
+    webUrl: "https://www.businessinsider.com/biden-catholic-faith-church-comfort-controversy-communion-abortion-pope-francis-2021-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/60999483342837001822c7f9?width=700"
+        width: 700
+        height: 525
         isCached: true
   - title: "Fact Check-President Biden did not sign 96 executive orders in his first three months in office"
     excerpt: "In his first 100 days in office, President Joe Biden has not signed 96 executive orders. According to FederalRegister.gov, part of the United States National Archives, the Biden Administration had published 42 executive orders by April 27,"
