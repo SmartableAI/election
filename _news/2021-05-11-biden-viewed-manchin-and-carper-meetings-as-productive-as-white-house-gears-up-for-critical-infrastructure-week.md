@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to meet with key moderate Democratic Sen. Kyrsten Sinema on infrastructure on Tuesday "
+    excerpt: "President Joe Biden will meet with Arizona Democratic Sen. Kyrsten Sinema at the White House on Tuesday afternoon to talk about his infrastructure proposal, White House official said.\n    \n"
+    publishedDateTime: 2021-05-11T18:08:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-_eCqg44Jhs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/biden-sinema-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/biden-sinema-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210511135741-sen-kyrsten-sinema-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to host two crucial Democratic senators Monday to talk infrastructure at start of critical week"
     excerpt: "President Joe Biden on Monday will host two critical Democratic senators for individual meetings at the White House as he enters a crucial week for his legislative agenda.\n    \n"
     publishedDateTime: 2021-05-10T15:14:01Z

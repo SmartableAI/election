@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden approach to North Korea nuclear policy 'not aimed at hostility': White House"
-excerpt: "National Security Advisor Jake Sullivan responded to rebukes from Pyongyang by affirming that President Biden's approach toward North Korea is \"not aimed at hostility\" but rather at \"complete denuclearization.\""
-publishedDateTime: 2021-05-02T18:10:31Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/COSBV0_N108/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/COSBV0_N108/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility"
-ampWebUrl: "https://www.foxnews.com/politics/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility.amp"
+title: "White House walks back Biden's false claim about Fed chairs supporting spending plan"
+excerpt: "The White House walked back President Biden's false claim about previous chairs of the Federal Reserve backing his $2.3 trillion spending plan."
+publishedDateTime: 2021-05-11T18:40:27Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QSIlt0boY5o/biden-white-house-american-jobs-act-fact-check"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QSIlt0boY5o/biden-white-house-american-jobs-act-fact-check"
+ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-american-jobs-act-fact-check.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-american-jobs-act-fact-check.amp"
 type: article
-quality: 169
+quality: 168
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/679470c3-71ab-4645-95b6-0284d6ec471a/4d0a4cae-30f9-4fe2-b547-3c557ce52f5a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -95,21 +95,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "White House walks back Biden's false claim about Fed chairs supporting spending plan"
-    excerpt: "The White House walked back President Biden's false claim about previous chairs of the Federal Reserve backing his $2.3 trillion spending plan."
-    publishedDateTime: 2021-05-11T18:40:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QSIlt0boY5o/biden-white-house-american-jobs-act-fact-check"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-american-jobs-act-fact-check.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-american-jobs-act-fact-check.amp"
+  - title: "Biden approach to North Korea nuclear policy 'not aimed at hostility': White House"
+    excerpt: "National Security Advisor Jake Sullivan responded to rebukes from Pyongyang by affirming that President Biden's approach toward North Korea is \"not aimed at hostility\" but rather at \"complete denuclearization.\""
+    publishedDateTime: 2021-05-02T18:10:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/COSBV0_N108/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/679470c3-71ab-4645-95b6-0284d6ec471a/4d0a4cae-30f9-4fe2-b547-3c557ce52f5a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Ron Klain, Biden's powerful chief of staff, leads White House rife with dark money ties"
     excerpt: "President Biden has padded his administration with a number of individuals with strong ties to progressive dark money groups, including his chief of staff Ron Klain, which could provide a pipeline for the groups to push their agendas to the White House."
@@ -302,6 +302,6 @@ related:
         height: 500
         isCached: true
 
-secured: "V2v6m9AuHAwYFyfHvZP4gr71TfL5HZHufiov75JlFbd9bwBYjouL79ftMXGGdtQ+nXBU3JjqGa/arPVqsiH5ZXNaXnt5PIgzbI2PbvpIQf/T2C9XEPtgqoULT+L9wrqV7ISD6V8Xg9uoQj9P/IFqBVuZwejjButzsqwWv1189R3mtpNP9rUsLrwLemw1XwFAfXpJyaOIeIOenScdnO+TVUcPtH0c0Des2eVLTTagJW66vLQYZgLC8gKQOnbKbxfvIXFP+K06Z02EIdCWwZxMWzGzYdoziPQ/7YeaYCAuxqvbrJAbp36t8I7/AWs1ENi3n75ejvKcMnzHP+HP2tUQFTL5XU8snBd+Z12+gCwA230=;7TqgX4iLkFyga3zRjSq3Ag=="
+secured: "5Q46aJMXGyERh9xT1F8UiRpBiII6DVhmCl2DxRhIS9+7fPQ/IBQEoJdg0u+HZzoFAOaolR6R4/zIEU8Ie66hw2yzUN1jSRUrZwYG1MexqCXKeu93AKmGc8QUBf1MbGBQLTKz/AQs3MMX1HJUqvL0LgIMZnr7klj5emlAkz6CKNlUvVc4YO63ZjKfmZx1nQWv1p+A4CmtQwrx5blrGZIPSjPHEhGvzvFNRzb2MzYAHrfg/3LU40poPkyw62ytjZX3f4pdVmzAhDGnp/AzWr7d5U2GnGzdG+qPDjukITwZNNhIVOK60trX1yfl5bbYeot932YpY3o+Cscfdi6vS5TZ4KXdspuyFzez5Q7oB7xrHcI=;BcOFCRRJHfi7XeTLcGtFMw=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden approach to North Korea nuclear policy 'not aimed at hostility': White House"
-excerpt: "National Security Advisor Jake Sullivan responded to rebukes from Pyongyang by affirming that President Biden's approach toward North Korea is \"not aimed at hostility\" but rather at \"complete denuclearization.\""
-publishedDateTime: 2021-05-02T18:10:31Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/COSBV0_N108/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/COSBV0_N108/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility"
-ampWebUrl: "https://www.foxnews.com/politics/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility.amp"
+title: "20 governors urge Biden to act on border crisis, hit 'unacceptable' plans to house migrants in states"
+excerpt: "Twenty Republican governors are urging the Biden administration to take further action on the crisis at the southern border as the question of where to house the surge in unaccompanied children is impacting states -- with the governors describing the situation as \"unacceptable and unsustainable.\""
+publishedDateTime: 2021-05-11T19:03:31Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2AL0WRpwfuU/20-governors-biden-border-crisis-unacceptable-migrants-states"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2AL0WRpwfuU/20-governors-biden-border-crisis-unacceptable-migrants-states"
+ampWebUrl: "https://www.foxnews.com/politics/20-governors-biden-border-crisis-unacceptable-migrants-states.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/20-governors-biden-border-crisis-unacceptable-migrants-states.amp"
 type: article
-quality: 169
+quality: 160
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d915b6aa-8bc4-4e2f-9c7d-919463959c2b/0e6aff28-764f-44b4-99ca-463103923738/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -92,6 +92,22 @@ related:
     quality: 170
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden approach to North Korea nuclear policy 'not aimed at hostility': White House"
+    excerpt: "National Security Advisor Jake Sullivan responded to rebukes from Pyongyang by affirming that President Biden's approach toward North Korea is \"not aimed at hostility\" but rather at \"complete denuclearization.\""
+    publishedDateTime: 2021-05-02T18:10:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/COSBV0_N108/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -191,22 +207,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "20 governors urge Biden to act on border crisis, hit 'unacceptable' plans to house migrants in states"
-    excerpt: "Twenty Republican governors are urging the Biden administration to take further action on the crisis at the southern border as the question of where to house the surge in unaccompanied children is impacting states -- with the governors describing the situation as \"unacceptable and unsustainable.\""
-    publishedDateTime: 2021-05-11T19:03:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2AL0WRpwfuU/20-governors-biden-border-crisis-unacceptable-migrants-states"
-    ampWebUrl: "https://www.foxnews.com/politics/20-governors-biden-border-crisis-unacceptable-migrants-states.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/20-governors-biden-border-crisis-unacceptable-migrants-states.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d915b6aa-8bc4-4e2f-9c7d-919463959c2b/0e6aff28-764f-44b4-99ca-463103923738/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "White House COVID-19 czar pressed on why Biden still wears mask indoors around other vaccinated people"
     excerpt: "White House COVID-19 response coordinator Jeff Zients was asked Sunday to explain why President Biden still wears a mask during press briefings despite being fully vaccinated and standing in a room with fully vaccinated journalists."
     publishedDateTime: 2021-05-09T16:50:03Z
@@ -302,6 +302,6 @@ related:
         height: 500
         isCached: true
 
-secured: "V2v6m9AuHAwYFyfHvZP4gr71TfL5HZHufiov75JlFbd9bwBYjouL79ftMXGGdtQ+nXBU3JjqGa/arPVqsiH5ZXNaXnt5PIgzbI2PbvpIQf/T2C9XEPtgqoULT+L9wrqV7ISD6V8Xg9uoQj9P/IFqBVuZwejjButzsqwWv1189R3mtpNP9rUsLrwLemw1XwFAfXpJyaOIeIOenScdnO+TVUcPtH0c0Des2eVLTTagJW66vLQYZgLC8gKQOnbKbxfvIXFP+K06Z02EIdCWwZxMWzGzYdoziPQ/7YeaYCAuxqvbrJAbp36t8I7/AWs1ENi3n75ejvKcMnzHP+HP2tUQFTL5XU8snBd+Z12+gCwA230=;7TqgX4iLkFyga3zRjSq3Ag=="
+secured: "DH/JYuxnAcyHBZqZDix5qGLpcIpZ8lIDFxbc9N1xkFvNG2nSLpPW7CAKabGHTumE+6r0MRxsTWn8sTSv8jv0c7h4EHGMor/jiTQ6JFZOlAol/i67clHI25FfshwsWyrF9Q6VAmX11yKroJxTLUHgrKFbt7m/GbsX6gY4UZ4cMuovW1ZFCq+lIwbB6+Xrj303eaFCnf0wIJldHGMVwDnpFshLQMCnP8lds6Scg2dB5nSVdbBpffMvRBs1VseceI0NBwiavaEY9vl3MPQjJH+klH/9YHldDcrceP7Ol7jaOMLcv8b4zdE7Ujx0k0mnHvrEUXiO5PCLFo/dX09G2XWCh2h6lzNLB3QXTolh2tyUgnA=;OKl64l13G+bMDaeTI1Z2NA=="
 ---
 

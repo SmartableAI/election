@@ -279,6 +279,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "‘Biden is the president’ has become the GOP’s base-pleasing cop-out"
+    excerpt: "Saying that Joe Biden is president, to sidestep the lack of evidence of fraud, seems a lot more clever than it is."
+    publishedDateTime: 2021-05-11T18:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/05/11/biden-is-president-has-become-gops-base-pleasing-cop-out/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/11/biden-is-president-has-become-gops-base-pleasing-cop-out/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/11/biden-is-president-has-become-gops-base-pleasing-cop-out/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LN75SESQ6EI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden tells US governors ‘we got more to do’ to encourage vaccination – live"
+    excerpt: "Biden outlines steps officials are taking to get the message on vaccines across – follow the latest politics news live"
+    publishedDateTime: 2021-05-11T17:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/339f47bf083cf1180ba65acf917fe15c14d930ba/0_56_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8ee96b7bcb2d4d86c2882828e52611f6"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Cheney's views on Trump puts her GOP post in peril"
     excerpt: "No. 3 House Republican Liz Cheney was clinging to her post Wednesday as party leaders lined up behind an heir apparent, signaling that fallout over her clashes with former President Donald Trump was becoming too much for her to overcome."
     publishedDateTime: 2021-05-06T01:45:00Z

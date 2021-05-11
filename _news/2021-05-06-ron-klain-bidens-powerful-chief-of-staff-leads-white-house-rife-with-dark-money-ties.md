@@ -111,6 +111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "White House walks back Biden's false claim about Fed chairs supporting spending plan"
+    excerpt: "The White House walked back President Biden's false claim about previous chairs of the Federal Reserve backing his $2.3 trillion spending plan."
+    publishedDateTime: 2021-05-11T18:40:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QSIlt0boY5o/biden-white-house-american-jobs-act-fact-check"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-american-jobs-act-fact-check.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-american-jobs-act-fact-check.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/679470c3-71ab-4645-95b6-0284d6ec471a/4d0a4cae-30f9-4fe2-b547-3c557ce52f5a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden admin rejects that extended unemployment benefits to blame for dismal job report"
     excerpt: "U.S. Secretary of Commerce Gina Raimondo said on Sunday that the dismal April jobs report shows the economy has a \"long way to go\" as it recovers from the coronavirus pandemic amid criticism that extended unemployment benefits are lowering the incentive for Americans to get back to work."
     publishedDateTime: 2021-05-09T18:09:45Z
@@ -175,19 +191,19 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Memorial Day: Biden faces growing pressure to let veterans use Pentagon parking lot for event"
-    excerpt: "Rep. Brian Mast, R-Fla., and more than 30 other Republican members of Congress are pressuring President Biden to override the Pentagon's decision to block a veterans group from staging a Memorial Day motorcycle rally in the Pentagon parking lot.."
-    publishedDateTime: 2021-05-11T10:05:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bO-Eag3Zwsc/memorial-day-biden-pentagon-rolling-to-remember-brian-mast"
-    ampWebUrl: "https://www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast.amp"
+  - title: "20 governors urge Biden to act on border crisis, hit 'unacceptable' plans to house migrants in states"
+    excerpt: "Twenty Republican governors are urging the Biden administration to take further action on the crisis at the southern border as the question of where to house the surge in unaccompanied children is impacting states -- with the governors describing the situation as \"unacceptable and unsustainable.\""
+    publishedDateTime: 2021-05-11T19:03:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2AL0WRpwfuU/20-governors-biden-border-crisis-unacceptable-migrants-states"
+    ampWebUrl: "https://www.foxnews.com/politics/20-governors-biden-border-crisis-unacceptable-migrants-states.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/20-governors-biden-border-crisis-unacceptable-migrants-states.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 160
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd13b987-cc4d-4d34-8e55-2c8c4876c6b6/b48fab23-52b1-4171-b8b8-768569b6af89/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d915b6aa-8bc4-4e2f-9c7d-919463959c2b/0e6aff28-764f-44b4-99ca-463103923738/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -206,6 +222,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Memorial Day: Biden faces growing pressure to let veterans use Pentagon parking lot for event"
+    excerpt: "Fla., and more than 30 other Republican members of Congress are pressuring President Biden to override the Pentagon's decision to block a veterans group from staging a Memorial Day motorcycle rally in the Pentagon parking lot."
+    publishedDateTime: 2021-05-11T10:10:00Z
+    webUrl: "https://www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast"
+    ampWebUrl: "https://www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd13b987-cc4d-4d34-8e55-2c8c4876c6b6/b48fab23-52b1-4171-b8b8-768569b6af89/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "White House ally: Biden is 'most liberal president we've had' but 'public thinks he's a moderate'"
     excerpt: "A New York Magazine article Sunday quoted a figure \"close to the White House\" who said the Biden White House's tightly controlled media strategy has been successful in getting the administration portrayed as moderate when it's the \"most liberal\" one in history."

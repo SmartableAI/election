@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Memorial Day: Biden faces growing pressure to let veterans use Pentagon parking lot for event"
-excerpt: "Rep. Brian Mast, R-Fla., and more than 30 other Republican members of Congress are pressuring President Biden to override the Pentagon's decision to block a veterans group from staging a Memorial Day motorcycle rally in the Pentagon parking lot.."
-publishedDateTime: 2021-05-11T10:05:46Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bO-Eag3Zwsc/memorial-day-biden-pentagon-rolling-to-remember-brian-mast"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bO-Eag3Zwsc/memorial-day-biden-pentagon-rolling-to-remember-brian-mast"
+excerpt: "Fla., and more than 30 other Republican members of Congress are pressuring President Biden to override the Pentagon's decision to block a veterans group from staging a Memorial Day motorcycle rally in the Pentagon parking lot."
+publishedDateTime: 2021-05-11T10:10:00Z
+originalUrl: "https://www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast"
+webUrl: "https://www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast"
 ampWebUrl: "https://www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast.amp"
 type: article
-quality: 164
+quality: 124
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -111,6 +112,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "White House walks back Biden's false claim about Fed chairs supporting spending plan"
+    excerpt: "The White House walked back President Biden's false claim about previous chairs of the Federal Reserve backing his $2.3 trillion spending plan."
+    publishedDateTime: 2021-05-11T18:40:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QSIlt0boY5o/biden-white-house-american-jobs-act-fact-check"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-american-jobs-act-fact-check.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-american-jobs-act-fact-check.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/679470c3-71ab-4645-95b6-0284d6ec471a/4d0a4cae-30f9-4fe2-b547-3c557ce52f5a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Ron Klain, Biden's powerful chief of staff, leads White House rife with dark money ties"
     excerpt: "President Biden has padded his administration with a number of individuals with strong ties to progressive dark money groups, including his chief of staff Ron Klain, which could provide a pipeline for the groups to push their agendas to the White House."
     publishedDateTime: 2021-05-06T20:19:47Z
@@ -188,6 +205,22 @@ related:
     quality: 164
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7fb6deb-3930-4b52-95ac-1a1c5092046a/97c6d185-2637-40d8-844f-5074ff0caba9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "20 governors urge Biden to act on border crisis, hit 'unacceptable' plans to house migrants in states"
+    excerpt: "Twenty Republican governors are urging the Biden administration to take further action on the crisis at the southern border as the question of where to house the surge in unaccompanied children is impacting states -- with the governors describing the situation as \"unacceptable and unsustainable.\""
+    publishedDateTime: 2021-05-11T19:03:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2AL0WRpwfuU/20-governors-biden-border-crisis-unacceptable-migrants-states"
+    ampWebUrl: "https://www.foxnews.com/politics/20-governors-biden-border-crisis-unacceptable-migrants-states.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/20-governors-biden-border-crisis-unacceptable-migrants-states.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d915b6aa-8bc4-4e2f-9c7d-919463959c2b/0e6aff28-764f-44b4-99ca-463103923738/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -270,6 +303,6 @@ related:
         height: 500
         isCached: true
 
-secured: "YQHTlWHePzEL3fqvyLqMKuj6Yen4QUdkUEsT8QcaYfkDRsszZyLfWqmzFLi8lxOzUaQ6ro7bF6pk0j0AKcdWfFAsZLfTVSB2zh4y8deUi5jlfvNCG1kQDa38LbGWV5Y0y1+aH9avsrdLkuktTB7k4G0f1dSWuKKgXrkGQ5XHjocS1eWO5LQzzI2u2A2DS51jUxZwqPPcwGpl3xzWFxG9AEy0IeAj6pXAbrHYhQePQIPAI9aB3gKjgPm1pEiTIV4QAffwrB/b7ukIL/LpNIFXYfJARdOZXqRCPtA9gxxZb6/e9EodisjckakE76e+7a8iii9wWrGlx5b3NhvKumv9yy7jrII39VPtxU76WG/FgzI=;tobnt0ennxjwk4lBD1wiBQ=="
+secured: "mrCpAyrxR+B4qq78sLw39knthQqTIxavhjhffsouXJz+KPjp5ZK1Y2JqFxphJnvfJIAYzrvci6hZx/yL0F37vPRLSoGFVGQ2T/xrd0H1yyNawSpe8b6LYtxrK08Ornh7v1h00w+/WmS1xtjmw8aKyiazsPiGJGYfcZzGzctA27BstAY6wWB8tQTRAUydzDEEbHXNDkAi79Lo1E2FTsHSSwfhgcw/Qp2eKeZJHxYRMimOsIkM3AzWSauFZMbx3VhNySo8z0OFSOJn1r9NWyOhRsB8A1QkB0gcRvSuuvk0+6HGONcOFRMaHPNe4iBD/AC/VqWWvnXVVll1T0mu+hnH7NShEY4EEAllLEbXK5pSsm4=;VIz50GL4TxTpgAV+ml/M8w=="
 ---
 

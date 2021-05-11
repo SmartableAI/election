@@ -1,31 +1,33 @@
 ---
 category: news
-title: "Liz Cheney Under Attack From GOP For Standing Up To Donald Trump"
-excerpt: "Wyo., may find herself ousted from her position as the third-highest Republican as her strong stance against Donald Trump nets her few allies and increasing hostility from her caucus. Removing her from her post would require a conference vote,"
-publishedDateTime: 2021-05-04T21:37:00Z
-originalUrl: "https://www.ibtimes.com/liz-cheney-under-attack-gop-standing-donald-trump-3193020"
-webUrl: "https://www.ibtimes.com/liz-cheney-under-attack-gop-standing-donald-trump-3193020"
+title: "‘Biden is the president’ has become the GOP’s base-pleasing cop-out"
+excerpt: "Saying that Joe Biden is president, to sidestep the lack of evidence of fraud, seems a lot more clever than it is."
+publishedDateTime: 2021-05-11T18:31:00Z
+originalUrl: "https://www.washingtonpost.com/politics/2021/05/11/biden-is-president-has-become-gops-base-pleasing-cop-out/"
+webUrl: "https://www.washingtonpost.com/politics/2021/05/11/biden-is-president-has-become-gops-base-pleasing-cop-out/"
+ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/11/biden-is-president-has-become-gops-base-pleasing-cop-out/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/11/biden-is-president-has-become-gops-base-pleasing-cop-out/?outputType=amp"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/liz-cheney.jpg"
-    width: 1200
-    height: 843
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LN75SESQ6EI6XIPV7WXSRT6KSA.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -285,22 +287,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "‘Biden is the president’ has become the GOP’s base-pleasing cop-out"
-    excerpt: "Saying that Joe Biden is president, to sidestep the lack of evidence of fraud, seems a lot more clever than it is."
-    publishedDateTime: 2021-05-11T18:31:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/05/11/biden-is-president-has-become-gops-base-pleasing-cop-out/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/11/biden-is-president-has-become-gops-base-pleasing-cop-out/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/11/biden-is-president-has-become-gops-base-pleasing-cop-out/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LN75SESQ6EI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Biden tells US governors ‘we got more to do’ to encourage vaccination – live"
     excerpt: "Biden outlines steps officials are taking to get the message on vaccines across – follow the latest politics news live"
     publishedDateTime: 2021-05-11T17:40:00Z
@@ -377,6 +363,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Liz Cheney Under Attack From GOP For Standing Up To Donald Trump"
+    excerpt: "Wyo., may find herself ousted from her position as the third-highest Republican as her strong stance against Donald Trump nets her few allies and increasing hostility from her caucus. Removing her from her post would require a conference vote,"
+    publishedDateTime: 2021-05-04T21:37:00Z
+    webUrl: "https://www.ibtimes.com/liz-cheney-under-attack-gop-standing-donald-trump-3193020"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/liz-cheney.jpg"
+        width: 1200
+        height: 843
+        isCached: true
   - title: "President Joe Biden Meeting for Jobs Report"
     excerpt: "Secretary of Transportation Pete Buttigieg, Energy Secretary Jennifer Granholm (2nd L), Housing and Urban Development Secretary Marcia Fudge (C), and Commerce Secretary Gina Raimondo (R), and US Labor Secretary Martin Walsh speak to the media outside of the West Wing of the White House in Washington,"
     publishedDateTime: 2021-05-08T00:20:00Z
@@ -410,6 +410,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "JwC7E4s/Rgo2z8TVGj6ylv2Lhf91LO13CDX//D0E9oT7yhHPptVw3aiTVK/LEVOvOya94t5atdQIwTPw14kk7LAm0aQw4yAB8/0934DTbghN9zc4zCgGPZiL/92riKNjMNNanOCXwhXF7bjzKCKiLbGvB84cvHYSnV5sBFB087zXQyoWFyeyuTdItYu7Pv1T7X49D5JSVyyblrUIH/RKHcA0zfGE2GDbTnOyRWZYPY9jV8HhLKudFboup64YPY0D6nAQRNlW853Ko+UIrzTdz1aOuEccY7IF1OO8tJeu6/wupZQAbKI7kvB6YS/6wOELa/lX6Fe9fZRSjo265HhoSuZsBzmNj5SoZi3sTQbLYPHIxTWCacICXeYrtvJBaVb1sG/VSXqt0DtJ1kbmJonJwgYhl3XsViDjrDuhsJjqn7qpIZUwoHLxBudtpA6CkxMr3bihfP2nXK9PeqqFCGaJLoJI63PjJaEtu/EBVyAyBF/8MRq7KTk/LqISB9KusDlhbaM3rHNZRhaGrWU/JCiPoA==;PRDBGKkt5oO+z9tAlUPlcA=="
+secured: "wBWgiuawln8WeMpK4bP1D6TRqM4G/tCi/M9WEDPMuy29H127VmdFmUFmXKtzzaaWYxoOWdrXfU/4WyB0M9wQQRRtsArDOYR83feKx8i4SPfuaWMoxD8CKQkF3YMKQ1phWgQrs3Qv70bem07XyPI/vLmq5iZqtTXpLbQMzZrOk/NsVVXCsVVuJJfJcgjVzWdf0L4XuKZWmhJng86RJRwjOJ8jyTlIrp0GtD7WRNm9JFR902zQF+rLcm4noVRU+z7aVVB95fOsmnnaSZFQK38zT6D6r1CCGoWIXDyiPZSNehztPwGKCd8EHG5Wff2Vr0Kx1Ddfy4xix09rG3PdtNUEPEqUWiFW971eRnoOMTk7QGU=;DU+Dl6LfCp5uoZM9XU47nA=="
 ---
 

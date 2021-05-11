@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden to criticize tax cuts for wealthy while pushing middle-class agenda in Louisiana"
-excerpt: "President Joe Biden on Thursday will make the case that his sweeping economic proposals are better positioned to bolster the middle class than tax cuts for the wealthy and corporations, according to a White House official. \n    \n"
-publishedDateTime: 2021-05-06T13:31:28Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
+title: "Biden to meet with key moderate Democratic Sen. Kyrsten Sinema on infrastructure on Tuesday "
+excerpt: "President Joe Biden will meet with Arizona Democratic Sen. Kyrsten Sinema at the White House on Tuesday afternoon to talk about his infrastructure proposal, White House official said.\n    \n"
+publishedDateTime: 2021-05-11T18:08:36Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-_eCqg44Jhs/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-_eCqg44Jhs/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/biden-sinema-meeting/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/biden-sinema-meeting/index.html"
 type: article
-quality: 167
+quality: 164
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210511135741-sen-kyrsten-sinema-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to criticize tax cuts for wealthy while pushing middle-class agenda in Louisiana"
+    excerpt: "President Joe Biden on Thursday will make the case that his sweeping economic proposals are better positioned to bolster the middle class than tax cuts for the wealthy and corporations, according to a White House official. \n    \n"
+    publishedDateTime: 2021-05-06T13:31:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "1 million people sign up for Affordable Care Act coverage after Biden reopens exchange"
     excerpt: "One million people have signed up for Affordable Care Act coverage on the federal exchange during the special enrollment period that President Joe Biden launched in mid-February, the administration announced Tuesday.\n    \n"
     publishedDateTime: 2021-05-11T09:08:12Z
@@ -92,22 +108,6 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180705105817-obamacare-crowd-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to meet with key moderate Democratic Sen. Kyrsten Sinema on infrastructure on Tuesday "
-    excerpt: "President Joe Biden will meet with Arizona Democratic Sen. Kyrsten Sinema at the White House on Tuesday afternoon to talk about his infrastructure proposal, White House official said.\n    \n"
-    publishedDateTime: 2021-05-11T18:08:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-_eCqg44Jhs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/biden-sinema-meeting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/biden-sinema-meeting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210511135741-sen-kyrsten-sinema-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -254,6 +254,6 @@ related:
         height: 773
         isCached: true
 
-secured: "vx8utuZpTwLuSFSXhCN0rheTvvcHarsnMLCInE8EyuJEViGArg1FR5PpChSev/ryTuZx1FkefL9cOFCSHaRjqYPlLQG/rVCUwQAeb7jVHohkTBTX9gylAiSs9kvXF+gGAHkwMpT6jz4F7xCx2DVbCt0O1ScKClhqULD5Vggaum2zL/NEvlQwLeeyFudkVjVGqSM+0KKpFR2mN+eLndGjDJaBFj2nsqbHpcsmOSbyxSPpWGqjb3R+H5meEOAo8omCAxJ53/78SulTLFnv58vtwhRnx96umNqS/JtqRYbqe4OoyedSMXqxREUhOFFVCmh+UGtDEP4WGHt00/4TZ9+93+IIdUgHhmr78P+rH2y5mUk=;6OVF4aspYXEsYVjF6pE5ig=="
+secured: "Dtzwnbka2OqIcvx28PS3p3lBFOtS1waifua9kOSraeLjTjHXU5dQbGzH1RUCxZ/aCINbAEGKYAy7cWTInu7sKDhB+wMyCCE+09iB0EffxeXU/alkDhpJvtsL31pCznHC9FWpulazUae1MJOggalEMyKyr4RM4DTu5D0UPf8t1rMCcW+0s+gAiW/noRtUjUQE0rwZ83mOMirSqOFNVJBvJApPnwriptixVzYBGcrqK/0/p7Q6L9JuWuuyLUhSx0Bdn5upeFPsbf1k+MT57C8ikxnBGoAP3WDBw58n6LjFYx5DV5PBl0t+/zbhatYZX6037NOuYHkX4GZ+y8XFW5KMCOM8eP88nYXRwDpUhLiuHi8=;wwfuRhhEWOdj8xNBdKhAOg=="
 ---
 
