@@ -1,22 +1,22 @@
 ---
 category: news
 title: "US restores transgender health protections denied by Trump"
-excerpt: "The Biden administration says the government will protect gay and transgender people against sex discrimination in health care"
-publishedDateTime: 2021-05-10T18:20:00Z
-originalUrl: "https://www.washingtonpost.com/politics/reversing-trump-us-restores-transgender-health-protections/2021/05/10/b632e296-b18b-11eb-bc96-fdf55de43bef_story.html"
-webUrl: "https://www.washingtonpost.com/politics/reversing-trump-us-restores-transgender-health-protections/2021/05/10/b632e296-b18b-11eb-bc96-fdf55de43bef_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/reversing-trump-us-restores-transgender-health-protections/2021/05/10/b632e296-b18b-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/reversing-trump-us-restores-transgender-health-protections/2021/05/10/b632e296-b18b-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+excerpt: "The Biden administration says the government will protect gay and transgender people against sex discrimination in health care, reversing a Trump-era policy"
+publishedDateTime: 2021-05-10T20:36:00Z
+originalUrl: "https://abcnews.go.com/Lifestyle/wireStory/reversing-trump-us-restores-transgender-health-protections-77599237"
+webUrl: "https://abcnews.go.com/Lifestyle/wireStory/reversing-trump-us-restores-transgender-health-protections-77599237"
+ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/reversing-trump-us-restores-transgender-health-protections-77599237"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/reversing-trump-us-restores-transgender-health-protections-77599237"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TH3KWNVRRII6XPEW7X2V3ZB354.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/US/210510_vod_OnLocation_v2.00_00_07_30.Still001_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -2013,6 +2013,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "4sKavrPsI5CwWvjeyQvJxVzO7+XnLLzcksw2HmYXALLlDSYncpTIFB46NJnwJ244yMl/99JoOa8lesVaopcMG8Jq4wr0xbY6bToOABBFQon4p7L5xPo7LGiI20JPx39OTedpYOnESMrDRNOQj1tdEf8XHl5oxCJm5JBttdGob0Fl5zgUuS/U4dZtCZPQ6qQ54N7o1HtpDyM7awMxH/Go1FIlyustLU5VGC+r8pYlOuLozdYBMnjqLDEHDQnUNue4JmxMPbpqCddxBG0to+V4hxg47OsUtIdzviEvu//kOiLJQz3bvaapIy3QYqGvKjJZ7rof3m1mv3pbcN8+12CC6qOnH7GQ/PgCK6yzn4+JTYOM/1bU6ZLpAlmnZpXtHm46PAKPgFiSFu2X9OVKDlLz4gjhmgi9iBrQllSGU+C+q/mNvEl09h4Hco9RP54HGy3G7zZxryKfDeff+ZFzl8OSx3Povg6QV7/34d+3glZ4ZKkd+rV8Obhx0NrZ9b/ghjClljgTLN6n7X8D07LUUFG7Ng==;cCkUqJH6qYWqtyYmfg2bRg=="
+secured: "MBHDY61M1SzODM68CLKqr0LRyM/EylRLcgcC0jkR/k+Lepf7Oeks4LiJWi6XWWNEQjCye9IlAQVGLTxos1/dMOMtomQTWDQf4CC3k4u+kPisCJQhp2vnD1PD6c1c7Q1L66jky9IUL0MKxOfVdt66BSBDjWKRZ8lpHUMK1U4Fvs3dXdJ2nBSG/ZbWfbo9a0stWbr+LAazb5Mjuth4mERVaZpZnDmCqRkP7c+WyiDUG7sijyoXII10jLK834L7CyZP7D4GQCo32ZHkJrqZAyUo1H5dd3eWKlz6vCdEf4LhG9t7yB/bl3tcwR/iAmrP7CuiMCcfhUEwUpJ9adV8SREL5U0sNmchQGcl1wVYD/Xipl4=;WLJKRU4O/3wE4UwBt1PjvA=="
 ---
 

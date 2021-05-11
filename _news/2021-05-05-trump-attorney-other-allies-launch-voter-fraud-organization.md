@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Caitlyn Jenner didn't vote for Trump in 2020 and skipped the election to play golf"
+    excerpt: "While former President Donald Trump continues to spread falsehoods about the 2020 election, California recall candidate Caitlyn Jenner told CNN's Dana Bash in a new interview that she does not believe the election was \"stolen,\" but argued there needs to be \"integrity\" in the US election system.\n    \n"
+    publishedDateTime: 2021-05-11T13:23:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9OLmNDTnnZ4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/caitlyn-jenner-dana-bash-interview/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/caitlyn-jenner-dana-bash-interview/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210509093841-caitlyn-jenner-immigration-path-to-citizenship-bash-intv-sot-vpx-00000000-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Homeland Security reverses Trump-era DNA collection plan for immigration vetting "
     excerpt: "The Department of Homeland Security on Friday withdrew Trump-era plans to vastly expand the collection of biometric data, including DNA samples, which would have been used for immigration purposes such as verifying family relationships.\n    \n"
     publishedDateTime: 2021-05-07T16:14:22Z

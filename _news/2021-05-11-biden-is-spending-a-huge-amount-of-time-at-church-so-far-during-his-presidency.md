@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-11T08:01:00Z
 originalUrl: "https://www.businessinsider.com/biden-catholic-faith-church-comfort-controversy-communion-abortion-pope-francis-2021-5"
 webUrl: "https://www.businessinsider.com/biden-catholic-faith-church-comfort-controversy-communion-abortion-pope-francis-2021-5"
 type: article
-quality: 101
+quality: 111
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://i.insider.com/60999483342837001822c7f9?width=700"

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Homeland Security reverses Trump-era DNA collection plan for immigration vetting "
-excerpt: "The Department of Homeland Security on Friday withdrew Trump-era plans to vastly expand the collection of biometric data, including DNA samples, which would have been used for immigration purposes such as verifying family relationships.\n    \n"
-publishedDateTime: 2021-05-07T16:14:22Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mK-YpOL22Oo/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mK-YpOL22Oo/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/immigration-dna-trump-biometrics-collection/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/immigration-dna-trump-biometrics-collection/index.html"
+title: "Caitlyn Jenner didn't vote for Trump in 2020 and skipped the election to play golf"
+excerpt: "While former President Donald Trump continues to spread falsehoods about the 2020 election, California recall candidate Caitlyn Jenner told CNN's Dana Bash in a new interview that she does not believe the election was \"stolen,\" but argued there needs to be \"integrity\" in the US election system.\n    \n"
+publishedDateTime: 2021-05-11T13:23:37Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9OLmNDTnnZ4/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9OLmNDTnnZ4/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/caitlyn-jenner-dana-bash-interview/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/caitlyn-jenner-dana-bash-interview/index.html"
 type: article
-quality: 170
+quality: 184
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193425-01-dhs-logo-file-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210509093841-caitlyn-jenner-immigration-path-to-citizenship-bash-intv-sot-vpx-00000000-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -47,19 +47,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Caitlyn Jenner didn't vote for Trump in 2020 and skipped the election to play golf"
-    excerpt: "While former President Donald Trump continues to spread falsehoods about the 2020 election, California recall candidate Caitlyn Jenner told CNN's Dana Bash in a new interview that she does not believe the election was \"stolen,\" but argued there needs to be \"integrity\" in the US election system.\n    \n"
-    publishedDateTime: 2021-05-11T13:23:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9OLmNDTnnZ4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/caitlyn-jenner-dana-bash-interview/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/caitlyn-jenner-dana-bash-interview/index.html"
+  - title: "Homeland Security reverses Trump-era DNA collection plan for immigration vetting "
+    excerpt: "The Department of Homeland Security on Friday withdrew Trump-era plans to vastly expand the collection of biometric data, including DNA samples, which would have been used for immigration purposes such as verifying family relationships.\n    \n"
+    publishedDateTime: 2021-05-07T16:14:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mK-YpOL22Oo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/immigration-dna-trump-biometrics-collection/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/immigration-dna-trump-biometrics-collection/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 184
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210509093841-caitlyn-jenner-immigration-path-to-citizenship-bash-intv-sot-vpx-00000000-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193425-01-dhs-logo-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -174,6 +174,6 @@ related:
         height: 773
         isCached: true
 
-secured: "eJTGHlf04ouX6C+z7RccxKuymc8r/V5tNdaRFSEAuT0llOcUojsZAa8T2i0xOj3xHiycZI0wWXj2GZrgHow3w7j9bujShRz5DvAjPtfjNaMARx8r52d/y3qNSbigvKbU7G/f10rRK5TWLprF7auCpX55ub8I9eFqJ3BI8YoJIBft/NrBoowbJKff+4raASdcsrw7iJBoEh5poj2Gb7Rf8nrv7q4zGIPDHRjVS3mFLhjYwC/jDOFtfh3oXWmmrObyAexOCtUgA0u8wKetSfcTlW5i98MRsJT38wR/+KIzr0LyvbwgS5Y8vnnc4MkPzueJrzPcF+VwxI2cfRXq9OGsxRsFvsZU4YJKhg6EcgJbxcQ=;UllmXmH/E5YFvhSQOPSvxQ=="
+secured: "o64EptHE4Y4siEt/B/7q27ZehmWbuv0VbowhszF86EwW9WXoDSXYl+hg09q9wWzhJmjKIq97fSu93Ko4+m2bPd0lIBDRsq9NRG3FlmYN3JaDiWmSrH9WVaaxCNksTV14BqlIV6bUv71hUlAGiKTCcAIrOduLie/SMxnMFQay7+YZqzKEveT8ZsZi+/XeSbT8v9K/GpQj/sE1owMycashEUVS3e4AqF553QGAibo/iuW+SxzEa+tkdhssmxArfeMhsH+t8r5ofVPCiXFG3UcJ75kwU7LtXU+4iBncjVUTW9Clvpjq+G1itcWqf179Nl+nXthLzoX/Qw2I+lVZnl2fNFFPw/uasPGSddKiY/0oCts=;zJ8LPB36140lwvZRkcZ/iA=="
 ---
 
