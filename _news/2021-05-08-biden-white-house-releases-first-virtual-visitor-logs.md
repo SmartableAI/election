@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-first-virtual-vis
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 165
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88785100-c591-4705-a000-240dbb0fec6e/e8c41f49-b049-4819-a13e-a62dfe9c3e34/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden forcing Catholic, religious entities to violate beliefs with new HHS rule, critics say"
+    excerpt: "President Biden, the second U.S. president to identify as Catholic, is coming under fire for a new rule that critics say would force religious doctors to violate their deeply held beliefs about gender."
+    publishedDateTime: 2021-05-11T16:28:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fHXnnXhCV9w/biden-transgender-health-care-catholic-religious-freedom"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transgender-health-care-catholic-religious-freedom.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transgender-health-care-catholic-religious-freedom.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7fb6deb-3930-4b52-95ac-1a1c5092046a/97c6d185-2637-40d8-844f-5074ff0caba9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

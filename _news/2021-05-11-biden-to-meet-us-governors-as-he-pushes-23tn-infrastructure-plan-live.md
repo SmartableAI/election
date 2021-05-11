@@ -2,9 +2,9 @@
 category: news
 title: "Biden to meet US governors as he pushes $2.3tn infrastructure plan – live"
 excerpt: "Republicans and Democrats clash over specifics of proposal as Mitch McConnell says no rollback of Trump-era tax cuts – follow the latest news"
-publishedDateTime: 2021-05-11T13:41:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live?page=with:block-609a823d8f080cbad78fa940"
-webUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live?page=with:block-609a823d8f080cbad78fa940"
+publishedDateTime: 2021-05-11T16:00:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live?page=with:block-609a940e8f080cbad78faa6e"
+webUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live?page=with:block-609a940e8f080cbad78faa6e"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/f33f5de2dba942b6f647d844a52a3926bdcc6bce/0_150_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dcea6715d4fee6936cd3f8ecc6ecef9e"
+  - url: "https://i.guim.co.uk/img/media/339f47bf083cf1180ba65acf917fe15c14d930ba/0_56_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8ee96b7bcb2d4d86c2882828e52611f6"
     width: 600
     height: 360
     isCached: true
@@ -80,6 +80,6 @@ related:
         height: 355
         isCached: true
 
-secured: "tvEQkUN6VWrwvTiK4hpE/QZIJNtYh+uZ1eNVRqwYA64vaN3Kpj3L/uAF3dcIvTnaRso+JGOroFlaqJBKgkct9cMexLW7YBcayz4cuLqJQ3cnYCw943Bzxqzx/MHIZHKkcVgMvyUcP5O8Pn2Sr+3aCM4POcZtIqe1ZAXTq7QKwHbBfl+ihXu43jTNYbJtSZezx09X5InLy3NAznRFMeRyRH0KP2DWFrQ1ZFVCwZSHQyjfElerqQeptnS574BGQTQa9U1KWtpx7kE2l5COVtE+Pr3dQiWicTTWRbI7YZRcDrSOheHzhiBOCrrwwpJU0Z8WVL5nFxCIqysogAzrRbMJ2uWZ7mmAhTqc091+q+8dlDM=;fI2VKu0soXfsemYHjJOSqQ=="
+secured: "N96N4JmUJ0mX66Zr9OJMgcWDxae54OipZIpAEzULGFEOU3I/hT3UQ8U5NK0YGoZN0Oxa8O+xoyRb7APuPqQGJagqRYzutpgns02XLczCKBjtdQfi9Z7A6iJJF4kW+LsNr+rajgg7ePtU0rf37MHMMzw3obnoBoliRM7KpKJvmdhonPEprjqjB15tjwEW1CyF7TcJm4XzM0jkwE3pFaVyVs7z/hShEETyurEAUWQzQofFAuJuUQu841lJnL/BSrWII/bjkImgeNhyZPxibxybyqoGmlnYRdZpCLjomI8ZFfM0I7Q/U1QBrOkBtChDmDEJtKeZU9aIO4tMisLfgs8CPeVIoO0fbRgzMZad57a8Gfo=;ZpkDxE46Y2zvrY8z35Pkmg=="
 ---
 

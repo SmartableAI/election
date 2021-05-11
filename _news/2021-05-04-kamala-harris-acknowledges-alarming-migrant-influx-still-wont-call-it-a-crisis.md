@@ -140,6 +140,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris, Second Gentleman kiss while wearing masks"
+    excerpt: "Guests: Laura Ingraham, Larry Kudlow, Mollie Hemingway, Christopher Bedford, Raymond Arroyo, Harvey Risch, Madison Kenyon, Christiana Holcomb"
+    publishedDateTime: 2021-05-08T22:25:00Z
+    webUrl: "https://www.foxnews.com/transcript/kamala-harris-second-gentleman-kiss-while-wearing-masks"
+    ampWebUrl: "https://www.foxnews.com/transcript/kamala-harris-second-gentleman-kiss-while-wearing-masks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/kamala-harris-second-gentleman-kiss-while-wearing-masks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de3a1e91-b0da-44c6-9238-915f4385cf4b/6d6c657b-0a98-4c5d-b6af-d33cd0ebeecc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris ‘meets’ with Mexico president ahead of migration crisis trip"
     excerpt: "Vice President Kamala Harris on Friday met virtually with Mexican President Andrés Manuel López Obrador ahead of her long-anticipated trip to Latin America as President Biden’s migration"
     publishedDateTime: 2021-05-07T16:12:00Z

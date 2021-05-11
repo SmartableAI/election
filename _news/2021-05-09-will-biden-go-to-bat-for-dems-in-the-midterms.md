@@ -222,6 +222,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "The Biden administration will begin disbursing $350 billion in state and local aid this month."
+    excerpt: "States and cities are being given broad discretion on how they can use the money, which is intended to replace public sector revenue, provide extra pay for essential workers, and invest in sewer, water and broadband."
+    publishedDateTime: 2021-05-10T19:23:00Z
+    webUrl: "https://www.nytimes.com/2021/05/10/business/economy/state-local-pandemic-aid.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/10/business/economy/state-local-pandemic-aid.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/10/business/economy/state-local-pandemic-aid.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 123
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/10/nyregion/10economy-briefing-stimulus/10economy-briefing-stimulus-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "3VKIvlwJRcLBVHzgdqq3l0CNVjQPhk0Qc9S6c+ihaM44BHeqeHje4el2YhYzdf4JH97DRaTJyY480uAlUiIi8SZlUM/fLtM2TOjLsaMXuogRgROMv27hnzfLRcdi3roIopfX7zrs0VRsdgTR6CT3sQKGtBnTx2XeQQBEs1f4IqpR0paHe2G1uohgyfCjLfD+bsnTsEm8hu9f4HxxXj3AHVXcKiRpWtUS/G2wYpPILnbdwZTghdameGlRy5GzcPm5gTNl0bPnI6ahjHEtChkjD1PF/aPPsFeBpeWWmUCd101T5x6srNWGBL5CKVI4DE6dDSGt6/TA10wZWYDBqVGaRXGDVYgHsjCTr9te/YGHgc4xizXyGhkFHM7LSVm5WDyUC1G2HDcmBlhd64retwUQcjO4IAvwELModPIag/7W+Er+7SCN+BFh28f+lkHCpiLbp6t/OAj/qbdXLJ2VspLDhnIPBk5WnJ7VP+fqNLe8PQDT4t7wIRw01AupLDF+CcBjhLJWbdkPGOzuHw1IUPa+dQ==;rdYC3r7Q5S99G6+yW1bCCw=="
 ---

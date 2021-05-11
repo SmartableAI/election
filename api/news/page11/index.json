@@ -2,6 +2,63 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-04-18-biden-takes-on-democrats-mission-impossible-revitalizing-coal-country.md",
+      "title": "Biden takes on Democrats’ ‘Mission Impossible’: Revitalizing coal country",
+      "excerpt": "Despite deep skepticism from union allies, Democrats are determined to make their “Just Transition” away from fossil fuels work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/04/18/coal-country-revitalization-biden-482659",
+      "originalUrl": "https://www.politico.com/news/2021/04/18/coal-country-revitalization-biden-482659",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/b4/f4/20b4238648d1847bddb50f5e9183/210417-coal-kentucky-2-getty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-18-one-america-news-network-stays-true-to-trump.md",
       "title": "One America News Network Stays True to Trump",
       "excerpt": "A recent OAN segment said there were “serious doubts about who’s actually president,” and another blamed “anti-Trump extremists” for the Capitol attack.",
@@ -1271,58 +1328,6 @@
           "url": "https://i.insider.com/6078c02a4206150018175cd0?width=1200&format=jpeg",
           "width": 568,
           "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-washington-moves-of-the-week-gaetz-promotes-former-democratic-staffer-while-former-trump-officials-jump-into-america-first-nonprofit.md",
-      "title": "Washington moves of the week: Gaetz promotes former Democratic staffer while former Trump officials jump into 'America First' nonprofit",
-      "excerpt": "Rep. Matt Gaetz has promoted a former Democratic staffer as other aides quit amid the sex trafficking investigation into the Florida Republican and Trump ally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/washington-moves-jobs-careers-trump-biden-administration-media-lobbying-congress-2021-4",
-      "originalUrl": "https://www.businessinsider.com/washington-moves-jobs-careers-trump-biden-administration-media-lobbying-congress-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6078928e74da0300181e1f13?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true

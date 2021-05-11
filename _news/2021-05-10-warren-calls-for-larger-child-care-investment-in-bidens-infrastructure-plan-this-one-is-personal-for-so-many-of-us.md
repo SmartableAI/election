@@ -207,6 +207,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "The Biden administration will begin disbursing $350 billion in state and local aid this month."
+    excerpt: "States and cities are being given broad discretion on how they can use the money, which is intended to replace public sector revenue, provide extra pay for essential workers, and invest in sewer, water and broadband."
+    publishedDateTime: 2021-05-10T19:23:00Z
+    webUrl: "https://www.nytimes.com/2021/05/10/business/economy/state-local-pandemic-aid.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/10/business/economy/state-local-pandemic-aid.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/10/business/economy/state-local-pandemic-aid.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 123
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/10/nyregion/10economy-briefing-stimulus/10economy-briefing-stimulus-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Will Biden go to bat for Dems in the midterms?"
     excerpt: "It’s no secret that for years, Dems have had skirmishes over ideology, race, age and gender — and the differences between who makes up the party’s base and who ends up getting nominated for office. As the 2022 primaries take shape,"
     publishedDateTime: 2021-05-09T15:38:00Z

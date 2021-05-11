@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-administration-arctic-challen
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-arctic-challenges-russia-china-threats.amp"
 type: article
 quality: 167
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Biden faces criticism from Democrats and Republicans over escalating Israeli-Palestinian violence"
+    excerpt: "Lawmakers from vastly different ends of the political spectrum have taken aim at Biden and his administration over the growing violence in the region, calling out the president on the violence in the region — albeit for different reasons."
+    publishedDateTime: 2021-05-11T17:02:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o7iQZY72ri8/biden-israel-palestine-hamas-democrats-republicans-criticize"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-israel-palestine-hamas-democrats-republicans-criticize.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-palestine-hamas-democrats-republicans-criticize.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63f883a6-06be-4ace-bff6-550cbbb8026b/48a9dcbc-17e6-415b-872e-78490dcf151d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "26gOJL8YMWNSQl2Ky5/5m1Ng6pWoDlkx/ADn+rAiKi4wVwp1ycO4GJuaSW+uwUQyj5mzSJ6qBxGpQh6RQaop8DxxqnxyFmm5HIGzuVIJUG3zWDS3zjzB6B6kjbSlHXPQZ4wSaK/3oyPbwXxLiOjBOuIHWpoczOw9JKDF+hStK/fIMu5EBLZMakuA1xMJrMRENCdj+ApI07O1bAZ90As4IoG8RkS3p2KdeZb/u5ytpGPTpvejJBpGQGDypJSy1AnZETvsE0he6cXgq9IxFgInPAMmg3dbnUfgIGB/lLqlLYMYm4j+D19FZ+oa1zCmAT8GxPJYkW6Ley6uo1veOiCEYZa3gjFWrXKPITZAeoe0fkM=;2ZJBMGVZ5F/yKkaw1Oy3hQ=="
 ---

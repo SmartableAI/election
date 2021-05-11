@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-11-biden-to-tap-rahm-emanuel-as-japan-ambassador-reports.md",
+      "title": "Biden to tap Rahm Emanuel as Japan ambassador: reports",
+      "excerpt": "President Biden is reportedly set to tap Rahm Emanuel -- former President Barack Obama's chief of staff and Chicago mayor -- as U.S. ambassador to Japan. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OnUKMshHtV0/biden-rahm-emanuel-japan-ambassador",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OnUKMshHtV0/biden-rahm-emanuel-japan-ambassador",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/GettyImages-1165549574.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-rahm-emanuel-japan-ambassador.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rahm-emanuel-japan-ambassador.amp",
+      "publishedDateTime": "2021-05-11T10:07:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-texas-sheriff-bidens-destructive-border-policies-caused-migrant-surge.md",
       "title": "Texas sheriff: Biden's 'destructive' border policies caused migrant surge",
       "excerpt": "Guests: Peter Doocy, Bill Melugin, Aishah Hasnie, Grady Trimble, Donald Swartz, Sarah Westwood, Patrice Onwuka, Robert Patillo, Barry Loudermilk, A.J. Louderback, Chris Swecker, Jared Max, Amy Myers J",
@@ -336,7 +392,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 167,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -505,7 +561,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 455,
+      "heat": 475,
       "tags": null,
       "images": [
         {
@@ -1599,63 +1655,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-harris-to-lead-national-space-council-amid-criticism-over-lack-of-border-visit.md",
-      "title": "Harris to lead National Space Council amid criticism over lack of border visit",
-      "excerpt": "Vice President Kamala Harris announced Saturday that she will lead the National Space Council -- even as she continues to face criticism for not visiting the southern border as part of her role in addressing the migrant crisis.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/59VzsGklxQw/harris-to-lead-the-national-space-council-border-visit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/59VzsGklxQw/harris-to-lead-the-national-space-council-border-visit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 401,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbf844e7-da00-4269-b859-827c56602764/5d922b54-0023-4170-ae81-95b2cc76f88b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-to-lead-the-national-space-council-border-visit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-to-lead-the-national-space-council-border-visit.amp",
-      "publishedDateTime": "2021-05-01T12:30:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

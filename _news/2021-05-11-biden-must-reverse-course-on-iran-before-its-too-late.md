@@ -172,6 +172,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden forcing Catholic, religious entities to violate beliefs with new HHS rule, critics say"
+    excerpt: "President Biden, the second U.S. president to identify as Catholic, is coming under fire for a new rule that critics say would force religious doctors to violate their deeply held beliefs about gender."
+    publishedDateTime: 2021-05-11T16:28:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fHXnnXhCV9w/biden-transgender-health-care-catholic-religious-freedom"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transgender-health-care-catholic-religious-freedom.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transgender-health-care-catholic-religious-freedom.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7fb6deb-3930-4b52-95ac-1a1c5092046a/97c6d185-2637-40d8-844f-5074ff0caba9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Memorial Day: Biden faces growing pressure to let veterans use Pentagon parking lot for event"
     excerpt: "Rep. Brian Mast, R-Fla., and more than 30 other Republican members of Congress are pressuring President Biden to override the Pentagon's decision to block a veterans group from staging a Memorial Day motorcycle rally in the Pentagon parking lot.."
     publishedDateTime: 2021-05-11T10:05:46Z
@@ -251,6 +267,6 @@ related:
         height: 500
         isCached: true
 
-secured: "iIdWlJDeJ9pq4y1vFhMxl6D2Glz8ac6/HbRK+AYgoxqq30Yrr0hn3G+abuUcn2ueV/75yBTAZySIVUt6lDOrSHpVQ3lj/LJuAZhIAaPLsaSXfI4B+HGDfp7TQpFOKJQcNPpUt9eYdEyD2LVsb6lV01ak3wpbI4foMF2gzdRTHFKs229J2Qd1svSbYooVEa3JcFrMKcU2Lxbr0xkEb2g6SYpVMvNyevS113M8mQsZYio5AgmsXr/gYpkct9Tz4ZmkJ1f2P639Q+Mmys9or4tW0tfOBRObTbfc1aeJRVsk+5f+kEP7o665Gflyg7o/QtSjxB9e4qV6nNZnx6KMEGZ2SDbTJKXMut+8gQ/E2Kf5mdI=;wfpqyc/KVDRi+3dqsgHgzw=="
+secured: "hUOsq0NV3jemCJj45GGEfAui3cIjWq1Q9jU7tBkMEa8Q9BA3hyINo4JVH8IvicAQfkbH/YgDbzcEJjf5GohYg7JmHcipaKUYnT9909Nbp0TdCzdaieB5DXUQxEyIJ+HWwyaKIlAOLg2Jb+fr9IOiiiosGq/q3nDgQgJBO2E1jJ1jOE/oFwu8jChaYq7HWrr+cJV72gbQc49oz2fdum6oxnkZYawAAo6pl0F8IsXzw1NNxcrZiDIwV1Xk92RLXh7gvF8qIjORfiR35bBniZ2RI79iZCp6rfCY1Lw5gemMZ4cUle62jPiLCBOlWDs7SRvBnDl5neiRLz2nz0HgdlaqpPrHM/i8yOQZmXYEGpdUD6GZAlTsTEcB1hvS/0Sxg8sk/DQxUqgb+grLUrnaey57PZ6KLO+6z4TB9bKuOu2Q422K8FA3/R4J2vQSV8qia2guWjXmtmB+/Hq1sADskxJRf+ZFKju8W1uzFoyczJdMXF/zdUaciBECSy5nW2Pa7Va/Esl+Q2RXtrOfHH9J+CFxUw==;WmvFatUdXmA2itfLoNEFMA=="
 ---
 
