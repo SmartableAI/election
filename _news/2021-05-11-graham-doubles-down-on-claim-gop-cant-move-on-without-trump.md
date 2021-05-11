@@ -1,23 +1,31 @@
 ---
 category: news
-title: "The GOP Chooses Trump Over Principle"
-excerpt: "Former President Donald Trump promised to exact his revenge on Republicans who refused to go along with his election lies or turn a blind eye to his role in the January 6 insurrection. Americans are likely to watch his first political casualty fall as the House GOP is poised to oust Wyoming Rep."
-publishedDateTime: 2021-05-10T02:24:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/05/09/the_gop_chooses_trump_over_principle_542410.html"
-webUrl: "https://www.realclearpolitics.com/2021/05/09/the_gop_chooses_trump_over_principle_542410.html"
+title: "Graham doubles down on claim GOP can’t move on without Trump"
+excerpt: "Sen. Lindsey Graham (R-S.C.) sounded a warning Monday night that Republicans who “try to erase” former President Donald Trump from the GOP “are going to wind up getting"
+publishedDateTime: 2021-05-11T04:24:00Z
+originalUrl: "https://nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/"
+webUrl: "https://nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/"
+ampWebUrl: "https://nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/amp/"
 type: article
-quality: 45
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
   - Donald Trump
   - Republican Voice
+
+images:
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/graham-doubles-down-on-trump-index.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "DOJ ordered to turn over Trump obstruction of justice memo"
@@ -388,22 +396,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Graham doubles down on claim GOP can’t move on without Trump"
-    excerpt: "Sen. Lindsey Graham (R-S.C.) sounded a warning Monday night that Republicans who “try to erase” former President Donald Trump from the GOP “are going to wind up getting"
-    publishedDateTime: 2021-05-11T04:24:00Z
-    webUrl: "https://nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/"
-    ampWebUrl: "https://nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/graham-doubles-down-on-trump-index.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Trump Justice Department Obstruction Memo Must Be Released, Judge Orders"
     excerpt: "A federal judge said the agency improperly characterized as privileged a 2019 memo, prepared after Mueller report was done, recommending against prosecuting Trump for obstruction of justice."
     publishedDateTime: 2021-05-05T15:54:00Z
@@ -482,7 +474,16 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "The GOP Chooses Trump Over Principle"
+    excerpt: "Former President Donald Trump promised to exact his revenge on Republicans who refused to go along with his election lies or turn a blind eye to his role in the January 6 insurrection. Americans are likely to watch his first political casualty fall as the House GOP is poised to oust Wyoming Rep."
+    publishedDateTime: 2021-05-10T02:24:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/09/the_gop_chooses_trump_over_principle_542410.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
-secured: "ifoTh4O0SlUNIebwSsIvIBdiadC+hxMONylkTZiayN/Bzw1Z8dh3y0BGWu7RF577hYwWSNP9mWYmm21kvvCFb4wL3BQExM9t4Nd7pFB5R9yhYJt3wBzW1G44fJz6goXQcVIMaOdmNjGiEFxIGZp9OoCFzxvg7ymBhRvKK+O1Ff7wjAH78bHSryV/fWwpAAOXDCnpV5h+g9WYubvfODgVimpSqqFiXSixZo9gnK1ka8d9aZgWoCptMkKRhyC5KBQFbdiu0ZSMweM2e+w6WT+nSe/UxjedzcGXzK/bO0muRsXBsDRxGrA0l/PJAnnkccODXIQI/a9O1oenQoU0DFLbimbFpeK5iIseB+Jftan3syg=;3TStZWjxP9cwNyrW3QkDbw=="
+secured: "35VjFWULiKywZtH1VAAtbuyHCu/T4mzUMVt9Cv5sAKk/fjVNsinzK1zOjK1gLUtjYq9X0C9gsqenr7bO65RyDnJSZ//72dW25di0HUFImM5DxGSf9JXnrnjz+cRezUmX+ClyZS20Hpc+9+80QPjy4Hhm3vaM0+mMAt78pqhWKHUE+PGC2abYubJQm3AcEU/Rkc9q9DHg3JTBtY/CNZr8HtkP6Zfa9VvUxME0NELDHQLqEr6EZGJpr5TStS0jzgy9KR3cSzMozIGp8dnxgfs3jg/AK+OR8uqIuXhPww1apebPDKm1YNyN0Bv/TFKdso+JSIE18sUeF+0SG87Xth7mRPNBXNHxCnz/uHt0+fz0We4=;HmZzSVS8QKCexfVrfq+bwQ=="
 ---
 

@@ -1,33 +1,27 @@
 ---
 category: news
-title: "What Laura Italiano Said About the New York Post's Kamala Harris Book Story"
-excerpt: "The journalist who wrote an article claiming that Vice President Kamala Harris' book was being distributed to migrant children has resigned from the New York Post,and said she was \"ordered\" to write the story."
-publishedDateTime: 2021-04-28T09:19:00Z
-originalUrl: "https://www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002"
-webUrl: "https://www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002"
-ampWebUrl: "https://www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002?amp=1"
+title: "Social Enterprise Greenhouse Hosts Vice President Kamala Harris and Commerce Secretary Gina Raimondo in Visit to Providence Today"
+excerpt: "Vice President Kamala Harris and Commerce Secretary Gina Raimondo, former governor of Rhode Island, visited Social Enterprise Greenhouse (SEG) in downtown Providence, R.I., today to meet local social entrepreneurs and learn about their businesses."
+publishedDateTime: 2021-05-06T00:15:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/gina-raimondo-kamala-harris-providence-f4f9ee87a041d8e532b93135cacb918b"
+webUrl: "https://apnews.com/press-release/pr-newswire/gina-raimondo-kamala-harris-providence-f4f9ee87a041d8e532b93135cacb918b"
 type: article
-quality: 123
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://d.newsweek.com/en/full/1784064/vice-president-harris-virtual-meeting.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -62,6 +56,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/03/7736c060-c7a7-41cb-aeb3-8f0080dfaecf/thumbnail/1200x630g2/e2357abe35bca577dc38eda50c45118d/gettyimages-1232596307.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "What Laura Italiano Said About the New York Post's Kamala Harris Book Story"
+    excerpt: "The journalist who wrote an article claiming that Vice President Kamala Harris' book was being distributed to migrant children has resigned from the New York Post,and said she was \"ordered\" to write the story."
+    publishedDateTime: 2021-04-28T09:19:00Z
+    webUrl: "https://www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002"
+    ampWebUrl: "https://www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-laura-italiano-said-about-new-york-post-kamala-harris-book-story-1587002?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1784064/vice-president-harris-virtual-meeting.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Kamala Harris agrees with Sen Tim Scott that 'America is not a racist country'"
     excerpt: "But we also do have to speak truth about the history of racism in our country and its existence today,” Harris said."
@@ -216,20 +226,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NOUDWZFHRII6XKFHL5C53TPTMQ.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Social Enterprise Greenhouse Hosts Vice President Kamala Harris and Commerce Secretary Gina Raimondo in Visit to Providence Today"
-    excerpt: "Vice President Kamala Harris and Commerce Secretary Gina Raimondo, former governor of Rhode Island, visited Social Enterprise Greenhouse (SEG) in downtown Providence, R.I., today to meet local social entrepreneurs and learn about their businesses."
-    publishedDateTime: 2021-05-06T00:15:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/gina-raimondo-kamala-harris-providence-f4f9ee87a041d8e532b93135cacb918b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 76
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Kamala Harris to speak at Naval Academy commissioning"
     excerpt: "Vice President Kamala Harris will deliver the keynote speech during the ceremony May 28, according to a White House official."
@@ -846,6 +842,6 @@ related:
       domain: bostonglobe.com
     quality: 22
 
-secured: "MnMkLkJ7/k9WyYPceZJlUgNwyNT3K2xup4N5QXJxl+uWi8EPQr/EaVYSNPveLuQZ2wfbr8yGrOufb/Sh5ZIDPp69bmrJiw+hGjQOEJ8G7bt3WYZBhjkz83FEaHfRadZFzFWDAv6ahetbyDOozrN9G+Tx3KckSc2q3qA7pkjGcO/EIri6svlUb1G+CkHhCW8LDFGpSnJqxgrJIRs+soC82ZE8WhvNtrgQSDyIdSViYdk0E6pwdmex1OuV54ftYXMJG0GvlzhmXEEIKw86MIYVj1/b6lN2iu+uQWCBM21XPeMJye0iDKSOs0k8VElgejlXDwC7AlTqt2KDXKDyG8I+d39d9o6kL7tsH4Nln0JPTyU2PT08MIUL8nR0+8pBIRtMyUR7vxcYdVaCHR78CbgKZQDPUxQlIY0E9GD9MnmeSuGojUhm+1GS2O6zCpAO1mkGhQddx/ftZ+tFZICD7VMvNBnJgAlctYF2kwKOPtiBPBZBrtQx0cpi70/2dNCp03y5w6JiB41AxFK6kMRW7nOufA==;ALlaTN6ReAuC5zrQ+qE8RA=="
+secured: "NX9jhxxCbjLMLKkY+Qa4h7Mkh7MsLbMUwRfRjiPE8ScxiCFRgvyWjpLgz3rXCG+4EnamrqblWa91M6d5vxOgOTKjYAoHtRNLSTatXqK3scTB4IKW/rbEYjjxMbBZsAg4KvZ+NWgwwlEljNQHBhl2x3T2G+vmfOQf1Uits0nadQ2eCRIV7xfJEfpeLyAwv16tFb/zXC1/rFuoivtHrDe2KR12xBcBlqgHeTscmfyGP1jWr5py1/JW/L3KV9kYP5XWDEH1JynHiypfrEknJFpXqlDBXpmb+rm7wZ5DpXLX2Wz6VTj5SHS8liBNPK88gHVKPrCdozBEcg8/gooKjq5sJLKvFjnHLQsqLqr9R7iXAdg=;Bmh5c0QUgUo5fF2ToIIwhw=="
 ---
 

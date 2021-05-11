@@ -231,6 +231,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Social Enterprise Greenhouse Hosts Vice President Kamala Harris and Commerce Secretary Gina Raimondo in Visit to Providence Today"
+    excerpt: "Vice President Kamala Harris and Commerce Secretary Gina Raimondo, former governor of Rhode Island, visited Social Enterprise Greenhouse (SEG) in downtown Providence, R.I., today to meet local social entrepreneurs and learn about their businesses."
+    publishedDateTime: 2021-05-06T00:15:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/gina-raimondo-kamala-harris-providence-f4f9ee87a041d8e532b93135cacb918b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 76
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Kamala Harris to speak at Naval Academy commissioning"
     excerpt: "Vice President Kamala Harris will deliver the keynote speech during the ceremony May 28, according to a White House official."
     publishedDateTime: 2021-04-30T15:59:00Z

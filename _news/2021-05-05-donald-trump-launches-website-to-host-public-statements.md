@@ -1740,6 +1740,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "PHOTOS: President Joe Biden addresses joint session of Congress"
+    excerpt: "President Joe Biden delivered his first address to a joint session of Congress Wednesday evening in Washington."
+    publishedDateTime: 2021-04-29T02:56:00Z
+    webUrl: "https://www.denverpost.com/2021/04/28/photos-president-joe-biden-addresses-joint-session-congress/"
+    ampWebUrl: "https://www.denverpost.com/2021/04/28/photos-president-joe-biden-addresses-joint-session-congress/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/04/28/photos-president-joe-biden-addresses-joint-session-congress/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/04/Biden_100_Days_Congress_1874501873.jpg?w=1024&#038;h=606"
+        width: 1024
+        height: 606
+        isCached: true
   - title: "President Joe Biden has quadrupled nation’s cap on refugee admissions"
     excerpt: "President Joe Biden formally raised the nation’s cap on refugee admissions to 62,500 this year, weeks after facing bipartisan blowback for his delay in replacing the record-low ceiling set by former President Donald Trump."
     publishedDateTime: 2021-05-04T18:38:00Z

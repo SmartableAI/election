@@ -1740,6 +1740,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "PHOTOS: President Joe Biden addresses joint session of Congress"
+    excerpt: "President Joe Biden delivered his first address to a joint session of Congress Wednesday evening in Washington."
+    publishedDateTime: 2021-04-29T02:56:00Z
+    webUrl: "https://www.denverpost.com/2021/04/28/photos-president-joe-biden-addresses-joint-session-congress/"
+    ampWebUrl: "https://www.denverpost.com/2021/04/28/photos-president-joe-biden-addresses-joint-session-congress/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/04/28/photos-president-joe-biden-addresses-joint-session-congress/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/04/Biden_100_Days_Congress_1874501873.jpg?w=1024&#038;h=606"
+        width: 1024
+        height: 606
+        isCached: true
   - title: "Donald Trump launches website to host public statements"
     excerpt: "Former President Donald Trump launched a new website \"From the desk of Donald J. Trump\" to host his public statements following his bans from most social media platforms."
     publishedDateTime: 2021-05-05T03:12:00Z

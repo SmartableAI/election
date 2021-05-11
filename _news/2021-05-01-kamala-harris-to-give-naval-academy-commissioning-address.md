@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Nava
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
 type: article
 quality: 125
-heat: 1185
+heat: 1205
 published: true
 
 provider:
@@ -216,6 +216,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NOUDWZFHRII6XKFHL5C53TPTMQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Social Enterprise Greenhouse Hosts Vice President Kamala Harris and Commerce Secretary Gina Raimondo in Visit to Providence Today"
+    excerpt: "Vice President Kamala Harris and Commerce Secretary Gina Raimondo, former governor of Rhode Island, visited Social Enterprise Greenhouse (SEG) in downtown Providence, R.I., today to meet local social entrepreneurs and learn about their businesses."
+    publishedDateTime: 2021-05-06T00:15:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/gina-raimondo-kamala-harris-providence-f4f9ee87a041d8e532b93135cacb918b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 76
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Kamala Harris to speak at Naval Academy commissioning"
     excerpt: "Vice President Kamala Harris will deliver the keynote speech during the ceremony May 28, according to a White House official."

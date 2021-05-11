@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Biden to veer from Trump, Obama policies in taking on NKorea"
-excerpt: "The White House says President Joe Biden plans to veer from the approaches of his two most recent predecessors as he tries to stop North Korea’s nuclear program, rejecting both Donald Trump’s deeply p"
-publishedDateTime: 2021-05-01T03:05:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-to-veer-from-trump-obama-policies-in-taking-on-nkorea/2021/05/01/7ee97d28-aa32-11eb-a8a7-5f45ddcdf364_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-to-veer-from-trump-obama-policies-in-taking-on-nkorea/2021/05/01/7ee97d28-aa32-11eb-a8a7-5f45ddcdf364_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-veer-from-trump-obama-policies-in-taking-on-nkorea/2021/05/01/7ee97d28-aa32-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-veer-from-trump-obama-policies-in-taking-on-nkorea/2021/05/01/7ee97d28-aa32-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+title: "PHOTOS: President Joe Biden addresses joint session of Congress"
+excerpt: "President Joe Biden delivered his first address to a joint session of Congress Wednesday evening in Washington."
+publishedDateTime: 2021-04-29T02:56:00Z
+originalUrl: "https://www.denverpost.com/2021/04/28/photos-president-joe-biden-addresses-joint-session-congress/"
+webUrl: "https://www.denverpost.com/2021/04/28/photos-president-joe-biden-addresses-joint-session-congress/"
+ampWebUrl: "https://www.denverpost.com/2021/04/28/photos-president-joe-biden-addresses-joint-session-congress/amp/"
+cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/04/28/photos-president-joe-biden-addresses-joint-session-congress/amp/"
 type: article
-quality: 140
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Denver Post
+  domain: denverpost.com
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NGFI3YFJ5AI6XKFHL5C53TPTMQ.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://www.denverpost.com/wp-content/uploads/2021/04/Biden_100_Days_Congress_1874501873.jpg?w=1024&#038;h=606"
+    width: 1024
+    height: 606
     isCached: true
 
 related:
@@ -158,6 +154,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_c5166b2bec7946b7a9db269a67526cb9_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden to veer from Trump, Obama policies in taking on NKorea"
+    excerpt: "The White House says President Joe Biden plans to veer from the approaches of his two most recent predecessors as he tries to stop North Korea’s nuclear program, rejecting both Donald Trump’s deeply p"
+    publishedDateTime: 2021-05-01T03:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-veer-from-trump-obama-policies-in-taking-on-nkorea/2021/05/01/7ee97d28-aa32-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-veer-from-trump-obama-policies-in-taking-on-nkorea/2021/05/01/7ee97d28-aa32-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-veer-from-trump-obama-policies-in-taking-on-nkorea/2021/05/01/7ee97d28-aa32-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NGFI3YFJ5AI6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "AP source: Biden lifting Trump refugee cap after delay"
     excerpt: "President Joe Biden is formally lifting the nation’s refugee cap to 62,500 this year, according to a congressional aide briefed on the plans, weeks after facing bipartisan blowback for his delay in lifting former President Donald Trump’s limit of 15,"
@@ -1728,22 +1740,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "PHOTOS: President Joe Biden addresses joint session of Congress"
-    excerpt: "President Joe Biden delivered his first address to a joint session of Congress Wednesday evening in Washington."
-    publishedDateTime: 2021-04-29T02:56:00Z
-    webUrl: "https://www.denverpost.com/2021/04/28/photos-president-joe-biden-addresses-joint-session-congress/"
-    ampWebUrl: "https://www.denverpost.com/2021/04/28/photos-president-joe-biden-addresses-joint-session-congress/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/04/28/photos-president-joe-biden-addresses-joint-session-congress/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 75
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/04/Biden_100_Days_Congress_1874501873.jpg?w=1024&#038;h=606"
-        width: 1024
-        height: 606
-        isCached: true
   - title: "Donald Trump launches website to host public statements"
     excerpt: "Former President Donald Trump launched a new website \"From the desk of Donald J. Trump\" to host his public statements following his bans from most social media platforms."
     publishedDateTime: 2021-05-05T03:12:00Z
@@ -1981,6 +1977,6 @@ related:
       domain: nymag.com
     quality: 35
 
-secured: "zfDWtCHs9PoWgY220vYhwoMUguYiTg7cO93rLV2Su2q9joR9QIJMn9Pjvqx3BhhHlmQ0mcONiPfOOS9yF94PxetDaDSunBVDwamlMLUCxE/BOiOJs7ATB7RgbzR1XvtknOum+u6nfZEMO4Kyi5A3WogK1mw1ggozU/cwHwVrbiTp0fSqbd7NEgr3f6rwSYlbtg/v3/BCd6hGfQFsZdOMn8OZzWCZNRkI18J2YMrmXODiXmnkPcu1PV6UD6OgVQAygEnfkHvjDYC6tIZJKpK5ZfmfR8TYcTPre4f/Sa/IS3tYt/dRw2xKR0C1mQyocYdZhZu4iba/zUHxNQeAd+W+1PSexeFhJOCGazqyIr9mb5S7YGGGObQx28pr9VOS3Ail5ec6WDrUUYjt3mFCDR6JmJW9dS/2YdfhrgUyfZT3CLkC8pF+6ccZ8JN/Oy1Oer8t8LFRlbzhi8SF+Y3yC4Tg437UWUCFLgNZycl5draKenawJ99YcdBUAhRosKRvzA7vHqJr5GSK65/VBtSi+/75uQ==;bE0oqlY/poHoamwptCfJ6g=="
+secured: "Ckc202Eh6UNWCVxZfqn2QgtOcNiuoFryqLgOpF4MknkjgPMo6uC7KkTxn72Q0Mrig8Dv5bHIZVXj7VKA3WhaK03Fv91Wu1ufLgPbQvP4GEPnHgO6fCa0YFjN3N+Nlz7vCxfkc0JcuQTppCMMCN5XIKJFZuOuyXLuHWHdPy7hJYvICCyS1C8HJ+Ax0OJFIMjV8BXt2+FbC8MCpjhGi+bcfp3uFNswuQPfdoqTUzru5PZcJxcBLXtHdq37fbKrrSKfz9tAo6+SHlF27vNcuzKhWZrsRisUUQFmvMzm7zKJ78ynFyxQfige25jIdahXng8Vf+N51tz+XZ4Nn1+Xn7D9Y29DtVDBO16rBIQcKyNZLCw=;MBkuRLl35+c5j8eyoA6IxA=="
 ---
 
