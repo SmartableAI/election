@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-11-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president.md",
+      "title": "Caitlyn Jenner says election was not 'stolen,' calls Biden 'our president'",
+      "excerpt": "GOP California gubernatorial candidate and former reality TV star Caitlyn Jenner says she does not believe the 2020 presidential election was stolen, but she added that the U.S. must “have integrity in our election system.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president",
+      "originalUrl": "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 298,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/jennercaitlyn_california_020520getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp",
+      "publishedDateTime": "2021-05-10T16:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-stephen-miller-sounds-alarm-over-bidens-unprecedented-border-policies.md",
       "title": "Stephen Miller sounds alarm over Biden's 'unprecedented' border policies",
       "excerpt": "Stephen Miller, former senior adviser to President Trump, now America First Legal founder. Stephen Miller, how are you my friend? STEPHEN MILLER, FOUNDER, AMERICA FIRST LEGAL: I am doing great. Thank you for having me.",
@@ -215,58 +267,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-09-jill-biden-offers-encouragement-to-strong-and-resilient-moms-after-a-challenging-year.md",
-      "title": "Jill Biden offers encouragement to 'strong and resilient' moms after a 'challenging' year",
-      "excerpt": "First lady Jill Biden honored the role \"strong and resilient\" mothers play in taking care of their families after a \"challenging\" year of COVID-19.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/05/09/mothers-day-jill-biden-honors-moms-after-difficult-year/5013390001/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/05/09/mothers-day-jill-biden-honors-moms-after-difficult-year/5013390001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/04/23/USAT/599ffb1d-e4c0-4d02-aaab-ce73404b92ef-DrB_long.jpg?auto=webp&crop=2024,1139,x795,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5013390001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5013390001",
-      "publishedDateTime": "2021-05-09T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-05-09-hes-like-an-upside-down-iceberg-historian-jon-meacham-on-joe-biden.md",
       "title": "‘He’s like an upside down iceberg’: historian Jon Meacham on Joe Biden",
       "excerpt": "With Biden what you see is what you get, says the Pulitzer prize winner, who has advised the president, but FDR informs his approach to democracy in peril",
@@ -275,7 +275,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/may/09/jon-meacham-joe-biden-fdr",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -376,58 +376,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-08-biden-says-we-still-have-a-long-way-to-go-after-disheartening-jobs-report-live.md",
-      "title": "Biden says ‘We still have a long way to go’ after disheartening jobs report – live",
-      "excerpt": "Biden insists country is ‘moving in the direction’ despite poor numbers – follow all the day’s politics news",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live?page=with:block-60958ebd8f08973dcfaca9a0",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live?page=with:block-60958ebd8f08973dcfaca9a0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/3160a0614d599fccca299ef687b417498a74ee5d/0_4_2700_1620/master/2700.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93446cb430b243f629f209c7855b4138",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
-      "publishedDateTime": "2021-05-07T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-05-08-joe-biden-laughs-at-notion-that-april-jobs-numbers-are-disappointing-despite-61-unemployment-rate.md",
       "title": "Joe Biden Laughs at Notion That April Jobs Numbers Are Disappointing, Despite 6.1% Unemployment Rate",
       "excerpt": "The president tried to appear optimistic about the jobs report. When he mentioned the commentators' reaction he laughed.",
@@ -460,58 +408,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-drugmakers-say-biden-misguided-over-vaccine-patent-waiver.md",
-      "title": "Drugmakers say Biden misguided over vaccine patent waiver",
-      "excerpt": "Drugmakers on Thursday said U.S. President Joe Biden's support for waiving patents of COVID-19 vaccines could disrupt a fragile supply chain and that rich countries should instead share more generously with the developing world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/legal-us-health-coronavirus-waiver-ifpma-idUSKBN2CN1ME",
-      "originalUrl": "https://www.reuters.com/article/legal-us-health-coronavirus-waiver-ifpma-idUSKBN2CN1ME",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210506&t=2&i=1561155795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH450TX",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2CN1ME",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CN1ME",
-      "publishedDateTime": "2021-05-06T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -693,58 +589,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-05-biden-says-us-ready-to-move-immediately-if-vaccine-approved-for-young-teens-as-it-happened.md",
-      "title": "Biden says US ‘ready to move immediately’ if vaccine approved for young teens – as it happened",
-      "excerpt": "FDA likely to authorize Pfizer vaccine for those aged 12 to 15 as Biden targets 70% of US adults vaccinated by Fourth of July – follow the day’s politics news",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/3f7e93a0aa8cd607a4edc7c122480f23916d6769/0_219_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9cdb82a1110b98b036a7e27661cd97fe",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest",
-      "publishedDateTime": "2021-05-04T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-05-05-biden-getting-vaccinated-a-matter-of-life-and-death.md",
       "title": "Biden: Getting vaccinated a matter of 'life and death'",
       "excerpt": "Getting vaccinated a matter of 'life and death' Posted . U.S. President Joe Biden on Tuesday urged all adult Americans to get vaccinated as soon as possible, annou",
@@ -849,6 +693,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-04-biden-expected-to-speak-on-shift-in-us-vaccine-distribution-strategy-live.md",
+      "title": "Biden expected to speak on shift in US vaccine distribution strategy – live",
+      "excerpt": "White House reportedly to deliver unused doses to other states as part of ‘use it or lose it’ strategy – follow all the day’s politics news",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest?page=with:block-60916c278f08235e51f1e2ec",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest?page=with:block-60916c278f08235e51f1e2ec",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/cca8fd69fd929c563cf5d0423303d1d11a51c924/0_206_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1055a8a67a46d0831699cf04c784163a",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest",
+      "publishedDateTime": "2021-05-04T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-joe-biden-raises-trump-refugee-cap-after-backlash.md",
       "title": "Joe Biden raises Trump refugee cap after backlash",
       "excerpt": "President Joe Biden has lifted the US annual refugee cap, bowing to backlash from his party after he initially opted to stick by the Trump-era figure. The Democratic president is raising the cap from 15,",
@@ -910,7 +806,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1346,7 +1242,7 @@
       "originalUrl": "https://www.businessinsider.com/10-things-in-politics-biden-100-days-history",
       "featuredContent": null,
       "highlight": null,
-      "heat": 585,
+      "heat": 565,
       "tags": null,
       "images": [
         {
@@ -1605,6 +1501,115 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-bidens-road-trip-starts-as-partisan-paths-loom-larger-the-note.md",
+      "title": "Biden's road trip starts as partisan paths loom larger: The Note",
+      "excerpt": "President Joe Biden and Vice President Kamala Harris hit the road -- a series of trips to mark 100 days in office that could define what the next 1,000 or so look like.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/bidens-road-trip-starts-partisan-paths-loom-larger/story?id=77374335",
+      "originalUrl": "https://abcnews.go.com/Politics/bidens-road-trip-starts-partisan-paths-loom-larger/story?id=77374335",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/biden-address-44-gty-jc-210428_1619667504996_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/bidens-road-trip-starts-partisan-paths-loom-larger/story?id=77374335",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/bidens-road-trip-starts-partisan-paths-loom-larger/story?id=77374335",
+      "publishedDateTime": "2021-04-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-woke-cancel-culture-movement-backfired-on-joe-biden-stacey-abrams-gov-kemp.md",
+      "title": "'Woke cancel culture movement' backfired on Joe Biden, Stacey Abrams: Gov. Kemp",
+      "excerpt": "Georgia Gov. Brian Kemp told “Fox & Friends” Thursday, President Biden and Georgia voting rights activist Stacey Abrams has driven the “far-reaching, woke cancel culture movement” too far and now it has backfired on the Democratic Party for “lying” about the state’s election law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/kemp-georgia-election-law-biden-abrams",
+      "originalUrl": "https://www.foxnews.com/media/kemp-georgia-election-law-biden-abrams",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/kemp-georgia-election-law-biden-abrams.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kemp-georgia-election-law-biden-abrams.amp",
+      "publishedDateTime": "2021-04-29T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
       ]
     }
   ],

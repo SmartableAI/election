@@ -63,6 +63,17 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Biden made decision to support IP waiver for COVID-19 vaccines- White House"
+    excerpt: "U.S. President Joe Biden made the decision to back a proposed waiver for COVID-19 vaccine intellectual property rights, the White House said on Thursday, denying that Biden administration officials had been split on the issue."
+    publishedDateTime: 2021-05-06T20:06:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-waiver-biden-idUSW1N2M9039"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2M9039"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2M9039"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
   - title: "President Joe Biden pouring $1.7 billion into fighting COVID-19 variants as ‘nearly half of all cases’ are mutant strains"
     excerpt: "Officials hope the funds will help authorities and their private sector partners detect COVID variants faster."
     publishedDateTime: 2021-04-16T16:55:00Z

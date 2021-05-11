@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/09/jon-meacham-joe-bide
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/09/jon-meacham-joe-biden-fdr"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Watch live: Joe Biden delivers remarks on the economy"
+    excerpt: "Biden's latest remarks come days after he argued that an underwhelming jobs report underscores the need to quickly pass his economic overhaul proposals."
+    publishedDateTime: 2021-05-10T15:01:00Z
+    webUrl: "https://www.cnbc.com/2021/05/10/watch-live-joe-biden-delivers-remarks-on-the-economy.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/05/10/watch-live-joe-biden-delivers-remarks-on-the-economy.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/10/watch-live-joe-biden-delivers-remarks-on-the-economy.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 125
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106879919-1620404041665-106879919-16204035502021-05-07t160147z_2078930979_rc24bn9h8enw_rtrmadp_0_usa-biden-economy.jpg?v=1620660250"
+        width: 3500
+        height: 2333
+        isCached: true
 
 secured: "cHBWJdg3wTk9wInSgtPYN21iDPL79EpwfuCmLq25uBckn3pCdzYNfaa1WLWa99o9MnoolaUIALw2iMgdDqY+rlD50YI4EIBkDhbbpCpYWcF5WSj4qKIFOTN0yIzgnsLxV4jvSNwgBdWbC7XCz3URwf+ytfwSU0QqzfXKqOFIkfdjN/bUJnrBC7iVJ6OVOe8CNbTuM42dnZYLJWmExNVpayXOwgOG6mSZk4L6tFoZ8qK84V4tdo2eyH6emNndoWMxqeeUd8yn6Q4Tk4Vi/ZWQB6my3MM8+M2H1kx+IpJbk9J3Pv/OmfrsqmEXTdgtBE9Y0R6m/Bk/TXDWC4IrO2tiqV2JujOT5rAlgk0hHSn82Q9OCxYkpS+uxMqEc86Wt6V3XrMX1xgnW+oNCNDtZYkiYuLCOXXU6FAmQIlkp+tQ81HaenYGdoas1h7Zh9bXuJOS6fRxHX+CBIDUtx8b7aDS0etBnQMwNcjjDXUW+XvupAdSAo/gjunj4w3mTV3+CKHssrW28+kAdohdMFDohxkhJQ==;T6mKunJmaYt/BWaSL1AXwQ=="
 ---

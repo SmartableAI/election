@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Biden makes false claim about former Federal Reserve leaders, revives misleading jobs claim"
+    excerpt: "President Joe Biden claimed last Wednesday that the last five leaders of the Federal Reserve had declared that his American Jobs Plan proposal will increase economic growth.\n    \n"
+    publishedDateTime: 2021-05-10T22:59:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BxSRgB5q-ZE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/fact-check-biden-federal-reserve-moodys-american-jobs-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/fact-check-biden-federal-reserve-moodys-american-jobs-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210510004358-03-joe-biden-0507-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "ZVkPTniBYCQhXicF1o5kTRkKv3CPTF+dUgBz7Y+ri/se0d8qCX0fA0UDykHhFNfeWaMBq4P3KV5usAPNIDRYzz5dsfSDCD5vM7U2nl6bBsEY03K1o3KZ9HUJfY26T7I0plo2tDtuGUY5GTYA2ip0ynY3MDld/dJkhA9TbbHuPgFzAG/acNVWibIsgVD+Mm4J0HP45OMlYGn06ILs+t49lueXoHUX1y7yGldocmSFXIoqsC1Y47D9bvZjQ+2UAQ+HmCGW+6kswu13Ey9zNHJdzcgIYaRC8T/5t+SuCaFk9aZLF0GWtdrqKUqibGpDGXvr350ZJQXg0QZQRhGl2NV7XqwEz/T/vtYdQmmDSJXqPj4=;MrthUfdhOXk6IcoVe4wSBg=="
 ---

@@ -2,58 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2021-04-02-a-perverted-rule-how-joe-biden-evolved-from-supporting-the-filibuster-to-trying-to-change-it.md",
-      "title": "A ‘perverted’ rule: How Joe Biden evolved from supporting the filibuster to trying to change it",
-      "excerpt": "Over his 36 years in the Senate, Joe Biden personally threatened to filibuster legislation twice. The first came in 1993 during a debate on the funding and organizational structure for Radio Free Europe and Radio Liberty. Biden eventually reached a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/04/02/perverted-rule-how-joe-biden-evolved-supporting-filibuster-trying-change-it/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/04/02/perverted-rule-how-joe-biden-evolved-supporting-filibuster-trying-change-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-01-2021/t_efd6404ddd9b44afb7f96591793d9aed_name_20210331_BIDEN_FILIBUSTER_V4.png&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/04/02/perverted-rule-how-joe-biden-evolved-supporting-filibuster-trying-change-it/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/04/02/perverted-rule-how-joe-biden-evolved-supporting-filibuster-trying-change-it/?outputType=amp",
-      "publishedDateTime": "2021-04-02T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-04-02-washington-moves-of-the-week-a-top-trump-white-house-staffer-lands-a-tv-gig-and-a-former-kamala-harris-aide-heads-to-a-lobbying-firm.md",
       "title": "Washington moves of the week: A top Trump White House staffer lands a TV gig and a former Kamala Harris aide heads to a lobbying firm",
       "excerpt": "Advocacy groups and lobbying firms are also hiring new talent, including a former policy adviser to then-Sen. Kamala Harris, to help shape policies in Washington. Here's Insider's rundown of the biggest staff moves for the week of March 29. Capitol Hill ...",
@@ -1355,6 +1303,63 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-jill-biden-in-california-lends-support-to-farmworkers-seeking-vaccinations.md",
+      "title": "Jill Biden, in California, Lends Support to Farmworkers Seeking Vaccinations",
+      "excerpt": "“As president, Joe is fighting for people who often go unseen,” Dr. Biden said. “And that’s exactly the kind of immigration policy he’s working to build — one that treats children and families with dignity and creates fair pathways to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/31/us/politics/jill-biden-california.html",
+      "originalUrl": "https://www.nytimes.com/2021/03/31/us/politics/jill-biden-california.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/31/multimedia/31dc-flotus-promo/31dc-flotus-promo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/31/us/politics/jill-biden-california.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/31/us/politics/jill-biden-california.amp.html",
+      "publishedDateTime": "2021-03-31T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     }
   ],

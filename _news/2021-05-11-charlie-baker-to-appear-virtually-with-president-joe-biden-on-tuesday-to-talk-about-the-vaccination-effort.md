@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Here's what Kentucky would get from President Joe Biden's American Families Plan"
-excerpt: "The White House outlined how many Kentucky children and workers would benefit from the $1.8 trillion plan, which includes universal preschool."
-publishedDateTime: 2021-05-07T09:26:00Z
-originalUrl: "https://www.cincinnati.com/story/news/politics/2021/05/07/joe-biden-american-families-plan-what-kentucky-would-get/4970027001/"
-webUrl: "https://www.cincinnati.com/story/news/politics/2021/05/07/joe-biden-american-families-plan-what-kentucky-would-get/4970027001/"
-ampWebUrl: "https://amp.cincinnati.com/amp/4970027001"
-cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4970027001"
+title: "Charlie Baker to appear — virtually — with President Joe Biden on Tuesday to talk about the vaccination effort"
+excerpt: "Charlie Baker is scheduled to join President Joe Biden, virtually, on Tuesday for a bipartisan event touting the state’s progress with the COVID-19 vaccine rollout. As USA Today first reported Monday afternoon,"
+publishedDateTime: 2021-05-10T22:07:00Z
+originalUrl: "https://www.boston.com/news/coronavirus/2021/05/10/charlie-baker-biden-vaccine"
+webUrl: "https://www.boston.com/news/coronavirus/2021/05/10/charlie-baker-biden-vaccine"
+ampWebUrl: "https://www.boston.com/news/coronavirus/2021/05/10/charlie-baker-biden-vaccine/amp"
+cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/coronavirus/2021/05/10/charlie-baker-biden-vaccine/amp"
 type: article
-quality: 70
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Cincinnati Enquirer
-  domain: cincinnati.com
+  name: Boston.com
+  domain: boston.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/05/05/NAAS/faa8db64-affc-4ee1-9222-412ac8f843f3-Biden_8.jpg?auto=webp&crop=3955,2225,x0,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://www.boston.com/wp-content/uploads/2021/05/UBLKP4K4VV3LQICNN6FQIQUMEE-6099a2931c6e8-850x478.jpg"
+    width: 850
+    height: 478
     isCached: true
 
 related:
@@ -102,6 +102,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 93
+  - title: "Here's what Kentucky would get from President Joe Biden's American Families Plan"
+    excerpt: "The White House outlined how many Kentucky children and workers would benefit from the $1.8 trillion plan, which includes universal preschool."
+    publishedDateTime: 2021-05-07T09:26:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/05/07/joe-biden-american-families-plan-what-kentucky-would-get/4970027001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/4970027001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4970027001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/05/NAAS/faa8db64-affc-4ee1-9222-412ac8f843f3-Biden_8.jpg?auto=webp&crop=3955,2225,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Joe Biden to tour S&WB's Carrollton Plant this week, according to White House"
     excerpt: "President Joe Biden has argued his wide-ranging, $2.3 trillion infrastructure plan is a solution to decades of underinvestment in roads, pipes and other major projects throughout the country."
     publishedDateTime: 2021-05-03T21:49:00Z
@@ -134,23 +150,7 @@ related:
         width: 1024
         height: 722
         isCached: true
-  - title: "Charlie Baker to appear — virtually — with President Joe Biden on Tuesday to talk about the vaccination effort"
-    excerpt: "Charlie Baker is scheduled to join President Joe Biden, virtually, on Tuesday for a bipartisan event touting the state’s progress with the COVID-19 vaccine rollout. As USA Today first reported Monday afternoon,"
-    publishedDateTime: 2021-05-10T22:07:00Z
-    webUrl: "https://www.boston.com/news/coronavirus/2021/05/10/charlie-baker-biden-vaccine"
-    ampWebUrl: "https://www.boston.com/news/coronavirus/2021/05/10/charlie-baker-biden-vaccine/amp"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/coronavirus/2021/05/10/charlie-baker-biden-vaccine/amp"
-    type: article
-    provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 55
-    images:
-      - url: "https://www.boston.com/wp-content/uploads/2021/05/UBLKP4K4VV3LQICNN6FQIQUMEE-6099a2931c6e8-850x478.jpg"
-        width: 850
-        height: 478
-        isCached: true
 
-secured: "iLvGlGzzS9ZSFncRkGkgkbd4XgkZTzGU2ToQ5uM5ETSl68yNDWXpbecyH/gedfP4j+m58m2wg1ycZpYS/9fk62lpduglAaG8hO7ZxXfwUM0hRMZXNKlvj400N6TK0Y3cJ15eSipiOZ3qZx42erF2DWZ/vIlJKuLUzApxvL0c6Vfu9KBwy8fI9tTt0ZsrYJBia8ajUwGVs9XSSigNrKAhgUzSq/3LBYbs1E3oQueQ9gYk+X73sqAA3c0+E30Tfxta4eAx8R1uoE4+ofDbC60ER0uTMMFAnly37QZkgUcLlXAQ2lqR1PE9sDTtaFwGxpW2NZGNZsaM/EduIijmoZ1GURsT2Pc+O6I2W6p8stXFTu+MKtFIxXdl5dbs/0IrXG0FLksMgOOMcmpI5Ohy/8bd5hWGfMKzpaf+q3uh0aAcw4Cm2UwnnLuPzrzD/brDDPIFFizuTlV2R3k1CXc1oej9yfx87ebx/EAknXOvHzQMJ9jc+969gv7MxfrKXzUsLGSItSTTWffeo5lp8rkJTWIDJQ==;Qc/XIJlLif/aDO8XTKHRrg=="
+secured: "2Ga7k3X+bV9F29YWyQQz47OQ5NePrg5Epb9fNcLQFQ7WVLvDD/SzGori+Kc0Qt/IoXVbbJNdCWCfzuiFNcmT7r+cjLbinbt2TxCyudiJCanlCbwEfOzmKk/82U2GNBw5ncxW2v/qpBbga4LnPfutCetK06k4uqqo8BDFx9WkJ4vmESp43sZa5VvjtXwPGYKHdBzJEyxepRMCKr3MyJs72ViNmBa5M8OGsuoaJxEZ0vha9VNJnuS6WUKreZZOkhGmANzHcgPhqIWol9wdtBwzvpc4Zfdtl7ZCVMEBvM9JXvA7QwTyRVhtENKIx3wCaGjfUn+NuFpVDwtatBqeGdLk7YKG8Nax3/qfCyxmbXgC6EQ=;CeiVacgdwaPR1PLCVmjFVg=="
 ---
 

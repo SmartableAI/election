@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden to host two crucial Democratic senators Monday to talk infrastructure at start of critical week"
-excerpt: "President Joe Biden on Monday will host two critical Democratic senators for individual meetings at the White House as he enters a crucial week for his legislative agenda.\n    \n"
-publishedDateTime: 2021-05-10T15:14:01Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jOJxX1QDhNo/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jOJxX1QDhNo/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/biden-manchin-carper/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/biden-manchin-carper/index.html"
+title: "Warren calls for larger child care investment in Biden's infrastructure plan: 'This one is personal for so many of us'"
+excerpt: "Sen. Elizabeth Warren on Monday called for universal government-subsidized child care as part of President Joe Biden's infrastructure proposal, describing it as a \"big ticket item\" that demands more resources.\n    \n"
+publishedDateTime: 2021-05-10T21:58:40Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8YQepWrP9js/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8YQepWrP9js/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/elizabeth-warren-child-care-infrastructure-cnntv/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/elizabeth-warren-child-care-infrastructure-cnntv/index.html"
 type: article
-quality: 160
+quality: 151
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429114426-01-joe-manchin-biden-joint-session-0428-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302114456-elizabeth-warren-wealth-tax-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to host two crucial Democratic senators Monday to talk infrastructure at start of critical week"
+    excerpt: "President Joe Biden on Monday will host two critical Democratic senators for individual meetings at the White House as he enters a crucial week for his legislative agenda.\n    \n"
+    publishedDateTime: 2021-05-10T15:14:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jOJxX1QDhNo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/biden-manchin-carper/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/biden-manchin-carper/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429114426-01-joe-manchin-biden-joint-session-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration formally launches task force to ensure scientific decisions are free from political influence"
     excerpt: "The Biden administration announced Monday the formal launch of its Scientific Integrity Task Force which will review the federal government's scientific policies to ensure they are free from inappropriate political influence.\n    \n"
     publishedDateTime: 2021-05-10T11:03:03Z
@@ -108,22 +124,6 @@ related:
     quality: 153
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506172538-01-biden-welfare-queen-myth-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Warren calls for larger child care investment in Biden's infrastructure plan: 'This one is personal for so many of us'"
-    excerpt: "Sen. Elizabeth Warren on Monday called for universal government-subsidized child care as part of President Joe Biden's infrastructure proposal, describing it as a \"big ticket item\" that demands more resources.\n    \n"
-    publishedDateTime: 2021-05-10T21:58:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8YQepWrP9js/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/elizabeth-warren-child-care-infrastructure-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/elizabeth-warren-child-care-infrastructure-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 151
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302114456-elizabeth-warren-wealth-tax-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -190,6 +190,6 @@ related:
         height: 773
         isCached: true
 
-secured: "EDbaH8clgau3VgJqauHfcXlKOAhGMRf4fyPvINWiiEAIChdFChMEcqQXjSnbS4o6EWHg6HrAQMEaXyf/tgpP4j4AcFxGWrBigFvYOHPFM3PW7yNMlRzbwqZpnDyHb7tHcSvxjJb/c95wBf96UeTElVkzf87PGX1fA8NVdjq6C785S7tN5i+Gs8RYqbPZYz6LO6NH0wTBTws1cwa/7kQhqyYzBEAQ1QnhaXTCg9mxlexrBVFTxLfY4VYa3UbAE4OWF4TJ38qIy3G3aBgJfeM9ewHE2wVPwjo9jcYC52281YZITAqyCCp2IMC6MXapGonSvrI0J2KYtEQ94NH5HWBF8fSfn2UggdPUE5hDQML0ogo=;8fjD4flud1EhCctIw5fzuw=="
+secured: "jW3Fz3YIm3avbcTpe9/D57Dp/9ky0QLBePRziyTGC8U6KIkbk/KWjnWlLIrHC8bGHGT5I4w0HyJmZcPB/RQN4fVCvSo/UioKsZKWZNDqkDx4MPVqBDjP+gqyxmFgfQkHCEIC0S3iaivEEsz+tlu9YmmQ2pnO9gBEuZEPvE5Vgf5eH1NNHjoAoKM/mcr5JZRI8x7Cn3NB+8rmJr7oqGHg1FdtqghfAJdy6D5BLivrHnDE61r/YA7jZdNNitQpuQOxpb5ooJWZzoH0jnXcleihVy4YxazZDtR1PlQdoNWs8TTA+lVvaRO1Dbjb8VcoDbzbzRTAhDcrvToHjbU6XlHLdrvzETqQt9Krle7iGGcpXrc=;qfXh4nuc85HeGUvYyZCQgQ=="
 ---
 

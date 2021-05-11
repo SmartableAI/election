@@ -1,48 +1,36 @@
 ---
 category: news
-title: "Here's what Kentucky would get from President Joe Biden's American Families Plan"
-excerpt: "The White House outlined how many Kentucky children and workers would benefit from the $1.8 trillion plan, which includes universal preschool."
-publishedDateTime: 2021-05-07T09:26:00Z
-originalUrl: "https://www.cincinnati.com/story/news/politics/2021/05/07/joe-biden-american-families-plan-what-kentucky-would-get/4970027001/"
-webUrl: "https://www.cincinnati.com/story/news/politics/2021/05/07/joe-biden-american-families-plan-what-kentucky-would-get/4970027001/"
-ampWebUrl: "https://amp.cincinnati.com/amp/4970027001"
-cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4970027001"
+title: "Caitlyn Jenner says election was not 'stolen,' calls Biden 'our president'"
+excerpt: "GOP California gubernatorial candidate and former reality TV star Caitlyn Jenner says she does not believe the 2020 presidential election was stolen, but she added that the U.S. must “have integrity in our election system."
+publishedDateTime: 2021-05-10T23:51:00Z
+originalUrl: "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president"
+webUrl: "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president"
+ampWebUrl: "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp"
 type: article
-quality: 70
-heat: -1
-published: false
+quality: 138
+heat: 298
+published: true
 
 provider:
-  name: Cincinnati Enquirer
-  domain: cincinnati.com
+  name: The Hill
+  domain: thehill.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/05/05/NAAS/faa8db64-affc-4ee1-9222-412ac8f843f3-Biden_8.jpg?auto=webp&crop=3955,2225,x0,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://thehill.com/sites/default/files/jennercaitlyn_california_020520getty.jpg"
+    width: 980
+    height: 551
     isCached: true
 
 related:
-  - title: "Caitlyn Jenner says election was not 'stolen,' calls Biden 'our president'"
-    excerpt: "GOP California gubernatorial candidate and former reality TV star Caitlyn Jenner says she does not believe the 2020 presidential election was stolen, but she added that the U.S. must “have integrity in our election system."
-    publishedDateTime: 2021-05-10T23:51:00Z
-    webUrl: "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president"
-    ampWebUrl: "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 138
-    images:
-      - url: "https://thehill.com/sites/default/files/jennercaitlyn_california_020520getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Drugmakers say Biden misguided over vaccine patent waiver"
     excerpt: "Drugmakers on Thursday said U.S. President Joe Biden's support for waiving patents of COVID-19 vaccines could disrupt a fragile supply chain and that rich countries should instead share more generously with the developing world."
     publishedDateTime: 2021-05-06T14:13:00Z
@@ -102,6 +90,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 93
+  - title: "Here's what Kentucky would get from President Joe Biden's American Families Plan"
+    excerpt: "The White House outlined how many Kentucky children and workers would benefit from the $1.8 trillion plan, which includes universal preschool."
+    publishedDateTime: 2021-05-07T09:26:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/05/07/joe-biden-american-families-plan-what-kentucky-would-get/4970027001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/4970027001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4970027001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/05/NAAS/faa8db64-affc-4ee1-9222-412ac8f843f3-Biden_8.jpg?auto=webp&crop=3955,2225,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Joe Biden to tour S&WB's Carrollton Plant this week, according to White House"
     excerpt: "President Joe Biden has argued his wide-ranging, $2.3 trillion infrastructure plan is a solution to decades of underinvestment in roads, pipes and other major projects throughout the country."
     publishedDateTime: 2021-05-03T21:49:00Z
@@ -151,6 +155,6 @@ related:
         height: 478
         isCached: true
 
-secured: "iLvGlGzzS9ZSFncRkGkgkbd4XgkZTzGU2ToQ5uM5ETSl68yNDWXpbecyH/gedfP4j+m58m2wg1ycZpYS/9fk62lpduglAaG8hO7ZxXfwUM0hRMZXNKlvj400N6TK0Y3cJ15eSipiOZ3qZx42erF2DWZ/vIlJKuLUzApxvL0c6Vfu9KBwy8fI9tTt0ZsrYJBia8ajUwGVs9XSSigNrKAhgUzSq/3LBYbs1E3oQueQ9gYk+X73sqAA3c0+E30Tfxta4eAx8R1uoE4+ofDbC60ER0uTMMFAnly37QZkgUcLlXAQ2lqR1PE9sDTtaFwGxpW2NZGNZsaM/EduIijmoZ1GURsT2Pc+O6I2W6p8stXFTu+MKtFIxXdl5dbs/0IrXG0FLksMgOOMcmpI5Ohy/8bd5hWGfMKzpaf+q3uh0aAcw4Cm2UwnnLuPzrzD/brDDPIFFizuTlV2R3k1CXc1oej9yfx87ebx/EAknXOvHzQMJ9jc+969gv7MxfrKXzUsLGSItSTTWffeo5lp8rkJTWIDJQ==;Qc/XIJlLif/aDO8XTKHRrg=="
+secured: "CTSfx1TXGA7TDL1hqnb9kfc3LmJrSarV6b/yj/FspZ4z5rpoGYtmR50KcNXL3LYMCGl7c5lEWqB7g2saFPKYHuMZD4IW7Mum130PZ2QT0qyBfWWCcqXoEdUj6szBXy5t233svrJaWhLwRYYTY8M70SpFcmfNZRUEwmCx9WotnmIGdGChM7XupxTBqhenB5EMRxl2nV9YEU2B+Xv21TDcsL1r6oGF1xISiaVvP+ErFK4Tr9NFrNaVPBMICcqS4FwAwF1Lp3Nc3STlSnigojo9MXGe8qRjDJEpslrB6Hu+Cj6hubi8iJbdB54yt4Qyv/D0bv9Mf2IRIOmR8oG8KtMFQXfBKdVHm/tFOwb1MX/BmxI=;NvM+NMubmfxEM6QIzfu7UQ=="
 ---
 

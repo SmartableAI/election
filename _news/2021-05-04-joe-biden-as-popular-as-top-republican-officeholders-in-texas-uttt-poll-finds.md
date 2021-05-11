@@ -107,33 +107,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Fact Check-President Biden did not sign 96 executive orders in his first three months in office"
-    excerpt: "In his first 100 days in office, President Joe Biden has not signed 96 executive orders. According to FederalRegister.gov, part of the United States National Archives, the Biden Administration had published 42 executive orders by April 27,"
-    publishedDateTime: 2021-05-05T15:40:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-biden-executive-orders-idUSL1N2MS24C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MS24C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MS24C"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 93
-  - title: "President Joe Biden to tour S&WB's Carrollton Plant this week, according to White House"
-    excerpt: "President Joe Biden has argued his wide-ranging, $2.3 trillion infrastructure plan is a solution to decades of underinvestment in roads, pipes and other major projects throughout the country."
-    publishedDateTime: 2021-05-03T21:49:00Z
-    webUrl: "https://www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.html"
-    ampWebUrl: "https://www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.amp.html"
-    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.amp.html"
-    type: article
-    provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 67
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/9/0c/90cab378-25c5-11eb-b2be-476e690edf48/5df57e8ab9e25.image.jpg?resize=1024%2C676"
-        width: 1024
-        height: 676
-        isCached: true
   - title: "Connecticut Republicans say President Joe Biden’s sweeping plans would spend too much, too quickly"
     excerpt: "As Democrats coalesce around President Joe Biden’s sweeping plans, Republicans in Connecticut and elsewhere say they think the president is spending too much too quickly."
     publishedDateTime: 2021-04-29T17:25:00Z

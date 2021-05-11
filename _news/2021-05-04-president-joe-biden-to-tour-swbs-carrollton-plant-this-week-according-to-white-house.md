@@ -27,83 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "President Biden nominates Texas Sheriff Ed Gonzalez to head ICE"
-    excerpt: "President Joe Biden has announced Sheriff Ed Gonzalez of Harris County, Texas, as his nominee for director of Immigration and Customs Enforcement. He was included on a list of 11 nominations for key national security positions."
-    publishedDateTime: 2021-04-28T17:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/04/27/biden-names-harris-county-sheriff-ed-gonzalez-head-ice/4864492001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4864492001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4864492001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/81d9cce7b7d1a0276ff2f5a1f631b49764f09684/c=0-229-3061-1958/local/-/media/2017/01/31/USATODAY/USATODAY/636214873441033287-USP-NFL-SUPER-BOWL-LI-SECURITY-PRESS-CONFERENCE-88450154.JPG?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
-  - title: "Biden to set goal of at least one shot to 70 percent of adults by July 4"
-    excerpt: "President Biden will announce Tuesday a goal to administer at least one shot of the coronavirus vaccine to 70 percent of U.S. adults by July 4th, as the country moves to vaccinate harder-to-reach Americans."
-    publishedDateTime: 2021-05-04T17:48:00Z
-    webUrl: "https://thehill.com/policy/healthcare/551741-biden-to-set-goal-of-at-least-one-shot-to-70-percent-of-adults-by-july-4"
-    ampWebUrl: "https://thehill.com/policy/healthcare/551741-biden-to-set-goal-of-at-least-one-shot-to-70-percent-of-adults-by-july-4?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/551741-biden-to-set-goal-of-at-least-one-shot-to-70-percent-of-adults-by-july-4?amp"
+  - title: "Caitlyn Jenner says election was not 'stolen,' calls Biden 'our president'"
+    excerpt: "GOP California gubernatorial candidate and former reality TV star Caitlyn Jenner says she does not believe the 2020 presidential election was stolen, but she added that the U.S. must “have integrity in our election system."
+    publishedDateTime: 2021-05-10T23:51:00Z
+    webUrl: "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president"
+    ampWebUrl: "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 124
+    quality: 138
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_bidenjill_05032021getty.jpg"
+      - url: "https://thehill.com/sites/default/files/jennercaitlyn_california_020520getty.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Biden touts achievements at Georgia rally as he marks 100 days as president – live"
-    excerpt: "End detention now’ – follow live"
-    publishedDateTime: 2021-04-29T22:32:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest?page=with:block-608b0e4e8f0874ac77453fda"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
+  - title: "Drugmakers say Biden misguided over vaccine patent waiver"
+    excerpt: "Drugmakers on Thursday said U.S. President Joe Biden's support for waiving patents of COVID-19 vaccines could disrupt a fragile supply chain and that rich countries should instead share more generously with the developing world."
+    publishedDateTime: 2021-05-06T14:13:00Z
+    webUrl: "https://www.reuters.com/article/legal-us-health-coronavirus-waiver-ifpma-idUSKBN2CN1ME"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CN1ME"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CN1ME"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/a5f0d64f9bd702c44ba50d404f7d894f6e39cc64/0_222_4862_2917/master/4862.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=787b2730ae0133e578be8022776ba688"
-        width: 600
-        height: 360
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210506&t=2&i=1561155795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH450TX"
+        width: 818
+        height: 545
         isCached: true
-  - title: "Biden touts achievements at Georgia rally as he marks 100 days as president – as it happened"
-    excerpt: "End detention now’ – follow live"
-    publishedDateTime: 2021-04-29T23:25:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest?page=with:block-608b14378f08300738403647"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/29/joe-biden-speech-100-days-covid-coronavirus-vaccines-latest"
+  - title: "Biden says he's confident he will be able to meet Putin soon"
+    excerpt: "U.S. President Joe Biden on Friday said he expects to be able to meet with Russian President Vladimir Putin soon, adding that the time and place for their encounter are still being worked out."
+    publishedDateTime: 2021-05-07T15:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-russia-biden-idUSKBN2CO1P1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CO1P1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CO1P1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 114
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/a5f0d64f9bd702c44ba50d404f7d894f6e39cc64/0_222_4862_2917/master/4862.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=787b2730ae0133e578be8022776ba688"
-        width: 600
-        height: 360
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210507&t=2&i=1561326232&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4610D"
+        width: 812
+        height: 545
         isCached: true
-  - title: "'Life changing': President Biden asked for favorite national park memories, and they were heartwarming"
-    excerpt: "National park-goers shared some of those memories and moments on Twitter this week in honor of National Park Week, which runs through Sunday and is celebrated by the National Park Foundation each April."
-    publishedDateTime: 2021-04-24T12:00:00Z
-    webUrl: "https://www.usatoday.com/story/travel/experience/america/national-parks/2021/04/24/national-park-week-twitter-memories-joe-biden-yellowstone-zion/7335754002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7335754002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7335754002"
+  - title: "Jill Biden offers encouragement to 'strong and resilient' moms after a 'challenging' year"
+    excerpt: "First lady Jill Biden honored the role \"strong and resilient\" mothers play in taking care of their families after a \"challenging\" year of COVID-19."
+    publishedDateTime: 2021-05-09T15:24:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/05/09/mothers-day-jill-biden-honors-moms-after-difficult-year/5013390001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5013390001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5013390001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 109
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/f8689cd4e3fa52e9a025d26db599d5f77cd587a1/c=0-296-5168-3203/local/-/media/2021/02/25/USATODAY/usatsports/GettyImages-669737652.jpg?auto=webp&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/04/23/USAT/599ffb1d-e4c0-4d02-aaab-ce73404b92ef-DrB_long.jpg?auto=webp&crop=2024,1139,x795,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -118,67 +102,53 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 93
-  - title: "Joe Biden as popular as top Republican officeholders in Texas, UT/TT Poll finds"
-    excerpt: "Texas voters have a strong preference for politicians from their own parties, but overall, the president is as popular here as the governor or either of the state's U.S. senators."
-    publishedDateTime: 2021-05-04T10:00:00Z
-    webUrl: "https://www.texastribune.org/2021/05/04/texas-joe-biden-poll/"
-    ampWebUrl: "https://www.texastribune.org/2021/05/04/texas-joe-biden-poll/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/05/04/texas-joe-biden-poll/amp/"
+  - title: "Here's what Kentucky would get from President Joe Biden's American Families Plan"
+    excerpt: "The White House outlined how many Kentucky children and workers would benefit from the $1.8 trillion plan, which includes universal preschool."
+    publishedDateTime: 2021-05-07T09:26:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/05/07/joe-biden-american-families-plan-what-kentucky-would-get/4970027001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/4970027001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4970027001"
     type: article
     provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 71
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 70
     images:
-      - url: "https://thumbnails.texastribune.org/cIgn_HTkrz7ubDSc4aGoMgcI_uI=/1200x630/filters:quality(95)/static.texastribune.org/media/files/3966241820de010a5085a084b0e8d80a/UT%20TT%20Biden%20Assesment.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2021/05/05/NAAS/faa8db64-affc-4ee1-9222-412ac8f843f3-Biden_8.jpg?auto=webp&crop=3955,2225,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Connecticut Republicans say President Joe Biden’s sweeping plans would spend too much, too quickly"
-    excerpt: "As Democrats coalesce around President Joe Biden’s sweeping plans, Republicans in Connecticut and elsewhere say they think the president is spending too much too quickly."
-    publishedDateTime: 2021-04-29T17:25:00Z
-    webUrl: "https://www.courant.com/politics/hc-pol-president-biden-connecticut-republicans-reaction-20210429-fhlzemwvibgfvjpnmerf7owniu-story.html"
-    ampWebUrl: "https://www.courant.com/politics/hc-pol-president-biden-connecticut-republicans-reaction-20210429-fhlzemwvibgfvjpnmerf7owniu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-president-biden-connecticut-republicans-reaction-20210429-fhlzemwvibgfvjpnmerf7owniu-story.html?outputType=amp"
+  - title: "Charlie Baker to meet with Joe Biden, governors to tout Massachusetts progress in vaccinating residents"
+    excerpt: "Gov. Charlie Baker will meet virtually on Tuesday with President Biden and a group of bipartisan governors to tout the Bay State’s progress in vaccinating residents against coronavirus."
+    publishedDateTime: 2021-05-10T22:35:00Z
+    webUrl: "https://www.bostonherald.com/2021/05/10/charlie-baker-to-meet-with-joe-biden-governors-to-tout-massachusetts-progress-in-vaccinating-residents/"
+    ampWebUrl: "https://www.bostonherald.com/2021/05/10/charlie-baker-to-meet-with-joe-biden-governors-to-tout-massachusetts-progress-in-vaccinating-residents/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/05/10/charlie-baker-to-meet-with-joe-biden-governors-to-tout-massachusetts-progress-in-vaccinating-residents/amp/"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 61
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 59
     images:
-      - url: "https://www.courant.com/resizer/kp2rI7FDl_PTb-2kxsj2QtPvHNM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4TTXR4G4RCSMT7TPMONQ4CKPDA.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "After President Joe Biden’s first 100 days, two-thirds of Americans believe US headed in right direction"
-    excerpt: "A new poll shows almost two-thirds of Americans believe the country is headed in the right direction after President Joe Biden ’s first 100 days in office. The newest ABC News/Ipsos shows 64% are optimistic a few days after Biden reached the early milestone and just as the nationwide COVID-19 vaccination effort has significantly reduced deaths,"
-    publishedDateTime: 2021-05-02T15:24:00Z
-    webUrl: "https://www.masslive.com/politics/2021/05/after-president-joe-bidens-first-100-days-two-thirds-of-americans-believe-us-headed-in-right-direction.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/05/after-president-joe-bidens-first-100-days-two-thirds-of-americans-believe-us-headed-in-right-direction.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/after-president-joe-bidens-first-100-days-two-thirds-of-americans-believe-us-headed-in-right-direction.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 58
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AA7RDVDVBRHTVHZZIYNBYVBHAQ.jpg"
+      - url: "https://www.bostonherald.com/wp-content/uploads/2021/05/baker10.jpg?w=1024&#038;h=722"
         width: 1024
-        height: 683
+        height: 722
         isCached: true
-  - title: "No, John Velazquez didn’t call Joe Biden a horse’s ass"
-    excerpt: "Says Kentucky Derby jockey John Velazquez turned down an invitation to the White House and said, “if I wanted to see a horse’s ass I would of came in second.” John Velazquez didn’t say this and he hasn’t been invited to the White House,"
-    publishedDateTime: 2021-05-03T17:49:00Z
-    webUrl: "https://www.politifact.com/factchecks/2021/may/03/facebook-posts/no-john-velazquez-didnt-call-joe-biden-horses-ass/"
+  - title: "Charlie Baker to appear — virtually — with President Joe Biden on Tuesday to talk about the vaccination effort"
+    excerpt: "Charlie Baker is scheduled to join President Joe Biden, virtually, on Tuesday for a bipartisan event touting the state’s progress with the COVID-19 vaccine rollout. As USA Today first reported Monday afternoon,"
+    publishedDateTime: 2021-05-10T22:07:00Z
+    webUrl: "https://www.boston.com/news/coronavirus/2021/05/10/charlie-baker-biden-vaccine"
+    ampWebUrl: "https://www.boston.com/news/coronavirus/2021/05/10/charlie-baker-biden-vaccine/amp"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/coronavirus/2021/05/10/charlie-baker-biden-vaccine/amp"
     type: article
     provider:
-      name: Politifact
-      domain: politifact.com
+      name: Boston.com
+      domain: boston.com
     quality: 55
     images:
-      - url: "https://static.politifact.com/politifact/rulings/tom_ruling_pof.png"
-        width: 667
-        height: 596
+      - url: "https://www.boston.com/wp-content/uploads/2021/05/UBLKP4K4VV3LQICNN6FQIQUMEE-6099a2931c6e8-850x478.jpg"
+        width: 850
+        height: 478
         isCached: true
 
 secured: "VJrYhAyhFInddCARSjJ86N4wBS5D7Ai3Z4htn46BLgpsUvmR2jKDGVGftfkmPTahRw2I5VTSfnfv/xBkq0gmQn+oE1pItw8Z4TXsIEsTMd+Wx87lQK7LkyGXr7ZFwmZN54d+Bcxv0LPLDTJs9bnzuqNNmMwPCMuiLn+UXnYMjacLaIcVtwNO0TdS7wv+RzfhJBqPtadhbhkG6X9bEa70OrlS7580uL8lEuIuVN+IfhPU271jqzN80N2E8FdyQfTFU6VTJ+nM+XFQ+iw8+HlVwSmjHeFRrv7CDuVowK3wv7phas8E5aHFUD6h1+EYzC0p+tfsJaTkKKr01egnn07gMVRKn9c4k7z8YqNXurfqjWI=;kRXvTkcNc4QD/iZD9LHZag=="

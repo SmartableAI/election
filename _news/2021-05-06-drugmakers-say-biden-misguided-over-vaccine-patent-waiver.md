@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CN1ME"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CN1ME"
 type: article
 quality: 125
-heat: 205
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,65 +31,129 @@ images:
     isCached: true
 
 related:
-  - title: "Watch live: Joe Biden delivers remarks on the economy"
-    excerpt: "Biden's latest remarks come days after he argued that an underwhelming jobs report underscores the need to quickly pass his economic overhaul proposals."
-    publishedDateTime: 2021-05-10T15:01:00Z
-    webUrl: "https://www.cnbc.com/2021/05/10/watch-live-joe-biden-delivers-remarks-on-the-economy.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/05/10/watch-live-joe-biden-delivers-remarks-on-the-economy.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/10/watch-live-joe-biden-delivers-remarks-on-the-economy.html"
+  - title: "Caitlyn Jenner says election was not 'stolen,' calls Biden 'our president'"
+    excerpt: "GOP California gubernatorial candidate and former reality TV star Caitlyn Jenner says she does not believe the 2020 presidential election was stolen, but she added that the U.S. must “have integrity in our election system."
+    publishedDateTime: 2021-05-10T23:51:00Z
+    webUrl: "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president"
+    ampWebUrl: "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 125
+      name: The Hill
+      domain: thehill.com
+    quality: 138
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106879919-1620404041665-106879919-16204035502021-05-07t160147z_2078930979_rc24bn9h8enw_rtrmadp_0_usa-biden-economy.jpg?v=1620660250"
-        width: 3500
-        height: 2333
+      - url: "https://thehill.com/sites/default/files/jennercaitlyn_california_020520getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Biden expected to speak on shift in US vaccine distribution strategy – live"
-    excerpt: "White House reportedly to deliver unused doses to other states as part of ‘use it or lose it’ strategy – follow all the day’s politics news"
-    publishedDateTime: 2021-05-04T15:19:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest?page=with:block-60916c278f08235e51f1e2ec"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/cca8fd69fd929c563cf5d0423303d1d11a51c924/0_206_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1055a8a67a46d0831699cf04c784163a"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "National Digest: GOP lawmakers accuse Biden administration of tampering with census numbers"
-    excerpt: "A group of Republican lawmakers have accused the Biden administration of tampering with census numbers after data released this week showed lower than expected counts in some red states. Seventeen GOP members of Congress sent a letter Friday to Commerce Secretary Gina Raimondo questioning “the methodology and the role the Biden White House may have played in releasing these numbers,"
-    publishedDateTime: 2021-04-30T21:42:00Z
-    webUrl: "https://www.washingtonpost.com/national/national-digest-gop-lawmakers-accuse-biden-administration-of-tampering-with-census-numbers/2021/04/30/3dcdda00-a4ab-11eb-a7ee-949c574a09ac_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/national-digest-gop-lawmakers-accuse-biden-administration-of-tampering-with-census-numbers/2021/04/30/3dcdda00-a4ab-11eb-a7ee-949c574a09ac_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/national-digest-gop-lawmakers-accuse-biden-administration-of-tampering-with-census-numbers/2021/04/30/3dcdda00-a4ab-11eb-a7ee-949c574a09ac_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden made decision to support IP waiver for COVID-19 vaccines- White House"
-    excerpt: "U.S. President Joe Biden made the decision to back a proposed waiver for COVID-19 vaccine intellectual property rights, the White House said on Thursday, denying that Biden administration officials had been split on the issue."
-    publishedDateTime: 2021-05-06T20:06:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-waiver-biden-idUSW1N2M9039"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2M9039"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2M9039"
+  - title: "Biden says he's confident he will be able to meet Putin soon"
+    excerpt: "U.S. President Joe Biden on Friday said he expects to be able to meet with Russian President Vladimir Putin soon, adding that the time and place for their encounter are still being worked out."
+    publishedDateTime: 2021-05-07T15:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-russia-biden-idUSKBN2CO1P1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CO1P1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CO1P1"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 103
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210507&t=2&i=1561326232&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4610D"
+        width: 812
+        height: 545
+        isCached: true
+  - title: "Jill Biden offers encouragement to 'strong and resilient' moms after a 'challenging' year"
+    excerpt: "First lady Jill Biden honored the role \"strong and resilient\" mothers play in taking care of their families after a \"challenging\" year of COVID-19."
+    publishedDateTime: 2021-05-09T15:24:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/05/09/mothers-day-jill-biden-honors-moms-after-difficult-year/5013390001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5013390001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5013390001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/23/USAT/599ffb1d-e4c0-4d02-aaab-ce73404b92ef-DrB_long.jpg?auto=webp&crop=2024,1139,x795,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact Check-President Biden did not sign 96 executive orders in his first three months in office"
+    excerpt: "In his first 100 days in office, President Joe Biden has not signed 96 executive orders. According to FederalRegister.gov, part of the United States National Archives, the Biden Administration had published 42 executive orders by April 27,"
+    publishedDateTime: 2021-05-05T15:40:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-biden-executive-orders-idUSL1N2MS24C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MS24C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MS24C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 93
+  - title: "Here's what Kentucky would get from President Joe Biden's American Families Plan"
+    excerpt: "The White House outlined how many Kentucky children and workers would benefit from the $1.8 trillion plan, which includes universal preschool."
+    publishedDateTime: 2021-05-07T09:26:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/05/07/joe-biden-american-families-plan-what-kentucky-would-get/4970027001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/4970027001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4970027001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/05/NAAS/faa8db64-affc-4ee1-9222-412ac8f843f3-Biden_8.jpg?auto=webp&crop=3955,2225,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President Joe Biden to tour S&WB's Carrollton Plant this week, according to White House"
+    excerpt: "President Joe Biden has argued his wide-ranging, $2.3 trillion infrastructure plan is a solution to decades of underinvestment in roads, pipes and other major projects throughout the country."
+    publishedDateTime: 2021-05-03T21:49:00Z
+    webUrl: "https://www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.html"
+    ampWebUrl: "https://www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/article_b4f6df2e-ac48-11eb-8e6f-bf71074b3739.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 67
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/9/0c/90cab378-25c5-11eb-b2be-476e690edf48/5df57e8ab9e25.image.jpg?resize=1024%2C676"
+        width: 1024
+        height: 676
+        isCached: true
+  - title: "Charlie Baker to meet with Joe Biden, governors to tout Massachusetts progress in vaccinating residents"
+    excerpt: "Gov. Charlie Baker will meet virtually on Tuesday with President Biden and a group of bipartisan governors to tout the Bay State’s progress in vaccinating residents against coronavirus."
+    publishedDateTime: 2021-05-10T22:35:00Z
+    webUrl: "https://www.bostonherald.com/2021/05/10/charlie-baker-to-meet-with-joe-biden-governors-to-tout-massachusetts-progress-in-vaccinating-residents/"
+    ampWebUrl: "https://www.bostonherald.com/2021/05/10/charlie-baker-to-meet-with-joe-biden-governors-to-tout-massachusetts-progress-in-vaccinating-residents/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/05/10/charlie-baker-to-meet-with-joe-biden-governors-to-tout-massachusetts-progress-in-vaccinating-residents/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 59
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2021/05/baker10.jpg?w=1024&#038;h=722"
+        width: 1024
+        height: 722
+        isCached: true
+  - title: "Charlie Baker to appear — virtually — with President Joe Biden on Tuesday to talk about the vaccination effort"
+    excerpt: "Charlie Baker is scheduled to join President Joe Biden, virtually, on Tuesday for a bipartisan event touting the state’s progress with the COVID-19 vaccine rollout. As USA Today first reported Monday afternoon,"
+    publishedDateTime: 2021-05-10T22:07:00Z
+    webUrl: "https://www.boston.com/news/coronavirus/2021/05/10/charlie-baker-biden-vaccine"
+    ampWebUrl: "https://www.boston.com/news/coronavirus/2021/05/10/charlie-baker-biden-vaccine/amp"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/coronavirus/2021/05/10/charlie-baker-biden-vaccine/amp"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 55
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2021/05/UBLKP4K4VV3LQICNN6FQIQUMEE-6099a2931c6e8-850x478.jpg"
+        width: 850
+        height: 478
+        isCached: true
 
 secured: "QT5qBy9CS/OHWCgeTIwmgRssgGFghwkMmEK4D4nz7z7Av6xyHNP9rIXFLDIBXnFmAmf1oSp50yP7xkJYgHHJcFSERpwLzzPzzDjBL58NdGv239NFnjK/VkuOyYbWOTnRf6+Jf3Ga8QfV0hQgMWJaBTxfVD3c8ghhxsrRLlsYsmR9C5r2edwcyZacQT29fvfEqwROIQOQCqog7ll/oY6K4Ss2EIpzS9D8ZR3rF07PokBUO5eNS16UyvZsnPPwMkL3lhA6dFBgn/ubo5/jV0Bt1Pzb0dS0/5FI1CTq0VfE0liCK/XUlQynVGRlXr+8dGRHeuGcw1GJIKGtjSo9JPMkNptqNKS52CzN/FryLZhk8VM=;6HnreJgOS/wVMdaytJK3tQ=="
 ---

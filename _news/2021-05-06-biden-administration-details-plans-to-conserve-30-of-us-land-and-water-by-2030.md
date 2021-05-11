@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Warren calls for larger child care investment in Biden's infrastructure plan: 'This one is personal for so many of us'"
+    excerpt: "Sen. Elizabeth Warren on Monday called for universal government-subsidized child care as part of President Joe Biden's infrastructure proposal, describing it as a \"big ticket item\" that demands more resources.\n    \n"
+    publishedDateTime: 2021-05-10T21:58:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8YQepWrP9js/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/10/politics/elizabeth-warren-child-care-infrastructure-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/elizabeth-warren-child-care-infrastructure-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302114456-elizabeth-warren-wealth-tax-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New details on Giuliani’s attempt to push Ukraine to investigate Biden"
     excerpt: "NBC News' Andrea Mitchell speaks to Igor Novikov, former adviser to Ukraine President Zelensky, about what he says he heard as Rudy Giuliani attempted to press for an investigation into Joe Biden."
     publishedDateTime: 2021-05-05T23:18:00Z

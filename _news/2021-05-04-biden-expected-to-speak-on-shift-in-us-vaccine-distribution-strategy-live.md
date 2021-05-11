@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
 type: article
 quality: 123
-heat: -1
-published: false
+heat: 183
+published: true
 
 provider:
   name: The Guardian
@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Drugmakers say Biden misguided over vaccine patent waiver"
-    excerpt: "Drugmakers on Thursday said U.S. President Joe Biden's support for waiving patents of COVID-19 vaccines could disrupt a fragile supply chain and that rich countries should instead share more generously with the developing world."
-    publishedDateTime: 2021-05-06T14:13:00Z
-    webUrl: "https://www.reuters.com/article/legal-us-health-coronavirus-waiver-ifpma-idUSKBN2CN1ME"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CN1ME"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CN1ME"
+  - title: "Biden says ‘We still have a long way to go’ after disheartening jobs report – live"
+    excerpt: "Biden insists country is ‘moving in the direction’ despite poor numbers – follow all the day’s politics news"
+    publishedDateTime: 2021-05-07T19:52:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live?page=with:block-60958ebd8f08973dcfaca9a0"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210506&t=2&i=1561155795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH450TX"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Watch live: Joe Biden delivers remarks on the economy"
-    excerpt: "Biden's latest remarks come days after he argued that an underwhelming jobs report underscores the need to quickly pass his economic overhaul proposals."
-    publishedDateTime: 2021-05-10T15:01:00Z
-    webUrl: "https://www.cnbc.com/2021/05/10/watch-live-joe-biden-delivers-remarks-on-the-economy.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/05/10/watch-live-joe-biden-delivers-remarks-on-the-economy.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/05/10/watch-live-joe-biden-delivers-remarks-on-the-economy.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 125
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106879919-1620404041665-106879919-16204035502021-05-07t160147z_2078930979_rc24bn9h8enw_rtrmadp_0_usa-biden-economy.jpg?v=1620660250"
-        width: 3500
-        height: 2333
+      - url: "https://i.guim.co.uk/img/media/3160a0614d599fccca299ef687b417498a74ee5d/0_4_2700_1620/master/2700.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93446cb430b243f629f209c7855b4138"
+        width: 600
+        height: 360
         isCached: true
   - title: "National Digest: GOP lawmakers accuse Biden administration of tampering with census numbers"
     excerpt: "A group of Republican lawmakers have accused the Biden administration of tampering with census numbers after data released this week showed lower than expected counts in some red states. Seventeen GOP members of Congress sent a letter Friday to Commerce Secretary Gina Raimondo questioning “the methodology and the role the Biden White House may have played in releasing these numbers,"
@@ -79,17 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden made decision to support IP waiver for COVID-19 vaccines- White House"
-    excerpt: "U.S. President Joe Biden made the decision to back a proposed waiver for COVID-19 vaccine intellectual property rights, the White House said on Thursday, denying that Biden administration officials had been split on the issue."
-    publishedDateTime: 2021-05-06T20:06:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-waiver-biden-idUSW1N2M9039"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2M9039"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2M9039"
+  - title: "Biden says US ‘ready to move immediately’ if vaccine approved for young teens – as it happened"
+    excerpt: "FDA likely to authorize Pfizer vaccine for those aged 12 to 15 as Biden targets 70% of US adults vaccinated by Fourth of July – follow the day’s politics news"
+    publishedDateTime: 2021-05-04T22:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 103
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/3f7e93a0aa8cd607a4edc7c122480f23916d6769/0_219_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9cdb82a1110b98b036a7e27661cd97fe"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "P6TNxCJElQkotYNBdBUbkhBV/lJi4JHZFn2GWfmp9rsVlOQsJo7hiuCcVsZJ2j1e3ASL/fdSDlU0ybu7nlCwpYaXFQwO8+iNlnmZ1J3EeawyMCiXNe8LSbDf2SbdDhact3alq3T27qkHP+9cTX6DQ3TCfn3dub59oTte3eiyRnDAF5pCUT+Bsy1qmfcoVlRTx6geZsIHUdBG63IxWVIl1yzmtAJe2b+ufCm2sdSqvy6r/D97eG+6lXNp4eT4Ls8eVncdMlwBzlTwi1+V8Sxr0jJ+jOLGkn7eI93SA/snWeL3a8EsipqroYAAKKkkntZfjCORgLPUhXjd8xcImUK6/juyBSEltkg8WRNnclTRmsQJXAOdPCzQiK6QRs5cLLawsFyn6fKsUnL9LkHLecgIvIGOCRP+KYnvnjMnEW3Yuxe18NCNzbOHwknTc9sdt26YczPaRXVPopcQTgrE9LX8OirZ7MdrKuNkuAW9rFjY/6UD7OpJ6/jui7SwTD3UZA7YOAiQv8uOaJ+Q4TXBl54oyA==;KYpfKpRl8J1mGzrJmiSNvw=="
 ---

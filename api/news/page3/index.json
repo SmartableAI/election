@@ -2,62 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-05-06-the-point-will-donald-trump-run-again.md",
-      "title": "The Point: Will Donald Trump run again?",
-      "excerpt": "Strike up a conversation with any Republican -- or really, any person -- and tell them you're a political reporter and the first question you always get is this: \"So, is Trump running again?\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CNzHM0y14r8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CNzHM0y14r8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210316235645-cnne-trump-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/05/politics/trump-run-for-president-again-2024/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/trump-run-for-president-again-2024/index.html",
-      "publishedDateTime": "2021-05-05T17:22:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-06-judge-rebukes-william-barr-for-mueller-handling-orders-doj-to-release-trump-obstruction-memo.md",
       "title": "Judge rebukes William Barr for Mueller handling, orders DOJ to release Trump obstruction memo",
       "excerpt": "U.S. District Judge Amy Berman Jackson said AG William Barr had obscured \"the true purpose of the memorandum\" when it withheld the document.",
@@ -724,58 +668,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-05-biden-says-us-ready-to-move-immediately-if-vaccine-approved-for-young-teens-as-it-happened.md",
-      "title": "Biden says US ‘ready to move immediately’ if vaccine approved for young teens – as it happened",
-      "excerpt": "FDA likely to authorize Pfizer vaccine for those aged 12 to 15 as Biden targets 70% of US adults vaccinated by Fourth of July – follow the day’s politics news",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/3f7e93a0aa8cd607a4edc7c122480f23916d6769/0_219_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9cdb82a1110b98b036a7e27661cd97fe",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest",
-      "publishedDateTime": "2021-05-04T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-05-05-biden-getting-vaccinated-a-matter-of-life-and-death.md",
       "title": "Biden: Getting vaccinated a matter of 'life and death'",
       "excerpt": "Getting vaccinated a matter of 'life and death' Posted . U.S. President Joe Biden on Tuesday urged all adult Americans to get vaccinated as soon as possible, annou",
@@ -1096,6 +988,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-04-biden-expected-to-speak-on-shift-in-us-vaccine-distribution-strategy-live.md",
+      "title": "Biden expected to speak on shift in US vaccine distribution strategy – live",
+      "excerpt": "White House reportedly to deliver unused doses to other states as part of ‘use it or lose it’ strategy – follow all the day’s politics news",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest?page=with:block-60916c278f08235e51f1e2ec",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest?page=with:block-60916c278f08235e51f1e2ec",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/cca8fd69fd929c563cf5d0423303d1d11a51c924/0_206_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1055a8a67a46d0831699cf04c784163a",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest",
+      "publishedDateTime": "2021-05-04T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-facebook-and-trump-are-at-a-turning-point-in-their-long-tortured-relationship.md",
       "title": "Facebook and Trump are at a turning point in their long, tortured relationship",
       "excerpt": "Facebook’s decision to outsource the future of Trump’s account to an independent Oversight Board stems from a tortured relationship with the former president. It could also set a precedent on how social media companies handle politicians and on how they will balance free speech and harm.",
@@ -1261,7 +1205,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1345,6 +1289,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-cheney-what-trump-did-is-a-line-that-cannot-be-crossed.md",
+      "title": "Cheney: What Trump did 'is a line that cannot be crossed'",
+      "excerpt": "Wyoming Rep. Liz Cheney, the No. 3 House Republican, said on Monday her party cannot accept the \"poison\" of the idea that the 2020 election was stolen and should not \"whitewash\" the January 6 Capitol riot -- and Donald Trump's role in fomenting it.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iSO3TU1sRok/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iSO3TU1sRok/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210503055421-liz-cheney-donald-trump-split-for-video-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/03/politics/liz-cheney-doubles-down-trump-gop/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/liz-cheney-doubles-down-trump-gop/index.html",
+      "publishedDateTime": "2021-05-03T14:13:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],
