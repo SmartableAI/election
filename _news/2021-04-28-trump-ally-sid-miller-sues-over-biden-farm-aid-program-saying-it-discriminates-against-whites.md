@@ -511,6 +511,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Biden restores health care protections for gay and transgender people, reversing Trump policy"
+    excerpt: "The action reverses a Trump-era policy that sought to narrow the scope of legal rights in sensitive situations involving medical care."
+    publishedDateTime: 2021-05-10T20:45:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-gay-transgender-health-protections-20210510-fnx2smmxtrckpml52srkp7b2uq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-gay-transgender-health-protections-20210510-fnx2smmxtrckpml52srkp7b2uq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-biden-gay-transgender-health-protections-20210510-fnx2smmxtrckpml52srkp7b2uq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 129
+    images:
+      - url: "https://www.chicagotribune.com/resizer/4xU1fJUWeYBF8E6BisOMXxGRuzU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OXYBZR4NUVD735CQKZGXWHU2TM.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Trump White House provided reporters with a gusher of leaks. With Biden, everything’s changed."
     excerpt: "No such thing anymore. The Trump administration says it doesn’t tolerate leakers, but President Trump’s White House is one of the leakiest in modern history. (Victoria Walker/The Washington Post) Since then, the pipeline has gone dry. When the $1.9 ..."
     publishedDateTime: 2021-04-06T19:56:00Z

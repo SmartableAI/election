@@ -154,6 +154,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "A.B. Stoddard: Cheney Knew She Would Likely Lose Leadership Role When She Spoke Out Against Trump"
+    excerpt: "She's talking about her alarm at the fact that leadership is keeping negative polling about Donald Trump's toxicity in swing districts from their own members. She knew she would likely lose her leadership post and she would likely lose her seat in Wyoming."
+    publishedDateTime: 2021-05-11T11:38:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/11/ab_stoddard_cheney_knew_she_would_lose_leadership_position_when_she_spoke_out_against_trump.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 52
+    images:
+      - url: "https://assets.realclear.com/images/54/542934.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "RQB1EZclklr0gp8VbLg8dd9v/jfP/eSLI05AZ3I4YPSfQjYD53naSXmee9SaC/oxjh6KR+BcalAohvhgrTnAlB6JATeLeEX2FMGKUQDSzj5LEYdY1ZBczqrvPsReaULGi8hVlqPUsZAGP/vNGYyqyXP1gw6bWG4dC5PXVLVKusT8B6Hz5UlNxiJ7krwuP0Jla7TmQVzv3G2IcVufMa1BWl/Y5zItjYStwHH7tE4xHro3TOAwYGMvJdHUEHvBHzUyHv9xRwbOTMqaHmU+Ama4jbuhD1zNgNU+cOwad/UDwbq8pld4koKmJgRYelmX8Jdp+BueEzpy/rouUMFOSnnsD0OFs0MrqZ1mD9bg/s6dqCH6lqgHn9KO1j4Ax6gAn+S5yRq4V9KpWPFLxb6HDegaDVfendzxydc0o6q3ndvQGl0W0SQYm2261LQ3uPXLgh0/+IeQa1T641kdprUNz+hPrdOqsp4KVdwN/tU/BnhaV1YuZhe+UzUIyngTxkPcuCZnbo2KgU8Fj4noxmckB2r6zQ==;bY/F0F0CP90OfwHKzBJzVg=="
 ---

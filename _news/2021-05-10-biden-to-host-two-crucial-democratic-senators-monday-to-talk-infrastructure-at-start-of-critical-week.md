@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "1 million people sign up for Affordable Care Act coverage after Biden reopens exchange"
+    excerpt: "One million people have signed up for Affordable Care Act coverage on the federal exchange during the special enrollment period that President Joe Biden launched in mid-February, the administration announced Tuesday.\n    \n"
+    publishedDateTime: 2021-05-11T09:08:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yT0u_ZaxtCU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/affordable-care-act-sign-ups/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/affordable-care-act-sign-ups/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180705105817-obamacare-crowd-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration formally launches task force to ensure scientific decisions are free from political influence"
     excerpt: "The Biden administration announced Monday the formal launch of its Scientific Integrity Task Force which will review the federal government's scientific policies to ensure they are free from inappropriate political influence.\n    \n"
     publishedDateTime: 2021-05-10T11:03:03Z

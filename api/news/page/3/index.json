@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-06-auditioning-to-replace-cheney-stefanik-calls-trump-the-strongest-supporter-of-the-constitution.md",
+      "title": "Auditioning to replace Cheney, Stefanik calls Trump ‘the strongest supporter’ of the Constitution.",
+      "excerpt": "Representative Elise Stefanik pitched herself as an unshakable Trump ally as momentum gathered to oust his fervent critic, Representative Liz Cheney, from the Republican leadership.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/05/06/us/politics/stefanik-trump-cheney.html",
+      "originalUrl": "https://www.nytimes.com/2021/05/06/us/politics/stefanik-trump-cheney.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/05/06/us/06new-washington-briefing-stefanik/06new-washington-briefing-stefanik-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/05/06/us/politics/stefanik-trump-cheney.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/06/us/politics/stefanik-trump-cheney.amp.html",
+      "publishedDateTime": "2021-05-06T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-chris-ruddy-and-newsmax-went-all-in-on-trump-now-they-might-pay-a-price-for-it.md",
       "title": "Chris Ruddy and Newsmax went all-in on Trump. Now they might pay a price for it.",
       "excerpt": "The conservative media entrepreneur became Trump’s most quotable friend. His cable channel became one of the biggest promoters of Trump’s election-fraud fantasies.",
@@ -226,7 +283,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 335,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -267,62 +324,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-biden-dismisses-mcconnells-pledge-to-focus-on-stopping-this-new-administration.md",
-      "title": "Biden dismisses McConnell's pledge to focus 'on stopping this new administration'",
-      "excerpt": "President Joe Biden responded on Wednesday to Senate Minority Leader Mitch McConnell's comment that \"100%\" of his focus is \"on stopping this new administration,\" asserting that he had heard such threats from the Kentucky Republican before and worked through them.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3-dkiCWW_-c/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3-dkiCWW_-c/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201106100610-01-biden-mcconnell-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/05/politics/biden-mcconnell-100-stopping-new-administration/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/biden-mcconnell-100-stopping-new-administration/index.html",
-      "publishedDateTime": "2021-05-05T13:56:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -1260,7 +1261,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2750,
+      "heat": 2770,
       "tags": null,
       "images": [
         {

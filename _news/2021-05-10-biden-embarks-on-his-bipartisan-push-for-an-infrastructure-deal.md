@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "1 million people sign up for Affordable Care Act coverage after Biden reopens exchange"
+    excerpt: "One million people have signed up for Affordable Care Act coverage on the federal exchange during the special enrollment period that President Joe Biden launched in mid-February, the administration announced Tuesday.\n    \n"
+    publishedDateTime: 2021-05-11T09:08:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yT0u_ZaxtCU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/affordable-care-act-sign-ups/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/affordable-care-act-sign-ups/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180705105817-obamacare-crowd-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

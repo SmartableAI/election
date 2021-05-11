@@ -2,6 +2,114 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-09-hes-like-an-upside-down-iceberg-historian-jon-meacham-on-joe-biden.md",
+      "title": "‘He’s like an upside down iceberg’: historian Jon Meacham on Joe Biden",
+      "excerpt": "With Biden what you see is what you get, says the Pulitzer prize winner, who has advised the president, but FDR informs his approach to democracy in peril",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/may/09/jon-meacham-joe-biden-fdr",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/may/09/jon-meacham-joe-biden-fdr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/75963551a9eac3f4659d382a17b4f727ee3e6bfa/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=89f9494d8415059d4bd83d8b67aaf6fb",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/09/jon-meacham-joe-biden-fdr",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/09/jon-meacham-joe-biden-fdr",
+      "publishedDateTime": "2021-05-09T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-08-biden-administration-has-spent-3b-on-migrant-facility-contracts-report.md",
+      "title": "Biden administration has spent $3B on migrant facility contracts: report",
+      "excerpt": "The Biden administration has reportedly spent $3 billion in contracts to house unaccompanied children at the border – as it continues to deal with a continued influx of migrants coming to the border each day.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qsgBBzNOuw/biden-administration-border-migrant-facility-contracts-spending",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qsgBBzNOuw/biden-administration-border-migrant-facility-contracts-spending",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f550adb-2ed6-455f-a2ae-68505d5f7890/5c62bf26-1061-41a5-a638-47043d8946a5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-border-migrant-facility-contracts-spending.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-border-migrant-facility-contracts-spending.amp",
+      "publishedDateTime": "2021-05-08T14:33:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-08-biden-white-house-releases-first-virtual-visitor-logs.md",
       "title": "Biden White House releases first virtual visitor logs",
       "excerpt": "The Biden White House released its first round of visitor logs Friday in an effort to \"restore integrity, transparency, and trust in government,\" the administration said.",
@@ -14,7 +122,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 375,
+      "heat": 415,
       "tags": null,
       "images": [
         {
@@ -947,7 +1055,7 @@
       "originalUrl": "https://www.washingtonpost.com/nation/2021/05/06/fec-trump-stormy-daniels-cohen/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -988,63 +1096,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-fec-drops-case-reviewing-trump-hush-money-payments-to-women.md",
-      "title": "F.E.C. Drops Case Reviewing Trump Hush-Money Payments to Women",
-      "excerpt": "The case had examined whether Donald Trump violated election law with a $130,000 payment shortly before the 2016 election to a pornographic-film actress by his personal lawyer, Michael Cohen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/06/us/politics/trump-michael-cohen-fec.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/06/us/politics/trump-michael-cohen-fec.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/06/us/politics/06trump-payments-1/06trump-payments-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/06/us/politics/trump-michael-cohen-fec.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/06/us/politics/trump-michael-cohen-fec.amp.html",
-      "publishedDateTime": "2021-05-06T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -1322,63 +1373,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-auditioning-to-replace-cheney-stefanik-calls-trump-the-strongest-supporter-of-the-constitution.md",
-      "title": "Auditioning to replace Cheney, Stefanik calls Trump ‘the strongest supporter’ of the Constitution.",
-      "excerpt": "Representative Elise Stefanik pitched herself as an unshakable Trump ally as momentum gathered to oust his fervent critic, Representative Liz Cheney, from the Republican leadership.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/06/us/politics/stefanik-trump-cheney.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/06/us/politics/stefanik-trump-cheney.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/06/us/06new-washington-briefing-stefanik/06new-washington-briefing-stefanik-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/06/us/politics/stefanik-trump-cheney.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/06/us/politics/stefanik-trump-cheney.amp.html",
-      "publishedDateTime": "2021-05-06T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

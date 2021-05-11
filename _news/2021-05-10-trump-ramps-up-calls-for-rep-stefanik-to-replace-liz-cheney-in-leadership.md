@@ -140,6 +140,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "A.B. Stoddard: Cheney Knew She Would Likely Lose Leadership Role When She Spoke Out Against Trump"
+    excerpt: "She's talking about her alarm at the fact that leadership is keeping negative polling about Donald Trump's toxicity in swing districts from their own members. She knew she would likely lose her leadership post and she would likely lose her seat in Wyoming."
+    publishedDateTime: 2021-05-11T11:38:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/11/ab_stoddard_cheney_knew_she_would_lose_leadership_position_when_she_spoke_out_against_trump.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 52
+    images:
+      - url: "https://assets.realclear.com/images/54/542934.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "NYT's Tom Friedman: Liz Cheney And Mitt Romney Are Defending Democracy From Trump's \"Gigantic Lie\""
     excerpt: "New York Times columnist Thomas Friedman warned there would be \"people in the streets\" if Republicans who believe President Trump's \"big lie\" about voter fraud in the 2020 election during an appearance Monday with CNN's Anderson Cooper."
     publishedDateTime: 2021-05-04T14:53:00Z

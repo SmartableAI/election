@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-04-01-jill-biden-urges-farmworkers-to-get-vaccinated-in-california.md",
+      "title": "Jill Biden urges farmworkers to get vaccinated in California",
+      "excerpt": "First lady Jill Biden is praising California farmworkers for their persistence during the pandemic and urging them to get vaccinated",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/wireStory/jill-biden-urges-farmworkers-vaccinated-california-76800132",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/jill-biden-urges-farmworkers-vaccinated-california-76800132",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Health/WireAP_582476d4c83f4a849953260173f0be01_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-san-diego-county-official-rips-biden-newsom-as-migrant-children-prioritized-over-calif-students.md",
       "title": "San Diego county official rips Biden, Newsom as migrant children prioritized over Calif. students",
       "excerpt": "San Diego County Supervisor Jim Desmond sounded off on \"Hannity\" Wednesday, after the Biden administration sent hundreds of Central American migrant children to be housed and formally educated by local teachers at the San Diego Convention Center,",
@@ -1275,62 +1327,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-scott-atlas-blasts-despicable-birx-and-fauci-trying-to-overtly-rewrite-history-on-coronavirus-trump.amp",
       "publishedDateTime": "2021-03-30T21:41:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet.md",
-      "title": "Sen. Ron Johnson: Biden border policies facilitating business of the 'most evil people on the planet'",
-      "excerpt": "Sen. Ron Johnson, R-Wis., slammed the Biden administration’s immigration plan as \"misguided\" telling \"Fox News Primetime\" it is going to lead to \"greater inhumanity.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pu62k5rxjm0/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pu62k5rxjm0/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-ron-johnson-biden-border-policies-facilitating-business-of-the-most-evil-people-on-the-planet.amp",
-      "publishedDateTime": "2021-03-30T21:28:13-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

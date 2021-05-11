@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden administration holds migrant children in mass shelters by the tens of thousands with little oversight"
+    excerpt: "The Biden administration is holding tens of thousands of asylum-seeking children in an opaque network of some 200 facilities that The Associated Press has learned spans two dozen states and includes five shelters with more than 1,000 children packed inside."
+    publishedDateTime: 2021-05-11T11:49:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FwKP6zcails/biden-migrant-children-mass-shelters-emergency-intake-sites"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-migrant-children-mass-shelters-emergency-intake-sites.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-migrant-children-mass-shelters-emergency-intake-sites.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21127648091131.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "wbxvHII/v3aB1CepV2bJNUSHhzQwlr7vX+4HpvsJCLzJkKfFs2kEO2eKom14q7Gg1Z3Wy+7XBsSQb31BWDO+ofhS0zsc5IA/naQw1H92cVH1xsVUzNfux74aQTb1yJuL1HMPCIAQ5hOY6dlHlVic2Q3O6JDpwlk42+degbYPWPSwZkS37oBxD8T5Kn+XCOoy5wQLE6DosCYepQ4QRO0z+0Fk4xrXBpC2moduO5rY5l378Jg+oA4xXJvtKv++xbArlAGYwu35mXKSEcZTgctfqryjebIh4cFNUa1dIplIEuri9/e3v9/XN+A1FL8PXTNJ3DpFyOGlsgy+kpbsSw3alntnlCKWaXf302aYWLIS26M=;wGj3ufLW6MUJlv9RxpYimg=="
 ---

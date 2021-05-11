@@ -2,6 +2,62 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-04-12-biden-calls-for-peace-and-calm-in-the-wake-of-daunte-wrights-fatal-encounter-with-police-in-minnesota.md",
+      "title": "Biden calls for 'peace and calm' in the wake of Daunte Wright's fatal encounter with police in Minnesota",
+      "excerpt": "President Joe Biden on Monday called for \"peace and calm\" in the wake of Daunte Wright's fatal encounter with police in Minnesota, saying his death does not justify violence or looting.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p4s72Nch4qU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p4s72Nch4qU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210408121518-joe-biden-april-8-2021-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/12/politics/joe-biden-daunte-wright-brooklyn-center-police-shooting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/joe-biden-daunte-wright-brooklyn-center-police-shooting/index.html",
+      "publishedDateTime": "2021-04-12T16:49:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-sen-wicker-on-infrastructure-meeting-with-biden-we-made-good-points-but-there-is-a-lot-of-space-between-us.md",
       "title": "Sen. Wicker on infrastructure meeting with Biden: We made good points but 'there is a lot of space between us'",
       "excerpt": "Senator Roger Wicker (R-MS) joined Fox Business' 'Kudlow' on Monday following his Oval Office meeting with President Biden and says he and his Republican colleagues made 'good points' but noted there remains 'a lot of space between' the two parties",
@@ -1304,58 +1360,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-joe-biden-could-his-tax-plan-affect-us-investment-in-ireland.md",
-      "title": "Joe Biden: Could his tax plan affect US investment in Ireland?",
-      "excerpt": "The head of the country's inward investment agency, Martin Shanahan, described the Stripe investment as a \"phenomenal signal from Ireland and about Ireland\". But there's now a risk that the pipeline of investment from the US could dry up if President Joe Biden can lead a major change to global tax rules.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-europe-56692865?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_custom4=AFD12F22-9A8C-11EB-975F-DCB94744363C&at_medium=custom7",
-      "originalUrl": "https://www.bbc.com/news/world-europe-56692865?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_custom4=AFD12F22-9A8C-11EB-975F-DCB94744363C&at_medium=custom7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13308/production/_117900687_06ffc346-865c-4109-8912-654957eb9bfa.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/world-europe-56692865",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-europe-56692865",
-      "publishedDateTime": "2021-04-10T23:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
