@@ -269,6 +269,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Power Up: The fight over Liz Cheney and Donald Trump is just beginning"
+    excerpt: "Remaining silent and ignoring the lie emboldens the liar,' Cheney told a nearly empty chamber House chamber on Tuesday night."
+    publishedDateTime: 2021-05-12T09:45:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/05/12/power-up-fight-over-liz-cheney-donald-trump-is-just-beginning/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/12/power-up-fight-over-liz-cheney-donald-trump-is-just-beginning/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/12/power-up-fight-over-liz-cheney-donald-trump-is-just-beginning/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3PYSQBVSYMI6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 1012
+        isCached: true
+  - title: "Republicans vie for Trump's mantle in Pa. Senate primary"
+    excerpt: "Republicans are bracing for a potentially heated Senate primary in Pennsylvania that will see candidates competing to tie themselves to former President Trump."
+    publishedDateTime: 2021-05-12T10:00:00Z
+    webUrl: "https://thehill.com/homenews/campaign/553008-republicans-vie-for-trumps-mantle-in-pa-senate-primary"
+    ampWebUrl: "https://thehill.com/homenews/campaign/553008-republicans-vie-for-trumps-mantle-in-pa-senate-primary?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/553008-republicans-vie-for-trumps-mantle-in-pa-senate-primary?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bartosjeff_parnellsean_sandscarla_051121bartos-getty-usconsulate-lp_camp.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "The crucial thing Liz Cheney’s GOP critics don’t say: She’s wrong about Trump"
     excerpt: "Liz Cheney (Wyo.) may not be long for House GOP leadership. After a failed attempt to oust the No. 3 GOP official following her vote to impeach President Donald Trump, the movement has again built steam following Cheney’s increasing efforts to distance her party from Trump and his false claims about a stolen 2020 election."
     publishedDateTime: 2021-05-04T15:49:00Z
@@ -551,6 +583,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 44
+  - title: "Liz Cheney Vote: U.S. House Republicans Reach Watershed Over Trump"
+    excerpt: "Republicans in the U.S. House of Representatives will vote on Wednesday whether to eject Liz Cheney, an outspoken critic of Donald Trump, from her leadership post, a move likely to cement their dependence on the former president in the 2022 elections."
+    publishedDateTime: 2021-05-12T10:03:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-05-12/liz-cheney-vote-us-house-republicans-reach-watershed-over-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "zzWlcu5b8jw0z4XSdNrHqsOuUgXiF1gFd0Pp/vOe6WYpoZjxRAttFL3t7bwIG6X2HPaJizTCXNakoRCI3Y1R/hpikv0DW3n/JDlk9o4uxJ3dnrkjj+rh1grvza8avxkZkjkagv3OtrX6MM7cXd1z+fy8vH8EvrzQxLiAzSNkLHIkmL19R+Zv4ia/wE57sk8+6v+g6qZiym8PvGt1+vDFd5qkND4NFYWMCPKJwwx/38DaBfo4o4v2uj0pLbeLWrVPYIL09N5vFZiPWtv6YXolg1Z4T+eluGOhc3oUARigrAFHHruJkh4480Vv+P4se3ES45xOBecL4Kc5MFjDqds6w6/+icLJcEN34Bn0UU3H7blD4RyDHCmKDyHS/cUZ7iiNEhJ86BAUnpKTU+3a4vC/x4ml36uablPoHwObueXQG+3O977ggIL4ptFk8ebWXo0aawumLWUE3D/tuJ1ksxP966muox79O/aDIT+/VjoyBbDnwnVpLW0W7Sr8SokWxIBFMewQu3ut5/5o5898mIDKiQ==;+5TiiTlx+CxgJCN4YnWQTQ=="
 ---

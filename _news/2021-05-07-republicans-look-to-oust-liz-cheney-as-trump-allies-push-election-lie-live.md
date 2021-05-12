@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trum
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
 type: article
 quality: 137
-heat: 817
+heat: 877
 published: true
 
 provider:
@@ -252,6 +252,38 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PJ2U5YTCQAI6XILXO5S7FGUVEQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Power Up: The fight over Liz Cheney and Donald Trump is just beginning"
+    excerpt: "Remaining silent and ignoring the lie emboldens the liar,' Cheney told a nearly empty chamber House chamber on Tuesday night."
+    publishedDateTime: 2021-05-12T09:45:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/05/12/power-up-fight-over-liz-cheney-donald-trump-is-just-beginning/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/12/power-up-fight-over-liz-cheney-donald-trump-is-just-beginning/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/12/power-up-fight-over-liz-cheney-donald-trump-is-just-beginning/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3PYSQBVSYMI6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 1012
+        isCached: true
+  - title: "Republicans vie for Trump's mantle in Pa. Senate primary"
+    excerpt: "Republicans are bracing for a potentially heated Senate primary in Pennsylvania that will see candidates competing to tie themselves to former President Trump."
+    publishedDateTime: 2021-05-12T10:00:00Z
+    webUrl: "https://thehill.com/homenews/campaign/553008-republicans-vie-for-trumps-mantle-in-pa-senate-primary"
+    ampWebUrl: "https://thehill.com/homenews/campaign/553008-republicans-vie-for-trumps-mantle-in-pa-senate-primary?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/553008-republicans-vie-for-trumps-mantle-in-pa-senate-primary?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bartosjeff_parnellsean_sandscarla_051121bartos-getty-usconsulate-lp_camp.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "The crucial thing Liz Cheney’s GOP critics don’t say: She’s wrong about Trump"
     excerpt: "Liz Cheney (Wyo.) may not be long for House GOP leadership. After a failed attempt to oust the No. 3 GOP official following her vote to impeach President Donald Trump, the movement has again built steam following Cheney’s increasing efforts to distance her party from Trump and his false claims about a stolen 2020 election."
@@ -551,6 +583,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 44
+  - title: "Liz Cheney Vote: U.S. House Republicans Reach Watershed Over Trump"
+    excerpt: "Republicans in the U.S. House of Representatives will vote on Wednesday whether to eject Liz Cheney, an outspoken critic of Donald Trump, from her leadership post, a move likely to cement their dependence on the former president in the 2022 elections."
+    publishedDateTime: 2021-05-12T10:03:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-05-12/liz-cheney-vote-us-house-republicans-reach-watershed-over-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "VGwOqao60DjG+Va/dCWDlDNkvwHiv4Tl93fy7njVhFv375zTeYaOPFUoxTWNJ+pxkHXxPCV3zoDaTfSJVXI5Jysf95T85wu79K6Jh/w5bbU8P6w51VyIQPGqQzLCxIkv0NonsRiFWcuTWxxmBEwjMHWzuJZXZix13oQrxjQVk0OcQVkGLhxp0DedJeUimy1t0kxNMK+Yb9GutKUnchh3HH2aXvqQGoTzzdcNJmQ2/GkKtHI4ad9fLFXL2ssY7QciQ6P6OgkaCg9oDH5yjMPQ19E6OLjV76pOCsLlL8N7kbIbPPeC59BzjIkBkZWSLsUJ0ub/BJoxmOsMoQPk95/Ox9bx4cKfylevIjJE2QtlxnOGZx8pbEeVQBmwO0AzilDXaqqiYO9Jk+/RuLZuHELIfwkmLqJ8bkk6R8MoeEyeUnNnAk3F3822ulMvcAHKZ0ciqdJChXtI1xOpNbRvjv2309HhhjXDdWbCrPx4zs39Qan+SjIBueO4ms0rVsVImK9ssqrbXWZtZg9oULeAKvkbAA==;ucejVfiYTnYAnwYvSiI+eQ=="
 ---

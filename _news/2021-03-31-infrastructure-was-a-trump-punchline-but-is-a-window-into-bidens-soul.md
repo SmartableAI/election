@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure-plan-donald-trump/index.html"
 type: article
 quality: 190
-heat: 1670
+heat: 1690
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200724045327-03-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration winds down Trump's pandemic food box program"
+    excerpt: "As the country slowly climbs out of the pandemic, the Biden administration is ending a program that delivered nearly 167 million boxes of fresh food to families in need and helped farmers sell their produce at a time when supply chain disruptions forced them to dump milk and destroy their crops.\n   "
+    publishedDateTime: 2021-05-12T11:24:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vxtzW_C0_K0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/usda-farmers-to-families-food-box/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/usda-farmers-to-families-food-box/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210510183257-01-farmers-to-families-food-boxes-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

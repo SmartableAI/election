@@ -287,6 +287,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden adds pressure to congressional talks with self-imposed deadlines"
+    excerpt: "... Palestinian president over 'current situations' MORE told reporters Monday that President Biden Joe Biden Kinzinger, Gaetz get in back-and-forth on Twitter over Cheney vote Cheney in defiant ..."
+    publishedDateTime: 2021-05-12T10:00:00Z
+    webUrl: "https://thehill.com/homenews/administration/553009-biden-adds-pressure-to-congressional-talks-with-self-imposed"
+    ampWebUrl: "https://thehill.com/homenews/administration/553009-biden-adds-pressure-to-congressional-talks-with-self-imposed?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/553009-biden-adds-pressure-to-congressional-talks-with-self-imposed?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/gettyimages-1232810500.jpg"
+        width: 980
+        height: 653
+        isCached: true
   - title: "Joe Biden's Bipartisan Dream May Already Be Dead"
     excerpt: "The president could struggle to win support from Republicans unless he sacrifices Democratic priorities, experts have warned."
     publishedDateTime: 2021-05-12T09:43:00Z

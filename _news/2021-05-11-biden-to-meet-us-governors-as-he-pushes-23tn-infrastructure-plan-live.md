@@ -2,9 +2,9 @@
 category: news
 title: "Biden to meet US governors as he pushes $2.3tn infrastructure plan – live"
 excerpt: "Republicans and Democrats clash over specifics of proposal as Mitch McConnell says no rollback of Trump-era tax cuts – follow the latest news"
-publishedDateTime: 2021-05-11T15:23:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live?page=with:block-609a982f8f08973dcface1de"
-webUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live?page=with:block-609a982f8f08973dcface1de"
+publishedDateTime: 2021-05-11T16:00:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live?page=with:block-609a940e8f080cbad78faa6e"
+webUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live?page=with:block-609a940e8f080cbad78faa6e"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
 type: article
@@ -94,6 +94,6 @@ related:
         height: 355
         isCached: true
 
-secured: "4/fEu0nqYrz14lWZAmooqC9Ph2aPR4XfkYYDoV3YiTrv1uAkkaAmsHMqkm8Qz+4IzFTDnHulSVdLfkOj44qe1X2Gg4CURj4j+UHtl6q5jWAJ9F49OuWWajPRFjk6DLchgJwwgnbgAf9Jg/0w43mZ9624L1oBRPj3eZA+3Kx7Tp6Z/7ZXMF+CcPz+YwWz+9P/knuPZYAHCC+aIBV82PYhwH4IXxPZyW2O5xuqwgYDp8Hzg27TY6peym3h4pHoJQ/lR0slJ39/KohwcpgV6RAcHt1ZAqCathx5mX3gLFL77g4EmsaM2SerBCyGombs/00MkwDCerjlML7WT1pi7Tsx1tGtX0LAMw/sdp5SgIZ45721J1ZhQPm/r17wH/DVQbxnZpsTna6NXqkqBp2noDAMDOj/RfmDjgkZOT19e417EfJfdq9BqVXzuii0NmqvdGDAj9COElG0aLdl++b/WNuA2bb8x+SPxnuuGIgxHTEp4UrNwhI2DaaL1L4YncHT2IeHsTYq/AiOJupugh1i5H33ow==;EAyJ8yJVYSl5lQNTRkHddQ=="
+secured: "KTP18ohFFDioBHrSD1vLFgMMzx77oXFPhz5fnlemPERDRucsh9QVl9KRm5PrSAykccFp1ldmroLO0nw2as43fjZwWfFEiqKc1M1PCLd5kbOo04INRUtZZXOTJo0bPLO7U8gPpZVxK+SjiBMkX7Fv0mVGTu0VeNhgNORHnMO/kEv6CyM4vXhHAyj91JvPrgtURitzdqQxyUJgftFf7q8eeA2eB9EXyLPcmvTSPCUlHFtfwteNtJTo4ESRFS9oAl8742lyVgnZrYw5+EBIhd9h8ck/ENOPTlbErLFagSHfxY6HK57JcAJ1rdGztqlavUlNCk5pTs891E1pgYM6u+i/LaS0obKMPlv9aCfhHX+BwRM=;9jRgAQgZ4ybhlTwkfRWXnQ=="
 ---
 

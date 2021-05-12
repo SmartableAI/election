@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Battered Biden under siege as crises confound the White House"
+    excerpt: "The jobs figures were just the first in a series of out-of-nowhere body blows President Biden was to be pilloried with during a remarkable five days of bad developments that stretched from Israel to the Mexican border and up the East Coast via the Colonial Pipeline."
+    publishedDateTime: 2021-05-12T10:16:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EcXFFsKsT5E/biden-israel-mexican-border-colonial-pipeline"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-israel-mexican-border-colonial-pipeline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-mexican-border-colonial-pipeline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a4dd761-73cd-4ab5-b8ba-68c66060f1ba/ecb9432b-0faa-4fe7-872e-9b213feb4d61/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden waives ethics rules for former union bosses who now work in White House"
     excerpt: "The Biden administration has come under scrutiny from Republicans on Capitol Hill following its decision to circumvent federal ethics rules and staff former union officials in senior posts."
     publishedDateTime: 2021-05-08T22:38:58Z
@@ -269,6 +285,22 @@ related:
     quality: 85
     images:
       - url: "https://assets.realclear.com/images/53/538384_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden Sets Everything on Fire"
+    excerpt: "Joe Biden is the luckiest man to ever assume the presidency. He succeeded an unpopular figure. He was inaugurated just two weeks after the dramatic storming"
+    publishedDateTime: 2021-05-12T10:00:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/543021_5_.jpg"
         width: 750
         height: 500
         isCached: true

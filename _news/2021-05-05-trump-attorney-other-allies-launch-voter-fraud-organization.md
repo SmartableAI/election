@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Liz Cheney expected to lose House Republican leadership post over feud with Trump"
+    excerpt: "Rep. Liz Cheney is expected to lose her post in the House Republican leadership on Wednesday after publicly rejecting for months former President Donald Trump's lie that he won the 2020 presidential election.\n    \n"
+    publishedDateTime: 2021-05-12T11:38:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xlHKAjw6hIo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/liz-cheney-gop-conference-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/liz-cheney-gop-conference-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512070929-03-liz-cheney-vote-lead-image-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Elise Stefanik's rapid rise as Trump supporter highlights the Trump takeover of the GOP"
     excerpt: "GOP Rep. Elise Stefanik now appears poised to become the next House Republican conference chairwoman as the party unites against Rep. Liz Cheney for calling out former President Donald Trump's Big Lie that the 2020 election was stolen.\n    \n"
     publishedDateTime: 2021-05-05T21:27:49Z

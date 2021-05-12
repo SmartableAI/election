@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-08-ohio-gop-censures-representative-anthony-gonzalez-for-not-supporting-trump.md",
+      "title": "Ohio G.O.P. censures Representative Anthony Gonzalez for not supporting Trump.",
+      "excerpt": "They are also calling for Mr. Gonzalez to resign for being one of 10 Republican House members who voted to impeach Donald J. Trump after the Jan. 6 riot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.html",
+      "originalUrl": "https://www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/05/07/us/07new-wash-gonzalez/07new-wash-gonzalez-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.amp.html",
+      "publishedDateTime": "2021-05-07T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-08-campos-duffy-slams-kamala-harris-border-absence-media-giving-her-free-pass.md",
       "title": "Campos-Duffy slams Kamala Harris’ border absence: Media giving her ‘free pass’",
       "excerpt": "Fox News contributor Rachel Campos-Duffy on \"Outnumbered\" Friday slammed Kamala Harris’ border absence and the media giving her a \"free pass.\"",
@@ -175,7 +232,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
       "featuredContent": null,
       "highlight": null,
-      "heat": 817,
+      "heat": 877,
       "tags": null,
       "images": [
         {
@@ -551,62 +608,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-06-trump-allies-search-for-viable-cheney-foe-in-wyoming-amid-fight-over-big-lie.md",
-      "title": "Trump allies search for viable Cheney foe in Wyoming amid fight over 'Big Lie' ",
-      "excerpt": "Chuck Gray, a Wyoming Republican state legislator, \"absolutely\" believes that former President Donald Trump won the 2020 election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c0bxwwRiiis/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c0bxwwRiiis/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210505174309-chuck-gray-wyoming-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/06/politics/wyoming-trump-allies-cheney-fight/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/wyoming-trump-allies-cheney-fight/index.html",
-      "publishedDateTime": "2021-05-06T08:01:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-06-democrats-eye-a-comeback-in-missouri-where-post-trump-turmoil-on-display.md",
       "title": "Democrats eye a comeback in Missouri, where post-Trump turmoil on display",
       "excerpt": "Recruiting is a challenge in a state Trump won by more than 15 percentage points last year and where Democrats have won only one statewide race in eight years.",
@@ -713,63 +714,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-auditioning-to-replace-cheney-stefanik-calls-trump-the-strongest-supporter-of-the-constitution.md",
-      "title": "Auditioning to replace Cheney, Stefanik calls Trump ‘the strongest supporter’ of the Constitution.",
-      "excerpt": "Representative Elise Stefanik pitched herself as an unshakable Trump ally as momentum gathered to oust his fervent critic, Representative Liz Cheney, from the Republican leadership.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/06/us/politics/stefanik-trump-cheney.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/06/us/politics/stefanik-trump-cheney.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/06/us/06new-washington-briefing-stefanik/06new-washington-briefing-stefanik-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/06/us/politics/stefanik-trump-cheney.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/06/us/politics/stefanik-trump-cheney.amp.html",
-      "publishedDateTime": "2021-05-06T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -1372,6 +1316,62 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-donald-trump-promises-supporters-will-be-very-happy-when-he-makes-2024-announcement.md",
+      "title": "Donald Trump promises supporters will be ‘very happy’ when he makes 2024 announcement",
+      "excerpt": "President Donald Trump on Tuesday promised his supporters would be very happy when he eventually makes his announcement about whether he will run in the 2024 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1DKa-ZACLs0/donald-trump-supporters-very-happy-2024-announcement",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1DKa-ZACLs0/donald-trump-supporters-very-happy-2024-announcement",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d8dfd42-a466-417d-af47-80dd92a6b6df/19decefa-a9f0-45ff-9c45-cf4297aed3b1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-supporters-very-happy-2024-announcement.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-supporters-very-happy-2024-announcement.amp",
+      "publishedDateTime": "2021-05-04T18:59:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

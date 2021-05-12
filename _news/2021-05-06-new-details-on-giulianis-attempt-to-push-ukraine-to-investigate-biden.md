@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden announces third slate of judicial nominees"
+    excerpt: "President Joe Biden on Wednesday announced his intent to nominate three new US Court of Appeals nominees and three new District Court nominees, marking his third slate of judicial nominations.\n    \n"
+    publishedDateTime: 2021-05-12T11:26:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FMpRDmnsXEc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/biden-judicial-nominees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/biden-judicial-nominees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210511194308-biden-for-filipovic-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration approves first major offshore wind project in US waters"
     excerpt: "The Biden administration announced Tuesday that it is moving forward with the nation's first large-scale offshore wind project, a significant step toward achieving President Joe Biden's goal of increasing US renewable energy production.\n    \n"
     publishedDateTime: 2021-05-11T22:18:16Z
@@ -128,6 +144,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Israeli and Palestinian violence pulls US focus back to Middle East, despite Biden's plans "
+    excerpt: "Entering office, President Joe Biden hoped to shift US foreign policy away from the Middle East and toward areas he thought of as more modern-day threats: China, Russia and cyberspace.\n    \n"
+    publishedDateTime: 2021-05-12T11:02:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LdHMzJ0aG34/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/biden-middle-east-israelis-palestinians/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/biden-middle-east-israelis-palestinians/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210414150949-06-biden-afghanistan-remarks-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to meet with key moderate Democratic Sen. Kyrsten Sinema on infrastructure on Tuesday "
     excerpt: "President Joe Biden will meet with Arizona Democratic Sen. Kyrsten Sinema at the White House on Tuesday afternoon to talk about his infrastructure proposal, White House official said.\n    \n"
     publishedDateTime: 2021-05-11T18:08:36Z
@@ -157,6 +189,22 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429114426-01-joe-manchin-biden-joint-session-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Top congressional leaders to meet with Biden for the first time in crucial week for his infrastructure plan"
+    excerpt: "President Joe Biden faces a crucial moment on Wednesday in what is shaping up as an important week for his infrastructure priorities when he holds his first bipartisan meeting with the top four members of congressional leadership at the White House.\n    \n"
+    publishedDateTime: 2021-05-12T11:11:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qdyikHHEF_U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/joe-biden-meeting-congressional-leadership/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/joe-biden-meeting-congressional-leadership/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507133814-01-joe-biden-0507-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
