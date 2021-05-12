@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-administration-arctic-challen
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-arctic-challenges-russia-china-threats.amp"
 type: article
 quality: 167
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63f883a6-06be-4ace-bff6-550cbbb8026b/48a9dcbc-17e6-415b-872e-78490dcf151d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "'Really scary' to see gas shortages in first months of Biden admin: Lara Trump"
+    excerpt: "Fox News contributor Lara Trump sounded the alarm on America's energy independence under the Biden administration, Wednesday, telling \"Fox & Friends\" that the Colonial Pipeline cyberattack and resulting panic at the pump is \"really scary."
+    publishedDateTime: 2021-05-12T15:14:00Z
+    webUrl: "https://www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump"
+    ampWebUrl: "https://www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "26gOJL8YMWNSQl2Ky5/5m1Ng6pWoDlkx/ADn+rAiKi4wVwp1ycO4GJuaSW+uwUQyj5mzSJ6qBxGpQh6RQaop8DxxqnxyFmm5HIGzuVIJUG3zWDS3zjzB6B6kjbSlHXPQZ4wSaK/3oyPbwXxLiOjBOuIHWpoczOw9JKDF+hStK/fIMu5EBLZMakuA1xMJrMRENCdj+ApI07O1bAZ90As4IoG8RkS3p2KdeZb/u5ytpGPTpvejJBpGQGDypJSy1AnZETvsE0he6cXgq9IxFgInPAMmg3dbnUfgIGB/lLqlLYMYm4j+D19FZ+oa1zCmAT8GxPJYkW6Ley6uo1veOiCEYZa3gjFWrXKPITZAeoe0fkM=;2ZJBMGVZ5F/yKkaw1Oy3hQ=="

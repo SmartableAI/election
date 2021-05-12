@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "'Really scary' to see gas shortages in first months of Biden admin: Lara Trump"
+    excerpt: "Fox News contributor Lara Trump sounded the alarm on America's energy independence under the Biden administration, Wednesday, telling \"Fox & Friends\" that the Colonial Pipeline cyberattack and resulting panic at the pump is \"really scary."
+    publishedDateTime: 2021-05-12T15:14:00Z
+    webUrl: "https://www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump"
+    ampWebUrl: "https://www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "dlirTi3oott6GL8yV0kxrfT9XN9qDAuDlp3NLXhfWf7KH0NBn+hgbF2AHoNEUqVLHJkVHP7svhzV0+2pWkpYRNyuxFzjzWZhc2t1cpAq6RVefQ1Obtn+ntyKj6rEH6TTj4GUq02GjI3ZsKUCra3HuX59TptUHgS5Xpn3ag6Y2n38pzjGg4kaySOxR8n9oGMDAXZCZqfnQ0t322eAmJhfhuI7YkF1WR7k+ikBrKXZoeuZYf4+LPhtLZo43rVvnkfvOKKVKsSb2Q3N6EWebxPw6I4JKY2hjnSX5HpHHYmPvLS9/hsq/Q+bFj7VSi/Chp5ussVNpkbgolTEe1lUpzPGRGfnO+u1iQU8gF6YSAifnOQ=;mRaJPw+myml9vpxfNpakHw=="
 ---

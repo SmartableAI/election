@@ -102,6 +102,22 @@ related:
       name: ABC
       domain: abcnews.go.com
     quality: 85
+  - title: "The Latest: Rosen won't answer question on Trump fraud claim"
+    excerpt: "Former acting Attorney General Jeffrey Rosen won't answer questions from Congress about whether then-President Donald Trump instructed him to take any action to try to advance Trump’s unfounded claims of election fraud."
+    publishedDateTime: 2021-05-12T16:34:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-gosar-defends-woman-killed-during-capitol-riot/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-gosar-defends-woman-killed-during-capitol-riot/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/the-latest-gosar-defends-woman-killed-during-capitol-riot/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/e4/8e468fe4-4107-5a69-a0b7-ca50a1f0c3c9/609bf15831d3e.image.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Of Course Donald Trump Jr.’s Ex-Wife Traded Him In for a Secret Service Agent"
     excerpt: "For example, if you found yourself married to Donald Trump Jr., the mortifying, simpleminded, sheep-killing son of the 45th president, whose own father seems to despise him, you’d almost certainly replace him with a Secret Service agent,"
     publishedDateTime: 2021-05-11T20:18:00Z

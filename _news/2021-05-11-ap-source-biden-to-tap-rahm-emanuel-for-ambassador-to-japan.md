@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/ap-source-biden-to-tap-rahm-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-source-biden-to-tap-rahm-emanuel-for-ambassador-to-japan/2021/05/11/436b9316-b276-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 785
         isCached: true
+  - title: "AP source: Biden to tap Rahm Emanuel for ambassador to Japan"
+    excerpt: "President Joe Biden is expected to nominate former Chicago Mayor Rahm Emanuel to serve as the U.S. ambassador to Japan"
+    publishedDateTime: 2021-05-11T18:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-biden-tap-rahm-emanuel-ambassador-japan-77625234"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 85
 
 secured: "vd7qCj0EffNc2iPTnaKDqWHWYFvRwc6msYrg8wrC5FESlj/KpeoO8Gf3xULF+6Ht8nVvaDv6dhb2V6KSK0iw8T5vkopv/fQNWISLv37gS/OwDb2VktcKDVyUuPFEJ2XWufbqOuDUWXWLnDyEG0HL/jj3JGXJroeFmxu9Xyj+D8shVNIgdViS30AfYicOfhoKafaUYg0enbwBy7CUnmTMb9Ot/ImQI6/UX312TdagP3hJs/E1FekzGlCQeR2bIgBkWws+0TDN04YnAzAiNqFBZLvnb+APdtuuDm+C0gc7OcGxLYaCl1AJA3sXFnDVt919Tf3s85pXAKXtr0/t9Jr+f6XmZmWVoZulPK3zwpEUkb6jpcmpwe73DjydPBR31ai/i4aj37zz7saRq9tSTYIX8jSZ5DzCB87Lff6mhZhaVS0eFHSW3zc6cLU607TmpEnTwVXzuJ0rhYAEBk3llrpbQM7jp4EmFFVlXX4XLpZ51aEoIbH2Wj/ohMdkr1KumuWH+uLHkGScjADBvgQuwjPQ+Q==;YfllIS0/CJpJgIkxxeZbpA=="
 ---

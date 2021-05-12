@@ -365,6 +365,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's Progressive Policies Are Making Lives Better"
+    excerpt: "Joe Biden's approval numbers are stunning, with 63% of Americans saying in a new poll that they approve of the job he's doing, writes Jill Filipovic. The President draws this while not making any big rhetorical waves but carefully guiding a progressive policy agenda aimed squarely at making people's lives better as quickly and efficiently as possible."
+    publishedDateTime: 2021-05-12T11:35:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/12/bidens_progressive_policies_are_making_lives_better_542609.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/542677_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "nYxApSlJgx8OqKibMxH7XtrY8uv9qJj9qS/v7yKkjpFmO1nNR5ys/NuuGSHydA1jKM50O1qAMierIY02IemIFTGgBT6j6dsRRua2AkZoV1N9NYFzj6PBDhu1tokF+yVpwDBmvHmVxnSCKb/EKvarmnzcIf4MI/+iolYHjEUrMyLLZX+2kKjsbDY2DjNTBiJsOrTt6iufQ7wWfqqiffcwvBMz19YGo+e0xfYHlEvKnKcDlzoKsrxr5PiXXY7sJOrHOMTVKHyOhtiV66Ny3GzLnuEdsuNVZ5/sUcq2/HyDu5DYKyk730+xewiyFac2Eoy/O1pCiNfJ0v+SUXlb2NvGV3A010Tyy1bBAEOl0mcasao=;tRy6noKumLk7tPaCu60/rw=="
 ---

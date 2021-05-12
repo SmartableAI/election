@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/donald-trump-liz-cheney-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/donald-trump-liz-cheney-joe-biden/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 255
 published: true
 
 provider:
@@ -62,6 +62,38 @@ related:
       - url: "https://static01.nyt.com/images/2021/05/06/us/politics/06trump-payments-1/06trump-payments-1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump takes victory lap after Cheney's ouster from House Republican leadership"
+    excerpt: "Cheney was demoted via a voice vote, meaning it will be impossible to know her level of support or opposition."
+    publishedDateTime: 2021-05-12T15:51:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-takes-victory-lap-after-cheney-s-ouster-house-republican-n1267081"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1267081"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1267081"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_19/3472284/210512-donald-trump-al-1029_f8418c0decab3404e85d1aeef062bdfc.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Cheney after being ousted from GOP leadership: 'We cannot be dragged backward' by Trump"
+    excerpt: "Rep. Liz Cheney continued to criticize former President Donald Trump after House Republicans held a voice vote to remove her from her position as conference chair. The congresswoman said she did not feel betrayed by the vote,"
+    publishedDateTime: 2021-05-12T14:27:00Z
+    webUrl: "https://www.nbcnews.com/video/cheney-speaks-after-being-ousted-from-gop-leadership-111771205665"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111771205665"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111771205665"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/f_mo_cheney_speaks_ousted_210512.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "lEIXT3FASl1aKADedQlU16OA3Y2FhLpgw6p/K1twKy1L8aVEiAQFOOf/zu4oBsGJCpW7ODsNcdV5IcCC6Pv7O9VBQkx0k7Y4J2aRfHG9FzxLarXcj5OEErx2j5opiK8rZG1fuuKMlPtEDr3Vd0RD1lpFfedEsdimEB+AQxYjmfZuQkJbjx9whtoFAYdwcIJgTmLc1AUPttlnHcNzea97ZTV8IhIAB1M/HzUEa8S1MV2x2d43ZdhzU9bOVLV+ioBwHFoVJJOVHo8bFUWMQ+RXRe7r20iBGo7m81dngoO85yA1p5CW8lC5npNMq6ctld7Y2c2fT8u5duronB1a0tcQgPMTzmZJ4pBBnn7ZR1SUC8g=;D8OwK3XZreHnD+HYAiHwBQ=="

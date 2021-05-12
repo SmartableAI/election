@@ -47,6 +47,15 @@ related:
         width: 1440
         height: 890
         isCached: true
+  - title: "AP source: Biden to tap Rahm Emanuel for ambassador to Japan"
+    excerpt: "President Joe Biden is expected to nominate former Chicago Mayor Rahm Emanuel to serve as the U.S. ambassador to Japan"
+    publishedDateTime: 2021-05-11T18:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-biden-tap-rahm-emanuel-ambassador-japan-77625234"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 85
 
 secured: "5Z/b9WG74x+Jn1faxRAU3vjzB7ZXr+Emn7+iKXB9CckQ98JMKuKr4AaL+wgXPoi89d+qt9cjlVPAgC/wZjlFFKuyuzYwTZ5hzgQoopA8V46gZr9T0mXm0+xjjfXj5xBgigGH9YM0nMdHJz9t4Zu6nq4mep1G9H0MzEBtjKAdKkg8uKgiRZM5AYY7o4nWu+q8CrzibKJ3h9+SVEfiIqzE0nFhg8Tvvew6FDRWjgpemRBWKHCA1uMH9Pv+zR29L1MkgNK/j4SYrDYjOaRGRZSxKHvAFZe2JMaTdbr8zqN7BcLlnb/pOXsAWIT1+rynpmZmYN7LShu9KtGwEJPS4P9L3NTLiKqNofvqLHLIEostp5c=;PRKvjc37CpUhzUZdTAuo/g=="
 ---

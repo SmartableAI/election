@@ -63,6 +63,38 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump takes victory lap after Cheney's ouster from House Republican leadership"
+    excerpt: "Cheney was demoted via a voice vote, meaning it will be impossible to know her level of support or opposition."
+    publishedDateTime: 2021-05-12T15:51:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-takes-victory-lap-after-cheney-s-ouster-house-republican-n1267081"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1267081"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1267081"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_19/3472284/210512-donald-trump-al-1029_f8418c0decab3404e85d1aeef062bdfc.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Cheney after being ousted from GOP leadership: 'We cannot be dragged backward' by Trump"
+    excerpt: "Rep. Liz Cheney continued to criticize former President Donald Trump after House Republicans held a voice vote to remove her from her position as conference chair. The congresswoman said she did not feel betrayed by the vote,"
+    publishedDateTime: 2021-05-12T14:27:00Z
+    webUrl: "https://www.nbcnews.com/video/cheney-speaks-after-being-ousted-from-gop-leadership-111771205665"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111771205665"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111771205665"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/f_mo_cheney_speaks_ousted_210512.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "nVj2/Kn9yO/WUBQzwrNp0AhrivqoUl2VT4MfsWFpEc9uPyYMKZLGoSbOCZlAxTudAMRtWyPFZstBbLk+ktG9ioWNYOZj0H/6+b4pGMPDl3lOlCFekXKxPFFic41eTl+ogvakxsz0lr+1o/lnjfOUwkI9Id4ovuTZndP/Ym0lCSb8CyIgEZ2tDcN8BT9AIPUPWaCwPk5QNuB5ma4YjUcjANE/592PeILycinIV3BbFjfYEwhy5skJukjsnOSDyYy3MOYP5YcZl7HefrB3K9jjrCKkelX7Y9RHrLtqU2qqzWXXeTYPyBpo6CzjdoYZLBCojlUKGKjpmmfvll0HJH0qwsdeugd1YpMYvG50/FVdCzM=;OhZI2FxbPWMPLYr7IPFHEA=="
 ---

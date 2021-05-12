@@ -92,6 +92,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cheney's next steps: Expanded political profile, possible support for anti-Trump candidates"
+    excerpt: "Liz Cheney has been cementing plans in recent days for increased travel and media appearances, a source familiar with the lawmaker's thinking confirmed to Fox News."
+    publishedDateTime: 2021-05-12T17:39:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bnXJKxeE-WQ/cheney-next-steps-expanded-anti-trump-profile"
+    ampWebUrl: "https://www.foxnews.com/politics/cheney-next-steps-expanded-anti-trump-profile.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-next-steps-expanded-anti-trump-profile.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Cheney says she'll campaign on impeaching Trump 'every day of the week' amid primary challenges"
     excerpt: "Rep. Liz Cheney said in an interview with Punchbowl News Thursday that she will stand behind her vote to impeach former President Donald Trump \"every day of the week\" as she faces multiple primary challengers in her 2022 reelection effort. "
     publishedDateTime: 2021-04-29T15:05:34Z
@@ -103,22 +119,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Cheney defiant after House GOP vote, says she'll do 'everything I can' to keep Trump from Oval Office"
-    excerpt: "Rep. Liz Cheney on Wednesday said that she will do \"everything I can\" to ensure that former President Donald Trump does not win the presidency again after she was ousted from House GOP leadership for her repeated broadsides against him. "
-    publishedDateTime: 2021-05-12T14:29:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GgEehtTFj1g/cheney-voted-out-reaction-trump-oval-office-republicans-house"
-    ampWebUrl: "https://www.foxnews.com/politics/cheney-voted-out-reaction-trump-oval-office-republicans-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-voted-out-reaction-trump-oval-office-republicans-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
@@ -187,6 +187,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/liz-cheney-removed-09.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Cheney defiant after House GOP vote, says she'll do 'everything I can' to keep Trump from Oval Office"
+    excerpt: "Rep. Liz Cheney on Wednesday said that she will do \"everything I can\" to ensure that former President Donald Trump does not win the presidency again after she was ousted from House GOP leadership for her repeated broadsides against him."
+    publishedDateTime: 2021-05-12T15:30:00Z
+    webUrl: "https://www.foxnews.com/politics/cheney-voted-out-reaction-trump-oval-office-republicans-house"
+    ampWebUrl: "https://www.foxnews.com/politics/cheney-voted-out-reaction-trump-oval-office-republicans-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-voted-out-reaction-trump-oval-office-republicans-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41bde045-9093-467b-a43a-501c71b78b49/0cbf0096-2feb-4bae-9a1b-5c7d4360f48e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "A.B. Stoddard: Cheney Knew She Would Likely Lose Leadership Role When She Spoke Out Against Trump"
     excerpt: "She's talking about her alarm at the fact that leadership is keeping negative polling about Donald Trump's toxicity in swing districts from their own members. She knew she would likely lose her leadership post and she would likely lose her seat in Wyoming."

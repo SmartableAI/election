@@ -57,6 +57,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden seeks consensus with Republicans as Trump critic ousted"
+    excerpt: "President Joe Biden held his first White House meeting with Republican leaders from Congress on Wednesday in search of common ground on his proposals to spend trillions of dollars on U.S. infrastructure,"
+    publishedDateTime: 2021-05-12T15:10:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-republicans/update-4-biden-seeks-consensus-with-republicans-as-trump-critic-ousted-idUSL1N2MZ1K3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CT177"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CT177"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210512&t=2&i=1561871435&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4B0LH"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden administration restores transgender health protections, reversing Trump policy"
     excerpt: "The move reverses a Trump-era policy​ that sought to narrow the scope of legal rights in sensitive situations involving medical care."
     publishedDateTime: 2021-05-10T13:00:00Z
@@ -310,6 +326,22 @@ related:
     quality: 125
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LN75SESQ6EI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "House GOP ousts Trump critic Liz Cheney from top post"
+    excerpt: "WASHINGTON — House Republicans ousted Rep. Liz Cheney from her post as the chamber’s No. 3 GOP leader on Wednesday, punishing her after she repeatedly rebuked former President Donald Trump for his false claims of election fraud and his role in inciting the Jan."
+    publishedDateTime: 2021-05-12T15:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/house-gop-set-to-oust-trump-critic-liz-cheney-from-top-post/2021/05/12/c60f2196-b2d7-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/house-gop-set-to-oust-trump-critic-liz-cheney-from-top-post/2021/05/12/c60f2196-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/house-gop-set-to-oust-trump-critic-liz-cheney-from-top-post/2021/05/12/c60f2196-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3XYIULFTEUI6XPEW7X2V3ZB354.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
