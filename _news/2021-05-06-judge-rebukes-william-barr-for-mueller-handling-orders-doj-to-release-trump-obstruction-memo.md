@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4952659001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4952659001"
 type: article
 quality: 114
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Melania Trump Stuns In Sleeveless Polka Dot Dress During Mother's Day Lunch With Donald, Barron"
-    excerpt: "Melania Trump was stunning during her Mother's Day lunch with her husband Donald and son Barron before the ex-POTUS left for New Jersey."
-    publishedDateTime: 2021-05-11T05:50:00Z
-    webUrl: "https://www.ibtimes.com/melania-trump-stuns-sleeveless-polka-dot-dress-during-mothers-day-lunch-donald-barron-3196534"
-    ampWebUrl: "https://www.ibtimes.com/melania-trump-stuns-sleeveless-polka-dot-dress-during-mothers-day-lunch-donald-barron-3196534?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-stuns-sleeveless-polka-dot-dress-during-mothers-day-lunch-donald-barron-3196534?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 63
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-and-his-wife-melania-left-washington.jpg"
-        width: 1024
-        height: 668
-        isCached: true
   - title: "Melania Trump Stunning In Sleeveless Polka Dot Dress During Mother's Day Lunch With Donald, Barron"
     excerpt: "Melania Trump was stunning during her Mother's Day lunch with her husband Donald and son Barron before the ex-POTUS left for New Jersey."
     publishedDateTime: 2021-05-11T05:50:00Z

@@ -2,63 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-05-02-biden-is-a-moderate-no-more-judge-jeanine.md",
-      "title": "Biden is a 'moderate no more': Judge Jeanine",
-      "excerpt": "Guests: Byron Donalds, Richard Grenell, Steve Moore, Lara Trump, Ashley Strohmier, Joe Concha, Leo Terrell, Tomi Lahren",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/judge-jeanine-it-took-less-than-100-days-to-change-america",
-      "originalUrl": "https://www.foxnews.com/transcript/judge-jeanine-it-took-less-than-100-days-to-change-america",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/958aab46-31d1-4580-9e3d-f4cc6cbf1485/7d4cbc2a-2e07-4dc2-bbde-8e717f1b64e1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/judge-jeanine-it-took-less-than-100-days-to-change-america.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/judge-jeanine-it-took-less-than-100-days-to-change-america.amp",
-      "publishedDateTime": "2021-05-02T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-02-biden-adviser-president-didnt-say-absolutely-open-schools-in-fall-because-virus-is-unpredictable.md",
       "title": "Biden adviser: President didn't say 'absolutely' open schools in fall because virus is unpredictable",
       "excerpt": "President Joe Biden hasn't committed to K-12 schools reopening full-time and in-person in the fall, one of his senior advisers said Sunday, because the coronavirus remains unpredictable.\n    \n",
@@ -632,58 +575,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-national-digest-gop-lawmakers-accuse-biden-administration-of-tampering-with-census-numbers.md",
-      "title": "National Digest: GOP lawmakers accuse Biden administration of tampering with census numbers",
-      "excerpt": "A group of Republican lawmakers have accused the Biden administration of tampering with census numbers after data released this week showed lower than expected counts in some red states. Seventeen GOP members of Congress sent a letter Friday to Commerce Secretary Gina Raimondo questioning “the methodology and the role the Biden White House may have played in releasing these numbers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/national-digest-gop-lawmakers-accuse-biden-administration-of-tampering-with-census-numbers/2021/04/30/3dcdda00-a4ab-11eb-a7ee-949c574a09ac_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/national-digest-gop-lawmakers-accuse-biden-administration-of-tampering-with-census-numbers/2021/04/30/3dcdda00-a4ab-11eb-a7ee-949c574a09ac_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/national-digest-gop-lawmakers-accuse-biden-administration-of-tampering-with-census-numbers/2021/04/30/3dcdda00-a4ab-11eb-a7ee-949c574a09ac_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/national-digest-gop-lawmakers-accuse-biden-administration-of-tampering-with-census-numbers/2021/04/30/3dcdda00-a4ab-11eb-a7ee-949c574a09ac_story.html?outputType=amp",
-      "publishedDateTime": "2021-04-30T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1346,6 +1237,114 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-officials-in-switzerland-push-back-at-biden-tax-haven-barb.md",
+      "title": "Officials in Switzerland push back at Biden 'tax haven' barb",
+      "excerpt": "Swiss authorities are taking issue with comments from U.S. President Joe Biden to Congress that many companies use Switzerland as a tax haven",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/officials-switzerland-push-back-biden-tax-haven-barb-77417358",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/officials-switzerland-push-back-biden-tax-haven-barb-77417358",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/210430_vod_onlocation_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/officials-switzerland-push-back-biden-tax-haven-barb-77417358",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/officials-switzerland-push-back-biden-tax-haven-barb-77417358",
+      "publishedDateTime": "2021-04-30T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-04-30-texas-congressional-race-showcases-gop-fight-over-trump-conspiracy-theories-and-election-lies.md",
+      "title": "Texas congressional race showcases GOP fight over Trump, conspiracy theories and election lies ",
+      "excerpt": "Some Republicans in a crowded field of candidates competing for a US House seat in Texas ahead of a May 1 special election have embraced Donald Trump and his political legacy. A former professional wrestler is using the tagline \"make America Texas again\" as he warns \"commies in DC are ruining America.\"",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WqjrEkWIjVw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WqjrEkWIjVw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 578,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210429222942-texas-6th-district-special-election-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-special-election-trump-conspiracy-theories/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/30/politics/texas-6th-congressional-special-election-trump-conspiracy-theories/index.html",
+      "publishedDateTime": "2021-04-30T04:36:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

@@ -138,6 +138,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden rolls out racially diverse slate of judicial nominees, including a Bush nominee"
+    excerpt: "President Biden on Wednesday announced his intent to nominate three new Court of Appeals nominees and three new District Court nominees—all of which embody his commitment to ensuring judicial nominees “represent not only the excellence but the diversity of our nation,” the White House said."
+    publishedDateTime: 2021-05-12T14:09:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FXxHvOsiNMA/biden-judicial-nominees-bush-nominee"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-judicial-nominees-bush-nominee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-judicial-nominees-bush-nominee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Ron Klain, Biden's powerful chief of staff, leads White House rife with dark money ties"
     excerpt: "President Biden has padded his administration with a number of individuals with strong ties to progressive dark money groups, including his chief of staff Ron Klain, which could provide a pipeline for the groups to push their agendas to the White House."
     publishedDateTime: 2021-05-06T20:19:47Z

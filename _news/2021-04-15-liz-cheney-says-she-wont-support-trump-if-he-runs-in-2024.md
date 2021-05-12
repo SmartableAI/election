@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-2024/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 135
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210422101510-the-point-liz-cheney-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Liz Cheney ousted from GOP leadership role over Trump criticism"
+    excerpt: "House Republicans could vote as early as today to replace Rep. Liz Cheney as GOP conference chair over her opposition to former President Trump. Follow here for the latest."
+    publishedDateTime: 2021-05-12T13:48:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/liz-cheney-gop-vote-05-11-21/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/liz-cheney-gop-vote-05-11-21/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/liz-cheney-gop-vote-05-11-21/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210510165219-liz-cheney-2019-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

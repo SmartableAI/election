@@ -2,21 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-12-former-trump-officials-to-defend-response-to-capitol-riot-when-they-appear-before-congress-wednesday.md",
-      "title": "Former Trump officials to defend response to Capitol riot when they appear before Congress Wednesday",
-      "excerpt": "Two senior Trump administration officials plan to defend their actions during the Jan. 6 riot at the U.S. Capitol when they appear before Congress Wednesday.",
+      "path": "_news/2021-05-12-democrat-del-rio-texas-mayor-biden-admin-telling-me-border-is-under-control.md",
+      "title": "Democrat Del Rio, Texas mayor: Biden admin telling me border is 'under control'",
+      "excerpt": "The Democratic mayor of Del Rio, Texas said Wednesday that he believes that the U.S. southern border is “wide open” for illegal immigrants, despite insistence from the Biden administration claiming the opposite.",
       "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-capitol-riot-defense-secretary-congress-20210512-moa2hajy3naa3mdftdmhln4a34-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-capitol-riot-defense-secretary-congress-20210512-moa2hajy3naa3mdftdmhln4a34-story.html",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5nqUvkOJEZU/democrat-del-rio-texas-mayor-border-wide-open-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5nqUvkOJEZU/democrat-del-rio-texas-mayor-border-wide-open-biden",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
       "tags": null,
       "images": [
         {
-          "url": "https://www.chicagotribune.com/resizer/FRpP3hB8ynGmt-z0pw-6qbu9_Cc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PGYJO7TJW2FMIGATWOMTP4VVCY.aspx",
-          "width": 1200,
-          "height": 800,
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3abd5ef-48ad-4a6b-af5c-820341e1b197/0f166762-c33a-4d7b-b7d7-2775f7a82db6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +28,68 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-capitol-riot-defense-secretary-congress-20210512-moa2hajy3naa3mdftdmhln4a34-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-capitol-riot-defense-secretary-congress-20210512-moa2hajy3naa3mdftdmhln4a34-story.html?outputType=amp",
-      "publishedDateTime": "2021-05-12T04:55:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/democrat-del-rio-texas-mayor-border-wide-open-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrat-del-rio-texas-mayor-border-wide-open-biden.amp",
+      "publishedDateTime": "2021-05-12T08:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-key-trump-officials-face-congress-with-capitol-riot-response-under-scrutiny.md",
+      "title": "Key Trump officials face Congress with Capitol riot response under scrutiny",
+      "excerpt": "Wednesday’s House Oversight Committee hearing marks the first time former acting defense secretary Christopher Miller and former acting attorney general Jeffrey Rosen will speak to lawmakers about their preparations for and response to the attack on Congress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national-security/christopher-miller-jeffrey-rosen-capitol-riot/2021/05/11/8eb22bda-b2a5-11eb-ab43-bebddc5a0f65_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national-security/christopher-miller-jeffrey-rosen-capitol-riot/2021/05/11/8eb22bda-b2a5-11eb-ab43-bebddc5a0f65_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 303,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6WJLIUTADEI6XL56TII2CJ6RIY.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national-security/christopher-miller-jeffrey-rosen-capitol-riot/2021/05/11/8eb22bda-b2a5-11eb-ab43-bebddc5a0f65_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/christopher-miller-jeffrey-rosen-capitol-riot/2021/05/11/8eb22bda-b2a5-11eb-ab43-bebddc5a0f65_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-12T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -162,6 +218,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-12-analysis-violence-upends-bidens-israel-palestinian-outlook.md",
+      "title": "Analysis: Violence upends Biden's Israel-Palestinian outlook",
+      "excerpt": "The surge in Israeli-Palestinian violence has flummoxed the Biden administration in its first four months as it attempts to craft a Middle East policy it believes will be more durable and fairer than",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AN6GYPFSUEI6XPEW7X2V3ZB354.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-12T01:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-ilhan-omar-fires-back-at-donald-trump-for-support-of-israel.md",
       "title": "Ilhan Omar Fires Back at Donald Trump for Support of Israel",
       "excerpt": "Violence in Israel, the worst seen since the 2014 Gaza war, has left at least 36 people dead—five Israelis and 31 Palestinians.",
@@ -211,58 +319,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-israel-palestine-flare-up-has-caught-biden-administration-unprepared.md",
-      "title": "Israel-Palestine flare-up has caught Biden administration unprepared",
-      "excerpt": "Analysis: The White House is playing for time and needs to decide quickly how to deal with Trump’s legacy of unwavering support for Netanyahu",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared",
-      "originalUrl": "https://www.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f79a64332981437da44ba3fc5324584b9570d820/0_92_3584_2150/master/3584.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4da22353425bdd34f96ba4053c6d9e31",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared",
-      "publishedDateTime": "2021-05-11T20:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -367,49 +423,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-judge-sentences-co-founder-of-students-for-trump-to-prison.md",
-      "title": "Judge sentences co-founder of 'Students for Trump' to prison",
-      "excerpt": "A judge has sentenced a co-founder of “Students for Trump” to 13 months in prison after he admitted posing as a lawyer to cheat clients out of thousands of dollars",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/judge-sentences-founder-students-trump-prison-77631664",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/judge-sentences-founder-students-trump-prison-77631664",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {

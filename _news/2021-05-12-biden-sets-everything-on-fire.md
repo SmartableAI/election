@@ -140,6 +140,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden rolls out racially diverse slate of judicial nominees, including a Bush nominee"
+    excerpt: "President Biden on Wednesday announced his intent to nominate three new Court of Appeals nominees and three new District Court nominees—all of which embody his commitment to ensuring judicial nominees “represent not only the excellence but the diversity of our nation,” the White House said."
+    publishedDateTime: 2021-05-12T14:09:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FXxHvOsiNMA/biden-judicial-nominees-bush-nominee"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-judicial-nominees-bush-nominee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-judicial-nominees-bush-nominee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Ron Klain, Biden's powerful chief of staff, leads White House rife with dark money ties"
     excerpt: "President Biden has padded his administration with a number of individuals with strong ties to progressive dark money groups, including his chief of staff Ron Klain, which could provide a pipeline for the groups to push their agendas to the White House."
     publishedDateTime: 2021-05-06T20:19:47Z
@@ -347,6 +363,6 @@ related:
         height: 500
         isCached: true
 
-secured: "k+ung34qkJJOp4Dp1uXr4VXelWSrUr3vtqREpWYosWKBK3yo9Oc+xa3h/NaD7VgG1CElCdr2QGjJXE6P1Cxby7NGPRY74ZJ2sB1UQpEA5BYPEiUWGFcvef3SS5YtuzYJ4S3TjSc1xGYneGrjEMrXbK3KJ2IW2JPIDHNmgRvuIq4U7Dj2Jzz+6lIUAWkw3IeGclsrVChawUUIPbVHsR8mWtxBIbRwI8s4yNbwQlvcHB/qunWi2qXrwHolfv8rIG67JOOjqzM1j0y4ma8rmUMdcrT6BMJrM+f11E4KTg5Z3eIBr1g+GFiR/OFPZmGboNuqIPsOUJneVb22c/vFeWYKaRIKThBRBQB1pZdq1Rwybz0=;ZDkMkjEkVACLP1w4i8slSw=="
+secured: "ZoLdesVX0CMbJ9CWHdQZK5C45wRqOoVeAApWMSA2LSv5nem1I0jzAEtMH+ucVy0pQWNi1nqdju1Y4jKhHIc2RmCTFzVeUMqL/LpnEq9+mAxLhB9UiKEOlRP+pmEMpkJWuSUk1IeMnZQbcj8SPHfAy7mWcqIx01cZ8fjfuwuCkhCtK8GlDHOzCYywBttloHI9D/t+NcjCHPDXFpTPIVRiEyr+sUvez3tm+lN2B7ojjJ6z+Wm0kUX5SQQTvPPbGcYhJtaHefxFR4tPLwkEs/VWYUvPeMZtGjJFcRsOVcNA3eMBCxOKshEMTDszeIRcnsUMnKqibKaBQUG7CR097Ing7nRQ4vCEMFi47HFXFEe0wG/nJS3vNZEJvPnrGHUKpbuZheACPoHTUdG1xQaCA3MlJUtCR83Yg2m2IMBFtD60vQiaWReYurkk5Bz2IRt/7jSd5VQeserDLU172hOraKBJfGriPbcwpiJDvthrM3ccrwEwe6DreWxeR0ZiRZJpUuYh+gTCXEGaWCU7CqvuTjxCUg==;u2qOSMlNuK6H5qMYfyMUfQ=="
 ---
 

@@ -106,6 +106,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cheney defiant after House GOP vote, says she'll do 'everything I can' to keep Trump from Oval Office"
+    excerpt: "Rep. Liz Cheney on Wednesday said that she will do \"everything I can\" to ensure that former President Donald Trump does not win the presidency again after she was ousted from House GOP leadership for her repeated broadsides against him. "
+    publishedDateTime: 2021-05-12T14:29:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GgEehtTFj1g/cheney-voted-out-reaction-trump-oval-office-republicans-house"
+    ampWebUrl: "https://www.foxnews.com/politics/cheney-voted-out-reaction-trump-oval-office-republicans-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-voted-out-reaction-trump-oval-office-republicans-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Elise Stefanik Embraces GOP’s Pro-Trump Wing in Leadership Campaign"
     excerpt: "New York congresswoman is seeking to succeed Liz Cheney, who has criticized the former president over his claims the election was stolen and the Jan. 6 Capitol riot by his supporters."
     publishedDateTime: 2021-05-06T19:38:00Z
@@ -153,6 +169,38 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/stefanik-cheney.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Liz Cheney removed from position as House GOP conference chair over anti-Trump stance"
+    excerpt: "House Republicans have voted to oust Rep. Liz Cheney from her leadership position, a rare move that highlights the leadership former President Donald Trump still holds in the party."
+    publishedDateTime: 2021-05-12T13:20:00Z
+    webUrl: "https://nypost.com/2021/05/12/house-republicans-remove-rep-liz-cheney-from-leadership-post/"
+    ampWebUrl: "https://nypost.com/2021/05/12/house-republicans-remove-rep-liz-cheney-from-leadership-post/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/12/house-republicans-remove-rep-liz-cheney-from-leadership-post/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 128
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/liz-cheney-removed-09.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Cheney Vows To Make Sure Trump \"Never Again Gets Near The Oval Office\""
+    excerpt: "Rep. Liz Cheney spoke out after being voted out of her leadership post by House Republicans on Wednesday morning, vowing to do \"everything I can to ensure that the former president never again gets near the Oval Office."
+    publishedDateTime: 2021-05-12T14:06:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/12/cheney_vows_to_make_sure_trump_never_again_gets_near_the_oval_office.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/12/cheney_vows_to_make_sure_trump_never_again_gets_near_the_oval_office.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/12/cheney_vows_to_make_sure_trump_never_again_gets_near_the_oval_office.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/543069.jpg"
+        width: 750
+        height: 562
         isCached: true
   - title: "A.B. Stoddard: Cheney Knew She Would Likely Lose Leadership Role When She Spoke Out Against Trump"
     excerpt: "She's talking about her alarm at the fact that leadership is keeping negative polling about Donald Trump's toxicity in swing districts from their own members. She knew she would likely lose her leadership post and she would likely lose her seat in Wyoming."

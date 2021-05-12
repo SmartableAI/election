@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Liz Cheney ousted from GOP leadership role over Trump criticism"
+    excerpt: "House Republicans could vote as early as today to replace Rep. Liz Cheney as GOP conference chair over her opposition to former President Trump. Follow here for the latest."
+    publishedDateTime: 2021-05-12T13:48:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/liz-cheney-gop-vote-05-11-21/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/liz-cheney-gop-vote-05-11-21/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/liz-cheney-gop-vote-05-11-21/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210510165219-liz-cheney-2019-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Republicans say Cheney needs to stop talking about the past. But Trump won't."
     excerpt: "Trump has posted more than 20 statements about last fall's election in the past six weeks compared to just one directly criticizing the Biden administration."
     publishedDateTime: 2021-05-09T22:08:00Z
