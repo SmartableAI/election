@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/analysis-violence-upends-bid
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/f79a64332981437da44ba3fc5324584b9570d820/0_92_3584_2150/master/3584.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4da22353425bdd34f96ba4053c6d9e31"
         width: 600
         height: 360
+        isCached: true
+  - title: "The Latest: Biden says Israel has right to defend itself"
+    excerpt: "U.S. President Joe Biden says that “Israel has a right to defend itself” amid a barrage of rockets fired by Hamas and other Palestinian groups from Gaza"
+    publishedDateTime: 2021-05-12T20:56:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/latest-killed-wounded-israel-missile-77639397"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_e353934a96bc4d2b811416f1699344bf_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "QERHPb++RMrAv5hnDtpC1lr83X9hcK8w5NcPzmpqt8bjlZW6ZLc8wRfymT6UzQt513ksVcZR/oSmbx90keeHDbUPun811JR6ITM4wduWjx35bskXXCPg5DBNabk1+eSD/RLriI49idhIVuvHXoW/Oe8dF+jTMIvZUW6/h4ggn6Z24D4rTBcZ9ibTFr7t0c8+X/36ug0F/CsFyT37g00fZBblyjFId6VyutNgixTPePoYC++wx+AZt03lbNeF436JQzJqwknjWuaPBqpxmyvn3bRKeW4i5rZ8E+y0Myrg2bAgYqkzITyML6t8A2M+OW3jb84G+FcvJb7QwzWjnhPo32Rnqy26GWCU+xDbvVClayykCtEeLoF1b13FcoEC3fbaQLUjZHudqsUO01dZkqo0igYDod06FvSdpZafYbHITGr0wd7+amDAdqZgQlah3aczVbHha0tOeQbO1sbCiTfLHpt8H4vSCNFkXkxGp2r1iqBMrUk2OEBuucre/ieeggv4mjBLif+snIvP3dxqHl88cQ==;ZnK61iXIaiVxAlgwU48P2w=="

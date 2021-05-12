@@ -47,6 +47,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "The Latest: Biden says Israel has right to defend itself"
+    excerpt: "U.S. President Joe Biden says that “Israel has a right to defend itself” amid a barrage of rockets fired by Hamas and other Palestinian groups from Gaza"
+    publishedDateTime: 2021-05-12T20:56:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/latest-killed-wounded-israel-missile-77639397"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_e353934a96bc4d2b811416f1699344bf_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "EU//nrPq2c8fo3byzARdxTVO81jlAT1C3cE/wd6ylo7bXFs1XGyHyUlWj9uPa94lZ5f6rlpDENpu1dCXVjZCkut1Ioh0dGvMRpgZNYxmNypsL3ij1fTdYMwShoin6KZogq24kuCF/NOmabnzeIEPDUAxqB4OArlJKYgJ/ZSbaqTUy8ltkxhI7b9G4oTPAs80j7NwQh2UTXif0ra4PA/JVseHkyGhep0qGhud/Axh6dKv3Bg+c0ybME8GVktXOLUEv8iWui2zYUySstuvLOCk7tRdCgbHVPp90Kug5Rje6K6WzID2XmU+nDGEn/nsB9v1oZuyJun/NdGHbvWvE5sHXQONxdWed+6LLxSY/zZdTXuUAqLeIwMhoadNxt7ejIAMmYUuEy81G18KN175qcwCHweOTVeCWQN5ktjfrArzfHUQ7032Lvk78Pc9fxurZAwX7dDTDuNUbhYgU2PjPRGaYNss4K/YNNfATwI+6YBIj4X5rvE9N9qbv+da8rA66Nt7Ptc5wMOLVjR04XhPkKfR0A==;pbVt/JpiMqyQSs00m3DWNQ=="
 ---

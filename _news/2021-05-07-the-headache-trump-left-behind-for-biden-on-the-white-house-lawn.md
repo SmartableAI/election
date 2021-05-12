@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/white-house-construction
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/white-house-construction-trump-biden/index.html"
 type: article
 quality: 190
-heat: 750
+heat: 770
 published: true
 
 provider:
@@ -284,6 +284,22 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428222229-53-biden-address-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Lawmakers press Biden administration to do more to help Afghans who worked for US ahead of withdrawal"
+    excerpt: "Members of Congress from both parties pressed the Biden administration to do more to help Afghans who have worked with American forces secure special immigrant visas to come to the US before troops withdraw from Afghanistan by a September 11 deadline.\n    \n"
+    publishedDateTime: 2021-05-12T21:20:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rv8Y_asn838/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/lawmakers-afghanistan-withdrawal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/lawmakers-afghanistan-withdrawal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419123853-us-marine-afghan-interpreter-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

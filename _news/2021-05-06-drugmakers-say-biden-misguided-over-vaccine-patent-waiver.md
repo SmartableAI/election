@@ -107,6 +107,31 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden predicts good news on Colonial Pipeline within 24 hours"
+    excerpt: "U.S. President Joe Biden said on Wednesday his administration had been in close contact with Colonial Pipeline and Americans would hear \"good news\" within the next 24 hours."
+    publishedDateTime: 2021-05-12T19:29:00Z
+    webUrl: "https://www.reuters.com/article/usa-products-colonialpipeline-biden-idUSW1N2M903S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2M903S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2M903S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Gasoline pipeline shutdown tests Biden administration"
+    excerpt: "The cyber attack last week on a primary gasoline pipeline created new political and economic risks for the Biden administration"
+    publishedDateTime: 2021-05-12T20:15:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/gasoline-pipeline-shutdown-tests-biden-administration-77652340"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7b620c09181e49eba40aa16df6cda784_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Fact Check-President Biden did not sign 96 executive orders in his first three months in office"
     excerpt: "In his first 100 days in office, President Joe Biden has not signed 96 executive orders. According to FederalRegister.gov, part of the United States National Archives, the Biden Administration had published 42 executive orders by April 27,"
     publishedDateTime: 2021-05-05T15:40:00Z

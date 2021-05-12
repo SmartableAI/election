@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald-trump/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429152424-01-biden-100-days-cnnphotos-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Takeaways from a day of congressional Republicans embracing Trump and downplaying the US Capitol riot"
+    excerpt: "The ongoing battle between truth and lies, and the continued fallout from the January 6 insurrection, played out Wednesday on Capitol Hill with critical oversight hearings and a landmark vote among the House Republicans to oust Liz Cheney from their leadership ranks.\n    \n"
+    publishedDateTime: 2021-05-12T21:12:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Awl9sqVxTM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/takeaways-capitol-riot-cheney-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/takeaways-capitol-riot-cheney-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512170948-gosar-cheney-mccarthy-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

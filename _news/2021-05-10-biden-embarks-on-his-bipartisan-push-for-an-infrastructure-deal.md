@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html"
 type: article
 quality: 175
-heat: 535
+heat: 555
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210511135741-sen-kyrsten-sinema-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Rep. Ayanna Pressley adds support for push to end death penalty but no sign Biden admin is on board"
+    excerpt: "Rep. Ayanna Pressley knew that abolishing the death penalty would not be an easy task. In fact, Pressley is aware that urging President Joe Biden to abolish the federal death penalty with a stroke of a pen would only be the beginning.\n    \n"
+    publishedDateTime: 2021-05-12T20:21:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hI1nR7Cc1SE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/ayanna-pressley-death-penalty/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/ayanna-pressley-death-penalty/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181101132754-01-ayanna-pressley-file-1101-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
