@@ -345,6 +345,20 @@ related:
         width: 1080
         height: 608
         isCached: true
+  - title: "Liz Cheney castigates Republican colleagues for backing Trump – video"
+    excerpt: "Remaining silent and ignoring the lie emboldens the liar. I will not participate in that,’ says Cheney"
+    publishedDateTime: 2021-05-12T05:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/may/12/liz-cheney-slams-republican-colleagues-for-backing-trump-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/c8950e3f7dc8a4444227fba1730b097e5238e76f/77_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=810fff4702fc3b4f2d82875a83128c82"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Republicans are said to be plotting to oust Liz Cheney from House leadership and replace her with a pro-Trump woman"
     excerpt: "Cheney, the third most senior House Republican, has been a vocal critic of former President Donald Trump."
     publishedDateTime: 2021-05-04T12:40:00Z

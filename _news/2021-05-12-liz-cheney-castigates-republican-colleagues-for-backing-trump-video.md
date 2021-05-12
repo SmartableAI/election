@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Liz Cheney, Donald Trump feud gets mixed reviews in Wyoming"
-excerpt: "Elected officials in Wyoming aren’t sticking their necks out in defense of Liz Cheney as she faces ouster from House GOP leadership"
-publishedDateTime: 2021-05-07T00:29:00Z
-originalUrl: "https://www.washingtonpost.com/politics/wyoming-officials-steer-clear-of-cheney-peril-before-vote/2021/05/06/bcfadc76-aea9-11eb-82c1-896aca955bb9_story.html"
-webUrl: "https://www.washingtonpost.com/politics/wyoming-officials-steer-clear-of-cheney-peril-before-vote/2021/05/06/bcfadc76-aea9-11eb-82c1-896aca955bb9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/wyoming-officials-steer-clear-of-cheney-peril-before-vote/2021/05/06/bcfadc76-aea9-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wyoming-officials-steer-clear-of-cheney-peril-before-vote/2021/05/06/bcfadc76-aea9-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+title: "Liz Cheney castigates Republican colleagues for backing Trump – video"
+excerpt: "Remaining silent and ignoring the lie emboldens the liar. I will not participate in that,’ says Cheney"
+publishedDateTime: 2021-05-12T05:37:00Z
+originalUrl: "https://www.theguardian.com/us-news/video/2021/may/12/liz-cheney-slams-republican-colleagues-for-backing-trump-video"
+webUrl: "https://www.theguardian.com/us-news/video/2021/may/12/liz-cheney-slams-republican-colleagues-for-backing-trump-video"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LVJJTRVOVEI6XAWBRFVMVFK3XE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://i.guim.co.uk/img/media/c8950e3f7dc8a4444227fba1730b097e5238e76f/77_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=810fff4702fc3b4f2d82875a83128c82"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -237,6 +235,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Liz Cheney, Donald Trump feud gets mixed reviews in Wyoming"
+    excerpt: "Elected officials in Wyoming aren’t sticking their necks out in defense of Liz Cheney as she faces ouster from House GOP leadership"
+    publishedDateTime: 2021-05-07T00:29:00Z
+    webUrl: "https://www.washingtonpost.com/politics/wyoming-officials-steer-clear-of-cheney-peril-before-vote/2021/05/06/bcfadc76-aea9-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/wyoming-officials-steer-clear-of-cheney-peril-before-vote/2021/05/06/bcfadc76-aea9-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wyoming-officials-steer-clear-of-cheney-peril-before-vote/2021/05/06/bcfadc76-aea9-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LVJJTRVOVEI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The crucial thing Liz Cheney’s GOP critics don’t say: She’s wrong about Trump"
     excerpt: "Liz Cheney (Wyo.) may not be long for House GOP leadership. After a failed attempt to oust the No. 3 GOP official following her vote to impeach President Donald Trump, the movement has again built steam following Cheney’s increasing efforts to distance her party from Trump and his false claims about a stolen 2020 election."
     publishedDateTime: 2021-05-04T15:49:00Z
@@ -328,20 +342,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-03-2021/t_7ed03d269ec142f3b14b66cb21289875_name_cheney_scaled.jpg&w=1080"
         width: 1080
         height: 608
-        isCached: true
-  - title: "Liz Cheney castigates Republican colleagues for backing Trump – video"
-    excerpt: "Remaining silent and ignoring the lie emboldens the liar. I will not participate in that,’ says Cheney"
-    publishedDateTime: 2021-05-12T05:37:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/may/12/liz-cheney-slams-republican-colleagues-for-backing-trump-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/c8950e3f7dc8a4444227fba1730b097e5238e76f/77_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=810fff4702fc3b4f2d82875a83128c82"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Republicans are said to be plotting to oust Liz Cheney from House leadership and replace her with a pro-Trump woman"
     excerpt: "Cheney, the third most senior House Republican, has been a vocal critic of former President Donald Trump."
@@ -522,6 +522,6 @@ related:
       domain: usnews.com
     quality: 44
 
-secured: "KpQf9a5GG4hO9YD19A/0p6dnrDQht7hTAz0FPAuHPL8WXMM93Y0vSqssCGUxGdnP6vRPYjqHCHuXAdHAknzYa+l+sX+J4GMnK1FZsb7/yhIfwDmn8N3oJsskMCo4en76a6ZujnqkLa2/orS2rS8zWQ3dQacDGsyvKi0pEEjGLuqDyLUuh+Mbi/FwdLMVrBJlXN2DRjFKmaqru4DbGjuPZ0gUqJYou2MZ/oB5Os6YK8xR2O62adk7tbULgY3OvZs+ETog40xQfib2WkWg5CtY7a9iTEOtI2lS0zvS0jDHC4565Xo1txxvvtXGDEX04ZgMl9XUxJdj4okGG2phQ5xHwW17FVPtOhT2ijJxzhP105v+/vqy2BT16kFNifBhrQ8BPzxWDOHc2TvR8qfZBT6UglPZ2w8kS3LNLur250XyAoX2U4raZlGFHnbmf+bVjtJ1j5iGWAmO/htL60nSs7yg2Tb1knhmp+hGy0dp6pwh26K2mF5+tf14HFU2aPALthKw2HgBA0qPFMZUBQb9JktZJQ==;7hZuXuDLkd5mlpCOSCcxxQ=="
+secured: "jp7x+uDfNB9ESC2Nbj6aTBsahZfq0jnro16cD4sT/IWFzNGSXGZ320IdFxam56HmkWkqmrjH+1cZG/p7tWPColDHcPZqVPkxbjkr8hEiNXjlIBHULIUpTMC9RY5k2+5QOpsKn0+11RlJ63tzwZAuoekhxFPC1ysu742uZxt03Bv6ggOUk08/kyfr2hFpE6NeHjLLjGgaUMo1xuRga+XSIenwYDfrUS5jXZDTb68n/oEBd/wYQjDLbZ1SmALGZiJfWTb1hm+tu/v33LKYwuO13ZPm1zUfjFAZTcP2CqMY+O09ckHGTT45z4ERyBKP8HocCtmrep60rKY5PYjwkhRrLBsY5dt9UoYKYGfbPwTvr8s=;y4RKBgWC4g0Jcz1X+5HfDg=="
 ---
 

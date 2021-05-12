@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/11/trump-family-members
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service"
 type: article
 quality: 117
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Donald Trump Jr.'s ex-wife and Tiffany Trump became 'inappropriately close' to Secret Service agents, new book says"
+    excerpt: "Tiffany Trump spent \"an unusual amount of time alone with a Secret Service agent on her detail\" after she broke up with a boyfriend, the book says."
+    publishedDateTime: 2021-05-11T20:59:00Z
+    webUrl: "https://www.businessinsider.com/trump-jr-ex-wife-tiffany-inappropriately-close-secret-service-agents-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/trump-jr-ex-wife-tiffany-inappropriately-close-secret-service-agents-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-jr-ex-wife-tiffany-inappropriately-close-secret-service-agents-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/609ad657342837001822ccd7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump Family Members Got 'Inappropriately' Close, Dated Secret Service Agents, Book Reveals"
     excerpt: "A new book scheduled to release next week details the 'inappropriate' relationship between two Trump family members and Secret Service agents."
     publishedDateTime: 2021-05-12T01:19:00Z
