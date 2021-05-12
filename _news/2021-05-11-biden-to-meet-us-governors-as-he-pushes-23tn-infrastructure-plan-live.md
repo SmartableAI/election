@@ -2,9 +2,9 @@
 category: news
 title: "Biden to meet US governors as he pushes $2.3tn infrastructure plan – live"
 excerpt: "Republicans and Democrats clash over specifics of proposal as Mitch McConnell says no rollback of Trump-era tax cuts – follow the latest news"
-publishedDateTime: 2021-05-11T16:00:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live?page=with:block-609a940e8f080cbad78faa6e"
-webUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live?page=with:block-609a940e8f080cbad78faa6e"
+publishedDateTime: 2021-05-11T15:23:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live?page=with:block-609a982f8f08973dcface1de"
+webUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live?page=with:block-609a982f8f08973dcface1de"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
 type: article
@@ -94,6 +94,6 @@ related:
         height: 355
         isCached: true
 
-secured: "qnY0Rs+EPOSyi6RRLVY9nV/tBWzgQ6EZsEOmgH1OtUeCPpBNGumVcoz6DC6wQptNgfhStqsBAzvU2YtaL9ebomg2GpZctJC7PMt+xEmGV5YIZDPsRGWWSm70qm803/BVp3VLS83+w4R54YVXQwM81mQIvWi85d6R2FAn0Q6hki85y11sen3mRR3BCRCutiRwFzSnG5wmsg7gRQqiOoZj1+/gDplwtLdZJIiTLMwFQMuwpHYmtCfJqZ4Ms11wBIpasLCTF86WKYyMSoIBE+ud4bE2pu93Zk1pjB6Hw0L9qzrsWG3DkkMZDSLs7mp1D7NrgiPnHFK1rMx6a4wLaTYbPZAShQB+xWXDYRwufQk4fa3Ep8Nmu8euZe6jARNmMlnCNZz1hIBiuMhu3xwT/bnrEZU1767GWBH/ahKiZCCeXeK+T4Cqp6ikjY9YrXFuHB+S4g68MeFBpQIQ/G4cLetUkxodSLokhjy5LBLcp6wZxs51YhL5+FnWTDNl55mldkb5hNitWtIF5bMSIFOOMS/7Iw==;WI2vrQRMdOa3R7bSFvxKjg=="
+secured: "uwH1z3htWI+nAUgQ0Uw4JjGnrgqdhvtFs/o9nCnCC+uaCpVSqgQey30T4nofL8FonXgrbZ8O/a7J6MUyjGMEG82s0WpLYsKRBSb65Dp5cFYEScu2FzMt/zedfSi/JLRmOLGTFLSJOuZOg6lSRLrjo16WBFfl2qNM7ht0clb9adnU69Est5MJMHihjoU7P17cEkwSHfsBAoyeHqW3Dbhd4CMreG1IiC8NFLP64dUdDWqbc7ZPt9Vf+f3UWM2yyui2zZhJOcuHEFcWzqZ8tFxYDQTHPK9QDix20G4VoG3XmTYuQzqmbayN23Iz8lXqkJc/O2UZRTZY0wbwb4sJOq67SId+WdG9OhClEgUoQ0mt4w8=;dhDumhsA4hX3PVZjy3GDsw=="
 ---
 

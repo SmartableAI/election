@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump vs. Cheney: One Republican Comes To Defense Of Embattled Conference Chair"
-excerpt: "The Illinois Representative savaged House Minority Leader Kevin McCarthy, saying he no longer represents the Republican party."
-publishedDateTime: 2021-05-10T21:20:00Z
-originalUrl: "https://www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350"
-webUrl: "https://www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350"
-ampWebUrl: "https://www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350?amp=1"
+title: "Rep. Liz Cheney Lashes Out at Trump Supporters Ahead of Likely Ouster From GOP Leadership"
+excerpt: "A combative Rep. Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, taking to the House floor on the eve of her near-certain ouster from a leadership post to warn that former President Donald Trump and his GOP supporters are threatening to “undermine our democracy."
+publishedDateTime: 2021-05-12T03:21:00Z
+originalUrl: "https://time.com/6047726/liz-cheney-gop-house-speech/"
+webUrl: "https://time.com/6047726/liz-cheney-gop-house-speech/"
 type: article
-quality: 71
+quality: 96
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Time
+  domain: time.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://dc.newsweek.com/en/full/2034408/betsy-devos.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://api.time.com/wp-content/uploads/2021/05/liz-cheney-gop.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -361,20 +359,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Rep. Liz Cheney Lashes Out at Trump Supporters Ahead of Likely Ouster From GOP Leadership"
-    excerpt: "A combative Rep. Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, taking to the House floor on the eve of her near-certain ouster from a leadership post to warn that former President Donald Trump and his GOP supporters are threatening to “undermine our democracy."
-    publishedDateTime: 2021-05-12T03:21:00Z
-    webUrl: "https://time.com/6047726/liz-cheney-gop-house-speech/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 96
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2021/05/liz-cheney-gop.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "The Hill's Morning Report - Presented by Emergent BioSolutions - Facebook upholds Trump ban; GOP leaders back Stefanik to replace Cheney"
     excerpt: "President Trump Donald Trump Caitlyn Jenner on Hannity touts Trump: 'He was a disruptor' Ivanka Trump doubles down on vaccine push with post celebrating second shot Conservative Club for Growth PAC comes out against Stefanik to replace Cheney MORE checks his phone on a golf course\" width=\"580\" height=\"387\" data-delta=\"2\"> Welcome to The Hill’s Morning Report."
     publishedDateTime: 2021-05-06T10:24:00Z
@@ -438,6 +422,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Trump vs. Cheney: One Republican Comes To Defense Of Embattled Conference Chair"
+    excerpt: "The Illinois Representative savaged House Minority Leader Kevin McCarthy, saying he no longer represents the Republican party."
+    publishedDateTime: 2021-05-10T21:20:00Z
+    webUrl: "https://www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350"
+    ampWebUrl: "https://www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://dc.newsweek.com/en/full/2034408/betsy-devos.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Utah Republicans’ bid to censure Sen. Mitt Romney for Trump impeachment votes fails"
     excerpt: "Mitt Romney but ultimately rejected a motion to censure him Saturday for his votes at President Donald Trump’s impeachment trials. The measure narrowly failed, 798 to 711, in a vote by delegates to the state GOP convention,"
@@ -508,6 +508,6 @@ related:
       domain: usnews.com
     quality: 44
 
-secured: "ERQHz0k2NqMK6zF5JA4b5qfJBzAs0GZynfz+Al38xvk4ya5BLrvHL3lXukxIvmhR/UERAvvBCFxeF2mP2xRTCfvSol3D54/HUede329cqEAoOCb9/gB0Y96ui47YHFfUF+lAXIbm6RpL2cjHw5GO5zVdcRScmU/1pcYi9AAN0YJVOVPJ/Y6XAND9pLlpUWnv+RHUU3TcEtOs+u37M3+MgX4/T2GrFcph2QXRQR9L/ToLpwqZQvGEmQmM4HXmKucXI1uRoFOz6Gx8iA6++LUys/sb1A+bERtRdAPfX0qPLkSkC5IKkSeOgvNRr0iCnMs9Wu1McezexabH3bFQ2JYReXy+AJhB3VBKmD/sH+Ko7Es=;nVBc4odkWlLLpY2GfkGXSA=="
+secured: "tZ/R2Gjc+YVqMgZWjmbGuVAlhdB6ZIGcOB3sp9qr9O29W1XCCWXBqhOS3RdW367B/Arj19I3ipqE6CGPoHPJPOAnYq0J8vCBBYJrHoiPVmXgiNjXIQojiDX+iY4RLzY50/+x/pYEprvRLmwSTMUE3j33h9oOHmlWY8Kn6bOwjolVqAyWODjSBCTCsKhYGeWG6INisf7PTj/HmkhrhyrkXoUre2ZFhI7iGhX//YqSyEtUr4Yjs8xPhU/ClSo3BQkTQUqtZppudwXp6sW9eeaT78zuRwcP3ziG+Jpbv8gwEWsWZ255aXn50bPV3g2yHhmX9Y5iDmW5CQBCQzH4nWHSCVMGKCw1u0ezdPNw4vwacK0=;fGMxwZqoF8etQz54U3r4qQ=="
 ---
 

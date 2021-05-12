@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/white-house-construction
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/white-house-construction-trump-biden/index.html"
 type: article
 quality: 190
-heat: 710
+heat: 730
 published: true
 
 provider:
@@ -382,6 +382,22 @@ related:
       - url: "https://static.politico.com/41/77/9f43269e40f186280b2ed37745b9/210510-jerome-powell-getty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "House Democrats and White House Reach Deal Over Testimony by Ex-Trump Aide"
+    excerpt: "A terse announcement signaled a possible end to a long-running constitutional lawsuit. But former President Donald J. Trump is not a party to the arrangement."
+    publishedDateTime: 2021-05-12T02:12:00Z
+    webUrl: "https://www.nytimes.com/2021/05/11/us/politics/mcgahn-testimony.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/11/us/politics/mcgahn-testimony.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/11/us/politics/mcgahn-testimony.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/12/us/11dc-mcgahn-print/merlin_117482840_879d995e-d2aa-4aaa-bc30-dd2791bd8123-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden administration announces reversal of Trump-era limits on protections for transgender people in health care"
     excerpt: "The Trump administration in June 2020 finalized its rollback of protections against gender identity discrimination in health care regulated by Obamacare."

@@ -1,34 +1,34 @@
 ---
 category: news
-title: "Biden’s biggest remaining personnel decision meets heat from the left"
-excerpt: "The biggest force standing between Jerome Powell and a second term as Fed chair may be an activist left prepared to create a spectacle."
-publishedDateTime: 2021-05-11T08:30:00Z
-originalUrl: "https://www.politico.com/news/2021/05/11/fed-chair-powell-biden-left-486746"
-webUrl: "https://www.politico.com/news/2021/05/11/fed-chair-powell-biden-left-486746"
-ampWebUrl: "https://www.politico.com/amp/news/2021/05/11/fed-chair-powell-biden-left-486746"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/11/fed-chair-powell-biden-left-486746"
+title: "House Democrats and White House Reach Deal Over Testimony by Ex-Trump Aide"
+excerpt: "A terse announcement signaled a possible end to a long-running constitutional lawsuit. But former President Donald J. Trump is not a party to the arrangement."
+publishedDateTime: 2021-05-12T02:12:00Z
+originalUrl: "https://www.nytimes.com/2021/05/11/us/politics/mcgahn-testimony.html"
+webUrl: "https://www.nytimes.com/2021/05/11/us/politics/mcgahn-testimony.html"
+ampWebUrl: "https://www.nytimes.com/2021/05/11/us/politics/mcgahn-testimony.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/11/us/politics/mcgahn-testimony.amp.html"
 type: article
-quality: 135
+quality: 133
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/41/77/9f43269e40f186280b2ed37745b9/210510-jerome-powell-getty-773.jpg"
-    width: 1160
-    height: 773
+  - url: "https://static01.nyt.com/images/2021/05/12/us/11dc-mcgahn-print/merlin_117482840_879d995e-d2aa-4aaa-bc30-dd2791bd8123-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -384,21 +384,21 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "House Democrats and White House Reach Deal Over Testimony by Ex-Trump Aide"
-    excerpt: "A terse announcement signaled a possible end to a long-running constitutional lawsuit. But former President Donald J. Trump is not a party to the arrangement."
-    publishedDateTime: 2021-05-12T02:12:00Z
-    webUrl: "https://www.nytimes.com/2021/05/11/us/politics/mcgahn-testimony.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/11/us/politics/mcgahn-testimony.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/11/us/politics/mcgahn-testimony.amp.html"
+  - title: "Biden’s biggest remaining personnel decision meets heat from the left"
+    excerpt: "The biggest force standing between Jerome Powell and a second term as Fed chair may be an activist left prepared to create a spectacle."
+    publishedDateTime: 2021-05-11T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/05/11/fed-chair-powell-biden-left-486746"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/05/11/fed-chair-powell-biden-left-486746"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/11/fed-chair-powell-biden-left-486746"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/05/12/us/11dc-mcgahn-print/merlin_117482840_879d995e-d2aa-4aaa-bc30-dd2791bd8123-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/41/77/9f43269e40f186280b2ed37745b9/210510-jerome-powell-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden administration announces reversal of Trump-era limits on protections for transgender people in health care"
     excerpt: "The Trump administration in June 2020 finalized its rollback of protections against gender identity discrimination in health care regulated by Obamacare."
@@ -459,6 +459,6 @@ related:
         height: 629
         isCached: true
 
-secured: "iIXMXjifhljCaQmDT/bVcjebIkDHYvAW21nCjmkRbxIVcYiTR0sCsvUY6UBCs1hdVIpeBqKwquCJbuu2nel0tw9v/Y1yc/Aq+jolokAPVsZPCpPXQDpRLCDcKrIKdExaTqpnowsnldUCM54Vw6tjYow556RHTzeIoKifkKS3ZsIf5EAJ4d815Ok/I9Sn9dLFIWHtdgblypt74wjJV4bPievhwIz6fM2JfzJJhDKX+3jbxB/HTvrLCxByaIw/8lMackTXo3CX1OabZuLRvlktqRW01oUND8JMBmt+2xlYdhpZKQ+Qn2tFnvai4s4cMK1DUE2OtJTyEJjsAAk3LGlHdb5sWt4Mt2v3NFOV+b1+g0+mc7uX/bVQBBKaHjuKluWU3tOTg4iCoILXg+tVu58bbhW31x5lBuoFvqKPnEtcMagkMU0xbdFRbD/t2UIfB54MXmeN+Wl1pHzUELgdhph+yevWqZaX1gEea10UmTTZlHyPAIDRfy4HtkO3HaMvv2ijZrFxFHR8S52EOGSiRSaPjw==;ndPW+QkyFD/a2khlkY1DjA=="
+secured: "lDpkkAK9bxhh/2BydTbNOEd/Cz7iwgbDeXqoP7iorzb12HEfISN8Fz+IuNADMDgu9zp54LivxrbewHkND1xU8Ykb6LvJjgr+g08Oj62LMWKGILKL6IrnumTlz8YKqUQFYWEAqJJI+ozepvp3dq2mHN0EOreIVOpjfeHEll57mDKX9Fs+//P5pr+Glt+3i+z8AhBvrHh8IxZ3p775VT1pae9ZH3lgD26FMZ+i5PNeVNzPYHMpr6h415dJZY8VyOkQOYPAm4NfvrJykqZTey9qPDANVk/+N7zETrYbvliLFPsahiSZBsVss8UTlPrxdAJdapW2/4iWQZXTZrhb1ysBfJmePC1RnGLlcxwTfjx1eeQ=;Epox7bn69rJAjiVKufF7fg=="
 ---
 

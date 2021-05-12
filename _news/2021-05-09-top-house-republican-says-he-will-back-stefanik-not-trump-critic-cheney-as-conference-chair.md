@@ -355,6 +355,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Rep. Liz Cheney Lashes Out at Trump Supporters Ahead of Likely Ouster From GOP Leadership"
+    excerpt: "A combative Rep. Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, taking to the House floor on the eve of her near-certain ouster from a leadership post to warn that former President Donald Trump and his GOP supporters are threatening to “undermine our democracy."
+    publishedDateTime: 2021-05-12T03:21:00Z
+    webUrl: "https://time.com/6047726/liz-cheney-gop-house-speech/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 96
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/05/liz-cheney-gop.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "The Hill's Morning Report - Presented by Emergent BioSolutions - Facebook upholds Trump ban; GOP leaders back Stefanik to replace Cheney"
     excerpt: "President Trump Donald Trump Caitlyn Jenner on Hannity touts Trump: 'He was a disruptor' Ivanka Trump doubles down on vaccine push with post celebrating second shot Conservative Club for Growth PAC comes out against Stefanik to replace Cheney MORE checks his phone on a golf course\" width=\"580\" height=\"387\" data-delta=\"2\"> Welcome to The Hill’s Morning Report."
     publishedDateTime: 2021-05-06T10:24:00Z
@@ -478,6 +492,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Republicans Set To Oust Trump Critic Cheney From Leadership"
+    excerpt: "Wednesday's vote by House Republicans over ousting anti-Trump conservative Liz Cheney from her leadership role will almost certainly confirm that the party out of power in Washington is casting its lot with the former US president."
+    publishedDateTime: 2021-05-12T02:38:00Z
+    webUrl: "https://www.ibtimes.com/republicans-set-oust-trump-critic-cheney-leadership-3197094"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/11/number-three-us-house-republican-liz-cheney-r.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "Mn5VYFb4LqSqqZfwvR/qvjwNMawHHx0lRDQd4evkoFD3lc9UD/0vHh4DxhocN+C1l4uxamEAL07VXUJ766xHgqOydf1D9+dO+PYJ/Xao3OfOPD7KHfRCMloBV+sYl6rGSoPqAbkZWDeY9EPT1F7fi49FG6UU2mi7u3+cW7h4raRzaoKz+MBnIW833+QztjA+QJN92+/Z3qIUrvd7DhA63kF7MJV245ChuWjYuBp4Cw5oolqTHj9fyJVA7IuSViH1GbV20p8vlzIFAXIL8ycxOBiopRjlkonCQlDdzYIibtru9c9bTbw6M0jxpcBH/tJw/kjuh9nRTBhfbyfk+m/6Kc4BohyNKVelMA+D4+RJdBmNH+acljwr1813B6DGuQs/ZkIDkqjF08BByTFKBf56Vr+hrnnOe+j9PiOpupesN3OHiABwqVi58D+yIK0j+lwZ70yS/8hKDMt2EZvdQx98ECJ3/LDGGxxDw83nHU9FiLbygHLznTyWRLAlVUG4CuuB5ywEqjkUA1wliToIGoEBbw==;QBN57EEjAtunSC3c1uNCYA=="
 ---

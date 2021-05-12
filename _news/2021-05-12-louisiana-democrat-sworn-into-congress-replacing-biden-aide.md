@@ -47,8 +47,8 @@ related:
         isCached: true
   - title: "Biden to meet US governors as he pushes $2.3tn infrastructure plan – live"
     excerpt: "Republicans and Democrats clash over specifics of proposal as Mitch McConnell says no rollback of Trump-era tax cuts – follow the latest news"
-    publishedDateTime: 2021-05-11T16:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live?page=with:block-609a940e8f080cbad78faa6e"
+    publishedDateTime: 2021-05-11T15:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live?page=with:block-609a982f8f08973dcface1de"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
     type: article
@@ -94,6 +94,6 @@ related:
         height: 355
         isCached: true
 
-secured: "MXpb/FS/q0izMFb6f86Zm97xqGq0F7OL3TgmpNywL110YlcfGmKTCVqPGA5dWj4zkEnoif4kLFcbV70NLtfLfXXHCoR7WipfiN7ApOyAwPSUvgCceVmLG9j00vtJyiKH2zRYr8VR6WAj2Dlf7M5RgvReMdF8fUox3kG+flhT9cMcr2xa61sZCKJjT5mkM4R9O5zxfjxif5GF8TBxquBT+pBgrJgQa1BPgZFN6L954Oe9uEflRIRsgNDOFm+87BbDuSTs86+A05AR7jNqyF+TtshmLVTBCKBtvcMtX8OtiPMunDuweE0qRlfo6pEbl0RFKYXu4GO1C0bElXwNhaiJjKrzMrapEuXlUyOTCClEANo=;+1xbr7JaejsJ9scIMVvGPw=="
+secured: "p3oU3WN+f14wZJDv5fVsuzITSHBB4XJ8YAmjlDTZRtFpXtP2obedvNATxT6it1QyCqe5YUU+apAb6WzPBKtL8njuly9r8zclbRnR/bbRCkvImnjzZ+jvvgWRuOgskH3j9pIncVdL1UA4mKYychP3yd5ib8DQGlLmE46npKCe5/WjtlhRYYY5BVCYFHPyKfGhnaVevqwr4MY+SAjf/kwP9l6qkHHzcxPGI+8O7dpY6a3DXpq2TaNNLmAGjc81V4XKomsk8yX+R/7Jj0y3rxmSmECJdT/KK9+qC7VMYsojFFaxsfDzsHkLEILL5k5zvbnYOhctcLKgTzVqwVx+VEzatn/GvB0wKh7a7/RNyhEn8rA/cqHW5aTRt82UGf1QJySk2pzPS39osYbR66AiWSdqPQvWf8vBBIV/RHrjfG3O4ADkOj4FN0vfu3OmOsSULKY/gEWPD9om1NWI6ZifRIAgFh92Hktxgoy3bcrQ0clZo7Wz1k2tTnK3y3XUj6GLBRjPe2ShPG+RYKiATzfu390TuA==;tLLlrvh65KekHY67i45K0g=="
 ---
 

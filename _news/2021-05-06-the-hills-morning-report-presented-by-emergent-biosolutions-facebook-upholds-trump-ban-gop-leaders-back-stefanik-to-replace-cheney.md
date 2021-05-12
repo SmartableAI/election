@@ -361,6 +361,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Rep. Liz Cheney Lashes Out at Trump Supporters Ahead of Likely Ouster From GOP Leadership"
+    excerpt: "A combative Rep. Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, taking to the House floor on the eve of her near-certain ouster from a leadership post to warn that former President Donald Trump and his GOP supporters are threatening to “undermine our democracy."
+    publishedDateTime: 2021-05-12T03:21:00Z
+    webUrl: "https://time.com/6047726/liz-cheney-gop-house-speech/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 96
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/05/liz-cheney-gop.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "House Minority Leader Kevin McCarthy cites Republican concerns about Liz Cheney’s ‘ability to carry out her job’ after she calls out Trump"
     excerpt: "Rather than standing by Rep. Liz Cheney, House Minority Leader Kevin McCarthy essentially landed himself in the camp of her Republican critics."
     publishedDateTime: 2021-05-04T14:54:00Z
@@ -468,6 +482,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Republicans Set To Oust Trump Critic Cheney From Leadership"
+    excerpt: "Wednesday's vote by House Republicans over ousting anti-Trump conservative Liz Cheney from her leadership role will almost certainly confirm that the party out of power in Washington is casting its lot with the former US president."
+    publishedDateTime: 2021-05-12T02:38:00Z
+    webUrl: "https://www.ibtimes.com/republicans-set-oust-trump-critic-cheney-leadership-3197094"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/11/number-three-us-house-republican-liz-cheney-r.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Top House Republican Says He Will Back Stefanik, Not Trump Critic Cheney, as Conference Chair"
     excerpt: "The top Republican in the U.S. House of Representatives signaled on Sunday that he would vote to remove fellow Republican and Trump critic Liz Cheney as a party leader, saying he will back Representative Elise Stefanik instead."
     publishedDateTime: 2021-05-09T16:23:00Z

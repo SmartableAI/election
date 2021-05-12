@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Trump vs. Cheney: One Republican Comes To Defense Of Embattled Conference Chair"
-excerpt: "The Illinois Representative savaged House Minority Leader Kevin McCarthy, saying he no longer represents the Republican party."
-publishedDateTime: 2021-05-10T21:20:00Z
-originalUrl: "https://www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350"
-webUrl: "https://www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350"
-ampWebUrl: "https://www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350?amp=1"
+title: "Republicans Set To Oust Trump Critic Cheney From Leadership"
+excerpt: "Wednesday's vote by House Republicans over ousting anti-Trump conservative Liz Cheney from her leadership role will almost certainly confirm that the party out of power in Washington is casting its lot with the former US president."
+publishedDateTime: 2021-05-12T02:38:00Z
+originalUrl: "https://www.ibtimes.com/republicans-set-oust-trump-critic-cheney-leadership-3197094"
+webUrl: "https://www.ibtimes.com/republicans-set-oust-trump-critic-cheney-leadership-3197094"
 type: article
-quality: 71
+quality: 55
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://dc.newsweek.com/en/full/2034408/betsy-devos.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/11/number-three-us-house-republican-liz-cheney-r.jpg"
+    width: 1024
+    height: 768
     isCached: true
 
 related:
@@ -439,6 +437,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump vs. Cheney: One Republican Comes To Defense Of Embattled Conference Chair"
+    excerpt: "The Illinois Representative savaged House Minority Leader Kevin McCarthy, saying he no longer represents the Republican party."
+    publishedDateTime: 2021-05-10T21:20:00Z
+    webUrl: "https://www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350"
+    ampWebUrl: "https://www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-vs-cheney-one-republican-comes-defense-embattled-conference-chair-3196350?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://dc.newsweek.com/en/full/2034408/betsy-devos.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Utah Republicans’ bid to censure Sen. Mitt Romney for Trump impeachment votes fails"
     excerpt: "Mitt Romney but ultimately rejected a motion to censure him Saturday for his votes at President Donald Trump’s impeachment trials. The measure narrowly failed, 798 to 711, in a vote by delegates to the state GOP convention,"
     publishedDateTime: 2021-05-02T03:30:00Z
@@ -482,20 +496,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Republicans Set To Oust Trump Critic Cheney From Leadership"
-    excerpt: "Wednesday's vote by House Republicans over ousting anti-Trump conservative Liz Cheney from her leadership role will almost certainly confirm that the party out of power in Washington is casting its lot with the former US president."
-    publishedDateTime: 2021-05-12T02:38:00Z
-    webUrl: "https://www.ibtimes.com/republicans-set-oust-trump-critic-cheney-leadership-3197094"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/11/number-three-us-house-republican-liz-cheney-r.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Top House Republican Says He Will Back Stefanik, Not Trump Critic Cheney, as Conference Chair"
     excerpt: "The top Republican in the U.S. House of Representatives signaled on Sunday that he would vote to remove fellow Republican and Trump critic Liz Cheney as a party leader, saying he will back Representative Elise Stefanik instead."
     publishedDateTime: 2021-05-09T16:23:00Z
@@ -508,6 +508,6 @@ related:
       domain: usnews.com
     quality: 44
 
-secured: "ERQHz0k2NqMK6zF5JA4b5qfJBzAs0GZynfz+Al38xvk4ya5BLrvHL3lXukxIvmhR/UERAvvBCFxeF2mP2xRTCfvSol3D54/HUede329cqEAoOCb9/gB0Y96ui47YHFfUF+lAXIbm6RpL2cjHw5GO5zVdcRScmU/1pcYi9AAN0YJVOVPJ/Y6XAND9pLlpUWnv+RHUU3TcEtOs+u37M3+MgX4/T2GrFcph2QXRQR9L/ToLpwqZQvGEmQmM4HXmKucXI1uRoFOz6Gx8iA6++LUys/sb1A+bERtRdAPfX0qPLkSkC5IKkSeOgvNRr0iCnMs9Wu1McezexabH3bFQ2JYReXy+AJhB3VBKmD/sH+Ko7Es=;nVBc4odkWlLLpY2GfkGXSA=="
+secured: "p3nyoRJUxcOKWiSuX5WjS0g09+HuRJnADTZtvYa3X0wklJ1uzBVptsmEICVtSHU8kA6dLmJS+yuMv15unQxey8RdpzpjD9NrJRDhFVK1tUtMBGrKF7CCt0/anrmTQtCkmwmj6bRBRfwfz802DazRk7Vjs4yezqQEwk35FlYOsnxxc8fSX7qOTtk3GT1zjyF6mFW8vH2PGVg3coio4rOWr1rtNAO0t49SCIFwNad5vHNDPecOFglu37doynVWoHSZYDx3pp9pIwgJhfJC/PlFOhfeGRi2hbFIS5hAz3hm9osQgz281klIXwVdsBrMKogAqMYO+HvthAzuV5ZZX2FZLTLMxf6Z1rCMbxSkE8jqg/M=;loy4zn4YUuLOkcdAKFz3MA=="
 ---
 
