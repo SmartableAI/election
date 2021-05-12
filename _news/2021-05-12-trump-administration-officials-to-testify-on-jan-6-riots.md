@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Headhunters having hard time finding jobs for former Trump officials: report"
-excerpt: "Headhunters have indicated difficulties in finding jobs for former Trump Cabinet officials in the months since leaving their posts,"
-publishedDateTime: 2021-04-07T18:56:00Z
-originalUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials"
-webUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials"
-ampWebUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
+title: "Trump administration officials to testify on Jan. 6 riots"
+excerpt: "Two senior Trump administration officials plan to defend their actions during the Jan. 6 riots at the U.S. Capitol when they appear before Congress"
+publishedDateTime: 2021-05-12T03:10:00Z
+originalUrl: "https://www.washingtonpost.com/politics/trump-administration-officials-to-testify-on-jan-6-riots/2021/05/12/fbdb770c-b2d7-11eb-bc96-fdf55de43bef_story.html"
+webUrl: "https://www.washingtonpost.com/politics/trump-administration-officials-to-testify-on-jan-6-riots/2021/05/12/fbdb770c-b2d7-11eb-bc96-fdf55de43bef_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/trump-administration-officials-to-testify-on-jan-6-riots/2021/05/12/fbdb770c-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-administration-officials-to-testify-on-jan-6-riots/2021/05/12/fbdb770c-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
-quality: 122
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/chaoelaine_091919gn6_lead.jpg"
-    width: 980
-    height: 551
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5RIG24VSREI6XPEW7X2V3ZB354.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -143,22 +143,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump administration officials to testify on Jan. 6 riots"
-    excerpt: "Two senior Trump administration officials plan to defend their actions during the Jan. 6 riots at the U.S. Capitol when they appear before Congress"
-    publishedDateTime: 2021-05-12T03:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-administration-officials-to-testify-on-jan-6-riots/2021/05/12/fbdb770c-b2d7-11eb-bc96-fdf55de43bef_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-administration-officials-to-testify-on-jan-6-riots/2021/05/12/fbdb770c-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-administration-officials-to-testify-on-jan-6-riots/2021/05/12/fbdb770c-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5RIG24VSREI6XPEW7X2V3ZB354.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "‘Apprentice’ contestant’s lawsuit against Trump can resume, N.Y. court says"
     excerpt: "NEW YORK — The New York State Court of Appeals on Tuesday ruled that a defamation case against former president Donald Trump, brought by an \"Apprentice\" contestant who alleged he sexually assaulted her years ago, can go forward as the immunity claim he ..."
     publishedDateTime: 2021-03-30T20:17:00Z
@@ -174,6 +158,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WZNE3XERSEI6XJ2OD5GPRH6ZJA.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Headhunters having hard time finding jobs for former Trump officials: report"
+    excerpt: "Headhunters have indicated difficulties in finding jobs for former Trump Cabinet officials in the months since leaving their posts,"
+    publishedDateTime: 2021-04-07T18:56:00Z
+    webUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials"
+    ampWebUrl: "https://thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/546974-headhunters-having-hard-time-finding-jobs-for-former-trump-officials?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/chaoelaine_091919gn6_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "John Boehner says Trump incited Capitol attack via 'bullshit he'd been shoveling since he lost a fair election'"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Former Republican House Speaker John Boehner in his new book blamed former President Donald Trump for the deadly Capitol insurrection on January 6, per an excerpt obtained by The New York Times, stating that ..."
@@ -368,6 +368,6 @@ related:
         height: 630
         isCached: true
 
-secured: "odB5TbuE1Z52RmfJ1fCoR4t9V1ekQKARMe5YF5ON1rLv1lxG3NBvaahRecKuXdkuN+Xibofx+RvyF61op+N4VFxJiNZqrwP0WqlbDbtGSyvWSlFpzMAi8Zm5MQBv78Uq5s4RlGfKX0FScKbmU3tHeQT2os66p/zyGEQaeAQYtWGIZWum8esHDH2LfRR95oX7TJokOcQJHYap4L8J8+mu+LHbWbSTpRghimldO262VfUvPoDCKuHNBVMTA0Uve+Pi11W9zadlKK+OwgxzY9qwJ2aAuenRqR5ZfyVfB1t0DLPYr8l5LTFImqkiB2AlCqkjLj88P12jO+5wWnEOXBwrE8mHv8FwLd5XtUNnUd6JIBI=;mB/dhXhmW7fUdH93WieKDQ=="
+secured: "obf6S9AgXgl/93XTchJUqOXcc+8Iw1ZTKqXAJyaanctx76rbnLsGNQCSPG5P1f5CJ78cQleuFx8siqWBGL+3TOVl1K6sdk344SW+OS53wYuVBJ5LAXR+LKC7vJpvbwG4hvhit2E4P1btDbB5F2omKCljHzlz/sR7e5fqfP0Fy2jyFLQ0mu2ClEpeOW8m5RAjhWa2v8kwjpXweRr/PHgU4UUv19A+fouVwsLBf3fPZKnSQAi+XYObtBzri3v66xHGdf2kzwUXiLBACbG1+O4pK3tyNfEupPNJJ5S1CSJqwLyfVsWt4yY399NM+tSODXENZuM6oFCPTntFtalYg2+799b66TwRF+ID3cUwKqBAlHc=;4NTqHzrD9DUjf4pLqmd5ZQ=="
 ---
 

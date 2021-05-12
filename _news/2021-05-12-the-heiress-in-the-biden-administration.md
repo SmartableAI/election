@@ -400,10 +400,10 @@ related:
         isCached: true
   - title: "House Democrats and White House Reach Deal Over Testimony by Ex-Trump Aide"
     excerpt: "A terse announcement signaled a possible end to a long-running constitutional lawsuit. But former President Donald J. Trump is not a party to the arrangement."
-    publishedDateTime: 2021-05-12T02:12:00Z
-    webUrl: "https://www.nytimes.com/2021/05/11/us/politics/mcgahn-testimony.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/11/us/politics/mcgahn-testimony.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/11/us/politics/mcgahn-testimony.amp.html"
+    publishedDateTime: 2021-05-12T01:45:00Z
+    webUrl: "https://www.nytimes.com/2021/05/11/us/politics/house-democrats-white-house-mcgahn.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/11/us/politics/house-democrats-white-house-mcgahn.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/11/us/politics/house-democrats-white-house-mcgahn.amp.html"
     type: article
     provider:
       name: New York Times

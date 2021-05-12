@@ -2,11 +2,11 @@
 category: news
 title: "House Democrats and White House Reach Deal Over Testimony by Ex-Trump Aide"
 excerpt: "A terse announcement signaled a possible end to a long-running constitutional lawsuit. But former President Donald J. Trump is not a party to the arrangement."
-publishedDateTime: 2021-05-12T02:12:00Z
-originalUrl: "https://www.nytimes.com/2021/05/11/us/politics/mcgahn-testimony.html"
-webUrl: "https://www.nytimes.com/2021/05/11/us/politics/mcgahn-testimony.html"
-ampWebUrl: "https://www.nytimes.com/2021/05/11/us/politics/mcgahn-testimony.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/11/us/politics/mcgahn-testimony.amp.html"
+publishedDateTime: 2021-05-12T01:45:00Z
+originalUrl: "https://www.nytimes.com/2021/05/11/us/politics/house-democrats-white-house-mcgahn.html"
+webUrl: "https://www.nytimes.com/2021/05/11/us/politics/house-democrats-white-house-mcgahn.html"
+ampWebUrl: "https://www.nytimes.com/2021/05/11/us/politics/house-democrats-white-house-mcgahn.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/11/us/politics/house-democrats-white-house-mcgahn.amp.html"
 type: article
 quality: 133
 heat: -1
@@ -459,6 +459,6 @@ related:
         height: 629
         isCached: true
 
-secured: "lDpkkAK9bxhh/2BydTbNOEd/Cz7iwgbDeXqoP7iorzb12HEfISN8Fz+IuNADMDgu9zp54LivxrbewHkND1xU8Ykb6LvJjgr+g08Oj62LMWKGILKL6IrnumTlz8YKqUQFYWEAqJJI+ozepvp3dq2mHN0EOreIVOpjfeHEll57mDKX9Fs+//P5pr+Glt+3i+z8AhBvrHh8IxZ3p775VT1pae9ZH3lgD26FMZ+i5PNeVNzPYHMpr6h415dJZY8VyOkQOYPAm4NfvrJykqZTey9qPDANVk/+N7zETrYbvliLFPsahiSZBsVss8UTlPrxdAJdapW2/4iWQZXTZrhb1ysBfJmePC1RnGLlcxwTfjx1eeQ=;Epox7bn69rJAjiVKufF7fg=="
+secured: "U6k2RuDSpqsy/dJ4xjwWrIH1yvHmD+3khdk8II1v6R3oOFg2yQlb+yXQaxwy8jirsygdWMBflM6ZJCGDWPEp3VM6BJ01IilkZmpGHxawF8Ocu2xZvpS2G9J3D0MQprK5xY8HIg89ExeNcX2PvuMly1vTPD2PdZwlcKPCwKH12Js2wFXZBIrRAembsC5dHLcsG5ozjJgLKmqJkuoQxW0CGNG4c4k+fGmdTahfwXDu4bye3eYsx+0rPPZwvmE+pPsR4ZlZZwEfhc1QvNn270FYaHlZHI1a0DUZ4tr3fGZGD4mC6RfLrxAwzKN1IfYxxpblRSvaTAMpjyb+KRPwrmFsmGuLH7wmAOAZBmYbo0/md50=;nZRt2xvWOP9kp+KHZagjDA=="
 ---
 

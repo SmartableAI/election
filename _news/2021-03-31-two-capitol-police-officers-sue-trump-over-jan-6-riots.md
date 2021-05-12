@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN1RC"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1RC"
 type: article
 quality: 125
-heat: 525
+heat: 545
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Trump administration officials to testify on Jan. 6 riots"
+    excerpt: "Two senior Trump administration officials plan to defend their actions during the Jan. 6 riots at the U.S. Capitol when they appear before Congress"
+    publishedDateTime: 2021-05-12T03:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-administration-officials-to-testify-on-jan-6-riots/2021/05/12/fbdb770c-b2d7-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-administration-officials-to-testify-on-jan-6-riots/2021/05/12/fbdb770c-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-administration-officials-to-testify-on-jan-6-riots/2021/05/12/fbdb770c-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5RIG24VSREI6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "‘Apprentice’ contestant’s lawsuit against Trump can resume, N.Y. court says"
     excerpt: "NEW YORK — The New York State Court of Appeals on Tuesday ruled that a defamation case against former president Donald Trump, brought by an \"Apprentice\" contestant who alleged he sexually assaulted her years ago, can go forward as the immunity claim he ..."
