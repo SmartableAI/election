@@ -1,33 +1,32 @@
 ---
 category: news
-title: "Progressive House members reflect on wins and losses in Biden's first 100 days"
-excerpt: "Progressives in the House were apprehensive when Joe Biden stepped into office -- the President was an unabashedly moderate Democrat and ready to cut deals with Republicans, many of whom he had known longer than some progressive members of Congress had been alive.\n    \n"
-publishedDateTime: 2021-05-01T18:06:28Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Fv25vtuRVcU/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Fv25vtuRVcU/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/liberals-describe-biden-relationship/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/liberals-describe-biden-relationship/index.html"
+title: "The heiress in the Biden administration"
+excerpt: "Welcome to POLITICO’s West Wing Playbook, your guide to the people and power centers in the Biden administration. Did someone forward this to you? Subscribe here! Have a tip? Email us at transitiontips@politico."
+publishedDateTime: 2021-05-11T22:36:00Z
+originalUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/05/11/the-heiress-in-the-biden-administration-492806"
+webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/05/11/the-heiress-in-the-biden-administration-492806"
 type: article
-quality: 171
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421172219-03-green-new-deal-presser-0420-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+    width: 1120
+    height: 629
     isCached: true
 
 related:
@@ -223,6 +222,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Progressive House members reflect on wins and losses in Biden's first 100 days"
+    excerpt: "Progressives in the House were apprehensive when Joe Biden stepped into office -- the President was an unabashedly moderate Democrat and ready to cut deals with Republicans, many of whom he had known longer than some progressive members of Congress had been alive.\n    \n"
+    publishedDateTime: 2021-05-01T18:06:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Fv25vtuRVcU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/liberals-describe-biden-relationship/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/liberals-describe-biden-relationship/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421172219-03-green-new-deal-presser-0420-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration says it will enforce federal transgender health care protections, undoing controversial Trump-era reversal"
     excerpt: "The Biden administration will work to protect transgender Americans from discrimination in health care, undoing a controversial Trump-era decision to nix federal protections for members of the community, the Department of Health and Human Services announced Monday.\n    \n"
     publishedDateTime: 2021-05-10T16:25:31Z
@@ -411,21 +426,7 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "The heiress in the Biden administration"
-    excerpt: "Welcome to POLITICO’s West Wing Playbook, your guide to the people and power centers in the Biden administration. Did someone forward this to you? Subscribe here! Have a tip? Email us at transitiontips@politico."
-    publishedDateTime: 2021-05-11T22:36:00Z
-    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/05/11/the-heiress-in-the-biden-administration-492806"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
 
-secured: "kanxKt+/8FmiRtWhaSz9zF3MvPUArolSzOFNjvf+3vjqPQS4DPdCmqJ4IxEeich/wtDnZEOaab9s6JyTK21TAekg7L8lxmkXobmuUjY3rF6CDyyezVzURFurEoASoxPCmW5e1feSMTXZKt+/vjbO/msUVy+AWvEIHu/kIZpM+lpCyegFzxA4B3yCkNsvdICMH8xvgfjNwIw3gnwvtoPFj0tZ8SwO2yC+7wR6Ns9Y1seHaEjcwIWNkAaK1cIUmMGYB3VSRfbqdAql7Tfb7IDrNP2tQwrKEuCSE9XKXGBoUz26M9eZJMeAoIVwYJKVXdsFofeBrmR9A/iqaBQTYTs35zNhcqIoQJyMSMfUS5XOwko=;pOmfoqlvyDT6c8OF5onn0Q=="
+secured: "8I9iyyEG8m4CO70+l3fM4Mg9w0ZvUeYwAHHiQlLF3seZcWvHuS4uCwxGsSLE04cTBlNiT3QpAbHh07QgTg6oYmRchXnV3d9bIDQNEJjyjqcV+xUgcUfoXWJqNygvUmo+yCoVvCOGTGB2nfaqVjlM6uo5a+t2BqdHov/B5gIv7ZeMQCH3570yJM2Dn54Rr5F0ayqhdOmSHzWvyEQ0Ikg6uCBOUMGXq3YOmuuhTtRbrAW0DwjVAl9WX74YKoQFsKDtP5xppySJxkvaXlORNYWxrQpQpWo2PahEKJmRuQza01PSGOHC/6ul/oY5+ICb6/8zAn9HzV6aCbcvEDEVrjBHEFbtVR4vFj51DgtszobKQxQ=;R+tGrqRwKhO99WY8Ln9TOg=="
 ---
 

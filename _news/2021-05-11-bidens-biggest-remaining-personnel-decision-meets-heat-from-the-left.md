@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Progressive House members reflect on wins and losses in Biden's first 100 days"
-excerpt: "Progressives in the House were apprehensive when Joe Biden stepped into office -- the President was an unabashedly moderate Democrat and ready to cut deals with Republicans, many of whom he had known longer than some progressive members of Congress had been alive.\n    \n"
-publishedDateTime: 2021-05-01T18:06:28Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Fv25vtuRVcU/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Fv25vtuRVcU/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/liberals-describe-biden-relationship/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/liberals-describe-biden-relationship/index.html"
+title: "Biden’s biggest remaining personnel decision meets heat from the left"
+excerpt: "The biggest force standing between Jerome Powell and a second term as Fed chair may be an activist left prepared to create a spectacle."
+publishedDateTime: 2021-05-11T08:30:00Z
+originalUrl: "https://www.politico.com/news/2021/05/11/fed-chair-powell-biden-left-486746"
+webUrl: "https://www.politico.com/news/2021/05/11/fed-chair-powell-biden-left-486746"
+ampWebUrl: "https://www.politico.com/amp/news/2021/05/11/fed-chair-powell-biden-left-486746"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/11/fed-chair-powell-biden-left-486746"
 type: article
-quality: 171
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421172219-03-green-new-deal-presser-0420-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/41/77/9f43269e40f186280b2ed37745b9/210510-jerome-powell-getty-773.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -223,6 +224,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Progressive House members reflect on wins and losses in Biden's first 100 days"
+    excerpt: "Progressives in the House were apprehensive when Joe Biden stepped into office -- the President was an unabashedly moderate Democrat and ready to cut deals with Republicans, many of whom he had known longer than some progressive members of Congress had been alive.\n    \n"
+    publishedDateTime: 2021-05-01T18:06:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Fv25vtuRVcU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/liberals-describe-biden-relationship/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/liberals-describe-biden-relationship/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421172219-03-green-new-deal-presser-0420-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration says it will enforce federal transgender health care protections, undoing controversial Trump-era reversal"
     excerpt: "The Biden administration will work to protect transgender Americans from discrimination in health care, undoing a controversial Trump-era decision to nix federal protections for members of the community, the Department of Health and Human Services announced Monday.\n    \n"
     publishedDateTime: 2021-05-10T16:25:31Z
@@ -351,22 +368,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Biden’s biggest remaining personnel decision meets heat from the left"
-    excerpt: "The biggest force standing between Jerome Powell and a second term as Fed chair may be an activist left prepared to create a spectacle."
-    publishedDateTime: 2021-05-11T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/05/11/fed-chair-powell-biden-left-486746"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/05/11/fed-chair-powell-biden-left-486746"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/11/fed-chair-powell-biden-left-486746"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/41/77/9f43269e40f186280b2ed37745b9/210510-jerome-powell-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Biden administration announces reversal of Trump-era limits on protections for transgender people in health care"
     excerpt: "The Trump administration in June 2020 finalized its rollback of protections against gender identity discrimination in health care regulated by Obamacare."
     publishedDateTime: 2021-05-11T11:00:00Z
@@ -426,6 +427,6 @@ related:
         height: 629
         isCached: true
 
-secured: "kanxKt+/8FmiRtWhaSz9zF3MvPUArolSzOFNjvf+3vjqPQS4DPdCmqJ4IxEeich/wtDnZEOaab9s6JyTK21TAekg7L8lxmkXobmuUjY3rF6CDyyezVzURFurEoASoxPCmW5e1feSMTXZKt+/vjbO/msUVy+AWvEIHu/kIZpM+lpCyegFzxA4B3yCkNsvdICMH8xvgfjNwIw3gnwvtoPFj0tZ8SwO2yC+7wR6Ns9Y1seHaEjcwIWNkAaK1cIUmMGYB3VSRfbqdAql7Tfb7IDrNP2tQwrKEuCSE9XKXGBoUz26M9eZJMeAoIVwYJKVXdsFofeBrmR9A/iqaBQTYTs35zNhcqIoQJyMSMfUS5XOwko=;pOmfoqlvyDT6c8OF5onn0Q=="
+secured: "7fJJvPuh0H/Uzrd+ffjzVrcnrUMZWC1Zl5CvekpWmEUHTFDe5up5rrAWSpl+mDCnoUWBddrvuF0sOPkO/Dy+lcyHmFlX4pJpZxB9VQZAtOnaYTFCpJVjs3vNseKDEyNLDZkmQx91Is+haDg/e+MHIcioLulc2kgWRPzYkduXp7X5LLR4GljmQJmw4Pkcc+Ocf7iZYacCMHyQb/r+4yD26vcHGU/adLUtMB3nV2v4dCWSmGtaXQ5OIb5mgbTQ+rnQFs7l4hDmNkhd0olmlsmu4bGyNdPJyf74WvDdePo2tozb8CYM1HawyhEXjvZmXFHzR69vKQi5ahCP4aZW1dTmJCjqZQCQcoEUgfo2jxyjwdA=;0TOr+QmEZX0nl0UEm3uJHg=="
 ---
 

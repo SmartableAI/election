@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration approves first major offshore wind project in US waters"
+    excerpt: "The Biden administration announced Tuesday that it is moving forward with the nation's first large-scale offshore wind project, a significant step toward achieving President Joe Biden's goal of increasing US renewable energy production.\n    \n"
+    publishedDateTime: 2021-05-11T22:18:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RX0UYXXV0E8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/first-major-offshore-wind-project-us-waters/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/first-major-offshore-wind-project-us-waters/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191025090548-01-offshore-windfarm-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration details plans to conserve 30% of US land and water by 2030"
     excerpt: "The Biden administration on Thursday outlined in a new report how it aims to achieve its goal of conserving 30% of America's lands and waters by 2030.\n    \n"
     publishedDateTime: 2021-05-06T14:17:15Z

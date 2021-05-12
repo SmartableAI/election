@@ -2,9 +2,9 @@
 category: news
 title: "Biden to meet US governors as he pushes $2.3tn infrastructure plan – live"
 excerpt: "Republicans and Democrats clash over specifics of proposal as Mitch McConnell says no rollback of Trump-era tax cuts – follow the latest news"
-publishedDateTime: 2021-05-11T15:23:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live?page=with:block-609a982f8f08973dcface1de"
-webUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live?page=with:block-609a982f8f08973dcface1de"
+publishedDateTime: 2021-05-11T16:00:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live?page=with:block-609a940e8f080cbad78faa6e"
+webUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live?page=with:block-609a940e8f080cbad78faa6e"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
 type: article
@@ -80,6 +80,6 @@ related:
         height: 355
         isCached: true
 
-secured: "Ddt2mD9vq0gmbpBwOXtXhENX7FwMLgYG2qLPpdCRVrX3ZKR+sufOsn864O8g4iYanup6sDny0FodDitfVNXR9diasMQya+lKizCWSioLxFZpryOyWbq7a9aJtPLaL9o+LeHs+FaVfGXYuVJov/RqqViEzvnmrhoqScPJyy/t/nhDonJHdJuhOHlbFfJ41hLGV4aWIJ7dEPNfTRt8Kjy9AtZg1n+GoC+M2kN4wvn96v8tgwmcnDE+d55qBfoRxSu+nYlBimi47LDKEcpwq6iLV6L8IS+Tz3X9lJSUnqoj6getTRF8iBFVMS4EvDsyKzUZN8vVRnqtrIlrhvHUeJLewwZ2iG72cMfLJgUISapWsmM=;FzOTKFWk2eV7lq5bLY4OGg=="
+secured: "iY1IXsqDtgi+kWIhBDgEG4Uj7RUgC3AAiHIexvk2O33sHZKJ5zP+Mc3GQ0nZdR7d5ySGzY5L1RyVtx/o/c0Bryn7B23V2n5y9qM9ET98tAxPfBCLdgdqvC03TRn+QgUEu4Av4dIadA/0WvEGi3hriZyq1YcLvgTWuTk+v+AG/LCeKJa7Hq++7+lWc1B7cJzyrslD7fhb4qMc7GvP5PHoqqKZbQxH8WS5RX/cHAWCWDJWqaL0KyRxeCPzQ7tF4mZODyCigfOVO8uTdKh2fMU6Z2OtYCqDMeHKHhlcclDdyHBfz8SzFbySwwUF3TLmMKi9hLYr+smtwrrSVaqRLbiy6WJbXQnKTYVcBZK1pML3A6U=;bZy7aZDmQBsdSLSxjEXXRA=="
 ---
 

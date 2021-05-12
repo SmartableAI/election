@@ -352,6 +352,22 @@ related:
         width: 504
         height: 263
         isCached: true
+  - title: "Biden’s biggest remaining personnel decision meets heat from the left"
+    excerpt: "The biggest force standing between Jerome Powell and a second term as Fed chair may be an activist left prepared to create a spectacle."
+    publishedDateTime: 2021-05-11T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/05/11/fed-chair-powell-biden-left-486746"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/05/11/fed-chair-powell-biden-left-486746"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/11/fed-chair-powell-biden-left-486746"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/41/77/9f43269e40f186280b2ed37745b9/210510-jerome-powell-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden administration announces reversal of Trump-era limits on protections for transgender people in health care"
     excerpt: "The Trump administration in June 2020 finalized its rollback of protections against gender identity discrimination in health care regulated by Obamacare."
     publishedDateTime: 2021-05-11T11:00:00Z
@@ -386,6 +402,20 @@ related:
     excerpt: "Trump has offered a much different narrative of a “fake” presidential election — as the former president put it on Sunday. In another statement slamming Cheney last week, Trump envisioned “a far different presidential result” had then-Vice President Mike Pence declined to accept the will of the voters in two of six states."
     publishedDateTime: 2021-05-11T00:00:00Z
     webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/05/10/the-house-gops-trump-trap-492789"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "The heiress in the Biden administration"
+    excerpt: "Welcome to POLITICO’s West Wing Playbook, your guide to the people and power centers in the Biden administration. Did someone forward this to you? Subscribe here! Have a tip? Email us at transitiontips@politico."
+    publishedDateTime: 2021-05-11T22:36:00Z
+    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/05/11/the-heiress-in-the-biden-administration-492806"
     type: article
     provider:
       name: Politico

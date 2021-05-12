@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden touts electric car company potentially worth millions for his energy secretary"
-excerpt: "President Joe Biden and Vice President Kamala Harris' efforts to sell their green agenda and infrastructure plan are being complicated by a thorny conflict of interest for Energy Secretary Jennifer Granholm -- who stands to gain a windfall from stock options in a private electric vehicle company.\n  "
-publishedDateTime: 2021-05-06T11:34:15Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XjFVOKWSXzg/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XjFVOKWSXzg/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/granholm-proterra-electric-car/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/granholm-proterra-electric-car/index.html"
+title: "Biden administration approves first major offshore wind project in US waters"
+excerpt: "The Biden administration announced Tuesday that it is moving forward with the nation's first large-scale offshore wind project, a significant step toward achieving President Joe Biden's goal of increasing US renewable energy production.\n    \n"
+publishedDateTime: 2021-05-11T22:18:16Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RX0UYXXV0E8/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RX0UYXXV0E8/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/first-major-offshore-wind-project-us-waters/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/first-major-offshore-wind-project-us-waters/index.html"
 type: article
-quality: 168
+quality: 172
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303103803-01-jennifer-granholm-0127-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/191025090548-01-offshore-windfarm-file-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration approves first major offshore wind project in US waters"
-    excerpt: "The Biden administration announced Tuesday that it is moving forward with the nation's first large-scale offshore wind project, a significant step toward achieving President Joe Biden's goal of increasing US renewable energy production.\n    \n"
-    publishedDateTime: 2021-05-11T22:18:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RX0UYXXV0E8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/first-major-offshore-wind-project-us-waters/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/first-major-offshore-wind-project-us-waters/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191025090548-01-offshore-windfarm-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration details plans to conserve 30% of US land and water by 2030"
     excerpt: "The Biden administration on Thursday outlined in a new report how it aims to achieve its goal of conserving 30% of America's lands and waters by 2030.\n    \n"
     publishedDateTime: 2021-05-06T14:17:15Z
@@ -78,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/120417062219-park-isle-royale-7-story-top.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Biden touts electric car company potentially worth millions for his energy secretary"
+    excerpt: "President Joe Biden and Vice President Kamala Harris' efforts to sell their green agenda and infrastructure plan are being complicated by a thorny conflict of interest for Energy Secretary Jennifer Granholm -- who stands to gain a windfall from stock options in a private electric vehicle company.\n  "
+    publishedDateTime: 2021-05-06T11:34:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XjFVOKWSXzg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/granholm-proterra-electric-car/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/granholm-proterra-electric-car/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303103803-01-jennifer-granholm-0127-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Biden to criticize tax cuts for wealthy while pushing middle-class agenda in Louisiana"
     excerpt: "President Joe Biden on Thursday will make the case that his sweeping economic proposals are better positioned to bolster the middle class than tax cuts for the wealthy and corporations, according to a White House official. \n    \n"
@@ -270,6 +270,6 @@ related:
         height: 773
         isCached: true
 
-secured: "3c96pE49OxDaGtB1SBXSulVRBOh+ptUr76UqGT1SOD5UkDVeFmePgbSpxHHsmPWvdp7ByGiJWLJMpgFxHHvgB8sQqtzlfEhR/LcYV8zU7l9bBa8ma4EqqGIt7QkcTKTUg5YWJN8dz+GRAric4d8KxKWiwUBwPYhV3HI/aI0+idkBtd789gFDbFlm0Hg3pcE/9KqR4lbRsz+EtmXh4pt5sbG9L/qXTE16JzPiIuGiyAxpAK63KDM8Y7QRdkLLI55Mm72QS4AcHeuhdsyd0HwluyrtIwBvxf8rGrygNak72S4tO/bsooXGAdo4V5LkQXUw8SxrMMd6G5Pw0K3rHuLxi6W2Q0VAcUNvHj/Vyat8eQs=;VGDf5yKkZACbLcoRP3p4Zw=="
+secured: "CrilcIcOZJ21H8pXjW3fj+IPwesQWXk1ndGadg7MFmc6G9dFKBQ60ltoCaU7A4zFB+buOOBIaKGEoKgOBeOvYbo3ztW/xEa1b+rXy7Bx3jfYIoFwFwUxy5IkQ3+Qemz2GYMVe5/DJxPoxFEtoqG1dpXrcLlZpAifpsvbM8txnLaWnofVCvfqZI/MxxMdygNv9Qr1GTv4Wony31myqgBQJRa2Bcam/mFzz+pFElDSf4WKVvnXJ5tK9DqksWR3U046+hXDiksHG4/uAJadrRwrP293AZniVtrgoCGLwqdTCvY4Fsuh6gmQtSt2IuWMxIny4XMVYasjWaoBXdljVOso/7Y1szj9xoW3Os7La9Gr/r8=;Sb3GM8hyoIfNx1eDR+kXPQ=="
 ---
 
