@@ -1,22 +1,22 @@
 ---
 category: news
-title: "In booting Cheney, 'My Kevin' leads GOP back to Trump"
-excerpt: "Liz Cheney from the No. 3 House leadership position and transform The GOP leader argues that ousting Cheney has less to do with her very public criticism of the former president's lies about his 2020 election loss to President Joe Biden than her inability to set aside personal convictions and do her job."
-publishedDateTime: 2021-05-07T03:51:00Z
-originalUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html"
-webUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+title: "Liz Cheney removed from House leadership over Trump criticism"
+excerpt: "Republican caucus held voice vote on Wednesday to oust Wyoming congresswoman"
+publishedDateTime: 2021-05-12T12:28:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/may/12/liz-cheney-house-leadership-republican-caucus-vote"
+webUrl: "https://www.theguardian.com/us-news/2021/may/12/liz-cheney-house-leadership-republican-caucus-vote"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/12/liz-cheney-house-leadership-republican-caucus-vote"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/12/liz-cheney-house-leadership-republican-caucus-vote"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5N4JR5VO5AI6XAWBRFVMVFK3XE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://i.guim.co.uk/img/media/22ba9299ba3f44f665b41da0237be49faec67616/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=17eccf6b68b8039f8074abd1d01ee590"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -221,6 +221,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "In booting Cheney, 'My Kevin' leads GOP back to Trump"
+    excerpt: "Liz Cheney from the No. 3 House leadership position and transform The GOP leader argues that ousting Cheney has less to do with her very public criticism of the former president's lies about his 2020 election loss to President Joe Biden than her inability to set aside personal convictions and do her job."
+    publishedDateTime: 2021-05-07T03:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5N4JR5VO5AI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Liz Cheney, Donald Trump feud gets mixed reviews in Wyoming"
     excerpt: "Elected officials in Wyoming aren’t sticking their necks out in defense of Liz Cheney as she faces ouster from House GOP leadership"
     publishedDateTime: 2021-05-07T00:29:00Z
@@ -252,22 +268,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PJ2U5YTCQAI6XILXO5S7FGUVEQ.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Liz Cheney removed from House leadership over Trump criticism"
-    excerpt: "Republican caucus held voice vote on Wednesday to oust Wyoming congresswoman"
-    publishedDateTime: 2021-05-12T12:28:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/may/12/liz-cheney-house-leadership-republican-caucus-vote"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/12/liz-cheney-house-leadership-republican-caucus-vote"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/12/liz-cheney-house-leadership-republican-caucus-vote"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/22ba9299ba3f44f665b41da0237be49faec67616/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=17eccf6b68b8039f8074abd1d01ee590"
-        width: 600
-        height: 360
         isCached: true
   - title: "Power Up: The fight over Liz Cheney and Donald Trump is just beginning"
     excerpt: "Remaining silent and ignoring the lie emboldens the liar,' Cheney told a nearly empty chamber House chamber on Tuesday night."
@@ -641,6 +641,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "VALoHHLn/w7cCQde6X7/m7x2hIM1tXKxnvRdZ8c7Ys0V9713fh+GZnVSYiRc6tzEkaOgUUpB3WtjjWUOfbEXC0CoPRaF0FQ81R/jI6kc9qfYJjzy9rJtEj2UaCdA/n74s7/cUcJQmuKVlYCIKW6FGjPrqvylMmcc3C0wDNlxbmwwv59fipsyeeP9JesO8ktSZnGHlYLkmT/4R6ScNxVOq7QiCVZH3Nu84T+qtCsmcJhxc7s7HuRjB3+h8fgOQcNMSDvkhP5h+AwKx4KFg1EKn3iNO07mCpGi49Ldg/OK8upnnZRGkRsimg2d2FWmIOKPnNAVO+mU4BM1csfr9GJO0gcPQl2IFXDyTOV1KEtSn6mssbQcR3aJ4VVAID/6X3TPa50cZ/PBoa+jJlom81b2RRY+foQRsrzOOKablVEL2AYD3+zHhcWlQUnNmWLi0NK69P0AokWXUnlqaQVU+BAF2e6Eb5+SwQDvKo2hgWVGWsLN9puxKDx78LKFGq9HJXV65q5PSfZ4JrewKlJH63YSvA==;gX+MaxLPzO2KCXrIj2Thow=="
+secured: "iecrLpws+dp9pZmyO2YjdcgL3jse8pt0ELMjyg68tLFkwltPpMrv1tN+AJLewRrApY87MnjvKBCgeBHbg3oKZ3xDaQ33RzJ6qyWdXVy407iSBxSjIsxqmwzphdzYDzKb6sscx/WzNw5oNl9utgGQA+UYxXmXRe0WdmJx6Bw29AksrCfX8x6nn9fT3YKZE9dLRnsP1vbU5JuUfDADnVJZaIgAONE7hZ+YG9hVlK8qJxC8q8guNaHYOUub8KpaFvEBpGpwh+mzH148pIqSIYAgbBFtRkUdQBqPtrkY7oWMVHXF4AmjZGCQTat83SY+PY+g2vykUjX4b/MnoFSI3jqVKkr9x/8PCoxpkJHJEbGzgks=;0si5hHAs9aF7p/K+mWrCVA=="
 ---
 

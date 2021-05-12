@@ -1,22 +1,22 @@
 ---
 category: news
-title: "In booting Cheney, 'My Kevin' leads GOP back to Trump"
-excerpt: "Liz Cheney from the No. 3 House leadership position and transform The GOP leader argues that ousting Cheney has less to do with her very public criticism of the former president's lies about his 2020 election loss to President Joe Biden than her inability to set aside personal convictions and do her job."
-publishedDateTime: 2021-05-07T03:51:00Z
-originalUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html"
-webUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+title: "Liz Cheney Ousted From GOP Leadership as Donald Trump's Grip on Party Remains 'Ironclad'"
+excerpt: "\"Liz Cheney has drawn the ire of Donald Trump and the base for daring to tell the truth, and that is something that they cannot tolerate,\" Evan Siegfried, a Republican strategist, told Newsweek."
+publishedDateTime: 2021-05-12T13:29:00Z
+originalUrl: "https://www.newsweek.com/liz-cheney-ousted-gop-leadership-donald-trumps-grip-party-remains-ironclad-1590629"
+webUrl: "https://www.newsweek.com/liz-cheney-ousted-gop-leadership-donald-trumps-grip-party-remains-ironclad-1590629"
+ampWebUrl: "https://www.newsweek.com/liz-cheney-ousted-gop-leadership-donald-trumps-grip-party-remains-ironclad-1590629?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/liz-cheney-ousted-gop-leadership-donald-trumps-grip-party-remains-ironclad-1590629?amp=1"
 type: article
-quality: 125
+quality: 116
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5N4JR5VO5AI6XAWBRFVMVFK3XE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://d.newsweek.com/en/full/1793940/house-republicans-vote-cheney-position.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -221,6 +221,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "In booting Cheney, 'My Kevin' leads GOP back to Trump"
+    excerpt: "Liz Cheney from the No. 3 House leadership position and transform The GOP leader argues that ousting Cheney has less to do with her very public criticism of the former president's lies about his 2020 election loss to President Joe Biden than her inability to set aside personal convictions and do her job."
+    publishedDateTime: 2021-05-07T03:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5N4JR5VO5AI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Liz Cheney, Donald Trump feud gets mixed reviews in Wyoming"
     excerpt: "Elected officials in Wyoming aren’t sticking their necks out in defense of Liz Cheney as she faces ouster from House GOP leadership"
     publishedDateTime: 2021-05-07T00:29:00Z
@@ -332,22 +348,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/24/USAT/ad6c012f-d872-4235-80c8-9ad0284e6393-VPC_CHENEY_MCCARTHY_ON_TRUMP_CPAC_DESK.00_00_13_17.Still009.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Liz Cheney Ousted From GOP Leadership as Donald Trump's Grip on Party Remains 'Ironclad'"
-    excerpt: "\"Liz Cheney has drawn the ire of Donald Trump and the base for daring to tell the truth, and that is something that they cannot tolerate,\" Evan Siegfried, a Republican strategist, told Newsweek."
-    publishedDateTime: 2021-05-12T13:29:00Z
-    webUrl: "https://www.newsweek.com/liz-cheney-ousted-gop-leadership-donald-trumps-grip-party-remains-ironclad-1590629"
-    ampWebUrl: "https://www.newsweek.com/liz-cheney-ousted-gop-leadership-donald-trumps-grip-party-remains-ironclad-1590629?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/liz-cheney-ousted-gop-leadership-donald-trumps-grip-party-remains-ironclad-1590629?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
-    images:
-      - url: "https://d.newsweek.com/en/full/1793940/house-republicans-vote-cheney-position.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Rep. Elise Stefanik, seeking Liz Cheney’s House leadership post, says Republicans must back Trump"
     excerpt: "Rep. Elise Stefanik stated her case on on Steve Bannon’s podcast Thursday for replacing Rep. Liz Cheney as the No. 3 House Republican leader."
@@ -641,6 +641,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "VALoHHLn/w7cCQde6X7/m7x2hIM1tXKxnvRdZ8c7Ys0V9713fh+GZnVSYiRc6tzEkaOgUUpB3WtjjWUOfbEXC0CoPRaF0FQ81R/jI6kc9qfYJjzy9rJtEj2UaCdA/n74s7/cUcJQmuKVlYCIKW6FGjPrqvylMmcc3C0wDNlxbmwwv59fipsyeeP9JesO8ktSZnGHlYLkmT/4R6ScNxVOq7QiCVZH3Nu84T+qtCsmcJhxc7s7HuRjB3+h8fgOQcNMSDvkhP5h+AwKx4KFg1EKn3iNO07mCpGi49Ldg/OK8upnnZRGkRsimg2d2FWmIOKPnNAVO+mU4BM1csfr9GJO0gcPQl2IFXDyTOV1KEtSn6mssbQcR3aJ4VVAID/6X3TPa50cZ/PBoa+jJlom81b2RRY+foQRsrzOOKablVEL2AYD3+zHhcWlQUnNmWLi0NK69P0AokWXUnlqaQVU+BAF2e6Eb5+SwQDvKo2hgWVGWsLN9puxKDx78LKFGq9HJXV65q5PSfZ4JrewKlJH63YSvA==;gX+MaxLPzO2KCXrIj2Thow=="
+secured: "mjliJIflyn0Uuq/cjM+DZwl3Jq2tq93aJpoeoq1+i84NtH27ZQZbOK8T+2/UrXUBphSDaxP6CRoG8hIbvn5mHxut9t7+f1tAL1ZHwJTMTs5hIRo4oxt991hniO0+IPGHEwlyQwCEr+UsQeeJ+3XTyMfsfKKY17dox/jadbueylGdga6w83fRuxcoh37XRfErttCaCqDe8xCTwYF7CZOnY71jquBt9lTe5kxpaGKIwz4jQp/Ep87L1ImYmIU5mVlEj4rc+p1utTVhLpstgVYBLXpRy/FVYJv/UKxxkizjPUqfP6sXNC3h0NwdA3SQJdNuh/nVIyobn3K/5ZdpZPkl0/sk4PLh6oBT8ZH3QzPoYIo=;jb8v7yofs962qWvsgcsHxA=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden admin rejects that extended unemployment benefits to blame for dismal job report"
-excerpt: "U.S. Secretary of Commerce Gina Raimondo said on Sunday that the dismal April jobs report shows the economy has a \"long way to go\" as it recovers from the coronavirus pandemic amid criticism that extended unemployment benefits are lowering the incentive for Americans to get back to work."
-publishedDateTime: 2021-05-09T18:09:45Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y8UspqhX1No/biden-admin-dismal-job-report-extended-unemployment-benefits"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y8UspqhX1No/biden-admin-dismal-job-report-extended-unemployment-benefits"
-ampWebUrl: "https://www.foxnews.com/politics/biden-admin-dismal-job-report-extended-unemployment-benefits.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-dismal-job-report-extended-unemployment-benefits.amp"
+title: "Republicans propose bill to fire Fauci amid growing discontent with top Biden medical officials"
+excerpt: "As discontent with top Biden health officials among many in and out of the GOP grows, a group of House Republicans will introduce a bill Wednesday to effectively fire top U.S. epidemiologist Anthony Fauci."
+publishedDateTime: 2021-05-12T13:08:05Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sr2h65Cad34/republican-bill-fire-fauci-biden-medical-officials-covid"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sr2h65Cad34/republican-bill-fire-fauci-biden-medical-officials-covid"
+ampWebUrl: "https://www.foxnews.com/politics/republican-bill-fire-fauci-biden-medical-officials-covid.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-bill-fire-fauci-biden-medical-officials-covid.amp"
 type: article
-quality: 167
+quality: 163
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
     width: 340
     height: 340
     isCached: true
@@ -159,6 +159,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden admin rejects that extended unemployment benefits to blame for dismal job report"
+    excerpt: "U.S. Secretary of Commerce Gina Raimondo said on Sunday that the dismal April jobs report shows the economy has a \"long way to go\" as it recovers from the coronavirus pandemic amid criticism that extended unemployment benefits are lowering the incentive for Americans to get back to work."
+    publishedDateTime: 2021-05-09T18:09:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y8UspqhX1No/biden-admin-dismal-job-report-extended-unemployment-benefits"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-dismal-job-report-extended-unemployment-benefits.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-dismal-job-report-extended-unemployment-benefits.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden to announce partnership with Uber, Lyft for free rides to COVID vaccination sites"
     excerpt: "President Biden on Tuesday is set to announce a partnership with ride-sharing companies Uber and Lyft to provide free rides to anyone going to a vaccination site to get vaccinated through July 4, the White House said. "
     publishedDateTime: 2021-05-11T15:37:22Z
@@ -206,22 +222,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7fb6deb-3930-4b52-95ac-1a1c5092046a/97c6d185-2637-40d8-844f-5074ff0caba9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Republicans propose bill to fire Fauci amid growing discontent with top Biden medical officials"
-    excerpt: "As discontent with top Biden health officials among many in and out of the GOP grows, a group of House Republicans will introduce a bill Wednesday to effectively fire top U.S. epidemiologist Anthony Fauci."
-    publishedDateTime: 2021-05-12T13:08:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sr2h65Cad34/republican-bill-fire-fauci-biden-medical-officials-covid"
-    ampWebUrl: "https://www.foxnews.com/politics/republican-bill-fire-fauci-biden-medical-officials-covid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-bill-fire-fauci-biden-medical-officials-covid.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "20 governors urge Biden to act on border crisis, hit 'unacceptable' plans to house migrants in states"
     excerpt: "Twenty Republican governors are urging the Biden administration to take further action on the crisis at the southern border as the question of where to house the surge in unaccompanied children is impacting states -- with the governors describing the situation as \"unacceptable and unsustainable.\""
@@ -350,6 +350,6 @@ related:
         height: 500
         isCached: true
 
-secured: "+8Wz46MG3rloE2SJ3m/sGt9qTY4M241z57TpJpbltUuQVU6OeTfmjXq02vzO5d5khtGD7TMkSlVnsO9IINU2M6sVb6zLxGqPIPKm+xcvqaFaaM1qX7oIL/Qetxheonz+fUdsaGrR7Q72sCw3AaOWZjBE2q/HEgTxJfMhtUbEoU0LBg/av3U3g8k9wG0sVYWixdKbWGnxdImUFtm888M5nXLO1g1XNHQGNu2K/D3a+i0AO0ZUty1pAIQzACth3gG7SqjSOF1yRzTvrX3LNcDGvr9CUkSlL1F5POi9ruP/Udwlkou8EedBfQ4o1k9Q+ummxQ2p7r+ctUekQaWWPgo3WwicI5fHyvCbsoP/qx0XrDk=;Wa6D1XicBXKaKxCKl35HTA=="
+secured: "0gKvrvhsYLiAvxGKqyJkhTtbHFvHlcvr596d0DcXDQVhLlc4Ew9okJGbHHS87CDGmZoAL1pCHsV8JhAUYj1AHecJieNbxTLJDz7rJSYifeUU185ZCTZ4EnepwcYOkqcNog/VmAq0lMGoMbwuLwLjMcmc6TWGX+rwhqAbAth+ZEdlqRAUi4B65LVyYjAHcqAnJoG34Zv82dnIC3nWaI4xUqvN3TBro0tyih4rzQOLfDt5bvMOjrJ0Or4vuMOIfKuEZc7sEubXVijvxx5mktlLwIvuC3s+CxL+H8xcKSa0VAKd/+cFvqDPh9WHsSY9DKmIoRd9pJzgartGyevMAg5tLfndamy5Yy55vDUXmhSiQ4E=;bmFjwQDqhUi9cq0dKC40tw=="
 ---
 

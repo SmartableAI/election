@@ -3,8 +3,8 @@ category: news
 title: "Biden Sets Everything on Fire"
 excerpt: "Joe Biden is the luckiest man to ever assume the presidency. He succeeded an unpopular figure. He was inaugurated just two weeks after the dramatic storming"
 publishedDateTime: 2021-05-12T10:00:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.amp.html"
 type: article
@@ -220,6 +220,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Republicans propose bill to fire Fauci amid growing discontent with top Biden medical officials"
+    excerpt: "As discontent with top Biden health officials among many in and out of the GOP grows, a group of House Republicans will introduce a bill Wednesday to effectively fire top U.S. epidemiologist Anthony Fauci."
+    publishedDateTime: 2021-05-12T13:08:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sr2h65Cad34/republican-bill-fire-fauci-biden-medical-officials-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/republican-bill-fire-fauci-biden-medical-officials-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-bill-fire-fauci-biden-medical-officials-covid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "20 governors urge Biden to act on border crisis, hit 'unacceptable' plans to house migrants in states"
     excerpt: "Twenty Republican governors are urging the Biden administration to take further action on the crisis at the southern border as the question of where to house the surge in unaccompanied children is impacting states -- with the governors describing the situation as \"unacceptable and unsustainable.\""
     publishedDateTime: 2021-05-11T19:03:31Z
@@ -331,6 +347,6 @@ related:
         height: 500
         isCached: true
 
-secured: "RhYcLpEFnVNl2zDoAnUHMj3TVbgMmgcN8B9ZkpLUewgzBTYzd1Y3e8n3V5Bu5biHTNJBPflnAIdTmrGV6n8tUFQEjatcVub6V9tqUIYkU+wnfkVKIQc5yv2nhIxpVQ5QwNVJXbixwvXH1sP/Zznryidj/n5eK5MjmnpNfCIpL2MAUcMgg7v0c2zjERMemD51oAxdY6IA+Kv/TK0Daxip2ERyXxBUJaOdu7agQb7W6+X01ZLO/HIQdHoBRElsFpvSsQFq4H5TRU504JLx4a6LQpcNS8y3lVKQDgYU2RlG3JSynLtKbHUsNGWHRjBfvHBPNKxkc565cpCjhogP8DCjqsulQxdFnVi5DCzLR19FlaU=;rHUoxfvuiR1Kq20LinD/fw=="
+secured: "k+ung34qkJJOp4Dp1uXr4VXelWSrUr3vtqREpWYosWKBK3yo9Oc+xa3h/NaD7VgG1CElCdr2QGjJXE6P1Cxby7NGPRY74ZJ2sB1UQpEA5BYPEiUWGFcvef3SS5YtuzYJ4S3TjSc1xGYneGrjEMrXbK3KJ2IW2JPIDHNmgRvuIq4U7Dj2Jzz+6lIUAWkw3IeGclsrVChawUUIPbVHsR8mWtxBIbRwI8s4yNbwQlvcHB/qunWi2qXrwHolfv8rIG67JOOjqzM1j0y4ma8rmUMdcrT6BMJrM+f11E4KTg5Z3eIBr1g+GFiR/OFPZmGboNuqIPsOUJneVb22c/vFeWYKaRIKThBRBQB1pZdq1Rwybz0=;ZDkMkjEkVACLP1w4i8slSw=="
 ---
 

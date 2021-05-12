@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden approval rating: Thumbs up overall, but thumbs down on immigration: poll"
-excerpt: "A new national poll indicates that most Americans approve of the overall job President Biden is doing in the White House. But, according to AP-NORC survey released Monday, the president’s numbers are mixed on gun violence and underwater on immigration."
-publishedDateTime: 2021-05-10T19:15:51Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll"
-ampWebUrl: "https://www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp"
+title: "Ingraham: Biden is out of gas, is now America's problem denier"
+excerpt: "Fox News host Laura Ingraham claimed President Biden's \"incompetence and radicalism are a dangerous combination\" as he denies the several crises facing the nation on \"\""
+publishedDateTime: 2021-05-12T04:36:00Z
+originalUrl: "https://www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier"
+webUrl: "https://www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier"
+ampWebUrl: "https://www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier.amp"
 type: article
-quality: 171
-heat: 251
-published: true
+quality: 135
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,15 +22,32 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cef5a8b4-0514-4f78-af01-568c1de27822/1123ba03-d0ca-4194-b629-fe6ccc0d5548/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
+  - title: "Biden approval rating: Thumbs up overall, but thumbs down on immigration: poll"
+    excerpt: "A new national poll indicates that most Americans approve of the overall job President Biden is doing in the White House. But, according to AP-NORC survey released Monday, the president’s numbers are mixed on gun violence and underwater on immigration."
+    publishedDateTime: 2021-05-10T19:15:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "New Biden DOJ staffer deleted over 39K tweets, including Russia collusion accusations"
     excerpt: "Author and National Security Administration alum Susan Hennessey announced on Monday that she would be joining Biden’s DOJ as part of the agency’s National Security Division."
     publishedDateTime: 2021-05-10T17:46:03Z
@@ -79,23 +96,7 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Ingraham: Biden is out of gas, is now America's problem denier"
-    excerpt: "Fox News host Laura Ingraham claimed President Biden's \"incompetence and radicalism are a dangerous combination\" as he denies the several crises facing the nation on \"\""
-    publishedDateTime: 2021-05-12T04:36:00Z
-    webUrl: "https://www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier"
-    ampWebUrl: "https://www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cef5a8b4-0514-4f78-af01-568c1de27822/1123ba03-d0ca-4194-b629-fe6ccc0d5548/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
-secured: "lN6vWWDn0eQoG+aPdS0LsC5eq5Pmf5hmv3wm8R6bHirxLmaVQPuzladW8wvV0hGcN5129wmflkrxwMnM+In403DTH5nWOCcImge3O8ZBGUfu0mHoPyFRmRHcDNR+ir2MqBcPn65xOkSantZVuIUn1ODc59ICkIzNmYyRgbQRb/2ghJJmykMwV6dtHQpYzSzw86C13JVX4DZxoANbeVXcVMfi6zWhT0i612d3Z4zoCRMon/B+xn6rpaqjlIsd5i/nZm8CWuG3pBwuBz8F/NOCXJnb0bBjAPg/8JXe4Tw726r86wpEJayktFTyWYopDF8eBHD+fCL22vZp0axUbsvrIW8bcE1bGk614r6Mah4lBe4=;nDKhywk216hIJVuJ1vCL0Q=="
+secured: "uOiSMGvx+PMVS09wFuZ9eTuj32NpkoOZsQFFKp2RQxYJfRr0qdn796gEvfeEnR/vtrKkjAOpgsOelUNnw1JMq2kq40kM6f5a9nGKWBoWoUd24uK7ihFn5Q2mmX5KdIJszppQZbwEgGgpp1o/Zhb5SsUzGGpyMAG4fZC6Xqp4OcXm7MjwMisA/VXFHR4RukION0UY3OU3HqXKBr5HT54kwegkMYhgUUXZYQ9zGS+AYDrWX2gZMpRPxpsT6otJiVNxfsc9QBDenwbRlADRR2oUqOG8i+VwuhkrnKuH0pgWONdxUFQp1dPPvWshx+u+QnlBJnoS0HVNvs4MkfZUSBWvoEcK1mhzEJ41p9IKb4uRkuI=;33R8DWv1ZFlEZSYMYjpUeA=="
 ---
 

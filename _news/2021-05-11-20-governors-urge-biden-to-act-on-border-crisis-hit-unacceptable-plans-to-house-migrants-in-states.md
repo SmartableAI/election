@@ -223,6 +223,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Republicans propose bill to fire Fauci amid growing discontent with top Biden medical officials"
+    excerpt: "As discontent with top Biden health officials among many in and out of the GOP grows, a group of House Republicans will introduce a bill Wednesday to effectively fire top U.S. epidemiologist Anthony Fauci."
+    publishedDateTime: 2021-05-12T13:08:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sr2h65Cad34/republican-bill-fire-fauci-biden-medical-officials-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/republican-bill-fire-fauci-biden-medical-officials-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-bill-fire-fauci-biden-medical-officials-covid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "White House COVID-19 czar pressed on why Biden still wears mask indoors around other vaccinated people"
     excerpt: "White House COVID-19 response coordinator Jeff Zients was asked Sunday to explain why President Biden still wears a mask during press briefings despite being fully vaccinated and standing in a room with fully vaccinated journalists."
     publishedDateTime: 2021-05-09T16:50:03Z
@@ -290,7 +306,7 @@ related:
   - title: "Biden Sets Everything on Fire"
     excerpt: "Joe Biden is the luckiest man to ever assume the presidency. He succeeded an unpopular figure. He was inaugurated just two weeks after the dramatic storming"
     publishedDateTime: 2021-05-12T10:00:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.html"
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.html#!"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.amp.html"
     type: article

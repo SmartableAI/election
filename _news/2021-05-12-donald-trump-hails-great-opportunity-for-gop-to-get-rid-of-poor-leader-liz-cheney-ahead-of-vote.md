@@ -1,22 +1,22 @@
 ---
 category: news
-title: "In booting Cheney, 'My Kevin' leads GOP back to Trump"
-excerpt: "Liz Cheney from the No. 3 House leadership position and transform The GOP leader argues that ousting Cheney has less to do with her very public criticism of the former president's lies about his 2020 election loss to President Joe Biden than her inability to set aside personal convictions and do her job."
-publishedDateTime: 2021-05-07T03:51:00Z
-originalUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html"
-webUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+title: "Donald Trump Hails Great Opportunity for GOP to Get Rid of 'Poor Leader' Liz Cheney Ahead of Vote"
+excerpt: "\"Almost everyone in the Republican Party, including 90% of Wyoming, looks forward to her ouster—and that includes me!\" Trump said as House Republicans began voting on whether to keep Cheney in her leadership position."
+publishedDateTime: 2021-05-12T13:24:00Z
+originalUrl: "https://www.newsweek.com/donald-trump-hails-great-opportunity-gop-get-rid-poor-leader-liz-cheney-ahead-vote-1590812"
+webUrl: "https://www.newsweek.com/donald-trump-hails-great-opportunity-gop-get-rid-poor-leader-liz-cheney-ahead-vote-1590812"
+ampWebUrl: "https://www.newsweek.com/donald-trump-hails-great-opportunity-gop-get-rid-poor-leader-liz-cheney-ahead-vote-1590812?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-hails-great-opportunity-gop-get-rid-poor-leader-liz-cheney-ahead-vote-1590812?amp=1"
 type: article
-quality: 125
+quality: 112
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5N4JR5VO5AI6XAWBRFVMVFK3XE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://d.newsweek.com/en/full/1794335/donald-trump-liz-cheney-gop-vote-house.jpg"
+    width: 594
+    height: 394
     isCached: true
 
 related:
@@ -221,6 +221,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "In booting Cheney, 'My Kevin' leads GOP back to Trump"
+    excerpt: "Liz Cheney from the No. 3 House leadership position and transform The GOP leader argues that ousting Cheney has less to do with her very public criticism of the former president's lies about his 2020 election loss to President Joe Biden than her inability to set aside personal convictions and do her job."
+    publishedDateTime: 2021-05-07T03:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-booting-cheney-my-kevin-leads-gop-back-to-trump/2021/05/07/d7cb3af0-aeef-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5N4JR5VO5AI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Liz Cheney, Donald Trump feud gets mixed reviews in Wyoming"
     excerpt: "Elected officials in Wyoming aren’t sticking their necks out in defense of Liz Cheney as she faces ouster from House GOP leadership"
     publishedDateTime: 2021-05-07T00:29:00Z
@@ -364,22 +380,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/FjIKfFFlvlxaPvZZdy6C_zXVBFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DNWPM37OTNDZ3DCSVKITMWEUWM"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Donald Trump Hails Great Opportunity for GOP to Get Rid of 'Poor Leader' Liz Cheney Ahead of Vote"
-    excerpt: "\"Almost everyone in the Republican Party, including 90% of Wyoming, looks forward to her ouster—and that includes me!\" Trump said as House Republicans began voting on whether to keep Cheney in her leadership position."
-    publishedDateTime: 2021-05-12T13:24:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-hails-great-opportunity-gop-get-rid-poor-leader-liz-cheney-ahead-vote-1590812"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-hails-great-opportunity-gop-get-rid-poor-leader-liz-cheney-ahead-vote-1590812?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-hails-great-opportunity-gop-get-rid-poor-leader-liz-cheney-ahead-vote-1590812?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 112
-    images:
-      - url: "https://d.newsweek.com/en/full/1794335/donald-trump-liz-cheney-gop-vote-house.jpg"
-        width: 594
-        height: 394
         isCached: true
   - title: "Liz Cheney’s months-long effort to turn Republicans from Trump threatens her reelection and ambitions. She says it’s only beginning."
     excerpt: "The party’s third-highest leader has engaged in a raging months-long dispute with other House Republicans, likely to end in her dismissal from her leadership post."
@@ -641,6 +641,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "VALoHHLn/w7cCQde6X7/m7x2hIM1tXKxnvRdZ8c7Ys0V9713fh+GZnVSYiRc6tzEkaOgUUpB3WtjjWUOfbEXC0CoPRaF0FQ81R/jI6kc9qfYJjzy9rJtEj2UaCdA/n74s7/cUcJQmuKVlYCIKW6FGjPrqvylMmcc3C0wDNlxbmwwv59fipsyeeP9JesO8ktSZnGHlYLkmT/4R6ScNxVOq7QiCVZH3Nu84T+qtCsmcJhxc7s7HuRjB3+h8fgOQcNMSDvkhP5h+AwKx4KFg1EKn3iNO07mCpGi49Ldg/OK8upnnZRGkRsimg2d2FWmIOKPnNAVO+mU4BM1csfr9GJO0gcPQl2IFXDyTOV1KEtSn6mssbQcR3aJ4VVAID/6X3TPa50cZ/PBoa+jJlom81b2RRY+foQRsrzOOKablVEL2AYD3+zHhcWlQUnNmWLi0NK69P0AokWXUnlqaQVU+BAF2e6Eb5+SwQDvKo2hgWVGWsLN9puxKDx78LKFGq9HJXV65q5PSfZ4JrewKlJH63YSvA==;gX+MaxLPzO2KCXrIj2Thow=="
+secured: "4hh+ObLlo5dn/v3tlfpNnZY39SxoCJBQOsolP+BcrJ8ZevHcElRDZPlg2gsWsbZWw/FXuHMVI93rnwVqt02z4C+0qjExksOf97CwPbWWmjetjtpt/O1nIZb9EzZpmCrdNxPIowRDa02m6DF2+F9S7y0jnV6R11/a96eNtqkfW4tUAW3MRQRcnzcfocML5KNG0h4raINSVYVS7Xw/9AQmbjCcixO3CiJZIOIJRFYXzvY4S+jwyZ9Il7C43xa3NU0Zsh5PeoRTMDMxqo5tZ2QbjQo/ax0FIkQcS3iwPwrnNf2KYlQmgls0JFph2gY4rTSQOpy2ZSkaomfH4n44DHSpzbKVCht0qZi/mtpXYUG0JyQ=;yqyTo/jSdED4vnz3Gziebw=="
 ---
 

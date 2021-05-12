@@ -269,6 +269,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Liz Cheney removed from House leadership over Trump criticism"
+    excerpt: "Republican caucus held voice vote on Wednesday to oust Wyoming congresswoman"
+    publishedDateTime: 2021-05-12T12:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/12/liz-cheney-house-leadership-republican-caucus-vote"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/12/liz-cheney-house-leadership-republican-caucus-vote"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/12/liz-cheney-house-leadership-republican-caucus-vote"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/22ba9299ba3f44f665b41da0237be49faec67616/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=17eccf6b68b8039f8074abd1d01ee590"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Power Up: The fight over Liz Cheney and Donald Trump is just beginning"
     excerpt: "Remaining silent and ignoring the lie emboldens the liar,' Cheney told a nearly empty chamber House chamber on Tuesday night."
     publishedDateTime: 2021-05-12T09:45:00Z
@@ -333,6 +349,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Liz Cheney Ousted From GOP Leadership as Donald Trump's Grip on Party Remains 'Ironclad'"
+    excerpt: "\"Liz Cheney has drawn the ire of Donald Trump and the base for daring to tell the truth, and that is something that they cannot tolerate,\" Evan Siegfried, a Republican strategist, told Newsweek."
+    publishedDateTime: 2021-05-12T13:29:00Z
+    webUrl: "https://www.newsweek.com/liz-cheney-ousted-gop-leadership-donald-trumps-grip-party-remains-ironclad-1590629"
+    ampWebUrl: "https://www.newsweek.com/liz-cheney-ousted-gop-leadership-donald-trumps-grip-party-remains-ironclad-1590629?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/liz-cheney-ousted-gop-leadership-donald-trumps-grip-party-remains-ironclad-1590629?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1793940/house-republicans-vote-cheney-position.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Rep. Elise Stefanik, seeking Liz Cheney’s House leadership post, says Republicans must back Trump"
     excerpt: "Rep. Elise Stefanik stated her case on on Steve Bannon’s podcast Thursday for replacing Rep. Liz Cheney as the No. 3 House Republican leader."
     publishedDateTime: 2021-05-06T16:48:00Z
@@ -348,6 +380,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/FjIKfFFlvlxaPvZZdy6C_zXVBFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DNWPM37OTNDZ3DCSVKITMWEUWM"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Donald Trump Hails Great Opportunity for GOP to Get Rid of 'Poor Leader' Liz Cheney Ahead of Vote"
+    excerpt: "\"Almost everyone in the Republican Party, including 90% of Wyoming, looks forward to her ouster—and that includes me!\" Trump said as House Republicans began voting on whether to keep Cheney in her leadership position."
+    publishedDateTime: 2021-05-12T13:24:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-hails-great-opportunity-gop-get-rid-poor-leader-liz-cheney-ahead-vote-1590812"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-hails-great-opportunity-gop-get-rid-poor-leader-liz-cheney-ahead-vote-1590812?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-hails-great-opportunity-gop-get-rid-poor-leader-liz-cheney-ahead-vote-1590812?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 112
+    images:
+      - url: "https://d.newsweek.com/en/full/1794335/donald-trump-liz-cheney-gop-vote-house.jpg"
+        width: 594
+        height: 394
         isCached: true
   - title: "Facebook to announce decision on Trump ban"
     excerpt: "Video Module Facebook to announce decision on Trump ban. Posted . Facebook's independent oversight board will announce whether it will uphold or reverse a decision blocking former"
