@@ -1,27 +1,29 @@
 ---
 category: news
-title: "President Joe Biden Meeting for Jobs Report"
-excerpt: "Secretary of Transportation Pete Buttigieg, Energy Secretary Jennifer Granholm (2nd L), Housing and Urban Development Secretary Marcia Fudge (C), and Commerce Secretary Gina Raimondo (R), and US Labor Secretary Martin Walsh speak to the media outside of the West Wing of the White House in Washington,"
-publishedDateTime: 2021-05-08T00:20:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/7a266e3c68575448241e859887ed7916/President-Joe-Biden-Meeting-for-Jobs-Report/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/7a266e3c68575448241e859887ed7916/President-Joe-Biden-Meeting-for-Jobs-Report/"
+title: "Cheney: Trump, GOP supporters on a ‘crusade to undermine our democracy’"
+excerpt: "Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, accusing former President Donald Trump and his GOP supporters of following a path that would “undermine our democracy.” On the eve of a closed-door meeting when House Republicans seem certain to oust her from a leadership post because of her clashes with the former president,"
+publishedDateTime: 2021-05-12T03:35:00Z
+originalUrl: "https://www.al.com/politics/2021/05/cheney-trump-gop-supporters-on-a-crusade-to-undermine-our-democracy.html"
+webUrl: "https://www.al.com/politics/2021/05/cheney-trump-gop-supporters-on-a-crusade-to-undermine-our-democracy.html"
+ampWebUrl: "https://www.al.com/politics/2021/05/cheney-trump-gop-supporters-on-a-crusade-to-undermine-our-democracy.html?outputType=amp"
+cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/05/cheney-trump-gop-supporters-on-a-crusade-to-undermine-our-democracy.html?outputType=amp"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: al.com
+  domain: al.com
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/7a266e3c68575448241e859887ed7916/BIDEN-JOBS.jpg"
-    width: 650
-    height: 433
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZXFJ2MYB4JBC5JPNYFZYOPTGVI.jpeg"
+    width: 5000
+    height: 3333
     isCached: true
 
 related:
@@ -417,22 +419,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Cheney: Trump, GOP supporters on a ‘crusade to undermine our democracy’"
-    excerpt: "Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, accusing former President Donald Trump and his GOP supporters of following a path that would “undermine our democracy.” On the eve of a closed-door meeting when House Republicans seem certain to oust her from a leadership post because of her clashes with the former president,"
-    publishedDateTime: 2021-05-12T03:35:00Z
-    webUrl: "https://www.al.com/politics/2021/05/cheney-trump-gop-supporters-on-a-crusade-to-undermine-our-democracy.html"
-    ampWebUrl: "https://www.al.com/politics/2021/05/cheney-trump-gop-supporters-on-a-crusade-to-undermine-our-democracy.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/05/cheney-trump-gop-supporters-on-a-crusade-to-undermine-our-democracy.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZXFJ2MYB4JBC5JPNYFZYOPTGVI.jpeg"
-        width: 5000
-        height: 3333
-        isCached: true
   - title: "Liz Cheney Under Attack From GOP For Standing Up To Donald Trump"
     excerpt: "Wyo., may find herself ousted from her position as the third-highest Republican as her strong stance against Donald Trump nets her few allies and increasing hostility from her caucus. Removing her from her post would require a conference vote,"
     publishedDateTime: 2021-05-04T21:37:00Z
@@ -446,6 +432,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/liz-cheney.jpg"
         width: 1200
         height: 843
+        isCached: true
+  - title: "President Joe Biden Meeting for Jobs Report"
+    excerpt: "Secretary of Transportation Pete Buttigieg, Energy Secretary Jennifer Granholm (2nd L), Housing and Urban Development Secretary Marcia Fudge (C), and Commerce Secretary Gina Raimondo (R), and US Labor Secretary Martin Walsh speak to the media outside of the West Wing of the White House in Washington,"
+    publishedDateTime: 2021-05-08T00:20:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/7a266e3c68575448241e859887ed7916/President-Joe-Biden-Meeting-for-Jobs-Report/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/7a266e3c68575448241e859887ed7916/BIDEN-JOBS.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "From The Desk Of Donald J. Trump"
     excerpt: "Trump Launches Sad Twitter Just for HimTrump debuted a new page on his website that he’s calling “a beacon of freedom,” but it’s basically just a social-media network for one."
@@ -466,6 +466,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "EiTR3ET+CTiInso37KLgsdY4WW66/Y4EZIbKjqS72/lesOB31R9uFwVUIhv8LuDUiW7NIP5qTQo5wim9iJ5DkIk2qTsZYHn3YzUdPrcoHpJRfNtbhjtaoQphJM3EKSpE5WUjol837f6OFlRRwSGejtcAed0aGYAUvs9ZeFsOftXg2KK6Uv0H52X4m7AITZ3diJuGtnVIoikbPfXrPmavO/75DyUUI6/ob+VHnep58y/2gTjtLGHhTArn0841dYTY3/J/0bkFIapqeUqnrfdedBlANXcGZToDPV1ApakIF1Vh3XzbUgrDofsFIpX4VRrnrVuqetJ+gKvthG+YCZuke9cR0A1xcYiYE1e9GiVGescf7fgJtjax5ubth1qf9Czxh2NhYpwAWRIrwIc+xNY8yz3xs2fkcAAkvzsTuM8AX/2ThACGOb5Logrjc4ou8GKnkIvmFipMpmoj3BifdM1FjnWPUJkDTJDu+JFg0VKDQXnCwlhev1/tNuU6ho+u0PdR29vGdkvDlgDcw1+RkID2gQ==;pvbepB41Plh/KUMjP9FYPg=="
+secured: "aWaxypI8ebzQt9ivBu9slPVd4yV7sGCV8D77ARJ3ousHnXynFtbB6x55ywHL5mfFl0M/go8Q8vJmZBdUUnvhF7mSltplfyrjgoB5Xyjx1Y9xjWTOgzodf/0laXYxkySiFz9pjn7bWJA+XCYUvUAIIWxFKG5sr9tYgOA93PqP34W0V+gI8FLwjmAHkYm78n54j6VKViuC94itVmgNXr8qy1km/8hAqA+zHHPya5rWOYUnJ1ID81IMxPJQjteBxy+yXr6Dh2Kg9VrW3FWPPdCbOzcJllBGzCs8Aa07ET6kfheafWgFW2V6+BoWK6ixm2SLtExphCrjnsMPq3FGLhVafq0g9JiHfnLO06QxeJBWxaM=;d09KMGzSPkJoCFKmlilUiA=="
 ---
 

@@ -1,33 +1,34 @@
 ---
 category: news
-title: "How the Trump era made redistricting more complicated"
-excerpt: "The political upheaval caused by the rise of former President Donald Trump has forced party operatives and elected officials tasked with laying out the nation's congressional districts for the next decade to determine whether those shifts were aberrations or signs of more lasting changes.\n    \n"
-publishedDateTime: 2021-04-18T22:04:57Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/USwTatmtgTs/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/USwTatmtgTs/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
+title: "House Republicans to vote on Liz Cheney's future in leadership for rebuking Trump"
+excerpt: "Cheney has consistently criticized the former president's false claims about the election after his supporters waged a deadly attack on the U.S. Capitol."
+publishedDateTime: 2021-05-12T08:30:00Z
+originalUrl: "https://www.nbcnews.com/politics/congress/house-republicans-vote-liz-cheney-s-future-leadership-rebuking-trump-n1266992"
+webUrl: "https://www.nbcnews.com/politics/congress/house-republicans-vote-liz-cheney-s-future-leadership-rebuking-trump-n1266992"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266992"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266992"
 type: article
-quality: 175
+quality: 130
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212145220-102-trump-file-play-button-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media4.s-nbcnews.com/i/newscms/2021_19/3472019/210511-liz-cheney-capitol-an_eafe9c24fe14c09b2c97ea12600882bf.jpg"
+    width: 2500
+    height: 1600
     isCached: true
 
 related:
@@ -44,6 +45,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How the Trump era made redistricting more complicated"
+    excerpt: "The political upheaval caused by the rise of former President Donald Trump has forced party operatives and elected officials tasked with laying out the nation's congressional districts for the next decade to determine whether those shifts were aberrations or signs of more lasting changes.\n    \n"
+    publishedDateTime: 2021-04-18T22:04:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/USwTatmtgTs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/18/politics/redistricting-post-trump-era/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212145220-102-trump-file-play-button-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -127,23 +144,7 @@ related:
         width: 2500
         height: 1690
         isCached: true
-  - title: "House Republicans to vote on Liz Cheney's future in leadership for rebuking Trump"
-    excerpt: "Cheney has consistently criticized the former president's false claims about the election after his supporters waged a deadly attack on the U.S. Capitol."
-    publishedDateTime: 2021-05-12T08:30:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/house-republicans-vote-liz-cheney-s-future-leadership-rebuking-trump-n1266992"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266992"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266992"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_19/3472019/210511-liz-cheney-capitol-an_eafe9c24fe14c09b2c97ea12600882bf.jpg"
-        width: 2500
-        height: 1600
-        isCached: true
 
-secured: "7ogmLQlkpGpEzGqZ1uTAGssRDYD6TVEdGOv2s+RyVGyc7wPWrlXkqsoakkDVX3R58ibw6qHGekMOX5Gi9L2m8jigD9OnpUQJhAeRb0WRFvC/xwGhQUfUxUwbeJKpq78i/XTh2TAcmkntS+4LwxUETSYHdmPvQ5gl8n8DTUY6firKldCGdembNSLB6D4jmawhURRBGew+mKRwLaKyYmF1ZArF/WTbsMRqwPyq8sMh56T1US7Ka1F1uYvVeT4BFoKgHXlfdkq3qaBPgA8VkXxyMg6MjSBLEb69ttycGdFR+fjJyOZp5/hUMDV1bknRi+MUtS+p7uisP53PJiotEOpuRKK8gIlPMzweLLiFRrfDGqk=;VY3ZA3yioWoXuXtD/RjOnA=="
+secured: "r/VzS88TGVp3SUndEWIBU0Kjj0hsrWYnoRBggIHZiaYIZEX2naG1GzcKZ3aTOeH2/Qkmp7DhgT95c/AuSN4h69aESBfSy4pZHFGzwnE2Y83voVPY/VDMXcMWwDRv8NOFam3B1eMoGbPG8Kbkplmcw0tiMBNC8q4Sdv/yX4r9Mf2/9ThjpEuK/0x7WK/AHK7CHaNlAboBZDEmDapE4iAf2IWfmpnx4aEmY60UXqzAutYL4JyBadACzgq6cKw47PwULSxDvrSZvKTpp68UzYGzlViz/LQIAXX/0bar2dlsuD75U0kB3EKy3ti5aAcqJT2yz0/XUNEASVGknGPw+q21KqMEsSIA1glrsUCasFD23lI=;l+9E8hCuGnSW6oDZf5hG/g=="
 ---
 

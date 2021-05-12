@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Samantha Bee on GOP post-Trump: ‘Republicans eating each other alive’"
-excerpt: "Late-night hosts discuss the GOP’s internecine war over Trump’s election lies, Facebook’s extension of Trump’s ban and the ex-president’s new blog"
-publishedDateTime: 2021-05-06T15:34:00Z
-originalUrl: "https://www.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
-webUrl: "https://www.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
-ampWebUrl: "https://amp.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
+title: "Inside Liz Cheney’s plan to take on former president Donald Trump"
+excerpt: "The Wyoming Republican plans increased travel and media appearances, as other opponents of the former president organize to back anti-Trump candidates."
+publishedDateTime: 2021-05-12T08:34:00Z
+originalUrl: "https://www.washingtonpost.com/politics/cheney-trump-fight/2021/05/11/09f7906c-b267-11eb-a980-a60af976ed44_story.html"
+webUrl: "https://www.washingtonpost.com/politics/cheney-trump-fight/2021/05/11/09f7906c-b267-11eb-a980-a60af976ed44_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/cheney-trump-fight/2021/05/11/09f7906c-b267-11eb-a980-a60af976ed44_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/cheney-trump-fight/2021/05/11/09f7906c-b267-11eb-a980-a60af976ed44_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/c29a9135d769e4091474929113d593620084b91a/114_114_2542_1525/master/2542.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=847e93a77619edf2539744548c39bdda"
-    width: 600
-    height: 360
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PJ2U5YTCQAI6XILXO5S7FGUVEQ.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -157,6 +157,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Samantha Bee on GOP post-Trump: ‘Republicans eating each other alive’"
+    excerpt: "Late-night hosts discuss the GOP’s internecine war over Trump’s election lies, Facebook’s extension of Trump’s ban and the ex-president’s new blog"
+    publishedDateTime: 2021-05-06T15:34:00Z
+    webUrl: "https://www.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
+    ampWebUrl: "https://amp.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/c29a9135d769e4091474929113d593620084b91a/114_114_2542_1525/master/2542.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=847e93a77619edf2539744548c39bdda"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump backs Stefanik to replace Cheney as GOP conference chair"
     excerpt: "Former President Donald Trump on Wednesday publicly called for the removal of GOP conference chair Liz Cheney, who has repeatedly criticized him for spreading falsehoods about the 2020 election and seeking to downplay the January 6 attack on the U."
     publishedDateTime: 2021-05-05T21:35:00Z
@@ -234,22 +250,6 @@ related:
     quality: 125
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LVJJTRVOVEI6XAWBRFVMVFK3XE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Inside Liz Cheney’s plan to take on former president Donald Trump"
-    excerpt: "The Wyoming Republican plans increased travel and media appearances, as other opponents of the former president organize to back anti-Trump candidates."
-    publishedDateTime: 2021-05-12T08:34:00Z
-    webUrl: "https://www.washingtonpost.com/politics/cheney-trump-fight/2021/05/11/09f7906c-b267-11eb-a980-a60af976ed44_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/cheney-trump-fight/2021/05/11/09f7906c-b267-11eb-a980-a60af976ed44_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/cheney-trump-fight/2021/05/11/09f7906c-b267-11eb-a980-a60af976ed44_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PJ2U5YTCQAI6XILXO5S7FGUVEQ.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -552,6 +552,6 @@ related:
       domain: usnews.com
     quality: 44
 
-secured: "X0b/pf1hG77Kr1BduCwyH1rvxq3jZvragmqVQkuQyE0hdtL3CbRee+Rqb03Q9kDianppPBid/L9t4LBbi33R96EzNVCEDebJOqH/yNzDyP8cJVszpO9BuH+HfGM8rqyPbqk++pb+O7yrl5wjahyQsymi1jTeJQM6Y7yW42Wm6jzvLnbM9doWwWcTLqLJWFP/a2f4ozUT9A7C/oAG9lhl3gaWNj0JJJH0kAujqv7+u5+Is06roQOxgft4mZLmDP9qlGomWOP7jEqopDlGKoL7cj1T9MWuwazgBJTPJw/4z4ujTr7gUWbBw+v43y8M2iJXRpMb7gE9JpO22QPm79c8oEnPFYKAAGqz3QaHZRtL16poG4lv7ajEQmLGlwPsjJR3wrOnM3DEQWRRrO0FQaIxeZZTevkn7bsxfwXRdvVdVKKs5IkcuIoAlLd5fB54Ahs4JAf+WcAUQgGjbNr7dFh2aoqCMUYIcJnxXUND9OsVfX+G51b1jMBktrPNS6DWZdfYvaqn3q75ViDVI6wyulvk9A==;K33avG4hApEQF2mjf+3PYA=="
+secured: "LFcBwMUGQlhppvQCKmvgxFhdtc+cizFkWLfyKKa4217lfowoDqk7RXqcKhWG66UG16hRMcMr7Ha1FPsJ3cI43fsYazZkFcsl1/bl4n8G8ZDVijH2gi+VkCXJ7Dxo2bZ3mblLrSTchJXfQ2IdIxxXkwehgHjueEKoVRn8m2IOJdBqqRsG5mj7IuH/Qr1x73mcrzt4t/di8seH5XeAZ6DNejp0IRMgMZH0IMAwxXINUknjtF+yRMgP+Z8XZOU6Muyrbx9zwE0EQ41R2ak+4gsARVhiSQcb5BNaI89l+lsZBHXmn82wdRsNUK/yDi2V2eFI1zFhngO6PEYAn0iK56EMHTi1adQM9urQPxUWtBq/ZZg=;92SiH2YbevD4muNPIAt25w=="
 ---
 

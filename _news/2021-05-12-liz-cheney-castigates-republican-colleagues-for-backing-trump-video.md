@@ -251,6 +251,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Inside Liz Cheney’s plan to take on former president Donald Trump"
+    excerpt: "The Wyoming Republican plans increased travel and media appearances, as other opponents of the former president organize to back anti-Trump candidates."
+    publishedDateTime: 2021-05-12T08:34:00Z
+    webUrl: "https://www.washingtonpost.com/politics/cheney-trump-fight/2021/05/11/09f7906c-b267-11eb-a980-a60af976ed44_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/cheney-trump-fight/2021/05/11/09f7906c-b267-11eb-a980-a60af976ed44_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/cheney-trump-fight/2021/05/11/09f7906c-b267-11eb-a980-a60af976ed44_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PJ2U5YTCQAI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The crucial thing Liz Cheney’s GOP critics don’t say: She’s wrong about Trump"
     excerpt: "Liz Cheney (Wyo.) may not be long for House GOP leadership. After a failed attempt to oust the No. 3 GOP official following her vote to impeach President Donald Trump, the movement has again built steam following Cheney’s increasing efforts to distance her party from Trump and his false claims about a stolen 2020 election."
     publishedDateTime: 2021-05-04T15:49:00Z
@@ -342,6 +358,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-03-2021/t_7ed03d269ec142f3b14b66cb21289875_name_cheney_scaled.jpg&w=1080"
         width: 1080
         height: 608
+        isCached: true
+  - title: "Liz Cheney says Trump backers threaten democracy"
+    excerpt: "A combative Rep. Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, accusing former President Donald Trump and his GOP supporters of following a path that would \"undermine our democracy."
+    publishedDateTime: 2021-05-12T01:47:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/12/liz-cheney-says-trump-backers-threaten-democracy/5048278001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4226d50a-4ece-495f-88a5-95a727292419_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Republicans are said to be plotting to oust Liz Cheney from House leadership and replace her with a pro-Trump woman"
     excerpt: "Cheney, the third most senior House Republican, has been a vocal critic of former President Donald Trump."
@@ -522,6 +552,6 @@ related:
       domain: usnews.com
     quality: 44
 
-secured: "jp7x+uDfNB9ESC2Nbj6aTBsahZfq0jnro16cD4sT/IWFzNGSXGZ320IdFxam56HmkWkqmrjH+1cZG/p7tWPColDHcPZqVPkxbjkr8hEiNXjlIBHULIUpTMC9RY5k2+5QOpsKn0+11RlJ63tzwZAuoekhxFPC1ysu742uZxt03Bv6ggOUk08/kyfr2hFpE6NeHjLLjGgaUMo1xuRga+XSIenwYDfrUS5jXZDTb68n/oEBd/wYQjDLbZ1SmALGZiJfWTb1hm+tu/v33LKYwuO13ZPm1zUfjFAZTcP2CqMY+O09ckHGTT45z4ERyBKP8HocCtmrep60rKY5PYjwkhRrLBsY5dt9UoYKYGfbPwTvr8s=;y4RKBgWC4g0Jcz1X+5HfDg=="
+secured: "C2HQiegrg+l7G7+tebTSITW2ueo7xsQTDo1JlLxsF/2G7oxgAqMSL+E0Fx/p1kmp+FEt8AlcyHGSwQSY1uqDp79xYO4QnakPv4d1WGta7Z/NTQYs3pbp+m4/6wmvmgJlx4bcga+BwPOx8uEzxQOTAsMCInBR3wKvr0RP87tfiGFdGc7MJ89oBITBpmxBl9ZZV8rUjEnSUMruzGW7IfIaPEy46IQpj6HfUQI5EeFPhlFAWlHQNeBn0NAaN3zNPwwabbhNHPr9xtZ57K+M7LBgekYbhLqTRyt5/Os/+5u6nqqgwP6VL1lo4Ku66i83sV9zzIJylzfbgr2XgkeTrBiJISLLSljTkaaFNdslk5eWcPTbFNrRLsEaR0kzc95v2NzOsZuk0HkJlJaVFYYYBhF5y0oGO9ocRZrV64zRFhQLC7SLmgNrhWNa2KnVsQr45VvBT39OIf3ub849irHj0og2tRDO/Qz9OlRXmFsGxk7GfMuR+n+Tw8SdbKiu4/QsOZ4705nEIv/9TSusyZTcY9FM3A==;QQgv+pzqzdt3qypBh3ZrGQ=="
 ---
 

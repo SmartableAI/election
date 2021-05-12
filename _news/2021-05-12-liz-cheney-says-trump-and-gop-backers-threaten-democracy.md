@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Liz Cheney says Trump and GOP backers threaten democracy"
-excerpt: "Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, accusing former President Donald Trump and his GOP supporters of following a path that would “undermine our democracy.” On the eve of a closed-door meeting when House Republicans seem certain to oust her from a leadership post because of her clashes with the former president,"
-publishedDateTime: 2021-05-12T00:36:00Z
-originalUrl: "https://www.washingtonpost.com/politics/liz-cheney-says-trump-and-gop-backers-threaten-democracy/2021/05/11/215eec84-b2ba-11eb-bc96-fdf55de43bef_story.html"
-webUrl: "https://www.washingtonpost.com/politics/liz-cheney-says-trump-and-gop-backers-threaten-democracy/2021/05/11/215eec84-b2ba-11eb-bc96-fdf55de43bef_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/liz-cheney-says-trump-and-gop-backers-threaten-democracy/2021/05/11/215eec84-b2ba-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/liz-cheney-says-trump-and-gop-backers-threaten-democracy/2021/05/11/215eec84-b2ba-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+excerpt: "Liz Cheney is lashing out at leaders of her own Republican Party WASHINGTON -- A combative Rep. Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, accusing former President Donald Trump and his GOP supporters of following a path that would “undermine our democracy."
+publishedDateTime: 2021-05-12T03:30:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/liz-cheney-trump-gop-backers-threaten-democracy-77633926"
+webUrl: "https://abcnews.go.com/Politics/wireStory/liz-cheney-trump-gop-backers-threaten-democracy-77633926"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQI75PFSUEI6XPEW7X2V3ZB354.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_212f9f03edd34206b738b5ca4c4f0da5_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -303,6 +301,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Joe Biden's Bipartisan Dream May Already Be Dead"
+    excerpt: "The president could struggle to win support from Republicans unless he sacrifices Democratic priorities, experts have warned."
+    publishedDateTime: 2021-05-12T09:43:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-bipartisan-dream-may-already-dead-1590455"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-bipartisan-dream-may-already-dead-1590455?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-bipartisan-dream-may-already-dead-1590455?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1793164/president-joe-biden-addresses-congress.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden tells US governors ‘we got more to do’ to encourage vaccination – live"
     excerpt: "Biden outlines steps officials are taking to get the message on vaccines across – follow the latest politics news live"
     publishedDateTime: 2021-05-11T17:40:00Z
@@ -393,6 +407,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Cheney: Trump, GOP supporters on a ‘crusade to undermine our democracy’"
+    excerpt: "Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, accusing former President Donald Trump and his GOP supporters of following a path that would “undermine our democracy.” On the eve of a closed-door meeting when House Republicans seem certain to oust her from a leadership post because of her clashes with the former president,"
+    publishedDateTime: 2021-05-12T03:35:00Z
+    webUrl: "https://www.al.com/politics/2021/05/cheney-trump-gop-supporters-on-a-crusade-to-undermine-our-democracy.html"
+    ampWebUrl: "https://www.al.com/politics/2021/05/cheney-trump-gop-supporters-on-a-crusade-to-undermine-our-democracy.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/05/cheney-trump-gop-supporters-on-a-crusade-to-undermine-our-democracy.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZXFJ2MYB4JBC5JPNYFZYOPTGVI.jpeg"
+        width: 5000
+        height: 3333
+        isCached: true
   - title: "Liz Cheney Under Attack From GOP For Standing Up To Donald Trump"
     excerpt: "Wyo., may find herself ousted from her position as the third-highest Republican as her strong stance against Donald Trump nets her few allies and increasing hostility from her caucus. Removing her from her post would require a conference vote,"
     publishedDateTime: 2021-05-04T21:37:00Z
@@ -440,6 +470,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "6X0hz6/nZJMFl7j4WE8l3Udo5lfm2RblyGVNwSvgqo50plDVaOKGA7nBfUw4o6GcE3MvqBLnjwYqBg5+J+Eh1IljpK5hr3GN1BN2PipHeAw0EHe04mIcKf+FOdqRQnJGL+1xa+czMM5LCPxamuhUTxuizOLHa1dPjmWr5tMafx8EzQp+jRL5gOhuPmA93jjvPuwQr6ZpwGKNcvizBBaD8VZMPg5kKz4lf3CCCtffefuW9hPhxfCwgiYDgCaqPu5TCE8FSfMZp3lXPpA61nJbScvZ9JTp0F+aZELvz3Bw/kD26WkaMz7PG3PYGVsDYAnVqYTl+nF0DaWb6v64zhhZlPYlAlLXLHp9UtgPAo+qL/X0i/D6gQRHUUJA20P3nwznS4q1Cqlt7SpzrdsorLvoNX1FmaRkqvlmnNBE0E5D75n1tB7zy7qvQ/pbEjZYTx488ZPosSUlMiRa6Uz/3a3rDoNQs4RpYxs/rXBjCyu+QcLSzdTXikr+DNqJbDtiddyZFTBUHPpQZYqGqL/ksmdqwg==;A9x9WcJjGUOf61vD/JODdA=="
+secured: "aKjnm4f1AmjN5gxxCkSpqSvuJ9xId+vIYU7YTDXfQCl1myyR359cDLe6Q8XWXCRR67GF+ZgQWVNxXW1epZ3hve9kzKmX5L1FeIuTN6minak+KTmdOncV7Y1pWQvUSJ3Te1YpBMMVkRW79z8RMpEGIOoNzd4sI4TcHnTsJE/UGIojos3euos7VJSvTR/gf9v0iwVNq2k9AJ7qvx+2ZfPE4FXEsB4hA2A+i0WCSvn5aQgyNRzJWHd0CQn3cQu4+qCJQnRkbpqt9mCbKeceP5QPGhd2axmvdqzdAXWouuLjxFyyUlIRh/lD9D5QUeoWvcIlrsm4dmkV76F8H+2t/wNT6n1LeER1goZqpK+jALnNh8U=;EAoLHy8/sVqRK4+EoY8Kkw=="
 ---
 

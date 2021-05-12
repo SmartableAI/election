@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/british-elections-send-a-mes
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 695
+heat: 735
 published: true
 
 provider:
@@ -287,21 +287,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Liz Cheney says Trump and GOP backers threaten democracy"
-    excerpt: "Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, accusing former President Donald Trump and his GOP supporters of following a path that would “undermine our democracy.” On the eve of a closed-door meeting when House Republicans seem certain to oust her from a leadership post because of her clashes with the former president,"
-    publishedDateTime: 2021-05-12T00:36:00Z
-    webUrl: "https://www.washingtonpost.com/politics/liz-cheney-says-trump-and-gop-backers-threaten-democracy/2021/05/11/215eec84-b2ba-11eb-bc96-fdf55de43bef_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/liz-cheney-says-trump-and-gop-backers-threaten-democracy/2021/05/11/215eec84-b2ba-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/liz-cheney-says-trump-and-gop-backers-threaten-democracy/2021/05/11/215eec84-b2ba-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+  - title: "Joe Biden's Bipartisan Dream May Already Be Dead"
+    excerpt: "The president could struggle to win support from Republicans unless he sacrifices Democratic priorities, experts have warned."
+    publishedDateTime: 2021-05-12T09:43:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-bipartisan-dream-may-already-dead-1590455"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-bipartisan-dream-may-already-dead-1590455?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-bipartisan-dream-may-already-dead-1590455?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQI75PFSUEI6XPEW7X2V3ZB354.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://d.newsweek.com/en/full/1793164/president-joe-biden-addresses-congress.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Biden tells US governors ‘we got more to do’ to encourage vaccination – live"
     excerpt: "Biden outlines steps officials are taking to get the message on vaccines across – follow the latest politics news live"
@@ -361,6 +361,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Liz Cheney says Trump and GOP backers threaten democracy"
+    excerpt: "Liz Cheney is lashing out at leaders of her own Republican Party WASHINGTON -- A combative Rep. Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, accusing former President Donald Trump and his GOP supporters of following a path that would “undermine our democracy."
+    publishedDateTime: 2021-05-12T03:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/liz-cheney-trump-gop-backers-threaten-democracy-77633926"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_212f9f03edd34206b738b5ca4c4f0da5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden restores transgender health discrimination protections that Trump rolled back"
     excerpt: "Health and Human Services Secretary Xavier Becerra said that federal law barring sex discrimination also protect LGBTQ people."
     publishedDateTime: 2021-05-10T13:51:00Z
@@ -392,6 +406,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Cheney: Trump, GOP supporters on a ‘crusade to undermine our democracy’"
+    excerpt: "Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, accusing former President Donald Trump and his GOP supporters of following a path that would “undermine our democracy.” On the eve of a closed-door meeting when House Republicans seem certain to oust her from a leadership post because of her clashes with the former president,"
+    publishedDateTime: 2021-05-12T03:35:00Z
+    webUrl: "https://www.al.com/politics/2021/05/cheney-trump-gop-supporters-on-a-crusade-to-undermine-our-democracy.html"
+    ampWebUrl: "https://www.al.com/politics/2021/05/cheney-trump-gop-supporters-on-a-crusade-to-undermine-our-democracy.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/05/cheney-trump-gop-supporters-on-a-crusade-to-undermine-our-democracy.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZXFJ2MYB4JBC5JPNYFZYOPTGVI.jpeg"
+        width: 5000
+        height: 3333
         isCached: true
   - title: "Liz Cheney Under Attack From GOP For Standing Up To Donald Trump"
     excerpt: "Wyo., may find herself ousted from her position as the third-highest Republican as her strong stance against Donald Trump nets her few allies and increasing hostility from her caucus. Removing her from her post would require a conference vote,"

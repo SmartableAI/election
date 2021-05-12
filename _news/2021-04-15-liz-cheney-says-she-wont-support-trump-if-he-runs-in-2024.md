@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/liz-cheney-donald-trump-2024/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_18/3471445/210509-liz-cheney-jm-1029_1c3b0a522b8f83266db4b05def1bdf27.jpg"
         width: 2500
         height: 1690
+        isCached: true
+  - title: "House Republicans to vote on Liz Cheney's future in leadership for rebuking Trump"
+    excerpt: "Cheney has consistently criticized the former president's false claims about the election after his supporters waged a deadly attack on the U.S. Capitol."
+    publishedDateTime: 2021-05-12T08:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/house-republicans-vote-liz-cheney-s-future-leadership-rebuking-trump-n1266992"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266992"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266992"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_19/3472019/210511-liz-cheney-capitol-an_eafe9c24fe14c09b2c97ea12600882bf.jpg"
+        width: 2500
+        height: 1600
         isCached: true
 
 secured: "5S9hjaaGNWHq/7iEuZ9EVRoRorPBUMrIhKiQh5qr6BI9uQIO+dJcvOA8Km1q6BfkMbMZbJV8jbEMvsGX7Gi/TiU8goii9wj9LVxAp12U+kGjZUIBlncM68/CQ+NkGRppZ4LYXgUQSlgGS0sDtKOT1OJOlNHMjJO3wxFt3txkwjKWtohcaDq24BTzagFL6iYLUdMNYChilE+GQ73DghBoajP4TXPDGtJ4A+EwZIdjC/yDogOPMsykGBMvcE549BWHVdgX+E0+iWrkvsDWsgAljQxM7YHcX1AC0RGXnLjz41MUnBOR98AYG81LPWG7+SyFQWkGg9pmmgAjKptfo0UXGTsqfXRXlwZahj6PWceMNZ0=;uo6aRP+8A2kDePL4SDJc5w=="

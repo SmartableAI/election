@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Samantha Bee on GOP post-Trump: ‘Republicans eating each other alive’"
-excerpt: "Late-night hosts discuss the GOP’s internecine war over Trump’s election lies, Facebook’s extension of Trump’s ban and the ex-president’s new blog"
-publishedDateTime: 2021-05-06T15:34:00Z
-originalUrl: "https://www.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
-webUrl: "https://www.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
-ampWebUrl: "https://amp.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
+title: "Liz Cheney says Trump backers threaten democracy"
+excerpt: "A combative Rep. Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, accusing former President Donald Trump and his GOP supporters of following a path that would \"undermine our democracy."
+publishedDateTime: 2021-05-12T01:47:00Z
+originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/12/liz-cheney-says-trump-backers-threaten-democracy/5048278001/"
+webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/12/liz-cheney-says-trump-backers-threaten-democracy/5048278001/"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/c29a9135d769e4091474929113d593620084b91a/114_114_2542_1525/master/2542.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=847e93a77619edf2539744548c39bdda"
-    width: 600
-    height: 360
+  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4226d50a-4ece-495f-88a5-95a727292419_poster.jpg?quality=10"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -156,6 +154,22 @@ related:
       - url: "https://s.abcnews.com/images/Sports/WireAP_1c648ee9a8344c72a95c5b5ec703e505_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Samantha Bee on GOP post-Trump: ‘Republicans eating each other alive’"
+    excerpt: "Late-night hosts discuss the GOP’s internecine war over Trump’s election lies, Facebook’s extension of Trump’s ban and the ex-president’s new blog"
+    publishedDateTime: 2021-05-06T15:34:00Z
+    webUrl: "https://www.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
+    ampWebUrl: "https://amp.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/may/06/samantha-bee-trump-republicans-seth-meyers-trevor-noah-jimmy-kimmel"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/c29a9135d769e4091474929113d593620084b91a/114_114_2542_1525/master/2542.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=847e93a77619edf2539744548c39bdda"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump backs Stefanik to replace Cheney as GOP conference chair"
     excerpt: "Former President Donald Trump on Wednesday publicly called for the removal of GOP conference chair Liz Cheney, who has repeatedly criticized him for spreading falsehoods about the 2020 election and seeking to downplay the January 6 attack on the U."
@@ -359,20 +373,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Liz Cheney says Trump backers threaten democracy"
-    excerpt: "A combative Rep. Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, accusing former President Donald Trump and his GOP supporters of following a path that would \"undermine our democracy."
-    publishedDateTime: 2021-05-12T01:47:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/12/liz-cheney-says-trump-backers-threaten-democracy/5048278001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4226d50a-4ece-495f-88a5-95a727292419_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Republicans are said to be plotting to oust Liz Cheney from House leadership and replace her with a pro-Trump woman"
     excerpt: "Cheney, the third most senior House Republican, has been a vocal critic of former President Donald Trump."
     publishedDateTime: 2021-05-04T12:40:00Z
@@ -552,6 +552,6 @@ related:
       domain: usnews.com
     quality: 44
 
-secured: "X0b/pf1hG77Kr1BduCwyH1rvxq3jZvragmqVQkuQyE0hdtL3CbRee+Rqb03Q9kDianppPBid/L9t4LBbi33R96EzNVCEDebJOqH/yNzDyP8cJVszpO9BuH+HfGM8rqyPbqk++pb+O7yrl5wjahyQsymi1jTeJQM6Y7yW42Wm6jzvLnbM9doWwWcTLqLJWFP/a2f4ozUT9A7C/oAG9lhl3gaWNj0JJJH0kAujqv7+u5+Is06roQOxgft4mZLmDP9qlGomWOP7jEqopDlGKoL7cj1T9MWuwazgBJTPJw/4z4ujTr7gUWbBw+v43y8M2iJXRpMb7gE9JpO22QPm79c8oEnPFYKAAGqz3QaHZRtL16poG4lv7ajEQmLGlwPsjJR3wrOnM3DEQWRRrO0FQaIxeZZTevkn7bsxfwXRdvVdVKKs5IkcuIoAlLd5fB54Ahs4JAf+WcAUQgGjbNr7dFh2aoqCMUYIcJnxXUND9OsVfX+G51b1jMBktrPNS6DWZdfYvaqn3q75ViDVI6wyulvk9A==;K33avG4hApEQF2mjf+3PYA=="
+secured: "gH+nucZhKs8sIYpQGOtqWj8laTi4pVs/QXOkXKiZq+53IeHPWNRZ7g30rZG1IeGM4zjJZFtrPI2RtRj2tXGFgOWI+9zUr2YPRDOkRtekLkFyzF+7x8IVh1IqV7KNvNtUl2EXghm0gXWMhocZwVIt693a01dhuhG5W684Tu6T235v7BWw6koJhjGhe9Wu2ZPYSjwjtZPrB+nOXdB9FuLnvWA9Ep1+3lWmKAtiGWZ9e+E0r4WoxGgGaMAMq7BBSckzLzOuQs82g5GfRE0DsJQoXEN5vx0jOU6GbzyO6yWL8p+AWQnhVmCZdzevh9nhG3B0EzXIAelA0tsHMz8yML5FehZbG52/3eG9Lwy2iTfezgE=;7LZdeRLNBY1qxjl31b/Z8g=="
 ---
 

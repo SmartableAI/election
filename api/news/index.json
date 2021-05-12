@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-12-israel-palestine-flare-up-has-caught-biden-administration-unprepared.md",
+      "title": "Israel-Palestine flare-up has caught Biden administration unprepared",
+      "excerpt": "Analysis: The White House is playing for time and needs to decide quickly how to deal with Trump’s legacy of unwavering support for Netanyahu",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared",
+      "originalUrl": "https://www.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/f79a64332981437da44ba3fc5324584b9570d820/0_92_3584_2150/master/3584.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4da22353425bdd34f96ba4053c6d9e31",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared",
+      "publishedDateTime": "2021-05-11T20:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-trump-calls-on-us-to-follow-uk-lead-with-voter-id-plans-as-democrats-push-hr1.md",
       "title": "Trump calls on US to follow UK lead with voter ID plans as Democrats push HR1",
       "excerpt": "Former President Donald Trump gave his full support Tuesday to British legislation that would require UK voters to show a photo ID in future elections — and called on all US states to follow",
@@ -651,7 +703,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 695,
+      "heat": 735,
       "tags": null,
       "images": [
         {
@@ -1280,54 +1332,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-trump-leaves-florida-for-summer-in-new-jersey-after-mothers-day-brunch-report.md",
-      "title": "Trump leaves Florida for summer in New Jersey after Mother’s Day brunch: report",
-      "excerpt": "Former President Donald Trump spent Mother’s Day having brunch with wife Melania and son Barron, before jetting out to spend the summer in New Jersey, according to a report.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/10/trump-reportedly-leaves-florida-for-summer-in-new-jersey/",
-      "originalUrl": "https://nypost.com/2021/05/10/trump-reportedly-leaves-florida-for-summer-in-new-jersey/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/donald-trump-bedminister-golf-30-1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/10/trump-reportedly-leaves-florida-for-summer-in-new-jersey/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/10/trump-reportedly-leaves-florida-for-summer-in-new-jersey/amp/",
-      "publishedDateTime": "2021-05-10T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

@@ -1,27 +1,33 @@
 ---
 category: news
-title: "President Joe Biden Meeting for Jobs Report"
-excerpt: "Secretary of Transportation Pete Buttigieg, Energy Secretary Jennifer Granholm (2nd L), Housing and Urban Development Secretary Marcia Fudge (C), and Commerce Secretary Gina Raimondo (R), and US Labor Secretary Martin Walsh speak to the media outside of the West Wing of the White House in Washington,"
-publishedDateTime: 2021-05-08T00:20:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/7a266e3c68575448241e859887ed7916/President-Joe-Biden-Meeting-for-Jobs-Report/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/7a266e3c68575448241e859887ed7916/President-Joe-Biden-Meeting-for-Jobs-Report/"
+title: "Joe Biden's Bipartisan Dream May Already Be Dead"
+excerpt: "The president could struggle to win support from Republicans unless he sacrifices Democratic priorities, experts have warned."
+publishedDateTime: 2021-05-12T09:43:00Z
+originalUrl: "https://www.newsweek.com/joe-biden-bipartisan-dream-may-already-dead-1590455"
+webUrl: "https://www.newsweek.com/joe-biden-bipartisan-dream-may-already-dead-1590455"
+ampWebUrl: "https://www.newsweek.com/joe-biden-bipartisan-dream-may-already-dead-1590455?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-bipartisan-dream-may-already-dead-1590455?amp=1"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/7a266e3c68575448241e859887ed7916/BIDEN-JOBS.jpg"
-    width: 650
-    height: 433
+  - url: "https://d.newsweek.com/en/full/1793164/president-joe-biden-addresses-congress.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -297,22 +303,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Joe Biden's Bipartisan Dream May Already Be Dead"
-    excerpt: "The president could struggle to win support from Republicans unless he sacrifices Democratic priorities, experts have warned."
-    publishedDateTime: 2021-05-12T09:43:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-bipartisan-dream-may-already-dead-1590455"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-bipartisan-dream-may-already-dead-1590455?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-bipartisan-dream-may-already-dead-1590455?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1793164/president-joe-biden-addresses-congress.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Biden tells US governors ‘we got more to do’ to encourage vaccination – live"
     excerpt: "Biden outlines steps officials are taking to get the message on vaccines across – follow the latest politics news live"
     publishedDateTime: 2021-05-11T17:40:00Z
@@ -447,6 +437,20 @@ related:
         width: 1200
         height: 843
         isCached: true
+  - title: "President Joe Biden Meeting for Jobs Report"
+    excerpt: "Secretary of Transportation Pete Buttigieg, Energy Secretary Jennifer Granholm (2nd L), Housing and Urban Development Secretary Marcia Fudge (C), and Commerce Secretary Gina Raimondo (R), and US Labor Secretary Martin Walsh speak to the media outside of the West Wing of the White House in Washington,"
+    publishedDateTime: 2021-05-08T00:20:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/7a266e3c68575448241e859887ed7916/President-Joe-Biden-Meeting-for-Jobs-Report/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/7a266e3c68575448241e859887ed7916/BIDEN-JOBS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "From The Desk Of Donald J. Trump"
     excerpt: "Trump Launches Sad Twitter Just for HimTrump debuted a new page on his website that he’s calling “a beacon of freedom,” but it’s basically just a social-media network for one."
     publishedDateTime: 2021-05-04T23:14:00Z
@@ -466,6 +470,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "EiTR3ET+CTiInso37KLgsdY4WW66/Y4EZIbKjqS72/lesOB31R9uFwVUIhv8LuDUiW7NIP5qTQo5wim9iJ5DkIk2qTsZYHn3YzUdPrcoHpJRfNtbhjtaoQphJM3EKSpE5WUjol837f6OFlRRwSGejtcAed0aGYAUvs9ZeFsOftXg2KK6Uv0H52X4m7AITZ3diJuGtnVIoikbPfXrPmavO/75DyUUI6/ob+VHnep58y/2gTjtLGHhTArn0841dYTY3/J/0bkFIapqeUqnrfdedBlANXcGZToDPV1ApakIF1Vh3XzbUgrDofsFIpX4VRrnrVuqetJ+gKvthG+YCZuke9cR0A1xcYiYE1e9GiVGescf7fgJtjax5ubth1qf9Czxh2NhYpwAWRIrwIc+xNY8yz3xs2fkcAAkvzsTuM8AX/2ThACGOb5Logrjc4ou8GKnkIvmFipMpmoj3BifdM1FjnWPUJkDTJDu+JFg0VKDQXnCwlhev1/tNuU6ho+u0PdR29vGdkvDlgDcw1+RkID2gQ==;pvbepB41Plh/KUMjP9FYPg=="
+secured: "WR0ijT5n8PgZo2cnPvtRTdHQm7das8kX4htprQPe7iHi794I5fxel7XB1WXUHQfl7n/2cqAbVltycx3XXvyVS7KVo57JscaENfTEGCEJRLQ8lnxup7yPLrXWqtyCK7UGlffb18/M/oe8IcRJHdMeHn/yVxphGIDWT6HY5vL3pj316+Yf/NkTUqjqNbjsPZ8hJRBAxwHuPmIdNszpA1dLqrlLdW7JZ8oybyv/zWe8IRPD2qa0Z+Zi2vm2h/LZp/rQscROPfYNoIHO5xkFQv77zs+RrDPGbRkkdHOzunGH0Zazs9mcTe7LvYi+KqoCiA1FQRWjBLo6XiXvKMdIowPLA00cJDRp1PKxe6xFv+cY9HU=;IAWidgzsTDzc5rb4NVrxXQ=="
 ---
 
