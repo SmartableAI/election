@@ -91,9 +91,9 @@ related:
   - title: "The Latest: Rosen won't answer question on Trump fraud claim"
     excerpt: "Former acting Attorney General Jeffrey Rosen won't answer questions from Congress about whether then-President Donald Trump instructed him to take any action to try to advance Trump’s unfounded claims of election fraud."
     publishedDateTime: 2021-05-12T16:34:00Z
-    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-gosar-defends-woman-killed-during-capitol-riot/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-gosar-defends-woman-killed-during-capitol-riot/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/the-latest-gosar-defends-woman-killed-during-capitol-riot/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.amp.html"
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-rosen-wont-answer-question-on-trump-fraud-claim/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-rosen-wont-answer-question-on-trump-fraud-claim/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/the-latest-rosen-wont-answer-question-on-trump-fraud-claim/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.amp.html"
     type: article
     provider:
       name: St. Louis Post-Dispatch

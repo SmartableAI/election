@@ -143,6 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Rolling to Remember veterans rally finds new location after Biden's Pentagon refuses"
+    excerpt: "The Rolling to Remember motorcycle rally honoring veterans has a new location after the Department of Defense blocked the event from staging in the Pentagon parking lot."
+    publishedDateTime: 2021-05-12T19:09:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZMdRGJfkwrk/rolling-to-remember-veterans-rfk-stadium"
+    ampWebUrl: "https://www.foxnews.com/politics/rolling-to-remember-veterans-rfk-stadium.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rolling-to-remember-veterans-rfk-stadium.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/237b8a0a-927d-4c15-8176-91bb90fbe47f/6cef091f-6e92-4754-85c9-a504d958ac91/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Ron Klain, Biden's powerful chief of staff, leads White House rife with dark money ties"
     excerpt: "President Biden has padded his administration with a number of individuals with strong ties to progressive dark money groups, including his chief of staff Ron Klain, which could provide a pipeline for the groups to push their agendas to the White House."
     publishedDateTime: 2021-05-06T20:19:47Z
@@ -186,6 +202,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "White House confident as multiple crises converge on Biden: 'That's what we're made for’"
+    excerpt: "The White House maintained confidence Wednesday, as multiple challenges hit the Biden administration, with press secretary Jen Psaki saying \"that's what we're made for.\""
+    publishedDateTime: 2021-05-12T18:55:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B9-UPKNY_bs/white-house-confident-multiple-crises-converge-on-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-confident-multiple-crises-converge-on-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-confident-multiple-crises-converge-on-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340

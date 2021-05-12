@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "US whiskey distillers face 50% tariff in Europe if Biden leaves Trump trade policy in place"
+    excerpt: "Europe's retaliatory tariffs on American whiskey are set to double to 50% in June unless the Biden administration lifts tariffs on foreign steel put in place by former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-05-12T18:44:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_FWpQpxoLdQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/whiskey-tariffs-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/whiskey-tariffs-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512130005-01-whiskey-tariffs-steel-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration reverses Trump-era policy that blocked undocumented students from pandemic aid"
     excerpt: "The Biden administration is expanding eligibility for pandemic relief aid to include undocumented and international college students, reversing a Trump-era policy that blocked them from receiving federal emergency grants.\n    \n"
     publishedDateTime: 2021-05-11T21:17:32Z

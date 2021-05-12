@@ -159,6 +159,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Rolling to Remember veterans rally finds new location after Biden's Pentagon refuses"
+    excerpt: "The Rolling to Remember motorcycle rally honoring veterans has a new location after the Department of Defense blocked the event from staging in the Pentagon parking lot."
+    publishedDateTime: 2021-05-12T19:09:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZMdRGJfkwrk/rolling-to-remember-veterans-rfk-stadium"
+    ampWebUrl: "https://www.foxnews.com/politics/rolling-to-remember-veterans-rfk-stadium.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rolling-to-remember-veterans-rfk-stadium.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/237b8a0a-927d-4c15-8176-91bb90fbe47f/6cef091f-6e92-4754-85c9-a504d958ac91/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden admin rejects that extended unemployment benefits to blame for dismal job report"
     excerpt: "U.S. Secretary of Commerce Gina Raimondo said on Sunday that the dismal April jobs report shows the economy has a \"long way to go\" as it recovers from the coronavirus pandemic amid criticism that extended unemployment benefits are lowering the incentive for Americans to get back to work."
     publishedDateTime: 2021-05-09T18:09:45Z
@@ -186,6 +202,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "White House confident as multiple crises converge on Biden: 'That's what we're made for’"
+    excerpt: "The White House maintained confidence Wednesday, as multiple challenges hit the Biden administration, with press secretary Jen Psaki saying \"that's what we're made for.\""
+    publishedDateTime: 2021-05-12T18:55:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B9-UPKNY_bs/white-house-confident-multiple-crises-converge-on-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-confident-multiple-crises-converge-on-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-confident-multiple-crises-converge-on-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340

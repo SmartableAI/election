@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trum
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
 type: article
 quality: 137
-heat: 937
+heat: 977
 published: true
 
 provider:
@@ -301,6 +301,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "GOP purged Cheney for 'unity,' but Trump bent on retribution"
+    excerpt: "Republican leaders insist that purging Trump critic Liz Cheney from their ranks was necessary to unify the party ahead of next year’s midterm elections"
+    publishedDateTime: 2021-05-12T18:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/gop-purged-cheney-for-unity-but-trump-bent-on-retribution/2021/05/12/4d4f0932-b35a-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/gop-purged-cheney-for-unity-but-trump-bent-on-retribution/2021/05/12/4d4f0932-b35a-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-purged-cheney-for-unity-but-trump-bent-on-retribution/2021/05/12/4d4f0932-b35a-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UOG2D4VTIQI6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The crucial thing Liz Cheney’s GOP critics don’t say: She’s wrong about Trump"
     excerpt: "Liz Cheney (Wyo.) may not be long for House GOP leadership. After a failed attempt to oust the No. 3 GOP official following her vote to impeach President Donald Trump, the movement has again built steam following Cheney’s increasing efforts to distance her party from Trump and his false claims about a stolen 2020 election."
     publishedDateTime: 2021-05-04T15:49:00Z
@@ -562,6 +578,22 @@ related:
       - url: "https://dc.newsweek.com/en/full/2034408/betsy-devos.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Liz Cheney's Removal From GOP House Leadership Realigns Party With Donald Trump"
+    excerpt: "Donald Trump's stranglehold over Republicans in Washington comes amid polling that suggests his support among conservative voters may be waning."
+    publishedDateTime: 2021-05-12T17:45:00Z
+    webUrl: "https://www.ibtimes.com/liz-cheneys-removal-gop-house-leadership-realigns-party-donald-trump-3197564"
+    ampWebUrl: "https://www.ibtimes.com/liz-cheneys-removal-gop-house-leadership-realigns-party-donald-trump-3197564?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/liz-cheneys-removal-gop-house-leadership-realigns-party-donald-trump-3197564?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/11/number-three-us-house-republican-liz-cheney-r.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Utah Republicans’ bid to censure Sen. Mitt Romney for Trump impeachment votes fails"
     excerpt: "Mitt Romney but ultimately rejected a motion to censure him Saturday for his votes at President Donald Trump’s impeachment trials. The measure narrowly failed, 798 to 711, in a vote by delegates to the state GOP convention,"

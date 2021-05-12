@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/white-house-construction
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/white-house-construction-trump-biden/index.html"
 type: article
 quality: 190
-heat: 730
+heat: 750
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 181
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190909124239-01-donald-trump-0904-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "US whiskey distillers face 50% tariff in Europe if Biden leaves Trump trade policy in place"
+    excerpt: "Europe's retaliatory tariffs on American whiskey are set to double to 50% in June unless the Biden administration lifts tariffs on foreign steel put in place by former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-05-12T18:44:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_FWpQpxoLdQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/whiskey-tariffs-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/whiskey-tariffs-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512130005-01-whiskey-tariffs-steel-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

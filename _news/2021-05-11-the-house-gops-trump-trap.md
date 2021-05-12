@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "US whiskey distillers face 50% tariff in Europe if Biden leaves Trump trade policy in place"
+    excerpt: "Europe's retaliatory tariffs on American whiskey are set to double to 50% in June unless the Biden administration lifts tariffs on foreign steel put in place by former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-05-12T18:44:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_FWpQpxoLdQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/whiskey-tariffs-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/whiskey-tariffs-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512130005-01-whiskey-tariffs-steel-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Stefanik says she supports GOP review of Biden's Arizona victory as she stresses embrace of Trump"
     excerpt: "Rep. Elise Stefanik, who appears on track to replace Rep. Liz Cheney as House GOP conference chair, stressed an embrace of former President Donald Trump and a message of unity for the Republican Party even as she faces attacks from one conservative group that she is insufficiently conservative.\n    \n"
     publishedDateTime: 2021-05-06T17:33:13Z
