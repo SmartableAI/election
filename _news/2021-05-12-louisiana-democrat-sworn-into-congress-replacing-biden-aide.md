@@ -1,29 +1,31 @@
 ---
 category: news
-title: "President Joe Biden is visiting Louisiana on Thursday: What we know about his agenda, arrival"
-excerpt: "As part of promotion of the $2.3 trillion infrastructure plan, President Joe Biden is making a couple of stops in Louisiana on Thursday to discuss projects to rebuild the nation’s"
-publishedDateTime: 2021-05-05T22:04:00Z
-originalUrl: "https://www.nola.com/news/politics/article_31f75390-ade9-11eb-afde-57465de128db.html"
-webUrl: "https://www.nola.com/news/politics/article_31f75390-ade9-11eb-afde-57465de128db.html"
-ampWebUrl: "https://www.nola.com/news/politics/article_31f75390-ade9-11eb-afde-57465de128db.amp.html"
-cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/article_31f75390-ade9-11eb-afde-57465de128db.amp.html"
+title: "Louisiana Democrat sworn into Congress, replacing Biden aide"
+excerpt: "Louisiana Democratic Rep. Troy Carter is the newest member of the House of Representatives WASHINGTON -- Democratic Rep. Troy Carter of Louisiana was sworn into the House on Tuesday, adding some breathing room to the party’s tight majority."
+publishedDateTime: 2021-05-11T20:32:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/louisiana-democrat-sworn-congress-replacing-biden-aide-77629421"
+webUrl: "https://abcnews.go.com/Politics/wireStory/louisiana-democrat-sworn-congress-replacing-biden-aide-77629421"
 type: article
-quality: 64
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: NOLA.com
-  domain: nola.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/3/63/36311596-61d9-53b3-a059-00008a0443b4/604ac094deaab.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
+  - url: "https://s.abcnews.com/images/Politics/WireAP_6248938034ec4d7890edf9666b9607a7_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -59,19 +61,21 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Louisiana Democrat sworn into Congress, replacing Biden aide"
-    excerpt: "Louisiana Democratic Rep. Troy Carter is the newest member of the House of Representatives WASHINGTON -- Democratic Rep. Troy Carter of Louisiana was sworn into the House on Tuesday, adding some breathing room to the party’s tight majority."
-    publishedDateTime: 2021-05-11T20:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/louisiana-democrat-sworn-congress-replacing-biden-aide-77629421"
+  - title: "President Joe Biden is visiting Louisiana on Thursday: What we know about his agenda, arrival"
+    excerpt: "As part of promotion of the $2.3 trillion infrastructure plan, President Joe Biden is making a couple of stops in Louisiana on Thursday to discuss projects to rebuild the nation’s"
+    publishedDateTime: 2021-05-05T22:04:00Z
+    webUrl: "https://www.nola.com/news/politics/article_31f75390-ade9-11eb-afde-57465de128db.html"
+    ampWebUrl: "https://www.nola.com/news/politics/article_31f75390-ade9-11eb-afde-57465de128db.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/article_31f75390-ade9-11eb-afde-57465de128db.amp.html"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
+      name: NOLA.com
+      domain: nola.com
+    quality: 64
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_6248938034ec4d7890edf9666b9607a7_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/3/63/36311596-61d9-53b3-a059-00008a0443b4/604ac094deaab.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "President Joe Biden spotlights decrepit Louisiana infrastructure as he pitches $2 trillion plan"
     excerpt: "President Joe Biden pitched his plan to modernize the country’s infrastructure during two Louisiana stops on Thursday, telling a small crowd in Lake Charles that he wanted to replace the"
@@ -90,6 +94,6 @@ related:
         height: 355
         isCached: true
 
-secured: "s6I9Nl08D/gO3OrDggqi/8L3JWYrKJLTASrRNKi1uEdhas50kN5DJTua+Q7YWabzckwG6dY4cy81tR/7jlb3NzZ9QwCri9BNaPfcoK2GrcAUSUB6eMDpOTgSE+iRKjYt9C5VPkJiCHNxq/9hdq9naj4+lPLzIrnuffxeEpZ7ipggiH3NJoizeWS4pjqzXarKuevwcjsVCFQvAye4EoSV0jYB9cln3R0n3zzUM4n1Y5a7ClaUScHRL3cHI+JD5mdWk5BY80mYEa0fXRzVo1CpKS8FMnUxCY2ECEQvZ59o5TtDo/MXHKYQKVJCEDC0sWJYGM9hpZ5H4j+SVk3igBXFufi5vAKrbXInGPv0A0xHRvmc3Dg0lXlYbA8/4EdaHSFkEOnWewIiYprF85RycrNm3UALWwWKa/mUbJO6jdEe30PoRkVUfIomasv9cMYe9syJop69LevGuwDg4D1S3QnjGv+m+sqyWZs34xMXs11VVxZRKby21VNkOfNyJskEDAQJhC38PVvgPMLTeAN+OzDqUg==;+P/mfgWVIf/1m2ksNWmMTQ=="
+secured: "MXpb/FS/q0izMFb6f86Zm97xqGq0F7OL3TgmpNywL110YlcfGmKTCVqPGA5dWj4zkEnoif4kLFcbV70NLtfLfXXHCoR7WipfiN7ApOyAwPSUvgCceVmLG9j00vtJyiKH2zRYr8VR6WAj2Dlf7M5RgvReMdF8fUox3kG+flhT9cMcr2xa61sZCKJjT5mkM4R9O5zxfjxif5GF8TBxquBT+pBgrJgQa1BPgZFN6L954Oe9uEflRIRsgNDOFm+87BbDuSTs86+A05AR7jNqyF+TtshmLVTBCKBtvcMtX8OtiPMunDuweE0qRlfo6pEbl0RFKYXu4GO1C0bElXwNhaiJjKrzMrapEuXlUyOTCClEANo=;+1xbr7JaejsJ9scIMVvGPw=="
 ---
 

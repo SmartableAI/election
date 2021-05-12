@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House and Biden administration reach deal on subpoena for former Trump White House counsel Don McGahn's testimony"
+    excerpt: "The House of Representatives and the Biden administration say they have reached an agreement \"in principle\" on the long-running standoff over a subpoena for former Trump White House counsel Don McGahn to testify about the ex-President's obstructive acts.\n    \n"
+    publishedDateTime: 2021-05-12T01:17:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Iu-EtpZDuSg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/don-mcgahn-testimony-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/don-mcgahn-testimony-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191125101752-01-don-mcgahn-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House expands behind-the-scenes lobbying as Biden makes public push for $4 trillion proposals"
     excerpt: "President Joe Biden's major public -- and prime time -- push this week for his sweeping $4 trillion economic agenda was only one piece of the White House push to lay the groundwork to move his agenda.\n    \n"
     publishedDateTime: 2021-05-01T01:23:57Z

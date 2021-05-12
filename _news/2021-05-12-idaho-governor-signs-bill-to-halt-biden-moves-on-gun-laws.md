@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Biden says ‘We still have a long way to go’ after disheartening jobs report – live"
-excerpt: "Biden insists country is ‘moving in the direction’ despite poor numbers – follow all the day’s politics news"
-publishedDateTime: 2021-05-07T19:52:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live?page=with:block-60958ebd8f08973dcfaca9a0"
-webUrl: "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live?page=with:block-60958ebd8f08973dcfaca9a0"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
+title: "Idaho governor signs bill to halt Biden moves on gun laws"
+excerpt: "Idaho Gov. Brad Little has signed legislation aimed at thwarting a half-dozen executive actions taken by President Joe Biden to combat gun violence"
+publishedDateTime: 2021-05-11T21:18:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/idaho-governor-signs-bill-halt-biden-moves-gun-77630134"
+webUrl: "https://abcnews.go.com/Politics/wireStory/idaho-governor-signs-bill-halt-biden-moves-gun-77630134"
 type: article
-quality: 119
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/3160a0614d599fccca299ef687b417498a74ee5d/0_4_2700_1620/master/2700.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93446cb430b243f629f209c7855b4138"
-    width: 600
-    height: 360
+  - url: "https://s.abcnews.com/images/Politics/WireAP_8b67b92eacf64c4eb158c419207af25c_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -44,6 +42,22 @@ related:
     quality: 123
     images:
       - url: "https://i.guim.co.uk/img/media/cca8fd69fd929c563cf5d0423303d1d11a51c924/0_206_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1055a8a67a46d0831699cf04c784163a"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden says ‘We still have a long way to go’ after disheartening jobs report – live"
+    excerpt: "Biden insists country is ‘moving in the direction’ despite poor numbers – follow all the day’s politics news"
+    publishedDateTime: 2021-05-07T19:52:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live?page=with:block-60958ebd8f08973dcfaca9a0"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/3160a0614d599fccca299ef687b417498a74ee5d/0_4_2700_1620/master/2700.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93446cb430b243f629f209c7855b4138"
         width: 600
         height: 360
         isCached: true
@@ -79,21 +93,7 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Idaho governor signs bill to halt Biden moves on gun laws"
-    excerpt: "Idaho Gov. Brad Little has signed legislation aimed at thwarting a half-dozen executive actions taken by President Joe Biden to combat gun violence"
-    publishedDateTime: 2021-05-11T21:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/idaho-governor-signs-bill-halt-biden-moves-gun-77630134"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_8b67b92eacf64c4eb158c419207af25c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
-secured: "Pt4kvfhJaGA/xF6mmFJaCTXLl7ZFlV/VsyvXCWDYMPek8xAJncX+rv7FKACWy4I9z+7ar9NS8h7JkXgcWwHk8p2yVa00neQRmZV5yAc483bFyEJYnQL4vWIJuWhphigk93tPff41m+ocnueo2Pc6XHUISpCrjCm3x6iEaZhP4fCxntva6iljeoxKSOn0QIxbkl4olgyuwkLcQC/TSmrhph3WHOHQWqlXTJ7fbg1q1qVRPaiAO67tA2+u6tBfwFRA7Uhmrm92Enh9elkpDh+wHdpS41TSzgkTmviRwmOxs6Rys/mGXYdO3xNsrL4krIKsYsNibFi05QfbDGbVv1qMxho+z7ny8rzNdu6hOTKIosC34HUxM8fV5O1DL53wZZgsG5Zq8EXZCqNyxsmnnzhQ6+JBJzGPz5X9L339v/mucWGiBpGcCY1kXtSVijH9iXtE7TyE0FG7Ine/3y+Ph1pl80de8TqHWQpd6rtoGwmxc5jKt+TFz3dh7MobGmB3UKgWvEXfenNsDPEqO22JwMZccQ==;epQxmzGvLC9jPm+l9Jikaw=="
+secured: "7T2b9Jdt0XyeljaSDT950p2kAzpeZR2Y+iigmPkJJOLhnfYSsUOiBk/LwPZnYF/VKnT3vSIfKG3JE/z+4bMnas3Jx8Qxe6h9hEQQsQzCEGrvy26a0FbutcLXgGHWoPSYCgPZqhh5IiWD8c4BZDXUaNNM35SaWtAZh5IKNAL3c9/SvVeLj2TFHBgG3clHnIDC8KgE4rXy0DsOlpd8LDWxZ29pdteowGX2+LGA3VlWO2XvDP9noXcKNV2MhxQ2DnSZM65UGREO6IxpYAW88a30E+Nd4gBFzAZ1Sj2E12g0lGR4tfoBnPxGaKvMgSdrZiG0bKMOadcbX+vA9COjAGrDZslyG1y+dVzcC+OTqH4oMnk=;e1i1YoZoVeC/BV6Fo418KA=="
 ---
 

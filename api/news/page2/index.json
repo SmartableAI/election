@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-10-white-house-wont-underestimate-trumps-chances-of-winning-2024-election.md",
+      "title": "White House Won't 'Underestimate' Trump's Chances Of Winning 2024 Election",
+      "excerpt": "President Joe Biden in March said he plans to run for re-election in 2024 with Vice President Kamala Harris as his running mate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/white-house-wont-underestimate-trumps-chances-winning-2024-election-3195928",
+      "originalUrl": "https://www.ibtimes.com/white-house-wont-underestimate-trumps-chances-winning-2024-election-3195928",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/facebooks-oversight-board-is-worried-that-for-now.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/white-house-wont-underestimate-trumps-chances-winning-2024-election-3195928?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/white-house-wont-underestimate-trumps-chances-winning-2024-election-3195928?amp=1",
+      "publishedDateTime": "2021-05-09T22:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-souths-moon-hopes-to-restart-n-korean-diplomacy-with-biden.md",
       "title": "South's Moon hopes to restart N. Korean diplomacy with Biden",
       "excerpt": "South Korea’s leader says he’ll use his upcoming summit with President Joe Biden as a chance to push to restart diplomacy with North Korea",
@@ -711,7 +763,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1305,62 +1357,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-critics-sound-alarm-on-bidens-land-and-water-conservation-plan-call-it-a-land-grab.md",
-      "title": "Critics sound alarm on Biden’s land and water conservation plan, call it a ‘land grab’",
-      "excerpt": "The Biden administration proposed a plan, titled \"America the Beautiful,\" in hopes of boosting the conservation of U.S. land and water by the year 2030. The report is a decade-long effort, called \"30x30,\" which mandates protecting 30% of America’s waterways and land. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uyKAu7afuXE/critics-bidens-conservation-plan-land-grab",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uyKAu7afuXE/critics-bidens-conservation-plan-land-grab",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff96bf74-73a3-4cd8-9659-acab23b7fc3c/37ebb5c1-e6eb-42e9-86f6-49aed6331c5d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/critics-bidens-conservation-plan-land-grab.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/critics-bidens-conservation-plan-land-grab.amp",
-      "publishedDateTime": "2021-05-07T11:17:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -303,6 +303,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Liz Cheney says Trump and GOP backers threaten democracy"
+    excerpt: "Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, accusing former President Donald Trump and his GOP supporters of following a path that would “undermine our democracy.” On the eve of a closed-door meeting when House Republicans seem certain to oust her from a leadership post because of her clashes with the former president,"
+    publishedDateTime: 2021-05-12T00:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/liz-cheney-says-trump-and-gop-backers-threaten-democracy/2021/05/11/215eec84-b2ba-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/liz-cheney-says-trump-and-gop-backers-threaten-democracy/2021/05/11/215eec84-b2ba-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/liz-cheney-says-trump-and-gop-backers-threaten-democracy/2021/05/11/215eec84-b2ba-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQI75PFSUEI6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Cheney's views on Trump puts her GOP post in peril"
     excerpt: "No. 3 House Republican Liz Cheney was clinging to her post Wednesday as party leaders lined up behind an heir apparent, signaling that fallout over her clashes with former President Donald Trump was becoming too much for her to overcome."
     publishedDateTime: 2021-05-06T01:45:00Z

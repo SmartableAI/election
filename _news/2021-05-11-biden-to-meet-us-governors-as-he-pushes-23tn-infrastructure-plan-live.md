@@ -47,6 +47,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Louisiana Democrat sworn into Congress, replacing Biden aide"
+    excerpt: "Louisiana Democratic Rep. Troy Carter is the newest member of the House of Representatives WASHINGTON -- Democratic Rep. Troy Carter of Louisiana was sworn into the House on Tuesday, adding some breathing room to the party’s tight majority."
+    publishedDateTime: 2021-05-11T20:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/louisiana-democrat-sworn-congress-replacing-biden-aide-77629421"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6248938034ec4d7890edf9666b9607a7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "President Joe Biden is visiting Louisiana on Thursday: What we know about his agenda, arrival"
     excerpt: "As part of promotion of the $2.3 trillion infrastructure plan, President Joe Biden is making a couple of stops in Louisiana on Thursday to discuss projects to rebuild the nation’s"
     publishedDateTime: 2021-05-05T22:04:00Z
@@ -80,6 +94,6 @@ related:
         height: 355
         isCached: true
 
-secured: "iY1IXsqDtgi+kWIhBDgEG4Uj7RUgC3AAiHIexvk2O33sHZKJ5zP+Mc3GQ0nZdR7d5ySGzY5L1RyVtx/o/c0Bryn7B23V2n5y9qM9ET98tAxPfBCLdgdqvC03TRn+QgUEu4Av4dIadA/0WvEGi3hriZyq1YcLvgTWuTk+v+AG/LCeKJa7Hq++7+lWc1B7cJzyrslD7fhb4qMc7GvP5PHoqqKZbQxH8WS5RX/cHAWCWDJWqaL0KyRxeCPzQ7tF4mZODyCigfOVO8uTdKh2fMU6Z2OtYCqDMeHKHhlcclDdyHBfz8SzFbySwwUF3TLmMKi9hLYr+smtwrrSVaqRLbiy6WJbXQnKTYVcBZK1pML3A6U=;bZy7aZDmQBsdSLSxjEXXRA=="
+secured: "qnY0Rs+EPOSyi6RRLVY9nV/tBWzgQ6EZsEOmgH1OtUeCPpBNGumVcoz6DC6wQptNgfhStqsBAzvU2YtaL9ebomg2GpZctJC7PMt+xEmGV5YIZDPsRGWWSm70qm803/BVp3VLS83+w4R54YVXQwM81mQIvWi85d6R2FAn0Q6hki85y11sen3mRR3BCRCutiRwFzSnG5wmsg7gRQqiOoZj1+/gDplwtLdZJIiTLMwFQMuwpHYmtCfJqZ4Ms11wBIpasLCTF86WKYyMSoIBE+ud4bE2pu93Zk1pjB6Hw0L9qzrsWG3DkkMZDSLs7mp1D7NrgiPnHFK1rMx6a4wLaTYbPZAShQB+xWXDYRwufQk4fa3Ep8Nmu8euZe6jARNmMlnCNZz1hIBiuMhu3xwT/bnrEZU1767GWBH/ahKiZCCeXeK+T4Cqp6ikjY9YrXFuHB+S4g68MeFBpQIQ/G4cLetUkxodSLokhjy5LBLcp6wZxs51YhL5+FnWTDNl55mldkb5hNitWtIF5bMSIFOOMS/7Iw==;WI2vrQRMdOa3R7bSFvxKjg=="
 ---
 

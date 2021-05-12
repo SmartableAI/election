@@ -59,6 +59,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Louisiana Democrat sworn into Congress, replacing Biden aide"
+    excerpt: "Louisiana Democratic Rep. Troy Carter is the newest member of the House of Representatives WASHINGTON -- Democratic Rep. Troy Carter of Louisiana was sworn into the House on Tuesday, adding some breathing room to the party’s tight majority."
+    publishedDateTime: 2021-05-11T20:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/louisiana-democrat-sworn-congress-replacing-biden-aide-77629421"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6248938034ec4d7890edf9666b9607a7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "President Joe Biden is visiting Louisiana on Thursday: What we know about his agenda, arrival"
     excerpt: "As part of promotion of the $2.3 trillion infrastructure plan, President Joe Biden is making a couple of stops in Louisiana on Thursday to discuss projects to rebuild the nation’s"
     publishedDateTime: 2021-05-05T22:04:00Z

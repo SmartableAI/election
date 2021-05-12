@@ -241,6 +241,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House and Biden administration reach deal on subpoena for former Trump White House counsel Don McGahn's testimony"
+    excerpt: "The House of Representatives and the Biden administration say they have reached an agreement \"in principle\" on the long-running standoff over a subpoena for former Trump White House counsel Don McGahn to testify about the ex-President's obstructive acts.\n    \n"
+    publishedDateTime: 2021-05-12T01:17:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Iu-EtpZDuSg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/don-mcgahn-testimony-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/don-mcgahn-testimony-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191125101752-01-don-mcgahn-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration says it will enforce federal transgender health care protections, undoing controversial Trump-era reversal"
     excerpt: "The Biden administration will work to protect transgender Americans from discrimination in health care, undoing a controversial Trump-era decision to nix federal protections for members of the community, the Department of Health and Human Services announced Monday.\n    \n"
     publishedDateTime: 2021-05-10T16:25:31Z

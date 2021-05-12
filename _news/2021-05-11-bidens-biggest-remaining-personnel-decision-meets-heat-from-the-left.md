@@ -240,6 +240,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House and Biden administration reach deal on subpoena for former Trump White House counsel Don McGahn's testimony"
+    excerpt: "The House of Representatives and the Biden administration say they have reached an agreement \"in principle\" on the long-running standoff over a subpoena for former Trump White House counsel Don McGahn to testify about the ex-President's obstructive acts.\n    \n"
+    publishedDateTime: 2021-05-12T01:17:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Iu-EtpZDuSg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/don-mcgahn-testimony-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/don-mcgahn-testimony-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191125101752-01-don-mcgahn-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration says it will enforce federal transgender health care protections, undoing controversial Trump-era reversal"
     excerpt: "The Biden administration will work to protect transgender Americans from discrimination in health care, undoing a controversial Trump-era decision to nix federal protections for members of the community, the Department of Health and Human Services announced Monday.\n    \n"
     publishedDateTime: 2021-05-10T16:25:31Z
@@ -427,6 +443,6 @@ related:
         height: 629
         isCached: true
 
-secured: "7fJJvPuh0H/Uzrd+ffjzVrcnrUMZWC1Zl5CvekpWmEUHTFDe5up5rrAWSpl+mDCnoUWBddrvuF0sOPkO/Dy+lcyHmFlX4pJpZxB9VQZAtOnaYTFCpJVjs3vNseKDEyNLDZkmQx91Is+haDg/e+MHIcioLulc2kgWRPzYkduXp7X5LLR4GljmQJmw4Pkcc+Ocf7iZYacCMHyQb/r+4yD26vcHGU/adLUtMB3nV2v4dCWSmGtaXQ5OIb5mgbTQ+rnQFs7l4hDmNkhd0olmlsmu4bGyNdPJyf74WvDdePo2tozb8CYM1HawyhEXjvZmXFHzR69vKQi5ahCP4aZW1dTmJCjqZQCQcoEUgfo2jxyjwdA=;0TOr+QmEZX0nl0UEm3uJHg=="
+secured: "iIXMXjifhljCaQmDT/bVcjebIkDHYvAW21nCjmkRbxIVcYiTR0sCsvUY6UBCs1hdVIpeBqKwquCJbuu2nel0tw9v/Y1yc/Aq+jolokAPVsZPCpPXQDpRLCDcKrIKdExaTqpnowsnldUCM54Vw6tjYow556RHTzeIoKifkKS3ZsIf5EAJ4d815Ok/I9Sn9dLFIWHtdgblypt74wjJV4bPievhwIz6fM2JfzJJhDKX+3jbxB/HTvrLCxByaIw/8lMackTXo3CX1OabZuLRvlktqRW01oUND8JMBmt+2xlYdhpZKQ+Qn2tFnvai4s4cMK1DUE2OtJTyEJjsAAk3LGlHdb5sWt4Mt2v3NFOV+b1+g0+mc7uX/bVQBBKaHjuKluWU3tOTg4iCoILXg+tVu58bbhW31x5lBuoFvqKPnEtcMagkMU0xbdFRbD/t2UIfB54MXmeN+Wl1pHzUELgdhph+yevWqZaX1gEea10UmTTZlHyPAIDRfy4HtkO3HaMvv2ijZrFxFHR8S52EOGSiRSaPjw==;ndPW+QkyFD/a2khlkY1DjA=="
 ---
 

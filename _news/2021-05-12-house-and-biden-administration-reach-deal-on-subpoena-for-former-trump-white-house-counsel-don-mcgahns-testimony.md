@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Trump signed off on last-minute Medicaid changes. Now Biden faces the legal challenges"
-excerpt: "A Medicaid lawsuit in Tennessee and similar ones in other states have Biden walking a legal tightrope to undo Trump’s Medicaid policies at a fraught time."
-publishedDateTime: 2021-05-07T16:54:00Z
-originalUrl: "https://www.nbcnews.com/politics/joe-biden/trump-signed-last-minute-medicaid-changes-now-biden-faces-legal-n1266621"
-webUrl: "https://www.nbcnews.com/politics/joe-biden/trump-signed-last-minute-medicaid-changes-now-biden-faces-legal-n1266621"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266621"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266621"
+title: "House and Biden administration reach deal on subpoena for former Trump White House counsel Don McGahn's testimony"
+excerpt: "The House of Representatives and the Biden administration say they have reached an agreement \"in principle\" on the long-running standoff over a subpoena for former Trump White House counsel Don McGahn to testify about the ex-President's obstructive acts.\n    \n"
+publishedDateTime: 2021-05-12T01:17:01Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Iu-EtpZDuSg/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Iu-EtpZDuSg/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/don-mcgahn-testimony-donald-trump/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/don-mcgahn-testimony-donald-trump/index.html"
 type: article
-quality: 142
+quality: 169
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://media4.s-nbcnews.com/i/newscms/2021_18/3470728/210506-brandi-mccutchen-brylee-ew-1203p_e35c4b15e13a5e50ae5dc98b89de827b.jpg"
-    width: 2000
-    height: 1000
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/191125101752-01-don-mcgahn-file-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -240,22 +239,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "House and Biden administration reach deal on subpoena for former Trump White House counsel Don McGahn's testimony"
-    excerpt: "The House of Representatives and the Biden administration say they have reached an agreement \"in principle\" on the long-running standoff over a subpoena for former Trump White House counsel Don McGahn to testify about the ex-President's obstructive acts.\n    \n"
-    publishedDateTime: 2021-05-12T01:17:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Iu-EtpZDuSg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/don-mcgahn-testimony-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/don-mcgahn-testimony-donald-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191125101752-01-don-mcgahn-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration says it will enforce federal transgender health care protections, undoing controversial Trump-era reversal"
     excerpt: "The Biden administration will work to protect transgender Americans from discrimination in health care, undoing a controversial Trump-era decision to nix federal protections for members of the community, the Department of Health and Human Services announced Monday.\n    \n"
     publishedDateTime: 2021-05-10T16:25:31Z
@@ -319,6 +302,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/rockcms/2021-05/1304/210505-gig-worker-protest-jm-1127-2f7004_4753b70876b6daab534373fae3579f27047d2b94.jpg"
         width: 2500
         height: 1670
+        isCached: true
+  - title: "Trump signed off on last-minute Medicaid changes. Now Biden faces the legal challenges"
+    excerpt: "A Medicaid lawsuit in Tennessee and similar ones in other states have Biden walking a legal tightrope to undo Trump’s Medicaid policies at a fraught time."
+    publishedDateTime: 2021-05-07T16:54:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/trump-signed-last-minute-medicaid-changes-now-biden-faces-legal-n1266621"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1266621"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1266621"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_18/3470728/210506-brandi-mccutchen-brylee-ew-1203p_e35c4b15e13a5e50ae5dc98b89de827b.jpg"
+        width: 2000
+        height: 1000
         isCached: true
   - title: "Biden raises refugee cap to 62,500 after facing criticism for keeping Trump-era levels in place"
     excerpt: "The announcement comes after Democrats slammed the move last month, with the White House saying then it would announce a new cap by May 15."
@@ -443,6 +442,6 @@ related:
         height: 629
         isCached: true
 
-secured: "sYW1MV11Z1fug6yMXgRPE76n/XQW1CLyMx8khdV2mNqdFLaiDM++U/HfiHLIdsfgSDAAfFc+Ni/hzRGoZzlO/iCk1sfjGsIGFVuenPPzRNkkDMn4FtEehvQ0UDq5GeGrWFLiU6XIx9wKMVI0XrR0/2DAy8k6jwDbMnW1lJRzLYO78Ka2t8LnkKMoNwOLi3AtvLWv/KkPmb6XSl/FlaA2sOQPGwp6g5Twlarp6z6aIbLbPdxD/V9BI1BuB4F1UTvNYvUWA77FOVY9dgFAkYO+sVU7NjBjqX1NYORg5jt9L+xYO46itYY4hKfbVo3lQsWe7TtIeDpfMMVie6Bi7Hp9Pj28CravdEk5vm9n3yZYDYQ=;aYNif+e5APEK5ap2KLk7hg=="
+secured: "yL/wcjRYzBkwnrwK8n3L58MRqP0uLVWKy2zYJmzhdEcHl5p/fZLA7dWyFCdbUMvwD8VXhCfBeDG1EqCpJca+Z6UevnXb7VLDH9w47HLWHcn1jBb7bNCi2pg0lR25RZ0g5HB2cEZVVOO+RLdgdXPTM+x2QCyk2yHgppkwwjPJAvIlcvGxtT0QsEEsJiOPdGwCstvngEgqtzXM4tm/YMBXLfWTs9Vy9UhDJLC9Xl1QXVUiI8cCiwbJ3AQbujFNywWQnTXhM+I90PcJbQfJ0rxJoXX+WmBmbNEC7x2xEKlMJZbrLpOiC+k63bTAMvtbrIsOs+/eQOEudZn1vOnv1Y6giHXOO7tA+6RMA2wH162khHY=;PeeDe0ZzGSLzjhcvaaPPSw=="
 ---
 

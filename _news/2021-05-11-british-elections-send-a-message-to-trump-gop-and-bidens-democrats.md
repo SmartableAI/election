@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/british-elections-send-a-mes
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 675
+heat: 695
 published: true
 
 provider:
@@ -284,6 +284,22 @@ related:
     quality: 125
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LN75SESQ6EI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Liz Cheney says Trump and GOP backers threaten democracy"
+    excerpt: "Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, accusing former President Donald Trump and his GOP supporters of following a path that would “undermine our democracy.” On the eve of a closed-door meeting when House Republicans seem certain to oust her from a leadership post because of her clashes with the former president,"
+    publishedDateTime: 2021-05-12T00:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/liz-cheney-says-trump-and-gop-backers-threaten-democracy/2021/05/11/215eec84-b2ba-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/liz-cheney-says-trump-and-gop-backers-threaten-democracy/2021/05/11/215eec84-b2ba-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/liz-cheney-says-trump-and-gop-backers-threaten-democracy/2021/05/11/215eec84-b2ba-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQI75PFSUEI6XPEW7X2V3ZB354.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true

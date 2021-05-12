@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Democrats renew effort to get Donald Trump’s financial records"
-excerpt: "House committee is arguing to federal judge that with Trump out of office, he no longer has a viable claim to withhold materials"
-publishedDateTime: 2021-05-09T05:00:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/may/08/democrat-house-committee-judge-trump-subpoena-financial-records"
-webUrl: "https://www.theguardian.com/us-news/2021/may/08/democrat-house-committee-judge-trump-subpoena-financial-records"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/08/democrat-house-committee-judge-trump-subpoena-financial-records"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/08/democrat-house-committee-judge-trump-subpoena-financial-records"
+title: "Liz Cheney says Trump and GOP backers threaten democracy"
+excerpt: "Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, accusing former President Donald Trump and his GOP supporters of following a path that would “undermine our democracy.” On the eve of a closed-door meeting when House Republicans seem certain to oust her from a leadership post because of her clashes with the former president,"
+publishedDateTime: 2021-05-12T00:36:00Z
+originalUrl: "https://www.washingtonpost.com/politics/liz-cheney-says-trump-and-gop-backers-threaten-democracy/2021/05/11/215eec84-b2ba-11eb-bc96-fdf55de43bef_story.html"
+webUrl: "https://www.washingtonpost.com/politics/liz-cheney-says-trump-and-gop-backers-threaten-democracy/2021/05/11/215eec84-b2ba-11eb-bc96-fdf55de43bef_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/liz-cheney-says-trump-and-gop-backers-threaten-democracy/2021/05/11/215eec84-b2ba-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/liz-cheney-says-trump-and-gop-backers-threaten-democracy/2021/05/11/215eec84-b2ba-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/e7e3bb37e126360d7c5858afcd1de6bafb9c442d/0_0_4060_2436/master/4060.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8dc99ed58217f4c44b4be772016e92e2"
-    width: 600
-    height: 360
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQI75PFSUEI6XPEW7X2V3ZB354.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -255,6 +255,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Democrats renew effort to get Donald Trump’s financial records"
+    excerpt: "House committee is arguing to federal judge that with Trump out of office, he no longer has a viable claim to withhold materials"
+    publishedDateTime: 2021-05-09T05:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/08/democrat-house-committee-judge-trump-subpoena-financial-records"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/08/democrat-house-committee-judge-trump-subpoena-financial-records"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/08/democrat-house-committee-judge-trump-subpoena-financial-records"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7e3bb37e126360d7c5858afcd1de6bafb9c442d/0_0_4060_2436/master/4060.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8dc99ed58217f4c44b4be772016e92e2"
+        width: 600
+        height: 360
+        isCached: true
   - title: "US restores transgender health protections denied by Trump"
     excerpt: "The Biden administration says the government will protect gay and transgender people against sex discrimination in health care, reversing a Trump-era policy"
     publishedDateTime: 2021-05-10T20:36:00Z
@@ -284,22 +300,6 @@ related:
     quality: 125
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LN75SESQ6EI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Liz Cheney says Trump and GOP backers threaten democracy"
-    excerpt: "Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, accusing former President Donald Trump and his GOP supporters of following a path that would “undermine our democracy.” On the eve of a closed-door meeting when House Republicans seem certain to oust her from a leadership post because of her clashes with the former president,"
-    publishedDateTime: 2021-05-12T00:36:00Z
-    webUrl: "https://www.washingtonpost.com/politics/liz-cheney-says-trump-and-gop-backers-threaten-democracy/2021/05/11/215eec84-b2ba-11eb-bc96-fdf55de43bef_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/liz-cheney-says-trump-and-gop-backers-threaten-democracy/2021/05/11/215eec84-b2ba-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/liz-cheney-says-trump-and-gop-backers-threaten-democracy/2021/05/11/215eec84-b2ba-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQI75PFSUEI6XPEW7X2V3ZB354.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -440,6 +440,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "EZ30Ks4XEWtIV2u83GHSVsMf9NZMF4gOgqX0vFU99ypY5iCsjvOul4GOoYvix4r8o0vfVWcqzDqg/uCRspw48aqgmUbMJBoUpTjOpo3R39FmNuT2JdcVFQB8KosIdaouEO402odbumPoy0bNxHkDUcFK/agq6ez9ZH1RrukyiS4uEmqbOdWlZAGcPvwyYDaTqPEkgGWVfxxI9zOLmu6x1h+GePcb+EK8AeHuZYsefMsztc65nrke+g0pX0VRGTW8gKTjpknXJNsBTFQvRPmN3cw+KcvSjCNSubN4OwNulQL18WMaxma8scug5rz7tWtFSSuj7XxlCj48HxPE4RkOkeuKhJC55i93P3kJc4CtfIOG9N8syQ08WBzGZtLreVrptq4CruPm+x+UskT0RjDBAYnsUlc2TzMCFyvmGW7wVjOEKqBmmNALfgMlXDj1zQaHt5ylwzvreIkS8QA4q7rYIiwReu3gY8C555+sd1cavVJ7QMTX7Y0meRg+qq/RN+YnX4bjRW+bFeYAKvDjdwz79g==;pPnR0KMZ8aDMn+aUNedxTw=="
+secured: "HDeZ10Fep70j1NGrZ8619s9CxQPLbUXmskQXFJ/NCjmdaLZAspYSj0XPKM1Mmp4i8ZKx6wkw5xwKiNF7nqIyRY0cs17V7QN5/e8PHXW+8bYetaU3PgApBr2GD+fWW4GBTKpy8LKjVG048No9jJ0fmFOmtgze7t7xGM32OZ9GPKUnomWTB7DVUQ4WjHpKlzPpSps+MmOipI7RYXOgvHAGKWBx9vrkx17Bxb8vxWOymUE/Kuo8r42VE+TX2kxEWmlXikCsxtlCrE3n+hkcGf/3o4m/RtK3jnuPg1Pwg6YVTmjx3ERYBfHgwKP6syWH5wu3qk4ODEneLGOir6RDRXaAc1IL5KBZvPDKm/gFP6wQ/wA=;xfB0CIMFLeGWtsVyhg9fEg=="
 ---
 

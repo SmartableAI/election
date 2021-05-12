@@ -35,6 +35,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Harris 'united' with Asian Americans against hate"
+    excerpt: "Vice President Kamala Harris told members of the Congressional Asian Pacific American Caucus the Biden administration stands is committed to combatting hate crimes against Asian-Americans. (May 11)"
+    publishedDateTime: 2021-05-12T00:38:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/12/harris-united-asian-americans-against-hate/5047406001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1692028d-d488-4925-8b1a-b6f44f884e8d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Kamala Harris said corruption costs as much as 5% of the world's GDP. That stat is questionable"
     excerpt: "For more than a decade, an interesting statistic about the cost of corruption has been bouncing around the global-economics community, showing up in statements and reports from or"
     publishedDateTime: 2021-05-09T08:51:00Z

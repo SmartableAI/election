@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-03-31-biden-pushes-plan-to-rebuild-us-infrastructure-as-covid-cases-rise-live.md",
+      "title": "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live",
+      "excerpt": "President to launch next phase of Build Back Better program and announces plans to tackle rising anti-Asian violence – follow all the latest politics news",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest?page=with:block-6063448a8f0807bf71ddea4f",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest?page=with:block-6063448a8f0807bf71ddea4f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/61be9c4ea47590ba4a25375de48c9334d6cf1f4d/0_198_6048_3628/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=497c53613623a4cc3e08d76fef99cc6f",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/30/joe-biden-us-politics-live-covid-coronavirus-infrastructure-latest",
+      "publishedDateTime": "2021-03-30T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-the-latest-trump-blasts-fauci-and-birx-as-self-promoters.md",
       "title": "The Latest: Trump blasts Fauci and Birx as ‘self-promoters’",
       "excerpt": "WASHINGTON — Former President Donald Trump is slamming two of his most prominent coronavirus advisers. He says Dr. Anthony Fauci and Dr. Deborah Birx are “two self-promoters trying to reinvent history.” Fauci is the chief medical adviser to President ...",

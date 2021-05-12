@@ -50,6 +50,49 @@
       ]
     },
     {
+      "path": "_news/2021-05-12-judge-sentences-co-founder-of-students-for-trump-to-prison.md",
+      "title": "Judge sentences co-founder of 'Students for Trump' to prison",
+      "excerpt": "A judge has sentenced a co-founder of “Students for Trump” to 13 months in prison after he admitted posing as a lawyer to cheat clients out of thousands of dollars",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/judge-sentences-founder-students-trump-prison-77631664",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/judge-sentences-founder-students-trump-prison-77631664",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-trump-endorses-florida-senate-president-simpson-for-agriculture-commissioner.md",
       "title": "Trump endorses Florida Senate President Simpson for agriculture commissioner",
       "excerpt": "Wilton has been a great supporter and worked hard to get many good Conservatives elected in Florida,\" the former president said.",
@@ -167,7 +210,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 675,
+      "heat": 695,
       "tags": null,
       "images": [
         {
@@ -1492,58 +1535,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival.md",
-      "title": "Hilary Mantel, Mad Max and Donald Trump: what we learned from Sydney writers’ festival",
-      "excerpt": "Judy Bloom, Paul Kelly, George Miller and Tara June Winch were among the guests at Carriageworks, in a welcome return for the beloved event",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/books/2021/may/03/hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival",
-      "originalUrl": "https://www.theguardian.com/books/2021/may/03/hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/2c655ae1623c7cfb41b0663d4c07406f0ffd65ca/0_118_4800_2880/master/4800.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3dc8214deac6baa8c683456231825f63",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/books/2021/may/03/hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/may/03/hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival",
-      "publishedDateTime": "2021-05-02T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
