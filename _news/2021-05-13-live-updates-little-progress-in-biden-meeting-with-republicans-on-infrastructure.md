@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Cheney ousted from leadership post. The other 9 Republicans who voted to impeach Trump have also faced a backlash. "
+    excerpt: "House Republicans ousted Rep. Liz Cheney of Wyoming on Wednesday from her leadership post as conference chair after she repeatedly called out former President Donald Trump's \"Big Lie\" that the 2020 election was stolen.\n    \n"
+    publishedDateTime: 2021-05-13T02:13:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lWgnuN7Dcp8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/liz-cheney-ousted-house-republicans-impeachment-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/liz-cheney-ousted-house-republicans-impeachment-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227132733-01-adam-kinzinger-sept2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "o/jWNZ/JVDzHSc4GCeU5uyxoxLMn++CsbHmbtMyANNn3uMEUUGsdlg7m4HuQgAoQD/PWt8s2L4c3/mKj2pfZ9A9e7iU5fxtmtpWN15Yho4oiyzTw7Hp7N2kHHWrnkG2IjXIp51fK9yfo19JLpiECa6KH8ZYdxDUcQkLGwLqAMsxBswKu0XyACyrS62b2p3mBpR2LvW/Qvjsvi6KzjC2CkK8HjQA/US6L5hi3M6WxVsgbjuGlFGe2JDVebOI2YVPwctTn8482TENIL3BV+vlq4DHZ8mYjnw9kpwZ7Bu5WBSlx512tEpqCd7ozef6Bv+64pD8sVgyUwYel6Bdky/0FzbfV2MH3zupUKQWebT/0csV3rLu2/fFeA6wP0fui8SZgzSaRBF5ijQkFBuLKDdgC0soXNYJ56vIkp4HYd88yLtYzvV7f3fnaEnah1Xyjt9TxhursYRSLatnb8NVdcwYxa/1PAd1E5y0qjPIzx5frKpeVWsR7HcJWv8lxn9XBOiI7wSZen5Hmqd+15QQsGnrKrg==;SJUBgajCwHKcHzP77G2c9w=="
 ---

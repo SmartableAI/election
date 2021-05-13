@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-no-significant-portion-americ
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp"
 type: article
 quality: 163
-heat: 183
+heat: 163
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "Biden's American Rescue Plan unemployment-benefit extension making it difficult to find workers, employers say"
-    excerpt: "Some U.S. small business and restaurant owners claim President Biden's unemployment benefit extension is making it difficult to hire new workers."
-    publishedDateTime: 2021-05-12T21:13:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1ARaCfneKJY/labor-shortage-unemployment-benefits-nationwide"
-    ampWebUrl: "https://www.foxnews.com/politics/labor-shortage-unemployment-benefits-nationwide.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/labor-shortage-unemployment-benefits-nationwide.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d7d67eb-4b1c-4f79-9450-c1a39e20f2f9/166277f7-f4f6-425b-9b23-f7b7151c5a78/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "GfoCVVksnWBGe9qWqWdm9r+exJ+cI8bPRG2ApHKSR8pM7dyW0sMNmzltjTQ5HIOHPG1BexEY8nw4Ec2zLur8yaUkDOEc0zyUwalfMxtK3C5LZCK3xgO62hkhg5o6OAT8UoSvJKgELqpYlC4bPbGjLNhzW//mpUN1jk1CuYp7JJSnkvh42uD32B4fLbMV0cyfU2GHMvxlnJv7V07zV5gj2CfPj3Z+v37q6Cme5j8BYqvTnKKjxg6yW8C8pH/vmeaOuefowhxPpNaChGivtfZRETQDBxSDK6vSfhxZMKvSN0dWAJ0dC5FdnxykxpUgZT7bfbq0F/PYPyiCxTAq8/Yg5ufPlF636q93yLwkWK19X2k=;GBbfBXth+9Xhiog2jRGq9A=="
 ---

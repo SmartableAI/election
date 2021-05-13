@@ -1,0 +1,69 @@
+---
+category: news
+title: "America under siege on Biden's watch as cyberattackers cripple the country"
+excerpt: "They cut off a pipeline to the Eastern Seaboard for days, tried to poison a Florida water-treatment plant, held hospital IT systems hostage and stole an undetermined trove of information in the SolarWinds hack – all as the Biden administration searches for a way to respond."
+publishedDateTime: 2021-05-13T10:07:07Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/df_JC-kJl5Y/cyberattacks-america-biden-watch"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/df_JC-kJl5Y/cyberattacks-america-biden-watch"
+ampWebUrl: "https://www.foxnews.com/politics/cyberattacks-america-biden-watch.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cyberattacks-america-biden-watch.amp"
+type: article
+quality: 173
+heat: 213
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/America-Under-Attack-6.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
+    isCached: true
+
+related:
+  - title: "Biden's American Rescue Plan unemployment-benefit extension making it difficult to find workers, employers say"
+    excerpt: "Some U.S. small business and restaurant owners claim President Biden's unemployment benefit extension is making it difficult to hire new workers."
+    publishedDateTime: 2021-05-12T21:13:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1ARaCfneKJY/labor-shortage-unemployment-benefits-nationwide"
+    ampWebUrl: "https://www.foxnews.com/politics/labor-shortage-unemployment-benefits-nationwide.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/labor-shortage-unemployment-benefits-nationwide.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d7d67eb-4b1c-4f79-9450-c1a39e20f2f9/166277f7-f4f6-425b-9b23-f7b7151c5a78/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Ingraham: Biden is out of gas, is now America's problem denier"
+    excerpt: "Fox News host Laura Ingraham claimed President Biden's \"incompetence and radicalism are a dangerous combination\" as he denies the several crises facing the nation on \"\""
+    publishedDateTime: 2021-05-12T04:36:00Z
+    webUrl: "https://www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier"
+    ampWebUrl: "https://www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cef5a8b4-0514-4f78-af01-568c1de27822/1123ba03-d0ca-4194-b629-fe6ccc0d5548/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+
+secured: "QCul9zB2MQoy1STzbjJPn49hAexMSGXyNHywEeVRONf082uomTRnhGmrbClJOo6aWC4spZLMynjPEJ/cz1YfPZKJDNf6nalb8TusYsGH49JTWnzaXUhmDlFGSzZ+mUBY8TnzBrSKvNvTW1r5jg5g6MaSDBhP3of+WSlJzoAAvM8GhDyJp04B9btX2wIpnhxymAAekSxMbC2ff6V2NPXEy2Tt6NE3+z2RADG1VxM1AOGqXMnH0ki7pZroKP3AlaU3pE95ulCTUK0x7tSBN5FzfXq2tIZvZPQUEqva6NzUYhQ+yuHCaPth93kZSyBgDFndIZ9qQGbGIvtrJ93WbptWGdrPbmPeXYO+2u6dLgjIpwQ=;VMrMaIh55fxFpAszc8km7A=="
+---
+

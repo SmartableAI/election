@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Louisiana Democrat sworn into Congress, replacing Biden aide"
-excerpt: "Louisiana Democratic Rep. Troy Carter is the newest member of the House of Representatives WASHINGTON -- Democratic Rep. Troy Carter of Louisiana was sworn into the House on Tuesday, adding some breathing room to the party’s tight majority."
-publishedDateTime: 2021-05-11T20:32:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/louisiana-democrat-sworn-congress-replacing-biden-aide-77629421"
-webUrl: "https://abcnews.go.com/Politics/wireStory/louisiana-democrat-sworn-congress-replacing-biden-aide-77629421"
+title: "Biden is set to meet with Senate Republicans, with no clear bipartisan path forward on infrastructure"
+excerpt: "The two sides may not even broach the thorniest issue: how to pay for any package that rebuilds roads, expands broadband access and improves water systems, among other priorities."
+publishedDateTime: 2021-05-13T10:04:00Z
+originalUrl: "https://www.washingtonpost.com/politics/infrastructure-biden-capito-republicans/2021/05/13/c3f390b2-b364-11eb-a3b5-f994536fe84a_story.html"
+webUrl: "https://www.washingtonpost.com/politics/infrastructure-biden-capito-republicans/2021/05/13/c3f390b2-b364-11eb-a3b5-f994536fe84a_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/infrastructure-biden-capito-republicans/2021/05/13/c3f390b2-b364-11eb-a3b5-f994536fe84a_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/infrastructure-biden-capito-republicans/2021/05/13/c3f390b2-b364-11eb-a3b5-f994536fe84a_story.html?outputType=amp"
 type: article
-quality: 105
+quality: 110
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_6248938034ec4d7890edf9666b9607a7_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E5BUKUVTTYI6XKMAUYFPS5XNIQ.jpg&w=1440"
+    width: 1440
+    height: 969
     isCached: true
 
 related:
@@ -77,21 +79,19 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Biden is set to meet with Senate Republicans, with no clear bipartisan path forward on infrastructure"
-    excerpt: "The two sides may not even broach the thorniest issue: how to pay for any package that rebuilds roads, expands broadband access and improves water systems, among other priorities."
-    publishedDateTime: 2021-05-13T10:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/infrastructure-biden-capito-republicans/2021/05/13/c3f390b2-b364-11eb-a3b5-f994536fe84a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/infrastructure-biden-capito-republicans/2021/05/13/c3f390b2-b364-11eb-a3b5-f994536fe84a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/infrastructure-biden-capito-republicans/2021/05/13/c3f390b2-b364-11eb-a3b5-f994536fe84a_story.html?outputType=amp"
+  - title: "Louisiana Democrat sworn into Congress, replacing Biden aide"
+    excerpt: "Louisiana Democratic Rep. Troy Carter is the newest member of the House of Representatives WASHINGTON -- Democratic Rep. Troy Carter of Louisiana was sworn into the House on Tuesday, adding some breathing room to the party’s tight majority."
+    publishedDateTime: 2021-05-11T20:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/louisiana-democrat-sworn-congress-replacing-biden-aide-77629421"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E5BUKUVTTYI6XKMAUYFPS5XNIQ.jpg&w=1440"
-        width: 1440
-        height: 969
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6248938034ec4d7890edf9666b9607a7_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "President Joe Biden is visiting Louisiana on Thursday: What we know about his agenda, arrival"
     excerpt: "As part of promotion of the $2.3 trillion infrastructure plan, President Joe Biden is making a couple of stops in Louisiana on Thursday to discuss projects to rebuild the nation’s"
@@ -126,6 +126,6 @@ related:
         height: 355
         isCached: true
 
-secured: "p3oU3WN+f14wZJDv5fVsuzITSHBB4XJ8YAmjlDTZRtFpXtP2obedvNATxT6it1QyCqe5YUU+apAb6WzPBKtL8njuly9r8zclbRnR/bbRCkvImnjzZ+jvvgWRuOgskH3j9pIncVdL1UA4mKYychP3yd5ib8DQGlLmE46npKCe5/WjtlhRYYY5BVCYFHPyKfGhnaVevqwr4MY+SAjf/kwP9l6qkHHzcxPGI+8O7dpY6a3DXpq2TaNNLmAGjc81V4XKomsk8yX+R/7Jj0y3rxmSmECJdT/KK9+qC7VMYsojFFaxsfDzsHkLEILL5k5zvbnYOhctcLKgTzVqwVx+VEzatn/GvB0wKh7a7/RNyhEn8rA/cqHW5aTRt82UGf1QJySk2pzPS39osYbR66AiWSdqPQvWf8vBBIV/RHrjfG3O4ADkOj4FN0vfu3OmOsSULKY/gEWPD9om1NWI6ZifRIAgFh92Hktxgoy3bcrQ0clZo7Wz1k2tTnK3y3XUj6GLBRjPe2ShPG+RYKiATzfu390TuA==;tLLlrvh65KekHY67i45K0g=="
+secured: "TYNh8qPtG/wUhtlyGaRdqjDyaKfbcD84H9hU6lMgly9YT55H95GVgFCSVYysMyH1WHY6hGjYUUggw0hgYHpqo/XXC7ABoS60010v2Q1yS1CkMfPMMogKwcti1kTNYOAdVYF5Je/Yhraar3VjBlahIRIcc0juZ4TKll+UzepwQfUI+mTRSA3lHpHpURr9euEsQazImw96n9ZONE1vmKIlWgZtUfuh1jI+fS0NDX1f9ijyDoq3lder8UZwi+7VEgAfRlQpKE7R714CtpYLwl0FlnRx5aepyLM3gVx/YEY7V5pHs9zTQiAgzRxNDVBS/21aSc+zh2Wz28sjVvAs1IFtX9XARtyNCLIi3kIDpq6U7Rg=;DFfHcV6z3513jBVOKxr1pA=="
 ---
 

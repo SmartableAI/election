@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Trump drags House GOP deeper into his theater of lies"
-excerpt: "When the House Republican Party moves against Liz Cheney this week, it will prove that it prefers to unite behind a lie rather than stay divided over truth.\n    \n"
-publishedDateTime: 2021-05-11T05:21:55Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rPQgA7AWBjY/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rPQgA7AWBjY/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/donald-trump-liz-cheney-joe-biden/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/donald-trump-liz-cheney-joe-biden/index.html"
+title: "More than 150 Republicans launch new political movement questioning Trump's role in GOP"
+excerpt: "A group of more than 150 Republicans, led by Donald Trump critics Evan McMullin and Miles Taylor, announced a new political movement that takes aim at former President Donald Trump's hold on the GOP and calls for a reform of the party.\n    \n"
+publishedDateTime: 2021-05-13T11:39:04Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B5CSctn8HEk/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B5CSctn8HEk/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/republican-political-movement-trump/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/republican-political-movement-trump/index.html"
 type: article
-quality: 175
-heat: 275
-published: true
+quality: 167
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -25,12 +25,28 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210510143029-23-liz-cheney-unf-restricted-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200828102949-miles-taylor-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
+  - title: "Trump drags House GOP deeper into his theater of lies"
+    excerpt: "When the House Republican Party moves against Liz Cheney this week, it will prove that it prefers to unite behind a lie rather than stay divided over truth.\n    \n"
+    publishedDateTime: 2021-05-11T05:21:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rPQgA7AWBjY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/donald-trump-liz-cheney-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/donald-trump-liz-cheney-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210510143029-23-liz-cheney-unf-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Life after leadership: Liz Cheney plots her long game against Donald Trump"
     excerpt: "Liz Cheney entered this week knowing it would likely be her last as a member of the House Republican leadership team.\n    \n"
     publishedDateTime: 2021-05-11T20:59:39Z
@@ -44,22 +60,6 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210511093432-01-liz-cheney-vote-lead-image-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "More than 150 Republicans launch new political movement questioning Trump's role in GOP"
-    excerpt: "A group of more than 150 Republicans, led by Donald Trump critics Evan McMullin and Miles Taylor, announced a new political movement that takes aim at former President Donald Trump's hold on the GOP and calls for a reform of the party.\n    \n"
-    publishedDateTime: 2021-05-13T11:39:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B5CSctn8HEk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/republican-political-movement-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/republican-political-movement-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200828102949-miles-taylor-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,6 +112,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "lEIXT3FASl1aKADedQlU16OA3Y2FhLpgw6p/K1twKy1L8aVEiAQFOOf/zu4oBsGJCpW7ODsNcdV5IcCC6Pv7O9VBQkx0k7Y4J2aRfHG9FzxLarXcj5OEErx2j5opiK8rZG1fuuKMlPtEDr3Vd0RD1lpFfedEsdimEB+AQxYjmfZuQkJbjx9whtoFAYdwcIJgTmLc1AUPttlnHcNzea97ZTV8IhIAB1M/HzUEa8S1MV2x2d43ZdhzU9bOVLV+ioBwHFoVJJOVHo8bFUWMQ+RXRe7r20iBGo7m81dngoO85yA1p5CW8lC5npNMq6ctld7Y2c2fT8u5duronB1a0tcQgPMTzmZJ4pBBnn7ZR1SUC8g=;D8OwK3XZreHnD+HYAiHwBQ=="
+secured: "0lpxOqyRm9nGMp9Mf55KGkLNAJQD1PCfvf/PF2H+ZJ6HMh0JEjMrnl4G3GmnRBzWbGVEMavA9ModEveVvM0KIwnudtghmsvS5cNSbHQRzpYIrZt/pjlSJgYqYVcnmtXm6IsqqBxskK7CFip/I+y/AhV6zEt/9iTpCyZF/xQiQ4OeLo1Y8Qpa/xMOMzNdTKMRrinzFmoz8o/pQT09TqeUqmgX2lzwOgSf6iViOR0rDqXL8WZs2ubZqcjjK7qdppQcY86c8dfxbIKcxit95zGOshCJCKTFLOlEZZwxolQjrW17afV3prxErjJn/zdM0Iw3SJc0fITtLlCIw+av6FZv4J8jpmz6lvYJT5RHxqzh6pw=;+mXI7CHZcuz9JgNk/lwGSw=="
 ---
 

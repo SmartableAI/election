@@ -79,22 +79,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Ingraham: Biden is out of gas, is now America's problem denier"
-    excerpt: "Fox News host Laura Ingraham claimed President Biden's \"incompetence and radicalism are a dangerous combination\" as he denies the several crises facing the nation on \"\""
-    publishedDateTime: 2021-05-12T04:36:00Z
-    webUrl: "https://www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier"
-    ampWebUrl: "https://www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cef5a8b4-0514-4f78-af01-568c1de27822/1123ba03-d0ca-4194-b629-fe6ccc0d5548/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "8vfdTSdzbLJ8FB36RGLiVD8FDbAmh295doKMptapntWConUhhnor+2fa1Zb4DvoCq3asIGt93UQFd76jkz6ba5Y5n7ntWdZ+CT4sO8+q5huoor24B4sX2SFgF+Z1vKbagHCufEZ/XEgkyZXexFaEZG4UB4ib6BoIvyvaf1qLsBuXO3cts9FWdc/ThuYjyALhK7/yQF1wsqXYY8nxcLZu/0EcCN1k9w1e2ZrUdCxP9twMKtuAjNGY/9EkLkNcnQ+d90XaH1JWmVKHk0fIXl/ymtUALVZmQbf9ghjrDtKNtPuyxPez33vw7ke2nUVoX781FmtsDK+hqr63Fu1lRWb9mzNSbxRh8pk9G+4DW5uSBhU=;GcwrrjswhJFDch9Gqb/Twg=="
 ---

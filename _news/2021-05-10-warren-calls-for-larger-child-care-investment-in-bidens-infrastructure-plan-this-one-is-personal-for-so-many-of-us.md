@@ -255,6 +255,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Migrant children have been in US custody for weeks. Now the Biden administration has to reunite them with families"
+    excerpt: "For a month, Meybelin has lived in a massive convention center located in the heart of San Diego. There, along with hundreds of other migrant children, she waits day in and day out to be released to a relative in the United States, frequently calling her parents in El Salvador distraught about the prolonged"
+    publishedDateTime: 2021-05-13T11:36:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ol0esSEDAgY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/us-mexico-border-children/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/us-mexico-border-children/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512220322-san-diego-convention-center-shelter-0327-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New details on Giuliani’s attempt to push Ukraine to investigate Biden"
     excerpt: "NBC News' Andrea Mitchell speaks to Igor Novikov, former adviser to Ukraine President Zelensky, about what he says he heard as Rudy Giuliani attempted to press for an investigation into Joe Biden."
     publishedDateTime: 2021-05-05T23:18:00Z

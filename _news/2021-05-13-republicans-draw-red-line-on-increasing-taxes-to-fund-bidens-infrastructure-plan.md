@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Cheney ousted from leadership post. The other 9 Republicans who voted to impeach Trump have also faced a backlash. "
+    excerpt: "House Republicans ousted Rep. Liz Cheney of Wyoming on Wednesday from her leadership post as conference chair after she repeatedly called out former President Donald Trump's \"Big Lie\" that the 2020 election was stolen.\n    \n"
+    publishedDateTime: 2021-05-13T02:13:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lWgnuN7Dcp8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/liz-cheney-ousted-house-republicans-impeachment-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/liz-cheney-ousted-house-republicans-impeachment-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227132733-01-adam-kinzinger-sept2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Live Updates: Little Progress in Biden Meeting With Republicans on Infrastructure"
     excerpt: "G.O.P. leaders said that they remained at odds with the president about how to define infrastructure spending. House Republicans voted to remove Representative Liz Cheney from a leadership post for her continued repudiation of former President Donald J."
     publishedDateTime: 2021-05-12T17:50:00Z

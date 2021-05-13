@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "More than 150 Republicans launch new political movement questioning Trump's role in GOP"
+    excerpt: "A group of more than 150 Republicans, led by Donald Trump critics Evan McMullin and Miles Taylor, announced a new political movement that takes aim at former President Donald Trump's hold on the GOP and calls for a reform of the party.\n    \n"
+    publishedDateTime: 2021-05-13T11:39:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B5CSctn8HEk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/republican-political-movement-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/republican-political-movement-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200828102949-miles-taylor-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump takes victory lap after Cheney's ouster from House Republican leadership"
     excerpt: "Cheney was demoted via a voice vote, meaning it will be impossible to know her level of support or opposition."
     publishedDateTime: 2021-05-12T15:51:00Z

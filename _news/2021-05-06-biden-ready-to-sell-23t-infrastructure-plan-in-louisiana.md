@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-ready-sell-23t-i
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/339f47bf083cf1180ba65acf917fe15c14d930ba/0_56_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8ee96b7bcb2d4d86c2882828e52611f6"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden is set to meet with Senate Republicans, with no clear bipartisan path forward on infrastructure"
+    excerpt: "The two sides may not even broach the thorniest issue: how to pay for any package that rebuilds roads, expands broadband access and improves water systems, among other priorities."
+    publishedDateTime: 2021-05-13T10:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/infrastructure-biden-capito-republicans/2021/05/13/c3f390b2-b364-11eb-a3b5-f994536fe84a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/infrastructure-biden-capito-republicans/2021/05/13/c3f390b2-b364-11eb-a3b5-f994536fe84a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/infrastructure-biden-capito-republicans/2021/05/13/c3f390b2-b364-11eb-a3b5-f994536fe84a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E5BUKUVTTYI6XKMAUYFPS5XNIQ.jpg&w=1440"
+        width: 1440
+        height: 969
         isCached: true
   - title: "Louisiana Democrat sworn into Congress, replacing Biden aide"
     excerpt: "Louisiana Democratic Rep. Troy Carter is the newest member of the House of Representatives WASHINGTON -- Democratic Rep. Troy Carter of Louisiana was sworn into the House on Tuesday, adding some breathing room to the party’s tight majority."

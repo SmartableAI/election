@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden sets goal of administering at least one Covid-19 vaccine shot to 70% of US adult population by July 4"
-excerpt: "President Joe Biden on Tuesday will set a new goal of administering at least one Covid-19 vaccine dose to 70% of the US adult population and having 160 million US adults fully vaccinated by July 4, according to senior administration officials.\n    \n"
-publishedDateTime: 2021-05-04T19:33:21Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uwxm92ZyKxE/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uwxm92ZyKxE/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/04/politics/biden-covid-goals-july-4/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/biden-covid-goals-july-4/index.html"
+title: "Biden has a 'core conviction' to hike taxes on corporations and the rich. It could cost him."
+excerpt: "President Joe Biden's steadfast belief in taxing corporations and the rich has become a central plank in his legislative agenda, even as he's warned of political peril and red lines from Republicans.\n    \n"
+publishedDateTime: 2021-05-13T11:04:04Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oa-1RAjw1jc/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oa-1RAjw1jc/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/joe-biden-tax-increases/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/joe-biden-tax-increases/index.html"
 type: article
-quality: 157
+quality: 164
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504134315-02-biden-covid-remarks-0504-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507133814-01-joe-biden-0507-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -63,19 +63,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden has a 'core conviction' to hike taxes on corporations and the rich. It could cost him."
-    excerpt: "President Joe Biden's steadfast belief in taxing corporations and the rich has become a central plank in his legislative agenda, even as he's warned of political peril and red lines from Republicans.\n    \n"
-    publishedDateTime: 2021-05-13T11:04:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oa-1RAjw1jc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/joe-biden-tax-increases/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/joe-biden-tax-increases/index.html"
+  - title: "Biden sets goal of administering at least one Covid-19 vaccine shot to 70% of US adult population by July 4"
+    excerpt: "President Joe Biden on Tuesday will set a new goal of administering at least one Covid-19 vaccine dose to 70% of the US adult population and having 160 million US adults fully vaccinated by July 4, according to senior administration officials.\n    \n"
+    publishedDateTime: 2021-05-04T19:33:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uwxm92ZyKxE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/04/politics/biden-covid-goals-july-4/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/biden-covid-goals-july-4/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 157
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507133814-01-joe-biden-0507-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504134315-02-biden-covid-remarks-0504-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -96,6 +96,6 @@ related:
         height: 619
         isCached: true
 
-secured: "y7DR63Myy8AGLZQxDljiJgDYm6Q49aa/kyzwUnlJ4MCuw8ug93jCszd8fKBEY4A2NV9KNLvlZXPwiwnIOw8y+ZVUd/Z42L9yy9RqDj0PeIHT697th+wRQr95gBMTERhKut5N8xHskYnGab/7cBL77Ea9Jnhwg6pOIdbnnPsj6AkUwOMYMdWMuTVGDdI5Ks+LE8mGXgxyty5xgIcbTP5Ui+4U07scW6mJAmTnUxqlhTgAy65cps/1GNjzWKVvSq0J3MiiekVCdldvXzViow4iRHLmsRPKGGtzlinRO0ePZ9qB9+grAmWdaYrIa5HrdiytHDTIvxe4tIWm0EUzRrIiizHaQb1lhEz/lWTBznY0Lms=;wDZ1dYEywvJVzaY8ct39Tw=="
+secured: "vVN7ExO1PTedajuuuifev0CcO5TlpoPIsbSbTsTj8X6BOJeIDvRNrh4ZvXyiloVtouggt3LOg699zAWkojFQav/kb08LjNIf6QgnMaYbZYhhXNH9vSRkSboYi0EFR3XQzzwWbp7aPKtO6ksag9HRy3SYEXnkeYgUWuSX4VOo9Epl/i+RDB7YVdWJD0109B34v+qAWcdSdMh8YtRlASpmMm4OqZM1iciz+Q6LV7OEMkVsRXkAk2/PaGsqGE/HC7owzk2sU6btH0WwcjdVa7cPh8igH4tXthsfUVQWkW3EnrM9OGBFMlB6/2Hn2oQ9ZBTvHTV+YMvnwK92tk+HvIiAzCEAFUrUKFv0BmiZU1O9d1I=;HyZks/m1x3+jGLVcICJ6Jw=="
 ---
 
