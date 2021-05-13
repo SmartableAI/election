@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden was unprepared to respond to the worst violence Israel-Palestine has seen in years"
+    excerpt: "President Joe Biden does not have an ambassador in Israel — and hasn't yet nominated anyone — amid the worst fighting the region has seen in years."
+    publishedDateTime: 2021-05-12T22:40:00Z
+    webUrl: "https://www.businessinsider.com/biden-was-unprepared-for-israel-palestine-violence-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/biden-was-unprepared-for-israel-palestine-violence-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-was-unprepared-for-israel-palestine-violence-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/609c3d726a3ce80019e04197?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Latest: Biden says Israel has right to defend itself"
     excerpt: "U.S. President Joe Biden says that “Israel has a right to defend itself” amid a barrage of rockets fired by Hamas and other Palestinian groups from Gaza"
     publishedDateTime: 2021-05-12T20:56:00Z

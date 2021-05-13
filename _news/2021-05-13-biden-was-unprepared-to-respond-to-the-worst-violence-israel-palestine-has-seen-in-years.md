@@ -1,20 +1,22 @@
 ---
 category: news
-title: "The Latest: Biden says Israel has right to defend itself"
-excerpt: "U.S. President Joe Biden says that “Israel has a right to defend itself” amid a barrage of rockets fired by Hamas and other Palestinian groups from Gaza"
-publishedDateTime: 2021-05-12T20:56:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/latest-killed-wounded-israel-missile-77639397"
-webUrl: "https://abcnews.go.com/International/wireStory/latest-killed-wounded-israel-missile-77639397"
+title: "Biden was unprepared to respond to the worst violence Israel-Palestine has seen in years"
+excerpt: "President Joe Biden does not have an ambassador in Israel — and hasn't yet nominated anyone — amid the worst fighting the region has seen in years."
+publishedDateTime: 2021-05-12T22:40:00Z
+originalUrl: "https://www.businessinsider.com/biden-was-unprepared-for-israel-palestine-violence-2021-5"
+webUrl: "https://www.businessinsider.com/biden-was-unprepared-for-israel-palestine-violence-2021-5"
+ampWebUrl: "https://www.businessinsider.com/biden-was-unprepared-for-israel-palestine-violence-2021-5?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-was-unprepared-for-israel-palestine-violence-2021-5?amp"
 type: article
-quality: 105
+quality: 116
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/International/WireAP_e353934a96bc4d2b811416f1699344bf_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://i.insider.com/609c3d726a3ce80019e04197?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -61,23 +63,21 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Biden was unprepared to respond to the worst violence Israel-Palestine has seen in years"
-    excerpt: "President Joe Biden does not have an ambassador in Israel — and hasn't yet nominated anyone — amid the worst fighting the region has seen in years."
-    publishedDateTime: 2021-05-12T22:40:00Z
-    webUrl: "https://www.businessinsider.com/biden-was-unprepared-for-israel-palestine-violence-2021-5"
-    ampWebUrl: "https://www.businessinsider.com/biden-was-unprepared-for-israel-palestine-violence-2021-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-was-unprepared-for-israel-palestine-violence-2021-5?amp"
+  - title: "The Latest: Biden says Israel has right to defend itself"
+    excerpt: "U.S. President Joe Biden says that “Israel has a right to defend itself” amid a barrage of rockets fired by Hamas and other Palestinian groups from Gaza"
+    publishedDateTime: 2021-05-12T20:56:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/latest-killed-wounded-israel-missile-77639397"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/609c3d726a3ce80019e04197?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/International/WireAP_e353934a96bc4d2b811416f1699344bf_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
-secured: "3/OJFpkG1NbWBt0WL65UBgol55QSScogW6f4Qly4z4PKxbJs2nmFGdvjkHypjmsrwl76RMAS9jU0/WJxU/5naw+Fm2q/SkL8EqYnyxdn1tHQ2+/JA2NYJtmfI9j7flSo8uFNrUmYb9yrOAw5+BaNPK6g4vTPQolNwp0rM2NLUtOQ9Z/+yLs1LXGTVQy1MLfoWao1UeT3oII0glH8rWc8otF6TEoTvjTNpqZnHUbl07jqJqkzMoHcI5v2Sa9e9fET9QH0rjdqYhZlvzQFGZsr7oJ5iiUEjz8ZB+lDzWUIBa8NiMp9W83Lt0CMDHFCita8JtP1FbkjHqpgELU3elaekU/27EqB9w5ildxvrZ948/wPXrMTjzXni1jvhBE08cUxVOJYdCYEuYuyWnb1EDzNkCeGv+UN6XjMZYArJyfGzLgH0Qmxk5oEwZIfbWBQdoAqwBgQulWiEk0MigrsFAv5qtsWGxDmGoGP3cpK6StCdUMSxQMOlTtEp0IAjJ7CUDAynp004iAirHuPs2hz/Hjx0A==;KJS0HCdZSAOe6gzbgUenmA=="
+secured: "nf+HMLHLT6td9wCvLAXhDElhXglZcwdlO4IwzaOqHL6eRlNcdu8XKSWMuwb/61iHDRlqyC8c2AaLaq6um2fb6j5vdMrv+fXC/183ACDkpO2vkwATQb04mwrXUEgT6xSKjLSpvkKTYGsXcnqj5uwVj2TLIKJaXKyPNnMdnc4xsPYNnrMQycgsD8d7N6x6CI6r8huc1bTQYf8pJNQald+q0BwutjfTAMCrNSe5YHsITSB2Knog7kxYWle2ysmw+TluGVkchAVKQJieoTen6EasdmM80x4sU5KZb6fkuEmO7GLgqEeyNoV0ka7jneTh/jIRd3f9RDdL9zvN/nZaN1CpgCIYStUvqyoBfGakIUUfz64=;RR6oHywM6PTfUoJxPoRSwg=="
 ---
 

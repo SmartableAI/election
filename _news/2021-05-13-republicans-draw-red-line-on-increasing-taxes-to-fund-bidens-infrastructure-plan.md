@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden says he no longer understands Republicans. He has a chance to figure the GOP out this week."
-excerpt: "President Joe Biden used a fleeting handshake moment below Air Force One this week to pitch two Republican senators on his plan for infrastructure.\n    \n"
-publishedDateTime: 2021-05-09T12:00:23Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZhiAce6Hm2I/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZhiAce6Hm2I/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/joe-biden-republican-party-bipartisanship/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/joe-biden-republican-party-bipartisanship/index.html"
+title: "Republicans draw 'red line' on increasing taxes to fund Biden's infrastructure plan"
+excerpt: "President Joe Biden faces a crucial moment on Wednesday in what is shaping up as an important week for his infrastructure priorities when he holds his first bipartisan meeting with the top four members of congressional leadership at the White House.\n    \n"
+publishedDateTime: 2021-05-13T06:58:32Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qdyikHHEF_U/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qdyikHHEF_U/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/joe-biden-meeting-congressional-leadership/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/joe-biden-meeting-congressional-leadership/index.html"
 type: article
-quality: 162
+quality: 169
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506155226-01-joe-biden-speech-louisiana-0506-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512120447-01-biden-bipartisan-meeting-0512-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -47,19 +47,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Republicans draw 'red line' on increasing taxes to fund Biden's infrastructure plan"
-    excerpt: "President Joe Biden faces a crucial moment on Wednesday in what is shaping up as an important week for his infrastructure priorities when he holds his first bipartisan meeting with the top four members of congressional leadership at the White House.\n    \n"
-    publishedDateTime: 2021-05-13T06:58:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qdyikHHEF_U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/joe-biden-meeting-congressional-leadership/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/joe-biden-meeting-congressional-leadership/index.html"
+  - title: "Biden says he no longer understands Republicans. He has a chance to figure the GOP out this week."
+    excerpt: "President Joe Biden used a fleeting handshake moment below Air Force One this week to pitch two Republican senators on his plan for infrastructure.\n    \n"
+    publishedDateTime: 2021-05-09T12:00:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZhiAce6Hm2I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/joe-biden-republican-party-bipartisanship/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/joe-biden-republican-party-bipartisanship/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 162
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512120447-01-biden-bipartisan-meeting-0512-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506155226-01-joe-biden-speech-louisiana-0506-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -80,6 +80,6 @@ related:
         height: 550
         isCached: true
 
-secured: "7RRLNPYQZQIdlaA6QfzI1EIzVdNLRjzL3d0AeSsYctdBQv5HyExaBABnsZRSo1VVXEHdVab9VU9/jF/D2ZeKKP6KLhcJJmDHyKaPasT4Fn0RFYR4eAJ89FprbZs7uVdVIg+YKNnpABtNLiYK0QcgAsBB/iKkpHwh26jhx6XZ2BvVmOhufC+kmUyeXERT/0hNyHNJOQNF+weOcdEhf3+VD1ZVFqICQW9AXGeSyIJPTsN/HUlM5MvcJmzm6YyHz5wJzwMUop5mNN2C2vuh31T9kS9SyrQjuMf4nabwXF7MBlIQEv6IACijETMTSX7bnacks0hhq3ujjK5d3P3uQ5el6kX7aROH0zk9yInQ7h6nTIs=;W4WqhFgxiLpjNjN/S6nE1g=="
+secured: "jLRv/eRs5Q6LHYGB6pe0woLSprZHujpDehArtPQAftufnBMZH0LZC1keyg/ZNs/xgKzbTf6zJEcpidlFUHdpBKSTgDPrnqr2shCTQlg/yfMTCC1iyQK4kxkXGtm0j4oEoLaopucMUBPR5OKZjY1YpOx0/3bEom3kBSi403hY/NnV4TW7y1Kped21WOXZu+04bdTMKgL1hKVZInMWMWcFSeiTSFPBLYypvkdDvomXz1ZE5HDFK6FU5KIuuat7ZlWoQhtMJ97yrBpgao5dNSr/mueDj7rfVQr2EUwKN363So4nZuXEqbaQRlrNTnQKFAjYVD9M4ADCjwb51jwRrsnU60lLv9g/KxDNt+DKZp89xAM=;70WR8HCYzbS8Zg42HliK1w=="
 ---
 

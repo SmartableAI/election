@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/analysis-violence-upends-bid
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/f79a64332981437da44ba3fc5324584b9570d820/0_92_3584_2150/master/3584.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4da22353425bdd34f96ba4053c6d9e31"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden was unprepared to respond to the worst violence Israel-Palestine has seen in years"
+    excerpt: "President Joe Biden does not have an ambassador in Israel — and hasn't yet nominated anyone — amid the worst fighting the region has seen in years."
+    publishedDateTime: 2021-05-12T22:40:00Z
+    webUrl: "https://www.businessinsider.com/biden-was-unprepared-for-israel-palestine-violence-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/biden-was-unprepared-for-israel-palestine-violence-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-was-unprepared-for-israel-palestine-violence-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/609c3d726a3ce80019e04197?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "The Latest: Biden says Israel has right to defend itself"
     excerpt: "U.S. President Joe Biden says that “Israel has a right to defend itself” amid a barrage of rockets fired by Hamas and other Palestinian groups from Gaza"
