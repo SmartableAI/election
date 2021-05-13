@@ -112,22 +112,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden rolls out racially diverse slate of judicial nominees, including a Bush nominee"
-    excerpt: "President Biden on Wednesday announced his intent to nominate three new Court of Appeals nominees and three new District Court nominees—all of which embody his commitment to ensuring judicial nominees “represent not only the excellence but the diversity of our nation,” the White House said."
-    publishedDateTime: 2021-05-12T14:09:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FXxHvOsiNMA/biden-judicial-nominees-bush-nominee"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-judicial-nominees-bush-nominee.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-judicial-nominees-bush-nominee.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Rolling to Remember veterans rally finds new location after Biden's Pentagon refuses"
     excerpt: "The Rolling to Remember motorcycle rally honoring veterans has a new location after the Department of Defense blocked the event from staging in the Pentagon parking lot."
     publishedDateTime: 2021-05-12T19:09:41Z
@@ -287,6 +271,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden rolls out racially diverse slate of judicial nominees, including a Bush nominee"
+    excerpt: "President Biden on Wednesday announced his intent to nominate three new Court of Appeals nominees and three new District Court nominees—all of which embody his commitment to ensuring judicial nominees “represent not only the excellence but the diversity of our nation,"
+    publishedDateTime: 2021-05-12T14:09:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-judicial-nominees-bush-nominee"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-judicial-nominees-bush-nominee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-judicial-nominees-bush-nominee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/237b8a0a-927d-4c15-8176-91bb90fbe47f/6cef091f-6e92-4754-85c9-a504d958ac91/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden Must Reverse Course on Iran -- Before It's Too Late"
     excerpt: "Media outlets around the world recently reported on leaked audio comments in which Iranian Foreign Minister Javad Zarif admitted that Irans"

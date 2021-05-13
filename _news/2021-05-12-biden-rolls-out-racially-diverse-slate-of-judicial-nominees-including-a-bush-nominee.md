@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Biden rolls out racially diverse slate of judicial nominees, including a Bush nominee"
-excerpt: "President Biden on Wednesday announced his intent to nominate three new Court of Appeals nominees and three new District Court nominees—all of which embody his commitment to ensuring judicial nominees “represent not only the excellence but the diversity of our nation,” the White House said."
-publishedDateTime: 2021-05-12T14:09:02Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FXxHvOsiNMA/biden-judicial-nominees-bush-nominee"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FXxHvOsiNMA/biden-judicial-nominees-bush-nominee"
+excerpt: "President Biden on Wednesday announced his intent to nominate three new Court of Appeals nominees and three new District Court nominees—all of which embody his commitment to ensuring judicial nominees “represent not only the excellence but the diversity of our nation,"
+publishedDateTime: 2021-05-12T14:09:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-judicial-nominees-bush-nominee"
+webUrl: "https://www.foxnews.com/politics/biden-judicial-nominees-bush-nominee"
 ampWebUrl: "https://www.foxnews.com/politics/biden-judicial-nominees-bush-nominee.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-judicial-nominees-bush-nominee.amp"
 type: article
-quality: 168
+quality: 128
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/237b8a0a-927d-4c15-8176-91bb90fbe47f/6cef091f-6e92-4754-85c9-a504d958ac91/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -320,6 +321,6 @@ related:
         height: 500
         isCached: true
 
-secured: "YBqEFSdcDVBVgVYVlcRiRgYJNdKl1rNH96R6IBXAQgvgwtHJmi7WXzRah5q9KfTxlQhsZiPkIHNIHtOY7wcuODSmaR204zVFt2TVlMKfl5HQCTTbj0BxsN1zvb4j9P3ww5CEp1T3bp1tn4AxH+HHoKC30tiLiqWGeUBhwCSwb6F62fikt7+Vnd2J0RsC/XsGHd27L9W4kK5ml4MdOsaU+Kdl89AwWamWPUH3MnT+m+t9Jd4Lk1bYWLCvCnrqaZZPPiTI6tkuQmRNsokvpZ9KEqRNYd413PsYQlq9Rdn63w9SIAVUpmgkeuuNxlX7kxOGvZ+wCyLtlsobXiTM3kV7BTCQkKRWyCoFONW4O7x9vDY=;X4nIB4sgWK23oWs2Cw3Gxg=="
+secured: "jGe0PMFdPZrD4WkB+QNIScX06qVr5h6pJmWw4BqqUwxT6nTjBMpfO/i+UyQsXlsp4UPVI9peFNetCqY/VGo4u8T/+mkFbHTabhPpb/9Bkz+LQf3lGZkLrjMiYLGElGUPj+cnuJNfGI5tq6uY9+WULvaNnTKFeIu2Tq2yCOYlvftZndR9ffYGBCbhDAiPcSKLG8SLW6hylyJbUm5ow4p3RgH/DpSJj1BhXnTjfwxRcqia4Oet1neEvVUgKz/LYUlcYYwtiQSIAvTRn9ZCU3CbEbwvxR2FQRzy+Av9D+CaJ1dqrz58tG0es+H67u2ZrNTgGq9Aqvs0ct9WzNoPBZUAP+PhTur7Pd4gFaL4Aj4uEEo=;au42HL5sLb3BiofvP6UVyA=="
 ---
 
