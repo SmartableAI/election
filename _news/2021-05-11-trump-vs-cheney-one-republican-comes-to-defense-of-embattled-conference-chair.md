@@ -317,22 +317,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "GOP purged Cheney for 'unity,' but Trump bent on retribution"
-    excerpt: "Republican leaders insist that purging Trump critic Liz Cheney from their ranks was necessary to unify the party ahead of next year’s midterm elections"
-    publishedDateTime: 2021-05-12T18:43:00Z
-    webUrl: "https://www.washingtonpost.com/politics/gop-purged-cheney-for-unity-but-trump-bent-on-retribution/2021/05/12/4d4f0932-b35a-11eb-bc96-fdf55de43bef_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/gop-purged-cheney-for-unity-but-trump-bent-on-retribution/2021/05/12/4d4f0932-b35a-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-purged-cheney-for-unity-but-trump-bent-on-retribution/2021/05/12/4d4f0932-b35a-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UOG2D4VTIQI6XPEW7X2V3ZB354.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "The crucial thing Liz Cheney’s GOP critics don’t say: She’s wrong about Trump"
     excerpt: "Liz Cheney (Wyo.) may not be long for House GOP leadership. After a failed attempt to oust the No. 3 GOP official following her vote to impeach President Donald Trump, the movement has again built steam following Cheney’s increasing efforts to distance her party from Trump and his false claims about a stolen 2020 election."
     publishedDateTime: 2021-05-04T15:49:00Z
@@ -583,6 +567,22 @@ related:
     webUrl: "https://www.chron.com/news/article/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
     ampWebUrl: "https://www.chron.com/news/amp/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "GOP purged Cheney for 'unity,' but Trump bent on retribution"
+    excerpt: "Republican leaders insisted that purging Trump critic Rep. Liz Cheney from their ranks was necessary to unify the party ahead of next year’s midterm elections. But former President Donald Trump, who celebrated Cheney's ouster by calling her a “bitter,"
+    publishedDateTime: 2021-05-13T03:21:00Z
+    webUrl: "https://www.chron.com/news/article/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
+    ampWebUrl: "https://www.chron.com/news/amp/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
     type: article
     provider:
       name: Houston Chronicle

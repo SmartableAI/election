@@ -172,6 +172,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden Is Getting It Wrong Across the Board"
+    excerpt: "New government figures show that the Biden administration is getting it wrong on the border, getting it wrong on the economy and job creation, and getting it wrong on inflation."
+    publishedDateTime: 2021-05-12T19:33:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/12/biden_is_getting_it_wrong_across_the_board_542669.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/543103_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "J3B2gYItwA+sUVPcluW3x/bQBTzbBsRLAqvn7cor/Nfk0WW8rOi7yQzZ2pGwpmwMwgFTUQTjDuFYIXTImIqkHAFXsrlSaCxSHowo9sCm7u6FC1mgjhiuGnoCMZPqPBxT/GYcCK0ixsT9po84PmbAhaVRq+53W8hk9nJxIswJFeFBRp6l64UncDpLEO2RagybKT78NsU0wL3qK9uB65579MXV5uMMt+mXbvprJc1BBhYF/EtMKYRL33Hoq3WuPLWfFSj96yxI+BqJn88MBjYViGZph6FOMH4Ya22605jhNH3PfzaHP6IP+DUkyZpONDIKAWoTBQ2EHiI4QaOdKkYQF4OQZnB51CcHHwgFmBQS7So=;D/Bd/VuWKFNfdsF2E/G5Ig=="
 ---

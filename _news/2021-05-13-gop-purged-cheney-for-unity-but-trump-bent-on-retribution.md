@@ -1,33 +1,29 @@
 ---
 category: news
 title: "GOP purged Cheney for 'unity,' but Trump bent on retribution"
-excerpt: "Republican leaders insist that purging Trump critic Liz Cheney from their ranks was necessary to unify the party ahead of next year’s midterm elections"
-publishedDateTime: 2021-05-12T18:43:00Z
-originalUrl: "https://www.washingtonpost.com/politics/gop-purged-cheney-for-unity-but-trump-bent-on-retribution/2021/05/12/4d4f0932-b35a-11eb-bc96-fdf55de43bef_story.html"
-webUrl: "https://www.washingtonpost.com/politics/gop-purged-cheney-for-unity-but-trump-bent-on-retribution/2021/05/12/4d4f0932-b35a-11eb-bc96-fdf55de43bef_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/gop-purged-cheney-for-unity-but-trump-bent-on-retribution/2021/05/12/4d4f0932-b35a-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-purged-cheney-for-unity-but-trump-bent-on-retribution/2021/05/12/4d4f0932-b35a-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+excerpt: "Republican leaders insisted that purging Trump critic Rep. Liz Cheney from their ranks was necessary to unify the party ahead of next year’s midterm elections. But former President Donald Trump, who celebrated Cheney's ouster by calling her a “bitter,"
+publishedDateTime: 2021-05-13T03:21:00Z
+originalUrl: "https://www.chron.com/news/article/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
+webUrl: "https://www.chron.com/news/article/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
+ampWebUrl: "https://www.chron.com/news/amp/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UOG2D4VTIQI6XPEW7X2V3ZB354.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -701,6 +697,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "DCpdGZ++dyjsX4LbpOZBqhRCqJq8No1JdrEA4gwG+52UYemcyEJiZGAuXP59LzJ2Ojp1+7nfp+bbEsathb4Nt4cedEna+7/rePI0JC3P4PQtZ/ieMG2dK3PjUVRusuyf/S/5YD/N6N8dh8G6LExrTGmPElkibkXeFM9ySh2e4S2LFQndvHKKtDMIM2vy+712Ix4hb4VON4mD/Wnl0JQskJpC9bMIvSKkJ5TYMg0Jv02uv9qwOYPvi879D1jZuiNbxqHldOKnVMZ6DWAhUtov5x5W8BqPEmqzVldT8R9YVfBQW3Dm/eQpdcGVFIUryLakquCZ9ja2IFaKMgYLX+2am9Id4lK12F97fHSC+lH19Ts=;lrKLgB62bK9HXylHzNfyYg=="
+secured: "zO2L4uNpNH3PeTpuBu0WDPQdYRkUuKvI4IvrT/e2WshWmFljvl6GaoPy47C4vY0L/xLN+0GIRkCdjCgfpJb2PZfcPCEmlZc6PmH3eVQ75mRiw25VBl/cXwvAk6FazKptfy0MNireCXPQymHov3C36pEwoFmKgtap2WWZ9HWgEwmQs0xF+88znoiyPKGazv+usVFiYa1z3jF/SZGTIrt0vc4JKmb3ksclUFW0NS+qPm32RdG7YO8Vtmtem3T+rklUHSM1c+lP6coHkaSmkFbtM0gwyolw+6pwJN4WKaF2yZNG4ACDd5SPVsPiHeaA6ZjgkSaM9o3DcujbFqrmlKneLXDOylNkCz5B/Kscowu/H3A=;VB4EUfAv8xcqFJpDbyR9NA=="
 ---
 

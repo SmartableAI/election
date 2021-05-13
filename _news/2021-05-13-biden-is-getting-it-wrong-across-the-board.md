@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Biden's Progressive Policies Are Making Lives Better"
-excerpt: "Joe Biden's approval numbers are stunning, with 63% of Americans saying in a new poll that they approve of the job he's doing, writes Jill Filipovic. The President draws this while not making any big rhetorical waves but carefully guiding a progressive policy agenda aimed squarely at making people's lives better as quickly and efficiently as possible."
-publishedDateTime: 2021-05-12T11:35:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/05/12/bidens_progressive_policies_are_making_lives_better_542609.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/05/12/bidens_progressive_policies_are_making_lives_better_542609.html#!"
+title: "Biden Is Getting It Wrong Across the Board"
+excerpt: "New government figures show that the Biden administration is getting it wrong on the border, getting it wrong on the economy and job creation, and getting it wrong on inflation."
+publishedDateTime: 2021-05-12T19:33:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/05/12/biden_is_getting_it_wrong_across_the_board_542669.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/05/12/biden_is_getting_it_wrong_across_the_board_542669.html#!"
 type: article
 quality: 65
 heat: -1
@@ -20,7 +20,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/54/542677_5_.jpg"
+  - url: "https://assets.realclear.com/images/54/543103_5_.jpg"
     width: 750
     height: 500
     isCached: true
@@ -168,21 +168,21 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Biden Is Getting It Wrong Across the Board"
-    excerpt: "New government figures show that the Biden administration is getting it wrong on the border, getting it wrong on the economy and job creation, and getting it wrong on inflation."
-    publishedDateTime: 2021-05-12T19:33:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/12/biden_is_getting_it_wrong_across_the_board_542669.html#!"
+  - title: "Biden's Progressive Policies Are Making Lives Better"
+    excerpt: "Joe Biden's approval numbers are stunning, with 63% of Americans saying in a new poll that they approve of the job he's doing, writes Jill Filipovic. The President draws this while not making any big rhetorical waves but carefully guiding a progressive policy agenda aimed squarely at making people's lives better as quickly and efficiently as possible."
+    publishedDateTime: 2021-05-12T11:35:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/12/bidens_progressive_policies_are_making_lives_better_542609.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 65
     images:
-      - url: "https://assets.realclear.com/images/54/543103_5_.jpg"
+      - url: "https://assets.realclear.com/images/54/542677_5_.jpg"
         width: 750
         height: 500
         isCached: true
 
-secured: "TQxPHQ1Gbj8CiZGEEj/3fMkw4HeAyKLVKmJxjAG1dbhwpZ6NO5ui2cF7bUwV/cLrxeKEOjiqQoXcgbb9dDT7LMaUKyEMDfRhYi77JN6MS8O90SMgT+PPI8BbQDXw2SGbUSsj9dqpDGQDzd0lenVWuvVGliyPyQeYcOTsszwb5FVrr9tvKjHcJddUU+gu+urEd1/OYWa5ROzlCyBoqUTvQ4KWdXemzAM4oLdp1URPh+LaJLJ0qsci3t9lx7fHuIaRwjYH6VNANVm/km+FHRA1FZprhd115kAawCljsV7YEI5XvHLHO/Yb+gXVzn/b/LJdiUYXFiiYVr+Nx3ulm+QkMC4CDQ9WnMj5F/EskHYIqBc=;Nw+gqcXqm+x3JhwhsYOz1A=="
+secured: "jntyx5hOwzWBZu8OmG6Aml/gJ023qRdu1Bn9XpWIU5tZqrGosv4VrBdoSySSGw/PUdyE392DiLJ+TA3lVxLS/fDmj4M698yjJHY978neWhseZnK6rttQIB+gjA5Af4ibCh5db0CDMwHrguGSb2qlY20cXsZqfrf7JngvROhDxoI953BWSYkuQuxGzJtvu0KX66sZswyYhr8370Q86zRPiefbdNZiuT4Vns0x056F9zyC5IcP60aTw17MzkezMruyWderoXR4pXfmStiXwWq3E5Ji+dLfcUUsMHwuzwj2+C9ZST6cRiaBg8pwlgYwSvX21nU5+oViV4X8tt8LgCs1HzWhXIRZ3jJN/jLWaM8WfM0=;bF8Z3HJWUifSVomMgs68og=="
 ---
 

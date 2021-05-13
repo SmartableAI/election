@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-refutes-comparison-of-carter-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp"
 type: article
 quality: 185
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -168,6 +168,20 @@ related:
     quality: 65
     images:
       - url: "https://assets.realclear.com/images/54/542677_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden Is Getting It Wrong Across the Board"
+    excerpt: "New government figures show that the Biden administration is getting it wrong on the border, getting it wrong on the economy and job creation, and getting it wrong on inflation."
+    publishedDateTime: 2021-05-12T19:33:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/12/biden_is_getting_it_wrong_across_the_board_542669.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/543103_5_.jpg"
         width: 750
         height: 500
         isCached: true
