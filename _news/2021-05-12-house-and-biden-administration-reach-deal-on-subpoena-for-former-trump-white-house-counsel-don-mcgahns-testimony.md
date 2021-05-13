@@ -255,6 +255,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Alarm bells ringing in the White House over economy as Biden faces new headwinds"
+    excerpt: "Alarming economic numbers and scenes of long lines at gas pumps in the Southeast are causing new political hurdles for President Joe Biden just as he begins negotiations with Republicans over major new spending proposals.\n    \n"
+    publishedDateTime: 2021-05-13T14:42:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2PtHyDBVYWc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/economic-alarm-bells-for-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/economic-alarm-bells-for-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512155058-01-gas-plastic-bags-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration says it will enforce federal transgender health care protections, undoing controversial Trump-era reversal"
     excerpt: "The Biden administration will work to protect transgender Americans from discrimination in health care, undoing a controversial Trump-era decision to nix federal protections for members of the community, the Department of Health and Human Services announced Monday.\n    \n"
     publishedDateTime: 2021-05-10T16:25:31Z

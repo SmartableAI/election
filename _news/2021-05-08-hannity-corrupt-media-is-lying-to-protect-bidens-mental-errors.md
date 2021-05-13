@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/transcript/hannity-corrupt-media-is-lying-to
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/hannity-corrupt-media-is-lying-to-protect-bidens-mental-errors.amp"
 type: article
 quality: 135
-heat: 155
+heat: 135
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "Hannity: How will Biden respond to pipeline attack?"
-    excerpt: "Guests: Sean Hannity, Rick Perry, Lindsey Graham, Ted Cruz, Larry Elder, Newt Gingrich, Nicole Saphier, Leo Terrell"
-    publishedDateTime: 2021-05-12T04:23:00Z
-    webUrl: "https://www.foxnews.com/transcript/hannity-how-will-biden-respond-to-pipeline-attack"
-    ampWebUrl: "https://www.foxnews.com/transcript/hannity-how-will-biden-respond-to-pipeline-attack.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/hannity-how-will-biden-respond-to-pipeline-attack.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f0acf253-f719-42a7-afbb-94ba6578573c/4a6f5676-85cb-414d-bbf5-01b6ecab9c11/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "2YCKDX6mYU/JprB9zfA0f+0naKgPMZoAy7l2SA7gCDjyKKKQZMkRlnmrMk6KMN42Bx23939Vj7UGHgEBCbeK3p3yYXOr6YuchD3NwVQ4Djlfv+u3jy1ZklQyciS8bwsMkruZAIpS/uWrfajD7VuRiJUDw4T1aj6yoByYfBKR1OJdG1mampAleWxRtZb4T9kWw3IIVb61PwspuW4SsopAIWKGJul+Bs/OTs1Rlz07CtCfcQhDdpCE1LnRjFth8ry0tmdElT93ujI7/MpDZSXBOijWSgPQ3usZHXQWIAZ11bQyrrBUoZm5Uw363Q995KN4I1pB673H1NLO8KsuFaihGhecKUdE3jYZB1doJLWzlu/B26uv1e/uMA99/uNGAoKxYA4rteynWVhpiPW2qBv5q39GVHO24suye4EznQnwjN/6Z/Gd7iGrdACkpaKfNYas3ks0wnLIj6xQZ2PW09IX0RKvNp5ic3QczzDLtYmuUHf7/+KfzJvHsjrKfJx6oS7f/l1YeiOayuPhaWvTOKPMcQ==;aq+ICiLCa4mAGJPXOssyig=="
 ---

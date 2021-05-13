@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House GOP rebuffs Cheney's demands to call out Trump's election lies "
+    excerpt: "Rep. Liz Cheney told House Republicans in private on Wednesday that it's time to reject former President Donald Trump's big lie that he won the election because failing to do so will \"make us complicit in his efforts to unravel our democracy.\"\n    \n"
+    publishedDateTime: 2021-05-13T14:34:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/85BoKHPuQzE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/house-republicans-trump-election-lies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/house-republicans-trump-election-lies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Homeland Security reverses Trump-era DNA collection plan for immigration vetting "
     excerpt: "The Department of Homeland Security on Friday withdrew Trump-era plans to vastly expand the collection of biometric data, including DNA samples, which would have been used for immigration purposes such as verifying family relationships.\n    \n"
     publishedDateTime: 2021-05-07T16:14:22Z

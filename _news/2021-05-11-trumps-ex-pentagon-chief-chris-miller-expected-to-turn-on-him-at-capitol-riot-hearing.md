@@ -136,20 +136,6 @@ related:
         width: 1024
         height: 668
         isCached: true
-  - title: "Trump 'Egged On' Capitol Rioters: Facebook Panel Co-chair"
-    excerpt: "Donald Trump encouraged the Capitol rioters and so earned his Facebook ban, but the social media giant's rules are in \"shambles\" and need fixing, the co-chair of the network's oversight panel said Sunday."
-    publishedDateTime: 2021-05-09T19:39:00Z
-    webUrl: "https://www.ibtimes.com/trump-egged-capitol-rioters-facebook-panel-co-chair-3195688"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/09/the-co-chair-of-facebooks-oversight-panel-said.jpg"
-        width: 1024
-        height: 695
-        isCached: true
   - title: "Donald Trump’s Facebook suspension upheld by Oversight Board; group calls on social media giant to conduct six-month review of case, policies"
     excerpt: "Former president Donald Trump will remain suspended from posting on Facebook, the world’s most popular social media platform, according to an independent Oversight Board. But the board, a diverse group of international experts in law,"
     publishedDateTime: 2021-05-05T13:14:00Z
@@ -166,15 +152,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "U.S. House Majority Leader Hoyer Applauds Facebook Decision on Trump"
-    excerpt: "House Majority Leader Steny Hoyer applauded Facebook Inc's decision to maintain its suspension of Donald Trump after the Jan. 6 Capitol riots, saying it has the right to refuse to be a medium for the former Republican president."
-    publishedDateTime: 2021-05-05T13:28:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-05/us-house-majority-leader-hoyer-applauds-facebook-decision-on-trump"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "wYitWR3GUrWdrjte2TGE+C+EXIKpHcO8gPPlJn04sNREZbyeRZX86NbNCrJ+na21YHsNIVQcDpfLfiEn741vt+XN7+YJOqBhsoV4P7laBd1u8fd8ykDolE8BKOoH5P8QPMn8jUrjGq8PSVlp5KcVB6EfUXxsakHb64K5AikZnLeSSClt9b8syJFXMjWqWAizOunuG+0sSGqEd6NeUI71VBJ/r/NYCJLalIlP3HpBxQ/F+f0LV13vHNejGv/cWJwR0B8jvxgVqF3kAZZzfJwsF/F/pY+Kq3NliH5iAqBo2OArdWhySeP1m98nY6iS3bCTDbqaNhEuAOWliObn34WClfDnvlOEZ57xz9VEZsNlIzdIAGQFr503H0Lbvo5bQlblOz+Pfi7lQhZQnJQIpbRfp3dmCOsrmMS0Bt0+LpSDk/rPsIuhAZsjX9A+nDhZWQZButm4BzOEruTbB0Mvy5pt5QGt3g/gohSnFnQfI2pWkeedxcBpYEQglfh4BeMXbStujxr7RaaomBQCx4uuRqABAg==;J18Rcka+K6rxMx4sYcrJag=="
 ---

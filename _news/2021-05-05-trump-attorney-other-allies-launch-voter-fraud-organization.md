@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House GOP rebuffs Cheney's demands to call out Trump's election lies "
+    excerpt: "Rep. Liz Cheney told House Republicans in private on Wednesday that it's time to reject former President Donald Trump's big lie that he won the election because failing to do so will \"make us complicit in his efforts to unravel our democracy.\"\n    \n"
+    publishedDateTime: 2021-05-13T14:34:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/85BoKHPuQzE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/house-republicans-trump-election-lies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/house-republicans-trump-election-lies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Caitlyn Jenner didn't vote for Trump in 2020 and skipped the election to play golf"
     excerpt: "While former President Donald Trump continues to spread falsehoods about the 2020 election, California recall candidate Caitlyn Jenner told CNN's Dana Bash in a new interview that she does not believe the election was \"stolen,\" but argued there needs to be \"integrity\" in the US election system.\n    \n"
     publishedDateTime: 2021-05-11T13:23:37Z
