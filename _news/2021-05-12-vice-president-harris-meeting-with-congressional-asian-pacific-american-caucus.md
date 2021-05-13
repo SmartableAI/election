@@ -49,6 +49,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Arizona AG calls for Harris ouster as 'border czar'"
+    excerpt: "Vice President Kamala Harris must be removed from her role in dealing with the border surge, Arizona Attorney General Mark Brnovich said in a letter this week to President Biden, saying his running mate has blown her chance to fix things."
+    publishedDateTime: 2021-05-13T13:35:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/may/13/arizona-ag-calls-harris-ouster-border-czar/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/13/arizona-ag-calls-harris-ouster-border-czar/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/13/arizona-ag-calls-harris-ouster-border-czar/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/07/US_Mexico_Harris_Obrador_27987.jpg-ac6ed_c0-0-5527-3224_s1200x700.jpg?3598ffbb02b4836c4f9da67f95c650e0d52b03d3"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Kamala Harris said corruption costs as much as 5% of the world's GDP. That stat is questionable"
     excerpt: "For more than a decade, an interesting statistic about the cost of corruption has been bouncing around the global-economics community, showing up in statements and reports from or"
     publishedDateTime: 2021-05-09T08:51:00Z

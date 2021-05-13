@@ -1,0 +1,86 @@
+---
+category: news
+title: "Arizona AG calls for Harris ouster as 'border czar'"
+excerpt: "Vice President Kamala Harris must be removed from her role in dealing with the border surge, Arizona Attorney General Mark Brnovich said in a letter this week to President Biden, saying his running mate has blown her chance to fix things."
+publishedDateTime: 2021-05-13T13:35:00Z
+originalUrl: "https://www.washingtontimes.com/news/2021/may/13/arizona-ag-calls-harris-ouster-border-czar/"
+webUrl: "https://www.washingtontimes.com/news/2021/may/13/arizona-ag-calls-harris-ouster-border-czar/"
+ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/13/arizona-ag-calls-harris-ouster-border-czar/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/13/arizona-ag-calls-harris-ouster-border-czar/"
+type: article
+quality: 75
+heat: -1
+published: false
+
+provider:
+  name: Washington Times
+  domain: washingtontimes.com
+
+topics:
+  - Election
+  - Kamala Harris
+
+images:
+  - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/07/US_Mexico_Harris_Obrador_27987.jpg-ac6ed_c0-0-5527-3224_s1200x700.jpg?3598ffbb02b4836c4f9da67f95c650e0d52b03d3"
+    width: 1200
+    height: 700
+    isCached: true
+
+related:
+  - title: "First lady, Vice President Harris highlight different paths to motherhood"
+    excerpt: "Kamala Harris’ childhood friends share memories about presidential hopeful With families around the country preparing to celebrate Mother’s Day on Sunday, first lady Jill Biden and Vice President Kamala Harris are putting a new national spotlight on less traditional types of motherhood."
+    publishedDateTime: 2021-05-08T19:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mothers-day-kamala-harris-jill-biden-09-gty-llr-210508_1620502085825_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Harris 'united' with Asian Americans against hate"
+    excerpt: "Vice President Kamala Harris told members of the Congressional Asian Pacific American Caucus the Biden administration stands is committed to combatting hate crimes against Asian-Americans. (May 11)"
+    publishedDateTime: 2021-05-12T00:38:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/12/harris-united-asian-americans-against-hate/5047406001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1692028d-d488-4925-8b1a-b6f44f884e8d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Kamala Harris said corruption costs as much as 5% of the world's GDP. That stat is questionable"
+    excerpt: "For more than a decade, an interesting statistic about the cost of corruption has been bouncing around the global-economics community, showing up in statements and reports from or"
+    publishedDateTime: 2021-05-09T08:51:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/may/07/kamala-harris/kamala-harris-said-corruption-costs-much-5-worlds-/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 43
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
+  - title: "Vice President Harris Meeting with Congressional Asian Pacific American Caucus"
+    excerpt: "T16:24:02-04:00 President Harris meets with members of the Congressional Asian Pacific American Caucus. Javascript must be enabled in order to access C-SPAN videos. Democratic vice presidential candidate Kamala Harris meets with officials in Fresno,"
+    publishedDateTime: 2021-05-11T20:43:00Z
+    webUrl: "https://www.c-span.org/video/?511654-1/vice-president-harris-meeting-congressional-asian-pacific-american-caucus"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 31
+
+secured: "pCzijtFSZI1FicDlT541P9jszyVZavWBwieBt0CPyHuXQHpmhO02lQmUiJtClCzkvSYgwLG7C6z2YNzJEqj+U5gBDArhS2HkYi8DGC4B2I7rSM/QUzrOEQQgmHKrAkfyaBD+9BgLsQO2JOshi30ZJQVqImU2KdMyCOHDJZyMXs+5AVBVydswK0e347c/miaCjiWXVoeA+ptrRALY5krXAWdHxE4qdNeWRdw21mSLlvridxdU0MzZq0dhLnPhYybDlqBvrfgOFHWOSCNlpFMjLDPT2dpmV6poq2gTKK4ogAQwLjVB521CfFVkHvoHoFqdMA6DkNJI99FvGNZYbLLsvod4NdSkJj0ii/g9dm+ev9c=;VXwbxqUqxQTAyN/CFeeklg=="
+---
+

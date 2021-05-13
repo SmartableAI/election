@@ -479,6 +479,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump's triumphs extend to GOP rewriting history of Nov. 3 and Jan. 6: The Note"
+    excerpt: "Many of Rep. Liz Cheney's colleagues are well along in crafting their own Trumpian and patently false narratives of both the election and the subsequent attack on Jan. 6."
+    publishedDateTime: 2021-05-13T14:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-triumphs-extend-gop-rewriting-history-nov-jan/story?id=77648445"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 101
+    images:
+      - url: "https://s.abcnews.com/images/Politics/McCarthy-ap-er-210512_1620863780906_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Ohio GOP censures 10 Republicans who voted to impeach Trump"
     excerpt: "The Ohio Republican Party censured U.S. Rep. Anthony Gonzalez and nine other GOP representatives Friday for voting in February to impeach former President Donald Trump, in a nearly unanimous vote of the powerful central committee."
     publishedDateTime: 2021-05-07T17:17:00Z

@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-13-sen-blackburn-to-introduce-bill-to-reinstate-trumps-migrant-protection-protocols.md",
+      "title": "Sen. Blackburn to introduce bill to reinstate Trump's Migrant Protection Protocols",
+      "excerpt": "Sen. Marsha Blackburn, R-Tenn., is introducing a bill this week that would seek to reinstate the Trump-era Migrant Protection Protocols in response to a crisis at the southern border that has overwhelmed the immigration system in recent months.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fnr0waE9b-U/sen-blackburn-bill-reinstate-trump-migrant-protection-protocols",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fnr0waE9b-U/sen-blackburn-bill-reinstate-trump-migrant-protection-protocols",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3b5befee-1abd-4a1a-979c-98e89ad5cad4/10cf370a-f3d0-45ac-83cb-d424eb50e093/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-blackburn-bill-reinstate-trump-migrant-protection-protocols.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-blackburn-bill-reinstate-trump-migrant-protection-protocols.amp",
+      "publishedDateTime": "2021-05-13T06:00:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-liz-cheney-willing-to-do-whatever-it-takes-to-prevent-trump-win-in-2024.md",
+      "title": "Liz Cheney willing to do ‘whatever it takes’ to prevent Trump win in 2024",
+      "excerpt": "Fresh off her ouster from House Republican leadership, Rep. Liz Cheney is maintaining her crusade to do “whatever it takes” to oppose former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/",
+      "originalUrl": "https://nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/liz-cheney-1.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/amp/",
+      "publishedDateTime": "2021-05-13T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-politico-playbook-how-palm-beach-is-preparing-for-a-possible-trump-indictment.md",
       "title": "POLITICO Playbook: How Palm Beach is preparing for a possible Trump indictment",
       "excerpt": "SCOOP: PALM BEACH MAKES CONTINGENCY PLANS IN CASE TRUMP IS INDICTED — Law enforcement officials in Palm Beach County, Fla., have actively prepared for the possibility that Manhattan District Attorney CY VANCE could indict former President DONALD TRUMP while he’s at Mar-a-Lago,",
@@ -147,6 +251,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-trump-white-house-counsel-donald-mcgahn-expected-to-answer-house-committee-questions-as-soon-as-possible.md",
+      "title": "Trump White House counsel Donald McGahn expected to answer House committee questions ‘as soon as possible’",
+      "excerpt": "McGahn will be asked whether Trump interfered with Mueller’s Russia investigation. House Democrats have been fighting for years to enforce a subpoena for his testimony.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/legal-issues/mcgahn-committee-interview-subpoena/2021/05/12/d3b2217a-b38d-11eb-a980-a60af976ed44_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/legal-issues/mcgahn-committee-interview-subpoena/2021/05/12/d3b2217a-b38d-11eb-a980-a60af976ed44_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TJLL2AUPQAI6RPGVTWIRY6CMHA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/legal-issues/mcgahn-committee-interview-subpoena/2021/05/12/d3b2217a-b38d-11eb-a980-a60af976ed44_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/mcgahn-committee-interview-subpoena/2021/05/12/d3b2217a-b38d-11eb-a980-a60af976ed44_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-13T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1172,7 +1328,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1213,162 +1369,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-exclusive-biden-names-new-federal-judges-including-a-bush-nominee-with-an-emphasis-on-diversity.md",
-      "title": "Exclusive: Biden names new federal judges, including a Bush nominee, with an emphasis on diversity",
-      "excerpt": "Biden is filling federal judgeships with an eye toward racial and professional diversity. The White House is now unveiling its next round of nominees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/05/12/biden-names-new-federal-judges-including-puerto-ricos-gustavo-gelpi/5035176001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/05/12/biden-names-new-federal-judges-including-puerto-ricos-gustavo-gelpi/5035176001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/11/USAT/6c42eaee-2600-428b-89af-560edd76d80f-Biden_Judges.jpg?auto=webp&crop=3626,2040,x0,y524&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5035176001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5035176001",
-      "publishedDateTime": "2021-05-12T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-analysis-violence-upends-bidens-israel-palestinian-outlook.md",
-      "title": "Analysis: Violence upends Biden's Israel-Palestinian outlook",
-      "excerpt": "The surge in Israeli-Palestinian violence has flummoxed the Biden administration in its first four months as it attempts to craft a Middle East policy it believes will be more durable and fairer than",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AN6GYPFSUEI6XPEW7X2V3ZB354.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-12T01:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-ilhan-omar-fires-back-at-donald-trump-for-support-of-israel.md",
-      "title": "Ilhan Omar Fires Back at Donald Trump for Support of Israel",
-      "excerpt": "Violence in Israel, the worst seen since the 2014 Gaza war, has left at least 36 people dead—five Israelis and 31 Palestinians.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/ilhan-omar-donald-trump-israel-1590708",
-      "originalUrl": "https://www.newsweek.com/ilhan-omar-donald-trump-israel-1590708",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1794155/ilhan-omar-minnesota.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/ilhan-omar-donald-trump-israel-1590708?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ilhan-omar-donald-trump-israel-1590708?amp=1",
-      "publishedDateTime": "2021-05-12T00:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

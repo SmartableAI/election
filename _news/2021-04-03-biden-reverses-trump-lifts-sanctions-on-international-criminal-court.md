@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-reverses-trump-era-policies-l
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp"
 type: article
 quality: 190
-heat: 1430
+heat: 1450
 published: true
 
 provider:
@@ -462,6 +462,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump-Biden Was Worst Presidential Polling Miss in 40 Years, Panel Says"
+    excerpt: "Polls overstated support for Joe Biden by 3.9 percentage points in the final weeks of the campaign, according to the main trade group for pollsters, which also said it hasn’t yet found a way to correct the problem."
+    publishedDateTime: 2021-05-13T12:32:00Z
+    webUrl: "https://www.wsj.com/articles/trump-biden-was-worst-presidential-polling-miss-in-40-years-panel-says-11620909178"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-biden-was-worst-presidential-polling-miss-in-40-years-panel-says-11620909178"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-biden-was-worst-presidential-polling-miss-in-40-years-panel-says-11620909178"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-337792/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Biden WH keeps Trump's National Space Council despite mocking Space Force"
     excerpt: "While President Biden has put as much distance as possible between himself and most of his predecessor’s policies, there is one area that Biden appears satisfied not to touch—space."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trum
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
 type: article
 quality: 137
-heat: 1037
+heat: 1057
 published: true
 
 provider:
@@ -332,6 +332,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/24/USAT/ad6c012f-d872-4235-80c8-9ad0284e6393-VPC_CHENEY_MCCARTHY_ON_TRUMP_CPAC_DESK.00_00_13_17.Still009.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Liz Cheney vows to stop Trump getting ‘anywhere close to the Oval Office’ again – live"
+    excerpt: "Ousted congresswoman does not rule out White House run and says she will do ‘whatever it takes’ to prevent second Trump term – follow the latest live"
+    publishedDateTime: 2021-05-13T12:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/d156356fb7cd276d89fe3cb0773fdbba46beaa39/0_221_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bb72847084e0da6f41d0c65af3557ab2"
+        width: 600
+        height: 360
         isCached: true
   - title: "Liz Cheney Ousted From GOP Leadership as Donald Trump's Grip on Party Remains 'Ironclad'"
     excerpt: "\"Liz Cheney has drawn the ire of Donald Trump and the base for daring to tell the truth, and that is something that they cannot tolerate,\" Evan Siegfried, a Republican strategist, told Newsweek."

@@ -464,6 +464,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump-Biden Was Worst Presidential Polling Miss in 40 Years, Panel Says"
+    excerpt: "Polls overstated support for Joe Biden by 3.9 percentage points in the final weeks of the campaign, according to the main trade group for pollsters, which also said it hasn’t yet found a way to correct the problem."
+    publishedDateTime: 2021-05-13T12:32:00Z
+    webUrl: "https://www.wsj.com/articles/trump-biden-was-worst-presidential-polling-miss-in-40-years-panel-says-11620909178"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-biden-was-worst-presidential-polling-miss-in-40-years-panel-says-11620909178"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-biden-was-worst-presidential-polling-miss-in-40-years-panel-says-11620909178"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-337792/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden WH keeps Trump's National Space Council despite mocking Space Force"
     excerpt: "While President Biden has put as much distance as possible between himself and most of his predecessor’s policies, there is one area that Biden appears satisfied not to touch—space."
     publishedDateTime: 2021-04-02T00:16:00Z

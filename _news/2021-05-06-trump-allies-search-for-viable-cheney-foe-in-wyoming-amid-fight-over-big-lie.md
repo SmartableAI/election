@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Cheney on Trump: 'He's going to unravel the democracy to come back into power'"
+    excerpt: "Rep. Liz Cheney is outlining her next steps in the aftermath of her ousting from leadership, telling NBC, \"I intend to be the leader, one of the leaders, in a fight to help to restore our party,\" and warning that former President Donald Trump is willing \"to unravel the democracy to come back into power.\"\n"
+    publishedDateTime: 2021-05-13T13:37:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kKbVxByHPkk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/cheney-trump-mccarthy-nbc-interview/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/cheney-trump-mccarthy-nbc-interview/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128192549-mccarthy-trump-cheney-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Auditioning to replace Cheney, Stefanik calls Trump ‘the strongest supporter’ of the Constitution."
     excerpt: "Representative Elise Stefanik pitched herself as an unshakable Trump ally as momentum gathered to oust his fervent critic, Representative Liz Cheney, from the Republican leadership."
     publishedDateTime: 2021-05-06T11:56:00Z

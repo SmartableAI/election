@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Cheney on Trump: 'He's going to unravel the democracy to come back into power'"
+    excerpt: "Rep. Liz Cheney is outlining her next steps in the aftermath of her ousting from leadership, telling NBC, \"I intend to be the leader, one of the leaders, in a fight to help to restore our party,\" and warning that former President Donald Trump is willing \"to unravel the democracy to come back into power.\"\n"
+    publishedDateTime: 2021-05-13T13:37:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kKbVxByHPkk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/cheney-trump-mccarthy-nbc-interview/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/cheney-trump-mccarthy-nbc-interview/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128192549-mccarthy-trump-cheney-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "hAyOPMP0VhWXr6LzgAWBZO/Drqjh7Y74tTyfKrcDSPiuaig8Vxu4FHIP5IDWuJpaPkIYXmdYIiMZetz5mC+SVZ3RUTv0mcfFmESP/1qtW58bB+e4FKONYWPtNSxeJlPfOgZwRF4c2epWupTECfSpcfFPZM2yha0s8ZPrw/yVh7TxMSlnP3PEG47IO75sM8qt3MxY7lw+oG3jCushsFXfBLpzz5PAS7F+MT7ZF4MaWxeWPOe/mvk1UJcC+Tk0zgprP7kQKfors1At7A32KWVj1eEJF4oCgK8HzhSeAZ0KcaZDmMtkuKZpBESV+uanbcBZaiiUu32/JtahgYmDFVPI4xOvOMzN9uvhD6RJ/fX2EBw=;tEx88BT6/whum+yKgJSf7A=="
 ---
