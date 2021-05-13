@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-first-virtual-vis
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp"
 type: article
 quality: 175
-heat: 535
+heat: 555
 published: true
 
 provider:
@@ -316,6 +316,20 @@ related:
     quality: 84
     images:
       - url: "https://assets.realclear.com/images/54/542635_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Joe Biden's Four-Decade Long Romance With Iran"
+    excerpt: "Biden has remained hopeful that the U.S. and Iran could find some common ground. Now might really be the last chance."
+    publishedDateTime: 2021-05-09T11:46:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/09/joe_bidens_four-decade_long_romance_with_iran_542414.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/542363_5_.jpg"
         width: 750
         height: 500
         isCached: true

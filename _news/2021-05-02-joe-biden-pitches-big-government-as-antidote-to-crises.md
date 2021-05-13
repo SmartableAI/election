@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Jill Biden plants tree as White House readies for family cat"
-excerpt: "Biden said that the family's cat would be coming to the White House “pretty soon.” The first lady told NBC News in an inte"
-publishedDateTime: 2021-04-30T16:47:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-plants-tree-white-house-readies-family-77421307"
-webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-plants-tree-white-house-readies-family-77421307"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-plants-tree-white-house-readies-family-77421307"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-plants-tree-white-house-readies-family-77421307"
+title: "Joe Biden pitches big government as antidote to crises"
+excerpt: "Forty years ago, a newly elected American president declared government the source of many of the nation’s problems, reshaping the parameters of U.S. politics for decades to come. On Wednesday night,"
+publishedDateTime: 2021-05-01T18:23:00Z
+originalUrl: "https://floridapolitics.com/archives/425975-joe-biden-pitches-big-government-as-antidote-to-crises/"
+webUrl: "https://floridapolitics.com/archives/425975-joe-biden-pitches-big-government-as-antidote-to-crises/"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Florida Politics
+  domain: floridapolitics.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_c2d1f4e0adfa4a7c853bbfa8b397e8b0_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://floridapolitics.com/wp-content/uploads/2021/05/biden.jpeg"
+    width: 1000
+    height: 667
     isCached: true
 
 related:
@@ -668,6 +662,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_293c4b245f174ef1a4dadc48ca68f64f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Jill Biden plants tree as White House readies for family cat"
+    excerpt: "Biden said that the family's cat would be coming to the White House “pretty soon.” The first lady told NBC News in an inte"
+    publishedDateTime: 2021-04-30T16:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-plants-tree-white-house-readies-family-77421307"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-plants-tree-white-house-readies-family-77421307"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-plants-tree-white-house-readies-family-77421307"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c2d1f4e0adfa4a7c853bbfa8b397e8b0_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -1652,20 +1662,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Joe Biden pitches big government as antidote to crises"
-    excerpt: "Forty years ago, a newly elected American president declared government the source of many of the nation’s problems, reshaping the parameters of U.S. politics for decades to come. On Wednesday night,"
-    publishedDateTime: 2021-05-01T18:23:00Z
-    webUrl: "https://floridapolitics.com/archives/425975-joe-biden-pitches-big-government-as-antidote-to-crises/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 55
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/05/biden.jpeg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Adviser suggests Joe Biden still wears mask outside out of habit"
     excerpt: "The CDC now says fully vaccinated individuals don’t need to cover their faces unless they’re in a large crowd of strangers."
     publishedDateTime: 2021-05-02T22:30:00Z
@@ -1750,6 +1746,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "68j5OlWxGEsolSKmOsqEsCdg5m4bsuQHcw8pQAmcq3koq/5bhVZjXBaZZ5MF4+j7//i4h6sg9PUxytWmTbx7xlA+mc6zq60yxGyGkJoFdEj7Lnm5QI3MYlnx1RwkS/DuscZ65LIbfgpSQxGZZ6S2Wof4JDS0wh0L9AK7UmK5VLRyWLPmpRsbIpyKz6NO+RVeoceu4Gt6/f+Rj+PLw8JBqLyBqoLKc44iWcDkFEtWKb7sOA0i+4vscK31J+fjh7ZYAT2o4NXSes/L0QmIfzmmOy8G1TonKKY+XJ1UTYBz7VD69VgPyIUklElZQ4miA2TWyvnXSAlwUYwxqdMYWUaVWTJaYGzduFgilLP7JHHTGXA=;5st8vm/L+qmNv1sVrsZ4Dw=="
+secured: "2qh/YH7tF5lIOHo/16hEVCMyFSGe98/bU7hDii/GKHerm7Mfj/2FPZ8yAtvDJrODtaMjmlzLj3FhRRYEYW0RwNABEWWr0rGF+h+i8FXyx31fkM+lnAfnuLXpPnwA805jkTFfpJIsqj+JKD6U5kLpaYV82RwVSyLkF1Gxn8EEFFh7KqVs1xoqKJtx7pp6MC3/ns3WVEcRuzmbgEyBJp9D7AO854/zobFS5dWHw+KgK98OUVwWjpB13GnNqFs2kopG9TFH0BRxOiC7+M3Slhkes5hd13LQTTqyB5A8npFvjQtLcKWMD4WchNSTAsbVo7dCNM0fox79LlymcDR8+90MB/qIf86Akh2lY8u1ogKREPM=;zS5HoknmTS3sWElm7wLqfA=="
 ---
 

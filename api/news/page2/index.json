@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-12-trump-endorses-florida-senate-president-simpson-for-agriculture-commissioner.md",
+      "title": "Trump endorses Florida Senate President Simpson for agriculture commissioner",
+      "excerpt": "Wilton has been a great supporter and worked hard to get many good Conservatives elected in Florida,\" the former president said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/florida/story/2021/05/11/trump-endorses-florida-senate-president-simpson-for-agriculture-commissioner-1381379",
+      "originalUrl": "https://www.politico.com/states/florida/story/2021/05/11/trump-endorses-florida-senate-president-simpson-for-agriculture-commissioner-1381379",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/95/ac/7f66be1541e29a09699304d68144/ap21061728747528-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-11T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-biden-says-he-expects-a-more-aggressive-effort-to-relax-cdc-guidance-for-fully-vaccinated-people.md",
       "title": "Biden says he expects ‘a more aggressive effort’ to relax CDC guidance for fully vaccinated people",
       "excerpt": "President Biden predicted \"a more aggressive effort\" within his administration to increase the \"desire\" to get vaccinated by relaxing the Centers for Disease Control and Prevention's guidance on what fully vaccinated people can do safely. ",
@@ -1288,58 +1345,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-09-trump-presidency-worst-four-years-ever-for-gop-says-republican-gov-larry-hogan.md",
-      "title": "Trump Presidency 'Worst Four Years' Ever for GOP, Says Republican Gov. Larry Hogan",
-      "excerpt": "Maryland Governor Larry Hogan, a Republican, slammed former President Donald Trump's tenure in the White House, describing it as the \"worst four years\" the GOP has \"ever\" experienced. Despite being a Republican,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-presidency-worst-four-years-ever-gop-says-republican-gov-larry-hogan-1589888",
-      "originalUrl": "https://www.newsweek.com/trump-presidency-worst-four-years-ever-gop-says-republican-gov-larry-hogan-1589888",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1791741/larry-hogan.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-presidency-worst-four-years-ever-gop-says-republican-gov-larry-hogan-1589888?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-presidency-worst-four-years-ever-gop-says-republican-gov-larry-hogan-1589888?amp=1",
-      "publishedDateTime": "2021-05-09T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

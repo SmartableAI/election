@@ -1660,6 +1660,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Joe Biden pitches big government as antidote to crises"
+    excerpt: "Forty years ago, a newly elected American president declared government the source of many of the nation’s problems, reshaping the parameters of U.S. politics for decades to come. On Wednesday night,"
+    publishedDateTime: 2021-05-01T18:23:00Z
+    webUrl: "https://floridapolitics.com/archives/425975-joe-biden-pitches-big-government-as-antidote-to-crises/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/05/biden.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Adviser suggests Joe Biden still wears mask outside out of habit"
     excerpt: "The CDC now says fully vaccinated individuals don’t need to cover their faces unless they’re in a large crowd of strangers."
     publishedDateTime: 2021-05-02T22:30:00Z

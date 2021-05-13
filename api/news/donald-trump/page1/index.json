@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-13-10-things-in-politics-anti-trump-republicans-threaten-spinoff-3rd-party.md",
+      "title": "10 Things in Politics: Anti-Trump Republicans threaten spinoff 3rd party",
+      "excerpt": "And the Colonial pipeline is slowly restarting operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/10-things-in-politics-trump-liz-cheney-gop-third-party",
+      "originalUrl": "https://www.businessinsider.com/10-things-in-politics-trump-liz-cheney-gop-third-party",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/609cdfe9070a690018af4f9a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/10-things-in-politics-trump-liz-cheney-gop-third-party?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-liz-cheney-gop-third-party?amp",
+      "publishedDateTime": "2021-05-13T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-key-trump-officials-face-congress-with-capitol-riot-response-under-scrutiny.md",
       "title": "Key Trump officials face Congress with Capitol riot response under scrutiny",
       "excerpt": "Wednesday’s House Oversight Committee hearing marks the first time former acting defense secretary Christopher Miller and former acting attorney general Jeffrey Rosen will speak to lawmakers about their preparations for and response to the attack on Congress.",
@@ -1219,7 +1271,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2410,
+      "heat": 2430,
       "tags": null,
       "images": [
         {
@@ -1491,58 +1543,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-trump-is-fixated-and-talks-constantly-about-arizona-election-recount-allies-say.md",
-      "title": "Trump is 'fixated' and talks 'constantly' about Arizona election recount, allies say",
-      "excerpt": "Trump asks aides multiple times a day about the vote recount that is currently underway in Maricopa County, according to The Washington Post.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/608d156434af8d001859a6a3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5?amp",
-      "publishedDateTime": "2021-05-01T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

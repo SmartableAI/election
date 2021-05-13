@@ -319,6 +319,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Joe Biden's Four-Decade Long Romance With Iran"
+    excerpt: "Biden has remained hopeful that the U.S. and Iran could find some common ground. Now might really be the last chance."
+    publishedDateTime: 2021-05-09T11:46:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/09/joe_bidens_four-decade_long_romance_with_iran_542414.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/542363_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "I7ZWG6DL+xi6a/PikQ52DWIF+SNPKl3AirfNigPxoi9JMIWxT8C5rPyR5RUueaAroWRWtFHvXTFBGXAIeINBPPOjAf4JMkesV5hIWRGsyOZypTU2LTUjKpt+c/KEqIEvIKCq6BxP0voVb98ughnjOTQq69b/41HjqIwuFfq8QVA475UMQyUaxO2Ed9ol2oOoUXewzNPhrbsBXpog2GAWZcC5clEoAC4AU7Iu9iSXG3GQmhyzQZKGMYAG/WP+RLnU2XST+tHrYquR11ibfFOaeyi/qL1qGPRV32Dn7sjDDM47GRIY+ao+DfnE04Wiq7o9Lsj0CYLGoDlqYSDbt9c1U7lC0tpC2c7KKucYmTnXUcs=;kk1zMLcDMs5pwVTTimm2/Q=="
 ---
