@@ -77,6 +77,22 @@ related:
         width: 812
         height: 545
         isCached: true
+  - title: "Biden inauguration priest resigns California university post"
+    excerpt: "The Jesuit priest who presided over an inaugural Mass for President Joe Biden has resigned his position as president of Santa Clara University in Northern California after an investigation found he engaged in inappropriate,"
+    publishedDateTime: 2021-05-13T20:44:00Z
+    webUrl: "https://www.washingtonpost.com/national/biden-inauguration-priest-resigns-california-university-post/2021/05/13/30a60014-b41e-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/biden-inauguration-priest-resigns-california-university-post/2021/05/13/30a60014-b41e-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/biden-inauguration-priest-resigns-california-university-post/2021/05/13/30a60014-b41e-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3T2OTFUDMI6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 820
+        isCached: true
   - title: "Jill Biden offers encouragement to 'strong and resilient' moms after a 'challenging' year"
     excerpt: "First lady Jill Biden honored the role \"strong and resilient\" mothers play in taking care of their families after a \"challenging\" year of COVID-19."
     publishedDateTime: 2021-05-09T15:24:00Z

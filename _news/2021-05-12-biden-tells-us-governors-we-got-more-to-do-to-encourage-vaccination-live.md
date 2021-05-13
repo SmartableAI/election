@@ -383,6 +383,22 @@ related:
         width: 1440
         height: 928
         isCached: true
+  - title: "Senate GOP to give Biden infrastructure counteroffer next week"
+    excerpt: "Senate Republicans will give President Biden a revised infrastructure offer next week after a sit down at the White House on Thursday."
+    publishedDateTime: 2021-05-13T20:40:00Z
+    webUrl: "https://thehill.com/homenews/senate/553439-senate-gop-to-give-biden-infrastructure-counteroffer-next-week"
+    ampWebUrl: "https://thehill.com/homenews/senate/553439-senate-gop-to-give-biden-infrastructure-counteroffer-next-week?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/553439-senate-gop-to-give-biden-infrastructure-counteroffer-next-week?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidencapito_05132021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Cheney's views on Trump puts her GOP post in peril"
     excerpt: "No. 3 House Republican Liz Cheney was clinging to her post Wednesday as party leaders lined up behind an heir apparent, signaling that fallout over her clashes with former President Donald Trump was becoming too much for her to overcome."
     publishedDateTime: 2021-05-06T01:45:00Z

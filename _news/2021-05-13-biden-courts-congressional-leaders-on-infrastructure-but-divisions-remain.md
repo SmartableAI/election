@@ -320,6 +320,38 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden keeps hope alive in infrastructure talks with GOP"
+    excerpt: "Senate Republican negotiators plan to deliver an updated spending proposal focused on traditional infrastructure to Biden soon."
+    publishedDateTime: 2021-05-13T21:20:00Z
+    webUrl: "https://www.politico.com/news/2021/05/13/biden-infrastructure-talks-gop-488149"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/05/13/biden-infrastructure-talks-gop-488149"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/13/biden-infrastructure-talks-gop-488149"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/6b/79/ed63bdbc414ca30f970233bf9949/210513-biden-capito-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Live Updates: Biden Says Colonial Pipeline Is Nearing Full Capacity After Hack"
+    excerpt: "President Biden addressed the political, economic and technological perils of the cyberattack, which prompted panic buying and gas shortages on the East Coast. Mr. Biden will meet with Republicans about his $4 trillion infrastructure plan."
+    publishedDateTime: 2021-05-13T15:58:00Z
+    webUrl: "https://www.nytimes.com/live/2021/05/13/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/05/13/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/05/13/us/joe-biden-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/13/us/13new-washington-briefing-biden-colonial/13new-washington-briefing-biden-colonial-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden wants trillions for infrastructure, but a big hurdle will remain: Spending the cash"
     excerpt: "Progressives are optimistic that the administration learned from the struggles of the 2009 stimulus and will be able to move faster."
     publishedDateTime: 2021-05-08T17:39:00Z

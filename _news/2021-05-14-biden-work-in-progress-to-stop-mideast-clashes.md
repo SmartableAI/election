@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/13/biden-work-
 webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/13/biden-work-progress-stop-mideast-clashes/5076433001/"
 type: article
 quality: 105
-heat: 105
+heat: 125
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     height: 1080
     isCached: true
 
-secured: "bKRlkyM/sTiDBm//IX8NDGgFMrXnJG5fRgzrtmJucspycMnZSaRi0EzUt7A2ovFY/qtACVLfhJ2FVMu1tSspZLEMdxFACkk4j2S3Ty05eeSoI9wmxvMERwwAKN5E2UN1rADkX4TWwKOLWSswpY2cQcQcBQ2QGxoyWf6yj+c3NiroGD2s0cmgvweY96z2cBtgl+wtejkgF7XqkhgZ4cjbMzZvAM8BH5rhhXqzGtTpQYEbaN4N/ugFg1sIWSpLOvkgbdnZnTWIV9k2mTd28Bwk0VymKoVLlwQwBNMlDfT9ocJ19OKIsKl0Yi/NcQ2272PKS4/tP6c6kXz6qmkoEp4gdVeiilBOmJRWBDgJI1zVM5Y=;EkYGZ8mA+ytP9k+/snJP3Q=="
+related:
+  - title: "At least 15 Republican-led states ending increased unemployment benefits as President Biden says people must take \"suitable work\""
+    excerpt: "A growing number of GOP governors have said they will end increased unemployment insurance benefits, citing workforce shortages."
+    publishedDateTime: 2021-05-13T20:48:00Z
+    webUrl: "https://www.cbsnews.com/news/unemployment-benefits-states-end-federal-aid/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/unemployment-benefits-states-end-federal-aid/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/unemployment-benefits-states-end-federal-aid/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 96
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/08/2ff7afae-77a6-419f-a3e1-1a9c5e039087/thumbnail/1200x630/7158e56014971c41de1a8fe73543f37a/cbsn-fusion-eye-opener-biden-defends-dissapointing-jobs-report-numbers-thumbnail-710791-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "zXgGXxHZmNDUcnZWtOTOZ3GTqXpQHqfd2HxWYmr8iOl2REEdbZs1t3AQiRl+K/fp9JgULDCJQX4u3y2gl4OR5PzFMy4yhA1Kv4PXxUABdxrzfsnDvGEdqVN2M3WYaFHiAWCa6KB3p0lmJDvfAuHVE3TS2Em8w6//1I4m8WK1wUtSpIkkbrguohwyy6xRhvqs8+Y2cTTwEzzghsMYzBA4iA41nWK6H+xeIt/KI70fW4Ibi92NGAOMFenVC+SCnONEGBUaJTgyG82qES5EmnQSpv/Xl0tOelNyu2bg5r9ryccjxyI6qZW2NDx0ZiTtgSaBu7dxFCyge7ZXmqYs+MwMmOdJpWWKj+t/rXOPpxr0i7WQKgSOGKottGq5bLKjclxhoeHeYRBZFMNJnMlCMXFJj/JfBBwRsAcCt6u9std/OWniGwqud11L4fCMx72Ko8bAAGDwgzJ0rl7D7uUNlElSiY2W6F9MA/ezaqDuBOLm4mNdP5Hus3HuNGkv81BMSjpX3OyLJck92+WhoUBVOt6iRw==;SXwKEl27K9xNNPTZH+qkVQ=="
 ---
 

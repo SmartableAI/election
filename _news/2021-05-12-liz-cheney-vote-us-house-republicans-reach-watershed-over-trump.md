@@ -341,6 +341,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "It doesn’t pay to be a congressional Republican opposing Trump"
+    excerpt: "Republicans in Congress who oppose Donald Trump are usually consigned to the same fate: a quick end to their political careers."
+    publishedDateTime: 2021-05-13T21:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/05/13/it-doesnt-pay-be-congressional-republican-opposing-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/13/it-doesnt-pay-be-congressional-republican-opposing-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/13/it-doesnt-pay-be-congressional-republican-opposing-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-05-2021/t_6e6aa7299f37465bbc39b48610f4cb6e_name_20210420_BillOLeary02_wapo_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "The crucial thing Liz Cheney’s GOP critics don’t say: She’s wrong about Trump"
     excerpt: "Liz Cheney (Wyo.) may not be long for House GOP leadership. After a failed attempt to oust the No. 3 GOP official following her vote to impeach President Donald Trump, the movement has again built steam following Cheney’s increasing efforts to distance her party from Trump and his false claims about a stolen 2020 election."
     publishedDateTime: 2021-05-04T15:49:00Z

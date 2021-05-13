@@ -349,6 +349,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "It doesn’t pay to be a congressional Republican opposing Trump"
+    excerpt: "Republicans in Congress who oppose Donald Trump are usually consigned to the same fate: a quick end to their political careers."
+    publishedDateTime: 2021-05-13T21:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/05/13/it-doesnt-pay-be-congressional-republican-opposing-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/13/it-doesnt-pay-be-congressional-republican-opposing-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/13/it-doesnt-pay-be-congressional-republican-opposing-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-05-2021/t_6e6aa7299f37465bbc39b48610f4cb6e_name_20210420_BillOLeary02_wapo_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "House GOP leader Kevin McCarthy amps up pressure on Liz Cheney over Donald Trump barbs"
     excerpt: "Kevin McCarthy has planted himself on the side of Liz Cheney's critics, raising the question of her fitness to lead House Republicans."
     publishedDateTime: 2021-05-04T16:35:00Z

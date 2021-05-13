@@ -367,6 +367,22 @@ related:
         width: 1440
         height: 928
         isCached: true
+  - title: "Senate GOP to give Biden infrastructure counteroffer next week"
+    excerpt: "Senate Republicans will give President Biden a revised infrastructure offer next week after a sit down at the White House on Thursday."
+    publishedDateTime: 2021-05-13T20:40:00Z
+    webUrl: "https://thehill.com/homenews/senate/553439-senate-gop-to-give-biden-infrastructure-counteroffer-next-week"
+    ampWebUrl: "https://thehill.com/homenews/senate/553439-senate-gop-to-give-biden-infrastructure-counteroffer-next-week?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/553439-senate-gop-to-give-biden-infrastructure-counteroffer-next-week?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidencapito_05132021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden tells US governors ‘we got more to do’ to encourage vaccination – live"
     excerpt: "Biden outlines steps officials are taking to get the message on vaccines across – follow the latest politics news live"
     publishedDateTime: 2021-05-11T17:40:00Z

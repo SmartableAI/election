@@ -31,10 +31,10 @@ images:
 related:
   - title: "Back to square one? Trump decision still weighs on Facebook"
     excerpt: "Suppose you were Mark Zuckerberg, ordered by an advisory board to decide how long former President Donald Trump should stay banned from Facebook"
-    publishedDateTime: 2021-05-13T14:36:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/back-square-trump-decision-weighs-facebook-77666726"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/back-square-trump-decision-weighs-facebook-77666726"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/back-square-trump-decision-weighs-facebook-77666726"
+    publishedDateTime: 2021-05-13T14:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/back-square-trump-decision-weighs-facebook-77666725"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/back-square-trump-decision-weighs-facebook-77666725"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/back-square-trump-decision-weighs-facebook-77666725"
     type: article
     provider:
       name: ABC

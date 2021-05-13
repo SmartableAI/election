@@ -2,11 +2,11 @@
 category: news
 title: "Back to square one? Trump decision still weighs on Facebook"
 excerpt: "Suppose you were Mark Zuckerberg, ordered by an advisory board to decide how long former President Donald Trump should stay banned from Facebook"
-publishedDateTime: 2021-05-13T14:36:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/back-square-trump-decision-weighs-facebook-77666726"
-webUrl: "https://abcnews.go.com/Business/wireStory/back-square-trump-decision-weighs-facebook-77666726"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/back-square-trump-decision-weighs-facebook-77666726"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/back-square-trump-decision-weighs-facebook-77666726"
+publishedDateTime: 2021-05-13T14:35:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/back-square-trump-decision-weighs-facebook-77666725"
+webUrl: "https://abcnews.go.com/Politics/wireStory/back-square-trump-decision-weighs-facebook-77666725"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/back-square-trump-decision-weighs-facebook-77666725"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/back-square-trump-decision-weighs-facebook-77666725"
 type: article
 quality: 125
 heat: 165
@@ -55,6 +55,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "A47X8sNzwlG4U1T7S9LqFBR772v9JwMAaK+P2h33eKNzEwXCD4dKROaSsxqYmBQdHgDC1Cpe9WHUsq2CRae7Bo0siZRoWW7GR5oCtQc4ntMefFmJhCZotWT0O7pz+zNQ6uEBtqPoupmVg46GTJrUzby+/ht+QFeqqHp/b4BqqC6Q1b4ne9Knj/fXPlFq83bZqM8bgEGmb0S7i+GpxftlqVl+eNNofhC1Rm2SxwoBuQoZkCCO0OzBX5SERCAgliA1qzTShn/2lP9oI4mRCOvs+C5CdWjljpoi1rYQSWYO71emnalgD2jcmKZyt3Gn9vMxaWPvKo58nmodUnDOrWUr0vjiLhQb3x1Y1Bp+uXDsYJ0=;4N5jJSMo12Oli+9e302QBQ=="
+secured: "SeOqa6ho36j3l7AV8JMqenoWCyON6bh3l637lhQkcIWI6YSJj2Junm8aJi29ad3OMqGgxoPbscMbX1CqgYXzJCUzKqS2uGqSIUI6C5ZuRCBxfxz3am+iuEvMiM4tkLgfGbKMl5DEPAErXuyDkEfFCbJ5tWSHipShJeNzDUStXdxsd8v6ut5X6/gcDcT8TDrDiGIXSNQKWBX9zM0gmipeDkfAajIM6XeZel4WmuUZVo13Bg4ZjPJF6SOM0SP+OFDwkYixyVsxJmtJcarcYOXePmV2eraOfgqhr9EsZz/7UK3bUf7wJqVl8RgLsF38+nveYRfgjCIRqp080sitHfr3UC0JNfRLHWANjhLnpmwwSEc=;vdsToIlSahbsB49vDIWcIw=="
 ---
 

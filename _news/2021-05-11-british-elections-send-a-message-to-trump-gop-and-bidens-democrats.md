@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/british-elections-send-a-mes
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 915
+heat: 935
 published: true
 
 provider:
@@ -366,6 +366,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R3BRTEFSRQI6XPEW7X2V3ZB354.jpg&w=1440"
         width: 1440
         height: 928
+        isCached: true
+  - title: "Senate GOP to give Biden infrastructure counteroffer next week"
+    excerpt: "Senate Republicans will give President Biden a revised infrastructure offer next week after a sit down at the White House on Thursday."
+    publishedDateTime: 2021-05-13T20:40:00Z
+    webUrl: "https://thehill.com/homenews/senate/553439-senate-gop-to-give-biden-infrastructure-counteroffer-next-week"
+    ampWebUrl: "https://thehill.com/homenews/senate/553439-senate-gop-to-give-biden-infrastructure-counteroffer-next-week?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/553439-senate-gop-to-give-biden-infrastructure-counteroffer-next-week?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidencapito_05132021getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden tells US governors ‘we got more to do’ to encourage vaccination – live"
     excerpt: "Biden outlines steps officials are taking to get the message on vaccines across – follow the latest politics news live"
