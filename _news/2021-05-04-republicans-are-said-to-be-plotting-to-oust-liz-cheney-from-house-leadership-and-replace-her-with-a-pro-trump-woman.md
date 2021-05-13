@@ -485,6 +485,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "House Republicans oust Cheney from leadership as she vows to stop Trump"
+    excerpt: "House Republicans voted Wednesday to remove Wyoming Rep. Liz Cheney from her House GOP leadership position following her criticism of former President Donald Trump and his continu"
+    publishedDateTime: 2021-05-12T20:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/liz-cheney-live-updates/?id=77642191"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/cheney-rt-3-rc-210512_1620826693011_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "Rep. Liz Cheney Lashes Out at Trump Supporters Ahead of Likely Ouster From GOP Leadership"
     excerpt: "A combative Rep. Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, taking to the House floor on the eve of her near-certain ouster from a leadership post to warn that former President Donald Trump and his GOP supporters are threatening to “undermine our democracy."
     publishedDateTime: 2021-05-12T03:21:00Z
@@ -642,6 +656,20 @@ related:
     excerpt: "Wednesday's vote by House Republicans over ousting anti-Trump conservative Liz Cheney from her leadership role will almost certainly confirm that the party out of power in Washington is casting its lot with the former US president."
     publishedDateTime: 2021-05-12T02:38:00Z
     webUrl: "https://www.ibtimes.com/republicans-set-oust-trump-critic-cheney-leadership-3197094"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/11/number-three-us-house-republican-liz-cheney-r.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Republicans Oust Trump Critic Cheney From Leadership"
+    excerpt: "US House Republicans on Wednesday ousted conservative Liz Cheney, a fierce critic of Donald Trump, from her powerful leadership role in a move that tightens the former president's grip on the party. Eighteen months before crucial midterms and three years before the next presidential race,"
+    publishedDateTime: 2021-05-12T22:38:00Z
+    webUrl: "https://www.ibtimes.com/republicans-oust-trump-critic-cheney-leadership-3197094"
     type: article
     provider:
       name: International Business Times

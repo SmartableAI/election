@@ -2,6 +2,174 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-12-biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets.md",
+      "title": "Biden calls Netanyahu, says Israel ‘has right to defend itself’ against Hamas rockets",
+      "excerpt": "President Biden on Wednesday spoke with Prime Minister Benjamin Netanyahu to reaffirm U.S. support for Israel after a night of bloodshed with civilians in Tel Aviv sheltering from Hamas rockets.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1WWZ0vwbFK8/biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1WWZ0vwbFK8/biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b23813c0-263f-4ba0-bb51-bcdefd534333/bbd01931-98bc-45cb-ac58-22600b835035/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets.amp",
+      "publishedDateTime": "2021-05-12T16:35:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-former-acting-defense-secretary-christopher-miller-walks-back-trump-blame-for-jan-6-riots.md",
+      "title": "Former acting Defense Secretary Christopher Miller walks back Trump blame for Jan. 6 riots",
+      "excerpt": "Former acting Secretary of Defense Christopher Miller said Tuesday during a hearing on the Jan. 6 riot he’d “reassessed” his previous evaluation that former President Trump’s speech that day had led to his supporters storming the Capitol.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FnofpdG39B8/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FnofpdG39B8/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/720/405/gettyimages-Christopher-miller.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots.amp",
+      "publishedDateTime": "2021-05-12T15:10:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-trump-mocks-comparisons-of-biden-to-jimmy-carter-the-current-president-is-worse.md",
+      "title": "Trump mocks comparisons of Biden to Jimmy Carter: The current president is worse",
+      "excerpt": "In a statement Wednesday, Donald Trump refuted a tweet issued by his son Donald Trump Jr. that claimed President Biden was “the next Jimmy Carter,” in an apparent slight last week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZDuOfEb2P88/trump-refutes-comparison-of-carter-presidency-to-biden-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZDuOfEb2P88/trump-refutes-comparison-of-carter-presidency-to-biden-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26e1be5f-4597-488c-bda1-97eb4a713daf/15b5b68a-7a61-4af3-9521-8b1cb29e3ec7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp",
+      "publishedDateTime": "2021-05-12T15:04:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-biden-doesnt-believe-there-is-any-significant-portion-of-americans-who-wont-get-vaccinated.md",
       "title": "Biden doesn't believe there is ‘any significant portion' of Americans who won't get vaccinated",
       "excerpt": "President Biden seemed optimistic that his administration would reach its goal of having 70 percent of Americans vaccinated by July 4, saying that he doesn’t believe there is “any significant portion” of Americans who refuse to get vaccinated.",
@@ -283,119 +451,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-12-gen-keane-biden-must-call-out-hamas-terror-attacks-on-israel-without-equivocation.md",
-      "title": "Gen. Keane: Biden must call out Hamas terror attacks on Israel 'without equivocation'",
-      "excerpt": "Fox News Senior Strategic Analyst Gen. Jack Keane said on Wednesday that the Biden administration “must call out Hamas as a terrorist without equivocation.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IvCc7R5rQvE/biden-must-call-out-hamas-as-terrorists-without-equivocation-gen-jack-keane",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IvCc7R5rQvE/biden-must-call-out-hamas-as-terrorists-without-equivocation-gen-jack-keane",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-must-call-out-hamas-as-terrorists-without-equivocation-gen-jack-keane.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-must-call-out-hamas-as-terrorists-without-equivocation-gen-jack-keane.amp",
-      "publishedDateTime": "2021-05-12T12:12:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-trump-administration-officials-defend-security-response-to-jan-6-capitol-riot.md",
-      "title": "Trump Administration Officials Defend Security Response to Jan. 6 Capitol Riot",
-      "excerpt": "Former acting defense secretary tells congressional panel that the military’s response was proper when the pro-Trump mob sought to prevent Congress from certifying President Biden’s election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463",
-      "originalUrl": "https://www.wsj.com/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-337338?width=620&size=1.5",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463",
-      "publishedDateTime": "2021-05-12T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-12-democrat-del-rio-texas-mayor-biden-admin-telling-me-border-is-under-control.md",
       "title": "Democrat Del Rio, Texas mayor: Biden admin telling me border is 'under control'",
       "excerpt": "The Democratic mayor of Del Rio, Texas said Wednesday that he believes that the U.S. southern border is “wide open” for illegal immigrants, despite insistence from the Biden administration claiming the opposite.",
@@ -624,7 +679,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -894,54 +949,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-10-trump-leaves-florida-for-summer-in-new-jersey-after-mothers-day-brunch-report.md",
-      "title": "Trump leaves Florida for summer in New Jersey after Mother’s Day brunch: report",
-      "excerpt": "Former President Donald Trump spent Mother’s Day having brunch with wife Melania and son Barron, before jetting out to spend the summer in New Jersey, according to a report.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/10/trump-reportedly-leaves-florida-for-summer-in-new-jersey/",
-      "originalUrl": "https://nypost.com/2021/05/10/trump-reportedly-leaves-florida-for-summer-in-new-jersey/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/donald-trump-bedminister-golf-30-1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/10/trump-reportedly-leaves-florida-for-summer-in-new-jersey/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/10/trump-reportedly-leaves-florida-for-summer-in-new-jersey/amp/",
-      "publishedDateTime": "2021-05-10T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-10-trump-calls-medina-spirit-a-junky-after-horse-tests-positive-for-betamethasone.md",
       "title": "Trump calls Medina Spirit a ‘junky’ after horse tests positive for betamethasone",
       "excerpt": "Former President Donald Trump called Medina Spirit a “junky” on Sunday, after the Kentucky Derby winner’s trainer revealed the horse tested positive for an illegal",
@@ -1002,7 +1009,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 207,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -1171,7 +1178,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 655,
+      "heat": 535,
       "tags": null,
       "images": [
         {

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/joe-biden-liz-cheney/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/joe-biden-liz-cheney/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506155226-01-joe-biden-speech-louisiana-0506-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Live Updates: Little Progress in Biden Meeting With Republicans on Infrastructure"
+    excerpt: "G.O.P. leaders said that they remained at odds with the president about how to define infrastructure spending. House Republicans voted to remove Representative Liz Cheney from a leadership post for her continued repudiation of former President Donald J."
+    publishedDateTime: 2021-05-12T17:50:00Z
+    webUrl: "https://www.nytimes.com/live/2021/05/12/us/liz-cheney-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2021/05/12/us/liz-cheney-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/05/12/us/liz-cheney-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/12/lens/12new-washington-briefing-gop-header-promo2/12new-washington-briefing-gop-header-promo2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "8zXb6WdeNOIlSXXc/R2tOuNl/1CaVTE/htFSLdjRNbPTOH4N79aDAg5vLcKxu+ZPEuQ5btS7uxSX33415wb3JBO0V6q3aERCa0/G4GbMWgQmdNpIu8NFPmbhxadMBQHmY5D+xto8Qzi7p/HdxQnfqjb3hwjqnUcfn8Bf/HI2BMf5S92SIcZHF4UFblkb1lGChyEsqmONW/abxk1vwatOJWkDHIc7QJDJC2fRuyOfZNOIvg0GxBHny557ABn+8uLxOz5Pd7TPVCKciRuPUfm1+RX6A6gV0YIaUbvFTbPzyzpWn+2tj6lgPIQErBE80B2/sM/+pam8+Clbfu23F7LXEHTkLjK3I7OvmNtAkH2srxU=;0WuyDnaw04tXj6subsCmng=="

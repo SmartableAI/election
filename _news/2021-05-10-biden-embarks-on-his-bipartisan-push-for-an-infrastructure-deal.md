@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html"
 type: article
 quality: 175
-heat: 555
+heat: 575
 published: true
 
 provider:
@@ -286,6 +286,22 @@ related:
       - url: "https://static.politico.com/03/0d/0e3047244250bd6959ed70bbaa5a/20210508-biden-obama-iran-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden Courts Congressional Leaders on Infrastructure, but Divisions Remain"
+    excerpt: "The meeting produced little progress, underscoring the political challenge for President Biden as he seeks to exploit the narrowest of majorities in Congress to revive the country’s economy."
+    publishedDateTime: 2021-05-12T22:18:00Z
+    webUrl: "https://www.nytimes.com/2021/05/12/us/politics/biden-congress-infrastructure.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/12/us/politics/biden-congress-infrastructure.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/12/us/politics/biden-congress-infrastructure.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/12/us/politics/12dc-biden1/12dc-biden1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden wants trillions for infrastructure, but a big hurdle will remain: Spending the cash"
     excerpt: "Progressives are optimistic that the administration learned from the struggles of the 2009 stimulus and will be able to move faster."

@@ -28,21 +28,145 @@ images:
     isCached: true
 
 related:
-  - title: "Mike Pompeo: Biden's stance on Israel and Iran 'emboldens terrorists'"
-    excerpt: "Former Secretary of State Mike Pompeo tore into President Biden's foreign policy regarding Israel and Iran, saying its stance on the long-standing disputes in the region \"emboldens terrorists.\""
-    publishedDateTime: 2021-05-11T20:01:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qVVZjpj4_Q/pompeo-biden-israel-hamas-iran-terrorists"
-    ampWebUrl: "https://www.foxnews.com/politics/pompeo-biden-israel-hamas-iran-terrorists.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-israel-hamas-iran-terrorists.amp"
+  - title: "Trump mocks comparisons of Biden to Jimmy Carter: The current president is worse"
+    excerpt: "In a statement Wednesday, Donald Trump refuted a tweet issued by his son Donald Trump Jr. that claimed President Biden was “the next Jimmy Carter,” in an apparent slight last week."
+    publishedDateTime: 2021-05-12T22:04:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZDuOfEb2P88/trump-refutes-comparison-of-carter-presidency-to-biden-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26e1be5f-4597-488c-bda1-97eb4a713daf/15b5b68a-7a61-4af3-9521-8b1cb29e3ec7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden to have medical exam later this year, White House says"
+    excerpt: "The White House on Tuesday said President Biden is set to have a medical check up later this year, and the Biden administration will release the results of his exam to the public. "
+    publishedDateTime: 2021-05-11T14:34:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v30SfRtbrkY/biden-to-have-medical-exam-later-this-year-white-house-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-have-medical-exam-later-this-year-white-house-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-have-medical-exam-later-this-year-white-house-says.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae7a3b50-1eb5-4eb1-88c0-cb7eb37bbcb2/ef1326cd-9d60-4c6f-a38a-ac991775de88/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Battered Biden under siege as crises confound the White House"
+    excerpt: "The jobs figures were just the first in a series of out-of-nowhere body blows President Biden was to be pilloried with during a remarkable five days of bad developments that stretched from Israel to the Mexican border and up the East Coast via the Colonial Pipeline."
+    publishedDateTime: 2021-05-12T10:16:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EcXFFsKsT5E/biden-israel-mexican-border-colonial-pipeline"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-israel-mexican-border-colonial-pipeline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-mexican-border-colonial-pipeline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a4dd761-73cd-4ab5-b8ba-68c66060f1ba/ecb9432b-0faa-4fe7-872e-9b213feb4d61/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "'Really scary' to see gas shortages in first months of Biden admin: Lara Trump"
+    excerpt: "Fox News contributor Lara Trump sounded the alarm on America's energy independence under the Biden administration, Wednesday, telling \"Fox & Friends\" that the Colonial Pipeline cyberattack and resulting panic at the pump is \"really scary."
+    publishedDateTime: 2021-05-12T15:14:00Z
+    webUrl: "https://www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump"
+    ampWebUrl: "https://www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Memorial Day: Biden faces growing pressure to let veterans use Pentagon parking lot for event"
+    excerpt: "Fla., and more than 30 other Republican members of Congress are pressuring President Biden to override the Pentagon's decision to block a veterans group from staging a Memorial Day motorcycle rally in the Pentagon parking lot."
+    publishedDateTime: 2021-05-11T10:10:00Z
+    webUrl: "https://www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast"
+    ampWebUrl: "https://www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd13b987-cc4d-4d34-8e55-2c8c4876c6b6/b48fab23-52b1-4171-b8b8-768569b6af89/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Joe Biden, Economy Killer"
+    excerpt: "Along with a working vaccine, Joe Biden inherited a V-shaped economic recovery, but he is now planting the seeds of its destruction. Inflation,"
+    publishedDateTime: 2021-05-07T10:34:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/07/joe_biden_economy_killer_145718.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/07/joe_biden_economy_killer_145718.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/07/joe_biden_economy_killer_145718.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/542606_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden Sets Everything on Fire"
+    excerpt: "Joe Biden is the luckiest man to ever assume the presidency. He succeeded an unpopular figure. He was inaugurated just two weeks after the dramatic storming"
+    publishedDateTime: 2021-05-12T10:00:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/543021_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Jen Psaki Says the Quiet Part Out Loud About Joe Biden"
+    excerpt: "Jen Psaki made a stunning admission in a patently flippant way last week during a conversation with CNN's David Axelrod. The White House press secretary openly admitted that President Biden's handlers often tell him they prefer he not speak to reporters outside of controlled settings."
+    publishedDateTime: 2021-05-10T18:57:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/10/jen_psaki_says_the_quiet_part_out_loud_about_joe_biden_542486.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/542871_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden's Progressive Policies Are Making Lives Better"
+    excerpt: "Joe Biden's approval numbers are stunning, with 63% of Americans saying in a new poll that they approve of the job he's doing, writes Jill Filipovic. The President draws this while not making any big rhetorical waves but carefully guiding a progressive policy agenda aimed squarely at making people's lives better as quickly and efficiently as possible."
+    publishedDateTime: 2021-05-12T11:35:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/12/bidens_progressive_policies_are_making_lives_better_542609.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/542677_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "9md8IIivJuSPJxCohpdIQg91GB2fpk5O5HiH7+ufeyBxhxSwe9CvJIZ/GAWWtZEv3WpmPE3eJAMqv9NKqb2KkalmvAVRlEOPlt5JxqPygMamMJsSbsOYPPtOlgWywHUb2lwoD6yksOJr+VQLnHWIQF9gjjMXZ51WEXou8gpETQ8Bh74+LMYaIIlikdtz5WcJ/noXAZzsrAKAQp1MbmvbGFM5SDZq8HXUxVBLzS+rOey1OdEcWjbuqE37ugUcb43lZCaxQXwFRpx7RQ9ZJg5r9RZlO4M5sa7WS3aits1HdixOEzUkOYAEE422YVXxwMKXu79o34QaiQEdhNR6hsqtvsvOD/5i4Bg6UBl1ljrY70E=;YhjQqmFpB2I3V+JvrkP75w=="

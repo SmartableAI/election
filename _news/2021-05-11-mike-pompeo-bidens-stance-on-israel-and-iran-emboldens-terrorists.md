@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pompeo-biden-israel-hamas-iran-terr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-israel-hamas-iran-terrorists.amp"
 type: article
 quality: 175
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "Trump likens Biden to Carter, citing gas crisis and Israel-Palestinian conflict"
-    excerpt: "Former President Donald Trump is comparing President Biden to Former President Jimmy Carter due to the recent gas shortage and tensions between Israel and Palestine."
-    publishedDateTime: 2021-05-12T21:20:00Z
-    webUrl: "https://nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/"
-    ampWebUrl: "https://nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 146
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-carter-biden.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "yigxr149VGH1JLYmdJTysRqV37WJOf8geb1I41dSFz9y4bGlVGRzJ4yJdNUYywWjW/Jqjr0OddV8xuVaeX/zg3ueT8cwwUWFpmOAI4ma5NM605ul+ZHCz7tvqf5zggQcof9T1I3ke/hKuJZGp5vZb2qfC08DToM8UOCVxsZguWkZ4i4JYbV85PFyl7wDTcW4xusBPvNZZENNGRxQmh7ZsHb4ztvgpRrPl6nEp0SmTRAh/CXlMQIJSFs6k6Cwqw16F1Nv94hEzAo/QypzudkhPfcVp0f35S0znKeN+26VKsNu0bPpBZiyG3MDTDtIzND22OAYYSb/c3x2SbaiJ4MMMKJBseJz77LGX/DUEomdlVw=;Bat/25e3Cp6taRZAC9F/4g=="
 ---

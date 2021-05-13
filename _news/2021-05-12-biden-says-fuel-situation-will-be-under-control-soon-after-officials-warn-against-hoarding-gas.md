@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/biden-officials-warn-hoa
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/biden-officials-warn-hoarding-gasoline/index.html"
 type: article
 quality: 162
-heat: 162
+heat: 182
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Biden signs cybersecurity executive order, though rules wouldn't have applied to Colonial Pipeline"
+    excerpt: "President Joe Biden signed an executive order Wednesday meant to better protect the nation from cyberattacks, but even as he signed it, the White House acknowledged more will need to be done to prevent the type of hack that affected the Colonial Pipeline.\n    \n"
+    publishedDateTime: 2021-05-12T22:51:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/12gzgGnLCC0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512155902-04-pipeline-hack-fallout-0512-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "akylL3Lr9+a5PmWK7cVJ/xgAnvhdMQ+9LQzSqk4g1gwq0tXIXpbPAxfz5FjoqBcmWVUz1b2bTdWYX4nx04Zu0JPqT5N9s78US9hSma3OJJMEc4a1PEbrQIPgGyHLtPQdXx2fbE5l9eS2YyGC32uIUzqA5RwdRL5XBRdDKpRoDb+FIxExot4qs7YKGkI/ZAK6EaEgGm7WY6jcKsaiQgQxX8XMRAlW1r29ZDIsrdrpUcnZyEirs0oBYtIsIHkEz+DtrBuoPL28MseYarMkELWdRMZQt2ikUiQzkASd4+uyyw2TUi6MiugQx0UIx8MDd2mloj26TpNjR1O14fjwTq9x7K02oWYtEQvEvFEGnSHNwps=;fdMciAw9j8wmQPBiTHCh1Q=="
 ---

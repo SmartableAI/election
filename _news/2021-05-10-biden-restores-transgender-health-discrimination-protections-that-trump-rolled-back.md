@@ -363,6 +363,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden works to seize a political edge as the GOP faces turmoil"
+    excerpt: "As Republicans oust a top GOP leader for criticizing Trump, Biden seizes the moment to host a series of meetings at the White House for members of both parties on upcoming bills."
+    publishedDateTime: 2021-05-12T21:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-calm-gop-turmoil/2021/05/11/98db7408-b283-11eb-9059-d8176b9e3798_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-calm-gop-turmoil/2021/05/11/98db7408-b283-11eb-9059-d8176b9e3798_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-calm-gop-turmoil/2021/05/11/98db7408-b283-11eb-9059-d8176b9e3798_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R3BRTEFSRQI6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 928
+        isCached: true
   - title: "Biden tells US governors ‘we got more to do’ to encourage vaccination – live"
     excerpt: "Biden outlines steps officials are taking to get the message on vaccines across – follow the latest politics news live"
     publishedDateTime: 2021-05-11T17:40:00Z
@@ -435,6 +451,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden urges kids 12 and above to get vaccinated"
+    excerpt: "President Joe Biden is urging parents to get their kids age 12 and older vaccinated amid news that federal health advisers have now endorsed the use of Pfizer's COVID-19 vaccine in that expanded age group."
+    publishedDateTime: 2021-05-12T22:10:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/12/biden-urges-kids-12-and-above-get-vaccinated/5063965001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/dd6e5cdc-1df7-4e8a-af80-af57e5e6686f_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Ohio GOP censures 10 Republicans who voted to impeach Trump"
     excerpt: "The Ohio Republican Party censured U.S. Rep. Anthony Gonzalez and nine other GOP representatives Friday for voting in February to impeach former President Donald Trump, in a nearly unanimous vote of the powerful central committee."
     publishedDateTime: 2021-05-07T17:17:00Z
@@ -466,6 +496,38 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZXFJ2MYB4JBC5JPNYFZYOPTGVI.jpeg"
         width: 5000
         height: 3333
+        isCached: true
+  - title: "GOP dumps defiant Trump critic Cheney from top House post"
+    excerpt: "Republicans dumped GOP Rep. Liz Cheney from her House leadership post Wednesday for her persistent repudiation of Donald Trump’s election falsehoods, underscoring the hold the defeated and twice-impeached former president retains on his party."
+    publishedDateTime: 2021-05-12T23:37:00Z
+    webUrl: "https://www.chron.com/news/article/House-GOP-set-to-oust-Trump-critic-Liz-Cheney-16170168.php"
+    ampWebUrl: "https://www.chron.com/news/amp/House-GOP-set-to-oust-Trump-critic-Liz-Cheney-16170168.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/House-GOP-set-to-oust-Trump-critic-Liz-Cheney-16170168.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/02/13/20980479/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "100 Republicans threaten to form new party unless GOP separates from Trump"
+    excerpt: "A group of at least 100 Republican former officials is threatening to form a separate party if the GOP does not separate itself from former President Donald Trump, according to multiple media reports."
+    publishedDateTime: 2021-05-12T22:13:00Z
+    webUrl: "https://www.al.com/news/2021/05/100-republicans-threaten-to-form-new-party-unless-gop-separates-from-trump.html"
+    ampWebUrl: "https://www.al.com/news/2021/05/100-republicans-threaten-to-form-new-party-unless-gop-separates-from-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/05/100-republicans-threaten-to-form-new-party-unless-gop-separates-from-trump.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SFEZQ3ZAZJCKJFP562VQMBIZBY.jpg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Liz Cheney Under Attack From GOP For Standing Up To Donald Trump"
     excerpt: "Wyo., may find herself ousted from her position as the third-highest Republican as her strong stance against Donald Trump nets her few allies and increasing hostility from her caucus. Removing her from her post would require a conference vote,"
