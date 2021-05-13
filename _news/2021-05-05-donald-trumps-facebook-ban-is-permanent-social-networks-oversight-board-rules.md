@@ -132,6 +132,22 @@ related:
         width: 1024
         height: 652
         isCached: true
+  - title: "Donald Trump’s Facebook suspension upheld by Oversight Board; group calls on social media giant to conduct six-month review of case, policies"
+    excerpt: "Former president Donald Trump will remain suspended from posting on Facebook, the world’s most popular social media platform, according to an independent Oversight Board. But the board, a diverse group of international experts in law,"
+    publishedDateTime: 2021-05-05T13:14:00Z
+    webUrl: "https://www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 40
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/U3T3Z7ONNZDCBMPY2WPOZSOEPE.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "ajYudxFUTHCu5UvUOz5bP63JFe+ekJ5rgFqLSOqeYnbc30QHY/U/CRd96/qNohwcDfAlEYD2VYNrpog2bNfsbcRV7g6RNjyihZqyOMm0vm1KAMLtNmce/OmD9BQfDZRfU8/ZWYztJ0HCkms1nm77v/5pyb25A3rT9sncve27/L17Quxzxjt+XysSpS+Tnq2/AstegYCyHdR0Rt2cWdWYbdLKJiwTPKW3sTQL98KkeWPLdDGtzNwNciBWmeDfcCWZ4wko/y5uVtJj9z0NoIel5Te+tzW2GmiaMl5P+yLM+W3ek/t5dXglIgg+IfQkAruoCbCUpJc0ASEAQvzja5bqCMkio2WbQlzK/1qNipCog30=;OnxJgK963DvzBYJ+uDeDsg=="
 ---

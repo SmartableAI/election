@@ -2,21 +2,25 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-05-12-key-trump-officials-face-congress-with-capitol-riot-response-under-scrutiny.md",
-      "title": "Key Trump officials face Congress with Capitol riot response under scrutiny",
-      "excerpt": "Wednesday’s House Oversight Committee hearing marks the first time former acting defense secretary Christopher Miller and former acting attorney general Jeffrey Rosen will speak to lawmakers about their preparations for and response to the attack on Congress.",
+      "path": "_news/2021-05-12-former-acting-defense-secretary-christopher-miller-walks-back-trump-blame-for-jan-6-riots.md",
+      "title": "Former acting Defense Secretary Christopher Miller walks back Trump blame for Jan. 6 riots",
+      "excerpt": "Former acting Secretary of Defense Christopher Miller said Tuesday during a hearing on the Jan. 6 riot he’d “reassessed” his previous evaluation that former President Trump’s speech that day had led to his supporters storming the Capitol.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national-security/christopher-miller-jeffrey-rosen-capitol-riot/2021/05/11/8eb22bda-b2a5-11eb-ab43-bebddc5a0f65_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national-security/christopher-miller-jeffrey-rosen-capitol-riot/2021/05/11/8eb22bda-b2a5-11eb-ab43-bebddc5a0f65_story.html",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FnofpdG39B8/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FnofpdG39B8/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 283,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 205,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6WJLIUTADEI6XL56TII2CJ6RIY.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/720/405/gettyimages-Christopher-miller.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +28,456 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national-security/christopher-miller-jeffrey-rosen-capitol-riot/2021/05/11/8eb22bda-b2a5-11eb-ab43-bebddc5a0f65_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/christopher-miller-jeffrey-rosen-capitol-riot/2021/05/11/8eb22bda-b2a5-11eb-ab43-bebddc5a0f65_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-12T06:18:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots.amp",
+      "publishedDateTime": "2021-05-12T15:10:47-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-trump-mocks-comparisons-of-biden-to-jimmy-carter-the-current-president-is-worse.md",
+      "title": "Trump mocks comparisons of Biden to Jimmy Carter: The current president is worse",
+      "excerpt": "In a statement Wednesday, Donald Trump refuted a tweet issued by his son Donald Trump Jr. that claimed President Biden was “the next Jimmy Carter,” in an apparent slight last week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZDuOfEb2P88/trump-refutes-comparison-of-carter-presidency-to-biden-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZDuOfEb2P88/trump-refutes-comparison-of-carter-presidency-to-biden-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26e1be5f-4597-488c-bda1-97eb4a713daf/15b5b68a-7a61-4af3-9521-8b1cb29e3ec7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp",
+      "publishedDateTime": "2021-05-12T15:04:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-biden-doesnt-believe-there-is-any-significant-portion-of-americans-who-wont-get-vaccinated.md",
+      "title": "Biden doesn't believe there is ‘any significant portion' of Americans who won't get vaccinated",
+      "excerpt": "President Biden seemed optimistic that his administration would reach its goal of having 70 percent of Americans vaccinated by July 4, saying that he doesn’t believe there is “any significant portion” of Americans who refuse to get vaccinated.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUR0bQ6LhdU/biden-no-significant-portion-americans-vaccinated",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUR0bQ6LhdU/biden-no-significant-portion-americans-vaccinated",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21132743978141.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp",
+      "publishedDateTime": "2021-05-12T14:42:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-biden-says-hes-not-supposed-to-be-answering-all-these-questions-when-pressed-by-reporters.md",
+      "title": "Biden says he's 'not supposed to be answering all these questions’ when pressed by reporters",
+      "excerpt": "President Biden said during remarks on coronavirus vaccinations that he was not “supposed” to be answering questions.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wofl2ehUn40/biden-not-supposed-answering-questions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wofl2ehUn40/biden-not-supposed-answering-questions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff41d935-df1d-41dc-b594-777125163da2/7ff82d33-0633-4dd5-b547-58f186f9d8a0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-not-supposed-answering-questions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-not-supposed-answering-questions.amp",
+      "publishedDateTime": "2021-05-12T14:35:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-pelosi-says-biden-dems-want-big-bold-bipartisan-spending-bill.md",
+      "title": "Pelosi says Biden, Dems want 'big, bold' bipartisan spending bill",
+      "excerpt": "House Speaker Nancy Pelosi said she's feeling even more optimistic now about passing a \"big, bold\" spending bill this year after meeting with President Biden and congressional leadership at the White House.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EzwJUKn5WjA/pelosi-biden-dems-big-bold-bipartisan-bill",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EzwJUKn5WjA/pelosi-biden-dems-big-bold-bipartisan-bill",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-biden-dems-big-bold-bipartisan-bill.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-biden-dems-big-bold-bipartisan-bill.amp",
+      "publishedDateTime": "2021-05-12T13:17:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-bidens-energy-sec-says-pipe-is-best-way-to-transport-fuel-sparks-backlash-regarding-keystone-xl-pipeline.md",
+      "title": "Biden's energy sec says 'pipe is best way' to transport fuel, sparks backlash regarding Keystone XL pipeline",
+      "excerpt": "At a Tuesday press conference, Department of Energy (DOE) Secretary Jennifer Granholm was asked by a reporter about the \"feasibility of using rail cars\" to transport fuel across the country as the nation faces a gas shortage from a Russian cyber attack.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/A8sSEwa4wGw/jennifer-granholm-pipeline-comment-backlash",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/A8sSEwa4wGw/jennifer-granholm-pipeline-comment-backlash",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2a99b01-47c4-41c7-b0cb-5b090050a230/f6930429-3760-4230-8b76-54bd6f4e39e7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jennifer-granholm-pipeline-comment-backlash.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jennifer-granholm-pipeline-comment-backlash.amp",
+      "publishedDateTime": "2021-05-12T12:31:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-democrat-del-rio-texas-mayor-biden-admin-telling-me-border-is-under-control.md",
+      "title": "Democrat Del Rio, Texas mayor: Biden admin telling me border is 'under control'",
+      "excerpt": "The Democratic mayor of Del Rio, Texas said Wednesday that he believes that the U.S. southern border is “wide open” for illegal immigrants, despite insistence from the Biden administration claiming the opposite.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5nqUvkOJEZU/democrat-del-rio-texas-mayor-border-wide-open-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5nqUvkOJEZU/democrat-del-rio-texas-mayor-border-wide-open-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3abd5ef-48ad-4a6b-af5c-820341e1b197/0f166762-c33a-4d7b-b7d7-2775f7a82db6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/democrat-del-rio-texas-mayor-border-wide-open-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrat-del-rio-texas-mayor-border-wide-open-biden.amp",
+      "publishedDateTime": "2021-05-12T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-nine-republican-led-states-ending-increased-unemployment-benefits-as-president-biden-says-people-must-take-suitable-work.md",
+      "title": "Nine Republican-led states ending increased unemployment benefits as President Biden says people must take \"suitable work\"",
+      "excerpt": "A growing number of GOP governors have said they will end increased unemployment insurance benefits, citing workforce shortages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/unemployment-benefits-states-end-federal-aid/",
+      "originalUrl": "https://www.cbsnews.com/news/unemployment-benefits-states-end-federal-aid/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/08/2ff7afae-77a6-419f-a3e1-1a9c5e039087/thumbnail/1200x630/7158e56014971c41de1a8fe73543f37a/cbsn-fusion-eye-opener-biden-defends-dissapointing-jobs-report-numbers-thumbnail-710791-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/unemployment-benefits-states-end-federal-aid/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/unemployment-benefits-states-end-federal-aid/",
+      "publishedDateTime": "2021-05-12T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-former-trump-officials-to-defend-response-to-capitol-riot-when-they-appear-before-congress-wednesday.md",
+      "title": "Former Trump officials to defend response to Capitol riot when they appear before Congress Wednesday",
+      "excerpt": "Two senior Trump administration officials plan to defend their actions during the Jan. 6 riot at the U.S. Capitol when they appear before Congress Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-capitol-riot-defense-secretary-congress-20210512-moa2hajy3naa3mdftdmhln4a34-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-capitol-riot-defense-secretary-congress-20210512-moa2hajy3naa3mdftdmhln4a34-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/FRpP3hB8ynGmt-z0pw-6qbu9_Cc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PGYJO7TJW2FMIGATWOMTP4VVCY.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-capitol-riot-defense-secretary-congress-20210512-moa2hajy3naa3mdftdmhln4a34-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-capitol-riot-defense-secretary-congress-20210512-moa2hajy3naa3mdftdmhln4a34-story.html?outputType=amp",
+      "publishedDateTime": "2021-05-12T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -893,430 +1337,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/11/politics/donald-trump-liz-cheney-joe-biden/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/donald-trump-liz-cheney-joe-biden/index.html",
       "publishedDateTime": "2021-05-10T22:21:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president.md",
-      "title": "Caitlyn Jenner says election was not 'stolen,' calls Biden 'our president'",
-      "excerpt": "GOP California gubernatorial candidate and former reality TV star Caitlyn Jenner says she does not believe the 2020 presidential election was stolen, but she added that the U.S. must “have integrity in our election system.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president",
-      "originalUrl": "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 378,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/jennercaitlyn_california_020520getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp",
-      "publishedDateTime": "2021-05-10T16:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-donald-trump-endorses-texas-lt-gov-dan-patrick-for-reelection.md",
-      "title": "Donald Trump endorses Texas Lt. Gov. Dan Patrick for reelection",
-      "excerpt": "Former President Donald Trump endorsed Lt. Gov. Dan Patrick for reelection Monday, giving a top ally in Texas an early boost in his bid for a third term next year. \"Lieutenant Governor Dan Patrick is a great fighter for the people of Texas,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/houston-texas/article/donald-trump-endorse-dan-patrick-16166069.php",
-      "originalUrl": "https://www.chron.com/news/houston-texas/article/donald-trump-endorse-dan-patrick-16166069.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/17/72/25/20948297/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-10T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-qanon-podcast-airs-bishop-larry-gaiters-outrageous-claim-of-bidens-satanic-sacrifice.md",
-      "title": "QAnon Podcast Airs Bishop Larry Gaiters' Outrageous Claim of Biden's 'Satanic Sacrifice'",
-      "excerpt": "Bishop Larry Gaiters, a far-right conservative host, has claimed that the deaths of Democratic President Joe Biden 's family members—including his first wife Neilia Biden, his daughter Naomi Biden and his eldest son Beau Biden—were all a \"satanic sacrifice\" to help him acquire political power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/bishop-larry-gaiters-calls-death-bidens-wife-daughter-son-satanic-sacrifice-1590247",
-      "originalUrl": "https://www.newsweek.com/bishop-larry-gaiters-calls-death-bidens-wife-daughter-son-satanic-sacrifice-1590247",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1792698/neilia-naomi-beau-joe-biden-deaths-pastor.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/bishop-larry-gaiters-calls-death-bidens-wife-daughter-son-satanic-sacrifice-1590247?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bishop-larry-gaiters-calls-death-bidens-wife-daughter-son-satanic-sacrifice-1590247?amp=1",
-      "publishedDateTime": "2021-05-10T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-with-pope-francis-blessing-catholics-pressed-biden-white-house-to-waive-vaccine-patents.md",
-      "title": "With Pope Francis' blessing, Catholics pressed Biden White House to waive vaccine patents",
-      "excerpt": "When U.S. Trade Representative Katherine Tai announced Wednesday (May 5) that the White House would back efforts to suspend intellectual property rights for COVID-19 vaccines, it was a victory for Vatican officials and U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/religion/with-pope-francis-blessing-catholics-pressed-biden-white-house-to-waive-vaccine-patents/2021/05/10/9b42159a-b1dd-11eb-bc96-fdf55de43bef_story.html",
-      "originalUrl": "https://www.washingtonpost.com/religion/with-pope-francis-blessing-catholics-pressed-biden-white-house-to-waive-vaccine-patents/2021/05/10/9b42159a-b1dd-11eb-bc96-fdf55de43bef_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/religion/with-pope-francis-blessing-catholics-pressed-biden-white-house-to-waive-vaccine-patents/2021/05/10/9b42159a-b1dd-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/with-pope-francis-blessing-catholics-pressed-biden-white-house-to-waive-vaccine-patents/2021/05/10/9b42159a-b1dd-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-10T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-caitlyn-jenner-on-biden-he-is-our-president-i-respect-that.md",
-      "title": "Caitlyn Jenner on Biden: 'He is our President. I respect that'",
-      "excerpt": "While former President Donald Trump continues to spread falsehoods about the 2020 election, California recall candidate Caitlyn Jenner told CNN's Dana Bash in a new interview that she does not believe the election was \"stolen,\" but argued there needs to be \"integrity\" in the US election system.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9OLmNDTnnZ4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9OLmNDTnnZ4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210509093841-caitlyn-jenner-immigration-path-to-citizenship-bash-intv-sot-vpx-00000000-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/10/politics/caitlyn-jenner-dana-bash-interview/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/caitlyn-jenner-dana-bash-interview/index.html",
-      "publishedDateTime": "2021-05-10T14:13:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-stephen-miller-sounds-alarm-over-bidens-unprecedented-border-policies.md",
-      "title": "Stephen Miller sounds alarm over Biden's 'unprecedented' border policies",
-      "excerpt": "Stephen Miller, former senior adviser to President Trump, now America First Legal founder. Stephen Miller, how are you my friend? STEPHEN MILLER, FOUNDER, AMERICA FIRST LEGAL: I am doing great. Thank you for having me.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/life-liberty-levin",
-      "originalUrl": "https://www.foxnews.com/transcript/life-liberty-levin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7c6fec6-741e-459d-bfef-718af1cdf957/712688ae-d177-48e7-90e1-2f612cd229cb/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/life-liberty-levin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/life-liberty-levin.amp",
-      "publishedDateTime": "2021-05-10T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-biden-approval-rating-thumbs-up-overall-but-thumbs-down-on-immigration-poll.md",
-      "title": "Biden approval rating: Thumbs up overall, but thumbs down on immigration: poll",
-      "excerpt": "A new national poll indicates that most Americans approve of the overall job President Biden is doing in the White House. But, according to AP-NORC survey released Monday, the president’s numbers are mixed on gun violence and underwater on immigration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp",
-      "publishedDateTime": "2021-05-10T12:15:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-hogan-criticizes-gop-as-a-circular-firing-squad-that-had-worst-four-years-under-trump.md",
-      "title": "Hogan criticizes GOP as a 'circular firing squad' that had 'worst four years' under Trump",
-      "excerpt": "Republican Maryland Gov. Larry Hogan on Sunday lambasted the GOP as a \"circular firing squad\" attacking each other and said the party experienced \"the worst four years\" under former President Donald Trump.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yIA2o3ZOBdA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yIA2o3ZOBdA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210510151838-01-larry-hogan-0412-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/10/politics/larry-hogan-gop-firing-squad/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/larry-hogan-gop-firing-squad/index.html",
-      "publishedDateTime": "2021-05-10T08:12:52-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

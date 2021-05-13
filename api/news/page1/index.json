@@ -2,6 +2,487 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-13-pelosi-says-she-has-confidence-in-harris-addressing-root-cause-of-border-crisis.md",
+      "title": "Pelosi says she has confidence in Harris addressing root cause of border crisis",
+      "excerpt": "House Speaker Nancy Pelosi said Thursday she has confidence in Vice President Kamala Harris' ability to address the root causes of the border crisis and touted progress the Biden Administration has already made to \"reconstruct\" the immigration system. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkMu7NMsm70/pelosi-harris-root-cause-border-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkMu7NMsm70/pelosi-harris-root-cause-border-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 281,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-harris-root-cause-border-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-harris-root-cause-border-crisis.amp",
+      "publishedDateTime": "2021-05-13T10:51:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-biden-says-colonial-pipeline-back-to-full-capacity-but-hiccups-likely-live.md",
+      "title": "Biden says Colonial pipeline back to full capacity but ‘hiccups’ likely – live",
+      "excerpt": "President urges Americans not to buy more gas than necessary while Pelosi condemn Republicans for downplaying Capitol attack – follow the latest",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live?page=with:block-609d57cc8f08e757a7353de9",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live?page=with:block-609d57cc8f08e757a7353de9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/22a77b66b65a2dbf6a53cafaa246389d232f78b8/0_319_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b68ceddf89bff11da8a370aaf357128e",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live",
+      "publishedDateTime": "2021-05-13T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-maddow-potential-trump-indictment-moves-closer-with-mcgahns-testimony.md",
+      "title": "Maddow: Potential Trump Indictment Moves Closer With McGahn's Testimony",
+      "excerpt": "Rachel Maddow explains how Robert Mueller laid out the ways in which Donald Trump potentially committed obstruction of justice (even though Mueller would not prosecute Trump as president) and notes that Don McGahn's testimony was key to putting that together.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/45/459895.jpg",
+          "width": 800,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.amp.html",
+      "publishedDateTime": "2021-05-13T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-biden-warns-gas-station-owners-do-not-try-to-take-advantage-of-consumers-during-fuel-crunch.md",
+      "title": "Biden warns gas station owners: 'Do not try to take advantage of consumers' during fuel crunch",
+      "excerpt": "President Joe Biden warned gas station owners on Thursday against price gouging and taking advantage of consumers as many areas along the East Coast face shortages in the wake of panic-buying sparked by a ransomware attack on the Colonial Pipeline.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b0UZ82ibWp0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b0UZ82ibWp0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210512170722-02-joe-biden-0512-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/13/politics/biden-gas-stations/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/biden-gas-stations/index.html",
+      "publishedDateTime": "2021-05-13T10:21:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-terry-mcauliffe-criticizes-youngkin-for-trump-ties-but-he-has-his-own.md",
+      "title": "Terry McAuliffe criticizes Youngkin for Trump ties, but he has his own",
+      "excerpt": "McAuliffe – a former governor of the Old Dominion – released an attack ad against Youngkin on Tuesday targeting the Republican nominee for his ties to the former president, calling Trump a “stain on our democracy.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tQ94s0q6KXo/virginia-governor-race-mcauliffe-youngkin-trump-ties",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tQ94s0q6KXo/virginia-governor-race-mcauliffe-youngkin-trump-ties",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/75dd6f14-59b7-4b8d-8faf-ddd786809088/9ce1732d-00cd-452b-a561-fc52c2c98790/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/virginia-governor-race-mcauliffe-youngkin-trump-ties.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-governor-race-mcauliffe-youngkin-trump-ties.amp",
+      "publishedDateTime": "2021-05-13T10:17:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-rep-gallagher-bill-would-force-biden-to-declassify-wuhan-coronavirus-lab-leak-theory-intel.md",
+      "title": "Rep. Gallagher bill would force Biden to declassify Wuhan coronavirus lab leak theory intel",
+      "excerpt": "A group of House Republicans is introducing a bill on Thursday that would force the Biden administration to declassify intelligence related to the possibility that the coronavirus could have leaked from a Chinese lab.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B4J6Zqahgzs/gallagher-bill-covid-lab-leak-china-wuhan-institute-virology",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B4J6Zqahgzs/gallagher-bill-covid-lab-leak-china-wuhan-institute-virology",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Wuhan-Lab.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T10:02:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-florida-officials-are-preparing-contingency-plans-for-a-trump-indictment-from-new-york-report-says.md",
+      "title": "Florida officials are preparing 'contingency plans' for a Trump indictment from New York, report says",
+      "excerpt": "The investigation from Manhattan DA Cy Vance could involve different scenarios depending on whether Trump is indicted in Florida or New Jersey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/palm-beach-trump-indictment-manhattan-da-vance-investigation-report-2021-5",
+      "originalUrl": "https://www.businessinsider.com/palm-beach-trump-indictment-manhattan-da-vance-investigation-report-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/609d1d746a3ce80019e042e7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/palm-beach-trump-indictment-manhattan-da-vance-investigation-report-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/palm-beach-trump-indictment-manhattan-da-vance-investigation-report-2021-5?amp",
+      "publishedDateTime": "2021-05-13T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-company-ex-trump-lawyer-raiding-nonprofit-for-personal-use.md",
+      "title": "Company: Ex-Trump lawyer raiding nonprofit for personal use",
+      "excerpt": "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/67FPAOFUBEI6XPEW7X2V3ZB354.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-13T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-epa-revokes-trump-era-policy-that-loosened-clean-air-rules.md",
+      "title": "EPA revokes Trump-era policy that loosened clean-air rules",
+      "excerpt": "The Environmental Protection Agency is revoking a Trump-era rule that overhauled how the agency evaluates air pollutants",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/epa-revokes-trump-era-policy-loosened-clean-air-77667886",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/epa-revokes-trump-era-policy-loosened-clean-air-77667886",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_49f60c00511749c1b22b00cc897872f7_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/epa-revokes-trump-era-policy-loosened-clean-air-77667886",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/epa-revokes-trump-era-policy-loosened-clean-air-77667886",
+      "publishedDateTime": "2021-05-13T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-graham-blasts-biden-officials-remark-on-pipeline-attack-and-electric-cars-dumbest-thing-in-the-world.md",
       "title": "Graham blasts Biden official's remark on pipeline attack and electric cars: 'Dumbest thing in the world'",
       "excerpt": "Sen. Lindsey Graham, R-S.C., blasted the Biden administration for their \"unnerving\" response to the cyberattack that temporarily shut down the Colonial Pipeline and triggered gas shortages.",
@@ -283,7 +764,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 213,
+      "heat": 233,
       "tags": null,
       "images": [
         {
@@ -815,191 +1296,23 @@
       ]
     },
     {
-      "path": "_news/2021-05-12-former-acting-defense-secretary-christopher-miller-walks-back-trump-blame-for-jan-6-riots.md",
-      "title": "Former acting Defense Secretary Christopher Miller walks back Trump blame for Jan. 6 riots",
-      "excerpt": "Former acting Secretary of Defense Christopher Miller said Tuesday during a hearing on the Jan. 6 riot he’d “reassessed” his previous evaluation that former President Trump’s speech that day had led to his supporters storming the Capitol.",
+      "path": "_news/2021-05-12-biden-signs-cybersecurity-executive-order-though-rules-wouldnt-have-applied-to-colonial-pipeline.md",
+      "title": "Biden signs cybersecurity executive order, though rules wouldn't have applied to Colonial Pipeline",
+      "excerpt": "President Joe Biden signed an executive order Wednesday meant to better protect the nation from cyberattacks, but even as he signed it, the White House acknowledged more will need to be done to prevent the type of hack that affected the Colonial Pipeline.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FnofpdG39B8/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FnofpdG39B8/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/720/405/gettyimages-Christopher-miller.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots.amp",
-      "publishedDateTime": "2021-05-12T15:10:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-trump-mocks-comparisons-of-biden-to-jimmy-carter-the-current-president-is-worse.md",
-      "title": "Trump mocks comparisons of Biden to Jimmy Carter: The current president is worse",
-      "excerpt": "In a statement Wednesday, Donald Trump refuted a tweet issued by his son Donald Trump Jr. that claimed President Biden was “the next Jimmy Carter,” in an apparent slight last week.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZDuOfEb2P88/trump-refutes-comparison-of-carter-presidency-to-biden-crisis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZDuOfEb2P88/trump-refutes-comparison-of-carter-presidency-to-biden-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 385,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26e1be5f-4597-488c-bda1-97eb4a713daf/15b5b68a-7a61-4af3-9521-8b1cb29e3ec7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp",
-      "publishedDateTime": "2021-05-12T15:04:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-biden-doesnt-believe-there-is-any-significant-portion-of-americans-who-wont-get-vaccinated.md",
-      "title": "Biden doesn't believe there is ‘any significant portion' of Americans who won't get vaccinated",
-      "excerpt": "President Biden seemed optimistic that his administration would reach its goal of having 70 percent of Americans vaccinated by July 4, saying that he doesn’t believe there is “any significant portion” of Americans who refuse to get vaccinated.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUR0bQ6LhdU/biden-no-significant-portion-americans-vaccinated",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUR0bQ6LhdU/biden-no-significant-portion-americans-vaccinated",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21132743978141.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp",
-      "publishedDateTime": "2021-05-12T14:42:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-biden-says-fuel-situation-will-be-under-control-soon-after-officials-warn-against-hoarding-gas.md",
-      "title": "Biden says fuel situation will be 'under control' soon after officials warn against hoarding gas",
-      "excerpt": "President Joe Biden said that the fuel situation in the US should be \"under control\" soon, just minutes before Colonial Pipeline announced it initiated the restart of its pipeline operations following a recent ransomware attack.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/53rscxwamLY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/53rscxwamLY/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/12gzgGnLCC0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/12gzgGnLCC0/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 182,
+      "heat": 161,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210512111816-01-pipeline-gas-fallout-0512-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210512155902-04-pipeline-hack-fallout-0512-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -1009,9 +1322,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/12/politics/biden-officials-warn-hoarding-gasoline/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/biden-officials-warn-hoarding-gasoline/index.html",
-      "publishedDateTime": "2021-05-12T14:40:14-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html",
+      "publishedDateTime": "2021-05-12T15:51:25-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1036,339 +1349,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-biden-says-hes-not-supposed-to-be-answering-all-these-questions-when-pressed-by-reporters.md",
-      "title": "Biden says he's 'not supposed to be answering all these questions’ when pressed by reporters",
-      "excerpt": "President Biden said during remarks on coronavirus vaccinations that he was not “supposed” to be answering questions.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wofl2ehUn40/biden-not-supposed-answering-questions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wofl2ehUn40/biden-not-supposed-answering-questions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff41d935-df1d-41dc-b594-777125163da2/7ff82d33-0633-4dd5-b547-58f186f9d8a0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-not-supposed-answering-questions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-not-supposed-answering-questions.amp",
-      "publishedDateTime": "2021-05-12T14:35:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-pelosi-says-biden-dems-want-big-bold-bipartisan-spending-bill.md",
-      "title": "Pelosi says Biden, Dems want 'big, bold' bipartisan spending bill",
-      "excerpt": "House Speaker Nancy Pelosi said she's feeling even more optimistic now about passing a \"big, bold\" spending bill this year after meeting with President Biden and congressional leadership at the White House.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EzwJUKn5WjA/pelosi-biden-dems-big-bold-bipartisan-bill",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EzwJUKn5WjA/pelosi-biden-dems-big-bold-bipartisan-bill",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-biden-dems-big-bold-bipartisan-bill.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-biden-dems-big-bold-bipartisan-bill.amp",
-      "publishedDateTime": "2021-05-12T13:17:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-bidens-energy-sec-says-pipe-is-best-way-to-transport-fuel-sparks-backlash-regarding-keystone-xl-pipeline.md",
-      "title": "Biden's energy sec says 'pipe is best way' to transport fuel, sparks backlash regarding Keystone XL pipeline",
-      "excerpt": "At a Tuesday press conference, Department of Energy (DOE) Secretary Jennifer Granholm was asked by a reporter about the \"feasibility of using rail cars\" to transport fuel across the country as the nation faces a gas shortage from a Russian cyber attack.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/A8sSEwa4wGw/jennifer-granholm-pipeline-comment-backlash",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/A8sSEwa4wGw/jennifer-granholm-pipeline-comment-backlash",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2a99b01-47c4-41c7-b0cb-5b090050a230/f6930429-3760-4230-8b76-54bd6f4e39e7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jennifer-granholm-pipeline-comment-backlash.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jennifer-granholm-pipeline-comment-backlash.amp",
-      "publishedDateTime": "2021-05-12T12:31:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-arizona-ag-calls-for-harris-to-be-removed-from-border-role-amid-continued-high-migrant-numbers.md",
-      "title": "Arizona AG calls for Harris to be removed from border role amid continued high migrant numbers",
-      "excerpt": "FIRST ON FOX: Arizona Attorney General Mark Brnovich is calling for Vice President Kamala Harris to be replaced in her role spearheading the administration’s diplomatic efforts to end the crisis at the southern border -- a day after Customs and Border Protection (CBP) announced that the number of migrant",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iuNIU_Tro3Y/arizona-ag-harris-removed-border-role-migrant-numbers",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iuNIU_Tro3Y/arizona-ag-harris-removed-border-role-migrant-numbers",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T12:19:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-democrat-del-rio-texas-mayor-biden-admin-telling-me-border-is-under-control.md",
-      "title": "Democrat Del Rio, Texas mayor: Biden admin telling me border is 'under control'",
-      "excerpt": "The Democratic mayor of Del Rio, Texas said Wednesday that he believes that the U.S. southern border is “wide open” for illegal immigrants, despite insistence from the Biden administration claiming the opposite.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5nqUvkOJEZU/democrat-del-rio-texas-mayor-border-wide-open-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5nqUvkOJEZU/democrat-del-rio-texas-mayor-border-wide-open-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3abd5ef-48ad-4a6b-af5c-820341e1b197/0f166762-c33a-4d7b-b7d7-2775f7a82db6/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/democrat-del-rio-texas-mayor-border-wide-open-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrat-del-rio-texas-mayor-border-wide-open-biden.amp",
-      "publishedDateTime": "2021-05-12T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-nine-republican-led-states-ending-increased-unemployment-benefits-as-president-biden-says-people-must-take-suitable-work.md",
-      "title": "Nine Republican-led states ending increased unemployment benefits as President Biden says people must take \"suitable work\"",
-      "excerpt": "A growing number of GOP governors have said they will end increased unemployment insurance benefits, citing workforce shortages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/unemployment-benefits-states-end-federal-aid/",
-      "originalUrl": "https://www.cbsnews.com/news/unemployment-benefits-states-end-federal-aid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/08/2ff7afae-77a6-419f-a3e1-1a9c5e039087/thumbnail/1200x630/7158e56014971c41de1a8fe73543f37a/cbsn-fusion-eye-opener-biden-defends-dissapointing-jobs-report-numbers-thumbnail-710791-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/unemployment-benefits-states-end-federal-aid/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/unemployment-benefits-states-end-federal-aid/",
-      "publishedDateTime": "2021-05-12T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

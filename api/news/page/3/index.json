@@ -2,6 +2,430 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-11-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president.md",
+      "title": "Caitlyn Jenner says election was not 'stolen,' calls Biden 'our president'",
+      "excerpt": "GOP California gubernatorial candidate and former reality TV star Caitlyn Jenner says she does not believe the 2020 presidential election was stolen, but she added that the U.S. must “have integrity in our election system.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president",
+      "originalUrl": "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 378,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/jennercaitlyn_california_020520getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp",
+      "publishedDateTime": "2021-05-10T16:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-donald-trump-endorses-texas-lt-gov-dan-patrick-for-reelection.md",
+      "title": "Donald Trump endorses Texas Lt. Gov. Dan Patrick for reelection",
+      "excerpt": "Former President Donald Trump endorsed Lt. Gov. Dan Patrick for reelection Monday, giving a top ally in Texas an early boost in his bid for a third term next year. \"Lieutenant Governor Dan Patrick is a great fighter for the people of Texas,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/houston-texas/article/donald-trump-endorse-dan-patrick-16166069.php",
+      "originalUrl": "https://www.chron.com/news/houston-texas/article/donald-trump-endorse-dan-patrick-16166069.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/17/72/25/20948297/3/rawImage.jpg",
+          "width": 2048,
+          "height": 1366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-10T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-qanon-podcast-airs-bishop-larry-gaiters-outrageous-claim-of-bidens-satanic-sacrifice.md",
+      "title": "QAnon Podcast Airs Bishop Larry Gaiters' Outrageous Claim of Biden's 'Satanic Sacrifice'",
+      "excerpt": "Bishop Larry Gaiters, a far-right conservative host, has claimed that the deaths of Democratic President Joe Biden 's family members—including his first wife Neilia Biden, his daughter Naomi Biden and his eldest son Beau Biden—were all a \"satanic sacrifice\" to help him acquire political power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/bishop-larry-gaiters-calls-death-bidens-wife-daughter-son-satanic-sacrifice-1590247",
+      "originalUrl": "https://www.newsweek.com/bishop-larry-gaiters-calls-death-bidens-wife-daughter-son-satanic-sacrifice-1590247",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1792698/neilia-naomi-beau-joe-biden-deaths-pastor.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/bishop-larry-gaiters-calls-death-bidens-wife-daughter-son-satanic-sacrifice-1590247?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bishop-larry-gaiters-calls-death-bidens-wife-daughter-son-satanic-sacrifice-1590247?amp=1",
+      "publishedDateTime": "2021-05-10T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-with-pope-francis-blessing-catholics-pressed-biden-white-house-to-waive-vaccine-patents.md",
+      "title": "With Pope Francis' blessing, Catholics pressed Biden White House to waive vaccine patents",
+      "excerpt": "When U.S. Trade Representative Katherine Tai announced Wednesday (May 5) that the White House would back efforts to suspend intellectual property rights for COVID-19 vaccines, it was a victory for Vatican officials and U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/religion/with-pope-francis-blessing-catholics-pressed-biden-white-house-to-waive-vaccine-patents/2021/05/10/9b42159a-b1dd-11eb-bc96-fdf55de43bef_story.html",
+      "originalUrl": "https://www.washingtonpost.com/religion/with-pope-francis-blessing-catholics-pressed-biden-white-house-to-waive-vaccine-patents/2021/05/10/9b42159a-b1dd-11eb-bc96-fdf55de43bef_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/religion/with-pope-francis-blessing-catholics-pressed-biden-white-house-to-waive-vaccine-patents/2021/05/10/9b42159a-b1dd-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/with-pope-francis-blessing-catholics-pressed-biden-white-house-to-waive-vaccine-patents/2021/05/10/9b42159a-b1dd-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-10T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-caitlyn-jenner-on-biden-he-is-our-president-i-respect-that.md",
+      "title": "Caitlyn Jenner on Biden: 'He is our President. I respect that'",
+      "excerpt": "While former President Donald Trump continues to spread falsehoods about the 2020 election, California recall candidate Caitlyn Jenner told CNN's Dana Bash in a new interview that she does not believe the election was \"stolen,\" but argued there needs to be \"integrity\" in the US election system.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9OLmNDTnnZ4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9OLmNDTnnZ4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210509093841-caitlyn-jenner-immigration-path-to-citizenship-bash-intv-sot-vpx-00000000-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/10/politics/caitlyn-jenner-dana-bash-interview/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/caitlyn-jenner-dana-bash-interview/index.html",
+      "publishedDateTime": "2021-05-10T14:13:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-stephen-miller-sounds-alarm-over-bidens-unprecedented-border-policies.md",
+      "title": "Stephen Miller sounds alarm over Biden's 'unprecedented' border policies",
+      "excerpt": "Stephen Miller, former senior adviser to President Trump, now America First Legal founder. Stephen Miller, how are you my friend? STEPHEN MILLER, FOUNDER, AMERICA FIRST LEGAL: I am doing great. Thank you for having me.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/life-liberty-levin",
+      "originalUrl": "https://www.foxnews.com/transcript/life-liberty-levin",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7c6fec6-741e-459d-bfef-718af1cdf957/712688ae-d177-48e7-90e1-2f612cd229cb/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/life-liberty-levin.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/life-liberty-levin.amp",
+      "publishedDateTime": "2021-05-10T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-biden-approval-rating-thumbs-up-overall-but-thumbs-down-on-immigration-poll.md",
+      "title": "Biden approval rating: Thumbs up overall, but thumbs down on immigration: poll",
+      "excerpt": "A new national poll indicates that most Americans approve of the overall job President Biden is doing in the White House. But, according to AP-NORC survey released Monday, the president’s numbers are mixed on gun violence and underwater on immigration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp",
+      "publishedDateTime": "2021-05-10T12:15:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-hogan-criticizes-gop-as-a-circular-firing-squad-that-had-worst-four-years-under-trump.md",
+      "title": "Hogan criticizes GOP as a 'circular firing squad' that had 'worst four years' under Trump",
+      "excerpt": "Republican Maryland Gov. Larry Hogan on Sunday lambasted the GOP as a \"circular firing squad\" attacking each other and said the party experienced \"the worst four years\" under former President Donald Trump.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yIA2o3ZOBdA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yIA2o3ZOBdA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210510151838-01-larry-hogan-0412-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/10/politics/larry-hogan-gop-firing-squad/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/10/politics/larry-hogan-gop-firing-squad/index.html",
+      "publishedDateTime": "2021-05-10T08:12:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-i-saw-it-on-tv-why-trump-supporter-says-she-believes-election-lie.md",
       "title": "'I saw it on TV!': Why Trump supporter says she believes election lie",
       "excerpt": "A couple attending an event hosted by Rep. Matt Gaetz (R-FL) and Rep. Marjorie Taylor Greene (R-GA) tell CNN's Donie O'Sullivan why they still believe debunked conspiracy theories cited as evidence that the 2020 presidential election was \"stolen\" from former President Donald Trump.\n    \n",
@@ -163,6 +587,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-white-house-wont-underestimate-trumps-chances-of-winning-2024-election.md",
+      "title": "White House Won't 'Underestimate' Trump's Chances Of Winning 2024 Election",
+      "excerpt": "President Joe Biden in March said he plans to run for re-election in 2024 with Vice President Kamala Harris as his running mate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/white-house-wont-underestimate-trumps-chances-winning-2024-election-3195928",
+      "originalUrl": "https://www.ibtimes.com/white-house-wont-underestimate-trumps-chances-winning-2024-election-3195928",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/facebooks-oversight-board-is-worried-that-for-now.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/white-house-wont-underestimate-trumps-chances-winning-2024-election-3195928?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/white-house-wont-underestimate-trumps-chances-winning-2024-election-3195928?amp=1",
+      "publishedDateTime": "2021-05-09T22:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -715,7 +1191,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 595,
+      "heat": 615,
       "tags": null,
       "images": [
         {
@@ -860,507 +1336,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-doesnt-add-a-single-penny-fact-checking-bidens-deficit-claims.md",
-      "title": "'Doesn't add a single penny': Fact-checking Biden's deficit claims",
-      "excerpt": "In the past, Republicans have typically fought the Democrats over concerns spending proposals would expand the deficit and the continually growing national debt. Having weathered those critiques during the Obama years, President Joe Biden's proposals to revitalize the US economy seem designed to circumvent",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gEtqLwiFh4E/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gEtqLwiFh4E/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210430194109-joe-biden-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/08/politics/joe-biden-infrastructure-plans-deficit-fact-check/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/08/politics/joe-biden-infrastructure-plans-deficit-fact-check/index.html",
-      "publishedDateTime": "2021-05-08T06:05:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-marooned-at-mar-a-lago-trump-still-has-iron-grip-on-republicans.md",
-      "title": "Marooned at Mar-a-Lago, Trump Still Has Iron Grip on Republicans",
-      "excerpt": "The vilification of Liz Cheney and a bizarre vote recount in Arizona showed the damage from his assault on a bedrock of democracy: election integrity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/08/us/politics/trump-republicans-liz-cheney.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/08/us/politics/trump-republicans-liz-cheney.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/08/us/politics/08gop-memo1/08gop-memo1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/08/us/politics/trump-republicans-liz-cheney.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/08/us/politics/trump-republicans-liz-cheney.amp.html",
-      "publishedDateTime": "2021-05-08T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-hannity-corrupt-media-is-lying-to-protect-bidens-mental-errors.md",
-      "title": "Hannity: Corrupt media is lying to protect Biden's 'mental errors'",
-      "excerpt": "HANNITY: What was that? Could you repeat that please? Anyway, these kinds of bizarre mental errors, they are commonplace in Joe's White House. It's not just the verbal gaffes. Joe Biden also seems to be having trouble with something called telling the truth,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/hannity-corrupt-media-is-lying-to-protect-bidens-mental-errors",
-      "originalUrl": "https://www.foxnews.com/transcript/hannity-corrupt-media-is-lying-to-protect-bidens-mental-errors",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf731f55-ebf0-4cc2-b65b-83d63507562f/d485e088-eea8-4b62-8f8b-365bb81085a5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/hannity-corrupt-media-is-lying-to-protect-bidens-mental-errors.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/hannity-corrupt-media-is-lying-to-protect-bidens-mental-errors.amp",
-      "publishedDateTime": "2021-05-07T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-bill-maher-desantis-could-run-in-2024-without-trumps-blessing-but-its-a-risky-move.md",
-      "title": "Bill Maher: DeSantis could run in 2024 without Trump's 'blessing' -- but it's a risky move",
-      "excerpt": "\"Real Time\" host Bill Maher wondered if Republican Florida Gov. Ron DeSantis will run for president in 2024 -- regardless of whether he receives former President Trump's \"blessing.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/bill-maher-desantis-could-run-in-2024-without-trumps-blessing-but-its-a-risky-move",
-      "originalUrl": "https://www.foxnews.com/entertainment/bill-maher-desantis-could-run-in-2024-without-trumps-blessing-but-its-a-risky-move",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/98932544-4f11-48aa-8a87-290a38753cce/286df5b5-d7b3-4c91-96e0-76a93ae32307/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/bill-maher-desantis-could-run-in-2024-without-trumps-blessing-but-its-a-risky-move.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/bill-maher-desantis-could-run-in-2024-without-trumps-blessing-but-its-a-risky-move.amp",
-      "publishedDateTime": "2021-05-07T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-washington-post-trump-justice-department-got-reporters-phone-records.md",
-      "title": "Washington Post: Trump Justice Department got reporters’ phone records",
-      "excerpt": "The Washington Post reported on Friday that the Department of Justice under former President Donald Trump secretly obtained phone records from some of the newspaper's reporters. The Post reported that the DOJ sent letters dated May 3 to Post reporters Ellen Nakashima and Greg Miller,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/05/07/washington-post-trump-doj-got-reporters-phone-records/4997276001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/05/07/washington-post-trump-doj-got-reporters-phone-records/4997276001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2021/03/24/USATODAY/usatsports/justice-department-getty-fool-1.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4997276001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4997276001",
-      "publishedDateTime": "2021-05-07T16:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-biden-labor-secretary-closed-schools-keeping-people-from-getting-back-in-the-workforce.md",
-      "title": "Biden Labor Secretary: Closed schools 'keeping people from getting back in the workforce'",
-      "excerpt": "Labor Secretary Marty Walsh drew a parallel Friday between the continued fight over reopening schools for in-person instruction and the  April jobs report, which fell far short of experts' predictions.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pnv-QYxbIsU/biden-labor-secretary-closed-schools-keeping-people-from-getting-back-in-the-workforce",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pnv-QYxbIsU/biden-labor-secretary-closed-schools-keeping-people-from-getting-back-in-the-workforce",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b021ab2-998c-4f09-9fb6-e347f124957d/398faa53-b1b8-48f4-9167-171d2479b5d4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-labor-secretary-closed-schools-keeping-people-from-getting-back-in-the-workforce.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-labor-secretary-closed-schools-keeping-people-from-getting-back-in-the-workforce.amp",
-      "publishedDateTime": "2021-05-07T15:51:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-ohio-gop-censures-representative-anthony-gonzalez-for-not-supporting-trump.md",
-      "title": "Ohio G.O.P. censures Representative Anthony Gonzalez for not supporting Trump.",
-      "excerpt": "They are also calling for Mr. Gonzalez to resign for being one of 10 Republican House members who voted to impeach Donald J. Trump after the Jan. 6 riot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/07/us/07new-wash-gonzalez/07new-wash-gonzalez-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.amp.html",
-      "publishedDateTime": "2021-05-07T14:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-campos-duffy-slams-kamala-harris-border-absence-media-giving-her-free-pass.md",
-      "title": "Campos-Duffy slams Kamala Harris’ border absence: Media giving her ‘free pass’",
-      "excerpt": "Fox News contributor Rachel Campos-Duffy on \"Outnumbered\" Friday slammed Kamala Harris’ border absence and the media giving her a \"free pass.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/campos-duffy-slams-kamala-harris-border-absence-media-giving-her-free-pass",
-      "originalUrl": "https://www.foxnews.com/media/campos-duffy-slams-kamala-harris-border-absence-media-giving-her-free-pass",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/campos-duffy-slams-kamala-harris-border-absence-media-giving-her-free-pass.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/campos-duffy-slams-kamala-harris-border-absence-media-giving-her-free-pass.amp",
-      "publishedDateTime": "2021-05-07T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-joe-biden-laughs-at-notion-that-april-jobs-numbers-are-disappointing-despite-61-unemployment-rate.md",
-      "title": "Joe Biden Laughs at Notion That April Jobs Numbers Are Disappointing, Despite 6.1% Unemployment Rate",
-      "excerpt": "The president tried to appear optimistic about the jobs report. When he mentioned the commentators' reaction he laughed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/biden-laughs-jobs-1589693",
-      "originalUrl": "https://www.newsweek.com/biden-laughs-jobs-1589693",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1791377/biden-jobs-speech.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/biden-laughs-jobs-1589693?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-laughs-jobs-1589693?amp=1",
-      "publishedDateTime": "2021-05-07T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

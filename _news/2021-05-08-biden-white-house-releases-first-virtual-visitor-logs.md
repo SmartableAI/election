@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-first-virtual-vis
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp"
 type: article
 quality: 175
-heat: 595
+heat: 615
 published: true
 
 provider:
@@ -334,6 +334,22 @@ related:
       - url: "https://assets.realclear.com/images/53/538384_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Biden To Meet With Republican Lawmakers On Infrastructure Plan"
+    excerpt: "President Joe Biden is set to meet with a group of six Republican lawmakers to discuss the administration’s proposed infrastructure plan and how to pay for it. This comes a day after Mr. Biden and Vice President Kamala Harris met with bipartisan leaders to discuss the deal."
+    publishedDateTime: 2021-05-13T17:17:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/543043.jpg"
+        width: 3117
+        height: 2078
         isCached: true
   - title: "Based on Biden's Performance So Far, There's Trouble Ahead for Democrats"
     excerpt: "On the surface, Joe Biden seems to be doing pretty well. But underneath, there are signs of problems, areas where partisan overstretch threatens"

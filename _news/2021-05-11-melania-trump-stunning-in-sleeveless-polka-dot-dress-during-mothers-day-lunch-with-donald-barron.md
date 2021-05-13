@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Melania Trump Stuns In Sleeveless Polka Dot Dress During Mother's Day Lunch With Donald, Barron"
+    excerpt: "Melania Trump was stunning during her Mother's Day lunch with her husband Donald and son Barron before the ex-POTUS left for New Jersey."
+    publishedDateTime: 2021-05-11T05:50:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-stuns-sleeveless-polka-dot-dress-during-mothers-day-lunch-donald-barron-3196534"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-stuns-sleeveless-polka-dot-dress-during-mothers-day-lunch-donald-barron-3196534?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-stuns-sleeveless-polka-dot-dress-during-mothers-day-lunch-donald-barron-3196534?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 63
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-and-his-wife-melania-left-washington.jpg"
+        width: 1024
+        height: 668
+        isCached: true
 
 secured: "GD1v88MbeCDnPYDEubl+RJZ//SHzT88NWuQW7LuF3XWtQycC08Gj4bjZWwgx+0zz/OiIWD34hRHMR3DANzgnQiphd14BQ1U80PL7h2bpuVU/o6TAS6CAHRcHrT16o/gwtb7ut/L1u3u7UAu7NSnb2HeZ5FGdKB7J+e2NHKNarTf3BDaPoE+YSZK/z/7YVY7GRXlxmPhE1aZSsR5soHCFIgsM67ycg6C2C8BOLqoN59kSm95GKnw3habe+xkwiTT71z3Yitj0XoMPkDByW/DI0iygGvk7tVANlVQEwWsGavXndRsQIcBqV4KKXR3huR7/whiUs6BFKBzW5K2DmfLBtSQR1CUXi765z8rBN/n51OQ=;AeS2yCmdB4iBzjhH0Y8VRw=="
 ---

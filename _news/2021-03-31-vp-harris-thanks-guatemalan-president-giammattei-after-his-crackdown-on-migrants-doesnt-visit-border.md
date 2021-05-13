@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/vice-president-harris-guatemalan-pr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-harris-guatemalan-president-giammattei-illegal-immigants.amp"
 type: article
 quality: 169
-heat: 229
+heat: 209
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Rev.-Boise-Kimbe.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Christian minister sues Nancy Pelosi, Kamala Harris over access to Capitol"
-    excerpt: "A Christian minister is suing House Speaker Nancy Pelosi, Vice President Kamala Harris, the Capitol Police Board, and the Sergeant of Arms for the Senate — saying he was denied access to"
-    publishedDateTime: 2021-03-31T16:51:00Z
-    webUrl: "https://nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/"
-    ampWebUrl: "https://nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 133
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/rev-mahoney-suing-harris-pelosi-fences-hp2.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Kamala Harris event's lack of clergy 'an insult to the Black community,' pastor says"
     excerpt: "A pastor in Connecticut said the lack of clergy at a local event hosted by Vice President Kamala Harris is \"an insult to the Black community.\" The Rev. Boise Kimber, speaking on behalf of the Greater New Haven Clergy Association at a Monday press ..."

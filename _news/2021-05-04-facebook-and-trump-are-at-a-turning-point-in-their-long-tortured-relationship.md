@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/04/trump-facebook-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/04/trump-facebook-relationship-history/?outputType=amp"
 type: article
 quality: 121
-heat: 261
+heat: 281
 published: true
 
 provider:
@@ -135,6 +135,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/donald-trump-was-suspended-from-facebook-and-instagram.jpg"
         width: 1024
         height: 652
+        isCached: true
+  - title: "Donald Trump’s Facebook suspension upheld by Oversight Board; group calls on social media giant to conduct six-month review of case, policies"
+    excerpt: "Former president Donald Trump will remain suspended from posting on Facebook, the world’s most popular social media platform, according to an independent Oversight Board. But the board, a diverse group of international experts in law,"
+    publishedDateTime: 2021-05-05T13:14:00Z
+    webUrl: "https://www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 40
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/U3T3Z7ONNZDCBMPY2WPOZSOEPE.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "FMB7tJ4YHddS4AVyrAPtcc5Wh3Nk1tQhSz/PYp4daWBeq7+Tos+VFfg6p0AqVB1YbQ+5HFFW0MO4qiCd8nrRg/9C1SGVwhYbqAft5UysbJPIOIgpsPv5ogzr+8Mq57Pr3Qx5Q8P0DpTJS2FAlaVkkHR/U3i9oow36NMoZKyZjLoOCz/o6lnXvHhb9A45nXyaalTYjpS/p1/7q7fkyQ+V6QC+dZAXfKQrUgeioynmfqtX3Y4ojo02gnotzDlh4vZkMHbdPgw7ssalAhhL+8acI1PqgvNfVb6OdUpw28WIInLIR0gD5KF+JyIh6U9NCyG9SLWa2gocZ7iNb/A0FidBIux7wSXP4M8cH8clzR4+ZIzrIeZU7dc25oNidBIj9RvsR/grUpoRK/ZJOVjVx7QSm4PVGLqCRF/3a+SzO8pFuCq5nNkiU7zuw0AQ31q+vjKlBILCyrzMQDN/9QecAKnVJrr3tOTJKFBWqWufxd0kk2V/WKOspQ7LgUZXxIqBib3dZ07bZqIquWwtXNT09J+ucg==;sHHP+lcnhmQw5vzFIVI+jQ=="

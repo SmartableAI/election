@@ -136,6 +136,22 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 49
+  - title: "Donald Trump’s Facebook suspension upheld by Oversight Board; group calls on social media giant to conduct six-month review of case, policies"
+    excerpt: "Former president Donald Trump will remain suspended from posting on Facebook, the world’s most popular social media platform, according to an independent Oversight Board. But the board, a diverse group of international experts in law,"
+    publishedDateTime: 2021-05-05T13:14:00Z
+    webUrl: "https://www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/donald-trumps-facebook-suspension-upheld-by-oversight-board-calls-on-social-media-giant-to-conduct-six-month-review.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 40
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/U3T3Z7ONNZDCBMPY2WPOZSOEPE.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "PZeiEBxo/I54FsR31AvNlW5N53bw8yxyWQqw3MV82zdt1s+/JIcNw5yMjhHqAgInCoR0q1mOMJXj6hSZxrNHo07YuwtYuvzh0Zio/vm5A0AqTzyth9tH/wgdx0lzLkqM4DAHLU96WLDCtHsIQMUZgPo/uvJKD7O+t/QSl2qKxzpwCYQaUB505N0IXjl9ZfGzQwSzN2Em86cU5ir4O/oDwKExU0t/Vdrnq6Gucofkzq8qbtlEaBP4+nzpdeRUzJ/qw1frTrhth3pENz9nxjhUPLAdlS9vZiCf/JkYghE0rBOjL8h9nVQYdOMcWEz78+OoypiOfmA9PHIpFr2A9YuiGN/kj4YvcTElLSUoZMw97iE=;+QpUdSG0qfZ1T2SK+ThbCA=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-14-biden-says-colonial-pipeline-back-to-full-capacity-but-hiccups-likely-live.md",
+      "title": "Biden says Colonial pipeline back to full capacity but ‘hiccups’ likely – live",
+      "excerpt": "President urges Americans not to buy more gas than necessary while Pelosi condemn Republicans for downplaying Capitol attack – follow the latest",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live?page=with:block-609d57cc8f08e757a7353de9",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live?page=with:block-609d57cc8f08e757a7353de9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/22a77b66b65a2dbf6a53cafaa246389d232f78b8/0_319_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b68ceddf89bff11da8a370aaf357128e",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live",
+      "publishedDateTime": "2021-05-13T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-more-than-40-senators-write-to-biden-demanding-end-to-iran-nuclear-talks-over-hamas-funding.md",
       "title": "More Than 40 Senators Write to Biden Demanding End to Iran Nuclear Talks Over Hamas Funding",
       "excerpt": "\"We call on you to immediately end negotiations with Iran, and make clear that sanctions relief will not be provided,\" a group of 43 Republican senators wrote to President Joe Biden on Wednesday.",
@@ -1538,63 +1590,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-amtrak-became-my-family-biden-a-longtime-commuter-says-on-the-railroads-50th-anniversary.md",
-      "title": "‘Amtrak became my family,’ Biden, a longtime commuter, says on the railroad’s 50th anniversary.",
-      "excerpt": "The president has been called “Amtrak Joe” because of the years he spent taking the train between Washington and Delaware.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/30/us/politics/biden-amtrak.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/30/us/politics/biden-amtrak.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/30/us/politics/30new-washington-briefing-BidenAmtrak/30new-washington-briefing-BidenAmtrak-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/30/us/politics/biden-amtrak.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/30/us/politics/biden-amtrak.amp.html",
-      "publishedDateTime": "2021-04-30T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],
