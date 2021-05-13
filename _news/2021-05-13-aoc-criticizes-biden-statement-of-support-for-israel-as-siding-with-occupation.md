@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/aoc-criticizes-biden-statement-of-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-criticizes-biden-statement-of-support-for-israel-as-sideing-with-occupation.amp"
 type: article
 quality: 170
-heat: 210
+heat: 230
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 162
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63f883a6-06be-4ace-bff6-550cbbb8026b/48a9dcbc-17e6-415b-872e-78490dcf151d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Meghan McCain hits Biden's approach to Middle East violence: Support for Israel sounds like 'just words'"
+    excerpt: "Co-host of \"The View\" Meghan McCain took a swing at President Biden Thursday over his approach to the ongoing crisis in the Middle East between Israel and Hamas."
+    publishedDateTime: 2021-05-13T18:12:00Z
+    webUrl: "https://www.foxnews.com/media/meghan-mccain-joe-biden-middle-east-israel-support"
+    ampWebUrl: "https://www.foxnews.com/media/meghan-mccain-joe-biden-middle-east-israel-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/meghan-mccain-joe-biden-middle-east-israel-support.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/546b13d0-4db8-46ae-bd99-9bb074792e9c/c95c93ab-5bb1-4be0-a28c-050ef77c9493/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

@@ -66,7 +66,7 @@ related:
   - title: "Biden Asks Drivers Not To Hoard Gas After Colonial Pipeline Cyberattack: \"Don't Panic\""
     excerpt: "President Joe Biden urged Americans not to give in to the temptation to start \"panic buying\" fuel amid gas shortages caused by the ransomware cyberattack on Colonial Pipeline. \"I know seeing lines at the pumps or gas stations with no gas can be extremely stressful."
     publishedDateTime: 2021-05-13T17:18:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.html"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.amp.html"
     type: article

@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-14-activists-and-ex-spy-said-to-have-plotted-to-discredit-trump-enemies-in-government.md",
+      "title": "Activists and Ex-Spy Said to Have Plotted to Discredit Trump ‘Enemies’ in Government",
+      "excerpt": "The campaign included planned operations against President Trump’s national security at the time, H.R. McMaster, and F.B.I. employees, according to documents and interviews.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.html",
+      "originalUrl": "https://www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/05/13/us/politics/13dc-investigate1/13dc-investigate1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.amp.html",
+      "publishedDateTime": "2021-05-13T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-biden-work-in-progress-to-stop-mideast-clashes.md",
+      "title": "Biden: 'Work in progress' to stop Mideast clashes",
+      "excerpt": "President Joe Biden says his administration has not just spoke with Israeli leaders as fighting between Hamas and Israel escalates even amid truce efforts. Biden says \"there has not been a significant overreaction\" from Israel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/05/13/biden-work-progress-stop-mideast-clashes/5076433001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/05/13/biden-work-progress-stop-mideast-clashes/5076433001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/7314b9de-e085-4233-aeae-46b6299d7801_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-pelosi-says-she-has-confidence-in-harris-addressing-root-cause-of-border-crisis.md",
       "title": "Pelosi says she has confidence in Harris addressing root cause of border crisis",
       "excerpt": "House Speaker Nancy Pelosi said Thursday she has confidence in Vice President Kamala Harris' ability to address the root causes of the border crisis and touted progress the Biden Administration has already made to \"reconstruct\" the immigration system. ",
@@ -59,21 +168,21 @@
       ]
     },
     {
-      "path": "_news/2021-05-14-biden-says-colonial-pipeline-back-to-full-capacity-but-hiccups-likely-live.md",
-      "title": "Biden says Colonial pipeline back to full capacity but ‘hiccups’ likely – live",
-      "excerpt": "President urges Americans not to buy more gas than necessary while Pelosi condemn Republicans for downplaying Capitol attack – follow the latest",
+      "path": "_news/2021-05-14-biden-pledges-aggressive-response-to-pipeline-cyberattackers.md",
+      "title": "Biden pledges aggressive response to pipeline cyberattackers",
+      "excerpt": "President Joe Biden has warned gasoline stations not to engage in price gouging as motorists wait for fuel to start flowing reliably through the Colonial Pipeline",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live?page=with:block-609d57cc8f08e757a7353de9",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live?page=with:block-609d57cc8f08e757a7353de9",
+      "webUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 165,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/22a77b66b65a2dbf6a53cafaa246389d232f78b8/0_319_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b68ceddf89bff11da8a370aaf357128e",
-          "width": 600,
-          "height": 360,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHX4FJFUBUI6XPEW7X2V3ZB354.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -81,16 +190,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live",
-      "publishedDateTime": "2021-05-13T10:49:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-13T10:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -324,6 +433,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-biden-says-that-fuel-is-beginning-to-flow-as-administration-struggles-to-limit-political-damage-from-gas-shortage.md",
+      "title": "Biden says that fuel is ‘beginning to flow,’ as administration struggles to limit political damage from gas shortage",
+      "excerpt": "Republicans have seized on the crisis to attack Biden’s energy policies and portray him as an agent of chaos amid other challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-gas-shortage-hack/2021/05/12/75869444-b33a-11eb-9059-d8176b9e3798_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-gas-shortage-hack/2021/05/12/75869444-b33a-11eb-9059-d8176b9e3798_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJC2E7VTKMI6XPEW7X2V3ZB354.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-gas-shortage-hack/2021/05/12/75869444-b33a-11eb-9059-d8176b9e3798_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gas-shortage-hack/2021/05/12/75869444-b33a-11eb-9059-d8176b9e3798_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-13T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -924,7 +1085,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 210,
+      "heat": 230,
       "tags": null,
       "images": [
         {
@@ -1185,170 +1346,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets.md",
-      "title": "Biden calls Netanyahu, says Israel ‘has right to defend itself’ against Hamas rockets",
-      "excerpt": "President Biden on Wednesday spoke with Prime Minister Benjamin Netanyahu to reaffirm U.S. support for Israel after a night of bloodshed with civilians in Tel Aviv sheltering from Hamas rockets.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1WWZ0vwbFK8/biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1WWZ0vwbFK8/biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b23813c0-263f-4ba0-bb51-bcdefd534333/bbd01931-98bc-45cb-ac58-22600b835035/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets.amp",
-      "publishedDateTime": "2021-05-12T16:35:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-fast-and-efficient-biden-urges-cdc-approved-vaccinations-for-kids-12-15-us-deaths-lowest-in-10-months-latest-covid-19-updates.md",
-      "title": "'Fast and efficient': Biden urges CDC-approved vaccinations for kids 12-15; US deaths lowest in 10 months: Latest COVID-19 updates",
-      "excerpt": "After weeks of the U.S. reporting around 700 deaths per day, the country is now averaging about 600 deaths a day. Latest COVID-19 news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/health/2021/05/12/covid-pfizer-vaccine-variant-deaths-hesitancy-cases/5046377001/",
-      "originalUrl": "https://www.usatoday.com/story/news/health/2021/05/12/covid-pfizer-vaccine-variant-deaths-hesitancy-cases/5046377001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/12/USAT/f1718a84-e8f8-4fa4-95a2-729411511302-AP21131792607869.jpg?auto=webp&crop=5327,2996,x0,y186&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5046377001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5046377001",
-      "publishedDateTime": "2021-05-12T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-biden-signs-cybersecurity-executive-order-though-rules-wouldnt-have-applied-to-colonial-pipeline.md",
-      "title": "Biden signs cybersecurity executive order, though rules wouldn't have applied to Colonial Pipeline",
-      "excerpt": "President Joe Biden signed an executive order Wednesday meant to better protect the nation from cyberattacks, but even as he signed it, the White House acknowledged more will need to be done to prevent the type of hack that affected the Colonial Pipeline.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/12gzgGnLCC0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/12gzgGnLCC0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210512155902-04-pipeline-hack-fallout-0512-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html",
-      "publishedDateTime": "2021-05-12T15:51:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

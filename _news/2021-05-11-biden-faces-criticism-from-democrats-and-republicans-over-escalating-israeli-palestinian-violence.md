@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Meghan McCain hits Biden's approach to Middle East violence: Support for Israel sounds like 'just words'"
+    excerpt: "Co-host of \"The View\" Meghan McCain took a swing at President Biden Thursday over his approach to the ongoing crisis in the Middle East between Israel and Hamas."
+    publishedDateTime: 2021-05-13T18:12:00Z
+    webUrl: "https://www.foxnews.com/media/meghan-mccain-joe-biden-middle-east-israel-support"
+    ampWebUrl: "https://www.foxnews.com/media/meghan-mccain-joe-biden-middle-east-israel-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/meghan-mccain-joe-biden-middle-east-israel-support.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/546b13d0-4db8-46ae-bd99-9bb074792e9c/c95c93ab-5bb1-4be0-a28c-050ef77c9493/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "dlirTi3oott6GL8yV0kxrfT9XN9qDAuDlp3NLXhfWf7KH0NBn+hgbF2AHoNEUqVLHJkVHP7svhzV0+2pWkpYRNyuxFzjzWZhc2t1cpAq6RVefQ1Obtn+ntyKj6rEH6TTj4GUq02GjI3ZsKUCra3HuX59TptUHgS5Xpn3ag6Y2n38pzjGg4kaySOxR8n9oGMDAXZCZqfnQ0t322eAmJhfhuI7YkF1WR7k+ikBrKXZoeuZYf4+LPhtLZo43rVvnkfvOKKVKsSb2Q3N6EWebxPw6I4JKY2hjnSX5HpHHYmPvLS9/hsq/Q+bFj7VSi/Chp5ussVNpkbgolTEe1lUpzPGRGfnO+u1iQU8gF6YSAifnOQ=;mRaJPw+myml9vpxfNpakHw=="
 ---

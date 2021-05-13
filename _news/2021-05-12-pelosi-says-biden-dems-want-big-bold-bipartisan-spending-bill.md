@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-biden-dems-big-bold-bipartis
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-biden-dems-big-bold-bipartisan-bill.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "'Your World' breaks down gas shortage fallout, Biden's spending agenda"
+    excerpt: "Guests: Rob Portman, Purvi Parikh, Kristen Hawn, Charles Grassley, Danielle DiMartino Booth, Karl Rove, Kennedy"
+    publishedDateTime: 2021-05-13T18:06:00Z
+    webUrl: "https://www.foxnews.com/transcript/your-world-breaks-down-gas-shortage-fallout-bidens-spending-agenda"
+    ampWebUrl: "https://www.foxnews.com/transcript/your-world-breaks-down-gas-shortage-fallout-bidens-spending-agenda.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-breaks-down-gas-shortage-fallout-bidens-spending-agenda.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d6b0020-e97b-49d3-bf19-971ab3f97cc8/1f9b4635-6885-4483-9b98-8a6407064850/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "V99/hsWs5KQOnHdD3dGiAIqHk55o5GHru6rRdpMOHsyf2z0cDgNzbofllxWjOZ7myqsMhb0XU3KWBRNI2br0hE+QhKZEK/LIxlm0E+yofKTkZzcz9EVyu7P0uht+HxhIYb8b+ksvkGI9ZSZFvK1/e8kSk+uPXYnt9PHvBlLlxPv3LpOn49YxpWKFDHCWnkh45qS2j21j/YtQKMTJGGUWpv/QUjQ/K2EDW7UqyNz9IjJxoWrF3/x91X6DH+nqD+SXV7FprcLZFsLPOpuibb+3DMpuMHHjFKkCnurjk7NVtApNeerC6D8wkcQhPPwTczkOD0vcJWJsqzZAjqUx/n+J1n/A1RJoqNbkzwGLjJTJvm8=;zlRnc9SJH3csU6bcmCzTwA=="

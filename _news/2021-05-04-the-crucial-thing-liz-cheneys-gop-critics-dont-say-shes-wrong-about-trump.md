@@ -333,6 +333,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Cheney won't rule out running for president to stop Trump"
+    excerpt: "House Republicans are slated to gather Thursday behind closed doors ahead of an election Friday to fill the No. 3 leadership role previously held by Rep. Liz Cheney."
+    publishedDateTime: 2021-05-13T19:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/cheney-rule-running-president-stop-trump/story?id=77667888"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/cheney-rule-running-president-stop-trump/story?id=77667888"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/cheney-rule-running-president-stop-trump/story?id=77667888"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/cheney-rt-3-rc-210512_1620826693011_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "House GOP leader Kevin McCarthy amps up pressure on Liz Cheney over Donald Trump barbs"
     excerpt: "Kevin McCarthy has planted himself on the side of Liz Cheney's critics, raising the question of her fitness to lead House Republicans."
     publishedDateTime: 2021-05-04T16:35:00Z

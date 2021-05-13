@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-ele
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp"
 type: article
 quality: 138
-heat: 378
+heat: 398
 published: true
 
 provider:
@@ -131,6 +131,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_7b620c09181e49eba40aa16df6cda784_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden: 'Confident' Putin not behind pipeline attack"
+    excerpt: "President Joe Biden said Thursday the FBI does not believe the Russian government was involved in the Colonial Pipeline cyberattack, but it does think those responsible for the ransomware hack live in Russia."
+    publishedDateTime: 2021-05-13T18:19:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/13/biden-confident-putin-not-behind-pipeline-attack/5076710001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/90aab61a-e074-47a1-ac39-f7cdccd188ee_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Fact Check-President Biden did not sign 96 executive orders in his first three months in office"
     excerpt: "In his first 100 days in office, President Joe Biden has not signed 96 executive orders. According to FederalRegister.gov, part of the United States National Archives, the Biden Administration had published 42 executive orders by April 27,"

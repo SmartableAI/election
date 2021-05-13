@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "'Your World' breaks down gas shortage fallout, Biden's spending agenda"
+    excerpt: "Guests: Rob Portman, Purvi Parikh, Kristen Hawn, Charles Grassley, Danielle DiMartino Booth, Karl Rove, Kennedy"
+    publishedDateTime: 2021-05-13T18:06:00Z
+    webUrl: "https://www.foxnews.com/transcript/your-world-breaks-down-gas-shortage-fallout-bidens-spending-agenda"
+    ampWebUrl: "https://www.foxnews.com/transcript/your-world-breaks-down-gas-shortage-fallout-bidens-spending-agenda.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-breaks-down-gas-shortage-fallout-bidens-spending-agenda.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d6b0020-e97b-49d3-bf19-971ab3f97cc8/1f9b4635-6885-4483-9b98-8a6407064850/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "IJH7EKON1Bi/dq8jLCH7EIUevlqU0v+UjlSm6VqZVyrVgrVVKITJjex8nrTwuveP6Sf/SxPg8vGOopUzOyeErSMGICQiR3iv45CMtial98CinJ0+k2vgytidT4+s8IV9Oqj7PAR3Z7TDM+rx2OPazcgYFOaBfaAdRSGaxyayxMkYL8HlZ5YvAYS3sbejKNHmy6QVZ08WTS7AHIYXH1oEC/X1+tXmhHnmgLEWBdOjjwQWKdqx3tcSJBYOqWHaDLK/rafYP5oxuadMc90bG+1svKYL0dL9h+TQveby4ypbc+C9HrW8p5bBRtI2Bi69fZv1xLi+NmFpc/LDY5ttSZ9g6nRTj4IyV+grUOiZrm8ThXs=;he9Cr67Rlv45fU9KdscB2g=="
 ---

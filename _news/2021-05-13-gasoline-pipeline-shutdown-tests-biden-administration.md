@@ -132,6 +132,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Biden: 'Confident' Putin not behind pipeline attack"
+    excerpt: "President Joe Biden said Thursday the FBI does not believe the Russian government was involved in the Colonial Pipeline cyberattack, but it does think those responsible for the ransomware hack live in Russia."
+    publishedDateTime: 2021-05-13T18:19:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/13/biden-confident-putin-not-behind-pipeline-attack/5076710001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/90aab61a-e074-47a1-ac39-f7cdccd188ee_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Fact Check-President Biden did not sign 96 executive orders in his first three months in office"
     excerpt: "In his first 100 days in office, President Joe Biden has not signed 96 executive orders. According to FederalRegister.gov, part of the United States National Archives, the Biden Administration had published 42 executive orders by April 27,"
     publishedDateTime: 2021-05-05T15:40:00Z

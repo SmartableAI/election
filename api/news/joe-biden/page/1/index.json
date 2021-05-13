@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-14-biden-says-colonial-pipeline-back-to-full-capacity-but-hiccups-likely-live.md",
-      "title": "Biden says Colonial pipeline back to full capacity but ‘hiccups’ likely – live",
-      "excerpt": "President urges Americans not to buy more gas than necessary while Pelosi condemn Republicans for downplaying Capitol attack – follow the latest",
+      "path": "_news/2021-05-14-biden-work-in-progress-to-stop-mideast-clashes.md",
+      "title": "Biden: 'Work in progress' to stop Mideast clashes",
+      "excerpt": "President Joe Biden says his administration has not just spoke with Israeli leaders as fighting between Hamas and Israel escalates even amid truce efforts. Biden says \"there has not been a significant overreaction\" from Israel.",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live?page=with:block-609d57cc8f08e757a7353de9",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live?page=with:block-609d57cc8f08e757a7353de9",
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/05/13/biden-work-progress-stop-mideast-clashes/5076433001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/05/13/biden-work-progress-stop-mideast-clashes/5076433001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/22a77b66b65a2dbf6a53cafaa246389d232f78b8/0_319_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b68ceddf89bff11da8a370aaf357128e",
-          "width": 600,
-          "height": 360,
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/7314b9de-e085-4233-aeae-46b6299d7801_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,120 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live",
-      "publishedDateTime": "2021-05-13T10:49:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T11:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-biden-pledges-aggressive-response-to-pipeline-cyberattackers.md",
+      "title": "Biden pledges aggressive response to pipeline cyberattackers",
+      "excerpt": "President Joe Biden has warned gasoline stations not to engage in price gouging as motorists wait for fuel to start flowing reliably through the Colonial Pipeline",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHX4FJFUBUI6XPEW7X2V3ZB354.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-13T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-biden-says-that-fuel-is-beginning-to-flow-as-administration-struggles-to-limit-political-damage-from-gas-shortage.md",
+      "title": "Biden says that fuel is ‘beginning to flow,’ as administration struggles to limit political damage from gas shortage",
+      "excerpt": "Republicans have seized on the crisis to attack Biden’s energy policies and portray him as an agent of chaos amid other challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-gas-shortage-hack/2021/05/12/75869444-b33a-11eb-9059-d8176b9e3798_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-gas-shortage-hack/2021/05/12/75869444-b33a-11eb-9059-d8176b9e3798_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJC2E7VTKMI6XPEW7X2V3ZB354.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-gas-shortage-hack/2021/05/12/75869444-b33a-11eb-9059-d8176b9e3798_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gas-shortage-hack/2021/05/12/75869444-b33a-11eb-9059-d8176b9e3798_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-13T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -431,7 +535,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president",
       "featuredContent": null,
       "highlight": null,
-      "heat": 378,
+      "heat": 398,
       "tags": null,
       "images": [
         {
@@ -1469,110 +1573,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-nkorea-warns-us-of-very-grave-situation-over-biden-speech.md",
-      "title": "NKorea warns US of 'very grave situation' over Biden speech",
-      "excerpt": "North Korea has warned the United States will face “a very grave situation” because President Joe Biden “made a big blunder” in his recent speech by calling the North a security threat and revealing h",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/nkorea-warns-us-grave-situation-biden-speech-77443536",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/nkorea-warns-us-grave-situation-biden-speech-77443536",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/WireAP_f7cf6236d848471fae09a5f9905f9b83_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/nkorea-warns-us-grave-situation-biden-speech-77443536",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/nkorea-warns-us-grave-situation-biden-speech-77443536",
-      "publishedDateTime": "2021-05-01T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far.md",
-      "title": "Joe Biden Issues 11 Proclamations, His Highest Daily Tally So Far",
-      "excerpt": "President Joe Biden set a personal daily record for The president issued 11 proclamations on April 30. Proclamations are statements that serve a variety of functions, such as issuing a directive, acknowledging an event or person,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054",
-      "originalUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1786140/biden-addresses-joint-session-congress.jpg",
-          "width": 2836,
-          "height": 1900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-issues-11-proclamations-his-highest-daily-tally-so-far-1588054?amp=1",
-      "publishedDateTime": "2021-05-01T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

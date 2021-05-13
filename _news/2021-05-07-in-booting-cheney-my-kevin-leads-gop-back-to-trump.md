@@ -317,6 +317,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Cheney won't rule out running for president to stop Trump"
+    excerpt: "House Republicans are slated to gather Thursday behind closed doors ahead of an election Friday to fill the No. 3 leadership role previously held by Rep. Liz Cheney."
+    publishedDateTime: 2021-05-13T19:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/cheney-rule-running-president-stop-trump/story?id=77667888"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/cheney-rule-running-president-stop-trump/story?id=77667888"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/cheney-rule-running-president-stop-trump/story?id=77667888"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/cheney-rt-3-rc-210512_1620826693011_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The crucial thing Liz Cheney’s GOP critics don’t say: She’s wrong about Trump"
     excerpt: "Liz Cheney (Wyo.) may not be long for House GOP leadership. After a failed attempt to oust the No. 3 GOP official following her vote to impeach President Donald Trump, the movement has again built steam following Cheney’s increasing efforts to distance her party from Trump and his false claims about a stolen 2020 election."
     publishedDateTime: 2021-05-04T15:49:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Biden Asks Drivers Not To Hoard Gas After Colonial Pipeline Cyberattack: \"Don't Panic\""
 excerpt: "President Joe Biden urged Americans not to give in to the temptation to start \"panic buying\" fuel amid gas shortages caused by the ransomware cyberattack on Colonial Pipeline. \"I know seeing lines at the pumps or gas stations with no gas can be extremely stressful."
 publishedDateTime: 2021-05-13T17:18:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.html"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.amp.html"
 type: article
@@ -77,6 +77,6 @@ related:
         height: 405
         isCached: true
 
-secured: "ollKOt6LdmlbqYOYm9h6ZYyW0OrlUQGKyqLLmTfPr3V/hDPPnC4dtteK/24xlj127LSlbShAGel1yp0K8USMxVoN07GNw8G8rCqq5norMVomwIAy/+vALRgAo0jaY48icDj8Ms5hfOqzfFQ8PrpTYYR0Cui6S1YV50OSyeREMcRFH9SL26w2EjC2iYJvEIAsT+H2x849VaYT9ZJiicZRBYhtHwmUM8mgVyrmjTx9WZGRLHndF16asjLrVl2WQuWXZILH/BjWgehvH1OWh/oy6nPa+4QhWW7WocmxuhF2Zv/ljOUVkqf1/Isv5ar8ehSKFoG+R3aQCsDeFT03xaMiEn09jJf1tvVYed5iHntXKec=;d5Mb4D9ApGwhWBL0qL/UwQ=="
+secured: "kMMJH4SphWDcbrDQMXQZPlYmiOlU9rjmkob3IQIVipKxHIEJPxrGpLHOSV3Tgie+nYhvxfb2EfjWBOotpQKL2OqR6qPUOcxTO2IlG95TwHUciYGExEwxitDlEejPrmcVq4wdyO14Wc9mx1SVGgq3r5yKZNpSoaLNbuKrWHIxbGg20py0YnhM4AtQUYe4Ha3t5g7N0U4MX4n1zZd/b1Bi3gV59pTMu49VlGDTX+aQnn+ZGb6e/NvZm58/JQQJ5QWdW53oemKc4zszhPBRt0PON/dnXpkcBooEVO9CHBZjSmN5f9SLnIfAK2MidKYaYngKCbZFPyP/mpre8IgjCkJXoVH0Gkuqyb1x/GIh3+K0GZ8=;KkgQ3eFQoMDJ68csxNCTig=="
 ---
 
