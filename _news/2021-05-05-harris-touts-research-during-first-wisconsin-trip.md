@@ -451,10 +451,10 @@ related:
         width: 760
         height: 521
         isCached: true
-  - title: "Photos: Kamala Harris sells San Francisco loft; seeks buyer for DC condo"
-    excerpt: "Kamala Harris has sold her SoMa loft in San Francisco for $860,000 and now seeks a buyer for her Washington, DC, condo."
+  - title: "Photos: Kamala Harris sells San Francisco loft, seeks buyer for DC condo"
+    excerpt: "The SoMa loft sells for $860,000; the Washington property, listed at $1.995 million, has two bedrooms and two bathrooms."
     publishedDateTime: 2021-05-03T16:07:00Z
-    webUrl: "https://www.mercurynews.com/2021/05/03/photos-kamala-harris-sells-san-francisco-loft-seeks-buyer-for-dc-condo"
+    webUrl: "https://www.mercurynews.com/2021/05/03/photos-kamala-harris-sells-san-francisco-loft-seeks-buyer-for-dc-condo/"
     ampWebUrl: "https://www.mercurynews.com/2021/05/03/photos-kamala-harris-sells-san-francisco-loft-seeks-buyer-for-dc-condo/amp/"
     cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/05/03/photos-kamala-harris-sells-san-francisco-loft-seeks-buyer-for-dc-condo/amp/"
     type: article
@@ -463,7 +463,7 @@ related:
       domain: mercurynews.com
     quality: 74
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/kam3.jpg?w=700&h=434"
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/kam3.jpg?w=700&#038;h=434"
         width: 700
         height: 434
         isCached: true

@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Photos: Kamala Harris sells San Francisco loft; seeks buyer for DC condo"
-excerpt: "Kamala Harris has sold her SoMa loft in San Francisco for $860,000 and now seeks a buyer for her Washington, DC, condo."
+title: "Photos: Kamala Harris sells San Francisco loft, seeks buyer for DC condo"
+excerpt: "The SoMa loft sells for $860,000; the Washington property, listed at $1.995 million, has two bedrooms and two bathrooms."
 publishedDateTime: 2021-05-03T16:07:00Z
-originalUrl: "https://www.mercurynews.com/2021/05/03/photos-kamala-harris-sells-san-francisco-loft-seeks-buyer-for-dc-condo"
-webUrl: "https://www.mercurynews.com/2021/05/03/photos-kamala-harris-sells-san-francisco-loft-seeks-buyer-for-dc-condo"
+originalUrl: "https://www.mercurynews.com/2021/05/03/photos-kamala-harris-sells-san-francisco-loft-seeks-buyer-for-dc-condo/"
+webUrl: "https://www.mercurynews.com/2021/05/03/photos-kamala-harris-sells-san-francisco-loft-seeks-buyer-for-dc-condo/"
 ampWebUrl: "https://www.mercurynews.com/2021/05/03/photos-kamala-harris-sells-san-francisco-loft-seeks-buyer-for-dc-condo/amp/"
 cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/05/03/photos-kamala-harris-sells-san-francisco-loft-seeks-buyer-for-dc-condo/amp/"
 type: article
@@ -21,7 +21,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/kam3.jpg?w=700&h=434"
+  - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/kam3.jpg?w=700&#038;h=434"
     width: 700
     height: 434
     isCached: true
@@ -842,6 +842,6 @@ related:
       domain: bostonglobe.com
     quality: 22
 
-secured: "MDjBTykgeXj4kx9FKl8K6/GSkHBFjWa6Bi2IO02Ki9S1ObYSz+ullr7zHbppaqI0vyE0uapNVxSB88eHB9DueS27tX2nbk4xm18jLIjgjPveygr4SMn7Bj+8QEqiS5+xFdoOY9mLgenAPY7vfMnj3l6Sv7djUvr+MEBWKKCkY2KZXGQ26wqvuwEL56RAmxwents8vE0HKDEN2TYI5QP7lRAAoH2GzHZcLRPoSUCRsQwWX4eFmcNtxd09u2lhUJXi7aNdqW7UAZGb2Dp6jJSOaV5Cf48CL85quF6g6p3Goh6voCiRNOX37NHXcYNnXxLfG16vZZSwv9jWL01KOkzNK6uHYrzlUu0T8rnJ4RTflzm6XV4v1hAnyu/uTXz7VDefM23Uh3SH+ZehLeVsLNAkoxHDUCwZMoEDIzPyYp0Y7frH9Lo+2EEjGJBJ195ATDmrY6B/d6fHFNtpHoLGiIShup5dSeCgMdyshji5mKxk+YnggHC+kav1aCZPgoaMd3Gv8poRxsTb5z09Vt93C76/xg==;W/35fQeokm7g2sfOy/mWQw=="
+secured: "LqXOur9mxyZ9PuRRPfBlRIdS1AAs3UHTqQL+qh7pmlfm1SnL33JyObzY/SgZ/6WVOM6AUeEpcJDCD18OdErUsZeRzitDZteq09MGJUFoKIuTKOgq5tFcV+2ZqCSB7C+3/+rpSLYQYiQk2AL4n/bfUpnDhISpTMp8xaj7tzF64WF8CTAmCKeu6jWiZOoe02rxZxcQtSY+mw9uYg7sy/2+Cl/cwg+LGERj5xUK4Ex1Ue4P1qqt+tFthjexLy9KVPTtR9K3as1rnHvblwLCspOuOr3ACPTvOjka8mbVpXbrjVvieIPyI9LwtUAPsPi09KUmknRAjMWyJJoTa459BMSKCYh9FyALF8jUguZGb3BrycI=;0JYH50QB+Ku7gdxAVPbsxQ=="
 ---
 

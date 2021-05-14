@@ -1,24 +1,20 @@
 ---
 category: news
-title: "Memorial Day: Biden faces growing pressure to let veterans use Pentagon parking lot for event"
-excerpt: "Fla., and more than 30 other Republican members of Congress are pressuring President Biden to override the Pentagon's decision to block a veterans group from staging a Memorial Day motorcycle rally in the Pentagon parking lot."
-publishedDateTime: 2021-05-11T10:10:00Z
-originalUrl: "https://www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast"
-webUrl: "https://www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast"
-ampWebUrl: "https://www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast.amp"
+title: "President Biden Asks Drivers Not To Hoard Gas After Colonial Pipeline Cyberattack: \"Don't Panic\""
+excerpt: "President Joe Biden urged Americans not to give in to the temptation to start \"panic buying\" fuel amid gas shortages caused by the ransomware cyberattack on Colonial Pipeline. \"I know seeing lines at the pumps or gas stations with no gas can be extremely stressful."
+publishedDateTime: 2021-05-14T06:13:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.html#!"
+ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.amp.html"
 type: article
-quality: 124
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
@@ -26,9 +22,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd13b987-cc4d-4d34-8e55-2c8c4876c6b6/b48fab23-52b1-4171-b8b8-768569b6af89/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://assets.realclear.com/images/54/543185.jpg"
+    width: 750
+    height: 562
     isCached: true
 
 related:
@@ -112,6 +108,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Memorial Day: Biden faces growing pressure to let veterans use Pentagon parking lot for event"
+    excerpt: "Fla., and more than 30 other Republican members of Congress are pressuring President Biden to override the Pentagon's decision to block a veterans group from staging a Memorial Day motorcycle rally in the Pentagon parking lot."
+    publishedDateTime: 2021-05-11T10:10:00Z
+    webUrl: "https://www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast"
+    ampWebUrl: "https://www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd13b987-cc4d-4d34-8e55-2c8c4876c6b6/b48fab23-52b1-4171-b8b8-768569b6af89/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Joe Biden, Economy Killer"
     excerpt: "Along with a working vaccine, Joe Biden inherited a V-shaped economic recovery, but he is now planting the seeds of its destruction. Inflation,"
     publishedDateTime: 2021-05-07T10:34:00Z
@@ -143,22 +155,6 @@ related:
       - url: "https://assets.realclear.com/images/54/543021_5_.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "President Biden Asks Drivers Not To Hoard Gas After Colonial Pipeline Cyberattack: \"Don't Panic\""
-    excerpt: "President Joe Biden urged Americans not to give in to the temptation to start \"panic buying\" fuel amid gas shortages caused by the ransomware cyberattack on Colonial Pipeline. \"I know seeing lines at the pumps or gas stations with no gas can be extremely stressful."
-    publishedDateTime: 2021-05-14T06:13:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.html#!"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 72
-    images:
-      - url: "https://assets.realclear.com/images/54/543185.jpg"
-        width: 750
-        height: 562
         isCached: true
   - title: "Jen Psaki Says the Quiet Part Out Loud About Joe Biden"
     excerpt: "Jen Psaki made a stunning admission in a patently flippant way last week during a conversation with CNN's David Axelrod. The White House press secretary openly admitted that President Biden's handlers often tell him they prefer he not speak to reporters outside of controlled settings."
@@ -203,6 +199,6 @@ related:
         height: 500
         isCached: true
 
-secured: "ddDFwf/fpZs7cBOy9bnaNO76ncy9Gaiz7H5E+RmAfZQguDqsHkXGe8l65EHMb3u6LVmcHmkljgyDD0RO2byQxuLZkOZpWOOJcKgjAVb9QOLNBBiwLFm7OichEkarD06B/TgAmH16dE1/y0eF2EJ/5PTZe8B3uGbJL3n9H7mFJEHjjzC8oQGu31rDp1ml5UGN01ZOv9NxJ/Dd2ALGaSBl4u3GHKioSC+RZ8N4Ek6f5PSYV27su33YIceP89fv09ncbKdCHxiK+HlRxKlbZ7yylKQe22/o1e+vS+F8mBfmxZZIQdc8TT8b+fzXGxdayh5bJgmfaglsKVhONx43oZ7RgFcnJrTzPcyAhfJTEp9QtezpahKWUNIACHMl5y/8lBpDDSa5G4dU6NanhHa4pdXVMfUouDIv0h8OQnqgVReWRo8S/DgcxVmbZSXiSZmYxa5un8TCmW3Yev5CEkC8ucauQxBg/Lvbw47PqVnUVHBdf7Z6aLmOO3ox6M1mBtThZDJPM5ay4XXRQe4TWkYvSi6k1Q==;k5VMl3qBWJpuNVBP/OdaXg=="
+secured: "5Wd6yLBSrftuWXbrzTMwAftNp6puLwtHTaFBaTK16pJRVpNoTAeO7N+cTEtE5BjewttaEW2/gKtxht35pDzbJU6RepgmmI4SIfL2xeJYpqxP4Qs1hYSQoEuG+TtBNLwNBfGiy2T5XJlZktGuVEeFNkO3NVjyPF1qaS54JsBU9FaWrfAjLLEyf3WbMyJX7wKDpP05knpijZz3LLeViYII/Zs/r/4ouSOsIn9tg6WOo3EGAOAj+Yn7+24sqgF8wfIr6VAJJ03FON8tghC8Au91ot3t9C9+D0bKGca/KdvbZjthz1wvWCUonSowqmyOmw74PVhs/hVk4mBC/G06BIsegTwXM+FhbF/hKx/Pnlzrj6Q=;73Gz3zAwQkUYsWGouNrz5g=="
 ---
 
