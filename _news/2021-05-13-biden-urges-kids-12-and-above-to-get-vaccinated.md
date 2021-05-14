@@ -77,6 +77,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden cancels Trump's planned 'Garden of American Heroes'"
+    excerpt: "President Joe Biden on Friday put the kibosh on his predecessor's planned “National Garden of American Heroes\" and revoked former President Donald Trump's executiv"
+    publishedDateTime: 2021-05-14T20:30:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-cancels-trumps-planned-garden-american-heroes-77698530"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-cancels-trumps-planned-garden-american-heroes-77698530"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-cancels-trumps-planned-garden-american-heroes-77698530"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_0e706816dc14490bafa73d1df89c2511_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden administration restores transgender health protections, reversing Trump policy"
     excerpt: "The move reverses a Trump-era policy​ that sought to narrow the scope of legal rights in sensitive situations involving medical care."
     publishedDateTime: 2021-05-10T13:00:00Z

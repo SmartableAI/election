@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
-excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
-publishedDateTime: 2021-05-13T16:17:00Z
-originalUrl: "https://www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html"
-webUrl: "https://www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+title: "Dump Trump? Kicking him off NYC golf course may not be easy"
+excerpt: "Donald Trump has a rich history of fighting back when he’s down and making others pay, and that’s exactly how he intends to deal with New York City over its plans to fire his company from running a ci"
+publishedDateTime: 2021-05-14T17:32:00Z
+originalUrl: "https://www.washingtonpost.com/politics/dump-trump-kicking-him-off-nyc-golf-course-may-not-be-easy/2021/05/14/d4c5009c-b4b8-11eb-bc96-fdf55de43bef_story.html"
+webUrl: "https://www.washingtonpost.com/politics/dump-trump-kicking-him-off-nyc-golf-course-may-not-be-easy/2021/05/14/d4c5009c-b4b8-11eb-bc96-fdf55de43bef_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/dump-trump-kicking-him-off-nyc-golf-course-may-not-be-easy/2021/05/14/d4c5009c-b4b8-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/dump-trump-kicking-him-off-nyc-golf-course-may-not-be-easy/2021/05/14/d4c5009c-b4b8-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -25,12 +25,28 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/67FPAOFUBEI6XPEW7X2V3ZB354.jpg&w=1440"
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MHP74WVUWQI6XPEW7X2V3ZB354.jpg&w=1440"
     width: 1440
     height: 960
     isCached: true
 
 related:
+  - title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
+    excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
+    publishedDateTime: 2021-05-13T16:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/67FPAOFUBEI6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
     excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
     publishedDateTime: 2021-05-13T19:19:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_e8f3be20437144588b960af4450c52db_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Dump Trump? Kicking him off NYC golf course may not be easy"
-    excerpt: "Donald Trump has a rich history of fighting back when he’s down and making others pay, and that’s exactly how he intends to deal with New York City over its plans to fire his company from running a ci"
-    publishedDateTime: 2021-05-14T17:32:00Z
-    webUrl: "https://www.washingtonpost.com/politics/dump-trump-kicking-him-off-nyc-golf-course-may-not-be-easy/2021/05/14/d4c5009c-b4b8-11eb-bc96-fdf55de43bef_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/dump-trump-kicking-him-off-nyc-golf-course-may-not-be-easy/2021/05/14/d4c5009c-b4b8-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/dump-trump-kicking-him-off-nyc-golf-course-may-not-be-easy/2021/05/14/d4c5009c-b4b8-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MHP74WVUWQI6XPEW7X2V3ZB354.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Families separated by Trump receive therapy, but funds could dry up soon"
     excerpt: "After Trump separated children from their families, they've gotten crucial therapy, paid for by the government. But the future of those services is up in the air."
@@ -153,6 +153,6 @@ related:
         height: 1301
         isCached: true
 
-secured: "npd4zYEMQhx5ooLGD+PlKAnRztTtzl2SewQSF94ax7qcTPSU+ovG6A8TXzVKhUwwxglswhyXczUTzlSFvHQ8ORtYJyjbnlk80XKVtOeyezjfbvqG4lKHc9t+/oeGeAw96Q5XojBxdOiYasWSHO35VYV5P+BgV1BoVU+0OPcqR9pzDPXP6++3D6JKOVQh2yjJ9TYWWs0T9kt6gDrsy44G5DOFqhBmTHB7a/3dhrTzPDsmr1JWW2nSbGpxRbU3ydXS+k6M0fgpY9l8Lh723osD235LSWwTTNk56YtgvtGc8qUokY+nUaEG4rwoBsYWejWNgOxRkF7uogk3oVVL45cAxxt7uOGEtBFQ5FbYncXIrFw=;JbXO9Tj1eTVybvObkOkPKw=="
+secured: "wlb02Gx9gfsv+g523FOzcUXX0MmcFuOoZceCF2TnPmlpmcYGB0PMPglYJHeYUj0wbdyfwd+QdyXnnlzkdtMi1QDkhScM6Oqhfxq56xCStrOSmmBus92TIvrmcdxSG1AXNuyBbqHF39lPeoPNoqDKYiYWeDVN/Nu912AePwliOAEnpC5AYAwzNtjX452aPyvynt6uBPrm/JsDozWwIzq7Zetd8ENNWKsiU8LI+XcIYyKH8+awoUPC4zgdA++EZWEJ7pe8LXw2O5yJaE1wk9vgIreE/9GK6bktKhaOMzREDjB5tEpG/2fBU0i2KEyqFp27F3aljoIo5Pv/5sSip1RExWZFV5kv+b6A5xF22x/hZwU=;UDV4TRYzAONemosTwyfP4Q=="
 ---
 

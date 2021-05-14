@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/lady-vice-president-harris-highl
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
 type: article
 quality: 124
-heat: 204
+heat: 224
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris blasts how workers lose $200 billion a year from the anti-union trend in the US economy"
+    excerpt: "At the first meeting of the White House task force on worker organizing, the vice president ripped into the wages lost from America's lack of unions."
+    publishedDateTime: 2021-05-14T11:50:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-union-task-force-white-house-200-billion-wages-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-union-task-force-white-house-200-billion-wages-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-union-task-force-white-house-200-billion-wages-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/601abcf001504a00197fb5b7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Harris 'united' with Asian Americans against hate"
     excerpt: "Vice President Kamala Harris told members of the Congressional Asian Pacific American Caucus the Biden administration stands is committed to combatting hate crimes against Asian-Americans. (May 11)"
     publishedDateTime: 2021-05-12T00:38:00Z

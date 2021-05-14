@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Harris 'united' with Asian Americans against hate"
-excerpt: "Vice President Kamala Harris told members of the Congressional Asian Pacific American Caucus the Biden administration stands is committed to combatting hate crimes against Asian-Americans. (May 11)"
-publishedDateTime: 2021-05-12T00:38:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/12/harris-united-asian-americans-against-hate/5047406001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/12/harris-united-asian-americans-against-hate/5047406001/"
+title: "Kamala Harris blasts how workers lose $200 billion a year from the anti-union trend in the US economy"
+excerpt: "At the first meeting of the White House task force on worker organizing, the vice president ripped into the wages lost from America's lack of unions."
+publishedDateTime: 2021-05-14T11:50:00Z
+originalUrl: "https://www.businessinsider.com/kamala-harris-union-task-force-white-house-200-billion-wages-2021-5"
+webUrl: "https://www.businessinsider.com/kamala-harris-union-task-force-white-house-200-billion-wages-2021-5"
+ampWebUrl: "https://www.businessinsider.com/kamala-harris-union-task-force-white-house-200-billion-wages-2021-5?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-union-task-force-white-house-200-billion-wages-2021-5?amp"
 type: article
-quality: 105
+quality: 110
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1692028d-d488-4925-8b1a-b6f44f884e8d_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://i.insider.com/601abcf001504a00197fb5b7?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -45,21 +47,19 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Kamala Harris blasts how workers lose $200 billion a year from the anti-union trend in the US economy"
-    excerpt: "At the first meeting of the White House task force on worker organizing, the vice president ripped into the wages lost from America's lack of unions."
-    publishedDateTime: 2021-05-14T11:50:00Z
-    webUrl: "https://www.businessinsider.com/kamala-harris-union-task-force-white-house-200-billion-wages-2021-5"
-    ampWebUrl: "https://www.businessinsider.com/kamala-harris-union-task-force-white-house-200-billion-wages-2021-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-union-task-force-white-house-200-billion-wages-2021-5?amp"
+  - title: "Harris 'united' with Asian Americans against hate"
+    excerpt: "Vice President Kamala Harris told members of the Congressional Asian Pacific American Caucus the Biden administration stands is committed to combatting hate crimes against Asian-Americans. (May 11)"
+    publishedDateTime: 2021-05-12T00:38:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/12/harris-united-asian-americans-against-hate/5047406001/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/601abcf001504a00197fb5b7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1692028d-d488-4925-8b1a-b6f44f884e8d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Arizona AG calls for Harris ouster as 'border czar'"
     excerpt: "Vice President Kamala Harris must be removed from her role in dealing with the border surge, Arizona Attorney General Mark Brnovich said in a letter this week to President Biden, saying his running mate has blown her chance to fix things."
@@ -101,6 +101,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "aFnMK4ij2Frp9uVpNJxwgeFPcJ/2SdEMa2O3nF5y8uHXvDoENSOlB8BmCInvfl6a+2VsB92fi0X9fSTX+X2Puzw/KqiOQBTPq0v38ruQz9FHbLTf2ptRehobJq9eZj5IcfcOqSgVLLFt2YRtJxLqbHYEBpSyxL5xHP0pdfdxeiOjgxAuAnxv1kK988FVagPWAfsnKItTfGU7Cpp2TWhCUcXocWF9lvTEB6dfRxaitQixiQpIRf4nac2k1LtfqdYMfMSQv2KF1eweyUpx12HBBOWTW0mZl6DYktg5OPFGjNhiyLesE8ICG7qf7mCih4ZzHT4MT17RzLuy5s4lEvqewxSwInO2glWUca3WwdVp+mk=;HG6872fqozTByl7JXeZmew=="
+secured: "9FkQNXHSZBzp6o9cWo9VDbywhnKLhCOE7yBbp4PC2CZ8OL+R8oP6sNH7LQVeMNzz60cjBPbRoyseIPdsgFwpVyDa57nJgNxjCLK3GD3onVEeRUyNjU2M0yEmKoAqQEW1P01KAOMQNQ6wIsduFgGyZBiUesV97mapySoGlYUPzRv7RfNDBj0VE4MfgDcryHULSo9fR/43wmycLBN8ez9Z0Z69C2pUoqHth5veKdslYIs0L8ECrv7/uwZQnZ3LXvCRGpYSC4545QnGDD//Lyz8ArBK6RcWXBc3X6Ap5+J4H+z8uforixmaKMuxxaCXvW37fNbAWur54ofhLTeES5+gbMkSr3DXkezA+fqbrlWss8E=;X+M8FOqVDg9tuyhrGdcb3w=="
 ---
 

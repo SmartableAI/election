@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
-excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
-publishedDateTime: 2021-05-13T16:17:00Z
-originalUrl: "https://www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html"
-webUrl: "https://www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+title: "‘It’s hard to look at’: Donald Trump makes National Portrait Gallery debut"
+excerpt: "Photo of ex-president will make way for a painted portrait as gallery says Trump’s team is considering artists"
+publishedDateTime: 2021-05-14T19:52:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/may/14/donald-trump-national-portrait-gallery-photo"
+webUrl: "https://www.theguardian.com/us-news/2021/may/14/donald-trump-national-portrait-gallery-photo"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/14/donald-trump-national-portrait-gallery-photo"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/14/donald-trump-national-portrait-gallery-photo"
 type: article
-quality: 125
-heat: 285
-published: true
+quality: 123
+heat: -1
+published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/67FPAOFUBEI6XPEW7X2V3ZB354.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://i.guim.co.uk/img/media/5ea2518ad66be58cfeab722641aea1a94e7b7e0c/0_3_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fc4e62efe4e614dff86ab2172e3b6c98"
+    width: 600
+    height: 360
     isCached: true
 
 related:
+  - title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
+    excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
+    publishedDateTime: 2021-05-13T16:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/67FPAOFUBEI6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
     excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
     publishedDateTime: 2021-05-13T19:19:00Z
@@ -95,22 +111,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "‘It’s hard to look at’: Donald Trump makes National Portrait Gallery debut"
-    excerpt: "Photo of ex-president will make way for a painted portrait as gallery says Trump’s team is considering artists"
-    publishedDateTime: 2021-05-14T19:52:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/may/14/donald-trump-national-portrait-gallery-photo"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/14/donald-trump-national-portrait-gallery-photo"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/14/donald-trump-national-portrait-gallery-photo"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/5ea2518ad66be58cfeab722641aea1a94e7b7e0c/0_3_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fc4e62efe4e614dff86ab2172e3b6c98"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Ex-Trump lawyer Sidney Powell accused by company of raiding nonprofit for personal expenses"
     excerpt: "Dominion Voting Systems claims Sidney Powell has raided Defending the Republic’s coffers to pay for personal legal expenses, citing her own remarks from a radio interview."
     publishedDateTime: 2021-05-13T20:51:00Z
@@ -153,6 +153,6 @@ related:
         height: 1301
         isCached: true
 
-secured: "npd4zYEMQhx5ooLGD+PlKAnRztTtzl2SewQSF94ax7qcTPSU+ovG6A8TXzVKhUwwxglswhyXczUTzlSFvHQ8ORtYJyjbnlk80XKVtOeyezjfbvqG4lKHc9t+/oeGeAw96Q5XojBxdOiYasWSHO35VYV5P+BgV1BoVU+0OPcqR9pzDPXP6++3D6JKOVQh2yjJ9TYWWs0T9kt6gDrsy44G5DOFqhBmTHB7a/3dhrTzPDsmr1JWW2nSbGpxRbU3ydXS+k6M0fgpY9l8Lh723osD235LSWwTTNk56YtgvtGc8qUokY+nUaEG4rwoBsYWejWNgOxRkF7uogk3oVVL45cAxxt7uOGEtBFQ5FbYncXIrFw=;JbXO9Tj1eTVybvObkOkPKw=="
+secured: "6MvQx1s093I99822gbQEhLaYo2e/adpAT35eV38abVKNZgOW3y25GwIQTbKQLLSE/d3ixdDp7ApRy6cIoks0EPBc5Ej3GMLK+uDFZ/KNWHLt2oHsrwyr6gScAhmQMseYDumxT4n/29fGbOFhf++JSBPdHIILjqlaFHzaPvSAG1/aJRplubpxAEieP5KZfSKa5Ov8FmAUHMiylgHlYd5sxFNeJ0hOZ6rg59F/R7Q5hGKCI6ikgBxjeGctG9m+1Pl9sL6q/y+SSkZaDr4fE24hx1Oa0sXcPOVKejPimbOvLrpULbXfm6d1ReTyjS5EOgy13M3nLJKKp04PT65ujGa2gs7QMHjUGW0URwVtaGt5HGo=;BlUGGpodG6Ul21G9ZGqJLg=="
 ---
 
