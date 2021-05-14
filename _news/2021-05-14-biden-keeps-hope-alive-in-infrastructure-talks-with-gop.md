@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration expands effort to identify vulnerable migrant families in Mexico for entry into US"
+    excerpt: "The Biden administration plans to coordinate with nongovernmental organizations to identify vulnerable migrant families in Mexico and allow them to enter the United States, instead of turning them away under a Trump-era border policy, according to a source familiar with discussions.\n    \n"
+    publishedDateTime: 2021-05-13T22:49:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/veX4GMO_aPI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/us-mexico-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/us-mexico-border/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421182550-mexico-migracion-albergues-chiapas-tabasco-pkg-alis-krupskaia-00012402-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Top congressional leaders to meet with Biden for the first time in crucial week for his infrastructure plan"
     excerpt: "President Joe Biden faces a crucial moment on Wednesday in what is shaping up as an important week for his infrastructure priorities when he holds his first bipartisan meeting with the top four members of congressional leadership at the White House.\n    \n"
     publishedDateTime: 2021-05-12T11:11:04Z
@@ -399,6 +415,6 @@ related:
         height: 773
         isCached: true
 
-secured: "VU358voQUskn0pRPC3bbrKyioI1FvcitciBu+GbZnAFWhIHKICzIQ3rd9FOPhXpzBZ1fKfUjmEjBI+HKOUX5NPmzvLLS7uQLVnDvx9pWTCSqfFJ3PpUs4KnjrGmzeAUlKer6BZ8nTl/O+6oK2qCRhdpb7SiaIodrfjEaFq9poLNnxVQknEYfTJlNwavClKhU9wmTMlx4Dh8pMmQhA9tlRv2cxfkVxml4bsLyJssjkxkNr7nJbOVNREuhnE6JDhXww/x+ZkKDwP/+U+d90KMLfAuOwVlKCbdNrh/3I4mF1LNB0fzzWuPYCXR5aOJLPd4mpX+om6EuEdrtn3D/DPkm2wKLsWfo0IF2oX/SA2Lt9OU=;SiKhhAB1cNsXIWg5GtdHxA=="
+secured: "XQ1vnaHoegfE8pJ0g2CLkac2sfhLrQ/T5Qad/EFwBjg8sOzz1b/QExePCW4mnWnhH4vL4PPjvbXISsjALejJqx7zijcV4qibaep0lsFLHmkGaImN/h23+IbqyqLJHEr813hSO2RTP4OoOkAmf/Wy2Qg59peYgAlxWrAkeTEhfYu7N6q5CKHx/XUGupX/euxMF1N61VPTOsFRXuD5LCeInhkx1NBuhosyt4Yo5WJiTTuPd9zlxnwoK79kNotavcD1pI2Wf1cEw20hq1l4KnsUGIeYDX+FhCbHPqA6UyBnpuvGd1TapKI0Sv49zboGClEDVunG08z8gK2ieu12r+Quo4akboMFb+dpKM6ke8LbVJnIuWs8mayMUmaz29i7ySCqbLSudLSP2+r1l4AbNLmcQ5pmFmUnbolco4NN8ZTjG1RFYUOdO5jP9jbunUZ7dkhuB+doZ+NL1NrDBkR+8lUSbi9+H/fiK6L1E7yvtG5CURZgiKNc1W5SXm9erzyeD4DiDkEuVmqaWnOe2BdpDTiFhw==;zr+nSjBDScvo+E01XEuEgg=="
 ---
 

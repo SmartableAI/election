@@ -1,31 +1,33 @@
 ---
 category: news
-title: "Liz Cheney Under Attack From GOP For Standing Up To Donald Trump"
-excerpt: "Wyo., may find herself ousted from her position as the third-highest Republican as her strong stance against Donald Trump nets her few allies and increasing hostility from her caucus. Removing her from her post would require a conference vote,"
-publishedDateTime: 2021-05-04T21:37:00Z
-originalUrl: "https://www.ibtimes.com/liz-cheney-under-attack-gop-standing-donald-trump-3193020"
-webUrl: "https://www.ibtimes.com/liz-cheney-under-attack-gop-standing-donald-trump-3193020"
+title: "Conservatives seize on gas crunch to blame Biden, stir base"
+excerpt: "Thousands of social media posts have misleadingly painted President Joe Biden and his administration as catalysts of chaos who not only mishandled the temporary shutdown of the nation’s largest fuel pipeline last Friday,"
+publishedDateTime: 2021-05-13T23:32:00Z
+originalUrl: "https://www.washingtonpost.com/politics/conservatives-seize-on-gas-crunch-to-blame-biden-stir-base/2021/05/13/734db7d4-b443-11eb-bc96-fdf55de43bef_story.html"
+webUrl: "https://www.washingtonpost.com/politics/conservatives-seize-on-gas-crunch-to-blame-biden-stir-base/2021/05/13/734db7d4-b443-11eb-bc96-fdf55de43bef_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/conservatives-seize-on-gas-crunch-to-blame-biden-stir-base/2021/05/13/734db7d4-b443-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/conservatives-seize-on-gas-crunch-to-blame-biden-stir-base/2021/05/13/734db7d4-b443-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/liz-cheney.jpg"
-    width: 1200
-    height: 843
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SRFYALFTFAI6XPEW7X2V3ZB354.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -381,22 +383,6 @@ related:
         width: 1440
         height: 928
         isCached: true
-  - title: "Conservatives seize on gas crunch to blame Biden, stir base"
-    excerpt: "Thousands of social media posts have misleadingly painted President Joe Biden and his administration as catalysts of chaos who not only mishandled the temporary shutdown of the nation’s largest fuel pipeline last Friday,"
-    publishedDateTime: 2021-05-13T23:32:00Z
-    webUrl: "https://www.washingtonpost.com/politics/conservatives-seize-on-gas-crunch-to-blame-biden-stir-base/2021/05/13/734db7d4-b443-11eb-bc96-fdf55de43bef_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/conservatives-seize-on-gas-crunch-to-blame-biden-stir-base/2021/05/13/734db7d4-b443-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/conservatives-seize-on-gas-crunch-to-blame-biden-stir-base/2021/05/13/734db7d4-b443-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SRFYALFTFAI6XPEW7X2V3ZB354.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Senate GOP to give Biden infrastructure counteroffer next week"
     excerpt: "Senate Republicans will give President Biden a revised infrastructure offer next week after a sit down at the White House on Thursday."
     publishedDateTime: 2021-05-13T20:40:00Z
@@ -607,6 +593,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Liz Cheney Under Attack From GOP For Standing Up To Donald Trump"
+    excerpt: "Wyo., may find herself ousted from her position as the third-highest Republican as her strong stance against Donald Trump nets her few allies and increasing hostility from her caucus. Removing her from her post would require a conference vote,"
+    publishedDateTime: 2021-05-04T21:37:00Z
+    webUrl: "https://www.ibtimes.com/liz-cheney-under-attack-gop-standing-donald-trump-3193020"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/liz-cheney.jpg"
+        width: 1200
+        height: 843
+        isCached: true
   - title: "President Joe Biden Meeting for Jobs Report"
     excerpt: "Secretary of Transportation Pete Buttigieg, Energy Secretary Jennifer Granholm (2nd L), Housing and Urban Development Secretary Marcia Fudge (C), and Commerce Secretary Gina Raimondo (R), and US Labor Secretary Martin Walsh speak to the media outside of the West Wing of the White House in Washington,"
     publishedDateTime: 2021-05-08T00:20:00Z
@@ -640,6 +640,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "JwC7E4s/Rgo2z8TVGj6ylv2Lhf91LO13CDX//D0E9oT7yhHPptVw3aiTVK/LEVOvOya94t5atdQIwTPw14kk7LAm0aQw4yAB8/0934DTbghN9zc4zCgGPZiL/92riKNjMNNanOCXwhXF7bjzKCKiLbGvB84cvHYSnV5sBFB087zXQyoWFyeyuTdItYu7Pv1T7X49D5JSVyyblrUIH/RKHcA0zfGE2GDbTnOyRWZYPY9jV8HhLKudFboup64YPY0D6nAQRNlW853Ko+UIrzTdz1aOuEccY7IF1OO8tJeu6/wupZQAbKI7kvB6YS/6wOELa/lX6Fe9fZRSjo265HhoSuZsBzmNj5SoZi3sTQbLYPHIxTWCacICXeYrtvJBaVb1sG/VSXqt0DtJ1kbmJonJwgYhl3XsViDjrDuhsJjqn7qpIZUwoHLxBudtpA6CkxMr3bihfP2nXK9PeqqFCGaJLoJI63PjJaEtu/EBVyAyBF/8MRq7KTk/LqISB9KusDlhbaM3rHNZRhaGrWU/JCiPoA==;PRDBGKkt5oO+z9tAlUPlcA=="
+secured: "250BXGbcUrugBoVyaRjQSC5+DaZ/c5PRA8W3U8teHA+wJr84M1sV9VE7pz7bTn9Km713FI21zqvwqW8tTSYfTvA4y77BpPh/Injv9GS/KegSnbJcZcApqWX9q4D/rNBYMWZy/OeVThYOzK9FVEsOSdaUXtSujSZZVvjwx8LnL1BW4hLtTe26R1ytjZ+nfmiVuvYsfOuoAzpBanTLbl3CC6vmOBqz3exwUHnhv5o0hHnXp4G1UVxRcXBOJGys+A8ShYmATMDuqHvPewx38x7TPoXSQcxcpLPOYXf6OGwzLiqVQ4v11by9V59RIhs/fV3CwGppmSDPtskrOuLAUkpIVvLUSp0oI+1G8jt/IL8uoGI=;ZYs2BhvI6SmVz5g++ck2EQ=="
 ---
 

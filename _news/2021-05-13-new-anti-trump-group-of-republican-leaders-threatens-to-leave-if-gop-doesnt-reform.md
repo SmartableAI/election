@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump to restart rallies next month as he plays coy about 2024 run"
+    excerpt: "Dates and locations have not yet been announced, but a source said the president’s team is in the process of selecting venues for a pair of events in June."
+    publishedDateTime: 2021-05-13T22:17:00Z
+    webUrl: "https://nypost.com/2021/05/13/trump-to-restart-rallies-next-month-as-he-plays-coy-about-2024/"
+    ampWebUrl: "https://nypost.com/2021/05/13/trump-to-restart-rallies-next-month-as-he-plays-coy-about-2024/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/13/trump-to-restart-rallies-next-month-as-he-plays-coy-about-2024/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-rallys-to-resume-392.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Ti7qPFe8SdXi3UwKnbxKLEAgmSsmJwyP/oLDNWXgN9wz79N3BP4983HaH4I2eC+HUYK2b9Mnm4TI8wAx4I04KVHMeTyy8B64T6zMXUCeMEig7gSCEu9fmRETvbKwRapFSiZMw8fNPCVlXGRCyKxf4fvB3BofVhv3/MZSv6rkIbPw6PiLReyswz+C5OL1lM+XkQOeHedhRV/Ze+puAadhl1NGyv3uwwwm2xI/6jeewAs3O9ibr/XtovNDkwAFHDAZTiVt5gP+N/Yll//qJ5x+PLJFcErd3wlgY7A9BaJaNMmrfvTH0qWHwQjzckLJiKYcW5AyFMiGfoO6H5qfrwXJLhWWWg5owcvYS1DoauxRLXg=;YWJ08lyqmO6VtC8zyrc+Yw=="
 ---

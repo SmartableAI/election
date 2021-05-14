@@ -75,6 +75,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden meets Republican senators as quest for infrastructure deal continues"
+    excerpt: "President Joe Biden sat down with a handful of Republican senators on Thursday, continuing a quest for a bipartisan compromise on his more than $2 trillion infrastructure spending plan."
+    publishedDateTime: 2021-05-13T23:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-republicans/biden-meets-republican-senators-as-quest-for-infrastructure-deal-continues-idUSKBN2CU25Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CU25Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CU25Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210513&t=2&i=1562031196&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4C13M"
+        width: 859
+        height: 545
+        isCached: true
   - title: "Biden is set to meet with Senate Republicans, with no clear bipartisan path forward on infrastructure"
     excerpt: "The two sides may not even broach the thorniest issue: how to pay for any package that rebuilds roads, expands broadband access and improves water systems, among other priorities."
     publishedDateTime: 2021-05-13T10:04:00Z

@@ -127,6 +127,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Florida AG slams Biden for holding first Supreme Court commission meeting virtually"
+    excerpt: "Florida Attorney General Ashley Moody ripped the Biden administration on Thursday after officials announced that the first meeting of the president’s Supreme Court commission would take place in a virtual format."
+    publishedDateTime: 2021-05-13T22:41:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0e7aAtATxAI/florida-ag-slams-biden-supreme-court-commission-meeting-virtually"
+    ampWebUrl: "https://www.foxnews.com/politics/florida-ag-slams-biden-supreme-court-commission-meeting-virtually.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-ag-slams-biden-supreme-court-commission-meeting-virtually.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20c577cd-3e82-422e-b89e-132de6abd190/709f7cef-a675-46f3-92f8-bda75059f30f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Rolling to Remember veterans rally finds new location after Biden's Pentagon refuses"
     excerpt: "The Rolling to Remember motorcycle rally honoring veterans has a new location after the Department of Defense blocked the event from staging in the Pentagon parking lot."
     publishedDateTime: 2021-05-12T19:09:41Z

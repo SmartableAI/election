@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration expands effort to identify vulnerable migrant families in Mexico for entry into US"
+    excerpt: "The Biden administration plans to coordinate with nongovernmental organizations to identify vulnerable migrant families in Mexico and allow them to enter the United States, instead of turning them away under a Trump-era border policy, according to a source familiar with discussions.\n    \n"
+    publishedDateTime: 2021-05-13T22:49:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/veX4GMO_aPI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/us-mexico-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/us-mexico-border/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421182550-mexico-migracion-albergues-chiapas-tabasco-pkg-alis-krupskaia-00012402-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden viewed Manchin and Carper meetings as productive as White House gears up for critical infrastructure week"
     excerpt: "President Joe Biden on Monday will host two critical Democratic senators for individual meetings at the White House as he enters a crucial week for his legislative agenda.\n    \n"
     publishedDateTime: 2021-05-11T14:13:24Z

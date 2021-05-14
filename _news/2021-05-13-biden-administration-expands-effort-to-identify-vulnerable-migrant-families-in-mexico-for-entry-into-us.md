@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden to criticize tax cuts for wealthy while pushing middle-class agenda in Louisiana"
-excerpt: "President Joe Biden on Thursday will make the case that his sweeping economic proposals are better positioned to bolster the middle class than tax cuts for the wealthy and corporations, according to a White House official. \n    \n"
-publishedDateTime: 2021-05-06T13:31:28Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
+title: "Biden administration expands effort to identify vulnerable migrant families in Mexico for entry into US"
+excerpt: "The Biden administration plans to coordinate with nongovernmental organizations to identify vulnerable migrant families in Mexico and allow them to enter the United States, instead of turning them away under a Trump-era border policy, according to a source familiar with discussions.\n    \n"
+publishedDateTime: 2021-05-13T22:49:34Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/veX4GMO_aPI/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/veX4GMO_aPI/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/us-mexico-border/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/us-mexico-border/index.html"
 type: article
-quality: 167
+quality: 159
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421182550-mexico-migracion-albergues-chiapas-tabasco-pkg-alis-krupskaia-00012402-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to criticize tax cuts for wealthy while pushing middle-class agenda in Louisiana"
+    excerpt: "President Joe Biden on Thursday will make the case that his sweeping economic proposals are better positioned to bolster the middle class than tax cuts for the wealthy and corporations, according to a White House official. \n    \n"
+    publishedDateTime: 2021-05-06T13:31:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "1 million people sign up for Affordable Care Act coverage after Biden reopens exchange"
     excerpt: "One million people have signed up for Affordable Care Act coverage on the federal exchange during the special enrollment period that President Joe Biden launched in mid-February, the administration announced Tuesday.\n    \n"
     publishedDateTime: 2021-05-11T09:08:12Z
@@ -188,22 +204,6 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429114426-01-joe-manchin-biden-joint-session-0428-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration expands effort to identify vulnerable migrant families in Mexico for entry into US"
-    excerpt: "The Biden administration plans to coordinate with nongovernmental organizations to identify vulnerable migrant families in Mexico and allow them to enter the United States, instead of turning them away under a Trump-era border policy, according to a source familiar with discussions.\n    \n"
-    publishedDateTime: 2021-05-13T22:49:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/veX4GMO_aPI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/us-mexico-border/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/us-mexico-border/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421182550-mexico-migracion-albergues-chiapas-tabasco-pkg-alis-krupskaia-00012402-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -414,6 +414,6 @@ related:
         height: 773
         isCached: true
 
-secured: "vx8utuZpTwLuSFSXhCN0rheTvvcHarsnMLCInE8EyuJEViGArg1FR5PpChSev/ryTuZx1FkefL9cOFCSHaRjqYPlLQG/rVCUwQAeb7jVHohkTBTX9gylAiSs9kvXF+gGAHkwMpT6jz4F7xCx2DVbCt0O1ScKClhqULD5Vggaum2zL/NEvlQwLeeyFudkVjVGqSM+0KKpFR2mN+eLndGjDJaBFj2nsqbHpcsmOSbyxSPpWGqjb3R+H5meEOAo8omCAxJ53/78SulTLFnv58vtwhRnx96umNqS/JtqRYbqe4OoyedSMXqxREUhOFFVCmh+UGtDEP4WGHt00/4TZ9+93+IIdUgHhmr78P+rH2y5mUk=;6OVF4aspYXEsYVjF6pE5ig=="
+secured: "2f/+fZ2tBtQf9D+UV561skMXNIg669Ej0NNW2fa3T7Hj/CkbcmkkdKFVGm6UaXIisHMs/9rU3yHZOcbx2GX/ldEKaiGVwYQbXcGB03QRTjkycKV4bwSpjzh82pbshPjExkmlWIbFCc3bitGtuSSMWhBr1K9f3l4bkQyp4jdMzS1pU7J0g5hR9R8OaSqw9OS3To+sQ6IlRbmKZF5H1/cTC5WNkGmt4YY2xSLT00DSyAxlnnyLUifrzM+rT2DCMwrVUL0/mFQbYxSc4EbW7xU4Tm3xS9LmYTS8mfVonnSyLogN1Si88CjOUh/8eBlLjzZ9gkKKODXuUY+9+fhOfn8OCkhlSl2KVdsoF9clPoB03lw=;8VnyshdqXafIBzsenvx9Zg=="
 ---
 

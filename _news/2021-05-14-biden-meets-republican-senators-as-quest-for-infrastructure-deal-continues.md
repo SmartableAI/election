@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden ready to sell $2.3T infrastructure plan in Louisiana"
-excerpt: "President Joe Biden will push the case for his $2.3 trillion infrastructure plan in the reliably Republican state of Louisiana"
-publishedDateTime: 2021-05-06T13:32:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895"
-webUrl: "https://abcnews.go.com/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895"
+title: "Biden meets Republican senators as quest for infrastructure deal continues"
+excerpt: "President Joe Biden sat down with a handful of Republican senators on Thursday, continuing a quest for a bipartisan compromise on his more than $2 trillion infrastructure spending plan."
+publishedDateTime: 2021-05-13T23:51:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-republicans/biden-meets-republican-senators-as-quest-for-infrastructure-deal-continues-idUSKBN2CU25Z"
+webUrl: "https://www.reuters.com/article/us-usa-biden-republicans/biden-meets-republican-senators-as-quest-for-infrastructure-deal-continues-idUSKBN2CU25Z"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CU25Z"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CU25Z"
 type: article
-quality: 125
-heat: 265
-published: true
+quality: 123
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_630a781b90374f4f8cb6cfeefe957f18_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210513&t=2&i=1562031196&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4C13M"
+    width: 859
+    height: 545
     isCached: true
 
 related:
+  - title: "Biden ready to sell $2.3T infrastructure plan in Louisiana"
+    excerpt: "President Joe Biden will push the case for his $2.3 trillion infrastructure plan in the reliably Republican state of Louisiana"
+    publishedDateTime: 2021-05-06T13:32:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_630a781b90374f4f8cb6cfeefe957f18_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden seeks infrastructure deal in meeting with Hill leaders"
     excerpt: "President Joe Biden is meeting with the four congressional leaders at the White House for the first time and says wants to reach a compromise on an infrastructure plan"
     publishedDateTime: 2021-05-12T15:03:00Z
@@ -62,22 +78,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/339f47bf083cf1180ba65acf917fe15c14d930ba/0_56_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8ee96b7bcb2d4d86c2882828e52611f6"
         width: 600
         height: 360
-        isCached: true
-  - title: "Biden meets Republican senators as quest for infrastructure deal continues"
-    excerpt: "President Joe Biden sat down with a handful of Republican senators on Thursday, continuing a quest for a bipartisan compromise on his more than $2 trillion infrastructure spending plan."
-    publishedDateTime: 2021-05-13T23:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-republicans/biden-meets-republican-senators-as-quest-for-infrastructure-deal-continues-idUSKBN2CU25Z"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CU25Z"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CU25Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210513&t=2&i=1562031196&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4C13M"
-        width: 859
-        height: 545
         isCached: true
   - title: "Biden is set to meet with Senate Republicans, with no clear bipartisan path forward on infrastructure"
     excerpt: "The two sides may not even broach the thorniest issue: how to pay for any package that rebuilds roads, expands broadband access and improves water systems, among other priorities."
@@ -142,6 +142,6 @@ related:
         height: 355
         isCached: true
 
-secured: "vadhZZQCr7KICgnUfS8k1Qujc6ElfXP83V9kXEaE5eMtfJV8xHwP3DgvNPn7difAfEIgJ0P+PctVWRdfewj4hQQ3UATvovq5Ywhk5KjjAJ4jkCRAaUD/bj0I4FNgg8QT9eytQFj23n0FPrEsyKzVSVEnZwPi4fZ3iXMefk4oAoNlULqbGdy0vLKi4IDdg4vXcGUzaDq0n5MZepaxOxq0YyQQjVtE8ophPBs2MKLFEq99xJeEufRj7Xea+JQLFGWN1hgHy6/TN8Pr4j0v9TYGZfN0xX4oG7vQ0zF25D1q5h5hU+p9JHTpnp/89FfboqIZ3lNECD3c35YvT1G87dn3W78GLOaM19vuC/Ahz8s4Mhtyqt8nHPnMggZbGRqWs/tq+fPyPPIOI8x1HD5d0i2gBbgx/WT/FfPA7MDoqTB60PZH8yfcmpANhlMPReYJEZlXj3Lf7yazJqG0Us3albKv3dfOWsGmlmexWZemwskquf5g2mYMyacKZ7uBIHcuZa2l4f4bNS9v1AGZesIgsaGv+g==;BaE2cBQE+6IJbRj/GuwyrA=="
+secured: "Iw3r2T1XZM6PV61KIr82/NjJSRVGCiXtnazMKJXMLVtty+NojUT8eS/xnodGg/AB1mL46Q0IPM0RDqB+zjUynz3GRJ1PG1DBlwqVTvIthLtgwwwNZyRWcH92PbWgUChZze4PX08RtTAbiFfa5itR89k30QFhb7B0u4/Lvz1ep91wlVQK6uzdooIhoNUQxs9F9Ss8UEE7R9u9KIZZwk38z20BlnX/hoQk7BhUm+BEaiLOKOpgjZvq/OD/YvU2O85CC9YLHOcevbILOAwotRV+XPOA+MdQ+3yDqvONP/ZGCDxJQtg0zemvgNH+BaR9AMP/4k/MJTr18CFk5UbwsXWT4yK5XPCgH7GwFrRjM4sJ1PI=;2hGD2SBzNn2T3flpPgI7rQ=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden forcing Catholic, religious entities to violate beliefs with new HHS rule, critics say"
-excerpt: "President Biden, the second U.S. president to identify as Catholic, is coming under fire for a new rule that critics say would force religious doctors to violate their deeply held beliefs about gender."
-publishedDateTime: 2021-05-11T16:28:20Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fHXnnXhCV9w/biden-transgender-health-care-catholic-religious-freedom"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fHXnnXhCV9w/biden-transgender-health-care-catholic-religious-freedom"
-ampWebUrl: "https://www.foxnews.com/politics/biden-transgender-health-care-catholic-religious-freedom.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transgender-health-care-catholic-religious-freedom.amp"
+title: "Florida AG slams Biden for holding first Supreme Court commission meeting virtually"
+excerpt: "Florida Attorney General Ashley Moody ripped the Biden administration on Thursday after officials announced that the first meeting of the president’s Supreme Court commission would take place in a virtual format."
+publishedDateTime: 2021-05-13T22:41:10Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0e7aAtATxAI/florida-ag-slams-biden-supreme-court-commission-meeting-virtually"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0e7aAtATxAI/florida-ag-slams-biden-supreme-court-commission-meeting-virtually"
+ampWebUrl: "https://www.foxnews.com/politics/florida-ag-slams-biden-supreme-court-commission-meeting-virtually.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-ag-slams-biden-supreme-court-commission-meeting-virtually.amp"
 type: article
-quality: 164
+quality: 169
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7fb6deb-3930-4b52-95ac-1a1c5092046a/97c6d185-2637-40d8-844f-5074ff0caba9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20c577cd-3e82-422e-b89e-132de6abd190/709f7cef-a675-46f3-92f8-bda75059f30f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -126,22 +126,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Florida AG slams Biden for holding first Supreme Court commission meeting virtually"
-    excerpt: "Florida Attorney General Ashley Moody ripped the Biden administration on Thursday after officials announced that the first meeting of the president’s Supreme Court commission would take place in a virtual format."
-    publishedDateTime: 2021-05-13T22:41:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0e7aAtATxAI/florida-ag-slams-biden-supreme-court-commission-meeting-virtually"
-    ampWebUrl: "https://www.foxnews.com/politics/florida-ag-slams-biden-supreme-court-commission-meeting-virtually.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-ag-slams-biden-supreme-court-commission-meeting-virtually.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20c577cd-3e82-422e-b89e-132de6abd190/709f7cef-a675-46f3-92f8-bda75059f30f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
         isCached: true
   - title: "White House walks back Biden's false claim about Fed chairs supporting spending plan"
     excerpt: "The White House walked back President Biden's false claim about previous chairs of the Federal Reserve backing his $2.3 trillion spending plan."
@@ -252,6 +236,22 @@ related:
     quality: 165
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88785100-c591-4705-a000-240dbb0fec6e/e8c41f49-b049-4819-a13e-a62dfe9c3e34/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden forcing Catholic, religious entities to violate beliefs with new HHS rule, critics say"
+    excerpt: "President Biden, the second U.S. president to identify as Catholic, is coming under fire for a new rule that critics say would force religious doctors to violate their deeply held beliefs about gender."
+    publishedDateTime: 2021-05-11T16:28:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fHXnnXhCV9w/biden-transgender-health-care-catholic-religious-freedom"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transgender-health-care-catholic-religious-freedom.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transgender-health-care-catholic-religious-freedom.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7fb6deb-3930-4b52-95ac-1a1c5092046a/97c6d185-2637-40d8-844f-5074ff0caba9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -398,6 +398,6 @@ related:
         height: 500
         isCached: true
 
-secured: "I7ZWG6DL+xi6a/PikQ52DWIF+SNPKl3AirfNigPxoi9JMIWxT8C5rPyR5RUueaAroWRWtFHvXTFBGXAIeINBPPOjAf4JMkesV5hIWRGsyOZypTU2LTUjKpt+c/KEqIEvIKCq6BxP0voVb98ughnjOTQq69b/41HjqIwuFfq8QVA475UMQyUaxO2Ed9ol2oOoUXewzNPhrbsBXpog2GAWZcC5clEoAC4AU7Iu9iSXG3GQmhyzQZKGMYAG/WP+RLnU2XST+tHrYquR11ibfFOaeyi/qL1qGPRV32Dn7sjDDM47GRIY+ao+DfnE04Wiq7o9Lsj0CYLGoDlqYSDbt9c1U7lC0tpC2c7KKucYmTnXUcs=;kk1zMLcDMs5pwVTTimm2/Q=="
+secured: "TB74mkqpKTLAtqjQZFKwgJ6mAGM7rE2o+vXn3ThfBp9grDRQhNMuCGeqt1n89J07VUFLSjPUwTvv81VMloGWedXclBAM/YSHX2aR6r5Q0lEwd3dFfcaQXwhVdVhSv2YkkG1a/+BZfjMaXksSuV4IPz6Io/e1BZx6PDbWqFrMD8FQQ/ADKDRuknzuqZ5Gj8pq6tuvDTQJWYnWPF9O2bCxSKp6u8iL4qzaJkwIj84atDGA8WjNa7GH3rRTgQs9C26MKXKUFbXKfdLy1WJsB1iGfFF2Jc3Cn1Pr5igcgFBNiuVOuBnkew0f9Nmua6+ZahyrSJ4SYplNrWPkzlNxi64BTz/zDXwida9Q60VodnaloEE=;WgOZB0y2/215xU5jaM3JVw=="
 ---
 
