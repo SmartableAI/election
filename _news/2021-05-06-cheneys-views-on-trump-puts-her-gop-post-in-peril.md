@@ -383,19 +383,19 @@ related:
         isCached: true
   - title: "Conservatives seize on gas crunch to blame Biden, stir base"
     excerpt: "Thousands of social media posts have misleadingly painted President Joe Biden and his administration as catalysts of chaos who not only mishandled the temporary shutdown of the nation’s largest fuel pipeline last Friday,"
-    publishedDateTime: 2021-05-13T23:32:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/conservatives-seize-gas-crunch-blame-biden-stir-base-77678433"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/conservatives-seize-gas-crunch-blame-biden-stir-base-77678433"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/conservatives-seize-gas-crunch-blame-biden-stir-base-77678433"
+    publishedDateTime: 2021-05-14T09:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/conservatives-seize-on-gas-crunch-to-blame-biden-stir-base/2021/05/14/55ee41f8-b46c-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/conservatives-seize-on-gas-crunch-to-blame-biden-stir-base/2021/05/14/55ee41f8-b46c-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/conservatives-seize-on-gas-crunch-to-blame-biden-stir-base/2021/05/14/55ee41f8-b46c-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_f1e5314b200a40b7866a91fd0302fa26_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SRFYALFTFAI6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "House GOP set to put Trump defender Stefanik into No. 3 post"
     excerpt: "Elise Stefanik into the ranks of House leadership, with the party hoping to turn the page from its searing civil war over the deposed Rep. Liz Cheney and refocus on winning control of the chamber in next year’s elections."
@@ -444,6 +444,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/339f47bf083cf1180ba65acf917fe15c14d930ba/0_56_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8ee96b7bcb2d4d86c2882828e52611f6"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden’s IRS Blocks Developer Push to Expand a Trump Tax Break"
+    excerpt: "President Joe Biden’s administration is shutting down attempts by developers to use new Census Bureau maps to claim generous tax breaks enacted by Donald Trump."
+    publishedDateTime: 2021-05-14T18:55:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-05-14/biden-s-irs-blocks-developer-push-to-expand-a-trump-tax-break"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 120
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv3bxcUUiBhE/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biden pushes infrastructure plan in GOP stronghold"
     excerpt: "With a badly aging bridge as his backdrop, President Joe Biden stood in reliably Republican Louisiana on Thursday to pressure GOP lawmakers to support his $2.3 trillion infrastructure plan, calling it a \"blue collar blueprint to rebuild America."

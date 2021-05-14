@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Judge orders Justice Dept. to release Trump obstruction memo"
-excerpt: "A federal judge has ordered the release of a legal memorandum the Trump-era Justice Department prepared for then-Attorney General William Barr before he announced his conclusion that President Donald"
-publishedDateTime: 2021-05-04T21:17:00Z
-originalUrl: "https://www.washingtonpost.com/politics/judge-orders-justice-dept-to-release-trump-obstruction-memo/2021/05/04/bb13b820-ad18-11eb-82c1-896aca955bb9_story.html"
-webUrl: "https://www.washingtonpost.com/politics/judge-orders-justice-dept-to-release-trump-obstruction-memo/2021/05/04/bb13b820-ad18-11eb-82c1-896aca955bb9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/judge-orders-justice-dept-to-release-trump-obstruction-memo/2021/05/04/bb13b820-ad18-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/judge-orders-justice-dept-to-release-trump-obstruction-memo/2021/05/04/bb13b820-ad18-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+title: "Biden’s IRS Blocks Developer Push to Expand a Trump Tax Break"
+excerpt: "President Joe Biden’s administration is shutting down attempts by developers to use new Census Bureau maps to claim generous tax breaks enacted by Donald Trump."
+publishedDateTime: 2021-05-14T18:55:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-05-14/biden-s-irs-blocks-developer-push-to-expand-a-trump-tax-break"
+webUrl: "https://www.bloomberg.com/news/articles/2021-05-14/biden-s-irs-blocks-developer-push-to-expand-a-trump-tax-break"
 type: article
-quality: 125
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Bloomberg
+  domain: bloomberg.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7LC6KUFNDEI6XAWBRFVMVFK3XE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv3bxcUUiBhE/v1/1200x800.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -158,6 +156,22 @@ related:
       - url: "https://thehill.com/sites/default/files/gettyimages-1232585235.jpg"
         width: 1440
         height: 880
+        isCached: true
+  - title: "Judge orders Justice Dept. to release Trump obstruction memo"
+    excerpt: "A federal judge has ordered the release of a legal memorandum the Trump-era Justice Department prepared for then-Attorney General William Barr before he announced his conclusion that President Donald"
+    publishedDateTime: 2021-05-04T21:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/judge-orders-justice-dept-to-release-trump-obstruction-memo/2021/05/04/bb13b820-ad18-11eb-82c1-896aca955bb9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/judge-orders-justice-dept-to-release-trump-obstruction-memo/2021/05/04/bb13b820-ad18-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/judge-orders-justice-dept-to-release-trump-obstruction-memo/2021/05/04/bb13b820-ad18-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7LC6KUFNDEI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden hits schools goal even as many students learn remotely"
     excerpt: "President Joe Biden has met his goal of having most elementary and middle schools open for full, in-person learning in his first 100 days"
@@ -431,20 +445,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Biden’s IRS Blocks Developer Push to Expand a Trump Tax Break"
-    excerpt: "President Joe Biden’s administration is shutting down attempts by developers to use new Census Bureau maps to claim generous tax breaks enacted by Donald Trump."
-    publishedDateTime: 2021-05-14T18:55:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-05-14/biden-s-irs-blocks-developer-push-to-expand-a-trump-tax-break"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 120
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv3bxcUUiBhE/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Cheney's views on Trump puts her GOP post in peril"
     excerpt: "No. 3 House Republican Liz Cheney was clinging to her post Wednesday as party leaders lined up behind an heir apparent, signaling that fallout over her clashes with former President Donald Trump was becoming too much for her to overcome."
     publishedDateTime: 2021-05-06T01:45:00Z
@@ -695,6 +695,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "gkygcEftFqW/zB+PiG6+RDsIgTb5qoRXPj31yaIK7NtDBWGNgmqBVIaLcJOiCYHBnimoNGDiSTACnTr/nvwfSP3UEGmf0IjOC4gi9VaobYaCs6xRK3Ozs78sZ7RHytsvGN03pw0jvjKzM3mUNqthokDHxktNNn2v1Xq4vfwWqRkulIkTgtMd/cUswcF1tNPX0AmwcG0rUsH3EGzVQ57J1p31cCwwneObXOn1B47S+fn3E09qwgABlMk8BkOvxwEdhXxd7Srp83pxV55mMVkjON9xJBgr1mmLwpijH4wpshttQIZsNlKyHpsP1RKsJEel+Yp9iQo94b8TLTm8mZjOcRl4hhGgM3lZq3Nx4oJxi60=;aJp86RY+pUweBBgXI37jZA=="
+secured: "rQFf6Hx3DcfnimILYbioAvbd6knrQsCC3dJEdOyWj31lUkR1n5JNkXfZPbf8R+Twvi94R8cl2nihS7V8O4Znb1TLnIoaTJfCGiPqoeOZs6fisV0mrs7a8wUBc3e7z6+cGwdQOGTu5GAXEF050o8kkF0XrjL5A3vXg18Ewv0dVNo3m9iBFfXKZfK4nthwwjGvEMO2XHvV1lBD03Rerz+/0PpB4eoqE0UceqEl+kKBnRWq8yJ6rPhjRlBv6XRO76vBHEXr+DXwgGe4SLDlA3OUAUqWnopWq9qybW+++Il7MhydH+dAOMzHXPvP+bidbLIaf4uAPvaR/XIiyOf7chQXssKJij9ohlBSy83EO9KSJYg=;QxCFad7brqIZoHRdBq+m6g=="
 ---
 

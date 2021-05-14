@@ -79,6 +79,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kinzinger: \"I Guess I Agree\" Trump Is The Leader Of The Republican Party"
+    excerpt: "Rep. Adam Kinzinger told ABC's \"The View\" on Friday that until someone else steps up, he supposes former President Donald Trump is still the leader of the Republican Party. \"Yes, I guess he is the leader of the party at the moment."
+    publishedDateTime: 2021-05-14T19:44:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/14/kinzinger_i_guess_i_agree_trump_is_the_leader_of_the_party_because_nobody_is_stepping_up.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 64
+    images:
+      - url: "https://assets.realclear.com/images/54/543319.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "Ti7qPFe8SdXi3UwKnbxKLEAgmSsmJwyP/oLDNWXgN9wz79N3BP4983HaH4I2eC+HUYK2b9Mnm4TI8wAx4I04KVHMeTyy8B64T6zMXUCeMEig7gSCEu9fmRETvbKwRapFSiZMw8fNPCVlXGRCyKxf4fvB3BofVhv3/MZSv6rkIbPw6PiLReyswz+C5OL1lM+XkQOeHedhRV/Ze+puAadhl1NGyv3uwwwm2xI/6jeewAs3O9ibr/XtovNDkwAFHDAZTiVt5gP+N/Yll//qJ5x+PLJFcErd3wlgY7A9BaJaNMmrfvTH0qWHwQjzckLJiKYcW5AyFMiGfoO6H5qfrwXJLhWWWg5owcvYS1DoauxRLXg=;YWJ08lyqmO6VtC8zyrc+Yw=="
 ---

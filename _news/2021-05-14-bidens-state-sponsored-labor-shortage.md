@@ -3,8 +3,8 @@ category: news
 title: "Biden's State-Sponsored Labor Shortage"
 excerpt: "President Biden spoke at the White House earlier this week to address an unsettling national trend  millions of jobs going unfilled in an economy"
 publishedDateTime: 2021-05-14T10:41:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.amp.html"
 type: article
@@ -226,6 +226,6 @@ related:
       domain: washingtonexaminer.com
     quality: 63
 
-secured: "9969eF5w9KQGrPyiisExFRw4DvQUpnDDvHvovB0zBEOjFqRP23pyd6BsBDqW15NJIvl5eIqkC4vAA3WjOve4GLe3xaJOcLeMYBInRWLXMd+cJBjeaWMed+9MqCvciZsnA5DkGaMNhg2k/daCU0rnQLR6NjzZ5UxavYjecWIu3LERwxz37nK/PNQQ7VkhYGNfoU37ROzD2vQnLGq3GquiyHzR6CUoXrl3lyEAN0x704yvcdWz9mn1+MTy4pRAl22B7D8Ttoti4JCKJ/ZMaPXWa/vKB3ihmq5M8GULbasfN/imu7/tfv+M11KA42eeTZMffBD8K9F3D003dYmwHfZySOEkhj/1kuBK0K35gI844A2qBv3iNzWPlGYPNIkQzWUXW7RpdtqIhrB92tJ5G3fkqDrgeiA3gilPrVHoLrvtb4z1qBOG/uweH80j78+n+P7CXR7/eXo3mxQPBUmTrubNZ9+cEHubVbOYDBPrrb5NtAOlySj7OrgBtDeDIXfogB/I3cKuEU89m+RzFKo0d0g8Vg==;kX0JauwesFZ+qAHcajzj/Q=="
+secured: "basS25fq7wxULvxmdYwKPFH3kMIUTIYZsa/VWA5ZYNrs7Sf5+IIh9RmLEWOwDRnZG2YeiuVsXUH8ePMHv2GDiSr7xScxdEH+gSm5mYoucbagQVjaOM9FrsNrdZLkAV/FpyIleaZBGGmcq7MeAkooMGHBGOBgXEookIIxfumdaLK2eD6Lk+iDxX2nl3NcH9Dxxxmg8FahMBd33CmiXHq/ULd/F08BxuN6LbKfnAueqF5J8u4/I1fVnIJ/0u+1dznMBDFAbkhaGRzdrpZPHx0KpxqymkbZz3i9kIs422wPPapU4HIRrXNjSkKEhy55oOC54ofcqmNcU3sX+9Nt+Li7uU3DaTN7xuro6B4c4UgNlHs=;w3dE7JuuETpUaW2iOb4ZYA=="
 ---
 
