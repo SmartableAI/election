@@ -371,7 +371,7 @@ related:
   - title: "Biden To Meet With Republican Lawmakers On Infrastructure Plan"
     excerpt: "President Joe Biden is set to meet with a group of six Republican lawmakers to discuss the administration’s proposed infrastructure plan and how to pay for it. This comes a day after Mr. Biden and Vice President Kamala Harris met with bipartisan leaders to discuss the deal."
     publishedDateTime: 2021-05-13T17:17:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.html"
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.html#!"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.amp.html"
     type: article

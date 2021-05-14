@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
+    excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
+    publishedDateTime: 2021-05-13T19:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77669550"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77669550"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77669550"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e8f3be20437144588b960af4450c52db_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Ex-Trump lawyer Sidney Powell accused by company of raiding nonprofit for personal expenses"
     excerpt: "Dominion Voting Systems claims Sidney Powell has raided Defending the Republic’s coffers to pay for personal legal expenses, citing her own remarks from a radio interview."
     publishedDateTime: 2021-05-13T20:51:00Z

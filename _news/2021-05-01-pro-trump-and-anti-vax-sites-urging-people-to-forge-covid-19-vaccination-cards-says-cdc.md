@@ -111,6 +111,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump 'Egged On' Capitol Rioters: Facebook Panel Co-chair"
+    excerpt: "Donald Trump encouraged the Capitol rioters and so earned his Facebook ban, but the social media giant's rules are in \"shambles\" and need fixing, the co-chair of the network's oversight panel said Sunday."
+    publishedDateTime: 2021-05-09T19:39:00Z
+    webUrl: "https://www.ibtimes.com/trump-egged-capitol-rioters-facebook-panel-co-chair-3195688"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/09/the-co-chair-of-facebooks-oversight-panel-said.jpg"
+        width: 1024
+        height: 695
+        isCached: true
   - title: "Look who’s moving in. Eric and Lara Trump are the latest to call South Florida home"
     excerpt: "Property records show the Trump Organization exec and his wife Lara paid $3.2 million for a five bedroom, seven-bathroom spread at the Trump National Golf Club gated community. Donald Trump bought the South Florida club from The Ritz-Carlton Co."
     publishedDateTime: 2021-05-10T16:00:00Z
@@ -152,6 +166,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "U.S. House Majority Leader Hoyer Applauds Facebook Decision on Trump"
+    excerpt: "House Majority Leader Steny Hoyer applauded Facebook Inc's decision to maintain its suspension of Donald Trump after the Jan. 6 Capitol riots, saying it has the right to refuse to be a medium for the former Republican president."
+    publishedDateTime: 2021-05-05T13:28:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-05/us-house-majority-leader-hoyer-applauds-facebook-decision-on-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "a1yrSckhO4/S1anj6gL0WAgmEG/6//LEf3ll3HUNaQH7cvJHnQ01qqaVcl3tirYu2DuK9OGGB6hFsHyBlLS4kxapTKb3+2GpzPDr/x0ukCPrt/x2VDrjah3A+R58hLnNwlVRpYFsrCUifXFOl0on7iWQgQW7Vn2lzVw6ziI688lp1LAMXJ4ZSin47bsjGLu1fNve7BvKvaJ7Hx5A+XkyvuFzsQi76KG3CnUcyJjg2Idn3VK9o8+gXxxGZ0YUaIgq7QRt5FcSn0AvJmulfBtpyNEnCX0v8FD4O/dt4NFtybQPu8XWcmxXQ3llaSIVG4JIy1CVTAdNZr6VI6Mr8fgVkWWp4Surrw9yUrxxEthII4o=;dkrnS/HUIRympVOqS2WgJg=="
 ---

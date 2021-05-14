@@ -117,6 +117,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump 'Egged On' Capitol Rioters: Facebook Panel Co-chair"
+    excerpt: "Donald Trump encouraged the Capitol rioters and so earned his Facebook ban, but the social media giant's rules are in \"shambles\" and need fixing, the co-chair of the network's oversight panel said Sunday."
+    publishedDateTime: 2021-05-09T19:39:00Z
+    webUrl: "https://www.ibtimes.com/trump-egged-capitol-rioters-facebook-panel-co-chair-3195688"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/09/the-co-chair-of-facebooks-oversight-panel-said.jpg"
+        width: 1024
+        height: 695
+        isCached: true
   - title: "Facebook Board Upholds Donald Trump Suspension. Could His YouTube,Twitter Accounts Return?"
     excerpt: "Facebook has six months to decide whether Trump will return or be banned outright. What are his odds on other social media platforms?"
     publishedDateTime: 2021-05-05T16:24:00Z
@@ -147,6 +161,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "U.S. House Majority Leader Hoyer Applauds Facebook Decision on Trump"
+    excerpt: "House Majority Leader Steny Hoyer applauded Facebook Inc's decision to maintain its suspension of Donald Trump after the Jan. 6 Capitol riots, saying it has the right to refuse to be a medium for the former Republican president."
+    publishedDateTime: 2021-05-05T13:28:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-05/us-house-majority-leader-hoyer-applauds-facebook-decision-on-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "665gybUiVbcKoh4pz2lvZ1b8ykdjf8dYffzRvC4U/aAthq9MF/SbtV2t9k6K7KeeXXcvgEOrnXe4N5pMFHrvGYPcLvUoLtQnjOb2IbUA4+jlFhf2Jd3qX76Q76hu0yfKSwKeqIloPpuV/LLSASOLFhZMIERx1EtyBpeNuJAv87SVnrtlyE5lASZsdyDu21gR/8xJCyo0T7wRRmpC5ke596PxgfOuENw0C1xhekl+zVmCXklRMZZQnM2bItjg0CL2D4It9n/v/ok2hpz4CbmcobKGt+DzeNjXnv46MfLmkG6dzQuMG9Wh6Ps4A//6HhY+F2RSrc2fxUlIOLeoYgkCF3n6X3GQh6yeTTw2ggTDF+H/txxyzHW0DCisPzcMRmA1X+yq2a1jdaT7Ea9U+rVuptu/XEc2S4xNGC1BxVsGZMA18cucGCQ4+tYpW5Gja35gzXuBfRb0QopM7AEdSj7AIG8dZzRJE3/nnbvuqiyUPQ2Z1gObuPgYME7zAtJJ6VwnA90EhSBQF2hY8uazdlJq7Q==;lOJM8Qy260Z2pL1VEob6uQ=="
 ---

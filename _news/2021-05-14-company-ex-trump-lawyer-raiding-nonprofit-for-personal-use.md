@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Ex-Trump lawyer Sidney Powell accused by company of raiding nonprofit for personal expenses"
-excerpt: "Dominion Voting Systems claims Sidney Powell has raided Defending the Republic’s coffers to pay for personal legal expenses, citing her own remarks from a radio interview."
-publishedDateTime: 2021-05-13T20:51:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-lawyer-dominion-20210513-43gxf642mrfjzhuegpa4hl3d3a-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-lawyer-dominion-20210513-43gxf642mrfjzhuegpa4hl3d3a-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-lawyer-dominion-20210513-43gxf642mrfjzhuegpa4hl3d3a-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-lawyer-dominion-20210513-43gxf642mrfjzhuegpa4hl3d3a-story.html?outputType=amp"
+title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
+excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
+publishedDateTime: 2021-05-13T19:19:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77669550"
+webUrl: "https://abcnews.go.com/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77669550"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77669550"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77669550"
 type: article
-quality: 115
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/2nWnj5haA-qau8SR22D1WYa4LD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QYN2LLGFQUWOVAU4COC53GX44U.jpg"
-    width: 1200
-    height: 800
+  - url: "https://s.abcnews.com/images/Politics/WireAP_e8f3be20437144588b960af4450c52db_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -47,22 +47,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
-    excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
-    publishedDateTime: 2021-05-13T19:19:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77669550"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77669550"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77669550"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e8f3be20437144588b960af4450c52db_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Key Trump officials face Congress with Capitol riot response under scrutiny"
     excerpt: "Wednesday’s House Oversight Committee hearing marks the first time former acting defense secretary Christopher Miller and former acting attorney general Jeffrey Rosen will speak to lawmakers about their preparations for and response to the attack on Congress."
     publishedDateTime: 2021-05-12T13:18:00Z
@@ -78,6 +62,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6WJLIUTADEI6XL56TII2CJ6RIY.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Ex-Trump lawyer Sidney Powell accused by company of raiding nonprofit for personal expenses"
+    excerpt: "Dominion Voting Systems claims Sidney Powell has raided Defending the Republic’s coffers to pay for personal legal expenses, citing her own remarks from a radio interview."
+    publishedDateTime: 2021-05-13T20:51:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-lawyer-dominion-20210513-43gxf642mrfjzhuegpa4hl3d3a-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-lawyer-dominion-20210513-43gxf642mrfjzhuegpa4hl3d3a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-lawyer-dominion-20210513-43gxf642mrfjzhuegpa4hl3d3a-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 115
+    images:
+      - url: "https://www.chicagotribune.com/resizer/2nWnj5haA-qau8SR22D1WYa4LD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QYN2LLGFQUWOVAU4COC53GX44U.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Judge sentences co-founder of 'Students for Trump' to prison"
     excerpt: "A judge has sentenced a co-founder of “Students for Trump” to 13 months in prison after he admitted posing as a lawyer to cheat clients out of thousands of dollars"
@@ -105,6 +105,6 @@ related:
         height: 1301
         isCached: true
 
-secured: "CbGQMG0WIBFVGH7wn/powf4pWPIqg7kuwYQG01v8F97oOy3rCthO+MkitNnF2vGcqlRXqbCIQXWmzM2QD6KZmUhW6UgPTrzMW8CSff1hGixDoiNXN4zJtN4716P0guRktFnJ/KgOtkRqW44ulWuvnkInZclMdWkQd0ixum4RBhxN8uxqz0kzBpLhSy4O1nXgG/qhUHqnBSjwjd128kRM7F3jS1VQDhGdpjkwGl8A323Augq3TIfP9/l8gssuwcDcK0PlCuDOHgwUdF2U2tX3DQSmooGhajYp/TNcrEP+pAjE5AnMUig+nQsxBOugskKlGfOjcV3hEJv4g3tGWgNwSa+U38mxS2Y5r6XdCwYhpmbsVtl3WrCd2iDUQiURXTc6oNS1RWhqe64iXiGxQs29qR6ncjdI0UeMPdNFJYCjFIYvXCg1M3M+xgaiL7u0ePx2rhtK2kKUjjsFy82BXbwX/bV2glU91LiEmm7HmVpYNUqo1rIxpK9pYEjGNmqbbtuQ60xIOWzlJ6prlKiyUg/xnw==;4Aacx0wYx9MrqedW9p4P7g=="
+secured: "qPrZi/XEqJqh4TFz3pZyZlhaikW5Ww1ICCvb/5stv14DgKfRdaYQqrUyimW6UV0FbGoqjwvOjFYDb5g3GiHK55fIj4XBSJSH3IXqSflVXtG+QYLLL+gSYQpi3yJ6DfxW5Q0c3Kr8t4mMIfojRrLgflWx4zYYixR/aDfs86bHZlCmui8jEcMZQ6nsC8fNekZXIJLV6DXTehgARK5FesADq0+8VKpjxu3E19zXFR8xJjnt9BP5sMZ66B7VbkvRctq7HgBDsKSw3xjNJVJPOKB7clUbOItbTMNzGB3LkyBDg7UO5GSABrfoMFtbhnpFVfyNQYZqNJKbdtgGxjaTHf6x00wLU9/2ee5YTRs5TgK+LDk=;hu2WLTP5UzI3TCe0Jo/nmQ=="
 ---
 

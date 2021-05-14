@@ -3,8 +3,8 @@ category: news
 title: "Biden To Meet With Republican Lawmakers On Infrastructure Plan"
 excerpt: "President Joe Biden is set to meet with a group of six Republican lawmakers to discuss the administration’s proposed infrastructure plan and how to pay for it. This comes a day after Mr. Biden and Vice President Kamala Harris met with bipartisan leaders to discuss the deal."
 publishedDateTime: 2021-05-13T17:17:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.amp.html"
 type: article
@@ -411,6 +411,6 @@ related:
         height: 500
         isCached: true
 
-secured: "JXSWYKgLegWqZGW/L+glZ3uOrB5yIWhrMcLYXFKeKaZefK7vENFkOmYCpWd36ZOhV2c3XjjfRGNgvMvLrLEPBD/kWTBfirnug6zw/VDZ21ZV4p5MFJhBiSNrMuu1q1bfGzSdNtQSV7It8OVB0XQCCbjy119vmsUDSg8YJwyuDV24CKAM7thg+dC+j7e/N7AXz3CHjttNQg9LFf6y71oMjBXuHSS9yq3zEAr7Qghpd2KJGfQqLYAKtt9n8q2Ywy15bKbWIuHKhlsCRNbOn2Qb3XeD40++tQpPgbrZ04b8mtlZRYxLCmDNfjKCqPv/fbUco2o4om2yT00XAiasHA4Tj98d3+ftZffF40SUtiLlyUU=;Wd942+seHmaqxKpW5J5YRA=="
+secured: "5yBToDob30/o6vBod+pNa+6uC2GQKFGD2zWeVUyvNY4TIw6wRJAJ4VxNmBIRdFBhNJA5VbH3bahagUP71Di4o+Xe4s3QL+WTxQNmzCam5iFAa0D1FUBsKfHnDBpvSmxTsa7IvmmUTCydKwXlgZ3x+x6JqV8weuy02O2pl/Q6xoV88gdud/ce2f6WcVOyYPXTWfQuq2e+KuEWMpPkfCMfmOLRKvoTYYqNcp9tJYv1Tyzeqgj0ESBcN232FXEs86XYacgd8Cyrhyg7fQsR9fJABuXDM5iMTDwf9UX2z9uLPTirdoDqZvE3mj5GjcX2KOcrwNyo1o60aVH6sk4+yLg9nE2caDv4PSuREKOOys0Qyb8=;zgNxugIe1+8As1X8sj5g8g=="
 ---
 

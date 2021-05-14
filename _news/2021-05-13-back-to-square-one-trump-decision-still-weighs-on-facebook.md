@@ -1,60 +1,31 @@
 ---
 category: news
 title: "Back to square one? Trump decision still weighs on Facebook"
-excerpt: "Suppose you were Mark Zuckerberg, ordered by an advisory board to decide how long former President Donald Trump should stay banned from Facebook"
-publishedDateTime: 2021-05-13T14:35:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/back-square-trump-decision-weighs-facebook-77666725"
-webUrl: "https://abcnews.go.com/Politics/wireStory/back-square-trump-decision-weighs-facebook-77666725"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/back-square-trump-decision-weighs-facebook-77666725"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/back-square-trump-decision-weighs-facebook-77666725"
+excerpt: "Suppose you were Mark Zuckerberg, recently ordered by an advisory board to decide how long former President Donald Trump should stay banned from Facebook. How do you make that decision without alienating key constituencies — advertisers,"
+publishedDateTime: 2021-05-13T16:13:00Z
+originalUrl: "https://www.chron.com/news/article/Back-to-square-one-Trump-decision-still-weighs-16173960.php"
+webUrl: "https://www.chron.com/news/article/Back-to-square-one-Trump-decision-still-weighs-16173960.php"
+ampWebUrl: "https://www.chron.com/news/amp/Back-to-square-one-Trump-decision-still-weighs-16173960.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Back-to-square-one-Trump-decision-still-weighs-16173960.php"
 type: article
-quality: 125
-heat: 165
+quality: 75
+heat: 75
 published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_789bc4439a9f4f9d8c736ff17901e404_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
-related:
-  - title: "Trump 'Egged On' Capitol Rioters: Facebook Panel Co-chair"
-    excerpt: "Donald Trump encouraged the Capitol rioters and so earned his Facebook ban, but the social media giant's rules are in \"shambles\" and need fixing, the co-chair of the network's oversight panel said Sunday."
-    publishedDateTime: 2021-05-09T19:39:00Z
-    webUrl: "https://www.ibtimes.com/trump-egged-capitol-rioters-facebook-panel-co-chair-3195688"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/09/the-co-chair-of-facebooks-oversight-panel-said.jpg"
-        width: 1024
-        height: 695
-        isCached: true
-  - title: "U.S. House Majority Leader Hoyer Applauds Facebook Decision on Trump"
-    excerpt: "House Majority Leader Steny Hoyer applauded Facebook Inc's decision to maintain its suspension of Donald Trump after the Jan. 6 Capitol riots, saying it has the right to refuse to be a medium for the former Republican president."
-    publishedDateTime: 2021-05-05T13:28:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-05/us-house-majority-leader-hoyer-applauds-facebook-decision-on-trump"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
-
-secured: "XqITwg1Bu1vG0vsUsNJWrO+3WDoaTROu3kn4Jx4+NAx6/RH+wDv5ccd0zff0YrsNw5iO6Pq6jeUbUHHTMwZnQlLy89/SY49GW1D9w/P2T9UK1TtTLDXavaDrBYw1op63eYNb/ULprF+hjx1HtyxSWZ8RXusUni3ndZPj24gIyHOZEsPWtQ2Ayrfz8ltczk1+G81KNJT5lYSy4IpJT1uQcYa6xQsKrIp3gyxkH45pg58iGCLASPzVCiFPEMGbDzyzqEdGOJVBDfjEErKrNtjTBWq0cmSRtH2gjnbRz/uc4/b8rUDbxRxDF98bOgilL0gBLNYbHVRqD9crrpYUOEHwKoFj3jR5GjwqYMJrcj0rzqMxbFoNsba5B0xmHhy3Qy64jP57z/3HzrTX7eJfQEKYKzhb/fe3LEJakr6+KtvkRTBeWRXxG+sUiAl/Opt9fkctkOR44GcUxZR6YyF/4oJdLPnSbmtOAEH2pSUciXKjHUihqwywQSoMTFkxFytdUDlcE3Skfkvw6unNgYcHNyELeg==;wRiRW1ESVRO53fjPrMcSKw=="
+secured: "E2U4GeNmKGSg5tgpd+4Hm3Yy4L8J+KJuu16DZMw+AUMW7KmXsEc2MUGQ+QlpuzSjM10ajurdTfpsXwq4JI2lpWQvfnSwA9Apak/o5emIFU+ciBbpuEIdosLeiPH82VPqc4OXa17nH3iXBN0VJuNkPADk5AqYR4V2yaDGEWhaz+kNcsZRJkDL5qW3MF4cnkuZ27GIGCQRyfea6mWH2I/Wgt+ImIbvLAFzTUK5KIfyxNjtrFTw04Twa49N+WoSFbwhMforvmOEo+IpczTeYRA55xb4doc1t7N2qqi/ELWjPrQWFBXE2mP0/gLYbUG9sifjma8LJsdYdZFM8fwuhmsbkmGHsvQPzelfVDLjLYoJRgk=;49O0FsVN33DO7d0aINnNTw=="
 ---
 
