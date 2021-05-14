@@ -192,6 +192,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Rep. Stefanik thanks Trump after being elected House Republican Conference Chair"
+    excerpt: "Rep. Elise Stefanik was elected to serve as House Republican Conference Chair during a closed meeting. She thanked former President Trump for his support and criticized \"radical, socialist policies\" of President Biden."
+    publishedDateTime: 2021-05-14T14:17:00Z
+    webUrl: "https://www.nbcnews.com/video/rep-stefanik-thanks-trump-after-being-elected-house-republican-conference-chair-111949381800"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111949381800"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111949381800"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/stefanik_elected.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump attorney, other allies launch voter fraud organization"
     excerpt: "The Election Integrity Alliance's board includes former Trump campaign lawyer Jenna Ellis and other notable supporters."
     publishedDateTime: 2021-05-05T08:35:00Z

@@ -206,6 +206,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Rep. Stefanik thanks Trump after being elected House Republican Conference Chair"
+    excerpt: "Rep. Elise Stefanik was elected to serve as House Republican Conference Chair during a closed meeting. She thanked former President Trump for his support and criticized \"radical, socialist policies\" of President Biden."
+    publishedDateTime: 2021-05-14T14:17:00Z
+    webUrl: "https://www.nbcnews.com/video/rep-stefanik-thanks-trump-after-being-elected-house-republican-conference-chair-111949381800"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111949381800"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111949381800"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/stefanik_elected.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "2NyQt/NG22XpyRmmKUXfgc6CIMWv5TYdzDpCYyneh9ceu/hCwyrIS9rsP6Oia0M8JNGx91exJ0+AGITvMfUiBkwtvhuV0su8vWMrAfADCIEW/LXaEc2tWf8hqDUp6uIc/Mxm9a1d4OXQx1izW8Gr8C24zZFyMZoRJCupVy0HD20SP59EUW4DsivBFt3lBu7Ngv4KatZ2L95/uX2KOv7vA/tJOffkn0Z58MNtmj4WDCw8UfzjJvETiw78CWnzk8HVEZmc7h0ARIXBuOsjuLnlq0fAhlXaOHvnQ2fBf1iDJwuPPtqIEJABvClGabwnrYPVFaiCdpxU/0s0wyZSsnoRAB1i9UXm3zuOZiKhdvFB9EY=;i60Rp+88wAOXX64urf09uQ=="
 ---

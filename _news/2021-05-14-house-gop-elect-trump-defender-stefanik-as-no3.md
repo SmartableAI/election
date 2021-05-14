@@ -1,33 +1,31 @@
 ---
 category: news
-title: "Biden tells US governors ‘we got more to do’ to encourage vaccination – live"
-excerpt: "Biden outlines steps officials are taking to get the message on vaccines across – follow the latest politics news live"
-publishedDateTime: 2021-05-11T17:40:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
-webUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
+title: "House GOP elect Trump defender Stefanik as No.3"
+excerpt: "Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership, electing an ardent Donald Trump defender in hopes of calming their searing civil war over the deposed Rep. Liz Cheney's unremitting combat with the former president."
+publishedDateTime: 2021-05-14T15:02:00Z
+originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/14/house-gop-elect-trump-defender-stefanik-no-3/5090514001/"
+webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/14/house-gop-elect-trump-defender-stefanik-no-3/5090514001/"
 type: article
-quality: 122
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/339f47bf083cf1180ba65acf917fe15c14d930ba/0_56_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8ee96b7bcb2d4d86c2882828e52611f6"
-    width: 600
-    height: 360
+  - url: "https://www.gannett-cdn.com/presto/2021/05/14/USAT/ff68f52c-e9f6-4328-83e4-dd6734228216-c7f98d30-0917-47bb-93b0-c461553ba2a4_thumbnail.png?quality=10"
+    width: 852
+    height: 480
     isCached: true
 
 related:
@@ -431,6 +429,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden tells US governors ‘we got more to do’ to encourage vaccination – live"
+    excerpt: "Biden outlines steps officials are taking to get the message on vaccines across – follow the latest politics news live"
+    publishedDateTime: 2021-05-11T17:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/339f47bf083cf1180ba65acf917fe15c14d930ba/0_56_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8ee96b7bcb2d4d86c2882828e52611f6"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Cheney's views on Trump puts her GOP post in peril"
     excerpt: "No. 3 House Republican Liz Cheney was clinging to her post Wednesday as party leaders lined up behind an heir apparent, signaling that fallout over her clashes with former President Donald Trump was becoming too much for her to overcome."
     publishedDateTime: 2021-05-06T01:45:00Z
@@ -514,20 +528,6 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/dd6e5cdc-1df7-4e8a-af80-af57e5e6686f_poster.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "House GOP elect Trump defender Stefanik as No.3"
-    excerpt: "Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership, electing an ardent Donald Trump defender in hopes of calming their searing civil war over the deposed Rep. Liz Cheney's unremitting combat with the former president."
-    publishedDateTime: 2021-05-14T15:02:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/14/house-gop-elect-trump-defender-stefanik-no-3/5090514001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/14/USAT/ff68f52c-e9f6-4328-83e4-dd6734228216-c7f98d30-0917-47bb-93b0-c461553ba2a4_thumbnail.png?quality=10"
-        width: 852
-        height: 480
         isCached: true
   - title: "Trump's triumphs extend to GOP rewriting history of Nov. 3 and Jan. 6: The Note"
     excerpt: "Many of Rep. Liz Cheney's colleagues are well along in crafting their own Trumpian and patently false narratives of both the election and the subsequent attack on Jan. 6."
@@ -681,6 +681,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "qiMkdy3QIH1B3atWqdot8Q8VruBltJN155qaTbXA++I75OlBEa8vPL8zhyqBwJRKBW2QAxzipIu3fq7ON+TAVRyUMzfarWm734umxCLHfSYP4wg1J6qxgiphz2oMbRuMsbHlE9gzi1dEy8quldovAwByDLbLIB8rq/3SduoIespd/3E88SeteiIO11rlCrx+Y0D1ie4Do/+J6OmhDTqGaWPtGjJdGVrxEqr7Hbq1Mx7lCIOAKSLo/TUz9F6zgGuNLYIAkQkwtv6iUpfpm2eM2L3vsvgbt3v+8ak96J7vse6I0G8qZ1aZ3H9YniALjCfc7xQsnDLrsbR51agwrnZYrXrS6D2NQzkSpvJ/wI2ScRli1ogKyBtz7+qN5FIbomrwhG39+/70VDBboJ0/4ykFixdhGLYkTbW4A9hPDyC/IxFO2PU5MowDsWH9/keKiDyxVlXlXxamOte6GK7uBK/V9uWQZXoJgqgbLSxfSWMoPi2S3cx8ktzO67DrI7Er+DSRPspKG+wQZxGJhx6RRpSXyw==;qBqXbiGZViLOOkSdVR0Mgw=="
+secured: "8wjUbPqdu/NTsK1xPsXdQdXnBmdi7b3mEI1HdxN7REk0Q8g/k8n3zhsjrcPFHUYaH0sB/3Wxk0972ZzKH+jHXssLzfADaihiwCyIE7SoRaMEYqik5ttMFl6hXqk3ZLPCh7cJVHtxonA8rm2njKnRm6FpaFgMLA9+WkIYIcclOvf9Hxm1ekFvh/GNliLqBWv5IJywfqbD2R6Xf7VFntApaJb+p6vTswxyeI2kWQ/LQV0SRPICTaXlZjoYfwLK3qyp153TvFHOGb5QbQ1iqW+qPzBxtroOZ8+ImwLXC35qvqGmxsuJ5meJjQNrCr16DGCnLmjkftMEOnrbO/1RtKXPmyfQz7JDbHYE1SWv1QJxuyM=;cNIvBP9QCMtx/g/kDNZsMQ=="
 ---
 

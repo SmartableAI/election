@@ -575,6 +575,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "House GOP elects NY Rep. Elise Stefanik to No. 3 leadership post, anointing Trump loyalist after booting Liz Cheney"
+    excerpt: "House GOP elects NY Rep. Elise Stefanik to No. 3 leadership post, anointing Trump loyalist after booting Liz Cheney"
+    publishedDateTime: 2021-05-14T13:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/house-gop-elects-ny-rep-elise-stefanik-leadership-77688364"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-gop-elects-ny-rep-elise-stefanik-leadership-77688364"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-gop-elects-ny-rep-elise-stefanik-leadership-77688364"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 103
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Rep. Liz Cheney Lashes Out at Trump Supporters Ahead of Likely Ouster From GOP Leadership"
     excerpt: "A combative Rep. Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, taking to the House floor on the eve of her near-certain ouster from a leadership post to warn that former President Donald Trump and his GOP supporters are threatening to “undermine our democracy."
     publishedDateTime: 2021-05-12T03:21:00Z

@@ -336,6 +336,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden faces limited options, tough choices on Middle East policy"
+    excerpt: "Donald Trump left President Joe Biden with plenty of policy difficulties regarding Israel and the Palestinians. NBC News' Matt Bradley reports from Jerusalem."
+    publishedDateTime: 2021-05-14T13:45:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-faces-limited-options-tough-choices-on-middle-east-policy-111947333628"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111947333628"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111947333628"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/i/mpx/2704722219/2021_05/MB_FOREIGN_POLICY2.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden keeps hope alive in infrastructure talks with GOP"
     excerpt: "Senate Republican negotiators plan to deliver an updated spending proposal focused on traditional infrastructure to Biden soon."
     publishedDateTime: 2021-05-13T21:20:00Z

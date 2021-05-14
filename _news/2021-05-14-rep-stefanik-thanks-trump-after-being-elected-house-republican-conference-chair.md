@@ -1,22 +1,22 @@
 ---
 category: news
-title: "How Trump is hunting down the GOP’s leading families"
-excerpt: "In his attempt to exercise full dominion over the Republican Party, Donald Trump has reserved a special fury for the dynasties that helped shape it."
-publishedDateTime: 2021-05-07T19:07:00Z
-originalUrl: "https://www.politico.com/news/2021/05/07/trump-cheney-gop-families-485528"
-webUrl: "https://www.politico.com/news/2021/05/07/trump-cheney-gop-families-485528"
-ampWebUrl: "https://www.politico.com/amp/news/2021/05/07/trump-cheney-gop-families-485528"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/07/trump-cheney-gop-families-485528"
+title: "Rep. Stefanik thanks Trump after being elected House Republican Conference Chair"
+excerpt: "Rep. Elise Stefanik was elected to serve as House Republican Conference Chair during a closed meeting. She thanked former President Trump for his support and criticized \"radical, socialist policies\" of President Biden."
+publishedDateTime: 2021-05-14T14:17:00Z
+originalUrl: "https://www.nbcnews.com/video/rep-stefanik-thanks-trump-after-being-elected-house-republican-conference-chair-111949381800"
+webUrl: "https://www.nbcnews.com/video/rep-stefanik-thanks-trump-after-being-elected-house-republican-conference-chair-111949381800"
+ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111949381800"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111949381800"
 type: article
-quality: 135
+quality: 130
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/e2/40/e3ea59a84ddeb87d74518fd812f2/trump-gop-establishment.jpg"
-    width: 2000
-    height: 1333
+  - url: "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/stefanik_elected.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -160,6 +160,22 @@ related:
         width: 910
         height: 477
         isCached: true
+  - title: "How Trump is hunting down the GOP’s leading families"
+    excerpt: "In his attempt to exercise full dominion over the Republican Party, Donald Trump has reserved a special fury for the dynasties that helped shape it."
+    publishedDateTime: 2021-05-07T19:07:00Z
+    webUrl: "https://www.politico.com/news/2021/05/07/trump-cheney-gop-families-485528"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/05/07/trump-cheney-gop-families-485528"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/07/trump-cheney-gop-families-485528"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/e2/40/e3ea59a84ddeb87d74518fd812f2/trump-gop-establishment.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Full Panel: GOP hasn't figured out 'Trumpism without Trump'"
     excerpt: "Hallie Jackson, Jake Sherman, Cornell Belcher and Danielle Pletka join the Meet the Press roundtable to talk about the fight over Republican leadership and the former president's role in the future of the party."
     publishedDateTime: 2021-05-09T13:37:00Z
@@ -192,22 +208,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Rep. Stefanik thanks Trump after being elected House Republican Conference Chair"
-    excerpt: "Rep. Elise Stefanik was elected to serve as House Republican Conference Chair during a closed meeting. She thanked former President Trump for his support and criticized \"radical, socialist policies\" of President Biden."
-    publishedDateTime: 2021-05-14T14:17:00Z
-    webUrl: "https://www.nbcnews.com/video/rep-stefanik-thanks-trump-after-being-elected-house-republican-conference-chair-111949381800"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111949381800"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111949381800"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/stefanik_elected.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Trump attorney, other allies launch voter fraud organization"
     excerpt: "The Election Integrity Alliance's board includes former Trump campaign lawyer Jenna Ellis and other notable supporters."
     publishedDateTime: 2021-05-05T08:35:00Z
@@ -223,6 +223,6 @@ related:
         height: 773
         isCached: true
 
-secured: "G0JFFhWGWOqoXF+0aQUKdR4IIjTiLmULJXmliWx0/f/tf/40qdeYfaKab9ME9A/GvkypopttJa+y3sTz788pnGZYWbKjlDJxEAHApBcRbmWBHWKgJ41mj6swH0ZdzNKzrVpsvwI1/nUWGP4oH+q6CulbyaTGrIXqU3yIaqRx4ZWJ2wXZzPiE/IPdhU2prUOXdVPgi9cm8l8T/guxEWmIDQU0jeiZWb1qa+TNDVclHOAq2Nj8yb48ZjpugiPSeGRtI1bm5RvIzVQK4rUF6fJ6IBe4KB2JDg3H97qiGfE/7xp+qzeIHvkHXcdWR/YK3fQkqlY3f+dKp3aV2HV/STo2X8S1jTeM+x/+uwfa3bu8ThviP6m2PYAnoxg6FVGAi2rHQVZb8Kp5wWDdEjQj1elzCj7ny+P8d/a+IH4tRbF8IG28sfF4tscmPmzGNI9AgODjlt4tdDohs2wY2nH+i/kG37QGGgiY92OdiXCFtlgB1bYh682D8fuBPfIo//0uS3XVR5K0bDEZqTYtReLKRZ2sMA==;6gnqCvXuqA9bXM98Vzirtw=="
+secured: "GWP2zt7+sVcknFkLvj+T7hcx2gbpGpOaT9OlauvdDq7Rj1+QUUnTeTQNe87MLfOKe0o8URLCgJ8VQaaFLZre/BaCZf/L+NS21sytMNNVuqzmUXlmP3VuO/AZn9CQOsYyh35TTq0Xs9eP30xyh4TahIOBk6o6mX5O12czKMZpx9BJCLUCl6gMkXzVWnFPf1ohj1wxsAQrAJXGn3QNHNEgzuE0MyKi0nxq5kItZD5mmDqKaOw3/KMHB3blxz74XUdiB2WL8qErVgCq3pIZdbkiJl6EFeZJBCTOYWsxNpzq/rhOoc59566p3lC5ZLpkamzKWbVItn85Teon8YkSYoyyFXFi3ysWZ+LgWnXKI0PTOS4=;Wh1j33MIdqlo9FjEYr/wSw=="
 ---
 

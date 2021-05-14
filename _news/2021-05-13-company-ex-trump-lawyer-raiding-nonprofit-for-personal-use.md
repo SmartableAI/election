@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/company-ex-trump-lawyer-raid
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_e8f3be20437144588b960af4450c52db_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Families separated by Trump receive therapy, but funds could dry up soon"
+    excerpt: "After Trump separated children from their families, they've gotten crucial therapy, paid for by the government. But the future of those services is up in the air."
+    publishedDateTime: 2021-05-14T13:00:00Z
+    webUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon"
+    ampWebUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6a9b291/2147483647/strip/true/crop/4200x2743+0+139/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7a%2F7d%2F7f45f2a44b5aa994549b331daf6d%2Fsd-photos-1staff-766522-sd-me-family-renunification-ncc-017.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Key Trump officials face Congress with Capitol riot response under scrutiny"
     excerpt: "Wednesday’s House Oversight Committee hearing marks the first time former acting defense secretary Christopher Miller and former acting attorney general Jeffrey Rosen will speak to lawmakers about their preparations for and response to the attack on Congress."

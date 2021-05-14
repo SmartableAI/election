@@ -577,6 +577,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "House GOP elects NY Rep. Elise Stefanik to No. 3 leadership post, anointing Trump loyalist after booting Liz Cheney"
+    excerpt: "House GOP elects NY Rep. Elise Stefanik to No. 3 leadership post, anointing Trump loyalist after booting Liz Cheney"
+    publishedDateTime: 2021-05-14T13:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/house-gop-elects-ny-rep-elise-stefanik-leadership-77688364"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-gop-elects-ny-rep-elise-stefanik-leadership-77688364"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-gop-elects-ny-rep-elise-stefanik-leadership-77688364"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 103
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "The Hill's Morning Report - Presented by Emergent BioSolutions - Facebook upholds Trump ban; GOP leaders back Stefanik to replace Cheney"
     excerpt: "President Trump Donald Trump Caitlyn Jenner on Hannity touts Trump: 'He was a disruptor' Ivanka Trump doubles down on vaccine push with post celebrating second shot Conservative Club for Growth PAC comes out against Stefanik to replace Cheney MORE checks his phone on a golf course\" width=\"580\" height=\"387\" data-delta=\"2\"> Welcome to The Hill’s Morning Report."
     publishedDateTime: 2021-05-06T10:24:00Z

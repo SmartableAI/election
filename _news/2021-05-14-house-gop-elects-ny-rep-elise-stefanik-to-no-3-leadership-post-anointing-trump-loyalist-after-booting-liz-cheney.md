@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Liz Cheney refuses to rule out run for president in bid to thwart Trump"
-excerpt: "Leading Republican vows to do ‘whatever it takes’ to stop Trump, adding: ‘It’s an ongoing threat. Silence is not an option’"
-publishedDateTime: 2021-05-13T14:25:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/may/13/liz-cheney-trump-possible-run-for-president"
-webUrl: "https://www.theguardian.com/us-news/2021/may/13/liz-cheney-trump-possible-run-for-president"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/13/liz-cheney-trump-possible-run-for-president"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/13/liz-cheney-trump-possible-run-for-president"
+title: "House GOP elects NY Rep. Elise Stefanik to No. 3 leadership post, anointing Trump loyalist after booting Liz Cheney"
+excerpt: "House GOP elects NY Rep. Elise Stefanik to No. 3 leadership post, anointing Trump loyalist after booting Liz Cheney"
+publishedDateTime: 2021-05-14T13:28:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/house-gop-elects-ny-rep-elise-stefanik-leadership-77688364"
+webUrl: "https://abcnews.go.com/Politics/wireStory/house-gop-elects-ny-rep-elise-stefanik-leadership-77688364"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-gop-elects-ny-rep-elise-stefanik-leadership-77688364"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-gop-elects-ny-rep-elise-stefanik-leadership-77688364"
 type: article
-quality: 125
+quality: 103
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/bfe390f8b935d50f7d61694099c541252465caa9/0_182_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6c46fa5d91b89885d88572eba9fb8ec6"
-    width: 600
-    height: 360
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -317,6 +317,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Liz Cheney refuses to rule out run for president in bid to thwart Trump"
+    excerpt: "Leading Republican vows to do ‘whatever it takes’ to stop Trump, adding: ‘It’s an ongoing threat. Silence is not an option’"
+    publishedDateTime: 2021-05-13T14:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/13/liz-cheney-trump-possible-run-for-president"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/13/liz-cheney-trump-possible-run-for-president"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/13/liz-cheney-trump-possible-run-for-president"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/bfe390f8b935d50f7d61694099c541252465caa9/0_182_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6c46fa5d91b89885d88572eba9fb8ec6"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Cheney won't rule out running for president to stop Trump"
     excerpt: "House Republicans are slated to gather Thursday behind closed doors ahead of an election Friday to fill the No. 3 leadership role previously held by Rep. Liz Cheney."
     publishedDateTime: 2021-05-13T19:33:00Z
@@ -563,22 +579,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "House GOP elects NY Rep. Elise Stefanik to No. 3 leadership post, anointing Trump loyalist after booting Liz Cheney"
-    excerpt: "House GOP elects NY Rep. Elise Stefanik to No. 3 leadership post, anointing Trump loyalist after booting Liz Cheney"
-    publishedDateTime: 2021-05-14T13:28:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/house-gop-elects-ny-rep-elise-stefanik-leadership-77688364"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-gop-elects-ny-rep-elise-stefanik-leadership-77688364"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-gop-elects-ny-rep-elise-stefanik-leadership-77688364"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 103
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "Rep. Liz Cheney Lashes Out at Trump Supporters Ahead of Likely Ouster From GOP Leadership"
     excerpt: "A combative Rep. Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, taking to the House floor on the eve of her near-certain ouster from a leadership post to warn that former President Donald Trump and his GOP supporters are threatening to “undermine our democracy."
     publishedDateTime: 2021-05-12T03:21:00Z
@@ -820,6 +820,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "dDlZhpQEzFf2nM1PqIEMbneySzu+Kt5lQQ8e754zHXhMRSNfzdTa/bKIJOjezelpyvg7S7pLlLjARfVNKw1HZtRvvd1pKF4mx6zVE2/6CPs9u7NhLXSHq5sujDKP9CT3DRLl49GzUmF3HCZsVCBDJ9UIrrgpefaQtIerANhovT1Fjz2ag9CJVhwDJ4rdL/VYLswPsX6oqQSZ6wTZD9SyPu+WzVL7sX1ZENNOgUOnhrsrHD2YDo66A/bvKtsxixyUvcYT2TZVa1N6j+nbBW6pIjpHFCEdfm+a4u5aABwbc4CgzGp6bd0pgUd2lf+NWmDdp53dHdK9anOPavmOgKZN/VI8mxF+mnGZ7bMxIJ0wBx9IY2AjYqcmrm7uLALeUOsC2AhFAp4TI4JI3ZWZBqHweojD0366vnF8xvVCaplfZu6rBXPWhIlpAuTSHRLJNzGTVNG92I2VOYpyj8IeTS911++n8dlK6ohe/JnIKl6VCpJ85gD2xFh78Asgk8l/i+RaUvqplGaONYdtmHZtYcGsqQ==;6vSJSlWUrrv79OPfH03FoQ=="
+secured: "rSTwl/jbexbsvSHa4+KtLtoy+F+IgyGKgl2o+2RzF//pM4jSh+5eRiI5+wjtqWcklUTGZchh0iKQKrlGHsk6EI/UfSOncFTlnk72HeZJ9b6daJadEFY5AQnvs8rfQHRr5+jXIoJsrdkw1nvnZHplSuiPuSgok0Dzhcn+TZxJncWJZkpHsIUPD7qhzC7SxVXoLh4LQ/ybvPHwAlKNZxtggajr2IPkbU/dPzVlymaUzHVWlMbD2DmVwRSvkUp2OnAOAuQo5169EnltLrfKVLTSX6XAiB9O8c2mv5PIaq9phAZitG1/ruZprksF4///RV11D3eeMV+SahmGRSZ4qa/8doNlt58hJuMJ9UjA7XVQA5I=;j05s6wpQuIIyPvOEkgiVVA=="
 ---
 

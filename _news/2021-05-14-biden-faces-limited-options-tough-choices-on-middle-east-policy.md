@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Biden touts electric car company potentially worth millions for his energy secretary"
-excerpt: "President Joe Biden and Vice President Kamala Harris' efforts to sell their green agenda and infrastructure plan are being complicated by a thorny conflict of interest for Energy Secretary Jennifer Granholm -- who stands to gain a windfall from stock options in a private electric vehicle company.\n  "
-publishedDateTime: 2021-05-06T11:34:15Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XjFVOKWSXzg/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XjFVOKWSXzg/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/granholm-proterra-electric-car/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/granholm-proterra-electric-car/index.html"
+title: "Biden faces limited options, tough choices on Middle East policy"
+excerpt: "Donald Trump left President Joe Biden with plenty of policy difficulties regarding Israel and the Palestinians. NBC News' Matt Bradley reports from Jerusalem."
+publishedDateTime: 2021-05-14T13:45:00Z
+originalUrl: "https://www.nbcnews.com/video/biden-faces-limited-options-tough-choices-on-middle-east-policy-111947333628"
+webUrl: "https://www.nbcnews.com/video/biden-faces-limited-options-tough-choices-on-middle-east-policy-111947333628"
+ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111947333628"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111947333628"
 type: article
-quality: 168
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303103803-01-jennifer-granholm-0127-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media11.s-nbcnews.com/i/mpx/2704722219/2021_05/MB_FOREIGN_POLICY2.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -94,6 +95,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/120417062219-park-isle-royale-7-story-top.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Biden touts electric car company potentially worth millions for his energy secretary"
+    excerpt: "President Joe Biden and Vice President Kamala Harris' efforts to sell their green agenda and infrastructure plan are being complicated by a thorny conflict of interest for Energy Secretary Jennifer Granholm -- who stands to gain a windfall from stock options in a private electric vehicle company.\n  "
+    publishedDateTime: 2021-05-06T11:34:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XjFVOKWSXzg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/granholm-proterra-electric-car/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/granholm-proterra-electric-car/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303103803-01-jennifer-granholm-0127-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Biden to criticize tax cuts for wealthy while pushing middle-class agenda in Louisiana"
     excerpt: "President Joe Biden on Thursday will make the case that his sweeping economic proposals are better positioned to bolster the middle class than tax cuts for the wealthy and corporations, according to a White House official. \n    \n"
@@ -319,22 +336,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Biden faces limited options, tough choices on Middle East policy"
-    excerpt: "Donald Trump left President Joe Biden with plenty of policy difficulties regarding Israel and the Palestinians. NBC News' Matt Bradley reports from Jerusalem."
-    publishedDateTime: 2021-05-14T13:45:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-faces-limited-options-tough-choices-on-middle-east-policy-111947333628"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111947333628"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111947333628"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media11.s-nbcnews.com/i/mpx/2704722219/2021_05/MB_FOREIGN_POLICY2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Biden keeps hope alive in infrastructure talks with GOP"
     excerpt: "Senate Republican negotiators plan to deliver an updated spending proposal focused on traditional infrastructure to Biden soon."
     publishedDateTime: 2021-05-13T21:20:00Z
@@ -430,6 +431,6 @@ related:
         height: 773
         isCached: true
 
-secured: "3c96pE49OxDaGtB1SBXSulVRBOh+ptUr76UqGT1SOD5UkDVeFmePgbSpxHHsmPWvdp7ByGiJWLJMpgFxHHvgB8sQqtzlfEhR/LcYV8zU7l9bBa8ma4EqqGIt7QkcTKTUg5YWJN8dz+GRAric4d8KxKWiwUBwPYhV3HI/aI0+idkBtd789gFDbFlm0Hg3pcE/9KqR4lbRsz+EtmXh4pt5sbG9L/qXTE16JzPiIuGiyAxpAK63KDM8Y7QRdkLLI55Mm72QS4AcHeuhdsyd0HwluyrtIwBvxf8rGrygNak72S4tO/bsooXGAdo4V5LkQXUw8SxrMMd6G5Pw0K3rHuLxi6W2Q0VAcUNvHj/Vyat8eQs=;VGDf5yKkZACbLcoRP3p4Zw=="
+secured: "SHFj4kXTizXUUmfaT1QSUK/YnoUhZWiNFWwKofwBl5QuTYD6KMLX8RBYNp4GFreZmUWlmxCRUdGJ4k3OJKR4rmuCmufGlondZ+G0Pc+Np2Z4IzHTBRov2Av2tVUz3mvxgVysxltTRL427X/kgxAJrff/EYbSPYQ3NaDd36Ibs0LD6JX0EkCF3SN/y0B0FMcL91xO/Fq79vvRuHf5xbA1jC+E2O2IxXreyTo8RgiPsEVz8yqJDvfV/ZUpPkN3dz7F9MPGrHahPkokOKAD6rXejm8OobgXI+flFjqjzx2s//ag6WgRQ7qCoZXEd/Su6JG9B7Yn8IjDwNm7oy/xxSE3syCUG2QXijxB89tBHULOJqk=;XVBVHaSSDyE7xLEW+Ew8mA=="
 ---
 

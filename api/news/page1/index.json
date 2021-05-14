@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-14-elise-stefanik-trump-loyalist-wins-republican-leadership-post.md",
+      "title": "Elise Stefanik: Trump loyalist wins Republican leadership post",
+      "excerpt": "US Republicans have appointed New York Congresswoman Elise Stefanik, a Trump loyalist, to the third-ranking post in the House of Representatives. It follows an earlier vote to oust the incumbent chairwoman,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-57121629",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-57121629",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/C15D/production/_118510594_gettyimages-1232884209.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57121629.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57121629.amp",
+      "publishedDateTime": "2021-05-14T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-delaware-state-university-will-use-bidens-stimulus-to-cancel-over-700000-in-student-debt.md",
       "title": "Delaware State University will use Biden's stimulus to cancel over $700,000 in student debt",
       "excerpt": "On average, $3,276 in student debt will be canceled for eligible borrowers: recent graduates who faced financial hardships during the pandemic.",
@@ -262,58 +314,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-donald-trump-again-backs-stefanik-for-gop-chair-but-rival-chip-roy-has-more-conservative-record.md",
-      "title": "Donald Trump Again Backs Stefanik for GOP Chair but Rival Chip Roy Has More Conservative Record",
-      "excerpt": "\"Can't imagine Republican House Members would go with Chip Roy—he has not done a great job, and will probably be successfully primaried in his own district,\" former President Donald Trump said on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-again-backs-stefanik-gop-chair-rival-chip-roy-has-more-conservative-record-1591397",
-      "originalUrl": "https://www.newsweek.com/donald-trump-again-backs-stefanik-gop-chair-rival-chip-roy-has-more-conservative-record-1591397",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1796065/donald-trump-chip-roy-elise-stefanik-republicans.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-again-backs-stefanik-gop-chair-rival-chip-roy-has-more-conservative-record-1591397?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-again-backs-stefanik-gop-chair-rival-chip-roy-has-more-conservative-record-1591397?amp=1",
-      "publishedDateTime": "2021-05-13T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -919,7 +919,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {

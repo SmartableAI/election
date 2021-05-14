@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Key Trump officials face Congress with Capitol riot response under scrutiny"
-excerpt: "Wednesday’s House Oversight Committee hearing marks the first time former acting defense secretary Christopher Miller and former acting attorney general Jeffrey Rosen will speak to lawmakers about their preparations for and response to the attack on Congress."
-publishedDateTime: 2021-05-12T13:18:00Z
-originalUrl: "https://www.washingtonpost.com/national-security/christopher-miller-jeffrey-rosen-capitol-riot/2021/05/11/8eb22bda-b2a5-11eb-ab43-bebddc5a0f65_story.html"
-webUrl: "https://www.washingtonpost.com/national-security/christopher-miller-jeffrey-rosen-capitol-riot/2021/05/11/8eb22bda-b2a5-11eb-ab43-bebddc5a0f65_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national-security/christopher-miller-jeffrey-rosen-capitol-riot/2021/05/11/8eb22bda-b2a5-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/christopher-miller-jeffrey-rosen-capitol-riot/2021/05/11/8eb22bda-b2a5-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
+title: "Families separated by Trump receive therapy, but funds could dry up soon"
+excerpt: "After Trump separated children from their families, they've gotten crucial therapy, paid for by the government. But the future of those services is up in the air."
+publishedDateTime: 2021-05-14T13:00:00Z
+originalUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon"
+webUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon"
+ampWebUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon?_amp=true"
 type: article
-quality: 123
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Los Angeles Times
+  domain: latimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6WJLIUTADEI6XL56TII2CJ6RIY.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/6a9b291/2147483647/strip/true/crop/4200x2743+0+139/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7a%2F7d%2F7f45f2a44b5aa994549b331daf6d%2Fsd-photos-1staff-766522-sd-me-family-renunification-ncc-017.jpg"
+    width: 320
+    height: 209
     isCached: true
 
 related:
@@ -63,21 +63,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Families separated by Trump receive therapy, but funds could dry up soon"
-    excerpt: "After Trump separated children from their families, they've gotten crucial therapy, paid for by the government. But the future of those services is up in the air."
-    publishedDateTime: 2021-05-14T13:00:00Z
-    webUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon"
-    ampWebUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon?_amp=true"
+  - title: "Key Trump officials face Congress with Capitol riot response under scrutiny"
+    excerpt: "Wednesday’s House Oversight Committee hearing marks the first time former acting defense secretary Christopher Miller and former acting attorney general Jeffrey Rosen will speak to lawmakers about their preparations for and response to the attack on Congress."
+    publishedDateTime: 2021-05-12T13:18:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/christopher-miller-jeffrey-rosen-capitol-riot/2021/05/11/8eb22bda-b2a5-11eb-ab43-bebddc5a0f65_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/christopher-miller-jeffrey-rosen-capitol-riot/2021/05/11/8eb22bda-b2a5-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/christopher-miller-jeffrey-rosen-capitol-riot/2021/05/11/8eb22bda-b2a5-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 124
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/6a9b291/2147483647/strip/true/crop/4200x2743+0+139/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7a%2F7d%2F7f45f2a44b5aa994549b331daf6d%2Fsd-photos-1staff-766522-sd-me-family-renunification-ncc-017.jpg"
-        width: 320
-        height: 209
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6WJLIUTADEI6XL56TII2CJ6RIY.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Ex-Trump lawyer Sidney Powell accused by company of raiding nonprofit for personal expenses"
     excerpt: "Dominion Voting Systems claims Sidney Powell has raided Defending the Republic’s coffers to pay for personal legal expenses, citing her own remarks from a radio interview."
@@ -121,6 +121,6 @@ related:
         height: 1301
         isCached: true
 
-secured: "Q1LC2EFO7d5H51yuVW95HGXz+jC3RO+LcSEPutSXhgs1CpmD1rhv/c1AcBxvSRS0uBfZfFQVvIOUJNoSv9HPaKIXgV9Ikv+GxmfWMq3DT6E7K7tgzAlJTzCjRUXd+nrcQQfjRz/zivrT3MGyIg0yzjCjofxFky3iWwetdnLX0Jc91VY3VE69bmYBnI4I+KMRpeAbgrLEcAawRYe225NJdCnV0I5pHlPgFLJEgWEF03NO/WTH1e+GQFvVMYV84KgtSq4JLQsweHTS4t1tvs0W3psSs1QVCfF3OLW5V0lnodDweHUQFomrJn8twbNRfr6W/p16mYTfLKI3h/Zo3z1YT3NPioN14oGntS0Zpch/y7c=;OUriknzStYbWXW2ha5Dl6w=="
+secured: "B8caYhuOdaOUVWcOAG/4j0+irbGI+pcVBvGxy/8SK/IXAXtPy2kS6xmwvpHStQFolV2T5EPhS6brQDPYB+ULgrQwcUyYR2Et4TAqNCRTcTvmFkVM+dnw3MCNXSWxXW/Oc9pCQMsG8Mp+Ua6f1oCRsLh/oqP9KAEdBXZJmRF60Fi/oeS1oRBoVKLg9F+dzJ63ih6jJMcUMwaOiyl8yK2vuEKCeK3s8ljmqbH+9pieHlwh5z7/BFRmW5BEGzGIRRc8dxXJts5xW2/ar9FztRivBskc+9Omz4SFx1kEMrR54LhVZPhSlUVKVppD1kRKhSfW4WLPABrXKRCnUoe+jhnd3T7H5rNemSlhp5GrJJOkYsw=;ywPd2PptT0zSoPZI8HhMKA=="
 ---
 

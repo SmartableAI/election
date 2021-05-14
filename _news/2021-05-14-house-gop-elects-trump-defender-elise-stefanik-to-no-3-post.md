@@ -1,34 +1,28 @@
 ---
 category: news
-title: "House GOP elects Trump defender Elise Stefanik to No. 3 post"
-excerpt: "N.Y., a moderate turned Trump loyalist who's given voice to many of his false claims about election fraud, was elected to the post that Liz Cheney, R-Wyo., held for over two years."
-publishedDateTime: 2021-05-14T13:35:00Z
-originalUrl: "https://www.latimes.com/politics/story/2021-05-14/elise-stefanik-liz-cheney-no-3-house-gop-leadership-trump"
-webUrl: "https://www.latimes.com/politics/story/2021-05-14/elise-stefanik-liz-cheney-no-3-house-gop-leadership-trump"
-ampWebUrl: "https://www.latimes.com/politics/story/2021-05-14/elise-stefanik-liz-cheney-no-3-house-gop-leadership-trump?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-14/elise-stefanik-liz-cheney-no-3-house-gop-leadership-trump?_amp=true"
+title: "House GOP Elects Trump Defender Elise Stefanik to No. 3 Post"
+excerpt: "Elise Stefanik into the ranks of House leadership. WASHINGTON (AP) — Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership Friday, electing an ardent Donald Trump defender in hopes of calming their searing civil war over the deposed Rep."
+publishedDateTime: 2021-05-14T13:58:00Z
+originalUrl: "https://www.usnews.com/news/business/articles/2021-05-14/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post"
+webUrl: "https://www.usnews.com/news/business/articles/2021-05-14/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post"
+ampWebUrl: "https://www.usnews.com/news/business/articles/2021-05-14/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-05-14/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post?context=amp"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/ed76395/2147483647/strip/true/crop/3088x2017+0+150/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F93%2Fe8%2F98a2221840b99a17341d61e2c467%2Fla-na-pol-barry-rosen-mets.jpg"
-    width: 320
-    height: 209
-    isCached: true
 
 related:
   - title: "British elections send a message to Trump, GOP and Biden’s Democrats"
@@ -531,6 +525,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "House GOP elect Trump defender Stefanik as No.3"
+    excerpt: "Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership, electing an ardent Donald Trump defender in hopes of calming their searing civil war over the deposed Rep. Liz Cheney's unremitting combat with the former president."
+    publishedDateTime: 2021-05-14T15:02:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/14/house-gop-elect-trump-defender-stefanik-no-3/5090514001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/14/USAT/ff68f52c-e9f6-4328-83e4-dd6734228216-c7f98d30-0917-47bb-93b0-c461553ba2a4_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
   - title: "Trump's triumphs extend to GOP rewriting history of Nov. 3 and Jan. 6: The Note"
     excerpt: "Many of Rep. Liz Cheney's colleagues are well along in crafting their own Trumpian and patently false narratives of both the election and the subsequent attack on Jan. 6."
     publishedDateTime: 2021-05-13T14:00:00Z
@@ -672,6 +680,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "M/O0+Mmrv0+3/Dw+vJxi9cF3MlwpUJbqXwTSkpbAk9oKuobbwKTmpW/XQ6A3q8dJHtXjTMw9VtvCt1rSQ9Gp4lew2K7RcszF7Z6oYchjr9Ue6t7tcBzIR3xgpY1MzLKsNYJE8BmvptboYm8ZSWIRcUZHKw/n0yZmtYokmbqMP8p344WNm9W/I3EWp/S0Bnm2Lb+26mhdfKiF1Fw74DIqO9nScxhafZlit8GAIR6UuYJBJdUMLkeUQAGqO6GZjuVYqKbWeiPem2ddhQlxABDcge0ZszNTXXe+Cl+CdQv6nLuA+behso4BMI16VLTqfRx+TmX1/0FAEWJROmh6jDaGd/UBuCMQHCLAGxHzlSKK82E=;zhuh4X9g+UZPZVsRS7+a3w=="
+secured: "Lu2AtowL1PkEYBTdLxSZFddf6ff+IOyKSJo4T6E6cPQ6Sa74/JOL4YCzV/EuU0Z1gzvVZvE7jfLcKnlIy9REpCu+Tv5Qem167fE++P5vesLiLFI3uEyOvA5PC9rtLv1Ee8RbU/oPM1fbMnZOO9K6PlDmQUoo7IDoNZgFkkqaLv20jSuwM+Hpm420C8Fo/VYE0b/PoW9qpXlBO2g2nVOGWjnPQ1JNW47yjfg3B5+O7xrP+i8xVK5hg8SurGNT+1aarExA3MOBpnmi2QGJt2+EzpUmo+e8Ivf7C2pVJ3rNVtPDsvu0uKTrPyI2/bxSyu84ttDMdiVaWPrR1d1FV3P9r4TbGlABHUHG+8R8ICzOPuX+ZvqzGpuQOmcToBbkN4gxt/niErnpsD9wsSSo03P7I+c/Zglhxy8Jo5tetfHNKA5ivK1LY3y+qqi/b5HFOUS1V3WYepaptPLXCeBVnYFr4p+1LF9luPihqlSOGoEuCLNVE5b7BfNjrcEXjwMqefOJqEJ6D+J/OuSAVXaMfEF2mQ==;y+/oOOgUjcnD/hQT9y+O8A=="
 ---
 

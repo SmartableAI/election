@@ -399,22 +399,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "House GOP elects Trump defender Elise Stefanik to No. 3 post"
-    excerpt: "N.Y., a moderate turned Trump loyalist who's given voice to many of his false claims about election fraud, was elected to the post that Liz Cheney, R-Wyo., held for over two years."
-    publishedDateTime: 2021-05-14T13:35:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-05-14/elise-stefanik-liz-cheney-no-3-house-gop-leadership-trump"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-05-14/elise-stefanik-liz-cheney-no-3-house-gop-leadership-trump?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-14/elise-stefanik-liz-cheney-no-3-house-gop-leadership-trump?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/ed76395/2147483647/strip/true/crop/3088x2017+0+150/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F93%2Fe8%2F98a2221840b99a17341d61e2c467%2Fla-na-pol-barry-rosen-mets.jpg"
-        width: 320
-        height: 209
-        isCached: true
   - title: "Senate GOP to give Biden infrastructure counteroffer next week"
     excerpt: "Senate Republicans will give President Biden a revised infrastructure offer next week after a sit down at the White House on Thursday."
     publishedDateTime: 2021-05-13T20:40:00Z
@@ -530,6 +514,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/dd6e5cdc-1df7-4e8a-af80-af57e5e6686f_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "House GOP elect Trump defender Stefanik as No.3"
+    excerpt: "Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership, electing an ardent Donald Trump defender in hopes of calming their searing civil war over the deposed Rep. Liz Cheney's unremitting combat with the former president."
+    publishedDateTime: 2021-05-14T15:02:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/14/house-gop-elect-trump-defender-stefanik-no-3/5090514001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/14/USAT/ff68f52c-e9f6-4328-83e4-dd6734228216-c7f98d30-0917-47bb-93b0-c461553ba2a4_thumbnail.png?quality=10"
+        width: 852
+        height: 480
         isCached: true
   - title: "Trump's triumphs extend to GOP rewriting history of Nov. 3 and Jan. 6: The Note"
     excerpt: "Many of Rep. Liz Cheney's colleagues are well along in crafting their own Trumpian and patently false narratives of both the election and the subsequent attack on Jan. 6."
@@ -653,6 +651,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "House GOP Elects Trump Defender Elise Stefanik to No. 3 Post"
+    excerpt: "Elise Stefanik into the ranks of House leadership. WASHINGTON (AP) — Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership Friday, electing an ardent Donald Trump defender in hopes of calming their searing civil war over the deposed Rep."
+    publishedDateTime: 2021-05-14T13:58:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-05-14/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post"
+    ampWebUrl: "https://www.usnews.com/news/business/articles/2021-05-14/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-05-14/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "From The Desk Of Donald J. Trump"
     excerpt: "Trump Launches Sad Twitter Just for HimTrump debuted a new page on his website that he’s calling “a beacon of freedom,” but it’s basically just a social-media network for one."
     publishedDateTime: 2021-05-04T23:14:00Z
