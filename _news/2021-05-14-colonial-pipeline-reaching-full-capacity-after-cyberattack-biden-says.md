@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden says Colonial pipeline back to full capacity but ‘hiccups’ likely – live"
-excerpt: "President urges Americans not to buy more gas than necessary while Pelosi condemn Republicans for downplaying Capitol attack – follow the latest"
-publishedDateTime: 2021-05-13T18:32:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live?page=with:block-609d68e08f08e659a47e4513"
-webUrl: "https://www.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live?page=with:block-609d68e08f08e659a47e4513"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live"
+title: "Colonial pipeline reaching full capacity after cyberattack, Biden says"
+excerpt: "Bloomberg reports that Colonial, which carries 100m gallons a day, paid extortion fee in ‘untraceable cryptocurrency’"
+publishedDateTime: 2021-05-13T19:01:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/may/13/colonial-pipeline-fuel-cyber-attack-outage"
+webUrl: "https://www.theguardian.com/us-news/2021/may/13/colonial-pipeline-fuel-cyber-attack-outage"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/13/colonial-pipeline-fuel-cyber-attack-outage"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/13/colonial-pipeline-fuel-cyber-attack-outage"
 type: article
-quality: 101
+quality: 125
 heat: -1
 published: false
 
@@ -23,6 +23,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://i.guim.co.uk/img/media/480c425c52383208147ee6c40bfc9df21b222215/0_130_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=643cb58853338c3a656190ac35c126a8"
+    width: 600
+    height: 360
+    isCached: true
 
 related:
   - title: "Biden pledges aggressive response to pipeline cyberattackers"
@@ -41,22 +47,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Colonial pipeline reaching full capacity after cyberattack, Biden says"
-    excerpt: "Bloomberg reports that Colonial, which carries 100m gallons a day, paid extortion fee in ‘untraceable cryptocurrency’"
-    publishedDateTime: 2021-05-13T19:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/may/13/colonial-pipeline-fuel-cyber-attack-outage"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/13/colonial-pipeline-fuel-cyber-attack-outage"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/13/colonial-pipeline-fuel-cyber-attack-outage"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/480c425c52383208147ee6c40bfc9df21b222215/0_130_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=643cb58853338c3a656190ac35c126a8"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Joe Biden Says Kremlin Not Behind Colonial Pipeline Attack, But Thinks Attackers 'Live in Russia'"
     excerpt: "President Joe Biden said he does not believe the Russian government is behind the cyberattack on the Colonial Pipeline but has reason to believe the criminals live in Russia."
     publishedDateTime: 2021-05-13T19:22:00Z
@@ -73,7 +63,18 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden says Colonial pipeline back to full capacity but ‘hiccups’ likely – live"
+    excerpt: "President urges Americans not to buy more gas than necessary while Pelosi condemn Republicans for downplaying Capitol attack – follow the latest"
+    publishedDateTime: 2021-05-13T18:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live?page=with:block-609d68e08f08e659a47e4513"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 101
 
-secured: "ULXtWjE1TiksIfa8x5P+azMIM0oXAm7OXQnJXE87AxCwfPMlfCJy/SgF050QyoLVYkWX1V9f2NoT+6w0Zp25Kz+3rRWumef+AdjQM7l6ZeLsO0tLx9IuX/eLVBoHdojkzLyyfikFh3KEO8GEA+w4lAk8HOteBvFvWpuZ32ep9qIGBNNUcD2Ylo5wk6ZPmpRBH+yJLv7KGUbGg+D2ZHXVpJ8Q6M5HsNfQoWYRFR6+xNqTEvWd1rq+YilKKVH0T9hB2HeQbGdaBCQ1Gv1uZ83OTsYhJlZtOK7400aRqxfbmZAg/8TX7+oOOkLVVFz5/Pgg7d/AJZzFSIlIIsgL26wWECwvgE4aq1YinPId136KmTXSIICMJUeShx4QEucjbvjhYZ1OTfehQX69y5aW6LQIJGYdIp1O98qaoqfyQhasLwN9VfopBkxgWNTM9DZHtNHbnV010eKSJmNJkVdVaDpSrU7991rxUM2lK5TYERIh6qsMuKIsBffHNia5dKgEqBMm5zkvECVNM8u0okd5n4uEIQ==;VP0Pe9M7JYMuQNnKtYO5yQ=="
+secured: "WEKUhU2xEdMkgeb028CroSfW1yQX2AMY2Jj7bSuUSPAog7IB0EM4Z8jcTmlBcbrINfr45tNE6gy8fFJn/pZ82TdPOyN4U/av9rYiB2CAs3n9tKMzPWvpviUl/Qe7aTNpUKwFxAFUudb1Y6DWcwCF70GYuGOfUxL0rNiAlmh5Up7+pQelxAcCae6KJ2wG76kR2k38skk6SKR9t7aVa6wZZEdHvQ707qvuk20nBIoy0ZaSajmofs2PNleym2TuoVbmTyUu7uccfau6WKr3qvd5sgQe+Vy2jPD2pVdd+wmULb6Ev/7TskcyBnpS3lKWGb2uPNzZoUh1ts7L1mQ7bVX8zUvpQM1d/R37dm/ZTuQkn6c=;TMMJvDXtwFRkeVApH8YMfA=="
 ---
 

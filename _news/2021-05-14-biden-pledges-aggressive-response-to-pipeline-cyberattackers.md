@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says Colonial pipeline back to full capacity but ‘hiccups’ likely – live"
-    excerpt: "President urges Americans not to buy more gas than necessary while Pelosi condemn Republicans for downplaying Capitol attack – follow the latest"
-    publishedDateTime: 2021-05-13T17:49:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live?page=with:block-609d57cc8f08e757a7353de9"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live"
+  - title: "Colonial pipeline reaching full capacity after cyberattack, Biden says"
+    excerpt: "Bloomberg reports that Colonial, which carries 100m gallons a day, paid extortion fee in ‘untraceable cryptocurrency’"
+    publishedDateTime: 2021-05-13T19:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/13/colonial-pipeline-fuel-cyber-attack-outage"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/13/colonial-pipeline-fuel-cyber-attack-outage"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/13/colonial-pipeline-fuel-cyber-attack-outage"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 121
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/22a77b66b65a2dbf6a53cafaa246389d232f78b8/0_319_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b68ceddf89bff11da8a370aaf357128e"
+      - url: "https://i.guim.co.uk/img/media/480c425c52383208147ee6c40bfc9df21b222215/0_130_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=643cb58853338c3a656190ac35c126a8"
         width: 600
         height: 360
         isCached: true
@@ -63,6 +63,17 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden says Colonial pipeline back to full capacity but ‘hiccups’ likely – live"
+    excerpt: "President urges Americans not to buy more gas than necessary while Pelosi condemn Republicans for downplaying Capitol attack – follow the latest"
+    publishedDateTime: 2021-05-13T18:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live?page=with:block-609d68e08f08e659a47e4513"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/13/liz-cheney-republicans-trump-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 101
 
 secured: "RX0R6ufdkIihNMZ7yQCQq3S9M1Uj+YY0CCKUQtet91kPTmAazZIK9njlYtf7R3sYgqAR1x92DRbEQQd2XQ2RsR2MKv2S+JagmDHZCu7KmHsdJhjq82v8TrM/L1HUP5f3aKNCh+uWz+Xy7k9wGca7jNgl6t5j9r/W6oFXW8kvYhLoRGNG1eoug7FXQGa8+fQIY+FB7kpS2jKhVhjUzxi92Pb91ONWrkEwfYwdaZbyuohmvwlmvuwi/NGdfHrp0daWvqkk9KEIWfJlm4FB8AmJM8B/SWGKahedHzPwdnPW6cm9Lg9Zlu3kJu+1IBAqOt2FDz43OPx0/L0HOkYBnkGNmj3Y9YXb3nu5kfOPL6Cu0vM=;Ofx+Fq/PjBZKYEfKdWnZRw=="
 ---
