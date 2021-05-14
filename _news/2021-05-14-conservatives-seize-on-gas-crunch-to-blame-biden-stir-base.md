@@ -383,6 +383,22 @@ related:
         width: 1440
         height: 928
         isCached: true
+  - title: "House GOP elects Trump defender Elise Stefanik to No. 3 post"
+    excerpt: "N.Y., a moderate turned Trump loyalist who's given voice to many of his false claims about election fraud, was elected to the post that Liz Cheney, R-Wyo., held for over two years."
+    publishedDateTime: 2021-05-14T13:35:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-05-14/elise-stefanik-liz-cheney-no-3-house-gop-leadership-trump"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-05-14/elise-stefanik-liz-cheney-no-3-house-gop-leadership-trump?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-14/elise-stefanik-liz-cheney-no-3-house-gop-leadership-trump?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/ed76395/2147483647/strip/true/crop/3088x2017+0+150/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F93%2Fe8%2F98a2221840b99a17341d61e2c467%2Fla-na-pol-barry-rosen-mets.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "House GOP set to put Trump defender Stefanik into No. 3 post"
     excerpt: "Elise Stefanik into the ranks of House leadership, with the party hoping to turn the page from its searing civil war over the deposed Rep. Liz Cheney and refocus on winning control of the chamber in next year’s elections."
     publishedDateTime: 2021-05-14T10:18:00Z
@@ -656,6 +672,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "+Q1ENYLdJTzDUEQJAPYmx0l/E/C3IZKrlK9xSlKlEoppdpqEDIMeU4+5PqZtDauUbMo0+QKEqFHuuPUmRdwxPUOEbi49MJFxu8uJU0EIcbwvRcu0KhqTkYTBsGjxZBH6XxsOIewRWMkmdIOdN0C0VmLcYouzfoCFkYtUq2KXJ7DUvHQxGdEqOJCezQ45cOYl7afZZYkCngcL7DHRPyrl97h9nZVwo+DYDkxWpqWKj+Ox8i1TAjZPvtQctzspqq3npJ8p9nq6zC1jzEr/4ljEagjkgjw490uPUkB9hc4WDWk/e0o+oT6moEP1eFNEmBVAh9mllM5PwiQz1yJzsciJ77lZOvas1HcWULV2oXZB7Y8=;1gP1KC1km0bG1Pv8YKBNBA=="
+secured: "RMhGyNcNaKZFHghMhrv9rB8Geg/hTnD1Z4Lqw3ZUut19ixsDpsuXSVa8OFJX6SSqoAKx7qEMKdR/rkAR4giOjdW6CcccNu1IYg8wyNw3ChMDGFKrG8i5xOWv6QdsrjioQFHtGV18E1lDBeepzCBfYLVqRDfQgGgqWTjMBBvEisv1OXCfISxI0J8tgscCWbXBua5+g+cZB1/SjDC+BsZsFXtSPiFmtkJRRMV8MDBSmxHbZIC8yLro7V2fhgs5QUCyiLOSKJF24otNR8E7znpaMgFKkVzi6TsHZWCXQVMrcDks55p5CKIPhG2EdfTVC9JarVA7kIdbWLH/Yk/yO05UUQgBTM1qfWSztVnxGvBxrRfNxqTXNeUBMdflD4o+Zs4WCFMUJJ4IkdJPCtmHboU1XzI5G+W7qQsG2yYCogtE966E8GjCukcaW1tSFKIsTbfJOCRmqMKoEKpChhZTPzBj+smiSGB9x2Gfe3wqBxgqUkFCvLWH79LyJ96/8+WAS1BTNeSSQwGghgw1w6OkT1FOoQ==;81ngVMA2RIWSWoEsJJOpsA=="
 ---
 

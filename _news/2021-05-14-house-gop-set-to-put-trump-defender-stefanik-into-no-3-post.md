@@ -399,6 +399,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "House GOP elects Trump defender Elise Stefanik to No. 3 post"
+    excerpt: "N.Y., a moderate turned Trump loyalist who's given voice to many of his false claims about election fraud, was elected to the post that Liz Cheney, R-Wyo., held for over two years."
+    publishedDateTime: 2021-05-14T13:35:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-05-14/elise-stefanik-liz-cheney-no-3-house-gop-leadership-trump"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-05-14/elise-stefanik-liz-cheney-no-3-house-gop-leadership-trump?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-14/elise-stefanik-liz-cheney-no-3-house-gop-leadership-trump?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/ed76395/2147483647/strip/true/crop/3088x2017+0+150/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F93%2Fe8%2F98a2221840b99a17341d61e2c467%2Fla-na-pol-barry-rosen-mets.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Senate GOP to give Biden infrastructure counteroffer next week"
     excerpt: "Senate Republicans will give President Biden a revised infrastructure offer next week after a sit down at the White House on Thursday."
     publishedDateTime: 2021-05-13T20:40:00Z
@@ -656,6 +672,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "tx8VlBjL8M/InD5XHVIaYYjHzh4OvVG/HlOg2EPd+rt03ceAKbWJstQuEC8O3xy42bS+2uVm7zuZsH93vKKBoyUCEqMw/e8DPpUe+biToJTJFkkB4nANkA7NbS0qIJDTaOpTHm7aBUlwB7iEtbGA7lwy+M6CwLnhehFxiDiqE6mnvWRi8DXisdNiPWIc71UnowNjROF9YVRMfcMaeesY/fBAaJ4MP7rNLllHoiEbExnyHiYjv9S0gRBvVKeK9PCux1oUCHs3I4MZRff5ur327HjYG2PMb95lJSfT8TuXo00aytZFfrPZxuawlo6AfOBbv3gDvM/B9Qm4vL9C8Lc/vl68jy2JdAMy6aeq1WrdaLI=;bCMWSkrXT6qmLUzD/0yCsA=="
+secured: "VtBif/zz9xakH1MuuCsOunbwFVL7uakyN62hE7hdtpoUeEoztT2dPBHpmkWUN+788DhhFwZlqjpCGFeDODl5U6zPm3xtBLe9Gl9MRxgHwR6VfgnWW4p14ZVqOcxVJTUKTSfs/ZgyspEYLLeqFETa85Ta/33/WtGTKSBgh/KRhbBoL+sn1OMzC6EKG852sc9wEh3QhnH1EWUb32vyhz+Pz/A8w8verzzLFkQMzELsrM2tLkuTuhM2bifQMMc03xUJcxjagGZILhaN42NMihVMdP/8zb9o9Q4dn5Lij3BvnBGScD6XG86s7eCxwg1xmK87tskOlXADCGxa2QlPVlYoumRtNBwWBGIbnUCjW3mnkeNZIPrTQy13WXSQLEAbfzK+rDwhA+EtvFpGsU2dvfrjre+kWV4FtV+5NKRjRm3IfNS4XSEQM2GgniN2g5tcyikT9sSVan25Qo1k7rTPSLqc4Jo9tV0RwceE7+UythpcmjdhhnuBb3vzUVqbYjqmBUljhgafkZktEpDg5U8beY89rw==;is/CiF4RIq72yEAdZ3zT/A=="
 ---
 

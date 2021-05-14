@@ -429,6 +429,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "House Republicans elect Trump defender Elise Stefanik to No. 3 post after ousting Liz Cheney"
+    excerpt: "Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership Friday, electing an ardent Donald Trump defender in hopes of calming their searing civil war."
+    publishedDateTime: 2021-05-14T13:35:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-house-republicans-stefanik-20210514-jlxdelqrnvdu7abbrpet4rhdsm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-house-republicans-stefanik-20210514-jlxdelqrnvdu7abbrpet4rhdsm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-house-republicans-stefanik-20210514-jlxdelqrnvdu7abbrpet4rhdsm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 114
+    images:
+      - url: "https://www.chicagotribune.com/resizer/vtPzpglMJKqirC3pKjlPbawvn14=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Z4FR43HEQKPGPQKXAIWH3IALCA.jpg"
+        width: 1200
+        height: 812
+        isCached: true
   - title: "Donald Trump Hails Great Opportunity for GOP to Get Rid of 'Poor Leader' Liz Cheney Ahead of Vote"
     excerpt: "\"Almost everyone in the Republican Party, including 90% of Wyoming, looks forward to her ouster—and that includes me!\" Trump said as House Republicans began voting on whether to keep Cheney in her leadership position."
     publishedDateTime: 2021-05-12T13:24:00Z
@@ -778,6 +794,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "House Republicans Pick Stefanik to Replace Trump Critic Cheney in Leadership - Media"
+    excerpt: "Republicans in the U.S. House of Representatives on Friday elected Elise Stefanik to serve in their No. 3 leadership position, replacing Liz Cheney, an outspoken critic of former President Donald Trump's false claims of election fraud,"
+    publishedDateTime: 2021-05-14T13:34:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-05-14/house-republicans-pick-stefanik-to-replace-trump-critic-cheney-in-leadership-media"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 28
 
 secured: "MVKs+VZ8yfY15kzkJ+m2HP8xTmzkpNYC3ww51Fs2kfi79Psq9WHvdUhoH4tZmWQeXIVpy3UvMjUMCFkHTtLZYH1i21pYbaqq3zQyP1xk+78fcOLuX/JXSTkFZhofW0ROkkSRnEbaPf+VzuVK4x4O6T3OH3uMdvJNMNDVbQpTXP8tU00WoKq7sb9Hc1eEK3B2Josgto2OcYXxEV7f+BLZwG4d16m74T4dsFRBMLeWIHZcVUvHAOXOORjp0mDtuohkR+ul/MPEMtbYYV6uqztn+XdVbC35q1juEeganczZCIvQmd3rIkq7mz4f9u3o9Vizhq8IjOn9aN/js945wfSaSk1UvSE3UlNWINcS2N6FFaBdX9wHrUFVAm1OVI1D1N4Pcu48sDoSA/YPnrTa41OH45QRwH2iZyCwHgLlNB7ueEWWPQRSXNKFZd6zpdmR3I2RBzc2771DiXBtNPy+F550hjanbo8i/W14JG5xnPFYT18DMdDJn1+UHPJVLgj4qKUubEP1B1tWM4ulGVZGFAffgA==;kA/M4wPShw6Xwevw1gGInQ=="
 ---

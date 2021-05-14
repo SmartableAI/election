@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/kfile-elise-stefanik-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/kfile-elise-stefanik-trump-comments/index.html"
 type: article
 quality: 162
-heat: 162
+heat: 182
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Live Updates: House G.O.P. Elects Stefanik as No. 3 Leader, Installing Trump Loyalist"
+    excerpt: "Republicans chose a new top messenger for their conference, moving swiftly to replace Representative Liz Cheney of Wyoming, who was ousted for repudiating Donald J. Trump’s election fraud lies."
+    publishedDateTime: 2021-05-14T09:26:00Z
+    webUrl: "https://www.nytimes.com/live/2021/05/14/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/05/14/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/05/14/us/joe-biden-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/14/us/14new-washington-briefing-stefanik-roy-lede/merlin_187726689_71952515-1000-45d4-8833-412770c4c4f3-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "geIKSZsQcUxgg+fb59zIq7udOYBIZIDgsI82zcFG2wE82sASRKVv3v4tilsztBfwuwAVZ/z2d7KxDGa400e720LT8oRekNvHpewa+oXNfLgibbPO2ztvXUkBLmLDQmEFi11nV+1X9X4NQMAr69p+/AHjGsiU3/XjHkyJOyNdmxwv/XtTw6xyUIPVFhCN5OJXQsgZSiELFiCxTn7d41wRtgOrzLoGzUEX/TPtD7mw/yju3gfq9TSiHdNiKb3hQUcTnz6PwwfV3C4bgEvA6M7At9K5rkqOCkQ0JUJEp1tCokJ7P2qTK3Ypyxm0ByfYkW40H4AH5ZD8SRp5vaXI3kzUqiWoBF9RIHS0um08uujOHA8=;G3r5PLMglkRhiJApGTfSvA=="
 ---

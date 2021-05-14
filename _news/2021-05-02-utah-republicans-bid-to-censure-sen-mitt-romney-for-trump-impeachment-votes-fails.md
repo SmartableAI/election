@@ -425,6 +425,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "House Republicans elect Trump defender Elise Stefanik to No. 3 post after ousting Liz Cheney"
+    excerpt: "Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership Friday, electing an ardent Donald Trump defender in hopes of calming their searing civil war."
+    publishedDateTime: 2021-05-14T13:35:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-house-republicans-stefanik-20210514-jlxdelqrnvdu7abbrpet4rhdsm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-house-republicans-stefanik-20210514-jlxdelqrnvdu7abbrpet4rhdsm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-house-republicans-stefanik-20210514-jlxdelqrnvdu7abbrpet4rhdsm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 114
+    images:
+      - url: "https://www.chicagotribune.com/resizer/vtPzpglMJKqirC3pKjlPbawvn14=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Z4FR43HEQKPGPQKXAIWH3IALCA.jpg"
+        width: 1200
+        height: 812
+        isCached: true
   - title: "Rep. Elise Stefanik, seeking Liz Cheney’s House leadership post, says Republicans must back Trump"
     excerpt: "Rep. Elise Stefanik stated her case on on Steve Bannon’s podcast Thursday for replacing Rep. Liz Cheney as the No. 3 House Republican leader."
     publishedDateTime: 2021-05-06T16:48:00Z
@@ -774,6 +790,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "House Republicans Pick Stefanik to Replace Trump Critic Cheney in Leadership - Media"
+    excerpt: "Republicans in the U.S. House of Representatives on Friday elected Elise Stefanik to serve in their No. 3 leadership position, replacing Liz Cheney, an outspoken critic of former President Donald Trump's false claims of election fraud,"
+    publishedDateTime: 2021-05-14T13:34:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-05-14/house-republicans-pick-stefanik-to-replace-trump-critic-cheney-in-leadership-media"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 28
 
 secured: "k2ouseLItgm/yt3ofPGR01q8bI7CKZUptKt6ybuRhQ+F0MqopMRT5V7jKuwH999MZ7rmEOcnEvN1QVwO5+NPp7c7icn8VKIg8IfEfwp9NB8waFw8+wZx6VKTm/FpWonW4ITgHZo7JC573lNeZtqUDNxsEQHA+MRq/E8vJovScVi3fbZuzo2ZQP1uirn4qpAMapKPGoC0orGZem6jl90zPW0ZOsuKGWwEhtqZmc0pOtGmpx9XJ/0EMtY1H5lHyyS2utGJ9FIHTOTshas0koc3j1vbhgTJg5/JHbIz4OdB7YhdIkva2OwvjwotOzDVKWByYwNQfcuHuDa8kIp/mM609zz2xydzzX2UYywpgDpsNZY2mP/eRX2oRDrT2Z5jn5wU1Kqhr+uj+86jVV8eFlm2FMqkHJRem+b1gpWTI2WYGWiQE/Ihg0hVMp71BIcDx7GqytnIhzlAJ5rJUlR0sAoGqhaFBRbSqxiK7t4r8CUXXzTNmlHacQGeZ1np5ZQgXtJAPpgFa6nmnkjfnmBwgjnw4w==;/kI8haHv87t6NYypVRtiHg=="
 ---

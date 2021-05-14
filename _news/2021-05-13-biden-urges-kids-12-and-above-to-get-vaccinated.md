@@ -397,6 +397,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "House GOP elects Trump defender Elise Stefanik to No. 3 post"
+    excerpt: "N.Y., a moderate turned Trump loyalist who's given voice to many of his false claims about election fraud, was elected to the post that Liz Cheney, R-Wyo., held for over two years."
+    publishedDateTime: 2021-05-14T13:35:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-05-14/elise-stefanik-liz-cheney-no-3-house-gop-leadership-trump"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-05-14/elise-stefanik-liz-cheney-no-3-house-gop-leadership-trump?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-14/elise-stefanik-liz-cheney-no-3-house-gop-leadership-trump?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/ed76395/2147483647/strip/true/crop/3088x2017+0+150/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F93%2Fe8%2F98a2221840b99a17341d61e2c467%2Fla-na-pol-barry-rosen-mets.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "House GOP set to put Trump defender Stefanik into No. 3 post"
     excerpt: "Elise Stefanik into the ranks of House leadership, with the party hoping to turn the page from its searing civil war over the deposed Rep. Liz Cheney and refocus on winning control of the chamber in next year’s elections."
     publishedDateTime: 2021-05-14T10:18:00Z
