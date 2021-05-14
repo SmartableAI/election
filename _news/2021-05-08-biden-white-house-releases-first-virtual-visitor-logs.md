@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-first-virtual-vis
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp"
 type: article
 quality: 175
-heat: 635
+heat: 655
 published: true
 
 provider:
@@ -302,6 +302,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "'The Five' on Biden's handling of Colonial Pipeline attack, border crisis"
+    excerpt: "President Biden is looking a lot like the one-term Democrat every passing day, gas lines getting longer, crisis rising, everywhere you look, chaos is expanding like one of Jen Psaki's binders and all under Biden's leadership."
+    publishedDateTime: 2021-05-13T18:12:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-handling-of-colonial-pipeline-attack-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-handling-of-colonial-pipeline-attack-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-on-bidens-handling-of-colonial-pipeline-attack-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ad93592-833e-4e00-9c83-f0121e693bef/56afb043-1a57-42a9-8379-cc8331c8fbe7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden rolls out racially diverse slate of judicial nominees, including a Bush nominee"
     excerpt: "President Biden on Wednesday announced his intent to nominate three new Court of Appeals nominees and three new District Court nominees—all of which embody his commitment to ensuring judicial nominees “represent not only the excellence but the diversity of our nation,"

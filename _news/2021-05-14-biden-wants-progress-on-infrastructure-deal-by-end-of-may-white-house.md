@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Louisiana Democrat sworn into Congress, replacing Biden aide"
-excerpt: "Louisiana Democratic Rep. Troy Carter is the newest member of the House of Representatives WASHINGTON -- Democratic Rep. Troy Carter of Louisiana was sworn into the House on Tuesday, adding some breathing room to the party’s tight majority."
-publishedDateTime: 2021-05-11T20:32:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/louisiana-democrat-sworn-congress-replacing-biden-aide-77629421"
-webUrl: "https://abcnews.go.com/Politics/wireStory/louisiana-democrat-sworn-congress-replacing-biden-aide-77629421"
+title: "Biden wants progress on infrastructure deal by end of May -White House"
+excerpt: "U.S. President Joe Biden told a group of Republican senators at a meeting on Thursday that he wants to see progress towards a possible deal on infrastructure spending by the end of May, the White House said in a statement."
+publishedDateTime: 2021-05-14T01:33:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-republicans-whitehouse-idUSW1N2LL033"
+webUrl: "https://www.reuters.com/article/usa-biden-republicans-whitehouse-idUSW1N2LL033"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2LL033"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2LL033"
 type: article
 quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_6248938034ec4d7890edf9666b9607a7_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Biden ready to sell $2.3T infrastructure plan in Louisiana"
@@ -109,17 +105,20 @@ related:
         width: 1440
         height: 969
         isCached: true
-  - title: "Biden wants progress on infrastructure deal by end of May -White House"
-    excerpt: "U.S. President Joe Biden told a group of Republican senators at a meeting on Thursday that he wants to see progress towards a possible deal on infrastructure spending by the end of May, the White House said in a statement."
-    publishedDateTime: 2021-05-14T01:33:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-republicans-whitehouse-idUSW1N2LL033"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2LL033"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2LL033"
+  - title: "Louisiana Democrat sworn into Congress, replacing Biden aide"
+    excerpt: "Louisiana Democratic Rep. Troy Carter is the newest member of the House of Representatives WASHINGTON -- Democratic Rep. Troy Carter of Louisiana was sworn into the House on Tuesday, adding some breathing room to the party’s tight majority."
+    publishedDateTime: 2021-05-11T20:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/louisiana-democrat-sworn-congress-replacing-biden-aide-77629421"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6248938034ec4d7890edf9666b9607a7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "President Joe Biden is visiting Louisiana on Thursday: What we know about his agenda, arrival"
     excerpt: "As part of promotion of the $2.3 trillion infrastructure plan, President Joe Biden is making a couple of stops in Louisiana on Thursday to discuss projects to rebuild the nation’s"
     publishedDateTime: 2021-05-05T22:04:00Z
@@ -153,6 +152,6 @@ related:
         height: 355
         isCached: true
 
-secured: "p3oU3WN+f14wZJDv5fVsuzITSHBB4XJ8YAmjlDTZRtFpXtP2obedvNATxT6it1QyCqe5YUU+apAb6WzPBKtL8njuly9r8zclbRnR/bbRCkvImnjzZ+jvvgWRuOgskH3j9pIncVdL1UA4mKYychP3yd5ib8DQGlLmE46npKCe5/WjtlhRYYY5BVCYFHPyKfGhnaVevqwr4MY+SAjf/kwP9l6qkHHzcxPGI+8O7dpY6a3DXpq2TaNNLmAGjc81V4XKomsk8yX+R/7Jj0y3rxmSmECJdT/KK9+qC7VMYsojFFaxsfDzsHkLEILL5k5zvbnYOhctcLKgTzVqwVx+VEzatn/GvB0wKh7a7/RNyhEn8rA/cqHW5aTRt82UGf1QJySk2pzPS39osYbR66AiWSdqPQvWf8vBBIV/RHrjfG3O4ADkOj4FN0vfu3OmOsSULKY/gEWPD9om1NWI6ZifRIAgFh92Hktxgoy3bcrQ0clZo7Wz1k2tTnK3y3XUj6GLBRjPe2ShPG+RYKiATzfu390TuA==;tLLlrvh65KekHY67i45K0g=="
+secured: "mLGLWl+tkTz+hzkU54CdowGVsRJbXvGgn5Bd3YvHS7iyKDZ7ERQbxW01Gc0+M6yLoUKByD6MBIeVnikoWY1WxaDWOEzMwNWXE0xZYnpTwJyvGX+2C8uAiwg69PM2Vp4GzFGEGaUUcKNwtVSs1o3bXOvzf4eKqbrWpsj/OEKza+Xw5wz038Xxv7UuFInjvlMHjb8E5ieiB6aUDINknWUjgvde953WNwLbJ9QUQOezHN/ud+OSOFJVof9rb2fNzsIUKBcD88Pcka6Rzt9nGbn7Qk3RYzCT3aW5VMllVoQ5bkGBbb2ianyW8dubwKmyd+tKzB1beNAJfWw63h5ns4LC/ceF7oKGpijyv/Eul36wpKk=;JAEoU4koZGOey3cDjRFkZw=="
 ---
 

@@ -46,6 +46,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Kamala Harris’ niece says those who are neutral on Israel-Gaza have ‘chosen the side of the oppressor’"
+    excerpt: "Vice President Kamala Harris’ niece Meena offered a more forceful take on the Israel-Gaza unrest Wednesday than that of her aunt, urging people to fight “Palestinian oppression.”"
+    publishedDateTime: 2021-05-14T00:41:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vx8NkG14LgI/kamala-harris-niece-israel-gaza-oppressor"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-niece-israel-gaza-oppressor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-niece-israel-gaza-oppressor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/Meena-Harris-GETTY.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Controversial billboard calls Biden, Harris ‘s–theads’ in Maryland"
     excerpt: "The sign on Route 4 in Huntingtown shows cartoon faces of the smiling commander-in-chief Joe Biden and his number two stuck on top of large emoji-style drawings of poop."
     publishedDateTime: 2021-05-12T14:52:00Z

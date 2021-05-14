@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Arizona AG calls for Harris to be removed from border role amid continued high migrant numbers"
-excerpt: "Arizona Attorney General Mark Brnovich is calling for Vice President Kamala Harris to be replaced in her role spearheading the administration’s diplomatic efforts to end the crisis at the southern border -- a day after Customs and Border Protection (CBP) announced that the number of migrant encounters had again risen."
-publishedDateTime: 2021-05-12T19:19:00Z
-originalUrl: "https://www.foxnews.com/politics/arizona-ag-harris-removed-border-role-migrant-numbers"
-webUrl: "https://www.foxnews.com/politics/arizona-ag-harris-removed-border-role-migrant-numbers"
+title: "Kamala Harris’ niece says those who are neutral on Israel-Gaza have ‘chosen the side of the oppressor’"
+excerpt: "Vice President Kamala Harris’ niece Meena offered a more forceful take on the Israel-Gaza unrest Wednesday than that of her aunt, urging people to fight “Palestinian oppression.”"
+publishedDateTime: 2021-05-14T00:41:00Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vx8NkG14LgI/kamala-harris-niece-israel-gaza-oppressor"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vx8NkG14LgI/kamala-harris-niece-israel-gaza-oppressor"
+ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-niece-israel-gaza-oppressor.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-niece-israel-gaza-oppressor.amp"
 type: article
-quality: 103
+quality: 169
 heat: -1
 published: false
 
@@ -20,13 +22,13 @@ provider:
 
 topics:
   - Election
-  - Kamala Harris
   - Republican Voice
+  - Kamala Harris
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/Meena-Harris-GETTY.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -45,22 +47,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Kamala Harris’ niece says those who are neutral on Israel-Gaza have ‘chosen the side of the oppressor’"
-    excerpt: "Vice President Kamala Harris’ niece Meena offered a more forceful take on the Israel-Gaza unrest Wednesday than that of her aunt, urging people to fight “Palestinian oppression.”"
-    publishedDateTime: 2021-05-14T00:41:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vx8NkG14LgI/kamala-harris-niece-israel-gaza-oppressor"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-niece-israel-gaza-oppressor.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-niece-israel-gaza-oppressor.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/Meena-Harris-GETTY.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
         isCached: true
   - title: "Arizona AG calls for Harris to be removed from border role amid continued high migrant numbers"
     excerpt: "FIRST ON FOX: Arizona Attorney General Mark Brnovich is calling for Vice President Kamala Harris to be replaced in her role spearheading the administration’s diplomatic efforts to end the crisis at the southern border -- a day after Customs and Border Protection (CBP) announced that the number of migrant"
@@ -124,7 +110,21 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Arizona AG calls for Harris to be removed from border role amid continued high migrant numbers"
+    excerpt: "Arizona Attorney General Mark Brnovich is calling for Vice President Kamala Harris to be replaced in her role spearheading the administration’s diplomatic efforts to end the crisis at the southern border -- a day after Customs and Border Protection (CBP) announced that the number of migrant encounters had again risen."
+    publishedDateTime: 2021-05-12T19:19:00Z
+    webUrl: "https://www.foxnews.com/politics/arizona-ag-harris-removed-border-role-migrant-numbers"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 103
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "kuxSy1KPC7WaK/kMICwiHNZdLiDh6wVwwIbiLAiL/MrRJ1hwe1JpA2qMFMwPoxaM8QHzCzMSVhvygEXEjo3jPcZb2UI4BBS28dpU7/J6juI+dsS83msMFMrTYGJ9sZrtrDFbPgjYeQRLHx91ZB92NfKsnHFi89mvFVlIBEzcHEL88uYjo7F92Z9Euxuz/nYe0k30rZmtcnA9EuJuLQWxQ7flW2//0N42qj9DLQh1g+pqZl6DDhbMzyIwaOehCuABohxx/4Ljq23ffTY4Mnl+/mW9+4fEtPAAGpTzoV7ogUPFejxmXBV3v1RYrCAn2Uk6A3tcCHB4VsNo6aPlXpYXzzl9CLtLPo8jLwy3QpoipGkkrF68iYT+mOESHMbqai4ws4/V2NxrJ8ZnPUsdJEnVq9wbjgO9XtAA0T5KfoULCLNKRDWQMtan6IyKDr9tpTADBdED0C0wkh5S8XVb0BtSW685/Y2oi7poUPbTqChsST49YlXCXjZwsKbpfE/BSITO1S9F2kfVrFKEfDZWf7nCPg==;jI/THwChjOeiIxX6YZhnjg=="
+secured: "72lBMt2hMUr/set3P1rPbDLAA8w39d2APD2cvxjeWpXN332kJZ1FdP0PlCIa5U5N0O2RcMZv+NsI3p7KPGyfl+AuCMGgmBrPe+TaqKJd9c2+/np1MHzG1BDOG4opqgDl80+WUPpAnYIlVetASTqxr+s3dU3eyfw9rfGwrprurcXEaXUoNjQilGynO6Q29tFg8UA5txGPxPVV6XzvWst1VbVGXFeIQzkoi3MK969xSJ5wpnvtxS7EF0abYbKn5jg3pcDUlYEnSJXC1tdbJxp0TBewDvGIlKUFx6Sk979y+8d3LSWg4LrnsMhDZdi0LwhX5DKFa/UC+Wob0TSVBK6EoM9+CfkuGXSvpRx5DkesQVo=;v84p0/2LgHm7AoIaPDN1oQ=="
 ---
 

@@ -320,6 +320,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "'The Five' on Biden's handling of Colonial Pipeline attack, border crisis"
+    excerpt: "President Biden is looking a lot like the one-term Democrat every passing day, gas lines getting longer, crisis rising, everywhere you look, chaos is expanding like one of Jen Psaki's binders and all under Biden's leadership."
+    publishedDateTime: 2021-05-13T18:12:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-handling-of-colonial-pipeline-attack-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-handling-of-colonial-pipeline-attack-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-on-bidens-handling-of-colonial-pipeline-attack-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ad93592-833e-4e00-9c83-f0121e693bef/56afb043-1a57-42a9-8379-cc8331c8fbe7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "White House ally: Biden is 'most liberal president we've had' but 'public thinks he's a moderate'"
     excerpt: "A New York Magazine article Sunday quoted a figure \"close to the White House\" who said the Biden White House's tightly controlled media strategy has been successful in getting the administration portrayed as moderate when it's the \"most liberal\" one in history."
     publishedDateTime: 2021-05-10T18:23:00Z

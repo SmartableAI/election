@@ -109,6 +109,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden wants progress on infrastructure deal by end of May -White House"
+    excerpt: "U.S. President Joe Biden told a group of Republican senators at a meeting on Thursday that he wants to see progress towards a possible deal on infrastructure spending by the end of May, the White House said in a statement."
+    publishedDateTime: 2021-05-14T01:33:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-republicans-whitehouse-idUSW1N2LL033"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2LL033"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2LL033"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "President Joe Biden is visiting Louisiana on Thursday: What we know about his agenda, arrival"
     excerpt: "As part of promotion of the $2.3 trillion infrastructure plan, President Joe Biden is making a couple of stops in Louisiana on Thursday to discuss projects to rebuild the nation’s"
     publishedDateTime: 2021-05-05T22:04:00Z

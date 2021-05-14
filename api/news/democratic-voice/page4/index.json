@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-12-biden-calls-for-peace-and-calm-in-the-wake-of-daunte-wrights-fatal-encounter-with-police-in-minnesota.md",
+      "title": "Biden calls for 'peace and calm' in the wake of Daunte Wright's fatal encounter with police in Minnesota",
+      "excerpt": "President Joe Biden on Monday called for \"peace and calm\" in the wake of Daunte Wright's fatal encounter with police in Minnesota, saying his death does not justify violence or looting.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p4s72Nch4qU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p4s72Nch4qU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210408121518-joe-biden-april-8-2021-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/12/politics/joe-biden-daunte-wright-brooklyn-center-police-shooting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/12/politics/joe-biden-daunte-wright-brooklyn-center-police-shooting/index.html",
+      "publishedDateTime": "2021-04-12T16:49:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-subpoenaing-the-brookings-institution-durham-focuses-on-trump-russia-dossier.md",
       "title": "Subpoenaing the Brookings Institution, Durham Focuses on Trump-Russia Dossier",
       "excerpt": "Greg Kahn for The New York Times By Charlie Savage and Adam Goldman WASHINGTON — Exiled from Twitter, former President Donald J. Trump issued a sarcastic statement recently inquiring about the ongoing public silence from John H. Durham, the special ...",
@@ -1630,63 +1686,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-pennsylvania-senate-race-emerges-as-a-test-of-progressive-firepower-in-post-trump-era.md",
-      "title": "Pennsylvania Senate race emerges as a test of progressive firepower in post-Trump era",
-      "excerpt": "It is also a test of whether progressives, who have found success in deep-blue House districts in recent years, can extend that formula to competitive Senate races after they helped vanquish former President Donald Trump. Fetterman and Kenyatta ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/pennsylvania-senate-race-emerges-test-progressive-firepower-post-trump-era-n1262842",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/pennsylvania-senate-race-emerges-test-progressive-firepower-post-trump-era-n1262842",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_13/3461502/210401-pa-senate-race-malcolm-kenyatta-john-fetterman-split-2x1-se-550p_6f448da845633a2d4d658d16296c5987.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262842",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262842",
-      "publishedDateTime": "2021-04-02T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

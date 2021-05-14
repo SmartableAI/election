@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden approach to North Korea nuclear policy 'not aimed at hostility': White House"
-excerpt: "National Security Advisor Jake Sullivan responded to rebukes from Pyongyang by affirming that President Biden's approach toward North Korea is \"not aimed at hostility\" but rather at \"complete denuclearization.\""
-publishedDateTime: 2021-05-02T18:10:31Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/COSBV0_N108/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/COSBV0_N108/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility"
-ampWebUrl: "https://www.foxnews.com/politics/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility.amp"
+title: "'The Five' on Biden's handling of Colonial Pipeline attack, border crisis"
+excerpt: "President Biden is looking a lot like the one-term Democrat every passing day, gas lines getting longer, crisis rising, everywhere you look, chaos is expanding like one of Jen Psaki's binders and all under Biden's leadership."
+publishedDateTime: 2021-05-13T18:12:00Z
+originalUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-handling-of-colonial-pipeline-attack-border-crisis"
+webUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-handling-of-colonial-pipeline-attack-border-crisis"
+ampWebUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-handling-of-colonial-pipeline-attack-border-crisis.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-on-bidens-handling-of-colonial-pipeline-attack-border-crisis.amp"
 type: article
-quality: 169
+quality: 134
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ad93592-833e-4e00-9c83-f0121e693bef/56afb043-1a57-42a9-8379-cc8331c8fbe7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -108,6 +109,22 @@ related:
     quality: 170
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden approach to North Korea nuclear policy 'not aimed at hostility': White House"
+    excerpt: "National Security Advisor Jake Sullivan responded to rebukes from Pyongyang by affirming that President Biden's approach toward North Korea is \"not aimed at hostility\" but rather at \"complete denuclearization.\""
+    publishedDateTime: 2021-05-02T18:10:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/COSBV0_N108/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-north-korea-nuclear-policy-white-house-national-security-adviser-solutions-not-hostility.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -303,22 +320,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "'The Five' on Biden's handling of Colonial Pipeline attack, border crisis"
-    excerpt: "President Biden is looking a lot like the one-term Democrat every passing day, gas lines getting longer, crisis rising, everywhere you look, chaos is expanding like one of Jen Psaki's binders and all under Biden's leadership."
-    publishedDateTime: 2021-05-13T18:12:00Z
-    webUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-handling-of-colonial-pipeline-attack-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-handling-of-colonial-pipeline-attack-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-on-bidens-handling-of-colonial-pipeline-attack-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ad93592-833e-4e00-9c83-f0121e693bef/56afb043-1a57-42a9-8379-cc8331c8fbe7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden rolls out racially diverse slate of judicial nominees, including a Bush nominee"
     excerpt: "President Biden on Wednesday announced his intent to nominate three new Court of Appeals nominees and three new District Court nominees—all of which embody his commitment to ensuring judicial nominees “represent not only the excellence but the diversity of our nation,"
     publishedDateTime: 2021-05-12T14:09:00Z
@@ -414,6 +415,6 @@ related:
         height: 500
         isCached: true
 
-secured: "V2v6m9AuHAwYFyfHvZP4gr71TfL5HZHufiov75JlFbd9bwBYjouL79ftMXGGdtQ+nXBU3JjqGa/arPVqsiH5ZXNaXnt5PIgzbI2PbvpIQf/T2C9XEPtgqoULT+L9wrqV7ISD6V8Xg9uoQj9P/IFqBVuZwejjButzsqwWv1189R3mtpNP9rUsLrwLemw1XwFAfXpJyaOIeIOenScdnO+TVUcPtH0c0Des2eVLTTagJW66vLQYZgLC8gKQOnbKbxfvIXFP+K06Z02EIdCWwZxMWzGzYdoziPQ/7YeaYCAuxqvbrJAbp36t8I7/AWs1ENi3n75ejvKcMnzHP+HP2tUQFTL5XU8snBd+Z12+gCwA230=;7TqgX4iLkFyga3zRjSq3Ag=="
+secured: "7NLVzb7vdwSlrCnxGoA4Jqzyg3PLl95A3KkDx3jyTm3VJFgkQ01iBDoa/cfBXrhoSpR/1R5GcigBNAW52dsPs/A3CqCU1igliYCbgnP2HCeJ1inxY+HOrcT7NiVg5/XW6SYT04u1YeXgewSV/07tyCxg2A+9yKhcuIA0scSWI+MQz48EzHFYynOw6dGQF8Lt8UzuU8mr5W1Tv18pCP5ueykF4eD6brr/KprxVwpPYmXN9uAOi7d2IJTVm4HSo42YGFjqSwx4+G9BfCBa1AdgBmW+SPRDhscmALuIu4bB7UvOqXr0o9cOeVBYtDVdtOYwXuzNSkacTX4wHSzsXgVqqS+02HwP5V2+gFuKdaAoZOc=;THDgiAKTWHe4Li6Nvq15tw=="
 ---
 
