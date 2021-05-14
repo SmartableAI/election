@@ -42,6 +42,38 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden says he's enjoying his first day without masks at the White House"
+    excerpt: "President Biden told reporters Friday that he is enjoying his first day without masks at the White House after a rule change on Thursday."
+    publishedDateTime: 2021-05-14T17:15:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZSQn1P4u7yg/biden-masks-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-masks-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-masks-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Jen Psaki insists new guidance on mask-wearing comes from CDC, not Biden"
+    excerpt: "White House Press Secretary Jen Psaki on Friday insisted that the new federal guidance on masks came from the Centers for Disease Control and Prevention, in a back-and-forth with Fox News White House correspondent Peter Doocy during a briefing."
+    publishedDateTime: 2021-05-14T17:49:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v-agWiC19R4/white-house-covid-masks-jen-psaki-peter-doocy"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-covid-masks-jen-psaki-peter-doocy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-covid-masks-jen-psaki-peter-doocy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden waives ethics rules for former union bosses who now work in White House"
     excerpt: "The Biden administration has come under scrutiny from Republicans on Capitol Hill following its decision to circumvent federal ethics rules and staff former union officials in senior posts."
     publishedDateTime: 2021-05-08T22:38:58Z

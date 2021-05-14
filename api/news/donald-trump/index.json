@@ -2,12 +2,121 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-15-a-colorado-man-accused-of-murdering-his-wife-told-fbi-agents-that-he-submitted-a-ballot-for-trump-in-her-name-because-the-other-guys-were-cheating.md",
+      "title": "A Colorado man accused of murdering his wife told FBI agents that he submitted a ballot for Trump in her name because the 'other guys' were cheating",
+      "excerpt": "Barry Morphew was charged with a felony count of forging public documents after telling investigators that he sent in a vote for his missing wife.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5",
+      "originalUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/609e9e50a807be0018d6227e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5?amp",
+      "publishedDateTime": "2021-05-14T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown.md",
+      "title": "Trump Considers Contenders to Be His New Social-Media Outlet After Big Tech Crackdown",
+      "excerpt": "CloutHub and Skylab Apps are among companies vying to work with the former president, who was sidelined by Facebook and Twitter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
+      "originalUrl": "https://www.wsj.com/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-338638/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
+      "publishedDateTime": "2021-05-14T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-elise-stefanik-trump-loyalist-wins-republican-leadership-post.md",
       "title": "Elise Stefanik: Trump loyalist wins Republican leadership post",
       "excerpt": "US Republicans have appointed New York Congresswoman Elise Stefanik, a Trump loyalist, to the third-ranking post in the House of Representatives. It follows an earlier vote to oust the incumbent chairwoman,",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-57121629",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-57121629",
+      "webUrl": "https://www.bbc.com/news/world-us-canada-57121629.amp",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-57121629.amp",
       "featuredContent": null,
       "highlight": null,
       "heat": 145,
@@ -26,7 +135,7 @@
       "type": "article",
       "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57121629.amp",
       "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57121629.amp",
-      "publishedDateTime": "2021-05-14T08:15:00-07:00",
+      "publishedDateTime": "2021-05-14T09:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
@@ -1301,7 +1410,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/05/07/washington-post-trump-doj-got-reporters-phone-records/4997276001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1451,115 +1560,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-fec-drops-inquiry-into-trump-hush-money-payment-to-stormy-daniels.md",
-      "title": "FEC drops inquiry into Trump hush-money payment to Stormy Daniels",
-      "excerpt": "The case stems from allegations that former president Donald Trump ordered his personal lawyer at the time, Michael Cohen, to make a hush-money payment to adult-film actress Stormy Daniels.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2021/05/06/fec-trump-stormy-daniels-cohen/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2021/05/06/fec-trump-stormy-daniels-cohen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MDRQ2WTVD4I6XFEJR562ZVI6OU.jpg&w=1440",
-          "width": 1440,
-          "height": 1060,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/05/06/fec-trump-stormy-daniels-cohen/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/05/06/fec-trump-stormy-daniels-cohen/?outputType=amp",
-      "publishedDateTime": "2021-05-06T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-democrats-eye-a-comeback-in-missouri-where-post-trump-turmoil-on-display.md",
-      "title": "Democrats eye a comeback in Missouri, where post-Trump turmoil on display",
-      "excerpt": "Recruiting is a challenge in a state Trump won by more than 15 percentage points last year and where Democrats have won only one statewide race in eight years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/elections/missouri-democrats-see-winnable-senate-seat-no-obvious-front-runner-n1266403",
-      "originalUrl": "https://www.nbcnews.com/politics/elections/missouri-democrats-see-winnable-senate-seat-no-obvious-front-runner-n1266403",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/j/newscms/2021_18/3470613/210506-jay_nixon-mc-1028_6cbe0f5263959e32a5e5246047e6041c.nbcnews-fp-1200-630.JPG",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

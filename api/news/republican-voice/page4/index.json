@@ -2,6 +2,118 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-21-biden-admin-blocking-veterans-annual-memorial-day-motorcycle-rally-rep-mast-says.md",
+      "title": "Biden admin blocking veterans' annual Memorial Day motorcycle rally, Rep. Mast says",
+      "excerpt": "Rep. Brian Mast, R-Fla., accused the Biden administration of blocking the annual Rolling to Remember motorcycle rally, a 30-year-plus Memorial Day tradition for veterans that has always been staged in the Pentagon parking lot.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SvqNm33t6O8/brian-mast-rolling-to-remember-memorial-day-lloyd-austin",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SvqNm33t6O8/brian-mast-rolling-to-remember-memorial-day-lloyd-austin",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21013669867536-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/brian-mast-rolling-to-remember-memorial-day-lloyd-austin.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brian-mast-rolling-to-remember-memorial-day-lloyd-austin.amp",
+      "publishedDateTime": "2021-04-21T16:26:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-biden-dojs-police-reform-agenda-dangerous-law-enforcement-advocates.md",
+      "title": "Biden DOJ's police reform agenda 'dangerous': law enforcement advocates",
+      "excerpt": "The Biden Justice Department's decision to return to the Obama administration’s heavy use of consent decrees is being criticized by law enforcement officials and advocates who fear it will handicap police and erode community-police relations.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kA3KGQN1WAM/biden-police-reform-dangerous-law-enforcement-advocates-say",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kA3KGQN1WAM/biden-police-reform-dangerous-law-enforcement-advocates-say",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7a99bcd-a967-4c58-b1a9-9628b69255c9/e340ddad-00f7-4953-842b-bef590b03c64/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-police-reform-dangerous-law-enforcement-advocates-say.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-police-reform-dangerous-law-enforcement-advocates-say.amp",
+      "publishedDateTime": "2021-04-21T12:52:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-biden-advisers-brother-lobbying-white-house-for-pharma-giants-docs-reveal.md",
       "title": "Biden adviser's brother lobbying White House for pharma giants, docs reveal",
       "excerpt": "Jeff Ricchetti began lobbying the White House at the beginning of this year’s first quarter, with disclosures showing that he was representing pharmaceutical giants Horizon Therapeutics, GlaxoSmithKline and Vaxart Inc., according to financial disclosure reports.",
@@ -1545,118 +1657,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/ex-trump-official-kellyanne-conway-senior-adviser-ohio-senate-candidate-bernie-moreno.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-trump-official-kellyanne-conway-senior-adviser-ohio-senate-candidate-bernie-moreno.amp",
       "publishedDateTime": "2021-04-15T15:09:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-sen-graham-slams-biden-dems-for-court-packing-attempt-they-are-really-drunk-with-power.md",
-      "title": "Sen. Graham slams Biden, Dems for court-packing attempt: They are 'really drunk with power'",
-      "excerpt": "Senator Lindsey Graham responds to Democrats' legislation to pack the Supreme Court, and U.S. troops leaving Afghanistan on 'The Story'",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dsVq0EZNuMs/graham-slams-biden-dems-drunk-with-power",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dsVq0EZNuMs/graham-slams-biden-dems-drunk-with-power",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/graham-slams-biden-dems-drunk-with-power.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-slams-biden-dems-drunk-with-power.amp",
-      "publishedDateTime": "2021-04-15T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-nikki-haley-calls-biden-un-ambassadors-us-criticism-a-win-for-our-enemies.md",
-      "title": "Nikki Haley calls Biden UN ambassador's US criticism 'a win for our enemies'",
-      "excerpt": "Nikki Haley on Thursday tore into the claim by U.S. Ambassador to the U.N. Linda Thomas-Greenfield that White supremacy was \"weaved\" into U.S. founding documents and principles – with Haley saying the criticism was a \"win for our enemies.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fpLTW2A25SM/nikki-haley-biden-un-ambassadors-us-criticism",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fpLTW2A25SM/nikki-haley-biden-un-ambassadors-us-criticism",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 252,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f8d534a1-f1fb-40a2-8e20-6ef865bf5a8f/389b01d1-f2ed-4a86-9a21-9abec5550598/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nikki-haley-biden-un-ambassadors-us-criticism.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-biden-un-ambassadors-us-criticism.amp",
-      "publishedDateTime": "2021-04-15T12:52:17-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

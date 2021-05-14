@@ -2,6 +2,111 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-08-nasty-notes-left-for-trump-staffers-came-from-celebs-not-obama-aides-dave-chappelle-says.md",
+      "title": "Nasty notes left for Trump staffers came from celebs, not Obama aides, Dave Chappelle says",
+      "excerpt": "When former President Donald Trump first moved into the White House in January 2017, his staffers said they found nasty notes stuffed into the drawers and cabinets — a claim President Barack",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/04/07/notes-left-for-trump-staffers-came-from-celebs-dave-chappelle/",
+      "originalUrl": "https://nypost.com/2021/04/07/notes-left-for-trump-staffers-came-from-celebs-dave-chappelle/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/donald-trump-dave-chappelle.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/04/07/notes-left-for-trump-staffers-came-from-celebs-dave-chappelle/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/07/notes-left-for-trump-staffers-came-from-celebs-dave-chappelle/amp/",
+      "publishedDateTime": "2021-04-07T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-msnbc-host-concedes-biden-stance-on-georgia-voting-law-not-consistent-impossible-to-square-his-argument.md",
+      "title": "MSNBC host concedes Biden stance on Georgia voting law not consistent: 'Impossible to square his argument'",
+      "excerpt": "\"To listen to the president speaking right there, it's impossible to square his argument,\" MSNBC's Willie Geist said \"Morning Joe\" on Wednesday. MLB eventually did move the All-Star Game out of Georgia after Biden compared the state's new voting law to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent",
+      "originalUrl": "https://www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20f3bb9f-5836-4db5-a5df-e9a3441d9a8a/22b290f0-49ff-488d-bd4f-d5e835940878/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-host-concedes-biden-stance-voting-law-not-consistent.amp",
+      "publishedDateTime": "2021-04-07T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-pence-launches-new-advocacy-organization-to-promote-pro-freedom-policies-of-the-last-four-years.md",
       "title": "Pence launches new advocacy organization to promote 'pro-freedom policies of the last four years'",
       "excerpt": "Former Vice President Mike Pence on Wednesday launched a new policy and advocacy organization to promote \"pro-freedom policies of the last four years,\" featuring an advisory board of nearly a dozen Trump-era alumni.",
@@ -1551,118 +1656,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-trump-says-companies-playing-to-woke-cancel-culture-over-ga-election-bill-calls-for-boycott.md",
-      "title": "Trump says companies playing to 'woke cancel culture' over Ga. election bill, calls for boycott",
-      "excerpt": "Former President Trump suggested Saturday that Republicans take a page out of what he sees as Democrats' playbook by boycotting the major businesses that have condemned Georgia's new election reform. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AuHxtQA0JlU/trump-suggests-boycotting-ga-businesses-that-condemn-new-voting-law-we-can-play-the-game-better-than-them",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AuHxtQA0JlU/trump-suggests-boycotting-ga-businesses-that-condemn-new-voting-law-we-can-play-the-game-better-than-them",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 258,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/rtx25h92.jpg",
-          "width": 4436,
-          "height": 2957,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-suggests-boycotting-ga-businesses-that-condemn-new-voting-law-we-can-play-the-game-better-than-them.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-suggests-boycotting-ga-businesses-that-condemn-new-voting-law-we-can-play-the-game-better-than-them.amp",
-      "publishedDateTime": "2021-04-03T16:54:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-bidens-quest-to-pass-a-multitrillion-dollar-spending-bill-could-be-imperiled-by-legislative-fatigue.md",
-      "title": "Biden's quest to pass a multitrillion-dollar spending bill could be imperiled by 'legislative fatigue'",
-      "excerpt": "President Biden and Congressional Democrats are prepping trillions of dollars in new spending.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sTZ2qcybLXw/bidens-quest-multitrillion-spending-bill-legislative-fatigue",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sTZ2qcybLXw/bidens-quest-multitrillion-spending-bill-legislative-fatigue",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-quest-multitrillion-spending-bill-legislative-fatigue.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-quest-multitrillion-spending-bill-legislative-fatigue.amp",
-      "publishedDateTime": "2021-04-03T07:13:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -217,6 +217,17 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Infrastructure is Biden's best, perhaps only, shot at a big bipartisan deal"
+    excerpt: "Infrastructure may be President Joe Biden’s last, best chance to strike a major bipartisan deal this term. Some liberals think he would be a fool to take it."
+    publishedDateTime: 2021-05-14T14:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/politics/biden-bipartisan-infrastructure"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/politics/biden-bipartisan-infrastructure?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/politics/biden-bipartisan-infrastructure?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 63
 
 secured: "BVmIfrABhqDw7qj+jjmQAPOCclMPsRCs+DYuH8Xh1WlvffG7Q4QLobKOHfAL5ar5eGEGeC3lxWmkV4SSzUUOIwzkauH3YfmKKrJ+gZSOg4zFLToUsvsE6J8CEiQpPgP81n2dA0Nfd5JYNIkNaaAHhcWDyIvFFAm6xWJueEX/oJYopqny1RCHpJPBbtKRS5rsehldv4RbEkH1n6/+H06sG14ZiJth3ZLPu0IhmaomJfD/DtVbjgeoQSNqynCirqJnn41A24Yyzv3DIWshZDEa3Ag+n/hG5WazMeFfaONFqI+jnl+lGcM0M5eMo56Wz09lu0QtbC/ux7gUGH69wQBtCXjLNGHcgXvEtQdQQURlhjM=;urLT6Gj+JAJRV6EHE6rzFQ=="
 ---

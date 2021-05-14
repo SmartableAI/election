@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4997276001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4997276001"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rightwingers tried to discredit Trump ‘foes’ with honey trap plot – report"
+    excerpt: "Efforts included ‘planned sting operation’ targeting HR McMaster and fake dating app profiles to attract FBI, says New York Times"
+    publishedDateTime: 2021-05-14T15:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/14/trump-rightwing-activists-plot-hr-mcmaster-fbi"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/14/trump-rightwing-activists-plot-hr-mcmaster-fbi"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/14/trump-rightwing-activists-plot-hr-mcmaster-fbi"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/7a943b4fe245e30044c7bfeb933f67199417b577/0_384_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e47269d2856f59946d84a4c0b2f34d9b"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Washington Post says Trump Justice Department secretly seized reporters’ phone records"
     excerpt: "The Trump Justice Department secretly seized the phone records of three Washington Post reporters who covered the federal investigation into ties between Russia and Donald Trump’s 2016 presidential campaign,"
     publishedDateTime: 2021-05-08T00:29:00Z

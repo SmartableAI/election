@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-refutes-comparison-of-carter-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp"
 type: article
 quality: 185
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -217,6 +217,17 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Infrastructure is Biden's best, perhaps only, shot at a big bipartisan deal"
+    excerpt: "Infrastructure may be President Joe Biden’s last, best chance to strike a major bipartisan deal this term. Some liberals think he would be a fool to take it."
+    publishedDateTime: 2021-05-14T14:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/politics/biden-bipartisan-infrastructure"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/politics/biden-bipartisan-infrastructure?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/politics/biden-bipartisan-infrastructure?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 63
 
 secured: "Zn9K44QLTPgScKwuER7cb0KpgQtTzzTiHlgz0j7VBFuTNfpPiYhk9H48yxfKv7HJdRRRYpjafWpODptwQZ1oaONLiWG4G2hbbPMXphSRO2fqb3fLjms4sqihYsYaglCcojQ9NUvgfBHF4quVizSpcevIk0s7bOsyEuFfgFoiGO3ohnuSVi2EnILxdqGCJNar+G9us2C7Ynbi02D+lOIGkJtfeuEp4LYeouWSgA8jjUiNz4SQoyzOyDM/WH7Ci60dNsFgVYGvmCZngM7/+YLGBamVhWDlIV+vZBSR36LONgu6oxyfwV4cDDFkJSSQhcIOtXVgR45NuW/eoXJf5Ez2NZdKGsjUin1C1cxRo7V7fYE=;p2nOzStlNwyFAPgel+d2qg=="
 ---

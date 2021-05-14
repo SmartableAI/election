@@ -33,8 +33,8 @@ images:
 related:
   - title: "Elise Stefanik: Trump loyalist wins Republican leadership post"
     excerpt: "US Republicans have appointed New York Congresswoman Elise Stefanik, a Trump loyalist, to the third-ranking post in the House of Representatives. It follows an earlier vote to oust the incumbent chairwoman,"
-    publishedDateTime: 2021-05-14T15:15:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-57121629"
+    publishedDateTime: 2021-05-14T16:24:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57121629.amp"
     ampWebUrl: "https://www.bbc.com/news/world-us-canada-57121629.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57121629.amp"
     type: article
