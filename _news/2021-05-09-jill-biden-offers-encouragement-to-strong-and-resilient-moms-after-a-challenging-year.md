@@ -95,6 +95,22 @@ related:
         width: 1440
         height: 820
         isCached: true
+  - title: "Joe Biden Mask Tweet Riles Republican Lawmakers"
+    excerpt: "The president wrote that Americans would have to wear a face covering until they were vaccinated against COVID-19."
+    publishedDateTime: 2021-05-14T11:18:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-mask-tweet-riles-republican-lawmakers-1591480"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-mask-tweet-riles-republican-lawmakers-1591480?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-mask-tweet-riles-republican-lawmakers-1591480?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1796191/joe-biden-removes-face-mask.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden is spending a huge amount of time at church so far during his presidency"
     excerpt: "The second Catholic US president has attended church services at least 15 times since his inauguration. Observers say Biden appears at home there."
     publishedDateTime: 2021-05-11T08:01:00Z

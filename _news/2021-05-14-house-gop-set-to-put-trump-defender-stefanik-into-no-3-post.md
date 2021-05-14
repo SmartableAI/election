@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Biden tells US governors ‘we got more to do’ to encourage vaccination – live"
-excerpt: "Biden outlines steps officials are taking to get the message on vaccines across – follow the latest politics news live"
-publishedDateTime: 2021-05-11T17:40:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
-webUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
+title: "House GOP set to put Trump defender Stefanik into No. 3 post"
+excerpt: "Elise Stefanik into the ranks of House leadership, with the party hoping to turn the page from its searing civil war over the deposed Rep. Liz Cheney and refocus on winning control of the chamber in next year’s elections."
+publishedDateTime: 2021-05-14T10:18:00Z
+originalUrl: "https://www.washingtonpost.com/politics/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post/2021/05/14/63d65316-b46a-11eb-bc96-fdf55de43bef_story.html"
+webUrl: "https://www.washingtonpost.com/politics/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post/2021/05/14/63d65316-b46a-11eb-bc96-fdf55de43bef_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post/2021/05/14/63d65316-b46a-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post/2021/05/14/63d65316-b46a-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
-quality: 122
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/339f47bf083cf1180ba65acf917fe15c14d930ba/0_56_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8ee96b7bcb2d4d86c2882828e52611f6"
-    width: 600
-    height: 360
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L4V4POVUNII6XPEW7X2V3ZB354.jpg&w=1440"
+    width: 1440
+    height: 994
     isCached: true
 
 related:
@@ -399,22 +399,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "House GOP set to put Trump defender Stefanik into No. 3 post"
-    excerpt: "Elise Stefanik into the ranks of House leadership, with the party hoping to turn the page from its searing civil war over the deposed Rep. Liz Cheney and refocus on winning control of the chamber in next year’s elections."
-    publishedDateTime: 2021-05-14T10:18:00Z
-    webUrl: "https://www.washingtonpost.com/politics/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post/2021/05/14/63d65316-b46a-11eb-bc96-fdf55de43bef_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post/2021/05/14/63d65316-b46a-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post/2021/05/14/63d65316-b46a-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L4V4POVUNII6XPEW7X2V3ZB354.jpg&w=1440"
-        width: 1440
-        height: 994
-        isCached: true
   - title: "Senate GOP to give Biden infrastructure counteroffer next week"
     excerpt: "Senate Republicans will give President Biden a revised infrastructure offer next week after a sit down at the White House on Thursday."
     publishedDateTime: 2021-05-13T20:40:00Z
@@ -430,6 +414,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidencapito_05132021getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Biden tells US governors ‘we got more to do’ to encourage vaccination – live"
+    excerpt: "Biden outlines steps officials are taking to get the message on vaccines across – follow the latest politics news live"
+    publishedDateTime: 2021-05-11T17:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/11/biden-governors-infrastructure-plan-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/339f47bf083cf1180ba65acf917fe15c14d930ba/0_56_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8ee96b7bcb2d4d86c2882828e52611f6"
+        width: 600
+        height: 360
         isCached: true
   - title: "Cheney's views on Trump puts her GOP post in peril"
     excerpt: "No. 3 House Republican Liz Cheney was clinging to her post Wednesday as party leaders lined up behind an heir apparent, signaling that fallout over her clashes with former President Donald Trump was becoming too much for her to overcome."
@@ -656,6 +656,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "qiMkdy3QIH1B3atWqdot8Q8VruBltJN155qaTbXA++I75OlBEa8vPL8zhyqBwJRKBW2QAxzipIu3fq7ON+TAVRyUMzfarWm734umxCLHfSYP4wg1J6qxgiphz2oMbRuMsbHlE9gzi1dEy8quldovAwByDLbLIB8rq/3SduoIespd/3E88SeteiIO11rlCrx+Y0D1ie4Do/+J6OmhDTqGaWPtGjJdGVrxEqr7Hbq1Mx7lCIOAKSLo/TUz9F6zgGuNLYIAkQkwtv6iUpfpm2eM2L3vsvgbt3v+8ak96J7vse6I0G8qZ1aZ3H9YniALjCfc7xQsnDLrsbR51agwrnZYrXrS6D2NQzkSpvJ/wI2ScRli1ogKyBtz7+qN5FIbomrwhG39+/70VDBboJ0/4ykFixdhGLYkTbW4A9hPDyC/IxFO2PU5MowDsWH9/keKiDyxVlXlXxamOte6GK7uBK/V9uWQZXoJgqgbLSxfSWMoPi2S3cx8ktzO67DrI7Er+DSRPspKG+wQZxGJhx6RRpSXyw==;qBqXbiGZViLOOkSdVR0Mgw=="
+secured: "tx8VlBjL8M/InD5XHVIaYYjHzh4OvVG/HlOg2EPd+rt03ceAKbWJstQuEC8O3xy42bS+2uVm7zuZsH93vKKBoyUCEqMw/e8DPpUe+biToJTJFkkB4nANkA7NbS0qIJDTaOpTHm7aBUlwB7iEtbGA7lwy+M6CwLnhehFxiDiqE6mnvWRi8DXisdNiPWIc71UnowNjROF9YVRMfcMaeesY/fBAaJ4MP7rNLllHoiEbExnyHiYjv9S0gRBvVKeK9PCux1oUCHs3I4MZRff5ur327HjYG2PMb95lJSfT8TuXo00aytZFfrPZxuawlo6AfOBbv3gDvM/B9Qm4vL9C8Lc/vl68jy2JdAMy6aeq1WrdaLI=;bCMWSkrXT6qmLUzD/0yCsA=="
 ---
 

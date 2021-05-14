@@ -2,21 +2,21 @@
 category: news
 title: "Conservatives seize on gas crunch to blame Biden, stir base"
 excerpt: "Thousands of social media posts have misleadingly painted President Joe Biden and his administration as catalysts of chaos who not only mishandled the temporary shutdown of the nation’s largest fuel pipeline last Friday,"
-publishedDateTime: 2021-05-14T04:25:00Z
-originalUrl: "https://www.washingtonpost.com/politics/conservatives-seize-on-gas-crunch-to-blame-biden-stir-base/2021/05/14/55ee41f8-b46c-11eb-bc96-fdf55de43bef_story.html"
-webUrl: "https://www.washingtonpost.com/politics/conservatives-seize-on-gas-crunch-to-blame-biden-stir-base/2021/05/14/55ee41f8-b46c-11eb-bc96-fdf55de43bef_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/conservatives-seize-on-gas-crunch-to-blame-biden-stir-base/2021/05/14/55ee41f8-b46c-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/conservatives-seize-on-gas-crunch-to-blame-biden-stir-base/2021/05/14/55ee41f8-b46c-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+publishedDateTime: 2021-05-13T23:32:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/conservatives-seize-gas-crunch-blame-biden-stir-base-77678433"
+webUrl: "https://abcnews.go.com/Business/wireStory/conservatives-seize-gas-crunch-blame-biden-stir-base-77678433"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/conservatives-seize-gas-crunch-blame-biden-stir-base-77678433"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/conservatives-seize-gas-crunch-blame-biden-stir-base-77678433"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SRFYALFTFAI6XPEW7X2V3ZB354.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_f1e5314b200a40b7866a91fd0302fa26_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -383,6 +383,22 @@ related:
         width: 1440
         height: 928
         isCached: true
+  - title: "House GOP set to put Trump defender Stefanik into No. 3 post"
+    excerpt: "Elise Stefanik into the ranks of House leadership, with the party hoping to turn the page from its searing civil war over the deposed Rep. Liz Cheney and refocus on winning control of the chamber in next year’s elections."
+    publishedDateTime: 2021-05-14T10:18:00Z
+    webUrl: "https://www.washingtonpost.com/politics/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post/2021/05/14/63d65316-b46a-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post/2021/05/14/63d65316-b46a-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post/2021/05/14/63d65316-b46a-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L4V4POVUNII6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 994
+        isCached: true
   - title: "Senate GOP to give Biden infrastructure counteroffer next week"
     excerpt: "Senate Republicans will give President Biden a revised infrastructure offer next week after a sit down at the White House on Thursday."
     publishedDateTime: 2021-05-13T20:40:00Z
@@ -640,6 +656,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "OmSOmIXEEvtH3YRS8NJxM3EidD1pWXrUoybgNYAYxwKykI+qGLd2dBmoHlCCivHk3Hzja8jpI1b8AP41pkumuJdxtyw1Wwp+v7iBaNnvMPRLrDwAVpAAg6R8xxd+mcc1kkQ2Ep6YfgopmNMozrCFTttIkPzwp47oVaMnUCl6QKJ6afsEV8lHBQmFYgKkbRGE565HXGoyDMWGvphhSA6xwL/JIrbdzy3ac2FT4VcoAC5cmR0x9jLNndPTt/AnOqYeVO0SFKOE55mufKhR2EYwFoEM31v0rY9jGlmuSaLi89JqKC4yucAZP78a1NEIprtm+9Cqv6Hpzl5i/pEC06IKJGj3ueNSnBbBiau6Y1jv5HaifPtJDUI9v2bETjgPzRVYckd9J2C5c/FcWRFyJmEwTRYtA2DwOxlZQ+nTLkmuOCK2hNP97iHsBgm3aGKIdnZa0rUCtfJSjzzAggd34D+phZZGlPcCeReC3gVcy1rZbgUypLsqlABcrgzuOD/SGGz4pzQVyD0ecX2uDwjvhj1/zw==;OX5VnI1bYG/oxV/226a7dA=="
+secured: "+Q1ENYLdJTzDUEQJAPYmx0l/E/C3IZKrlK9xSlKlEoppdpqEDIMeU4+5PqZtDauUbMo0+QKEqFHuuPUmRdwxPUOEbi49MJFxu8uJU0EIcbwvRcu0KhqTkYTBsGjxZBH6XxsOIewRWMkmdIOdN0C0VmLcYouzfoCFkYtUq2KXJ7DUvHQxGdEqOJCezQ45cOYl7afZZYkCngcL7DHRPyrl97h9nZVwo+DYDkxWpqWKj+Ox8i1TAjZPvtQctzspqq3npJ8p9nq6zC1jzEr/4ljEagjkgjw490uPUkB9hc4WDWk/e0o+oT6moEP1eFNEmBVAh9mllM5PwiQz1yJzsciJ77lZOvas1HcWULV2oXZB7Y8=;1gP1KC1km0bG1Pv8YKBNBA=="
 ---
 

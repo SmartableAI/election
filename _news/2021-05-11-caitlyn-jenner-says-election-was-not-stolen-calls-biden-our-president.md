@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-ele
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp"
 type: article
 quality: 138
-heat: 418
+heat: 438
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3T2OTFUDMI6XPEW7X2V3ZB354.jpg&w=1440"
         width: 1440
         height: 820
+        isCached: true
+  - title: "Joe Biden Mask Tweet Riles Republican Lawmakers"
+    excerpt: "The president wrote that Americans would have to wear a face covering until they were vaccinated against COVID-19."
+    publishedDateTime: 2021-05-14T11:18:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-mask-tweet-riles-republican-lawmakers-1591480"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-mask-tweet-riles-republican-lawmakers-1591480?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-mask-tweet-riles-republican-lawmakers-1591480?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1796191/joe-biden-removes-face-mask.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Jill Biden offers encouragement to 'strong and resilient' moms after a 'challenging' year"
     excerpt: "First lady Jill Biden honored the role \"strong and resilient\" mothers play in taking care of their families after a \"challenging\" year of COVID-19."

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Biden Sets Everything on Fire"
-excerpt: "Joe Biden is the luckiest man to ever assume the presidency. He succeeded an unpopular figure. He was inaugurated just two weeks after the dramatic storming"
-publishedDateTime: 2021-05-12T10:00:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.html#!"
-ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.amp.html"
-cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.amp.html"
+title: "Biden's State-Sponsored Labor Shortage"
+excerpt: "President Biden spoke at the White House earlier this week to address an unsettling national trend  millions of jobs going unfilled in an economy"
+publishedDateTime: 2021-05-14T10:41:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.html"
+ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.amp.html"
 type: article
 quality: 85
 heat: -1
@@ -22,7 +22,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/54/543021_5_.jpg"
+  - url: "https://assets.realclear.com/images/54/540023_5_.jpg"
     width: 750
     height: 500
     isCached: true
@@ -140,19 +140,19 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Biden's State-Sponsored Labor Shortage"
-    excerpt: "President Biden spoke at the White House earlier this week to address an unsettling national trend  millions of jobs going unfilled in an economy"
-    publishedDateTime: 2021-05-14T10:41:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.amp.html"
+  - title: "Biden Sets Everything on Fire"
+    excerpt: "Joe Biden is the luckiest man to ever assume the presidency. He succeeded an unpopular figure. He was inaugurated just two weeks after the dramatic storming"
+    publishedDateTime: 2021-05-12T10:00:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 85
     images:
-      - url: "https://assets.realclear.com/images/54/540023_5_.jpg"
+      - url: "https://assets.realclear.com/images/54/543021_5_.jpg"
         width: 750
         height: 500
         isCached: true
@@ -215,6 +215,6 @@ related:
         height: 500
         isCached: true
 
-secured: "ZoLdesVX0CMbJ9CWHdQZK5C45wRqOoVeAApWMSA2LSv5nem1I0jzAEtMH+ucVy0pQWNi1nqdju1Y4jKhHIc2RmCTFzVeUMqL/LpnEq9+mAxLhB9UiKEOlRP+pmEMpkJWuSUk1IeMnZQbcj8SPHfAy7mWcqIx01cZ8fjfuwuCkhCtK8GlDHOzCYywBttloHI9D/t+NcjCHPDXFpTPIVRiEyr+sUvez3tm+lN2B7ojjJ6z+Wm0kUX5SQQTvPPbGcYhJtaHefxFR4tPLwkEs/VWYUvPeMZtGjJFcRsOVcNA3eMBCxOKshEMTDszeIRcnsUMnKqibKaBQUG7CR097Ing7nRQ4vCEMFi47HFXFEe0wG/nJS3vNZEJvPnrGHUKpbuZheACPoHTUdG1xQaCA3MlJUtCR83Yg2m2IMBFtD60vQiaWReYurkk5Bz2IRt/7jSd5VQeserDLU172hOraKBJfGriPbcwpiJDvthrM3ccrwEwe6DreWxeR0ZiRZJpUuYh+gTCXEGaWCU7CqvuTjxCUg==;u2qOSMlNuK6H5qMYfyMUfQ=="
+secured: "B5awxIKrV1LDiZnBHABnBf80sAUo7R9pS7d3Hrhyp0WQagcFY+zervFHqSAKu5s+eRpFaqKLcwwQuHYkiJMkrsNqqXDZU3rJkZz8YpjXlO6X7UUuvd80r20Iad/INEqeIHeGM4r8QhYx1h6EtID4qs5uHYQQV91b7a1kzH6Z3wOIHEHl0UH61AojY5LwfjqvXB3ZHlYcTbQk9voY7MUNvaz/NQzJI02GyOHDHBiK6Lw89cfy60JHftJWCxfNetOQ/tg/1s0zZE+PqzE5QTVCslLEKIHKPLZK4pCoSUPRUvYck4j5R+FWA0zK8dS2zo/qx4m3svHtogqd1SK1xyiX7P1IwQJ9guCFJWrDWH0gx6o=;/NnTfPoSbclj7EDksdMU+g=="
 ---
 

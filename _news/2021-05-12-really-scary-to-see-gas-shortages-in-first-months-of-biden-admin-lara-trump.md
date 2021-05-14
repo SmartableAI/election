@@ -144,6 +144,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's State-Sponsored Labor Shortage"
+    excerpt: "President Biden spoke at the White House earlier this week to address an unsettling national trend  millions of jobs going unfilled in an economy"
+    publishedDateTime: 2021-05-14T10:41:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/540023_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "President Biden Asks Drivers Not To Hoard Gas After Colonial Pipeline Cyberattack: \"Don't Panic\""
     excerpt: "President Joe Biden urged Americans not to give in to the temptation to start \"panic buying\" fuel amid gas shortages caused by the ransomware cyberattack on Colonial Pipeline. \"I know seeing lines at the pumps or gas stations with no gas can be extremely stressful."
     publishedDateTime: 2021-05-14T06:13:00Z

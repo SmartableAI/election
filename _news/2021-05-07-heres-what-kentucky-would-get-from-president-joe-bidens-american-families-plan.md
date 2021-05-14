@@ -91,6 +91,22 @@ related:
         width: 1440
         height: 820
         isCached: true
+  - title: "Joe Biden Mask Tweet Riles Republican Lawmakers"
+    excerpt: "The president wrote that Americans would have to wear a face covering until they were vaccinated against COVID-19."
+    publishedDateTime: 2021-05-14T11:18:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-mask-tweet-riles-republican-lawmakers-1591480"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-mask-tweet-riles-republican-lawmakers-1591480?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-mask-tweet-riles-republican-lawmakers-1591480?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1796191/joe-biden-removes-face-mask.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Jill Biden offers encouragement to 'strong and resilient' moms after a 'challenging' year"
     excerpt: "First lady Jill Biden honored the role \"strong and resilient\" mothers play in taking care of their families after a \"challenging\" year of COVID-19."
     publishedDateTime: 2021-05-09T15:24:00Z

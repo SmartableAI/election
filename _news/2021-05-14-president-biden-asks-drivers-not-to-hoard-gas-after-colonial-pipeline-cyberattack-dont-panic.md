@@ -156,6 +156,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's State-Sponsored Labor Shortage"
+    excerpt: "President Biden spoke at the White House earlier this week to address an unsettling national trend  millions of jobs going unfilled in an economy"
+    publishedDateTime: 2021-05-14T10:41:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/540023_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Jen Psaki Says the Quiet Part Out Loud About Joe Biden"
     excerpt: "Jen Psaki made a stunning admission in a patently flippant way last week during a conversation with CNN's David Axelrod. The White House press secretary openly admitted that President Biden's handlers often tell him they prefer he not speak to reporters outside of controlled settings."
     publishedDateTime: 2021-05-10T18:57:00Z
@@ -199,6 +215,6 @@ related:
         height: 500
         isCached: true
 
-secured: "5Wd6yLBSrftuWXbrzTMwAftNp6puLwtHTaFBaTK16pJRVpNoTAeO7N+cTEtE5BjewttaEW2/gKtxht35pDzbJU6RepgmmI4SIfL2xeJYpqxP4Qs1hYSQoEuG+TtBNLwNBfGiy2T5XJlZktGuVEeFNkO3NVjyPF1qaS54JsBU9FaWrfAjLLEyf3WbMyJX7wKDpP05knpijZz3LLeViYII/Zs/r/4ouSOsIn9tg6WOo3EGAOAj+Yn7+24sqgF8wfIr6VAJJ03FON8tghC8Au91ot3t9C9+D0bKGca/KdvbZjthz1wvWCUonSowqmyOmw74PVhs/hVk4mBC/G06BIsegTwXM+FhbF/hKx/Pnlzrj6Q=;73Gz3zAwQkUYsWGouNrz5g=="
+secured: "jCMnD7qbTgbcdZg0T/gASs+WfwHpkXp0C3NlLWrQx3HX6axIqEx/Xw38V7frYz62deEAf1jL14240kKpVFp+tTxHfbq8f7tHgFTbwGXVnuMZYUBqcgg0iOy9dkvYG0TzNO2iwgctVKKeNSuOvvfmDOmLsgwBhdltl3Kw16rB2PiKxtyHjXJPcHOhvp3YYD0+Ag+vZ8VqQHNUP73l91sh8WJ/jvtJHWsuI7jAP0u1cjhiauK/tg4BoyZRNIVqth0LPg30jp7hHBrkaeAqjMINx8DXofHkQ2YgdWrseS9sLmvvjARMhwNkhv4RbLogFF/05m8vVj9oD/WKU0FzvLBkd/cJ0Pr7xIIz8jVd7iUSWx+ALfzEpeV2WMhf59+s52Nf8tvnTx1nPKIJi0y2S4AtBCh5r2nt7u9432SSWBdODltEZFBd24zDibHjeiprZLRjJ81XEaPRih9zY7NgV6IbbKGCmgh5M3clKr3pVjsDlF2kmhq2h/+AXfUzEhb/+Gnh6da3UI9JuThlPFOGv3DTig==;Xid1fRpL5cE9ujAAaxOY1w=="
 ---
 

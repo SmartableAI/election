@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-refutes-comparison-of-carter-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp"
 type: article
 quality: 185
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 85
     images:
       - url: "https://assets.realclear.com/images/54/543021_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden's State-Sponsored Labor Shortage"
+    excerpt: "President Biden spoke at the White House earlier this week to address an unsettling national trend  millions of jobs going unfilled in an economy"
+    publishedDateTime: 2021-05-14T10:41:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/540023_5_.jpg"
         width: 750
         height: 500
         isCached: true

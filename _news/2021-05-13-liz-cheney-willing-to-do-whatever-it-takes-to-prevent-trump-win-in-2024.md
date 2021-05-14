@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-t
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/amp/"
 type: article
 quality: 134
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Hemingway: Liz Cheney Seems Obsessed With Donald Trump, Didn't Mind When Democrats Questioned 2016"
+    excerpt: "\"The Federalist\" senior editor Mollie Hemingway responded to Rep. Liz Cheney's heated interview on Thursday's 'Special Report' panel on FOX News Channel. MOLLIE HEMINGWAY: Liz Cheney seems obsessed with Donald Trump."
+    publishedDateTime: 2021-05-14T11:21:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/14/hemingway_liz_cheney_seems_obsessed_with_donald_trump.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 51
+    images:
+      - url: "https://assets.realclear.com/images/51/512059.jpg"
+        width: 922
+        height: 690
+        isCached: true
 
 secured: "ygf6xVJnDyggfA+Zfr94hmpH457I+EXvsSyc4xZDYeFwh7N/xXC+mDxnVQFOeTM5bFwfmFngv2+1ng90L9dF2L1fzmntdjWLUJM75uLkLl/h4wOz+hFoN5Shvg8D2vl2vgrS99LShjS5OhqNz5FuAPG5ukbPyuFenmNAmTo4EWZC+AJSScqYkfGfxV8lG0GFu1a7QM9un3ywKi18vU8ngzZ4Eb2gZsyU8cyHsW6bSqFOhvzxtYL+65JK/5dl37hJXuBMJ4y92KZoPywu+157ijAQbRtc4oxgvHZMjJL8qQNqfLKOD8ZMDkhsiEKTNQNzbhVicwAyZ+8AnyPlJBU4pYZTW7udBoYZ7UKAGqnN4atLeYE2GLPHSwj14xMHVjQTb0B1iKROJEQF1bBWxHkcRobyh30tnkjorxdbKB8ob5aWoW1mEfLYBUuXjnXPKx+YE55HcDIuSmI/e8YDaD3mGNYXyA9HYPmoZJcYAfFt8X1duyIHiya4XONJKBZLjZErp5aiPEJGTze/ovPNopY9ZQ==;Al6Bgy0miwyxlWHRa6S12Q=="
 ---

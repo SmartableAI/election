@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Charlie Baker to appear — virtually — with President Joe Biden on Tuesday to talk about the vaccination effort"
-excerpt: "Charlie Baker is scheduled to join President Joe Biden, virtually, on Tuesday for a bipartisan event touting the state’s progress with the COVID-19 vaccine rollout. As USA Today first reported Monday afternoon,"
-publishedDateTime: 2021-05-10T22:07:00Z
-originalUrl: "https://www.boston.com/news/coronavirus/2021/05/10/charlie-baker-biden-vaccine"
-webUrl: "https://www.boston.com/news/coronavirus/2021/05/10/charlie-baker-biden-vaccine"
-ampWebUrl: "https://www.boston.com/news/coronavirus/2021/05/10/charlie-baker-biden-vaccine/amp"
-cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/coronavirus/2021/05/10/charlie-baker-biden-vaccine/amp"
+title: "Joe Biden Mask Tweet Riles Republican Lawmakers"
+excerpt: "The president wrote that Americans would have to wear a face covering until they were vaccinated against COVID-19."
+publishedDateTime: 2021-05-14T11:18:00Z
+originalUrl: "https://www.newsweek.com/joe-biden-mask-tweet-riles-republican-lawmakers-1591480"
+webUrl: "https://www.newsweek.com/joe-biden-mask-tweet-riles-republican-lawmakers-1591480"
+ampWebUrl: "https://www.newsweek.com/joe-biden-mask-tweet-riles-republican-lawmakers-1591480?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-mask-tweet-riles-republican-lawmakers-1591480?amp=1"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Boston.com
-  domain: boston.com
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.boston.com/wp-content/uploads/2021/05/UBLKP4K4VV3LQICNN6FQIQUMEE-6099a2931c6e8-850x478.jpg"
-    width: 850
-    height: 478
+  - url: "https://d.newsweek.com/en/full/1796191/joe-biden-removes-face-mask.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -90,22 +94,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3T2OTFUDMI6XPEW7X2V3ZB354.jpg&w=1440"
         width: 1440
         height: 820
-        isCached: true
-  - title: "Joe Biden Mask Tweet Riles Republican Lawmakers"
-    excerpt: "The president wrote that Americans would have to wear a face covering until they were vaccinated against COVID-19."
-    publishedDateTime: 2021-05-14T11:18:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-mask-tweet-riles-republican-lawmakers-1591480"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-mask-tweet-riles-republican-lawmakers-1591480?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-mask-tweet-riles-republican-lawmakers-1591480?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1796191/joe-biden-removes-face-mask.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Jill Biden offers encouragement to 'strong and resilient' moms after a 'challenging' year"
     excerpt: "First lady Jill Biden honored the role \"strong and resilient\" mothers play in taking care of their families after a \"challenging\" year of COVID-19."
@@ -249,7 +237,23 @@ related:
         width: 1024
         height: 722
         isCached: true
+  - title: "Charlie Baker to appear — virtually — with President Joe Biden on Tuesday to talk about the vaccination effort"
+    excerpt: "Charlie Baker is scheduled to join President Joe Biden, virtually, on Tuesday for a bipartisan event touting the state’s progress with the COVID-19 vaccine rollout. As USA Today first reported Monday afternoon,"
+    publishedDateTime: 2021-05-10T22:07:00Z
+    webUrl: "https://www.boston.com/news/coronavirus/2021/05/10/charlie-baker-biden-vaccine"
+    ampWebUrl: "https://www.boston.com/news/coronavirus/2021/05/10/charlie-baker-biden-vaccine/amp"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/coronavirus/2021/05/10/charlie-baker-biden-vaccine/amp"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 55
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2021/05/UBLKP4K4VV3LQICNN6FQIQUMEE-6099a2931c6e8-850x478.jpg"
+        width: 850
+        height: 478
+        isCached: true
 
-secured: "2Ga7k3X+bV9F29YWyQQz47OQ5NePrg5Epb9fNcLQFQ7WVLvDD/SzGori+Kc0Qt/IoXVbbJNdCWCfzuiFNcmT7r+cjLbinbt2TxCyudiJCanlCbwEfOzmKk/82U2GNBw5ncxW2v/qpBbga4LnPfutCetK06k4uqqo8BDFx9WkJ4vmESp43sZa5VvjtXwPGYKHdBzJEyxepRMCKr3MyJs72ViNmBa5M8OGsuoaJxEZ0vha9VNJnuS6WUKreZZOkhGmANzHcgPhqIWol9wdtBwzvpc4Zfdtl7ZCVMEBvM9JXvA7QwTyRVhtENKIx3wCaGjfUn+NuFpVDwtatBqeGdLk7YKG8Nax3/qfCyxmbXgC6EQ=;CeiVacgdwaPR1PLCVmjFVg=="
+secured: "ES+8Xn959I6Eey289TaXEY2hMCaLXj4ibL6yxfB+WBGdEbm1WkPqpCK9o8y92P9TQNCJNrltk/Iflw4xGJ+Ox38MnKgU0mF7g/B0ilI0C2CnpM5DaQCXoLFf4Tr4VZA+xNSJ8ns6F75eE9P6yTxpLeYXWyZrRjCVCtlbeNe06O/7oDE5lqy8C5OzhTaY0cmWNh/uYOwgJqtcLjPkvwj3oRRLzXeE1dsoWT4qUr4FW1ZDizhZis1EmvaVqPaw3MQqUTfGicj2gHYtcwrg8e/4O0abP4VpwitfAwZNydGh2kWAI31CgJtAVUf9qShdREENaJPu6dYu2Zym8rGCMUPHvCVGUpB4ONFlBdGaXZtYlj8=;Be9b2EH9aFjWqXuqq4E38g=="
 ---
 
