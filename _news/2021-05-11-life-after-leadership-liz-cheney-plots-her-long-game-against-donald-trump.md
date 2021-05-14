@@ -111,6 +111,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Mediaite: The Interview: Politico Playbook Team Dishes on The GOP Power Struggle, Pissing Off Both Sides, and Not Ignoring Trump"
+    excerpt: "Ryan Lizza, Rachael Bade, Eugene Daniels and Tara Palmeri — joined Aidan McLaughlin on The Interview to talk about everything from a Republican Party power struggle to what it’s like covering a new regime in D."
+    publishedDateTime: 2021-05-13T20:49:00Z
+    webUrl: "https://www.politico.com/blogs/politico-press/2021/05/13/mediaite-the-interview-politico-playbook-team-dishes-on-the-gop-power-struggle-pissing-off-both-sides-and-not-ignoring-trump-1528038"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 86
+    images:
+      - url: "https://static.politico.com/e7/a9/2d6605ba4345aed8498376a5ff04/new-playbook-team.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
 
 secured: "nVj2/Kn9yO/WUBQzwrNp0AhrivqoUl2VT4MfsWFpEc9uPyYMKZLGoSbOCZlAxTudAMRtWyPFZstBbLk+ktG9ioWNYOZj0H/6+b4pGMPDl3lOlCFekXKxPFFic41eTl+ogvakxsz0lr+1o/lnjfOUwkI9Id4ovuTZndP/Ym0lCSb8CyIgEZ2tDcN8BT9AIPUPWaCwPk5QNuB5ma4YjUcjANE/592PeILycinIV3BbFjfYEwhy5skJukjsnOSDyYy3MOYP5YcZl7HefrB3K9jjrCKkelX7Y9RHrLtqU2qqzWXXeTYPyBpo6CzjdoYZLBCojlUKGKjpmmfvll0HJH0qwsdeugd1YpMYvG50/FVdCzM=;OhZI2FxbPWMPLYr7IPFHEA=="
 ---

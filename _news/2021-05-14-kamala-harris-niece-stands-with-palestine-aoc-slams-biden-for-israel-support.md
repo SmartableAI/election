@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Israel-Palestine flare-up has caught Biden administration unprepared"
-excerpt: "Analysis: The White House is playing for time and needs to decide quickly how to deal with Trump’s legacy of unwavering support for Netanyahu"
-publishedDateTime: 2021-05-12T03:47:00Z
-originalUrl: "https://www.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared"
-webUrl: "https://www.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared"
-ampWebUrl: "https://amp.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared"
+title: "Kamala Harris’ Niece Stands With Palestine, AOC Slams Biden For Israel Support"
+excerpt: "Biden expressed his support for Israel in a phone call with Prime Minister Netanyahu Harris and Ocasio-Cortez slammed Biden for 'siding with opposition' More than 100 Palestinians have died from the attacks by Israeli forces The ongoing conflict between Israel and Hamas militants in Gaza has put the Biden administration,"
+publishedDateTime: 2021-05-14T05:17:00Z
+originalUrl: "https://www.ibtimes.com/kamala-harris-niece-stands-palestine-aoc-slams-biden-israel-support-3198473"
+webUrl: "https://www.ibtimes.com/kamala-harris-niece-stands-palestine-aoc-slams-biden-israel-support-3198473"
+ampWebUrl: "https://www.ibtimes.com/kamala-harris-niece-stands-palestine-aoc-slams-biden-israel-support-3198473?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-niece-stands-palestine-aoc-slams-biden-israel-support-3198473?amp=1"
 type: article
-quality: 125
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Kamala Harris
 
 images:
-  - url: "https://i.guim.co.uk/img/media/f79a64332981437da44ba3fc5324584b9570d820/0_92_3584_2150/master/3584.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4da22353425bdd34f96ba4053c6d9e31"
-    width: 600
-    height: 360
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/28/gettyimages-1127743614.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AN6GYPFSUEI6XPEW7X2V3ZB354.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Israel-Palestine flare-up has caught Biden administration unprepared"
+    excerpt: "Analysis: The White House is playing for time and needs to decide quickly how to deal with Trump’s legacy of unwavering support for Netanyahu"
+    publishedDateTime: 2021-05-12T03:47:00Z
+    webUrl: "https://www.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/f79a64332981437da44ba3fc5324584b9570d820/0_92_3584_2150/master/3584.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4da22353425bdd34f96ba4053c6d9e31"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden was unprepared to respond to the worst violence Israel-Palestine has seen in years"
     excerpt: "President Joe Biden does not have an ambassador in Israel — and hasn't yet nominated anyone — amid the worst fighting the region has seen in years."
@@ -77,23 +93,7 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Kamala Harris’ Niece Stands With Palestine, AOC Slams Biden For Israel Support"
-    excerpt: "Biden expressed his support for Israel in a phone call with Prime Minister Netanyahu Harris and Ocasio-Cortez slammed Biden for 'siding with opposition' More than 100 Palestinians have died from the attacks by Israeli forces The ongoing conflict between Israel and Hamas militants in Gaza has put the Biden administration,"
-    publishedDateTime: 2021-05-14T05:17:00Z
-    webUrl: "https://www.ibtimes.com/kamala-harris-niece-stands-palestine-aoc-slams-biden-israel-support-3198473"
-    ampWebUrl: "https://www.ibtimes.com/kamala-harris-niece-stands-palestine-aoc-slams-biden-israel-support-3198473?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-niece-stands-palestine-aoc-slams-biden-israel-support-3198473?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 86
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/28/gettyimages-1127743614.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
-secured: "EU//nrPq2c8fo3byzARdxTVO81jlAT1C3cE/wd6ylo7bXFs1XGyHyUlWj9uPa94lZ5f6rlpDENpu1dCXVjZCkut1Ioh0dGvMRpgZNYxmNypsL3ij1fTdYMwShoin6KZogq24kuCF/NOmabnzeIEPDUAxqB4OArlJKYgJ/ZSbaqTUy8ltkxhI7b9G4oTPAs80j7NwQh2UTXif0ra4PA/JVseHkyGhep0qGhud/Axh6dKv3Bg+c0ybME8GVktXOLUEv8iWui2zYUySstuvLOCk7tRdCgbHVPp90Kug5Rje6K6WzID2XmU+nDGEn/nsB9v1oZuyJun/NdGHbvWvE5sHXQONxdWed+6LLxSY/zZdTXuUAqLeIwMhoadNxt7ejIAMmYUuEy81G18KN175qcwCHweOTVeCWQN5ktjfrArzfHUQ7032Lvk78Pc9fxurZAwX7dDTDuNUbhYgU2PjPRGaYNss4K/YNNfATwI+6YBIj4X5rvE9N9qbv+da8rA66Nt7Ptc5wMOLVjR04XhPkKfR0A==;pbVt/JpiMqyQSs00m3DWNQ=="
+secured: "j6b+EgsuksFyQ52XIyVtsUqswxsLhPBrn2zz9l8ed4oJNb2a6O+/8XsgdV7kTuVqbHtK5qClJvjb/+qpn/iONzD1CF+arRkAn/MvyvuIcQ915tZGWXUPc4oUGF59Lvjfsgq5KJGCHDWfmwYpR2fvAU8YXhzCR75LO0TXAiQkCTtlZb03Pp1vRPtdgGh6SwrnuA8J8BXBBaOoQwagAA4XF0wLq7tFFEiY7AhSOsmAH4xjSlk1QuJfrGAQYo2ZWlY0FLgV1evvdldpqH9dimVJ6uvwFPnyucX9lZFafHzjZ9zgrGTQzRk+RNi7/TQ0z03P7eSVG2itA3QxToKegLVN9+bpf7KV40vb+a7X2N7PMbU=;TO9juT1S7sivhXfDq7kn0A=="
 ---
 

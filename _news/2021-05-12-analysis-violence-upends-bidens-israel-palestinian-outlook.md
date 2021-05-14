@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/analysis-violence-upends-bid
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://s.abcnews.com/images/International/WireAP_e353934a96bc4d2b811416f1699344bf_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Kamala Harris’ Niece Stands With Palestine, AOC Slams Biden For Israel Support"
+    excerpt: "Biden expressed his support for Israel in a phone call with Prime Minister Netanyahu Harris and Ocasio-Cortez slammed Biden for 'siding with opposition' More than 100 Palestinians have died from the attacks by Israeli forces The ongoing conflict between Israel and Hamas militants in Gaza has put the Biden administration,"
+    publishedDateTime: 2021-05-14T05:17:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-niece-stands-palestine-aoc-slams-biden-israel-support-3198473"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-niece-stands-palestine-aoc-slams-biden-israel-support-3198473?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-niece-stands-palestine-aoc-slams-biden-israel-support-3198473?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 86
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/28/gettyimages-1127743614.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "QERHPb++RMrAv5hnDtpC1lr83X9hcK8w5NcPzmpqt8bjlZW6ZLc8wRfymT6UzQt513ksVcZR/oSmbx90keeHDbUPun811JR6ITM4wduWjx35bskXXCPg5DBNabk1+eSD/RLriI49idhIVuvHXoW/Oe8dF+jTMIvZUW6/h4ggn6Z24D4rTBcZ9ibTFr7t0c8+X/36ug0F/CsFyT37g00fZBblyjFId6VyutNgixTPePoYC++wx+AZt03lbNeF436JQzJqwknjWuaPBqpxmyvn3bRKeW4i5rZ8E+y0Myrg2bAgYqkzITyML6t8A2M+OW3jb84G+FcvJb7QwzWjnhPo32Rnqy26GWCU+xDbvVClayykCtEeLoF1b13FcoEC3fbaQLUjZHudqsUO01dZkqo0igYDod06FvSdpZafYbHITGr0wd7+amDAdqZgQlah3aczVbHha0tOeQbO1sbCiTfLHpt8H4vSCNFkXkxGp2r1iqBMrUk2OEBuucre/ieeggv4mjBLif+snIvP3dxqHl88cQ==;ZnK61iXIaiVxAlgwU48P2w=="

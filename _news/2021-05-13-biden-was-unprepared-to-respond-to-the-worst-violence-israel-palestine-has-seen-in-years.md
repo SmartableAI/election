@@ -77,6 +77,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Kamala Harris’ Niece Stands With Palestine, AOC Slams Biden For Israel Support"
+    excerpt: "Biden expressed his support for Israel in a phone call with Prime Minister Netanyahu Harris and Ocasio-Cortez slammed Biden for 'siding with opposition' More than 100 Palestinians have died from the attacks by Israeli forces The ongoing conflict between Israel and Hamas militants in Gaza has put the Biden administration,"
+    publishedDateTime: 2021-05-14T05:17:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-niece-stands-palestine-aoc-slams-biden-israel-support-3198473"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-niece-stands-palestine-aoc-slams-biden-israel-support-3198473?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-niece-stands-palestine-aoc-slams-biden-israel-support-3198473?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 86
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/28/gettyimages-1127743614.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "apzprw1XXN8EF4NQhcMaQBVwfWHYSOnYZgYkglMEzD71x4T3cUpTS2+Loi/tCOVO2F63NW5Uf1UObZULTqVDPu0vbnOLsxScymvPysIpiBQwYHvS34QGCruwd6QQeKO/TOVJ5ZJNk3c2pv/z+U9cAH2dnYZN6GhvjAT44HvHyzSkhehUjwhJ8pfGmFXWNIKSGOtbbe3EEVFUxDZ0mx+YvMLA3SCNmxNJ2zfw9RVtIYp5mzInhZIWCu38NFp2VwsB1JT5M8X/uugUjw7hcdvh9uUDDsiSyjXW15VD/2/1wi+jezywVC7YJyRFWdhSXCOVpZiBUK0NXLv3pmJj3O9MAUJba3LtJSjja3PryB/DdgNQMZQhcsqBDk8pbheBEG9iBCJGIWQ7NIUwiqtVv+8UWdS+W5EqP4d5V9VEpCsM65b02/S0CN959TYS4YdQ5mp+eoMa//JxXWa1H2ut+R+YXF0EP9k1PW2DOXba8rRc+UD8RLYwuZWscHDYFx+fAb9REOYVZOMyZhrAQjsKDIh9bg==;CIGnA96xk7wYSy92MQiOTQ=="
 ---

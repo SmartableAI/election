@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
 excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."
 publishedDateTime: 2021-05-04T15:13:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/09628999484734dfb11d5be67f224a17/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/09628999484734dfb11d5be67f224a17/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/96b5bc21a562578f42e17f98addafbef/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/96b5bc21a562578f42e17f98addafbef/Vice-President-Kamala-Harris-Delivers-Remarks-to-the-Council-of-the-Americas/"
 type: article
 quality: 32
 heat: -1
@@ -841,6 +841,6 @@ related:
       domain: bostonglobe.com
     quality: 22
 
-secured: "X+OcSOTYPleRSdH9SXRjgBspNMg0yAEkdmKm8K/9QOYLNaz5DkQ2jUxjLRy8Htp/XPmdJppoIVKRH8IY1eQOXpPE05FXrVsSDBch1q/QSfeRpzEWs8YyFHTjqB4KBMjijJSyIioWUoH2D3dEFO80sD5y+b843jSEht3s2ZRJ2glnLUMS+ieZ4WRYXGXKm8SMvUm0HOzbh67YfgGqRUHP+1Q3/C4UQZmiNcJgkR5tDaIqMDk+GFXdteUu13XGna2e7b1oFlPWG4o7naMkTjHshnc+BHunnRnqJrPQ7MCjQKJmX7bb36rf9s3ZHpSAbjI16kcOKTY94Qzn/XfXuePEkD6VuvibllO74JUtoDkAj/CYIc1zrj+wnV1EFvaxhycLPH89U4mGMx+caxRdHa2gEq4StcLiRxhx84Vcle/GpdTvPv9AuBw4fCd4oCX20/7tnyWabaeXhqV0DRn4OhwYpUwS4/LQ0RXTrs6ADen+ylelKqPHG0sP0BRUyjRMVFj4BKhUuCWtZ3jTVlrSeCUI6w==;P1C6g7OoJR/OxSCUWPGL5g=="
+secured: "C6KztrXXDMeSbhB7+4Lf96uImgj3qlDZjSyKKt0V7qQFhII0V6CCtuG1tHU/I77tWfp6Hf/qsTKBIXGVSucl5S15EOTTBmDI2iuafACqf2yoB1XshAELyxna/U/kTv3W2PizpQG4OSh8BVXpnsl8fY4PznFI+Kk29yjdq73rWhQipS3K20Be5jK9P0cab9rlBfvZ4hraohJ7L/Hfx70kUiHImxK84E5gsfll6AAr+hOB99TaRPPZAuLtWW/uE6WP+hZfqKKpOPpc1KJ17D4mu4X97IyOFnpJo/BsDCtAa5UAOAjnKCRGEFTmJMZ5uD+tzvE/2lQKQd7JyvlytdIQ1y3Ro/0NXX1COW8R669Prcbi5gRGY+OGZi4avEdwO+2SSNh1anT+Dol1DWkC9szdUp2xBqZ2w05ut+Qxt+KnGm6MpGxW0JUjy5skJ5in6NT5Nb8pZ0fqufEesoj2PtEDqWP/rA9pq23CNotglhkiKcdBdvCzWeJsrSUrKoy9HDGJHfBIFfDD8/PdBMGCFpbXKw==;De7FK7reC3/WRECRYNaAXw=="
 ---
 

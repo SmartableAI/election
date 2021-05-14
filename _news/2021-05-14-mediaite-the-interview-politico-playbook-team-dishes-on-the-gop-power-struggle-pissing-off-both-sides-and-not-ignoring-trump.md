@@ -1,36 +1,51 @@
 ---
 category: news
-title: "Trump drags House GOP deeper into his theater of lies"
-excerpt: "When the House Republican Party moves against Liz Cheney this week, it will prove that it prefers to unite behind a lie rather than stay divided over truth.\n    \n"
-publishedDateTime: 2021-05-11T05:21:55Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rPQgA7AWBjY/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rPQgA7AWBjY/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/donald-trump-liz-cheney-joe-biden/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/donald-trump-liz-cheney-joe-biden/index.html"
+title: "Mediaite: The Interview: Politico Playbook Team Dishes on The GOP Power Struggle, Pissing Off Both Sides, and Not Ignoring Trump"
+excerpt: "Ryan Lizza, Rachael Bade, Eugene Daniels and Tara Palmeri — joined Aidan McLaughlin on The Interview to talk about everything from a Republican Party power struggle to what it’s like covering a new regime in D."
+publishedDateTime: 2021-05-13T20:49:00Z
+originalUrl: "https://www.politico.com/blogs/politico-press/2021/05/13/mediaite-the-interview-politico-playbook-team-dishes-on-the-gop-power-struggle-pissing-off-both-sides-and-not-ignoring-trump-1528038"
+webUrl: "https://www.politico.com/blogs/politico-press/2021/05/13/mediaite-the-interview-politico-playbook-team-dishes-on-the-gop-power-struggle-pissing-off-both-sides-and-not-ignoring-trump-1528038"
 type: article
-quality: 175
-heat: 295
-published: true
+quality: 86
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210510143029-23-liz-cheney-unf-restricted-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/e7/a9/2d6605ba4345aed8498376a5ff04/new-playbook-team.jpg"
+    width: 2240
+    height: 1260
     isCached: true
 
 related:
+  - title: "Trump drags House GOP deeper into his theater of lies"
+    excerpt: "When the House Republican Party moves against Liz Cheney this week, it will prove that it prefers to unite behind a lie rather than stay divided over truth.\n    \n"
+    publishedDateTime: 2021-05-11T05:21:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rPQgA7AWBjY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/donald-trump-liz-cheney-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/donald-trump-liz-cheney-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210510143029-23-liz-cheney-unf-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Life after leadership: Liz Cheney plots her long game against Donald Trump"
     excerpt: "Liz Cheney entered this week knowing it would likely be her last as a member of the House Republican leadership team.\n    \n"
     publishedDateTime: 2021-05-11T20:59:39Z
@@ -111,21 +126,7 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Mediaite: The Interview: Politico Playbook Team Dishes on The GOP Power Struggle, Pissing Off Both Sides, and Not Ignoring Trump"
-    excerpt: "Ryan Lizza, Rachael Bade, Eugene Daniels and Tara Palmeri — joined Aidan McLaughlin on The Interview to talk about everything from a Republican Party power struggle to what it’s like covering a new regime in D."
-    publishedDateTime: 2021-05-13T20:49:00Z
-    webUrl: "https://www.politico.com/blogs/politico-press/2021/05/13/mediaite-the-interview-politico-playbook-team-dishes-on-the-gop-power-struggle-pissing-off-both-sides-and-not-ignoring-trump-1528038"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 86
-    images:
-      - url: "https://static.politico.com/e7/a9/2d6605ba4345aed8498376a5ff04/new-playbook-team.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
 
-secured: "lEIXT3FASl1aKADedQlU16OA3Y2FhLpgw6p/K1twKy1L8aVEiAQFOOf/zu4oBsGJCpW7ODsNcdV5IcCC6Pv7O9VBQkx0k7Y4J2aRfHG9FzxLarXcj5OEErx2j5opiK8rZG1fuuKMlPtEDr3Vd0RD1lpFfedEsdimEB+AQxYjmfZuQkJbjx9whtoFAYdwcIJgTmLc1AUPttlnHcNzea97ZTV8IhIAB1M/HzUEa8S1MV2x2d43ZdhzU9bOVLV+ioBwHFoVJJOVHo8bFUWMQ+RXRe7r20iBGo7m81dngoO85yA1p5CW8lC5npNMq6ctld7Y2c2fT8u5duronB1a0tcQgPMTzmZJ4pBBnn7ZR1SUC8g=;D8OwK3XZreHnD+HYAiHwBQ=="
+secured: "fh5nsY6OeBdgoFtb+eGbsmp9iXJ2309YC9ZitCLFXQw4IW7Ocz0gV1DobVY2tPXvkVIsxkZhEVzlQnspwx4sPvzRuZEx0EmXvTZ4vF0G//7ls0T/iW/kDAvMcO7zlRKFnNK6WyZZlnpkAzr/PN6zrmhWOKcis1cGzFHGQ1+CGTd07US/ghamwkHIdmXPXQgIqPFgkpcBR9WLM9HF1J+yqgP1Ori74p3LClUhLdc3oS5eExi2l+yO+HxjlIOF5DiM3j0Jx0zVmuqZzXKqqFwT9Ak2ozsc1seyGdQg8YqLBxQ0m6cZQSTrtnJKSOUw3jo6VMbh8z4IWO385RJSwTrVyY6tUbU7lNieXonJKFYwzY0=;dt3NZcrHnLgzoEPLBSaLYQ=="
 ---
 
