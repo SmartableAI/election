@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/british-elections-send-a-mes
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 1135
+heat: 1155
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 140
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210514&t=2&i=1562174593&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4D1AB"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Biden rescinds Trump-era health insurance requirement for new immigrants"
+    excerpt: "U.S. President Joe Biden on Friday revoked a 2019 proclamation by former President Donald Trump that sought to bar the entry of immigrants who could not prove they had health insurance or could cover healthcare costs."
+    publishedDateTime: 2021-05-14T22:14:00Z
+    webUrl: "https://www.reuters.com/article/usa-immigration-biden/update-2-biden-rescinds-trump-era-health-insurance-requirement-for-new-immigrants-idUSL1N2N12NH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CV2K7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CV2K7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210514&t=2&i=1562182032&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4D1D5"
         width: 818
         height: 545
         isCached: true

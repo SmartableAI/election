@@ -111,6 +111,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Biden rescinds Trump-era health insurance requirement for new immigrants"
+    excerpt: "U.S. President Joe Biden on Friday revoked a 2019 proclamation by former President Donald Trump that sought to bar the entry of immigrants who could not prove they had health insurance or could cover healthcare costs."
+    publishedDateTime: 2021-05-14T22:14:00Z
+    webUrl: "https://www.reuters.com/article/usa-immigration-biden/update-2-biden-rescinds-trump-era-health-insurance-requirement-for-new-immigrants-idUSL1N2N12NH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CV2K7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CV2K7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210514&t=2&i=1562182032&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4D1D5"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Biden administration restores transgender health protections, reversing Trump policy"
     excerpt: "The move reverses a Trump-era policy​ that sought to narrow the scope of legal rights in sensitive situations involving medical care."
     publishedDateTime: 2021-05-10T17:20:00Z

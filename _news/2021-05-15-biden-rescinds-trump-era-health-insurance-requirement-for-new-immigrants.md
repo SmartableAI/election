@@ -1,22 +1,22 @@
 ---
 category: news
-title: "House GOP tries to look forward with elevation of Stefanik, but Trump election falsehoods will remain issue"
-excerpt: "The New York Republican pitched herself as a candidate who will focus on pushing the House Republican message and focus on attacking the Biden administration’s policies, while standing by former president Donald Trump’s false election claims."
-publishedDateTime: 2021-05-14T21:19:00Z
-originalUrl: "https://www.washingtonpost.com/politics/stefanik-trump-cheney/2021/05/13/d62dc096-b421-11eb-ab43-bebddc5a0f65_story.html"
-webUrl: "https://www.washingtonpost.com/politics/stefanik-trump-cheney/2021/05/13/d62dc096-b421-11eb-ab43-bebddc5a0f65_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/stefanik-trump-cheney/2021/05/13/d62dc096-b421-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/stefanik-trump-cheney/2021/05/13/d62dc096-b421-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
+title: "Biden rescinds Trump-era health insurance requirement for new immigrants"
+excerpt: "U.S. President Joe Biden on Friday revoked a 2019 proclamation by former President Donald Trump that sought to bar the entry of immigrants who could not prove they had health insurance or could cover healthcare costs."
+publishedDateTime: 2021-05-14T22:14:00Z
+originalUrl: "https://www.reuters.com/article/usa-immigration-biden/update-2-biden-rescinds-trump-era-health-insurance-requirement-for-new-immigrants-idUSL1N2N12NH"
+webUrl: "https://www.reuters.com/article/usa-immigration-biden/update-2-biden-rescinds-trump-era-health-insurance-requirement-for-new-immigrants-idUSL1N2N12NH"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CV2K7"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CV2K7"
 type: article
-quality: 122
+quality: 139
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TNNQUXFUZEI6XPEW7X2V3ZB354.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210514&t=2&i=1562182032&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4D1D5"
+    width: 818
+    height: 545
     isCached: true
 
 related:
@@ -108,22 +108,6 @@ related:
     quality: 140
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210514&t=2&i=1562174593&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4D1AB"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Biden rescinds Trump-era health insurance requirement for new immigrants"
-    excerpt: "U.S. President Joe Biden on Friday revoked a 2019 proclamation by former President Donald Trump that sought to bar the entry of immigrants who could not prove they had health insurance or could cover healthcare costs."
-    publishedDateTime: 2021-05-14T22:14:00Z
-    webUrl: "https://www.reuters.com/article/usa-immigration-biden/update-2-biden-rescinds-trump-era-health-insurance-requirement-for-new-immigrants-idUSL1N2N12NH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CV2K7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CV2K7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 139
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210514&t=2&i=1562182032&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4D1D5"
         width: 818
         height: 545
         isCached: true
@@ -495,6 +479,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "House GOP tries to look forward with elevation of Stefanik, but Trump election falsehoods will remain issue"
+    excerpt: "The New York Republican pitched herself as a candidate who will focus on pushing the House Republican message and focus on attacking the Biden administration’s policies, while standing by former president Donald Trump’s false election claims."
+    publishedDateTime: 2021-05-14T21:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/stefanik-trump-cheney/2021/05/13/d62dc096-b421-11eb-ab43-bebddc5a0f65_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/stefanik-trump-cheney/2021/05/13/d62dc096-b421-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/stefanik-trump-cheney/2021/05/13/d62dc096-b421-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TNNQUXFUZEI6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden’s IRS Blocks Developer Push to Expand a Trump Tax Break"
     excerpt: "President Joe Biden’s administration is shutting down attempts by developers to use new Census Bureau maps to claim generous tax breaks enacted by Donald Trump."
     publishedDateTime: 2021-05-14T18:55:00Z
@@ -791,6 +791,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "02Yc3F6DlUsBACIsGE6jBoqd3d8h1n3v5NusYUtA0WJ/QRxczBvvZ4+qXK3JKMb8FNw7DhJYjAcQW0oWZFQmLzCkI8Js/wQ1bzJ0uGIomC3Ye1vSk6996DwYowSRe6SrpmCEExR6GUxUMxwvsV2TmmTxi8Sg/SdjJn5pszzRGh4h5wIiwBzO2ju0GQdiNh7ItqawHkt37ynEU20LVSZ8wQSSwoVXndEwVeCQM1yGPFQCS+QH4BrrOLKYtQTcWoCusk7bC1oEclG9I4ohJriaKSFJ9l+5UIHyGThfjAsVlUI8zByZdNw53bi8Bpq3ATckQVITnjM3XQxYeJ9945wb5VDHmg7Ebgpzc31/K24dVVBhmv3Zo+yG+6MvC0KAVZvobhf6SAoKFS5zqoviZUC2YisTX9yvPFVvkg5VvTBMFTFjU03w8RELjMrOVEB7F3smn+oVoijMQ+ahpIadFskB5b34sSfwKczPnUqdaK8uvAV4cxBynm8KJgkeoGA5NKkfU21X5dJtOEsWpQH42bv7Jg==;drRcrnld+mMy/Dw4OXTjqA=="
+secured: "xuYPNq6HRMjXzjlIcsnrPc79a88NNpx7B9sUUfQ5sOfVXw2HDNscNsb6TTZkDVJAQVM56EX+R+gIdThGXuxCV0Z29wdwCVM7RTINogO+qW+9gsMf8bHmu2kSiqxK5yYTNlWX+KMc+kKUyimr02caTj96HFJuIpCFFqif6cH0Qsc4xbD5yuNghjMLh93eFli7wab79y2B0AF/v1pxMaKiZrQDNMrcH9TmtAg4OI25kUXmAhzRbWw4/RkzjOOvkvDZ6i8buudmZVOU7BZ82V2bJgDJpUVEm9zcxA2cJQ/6LZk0TGG0S8Bfz8iCYCzQYlGJ6aOk8UmbZSJerG2edfbISmqdy9KgEywHhHrGW5lGbDQ=;HggRsqnLjKxnDeTZwdZj6A=="
 ---
 

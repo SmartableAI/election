@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-10-biden-approval-rating-thumbs-up-overall-but-thumbs-down-on-immigration-poll.md",
+      "title": "Biden approval rating: Thumbs up overall, but thumbs down on immigration: poll",
+      "excerpt": "A new national poll indicates that most Americans approve of the overall job President Biden is doing in the White House. But, according to AP-NORC survey released Monday, the president’s numbers are mixed on gun violence and underwater on immigration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp",
+      "publishedDateTime": "2021-05-10T12:15:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-hogan-criticizes-gop-as-a-circular-firing-squad-that-had-worst-four-years-under-trump.md",
       "title": "Hogan criticizes GOP as a 'circular firing squad' that had 'worst four years' under Trump",
       "excerpt": "Republican Maryland Gov. Larry Hogan on Sunday lambasted the GOP as a \"circular firing squad\" attacking each other and said the party experienced \"the worst four years\" under former President Donald Trump.\n    \n",
@@ -1303,63 +1359,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-ohio-gop-censures-representative-anthony-gonzalez-for-not-supporting-trump.md",
-      "title": "Ohio G.O.P. censures Representative Anthony Gonzalez for not supporting Trump.",
-      "excerpt": "They are also calling for Mr. Gonzalez to resign for being one of 10 Republican House members who voted to impeach Donald J. Trump after the Jan. 6 riot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/07/us/07new-wash-gonzalez/07new-wash-gonzalez-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/07/us/trump-anthony-gonzalez-gop-censure.amp.html",
-      "publishedDateTime": "2021-05-07T14:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],
