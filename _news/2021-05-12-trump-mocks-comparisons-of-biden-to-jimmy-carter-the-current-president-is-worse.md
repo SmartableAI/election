@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-refutes-comparison-of-carter-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp"
 type: article
 quality: 185
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a4dd761-73cd-4ab5-b8ba-68c66060f1ba/ecb9432b-0faa-4fe7-872e-9b213feb4d61/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden scraps Trump Garden of Heroes honoring Kobe, Trebek, Bader Ginsburg"
+    excerpt: "President Joe Biden has revoked a trio of executive orders issued by former President Donald Trump that sought to punish vandalism of statues and to build a new National Garden of American Heroes. A July 2020 order envisioned a National Garden of American Heroes that “should be located on a site of natural beauty that enables visitors to enjoy nature,"
+    publishedDateTime: 2021-05-14T21:49:00Z
+    webUrl: "https://nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/"
+    ampWebUrl: "https://nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 149
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/biden-tump-split.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "'Really scary' to see gas shortages in first months of Biden admin: Lara Trump"
     excerpt: "Fox News contributor Lara Trump sounded the alarm on America's energy independence under the Biden administration, Wednesday, telling \"Fox & Friends\" that the Colonial Pipeline cyberattack and resulting panic at the pump is \"really scary."

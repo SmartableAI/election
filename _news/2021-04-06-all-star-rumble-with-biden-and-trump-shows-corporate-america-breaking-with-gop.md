@@ -497,7 +497,7 @@ related:
   - title: "Biden Revokes Several Executive Actions Taken by Trump"
     excerpt: "The president’s proclamations rescind orders concerning a healthcare requirement for green-card applicants, the protection of U.S. monuments and legal protections for online platforms."
     publishedDateTime: 2021-05-14T21:50:00Z
-    webUrl: "https://www.wsj.com/articles/biden-revokes-several-executive-actions-taken-by-trump-11621032637?mod=politics_lead_pos6"
+    webUrl: "https://www.wsj.com/articles/biden-revokes-several-executive-actions-taken-by-trump-11621032637"
     ampWebUrl: "https://www.wsj.com/amp/articles/biden-revokes-several-executive-actions-taken-by-trump-11621032637"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-revokes-several-executive-actions-taken-by-trump-11621032637"
     type: article

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-first-virtual-vis
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp"
 type: article
 quality: 175
-heat: 695
+heat: 715
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Neera Tanden joins Biden WH as adviser after OMB nomination pulled"
+    excerpt: "Neera Tanden is a member of the Biden administration after all, according to reports."
+    publishedDateTime: 2021-05-15T04:43:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J47kSlIdZtQ/neera-tanden-joins-biden-wh-as-adviser-after-omb-nomination-pulled"
+    ampWebUrl: "https://www.foxnews.com/politics/neera-tanden-joins-biden-wh-as-adviser-after-omb-nomination-pulled.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/neera-tanden-joins-biden-wh-as-adviser-after-omb-nomination-pulled.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/741fc8a7-a423-4c76-a18a-6c409ccbda4e/9a58cddf-753e-4d08-834a-211625a6cc82/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

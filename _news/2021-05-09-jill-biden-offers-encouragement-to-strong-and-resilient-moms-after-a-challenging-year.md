@@ -111,6 +111,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden hires Neera Tanden into the White House"
+    excerpt: "Tanden was the only Biden Cabinet pick whose nomination faced insurmountable opposition in the Senate. Now the president is hiring her as a senior adviser."
+    publishedDateTime: 2021-05-15T04:56:00Z
+    webUrl: "https://www.washingtonpost.com/politics/neera-tanden-biden/2021/05/14/21928e88-b4f2-11eb-9059-d8176b9e3798_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/neera-tanden-biden/2021/05/14/21928e88-b4f2-11eb-9059-d8176b9e3798_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/neera-tanden-biden/2021/05/14/21928e88-b4f2-11eb-9059-d8176b9e3798_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VBILSRBUCAI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden is spending a huge amount of time at church so far during his presidency"
     excerpt: "The second Catholic US president has attended church services at least 15 times since his inauguration. Observers say Biden appears at home there."
     publishedDateTime: 2021-05-11T08:01:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Biden Revokes Several Executive Actions Taken by Trump"
 excerpt: "The president’s proclamations rescind orders concerning a healthcare requirement for green-card applicants, the protection of U.S. monuments and legal protections for online platforms."
 publishedDateTime: 2021-05-14T21:50:00Z
-originalUrl: "https://www.wsj.com/articles/biden-revokes-several-executive-actions-taken-by-trump-11621032637?mod=politics_lead_pos6"
-webUrl: "https://www.wsj.com/articles/biden-revokes-several-executive-actions-taken-by-trump-11621032637?mod=politics_lead_pos6"
+originalUrl: "https://www.wsj.com/articles/biden-revokes-several-executive-actions-taken-by-trump-11621032637"
+webUrl: "https://www.wsj.com/articles/biden-revokes-several-executive-actions-taken-by-trump-11621032637"
 ampWebUrl: "https://www.wsj.com/amp/articles/biden-revokes-several-executive-actions-taken-by-trump-11621032637"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-revokes-several-executive-actions-taken-by-trump-11621032637"
 type: article
@@ -1040,6 +1040,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "XL0SmYlhURjZy54JTFVygOHwab2bv3dJd22EjpokfPcjKdZzH6tmd218JdxJNd4JFUqoiTGcGIPRHgHu6TgivfB93e9c10//TdUFv7wj9PgZdr0YY1GNN5HNPgwHplRSJxpYFGdk34YolxRPAwdTdI23h48FCcoYdfJG2PF8KvRNFlCZs+x+CpixllLSO11qbqx4T5RX1a2YOyaCW5I0tDcX3IVwcPH+E7KPfhhrzo+n9vIbXF+WrziLHvqSpO052gczHEDqvHf5SDiMA6ra/ytoXUubUALlwAE0cSXbHhg15WZdjAnzmXKsDBS0qve8aXutMoVUnJFTUX9jDbEZK7qO1eRJXDArnEcUmj+bGn4iSip50AB+VqquTUtIYQw0gWGnuXsf/ZbF/KQ0TfJBzoEUZxzq2efSvCjlwCMxcoj2oeLPfkZhmbiK45qzDbwcrrE2A4rn/pGWdiJ9xgnt9peC8Cc4Ahfe0BGCX1vhkK9lTiKpMqLsB59gB4XWo9S13HfgvWfZDQWTj0V9RP4TZA==;bX98Ltgoxo134HD1jCrAxw=="
+secured: "E0mh5A25DIKRb8AQkI7+6KaErmAvW8ihGd8qLMaTCcXk2hRdUoeiEKrg85F6iQ/8Z8GD0UEqNFa8Iso7stG/+OCjgI4DEaHFyPyJ6EM/ZG3uy+QJAOellF2ch0fWMjtgl3/w0l+9equTE1rWF/ZGvJRitBS/A6VD85PUtBLp4sFAPeJUYl8lkNG5GNKFGYEi0jW38bp/EhEumDYjEcYFDL3LTri5Mlgup48tPYUmcK3HDtPx0I3VxrIzQPvohj/2v5u2SmGDm06GR3mft5VpS/j5Ra3Phk5KzgtJNNZkBrjlBcvNizpAlihrZG71K7hQ7gzu0e+JY77M4pDr0V7wSfz5/EhIztgaavl7QzX3rW0=;wbWsX+wlJww5bU1GASrN3Q=="
 ---
 

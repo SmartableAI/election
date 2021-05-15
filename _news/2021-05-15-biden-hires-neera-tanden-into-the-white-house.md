@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Drugmakers say Biden misguided over vaccine patent waiver"
-excerpt: "Drugmakers on Thursday said U.S. President Joe Biden's support for waiving patents of COVID-19 vaccines could disrupt a fragile supply chain and that rich countries should instead share more generously with the developing world."
-publishedDateTime: 2021-05-06T14:13:00Z
-originalUrl: "https://www.reuters.com/article/legal-us-health-coronavirus-waiver-ifpma-idUSKBN2CN1ME"
-webUrl: "https://www.reuters.com/article/legal-us-health-coronavirus-waiver-ifpma-idUSKBN2CN1ME"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CN1ME"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CN1ME"
+title: "Biden hires Neera Tanden into the White House"
+excerpt: "Tanden was the only Biden Cabinet pick whose nomination faced insurmountable opposition in the Senate. Now the president is hiring her as a senior adviser."
+publishedDateTime: 2021-05-15T04:56:00Z
+originalUrl: "https://www.washingtonpost.com/politics/neera-tanden-biden/2021/05/14/21928e88-b4f2-11eb-9059-d8176b9e3798_story.html"
+webUrl: "https://www.washingtonpost.com/politics/neera-tanden-biden/2021/05/14/21928e88-b4f2-11eb-9059-d8176b9e3798_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/neera-tanden-biden/2021/05/14/21928e88-b4f2-11eb-9059-d8176b9e3798_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/neera-tanden-biden/2021/05/14/21928e88-b4f2-11eb-9059-d8176b9e3798_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210506&t=2&i=1561155795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH450TX"
-    width: 818
-    height: 545
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VBILSRBUCAI6XFUZADJRD4J5FU.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/jennercaitlyn_california_020520getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Drugmakers say Biden misguided over vaccine patent waiver"
+    excerpt: "Drugmakers on Thursday said U.S. President Joe Biden's support for waiving patents of COVID-19 vaccines could disrupt a fragile supply chain and that rich countries should instead share more generously with the developing world."
+    publishedDateTime: 2021-05-06T14:13:00Z
+    webUrl: "https://www.reuters.com/article/legal-us-health-coronavirus-waiver-ifpma-idUSKBN2CN1ME"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CN1ME"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CN1ME"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210506&t=2&i=1561155795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH450TX"
+        width: 818
+        height: 545
         isCached: true
   - title: "Biden says he's confident he will be able to meet Putin soon"
     excerpt: "U.S. President Joe Biden on Friday said he expects to be able to meet with Russian President Vladimir Putin soon, adding that the time and place for their encounter are still being worked out."
@@ -94,22 +110,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1796191/joe-biden-removes-face-mask.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Biden hires Neera Tanden into the White House"
-    excerpt: "Tanden was the only Biden Cabinet pick whose nomination faced insurmountable opposition in the Senate. Now the president is hiring her as a senior adviser."
-    publishedDateTime: 2021-05-15T04:56:00Z
-    webUrl: "https://www.washingtonpost.com/politics/neera-tanden-biden/2021/05/14/21928e88-b4f2-11eb-9059-d8176b9e3798_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/neera-tanden-biden/2021/05/14/21928e88-b4f2-11eb-9059-d8176b9e3798_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/neera-tanden-biden/2021/05/14/21928e88-b4f2-11eb-9059-d8176b9e3798_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VBILSRBUCAI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Jill Biden offers encouragement to 'strong and resilient' moms after a 'challenging' year"
     excerpt: "First lady Jill Biden honored the role \"strong and resilient\" mothers play in taking care of their families after a \"challenging\" year of COVID-19."
@@ -270,6 +270,6 @@ related:
         height: 478
         isCached: true
 
-secured: "QT5qBy9CS/OHWCgeTIwmgRssgGFghwkMmEK4D4nz7z7Av6xyHNP9rIXFLDIBXnFmAmf1oSp50yP7xkJYgHHJcFSERpwLzzPzzDjBL58NdGv239NFnjK/VkuOyYbWOTnRf6+Jf3Ga8QfV0hQgMWJaBTxfVD3c8ghhxsrRLlsYsmR9C5r2edwcyZacQT29fvfEqwROIQOQCqog7ll/oY6K4Ss2EIpzS9D8ZR3rF07PokBUO5eNS16UyvZsnPPwMkL3lhA6dFBgn/ubo5/jV0Bt1Pzb0dS0/5FI1CTq0VfE0liCK/XUlQynVGRlXr+8dGRHeuGcw1GJIKGtjSo9JPMkNptqNKS52CzN/FryLZhk8VM=;6HnreJgOS/wVMdaytJK3tQ=="
+secured: "Qi6cZyKP4FaT3dhjDjSdoGCY/CRQEXsrvP71zNhf7dA4N/aEE+r9SCGxHc76SkhwP1ubYk7JfP9PJHnf4D5IIbqy+PpXsrZf9vEVdCTD1vrdys2Hx9w2SwtjoQuB9FKTb8pnJesqPGk1tg+CRUFXIx+JU2wcmA+yb21HFvJLqHc7j40FsQCg1bEgkiyF9iLtWLdbQVN/mLLHEULVrwntrBAUvbd3MgNIDhGMSXrHIyN1jhFe0fFcFf3z+KlLKKMiGq6Ldcl7jzeTaY4KmaJUSRSb0pt4JjfSOkeMjJ20uNiWN1UcC90J7h1+Z9GeRupjkXo+PHMF/r1oXl7Pm9V7GSZdVmZohcS5zY50OjHvMec=;eSABPQuoMB2mFkqdXP02tw=="
 ---
 

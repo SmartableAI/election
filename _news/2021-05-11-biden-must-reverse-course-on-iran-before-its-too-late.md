@@ -60,6 +60,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Neera Tanden joins Biden WH as adviser after OMB nomination pulled"
+    excerpt: "Neera Tanden is a member of the Biden administration after all, according to reports."
+    publishedDateTime: 2021-05-15T04:43:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J47kSlIdZtQ/neera-tanden-joins-biden-wh-as-adviser-after-omb-nomination-pulled"
+    ampWebUrl: "https://www.foxnews.com/politics/neera-tanden-joins-biden-wh-as-adviser-after-omb-nomination-pulled.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/neera-tanden-joins-biden-wh-as-adviser-after-omb-nomination-pulled.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/741fc8a7-a423-4c76-a18a-6c409ccbda4e/9a58cddf-753e-4d08-834a-211625a6cc82/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Jen Psaki insists new guidance on mask-wearing comes from CDC, not Biden"
     excerpt: "White House Press Secretary Jen Psaki on Friday insisted that the new federal guidance on masks came from the Centers for Disease Control and Prevention, in a back-and-forth with Fox News White House correspondent Peter Doocy during a briefing."
     publishedDateTime: 2021-05-14T17:49:09Z

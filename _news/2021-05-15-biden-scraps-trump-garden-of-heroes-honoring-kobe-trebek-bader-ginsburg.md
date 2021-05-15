@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump likens Biden to Carter, citing gas crisis and Israel-Palestinian conflict"
-excerpt: "Former President Donald Trump is comparing President Biden to Former President Jimmy Carter due to the recent gas shortage and tensions between Israel and Palestine."
-publishedDateTime: 2021-05-12T21:20:00Z
-originalUrl: "https://nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/"
-webUrl: "https://nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/"
-ampWebUrl: "https://nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/amp/"
+title: "Biden scraps Trump Garden of Heroes honoring Kobe, Trebek, Bader Ginsburg"
+excerpt: "President Joe Biden has revoked a trio of executive orders issued by former President Donald Trump that sought to punish vandalism of statues and to build a new National Garden of American Heroes. A July 2020 order envisioned a National Garden of American Heroes that “should be located on a site of natural beauty that enables visitors to enjoy nature,"
+publishedDateTime: 2021-05-14T21:49:00Z
+originalUrl: "https://nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/"
+webUrl: "https://nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/"
+ampWebUrl: "https://nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/amp/"
 type: article
-quality: 146
+quality: 149
 heat: -1
 published: false
 
@@ -22,7 +22,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-carter-biden.jpg?quality=90&strip=all&w=1200"
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/biden-tump-split.jpg?quality=90&strip=all&w=1200"
     width: 1200
     height: 800
     isCached: true
@@ -76,22 +76,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden scraps Trump Garden of Heroes honoring Kobe, Trebek, Bader Ginsburg"
-    excerpt: "President Joe Biden has revoked a trio of executive orders issued by former President Donald Trump that sought to punish vandalism of statues and to build a new National Garden of American Heroes. A July 2020 order envisioned a National Garden of American Heroes that “should be located on a site of natural beauty that enables visitors to enjoy nature,"
-    publishedDateTime: 2021-05-14T21:49:00Z
-    webUrl: "https://nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/"
-    ampWebUrl: "https://nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 149
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/biden-tump-split.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "'Really scary' to see gas shortages in first months of Biden admin: Lara Trump"
     excerpt: "Fox News contributor Lara Trump sounded the alarm on America's energy independence under the Biden administration, Wednesday, telling \"Fox & Friends\" that the Colonial Pipeline cyberattack and resulting panic at the pump is \"really scary."
     publishedDateTime: 2021-05-12T15:14:00Z
@@ -107,6 +91,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump likens Biden to Carter, citing gas crisis and Israel-Palestinian conflict"
+    excerpt: "Former President Donald Trump is comparing President Biden to Former President Jimmy Carter due to the recent gas shortage and tensions between Israel and Palestine."
+    publishedDateTime: 2021-05-12T21:20:00Z
+    webUrl: "https://nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/"
+    ampWebUrl: "https://nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-carter-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Memorial Day: Biden faces growing pressure to let veterans use Pentagon parking lot for event"
     excerpt: "Fla., and more than 30 other Republican members of Congress are pressuring President Biden to override the Pentagon's decision to block a veterans group from staging a Memorial Day motorcycle rally in the Pentagon parking lot."
@@ -258,6 +258,6 @@ related:
       domain: washingtonexaminer.com
     quality: 63
 
-secured: "9md8IIivJuSPJxCohpdIQg91GB2fpk5O5HiH7+ufeyBxhxSwe9CvJIZ/GAWWtZEv3WpmPE3eJAMqv9NKqb2KkalmvAVRlEOPlt5JxqPygMamMJsSbsOYPPtOlgWywHUb2lwoD6yksOJr+VQLnHWIQF9gjjMXZ51WEXou8gpETQ8Bh74+LMYaIIlikdtz5WcJ/noXAZzsrAKAQp1MbmvbGFM5SDZq8HXUxVBLzS+rOey1OdEcWjbuqE37ugUcb43lZCaxQXwFRpx7RQ9ZJg5r9RZlO4M5sa7WS3aits1HdixOEzUkOYAEE422YVXxwMKXu79o34QaiQEdhNR6hsqtvsvOD/5i4Bg6UBl1ljrY70E=;YhjQqmFpB2I3V+JvrkP75w=="
+secured: "vPNaw1/Hw+EG4W8k82/jsDmj63sIvvMPaBZg6f5EaqRbfBR3yTYpi8JJLM0l4+bIdwfVVj0cbva4Z9QM2NasDAGw1Ztt4lnZ4gAmVVA4GC2vgdO0WmDfZd/9FT8qgbPwAzsLc94XCqU1MKjr7WGnuMYKyY1euE3ziKx1lfnLQvhSqpZjBxFt8PRtLPb7/Am7jpiW++bgJwEql9cOuKz7g4401e/GC9IheWTR8nsHw2Y6LnWgqu5MUT8h7LGxXcbrELY3237x8dwvuB34Kg0zmv7dTIfxOvRz9vt4175EnCiaduxGR7yGD2oLL2LH3XY+whcYsKp9RXEAtxhYeLeL4ebEVWbS6emMgmaw8d+3h6Y=;5O0MPmYoh4A1jSg/Qw+SWg=="
 ---
 
