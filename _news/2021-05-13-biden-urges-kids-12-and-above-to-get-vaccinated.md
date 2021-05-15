@@ -112,9 +112,9 @@ related:
   - title: "Biden rescinds Trump-era health insurance requirement for new immigrants"
     excerpt: "U.S. President Joe Biden on Friday revoked a 2019 proclamation by former President Donald Trump that sought to bar the entry of immigrants who could not prove they had health insurance or could cover healthcare costs."
     publishedDateTime: 2021-05-14T22:14:00Z
-    webUrl: "https://www.reuters.com/article/usa-immigration-biden/update-2-biden-rescinds-trump-era-health-insurance-requirement-for-new-immigrants-idUSL1N2N12NH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CV2K7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CV2K7"
+    webUrl: "https://www.reuters.com/article/us-usa-immigration-biden/biden-rescinds-trump-era-health-insurance-requirement-for-new-immigrants-idUSKBN2CV2DK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CV2DK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CV2DK"
     type: article
     provider:
       name: Reuters
@@ -788,6 +788,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Georgia GOP Still Seeking a Fight Over Trump Election Loss"
+    excerpt: "Republican congressional district conventions Saturday showed Georgia activists still consumed by the unproven belief that Donald Trump had been unfairly cheated out of the 2020 presidential election."
+    publishedDateTime: 2021-05-15T20:49:00Z
+    webUrl: "https://www.usnews.com/news/best-states/georgia/articles/2021-05-15/georgia-gop-still-seeking-a-fight-over-trump-election-loss"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
   - title: "From The Desk Of Donald J. Trump"
     excerpt: "Trump Launches Sad Twitter Just for HimTrump debuted a new page on his website that he’s calling “a beacon of freedom,” but it’s basically just a social-media network for one."
     publishedDateTime: 2021-05-04T23:14:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/13/biden-work-
 webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/13/biden-work-progress-stop-mideast-clashes/5076433001/"
 type: article
 quality: 105
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "At least 15 Republican-led states ending increased unemployment benefits as President Biden says people must take \"suitable work\""
-    excerpt: "A growing number of GOP governors have said they will end increased unemployment insurance benefits, citing workforce shortages."
-    publishedDateTime: 2021-05-13T20:48:00Z
-    webUrl: "https://www.cbsnews.com/news/unemployment-benefits-states-end-federal-aid/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/unemployment-benefits-states-end-federal-aid/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/unemployment-benefits-states-end-federal-aid/"
+  - title: "Biden speaks with Netanyahu, Abbas as Mideast conflict escalates"
+    excerpt: "Biden shared with Netanyahu 'strong support' for self-defense but 'grave concerns' about the situation in the West Bank"
+    publishedDateTime: 2021-05-15T19:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/15/biden-speaks-netanyahu-abbas-mideast-conflict-escalates/5110968001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5110968001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5110968001"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 96
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/08/2ff7afae-77a6-419f-a3e1-1a9c5e039087/thumbnail/1200x630/7158e56014971c41de1a8fe73543f37a/cbsn-fusion-eye-opener-biden-defends-dissapointing-jobs-report-numbers-thumbnail-710791-640x360.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2021/05/15/USAT/4b58d547-975d-4418-be50-890f67ad92b5-AFP_AFP_9A29TZ.jpg?auto=webp&crop=1698,956,x0,y108&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 676
         isCached: true
 
 secured: "VTs1o5Eu80oZMh7QJ1dSR0y1R0ua18qitI8/+/VzVjeM5MVor3onQpuNiZTVc+HOe1GAPFcbJ6AGaYh+V4ewKNHG9qBYKAw/oRpOclUQES+ulUgsyOBqnIYXZh67d+4iNBG3ib8BUF8bxfeSde41xdSG4sESWzme3nAkAydQ2IXl/qn5xwbso9NFQ1t4TBV7G91LAZ8ti5ebmVcxor3RjMmvpsBbmE+Rci5fyULsFlmhpruQ+05q5c0ghm3yHlwK/kp2pAaEpmP+slYkGoUcEORLTFP6HYKluJv/MGwOunhrkBQvqwUb7gOcUTZCViCCgSQMRQz1vbNUOWqI7VlSvf4trDcao/tAmibD42GDkNlMr4WB8s6ku6c3NHpguzp3ecN3qfkdren4Oo8bHEAZKwh1zU9YEBAJqMafoVeTyWKdnphr4/Z/6yo505hQGqYle/x44mdoe+HXAcBXhsZ4EKE8RDft0nxtBwn3eHN9G7keZ1kB+eKXdIuMLKBYumUrXJnBqIo1BaUlufVF7iqjfQ==;coWwsqSl/YVfxqlHlK6HLw=="

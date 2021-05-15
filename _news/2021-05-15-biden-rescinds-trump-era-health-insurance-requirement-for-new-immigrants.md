@@ -3,10 +3,10 @@ category: news
 title: "Biden rescinds Trump-era health insurance requirement for new immigrants"
 excerpt: "U.S. President Joe Biden on Friday revoked a 2019 proclamation by former President Donald Trump that sought to bar the entry of immigrants who could not prove they had health insurance or could cover healthcare costs."
 publishedDateTime: 2021-05-14T22:14:00Z
-originalUrl: "https://www.reuters.com/article/usa-immigration-biden/update-2-biden-rescinds-trump-era-health-insurance-requirement-for-new-immigrants-idUSL1N2N12NH"
-webUrl: "https://www.reuters.com/article/usa-immigration-biden/update-2-biden-rescinds-trump-era-health-insurance-requirement-for-new-immigrants-idUSL1N2N12NH"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CV2K7"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CV2K7"
+originalUrl: "https://www.reuters.com/article/us-usa-immigration-biden/biden-rescinds-trump-era-health-insurance-requirement-for-new-immigrants-idUSKBN2CV2DK"
+webUrl: "https://www.reuters.com/article/us-usa-immigration-biden/biden-rescinds-trump-era-health-insurance-requirement-for-new-immigrants-idUSKBN2CV2DK"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CV2DK"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CV2DK"
 type: article
 quality: 139
 heat: -1
@@ -788,6 +788,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Georgia GOP Still Seeking a Fight Over Trump Election Loss"
+    excerpt: "Republican congressional district conventions Saturday showed Georgia activists still consumed by the unproven belief that Donald Trump had been unfairly cheated out of the 2020 presidential election."
+    publishedDateTime: 2021-05-15T20:49:00Z
+    webUrl: "https://www.usnews.com/news/best-states/georgia/articles/2021-05-15/georgia-gop-still-seeking-a-fight-over-trump-election-loss"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
   - title: "From The Desk Of Donald J. Trump"
     excerpt: "Trump Launches Sad Twitter Just for HimTrump debuted a new page on his website that he’s calling “a beacon of freedom,” but it’s basically just a social-media network for one."
     publishedDateTime: 2021-05-04T23:14:00Z
@@ -807,6 +816,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "xuYPNq6HRMjXzjlIcsnrPc79a88NNpx7B9sUUfQ5sOfVXw2HDNscNsb6TTZkDVJAQVM56EX+R+gIdThGXuxCV0Z29wdwCVM7RTINogO+qW+9gsMf8bHmu2kSiqxK5yYTNlWX+KMc+kKUyimr02caTj96HFJuIpCFFqif6cH0Qsc4xbD5yuNghjMLh93eFli7wab79y2B0AF/v1pxMaKiZrQDNMrcH9TmtAg4OI25kUXmAhzRbWw4/RkzjOOvkvDZ6i8buudmZVOU7BZ82V2bJgDJpUVEm9zcxA2cJQ/6LZk0TGG0S8Bfz8iCYCzQYlGJ6aOk8UmbZSJerG2edfbISmqdy9KgEywHhHrGW5lGbDQ=;HggRsqnLjKxnDeTZwdZj6A=="
+secured: "haC3VJvwqvlAace6BHuzzMCZTpUUwg2KFp184XdbAkgBB+tN7T/KScyOyjyZO7vxNNiK0+eNGM1aPccggAoO5839NYkNH6Fmbm1TVUMrgWvTo0VbNXnu6sCVbe0o/RaRG03jFEO7G4/VIouH8cL8KkjrVgHHxwInYXPJIeWxAta9gFhSpqDrUq+/WiMRXOecbjvXGOuEWy5mBgIq6eyXIvVW8h+c18SCzkSHKQ8bh8dgxNSdv9h1Kjp+/0AVj+CTYaKOCNfJmdqFti5PuWiOujWvCwRfKinQ/3Wr7tI3S9IxjyGxYU5MPRga7pytBwVA7h1C476Hh2YfauIrCN2tRQPn9Wdb/JsoZa8M47lT2WA=;RscAUi9iwA1dvR/45SZd+w=="
 ---
 

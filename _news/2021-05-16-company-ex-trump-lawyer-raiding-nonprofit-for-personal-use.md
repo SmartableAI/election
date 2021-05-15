@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Dump Trump? Kicking him off NYC golf course may not be easy"
-excerpt: "Donald Trump has a rich history of fighting back when he’s down and making others pay, and that’s exactly how he intends to deal with New York City over its plans to fire his company from running a ci"
-publishedDateTime: 2021-05-14T14:17:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371"
-webUrl: "https://abcnews.go.com/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371"
+title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
+excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
+publishedDateTime: 2021-05-15T20:30:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77713730"
+webUrl: "https://abcnews.go.com/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77713730"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77713730"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77713730"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Sports/WireAP_3640cc63671a47ac969bb32cb955072c_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/Politics/WireAP_e8f3be20437144588b960af4450c52db_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
@@ -65,6 +65,22 @@ related:
         isCached: true
   - title: "Dump Trump? Kicking him off NYC golf course may not be easy"
     excerpt: "Donald Trump has a rich history of fighting back when he’s down and making others pay, and that’s exactly how he intends to deal with New York City over its plans to fire his company from running a ci"
+    publishedDateTime: 2021-05-14T14:17:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Sports/WireAP_3640cc63671a47ac969bb32cb955072c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Dump Trump? Kicking him off NYC golf course may not be easy"
+    excerpt: "Donald Trump has a rich history of fighting back when he’s down and making others pay, and that’s exactly how he intends to deal with New York City over its plans to fire his company from running a ci"
     publishedDateTime: 2021-05-14T17:32:00Z
     webUrl: "https://www.washingtonpost.com/politics/dump-trump-kicking-him-off-nyc-golf-course-may-not-be-easy/2021/05/14/d4c5009c-b4b8-11eb-bc96-fdf55de43bef_story.html"
     ampWebUrl: "https://www.washingtonpost.com/politics/dump-trump-kicking-him-off-nyc-golf-course-may-not-be-easy/2021/05/14/d4c5009c-b4b8-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
@@ -78,22 +94,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MHP74WVUWQI6XPEW7X2V3ZB354.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
-    excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
-    publishedDateTime: 2021-05-15T20:30:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77713730"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77713730"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77713730"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e8f3be20437144588b960af4450c52db_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Families separated by Trump receive therapy, but funds could dry up soon"
     excerpt: "After Trump separated children from their families, they've gotten crucial therapy, paid for by the government. But the future of those services is up in the air."
@@ -185,6 +185,6 @@ related:
         height: 1301
         isCached: true
 
-secured: "v36jdSbEr2tCF7eYf5AX7IPMGoIuy/6NPmE0iZuDzKJdYc2KblGgk3jIIBT4dDsS/yi5LZIdkdFHb4A2aCXfVIuQMG5LezxMH/IXfSA7hCCjAHslMrR96GAdrca88DGZWHDpTz+nuIN835Ts7HbiiPj24C824qmirKOosWjPWeaUvpbHOUz03MtiXR7uRClYy13M3zgdqfAvCFpct+7Gfqk/P+3A8aLrfK2esci5WPKUed27jRYy55+Q9KVddu0QQSMjPy0PeDtJf5ZJ1J2wxCa4SSGFT78O2B3c8WZ+xuEpQ7qkeBn1bnWljStiF1QGjfAPsWbX516/eKsFOxv4vsB/cs/Wh7+m6poiuCE8RHk=;SAwpLrXjriLgL7WIGSOiaA=="
+secured: "rIfjd5dbsFKRP3kKQMAcofRshQ4kWRykDiEfRLzVhGtDGi181RoeJ36aZpm0FH454lD1nzKbAPRH0MZJlbF1JQ1DGk+z1WURfDSHfjwh+++5wC2XX7IIJAO2RFUFgknOMXLc+Vg5zLXTH3vfu+r2mq3VYKMymHhRXKY4iin7v6oFKVsaYZgy3as1Hf7vFC+zSi9NPrpmq0Ihb3zw7kAoCz0Kjf3/RLYzXMEOaYyjxqUJAFcOQQeLLWAa9Rgkuyq56NIM0HE+Ub4pcwgH0LGmBZcaXGnNxnzRtCWV7cermMU9YKJ5g7lToJkA7Tv9fYy3nu7k5FFLzMw8wSnASJkLOBQqaGPPX4HpOsuwvF8HXeg=;N+N6utRQhTe9SI5aHz8uJg=="
 ---
 

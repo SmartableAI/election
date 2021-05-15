@@ -2,21 +2,25 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-05-14-biden-work-in-progress-to-stop-mideast-clashes.md",
-      "title": "Biden: 'Work in progress' to stop Mideast clashes",
-      "excerpt": "President Joe Biden says his administration has not just spoke with Israeli leaders as fighting between Hamas and Israel escalates even amid truce efforts. Biden says \"there has not been a significant overreaction\" from Israel.",
+      "path": "_news/2021-05-14-activists-and-ex-spy-said-to-have-plotted-to-discredit-trump-enemies-in-government.md",
+      "title": "Activists and Ex-Spy Said to Have Plotted to Discredit Trump ‘Enemies’ in Government",
+      "excerpt": "The campaign included planned operations against President Trump’s national security at the time, H.R. McMaster, and F.B.I. employees, according to documents and interviews.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/05/13/biden-work-progress-stop-mideast-clashes/5076433001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/05/13/biden-work-progress-stop-mideast-clashes/5076433001/",
+      "webUrl": "https://www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.html",
+      "originalUrl": "https://www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.html",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/7314b9de-e085-4233-aeae-46b6299d7801_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://static01.nyt.com/images/2021/05/13/us/politics/13dc-investigate1/13dc-investigate1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +28,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T11:01:00-07:00",
+      "ampWebUrl": "https://www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/13/us/politics/mcmaster-fbi-trump-project-veritas.amp.html",
+      "publishedDateTime": "2021-05-13T12:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "New York Times",
+        "domain": "nytimes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,7 +54,8 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -491,7 +496,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {

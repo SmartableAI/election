@@ -1,34 +1,26 @@
 ---
 category: news
-title: "House GOP set to put Trump defender Stefanik into No. 3 post"
-excerpt: "Elise Stefanik into the ranks of House leadership, with the party hoping to turn the page from its searing civil war over the deposed Rep. Liz Cheney and refocus on winning control of the chamber in next year’s elections."
-publishedDateTime: 2021-05-14T10:18:00Z
-originalUrl: "https://www.washingtonpost.com/politics/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post/2021/05/14/63d65316-b46a-11eb-bc96-fdf55de43bef_story.html"
-webUrl: "https://www.washingtonpost.com/politics/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post/2021/05/14/63d65316-b46a-11eb-bc96-fdf55de43bef_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post/2021/05/14/63d65316-b46a-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post/2021/05/14/63d65316-b46a-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+title: "Georgia GOP Still Seeking a Fight Over Trump Election Loss"
+excerpt: "Republican congressional district conventions Saturday showed Georgia activists still consumed by the unproven belief that Donald Trump had been unfairly cheated out of the 2020 presidential election."
+publishedDateTime: 2021-05-15T20:49:00Z
+originalUrl: "https://www.usnews.com/news/best-states/georgia/articles/2021-05-15/georgia-gop-still-seeking-a-fight-over-trump-election-loss"
+webUrl: "https://www.usnews.com/news/best-states/georgia/articles/2021-05-15/georgia-gop-still-seeking-a-fight-over-trump-election-loss"
 type: article
-quality: 125
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L4V4POVUNII6XPEW7X2V3ZB354.jpg&w=1440"
-    width: 1440
-    height: 994
-    isCached: true
 
 related:
   - title: "British elections send a message to Trump, GOP and Biden’s Democrats"
@@ -447,6 +439,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "House GOP set to put Trump defender Stefanik into No. 3 post"
+    excerpt: "Elise Stefanik into the ranks of House leadership, with the party hoping to turn the page from its searing civil war over the deposed Rep. Liz Cheney and refocus on winning control of the chamber in next year’s elections."
+    publishedDateTime: 2021-05-14T10:18:00Z
+    webUrl: "https://www.washingtonpost.com/politics/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post/2021/05/14/63d65316-b46a-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post/2021/05/14/63d65316-b46a-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/hoping-for-unity-gop-set-to-put-stefanik-in-top-house-post/2021/05/14/63d65316-b46a-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L4V4POVUNII6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 994
+        isCached: true
   - title: "Senate GOP to give Biden infrastructure counteroffer next week"
     excerpt: "Senate Republicans will give President Biden a revised infrastructure offer next week after a sit down at the White House on Thursday."
     publishedDateTime: 2021-05-13T20:40:00Z
@@ -788,15 +796,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Georgia GOP Still Seeking a Fight Over Trump Election Loss"
-    excerpt: "Republican congressional district conventions Saturday showed Georgia activists still consumed by the unproven belief that Donald Trump had been unfairly cheated out of the 2020 presidential election."
-    publishedDateTime: 2021-05-15T20:49:00Z
-    webUrl: "https://www.usnews.com/news/best-states/georgia/articles/2021-05-15/georgia-gop-still-seeking-a-fight-over-trump-election-loss"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 50
   - title: "From The Desk Of Donald J. Trump"
     excerpt: "Trump Launches Sad Twitter Just for HimTrump debuted a new page on his website that he’s calling “a beacon of freedom,” but it’s basically just a social-media network for one."
     publishedDateTime: 2021-05-04T23:14:00Z
@@ -816,6 +815,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "VtBif/zz9xakH1MuuCsOunbwFVL7uakyN62hE7hdtpoUeEoztT2dPBHpmkWUN+788DhhFwZlqjpCGFeDODl5U6zPm3xtBLe9Gl9MRxgHwR6VfgnWW4p14ZVqOcxVJTUKTSfs/ZgyspEYLLeqFETa85Ta/33/WtGTKSBgh/KRhbBoL+sn1OMzC6EKG852sc9wEh3QhnH1EWUb32vyhz+Pz/A8w8verzzLFkQMzELsrM2tLkuTuhM2bifQMMc03xUJcxjagGZILhaN42NMihVMdP/8zb9o9Q4dn5Lij3BvnBGScD6XG86s7eCxwg1xmK87tskOlXADCGxa2QlPVlYoumRtNBwWBGIbnUCjW3mnkeNZIPrTQy13WXSQLEAbfzK+rDwhA+EtvFpGsU2dvfrjre+kWV4FtV+5NKRjRm3IfNS4XSEQM2GgniN2g5tcyikT9sSVan25Qo1k7rTPSLqc4Jo9tV0RwceE7+UythpcmjdhhnuBb3vzUVqbYjqmBUljhgafkZktEpDg5U8beY89rw==;is/CiF4RIq72yEAdZ3zT/A=="
+secured: "efrzpJ4kYs5VD5YlOCHn+q3UAIeIylSJ738sTtL5h3bJpPL5mJtkraGoSXy0GoY2/fOvJFVdOZxr8+kYmKpFov62gqYZAwznkoNJ4tFGuOwV7R8fffC0FcpG56Y29IJvgXk2YfTY4tSthFJan1VbEbf2pUtip07cswNCdHDyBfuSaWVupjfDdCTnxloGP1uRLHHiN/qICL+sB2l1bWO3IhjK05fv/RJwh1OY85EyDeY4avSiMn6mGaaqS0giaVlCKECt8m/TE2LaVbsv13p2tM4hXrihOW0dhLfL5gYae2Ot+chJyUerhlPhwksamLquYN1uy1clQcikvF/Z4zL0KeLCaFMA6XaRFWOE9z7Z7vIdsD3AKQAcKiz+yGUvwNncu+yrngwKeWJ0uBtWzPQG9cavxo1aO5X+VQ0qJuu2YReAveqIYOGj9LhA4lJ5cCEG0w6c0ttujsU85zL41jnq0mLbEpb/17n61SsqRs6tgx7/+M5u3EkiKCdmsH45NzOOBbFFaxh2MyuU/Wu+f7nMPA==;D+MR8ll80MR6aMa+BzZn4A=="
 ---
 

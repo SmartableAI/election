@@ -112,6 +112,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden rolls back Trump order barring immigrants who can't afford health care"
+    excerpt: "President Biden revoked a Trump-era order that banned immigrants from obtaining visas who couldn’t prove they could obtain health insurance or pay for health care."
+    publishedDateTime: 2021-05-15T19:25:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 147
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Trump likens Biden to Carter, citing gas crisis and Israel-Palestinian conflict"
     excerpt: "Former President Donald Trump is comparing President Biden to Former President Jimmy Carter due to the recent gas shortage and tensions between Israel and Palestine."
     publishedDateTime: 2021-05-12T21:20:00Z

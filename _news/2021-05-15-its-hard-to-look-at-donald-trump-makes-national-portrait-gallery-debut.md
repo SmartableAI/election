@@ -95,6 +95,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
+    excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
+    publishedDateTime: 2021-05-15T20:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77713730"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77713730"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77713730"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e8f3be20437144588b960af4450c52db_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Families separated by Trump receive therapy, but funds could dry up soon"
     excerpt: "After Trump separated children from their families, they've gotten crucial therapy, paid for by the government. But the future of those services is up in the air."
     publishedDateTime: 2021-05-14T13:00:00Z

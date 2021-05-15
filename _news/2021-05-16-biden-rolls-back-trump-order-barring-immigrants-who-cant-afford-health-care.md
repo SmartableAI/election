@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Joe Biden's Four-Decade Long Romance With Iran"
-excerpt: "Biden has remained hopeful that the U.S. and Iran could find some common ground. Now might really be the last chance."
-publishedDateTime: 2021-05-09T11:46:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/05/09/joe_bidens_four-decade_long_romance_with_iran_542414.html"
-webUrl: "https://www.realclearpolitics.com/2021/05/09/joe_bidens_four-decade_long_romance_with_iran_542414.html"
+title: "Biden rolls back Trump order barring immigrants who can't afford health care"
+excerpt: "President Biden revoked a Trump-era order that banned immigrants from obtaining visas who couldn’t prove they could obtain health insurance or pay for health care."
+publishedDateTime: 2021-05-15T19:25:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care"
+webUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care"
+ampWebUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
 type: article
-quality: 65
+quality: 147
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/54/542363_5_.jpg"
-    width: 750
-    height: 500
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -106,22 +112,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Biden rolls back Trump order barring immigrants who can't afford health care"
-    excerpt: "President Biden revoked a Trump-era order that banned immigrants from obtaining visas who couldn’t prove they could obtain health insurance or pay for health care."
-    publishedDateTime: 2021-05-15T19:25:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 147
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "'Really scary' to see gas shortages in first months of Biden admin: Lara Trump"
     excerpt: "Fox News contributor Lara Trump sounded the alarm on America's energy independence under the Biden administration, Wednesday, telling \"Fox & Friends\" that the Colonial Pipeline cyberattack and resulting panic at the pump is \"really scary."
     publishedDateTime: 2021-05-12T15:14:00Z
@@ -170,6 +160,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Joe Biden's Four-Decade Long Romance With Iran"
+    excerpt: "Biden has remained hopeful that the U.S. and Iran could find some common ground. Now might really be the last chance."
+    publishedDateTime: 2021-05-09T11:46:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/09/joe_bidens_four-decade_long_romance_with_iran_542414.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/542363_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Biden's Progressive Policies Are Making Lives Better"
     excerpt: "Joe Biden's approval numbers are stunning, with 63% of Americans saying in a new poll that they approve of the job he's doing, writes Jill Filipovic. The President draws this while not making any big rhetorical waves but carefully guiding a progressive policy agenda aimed squarely at making people's lives better as quickly and efficiently as possible."
     publishedDateTime: 2021-05-12T11:35:00Z
@@ -199,6 +203,6 @@ related:
         height: 500
         isCached: true
 
-secured: "OysxG5GkSqA0SzwfXAB91F3k2ZOnPTb5Hamiz9b34vozSERysmpsuPjKoiKl6XveQgNcrDrYqh+cXwTNNmiRXEeBIMTAgt+q2kxvzB44cas3LH6nuKlUUim2xzx7Wf3XQ4V3l1vp0rSjVTs6NndX9CMsCCfZF7LyhCqESTHFTr7tVzc9MswsZlQo5EcWzgGxjOv9RjRNh+gguLLxDIGELXMjEZ//uQSQoqBkLlWRDMcdCX/IR7GL0x2DP67OCkQOTJvax+WStPM/ioJKVMNG8G2PRoiYTYcVg1Ny/eVDIGHlQKAko5sLbLnBRWqQhY8FDEQZqLjarXHlx4XnrBz0259K2deAp6vUs/e0kiP+lvE=;cUICx57B6Q932bTTWmLicA=="
+secured: "Hh00rMszlTXM4JjDaYY6Rdiwlm6X/iDX3aMh/zoi+FuEJdUIcZvWne818FaJVCVQB9tIi8ruQQlTPDrbM+yNTPAAXjhRJBAaLYiuH6NGF8aobWQJGxoxVAcu2fRKnECVDTnlUx3XoGqqsLuggdZbM8dvEJXBKOun50L4KyGPIiBteY9yx8JzytAAEGsW3fGUgAhfAZIVAQGeBPRLzergfRxPEiJxeBgFXx9A7V9fB4Q1/Qw4xX+z2l7AV+pkkQe4DR5/vEKtUPQJPJHjYUijyV+JyIiI3nCOHp5hCcbNDypQZizB4vXxWiQRSoMO/U0lDcFqh60hW4fSljkdD2aHt3pVOJSNIMKTtyCrczZowmk=;us/p4eOoPbJPUuMMnzHoQQ=="
 ---
 
