@@ -3,8 +3,8 @@ category: news
 title: "Are the Halcyon Days Over for Joe Biden?"
 excerpt: "On taking the oath of office, Jan. 20, Joe Biden may not have realized it, but history had dealt him a pair of aces. The COVID-19 pandemic had reached"
 publishedDateTime: 2021-05-14T10:44:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.amp.html"
 type: article
@@ -258,6 +258,6 @@ related:
       domain: washingtonexaminer.com
     quality: 63
 
-secured: "eIJBV2hUbaFygb11ic0KNRyxffACUhKpqnb9TxfxItOs2MLUYfk08Y6fpNek+38RgDlreJc2kZgu9T7AZaJxnyYRpkiTzfkk7oYWsI+cVYsGe1hP1u8oHqP2qEnHmr4UzHkWdGSQL0dSs1q0tK/mdIx7dYO8HPRI6LrcfaKkcf+L5Fx0j2YhtNQyZBnr3NEkX7zajcYO16LuNN6gx8IKaBemwQDrmGaHPYiHrD/h5Ia2Regsko9k7MXyT3Gn9j6oXP6m571H9PmHDpenYTsXLL/+ahEMqJ4mfbiNxUVTACGTDbj8Ld6E11P7XimzQKir6HkKU4nCGPdNwAJHTQu+KOQ8CofRk2oP/l6QJcV+7/ogbGAPTaSDiFfYNf87RewEuWXuQm/LbmsUpApxNXY5aZAQGh1e3hFBTe1pTWYcLo/KzCyptxUj+qsX7chp38ULbao1DKWxL5CZOTYILBqPvSzvnutibjPtnoqZCGA064EO/rybCJxmB1aaUaoRT/fHhgP94eo7lFVarw8042rn/g==;YdzZPo2CgHrVzzEvPTF/FQ=="
+secured: "rCM7JOXEnlF+JUHQxYawH54BbiltTi25+gfIXAXYwAxz8eAWwCaWhVuagTa6QP2hxnxF9noRq1DXOzZAq8Aym3bmdHrXQ2AsaRrTXlmAPrK9lBu4BnyDERkCck6b3113a5rvGfJDtNaQ9jsw5HZjJaNVoC4WkRE49s9TDs+E0Cm98TKOM7s3iBZSOLbt/ewHxmP3WiB/zPlV/UXSziTnjUBnAaTDUnGZjEwAtlGUD0t3PTQiOmZQ9nLJF+gVBHlPnvWF8m8jb74M+Ne3yv/cMF4ebPCe/JmKJrO/sLam63NREg9oBUb3tTQ0gn1B8zoLyblWz83w2knLFkppNQHGuWu9GpGzgVSInaCS5WBvZ7Q=;5+kM6RxmEkHXOlx0LW7T+A=="
 ---
 
