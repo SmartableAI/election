@@ -96,6 +96,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Multiple crises at home and abroad provide a reality check for Biden's White House"
+    excerpt: "President Joe Biden was at the wooded Camp David retreat in Maryland when he first heard Colonial Pipeline had been hacked.\n    \n"
+    publishedDateTime: 2021-05-15T13:01:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_cKkFHltiJA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/15/politics/biden-middle-east-masks-economy-gas-pipeline/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/15/politics/biden-middle-east-masks-economy-gas-pipeline/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210513155016-02-biden-vaccine-remarks-0513-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden touts electric car company potentially worth millions for his energy secretary"
     excerpt: "President Joe Biden and Vice President Kamala Harris' efforts to sell their green agenda and infrastructure plan are being complicated by a thorny conflict of interest for Energy Secretary Jennifer Granholm -- who stands to gain a windfall from stock options in a private electric vehicle company.\n  "
     publishedDateTime: 2021-05-06T11:34:15Z

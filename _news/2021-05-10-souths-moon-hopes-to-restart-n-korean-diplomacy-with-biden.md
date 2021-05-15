@@ -29,21 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive: Biden names new federal judges, including a Bush nominee, with an emphasis on diversity"
-    excerpt: "Biden is filling federal judgeships with an eye toward racial and professional diversity. The White House is now unveiling its next round of nominees."
-    publishedDateTime: 2021-05-12T09:01:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/12/biden-names-new-federal-judges-including-puerto-ricos-gustavo-gelpi/5035176001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5035176001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5035176001"
+  - title: "Hardliner Ebrahim Raisi to Run in Iran Election, Could Hurt Biden's Nuclear Deal Hopes"
+    excerpt: "The head of the judiciary is considered to be most likely to become Iran's next president in elections next month."
+    publishedDateTime: 2021-05-15T13:37:00Z
+    webUrl: "https://www.newsweek.com/iran-ebrahim-raisi-election-nuclear-deal-joe-biden-1591803"
+    ampWebUrl: "https://www.newsweek.com/iran-ebrahim-raisi-election-nuclear-deal-joe-biden-1591803?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/iran-ebrahim-raisi-election-nuclear-deal-joe-biden-1591803?amp=1"
     type: article
     provider:
-      name: YAHOO!News
-      domain: usatoday.com
-    quality: 111
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/11/USAT/6c42eaee-2600-428b-89af-560edd76d80f-Biden_Judges.jpg?auto=webp&crop=3626,2040,x0,y524&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d.newsweek.com/en/full/1797477/iranian-judiciary-chief-ebrahim-raisi.jpg"
+        width: 2502
+        height: 1674
+        isCached: true
+  - title: "More Than 40 Senators Write to Biden Demanding End to Iran Nuclear Talks Over Hamas Funding"
+    excerpt: "\"We call on you to immediately end negotiations with Iran, and make clear that sanctions relief will not be provided,\" a group of 43 Republican senators wrote to President Joe Biden on Wednesday."
+    publishedDateTime: 2021-05-13T01:36:00Z
+    webUrl: "https://www.newsweek.com/more-40-senators-write-biden-demanding-end-iran-nuclear-talks-over-hamas-funding-1591031"
+    ampWebUrl: "https://www.newsweek.com/more-40-senators-write-biden-demanding-end-iran-nuclear-talks-over-hamas-funding-1591031?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/more-40-senators-write-biden-demanding-end-iran-nuclear-talks-over-hamas-funding-1591031?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1794942/hamas-funding-nuclear-deal-marco-rubio.jpg"
+        width: 3000
+        height: 2001
         isCached: true
 
 secured: "fws2CYCq9VaFQ7dxH5UaCYGOZJrvgIyIr2gPvPWazEqSvGjfBIvT+8Mw/C87QncnSM17PPxUiLxWCReOO4mOe2+MSP4ynrf5wSe6NPXFhoy/07I3UZZ5bQNsdy7UDHnOIj3nPY7kPeJtlCMfoQhNlqc+uZywVkze1QmAQYWFycoVSv2i+4hk9ZlL0dSAqgV55THeCPGOeJbPwUdHwaqxeVuAjpWqaTuVLXSEg7V+uw4cqUIqlEULMFaX2QrQlQH+JAv3Vul2URg2hmrl3FhCBYqWLSQPTarODE5MnfUTZIKBHdfXJLCPINgFGRhVsQcZudycfqG2tvUqkzlbRZp8fiKC8KGt0BE/FENbKNMC6Ro=;aC9b8vT9rkfjwq3hyXgc5w=="

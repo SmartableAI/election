@@ -95,6 +95,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Multiple crises at home and abroad provide a reality check for Biden's White House"
+    excerpt: "President Joe Biden was at the wooded Camp David retreat in Maryland when he first heard Colonial Pipeline had been hacked.\n    \n"
+    publishedDateTime: 2021-05-15T13:01:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_cKkFHltiJA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/15/politics/biden-middle-east-masks-economy-gas-pipeline/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/15/politics/biden-middle-east-masks-economy-gas-pipeline/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210513155016-02-biden-vaccine-remarks-0513-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to criticize tax cuts for wealthy while pushing middle-class agenda in Louisiana"
     excerpt: "President Joe Biden on Thursday will make the case that his sweeping economic proposals are better positioned to bolster the middle class than tax cuts for the wealthy and corporations, according to a White House official. \n    \n"
     publishedDateTime: 2021-05-06T13:31:28Z

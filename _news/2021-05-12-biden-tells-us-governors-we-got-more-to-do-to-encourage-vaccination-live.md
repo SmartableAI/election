@@ -463,6 +463,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Virginia GOP nominee's independence from Trump up for debate"
+    excerpt: "FALLS CHURCH, Va. — If Glenn Youngkin was looking to pivot back to the political center after winning the GOP’s nomination for governor in Virginia, Donald Trump made it a little tougher by giving the nominee a big bearhug of an endorsement."
+    publishedDateTime: 2021-05-15T10:49:00Z
+    webUrl: "https://www.washingtonpost.com/national/virginia-gop-nominees-independence-from-trump-up-for-debate/2021/05/15/9b93d4b8-b573-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/virginia-gop-nominees-independence-from-trump-up-for-debate/2021/05/15/9b93d4b8-b573-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/virginia-gop-nominees-independence-from-trump-up-for-debate/2021/05/15/9b93d4b8-b573-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SUCK7SFVOMI6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "House GOP tries to look forward with elevation of Stefanik, but Trump election falsehoods will remain issue"
     excerpt: "The New York Republican pitched herself as a candidate who will focus on pushing the House Republican message and focus on attacking the Biden administration’s policies, while standing by former president Donald Trump’s false election claims."
     publishedDateTime: 2021-05-14T21:19:00Z
