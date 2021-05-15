@@ -3,8 +3,8 @@ category: news
 title: "After 100 Days, Mike Pence Speaks: Biden Threatens Progress \"We\" Made Under Trump"
 excerpt: "Former Vice President Mike Pence called for conservatives to unite in opposition to President Biden's agenda during his first public speech since leaving office Thursday in South Carolina. Pence referred to progress \"we\" made under the Trump administration after publicly breaking with Trump during and after the January 6 riot."
 publishedDateTime: 2021-04-30T12:16:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/04/30/after_100_days_mike_pence_makes_first_public_remarks_biden_threatens_to_derail_progress_we_made.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/04/30/after_100_days_mike_pence_makes_first_public_remarks_biden_threatens_to_derail_progress_we_made.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/04/30/after_100_days_mike_pence_makes_first_public_remarks_biden_threatens_to_derail_progress_we_made.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/04/30/after_100_days_mike_pence_makes_first_public_remarks_biden_threatens_to_derail_progress_we_made.html#!"
 type: article
 quality: 90
 heat: -1
@@ -1639,6 +1639,6 @@ related:
         height: 2901
         isCached: true
 
-secured: "ec83X7HgOpJ1VlTIhc1RxneGs7UIsE+O+z6ZFf4cLxhb+8BG5bGN13J1dBw6dSsQwrA17ESAq9aYb8i2SZ+HdQpG4zJn+j/vq5yDPZn9ua2LoD4kjsD6GcIzr5rIgf71ZIfiZzrRTnD9+5t15XLHT/Ky8pOZX/zYViizfZmd6MiKpfzJVhVL8UFX5LYeAyY9xc4EApqSeSxyWsjJcA4NiYLChunvY5R4ROvecMbBTjNfLkWbgphoOKmWMvZybw28BQ+bI4aA+goDMN/oonSX3T48sz7I7mllAamI1N8jr8ALZ3jsNwG/Kk5V5jjMEbXoVjuL71mF7RNwS0r66jkl9axpq8wiicgpo1rqymO84vI=;LB2BBpNNYFSbUi0YN+3KOA=="
+secured: "qTGbKD3S2fbh74xA7pfTFmdeE+XnLFHdFSexKdhKpY8j98E3Fh65KJm9JhxazLzcUv6pCzJLWiOyLcrL2UYpn3RHAD63kScUz9kvtjEBUoiL9zRT5ZStadvG+3l10dBIK5IrjOIPH+/Nlk+ob86KUktxyeO7vASGs0rkeyWGEMnepDPsZRMoVAUJg7bFgdNcBkq440yHJqpApCE2w5ho8lo7/MLb1Zbzz4RaFE+9lVuzxGn1/oAcAONI2cO8d4twS3ju3HNv3dWXog72GXJPWyR1NvEe6DGq+d7u/K87vrtaPXSOhdL9KAGh6Wew6oXm+YMMDB2Ej4r/VQF7z38Cm2BHXK263Vu1Fhi9CD+g6Yw=;f0FU0E2BxQD9OzvcYXqmTA=="
 ---
 

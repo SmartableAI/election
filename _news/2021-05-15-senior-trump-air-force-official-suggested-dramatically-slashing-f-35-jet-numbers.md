@@ -1,0 +1,53 @@
+---
+category: news
+title: "Senior Trump Air Force official suggested dramatically slashing F-35 jet numbers "
+excerpt: "The official in charge of purchasing military hardware for the US Air Force suggested slashing the total number of Lockheed Martin F-35 jets for the service by more than half late last year, according to two former defense officials involved in the discussions who spoke with CNN. The news comes as Congressional"
+publishedDateTime: 2021-05-15T14:03:13Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RfwDY6IUY0c/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RfwDY6IUY0c/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/15/politics/f-35-jet-air-force/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/15/politics/f-35-jet-air-force/index.html"
+type: article
+quality: 170
+heat: 190
+published: true
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/181120183114-f-35-elephant-walk-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Newly obtained bodycam footage shows moment DC police officer attacked by pro-Trump rioters"
+    excerpt: "Newly obtained body camera footage shows the moment DC Metropolitan Police Officer Michael Fanone was brutally assaulted while defending the US Capitol during the January 6 insurrection.\n    \n"
+    publishedDateTime: 2021-05-13T03:14:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qZTmxZ1zQ0c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/dc-police-officer-fanone-bodycam-footage-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/dc-police-officer-fanone-bodycam-footage-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114204226-metropolitan-police-officer-michael-fanone-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "n/bQrkMv4uxwFcDzI03UJDEhjMG0dDBqkQIVnwzKmI26kySlRHIsx0lv/3TRmEuJIDGvDQyH9i4VdDz6dgkxXZkyMRYHmNK7LDiD79nT1VxurIenJH8t6FiutsjbBWX/RlvN2mTind0RoUoX4WUwnk1gaBgOjPkgjHYyMLd/Ab/wObQsKMuyECg+BX21RO+R+4panEZW2t4s9Ri55BaZaYrgKzK7F7ljW9J8naoRf/gsygDYdCUN7HEqHgtbLM1fBG/klpdGFESH9le7P6NvKT7LSiWWkwbla92GH9wxbniHxZFgEz/qjvPq6qSjM0gGKi+Q8QMaTSaV4eK8JQSFFpSOKwdh1iRg81Xt74eCIGI=;A8na6vJy7ruij9NhzDgqxw=="
+---
+

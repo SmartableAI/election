@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/dc-police-officer-fanone
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/dc-police-officer-fanone-bodycam-footage-cnntv/index.html"
 type: article
 quality: 165
-heat: 165
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Senior Trump Air Force official suggested dramatically slashing F-35 jet numbers "
+    excerpt: "The official in charge of purchasing military hardware for the US Air Force suggested slashing the total number of Lockheed Martin F-35 jets for the service by more than half late last year, according to two former defense officials involved in the discussions who spoke with CNN. The news comes as Congressional"
+    publishedDateTime: 2021-05-15T14:03:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RfwDY6IUY0c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/15/politics/f-35-jet-air-force/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/15/politics/f-35-jet-air-force/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181120183114-f-35-elephant-walk-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "si149aMr1cP+iShoLqbd62rbOO0JgwfqDBoIjtsqaUbEmyrZptwwKP3FSHDQ6vOuiBcAONF8sWXCcb93IIAjawkvFZQL3sQYBD97X1Hk1aW/pv3Qi8AmLAOAnlAsaDOd0F7di2MFot6EKWtQ5kgFHqh8s9Hb3R9Jg9wn3ECbRxuvRDC539PbWHz1fMNJf5oXN/s8uyrzzk5YFj4syOOBZrfoO+33yReU4+MC+9N7H78lxcnDRk7VfYCwGN0ihKAeqENSkwTF+KaNVrv8deEE3yrBkx4R/ED8jliQiP1eB3qX4e8h35igzx4ilm6osC2Ml80G5QuF9p/7AuIdNtq+Sj8BNOjqPEMGB9ucYs1PrtI=;NRn1QLP5DeL/6TkTzXixOA=="
 ---
