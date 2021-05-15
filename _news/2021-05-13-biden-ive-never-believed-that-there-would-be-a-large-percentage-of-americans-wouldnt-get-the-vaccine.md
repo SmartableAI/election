@@ -44,6 +44,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden, in Police Week statement, talks of 'deep sense of distrust' toward cops from Black Americans"
+    excerpt: "President Biden is marking Police Week with a statement that includes language about the \"deep sense of distrust\" toward cops by Black and brown Americans and the \"trauma\" caused by deaths in police custody -- a statement described as \"beyond disappointing\" by one police group."
+    publishedDateTime: 2021-05-15T19:14:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sDXTvCBbJ7Q/biden-police-week-deep-sense-of-distrust-cops-black-americans"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-police-week-deep-sense-of-distrust-cops-black-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-police-week-deep-sense-of-distrust-cops-black-americans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/198530bb-d185-486d-8857-92461ae5a01f/0013eadb-6808-4e68-a958-67e1f426972c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "BXnXtQlsm1D7t4oAp7pGwHNQPwXSdghha6NKTUTPXnGUqO7UUySVaFj4oJpnZWVMq4xh786+rdP3T9QLzXjkT1mkw3ZtJ5jFOTZw2H7iraNtL4TOZQq0OoCz5ST2aRukh0PWI01177xX1OfBalSr3N47dO4kjClTv0y7JmYIxvB/iNiK7rgIyRZvpb+WXecJOlIPp6FCSOgpkurHNmuZMwm0Pz+Vhd+BnJP47ZeHHpiVjUS869qW2JcVqgtvb2U1eYYMKxYYPiACxTWJsinGX88G+0S5398SjBrGSByS8HlZH4PYS3hFKMB8Iwm9YHyO5tqkokp0m2lytgLFKilsQKU2YYKfcfoES01QRYXDnoE=;MF9Riof0gqZcSrb4KZ+FSg=="
 ---

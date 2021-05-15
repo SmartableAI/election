@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-refutes-comparison-of-carter-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp"
 type: article
 quality: 185
-heat: 505
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,35 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to have medical exam later this year, White House says"
-    excerpt: "The White House on Tuesday said President Biden is set to have a medical check up later this year, and the Biden administration will release the results of his exam to the public. "
-    publishedDateTime: 2021-05-11T14:34:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v30SfRtbrkY/biden-to-have-medical-exam-later-this-year-white-house-says"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-to-have-medical-exam-later-this-year-white-house-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-have-medical-exam-later-this-year-white-house-says.amp"
+  - title: "Biden rolls back Trump order barring immigrants who can't afford health care"
+    excerpt: "President Biden revoked a Trump-era order that banned immigrants from obtaining visas who couldn’t prove they could obtain health insurance or pay for health care."
+    publishedDateTime: 2021-05-15T19:25:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aouJUnDSQ2g/biden-trump-order-barring-immigrants-cant-afford-health-care"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 187
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "GOP senators to meet with Biden, who's looking for deal on massive spending bill"
+    excerpt: "President Biden will court GOP senators next week at the White House in an effort to strike a deal on his spending bill, but Republicans stressed they don't want tax increases on businesses or any liberal \"wish list\" items as part of any compromise. "
+    publishedDateTime: 2021-05-08T20:12:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZWDUURkIkPY/gop-senators-meet-biden-deal-spending-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-meet-biden-deal-spending-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-meet-biden-deal-spending-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Battered Biden under siege as crises confound the White House"
-    excerpt: "The jobs figures were just the first in a series of out-of-nowhere body blows President Biden was to be pilloried with during a remarkable five days of bad developments that stretched from Israel to the Mexican border and up the East Coast via the Colonial Pipeline."
-    publishedDateTime: 2021-05-12T10:16:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EcXFFsKsT5E/biden-israel-mexican-border-colonial-pipeline"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-israel-mexican-border-colonial-pipeline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-mexican-border-colonial-pipeline.amp"
+  - title: "Sen. Blackburn to introduce bill to reinstate Trump's Migrant Protection Protocols"
+    excerpt: "Sen. Marsha Blackburn, R-Tenn., is introducing a bill this week that would seek to reinstate the Trump-era Migrant Protection Protocols in response to a crisis at the southern border that has overwhelmed the immigration system in recent months."
+    publishedDateTime: 2021-05-13T13:00:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fnr0waE9b-U/sen-blackburn-bill-reinstate-trump-migrant-protection-protocols"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-blackburn-bill-reinstate-trump-migrant-protection-protocols.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-blackburn-bill-reinstate-trump-migrant-protection-protocols.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a4dd761-73cd-4ab5-b8ba-68c66060f1ba/ecb9432b-0faa-4fe7-872e-9b213feb4d61/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3b5befee-1abd-4a1a-979c-98e89ad5cad4/10cf370a-f3d0-45ac-83cb-d424eb50e093/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -111,38 +127,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Memorial Day: Biden faces growing pressure to let veterans use Pentagon parking lot for event"
-    excerpt: "Fla., and more than 30 other Republican members of Congress are pressuring President Biden to override the Pentagon's decision to block a veterans group from staging a Memorial Day motorcycle rally in the Pentagon parking lot."
-    publishedDateTime: 2021-05-11T10:10:00Z
-    webUrl: "https://www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast"
-    ampWebUrl: "https://www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 124
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd13b987-cc4d-4d34-8e55-2c8c4876c6b6/b48fab23-52b1-4171-b8b8-768569b6af89/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Joe Biden, Economy Killer"
-    excerpt: "Along with a working vaccine, Joe Biden inherited a V-shaped economic recovery, but he is now planting the seeds of its destruction. Inflation,"
-    publishedDateTime: 2021-05-07T10:34:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/07/joe_biden_economy_killer_145718.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/07/joe_biden_economy_killer_145718.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/07/joe_biden_economy_killer_145718.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/542606_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Biden Sets Everything on Fire"
     excerpt: "Joe Biden is the luckiest man to ever assume the presidency. He succeeded an unpopular figure. He was inaugurated just two weeks after the dramatic storming"
     publishedDateTime: 2021-05-12T10:00:00Z
@@ -159,65 +143,17 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Are the Halcyon Days Over for Joe Biden?"
-    excerpt: "On taking the oath of office, Jan. 20, Joe Biden may not have realized it, but history had dealt him a pair of aces. The COVID-19 pandemic had reached"
-    publishedDateTime: 2021-05-14T10:44:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/543235_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Biden's State-Sponsored Labor Shortage"
-    excerpt: "President Biden spoke at the White House earlier this week to address an unsettling national trend  millions of jobs going unfilled in an economy"
-    publishedDateTime: 2021-05-14T10:41:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/540023_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "President Biden Asks Drivers Not To Hoard Gas After Colonial Pipeline Cyberattack: \"Don't Panic\""
-    excerpt: "President Joe Biden urged Americans not to give in to the temptation to start \"panic buying\" fuel amid gas shortages caused by the ransomware cyberattack on Colonial Pipeline. \"I know seeing lines at the pumps or gas stations with no gas can be extremely stressful."
-    publishedDateTime: 2021-05-14T06:13:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.html#!"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 72
-    images:
-      - url: "https://assets.realclear.com/images/54/543185.jpg"
-        width: 750
-        height: 562
-        isCached: true
-  - title: "Jen Psaki Says the Quiet Part Out Loud About Joe Biden"
-    excerpt: "Jen Psaki made a stunning admission in a patently flippant way last week during a conversation with CNN's David Axelrod. The White House press secretary openly admitted that President Biden's handlers often tell him they prefer he not speak to reporters outside of controlled settings."
-    publishedDateTime: 2021-05-10T18:57:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/10/jen_psaki_says_the_quiet_part_out_loud_about_joe_biden_542486.html"
+  - title: "Joe Biden's Four-Decade Long Romance With Iran"
+    excerpt: "Biden has remained hopeful that the U.S. and Iran could find some common ground. Now might really be the last chance."
+    publishedDateTime: 2021-05-09T11:46:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/09/joe_bidens_four-decade_long_romance_with_iran_542414.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 65
     images:
-      - url: "https://assets.realclear.com/images/54/542871_5_.jpg"
+      - url: "https://assets.realclear.com/images/54/542363_5_.jpg"
         width: 750
         height: 500
         isCached: true
@@ -249,31 +185,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "4 Years of Mideast Peace Shattered in Biden's First 4 Months"
-    excerpt: "It has taken the Democrats all of four months in power to screw up the Middle East, and the good guys in the region are not pleased or inclined to play along. Read Full Article »"
-    publishedDateTime: 2021-05-15T12:47:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/15/4_years_of_mideast_peace_shattered_in_bidens_first_4_months_542830.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/543212_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Infrastructure is Biden's best, perhaps only, shot at a big bipartisan deal"
-    excerpt: "Infrastructure may be President Joe Biden’s last, best chance to strike a major bipartisan deal this term. Some liberals think he would be a fool to take it."
-    publishedDateTime: 2021-05-14T14:00:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/politics/biden-bipartisan-infrastructure"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/politics/biden-bipartisan-infrastructure?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/politics/biden-bipartisan-infrastructure?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 63
 
 secured: "Zn9K44QLTPgScKwuER7cb0KpgQtTzzTiHlgz0j7VBFuTNfpPiYhk9H48yxfKv7HJdRRRYpjafWpODptwQZ1oaONLiWG4G2hbbPMXphSRO2fqb3fLjms4sqihYsYaglCcojQ9NUvgfBHF4quVizSpcevIk0s7bOsyEuFfgFoiGO3ohnuSVi2EnILxdqGCJNar+G9us2C7Ynbi02D+lOIGkJtfeuEp4LYeouWSgA8jjUiNz4SQoyzOyDM/WH7Ci60dNsFgVYGvmCZngM7/+YLGBamVhWDlIV+vZBSR36LONgu6oxyfwV4cDDFkJSSQhcIOtXVgR45NuW/eoXJf5Ez2NZdKGsjUin1C1cxRo7V7fYE=;p2nOzStlNwyFAPgel+d2qg=="
 ---

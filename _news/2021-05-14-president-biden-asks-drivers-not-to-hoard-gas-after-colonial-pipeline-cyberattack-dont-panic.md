@@ -28,249 +28,70 @@ images:
     isCached: true
 
 related:
-  - title: "Trump mocks comparisons of Biden to Jimmy Carter: The current president is worse"
-    excerpt: "In a statement Wednesday, Donald Trump refuted a tweet issued by his son Donald Trump Jr. that claimed President Biden was “the next Jimmy Carter,” in an apparent slight last week."
-    publishedDateTime: 2021-05-12T22:04:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZDuOfEb2P88/trump-refutes-comparison-of-carter-presidency-to-biden-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp"
+  - title: "America under siege on Biden's watch as cyberattackers cripple the country"
+    excerpt: "They cut off a pipeline to the Eastern Seaboard for days, tried to poison a Florida water-treatment plant, held hospital IT systems hostage and stole an undetermined trove of information in the SolarWinds hack – all as the Biden administration searches for a way to respond."
+    publishedDateTime: 2021-05-13T10:07:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/df_JC-kJl5Y/cyberattacks-america-biden-watch"
+    ampWebUrl: "https://www.foxnews.com/politics/cyberattacks-america-biden-watch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cyberattacks-america-biden-watch.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 185
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26e1be5f-4597-488c-bda1-97eb4a713daf/15b5b68a-7a61-4af3-9521-8b1cb29e3ec7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/America-Under-Attack-6.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden to have medical exam later this year, White House says"
-    excerpt: "The White House on Tuesday said President Biden is set to have a medical check up later this year, and the Biden administration will release the results of his exam to the public. "
-    publishedDateTime: 2021-05-11T14:34:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v30SfRtbrkY/biden-to-have-medical-exam-later-this-year-white-house-says"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-to-have-medical-exam-later-this-year-white-house-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-have-medical-exam-later-this-year-white-house-says.amp"
+  - title: "Biden's American Rescue Plan unemployment-benefit extension making it difficult to find workers, employers say"
+    excerpt: "Some U.S. small business and restaurant owners claim President Biden's unemployment benefit extension is making it difficult to hire new workers."
+    publishedDateTime: 2021-05-12T21:13:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1ARaCfneKJY/labor-shortage-unemployment-benefits-nationwide"
+    ampWebUrl: "https://www.foxnews.com/politics/labor-shortage-unemployment-benefits-nationwide.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/labor-shortage-unemployment-benefits-nationwide.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 155
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Battered Biden under siege as crises confound the White House"
-    excerpt: "The jobs figures were just the first in a series of out-of-nowhere body blows President Biden was to be pilloried with during a remarkable five days of bad developments that stretched from Israel to the Mexican border and up the East Coast via the Colonial Pipeline."
-    publishedDateTime: 2021-05-12T10:16:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EcXFFsKsT5E/biden-israel-mexican-border-colonial-pipeline"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-israel-mexican-border-colonial-pipeline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-mexican-border-colonial-pipeline.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a4dd761-73cd-4ab5-b8ba-68c66060f1ba/ecb9432b-0faa-4fe7-872e-9b213feb4d61/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d7d67eb-4b1c-4f79-9450-c1a39e20f2f9/166277f7-f4f6-425b-9b23-f7b7151c5a78/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden scraps Trump Garden of Heroes honoring Kobe, Trebek, Bader Ginsburg"
-    excerpt: "President Joe Biden has revoked a trio of executive orders issued by former President Donald Trump that sought to punish vandalism of statues and to build a new National Garden of American Heroes. A July 2020 order envisioned a National Garden of American Heroes that “should be located on a site of natural beauty that enables visitors to enjoy nature,"
-    publishedDateTime: 2021-05-14T21:49:00Z
-    webUrl: "https://nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/"
-    ampWebUrl: "https://nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 149
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/biden-tump-split.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "'Really scary' to see gas shortages in first months of Biden admin: Lara Trump"
-    excerpt: "Fox News contributor Lara Trump sounded the alarm on America's energy independence under the Biden administration, Wednesday, telling \"Fox & Friends\" that the Colonial Pipeline cyberattack and resulting panic at the pump is \"really scary."
-    publishedDateTime: 2021-05-12T15:14:00Z
-    webUrl: "https://www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump"
-    ampWebUrl: "https://www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump.amp"
+  - title: "Ingraham: Biden is out of gas, is now America's problem denier"
+    excerpt: "Fox News host Laura Ingraham claimed President Biden's \"incompetence and radicalism are a dangerous combination\" as he denies the several crises facing the nation on \"\""
+    publishedDateTime: 2021-05-12T04:36:00Z
+    webUrl: "https://www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier"
+    ampWebUrl: "https://www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 146
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump likens Biden to Carter, citing gas crisis and Israel-Palestinian conflict"
-    excerpt: "Former President Donald Trump is comparing President Biden to Former President Jimmy Carter due to the recent gas shortage and tensions between Israel and Palestine."
-    publishedDateTime: 2021-05-12T21:20:00Z
-    webUrl: "https://nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/"
-    ampWebUrl: "https://nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 146
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-carter-biden.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Memorial Day: Biden faces growing pressure to let veterans use Pentagon parking lot for event"
-    excerpt: "Fla., and more than 30 other Republican members of Congress are pressuring President Biden to override the Pentagon's decision to block a veterans group from staging a Memorial Day motorcycle rally in the Pentagon parking lot."
-    publishedDateTime: 2021-05-11T10:10:00Z
-    webUrl: "https://www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast"
-    ampWebUrl: "https://www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 124
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd13b987-cc4d-4d34-8e55-2c8c4876c6b6/b48fab23-52b1-4171-b8b8-768569b6af89/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cef5a8b4-0514-4f78-af01-568c1de27822/1123ba03-d0ca-4194-b629-fe6ccc0d5548/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Joe Biden, Economy Killer"
-    excerpt: "Along with a working vaccine, Joe Biden inherited a V-shaped economic recovery, but he is now planting the seeds of its destruction. Inflation,"
-    publishedDateTime: 2021-05-07T10:34:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/07/joe_biden_economy_killer_145718.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/07/joe_biden_economy_killer_145718.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/07/joe_biden_economy_killer_145718.amp.html"
+  - title: "Biden Asks Drivers Not To Hoard Gas After Colonial Pipeline Cyberattack: \"Don't Panic\""
+    excerpt: "President Joe Biden urged Americans not to give in to the temptation to start \"panic buying\" fuel amid gas shortages caused by the ransomware cyberattack on Colonial Pipeline. \"I know seeing lines at the pumps or gas stations with no gas can be extremely stressful."
+    publishedDateTime: 2021-05-13T17:18:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 85
+    quality: 77
     images:
-      - url: "https://assets.realclear.com/images/54/542606_5_.jpg"
+      - url: "https://assets.realclear.com/images/54/543185.jpg"
         width: 750
-        height: 500
+        height: 562
         isCached: true
-  - title: "Biden Sets Everything on Fire"
-    excerpt: "Joe Biden is the luckiest man to ever assume the presidency. He succeeded an unpopular figure. He was inaugurated just two weeks after the dramatic storming"
-    publishedDateTime: 2021-05-12T10:00:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/543021_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Are the Halcyon Days Over for Joe Biden?"
-    excerpt: "On taking the oath of office, Jan. 20, Joe Biden may not have realized it, but history had dealt him a pair of aces. The COVID-19 pandemic had reached"
-    publishedDateTime: 2021-05-14T10:44:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/543235_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Biden's State-Sponsored Labor Shortage"
-    excerpt: "President Biden spoke at the White House earlier this week to address an unsettling national trend  millions of jobs going unfilled in an economy"
-    publishedDateTime: 2021-05-14T10:41:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/540023_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Jen Psaki Says the Quiet Part Out Loud About Joe Biden"
-    excerpt: "Jen Psaki made a stunning admission in a patently flippant way last week during a conversation with CNN's David Axelrod. The White House press secretary openly admitted that President Biden's handlers often tell him they prefer he not speak to reporters outside of controlled settings."
-    publishedDateTime: 2021-05-10T18:57:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/10/jen_psaki_says_the_quiet_part_out_loud_about_joe_biden_542486.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/542871_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Biden's Progressive Policies Are Making Lives Better"
-    excerpt: "Joe Biden's approval numbers are stunning, with 63% of Americans saying in a new poll that they approve of the job he's doing, writes Jill Filipovic. The President draws this while not making any big rhetorical waves but carefully guiding a progressive policy agenda aimed squarely at making people's lives better as quickly and efficiently as possible."
-    publishedDateTime: 2021-05-12T11:35:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/12/bidens_progressive_policies_are_making_lives_better_542609.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/542677_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Biden Is Getting It Wrong Across the Board"
-    excerpt: "New government figures show that the Biden administration is getting it wrong on the border, getting it wrong on the economy and job creation, and getting it wrong on inflation."
-    publishedDateTime: 2021-05-12T19:33:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/12/biden_is_getting_it_wrong_across_the_board_542669.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/543103_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "4 Years of Mideast Peace Shattered in Biden's First 4 Months"
-    excerpt: "It has taken the Democrats all of four months in power to screw up the Middle East, and the good guys in the region are not pleased or inclined to play along. Read Full Article »"
-    publishedDateTime: 2021-05-15T12:47:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/15/4_years_of_mideast_peace_shattered_in_bidens_first_4_months_542830.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/543212_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Infrastructure is Biden's best, perhaps only, shot at a big bipartisan deal"
-    excerpt: "Infrastructure may be President Joe Biden’s last, best chance to strike a major bipartisan deal this term. Some liberals think he would be a fool to take it."
-    publishedDateTime: 2021-05-14T14:00:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/politics/biden-bipartisan-infrastructure"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/politics/biden-bipartisan-infrastructure?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/politics/biden-bipartisan-infrastructure?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 63
 
 secured: "jCMnD7qbTgbcdZg0T/gASs+WfwHpkXp0C3NlLWrQx3HX6axIqEx/Xw38V7frYz62deEAf1jL14240kKpVFp+tTxHfbq8f7tHgFTbwGXVnuMZYUBqcgg0iOy9dkvYG0TzNO2iwgctVKKeNSuOvvfmDOmLsgwBhdltl3Kw16rB2PiKxtyHjXJPcHOhvp3YYD0+Ag+vZ8VqQHNUP73l91sh8WJ/jvtJHWsuI7jAP0u1cjhiauK/tg4BoyZRNIVqth0LPg30jp7hHBrkaeAqjMINx8DXofHkQ2YgdWrseS9sLmvvjARMhwNkhv4RbLogFF/05m8vVj9oD/WKU0FzvLBkd/cJ0Pr7xIIz8jVd7iUSWx+ALfzEpeV2WMhf59+s52Nf8tvnTx1nPKIJi0y2S4AtBCh5r2nt7u9432SSWBdODltEZFBd24zDibHjeiprZLRjJ81XEaPRih9zY7NgV6IbbKGCmgh5M3clKr3pVjsDlF2kmhq2h/+AXfUzEhb/+Gnh6da3UI9JuThlPFOGv3DTig==;Xid1fRpL5cE9ujAAaxOY1w=="
 ---

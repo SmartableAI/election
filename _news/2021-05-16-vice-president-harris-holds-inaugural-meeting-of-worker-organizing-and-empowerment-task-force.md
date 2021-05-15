@@ -1,36 +1,40 @@
 ---
 category: news
-title: "First lady, Vice President Harris highlight different paths to motherhood"
-excerpt: "Kamala Harris’ childhood friends share memories about presidential hopeful With families around the country preparing to celebrate Mother’s Day on Sunday, first lady Jill Biden and Vice President Kamala Harris are putting a new national spotlight on less traditional types of motherhood."
-publishedDateTime: 2021-05-08T19:44:00Z
-originalUrl: "https://abcnews.go.com/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
-webUrl: "https://abcnews.go.com/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
+title: "Vice President Harris Holds Inaugural Meeting of Worker Organizing and Empowerment Task Force"
+excerpt: "Vice President Kamala Harris delivers remarks during the Inaugural Meeting of the Worker Organizing and Empowerment Task Force at the Vice Presidents Ceremonial Office on Thursday, May 13, 2021. The Task Force was formed to mobilize the federal government's policies and programs to provide workers in the private sector as well as federal,"
+publishedDateTime: 2021-05-15T19:49:00Z
+originalUrl: "https://www.upi.com/News_Photos/view/upi/71eb83eb07d5af9bf835e1bf236e01fe/Vice-President-Harris-Holds-Inaugural-Meeting-of-Worker-Organizing-and-Empowerment-Task-Force/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/71eb83eb07d5af9bf835e1bf236e01fe/Vice-President-Harris-Holds-Inaugural-Meeting-of-Worker-Organizing-and-Empowerment-Task-Force/"
 type: article
-quality: 124
-heat: 244
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Kamala Harris
 
-images:
-  - url: "https://s.abcnews.com/images/Politics/mothers-day-kamala-harris-jill-biden-09-gty-llr-210508_1620502085825_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
-
 related:
+  - title: "First lady, Vice President Harris highlight different paths to motherhood"
+    excerpt: "Kamala Harris’ childhood friends share memories about presidential hopeful With families around the country preparing to celebrate Mother’s Day on Sunday, first lady Jill Biden and Vice President Kamala Harris are putting a new national spotlight on less traditional types of motherhood."
+    publishedDateTime: 2021-05-08T19:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mothers-day-kamala-harris-jill-biden-09-gty-llr-210508_1620502085825_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Kamala Harris blasts how workers lose $200 billion a year from the anti-union trend in the US economy"
     excerpt: "At the first meeting of the White House task force on worker organizing, the vice president ripped into the wages lost from America's lack of unions."
     publishedDateTime: 2021-05-14T11:50:00Z
@@ -100,16 +104,7 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 31
-  - title: "Vice President Harris Holds Inaugural Meeting of Worker Organizing and Empowerment Task Force"
-    excerpt: "Vice President Kamala Harris delivers remarks during the Inaugural Meeting of the Worker Organizing and Empowerment Task Force at the Vice Presidents Ceremonial Office on Thursday, May 13, 2021. The Task Force was formed to mobilize the federal government's policies and programs to provide workers in the private sector as well as federal,"
-    publishedDateTime: 2021-05-15T19:49:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/71eb83eb07d5af9bf835e1bf236e01fe/Vice-President-Harris-Holds-Inaugural-Meeting-of-Worker-Organizing-and-Empowerment-Task-Force/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 24
 
-secured: "vvUcw0bleem7qMsy9KRJfH2kQBL4KfB7Zei1ar0ngmLL8AFE+iGHneI+FtsiKFanKUz37V1zy/5Arxk58KcL7K5puhK5AcvaL4rfdt1V7uE6hF4N5y8VP2MCQiEahv/tk8nTXaCFIz8TtuuNbyme1mWB5iB95Dw9IeK+6GJpbEJ9gEaAbb3OtS/Ue+9njUc+jK+CVfzly0R9pzmRfUECtDIgXPEgvPPEa1nchBfPKVB3YcQsPrqzOiSbei2ftDaR939SKQ61nQnG7mRjrGdsxN07qPmL0WwEKRssOxZ9Ru69NdM6VN7o/ue78ngi6DiwITVedQG9bRsVgyfxA3ls8z46v//Lq4kxpIyUp6nS2Go=;ajbWuhGEBXv1QPMDHoPxJA=="
+secured: "JAmGmeya0nxyEYI+0eS/rV4ILRGz2ZF5MkVIpdD9NuwOR8eMBsiyeyzXkYGVSlCtKQsQLlOXlluVe3X99jR2+RXqEgN+8rhZoHkdBaoFYxGwAIrazqcyXlC4VdeszBo6D9U6fshT3Pj3cDORaCjy7KGbTb1Co1Jmn39kDOSSaxdeepoexkD/IP5Ob9ORTY0W8/kHX+ujuL28JwJVKS36ZXkSkFk71QzUVcjiwBNApYaCYIE00PoqezntKDh8WjDqXG6x75gCegMdEb7igj3pK8cIrwVm9d5dSm03DcEsDt/fe4cr4df5/FEcOvQJuJGyqtkvOFCC8D5Dzp6VzXhTTF3Hm2tuAtPR9fX80xt05Kzm0gQqdMCsdGey+67yzYvTalhIBPxOaldxjcCK3nKCPBC/yTubAjySoh33Bmv2weG2Y57jOFXWTGUgLgITJwmxv/A8AI48q7BX6Pp2ZzlZ3bYbqS2UMBDkdLEZ5dINIq1nJxzJJD/pVePfm7/ZJDWcU1ofBSoheRx7QnX/QxXcmQ==;tIfs87AsNnfwpdA2RwSvGQ=="
 ---
 

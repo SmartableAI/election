@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-mandate-covid-vaccine-militar
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mandate-covid-vaccine-military.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2544c3f4-7196-4d56-b880-04e4be641a11/c229c83e-ca3c-42a7-9e7c-637ac0dd1059/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Joe Biden, Economy Killer"
+    excerpt: "Along with a working vaccine, Joe Biden inherited a V-shaped economic recovery, but he is now planting the seeds of its destruction. Inflation,"
+    publishedDateTime: 2021-05-07T10:34:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/07/joe_biden_economy_killer_145718.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/07/joe_biden_economy_killer_145718.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/07/joe_biden_economy_killer_145718.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/542606_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "w8sATByWc8pDonbMLuPSsUWLOxTs/TFnqha1nWOCpMYz/aKBEMY26sxtbJZ7fA0rMPRm3TDW9WosdVxcEetEdiGPV6Jv1NL9+pTGGBlTYe7xP/9sa1VChY0wsRsSTAJEoZAB4ZNxRThhITXRb8MlS+4PRyeb348b8OnG7ayy6QXVzWHeLxUhlbYxunF1z+hENqNlozH0vS6RfapUrR+T3mn6XqxGjwimumn/8MTmu4oRyxNt96HeMyxiXCyzzIIbNkaGPgdC9Jn4sVfi6mCI9QaRdXpHDtDxa9c8VHVF6Uqg3dBXcU5bGNcihAyPA8jh9MZ+yrM1P8TpsKr4itgaab0g4+7loGfc6tVqD4OLPjU=;9lwvNvYaoVumre2y62nRWg=="

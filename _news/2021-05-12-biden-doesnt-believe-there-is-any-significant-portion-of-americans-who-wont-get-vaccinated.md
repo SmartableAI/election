@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-no-significant-portion-americ
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp"
 type: article
 quality: 163
-heat: 183
+heat: 203
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden, in Police Week statement, talks of 'deep sense of distrust' toward cops from Black Americans"
+    excerpt: "President Biden is marking Police Week with a statement that includes language about the \"deep sense of distrust\" toward cops by Black and brown Americans and the \"trauma\" caused by deaths in police custody -- a statement described as \"beyond disappointing\" by one police group."
+    publishedDateTime: 2021-05-15T19:14:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sDXTvCBbJ7Q/biden-police-week-deep-sense-of-distrust-cops-black-americans"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-police-week-deep-sense-of-distrust-cops-black-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-police-week-deep-sense-of-distrust-cops-black-americans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/198530bb-d185-486d-8857-92461ae5a01f/0013eadb-6808-4e68-a958-67e1f426972c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden: \"I've Never Believed That There Would Be A Large Percentage Of Americans Wouldn't Get The Vaccine\""
     excerpt: "President Joe Biden talked about the Covid vaccine in an interview with MSNBC host Lawrence O'Donnell: \"They're showing up. All this stuff about vaccine hesitancy; the truth of the matter is more and more and more people are getting the vaccine."
     publishedDateTime: 2021-05-13T14:47:00Z

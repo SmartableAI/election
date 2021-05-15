@@ -7,8 +7,8 @@ originalUrl: "https://www.chron.com/news/houston-texas/article/donald-trump-endo
 webUrl: "https://www.chron.com/news/houston-texas/article/donald-trump-endorse-dan-patrick-16166069.php"
 type: article
 quality: 70
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: Houston Chronicle
@@ -23,6 +23,24 @@ images:
     width: 2048
     height: 1366
     isCached: true
+
+related:
+  - title: "Lin Wood Falls to Trump-Endorsed Drew McKissick in Bid to Lead South Carolina GOP"
+    excerpt: "Pro-Trump lawyer Lin Wood's attempt to convince delegates to make him the next South Carolina Republican Party chairman fell through on Saturday, when incumbent Drew McKissick secured his reelection bid for a third two-year term,"
+    publishedDateTime: 2021-05-15T18:23:00Z
+    webUrl: "https://www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850"
+    ampWebUrl: "https://www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1798007/defamation-lawsuit-against-tesla-ceo-elon-musk.jpg"
+        width: 3615
+        height: 2410
+        isCached: true
 
 secured: "cnrVIDQ6wEFgPLL2kQaZUFyaW+fOzZyg71wmEXU/waYPvoOOBAV+RsLDn8yrLXebNjqRY9scnMuny5snO0mrYc+XI/OeT5fe19oC6+0cB6YPiXGJ1hSxp9L3tjoMPm7nQDVDnCraGRGpu/S86cKBQ6Q+GFDeQy0zpYn5jH5iiBf6mIK7IruhucC3Fr0FxzHoBrfCiGsVS7K4lmrBsIco0IEqIhGZUSEt7TTbKbeRVdQucvghO9VTNSMM20rE5DMeqAiRE7w/TGsoIf2yAxo58RydaxJEaiHKHyhrdFYSx9MaqTE+VkEo3hE+HgUpHWf1v3LuFgAOo+C7pDZ+/nAKu9SGyadXLP2Ou2kZSGpxGhJ2h0mils838f2/dTUX9Yw1dMRE3tZg28FBCAucbO0XP652iLbyyljus0kEeokIRtFXfC3G4c7lyiqFV1kpn9yCX78p0EDaIJuwbjHMG5OROGXxYmC2iF3WC84mI8cLcOW3SyFLSyaw2Si9sci5vI3seF2UdPNDL0USVozNQig3nA==;A0hhGZ+Wuqfgzlgx9wwuOg=="
 ---

@@ -79,6 +79,22 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "President Biden Asks Drivers Not To Hoard Gas After Colonial Pipeline Cyberattack: \"Don't Panic\""
+    excerpt: "President Joe Biden urged Americans not to give in to the temptation to start \"panic buying\" fuel amid gas shortages caused by the ransomware cyberattack on Colonial Pipeline. \"I know seeing lines at the pumps or gas stations with no gas can be extremely stressful."
+    publishedDateTime: 2021-05-14T06:13:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/biden_asks_drivers_not_to_hoard_gas_after_colonial_pipeline_cyberattack_dont_panic.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 72
+    images:
+      - url: "https://assets.realclear.com/images/54/543185.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "+wFaXCiwoYYY5CkbkFRYeN5dslXqI/OYdYIYOP24DoSua901eeIkxkIiU12ft43MYOIlpUduWhkAu6aDmBXvS4tj+cWjQF3HOyY16ffmhObGvWahrqnGpVcvnhJtGDuCsHGZXVRJmizwF1h0e4DrOFimUspOYoWW4ZLKMzSDlvknPMi9g6938uHC1T2wBh9QzP6A69sK44WKqM8m1qlwhFtoaHkNxrRtZyrED3TOSsc4uiQ0x/P0H/nIVz4vFmha2Qih0vaLwOLOKYCqVGAipt6lrhQUvXlChwpgN1yfrFA5PP9FtDPeXMMmF70MgfIaA09aFB9IV6ju6TioI8xgylj7q00/fHFoe/uaCOuJiq0=;WxlxSlFtAt8XQu90DOjUQg=="
 ---

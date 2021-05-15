@@ -100,6 +100,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 31
+  - title: "Vice President Harris Holds Inaugural Meeting of Worker Organizing and Empowerment Task Force"
+    excerpt: "Vice President Kamala Harris delivers remarks during the Inaugural Meeting of the Worker Organizing and Empowerment Task Force at the Vice Presidents Ceremonial Office on Thursday, May 13, 2021. The Task Force was formed to mobilize the federal government's policies and programs to provide workers in the private sector as well as federal,"
+    publishedDateTime: 2021-05-15T19:49:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/71eb83eb07d5af9bf835e1bf236e01fe/Vice-President-Harris-Holds-Inaugural-Meeting-of-Worker-Organizing-and-Empowerment-Task-Force/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 24
 
 secured: "aFnMK4ij2Frp9uVpNJxwgeFPcJ/2SdEMa2O3nF5y8uHXvDoENSOlB8BmCInvfl6a+2VsB92fi0X9fSTX+X2Puzw/KqiOQBTPq0v38ruQz9FHbLTf2ptRehobJq9eZj5IcfcOqSgVLLFt2YRtJxLqbHYEBpSyxL5xHP0pdfdxeiOjgxAuAnxv1kK988FVagPWAfsnKItTfGU7Cpp2TWhCUcXocWF9lvTEB6dfRxaitQixiQpIRf4nac2k1LtfqdYMfMSQv2KF1eweyUpx12HBBOWTW0mZl6DYktg5OPFGjNhiyLesE8ICG7qf7mCih4ZzHT4MT17RzLuy5s4lEvqewxSwInO2glWUca3WwdVp+mk=;HG6872fqozTByl7JXeZmew=="
 ---

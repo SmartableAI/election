@@ -95,6 +95,15 @@ related:
         width: 438
         height: 392
         isCached: true
+  - title: "Vice President Harris Holds Inaugural Meeting of Worker Organizing and Empowerment Task Force"
+    excerpt: "Vice President Kamala Harris delivers remarks during the Inaugural Meeting of the Worker Organizing and Empowerment Task Force at the Vice Presidents Ceremonial Office on Thursday, May 13, 2021. The Task Force was formed to mobilize the federal government's policies and programs to provide workers in the private sector as well as federal,"
+    publishedDateTime: 2021-05-15T19:49:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/71eb83eb07d5af9bf835e1bf236e01fe/Vice-President-Harris-Holds-Inaugural-Meeting-of-Worker-Organizing-and-Empowerment-Task-Force/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 24
 
 secured: "DSMZwyKK9ncwAjOfinGFgQjpd2Dgk6LVMSssUtj3hUi7jre/Vi5zZJGwwJG7IxTvvZ1PVuIrSB20x5tsP6YIz3tO23/7H+U4tbXdcee8L1P43i62l0+CDv9W0h4GFzSpStiUQ9huKYddUKKM1k1pIb9lKpcinl2GWWnYbNCGfIB64Q0WmIAfh3aleIDZNWBFBXmxG0p+GaElutlHtcQ8v6dziTcJnhpLGQ+w0dbtX+DrxZUM2NnGQeMjKCBwNSrIUjJVVRIv6hEoTjEQABNgt01S9R8kCF+Vlxo2RJwrGVrdk6eRot2TqmFk7R1iv8rwoQfbkq2zgG9Nzkkb8F18BM9901L+JueKfZDXb/aF0PnxGJh/AB7w6hgXYR2yxu+TmZiZzixjxjqdX7qu7JVwnOVdAJlyavpdQ0EmJ6WOLJIncG2GXLapfVOMy3TNbOIDOBsC1trtSBAk3D5kzYmAzffHef1vEmhV/J4i11+mR/sD3uRvZQr3sE4Zlu4K0mhiJ/b9xIclgRGFTbp7E5hTYA==;HIQZDYKXShOyOiSnLIiEvg=="
 ---
