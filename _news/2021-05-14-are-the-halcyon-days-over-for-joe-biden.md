@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Biden's State-Sponsored Labor Shortage"
-excerpt: "President Biden spoke at the White House earlier this week to address an unsettling national trend  millions of jobs going unfilled in an economy"
-publishedDateTime: 2021-05-14T10:41:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.html#!"
-ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.amp.html"
-cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.amp.html"
+title: "Are the Halcyon Days Over for Joe Biden?"
+excerpt: "On taking the oath of office, Jan. 20, Joe Biden may not have realized it, but history had dealt him a pair of aces. The COVID-19 pandemic had reached"
+publishedDateTime: 2021-05-14T10:44:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.html"
+ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.amp.html"
 type: article
 quality: 85
 heat: -1
@@ -22,7 +22,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/54/540023_5_.jpg"
+  - url: "https://assets.realclear.com/images/54/543235_5_.jpg"
     width: 750
     height: 500
     isCached: true
@@ -156,19 +156,19 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Are the Halcyon Days Over for Joe Biden?"
-    excerpt: "On taking the oath of office, Jan. 20, Joe Biden may not have realized it, but history had dealt him a pair of aces. The COVID-19 pandemic had reached"
-    publishedDateTime: 2021-05-14T10:44:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.amp.html"
+  - title: "Biden's State-Sponsored Labor Shortage"
+    excerpt: "President Biden spoke at the White House earlier this week to address an unsettling national trend  millions of jobs going unfilled in an economy"
+    publishedDateTime: 2021-05-14T10:41:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/14/bidens_state-sponsored_labor_shortage_145763.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 85
     images:
-      - url: "https://assets.realclear.com/images/54/543235_5_.jpg"
+      - url: "https://assets.realclear.com/images/54/540023_5_.jpg"
         width: 750
         height: 500
         isCached: true
@@ -242,6 +242,6 @@ related:
       domain: washingtonexaminer.com
     quality: 63
 
-secured: "basS25fq7wxULvxmdYwKPFH3kMIUTIYZsa/VWA5ZYNrs7Sf5+IIh9RmLEWOwDRnZG2YeiuVsXUH8ePMHv2GDiSr7xScxdEH+gSm5mYoucbagQVjaOM9FrsNrdZLkAV/FpyIleaZBGGmcq7MeAkooMGHBGOBgXEookIIxfumdaLK2eD6Lk+iDxX2nl3NcH9Dxxxmg8FahMBd33CmiXHq/ULd/F08BxuN6LbKfnAueqF5J8u4/I1fVnIJ/0u+1dznMBDFAbkhaGRzdrpZPHx0KpxqymkbZz3i9kIs422wPPapU4HIRrXNjSkKEhy55oOC54ofcqmNcU3sX+9Nt+Li7uU3DaTN7xuro6B4c4UgNlHs=;w3dE7JuuETpUaW2iOb4ZYA=="
+secured: "QWensCX01hBbTcgp6RuHMhWhi9UmTb84LAXGNj7TIrxysgczn7KUMRYE8MjdaIDcoh35eNZdU+MGPxrsyVNcFgwmQE2g+y0Qv5+b7YrYeBI74cy/y2BEK7uzGVMPlgD/a7tA9jngCG0CrhBCxOz9bgqK7amjmvmIXcYr0b0I+2IDNgUeaQCHN6gow7f9oKI3CdQtGm8a1mo7HhqSFckdhzKrIhUcigb/aBkZIGV4gGIg1J0MKRC3o8UMUYgunVwwEzxSkf0RA2r/t/mYNCDWLHfFKxpNBEEMuTni4SXielkmZfgI+iSv1SNR4xbAuseBvajC+Dp69aIoNq7NklJLp7RZC9jqALZkeiNEwXVRwFc=;qYC3IzO8aOK7eXpQKd+IVg=="
 ---
 
