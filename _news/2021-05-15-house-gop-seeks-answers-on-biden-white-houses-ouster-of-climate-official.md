@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Biden Must Reverse Course on Iran -- Before It's Too Late"
-excerpt: "Media outlets around the world recently reported on leaked audio comments in which Iranian Foreign Minister Javad Zarif admitted that Irans"
-publishedDateTime: 2021-05-11T10:52:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/05/11/biden_must_reverse_course_on_iran_--_before_its_too_late_145737.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/05/11/biden_must_reverse_course_on_iran_--_before_its_too_late_145737.html#!"
-ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/11/biden_must_reverse_course_on_iran_--_before_its_too_late_145737.amp.html"
-cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/11/biden_must_reverse_course_on_iran_--_before_its_too_late_145737.amp.html"
+title: "House GOP seeks answers on Biden White House's ouster of climate official"
+excerpt: "Republicans on the House Oversight and Reform Committee are seeking answers into whether politics trounces science after the Biden White House’s ouster of a scientist respected on both sides of the aisle from overseeing the federal government’s report on climate change."
+publishedDateTime: 2021-05-15T09:54:00Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D9S7FWajrvo/house-gop-answers-biden-white-house-climate-official-ouster"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D9S7FWajrvo/house-gop-answers-biden-white-house-climate-official-ouster"
+ampWebUrl: "https://www.foxnews.com/politics/house-gop-answers-biden-white-house-climate-official-ouster.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-gop-answers-biden-white-house-climate-official-ouster.amp"
 type: article
-quality: 85
+quality: 174
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/53/538384_5_.jpg"
-    width: 750
-    height: 500
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b5c045d-f123-483e-bf61-47f1ec138734/82a4dec4-33fd-444e-951d-72ca464a2df4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -91,22 +94,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "House GOP seeks answers on Biden White House's ouster of climate official"
-    excerpt: "Republicans on the House Oversight and Reform Committee are seeking answers into whether politics trounces science after the Biden White House’s ouster of a scientist respected on both sides of the aisle from overseeing the federal government’s report on climate change."
-    publishedDateTime: 2021-05-15T09:54:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D9S7FWajrvo/house-gop-answers-biden-white-house-climate-official-ouster"
-    ampWebUrl: "https://www.foxnews.com/politics/house-gop-answers-biden-white-house-climate-official-ouster.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-gop-answers-biden-white-house-climate-official-ouster.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b5c045d-f123-483e-bf61-47f1ec138734/82a4dec4-33fd-444e-951d-72ca464a2df4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
         isCached: true
   - title: "Biden waives ethics rules for former union bosses who now work in White House"
     excerpt: "The Biden administration has come under scrutiny from Republicans on Capitol Hill following its decision to circumvent federal ethics rules and staff former union officials in senior posts."
@@ -428,6 +415,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden Must Reverse Course on Iran -- Before It's Too Late"
+    excerpt: "Media outlets around the world recently reported on leaked audio comments in which Iranian Foreign Minister Javad Zarif admitted that Irans"
+    publishedDateTime: 2021-05-11T10:52:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/11/biden_must_reverse_course_on_iran_--_before_its_too_late_145737.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/11/biden_must_reverse_course_on_iran_--_before_its_too_late_145737.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/11/biden_must_reverse_course_on_iran_--_before_its_too_late_145737.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/538384_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Biden To Meet With Republican Lawmakers On Infrastructure Plan"
     excerpt: "President Joe Biden is set to meet with a group of six Republican lawmakers to discuss the administration’s proposed infrastructure plan and how to pay for it. This comes a day after Mr. Biden and Vice President Kamala Harris met with bipartisan leaders to discuss the deal."
     publishedDateTime: 2021-05-13T17:17:00Z
@@ -475,6 +478,6 @@ related:
         height: 500
         isCached: true
 
-secured: "hUOsq0NV3jemCJj45GGEfAui3cIjWq1Q9jU7tBkMEa8Q9BA3hyINo4JVH8IvicAQfkbH/YgDbzcEJjf5GohYg7JmHcipaKUYnT9909Nbp0TdCzdaieB5DXUQxEyIJ+HWwyaKIlAOLg2Jb+fr9IOiiiosGq/q3nDgQgJBO2E1jJ1jOE/oFwu8jChaYq7HWrr+cJV72gbQc49oz2fdum6oxnkZYawAAo6pl0F8IsXzw1NNxcrZiDIwV1Xk92RLXh7gvF8qIjORfiR35bBniZ2RI79iZCp6rfCY1Lw5gemMZ4cUle62jPiLCBOlWDs7SRvBnDl5neiRLz2nz0HgdlaqpPrHM/i8yOQZmXYEGpdUD6GZAlTsTEcB1hvS/0Sxg8sk/DQxUqgb+grLUrnaey57PZ6KLO+6z4TB9bKuOu2Q422K8FA3/R4J2vQSV8qia2guWjXmtmB+/Hq1sADskxJRf+ZFKju8W1uzFoyczJdMXF/zdUaciBECSy5nW2Pa7Va/Esl+Q2RXtrOfHH9J+CFxUw==;WmvFatUdXmA2itfLoNEFMA=="
+secured: "Z1ruhoxc7ePkMtHzyt8vcqXAyA3hIzbv6Asp8B3yYOBmKiznBXE4m4TMUFZHi/H94LQE7WXWrqiytvykYUFN5EpQpgHt8szO5lHiQAJfRoBgcG1ZBMuepwK0noWzhB8umKQVPmlWiG/gTkaNlhXCKeNX/sSHR6R5I/8WHrSVwBBq1n9tuVSahb38NGmZiFrF0JsPfSeIrRPa9kxrHHk1uyyIVgczYjPkVzYr6/NpUDQjAlK4MPxssGpVD4nJC0zqvQ/U9OlITPXUQSC9w4QN9qgsRstf35vxolYTwHGL1RuT9VjPOJuNJtHfMSFr6p/a5MhnZbvWoEipNTiaeC6m2q7gubMkI2R8MNt+Ej5Yyeo=;3huPwtPmpXEfMNFjacm87A=="
 ---
 

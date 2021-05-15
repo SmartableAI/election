@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "House GOP seeks answers on Biden White House's ouster of climate official"
+    excerpt: "Republicans on the House Oversight and Reform Committee are seeking answers into whether politics trounces science after the Biden White House’s ouster of a scientist respected on both sides of the aisle from overseeing the federal government’s report on climate change."
+    publishedDateTime: 2021-05-15T09:54:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D9S7FWajrvo/house-gop-answers-biden-white-house-climate-official-ouster"
+    ampWebUrl: "https://www.foxnews.com/politics/house-gop-answers-biden-white-house-climate-official-ouster.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-gop-answers-biden-white-house-climate-official-ouster.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b5c045d-f123-483e-bf61-47f1ec138734/82a4dec4-33fd-444e-951d-72ca464a2df4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden waives ethics rules for former union bosses who now work in White House"
     excerpt: "The Biden administration has come under scrutiny from Republicans on Capitol Hill following its decision to circumvent federal ethics rules and staff former union officials in senior posts."
     publishedDateTime: 2021-05-08T22:38:58Z
