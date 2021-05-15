@@ -3,8 +3,8 @@ category: news
 title: "Hemingway: Liz Cheney Seems Obsessed With Donald Trump, Didn't Mind When Democrats Questioned 2016"
 excerpt: "\"The Federalist\" senior editor Mollie Hemingway responded to Rep. Liz Cheney's heated interview on Thursday's 'Special Report' panel on FOX News Channel. MOLLIE HEMINGWAY: Liz Cheney seems obsessed with Donald Trump."
 publishedDateTime: 2021-05-14T11:21:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/05/14/hemingway_liz_cheney_seems_obsessed_with_donald_trump.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/05/14/hemingway_liz_cheney_seems_obsessed_with_donald_trump.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/05/14/hemingway_liz_cheney_seems_obsessed_with_donald_trump.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/05/14/hemingway_liz_cheney_seems_obsessed_with_donald_trump.html"
 type: article
 quality: 51
 heat: -1
@@ -43,6 +43,6 @@ related:
         height: 800
         isCached: true
 
-secured: "qApX8Njc8lQufaRSAxtz0NR555vCphYn3cCUOTS1mEVKm33qRhLn6tmMxNyCa0Ybde6D3wqmR/ws//Vj3AyyKqoSRUctitkoHZDl4Q+6k0s/pGQl1q1iKCYpyzn0SygDAUkmSrDjlFs3xGm8dlJhpsojaT0GfxzOdM6AwzlTFf/6A61swslXaVuo6257zzR7KQvs/ljRxHH2gNj/+QfQfgYLqnnC0tKy8/K9dMGBTSbGDM3cL8tvISM4n/U4aWN+4Ekdr8wwxhV9+KHqcjAybgp8y4sLovaa1qEQGQYNUe3FzeC4Wv6LZryMz1DgdVPYf44uADHyy+Rg0M4oual1UNme6mQPR++D1o/a9lubc84QDhPLOzJ23myvcemmZ5YgQiDGRO8JYAXc4j7LJSuNoszM7oEb75Q6A8noJBsiuAm1fsnAdDiW+YkOY2LZiVga4qW0tRndugBvwlf93Z+oXorlHN6gQYsCDInQPQXTfGit2Qe0208gA98JPc+fGbCZ5FTO9GAocLso9baWrQDLQg==;0emZZ1jBlfnDaY2UERDfBg=="
+secured: "SI3LZwWq6WaL8FiiMclKNlbIk5V3Wn2LM/xevI11tE+iR7StWVp05jIrYnSldDpo6IutzMLMWgvmYPJbD86GUQ9Zm+dfo+qSeNbzU7f7gW4uSHb92y5gmmuMBLcjf+1EyFZ+quVPTX5ELQnIs8Zkns4X4sn/b6ltMQPS8tFemVCMMONkdDHmtN6rdOSc3Wb1Sa7NQyztoYl+0fhQ66Pw/GIqM1NtRiJnMl8uQigLu5SZv/xLhdvz+m3QmOe+xooevHvT91FvA8Z4STSSRdlCgkiLl51HQqMzgx5FMjTTj1jB/EiYmeia+a8XUt8wtPULSF9B/mmXkqTAbpgFY47m/gLS1p4JfNHAUAlspN2mdRA=;PrbVEUckuenBd4w3cuhB3Q=="
 ---
 

@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Biden’s biggest remaining personnel decision meets heat from the left"
-excerpt: "The biggest force standing between Jerome Powell and a second term as Fed chair may be an activist left prepared to create a spectacle."
-publishedDateTime: 2021-05-11T08:30:00Z
-originalUrl: "https://www.politico.com/news/2021/05/11/fed-chair-powell-biden-left-486746"
-webUrl: "https://www.politico.com/news/2021/05/11/fed-chair-powell-biden-left-486746"
-ampWebUrl: "https://www.politico.com/amp/news/2021/05/11/fed-chair-powell-biden-left-486746"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/11/fed-chair-powell-biden-left-486746"
+title: "Biden administration gives House panel documents related to Trump hotel"
+excerpt: "The General Services Administration has provided House Democrats with documents related to former President Donald Trump's Washington hotel, in the second case this week where the Biden administration gave the House information that the Trump administration had blocked it from obtaining.\n    \n"
+publishedDateTime: 2021-05-14T23:41:03Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2J2QcBlDuIw/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2J2QcBlDuIw/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/14/politics/trump-international-hotel-documents/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/14/politics/trump-international-hotel-documents/index.html"
 type: article
-quality: 135
+quality: 190
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/41/77/9f43269e40f186280b2ed37745b9/210510-jerome-powell-getty-773.jpg"
-    width: 1160
-    height: 773
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200415152236-trump-hotel-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -45,22 +44,6 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506174518-01-white-house-south-lawn-construction-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration gives House panel documents related to Trump hotel"
-    excerpt: "The General Services Administration has provided House Democrats with documents related to former President Donald Trump's Washington hotel, in the second case this week where the Biden administration gave the House information that the Trump administration had blocked it from obtaining.\n    \n"
-    publishedDateTime: 2021-05-14T23:41:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2J2QcBlDuIw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/14/politics/trump-international-hotel-documents/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/14/politics/trump-international-hotel-documents/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200415152236-trump-hotel-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -448,6 +431,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden’s biggest remaining personnel decision meets heat from the left"
+    excerpt: "The biggest force standing between Jerome Powell and a second term as Fed chair may be an activist left prepared to create a spectacle."
+    publishedDateTime: 2021-05-11T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/05/11/fed-chair-powell-biden-left-486746"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/05/11/fed-chair-powell-biden-left-486746"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/11/fed-chair-powell-biden-left-486746"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/41/77/9f43269e40f186280b2ed37745b9/210510-jerome-powell-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "House Democrats and White House Reach Deal Over Testimony by Ex-Trump Aide"
     excerpt: "A terse announcement signaled a possible end to a long-running constitutional lawsuit. But former President Donald J. Trump is not a party to the arrangement."
     publishedDateTime: 2021-05-12T01:45:00Z
@@ -523,6 +522,6 @@ related:
         height: 629
         isCached: true
 
-secured: "iIXMXjifhljCaQmDT/bVcjebIkDHYvAW21nCjmkRbxIVcYiTR0sCsvUY6UBCs1hdVIpeBqKwquCJbuu2nel0tw9v/Y1yc/Aq+jolokAPVsZPCpPXQDpRLCDcKrIKdExaTqpnowsnldUCM54Vw6tjYow556RHTzeIoKifkKS3ZsIf5EAJ4d815Ok/I9Sn9dLFIWHtdgblypt74wjJV4bPievhwIz6fM2JfzJJhDKX+3jbxB/HTvrLCxByaIw/8lMackTXo3CX1OabZuLRvlktqRW01oUND8JMBmt+2xlYdhpZKQ+Qn2tFnvai4s4cMK1DUE2OtJTyEJjsAAk3LGlHdb5sWt4Mt2v3NFOV+b1+g0+mc7uX/bVQBBKaHjuKluWU3tOTg4iCoILXg+tVu58bbhW31x5lBuoFvqKPnEtcMagkMU0xbdFRbD/t2UIfB54MXmeN+Wl1pHzUELgdhph+yevWqZaX1gEea10UmTTZlHyPAIDRfy4HtkO3HaMvv2ijZrFxFHR8S52EOGSiRSaPjw==;ndPW+QkyFD/a2khlkY1DjA=="
+secured: "mGzt4Pd6utrVZ2ar3qMx6uHgQnk2GIYOGWQCquDh1XSATq6B++AYA73nXkhBvdBszI3coYxc8gcSDwzcydoEqD3PUxxgb6LgDAUXRMxDduNuUhp90BTrVOv8nJSsD91kOPnJo5t02QoMx3hpS3P0J2ByO2WP8UgBS7sm1OowyYhIZ/yEnARhKwF+xCKZkj0aAq7ILm1BgjsEh0RAnA4tL2JR8vCfMLNCsWLzKifLA9vyo0FEISpEt0irf5O87vcEr6iJqGBjAXkr3lneqiHoHDZbmpBPSoXd/01r4lU3yd2t1wT+fBOi2l0s4iZ8werdHmczYFhJ9QHb5fLsu3sA7u+6vD6ieUeD39EMVrWZQFk=;JIIpLvwYx4hPLucEB+FFFw=="
 ---
 

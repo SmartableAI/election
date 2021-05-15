@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration gives House panel documents related to Trump hotel"
+    excerpt: "The General Services Administration has provided House Democrats with documents related to former President Donald Trump's Washington hotel, in the second case this week where the Biden administration gave the House information that the Trump administration had blocked it from obtaining.\n    \n"
+    publishedDateTime: 2021-05-14T23:41:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2J2QcBlDuIw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/14/politics/trump-international-hotel-documents/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/14/politics/trump-international-hotel-documents/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200415152236-trump-hotel-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration releases Trump-era deadly force rules for terrorist suspects abroad"
     excerpt: "The Biden administration disclosed Trump-era rules on Friday regulating the use of deadly force against terrorism suspects abroad, releasing them with several redacted lines to the American Civil Liberties Union and the New York Times as part of a Freedom of Information Act lawsuit after the Trump administration"
     publishedDateTime: 2021-05-01T22:46:05Z

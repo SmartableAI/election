@@ -47,6 +47,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "House GOP elect Trump defender Stefanik as their number three in leadership"
+    excerpt: "Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership, electing an ardent Donald Trump defender in hopes of calming their searing civil war over the deposed Rep. Liz Cheney's unremitting combat with the former president."
+    publishedDateTime: 2021-05-15T00:07:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/14/house-gop-elect-trump-defender-stefanik-no-3/5090514001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/14/USAT/ff68f52c-e9f6-4328-83e4-dd6734228216-c7f98d30-0917-47bb-93b0-c461553ba2a4_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
 
 secured: "xrcHTe6BBoq9wWe+Dql8dbVLn7xnHq2zaSKMnLbyYRsjXMO2ac6O5+BiVeEi5VxVXYd0AUfypy5SkWtw6bCbpGu1j8l1JfogJ6/EdwXKRapA8CMqWhZ2QdzEjbH6LC0dlGwOkH+OGj4P24MzOJBoh4xnvM3YZ70ySO3pIe8X1JLNFTNTEhLeA2dxzKNBqaHRcWFw6PDon+OMsOZ1k0TuipiYrh5JAEDLBKHax/yMLBG6TLoWB820aYxmfRFNY+wr6iS98saLFXb5knf308XSw6j6FFA2J9hdjjk44Lb18fEtLZGXcpPs2d6hju/e6O9PUj0BqjQRnFtxIChabttZWlPoZ1erYbS8qIjMwsJTTuSDBgjqj99azzs6Y5HlDAz334U4iamMicSmrOcmgYvAmeMXqD60bs8h6obFGddYEDlnFj8wsd3w22dRc04HZrNZZMnHSgG+nR3JrSyqPP8iH4y/Q6+s0RgyOQis19ZlbsMGVYvJLxzyOqiU3StGKpYOHUqGocxdXF1mOJ30ASzTrQ==;P8zscGbRFNIYbXqlSCO5vQ=="
 ---
