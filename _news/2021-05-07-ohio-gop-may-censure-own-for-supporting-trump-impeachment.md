@@ -87,6 +87,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "D.C. Circuit hears NLRB's bid to revive Trump-era election rule"
+    excerpt: "Lawyers for the National Labor Relations Board on Friday urged a panel of the U.S. Court of Appeals for the D.C. Circuit to revive key provisions of a Trump-era rule designed to slow down the union election process,"
+    publishedDateTime: 2021-05-14T20:23:00Z
+    webUrl: "https://www.reuters.com/article/legal-us-employment-nlrbrule-arguments-idUSKBN2CV2GE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CV2GE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CV2GE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210514&t=2&i=1562174593&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4D1AB"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Biden administration restores transgender health protections, reversing Trump policy"
     excerpt: "The move reverses a Trump-era policy​ that sought to narrow the scope of legal rights in sensitive situations involving medical care."
     publishedDateTime: 2021-05-10T13:00:00Z
@@ -455,6 +471,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "House GOP tries to look forward with elevation of Stefanik, but Trump election falsehoods will remain issue"
+    excerpt: "The New York Republican pitched herself as a candidate who will focus on pushing the House Republican message and focus on attacking the Biden administration’s policies, while standing by former president Donald Trump’s false election claims."
+    publishedDateTime: 2021-05-14T21:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/stefanik-trump-cheney/2021/05/13/d62dc096-b421-11eb-ab43-bebddc5a0f65_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/stefanik-trump-cheney/2021/05/13/d62dc096-b421-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/stefanik-trump-cheney/2021/05/13/d62dc096-b421-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TNNQUXFUZEI6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden’s IRS Blocks Developer Push to Expand a Trump Tax Break"
     excerpt: "President Joe Biden’s administration is shutting down attempts by developers to use new Census Bureau maps to claim generous tax breaks enacted by Donald Trump."
     publishedDateTime: 2021-05-14T18:55:00Z
@@ -581,6 +613,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "President Joe Biden revokes Trump orders on `heroes garden' and other issues"
+    excerpt: "President Joe Biden on Friday revoked a number of his predecessors executive orders including one to create a \"National Garden of American Heroes.\""
+    publishedDateTime: 2021-05-14T20:54:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/05/14/biden-revokes-trump-orders-heroes-garden-and-other-issues/5097056001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5097056001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5097056001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 87
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/22/USAT/61ae1b19-7b8c-4bca-9fc1-3de252cdff66-AP_Trump_Mount_Rushmore.jpg?auto=webp&crop=4488,2525,x0,y280&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden restores transgender health discrimination protections that Trump rolled back"
     excerpt: "Health and Human Services Secretary Xavier Becerra said that federal law barring sex discrimination also protect LGBTQ people."
     publishedDateTime: 2021-05-10T13:51:00Z
@@ -642,6 +690,22 @@ related:
     quality: 75
     images:
       - url: "https://s.hdnux.com/photos/01/20/02/13/20980479/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "In devotion to Trump, House GOP tabs Stefanik for a top post"
+    excerpt: "House Republicans elevated Rep. Elise Stefanik to a leadership post Friday, highlighting how the party whose lodestar has long been conservative policies increasingly views allegiance to Donald Trump as its indispensable key to electoral success."
+    publishedDateTime: 2021-05-14T20:42:00Z
+    webUrl: "https://www.chron.com/news/article/Hoping-for-unity-GOP-set-to-put-Stefanik-in-top-16176249.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Hoping-for-unity-GOP-set-to-put-Stefanik-in-top-16176249.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Hoping-for-unity-GOP-set-to-put-Stefanik-in-top-16176249.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/04/67/20991439/3/ratio3x2_400.jpg"
         width: 400
         height: 267
         isCached: true

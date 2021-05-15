@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-reverses-trump-era-policies-l
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp"
 type: article
 quality: 190
-heat: 1450
+heat: 1470
 published: true
 
 provider:
@@ -476,6 +476,22 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-337792/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden Revokes Several Executive Actions Taken by Trump"
+    excerpt: "The president’s proclamations rescind orders concerning a healthcare requirement for green-card applicants, the protection of U.S. monuments and legal protections for online platforms."
+    publishedDateTime: 2021-05-14T21:50:00Z
+    webUrl: "https://www.wsj.com/articles/biden-revokes-several-executive-actions-taken-by-trump-11621032637?mod=politics_lead_pos6"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-revokes-several-executive-actions-taken-by-trump-11621032637"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-revokes-several-executive-actions-taken-by-trump-11621032637"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-339013/social"
         width: 1280
         height: 640
         isCached: true

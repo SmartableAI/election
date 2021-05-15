@@ -119,6 +119,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden voices optimism on forging infrastructure deal with Republicans"
+    excerpt: "President Joe Biden said on Thursday that he was optimistic a deal on infrastructure spending could be reached after meeting with Republican lawmakers on the subject earlier in the day."
+    publishedDateTime: 2021-05-14T00:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-republicans-meeting/biden-voices-optimism-on-forging-infrastructure-deal-with-republicans-idUSW1N2KV00R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2KV00R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2KV00R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "President Joe Biden is visiting Louisiana on Thursday: What we know about his agenda, arrival"
     excerpt: "As part of promotion of the $2.3 trillion infrastructure plan, President Joe Biden is making a couple of stops in Louisiana on Thursday to discuss projects to rebuild the nation’s"
     publishedDateTime: 2021-05-05T22:04:00Z

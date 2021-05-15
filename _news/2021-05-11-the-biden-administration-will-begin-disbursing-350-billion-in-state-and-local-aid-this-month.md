@@ -400,6 +400,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Beneath Joe Biden’s Folksy Demeanor, a Short Fuse and an Obsession With Details"
+    excerpt: "As Mr. Biden settles into the office he has chased for more than three decades, aides say he demands hours of debate from scores of policy experts."
+    publishedDateTime: 2021-05-14T07:00:00Z
+    webUrl: "https://www.nytimes.com/2021/05/14/us/politics/joe-biden-policy-decisions.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/14/us/politics/joe-biden-policy-decisions.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/14/us/politics/joe-biden-policy-decisions.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/08/us/politics/08dc-biden-promo/08dc-biden-promo-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Biden wants trillions for infrastructure, but a big hurdle will remain: Spending the cash"
     excerpt: "Progressives are optimistic that the administration learned from the struggles of the 2009 stimulus and will be able to move faster."
     publishedDateTime: 2021-05-08T17:39:00Z

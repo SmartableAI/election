@@ -109,6 +109,17 @@ related:
         width: 1440
         height: 969
         isCached: true
+  - title: "Biden voices optimism on forging infrastructure deal with Republicans"
+    excerpt: "President Joe Biden said on Thursday that he was optimistic a deal on infrastructure spending could be reached after meeting with Republican lawmakers on the subject earlier in the day."
+    publishedDateTime: 2021-05-14T00:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-republicans-meeting/biden-voices-optimism-on-forging-infrastructure-deal-with-republicans-idUSW1N2KV00R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2KV00R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2KV00R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Biden wants progress on infrastructure deal by end of May -White House"
     excerpt: "U.S. President Joe Biden told a group of Republican senators at a meeting on Thursday that he wants to see progress towards a possible deal on infrastructure spending by the end of May, the White House said in a statement."
     publishedDateTime: 2021-05-14T01:33:00Z
