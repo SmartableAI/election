@@ -365,6 +365,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Liz Cheney says she regrets voting for Trump in 2020"
+    excerpt: "Liz Cheney said she regrets voting for Donald Trump in the 2020 election, speaking in a \"This Week\" interview with ABC Chief Washington Correspondent."
+    publishedDateTime: 2021-05-15T00:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/liz-cheney-regrets-voting-trump-2020/story?id=77695446"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/liz-cheney-regrets-voting-trump-2020/story?id=77695446"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/liz-cheney-regrets-voting-trump-2020/story?id=77695446"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/jon-karl-liz-cheney-interview-05-abc-jc-210514_1621022394989_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "House GOP leader Kevin McCarthy amps up pressure on Liz Cheney over Donald Trump barbs"
     excerpt: "Kevin McCarthy has planted himself on the side of Liz Cheney's critics, raising the question of her fitness to lead House Republicans."
     publishedDateTime: 2021-05-04T16:35:00Z

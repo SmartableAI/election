@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/07/politics/kfile-elise-stefanik-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/07/politics/kfile-elise-stefanik-trump-comments/index.html"
 type: article
 quality: 162
-heat: 182
+heat: 202
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "In Stefanik, G.O.P. Installs a Trump Convert Who Reflects the Party’s Shift"
+    excerpt: "Once a moderate, Representative Elise Stefanik of New York, the party’s new No. 3 in the House, tacked to the right as her party and district rallied behind Donald J. Trump."
+    publishedDateTime: 2021-05-14T21:27:00Z
+    webUrl: "https://www.nytimes.com/2021/05/14/us/politics/stefanik-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/14/us/politics/stefanik-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/14/us/politics/stefanik-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/14/us/politics/14dc-stefanik/14dc-stefanik-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Live Updates: House G.O.P. Elects Stefanik as No. 3 Leader, Installing Trump Loyalist"
     excerpt: "Republicans chose a new top messenger for their conference, moving swiftly to replace Representative Liz Cheney of Wyoming, who was ousted for repudiating Donald J. Trump’s election fraud lies."
     publishedDateTime: 2021-05-14T09:26:00Z

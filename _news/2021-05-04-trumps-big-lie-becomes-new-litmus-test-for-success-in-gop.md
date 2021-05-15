@@ -361,6 +361,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Liz Cheney says she regrets voting for Trump in 2020"
+    excerpt: "Liz Cheney said she regrets voting for Donald Trump in the 2020 election, speaking in a \"This Week\" interview with ABC Chief Washington Correspondent."
+    publishedDateTime: 2021-05-15T00:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/liz-cheney-regrets-voting-trump-2020/story?id=77695446"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/liz-cheney-regrets-voting-trump-2020/story?id=77695446"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/liz-cheney-regrets-voting-trump-2020/story?id=77695446"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/jon-karl-liz-cheney-interview-05-abc-jc-210514_1621022394989_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The crucial thing Liz Cheney’s GOP critics don’t say: She’s wrong about Trump"
     excerpt: "Liz Cheney (Wyo.) may not be long for House GOP leadership. After a failed attempt to oust the No. 3 GOP official following her vote to impeach President Donald Trump, the movement has again built steam following Cheney’s increasing efforts to distance her party from Trump and his false claims about a stolen 2020 election."
     publishedDateTime: 2021-05-04T15:49:00Z

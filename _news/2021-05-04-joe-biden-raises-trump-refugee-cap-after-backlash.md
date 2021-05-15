@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 2430
+heat: 2450
 published: true
 
 provider:
@@ -1749,6 +1749,15 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 35
+  - title: "Joe Biden's support for unions central to his White House"
+    excerpt: "No recent president of either party has come close to expressing the overt support for the labor movement that Biden has during his first three months."
+    publishedDateTime: 2021-05-07T00:00:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/local/michigan/2021/05/07/joe-biden-labor-unions/4922992001/"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 35
 
 secured: "wDIgGWhRhUfIpP6/eya/QrAHr6o7dooQ6xUSCCHYIRhkKQGsv2uz/4oNkyy66wrxxtscWFblcswilGEKsn5TROhCsSHc72YgqKGE5pfif6EGDZoGS/vEElUfqakwJQ5osn5bS0WwrZQSxF7N+AEUYDc/pr1ln7kt4ps/CdXFD770jzjkXNV4EepM8g6Oud7wkz8alR4krcGNuEHESzHggfRcpik+NCq8XlltZntzU1jhPs98jYMCyHAvekdpIg2nY7yPDKDR+YTrhK9sSrJcVfQYY3s9VWGV9DgwW85E5fihGxdMpV0gaGpNCmU0i/CaFG73UtEeMFQDPEOuNCA+cZOyWKLMmWGvvhbQy006bVgccsphoYoOz5UHCISlKqTDz51hD+Lt9lJnx1PQWqlbg2J0VQpDM7yITlPHgE8BnRMdJrH/8sZP/p49DlS9WabWiEKLpv6xMb5elHzthgzpKs0XErcFvcil4b5ZrojsiP0q3xyYOrYFzXuWS+vn//rOLgxKrwYHDFdm9NHn9YTmxw==;iDoHY24kCL9/9Jxz/kw0dg=="

@@ -3,8 +3,8 @@ category: news
 title: "After 100 Days, Mike Pence Speaks: Biden Threatens Progress \"We\" Made Under Trump"
 excerpt: "Former Vice President Mike Pence called for conservatives to unite in opposition to President Biden's agenda during his first public speech since leaving office Thursday in South Carolina. Pence referred to progress \"we\" made under the Trump administration after publicly breaking with Trump during and after the January 6 riot."
 publishedDateTime: 2021-04-30T12:16:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/04/30/after_100_days_mike_pence_makes_first_public_remarks_biden_threatens_to_derail_progress_we_made.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/04/30/after_100_days_mike_pence_makes_first_public_remarks_biden_threatens_to_derail_progress_we_made.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/04/30/after_100_days_mike_pence_makes_first_public_remarks_biden_threatens_to_derail_progress_we_made.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/04/30/after_100_days_mike_pence_makes_first_public_remarks_biden_threatens_to_derail_progress_we_made.html"
 type: article
 quality: 90
 heat: -1
@@ -1639,6 +1639,6 @@ related:
         height: 2901
         isCached: true
 
-secured: "qTGbKD3S2fbh74xA7pfTFmdeE+XnLFHdFSexKdhKpY8j98E3Fh65KJm9JhxazLzcUv6pCzJLWiOyLcrL2UYpn3RHAD63kScUz9kvtjEBUoiL9zRT5ZStadvG+3l10dBIK5IrjOIPH+/Nlk+ob86KUktxyeO7vASGs0rkeyWGEMnepDPsZRMoVAUJg7bFgdNcBkq440yHJqpApCE2w5ho8lo7/MLb1Zbzz4RaFE+9lVuzxGn1/oAcAONI2cO8d4twS3ju3HNv3dWXog72GXJPWyR1NvEe6DGq+d7u/K87vrtaPXSOhdL9KAGh6Wew6oXm+YMMDB2Ej4r/VQF7z38Cm2BHXK263Vu1Fhi9CD+g6Yw=;f0FU0E2BxQD9OzvcYXqmTA=="
+secured: "tVDXTFtum3Obp3+PkNvi33bwj4ld/aLmb5cadGF0YBJKDPMbYnke9CRgxdGsnJZd37YxNjCWw8RfQBRnEoGoKO4aR1CbbXw2YIXuK4u3mzaOekaWvDqEXHh6xgvAIM5tgQjJ7WUdGOOi3MyOghjAXHfR6SThB/KQK1HeAa+IJ+2FDKgdjh0pYQiC3bo9Vw9jdf3B/C7NSWsZffpborWUpIIzbVErMchZszgE0W8xCpixwbHmiVUx0Q4IdnZCR5f1LQa6HHHbLlDojJgPYSqHKr9PNiJMzCsDNGW4dBkpSPVWQFbFwxv79mpn9RWB0kZcrY+WcXvZKBN2u+nqrYcItgP/ZmpQlsz9Pier8MvuqwM=;kiTKvmWdvP6t/wVs5sFOKg=="
 ---
 

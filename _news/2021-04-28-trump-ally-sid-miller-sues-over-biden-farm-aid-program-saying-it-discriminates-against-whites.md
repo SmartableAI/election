@@ -1749,6 +1749,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Joe Biden's support for unions central to his White House"
+    excerpt: "No recent president of either party has come close to expressing the overt support for the labor movement that Biden has during his first three months."
+    publishedDateTime: 2021-05-07T00:00:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/local/michigan/2021/05/07/joe-biden-labor-unions/4922992001/"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 35
 
 secured: "7MK1h8jxFJiKIDStEb5AogielO9kBf1O0SXD0Adx2pgEdfA+xFJiXb+386nSnEDBBQbt/45bg+1Hn9JX3v5k7aAsrkKK4O3f5tX+X+deI+Ml2+sUz4RXIcN1cjwai0IQn/3SKg84arHhltXvlzZnsV/auHQnBktw28wkEc2Q0Vo8vU27EVH7aUMXfAVq982wzqybvg309qSbfOpDJNl58iJQeBBg4L+15n+7ysa6bt/8j9lqPtf1EwHSKH4ZfwB4kxrYA//dw/+IqTT0D0z02K+IxDBwVEAFjY/nEZ9LoOOUKpUDetYJKmJ7dbp3xv40jd+plu7aYEtELSqjW+WQ5YirykDf4cPw9SpxsSm8Fx2zSatYUdgvaBMn9huy4ZwVbDzZLXRyaAJ24W65zR/vumLniU7Msj8AECpBYoQSoYBxxGqyFVLoB9o15BXkNUJqnYl8OBW88fuymo8DeIzi7LAFFAVnfUPw0pQlwv9gknVQfBVBFYLbaTrZTLQLjZD9OgYnWcMD909tQfXmzOMuRQ==;6XTeY7h7JilEuarBr7Fj9A=="
 ---

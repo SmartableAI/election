@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Why GOP leaders are playing it smart when it comes to Trump"
+    excerpt: "The House GOP's move to remove Rep. Liz Cheney from her leadership position is widely seen as the latest move to placate the base at the risk of alienating the center of the electorate. Cheney had voted to impeach former President Donald Trump and has continued her critiques of him while most other Republicans"
+    publishedDateTime: 2021-05-15T16:24:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sadTD29IEkE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/15/politics/republicans-trump-cheney-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/15/politics/republicans-trump-cheney-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512134652-kevin-mccarthy-white-house-0512-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Takeaways from a day of congressional Republicans embracing Trump and downplaying the US Capitol riot"
     excerpt: "The ongoing battle between truth and lies, and the continued fallout from the January 6 insurrection, played out Wednesday on Capitol Hill with critical oversight hearings and a landmark vote among the House Republicans to oust Liz Cheney from their leadership ranks.\n    \n"
     publishedDateTime: 2021-05-12T21:12:16Z

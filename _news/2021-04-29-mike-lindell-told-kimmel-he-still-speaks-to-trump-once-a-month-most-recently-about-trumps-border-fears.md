@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump-mimicking Twitter account booted from social media platform"
+    excerpt: "This isn't Twitter's first go-around dealing with accounts trying to tweet posts from the former president, who was booted off the platform in January."
+    publishedDateTime: 2021-05-07T15:35:00Z
+    webUrl: "https://www.masslive.com/politics/2021/05/twitter-account-mimicking-donald-trumps-new-blog-booted-from-social-media-platform-after-posting-tweets-identical-to-former-presidents-blog-posts.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/05/twitter-account-mimicking-donald-trumps-new-blog-booted-from-social-media-platform-after-posting-tweets-identical-to-former-presidents-blog-posts.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/twitter-account-mimicking-donald-trumps-new-blog-booted-from-social-media-platform-after-posting-tweets-identical-to-former-presidents-blog-posts.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SJP6CEF62RGIXILQCPUR6G57EE.jpg"
+        width: 4090
+        height: 2727
+        isCached: true
 
 secured: "tefvGK+ntTmYHD04wuhsQ9U39roBiqWT2DCZsoWZODobXt7/7B3kbLEZLU+q+MpfgV5JqSeIth7UYKPct/j0LgZINA+GBq9QrjaX414OLVibWnR/yh1W8Oi1JZqM436EgQVPgn+tEcfuRRuguUXurFHt1s0Re/LfKpW7cw6t/3jsnhwBz8jbNFVYESQ/MS6q5H9kYK4d1Hx24syV28L1LP+yuY6xtXz6kyx3I38VOG5W/EW4KS28xrty2RWpfqvuoN14CFndJobkcxI0MKlS4P/ezOpogX4HdBkK/GfsnffjxCllf1W6Qj/z2iFEYsvYsJ+IRdqmmaWbTwHOlHv4W7G4iT76zjFhu5oE/0cQKG0Y0ni4c/svTPi9+0b4F2itQ0VoYxm5LEZyX5FTw3G4yH+3MeY94V6OQiwmNPYZGZqx7c8WhPT2984RkZ0Zo5mfw8EfIX5sBzZtQqbyt9i4VgqzQyGvyq+TLV62JXvp0tJs4CCcbrSFwRSoaNp7tRG5KnMtGXwMx9Tmze2Mr7FmGA==;jH+Es6DjkUqhXAlkU/NT7Q=="
 ---

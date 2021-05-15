@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/551420-lincoln-project-trump-l
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/551420-lincoln-project-trump-lost-to-swamp-mcconnell?amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://i.insider.com/608a6ca235c46f0018c0b2d5?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump-mimicking Twitter account booted from social media platform"
+    excerpt: "This isn't Twitter's first go-around dealing with accounts trying to tweet posts from the former president, who was booted off the platform in January."
+    publishedDateTime: 2021-05-07T15:35:00Z
+    webUrl: "https://www.masslive.com/politics/2021/05/twitter-account-mimicking-donald-trumps-new-blog-booted-from-social-media-platform-after-posting-tweets-identical-to-former-presidents-blog-posts.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/05/twitter-account-mimicking-donald-trumps-new-blog-booted-from-social-media-platform-after-posting-tweets-identical-to-former-presidents-blog-posts.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/05/twitter-account-mimicking-donald-trumps-new-blog-booted-from-social-media-platform-after-posting-tweets-identical-to-former-presidents-blog-posts.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SJP6CEF62RGIXILQCPUR6G57EE.jpg"
+        width: 4090
+        height: 2727
         isCached: true
 
 secured: "nKP+x1l/tjSzS2jqOWvctUwmmNAn2j+lxDAiik/SlGLxICfaJr41QpX0irlczC9Pu2fVZDCmdcVpuQ0PrELfgEZF8yV8DVnjqa1vlLiWSFj20GFUIlImpBnzQVcsBUI5ZnSD3WnwCwmEZoN1NI4obN3EG4cM1gDX5IixwH3UzwfvAF6rzEkLMv27HrocXAVZrmh/jqUeYgcX0p7zZMnGFJRA0NKdA9AbnSrWABfuJEux9CZBgeVBohkPb7eh4H4WOIp4UCuOmPGwgd+Bms8akziCn6dnvw6Nn5oko+km9b0Arcp37fBA0BJ8VEcjhKTZbS87OJhlOJZg9lnGAxbnzX4cJ3BxBwwi2moNdUic4p07adwzW8D+y8X4RgVLVcz0H2k+a84oRfvun7AbL6H0eshLmkZ2i+pjV3o8/hQ2ppCPBL6HH3HgWgAVC1TpqWKnADb43fZv+ErvdKCVQxzl9CTuCeJpOWpkrAH+GXKFlHLeKC4SR5mFZpJUjufFOPilDteoOL5rfHYaPdfA5BAjuw==;zCv88pT8/o0DEFLi74MnKw=="
