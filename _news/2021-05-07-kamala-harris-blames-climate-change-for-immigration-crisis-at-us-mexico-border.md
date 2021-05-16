@@ -121,6 +121,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
+    excerpt: "Politicking aside, some Democrats, nonpartisan policy experts and pro-immigrant advocacy groups also say Kamala Harris should visit the border."
+    publishedDateTime: 2021-05-16T00:00:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/05/16/republicans-arent-alone-saying-kamala-harris-should-visit-southern-border/5098783001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5098783001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5098783001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/14/PDTN/3213f99c-f4f9-4f38-b978-9c8fa263a782-US-NEWS-IMMIGRATION-HARRIS-LA.jpg?auto=webp&crop=1499,843,x1,y114&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "VP Harris says U.S. needs to fix 'implicit bias' in policing after Minnesota shooting"
     excerpt: "Vice President Kamala D. Harris said Tuesday that “folks will keep dying” if the U.S. doesn’t stamp out racial bias in law enforcement."
     publishedDateTime: 2021-04-13T17:44:00Z

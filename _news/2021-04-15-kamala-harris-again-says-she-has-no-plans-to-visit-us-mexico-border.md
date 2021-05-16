@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-v
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1"
 type: article
 quality: 125
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/05/AP_Poll_Immigration_11730.jpg-b711f_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
+    excerpt: "Politicking aside, some Democrats, nonpartisan policy experts and pro-immigrant advocacy groups also say Kamala Harris should visit the border."
+    publishedDateTime: 2021-05-16T00:00:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/05/16/republicans-arent-alone-saying-kamala-harris-should-visit-southern-border/5098783001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5098783001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5098783001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/14/PDTN/3213f99c-f4f9-4f38-b978-9c8fa263a782-US-NEWS-IMMIGRATION-HARRIS-LA.jpg?auto=webp&crop=1499,843,x1,y114&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kamala Harris blames climate change for immigration crisis at U.S.-Mexico border"
     excerpt: "The Biden administration is reframing the migrant crisis at the U.S.-Mexico border, saying the influx results not from any White House actions, but rather from climate change in Central America’s Northern Triangle of El Salvador,"

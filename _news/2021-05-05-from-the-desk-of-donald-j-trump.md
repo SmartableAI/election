@@ -529,6 +529,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Chuck Todd and Texas Rep. Dan Crenshaw Get Into Heated Exchange Over Trump and GOP Rifts"
+    excerpt: "NBC host Chuck Todd and Texas Rep. Dan Crenshaw on Sunday engaged in a heated exchange over former President Donald Trump and the future of the Republican Party. In a segment on NBC's Meet the Press,"
+    publishedDateTime: 2021-05-16T19:08:00Z
+    webUrl: "https://www.newsweek.com/chuck-todd-texas-rep-dan-crenshaw-get-heated-exchange-over-trump-gop-rifts-1591928"
+    ampWebUrl: "https://www.newsweek.com/chuck-todd-texas-rep-dan-crenshaw-get-heated-exchange-over-trump-gop-rifts-1591928?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chuck-todd-texas-rep-dan-crenshaw-get-heated-exchange-over-trump-gop-rifts-1591928?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1798345/dan-crenshaw-chuck-todd.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Cheney's views on Trump puts her GOP post in peril"
     excerpt: "No. 3 House Republican Liz Cheney was clinging to her post Wednesday as party leaders lined up behind an heir apparent, signaling that fallout over her clashes with former President Donald Trump was becoming too much for her to overcome."
     publishedDateTime: 2021-05-06T01:45:00Z

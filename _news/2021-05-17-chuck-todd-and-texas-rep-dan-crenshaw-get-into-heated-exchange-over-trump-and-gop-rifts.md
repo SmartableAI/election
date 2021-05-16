@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden to cancel Trump proposal to require immigrants' eye scans, voice prints and DNA samples"
-excerpt: "Former President Trump proposed a rule that would have required immigrants to submit biometric information with many applications. Biden has cancelled the rule. “They’re using what is overly general language in the law to justify a massive,"
-publishedDateTime: 2021-05-08T16:31:00Z
-originalUrl: "https://thehill.com/changing-america/resilience/refugees/552479-biden-to-cancel-trump-proposal-to-require-immigrants-eye"
-webUrl: "https://thehill.com/changing-america/resilience/refugees/552479-biden-to-cancel-trump-proposal-to-require-immigrants-eye"
-ampWebUrl: "https://thehill.com/changing-america/resilience/refugees/552479-biden-to-cancel-trump-proposal-to-require-immigrants-eye?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/resilience/refugees/552479-biden-to-cancel-trump-proposal-to-require-immigrants-eye?amp"
+title: "Chuck Todd and Texas Rep. Dan Crenshaw Get Into Heated Exchange Over Trump and GOP Rifts"
+excerpt: "NBC host Chuck Todd and Texas Rep. Dan Crenshaw on Sunday engaged in a heated exchange over former President Donald Trump and the future of the Republican Party. In a segment on NBC's Meet the Press,"
+publishedDateTime: 2021-05-16T19:08:00Z
+originalUrl: "https://www.newsweek.com/chuck-todd-texas-rep-dan-crenshaw-get-heated-exchange-over-trump-gop-rifts-1591928"
+webUrl: "https://www.newsweek.com/chuck-todd-texas-rep-dan-crenshaw-get-heated-exchange-over-trump-gop-rifts-1591928"
+ampWebUrl: "https://www.newsweek.com/chuck-todd-texas-rep-dan-crenshaw-get-heated-exchange-over-trump-gop-rifts-1591928?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chuck-todd-texas-rep-dan-crenshaw-get-heated-exchange-over-trump-gop-rifts-1591928?amp=1"
 type: article
-quality: 129
+quality: 116
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/ca._bio_immigrantsgettyimages-79469216.jpg"
-    width: 1440
-    height: 880
+  - url: "https://d.newsweek.com/en/full/1798345/dan-crenshaw-chuck-todd.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -158,6 +158,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/10/01342bd7-4387-460d-acc1-a9d4cded49d6/thumbnail/1200x630g3/e26829fa7786553ce7bd9a6f160fc09b/ap17162636435092.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden to cancel Trump proposal to require immigrants' eye scans, voice prints and DNA samples"
+    excerpt: "Former President Trump proposed a rule that would have required immigrants to submit biometric information with many applications. Biden has cancelled the rule. “They’re using what is overly general language in the law to justify a massive,"
+    publishedDateTime: 2021-05-08T16:31:00Z
+    webUrl: "https://thehill.com/changing-america/resilience/refugees/552479-biden-to-cancel-trump-proposal-to-require-immigrants-eye"
+    ampWebUrl: "https://thehill.com/changing-america/resilience/refugees/552479-biden-to-cancel-trump-proposal-to-require-immigrants-eye?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/resilience/refugees/552479-biden-to-cancel-trump-proposal-to-require-immigrants-eye?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 129
+    images:
+      - url: "https://thehill.com/sites/default/files/ca._bio_immigrantsgettyimages-79469216.jpg"
+        width: 1440
+        height: 880
         isCached: true
   - title: "Biden restores health care protections for gay and transgender people, reversing Trump policy"
     excerpt: "The action reverses a Trump-era policy that sought to narrow the scope of legal rights in sensitive situations involving medical care."
@@ -525,22 +541,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Chuck Todd and Texas Rep. Dan Crenshaw Get Into Heated Exchange Over Trump and GOP Rifts"
-    excerpt: "NBC host Chuck Todd and Texas Rep. Dan Crenshaw on Sunday engaged in a heated exchange over former President Donald Trump and the future of the Republican Party. In a segment on NBC's Meet the Press,"
-    publishedDateTime: 2021-05-16T19:08:00Z
-    webUrl: "https://www.newsweek.com/chuck-todd-texas-rep-dan-crenshaw-get-heated-exchange-over-trump-gop-rifts-1591928"
-    ampWebUrl: "https://www.newsweek.com/chuck-todd-texas-rep-dan-crenshaw-get-heated-exchange-over-trump-gop-rifts-1591928?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chuck-todd-texas-rep-dan-crenshaw-get-heated-exchange-over-trump-gop-rifts-1591928?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
-    images:
-      - url: "https://d.newsweek.com/en/full/1798345/dan-crenshaw-chuck-todd.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Cheney's views on Trump puts her GOP post in peril"
     excerpt: "No. 3 House Republican Liz Cheney was clinging to her post Wednesday as party leaders lined up behind an heir apparent, signaling that fallout over her clashes with former President Donald Trump was becoming too much for her to overcome."
     publishedDateTime: 2021-05-06T01:45:00Z
@@ -832,6 +832,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "ZGIL5s38UBDFaNKI6pQN7NEsgB7s6uyEhbh3SiFpW+SWYCM4eUe7uPCwLyLMkLwnz3Qkl63V2dN0O3U+/ADz6W4QnsySZBRpkPKMbZQicrVgYks8/BOLMlYxJhG9EtvP8Xr/bMXdAqAS0WjDhqWhKOP1Gw8CNNiDQR/Lf7LEEKqoQogx0jqvECYIRqsFWtarrYsZe2HYy9gChtFF0U8/6/+NMs15AlQL+itdJPNvK08K17ri017hHhwL2gDGuYMzdlw9+MJNBdGeAng3S+CZSAOeMa/rO/hCMZQHPiR3L/VDmWQqoEhIBh4thNO3pV4yIkgxpqzC49Sfu6g7czGR0Lm+hXtFRmNDFzYERvueVJc=;qZBbz5g7n+onOKNeOgZ2gw=="
+secured: "LlmOvXnxvlzFQV/WgsK3zIS7tSNGT4xMotwc8zivbzzPsKS9yl4TpYCpEYTx32HjI2TX/851QfcTdp1xIjgaAyn58TPxsfc/6t/UCRZUmnZf/hqPJFdnvkGH+bJ5FT6aW8l99DRXbH4iGrRKIld7+FX65X3YsXHDCOOrh/gC0ikCqUXfdxoV/L+DM2hNwoBjdJJ2NnFE+fZM/c/Xgr2PE2uHbXN9NGriPd1g8MRzsrVMrx8flZCt1hYGtUlD0U6sVdXnAqUBDcqx2IKHNIAr5x56ZQwZPI3F+4a3o8LNmH3xJZM0FDjwU1XTmY1L+g2n7i6nrKSOeHipE2nPQNrIpK4EBs3wqV6MXKNth8Hy7ds=;miFh19WONqe6cEzwVeoWxA=="
 ---
 

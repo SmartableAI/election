@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Vice President Kamala Harris to talk American Jobs Plan in NC | Raleigh News & Observer"
-excerpt: "Vice President Kamala Harris will be pitching the administration’s infrastructure package during two stops in North Carolina. Here’s where she’ll be."
-publishedDateTime: 2021-04-14T22:12:00Z
-originalUrl: "https://www.newsobserver.com/news/politics-government/article250676884.html"
-webUrl: "https://www.newsobserver.com/news/politics-government/article250676884.html"
+title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
+excerpt: "Politicking aside, some Democrats, nonpartisan policy experts and pro-immigrant advocacy groups also say Kamala Harris should visit the border."
+publishedDateTime: 2021-05-16T00:00:00Z
+originalUrl: "https://www.detroitnews.com/story/news/politics/2021/05/16/republicans-arent-alone-saying-kamala-harris-should-visit-southern-border/5098783001/"
+webUrl: "https://www.detroitnews.com/story/news/politics/2021/05/16/republicans-arent-alone-saying-kamala-harris-should-visit-southern-border/5098783001/"
+ampWebUrl: "https://amp.detroitnews.com/amp/5098783001"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5098783001"
 type: article
-quality: 27
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2021/05/14/PDTN/3213f99c-f4f9-4f38-b978-9c8fa263a782-US-NEWS-IMMIGRATION-HARRIS-LA.jpg?auto=webp&crop=1499,843,x1,y114&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Kamala Harris Again Says She Has No Plans to Visit U.S.-Mexico Border"
@@ -112,22 +120,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/05/AP_Poll_Immigration_11730.jpg-b711f_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
-    excerpt: "Politicking aside, some Democrats, nonpartisan policy experts and pro-immigrant advocacy groups also say Kamala Harris should visit the border."
-    publishedDateTime: 2021-05-16T00:00:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2021/05/16/republicans-arent-alone-saying-kamala-harris-should-visit-southern-border/5098783001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5098783001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5098783001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/14/PDTN/3213f99c-f4f9-4f38-b978-9c8fa263a782-US-NEWS-IMMIGRATION-HARRIS-LA.jpg?auto=webp&crop=1499,843,x1,y114&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Kamala Harris blames climate change for immigration crisis at U.S.-Mexico border"
     excerpt: "The Biden administration is reframing the migrant crisis at the U.S.-Mexico border, saying the influx results not from any White House actions, but rather from climate change in Central America’s Northern Triangle of El Salvador,"
@@ -305,6 +297,15 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 29
+  - title: "Vice President Kamala Harris to talk American Jobs Plan in NC | Raleigh News & Observer"
+    excerpt: "Vice President Kamala Harris will be pitching the administration’s infrastructure package during two stops in North Carolina. Here’s where she’ll be."
+    publishedDateTime: 2021-04-14T22:12:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article250676884.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 27
   - title: "VP Kamala Harris makes first visit to North Carolina, talks infrastructure plans | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point to push the Biden administration’s infrastructure plan."
     publishedDateTime: 2021-04-19T15:41:00Z
@@ -315,6 +316,6 @@ related:
       domain: newsobserver.com
     quality: 17
 
-secured: "UIUw0Om0kHz56Wk4kY0gDzm27h6s9baL4vX+7P6mw2YDl9p40+h3BWDcLPOX9rgJHtdHpYHKYtutjB3nZklsogqTBpEshExqnGqYW4Ce4saedNMDwImfqm23f0rgnR7wELa3pTOp1/VEbrBco5/Ef6/iQ2/E/ZfpYEhwbPMk6YoJ+HLC8LGx0jxcCJQWwMo7m8yN7utRZO+Kv7WNwx9HYA1FcZjcwqHV+30YbFHEF2wEiUSKWCml19eagxe3BAlqUivxNYPgM7N6PpoGMJZ3dCGIBBK4Cm568+9eaLFG4b9yUCUEBPnpk1t61nyKxeLTAwR4GVcV8iILeFPW9CYLytq6rTkrUEtzbP5i1hxG5Xv9yJOZ1i55Beub2XP4KLgniNd6vWurWKR4QmgB7aFJstxLuasOImHpC5Z6q8NGUCAEll+eklOgXLvFuNxuryt6iaK3UCnIa2VNNMxi0ojVQvUm+ncJoLBSUi6SC5O843oNa8HE4wb/UpwI457PyfbGhSnhP/T+lqgCmR1OqTOdjQ==;4TWo1G1zklywXA4AM50nWw=="
+secured: "JtSa0PcYFYKhbgJTSU1hoAudlSrGoMrvi3vSR5uOJA/1WfAX3hAIroKgt7jqS9lMwNFa3aIR1k/0Vs20t02B9yXqIQ7SWqHtureBJG9nTJ5L1Pno4x6BfrITnpxjy9HGXzrAKT4xOX8d7iTrVwAPYIiK1JIdFQm3M/MVntU6Ll2SXFgxqDsnUu21PqFqVTWkx6J2jOAHvq8lMzdL9de+L1Yn4V8JB9OD2xO/g/tJNs5tlLWF9Cdhu7dAjgmS1Ga6wJSgZLZJhZ/87GUL2Vhzop+HzFEEFV5Un1JCT+1azRXjV3YO2/TJvuDtaNZl7iUgoV9R4YSW1tXx6p0tfe9TalCyVByYZohn0PMB4bGKVOM=;3oTFqWqWZesW5Qg/bsXfOQ=="
 ---
 

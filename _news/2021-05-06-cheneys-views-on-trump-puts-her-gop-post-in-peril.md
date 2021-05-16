@@ -539,6 +539,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Chuck Todd and Texas Rep. Dan Crenshaw Get Into Heated Exchange Over Trump and GOP Rifts"
+    excerpt: "NBC host Chuck Todd and Texas Rep. Dan Crenshaw on Sunday engaged in a heated exchange over former President Donald Trump and the future of the Republican Party. In a segment on NBC's Meet the Press,"
+    publishedDateTime: 2021-05-16T19:08:00Z
+    webUrl: "https://www.newsweek.com/chuck-todd-texas-rep-dan-crenshaw-get-heated-exchange-over-trump-gop-rifts-1591928"
+    ampWebUrl: "https://www.newsweek.com/chuck-todd-texas-rep-dan-crenshaw-get-heated-exchange-over-trump-gop-rifts-1591928?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chuck-todd-texas-rep-dan-crenshaw-get-heated-exchange-over-trump-gop-rifts-1591928?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1798345/dan-crenshaw-chuck-todd.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden pushes infrastructure plan in GOP stronghold"
     excerpt: "With a badly aging bridge as his backdrop, President Joe Biden stood in reliably Republican Louisiana on Thursday to pressure GOP lawmakers to support his $2.3 trillion infrastructure plan, calling it a \"blue collar blueprint to rebuild America."
     publishedDateTime: 2021-05-06T21:01:00Z
