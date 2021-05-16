@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-us
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5?amp"
 type: article
 quality: 86
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -33,15 +33,15 @@ images:
 related:
   - title: "Colorado man suspected in wife's death cast ballot for Donald Trump on her behalf, court documents show"
     excerpt: "Barry Morphew said “all these other guys are cheating,” and he thought his wife would have voted for Trump anyway, according to an arrest warrant."
-    publishedDateTime: 2021-05-15T16:48:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/nation/2021/05/15/man-suspected-wifes-death-cast-ballot-her-name-court-docs-say/5108597001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/5108597001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5108597001"
+    publishedDateTime: 2021-05-15T15:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/05/15/man-suspected-wifes-death-cast-ballot-her-name-court-docs-say/5108597001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5108597001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5108597001"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 59
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/05/15/USAT/a6ce7384-317f-484b-a49d-d5863258b169-AP_Missing_Woman_Colorado.jpg?auto=webp&crop=2773,1560,x0,y140&format=pjpg&width=1200"
         width: 1200

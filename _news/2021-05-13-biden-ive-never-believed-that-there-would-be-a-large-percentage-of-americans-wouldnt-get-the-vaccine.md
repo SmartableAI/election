@@ -9,7 +9,7 @@ ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/13/biden_ive_never_be
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/biden_ive_never_believed_that_there_would_be_a_large_percentage_of_americans_wouldnt_get_the_vaccine.amp.html"
 type: article
 quality: 68
-heat: -1
+heat: 68
 published: false
 
 provider:
@@ -26,40 +26,6 @@ images:
     width: 500
     height: 375
     isCached: true
-
-related:
-  - title: "Biden doesn't believe there is ‘any significant portion' of Americans who won't get vaccinated"
-    excerpt: "President Biden seemed optimistic that his administration would reach its goal of having 70 percent of Americans vaccinated by July 4, saying that he doesn’t believe there is “any significant portion” of Americans who refuse to get vaccinated."
-    publishedDateTime: 2021-05-12T21:42:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUR0bQ6LhdU/biden-no-significant-portion-americans-vaccinated"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21132743978141.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden, in Police Week statement, talks of 'deep sense of distrust' toward cops from Black Americans"
-    excerpt: "President Biden is marking Police Week with a statement that includes language about the \"deep sense of distrust\" toward cops by Black and brown Americans and the \"trauma\" caused by deaths in police custody -- a statement described as \"beyond disappointing\" by one police group."
-    publishedDateTime: 2021-05-15T19:14:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sDXTvCBbJ7Q/biden-police-week-deep-sense-of-distrust-cops-black-americans"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-police-week-deep-sense-of-distrust-cops-black-americans.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-police-week-deep-sense-of-distrust-cops-black-americans.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/198530bb-d185-486d-8857-92461ae5a01f/0013eadb-6808-4e68-a958-67e1f426972c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "BXnXtQlsm1D7t4oAp7pGwHNQPwXSdghha6NKTUTPXnGUqO7UUySVaFj4oJpnZWVMq4xh786+rdP3T9QLzXjkT1mkw3ZtJ5jFOTZw2H7iraNtL4TOZQq0OoCz5ST2aRukh0PWI01177xX1OfBalSr3N47dO4kjClTv0y7JmYIxvB/iNiK7rgIyRZvpb+WXecJOlIPp6FCSOgpkurHNmuZMwm0Pz+Vhd+BnJP47ZeHHpiVjUS869qW2JcVqgtvb2U1eYYMKxYYPiACxTWJsinGX88G+0S5398SjBrGSByS8HlZH4PYS3hFKMB8Iwm9YHyO5tqkokp0m2lytgLFKilsQKU2YYKfcfoES01QRYXDnoE=;MF9Riof0gqZcSrb4KZ+FSg=="
 ---

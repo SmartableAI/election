@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-first-virtual-vis
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp"
 type: article
 quality: 175
-heat: 855
+heat: 915
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
     quality: 171
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "GOP senators to meet with Biden, who's looking for deal on massive spending bill"
+    excerpt: "President Biden will court GOP senators next week at the White House in an effort to strike a deal on his spending bill, but Republicans stressed they don't want tax increases on businesses or any liberal \"wish list\" items as part of any compromise. "
+    publishedDateTime: 2021-05-08T20:12:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZWDUURkIkPY/gop-senators-meet-biden-deal-spending-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-meet-biden-deal-spending-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-meet-biden-deal-spending-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -479,22 +495,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Biden To Meet With Republican Lawmakers On Infrastructure Plan"
-    excerpt: "President Joe Biden is set to meet with a group of six Republican lawmakers to discuss the administration’s proposed infrastructure plan and how to pay for it. This comes a day after Mr. Biden and Vice President Kamala Harris met with bipartisan leaders to discuss the deal."
-    publishedDateTime: 2021-05-13T17:17:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.html#!"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/543043.jpg"
-        width: 3117
-        height: 2078
-        isCached: true
   - title: "Biden's State-Sponsored Labor Shortage"
     excerpt: "President Biden spoke at the White House earlier this week to address an unsettling national trend  millions of jobs going unfilled in an economy"
     publishedDateTime: 2021-05-14T10:41:00Z
@@ -527,6 +527,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Joe Biden's Four-Decade Long Romance With Iran"
+    excerpt: "Biden has remained hopeful that the U.S. and Iran could find some common ground. Now might really be the last chance."
+    publishedDateTime: 2021-05-09T11:46:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/09/joe_bidens_four-decade_long_romance_with_iran_542414.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/542363_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Jen Psaki Says the Quiet Part Out Loud About Joe Biden"
     excerpt: "Jen Psaki made a stunning admission in a patently flippant way last week during a conversation with CNN's David Axelrod. The White House press secretary openly admitted that President Biden's handlers often tell him they prefer he not speak to reporters outside of controlled settings."
     publishedDateTime: 2021-05-10T18:57:00Z
@@ -538,6 +552,34 @@ related:
     quality: 65
     images:
       - url: "https://assets.realclear.com/images/54/542871_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden's Progressive Policies Are Making Lives Better"
+    excerpt: "Joe Biden's approval numbers are stunning, with 63% of Americans saying in a new poll that they approve of the job he's doing, writes Jill Filipovic. The President draws this while not making any big rhetorical waves but carefully guiding a progressive policy agenda aimed squarely at making people's lives better as quickly and efficiently as possible."
+    publishedDateTime: 2021-05-12T11:35:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/12/bidens_progressive_policies_are_making_lives_better_542609.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/542677_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden Is Getting It Wrong Across the Board"
+    excerpt: "New government figures show that the Biden administration is getting it wrong on the border, getting it wrong on the economy and job creation, and getting it wrong on inflation."
+    publishedDateTime: 2021-05-12T19:33:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/12/biden_is_getting_it_wrong_across_the_board_542669.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/543103_5_.jpg"
         width: 750
         height: 500
         isCached: true

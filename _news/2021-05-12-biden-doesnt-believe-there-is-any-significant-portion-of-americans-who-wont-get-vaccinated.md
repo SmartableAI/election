@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-no-significant-portion-americ
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp"
 type: article
 quality: 163
-heat: 203
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,37 +31,181 @@ images:
     isCached: true
 
 related:
-  - title: "Biden, in Police Week statement, talks of 'deep sense of distrust' toward cops from Black Americans"
-    excerpt: "President Biden is marking Police Week with a statement that includes language about the \"deep sense of distrust\" toward cops by Black and brown Americans and the \"trauma\" caused by deaths in police custody -- a statement described as \"beyond disappointing\" by one police group."
-    publishedDateTime: 2021-05-15T19:14:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sDXTvCBbJ7Q/biden-police-week-deep-sense-of-distrust-cops-black-americans"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-police-week-deep-sense-of-distrust-cops-black-americans.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-police-week-deep-sense-of-distrust-cops-black-americans.amp"
+  - title: "Biden kills Trump plan for ‘American heroes’ sculpture garden: report"
+    excerpt: "President Biden on Friday put an end to a plan by former President Trump to create a \"National Garden of American Heroes.\""
+    publishedDateTime: 2021-05-16T04:24:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fa38Y6zXu3I/biden-kills-trump-plan-for-american-heroes-sculpture-garden-report"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-kills-trump-plan-for-american-heroes-sculpture-garden-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-kills-trump-plan-for-american-heroes-sculpture-garden-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/198530bb-d185-486d-8857-92461ae5a01f/0013eadb-6808-4e68-a958-67e1f426972c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fd258f5a-f722-49e3-8ed1-daf8fa8092f7/d584fb04-c012-4b5a-8229-3f06f67ed1ac/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden: \"I've Never Believed That There Would Be A Large Percentage Of Americans Wouldn't Get The Vaccine\""
-    excerpt: "President Joe Biden talked about the Covid vaccine in an interview with MSNBC host Lawrence O'Donnell: \"They're showing up. All this stuff about vaccine hesitancy; the truth of the matter is more and more and more people are getting the vaccine."
-    publishedDateTime: 2021-05-13T14:47:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_ive_never_believed_that_there_would_be_a_large_percentage_of_americans_wouldnt_get_the_vaccine.html#!"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/13/biden_ive_never_believed_that_there_would_be_a_large_percentage_of_americans_wouldnt_get_the_vaccine.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/biden_ive_never_believed_that_there_would_be_a_large_percentage_of_americans_wouldnt_get_the_vaccine.amp.html"
+  - title: "Biden rolls back Trump order barring immigrants who can't afford health care"
+    excerpt: "President Biden revoked a Trump-era order that banned immigrants from obtaining visas who couldn’t prove they could obtain health insurance or pay for health care."
+    publishedDateTime: 2021-05-15T19:25:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aouJUnDSQ2g/biden-trump-order-barring-immigrants-cant-afford-health-care"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Trump mocks comparisons of Biden to Jimmy Carter: The current president is worse"
+    excerpt: "In a statement Wednesday, Donald Trump refuted a tweet issued by his son Donald Trump Jr. that claimed President Biden was “the next Jimmy Carter,” in an apparent slight last week."
+    publishedDateTime: 2021-05-12T22:04:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZDuOfEb2P88/trump-refutes-comparison-of-carter-presidency-to-biden-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26e1be5f-4597-488c-bda1-97eb4a713daf/15b5b68a-7a61-4af3-9521-8b1cb29e3ec7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden's American Rescue Plan unemployment-benefit extension making it difficult to find workers, employers say"
+    excerpt: "Some U.S. small business and restaurant owners claim President Biden's unemployment benefit extension is making it difficult to hire new workers."
+    publishedDateTime: 2021-05-12T21:13:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1ARaCfneKJY/labor-shortage-unemployment-benefits-nationwide"
+    ampWebUrl: "https://www.foxnews.com/politics/labor-shortage-unemployment-benefits-nationwide.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/labor-shortage-unemployment-benefits-nationwide.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d7d67eb-4b1c-4f79-9450-c1a39e20f2f9/166277f7-f4f6-425b-9b23-f7b7151c5a78/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden scraps Trump Garden of Heroes honoring Kobe, Trebek, Bader Ginsburg"
+    excerpt: "President Joe Biden has revoked a trio of executive orders issued by former President Donald Trump that sought to punish vandalism of statues and to build a new National Garden of American Heroes. A July 2020 order envisioned a National Garden of American Heroes that “should be located on a site of natural beauty that enables visitors to enjoy nature,"
+    publishedDateTime: 2021-05-14T21:49:00Z
+    webUrl: "https://nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/"
+    ampWebUrl: "https://nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 149
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/biden-tump-split.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden rolls back Trump order barring immigrants who can't afford health care"
+    excerpt: "President Biden revoked a Trump-era order that banned immigrants from obtaining visas who couldn’t prove they could obtain health insurance or pay for health care."
+    publishedDateTime: 2021-05-15T19:25:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 147
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "'Really scary' to see gas shortages in first months of Biden admin: Lara Trump"
+    excerpt: "Fox News contributor Lara Trump sounded the alarm on America's energy independence under the Biden administration, Wednesday, telling \"Fox & Friends\" that the Colonial Pipeline cyberattack and resulting panic at the pump is \"really scary."
+    publishedDateTime: 2021-05-12T15:14:00Z
+    webUrl: "https://www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump"
+    ampWebUrl: "https://www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump likens Biden to Carter, citing gas crisis and Israel-Palestinian conflict"
+    excerpt: "Former President Donald Trump is comparing President Biden to Former President Jimmy Carter due to the recent gas shortage and tensions between Israel and Palestine."
+    publishedDateTime: 2021-05-12T21:20:00Z
+    webUrl: "https://nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/"
+    ampWebUrl: "https://nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-carter-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Ingraham: Biden is out of gas, is now America's problem denier"
+    excerpt: "Fox News host Laura Ingraham claimed President Biden's \"incompetence and radicalism are a dangerous combination\" as he denies the several crises facing the nation on \"\""
+    publishedDateTime: 2021-05-12T04:36:00Z
+    webUrl: "https://www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier"
+    ampWebUrl: "https://www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cef5a8b4-0514-4f78-af01-568c1de27822/1123ba03-d0ca-4194-b629-fe6ccc0d5548/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden Sets Everything on Fire"
+    excerpt: "Joe Biden is the luckiest man to ever assume the presidency. He succeeded an unpopular figure. He was inaugurated just two weeks after the dramatic storming"
+    publishedDateTime: 2021-05-12T10:00:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 68
+    quality: 85
     images:
-      - url: "https://assets.realclear.com/images/54/543177.png"
-        width: 500
-        height: 375
+      - url: "https://assets.realclear.com/images/54/543021_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden To Meet With Republican Lawmakers On Infrastructure Plan"
+    excerpt: "President Joe Biden is set to meet with a group of six Republican lawmakers to discuss the administration’s proposed infrastructure plan and how to pay for it. This comes a day after Mr. Biden and Vice President Kamala Harris met with bipartisan leaders to discuss the deal."
+    publishedDateTime: 2021-05-13T17:17:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/543043.jpg"
+        width: 3117
+        height: 2078
         isCached: true
 
 secured: "GfoCVVksnWBGe9qWqWdm9r+exJ+cI8bPRG2ApHKSR8pM7dyW0sMNmzltjTQ5HIOHPG1BexEY8nw4Ec2zLur8yaUkDOEc0zyUwalfMxtK3C5LZCK3xgO62hkhg5o6OAT8UoSvJKgELqpYlC4bPbGjLNhzW//mpUN1jk1CuYp7JJSnkvh42uD32B4fLbMV0cyfU2GHMvxlnJv7V07zV5gj2CfPj3Z+v37q6Cme5j8BYqvTnKKjxg6yW8C8pH/vmeaOuefowhxPpNaChGivtfZRETQDBxSDK6vSfhxZMKvSN0dWAJ0dC5FdnxykxpUgZT7bfbq0F/PYPyiCxTAq8/Yg5ufPlF636q93yLwkWK19X2k=;GBbfBXth+9Xhiog2jRGq9A=="

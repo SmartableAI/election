@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Fact Check-President Biden did not sign 96 executive orders in his first three months in office"
-excerpt: "In his first 100 days in office, President Joe Biden has not signed 96 executive orders. According to FederalRegister.gov, part of the United States National Archives, the Biden Administration had published 42 executive orders by April 27,"
-publishedDateTime: 2021-05-05T15:40:00Z
-originalUrl: "https://www.reuters.com/article/factcheck-biden-executive-orders-idUSL1N2MS24C"
-webUrl: "https://www.reuters.com/article/factcheck-biden-executive-orders-idUSL1N2MS24C"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MS24C"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MS24C"
+title: "IRS to the rescue? Tax audits eyed for President Joe Biden’s infrastructure plan"
+excerpt: "Who is going to pay for the big public works boost that lawmakers and President Joe Biden say is necessary for the country?"
+publishedDateTime: 2021-05-15T12:00:00Z
+originalUrl: "https://www.masslive.com/news/2021/05/irs-to-the-rescue-tax-audits-eyed-for-president-joe-bidens-infrastructure-plan.html"
+webUrl: "https://www.masslive.com/news/2021/05/irs-to-the-rescue-tax-audits-eyed-for-president-joe-bidens-infrastructure-plan.html"
+ampWebUrl: "https://www.masslive.com/news/2021/05/irs-to-the-rescue-tax-audits-eyed-for-president-joe-bidens-infrastructure-plan.html?outputType=amp"
+cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2021/05/irs-to-the-rescue-tax-audits-eyed-for-president-joe-bidens-infrastructure-plan.html?outputType=amp"
 type: article
-quality: 93
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MassLive
+  domain: masslive.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7K27XSZAANEMLINX7C7XB24VL4.jpg"
+    width: 2000
+    height: 1452
+    isCached: true
 
 related:
   - title: "Caitlyn Jenner says election was not 'stolen,' calls Biden 'our president'"
@@ -204,6 +206,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Fact Check-President Biden did not sign 96 executive orders in his first three months in office"
+    excerpt: "In his first 100 days in office, President Joe Biden has not signed 96 executive orders. According to FederalRegister.gov, part of the United States National Archives, the Biden Administration had published 42 executive orders by April 27,"
+    publishedDateTime: 2021-05-05T15:40:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-biden-executive-orders-idUSL1N2MS24C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2MS24C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2MS24C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 93
   - title: "Here's what Kentucky would get from President Joe Biden's American Families Plan"
     excerpt: "The White House outlined how many Kentucky children and workers would benefit from the $1.8 trillion plan, which includes universal preschool."
     publishedDateTime: 2021-05-07T09:26:00Z
@@ -219,22 +232,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/05/05/NAAS/faa8db64-affc-4ee1-9222-412ac8f843f3-Biden_8.jpg?auto=webp&crop=3955,2225,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "IRS to the rescue? Tax audits eyed for President Joe Biden’s infrastructure plan"
-    excerpt: "Who is going to pay for the big public works boost that lawmakers and President Joe Biden say is necessary for the country?"
-    publishedDateTime: 2021-05-15T12:00:00Z
-    webUrl: "https://www.masslive.com/news/2021/05/irs-to-the-rescue-tax-audits-eyed-for-president-joe-bidens-infrastructure-plan.html"
-    ampWebUrl: "https://www.masslive.com/news/2021/05/irs-to-the-rescue-tax-audits-eyed-for-president-joe-bidens-infrastructure-plan.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2021/05/irs-to-the-rescue-tax-audits-eyed-for-president-joe-bidens-infrastructure-plan.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 70
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7K27XSZAANEMLINX7C7XB24VL4.jpg"
-        width: 2000
-        height: 1452
         isCached: true
   - title: "President Joe Biden to tour S&WB's Carrollton Plant this week, according to White House"
     excerpt: "President Joe Biden has argued his wide-ranging, $2.3 trillion infrastructure plan is a solution to decades of underinvestment in roads, pipes and other major projects throughout the country."
@@ -285,6 +282,6 @@ related:
         height: 478
         isCached: true
 
-secured: "H9269eay2UshVPwtgxztiZ3lQw3yjt+ufmBdQqacC0aMGGGpBZdhgHXNRU8x7HkpyvO46qiE1BS8S7GH1Bo6cYaEvHwy5f1vlDT04Q0k+orEyNogZifKxQ5xr2W2kLHpHofHY7TIbI4E3qg4W7Fppo1RvYSWsU6mRsw523bNbFgZGKlcBp5PWwrpgnKx4lurI29YfNOYT4MYri4aPWf9qcs+k6B6rk/+5hT+evrl5QWzDe5jlALjcTAvhWpRu4dw5M/D1ZcbBSrwOjjdslVQumtHStlMUzUb+fHBS6rmiqxpIg/hcI0VuJ/WDq9nea56LZ2mvTaDtQY+thCWnC9Ihex/XaQMduMc81ABQyDxQaE=;9fQHDwEfSbZb6g8k4iuqpA=="
+secured: "uwiUCsN7yz7n5E2gjOcsWrbRJX91z3XZ1klsm2sCAjnqtKwgQHS0YCMzrINumcdstbyAX2iopKTNPsK0IciRErZMKr2hT0Xxam8KTnn5NFS01wcOf6+m7LNMPB8TopsAVZcuWTAJIxJgxF1JphHsZfEVXi3WvA2b1pk8dHAQ3xdO9ZTvlZvhAhWVKJm4xepl7u7jKNmORMSwDkz5Ryv8Vj0zsGxmWRpvkbV7T/U8ytFjZeR0KRhbI+G/44GCbzBgIDwVu9utGabXsNl5nhSIafO8wThc5/M7bMGWycJ2VUhYYuL0U2vx34/0ZXxxo0aTb0QtJdMaMLRTWkSqvH5iW9lB+F4BSsSeLynfcY90fqc=;veZgqs8IkOAqLP8jLChiuw=="
 ---
 

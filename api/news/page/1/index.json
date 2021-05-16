@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-16-biden-kills-trump-plan-for-american-heroes-sculpture-garden-report.md",
+      "title": "Biden kills Trump plan for ‘American heroes’ sculpture garden: report",
+      "excerpt": "President Biden on Friday put an end to a plan by former President Trump to create a \"National Garden of American Heroes.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fa38Y6zXu3I/biden-kills-trump-plan-for-american-heroes-sculpture-garden-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fa38Y6zXu3I/biden-kills-trump-plan-for-american-heroes-sculpture-garden-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 410,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fd258f5a-f722-49e3-8ed1-daf8fa8092f7/d584fb04-c012-4b5a-8229-3f06f67ed1ac/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-kills-trump-plan-for-american-heroes-sculpture-garden-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-kills-trump-plan-for-american-heroes-sculpture-garden-report.amp",
+      "publishedDateTime": "2021-05-15T21:24:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-16-biden-meets-with-dreamers-in-the-white-house-to-push-pathway-to-citizenship.md",
       "title": "Biden meets with 'Dreamers' in the White House to push pathway to citizenship",
       "excerpt": "Biden gathered a group of DREAMers at the White House Friday for a discussion on the future of the DACA program.",
@@ -106,23 +162,23 @@
       ]
     },
     {
-      "path": "_news/2021-05-15-biden-rolls-back-trump-order-barring-immigrants-who-cant-afford-health-care.md",
-      "title": "Biden rolls back Trump order barring immigrants who can't afford health care",
-      "excerpt": "President Biden revoked a Trump-era order that banned immigrants from obtaining visas who couldn’t prove they could obtain health insurance or pay for health care.",
+      "path": "_news/2021-05-15-biden-in-police-week-statement-talks-of-deep-sense-of-distrust-toward-cops-from-black-americans.md",
+      "title": "Biden, in Police Week statement, talks of 'deep sense of distrust' toward cops from Black Americans",
+      "excerpt": "President Biden is marking Police Week with a statement that includes language about the \"deep sense of distrust\" toward cops by Black and brown Americans and the \"trauma\" caused by deaths in police custody -- a statement described as \"beyond disappointing\" by one police group.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aouJUnDSQ2g/biden-trump-order-barring-immigrants-cant-afford-health-care",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aouJUnDSQ2g/biden-trump-order-barring-immigrants-cant-afford-health-care",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sDXTvCBbJ7Q/biden-police-week-deep-sense-of-distrust-cops-black-americans",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sDXTvCBbJ7Q/biden-police-week-deep-sense-of-distrust-cops-black-americans",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 427,
+      "heat": 161,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/198530bb-d185-486d-8857-92461ae5a01f/0013eadb-6808-4e68-a958-67e1f426972c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
           "width": 720,
           "height": 405,
           "title": null,
@@ -132,9 +188,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp",
-      "publishedDateTime": "2021-05-15T12:25:04-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-police-week-deep-sense-of-distrust-cops-black-americans.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-police-week-deep-sense-of-distrust-cops-black-americans.amp",
+      "publishedDateTime": "2021-05-15T12:14:04-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -194,6 +250,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-15-colorado-man-suspected-in-wifes-death-cast-ballot-for-donald-trump-on-her-behalf-court-documents-show.md",
+      "title": "Colorado man suspected in wife's death cast ballot for Donald Trump on her behalf, court documents show",
+      "excerpt": "Barry Morphew said “all these other guys are cheating,” and he thought his wife would have voted for Trump anyway, according to an arrest warrant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2021/05/15/man-suspected-wifes-death-cast-ballot-her-name-court-docs-say/5108597001/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2021/05/15/man-suspected-wifes-death-cast-ballot-her-name-court-docs-say/5108597001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/05/15/USAT/a6ce7384-317f-484b-a49d-d5863258b169-AP_Missing_Woman_Colorado.jpg?auto=webp&crop=2773,1560,x0,y140&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5108597001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5108597001",
+      "publishedDateTime": "2021-05-15T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -816,58 +924,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-15-a-colorado-man-accused-of-murdering-his-wife-told-fbi-agents-that-he-submitted-a-ballot-for-trump-in-her-name-because-the-other-guys-were-cheating.md",
-      "title": "A Colorado man accused of murdering his wife told FBI agents that he submitted a ballot for Trump in her name because the 'other guys' were cheating",
-      "excerpt": "Barry Morphew was charged with a felony count of forging public documents after telling investigators that he sent in a vote for his missing wife.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5",
-      "originalUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/609e9e50a807be0018d6227e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5?amp",
-      "publishedDateTime": "2021-05-14T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-05-14-trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown.md",
       "title": "Trump Considers Contenders to Be His New Social-Media Outlet After Big Tech Crackdown",
       "excerpt": "CloutHub and Skylab Apps are among companies vying to work with the former president, who was sidelined by Facebook and Twitter.",
@@ -1250,7 +1306,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1291,62 +1347,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-wall-street-journal-manhattan-private-school-subpoenaed-in-connection-with-trump-organization-probe.md",
-      "title": "Wall Street Journal: Manhattan private school subpoenaed in connection with Trump Organization probe",
-      "excerpt": "The Wall Street Journal reports that prosecutors have subpoenaed a Manhattan private school for information related to Trump Organization Chief Financial Officer Allen Weisselberg's two grandchildren.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/baBrtYKRzz8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/baBrtYKRzz8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180226064533-trump-tower-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/13/politics/trump-organization-school-subpoena/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/trump-organization-school-subpoena/index.html",
-      "publishedDateTime": "2021-05-13T18:46:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

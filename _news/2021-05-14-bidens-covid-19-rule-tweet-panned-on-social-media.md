@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-covid-19-rule-tweet-panned-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-covid-19-rule-tweet-panned-on-social-media.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Biden admin diverts $2B from COVID, health spending to care for migrant kids"
+    excerpt: "The Biden administration has pulled more than $2 billion out of programs authorized by Congress for COVID-19 testing, emergency medical supplies and other health needs — and is spending it on shelter for the 45,000 unaccompanied migrant children that have flooded across the US border this year."
+    publishedDateTime: 2021-05-16T01:33:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-RnHdXpNb5A/biden-admin-diverts-2b-from-covid-health-spending-to-care-for-migrant-kids"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-diverts-2b-from-covid-health-spending-to-care-for-migrant-kids.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-diverts-2b-from-covid-health-spending-to-care-for-migrant-kids.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/Biden-Beccara-Border.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "bRvJZePgEFtYyXas/S/FXQvs/6AQAoO9/FfPLs3RjiJCwS/TaqiqwHDDiWzGmYHwokEt3VRgFrVEiB1ow2ESiNJiro9bjQjMCrj8zl+XB71OMusbAH1vbQfC/v7VdK3hRahKfbcXrtmJSTyhZ0pAMRN/GdKnmVNGjXgD6wqCIxK0SEOm3SjJ5ANFhZUi0Gxt2pYKZNPyU3jrMQAyAfgHRjtLw3P0nsQUViXd0AryM3uG8pi/LPbsTCwRVSyesDPmIRxUGdDlJCCQDevsChBQKRuku/jAgHuzCFP79bQtNovhT7iieOHi3c1cgntwSKn5cjI4dF6G5X6j+r1goIel35BkEWNRW1KncmUmWLOa/RE=;fyXuBdzL5AhvSNegqJvq+Q=="
 ---

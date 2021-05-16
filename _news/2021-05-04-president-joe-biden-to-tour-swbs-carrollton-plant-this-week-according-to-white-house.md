@@ -233,6 +233,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IRS to the rescue? Tax audits eyed for President Joe Biden’s infrastructure plan"
+    excerpt: "Who is going to pay for the big public works boost that lawmakers and President Joe Biden say is necessary for the country?"
+    publishedDateTime: 2021-05-15T12:00:00Z
+    webUrl: "https://www.masslive.com/news/2021/05/irs-to-the-rescue-tax-audits-eyed-for-president-joe-bidens-infrastructure-plan.html"
+    ampWebUrl: "https://www.masslive.com/news/2021/05/irs-to-the-rescue-tax-audits-eyed-for-president-joe-bidens-infrastructure-plan.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2021/05/irs-to-the-rescue-tax-audits-eyed-for-president-joe-bidens-infrastructure-plan.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 70
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7K27XSZAANEMLINX7C7XB24VL4.jpg"
+        width: 2000
+        height: 1452
+        isCached: true
   - title: "Charlie Baker to meet with Joe Biden, governors to tout Massachusetts progress in vaccinating residents"
     excerpt: "Gov. Charlie Baker will meet virtually on Tuesday with President Biden and a group of bipartisan governors to tout the Bay State’s progress in vaccinating residents against coronavirus."
     publishedDateTime: 2021-05-10T22:35:00Z

@@ -2,19 +2,23 @@
 category: news
 title: "Colorado man suspected in wife's death cast ballot for Donald Trump on her behalf, court documents show"
 excerpt: "Barry Morphew said “all these other guys are cheating,” and he thought his wife would have voted for Trump anyway, according to an arrest warrant."
-publishedDateTime: 2021-05-15T16:48:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/nation/2021/05/15/man-suspected-wifes-death-cast-ballot-her-name-court-docs-say/5108597001/"
-webUrl: "https://www.desmoinesregister.com/story/news/nation/2021/05/15/man-suspected-wifes-death-cast-ballot-her-name-court-docs-say/5108597001/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/5108597001"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5108597001"
+publishedDateTime: 2021-05-15T15:34:00Z
+originalUrl: "https://www.usatoday.com/story/news/nation/2021/05/15/man-suspected-wifes-death-cast-ballot-her-name-court-docs-say/5108597001/"
+webUrl: "https://www.usatoday.com/story/news/nation/2021/05/15/man-suspected-wifes-death-cast-ballot-her-name-court-docs-say/5108597001/"
+ampWebUrl: "https://amp.usatoday.com/amp/5108597001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5108597001"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 109
+heat: 129
+published: true
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -44,6 +48,6 @@ related:
         height: 600
         isCached: true
 
-secured: "UVG+m/pgwSwDO+h2TU+dCHxXS4GNV9IrujcF3twF8a6uJZtomP2QQjRysd+D9owqlzLLZp1aCj6bOHpFfiHNxX7erOn+OEPznnUAmlM33i3jA803VTC4hSXD3A8lS7HPE/Xn6tXX8CRhkC4noit+VF1jgN5mWYfwLhc+cR05Zs/U1sy6c/LF4jyI4jXqUBi0brJ6InccR4idPiCYidTb9v+NOrRPzdJkdss4+Q6XuiBvLMXYoa/kY1abm6s6EUzTp/8zf7FnZQReGRtkU7L46x3GBgDdprvYf9ucmdYU5kXJw/HqJviQ2XUQCg8I07hJZKqoOkqCEUb+rzwmkFXsRfdjhqMbbN2egFC164aD6Sg=;k5iZ3sIinN3cNVVxeRUsZw=="
+secured: "F1o28z3kPECjWMcnix4npOpcRw5y6lw7r+PL5wEtBW/qQPuasu53blUUmoerPJMf3oc/8LxXcf+Abgj7L+zPPobptF6GNfkHI3jDO6RxDOys3+UzGR2OrybC8B/JkNE+CsGBckCUBpAGF00sqja1XfOVmLmqhzxeQkey6nEP7wzRIeK4L3N0E92STQth6twQB3g/n//Tcs80vgjJnDphAvSgGMcwL5XkbNZyDvP2VWXxzFkpFncNTuPUOywHrQCdvlmnFmOOK7GgvCE7hoewMT4hIauJNPZa+zkxBiq7vMKiRcfjCD4Cttazl+jii4E5BufXXkDuMKs/YWwRIDIrfEpYXYa6Xz3Yo5JWT5o1e2Q=;f2C4ibK8kFNhpTXC1qG1YQ=="
 ---
 
