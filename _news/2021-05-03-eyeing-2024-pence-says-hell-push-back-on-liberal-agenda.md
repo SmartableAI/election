@@ -133,6 +133,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Eyeing 2024, Mike Pence says he'll push back on 'liberal agenda'"
+    excerpt: "Former Vice President Mike Pence, positioning himself for a possible return to elected office, told an audience in early-voting South Carolina that he will spend the coming months “pushing back on the liberal agenda” he says is wrong for the country."
+    publishedDateTime: 2021-04-30T14:17:00Z
+    webUrl: "https://triblive.com/news/politics-election/eyeing-2024-mike-pence-says-hell-push-back-on-liberal-agenda/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 35
 
 secured: "Ut2YB00QqMCUZDZYIRCT5cQ7I3eghgUduqkhQaTBUIQtCaUIfqHLlqckREhfgS93BH4ddq/2WPMyVmVI4SjV1fsqF+yleCVtC75ykqpa7K/eC5+q2hrUXhFKqIbq6hLKICPB5e9Dxx0/C4JUxXc5fByE9SHxoGvH0yXBEgkXR3DD4/5vhxw1YQpVerbOdyCre+f5CKS0U6dJT7fKIR+jFFQn062smy5VFfaOj2k/Z4hb/KSx/80ldxxqUeHb0Qpmj9kh44rh5AscrsTn0fh0IZtBkwSx0O31yXfaDBwJzwVsAXseO0kaPmHazEmS0/VxqSZXD7owP6aB0bySQRlFFNwMqcDUnq21wvKNueuoFtKzIrcTrBIjHdX4Wo5zPYpWbp1BgudRKlAXU7J6Hm+WyWV7DXk8IDq0YyiHKi17kdG8CsMvvexRrRKNHvH+6ZW/6X75wQP6TFJPfjH982BtWgS0XWcRmhmzeQy4+AC39T5dR4rlaZLViJz4XRX1WZfXfSSokkGxrBgP5YT0cnQYNw==;kn1cmBuCl+eHfu429lf5Ow=="
 ---

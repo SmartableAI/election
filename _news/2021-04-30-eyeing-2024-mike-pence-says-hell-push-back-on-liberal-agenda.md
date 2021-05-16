@@ -1,34 +1,22 @@
 ---
 category: news
-title: "Eying 2024, Pence makes 1st speech since leaving office"
-excerpt: "In his first public address since the end of the Trump administration, former Vice President Mike Pence put down a marker for a potential return to elected office, telling an audience in early-voting"
-publishedDateTime: 2021-04-30T03:39:00Z
-originalUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html"
-webUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+title: "Eyeing 2024, Mike Pence says he'll push back on 'liberal agenda'"
+excerpt: "Former Vice President Mike Pence, positioning himself for a possible return to elected office, told an audience in early-voting South Carolina that he will spend the coming months “pushing back on the liberal agenda” he says is wrong for the country."
+publishedDateTime: 2021-04-30T14:17:00Z
+originalUrl: "https://triblive.com/news/politics-election/eyeing-2024-mike-pence-says-hell-push-back-on-liberal-agenda/"
+webUrl: "https://triblive.com/news/politics-election/eyeing-2024-mike-pence-says-hell-push-back-on-liberal-agenda/"
 type: article
-quality: 125
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TribLIVE.com
+  domain: triblive.com
 
 topics:
   - Election
   - Mike Pence
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZR2LPVJI4I6XKFHL5C53TPTMQ.jpg&w=1440"
-    width: 1440
-    height: 958
-    isCached: true
 
 related:
   - title: "Eyeing 2024, Pence says he'll push back on 'liberal agenda'"
@@ -46,6 +34,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_e879d412648940fd99d8c946815b25be_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Eying 2024, Pence makes 1st speech since leaving office"
+    excerpt: "In his first public address since the end of the Trump administration, former Vice President Mike Pence put down a marker for a potential return to elected office, telling an audience in early-voting"
+    publishedDateTime: 2021-04-30T03:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-1st-post-office-speech-pence-lays-down-marker-for-2024/2021/04/29/00533828-a951-11eb-a8a7-5f45ddcdf364_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZR2LPVJI4I6XKFHL5C53TPTMQ.jpg&w=1440"
+        width: 1440
+        height: 958
         isCached: true
   - title: "Eying 2024, Pence says he'll push back on 'liberal agenda'"
     excerpt: "Pence, whose relationship with President Donald Trump frayed as Trump pressured Pence to block certification of the presidential election results, praised Trump’s tenure as “four years of promises made,"
@@ -137,16 +141,7 @@ related:
         width: 947
         height: 630
         isCached: true
-  - title: "Eyeing 2024, Mike Pence says he'll push back on 'liberal agenda'"
-    excerpt: "Former Vice President Mike Pence, positioning himself for a possible return to elected office, told an audience in early-voting South Carolina that he will spend the coming months “pushing back on the liberal agenda” he says is wrong for the country."
-    publishedDateTime: 2021-04-30T14:17:00Z
-    webUrl: "https://triblive.com/news/politics-election/eyeing-2024-mike-pence-says-hell-push-back-on-liberal-agenda/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 35
 
-secured: "m7IBBB2vyN4sZj+ZLxgbAVrzGrZBGfNRHODHb6fxjDRcSVve6lRvIb2fdjuFAo63YzM9Hv18kcTch+WgQxoyJHfiLs+bLp0xQAhZW5Qa8xR5LPuKJj+6zdP94BD+Kwf8mMPmK34iAIKukYUwdzBfcGV46kMpZMnf20S+mrhuxurH++g4cHBgT/u/7SfmjOkt2oOuDimen5S8miopnB6xLPvvDbbE8sSzxX0Jl3uMbyZqj4Z4bB1vBJa7aeJogntt8XGz2+lYdtQsczDVtNlYp2y9WX5VvnEqGqS2IpTXGfp3g1Y5e935vRUrJmDFFIClcdY46R7+XXRSuqTefa++svHseOJOXXUC/ewsCaGGDxWb/W9naSU669krZ5/5KT+VTVywqIvOtulhrjmoXS66VFj3zFg4WBArMr2wCHvqjkH/K/IC8vbZJpJuL/FhXlcEwTNYJt3awrmP3oVgePmi43s4XuC9kMrD+Qh07tq6ziKw/6qlcHT140OpP4lmgAZJ/OkP+/lt19DSzwJdcpiknQ==;UydjQMB7fDVOOp7P5IENIw=="
+secured: "jw4ikLAJL8rJiF0bn2L76pBWsCPPAkF+QZ967P4wVR4hlvTQOiPLmPiE5Iut21I8vHGSxj8sY6VvWvOdgO9j4DdORtrLzNvpmCUXDJBnxhMM1wRYVrtN38eZ0PujyTRu/o6hsAnD1X4UDgngf7hAbidv1Js/7Vw2CMnWQoH+iHmpEpBElMjKNTwu9BO3L58X3NFbDxckPUfhYpclpcsoIHgbSSmx4uLvQ5Dia2oqUvl7c4oIo5tF6+zg3vtquhLb+7Ds+SqxBWO+BoWanH0WLZA4IFsnQND11y9SqbENqeD5EPOjqDsmRUEJoOUqCwvl0ScubQRztu4yccuGYMwGAAnTFOyec0HClZeztBuh5AYUVMzl6TZ8jbCVEo5VlxgHSTI3GTuLE/t3KYu05cFfQ/FOqXjdqMVkPgQ0Tt3RezInSRCHGzQKttmzJ/JtmImR/MzoV69Ynj0o2KHmJpkC9cLgVYQfyOFLEjKQbHmAaXvh/KmOtPDhUq/nRulBRWhaoVVBcp+PgirAQIASSdBs/Q==;6sqKZ3Zp0oVXzZLOs0P7Iw=="
 ---
 
