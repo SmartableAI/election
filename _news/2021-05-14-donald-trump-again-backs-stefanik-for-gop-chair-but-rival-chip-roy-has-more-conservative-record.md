@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Republicans’ conflicting message: Embracing Trump election lie is key to prominence, just stop asking us about it"
+    excerpt: "Liz Cheney (R-Wyo.) as the No. 3 House Republican leader for saying former president Trump’s claim of a stolen election was a lie. Yet he insisted later that day, “I don’t think anybody is questioning the legitimacy of the presidential election."
+    publishedDateTime: 2021-05-15T21:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/mccarthy-stefanik-cheney-trump/2021/05/15/c0cc23aa-b4b7-11eb-ab43-bebddc5a0f65_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/mccarthy-stefanik-cheney-trump/2021/05/15/c0cc23aa-b4b7-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/mccarthy-stefanik-cheney-trump/2021/05/15/c0cc23aa-b4b7-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7C6MSUFUZII6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "House GOP elect Trump defender Stefanik as their number three in leadership"
     excerpt: "Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership, electing an ardent Donald Trump defender in hopes of calming their searing civil war over the deposed Rep. Liz Cheney's unremitting combat with the former president."
     publishedDateTime: 2021-05-15T00:07:00Z

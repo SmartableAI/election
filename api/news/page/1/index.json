@@ -655,6 +655,58 @@
       ]
     },
     {
+      "path": "_news/2021-05-15-biden-told-staff-not-to-serve-leafy-greens-because-he-didnt-want-to-be-photographed-with-leaves-in-his-teeth-report-says.md",
+      "title": "Biden told staff not to serve leafy greens because he didn't want to be photographed with leaves in his teeth, report says",
+      "excerpt": "The New York Times also reported President Biden's preferred drink is the controversial Orange Gatorade.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-nixes-leafy-greens-to-avoid-being-photographed-with-leaves-in-teeth",
+      "originalUrl": "https://www.businessinsider.com/biden-nixes-leafy-greens-to-avoid-being-photographed-with-leaves-in-teeth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/609efd611b5cea0019c45306?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-nixes-leafy-greens-to-avoid-being-photographed-with-leaves-in-teeth?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-nixes-leafy-greens-to-avoid-being-photographed-with-leaves-in-teeth?amp",
+      "publishedDateTime": "2021-05-14T17:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-still-buddies-mideast-violence-tests-biden-and-netanyahus-friendship.md",
       "title": "Still buddies? Mideast violence tests Biden and Netanyahu’s friendship",
       "excerpt": "As tensions rose between the White House and Israel almost seven years ago, then-Vice President Joe Biden assured a Jewish audience that he and Prime Minister Benjamin Netanyahu were “still buddies.” It didn’t matter that Netanyahu had treated Biden’s boss,",
@@ -937,7 +989,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-57121629.amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1270,62 +1322,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/13/politics/trump-organization-school-subpoena/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/trump-organization-school-subpoena/index.html",
       "publishedDateTime": "2021-05-13T18:46:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-biden-touts-new-cdc-mask-guidance-as-a-great-day-for-america.md",
-      "title": "Biden touts new CDC mask guidance as 'a great day for America'",
-      "excerpt": "President Joe Biden on Thursday touted new mask guidance from the US Centers for Disease Control and Prevention as \"a great day for America\" and an important milestone in the US coronavirus response.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NZGeHYeiSGw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NZGeHYeiSGw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210513154928-01-biden-vaccine-remarks-0513-screenshot-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/13/politics/joe-biden-cdc-mask-guidance/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/joe-biden-cdc-mask-guidance/index.html",
-      "publishedDateTime": "2021-05-13T13:37:01-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

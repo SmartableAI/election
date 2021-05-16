@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-57121629.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57121629.amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Republicans’ conflicting message: Embracing Trump election lie is key to prominence, just stop asking us about it"
+    excerpt: "Liz Cheney (R-Wyo.) as the No. 3 House Republican leader for saying former president Trump’s claim of a stolen election was a lie. Yet he insisted later that day, “I don’t think anybody is questioning the legitimacy of the presidential election."
+    publishedDateTime: 2021-05-15T21:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/mccarthy-stefanik-cheney-trump/2021/05/15/c0cc23aa-b4b7-11eb-ab43-bebddc5a0f65_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/mccarthy-stefanik-cheney-trump/2021/05/15/c0cc23aa-b4b7-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/mccarthy-stefanik-cheney-trump/2021/05/15/c0cc23aa-b4b7-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7C6MSUFUZII6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Donald Trump Again Backs Stefanik for GOP Chair but Rival Chip Roy Has More Conservative Record"
     excerpt: "\"Can't imagine Republican House Members would go with Chip Roy—he has not done a great job, and will probably be successfully primaried in his own district,\" former President Donald Trump said on Thursday."
     publishedDateTime: 2021-05-14T00:49:00Z

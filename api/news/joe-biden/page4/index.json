@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-11-texas-governor-biden-actions-on-guns-just-show.md",
+      "title": "Texas governor: Biden actions on guns just 'show'",
+      "excerpt": "Texas Gov. Greg Abbott (R) rejected the idea that firearm restrictions could be passed via executive order on Sunday while dismissing President Biden Joe Biden Biden eyes bigger US role in global ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/sunday-talk-shows/547574-texas-governor-biden-actions-on-guns-just-show",
+      "originalUrl": "https://thehill.com/homenews/sunday-talk-shows/547574-texas-governor-biden-actions-on-guns-just-show",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/abbottgreg_06182020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/sunday-talk-shows/547574-texas-governor-biden-actions-on-guns-just-show?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/547574-texas-governor-biden-actions-on-guns-just-show?amp",
+      "publishedDateTime": "2021-04-11T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-04-11-clyburn-offers-manchin-history-lesson-to-clear-senate-path-for-biden-reforms.md",
       "title": "Clyburn offers Manchin history lesson to clear Senate path for Biden reforms",
       "excerpt": "said on Sunday he intends to give Joe Manchin a lesson in US history as he attempts to clear a path for Joe Biden on voting rights and infrastructure. Pelosi and Cheney critical of Gaetz but stop short of calling for resignation Manchin, a moderate ...",
@@ -1530,58 +1582,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-texas-rangers-gm-jon-daniels-shrugs-off-joe-bidens-not-responsible-remark-on-full-stadium.md",
-      "title": "Texas Rangers GM Jon Daniels Shrugs Off Joe Biden's 'Not Responsible' Remark on Full Stadium",
-      "excerpt": "The general manager of the Texas Rangers used baseball's opening day Thursday to comment on President Joe Biden's remarks about his team hoping for a stadium full of fans. The Rangers have expressed a willingness to have their brand new stadium full of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/texas-rangers-gm-jon-daniels-shrugs-off-joe-bidens-not-responsible-remark-full-stadium-1580610",
-      "originalUrl": "https://www.newsweek.com/texas-rangers-gm-jon-daniels-shrugs-off-joe-bidens-not-responsible-remark-full-stadium-1580610",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1769583/texas-rangers-fans.jpg",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/texas-rangers-gm-jon-daniels-shrugs-off-joe-bidens-not-responsible-remark-full-stadium-1580610?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-rangers-gm-jon-daniels-shrugs-off-joe-bidens-not-responsible-remark-full-stadium-1580610?amp=1",
-      "publishedDateTime": "2021-04-01T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
