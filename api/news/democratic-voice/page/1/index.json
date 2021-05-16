@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-16-full-kinzinger-trump-loyalty-echoes-north-korea.md",
+      "title": "Full Kinzinger: Trump loyalty ‘echoes … North Korea’",
+      "excerpt": "Rep. Adam Kinzinger (R-Ill.) discusses Rep. Liz Cheney's purge from House GOP leadership, during an exclusive interview with Meet the Press.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/full-kinzinger-trump-loyalty-echoes-north-korea-112051781685",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/full-kinzinger-trump-loyalty-echoes-north-korea-112051781685",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media11.s-nbcnews.com/i/mpx/2704722219/2021_05/1621172223195_mtp_full_kinzinger_210516_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo112051781685",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo112051781685",
+      "publishedDateTime": "2021-05-16T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-senior-trump-air-force-official-suggested-dramatically-slashing-f-35-jet-numbers.md",
       "title": "Senior Trump Air Force official suggested dramatically slashing F-35 jet numbers ",
       "excerpt": "The official in charge of purchasing military hardware for the US Air Force suggested slashing the total number of Lockheed Martin F-35 jets for the service by more than half late last year, according to two former defense officials involved in the discussions who spoke with CNN. The news comes as Congressional",
@@ -746,7 +803,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 295,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -970,7 +1027,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 715,
+      "heat": 775,
       "tags": null,
       "images": [
         {
@@ -1629,62 +1686,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-04-secret-william-barr-memo-saying-not-to-charge-trump-must-be-released-judge-says.md",
-      "title": "Secret William Barr memo saying not to charge Trump must be released, judge says",
-      "excerpt": "A federal judge this week rejected the Justice Department's attempts to keep secret a departmental opinion to not charge former President Donald Trump with obstruction at the end of the Mueller investigation, calling the administration's lawyers \"disingenuous.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IvPvRos6aUw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IvPvRos6aUw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190411180959-0411-01-barr-trump-mueller-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/04/politics/william-barr-memo-trump-memo/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/william-barr-memo-trump-memo/index.html",
-      "publishedDateTime": "2021-05-04T16:05:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

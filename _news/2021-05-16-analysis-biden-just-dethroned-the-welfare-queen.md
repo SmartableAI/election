@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden to criticize tax cuts for wealthy while pushing middle-class agenda in Louisiana"
-excerpt: "President Joe Biden on Thursday will make the case that his sweeping economic proposals are better positioned to bolster the middle class than tax cuts for the wealthy and corporations, according to a White House official. \n    \n"
-publishedDateTime: 2021-05-06T13:31:28Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
+title: "Analysis: Biden just dethroned the Welfare Queen"
+excerpt: "President Biden just put a steak in the heart of one of the most racist political myths in contemporary politics. The GOP created the Welfare Queen myth to turn White Americans against big government programs to help the poor and working class. But Biden's unapologetic embrace of big government aid to"
+publishedDateTime: 2021-05-16T13:15:35Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4XLAvy2D4zg/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4XLAvy2D4zg/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/16/politics/biden-welfare-queen-blake/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/16/politics/biden-welfare-queen-blake/index.html"
 type: article
-quality: 167
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506172538-01-biden-welfare-queen-myth-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -60,22 +60,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210511194308-biden-for-filipovic-oped-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Biden just dethroned the Welfare Queen"
-    excerpt: "President Biden just put a steak in the heart of one of the most racist political myths in contemporary politics. The GOP created the Welfare Queen myth to turn White Americans against big government programs to help the poor and working class. But Biden's unapologetic embrace of big government aid to"
-    publishedDateTime: 2021-05-16T13:15:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4XLAvy2D4zg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/16/politics/biden-welfare-queen-blake/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/16/politics/biden-welfare-queen-blake/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506172538-01-biden-welfare-queen-myth-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -172,6 +156,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512120447-01-biden-bipartisan-meeting-0512-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to criticize tax cuts for wealthy while pushing middle-class agenda in Louisiana"
+    excerpt: "President Joe Biden on Thursday will make the case that his sweeping economic proposals are better positioned to bolster the middle class than tax cuts for the wealthy and corporations, according to a White House official. \n    \n"
+    publishedDateTime: 2021-05-06T13:31:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -510,6 +510,6 @@ related:
         height: 773
         isCached: true
 
-secured: "vx8utuZpTwLuSFSXhCN0rheTvvcHarsnMLCInE8EyuJEViGArg1FR5PpChSev/ryTuZx1FkefL9cOFCSHaRjqYPlLQG/rVCUwQAeb7jVHohkTBTX9gylAiSs9kvXF+gGAHkwMpT6jz4F7xCx2DVbCt0O1ScKClhqULD5Vggaum2zL/NEvlQwLeeyFudkVjVGqSM+0KKpFR2mN+eLndGjDJaBFj2nsqbHpcsmOSbyxSPpWGqjb3R+H5meEOAo8omCAxJ53/78SulTLFnv58vtwhRnx96umNqS/JtqRYbqe4OoyedSMXqxREUhOFFVCmh+UGtDEP4WGHt00/4TZ9+93+IIdUgHhmr78P+rH2y5mUk=;6OVF4aspYXEsYVjF6pE5ig=="
+secured: "PtolV3ra10GmYE/DIdNgwW0/rxAvZYQnkZDsIzqjsvRYgMjfXSYI1YMDAr6ljLSshmDi5WpmfM4ICb06WHnqH+TU6gQBuHVmo55xQL+0FawyBEnGowf5c7N+hXkvGIahO45j68ykUJjkYI5vk9PKaoykvwF7Byj4dbsa9M85DcxZlqXUE0S/VWv7kAxXZF33WL9FpeEl5JQKr6BuDO2oZWyrair6s9npL3Mg8P3WD+N0b6hOIy3mn0Ru8EqWxBA2Zxx8QRXuI2IkG2nw1No0YwOpRP85zmgTjwMvKBiMaY0pDglgoA8DeAgy5gU2Odnq3Lm7A/0KiHWdrrGwVx0fpdA8Xypq6b7c/Ywh0wwDKH8=;38f4pfkC5SviuiUFmQBhDg=="
 ---
 

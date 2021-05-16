@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden to criticize tax cuts for wealthy while pushing middle-class agenda in Louisiana"
-excerpt: "President Joe Biden on Thursday will make the case that his sweeping economic proposals are better positioned to bolster the middle class than tax cuts for the wealthy and corporations, according to a White House official. \n    \n"
-publishedDateTime: 2021-05-06T13:31:28Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
+title: "Biden faces an angry rift in his own party over Israeli-Palestinian conflict "
+excerpt: "So much attention has been focused on the rift in the GOP over former President Donald Trump's antidemocratic lies about the 2020 election.\n    \n"
+publishedDateTime: 2021-05-16T13:15:24Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GGYf0Qw5m48/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GGYf0Qw5m48/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/16/politics/biden-israel-progressive-democrats/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/16/politics/biden-israel-progressive-democrats/index.html"
 type: article
-quality: 167
+quality: 172
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210513213302-pba-biden-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -95,22 +95,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden faces an angry rift in his own party over Israeli-Palestinian conflict "
-    excerpt: "So much attention has been focused on the rift in the GOP over former President Donald Trump's antidemocratic lies about the 2020 election.\n    \n"
-    publishedDateTime: 2021-05-16T13:15:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GGYf0Qw5m48/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/16/politics/biden-israel-progressive-democrats/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/16/politics/biden-israel-progressive-democrats/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210513213302-pba-biden-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration details plans to conserve 30% of US land and water by 2030"
     excerpt: "The Biden administration on Thursday outlined in a new report how it aims to achieve its goal of conserving 30% of America's lands and waters by 2030.\n    \n"
     publishedDateTime: 2021-05-06T14:17:15Z
@@ -172,6 +156,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512120447-01-biden-bipartisan-meeting-0512-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to criticize tax cuts for wealthy while pushing middle-class agenda in Louisiana"
+    excerpt: "President Joe Biden on Thursday will make the case that his sweeping economic proposals are better positioned to bolster the middle class than tax cuts for the wealthy and corporations, according to a White House official. \n    \n"
+    publishedDateTime: 2021-05-06T13:31:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -510,6 +510,6 @@ related:
         height: 773
         isCached: true
 
-secured: "vx8utuZpTwLuSFSXhCN0rheTvvcHarsnMLCInE8EyuJEViGArg1FR5PpChSev/ryTuZx1FkefL9cOFCSHaRjqYPlLQG/rVCUwQAeb7jVHohkTBTX9gylAiSs9kvXF+gGAHkwMpT6jz4F7xCx2DVbCt0O1ScKClhqULD5Vggaum2zL/NEvlQwLeeyFudkVjVGqSM+0KKpFR2mN+eLndGjDJaBFj2nsqbHpcsmOSbyxSPpWGqjb3R+H5meEOAo8omCAxJ53/78SulTLFnv58vtwhRnx96umNqS/JtqRYbqe4OoyedSMXqxREUhOFFVCmh+UGtDEP4WGHt00/4TZ9+93+IIdUgHhmr78P+rH2y5mUk=;6OVF4aspYXEsYVjF6pE5ig=="
+secured: "xSarMK17fY1YpkquwHviR2PO4r9TZQFYHT9CEnApzPYh/JcO5LQEcXRFyzpmxUXUV1zU6WDVJ6gTnS1axeyouTS+mMugTUeAQt0RyxOfMrRIi/m5JtmTSjMZEMPQCY14XwqiDP532F3eHh+ZZEihgjnYxvWDZsFEaR6WDQ2Nor32IP/Bv3ieruLhCueRF3hr0R4ePm1HrLKa4E61A7ibGvRQUyq5pR1ez4J2tdvONb9DHEBd8uccbAW1PF7ri8j/BOR0quLc7L5ljqkWxmcpFxX5gI3i6toNkACBcA517yjhmTEgSu/kzC8vGWNRx4PuzKUkv3n5bc8nXL3FeoAIlwlLXDQzDxAtUXy3dvdSGHw=;MpGtHHlY5AS1AsWtkGEOtw=="
 ---
 

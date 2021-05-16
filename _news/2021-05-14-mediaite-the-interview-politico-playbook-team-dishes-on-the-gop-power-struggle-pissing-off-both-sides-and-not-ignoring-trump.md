@@ -126,6 +126,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Full Crenshaw Interview: ‘There’s no point in re-litigating some of these things’ after Trump loyalists purge Cheney"
+    excerpt: "In an exclusive interview with Meet the Press, Rep. Dan Crenshaw (R-Texas) talks to Chuck Todd about the fight within the Republican Party over how closely the GOP should embrace former president Trump's lies about the 2020 election."
+    publishedDateTime: 2021-05-16T13:35:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-crenshaw-there-s-no-point-in-re-litigating-some-of-these-things-after-trump-lies-engulf-gop-112050757663"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo112050757663"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo112050757663"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 112
+    images:
+      - url: "https://media13.s-nbcnews.com/i/mpx/2704722219/2021_05/1621171952239_mtp_full_crenshaw_210516_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "fh5nsY6OeBdgoFtb+eGbsmp9iXJ2309YC9ZitCLFXQw4IW7Ocz0gV1DobVY2tPXvkVIsxkZhEVzlQnspwx4sPvzRuZEx0EmXvTZ4vF0G//7ls0T/iW/kDAvMcO7zlRKFnNK6WyZZlnpkAzr/PN6zrmhWOKcis1cGzFHGQ1+CGTd07US/ghamwkHIdmXPXQgIqPFgkpcBR9WLM9HF1J+yqgP1Ori74p3LClUhLdc3oS5eExi2l+yO+HxjlIOF5DiM3j0Jx0zVmuqZzXKqqFwT9Ak2ozsc1seyGdQg8YqLBxQ0m6cZQSTrtnJKSOUw3jo6VMbh8z4IWO385RJSwTrVyY6tUbU7lNieXonJKFYwzY0=;dt3NZcrHnLgzoEPLBSaLYQ=="
 ---

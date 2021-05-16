@@ -111,6 +111,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Full Crenshaw Interview: ‘There’s no point in re-litigating some of these things’ after Trump loyalists purge Cheney"
+    excerpt: "In an exclusive interview with Meet the Press, Rep. Dan Crenshaw (R-Texas) talks to Chuck Todd about the fight within the Republican Party over how closely the GOP should embrace former president Trump's lies about the 2020 election."
+    publishedDateTime: 2021-05-16T13:35:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-crenshaw-there-s-no-point-in-re-litigating-some-of-these-things-after-trump-lies-engulf-gop-112050757663"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo112050757663"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo112050757663"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 112
+    images:
+      - url: "https://media13.s-nbcnews.com/i/mpx/2704722219/2021_05/1621171952239_mtp_full_crenshaw_210516_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Mediaite: The Interview: Politico Playbook Team Dishes on The GOP Power Struggle, Pissing Off Both Sides, and Not Ignoring Trump"
     excerpt: "Ryan Lizza, Rachael Bade, Eugene Daniels and Tara Palmeri — joined Aidan McLaughlin on The Interview to talk about everything from a Republican Party power struggle to what it’s like covering a new regime in D."
     publishedDateTime: 2021-05-13T20:49:00Z

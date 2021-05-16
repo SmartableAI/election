@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Cheney after being ousted from GOP leadership: 'We cannot be dragged backward' by Trump"
-excerpt: "Rep. Liz Cheney continued to criticize former President Donald Trump after House Republicans held a voice vote to remove her from her position as conference chair. The congresswoman said she did not feel betrayed by the vote,"
-publishedDateTime: 2021-05-12T14:27:00Z
-originalUrl: "https://www.nbcnews.com/video/cheney-speaks-after-being-ousted-from-gop-leadership-111771205665"
-webUrl: "https://www.nbcnews.com/video/cheney-speaks-after-being-ousted-from-gop-leadership-111771205665"
-ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111771205665"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111771205665"
+title: "Full Crenshaw Interview: ‘There’s no point in re-litigating some of these things’ after Trump loyalists purge Cheney"
+excerpt: "In an exclusive interview with Meet the Press, Rep. Dan Crenshaw (R-Texas) talks to Chuck Todd about the fight within the Republican Party over how closely the GOP should embrace former president Trump's lies about the 2020 election."
+publishedDateTime: 2021-05-16T13:35:00Z
+originalUrl: "https://www.nbcnews.com/meet-the-press/video/full-crenshaw-there-s-no-point-in-re-litigating-some-of-these-things-after-trump-lies-engulf-gop-112050757663"
+webUrl: "https://www.nbcnews.com/meet-the-press/video/full-crenshaw-there-s-no-point-in-re-litigating-some-of-these-things-after-trump-lies-engulf-gop-112050757663"
+ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo112050757663"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo112050757663"
 type: article
-quality: 127
+quality: 112
 heat: -1
 published: false
 
@@ -26,7 +26,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/f_mo_cheney_speaks_ousted_210512.jpg"
+  - url: "https://media13.s-nbcnews.com/i/mpx/2704722219/2021_05/1621171952239_mtp_full_crenshaw_210516_1920x1080.jpg"
     width: 1920
     height: 1080
     isCached: true
@@ -112,19 +112,19 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Full Crenshaw Interview: ‘There’s no point in re-litigating some of these things’ after Trump loyalists purge Cheney"
-    excerpt: "In an exclusive interview with Meet the Press, Rep. Dan Crenshaw (R-Texas) talks to Chuck Todd about the fight within the Republican Party over how closely the GOP should embrace former president Trump's lies about the 2020 election."
-    publishedDateTime: 2021-05-16T13:35:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-crenshaw-there-s-no-point-in-re-litigating-some-of-these-things-after-trump-lies-engulf-gop-112050757663"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo112050757663"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo112050757663"
+  - title: "Cheney after being ousted from GOP leadership: 'We cannot be dragged backward' by Trump"
+    excerpt: "Rep. Liz Cheney continued to criticize former President Donald Trump after House Republicans held a voice vote to remove her from her position as conference chair. The congresswoman said she did not feel betrayed by the vote,"
+    publishedDateTime: 2021-05-12T14:27:00Z
+    webUrl: "https://www.nbcnews.com/video/cheney-speaks-after-being-ousted-from-gop-leadership-111771205665"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111771205665"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111771205665"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 112
+    quality: 127
     images:
-      - url: "https://media13.s-nbcnews.com/i/mpx/2704722219/2021_05/1621171952239_mtp_full_crenshaw_210516_1920x1080.jpg"
+      - url: "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/f_mo_cheney_speaks_ousted_210512.jpg"
         width: 1920
         height: 1080
         isCached: true
@@ -143,6 +143,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "UUbO7gzPuA4HY5BtNkdJnlxSrXlFcDWoHVA624AJFkNNm0NDdm+0IHsfWex1nhubgDnOOa3JEvuMKnI5KWN0bmWnz1eyeutHvrtsiAd3/iCUR5dnZkhLhZuFLICZw0t+fGA9Ht+1r+V8lWM2/kiPzne7U0XsnNxg8qmHnXJpa82YoV356JFk/z7Ruljc3KN87o3MCXbhDE6t2NyUkzKbhsCXLXTMym6dZM3+EjASIoUziscsPgK6IlzcHP/daym0FAgDpBa+t7l8mqPBu5dEKp/7C5yEql5hvCKSJherYK5/23tH/kOXQWNjN3Vos5g/MTGUF0LJ9o8bQNPgwU6yBUAV1r1HOuhhy+8yieEZVb4=;5B4vPCGDv5ncBKPCKNNKag=="
+secured: "GgYym63Y1BnxAZCsQ9FinV/dElpPRlrXuf5UnBAWKet4pbYMc+dwdhG6kVF1JvCaOGzySZwbaYPXplj6uXEw4POwMxzcOx3DrSTx8ILVVXGVFjxVWb+U75n+6Qo+a11nbhGHCid8TmvJbZLdOMZMdS13OFHCgWmVslgPyBgEDZLT0kta0fP7hsowIK89NfK8Lq46f3tqJSiCOt7VChVrTi57x3aeqJYPMVFfkoKBSlJIbVTqfw61SJjaGxKCHLSqMOLmHOJOEp15qWXlUx7CUlJbWTfhja5OkEz2LDTV0ACB9yKrdJnVU4iwbUda2uzd8iRuOKyXsciIDcWQAZUkQlBWLMsluGxJRUXy4dUugf0=;sY8bPN25CTIFz3zQpfKRXg=="
 ---
 

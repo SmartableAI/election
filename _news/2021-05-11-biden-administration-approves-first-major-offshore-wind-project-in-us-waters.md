@@ -63,6 +63,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Biden just dethroned the Welfare Queen"
+    excerpt: "President Biden just put a steak in the heart of one of the most racist political myths in contemporary politics. The GOP created the Welfare Queen myth to turn White Americans against big government programs to help the poor and working class. But Biden's unapologetic embrace of big government aid to"
+    publishedDateTime: 2021-05-16T13:15:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4XLAvy2D4zg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/16/politics/biden-welfare-queen-blake/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/16/politics/biden-welfare-queen-blake/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506172538-01-biden-welfare-queen-myth-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden faces an angry rift in his own party over Israeli-Palestinian conflict "
+    excerpt: "So much attention has been focused on the rift in the GOP over former President Donald Trump's antidemocratic lies about the 2020 election.\n    \n"
+    publishedDateTime: 2021-05-16T13:15:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GGYf0Qw5m48/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/16/politics/biden-israel-progressive-democrats/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/16/politics/biden-israel-progressive-democrats/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210513213302-pba-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration details plans to conserve 30% of US land and water by 2030"
     excerpt: "The Biden administration on Thursday outlined in a new report how it aims to achieve its goal of conserving 30% of America's lands and waters by 2030.\n    \n"
     publishedDateTime: 2021-05-06T14:17:15Z
@@ -108,6 +140,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303103803-01-jennifer-granholm-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Reviving an old idea, Biden seeks to unlock bipartisan infrastructure deal"
+    excerpt: "Walter Mondale, who passed away last month, hit an electoral buzzsaw after promising to raise taxes in his 1984 presidential campaign. His party learned fast.\n    \n"
+    publishedDateTime: 2021-05-16T11:19:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PKsKpqjYktQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/16/politics/taxes-infrastructure-biden-summers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/16/politics/taxes-infrastructure-biden-summers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512120447-01-biden-bipartisan-meeting-0512-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

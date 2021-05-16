@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden to criticize tax cuts for wealthy while pushing middle-class agenda in Louisiana"
-excerpt: "President Joe Biden on Thursday will make the case that his sweeping economic proposals are better positioned to bolster the middle class than tax cuts for the wealthy and corporations, according to a White House official. \n    \n"
-publishedDateTime: 2021-05-06T13:31:28Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
+title: "Analysis: Reviving an old idea, Biden seeks to unlock bipartisan infrastructure deal"
+excerpt: "Walter Mondale, who passed away last month, hit an electoral buzzsaw after promising to raise taxes in his 1984 presidential campaign. His party learned fast.\n    \n"
+publishedDateTime: 2021-05-16T11:19:37Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PKsKpqjYktQ/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PKsKpqjYktQ/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/16/politics/taxes-infrastructure-biden-summers/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/16/politics/taxes-infrastructure-biden-summers/index.html"
 type: article
-quality: 167
+quality: 168
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512120447-01-biden-bipartisan-meeting-0512-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -159,19 +159,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Reviving an old idea, Biden seeks to unlock bipartisan infrastructure deal"
-    excerpt: "Walter Mondale, who passed away last month, hit an electoral buzzsaw after promising to raise taxes in his 1984 presidential campaign. His party learned fast.\n    \n"
-    publishedDateTime: 2021-05-16T11:19:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PKsKpqjYktQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/16/politics/taxes-infrastructure-biden-summers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/16/politics/taxes-infrastructure-biden-summers/index.html"
+  - title: "Biden to criticize tax cuts for wealthy while pushing middle-class agenda in Louisiana"
+    excerpt: "President Joe Biden on Thursday will make the case that his sweeping economic proposals are better positioned to bolster the middle class than tax cuts for the wealthy and corporations, according to a White House official. \n    \n"
+    publishedDateTime: 2021-05-06T13:31:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nB0qG_lvXVM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/biden-louisiana-speech/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512120447-01-biden-bipartisan-meeting-0512-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505150824-02-biden-remarks-0505-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -510,6 +510,6 @@ related:
         height: 773
         isCached: true
 
-secured: "vx8utuZpTwLuSFSXhCN0rheTvvcHarsnMLCInE8EyuJEViGArg1FR5PpChSev/ryTuZx1FkefL9cOFCSHaRjqYPlLQG/rVCUwQAeb7jVHohkTBTX9gylAiSs9kvXF+gGAHkwMpT6jz4F7xCx2DVbCt0O1ScKClhqULD5Vggaum2zL/NEvlQwLeeyFudkVjVGqSM+0KKpFR2mN+eLndGjDJaBFj2nsqbHpcsmOSbyxSPpWGqjb3R+H5meEOAo8omCAxJ53/78SulTLFnv58vtwhRnx96umNqS/JtqRYbqe4OoyedSMXqxREUhOFFVCmh+UGtDEP4WGHt00/4TZ9+93+IIdUgHhmr78P+rH2y5mUk=;6OVF4aspYXEsYVjF6pE5ig=="
+secured: "QAAo1DUDCSPPrMQpHlu2VFm6gkastaIeTtu17akWx85+m4os2iYHdrVY2UW9NUPhyH2h4hXOBN9hAmMynqrpG/XdSyVpKCWlWIofU9vMMveqeI5dLe6eCicvWDSxURtp6NgSrDYISNiyQ/7VLaxmyAPwJ6A5dTNsfOc8KNCuLj6awC8+mflDZ0tEBhlY5Vjk3S4qd8WPcJj+p6XctcZvXiHCxOGhp+xW++QHPL8Q8JgEC5I3Rp5e1O0gcuwAdE3CeSoP070WXq8QXHN2JwAkeLMCW5UJgHHzbagTWkQfU21xeVR3VzzOdoyhsgcqEfdVj6bzalfBxyRKy45/Gjlbj9TKWs/eH9y057pbgRP+r88=;TDdGVhRnvTrX4KVQRJLZLg=="
 ---
 

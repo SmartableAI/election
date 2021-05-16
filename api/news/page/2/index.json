@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-14-nomination-of-kristen-clarke-controversial-biden-civil-rights-pick-hangs-in-balance.md",
+      "title": "Nomination of Kristen Clarke, controversial Biden civil-rights pick, hangs in balance",
+      "excerpt": "The Senate Judiciary Committee advanced the nomination of Kristen Clarke to run the civil rights division at the Department of Justice on Thursday, but her confirmation is still not certain as a handful of key moderate senators have yet to announce their stance on the nominee.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins",
+      "originalUrl": "https://www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b5c045d-f123-483e-bf61-47f1ec138734/82a4dec4-33fd-444e-951d-72ca464a2df4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins.amp",
+      "publishedDateTime": "2021-05-14T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-us-welcome-patrol-how-some-border-agents-are-struggling-with-bidens-policy-shift.md",
       "title": "'U.S. Welcome Patrol': how some border agents are struggling with Biden's policy shift",
       "excerpt": "Some U.S. border patrol agents are so frustrated with President Joe Biden's more liberal border policies that they are considering early retirement, while other disgruntled colleagues are buying unofficial coins that say 'U.",
@@ -1260,62 +1317,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/100-former-gop-officials-form-third-party.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/100-former-gop-officials-form-third-party.amp",
       "publishedDateTime": "2021-05-12T17:31:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets.md",
-      "title": "Biden calls Netanyahu, says Israel ‘has right to defend itself’ against Hamas rockets",
-      "excerpt": "President Biden on Wednesday spoke with Prime Minister Benjamin Netanyahu to reaffirm U.S. support for Israel after a night of bloodshed with civilians in Tel Aviv sheltering from Hamas rockets.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1WWZ0vwbFK8/biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1WWZ0vwbFK8/biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b23813c0-263f-4ba0-bb51-bcdefd534333/bbd01931-98bc-45cb-ac58-22600b835035/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets.amp",
-      "publishedDateTime": "2021-05-12T16:35:17-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
