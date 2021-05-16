@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump mocks comparisons of Biden to Jimmy Carter: The current president is worse"
-excerpt: "In a statement Wednesday, Donald Trump refuted a tweet issued by his son Donald Trump Jr. that claimed President Biden was “the next Jimmy Carter,” in an apparent slight last week."
-publishedDateTime: 2021-05-12T22:04:39Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZDuOfEb2P88/trump-refutes-comparison-of-carter-presidency-to-biden-crisis"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZDuOfEb2P88/trump-refutes-comparison-of-carter-presidency-to-biden-crisis"
-ampWebUrl: "https://www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp"
+title: "Biden admin diverts $2B from COVID, health spending to care for migrant kids"
+excerpt: "The Biden administration has pulled more than $2 billion out of programs authorized by Congress for COVID-19 testing, emergency medical supplies and other health needs — and is spending it on shelter for the 45,000 unaccompanied migrant children that have flooded across the US border this year."
+publishedDateTime: 2021-05-16T01:33:00Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-RnHdXpNb5A/biden-admin-diverts-2b-from-covid-health-spending-to-care-for-migrant-kids"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-RnHdXpNb5A/biden-admin-diverts-2b-from-covid-health-spending-to-care-for-migrant-kids"
+ampWebUrl: "https://www.foxnews.com/politics/biden-admin-diverts-2b-from-covid-health-spending-to-care-for-migrant-kids.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-diverts-2b-from-covid-health-spending-to-care-for-migrant-kids.amp"
 type: article
-quality: 185
+quality: 172
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26e1be5f-4597-488c-bda1-97eb4a713daf/15b5b68a-7a61-4af3-9521-8b1cb29e3ec7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/Biden-Beccara-Border.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -47,19 +47,19 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden admin diverts $2B from COVID, health spending to care for migrant kids"
-    excerpt: "The Biden administration has pulled more than $2 billion out of programs authorized by Congress for COVID-19 testing, emergency medical supplies and other health needs — and is spending it on shelter for the 45,000 unaccompanied migrant children that have flooded across the US border this year."
-    publishedDateTime: 2021-05-16T01:33:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-RnHdXpNb5A/biden-admin-diverts-2b-from-covid-health-spending-to-care-for-migrant-kids"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-diverts-2b-from-covid-health-spending-to-care-for-migrant-kids.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-diverts-2b-from-covid-health-spending-to-care-for-migrant-kids.amp"
+  - title: "Trump mocks comparisons of Biden to Jimmy Carter: The current president is worse"
+    excerpt: "In a statement Wednesday, Donald Trump refuted a tweet issued by his son Donald Trump Jr. that claimed President Biden was “the next Jimmy Carter,” in an apparent slight last week."
+    publishedDateTime: 2021-05-12T22:04:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZDuOfEb2P88/trump-refutes-comparison-of-carter-presidency-to-biden-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 185
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/Biden-Beccara-Border.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26e1be5f-4597-488c-bda1-97eb4a713daf/15b5b68a-7a61-4af3-9521-8b1cb29e3ec7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -218,6 +218,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Zn9K44QLTPgScKwuER7cb0KpgQtTzzTiHlgz0j7VBFuTNfpPiYhk9H48yxfKv7HJdRRRYpjafWpODptwQZ1oaONLiWG4G2hbbPMXphSRO2fqb3fLjms4sqihYsYaglCcojQ9NUvgfBHF4quVizSpcevIk0s7bOsyEuFfgFoiGO3ohnuSVi2EnILxdqGCJNar+G9us2C7Ynbi02D+lOIGkJtfeuEp4LYeouWSgA8jjUiNz4SQoyzOyDM/WH7Ci60dNsFgVYGvmCZngM7/+YLGBamVhWDlIV+vZBSR36LONgu6oxyfwV4cDDFkJSSQhcIOtXVgR45NuW/eoXJf5Ez2NZdKGsjUin1C1cxRo7V7fYE=;p2nOzStlNwyFAPgel+d2qg=="
+secured: "sACcDIKl+yrDudg/rIeakucQut/+1zoydjxSPL4obCtJhrs2jf3YBwOqdmfvaU9uqeUY3uQplFG+uO+vQz52y5dNRcsiC0nTwMzBs/XiflXmnH1tm4UWqp5Ek1SuT24dJXDfSfhnJeZrrTuPkVHseTZ6CbAG9W5ZCOC0bDwSmZY36QRgn4347A1dpYZb5myzvAp1MxeyrByk26GYNXFKrMS2cqIHhUMXd6XldnKabwKhpFf34rI2bydKQPOTNKC0HPxadpZ4BZjtiWkas93t6mHRhEftpy/VBPdTyxI0ePTwdA9c5a1lPrIChyfheRJFobIjU/C7e1S0mTqbd5Z0HtERr5L7YWEHZ0we+T53Gcc=;yQZ+GCsdVRhGnm6VCZ+ofQ=="
 ---
 

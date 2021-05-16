@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden admin diverts $2B from COVID, health spending to care for migrant kids"
+    excerpt: "The Biden administration has pulled more than $2 billion out of programs authorized by Congress for COVID-19 testing, emergency medical supplies and other health needs — and is spending it on shelter for the 45,000 unaccompanied migrant children that have flooded across the US border this year."
+    publishedDateTime: 2021-05-16T01:33:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-RnHdXpNb5A/biden-admin-diverts-2b-from-covid-health-spending-to-care-for-migrant-kids"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-diverts-2b-from-covid-health-spending-to-care-for-migrant-kids.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-diverts-2b-from-covid-health-spending-to-care-for-migrant-kids.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/Biden-Beccara-Border.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Sen. Blackburn to introduce bill to reinstate Trump's Migrant Protection Protocols"
     excerpt: "Sen. Marsha Blackburn, R-Tenn., is introducing a bill this week that would seek to reinstate the Trump-era Migrant Protection Protocols in response to a crisis at the southern border that has overwhelmed the immigration system in recent months."
     publishedDateTime: 2021-05-13T13:00:50Z

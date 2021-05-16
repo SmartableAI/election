@@ -58,6 +58,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden admin diverts $2B from COVID, health spending to care for migrant kids"
+    excerpt: "The Biden administration has pulled more than $2 billion out of programs authorized by Congress for COVID-19 testing, emergency medical supplies and other health needs — and is spending it on shelter for the 45,000 unaccompanied migrant children that have flooded across the US border this year."
+    publishedDateTime: 2021-05-16T01:33:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-RnHdXpNb5A/biden-admin-diverts-2b-from-covid-health-spending-to-care-for-migrant-kids"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-diverts-2b-from-covid-health-spending-to-care-for-migrant-kids.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-diverts-2b-from-covid-health-spending-to-care-for-migrant-kids.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/Biden-Beccara-Border.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "GOP senators to meet with Biden, who's looking for deal on massive spending bill"
     excerpt: "President Biden will court GOP senators next week at the White House in an effort to strike a deal on his spending bill, but Republicans stressed they don't want tax increases on businesses or any liberal \"wish list\" items as part of any compromise. "
     publishedDateTime: 2021-05-08T20:12:06Z

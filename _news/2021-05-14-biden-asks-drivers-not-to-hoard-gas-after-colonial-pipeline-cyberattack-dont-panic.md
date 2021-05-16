@@ -44,6 +44,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Jesse Watters: This week, all Biden's terrible decisions caught up with him"
+    excerpt: "'Watters’ World' host Jesse Watters slammed the Biden administration Saturday, saying the president is 'politically wounded 100 days in,' and 'doesn't have a clue how to fix the problems he created.'"
+    publishedDateTime: 2021-05-16T01:35:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yvnbkFExe0U/jesse-watters-this-week-all-bidens-terrible-decisions-caught-up-with-him"
+    ampWebUrl: "https://www.foxnews.com/politics/jesse-watters-this-week-all-bidens-terrible-decisions-caught-up-with-him.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jesse-watters-this-week-all-bidens-terrible-decisions-caught-up-with-him.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden's American Rescue Plan unemployment-benefit extension making it difficult to find workers, employers say"
     excerpt: "Some U.S. small business and restaurant owners claim President Biden's unemployment benefit extension is making it difficult to hire new workers."
     publishedDateTime: 2021-05-12T21:13:04Z

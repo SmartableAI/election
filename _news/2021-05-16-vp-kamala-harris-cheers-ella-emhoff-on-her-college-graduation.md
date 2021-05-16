@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Christian minister sues Nancy Pelosi, Kamala Harris over access to Capitol"
-excerpt: "A Christian minister is suing House Speaker Nancy Pelosi, Vice President Kamala Harris, the Capitol Police Board, and the Sergeant of Arms for the Senate — saying he was denied access to"
-publishedDateTime: 2021-03-31T16:51:00Z
-originalUrl: "https://nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/"
-webUrl: "https://nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/"
-ampWebUrl: "https://nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/amp/"
+title: "VP Kamala Harris cheers Ella Emhoff on her college graduation"
+excerpt: "I am so proud of you,” the veep posted over a snap of her with her stepdaughter. “Keep dreaming with ambition and there is nothing you cannot achieve.”"
+publishedDateTime: 2021-05-15T23:55:00Z
+originalUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/"
+webUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/"
+ampWebUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
 type: article
-quality: 133
+quality: 135
 heat: -1
 published: false
 
@@ -22,7 +22,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/rev-mahoney-suing-harris-pelosi-fences-hp2.jpg?quality=90&strip=all&w=1200"
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-ella-1.jpg?quality=90&strip=all&w=1200"
     width: 1200
     height: 800
     isCached: true
@@ -90,19 +90,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "VP Kamala Harris cheers Ella Emhoff on her college graduation"
-    excerpt: "I am so proud of you,” the veep posted over a snap of her with her stepdaughter. “Keep dreaming with ambition and there is nothing you cannot achieve.”"
-    publishedDateTime: 2021-05-15T23:55:00Z
-    webUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/"
-    ampWebUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
+  - title: "Christian minister sues Nancy Pelosi, Kamala Harris over access to Capitol"
+    excerpt: "A Christian minister is suing House Speaker Nancy Pelosi, Vice President Kamala Harris, the Capitol Police Board, and the Sergeant of Arms for the Senate — saying he was denied access to"
+    publishedDateTime: 2021-03-31T16:51:00Z
+    webUrl: "https://nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/"
+    ampWebUrl: "https://nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/31/minister-sues-nancy-pelosi-kamala-harris-over-capitol-access/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 135
+    quality: 133
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-ella-1.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/rev-mahoney-suing-harris-pelosi-fences-hp2.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -137,6 +137,6 @@ related:
         height: 720
         isCached: true
 
-secured: "ByU5THJR9B3htODmZ8QJYYnXD+aEovDfmTKLnoVKcZY32ggvDSlLjHBkaH1NjUi+zFwiedzgQ3Htvo73LaZ0zrZ8b4BKAlynRT+ailbiWs/8avvxUkFFGl1TVSINEcJwUm1aqcar+0IRdeNskTU54RFRTUkUGnLuEuZoZziJZGviIy9AmotRGvRwbLkngUEBkRqXzBky3uK82BiggTcdeyjJEthlTmB2aZdLYplNpuepttJHzfjuBEPvoNAECIewz2AHQsverig5mi3tg1H3vAUQnzf4qpMQz0TPCGj99lSP7d4l9eSyT0pWC5FAfjZFL9k8JX6RJGsd4TIN3fmXH4mwh1KHkXgzrIR+bWXZ6Swybf4XahiZDA/a1KS7jGGyEdq9zBXqGjZtG1yIJlh/PpDGly4uKMsOlBJUni8hX0eDI2jUjHCwLKtmpIhL2CUWY0pnguKtcuYlVl2iVK7Nl0yqjKjExbiN6CoQx/aFm2CKBwX9LQJ10PMrnhenTt63qoPE1hgcbPMw3vqmm+6SqQ==;XnwVDB/CAV/l5P0azryfbw=="
+secured: "c2NG3gSVU2/haYmxESI8NxAUJXWsAwGHp4dyxBvOVAdnqGuEs5qfLP5CvCLLUFz6SycBOrKsiOVujG7cwhcP+ijyzuSpkglHatS96SCu0+d8tndNRfjyzV1bO07oqeyiA6QuahokbITzsO/M5JKERh8TLVUlS6Si1LSX7B/DNHqlB6xbNTdeeLOJAEEQIih/IhhxQDRll3tHDjkODDzWM+samMi+JqtBg+P/LNDHVDhmxoKzhCBeOw1A9/caJ3KFjuXXrXt8vubVdtkcrZ83LZTJIgx6PidXN8c5NFl80+QMvKFCsCZhP3Uk6kz0LHKNLlXntGK05L/C7RxPIeIIbQ8EAF77u9YmeUSCudZnCA0=;lQYDfCXehwhvxz+bJrcjmA=="
 ---
 

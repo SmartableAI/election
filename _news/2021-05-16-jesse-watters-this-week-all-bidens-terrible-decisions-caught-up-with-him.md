@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden's American Rescue Plan unemployment-benefit extension making it difficult to find workers, employers say"
-excerpt: "Some U.S. small business and restaurant owners claim President Biden's unemployment benefit extension is making it difficult to hire new workers."
-publishedDateTime: 2021-05-12T21:13:04Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1ARaCfneKJY/labor-shortage-unemployment-benefits-nationwide"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1ARaCfneKJY/labor-shortage-unemployment-benefits-nationwide"
-ampWebUrl: "https://www.foxnews.com/politics/labor-shortage-unemployment-benefits-nationwide.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/labor-shortage-unemployment-benefits-nationwide.amp"
+title: "Jesse Watters: This week, all Biden's terrible decisions caught up with him"
+excerpt: "'Watters’ World' host Jesse Watters slammed the Biden administration Saturday, saying the president is 'politically wounded 100 days in,' and 'doesn't have a clue how to fix the problems he created.'"
+publishedDateTime: 2021-05-16T01:35:03Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yvnbkFExe0U/jesse-watters-this-week-all-bidens-terrible-decisions-caught-up-with-him"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yvnbkFExe0U/jesse-watters-this-week-all-bidens-terrible-decisions-caught-up-with-him"
+ampWebUrl: "https://www.foxnews.com/politics/jesse-watters-this-week-all-bidens-terrible-decisions-caught-up-with-him.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jesse-watters-this-week-all-bidens-terrible-decisions-caught-up-with-him.amp"
 type: article
-quality: 155
+quality: 173
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d7d67eb-4b1c-4f79-9450-c1a39e20f2f9/166277f7-f4f6-425b-9b23-f7b7151c5a78/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Jesse Watters: This week, all Biden's terrible decisions caught up with him"
-    excerpt: "'Watters’ World' host Jesse Watters slammed the Biden administration Saturday, saying the president is 'politically wounded 100 days in,' and 'doesn't have a clue how to fix the problems he created.'"
-    publishedDateTime: 2021-05-16T01:35:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yvnbkFExe0U/jesse-watters-this-week-all-bidens-terrible-decisions-caught-up-with-him"
-    ampWebUrl: "https://www.foxnews.com/politics/jesse-watters-this-week-all-bidens-terrible-decisions-caught-up-with-him.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jesse-watters-this-week-all-bidens-terrible-decisions-caught-up-with-him.amp"
+  - title: "Biden's American Rescue Plan unemployment-benefit extension making it difficult to find workers, employers say"
+    excerpt: "Some U.S. small business and restaurant owners claim President Biden's unemployment benefit extension is making it difficult to hire new workers."
+    publishedDateTime: 2021-05-12T21:13:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1ARaCfneKJY/labor-shortage-unemployment-benefits-nationwide"
+    ampWebUrl: "https://www.foxnews.com/politics/labor-shortage-unemployment-benefits-nationwide.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/labor-shortage-unemployment-benefits-nationwide.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 155
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d7d67eb-4b1c-4f79-9450-c1a39e20f2f9/166277f7-f4f6-425b-9b23-f7b7151c5a78/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Ingraham: Biden is out of gas, is now America's problem denier"
     excerpt: "Fox News host Laura Ingraham claimed President Biden's \"incompetence and radicalism are a dangerous combination\" as he denies the several crises facing the nation on \"\""
@@ -112,6 +112,6 @@ related:
         height: 562
         isCached: true
 
-secured: "+wFaXCiwoYYY5CkbkFRYeN5dslXqI/OYdYIYOP24DoSua901eeIkxkIiU12ft43MYOIlpUduWhkAu6aDmBXvS4tj+cWjQF3HOyY16ffmhObGvWahrqnGpVcvnhJtGDuCsHGZXVRJmizwF1h0e4DrOFimUspOYoWW4ZLKMzSDlvknPMi9g6938uHC1T2wBh9QzP6A69sK44WKqM8m1qlwhFtoaHkNxrRtZyrED3TOSsc4uiQ0x/P0H/nIVz4vFmha2Qih0vaLwOLOKYCqVGAipt6lrhQUvXlChwpgN1yfrFA5PP9FtDPeXMMmF70MgfIaA09aFB9IV6ju6TioI8xgylj7q00/fHFoe/uaCOuJiq0=;WxlxSlFtAt8XQu90DOjUQg=="
+secured: "QXl8FdxyEsNUIbh9KPhLfKVitbf2KmuDiyMTvtuTKE2Y91Tw7Mp08DqRedCUVNEzLFGis/1wW4BdfVAajT2rYDbGJcdul/6fNrx/c57758bVZNN2pNWqDmj8rR7EOJzyrCoO34+m0peuBgoi00LRtCKD367yJaHqT99mWFf9XQpc0uMQ0skZEzKNSncHjh7TW3mCYYqwrssIsjtGH0nusIuoQjdYGmywpyINm8nHuKSPirShl4UxQBqlu8TzVqMp4SkwPabYzdlMfBLRb9730JQkVe8hcGBaJL4QCIlIM2ekT5ZQt9fW7dFCEx3eRdRDTxSvlP+OJYVNJAEZ9/HfhNHfjnrr11cZAIFQIAC8sqw=;jDsFneyPGe4IDC0lGwF+EA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-liz-chen
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-liz-cheney-gop-third-party?amp"
 type: article
 quality: 124
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Republican Arizona Election Official Says Trump 'Unhinged'"
+    excerpt: "The Republican now leading the Arizona county elections department targeted by a GOP audit of the 2020 election results is slamming former President Donald Trump and others in his party for their continued falsehoods about how the election was run."
+    publishedDateTime: 2021-05-16T00:36:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-15/republican-arizona-election-official-says-trump-unhinged"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
 
 secured: "uvpiUnon6zQm440BVcAMjelyVYJtQtqSqNBKl9kwpeK6zvBZ79wxY/SsyP8aqVpVpObCVuGwlCP9jRSr1iTFdEmYtkU3U95E0W2VPJnivbEUzuQRa9l3h8+tTTnO4qZkbksdApZRNJDu8RHLHrgzp+0/a4pauRxDIM0nedoJnhTZ2WFq50+C4luGcGaGi+YBdgAc5Y2wA/RXBsJo8nvORIHfwJxZbVrBhQULGOtn6EAHJ7smI6iioOfXUgvBvfSHZhtcL5PBOdob5wi1ABwBPdx+/r/V4DYAJn0YXZe72bsrpICJIT8B6XdFrSdcALHpR0qA+ghsCQvQkCKZgeGwzUK4tGM730j0pTItMHJawwV8SoiE1BmeF2tYQNvo2zrRdX7B+zQqSZnVGt/GuqOBbLUld4d9sKM5AQnMsl0rNp9m41V/01Mv4rlbC/K5Gujckh1CrEpG9K939HhBAyoQ7VwsVdfjHhtvmBrGEZxyBeGbNxIgyBi79cVjvYY8wzdHDcytsnzClJk9BXuym2VrKQ==;RiRzfKvjUtGeiOfBJP4dAw=="
 ---
