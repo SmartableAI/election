@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Chris Wallace presses Liz Cheney on Trump supporters: 'Why alienate them?'"
-excerpt: "Rep. Liz Cheney, ousted this week as the third-ranking House Republican, defended her outspoken criticism of former President Donald Trump during an interview on \"Fox News Sunday,\" and said that the 74 million Americans who voted for him were \"misled\" and \"betrayed.\""
-publishedDateTime: 2021-05-16T14:44:30Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1DGppkq8ARA/chris-wallace-liz-cheney-trump-supporters"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1DGppkq8ARA/chris-wallace-liz-cheney-trump-supporters"
+excerpt: "Rep. Liz Cheney, ousted this week as the third-ranking House Republican, defended her outspoken criticism of former President Donald Trump during an interview on \"Fox News Sunday,\" and said that the 74 million Americans who voted for him were \"misled\" and \"betrayed."
+publishedDateTime: 2021-05-16T16:43:00Z
+originalUrl: "https://www.foxnews.com/politics/chris-wallace-liz-cheney-trump-supporters"
+webUrl: "https://www.foxnews.com/politics/chris-wallace-liz-cheney-trump-supporters"
 ampWebUrl: "https://www.foxnews.com/politics/chris-wallace-liz-cheney-trump-supporters.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-wallace-liz-cheney-trump-supporters.amp"
 type: article
-quality: 173
-heat: 273
-published: true
+quality: 133
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -47,67 +48,39 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Liz Cheney willing to do ‘whatever it takes’ to prevent Trump win in 2024"
-    excerpt: "Fresh off her ouster from House Republican leadership, Rep. Liz Cheney is maintaining her crusade to do “whatever it takes” to oppose former President Donald Trump."
-    publishedDateTime: 2021-05-13T12:36:00Z
-    webUrl: "https://nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/"
-    ampWebUrl: "https://nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/13/liz-cheney-willing-to-do-whatever-it-takes-to-prevent-2024-trump-win/amp/"
+  - title: "Trump leaves Florida for summer in New Jersey after Mother’s Day brunch: report"
+    excerpt: "Former President Donald Trump spent Mother’s Day having brunch with wife Melania and son Barron, before jetting out to spend the summer in New Jersey, according to a report."
+    publishedDateTime: 2021-05-10T11:38:00Z
+    webUrl: "https://nypost.com/2021/05/10/trump-reportedly-leaves-florida-for-summer-in-new-jersey/"
+    ampWebUrl: "https://nypost.com/2021/05/10/trump-reportedly-leaves-florida-for-summer-in-new-jersey/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/10/trump-reportedly-leaves-florida-for-summer-in-new-jersey/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 134
+    quality: 131
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/liz-cheney-1.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/donald-trump-bedminister-golf-30-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Liz Cheney: \"I Do Regret\" Voting For Donald Trump"
-    excerpt: "During an interview that aired Sunday on ABC's \"This Week,\" former House GOP conference chair Liz Cheney reflected on casting a vote for President Donald Trump in 2020. \"How could you not regret that vote,"
-    publishedDateTime: 2021-05-16T14:58:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.html#!"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.amp.html"
+  - title: "Trump Administration Officials Defend Security Response to Jan. 6 Capitol Riot"
+    excerpt: "Former acting defense secretary tells congressional panel that the military’s response was proper when the pro-Trump mob sought to prevent Congress from certifying President Biden’s election."
+    publishedDateTime: 2021-05-12T17:34:00Z
+    webUrl: "https://www.wsj.com/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
     images:
-      - url: "https://assets.realclear.com/images/54/543376.jpg"
-        width: 750
-        height: 562
-        isCached: true
-  - title: "Liz Cheney: Trump Can't Be Ignored, His Rhetoric Continues To Be \"An Ongoing Danger\""
-    excerpt: "Former GOP conference chair Rep. Liz Cheney responds to being ousted of her position, and speaks out against her successor Elise Stefanik. \"Fox News Sunday\" host Chris Wallace asked Cheney why she can't move on from criticizing the former president: REP."
-    publishedDateTime: 2021-05-16T17:20:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_trump_cant_be_ignored_because_he_continues_to_be_a_real_danger.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 58
-    images:
-      - url: "https://assets.realclear.com/images/54/543393.jpg"
-        width: 750
-        height: 562
-        isCached: true
-  - title: "Hemingway: Liz Cheney Seems Obsessed With Donald Trump, Didn't Mind When Democrats Questioned 2016"
-    excerpt: "\"The Federalist\" senior editor Mollie Hemingway responded to Rep. Liz Cheney's heated interview on Thursday's 'Special Report' panel on FOX News Channel. MOLLIE HEMINGWAY: Liz Cheney seems obsessed with Donald Trump."
-    publishedDateTime: 2021-05-14T11:21:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/14/hemingway_liz_cheney_seems_obsessed_with_donald_trump.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 51
-    images:
-      - url: "https://assets.realclear.com/images/51/512059.jpg"
-        width: 922
-        height: 690
+      - url: "https://images.wsj.net/im-337338?width=620&size=1.5"
+        width: 620
+        height: 413
         isCached: true
 
-secured: "PGRCrQh/fw6d+bbzcuftr/Itj2pMhKMVG3stW1tYeJXKAH7TqUZiWTK8cceLHxao4iIfRwYzT/tAPNAefaty7GKU4XNVnO5wgJUlkXitII2ShoQqe2S0MbmSp88/lpc6CeSb1By0B8E+EQxWawFwF8Ly/skfEONKahWaN/PwgBc4l2ZYSBjz2wttHg05bGevB6h8dOhj7YS6gpjOr8EhT0/jOrh1HCw5d5j5Sfl6bPtRkIPyQZzviLW/5GfoQiARap3r6F9VWli+3MbVb6aZ5Zb6dce7ZxGGOiq8qXjsW0OCvYH53kgVicP4KXF81vqbeiDZmmGq8GtCbCAkhauZmHYC4v4RaKGgbmU7sGjev/4=;132TBqiQCHQ1Y74Lo2b/Hw=="
+secured: "bdO2xKXyd5rMQOoa3kFaISoNuvEbQgkv4wBtNPnaas1Fgo6iR/O3WQYXzblSI7/2HvWv/N9Hg67hQDd4DwhiY6roRGErpO8cE5XjztiYrL6rgFHCZMyMyFK+vx3KToTO1Ih8W6jySwxWF1gh+W4//zGXs1fH22ghQHTuo2cQyOLpqV5b3XIuhyNA9iSSvT+Q2Y14pogFFW9CQecYWVerJCDctlWX93yoXy7ZmyraPMceVo/ei8ctzTTRo1wOwkUbRkMO3C3lfPsB30uhb6HaoeX8CEEEL46BbzSdWy7rVYY8AAXwRBQNDifJ8oeKZDLC37dtYTE3RLRMMkDhm9oe5fIrB5g2GkiV2CFsP9M9uO4=;s5UNop3yc5Y7MikYsIPEcQ=="
 ---
 

@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Biden cancels Trump's planned 'Garden of American Heroes'"
-excerpt: "President Joe Biden on Friday put the kibosh on his predecessor's planned “National Garden of American Heroes\" and revoked former President Donald Trump's executiv"
-publishedDateTime: 2021-05-14T20:30:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/biden-cancels-trumps-planned-garden-american-heroes-77698530"
-webUrl: "https://abcnews.go.com/Business/wireStory/biden-cancels-trumps-planned-garden-american-heroes-77698530"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-cancels-trumps-planned-garden-american-heroes-77698530"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-cancels-trumps-planned-garden-american-heroes-77698530"
+title: "Biden Cancels Trump's Planned ‘Garden of American Heroes'"
+excerpt: "President Joe Biden on Friday put the kibosh on his predecessor's planned “National Garden of American Heroes\" and revoked former President Donald Trump's executive orders aimed at social media companies' moderation policies and branding American foreign aid."
+publishedDateTime: 2021-05-15T01:34:00Z
+originalUrl: "https://www.nbcnewyork.com/news/national-international/biden-cancels-trumps-planned-garden-of-american-heroes/3056910/?amp"
+webUrl: "https://www.nbcnewyork.com/news/national-international/biden-cancels-trumps-planned-garden-of-american-heroes/3056910/?amp"
+ampWebUrl: "https://www.nbcnewyork.com/news/national-international/biden-cancels-trumps-planned-garden-of-american-heroes/3056910/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/biden-cancels-trumps-planned-garden-of-american-heroes/3056910/?amp"
 type: article
-quality: 140
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Entertainment/WireAP_0e706816dc14490bafa73d1df89c2511_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://i1.wp.com/media.nbcnewyork.com/2021/05/AP_21133749714862.jpg?crop=0px%2C57px%2C5856px%2C3294px&quality=85&resize=1200%2C675&strip=all&ssl=1"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -832,6 +828,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "pnlB8q9nlDBTyVsi8FcTWu1FhPEm43XkFS6XfA6eOFxJJDiSy30/VOIK5ru5ejN1CDNys4BxfSE7f+P5o1TJk9sDyUAvPL4Ae/P8Awp5s+DipwbO9Wh8ptaaEBKR3wovOrAEcRjbXYQCZcFWfjLXGT+RGIwuva0I4+n77YEaQluZ81Ey9D845fF4rotijco0giBu/YBgenN0ahPfbhAvaR5XO10qGNW/oN98o+F2lNaYi1VwhHym1aqbBf7IBv9oRl8B0E/O1R9M3i1/Auib1inCJCG5p3LbwlJ6/HHlaC1xW3B8nHDA/m6YNu/8gPJTSm/bsuVWu5nGT9BOJEhGkokrmjv95LacJTrFb07ppcAunpc0KkCvs3CZ+lXWDSXiFH3XMmMXmv8hMWj18ejNqPQE0ylMv0xskyohR8EwlEv4T8NlwHD8yWEwXhk4b0ek/70p0NPGwhWjmW/ZARkDOPMoQW5jtzjz+fiK0amPuHQ4WKlFh2Udf0NtKYXeNVsuQbLyK7O7kUncbzDs4icPOA==;C5ROM/mxaiF3YbdnrUHjnw=="
+secured: "K2awjqV1AihAB4YQANuJO2irQwRxdoWa5KUJVssKnVuDUkCTTc2kBqQbQvfs5xEAfBPRa/1H6tpMKlyGg9wpKhcfj7krL7tb880/0AYuYY//BgLRZhDox/bwdDjSOF/Jk/Hyskip926fTYf1Hg9AXBby932q9QKDX2ovQIOr7UT5ITELNel1pYFelxhqhH8JzAX5s1KMchk3JQ+yGL3eM7TH7qfpnrHNifwH0cllz2gA3HtvDfzOnmLtG7Kb2TXzVFvjKeKcoMRrKGC+3aP+xmnm+hJGInK3EVTHhEmdrua+QQJvfyu0ytEZ6AGM/0EUs4oxkMs/Vm/RACUtsmnpmKqlG8h3zw7016thApFNrEY=;L3amFGiRWSdO0bFczyN6EQ=="
 ---
 

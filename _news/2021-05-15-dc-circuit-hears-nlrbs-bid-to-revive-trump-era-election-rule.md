@@ -79,22 +79,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden cancels Trump's planned 'Garden of American Heroes'"
-    excerpt: "President Joe Biden on Friday put the kibosh on his predecessor's planned “National Garden of American Heroes\" and revoked former President Donald Trump's executiv"
-    publishedDateTime: 2021-05-14T20:30:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-cancels-trumps-planned-garden-american-heroes-77698530"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-cancels-trumps-planned-garden-american-heroes-77698530"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-cancels-trumps-planned-garden-american-heroes-77698530"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_0e706816dc14490bafa73d1df89c2511_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden rescinds Trump-era health insurance requirement for new immigrants"
     excerpt: "U.S. President Joe Biden on Friday revoked a 2019 proclamation by former President Donald Trump that sought to bar the entry of immigrants who could not prove they had health insurance or could cover healthcare costs."
     publishedDateTime: 2021-05-14T22:14:00Z
@@ -652,6 +636,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/McCarthy-ap-er-210512_1620863780906_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden Cancels Trump's Planned ‘Garden of American Heroes'"
+    excerpt: "President Joe Biden on Friday put the kibosh on his predecessor's planned “National Garden of American Heroes\" and revoked former President Donald Trump's executive orders aimed at social media companies' moderation policies and branding American foreign aid."
+    publishedDateTime: 2021-05-15T01:34:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/biden-cancels-trumps-planned-garden-of-american-heroes/3056910/?amp"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/biden-cancels-trumps-planned-garden-of-american-heroes/3056910/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/biden-cancels-trumps-planned-garden-of-american-heroes/3056910/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 90
+    images:
+      - url: "https://i1.wp.com/media.nbcnewyork.com/2021/05/AP_21133749714862.jpg?crop=0px%2C57px%2C5856px%2C3294px&quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
         isCached: true
   - title: "President Joe Biden revokes Trump orders on `heroes garden' and other issues"
     excerpt: "President Joe Biden on Friday revoked a number of his predecessors executive orders including one to create a \"National Garden of American Heroes.\""

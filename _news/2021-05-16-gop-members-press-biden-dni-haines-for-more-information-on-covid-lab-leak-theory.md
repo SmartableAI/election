@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Governors caught flatfooted by Biden's mask reversal"
+    excerpt: ""
+    publishedDateTime: 2021-05-16T21:50:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qPFN9Qb1jGA/governors-caught-flatfooted-by-biden-mask-reversal"
+    ampWebUrl: "https://www.foxnews.com/politics/governors-caught-flatfooted-by-biden-mask-reversal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/governors-caught-flatfooted-by-biden-mask-reversal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
   - title: "Biden admin diverts $2B from COVID, health spending to care for migrant kids"
     excerpt: "The Biden administration has pulled more than $2 billion out of programs authorized by Congress for COVID-19 testing, emergency medical supplies and other health needs — and is spending it on shelter for the 45,000 unaccompanied migrant children that have flooded across the US border this year."
     publishedDateTime: 2021-05-16T01:33:00Z

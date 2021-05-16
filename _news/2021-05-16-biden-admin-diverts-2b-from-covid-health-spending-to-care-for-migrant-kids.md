@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Governors caught flatfooted by Biden's mask reversal"
+    excerpt: ""
+    publishedDateTime: 2021-05-16T21:50:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qPFN9Qb1jGA/governors-caught-flatfooted-by-biden-mask-reversal"
+    ampWebUrl: "https://www.foxnews.com/politics/governors-caught-flatfooted-by-biden-mask-reversal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/governors-caught-flatfooted-by-biden-mask-reversal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
   - title: "GOP members press Biden, DNI Haines for more information on COVID lab leak theory"
     excerpt: "Republican members of the House Intelligence Committee wrote letters to President Biden and Director of National Intelligence Avril Haines demanding information on the origins of COVID-19, saying that they had found evidence to support the theory that the virus originated in the Wuhan Institute of Virology"
     publishedDateTime: 2021-05-16T15:00:50Z
