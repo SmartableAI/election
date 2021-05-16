@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-ele
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp"
 type: article
 quality: 138
-heat: 478
+heat: 498
 published: true
 
 provider:
@@ -284,6 +284,20 @@ related:
       - url: "https://www.boston.com/wp-content/uploads/2021/05/UBLKP4K4VV3LQICNN6FQIQUMEE-6099a2931c6e8-850x478.jpg"
         width: 850
         height: 478
+        isCached: true
+  - title: "President Joe Biden gives update on Covid-19 at White House"
+    excerpt: "President Joe Biden gives remarks on the new Covid-19 Centers for Disease Control mask guidelines in the Rose Garden, at the White House in Washington, DC on Thursday, May 13, 2021. Fully vaccinated people no longer need to wear a face mask or stay six feet away from others in most settings,"
+    publishedDateTime: 2021-05-16T07:10:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/a92457e125b0d8c914c46b62f5bded8c/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/a92457e125b0d8c914c46b62f5bded8c/BIDEN-COVID.jpg"
+        width: 650
+        height: 408
         isCached: true
 
 secured: "CTSfx1TXGA7TDL1hqnb9kfc3LmJrSarV6b/yj/FspZ4z5rpoGYtmR50KcNXL3LYMCGl7c5lEWqB7g2saFPKYHuMZD4IW7Mum130PZ2QT0qyBfWWCcqXoEdUj6szBXy5t233svrJaWhLwRYYTY8M70SpFcmfNZRUEwmCx9WotnmIGdGChM7XupxTBqhenB5EMRxl2nV9YEU2B+Xv21TDcsL1r6oGF1xISiaVvP+ErFK4Tr9NFrNaVPBMICcqS4FwAwF1Lp3Nc3STlSnigojo9MXGe8qRjDJEpslrB6Hu+Cj6hubi8iJbdB54yt4Qyv/D0bv9Mf2IRIOmR8oG8KtMFQXfBKdVHm/tFOwb1MX/BmxI=;NvM+NMubmfxEM6QIzfu7UQ=="

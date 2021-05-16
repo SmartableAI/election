@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Jill Biden offers encouragement to 'strong and resilient' moms after a 'challenging' year"
-excerpt: "First lady Jill Biden honored the role \"strong and resilient\" mothers play in taking care of their families after a \"challenging\" year of COVID-19."
-publishedDateTime: 2021-05-09T15:24:00Z
-originalUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/05/09/mothers-day-jill-biden-honors-moms-after-difficult-year/5013390001/"
-webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/05/09/mothers-day-jill-biden-honors-moms-after-difficult-year/5013390001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5013390001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5013390001"
+title: "President Joe Biden gives update on Covid-19 at White House"
+excerpt: "President Joe Biden gives remarks on the new Covid-19 Centers for Disease Control mask guidelines in the Rose Garden, at the White House in Washington, DC on Thursday, May 13, 2021. Fully vaccinated people no longer need to wear a face mask or stay six feet away from others in most settings,"
+publishedDateTime: 2021-05-16T07:10:00Z
+originalUrl: "https://www.upi.com/News_Photos/view/upi/a92457e125b0d8c914c46b62f5bded8c/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/a92457e125b0d8c914c46b62f5bded8c/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
 type: article
-quality: 116
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/04/23/USAT/599ffb1d-e4c0-4d02-aaab-ce73404b92ef-DrB_long.jpg?auto=webp&crop=2024,1139,x795,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://cdnph.upi.com/pv/upi/a92457e125b0d8c914c46b62f5bded8c/BIDEN-COVID.jpg"
+    width: 650
+    height: 408
     isCached: true
 
 related:
@@ -126,6 +120,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VBILSRBUCAI6XFUZADJRD4J5FU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Jill Biden offers encouragement to 'strong and resilient' moms after a 'challenging' year"
+    excerpt: "First lady Jill Biden honored the role \"strong and resilient\" mothers play in taking care of their families after a \"challenging\" year of COVID-19."
+    publishedDateTime: 2021-05-09T15:24:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/05/09/mothers-day-jill-biden-honors-moms-after-difficult-year/5013390001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5013390001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5013390001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/23/USAT/599ffb1d-e4c0-4d02-aaab-ce73404b92ef-DrB_long.jpg?auto=webp&crop=2024,1139,x795,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden is spending a huge amount of time at church so far during his presidency"
     excerpt: "The second Catholic US president has attended church services at least 15 times since his inauguration. Observers say Biden appears at home there."
@@ -285,21 +295,7 @@ related:
         width: 850
         height: 478
         isCached: true
-  - title: "President Joe Biden gives update on Covid-19 at White House"
-    excerpt: "President Joe Biden gives remarks on the new Covid-19 Centers for Disease Control mask guidelines in the Rose Garden, at the White House in Washington, DC on Thursday, May 13, 2021. Fully vaccinated people no longer need to wear a face mask or stay six feet away from others in most settings,"
-    publishedDateTime: 2021-05-16T07:10:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/a92457e125b0d8c914c46b62f5bded8c/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/a92457e125b0d8c914c46b62f5bded8c/BIDEN-COVID.jpg"
-        width: 650
-        height: 408
-        isCached: true
 
-secured: "LaX1w69TKT2At/sIPuXRKs5MQrQRXvKfiCpc5sDHjmSEvhep5NOERpErY+iuazMtOoxdcvNYDlBhl0r2s2lEy2VrXv5XZJl3hAw0F+b609CHg7UMV8PY6minSXj+Z6spdbB+v6fnoCc4sZrMK45212ARLGQ098y/GeHN5GWC8fMYmrWBQ6FAEFRnALQxCl1cZyczv6/Hgho2112zlm6R9SAwnLJXIx7OqrLT9wueInvXYEB0uR0bgiogmdx2GTvlcmtXHYJlBEPi7Y2IAWmyt9kzmPrkOuCQalkavCZ8PThehvUFv+iVDYYUUGrukrFT1Arp3HOhcnstjjhgPHZO9RIMPE5GxTOKeOKLMLfCaww=;gKasjcNFCSczs0L9sjnkxg=="
+secured: "a2WBPbjNaPQKhulOPeAhPDaLeHyX9UBb5XmoD3mj5YjFiSeY9cwkTGLCcnFT24fHXbYP5cRkxU6UkFhcmPEbTZwRTWn9gYazvu2aiURA6+U1bFry1P4U20lWmc+InRNrVVPD26BA1p9FZDttawlD7t6rpnhUBfpjpMFKHoCEtehru3F7ujgFalytMjLe3jEuhG0brkQH5n1CQCq4By0/x9L/zKGQ2oH+NirZocmZTNxoYlhA1iJericf2dIzOuHNB1ZD2it74Tgu44gYUrxCMB+FRYvaZ08Zar5pqfVdGmWN8vl5mcdXLyrBa7l3+sJ5Yw+qvXajO9wpY/fgQtRW60ClYS2BadkMjvgTs1BFKcQ=;/2UeLLUcu9ghxMIgzDKgEA=="
 ---
 

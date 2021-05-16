@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/department-of-justice-kristen-clark
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins.amp"
 type: article
 quality: 128
-heat: 148
+heat: 168
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b5c045d-f123-483e-bf61-47f1ec138734/82a4dec4-33fd-444e-951d-72ca464a2df4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Joe Exotic begs Biden for pardon as he fears he has prostate cancer: 'Make this right'"
+    excerpt: "Joe Exotic's latest plea for a pardon comes amid a fearful time for the \"Tiger King\" star. Exotic, also known as Joseph Maldonado-Passage, revealed on Facebook on Friday that his prostate-specific antigen (PSA) count \"came back very high for prostate cancer."
+    publishedDateTime: 2021-05-15T18:24:00Z
+    webUrl: "https://www.foxnews.com/entertainment/joe-exotic-president-biden-pardon-prostate-cancer"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 107
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/JoeExotic1.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "bw0fr1EM100jetEPwCOwnQHqXN9fmzF/ZvqJhic4aaScu/POFcV6q7rELDW1u0OjQxTlGrcardY8FOaVMi3BGXaZtDIpo/6eE01bPV19KDnhoq8w18PfQLTV0RwjWswx6RbHY48gguEAo83q4GPsyXe9lYIfl2fk57P5zoLMxCFTl5NWSc0sSesV8Ea8Db1seXLSavrkhqM86LcR9jovq63MZoC2+P7dXInC9K0GXDVPmQbQM1uGxdDq6JGn6OANnL6Xd40BD53N9dc/2T2GcusaeP9GH1JAQM2L+FR7MQsC6qSmLqFlMyAERFQUDHfQPa6aGKelVxrbzQIfZkkYh+urb0y0DyGG2HXIOF79IkHbYY+5h4AklUlMlyEk4wRhjE6q/S0S/2OE48xOezSjNGp2WJdF1m1VvwztnqC1AJsYjxFrrVjXBjlC7jylQwhfmSe/mdXU+/J01bujEHex25hQpntWckURhgjAej42eQ4ALj8Kr/uVWQHyp3C/ftgmUt8s5EstgBjceCzwlJIfKA==;zZbSF/jcONyiYpaChVNiVw=="
