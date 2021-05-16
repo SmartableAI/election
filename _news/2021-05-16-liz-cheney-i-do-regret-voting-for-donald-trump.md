@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Hemingway: Liz Cheney Seems Obsessed With Donald Trump, Didn't Mind When Democrats Questioned 2016"
-excerpt: "\"The Federalist\" senior editor Mollie Hemingway responded to Rep. Liz Cheney's heated interview on Thursday's 'Special Report' panel on FOX News Channel. MOLLIE HEMINGWAY: Liz Cheney seems obsessed with Donald Trump."
-publishedDateTime: 2021-05-14T11:21:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/05/14/hemingway_liz_cheney_seems_obsessed_with_donald_trump.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/05/14/hemingway_liz_cheney_seems_obsessed_with_donald_trump.html#!"
+title: "Liz Cheney: \"I Do Regret\" Voting For Donald Trump"
+excerpt: "During an interview that aired Sunday on ABC's \"This Week,\" former House GOP conference chair Liz Cheney reflected on casting a vote for President Donald Trump in 2020. \"How could you not regret that vote,"
+publishedDateTime: 2021-05-16T14:58:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.html#!"
+ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.amp.html"
 type: article
-quality: 51
+quality: 85
 heat: -1
 published: false
 
@@ -20,9 +22,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/51/512059.jpg"
-    width: 922
-    height: 690
+  - url: "https://assets.realclear.com/images/54/543376.jpg"
+    width: 750
+    height: 562
     isCached: true
 
 related:
@@ -74,23 +76,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Liz Cheney: \"I Do Regret\" Voting For Donald Trump"
-    excerpt: "During an interview that aired Sunday on ABC's \"This Week,\" former House GOP conference chair Liz Cheney reflected on casting a vote for President Donald Trump in 2020. \"How could you not regret that vote,"
-    publishedDateTime: 2021-05-16T14:58:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.html#!"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.amp.html"
+  - title: "Hemingway: Liz Cheney Seems Obsessed With Donald Trump, Didn't Mind When Democrats Questioned 2016"
+    excerpt: "\"The Federalist\" senior editor Mollie Hemingway responded to Rep. Liz Cheney's heated interview on Thursday's 'Special Report' panel on FOX News Channel. MOLLIE HEMINGWAY: Liz Cheney seems obsessed with Donald Trump."
+    publishedDateTime: 2021-05-14T11:21:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/14/hemingway_liz_cheney_seems_obsessed_with_donald_trump.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 85
+    quality: 51
     images:
-      - url: "https://assets.realclear.com/images/54/543376.jpg"
-        width: 750
-        height: 562
+      - url: "https://assets.realclear.com/images/51/512059.jpg"
+        width: 922
+        height: 690
         isCached: true
 
-secured: "/BPGGddq5I05Gq6MRF/JC06RtnW34aQwxCVT+9wCfNeTOtxeSCHXwJoh7GSgt+eFs2UzxfNUGf3HZvXpvaRPBu6T8Br2CE0oSME4myzOaDRdg9UuocgmyV2R4CHTA4eoHw8XoizYFv5y63QtcjL+7zvoO57pT6ugvzx82Xe4Fg4h9JGabfocaNCS1ciArvZSZCWFhoBohOlaH9sPamkKaZI6huHbpiFIXlDFDxCdLlJYxSpZIqu/XN43JHgw7YUkl304nWKQEZTTdwoKkIzocS6MdLkTzkCqdLLOC+1pyUtDVvHDHAtNkYVwNQWwpdmHskRrfsHIac/j5iYYSFRgyUy6j9cA2Xu5PDHJ9Fk7+3Qv4Nbut8QTEDhzGlbkoVFLvWXCQqjdb6Ufnhprys4mLUTPbq5RIOwrohV77TcsQz/tCOuvx9/UQArgpH6NbWdiv6zV4OdT5YTmEduftxJ14x6SMRgw9Cp6VoXtQOqomyfSKFKNPrHoi//MT1S8TluBlS1AEtUZwArHhqgYXJLKjQ==;KNSPeYLY6dEXBn3jhXrVPQ=="
+secured: "kPMVv4xKlg2EY8hppfB+Xs6gXMazZ3ofrY/+opHHuX2s070OP4SBz1Nx0Um56Avccj0NaUSLcbvaw45SzLtRJ00iCE6UKtxnFR7652JFD6y6Isr4gmLfZbtYHNoIyW90YOnOTwwwy1dvNMWF4kOOGaKLO1trbyFgLUZwhu9eFeVKXVaphngdB+s1kt+vhOSOR+AaNp/wYtPe8/QvLftlej6NX6aAwg0hi6eAjQBytrjohYDjsAMbjbNiAdg4vsgBcEZJYFzhjLfgv022Smvq5sbi3WaV8bghjuhv8AgeHddyFTcKtvU8YKzNWT5YfgUtt9zpJNKHjaz27cD7yx/LGduU2lYXwp8Tkxj6oAQTQ+8=;9WOndJNkFY0MXPFXo0zWUA=="
 ---
 

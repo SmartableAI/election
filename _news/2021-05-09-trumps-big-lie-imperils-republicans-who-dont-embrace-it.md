@@ -352,6 +352,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump claims Arizona election database deleted, Republican calls him ‘unhinged’"
+    excerpt: "The Republican who now leads the Arizona county elections department targeted by a GOP audit of the 2020 election results is slamming former President Donald Trump and others in his party for their continued falsehoods about how the election was run."
+    publishedDateTime: 2021-05-16T14:32:00Z
+    webUrl: "https://www.al.com/news/2021/05/trump-claims-arizona-election-database-deleted-republican-calls-him-unhinged.html"
+    ampWebUrl: "https://www.al.com/news/2021/05/trump-claims-arizona-election-database-deleted-republican-calls-him-unhinged.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/05/trump-claims-arizona-election-database-deleted-republican-calls-him-unhinged.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 86
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3CQ6DDP24FCD7CZ7DDXD3CCXRQ.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "GOP purged Cheney for 'unity,' but Trump bent on retribution"
     excerpt: "Republican leaders insisted that purging Trump critic Rep. Liz Cheney from their ranks was necessary to unify the party ahead of next year’s midterm elections. But former President Donald Trump, who celebrated Cheney's ouster by calling her a “bitter,"
     publishedDateTime: 2021-05-13T03:21:00Z

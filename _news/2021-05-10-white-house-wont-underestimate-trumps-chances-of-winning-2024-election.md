@@ -340,6 +340,22 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "Trump claims Arizona election database deleted, Republican calls him ‘unhinged’"
+    excerpt: "The Republican who now leads the Arizona county elections department targeted by a GOP audit of the 2020 election results is slamming former President Donald Trump and others in his party for their continued falsehoods about how the election was run."
+    publishedDateTime: 2021-05-16T14:32:00Z
+    webUrl: "https://www.al.com/news/2021/05/trump-claims-arizona-election-database-deleted-republican-calls-him-unhinged.html"
+    ampWebUrl: "https://www.al.com/news/2021/05/trump-claims-arizona-election-database-deleted-republican-calls-him-unhinged.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/05/trump-claims-arizona-election-database-deleted-republican-calls-him-unhinged.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 86
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3CQ6DDP24FCD7CZ7DDXD3CCXRQ.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump's 'Big Lie' imperils Republicans who don't embrace it"
     excerpt: "Trump's discredited allegations about a stolen election did nothing to save his presidency when courtrooms high and low, state governments and ultimately Congress — meeting in the chaos of an insurrection powered by his grievances — affirmed the legitimacy of his defeat and the honesty of the process that led to it."
     publishedDateTime: 2021-05-09T15:38:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/trump-administration-officials-defe
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463"
 type: article
 quality: 131
-heat: -1
-published: false
+heat: 131
+published: true
 
 provider:
   name: Wall Street Journal
@@ -30,40 +30,6 @@ images:
     width: 620
     height: 413
     isCached: true
-
-related:
-  - title: "Former acting Defense Secretary Christopher Miller walks back Trump blame for Jan. 6 riots"
-    excerpt: "Former acting Secretary of Defense Christopher Miller said Tuesday during a hearing on the Jan. 6 riot he’d “reassessed” his previous evaluation that former President Trump’s speech that day had led to his supporters storming the Capitol."
-    publishedDateTime: 2021-05-12T22:10:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FnofpdG39B8/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots"
-    ampWebUrl: "https://www.foxnews.com/politics/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/720/405/gettyimages-Christopher-miller.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Trump leaves Florida for summer in New Jersey after Mother’s Day brunch: report"
-    excerpt: "Former President Donald Trump spent Mother’s Day having brunch with wife Melania and son Barron, before jetting out to spend the summer in New Jersey, according to a report."
-    publishedDateTime: 2021-05-10T11:38:00Z
-    webUrl: "https://nypost.com/2021/05/10/trump-reportedly-leaves-florida-for-summer-in-new-jersey/"
-    ampWebUrl: "https://nypost.com/2021/05/10/trump-reportedly-leaves-florida-for-summer-in-new-jersey/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/10/trump-reportedly-leaves-florida-for-summer-in-new-jersey/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 131
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/donald-trump-bedminister-golf-30-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "s7noOruznK0EFcj3bVxnoihIOFXnMG6aT4U1Pc+2M0ZD4oNPk91l4zaw0rHMbxJjMYC54g49fkaPQ0vRwpL9g8dE5mmT3O06fVMk/EDU3oCUFfF9hVuVDrXuUkHCkSudMbY1zt1FjBt7Kxej8+tCouQ3UhtNxoz0uacQTnHEssxgnFo9Eezh1vWibQyDNTHaTIvB/dEoozpXsIN/XkDMnDsMpJcewwQjf6RBjv6MT+PtO6DRVa/dxlsDBLjkyIq58dJDJnPzT+7hkgfI55Hzm6p1e10itoVhW5glGBlJcjbuud13+JWAnIPrbJi3qHHQaV2S4+ZlRT3uP4z+L1HkQ5sIcazlyVPsHhyqoSeB4hifh7roC2sf3hFF4eVBKvS/jcQrw+XAMo2moSz/sfBtqHT5lVUxYKR8o82PR8/9ffUDxWmWcqW9n4t6Eqr8ShqlRsYApg6DsGx0hpUl96LWT6TsoEFQpwv3msakbVfBJLTWvGSWdeOde9JEckElaV8BHZdGdOua2FGpmhaeCOyfhA==;Kqo4TXHakm6ChBwAMbGusg=="
 ---

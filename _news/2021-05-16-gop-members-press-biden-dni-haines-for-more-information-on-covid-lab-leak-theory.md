@@ -1,0 +1,69 @@
+---
+category: news
+title: "GOP members press Biden, DNI Haines for more information on COVID lab leak theory"
+excerpt: "Republican members of the House Intelligence Committee wrote letters to President Biden and Director of National Intelligence Avril Haines demanding information on the origins of COVID-19, saying that they had found evidence to support the theory that the virus originated in the Wuhan Institute of Virology"
+publishedDateTime: 2021-05-16T15:00:50Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QRnG6lo9gVQ/gop-members-biden-dni-haines-covid-lab-leak-theory"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QRnG6lo9gVQ/gop-members-biden-dni-haines-covid-lab-leak-theory"
+ampWebUrl: "https://www.foxnews.com/politics/gop-members-biden-dni-haines-covid-lab-leak-theory.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-members-biden-dni-haines-covid-lab-leak-theory.amp"
+type: article
+quality: 170
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44919587-fb9b-4ac6-bc2e-5df4f98f6096/42b88031-ace0-4d84-870e-1d4208526939/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
+    isCached: true
+
+related:
+  - title: "Biden’s COVID-19 ‘rule’ tweet panned on social media"
+    excerpt: "President Biden received backlash on social media Thursday over a tweet that some users saw as a thinly veiled ultimatum when it comes to receiving a COVID-19 jab."
+    publishedDateTime: 2021-05-14T06:57:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qlt2vwp_-aU/bidens-covid-19-rule-tweet-panned-on-social-media"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-covid-19-rule-tweet-panned-on-social-media.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-covid-19-rule-tweet-panned-on-social-media.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden admin diverts $2B from COVID, health spending to care for migrant kids"
+    excerpt: "The Biden administration has pulled more than $2 billion out of programs authorized by Congress for COVID-19 testing, emergency medical supplies and other health needs — and is spending it on shelter for the 45,000 unaccompanied migrant children that have flooded across the US border this year."
+    publishedDateTime: 2021-05-16T01:33:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-RnHdXpNb5A/biden-admin-diverts-2b-from-covid-health-spending-to-care-for-migrant-kids"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-diverts-2b-from-covid-health-spending-to-care-for-migrant-kids.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-diverts-2b-from-covid-health-spending-to-care-for-migrant-kids.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/Biden-Beccara-Border.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+
+secured: "0sqCeNOmQ+btsXceOpHxEzPa152a5DgLhu+qGbO2pR2DtBnM+WS+Qk2uCpHiirKruqRfFKxHkmBQnE2yHtmip+Gj5kmfygnImyqWTyj/TWxgowlv349h27lV73k2qy/x5I6zE2zzJp57f8bW3xUifdeFioBKpgoF0zwyhVq9GUVWQ2ciglJFT02ZHtXpoVEeynRcR2ucib75tXfoBKe6LWvvhu4hyYV1fOa7P6ym3DuK4DQg716r6W6yoIFKD+d4+C2cA6WP9uOjZzYvnTa5fHu5HnxbcOFd8qfPO6qTBb0zyVwm6I50lXBUsWWpIBVqDkJ/sqvw0FVwblbEnc5dOZKeswG4sDltSEsOdEVrYp0=;z4DorKwTGb91+oetOGxNqA=="
+---
+

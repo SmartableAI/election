@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-covid-19-rule-tweet-panned-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-covid-19-rule-tweet-panned-on-social-media.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/Biden-Beccara-Border.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "GOP members press Biden, DNI Haines for more information on COVID lab leak theory"
+    excerpt: "Republican members of the House Intelligence Committee wrote letters to President Biden and Director of National Intelligence Avril Haines demanding information on the origins of COVID-19, saying that they had found evidence to support the theory that the virus originated in the Wuhan Institute of Virology"
+    publishedDateTime: 2021-05-16T15:00:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QRnG6lo9gVQ/gop-members-biden-dni-haines-covid-lab-leak-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-members-biden-dni-haines-covid-lab-leak-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-members-biden-dni-haines-covid-lab-leak-theory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44919587-fb9b-4ac6-bc2e-5df4f98f6096/42b88031-ace0-4d84-870e-1d4208526939/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

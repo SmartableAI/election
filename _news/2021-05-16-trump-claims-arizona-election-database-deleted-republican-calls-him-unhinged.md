@@ -1,29 +1,29 @@
 ---
 category: news
-title: "GOP purged Cheney for 'unity,' but Trump bent on retribution"
-excerpt: "Republican leaders insisted that purging Trump critic Rep. Liz Cheney from their ranks was necessary to unify the party ahead of next year’s midterm elections. But former President Donald Trump, who celebrated Cheney's ouster by calling her a “bitter,"
-publishedDateTime: 2021-05-13T03:21:00Z
-originalUrl: "https://www.chron.com/news/article/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
-webUrl: "https://www.chron.com/news/article/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
-ampWebUrl: "https://www.chron.com/news/amp/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
+title: "Trump claims Arizona election database deleted, Republican calls him ‘unhinged’"
+excerpt: "The Republican who now leads the Arizona county elections department targeted by a GOP audit of the 2020 election results is slamming former President Donald Trump and others in his party for their continued falsehoods about how the election was run."
+publishedDateTime: 2021-05-16T14:32:00Z
+originalUrl: "https://www.al.com/news/2021/05/trump-claims-arizona-election-database-deleted-republican-calls-him-unhinged.html"
+webUrl: "https://www.al.com/news/2021/05/trump-claims-arizona-election-database-deleted-republican-calls-him-unhinged.html"
+ampWebUrl: "https://www.al.com/news/2021/05/trump-claims-arizona-election-database-deleted-republican-calls-him-unhinged.html?outputType=amp"
+cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/05/trump-claims-arizona-election-database-deleted-republican-calls-him-unhinged.html?outputType=amp"
 type: article
-quality: 75
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: al.com
+  domain: al.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3CQ6DDP24FCD7CZ7DDXD3CCXRQ.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -352,28 +352,28 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Trump claims Arizona election database deleted, Republican calls him ‘unhinged’"
-    excerpt: "The Republican who now leads the Arizona county elections department targeted by a GOP audit of the 2020 election results is slamming former President Donald Trump and others in his party for their continued falsehoods about how the election was run."
-    publishedDateTime: 2021-05-16T14:32:00Z
-    webUrl: "https://www.al.com/news/2021/05/trump-claims-arizona-election-database-deleted-republican-calls-him-unhinged.html"
-    ampWebUrl: "https://www.al.com/news/2021/05/trump-claims-arizona-election-database-deleted-republican-calls-him-unhinged.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/05/trump-claims-arizona-election-database-deleted-republican-calls-him-unhinged.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 86
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3CQ6DDP24FCD7CZ7DDXD3CCXRQ.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Trump's 'Big Lie' imperils Republicans who don't embrace it"
     excerpt: "Trump's discredited allegations about a stolen election did nothing to save his presidency when courtrooms high and low, state governments and ultimately Congress — meeting in the chaos of an insurrection powered by his grievances — affirmed the legitimacy of his defeat and the honesty of the process that led to it."
     publishedDateTime: 2021-05-09T15:38:00Z
     webUrl: "https://www.chron.com/news/article/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
     ampWebUrl: "https://www.chron.com/news/amp/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "GOP purged Cheney for 'unity,' but Trump bent on retribution"
+    excerpt: "Republican leaders insisted that purging Trump critic Rep. Liz Cheney from their ranks was necessary to unify the party ahead of next year’s midterm elections. But former President Donald Trump, who celebrated Cheney's ouster by calling her a “bitter,"
+    publishedDateTime: 2021-05-13T03:21:00Z
+    webUrl: "https://www.chron.com/news/article/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
+    ampWebUrl: "https://www.chron.com/news/amp/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
     type: article
     provider:
       name: Houston Chronicle
@@ -467,6 +467,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "zO2L4uNpNH3PeTpuBu0WDPQdYRkUuKvI4IvrT/e2WshWmFljvl6GaoPy47C4vY0L/xLN+0GIRkCdjCgfpJb2PZfcPCEmlZc6PmH3eVQ75mRiw25VBl/cXwvAk6FazKptfy0MNireCXPQymHov3C36pEwoFmKgtap2WWZ9HWgEwmQs0xF+88znoiyPKGazv+usVFiYa1z3jF/SZGTIrt0vc4JKmb3ksclUFW0NS+qPm32RdG7YO8Vtmtem3T+rklUHSM1c+lP6coHkaSmkFbtM0gwyolw+6pwJN4WKaF2yZNG4ACDd5SPVsPiHeaA6ZjgkSaM9o3DcujbFqrmlKneLXDOylNkCz5B/Kscowu/H3A=;VB4EUfAv8xcqFJpDbyR9NA=="
+secured: "WdGbKWbkuORU5Xry0KTxca2kaC/SODiuO8rlW2F3kici07blMD4dqDyb3zhipyjOaCTE69oQaKzARTlxVSiQLSdR3xhqfTirNBHhs1C1dAmlUs7dGjZRDXVWinsxwVww7HwpWojIG0yniQB5ZfvDun6x4p3sY5T440hHpYmetd97juHbNogxJRmBI1fPqHMwY0uV3QrdT3zAJIg0eVfv1cpKtwWXLxJFUhysSaPtnO1Y+aZssU7LID65s2V2LrP/ft4ZbwwvRfNgxJNZbYcQZGYAgGId4nkziQ6bmgPyfUXsHEvVZJDIfHwmJm234kVM+1Z8QKe7tszoA7P+89wfJClwVBWLlqP304yI5NA3f2M=;VLycvVI9qDzD9DesjPVpEg=="
 ---
 
