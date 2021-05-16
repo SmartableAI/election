@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Liz Cheney: \"I Do Regret\" Voting For Donald Trump"
-excerpt: "During an interview that aired Sunday on ABC's \"This Week,\" former House GOP conference chair Liz Cheney reflected on casting a vote for President Donald Trump in 2020. \"How could you not regret that vote,"
-publishedDateTime: 2021-05-16T14:58:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.html#!"
-ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.amp.html"
-cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.amp.html"
+title: "Liz Cheney: Trump Can't Be Ignored, His Rhetoric Continues To Be \"An Ongoing Danger\""
+excerpt: "Former GOP conference chair Rep. Liz Cheney responds to being ousted of her position, and speaks out against her successor Elise Stefanik. \"Fox News Sunday\" host Chris Wallace asked Cheney why she can't move on from criticizing the former president: REP."
+publishedDateTime: 2021-05-16T17:20:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_trump_cant_be_ignored_because_he_continues_to_be_a_real_danger.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_trump_cant_be_ignored_because_he_continues_to_be_a_real_danger.html#!"
 type: article
-quality: 85
+quality: 58
 heat: -1
 published: false
 
@@ -22,7 +20,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/54/543376.jpg"
+  - url: "https://assets.realclear.com/images/54/543393.jpg"
     width: 750
     height: 562
     isCached: true
@@ -76,17 +74,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Liz Cheney: Trump Can't Be Ignored, His Rhetoric Continues To Be \"An Ongoing Danger\""
-    excerpt: "Former GOP conference chair Rep. Liz Cheney responds to being ousted of her position, and speaks out against her successor Elise Stefanik. \"Fox News Sunday\" host Chris Wallace asked Cheney why she can't move on from criticizing the former president: REP."
-    publishedDateTime: 2021-05-16T17:20:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_trump_cant_be_ignored_because_he_continues_to_be_a_real_danger.html#!"
+  - title: "Liz Cheney: \"I Do Regret\" Voting For Donald Trump"
+    excerpt: "During an interview that aired Sunday on ABC's \"This Week,\" former House GOP conference chair Liz Cheney reflected on casting a vote for President Donald Trump in 2020. \"How could you not regret that vote,"
+    publishedDateTime: 2021-05-16T14:58:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 58
+    quality: 85
     images:
-      - url: "https://assets.realclear.com/images/54/543393.jpg"
+      - url: "https://assets.realclear.com/images/54/543376.jpg"
         width: 750
         height: 562
         isCached: true
@@ -105,6 +105,6 @@ related:
         height: 690
         isCached: true
 
-secured: "iGd6ZpRZjDkAJ4aCvpOEqNMcVS3KFse2mW93nimNY/eWD++SSyFUEC3OSCJEOFP5EIserYbDVpc9mvBpjUp9QZS6aV21RKpl/Q9Ejg1+GlmTjoUAjID4jlBewzgNJLDdxhb8sh4fIjA7DIwhyLe4NvV/FTFMzcuxbmRr6o6NtD7GiH8a5qs/ujmqK3iUe/dG8HY4snadt+V/9J1vp/qBjoBdNZxujmHdKKW1m5AlK7q+W++u4JUxDlGRkexuBfhiqZ8rLGUlyt5yyy4xGXXiXFQ78AHMggEe+5NvJ2mgZ0lMVJGpnNfFN48hGyPEEqmTnJzoDYE8a6QKFA+2lDhsqLHlQNDbVmDPNRJUEmdxHLvSdKRICAqQSJStMbRB9JH4Qz9wUSWMUkM2Glr+oiczEGXPeK435JNRy0o4suMS60NpfNrHKgX6M2sqbKdCsrGZp5GsusAXXXeBhynvo7T/UIvSyNKHtnk/Ao+9jToYHSCq+Qo/SzKHU2XZPxQoihlcHOhI/lf1mlxllqdiLce4/Q==;MdxJN8QeIRwr7BAftY3Rtg=="
+secured: "agUkfnL0bn5djUcpAyVdjQfkRkiW8p3CqPEwSsdlGmknMWB+CbdJ3XIceM3VOBFbW+Qq4Y7NMdhD8tsD9ibPgKeHXlwwpSpz+s5F3Ai7LBhi7/MPVUAWC1+f63jeuqNr30uprqR9rNAJ8cgdcvtAQ72d8YMkDXpnBpd+q+B6kmIrns/uMvBW2kJNXd8sYJXoffPWcvV02VkyhQPtcCNK0fNS+LSJJ6tzGkHphADxX5Mo2PPPnB40ZJjqemzoP46LObUfEbA6Zjjjmjnh4BQP1qRGs4ABYW7ShZbAEogiW9aiOSCYuGoxWgi+VZ4bD3ORGjFjNhYnUPqBP5M+JOeREc8JkQklzc8KM566mrTjy8Y=;WPvahXGmLZHJinH4z1FTyg=="
 ---
 

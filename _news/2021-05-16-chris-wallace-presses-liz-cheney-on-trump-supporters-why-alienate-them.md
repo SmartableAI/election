@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/chris-wallace-liz-cheney-trump-supp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-wallace-liz-cheney-trump-supporters.amp"
 type: article
 quality: 173
-heat: 253
+heat: 273
 published: true
 
 provider:
@@ -79,6 +79,20 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Liz Cheney: Trump Can't Be Ignored, His Rhetoric Continues To Be \"An Ongoing Danger\""
+    excerpt: "Former GOP conference chair Rep. Liz Cheney responds to being ousted of her position, and speaks out against her successor Elise Stefanik. \"Fox News Sunday\" host Chris Wallace asked Cheney why she can't move on from criticizing the former president: REP."
+    publishedDateTime: 2021-05-16T17:20:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_trump_cant_be_ignored_because_he_continues_to_be_a_real_danger.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 58
+    images:
+      - url: "https://assets.realclear.com/images/54/543393.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Hemingway: Liz Cheney Seems Obsessed With Donald Trump, Didn't Mind When Democrats Questioned 2016"
     excerpt: "\"The Federalist\" senior editor Mollie Hemingway responded to Rep. Liz Cheney's heated interview on Thursday's 'Special Report' panel on FOX News Channel. MOLLIE HEMINGWAY: Liz Cheney seems obsessed with Donald Trump."
     publishedDateTime: 2021-05-14T11:21:00Z
@@ -94,6 +108,6 @@ related:
         height: 690
         isCached: true
 
-secured: "ltIraWCBard3XkCGdCr0in1a1qV0jp3CCudfIcVwa8TYicGuDdimD4Wjb5Uvk+hVVjQ1FiTrHlNh/RPOHGKOCUP7cW/DP/g3TX53awySIs5f0IpY3+eYFF5G4VdMoObbfMPE2CVOdCXGWp+rPvbkvfuPA7LNth3J1zWRknhKFVAJSD3p4M0pT21sGgTUzQUVDOkqBriqkCyimsgNc5PCHb1YOjvFiXA5duDeofC6DWrsq8r3ZPjaGY9bvISZAntAnPRpphmMRfmcOotcnAPW73xfSZVB6P5mHOMLQIEkO0Y0Wap5YFEu+hggqCF4mBWmMM1g3b1G55NfpUOKDf6Vx6UmhtTxDhG/LPVttPJJuf4=;0x5Ev2c/A5qoeNY0wS0oZQ=="
+secured: "tdSb2XgqUKJkpmj5qL8TyG8+VC98hkIFae/oXNLrqg1hbF3gQmws3o+lwK9BPEy6unVtUm9ux8OWnWxdYFHQwoqjf2LT+AsdzOeRYK3R9PHGlIWROZ+srwb/YZOGQ+kVA5ZdDu/ND3vZPQvt4aox2q/OwTN+UsOaa+udhCBLNJqrngIfisAcbHYCgv+lVf3oUzM1GaW9QAdzyiD4PQNs8ZNt9FN5HeIYE1SU766xHei1JInptZOLm0xLeBQkh0qjJCokSuRgBjujgfxSogI197+cfhFuyjXTEk1tMnLATWxqOMlNol3WMYj1vJ3tiCDN3zRIqNUSCLy65oUeujwz55sXEpXEBuu9DaWT+SD7GQI=;IZPwnpuPH+6BeKolTjSkdQ=="
 ---
 
