@@ -159,6 +159,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Arizona Republican calls Trump ‘deleted database’ statement ‘unhinged’"
+    excerpt: "Maricopa county recorder calls for end to ‘insane’ election lies but Trump supporters back ongoing, chaotic partisan recount"
+    publishedDateTime: 2021-05-16T11:41:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/73247b63ca2c55778629393e0bbd4538da04c34b/0_75_5127_3076/master/5127.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=782914235850df4359494194dcaf165c"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
     excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
     publishedDateTime: 2021-05-15T20:30:00Z
@@ -299,6 +315,17 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Refugees arriving in US unlikely to exceed cap set by Trump"
+    excerpt: "President Joe Biden faced fierce blowback from fellow Democrats and refugee advocates for considering keeping his predecessor’s record-low cap of 15,000 for admitting refugees this budget year"
+    publishedDateTime: 2021-05-16T10:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/refugees-arriving-in-us-unlikely-to-exceed-cap-set-by-trump/2021/05/16/207d4cfe-b63c-11eb-bc4a-62849cf6cca9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/refugees-arriving-in-us-unlikely-to-exceed-cap-set-by-trump/2021/05/16/207d4cfe-b63c-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/refugees-arriving-in-us-unlikely-to-exceed-cap-set-by-trump/2021/05/16/207d4cfe-b63c-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
   - title: "House GOP elect Trump defender Stefanik as their number three in leadership"
     excerpt: "Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership, electing an ardent Donald Trump defender in hopes of calming their searing civil war over the deposed Rep. Liz Cheney's unremitting combat with the former president."
     publishedDateTime: 2021-05-15T00:07:00Z

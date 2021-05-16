@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says he's 'not supposed to be answering all these questions’ when pressed by reporters"
-    excerpt: "President Biden said during remarks on coronavirus vaccinations that he was not “supposed” to be answering questions."
-    publishedDateTime: 2021-05-12T21:35:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wofl2ehUn40/biden-not-supposed-answering-questions"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-not-supposed-answering-questions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-not-supposed-answering-questions.amp"
+  - title: "Jimmy Carter 2.0: Biden's bundle of crises look increasingly like 1970s"
+    excerpt: "Republican lawmakers and conservative commentators have made multiple comparisons between the Joe Biden and Jimmy Carter administrations."
+    publishedDateTime: 2021-05-16T10:26:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTa_eMcdl78/jimmy-carter-biden-crises-1970s"
+    ampWebUrl: "https://www.foxnews.com/politics/jimmy-carter-biden-crises-1970s.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jimmy-carter-biden-crises-1970s.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff41d935-df1d-41dc-b594-777125163da2/7ff82d33-0633-4dd5-b547-58f186f9d8a0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/198530bb-d185-486d-8857-92461ae5a01f/0013eadb-6808-4e68-a958-67e1f426972c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

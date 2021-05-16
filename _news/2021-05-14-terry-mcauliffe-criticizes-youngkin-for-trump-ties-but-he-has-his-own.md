@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Bet On It. Trump Is Running."
+    excerpt: "President Donald Trump wants to run for president in 2024, and so he shall. The story some Republicans like to tell themselves -- that Trump will not run again for the White House because he knows he can't win and he's smart enough to see the glory in being a GOP kingmaker -- is wishful thinking."
+    publishedDateTime: 2021-05-16T10:18:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/16/bet_on_it_trump_is_running_145756.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/16/bet_on_it_trump_is_running_145756.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/16/bet_on_it_trump_is_running_145756.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/531398_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "VA Gov: McAuliffe Ad Ties GOP Nominee Youngkin To \"Radical\" Trump And Cruz"
     excerpt: "This ad from Democratic Virginia gubernatorial candidate Terry McAuliffe connects GOP nominee Glenn Youngkin to \"extreme Republicans\" like Sen. Ted Cruz and former President Trump. Retweet if you voted to stop Donald Trump in 2020 and you'll vote to stop Glenn Youngkin in 2021."
     publishedDateTime: 2021-05-11T19:01:00Z

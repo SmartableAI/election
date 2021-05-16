@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Loyalty to Trump Catapults Elise Stefanik Into Republican Stardom"
-excerpt: "Stefanik's star could rise higher as Trump now pushes for her to be elected the No. 3 Republican in the House of Representatives, which is set to vote on Wednesday to remove Representative Liz Cheney from that role for rejecting his continued false claims that the 2020 presidential election was marred by widespread fraud."
-publishedDateTime: 2021-05-11T10:10:00Z
-originalUrl: "https://www.usnews.com/news/us/articles/2021-05-11/loyalty-to-trump-catapults-elise-stefanik-into-republican-stardom"
-webUrl: "https://www.usnews.com/news/us/articles/2021-05-11/loyalty-to-trump-catapults-elise-stefanik-into-republican-stardom"
-ampWebUrl: "https://www.usnews.com/news/us/articles/2021-05-11/loyalty-to-trump-catapults-elise-stefanik-into-republican-stardom?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-05-11/loyalty-to-trump-catapults-elise-stefanik-into-republican-stardom?context=amp"
+title: "Arizona Republican calls Trump ‘deleted database’ statement ‘unhinged’"
+excerpt: "Maricopa county recorder calls for end to ‘insane’ election lies but Trump supporters back ongoing, chaotic partisan recount"
+publishedDateTime: 2021-05-16T11:41:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
+webUrl: "https://www.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://i.guim.co.uk/img/media/73247b63ca2c55778629393e0bbd4538da04c34b/0_75_5127_3076/master/5127.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=782914235850df4359494194dcaf165c"
+    width: 600
+    height: 360
+    isCached: true
 
 related:
   - title: "Republican Arizona election official says Trump 'unhinged'"
@@ -152,22 +158,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/jon-karl-liz-cheney-interview-05-abc-jc-210514_1621022394989_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Arizona Republican calls Trump ‘deleted database’ statement ‘unhinged’"
-    excerpt: "Maricopa county recorder calls for end to ‘insane’ election lies but Trump supporters back ongoing, chaotic partisan recount"
-    publishedDateTime: 2021-05-16T11:41:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/73247b63ca2c55778629393e0bbd4538da04c34b/0_75_5127_3076/master/5127.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=782914235850df4359494194dcaf165c"
-        width: 600
-        height: 360
         isCached: true
   - title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
     excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
@@ -407,6 +397,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Loyalty to Trump Catapults Elise Stefanik Into Republican Stardom"
+    excerpt: "Stefanik's star could rise higher as Trump now pushes for her to be elected the No. 3 Republican in the House of Representatives, which is set to vote on Wednesday to remove Representative Liz Cheney from that role for rejecting his continued false claims that the 2020 presidential election was marred by widespread fraud."
+    publishedDateTime: 2021-05-11T10:10:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-05-11/loyalty-to-trump-catapults-elise-stefanik-into-republican-stardom"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-05-11/loyalty-to-trump-catapults-elise-stefanik-into-republican-stardom?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-05-11/loyalty-to-trump-catapults-elise-stefanik-into-republican-stardom?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Republicans Set To Oust Trump Critic Cheney From Leadership"
     excerpt: "Wednesday's vote by House Republicans over ousting anti-Trump conservative Liz Cheney from her leadership role will almost certainly confirm that the party out of power in Washington is casting its lot with the former US president."
     publishedDateTime: 2021-05-12T02:38:00Z
@@ -454,6 +455,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "/0yjMAH+xBwREfFYo766v6pHC2PRrPnpYhktUMhIz+dWB1ya46xtJOEfg67DbFd0Y7xHnb3REOTZut1BkkD67IR9ogbFsDDNwi5iyOKTW+5pRXId3qg4Xxq+p7VloXNo6++y2QqpLPlVMKNrIpaBpmKSL6TrLSSBz8NEfxLi7F3uL8EpJsCzt25AZnPnBy6S7p4wa9aslkkuO/nzcZ50yv9qPXEbGjsOA+kKwTJZJRqpmx+1R8TaVTvq2TOLSLdZQROXbgZ4tH/IgMQDq/ojSbLtngoz9UfI4OMVp+b6/S0N2u1cHHnFI+bzyDcOtX9GQx5mUSWzEqiemh6ZlduWMDJqNqSitc0WZt89xhFY/eFaYNTW/18sHgrYiIXQZSZY4VffJUBaR4z8JXrAs1U+glevUKC+3jgzIweq9f+YiNr7RBxUVdeig2a2brkGgftYJwgmMsWAv1pEP3YVzX3SnHnZJ2hksmCKzM7lN11gjinjBvfUWMEVseFTpv1MUphBxc6PdmxVzzzOtYT4PtufVA==;9Vk0gQ/qEESZ2QJFAzQBYQ=="
+secured: "66yvh/kcsdwbLlItJLm29N2cRpqLQKk5jSdCjx1NSd2l7ZuXzky9BIpzJrXuspJA9FKuw7z52AqX3MAvE5oZTX3dYBWJJBt3UhALA9Ov9HenFk6OjYhqP5joU9KlL/bJJrBCSZk7Nc4/Up8h7Lw6ZZr3cuuKlPOakYCwsOXIij4kzODIiGB/Gn5+LTSH7SDbehfxkOCPusGK3zYqb5D/hGefjAG1kH5g0KQZ4fMPuyjSE2MbXp8Tebb55asZwDdaV9GWjir+iZE4Qxd0SMeNzwA3q25Y/UKa+Pb//6/a5o8vxPN757+a0Qs+C2KYAjly39BaPxjEdjGX77IPI6Nkyz5f0TJrY7xD7dmGXxsyTMU=;zohnWD9t/wNJOflF2wn+mw=="
 ---
 

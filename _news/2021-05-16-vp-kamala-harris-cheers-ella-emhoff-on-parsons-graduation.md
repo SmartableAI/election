@@ -1,32 +1,30 @@
 ---
 category: news
-title: "Arizona AG calls for Harris to be removed from border role amid continued high migrant numbers"
-excerpt: "FIRST ON FOX: Arizona Attorney General Mark Brnovich is calling for Vice President Kamala Harris to be replaced in her role spearheading the administration’s diplomatic efforts to end the crisis at the southern border -- a day after Customs and Border Protection (CBP) announced that the number of migrant"
-publishedDateTime: 2021-05-12T19:19:19Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iuNIU_Tro3Y/arizona-ag-harris-removed-border-role-migrant-numbers"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iuNIU_Tro3Y/arizona-ag-harris-removed-border-role-migrant-numbers"
+title: "VP Kamala Harris cheers Ella Emhoff on Parsons graduation"
+excerpt: "I am so proud of you,” the veep posted over a snap of her with her stepdaughter. “Keep dreaming with ambition and there is nothing you cannot achieve.”"
+publishedDateTime: 2021-05-15T23:55:00Z
+originalUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/"
+webUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/"
+ampWebUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
 type: article
-quality: 153
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-ella-1.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -62,6 +60,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Arizona AG calls for Harris to be removed from border role amid continued high migrant numbers"
+    excerpt: "FIRST ON FOX: Arizona Attorney General Mark Brnovich is calling for Vice President Kamala Harris to be replaced in her role spearheading the administration’s diplomatic efforts to end the crisis at the southern border -- a day after Customs and Border Protection (CBP) announced that the number of migrant"
+    publishedDateTime: 2021-05-12T19:19:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iuNIU_Tro3Y/arizona-ag-harris-removed-border-role-migrant-numbers"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Controversial billboard calls Biden, Harris ‘s–theads’ in Maryland"
     excerpt: "The sign on Route 4 in Huntingtown shows cartoon faces of the smiling commander-in-chief Joe Biden and his number two stuck on top of large emoji-style drawings of poop."
     publishedDateTime: 2021-05-12T14:52:00Z
@@ -79,22 +91,6 @@ related:
         height: 800
         isCached: true
   - title: "VP Kamala Harris cheers Ella Emhoff on her college graduation"
-    excerpt: "I am so proud of you,” the veep posted over a snap of her with her stepdaughter. “Keep dreaming with ambition and there is nothing you cannot achieve.”"
-    publishedDateTime: 2021-05-15T23:55:00Z
-    webUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/"
-    ampWebUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-ella-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "VP Kamala Harris cheers Ella Emhoff on Parsons graduation"
     excerpt: "I am so proud of you,” the veep posted over a snap of her with her stepdaughter. “Keep dreaming with ambition and there is nothing you cannot achieve.”"
     publishedDateTime: 2021-05-15T23:55:00Z
     webUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/"
@@ -157,6 +153,6 @@ related:
         height: 720
         isCached: true
 
-secured: "57bkNJOnS1W2V8+77zo/XSAc9FLOWjkngoXtWYCgFrswBRVYgJTDlzQKjLQjSyEkjJ3d1wYKansdnS6kHAYNvRrX5u91KjFhwr2CW/gx9ku3w7HRboBfCvsC9HSQQOKV5+qflKMh9p5s3PlQoPTK1qXuR+g2ruznoUo7FSsA/DZsdyU2AGdy9ZiN1YnipnHwFwkrjhOa7E3dykKcXR6UQAG4HmxodPvFTGW/oDHkGGBIfNR5jJml5/GV7l1jjV8FUosGzhYDG0yQEWz7RkSPjybG3h1dv8vbj23RBvJYm8v0kSEqkabzl++50v/EOpGXGyWWdeuhy5oSjIwE3pen13SpYFZLnSG1A8ocQFg+57Y=;VAvDBOf+BsTzimJRUoEU7g=="
+secured: "VvT6mWIJBfhI/Ey71X+sUWOsterLufx04yLgZBQlrIeYCco5w/Tusxg2eU0vURUnk8IWOIBKT+tqvsS2gtXfdH1jknOYORYjGHe38WptB2WTtyKYRD2h6AY/DaQhpW3BAEwNcvx02Wc9SeTy2AfIe4dmxoPy2797g0A6+oBvWlCYWfmB57vZZ99ZTXVNvLAgqCw1zbzu8iaTzcx6lnX4k1Spz0qgXMkxMP1h9ls+Nc9cYzs9+PtnNk//26G95VupSvTIGHTWdAG0RSbExMbOZtODqr86XbBiiHzqES1D2VV0bru9lnc79kxaKFQJ5tVt7XksI7guXt94W1WyQX8J4GOY5w9cTAXqfQ0OO+wNPaY=;v4Cp1eoF66oMvbp6DCfLCg=="
 ---
 

@@ -108,6 +108,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "VP Kamala Harris cheers Ella Emhoff on Parsons graduation"
+    excerpt: "I am so proud of you,” the veep posted over a snap of her with her stepdaughter. “Keep dreaming with ambition and there is nothing you cannot achieve.”"
+    publishedDateTime: 2021-05-15T23:55:00Z
+    webUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/"
+    ampWebUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-ella-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Christian minister sues Nancy Pelosi, Kamala Harris over access to Capitol"
     excerpt: "A Christian minister is suing House Speaker Nancy Pelosi, Vice President Kamala Harris, the Capitol Police Board, and the Sergeant of Arms for the Senate — saying he was denied access to"
     publishedDateTime: 2021-03-31T16:51:00Z

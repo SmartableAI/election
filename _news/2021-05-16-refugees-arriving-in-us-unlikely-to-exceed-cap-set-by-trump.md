@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Loyalty to Trump Catapults Elise Stefanik Into Republican Stardom"
-excerpt: "Stefanik's star could rise higher as Trump now pushes for her to be elected the No. 3 Republican in the House of Representatives, which is set to vote on Wednesday to remove Representative Liz Cheney from that role for rejecting his continued false claims that the 2020 presidential election was marred by widespread fraud."
-publishedDateTime: 2021-05-11T10:10:00Z
-originalUrl: "https://www.usnews.com/news/us/articles/2021-05-11/loyalty-to-trump-catapults-elise-stefanik-into-republican-stardom"
-webUrl: "https://www.usnews.com/news/us/articles/2021-05-11/loyalty-to-trump-catapults-elise-stefanik-into-republican-stardom"
-ampWebUrl: "https://www.usnews.com/news/us/articles/2021-05-11/loyalty-to-trump-catapults-elise-stefanik-into-republican-stardom?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-05-11/loyalty-to-trump-catapults-elise-stefanik-into-republican-stardom?context=amp"
+title: "Refugees arriving in US unlikely to exceed cap set by Trump"
+excerpt: "President Joe Biden faced fierce blowback from fellow Democrats and refugee advocates for considering keeping his predecessor’s record-low cap of 15,000 for admitting refugees this budget year"
+publishedDateTime: 2021-05-16T10:44:00Z
+originalUrl: "https://www.washingtonpost.com/politics/refugees-arriving-in-us-unlikely-to-exceed-cap-set-by-trump/2021/05/16/207d4cfe-b63c-11eb-bc4a-62849cf6cca9_story.html"
+webUrl: "https://www.washingtonpost.com/politics/refugees-arriving-in-us-unlikely-to-exceed-cap-set-by-trump/2021/05/16/207d4cfe-b63c-11eb-bc4a-62849cf6cca9_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/refugees-arriving-in-us-unlikely-to-exceed-cap-set-by-trump/2021/05/16/207d4cfe-b63c-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/refugees-arriving-in-us-unlikely-to-exceed-cap-set-by-trump/2021/05/16/207d4cfe-b63c-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -309,17 +309,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "Refugees arriving in US unlikely to exceed cap set by Trump"
-    excerpt: "President Joe Biden faced fierce blowback from fellow Democrats and refugee advocates for considering keeping his predecessor’s record-low cap of 15,000 for admitting refugees this budget year"
-    publishedDateTime: 2021-05-16T10:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/refugees-arriving-in-us-unlikely-to-exceed-cap-set-by-trump/2021/05/16/207d4cfe-b63c-11eb-bc4a-62849cf6cca9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/refugees-arriving-in-us-unlikely-to-exceed-cap-set-by-trump/2021/05/16/207d4cfe-b63c-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/refugees-arriving-in-us-unlikely-to-exceed-cap-set-by-trump/2021/05/16/207d4cfe-b63c-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
   - title: "House GOP elect Trump defender Stefanik as their number three in leadership"
     excerpt: "Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership, electing an ardent Donald Trump defender in hopes of calming their searing civil war over the deposed Rep. Liz Cheney's unremitting combat with the former president."
     publishedDateTime: 2021-05-15T00:07:00Z
@@ -407,6 +396,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Loyalty to Trump Catapults Elise Stefanik Into Republican Stardom"
+    excerpt: "Stefanik's star could rise higher as Trump now pushes for her to be elected the No. 3 Republican in the House of Representatives, which is set to vote on Wednesday to remove Representative Liz Cheney from that role for rejecting his continued false claims that the 2020 presidential election was marred by widespread fraud."
+    publishedDateTime: 2021-05-11T10:10:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-05-11/loyalty-to-trump-catapults-elise-stefanik-into-republican-stardom"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-05-11/loyalty-to-trump-catapults-elise-stefanik-into-republican-stardom?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-05-11/loyalty-to-trump-catapults-elise-stefanik-into-republican-stardom?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Republicans Set To Oust Trump Critic Cheney From Leadership"
     excerpt: "Wednesday's vote by House Republicans over ousting anti-Trump conservative Liz Cheney from her leadership role will almost certainly confirm that the party out of power in Washington is casting its lot with the former US president."
     publishedDateTime: 2021-05-12T02:38:00Z
@@ -454,6 +454,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "/0yjMAH+xBwREfFYo766v6pHC2PRrPnpYhktUMhIz+dWB1ya46xtJOEfg67DbFd0Y7xHnb3REOTZut1BkkD67IR9ogbFsDDNwi5iyOKTW+5pRXId3qg4Xxq+p7VloXNo6++y2QqpLPlVMKNrIpaBpmKSL6TrLSSBz8NEfxLi7F3uL8EpJsCzt25AZnPnBy6S7p4wa9aslkkuO/nzcZ50yv9qPXEbGjsOA+kKwTJZJRqpmx+1R8TaVTvq2TOLSLdZQROXbgZ4tH/IgMQDq/ojSbLtngoz9UfI4OMVp+b6/S0N2u1cHHnFI+bzyDcOtX9GQx5mUSWzEqiemh6ZlduWMDJqNqSitc0WZt89xhFY/eFaYNTW/18sHgrYiIXQZSZY4VffJUBaR4z8JXrAs1U+glevUKC+3jgzIweq9f+YiNr7RBxUVdeig2a2brkGgftYJwgmMsWAv1pEP3YVzX3SnHnZJ2hksmCKzM7lN11gjinjBvfUWMEVseFTpv1MUphBxc6PdmxVzzzOtYT4PtufVA==;9Vk0gQ/qEESZ2QJFAzQBYQ=="
+secured: "Yecqikg3mdZ5nNsjJvzFO+PvanToFdnntPlOXMMbBKv3fDd8bWNnlckforz1IAIKCDlOTCOCQtie81Fvw8wza+e082o4AwHyA2jniWh/Hqv4csBQwKOw1dXfi8VmUvZYO0eBPv/40Uo5wQwyWYNFq4AQ9WIka1cjd8kpvur4oPAa1xgqR7BSyNkeE8YuSeuLwak+qRi2hSDkpz9lRoFqT0s5AbEmIRztQnzfG+Al2rEczYizJvIV8Pf0xYAioBBtDrcic6zCbXvUzysPbr+mwRTZhxmAH3fF9ViK3Nb+znogQZiWMz027JYp9z7xzrMos9EskkZj9DGmOho9CWdP9CeUoot9H7QyeoWDtbVW3QK9k7CRQ0ZFfkCPBOXB4fTJI5BR/M5C0caaPaDRvq/MxQ2KtUR9I+Ea67qTpgFwt4r14uEByUqatsRVc31iAKE6MOqr5VL47ioho9CksihF3X2hQzRG7caY8ODmgBjZY3YQoZmbdEuZDokCw0Q+BpnFtXdcRUBKTIcl+tuAOyGQKQ==;88VpAjC3qIZuNWocO0WVAA=="
 ---
 

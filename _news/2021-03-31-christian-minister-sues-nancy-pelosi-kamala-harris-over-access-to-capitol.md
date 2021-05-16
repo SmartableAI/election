@@ -106,6 +106,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "VP Kamala Harris cheers Ella Emhoff on Parsons graduation"
+    excerpt: "I am so proud of you,” the veep posted over a snap of her with her stepdaughter. “Keep dreaming with ambition and there is nothing you cannot achieve.”"
+    publishedDateTime: 2021-05-15T23:55:00Z
+    webUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/"
+    ampWebUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-ella-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Campos-Duffy slams Kamala Harris’ border absence: Media giving her ‘free pass’"
     excerpt: "Fox News contributor Rachel Campos-Duffy on \"Outnumbered\" Friday slammed Kamala Harris’ border absence and the media giving her a \"free pass.\""
     publishedDateTime: 2021-05-07T20:45:00Z

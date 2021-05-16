@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-08-bill-maher-desantis-could-run-in-2024-without-trumps-blessing-but-its-a-risky-move.md",
+      "title": "Bill Maher: DeSantis could run in 2024 without Trump's 'blessing' -- but it's a risky move",
+      "excerpt": "\"Real Time\" host Bill Maher wondered if Republican Florida Gov. Ron DeSantis will run for president in 2024 -- regardless of whether he receives former President Trump's \"blessing.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/bill-maher-desantis-could-run-in-2024-without-trumps-blessing-but-its-a-risky-move",
+      "originalUrl": "https://www.foxnews.com/entertainment/bill-maher-desantis-could-run-in-2024-without-trumps-blessing-but-its-a-risky-move",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/98932544-4f11-48aa-8a87-290a38753cce/286df5b5-d7b3-4c91-96e0-76a93ae32307/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/bill-maher-desantis-could-run-in-2024-without-trumps-blessing-but-its-a-risky-move.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/bill-maher-desantis-could-run-in-2024-without-trumps-blessing-but-its-a-risky-move.amp",
+      "publishedDateTime": "2021-05-07T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-08-washington-post-trump-justice-department-got-reporters-phone-records.md",
       "title": "Washington Post: Trump Justice Department got reporters’ phone records",
       "excerpt": "The Washington Post reported on Friday that the Department of Justice under former President Donald Trump secretly obtained phone records from some of the newspaper's reporters. The Post reported that the DOJ sent letters dated May 3 to Post reporters Ellen Nakashima and Greg Miller,",
@@ -1310,63 +1367,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-giuliani-wanted-multiple-investigations-into-joe-biden-says-former-ukrainian-presidential-aide.md",
-      "title": "Giuliani wanted ‘multiple investigations’ into Joe Biden, says former Ukrainian presidential aide",
-      "excerpt": "Igor Novikov, a former adviser to Ukrainian President Zelensky, told NBC News that Rudy Giuliani wanted “multiple investigations” into Joe Biden during a 2019 phone call with Ukrainian officials. NBC News’ Andrea Mitchell explains what Novikov claims Giuliani said and why that phone call is so important.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/giuliani-wanted-multiple-investigations-into-joe-biden-says-former-ukrainian-presidential-aide-111373893730",
-      "originalUrl": "https://www.nbcnews.com/now/video/giuliani-wanted-multiple-investigations-into-joe-biden-says-former-ukrainian-presidential-aide-111373893730",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/1620219403651_ott_now_am_ukraine_210505_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo111373893730",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111373893730",
-      "publishedDateTime": "2021-05-05T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

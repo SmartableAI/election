@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-16-jimmy-carter-20-bidens-bundle-of-crises-look-increasingly-like-1970s.md",
+      "title": "Jimmy Carter 2.0: Biden's bundle of crises look increasingly like 1970s",
+      "excerpt": "Republican lawmakers and conservative commentators have made multiple comparisons between the Joe Biden and Jimmy Carter administrations.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTa_eMcdl78/jimmy-carter-biden-crises-1970s",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTa_eMcdl78/jimmy-carter-biden-crises-1970s",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/198530bb-d185-486d-8857-92461ae5a01f/0013eadb-6808-4e68-a958-67e1f426972c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jimmy-carter-biden-crises-1970s.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jimmy-carter-biden-crises-1970s.amp",
+      "publishedDateTime": "2021-05-16T03:26:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-16-biden-kills-trump-plan-for-american-heroes-sculpture-garden-report.md",
       "title": "Biden kills Trump plan for ‘American heroes’ sculpture garden: report",
       "excerpt": "President Biden on Friday put an end to a plan by former President Trump to create a \"National Garden of American Heroes.\"",
@@ -66,7 +122,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/republican-arizona-election-official-trump-unhinged-77717013",
       "featuredContent": null,
       "highlight": null,
-      "heat": 680,
+      "heat": 720,
       "tags": null,
       "images": [
         {
@@ -1300,58 +1356,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-us-welcome-patrol-how-some-border-agents-are-struggling-with-bidens-policy-shift.md",
-      "title": "'U.S. Welcome Patrol': how some border agents are struggling with Biden's policy shift",
-      "excerpt": "Some U.S. border patrol agents are so frustrated with President Joe Biden's more liberal border policies that they are considering early retirement, while other disgruntled colleagues are buying unofficial coins that say 'U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-immigration-border-insight-idUSKBN2CV0ZZ",
-      "originalUrl": "https://www.reuters.com/article/us-usa-immigration-border-insight-idUSKBN2CV0ZZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210514&t=2&i=1562109617&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4D0JF",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2CV0ZZ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CV0ZZ",
-      "publishedDateTime": "2021-05-14T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
