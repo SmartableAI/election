@@ -282,20 +282,20 @@ related:
         height: 478
         isCached: true
   - title: "President Joe Biden gives update on Covid-19 at White House"
-    excerpt: "President Joe Biden gives remarks on the new Covid-19 Centers for Disease Control mask guidelines in the Rose Garden, at the White House in Washington, DC on Thursday, May 13, 2021. Fully vaccinated people no longer need to wear a face mask or stay six feet away from others in most settings,"
+    excerpt: "President Joe Biden walks away after he gave remarks on the new Covid-19 Centers for Disease Control mask guidelines in the Rose Garden, at the White House in Washington, DC on Thursday, May 13, 2021."
     publishedDateTime: 2021-05-16T07:10:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/a92457e125b0d8c914c46b62f5bded8c/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/aed07b72c5e5e3ddcfb314104aec0451/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/a92457e125b0d8c914c46b62f5bded8c/BIDEN-COVID.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/aed07b72c5e5e3ddcfb314104aec0451/BIDEN-COVID.jpg"
         width: 650
-        height: 408
+        height: 446
         isCached: true
 
-secured: "uwiUCsN7yz7n5E2gjOcsWrbRJX91z3XZ1klsm2sCAjnqtKwgQHS0YCMzrINumcdstbyAX2iopKTNPsK0IciRErZMKr2hT0Xxam8KTnn5NFS01wcOf6+m7LNMPB8TopsAVZcuWTAJIxJgxF1JphHsZfEVXi3WvA2b1pk8dHAQ3xdO9ZTvlZvhAhWVKJm4xepl7u7jKNmORMSwDkz5Ryv8Vj0zsGxmWRpvkbV7T/U8ytFjZeR0KRhbI+G/44GCbzBgIDwVu9utGabXsNl5nhSIafO8wThc5/M7bMGWycJ2VUhYYuL0U2vx34/0ZXxxo0aTb0QtJdMaMLRTWkSqvH5iW9lB+F4BSsSeLynfcY90fqc=;veZgqs8IkOAqLP8jLChiuw=="
+secured: "A4ttPi5m7SEmMm2EwCLfbBY9y+T/U0nZOQxzW/++S/zVdUAuINmhuLs22nu4/TByDlQZ6pUlNJhNqCxYHxQq3MNsipract33DnXByjn1Ap7eLBugfsty6qABWteth76Is50Nukdf/St2Tplx+aQBbgRfoJHaLHRslFfaVxKXv6i88Js1vwSrzIin9izZ1PIWPder8jjmvzrc2XWDhshCZXqRjOGISOFQ7p9FxX6+cEpNF3CZOPA2Yilqt+JMgAC28NrL4A5CvYga82j+XXjg5gSgFMbZRMRKum/jXOZpY6YMj37MVwhsf5aAX6FzsGEFOjQq6aJrH0fQ2KZFiQI6MzaDsMGAuZf7aA41oRWkwWop5cBzKlqETWZwA9yC835nhQeKq1Kke3ZYyxAfsx+Up4ZGab6AaNZ6Jpr9wJ56/VmlQezfIg1jZ4tc9Zc6Sx3NJxXk+BeD0qROOp5/W9IJvb8yNpJ8HeI8juy9bffR0X48pTvyxkuDWiXflHRN4/D3bvNKNz7Z6tOcvi0QzpF0Gg==;yYMC5E34jdOzg3cZiN+D1A=="
 ---
 

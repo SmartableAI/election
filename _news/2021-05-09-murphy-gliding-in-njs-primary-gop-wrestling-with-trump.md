@@ -25,229 +25,407 @@ topics:
   - Donald Trump
 
 related:
-  - title: "The Memo: Trump's critics face wrath of GOP base"
-    excerpt: "Cheney voted for Trump’s impeachment and has become perhaps his most persistent foe among GOP officeholders. But the bigger picture is one in which Cheney is in danger of losing her House leadership position and another Trump critic,"
-    publishedDateTime: 2021-05-03T21:47:00Z
-    webUrl: "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base"
-    ampWebUrl: "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp"
+  - title: "Republican Arizona election official says Trump 'unhinged'"
+    excerpt: "The Republican now leading the Arizona county elections department targeted by a GOP audit of the 2020 election results is slamming former President Donald Trump and others in his party for their cont"
+    publishedDateTime: 2021-05-16T01:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/republican-arizona-election-official-trump-unhinged-77717013"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/republican-arizona-election-official-trump-unhinged-77717013"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/republican-arizona-election-official-trump-unhinged-77717013"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7f64d2cf7da84119bc6cba3606d2325c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Republicans vie for Trump's mantle in Pa. Senate primary"
+    excerpt: "Republicans are bracing for a potentially heated Senate primary in Pennsylvania that will see candidates competing to tie themselves to former President Trump."
+    publishedDateTime: 2021-05-12T10:00:00Z
+    webUrl: "https://thehill.com/homenews/campaign/553008-republicans-vie-for-trumps-mantle-in-pa-senate-primary"
+    ampWebUrl: "https://thehill.com/homenews/campaign/553008-republicans-vie-for-trumps-mantle-in-pa-senate-primary?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/553008-republicans-vie-for-trumps-mantle-in-pa-senate-primary?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_cheneyliz_012121getty-bc_split.jpg"
+      - url: "https://thehill.com/sites/default/files/bartosjeff_parnellsean_sandscarla_051121bartos-getty-usconsulate-lp_camp.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Facebook’s Oversight Board upholds ban on Trump. At least for now."
-    excerpt: "The panel faulted the social network for making a hasty decision without clear criteria and told Facebook to reevaluate the decision within six months."
-    publishedDateTime: 2021-05-05T20:20:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/05/05/facebook-trump-decision/?outputType=amp"
+  - title: "Trump administration officials to testify on Jan. 6 riots"
+    excerpt: "Two senior Trump administration officials plan to defend their actions during the Jan. 6 riots at the U.S. Capitol when they appear before Congress"
+    publishedDateTime: 2021-05-12T03:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-administration-officials-to-testify-on-jan-6-riots/2021/05/12/fbdb770c-b2d7-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-administration-officials-to-testify-on-jan-6-riots/2021/05/12/fbdb770c-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-administration-officials-to-testify-on-jan-6-riots/2021/05/12/fbdb770c-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CXWOKATSREI6XBSRNUYJD2WGH4.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5RIG24VSREI6XPEW7X2V3ZB354.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "The Daily 202: Facebook board’s Trump decision isn’t just about Trump"
-    excerpt: "Welcome to The Daily 202 newsletter! If you’re still wondering, in 2021, how powerful Facebook is, consider that their oversight board’s website is just oversightboard dot com. Tell your friends to sign up here."
-    publishedDateTime: 2021-05-06T15:35:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/05/06/daily-202-facebook-boards-trump-decision-isnt-just-about-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/06/daily-202-facebook-boards-trump-decision-isnt-just-about-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/06/daily-202-facebook-boards-trump-decision-isnt-just-about-trump/?outputType=amp"
+  - title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
+    excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
+    publishedDateTime: 2021-05-13T16:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G6PQNKVOAUI6XAWBRFVMVFK3XE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/67FPAOFUBEI6XPEW7X2V3ZB354.jpg&w=1440"
         width: 1440
-        height: 947
+        height: 960
         isCached: true
-  - title: "Rep. Elise Stefanik on path to GOP leadership after aligning with Trump"
-    excerpt: "Now, she’s on the verge of joining Republican leadership, as a growing number of lawmakers call for Rep. Liz Cheney to be replaced as the No. 3 House Republican."
-    publishedDateTime: 2021-05-07T09:00:00Z
-    webUrl: "https://abcnews.go.com/Politics/rep-elise-stefanik-path-gop-leadership-aligning-trump/story?id=77505107"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/rep-elise-stefanik-path-gop-leadership-aligning-trump/story?id=77505107"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/rep-elise-stefanik-path-gop-leadership-aligning-trump/story?id=77505107"
+  - title: "Cheney won't rule out running for president to stop Trump"
+    excerpt: "House Republicans are slated to gather Thursday behind closed doors ahead of an election Friday to fill the No. 3 leadership role previously held by Rep. Liz Cheney."
+    publishedDateTime: 2021-05-13T19:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/cheney-rule-running-president-stop-trump/story?id=77667888"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/cheney-rule-running-president-stop-trump/story?id=77667888"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/cheney-rule-running-president-stop-trump/story?id=77667888"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/elise-stefanik-gop-leadership-03-ap-llr-210505_1620258693019_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/cheney-rt-3-rc-210512_1620826693011_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Online speech shield under fire as Trump Facebook ban stays"
-    excerpt: "Lurking beneath Facebook’s decision on whether to continue Donald Trump’s suspension from its platform is a far more complex and consequential question: Do the protections carved out for companies whe"
-    publishedDateTime: 2021-05-08T03:11:00Z
-    webUrl: "https://www.washingtonpost.com/politics/online-speech-shield-under-fire-as-trump-facebook-ban-stays/2021/05/08/7be6abba-afb3-11eb-82c1-896aca955bb9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/online-speech-shield-under-fire-as-trump-facebook-ban-stays/2021/05/08/7be6abba-afb3-11eb-82c1-896aca955bb9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/online-speech-shield-under-fire-as-trump-facebook-ban-stays/2021/05/08/7be6abba-afb3-11eb-82c1-896aca955bb9_story.html?outputType=amp"
+  - title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
+    excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
+    publishedDateTime: 2021-05-13T19:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77669550"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77669550"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77669550"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e8f3be20437144588b960af4450c52db_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "It doesn’t pay to be a congressional Republican opposing Trump"
+    excerpt: "Republicans in Congress who oppose Donald Trump are usually consigned to the same fate: a quick end to their political careers."
+    publishedDateTime: 2021-05-13T21:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/05/13/it-doesnt-pay-be-congressional-republican-opposing-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/13/it-doesnt-pay-be-congressional-republican-opposing-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/13/it-doesnt-pay-be-congressional-republican-opposing-trump/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DBU6ZEVPWII6XAWBRFVMVFK3XE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-05-2021/t_6e6aa7299f37465bbc39b48610f4cb6e_name_20210420_BillOLeary02_wapo_scaled.jpg&w=1440"
         width: 1440
-        height: 960
+        height: 810
         isCached: true
-  - title: "Facebook Oversight Board to Announce Decision on Donald Trump Ban on May 5"
-    excerpt: "Former President Donald Trump could make a return to Facebook and Instagram very soon following an announcement by the body that oversees bans on content for the social media sites. The Oversight Board tweeted on Monday that they will reveal their decision on Trump's suspensions this Wednesday,"
-    publishedDateTime: 2021-05-03T15:22:00Z
-    webUrl: "https://www.newsweek.com/facebook-oversight-board-announce-decision-donald-trump-ban-may-5-1588223"
-    ampWebUrl: "https://www.newsweek.com/facebook-oversight-board-announce-decision-donald-trump-ban-may-5-1588223?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-oversight-board-announce-decision-donald-trump-ban-may-5-1588223?amp=1"
+  - title: "Liz Cheney says she regrets voting for Trump in 2020"
+    excerpt: "Liz Cheney said she regrets voting for Donald Trump in the 2020 election, speaking in a \"This Week\" interview with ABC Chief Washington Correspondent."
+    publishedDateTime: 2021-05-15T00:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/liz-cheney-regrets-voting-trump-2020/story?id=77695446"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/liz-cheney-regrets-voting-trump-2020/story?id=77695446"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/liz-cheney-regrets-voting-trump-2020/story?id=77695446"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1786543/former-president-trump-looks-his-phone.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s.abcnews.com/images/Politics/jon-karl-liz-cheney-interview-05-abc-jc-210514_1621022394989_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "The slow, painful death of Trump allies’ voting-machine conspiracy theories"
-    excerpt: "Among the many wild conspiracy theories about the 2020 election, few rank as high when it comes to both baselessness and reach as those involving voting machines. The theory that voting machines were programmed to steal the election from President Donald Trump had the benefit,"
-    publishedDateTime: 2021-05-03T16:15:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/03/slow-painful-death-trump-allies-voting-machine-conspiracy-theories/?outputType=amp"
+  - title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
+    excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
+    publishedDateTime: 2021-05-15T20:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77713730"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77713730"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77713730"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e8f3be20437144588b960af4450c52db_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "10 Things in Politics: Anti-Trump Republicans threaten spinoff 3rd party"
+    excerpt: "And the Colonial pipeline is slowly restarting operations."
+    publishedDateTime: 2021-05-13T09:39:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-liz-cheney-gop-third-party"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-liz-cheney-gop-third-party?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-liz-cheney-gop-third-party?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/609cdfe9070a690018af4f9a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Republicans’ conflicting message: Embracing Trump election lie is key to prominence, just stop asking us about it"
+    excerpt: "Liz Cheney (R-Wyo.) as the No. 3 House Republican leader for saying former president Trump’s claim of a stolen election was a lie. Yet he insisted later that day, “I don’t think anybody is questioning the legitimacy of the presidential election."
+    publishedDateTime: 2021-05-15T21:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/mccarthy-stefanik-cheney-trump/2021/05/15/c0cc23aa-b4b7-11eb-ab43-bebddc5a0f65_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/mccarthy-stefanik-cheney-trump/2021/05/15/c0cc23aa-b4b7-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/mccarthy-stefanik-cheney-trump/2021/05/15/c0cc23aa-b4b7-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 123
+    quality: 119
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2MJW36R3GMI6XKWZRFMSE4UAYQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7C6MSUFUZII6XPEW7X2V3ZB354.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Amanda Chase, Who Pushed Trump for Martial Law, Vows Audit If She Loses GOP VA Gov. Nomination"
-    excerpt: "\"If I come out of this election as anything other than the victor, of course, we are going to have a full audit,\" the state senator said."
-    publishedDateTime: 2021-05-08T18:57:00Z
-    webUrl: "https://www.newsweek.com/amanda-chase-who-pushed-trump-martial-law-vows-audit-if-she-loses-gop-va-gov-nomination-1589817"
-    ampWebUrl: "https://www.newsweek.com/amanda-chase-who-pushed-trump-martial-law-vows-audit-if-she-loses-gop-va-gov-nomination-1589817?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/amanda-chase-who-pushed-trump-martial-law-vows-audit-if-she-loses-gop-va-gov-nomination-1589817?amp=1"
+  - title: "As Trump seizes on Arizona ballot audit, election officials fear partisan vote counts could be the norm in future elections"
+    excerpt: "The GOP-backed recount of Maricopa County’s ballots has been criticized for abandoning state guidelines and allowing the rules to be set by a private contractor who promoted claims that the election was stolen."
+    publishedDateTime: 2021-04-29T20:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-arizona-recount/2021/04/29/bcd8d832-a798-11eb-bca5-048b2759a489_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-arizona-recount/2021/04/29/bcd8d832-a798-11eb-bca5-048b2759a489_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-arizona-recount/2021/04/29/bcd8d832-a798-11eb-bca5-048b2759a489_story.html?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 113
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
     images:
-      - url: "https://d.newsweek.com/en/full/1791671/amanda-chase-virginia-state-senator-vote-audit.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZZ5RRBVI7YI6XDA2K3YMWT7TWU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump aides are casting doubt on McCarthy's prospects for House speaker if the GOP wins back the majority in 2022"
-    excerpt: "Axing Cheney solves one problem for Kevin McCarthy's House-speaker aspirations but creates another if the Trump-fueled backstabbing doesn't subside."
-    publishedDateTime: 2021-05-07T13:12:00Z
-    webUrl: "https://www.businessinsider.com/trump-mccarthy-cheney-jordan-republican-leadership-speaker-2022-midterms-2021-5"
+  - title: "House Republicans elect Trump defender Elise Stefanik to No. 3 post after ousting Liz Cheney"
+    excerpt: "Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership Friday, electing an ardent Donald Trump defender in hopes of calming their searing civil war."
+    publishedDateTime: 2021-05-14T13:35:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-house-republicans-stefanik-20210514-jlxdelqrnvdu7abbrpet4rhdsm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-house-republicans-stefanik-20210514-jlxdelqrnvdu7abbrpet4rhdsm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-house-republicans-stefanik-20210514-jlxdelqrnvdu7abbrpet4rhdsm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 114
+    images:
+      - url: "https://www.chicagotribune.com/resizer/vtPzpglMJKqirC3pKjlPbawvn14=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Z4FR43HEQKPGPQKXAIWH3IALCA.jpg"
+        width: 1200
+        height: 812
+        isCached: true
+  - title: "Florida officials are preparing 'contingency plans' for a Trump indictment from New York, report says"
+    excerpt: "The investigation from Manhattan DA Cy Vance could involve different scenarios depending on whether Trump is indicted in Florida or New Jersey."
+    publishedDateTime: 2021-05-13T16:19:00Z
+    webUrl: "https://www.businessinsider.com/palm-beach-trump-indictment-manhattan-da-vance-investigation-report-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/palm-beach-trump-indictment-manhattan-da-vance-investigation-report-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/palm-beach-trump-indictment-manhattan-da-vance-investigation-report-2021-5?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 84
+    quality: 110
     images:
-      - url: "https://i.insider.com/6013f2bc1d2df20018b7182f?width=1200&format=jpeg"
+      - url: "https://i.insider.com/609d1d746a3ce80019e042e7?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump is staying out of the Virginia GOP's governor race. His absence is making a chaotic campaign even more bonkers."
-    excerpt: "The former president hasn't endorsed any of the Virginia Republicans running to lead the Old Dominion, a state he lost by double digits to Biden in 2020."
-    publishedDateTime: 2021-05-06T08:01:00Z
-    webUrl: "https://www.businessinsider.com/trump-virginia-republicans-chase-snyder-youngkin-cox-davis-cruz-endorsement-2021-5"
+  - title: "Liz Cheney’s months-long effort to turn Republicans from Trump threatens her reelection and ambitions. She says it’s only beginning."
+    excerpt: "The party’s third-highest leader has engaged in a raging months-long dispute with other House Republicans, likely to end in her dismissal from her leadership post."
+    publishedDateTime: 2021-05-08T14:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/cheney-trump-mccarthy-republicans/2021/05/08/12e6c41e-adcf-11eb-acd3-24b44a57093a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/cheney-trump-mccarthy-republicans/2021/05/08/12e6c41e-adcf-11eb-acd3-24b44a57093a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/cheney-trump-mccarthy-republicans/2021/05/08/12e6c41e-adcf-11eb-acd3-24b44a57093a_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 82
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
     images:
-      - url: "https://i.insider.com/60931ce434af8d001859bb9f?width=700"
-        width: 700
-        height: 525
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FCU2SZVN2MI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Facebook board upholds Trump ban, just not indefinitely"
-    excerpt: "Former President Donald Trump won’t return to Facebook — at least not yet. The social network’s quasi-independent Oversight Board voted to uphold his ban from the platform after his account was suspended four months ago."
-    publishedDateTime: 2021-05-07T03:56:00Z
-    webUrl: "https://www.chron.com/news/article/Facebook-board-s-Trump-decision-could-have-wider-16152347.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Facebook-board-s-Trump-decision-could-have-wider-16152347.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Facebook-board-s-Trump-decision-could-have-wider-16152347.php"
+  - title: "Liz Cheney says Trump backers threaten democracy"
+    excerpt: "A combative Rep. Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, accusing former President Donald Trump and his GOP supporters of following a path that would \"undermine our democracy."
+    publishedDateTime: 2021-05-12T01:47:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/12/liz-cheney-says-trump-backers-threaten-democracy/5048278001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4226d50a-4ece-495f-88a5-95a727292419_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "House Republicans oust Cheney from leadership as she vows to stop Trump"
+    excerpt: "House Republicans voted Wednesday to remove Wyoming Rep. Liz Cheney from her House GOP leadership position following her criticism of former President Donald Trump and his continu"
+    publishedDateTime: 2021-05-12T20:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/liz-cheney-live-updates/?id=77642191"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/cheney-rt-3-rc-210512_1620826693011_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 899
+        isCached: true
+  - title: "House GOP elect Trump defender Stefanik as their number three in leadership"
+    excerpt: "Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership, electing an ardent Donald Trump defender in hopes of calming their searing civil war over the deposed Rep. Liz Cheney's unremitting combat with the former president."
+    publishedDateTime: 2021-05-15T00:07:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/14/house-gop-elect-trump-defender-stefanik-no-3/5090514001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/14/USAT/ff68f52c-e9f6-4328-83e4-dd6734228216-c7f98d30-0917-47bb-93b0-c461553ba2a4_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
+  - title: "White House Won't 'Underestimate' Trump's Chances Of Winning 2024 Election"
+    excerpt: "President Joe Biden in March said he plans to run for re-election in 2024 with Vice President Kamala Harris as his running mate."
+    publishedDateTime: 2021-05-10T05:09:00Z
+    webUrl: "https://www.ibtimes.com/white-house-wont-underestimate-trumps-chances-winning-2024-election-3195928"
+    ampWebUrl: "https://www.ibtimes.com/white-house-wont-underestimate-trumps-chances-winning-2024-election-3195928?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/white-house-wont-underestimate-trumps-chances-winning-2024-election-3195928?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 88
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/facebooks-oversight-board-is-worried-that-for-now.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Trump's 'Big Lie' imperils Republicans who don't embrace it"
+    excerpt: "Trump's discredited allegations about a stolen election did nothing to save his presidency when courtrooms high and low, state governments and ultimately Congress — meeting in the chaos of an insurrection powered by his grievances — affirmed the legitimacy of his defeat and the honesty of the process that led to it."
+    publishedDateTime: 2021-05-09T15:38:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
     type: article
     provider:
       name: Houston Chronicle
       domain: chron.com
     quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/17/70/54/20941630/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Defining Moment For Facebook Oversight Panel With Trump Ban Ruling"
-    excerpt: "Facebook's independent oversight board was set for a momentous decision on the platform's ban of former US president Donald Trump, as debate swirls on the role of social media in curbing hateful and abusive speech while controlling political discourse."
-    publishedDateTime: 2021-05-04T16:18:00Z
-    webUrl: "https://www.ibtimes.com/defining-moment-facebook-oversight-panel-trump-ban-ruling-3192936"
+  - title: "GOP purged Cheney for 'unity,' but Trump bent on retribution"
+    excerpt: "Republican leaders insisted that purging Trump critic Rep. Liz Cheney from their ranks was necessary to unify the party ahead of next year’s midterm elections. But former President Donald Trump, who celebrated Cheney's ouster by calling her a “bitter,"
+    publishedDateTime: 2021-05-13T03:21:00Z
+    webUrl: "https://www.chron.com/news/article/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
+    ampWebUrl: "https://www.chron.com/news/amp/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Here's Why Trump Is Calling A Kentucky Derby Horse A 'Junky'"
+    excerpt: "Former President Donald Trump compared the Kentucky Derby horse to the \"borders\" and \"fake presidential election.\""
+    publishedDateTime: 2021-05-10T03:48:00Z
+    webUrl: "https://www.ibtimes.com/heres-why-trump-calling-kentucky-derby-horse-junky-3195840"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
     quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/donald-trump-is-seen-addressing-supporters-flooding-the.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/09/medina-spirit-ridden-by-jockey-john-velazquez-could.jpg"
         width: 1024
         height: 682
         isCached: true
-  - title: "Will Donald Trump's Facebook Account Return?"
-    excerpt: "Donald Trump may be back online as Facebook’s oversight board prepares to announce its decision on his expulsion from the platform. The former president was given the boot a day after the Jan. 6 Capitol riot and the decision Wednesday is certain to attract political controversy from one side or the other."
-    publishedDateTime: 2021-05-03T21:41:00Z
-    webUrl: "https://www.ibtimes.com/will-donald-trumps-facebook-account-return-3192364"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
-        width: 1024
-        height: 731
-        isCached: true
-  - title: "Trump Moves To Assert Party Control Despite Facebook Ban"
-    excerpt: "Social media has been his weapon of choice for battling Republican dissidents, but Donald Trump is seeking to tighten his iron grip on the party even after a ruling Wednesday extending his ban on Facebook."
-    publishedDateTime: 2021-05-06T00:08:00Z
-    webUrl: "https://www.ibtimes.com/trump-moves-assert-party-control-despite-facebook-ban-3193784"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/former-us-president-donald-trump-who-remains-the.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Explainer-Ahead of Trump Facebook Ruling, Here’s How Social Media Sites Handle World Leaders"
-    excerpt: "Facebook's independent oversight board on Wednesday will announce whether it is overturning the company's suspension of former U.S. President Donald Trump's account. The long-awaited ruling will bring the focus back onto how the world's largest social network decides what world leaders and politicians can and can't say on their platforms."
-    publishedDateTime: 2021-05-04T11:20:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-04/explainer-ahead-of-trump-facebook-ruling-heres-how-social-media-sites-handle-world-leaders"
+  - title: "Loyalty to Trump Catapults Elise Stefanik Into Republican Stardom"
+    excerpt: "Stefanik's star could rise higher as Trump now pushes for her to be elected the No. 3 Republican in the House of Representatives, which is set to vote on Wednesday to remove Representative Liz Cheney from that role for rejecting his continued false claims that the 2020 presidential election was marred by widespread fraud."
+    publishedDateTime: 2021-05-11T10:10:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-05-11/loyalty-to-trump-catapults-elise-stefanik-into-republican-stardom"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-05-11/loyalty-to-trump-catapults-elise-stefanik-into-republican-stardom?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-05-11/loyalty-to-trump-catapults-elise-stefanik-into-republican-stardom?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 24
+    quality: 55
+  - title: "Republicans Set To Oust Trump Critic Cheney From Leadership"
+    excerpt: "Wednesday's vote by House Republicans over ousting anti-Trump conservative Liz Cheney from her leadership role will almost certainly confirm that the party out of power in Washington is casting its lot with the former US president."
+    publishedDateTime: 2021-05-12T02:38:00Z
+    webUrl: "https://www.ibtimes.com/republicans-set-oust-trump-critic-cheney-leadership-3197094"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/11/number-three-us-house-republican-liz-cheney-r.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Republicans Oust Trump Critic Cheney From Leadership"
+    excerpt: "US House Republicans on Wednesday ousted conservative Liz Cheney, a fierce critic of Donald Trump, from her powerful leadership role in a move that tightens the former president's grip on the party. Eighteen months before crucial midterms and three years before the next presidential race,"
+    publishedDateTime: 2021-05-12T22:38:00Z
+    webUrl: "https://www.ibtimes.com/republicans-oust-trump-critic-cheney-leadership-3197094"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/11/number-three-us-house-republican-liz-cheney-r.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Liz Cheney Vote: U.S. House Republicans Reach Watershed Over Trump"
+    excerpt: "Republicans in the U.S. House of Representatives will vote on Wednesday whether to eject Liz Cheney, an outspoken critic of Donald Trump, from her leadership post, a move likely to cement their dependence on the former president in the 2022 elections."
+    publishedDateTime: 2021-05-12T10:03:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-05-12/liz-cheney-vote-us-house-republicans-reach-watershed-over-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "House Republicans Pick Stefanik to Replace Trump Critic Cheney in Leadership - Media"
+    excerpt: "Republicans in the U.S. House of Representatives on Friday elected Elise Stefanik to serve in their No. 3 leadership position, replacing Liz Cheney, an outspoken critic of former President Donald Trump's false claims of election fraud,"
+    publishedDateTime: 2021-05-14T13:34:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-05-14/house-republicans-pick-stefanik-to-replace-trump-critic-cheney-in-leadership-media"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 28
 
 secured: "ZeWjaIVOIVwtW8FNnz/lcyXHAFi7dpTUhjdqETKi9nGvd0XyuTgEOSgfZvJktIQHttvVTnroUQAqJlUpKScnTc0i9nDiiGoBKJV3p8gf0AE76jGwiQpNYr5v7jek5i6mEn0ViZOkUqVzOZPBGq57nEn4TfheWeJshkRdcV8q4r7q74q6IxX8ueVQL3Hdnj88b9N1gJqSR9ZtBPMr08nPiJKeZuviGCRRDRXn1wJiSe14KgZsuYurcmKIdH6x91UgVfPqH8LjozTVx4TItkfSrdr8wC+KuIkKu7WXSixwEpIiF+oRXLVibFrGTXnQYSWTmj3g5gw3FoSU7xJWEbBOOPRL5m7brkK+h5qJboWWsVMaFY5w3LbGzOH7gCgxvONSSic+cUGH8tUouxxM/OuZ0xW1V4MKbRL/GTG4idSP6CnPUl6Yk6/K/uMxQAx3GMS+4k1+JjA289T1toSdKXsCf4BP8uul8kpivQrYgeSR64jr8GcTLcx7+dWG/pVLdpwUlmpa9sjahQ0cEu6wJ+IW+w==;7TVMLmVJWI9hka59zSQgsg=="
 ---

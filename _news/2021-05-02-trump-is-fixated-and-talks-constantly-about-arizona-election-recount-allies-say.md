@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/donald-trump-is-fixated-on-arizona-e
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-is-fixated-on-arizona-election-recount-allies-say-2021-5?amp"
 type: article
 quality: 133
-heat: 173
+heat: 153
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1782493/former-president-donald-trump-cpac.jpg"
         width: 3000
         height: 2000
-        isCached: true
-  - title: "As Trump seizes on Arizona ballot audit, election officials fear partisan vote counts could be the norm in future elections"
-    excerpt: "The GOP-backed recount of Maricopa County’s ballots has been criticized for abandoning state guidelines and allowing the rules to be set by a private contractor who promoted claims that the election was stolen."
-    publishedDateTime: 2021-04-29T20:05:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-arizona-recount/2021/04/29/bcd8d832-a798-11eb-bca5-048b2759a489_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-arizona-recount/2021/04/29/bcd8d832-a798-11eb-bca5-048b2759a489_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-arizona-recount/2021/04/29/bcd8d832-a798-11eb-bca5-048b2759a489_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZZ5RRBVI7YI6XDA2K3YMWT7TWU.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
 
 secured: "wjbAhws+u4YnzLEPXHyDze/YqXneMCooPpj9sixzsOdHLk2ySXPbAL1EGGUNPl/jyAzjzNCHVQMzJuZPEdXpNn98vEfnZhUrfuDIJJ4mg7ajA5BktjzaDWVzET+tvLUNErYwqJtshR5/1ElerNAgGiYWRafh26banjQJLXnIvyP5d6YjkRJrp8E5yW+f6PSdU9cQOsrLG37O16XPhnlDqQOGzJkvLqj45fHVF7apwXqYXaBg1/zIzV62czayTb/wANpjmLtxNQLwEYZETCiBsQSEiTZff7ZMemYbpoTRj25GeQzaTEUiJ8NSKuFkvSXTNfsTN4Lpat2X5wFMoywcfRefwM6pfAP4DiObpGGcon5vdc7GEyconaZMKJ0cB8TwPBMHggoMnewcUvKlvyuZz72EVABJiXSO1BQTuYAL59gOG6z6iSUSCCpYytCVNzV9R2wYiHJlGSb7M1jPeqa7LlQDg+j3SKuLoxwmvwB9K2ZM3qnLiWQPl3VpKoTb7lSYnzxU1K0yQ2MOVPMr8SmjWQ==;KiKzs7gj+V0GDdACftA2Rg=="

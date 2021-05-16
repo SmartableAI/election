@@ -237,17 +237,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Murphy Gliding in NJ's Primary; GOP Wrestling With Trump"
-    excerpt: "New Jersey Republicans will decide whether they want an outspoken Donald Trump supporter to be their standard bearer in the fall election for governor, while Democratic incumbent Gov. Phil Murphy is on an easy path toward capturing his party’s nomination."
-    publishedDateTime: 2021-05-09T05:00:00Z
-    webUrl: "https://www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump"
-    ampWebUrl: "https://www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "PoPAgZQDECHIM0RX8hqx/0Lx5TyL81AbFjkrPv/niM9YdSR0W+qO6tfD88Gsr2bDP8tbNnabLUJ0T/iduKgywD9P2oVKe1FfbAxMSV+yp2AgUmw3igMMLZvM7n5/huRL/gbG5YTa/CA6YOMJGivxw81E7w0JSfvJRO9cIxXD/hc1KQx9JkP+3T7oscWNm9Fj2kqkg8qvCgiHUuTs5eU8hD2KrPgMSi62PGvr1jaOEPC7pltMt+v1WFDCdMWQjMGjtQCnbXpXuChw3SZxbLXOtfjS9Ryq978klWiyeMESaFHzmXNKbCOFtiwnt0nvu4sMCRqMzEv23oJ58tsvplmzl7dz8kEvX4/bR43O7oVv4s3QV1LdDgLo3p70Aj3WV+y0MnkeT4t2K+CJ2RwBPYHaTgmuB3v3GNuuEmWrP9AMXwd7Wg2AxUg72D0tfthwrKdnuspap26lklSCTWHxRsjBVgiYUeVwbG0/Az1qUMltdPk6UiZ57nMws1YwstMQwGAa4rVqJ8/QUdZYlfV1440HaA==;Z/KGdr8/0mjWb7AuKdErpQ=="
 ---

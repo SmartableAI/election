@@ -229,17 +229,6 @@ related:
         width: 1024
         height: 731
         isCached: true
-  - title: "Murphy Gliding in NJ's Primary; GOP Wrestling With Trump"
-    excerpt: "New Jersey Republicans will decide whether they want an outspoken Donald Trump supporter to be their standard bearer in the fall election for governor, while Democratic incumbent Gov. Phil Murphy is on an easy path toward capturing his party’s nomination."
-    publishedDateTime: 2021-05-09T05:00:00Z
-    webUrl: "https://www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump"
-    ampWebUrl: "https://www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Explainer-Ahead of Trump Facebook Ruling, Here’s How Social Media Sites Handle World Leaders"
     excerpt: "Facebook's independent oversight board on Wednesday will announce whether it is overturning the company's suspension of former U.S. President Donald Trump's account. The long-awaited ruling will bring the focus back onto how the world's largest social network decides what world leaders and politicians can and can't say on their platforms."
     publishedDateTime: 2021-05-04T11:20:00Z

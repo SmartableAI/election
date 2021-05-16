@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden's American Rescue Plan unemployment-benefit extension making it difficult to find workers, employers say"
-excerpt: "Some U.S. small business and restaurant owners claim President Biden's unemployment benefit extension is making it difficult to hire new workers."
-publishedDateTime: 2021-05-12T21:13:04Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1ARaCfneKJY/labor-shortage-unemployment-benefits-nationwide"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1ARaCfneKJY/labor-shortage-unemployment-benefits-nationwide"
-ampWebUrl: "https://www.foxnews.com/politics/labor-shortage-unemployment-benefits-nationwide.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/labor-shortage-unemployment-benefits-nationwide.amp"
+title: "Portland mayor 'grateful' for Biden reversal of Trump order that sent federal agents to city amid protests"
+excerpt: "Portland, Ore., Mayor Ted Wheeler said on Saturday he was grateful for the White House’s “support” after President Biden reversed the Trump order that allowed federal agents to intervene in Portland’s riots last summer."
+publishedDateTime: 2021-05-16T09:22:20Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7yEW-dZkGPk/portland-mayor-grateful-for-biden-reversal-of-trump-order-that-sent-federal-agents-to-city-amid-protests"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7yEW-dZkGPk/portland-mayor-grateful-for-biden-reversal-of-trump-order-that-sent-federal-agents-to-city-amid-protests"
+ampWebUrl: "https://www.foxnews.com/politics/portland-mayor-grateful-for-biden-reversal-of-trump-order-that-sent-federal-agents-to-city-amid-protests.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/portland-mayor-grateful-for-biden-reversal-of-trump-order-that-sent-federal-agents-to-city-amid-protests.amp"
 type: article
-quality: 155
+quality: 172
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d7d67eb-4b1c-4f79-9450-c1a39e20f2f9/166277f7-f4f6-425b-9b23-f7b7151c5a78/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1e65481-ff4e-4766-857b-6e321bc59558/b4376662-4f2d-4bf1-99e3-c371d941d68f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -79,22 +79,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Portland mayor 'grateful' for Biden reversal of Trump order that sent federal agents to city amid protests"
-    excerpt: "Portland, Ore., Mayor Ted Wheeler said on Saturday he was grateful for the White House’s “support” after President Biden reversed the Trump order that allowed federal agents to intervene in Portland’s riots last summer."
-    publishedDateTime: 2021-05-16T09:22:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7yEW-dZkGPk/portland-mayor-grateful-for-biden-reversal-of-trump-order-that-sent-federal-agents-to-city-amid-protests"
-    ampWebUrl: "https://www.foxnews.com/politics/portland-mayor-grateful-for-biden-reversal-of-trump-order-that-sent-federal-agents-to-city-amid-protests.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/portland-mayor-grateful-for-biden-reversal-of-trump-order-that-sent-federal-agents-to-city-amid-protests.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1e65481-ff4e-4766-857b-6e321bc59558/b4376662-4f2d-4bf1-99e3-c371d941d68f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden doesn't believe there is ‘any significant portion' of Americans who won't get vaccinated"
     excerpt: "President Biden seemed optimistic that his administration would reach its goal of having 70 percent of Americans vaccinated by July 4, saying that he doesn’t believe there is “any significant portion” of Americans who refuse to get vaccinated."
     publishedDateTime: 2021-05-12T21:42:59Z
@@ -108,6 +92,22 @@ related:
     quality: 163
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21132743978141.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden's American Rescue Plan unemployment-benefit extension making it difficult to find workers, employers say"
+    excerpt: "Some U.S. small business and restaurant owners claim President Biden's unemployment benefit extension is making it difficult to hire new workers."
+    publishedDateTime: 2021-05-12T21:13:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1ARaCfneKJY/labor-shortage-unemployment-benefits-nationwide"
+    ampWebUrl: "https://www.foxnews.com/politics/labor-shortage-unemployment-benefits-nationwide.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/labor-shortage-unemployment-benefits-nationwide.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d7d67eb-4b1c-4f79-9450-c1a39e20f2f9/166277f7-f4f6-425b-9b23-f7b7151c5a78/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -224,6 +224,6 @@ related:
         height: 2078
         isCached: true
 
-secured: "+wFaXCiwoYYY5CkbkFRYeN5dslXqI/OYdYIYOP24DoSua901eeIkxkIiU12ft43MYOIlpUduWhkAu6aDmBXvS4tj+cWjQF3HOyY16ffmhObGvWahrqnGpVcvnhJtGDuCsHGZXVRJmizwF1h0e4DrOFimUspOYoWW4ZLKMzSDlvknPMi9g6938uHC1T2wBh9QzP6A69sK44WKqM8m1qlwhFtoaHkNxrRtZyrED3TOSsc4uiQ0x/P0H/nIVz4vFmha2Qih0vaLwOLOKYCqVGAipt6lrhQUvXlChwpgN1yfrFA5PP9FtDPeXMMmF70MgfIaA09aFB9IV6ju6TioI8xgylj7q00/fHFoe/uaCOuJiq0=;WxlxSlFtAt8XQu90DOjUQg=="
+secured: "Y6LcfgzUogWnLfN04nRFVfPBfRuQWN9ALXFUKvjd7f6t6km9xgPTVG7mIEXdzzziRHYlEz9CaqD4mp+MoNZJuFlETlOeJSQYnuirV1QxDm63t70ezFXWbWFKUcQEKDHNmVyxipDkZf+LfFRzoJQDgHjHXVjpGvG3RRZvsfW3irpJK35Jzdj4gTCUlwyAkPcfSTnHte3JiysYm+YkVQbX9yev9navhmYKC2B9h2G9G0o0YtPVVxI55vrpZPVVMl7Bem6AYatZ5VtyRKVN9FKVVSUpxTnOhZo3L3UW3340FTPtShYTLU55B5pp23s2TS7GJiWf11LTt9MbGBOEbumg9gLW1eMzTyle6wDoKQIXREM=;knHQHtoJvkS3lCGT0aZwPA=="
 ---
 

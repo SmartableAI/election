@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-kills-trump-plan-for-american
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-kills-trump-plan-for-american-heroes-sculpture-garden-report.amp"
 type: article
 quality: 190
-heat: 410
+heat: 430
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 185
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26e1be5f-4597-488c-bda1-97eb4a713daf/15b5b68a-7a61-4af3-9521-8b1cb29e3ec7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Portland mayor 'grateful' for Biden reversal of Trump order that sent federal agents to city amid protests"
+    excerpt: "Portland, Ore., Mayor Ted Wheeler said on Saturday he was grateful for the White House’s “support” after President Biden reversed the Trump order that allowed federal agents to intervene in Portland’s riots last summer."
+    publishedDateTime: 2021-05-16T09:22:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7yEW-dZkGPk/portland-mayor-grateful-for-biden-reversal-of-trump-order-that-sent-federal-agents-to-city-amid-protests"
+    ampWebUrl: "https://www.foxnews.com/politics/portland-mayor-grateful-for-biden-reversal-of-trump-order-that-sent-federal-agents-to-city-amid-protests.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/portland-mayor-grateful-for-biden-reversal-of-trump-order-that-sent-federal-agents-to-city-amid-protests.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1e65481-ff4e-4766-857b-6e321bc59558/b4376662-4f2d-4bf1-99e3-c371d941d68f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
