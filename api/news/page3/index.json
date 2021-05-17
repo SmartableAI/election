@@ -439,6 +439,62 @@
       ]
     },
     {
+      "path": "_news/2021-05-13-anti-trump-former-gop-officials-readying-threat-to-start-a-third-party-report.md",
+      "title": "Anti-Trump former GOP officials readying threat to start a third party: report",
+      "excerpt": "A group of 100 former Republican officials reportedly will release a letter this week threatening to create a third party if the GOP does not change its course and break from former President Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tpx6Z_QJWCc/100-former-gop-officials-form-third-party",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tpx6Z_QJWCc/100-former-gop-officials-form-third-party",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/720/405/AP20334644546013-e1606925054815.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/100-former-gop-officials-form-third-party.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/100-former-gop-officials-form-third-party.amp",
+      "publishedDateTime": "2021-05-12T17:31:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets.md",
       "title": "Biden calls Netanyahu, says Israel ‘has right to defend itself’ against Hamas rockets",
       "excerpt": "President Biden on Wednesday spoke with Prime Minister Benjamin Netanyahu to reaffirm U.S. support for Israel after a night of bloodshed with civilians in Tel Aviv sheltering from Hamas rockets.",
@@ -1242,25 +1298,25 @@
       ]
     },
     {
-      "path": "_news/2021-05-11-rolling-to-remember-issa-introduces-bill-forcing-biden-to-allow-dc-memorial-day-biker-tradition.md",
-      "title": "Rolling to Remember: Issa introduces bill forcing Biden to allow DC Memorial Day biker tradition",
-      "excerpt": "EXCLUSIVE - Rep. Darrell Issa, R-Calif., introduced a bill on Tuesday to ensure a Memorial Day veterans event with a long history is able continue every year, after the Department of Defense blocked the Rolling to Remember motorcycle rally from staging in the Pentagon parking lot this month.",
+      "path": "_news/2021-05-12-trump-calls-on-us-to-follow-uk-lead-with-voter-id-plans-as-democrats-push-hr1.md",
+      "title": "Trump calls on US to follow UK lead with voter ID plans as Democrats push HR1",
+      "excerpt": "Former President Donald Trump gave his full support Tuesday to British legislation that would require UK voters to show a photo ID in future elections — and called on all US states to follow",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B8hUTR7uvIU/rolling-to-remember-issa-biden-veterans-pentagon",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B8hUTR7uvIU/rolling-to-remember-issa-biden-veterans-pentagon",
+      "webUrl": "https://nypost.com/2021/05/11/trump-wants-us-to-follow-brits-lead-on-voter-photo-id/",
+      "originalUrl": "https://nypost.com/2021/05/11/trump-wants-us-to-follow-brits-lead-on-voter-photo-id/",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 162,
+      "heat": 132,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba409605-554d-476c-b289-4aa191309534/79e7774b-fcda-498a-b91a-dc89ed5125fe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/graham-doubles-down-on-trump-107.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1268,79 +1324,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rolling-to-remember-issa-biden-veterans-pentagon.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rolling-to-remember-issa-biden-veterans-pentagon.amp",
-      "publishedDateTime": "2021-05-11T15:58:42-07:00",
+      "ampWebUrl": "https://nypost.com/2021/05/11/trump-wants-us-to-follow-brits-lead-on-voter-photo-id/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/11/trump-wants-us-to-follow-brits-lead-on-voter-photo-id/amp/",
+      "publishedDateTime": "2021-05-11T16:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-trump-endorses-florida-senate-president-simpson-for-agriculture-commissioner.md",
-      "title": "Trump endorses Florida Senate President Simpson for agriculture commissioner",
-      "excerpt": "Wilton has been a great supporter and worked hard to get many good Conservatives elected in Florida,\" the former president said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/states/florida/story/2021/05/11/trump-endorses-florida-senate-president-simpson-for-agriculture-commissioner-1381379",
-      "originalUrl": "https://www.politico.com/states/florida/story/2021/05/11/trump-endorses-florida-senate-president-simpson-for-agriculture-commissioner-1381379",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/95/ac/7f66be1541e29a09699304d68144/ap21061728747528-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-11T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1351,7 +1342,7 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
+        "Republican Voice"
       ]
     }
   ],

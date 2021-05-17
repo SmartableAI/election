@@ -28,51 +28,101 @@ images:
     isCached: true
 
 related:
-  - title: "Terry McAuliffe criticizes Youngkin for Trump ties, but he has his own"
-    excerpt: "McAuliffe – a former governor of the Old Dominion – released an attack ad against Youngkin on Tuesday targeting the Republican nominee for his ties to the former president, calling Trump a “stain on our democracy.”"
-    publishedDateTime: 2021-05-13T17:17:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tQ94s0q6KXo/virginia-governor-race-mcauliffe-youngkin-trump-ties"
-    ampWebUrl: "https://www.foxnews.com/politics/virginia-governor-race-mcauliffe-youngkin-trump-ties.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-governor-race-mcauliffe-youngkin-trump-ties.amp"
+  - title: "Georgia GOP Lt. Gov. Duncan, a Trump critic, won’t run for reelection in 2022"
+    excerpt: "Republican Lt. Gov. Geoff Duncan of Georgia, a vocal critic of former President Trump, on Monday announced that he won’t seek a second term in office in next year’s elections."
+    publishedDateTime: 2021-05-17T19:57:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TtQyWEd3UYo/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump heading to battleground NC to headline state GOP convention"
+    excerpt: "Former President Trump will attend the North Carolina GOP's state convention in Greenville on June 5 and will speak at the convention dinner, the state party shared first with Fox News."
+    publishedDateTime: 2021-05-17T12:15:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vlEerDedMbA/trump-north-carolina-visit-state-gop-convention"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-north-carolina-visit-state-gop-convention.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-visit-state-gop-convention.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/75dd6f14-59b7-4b8d-8faf-ddd786809088/9ce1732d-00cd-452b-a561-fc52c2c98790/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Terry McAuliffe criticizes Youngkin for Trump ties, but he has his own"
-    excerpt: "McAuliffe – a former governor of the Old Dominion – released an attack ad against Youngkin on Tuesday targeting the Republican nominee for his ties to the former president, calling Trump a “stain on our democracy."
-    publishedDateTime: 2021-05-13T17:17:00Z
-    webUrl: "https://www.foxnews.com/politics/virginia-governor-race-mcauliffe-youngkin-trump-ties"
-    ampWebUrl: "https://www.foxnews.com/politics/virginia-governor-race-mcauliffe-youngkin-trump-ties.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-governor-race-mcauliffe-youngkin-trump-ties.amp"
+  - title: "New anti-Trump group of Republican leaders threatens to leave if GOP doesn't reform"
+    excerpt: "Roughly 150 Republican or former Republican leaders who are opposed to former President Trump’s continued strong grip over the GOP have signed a letter threatening to leave the party if it does not reform and return to its “founding American principles.”"
+    publishedDateTime: 2021-05-13T15:31:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/usr_5NUjM_s/anti-trump-republican-group-mcmullin"
+    ampWebUrl: "https://www.foxnews.com/politics/anti-trump-republican-group-mcmullin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anti-trump-republican-group-mcmullin.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/75dd6f14-59b7-4b8d-8faf-ddd786809088/9ce1732d-00cd-452b-a561-fc52c2c98790/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "VA Gov: McAuliffe Ad Ties GOP Nominee Youngkin To \"Radical\" Trump And Cruz"
-    excerpt: "This ad from Democratic Virginia gubernatorial candidate Terry McAuliffe connects GOP nominee Glenn Youngkin to \"extreme Republicans\" like Sen. Ted Cruz and former President Trump. Retweet if you voted to stop Donald Trump in 2020 and you'll vote to stop Glenn Youngkin in 2021."
-    publishedDateTime: 2021-05-11T19:01:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/11/va_gov_terry_mcauliffe_ad_ties_gop_nominee_glenn_youngkin_to_trump.html"
+  - title: "Graham doubles down on claim GOP can’t move on without Trump"
+    excerpt: "Sen. Lindsey Graham (R-S.C.) sounded a warning Monday night that Republicans who “try to erase” former President Donald Trump from the GOP “are going to wind up getting"
+    publishedDateTime: 2021-05-11T04:24:00Z
+    webUrl: "https://nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/"
+    ampWebUrl: "https://nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/amp/"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 63
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://assets.realclear.com/images/54/542983.jpg"
-        width: 750
-        height: 562
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/graham-doubles-down-on-trump-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "As GOP Wrestles Over Trump, Democrats Run Their Own Risks"
+    excerpt: "The party is trying to turn a thin electoral mandate into an expansive agenda that involves a $6 trillion stimulus, infrastructure and jobs-creation effort that would change the relationship between government and the economy."
+    publishedDateTime: 2021-05-17T12:12:00Z
+    webUrl: "https://www.wsj.com/articles/as-gop-wrestles-over-trump-democrats-run-their-own-risks-11621257137"
+    ampWebUrl: "https://www.wsj.com/amp/articles/as-gop-wrestles-over-trump-democrats-run-their-own-risks-11621257137"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/as-gop-wrestles-over-trump-democrats-run-their-own-risks-11621257137"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-339349/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump to headline North Carolina GOP convention next month"
+    excerpt: "Former president Donald Trump is set to attend the Tar Heel State’s GOP convention in Greenville on Saturday, June 5, before serving as headline speaker for the event’s dinner that"
+    publishedDateTime: 2021-05-17T15:25:00Z
+    webUrl: "https://nypost.com/2021/05/17/trump-to-headline-north-carolina-gop-convention-next-month/"
+    ampWebUrl: "https://nypost.com/2021/05/17/trump-to-headline-north-carolina-gop-convention-next-month/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/17/trump-to-headline-north-carolina-gop-convention-next-month/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-nc-convention-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "JVSGohvIWkHCCigI3I9P0b5BQIGJsZg9He3CXw/wxzHcjDBlXRuG3BV/2bfvASfQDDjAiREYi5QaH1SYMcCcKw2b4gfXugoWyG32LJGL44SQqEOmbYf3cHjppCaJLrNRVcTnnMEgIsLBGG7KodBjUai68o9eu8rWjUlLXyGU/Cv97u6Y9sYeS/YynIFtX9pjH2NOdG53fY3uIhDFdpLeP+EV+m+Or8pMI4an61WSEnSHQ4IwK8qhQSfu9MvpVPVwnBAVmiu8QbDvmTaZno0gqAEt9f/h7VRrDxAaszIBCGpUrx2VtPJRHB5SP7/ceqaMgsuBjKo1DG0KdZ1N0GynBPhrVw950V8VXyko39bA1Bnmb9QtirQ+QRc55P/8v5FvQ9V0lSRtmRMbbBl/ytFnKIGxy/eQ0gc5ylz9MIQC4HUtWHBv0Hremsc/T4A5Rik6H0HZxH2FL/PIB9APoyBw8CnSfoUhf4nDJdtUmqHGqOyJ1lFQgGyTwIZXzDbTZtiedWi6aHcMkSxR4czeoL+A9w==;zYcLKcscYj78W3HxEqugpw=="

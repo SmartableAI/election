@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-18-new-york-times-ripped-for-appearing-to-blame-trump-for-ongoing-violence-between-hamas-and-israel.md",
+      "title": "New York Times ripped for appearing to blame Trump for ongoing violence between Hamas and Israel",
+      "excerpt": "The New York Times was the focus of more criticism over the weekend following an article published Saturday that seemingly blamed former President Trump for the ongoing violence between Hamas and Israel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel",
+      "originalUrl": "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c6b96e4-61b5-4ba4-bdbb-5dbaa6d9987a/c952dcd0-fb20-47d0-8450-b0c6b9b4f393/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp",
+      "publishedDateTime": "2021-05-17T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-trump-jr-praises-anti-cancel-culture-rant-unaware-same-comedian-roasted-his-father-even-better.md",
       "title": "Trump Jr. Praises Anti-Cancel-Culture Rant, Unaware Same Comedian Roasted His Father Even Better",
       "excerpt": "Trump Jr. shared a comedy clip of Jonathan Pie, a fictional news reporter portrayed by British comedian Tom Walker.",
@@ -215,54 +272,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-15-kinzinger-i-guess-i-agree-trump-is-the-leader-of-the-republican-party.md",
-      "title": "Kinzinger: \"I Guess I Agree\" Trump Is The Leader Of The Republican Party",
-      "excerpt": "Rep. Adam Kinzinger told ABC's \"The View\" on Friday that until someone else steps up, he supposes former President Donald Trump is still the leader of the Republican Party. \"Yes, I guess he is the leader of the party at the moment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/05/14/kinzinger_i_guess_i_agree_trump_is_the_leader_of_the_party_because_nobody_is_stepping_up.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/14/kinzinger_i_guess_i_agree_trump_is_the_leader_of_the_party_because_nobody_is_stepping_up.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/543319.jpg",
-          "width": 750,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-15-a-colorado-man-accused-of-murdering-his-wife-told-fbi-agents-that-he-submitted-a-ballot-for-trump-in-her-name-because-the-other-guys-were-cheating.md",
       "title": "A Colorado man accused of murdering his wife told FBI agents that he submitted a ballot for Trump in her name because the 'other guys' were cheating",
       "excerpt": "Barry Morphew was charged with a felony count of forging public documents after telling investigators that he sent in a vote for his missing wife.",
@@ -312,6 +321,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown.md",
+      "title": "Trump Considers Contenders to Be His New Social-Media Outlet After Big Tech Crackdown",
+      "excerpt": "CloutHub and Skylab Apps are among companies vying to work with the former president, who was sidelined by Facebook and Twitter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
+      "originalUrl": "https://www.wsj.com/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-338638/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
+      "publishedDateTime": "2021-05-14T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {
@@ -416,54 +482,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-trump-to-restart-rallies-next-month-as-he-plays-coy-about-2024-run.md",
-      "title": "Trump to restart rallies next month as he plays coy about 2024 run",
-      "excerpt": "Dates and locations have not yet been announced, but a source said the president’s team is in the process of selecting venues for a pair of events in June.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/13/trump-to-restart-rallies-next-month-as-he-plays-coy-about-2024/",
-      "originalUrl": "https://nypost.com/2021/05/13/trump-to-restart-rallies-next-month-as-he-plays-coy-about-2024/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-rallys-to-resume-392.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/13/trump-to-restart-rallies-next-month-as-he-plays-coy-about-2024/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/13/trump-to-restart-rallies-next-month-as-he-plays-coy-about-2024/amp/",
-      "publishedDateTime": "2021-05-13T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {
@@ -971,6 +989,54 @@
       ]
     },
     {
+      "path": "_news/2021-05-12-trump-calls-on-us-to-follow-uk-lead-with-voter-id-plans-as-democrats-push-hr1.md",
+      "title": "Trump calls on US to follow UK lead with voter ID plans as Democrats push HR1",
+      "excerpt": "Former President Donald Trump gave his full support Tuesday to British legislation that would require UK voters to show a photo ID in future elections — and called on all US states to follow",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/11/trump-wants-us-to-follow-brits-lead-on-voter-photo-id/",
+      "originalUrl": "https://nypost.com/2021/05/11/trump-wants-us-to-follow-brits-lead-on-voter-photo-id/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/graham-doubles-down-on-trump-107.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/11/trump-wants-us-to-follow-brits-lead-on-voter-photo-id/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/11/trump-wants-us-to-follow-brits-lead-on-voter-photo-id/amp/",
+      "publishedDateTime": "2021-05-11T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-trump-endorses-florida-senate-president-simpson-for-agriculture-commissioner.md",
       "title": "Trump endorses Florida Senate President Simpson for agriculture commissioner",
       "excerpt": "Wilton has been a great supporter and worked hard to get many good Conservatives elected in Florida,\" the former president said.",
@@ -1088,7 +1154,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1255,
+      "heat": 1275,
       "tags": null,
       "images": [
         {
@@ -1499,58 +1565,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-republicans-look-to-oust-liz-cheney-as-trump-allies-push-election-lie-live.md",
-      "title": "Republicans look to oust Liz Cheney as Trump allies push election lie – live",
-      "excerpt": "Congresswoman all but certain to lose conference chair role because of criticism of Donald Trump – follow all the day’s politics news",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 937,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/13bce181f26a92e2b9fa3dc8dd26a9780f2ce6aa/0_81_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0c4665f52765643b5228bf31bb73b8d3",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live",
-      "publishedDateTime": "2021-05-07T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

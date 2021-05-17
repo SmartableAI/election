@@ -2,19 +2,76 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-17-trump-heading-to-battleground-nc-to-headline-state-gop-convention.md",
-      "title": "Trump heading to battleground NC to headline state GOP convention",
-      "excerpt": "Former President Trump will attend the North Carolina GOP's state convention in Greenville on June 5 and will speak at the convention dinner, the state party shared first with Fox News.",
+      "path": "_news/2021-05-18-new-york-times-ripped-for-appearing-to-blame-trump-for-ongoing-violence-between-hamas-and-israel.md",
+      "title": "New York Times ripped for appearing to blame Trump for ongoing violence between Hamas and Israel",
+      "excerpt": "The New York Times was the focus of more criticism over the weekend following an article published Saturday that seemingly blamed former President Trump for the ongoing violence between Hamas and Israel.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vlEerDedMbA/trump-north-carolina-visit-state-gop-convention",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vlEerDedMbA/trump-north-carolina-visit-state-gop-convention",
+      "webUrl": "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel",
+      "originalUrl": "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c6b96e4-61b5-4ba4-bdbb-5dbaa6d9987a/c952dcd0-fb20-47d0-8450-b0c6b9b4f393/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp",
+      "publishedDateTime": "2021-05-17T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-georgia-gop-lt-gov-duncan-a-trump-critic-wont-run-for-reelection-in-2022.md",
+      "title": "Georgia GOP Lt. Gov. Duncan, a Trump critic, won’t run for reelection in 2022",
+      "excerpt": "Republican Lt. Gov. Geoff Duncan of Georgia, a vocal critic of former President Trump, on Monday announced that he won’t seek a second term in office in next year’s elections.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TtQyWEd3UYo/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TtQyWEd3UYo/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 307,
       "tags": null,
       "images": [
         {
@@ -28,9 +85,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-north-carolina-visit-state-gop-convention.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-visit-state-gop-convention.amp",
-      "publishedDateTime": "2021-05-17T05:15:58-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022.amp",
+      "publishedDateTime": "2021-05-17T12:57:33-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -508,25 +565,25 @@
       ]
     },
     {
-      "path": "_news/2021-05-15-kinzinger-i-guess-i-agree-trump-is-the-leader-of-the-republican-party.md",
-      "title": "Kinzinger: \"I Guess I Agree\" Trump Is The Leader Of The Republican Party",
-      "excerpt": "Rep. Adam Kinzinger told ABC's \"The View\" on Friday that until someone else steps up, he supposes former President Donald Trump is still the leader of the Republican Party. \"Yes, I guess he is the leader of the party at the moment.",
+      "path": "_news/2021-05-14-trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown.md",
+      "title": "Trump Considers Contenders to Be His New Social-Media Outlet After Big Tech Crackdown",
+      "excerpt": "CloutHub and Skylab Apps are among companies vying to work with the former president, who was sidelined by Facebook and Twitter.",
       "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/05/14/kinzinger_i_guess_i_agree_trump_is_the_leader_of_the_party_because_nobody_is_stepping_up.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/14/kinzinger_i_guess_i_agree_trump_is_the_leader_of_the_party_because_nobody_is_stepping_up.html",
+      "webUrl": "https://www.wsj.com/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
+      "originalUrl": "https://www.wsj.com/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 84,
+      "heat": 128,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.realclear.com/images/54/543319.jpg",
-          "width": 750,
-          "height": 562,
+          "url": "https://images.wsj.net/im-338638/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -534,14 +591,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T12:44:00-07:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
+      "publishedDateTime": "2021-05-14T09:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -726,54 +792,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-14-trump-to-restart-rallies-next-month-as-he-plays-coy-about-2024-run.md",
-      "title": "Trump to restart rallies next month as he plays coy about 2024 run",
-      "excerpt": "Dates and locations have not yet been announced, but a source said the president’s team is in the process of selecting venues for a pair of events in June.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/13/trump-to-restart-rallies-next-month-as-he-plays-coy-about-2024/",
-      "originalUrl": "https://nypost.com/2021/05/13/trump-to-restart-rallies-next-month-as-he-plays-coy-about-2024/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-rallys-to-resume-392.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/13/trump-to-restart-rallies-next-month-as-he-plays-coy-about-2024/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/13/trump-to-restart-rallies-next-month-as-he-plays-coy-about-2024/amp/",
-      "publishedDateTime": "2021-05-13T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-13-pelosi-says-she-has-confidence-in-harris-addressing-root-cause-of-border-crisis.md",
       "title": "Pelosi says she has confidence in Harris addressing root cause of border crisis",
       "excerpt": "House Speaker Nancy Pelosi said Thursday she has confidence in Vice President Kamala Harris' ability to address the root causes of the border crisis and touted progress the Biden Administration has already made to \"reconstruct\" the immigration system. ",
@@ -891,7 +909,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1263,6 +1281,62 @@
       ]
     },
     {
+      "path": "_news/2021-05-13-anti-trump-former-gop-officials-readying-threat-to-start-a-third-party-report.md",
+      "title": "Anti-Trump former GOP officials readying threat to start a third party: report",
+      "excerpt": "A group of 100 former Republican officials reportedly will release a letter this week threatening to create a third party if the GOP does not change its course and break from former President Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tpx6Z_QJWCc/100-former-gop-officials-form-third-party",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tpx6Z_QJWCc/100-former-gop-officials-form-third-party",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/720/405/AP20334644546013-e1606925054815.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/100-former-gop-officials-form-third-party.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/100-former-gop-officials-form-third-party.amp",
+      "publishedDateTime": "2021-05-12T17:31:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets.md",
       "title": "Biden calls Netanyahu, says Israel ‘has right to defend itself’ against Hamas rockets",
       "excerpt": "President Biden on Wednesday spoke with Prime Minister Benjamin Netanyahu to reaffirm U.S. support for Israel after a night of bloodshed with civilians in Tel Aviv sheltering from Hamas rockets.",
@@ -1572,62 +1646,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/democrat-del-rio-texas-mayor-border-wide-open-biden.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrat-del-rio-texas-mayor-border-wide-open-biden.amp",
       "publishedDateTime": "2021-05-12T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-rolling-to-remember-issa-introduces-bill-forcing-biden-to-allow-dc-memorial-day-biker-tradition.md",
-      "title": "Rolling to Remember: Issa introduces bill forcing Biden to allow DC Memorial Day biker tradition",
-      "excerpt": "EXCLUSIVE - Rep. Darrell Issa, R-Calif., introduced a bill on Tuesday to ensure a Memorial Day veterans event with a long history is able continue every year, after the Department of Defense blocked the Rolling to Remember motorcycle rally from staging in the Pentagon parking lot this month.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B8hUTR7uvIU/rolling-to-remember-issa-biden-veterans-pentagon",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B8hUTR7uvIU/rolling-to-remember-issa-biden-veterans-pentagon",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba409605-554d-476c-b289-4aa191309534/79e7774b-fcda-498a-b91a-dc89ed5125fe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rolling-to-remember-issa-biden-veterans-pentagon.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rolling-to-remember-issa-biden-veterans-pentagon.amp",
-      "publishedDateTime": "2021-05-11T15:58:42-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

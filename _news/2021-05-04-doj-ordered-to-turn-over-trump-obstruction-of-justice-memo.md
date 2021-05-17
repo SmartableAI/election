@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trum
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp"
 type: article
 quality: 175
-heat: 775
+heat: 755
 published: true
 
 provider:
@@ -398,22 +398,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b021ab2-998c-4f09-9fb6-e347f124957d/398faa53-b1b8-48f4-9167-171d2479b5d4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Graham doubles down on claim GOP can’t move on without Trump"
-    excerpt: "Sen. Lindsey Graham (R-S.C.) sounded a warning Monday night that Republicans who “try to erase” former President Donald Trump from the GOP “are going to wind up getting"
-    publishedDateTime: 2021-05-11T04:24:00Z
-    webUrl: "https://nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/"
-    ampWebUrl: "https://nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/graham-doubles-down-on-trump-index.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Trump Justice Department Obstruction Memo Must Be Released, Judge Orders"
     excerpt: "A federal judge said the agency improperly characterized as privileged a 2019 memo, prepared after Mueller report was done, recommending against prosecuting Trump for obstruction of justice."

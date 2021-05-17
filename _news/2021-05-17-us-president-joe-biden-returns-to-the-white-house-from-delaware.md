@@ -296,18 +296,18 @@ related:
         height: 478
         isCached: true
   - title: "President Joe Biden gives update on Covid-19 at White House"
-    excerpt: "President Joe Biden walks away after he gave remarks on the new Covid-19 Centers for Disease Control mask guidelines in the Rose Garden, at the White House in Washington, DC on Thursday, May 13, 2021."
+    excerpt: "President Joe Biden gives remarks on the new Covid-19 Centers for Disease Control mask guidelines in the Rose Garden, at the White House in Washington, DC on Thursday, May 13, 2021. Fully vaccinated people no longer need to wear a face mask or stay six feet away from others in most settings,"
     publishedDateTime: 2021-05-16T07:10:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/aed07b72c5e5e3ddcfb314104aec0451/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/5cc52bcc04e415b78cda9942e09e3771/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/aed07b72c5e5e3ddcfb314104aec0451/BIDEN-COVID.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/5cc52bcc04e415b78cda9942e09e3771/BIDEN-COVID.jpg"
         width: 650
-        height: 446
+        height: 433
         isCached: true
 
 secured: "cWc6sMrnCHk8niP6z661Qy2ebPeG5+jgTQj8DvRXKUkOwKhr9wiLqtL+d0cVG/+9nzivBk7a8MfT1YnAH4IQ1NdWjGzqmTXfZAMIVAiofNdwUsQW+Ly83X7xaOAxh3I0QVeFYZeaVNoK83u+Ix/Ed4DGm6izrQ7itm5lJNzqKTJPXquLbqFTFERAtpvXifvv+zF42gALjQs8cYokJiWsc8TrxqHQldnTNIa5CqkE2UqorJKtB14Km/DhdoUtbZh5MzNLJGcCAuWz+ohldsSqGv0D9ooFQW5lPcB9C583zrP/bSabZ7xLEsAnATk6oQ5MXMwuSeS1c57a7nOiyp1wGcQ296/Um68x/vAMb36IFlY1UJQBsSQcpqIpXepecmGCgCqmVj8HBEqxDOk/Zx1eqDpUuLpHaMUgSGzPPfuHqgPJZoiyIyVASGSz+2oO+/WZq1groVktM4jIYUeZ2WGBbn9suz9ujxkdcEaH6/Lco/MGJeAyUV+dzp/rzP0kRifLrNiDvvx/r/znPG7b+qOyCA==;gP2uzcNb85kJAqUmRBpQTQ=="

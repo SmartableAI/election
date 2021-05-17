@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/100-former-gop-officials-form-third
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/100-former-gop-officials-form-third-party.amp"
 type: article
 quality: 171
-heat: -1
-published: false
+heat: 231
+published: true
 
 provider:
   name: Fox News
@@ -31,67 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump heading to battleground NC to headline state GOP convention"
-    excerpt: "Former President Trump will attend the North Carolina GOP's state convention in Greenville on June 5 and will speak at the convention dinner, the state party shared first with Fox News."
-    publishedDateTime: 2021-05-17T12:15:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vlEerDedMbA/trump-north-carolina-visit-state-gop-convention"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-north-carolina-visit-state-gop-convention.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-visit-state-gop-convention.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "New anti-Trump group of Republican leaders threatens to leave if GOP doesn't reform"
-    excerpt: "Roughly 150 Republican or former Republican leaders who are opposed to former President Trump’s continued strong grip over the GOP have signed a letter threatening to leave the party if it does not reform and return to its “founding American principles.”"
-    publishedDateTime: 2021-05-13T15:31:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/usr_5NUjM_s/anti-trump-republican-group-mcmullin"
-    ampWebUrl: "https://www.foxnews.com/politics/anti-trump-republican-group-mcmullin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anti-trump-republican-group-mcmullin.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "As GOP Wrestles Over Trump, Democrats Run Their Own Risks"
-    excerpt: "The party is trying to turn a thin electoral mandate into an expansive agenda that involves a $6 trillion stimulus, infrastructure and jobs-creation effort that would change the relationship between government and the economy."
-    publishedDateTime: 2021-05-17T12:12:00Z
-    webUrl: "https://www.wsj.com/articles/as-gop-wrestles-over-trump-democrats-run-their-own-risks-11621257137"
-    ampWebUrl: "https://www.wsj.com/amp/articles/as-gop-wrestles-over-trump-democrats-run-their-own-risks-11621257137"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/as-gop-wrestles-over-trump-democrats-run-their-own-risks-11621257137"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-339349/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump to headline North Carolina GOP convention next month"
-    excerpt: "Former president Donald Trump is set to attend the Tar Heel State’s GOP convention in Greenville on Saturday, June 5, before serving as headline speaker for the event’s dinner that"
-    publishedDateTime: 2021-05-17T15:25:00Z
-    webUrl: "https://nypost.com/2021/05/17/trump-to-headline-north-carolina-gop-convention-next-month/"
-    ampWebUrl: "https://nypost.com/2021/05/17/trump-to-headline-north-carolina-gop-convention-next-month/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/17/trump-to-headline-north-carolina-gop-convention-next-month/amp/"
+  - title: "Trump to restart rallies next month as he plays coy about 2024 run"
+    excerpt: "Dates and locations have not yet been announced, but a source said the president’s team is in the process of selecting venues for a pair of events in June."
+    publishedDateTime: 2021-05-13T22:17:00Z
+    webUrl: "https://nypost.com/2021/05/13/trump-to-restart-rallies-next-month-as-he-plays-coy-about-2024/"
+    ampWebUrl: "https://nypost.com/2021/05/13/trump-to-restart-rallies-next-month-as-he-plays-coy-about-2024/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/13/trump-to-restart-rallies-next-month-as-he-plays-coy-about-2024/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-nc-convention-01.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-rallys-to-resume-392.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -110,6 +62,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b3de231-0253-47db-9659-fe25e09c33a8/d3471f7c-0250-4dd5-91ac-399d411db6f6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Kinzinger: \"I Guess I Agree\" Trump Is The Leader Of The Republican Party"
+    excerpt: "Rep. Adam Kinzinger told ABC's \"The View\" on Friday that until someone else steps up, he supposes former President Donald Trump is still the leader of the Republican Party. \"Yes, I guess he is the leader of the party at the moment."
+    publishedDateTime: 2021-05-14T19:44:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/14/kinzinger_i_guess_i_agree_trump_is_the_leader_of_the_party_because_nobody_is_stepping_up.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 64
+    images:
+      - url: "https://assets.realclear.com/images/54/543319.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "sr/O5lA5ZEn3OwCe06zMvV6c2QQR3KuaA0bWcyPwbo0qZFHl1HmrUgIFTTn8muIunlvtRQAPm14UIYMTdbPQkHrlNfpSSRnUBnttIndcTueP6oRANN8O8VSv4hxk3fsaQYRPTYPV7LLiB0dFi7qzlAiYgV9U6DrnUzTN97NVZ014BbCpjdlF7d3JeSKQvWRtFF89d8WD33WmRL/1zar2laPP3ORVXAiYXKEFadUKxlAkj9YwD5R9cCy77O19vTUJVZUeorptY2/2ufLwqhclLABHIhjmJpKFCj1Z7veS6cgrztCG9QzZtV1dqtNEGSk/IbGx3strPIwCKkoBapIDKBG6utm1jqK/lINgDu4XcYg=;HGVlqTNkiHUMh0yQi4SwAA=="

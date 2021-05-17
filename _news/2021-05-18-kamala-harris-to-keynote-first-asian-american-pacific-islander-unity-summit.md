@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
 type: article
 quality: 72
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: UPI.com
@@ -28,20 +28,20 @@ images:
 
 related:
   - title: "VP Harris meets with Congressional Hispanic Caucus"
-    excerpt: "Vice President Kamala Harris speaks ahead of a meeting with the Congressional Hispanic Caucus in the VP's Ceremonial Office in the Eisenhower Executive Office Building in Washington, DC on Monday, May 17,"
-    publishedDateTime: 2021-05-17T19:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/6397875ac3ff0bbd3165b7c958d8350b/VP-Harris-meets-with-Congressional-Hispanic-Caucus/"
+    excerpt: "Vice President Kamala Harris met with members of the Congressional Hispanic Caucus to discuss the coronavirus pandemic, immigration and other issues on Monday. (May 17)"
+    publishedDateTime: 2021-05-17T21:30:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-meets-congressional-hispanic-caucus/5136267001/"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://cdnph.upi.com/pv/upi/6397875ac3ff0bbd3165b7c958d8350b/USA-HARRIS-HISPANIC.jpg"
-        width: 650
-        height: 433
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/31c81e80-1f86-4c01-a851-13513731248c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
-secured: "og2zWlaTj7inDIKxQ810gTzzPzeSSYFAsb60TVcW81OQuzPHoDAR20bW9w80T6uQcpHZUB3mkfTfAW5z+FOp3GAXm4ojpTg8w2LRA6i6HED5TceFKNtBzil0xb5zZC3Ee7saME9U14x2GGBbT2tLllEX7gnxKxxqBtRanvToIyJWnxUQ7LC5ppPyNT3CMo88yDHA0S5fP9HvDXoEIGRfYcFb42FtkIpdRPNwQ9AuFw7oGUM5+Giq1ITAAZzer2zHTiePNAPuBeYG2eQcLQgyF2/FEyNSaAlItXf1ul7LCk4zGpnftNgY2PJboLKImwEETPt5UE8K4JtGSdXKxLDN5bBnTYKAieG7t2g4Jwgc88Q=;g2JLzifmWjeVjatkvCBxGw=="
+secured: "GGiQ3jyKRboYERMrJv5y1wbzz+7Ild9hcg26lsfKqm6oCz4/QGtEdsHbDZR4bklEpSmxoQTsCiNM8Hr0nSfQg9h4EUZ34qxT1WM6P90v0brNUVeZNixczVhRB+oRtDoxgMUPI+FInAqsBRqCKPBM3ZI7NjEhADPCqTq6p6SgZSdwAVLQPpHzAKnNazhwy2i4KiWXcybvnF9Pi7cA9by1KCF3wEoUo/dStfpOJ3ZW5mn91zmqiia7dq3n3fWfxodBlU57oYaxXJG2i6axOxheqEmqDzGYnvN7hjuryiJocMr4rGT+bOcBri/n5LUmD96jJ+j4HsUFa2qkm+NL5KxTlsk0FIamgCTu7LQf3UaWNGISvUsJ3wbZiT1yQwE3j01A14xBi64mHlcbT/PyU9m09HXZeMYKF8r+975m7MU2zznk4YRYZ9juIRfy4qglV7yylQSxfahkOzv+N8Suef9FGwiLZ/0glEUJkIJDSQnWJJn+ZCAcpW9Nhy85TZKTXKbvOmRcJ5DNQ1CZpiI5Go0S1g==;8TzUFL27y6Km6hpg3fBlXg=="
 ---
 

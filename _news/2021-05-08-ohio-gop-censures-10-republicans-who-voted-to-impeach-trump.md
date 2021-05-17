@@ -729,6 +729,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "When Will Joe Biden Release His Tax Return? President Revives Tradition That Donald Trump Ignored"
+    excerpt: "Joe Biden is set to revive the tradition of publishing the president's finances. Donald Trump is the only president since Watergate to refuse the tradition."
+    publishedDateTime: 2021-05-17T21:09:00Z
+    webUrl: "https://www.ibtimes.com/when-will-joe-biden-release-his-tax-return-president-revives-tradition-donald-trump-3201077"
+    ampWebUrl: "https://www.ibtimes.com/when-will-joe-biden-release-his-tax-return-president-revives-tradition-donald-trump-3201077?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/when-will-joe-biden-release-his-tax-return-president-revives-tradition-donald-trump-3201077?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 77
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/16/us-president-joe-biden-highlighted-his-support-for.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Cheney: Trump, GOP supporters on a ‘crusade to undermine our democracy’"
     excerpt: "Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, accusing former President Donald Trump and his GOP supporters of following a path that would “undermine our democracy.” On the eve of a closed-door meeting when House Republicans seem certain to oust her from a leadership post because of her clashes with the former president,"
     publishedDateTime: 2021-05-12T03:35:00Z

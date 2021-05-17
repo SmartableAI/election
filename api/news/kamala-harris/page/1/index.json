@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-18-kamala-harris-to-keynote-first-asian-american-pacific-islander-unity-summit.md",
-      "title": "Kamala Harris to keynote first Asian American, Pacific Islander unity summit",
-      "excerpt": "Vice President Kamala Harris will keynote the first unity summit for Asian Americans and Pacific Islanders on Wednesday.",
+      "path": "_news/2021-05-18-vp-harris-meets-with-congressional-hispanic-caucus.md",
+      "title": "VP Harris meets with Congressional Hispanic Caucus",
+      "excerpt": "Vice President Kamala Harris met with members of the Congressional Hispanic Caucus to discuss the coronavirus pandemic, immigration and other issues on Monday. (May 17)",
       "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/",
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-meets-congressional-hispanic-caucus/5136267001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-meets-congressional-hispanic-caucus/5136267001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 125,
       "tags": null,
       "images": [
         {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/3521621268936/2021/1/dcf14d32301c165911ccb7e179718d61/v1.5/Kamala-Harris-to-keynote-first-Asian-American-Pacific-Islander-unity-summit.jpg",
-          "width": 800,
-          "height": 533,
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/31c81e80-1f86-4c01-a851-13513731248c_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/",
-      "publishedDateTime": "2021-05-17T11:34:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T14:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -993,7 +1002,7 @@
       "originalUrl": "https://thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1830,
+      "heat": 1850,
       "tags": null,
       "images": [
         {

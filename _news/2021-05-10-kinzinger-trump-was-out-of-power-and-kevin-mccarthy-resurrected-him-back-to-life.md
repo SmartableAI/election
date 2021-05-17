@@ -7,7 +7,7 @@ originalUrl: "https://www.realclearpolitics.com/video/2021/05/10/kinzinger_trump
 webUrl: "https://www.realclearpolitics.com/video/2021/05/10/kinzinger_trump_was_out_of_power_and_kevin_mccarthy_resurrected_him_back_to_life.html#!"
 type: article
 quality: 58
-heat: -1
+heat: 58
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 750
     height: 562
     isCached: true
-
-related:
-  - title: "Kinzinger: \"I Guess I Agree\" Trump Is The Leader Of The Republican Party"
-    excerpt: "Rep. Adam Kinzinger told ABC's \"The View\" on Friday that until someone else steps up, he supposes former President Donald Trump is still the leader of the Republican Party. \"Yes, I guess he is the leader of the party at the moment."
-    publishedDateTime: 2021-05-14T19:44:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/14/kinzinger_i_guess_i_agree_trump_is_the_leader_of_the_party_because_nobody_is_stepping_up.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 64
-    images:
-      - url: "https://assets.realclear.com/images/54/543319.jpg"
-        width: 750
-        height: 562
-        isCached: true
 
 secured: "9Bs6/FjrrLt4zdzjEa5ENBNNsAx4XGB+a+7Eyset7JBPPAs6U8cL0vDMbphwtzgkoTKyOhgt/a0qv3nKFF3oixyj7iwknnue+zUujZyAJkcS5YCZV+miUd0h9m2pDeJh9gTLaskzeOS2+Uu49LMQP4rFO1AcUYI7SAujZqEkOp9lexY73lQL6jWl17PYH5d1aTcyCoMn4i3FD1VFo7641F6I2lykS02jGSyD7sLB/7y6/M8rlv4H7vjaPLMFC7LVybN/YP5+RZB8D/VxbagB0DJruuvEqlpx0YltDgqPTZkBHar7VrQNDlH0e01VDo9WqiMznIKg6M2LzajUf3/RdggocGHuAOKUj1POkSAzf2iSmqva4PHt6//IGvtOLJ8K1SK5Nr26/PfwAlDCKU/uZlrwpvfBPqwDho6/QendezDboVAdsE6qukPkbaFd/Gfv+myEaPKiEuu1WpqwFrv4HCXejiA/Yo+XgMsNBDmJYJgxfpE2sXnJi8MVornjW71t8HTnNGT78PN88TiBa5BAdA==;zODfVOWImE4PZgXAM+rsEA=="
 ---

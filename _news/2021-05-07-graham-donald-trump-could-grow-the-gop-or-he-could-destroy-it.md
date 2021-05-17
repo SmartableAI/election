@@ -412,22 +412,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Graham doubles down on claim GOP can’t move on without Trump"
-    excerpt: "Sen. Lindsey Graham (R-S.C.) sounded a warning Monday night that Republicans who “try to erase” former President Donald Trump from the GOP “are going to wind up getting"
-    publishedDateTime: 2021-05-11T04:24:00Z
-    webUrl: "https://nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/"
-    ampWebUrl: "https://nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/graham-doubles-down-on-trump-index.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Trump Justice Department Obstruction Memo Must Be Released, Judge Orders"
     excerpt: "A federal judge said the agency improperly characterized as privileged a 2019 memo, prepared after Mueller report was done, recommending against prosecuting Trump for obstruction of justice."
     publishedDateTime: 2021-05-05T15:54:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-north-carolina-visit-state-go
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-visit-state-gop-convention.amp"
 type: article
 quality: 175
-heat: 275
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Anti-Trump former GOP officials readying threat to start a third party: report"
-    excerpt: "A group of 100 former Republican officials reportedly will release a letter this week threatening to create a third party if the GOP does not change its course and break from former President Trump."
-    publishedDateTime: 2021-05-13T00:31:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tpx6Z_QJWCc/100-former-gop-officials-form-third-party"
-    ampWebUrl: "https://www.foxnews.com/politics/100-former-gop-officials-form-third-party.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/100-former-gop-officials-form-third-party.amp"
+  - title: "Georgia GOP Lt. Gov. Duncan, a Trump critic, won’t run for reelection in 2022"
+    excerpt: "Republican Lt. Gov. Geoff Duncan of Georgia, a vocal critic of former President Trump, on Monday announced that he won’t seek a second term in office in next year’s elections."
+    publishedDateTime: 2021-05-17T19:57:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TtQyWEd3UYo/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 187
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/720/405/AP20334644546013-e1606925054815.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "New anti-Trump group of Republican leaders threatens to leave if GOP doesn't reform"
     excerpt: "Roughly 150 Republican or former Republican leaders who are opposed to former President Trump’s continued strong grip over the GOP have signed a letter threatening to leave the party if it does not reform and return to its “founding American principles.”"
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Graham doubles down on claim GOP can’t move on without Trump"
+    excerpt: "Sen. Lindsey Graham (R-S.C.) sounded a warning Monday night that Republicans who “try to erase” former President Donald Trump from the GOP “are going to wind up getting"
+    publishedDateTime: 2021-05-11T04:24:00Z
+    webUrl: "https://nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/"
+    ampWebUrl: "https://nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/graham-doubles-down-on-trump-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "As GOP Wrestles Over Trump, Democrats Run Their Own Risks"
     excerpt: "The party is trying to turn a thin electoral mandate into an expansive agenda that involves a $6 trillion stimulus, infrastructure and jobs-creation effort that would change the relationship between government and the economy."
@@ -95,21 +111,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Media hypes anti-Trump alliance threatening to launch 3rd party led by panned 'Anonymous' ex-Trump staffer"
-    excerpt: "The media has found a new anti-Republican narrative to obsess over despite the fact that Democrats now control the White House and both chambers of Congress"
-    publishedDateTime: 2021-05-14T02:36:00Z
-    webUrl: "https://www.foxnews.com/media/media-hypes-anti-trump-alliance-threatening-to-launch-new-party-led-by-panned-anonymous-ex-trump-staffer"
-    ampWebUrl: "https://www.foxnews.com/media/media-hypes-anti-trump-alliance-threatening-to-launch-new-party-led-by-panned-anonymous-ex-trump-staffer.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-hypes-anti-trump-alliance-threatening-to-launch-new-party-led-by-panned-anonymous-ex-trump-staffer.amp"
+  - title: "Bet On It. Trump Is Running."
+    excerpt: "President Donald Trump wants to run for president in 2024, and so he shall. The story some Republicans like to tell themselves -- that Trump will not run again for the White House because he knows he can't win and he's smart enough to see the glory in being a GOP kingmaker -- is wishful thinking."
+    publishedDateTime: 2021-05-16T10:18:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/05/16/bet_on_it_trump_is_running_145756.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/16/bet_on_it_trump_is_running_145756.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/16/bet_on_it_trump_is_running_145756.amp.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 117
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b3de231-0253-47db-9659-fe25e09c33a8/d3471f7c-0250-4dd5-91ac-399d411db6f6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://assets.realclear.com/images/53/531398_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "BE/ZpgmuYRS9jk83Lb1UlaCXOV2efVIWgMeRJ6qMXQvvWXNjRi+866p9cMLDF1y6Eqffj3mXcSPUemKkiBql81g1mAqixuzFDyu5MBVseSdTAtOlt8KxOLhILHH/6OSj6hTzwzEaC96Sdattd7+pnKKbXE/CIXfS5Wb4DP97HgE/ITeZo65/HuXu/7fUR0DeaMwV9HZM6oGlpY1h7z7T1oDyX7BcE8zoLu/xQuY2qWjXNuF8lsdCCd4i8d/PGd3bDoCpvmwh9sY7VLD4c4EWJwr/ulFo3SALMsVJvocszPfJYaH4IYLalJAhugw7deIwpkA4kI+zf2hceVz4VLBkKaOklrsDTHzUVKnjuF6SxZs=;5rUvcAOUq0i7tDD5P7VGuQ=="

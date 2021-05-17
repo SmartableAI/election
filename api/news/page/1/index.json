@@ -2,6 +2,171 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-18-vp-harris-meets-with-congressional-hispanic-caucus.md",
+      "title": "VP Harris meets with Congressional Hispanic Caucus",
+      "excerpt": "Vice President Kamala Harris met with members of the Congressional Hispanic Caucus to discuss the coronavirus pandemic, immigration and other issues on Monday. (May 17)",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-meets-congressional-hispanic-caucus/5136267001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-meets-congressional-hispanic-caucus/5136267001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/31c81e80-1f86-4c01-a851-13513731248c_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-new-york-times-ripped-for-appearing-to-blame-trump-for-ongoing-violence-between-hamas-and-israel.md",
+      "title": "New York Times ripped for appearing to blame Trump for ongoing violence between Hamas and Israel",
+      "excerpt": "The New York Times was the focus of more criticism over the weekend following an article published Saturday that seemingly blamed former President Trump for the ongoing violence between Hamas and Israel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel",
+      "originalUrl": "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c6b96e4-61b5-4ba4-bdbb-5dbaa6d9987a/c952dcd0-fb20-47d0-8450-b0c6b9b4f393/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp",
+      "publishedDateTime": "2021-05-17T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-georgia-gop-lt-gov-duncan-a-trump-critic-wont-run-for-reelection-in-2022.md",
+      "title": "Georgia GOP Lt. Gov. Duncan, a Trump critic, won’t run for reelection in 2022",
+      "excerpt": "Republican Lt. Gov. Geoff Duncan of Georgia, a vocal critic of former President Trump, on Monday announced that he won’t seek a second term in office in next year’s elections.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TtQyWEd3UYo/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TtQyWEd3UYo/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 307,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gop-lt-gov-duncan-wont-run-for-re-election-in-2022.amp",
+      "publishedDateTime": "2021-05-17T12:57:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-biden-to-working-families-help-is-here.md",
       "title": "Biden to working families: 'Help is here'",
       "excerpt": "President Joe Biden says a new child tax credit “sends a clear and powerful message to American workers, working families with children: Help is here.\" 39 million families are set to receive monthly child payments beginning in July.",
@@ -107,49 +272,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-kamala-harris-to-keynote-first-asian-american-pacific-islander-unity-summit.md",
-      "title": "Kamala Harris to keynote first Asian American, Pacific Islander unity summit",
-      "excerpt": "Vice President Kamala Harris will keynote the first unity summit for Asian Americans and Pacific Islanders on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/3521621268936/2021/1/dcf14d32301c165911ccb7e179718d61/v1.5/Kamala-Harris-to-keynote-first-Asian-American-Pacific-Islander-unity-summit.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/",
-      "publishedDateTime": "2021-05-17T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {
@@ -259,62 +381,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-trump-heading-to-battleground-nc-to-headline-state-gop-convention.md",
-      "title": "Trump heading to battleground NC to headline state GOP convention",
-      "excerpt": "Former President Trump will attend the North Carolina GOP's state convention in Greenville on June 5 and will speak at the convention dinner, the state party shared first with Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vlEerDedMbA/trump-north-carolina-visit-state-gop-convention",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vlEerDedMbA/trump-north-carolina-visit-state-gop-convention",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-north-carolina-visit-state-gop-convention.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-visit-state-gop-convention.amp",
-      "publishedDateTime": "2021-05-17T05:15:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -1299,58 +1365,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-biden-sets-a-tuesday-deadline-for-the-gop-to-bring-him-an-infrastructure-counterproposal.md",
-      "title": "Biden sets a Tuesday deadline for the GOP to bring him an infrastructure counterproposal",
-      "excerpt": "After a week of bipartisan meetings, Biden wants the GOP to expand on their $568 billion infrastructure counterproposal, and he wants to see it soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/infrastructure-gop-plan-biden-counter-proposal-tuesday-deadline-2021-5",
-      "originalUrl": "https://www.businessinsider.com/infrastructure-gop-plan-biden-counter-proposal-tuesday-deadline-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6085739e0da8f40018033533?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/infrastructure-gop-plan-biden-counter-proposal-tuesday-deadline-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/infrastructure-gop-plan-biden-counter-proposal-tuesday-deadline-2021-5?amp",
-      "publishedDateTime": "2021-05-14T16:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

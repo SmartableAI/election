@@ -1,27 +1,31 @@
 ---
 category: news
 title: "VP Harris meets with Congressional Hispanic Caucus"
-excerpt: "Vice President Kamala Harris speaks ahead of a meeting with the Congressional Hispanic Caucus in the VP's Ceremonial Office in the Eisenhower Executive Office Building in Washington, DC on Monday, May 17,"
-publishedDateTime: 2021-05-17T19:13:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/6397875ac3ff0bbd3165b7c958d8350b/VP-Harris-meets-with-Congressional-Hispanic-Caucus/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/6397875ac3ff0bbd3165b7c958d8350b/VP-Harris-meets-with-Congressional-Hispanic-Caucus/"
+excerpt: "Vice President Kamala Harris met with members of the Congressional Hispanic Caucus to discuss the coronavirus pandemic, immigration and other issues on Monday. (May 17)"
+publishedDateTime: 2021-05-17T21:30:00Z
+originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-meets-congressional-hispanic-caucus/5136267001/"
+webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-meets-congressional-hispanic-caucus/5136267001/"
 type: article
-quality: 55
-heat: -1
-published: false
+quality: 105
+heat: 125
+published: true
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/6397875ac3ff0bbd3165b7c958d8350b/USA-HARRIS-HISPANIC.jpg"
-    width: 650
-    height: 433
+  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/31c81e80-1f86-4c01-a851-13513731248c_poster.jpg?quality=10"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -42,6 +46,6 @@ related:
         height: 533
         isCached: true
 
-secured: "KEbacmAXUf52LTr+oGIO8CU/5qGzgFod5svvuXJbM+rflcKRMzX97wUuygPFXkvlKDtoyWuCMMUu46EWWQexP9pviM0q8CEjCrFzxiXOQUVSzEA8fz64GUJMZTQwPrwk76OWl9zuExyMQHPUaBQxVg1CbAOTWBV8gDSvJ61nnYivXK/pm7Xg2t0F6gt3phfokzIvKCUK+JG53cKZFDiQzuYcCvlI72n4RJUDgHjvPk44gvMAhsGLub/JFjQjUZM3MQ6S8xfgV6EogYzpZ9qpR7ydNev/lzNXsIaAx1GYeQmgvBPQ7eDtQeDDjgHv0868m0Vs0X7Lb3wQ61/738REJXirLbnYoTMyNAUdXYDrvmc=;2ij+yvvwAWzqyETLghqbWA=="
+secured: "+/Gw6hCxMeP7hBuB7aDhzxISNRgnk9uhHMZEwrexQ4Dzrm9KzCJ0GIe+oiBWTglk17zwDVK+2iXLFX1xDikt6U0+uQa41Zk+I540CbUGRGpkY8PBi5v4ppPO5xL72zcbvyZ9pjgUAJhdeEV9KZV2aiA9JGQ9EElk5b3y05fAHea/aFXwPZY5PjDMq8Nt9PZV417i4PbygRAHoNkQdjPehRBQcpKqjyLu9Ru9TQQOxjn0CjqcozSM4ZI4XSA6nBnhkLGF0kFntZqrb0OeuNfCdvfOB48FBDREjDUQaTgCeBjnwFA1GUKJ4MhW9eTA01K/YGzDuUNRZmELVFeOPHoz3JGKVV/SFfLNwyGOfSK3MqI=;cAZnM9tb6EMvH7aecweokw=="
 ---
 

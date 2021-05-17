@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/british-elections-send-a-mes
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 1255
+heat: 1275
 published: true
 
 provider:
@@ -716,6 +716,22 @@ related:
       - url: "https://www.nydailynews.com/resizer/pmah39pAQobXi2Tqn8PnO6mozZw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ERS3NK4GLVFG3EP7ARMBZN3FSI.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "When Will Joe Biden Release His Tax Return? President Revives Tradition That Donald Trump Ignored"
+    excerpt: "Joe Biden is set to revive the tradition of publishing the president's finances. Donald Trump is the only president since Watergate to refuse the tradition."
+    publishedDateTime: 2021-05-17T21:09:00Z
+    webUrl: "https://www.ibtimes.com/when-will-joe-biden-release-his-tax-return-president-revives-tradition-donald-trump-3201077"
+    ampWebUrl: "https://www.ibtimes.com/when-will-joe-biden-release-his-tax-return-president-revives-tradition-donald-trump-3201077?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/when-will-joe-biden-release-his-tax-return-president-revives-tradition-donald-trump-3201077?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 77
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/16/us-president-joe-biden-highlighted-his-support-for.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Ohio GOP censures 10 Republicans who voted to impeach Trump"
     excerpt: "The Ohio Republican Party censured U.S. Rep. Anthony Gonzalez and nine other GOP representatives Friday for voting in February to impeach former President Donald Trump, in a nearly unanimous vote of the powerful central committee."

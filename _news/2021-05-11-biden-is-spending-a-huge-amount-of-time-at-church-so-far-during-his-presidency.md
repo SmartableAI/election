@@ -287,18 +287,18 @@ related:
         height: 478
         isCached: true
   - title: "President Joe Biden gives update on Covid-19 at White House"
-    excerpt: "President Joe Biden walks away after he gave remarks on the new Covid-19 Centers for Disease Control mask guidelines in the Rose Garden, at the White House in Washington, DC on Thursday, May 13, 2021."
+    excerpt: "President Joe Biden gives remarks on the new Covid-19 Centers for Disease Control mask guidelines in the Rose Garden, at the White House in Washington, DC on Thursday, May 13, 2021. Fully vaccinated people no longer need to wear a face mask or stay six feet away from others in most settings,"
     publishedDateTime: 2021-05-16T07:10:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/aed07b72c5e5e3ddcfb314104aec0451/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/5cc52bcc04e415b78cda9942e09e3771/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/aed07b72c5e5e3ddcfb314104aec0451/BIDEN-COVID.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/5cc52bcc04e415b78cda9942e09e3771/BIDEN-COVID.jpg"
         width: 650
-        height: 446
+        height: 433
         isCached: true
   - title: "U.S. President Joe Biden returns to the White House from Delaware"
     excerpt: "U.S. Secret Service agents fist bump prior to the arrival of President Joe Biden aboard Marine One on the Ellipse of the White House in Washington, DC, on Monday, May 17, 2021. President Biden returns to the White House after spending the weekend in Delaware."
