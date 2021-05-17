@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden gives update on Covid-19 at White House"
-excerpt: "President Joe Biden gives remarks on the new Covid-19 Centers for Disease Control mask guidelines in the Rose Garden, at the White House in Washington, DC on Thursday, May 13, 2021. Fully vaccinated people no longer need to wear a face mask or stay six feet away from others in most settings,"
+excerpt: "President Joe Biden walks away after he gave remarks on the new Covid-19 Centers for Disease Control mask guidelines in the Rose Garden, at the White House in Washington, DC on Thursday, May 13, 2021."
 publishedDateTime: 2021-05-16T07:10:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/958fdcfeaf1e83da1d81faacd352e6f4/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/958fdcfeaf1e83da1d81faacd352e6f4/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/aed07b72c5e5e3ddcfb314104aec0451/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/aed07b72c5e5e3ddcfb314104aec0451/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/958fdcfeaf1e83da1d81faacd352e6f4/BIDEN-COVID.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/aed07b72c5e5e3ddcfb314104aec0451/BIDEN-COVID.jpg"
     width: 650
-    height: 425
+    height: 446
     isCached: true
 
 related:
@@ -296,6 +296,6 @@ related:
         height: 478
         isCached: true
 
-secured: "IAyfz4wqc6mfuZquJLGOSoL3a36ql3730mM+R1zYJb3yv6CyKZac3/LhzakTWoF+S7pec9Rhlvo/cY8vfn12VLreH1KR37YtBIPPqVPdfn8JP0e7hvpYu3FwcsQltI1q5e3FjC7cnE8MFa1+XkEERm7q3+BfSm6XmTmM4Da1RPjxLIRiM2GGLKx8vQlq0xO89VAdASsARP1Y8CP0b55fO8UTlNQugsAHkVL7v+jDGG1npYPfr+Jles5wWbQZL/FpTnI67vyWJWvD3ySwGzOZ5+j7htkaMKnvdrJYzTxsvVs5lTZuxqUO/WqVEEAULgdaGAJQPfPAdRUPGaTe3/l5I5OK6UbQKrGC9Z+5bBhNm8U=;+GnwIO2wjbsCvMJYIb81CA=="
+secured: "OfVfhmjTA84pNAtkSpSCMz7d9MUXUmd1boVOI+56gOePInzSGgwcAVdN4F7lfL/KX2G2pdQnwWt1e2kGgo0YnBn8HxDdTpStR0ur7Jr2Gj4Lhugp2Kwv+qeerOwXVMNP8nlNoIKXmleAnjB3vtzHUw55HHco2KrJcoEcRywecVg8Rzy+gXXlp8qkQwK9nn9Gq9f7uduTyYx5GWEoa1xLnn+IN/M7yueAT8xZPQpGP5z1Zeg8GGHagzhWixmsGQEuzJSx8gWbYLRVsFYGDINkAoTrWvIWSgrzNKW3J/5XLjo88bwmB25Ba6jHycxAQH8vRnRCAoF3OLyixBgyMNObyUJb7sEu8PMU0CiblFv+W3Q=;Qrt+cFSvsWFs2D2LIZFt4Q=="
 ---
 
