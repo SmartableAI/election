@@ -1,33 +1,34 @@
 ---
 category: news
-title: "New anti-Trump group of Republican leaders threatens to leave if GOP doesn't reform"
-excerpt: "Roughly 150 Republican or former Republican leaders who are opposed to former President Trump’s continued strong grip over the GOP have signed a letter threatening to leave the party if it does not reform and return to its “founding American principles.”"
-publishedDateTime: 2021-05-13T15:31:09Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/usr_5NUjM_s/anti-trump-republican-group-mcmullin"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/usr_5NUjM_s/anti-trump-republican-group-mcmullin"
-ampWebUrl: "https://www.foxnews.com/politics/anti-trump-republican-group-mcmullin.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anti-trump-republican-group-mcmullin.amp"
+title: "As GOP Wrestles Over Trump, Democrats Run Their Own Risks"
+excerpt: "The party is trying to turn a thin electoral mandate into an expansive agenda that involves a $6 trillion stimulus, infrastructure and jobs-creation agenda which would change the relationship between government and the economy."
+publishedDateTime: 2021-05-17T12:12:00Z
+originalUrl: "https://www.wsj.com/articles/as-gop-wrestles-over-trump-democrats-run-their-own-risks-11621257137"
+webUrl: "https://www.wsj.com/articles/as-gop-wrestles-over-trump-democrats-run-their-own-risks-11621257137"
+ampWebUrl: "https://www.wsj.com/amp/articles/as-gop-wrestles-over-trump-democrats-run-their-own-risks-11621257137"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/as-gop-wrestles-over-trump-democrats-run-their-own-risks-11621257137"
 type: article
-quality: 169
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
+  name: Wall Street Journal
+  domain: wsj.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://images.wsj.net/im-339349/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -63,21 +64,21 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "As GOP Wrestles Over Trump, Democrats Run Their Own Risks"
-    excerpt: "The party is trying to turn a thin electoral mandate into an expansive agenda that involves a $6 trillion stimulus, infrastructure and jobs-creation agenda which would change the relationship between government and the economy."
-    publishedDateTime: 2021-05-17T12:12:00Z
-    webUrl: "https://www.wsj.com/articles/as-gop-wrestles-over-trump-democrats-run-their-own-risks-11621257137"
-    ampWebUrl: "https://www.wsj.com/amp/articles/as-gop-wrestles-over-trump-democrats-run-their-own-risks-11621257137"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/as-gop-wrestles-over-trump-democrats-run-their-own-risks-11621257137"
+  - title: "New anti-Trump group of Republican leaders threatens to leave if GOP doesn't reform"
+    excerpt: "Roughly 150 Republican or former Republican leaders who are opposed to former President Trump’s continued strong grip over the GOP have signed a letter threatening to leave the party if it does not reform and return to its “founding American principles.”"
+    publishedDateTime: 2021-05-13T15:31:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/usr_5NUjM_s/anti-trump-republican-group-mcmullin"
+    ampWebUrl: "https://www.foxnews.com/politics/anti-trump-republican-group-mcmullin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anti-trump-republican-group-mcmullin.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
     images:
-      - url: "https://images.wsj.net/im-339349/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Media hypes anti-Trump alliance threatening to launch 3rd party led by panned 'Anonymous' ex-Trump staffer"
     excerpt: "The media has found a new anti-Republican narrative to obsess over despite the fact that Democrats now control the White House and both chambers of Congress"
@@ -96,6 +97,6 @@ related:
         height: 405
         isCached: true
 
-secured: "Ti7qPFe8SdXi3UwKnbxKLEAgmSsmJwyP/oLDNWXgN9wz79N3BP4983HaH4I2eC+HUYK2b9Mnm4TI8wAx4I04KVHMeTyy8B64T6zMXUCeMEig7gSCEu9fmRETvbKwRapFSiZMw8fNPCVlXGRCyKxf4fvB3BofVhv3/MZSv6rkIbPw6PiLReyswz+C5OL1lM+XkQOeHedhRV/Ze+puAadhl1NGyv3uwwwm2xI/6jeewAs3O9ibr/XtovNDkwAFHDAZTiVt5gP+N/Yll//qJ5x+PLJFcErd3wlgY7A9BaJaNMmrfvTH0qWHwQjzckLJiKYcW5AyFMiGfoO6H5qfrwXJLhWWWg5owcvYS1DoauxRLXg=;YWJ08lyqmO6VtC8zyrc+Yw=="
+secured: "qqP/nj/JBCv4QNIMYBzBkYekllEq1Zac8ps8oIilvgzFCFsMwp/NIsZkybYrd7xsTe+lawvbALr93h5oewCumqrEAaHZLdNBgVRbZu7y0ZQeoHxupxBvkyMkYMKr88dSignO1X1rptzxjvejI8h1O+Rs3ny35YZhQroKkWH0MdkgBBHO7FowQvwvVUS5/TqzF9Giuw1MQtbavMeSpUcraDtUrRrIcwAquqJzjcMFs6aKVpCQqiOg5m77f6/A5C6UaB3gwNrRzO+Npk3TKrXWGrGhzSxf9DGTyw+NrPKZp6ozYl+3F5XouBoAbLejaPr7BKCZe0nkshIl9gqrSi1/pJzWEtwkYFW6+hMmudP3AX0=;GxNF/j03jdiWJa/5orURSw=="
 ---
 

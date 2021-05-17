@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-17-harris-headlines-unity-summit-for-aapi-community.md",
+      "title": "Harris headlines unity summit for AAPI community",
+      "excerpt": "Vice President Kamala Harris will serve as the keynote speaker for a virtual unity summit for Asian Americans and Pacific Islanders this week, her latest outreach to a community that has faced a wave of racially motivated crimes during the pandemic and is growing as a voting bloc.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7-wnMIXHIqU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7-wnMIXHIqU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210427164345-01-kamala-harris-file-0422-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/17/politics/kamala-harris-aapi-summit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/kamala-harris-aapi-summit/index.html",
+      "publishedDateTime": "2021-05-17T05:35:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-05-16-kinzinger-trump-continually-brings-up-a-stolen-election-narrative.md",
       "title": "Kinzinger: Trump ‘continually brings up a stolen-election narrative’",
       "excerpt": "In an exclusive interview with Meet the Press, Rep. Adam Kinzinger (R-Ill.) says former President Trump \"set the table\" for Republicans who are questioning the 2020 election.",
@@ -1629,63 +1686,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-05-giuliani-wanted-multiple-investigations-into-joe-biden-says-former-ukrainian-presidential-aide.md",
-      "title": "Giuliani wanted ‘multiple investigations’ into Joe Biden, says former Ukrainian presidential aide",
-      "excerpt": "Igor Novikov, a former adviser to Ukrainian President Zelensky, told NBC News that Rudy Giuliani wanted “multiple investigations” into Joe Biden during a 2019 phone call with Ukrainian officials. NBC News’ Andrea Mitchell explains what Novikov claims Giuliani said and why that phone call is so important.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/giuliani-wanted-multiple-investigations-into-joe-biden-says-former-ukrainian-presidential-aide-111373893730",
-      "originalUrl": "https://www.nbcnews.com/now/video/giuliani-wanted-multiple-investigations-into-joe-biden-says-former-ukrainian-presidential-aide-111373893730",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/1620219403651_ott_now_am_ukraine_210505_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo111373893730",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111373893730",
-      "publishedDateTime": "2021-05-05T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }
