@@ -79,20 +79,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Idaho governor signs bill to halt Biden moves on gun laws"
-    excerpt: "Idaho Gov. Brad Little has signed legislation aimed at thwarting a half-dozen executive actions taken by President Joe Biden to combat gun violence"
-    publishedDateTime: 2021-05-11T21:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/idaho-governor-signs-bill-halt-biden-moves-gun-77630134"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_8b67b92eacf64c4eb158c419207af25c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "Pt4kvfhJaGA/xF6mmFJaCTXLl7ZFlV/VsyvXCWDYMPek8xAJncX+rv7FKACWy4I9z+7ar9NS8h7JkXgcWwHk8p2yVa00neQRmZV5yAc483bFyEJYnQL4vWIJuWhphigk93tPff41m+ocnueo2Pc6XHUISpCrjCm3x6iEaZhP4fCxntva6iljeoxKSOn0QIxbkl4olgyuwkLcQC/TSmrhph3WHOHQWqlXTJ7fbg1q1qVRPaiAO67tA2+u6tBfwFRA7Uhmrm92Enh9elkpDh+wHdpS41TSzgkTmviRwmOxs6Rys/mGXYdO3xNsrL4krIKsYsNibFi05QfbDGbVv1qMxho+z7ny8rzNdu6hOTKIosC34HUxM8fV5O1DL53wZZgsG5Zq8EXZCqNyxsmnnzhQ6+JBJzGPz5X9L339v/mucWGiBpGcCY1kXtSVijH9iXtE7TyE0FG7Ine/3y+Ph1pl80de8TqHWQpd6rtoGwmxc5jKt+TFz3dh7MobGmB3UKgWvEXfenNsDPEqO22JwMZccQ==;epQxmzGvLC9jPm+l9Jikaw=="
 ---

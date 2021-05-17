@@ -1,22 +1,34 @@
 ---
 category: news
-title: "Mike Pence talks to South Carolina conservatives"
-excerpt: "Former Vice President Mike Pence speaks to the Palmetto Family Council gala. In his speech he reiterated his and former President Donald Trump's accomplishments and criticized President Joe Biden."
-publishedDateTime: 2021-04-30T00:53:00Z
-originalUrl: "https://www.thestate.com/news/politics-government/article251051729.html"
-webUrl: "https://www.thestate.com/news/politics-government/article251051729.html"
+title: "Trump to speak at North Carolina GOP convention on June 5"
+excerpt: "Former President Donald Trump will speak at North Carolina's annual state Republican Party convention next month"
+publishedDateTime: 2021-05-17T15:06:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-speak-north-carolina-gop-convention-june-77737064"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-speak-north-carolina-gop-convention-june-77737064"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-speak-north-carolina-gop-convention-june-77737064"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-speak-north-carolina-gop-convention-june-77737064"
 type: article
-quality: 35
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The State
-  domain: thestate.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_789bc4439a9f4f9d8c736ff17901e404_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Lara Trump is wild card in North Carolina Senate race"
@@ -35,22 +47,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump to speak at North Carolina GOP convention on June 5"
-    excerpt: "Former President Donald Trump will speak at North Carolina's annual state Republican Party convention next month"
-    publishedDateTime: 2021-05-17T15:06:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-speak-north-carolina-gop-convention-june-77737064"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-speak-north-carolina-gop-convention-june-77737064"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-speak-north-carolina-gop-convention-june-77737064"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_789bc4439a9f4f9d8c736ff17901e404_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Former WWE wrestler, Trump administration officials and congressman's widow are among 23 candidates in Texas House race"
     excerpt: "The crowded May race, with 23 candidates, could give Republicans an early look at Trump's staying power in the GOP."
     publishedDateTime: 2021-04-20T16:43:00Z
@@ -67,7 +63,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mike Pence talks to South Carolina conservatives"
+    excerpt: "Former Vice President Mike Pence speaks to the Palmetto Family Council gala. In his speech he reiterated his and former President Donald Trump's accomplishments and criticized President Joe Biden."
+    publishedDateTime: 2021-04-30T00:53:00Z
+    webUrl: "https://www.thestate.com/news/politics-government/article251051729.html"
+    type: article
+    provider:
+      name: The State
+      domain: thestate.com
+    quality: 35
 
-secured: "CqHExcVIRWAdaavvMfIZrJgT9LqUKWJ2csggUFp6CSF5QzZ/WBAO5zcMxJNUXT1YiceUh2m7xiwvB2LYsKjEtqrw6A6+JYeoC5n8o7CwYHHbvqF57b6N76bucHg3ydILnpqzC1yPGirBbvIzhLOSnPY9EfxfH/N7cyTID7F8NL6NVTORUjc1V0qPVYq6VwQ6x8WfpCc9UBZvRw3j2VLFoUkcsBaK4DumA/wZ+M+M+WM9HyfDrn17FMYQBnV3xauy2YtUVEOR/ytb7UD0cOLnRDGXCOppEJUTw1FcZLbc9ce2jVV7A2bUW6hdvs9h8lSm1adP+0eHd6RlXjc2Yeq4ZN4LF38DGqVfh9t4I+lbKkLXXzluzOSzZcHx2PbUN7pgunwZwSseCttk6QQuRSg5AmhwTZyeNBk4nLajtHJIAopw+7kpnuSGVwvi23yuSltWCXtVFn0s3FedcpQBHA2fJnSa8de+JFj6wSP3OIqF+2wSutRVz4rTSP5Psk34w+2VfVYtnHSzpmpf39HEGrzHtg==;5Mj09yyyhcouUgbNPANJPw=="
+secured: "gEmbNmnD9TiDhXvzGhTW9RVWhBOlxng8Wq5eBhMd8D3wCb7ChKeNhwCbq5kvW4JcV9VNheamr88v07yibPCsu3AXT8eQELdzUc46OsFjAJGy1prJ0k7Sj6KH/8Y+Lv24I7LZcLe6FSsWUT+5qY3Gfzax0HLMHBCcP3EDbZKydz9kYY6MdoFvN1p0NTSj90hcwQHcPo3Z7yo6J7HDFlbRMHrVIZqeg9FZEFvvCH/9orDHMymIsuStRsEVw6sZCGNkfGKmm1efhAFLpgWS1fTvuOz6h/jvun4W8IWEBOxxgX5Anh06qMxN04voDmd3szCARJzdBPAj/tIaPl/TkfVX8OCXWzCCDFD93rLSrGD5GHc=;9ueLW6YkT1IXsjiiOxmJvg=="
 ---
 

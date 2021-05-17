@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race?amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump to speak at North Carolina GOP convention on June 5"
+    excerpt: "Former President Donald Trump will speak at North Carolina's annual state Republican Party convention next month"
+    publishedDateTime: 2021-05-17T15:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-speak-north-carolina-gop-convention-june-77737064"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-speak-north-carolina-gop-convention-june-77737064"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-speak-north-carolina-gop-convention-june-77737064"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_789bc4439a9f4f9d8c736ff17901e404_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Former WWE wrestler, Trump administration officials and congressman's widow are among 23 candidates in Texas House race"
     excerpt: "The crowded May race, with 23 candidates, could give Republicans an early look at Trump's staying power in the GOP."
     publishedDateTime: 2021-04-20T16:43:00Z

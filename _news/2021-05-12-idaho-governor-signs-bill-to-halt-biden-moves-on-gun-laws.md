@@ -29,69 +29,53 @@ images:
     isCached: true
 
 related:
-  - title: "Biden expected to speak on shift in US vaccine distribution strategy – live"
-    excerpt: "White House reportedly to deliver unused doses to other states as part of ‘use it or lose it’ strategy – follow all the day’s politics news"
-    publishedDateTime: 2021-05-04T15:19:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest?page=with:block-60916c278f08235e51f1e2ec"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
+  - title: "Mike Pence Rebukes Joe Biden's Tax Plan, Says China Will Benefit While US Faces Economic Catastrophe"
+    excerpt: "In a Monday op-ed, Pence claimed corporations will flock to China, which \"stands to gain thousands of jobs as U.S. employers flee the crushing taxes\" proposed by Biden."
+    publishedDateTime: 2021-05-17T15:26:00Z
+    webUrl: "https://www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe-1592167"
+    ampWebUrl: "https://www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe-1592167?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe-1592167?amp=1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/cca8fd69fd929c563cf5d0423303d1d11a51c924/0_206_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1055a8a67a46d0831699cf04c784163a"
-        width: 600
-        height: 360
+      - url: "https://d.newsweek.com/en/full/1774301/mike-pence-georgia.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Biden says ‘We still have a long way to go’ after disheartening jobs report – live"
-    excerpt: "Biden insists country is ‘moving in the direction’ despite poor numbers – follow all the day’s politics news"
-    publishedDateTime: 2021-05-07T19:52:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live?page=with:block-60958ebd8f08973dcfaca9a0"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
+  - title: "Nine Republican-led states ending increased unemployment benefits as President Biden says people must take \"suitable work\""
+    excerpt: "A growing number of GOP governors have said they will end increased unemployment insurance benefits, citing workforce shortages."
+    publishedDateTime: 2021-05-12T14:54:00Z
+    webUrl: "https://www.cbsnews.com/news/unemployment-benefits-states-end-federal-aid/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/unemployment-benefits-states-end-federal-aid/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/unemployment-benefits-states-end-federal-aid/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
     images:
-      - url: "https://i.guim.co.uk/img/media/3160a0614d599fccca299ef687b417498a74ee5d/0_4_2700_1620/master/2700.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93446cb430b243f629f209c7855b4138"
-        width: 600
-        height: 360
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/08/2ff7afae-77a6-419f-a3e1-1a9c5e039087/thumbnail/1200x630/7158e56014971c41de1a8fe73543f37a/cbsn-fusion-eye-opener-biden-defends-dissapointing-jobs-report-numbers-thumbnail-710791-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "National Digest: GOP lawmakers accuse Biden administration of tampering with census numbers"
-    excerpt: "A group of Republican lawmakers have accused the Biden administration of tampering with census numbers after data released this week showed lower than expected counts in some red states. Seventeen GOP members of Congress sent a letter Friday to Commerce Secretary Gina Raimondo questioning “the methodology and the role the Biden White House may have played in releasing these numbers,"
-    publishedDateTime: 2021-04-30T21:42:00Z
-    webUrl: "https://www.washingtonpost.com/national/national-digest-gop-lawmakers-accuse-biden-administration-of-tampering-with-census-numbers/2021/04/30/3dcdda00-a4ab-11eb-a7ee-949c574a09ac_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/national-digest-gop-lawmakers-accuse-biden-administration-of-tampering-with-census-numbers/2021/04/30/3dcdda00-a4ab-11eb-a7ee-949c574a09ac_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/national-digest-gop-lawmakers-accuse-biden-administration-of-tampering-with-census-numbers/2021/04/30/3dcdda00-a4ab-11eb-a7ee-949c574a09ac_story.html?outputType=amp"
+  - title: "At least 15 Republican-led states ending increased unemployment benefits as President Biden says people must take \"suitable work\""
+    excerpt: "A growing number of GOP governors have said they will end increased unemployment insurance benefits, citing workforce shortages."
+    publishedDateTime: 2021-05-13T20:48:00Z
+    webUrl: "https://www.cbsnews.com/news/unemployment-benefits-states-end-federal-aid/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/unemployment-benefits-states-end-federal-aid/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/unemployment-benefits-states-end-federal-aid/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
+      name: CBS News
+      domain: cbsnews.com
+    quality: 96
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden says US ‘ready to move immediately’ if vaccine approved for young teens – as it happened"
-    excerpt: "FDA likely to authorize Pfizer vaccine for those aged 12 to 15 as Biden targets 70% of US adults vaccinated by Fourth of July – follow the day’s politics news"
-    publishedDateTime: 2021-05-04T22:53:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 113
-    images:
-      - url: "https://i.guim.co.uk/img/media/3f7e93a0aa8cd607a4edc7c122480f23916d6769/0_219_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9cdb82a1110b98b036a7e27661cd97fe"
-        width: 600
-        height: 360
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/08/2ff7afae-77a6-419f-a3e1-1a9c5e039087/thumbnail/1200x630/7158e56014971c41de1a8fe73543f37a/cbsn-fusion-eye-opener-biden-defends-dissapointing-jobs-report-numbers-thumbnail-710791-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ecrB8HnqEtnT44sfSXMaDWDJBOMIgDNGlL6bahIoFUb5kT4zj/9XF+RKfSG9WeHNsCFwP5Va2y41/k+Xpixzxvy1SF5amTvGUBXxkqZGc4Tju+tOR52Px8Uo+M8j8zuPbul7U0fylWGB59JgzrhFdPz1okp5LFfkkrDVOrVCuCyxrD5YhMW76LYAMIVCJS4PcQt6gXl2yg4NqstLT5U5LEjjBav9EHD+Rw4pYTp1xDPXJs9XOp7CqyTur9GJSCYQNPXAdsMLPsK4m+HW2Buq8MQVHb1CU7aQroiuoqtFC/vVmmfzrv3xPM/ikYMkrNNGEIVTzHnXAtrNHctNSz4+RggjO60H/tPStJJGyL0AMfSL/bo+iCSjHWVvb7NMwFOzNP66K72fhWpSBho6U4VqtMfY/uwCpCQZcWWbkq8IMMtLeBFutx6OG9TRNqA3A7pqz6+1/mkZxshMCH8UzPgBgtxfuvmSVdcz6mfniznhaLOqDB5kkFDUzlE59fA8y1gRBQ27mUnXnwwMteSYkOZaJA==;3U7kFHMG3pe2myD0R/qFhQ=="

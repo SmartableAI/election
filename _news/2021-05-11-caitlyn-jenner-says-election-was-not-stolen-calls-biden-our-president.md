@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-ele
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp"
 type: article
 quality: 138
-heat: 498
+heat: 518
 published: true
 
 provider:
@@ -298,6 +298,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/aed07b72c5e5e3ddcfb314104aec0451/BIDEN-COVID.jpg"
         width: 650
         height: 446
+        isCached: true
+  - title: "U.S. President Joe Biden returns to the White House from Delaware"
+    excerpt: "President Joe Biden departs in a limo following his arrival aboard Marine One on the Ellipse of the White House in Washington, DC, on Monday, May 17, 2021. President Biden returns to the White House after spending the weekend in Delaware."
+    publishedDateTime: 2021-05-17T14:17:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9262a53a6501369b56e15d5d25c3d4ec/US-President-Joe-Biden-returns-to-the-White-House-from-Delaware/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/9262a53a6501369b56e15d5d25c3d4ec/USA-BIDEN-WHITE-HOUSE.jpg"
+        width: 650
+        height: 365
         isCached: true
 
 secured: "CTSfx1TXGA7TDL1hqnb9kfc3LmJrSarV6b/yj/FspZ4z5rpoGYtmR50KcNXL3LYMCGl7c5lEWqB7g2saFPKYHuMZD4IW7Mum130PZ2QT0qyBfWWCcqXoEdUj6szBXy5t233svrJaWhLwRYYTY8M70SpFcmfNZRUEwmCx9WotnmIGdGChM7XupxTBqhenB5EMRxl2nV9YEU2B+Xv21TDcsL1r6oGF1xISiaVvP+ErFK4Tr9NFrNaVPBMICcqS4FwAwF1Lp3Nc3STlSnigojo9MXGe8qRjDJEpslrB6Hu+Cj6hubi8iJbdB54yt4Qyv/D0bv9Mf2IRIOmR8oG8KtMFQXfBKdVHm/tFOwb1MX/BmxI=;NvM+NMubmfxEM6QIzfu7UQ=="

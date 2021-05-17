@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-13-politico-playbook-how-palm-beach-is-preparing-for-a-possible-trump-indictment.md",
+      "title": "POLITICO Playbook: How Palm Beach is preparing for a possible Trump indictment",
+      "excerpt": "SCOOP: PALM BEACH MAKES CONTINGENCY PLANS IN CASE TRUMP IS INDICTED — Law enforcement officials in Palm Beach County, Fla., have actively prepared for the possibility that Manhattan District Attorney CY VANCE could indict former President DONALD TRUMP while he’s at Mar-a-Lago,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/playbook/2021/05/13/how-palm-beach-is-preparing-for-a-possible-trump-indictment-492836",
+      "originalUrl": "https://www.politico.com/newsletters/playbook/2021/05/13/how-palm-beach-is-preparing-for-a-possible-trump-indictment-492836",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/36/67/10f1022845e8aa7976787ed47ff8/210513-trump-ap-1160.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-america-under-siege-on-bidens-watch-as-cyberattackers-cripple-the-country.md",
       "title": "America under siege on Biden's watch as cyberattackers cripple the country",
       "excerpt": "They cut off a pipeline to the Eastern Seaboard for days, tried to poison a Florida water-treatment plant, held hospital IT systems hostage and stole an undetermined trove of information in the SolarWinds hack – all as the Biden administration searches for a way to respond.",
@@ -706,58 +763,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-nine-republican-led-states-ending-increased-unemployment-benefits-as-president-biden-says-people-must-take-suitable-work.md",
-      "title": "Nine Republican-led states ending increased unemployment benefits as President Biden says people must take \"suitable work\"",
-      "excerpt": "A growing number of GOP governors have said they will end increased unemployment insurance benefits, citing workforce shortages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/unemployment-benefits-states-end-federal-aid/",
-      "originalUrl": "https://www.cbsnews.com/news/unemployment-benefits-states-end-federal-aid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/08/2ff7afae-77a6-419f-a3e1-1a9c5e039087/thumbnail/1200x630/7158e56014971c41de1a8fe73543f37a/cbsn-fusion-eye-opener-biden-defends-dissapointing-jobs-report-numbers-thumbnail-710791-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/unemployment-benefits-states-end-federal-aid/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/unemployment-benefits-states-end-federal-aid/",
-      "publishedDateTime": "2021-05-12T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {

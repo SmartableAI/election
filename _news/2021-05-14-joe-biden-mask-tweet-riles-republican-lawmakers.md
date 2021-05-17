@@ -299,6 +299,20 @@ related:
         width: 650
         height: 446
         isCached: true
+  - title: "U.S. President Joe Biden returns to the White House from Delaware"
+    excerpt: "President Joe Biden departs in a limo following his arrival aboard Marine One on the Ellipse of the White House in Washington, DC, on Monday, May 17, 2021. President Biden returns to the White House after spending the weekend in Delaware."
+    publishedDateTime: 2021-05-17T14:17:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9262a53a6501369b56e15d5d25c3d4ec/US-President-Joe-Biden-returns-to-the-White-House-from-Delaware/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/9262a53a6501369b56e15d5d25c3d4ec/USA-BIDEN-WHITE-HOUSE.jpg"
+        width: 650
+        height: 365
+        isCached: true
 
 secured: "ES+8Xn959I6Eey289TaXEY2hMCaLXj4ibL6yxfB+WBGdEbm1WkPqpCK9o8y92P9TQNCJNrltk/Iflw4xGJ+Ox38MnKgU0mF7g/B0ilI0C2CnpM5DaQCXoLFf4Tr4VZA+xNSJ8ns6F75eE9P6yTxpLeYXWyZrRjCVCtlbeNe06O/7oDE5lqy8C5OzhTaY0cmWNh/uYOwgJqtcLjPkvwj3oRRLzXeE1dsoWT4qUr4FW1ZDizhZis1EmvaVqPaw3MQqUTfGicj2gHYtcwrg8e/4O0abP4VpwitfAwZNydGh2kWAI31CgJtAVUf9qShdREENaJPu6dYu2Zym8rGCMUPHvCVGUpB4ONFlBdGaXZtYlj8=;Be9b2EH9aFjWqXuqq4E38g=="
 ---

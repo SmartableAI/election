@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/04/joe-biden-coronavirus-covid-fda-pfizer-politics-washington-live-latest"
 type: article
 quality: 123
-heat: 203
+heat: 183
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/3f7e93a0aa8cd607a4edc7c122480f23916d6769/0_219_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9cdb82a1110b98b036a7e27661cd97fe"
         width: 600
         height: 360
-        isCached: true
-  - title: "Idaho governor signs bill to halt Biden moves on gun laws"
-    excerpt: "Idaho Gov. Brad Little has signed legislation aimed at thwarting a half-dozen executive actions taken by President Joe Biden to combat gun violence"
-    publishedDateTime: 2021-05-11T21:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/idaho-governor-signs-bill-halt-biden-moves-gun-77630134"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_8b67b92eacf64c4eb158c419207af25c_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
 
 secured: "P6TNxCJElQkotYNBdBUbkhBV/lJi4JHZFn2GWfmp9rsVlOQsJo7hiuCcVsZJ2j1e3ASL/fdSDlU0ybu7nlCwpYaXFQwO8+iNlnmZ1J3EeawyMCiXNe8LSbDf2SbdDhact3alq3T27qkHP+9cTX6DQ3TCfn3dub59oTte3eiyRnDAF5pCUT+Bsy1qmfcoVlRTx6geZsIHUdBG63IxWVIl1yzmtAJe2b+ufCm2sdSqvy6r/D97eG+6lXNp4eT4Ls8eVncdMlwBzlTwi1+V8Sxr0jJ+jOLGkn7eI93SA/snWeL3a8EsipqroYAAKKkkntZfjCORgLPUhXjd8xcImUK6/juyBSEltkg8WRNnclTRmsQJXAOdPCzQiK6QRs5cLLawsFyn6fKsUnL9LkHLecgIvIGOCRP+KYnvnjMnEW3Yuxe18NCNzbOHwknTc9sdt26YczPaRXVPopcQTgrE9LX8OirZ7MdrKuNkuAW9rFjY/6UD7OpJ6/jui7SwTD3UZA7YOAiQv8uOaJ+Q4TXBl54oyA==;KYpfKpRl8J1mGzrJmiSNvw=="

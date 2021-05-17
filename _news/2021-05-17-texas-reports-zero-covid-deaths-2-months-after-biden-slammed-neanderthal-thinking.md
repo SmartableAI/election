@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Governors caught flatfooted by Biden's mask reversal"
-excerpt: "Nebraska Governor Pete Ricketts said he found out about the CDC’s new guidance declaring it safe for most fully vaccinated Americans to stop wearing masks and end social distancing practices through news reports, not from the Centers for Disease Control and Prevention or President Biden's administration."
-publishedDateTime: 2021-05-16T21:50:52Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qPFN9Qb1jGA/governors-caught-flatfooted-by-biden-mask-reversal"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qPFN9Qb1jGA/governors-caught-flatfooted-by-biden-mask-reversal"
-ampWebUrl: "https://www.foxnews.com/politics/governors-caught-flatfooted-by-biden-mask-reversal.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/governors-caught-flatfooted-by-biden-mask-reversal.amp"
+title: "Texas reports zero COVID deaths 2 months after Biden slammed 'Neanderthal thinking'"
+excerpt: "Texas reported zero deaths from COVID-19 on Sunday, just two months after Gov. Greg Abbott drew heat from the White House for rolling back business restrictions."
+publishedDateTime: 2021-05-17T15:51:07Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YuOm2YUxv1c/texas-covid-deaths-biden-mask-mandate"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YuOm2YUxv1c/texas-covid-deaths-biden-mask-mandate"
+ampWebUrl: "https://www.foxnews.com/politics/texas-covid-deaths-biden-mask-mandate.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-covid-deaths-biden-mask-mandate.amp"
 type: article
-quality: 175
+quality: 169
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://amp.spot.im/loader.png"
-    width: 375
-    height: 815
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3f047c4-871f-4e61-a7da-a98906b45fa8/91073a72-3b67-41fb-ae4d-0ee06c5f7295/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Governors caught flatfooted by Biden's mask reversal"
+    excerpt: "Nebraska Governor Pete Ricketts said he found out about the CDC’s new guidance declaring it safe for most fully vaccinated Americans to stop wearing masks and end social distancing practices through news reports, not from the Centers for Disease Control and Prevention or President Biden's administration."
+    publishedDateTime: 2021-05-16T21:50:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qPFN9Qb1jGA/governors-caught-flatfooted-by-biden-mask-reversal"
+    ampWebUrl: "https://www.foxnews.com/politics/governors-caught-flatfooted-by-biden-mask-reversal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/governors-caught-flatfooted-by-biden-mask-reversal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
         isCached: true
   - title: "Biden admin diverts $2B from COVID, health spending to care for migrant kids"
     excerpt: "The Biden administration has pulled more than $2 billion out of programs authorized by Congress for COVID-19 testing, emergency medical supplies and other health needs — and is spending it on shelter for the 45,000 unaccompanied migrant children that have flooded across the US border this year."
@@ -79,23 +95,7 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Texas reports zero COVID deaths 2 months after Biden slammed 'Neanderthal thinking'"
-    excerpt: "Texas reported zero deaths from COVID-19 on Sunday, just two months after Gov. Greg Abbott drew heat from the White House for rolling back business restrictions."
-    publishedDateTime: 2021-05-17T15:51:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YuOm2YUxv1c/texas-covid-deaths-biden-mask-mandate"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-covid-deaths-biden-mask-mandate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-covid-deaths-biden-mask-mandate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3f047c4-871f-4e61-a7da-a98906b45fa8/91073a72-3b67-41fb-ae4d-0ee06c5f7295/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
-secured: "H3T96qUL5/eoMgcH4PpLuMk0tkHTf9mRoSGnS431rdSiFq74IYSEamAA6n+fgocZar4KfWuJEoUWu0I1lM5+2DG7JRWJvyDqCDxSkor1K/RbCAHGOgR0EgvszmGVGeKc0bqpPEiKSC6GsVixF/6yRdrfxQjtUxEzan9qMmnA9EVsWWaVA17lryCYWsSPP0rrpDFXU9BuuzQPp/Ofh638L5ELJbuxc5XvxFANPKYlyZcrjvQ+CbUPfAPGCKTMw7JyHJR8cnRu/kv6D5bMmMihV5J5U4Mrshq1qH2foFUzS1ebmVyuWQR+GWetZZOkHF2Ki9wPm9iPMFbV60jKcqcY/7Oxhbw+8QL8+5Qvh5etmdQ=;zGgEssTKRkgzKDpqLkWjgg=="
+secured: "Cr3NteqZGM6oQXmvMzGzaXguQ+Fbtcu0gfUk31E2/JlGZ7vJERrgow0UXikKjvytzxoo8bnq9LLKPPd60zZy1snvzs1+RzLcyrujOIDajo6XqQEhNtaNG3VZzU6F3L8BzXxQqBREucwWrS8tdH1SYOASHXLfbGz69pElijGl/sdpAks2q7qVV/rZtaHwvzPkOSJm48gkL61PhNR1kneWdNwWcmehPEu/8AJgk67gXDy6T3Rrk2Ziug+DAMQSWrlbIPW3PQnCrvCU3+l5DY1MYul7SRLRcQRGpIv7KhXx8jr/Yb26aMTjU2/h6iN/QfViOCCrhUlfZQ3gg76k3UuZWoT0IEPtng55F+QxtRcB6+g=;/bDgM9mTow3WJ5yvNW05MA=="
 ---
 

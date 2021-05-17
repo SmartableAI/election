@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Here's what Kentucky would get from President Joe Biden's American Families Plan"
-excerpt: "The White House outlined how many Kentucky children and workers would benefit from the $1.8 trillion plan, which includes universal preschool."
-publishedDateTime: 2021-05-07T09:26:00Z
-originalUrl: "https://www.cincinnati.com/story/news/politics/2021/05/07/joe-biden-american-families-plan-what-kentucky-would-get/4970027001/"
-webUrl: "https://www.cincinnati.com/story/news/politics/2021/05/07/joe-biden-american-families-plan-what-kentucky-would-get/4970027001/"
-ampWebUrl: "https://amp.cincinnati.com/amp/4970027001"
-cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4970027001"
+title: "U.S. President Joe Biden returns to the White House from Delaware"
+excerpt: "President Joe Biden departs in a limo following his arrival aboard Marine One on the Ellipse of the White House in Washington, DC, on Monday, May 17, 2021. President Biden returns to the White House after spending the weekend in Delaware."
+publishedDateTime: 2021-05-17T14:17:00Z
+originalUrl: "https://www.upi.com/News_Photos/view/upi/9262a53a6501369b56e15d5d25c3d4ec/US-President-Joe-Biden-returns-to-the-White-House-from-Delaware/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/9262a53a6501369b56e15d5d25c3d4ec/US-President-Joe-Biden-returns-to-the-White-House-from-Delaware/"
 type: article
-quality: 70
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Cincinnati Enquirer
-  domain: cincinnati.com
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/05/05/NAAS/faa8db64-affc-4ee1-9222-412ac8f843f3-Biden_8.jpg?auto=webp&crop=3955,2225,x0,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://cdnph.upi.com/pv/upi/9262a53a6501369b56e15d5d25c3d4ec/USA-BIDEN-WHITE-HOUSE.jpg"
+    width: 650
+    height: 365
     isCached: true
 
 related:
@@ -217,6 +215,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 93
+  - title: "Here's what Kentucky would get from President Joe Biden's American Families Plan"
+    excerpt: "The White House outlined how many Kentucky children and workers would benefit from the $1.8 trillion plan, which includes universal preschool."
+    publishedDateTime: 2021-05-07T09:26:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/05/07/joe-biden-american-families-plan-what-kentucky-would-get/4970027001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/4970027001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4970027001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/05/NAAS/faa8db64-affc-4ee1-9222-412ac8f843f3-Biden_8.jpg?auto=webp&crop=3955,2225,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IRS to the rescue? Tax audits eyed for President Joe Biden’s infrastructure plan"
     excerpt: "Who is going to pay for the big public works boost that lawmakers and President Joe Biden say is necessary for the country?"
     publishedDateTime: 2021-05-15T12:00:00Z
@@ -295,21 +309,7 @@ related:
         width: 650
         height: 446
         isCached: true
-  - title: "U.S. President Joe Biden returns to the White House from Delaware"
-    excerpt: "President Joe Biden departs in a limo following his arrival aboard Marine One on the Ellipse of the White House in Washington, DC, on Monday, May 17, 2021. President Biden returns to the White House after spending the weekend in Delaware."
-    publishedDateTime: 2021-05-17T14:17:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9262a53a6501369b56e15d5d25c3d4ec/US-President-Joe-Biden-returns-to-the-White-House-from-Delaware/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/9262a53a6501369b56e15d5d25c3d4ec/USA-BIDEN-WHITE-HOUSE.jpg"
-        width: 650
-        height: 365
-        isCached: true
 
-secured: "iLvGlGzzS9ZSFncRkGkgkbd4XgkZTzGU2ToQ5uM5ETSl68yNDWXpbecyH/gedfP4j+m58m2wg1ycZpYS/9fk62lpduglAaG8hO7ZxXfwUM0hRMZXNKlvj400N6TK0Y3cJ15eSipiOZ3qZx42erF2DWZ/vIlJKuLUzApxvL0c6Vfu9KBwy8fI9tTt0ZsrYJBia8ajUwGVs9XSSigNrKAhgUzSq/3LBYbs1E3oQueQ9gYk+X73sqAA3c0+E30Tfxta4eAx8R1uoE4+ofDbC60ER0uTMMFAnly37QZkgUcLlXAQ2lqR1PE9sDTtaFwGxpW2NZGNZsaM/EduIijmoZ1GURsT2Pc+O6I2W6p8stXFTu+MKtFIxXdl5dbs/0IrXG0FLksMgOOMcmpI5Ohy/8bd5hWGfMKzpaf+q3uh0aAcw4Cm2UwnnLuPzrzD/brDDPIFFizuTlV2R3k1CXc1oej9yfx87ebx/EAknXOvHzQMJ9jc+969gv7MxfrKXzUsLGSItSTTWffeo5lp8rkJTWIDJQ==;Qc/XIJlLif/aDO8XTKHRrg=="
+secured: "A66yUZiqXxv4smAlurZzgM2CkfG25kqOwcinFRnOHWPefVKkW3ndiEuUDooVif7UpqAGV8QpBfMGgoC3Z94moemZ0EgV3FksTXeWJicQGse6Zj/1K1ek2oBR32fqn1ZmDZnffzi+3iROzXjSp3yLrd6G18YWxBc/vILXybyipdPOS/QPsfabxArdr4TEYzIFR7SZDoQDutVsKn7BIygu5Z2Y26NcW4LU4pLOV9mpW5IOkPAr0OaeGk4qgy38zeonnv1UPw55Mn3qfkZqoE2q2o3ae5TCbfNq+f37CeDUl53PPgvJcMX+9CsloDs7/MDg6yqu7S9l+O/ihmK19/1eQ4GwaYOLzq87fVIdPGxZKpU=;dqQpDq4slx8vl0u/dOnFKg=="
 ---
 

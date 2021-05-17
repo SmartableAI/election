@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Texas reports zero COVID deaths 2 months after Biden slammed 'Neanderthal thinking'"
+    excerpt: "Texas reported zero deaths from COVID-19 on Sunday, just two months after Gov. Greg Abbott drew heat from the White House for rolling back business restrictions."
+    publishedDateTime: 2021-05-17T15:51:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YuOm2YUxv1c/texas-covid-deaths-biden-mask-mandate"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-covid-deaths-biden-mask-mandate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-covid-deaths-biden-mask-mandate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3f047c4-871f-4e61-a7da-a98906b45fa8/91073a72-3b67-41fb-ae4d-0ee06c5f7295/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "0sqCeNOmQ+btsXceOpHxEzPa152a5DgLhu+qGbO2pR2DtBnM+WS+Qk2uCpHiirKruqRfFKxHkmBQnE2yHtmip+Gj5kmfygnImyqWTyj/TWxgowlv349h27lV73k2qy/x5I6zE2zzJp57f8bW3xUifdeFioBKpgoF0zwyhVq9GUVWQ2ciglJFT02ZHtXpoVEeynRcR2ucib75tXfoBKe6LWvvhu4hyYV1fOa7P6ym3DuK4DQg716r6W6yoIFKD+d4+C2cA6WP9uOjZzYvnTa5fHu5HnxbcOFd8qfPO6qTBb0zyVwm6I50lXBUsWWpIBVqDkJ/sqvw0FVwblbEnc5dOZKeswG4sDltSEsOdEVrYp0=;z4DorKwTGb91+oetOGxNqA=="
 ---

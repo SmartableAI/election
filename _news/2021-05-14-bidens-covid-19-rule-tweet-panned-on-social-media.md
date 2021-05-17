@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-covid-19-rule-tweet-panned-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-covid-19-rule-tweet-panned-on-social-media.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 170
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44919587-fb9b-4ac6-bc2e-5df4f98f6096/42b88031-ace0-4d84-870e-1d4208526939/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Texas reports zero COVID deaths 2 months after Biden slammed 'Neanderthal thinking'"
+    excerpt: "Texas reported zero deaths from COVID-19 on Sunday, just two months after Gov. Greg Abbott drew heat from the White House for rolling back business restrictions."
+    publishedDateTime: 2021-05-17T15:51:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YuOm2YUxv1c/texas-covid-deaths-biden-mask-mandate"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-covid-deaths-biden-mask-mandate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-covid-deaths-biden-mask-mandate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3f047c4-871f-4e61-a7da-a98906b45fa8/91073a72-3b67-41fb-ae4d-0ee06c5f7295/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
