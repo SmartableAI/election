@@ -2,14 +2,14 @@
 category: news
 title: "$1M ad campaign accuses Biden of working with dark money, teachers unions, to keep schools closed"
 excerpt: "Americans for Public Trust launched a million-dollar ad campaign going after Biden and the CDC after it was revealed recently the agency was lobbied by the American Federation of Teachers on school reopenings."
-publishedDateTime: 2021-05-17T11:00:22Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/79WwYavUlTw/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/79WwYavUlTw/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines"
+publishedDateTime: 2021-05-17T11:11:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines"
+webUrl: "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines"
 ampWebUrl: "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines.amp"
 type: article
-quality: 162
-heat: 162
+quality: 122
+heat: 122
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -30,6 +31,6 @@ images:
     height: 405
     isCached: true
 
-secured: "LceBrZjpp3SUwL8/2giCaeEsGwuWJFkYq1HyJdjK61bhtioRhok5JEtNo79TzSUVNa5pVROMxYtexmItatTDN4xsRgfCK9nZe001BAbEdo0xdjN4R2VW5q8Fm+qYkfNPg/Xc2KuQR80QCQ2Txxj77Wm1wTVjKU+cK+UYIZKXuTv1yGccGi55rhp+BVL5VzomnEg7IEuD7m1vAphV8+EkHw77e5Gg8fCrXq5bQ/KJgDPAbkGQWMDYAsCLBjTVUQbLDz4AAXsGPGKny5RnFta0nprqF6bDcYhqXrZuhy0eb9NPJLPCy2lQzGFuQdLSfiplwTpsSAvP7kSilz9w0bBtC0HXxeHOJavjNV5pRUAssOY=;Yjh1f/3v2dH20oFoyCAA4Q=="
+secured: "MR9GNQ2wnzgH/pMxaVI+RMl/0ubD4DcTOxsoNcMUZ4oAt+wFSDNJRCzayyorP519PzfGOvLahRk6VW6Wpv+uSFmKGEDdviQXYid6Cu+gY2/D6jr6R7L/UiL/3RgO68yJRYw6vu7jhF6NX6rXu9EHpc96x+5l73BHn5WNWQCTkkoGjkybQwEDcBTszetGI1a1uoRTOAJMI3gZKlkfE4cGbVX5/spTrPLIIzKqPhpZUj8Nb1WiTuOGicI73IyGeLMnVX+wBXY8xmaI+ApLaofeuDTH8hdKc/9Bd4DniLxMhXP7q8TzHheyD3cpUg+f75AWybnK5eM/ziSMRtYZGbv3L40wEULSALPA7hhZGXxri0o=;YSfXzcBmnsUx5yjWmoMRLg=="
 ---
 

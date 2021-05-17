@@ -171,15 +171,15 @@
       "title": "$1M ad campaign accuses Biden of working with dark money, teachers unions, to keep schools closed",
       "excerpt": "Americans for Public Trust launched a million-dollar ad campaign going after Biden and the CDC after it was revealed recently the agency was lobbied by the American Federation of Teachers on school reopenings.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/79WwYavUlTw/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/79WwYavUlTw/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines",
+      "webUrl": "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines",
+      "originalUrl": "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 162,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -195,7 +195,7 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cdc-coronavirus-teachers-unions-school-reopening-guidelines.amp",
-      "publishedDateTime": "2021-05-17T04:00:22-07:00",
+      "publishedDateTime": "2021-05-17T04:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -219,6 +219,7 @@
       ],
       "topics": [
         "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     },

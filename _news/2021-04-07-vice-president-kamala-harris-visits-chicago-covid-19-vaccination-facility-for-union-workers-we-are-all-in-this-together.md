@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Second Gentleman Doug Emhoff, Vice President Kamala Harris’ husband, will visit Annapolis"
+    excerpt: "The Second Gentleman, husband to Vice President Kamala Harris, will visit Annapolis on Tuesday for a private event."
+    publishedDateTime: 2021-05-17T17:57:00Z
+    webUrl: "https://www.baltimoresun.com/maryland/anne-arundel/annapolis/ac-cn-second-gentleman-annapolis-emhoff-20210517-ibjhg4urzjasvgz2j7wzjg3wxy-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 46
+    images:
+      - url: "https://www.baltimoresun.com/resizer/2P5djc22oIeUjgMRmey_NeqYjYo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GCTLKRCPAJA3PKG3XL5WUTAHFM.jpg"
+        width: 1200
+        height: 835
+        isCached: true
 
 secured: "K+yfJgr7Gev2LOpGVHlVEVVSRtyjKLle0EYgsXSPR3IWJW4vw9g+lRbCoDSczcQF66ExknGqQ85IDy2S7FJ8xuEyyDfzk7EvA00VatVlbrJyGDPW/c1A0F5LrySGgKhuvWnziAqU+quxPgwJXlHQBa/SDHrcfS6s6tbgXTvo5l/8camwQLP/N0PgoUHij+cviAjE3pBYy+C4v5bAPQZERJuul+z7PP41hJEOlC7KDhhwU/jfB9Puu5uqFJeBTXxeUGnZVUAnuI/jXYCCEQg/l4Fae44xvlLhUO7qjOFCzlvsyp9hlAnNr3yy93Of/yri3r75uIYN/zSayUYnetNLnWaiMjWOf3XqNlOQuHizsG4=;qFVQkq4DfF6ItK4EBf8prg=="
 ---

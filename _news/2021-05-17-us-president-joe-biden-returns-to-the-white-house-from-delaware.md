@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. President Joe Biden returns to the White House from Delaware"
-excerpt: "President Joe Biden departs in a limo following his arrival aboard Marine One on the Ellipse of the White House in Washington, DC, on Monday, May 17, 2021. President Biden returns to the White House after spending the weekend in Delaware."
+excerpt: "U.S. Secret Service agents fist bump prior to the arrival of President Joe Biden aboard Marine One on the Ellipse of the White House in Washington, DC, on Monday, May 17, 2021. President Biden returns to the White House after spending the weekend in Delaware."
 publishedDateTime: 2021-05-17T14:17:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/9262a53a6501369b56e15d5d25c3d4ec/US-President-Joe-Biden-returns-to-the-White-House-from-Delaware/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/9262a53a6501369b56e15d5d25c3d4ec/US-President-Joe-Biden-returns-to-the-White-House-from-Delaware/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/5bce2593021758c69b0c20de8ffca359/US-President-Joe-Biden-returns-to-the-White-House-from-Delaware/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/5bce2593021758c69b0c20de8ffca359/US-President-Joe-Biden-returns-to-the-White-House-from-Delaware/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/9262a53a6501369b56e15d5d25c3d4ec/USA-BIDEN-WHITE-HOUSE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/5bce2593021758c69b0c20de8ffca359/USA-BIDEN-WHITE-HOUSE.jpg"
     width: 650
-    height: 365
+    height: 433
     isCached: true
 
 related:
@@ -310,6 +310,6 @@ related:
         height: 446
         isCached: true
 
-secured: "A66yUZiqXxv4smAlurZzgM2CkfG25kqOwcinFRnOHWPefVKkW3ndiEuUDooVif7UpqAGV8QpBfMGgoC3Z94moemZ0EgV3FksTXeWJicQGse6Zj/1K1ek2oBR32fqn1ZmDZnffzi+3iROzXjSp3yLrd6G18YWxBc/vILXybyipdPOS/QPsfabxArdr4TEYzIFR7SZDoQDutVsKn7BIygu5Z2Y26NcW4LU4pLOV9mpW5IOkPAr0OaeGk4qgy38zeonnv1UPw55Mn3qfkZqoE2q2o3ae5TCbfNq+f37CeDUl53PPgvJcMX+9CsloDs7/MDg6yqu7S9l+O/ihmK19/1eQ4GwaYOLzq87fVIdPGxZKpU=;dqQpDq4slx8vl0u/dOnFKg=="
+secured: "AqW94mecUxU3sTOkJmP1cOVrqzlNV01v0aT9XvkU8uoMMVJflHEgKpz1A0xNQ0VYm1k1FPuXMcJ4e6/wAQGEsMpD9PqsIAka1FeLvAgcTqs9FGQet1QqQTQqSll/noy2pczx7oCP2lCXoh0SVHz7WEw1BRMDie1cA6teTybblYNcl3ltH5R+ViGyi/4OTrbMAjBBA8uRjMzq+PaSmFI/3JQLQ711DsqQgYECVvnGMI5VHdtADy5CySwlU9eNGarm4QloRlvNJRYz0GdjUpdY/2T1KoL5LxUGys2n5+kC+eNejbHJWc0IMJyHGfJB13usBh4yOkbastLfqqBudcEgxmAA5uJsNO8ad/EyLusHilc=;PUOMTwnuJW8hSfvt4cSBOA=="
 ---
 

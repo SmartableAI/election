@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-and-doug-emhoff-to-mo
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay/"
 type: article
 quality: 115
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/OhJmDzezeGzbWKxG1-SlPwBfYWQ=/1200x0/right/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/723XQF65ESX7C7OKRQMTPSXJXQ.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Second Gentleman Doug Emhoff, Vice President Kamala Harris’ husband, will visit Annapolis"
+    excerpt: "The Second Gentleman, husband to Vice President Kamala Harris, will visit Annapolis on Tuesday for a private event."
+    publishedDateTime: 2021-05-17T17:57:00Z
+    webUrl: "https://www.baltimoresun.com/maryland/anne-arundel/annapolis/ac-cn-second-gentleman-annapolis-emhoff-20210517-ibjhg4urzjasvgz2j7wzjg3wxy-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 46
+    images:
+      - url: "https://www.baltimoresun.com/resizer/2P5djc22oIeUjgMRmey_NeqYjYo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GCTLKRCPAJA3PKG3XL5WUTAHFM.jpg"
+        width: 1200
+        height: 835
         isCached: true
 
 secured: "9HVRrXZNGTa/pYFEMBfcHM63s3ljHWIasIbBXy3y3WE0+bIp+e6MRhpUa/fx46KBazVsktc1MDuebeJaIEVJ61pPcvMrt6rqHAeXqAMZSkoH7N/cKExfGwtz49Bvmv/ih8xcE+rlwWpttYTCBFenVyNuSR2P5Ung0gbgWjkgYYQPGjrUDHI9wOJYOwgRO6Z4V+sn72JRPwrfCoxB/x/UUezGXeH//GjUV3wdRPITLivTvdP1Gt+B1x+Own4YYEV5syL7NWXSMvv7XsWGAjhieMPYkgjCkUm2fS01ne/WzbvnIumBSnbWUHDVoal5KkQ3mkDN03LqxHJbPdbXSv8NwRLQ1zEYlymVP1eKgxgiLmnna7ps+D6hNQuX2FUP/ZwXzuJOfqRrrq9l7MWwkuwwx/Jr4DMKNa5yoPcMOkZaTKkxOmtdYyw3g0sbqbjeRuGBjBOqBJqi/o9omSvlhBnMfRW8KDIZNolyEqBT+NbTL3tKIgJz1TtcECSqOZTLdICAgo7afvBEFjPOkF+lQyFrQQ==;ZJmbH4S+77FczVN4cU0dEw=="

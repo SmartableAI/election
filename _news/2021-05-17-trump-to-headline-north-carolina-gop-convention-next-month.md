@@ -77,9 +77,9 @@ related:
         height: 340
         isCached: true
   - title: "As GOP Wrestles Over Trump, Democrats Run Their Own Risks"
-    excerpt: "The party is trying to turn a thin electoral mandate into an expansive agenda that involves a $6 trillion stimulus, infrastructure and jobs-creation agenda which would change the relationship between government and the economy."
+    excerpt: "The party is trying to turn a thin electoral mandate into an expansive agenda that involves a $6 trillion stimulus, infrastructure and jobs-creation effort that would change the relationship between government and the economy."
     publishedDateTime: 2021-05-17T12:12:00Z
-    webUrl: "https://www.wsj.com/articles/as-gop-wrestles-over-trump-democrats-run-their-own-risks-11621257137?mod=hp_listb_pos3"
+    webUrl: "https://www.wsj.com/articles/as-gop-wrestles-over-trump-democrats-run-their-own-risks-11621257137"
     ampWebUrl: "https://www.wsj.com/amp/articles/as-gop-wrestles-over-trump-democrats-run-their-own-risks-11621257137"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/as-gop-wrestles-over-trump-democrats-run-their-own-risks-11621257137"
     type: article
@@ -109,6 +109,6 @@ related:
         height: 405
         isCached: true
 
-secured: "Yji7ELNGh5Od+agczHASL8HwgzAjdFISnCos69L5yXAHtyU7bppbvEhvuSYkanU7lqBiyLOaSrQMn5dOrBbQCIryJ/3LOY/yb7WC1cmNvwALi6BZcDzC7bPYR0Q9V7Xa4Wu/ItKCAKAHfOJlT6t15PVDVdKUyVPrduN6ZrOZUUQpRF5pwp1PN/ZLcBwouYzr1JuB7bN7msfozpeZVLvYRlkxWIfAxojjpq7Ot8ezOHBd88cVsV8sGsZ0bh6IQbZEnvz/oZG6ABxaPnotNa7OKeBxxpnuqFb4Rx1r8O6pKrckXdlkv00vQ0bDZrW7q7ju4216SE6Nr0N97n5Bd6miUis3EvSHlZjzrUXlupFR/UY=;vBrRGHuwSCHwgQTK6k3dOQ=="
+secured: "FWhXWXvsGkJnqnYNPoPrsypZ+FHWjBYNKKW/PobZdPuKnfgt8AFgMTs0omQpiD7PHpTY6ZtTV09PteZIuUaOyRNrRQLo6oYFgJtKV6G+9HjQUb7plcaHW7kc5yHGzmgUx+wVDoaIc0SBaPo5bKKhg1p60KMyE9u2h2aLQIUSk/xkLD7cvafNQh5N0qQ83YQi8JhmXHRdaRZYa7jOZ4tGPdd1FOd/UZAlXpEfPzAVzuJoAtbgAEgyZES5y+XW4G91gCDUd1LhCxF9Fng9kipZC4FWUArW+rEG7wOkvE+CUyVQLAqvhd0D9NAN6Cg5CuUVK9ySBComSx9VJnTWXZ4TueXTmxbhmZGfVbFlOUYf9ABOtu6m84RZtgx/bUn0GtsR++u3bc3Oma8D/pC/X9syED4vXQkXj3zo9tz9ic6NdXYpDbYFOYq8ci9cLtBrITZSIRZEJupaEj3BkKgk8oSRUGAGWV1ERpX6lrbkexrjbxbLFh8DxWUcf+jIakO0h2OcslO9yO2Onm8TIoljpD06xQ==;S9WDBeO4rOei1Z7KNtWIZw=="
 ---
 

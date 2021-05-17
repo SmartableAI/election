@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden announces US will share more vaccines globally"
+    excerpt: "President Joe Biden is set to announce Monday that his administration will share millions more doses of Covid-19 vaccines with other countries in addition to the 60 million doses of the AstraZeneca vaccine he has already committed to sharing by July 4, according to an administration official.\n    \n"
+    publishedDateTime: 2021-05-17T17:38:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hxxgBLHLcjs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/vaccines-global-sharing-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/vaccines-global-sharing-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505194256-astrazeneca-vaccnie-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden faces an angry rift in his own party over Israeli-Palestinian conflict "
     excerpt: "So much attention has been focused on the rift in the GOP over former President Donald Trump's antidemocratic lies about the 2020 election.\n    \n"
     publishedDateTime: 2021-05-16T13:15:24Z
