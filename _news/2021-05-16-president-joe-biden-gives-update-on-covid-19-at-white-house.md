@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden gives update on Covid-19 at White House"
 excerpt: "President Joe Biden gives remarks on the new Covid-19 Centers for Disease Control mask guidelines in the Rose Garden, at the White House in Washington, DC on Thursday, May 13, 2021. Fully vaccinated people no longer need to wear a face mask or stay six feet away from others in most settings,"
 publishedDateTime: 2021-05-16T07:10:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/a92457e125b0d8c914c46b62f5bded8c/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/a92457e125b0d8c914c46b62f5bded8c/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/958fdcfeaf1e83da1d81faacd352e6f4/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/958fdcfeaf1e83da1d81faacd352e6f4/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/a92457e125b0d8c914c46b62f5bded8c/BIDEN-COVID.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/958fdcfeaf1e83da1d81faacd352e6f4/BIDEN-COVID.jpg"
     width: 650
-    height: 408
+    height: 425
     isCached: true
 
 related:
@@ -296,6 +296,6 @@ related:
         height: 478
         isCached: true
 
-secured: "qXkSRstH3p+74k4O588+uc/pUb9A8dVYgQwR6B8VzLDBWkJHLUHBoC12lrUzo9HgO3itgNhjRb7X7fe7FrMConz+LDc9qz3f0llNYs5O7kiESbqH1QRFPs0OeAUUJax9hBm/E+4JSVXM/lAESSFoA04E9h9QCDvyp6+pk5UaniN+/qZhukqakQPprsLMnGKITfm6LLrCQdObTWgf9iGDdK73k4Z66QDL6mTi/aaZdrn7Ra5Rs7WwVYVjycS3HRcOa4xbgWw2bx7ONO3aRrEOtifJo4dlmf3mvmkFrQYpnPY9aII3uRcyiTuQwcMV56B7aL2qCLaH+VPMtXsI7p3o2LloYOwvNn4/S0u/G46f9Sxk/GexM+AoX9fUJbe4OHlxE87fVxowGHuG2ico4MXR8X1Nigbnvs8vojt5DykI5ceAm4RQC2zZfuLqU6Geeq7+gvRZRmfC0rFDEVZySIGnLiCyC1T6F+yAbHeOKpeDg0+BocMI3dXX6tEWImJuibxi1XwIs+dSBxdSfVMSC6XsPQ==;aZgBYyYmbR5OH0o7A9T5ZQ=="
+secured: "IAyfz4wqc6mfuZquJLGOSoL3a36ql3730mM+R1zYJb3yv6CyKZac3/LhzakTWoF+S7pec9Rhlvo/cY8vfn12VLreH1KR37YtBIPPqVPdfn8JP0e7hvpYu3FwcsQltI1q5e3FjC7cnE8MFa1+XkEERm7q3+BfSm6XmTmM4Da1RPjxLIRiM2GGLKx8vQlq0xO89VAdASsARP1Y8CP0b55fO8UTlNQugsAHkVL7v+jDGG1npYPfr+Jles5wWbQZL/FpTnI67vyWJWvD3ySwGzOZ5+j7htkaMKnvdrJYzTxsvVs5lTZuxqUO/WqVEEAULgdaGAJQPfPAdRUPGaTe3/l5I5OK6UbQKrGC9Z+5bBhNm8U=;+GnwIO2wjbsCvMJYIb81CA=="
 ---
 

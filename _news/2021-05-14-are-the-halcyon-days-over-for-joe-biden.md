@@ -3,8 +3,8 @@ category: news
 title: "Are the Halcyon Days Over for Joe Biden?"
 excerpt: "On taking the oath of office, Jan. 20, Joe Biden may not have realized it, but history had dealt him a pair of aces. The COVID-19 pandemic had reached"
 publishedDateTime: 2021-05-14T10:44:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.amp.html"
 type: article
@@ -606,6 +606,6 @@ related:
       domain: washingtonexaminer.com
     quality: 63
 
-secured: "vSbF3M/8f0oAP8uwPqSTqWbx+iJ4RpjLa2BLkCnD158PhtkAi83+JR2T4JnRvBIMmtYnAu41DvoJpH+5tqmzxW26qP1Fx+TiH2BiqjMfYpmsQy2Ll0sxtwiejuCoUs8AhofQ4TmnxsIHx5BlB3HdgIMV0hybqLgQkt3jeSMnwgIvFROKx3YSgut8IScOfr37fETwWEa72Xn1M6LR5yeZCVCT8RpDU6AKmSknNn7sD0rF7LjjvTkdRNS0SCUFBN0y5TVDpNOFfLysbAQF4wEl1IqA5QUTG3/56o61ZkXU9jG9F1VbxrY9e1joNWrdpOqJYivMj42O7/XeqpZ/pI+HWnl2ne749KVFS7jggC6l1cE=;lqnX76kfX8wQnoRcTywJkg=="
+secured: "BP3OowaYQ9LLvr+p6vfEX0ZTzorLfmZCcwrEvpvJdqFKqSsME17JrkexhAmXjpMFgtazq5fCG3tB33DZcRCm1w2fJDxsO51fae3Cs64NCgRNsRYuKmQdqm7FDe2NWZTnCJmuqYoNp4GiZl3rBLvdHjtvaW9Ka49BSbcZIHC/xAoHMClQIwfNYlQOFOIQovLlPYGcGJO3YLSiqvy871nOh1MqNSf/hovwcNjH2PJKft1khVCt67vz0n2ipcL4uq8W6RXzNkzr7NH2WXhCxHvdjcJKy6BAz4I4dur8T0ETMLBstcSOVs6ZY8WxSNhJJyw97ya/I4liv6DXxkEaMVzo0nn8TGLXfpAOMygArK4zAbo=;TgaoTlXKD0+GHhBZ0j1nxw=="
 ---
 
