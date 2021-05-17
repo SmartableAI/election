@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Murphy Gliding in NJ's Primary; GOP Wrestling With Trump"
-excerpt: "New Jersey Republicans will decide whether they want an outspoken Donald Trump supporter to be their standard bearer in the fall election for governor, while Democratic incumbent Gov. Phil Murphy is on an easy path toward capturing his party’s nomination."
-publishedDateTime: 2021-05-09T05:00:00Z
-originalUrl: "https://www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump"
-webUrl: "https://www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump"
-ampWebUrl: "https://www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump?context=amp"
+title: "Trump critic Cheney cautions that Jan. 6 riot could happen again"
+excerpt: "Rep. Liz Cheney is criticizing GOP colleagues for downplaying the Jan. 6 riot and condoning former President Trump’s lies that the 2020 election was stolen."
+publishedDateTime: 2021-05-16T22:47:00Z
+originalUrl: "https://www.latimes.com/world-nation/story/2021-05-16/trump-critic-cheney-cautions-that-jan-6-riot-could-happen-again"
+webUrl: "https://www.latimes.com/world-nation/story/2021-05-16/trump-critic-cheney-cautions-that-jan-6-riot-could-happen-again"
+ampWebUrl: "https://www.latimes.com/world-nation/story/2021-05-16/trump-critic-cheney-cautions-that-jan-6-riot-could-happen-again?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-05-16/trump-critic-cheney-cautions-that-jan-6-riot-could-happen-again?_amp=true"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Los Angeles Times
+  domain: latimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/afa2c89/2147483647/strip/true/crop/3483x2275+0+24/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa4%2F49%2Fe77d57fe45bbab1f084bdbfcb3c8%2Fel-salvador-politics-overturned-21001.jpg"
+    width: 320
+    height: 209
+    isCached: true
 
 related:
   - title: "Republican Arizona election official says Trump 'unhinged'"
@@ -200,22 +206,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_8a9720953dd84ad1965fe4a01c26503d_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Trump critic Cheney cautions that Jan. 6 riot could happen again"
-    excerpt: "Rep. Liz Cheney is criticizing GOP colleagues for downplaying the Jan. 6 riot and condoning former President Trump’s lies that the 2020 election was stolen."
-    publishedDateTime: 2021-05-16T22:47:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-05-16/trump-critic-cheney-cautions-that-jan-6-riot-could-happen-again"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-05-16/trump-critic-cheney-cautions-that-jan-6-riot-could-happen-again?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-05-16/trump-critic-cheney-cautions-that-jan-6-riot-could-happen-again?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/afa2c89/2147483647/strip/true/crop/3483x2275+0+24/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa4%2F49%2Fe77d57fe45bbab1f084bdbfcb3c8%2Fel-salvador-politics-overturned-21001.jpg"
-        width: 320
-        height: 209
         isCached: true
   - title: "10 Things in Politics: Anti-Trump Republicans threaten spinoff 3rd party"
     excerpt: "And the Colonial pipeline is slowly restarting operations."
@@ -419,6 +409,17 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Murphy Gliding in NJ's Primary; GOP Wrestling With Trump"
+    excerpt: "New Jersey Republicans will decide whether they want an outspoken Donald Trump supporter to be their standard bearer in the fall election for governor, while Democratic incumbent Gov. Phil Murphy is on an easy path toward capturing his party’s nomination."
+    publishedDateTime: 2021-05-09T05:00:00Z
+    webUrl: "https://www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump"
+    ampWebUrl: "https://www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Here's Why Trump Is Calling A Kentucky Derby Horse A 'Junky'"
     excerpt: "Former President Donald Trump compared the Kentucky Derby horse to the \"borders\" and \"fake presidential election.\""
     publishedDateTime: 2021-05-10T03:48:00Z
@@ -491,6 +492,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "ZeWjaIVOIVwtW8FNnz/lcyXHAFi7dpTUhjdqETKi9nGvd0XyuTgEOSgfZvJktIQHttvVTnroUQAqJlUpKScnTc0i9nDiiGoBKJV3p8gf0AE76jGwiQpNYr5v7jek5i6mEn0ViZOkUqVzOZPBGq57nEn4TfheWeJshkRdcV8q4r7q74q6IxX8ueVQL3Hdnj88b9N1gJqSR9ZtBPMr08nPiJKeZuviGCRRDRXn1wJiSe14KgZsuYurcmKIdH6x91UgVfPqH8LjozTVx4TItkfSrdr8wC+KuIkKu7WXSixwEpIiF+oRXLVibFrGTXnQYSWTmj3g5gw3FoSU7xJWEbBOOPRL5m7brkK+h5qJboWWsVMaFY5w3LbGzOH7gCgxvONSSic+cUGH8tUouxxM/OuZ0xW1V4MKbRL/GTG4idSP6CnPUl6Yk6/K/uMxQAx3GMS+4k1+JjA289T1toSdKXsCf4BP8uul8kpivQrYgeSR64jr8GcTLcx7+dWG/pVLdpwUlmpa9sjahQ0cEu6wJ+IW+w==;7TVMLmVJWI9hka59zSQgsg=="
+secured: "zK0gGUcfebwIOQEWXDx1xN0l1epocSTfDe+IsiZ8H1qKWXPnocMS1Q2fgiaeTl7tYxRtVo9l4rjDlYR4Tj9fbK7/7BqTx/NdszMaGk96v+6zSPhRPR+8EtWVisU9YiYe9EipF8j2NnF6hamVBD2H9amf0KXjJJ0+jkzrd0qT4bg8d4KXBpJQNaZMr+z5wihavNoTTc4Kqtha/qxw1g5PSOywCmVZp74gAImNc3wVed3C9MzidHscf9+nrK1NIKZ/w9et0tvWyAXmJI4iW9dWG3NN/6va5/vL1rS9r2B8EY71SYSxGlxsMksVCMhJi83qn45Ilv5CKzKRo28oe9V5vqOJNsm7RNqOCZEPCnvnJYk=;chLVEqNg+bJcqDBIiJMfVA=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Governors caught flatfooted by Biden's mask reversal"
-excerpt: ""
+excerpt: "Nebraska Governor Pete Ricketts said he found out about the CDC’s new guidance declaring it safe for most fully vaccinated Americans to stop wearing masks and end social distancing practices through news reports, not from the Centers for Disease Control and Prevention or President Biden's administration."
 publishedDateTime: 2021-05-16T21:50:52Z
 originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qPFN9Qb1jGA/governors-caught-flatfooted-by-biden-mask-reversal"
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qPFN9Qb1jGA/governors-caught-flatfooted-by-biden-mask-reversal"

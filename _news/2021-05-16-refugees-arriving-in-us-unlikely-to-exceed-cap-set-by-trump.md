@@ -2,27 +2,33 @@
 category: news
 title: "Refugees arriving in US unlikely to exceed cap set by Trump"
 excerpt: "President Joe Biden faced fierce blowback from fellow Democrats and refugee advocates for considering keeping his predecessor’s record-low cap of 15,000 for admitting refugees this budget year"
-publishedDateTime: 2021-05-16T10:44:00Z
-originalUrl: "https://www.washingtonpost.com/politics/refugees-arriving-in-us-unlikely-to-exceed-cap-set-by-trump/2021/05/16/207d4cfe-b63c-11eb-bc4a-62849cf6cca9_story.html"
-webUrl: "https://www.washingtonpost.com/politics/refugees-arriving-in-us-unlikely-to-exceed-cap-set-by-trump/2021/05/16/207d4cfe-b63c-11eb-bc4a-62849cf6cca9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/refugees-arriving-in-us-unlikely-to-exceed-cap-set-by-trump/2021/05/16/207d4cfe-b63c-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/refugees-arriving-in-us-unlikely-to-exceed-cap-set-by-trump/2021/05/16/207d4cfe-b63c-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+publishedDateTime: 2021-05-16T12:06:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/refugees-arriving-us-exceed-cap-set-trump-77720291"
+webUrl: "https://abcnews.go.com/Politics/wireStory/refugees-arriving-us-exceed-cap-set-trump-77720291"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/refugees-arriving-us-exceed-cap-set-trump-77720291"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/refugees-arriving-us-exceed-cap-set-trump-77720291"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_8a9720953dd84ad1965fe4a01c26503d_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Republican Arizona election official says Trump 'unhinged'"
@@ -184,6 +190,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_e8f3be20437144588b960af4450c52db_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump critic Cheney cautions that Jan. 6 riot could happen again"
+    excerpt: "Rep. Liz Cheney is criticizing GOP colleagues for downplaying the Jan. 6 riot and condoning former President Trump’s lies that the 2020 election was stolen."
+    publishedDateTime: 2021-05-16T22:47:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-05-16/trump-critic-cheney-cautions-that-jan-6-riot-could-happen-again"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-05-16/trump-critic-cheney-cautions-that-jan-6-riot-could-happen-again?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-05-16/trump-critic-cheney-cautions-that-jan-6-riot-could-happen-again?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/afa2c89/2147483647/strip/true/crop/3483x2275+0+24/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa4%2F49%2Fe77d57fe45bbab1f084bdbfcb3c8%2Fel-salvador-politics-overturned-21001.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "10 Things in Politics: Anti-Trump Republicans threaten spinoff 3rd party"
     excerpt: "And the Colonial pipeline is slowly restarting operations."
@@ -470,6 +492,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "Yecqikg3mdZ5nNsjJvzFO+PvanToFdnntPlOXMMbBKv3fDd8bWNnlckforz1IAIKCDlOTCOCQtie81Fvw8wza+e082o4AwHyA2jniWh/Hqv4csBQwKOw1dXfi8VmUvZYO0eBPv/40Uo5wQwyWYNFq4AQ9WIka1cjd8kpvur4oPAa1xgqR7BSyNkeE8YuSeuLwak+qRi2hSDkpz9lRoFqT0s5AbEmIRztQnzfG+Al2rEczYizJvIV8Pf0xYAioBBtDrcic6zCbXvUzysPbr+mwRTZhxmAH3fF9ViK3Nb+znogQZiWMz027JYp9z7xzrMos9EskkZj9DGmOho9CWdP9CeUoot9H7QyeoWDtbVW3QK9k7CRQ0ZFfkCPBOXB4fTJI5BR/M5C0caaPaDRvq/MxQ2KtUR9I+Ea67qTpgFwt4r14uEByUqatsRVc31iAKE6MOqr5VL47ioho9CksihF3X2hQzRG7caY8ODmgBjZY3YQoZmbdEuZDokCw0Q+BpnFtXdcRUBKTIcl+tuAOyGQKQ==;88VpAjC3qIZuNWocO0WVAA=="
+secured: "dvxp3882bdwbtrkueRvpMLbz+ktNHybaCXV6rv4Fubf6uVHVd7HzZgL+Y5wmAaK3LMdXoW/dnh/U8xgi2hiUP7edLJqH/N7dsvsjIdEoBdjroVXhgOrCFSWxOhRrQEI9n2V1MLtGhsNYEuJ9bSygGep2mk4spMnKF5hOOANJWAtThVfv4Ev2pDoxNyViurLN/uX0WZigRB7NDWElxS+YcpQpvXSDuvHzy9b1AgV9Qre6R5paGPRoGoQSGyIW9NDG2KIgtluN+qXrT2uXRE/wjaPBIreo9y+YqtPvjhYvr7wP3mp/UUHc4QZ4ZfW1xoEWrr8V+e/ahAD+5tOw6gnVV6yZ6QkcoisKjOcYW3LuVFg=;LSwCPHivsj+MGTIRnwn+xw=="
 ---
 
