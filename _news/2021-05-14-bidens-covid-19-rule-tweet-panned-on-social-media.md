@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-covid-19-rule-tweet-panned-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-covid-19-rule-tweet-panned-on-social-media.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://amp.spot.im/loader.png"
         width: 375
         height: 815
+        isCached: true
+  - title: "Biden's COVID warning: Unvaccinated 'will end up paying the price'"
+    excerpt: "President Biden highlighted on Monday that for the first time since the coronavirus pandemic swept the nation early last year, cases of COVID-19 “are down in all 50 states.” But in a pitch to encourage unvaccinated Americans to get their shots, the president warned that “those who are not vaccinated"
+    publishedDateTime: 2021-05-17T19:12:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EWA19tUp714/biden-covid-warning-unvaccinated-paying-the-price"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-covid-warning-unvaccinated-paying-the-price.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-warning-unvaccinated-paying-the-price.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden admin diverts $2B from COVID, health spending to care for migrant kids"
     excerpt: "The Biden administration has pulled more than $2 billion out of programs authorized by Congress for COVID-19 testing, emergency medical supplies and other health needs — and is spending it on shelter for the 45,000 unaccompanied migrant children that have flooded across the US border this year."

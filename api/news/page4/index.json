@@ -2,6 +2,170 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-11-biden-says-he-expects-a-more-aggressive-effort-to-relax-cdc-guidance-for-fully-vaccinated-people.md",
+      "title": "Biden says he expects ‘a more aggressive effort’ to relax CDC guidance for fully vaccinated people",
+      "excerpt": "President Biden predicted \"a more aggressive effort\" within his administration to increase the \"desire\" to get vaccinated by relaxing the Centers for Disease Control and Prevention's guidance on what fully vaccinated people can do safely. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uqfuJ5lhgOQ/biden-more-aggressive-effort-relax-cdc-guidance-fully-vaccinated",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uqfuJ5lhgOQ/biden-more-aggressive-effort-relax-cdc-guidance-fully-vaccinated",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-more-aggressive-effort-relax-cdc-guidance-fully-vaccinated.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-more-aggressive-effort-relax-cdc-guidance-fully-vaccinated.amp",
+      "publishedDateTime": "2021-05-11T13:36:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-mike-pompeo-bidens-stance-on-israel-and-iran-emboldens-terrorists.md",
+      "title": "Mike Pompeo: Biden's stance on Israel and Iran 'emboldens terrorists'",
+      "excerpt": "Former Secretary of State Mike Pompeo tore into President Biden's foreign policy regarding Israel and Iran, saying its stance on the long-standing disputes in the region \"emboldens terrorists.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qVVZjpj4_Q/pompeo-biden-israel-hamas-iran-terrorists",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qVVZjpj4_Q/pompeo-biden-israel-hamas-iran-terrorists",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae7a3b50-1eb5-4eb1-88c0-cb7eb37bbcb2/ef1326cd-9d60-4c6f-a38a-ac991775de88/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-biden-israel-hamas-iran-terrorists.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-israel-hamas-iran-terrorists.amp",
+      "publishedDateTime": "2021-05-11T13:01:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-trump-family-members-got-inappropriately-close-to-secret-service-agents-book-claims.md",
+      "title": "Trump family members got ‘inappropriately close’ to Secret Service agents, book claims",
+      "excerpt": "Concerns over bonds involving Trump’s then daughter in-law Vanessa and daughter Tiffany revealed in Zero Fail by Carol Leonnig",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/11561139299edbc7f8d3970677ad92cbae9c2a7c/0_1_3914_2349/master/3914.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=edbad52088432403c9d2d0b917585123",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service",
+      "publishedDateTime": "2021-05-11T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-11-biden-to-tap-rahm-emanuel-as-japan-ambassador-reports.md",
       "title": "Biden to tap Rahm Emanuel as Japan ambassador: reports",
       "excerpt": "President Biden is reportedly set to tap Rahm Emanuel -- former President Barack Obama's chief of staff and Chicago mayor -- as U.S. ambassador to Japan. ",
@@ -615,7 +779,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 430,
+      "heat": 470,
       "tags": null,
       "images": [
         {
@@ -723,7 +887,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 835,
+      "heat": 855,
       "tags": null,
       "images": [
         {
@@ -1193,170 +1357,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-09-hes-like-an-upside-down-iceberg-historian-jon-meacham-on-joe-biden.md",
-      "title": "‘He’s like an upside down iceberg’: historian Jon Meacham on Joe Biden",
-      "excerpt": "With Biden what you see is what you get, says the Pulitzer prize winner, who has advised the president, but FDR informs his approach to democracy in peril",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/may/09/jon-meacham-joe-biden-fdr",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/may/09/jon-meacham-joe-biden-fdr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/75963551a9eac3f4659d382a17b4f727ee3e6bfa/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=89f9494d8415059d4bd83d8b67aaf6fb",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/09/jon-meacham-joe-biden-fdr",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/09/jon-meacham-joe-biden-fdr",
-      "publishedDateTime": "2021-05-09T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-biden-administration-has-spent-3b-on-migrant-facility-contracts-report.md",
-      "title": "Biden administration has spent $3B on migrant facility contracts: report",
-      "excerpt": "The Biden administration has reportedly spent $3 billion in contracts to house unaccompanied children at the border – as it continues to deal with a continued influx of migrants coming to the border each day.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qsgBBzNOuw/biden-administration-border-migrant-facility-contracts-spending",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1qsgBBzNOuw/biden-administration-border-migrant-facility-contracts-spending",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 254,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f550adb-2ed6-455f-a2ae-68505d5f7890/5c62bf26-1061-41a5-a638-47043d8946a5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-border-migrant-facility-contracts-spending.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-border-migrant-facility-contracts-spending.amp",
-      "publishedDateTime": "2021-05-08T14:33:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-biden-white-house-releases-first-virtual-visitor-logs.md",
-      "title": "Biden White House releases first virtual visitor logs",
-      "excerpt": "The Biden White House released its first round of visitor logs Friday in an effort to \"restore integrity, transparency, and trust in government,\" the administration said.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/txUF60LDXWI/biden-white-house-first-virtual-visitor-logs",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/txUF60LDXWI/biden-white-house-first-virtual-visitor-logs",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 915,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88785100-c591-4705-a000-240dbb0fec6e/e8c41f49-b049-4819-a13e-a62dfe9c3e34/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp",
-      "publishedDateTime": "2021-05-08T13:02:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

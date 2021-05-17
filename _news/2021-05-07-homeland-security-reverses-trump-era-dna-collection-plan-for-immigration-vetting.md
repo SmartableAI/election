@@ -79,6 +79,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Arizona Republicans feud over audit as Trump pushes falsehoods about 2020 election"
+    excerpt: "Arizona Republican officials are pushing back against false claims from former President Donald Trump and his allies about the 2020 election -- another sign of how the same divisions that led the House GOP to oust Wyoming Rep. Liz Cheney from her post as No. 3-ranking member last week are fracturing"
+    publishedDateTime: 2021-05-17T19:24:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wx7wbxYS1YI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/arizona-audit-trump-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/arizona-audit-trump-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514130444-arizona-election-recount-0506-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Georgia's Republican lieutenant governor, a Trump critic, says he will not seek reelection in 2022"
+    excerpt: "Georgia Lt. Gov. Geoff Duncan -- a Republican who has been critical of former President Donald Trump's false claims of fraud in the state's election -- announced Monday he will not seek reelection in 2022.\n    \n"
+    publishedDateTime: 2021-05-17T18:24:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ARygDdbd3mU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/geoff-duncan-not-seeking-reelection-2022/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/geoff-duncan-not-seeking-reelection-2022/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 176
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517132709-lt-gov-geoff-duncan-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Liz Cheney expected to lose House Republican leadership post over feud with Trump"
     excerpt: "Rep. Liz Cheney is expected to lose her post in the House Republican leadership on Wednesday after publicly rejecting for months former President Donald Trump's lie that he won the 2020 presidential election.\n    \n"
     publishedDateTime: 2021-05-12T11:38:07Z

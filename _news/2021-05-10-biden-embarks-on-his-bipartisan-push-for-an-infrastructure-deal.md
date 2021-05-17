@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html"
 type: article
 quality: 175
-heat: 835
+heat: 855
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505194256-astrazeneca-vaccnie-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "White House says Biden will release tax returns 'soon'"
+    excerpt: "The White House will release President Joe Biden's tax returns \"soon,\" press secretary Jen Psaki announced Monday, reinstating a presidential tradition that was halted by former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-05-17T17:46:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TrS_wsNQPtc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/biden-tax-returns/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/biden-tax-returns/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517125338-02-biden-covid-remarks-0517-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

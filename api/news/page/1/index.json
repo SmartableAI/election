@@ -2,6 +2,157 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-18-biden-to-working-families-help-is-here.md",
+      "title": "Biden to working families: 'Help is here'",
+      "excerpt": "President Joe Biden says a new child tax credit “sends a clear and powerful message to American workers, working families with children: Help is here.\" 39 million families are set to receive monthly child payments beginning in July.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/05/17/biden-working-families-help-here/5134671001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/05/17/biden-working-families-help-here/5134671001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/7c75be8c-dca6-41d7-ac4b-b80419371f8e_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-17-how-trump-and-mcconnell-set-the-final-pieces-for-the-supreme-court-to-reconsider-roe-v-wade.md",
+      "title": "How Trump and McConnell set the final pieces for the Supreme Court to reconsider Roe v. Wade",
+      "excerpt": "Conservatives have been waiting decades for this moment: a transformed Supreme Court on Monday agreed to hear an abortion case that directly challenges women's reproductive rights tracing to the 1973 Roe v. Wade milestone.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5Uzxs-i9E-w/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5Uzxs-i9E-w/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201230094039-split-donald-trump-mitch-mcconnell-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/17/politics/abortion-supreme-court-roe-v-wade/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/abortion-supreme-court-roe-v-wade/index.html",
+      "publishedDateTime": "2021-05-17T11:54:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-kamala-harris-to-keynote-first-asian-american-pacific-islander-unity-summit.md",
+      "title": "Kamala Harris to keynote first Asian American, Pacific Islander unity summit",
+      "excerpt": "Vice President Kamala Harris will keynote the first unity summit for Asian Americans and Pacific Islanders on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/3521621268936/2021/1/dcf14d32301c165911ccb7e179718d61/v1.5/Kamala-Harris-to-keynote-first-Asian-American-Pacific-Islander-unity-summit.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/",
+      "publishedDateTime": "2021-05-17T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe.md",
       "title": "Mike Pence Rebukes Joe Biden's Tax Plan, Says China Will Benefit While US Faces Economic Catastrophe",
       "excerpt": "In a Monday op-ed, Pence claimed corporations will flock to China, which \"stands to gain thousands of jobs as U.S. employers flee the crushing taxes\" proposed by Biden.",
@@ -453,7 +604,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/republican-arizona-election-official-trump-unhinged-77717013",
       "featuredContent": null,
       "highlight": null,
-      "heat": 780,
+      "heat": 800,
       "tags": null,
       "images": [
         {
@@ -1200,162 +1351,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-biden-lashed-out-at-becerra-during-oval-office-meeting-on-migrant-kids-amid-hhs-white-house-tensions-reports.md",
-      "title": "Biden lashed out at Becerra during Oval Office meeting on migrant kids amid HHS-White House tensions: reports",
-      "excerpt": "President Biden reportedly lashed out at Health and Human Services (HHS) Secretary Xavier Becerra over his department’s handling of migrant children -- amid broader reported tensions between the White House and HHS.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WQClkfXx4lQ/biden-becerra-oval-office-migrant-kids-hhs-white-house-tensions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WQClkfXx4lQ/biden-becerra-oval-office-migrant-kids-hhs-white-house-tensions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18d5382e-fb73-4ecb-b630-6e13a9057c7b/31b58cbf-68dc-476f-9478-fea5b8426eff/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-becerra-oval-office-migrant-kids-hhs-white-house-tensions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-becerra-oval-office-migrant-kids-hhs-white-house-tensions.amp",
-      "publishedDateTime": "2021-05-14T14:31:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-we-found-joe-bidens-secret-venmo-heres-why-thats-a-privacy-nightmare-for-everyone.md",
-      "title": "We Found Joe Biden’s Secret Venmo. Here’s Why That’s A Privacy Nightmare For Everyone.",
-      "excerpt": "The peer-to-peer payments app leaves everyone from ordinary people to the most powerful person in the world exposed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/ryanmac/we-found-joe-bidens-secret-venmo",
-      "originalUrl": "https://www.buzzfeednews.com/article/ryanmac/we-found-joe-bidens-secret-venmo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2018-04/10/17/campaign_images/buzzfeed-prod-web-05/a-senator-asked-mark-zuckerberg-some-very-persona-2-18984-1523397005-17_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/ryanmac/we-found-joe-bidens-secret-venmo",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/ryanmac/we-found-joe-bidens-secret-venmo",
-      "publishedDateTime": "2021-05-14T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BuzzFeed News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-kinzinger-i-guess-i-agree-trump-is-the-leader-of-the-republican-party.md",
-      "title": "Kinzinger: \"I Guess I Agree\" Trump Is The Leader Of The Republican Party",
-      "excerpt": "Rep. Adam Kinzinger told ABC's \"The View\" on Friday that until someone else steps up, he supposes former President Donald Trump is still the leader of the Republican Party. \"Yes, I guess he is the leader of the party at the moment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/05/14/kinzinger_i_guess_i_agree_trump_is_the_leader_of_the_party_because_nobody_is_stepping_up.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/14/kinzinger_i_guess_i_agree_trump_is_the_leader_of_the_party_because_nobody_is_stepping_up.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/543319.jpg",
-          "width": 750,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

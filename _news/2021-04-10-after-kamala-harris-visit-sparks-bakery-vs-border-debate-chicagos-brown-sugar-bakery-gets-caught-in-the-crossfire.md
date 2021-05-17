@@ -279,6 +279,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
+    excerpt: "Harris, so far, has resisted making plans to visit, pointing out that her job description involves diplomacy in Latin America rather than policy at the border."
+    publishedDateTime: 2021-05-13T20:39:00Z
+    webUrl: "https://bangordailynews.com/2021/05/13/national-politics/republicans-arent-alone-in-saying-kamala-harris-should-visit-southern-border/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 52
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/05/Biden-1-1.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "No, the prime minister of Japan didn’t hold a Trump 2024 sign next to Kamala Harris"
     excerpt: "Japan’s prime minister met with Vice President Kamala Harris holding a Trump 2024 sign and wearing a red baseball cap. Japan Prime Minister Yoshihide Suga was not holding a Trump 2024 sign or wearing a red hat when he met with Vice President Kamala Harris."
     publishedDateTime: 2021-04-20T23:17:00Z

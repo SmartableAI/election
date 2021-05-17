@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/republican-arizona-ele
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/republican-arizona-election-official-trump-unhinged-77717013"
 type: article
 quality: 140
-heat: 780
+heat: 800
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_8a9720953dd84ad1965fe4a01c26503d_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "EU agrees partial truce with U.S. over Trump tariffs"
+    excerpt: "The European Union has agreed to a partial truce with the United States in a dispute over metal tariffs imposed by former president Donald Trump and to start discussions on global overcapacity and China's \"trade-distorting\" policies."
+    publishedDateTime: 2021-05-17T14:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-eu-idUSKCN2CY0Y3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2CY0Y3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2CY0Y3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210517&t=2&i=1562419768&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4G0FC"
+        width: 831
+        height: 545
         isCached: true
   - title: "Trump critic Cheney cautions Jan. 6 riot could happen again"
     excerpt: "Republican congresswoman Liz Cheney is criticizing GOP colleagues for downplaying the Jan. 6 riot and condoning former President Donald Trump’s lies that the 2020 election was stolen"

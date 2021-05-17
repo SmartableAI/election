@@ -263,6 +263,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
+    excerpt: "Harris, so far, has resisted making plans to visit, pointing out that her job description involves diplomacy in Latin America rather than policy at the border."
+    publishedDateTime: 2021-05-13T20:39:00Z
+    webUrl: "https://bangordailynews.com/2021/05/13/national-politics/republicans-arent-alone-in-saying-kamala-harris-should-visit-southern-border/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 52
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/05/Biden-1-1.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "After Kamala Harris’ visit sparks ‘bakery vs. border’ debate, Chicago's Brown Sugar Bakery gets caught in the crossfire"
     excerpt: "In the days following Vice President Kamala Harris’ visit to Brown Sugar Bakery in Chicago, Harris has been criticized for her stop while in the city — and the South Side bakery has been caught in the crossfire. Harris’ visit to the bakery Tuesday ..."
     publishedDateTime: 2021-04-09T20:49:00Z

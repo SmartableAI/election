@@ -63,6 +63,22 @@ related:
         width: 375
         height: 815
         isCached: true
+  - title: "Biden's COVID warning: Unvaccinated 'will end up paying the price'"
+    excerpt: "President Biden highlighted on Monday that for the first time since the coronavirus pandemic swept the nation early last year, cases of COVID-19 “are down in all 50 states.” But in a pitch to encourage unvaccinated Americans to get their shots, the president warned that “those who are not vaccinated"
+    publishedDateTime: 2021-05-17T19:12:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EWA19tUp714/biden-covid-warning-unvaccinated-paying-the-price"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-covid-warning-unvaccinated-paying-the-price.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-warning-unvaccinated-paying-the-price.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "GOP members press Biden, DNI Haines for more information on COVID lab leak theory"
     excerpt: "Republican members of the House Intelligence Committee wrote letters to President Biden and Director of National Intelligence Avril Haines demanding information on the origins of COVID-19, saying that they had found evidence to support the theory that the virus originated in the Wuhan Institute of Virology"
     publishedDateTime: 2021-05-16T15:00:50Z
