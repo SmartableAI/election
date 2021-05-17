@@ -411,6 +411,22 @@ related:
         width: 594
         height: 394
         isCached: true
+  - title: "Liz Cheney said more Republicans would've voted to impeach Trump but were in fear for their lives"
+    excerpt: "In a CNN interview after being ousted from a party leadership position, Cheney said some GOP lawmakers feared the consequences of opposing Trump."
+    publishedDateTime: 2021-05-16T13:17:00Z
+    webUrl: "https://www.businessinsider.com/rep-cheney-says-gop-lawmakers-who-opposed-trump-feared-for-lives-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/rep-cheney-says-gop-lawmakers-who-opposed-trump-feared-for-lives-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rep-cheney-says-gop-lawmakers-who-opposed-trump-feared-for-lives-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/6074106a2cc1ef0018da128b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Liz Cheney slams Trump's 'big lie' claim"
     excerpt: "Rep. Liz Cheney (R-Wyo.) pushed back May 3 against former president Donald Trump’s attempt to commandeer the term “Big Lie,” saying he is \"poisoning our democratic system\" with his persistent false claims that the 2020 election was \"stolen\" from him."
     publishedDateTime: 2021-05-03T21:28:00Z

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Arizona Republican calls Trump ‘deleted database’ statement ‘unhinged’"
-excerpt: "Maricopa county recorder calls for end to ‘insane’ election lies but Trump supporters back ongoing, chaotic partisan recount"
-publishedDateTime: 2021-05-16T11:41:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
-webUrl: "https://www.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
+title: "Trump critic Cheney cautions Jan. 6 riot could happen again"
+excerpt: "Republican congresswoman Liz Cheney is criticizing GOP colleagues for downplaying the Jan. 6 riot and condoning former President Donald Trump’s lies that the 2020 election was stolen"
+publishedDateTime: 2021-05-16T21:25:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-critic-cheney-cautions-jan-riot-happen-77726483"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-critic-cheney-cautions-jan-riot-happen-77726483"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-critic-cheney-cautions-jan-riot-happen-77726483"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-critic-cheney-cautions-jan-riot-happen-77726483"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/73247b63ca2c55778629393e0bbd4538da04c34b/0_75_5127_3076/master/5127.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=782914235850df4359494194dcaf165c"
-    width: 600
-    height: 360
+  - url: "https://s.abcnews.com/images/Politics/WireAP_516afacb78a2454bbe8894fd941cb601_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -159,6 +159,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Arizona Republican calls Trump ‘deleted database’ statement ‘unhinged’"
+    excerpt: "Maricopa county recorder calls for end to ‘insane’ election lies but Trump supporters back ongoing, chaotic partisan recount"
+    publishedDateTime: 2021-05-16T11:41:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/73247b63ca2c55778629393e0bbd4538da04c34b/0_75_5127_3076/master/5127.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=782914235850df4359494194dcaf165c"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
     excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
     publishedDateTime: 2021-05-15T20:30:00Z
@@ -188,22 +204,6 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_8a9720953dd84ad1965fe4a01c26503d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump critic Cheney cautions Jan. 6 riot could happen again"
-    excerpt: "Republican congresswoman Liz Cheney is criticizing GOP colleagues for downplaying the Jan. 6 riot and condoning former President Donald Trump’s lies that the 2020 election was stolen"
-    publishedDateTime: 2021-05-16T21:25:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-critic-cheney-cautions-jan-riot-happen-77726483"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-critic-cheney-cautions-jan-riot-happen-77726483"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-critic-cheney-cautions-jan-riot-happen-77726483"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_516afacb78a2454bbe8894fd941cb601_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -508,6 +508,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "XGteVVlfUsJ60VJqg6cummja7Xju7J4x+ZZmvD5fyv+M4neLZ2UJ3eYWLsHicFEln1MYi/L/kfaPDdfg9g8RjdigT0sUPXcj9rRVpZmz06Y7B0jL4OCZma5kCXOG4pRu4Y1QQkMt9e/5y+r439JUkr/dk6g5bFaccJSTVa6uw3XAAYRjPOdDlyRxXleUAogvcXVVfJ5758iXmksj2ItuCTsI4zrJF1KUWa1qlWY/GkMXQRUwenYWDDNjCtbPJPKKE7r/IgIs2oiRm49WHYn6tCNI8r1LlcQjnB8eZ3xCg/AFyoz7jvNjqZxGyXdxyx+4kuZ1RDes+/0iqrZnBFf9lcFGlxqj9/z06hqyG5aU0OQ1s0Q2nhwm4byDoIN77gXPF0rt1eySjxQeACh4Mh3WWo+mjT7uCsOs+wnuaXklKCD4Z6vbD1cfMTopsb4+JRZNUInthpVrab/wlhyLDtNcU8aMpXujoydSeBLlblYy2Z7JPfxV5XygjdtChngDAoFLWNmYza0A2di4VstZ9+oLtA==;l8FHrQYV0WRXRMyKzkKrUQ=="
+secured: "qZFRdPVlKjnmtfQBQAXf40vSdRwtXmflqZPTIfrWg926Ex21BIJ+xeJ2t2gdYCQaDFcPtuSbrccfy7MXIkQtPYYCrEHFaolFWOgOkWTEyWYvDeo0cDFR+oZSwDcz63AcYnV61dvHLDCzF8lG3skO1pBfrar/Pgb8cE0cGmKL7K1aH5/iobyw0tQkeYu+apq3WfPiqqlB7CjYBeY+bRw1mdxoRyEHX93AyzCAPZjFaLMAHlYwjwcSDoZAwiKDDqZyWwUAjB5oG+o4W6m4KzUSOZwtVv8F0vr+dy0VoIz46mWh1+kFYx8M/8NLi1XisZi/uo0t3Pbc+XnHfuQ91Q/BNEHpNJdYwF+uNE8LQ0fq14Y=;uh95rr42nB9GYPCRhh4e0g=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Liz Cheney: \"I Do Regret\" Voting For Donald Trump"
 excerpt: "During an interview that aired Sunday on ABC's \"This Week,\" former House GOP conference chair Liz Cheney reflected on casting a vote for President Donald Trump in 2020. \"How could you not regret that vote,"
 publishedDateTime: 2021-05-16T14:58:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.html"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/16/liz_cheney_i_do_regret_voting_for_donald_trump.amp.html"
 type: article
@@ -73,6 +73,6 @@ related:
         height: 690
         isCached: true
 
-secured: "iGd6ZpRZjDkAJ4aCvpOEqNMcVS3KFse2mW93nimNY/eWD++SSyFUEC3OSCJEOFP5EIserYbDVpc9mvBpjUp9QZS6aV21RKpl/Q9Ejg1+GlmTjoUAjID4jlBewzgNJLDdxhb8sh4fIjA7DIwhyLe4NvV/FTFMzcuxbmRr6o6NtD7GiH8a5qs/ujmqK3iUe/dG8HY4snadt+V/9J1vp/qBjoBdNZxujmHdKKW1m5AlK7q+W++u4JUxDlGRkexuBfhiqZ8rLGUlyt5yyy4xGXXiXFQ78AHMggEe+5NvJ2mgZ0lMVJGpnNfFN48hGyPEEqmTnJzoDYE8a6QKFA+2lDhsqLHlQNDbVmDPNRJUEmdxHLvSdKRICAqQSJStMbRB9JH4Qz9wUSWMUkM2Glr+oiczEGXPeK435JNRy0o4suMS60NpfNrHKgX6M2sqbKdCsrGZp5GsusAXXXeBhynvo7T/UIvSyNKHtnk/Ao+9jToYHSCq+Qo/SzKHU2XZPxQoihlcHOhI/lf1mlxllqdiLce4/Q==;MdxJN8QeIRwr7BAftY3Rtg=="
+secured: "KEfJL3AlVSj2mv9jR5JjH8fGmLgC7i5tYe4pxtP08NpFCgRyXZ7nMwBV+YkdfNQNoJqt0+gn02FhaFAP4ioCPYLSsAG+I0DeQE1C3sGFkra/a4zwx+xa5aYNqKhe3Ak3OutyjH8/rRvpuza/FbiEenzJ9v4PZ3n6TSYnrSKWF0hIv6e7idXIpqO+W9ebuCgDBFbphebd2F3AvMmxNLV/R8TEVok7bJ0zB6IpNF1vWXIQIyDdncvFIf58G2Jj+29rnlfm5fTyixyvzaJBO2B7+eRDO5OW2JxSIAiDGzUct/W2KDlkYzPwasFXCf9Em53OtPEI9+/Ls8p1u1w0nXFXVNwz6IE0RzFRbisw+G5ym7I=;b6g1/8+8CGg6Ia4RHb6HWA=="
 ---
 

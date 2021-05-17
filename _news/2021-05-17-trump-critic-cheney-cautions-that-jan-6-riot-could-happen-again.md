@@ -207,6 +207,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump critic Cheney cautions Jan. 6 riot could happen again"
+    excerpt: "Republican congresswoman Liz Cheney is criticizing GOP colleagues for downplaying the Jan. 6 riot and condoning former President Donald Trump’s lies that the 2020 election was stolen"
+    publishedDateTime: 2021-05-16T21:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-critic-cheney-cautions-jan-riot-happen-77726483"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-critic-cheney-cautions-jan-riot-happen-77726483"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-critic-cheney-cautions-jan-riot-happen-77726483"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_516afacb78a2454bbe8894fd941cb601_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "10 Things in Politics: Anti-Trump Republicans threaten spinoff 3rd party"
     excerpt: "And the Colonial pipeline is slowly restarting operations."
     publishedDateTime: 2021-05-13T09:39:00Z
@@ -492,6 +508,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "zK0gGUcfebwIOQEWXDx1xN0l1epocSTfDe+IsiZ8H1qKWXPnocMS1Q2fgiaeTl7tYxRtVo9l4rjDlYR4Tj9fbK7/7BqTx/NdszMaGk96v+6zSPhRPR+8EtWVisU9YiYe9EipF8j2NnF6hamVBD2H9amf0KXjJJ0+jkzrd0qT4bg8d4KXBpJQNaZMr+z5wihavNoTTc4Kqtha/qxw1g5PSOywCmVZp74gAImNc3wVed3C9MzidHscf9+nrK1NIKZ/w9et0tvWyAXmJI4iW9dWG3NN/6va5/vL1rS9r2B8EY71SYSxGlxsMksVCMhJi83qn45Ilv5CKzKRo28oe9V5vqOJNsm7RNqOCZEPCnvnJYk=;chLVEqNg+bJcqDBIiJMfVA=="
+secured: "6YwvNXAn64/6MkDeP8su2T7ik9C/vip0c9uEpJZBsnF2I+9H1Z4mKPp57KWFJdGmZVPoCOsVe7qbZyaXZkLbtK90YcZq/Rqdndg9tI5LAnOaZWPXwLHJWyHds5A+ETTK/DobKrHYt34vJpsmJr8AoEzUtL3biSa6kJMmn23VP9JJOH3uBZ8hwFVWY5TfCLdHBq1mU+QHDyZPf15Rh8aJvKik89oZl/PBctquRsq3Iop0Nwa7wyuEaOiRdCMOs+IRONk1ZUuWkm6zlTyq7zOxrVH2ka/OqhLjo2I49V8nJcsWn3mWk7TamF8SFXCZZVLSneypFkNrc6ek1J1gFYV/fsMa4ojcFsoY0s8p7StpwKSJ0Xua+i29dzNH5XZRqE8dAaxoL5Q05ijHgfszkZ4eX+vTeFkz++3maE7l53fa+kJzHzu6/L7yYiOz+MLp9Ngg80FuO4JlAMVcDCJqvOWmxolrGJYJIzSXEnZYxKXNsOpvJicOBEv7O2TiVJq9GYWtH4KGUcHB2suHcPBsyXvtWA==;rSZRoF2O9u5yYmWO8j77KQ=="
 ---
 

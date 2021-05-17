@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Biden Courts Congressional Leaders on Infrastructure, but Divisions Remain"
-excerpt: "The meeting produced little progress, underscoring the political challenge for President Biden as he seeks to exploit the narrowest of majorities in Congress to revive the country’s economy."
-publishedDateTime: 2021-05-12T22:18:00Z
-originalUrl: "https://www.nytimes.com/2021/05/12/us/politics/biden-congress-infrastructure.html"
-webUrl: "https://www.nytimes.com/2021/05/12/us/politics/biden-congress-infrastructure.html"
-ampWebUrl: "https://www.nytimes.com/2021/05/12/us/politics/biden-congress-infrastructure.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/12/us/politics/biden-congress-infrastructure.amp.html"
+title: "POLITICO Playbook: Biden under pressure to act, not mull"
+excerpt: "Right now, the Biden administration is “struggling to find a clear message” amid “anxiety-inducing data on prices and jobs,” as Victoria Guida, Christopher Cadelgo and Natasha Korecki report: “Treasury Secretary JANET YELLEN spooked markets this month when she said interest rates could rise if the economy heated up too much — then clarified a few hours later that it wasn’t a prediction,"
+publishedDateTime: 2021-05-16T15:50:00Z
+originalUrl: "https://www.politico.com/newsletters/playbook/2021/05/16/biden-under-pressure-to-act-not-mull-492865"
+webUrl: "https://www.politico.com/newsletters/playbook/2021/05/16/biden-under-pressure-to-act-not-mull-492865"
 type: article
-quality: 133
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +24,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/05/12/us/politics/12dc-biden1/12dc-biden1-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://static.politico.com/dd/df/f31e0fc942d5a36fcacaf2c4f570/gettyimages-1318203757.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -432,6 +430,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden Courts Congressional Leaders on Infrastructure, but Divisions Remain"
+    excerpt: "The meeting produced little progress, underscoring the political challenge for President Biden as he seeks to exploit the narrowest of majorities in Congress to revive the country’s economy."
+    publishedDateTime: 2021-05-12T22:18:00Z
+    webUrl: "https://www.nytimes.com/2021/05/12/us/politics/biden-congress-infrastructure.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/12/us/politics/biden-congress-infrastructure.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/12/us/politics/biden-congress-infrastructure.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/12/us/politics/12dc-biden1/12dc-biden1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Live Updates: Biden Says Colonial Pipeline Is Nearing Full Capacity After Hack"
     excerpt: "President Biden addressed the political, economic and technological perils of the cyberattack, which prompted panic buying and gas shortages on the East Coast. Mr. Biden will meet with Republicans about his $4 trillion infrastructure plan."
     publishedDateTime: 2021-05-13T15:58:00Z
@@ -510,21 +524,7 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "POLITICO Playbook: Biden under pressure to act, not mull"
-    excerpt: "Right now, the Biden administration is “struggling to find a clear message” amid “anxiety-inducing data on prices and jobs,” as Victoria Guida, Christopher Cadelgo and Natasha Korecki report: “Treasury Secretary JANET YELLEN spooked markets this month when she said interest rates could rise if the economy heated up too much — then clarified a few hours later that it wasn’t a prediction,"
-    publishedDateTime: 2021-05-16T15:50:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2021/05/16/biden-under-pressure-to-act-not-mull-492865"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/dd/df/f31e0fc942d5a36fcacaf2c4f570/gettyimages-1318203757.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
-secured: "zv2xQa9JgyPpiuwoM6GuShXJ4rnYvdYNlfGg3sD4hHdxUg8a4/HrxFCZ08fGdxONdcKWGWsS7tYqxbbnwEEVH1qSg6pg6+KwvYhNiTSDX/QPhLnnAtlrDSXSydnSq48egulQfsRY+2kWj11e8tZbWOFmqNfg9B4Uu4fMGoa8xnLcmdNbDVSREVzChW3YpYPbptoPZnHKYpVP+cMUK1QppF9+YFdH6yFVwCWmsow7kVRjVMhVsNKnUKfnoyscWazhZT2alF4j1v8r9y82FTKxhg6IQduDCliOTScWXclRkqdw+/s+WLBJtJjCCJ7KOn+kAaM0nEQNMXY08e6G7m9Fv4z2CPQLZscr0X/SDnpg4AYy5j4JqFLO5HT3uI+xnNvqMmckeZayo6PBsqaZW22sYLoOsnLc4NMBTyAExP4g2xT9PuaJ30bWBeN+4VOlm1qJaDXDI4zuzNqtjpt1KXfV/n3W6bmISD+/31ufRd8Fj55Xcigutwq0EGKKUsGqywsJa+E/nKA/PcICbwYO3cBOMg==;9L6Ib14d2o7gCm2nyMd5JA=="
+secured: "MTMivQFqhoTSsNwW3BMPDiXsnEuPbQbBdPAm59tOMb/5pLc1G2tUKz9xuaJMxdJ/d1mwO/mULl5uM6NecqkJP70mVuzp6kGHKBE8ZEatM1ePIriALDMAJiNYI6gonKSyDL6NQrJkeDhF819U8Qk5uryD78eaU6ujEoiegUS9UHLbJNbrNQ5jAn7r7F5xs3ENu8tQKwbPnb/worRpAnM2xAD3E+YqYDkkq/pZmG2ILjOtsmHAWcCPJobKmVBMCO8CprHZJq3jzO4sC3/xprnasBovVznbaPoDmdI0Uwe5SwtL/lVlrUe/Nhs320aSBEsVm/xDfjckUYPyNVim0Htw1LsLRmsT+BlOyM4tBFdxRPo=;GQ1iY6E2GL3um9JPjzPO2Q=="
 ---
 

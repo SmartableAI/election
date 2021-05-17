@@ -509,6 +509,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "POLITICO Playbook: Biden under pressure to act, not mull"
+    excerpt: "Right now, the Biden administration is “struggling to find a clear message” amid “anxiety-inducing data on prices and jobs,” as Victoria Guida, Christopher Cadelgo and Natasha Korecki report: “Treasury Secretary JANET YELLEN spooked markets this month when she said interest rates could rise if the economy heated up too much — then clarified a few hours later that it wasn’t a prediction,"
+    publishedDateTime: 2021-05-16T15:50:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/05/16/biden-under-pressure-to-act-not-mull-492865"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/dd/df/f31e0fc942d5a36fcacaf2c4f570/gettyimages-1318203757.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "3c96pE49OxDaGtB1SBXSulVRBOh+ptUr76UqGT1SOD5UkDVeFmePgbSpxHHsmPWvdp7ByGiJWLJMpgFxHHvgB8sQqtzlfEhR/LcYV8zU7l9bBa8ma4EqqGIt7QkcTKTUg5YWJN8dz+GRAric4d8KxKWiwUBwPYhV3HI/aI0+idkBtd789gFDbFlm0Hg3pcE/9KqR4lbRsz+EtmXh4pt5sbG9L/qXTE16JzPiIuGiyAxpAK63KDM8Y7QRdkLLI55Mm72QS4AcHeuhdsyd0HwluyrtIwBvxf8rGrygNak72S4tO/bsooXGAdo4V5LkQXUw8SxrMMd6G5Pw0K3rHuLxi6W2Q0VAcUNvHj/Vyat8eQs=;VGDf5yKkZACbLcoRP3p4Zw=="
 ---

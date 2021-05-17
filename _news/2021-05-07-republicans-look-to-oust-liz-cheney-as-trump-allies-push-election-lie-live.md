@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trum
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/07/liz-cheney-trump-republicans-us-politics-live"
 type: article
 quality: 137
-heat: 917
+heat: 937
 published: true
 
 provider:
@@ -396,6 +396,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1794335/donald-trump-liz-cheney-gop-vote-house.jpg"
         width: 594
         height: 394
+        isCached: true
+  - title: "Liz Cheney said more Republicans would've voted to impeach Trump but were in fear for their lives"
+    excerpt: "In a CNN interview after being ousted from a party leadership position, Cheney said some GOP lawmakers feared the consequences of opposing Trump."
+    publishedDateTime: 2021-05-16T13:17:00Z
+    webUrl: "https://www.businessinsider.com/rep-cheney-says-gop-lawmakers-who-opposed-trump-feared-for-lives-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/rep-cheney-says-gop-lawmakers-who-opposed-trump-feared-for-lives-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rep-cheney-says-gop-lawmakers-who-opposed-trump-feared-for-lives-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/6074106a2cc1ef0018da128b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Facebook to announce decision on Trump ban"
     excerpt: "Video Module Facebook to announce decision on Trump ban. Posted . Facebook's independent oversight board will announce whether it will uphold or reverse a decision blocking former"
