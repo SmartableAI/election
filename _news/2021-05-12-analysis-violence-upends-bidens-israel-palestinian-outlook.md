@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/analysis-violence-upends-bid
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 245
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden feels political ground shift as Israel-Gaza conflict rages on"
+    excerpt: "Analysis: US president may find himself increasingly isolated in his resolute defence of Israel"
+    publishedDateTime: 2021-05-16T22:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/16/joe-biden-feels-political-ground-shift-as-israel-gaza-conflict-rages-on"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/16/joe-biden-feels-political-ground-shift-as-israel-gaza-conflict-rages-on"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/16/joe-biden-feels-political-ground-shift-as-israel-gaza-conflict-rages-on"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/49b8587f85438117dca407bc628f7a24795fd979/0_47_3096_1858/master/3096.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f6d8582d2714f5f902f6a74ad09c3c59"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden was unprepared to respond to the worst violence Israel-Palestine has seen in years"
     excerpt: "President Joe Biden does not have an ambassador in Israel — and hasn't yet nominated anyone — amid the worst fighting the region has seen in years."
     publishedDateTime: 2021-05-12T22:40:00Z
@@ -76,6 +92,20 @@ related:
       - url: "https://s.abcnews.com/images/International/WireAP_e353934a96bc4d2b811416f1699344bf_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden says he is working toward calm in Israel-Palestinian conflict"
+    excerpt: "President Joe Biden on May 16 said his administration is working with Palestinians and Israelis to work towards a sustained calm, adding that both deserve to live in safety and security."
+    publishedDateTime: 2021-05-17T02:22:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/biden-says-he-is-working-toward-calm-in-israel-palestinian-conflict/2021/05/16/b7bd3d22-48a2-4c9e-b1f4-53544423c382_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/thumbnails/60a1c1a34cedfd0001fbbde0/2021-05-17T010221Z_1_OVEDCUC4F_RTRMADC_0_ISRAEL-PALESTINIANS-BIDEN-ROUGH-CUT.jpg&w=1080"
+        width: 960
+        height: 540
         isCached: true
   - title: "Kamala Harris’ Niece Stands With Palestine, AOC Slams Biden For Israel Support"
     excerpt: "Biden expressed his support for Israel in a phone call with Prime Minister Netanyahu Harris and Ocasio-Cortez slammed Biden for 'siding with opposition' More than 100 Palestinians have died from the attacks by Israeli forces The ongoing conflict between Israel and Hamas militants in Gaza has put the Biden administration,"

@@ -3,8 +3,8 @@ category: news
 title: "Liz Cheney: Trump Can't Be Ignored, His Rhetoric Continues To Be \"An Ongoing Danger\""
 excerpt: "Former GOP conference chair Rep. Liz Cheney responds to being ousted of her position, and speaks out against her successor Elise Stefanik. \"Fox News Sunday\" host Chris Wallace asked Cheney why she can't move on from criticizing the former president: REP."
 publishedDateTime: 2021-05-16T17:20:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_trump_cant_be_ignored_because_he_continues_to_be_a_real_danger.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_trump_cant_be_ignored_because_he_continues_to_be_a_real_danger.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_trump_cant_be_ignored_because_he_continues_to_be_a_real_danger.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_trump_cant_be_ignored_because_he_continues_to_be_a_real_danger.html"
 type: article
 quality: 58
 heat: -1
@@ -73,6 +73,6 @@ related:
         height: 690
         isCached: true
 
-secured: "TaGzY7BljgP7dHUxicBQU3CB5yxNakDxZlxkbr6yxw/iPaspc8GVPa/Na7uva8uIQsYLvgLXSNmzuAjZL1c+HjG489QMN4ywm3fj5r784WM++EH8rxwlfcZg8YTPNtHn+E2y0kGqFj4qHzcXESP2eJghgkpArBfN68MSOtJEmv/byDz+VKSOv/iwnHJXuCDsot7uowEkXb2HahDKhCGOozMBQ5UzUVh30C8lPmyawoAXIVmJkl+J1vC50UKobWNsvLsHXCWL7pG3U24ayat+GOuS19+JX2kkqTaUyrGUfN9qFYd9vaCAzKRYwTrOYcyO5orQTOqzL14e5GEwXsNLmei1xqAVqLR7g/0xG5Ud6tC/dyUeMEUfQ/GT39wmr+z/Uy8SZJ/mNBsaKrwV43gTepewbD4MyACsuEP6bF2Vc+PnJqowbztMtIzqBXGTlBkVi4pIjQG5YdhPO/WYjm4nYxSWIMV+2v+ZyYnFGUhVo7ARwcDiriNA5qsx+HIvXeF601q/U8+47NPF1j81YUGddA==;vlpyFOpVmNq8QWHK7EvBMQ=="
+secured: "MDTy6WuqDNxnvom6u/dMqGbe+mP6C0ocscxMwCLpSwJEMjU0wn+xiCQcYFi0kpchIInJ8XJzsOKAU/m3n6whrNIU6YsyPpEHiLrQak0h4xHFGUwNQ4QVpA7d9fFURNwOuXP6vk54I3qNuYElOHPjuzIJutzg2h72EvVuOWVHpcIwzRA9+6dVVKvcHKiTK4luqmzJ/TnCEMqGC70GTSrHMH62ZdIx1aIUxFqHsnAfTvJPrxph16lT7vl/pTBXQM8C/dU5hsUDeCCDroNELw8covPgcrcLH0mBDgDe5zsdJnzJzw4qjKwBJWebfl1PmNl9dqV0g0X0QXGhc/uv86qNxsRkSNNnOUhaCRKZlj66+aA=;5CcJPES6UZu9iRlHUHv8sg=="
 ---
 

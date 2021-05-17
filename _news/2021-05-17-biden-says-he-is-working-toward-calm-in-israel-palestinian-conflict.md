@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Israel-Palestine flare-up has caught Biden administration unprepared"
-excerpt: "Analysis: The White House is playing for time and needs to decide quickly how to deal with Trump’s legacy of unwavering support for Netanyahu"
-publishedDateTime: 2021-05-12T03:47:00Z
-originalUrl: "https://www.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared"
-webUrl: "https://www.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared"
-ampWebUrl: "https://amp.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared"
+title: "Biden says he is working toward calm in Israel-Palestinian conflict"
+excerpt: "President Joe Biden on May 16 said his administration is working with Palestinians and Israelis to work towards a sustained calm, adding that both deserve to live in safety and security."
+publishedDateTime: 2021-05-17T02:22:00Z
+originalUrl: "https://www.washingtonpost.com/video/politics/biden-says-he-is-working-toward-calm-in-israel-palestinian-conflict/2021/05/16/b7bd3d22-48a2-4c9e-b1f4-53544423c382_video.html"
+webUrl: "https://www.washingtonpost.com/video/politics/biden-says-he-is-working-toward-calm-in-israel-palestinian-conflict/2021/05/16/b7bd3d22-48a2-4c9e-b1f4-53544423c382_video.html"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/f79a64332981437da44ba3fc5324584b9570d820/0_92_3584_2150/master/3584.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4da22353425bdd34f96ba4053c6d9e31"
-    width: 600
-    height: 360
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/thumbnails/60a1c1a34cedfd0001fbbde0/2021-05-17T010221Z_1_OVEDCUC4F_RTRMADC_0_ISRAEL-PALESTINIANS-BIDEN-ROUGH-CUT.jpg&w=1080"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -46,6 +44,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AN6GYPFSUEI6XPEW7X2V3ZB354.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Israel-Palestine flare-up has caught Biden administration unprepared"
+    excerpt: "Analysis: The White House is playing for time and needs to decide quickly how to deal with Trump’s legacy of unwavering support for Netanyahu"
+    publishedDateTime: 2021-05-12T03:47:00Z
+    webUrl: "https://www.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/may/12/israel-palestine-flare-up-has-caught-biden-administration-unprepared"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/f79a64332981437da44ba3fc5324584b9570d820/0_92_3584_2150/master/3584.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4da22353425bdd34f96ba4053c6d9e31"
+        width: 600
+        height: 360
         isCached: true
   - title: "Joe Biden feels political ground shift as Israel-Gaza conflict rages on"
     excerpt: "Analysis: US president may find himself increasingly isolated in his resolute defence of Israel"
@@ -93,20 +107,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden says he is working toward calm in Israel-Palestinian conflict"
-    excerpt: "President Joe Biden on May 16 said his administration is working with Palestinians and Israelis to work towards a sustained calm, adding that both deserve to live in safety and security."
-    publishedDateTime: 2021-05-17T02:22:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/biden-says-he-is-working-toward-calm-in-israel-palestinian-conflict/2021/05/16/b7bd3d22-48a2-4c9e-b1f4-53544423c382_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/thumbnails/60a1c1a34cedfd0001fbbde0/2021-05-17T010221Z_1_OVEDCUC4F_RTRMADC_0_ISRAEL-PALESTINIANS-BIDEN-ROUGH-CUT.jpg&w=1080"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Kamala Harris’ Niece Stands With Palestine, AOC Slams Biden For Israel Support"
     excerpt: "Biden expressed his support for Israel in a phone call with Prime Minister Netanyahu Harris and Ocasio-Cortez slammed Biden for 'siding with opposition' More than 100 Palestinians have died from the attacks by Israeli forces The ongoing conflict between Israel and Hamas militants in Gaza has put the Biden administration,"
     publishedDateTime: 2021-05-14T05:17:00Z
@@ -124,6 +124,6 @@ related:
         height: 683
         isCached: true
 
-secured: "EU//nrPq2c8fo3byzARdxTVO81jlAT1C3cE/wd6ylo7bXFs1XGyHyUlWj9uPa94lZ5f6rlpDENpu1dCXVjZCkut1Ioh0dGvMRpgZNYxmNypsL3ij1fTdYMwShoin6KZogq24kuCF/NOmabnzeIEPDUAxqB4OArlJKYgJ/ZSbaqTUy8ltkxhI7b9G4oTPAs80j7NwQh2UTXif0ra4PA/JVseHkyGhep0qGhud/Axh6dKv3Bg+c0ybME8GVktXOLUEv8iWui2zYUySstuvLOCk7tRdCgbHVPp90Kug5Rje6K6WzID2XmU+nDGEn/nsB9v1oZuyJun/NdGHbvWvE5sHXQONxdWed+6LLxSY/zZdTXuUAqLeIwMhoadNxt7ejIAMmYUuEy81G18KN175qcwCHweOTVeCWQN5ktjfrArzfHUQ7032Lvk78Pc9fxurZAwX7dDTDuNUbhYgU2PjPRGaYNss4K/YNNfATwI+6YBIj4X5rvE9N9qbv+da8rA66Nt7Ptc5wMOLVjR04XhPkKfR0A==;pbVt/JpiMqyQSs00m3DWNQ=="
+secured: "5eMq6brV4otAlm01z3uJ6GLWIhBDfAxOe5BDYdXP4WWGkD/TvjiEpNXLr1y3e6K7766P6o1jovUKIXN4F6wMAQ/S2/wtA9LwoIAFU1UEcJS5s9SxuhZDhDS7YriSMZlmdvFCRypTjbz0dDLUjdHuz8bc2jtIC5gHyFFU6cGpE+FWW5sJAjdalI4NrYz7OtEyFiunJWCH/6I/Nf2fOnG0r+K+dF20dd9wqxzS+JraEXt+x5eKP5TvIGzhv6jTuGZJXRInSxlHKUTB4Y9yRhSt3P3DMSKfun2lGt8yQWzP0Nxfblu1rXF1njgwFj1qSGHtcCZOEYiaIiaZQauCAkD8kXJh0VAAYlnVGV1tr2yXbKU=;Nl/o2ZYO6U6N+oYAW4TNug=="
 ---
 

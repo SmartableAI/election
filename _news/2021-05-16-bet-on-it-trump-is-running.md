@@ -3,8 +3,8 @@ category: news
 title: "Bet On It. Trump Is Running."
 excerpt: "President Donald Trump wants to run for president in 2024, and so he shall. The story some Republicans like to tell themselves -- that Trump will not run again for the White House because he knows he can't win and he's smart enough to see the glory in being a GOP kingmaker -- is wishful thinking."
 publishedDateTime: 2021-05-16T10:18:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/05/16/bet_on_it_trump_is_running_145756.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/05/16/bet_on_it_trump_is_running_145756.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/05/16/bet_on_it_trump_is_running_145756.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/05/16/bet_on_it_trump_is_running_145756.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/16/bet_on_it_trump_is_running_145756.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/16/bet_on_it_trump_is_running_145756.amp.html"
 type: article
@@ -75,6 +75,6 @@ related:
         height: 562
         isCached: true
 
-secured: "p3pV0mOeuXZiIypkCvSHpYPpnX2MGrhpQpVcw4rWIlyfVEuh0NvpRSwHHrjeY6BC8l9u71A7qCeJ2dt+kJ9uPO5hGYsCa3huaaBjnOlJl7KuNWsCX+EnmZjO4Qm6NAXgCLr+uuyi1F8JF+gmtZpcTRtbBQgQ6RSnIho5rQIJQ+eWZm7F2vgbFy9kx9aVi+gMRgLW0+5GDFWwNr3nE2449U869ZYpLsVzDayqz1E1tCJVoyCJHYQmt41lSzZEZWvO3a2FBhCLU5ob4pVJjChNWWr05Z0JaBcpJjXum2NZY6bJR1+lQI0dfiHMyDo6JqD6QuaTJnO/rWQ4XiwfO2hr4NhCb2FKhiq5l+hbCDMDxmwGfMN+RfBbOSrYQhcmNPbnBNyTgNGjsfU5yKq3GeCLIYDFpUDDspU4uxn5bUGGZP4c8jiAVZYfei2eQqRRDQaURAECGt7/ELQMpbQTzHF4/+SB6IfBrTqeNPxsk92q/Xh4TnJrDjn2o9PZykwRrITrer3llqBRs/F7ZavyKE+5KA==;yybciKSNYLJVnisGJmqoUw=="
+secured: "daOmPohulUShVSvfSsPwopDMJYD1Oh9RVq/fvZcG2I5K0n7HzBsK25OiFYsHadbWEXKWttl2dT0G844J6GbG680e7sCKESCy+YJyg+Nym9q89emszYQeQuELljIbh+erUnR7U0tkrSDsiz7W1gGlRY+k5QR4Tn2DOHIQX8TGe9B5lVs8gaslDOBB3mE5h/UqbfM7GHbYGmEOhdxNVls4J1kr9nE0Q+5nhSE52Q+4v5r39p/pUwAZErrsYXsz3RinmzUYJj3981lkn6BVDhTXxlpWyKUHxjW+oKckCuR2/DQsiSJwAFh02H48rcbMW1JwLgL35vNks//SzyibjB48xiaUGXfEFOokmcvR1o0AQ0g=;vqTEUKzU2rFHCT3QCB/5/A=="
 ---
 

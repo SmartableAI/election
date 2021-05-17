@@ -61,7 +61,7 @@ related:
   - title: "Liz Cheney: Trump Can't Be Ignored, His Rhetoric Continues To Be \"An Ongoing Danger\""
     excerpt: "Former GOP conference chair Rep. Liz Cheney responds to being ousted of her position, and speaks out against her successor Elise Stefanik. \"Fox News Sunday\" host Chris Wallace asked Cheney why she can't move on from criticizing the former president: REP."
     publishedDateTime: 2021-05-16T17:20:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_trump_cant_be_ignored_because_he_continues_to_be_a_real_danger.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/16/liz_cheney_trump_cant_be_ignored_because_he_continues_to_be_a_real_danger.html"
     type: article
     provider:
       name: RealClearPolitics

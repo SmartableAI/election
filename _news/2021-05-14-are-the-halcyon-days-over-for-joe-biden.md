@@ -3,8 +3,8 @@ category: news
 title: "Are the Halcyon Days Over for Joe Biden?"
 excerpt: "On taking the oath of office, Jan. 20, Joe Biden may not have realized it, but history had dealt him a pair of aces. The COVID-19 pandemic had reached"
 publishedDateTime: 2021-05-14T10:44:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/14/are_the_halcyon_days_over_for_joe_biden_145764.amp.html"
 type: article
@@ -606,6 +606,6 @@ related:
       domain: washingtonexaminer.com
     quality: 63
 
-secured: "+plvW+fcbPnj9ZWGIJTzyw99EM8VA3ZcLDgf5vwPncb6uXq86YL087wzswoUBMEdBieZVowb0q+QWlGkb3mPMwWpabuWfBhFgDZ96CxEAqsrQmpVPmDJ2vDwA11Fp6WvSQ/Kqxz/1HHK+dUlUPTL3No/pHaDDiMPUZduZ6TcGxcpN4Htf1eSIMVsauyV4hNi44VHXf2go08jonQUA+bKLQ6JZQdSmzn6GxElY4RSbbBa1dueZM5ffCNpJv5g6pHwXPsxCIsBpp9POuqI9kwOGt9q7d9VyYnp/LUJ+Y7uu5sybPpI/C7lU1XukfnqMe3bZBp0YoGqbo7SLO8U75si4i/TKdIhPTvWUVDvKFDC0LkHWdhKDTizLXeGGveNalTtbP8FLg8uy80wFcY+LdDJe7bncueA32tkIKT9mBMEookZPG2AnT/ZwCZ9mSnwm9L5+m71UuaZCsCIkRzPeF+oLsWDJ81ces3GAQQn8Nbr23LdUHBjEl3VvjqrzKA/QkhN8WbGx1agNxz+rOvyoFURpw==;1NONuaGt4mpc5j28dNwW/w=="
+secured: "vSbF3M/8f0oAP8uwPqSTqWbx+iJ4RpjLa2BLkCnD158PhtkAi83+JR2T4JnRvBIMmtYnAu41DvoJpH+5tqmzxW26qP1Fx+TiH2BiqjMfYpmsQy2Ll0sxtwiejuCoUs8AhofQ4TmnxsIHx5BlB3HdgIMV0hybqLgQkt3jeSMnwgIvFROKx3YSgut8IScOfr37fETwWEa72Xn1M6LR5yeZCVCT8RpDU6AKmSknNn7sD0rF7LjjvTkdRNS0SCUFBN0y5TVDpNOFfLysbAQF4wEl1IqA5QUTG3/56o61ZkXU9jG9F1VbxrY9e1joNWrdpOqJYivMj42O7/XeqpZ/pI+HWnl2ne749KVFS7jggC6l1cE=;lqnX76kfX8wQnoRcTywJkg=="
 ---
 
