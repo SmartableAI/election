@@ -2,21 +2,21 @@
 category: news
 title: "Refugees arriving in US unlikely to exceed cap set by Trump"
 excerpt: "President Joe Biden faced fierce blowback from fellow Democrats and refugee advocates for considering keeping his predecessor’s record-low cap of 15,000 for admitting refugees this budget year"
-publishedDateTime: 2021-05-16T10:44:00Z
-originalUrl: "https://www.washingtonpost.com/politics/refugees-arriving-in-us-unlikely-to-exceed-cap-set-by-trump/2021/05/16/207d4cfe-b63c-11eb-bc4a-62849cf6cca9_story.html"
-webUrl: "https://www.washingtonpost.com/politics/refugees-arriving-in-us-unlikely-to-exceed-cap-set-by-trump/2021/05/16/207d4cfe-b63c-11eb-bc4a-62849cf6cca9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/refugees-arriving-in-us-unlikely-to-exceed-cap-set-by-trump/2021/05/16/207d4cfe-b63c-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/refugees-arriving-in-us-unlikely-to-exceed-cap-set-by-trump/2021/05/16/207d4cfe-b63c-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+publishedDateTime: 2021-05-16T12:06:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/refugees-arriving-us-exceed-cap-set-trump-77720291"
+webUrl: "https://abcnews.go.com/Politics/wireStory/refugees-arriving-us-exceed-cap-set-trump-77720291"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/refugees-arriving-us-exceed-cap-set-trump-77720291"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/refugees-arriving-us-exceed-cap-set-trump-77720291"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DWH3Z3VWGYI6XPCKMKCJZ5WMVE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_8a9720953dd84ad1965fe4a01c26503d_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -508,6 +508,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "0TTF5DdIBPqQCHlPzRofy8aUAet3H56O6R3n9uS5ZDOic7xHSKoV4wyXBRyPwB8IlKJyknqyUPyviTZFCCaODKUGAwCZpGFVO4zHwMzxTW292d0DM/C/dZ+QF49tmaPjALUZWRR6Bnmem1WOJLCN+WiiG98QyjfkR3JDDwb5Nrz0ADW2ShERH9gNywe/0OJWuq63n5SsA70Z5O1lf2MABwKJpCc/7qRyjUOmdAvYcBymtoPDK72Q3aAwhzIuzY5f8g3apsrwEiJeIriRGtVGY4+KOizsHfXY5BdtXc49cgQCoNNN9TGg/HmUy8FUGvqQ+EeliqAIY6iah8BXKpORavW1iecQiV4B41kHj1J0w07nfd/6+9xIsLq9HOZ9Lz04vrZs8OqwXY3f1RNBWfD/StVbcmiYDAS5D9kqU0d9a9UFtipNyvcGfTEYT/6H/VqNOj4evJVKxGJRjhWDnV/6tKy0cCwLmVzrR2HdzxMQHB2nh5P5z0Qs6vE5lJUFPROZmwc2lv/X7UFyEQjkDqYfQw==;XGHBio6QcqmBQGuHHVv7Zw=="
+secured: "dWaXwCGWjxvCi1/Kv6QVfX2rccUNLSPlZv1dz1LhG4neGbC+M7RjYv0q7XjSuQhWcmE0k7JpNrxHxchpP+qQTnyMEXh/dVhW6k+UrWKYtc/fUYQZHME27E2PdjESaGFdjaI3oveG5unEqFl2IBazP5LY8H4kTR6PgkbCPob16pHCKFAAjQrmutRG8y3q7rSLUs9momrEwWBU2NH/ZUUqkm6mdVHnwZ37Yb3yRoeDKtxkQujoOWbAAVgl13KPLqynCSeMay7eyyaog8tMbtyvrtAIUY89thcWYZLEQrer+FrAQuOD++eomVt+k9kRwBWPEQL+yoJqSbpmL49f+WQs6adVVuq3QRrZsR2D3iXe0/s=;4Y/LDjfW/aesFSZso3M69A=="
 ---
 

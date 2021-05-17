@@ -1,36 +1,48 @@
 ---
 category: news
-title: "British elections send a message to Trump, GOP and Biden’s Democrats"
-excerpt: "If Donald Trump were at all self-reflective, he would probably be kicking himself right now as he surveys the results of last week’s British elections. Through his own mistakes and obstinance in his handling of the coronavirus pandemic,"
-publishedDateTime: 2021-05-11T09:04:00Z
-originalUrl: "https://www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html"
-webUrl: "https://www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp"
+title: "This Time, The Craziest Election Doesn’t Have Trump"
+excerpt: "In the first polls after she announced her campaign, which is led by former senior Donald Trump staffers, she drew just six percent support. Whenever it was, at some point last week California Republicans engineering the recall and some incorrigible swaths of the political media industrial complex faced an inescapable truth: They can’t expect anything more than hollow attention and anemic support if they’re just going to rely on reflexive provocations,"
+publishedDateTime: 2021-05-17T11:00:00Z
+originalUrl: "https://nymag.com/intelligencer/2021/05/california-recall-is-craziest-election-since-trump.html"
+webUrl: "https://nymag.com/intelligencer/2021/05/california-recall-is-craziest-election-since-trump.html"
+ampWebUrl: "https://nymag.com/intelligencer/amp/2021/05/california-recall-is-craziest-election-since-trump.html"
+cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/05/california-recall-is-craziest-election-since-trump.html"
 type: article
-quality: 155
-heat: 1255
-published: true
+quality: 90
+heat: -1
+published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Magazine
+  domain: nymag.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WSYQ6HFR7QI6XECZ3ALWXHRXTA.jpg&w=1440"
-    width: 1440
-    height: 934
+  - url: "https://pyxis.nymag.com/v1/imgs/81e/129/4e027feae4eaed3afd4dc03cb1842f16b5-cali-recall-3.1x.rsocial.w1200.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
+  - title: "British elections send a message to Trump, GOP and Biden’s Democrats"
+    excerpt: "If Donald Trump were at all self-reflective, he would probably be kicking himself right now as he surveys the results of last week’s British elections. Through his own mistakes and obstinance in his handling of the coronavirus pandemic,"
+    publishedDateTime: 2021-05-11T09:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 155
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WSYQ6HFR7QI6XECZ3ALWXHRXTA.jpg&w=1440"
+        width: 1440
+        height: 934
+        isCached: true
   - title: "Up close with Biden and Trump's top diplomats"
     excerpt: "It's a foreign policy vision drafted by Biden's mild-mannered Secretary of State Antony Blinken, a veteran diplomat who received a warm welcome from allies relieved to be putting four years of Donald Trump's erratic unilateralism behind them."
     publishedDateTime: 2021-05-07T21:00:00Z
@@ -669,22 +681,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This Time, The Craziest Election Doesn’t Have Trump"
-    excerpt: "In the first polls after she announced her campaign, which is led by former senior Donald Trump staffers, she drew just six percent support. Whenever it was, at some point last week California Republicans engineering the recall and some incorrigible swaths of the political media industrial complex faced an inescapable truth: They can’t expect anything more than hollow attention and anemic support if they’re just going to rely on reflexive provocations,"
-    publishedDateTime: 2021-05-17T11:00:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/05/california-recall-is-craziest-election-since-trump.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/05/california-recall-is-craziest-election-since-trump.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/05/california-recall-is-craziest-election-since-trump.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 90
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/81e/129/4e027feae4eaed3afd4dc03cb1842f16b5-cali-recall-3.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "President Joe Biden revokes Trump orders on `heroes garden' and other issues"
     excerpt: "President Joe Biden on Friday revoked a number of his predecessors executive orders including one to create a \"National Garden of American Heroes.\""
     publishedDateTime: 2021-05-14T20:54:00Z
@@ -864,6 +860,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "JxeDSCRcdLn7D1RSeAq+VJ1bJHN9dMgk2BcSxHKzTpfNks/UfGPtZ4JPHm+kdEvC2Au3RQ9PVap1dHs2jmPDKKj1bSB/gvFRXceIPpAzAeuE8QGa+Kms32aUzXHELTk+Ur2013oIuhaB86pG1py296+BxT1FH4DIPbY0oTmoSYt/ybqWYeGyPfukDDNvPR/dVlJWpaCUJX+qDDPbQZwwB8HRHCiQbfz7HfTjIWsbfFdYjIB/A6DXoCKAZvnunDrz0JB0+z8DfkBoIJ/DWUvWTKVVWahS61DC2PgnivWMKQAJ//h7JOGEa67nO4gHb2frerEBJdcDxssyk+aZJLF9dfaUUnlrFBNXO+uDr9Ahvn4=;pEdDmWlpgB5TUh9GPXBBdg=="
+secured: "DIWrNH31HtJixpWPN1QyMxenshX/jsJQZFu7ppwv1guZrgZ7crjLtkUnV0xWcQ6WossKFfUinYNr8PoahuMnlx+pH2SaSe/CIcGF83j0eVR22hhHYSGYbfc91BMs8Sd89m20SGkf5la4gdSzEpmxTHIPu8IFTw7168JiWHi7lTkIR1vxDHzhAk+LYP94OvrjTbbXDXnvVLldGxXlXaE3m/rWgFE5Z6fyAD4gK1z2AIjZ3V6aNL14/UqFnbVd82oijajrly+8L3NgNHBeKqyZycwd1I4OOZ56ebRQzHEG+EULL/CXZjCMuMNVMrFPMe/4LXJT9KhrFQGm66Z3ePLnBcMZxKyeCPNeIYoDq8YqWkM=;FOsVWayfszFqG8vFq4u/Rw=="
 ---
 
