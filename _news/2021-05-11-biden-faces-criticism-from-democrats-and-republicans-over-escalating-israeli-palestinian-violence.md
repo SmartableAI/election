@@ -127,6 +127,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ohio GOP House candidate Max Miller slams Biden approach to Middle East, says he would be 'champion of Israel'"
+    excerpt: "EXCLUSIVE: Republican congressional candidate and former Trump administration aide Max Miller slammed the Biden administration’s approach to the Middle East as a \"complete capitulation to terrorists,\" vowing, if elected, to be a \"champion of Israel.\" "
+    publishedDateTime: 2021-05-18T17:43:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KsmQxjjhtWQ/ohio-gop-house-candidate-max-miller-biden-middle-east-israel"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-gop-house-candidate-max-miller-biden-middle-east-israel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-gop-house-candidate-max-miller-biden-middle-east-israel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump likens Biden to Carter, citing gas crisis and Israel-Palestinian conflict"
     excerpt: "Former President Donald Trump is comparing President Biden to Former President Jimmy Carter due to the recent gas shortage and tensions between Israel and Palestine."
     publishedDateTime: 2021-05-12T21:20:00Z

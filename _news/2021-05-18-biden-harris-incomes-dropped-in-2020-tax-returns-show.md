@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Biden, Harris Incomes Dropped in 2020, Tax Returns Show"
-excerpt: "President Joe Biden’s income fell dramatically to $607,336 in 2020 as he dropped lucrative speaking engagements to campaign for the White House, but he still earned enough to pay the higher tax rates he’s proposed for wealthy people."
-publishedDateTime: 2021-05-17T21:00:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-05-17/biden-harris-incomes-dropped-in-2020-tax-returns-show"
-webUrl: "https://www.bloomberg.com/news/articles/2021-05-17/biden-harris-incomes-dropped-in-2020-tax-returns-show"
+title: "Biden, Harris incomes dropped in 2020, tax returns show"
+excerpt: "Both Biden and Harris would end up paying higher tax rates under Biden's American Family Plan based on their incomes this year."
+publishedDateTime: 2021-05-18T16:58:00Z
+originalUrl: "https://www.pressherald.com/2021/05/18/biden-harris-incomes-dropped-in-2020-tax-returns-show/"
+webUrl: "https://www.pressherald.com/2021/05/18/biden-harris-incomes-dropped-in-2020-tax-returns-show/"
 type: article
-quality: 120
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Portland Press Herald
+  domain: pressherald.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaJZNs4HCbTM/v1/1200x800.jpg"
-    width: 1200
-    height: 800
+  - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -1348,6 +1344,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "CYTok2I9FVddXwGMvjEKoziuar6f1OAuJWs9U+MgkKfswP2LXHmcRZ0FxnT9t7J6zxBDiR4bB+WtVzPkknm5dzJpaPU0tNnnI81lk0jEoHPIS3UndJMCTFGURP5YlB/gekGxT6Sq+XOEUbetk4Oc12CtEeButMWo+u8tcnENmk9AEu5l51Xt1h1oK8bHZA+WoMcrpR4+83/fMk/gwCRpgnB+ChPcI2+M1LTD6CTiXcaijXnrJzDlZkFDkue8UoFJ2tpflio4+tKHfj4BA9MACr7GEPaqk4k+aqN/DT8bQYBRjqb4G/TGCHOARPXJGLhgPl5L1Z5B7JYJ0rxineOx043PrjYbe5h6Lf8mvWzfcis=;6HpH0/2Vxeuy7kz1GDClPQ=="
+secured: "q7mPFppE2NcNEEzXumKgJgyDqyJ4Vja3X99JktA71tLgup0N+70JepHAuAigfQGUhJz6619wzxkiI+A2/LPzOHIPDFkI2tmPx2MQ4J2EF5Vq26pZLAZdqhVHlrzfoKvo7oKngzI6kjzUMr5byzcK+QL9IpJSEwxaylo0sWaNkPwc6g5lvzD2okACwZFw+v7PY0q0GYZCc6wvvj6zIZzAP21Zd/yWY5gHw6ccF/4vQBAVsbv4E7+rKTrg/I60EFlFnpKvvGCcrEW8hcf3/UGMluQZbhevzym27/mQc5mvBnAWvDdDfI6cAjxFFZrjkiHh1McLnS1/ZfU8M/1cFcnX8n2DCJFM469pS/HaNV4ajb0=;b3J8Db6aljyhfGamIiM1jQ=="
 ---
 

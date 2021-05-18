@@ -140,6 +140,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Ohio GOP House candidate Max Miller slams Biden approach to Middle East, says he would be 'champion of Israel'"
+    excerpt: "EXCLUSIVE: Republican congressional candidate and former Trump administration aide Max Miller slammed the Biden administration’s approach to the Middle East as a \"complete capitulation to terrorists,\" vowing, if elected, to be a \"champion of Israel.\" "
+    publishedDateTime: 2021-05-18T17:43:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KsmQxjjhtWQ/ohio-gop-house-candidate-max-miller-biden-middle-east-israel"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-gop-house-candidate-max-miller-biden-middle-east-israel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-gop-house-candidate-max-miller-biden-middle-east-israel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "New York Times ripped for appearing to blame Trump for ongoing violence between Hamas and Israel"
     excerpt: "The New York Times was the focus of more criticism over the weekend following an article published Saturday that seemingly blamed former President Trump for the ongoing violence between Hamas and Israel."
     publishedDateTime: 2021-05-17T20:35:00Z

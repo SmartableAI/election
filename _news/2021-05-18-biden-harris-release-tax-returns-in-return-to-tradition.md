@@ -553,20 +553,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden, Harris Incomes Dropped in 2020, Tax Returns Show"
-    excerpt: "President Joe Biden’s income fell dramatically to $607,336 in 2020 as he dropped lucrative speaking engagements to campaign for the White House, but he still earned enough to pay the higher tax rates he’s proposed for wealthy people."
-    publishedDateTime: 2021-05-17T21:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-05-17/biden-harris-incomes-dropped-in-2020-tax-returns-show"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 120
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaJZNs4HCbTM/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Live updates: White House reacts to FedEx shooting, Biden expected to make statement"
     excerpt: "Eight people were killed and several more were injured in a mass shooting at the FedEx Ground Plainfield Operations Center late Thursday. Police say the gunman, who has not been identified by authorities,"
     publishedDateTime: 2021-04-16T16:02:00Z
@@ -1139,6 +1125,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 70
+  - title: "Biden, Harris incomes dropped in 2020, tax returns show"
+    excerpt: "Both Biden and Harris would end up paying higher tax rates under Biden's American Family Plan based on their incomes this year."
+    publishedDateTime: 2021-05-18T16:58:00Z
+    webUrl: "https://www.pressherald.com/2021/05/18/biden-harris-incomes-dropped-in-2020-tax-returns-show/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 70
+    images:
+      - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point Harris’s plane landed at 10:30 a.m. on a rainy day in Greensboro, where Gov."
     publishedDateTime: 2021-04-18T03:00:00Z

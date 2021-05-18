@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-biden-admin-israel-hamas-fals
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-admin-israel-hamas-false-equivalency.amp"
 type: article
 quality: 191
-heat: 371
+heat: 391
 published: true
 
 provider:
@@ -128,6 +128,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Ohio GOP House candidate Max Miller slams Biden approach to Middle East, says he would be 'champion of Israel'"
+    excerpt: "EXCLUSIVE: Republican congressional candidate and former Trump administration aide Max Miller slammed the Biden administration’s approach to the Middle East as a \"complete capitulation to terrorists,\" vowing, if elected, to be a \"champion of Israel.\" "
+    publishedDateTime: 2021-05-18T17:43:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KsmQxjjhtWQ/ohio-gop-house-candidate-max-miller-biden-middle-east-israel"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-gop-house-candidate-max-miller-biden-middle-east-israel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-gop-house-candidate-max-miller-biden-middle-east-israel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump likens Biden to Carter, citing gas crisis and Israel-Palestinian conflict"
     excerpt: "Former President Donald Trump is comparing President Biden to Former President Jimmy Carter due to the recent gas shortage and tensions between Israel and Palestine."
     publishedDateTime: 2021-05-12T21:20:00Z
@@ -177,6 +193,6 @@ related:
         height: 405
         isCached: true
 
-secured: "uATCAakpQG/aFXm0WmgwQGTyQXhb2xwe1xbUUPZNzHf6qhf9AswlhMA3TNpYSHNo0AmlGxMv2bOoz/7IEjyQBkTTw0c/tSIg1TGEr8ybe0807IQywkK7nuld43g4FeCeYR3Po+E/qsOKUatsRRjU+yp3dEv6JbyD/XObpM52KI/yqGu4vNhf8Dap5FNbX2zWieX6cl0rs/Cf5slU+8Y6ZwJpKIu3gc7X6HcGXQxE4WH6P1LszaF1EJLtAhkUkB4LV0xUpDxqvUG/DhjQk13yDIZbLU+/IK30jUydvYvcwzkV8J8eUXyGikN0x0WpZBJc+oSOMoIt1wwM/zlXiZ2S+/X+FYtUp98agZ79hMPqfXA=;RwYV8nOf2CIBZmGEFR3/6g=="
+secured: "rJyFBQA47NRX3knZdADgc6q0Lma84BWGcor9oyOi0uBRkqVTEPrk2U0dQyz9GEnrou0L4dsqVEZn/h2jRvBFv8XF4IA42HdtoXfWWuYvA+OJ9UZmMDBs0Z1v11AZD3C9jwMwlyyPYYMtQBVUDiI6FJVYoWqrTb27xXuOekvjtF72ZARY/0Eqs+cVDE/lYlYj1CfinjDJvxgJERYNRBzA9QR6dMGlpxOP7VfF2gjizm9oZXfHiM9DaCKeSCY8wRiwPOMd2LpOYi+kyZQ6asAeTBG4N1V2hiemVP4XFuDHlOLzgkDCdvSgj8kwfwJQo8yEv3SXI481hACJiVJjNbgyGqNh97Mck5MBivfbO1C2g1g=;GcPiHyFjq/LeO82JoDN1zA=="
 ---
 

@@ -65,8 +65,8 @@ related:
         isCached: true
   - title: "Joe Biden expresses support for ceasefire on call with Netanyahu – live"
     excerpt: "White House reported the US president urged Israel ‘to make every effort to ensure the protection of innocent civilians’"
-    publishedDateTime: 2021-05-17T22:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live?page=with:block-60a2e9aa8f08e757a7357e4d"
+    publishedDateTime: 2021-05-17T22:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live?page=with:block-60a2efed8f08e757a7357e8f"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live"
     type: article

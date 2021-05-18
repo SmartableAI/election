@@ -47,6 +47,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Hemingway: Biden's Self-Inflicted Wound At The Southern Border"
+    excerpt: "Mollie Hemingway commented on reports that the Biden administration is reallocating $2.1 billion to the Southern border, saying that voters are likely surprised how fast the situation spiraled out of control during FNC's \"Outnumbered\" panel on Monday."
+    publishedDateTime: 2021-05-18T17:31:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/18/hemingway_bidens_self-inflicted_wound_at_the_southern_border.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/46/469546.jpg"
+        width: 800
+        height: 599
+        isCached: true
 
 secured: "Ei7LW604otM1L1veVp7kXv04PtuKfGJ5MmrNOkobRW4paQaoxYFhP0fJYz8WWXeh79QtXwREYDzbM/HagKWKal9F3zI4Dk38a/L5E98S++beeb9dzm5qsoj0j+lxulmsJ7xg3DllhEjR1iT1BYOfHxOY9YniTunwwgWMYrU7kLlTLJZdMw8vpDIel4aoS1szqtdrfpKLFdKMOrTlVxV64r9BK4VXhQcQiDTzuAAiat3nCp2q9LZy98BHPqVh5hTdXahNqf1pVJzeMVRc4YkRGo7EPEzLE+WcVQHCXLbYX39jQMwo22LRQ1Kt16D0M0WzOVsrYMZczcbxheC7oA/SJ1h4YiDetWaL6z+iiE1coww=;BFRbHexY3uqdJepmRcqM4g=="
 ---

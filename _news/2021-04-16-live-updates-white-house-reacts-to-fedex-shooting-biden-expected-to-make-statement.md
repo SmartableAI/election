@@ -559,20 +559,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden, Harris Incomes Dropped in 2020, Tax Returns Show"
-    excerpt: "President Joe Biden’s income fell dramatically to $607,336 in 2020 as he dropped lucrative speaking engagements to campaign for the White House, but he still earned enough to pay the higher tax rates he’s proposed for wealthy people."
-    publishedDateTime: 2021-05-17T21:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-05-17/biden-harris-incomes-dropped-in-2020-tax-returns-show"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 120
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaJZNs4HCbTM/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "At Earth Day climate summit, Biden promises 50% reduction in US greenhouse emissions"
     excerpt: "President Joe Biden announced the goal of reducing greenhouse gas emissions by 50% as he kicked off a climate summit with 40 other world leaders."
     publishedDateTime: 2021-04-22T14:29:00Z
@@ -1129,6 +1115,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 70
+  - title: "Biden, Harris incomes dropped in 2020, tax returns show"
+    excerpt: "Both Biden and Harris would end up paying higher tax rates under Biden's American Family Plan based on their incomes this year."
+    publishedDateTime: 2021-05-18T16:58:00Z
+    webUrl: "https://www.pressherald.com/2021/05/18/biden-harris-incomes-dropped-in-2020-tax-returns-show/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 70
+    images:
+      - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Biden, Harris Release Tax Returns In Return To Tradition"
     excerpt: "What in other years would likely not be huge news is this year making headlines: President Joe Biden has released his tax returns. The release of his"
     publishedDateTime: 2021-05-18T11:19:00Z
