@@ -111,6 +111,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "California recall candidates use auto-donation tactic Trump made famous"
+    excerpt: "Consumer advocates and campaign finance officials say the tactic misleads donors into giving more money than they intend because they must uncheck boxes to ensure their accounts are not regularly charged."
+    publishedDateTime: 2021-05-17T22:14:00Z
+    webUrl: "https://www.politico.com/states/california/story/2021/05/17/california-recall-candidates-use-auto-donation-tactic-trump-made-famous-1382586"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/03/ef/a61698614850894760b16836e8b4/210511-caitlin-jenner-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Full Crenshaw Interview: ‘There’s no point in re-litigating some of these things’ after Trump loyalists purge Cheney"
     excerpt: "In an exclusive interview with Meet the Press, Rep. Dan Crenshaw (R-Texas) talks to Chuck Todd about the fight within the Republican Party over how closely the GOP should embrace former president Trump's lies about the 2020 election."
     publishedDateTime: 2021-05-16T13:35:00Z

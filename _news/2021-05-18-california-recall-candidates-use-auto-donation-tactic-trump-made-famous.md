@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Full Crenshaw Interview: ‘There’s no point in re-litigating some of these things’ after Trump loyalists purge Cheney"
-excerpt: "In an exclusive interview with Meet the Press, Rep. Dan Crenshaw (R-Texas) talks to Chuck Todd about the fight within the Republican Party over how closely the GOP should embrace former president Trump's lies about the 2020 election."
-publishedDateTime: 2021-05-16T13:35:00Z
-originalUrl: "https://www.nbcnews.com/meet-the-press/video/full-crenshaw-there-s-no-point-in-re-litigating-some-of-these-things-after-trump-lies-engulf-gop-112050757663"
-webUrl: "https://www.nbcnews.com/meet-the-press/video/full-crenshaw-there-s-no-point-in-re-litigating-some-of-these-things-after-trump-lies-engulf-gop-112050757663"
-ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo112050757663"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo112050757663"
+title: "California recall candidates use auto-donation tactic Trump made famous"
+excerpt: "Consumer advocates and campaign finance officials say the tactic misleads donors into giving more money than they intend because they must uncheck boxes to ensure their accounts are not regularly charged."
+publishedDateTime: 2021-05-17T22:14:00Z
+originalUrl: "https://www.politico.com/states/california/story/2021/05/17/california-recall-candidates-use-auto-donation-tactic-trump-made-famous-1382586"
+webUrl: "https://www.politico.com/states/california/story/2021/05/17/california-recall-candidates-use-auto-donation-tactic-trump-made-famous-1382586"
 type: article
-quality: 112
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +24,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://media13.s-nbcnews.com/i/mpx/2704722219/2021_05/1621171952239_mtp_full_crenshaw_210516_1920x1080.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://static.politico.com/03/ef/a61698614850894760b16836e8b4/210511-caitlin-jenner-getty-773.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -128,19 +126,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "California recall candidates use auto-donation tactic Trump made famous"
-    excerpt: "Consumer advocates and campaign finance officials say the tactic misleads donors into giving more money than they intend because they must uncheck boxes to ensure their accounts are not regularly charged."
-    publishedDateTime: 2021-05-17T22:14:00Z
-    webUrl: "https://www.politico.com/states/california/story/2021/05/17/california-recall-candidates-use-auto-donation-tactic-trump-made-famous-1382586"
+  - title: "Full Crenshaw Interview: ‘There’s no point in re-litigating some of these things’ after Trump loyalists purge Cheney"
+    excerpt: "In an exclusive interview with Meet the Press, Rep. Dan Crenshaw (R-Texas) talks to Chuck Todd about the fight within the Republican Party over how closely the GOP should embrace former president Trump's lies about the 2020 election."
+    publishedDateTime: 2021-05-16T13:35:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-crenshaw-there-s-no-point-in-re-litigating-some-of-these-things-after-trump-lies-engulf-gop-112050757663"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo112050757663"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo112050757663"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
+      name: NBC News
+      domain: nbcnews.com
+    quality: 112
     images:
-      - url: "https://static.politico.com/03/ef/a61698614850894760b16836e8b4/210511-caitlin-jenner-getty-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media13.s-nbcnews.com/i/mpx/2704722219/2021_05/1621171952239_mtp_full_crenshaw_210516_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Mediaite: The Interview: Politico Playbook Team Dishes on The GOP Power Struggle, Pissing Off Both Sides, and Not Ignoring Trump"
     excerpt: "Ryan Lizza, Rachael Bade, Eugene Daniels and Tara Palmeri — joined Aidan McLaughlin on The Interview to talk about everything from a Republican Party power struggle to what it’s like covering a new regime in D."
@@ -157,6 +157,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "V2roxqFjrrT83/V+Un3yyiDdvwHTZuWi6yOPqmU/b71y31WX5AW7QLfN1GI5+SEHYPyu+jTXh1IM87oFLbk/oxX9I6IhgVaPDXBw+ur2d0AeLI9TgGj7YkYDAmsRDxwEt/t7ShD52Q92qmhs9FvnYD/H92bw98JnrrCr72lR3AS4gqMUnmwCmdgQ8uFaLHuJdpPLDxZqdlISDMUjjtv3YlejEM73E6sdRGVGpUQRuHufkxX3MXi0kUDX7XwQUwkHSExKCxBVIij8Bhjs90wqNABtOoox7bVcMEslUmPWa2TmjdoWYn4JetJwXxWiIw67ShDngR+EY35xFaUfKYPgyloT9vRm9VY2vypQICMbEz810PkOD/tdvTDWozoyPhKD/fFwmiT1vCWc1PjSq285s9s3nU4k3l6rSioo0KYiGN0IeSQJCnjfvpmt6j6wDxYbxqT5getIXNZq13VL3UOlECN8Vc4HkHYTycBFq/kqkJw0ms2p9wMB9WK4FgEdTf81F1Bh5FrS2sIDrhg1HVyNnA==;Qjcrx0Jx4JJZewu0mi6tjg=="
+secured: "OxIwRAm+/EFVgVdjmRwAa+CWiflXdJZTBdEHyq/JpIQrm6mlXq62E/MIj4wXrIcekZ7saejViaGS4Z4n32K+SsfDOAZHTYi6BRDRqSO+4sRGnmQv6+anoNoE6xISyjaSilDvtDI5tX+NpgLzgatnXCk1czh/cXxC77U3m5DxuL7VkRURpBd3XNhP/+f/d3vJZcuw3W8yxbc6ojiT0aSM0MdZOdtuKMS6+2foemrgxkOUPu3nDi//zOgIID3fsII50yVThM0+Af0THWEXlm0JRxEGLkReZtZ72uXe4ChCDbYJ3brTbSuq0SGqmOT/xLffBk+0c409rbJf1+Z6s2WbnawC1JpoPN2KPAumTjFeOSA=;VunVObAIMuqyuqtQvGMOdg=="
 ---
 

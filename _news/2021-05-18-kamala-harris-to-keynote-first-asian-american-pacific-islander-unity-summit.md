@@ -41,6 +41,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "VP Harris says illegal migration worsened by 'extreme climate' disasters"
+    excerpt: "Vice President Kamala Harris said Monday that “extreme climate incidents” such as hurricanes destroy crops in Central America and prompt more people to migrate illegally to the U.S."
+    publishedDateTime: 2021-05-17T23:10:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/may/17/kamala-harris-illegal-immigration-worsened-extreme/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/17/kamala-harris-illegal-immigration-worsened-extreme/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/17/kamala-harris-illegal-immigration-worsened-extreme/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 74
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/17/Harris_94721.jpg-3f787_c0-242-5815-3634_s1200x700.jpg?b05293c78aec9cefe54011270495b308b9ec4a14"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "GGiQ3jyKRboYERMrJv5y1wbzz+7Ild9hcg26lsfKqm6oCz4/QGtEdsHbDZR4bklEpSmxoQTsCiNM8Hr0nSfQg9h4EUZ34qxT1WM6P90v0brNUVeZNixczVhRB+oRtDoxgMUPI+FInAqsBRqCKPBM3ZI7NjEhADPCqTq6p6SgZSdwAVLQPpHzAKnNazhwy2i4KiWXcybvnF9Pi7cA9by1KCF3wEoUo/dStfpOJ3ZW5mn91zmqiia7dq3n3fWfxodBlU57oYaxXJG2i6axOxheqEmqDzGYnvN7hjuryiJocMr4rGT+bOcBri/n5LUmD96jJ+j4HsUFa2qkm+NL5KxTlsk0FIamgCTu7LQf3UaWNGISvUsJ3wbZiT1yQwE3j01A14xBi64mHlcbT/PyU9m09HXZeMYKF8r+975m7MU2zznk4YRYZ9juIRfy4qglV7yylQSxfahkOzv+N8Suef9FGwiLZ/0glEUJkIJDSQnWJJn+ZCAcpW9Nhy85TZKTXKbvOmRcJ5DNQ1CZpiI5Go0S1g==;8TzUFL27y6Km6hpg3fBlXg=="
 ---

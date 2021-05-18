@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-m
 webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-meets-congressional-hispanic-caucus/5136267001/"
 type: article
 quality: 105
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "VP Harris says illegal migration worsened by 'extreme climate' disasters"
+    excerpt: "Vice President Kamala Harris said Monday that “extreme climate incidents” such as hurricanes destroy crops in Central America and prompt more people to migrate illegally to the U.S."
+    publishedDateTime: 2021-05-17T23:10:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/may/17/kamala-harris-illegal-immigration-worsened-extreme/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/17/kamala-harris-illegal-immigration-worsened-extreme/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/17/kamala-harris-illegal-immigration-worsened-extreme/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 74
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/17/Harris_94721.jpg-3f787_c0-242-5815-3634_s1200x700.jpg?b05293c78aec9cefe54011270495b308b9ec4a14"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Kamala Harris to keynote first Asian American, Pacific Islander unity summit"
     excerpt: "Vice President Kamala Harris will keynote the first unity summit for Asian Americans and Pacific Islanders on Wednesday."
     publishedDateTime: 2021-05-17T18:34:00Z
@@ -46,6 +62,6 @@ related:
         height: 533
         isCached: true
 
-secured: "+/Gw6hCxMeP7hBuB7aDhzxISNRgnk9uhHMZEwrexQ4Dzrm9KzCJ0GIe+oiBWTglk17zwDVK+2iXLFX1xDikt6U0+uQa41Zk+I540CbUGRGpkY8PBi5v4ppPO5xL72zcbvyZ9pjgUAJhdeEV9KZV2aiA9JGQ9EElk5b3y05fAHea/aFXwPZY5PjDMq8Nt9PZV417i4PbygRAHoNkQdjPehRBQcpKqjyLu9Ru9TQQOxjn0CjqcozSM4ZI4XSA6nBnhkLGF0kFntZqrb0OeuNfCdvfOB48FBDREjDUQaTgCeBjnwFA1GUKJ4MhW9eTA01K/YGzDuUNRZmELVFeOPHoz3JGKVV/SFfLNwyGOfSK3MqI=;cAZnM9tb6EMvH7aecweokw=="
+secured: "Shnpri92vO4hIsvsomVKSfTwcw3yENYOoAJ+yhyNA+Iq2rq/yxwGoKkviqI1tDRH4sVUekx/tZ6X6GnLAS35uVgdzi6YBIEJHxD3xxvV1INXODj+mMHp4wR18KPNWHINXsdjvuBbZCzNezHYrIsgWuQfomPGuUFCNe4KtO2Umf4aKBljhKxkz5fXPM1R2wvkGb65usgWm5Ol8eARBG6oHe7Et582SZnyzl/sPSddl6U9Y4AkgHThjdMR37Bp69NCtAvIicHWQbH63ouHw2nm+z+Qi/GnAu9tWIvP7dHnkOG06fcqRA5shy8CtKQ0h5T6BWaCuIufb6Q+62mZ99nNKUObEwOzBQ1SH2WpqAvi8zA=;Lo5gs4LI5NZGRCSFgfDyCw=="
 ---
 

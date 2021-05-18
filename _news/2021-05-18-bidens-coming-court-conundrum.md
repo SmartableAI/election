@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Beneath Joe Biden’s Folksy Demeanor, a Short Fuse and an Obsession With Details"
-excerpt: "As Mr. Biden settles into the office he has chased for more than three decades, aides say he demands hours of debate from scores of policy experts."
-publishedDateTime: 2021-05-14T07:00:00Z
-originalUrl: "https://www.nytimes.com/2021/05/14/us/politics/joe-biden-policy-decisions.html"
-webUrl: "https://www.nytimes.com/2021/05/14/us/politics/joe-biden-policy-decisions.html"
-ampWebUrl: "https://www.nytimes.com/2021/05/14/us/politics/joe-biden-policy-decisions.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/14/us/politics/joe-biden-policy-decisions.amp.html"
+title: "Biden's coming court conundrum"
+excerpt: "President JOE BIDEN’s Supreme Court commission is set to meet for the first time on Wednesday, starting a clock that will require it to produce a report on reforming the court by Nov. 15. Some of the most ardent advocates of expanding the nation’s highest court couldn’t be less excited."
+publishedDateTime: 2021-05-17T23:03:00Z
+originalUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/05/17/bidens-coming-court-conundrum-492880"
+webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/05/17/bidens-coming-court-conundrum-492880"
 type: article
-quality: 131
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +24,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/05/08/us/politics/08dc-biden-promo/08dc-biden-promo-facebookJumbo.jpg"
-    width: 1050
-    height: 549
+  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+    width: 1120
+    height: 629
     isCached: true
 
 related:
@@ -512,6 +510,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Beneath Joe Biden’s Folksy Demeanor, a Short Fuse and an Obsession With Details"
+    excerpt: "As Mr. Biden settles into the office he has chased for more than three decades, aides say he demands hours of debate from scores of policy experts."
+    publishedDateTime: 2021-05-14T07:00:00Z
+    webUrl: "https://www.nytimes.com/2021/05/14/us/politics/joe-biden-policy-decisions.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/14/us/politics/joe-biden-policy-decisions.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/14/us/politics/joe-biden-policy-decisions.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/08/us/politics/08dc-biden-promo/08dc-biden-promo-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Biden wants trillions for infrastructure, but a big hurdle will remain: Spending the cash"
     excerpt: "Progressives are optimistic that the administration learned from the struggles of the 2009 stimulus and will be able to move faster."
     publishedDateTime: 2021-05-08T17:39:00Z
@@ -572,21 +586,7 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Biden's coming court conundrum"
-    excerpt: "President JOE BIDEN’s Supreme Court commission is set to meet for the first time on Wednesday, starting a clock that will require it to produce a report on reforming the court by Nov. 15. Some of the most ardent advocates of expanding the nation’s highest court couldn’t be less excited."
-    publishedDateTime: 2021-05-17T23:03:00Z
-    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/05/17/bidens-coming-court-conundrum-492880"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
 
-secured: "EFMFFE+zYRpwhJZRc0hkgn/1e8BFujteHvPWJaErvZpk83yWQe0w2qdcdHrHDLz5+6oJAEkgMXSO8BHr7iwdbPDI+bFXk6z/OsXT655DNDGr6//p+hHGIZzS6gKDsXSJ9NqoV5O4LiRDh8mwS2f1VOx81d9mcotXJdehllmPzi1uD/goMloaPjIIHIzSwMf1DQuxFkINYjh/sK8UlxvBp2tBoMFSHE0UpBkQMS5blT603V4qGzUgzktKPC1t30GJYYRpA8Np+dpjOGTQGwbGyR3UcaZ5ZjgGNBtnmfV1hLN9yfJc2QIDKrjXo2N0hFmPW31gbeo2wX7r+6kHt6BtgCjkWibYpQdM6AHtX3exGp+e0LabtpGykwjmRCAhHCru8JSrhDqbiJfKPLh3ZSki2XdPWg+zFgOaYzoEB2P5H164VbiYBo9QEEI0TR56OMQhf5gCs+adNnLziyBFk+YT4H9RwVyCsWzzcneR43KLwZdWQl/1LrLQwimt7OqAzmHYQ4xwAJmLnJmzDvxuuBnR3A==;Re+cz/cmGC06+1C4KFl2EQ=="
+secured: "8yBVU9mNIZ1Ow7xls/3TKQofE4HYUX/doOWF8r7QK4fD0ZeC9TNlPFUtVXYYOJtoI2ud6Y/iaWjAFjRAR8wtpuMrWXqC03Npg9Af6FSXr8PVPRldXMU8j9OeYBCfo+WZ6An+Lj8/NnKgpbG1RQJ423F2th6Imr+j4CFETy11Gb7Pr6g/GzzQEz4wSv1ZGQIkwZtj8w7sFvIJG5HbS028oiByawuGDhWOFpfiR486MJvvIBk68KkgfwXACW9LKlVDkULaeKNY14Lsg8jP1+1nnNbPFdObRws1W/W2tFQiElPLQBbolqEyc6hZR5FhaC3Bk9B5qf5YIOQIeCT1LXdiDfuvw0KXvj1mmGkzhRNCJi0=;GPeu8ZFbD6tvz0a0jU4bHQ=="
 ---
 

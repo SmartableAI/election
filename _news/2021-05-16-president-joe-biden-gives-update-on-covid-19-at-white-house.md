@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden gives update on Covid-19 at White House"
 excerpt: "President Joe Biden gives remarks on the new Covid-19 Centers for Disease Control mask guidelines in the Rose Garden, at the White House in Washington, DC on Thursday, May 13, 2021. Fully vaccinated people no longer need to wear a face mask or stay six feet away from others in most settings,"
 publishedDateTime: 2021-05-16T07:10:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/5cc52bcc04e415b78cda9942e09e3771/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/5cc52bcc04e415b78cda9942e09e3771/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/c5f4ca85f841e7252819db0acfca9764/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/c5f4ca85f841e7252819db0acfca9764/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/5cc52bcc04e415b78cda9942e09e3771/BIDEN-COVID.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/c5f4ca85f841e7252819db0acfca9764/BIDEN-COVID.jpg"
     width: 650
     height: 433
     isCached: true
@@ -310,6 +310,6 @@ related:
         height: 433
         isCached: true
 
-secured: "ceA28COmj4eio4vC3rZJ6d9Df651+WatzS/O5++xLhsvKj7bP6lHdofXIba9cOmaPwhdcCL+/9Kzvyf9xFtlZuv5PzBYyCH48zovz4dyKBodbqac4lnLDSIm7BDQtaxJ/PI1XM4Fksp5Aktbj1SLrFxZO5i2ER8ICZJvJsBWN+0P5lEO6sUOUay/LAVusUoW9md4gCBJphhsglD2GJOpmy1H11kpXM19OGWTHeCXZKFBAfMIma505kDr9V9/KkjrYosLgt1TN6dokeaEpKOurtilOYylaj+IdJvABsfZg9dqc+2UnlN2IsbbCXci5DOe/lB8viHA2yU4WRr438LxqE1TjuV7p7Zpo+75dTwliJs=;2haVkz2VXQiQUUFRmoRYPA=="
+secured: "bmYGsMLng97paut5K+4bD3g0NtHB5+tDhpSoF/b30V4DYS45VId3booNvI/Ii5arU9IgjHv7SpW2Fo4THlvnxWsmO8SDu3EO3mXnirwrqrD7Y6FkaegNPWOuIaKQvC6fI6ipwxF/lJab5pG+RIh2QRxTPF5HMJ3p3nLHgYogOoi6R/szVHQubh4wIywCf5ltZyXfiyzGIon9lMXJYjG3ye3Vaai4kjs/hT65sM7fcqr5aLfui9bWAY24llul5Cld93mBnMhoh5PWFUjtcfRRRb8k7svBW9Q/L6HlHkpiI8L+d0vG/EnHGNAEWuUtCl0cKidJ7V4c/CPyMyQ5e+DqqyACuxPcbdEmPnjkS81OgbY=;qiUOTpe5i1CJeFkfkoPOrA=="
 ---
 
