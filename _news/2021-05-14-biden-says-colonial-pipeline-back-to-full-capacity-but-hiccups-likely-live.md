@@ -73,6 +73,15 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "President Joe Biden urges cease-fire in Middle East conflict"
+    excerpt: "The president called for a cease-fire amid the escalation of violence in the Middle East conflict between Israel and Hamas. Weijia Jiang reports."
+    publishedDateTime: 2021-05-18T13:16:00Z
+    webUrl: "https://www.cbsnews.com/video/president-joe-biden-urges-cease-fire-in-middle-east-conflict/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 85
 
 secured: "ULXtWjE1TiksIfa8x5P+azMIM0oXAm7OXQnJXE87AxCwfPMlfCJy/SgF050QyoLVYkWX1V9f2NoT+6w0Zp25Kz+3rRWumef+AdjQM7l6ZeLsO0tLx9IuX/eLVBoHdojkzLyyfikFh3KEO8GEA+w4lAk8HOteBvFvWpuZ32ep9qIGBNNUcD2Ylo5wk6ZPmpRBH+yJLv7KGUbGg+D2ZHXVpJ8Q6M5HsNfQoWYRFR6+xNqTEvWd1rq+YilKKVH0T9hB2HeQbGdaBCQ1Gv1uZ83OTsYhJlZtOK7400aRqxfbmZAg/8TX7+oOOkLVVFz5/Pgg7d/AJZzFSIlIIsgL26wWECwvgE4aq1YinPId136KmTXSIICMJUeShx4QEucjbvjhYZ1OTfehQX69y5aW6LQIJGYdIp1O98qaoqfyQhasLwN9VfopBkxgWNTM9DZHtNHbnV010eKSJmNJkVdVaDpSrU7991rxUM2lK5TYERIh6qsMuKIsBffHNia5dKgEqBMm5zkvECVNM8u0okd5n4uEIQ==;VP0Pe9M7JYMuQNnKtYO5yQ=="
 ---

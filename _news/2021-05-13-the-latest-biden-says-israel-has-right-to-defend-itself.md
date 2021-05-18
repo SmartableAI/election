@@ -123,6 +123,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "President Joe Biden will visit Ford electric vehicle plant; protests of Israel expected"
+    excerpt: "The president will tour the Dearborn facility where Ford's new electric pickup will be built. Protests of Biden's support of Israel are also expected."
+    publishedDateTime: 2021-05-18T13:30:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/05/18/joe-biden-ford-visit-dearborn-michigan-electric-f-150/5142229001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5142229001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5142229001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/13/USAT/55e94e41-63bb-4b61-a737-f0e67127ee8f-AP_Biden_2.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "3/OJFpkG1NbWBt0WL65UBgol55QSScogW6f4Qly4z4PKxbJs2nmFGdvjkHypjmsrwl76RMAS9jU0/WJxU/5naw+Fm2q/SkL8EqYnyxdn1tHQ2+/JA2NYJtmfI9j7flSo8uFNrUmYb9yrOAw5+BaNPK6g4vTPQolNwp0rM2NLUtOQ9Z/+yLs1LXGTVQy1MLfoWao1UeT3oII0glH8rWc8otF6TEoTvjTNpqZnHUbl07jqJqkzMoHcI5v2Sa9e9fET9QH0rjdqYhZlvzQFGZsr7oJ5iiUEjz8ZB+lDzWUIBa8NiMp9W83Lt0CMDHFCita8JtP1FbkjHqpgELU3elaekU/27EqB9w5ildxvrZ948/wPXrMTjzXni1jvhBE08cUxVOJYdCYEuYuyWnb1EDzNkCeGv+UN6XjMZYArJyfGzLgH0Qmxk5oEwZIfbWBQdoAqwBgQulWiEk0MigrsFAv5qtsWGxDmGoGP3cpK6StCdUMSxQMOlTtEp0IAjJ7CUDAynp004iAirHuPs2hz/Hjx0A==;KJS0HCdZSAOe6gzbgUenmA=="
 ---

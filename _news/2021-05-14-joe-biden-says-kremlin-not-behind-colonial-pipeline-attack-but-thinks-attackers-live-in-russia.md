@@ -74,6 +74,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 101
+  - title: "President Joe Biden urges cease-fire in Middle East conflict"
+    excerpt: "The president called for a cease-fire amid the escalation of violence in the Middle East conflict between Israel and Hamas. Weijia Jiang reports."
+    publishedDateTime: 2021-05-18T13:16:00Z
+    webUrl: "https://www.cbsnews.com/video/president-joe-biden-urges-cease-fire-in-middle-east-conflict/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 85
 
 secured: "SWEqhM5AFb+pklDIspNe7TvnITjyZ5LTlTusgSl6EyhDTGrv8xlOc+zyDs1y4rzl2xqHFKBi5JOZPFx1/CaPrW6QsGcV/YXX7PRCzX5GmDLwlcx/P3qp7apm7eT9M0/kJSYzwgeNaT8xvc7K4mDN4URxTWJ7yR5PSmXAtQyuUz9GjbQG1vHHBrz9NK4mBJ5tYUBmugApcmrJqxI6nuWtRkJTZpQAUpyzdaM1hDLXwfVdZwZeRXjMIu5pIJT3YaMKpPXOorPzlKpftlZEVaarVFyyLnfncr1YbFdT854bEZOkwWnT/DuCezY2VtSYRN89x3pwd7b4vVH5ZAiy40xbWkhIu9CEVG6dbH+dpu21IAM=;I5CFLsG7iOa6Drnu6+AeIg=="
 ---

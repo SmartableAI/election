@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Giuliani, who urged Trump supporters to have 'trial by combat,' says he wasn't literally calling for insurrection"
+    excerpt: "Lawyers for Rudy Giuliani -- who exhorted Trump supporters in Washington on the day of the Capitol riot to \"have trial by combat\" -- are now arguing that he wasn't literally advocating for an insurrection over the 2020 election results.\n    \n"
+    publishedDateTime: 2021-05-18T11:56:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s-YwWBqzcuc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/rudy-giuliani-january-6-insurrection-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/rudy-giuliani-january-6-insurrection-lawsuit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518112523-file-rudy-giuliani-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "si149aMr1cP+iShoLqbd62rbOO0JgwfqDBoIjtsqaUbEmyrZptwwKP3FSHDQ6vOuiBcAONF8sWXCcb93IIAjawkvFZQL3sQYBD97X1Hk1aW/pv3Qi8AmLAOAnlAsaDOd0F7di2MFot6EKWtQ5kgFHqh8s9Hb3R9Jg9wn3ECbRxuvRDC539PbWHz1fMNJf5oXN/s8uyrzzk5YFj4syOOBZrfoO+33yReU4+MC+9N7H78lxcnDRk7VfYCwGN0ihKAeqENSkwTF+KaNVrv8deEE3yrBkx4R/ED8jliQiP1eB3qX4e8h35igzx4ilm6osC2Ml80G5QuF9p/7AuIdNtq+Sj8BNOjqPEMGB9ucYs1PrtI=;NRn1QLP5DeL/6TkTzXixOA=="
 ---

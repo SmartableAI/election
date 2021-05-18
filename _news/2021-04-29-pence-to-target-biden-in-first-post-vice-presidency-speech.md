@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-expected-to-target-biden-as-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-expected-to-target-biden-as-he-makes-his-first-post-vice-presidency-speech.amp"
 type: article
 quality: 200
-heat: 2240
+heat: 2260
 published: true
 
 provider:
@@ -1337,6 +1337,22 @@ related:
     quality: 146
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-biden-split-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Mike Pence slams Biden’s foreign policy in scathing op-ed amid Middle East unrest"
+    excerpt: "Former Vice President Mike Pence is taking President Biden to task over his handling of the conflict between Israel and Hamas, citing his foreign policy “weakness” as the reason for"
+    publishedDateTime: 2021-05-18T12:18:00Z
+    webUrl: "https://nypost.com/2021/05/18/mike-pence-slams-bidens-foreign-policy-in-scathing-op-ed/"
+    ampWebUrl: "https://nypost.com/2021/05/18/mike-pence-slams-bidens-foreign-policy-in-scathing-op-ed/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/mike-pence-slams-bidens-foreign-policy-in-scathing-op-ed/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 145
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/mike-pence-israel-biden-99.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

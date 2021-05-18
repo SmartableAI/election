@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -74,6 +74,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 101
+  - title: "President Joe Biden urges cease-fire in Middle East conflict"
+    excerpt: "The president called for a cease-fire amid the escalation of violence in the Middle East conflict between Israel and Hamas. Weijia Jiang reports."
+    publishedDateTime: 2021-05-18T13:16:00Z
+    webUrl: "https://www.cbsnews.com/video/president-joe-biden-urges-cease-fire-in-middle-east-conflict/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 85
 
 secured: "6GWAWb2QXp4CEwZHTp9FWYVthNyuj4YTpNLJzdUuEZXKxHa8j8dqyy0ndfJTuRtOvRVSGrYd8ppUZ6spB43E1mol+9W3uneydiUBgtWIhh3cVIUVpkF10IkwqDFOPglfkS9J+xYJ2KxTiQhVWFtwPF9l/oIOQ7ezcB+4VKiMWH4m4EFrvD13rukaQw5ssD1Qs8Pye/Y5p1NoXaAaC/JItDZvDE6frIBl5/80goJWEhG+mzR+lQxvCcgC602k0lv2SEfjJanZmmYgwRi3IxahxOSTySUI55c7T23ObOfYPlbbQfemv880Rd1pOWiJbFcXT1dGWNZU0Tq+/YMS/vw6aOnWl5v0963kQbq8PFZ+HdU=;6hql/NNtLzdgvtzkQaSDaQ=="
 ---

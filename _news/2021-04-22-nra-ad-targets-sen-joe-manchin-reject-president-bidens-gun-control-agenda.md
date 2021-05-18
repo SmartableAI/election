@@ -1352,6 +1352,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Mike Pence slams Biden’s foreign policy in scathing op-ed amid Middle East unrest"
+    excerpt: "Former Vice President Mike Pence is taking President Biden to task over his handling of the conflict between Israel and Hamas, citing his foreign policy “weakness” as the reason for"
+    publishedDateTime: 2021-05-18T12:18:00Z
+    webUrl: "https://nypost.com/2021/05/18/mike-pence-slams-bidens-foreign-policy-in-scathing-op-ed/"
+    ampWebUrl: "https://nypost.com/2021/05/18/mike-pence-slams-bidens-foreign-policy-in-scathing-op-ed/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/mike-pence-slams-bidens-foreign-policy-in-scathing-op-ed/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 145
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/mike-pence-israel-biden-99.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "GOP’s Scott to hit Biden on school reopenings, praise Trump Warp Speed plan in rebuttal"
     excerpt: "Sen. Tim Scott will lay out the GOP’s case against President Biden’s agenda following the commander-in-chief’s first joint address to Congress on Wednesday, with the South Carolina"
     publishedDateTime: 2021-04-28T23:28:00Z

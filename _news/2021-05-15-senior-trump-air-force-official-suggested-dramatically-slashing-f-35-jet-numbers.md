@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/15/politics/f-35-jet-air-force/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/15/politics/f-35-jet-air-force/index.html"
 type: article
 quality: 170
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114204226-metropolitan-police-officer-michael-fanone-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Giuliani, who urged Trump supporters to have 'trial by combat,' says he wasn't literally calling for insurrection"
+    excerpt: "Lawyers for Rudy Giuliani -- who exhorted Trump supporters in Washington on the day of the Capitol riot to \"have trial by combat\" -- are now arguing that he wasn't literally advocating for an insurrection over the 2020 election results.\n    \n"
+    publishedDateTime: 2021-05-18T11:56:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s-YwWBqzcuc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/rudy-giuliani-january-6-insurrection-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/rudy-giuliani-january-6-insurrection-lawsuit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518112523-file-rudy-giuliani-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-18-biden-is-going-to-michigan-to-tout-electric-trucks-violence-in-middle-east-may-overshadow-the-trip.md",
+      "title": "Biden is going to Michigan to tout electric trucks. Violence in Middle East may overshadow the trip",
+      "excerpt": "President Joe Biden's Tuesday visit to Michigan to promote his economic agenda has been on the White House's calendar for weeks, but a carefully planned trip now risks being overshadowed by the recent eruption of violence in the Middle East between Hamas and Israel.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U1593o_Fm1g/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U1593o_Fm1g/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210517232716-01-joe-biden-0516-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/18/politics/biden-dearborn-michigan-israel-gaza/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/biden-dearborn-michigan-israel-gaza/index.html",
+      "publishedDateTime": "2021-05-18T06:38:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-biden-wants-to-bring-the-economy-from-relief-to-recovery-a-labor-shortage-may-signal-trouble-for-those-plans.md",
       "title": "Biden wants to bring the economy from relief to recovery. A labor shortage may signal trouble for those plans.",
       "excerpt": "Patti Eisenbraun had been anxiously waiting for the pandemic to subside so the dining room and patio at the Brown Iron Brewhouse would be bustling once again.\n    \n",
@@ -410,7 +466,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 190,
+      "heat": 210,
       "tags": null,
       "images": [
         {
@@ -506,63 +562,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-still-buddies-mideast-violence-tests-biden-and-netanyahus-friendship.md",
-      "title": "Still buddies? Mideast violence tests Biden and Netanyahu’s friendship",
-      "excerpt": "As tensions rose between the White House and Israel almost seven years ago, then-Vice President Joe Biden assured a Jewish audience that he and Prime Minister Benjamin Netanyahu were “still buddies.” It didn’t matter that Netanyahu had treated Biden’s boss,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/05/14/us-israel-biden-netanyahu-relationship-488381",
-      "originalUrl": "https://www.politico.com/news/2021/05/14/us-israel-biden-netanyahu-relationship-488381",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/e0/39/981bd05b41f38027444998b892bb/gettyimages-97574218-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/05/14/us-israel-biden-netanyahu-relationship-488381",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/14/us-israel-biden-netanyahu-relationship-488381",
-      "publishedDateTime": "2021-05-14T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     },

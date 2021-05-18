@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-m
 webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-meets-congressional-hispanic-caucus/5136267001/"
 type: article
 quality: 105
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Harris, Emhoff earned more than Bidens with 7-figure earnings, taxes show"
+    excerpt: "Both the first and second families' tax returns reveal losses of income since the successful Biden-Harris White House bid."
+    publishedDateTime: 2021-05-18T12:32:00Z
+    webUrl: "https://thegrio.com/2021/05/18/harris-emhoff-more-income-than-bidens/"
+    ampWebUrl: "https://thegrio.com/2021/05/18/harris-emhoff-more-income-than-bidens/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/05/18/harris-emhoff-more-income-than-bidens/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 89
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/05/EmhoffHarris-scaled.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP Harris says illegal migration worsened by 'extreme climate' disasters"
     excerpt: "Vice President Kamala Harris said Monday that “extreme climate incidents” such as hurricanes destroy crops in Central America and prompt more people to migrate illegally to the U.S."
     publishedDateTime: 2021-05-17T23:10:00Z

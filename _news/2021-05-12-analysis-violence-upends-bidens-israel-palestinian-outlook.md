@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/analysis-violence-upends-bid
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -122,6 +122,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/28/gettyimages-1127743614.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "President Joe Biden will visit Ford electric vehicle plant; protests of Israel expected"
+    excerpt: "The president will tour the Dearborn facility where Ford's new electric pickup will be built. Protests of Biden's support of Israel are also expected."
+    publishedDateTime: 2021-05-18T13:30:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/05/18/joe-biden-ford-visit-dearborn-michigan-electric-f-150/5142229001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5142229001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5142229001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/13/USAT/55e94e41-63bb-4b61-a737-f0e67127ee8f-AP_Biden_2.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "QERHPb++RMrAv5hnDtpC1lr83X9hcK8w5NcPzmpqt8bjlZW6ZLc8wRfymT6UzQt513ksVcZR/oSmbx90keeHDbUPun811JR6ITM4wduWjx35bskXXCPg5DBNabk1+eSD/RLriI49idhIVuvHXoW/Oe8dF+jTMIvZUW6/h4ggn6Z24D4rTBcZ9ibTFr7t0c8+X/36ug0F/CsFyT37g00fZBblyjFId6VyutNgixTPePoYC++wx+AZt03lbNeF436JQzJqwknjWuaPBqpxmyvn3bRKeW4i5rZ8E+y0Myrg2bAgYqkzITyML6t8A2M+OW3jb84G+FcvJb7QwzWjnhPo32Rnqy26GWCU+xDbvVClayykCtEeLoF1b13FcoEC3fbaQLUjZHudqsUO01dZkqo0igYDod06FvSdpZafYbHITGr0wd7+amDAdqZgQlah3aczVbHha0tOeQbO1sbCiTfLHpt8H4vSCNFkXkxGp2r1iqBMrUk2OEBuucre/ieeggv4mjBLif+snIvP3dxqHl88cQ==;ZnK61iXIaiVxAlgwU48P2w=="

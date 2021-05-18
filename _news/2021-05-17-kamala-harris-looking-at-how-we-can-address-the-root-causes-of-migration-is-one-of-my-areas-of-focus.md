@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris: Looking At How We Can Address The Root Causes Of Migration Is \"One Of My Areas Of Focus\""
 excerpt: "Vice President Kamala Harris met with leaders of the Congressional Hispanic Caucus Monday afternoon to discuss the \"root causes\" of migration. \"We are going to talk about and work together — and again,"
 publishedDateTime: 2021-05-17T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/05/17/kamala_harris_looking_at_how_we_can_address_the_root_causes_of_migration_is_one_of_my_areas_of_focus.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/05/17/kamala_harris_looking_at_how_we_can_address_the_root_causes_of_migration_is_one_of_my_areas_of_focus.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/05/17/kamala_harris_looking_at_how_we_can_address_the_root_causes_of_migration_is_one_of_my_areas_of_focus.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/05/17/kamala_harris_looking_at_how_we_can_address_the_root_causes_of_migration_is_one_of_my_areas_of_focus.html"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/17/kamala_harris_looking_at_how_we_can_address_the_root_causes_of_migration_is_one_of_my_areas_of_focus.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/17/kamala_harris_looking_at_how_we_can_address_the_root_causes_of_migration_is_one_of_my_areas_of_focus.amp.html"
 type: article
@@ -169,6 +169,6 @@ related:
         height: 720
         isCached: true
 
-secured: "4Y93NyXGTzalw4AUE+KZygmxNg3rYJRqtRq7YerU//Yj/puUczSDHnKQr1AAnGKka0qHX6yXBL3RlrFLMnleSG99NHzjVGnRs09rmhK9WfdrJDtunmwHVMkydGuwQ7oeOnFHzI3QnIjblnD7mCBIOY6sKYzVDB5XWFnX05mGlRdUTfKJKLUy0XKAIfgvIrLjh3dnsS5PuCJFAsqUZhZp9nulupxkYE42JpItfGK4YMfKQBGUBwX9Ein6Kv76Gwq2pM1/KREEj/Aw0Kr6M5IYNx7G76+dgyMk+f+4ARpI0pWyf8eHCq3jiGrvbwwJT52XrF1gpbs/gf+hzc1kI2GH3P0tBCOvX+JaD6jXsZk0gjqArSzBueG9AzUmcF+fzRX8hkMeED4VDoDGiYUaDiq7xbht2qQ4Do8CWB0+rQaK5C4APVaBR3ugJIyj+KN+S4ZE+09HTmP8agiSMJl5JkQjeV65YlhMTNzDf4TepHgvL80CP9hoboAdyCyCkKvrmhdgWYXkoBqEvVBJ+C7A0Uj5IA==;oeDTUMWscxRLioPJg925zw=="
+secured: "twGfHdRgD5P9i7PVVKdHZ9LUmbB403QsuNjLASOnArCiALb/R9a5xhBpVcQRN5AIFhAPUy0arCIyGB9qREj45/Bc9sYq6lQ8sQFHi4LN47pLg9d3Kzwy2nmt7dWHcfDnvkbrs3f3PfqwJ/wNiqfDT/v5ZFWZkYi6cgcEnj9j0st8Ev6fI8o0pCtEcjkfg3BPOVLdjvSY7UQ1kNKTkCnX1xZ6BTQdl7lxv/+W/3stVjeAc8YUvc7Kfl8KYtkNYc1od6CKdcysdGskikyOPFJEa8BG/TzBJGHywNqeqQknYHNq7MjJLgmDh2KcWrCgh7K1/irEVIVDLXGE4H3I6GRVTBrovCrXM5s3clJ4AWz3E5A=;2KJfOqzVOA/rcbVV4Tl7Tw=="
 ---
 

@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 835
         isCached: true
+  - title: "Doug Emhoff, husband of Vice President Kamala Harris, to hear about COVID-19 business challenges in Annapolis"
+    excerpt: "Doug Emhoff, husband of Vice President Kamala Harris, is scheduled to visit Annapolis this morning, taking part in a discussion with business owners about the challenges posed by the COVID-19 pandemic."
+    publishedDateTime: 2021-05-18T13:09:00Z
+    webUrl: "https://www.baltimoresun.com/politics/ac-cn-first-gentleman-doug-emhoff-annapolis-2021519-20210518-m6yrtr7f6fclpla3e6inigzlsa-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 36
+    images:
+      - url: "https://www.baltimoresun.com/resizer/9lyfGx44ZvwRJSCF67RSyIB21T4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YSWZSXXSWZDH7OIVZTP3MPDCSA.jpg"
+        width: 1200
+        height: 912
+        isCached: true
 
 secured: "K+yfJgr7Gev2LOpGVHlVEVVSRtyjKLle0EYgsXSPR3IWJW4vw9g+lRbCoDSczcQF66ExknGqQ85IDy2S7FJ8xuEyyDfzk7EvA00VatVlbrJyGDPW/c1A0F5LrySGgKhuvWnziAqU+quxPgwJXlHQBa/SDHrcfS6s6tbgXTvo5l/8camwQLP/N0PgoUHij+cviAjE3pBYy+C4v5bAPQZERJuul+z7PP41hJEOlC7KDhhwU/jfB9Puu5uqFJeBTXxeUGnZVUAnuI/jXYCCEQg/l4Fae44xvlLhUO7qjOFCzlvsyp9hlAnNr3yy93Of/yri3r75uIYN/zSayUYnetNLnWaiMjWOf3XqNlOQuHizsG4=;qFVQkq4DfF6ItK4EBf8prg=="
 ---
