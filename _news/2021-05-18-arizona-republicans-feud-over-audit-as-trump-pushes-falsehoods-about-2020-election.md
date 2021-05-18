@@ -1,14 +1,14 @@
 ---
 category: news
-title: "The latest sign of Donald Trump's hold on the GOP"
-excerpt: "A vast majority of Republicans are still all in on former President Donald Trump -- and a new CBS/YouGov poll reveals just how deep the obsession within the party goes.\n    \n"
-publishedDateTime: 2021-05-17T22:34:19Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nc0HsYxtjZI/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nc0HsYxtjZI/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/republican-support-for-trump-poll/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/republican-support-for-trump-poll/index.html"
+title: "Arizona Republicans feud over audit as Trump pushes falsehoods about 2020 election"
+excerpt: "Arizona Republican officials are pushing back against false claims from former President Donald Trump and his allies about the 2020 election -- another sign of how the same divisions that led the House GOP to oust Wyoming Rep."
+publishedDateTime: 2021-05-17T20:31:00Z
+originalUrl: "https://www.cnn.com/2021/05/17/politics/arizona-audit-trump-republicans/"
+webUrl: "https://www.cnn.com/2021/05/17/politics/arizona-audit-trump-republicans/"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/arizona-audit-trump-republicans/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/arizona-audit-trump-republicans/index.html"
 type: article
-quality: 175
+quality: 144
 heat: -1
 published: false
 
@@ -22,10 +22,11 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514224819-cnne-trump-supporters-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514130444-arizona-election-recount-0506-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -111,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The latest sign of Donald Trump's hold on the GOP"
+    excerpt: "A vast majority of Republicans are still all in on former President Donald Trump -- and a new CBS/YouGov poll reveals just how deep the obsession within the party goes.\n    \n"
+    publishedDateTime: 2021-05-17T22:34:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nc0HsYxtjZI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/republican-support-for-trump-poll/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/republican-support-for-trump-poll/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514224819-cnne-trump-supporters-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Homeland Security reverses Trump-era DNA collection plan for immigration vetting "
     excerpt: "The Department of Homeland Security on Friday withdrew Trump-era plans to vastly expand the collection of biometric data, including DNA samples, which would have been used for immigration purposes such as verifying family relationships.\n    \n"
     publishedDateTime: 2021-05-07T16:14:22Z
@@ -156,22 +173,6 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505140659-05-rep-elise-stefanik-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Arizona Republicans feud over audit as Trump pushes falsehoods about 2020 election"
-    excerpt: "Arizona Republican officials are pushing back against false claims from former President Donald Trump and his allies about the 2020 election -- another sign of how the same divisions that led the House GOP to oust Wyoming Rep."
-    publishedDateTime: 2021-05-17T20:31:00Z
-    webUrl: "https://www.cnn.com/2021/05/17/politics/arizona-audit-trump-republicans/"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/arizona-audit-trump-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/arizona-audit-trump-republicans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 144
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514130444-arizona-election-recount-0506-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -286,6 +287,6 @@ related:
         height: 773
         isCached: true
 
-secured: "ZB5ubWW/vMWTSAQSJ90gAmBYEg0XdXNtfsMTDDuGvxC9sfVpA2CNYJd7h2jUTLZpqxisrnKwnr+6QqtwD6O2if7TdlvcteqdJ/y35b+cf0By668aaOPFjFH++kzwZAsyst8rRDlI1TE/yQCRrS89IbplsvSK2hIsXh6O0JoSkFiVn8vHWLOqEEP34DVh7Tt2X2jw3uOrsmtzUwcH+SGL+MIN4ZZIg+eUDO2l5lflwmXURFVGPNYvEZq/KlMBABfel0tTov9D/doNBWo2/cSbsiQ7mlU0QdrpjFZgdv86UvAQcFwGmCI1jXbXtHvxkVCo3Rb02VPAzUKje7NNSgFp20NorQ/urbJcO5GVzpcv3DQ=;QIhh9JHEhNccqRvftWeDeg=="
+secured: "qmRxXrTklbhNa3NeV7B05ec6flRgBMyKRNzFkpG4YuKMBawt5BR+B0DHkQs16f582DKJWbD5dh6zvVCWbf/7FqVerX6k5SJ2itEhwHZcTU5VkXAwKqyLznEj1fZPSU90wQrqCnwfwxyYF5iPeKiY20STy7z8d+VBU2zJwCKKVcj0Y8Iywprocq86rO4MZk3hcFBlEU1LLTiyeZ95NA9FY4X8r8fqbFmStGUf/wKNpz9+C4kqhnFMmDyl/vXvD5mKR/ALaCMiYRZvw2weswvK0hXQDJ0MtLQcjLsAVuu/8hgmIL8yyocVAB/3+vcOHC+ZfWrV5O/9TF1cLaPsnHQtYE+I4UJuCpTleM/ZHNkY4tY=;qSv5nLUfIJyKqkAAnG1Yhg=="
 ---
 

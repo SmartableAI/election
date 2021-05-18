@@ -176,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Arizona Republicans feud over audit as Trump pushes falsehoods about 2020 election"
+    excerpt: "Arizona Republican officials are pushing back against false claims from former President Donald Trump and his allies about the 2020 election -- another sign of how the same divisions that led the House GOP to oust Wyoming Rep."
+    publishedDateTime: 2021-05-17T20:31:00Z
+    webUrl: "https://www.cnn.com/2021/05/17/politics/arizona-audit-trump-republicans/"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/arizona-audit-trump-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/arizona-audit-trump-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 144
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514130444-arizona-election-recount-0506-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Searching for ‘bamboo in the paper’: Trump election lie fuels search for yet another recount"
     excerpt: "Former President Trump’s lie about the 2020 election results has led to a hand recount of 2.1 million ballots in Maricopa County, Arizona."
     publishedDateTime: 2021-05-09T13:12:00Z

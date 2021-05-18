@@ -3,22 +3,18 @@ category: news
 title: "Israel-Gaza violence: Joe Biden calls for ceasefire"
 excerpt: "US President Joe Biden has voiced his support for a ceasefire after eight days of violence between Israel and Palestinian militants in Gaza. Mr Biden told Israeli Prime Minister Benjamin Netanyahu that the US was working with Egypt and other countries on halting hostilities."
 publishedDateTime: 2021-05-18T01:04:00Z
-originalUrl: "https://www.bbc.com/news/world-middle-east-57152723"
-webUrl: "https://www.bbc.com/news/world-middle-east-57152723"
-ampWebUrl: "https://www.bbc.com/news/world-middle-east-57152723.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-middle-east-57152723.amp"
+originalUrl: "https://www.bbc.co.uk/news/world-middle-east-57152723"
+webUrl: "https://www.bbc.co.uk/news/world-middle-east-57152723"
+ampWebUrl: "https://www.bbc.co.uk/news/world-middle-east-57152723.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-middle-east-57152723.amp"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -126,6 +122,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VBILSRBUCAI6XFUZADJRD4J5FU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Israel strikes Gaza after Joe Biden calls for ceasefire"
+    excerpt: "Israel conducted an intense aerial bombardment of the Gaza Strip hours after US president Joe Biden publicly backed international calls for a ceasefire between the Jewish state and Hamas, the Palestinian militant group."
+    publishedDateTime: 2021-05-18T06:47:00Z
+    webUrl: "https://www.ft.com/content/cd83501b-7fc5-4087-ac5b-d213028af57b"
+    ampWebUrl: "https://amp.ft.com/content/cd83501b-7fc5-4087-ac5b-d213028af57b"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/cd83501b-7fc5-4087-ac5b-d213028af57b"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1d4c13e2-ad5f-42a3-a8b7-704a08ee861a.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
   - title: "Jill Biden offers encouragement to 'strong and resilient' moms after a 'challenging' year"
     excerpt: "First lady Jill Biden honored the role \"strong and resilient\" mothers play in taking care of their families after a \"challenging\" year of COVID-19."
@@ -330,6 +342,6 @@ related:
         height: 433
         isCached: true
 
-secured: "pbX8gDOdkbf3FmU1ezgXIQDfyT4DRFNnYeEoPBwPlBaCRXlIFhD+U5bONGvT2DhkHj62vncG/vNUKpUN6dKMhHDyLCWBqAcLIMK+VEDj62IdVXM97KEj/EYzAL5Xl2ru+5HcxEVYIyvRSCNJtTw6/ZLcd9G4Ls21GTxLVQPLEt1vH7TAJ0THCMClxnLGtS90MiRr81HjKzndIYjjSLFEXJxCkWvMaRfcqWpHIUXzsE4VjUBbk7UXwRcOnbsj2idAhripPE+gyKTYnjq4eDP8FWdM2rqOl61o3H1rNSlocdHpsOme7OMC9QskVnDAsYenkHU/WPXCwpPpbF7tVEiKsg5BB4hT8VDkHW8F8zxVqd0=;2aF86vCMS95wyzQKuljntA=="
+secured: "h4ZAKcT90xZYMuEeEB/lKgoqFmRLEeEghlyUb91twObhng3OY6DKGsIN4bq3pLLpX06rArM+i0yeP8/ZxPqYGCb58lMoSfTDacqqJpi78lqaZlTfglbLjDpYIM9fgwuJwZvV5DCKrd1b+kPbwQFhiOfW+iJvCOYhnv8G90KOZXT9pVH4k1LSSXQW+osfJz9+0JBZSOCvWV2lLuY0AERLvYTYnGx/2hPedPItjqVS9CHTXSbl09OCZkxw+CSPWL7pn97r188jU9+9U3ov+f71AGNcXGf8lgzRnNRVZRsB5bmFQUgdUSTFuDq1zUlrsfFt3q5uVVS+E5I0s2Fx9CiQMot1Knd15fK3W06fMoLpRQQ=;/AAgMtF10HUWMVme9ZhB+g=="
 ---
 

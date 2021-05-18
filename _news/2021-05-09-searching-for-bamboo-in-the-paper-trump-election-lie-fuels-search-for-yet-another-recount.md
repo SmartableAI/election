@@ -176,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Arizona Republicans feud over audit as Trump pushes falsehoods about 2020 election"
+    excerpt: "Arizona Republican officials are pushing back against false claims from former President Donald Trump and his allies about the 2020 election -- another sign of how the same divisions that led the House GOP to oust Wyoming Rep."
+    publishedDateTime: 2021-05-17T20:31:00Z
+    webUrl: "https://www.cnn.com/2021/05/17/politics/arizona-audit-trump-republicans/"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/arizona-audit-trump-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/arizona-audit-trump-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 144
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514130444-arizona-election-recount-0506-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Conan O’Brien Says No More Trump Jokes for Final Two Months on TBS"
     excerpt: "O’Brien said the last episodes of “Conan” will feature special guests and clips of his favorite moments on the show before he moves to HBO Max."
     publishedDateTime: 2021-05-04T05:46:00Z

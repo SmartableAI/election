@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/epa-revokes-trump-era-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/epa-revokes-trump-era-policy-loosened-clean-air-77667886"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/0a3850dbcf9e7b5b3cf8a349b7ef3f0f3414f156/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6187ad58a3b32cbdb1713d6cde13b665"
         width: 600
         height: 360
+        isCached: true
+  - title: "10 Things in Politics: You fund Trump's post-White House office"
+    excerpt: "And President Joe Biden calls for a cease-fire during talks with Israeli Prime Minister Benjamin Netanyahu."
+    publishedDateTime: 2021-05-18T09:55:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-post-presidency-life-perks"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-post-presidency-life-perks?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-post-presidency-life-perks?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/60a2d700f27b4c0019444f25?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Families separated by Trump receive therapy, but funds could dry up soon"
     excerpt: "After Trump separated children from their families, they've gotten crucial therapy, paid for by the government. But the future of those services is up in the air."

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Families separated by Trump receive therapy, but funds could dry up soon"
-excerpt: "After Trump separated children from their families, they've gotten crucial therapy, paid for by the government. But the future of those services is up in the air."
-publishedDateTime: 2021-05-14T13:00:00Z
-originalUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon"
-webUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon"
-ampWebUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon?_amp=true"
+title: "10 Things in Politics: You fund Trump's post-White House office"
+excerpt: "And President Joe Biden calls for a cease-fire during talks with Israeli Prime Minister Benjamin Netanyahu."
+publishedDateTime: 2021-05-18T09:55:00Z
+originalUrl: "https://www.businessinsider.com/10-things-in-politics-trump-post-presidency-life-perks"
+webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-post-presidency-life-perks"
+ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-post-presidency-life-perks?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-post-presidency-life-perks?amp"
 type: article
-quality: 124
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/6a9b291/2147483647/strip/true/crop/4200x2743+0+139/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7a%2F7d%2F7f45f2a44b5aa994549b331daf6d%2Fsd-photos-1staff-766522-sd-me-family-renunification-ncc-017.jpg"
-    width: 320
-    height: 209
+  - url: "https://i.insider.com/60a2d700f27b4c0019444f25?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -63,21 +63,21 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "10 Things in Politics: You fund Trump's post-White House office"
-    excerpt: "And President Joe Biden calls for a cease-fire during talks with Israeli Prime Minister Benjamin Netanyahu."
-    publishedDateTime: 2021-05-18T09:55:00Z
-    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-post-presidency-life-perks"
-    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-post-presidency-life-perks?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-post-presidency-life-perks?amp"
+  - title: "Families separated by Trump receive therapy, but funds could dry up soon"
+    excerpt: "After Trump separated children from their families, they've gotten crucial therapy, paid for by the government. But the future of those services is up in the air."
+    publishedDateTime: 2021-05-14T13:00:00Z
+    webUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon"
+    ampWebUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon?_amp=true"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
     images:
-      - url: "https://i.insider.com/60a2d700f27b4c0019444f25?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6a9b291/2147483647/strip/true/crop/4200x2743+0+139/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7a%2F7d%2F7f45f2a44b5aa994549b331daf6d%2Fsd-photos-1staff-766522-sd-me-family-renunification-ncc-017.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "‘It’s hard to look at’: Donald Trump makes National Portrait Gallery debut"
     excerpt: "Photo of ex-president will make way for a painted portrait as gallery says Trump’s team is considering artists"
@@ -96,6 +96,6 @@ related:
         height: 360
         isCached: true
 
-secured: "B8caYhuOdaOUVWcOAG/4j0+irbGI+pcVBvGxy/8SK/IXAXtPy2kS6xmwvpHStQFolV2T5EPhS6brQDPYB+ULgrQwcUyYR2Et4TAqNCRTcTvmFkVM+dnw3MCNXSWxXW/Oc9pCQMsG8Mp+Ua6f1oCRsLh/oqP9KAEdBXZJmRF60Fi/oeS1oRBoVKLg9F+dzJ63ih6jJMcUMwaOiyl8yK2vuEKCeK3s8ljmqbH+9pieHlwh5z7/BFRmW5BEGzGIRRc8dxXJts5xW2/ar9FztRivBskc+9Omz4SFx1kEMrR54LhVZPhSlUVKVppD1kRKhSfW4WLPABrXKRCnUoe+jhnd3T7H5rNemSlhp5GrJJOkYsw=;ywPd2PptT0zSoPZI8HhMKA=="
+secured: "W89P3dDKR06lthsCKdlPU58HLIjtb690s8w0KmyHrFyuMFLfHAQlPwn2Hhjvettppm6fPS6OuLoQsLtUnY4plT8rUdEzWnu0M7VK4TyfzRqd5Vh4fiTb/SfiO9utHebhBM6Msplx1HgcAo5ORBER3zUWyr7jnORvgvIU4AoV0rUFy+NZbFWgaYhfYbyXeVTwAE/ktR3HG+xJKz9a0kVrQDOCa2/656QSxQvpW+o9LIKmhYhnbbO6w48EwyJWHB4maTQb1GrM24j/9sI/FrNvYwaxjGSEvsAh20qA4u9VatN9X7PUnbDuawXcxLvbMMR6ZfpGyDDrj/h/5OrC8M8WE8X2M6F7EPMsoOYW1ihZuTo=;LgSdrKyt4xD7K7NwfK1tZA=="
 ---
 

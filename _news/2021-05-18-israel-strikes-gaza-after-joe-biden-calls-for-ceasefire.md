@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Drugmakers say Biden misguided over vaccine patent waiver"
-excerpt: "Drugmakers on Thursday said U.S. President Joe Biden's support for waiving patents of COVID-19 vaccines could disrupt a fragile supply chain and that rich countries should instead share more generously with the developing world."
-publishedDateTime: 2021-05-06T14:13:00Z
-originalUrl: "https://www.reuters.com/article/legal-us-health-coronavirus-waiver-ifpma-idUSKBN2CN1ME"
-webUrl: "https://www.reuters.com/article/legal-us-health-coronavirus-waiver-ifpma-idUSKBN2CN1ME"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CN1ME"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CN1ME"
+title: "Israel strikes Gaza after Joe Biden calls for ceasefire"
+excerpt: "Israel conducted an intense aerial bombardment of the Gaza Strip hours after US president Joe Biden publicly backed international calls for a ceasefire between the Jewish state and Hamas, the Palestinian militant group."
+publishedDateTime: 2021-05-18T06:47:00Z
+originalUrl: "https://www.ft.com/content/cd83501b-7fc5-4087-ac5b-d213028af57b"
+webUrl: "https://www.ft.com/content/cd83501b-7fc5-4087-ac5b-d213028af57b"
+ampWebUrl: "https://amp.ft.com/content/cd83501b-7fc5-4087-ac5b-d213028af57b"
+cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/cd83501b-7fc5-4087-ac5b-d213028af57b"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: The Financial Times
+  domain: ft.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210506&t=2&i=1561155795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH450TX"
-    width: 818
-    height: 545
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1d4c13e2-ad5f-42a3-a8b7-704a08ee861a.jpg?source=google-amp&fit=scale-down&width=500"
+    width: 500
+    height: 281
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/jennercaitlyn_california_020520getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Drugmakers say Biden misguided over vaccine patent waiver"
+    excerpt: "Drugmakers on Thursday said U.S. President Joe Biden's support for waiving patents of COVID-19 vaccines could disrupt a fragile supply chain and that rich countries should instead share more generously with the developing world."
+    publishedDateTime: 2021-05-06T14:13:00Z
+    webUrl: "https://www.reuters.com/article/legal-us-health-coronavirus-waiver-ifpma-idUSKBN2CN1ME"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2CN1ME"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2CN1ME"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210506&t=2&i=1561155795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH450TX"
+        width: 818
+        height: 545
         isCached: true
   - title: "Biden says he's confident he will be able to meet Putin soon"
     excerpt: "U.S. President Joe Biden on Friday said he expects to be able to meet with Russian President Vladimir Putin soon, adding that the time and place for their encounter are still being worked out."
@@ -110,22 +126,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VBILSRBUCAI6XFUZADJRD4J5FU.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Israel strikes Gaza after Joe Biden calls for ceasefire"
-    excerpt: "Israel conducted an intense aerial bombardment of the Gaza Strip hours after US president Joe Biden publicly backed international calls for a ceasefire between the Jewish state and Hamas, the Palestinian militant group."
-    publishedDateTime: 2021-05-18T06:47:00Z
-    webUrl: "https://www.ft.com/content/cd83501b-7fc5-4087-ac5b-d213028af57b"
-    ampWebUrl: "https://amp.ft.com/content/cd83501b-7fc5-4087-ac5b-d213028af57b"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/cd83501b-7fc5-4087-ac5b-d213028af57b"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 125
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1d4c13e2-ad5f-42a3-a8b7-704a08ee861a.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
         isCached: true
   - title: "Jill Biden offers encouragement to 'strong and resilient' moms after a 'challenging' year"
     excerpt: "First lady Jill Biden honored the role \"strong and resilient\" mothers play in taking care of their families after a \"challenging\" year of COVID-19."
@@ -346,6 +346,6 @@ related:
         height: 433
         isCached: true
 
-secured: "QT5qBy9CS/OHWCgeTIwmgRssgGFghwkMmEK4D4nz7z7Av6xyHNP9rIXFLDIBXnFmAmf1oSp50yP7xkJYgHHJcFSERpwLzzPzzDjBL58NdGv239NFnjK/VkuOyYbWOTnRf6+Jf3Ga8QfV0hQgMWJaBTxfVD3c8ghhxsrRLlsYsmR9C5r2edwcyZacQT29fvfEqwROIQOQCqog7ll/oY6K4Ss2EIpzS9D8ZR3rF07PokBUO5eNS16UyvZsnPPwMkL3lhA6dFBgn/ubo5/jV0Bt1Pzb0dS0/5FI1CTq0VfE0liCK/XUlQynVGRlXr+8dGRHeuGcw1GJIKGtjSo9JPMkNptqNKS52CzN/FryLZhk8VM=;6HnreJgOS/wVMdaytJK3tQ=="
+secured: "Ri9m8y6AkuU7EytpWotESw3fRcOjaU+LUlfj62KVYi3PCPmq5GHCWEYxPgNcrJRPqGs2crjqei1z5SbJ88bpfaA6k1XOROQ1vDMJpatbVwjPpdNA5XfH8vpY22p/gjDRip769TiwPW2R5PnCTE1UyCxPOnDIAyZTUdVyEkD/INWteKSHamt5hCYXCFlEJn4gZTKRyVh7ANm8dMoKUDxydhyQUcsxR8Bsx2l4bGfgZqlePd7MDQCFxSHpQk1HkMTkmVL6EjUtramNEfDfPjRpAKOk0igxhuqx+l2C4fyz6PcpezV91swbva2yGr9FBvgT9oT//OUqYFAvFYx6iBfMEo2f0rzOvTK1SZHzzPI3NI4=;URTxzn9gPItY25gspLS1rA=="
 ---
 

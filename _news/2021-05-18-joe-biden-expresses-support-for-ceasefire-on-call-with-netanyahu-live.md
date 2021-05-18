@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden expresses support for ceasefire on call with Netanyahu – live"
 excerpt: "White House reported the US president urged Israel ‘to make every effort to ensure the protection of innocent civilians’"
-publishedDateTime: 2021-05-17T23:00:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live?page=with:block-60a2dc5e8f08e659a47e843b"
-webUrl: "https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live?page=with:block-60a2dc5e8f08e659a47e843b"
+publishedDateTime: 2021-05-17T22:02:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live?page=with:block-60a2e4f08f08e659a47e849f"
+webUrl: "https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live?page=with:block-60a2e4f08f08e659a47e849f"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live"
 type: article
@@ -82,7 +82,7 @@ related:
   - title: "Joe Biden expresses support for ceasefire on call with Netanyahu – as it happened"
     excerpt: "White House reported the US president urged Israel ‘to make every effort to ensure the protection of innocent civilians’"
     publishedDateTime: 2021-05-17T23:30:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live?page=with:block-60a2f5ba8f08e757a7357ecc"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live?page=with:block-60a2dc5e8f08e659a47e843b"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live"
     type: article
@@ -110,6 +110,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "D4IRVIYHaaYSclqopjW6xmmgzkRX2Vu1aJYO4MRycsrodklknSNIgoTw+QdGzUs2yp5bD9QbdNhf3z09SvQibR+KJJXydV4QR77aBmwqGKV8QelZTFODqaAQGylBcAcvIFWmlQqUwXl1fNUSGyE4K0Y7ztKG4Daz8dEekhRRlZ5jTe+lMztL3PcXo765gtyifTuVoY17/0K7LCaw3JcLZ2V5+QXMznJZPz+vDS5EYi+zjQdfKdogB96qp80pspQ+1rupbAohT8mdm/wzQidM1Tb47BWyxig6/gUSTXjgOi3lP17qSJ0p9QB5S3q9ehVuewkJmjwtyGbkYcyrME+YaTqw0sznFpPhBiZOvJg9QSK9P3Jc3YQQSaW5L32ECEWMF2BFLF9KRbwsteptxRrwwO7V1thlTUPfmKl6sPtGUKZcv2+mMQy1gzhz+sIYfcb29QuSQ+RCYC7wmX3qz1/jUGX0Wp5NvrKnO/wZNzfxkQoxebiMgd62jruCqMpwxIYa23z1TLclaaCjbvUdpgjp9w==;df5+SK5txjkbm+2kDBGpsA=="
+secured: "dLBy3ohA1zhC9ezU1mIdhOtVt1TeeqdUk0u1dVMKzdgWcmmz0TpQyRF86+DHeK3NMogfRfMUSUBCL/GvbA33V0kqVLs4FdiQ2HjmO4pCRVA/NwoGVO8kKzbFQDFv4b5fEDdrUa2vSX7QMpG6ak5fey/qWJNeqob8y2kDIo+l0Dvs3PZ26fwzLk1+JZsnIDuydcXvXAeRmUu6rjPfp8ZT+ct4C3oqZ4Q+rDDyfEo8nRZFS/83yNapQudzwh0tXHCY5HplgJcOwAlVxRhrXaxGPV4Lxd6IXsw5fYUgLm/nFDXpUTSNyr4bDBsYDgqgvTwHriqw9UR5VTeSEGwPnyxbwGW3orK4FO2Nyvni7aGBjd0=;49N1xm9f5jMO0se5WQtXrg=="
 ---
 

@@ -111,21 +111,21 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Israel-Gaza violence: Joe Biden calls for ceasefire"
-    excerpt: "US President Joe Biden has voiced his support for a ceasefire after eight days of violence between Israel and Palestinian militants in Gaza. Mr Biden told Israeli Prime Minister Benjamin Netanyahu that the US was working with Egypt and other countries on halting hostilities."
-    publishedDateTime: 2021-05-18T01:04:00Z
-    webUrl: "https://www.bbc.com/news/world-middle-east-57152723"
-    ampWebUrl: "https://www.bbc.com/news/world-middle-east-57152723.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-middle-east-57152723.amp"
+  - title: "Israel strikes Gaza after Joe Biden calls for ceasefire"
+    excerpt: "Israel conducted an intense aerial bombardment of the Gaza Strip hours after US president Joe Biden publicly backed international calls for a ceasefire between the Jewish state and Hamas, the Palestinian militant group."
+    publishedDateTime: 2021-05-18T06:47:00Z
+    webUrl: "https://www.ft.com/content/cd83501b-7fc5-4087-ac5b-d213028af57b"
+    ampWebUrl: "https://amp.ft.com/content/cd83501b-7fc5-4087-ac5b-d213028af57b"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/cd83501b-7fc5-4087-ac5b-d213028af57b"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
+      name: The Financial Times
+      domain: ft.com
     quality: 125
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3741/production/_118554141_mediaitem118554140.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1d4c13e2-ad5f-42a3-a8b7-704a08ee861a.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
   - title: "Jill Biden offers encouragement to 'strong and resilient' moms after a 'challenging' year"
     excerpt: "First lady Jill Biden honored the role \"strong and resilient\" mothers play in taking care of their families after a \"challenging\" year of COVID-19."
@@ -221,6 +221,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 93
+  - title: "Israel-Gaza violence: Joe Biden calls for ceasefire"
+    excerpt: "US President Joe Biden has voiced his support for a ceasefire after eight days of violence between Israel and Palestinian militants in Gaza. Mr Biden told Israeli Prime Minister Benjamin Netanyahu that the US was working with Egypt and other countries on halting hostilities."
+    publishedDateTime: 2021-05-18T01:04:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-middle-east-57152723"
+    ampWebUrl: "https://www.bbc.co.uk/news/world-middle-east-57152723.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-middle-east-57152723.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3741/production/_118554141_mediaitem118554140.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Here's what Kentucky would get from President Joe Biden's American Families Plan"
     excerpt: "The White House outlined how many Kentucky children and workers would benefit from the $1.8 trillion plan, which includes universal preschool."
     publishedDateTime: 2021-05-07T09:26:00Z
