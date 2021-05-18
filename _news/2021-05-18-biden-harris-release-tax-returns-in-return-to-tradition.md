@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Biden, Harris Release Tax Returns In Return To Tradition"
-excerpt: "\"Today, the President released his 2020 federal income tax return, continuing an almost uninterrupted tradition,\" the White House said on Monday, the deadline to file income tax returns."
-publishedDateTime: 2021-05-18T03:53:00Z
-originalUrl: "https://www.northcountrypublicradio.org/news/npr/997758204/biden-harris-release-tax-returns-in-return-to-tradition"
-webUrl: "https://www.northcountrypublicradio.org/news/npr/997758204/biden-harris-release-tax-returns-in-return-to-tradition"
+excerpt: "What in other years would likely not be huge news is this year making headlines: President Joe Biden has released his tax returns. The release of his"
+publishedDateTime: 2021-05-18T11:19:00Z
+originalUrl: "https://www.nhpr.org/post/biden-harris-release-tax-returns-return-tradition"
+webUrl: "https://www.nhpr.org/post/biden-harris-release-tax-returns-return-tradition"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Northcountrypublicradio.org
-  domain: northcountrypublicradio.org
+  name: New Hampshire Public Radio
+  domain: nhpr.org
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://media.npr.org/assets/img/2021/05/17/ap_21137641673269-9bd00581dad9b1661c540becb7784411949d3d0f.jpg?s=6"
-    width: 948
-    height: 710
+  - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202105/997760135.jpg"
+    width: 800
+    height: 600
     isCached: true
 
 related:
@@ -1344,6 +1344,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "tl68CJLCuZZodJg2ISSZdViA7onfVD8QBhkeo5MEe3cj8cge8qpq1JHj/0A7X/Pht69rtoazzeZcghCx0kFMveE39A1t8kVu3gt993FdyBIloBrWEYoYPETvi++HqWUitjn3SJv8qgeUPBYiDaeS6ojBQimPrN3gHKd5T8Qh72uwCO8cVQ7IaMgBCKnDT6vyZn/L5wzMly9H7pO+AMRw4TPAfW9Y432J2DBrGu0Dp1DwZ2ruM/3vOjA+7ATeRd2sMicGcWXISm4KYKNNG/hVX5HaRcziBrp6EtnD5WfeheUtOhiFshVWDpk3fGdjoLcbeQ3gBaIp+9MOPkfrQMicjDJNN/AdNUdu0RrJz1HNgTo=;Ru3qgTzqyeaujUUnYI3sbQ=="
+secured: "2iBEsAdLJkdqp3pMqX0Nc3pO+aC89MD49FsWx5Mpnt7ZU5JI9lG1z1wn+CgwcMiNuIn5SNy1SiXb4kEIZExwaoVAXNvMaKpiEcSVW9iUdyT75LcQt2uWwBBd3MaSvAdThC97vGV9W9R74ieI0GR/fOlGPNwlxeRgiXiUkWQGaGx6mJWet+N0UsTzT30U00Vx7Ip4bQVMqt493Eb8LC+WjxOsoqT6SI8D9Jr5dwUZjlDwJ9uh0k85lQhYEBAkZDQk1zi6vhtxktpBFmaFmcBso52dx1d6ftbkLzr5MlGXvQiK71COcK4AJQuj/Wu5nCtE8bF4wtx/tRe4BNK12xqu2xGY6ps7I8Sq10sBREK7DTo=;JbpUL3x6q606xban/mErVw=="
 ---
 

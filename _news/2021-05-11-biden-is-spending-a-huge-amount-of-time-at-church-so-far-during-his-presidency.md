@@ -224,8 +224,8 @@ related:
     quality: 93
   - title: "Israel-Gaza violence: Joe Biden calls for ceasefire"
     excerpt: "US President Joe Biden has voiced his support for a ceasefire after eight days of violence between Israel and Palestinian militants in Gaza. Mr Biden told Israeli Prime Minister Benjamin Netanyahu that the US was working with Egypt and other countries on halting hostilities."
-    publishedDateTime: 2021-05-18T01:04:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-middle-east-57152723"
+    publishedDateTime: 2021-05-18T06:52:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-middle-east-57152723.amp"
     ampWebUrl: "https://www.bbc.co.uk/news/world-middle-east-57152723.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-middle-east-57152723.amp"
     type: article

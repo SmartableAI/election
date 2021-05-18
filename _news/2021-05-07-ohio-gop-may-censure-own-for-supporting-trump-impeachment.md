@@ -693,6 +693,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Blinken brings Biden's anti-Trump climate policy to Iceland"
+    excerpt: "On a trip overshadowed by the crisis in the Middle East, U.S. Secretary of State Antony Blinken on Tuesday touted the Biden administration’s abrupt shift in its predecessor’s climate policies as he visited Iceland for talks with senior officials from the world’s Arctic nations."
+    publishedDateTime: 2021-05-18T11:06:00Z
+    webUrl: "https://www.chron.com/news/article/Blinken-brings-Biden-s-anti-Trump-climate-policy-16184623.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Blinken-brings-Biden-s-anti-Trump-climate-policy-16184623.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Blinken-brings-Biden-s-anti-Trump-climate-policy-16184623.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "President Joe Biden revokes Trump orders on `heroes garden' and other issues"
     excerpt: "President Joe Biden on Friday revoked a number of his predecessors executive orders including one to create a \"National Garden of American Heroes.\""
     publishedDateTime: 2021-05-14T20:54:00Z

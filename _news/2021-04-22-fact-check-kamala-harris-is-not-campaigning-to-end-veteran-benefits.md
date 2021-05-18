@@ -1129,18 +1129,18 @@ related:
       domain: seattletimes.com
     quality: 70
   - title: "Biden, Harris Release Tax Returns In Return To Tradition"
-    excerpt: "\"Today, the President released his 2020 federal income tax return, continuing an almost uninterrupted tradition,\" the White House said on Monday, the deadline to file income tax returns."
-    publishedDateTime: 2021-05-18T03:53:00Z
-    webUrl: "https://www.northcountrypublicradio.org/news/npr/997758204/biden-harris-release-tax-returns-in-return-to-tradition"
+    excerpt: "What in other years would likely not be huge news is this year making headlines: President Joe Biden has released his tax returns. The release of his"
+    publishedDateTime: 2021-05-18T11:19:00Z
+    webUrl: "https://www.nhpr.org/post/biden-harris-release-tax-returns-return-tradition"
     type: article
     provider:
-      name: Northcountrypublicradio.org
-      domain: northcountrypublicradio.org
+      name: New Hampshire Public Radio
+      domain: nhpr.org
     quality: 70
     images:
-      - url: "https://media.npr.org/assets/img/2021/05/17/ap_21137641673269-9bd00581dad9b1661c540becb7784411949d3d0f.jpg?s=6"
-        width: 948
-        height: 710
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202105/997760135.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "How to watch VP Kamala Harris jobs speech in Greensboro NC | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris is in North Carolina for the first time since taking office, visiting Greensboro and High Point Harris’s plane landed at 10:30 a.m. on a rainy day in Greensboro, where Gov."
