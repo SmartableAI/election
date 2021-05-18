@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The latest sign of Donald Trump's hold on the GOP"
+    excerpt: "A vast majority of Republicans are still all in on former President Donald Trump -- and a new CBS/YouGov poll reveals just how deep the obsession within the party goes.\n    \n"
+    publishedDateTime: 2021-05-17T22:34:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nc0HsYxtjZI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/republican-support-for-trump-poll/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/republican-support-for-trump-poll/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514224819-cnne-trump-supporters-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Liz Cheney expected to lose House Republican leadership post over feud with Trump"
     excerpt: "Rep. Liz Cheney is expected to lose her post in the House Republican leadership on Wednesday after publicly rejecting for months former President Donald Trump's lie that he won the 2020 presidential election.\n    \n"
     publishedDateTime: 2021-05-12T11:38:07Z

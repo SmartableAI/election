@@ -152,6 +152,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris: Looking At How We Can Address The Root Causes Of Migration Is \"One Of My Areas Of Focus\""
+    excerpt: "Vice President Kamala Harris met with leaders of the Congressional Hispanic Caucus Monday afternoon to discuss the \"root causes\" of migration. \"We are going to talk about and work together — and again,"
+    publishedDateTime: 2021-05-17T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/17/kamala_harris_looking_at_how_we_can_address_the_root_causes_of_migration_is_one_of_my_areas_of_focus.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/17/kamala_harris_looking_at_how_we_can_address_the_root_causes_of_migration_is_one_of_my_areas_of_focus.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/17/kamala_harris_looking_at_how_we_can_address_the_root_causes_of_migration_is_one_of_my_areas_of_focus.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 69
+    images:
+      - url: "https://assets.realclear.com/images/54/543529.jpg"
+        width: 1038
+        height: 778
+        isCached: true
 
 secured: "zGFiG8DQYPp0Y284Pkzh5unWi3tmcyasQsdk729ZYt5GELf6axepGgZL9NLMDOdK13MsKJPWkC3BoehDNJISu6GOtw8k0RV5XIurwlyge0wreD1WLM80GOfHgiAjZQb15sozCPCqokvif36ESzzAzhiil+gWCM9cJoNi/AgCxMQQMmiDO2JeOwuO2jBjyLiRkCi6jLpE24M1kp9mqV4eqVp4C/9AWX79sG0us/Gzw75vs15CXk5rLRa/br14hesG9lwz9uJVL+sGY1Dsl/71s92TwNVsyLV/tuHzmSgkiMWiadqiBoM5x7HCu+LfWsjhgDRiBJ2Oe5j9UU1OxVu/giQx1EKFBB61o7hkZDt7hVg=;sY/sQzu/myuh4aBOEolLVQ=="
 ---

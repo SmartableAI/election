@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Nava
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
 type: article
 quality: 125
-heat: 1205
+heat: 1225
 published: true
 
 provider:
@@ -454,6 +454,22 @@ related:
       - url: "https://www.staradvertiser.com/wp-content/uploads/2021/05/web1_11265332-744d9c0501b94d82be9d3a90d452aa0d.jpg"
         width: 760
         height: 521
+        isCached: true
+  - title: "What Kamala Harris Has Learned About Being Vice President"
+    excerpt: "The exterior is the same light-blue and white, but unlike the commander in chief’s plane, the vice president’s aircraft is open plan—from the back, you can see all the way to the front, where a small office doubles as a bedroom."
+    publishedDateTime: 2021-05-17T15:20:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/05/kamala-harris-vice-president-impossible/618890/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/618890/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/618890/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/G3MmbURI-4keidCeAgenVRUIQtg=/570x321/media/img/mt/2021/05/BWGettyImages_1232546125/original.jpg"
+        width: 570
+        height: 321
         isCached: true
   - title: "Photos: Kamala Harris sells San Francisco loft, seeks buyer for DC condo"
     excerpt: "The SoMa loft sells for $860,000; the Washington property, listed at $1.995 million, has two bedrooms and two bathrooms."

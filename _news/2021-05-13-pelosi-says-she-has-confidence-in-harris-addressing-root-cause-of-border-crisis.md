@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-harris-root-cause-border-cri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-harris-root-cause-border-crisis.amp"
 type: article
 quality: 181
-heat: 341
+heat: 361
 published: true
 
 provider:
@@ -155,6 +155,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris: Looking At How We Can Address The Root Causes Of Migration Is \"One Of My Areas Of Focus\""
+    excerpt: "Vice President Kamala Harris met with leaders of the Congressional Hispanic Caucus Monday afternoon to discuss the \"root causes\" of migration. \"We are going to talk about and work together — and again,"
+    publishedDateTime: 2021-05-17T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/17/kamala_harris_looking_at_how_we_can_address_the_root_causes_of_migration_is_one_of_my_areas_of_focus.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/17/kamala_harris_looking_at_how_we_can_address_the_root_causes_of_migration_is_one_of_my_areas_of_focus.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/17/kamala_harris_looking_at_how_we_can_address_the_root_causes_of_migration_is_one_of_my_areas_of_focus.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 69
+    images:
+      - url: "https://assets.realclear.com/images/54/543529.jpg"
+        width: 1038
+        height: 778
         isCached: true
 
 secured: "V2p3E8zrSZ7gqBqT/70mr2Shzs7J3UxHEfRQCsN1L8xcvHhmm7eyaBjRASalpg9tlcWu7vK0v4cXX2itkVVWirnbEew6bpU3TUNyzPMv1U1UrQI9lp11PCV/6+l8k8flTHVqxK//DnGtBO7aJ1eCZWiRhxpVeKnKR1170YwUxlzkJlgO36rsSJoxMTYU64jWVLLy7OFW8dbJqQokuyPM/L9vsMjcuEUoadN/RzMigW/Q6l65GGBwvtX4LUc5ijjXThyv1bE6hW080Oz048ZDIDt4ZIY1ZPw3sgv++0V14XBuMvXWec6FOSHb9cKHF4gR7D1b7RlN47uZXMsgj0Mm9MvXArBvYaYBxoAo1YE1p3w=;zvu/MPLillCkGylH8lSltA=="

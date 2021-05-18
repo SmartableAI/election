@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House releases Biden's tax returns in restoration of presidential tradition"
+    excerpt: "The White House will release President Joe Biden's tax returns \"soon,\" press secretary Jen Psaki announced Monday, reinstating a presidential tradition that was halted by former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-05-18T00:21:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TrS_wsNQPtc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/biden-tax-returns/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/biden-tax-returns/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517125338-02-biden-covid-remarks-0517-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Multiple crises at home and abroad provide a reality check for Biden's White House"
     excerpt: "President Joe Biden was at the wooded Camp David retreat in Maryland when he first heard Colonial Pipeline had been hacked.\n    \n"
     publishedDateTime: 2021-05-15T13:01:13Z
@@ -396,6 +412,22 @@ related:
     quality: 151
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302114456-elizabeth-warren-wealth-tax-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden developing pardon process with focus on racial justice, expected to issue acts of clemency before middle of term"
+    excerpt: "The White House is currently in the process of reviewing clemency applications and has signaled that President Joe Biden, who views the pardon power as a key tool for advancing equity, will issue acts of clemency before the middle of his presidential term, a source familiar with the matter tells CNN.\n"
+    publishedDateTime: 2021-05-18T00:55:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3VP8_1LgS-8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/biden-pardons-clemency-racial-justice/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/biden-pardons-clemency-racial-justice/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -94,16 +94,16 @@ related:
         height: 600
         isCached: true
   - title: "Biden says he is working toward calm in Israel-Palestinian conflict"
-    excerpt: "President Joe Biden on May 16 said his administration is working with Palestinians and Israelis to work towards a sustained calm, adding that both deserve to live in safety and security."
-    publishedDateTime: 2021-05-17T02:22:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/biden-says-he-is-working-toward-calm-in-israel-palestinian-conflict/2021/05/16/b7bd3d22-48a2-4c9e-b1f4-53544423c382_video.html"
+    excerpt: "Rough Cuts Biden says he is working toward calm in Israel-Palestinian conflict. Posted . U.S. President Joe Biden said his administration is working with Palestinians and Israelis"
+    publishedDateTime: 2021-05-17T09:32:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEDCUC4F"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/thumbnails/60a1c1a34cedfd0001fbbde0/2021-05-17T010221Z_1_OVEDCUC4F_RTRMADC_0_ISRAEL-PALESTINIANS-BIDEN-ROUGH-CUT.jpg&w=1080"
+      - url: "https://static.reuters.com/resources/r/?d=20210517&i=OVEDCUC4F&r=OVEDCUC4F&t=2"
         width: 960
         height: 540
         isCached: true

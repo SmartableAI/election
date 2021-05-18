@@ -57,6 +57,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Harris County to lower COVID threat level, KHOU 11 confirms"
+    excerpt: "Harris County has spent a majority of this pandemic in the red threat level, but that is expected to change on Tuesday."
+    publishedDateTime: 2021-05-18T03:09:00Z
+    webUrl: "https://www.khou.com/video/news/local/video/harris-county-to-lower-covid-threat-level-khou-11-confirms/285-28843615-0a37-42f6-a400-817d4f0b5032"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 55
+    images:
+      - url: "https://media.khou.com/assets/KHOU/images/226da1c8-2490-44c6-8bf8-b5d355bf9a99/226da1c8-2490-44c6-8bf8-b5d355bf9a99_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "divTC3iJ1JIaSTaRD/rB67WlcjofutlX7xhlbpaJ/tBgfyvrxhAyL8pmOBw/Fn41oLUErzc/7cd8HGNOaxRc0qkO5Bs4af6xcdz67C5uoFTmcIYdpg6FNmxxPIxw5XdvAsAKuIEF0usUhMIqm6aeBxPcd5rE3yvZajRv+pgfNOm4yDT7YScsRwpBBvVOVGZJPkMdnix87VyXk1teXeL0MaGl05hd2yFGPHCoTO0xS8rjICZCqUMhOFa2CTR4IIun+VhRzOmoIpx9l/8h38J7oipggcDSDaJyeuZTC9/bSOfIfV87He/yq2LsEI86PheloSgDcKRIjcLoLzuxoljcKHo+2L89P4MAjoZKF6LH5pw=;nc6ociGKFAt34T6rcHqAWg=="
 ---

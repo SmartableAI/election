@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Georgia's Lt. Governor won't run again after taking on Trump"
+    excerpt: "Georgia’s lieutenant governor, one of the most prominent Republicans to openly contradict false claims of November election fraud, has announced he won’t seek reelection in 2022"
+    publishedDateTime: 2021-05-18T01:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/georgias-lt-governor-run-taking-trump-77740487"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgias-lt-governor-run-taking-trump-77740487"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgias-lt-governor-run-taking-trump-77740487"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a0afd617a54e43e999554feb75dab230_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Key Trump officials face Congress with Capitol riot response under scrutiny"
     excerpt: "Wednesday’s House Oversight Committee hearing marks the first time former acting defense secretary Christopher Miller and former acting attorney general Jeffrey Rosen will speak to lawmakers about their preparations for and response to the attack on Congress."
     publishedDateTime: 2021-05-12T13:18:00Z

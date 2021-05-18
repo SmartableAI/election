@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-m
 webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-meets-congressional-hispanic-caucus/5136267001/"
 type: article
 quality: 105
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/3521621268936/2021/1/dcf14d32301c165911ccb7e179718d61/v1.5/Kamala-Harris-to-keynote-first-Asian-American-Pacific-Islander-unity-summit.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Harris County to lower COVID threat level, KHOU 11 confirms"
+    excerpt: "Harris County has spent a majority of this pandemic in the red threat level, but that is expected to change on Tuesday."
+    publishedDateTime: 2021-05-18T03:09:00Z
+    webUrl: "https://www.khou.com/video/news/local/video/harris-county-to-lower-covid-threat-level-khou-11-confirms/285-28843615-0a37-42f6-a400-817d4f0b5032"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 55
+    images:
+      - url: "https://media.khou.com/assets/KHOU/images/226da1c8-2490-44c6-8bf8-b5d355bf9a99/226da1c8-2490-44c6-8bf8-b5d355bf9a99_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
 
 secured: "Shnpri92vO4hIsvsomVKSfTwcw3yENYOoAJ+yhyNA+Iq2rq/yxwGoKkviqI1tDRH4sVUekx/tZ6X6GnLAS35uVgdzi6YBIEJHxD3xxvV1INXODj+mMHp4wR18KPNWHINXsdjvuBbZCzNezHYrIsgWuQfomPGuUFCNe4KtO2Umf4aKBljhKxkz5fXPM1R2wvkGb65usgWm5Ol8eARBG6oHe7Et582SZnyzl/sPSddl6U9Y4AkgHThjdMR37Bp69NCtAvIicHWQbH63ouHw2nm+z+Qi/GnAu9tWIvP7dHnkOG06fcqRA5shy8CtKQ0h5T6BWaCuIufb6Q+62mZ99nNKUObEwOzBQ1SH2WpqAvi8zA=;Lo5gs4LI5NZGRCSFgfDyCw=="

@@ -467,6 +467,22 @@ related:
         width: 760
         height: 521
         isCached: true
+  - title: "What Kamala Harris Has Learned About Being Vice President"
+    excerpt: "The exterior is the same light-blue and white, but unlike the commander in chief’s plane, the vice president’s aircraft is open plan—from the back, you can see all the way to the front, where a small office doubles as a bedroom."
+    publishedDateTime: 2021-05-17T15:20:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/05/kamala-harris-vice-president-impossible/618890/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/618890/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/618890/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/G3MmbURI-4keidCeAgenVRUIQtg=/570x321/media/img/mt/2021/05/BWGettyImages_1232546125/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
   - title: "Kamala Harris touts research during first Wisconsin trip as vice president"
     excerpt: "Wisconsin Republicans said Harris' time would have been better spent at the U.S. border dealing with the increase of migrants."
     publishedDateTime: 2021-05-04T19:35:00Z

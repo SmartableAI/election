@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The latest sign of Donald Trump's hold on the GOP"
+    excerpt: "A vast majority of Republicans are still all in on former President Donald Trump -- and a new CBS/YouGov poll reveals just how deep the obsession within the party goes.\n    \n"
+    publishedDateTime: 2021-05-17T22:34:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nc0HsYxtjZI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/republican-support-for-trump-poll/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/republican-support-for-trump-poll/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514224819-cnne-trump-supporters-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Homeland Security reverses Trump-era DNA collection plan for immigration vetting "
     excerpt: "The Department of Homeland Security on Friday withdrew Trump-era plans to vastly expand the collection of biometric data, including DNA samples, which would have been used for immigration purposes such as verifying family relationships.\n    \n"
     publishedDateTime: 2021-05-07T16:14:22Z
