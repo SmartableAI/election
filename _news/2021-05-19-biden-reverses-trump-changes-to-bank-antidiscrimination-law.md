@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Biden reverses Trump changes to bank antidiscrimination law"
-excerpt: "The Biden administration is repealing the changes made by the Trump administration to an important law made to stop banks from discriminating against racial minorities and the poor"
-publishedDateTime: 2021-05-18T18:45:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/biden-reverses-trump-bank-antidiscrimination-law-77761168"
-webUrl: "https://abcnews.go.com/Business/wireStory/biden-reverses-trump-bank-antidiscrimination-law-77761168"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-reverses-trump-bank-antidiscrimination-law-77761168"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-reverses-trump-bank-antidiscrimination-law-77761168"
+excerpt: "The Biden administration is repealing changes made by the Trump administration to an important law aimed at stopping banks from discriminating against racial minorities and the poor"
+publishedDateTime: 2021-05-18T20:02:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-reverses-trump-bank-antidiscrimination-law-77761167"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-reverses-trump-bank-antidiscrimination-law-77761167"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-reverses-trump-bank-antidiscrimination-law-77761167"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-reverses-trump-bank-antidiscrimination-law-77761167"
 type: article
 quality: 140
 heat: -1
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://s.abcnews.com/images/Politics/WireAP_2c710332089f41fe8c0f5a98d401d9ee_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -94,22 +94,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210514&t=2&i=1562174593&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4D1AB"
         width: 818
         height: 545
-        isCached: true
-  - title: "Blinken brings Biden's anti-Trump climate policy to Iceland"
-    excerpt: "U.S. Secretary of State Antony Blinken is touting the Biden administration’s abrupt shift in its predecessor’s climate policies as he visits Iceland for talks with senior officials from the world’s Ar"
-    publishedDateTime: 2021-05-18T09:59:00Z
-    webUrl: "https://www.washingtonpost.com/politics/blinken-brings-bidens-anti-trump-climate-policy-to-iceland/2021/05/18/1b163fb8-b7c8-11eb-bc4a-62849cf6cca9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/blinken-brings-bidens-anti-trump-climate-policy-to-iceland/2021/05/18/1b163fb8-b7c8-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/blinken-brings-bidens-anti-trump-climate-policy-to-iceland/2021/05/18/1b163fb8-b7c8-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GD7XWGVX2YI6XPCKMKCJZ5WMVE.jpg&w=1440"
-        width: 1440
-        height: 928
         isCached: true
   - title: "Biden rescinds Trump-era health insurance requirement for new immigrants"
     excerpt: "U.S. President Joe Biden on Friday revoked a 2019 proclamation by former President Donald Trump that sought to bar the entry of immigrants who could not prove they had health insurance or could cover healthcare costs."
@@ -573,6 +557,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Blinken brings Biden's anti-Trump climate policy to Iceland"
+    excerpt: "U.S. Secretary of State Antony Blinken is touting the Biden administration's abrupt shift in its predecessor's climate policies as he visits Iceland for talks with senior officials from the world's Ar"
+    publishedDateTime: 2021-05-18T12:23:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/blinken-brings-bidens-anti-trump-climate-policy-iceland-77752322"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_feca74dbed994cfdb1f43b252c1bdc12_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Chuck Todd and Texas Rep. Dan Crenshaw Get Into Heated Exchange Over Trump and GOP Rifts"
     excerpt: "NBC host Chuck Todd and Texas Rep. Dan Crenshaw on Sunday engaged in a heated exchange over former President Donald Trump and the future of the Republican Party. In a segment on NBC's Meet the Press,"
     publishedDateTime: 2021-05-16T19:08:00Z
@@ -687,6 +685,20 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "Biden guns it in Ford's new electric truck"
+    excerpt: "Top News Biden guns it in Ford's new electric truck. Posted . Touting his infrastructure plan in Dearborn, Michigan on Tuesday, U.S. President Joe Biden test drove Ford's new elec"
+    publishedDateTime: 2021-05-18T20:32:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEDHV4DB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210518&i=OVEDHV4DB&r=OVEDHV4DB&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump's triumphs extend to GOP rewriting history of Nov. 3 and Jan. 6: The Note"
     excerpt: "Many of Rep. Liz Cheney's colleagues are well along in crafting their own Trumpian and patently false narratives of both the election and the subsequent attack on Jan. 6."
     publishedDateTime: 2021-05-13T14:00:00Z
@@ -732,6 +744,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/81e/129/4e027feae4eaed3afd4dc03cb1842f16b5-cali-recall-3.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Case tied to Trump-Biden race in small county is dismissed"
+    excerpt: "A judge dismissed a lawsuit Tuesday against a northern Michigan county whose brief mix-up of election results led to claims of fraud and other mischief. Judge Kevin Elsenheimer said there was nothing left to give to local voter William Bailey,"
+    publishedDateTime: 2021-05-18T19:17:00Z
+    webUrl: "https://www.chron.com/news/article/Case-tied-to-Trump-Biden-race-in-small-county-is-16186223.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Case-tied-to-Trump-Biden-race-in-small-county-is-16186223.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Case-tied-to-Trump-Biden-race-in-small-county-is-16186223.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "President Joe Biden revokes Trump orders on `heroes garden' and other issues"
     excerpt: "President Joe Biden on Friday revoked a number of his predecessors executive orders including one to create a \"National Garden of American Heroes.\""
@@ -951,6 +979,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "JF9ZCU8PJ91h/q3LTd2NXixSuwwSg7TLUnYAuhIY3fBFYP4dbj0IM/dar8UuQR4iRoquHGCJd5QgJwGjB2qzRhEeZ6d8nBXQyjlgUmhMXPul/97/7iRxVge8KKtvSJii2hKyMgh8650wLzRdT5ihA01Qj4whwIJaZp1qJ7nuFiR1CexIWdxcz9WCONdyaoCHPgPNiOXJA8d31Fq9VVDCK5xVoBiG0brpHUneqwaZravRZzZJPKeoubpR1wxPKMtvSkmTUihhZWHQhcBDKeXetzweoCbQEPpncARDGiydGCXtUIj1+S2+/a0fWtWeBSk1+64owU3zdeCzoeQdWevjn5dtJwh63ACkJ4qZ9+4n/7w=;r5a+Ch6Kv5tp4DIuyYO95A=="
+secured: "vkENbkv5HYAgJ31yqYeSMD3b0gHscSAJvGmB5yUwuT7XAZSmtvo4CYfDP+tSyTfqB7C8iX4wGO9xUbiU/6dVoBhPMSRJ2MIPC02xBaQ+tjlLE/AAb/Rsy1AaucHbU8MyG94nqRE5lvarGWiXZLgjqQ4l89m3yJwIdRgLdHXIgTgKTLZ0OCOmHMuFUBfzfjHR2QCgKAde/8BeaFTGiPFGPI5VplYxTKw/UdFIMuGsUjL6j/BjtE/MzvcJ3zPJbD0cK8eDVASnyI6e46WBR9PU9gISyHwRVBoTfqVps+dLMHqjBSefHgYyI57jImvumXbYj4lRaesi0maYUrrbgkB9/bLk4OtOCu4HK+h2qv6RDLw=;f14fVoQzObzlCUycFp9j+A=="
 ---
 

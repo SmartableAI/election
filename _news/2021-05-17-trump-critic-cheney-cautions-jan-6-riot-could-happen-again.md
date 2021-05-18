@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Fact check: False claim from Trump about Maricopa County election database"
+    excerpt: "Trump's statement rehashes the debunked claim that there was widespread voter fraud affecting the outcome of the 2020 presidential election."
+    publishedDateTime: 2021-05-18T21:07:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/05/18/fact-check-false-claim-trump-maricopa-county-election-data/5119684001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5119684001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5119684001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 138
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/e4113b7b-e8ce-458f-8f3e-1e81071de20a-USP_News-_Donald_Trump_Iowa_Rally.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Republicans vie for Trump's mantle in Pa. Senate primary"
     excerpt: "Republicans are bracing for a potentially heated Senate primary in Pennsylvania that will see candidates competing to tie themselves to former President Trump."
     publishedDateTime: 2021-05-12T10:00:00Z

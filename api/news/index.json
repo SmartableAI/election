@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-18-biden-takes-new-electric-f-150-for-a-test-drive-this-suckers-quick.md",
+      "title": "Biden takes new electric F-150 for a test drive: 'This sucker's quick'",
+      "excerpt": "It's not every day an American president gets to speed down a driving course in an electric pick-up truck trailed by Secret Service. But on Tuesday, President Joe Biden did just that.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nV4b01EMz3Y/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nV4b01EMz3Y/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210518155052-01-biden-ford-f-150-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/18/politics/biden-ford-test-drive/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/biden-ford-test-drive/index.html",
+      "publishedDateTime": "2021-05-18T14:44:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-biden-and-the-squads-tlaib-stage-heated-confrontation-on-tarmac-in-detroit.md",
       "title": "Biden and The Squad's Tlaib stage heated confrontation on tarmac in Detroit",
       "excerpt": "President Biden and Democratic Rep. Rashida Tlaib engaged in a tense, roughly eight-minute conversation on the airport tarmac Detroit after Biden's arrival there Monday.",
@@ -437,7 +493,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1296,63 +1352,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-us-and-europe-seek-to-end-trump-era-dispute-over-steel-and-aluminum.md",
-      "title": "U.S. and Europe Seek to End Trump-Era Dispute Over Steel and Aluminum",
-      "excerpt": "The Biden administration is trying to rebuild relations with Europe, but it is moving cautiously to unwind tariffs imposed by President Donald J. Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/17/business/us-europe-steel-tariffs.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/17/business/us-europe-steel-tariffs.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/18/business/17economy-briefing-steeltariffs/17economy-briefing-steeltariffs-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/17/business/us-europe-steel-tariffs.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/17/business/us-europe-steel-tariffs.amp.html",
-      "publishedDateTime": "2021-05-17T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

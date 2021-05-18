@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden jokes about running over reporter with vehicle when asked about Israel during Ford test drive"
+    excerpt: "President Biden joked about running over a journalist with a vehicle as he took questions while test-driving the Ford F-150 Lightning."
+    publishedDateTime: 2021-05-18T20:51:00Z
+    webUrl: "https://www.foxnews.com/media/biden-jokes-about-running-over-reporter-with-vehicle-when-asked-about-israel-during-ford-test-drive"
+    ampWebUrl: "https://www.foxnews.com/media/biden-jokes-about-running-over-reporter-with-vehicle-when-asked-about-israel-during-ford-test-drive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-jokes-about-running-over-reporter-with-vehicle-when-asked-about-israel-during-ford-test-drive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2eec73e-c144-44b9-90fc-4687f898c0ca/341ebf0e-8c5e-4ce4-91c0-bbde5231a84a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "17ix8Plm3CpGKE6EQ/3eBa0caoPxFVbE2A/kGiIzdNqoVOF9M8eXShSQKFYVwuKs5g7LelnWgjJMsomsTGKAVgnjaPp9BcTKtfJq+GyEEdVJXj1f02dZhDj0KuGS9qkeZgfJa/EfCI6VF405X3WneCV0dIZ++nINiFK0Sx29WYUuelw2yWn9c5O+MciOfC9fxDw11pdr/l8v6m6b2e/hI/+fumTM7uyxTDjoCNFdyVVrePLrU2KNInXuyid/p2KgSJ/XUzbkN+8ECzjEM1msnhkhJIQgL09q4nphO9hjzRVacy17LrorgF4izdMMAkAEMNQk1bEmkt6Emrvt6rAjTSuz6W1Cac2XWJaCO3/X2F4=;icZhGC7i6mtS1pfccBY+jw=="
 ---
