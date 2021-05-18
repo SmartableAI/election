@@ -2,9 +2,9 @@
 category: news
 title: "Israel-Gaza violence: Joe Biden calls for ceasefire"
 excerpt: "US President Joe Biden has voiced his support for a ceasefire after eight days of violence between Israel and Palestinian militants in Gaza. Mr Biden told Israeli Prime Minister Benjamin Netanyahu that the US was working with Egypt and other countries on halting hostilities."
-publishedDateTime: 2021-05-18T01:43:00Z
-originalUrl: "https://www.bbc.com/news/world-middle-east-57152723.amp"
-webUrl: "https://www.bbc.com/news/world-middle-east-57152723.amp"
+publishedDateTime: 2021-05-18T01:04:00Z
+originalUrl: "https://www.bbc.com/news/world-middle-east-57152723"
+webUrl: "https://www.bbc.com/news/world-middle-east-57152723"
 ampWebUrl: "https://www.bbc.com/news/world-middle-east-57152723.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-middle-east-57152723.amp"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/E759/production/_118552295_mediaitem118552294.jpg"
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3741/production/_118554141_mediaitem118554140.jpg"
     width: 1024
     height: 576
     isCached: true
@@ -330,6 +330,6 @@ related:
         height: 433
         isCached: true
 
-secured: "s+qsVqDcywc4UNayRO+X3yX1B9D+HR2WnyxodqOLT81j1RmnMs/ANCsgBbQ1JoFpsYQbpEfChd3oah2q6u2BogpzsGbIDmdfcAnebsozKXJQnSXXkMjDr6/l4fWYHHlDh4EDfhdUur+4UWO/gaXknyXDE2aRSWC1nXl7i/Z6td7zf0DbD0fLD60tq7F4fkYcSdDxCOdK/f1a2EgKhlZo2TT9PNOS/2nFx1scTpxO4Rkb9KRFqtHL0CE1n/jf+wB4Xrsy3tFkfZuD2/c0VTN8s7lhHA1tjKcxeR0nsrqQH+xPFFUrJ0uKJj+05y23tp+fu6lwFYBOjHOWAFeFlVKgNKnZ16Vcecsd0hjpMOtEfMY=;Mq3NLzB6VaEBxgUmOT9gdQ=="
+secured: "pbX8gDOdkbf3FmU1ezgXIQDfyT4DRFNnYeEoPBwPlBaCRXlIFhD+U5bONGvT2DhkHj62vncG/vNUKpUN6dKMhHDyLCWBqAcLIMK+VEDj62IdVXM97KEj/EYzAL5Xl2ru+5HcxEVYIyvRSCNJtTw6/ZLcd9G4Ls21GTxLVQPLEt1vH7TAJ0THCMClxnLGtS90MiRr81HjKzndIYjjSLFEXJxCkWvMaRfcqWpHIUXzsE4VjUBbk7UXwRcOnbsj2idAhripPE+gyKTYnjq4eDP8FWdM2rqOl61o3H1rNSlocdHpsOme7OMC9QskVnDAsYenkHU/WPXCwpPpbF7tVEiKsg5BB4hT8VDkHW8F8zxVqd0=;2aF86vCMS95wyzQKuljntA=="
 ---
 
