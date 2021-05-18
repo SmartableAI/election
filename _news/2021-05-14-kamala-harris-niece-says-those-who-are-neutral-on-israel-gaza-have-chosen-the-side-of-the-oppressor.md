@@ -3,12 +3,12 @@ category: news
 title: "Kamala Harris’ niece says those who are neutral on Israel-Gaza have ‘chosen the side of the oppressor’"
 excerpt: "Vice President Kamala Harris’ niece Meena offered a more forceful take on the Israel-Gaza unrest Wednesday than that of her aunt, urging people to fight “Palestinian oppression.”"
 publishedDateTime: 2021-05-14T00:41:00Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vx8NkG14LgI/kamala-harris-niece-israel-gaza-oppressor"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vx8NkG14LgI/kamala-harris-niece-israel-gaza-oppressor"
+originalUrl: "https://www.foxnews.com/politics/kamala-harris-niece-israel-gaza-oppressor"
+webUrl: "https://www.foxnews.com/politics/kamala-harris-niece-israel-gaza-oppressor"
 ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-niece-israel-gaza-oppressor.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-niece-israel-gaza-oppressor.amp"
 type: article
-quality: 169
+quality: 119
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/Meena-Harris-GETTY.jpg?ve=1&tl=1"
@@ -173,6 +173,6 @@ related:
         height: 778
         isCached: true
 
-secured: "72lBMt2hMUr/set3P1rPbDLAA8w39d2APD2cvxjeWpXN332kJZ1FdP0PlCIa5U5N0O2RcMZv+NsI3p7KPGyfl+AuCMGgmBrPe+TaqKJd9c2+/np1MHzG1BDOG4opqgDl80+WUPpAnYIlVetASTqxr+s3dU3eyfw9rfGwrprurcXEaXUoNjQilGynO6Q29tFg8UA5txGPxPVV6XzvWst1VbVGXFeIQzkoi3MK969xSJ5wpnvtxS7EF0abYbKn5jg3pcDUlYEnSJXC1tdbJxp0TBewDvGIlKUFx6Sk979y+8d3LSWg4LrnsMhDZdi0LwhX5DKFa/UC+Wob0TSVBK6EoM9+CfkuGXSvpRx5DkesQVo=;v84p0/2LgHm7AoIaPDN1oQ=="
+secured: "1lwfB6fCTluAtAcfKmh2xlnP6sBQLwpJ7XtBIL/983Vu6AibmS+p45aCxgCbnARWgA1PGFKqVMUODIVLkI2RtPww5sYrOuPSRi7KbqtoRITSezw3DAkSJuCa4f6wEslWjwhzc1eex9/IMDgHtJlm25BwD7kDJBzXPNWq2J2kMYb7+s7Lr+6zucMs2aHBlK5jNHGFKQTxdAFDpgDRsJZlev7ZztOrQUOiCs8cLzokK13bW18HZgFB+++hKoqQLdIZyYTGmuUiG02Qjy9+thD/Y7geS67UrHKh0WxQ5c0S4LeyiIvJ3H3/dVfTxJsqLXX6hUBD/fcJ2jMO9heK60htImJb96LQeqb0H2DnmuuzuTA=;bSpFdyvMq4fNlpSnznAx1A=="
 ---
 

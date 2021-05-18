@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Biden: 'Work in progress' to stop Mideast clashes"
-excerpt: "President Joe Biden says his administration has not just spoke with Israeli leaders as fighting between Hamas and Israel escalates even amid truce efforts. Biden says \"there has not been a significant overreaction\" from Israel."
-publishedDateTime: 2021-05-13T18:01:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/13/biden-work-progress-stop-mideast-clashes/5076433001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/13/biden-work-progress-stop-mideast-clashes/5076433001/"
+title: "Biden raises cease-fire, civilian toll in call to Netanyahu"
+excerpt: "The White House says President Joe Biden expressed support for a cease-fire in a call to Israeli Prime Minister Benjamin Netanyahu Monday, the eighth day of Israeli-Palestinian airstrikes and rocket a"
+publishedDateTime: 2021-05-18T03:07:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-raises-cease-fire-civilian-toll-in-call-to-netanyahu/2021/05/18/a08dc754-b78e-11eb-bc4a-62849cf6cca9_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-raises-cease-fire-civilian-toll-in-call-to-netanyahu/2021/05/18/a08dc754-b78e-11eb-bc4a-62849cf6cca9_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-raises-cease-fire-civilian-toll-in-call-to-netanyahu/2021/05/18/a08dc754-b78e-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-raises-cease-fire-civilian-toll-in-call-to-netanyahu/2021/05/18/a08dc754-b78e-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/7314b9de-e085-4233-aeae-46b6299d7801_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LLB3Q2VXHAI6XPCKMKCJZ5WMVE.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -51,22 +53,6 @@ related:
     webUrl: "https://www.washingtonpost.com/politics/calls-mount-for-gaza-israel-cease-fire-greater-us-efforts/2021/05/17/9139e8f0-b6c6-11eb-bc4a-62849cf6cca9_story.html"
     ampWebUrl: "https://www.washingtonpost.com/politics/calls-mount-for-gaza-israel-cease-fire-greater-us-efforts/2021/05/17/9139e8f0-b6c6-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/calls-mount-for-gaza-israel-cease-fire-greater-us-efforts/2021/05/17/9139e8f0-b6c6-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LLB3Q2VXHAI6XPCKMKCJZ5WMVE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden raises cease-fire, civilian toll in call to Netanyahu"
-    excerpt: "The White House says President Joe Biden expressed support for a cease-fire in a call to Israeli Prime Minister Benjamin Netanyahu Monday, the eighth day of Israeli-Palestinian airstrikes and rocket a"
-    publishedDateTime: 2021-05-18T03:07:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-raises-cease-fire-civilian-toll-in-call-to-netanyahu/2021/05/18/a08dc754-b78e-11eb-bc4a-62849cf6cca9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-raises-cease-fire-civilian-toll-in-call-to-netanyahu/2021/05/18/a08dc754-b78e-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-raises-cease-fire-civilian-toll-in-call-to-netanyahu/2021/05/18/a08dc754-b78e-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -109,7 +95,21 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden: 'Work in progress' to stop Mideast clashes"
+    excerpt: "President Joe Biden says his administration has not just spoke with Israeli leaders as fighting between Hamas and Israel escalates even amid truce efforts. Biden says \"there has not been a significant overreaction\" from Israel."
+    publishedDateTime: 2021-05-13T18:01:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/13/biden-work-progress-stop-mideast-clashes/5076433001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/7314b9de-e085-4233-aeae-46b6299d7801_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "VTs1o5Eu80oZMh7QJ1dSR0y1R0ua18qitI8/+/VzVjeM5MVor3onQpuNiZTVc+HOe1GAPFcbJ6AGaYh+V4ewKNHG9qBYKAw/oRpOclUQES+ulUgsyOBqnIYXZh67d+4iNBG3ib8BUF8bxfeSde41xdSG4sESWzme3nAkAydQ2IXl/qn5xwbso9NFQ1t4TBV7G91LAZ8ti5ebmVcxor3RjMmvpsBbmE+Rci5fyULsFlmhpruQ+05q5c0ghm3yHlwK/kp2pAaEpmP+slYkGoUcEORLTFP6HYKluJv/MGwOunhrkBQvqwUb7gOcUTZCViCCgSQMRQz1vbNUOWqI7VlSvf4trDcao/tAmibD42GDkNlMr4WB8s6ku6c3NHpguzp3ecN3qfkdren4Oo8bHEAZKwh1zU9YEBAJqMafoVeTyWKdnphr4/Z/6yo505hQGqYle/x44mdoe+HXAcBXhsZ4EKE8RDft0nxtBwn3eHN9G7keZ1kB+eKXdIuMLKBYumUrXJnBqIo1BaUlufVF7iqjfQ==;coWwsqSl/YVfxqlHlK6HLw=="
+secured: "SMYPraNayCoavLtT7S7sFe37XcUADcf86l7bnQ2kf07fJseEXPPi/RhrocIkchf038PcckLu4atfVFtGiHXv58kuM6DvOclPquY0dMZsrgSvG1KXMWYH4a2Eg199GjLlg4vd0r/jiBQVO4qRgzBJzJ1W4WSE4McAf5o2ulikdHuSsnCYNs6c7jeeiNUCrMr+emfBrj58aIlN2OanuV+6z6n4xSjd3oN6vIe4G+l/kM9CRJmQxRvj1h+8O4XApk3/sbgSWdhMBKA49DAGDvr1sVHJ4W3IImbIbR32e/h/AwMsfRDd1BjelnMvxInv+M1yZKo20N8WcllJijkLwpsHZfBY1qR3fKtoERo7EMI5ghQ=;LVrJNpMvOgrRHQ2NHmawVA=="
 ---
 

@@ -2,19 +2,23 @@
 category: news
 title: "Israel-Gaza violence: Joe Biden calls for ceasefire"
 excerpt: "US President Joe Biden has voiced his support for a ceasefire after eight days of violence between Israel and Palestinian militants in Gaza. Mr Biden told Israeli Prime Minister Benjamin Netanyahu that the US was working with Egypt and other countries on halting hostilities."
-publishedDateTime: 2021-05-18T01:04:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-middle-east-57152723"
-webUrl: "https://www.bbc.co.uk/news/world-middle-east-57152723"
-ampWebUrl: "https://www.bbc.co.uk/news/world-middle-east-57152723.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-middle-east-57152723.amp"
+publishedDateTime: 2021-05-18T01:43:00Z
+originalUrl: "https://www.bbc.com/news/world-middle-east-57152723.amp"
+webUrl: "https://www.bbc.com/news/world-middle-east-57152723.amp"
+ampWebUrl: "https://www.bbc.com/news/world-middle-east-57152723.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-middle-east-57152723.amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -326,6 +330,6 @@ related:
         height: 433
         isCached: true
 
-secured: "F0NjRwqi9Dg2yDIEnNqHcPcq6jJ4gW6vSuhAImOX6k9FONel4JGwcKPzBmMpaVH9jVu1zQIqFDmpCzB6eKv0H8FWaZKxlDWXUMToIneC1R1hXgA587dJrqu01bbKf5DQlSBPLpU5pKzOC1VIeK+3G+rgZBZWfJAlgjXIeN87e6yeyjqpKcKbk9rRU8clek8SNLcoxNCVAIuHpQEbUxJDfTd5H72xvNT95pnE6x463eJee1rXc2tyHkRuMurdqHUih1kk5f7dETtGCf9OTkdX8xIRHmDIxvc8dUgV+k45mOrrjFe/gUV2l8jK7U32AxQf69bTbPbG6JDN9XSraZiMUcw1Ak5B4lzkTgH1EBNO9MvG/qzdt40+H3NtmkbrS0KtBpaigjcoBkEnM8fR4y/eE/G0qsM8qbZO3tfYXsacCo5r72GVF0Eeb0Xu7MM8JIW0n1NQFe9xBo1/8NsUnBEUCsC6YUjF+uQvN72pbTRDdUrz9c1qBYaKIh917PDfw3coQ5mXW1o1PDx7is0r+B5EHA==;RaVayUFHJfanuAMDDZtdIA=="
+secured: "s+qsVqDcywc4UNayRO+X3yX1B9D+HR2WnyxodqOLT81j1RmnMs/ANCsgBbQ1JoFpsYQbpEfChd3oah2q6u2BogpzsGbIDmdfcAnebsozKXJQnSXXkMjDr6/l4fWYHHlDh4EDfhdUur+4UWO/gaXknyXDE2aRSWC1nXl7i/Z6td7zf0DbD0fLD60tq7F4fkYcSdDxCOdK/f1a2EgKhlZo2TT9PNOS/2nFx1scTpxO4Rkb9KRFqtHL0CE1n/jf+wB4Xrsy3tFkfZuD2/c0VTN8s7lhHA1tjKcxeR0nsrqQH+xPFFUrJ0uKJj+05y23tp+fu6lwFYBOjHOWAFeFlVKgNKnZ16Vcecsd0hjpMOtEfMY=;Mq3NLzB6VaEBxgUmOT9gdQ=="
 ---
 

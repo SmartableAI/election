@@ -123,6 +123,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Israel-Gaza violence: Joe Biden calls for ceasefire"
+    excerpt: "US President Joe Biden has voiced his support for a ceasefire after eight days of violence between Israel and Palestinian militants in Gaza. Mr Biden told Israeli Prime Minister Benjamin Netanyahu that the US was working with Egypt and other countries on halting hostilities."
+    publishedDateTime: 2021-05-18T01:43:00Z
+    webUrl: "https://www.bbc.com/news/world-middle-east-57152723.amp"
+    ampWebUrl: "https://www.bbc.com/news/world-middle-east-57152723.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-middle-east-57152723.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/E759/production/_118552295_mediaitem118552294.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Jill Biden offers encouragement to 'strong and resilient' moms after a 'challenging' year"
     excerpt: "First lady Jill Biden honored the role \"strong and resilient\" mothers play in taking care of their families after a \"challenging\" year of COVID-19."
     publishedDateTime: 2021-05-09T15:24:00Z
@@ -217,22 +233,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 93
-  - title: "Israel-Gaza violence: Joe Biden calls for ceasefire"
-    excerpt: "US President Joe Biden has voiced his support for a ceasefire after eight days of violence between Israel and Palestinian militants in Gaza. Mr Biden told Israeli Prime Minister Benjamin Netanyahu that the US was working with Egypt and other countries on halting hostilities."
-    publishedDateTime: 2021-05-18T01:04:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-middle-east-57152723"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-middle-east-57152723.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-middle-east-57152723.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/E759/production/_118552295_mediaitem118552294.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "IRS to the rescue? Tax audits eyed for President Joe Biden’s infrastructure plan"
     excerpt: "Who is going to pay for the big public works boost that lawmakers and President Joe Biden say is necessary for the country?"
     publishedDateTime: 2021-05-15T12:00:00Z

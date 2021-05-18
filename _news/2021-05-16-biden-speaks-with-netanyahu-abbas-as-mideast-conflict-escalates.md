@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5110968001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5110968001"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -37,6 +37,22 @@ related:
     webUrl: "https://www.washingtonpost.com/politics/calls-mount-for-gaza-israel-cease-fire-greater-us-efforts/2021/05/17/9139e8f0-b6c6-11eb-bc4a-62849cf6cca9_story.html"
     ampWebUrl: "https://www.washingtonpost.com/politics/calls-mount-for-gaza-israel-cease-fire-greater-us-efforts/2021/05/17/9139e8f0-b6c6-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/calls-mount-for-gaza-israel-cease-fire-greater-us-efforts/2021/05/17/9139e8f0-b6c6-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LLB3Q2VXHAI6XPCKMKCJZ5WMVE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden raises cease-fire, civilian toll in call to Netanyahu"
+    excerpt: "The White House says President Joe Biden expressed support for a cease-fire in a call to Israeli Prime Minister Benjamin Netanyahu Monday, the eighth day of Israeli-Palestinian airstrikes and rocket a"
+    publishedDateTime: 2021-05-18T03:07:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-raises-cease-fire-civilian-toll-in-call-to-netanyahu/2021/05/18/a08dc754-b78e-11eb-bc4a-62849cf6cca9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-raises-cease-fire-civilian-toll-in-call-to-netanyahu/2021/05/18/a08dc754-b78e-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-raises-cease-fire-civilian-toll-in-call-to-netanyahu/2021/05/18/a08dc754-b78e-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post

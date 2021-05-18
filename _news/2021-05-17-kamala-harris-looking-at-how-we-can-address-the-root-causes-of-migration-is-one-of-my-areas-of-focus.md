@@ -44,22 +44,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Kamala Harris’ niece says those who are neutral on Israel-Gaza have ‘chosen the side of the oppressor’"
-    excerpt: "Vice President Kamala Harris’ niece Meena offered a more forceful take on the Israel-Gaza unrest Wednesday than that of her aunt, urging people to fight “Palestinian oppression.”"
-    publishedDateTime: 2021-05-14T00:41:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vx8NkG14LgI/kamala-harris-niece-israel-gaza-oppressor"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-niece-israel-gaza-oppressor.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-niece-israel-gaza-oppressor.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/Meena-Harris-GETTY.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Arizona AG calls for Harris to be removed from border role amid continued high migrant numbers"
     excerpt: "FIRST ON FOX: Arizona Attorney General Mark Brnovich is calling for Vice President Kamala Harris to be replaced in her role spearheading the administration’s diplomatic efforts to end the crisis at the southern border -- a day after Customs and Border Protection (CBP) announced that the number of migrant"
     publishedDateTime: 2021-05-12T19:19:19Z
@@ -154,6 +138,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Kamala Harris’ niece says those who are neutral on Israel-Gaza have ‘chosen the side of the oppressor’"
+    excerpt: "Vice President Kamala Harris’ niece Meena offered a more forceful take on the Israel-Gaza unrest Wednesday than that of her aunt, urging people to fight “Palestinian oppression.”"
+    publishedDateTime: 2021-05-14T00:41:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-niece-israel-gaza-oppressor"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-niece-israel-gaza-oppressor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-niece-israel-gaza-oppressor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/Meena-Harris-GETTY.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Arizona AG calls for Harris to be removed from border role amid continued high migrant numbers"
     excerpt: "Arizona Attorney General Mark Brnovich is calling for Vice President Kamala Harris to be replaced in her role spearheading the administration’s diplomatic efforts to end the crisis at the southern border -- a day after Customs and Border Protection (CBP) announced that the number of migrant encounters had again risen."
     publishedDateTime: 2021-05-12T19:19:00Z
@@ -169,6 +169,6 @@ related:
         height: 720
         isCached: true
 
-secured: "fH0iSqSDlWBf0JdLBIAdYQqFsEpn4c7hwjxyItW9MwAewAZSBAz7PLSbdu40FhxyiDCBbKCnzhNiCe56aanLgHA94j0OZvyhDDPirEh1pYXX60aOVTfjXgtRIJTE7DQMqrSvk4MrKBogmpwTMUP+mK7CH3MeVuY8iwxci7w4Rl8CSZ8swDj7uGbu+0tJiKfdrLIb3SEspsC0Ep0fR2bBn9I5upOhwodijl/aGl66aqMdVXPOGV0jOGOZc7CNQBmN7nUE+84AT/+2GXcS0ql3+fp+pBp92kWKCCuLG1Adw9JQ9Jly4fqtTreGT38KPjzam6dGs6JVEmhUcce/s4kvZ6BGLUKXNRN5ha9ANtoBliI=;xj4nTcbw0ul8jjNjURy5vw=="
+secured: "4Y93NyXGTzalw4AUE+KZygmxNg3rYJRqtRq7YerU//Yj/puUczSDHnKQr1AAnGKka0qHX6yXBL3RlrFLMnleSG99NHzjVGnRs09rmhK9WfdrJDtunmwHVMkydGuwQ7oeOnFHzI3QnIjblnD7mCBIOY6sKYzVDB5XWFnX05mGlRdUTfKJKLUy0XKAIfgvIrLjh3dnsS5PuCJFAsqUZhZp9nulupxkYE42JpItfGK4YMfKQBGUBwX9Ein6Kv76Gwq2pM1/KREEj/Aw0Kr6M5IYNx7G76+dgyMk+f+4ARpI0pWyf8eHCq3jiGrvbwwJT52XrF1gpbs/gf+hzc1kI2GH3P0tBCOvX+JaD6jXsZk0gjqArSzBueG9AzUmcF+fzRX8hkMeED4VDoDGiYUaDiq7xbht2qQ4Do8CWB0+rQaK5C4APVaBR3ugJIyj+KN+S4ZE+09HTmP8agiSMJl5JkQjeV65YlhMTNzDf4TepHgvL80CP9hoboAdyCyCkKvrmhdgWYXkoBqEvVBJ+C7A0Uj5IA==;oeDTUMWscxRLioPJg925zw=="
 ---
 

@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden raises cease-fire, civilian toll in call to Netanyahu"
+    excerpt: "The White House says President Joe Biden expressed support for a cease-fire in a call to Israeli Prime Minister Benjamin Netanyahu Monday, the eighth day of Israeli-Palestinian airstrikes and rocket a"
+    publishedDateTime: 2021-05-18T03:07:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-raises-cease-fire-civilian-toll-in-call-to-netanyahu/2021/05/18/a08dc754-b78e-11eb-bc4a-62849cf6cca9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-raises-cease-fire-civilian-toll-in-call-to-netanyahu/2021/05/18/a08dc754-b78e-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-raises-cease-fire-civilian-toll-in-call-to-netanyahu/2021/05/18/a08dc754-b78e-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LLB3Q2VXHAI6XPCKMKCJZ5WMVE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Joe Biden expresses support for ceasefire on call with Netanyahu – as it happened"
     excerpt: "White House reported the US president urged Israel ‘to make every effort to ensure the protection of innocent civilians’"
     publishedDateTime: 2021-05-17T23:30:00Z
