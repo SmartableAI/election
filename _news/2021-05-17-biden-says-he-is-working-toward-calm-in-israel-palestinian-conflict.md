@@ -107,6 +107,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Biden administration is gearing up to sell $735 million of precision weapons to Israel, as conflict rages on with Gaza"
+    excerpt: "Progressive Democrats have been pressuring Biden to call for a cease-fire, and are unhappy with the arms sale as deaths mount in Gaza and Israel."
+    publishedDateTime: 2021-05-18T15:16:00Z
+    webUrl: "https://www.businessinsider.com/biden-admin-plans-precision-weapons-sale-israel-reports-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/biden-admin-plans-precision-weapons-sale-israel-reports-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-admin-plans-precision-weapons-sale-israel-reports-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/60a3b0e91b5cea0019c45702?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Kamala Harris’ Niece Stands With Palestine, AOC Slams Biden For Israel Support"
     excerpt: "Biden expressed his support for Israel in a phone call with Prime Minister Netanyahu Harris and Ocasio-Cortez slammed Biden for 'siding with opposition' More than 100 Palestinians have died from the attacks by Israeli forces The ongoing conflict between Israel and Hamas militants in Gaza has put the Biden administration,"
     publishedDateTime: 2021-05-14T05:17:00Z

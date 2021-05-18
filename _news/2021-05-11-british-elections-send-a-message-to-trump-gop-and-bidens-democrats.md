@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/british-elections-send-a-mes
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 1315
+heat: 1335
 published: true
 
 provider:
@@ -891,6 +891,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 50
+  - title: "Biden Smiling, Trump Removed: Paris Wax Museum Reopens to New Political Reality"
+    excerpt: "Closed since late October for the COVID-19 pandemic, the Paris wax museum will reopen on Wednesday with a new guest: U.S. President Joe Biden, posing with his arms crossed and flashing a toothy grin."
+    publishedDateTime: 2021-05-18T15:33:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-18/biden-smiling-trump-removed-paris-wax-museum-reopens-to-new-political-reality"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
   - title: "From The Desk Of Donald J. Trump"
     excerpt: "Trump Launches Sad Twitter Just for HimTrump debuted a new page on his website that he’s calling “a beacon of freedom,” but it’s basically just a social-media network for one."
     publishedDateTime: 2021-05-04T23:14:00Z

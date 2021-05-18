@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "19 GOP AGs urge Biden to reinstate Keystone, protect energy infrastructure in wake of Colonial Pipeline attack"
+    excerpt: "Nineteen Republican attorneys general sent a letter to President Biden calling on his administration to support energy infrastructure, including reinstating the Keystone XL Pipeline permit, in light of the cyberattack that shut down the Colonial Pipeline."
+    publishedDateTime: 2021-05-18T15:26:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9RdlfEcj4oo/biden-colonial-pipeline-hack-energy-infrastructure"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-colonial-pipeline-hack-energy-infrastructure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-colonial-pipeline-hack-energy-infrastructure.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5b385bd-529b-4849-bc3f-785b1c0964bb/e676a657-4d89-4bfb-ad99-f10aab3a5ea2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "K022M01DlU32jIqf6R72GP3lZLoxYXnW4QAsdHFIANFnlJXvOU/KwLLGkDrQMIfFvnggZgNsFEc5hdDR6YPYy8R/tFkcglryxP0QPidVYa84DOETkHSnjNlVQDdKq5GIbsaTGMEpqXl7y1kCuR2Oxiu83qSRSq7iVEQklKHT0elWWvh7Ul+afXYMAHcBlT0+nffzh7QCtkPMpQ8Jww/FgeiHAH5Kb+E9+G1NBgQn1wJkrYOU1UcMz8+krJ0GA56oANIxk1LDwmMsUgPRPxgqZngK8W9LoLRM22uM+nVUqmY4HgJL+bTLmsLNpr/vpPioXqxXOydvAUkfkJnJB3alIWin+5CVwcotnz5ooZjIrK0=;o4xKhOrK2J+Nu3jTOfouNA=="
 ---

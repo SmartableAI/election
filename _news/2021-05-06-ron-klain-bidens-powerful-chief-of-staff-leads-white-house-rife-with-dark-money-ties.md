@@ -159,22 +159,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "To support Israel, 44 Republicans push Biden to refuse Iran sanctions relief"
-    excerpt: "More than three dozen Senate Republicans are urging President Biden to \"unequivocally\" support\" Israel's right to defend itself, and by \"immediately\" ending negotiations with Iran on sanctions relief, saying Tehran is \"supporting\" Hamas’ terrorist activity and recent rocket attacks against Israel. "
-    publishedDateTime: 2021-05-13T14:21:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_I2IRnSm3Sc/gop-senators-biden-letter-refuse-iran-sanctions-relief-israel"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-biden-letter-refuse-iran-sanctions-relief-israel.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-biden-letter-refuse-iran-sanctions-relief-israel.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Controversial Biden DOJ civil rights nominee takes step closer to confirmation"
     excerpt: "The Senate Judiciary Committee on Thursday cast an 11-11 tie vote on the nomination of Kristen Clarke to be the assistant attorney general for civil rights, bringing the controversial nominee one step closer to confirmation."
     publishedDateTime: 2021-05-13T15:43:04Z

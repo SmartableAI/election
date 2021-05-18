@@ -45,6 +45,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Move aside hot vax summer. Biden is bringing hot tax summer to the US."
+    excerpt: "As infrastructure talks heat up, who's paying and who's receiving taxes is set for the spotlight. This July, families will start getting checks."
+    publishedDateTime: 2021-05-18T15:04:00Z
+    webUrl: "https://www.businessinsider.com/move-aside-hot-vax-summer-biden-bringing-hot-tax-summer-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/move-aside-hot-vax-summer-biden-bringing-hot-tax-summer-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/move-aside-hot-vax-summer-biden-bringing-hot-tax-summer-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/603eed8bb46d720018b04806?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Nine Republican-led states ending increased unemployment benefits as President Biden says people must take \"suitable work\""
     excerpt: "A growing number of GOP governors have said they will end increased unemployment insurance benefits, citing workforce shortages."
     publishedDateTime: 2021-05-12T14:54:00Z

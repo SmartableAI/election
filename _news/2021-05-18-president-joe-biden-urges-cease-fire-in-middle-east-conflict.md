@@ -6,7 +6,7 @@ publishedDateTime: 2021-05-18T13:16:00Z
 originalUrl: "https://www.cbsnews.com/video/president-joe-biden-urges-cease-fire-in-middle-east-conflict/"
 webUrl: "https://www.cbsnews.com/video/president-joe-biden-urges-cease-fire-in-middle-east-conflict/"
 type: article
-quality: 85
+quality: 105
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/18/fe8555ad-2e05-48f9-b9ab-c566d821a823/thumbnail/1200x630/3c31e422b218bfccabd303c8a965b44b/joebiden-replace-717672-640x360.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Biden pledges aggressive response to pipeline cyberattackers"
@@ -83,6 +89,6 @@ related:
       domain: theguardian.com
     quality: 101
 
-secured: "WIw/Qhxzkgztc73ohmSNv0s7sVoBuwJ0KxcRY3GL+aUwBLQSaFvFH4QGrxBnFJa6kWZ3D0SQhXRyhpM3x0sCgKj0GZWlVvG5HqrYOmyOXkTpYY5bxt8EnJ0v8AyRwlohC9BldBdRZ70LuRnKFOIvkDjSKofB+GLPxfFm9nLi04/h/op1xxFYIcW/IWeUB9S0S5iLKsu1QnUbvFXO0rKqQAdLFXKbS01ESxhCP09vbCH5l0jOjQNBReVktECrdAk1JnF5dDgEKDpV4W5bkTxVkPEkgD8rmh+v9GDNWbCW//gTbm+6BnJrslBFgpLKnKq13GnyiysrekmJvhnPk+c/P+UKoQvRllGW3pfgOsiojZo=;pnX1lOtQ3NYBv4qM1wJEzA=="
+secured: "KfK94oBh8QcV8qgRvzSEfNrc92Hz4KINZ24JivE+dTLQAhJYZVVVcSf/TJ3xpzOYdWb2YxHJAozVsEK+WOrp25axQJWjXZoNmn3rvliTMkbLzR+vK6x4pM5gslI6knojIVbP7hqObJyEHHTKhJZHGvMjAeY9IIKC4xkkEN1ZVx1oWog/CYCwc0O2caUwuIDVMQnRWhykNu3ZYuvuL5qRfh1+L7giI4o5h61maS3arl9gv/Du6VproDxqtIXJ3wYXu6F774LnV7sIt8sjCLcm1oFB5AhzOR6CQ0Nax29iE1CVvRw/Zxsa3NJDdCWkYRpBc7pqywR4tl3u+3R0xaX9dg6czXDS7UF4xt0HKd6hEHQ=;Oft+vg+dXi8Q1s2MOVPnow=="
 ---
 

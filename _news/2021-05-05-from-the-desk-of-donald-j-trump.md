@@ -895,6 +895,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 50
+  - title: "Biden Smiling, Trump Removed: Paris Wax Museum Reopens to New Political Reality"
+    excerpt: "Closed since late October for the COVID-19 pandemic, the Paris wax museum will reopen on Wednesday with a new guest: U.S. President Joe Biden, posing with his arms crossed and flashing a toothy grin."
+    publishedDateTime: 2021-05-18T15:33:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-18/biden-smiling-trump-removed-paris-wax-museum-reopens-to-new-political-reality"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
   - title: "Ohio GOP May Censure Own for Supporting Trump Impeachment"
     excerpt: "The Ohio Republican Party's Central Committee is preparing to decide whether to censure the 10 GOP congressional members who voted in February to impeach former President Donald Trump."
     publishedDateTime: 2021-05-07T13:51:00Z

@@ -63,6 +63,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "President Joe Biden urges cease-fire in Middle East conflict"
+    excerpt: "The president called for a cease-fire amid the escalation of violence in the Middle East conflict between Israel and Hamas. Weijia Jiang reports."
+    publishedDateTime: 2021-05-18T13:16:00Z
+    webUrl: "https://www.cbsnews.com/video/president-joe-biden-urges-cease-fire-in-middle-east-conflict/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/05/18/fe8555ad-2e05-48f9-b9ab-c566d821a823/thumbnail/1200x630/3c31e422b218bfccabd303c8a965b44b/joebiden-replace-717672-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden says Colonial pipeline back to full capacity but ‘hiccups’ likely – live"
     excerpt: "President urges Americans not to buy more gas than necessary while Pelosi condemn Republicans for downplaying Capitol attack – follow the latest"
     publishedDateTime: 2021-05-13T18:32:00Z
@@ -74,15 +88,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 101
-  - title: "President Joe Biden urges cease-fire in Middle East conflict"
-    excerpt: "The president called for a cease-fire amid the escalation of violence in the Middle East conflict between Israel and Hamas. Weijia Jiang reports."
-    publishedDateTime: 2021-05-18T13:16:00Z
-    webUrl: "https://www.cbsnews.com/video/president-joe-biden-urges-cease-fire-in-middle-east-conflict/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 85
 
 secured: "6GWAWb2QXp4CEwZHTp9FWYVthNyuj4YTpNLJzdUuEZXKxHa8j8dqyy0ndfJTuRtOvRVSGrYd8ppUZ6spB43E1mol+9W3uneydiUBgtWIhh3cVIUVpkF10IkwqDFOPglfkS9J+xYJ2KxTiQhVWFtwPF9l/oIOQ7ezcB+4VKiMWH4m4EFrvD13rukaQw5ssD1Qs8Pye/Y5p1NoXaAaC/JItDZvDE6frIBl5/80goJWEhG+mzR+lQxvCcgC602k0lv2SEfjJanZmmYgwRi3IxahxOSTySUI55c7T23ObOfYPlbbQfemv880Rd1pOWiJbFcXT1dGWNZU0Tq+/YMS/vw6aOnWl5v0963kQbq8PFZ+HdU=;6hql/NNtLzdgvtzkQaSDaQ=="
 ---

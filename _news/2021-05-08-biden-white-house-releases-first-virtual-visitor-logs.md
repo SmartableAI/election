@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-first-virtual-vis
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-first-virtual-visitor-logs.amp"
 type: article
 quality: 175
-heat: 915
+heat: 895
 published: true
 
 provider:
@@ -142,22 +142,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88785100-c591-4705-a000-240dbb0fec6e/e8c41f49-b049-4819-a13e-a62dfe9c3e34/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "To support Israel, 44 Republicans push Biden to refuse Iran sanctions relief"
-    excerpt: "More than three dozen Senate Republicans are urging President Biden to \"unequivocally\" support\" Israel's right to defend itself, and by \"immediately\" ending negotiations with Iran on sanctions relief, saying Tehran is \"supporting\" Hamas’ terrorist activity and recent rocket attacks against Israel. "
-    publishedDateTime: 2021-05-13T14:21:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_I2IRnSm3Sc/gop-senators-biden-letter-refuse-iran-sanctions-relief-israel"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-biden-letter-refuse-iran-sanctions-relief-israel.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-biden-letter-refuse-iran-sanctions-relief-israel.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Controversial Biden DOJ civil rights nominee takes step closer to confirmation"
     excerpt: "The Senate Judiciary Committee on Thursday cast an 11-11 tie vote on the nomination of Kristen Clarke to be the assistant attorney general for civil rights, bringing the controversial nominee one step closer to confirmation."

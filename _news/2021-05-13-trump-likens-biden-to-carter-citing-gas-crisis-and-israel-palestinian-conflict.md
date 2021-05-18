@@ -28,197 +28,149 @@ images:
     isCached: true
 
 related:
-  - title: "Biden kills Trump plan for ‘American heroes’ sculpture garden: report"
-    excerpt: "President Biden on Friday put an end to a plan by former President Trump to create a \"National Garden of American Heroes.\""
-    publishedDateTime: 2021-05-16T04:24:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fa38Y6zXu3I/biden-kills-trump-plan-for-american-heroes-sculpture-garden-report"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-kills-trump-plan-for-american-heroes-sculpture-garden-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-kills-trump-plan-for-american-heroes-sculpture-garden-report.amp"
+  - title: "Pence slams Biden admin for trying to create a 'false equivalency' between Israel, Hamas"
+    excerpt: "EXCLUSIVE: Former Vice President Mike Pence slammed the Biden administration for attempting to create a “false equivalency” between Israel and Hamas, saying he and former President Trump “set the table for lasting peace and an end to the decades-old conflict in the region,” but that President Biden has"
+    publishedDateTime: 2021-05-18T15:30:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/96jYXrfNSvI/pence-biden-admin-israel-hamas-false-equivalency"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-biden-admin-israel-hamas-false-equivalency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-admin-israel-hamas-false-equivalency.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 190
+    quality: 191
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fd258f5a-f722-49e3-8ed1-daf8fa8092f7/d584fb04-c012-4b5a-8229-3f06f67ed1ac/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden rolls back Trump order barring immigrants who can't afford health care"
-    excerpt: "President Biden revoked a Trump-era order that banned immigrants from obtaining visas who couldn’t prove they could obtain health insurance or pay for health care."
-    publishedDateTime: 2021-05-15T19:25:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aouJUnDSQ2g/biden-trump-order-barring-immigrants-cant-afford-health-care"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
+  - title: "Massive US-Israel weapons sale approved by Biden administration"
+    excerpt: "President Biden's administration has approved a $735 million weapons sale to Israel, which may not please some congressional Democrats."
+    publishedDateTime: 2021-05-17T16:25:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bS6pH1G5sLE/biden-israel-arms-sale-congress-reaction"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-israel-arms-sale-congress-reaction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-arms-sale-congress-reaction.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 187
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ebff4e20-927d-45e6-8764-465d1da3e363/83114408-c444-4ede-b16f-143dafa9ec2b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Trump mocks comparisons of Biden to Jimmy Carter: The current president is worse"
-    excerpt: "In a statement Wednesday, Donald Trump refuted a tweet issued by his son Donald Trump Jr. that claimed President Biden was “the next Jimmy Carter,” in an apparent slight last week."
-    publishedDateTime: 2021-05-12T22:04:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZDuOfEb2P88/trump-refutes-comparison-of-carter-presidency-to-biden-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-refutes-comparison-of-carter-presidency-to-biden-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26e1be5f-4597-488c-bda1-97eb4a713daf/15b5b68a-7a61-4af3-9521-8b1cb29e3ec7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Portland mayor 'grateful' for Biden reversal of Trump order that sent federal agents to city amid protests"
-    excerpt: "Portland, Ore., Mayor Ted Wheeler said on Saturday he was grateful for the White House’s “support” after President Biden reversed the Trump order that allowed federal agents to intervene in Portland’s riots last summer."
-    publishedDateTime: 2021-05-16T09:22:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7yEW-dZkGPk/portland-mayor-grateful-for-biden-reversal-of-trump-order-that-sent-federal-agents-to-city-amid-protests"
-    ampWebUrl: "https://www.foxnews.com/politics/portland-mayor-grateful-for-biden-reversal-of-trump-order-that-sent-federal-agents-to-city-amid-protests.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/portland-mayor-grateful-for-biden-reversal-of-trump-order-that-sent-federal-agents-to-city-amid-protests.amp"
+  - title: "To support Israel, 44 Republicans push Biden to refuse Iran sanctions relief"
+    excerpt: "More than three dozen Senate Republicans are urging President Biden to \"unequivocally\" support\" Israel's right to defend itself, and by \"immediately\" ending negotiations with Iran on sanctions relief, saying Tehran is \"supporting\" Hamas’ terrorist activity and recent rocket attacks against Israel. "
+    publishedDateTime: 2021-05-13T14:21:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_I2IRnSm3Sc/gop-senators-biden-letter-refuse-iran-sanctions-relief-israel"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-biden-letter-refuse-iran-sanctions-relief-israel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-biden-letter-refuse-iran-sanctions-relief-israel.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1e65481-ff4e-4766-857b-6e321bc59558/b4376662-4f2d-4bf1-99e3-c371d941d68f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden doesn't believe there is ‘any significant portion' of Americans who won't get vaccinated"
-    excerpt: "President Biden seemed optimistic that his administration would reach its goal of having 70 percent of Americans vaccinated by July 4, saying that he doesn’t believe there is “any significant portion” of Americans who refuse to get vaccinated."
-    publishedDateTime: 2021-05-12T21:42:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUR0bQ6LhdU/biden-no-significant-portion-americans-vaccinated"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21132743978141.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden's American Rescue Plan unemployment-benefit extension making it difficult to find workers, employers say"
-    excerpt: "Some U.S. small business and restaurant owners claim President Biden's unemployment benefit extension is making it difficult to hire new workers."
-    publishedDateTime: 2021-05-12T21:13:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1ARaCfneKJY/labor-shortage-unemployment-benefits-nationwide"
-    ampWebUrl: "https://www.foxnews.com/politics/labor-shortage-unemployment-benefits-nationwide.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/labor-shortage-unemployment-benefits-nationwide.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d7d67eb-4b1c-4f79-9450-c1a39e20f2f9/166277f7-f4f6-425b-9b23-f7b7151c5a78/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden scraps Trump Garden of Heroes honoring Kobe, Trebek, Bader Ginsburg"
-    excerpt: "President Joe Biden has revoked a trio of executive orders issued by former President Donald Trump that sought to punish vandalism of statues and to build a new National Garden of American Heroes. A July 2020 order envisioned a National Garden of American Heroes that “should be located on a site of natural beauty that enables visitors to enjoy nature,"
-    publishedDateTime: 2021-05-14T21:49:00Z
-    webUrl: "https://nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/"
-    ampWebUrl: "https://nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/14/biden-scraps-trump-orders-to-honor-kobe-and-trebek-target-statue-vandals/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 149
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/biden-tump-split.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biden rolls back Trump order barring immigrants who can't afford health care"
-    excerpt: "President Biden revoked a Trump-era order that banned immigrants from obtaining visas who couldn’t prove they could obtain health insurance or pay for health care."
-    publishedDateTime: 2021-05-15T19:25:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-order-barring-immigrants-cant-afford-health-care.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 147
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/GettyImages-1312682563.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "'Really scary' to see gas shortages in first months of Biden admin: Lara Trump"
-    excerpt: "Fox News contributor Lara Trump sounded the alarm on America's energy independence under the Biden administration, Wednesday, telling \"Fox & Friends\" that the Colonial Pipeline cyberattack and resulting panic at the pump is \"really scary."
-    publishedDateTime: 2021-05-12T15:14:00Z
-    webUrl: "https://www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump"
-    ampWebUrl: "https://www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/really-scary-to-see-gas-shortages-in-first-months-of-biden-admin-lara-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 146
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Ingraham: Biden is out of gas, is now America's problem denier"
-    excerpt: "Fox News host Laura Ingraham claimed President Biden's \"incompetence and radicalism are a dangerous combination\" as he denies the several crises facing the nation on \"\""
-    publishedDateTime: 2021-05-12T04:36:00Z
-    webUrl: "https://www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier"
-    ampWebUrl: "https://www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-is-out-of-gas-in-now-americas-problem-denier.amp"
+  - title: "AOC criticizes Biden statement of support for Israel as siding with 'occupation'"
+    excerpt: "U.S. Rep. Alexandria Ocasio-Cortez, D-N.Y., criticized President Biden over his Wednesday statement of support for Israel amid escalating violence with Hamas, claiming he gave little context for what stoked the tensions and was consequently “siding with occupation.”"
+    publishedDateTime: 2021-05-13T05:10:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wNI60u2TCG4/aoc-criticizes-biden-statement-of-support-for-israel-as-sideing-with-occupation"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-criticizes-biden-statement-of-support-for-israel-as-sideing-with-occupation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-criticizes-biden-statement-of-support-for-israel-as-sideing-with-occupation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cef5a8b4-0514-4f78-af01-568c1de27822/1123ba03-d0ca-4194-b629-fe6ccc0d5548/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10fce050-6dfa-430f-9d44-b46217b4aa55/8e11a4a9-96be-45e4-b6f4-6430454f1d93/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden Sets Everything on Fire"
-    excerpt: "Joe Biden is the luckiest man to ever assume the presidency. He succeeded an unpopular figure. He was inaugurated just two weeks after the dramatic storming"
-    publishedDateTime: 2021-05-12T10:00:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/12/biden_sets_everything_on_fire_145747.amp.html"
+  - title: "Biden calls Netanyahu, says Israel ‘has right to defend itself’ against Hamas rockets"
+    excerpt: "President Biden on Wednesday spoke with Prime Minister Benjamin Netanyahu to reaffirm U.S. support for Israel after a night of bloodshed with civilians in Tel Aviv sheltering from Hamas rockets."
+    publishedDateTime: 2021-05-12T23:35:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1WWZ0vwbFK8/biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-netanyahu-says-israel-has-right-to-defend-itself-against-hamas-rockets.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
     images:
-      - url: "https://assets.realclear.com/images/54/543021_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b23813c0-263f-4ba0-bb51-bcdefd534333/bbd01931-98bc-45cb-ac58-22600b835035/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "Biden To Meet With Republican Lawmakers On Infrastructure Plan"
-    excerpt: "President Joe Biden is set to meet with a group of six Republican lawmakers to discuss the administration’s proposed infrastructure plan and how to pay for it. This comes a day after Mr. Biden and Vice President Kamala Harris met with bipartisan leaders to discuss the deal."
-    publishedDateTime: 2021-05-13T17:17:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.html#!"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/biden_to_meet_with_republican_lawmakers_on_infrastructure_plan.amp.html"
+  - title: "Gen. Keane: Biden must call out Hamas terror attacks on Israel 'without equivocation'"
+    excerpt: "Fox News Senior Strategic Analyst Gen. Jack Keane said on Wednesday that the Biden administration “must call out Hamas as a terrorist without equivocation.”"
+    publishedDateTime: 2021-05-12T19:12:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IvCc7R5rQvE/biden-must-call-out-hamas-as-terrorists-without-equivocation-gen-jack-keane"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-must-call-out-hamas-as-terrorists-without-equivocation-gen-jack-keane.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-must-call-out-hamas-as-terrorists-without-equivocation-gen-jack-keane.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
     images:
-      - url: "https://assets.realclear.com/images/54/543043.jpg"
-        width: 3117
-        height: 2078
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden faces criticism from Democrats and Republicans over escalating Israeli-Palestinian violence"
+    excerpt: "Lawmakers from vastly different ends of the political spectrum have taken aim at Biden and his administration over the growing violence in the region, calling out the president on the violence in the region — albeit for different reasons."
+    publishedDateTime: 2021-05-11T17:02:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o7iQZY72ri8/biden-israel-palestine-hamas-democrats-republicans-criticize"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-israel-palestine-hamas-democrats-republicans-criticize.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-palestine-hamas-democrats-republicans-criticize.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63f883a6-06be-4ace-bff6-550cbbb8026b/48a9dcbc-17e6-415b-872e-78490dcf151d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "New York Times ripped for appearing to blame Trump for ongoing violence between Hamas and Israel"
+    excerpt: "The New York Times was the focus of more criticism over the weekend following an article published Saturday that seemingly blamed former President Trump for the ongoing violence between Hamas and Israel."
+    publishedDateTime: 2021-05-17T20:35:00Z
+    webUrl: "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel"
+    ampWebUrl: "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c6b96e4-61b5-4ba4-bdbb-5dbaa6d9987a/c952dcd0-fb20-47d0-8450-b0c6b9b4f393/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Meghan McCain hits Biden's approach to Middle East violence: Support for Israel sounds like 'just words'"
+    excerpt: "Co-host of \"The View\" Meghan McCain took a swing at President Biden Thursday over his approach to the ongoing crisis in the Middle East between Israel and Hamas."
+    publishedDateTime: 2021-05-13T18:12:00Z
+    webUrl: "https://www.foxnews.com/media/meghan-mccain-joe-biden-middle-east-israel-support"
+    ampWebUrl: "https://www.foxnews.com/media/meghan-mccain-joe-biden-middle-east-israel-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/meghan-mccain-joe-biden-middle-east-israel-support.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/546b13d0-4db8-46ae-bd99-9bb074792e9c/c95c93ab-5bb1-4be0-a28c-050ef77c9493/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "9md8IIivJuSPJxCohpdIQg91GB2fpk5O5HiH7+ufeyBxhxSwe9CvJIZ/GAWWtZEv3WpmPE3eJAMqv9NKqb2KkalmvAVRlEOPlt5JxqPygMamMJsSbsOYPPtOlgWywHUb2lwoD6yksOJr+VQLnHWIQF9gjjMXZ51WEXou8gpETQ8Bh74+LMYaIIlikdtz5WcJ/noXAZzsrAKAQp1MbmvbGFM5SDZq8HXUxVBLzS+rOey1OdEcWjbuqE37ugUcb43lZCaxQXwFRpx7RQ9ZJg5r9RZlO4M5sa7WS3aits1HdixOEzUkOYAEE422YVXxwMKXu79o34QaiQEdhNR6hsqtvsvOD/5i4Bg6UBl1ljrY70E=;YhjQqmFpB2I3V+JvrkP75w=="

@@ -119,6 +119,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "The Biden administration is gearing up to sell $735 million of precision weapons to Israel, as conflict rages on with Gaza"
+    excerpt: "Progressive Democrats have been pressuring Biden to call for a cease-fire, and are unhappy with the arms sale as deaths mount in Gaza and Israel."
+    publishedDateTime: 2021-05-18T15:16:00Z
+    webUrl: "https://www.businessinsider.com/biden-admin-plans-precision-weapons-sale-israel-reports-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/biden-admin-plans-precision-weapons-sale-israel-reports-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-admin-plans-precision-weapons-sale-israel-reports-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/60a3b0e91b5cea0019c45702?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Kamala Harris’ Niece Stands With Palestine, AOC Slams Biden For Israel Support"
     excerpt: "Biden expressed his support for Israel in a phone call with Prime Minister Netanyahu Harris and Ocasio-Cortez slammed Biden for 'siding with opposition' More than 100 Palestinians have died from the attacks by Israeli forces The ongoing conflict between Israel and Hamas militants in Gaza has put the Biden administration,"
     publishedDateTime: 2021-05-14T05:17:00Z
@@ -136,6 +152,6 @@ related:
         height: 683
         isCached: true
 
-secured: "FCz1j7NPYiOAtBkPA2BDyLBpv0YYKeiokGQ9O+7zqrScPHNqy6TLd1H2OjbsH9k2pFW+d6CxTM4nFpPQZFRHkB8tJx4W4Xg0teVd89MaBsoGSDR5+W6cJVrmbZnLlvnrP6OF7IZ/RFH9YYqiodi+hHfx2y3Bx+yXbWVyZE8Kjd8p/K348KHJnF3uAqePE7x8QBvpQSx5/8OjnMsFdqOTLxxUvB5A47Tjltz+Q7/8pq8tXFFQ3YinXXtYNxILEnL63whrgiTpO7aETqA7yLOIkeBbaphGJvnHI0/ccwIx8sKwqzBYvbn6fh12WCvoMDh0fQ7J50w9mvnHzyGoaj9V846ms8H4+lAOTehgmbDKs+M=;JyfJ6WFcGFt74PDjigQOmA=="
+secured: "BPTk/QUcftdmVxipgaPjdwtsVCyeOaV8FgIQ96f4eXMvcXmdN0B39ShAJHLp+J0DnBjU5WX3hoiX5Npx+aamesLtZDOsojQr5y5bOgeseDSpqvWZK/5aiBHyDXzarznXlWItAX6SHlrHJJjUIoLfFUPr4lnzVQxvvHld9hJb4oz/sormjXdA0xN6uafwih0il35l6BJvW2nsufXtyNdoIlTgntBrlmylqLweS+yaDKj1pto4z7LfdwW7o+1kOO5cdl2NCYzssA4/KSbA32rZLgsQszqR8wwEp50B1/uZ79c5+8R1xh9RLjczQtvcRXn21pQaq0xRXRU1FBsYyj0omKN16F+s5k6mRCOblDoEmZdccZgo9mm7Zc/F3awOaE8zELH6v2k2XkEIiGy/AxurlHC3i7Aogg236MVnk/x9XwVeBHiulaQ8Uy0k6F1HuBXQBvrKSgBqV23m1P/gz4X9Y7lBlYAUYp+pmw+WplLZ3fpEHCDT2GdyYKg/kyEl3FWCmd+shIfArzwaXbb2MTzQxA==;chYf4dBEMImg6kcT6qzVxQ=="
 ---
 

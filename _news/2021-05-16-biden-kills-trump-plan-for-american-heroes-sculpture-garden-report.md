@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-kills-trump-plan-for-american
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-kills-trump-plan-for-american-heroes-sculpture-garden-report.amp"
 type: article
 quality: 190
-heat: 430
+heat: 410
 published: true
 
 provider:
@@ -158,22 +158,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Trump likens Biden to Carter, citing gas crisis and Israel-Palestinian conflict"
-    excerpt: "Former President Donald Trump is comparing President Biden to Former President Jimmy Carter due to the recent gas shortage and tensions between Israel and Palestine."
-    publishedDateTime: 2021-05-12T21:20:00Z
-    webUrl: "https://nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/"
-    ampWebUrl: "https://nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 146
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-carter-biden.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Ingraham: Biden is out of gas, is now America's problem denier"
     excerpt: "Fox News host Laura Ingraham claimed President Biden's \"incompetence and radicalism are a dangerous combination\" as he denies the several crises facing the nation on \"\""

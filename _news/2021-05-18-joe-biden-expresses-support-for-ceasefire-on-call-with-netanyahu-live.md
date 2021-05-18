@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden expresses support for ceasefire on call with Netanyahu – live"
 excerpt: "White House reported the US president urged Israel ‘to make every effort to ensure the protection of innocent civilians’"
-publishedDateTime: 2021-05-17T22:28:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live?page=with:block-60a2e76e8f08e659a47e84c5"
-webUrl: "https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live?page=with:block-60a2e76e8f08e659a47e84c5"
+publishedDateTime: 2021-05-17T22:02:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live?page=with:block-60a2e9aa8f08e757a7357e4d"
+webUrl: "https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live?page=with:block-60a2e9aa8f08e757a7357e4d"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live"
 type: article
@@ -95,6 +95,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "COVID-19 infections down in every state, Biden supports ceasefire on call with Netanyahu"
+    excerpt: "The U.S. is shifting attention abroad with a plan to ship out 80 million vaccines. Biden supports a ceasefire during a call with Israeli Prime Minister Benjamin Netanyahu - and more top stories on 5 Things,"
+    publishedDateTime: 2021-05-18T14:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/05/18/us-ship-out-80-million-coronavirus-vaccines-infections-go-down/5142248001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5142248001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5142248001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/16/USAT/b73b8fba-65c4-41f1-b7af-e8542e0c9247-AFP_AFP_1P00K8.JPG?crop=4155,4155,x1260,y0"
+        width: 4155
+        height: 4155
+        isCached: true
   - title: "Biden: 'Work in progress' to stop Mideast clashes"
     excerpt: "President Joe Biden says his administration has not just spoke with Israeli leaders as fighting between Hamas and Israel escalates even amid truce efforts. Biden says \"there has not been a significant overreaction\" from Israel."
     publishedDateTime: 2021-05-13T18:01:00Z
@@ -110,6 +126,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "NtsKGnjXxtEOLcD+VjuytUuWq2+/LqWWO1edlJ3GMr1JvAYBJBUS8CZ2zF/BTYHagJzx3y9LjMSwEtnE6CueVT6dfWvGqsdX7M9/m5jSdVtFb8RamL5Nsd2qqqIw1VF6j4q3f2gWWSZPu6//To70tfPhDCU0UtRuefulanPqbc+2OBGniO9YnEODHVn6Olt2Ekm8rf0Q1Oha38ZgLaFMiLLViriyIas/P7v/Bi8K2yuljXO5uQubiYlHuaxHBtwb0gelWKsx9Ii7Nn8M+mQCMpShIULKzbXQP3zYgagi58iykEalj/drvHCUjCIZYaRzTJpwouHivpXfgOZQNcwG1m+ZR2O5JfVea0gMJolYHKE=;RsT2/MORGa0W5vi/IDwyHQ=="
+secured: "3E/iGykdUSI6fC3Q/iZJE0mKu3uAOJnzDbeXXdhnnZkAzkr10QKBxOkycwPscUFvMcmq8U8LiyGPfoJJMp84Ie14/yBRJ2tgoDsiPr/e+wAGMvFYC6auJAXrDakzP0Z10XUUH8WXkE54zLzo/wsErau8bQxrKTzIgKE4NN95zUaUrQgLjj9mm2C9UIzuAnCkLHATJZJ4nXoFxqyYE2rLUgLjhr5Z+KymadwBgB3jTnELM2kgnLI3U/TH6c82z5yZPFeLMbqJydQiRZ9XzAUUAwV7aaa/VPzT271LdIXD6nIHlHInovsEnAkoKgN2z6//WJEx324nz3GndSBqj59fmNa5lMNOTsb3nSZaQA4FLmM=;UhD1V8eLSOCjNvp53uQ80A=="
 ---
 
