@@ -2,6 +2,326 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-04-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.md",
+      "title": "DOJ ordered to turn over Trump obstruction of justice memo",
+      "excerpt": "A judge has ordered the Department of Justice (DOJ) to turn over an internal memo from March 2019 that then-Attorney General Bill Barr cited as his reason not to charge former President Trump with obstruction of justice following the Mueller investigation. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nyOZae-aROc/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nyOZae-aROc/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 755,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/720/405/ag-barr.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/avail-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.amp",
+      "publishedDateTime": "2021-05-04T16:33:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-biden-thanks-conservatives-like-mcconnell-for-pushing-vaccines.md",
+      "title": "Biden thanks 'conservatives' like McConnell for pushing vaccines",
+      "excerpt": "President Biden thanked Republicans pushing vaccination in a Covid-19 briefing Tuesday, specifically citing Sen. Minority Leader Mitch McConnell, R-Ky.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBGLv4Xgx4w/biden-thanks-conservatives-mcconnell-pushing-vaccines",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBGLv4Xgx4w/biden-thanks-conservatives-mcconnell-pushing-vaccines",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/Biden-1.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-thanks-conservatives-mcconnell-pushing-vaccines.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-thanks-conservatives-mcconnell-pushing-vaccines.amp",
+      "publishedDateTime": "2021-05-04T14:12:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-texas-house-candidate-susan-wright-spotlights-late-husbands-legacy-trumps-support-in-runoff.md",
+      "title": "Texas House candidate Susan Wright spotlights late husband's legacy, Trump's support, in runoff",
+      "excerpt": "Susan Wright says her late husband always took his constituents' concerns to Washington and “that’s the legacy I want to continue.” Rep. Ron Wright died from COVID-19 in February and his widow, a longtime GOP activist, came in first in a field of 23 candidates this past weekend in a special election",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VigjYkm43L4/texas-house-runoff-susan-wright-husband-legacy-trump-support",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VigjYkm43L4/texas-house-runoff-susan-wright-husband-legacy-trump-support",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 143,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T12:19:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-kamala-harris-stresses-need-for-independent-judiciary-in-el-salvador-as-democrats-push-court-packing-in-us.md",
+      "title": "Kamala Harris stresses need for 'independent' judiciary in El Salvador as Democrats push court-packing in US",
+      "excerpt": "Vice President Kamala Harris stressed the need for an \"independent\" judiciary in El Salvador on Sunday, even as she has yet to speak out against a Democratic attempt to pack the Supreme Court.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DMWuZxonfYU/kamala-harris-el-salvador-independent-judiciary-democrats-pack-supreme-court",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DMWuZxonfYU/kamala-harris-el-salvador-independent-judiciary-democrats-pack-supreme-court",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbf844e7-da00-4269-b859-827c56602764/5d922b54-0023-4170-ae81-95b2cc76f88b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-el-salvador-independent-judiciary-democrats-pack-supreme-court.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-el-salvador-independent-judiciary-democrats-pack-supreme-court.amp",
+      "publishedDateTime": "2021-05-03T10:35:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-trump-suggests-arizona-election-recount-will-go-his-way-lets-see-what-they-find.md",
+      "title": "Trump Suggests Arizona Election Recount Will Go His Way: \"Let's See What They Find\"",
+      "excerpt": "Former President Donald Trump suggested to guests at Mar-a-Lago on Thursday that a recount vote in Arizona could prove the 2020 election was \"stolen\" due to voter fraud. \"Let's see what they find. I wouldn't be surprised if they found thousands and thousands and thousands of votes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/05/03/trump_suggests_arizona_election_recount_will_go_his_way_lets_see_what_they_find.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/03/trump_suggests_arizona_election_recount_will_go_his_way_lets_see_what_they_find.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/542191.jpg",
+          "width": 750,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/05/03/trump_suggests_arizona_election_recount_will_go_his_way_lets_see_what_they_find.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/03/trump_suggests_arizona_election_recount_will_go_his_way_lets_see_what_they_find.amp.html",
+      "publishedDateTime": "2021-05-03T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-02-biden-abandoned-the-rule-of-law-at-border-sending-texas-costs-soaring-gov-abbott-says.md",
+      "title": "Biden 'abandoned the rule of law' at border, sending Texas costs soaring, Gov. Abbott says",
+      "excerpt": "President Biden has abandoned the rule of law at the U.S.-Mexico border amid the migrant crisis, sending costs for border security soaring in Texas, Gov. Greg Abbott said Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/frpdoh4lwwg/biden-border-crisis-texas-costs-greg-abbott",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/frpdoh4lwwg/biden-border-crisis-texas-costs-greg-abbott",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713587da-5828-4066-8cb4-999e43da8e19/49429ba3-a486-43e2-8995-c2db8564fb63/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-texas-costs-greg-abbott.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-texas-costs-greg-abbott.amp",
+      "publishedDateTime": "2021-05-02T11:03:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-02-biden-is-a-moderate-no-more-judge-jeanine.md",
       "title": "Biden is a 'moderate no more': Judge Jeanine",
       "excerpt": "Guests: Byron Donalds, Richard Grenell, Steve Moore, Lara Trump, Ashley Strohmier, Joe Concha, Leo Terrell, Tomi Lahren",
@@ -1328,337 +1648,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-energy-nominee-shalanda-baker-green-new-deal-power-revolution.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-energy-nominee-shalanda-baker-green-new-deal-power-revolution.amp",
       "publishedDateTime": "2021-04-28T07:36:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-pompeo-slams-iran-news-when-i-was-briefing-trump-kerry-was-briefing-zarif.md",
-      "title": "Pompeo slams Iran news: 'When I was briefing Trump, Kerry was briefing Zarif'",
-      "excerpt": "Biden climate czar and former Senator John Kerry, D-Mass., was essentially acting in the same role Trump Secretary of State Mike Pompeo was, except in relation to Iranian Foreign Minister Mohammad Javad Zarif during the Republican president's administration, Pompeo told \"Hannity\" on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/USljndIEoqc/pompeo-slams-iran-news-when-i-was-briefing-trump-kerry-was-briefing-zarif",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/USljndIEoqc/pompeo-slams-iran-news-when-i-was-briefing-trump-kerry-was-briefing-zarif",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d680524-8d5e-4af4-9634-ee3d3c117942/72df003f-5c2a-49a6-be0e-459682735a16/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-slams-iran-news-when-i-was-briefing-trump-kerry-was-briefing-zarif.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-slams-iran-news-when-i-was-briefing-trump-kerry-was-briefing-zarif.amp",
-      "publishedDateTime": "2021-04-27T19:39:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-tulane-university-invites-hunter-biden-as-guest-speaker-for-course-on-media-polarization.md",
-      "title": "Tulane University invites Hunter Biden as guest speaker for course on 'Media Polarization'",
-      "excerpt": "Hunter Biden is set to appear as a guest speaker at Tulane University as part of a 10-week course that is being offered to students in the fall.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/tulane-university-invites-hunter-biden-as-guest-speaker-for-course-on-media-polarization",
-      "originalUrl": "https://www.foxnews.com/media/tulane-university-invites-hunter-biden-as-guest-speaker-for-course-on-media-polarization",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/071a5059-e8e2-431c-b3d0-e7bcfedd8b53/aa17f3a3-4d75-4c42-8953-477f38f313de/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/tulane-university-invites-hunter-biden-as-guest-speaker-for-course-on-media-polarization.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tulane-university-invites-hunter-biden-as-guest-speaker-for-course-on-media-polarization.amp",
-      "publishedDateTime": "2021-04-27T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-trump-warmongering-fool-liz-cheney-would-embarrass-her-family-with-2024-bid.md",
-      "title": "Trump: ‘warmongering fool’ Liz Cheney would ‘embarrass her family’ with 2024 bid",
-      "excerpt": "Liz Cheney telling The Post that she’s not ruling out a presidential bid. Trump called the Wyoming Republican a “warmongering fool” and said that she would “embarrass her family” with a 2024 run. “Liz Cheney is polling sooo low in Wyoming,",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/27/trump-liz-cheney-would-embarrass-her-family-with-2024-bid/",
-      "originalUrl": "https://nypost.com/2021/04/27/trump-liz-cheney-would-embarrass-her-family-with-2024-bid/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-cheney.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/27/trump-liz-cheney-would-embarrass-her-family-with-2024-bid/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/27/trump-liz-cheney-would-embarrass-her-family-with-2024-bid/amp/",
-      "publishedDateTime": "2021-04-27T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-24-ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great.md",
-      "title": "Ingraham: 'Biden's Insurrectionists' want us to 'lose sight' of freedom that made America great",
-      "excerpt": "Fox News host Laura Ingraham opened her show \"The Ingraham Angle\" on Friday highlighting the leftist tactics of what she calls \"Biden's Insurrectionists\" who \"want us to lose sight\" of the freedom tha",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great",
-      "originalUrl": "https://www.foxnews.com/media/ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2296e2b8-0707-42bb-8660-36fbeef42776/faa336be-7070-4599-ae58-68a1f043d8d3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great.amp",
-      "publishedDateTime": "2021-04-23T20:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-24-washington-post-runs-fact-check-on-tim-scotts-ancestry-but-not-on-kamala-harris-fweedom-plagiarism-claim.md",
-      "title": "Washington Post runs 'fact-check' on Tim Scott's ancestry but not on Kamala Harris' 'Fweedom' plagiarism claim",
-      "excerpt": "The Washington Post appears quite selective when it comes to the urgency of its 'fact-checks' of certain prominent politicians.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/washington-post-fact-check-tim-scott-kamala-harris-fweedom",
-      "originalUrl": "https://www.foxnews.com/media/washington-post-fact-check-tim-scott-kamala-harris-fweedom",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Tim-Scott-Kamala-Harris-AP.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-23T17:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-24-biden-calls-turkeys-erdogan-ahead-of-possible-armenian-genocide-recognition.md",
-      "title": "Biden calls Turkey’s Erdogan ahead of possible Armenian genocide recognition",
-      "excerpt": "Biden expressed “his interest in a constructive bilateral relationship with expanded areas of cooperation and effective management of disagreements,” the White House said in a statement.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yl5e2l_yNdY/biden-calls-erdogan-armenian-genocide",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yl5e2l_yNdY/biden-calls-erdogan-armenian-genocide",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa434e0f-6b4c-404e-89ce-c7e26329c066/ff42937c-f70a-49f7-a7c6-6d27dc8e6c8f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-erdogan-armenian-genocide.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-erdogan-armenian-genocide.amp",
-      "publishedDateTime": "2021-04-23T17:08:10-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

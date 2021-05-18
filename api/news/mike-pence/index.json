@@ -45,63 +45,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-18-pence-slams-biden-admin-for-trying-to-create-a-false-equivalency-between-israel-hamas.md",
-      "title": "Pence slams Biden admin for trying to create a 'false equivalency' between Israel, Hamas",
-      "excerpt": "EXCLUSIVE: Former Vice President Mike Pence slammed the Biden administration for attempting to create a “false equivalency” between Israel and Hamas, saying he and former President Trump “set the table for lasting peace and an end to the decades-old conflict in the region,” but that President Biden has",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/96jYXrfNSvI/pence-biden-admin-israel-hamas-false-equivalency",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/96jYXrfNSvI/pence-biden-admin-israel-hamas-false-equivalency",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 391,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-biden-admin-israel-hamas-false-equivalency.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-admin-israel-hamas-false-equivalency.amp",
-      "publishedDateTime": "2021-05-18T08:30:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-05-17-mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe.md",
       "title": "Mike Pence Rebukes Joe Biden's Tax Plan, Says China Will Benefit While US Faces Economic Catastrophe",
       "excerpt": "In a Monday op-ed, Pence claimed corporations will flock to China, which \"stands to gain thousands of jobs as U.S. employers flee the crushing taxes\" proposed by Biden.",
@@ -1591,6 +1534,58 @@
       "topics": [
         "Election",
         "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-pence-lines-up-allies-nodding-at-possible-2024-campaign.md",
+      "title": "Pence Lines Up Allies, Nodding at Possible 2024 Campaign",
+      "excerpt": "Former Vice President Mike Pence on Wednesday launched an advocacy group to promote his agenda and defend the Trump administration’s record, a signal that he’s moving toward a 2024 presidential bid. The group, Advancing American Freedom, will “build ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-07/pence-forms-advocacy-group-to-highlight-agenda-defend-record",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-07/pence-forms-advocacy-group-to-highlight-agenda-defend-record",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5t076Ijl52Y/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Mike Pence"
       ]
     }

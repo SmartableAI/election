@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Rolling to Remember: Issa introduces bill forcing Biden to allow DC Memorial Day biker tradition"
-    excerpt: "EXCLUSIVE - Rep. Darrell Issa, R-Calif., introduced a bill on Tuesday to ensure a Memorial Day veterans event with a long history is able continue every year, after the Department of Defense blocked the Rolling to Remember motorcycle rally from staging in the Pentagon parking lot this month."
-    publishedDateTime: 2021-05-11T22:58:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B8hUTR7uvIU/rolling-to-remember-issa-biden-veterans-pentagon"
-    ampWebUrl: "https://www.foxnews.com/politics/rolling-to-remember-issa-biden-veterans-pentagon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rolling-to-remember-issa-biden-veterans-pentagon.amp"
+  - title: "Biden and The Squad's Tlaib stage heated confrontation on tarmac in Detroit"
+    excerpt: "President Biden and Democratic Rep. Rashida Tlaib engaged in a tense, roughly eight-minute conversation on the airport tarmac Detroit after Biden's arrival there Monday."
+    publishedDateTime: 2021-05-18T19:35:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m8nVGbBVkPg/biden-praises-squads-tlaib-after-tarmac-confrontation-on-palestinian-conflict-botches-her-name"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-praises-squads-tlaib-after-tarmac-confrontation-on-palestinian-conflict-botches-her-name.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-praises-squads-tlaib-after-tarmac-confrontation-on-palestinian-conflict-botches-her-name.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba409605-554d-476c-b289-4aa191309534/79e7774b-fcda-498a-b91a-dc89ed5125fe/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bbcc3bf-9d3a-4fb6-b46a-89e3f17a74ca/7e5e6aac-c4d1-4a2c-ac01-d834bd8b28d1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-24-ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great.md",
+      "title": "Ingraham: 'Biden's Insurrectionists' want us to 'lose sight' of freedom that made America great",
+      "excerpt": "Fox News host Laura Ingraham opened her show \"The Ingraham Angle\" on Friday highlighting the leftist tactics of what she calls \"Biden's Insurrectionists\" who \"want us to lose sight\" of the freedom tha",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great",
+      "originalUrl": "https://www.foxnews.com/media/ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2296e2b8-0707-42bb-8660-36fbeef42776/faa336be-7070-4599-ae58-68a1f043d8d3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-bidens-insurrectionists-want-us-to-lose-sight-of-freedom-that-made-america-great.amp",
+      "publishedDateTime": "2021-04-23T20:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-elizabeth-warren-pramila-jayapal-say-why-bidens-proposed-capital-gains-tax-is-beneficial.md",
       "title": "Elizabeth Warren, Pramila Jayapal Say Why Biden's Proposed Capital Gains Tax is Beneficial",
       "excerpt": "Biden's plan would double the tax rate on millionaires to help pay for childcare, free community college tuition and new skills training for workers.",
@@ -1503,58 +1560,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-daunte-wright-killing-biden-calls-for-peace-and-calm-as-minneapolis-sets-curfew-live.md",
-      "title": "Daunte Wright killing: Biden calls for ‘peace and calm’ as Minneapolis sets curfew – live",
-      "excerpt": "The federal US government posted a March budget deficit of $660bn, a record high for the month, as direct payments to Americans under Joe Biden’s stimulus package were distributed, the treasury department said on Monday. The deficit for the first six ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates?page=with:block-6074bef58f088c820d864d7e",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates?page=with:block-6074bef58f088c820d864d7e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ad4a25e533ad6c9e7c2980bc6e5dbd216b437f03/0_445_6733_4042/master/6733.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8ac127df02353378cc3daf6f97ea30be",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/apr/12/joe-biden-covid-coronavirus-politics-latest-live-updates",
-      "publishedDateTime": "2021-04-12T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

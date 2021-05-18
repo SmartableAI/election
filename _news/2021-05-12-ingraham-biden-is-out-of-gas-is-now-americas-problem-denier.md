@@ -176,6 +176,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump likens Biden to Carter, citing gas crisis and Israel-Palestinian conflict"
+    excerpt: "Former President Donald Trump is comparing President Biden to Former President Jimmy Carter due to the recent gas shortage and tensions between Israel and Palestine."
+    publishedDateTime: 2021-05-12T21:20:00Z
+    webUrl: "https://nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/"
+    ampWebUrl: "https://nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/12/trump-likens-biden-to-carter-citing-gas-crisis-and-israel-palestinian/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-carter-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden Sets Everything on Fire"
     excerpt: "Joe Biden is the luckiest man to ever assume the presidency. He succeeded an unpopular figure. He was inaugurated just two weeks after the dramatic storming"
     publishedDateTime: 2021-05-12T10:00:00Z

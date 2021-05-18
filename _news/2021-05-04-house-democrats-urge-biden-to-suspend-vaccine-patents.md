@@ -111,6 +111,22 @@ related:
         width: 1440
         height: 928
         isCached: true
+  - title: "Biden reverses Trump changes to bank antidiscrimination law"
+    excerpt: "The Biden administration is repealing the changes made by the Trump administration to an important law made to stop banks from discriminating against racial minorities and the poor"
+    publishedDateTime: 2021-05-18T18:45:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-reverses-trump-bank-antidiscrimination-law-77761168"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-reverses-trump-bank-antidiscrimination-law-77761168"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-reverses-trump-bank-antidiscrimination-law-77761168"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Biden rescinds Trump-era health insurance requirement for new immigrants"
     excerpt: "U.S. President Joe Biden on Friday revoked a 2019 proclamation by former President Donald Trump that sought to bar the entry of immigrants who could not prove they had health insurance or could cover healthcare costs."
     publishedDateTime: 2021-05-14T22:14:00Z
@@ -126,6 +142,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210514&t=2&i=1562182032&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4D1D5"
         width: 818
         height: 545
+        isCached: true
+  - title: "Biden: Trump administration ‘didn’t do a damn thing’ on infrastructure – live"
+    excerpt: "The future will be built right here in America.” The president said that he expects to hear more details about the Republican counterproposal on infrastructure either today or tomorrow. Biden has previously indicated he is willing to move forward on parts of his infrastructure plan with or without Republican support."
+    publishedDateTime: 2021-05-18T18:17:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live?page=with:block-60a40c128f08e7ca5d4d7fb9"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/633d973175f0c85ac5b0ae277e4eaa94bd7d2eef/0_142_5334_3199/master/5334.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d890c929402231e1de8946f1f6afce8a"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden administration restores transgender health protections, reversing Trump policy"
     excerpt: "The move reverses a Trump-era policy​ that sought to narrow the scope of legal rights in sensitive situations involving medical care."

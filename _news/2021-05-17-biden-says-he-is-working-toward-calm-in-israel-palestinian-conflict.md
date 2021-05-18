@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden's refusal to criticize Israel killing civilians undermines his pledge to prioritize human rights"
+    excerpt: "Critics are pushing Biden break from the tradition of unwavering support for Israel as the death toll in Gaza mounts."
+    publishedDateTime: 2021-05-18T19:29:00Z
+    webUrl: "https://www.businessinsider.com/biden-refusal-to-criticize-israel-undermines-human-rights-pledge-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/biden-refusal-to-criticize-israel-undermines-human-rights-pledge-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-refusal-to-criticize-israel-undermines-human-rights-pledge-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/60a3fd631b5cea0019c4586d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Latest: Biden says Israel has right to defend itself"
     excerpt: "U.S. President Joe Biden says that “Israel has a right to defend itself” amid a barrage of rockets fired by Hamas and other Palestinian groups from Gaza"
     publishedDateTime: 2021-05-12T20:56:00Z
@@ -106,6 +122,20 @@ related:
       - url: "https://s.abcnews.com/images/International/WireAP_e353934a96bc4d2b811416f1699344bf_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden praises Rep. critical of US's Israel stance"
+    excerpt: "President Joe Biden acknowledges the plight of Palestinians as he addressed Congresswoman Rashida Tlaib, a Palestinian-American Democrat, who has been critical of his administration's approach to violence between Israel and Hamas."
+    publishedDateTime: 2021-05-18T19:29:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/18/biden-praises-rep-critical-uss-israel-stance/5151032001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/13e6f108-43a7-461f-af2e-2aa8a483ac31_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "The Biden administration is gearing up to sell $735 million of precision weapons to Israel, as conflict rages on with Gaza"
     excerpt: "Progressive Democrats have been pressuring Biden to call for a cease-fire, and are unhappy with the arms sale as deaths mount in Gaza and Israel."
