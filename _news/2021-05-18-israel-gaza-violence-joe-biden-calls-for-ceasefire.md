@@ -1,27 +1,29 @@
 ---
 category: news
-title: "President Joe Biden gives update on Covid-19 at White House"
-excerpt: "President Joe Biden gives remarks on the new Covid-19 Centers for Disease Control mask guidelines in the Rose Garden, at the White House in Washington, DC on Thursday, May 13, 2021. Fully vaccinated people no longer need to wear a face mask or stay six feet away from others in most settings,"
-publishedDateTime: 2021-05-16T07:10:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/c5f4ca85f841e7252819db0acfca9764/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/c5f4ca85f841e7252819db0acfca9764/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
+title: "Israel-Gaza violence: Joe Biden calls for ceasefire"
+excerpt: "US President Joe Biden has voiced his support for a ceasefire after eight days of violence between Israel and Palestinian militants in Gaza. Mr Biden told Israeli Prime Minister Benjamin Netanyahu that the US was working with Egypt and other countries on halting hostilities."
+publishedDateTime: 2021-05-18T01:04:00Z
+originalUrl: "https://www.bbc.co.uk/news/world-middle-east-57152723"
+webUrl: "https://www.bbc.co.uk/news/world-middle-east-57152723"
+ampWebUrl: "https://www.bbc.co.uk/news/world-middle-east-57152723.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-middle-east-57152723.amp"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: BBC
+  domain: bbc.co.uk
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/c5f4ca85f841e7252819db0acfca9764/BIDEN-COVID.jpg"
-    width: 650
-    height: 433
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/E759/production/_118552295_mediaitem118552294.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -215,22 +217,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 93
-  - title: "Israel-Gaza violence: Joe Biden calls for ceasefire"
-    excerpt: "US President Joe Biden has voiced his support for a ceasefire after eight days of violence between Israel and Palestinian militants in Gaza. Mr Biden told Israeli Prime Minister Benjamin Netanyahu that the US was working with Egypt and other countries on halting hostilities."
-    publishedDateTime: 2021-05-18T01:04:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-middle-east-57152723"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-middle-east-57152723.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-middle-east-57152723.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/E759/production/_118552295_mediaitem118552294.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Here's what Kentucky would get from President Joe Biden's American Families Plan"
     excerpt: "The White House outlined how many Kentucky children and workers would benefit from the $1.8 trillion plan, which includes universal preschool."
     publishedDateTime: 2021-05-07T09:26:00Z
@@ -311,6 +297,20 @@ related:
         width: 850
         height: 478
         isCached: true
+  - title: "President Joe Biden gives update on Covid-19 at White House"
+    excerpt: "President Joe Biden gives remarks on the new Covid-19 Centers for Disease Control mask guidelines in the Rose Garden, at the White House in Washington, DC on Thursday, May 13, 2021. Fully vaccinated people no longer need to wear a face mask or stay six feet away from others in most settings,"
+    publishedDateTime: 2021-05-16T07:10:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c5f4ca85f841e7252819db0acfca9764/President-Joe-Biden-gives-update-on-Covid-19-at-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/c5f4ca85f841e7252819db0acfca9764/BIDEN-COVID.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "U.S. President Joe Biden returns to the White House from Delaware"
     excerpt: "U.S. Secret Service agents fist bump prior to the arrival of President Joe Biden aboard Marine One on the Ellipse of the White House in Washington, DC, on Monday, May 17, 2021. President Biden returns to the White House after spending the weekend in Delaware."
     publishedDateTime: 2021-05-17T14:17:00Z
@@ -326,6 +326,6 @@ related:
         height: 433
         isCached: true
 
-secured: "bmYGsMLng97paut5K+4bD3g0NtHB5+tDhpSoF/b30V4DYS45VId3booNvI/Ii5arU9IgjHv7SpW2Fo4THlvnxWsmO8SDu3EO3mXnirwrqrD7Y6FkaegNPWOuIaKQvC6fI6ipwxF/lJab5pG+RIh2QRxTPF5HMJ3p3nLHgYogOoi6R/szVHQubh4wIywCf5ltZyXfiyzGIon9lMXJYjG3ye3Vaai4kjs/hT65sM7fcqr5aLfui9bWAY24llul5Cld93mBnMhoh5PWFUjtcfRRRb8k7svBW9Q/L6HlHkpiI8L+d0vG/EnHGNAEWuUtCl0cKidJ7V4c/CPyMyQ5e+DqqyACuxPcbdEmPnjkS81OgbY=;qiUOTpe5i1CJeFkfkoPOrA=="
+secured: "9GmGDouVOVfsh7Qd/v9id+9N2/yk+6bk/ZeZpuPcDvj2Lc4Q5tXGoZWz/kPJJLXgYGUJzADf/eQaSZJdO6Y5c8qF/UJj2Vd2MDY6DN0CWc9ieVAg6cFo/mpA61Vk4Gjfske7TbAz4zD5TNmYLbGxnhfqJmB+v5i02tSmD1XewnXlUalyiQa61D2gbKXNvu4pq9/BHrTff9wrQjOJu6JI8KuaQjv4cDQFjxHNRF7qIexMeNlpL+IrpqlrUOlYLhTerP4D1Dx4UPjyfXIpasEPK6aE3bSXqwR2YzlHF9YZK1pMXMGm6y67Bj6XOAlk9EXyi3ayqw3fBi2BvBqlMnBsBxKGZGiTAhIDFrLIwaeacOM=;ticbQGIF8XKXIfmgKKWy0Q=="
 ---
 

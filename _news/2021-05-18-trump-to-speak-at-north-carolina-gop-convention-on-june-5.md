@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Trump to speak at North Carolina GOP convention on June 5"
-excerpt: "Former President Donald Trump will speak at North Carolina's annual state Republican Party convention next month"
-publishedDateTime: 2021-05-17T15:06:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-speak-north-carolina-gop-convention-june-77737064"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-speak-north-carolina-gop-convention-june-77737064"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-speak-north-carolina-gop-convention-june-77737064"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-speak-north-carolina-gop-convention-june-77737064"
+excerpt: "Former President Donald Trump will speak at North Carolina’s annual state Republican Party convention next month, party officials announced Monday. The former president will speak in person at the June 5 Trump narrowly carried North Carolina in 2020 and held numerous events in the state toward the end of his campaign."
+publishedDateTime: 2021-05-17T19:24:00Z
+originalUrl: "https://www.chron.com/news/article/Trump-to-speak-at-North-Carolina-GOP-convention-16182520.php"
+webUrl: "https://www.chron.com/news/article/Trump-to-speak-at-North-Carolina-GOP-convention-16182520.php"
+ampWebUrl: "https://www.chron.com/news/amp/Trump-to-speak-at-North-Carolina-GOP-convention-16182520.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-to-speak-at-North-Carolina-GOP-convention-16182520.php"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_789bc4439a9f4f9d8c736ff17901e404_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -47,6 +43,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump to speak at North Carolina GOP convention on June 5"
+    excerpt: "Former President Donald Trump will speak at North Carolina's annual state Republican Party convention next month"
+    publishedDateTime: 2021-05-17T15:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-speak-north-carolina-gop-convention-june-77737064"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-speak-north-carolina-gop-convention-june-77737064"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-speak-north-carolina-gop-convention-june-77737064"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_789bc4439a9f4f9d8c736ff17901e404_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Former WWE wrestler, Trump administration officials and congressman's widow are among 23 candidates in Texas House race"
     excerpt: "The crowded May race, with 23 candidates, could give Republicans an early look at Trump's staying power in the GOP."
     publishedDateTime: 2021-04-20T16:43:00Z
@@ -63,22 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump to speak at North Carolina GOP convention on June 5"
-    excerpt: "Former President Donald Trump will speak at North Carolina’s annual state Republican Party convention next month, party officials announced Monday. The former president will speak in person at the June 5 Trump narrowly carried North Carolina in 2020 and held numerous events in the state toward the end of his campaign."
-    publishedDateTime: 2021-05-17T19:24:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-to-speak-at-North-Carolina-GOP-convention-16182520.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-to-speak-at-North-Carolina-GOP-convention-16182520.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-to-speak-at-North-Carolina-GOP-convention-16182520.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Mike Pence talks to South Carolina conservatives"
     excerpt: "Former Vice President Mike Pence speaks to the Palmetto Family Council gala. In his speech he reiterated his and former President Donald Trump's accomplishments and criticized President Joe Biden."
     publishedDateTime: 2021-04-30T00:53:00Z
@@ -89,6 +85,6 @@ related:
       domain: thestate.com
     quality: 35
 
-secured: "OAqrdhSLTIi4pbgAZUBcmklPKWQfYQoftkVpL6c9dS4spq/3iZxMQump1ahTLWTxSDRu5zCddTwTvznW+YRKGeKjjiQNgrvxva6nINRzxtyavUr+RQM9+O5HNUSg7fn6nA4UImeEdQMaN7KdrVHr86R4/Q5EfeLs5SsrseKIqJldmdtBSeSyR5GRI+tZDNc1o1QUCJLgBy0k43+Z8SE3YASMik76MAHmwnEKL5onosyRrPwXOxt9WrVr0QAWxwTiBcniS5DigvrJJ1fRzm934+avhORs4M6LDRMh3W/76aW0CbyCrFNc07nLxhxBIzElSexSiorX7NSDeTx+fXdf0LsAKhfBlRHhbomghKiiFBZKX4XbaEnELwR8lMy/e1Zm7N4WduPD4nMMRxr31pnC4FatgV6DdORm9gmU/N6Jdsv8vI5LpXdfxaaITkro+O1yZ1CUiczatkkAdVBApccclEo/y1K1KXE95r3IsGPgfvi41czbxsrEmxcLN7TOwstgu+JJQW53WRB2Y1Wwzgx9Cg==;fBRQ+kEa80nyT1OXvXNdlg=="
+secured: "rGml1YOTVUUMBneQDFd0dkgfAStMaaLob972DMUUheSKekgx/hs3l2azPZuk3NQci4yxw05Y02CVjAFZNW9cNnkBeIE1Jg04FCpsdDBVP2KKk+LQCe1kdkBYpNwIFoP2vfE88bx5vqJSPJkKPEg9szJIoJuj7ryntPHUf3Kd+6lpSJNyYDJ3Vv8bQ1GS6HtwMCrqPXoNww34etBis2OJ7ilziDVXuECOiXsTMMOfAAm1AX7vRPW80EswHNfBsYAJsrxfUujGWPXxCh4PWB/FBjH66FCoLwZUm+KWVOiiPyaoukgV6vMNEKEgIMUB9APNLyk8zsA/9Ycf5uzLBzaXjOdbG1xVV6haDcXXmqYUhYQ=;2VzIKthklPVBoBHNW+G1lA=="
 ---
 

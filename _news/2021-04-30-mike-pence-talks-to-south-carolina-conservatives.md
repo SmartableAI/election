@@ -67,6 +67,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump to speak at North Carolina GOP convention on June 5"
+    excerpt: "Former President Donald Trump will speak at North Carolina’s annual state Republican Party convention next month, party officials announced Monday. The former president will speak in person at the June 5 Trump narrowly carried North Carolina in 2020 and held numerous events in the state toward the end of his campaign."
+    publishedDateTime: 2021-05-17T19:24:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-to-speak-at-North-Carolina-GOP-convention-16182520.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-to-speak-at-North-Carolina-GOP-convention-16182520.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-to-speak-at-North-Carolina-GOP-convention-16182520.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "CqHExcVIRWAdaavvMfIZrJgT9LqUKWJ2csggUFp6CSF5QzZ/WBAO5zcMxJNUXT1YiceUh2m7xiwvB2LYsKjEtqrw6A6+JYeoC5n8o7CwYHHbvqF57b6N76bucHg3ydILnpqzC1yPGirBbvIzhLOSnPY9EfxfH/N7cyTID7F8NL6NVTORUjc1V0qPVYq6VwQ6x8WfpCc9UBZvRw3j2VLFoUkcsBaK4DumA/wZ+M+M+WM9HyfDrn17FMYQBnV3xauy2YtUVEOR/ytb7UD0cOLnRDGXCOppEJUTw1FcZLbc9ce2jVV7A2bUW6hdvs9h8lSm1adP+0eHd6RlXjc2Yeq4ZN4LF38DGqVfh9t4I+lbKkLXXzluzOSzZcHx2PbUN7pgunwZwSseCttk6QQuRSg5AmhwTZyeNBk4nLajtHJIAopw+7kpnuSGVwvi23yuSltWCXtVFn0s3FedcpQBHA2fJnSa8de+JFj6wSP3OIqF+2wSutRVz4rTSP5Psk34w+2VfVYtnHSzpmpf39HEGrzHtg==;5Mj09yyyhcouUgbNPANJPw=="
 ---

@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump to speak at North Carolina GOP convention on June 5"
+    excerpt: "Former President Donald Trump will speak at North Carolina’s annual state Republican Party convention next month, party officials announced Monday. The former president will speak in person at the June 5 Trump narrowly carried North Carolina in 2020 and held numerous events in the state toward the end of his campaign."
+    publishedDateTime: 2021-05-17T19:24:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-to-speak-at-North-Carolina-GOP-convention-16182520.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-to-speak-at-North-Carolina-GOP-convention-16182520.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-to-speak-at-North-Carolina-GOP-convention-16182520.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Mike Pence talks to South Carolina conservatives"
     excerpt: "Former Vice President Mike Pence speaks to the Palmetto Family Council gala. In his speech he reiterated his and former President Donald Trump's accomplishments and criticized President Joe Biden."
     publishedDateTime: 2021-04-30T00:53:00Z

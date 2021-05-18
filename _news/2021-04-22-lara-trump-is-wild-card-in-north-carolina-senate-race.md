@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/549638-lara-trump-is-wild-card
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/549638-lara-trump-is-wild-card-in-north-carolina-senate-race?amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/06/224bf0c0-acf8-4eeb-a673-9440534ef418/thumbnail/1200x630/ebddaf808d5ce6944492d7092389d273/gettyimages-1133282164.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump to speak at North Carolina GOP convention on June 5"
+    excerpt: "Former President Donald Trump will speak at North Carolina’s annual state Republican Party convention next month, party officials announced Monday. The former president will speak in person at the June 5 Trump narrowly carried North Carolina in 2020 and held numerous events in the state toward the end of his campaign."
+    publishedDateTime: 2021-05-17T19:24:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-to-speak-at-North-Carolina-GOP-convention-16182520.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-to-speak-at-North-Carolina-GOP-convention-16182520.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-to-speak-at-North-Carolina-GOP-convention-16182520.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Mike Pence talks to South Carolina conservatives"
     excerpt: "Former Vice President Mike Pence speaks to the Palmetto Family Council gala. In his speech he reiterated his and former President Donald Trump's accomplishments and criticized President Joe Biden."
