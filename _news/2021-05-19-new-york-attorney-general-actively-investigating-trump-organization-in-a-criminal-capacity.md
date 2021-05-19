@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5159082001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5159082001"
 type: article
 quality: 113
-heat: 153
+heat: 173
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Organization Faces Criminal Probe In New York State"
+    excerpt: "The Trump Organization is being investigated in a \"criminal capacity\", the New York state attorney general's office said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."
+    publishedDateTime: 2021-05-19T10:35:00Z
+    webUrl: "https://www.ibtimes.com/trump-organization-faces-criminal-probe-new-york-state-3202928"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/18/a-sign-for-the-trump-international-hotel-in.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "NY Attorney General Investigating Trump Organization In 'Criminal Capacity'"
     excerpt: "The Trump Organization is being investigated in a \"criminal capacity\" by the New York state attorney general's office, a spokesman said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."
     publishedDateTime: 2021-05-19T03:44:00Z

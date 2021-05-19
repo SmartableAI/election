@@ -79,6 +79,22 @@ related:
         width: 3589
         height: 2393
         isCached: true
+  - title: "Biden was blindsided by Harris's attack in 2019 debate: book"
+    excerpt: "President Biden while running in the Democratic primary was reportedly blindsided by his then-political opponent Kamala Harris's debate comment on Biden’s 1970s position on busing, which became one of"
+    publishedDateTime: 2021-05-19T12:19:00Z
+    webUrl: "https://thehill.com/homenews/campaign/554262-biden-was-blindsided-by-harriss-attack-in-2019-debate-book"
+    ampWebUrl: "https://thehill.com/homenews/campaign/554262-biden-was-blindsided-by-harriss-attack-in-2019-debate-book?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/554262-biden-was-blindsided-by-harriss-attack-in-2019-debate-book?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenharris.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "VP Kamala Harris, Speaker Nancy Pelosi make history seated behind Biden at speech"
     excerpt: "Harris and Pelosi made history as the first women — one of them Black and Indian American — to share the stage in Congress during a presidential address."
     publishedDateTime: 2021-04-29T04:33:00Z

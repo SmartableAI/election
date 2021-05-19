@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/energy-environment/549658-watch-live-bide
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp"
 type: article
 quality: 150
-heat: 1890
+heat: 1910
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1771249/capitol-police-attack-joe-biden.jpg"
         width: 3589
         height: 2393
+        isCached: true
+  - title: "Biden was blindsided by Harris's attack in 2019 debate: book"
+    excerpt: "President Biden while running in the Democratic primary was reportedly blindsided by his then-political opponent Kamala Harris's debate comment on Biden’s 1970s position on busing, which became one of"
+    publishedDateTime: 2021-05-19T12:19:00Z
+    webUrl: "https://thehill.com/homenews/campaign/554262-biden-was-blindsided-by-harriss-attack-in-2019-debate-book"
+    ampWebUrl: "https://thehill.com/homenews/campaign/554262-biden-was-blindsided-by-harriss-attack-in-2019-debate-book?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/554262-biden-was-blindsided-by-harriss-attack-in-2019-debate-book?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenharris.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "It's Biden's speech, but Kamala Harris and Nancy Pelosi also made history"
     excerpt: "For the first time, two women flanked an American president on the dais of the House Chamber during his first address to a joint session of Congress."

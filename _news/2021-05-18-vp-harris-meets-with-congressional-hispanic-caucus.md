@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-m
 webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-meets-congressional-hispanic-caucus/5136267001/"
 type: article
 quality: 105
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -32,7 +32,7 @@ related:
   - title: "Fact Check-Air Force Two was at top of plane steps when Kamala Harris boarded"
     excerpt: "A picture and video which social media users claim show U.S. Vice President Kamala Harris walking up airplane steps with a green screen or no plane at all at the top are circulating on social media, in connection with a baseless conspiracy theory claiming she is not"
     publishedDateTime: 2021-05-19T07:39:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-harris-af2-idUSL2N2N60YA"
+    webUrl: "https://www.reuters.com/article/factcheck-harris-af2/fact-check-air-force-two-was-at-top-of-plane-steps-when-kamala-harris-boarded-idUSL2N2N60YA"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N60YA"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N60YA"
     type: article
@@ -102,6 +102,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Vice President Harris Remarks at Asian Pacific American Heritage Month Unity Summit"
+    excerpt: "President Harris delivers remarks at the. Vice President Harris delivers remarks at the. Vice President Harris met with members of the Congressional Asian Pacific American Caucus. Vice President Kamala Harris spoke to Democratic lawmakers about the Biden administration’s legislative priorities."
+    publishedDateTime: 2021-05-19T13:14:00Z
+    webUrl: "https://www.c-span.org/video/?511900-1/vice-president-harris-remarks-asian-pacific-american-heritage-month-unity-summit"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 29
 
 secured: "Shnpri92vO4hIsvsomVKSfTwcw3yENYOoAJ+yhyNA+Iq2rq/yxwGoKkviqI1tDRH4sVUekx/tZ6X6GnLAS35uVgdzi6YBIEJHxD3xxvV1INXODj+mMHp4wR18KPNWHINXsdjvuBbZCzNezHYrIsgWuQfomPGuUFCNe4KtO2Umf4aKBljhKxkz5fXPM1R2wvkGb65usgWm5Ol8eARBG6oHe7Et582SZnyzl/sPSddl6U9Y4AkgHThjdMR37Bp69NCtAvIicHWQbH63ouHw2nm+z+Qi/GnAu9tWIvP7dHnkOG06fcqRA5shy8CtKQ0h5T6BWaCuIufb6Q+62mZ99nNKUObEwOzBQ1SH2WpqAvi8zA=;Lo5gs4LI5NZGRCSFgfDyCw=="
 ---

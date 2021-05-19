@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/supreme-court-cut-biden-agenda-n
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210514&t=2&i=1562109617&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4D0JF"
         width: 818
         height: 545
+        isCached: true
+  - title: "President Joe Biden Departs White House for Connecticut"
+    excerpt: "US President Joe Biden walks on the ellipse to board Marine One at the White House in Washington, DC on Wednesday, May 19, 2021. President Joe Biden Departs White House for Connecticut for the US Coast Guards 140th commencement."
+    publishedDateTime: 2021-05-19T13:31:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d6edd786b71fd8681f03c629321cfda5/President-Joe-Biden-Departs-White-House-for-Connecticut/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/d6edd786b71fd8681f03c629321cfda5/BIDEN-WHITE-HOUSE.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "AujlpMPTaN81ym4zlEenkJEAHHKK/CCL4mWm1anNJcuH7P3c/AEXu6tdFdciNFMiOJAk7b/rrSx/z6g1H+EYs9y1T7jLCcjtu3XBqgnT9jiVq+2/PIZTaytFtS9469oiSmZN8t/d7jqwrf8bkJvzuZYft7G8s7/y4K1Hk17Qa7gPHV7zGWOYHR4kvlkNf8BGE/sbpmQptfy2MNW8iPOx55OKIAO3/KzV4OZ5JbLv5ef9C/SBKZjMOMpzjFIgoLkJPQoWrlkVI1U8EtwM/KaTEj+pORvL01tTJRWSyWu0sRMFQehREl1V6ls5CGuY4Jwk8d2l6JAJ8SdvdsFdrMDGQRHBw06H3ok9yuSo21GlJRg=;4sp2nuZwcmw3/5XF+Ocyfg=="

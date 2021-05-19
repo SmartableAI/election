@@ -47,6 +47,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "President Joe Biden Departs White House for Connecticut"
+    excerpt: "US President Joe Biden walks on the ellipse to board Marine One at the White House in Washington, DC on Wednesday, May 19, 2021. President Joe Biden Departs White House for Connecticut for the US Coast Guards 140th commencement."
+    publishedDateTime: 2021-05-19T13:31:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d6edd786b71fd8681f03c629321cfda5/President-Joe-Biden-Departs-White-House-for-Connecticut/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/d6edd786b71fd8681f03c629321cfda5/BIDEN-WHITE-HOUSE.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "dTJJDv52eAzCQYrK8ferhHR5pcXoTDz1yP9hhj5C1DgIfPEuxb5th8WsINwXy3PKSEzjNbjuB5rdwNTL/FrlvoHmpAImmia12BNFwaM8KcA9F2mGPnD3umcXUbOC1ogs3UK93I4s08oeiJ0IqKMtHKGS710peTMu74FjgDY97D/uHWlZ+FtvVLfczOeNN6hASq9gADxMUy2tRquOu02rq3/cUBptODjT9bW9RObquoWKdJCDs9pR2gPUJKmoNSSX9Kl6kJcc29ffW/77qnn2pDOKzEPGCf0FK/MPaFFvFXOS8i578aSbyX2WGwT1ElPIFQ9BoFc6z3SnRK6fcSp2iDqdeJ6GwCvPvnze5oA4Aio=;CYLstfvksC7PFWMqHeVwEA=="
 ---

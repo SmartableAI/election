@@ -44,7 +44,7 @@ related:
   - title: "Fact Check-Air Force Two was at top of plane steps when Kamala Harris boarded"
     excerpt: "A picture and video which social media users claim show U.S. Vice President Kamala Harris walking up airplane steps with a green screen or no plane at all at the top are circulating on social media, in connection with a baseless conspiracy theory claiming she is not"
     publishedDateTime: 2021-05-19T07:39:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-harris-af2-idUSL2N2N60YA"
+    webUrl: "https://www.reuters.com/article/factcheck-harris-af2/fact-check-air-force-two-was-at-top-of-plane-steps-when-kamala-harris-boarded-idUSL2N2N60YA"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N60YA"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N60YA"
     type: article
@@ -98,6 +98,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Vice President Harris Remarks at Asian Pacific American Heritage Month Unity Summit"
+    excerpt: "President Harris delivers remarks at the. Vice President Harris delivers remarks at the. Vice President Harris met with members of the Congressional Asian Pacific American Caucus. Vice President Kamala Harris spoke to Democratic lawmakers about the Biden administration’s legislative priorities."
+    publishedDateTime: 2021-05-19T13:14:00Z
+    webUrl: "https://www.c-span.org/video/?511900-1/vice-president-harris-remarks-asian-pacific-american-heritage-month-unity-summit"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 29
 
 secured: "divTC3iJ1JIaSTaRD/rB67WlcjofutlX7xhlbpaJ/tBgfyvrxhAyL8pmOBw/Fn41oLUErzc/7cd8HGNOaxRc0qkO5Bs4af6xcdz67C5uoFTmcIYdpg6FNmxxPIxw5XdvAsAKuIEF0usUhMIqm6aeBxPcd5rE3yvZajRv+pgfNOm4yDT7YScsRwpBBvVOVGZJPkMdnix87VyXk1teXeL0MaGl05hd2yFGPHCoTO0xS8rjICZCqUMhOFa2CTR4IIun+VhRzOmoIpx9l/8h38J7oipggcDSDaJyeuZTC9/bSOfIfV87He/yq2LsEI86PheloSgDcKRIjcLoLzuxoljcKHo+2L89P4MAjoZKF6LH5pw=;nc6ociGKFAt34T6rcHqAWg=="
 ---

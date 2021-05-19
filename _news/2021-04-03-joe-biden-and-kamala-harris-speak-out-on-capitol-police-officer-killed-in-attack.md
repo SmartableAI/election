@@ -64,6 +64,22 @@ related:
         width: 3719
         height: 2419
         isCached: true
+  - title: "Biden was blindsided by Harris's attack in 2019 debate: book"
+    excerpt: "President Biden while running in the Democratic primary was reportedly blindsided by his then-political opponent Kamala Harris's debate comment on Biden’s 1970s position on busing, which became one of"
+    publishedDateTime: 2021-05-19T12:19:00Z
+    webUrl: "https://thehill.com/homenews/campaign/554262-biden-was-blindsided-by-harriss-attack-in-2019-debate-book"
+    ampWebUrl: "https://thehill.com/homenews/campaign/554262-biden-was-blindsided-by-harriss-attack-in-2019-debate-book?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/554262-biden-was-blindsided-by-harriss-attack-in-2019-debate-book?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenharris.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "It's Biden's speech, but Kamala Harris and Nancy Pelosi also made history"
     excerpt: "For the first time, two women flanked an American president on the dais of the House Chamber during his first address to a joint session of Congress."
     publishedDateTime: 2021-04-29T11:03:00Z

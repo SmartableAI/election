@@ -44,7 +44,7 @@ related:
   - title: "Fact Check-Air Force Two was at top of plane steps when Kamala Harris boarded"
     excerpt: "A picture and video which social media users claim show U.S. Vice President Kamala Harris walking up airplane steps with a green screen or no plane at all at the top are circulating on social media, in connection with a baseless conspiracy theory claiming she is not"
     publishedDateTime: 2021-05-19T07:39:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-harris-af2-idUSL2N2N60YA"
+    webUrl: "https://www.reuters.com/article/factcheck-harris-af2/fact-check-air-force-two-was-at-top-of-plane-steps-when-kamala-harris-boarded-idUSL2N2N60YA"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N60YA"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N60YA"
     type: article
@@ -98,6 +98,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Vice President Harris Remarks at Asian Pacific American Heritage Month Unity Summit"
+    excerpt: "President Harris delivers remarks at the. Vice President Harris delivers remarks at the. Vice President Harris met with members of the Congressional Asian Pacific American Caucus. Vice President Kamala Harris spoke to Democratic lawmakers about the Biden administration’s legislative priorities."
+    publishedDateTime: 2021-05-19T13:14:00Z
+    webUrl: "https://www.c-span.org/video/?511900-1/vice-president-harris-remarks-asian-pacific-american-heritage-month-unity-summit"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 29
 
 secured: "p1FnefcZykKxPAN2G8Ct/V3MkWDCx/sehR/Py9x7VlakiwP+KNdtnFGry4n9zHs3iFur8BwvXkUsMFA2fO/Z8V5if1DEoqX++tiEuzB4XjFBIiFNK9dKAklgLZk0pMd29UxEM+WI0NNeJi5l60khSd8Drl/FJd5Ngtfk2O5FMwRIZrRJMycrBDVC2jaWTvvI0k4hq2PiUI6iqKX9HYyP1THHuoU4d7lEBrFC4sGNI1A1amb8GfYfjU1syYaDF7USwvk7zu51i5jzTOPQ3G3UWI/Zz9eiJtN/O8FYZHwnXMqxBrmnYEc/LsPbtSxyoD/RIDhrQ3wp5/8xqzyg87+4ewEiupBESqK3j0dD1I4mtj8=;sEpA25hpsfcv04eMRVQ5NA=="
 ---

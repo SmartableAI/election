@@ -3,8 +3,8 @@ category: news
 title: "Fact Check-Air Force Two was at top of plane steps when Kamala Harris boarded"
 excerpt: "A picture and video which social media users claim show U.S. Vice President Kamala Harris walking up airplane steps with a green screen or no plane at all at the top are circulating on social media, in connection with a baseless conspiracy theory claiming she is not"
 publishedDateTime: 2021-05-19T07:39:00Z
-originalUrl: "https://www.reuters.com/article/factcheck-harris-af2-idUSL2N2N60YA"
-webUrl: "https://www.reuters.com/article/factcheck-harris-af2-idUSL2N2N60YA"
+originalUrl: "https://www.reuters.com/article/factcheck-harris-af2/fact-check-air-force-two-was-at-top-of-plane-steps-when-kamala-harris-boarded-idUSL2N2N60YA"
+webUrl: "https://www.reuters.com/article/factcheck-harris-af2/fact-check-air-force-two-was-at-top-of-plane-steps-when-kamala-harris-boarded-idUSL2N2N60YA"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N60YA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N60YA"
 type: article
@@ -101,7 +101,16 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Vice President Harris Remarks at Asian Pacific American Heritage Month Unity Summit"
+    excerpt: "President Harris delivers remarks at the. Vice President Harris delivers remarks at the. Vice President Harris met with members of the Congressional Asian Pacific American Caucus. Vice President Kamala Harris spoke to Democratic lawmakers about the Biden administration’s legislative priorities."
+    publishedDateTime: 2021-05-19T13:14:00Z
+    webUrl: "https://www.c-span.org/video/?511900-1/vice-president-harris-remarks-asian-pacific-american-heritage-month-unity-summit"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 29
 
-secured: "gN7wqSTN2ha5ZwYaGlvzteecZaY3WSG2RW/Dmiw5/VBu1PuR2ntimRck3DAvGDmbunlGqwJDcs5Kr5TFNrpTphg37onHTNmMFqxiHUjCCA9QGzRaq3ow/Aw4F9uXBwcAt6lPe/5rsyfMAt4s2RS+XgvOd0f5zxHKdtBSPALtYKxurClcBDkafi2bg4gGqb/wlfReUDWiF1/2eSn3etkmh+E+ILDivZ2a7GsY2ixooOXEue2fMfXjY5NizfIY2rovfNQmqhdpyerwEXLN+yPQVrLptir+xdX5Gm0SJBJa2w65W5IPiOmPdZ76bXCW7CkkDXs8f1i4+BNWMXZddSfecN1rb6yzl4yL++Ef8upwOyU=;uW8u8eypIPqQ5t03VXVsfA=="
+secured: "1oSJS2W2aL//E+Lk3jk4kLY7hzFWoSopadFTceT7cpBxI1FDFca/3WU05khavKDeabArjmW/VV6ZKTPi8ku4s2K7j924BuI/t1zqizWAXghDErz69n1rEeRMMcS8UzvL6W98M5RdMfg282kWWQk9Un7MQwg52MJiFsWjEDjJ97ABPU4XJA9rM5O/iJCSvi8u0mDmg2FtM4aDPYZJrDroNOVqka8dHf4df5VvEsM4RatEEKLaDhgswwAwKN8ujYz5Wd+xs40x/6jOsMrCLgK+tscwik/lbtQW0QHhOd7/IkaaLzjig61LryWKO/ENFOUvddNBOT5Kq2E4MQxBYVMPMdq4ifYEt49Sb/8XZ4xoklQ=;XYbTLY5GX7PATfHcYSt04Q=="
 ---
 

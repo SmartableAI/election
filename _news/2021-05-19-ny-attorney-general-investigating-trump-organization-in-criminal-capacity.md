@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Organization Faces Criminal Probe In New York State"
+    excerpt: "The Trump Organization is being investigated in a \"criminal capacity\", the New York state attorney general's office said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."
+    publishedDateTime: 2021-05-19T10:35:00Z
+    webUrl: "https://www.ibtimes.com/trump-organization-faces-criminal-probe-new-york-state-3202928"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/18/a-sign-for-the-trump-international-hotel-in.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "New York State Probe of Trump Organization Is Now Criminal -Attorney General"
     excerpt: "The New York attorney general's office said on Tuesday it has now opened a criminal investigation into former President Donald Trump's company, going beyond what began as a civil probe. Attorney General Letitia James has been investigating whether the Trump Organization falsely reported property values to secure loans and obtain economic and tax benefits."
     publishedDateTime: 2021-05-19T03:27:00Z

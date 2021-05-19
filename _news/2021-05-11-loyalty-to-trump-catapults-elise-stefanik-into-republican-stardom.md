@@ -566,6 +566,17 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Republicans Vie for Trump's Blessing in Ohio Senate Primary"
+    excerpt: "One Ohio U.S. Senate candidate has been circulating a who’s-done-more-for-Donald Trump scorecard. FILE - In this Oct. 6, 2020,  Jane Timken, at the time the chair of the Ohio Republican Party, speaks at the Hamilton County Board of Elections during early voting in Norwood,"
+    publishedDateTime: 2021-05-19T04:39:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-19/republicans-vie-for-trumps-blessing-in-ohio-senate-primary"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-05-19/republicans-vie-for-trumps-blessing-in-ohio-senate-primary?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-05-19/republicans-vie-for-trumps-blessing-in-ohio-senate-primary?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Liz Cheney Vote: U.S. House Republicans Reach Watershed Over Trump"
     excerpt: "Republicans in the U.S. House of Representatives will vote on Wednesday whether to eject Liz Cheney, an outspoken critic of Donald Trump, from her leadership post, a move likely to cement their dependence on the former president in the 2022 elections."
     publishedDateTime: 2021-05-12T10:03:00Z

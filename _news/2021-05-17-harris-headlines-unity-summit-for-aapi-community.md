@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/kamala-harris-aapi-summi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/kamala-harris-aapi-summit/index.html"
 type: article
 quality: 185
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris to keynote star-studded CNN special honoring Class of 2021 "
+    excerpt: "CNN will air a star-studded prime-time special on Sunday honoring the class of 2021, as millions of students across the nation graduate following a year shaped by the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-05-19T13:01:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wTDYD8RvPEw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/us/2021-graduation-cnn/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/us/2021-graduation-cnn/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200707101823-us-college-graduation-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris broke multiple barriers and found a tricky balancing act on the other side"
     excerpt: "Ami Bera described to Kamala Harris how he felt when he saw the ubiquitous photo that accompanied the coverage of her selection as vice president, of her as a child standing next to her mother clad in a traditional Indian sari."
     publishedDateTime: 2021-05-18T08:45:00Z

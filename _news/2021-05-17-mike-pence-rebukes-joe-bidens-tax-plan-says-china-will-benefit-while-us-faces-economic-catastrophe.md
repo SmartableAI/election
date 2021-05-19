@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe-1592167?amp=1"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_8b67b92eacf64c4eb158c419207af25c_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Policy experts call Biden's tough China stance damaging to climate agenda"
+    excerpt: "President Joe Biden touted his electric vehicle and infrastructure plans Tuesday during remarks at a Ford facility in Michigan, where he told reporters China was currently ahead in the race for green technology."
+    publishedDateTime: 2021-05-19T13:23:00Z
+    webUrl: "https://www.cbsnews.com/video/policy-experts-call-bidens-tough-china-stance-damaging-to-climate-agenda/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 104
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/19/ce3ee567-76be-4360-bf85-a72ba3d99b38/thumbnail/1200x630/a458faeb9d3093e353c7464b63c83ef0/cbsn-fusion-policy-experts-call-bidens-tough-china-stance-damaging-to-climate-agenda-thumbnail-718589-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Nine Republican-led states ending increased unemployment benefits as President Biden says people must take \"suitable work\""
     excerpt: "A growing number of GOP governors have said they will end increased unemployment insurance benefits, citing workforce shortages."

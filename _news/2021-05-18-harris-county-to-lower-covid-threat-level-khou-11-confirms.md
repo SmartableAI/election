@@ -42,7 +42,7 @@ related:
   - title: "Fact Check-Air Force Two was at top of plane steps when Kamala Harris boarded"
     excerpt: "A picture and video which social media users claim show U.S. Vice President Kamala Harris walking up airplane steps with a green screen or no plane at all at the top are circulating on social media, in connection with a baseless conspiracy theory claiming she is not"
     publishedDateTime: 2021-05-19T07:39:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-harris-af2-idUSL2N2N60YA"
+    webUrl: "https://www.reuters.com/article/factcheck-harris-af2/fact-check-air-force-two-was-at-top-of-plane-steps-when-kamala-harris-boarded-idUSL2N2N60YA"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N60YA"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N60YA"
     type: article
@@ -98,6 +98,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Vice President Harris Remarks at Asian Pacific American Heritage Month Unity Summit"
+    excerpt: "President Harris delivers remarks at the. Vice President Harris delivers remarks at the. Vice President Harris met with members of the Congressional Asian Pacific American Caucus. Vice President Kamala Harris spoke to Democratic lawmakers about the Biden administration’s legislative priorities."
+    publishedDateTime: 2021-05-19T13:14:00Z
+    webUrl: "https://www.c-span.org/video/?511900-1/vice-president-harris-remarks-asian-pacific-american-heritage-month-unity-summit"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 29
 
 secured: "71IpZbyv40vmoikocnmbPxgaE51EBBXrGJPJdxTHQVqw6WcOIugreUT68D3FDBo37KtqTExsh9SJ4NtKG4SysbueIt8IZ1tahZDmoa5NmAafcQXjwPnZMyVkJre9tRp9s2FquN5+E0fPRmmUzEAqzYINLrrJSVME+G10JW3X/H7owjvNwk2fS19/VBt4WICkBtpfvizlAO1szUkcxpF8g7QWeFp4E7W78twFgaoaTZpzwf0q5PyUiKd6SDxD3I0LPYkBWNy4oFx4ECjAvN200Dkw6AXQ8I1+ylmQJz2/ePQS9ZT5KD4X+rY5rMeSxj/2JR9Ct0SsRmbW+NP59QReuoUA6wK9Qhgy4qjKKydCIV1yIwjzjgIuX4jD/kMcRe7/AQQ6qDAuQb9LI+kT3iqpWT9SGU2cbe13rkm63cUlEBeHlhpP15C6YuwXow7wfn3A1OnINIMqzAoTcuhF5J1O2hIG0KDUxSRWPY2HKXj2gazC1t63C6YHE/C11wfOEzlEIwobbvj6paUI2CkR1zayFw==;EQBAFIvPOdIQ2IVZXAy2nA=="
 ---
