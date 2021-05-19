@@ -594,6 +594,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "What does the new criminal inquiry mean for Donald Trump?"
+    excerpt: "Donald Trump is facing a one-two punch of criminal investigations in New York, with the state attorney general’s office saying its ongoing civil inquiry into the former president and his businesses is now a criminal matter."
+    publishedDateTime: 2021-05-19T21:16:00Z
+    webUrl: "https://www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
   - title: "Liz Cheney Vote: U.S. House Republicans Reach Watershed Over Trump"
     excerpt: "Republicans in the U.S. House of Representatives will vote on Wednesday whether to eject Liz Cheney, an outspoken critic of Donald Trump, from her leadership post, a move likely to cement their dependence on the former president in the 2022 elections."
     publishedDateTime: 2021-05-12T10:03:00Z
@@ -613,6 +624,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "Pyc1Iqqwv52BG1yvHk2XtTW0ymbVIYl8U4vKGqQVjLzAtIfGyISRYtDEHRcqXVfGNNjez56DZGjYzuVaWXK24920anQPqptvQKlwcWu2zjUBhkT+NfahGbnH6pr5fxVk8fGbuHcLHTbIBF98R0dzQBM4HFMp4OI10/slFqzAPxvkrlGeiN3QpArhOC7qNQBwbdGbTtUBikdZpth95aaxR0Y1kUBmoYoVOwD8Eq1Wb/hZw0XoYj+dDOc4xLWnQ1HAqA447op/pQdPbrQzTSEZkDhtTWPtQDTL1oe5b/92dDD88NkDgQRRZ7FQit9r6VpCx25cdE758x7fZBlmUJM1VWRQfrQFl09NH03ici2p0/I=;V7egxxnO2pu2BSVThBJLkA=="
+secured: "Hf2GzImmHnMmzLmYF5rpgrKSjoEgqwGQsNy+8XJWl/jJR6FiVmKSOUjlfuXEwXggnNwN9HgE8zl2pHxujFQzTj22nYh4TEcBDe6hEq4KapRJO9BGgiMdtOVivn9TqwRHzEapgWVOkLG2v0D4ohWeRccWncT1fmY+M23lO+uNeKjC0Vvylq2pJVPJtpAf2Mv/bxjyqlnPoalzBI/gfuo2MtizDBJXMmapID1PsrNrbEGE7pHmaDMKJgF9myNuWpwjnp5oYsYToLgfA8LsrTK6M/hyvGhVrKjrxtJrR98QNcqqPX/7sPpxdBSECJmHczQk1pxOh2J7CtQQw63TVOkpyvhHw6/yfo7tXrJiJbne7BktaB3Sm9XbVEsflH7O/zSPP4zauccMrKJ7zUwL+iYZw2ElOh2lGA44snX6GTsquxhEkt703DBKBZoVC8wm49zfTsODkDDgbMEEZMLshWCbvk7eDBfHBAJUjXKJ1cWnxH24YO2voPWhR7a/MxPZI3b4/lSB0Bw/l/B1j9rZxlvkow==;k/qvv05TBUnMZsvipTHnMQ=="
 ---
 

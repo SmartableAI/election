@@ -25,54 +25,47 @@ topics:
   - Kamala Harris
 
 related:
-  - title: "Jill Biden said 'go f--- yourself' during a call with supporters after Kamala Harris implied in a debate that Joe Biden was racist, book says"
-    excerpt: "The now-first lady was incensed at Harris for confronting Biden at a June 2019 debate over his record on racial justice and busing."
-    publishedDateTime: 2021-05-19T13:48:00Z
-    webUrl: "https://www.businessinsider.com/jill-biden-go-f-yourself-tense-biden-harris-debate-book-2021-5"
-    ampWebUrl: "https://www.businessinsider.com/jill-biden-go-f-yourself-tense-biden-harris-debate-book-2021-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jill-biden-go-f-yourself-tense-biden-harris-debate-book-2021-5?amp"
+  - title: "Fellow Asian Americans laud Kamala Harris’ rise, but want more clout for their communities"
+    excerpt: "Asian Americans are eager to build political clout and looking for help to Kamala Harris, the first Asian American vice president. She meets Wednesday with one group."
+    publishedDateTime: 2021-05-19T14:08:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-05-19/harris-asian-americans-democrats-voters"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-05-19/harris-asian-americans-democrats-voters?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-19/harris-asian-americans-democrats-voters?_amp=true"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 115
     images:
-      - url: "https://i.insider.com/60a517aff27b4c0019445477?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7094a6c/2147483647/strip/true/crop/840x549+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F97%2F7380086a4865a0921e0285a5baf9%2Fpolar-bear.jpg"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Biden and Harris make first maskless appearance: ‘Better days are ahead’"
-    excerpt: "\"We'll laugh again. We’ll know joy again,\" President Biden said Thursday. \"We'll smile again — and now, see one another's smile.\""
-    publishedDateTime: 2021-05-14T12:11:00Z
-    webUrl: "https://thegrio.com/2021/05/14/biden-harris-maskless-appearance-better-days-ahead/"
-    ampWebUrl: "https://thegrio.com/2021/05/14/biden-harris-maskless-appearance-better-days-ahead/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/05/14/biden-harris-maskless-appearance-better-days-ahead/amp/"
+  - title: "Kamala Harris to keynote first Asian American, Pacific Islander unity summit"
+    excerpt: "Vice President Kamala Harris will keynote the first unity summit for Asian Americans and Pacific Islanders on Wednesday."
+    publishedDateTime: 2021-05-17T18:34:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
     type: article
     provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 89
+      name: UPI.com
+      domain: upi.com
+    quality: 72
     images:
-      - url: "https://thegrio.com/wp-content/uploads/2021/05/BidenHarris-scaled.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3521621268936/2021/1/dcf14d32301c165911ccb7e179718d61/v1.5/Kamala-Harris-to-keynote-first-Asian-American-Pacific-Islander-unity-summit.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Harris, Emhoff earned more than Bidens with 7-figure earnings, taxes show"
-    excerpt: "Both the first and second families' tax returns reveal losses of income since the successful Biden-Harris White House bid."
-    publishedDateTime: 2021-05-18T12:32:00Z
-    webUrl: "https://thegrio.com/2021/05/18/harris-emhoff-more-income-than-bidens/"
-    ampWebUrl: "https://thegrio.com/2021/05/18/harris-emhoff-more-income-than-bidens/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/05/18/harris-emhoff-more-income-than-bidens/amp/"
+  - title: "Vice President Harris Remarks at Asian Pacific American Heritage Month Unity Summit"
+    excerpt: "President Harris delivers remarks at the. Vice President Harris delivers remarks at the. Vice President Harris met with members of the Congressional Asian Pacific American Caucus. Vice President Kamala Harris spoke to Democratic lawmakers about the Biden administration’s legislative priorities."
+    publishedDateTime: 2021-05-19T13:14:00Z
+    webUrl: "https://www.c-span.org/video/?511900-1/vice-president-harris-remarks-asian-pacific-american-heritage-month-unity-summit"
     type: article
     provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 89
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2021/05/EmhoffHarris-scaled.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: C-SPAN
+      domain: c-span.org
+    quality: 29
 
 secured: "S6M/3pENvAB9H9SEuEgj+I4al24coZ/bRgfDtiTk/mlTdvvaeEzXDQs3gsF4rGI368mXP0MD9gRWy5jXuCHNS7yWpyz/iLwK9AsvQ0dbqjnISX+y527RvTeMJEra5IoBe5UEBDV6xA+XOsXSkEboGW5c1CHCKid5BbT/aP8MSgsBcAskX+fRazsCieovaU2XHAEaaI3y+ZYa6CuWMjgd8kA5XqY9QT0c+iP8+Fgglk08l9DS1rPgovVugEma53cGY6HInN9+dIqjmCiTC9enHCxuoFRnW2L3hqUQ7SjwAwSvXaURV5hnYUbwuoq7TLUDx1WZ4HqxOdj3MUBLDGmS1T4f+dmg4y8A9JSprDo3+4M=;3Pv3UjIx8j1JYwjzej6aMg=="
 ---

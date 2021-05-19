@@ -27,50 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "VP Harris meets with Congressional Hispanic Caucus"
-    excerpt: "Vice President Kamala Harris met with members of the Congressional Hispanic Caucus to discuss the coronavirus pandemic, immigration and other issues on Monday. (May 17)"
-    publishedDateTime: 2021-05-17T21:30:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-meets-congressional-hispanic-caucus/5136267001/"
+  - title: "Fellow Asian Americans laud Kamala Harris’ rise, but want more clout for their communities"
+    excerpt: "Asian Americans are eager to build political clout and looking for help to Kamala Harris, the first Asian American vice president. She meets Wednesday with one group."
+    publishedDateTime: 2021-05-19T14:08:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-05-19/harris-asian-americans-democrats-voters"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-05-19/harris-asian-americans-democrats-voters?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-19/harris-asian-americans-democrats-voters?_amp=true"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/31c81e80-1f86-4c01-a851-13513731248c_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7094a6c/2147483647/strip/true/crop/840x549+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F97%2F7380086a4865a0921e0285a5baf9%2Fpolar-bear.jpg"
+        width: 320
+        height: 209
         isCached: true
-  - title: "VP Harris says illegal migration worsened by 'extreme climate' disasters"
-    excerpt: "Vice President Kamala Harris said Monday that “extreme climate incidents” such as hurricanes destroy crops in Central America and prompt more people to migrate illegally to the U.S."
-    publishedDateTime: 2021-05-17T23:10:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/may/17/kamala-harris-illegal-immigration-worsened-extreme/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/17/kamala-harris-illegal-immigration-worsened-extreme/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/17/kamala-harris-illegal-immigration-worsened-extreme/"
+  - title: "Fact Check-Air Force Two was at top of plane steps when Kamala Harris boarded"
+    excerpt: "A picture and video which social media users claim show U.S. Vice President Kamala Harris walking up airplane steps with a green screen or no plane at all at the top are circulating on social media, in connection with a baseless conspiracy theory claiming she is not"
+    publishedDateTime: 2021-05-19T07:39:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-harris-af2-idUSL2N2N60YA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N60YA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N60YA"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 74
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/17/Harris_94721.jpg-3f787_c0-242-5815-3634_s1200x700.jpg?b05293c78aec9cefe54011270495b308b9ec4a14"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Harris County to lower COVID threat level, KHOU 11 confirms"
-    excerpt: "Harris County has spent a majority of this pandemic in the red threat level, but that is expected to change on Tuesday."
-    publishedDateTime: 2021-05-18T03:09:00Z
-    webUrl: "https://www.khou.com/video/news/local/video/harris-county-to-lower-covid-threat-level-khou-11-confirms/285-28843615-0a37-42f6-a400-817d4f0b5032"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 55
-    images:
-      - url: "https://media.khou.com/assets/KHOU/images/226da1c8-2490-44c6-8bf8-b5d355bf9a99/226da1c8-2490-44c6-8bf8-b5d355bf9a99_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 102
   - title: "Vice President Harris Remarks at Asian Pacific American Heritage Month Unity Summit"
     excerpt: "President Harris delivers remarks at the. Vice President Harris delivers remarks at the. Vice President Harris met with members of the Congressional Asian Pacific American Caucus. Vice President Kamala Harris spoke to Democratic lawmakers about the Biden administration’s legislative priorities."
     publishedDateTime: 2021-05-19T13:14:00Z

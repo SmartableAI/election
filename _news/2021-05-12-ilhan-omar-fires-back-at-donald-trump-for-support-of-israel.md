@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/ilhan-omar-donald-trump-israel-1590708?amp=
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ilhan-omar-donald-trump-israel-1590708?amp=1"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "Explainer: What Does New Criminal Inquiry Mean for Trump?"
+    excerpt: "Donald Trump is facing a one-two punch of criminal investigations in New York, with the state attorney general’s office saying its ongoing civil inquiry into the former president and his businesses is now a criminal matter."
+    publishedDateTime: 2021-05-19T20:32:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-19/explainer-what-does-new-criminal-inquiry-mean-for-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "jkwswRxQ7PTgl2sQFnOMnwF4lE+vaYkb0ClOC424N0lhpuEIImh3+ajEzz5nwyMSLESlbG8+lwwJHzNP9eAEjaAYL+ZVcwbGksf9hTTzjNcGIghjnDPs4nz5BXkLp0htUS2byRrFzZVMb3khEoRz0LSzAuDIG0f1ptq6rfkaHokqqMgCFg8tAlmGMqA+r1GoR2AxvgG98BCzSiNXxJXgd+hPiwqeb966Qz/86f+cjkECfNZ2bDehhm5N0PYAGDUfZBurYGk+us6qSc8v8xwPFYNJTn+ZakcgfOqKLz4GnLb+AlaYbSfaBg6DRnbu5gVJ59JcRkmI/qqCMbg9HJSjODt/tT3nv/4/5a4gP6zRWCo=;viJ4ZPtmijDbGon812CnHg=="
 ---

@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President Joe Biden Returns to White House from Connecticut"
+    excerpt: "US President Joe Biden walks off Marine One on the ellipse at the White House in Washington, DC on Wednesday, May 19, 2021. President Joe Biden traveled to Connecticut for the US Coast Guards 140th commencement."
+    publishedDateTime: 2021-05-19T21:10:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d1db6c15b39def8fe8bb0eb5b3f4cb87/President-Joe-Biden-Returns-to-White-House-from-Connecticut/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/d1db6c15b39def8fe8bb0eb5b3f4cb87/BIDEN-WHITE-HOUSE.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "ecrB8HnqEtnT44sfSXMaDWDJBOMIgDNGlL6bahIoFUb5kT4zj/9XF+RKfSG9WeHNsCFwP5Va2y41/k+Xpixzxvy1SF5amTvGUBXxkqZGc4Tju+tOR52Px8Uo+M8j8zuPbul7U0fylWGB59JgzrhFdPz1okp5LFfkkrDVOrVCuCyxrD5YhMW76LYAMIVCJS4PcQt6gXl2yg4NqstLT5U5LEjjBav9EHD+Rw4pYTp1xDPXJs9XOp7CqyTur9GJSCYQNPXAdsMLPsK4m+HW2Buq8MQVHb1CU7aQroiuoqtFC/vVmmfzrv3xPM/ikYMkrNNGEIVTzHnXAtrNHctNSz4+RggjO60H/tPStJJGyL0AMfSL/bo+iCSjHWVvb7NMwFOzNP66K72fhWpSBho6U4VqtMfY/uwCpCQZcWWbkq8IMMtLeBFutx6OG9TRNqA3A7pqz6+1/mkZxshMCH8UzPgBgtxfuvmSVdcz6mfniznhaLOqDB5kkFDUzlE59fA8y1gRBQ27mUnXnwwMteSYkOZaJA==;3U7kFHMG3pe2myD0R/qFhQ=="
 ---

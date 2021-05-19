@@ -47,17 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden traveling to voting rights hot spot Georgia to promote plans to rebuild economy"
-    excerpt: "President Joe Biden marks his 100th day in office with a trip to Georgia on Thursday, visiting former President Jimmy Carter and pitching his plans to spend trillions of dollars to rebuild the U.S. economy."
-    publishedDateTime: 2021-04-29T14:00:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-idUSL1N2ML3NV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2ML3NV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2ML3NV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
 
 secured: "NhgKt6xUQqWh8MesLAiST8QPJEL4U9x+a2B142Y0UFEKcmR7RRuDGuLbi5sq4+zWmv/jdrklgGYN0/ZDxd/jO+8lu3Q+yn9K+MZ3JZIZ5sr1NBIshiYwtm4k4l4iAo39UeINfg9to9eSjeYtseQfjofYh6h0lZao4DcwsyYbESWbNda11oYfO/urL16fzHje7MlBCq1tMi0iHCa7j+T3NIB2plOPktk39Hf9zGyvV10Ttka81lwZV1VdVuuhDgu6Jj8aa1kuB3ggABhlipQwaboPyVpyXoPqSoXRPoQEvyAuMBs6dJx5F/Y/XuqpzFjsGwEysFoSjnbmCnXefAsXA2ok59+fXCfmrtFpT/PngE7jaQIq/Jp0jt5MqWK9uURk3xtKerC3h0/OlCnkDZWSNIwrpzsz0fvHronDCGOOxn0ly923/lYvMr2jT2HPkqgAkoNORqK7AWzHZfKDcrY+C1QgiYso4Fs2Mgm/71XXlCLJhhT6scdhF4D2sNwKi6iYCLZmXuURxqFZfhXVtoTaYA==;BS6M/lJvOpoqCbYfe3iRsw=="
 ---

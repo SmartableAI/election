@@ -602,6 +602,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "What does the new criminal inquiry mean for Donald Trump?"
+    excerpt: "Donald Trump is facing a one-two punch of criminal investigations in New York, with the state attorney general’s office saying its ongoing civil inquiry into the former president and his businesses is now a criminal matter."
+    publishedDateTime: 2021-05-19T21:16:00Z
+    webUrl: "https://www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
   - title: "House Republicans Pick Stefanik to Replace Trump Critic Cheney in Leadership - Media"
     excerpt: "Republicans in the U.S. House of Representatives on Friday elected Elise Stefanik to serve in their No. 3 leadership position, replacing Liz Cheney, an outspoken critic of former President Donald Trump's false claims of election fraud,"
     publishedDateTime: 2021-05-14T13:34:00Z

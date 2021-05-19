@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-m
 webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/17/vp-harris-meets-congressional-hispanic-caucus/5136267001/"
 type: article
 quality: 105
-heat: 185
+heat: 145
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Kamala Harris to keynote first Asian American, Pacific Islander unity summit"
-    excerpt: "Vice President Kamala Harris will keynote the first unity summit for Asian Americans and Pacific Islanders on Wednesday."
-    publishedDateTime: 2021-05-17T18:34:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 72
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/3521621268936/2021/1/dcf14d32301c165911ccb7e179718d61/v1.5/Kamala-Harris-to-keynote-first-Asian-American-Pacific-Islander-unity-summit.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Harris County to lower COVID threat level, KHOU 11 confirms"
     excerpt: "Harris County has spent a majority of this pandemic in the red threat level, but that is expected to change on Tuesday."
     publishedDateTime: 2021-05-18T03:09:00Z
@@ -75,15 +59,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Vice President Harris Remarks at Asian Pacific American Heritage Month Unity Summit"
-    excerpt: "President Harris delivers remarks at the. Vice President Harris delivers remarks at the. Vice President Harris met with members of the Congressional Asian Pacific American Caucus. Vice President Kamala Harris spoke to Democratic lawmakers about the Biden administration’s legislative priorities."
-    publishedDateTime: 2021-05-19T13:14:00Z
-    webUrl: "https://www.c-span.org/video/?511900-1/vice-president-harris-remarks-asian-pacific-american-heritage-month-unity-summit"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 29
 
 secured: "Shnpri92vO4hIsvsomVKSfTwcw3yENYOoAJ+yhyNA+Iq2rq/yxwGoKkviqI1tDRH4sVUekx/tZ6X6GnLAS35uVgdzi6YBIEJHxD3xxvV1INXODj+mMHp4wR18KPNWHINXsdjvuBbZCzNezHYrIsgWuQfomPGuUFCNe4KtO2Umf4aKBljhKxkz5fXPM1R2wvkGb65usgWm5Ol8eARBG6oHe7Et582SZnyzl/sPSddl6U9Y4AkgHThjdMR37Bp69NCtAvIicHWQbH63ouHw2nm+z+Qi/GnAu9tWIvP7dHnkOG06fcqRA5shy8CtKQ0h5T6BWaCuIufb6Q+62mZ99nNKUObEwOzBQ1SH2WpqAvi8zA=;Lo5gs4LI5NZGRCSFgfDyCw=="
 ---

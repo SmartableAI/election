@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/republican-arizona-ele
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/republican-arizona-election-official-trump-unhinged-77717013"
 type: article
 quality: 140
-heat: 920
+heat: 940
 published: true
 
 provider:
@@ -593,6 +593,17 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 55
+  - title: "What does the new criminal inquiry mean for Donald Trump?"
+    excerpt: "Donald Trump is facing a one-two punch of criminal investigations in New York, with the state attorney general’s office saying its ongoing civil inquiry into the former president and his businesses is now a criminal matter."
+    publishedDateTime: 2021-05-19T21:16:00Z
+    webUrl: "https://www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
     quality: 55
   - title: "Liz Cheney Vote: U.S. House Republicans Reach Watershed Over Trump"
     excerpt: "Republicans in the U.S. House of Representatives will vote on Wednesday whether to eject Liz Cheney, an outspoken critic of Donald Trump, from her leadership post, a move likely to cement their dependence on the former president in the 2022 elections."

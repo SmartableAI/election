@@ -41,22 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Kamala Harris to keynote first Asian American, Pacific Islander unity summit"
-    excerpt: "Vice President Kamala Harris will keynote the first unity summit for Asian Americans and Pacific Islanders on Wednesday."
-    publishedDateTime: 2021-05-17T18:34:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 72
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/3521621268936/2021/1/dcf14d32301c165911ccb7e179718d61/v1.5/Kamala-Harris-to-keynote-first-Asian-American-Pacific-Islander-unity-summit.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Harris County to lower COVID threat level, KHOU 11 confirms"
     excerpt: "Harris County has spent a majority of this pandemic in the red threat level, but that is expected to change on Tuesday."
     publishedDateTime: 2021-05-18T03:09:00Z
@@ -71,15 +55,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Vice President Harris Remarks at Asian Pacific American Heritage Month Unity Summit"
-    excerpt: "President Harris delivers remarks at the. Vice President Harris delivers remarks at the. Vice President Harris met with members of the Congressional Asian Pacific American Caucus. Vice President Kamala Harris spoke to Democratic lawmakers about the Biden administration’s legislative priorities."
-    publishedDateTime: 2021-05-19T13:14:00Z
-    webUrl: "https://www.c-span.org/video/?511900-1/vice-president-harris-remarks-asian-pacific-american-heritage-month-unity-summit"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 29
 
 secured: "divTC3iJ1JIaSTaRD/rB67WlcjofutlX7xhlbpaJ/tBgfyvrxhAyL8pmOBw/Fn41oLUErzc/7cd8HGNOaxRc0qkO5Bs4af6xcdz67C5uoFTmcIYdpg6FNmxxPIxw5XdvAsAKuIEF0usUhMIqm6aeBxPcd5rE3yvZajRv+pgfNOm4yDT7YScsRwpBBvVOVGZJPkMdnix87VyXk1teXeL0MaGl05hd2yFGPHCoTO0xS8rjICZCqUMhOFa2CTR4IIun+VhRzOmoIpx9l/8h38J7oipggcDSDaJyeuZTC9/bSOfIfV87He/yq2LsEI86PheloSgDcKRIjcLoLzuxoljcKHo+2L89P4MAjoZKF6LH5pw=;nc6ociGKFAt34T6rcHqAWg=="
 ---

@@ -55,31 +55,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Kamala Harris to keynote first Asian American, Pacific Islander unity summit"
-    excerpt: "Vice President Kamala Harris will keynote the first unity summit for Asian Americans and Pacific Islanders on Wednesday."
-    publishedDateTime: 2021-05-17T18:34:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 72
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/3521621268936/2021/1/dcf14d32301c165911ccb7e179718d61/v1.5/Kamala-Harris-to-keynote-first-Asian-American-Pacific-Islander-unity-summit.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Vice President Harris Remarks at Asian Pacific American Heritage Month Unity Summit"
-    excerpt: "President Harris delivers remarks at the. Vice President Harris delivers remarks at the. Vice President Harris met with members of the Congressional Asian Pacific American Caucus. Vice President Kamala Harris spoke to Democratic lawmakers about the Biden administration’s legislative priorities."
-    publishedDateTime: 2021-05-19T13:14:00Z
-    webUrl: "https://www.c-span.org/video/?511900-1/vice-president-harris-remarks-asian-pacific-american-heritage-month-unity-summit"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 29
 
 secured: "71IpZbyv40vmoikocnmbPxgaE51EBBXrGJPJdxTHQVqw6WcOIugreUT68D3FDBo37KtqTExsh9SJ4NtKG4SysbueIt8IZ1tahZDmoa5NmAafcQXjwPnZMyVkJre9tRp9s2FquN5+E0fPRmmUzEAqzYINLrrJSVME+G10JW3X/H7owjvNwk2fS19/VBt4WICkBtpfvizlAO1szUkcxpF8g7QWeFp4E7W78twFgaoaTZpzwf0q5PyUiKd6SDxD3I0LPYkBWNy4oFx4ECjAvN200Dkw6AXQ8I1+ylmQJz2/ePQS9ZT5KD4X+rY5rMeSxj/2JR9Ct0SsRmbW+NP59QReuoUA6wK9Qhgy4qjKKydCIV1yIwjzjgIuX4jD/kMcRe7/AQQ6qDAuQb9LI+kT3iqpWT9SGU2cbe13rkm63cUlEBeHlhpP15C6YuwXow7wfn3A1OnINIMqzAoTcuhF5J1O2hIG0KDUxSRWPY2HKXj2gazC1t63C6YHE/C11wfOEzlEIwobbvj6paUI2CkR1zayFw==;EQBAFIvPOdIQ2IVZXAy2nA=="
 ---

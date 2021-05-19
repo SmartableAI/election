@@ -87,6 +87,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "What we know about investigations looming over Donald Trump, his company"
+    excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
+    publishedDateTime: 2021-05-19T20:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5164284001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5164284001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/01/USAT/95db826e-249c-42a5-b9df-4635d1bce706-AFP_AFP_98Z3QA.jpg?auto=webp&crop=4055,2281,x0,y257&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "‘It’s hard to look at’: Donald Trump makes National Portrait Gallery debut"
     excerpt: "Photo of ex-president will make way for a painted portrait as gallery says Trump’s team is considering artists"
     publishedDateTime: 2021-05-14T19:52:00Z

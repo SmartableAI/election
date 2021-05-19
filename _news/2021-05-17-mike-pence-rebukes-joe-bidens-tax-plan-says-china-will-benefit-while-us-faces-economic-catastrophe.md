@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe-1592167?amp=1"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/08/2ff7afae-77a6-419f-a3e1-1a9c5e039087/thumbnail/1200x630/7158e56014971c41de1a8fe73543f37a/cbsn-fusion-eye-opener-biden-defends-dissapointing-jobs-report-numbers-thumbnail-710791-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "President Joe Biden Returns to White House from Connecticut"
+    excerpt: "US President Joe Biden walks off Marine One on the ellipse at the White House in Washington, DC on Wednesday, May 19, 2021. President Joe Biden traveled to Connecticut for the US Coast Guards 140th commencement."
+    publishedDateTime: 2021-05-19T21:10:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/d1db6c15b39def8fe8bb0eb5b3f4cb87/President-Joe-Biden-Returns-to-White-House-from-Connecticut/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/d1db6c15b39def8fe8bb0eb5b3f4cb87/BIDEN-WHITE-HOUSE.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "P+yc5CfZ9GszXarhEl+opuo4+hdLlUBOdPV1+SxEIQi7gFWPVpUrhAI/ZyfSa4WS5cmzW1CRgPjc9Dbr5198e3mfaYi32n2cOn1rTqU3dJq1yfDIiLX/olNmJxIwwwHZUGgMq/YpJjv3bGirHRjOr7K4WFtftK9n1tTTH3/sFwe5Iz/6dsLe/Ubu2VvuvV4Ttnxz+I8Z1Vd9oGJKXzYoi/DhrNkj+hlqRNpBfWVSn1AcyElFoOS98H7Xfs9raq1bX2392qd8HOJCaaV/JiCLgkL4cBs+CNd5b1wWBEpYW2l91ITC2wTp3HkdsxhRAiKPtOvJQY0Dy9/kpXkOkJtNKMk8idczCYuYImh24Bfg/kw=;1Ch1w61MTB0ZXm4DcVRwYA=="

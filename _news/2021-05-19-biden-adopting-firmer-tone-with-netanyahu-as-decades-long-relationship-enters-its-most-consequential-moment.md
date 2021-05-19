@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/biden-netanyahu-relation
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/biden-netanyahu-relationship/index.html"
 type: article
 quality: 157
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Biden dramatically scales up the pressure on Netanyahu as decades-long relationship faces its most consequential moment"
+    excerpt: "President Joe Biden on Wednesday dramatically escalated his public pressure on Israeli Prime Minister Benjamin Netanyahu to end the fighting with Hamas that has stretched into a 10th day, as their decades-long relationship faces a stern test."
+    publishedDateTime: 2021-05-19T13:46:00Z
+    webUrl: "https://www.cnn.com/2021/05/19/politics/biden-netanyahu-relationship/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/biden-netanyahu-relationship/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/biden-netanyahu-relationship/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 111
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160419131317-biden-netanyahu-march-9-2016-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "8NxHOke0NbFskltUValSEs5spo/TpVb7ous/6l+9CyxkIUSV2DOkRCws12AMXpZTRncDEIInrnkapnyXP/yz0VC/O+ors1zEqvLa2zdPLYlLhOp384YC+xi+uFj7seXd0FSFtDsfEU2u8ySTpl5DGZVAH7rn6pVCsisrYlQABXrzzHqwgnPUH2mmajQSpJZNhAKpUAE++ZT0qJlwDCeMDf0Ike4L0CrNgdAFIjSUPNWx0SQn2gm9XsIziHRL+ck1HsHAAINorBcSGE6CZQqheV20aAiTxbm+xTZT73k9677Y6WWFDGxv8abGhiUMhaU2qkh4Hs8E3908u3KcN9D/uvoWhndppqS5PqI0SCb32+Y=;BEhLiFSJX+jmSe4je+oISQ=="
 ---

@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Fact Check-Air Force Two was at top of plane steps when Kamala Harris boarded"
-    excerpt: "A picture and video which social media users claim show U.S. Vice President Kamala Harris walking up airplane steps with a green screen or no plane at all at the top are circulating on social media, in connection with a baseless conspiracy theory claiming she is not"
-    publishedDateTime: 2021-05-19T07:39:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-harris-af2-idUSL2N2N60YA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N60YA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N60YA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 102
   - title: "Biden and Harris make first maskless appearance: ‘Better days are ahead’"
     excerpt: "\"We'll laugh again. We’ll know joy again,\" President Biden said Thursday. \"We'll smile again — and now, see one another's smile.\""
     publishedDateTime: 2021-05-14T12:11:00Z
