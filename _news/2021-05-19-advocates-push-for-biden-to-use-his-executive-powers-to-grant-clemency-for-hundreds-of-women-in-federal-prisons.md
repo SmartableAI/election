@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden won't rule out a retaliatory cyberattack on group responsible for pipeline hack and says Russia isn't to blame"
-    excerpt: "President Joe Biden said Thursday he does not believe the Russian government was behind a cyberattack that shut down the pipeline supplying gasoline to the eastern US but said Moscow must do more to stop such attacks coming from Russia.\n    \n"
-    publishedDateTime: 2021-05-13T19:06:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YGEkudKnwU4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/cyberattack-russia-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/cyberattack-russia-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 152
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210513132103-02-biden-colonial-pipeline-remarks-0513-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "BQblr4GQ/slQI+qlWTal9ys85I4f3utk+pZoaDdPZX+d62Mp9l91zOniyveLtMpiX0NgH0OjA7A3jp/oUcQICc1ocSK2CP6k69Be5P+tcx5euPKvO3vAW+PGEe+S2hX+CMR7Qo2m4Cpci5TCfiNJd07MSXlJWIR7IFnNP7jehAJNUwc6tVVK4K9Jt7NQy36iZ0GIOBmfq18NJKt0B7lKGFBV+TQhwgmsIN0n1N0c+REi0gKBleWVw6NtUSjS+DbnhRPzZZedLN4o13b7abxML3pOl136GM7AAqMmSUIBytM60GEaLrZOrgZwXVSsJoCnhf3hGH4QcH/jEC2EAMkod+wP5My1CIwlR/VMmEyNCmI=;D7+Y6CdbdKUMqYf8mkNvWg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/analysis-violence-upends-bid
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://i.insider.com/609c3d726a3ce80019e04197?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Rep. Rashida Tlaib presses Joe Biden on Palestinian rights as he faces growing pressure over Mideast"
+    excerpt: "The congresswoman, the only Palestinian American in the US House, said Palestinian rights \"must be protected\" from Israeli attacks."
+    publishedDateTime: 2021-05-19T14:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/19/rashida-tlaib-joe-biden-palestinian-conflict/5163196001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5163196001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5163196001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/18/PDTF/8023ea40-f23a-4cfb-9545-a84b84a747ae-AP21138575195433.jpeg?auto=webp&crop=4316,2428,x0,y219&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden's refusal to criticize Israel killing civilians undermines his pledge to prioritize human rights"
     excerpt: "Critics are pushing Biden break from the tradition of unwavering support for Israel as the death toll in Gaza mounts."

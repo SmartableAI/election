@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Says New York Criminal Probe Is in 'Desperate Search of a Crime'"
+    excerpt: "Former President Donald Trump on Wednesday attacked New York state's attorney general for launching a criminal probe of his family business, saying he was \"being unfairly attacked and abused.\" \"There is nothing more corrupt than an investigation that is in desperate search of a crime,"
+    publishedDateTime: 2021-05-19T16:49:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-19/trump-says-new-york-criminal-probe-is-in-desperate-search-of-a-crime"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
   - title: "NY Attorney General Investigating Trump Organization In 'Criminal Capacity'"
     excerpt: "The Trump Organization is being investigated in a \"criminal capacity\" by the New York state attorney general's office, a spokesman said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."
     publishedDateTime: 2021-05-19T03:44:00Z

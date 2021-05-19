@@ -220,6 +220,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden is putting ‘America last’ by shutting down pipelines: Sen. Cotton"
+    excerpt: "Ark., told “The Faulkner Focus” Wednesday that President Biden is putting “America last” after he halted the Keystone pipeline, and gave the approval for a controversial gas pipeline to run from Russia to Germany."
+    publishedDateTime: 2021-05-19T17:02:00Z
+    webUrl: "https://www.foxnews.com/media/tom-cotton-on-the-faulkner-focus-biden-is-putting-america-last-by-shutting-down-pipelines"
+    ampWebUrl: "https://www.foxnews.com/media/tom-cotton-on-the-faulkner-focus-biden-is-putting-america-last-by-shutting-down-pipelines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tom-cotton-on-the-faulkner-focus-biden-is-putting-america-last-by-shutting-down-pipelines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden Sets Everything on Fire"
     excerpt: "Joe Biden is the luckiest man to ever assume the presidency. He succeeded an unpopular figure. He was inaugurated just two weeks after the dramatic storming"
     publishedDateTime: 2021-05-12T10:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/biden-ford-test-drive/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/biden-ford-test-drive/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static.politico.com/d4/14/f5c24f44464da23be9b92104fb44/ap21077843047710-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Ford reveals new electric F-150 Lightning pickup during Biden's visit to Michigan plant"
+    excerpt: "The highly anticipated vehicle resembles the automaker’s current F-150 but has some unique exterior styling details."
+    publishedDateTime: 2021-05-19T13:56:00Z
+    webUrl: "https://www.nbcnews.com/business/autos/ford-reveals-new-electric-f-150-lightning-pickup-during-biden-n1267904?via=indexdotco"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1267904"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1267904"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_20/3475988/210519-joe-biden-ford-f150-jm-0848_b5550c89172a3a9195342fcfa5ab57fa.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "Z1KBs7MXXdTu71C5UxoUCYadTGLq1wfslt4BkLUR55psH+cAVE0+B20VsJLZg6lSkRlw0NCJjN+VAon9roi3856yr5K7cnF60sEI7NszVrPJjkro3ZcnAyM0CQFRbhVPsGcNC1kiddvvRx1ZimY8w1YHjg49FZncTaaVUWRLENQY5zs1woDpeZo3bb167x8REQKODls3jxxO/izT2xgRP5gzQQnKoOjg9QmEs+BPaJtKVAwJ/vFyYUGG8APAIo5iLX33KxsHK81X9+Ri94MnGoBGnBeTA4FBLHurZpPcjZswTTE90xj6/bHXF8H1fYR9Evho1sjh9H8KxPIjMqDa8QijhWWOzvRl2Z8bnR17Wlc=;pf7C0WDo/eEHO7jreENrxQ=="

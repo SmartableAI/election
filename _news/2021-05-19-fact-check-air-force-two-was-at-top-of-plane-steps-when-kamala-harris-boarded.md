@@ -3,8 +3,8 @@ category: news
 title: "Fact Check-Air Force Two was at top of plane steps when Kamala Harris boarded"
 excerpt: "A picture and video which social media users claim show U.S. Vice President Kamala Harris walking up airplane steps with a green screen or no plane at all at the top are circulating on social media, in connection with a baseless conspiracy theory claiming she is not"
 publishedDateTime: 2021-05-19T07:39:00Z
-originalUrl: "https://www.reuters.com/article/factcheck-harris-af2/fact-check-air-force-two-was-at-top-of-plane-steps-when-kamala-harris-boarded-idUSL2N2N60YA"
-webUrl: "https://www.reuters.com/article/factcheck-harris-af2/fact-check-air-force-two-was-at-top-of-plane-steps-when-kamala-harris-boarded-idUSL2N2N60YA"
+originalUrl: "https://www.reuters.com/article/factcheck-harris-af2-idUSL2N2N60YA"
+webUrl: "https://www.reuters.com/article/factcheck-harris-af2-idUSL2N2N60YA"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N60YA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N60YA"
 type: article
@@ -74,6 +74,6 @@ related:
         height: 720
         isCached: true
 
-secured: "1oSJS2W2aL//E+Lk3jk4kLY7hzFWoSopadFTceT7cpBxI1FDFca/3WU05khavKDeabArjmW/VV6ZKTPi8ku4s2K7j924BuI/t1zqizWAXghDErz69n1rEeRMMcS8UzvL6W98M5RdMfg282kWWQk9Un7MQwg52MJiFsWjEDjJ97ABPU4XJA9rM5O/iJCSvi8u0mDmg2FtM4aDPYZJrDroNOVqka8dHf4df5VvEsM4RatEEKLaDhgswwAwKN8ujYz5Wd+xs40x/6jOsMrCLgK+tscwik/lbtQW0QHhOd7/IkaaLzjig61LryWKO/ENFOUvddNBOT5Kq2E4MQxBYVMPMdq4ifYEt49Sb/8XZ4xoklQ=;XYbTLY5GX7PATfHcYSt04Q=="
+secured: "S6M/3pENvAB9H9SEuEgj+I4al24coZ/bRgfDtiTk/mlTdvvaeEzXDQs3gsF4rGI368mXP0MD9gRWy5jXuCHNS7yWpyz/iLwK9AsvQ0dbqjnISX+y527RvTeMJEra5IoBe5UEBDV6xA+XOsXSkEboGW5c1CHCKid5BbT/aP8MSgsBcAskX+fRazsCieovaU2XHAEaaI3y+ZYa6CuWMjgd8kA5XqY9QT0c+iP8+Fgglk08l9DS1rPgovVugEma53cGY6HInN9+dIqjmCiTC9enHCxuoFRnW2L3hqUQ7SjwAwSvXaURV5hnYUbwuoq7TLUDx1WZ4HqxOdj3MUBLDGmS1T4f+dmg4y8A9JSprDo3+4M=;3Pv3UjIx8j1JYwjzej6aMg=="
 ---
 

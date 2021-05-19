@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Chris Christie says Trump not a factor in potential 2024 presidential run"
+    excerpt: "Former New Jersey Gov. Chris Christie revealed he will not be deferring to former President Donald Trump in his consideration of whether to run for president in 2024."
+    publishedDateTime: 2021-05-19T16:21:00Z
+    webUrl: "https://nypost.com/2021/05/19/christie-says-trump-not-a-factor-in-potential-2024-presidential-run/"
+    ampWebUrl: "https://nypost.com/2021/05/19/christie-says-trump-not-a-factor-in-potential-2024-presidential-run/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/christie-says-trump-not-a-factor-in-potential-2024-presidential-run/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/haley-christie-trump2024-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump leaves Florida for summer in New Jersey after Mother’s Day brunch: report"
     excerpt: "Former President Donald Trump spent Mother’s Day having brunch with wife Melania and son Barron, before jetting out to spend the summer in New Jersey, according to a report."
     publishedDateTime: 2021-05-10T11:38:00Z

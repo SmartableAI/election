@@ -46,6 +46,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Kamala Harris keeps assets in tax-advantaged trust, appearing to violate own ethics pledge"
+    excerpt: "Vice President Kamala Harris keeps assets in a tax-advantaged family trust, a move that appears to violate an ethics pledge she and President Biden made on the campaign trail."
+    publishedDateTime: 2021-05-19T16:51:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5QOurbf2wEI/kamala-harris-financial-disclosure-assets-trust-ethics-pledge"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-financial-disclosure-assets-trust-ethics-pledge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de3a1e91-b0da-44c6-9238-915f4385cf4b/6d6c657b-0a98-4c5d-b6af-d33cd0ebeecc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Controversial billboard calls Biden, Harris ‘s–theads’ in Maryland"
     excerpt: "The sign on Route 4 in Huntingtown shows cartoon faces of the smiling commander-in-chief Joe Biden and his number two stuck on top of large emoji-style drawings of poop."
     publishedDateTime: 2021-05-12T14:52:00Z

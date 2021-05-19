@@ -310,6 +310,15 @@ related:
       name: Politifact
       domain: politifact.com
     quality: 44
+  - title: "Mexico Says Investment and Security to Be Discussed During Kamala Harris Trip"
+    excerpt: "Mexico's Foreign Minister Marcelo Ebrard on Wednesday said investment, security and supply chains are set to be discussed during a visit by U.S. Vice President Kamala Harris to Mexico on June 8. Harris,"
+    publishedDateTime: 2021-05-19T17:29:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-05-19/mexico-says-investment-and-security-to-be-discussed-during-kamala-harris-trip"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 32
   - title: "Vice President Kamala Harris to talk American Jobs Plan in NC | Raleigh News & Observer"
     excerpt: "Vice President Kamala Harris will be pitching the administration’s infrastructure package during two stops in North Carolina. Here’s where she’ll be."
     publishedDateTime: 2021-04-14T22:12:00Z

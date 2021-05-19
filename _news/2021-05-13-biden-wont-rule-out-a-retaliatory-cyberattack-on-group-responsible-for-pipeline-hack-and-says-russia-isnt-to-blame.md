@@ -31,35 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden signs cybersecurity executive order, though rules wouldn't have applied to Colonial Pipeline"
-    excerpt: "President Joe Biden signed an executive order Wednesday meant to better protect the nation from cyberattacks, but even as he signed it, the White House acknowledged more will need to be done to prevent the type of hack that affected the Colonial Pipeline.\n    \n"
-    publishedDateTime: 2021-05-12T22:51:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/12gzgGnLCC0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html"
+  - title: "Biden singles out competition with Russia and China in Coast Guard commencement"
+    excerpt: "President Joe Biden singled out competition with Russia and China as part of his vision for the military branch's role in national security as he addressed the United States Coast Guard Academy's 2021 graduating class on Wednesday.\n    \n"
+    publishedDateTime: 2021-05-19T17:34:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ywvMGsPQCUQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/joe-biden-coast-guard-graduation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/joe-biden-coast-guard-graduation/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 161
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512155902-04-pipeline-hack-fallout-0512-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519125112-01-biden-coast-guard-commencement-0519-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Advocates push for Biden to use his executive powers to grant clemency for hundreds of women in federal prisons "
-    excerpt: "Miquelle West was 10 when she learned the harsh realities about the criminal justice system as her mother was handed two life sentences plus 50 years in a federal lockup for a conspiracy drugs case that was connected to a murder.\n    \n"
-    publishedDateTime: 2021-05-19T12:02:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f7kHzuyDl9E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/biden-clemency-advocates-push-women-federal-prisons/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/biden-clemency-advocates-push-women-federal-prisons/index.html"
+  - title: "Blinken and Lavrov to hold first high-level meeting of Biden's presidency as US-Russia tensions simmer"
+    excerpt: "US Secretary of State Antony Blinken is set to meet Russian Foreign Minister Sergey Lavrov Wednesday, the first high-level encounter between the US and Russia since President Joe Biden took office that comes amid heightened tensions between the former Cold War foes.\n    \n"
+    publishedDateTime: 2021-05-19T17:26:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4N1jyX42c4g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/blinken-lavrov-us-russia-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/blinken-lavrov-us-russia-meeting/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 154
+    quality: 159
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517133914-01-pressley-advocates-clemency-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512132815-tony-blinken-sergey-lavrov-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

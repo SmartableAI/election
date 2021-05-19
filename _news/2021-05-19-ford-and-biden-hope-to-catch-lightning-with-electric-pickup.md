@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ford reveals new electric F-150 Lightning pickup during Biden's visit to Michigan plant"
+    excerpt: "The highly anticipated vehicle resembles the automaker’s current F-150 but has some unique exterior styling details."
+    publishedDateTime: 2021-05-19T13:56:00Z
+    webUrl: "https://www.nbcnews.com/business/autos/ford-reveals-new-electric-f-150-lightning-pickup-during-biden-n1267904?via=indexdotco"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1267904"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1267904"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_20/3475988/210519-joe-biden-ford-f150-jm-0848_b5550c89172a3a9195342fcfa5ab57fa.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "2fJKh/W9Z83dS96caJszYLWHKLo10Mlu7RH574ZerjP3KP7eFvqMfXTrzN+vC4+T4G7zCz266BZyhG5YhAUBc053NnLMjiRWVNGCiErwoSkO6CNVQZ4vAojQH3IH+tY0P75h7vQORwUmT2SVjdBJWnieqj7PstOYwFqwR2xSj7krXb13gNAqE8E2CGpmGRdbRhxODRTP6BwhxhSJZun7B6mUrVFuMdOBHCPlj4FeUlWpu4EcEWGw+PS3LnXymWtLkn+AgiVtppC2NohRkaVzKDClRXo4MIt4GgQvmR0r9M20M5NeMTyLcsSWOCTNszEdj0ey76DS4cEHk1eiUL98dYFuixhdvsKQjkWba4x62El5BrRHrZnJsIiS62bapBRJAxhgnJyobjH6sr+7c0FbjUl051EnbfZk3oflUzTuiONBveiyHLWjGw7Cd+e5eIb06nwGbtL2rXinPgaBLdElo2zQJ+JsLMC5/MgcjNBFCWQ+/Oype7bkdTRLgllJ8tSVB06EbH+7AU07AoACIFFAXg==;DJs56B2PboAjPNcL5GpZ4g=="
 ---
