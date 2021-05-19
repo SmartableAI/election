@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Second Gentleman Doug Emhoff, Vice President Kamala Harris’ husband, will visit Annapolis"
-excerpt: "The Second Gentleman, husband to Vice President Kamala Harris, will visit Annapolis on Tuesday for a private event."
-publishedDateTime: 2021-05-17T17:57:00Z
-originalUrl: "https://www.baltimoresun.com/maryland/anne-arundel/annapolis/ac-cn-second-gentleman-annapolis-emhoff-20210517-ibjhg4urzjasvgz2j7wzjg3wxy-story.html"
-webUrl: "https://www.baltimoresun.com/maryland/anne-arundel/annapolis/ac-cn-second-gentleman-annapolis-emhoff-20210517-ibjhg4urzjasvgz2j7wzjg3wxy-story.html"
+title: "Four Annapolis restaurant owners discuss surviving COVID-19 with Doug Emhoff, husband of Vice President Kamala Harris"
+excerpt: "Four Annapolis restaurant owners who overcame hurdles to remain open during the COVID-19 pandemic met this morning with Doug Emhoff, husband of Vice President Kamala Harris."
+publishedDateTime: 2021-05-18T17:32:00Z
+originalUrl: "https://www.capitalgazette.com/politics/ac-cn-first-gentleman-doug-emhoff-annapolis-2021519-20210518-m6yrtr7f6fclpla3e6inigzlsa-story.html"
+webUrl: "https://www.capitalgazette.com/politics/ac-cn-first-gentleman-doug-emhoff-annapolis-2021519-20210518-m6yrtr7f6fclpla3e6inigzlsa-story.html"
 type: article
-quality: 46
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Capital Gazette
+  domain: capitalgazette.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/2P5djc22oIeUjgMRmey_NeqYjYo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GCTLKRCPAJA3PKG3XL5WUTAHFM.jpg"
+  - url: "https://www.capitalgazette.com/resizer/21BvP69TRnSjuFfK_H94YpNY2uE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2PQSVIT265HIVDWLZBYS6TN25E.jpg"
     width: 1200
-    height: 835
+    height: 684
     isCached: true
 
 related:
@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Second Gentleman Doug Emhoff, Vice President Kamala Harris’ husband, will visit Annapolis"
+    excerpt: "The Second Gentleman, husband to Vice President Kamala Harris, will visit Annapolis on Tuesday for a private event."
+    publishedDateTime: 2021-05-17T17:57:00Z
+    webUrl: "https://www.baltimoresun.com/maryland/anne-arundel/annapolis/ac-cn-second-gentleman-annapolis-emhoff-20210517-ibjhg4urzjasvgz2j7wzjg3wxy-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 46
+    images:
+      - url: "https://www.baltimoresun.com/resizer/2P5djc22oIeUjgMRmey_NeqYjYo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GCTLKRCPAJA3PKG3XL5WUTAHFM.jpg"
+        width: 1200
+        height: 835
+        isCached: true
   - title: "Doug Emhoff, husband of Vice President Kamala Harris, to hear about COVID-19 business challenges in Annapolis"
     excerpt: "Doug Emhoff, husband of Vice President Kamala Harris, is scheduled to visit Annapolis this morning, taking part in a discussion with business owners about the challenges posed by the COVID-19 pandemic."
     publishedDateTime: 2021-05-18T13:09:00Z
@@ -71,21 +85,7 @@ related:
         width: 1200
         height: 912
         isCached: true
-  - title: "Four Annapolis restaurant owners discuss surviving COVID-19 with Doug Emhoff, husband of Vice President Kamala Harris"
-    excerpt: "Four Annapolis restaurant owners who overcame hurdles to remain open during the COVID-19 pandemic met this morning with Doug Emhoff, husband of Vice President Kamala Harris."
-    publishedDateTime: 2021-05-18T17:32:00Z
-    webUrl: "https://www.capitalgazette.com/politics/ac-cn-first-gentleman-doug-emhoff-annapolis-2021519-20210518-m6yrtr7f6fclpla3e6inigzlsa-story.html"
-    type: article
-    provider:
-      name: Capital Gazette
-      domain: capitalgazette.com
-    quality: 32
-    images:
-      - url: "https://www.capitalgazette.com/resizer/21BvP69TRnSjuFfK_H94YpNY2uE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2PQSVIT265HIVDWLZBYS6TN25E.jpg"
-        width: 1200
-        height: 684
-        isCached: true
 
-secured: "rrqir+l74X26ZLb984Lb7TXkEMXhP+B9QrSrbbxlP/7kmjvmxCjBbSDaUbvoMgUC4UfJf6dH/aCx35tRhAXCsJoY1obS7UklTxCWi8bQrrPQt5AfnhvytjquzkwR6HlkR0m/BsDZkJpd3/oA26OAvWCDrHpG4IBS3n6o8T4o1aqtiHOP1flWpkvF1SNT9GKRBm4ObeFyHALqiUB4uKDEdVTr7QmMikxk+3/wE87V5arbP3HQz9e57CKU/vbM3QhU2Ya6/EXpapKhe05+cN49SeuS4UNkTk/7BZSBZzqScuQwQU9PL5zwybQ5nfU3lbBRuHNeL1TpagPr1//JlIMWaOKcSk4DkFlkwQzARQWEmjy6o2oa1K/EZg0TmWzHm0cVQb2NWIz+u1QFSC+YAwhB0N/40RU78c+LDwJXjTY/xx6t/KBF+9lu5CIlRQvXYHi0GdDizSZgZkTRz0wQm5WNE7MOAftSkFVU/dw74ZlgRApVLLR9UbP9EUJ+saw92vM7IxmsTpD2oRm6KzenHRIl8w==;jO3GNAKH/uU/NhIIgstFVw=="
+secured: "++XRglUbK5ZRupF4dLazi+zhE8YdcwpfgXY9Xc2U8mpQu8+vkrf2YxC/p+Mh1Z+zg7soCvaM0Mmn5HJx3t+LHHVztq2hr35F4rXzBPsPOJRlFkfIvEHIlSpVEHnk16lN8dk3/TR6cuSbRESDFmManQKcuKStc5ZjQkGc3R0vqsvzk9KwUrYsZz86MDsKiXu5rpGKda0J4/cjPuA2TLgAIo8NvbAHa+3VojHj3DF80rEx3zi+5hLwAjvL+o/xFRQ0G6UKN2ea9mD91mESK+1LCazGI3NRo4b6FcU4CMIh3ehG6XXX+S+gV5abhtV3ZCPzU905omImlNpq608N5UWaNOoOj3EPgP9U+ppGewVZwkU=;oSrbx2ZIfYRE76b5wu9y7g=="
 ---
 

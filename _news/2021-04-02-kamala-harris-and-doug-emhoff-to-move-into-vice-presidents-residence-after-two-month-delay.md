@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-and-doug-emhoff-to-mo
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-and-doug-emhoff-to-move-into-vice-presidents-residence-after-two-month-delay/"
 type: article
 quality: 115
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://www.baltimoresun.com/resizer/9lyfGx44ZvwRJSCF67RSyIB21T4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YSWZSXXSWZDH7OIVZTP3MPDCSA.jpg"
         width: 1200
         height: 912
+        isCached: true
+  - title: "Four Annapolis restaurant owners discuss surviving COVID-19 with Doug Emhoff, husband of Vice President Kamala Harris"
+    excerpt: "Four Annapolis restaurant owners who overcame hurdles to remain open during the COVID-19 pandemic met this morning with Doug Emhoff, husband of Vice President Kamala Harris."
+    publishedDateTime: 2021-05-18T17:32:00Z
+    webUrl: "https://www.capitalgazette.com/politics/ac-cn-first-gentleman-doug-emhoff-annapolis-2021519-20210518-m6yrtr7f6fclpla3e6inigzlsa-story.html"
+    type: article
+    provider:
+      name: Capital Gazette
+      domain: capitalgazette.com
+    quality: 32
+    images:
+      - url: "https://www.capitalgazette.com/resizer/21BvP69TRnSjuFfK_H94YpNY2uE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2PQSVIT265HIVDWLZBYS6TN25E.jpg"
+        width: 1200
+        height: 684
         isCached: true
 
 secured: "9HVRrXZNGTa/pYFEMBfcHM63s3ljHWIasIbBXy3y3WE0+bIp+e6MRhpUa/fx46KBazVsktc1MDuebeJaIEVJ61pPcvMrt6rqHAeXqAMZSkoH7N/cKExfGwtz49Bvmv/ih8xcE+rlwWpttYTCBFenVyNuSR2P5Ung0gbgWjkgYYQPGjrUDHI9wOJYOwgRO6Z4V+sn72JRPwrfCoxB/x/UUezGXeH//GjUV3wdRPITLivTvdP1Gt+B1x+Own4YYEV5syL7NWXSMvv7XsWGAjhieMPYkgjCkUm2fS01ne/WzbvnIumBSnbWUHDVoal5KkQ3mkDN03LqxHJbPdbXSv8NwRLQ1zEYlymVP1eKgxgiLmnna7ps+D6hNQuX2FUP/ZwXzuJOfqRrrq9l7MWwkuwwx/Jr4DMKNa5yoPcMOkZaTKkxOmtdYyw3g0sbqbjeRuGBjBOqBJqi/o9omSvlhBnMfRW8KDIZNolyEqBT+NbTL3tKIgJz1TtcECSqOZTLdICAgo7afvBEFjPOkF+lQyFrQQ==;ZJmbH4S+77FczVN4cU0dEw=="

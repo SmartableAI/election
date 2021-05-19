@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Families separated by Trump receive therapy, but funds could dry up soon"
-excerpt: "After Trump separated children from their families, they've gotten crucial therapy, paid for by the government. But the future of those services is up in the air."
-publishedDateTime: 2021-05-14T13:00:00Z
-originalUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon"
-webUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon"
-ampWebUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon?_amp=true"
+title: "QAnon Shaman's Lawyer Gives Bold Response About Capitol Rioters And Donald Trump's Role"
+excerpt: "Trump may not be facing trial, but that hasn't stopped Capitol rioters from trying to make him part of their defense."
+publishedDateTime: 2021-05-18T22:08:00Z
+originalUrl: "https://www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112"
+webUrl: "https://www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112"
+ampWebUrl: "https://www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112?amp=1"
 type: article
-quality: 124
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/6a9b291/2147483647/strip/true/crop/4200x2743+0+139/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7a%2F7d%2F7f45f2a44b5aa994549b331daf6d%2Fsd-photos-1staff-766522-sd-me-family-renunification-ncc-017.jpg"
-    width: 320
-    height: 209
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/22/supporters-of-donald-trump-including-far-right-extremists.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Families separated by Trump receive therapy, but funds could dry up soon"
+    excerpt: "After Trump separated children from their families, they've gotten crucial therapy, paid for by the government. But the future of those services is up in the air."
+    publishedDateTime: 2021-05-14T13:00:00Z
+    webUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon"
+    ampWebUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6a9b291/2147483647/strip/true/crop/4200x2743+0+139/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7a%2F7d%2F7f45f2a44b5aa994549b331daf6d%2Fsd-photos-1staff-766522-sd-me-family-renunification-ncc-017.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "‘It’s hard to look at’: Donald Trump makes National Portrait Gallery debut"
     excerpt: "Photo of ex-president will make way for a painted portrait as gallery says Trump’s team is considering artists"
     publishedDateTime: 2021-05-14T19:52:00Z
@@ -95,23 +111,7 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "QAnon Shaman's Lawyer Gives Bold Response About Capitol Rioters And Donald Trump's Role"
-    excerpt: "Trump may not be facing trial, but that hasn't stopped Capitol rioters from trying to make him part of their defense."
-    publishedDateTime: 2021-05-18T22:08:00Z
-    webUrl: "https://www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112"
-    ampWebUrl: "https://www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/22/supporters-of-donald-trump-including-far-right-extremists.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
-secured: "B8caYhuOdaOUVWcOAG/4j0+irbGI+pcVBvGxy/8SK/IXAXtPy2kS6xmwvpHStQFolV2T5EPhS6brQDPYB+ULgrQwcUyYR2Et4TAqNCRTcTvmFkVM+dnw3MCNXSWxXW/Oc9pCQMsG8Mp+Ua6f1oCRsLh/oqP9KAEdBXZJmRF60Fi/oeS1oRBoVKLg9F+dzJ63ih6jJMcUMwaOiyl8yK2vuEKCeK3s8ljmqbH+9pieHlwh5z7/BFRmW5BEGzGIRRc8dxXJts5xW2/ar9FztRivBskc+9Omz4SFx1kEMrR54LhVZPhSlUVKVppD1kRKhSfW4WLPABrXKRCnUoe+jhnd3T7H5rNemSlhp5GrJJOkYsw=;ywPd2PptT0zSoPZI8HhMKA=="
+secured: "1zUpxtrdmkpcyP+3/Cy1izPfVhjvyw4dLf7AdJ6hJ7Hcm+ZcAnWot2/h05T9i5ViYAEVXtPWdas0IVfEtr1Tft0i44a2pwbtvS022mDBfbja7ALhiRViL32EWoA2hiKj/EsQtuBFsyxyKgYsd258eQ3l/eraHCpAO1kKc3QUnFu5eCNjofo1WwgpZIhtj0z0j6oUFKOqXWh6dMQkC2W8+PLpt8SK4xLeKaW/W6t6nC/7ImrYmBxDaBMi6VCpjFnj5R8FtyGy2rK6hxn7Qot/fbARm5pYn3RVUU9VqRaEbp9E9hRUaq1vA5IAKZ6aOB1LjZcwETaiZGD4+y+Qhp9l+LZukj3I9waQZugek21TgHU=;Eru9Qm1JR+FSd+nGfJVqcg=="
 ---
 

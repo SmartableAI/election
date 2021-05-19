@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration decides not to sanction company building controversial Russian gas pipeline"
+    excerpt: "The Biden administration has decided against sanctioning the company in charge of building Russia's Nord Stream 2 gas pipeline, despite strongly opposing the project, according to two sources familiar with the decision, signaling that it is prioritizing unity with allies over concerns about a potential"
+    publishedDateTime: 2021-05-18T23:02:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xFiC7rRsdnM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/us-nord-stream-decision/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/us-nord-stream-decision/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518140311-02-biden-speaks-ford-michigan-0518-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden sets goal of administering at least one Covid-19 vaccine shot to 70% of US adult population by July 4"
     excerpt: "President Joe Biden on Tuesday will set a new goal of administering at least one Covid-19 vaccine dose to 70% of the US adult population and having 160 million US adults fully vaccinated by July 4, according to senior administration officials.\n    \n"
     publishedDateTime: 2021-05-04T19:33:21Z

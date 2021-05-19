@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 835
         isCached: true
+  - title: "Four Annapolis restaurant owners discuss surviving COVID-19 with Doug Emhoff, husband of Vice President Kamala Harris"
+    excerpt: "Four Annapolis restaurant owners who overcame hurdles to remain open during the COVID-19 pandemic met this morning with Doug Emhoff, husband of Vice President Kamala Harris."
+    publishedDateTime: 2021-05-18T17:32:00Z
+    webUrl: "https://www.capitalgazette.com/politics/ac-cn-first-gentleman-doug-emhoff-annapolis-2021519-20210518-m6yrtr7f6fclpla3e6inigzlsa-story.html"
+    type: article
+    provider:
+      name: Capital Gazette
+      domain: capitalgazette.com
+    quality: 32
+    images:
+      - url: "https://www.capitalgazette.com/resizer/21BvP69TRnSjuFfK_H94YpNY2uE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2PQSVIT265HIVDWLZBYS6TN25E.jpg"
+        width: 1200
+        height: 684
+        isCached: true
 
 secured: "298hh04Qr+jKpiAlqpvCl9mYoJDb/5lJ99AMbv7tKPHECpCK9VDCcFaH36aJPVg0x9CK8pcA5QXd+6vs6Z1dmCJcV0spn+pyDEoSfTQem2/AHLQ0SvggOdWJ9k8+RDMjMyXdiaaoWAdT4yOoi4n5a/3aB7aFnFvsTe0tlviYSLoksTY186w3kJUkFaY4uQnGUfxDmCIl/Q/5Dl5JQ69KtEd34Tn91IneUMjGjYcSnFrw/svyEVLWXzlHr+VOYRf0c03JwN3mE1Qe2zwv+ntum0jmBaYexYCuMdVXLKLRnYXunj5xoAxr7UQkbCMmhy2JHZjFSBIusaPcR6tSBR9CY6XCs/dsRjxfUJLtqoiy06n211JqS2LzAfvE1qqFzRKnAeRkdDUO0KxEGwxWVlss120kpzX2r37aeaaglwTL2nrqm33JWQZbzXG/NnZrVm450nysO/km7181i07IFoh0lls/E9O9SDavWhZfO57gy5+snXXSLO7/ZYJAp/AVlCfvQ0saVsncU2I+OcvamiXppA==;QFNr3y5y4tbsleflT+viAg=="
 ---

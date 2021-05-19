@@ -2,6 +2,120 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-19-chris-christie-swipes-nikki-haley-for-deferring-to-trump-on-potential-2024-run-shows-weakness-indecision.md",
+      "title": "Chris Christie swipes Nikki Haley for 'deferring' to Trump on potential 2024 run: Shows 'weakness, indecision'",
+      "excerpt": "Former New Jersey Gov. Chris Christie threw some shade at former South Carolina Gov. Nikki Haley over remarks she made about whether or not she would run for president in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/chris-christie-swipes-nikki-haley-for-deferring-to-trump-on-potential-2024-run-shows-weakness-indecision",
+      "originalUrl": "https://www.foxnews.com/media/chris-christie-swipes-nikki-haley-for-deferring-to-trump-on-potential-2024-run-shows-weakness-indecision",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec50d5fb-ef64-4c10-a47d-e1a954f8453e/025046de-9eca-423e-b9d0-7ef3f417a701/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/chris-christie-swipes-nikki-haley-for-deferring-to-trump-on-potential-2024-run-shows-weakness-indecision.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/chris-christie-swipes-nikki-haley-for-deferring-to-trump-on-potential-2024-run-shows-weakness-indecision.amp",
+      "publishedDateTime": "2021-05-18T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-a-michigan-judge-dismissed-one-of-the-last-remaining-lawsuits-by-trump-supporters-challenging-the-2020-election.md",
+      "title": "A Michigan judge dismissed one of the last remaining lawsuits by Trump supporters challenging the 2020 election.",
+      "excerpt": "The plaintiffs never cited any specific evidence that the results from voting machines used in Antrim County had been hacked or were fraudulent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/05/18/us/michigan-voting-lawsuit-trump.html",
+      "originalUrl": "https://www.nytimes.com/2021/05/18/us/michigan-voting-lawsuit-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/05/18/us/politics/18new-washington-briefing-antrim1/18new-washington-briefing-antrim1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/05/18/us/michigan-voting-lawsuit-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/18/us/michigan-voting-lawsuit-trump.amp.html",
+      "publishedDateTime": "2021-05-18T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-val-demings-prosecutor-in-trumps-first-impeachment-trial-challenging-marco-rubio-for-senate-in-florida.md",
       "title": "Val Demings, Prosecutor in Trump's First Impeachment Trial, Challenging Marco Rubio for Senate in Florida",
       "excerpt": "Demings competing against Rubio as a Democrat could decide the control of the Senate. She previously considered campaigning for governor.",
@@ -1006,7 +1120,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/epa-revokes-trump-era-policy-loosened-clean-air-77667886",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1456,110 +1570,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-trump-family-members-got-inappropriately-close-to-secret-service-agents-book-claims.md",
-      "title": "Trump family members got ‘inappropriately close’ to Secret Service agents, book claims",
-      "excerpt": "Concerns over bonds involving Trump’s then daughter in-law Vanessa and daughter Tiffany revealed in Zero Fail by Carol Leonnig",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/11561139299edbc7f8d3970677ad92cbae9c2a7c/0_1_3914_2349/master/3914.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=edbad52088432403c9d2d0b917585123",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/11/trump-family-members-secret-service",
-      "publishedDateTime": "2021-05-11T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-british-elections-send-a-message-to-trump-gop-and-bidens-democrats.md",
-      "title": "British elections send a message to Trump, GOP and Biden’s Democrats",
-      "excerpt": "If Donald Trump were at all self-reflective, he would probably be kicking himself right now as he surveys the results of last week’s British elections. Through his own mistakes and obstinance in his handling of the coronavirus pandemic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WSYQ6HFR7QI6XECZ3ALWXHRXTA.jpg&w=1440",
-          "width": 1440,
-          "height": 934,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-11T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

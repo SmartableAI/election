@@ -95,6 +95,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "QAnon Shaman's Lawyer Gives Bold Response About Capitol Rioters And Donald Trump's Role"
+    excerpt: "Trump may not be facing trial, but that hasn't stopped Capitol rioters from trying to make him part of their defense."
+    publishedDateTime: 2021-05-18T22:08:00Z
+    webUrl: "https://www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112"
+    ampWebUrl: "https://www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/22/supporters-of-donald-trump-including-far-right-extremists.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "swiwoKrQKWwOgnSmErhEGKxOpBpv77oTKWgGw4VgbCGyJuA40vRnqluyvm1yLVsU81ZZ7LwV6Fg0pLIbhBGPYnvjjsXCW0Zbyih3/G2/Lr5E5q9pz1CDRxvNU6NUvFagPpNKO55g3fJ9FmAzRs+uHuFWlwpEz3Fes8yXRgq2FyMqRJhh4T5HHqbcYR5V2SBuFoIv4jDAya8XyCReLUFUWpzfXjDhfBfixzbl4agfWwRj6lGToRGIpIj0ztVXGCSYuDIHc29Zjv9tNQHMEivRKGjiykMNk+8gWhuzXXHu9N9eXieut6pW6yS3IFr+5h2yha0PcFenzQog5ZiGgWs8IO+lPQ9zZBOyHCRoUVzFXKOjc3ebUuw70VteQkRefta0sKbyhm2eFEb5v6yLivOIHD4CMW/xF20e6cno8XuD0J7Eo0rSsc16sZHgvtoYpIv9IHVWLu3dbylova0KbLSOOGYvvCULclB+nQ16iJpApVd4L0W8IAGCGq/rFuDEmwZ5BVTsptAjKhmIF96BPwxsiw==;Q/UunfzudoTA3v6fKB2vlA=="
 ---
