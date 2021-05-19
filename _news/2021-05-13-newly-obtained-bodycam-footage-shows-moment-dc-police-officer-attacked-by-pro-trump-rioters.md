@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New York AG's office opens criminal probe into Trump Organization"
+    excerpt: "Whether the president's business had inflated the value of its assets for the purposes of tax breaks and loans has reportedly been the key issue."
+    publishedDateTime: 2021-05-19T05:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/new-york-ag-s-offic-opens-criminal-probe-trump-organization-n1267887"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1267887"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1267887"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2019_25/2901486/190618-donald-trump-elevator-2017-ac-623p_673d0f591c1011a9c6aa65cb4c870aa5.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "si149aMr1cP+iShoLqbd62rbOO0JgwfqDBoIjtsqaUbEmyrZptwwKP3FSHDQ6vOuiBcAONF8sWXCcb93IIAjawkvFZQL3sQYBD97X1Hk1aW/pv3Qi8AmLAOAnlAsaDOd0F7di2MFot6EKWtQ5kgFHqh8s9Hb3R9Jg9wn3ECbRxuvRDC539PbWHz1fMNJf5oXN/s8uyrzzk5YFj4syOOBZrfoO+33yReU4+MC+9N7H78lxcnDRk7VfYCwGN0ihKAeqENSkwTF+KaNVrv8deEE3yrBkx4R/ED8jliQiP1eB3qX4e8h35igzx4ilm6osC2Ml80G5QuF9p/7AuIdNtq+Sj8BNOjqPEMGB9ucYs1PrtI=;NRn1QLP5DeL/6TkTzXixOA=="
 ---

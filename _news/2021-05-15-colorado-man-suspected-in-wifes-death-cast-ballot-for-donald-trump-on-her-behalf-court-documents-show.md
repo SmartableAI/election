@@ -136,6 +136,15 @@ related:
         width: 2000
         height: 1301
         isCached: true
+  - title: "New York State Mounts Criminal Probe of Trump Organization Finances"
+    excerpt: "The New York attorney general's office said on Tuesday it has now opened a criminal investigation into former President Donald Trump's company, increasing the legal risk for Trump and his family. Attorney General Letitia James has been investigating whether the Trump Organization falsely reported property values to secure loans and obtain economic and tax benefits."
+    publishedDateTime: 2021-05-19T07:02:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-19/new-york-state-mounts-criminal-probe-of-trump-organization-finances"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "dJVvklb+7LcOEsUBzunl5h9GKxSYeocNsLFBuoR95repXLJdJto+qhuRc5m8tAj7zQ26YRGkQgL+VoZBWLO3Elr1CopUOLV3lmZ23sQqcpiT7ZEzwVZ3D3/7WmJ0hnEBnZfavIieFfbgx3VGOZHgOJG7tvOefX3Wd2c07LC1LPRfeJlhjThUa4sBiDIWyD98hgxzc8ZNvw2U/gKjl0vdONOHX8lx4DmQyTWZ5qZEY70yb7x+SDWeQfKNOFkhgilewiFzYmwakxW9hW98UTx0fIJNHp3dcupHX4WUBW8K4P6Xk/gNAxF1+bbAjwzrJYtIvEOjdsDeoviYTt9bW45kp/wLfj9EUoymjUwTi4Niy9wjaoKehoyfLYh++ponL8kVrb47bNWoaEKkATWn6w9cpV+Sje4c6g/dZDzzXvznicMDKpKn9ukZAa9Pacmgg2bAttlbBR5kYjrzdgpk9KCl7m0r1WfxpWYnLpLEltyHPV4t9V29tpILi1m9Z3mRQ7Z8LNkr3t1+b8+7icGbz1CJhg==;Arvh3bB1u0kWAw3fHEhabw=="
 ---

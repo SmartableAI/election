@@ -2,6 +2,154 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-19-graham-calls-for-draft-trump-movement-to-kick-start-2024-wh-campaign.md",
+      "title": "Graham calls for ‘draft Trump’ movement to kick-start 2024 WH campaign",
+      "excerpt": "Sen. Lindsey Graham said that he really hopes that former President Donald Trump decides to run again for President in 2024. “I miss Donald Trump,” Graham said May 18, 2021 on",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/",
+      "originalUrl": "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/lindsey-graham-index.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/amp/",
+      "publishedDateTime": "2021-05-18T21:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-new-york-attorney-general-actively-investigating-trump-organization-in-a-criminal-capacity.md",
+      "title": "New York attorney general 'actively investigating' Trump Organization in a 'criminal capacity'",
+      "excerpt": "The New York attorney general is investigating the Trump Organization for criminality, a shift that could lead to charges if wrongdoing is uncovered.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/05/18/trump-organization-new-york-attorney-general-criminal-investigation/5159082001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/05/18/trump-organization-new-york-attorney-general-criminal-investigation/5159082001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/05/19/USAT/f3214550-5068-490d-b0cb-97f996ce2b59-AP_Trump-Legal_Troubles.jpg?auto=webp&crop=5471,3077,x0,y278&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5159082001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5159082001",
+      "publishedDateTime": "2021-05-18T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-new-york-ag-reveals-trump-organization-probe-is-now-criminal.md",
+      "title": "New York AG reveals Trump Organization probe is now ‘criminal’",
+      "excerpt": "New York Attorney General Letitia James’ investigation of the Trump Organization is criminal in nature, her office revealed Tuesday. James’ office had been conducting a civil",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/",
+      "originalUrl": "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-james-investigation-931.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/amp/",
+      "publishedDateTime": "2021-05-18T20:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-kirstie-alley-shares-details-with-tucker-on-backlash-for-supporting-trump-feels-like-twilight-zone.md",
       "title": "Kirstie Alley shares details with Tucker on backlash for supporting Trump: Feels like ‘Twilight Zone'",
       "excerpt": "Actress Kirstie Alley shares in the newest episode of Fox Nation’s 'Tucker Carlson Today' how being honest about her support for Donald Trump took an extreme turn.",
@@ -495,63 +643,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-18-new-york-times-ripped-for-appearing-to-blame-trump-for-ongoing-violence-between-hamas-and-israel.md",
-      "title": "New York Times ripped for appearing to blame Trump for ongoing violence between Hamas and Israel",
-      "excerpt": "The New York Times was the focus of more criticism over the weekend following an article published Saturday that seemingly blamed former President Trump for the ongoing violence between Hamas and Israel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel",
-      "originalUrl": "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c6b96e4-61b5-4ba4-bdbb-5dbaa6d9987a/c952dcd0-fb20-47d0-8450-b0c6b9b4f393/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp",
-      "publishedDateTime": "2021-05-17T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-18-us-and-europe-seek-to-end-trump-era-dispute-over-steel-and-aluminum.md",
       "title": "U.S. and Europe Seek to End Trump-Era Dispute Over Steel and Aluminum",
       "excerpt": "The Biden administration is trying to rebuild relations with Europe, but it is moving cautiously to unwind tariffs imposed by President Donald J. Trump.",
@@ -769,7 +860,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/republican-arizona-election-official-trump-unhinged-77717013",
       "featuredContent": null,
       "highlight": null,
-      "heat": 840,
+      "heat": 880,
       "tags": null,
       "images": [
         {
@@ -1034,7 +1125,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1470,106 +1561,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-ilhan-omar-fires-back-at-donald-trump-for-support-of-israel.md",
-      "title": "Ilhan Omar Fires Back at Donald Trump for Support of Israel",
-      "excerpt": "Violence in Israel, the worst seen since the 2014 Gaza war, has left at least 36 people dead—five Israelis and 31 Palestinians.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/ilhan-omar-donald-trump-israel-1590708",
-      "originalUrl": "https://www.newsweek.com/ilhan-omar-donald-trump-israel-1590708",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1794155/ilhan-omar-minnesota.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/ilhan-omar-donald-trump-israel-1590708?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ilhan-omar-donald-trump-israel-1590708?amp=1",
-      "publishedDateTime": "2021-05-12T00:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-trump-calls-on-us-to-follow-uk-lead-with-voter-id-plans-as-democrats-push-hr1.md",
-      "title": "Trump calls on US to follow UK lead with voter ID plans as Democrats push HR1",
-      "excerpt": "Former President Donald Trump gave his full support Tuesday to British legislation that would require UK voters to show a photo ID in future elections — and called on all US states to follow",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/11/trump-wants-us-to-follow-brits-lead-on-voter-photo-id/",
-      "originalUrl": "https://nypost.com/2021/05/11/trump-wants-us-to-follow-brits-lead-on-voter-photo-id/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/graham-doubles-down-on-trump-107.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/11/trump-wants-us-to-follow-brits-lead-on-voter-photo-id/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/11/trump-wants-us-to-follow-brits-lead-on-voter-photo-id/amp/",
-      "publishedDateTime": "2021-05-11T16:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

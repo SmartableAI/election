@@ -2,6 +2,154 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-19-graham-calls-for-draft-trump-movement-to-kick-start-2024-wh-campaign.md",
+      "title": "Graham calls for ‘draft Trump’ movement to kick-start 2024 WH campaign",
+      "excerpt": "Sen. Lindsey Graham said that he really hopes that former President Donald Trump decides to run again for President in 2024. “I miss Donald Trump,” Graham said May 18, 2021 on",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/",
+      "originalUrl": "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/lindsey-graham-index.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/amp/",
+      "publishedDateTime": "2021-05-18T21:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-new-york-attorney-general-actively-investigating-trump-organization-in-a-criminal-capacity.md",
+      "title": "New York attorney general 'actively investigating' Trump Organization in a 'criminal capacity'",
+      "excerpt": "The New York attorney general is investigating the Trump Organization for criminality, a shift that could lead to charges if wrongdoing is uncovered.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/05/18/trump-organization-new-york-attorney-general-criminal-investigation/5159082001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/05/18/trump-organization-new-york-attorney-general-criminal-investigation/5159082001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/05/19/USAT/f3214550-5068-490d-b0cb-97f996ce2b59-AP_Trump-Legal_Troubles.jpg?auto=webp&crop=5471,3077,x0,y278&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5159082001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5159082001",
+      "publishedDateTime": "2021-05-18T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-new-york-ag-reveals-trump-organization-probe-is-now-criminal.md",
+      "title": "New York AG reveals Trump Organization probe is now ‘criminal’",
+      "excerpt": "New York Attorney General Letitia James’ investigation of the Trump Organization is criminal in nature, her office revealed Tuesday. James’ office had been conducting a civil",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/",
+      "originalUrl": "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-james-investigation-931.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/amp/",
+      "publishedDateTime": "2021-05-18T20:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-new-york-attorney-general-adds-criminal-capacity-to-probe-of-trump-organization.md",
       "title": "New York attorney general adds 'criminal capacity' to probe of Trump Organization",
       "excerpt": "New York Attorney General Letitia James is joining the Manhattan district attorney's office in a criminal investigation of the Trump Organization, James' office said Tuesday.\n    \n",
@@ -1194,171 +1342,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-donald-trump-donated-his-federal-salary-but-hes-taken-65600-in-pension-payments-since-january-20.md",
-      "title": "Donald Trump donated his federal salary, but he's taken $65,600 in pension payments since January 20",
-      "excerpt": "Trump promised he wouldn't take a salary as president, but he didn't extend that promise to his post-presidency",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-donated-salary-presidential-pension-payments-2021-5",
-      "originalUrl": "https://www.businessinsider.com/trump-donated-salary-presidential-pension-payments-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60a2f78af27b4c0019444f88?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-biden-expressed-his-support-for-a-ceasefire-in-call-with-israeli-prime-minister-white-house-says.md",
-      "title": "Biden 'expressed his support for a ceasefire' in call with Israeli Prime Minister, White House says",
-      "excerpt": "The growing number of civilian deaths in the intensifying battle between Israel and Hamas in Gaza is causing worry inside the White House as officials work the phones with partners in the region.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5c_JUVHtrSI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5c_JUVHtrSI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210512170722-02-joe-biden-0512-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/17/politics/biden-israel-hamas-gaza/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/biden-israel-hamas-gaza/index.html",
-      "publishedDateTime": "2021-05-17T15:40:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-pentagon-weighs-keeping-trump-era-change-to-psychological-operations.md",
-      "title": "Pentagon weighs keeping Trump-era change to ‘psychological operations’",
-      "excerpt": "The policy change highlights tension between military leaders and diplomats about how the U.S. handles gray-area operations that fall short of all-out war.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/05/17/pentagon-weighs-trump-change-489109",
-      "originalUrl": "https://www.politico.com/news/2021/05/17/pentagon-weighs-trump-change-489109",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/f2/f2/daa4b5344203925a725579019d88/5-17-21-lloydaustin-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/05/17/pentagon-weighs-trump-change-489109",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/17/pentagon-weighs-trump-change-489109",
-      "publishedDateTime": "2021-05-17T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

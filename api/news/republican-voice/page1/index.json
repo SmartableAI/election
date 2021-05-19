@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-19-graham-calls-for-draft-trump-movement-to-kick-start-2024-wh-campaign.md",
+      "title": "Graham calls for ‘draft Trump’ movement to kick-start 2024 WH campaign",
+      "excerpt": "Sen. Lindsey Graham said that he really hopes that former President Donald Trump decides to run again for President in 2024. “I miss Donald Trump,” Graham said May 18, 2021 on",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/",
+      "originalUrl": "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/lindsey-graham-index.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/graham-tries-to-jumpstart-draft-trump-movement-for-2024-election/amp/",
+      "publishedDateTime": "2021-05-18T21:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-new-york-ag-reveals-trump-organization-probe-is-now-criminal.md",
+      "title": "New York AG reveals Trump Organization probe is now ‘criminal’",
+      "excerpt": "New York Attorney General Letitia James’ investigation of the Trump Organization is criminal in nature, her office revealed Tuesday. James’ office had been conducting a civil",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/",
+      "originalUrl": "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-james-investigation-931.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/amp/",
+      "publishedDateTime": "2021-05-18T20:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-kirstie-alley-shares-details-with-tucker-on-backlash-for-supporting-trump-feels-like-twilight-zone.md",
       "title": "Kirstie Alley shares details with Tucker on backlash for supporting Trump: Feels like ‘Twilight Zone'",
       "excerpt": "Actress Kirstie Alley shares in the newest episode of Fox Nation’s 'Tucker Carlson Today' how being honest about her support for Donald Trump took an extreme turn.",
@@ -609,63 +705,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-new-york-times-ripped-for-appearing-to-blame-trump-for-ongoing-violence-between-hamas-and-israel.md",
-      "title": "New York Times ripped for appearing to blame Trump for ongoing violence between Hamas and Israel",
-      "excerpt": "The New York Times was the focus of more criticism over the weekend following an article published Saturday that seemingly blamed former President Trump for the ongoing violence between Hamas and Israel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel",
-      "originalUrl": "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c6b96e4-61b5-4ba4-bdbb-5dbaa6d9987a/c952dcd0-fb20-47d0-8450-b0c6b9b4f393/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp",
-      "publishedDateTime": "2021-05-17T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -1593,62 +1632,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-05-13T10:02:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-graham-blasts-biden-officials-remark-on-pipeline-attack-and-electric-cars-dumbest-thing-in-the-world.md",
-      "title": "Graham blasts Biden official's remark on pipeline attack and electric cars: 'Dumbest thing in the world'",
-      "excerpt": "Sen. Lindsey Graham, R-S.C., blasted the Biden administration for their \"unnerving\" response to the cyberattack that temporarily shut down the Colonial Pipeline and triggered gas shortages.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JxY38DVcgzc/lindsey-graham-biden-granholm-gas-shortage-electric-cars",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JxY38DVcgzc/lindsey-graham-biden-granholm-gas-shortage-electric-cars",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2cf35cb-19db-4730-b400-fa9f5394b64c/c4285afb-d3a7-43d2-bcb9-ed367c0ddd10/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/lindsey-graham-biden-granholm-gas-shortage-electric-cars.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-biden-granholm-gas-shortage-electric-cars.amp",
-      "publishedDateTime": "2021-05-13T08:10:02-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

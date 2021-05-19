@@ -287,6 +287,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "New York investigation into Trump Organization now criminal, says attorney general"
+    excerpt: "State joins Manhattan attorney general in launching ‘active’ investigation into former president’s business"
+    publishedDateTime: 2021-05-19T02:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/19/new-york-investigation-into-trump-organization-now-criminal-says-attorney-general"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/19/new-york-investigation-into-trump-organization-now-criminal-says-attorney-general"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/19/new-york-investigation-into-trump-organization-now-criminal-says-attorney-general"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/322012509a779bf8a2215b72f98bb1fe899ff46f/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6b3dcdb2bf7fe19d716a8f5b9f568bcf"
+        width: 600
+        height: 360
+        isCached: true
   - title: "As Trump seizes on Arizona ballot audit, election officials fear partisan vote counts could be the norm in future elections"
     excerpt: "The GOP-backed recount of Maricopa County’s ballots has been criticized for abandoning state guidelines and allowing the rules to be set by a private contractor who promoted claims that the election was stolen."
     publishedDateTime: 2021-04-29T20:05:00Z
@@ -378,6 +394,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/cheney-rt-3-rc-210512_1620826693011_hpMain_16x9_1600.jpg"
         width: 1600
         height: 899
+        isCached: true
+  - title: "New York opens criminal investigation into Trump"
+    excerpt: "The New York attorney general's office said on Tuesday it has now opened a criminal investigation into former President Donald Trump's company, increasing the legal risk for Trump and his family."
+    publishedDateTime: 2021-05-19T07:46:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPn1g?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/60a49f4fe4b085d3b6c331c8-1621401423225?location=LANDSCAPE"
+        width: 1200
+        height: 675
         isCached: true
   - title: "House GOP elect Trump defender Stefanik as their number three in leadership"
     excerpt: "Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership, electing an ardent Donald Trump defender in hopes of calming their searing civil war over the deposed Rep. Liz Cheney's unremitting combat with the former president."

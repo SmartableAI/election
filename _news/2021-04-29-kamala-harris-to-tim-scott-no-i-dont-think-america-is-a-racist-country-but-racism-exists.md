@@ -310,6 +310,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Why Harris is treading carefully in Biden world, and taking flak from the press"
+    excerpt: "There are signs that the press is unhappy with Vice President Harris, or at least getting impatient. Why doesn’t she make more news? Why is she so cautious?"
+    publishedDateTime: 2021-05-19T07:00:00Z
+    webUrl: "https://www.foxnews.com/media/why-harris-is-treading-carefully-in-biden-world-and-taking-flak-from-the-press"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/AP21137642542411.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden's Turning Point on Police Reform"
     excerpt: "Minnesota Attorney General Keith Ellison called the guilty-verdict sweep against Derek Chauvin, the police officer who killed George Floyd, an"
     publishedDateTime: 2021-04-21T11:25:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/new-york-times-donald-trump-violence-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp"
 type: article
 quality: 122
-heat: 122
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,40 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "New York AG reveals Trump Organization probe is now ‘criminal’"
+    excerpt: "New York Attorney General Letitia James’ investigation of the Trump Organization is criminal in nature, her office revealed Tuesday. James’ office had been conducting a civil"
+    publishedDateTime: 2021-05-19T03:51:00Z
+    webUrl: "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/"
+    ampWebUrl: "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-james-investigation-931.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "New York Attorney General Probe of Trump Organization Now a Criminal Investigation"
+    excerpt: "The investigation is no longer “purely civil in nature,” state officials tell the former president’s firm."
+    publishedDateTime: 2021-05-19T03:29:00Z
+    webUrl: "https://www.wsj.com/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    ampWebUrl: "https://www.wsj.com/amp/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 129
+    images:
+      - url: "https://images.wsj.net/im-340537/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "W67KoskJGRjNC9F7pJ5N4p3fMyefi41uA91MN/UMuZwfV7kGsf4uzwe3aPekJNt9zoqSoHBHGbZ3Bp/4itdNObcJ7b4xdsNYo73riDlu1IggrDZX3YbVJI0/FNyUKB6Q4Vzp+iGCGou9BzQDNyRQL8mVGbXZ79GDDPQLU0dCf0ujDMDNQqv9nJVDKmzXrQaIOYk7SyDNi/FaGZ5YQN1qP7MgqhMGRSTi0f9hcBWbLUNUApXV3yjFK4krn4bPj5CMwNViR6NMxMo97FZP/XbRqdTjJjPtGUxvZKtP7rX2ohz+Gw1sIhOsFyTygiG3DAroGW/Z2BqCUXMvs6W74lm5dSS62h3WN3G8jeMV6Eo3MdU=;mlbGAWRMXv1KslgQBjo+Lg=="
 ---

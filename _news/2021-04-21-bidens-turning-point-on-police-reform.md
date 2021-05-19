@@ -312,6 +312,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Why Harris is treading carefully in Biden world, and taking flak from the press"
+    excerpt: "There are signs that the press is unhappy with Vice President Harris, or at least getting impatient. Why doesn’t she make more news? Why is she so cautious?"
+    publishedDateTime: 2021-05-19T07:00:00Z
+    webUrl: "https://www.foxnews.com/media/why-harris-is-treading-carefully-in-biden-world-and-taking-flak-from-the-press"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/AP21137642542411.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "VP Kamala Harris: We Must Focus On \"Root Causes\" Of Migration Crisis In Central America"
     excerpt: "Vice President Kamala Harris spoke about the migration crisis in Latin America during remarks to the 51st annual Washington Conference on Tuesday. It is one of the first times she has discussed the idea in detail since the administration announced she would be spearheading efforts to stop a surge of immigrants on the Southern border."
     publishedDateTime: 2021-05-04T15:15:00Z

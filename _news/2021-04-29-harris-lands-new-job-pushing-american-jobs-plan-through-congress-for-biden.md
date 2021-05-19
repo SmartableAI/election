@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-lands-new-job-pushing-americ
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden.amp"
 type: article
 quality: 198
-heat: 618
+heat: 638
 published: true
 
 provider:
@@ -299,6 +299,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/698e0949-38b7-4fb4-99e0-76eeb265afff/7bf55267-6b4a-4e90-a5de-2104e62d440e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Why Harris is treading carefully in Biden world, and taking flak from the press"
+    excerpt: "There are signs that the press is unhappy with Vice President Harris, or at least getting impatient. Why doesn’t she make more news? Why is she so cautious?"
+    publishedDateTime: 2021-05-19T07:00:00Z
+    webUrl: "https://www.foxnews.com/media/why-harris-is-treading-carefully-in-biden-world-and-taking-flak-from-the-press"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/AP21137642542411.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Biden's Turning Point on Police Reform"
     excerpt: "Minnesota Attorney General Keith Ellison called the guilty-verdict sweep against Derek Chauvin, the police officer who killed George Floyd, an"
