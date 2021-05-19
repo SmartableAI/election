@@ -3,8 +3,8 @@ category: news
 title: "N.Y. state investigation into Trump is now a criminal probe"
 excerpt: "The probe is “no longer purely civil in nature,” a spokesperson for state Attorney General Letitia James confirmed to POLITICO."
 publishedDateTime: 2021-05-19T02:37:00Z
-originalUrl: "https://www.politico.com/states/new-york/whiteboard/2021/05/18/ny-state-investigation-into-trump-now-a-criminal-probe-1382990"
-webUrl: "https://www.politico.com/states/new-york/whiteboard/2021/05/18/ny-state-investigation-into-trump-now-a-criminal-probe-1382990"
+originalUrl: "https://www.politico.com/states/new-york/albany/whiteboard/2021/05/18/ny-state-investigation-into-trump-now-a-criminal-probe-1382990"
+webUrl: "https://www.politico.com/states/new-york/albany/whiteboard/2021/05/18/ny-state-investigation-into-trump-now-a-criminal-probe-1382990"
 type: article
 quality: 115
 heat: -1
@@ -95,6 +95,6 @@ related:
         height: 550
         isCached: true
 
-secured: "/EfcmIhbyc3VZrjSjecQZ6rIhIpsTrFsLbfJ7mSa5trWy2Q8amGHDUbGP1BXp3E4XjkeCbfeEuAOi0l0RZEpIwBEgXH22TofMhSjt9RIL7zAsoStb5yIGYO6NFE/IBfiAI1+s89oeWp1O+aDAp9LmwshIFqcTUlk/7iarLiDx8DrSJ0XM8t7W23jDqLfFpfWizCDV2FximN/8LWa8spyDG7ygpJVaBDb7CEP3ZTASO0DprzYg+2hWafrMtI0/bCmPnUGtmni+iLkHDTpsD+l2X3EzsoKDwV23DS7dcXKlMAdWTAiSWNXLvve1sOyzKtQWCU/bgviAycOMSTWpBTyowiLwcpUTX4WdcLQOmDhUnkPMO4oreKvkdRrW9V9BOwJCywjkWvSam1DZ8kqDsbCVVToGSMrqKrzRN6wVJu69r38+CPUMY9Dvx2S/6moWr75oKtsw4Xou5wszqj09QGSSekAEDi6xR4Kg0UcPXd4uA6FZrz0PqntXn/q7a4gG0NX2mzwuGILoNJHHcYJY1EnIw==;oGrp/7tj22pCNUq72emxyQ=="
+secured: "snPCzqNQ/iljZwPu66yrqyKlgc+BoTx6KnsMEZQ0/hhDgk1mYn0Rl84eSUrFfy0Xv67apEmPtYkp91z3RMfQKcSu1GeADYE/WwFnsihngUhm7mfInmMEnQofvkszhpYR6MZ1TNsct3ioDZPSmpXzsIlVGZIGml1Ex4pPnKU6W8BFlDWcmHfEN5Wf1GQ7nSvHzSmzlivt5f7wIivrVXVSknqdKXWRjOH3FL7yr9DbcJr2k/rOv4ypHLgk+/272s0Cn9VR6CsgsaiQQeiNpPjaSM/fjlScp6V3hnHfbmqp8PG/KAU1V7+jw1haJhpnyvVJSTR8ZQnK1wSHjsb3Rbj74ieuVvZ5KOg5nBq5Qk5geb0=;tvwhXIJweqTq9/DQH/8+SQ=="
 ---
 

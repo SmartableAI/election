@@ -32,53 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "Former acting Defense Secretary Christopher Miller walks back Trump blame for Jan. 6 riots"
-    excerpt: "Former acting Secretary of Defense Christopher Miller said Tuesday during a hearing on the Jan. 6 riot he’d “reassessed” his previous evaluation that former President Trump’s speech that day had led to his supporters storming the Capitol."
-    publishedDateTime: 2021-05-12T22:10:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FnofpdG39B8/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots"
-    ampWebUrl: "https://www.foxnews.com/politics/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots.amp"
+  - title: "New York AG’s office says Trump Organization probe now ‘criminal’ investigation"
+    excerpt: "The office of New York state Attorney General Letitia James issued a statement to Fox News on Tuesday night, confirming a change in its investigation of the Trump Organization."
+    publishedDateTime: 2021-05-19T08:41:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHXuDvL_tQg/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/720/405/gettyimages-Christopher-miller.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bbcc3bf-9d3a-4fb6-b46a-89e3f17a74ca/7e5e6aac-c4d1-4a2c-ac01-d834bd8b28d1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Chris Wallace presses Liz Cheney on Trump supporters: 'Why alienate them?'"
-    excerpt: "Rep. Liz Cheney, ousted this week as the third-ranking House Republican, defended her outspoken criticism of former President Donald Trump during an interview on \"Fox News Sunday,\" and said that the 74 million Americans who voted for him were \"misled\" and \"betrayed."
-    publishedDateTime: 2021-05-16T16:43:00Z
-    webUrl: "https://www.foxnews.com/politics/chris-wallace-liz-cheney-trump-supporters"
-    ampWebUrl: "https://www.foxnews.com/politics/chris-wallace-liz-cheney-trump-supporters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-wallace-liz-cheney-trump-supporters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fc30c8bf-664f-400f-9821-3c5e743167c4/4c75fdeb-a75a-42a3-b2f2-a84eb69a5941/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Trump leaves Florida for summer in New Jersey after Mother’s Day brunch: report"
-    excerpt: "Former President Donald Trump spent Mother’s Day having brunch with wife Melania and son Barron, before jetting out to spend the summer in New Jersey, according to a report."
-    publishedDateTime: 2021-05-10T11:38:00Z
-    webUrl: "https://nypost.com/2021/05/10/trump-reportedly-leaves-florida-for-summer-in-new-jersey/"
-    ampWebUrl: "https://nypost.com/2021/05/10/trump-reportedly-leaves-florida-for-summer-in-new-jersey/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/10/trump-reportedly-leaves-florida-for-summer-in-new-jersey/amp/"
+  - title: "New York AG reveals Trump Organization probe is now ‘criminal’"
+    excerpt: "New York Attorney General Letitia James’ investigation of the Trump Organization is criminal in nature, her office revealed Tuesday. James’ office had been conducting a civil"
+    publishedDateTime: 2021-05-19T03:51:00Z
+    webUrl: "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/"
+    ampWebUrl: "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 131
+    quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/donald-trump-bedminister-golf-30-1.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-james-investigation-931.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "New York Attorney General Probe of Trump Organization Now a Criminal Investigation"
+    excerpt: "The investigation is no longer “purely civil in nature,” state officials tell the former president’s firm."
+    publishedDateTime: 2021-05-19T03:29:00Z
+    webUrl: "https://www.wsj.com/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    ampWebUrl: "https://www.wsj.com/amp/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 129
+    images:
+      - url: "https://images.wsj.net/im-340537/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "s7noOruznK0EFcj3bVxnoihIOFXnMG6aT4U1Pc+2M0ZD4oNPk91l4zaw0rHMbxJjMYC54g49fkaPQ0vRwpL9g8dE5mmT3O06fVMk/EDU3oCUFfF9hVuVDrXuUkHCkSudMbY1zt1FjBt7Kxej8+tCouQ3UhtNxoz0uacQTnHEssxgnFo9Eezh1vWibQyDNTHaTIvB/dEoozpXsIN/XkDMnDsMpJcewwQjf6RBjv6MT+PtO6DRVa/dxlsDBLjkyIq58dJDJnPzT+7hkgfI55Hzm6p1e10itoVhW5glGBlJcjbuud13+JWAnIPrbJi3qHHQaV2S4+ZlRT3uP4z+L1HkQ5sIcazlyVPsHhyqoSeB4hifh7roC2sf3hFF4eVBKvS/jcQrw+XAMo2moSz/sfBtqHT5lVUxYKR8o82PR8/9ffUDxWmWcqW9n4t6Eqr8ShqlRsYApg6DsGx0hpUl96LWT6TsoEFQpwv3msakbVfBJLTWvGSWdeOde9JEckElaV8BHZdGdOua2FGpmhaeCOyfhA==;Kqo4TXHakm6ChBwAMbGusg=="

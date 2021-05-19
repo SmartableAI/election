@@ -448,6 +448,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Inside Story of the Biden-Harris Debate Blowup"
+    excerpt: "President Joe Biden and Vice President Kamala Harris have appeared so in lockstep that it’s hard to remember how tense their early campaign days were."
+    publishedDateTime: 2021-05-19T09:45:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/05/19/edward-isaac-dovere-2020-campaign-book-excerpt-joe-biden-kamala-harris-489347"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/05/19/edward-isaac-dovere-2020-campaign-book-excerpt-joe-biden-kamala-harris-489347"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/05/19/edward-isaac-dovere-2020-campaign-book-excerpt-joe-biden-kamala-harris-489347"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/4c/03/650d2bf0425bb20686ba6b0bc31c/dovere-final-copy.jpg"
+        width: 2320
+        height: 1546
+        isCached: true
   - title: "Joe Biden's infrastructure plan could leave too many women behind"
     excerpt: "President Joe Biden says his roughly $2 trillion infrastructure plan will help create millions of jobs. But many of the proposed jobs are in historically male-dominated fields and experts worry the plan won't do enough for America's women,"
     publishedDateTime: 2021-04-18T15:48:00Z

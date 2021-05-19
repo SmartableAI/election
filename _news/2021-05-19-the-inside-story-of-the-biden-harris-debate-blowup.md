@@ -1,34 +1,34 @@
 ---
 category: news
-title: "Harris to chair the National Space Council"
-excerpt: "The Biden administration will maintain the National Space Council and Vice President Kamala Harris will chair it, according to senior administration officials, adding another item to the vice president's portfolio.\n    \n"
-publishedDateTime: 2021-05-01T19:53:33Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5WXjm-srRTM/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5WXjm-srRTM/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/kamala-harris-chair-national-space-council/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/kamala-harris-chair-national-space-council/index.html"
+title: "The Inside Story of the Biden-Harris Debate Blowup"
+excerpt: "President Joe Biden and Vice President Kamala Harris have appeared so in lockstep that it’s hard to remember how tense their early campaign days were."
+publishedDateTime: 2021-05-19T09:45:00Z
+originalUrl: "https://www.politico.com/news/magazine/2021/05/19/edward-isaac-dovere-2020-campaign-book-excerpt-joe-biden-kamala-harris-489347"
+webUrl: "https://www.politico.com/news/magazine/2021/05/19/edward-isaac-dovere-2020-campaign-book-excerpt-joe-biden-kamala-harris-489347"
+ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/05/19/edward-isaac-dovere-2020-campaign-book-excerpt-joe-biden-kamala-harris-489347"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/05/19/edward-isaac-dovere-2020-campaign-book-excerpt-joe-biden-kamala-harris-489347"
 type: article
-quality: 185
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Democratic Voice
   - Kamala Harris
+  - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427164345-01-kamala-harris-file-0422-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/4c/03/650d2bf0425bb20686ba6b0bc31c/dovere-final-copy.jpg"
+    width: 2320
+    height: 1546
     isCached: true
 
 related:
@@ -61,6 +61,22 @@ related:
     quality: 189
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421183251-harris-kahl-split-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Harris to chair the National Space Council"
+    excerpt: "The Biden administration will maintain the National Space Council and Vice President Kamala Harris will chair it, according to senior administration officials, adding another item to the vice president's portfolio.\n    \n"
+    publishedDateTime: 2021-05-01T19:53:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5WXjm-srRTM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/kamala-harris-chair-national-space-council/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/kamala-harris-chair-national-space-council/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210427164345-01-kamala-harris-file-0422-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -432,22 +448,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Inside Story of the Biden-Harris Debate Blowup"
-    excerpt: "President Joe Biden and Vice President Kamala Harris have appeared so in lockstep that it’s hard to remember how tense their early campaign days were."
-    publishedDateTime: 2021-05-19T09:45:00Z
-    webUrl: "https://www.politico.com/news/magazine/2021/05/19/edward-isaac-dovere-2020-campaign-book-excerpt-joe-biden-kamala-harris-489347"
-    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/05/19/edward-isaac-dovere-2020-campaign-book-excerpt-joe-biden-kamala-harris-489347"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/05/19/edward-isaac-dovere-2020-campaign-book-excerpt-joe-biden-kamala-harris-489347"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
-    images:
-      - url: "https://static.politico.com/4c/03/650d2bf0425bb20686ba6b0bc31c/dovere-final-copy.jpg"
-        width: 2320
-        height: 1546
-        isCached: true
   - title: "Pence criticizes Biden administration in first speech since leaving office"
     excerpt: "Former Vice President Mike Pence criticized the Biden administration and praised Sen. Tim Scott's GOP response during a speech in South Carolina."
     publishedDateTime: 2021-04-30T03:32:00Z
@@ -702,6 +702,6 @@ related:
       domain: nytimes.com
     quality: 95
 
-secured: "gO8RPneHpSaLQNR/ThedqndODurMSvDYMqvI+PWV6fmIIBujtaJl7aZFHF84wCS3NYZH5T7JW4hGyxHljykICujLFxJ0XKSqsbAz0ihxnRRTId8Li8tqkx5bxlMiAVS41pwl/7x7G35Nl0d9bH3a9BDmDhruOiEMD+D5d1EKWdw2E6w12izE6HdsP2sameSwSxjPiXbJooRcjzBr76uIJ48vCoRkg8VBURKicRe3tv5P1LW433ZJyuUSHlAxovNuHMq/jw2d9hnmUV+90XsVdX/ymNSwiuhv0YpMzz5DTtSYLn/su+lzvJV7Tj97JanJQna5fKWQhzkEGmbzmN0Dbr7M8WtjtRYgFatChdEsF84=;eF2AxwjlPDlapyUkqum6Ww=="
+secured: "ox8i4+/msNQqM0//IimKFkPCCZ0FqvdxPFY5Ybo3fc+pRxxzMqFWAkrHGSP7c66P5FMD7qHke2puBIoF1IRu/SudnPDUi1dVw4V54RAC/AI2YpJL1ET7sM7KzDAwpyQDbeLIZrS3lqILLfZBYdH6N1eUwXfcSlEMoi+DE/toGeYRZrFdwuGpmoHIJoU2IKC+ZN7tCRsI1pixe51qtWE9YI4i/QmGn/+HxbRGtsiLvoTCzokiGzAEerBOAGvz6EvDuwrN8uhwACNqvF7YIGaw9HFf8iPfeEwTtOWx+Td6dDd9C8yKLULjtKOfFeqUZpuZ5ZLJaGOPb9CZdJPT+XgDJbnZHdAt+Uh/PmdICajafhI=;4LuDfYydQuUljjNl9EvlDA=="
 ---
 

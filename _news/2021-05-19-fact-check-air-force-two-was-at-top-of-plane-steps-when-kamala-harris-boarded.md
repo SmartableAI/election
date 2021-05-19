@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Kamala Harris to keynote first Asian American, Pacific Islander unity summit"
-excerpt: "Vice President Kamala Harris will keynote the first unity summit for Asian Americans and Pacific Islanders on Wednesday."
-publishedDateTime: 2021-05-17T18:34:00Z
-originalUrl: "https://www.upi.com/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
-webUrl: "https://www.upi.com/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
-ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
-cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
+title: "Fact Check-Air Force Two was at top of plane steps when Kamala Harris boarded"
+excerpt: "A picture and video which social media users claim show U.S. Vice President Kamala Harris walking up airplane steps with a green screen or no plane at all at the top are circulating on social media, in connection with a baseless conspiracy theory claiming she is not"
+publishedDateTime: 2021-05-19T07:39:00Z
+originalUrl: "https://www.reuters.com/article/factcheck-harris-af2/fact-check-air-force-two-was-at-top-of-plane-steps-when-kamala-harris-boarded-idUSL2N2N60YA"
+webUrl: "https://www.reuters.com/article/factcheck-harris-af2/fact-check-air-force-two-was-at-top-of-plane-steps-when-kamala-harris-boarded-idUSL2N2N60YA"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N60YA"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N60YA"
 type: article
-quality: 72
+quality: 102
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://cdnph.upi.com/sv/ph/og/upi/3521621268936/2021/1/dcf14d32301c165911ccb7e179718d61/v1.5/Kamala-Harris-to-keynote-first-Asian-American-Pacific-Islander-unity-summit.jpg"
-    width: 800
-    height: 533
-    isCached: true
 
 related:
   - title: "VP Harris meets with Congressional Hispanic Caucus"
@@ -41,17 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Fact Check-Air Force Two was at top of plane steps when Kamala Harris boarded"
-    excerpt: "A picture and video which social media users claim show U.S. Vice President Kamala Harris walking up airplane steps with a green screen or no plane at all at the top are circulating on social media, in connection with a baseless conspiracy theory claiming she is not"
-    publishedDateTime: 2021-05-19T07:39:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-harris-af2/fact-check-air-force-two-was-at-top-of-plane-steps-when-kamala-harris-boarded-idUSL2N2N60YA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N60YA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N60YA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 102
   - title: "Harris, Emhoff earned more than Bidens with 7-figure earnings, taxes show"
     excerpt: "Both the first and second families' tax returns reveal losses of income since the successful Biden-Harris White House bid."
     publishedDateTime: 2021-05-18T12:32:00Z
@@ -84,6 +71,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris to keynote first Asian American, Pacific Islander unity summit"
+    excerpt: "Vice President Kamala Harris will keynote the first unity summit for Asian Americans and Pacific Islanders on Wednesday."
+    publishedDateTime: 2021-05-17T18:34:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 72
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3521621268936/2021/1/dcf14d32301c165911ccb7e179718d61/v1.5/Kamala-Harris-to-keynote-first-Asian-American-Pacific-Islander-unity-summit.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Harris County to lower COVID threat level, KHOU 11 confirms"
     excerpt: "Harris County has spent a majority of this pandemic in the red threat level, but that is expected to change on Tuesday."
     publishedDateTime: 2021-05-18T03:09:00Z
@@ -99,6 +102,6 @@ related:
         height: 641
         isCached: true
 
-secured: "GGiQ3jyKRboYERMrJv5y1wbzz+7Ild9hcg26lsfKqm6oCz4/QGtEdsHbDZR4bklEpSmxoQTsCiNM8Hr0nSfQg9h4EUZ34qxT1WM6P90v0brNUVeZNixczVhRB+oRtDoxgMUPI+FInAqsBRqCKPBM3ZI7NjEhADPCqTq6p6SgZSdwAVLQPpHzAKnNazhwy2i4KiWXcybvnF9Pi7cA9by1KCF3wEoUo/dStfpOJ3ZW5mn91zmqiia7dq3n3fWfxodBlU57oYaxXJG2i6axOxheqEmqDzGYnvN7hjuryiJocMr4rGT+bOcBri/n5LUmD96jJ+j4HsUFa2qkm+NL5KxTlsk0FIamgCTu7LQf3UaWNGISvUsJ3wbZiT1yQwE3j01A14xBi64mHlcbT/PyU9m09HXZeMYKF8r+975m7MU2zznk4YRYZ9juIRfy4qglV7yylQSxfahkOzv+N8Suef9FGwiLZ/0glEUJkIJDSQnWJJn+ZCAcpW9Nhy85TZKTXKbvOmRcJ5DNQ1CZpiI5Go0S1g==;8TzUFL27y6Km6hpg3fBlXg=="
+secured: "BaGKSGBHYZg6L+Yd8kP2yvWgNwQjiyU+0YLL2SCGwUBWzvkLaTe8tXRoAUh0azbEFdVVdvc8JMOILvlJM+RvZaVrPQfJ5odqyIxt0Sa7a2sikfRnaFXySj73eVtuJoiSUHuoS1MyN6i/x6HW5NUsBwnK+pCYZDvBBIHB2PxLaYvjLzuKCU9v+XyQrx9E5nd+ND5PrGmc6OPjfT79z/s5p2ItvH3n3uKc9CfE4oQTsHWTJj2ThcSipFtD3hjFBSl/SkTGrhTVCvBf+/6dCzPxXj2vYLtxnYXg0AkO37US/04PLvBe/h4sgkId8kM7Q4BI7rs0jKVBYmIS2df5LVblDN3D35KPxY9OcuKJMu/g0rI=;CIBNMIg8YMP/U4RU1zYRjw=="
 ---
 

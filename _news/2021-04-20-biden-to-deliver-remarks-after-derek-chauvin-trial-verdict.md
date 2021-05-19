@@ -448,6 +448,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Inside Story of the Biden-Harris Debate Blowup"
+    excerpt: "President Joe Biden and Vice President Kamala Harris have appeared so in lockstep that it’s hard to remember how tense their early campaign days were."
+    publishedDateTime: 2021-05-19T09:45:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/05/19/edward-isaac-dovere-2020-campaign-book-excerpt-joe-biden-kamala-harris-489347"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2021/05/19/edward-isaac-dovere-2020-campaign-book-excerpt-joe-biden-kamala-harris-489347"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2021/05/19/edward-isaac-dovere-2020-campaign-book-excerpt-joe-biden-kamala-harris-489347"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/4c/03/650d2bf0425bb20686ba6b0bc31c/dovere-final-copy.jpg"
+        width: 2320
+        height: 1546
+        isCached: true
   - title: "Pence criticizes Biden administration in first speech since leaving office"
     excerpt: "Former Vice President Mike Pence criticized the Biden administration and praised Sen. Tim Scott's GOP response during a speech in South Carolina."
     publishedDateTime: 2021-04-30T03:32:00Z

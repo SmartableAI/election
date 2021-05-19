@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "New York AG’s office says Trump Organization probe now ‘criminal’ investigation"
+    excerpt: "The office of New York state Attorney General Letitia James issued a statement to Fox News on Tuesday night, confirming a change in its investigation of the Trump Organization."
+    publishedDateTime: 2021-05-19T08:41:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHXuDvL_tQg/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bbcc3bf-9d3a-4fb6-b46a-89e3f17a74ca/7e5e6aac-c4d1-4a2c-ac01-d834bd8b28d1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "New York AG reveals Trump Organization probe is now ‘criminal’"
     excerpt: "New York Attorney General Letitia James’ investigation of the Trump Organization is criminal in nature, her office revealed Tuesday. James’ office had been conducting a civil"
     publishedDateTime: 2021-05-19T03:51:00Z
@@ -48,21 +64,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "New York Times ripped for appearing to blame Trump for ongoing violence between Hamas and Israel"
-    excerpt: "The New York Times was the focus of more criticism over the weekend following an article published Saturday that seemingly blamed former President Trump for the ongoing violence between Hamas and Israel."
-    publishedDateTime: 2021-05-17T20:35:00Z
-    webUrl: "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel"
-    ampWebUrl: "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp"
+  - title: "Trump Administration Officials Defend Security Response to Jan. 6 Capitol Riot"
+    excerpt: "Former acting defense secretary tells congressional panel that the military’s response was proper when the pro-Trump mob sought to prevent Congress from certifying President Biden’s election."
+    publishedDateTime: 2021-05-12T17:34:00Z
+    webUrl: "https://www.wsj.com/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 122
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c6b96e4-61b5-4ba4-bdbb-5dbaa6d9987a/c952dcd0-fb20-47d0-8450-b0c6b9b4f393/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://images.wsj.net/im-337338?width=620&size=1.5"
+        width: 620
+        height: 413
         isCached: true
 
 secured: "k984MCd9cQ4KMA7gCJVVS3yCG467wsgU6Bn2g0T9luHaqFwQwBrZ5SFCdxng8d1kqG3nmLYL+aA/wTNjsY9rqWbXRvxWsIGp3sMBTi42LcawPhUgPileJNCG0jqI68HB5vTjfZ/C2XOCokXLSd1DdLAYCJ6TCNe7G8oEBv33Cy18TneSpjwYWM+F7NjWdyHjgPT55HZZhiooULdhyYP+qGOLM76H3IA8To58RhqplWB+3/fff9exPM9C+KFMCdFFVchty6gjjH3C1G3rB/gYvA2v8YEq8ixc1v0ueI00Qid3xgcKyBORyFuYGhbEaKDpyjK8xkMNuiLRtUsuO308HY1IAvbX96HRqD9Nk1Fxt6U=;Frd/xseKLTLf9NhqB7zAyA=="

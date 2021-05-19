@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/amp/"
 type: article
 quality: 135
-heat: 175
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Post
@@ -28,6 +28,38 @@ images:
     isCached: true
 
 related:
+  - title: "New York AG’s office says Trump Organization probe now ‘criminal’ investigation"
+    excerpt: "The office of New York state Attorney General Letitia James issued a statement to Fox News on Tuesday night, confirming a change in its investigation of the Trump Organization."
+    publishedDateTime: 2021-05-19T08:41:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHXuDvL_tQg/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bbcc3bf-9d3a-4fb6-b46a-89e3f17a74ca/7e5e6aac-c4d1-4a2c-ac01-d834bd8b28d1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Trump Administration Officials Defend Security Response to Jan. 6 Capitol Riot"
+    excerpt: "Former acting defense secretary tells congressional panel that the military’s response was proper when the pro-Trump mob sought to prevent Congress from certifying President Biden’s election."
+    publishedDateTime: 2021-05-12T17:34:00Z
+    webUrl: "https://www.wsj.com/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
+    images:
+      - url: "https://images.wsj.net/im-337338?width=620&size=1.5"
+        width: 620
+        height: 413
+        isCached: true
   - title: "New York Attorney General Probe of Trump Organization Now a Criminal Investigation"
     excerpt: "The investigation is no longer “purely civil in nature,” state officials tell the former president’s firm."
     publishedDateTime: 2021-05-19T03:29:00Z
@@ -44,23 +76,7 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "New York Times ripped for appearing to blame Trump for ongoing violence between Hamas and Israel"
-    excerpt: "The New York Times was the focus of more criticism over the weekend following an article published Saturday that seemingly blamed former President Trump for the ongoing violence between Hamas and Israel."
-    publishedDateTime: 2021-05-17T20:35:00Z
-    webUrl: "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel"
-    ampWebUrl: "https://www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-donald-trump-violence-hamas-israel.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 122
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c6b96e4-61b5-4ba4-bdbb-5dbaa6d9987a/c952dcd0-fb20-47d0-8450-b0c6b9b4f393/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
-secured: "6aeAfn9GjeK6bzoXwN5HCz3ZbgXULayHyWxpxYXNG57+B1svRyMenrUZAs8QD9jbmjJMgly+Ht287rX1BLO4dCVzu6qdmtZGUWaFrsySYJJfjft/nmMKlslB2ZXOBZfP0BMOcWe04L/EcRviLvf2KNHkVredqQKxtxwb3LaLbayCFKlWE1xqrsAbUP14oDezh2uHMBllXJGYeIkZBCEToCEr2+Sj0OiQnbX402NK358vKXaqJBF9oARy07HziriblXdjgLbAenfYXMALZKAYB3+lSSOvwE/wLOIj7eNKHQ4OXz3NkSyd0KdZwTBO1NrQK9PsIIuffAmYOPOtTTO3TRLnTacr7jgVSZwT6JFg4/I=;uXHo3jrZ+03TZ9tXNGMZ/g=="
+secured: "ojiqHUItrAe327J6uIEFW8f25Z/xGF0AvuUa4J5wceaoFipVO1hk9ki8AjolnZpMF+tLZYuz2PlFbYGRv8eMOzvGrKWguTQkzeqbi7EuK8cpXiRhfpsfH2FETTmLSkQqT35hUScrFu+X413++vf8qeXHoPV8IJX8QtoQ25NELZmy23ECHR8U8/cRg+IJ3tqRdnBaqAugaXaLpfQPZPuGduO6p3QLlgG+W8HD6nbMp0bKMFRDYww4Jln3d/P+wxtQ0/qT9m0mCL98Mn8Lhzs02UNzC5fDrXTX4nlRcYGd9fUFpGhiRt5eD3IuRckeO4OYi3+4y3sKKRyXB1vZir3I1zcm0NtZKCaNHWQy4J5Nc8huPHRD3r2SBcXB9EzxP9hGbTARJrP227qKyLd9amxVoebl6vzOpcn1vdvrrE7dd/rY13891mCdnRHGvlwUeHH3VlqBGDsnyDUR0JLXCSJYx4T+gQzInsdbFV2m8lmNEZBVfxbwySK4yYhRYsidkg2UfQSX+tYR0R2d+ZYm4zwC/g==;iBiaZR9VwBv4EJVIC4gFTA=="
 ---
 

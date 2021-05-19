@@ -41,6 +41,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Fact Check-Air Force Two was at top of plane steps when Kamala Harris boarded"
+    excerpt: "A picture and video which social media users claim show U.S. Vice President Kamala Harris walking up airplane steps with a green screen or no plane at all at the top are circulating on social media, in connection with a baseless conspiracy theory claiming she is not"
+    publishedDateTime: 2021-05-19T07:39:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-harris-af2/fact-check-air-force-two-was-at-top-of-plane-steps-when-kamala-harris-boarded-idUSL2N2N60YA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N60YA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N60YA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
   - title: "VP Harris says illegal migration worsened by 'extreme climate' disasters"
     excerpt: "Vice President Kamala Harris said Monday that “extreme climate incidents” such as hurricanes destroy crops in Central America and prompt more people to migrate illegally to the U.S."
     publishedDateTime: 2021-05-17T23:10:00Z
