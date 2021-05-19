@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Pelosi, Biden praise moms on Mother's Day amid progressive talk of 'birthing people'"
-excerpt: "House Speaker Nancy Pelosi and the White House issued Mother's Day messages on Sunday as some progressives use the term \"birthing people\" instead."
-publishedDateTime: 2021-05-09T18:28:54Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iuPEBIPNG-w/mothers-day-birthing-people-democrats-pelosi-cori-bush"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iuPEBIPNG-w/mothers-day-birthing-people-democrats-pelosi-cori-bush"
-ampWebUrl: "https://www.foxnews.com/politics/mothers-day-birthing-people-democrats-pelosi-cori-bush.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mothers-day-birthing-people-democrats-pelosi-cori-bush.amp"
+title: "Biden's War on Single-Family Homeowners"
+excerpt: "If you saved your money and bought a house in the suburbs, your investment and lifestyle are under attack. President Joe Biden is pushing to end"
+publishedDateTime: 2021-05-19T10:07:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/05/19/bidens_war_on_single-family_homeowners_145782.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/05/19/bidens_war_on_single-family_homeowners_145782.html"
+ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/19/bidens_war_on_single-family_homeowners_145782.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/19/bidens_war_on_single-family_homeowners_145782.amp.html"
 type: article
-quality: 168
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/16b0dc99-e121-415c-b87d-2f890616897e/236da878-ceff-4311-976e-acb04b43505a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://assets.realclear.com/images/54/543623_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -46,6 +43,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Pelosi, Biden praise moms on Mother's Day amid progressive talk of 'birthing people'"
+    excerpt: "House Speaker Nancy Pelosi and the White House issued Mother's Day messages on Sunday as some progressives use the term \"birthing people\" instead."
+    publishedDateTime: 2021-05-09T18:28:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iuPEBIPNG-w/mothers-day-birthing-people-democrats-pelosi-cori-bush"
+    ampWebUrl: "https://www.foxnews.com/politics/mothers-day-birthing-people-democrats-pelosi-cori-bush.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mothers-day-birthing-people-democrats-pelosi-cori-bush.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/16b0dc99-e121-415c-b87d-2f890616897e/236da878-ceff-4311-976e-acb04b43505a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden meets with congressional leaders, jokes he'll 'snap my fingers' to reach compromise: 'It'll happen'"
     excerpt: "President Biden on Wednesday, meeting with congressional leaders at the White House, said he believes he can reach \"some consensus on a compromise\" with Republicans and Democrats, joking that he’ll \"just snap my fingers\" for it to happen."
@@ -79,23 +92,7 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden's War on Single-Family Homeowners"
-    excerpt: "If you saved your money and bought a house in the suburbs, your investment and lifestyle are under attack. President Joe Biden is pushing to end"
-    publishedDateTime: 2021-05-19T10:07:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/05/19/bidens_war_on_single-family_homeowners_145782.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/05/19/bidens_war_on_single-family_homeowners_145782.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/05/19/bidens_war_on_single-family_homeowners_145782.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/543623_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
-secured: "IJH7EKON1Bi/dq8jLCH7EIUevlqU0v+UjlSm6VqZVyrVgrVVKITJjex8nrTwuveP6Sf/SxPg8vGOopUzOyeErSMGICQiR3iv45CMtial98CinJ0+k2vgytidT4+s8IV9Oqj7PAR3Z7TDM+rx2OPazcgYFOaBfaAdRSGaxyayxMkYL8HlZ5YvAYS3sbejKNHmy6QVZ08WTS7AHIYXH1oEC/X1+tXmhHnmgLEWBdOjjwQWKdqx3tcSJBYOqWHaDLK/rafYP5oxuadMc90bG+1svKYL0dL9h+TQveby4ypbc+C9HrW8p5bBRtI2Bi69fZv1xLi+NmFpc/LDY5ttSZ9g6nRTj4IyV+grUOiZrm8ThXs=;he9Cr67Rlv45fU9KdscB2g=="
+secured: "GDEQ1VJynJfbClV87I+au1EPndx2pJVwHc31gTXgbKjewl2ej6IEEZ00nbcMUzzLfiXQPdZKHrhLBapMUiIKPGtkxg7M1MW/dBMitfH0rSfMj2nJW0z+sI5woe5Ew5Kd0EwDyKywYy57waUR5K+YTB/JXjlgG3BxknTEuagvU2JHzp9SQhgVkHXc3plMsO15gfAzrtFMiS3YaJWDmasNFP6Dnh2Kxf9xa/thz/wDAmOpzV44FyufTOKbJPYqGmZQ7oFqbLnIiNto7Ckc799n50xNOcnuQIjgoPi6QaB8Ne5gZ6LMrtKda0Cuny6CuZcV2PzdOqJDDMAybKpUoMPnxcySMRb1QBNMwcvjVleJ4Ok=;+iBv+nhNIH+9HahqW/63DA=="
 ---
 

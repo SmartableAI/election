@@ -47,6 +47,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Capitol riot vote forces Republicans to pick truth or Trump"
+    excerpt: "It's Trump or the truth.\n    \n"
+    publishedDateTime: 2021-05-19T10:44:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9LEgQMyKvj4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/donald-trump-republican-party-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/donald-trump-republican-party-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420081143-01-kevin-mccarthy-0415-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump ditches Florida and heads north for the summer"
+    excerpt: "As reliably as seasons change, so does Donald Trump shift his primary residence.\n    \n"
+    publishedDateTime: 2021-05-19T11:02:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E_0oHW2keek/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/bedminster-mar-a-lago-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/bedminster-mar-a-lago-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518182342-trump-bedminster-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump allies search for viable Cheney foe in Wyoming amid fight over 'Big Lie' "
     excerpt: "Chuck Gray, a Wyoming Republican state legislator, \"absolutely\" believes that former President Donald Trump won the 2020 election.\n    \n"
     publishedDateTime: 2021-05-06T15:01:51Z
@@ -82,7 +114,7 @@ related:
   - title: "N.Y. state investigation into Trump is now a criminal probe"
     excerpt: "The probe is “no longer purely civil in nature,” a spokesperson for state Attorney General Letitia James confirmed to POLITICO."
     publishedDateTime: 2021-05-19T02:37:00Z
-    webUrl: "https://www.politico.com/states/new-york/albany/whiteboard/2021/05/18/ny-state-investigation-into-trump-now-a-criminal-probe-1382990"
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/05/18/ny-state-investigation-into-trump-now-a-criminal-probe-1382990"
     type: article
     provider:
       name: Politico

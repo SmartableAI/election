@@ -1,32 +1,33 @@
 ---
 category: news
-title: "N.Y. state investigation into Trump is now a criminal probe"
-excerpt: "The probe is “no longer purely civil in nature,” a spokesperson for state Attorney General Letitia James confirmed to POLITICO."
-publishedDateTime: 2021-05-19T02:37:00Z
-originalUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/05/18/ny-state-investigation-into-trump-now-a-criminal-probe-1382990"
-webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/05/18/ny-state-investigation-into-trump-now-a-criminal-probe-1382990"
+title: "Capitol riot vote forces Republicans to pick truth or Trump"
+excerpt: "It's Trump or the truth.\n    \n"
+publishedDateTime: 2021-05-19T10:44:12Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9LEgQMyKvj4/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9LEgQMyKvj4/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/donald-trump-republican-party-capitol-riot/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/donald-trump-republican-party-capitol-riot/index.html"
 type: article
-quality: 115
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/f1/5d/3e4d90f74126898d776eaa18b883/5-5-21-donaldtrump-ap-773.jpg"
-    width: 1160
-    height: 773
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420081143-01-kevin-mccarthy-0415-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -43,22 +44,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505064526-01-liz-cheney-0414-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Capitol riot vote forces Republicans to pick truth or Trump"
-    excerpt: "It's Trump or the truth.\n    \n"
-    publishedDateTime: 2021-05-19T10:44:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9LEgQMyKvj4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/donald-trump-republican-party-capitol-riot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/donald-trump-republican-party-capitol-riot/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420081143-01-kevin-mccarthy-0415-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -126,7 +111,21 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "N.Y. state investigation into Trump is now a criminal probe"
+    excerpt: "The probe is “no longer purely civil in nature,” a spokesperson for state Attorney General Letitia James confirmed to POLITICO."
+    publishedDateTime: 2021-05-19T02:37:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/05/18/ny-state-investigation-into-trump-now-a-criminal-probe-1382990"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/f1/5d/3e4d90f74126898d776eaa18b883/5-5-21-donaldtrump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
-secured: "4RTo5uACo3aofGN64VOmpyfmCWAyh1KS0+PThQhjI/ozEtmRBcFcRVMC3aUb20/7VJyzsL9oF29zlT+QBW3R7HxUspK3PqVV4wRa0UAyWIuNoix9yOS7LnHZCxiQBBH7/Pc7mqVNK0yQhTceHS/j9uXIiVCimX6XGcgs6bT4zjNU39QggZ0Ozu/IzEJFBObXko4bCS9t0F7tjDwdho7ZSZivO4c5YfzebLN7/xKiwtnDR2ckJiZGvP337jbQAHdgITTzN7R83GVAQ4EAxbZi3ns5pkrUaOlhaRUiXsrL8RyTEmHhiFnlm1A89qspH5vw+K/XfZMFGlIunW+FOSCGbjhxLiS7at7AJ2sJ0F7bYck=;OmxbiZ8LGkd7mFv4ES/RNA=="
+secured: "qd3+8MOy1+7G/wcyNZJKwmphQ0lf3gXPf6AXZELbeb9U08H8kvci4Q46qlvEoVdS+E6kIqOn7c79jFarspGgN8NMgF8k9NayQsUvsWDIxlSSsWdv3gexqCqU2xHRI2W9/TYHr5OmePUlGcKpaA6eifJJq5DSXrCWoN0BWEazfJld2Bw2ABSccON5pkIDp+j0lAV9PkT7goNgXVhv2zOhxw9iKTtq8sduFfwcgVaSJVFwbxXkLthZvGzVppgKvDYowZIxg0cui9VAar6Z4391HwmrRwKwPAyt8zF1zx1Hg0NLhk5DUB5HK6iWKAJ48fQIzcX459gHC/Jcs9Xep4rl7EfHL+qgLh2H3xmNqSiIs/U=;+OhaJpWPEW7+d/QUUR20/A=="
 ---
 

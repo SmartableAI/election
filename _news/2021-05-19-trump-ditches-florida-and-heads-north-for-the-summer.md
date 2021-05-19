@@ -1,32 +1,33 @@
 ---
 category: news
-title: "N.Y. state investigation into Trump is now a criminal probe"
-excerpt: "The probe is “no longer purely civil in nature,” a spokesperson for state Attorney General Letitia James confirmed to POLITICO."
-publishedDateTime: 2021-05-19T02:37:00Z
-originalUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/05/18/ny-state-investigation-into-trump-now-a-criminal-probe-1382990"
-webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/05/18/ny-state-investigation-into-trump-now-a-criminal-probe-1382990"
+title: "Trump ditches Florida and heads north for the summer"
+excerpt: "As reliably as seasons change, so does Donald Trump shift his primary residence.\n    \n"
+publishedDateTime: 2021-05-19T11:02:13Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E_0oHW2keek/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E_0oHW2keek/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/bedminster-mar-a-lago-donald-trump/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/bedminster-mar-a-lago-donald-trump/index.html"
 type: article
-quality: 115
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/f1/5d/3e4d90f74126898d776eaa18b883/5-5-21-donaldtrump-ap-773.jpg"
-    width: 1160
-    height: 773
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518182342-trump-bedminster-file-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -59,22 +60,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420081143-01-kevin-mccarthy-0415-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump ditches Florida and heads north for the summer"
-    excerpt: "As reliably as seasons change, so does Donald Trump shift his primary residence.\n    \n"
-    publishedDateTime: 2021-05-19T11:02:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E_0oHW2keek/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/bedminster-mar-a-lago-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/bedminster-mar-a-lago-donald-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518182342-trump-bedminster-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -126,7 +111,21 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "N.Y. state investigation into Trump is now a criminal probe"
+    excerpt: "The probe is “no longer purely civil in nature,” a spokesperson for state Attorney General Letitia James confirmed to POLITICO."
+    publishedDateTime: 2021-05-19T02:37:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/05/18/ny-state-investigation-into-trump-now-a-criminal-probe-1382990"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/f1/5d/3e4d90f74126898d776eaa18b883/5-5-21-donaldtrump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
-secured: "4RTo5uACo3aofGN64VOmpyfmCWAyh1KS0+PThQhjI/ozEtmRBcFcRVMC3aUb20/7VJyzsL9oF29zlT+QBW3R7HxUspK3PqVV4wRa0UAyWIuNoix9yOS7LnHZCxiQBBH7/Pc7mqVNK0yQhTceHS/j9uXIiVCimX6XGcgs6bT4zjNU39QggZ0Ozu/IzEJFBObXko4bCS9t0F7tjDwdho7ZSZivO4c5YfzebLN7/xKiwtnDR2ckJiZGvP337jbQAHdgITTzN7R83GVAQ4EAxbZi3ns5pkrUaOlhaRUiXsrL8RyTEmHhiFnlm1A89qspH5vw+K/XfZMFGlIunW+FOSCGbjhxLiS7at7AJ2sJ0F7bYck=;OmxbiZ8LGkd7mFv4ES/RNA=="
+secured: "2tE4Js6jj32/P8+AzHu7KFMkjT+v/Hal+ouzp/PnuVZEvK5dPNx6LgJRCjw70/573hnb+GousN0su5La5+l3TA2YIE39B1wNXygVO3YbrYZx87MkOkLi7irzeKm1TadgaSjTZVwQZ2RJMQh4WiQRM/GdIr1WvBQM/RHPhLBh/bJnwfClDAgxbQjJoEZ8kT0TzdAinJ5ayO9igUE6Sm+rODsL2/hweb9NVmyd3n4vCP0rhrL8qcWuUWqfkFyMdv6CCrNLyBN3Daei3FBSbkQ0EU9kl2xw6L1jbHn2gWzHqJ55/WxAe9z4Dlh0lRAaSFfeZfp31Td1FDkT9/osHkiavZPvkmlh0AQJTYHY6ET6BHk=;07QRp4nCUfC+jjxeuIhRDw=="
 ---
 

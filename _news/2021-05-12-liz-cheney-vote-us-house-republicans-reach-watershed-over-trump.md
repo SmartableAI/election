@@ -263,6 +263,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "NY attorney general says Trump Org probe is now criminal"
+    excerpt: "The New York attorney general’s office says that it is conducting a criminal investigation into former President Donald Trump’s business empire, expanding what had previously been a civil probe"
+    publishedDateTime: 2021-05-19T03:55:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/ny-attorney-general-trump-org-probe-now-criminal-77770482"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/ny-attorney-general-trump-org-probe-now-criminal-77770482"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/ny-attorney-general-trump-org-probe-now-criminal-77770482"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_0f8190cbf6954199944306960cdc66c5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "10 Things in Politics: Anti-Trump Republicans threaten spinoff 3rd party"
     excerpt: "And the Colonial pipeline is slowly restarting operations."
     publishedDateTime: 2021-05-13T09:39:00Z
@@ -559,15 +575,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "NY Attorney General Says Trump Org Probe Is Now Criminal"
-    excerpt: "The New York attorney general’s office says that it is conducting a criminal investigation into former President Donald Trump’s business empire, expanding what had previously been a civil probe."
-    publishedDateTime: 2021-05-19T03:16:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-05-18/ny-attorney-general-says-trump-org-probe-is-now-criminal"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
   - title: "House Republicans Pick Stefanik to Replace Trump Critic Cheney in Leadership - Media"
     excerpt: "Republicans in the U.S. House of Representatives on Friday elected Elise Stefanik to serve in their No. 3 leadership position, replacing Liz Cheney, an outspoken critic of former President Donald Trump's false claims of election fraud,"
     publishedDateTime: 2021-05-14T13:34:00Z

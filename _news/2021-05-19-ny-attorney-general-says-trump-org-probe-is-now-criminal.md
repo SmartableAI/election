@@ -1,26 +1,34 @@
 ---
 category: news
-title: "NY Attorney General Says Trump Org Probe Is Now Criminal"
-excerpt: "The New York attorney general’s office says that it is conducting a criminal investigation into former President Donald Trump’s business empire, expanding what had previously been a civil probe."
-publishedDateTime: 2021-05-19T03:16:00Z
-originalUrl: "https://www.usnews.com/news/us/articles/2021-05-18/ny-attorney-general-says-trump-org-probe-is-now-criminal"
-webUrl: "https://www.usnews.com/news/us/articles/2021-05-18/ny-attorney-general-says-trump-org-probe-is-now-criminal"
+title: "NY attorney general says Trump Org probe is now criminal"
+excerpt: "The New York attorney general’s office says that it is conducting a criminal investigation into former President Donald Trump’s business empire, expanding what had previously been a civil probe"
+publishedDateTime: 2021-05-19T03:55:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/ny-attorney-general-trump-org-probe-now-criminal-77770482"
+webUrl: "https://abcnews.go.com/US/wireStory/ny-attorney-general-trump-org-probe-now-criminal-77770482"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/ny-attorney-general-trump-org-probe-now-criminal-77770482"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/ny-attorney-general-trump-org-probe-now-criminal-77770482"
 type: article
-quality: 35
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/US/WireAP_0f8190cbf6954199944306960cdc66c5_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Republican Arizona election official says Trump 'unhinged'"
@@ -578,6 +586,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "7JXPuh8kO8/TELapMNJ0Z0CPqKBp01j9oVlwh7B+a9Ad18WOpCWcx7lDHy+wO0zkWjg3fWEADm5wCNR+WCo4UII8GNJq3T7/w8UPnD9IZ41sBKZSisGUzKzXADeA7PmNoaeGWyIm9JQrejnfc97GuvR2FgYnI9Uxf81BTRR3W+NfeA1HF/jigr0x23Uk8SNWl8G/4QEgwBwhHF9m4EwqV1uFqMdwbtDdP8pUAMP+fJZlS9qsvSHDDmbMwmLxSVy0SVXLL+3f15uo8Z4Y85PVz9lKCTJkwBpK4OW7Eeioxm3DCVQMnCy+gRkDZTGHm4OWV3xuyhS+Ks0S2YphxAUf6T7FJOwx5YicmqdjLReqv37fWwPruWZz7ZTxWzkCb9F5qgMMWIbzRs3e+UEy6EPr3tP7166niV5vuFzLvtco5nkO6rz1v0jkTwnPbbPGUwMMH2Z/lOx79Nq8tcqhSRJVzIcHBz2Vbth18+QLCfaABqKuig8uvNxIPmp+B0XOIB1iCsqg/Ad25/Ln8Q52Xbnkzg==;zEeXkO3hxQ0EiXrqVSwixw=="
+secured: "KVJ4fFd9CcZ0i3SBgvctHIptGNU7W+CS78A+cw6eOkCZNADhpXZaIEwUWYwWMSY/ubD8CloPfr1KHfmPH2uit0N1IBAnYokI93nAgqLvasObKQqGJF7UIOurryPFeqobsiplRisAObYdyB98SwwrmD3b5XOqvQB7Ouwfd9K0nNN5XOO3k8zVZII06ezJqyKStt0ccef5VAU3V1jaVlpvsVsBfyKHzHCz7HeWsriT/YmDuIRAqTeV2WxFgr/jiMqlI49XUHK1qf27zzrTDWEBL/MluD1Sqv2Ai6NTUWCoMR8R80dYuKbu+X3Mp+AMFtXPzF7WF6vj+j7I64y2DIgiHswmwL46xVtNK4AMyZXDjtU=;McpbFHEd9/4xxlev7IpTRg=="
 ---
 
