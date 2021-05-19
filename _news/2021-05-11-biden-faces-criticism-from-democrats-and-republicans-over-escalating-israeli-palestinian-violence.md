@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden tells Israel's Netanyahu he expects 'significant de-escalation' of Gaza conflict"
+    excerpt: "President Biden on Wednesday told Israeli Prime Minister Benjamin Netanyahu that he expects \"a significant de-escalation\" as part of the move to a potential cease-fire between Israel and Hamas."
+    publishedDateTime: 2021-05-19T14:42:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_eu4ufFYq8s/biden-israel-netanyahu-significant-de-escalation-gaza-conflict"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-israel-netanyahu-significant-de-escalation-gaza-conflict.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-netanyahu-significant-de-escalation-gaza-conflict.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fc33b01-b1f5-4c90-b154-2f02da58297f/ac4bccbf-1f79-4fb1-af14-2841e4252b81/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Pence slams Biden admin for trying to create a 'false equivalency' between Israel, Hamas"
     excerpt: "EXCLUSIVE: Former Vice President Mike Pence slammed the Biden Administration for attempting to create a “false equivalency” between Israel and Hamas, saying he and former President Trump “set the table for lasting peace and an end to the decades-old conflict in the region,"
     publishedDateTime: 2021-05-18T16:37:00Z

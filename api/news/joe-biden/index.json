@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-19-jill-biden-said-go-f-yourself-during-a-call-with-supporters-after-kamala-harris-implied-in-a-debate-that-joe-biden-was-racist-book-says.md",
+      "title": "Jill Biden said 'go f--- yourself' during a call with supporters after Kamala Harris implied in a debate that Joe Biden was racist, book says",
+      "excerpt": "The now-first lady was incensed at Harris for confronting Biden at a June 2019 debate over his record on racial justice and busing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/jill-biden-go-f-yourself-tense-biden-harris-debate-book-2021-5",
+      "originalUrl": "https://www.businessinsider.com/jill-biden-go-f-yourself-tense-biden-harris-debate-book-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60a517aff27b4c0019445477?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/jill-biden-go-f-yourself-tense-biden-harris-debate-book-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jill-biden-go-f-yourself-tense-biden-harris-debate-book-2021-5?amp",
+      "publishedDateTime": "2021-05-19T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-what-an-old-politician-understands-biden-turns-the-age-issue-to-advantage.md",
       "title": "‘What an old politician understands’ — Biden turns the age issue to advantage",
       "excerpt": "Biden has seemed a changed man, calmer yet bolder. He savors the job, yet governs like a guy who knows the hurdles are high and time is short.",
@@ -1528,63 +1581,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-08-hannity-corrupt-media-is-lying-to-protect-bidens-mental-errors.md",
-      "title": "Hannity: Corrupt media is lying to protect Biden's 'mental errors'",
-      "excerpt": "HANNITY: What was that? Could you repeat that please? Anyway, these kinds of bizarre mental errors, they are commonplace in Joe's White House. It's not just the verbal gaffes. Joe Biden also seems to be having trouble with something called telling the truth,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/hannity-corrupt-media-is-lying-to-protect-bidens-mental-errors",
-      "originalUrl": "https://www.foxnews.com/transcript/hannity-corrupt-media-is-lying-to-protect-bidens-mental-errors",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf731f55-ebf0-4cc2-b65b-83d63507562f/d485e088-eea8-4b62-8f8b-365bb81085a5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/hannity-corrupt-media-is-lying-to-protect-bidens-mental-errors.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/hannity-corrupt-media-is-lying-to-protect-bidens-mental-errors.amp",
-      "publishedDateTime": "2021-05-07T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

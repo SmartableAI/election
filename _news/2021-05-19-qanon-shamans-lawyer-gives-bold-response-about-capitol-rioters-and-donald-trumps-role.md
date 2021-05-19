@@ -111,6 +111,15 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Explainer: Citizen Trump Faces Mounting Legal Woes"
+    excerpt: "Donald Trump's legal woes escalated this week, as New York Attorney General Letitia James announced that a civil probe into the former president's family business had become criminal in nature. Here is a list of some of the investigations and lawsuits haunting Trump's post-presidency life."
+    publishedDateTime: 2021-05-19T15:30:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-05-19/explainer-citizen-trump-faces-mounting-legal-woes"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "1zUpxtrdmkpcyP+3/Cy1izPfVhjvyw4dLf7AdJ6hJ7Hcm+ZcAnWot2/h05T9i5ViYAEVXtPWdas0IVfEtr1Tft0i44a2pwbtvS022mDBfbja7ALhiRViL32EWoA2hiKj/EsQtuBFsyxyKgYsd258eQ3l/eraHCpAO1kKc3QUnFu5eCNjofo1WwgpZIhtj0z0j6oUFKOqXWh6dMQkC2W8+PLpt8SK4xLeKaW/W6t6nC/7ImrYmBxDaBMi6VCpjFnj5R8FtyGy2rK6hxn7Qot/fbARm5pYn3RVUU9VqRaEbp9E9hRUaq1vA5IAKZ6aOB1LjZcwETaiZGD4+y+Qhp9l+LZukj3I9waQZugek21TgHU=;Eru9Qm1JR+FSd+nGfJVqcg=="
 ---

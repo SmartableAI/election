@@ -7,8 +7,8 @@ originalUrl: "https://www.cbsnews.com/video/new-polls-show-trump-and-clinton-nec
 webUrl: "https://www.cbsnews.com/video/new-polls-show-trump-and-clinton-neck-and-neck/"
 type: article
 quality: 105
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump shifts focus from Clinton's emails by praising Saddam Hussein"
-    excerpt: "CBS News' Major Garrett reports on Donald Trump's response to the FBI's decision over the Clinton email case - and his decision to change the subject."
-    publishedDateTime: 2021-04-19T09:54:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-shifts-focus-from-hillary-clintons-emails-by-praising-saddam-hussein/"
+  - title: "What Trump, Obama and Clinton Have Said About UFOs"
+    excerpt: "The former presidents have all left the door open to the possibility that extraterrestrial craft could in fact be real."
+    publishedDateTime: 2021-05-19T15:29:00Z
+    webUrl: "https://www.newsweek.com/what-trump-obama-clinton-have-said-about-ufos-1592844"
+    ampWebUrl: "https://www.newsweek.com/what-trump-obama-clinton-have-said-about-ufos-1592844?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-trump-obama-clinton-have-said-about-ufos-1592844?amp=1"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/19/ab2775b1-3360-4798-84f8-ed746dc34232/thumbnail/1200x630/b39d84bc0b1596ec9484322906eaef9f/cbsn-trump-saddam-0706-1089252-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d.newsweek.com/en/full/1800994/three-former-presidents-have-spoken-about-ufos.jpg"
+        width: 2400
+        height: 1600
         isCached: true
 
 secured: "3jFBZYk8uKRyDQ0NlvrlL/eq8KlbEwtT+S5E5sDM1Fky2wFZa5SMraqUUKyNa1Ibvkl5ErB9o/wF6OcK8pXU83i24NufwkHZolc+R+WpPhGxDfVMico9Gq+KTSibH3ASb/s7Bcg+sKoN7BDJMQnUWw0L+WgBxu22RQc66Y1tP1rGze/NcheWjPfbmMLOEorREXb4iXE2aVGemFMf4QEP8FBROxMKvHf6OK1PMXvaniEOXWD38RWJOSEwsoNwZHy5C/hYEzvAiagneffoSkG4xHh9vhqxNM2bkbpXTElttWarQO7r7Td+mRei42CaK1Pf4r9MYBtp9v/KJeEs1Nl/jzU/ixjeVuq33rs98h+TCYv+P5ITrEezfZSm157GANWD/iCPyqGCw2VUwW5bC4/wSv4u+Ci+J7l0wI9h9wcPKFqMztXb7V8TsLLYDdXAngFj/bbMtjEyhIllTo9o1wsm5GLd9jIqIw7gnsHGKb+sPMZGPnF5o0w++gEvgydx8yLo6ZCFGJTE1f6qiObyVOApTw==;MNP8zTdEDpuzuavUw0aaiA=="

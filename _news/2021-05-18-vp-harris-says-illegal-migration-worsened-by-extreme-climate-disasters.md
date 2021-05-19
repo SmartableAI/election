@@ -41,33 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Fact Check-Air Force Two was at top of plane steps when Kamala Harris boarded"
-    excerpt: "A picture and video which social media users claim show U.S. Vice President Kamala Harris walking up airplane steps with a green screen or no plane at all at the top are circulating on social media, in connection with a baseless conspiracy theory claiming she is not"
-    publishedDateTime: 2021-05-19T07:39:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-harris-af2/fact-check-air-force-two-was-at-top-of-plane-steps-when-kamala-harris-boarded-idUSL2N2N60YA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N60YA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N60YA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 102
-  - title: "Harris, Emhoff earned more than Bidens with 7-figure earnings, taxes show"
-    excerpt: "Both the first and second families' tax returns reveal losses of income since the successful Biden-Harris White House bid."
-    publishedDateTime: 2021-05-18T12:32:00Z
-    webUrl: "https://thegrio.com/2021/05/18/harris-emhoff-more-income-than-bidens/"
-    ampWebUrl: "https://thegrio.com/2021/05/18/harris-emhoff-more-income-than-bidens/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/05/18/harris-emhoff-more-income-than-bidens/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 89
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2021/05/EmhoffHarris-scaled.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Kamala Harris to keynote first Asian American, Pacific Islander unity summit"
     excerpt: "Vice President Kamala Harris will keynote the first unity summit for Asian Americans and Pacific Islanders on Wednesday."
     publishedDateTime: 2021-05-17T18:34:00Z

@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House lays the groundwork for high-profile Kamala Harris visit to Mexico and Guatemala "
+    excerpt: "The White House is laying down the groundwork ahead of Vice President Kamala Harris' first trip abroad as the lead on diplomatic efforts in Central America, hoping to finalize its strategy to take on the root causes of migration before she lands, multiple sources told CNN.\n    \n"
+    publishedDateTime: 2021-05-19T15:02:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tRAlRJhM_xU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/harris-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/harris-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505175834-kamala-viaje-avion-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "EaDtQI1oFXk1eV6PL6csAPwKL/hCef8+nPK43U78SCPyLigFCX1bqZa/4VCvYUsmEqQFm0gdJx4aE1jAYnAArfudtmnLtfFpwhf8ddtkcOwteInUG/kdPFDlGJctE59QrNmXKjPtfimOBXTIiH/fRggAH9FUwickWRydP1n3ZjIivINMeI5GoxrnJgBL6M7+fWSiVK/n6Mx9QeemzY0vKun5dQavAFi1Vf4rtAsLBSOAdvUAvlB5qEj3satRvFpR8ZZ0cnm+gnqYfK8+05x/dt8WXC1/LRnJHFOiJ9zAMzILjxf4GtAS6BnImxfUD4pLkUPwUtpOvYdMvRxIKrGLpt+Y/FIDTRyvl+Q1L4vxrzhJb0Z9/EVU2ZlpEnE2aRfydH/YSPQvJWE1sUV3spxd1dRyjLcUbhpQvpufIKC15FdTFBOCL2LJGWPyblUIQDRSxbVwsa/Vx6UCbLPWupw1lgfFHcO0EfBav9M1UsoKcY1Sg9RWADTyDQvx8Z+HBHff2xHxUdRgjgLBPAveLt00+Q==;hbw/6PKwZzVO3H1GMYpPgg=="
 ---

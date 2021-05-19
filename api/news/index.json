@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-19-what-trump-obama-and-clinton-have-said-about-ufos.md",
+      "title": "What Trump, Obama and Clinton Have Said About UFOs",
+      "excerpt": "The former presidents have all left the door open to the possibility that extraterrestrial craft could in fact be real.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/what-trump-obama-clinton-have-said-about-ufos-1592844",
+      "originalUrl": "https://www.newsweek.com/what-trump-obama-clinton-have-said-about-ufos-1592844",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1800994/three-former-presidents-have-spoken-about-ufos.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/what-trump-obama-clinton-have-said-about-ufos-1592844?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-trump-obama-clinton-have-said-about-ufos-1592844?amp=1",
+      "publishedDateTime": "2021-05-19T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-jill-biden-said-go-f-yourself-during-a-call-with-supporters-after-kamala-harris-implied-in-a-debate-that-joe-biden-was-racist-book-says.md",
+      "title": "Jill Biden said 'go f--- yourself' during a call with supporters after Kamala Harris implied in a debate that Joe Biden was racist, book says",
+      "excerpt": "The now-first lady was incensed at Harris for confronting Biden at a June 2019 debate over his record on racial justice and busing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/jill-biden-go-f-yourself-tense-biden-harris-debate-book-2021-5",
+      "originalUrl": "https://www.businessinsider.com/jill-biden-go-f-yourself-tense-biden-harris-debate-book-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60a517aff27b4c0019445477?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/jill-biden-go-f-yourself-tense-biden-harris-debate-book-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jill-biden-go-f-yourself-tense-biden-harris-debate-book-2021-5?amp",
+      "publishedDateTime": "2021-05-19T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-biden-adopting-firmer-tone-with-netanyahu-as-decades-long-relationship-enters-its-most-consequential-moment.md",
       "title": "Biden adopting firmer tone with Netanyahu as decades-long relationship enters its most consequential moment",
       "excerpt": "Joe Biden was in for a few surprises when he visited Israel in 2010.\n    \n",
@@ -1245,118 +1350,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-biden-wants-to-bring-the-economy-from-relief-to-recovery-a-labor-shortage-may-signal-trouble-for-those-plans.md",
-      "title": "Biden wants to bring the economy from relief to recovery. A labor shortage may signal trouble for those plans.",
-      "excerpt": "Patti Eisenbraun had been anxiously waiting for the pandemic to subside so the dining room and patio at the Brown Iron Brewhouse would be bustling once again.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WGt8RGleOwA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WGt8RGleOwA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210402113121-01-biden-jobs-0402-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/18/politics/labor-shortage-biden-economy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/labor-shortage-biden-economy/index.html",
-      "publishedDateTime": "2021-05-18T04:50:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-biden-admins-mixed-messages-on-fuel-pipelines-are-as-muddled-as-mask-mandates.md",
-      "title": "Biden admin's mixed messages on fuel pipelines are as muddled as mask mandates",
-      "excerpt": "Biden administration officials have sported blatant hypocrisy between prioritizing the Colonial Pipeline over the Keystone and their quick change of heart on coronavirus masking.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BuniH_UNh00/biden-fuel-pipelines-mask-mandates",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BuniH_UNh00/biden-fuel-pipelines-mask-mandates",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e650873-a2f8-4a79-9700-b2a47fedc70f/56f7d7e0-f556-4494-b172-23b97bef386e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-fuel-pipelines-mask-mandates.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-fuel-pipelines-mask-mandates.amp",
-      "publishedDateTime": "2021-05-18T03:12:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

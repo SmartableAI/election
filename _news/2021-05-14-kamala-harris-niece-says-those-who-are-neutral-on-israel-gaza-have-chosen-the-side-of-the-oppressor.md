@@ -110,6 +110,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris keeps list of reporters who don’t ‘understand’ her: report"
+    excerpt: "Kamala Harris and her team, according to a profile of the VP published by The Atlantic, typically “dismiss” reporters and “tracks political players and reporters whom she thinks"
+    publishedDateTime: 2021-05-19T14:57:00Z
+    webUrl: "https://nypost.com/2021/05/19/vp-harris-keeps-list-of-reporters-who-dont-understand-her-report/"
+    ampWebUrl: "https://nypost.com/2021/05/19/vp-harris-keeps-list-of-reporters-who-dont-understand-her-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/vp-harris-keeps-list-of-reporters-who-dont-understand-her-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-reporters-7.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Christian minister sues Nancy Pelosi, Kamala Harris over access to Capitol"
     excerpt: "A Christian minister is suing House Speaker Nancy Pelosi, Vice President Kamala Harris, the Capitol Police Board, and the Sergeant of Arms for the Senate — saying he was denied access to"
     publishedDateTime: 2021-03-31T16:51:00Z

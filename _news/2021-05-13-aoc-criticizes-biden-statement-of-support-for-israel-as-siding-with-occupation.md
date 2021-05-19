@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/aoc-criticizes-biden-statement-of-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-criticizes-biden-statement-of-support-for-israel-as-sideing-with-occupation.amp"
 type: article
 quality: 170
-heat: 250
+heat: 270
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden tells Israel's Netanyahu he expects 'significant de-escalation' of Gaza conflict"
+    excerpt: "President Biden on Wednesday told Israeli Prime Minister Benjamin Netanyahu that he expects \"a significant de-escalation\" as part of the move to a potential cease-fire between Israel and Hamas."
+    publishedDateTime: 2021-05-19T14:42:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_eu4ufFYq8s/biden-israel-netanyahu-significant-de-escalation-gaza-conflict"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-israel-netanyahu-significant-de-escalation-gaza-conflict.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-netanyahu-significant-de-escalation-gaza-conflict.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fc33b01-b1f5-4c90-b154-2f02da58297f/ac4bccbf-1f79-4fb1-af14-2841e4252b81/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden faces criticism from Democrats and Republicans over escalating Israeli-Palestinian violence"
     excerpt: "Lawmakers from vastly different ends of the political spectrum have taken aim at Biden and his administration over the growing violence in the region, calling out the president on the violence in the region — albeit for different reasons."

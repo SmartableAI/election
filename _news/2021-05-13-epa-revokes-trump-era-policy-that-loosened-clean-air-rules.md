@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/epa-revokes-trump-era-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/epa-revokes-trump-era-policy-loosened-clean-air-77667886"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -111,6 +111,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Explainer: Citizen Trump Faces Mounting Legal Woes"
+    excerpt: "Donald Trump's legal woes escalated this week, as New York Attorney General Letitia James announced that a civil probe into the former president's family business had become criminal in nature. Here is a list of some of the investigations and lawsuits haunting Trump's post-presidency life."
+    publishedDateTime: 2021-05-19T15:30:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-05-19/explainer-citizen-trump-faces-mounting-legal-woes"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "NCoaKF9h0is5go15JJND6ovoL99myL0C6XTl8b+lGqOx7jbxtJLviDVJ4qkIUR2FIQv8U7OElGOnXSql/KlwtIAi0+bgbEDyGP5U50saq3577oyG98O99YvCJLTxHcCNNNnyh/3hzuTJ7zlQutKql33cwsrWdKUCnTXJ5iID7PcD1exPyqEakq8RETogQC9EobL8l4J0XpmOvSsJbPTKipAnAVRrwEO+wlKBbvqOF2hyrg6VwykAHYTMn3GGY1pKoxAM/+jyu68uUPjpKZj7n2OXeMJdWAqveqZ+HTYS89Knv/3YmB+HfmEHDzkXNsdwjf4FN3prfLvxbGITnCOxv8sZ6QQkCqd/Rb2SuXmd5hjxkGX6LUWUulZliaCZaVobORnCvbkvAlEP860HY5PUg+9YPAq3hdygSsiVoc6CQCHRSd26HXDm440tkX3H8LErUvJ2SEqqA72+u2sLNUIDlrUcHqugzGlrpXR0Y9Pp8fQ4GG9tKzGVS9XKx7agbFG5SnSgyCq9qshdcbFS1lWckg==;kEGIyK70FZygQZUhjL5brA=="
 ---

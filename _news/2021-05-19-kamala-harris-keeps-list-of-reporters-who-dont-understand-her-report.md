@@ -1,14 +1,14 @@
 ---
 category: news
-title: "VP Kamala Harris cheers Ella Emhoff on her college graduation"
-excerpt: "I am so proud of you,” the veep posted over a snap of her with her stepdaughter. “Keep dreaming with ambition and there is nothing you cannot achieve.”"
-publishedDateTime: 2021-05-15T23:55:00Z
-originalUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/"
-webUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/"
-ampWebUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
+title: "Kamala Harris keeps list of reporters who don’t ‘understand’ her: report"
+excerpt: "Kamala Harris and her team, according to a profile of the VP published by The Atlantic, typically “dismiss” reporters and “tracks political players and reporters whom she thinks"
+publishedDateTime: 2021-05-19T14:57:00Z
+originalUrl: "https://nypost.com/2021/05/19/vp-harris-keeps-list-of-reporters-who-dont-understand-her-report/"
+webUrl: "https://nypost.com/2021/05/19/vp-harris-keeps-list-of-reporters-who-dont-understand-her-report/"
+ampWebUrl: "https://nypost.com/2021/05/19/vp-harris-keeps-list-of-reporters-who-dont-understand-her-report/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/vp-harris-keeps-list-of-reporters-who-dont-understand-her-report/amp/"
 type: article
-quality: 135
+quality: 134
 heat: -1
 published: false
 
@@ -22,7 +22,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-ella-1.jpg?quality=90&strip=all&w=1200"
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-reporters-7.jpg?quality=90&strip=all&w=1200"
     width: 1200
     height: 800
     isCached: true
@@ -74,7 +74,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "VP Kamala Harris cheers Ella Emhoff on Parsons graduation"
+  - title: "VP Kamala Harris cheers Ella Emhoff on her college graduation"
     excerpt: "I am so proud of you,” the veep posted over a snap of her with her stepdaughter. “Keep dreaming with ambition and there is nothing you cannot achieve.”"
     publishedDateTime: 2021-05-15T23:55:00Z
     webUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/"
@@ -90,19 +90,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Kamala Harris keeps list of reporters who don’t ‘understand’ her: report"
-    excerpt: "Kamala Harris and her team, according to a profile of the VP published by The Atlantic, typically “dismiss” reporters and “tracks political players and reporters whom she thinks"
-    publishedDateTime: 2021-05-19T14:57:00Z
-    webUrl: "https://nypost.com/2021/05/19/vp-harris-keeps-list-of-reporters-who-dont-understand-her-report/"
-    ampWebUrl: "https://nypost.com/2021/05/19/vp-harris-keeps-list-of-reporters-who-dont-understand-her-report/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/vp-harris-keeps-list-of-reporters-who-dont-understand-her-report/amp/"
+  - title: "VP Kamala Harris cheers Ella Emhoff on Parsons graduation"
+    excerpt: "I am so proud of you,” the veep posted over a snap of her with her stepdaughter. “Keep dreaming with ambition and there is nothing you cannot achieve.”"
+    publishedDateTime: 2021-05-15T23:55:00Z
+    webUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/"
+    ampWebUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 134
+    quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-reporters-7.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-ella-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -185,6 +185,6 @@ related:
         height: 778
         isCached: true
 
-secured: "c2NG3gSVU2/haYmxESI8NxAUJXWsAwGHp4dyxBvOVAdnqGuEs5qfLP5CvCLLUFz6SycBOrKsiOVujG7cwhcP+ijyzuSpkglHatS96SCu0+d8tndNRfjyzV1bO07oqeyiA6QuahokbITzsO/M5JKERh8TLVUlS6Si1LSX7B/DNHqlB6xbNTdeeLOJAEEQIih/IhhxQDRll3tHDjkODDzWM+samMi+JqtBg+P/LNDHVDhmxoKzhCBeOw1A9/caJ3KFjuXXrXt8vubVdtkcrZ83LZTJIgx6PidXN8c5NFl80+QMvKFCsCZhP3Uk6kz0LHKNLlXntGK05L/C7RxPIeIIbQ8EAF77u9YmeUSCudZnCA0=;lQYDfCXehwhvxz+bJrcjmA=="
+secured: "E4cXlmjrTUbWctordN/iTX9q9sLqrRh3/tiI2tede/c/aONJSTYwLcWO0YQLhnWhbe95N7ij+HRXDfzKkM9m7KuSv+tiBH5SyySGUM0Tnm79EV3JZVDb3JxaUhhJV3HUqCMp/mxlHG91p2Z6mEuX9vFWUMf2y0ANdH+3gt+XznlO3nyg7VtEuKUJ4DoNRHYajhpmt9mDZx53CInMMEep5KHs6IKrPGywVAj2BMoltgIx1YTZVIgyrpLwbcXcMw/7Rzlfyg/W42LcFlljuVc5w6JmaOwsx4TT8TfhXKE2ehxLShKEz6ISo+txg7TkXh9shSifr3CtQH2XqctkvP2m+K0PB96TETKVtIt9ijY/91U=;hV5PEKWpI8YWpOgKLNcVrA=="
 ---
 

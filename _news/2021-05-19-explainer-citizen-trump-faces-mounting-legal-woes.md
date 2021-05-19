@@ -1,34 +1,26 @@
 ---
 category: news
-title: "Families separated by Trump receive therapy, but funds could dry up soon"
-excerpt: "After Trump separated children from their families, they've gotten crucial therapy, paid for by the government. But the future of those services is up in the air."
-publishedDateTime: 2021-05-14T13:00:00Z
-originalUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon"
-webUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon"
-ampWebUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon?_amp=true"
+title: "Explainer: Citizen Trump Faces Mounting Legal Woes"
+excerpt: "Donald Trump's legal woes escalated this week, as New York Attorney General Letitia James announced that a civil probe into the former president's family business had become criminal in nature. Here is a list of some of the investigations and lawsuits haunting Trump's post-presidency life."
+publishedDateTime: 2021-05-19T15:30:00Z
+originalUrl: "https://www.usnews.com/news/world/articles/2021-05-19/explainer-citizen-trump-faces-mounting-legal-woes"
+webUrl: "https://www.usnews.com/news/world/articles/2021-05-19/explainer-citizen-trump-faces-mounting-legal-woes"
 type: article
-quality: 124
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/6a9b291/2147483647/strip/true/crop/4200x2743+0+139/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7a%2F7d%2F7f45f2a44b5aa994549b331daf6d%2Fsd-photos-1staff-766522-sd-me-family-renunification-ncc-017.jpg"
-    width: 320
-    height: 209
-    isCached: true
 
 related:
   - title: "EPA revokes Trump-era policy that loosened clean-air rules"
@@ -79,6 +71,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Families separated by Trump receive therapy, but funds could dry up soon"
+    excerpt: "After Trump separated children from their families, they've gotten crucial therapy, paid for by the government. But the future of those services is up in the air."
+    publishedDateTime: 2021-05-14T13:00:00Z
+    webUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon"
+    ampWebUrl: "https://www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2021-05-14/families-separated-by-trump-get-therapy-funds-could-dry-up-soon?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6a9b291/2147483647/strip/true/crop/4200x2743+0+139/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7a%2F7d%2F7f45f2a44b5aa994549b331daf6d%2Fsd-photos-1staff-766522-sd-me-family-renunification-ncc-017.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "‘It’s hard to look at’: Donald Trump makes National Portrait Gallery debut"
     excerpt: "Photo of ex-president will make way for a painted portrait as gallery says Trump’s team is considering artists"
     publishedDateTime: 2021-05-14T19:52:00Z
@@ -111,16 +119,7 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Explainer: Citizen Trump Faces Mounting Legal Woes"
-    excerpt: "Donald Trump's legal woes escalated this week, as New York Attorney General Letitia James announced that a civil probe into the former president's family business had become criminal in nature. Here is a list of some of the investigations and lawsuits haunting Trump's post-presidency life."
-    publishedDateTime: 2021-05-19T15:30:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-05-19/explainer-citizen-trump-faces-mounting-legal-woes"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
-secured: "B8caYhuOdaOUVWcOAG/4j0+irbGI+pcVBvGxy/8SK/IXAXtPy2kS6xmwvpHStQFolV2T5EPhS6brQDPYB+ULgrQwcUyYR2Et4TAqNCRTcTvmFkVM+dnw3MCNXSWxXW/Oc9pCQMsG8Mp+Ua6f1oCRsLh/oqP9KAEdBXZJmRF60Fi/oeS1oRBoVKLg9F+dzJ63ih6jJMcUMwaOiyl8yK2vuEKCeK3s8ljmqbH+9pieHlwh5z7/BFRmW5BEGzGIRRc8dxXJts5xW2/ar9FztRivBskc+9Omz4SFx1kEMrR54LhVZPhSlUVKVppD1kRKhSfW4WLPABrXKRCnUoe+jhnd3T7H5rNemSlhp5GrJJOkYsw=;ywPd2PptT0zSoPZI8HhMKA=="
+secured: "/i7jp7o9vuvlqY6gljzK/5BzibwefVGvYrXWqmiW9TS0hMJUtRgw1n6Omjgv/DeH1QN2GeVMbZpk1aYD6n3ZpP6OH+JB4rYDw3tihVvmPRTemDNdtVTjzQsavDsJzVU/B8w/4EDPGoGXuAHO1lTEhjidSDh7YxQh8ATkmGTkqzvknbmI2v0pso/WvGHRWbF3R1YtOdcETTpLWzeTgDnL/JDhMkxxjg6VSFdQPyuOu0Eo47mOzWqdfL/kEOF+vBmcAUDfR6X+zSv1BqR45lSbMOjrdhRd8T9OLlpPeU+V/Q3OPUdGfTyPJGIDGPsc6INxkHzRKU3JvMQfV7WppM30zeCCOg+M121Mi90Wluo2aVE=;ARFecU1WotUkQRc6vap17w=="
 ---
 
