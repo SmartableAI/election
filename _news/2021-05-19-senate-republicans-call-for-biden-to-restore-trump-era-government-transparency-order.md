@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden doesn't believe there is ‘any significant portion' of Americans who won't get vaccinated"
-excerpt: "President Biden seemed optimistic that his administration would reach its goal of having 70 percent of Americans vaccinated by July 4, saying that he doesn’t believe there is “any significant portion” of Americans who refuse to get vaccinated."
-publishedDateTime: 2021-05-12T21:42:59Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUR0bQ6LhdU/biden-no-significant-portion-americans-vaccinated"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUR0bQ6LhdU/biden-no-significant-portion-americans-vaccinated"
-ampWebUrl: "https://www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp"
+title: "Senate Republicans call for Biden to restore Trump-era government transparency order"
+excerpt: "EXCLUSIVE: Sen. Ron Johnson and 20 Republican senators on Tuesday urged President Biden restore a Trump-era executive order modeled after bipartisan legislation requiring federal agencies to post guidance documents in a searchable database, warning that since the measure was revoked, a number of federal"
+publishedDateTime: 2021-05-19T01:32:08Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KRUAr9cTTQg/senate-republicans-call-for-biden-to-restore-trump-era-government-transparency-executive-order"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KRUAr9cTTQg/senate-republicans-call-for-biden-to-restore-trump-era-government-transparency-executive-order"
+ampWebUrl: "https://www.foxnews.com/politics/senate-republicans-call-for-biden-to-restore-trump-era-government-transparency-executive-order.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-republicans-call-for-biden-to-restore-trump-era-government-transparency-executive-order.amp"
 type: article
-quality: 163
+quality: 183
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21132743978141.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -79,22 +79,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Senate Republicans call for Biden to restore Trump-era government transparency order"
-    excerpt: "EXCLUSIVE: Sen. Ron Johnson and 20 Republican senators on Tuesday urged President Biden restore a Trump-era executive order modeled after bipartisan legislation requiring federal agencies to post guidance documents in a searchable database, warning that since the measure was revoked, a number of federal"
-    publishedDateTime: 2021-05-19T01:32:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KRUAr9cTTQg/senate-republicans-call-for-biden-to-restore-trump-era-government-transparency-executive-order"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-republicans-call-for-biden-to-restore-trump-era-government-transparency-executive-order.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-republicans-call-for-biden-to-restore-trump-era-government-transparency-executive-order.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Portland mayor 'grateful' for Biden reversal of Trump order that sent federal agents to city amid protests"
     excerpt: "Portland, Ore., Mayor Ted Wheeler said on Saturday he was grateful for the White House’s “support” after President Biden reversed the Trump order that allowed federal agents to intervene in Portland’s riots last summer."
     publishedDateTime: 2021-05-16T09:22:20Z
@@ -108,6 +92,22 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1e65481-ff4e-4766-857b-6e321bc59558/b4376662-4f2d-4bf1-99e3-c371d941d68f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden doesn't believe there is ‘any significant portion' of Americans who won't get vaccinated"
+    excerpt: "President Biden seemed optimistic that his administration would reach its goal of having 70 percent of Americans vaccinated by July 4, saying that he doesn’t believe there is “any significant portion” of Americans who refuse to get vaccinated."
+    publishedDateTime: 2021-05-12T21:42:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUR0bQ6LhdU/biden-no-significant-portion-americans-vaccinated"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21132743978141.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -256,6 +256,6 @@ related:
         height: 2078
         isCached: true
 
-secured: "GfoCVVksnWBGe9qWqWdm9r+exJ+cI8bPRG2ApHKSR8pM7dyW0sMNmzltjTQ5HIOHPG1BexEY8nw4Ec2zLur8yaUkDOEc0zyUwalfMxtK3C5LZCK3xgO62hkhg5o6OAT8UoSvJKgELqpYlC4bPbGjLNhzW//mpUN1jk1CuYp7JJSnkvh42uD32B4fLbMV0cyfU2GHMvxlnJv7V07zV5gj2CfPj3Z+v37q6Cme5j8BYqvTnKKjxg6yW8C8pH/vmeaOuefowhxPpNaChGivtfZRETQDBxSDK6vSfhxZMKvSN0dWAJ0dC5FdnxykxpUgZT7bfbq0F/PYPyiCxTAq8/Yg5ufPlF636q93yLwkWK19X2k=;GBbfBXth+9Xhiog2jRGq9A=="
+secured: "87hvr9c7V2dO3YG+JbR5vRtsD9e+/ksVy8yFe43OlktxVKsYNxrcnBsXwzQs0ZNsbdrZ9VsCwqwxq2wZyDH1r6OdnvBfZpYwNY9OxO+MKIYjKZyZ8Nydx6uL5r6T1EJjt6ie/v+2Vrn1Tf1IGSthVfSqvhxpxmWdjw4Ytumm2rO3UzCy6dIf1IcN6j4flvbBefjZl6prxYs9dH2YfygMXG5ouCDGznJyNKgLg7D2pFZBbvB9+apfFCQb38bEoxHKvM7KwXxXWVAMoQpvvy6ndF15D3tQmG4lZI3/hlxS+nSHFnn2gxjM2lg1sFTXJ5K+uCy/uFTALO7O8IFfARDwdcNhCD5MOm74d07MdKQ1l9c=;OVQhGNe7LWgTCbfSlwwkOQ=="
 ---
 

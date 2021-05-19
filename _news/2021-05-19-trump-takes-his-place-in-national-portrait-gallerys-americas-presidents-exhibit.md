@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Biden doesn't believe there is ‘any significant portion' of Americans who won't get vaccinated"
-excerpt: "President Biden seemed optimistic that his administration would reach its goal of having 70 percent of Americans vaccinated by July 4, saying that he doesn’t believe there is “any significant portion” of Americans who refuse to get vaccinated."
-publishedDateTime: 2021-05-12T21:42:59Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUR0bQ6LhdU/biden-no-significant-portion-americans-vaccinated"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUR0bQ6LhdU/biden-no-significant-portion-americans-vaccinated"
-ampWebUrl: "https://www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp"
+title: "Trump takes his place in National Portrait Gallery’s ‘America’s Presidents’ exhibit"
+excerpt: "Donald Trump has formally taken his place among American presidents of the past — or at least a portrait of him has. When the National Portrait Gallery in Washington reopened to visitors Friday after a six-month closure due to COVID-19,"
+publishedDateTime: 2021-05-18T23:58:00Z
+originalUrl: "https://nypost.com/2021/05/18/trump-image-takes-place-in-national-portrait-gallery/"
+webUrl: "https://nypost.com/2021/05/18/trump-image-takes-place-in-national-portrait-gallery/"
+ampWebUrl: "https://nypost.com/2021/05/18/trump-image-takes-place-in-national-portrait-gallery/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/trump-image-takes-place-in-national-portrait-gallery/amp/"
 type: article
-quality: 163
+quality: 129
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21132743978141.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-national-gallery.jpg?quality=90&strip=all&w=1024"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -108,6 +105,22 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1e65481-ff4e-4766-857b-6e321bc59558/b4376662-4f2d-4bf1-99e3-c371d941d68f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden doesn't believe there is ‘any significant portion' of Americans who won't get vaccinated"
+    excerpt: "President Biden seemed optimistic that his administration would reach its goal of having 70 percent of Americans vaccinated by July 4, saying that he doesn’t believe there is “any significant portion” of Americans who refuse to get vaccinated."
+    publishedDateTime: 2021-05-12T21:42:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GUR0bQ6LhdU/biden-no-significant-portion-americans-vaccinated"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-significant-portion-americans-vaccinated.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/05/720/405/AP21132743978141.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -207,22 +220,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Trump takes his place in National Portrait Gallery’s ‘America’s Presidents’ exhibit"
-    excerpt: "Donald Trump has formally taken his place among American presidents of the past — or at least a portrait of him has. When the National Portrait Gallery in Washington reopened to visitors Friday after a six-month closure due to COVID-19,"
-    publishedDateTime: 2021-05-18T23:58:00Z
-    webUrl: "https://nypost.com/2021/05/18/trump-image-takes-place-in-national-portrait-gallery/"
-    ampWebUrl: "https://nypost.com/2021/05/18/trump-image-takes-place-in-national-portrait-gallery/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/trump-image-takes-place-in-national-portrait-gallery/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 129
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-national-gallery.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Biden Sets Everything on Fire"
     excerpt: "Joe Biden is the luckiest man to ever assume the presidency. He succeeded an unpopular figure. He was inaugurated just two weeks after the dramatic storming"
     publishedDateTime: 2021-05-12T10:00:00Z
@@ -256,6 +253,6 @@ related:
         height: 2078
         isCached: true
 
-secured: "GfoCVVksnWBGe9qWqWdm9r+exJ+cI8bPRG2ApHKSR8pM7dyW0sMNmzltjTQ5HIOHPG1BexEY8nw4Ec2zLur8yaUkDOEc0zyUwalfMxtK3C5LZCK3xgO62hkhg5o6OAT8UoSvJKgELqpYlC4bPbGjLNhzW//mpUN1jk1CuYp7JJSnkvh42uD32B4fLbMV0cyfU2GHMvxlnJv7V07zV5gj2CfPj3Z+v37q6Cme5j8BYqvTnKKjxg6yW8C8pH/vmeaOuefowhxPpNaChGivtfZRETQDBxSDK6vSfhxZMKvSN0dWAJ0dC5FdnxykxpUgZT7bfbq0F/PYPyiCxTAq8/Yg5ufPlF636q93yLwkWK19X2k=;GBbfBXth+9Xhiog2jRGq9A=="
+secured: "ruaeUDvO+JUTejOibQm2HtFgSEbtT5eBFJaOBTvZCHxhRzeCqevrRe6LYcTi0jaAuEuuWuIVB0MgTw3mPlSF8Ex55+QsUJR8xpu3q41HmPucysSStxyYlcmxpN1Sx0XeWaY+NrPuajgnmvfvOayXtucl3MuwaG+Yp2gghABc6uCPaluQauGROWntEqq9XUp+NLdMiXLpvXNfkvDEmxQ8+SE3b+boWRkRotyIZPFwASYktGLNavjSJ4ZQAaEZqEehbdXMyLbcK3wfARnMnw1Qm8tr16YLyiIJEMeafOwVdrRECTQeNiz+ZmfCuUnNAWMJRFJImMNcxubOnjW88TtprVM1u/LuUtZs5wfXfLH7ScA=;CBCSC9dVI7YYyf3tKTkEZA=="
 ---
 

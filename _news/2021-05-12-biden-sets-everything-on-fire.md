@@ -76,6 +76,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Senate Republicans call for Biden to restore Trump-era government transparency order"
+    excerpt: "EXCLUSIVE: Sen. Ron Johnson and 20 Republican senators on Tuesday urged President Biden restore a Trump-era executive order modeled after bipartisan legislation requiring federal agencies to post guidance documents in a searchable database, warning that since the measure was revoked, a number of federal"
+    publishedDateTime: 2021-05-19T01:32:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KRUAr9cTTQg/senate-republicans-call-for-biden-to-restore-trump-era-government-transparency-executive-order"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-republicans-call-for-biden-to-restore-trump-era-government-transparency-executive-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-republicans-call-for-biden-to-restore-trump-era-government-transparency-executive-order.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Portland mayor 'grateful' for Biden reversal of Trump order that sent federal agents to city amid protests"
     excerpt: "Portland, Ore., Mayor Ted Wheeler said on Saturday he was grateful for the White House’s “support” after President Biden reversed the Trump order that allowed federal agents to intervene in Portland’s riots last summer."
     publishedDateTime: 2021-05-16T09:22:20Z
@@ -203,6 +219,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cef5a8b4-0514-4f78-af01-568c1de27822/1123ba03-d0ca-4194-b629-fe6ccc0d5548/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Trump takes his place in National Portrait Gallery’s ‘America’s Presidents’ exhibit"
+    excerpt: "Donald Trump has formally taken his place among American presidents of the past — or at least a portrait of him has. When the National Portrait Gallery in Washington reopened to visitors Friday after a six-month closure due to COVID-19,"
+    publishedDateTime: 2021-05-18T23:58:00Z
+    webUrl: "https://nypost.com/2021/05/18/trump-image-takes-place-in-national-portrait-gallery/"
+    ampWebUrl: "https://nypost.com/2021/05/18/trump-image-takes-place-in-national-portrait-gallery/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/trump-image-takes-place-in-national-portrait-gallery/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 129
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-national-gallery.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Biden To Meet With Republican Lawmakers On Infrastructure Plan"
     excerpt: "President Joe Biden is set to meet with a group of six Republican lawmakers to discuss the administration’s proposed infrastructure plan and how to pay for it. This comes a day after Mr. Biden and Vice President Kamala Harris met with bipartisan leaders to discuss the deal."

@@ -63,6 +63,22 @@ related:
         width: 835
         height: 545
         isCached: true
+  - title: "Calls to deny Communion to Biden for abortion views prompt Catholic soul-searching"
+    excerpt: "On paper, Nguyen-Ellis looks like the kind of Catholic who might agree with a push by the American church’s conservative bishops to deny the Eucharist to Catholic politicians, such as President Joe Biden, who support abortion rights. But Nguyen-Ellis ..."
+    publishedDateTime: 2021-05-18T20:43:00Z
+    webUrl: "https://www.washingtonpost.com/religion/calls-to-deny-communion-to-biden-for-abortion-views-prompt-catholic-soul-searching/2021/05/18/1a394568-b822-11eb-bc4a-62849cf6cca9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/religion/calls-to-deny-communion-to-biden-for-abortion-views-prompt-catholic-soul-searching/2021/05/18/1a394568-b822-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/calls-to-deny-communion-to-biden-for-abortion-views-prompt-catholic-soul-searching/2021/05/18/1a394568-b822-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "AP source: Biden to tap Rahm Emanuel for ambassador to Japan"
     excerpt: "President Joe Biden is expected to nominate former Chicago Mayor Rahm Emanuel to serve as the U.S. ambassador to Japan"
     publishedDateTime: 2021-05-11T18:16:00Z

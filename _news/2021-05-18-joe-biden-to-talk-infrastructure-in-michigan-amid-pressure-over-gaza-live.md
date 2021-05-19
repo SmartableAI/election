@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/18/joe-biden-infra
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live"
 type: article
 quality: 123
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/05/18/PDTF/47534dc5-b325-4f4f-a13d-a74e7094a80c-AP_Biden_MIEV403.jpg?auto=webp&crop=4316,2428,x0,y219&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "‘Car guy’ Joe Biden took a spin in the new electric-powered Ford F-150 Lightning during a trip to Michigan to sell his $2T infrastructure plan"
+    excerpt: "Joe Biden took a spin in the new Ford F-150 Lightning truck during a visit to a Ford safety testing center Tuesday as part of a trip to Michigan."
+    publishedDateTime: 2021-05-19T01:46:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-ford-f-150-lightning-20210518-fl3prg4abnfpthloi4fgwx5qq4-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-ford-f-150-lightning-20210518-fl3prg4abnfpthloi4fgwx5qq4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-ford-f-150-lightning-20210518-fl3prg4abnfpthloi4fgwx5qq4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 39
+    images:
+      - url: "https://www.baltimoresun.com/resizer/LStL-67NMJdTkh5lTOcNCcV8Nb4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NLVWJCLYCGJ2U5KPYVVZT5MAPY.aspx"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "AHyfivCBfmMwLZzt6wEk51PXVV+harQRkj+ZNOdgNfMEbpQarMDrICpRemxnaqUMLB8gQ85iL0OlTjPeFn2QkCnRkwn55eBkTy1lk/IK3WZkaDhKOBBryHHyI1oGTHAwoBXGW/eyxQmAIteaBtSTDrmE6uIR3/ZL09ZTpcK90Aoo7N6J/rldVDIavgAZKq7YnU6yXEjhUGLpeWshZeiE9uFj01UmAgViVBwCOqCWh00RIBfqr72s64n8oprxPkG7sNQGuvM6t19d+mfjZ4DlPEagQ4pf6muwuXdKRxyrUgBwMZ8C5oNA1RK8HSXIPXJBb4PYOLIyc0yzynAVRUgrhmyAkpwLjl3lSXanf2qE+loZFy4ihvOAObViI3hskzAsd2xotcc7nu2NW17u5dbZfpVWadU45y3kubjVfozB4RHWf0jGVMP8gSw57NzMOkXJaIVX6D+da2j3xQ3FnVBh4zBlLkFwx+C3J6sRSscqrPM28ZmVDCADPVriUwZgg9DRGLniOzX21tIvgIFzlzb6tg==;U7fAd2Utbga0dCha7z76Hw=="

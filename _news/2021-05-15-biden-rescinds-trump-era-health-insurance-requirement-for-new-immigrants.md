@@ -114,7 +114,7 @@ related:
   - title: "Biden: Trump administration ‘didn’t do a damn thing’ on infrastructure – live"
     excerpt: "The future will be built right here in America.” The president said that he expects to hear more details about the Republican counterproposal on infrastructure either today or tomorrow. Biden has previously indicated he is willing to move forward on parts of his infrastructure plan with or without Republican support."
     publishedDateTime: 2021-05-18T18:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live?page=with:block-60a40c128f08e7ca5d4d7fb9"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live?page=with:block-60a40b2c8f08e7ca5d4d7fb0"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live"
     type: article
@@ -123,7 +123,7 @@ related:
       domain: theguardian.com
     quality: 137
     images:
-      - url: "https://i.guim.co.uk/img/media/633d973175f0c85ac5b0ae277e4eaa94bd7d2eef/0_142_5334_3199/master/5334.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d890c929402231e1de8946f1f6afce8a"
+      - url: "https://i.guim.co.uk/img/media/cf641742279c167b00457717604d1bd281b94c49/0_71_5074_3045/master/5074.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e0d6ea8c78d18b2d89b3aaa5bb7bf024"
         width: 600
         height: 360
         isCached: true

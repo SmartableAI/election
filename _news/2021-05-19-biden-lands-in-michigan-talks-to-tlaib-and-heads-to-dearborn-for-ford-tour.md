@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "‘Car guy’ Joe Biden took a spin in the new electric-powered Ford F-150 Lightning during a trip to Michigan to sell his $2T infrastructure plan"
+    excerpt: "Joe Biden took a spin in the new Ford F-150 Lightning truck during a visit to a Ford safety testing center Tuesday as part of a trip to Michigan."
+    publishedDateTime: 2021-05-19T01:46:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-ford-f-150-lightning-20210518-fl3prg4abnfpthloi4fgwx5qq4-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-ford-f-150-lightning-20210518-fl3prg4abnfpthloi4fgwx5qq4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-biden-ford-f-150-lightning-20210518-fl3prg4abnfpthloi4fgwx5qq4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 39
+    images:
+      - url: "https://www.baltimoresun.com/resizer/LStL-67NMJdTkh5lTOcNCcV8Nb4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NLVWJCLYCGJ2U5KPYVVZT5MAPY.aspx"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "2fcH7Rpsj3RLCNgkuTVsPQxf+V4+GvSidvK9HftJEnLXSWJ5quUKmfpUQono6MU16qL2E5xDRFTMBMJlIrf6thvAEujwsDpWiRuhvF8FUzf9fZ9T8MDKQ85PpjQ9xBhDBlMKr+Pnk6y/9hJSlpHlVFgNmzQkHJJriEBfqnQ7+J4uvjAdz6s8bGX6gg5BscSEAGbT/FsAp4yNyyMgxLGC1z2biRFpVrCAh43KLFxJdBVhCSFwAwaECSrfSwHt3SOUjPB70as7weUBFUgZht8nbtaJF0IFAQbaj/zJbxKUZB0f8xgf9fh+9TJdsVQp3iDpsRiTm78gWez6jcX45JmnlCEUl/13PK2EHjjc1lQHj8k=;Kv9odf9zE+R5CUClhtibyQ=="
 ---

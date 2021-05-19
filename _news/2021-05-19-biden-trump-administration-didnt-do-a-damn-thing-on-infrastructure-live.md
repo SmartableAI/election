@@ -3,8 +3,8 @@ category: news
 title: "Biden: Trump administration ‘didn’t do a damn thing’ on infrastructure – live"
 excerpt: "The future will be built right here in America.” The president said that he expects to hear more details about the Republican counterproposal on infrastructure either today or tomorrow. Biden has previously indicated he is willing to move forward on parts of his infrastructure plan with or without Republican support."
 publishedDateTime: 2021-05-18T18:17:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live?page=with:block-60a40c128f08e7ca5d4d7fb9"
-webUrl: "https://www.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live?page=with:block-60a40c128f08e7ca5d4d7fb9"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live?page=with:block-60a40b2c8f08e7ca5d4d7fb0"
+webUrl: "https://www.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live?page=with:block-60a40b2c8f08e7ca5d4d7fb0"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/18/joe-biden-infrastructure-gaza-us-politics-live"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/633d973175f0c85ac5b0ae277e4eaa94bd7d2eef/0_142_5334_3199/master/5334.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d890c929402231e1de8946f1f6afce8a"
+  - url: "https://i.guim.co.uk/img/media/cf641742279c167b00457717604d1bd281b94c49/0_71_5074_3045/master/5074.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e0d6ea8c78d18b2d89b3aaa5bb7bf024"
     width: 600
     height: 360
     isCached: true
@@ -979,6 +979,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "O8IgKYH8jIjN5DUJlHWQ4QG9A9ti1l9Bpb5XHCExtIPhs1HMTo5IfPX66DbDlItmIHnO7PEILTIHNOQjylzIdOhfYL0vWdyTebt1421Lv8Z4Vj7i8bHJsEToqS1EIKDHkunonEizSKjy9n8+1lxVBgpVsvp2GBLr94SqIa0MQAtm2w+XUbimUvpNYCEfF1I9dUWaxMMBWtVe0GlVQyUFR1FNO3+Dn3LWFNK24wmD8HyUEyS2owHCrrnE0Sugo0G8gR6c2/F4AeFWoaF4TiPmsX89d05xe+nPuhsHeQ7k6X3O/LksxUXsDnTqKRBGyqOEcBCaU4MBtk3deteaAzvyJuvOBaNohRzzKozBpHIa+yin390H0ruTKFj8+li7Ph2N07QwIK6aQioPqL5jarkwgMMZ+UqBezhlk4d/FIZuEbLsWC2T+FNd8OTIQVE27YspXuiWWPN8dzaV4fbTY+8gnA0w/beXp6NWh9DlY+GM+Lpn/jtiGedcuPCJLGcvsI2pxyUCe3OK2gLfMiH5bPSDSw==;nfUr2c1zPR8KaSh3nbsm2Q=="
+secured: "oAacfT/onMjgFlZLYNC9OTCT47gSRT1tHYsXxUGS/hL4EPGpdOYhdZuUe3dqLOjiGbAHS2+dhgCnVf21gVJ30UcKtogswygz8tPIoisN+KuBnmy5aBFZZXWD+3GbVy5gRQSC5y/ixxIfboaaEdJ5qrmCdnhM1ymR7rUIDilCJb7sJQ6uFNPU6yLzi/TEheVHY0twqKgsTfQt16mD2Oh3oGHFg1Ze7bduq7tfsZ7vy6SEZL6DkaujEIFnUTBGBSwTGgQmmB1Ki0QQbYTCzug2U+qFjna41eLRX5rxFNAj4PVLV/WLD0W7IxYRjBv6zGutxSU6nsOuN5Snn+LTuhDRp/67egtnefxXYd+b5tGvJm0=;gUb78NaQy/w676eAku/0vg=="
 ---
 
