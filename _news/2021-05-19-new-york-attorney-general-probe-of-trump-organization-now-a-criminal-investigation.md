@@ -80,6 +80,22 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Trump: Vance, James trying to ‘cancel’ voters with criminal probe into organization"
+    excerpt: "Former President Donald Trump blasted New York Attorney General Letitia James and Manhattan District Attorney Cy​rus​ Vance Jr. for their joint criminal investigation into his organization."
+    publishedDateTime: 2021-05-19T18:04:00Z
+    webUrl: "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/"
+    ampWebUrl: "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 129
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/james-vs-trump-hp1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "KwuoOL6O8iDRMz5NmJ3E1x+p4qtcjy55eCBHVhdgE8OKss/C1IQJzAETniq9qE3Wna0WIQr50aUPKl8gAefWW+FB1wLOhKhwr9sYyAo6HyhXB7c6uDZeT9EsvNMJdF2RQf0c/t/2YDjds5SqnyX/agKy2P6dLM3vS3Uh8ej3z/jKrzKJzeIjrhVBJ7Sb4gBUDbrMOFY5SiDztOvPcvedLMqvJZ4N0EKun5WF6Z1aMDJdQ2NsaoFruAuXSNJ2kjibuMsbQlHLVrk2Q4+WFOraV6kxQY6ZCEhNpbGVq28pfUd9i6DRZWGOyguCjyInthn5yDvnKWongS94WVu2I2PPASTpMsdiaZ2eLOvQPYWG11CSkMf9vmBPUmju01BTMEBwkFFyErkx+kSnB+GVBktCwQgxO8i1s9r0xaj9mPGk1kZkcJBJavKEarL5xwZrfxVbys+2SZj4WsW9Hy2E2YBTOWPt++H3WDTDjD2KruEFUaUdh5qeoHakhs8cBhHLGKFgRS6bij47YG85Fh7Pzuaq2Q==;FzlNKZ4HduURSCj8UJ/CzQ=="
 ---

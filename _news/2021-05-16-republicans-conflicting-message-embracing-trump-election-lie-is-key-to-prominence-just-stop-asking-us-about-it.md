@@ -303,6 +303,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The new criminal probe of the Trump Organization, and what it could mean"
+    excerpt: "New York's attorney general says her probe of the Trump Organization is criminal in nature. So what does that mean? And why was it announced?"
+    publishedDateTime: 2021-05-19T16:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/05/19/new-criminal-probe-trump-organization-what-it-could-mean/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/19/new-criminal-probe-trump-organization-what-it-could-mean/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/19/new-criminal-probe-trump-organization-what-it-could-mean/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-19-2021/t_6e46ba66a7374296bff42ce92ab4262a_name_1___1920x1080___30p_00_01_58_00_Still018.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "New York investigation into Trump Organization now criminal, says attorney general"
     excerpt: "State joins Manhattan attorney general in launching ‘active’ investigation into former president’s business"
     publishedDateTime: 2021-05-19T02:48:00Z

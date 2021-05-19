@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden reinstates climate official dumped by Trump"
+    excerpt: "The White House has brought back the scientist responsible for overseeing the government’s climate reports after he was ousted by the Trump administration last year."
+    publishedDateTime: 2021-05-19T19:07:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9vSuioSvd4U/biden-white-house-climate-official-kuperberg"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-climate-official-kuperberg.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-climate-official-kuperberg.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/abe5d8d9-d92c-4ea2-ba2e-b36d63dbeaaf/0b415620-5ac1-4377-b915-68ce5ae4b643/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Former Trump official Hogan Gidley to launch election integrity nonprofit"
     excerpt: "EXCLUSIVE: Former Trump campaign national press secretary and former White House principal deputy press secretary Hogan Gidley is launching a nonprofit to advocate for the passage of \"constitutional election integrity laws\" in all states across the nation ahead of the 2022 midterms and beyond, Fox News"
     publishedDateTime: 2021-04-09T14:20:46Z

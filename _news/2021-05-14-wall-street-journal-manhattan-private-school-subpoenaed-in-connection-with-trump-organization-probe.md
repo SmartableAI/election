@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump calls New York criminal investigation 'corrupt' and 'in desperate search of a crime'"
+    excerpt: "Trump’s lengthy statement didn't address the subject of the investigation, which stems from allegations that he inflated the value of his assets."
+    publishedDateTime: 2021-05-19T17:51:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-calls-new-york-criminal-investigation-corrupt-desperate-search-crime-n1267939"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1267939"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1267939"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 125
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_20/3476131/210519-donald-trump-2x1-al-1338_cdf9fd91aed9b758a0d0de79ccbbfca1.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
 
 secured: "S7d9casCRaO7uHGvCm9A5n/OT5RRCKC2785EPNsrtVyw5zur9xDMU9/dh+9GdZX99cKWWPradDJOYwqv6DEzW7Z0KOZ7+lVy/cceuVT6vXk2ZBQLaKXbVl5ln5Bba+/xuihyhM/7TqfsVK1pKauajeZadPv0429Ki34IiBbkl2OTPX2J1nejAVWaaH1k5CVup2eVapeKIYkRFd8QzSxQs/BIdAGZI+BEHMeZtzX7AJkI80KMr/pkdxRtR5ErvbMA3xtrvxiR7oTZY6K4SaVTaBh3Rl2bSxesR6m83vepC3J1iR0e+Ur0OPbfW1GM+cbeNlUI7vwi6+eQVTPhyvCLqFape4AJM/AhycGeAxozI44=;IFXP/Cr9Wwr6vGq2aenkHQ=="
 ---

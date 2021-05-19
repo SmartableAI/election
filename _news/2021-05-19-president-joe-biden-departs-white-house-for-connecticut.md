@@ -57,6 +57,20 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Biden extolls global role to Coast Guard grads"
+    excerpt: "President Joe Biden delivers his first commencement address as commander-in-chief, stressing the vital role new graduates at the Coast Guard Academy will have as the United States reasserts itself on the world stage."
+    publishedDateTime: 2021-05-19T18:40:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/19/biden-extolls-global-role-coast-guard-grads/5167994001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f2bcc064-d462-4c4b-9148-e518fae4c884_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "dkCFqDLsYy+KTdHK08/C6WEhKvuyX509Nd+bB9rspKQBxiK0C7crfFCD6HUJ15gI8KWZBmKiRBRr3lhfVKF3dMUlVssRBrl9iyYO6wcdkXlSAM57mJ6H/Oi6taKool9WZx1/zGMGUTLwdSjGQaDoyjgpmjiEEIkjOo1C30Njx9hGVUjhixeP0Y3a2BXKcbMP9SbLa0yGIGLAfcJf7dov1vAdshH/X54TlL1VG1WoOjwSIHVERzHz60GNAa5hxeELT3oC6OCAHFdASnKXecw2UmiFCfsho7tbwfSX0eLhbmAK6YIXSpTAvFQOUJ2F5UNYKQwoLPMJ+zzFppomco2+f+ylUX7EHI2QqaVUFqqcV70=;JEmewmYREr6dR2gSIVoYWw=="
 ---

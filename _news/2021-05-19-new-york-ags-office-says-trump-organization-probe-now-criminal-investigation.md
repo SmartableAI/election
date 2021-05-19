@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/new-york-ags-office-says-trump-orga
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
 type: article
 quality: 171
-heat: 231
+heat: 251
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://images.wsj.net/im-340537/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump: Vance, James trying to ‘cancel’ voters with criminal probe into organization"
+    excerpt: "Former President Donald Trump blasted New York Attorney General Letitia James and Manhattan District Attorney Cy​rus​ Vance Jr. for their joint criminal investigation into his organization."
+    publishedDateTime: 2021-05-19T18:04:00Z
+    webUrl: "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/"
+    ampWebUrl: "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 129
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/james-vs-trump-hp1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "/Uii2v3+k78hKVfYasjOSU9+m3fErB/g8yvgOzaizPxK9jcfxmXzzwAp5PR78UnBJ62MYenfor5o4HhYBgc+HGYIG9vGf+6Y3xmk/6rjZbQQUThkDkC/n8AJPgk+1z4xPrrCX9nd/Pomr7ilLzmvVWSlhCSWtTwV15NyGtqeVMAEQp5t3Q6/V8AVmdFLrr0bGvXpHh+XbiWxPjTITH9CGQSClScQyGz8/ee1fwc//oLQPe/AGMJT8TXe8ClQUTHGI5dbTx6N+knq7l7N6dAIe3P5NxbumGaoSE9Zw9IaIPlUKx8ycOC0WUDTpd/U+DdBn50cH5iKbtTqPMdPDsYmAOet8AosQDuaS3sZkImyA9s=;0/KHRER1VHKI/N4dCmAvEg=="

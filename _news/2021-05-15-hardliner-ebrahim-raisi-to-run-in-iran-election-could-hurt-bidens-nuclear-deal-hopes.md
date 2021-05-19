@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/iran-ebrahim-raisi-election-nuclear-deal-jo
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/iran-ebrahim-raisi-election-nuclear-deal-joe-biden-1591803?amp=1"
 type: article
 quality: 132
-heat: 172
+heat: 192
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://s.abcnews.com/images/US/WireAP_8cd204c3f9b243118ccd610aa5adfd14_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden celebrates Coast Guard Academy graduates"
+    excerpt: "In his first commencement address as commander-in-chief, President Joe Biden celebrated the new graduates of the Coast Guard Academy Wednesday, saluting them for excelling during the pandemic and chiding them for being \"a really dull class."
+    publishedDateTime: 2021-05-19T19:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/19/biden-celebrates-coast-guard-academy-graduates/5168985001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/bbfc8731-c5ea-49a6-8769-8f42f6c4e3db_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "B/rRfcg18uI18u9jtu2oHaUFw6spo1KPGp58Jo3uMGOCUQkSSDVlU8mGeV6USH3RcBKb+pMocnNfWgS2JXaGTAPbZffCh1SDNZMteEComDPURkZSZnUocuXE6ySYdKpyyLl/kFZJq3kh8bIMslw8UK+me08N2Y07ADpC5POKFWpk7/vvx8IS7xVpjQCROArEIiMDiLd4xrYGsWQ4+Al7oe9qesFsqNEF41z8jhmPxdMCzYxlY7mNauD8UI0q6IpyEZBO+nZZQcd33tJfECYgT3nbgstos8hqY/yIJSRwpl1Znu4prNMxjz7ySlCaRYjCcDcMhumoRCytMjsKbpw91SygBzxnyI5GWUzTeRb56NA=;kDZIq0IbcAr5Y9drG6v9pQ=="

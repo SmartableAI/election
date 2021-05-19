@@ -287,6 +287,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The new criminal probe of the Trump Organization, and what it could mean"
+    excerpt: "New York's attorney general says her probe of the Trump Organization is criminal in nature. So what does that mean? And why was it announced?"
+    publishedDateTime: 2021-05-19T16:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/05/19/new-criminal-probe-trump-organization-what-it-could-mean/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/19/new-criminal-probe-trump-organization-what-it-could-mean/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/19/new-criminal-probe-trump-organization-what-it-could-mean/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-19-2021/t_6e46ba66a7374296bff42ce92ab4262a_name_1___1920x1080___30p_00_01_58_00_Still018.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Republicans’ conflicting message: Embracing Trump election lie is key to prominence, just stop asking us about it"
     excerpt: "Liz Cheney (R-Wyo.) as the No. 3 House Republican leader for saying former president Trump’s claim of a stolen election was a lie. Yet he insisted later that day, “I don’t think anybody is questioning the legitimacy of the presidential election."
     publishedDateTime: 2021-05-15T21:38:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/supreme-court-cut-biden-agenda-n
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210514&t=2&i=1562109617&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH4D0JF"
         width: 818
         height: 545
+        isCached: true
+  - title: "Biden extolls global role to Coast Guard grads"
+    excerpt: "President Joe Biden delivers his first commencement address as commander-in-chief, stressing the vital role new graduates at the Coast Guard Academy will have as the United States reasserts itself on the world stage."
+    publishedDateTime: 2021-05-19T18:40:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/19/biden-extolls-global-role-coast-guard-grads/5167994001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f2bcc064-d462-4c4b-9148-e518fae4c884_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "President Joe Biden Departs White House for Connecticut"
     excerpt: "US President Joe Biden walks on the ellipse to board Marine One at the White House in Washington, DC on Wednesday, May 19, 2021. President Joe Biden Departs White House for Connecticut for the US Coast Guards 140th commencement."

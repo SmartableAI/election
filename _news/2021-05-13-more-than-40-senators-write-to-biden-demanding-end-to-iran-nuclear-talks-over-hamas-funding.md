@@ -61,6 +61,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden celebrates Coast Guard Academy graduates"
+    excerpt: "In his first commencement address as commander-in-chief, President Joe Biden celebrated the new graduates of the Coast Guard Academy Wednesday, saluting them for excelling during the pandemic and chiding them for being \"a really dull class."
+    publishedDateTime: 2021-05-19T19:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/19/biden-celebrates-coast-guard-academy-graduates/5168985001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/bbfc8731-c5ea-49a6-8769-8f42f6c4e3db_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "FkcyGv2Gd6zur+5/FIcU7av51uoGt6CHK5fP9TH8dD2KSICLcolQBnGnUIkI5BzIqkEVs8mHsfjii/GX613rWFeYpRRyzTNeDXPNVPFqI7vKP4ayefdGDWx6xJXmYDRxnhYDvucgW3FzORr9zYUjS7U2egC7+/59AHX7rZelWRqNh7QsJN+wQSeqM8dnqJIncQWIvMC1RK8IbbpDDsPU/0i8BlUfyAu+/NQ7De5uOVK0KNvfkb2IwGihln6f/2qL4xz9hupyVLr3CGXXvmCFjiX6aoLEuAhSjlKKM1d0TAESkJ0AX15ritpz1ak94nUedbfHym2DFanUAn/wRzU8whfkNyUj6xz5tZyEc9WX9mc=;Md0ScgAovC7tTaPo/ObocA=="
 ---
