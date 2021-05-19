@@ -538,6 +538,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "NY Attorney General Says Trump Org Probe Is Now Criminal"
+    excerpt: "The New York attorney general’s office says that it is conducting a criminal investigation into former President Donald Trump’s business empire, expanding what had previously been a civil probe."
+    publishedDateTime: 2021-05-19T03:16:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-05-18/ny-attorney-general-says-trump-org-probe-is-now-criminal"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "eQk2rRJamUczG+M5vE6MViU5Nxx5/DttzhR9l4NSrxbZOo0T9cIqmegzI2Y8r072fmNZNZp3LQC1PKRjLGWRb56pDfjCsoTWKFVPOn3vArAlTyXr6CxgLYzEjPHnsSuQnU1DF5uDz3HjJCBHBg7GcNEsKSSxE0rW0jXfR1Djwo9pLBb48Er+zIDUNBRLCYr1woZrxN1Jh0AWkKPKUd1L5nRxGp0hfHjRHHgmA0/VeRCp+Hmm6FzIikjk3jXhdvPB5HZPNGxj/VviEGvRQ4r8YS5VXifvzCjwi08AHD7oVdvNoKFQrTvOrH4PTKU1YazvFAu1ecNUw04fPn68n9i8MzBxbuUxKDOSIVOLAvU7+tABwKCUO1zzSg8mNzsW/vYoTccgUvRPCKXBuXvA9ilFW7cszqUEJuqclApmOJRXkRdUDlf0aTgO9P4HDfrYXyasHgn6/IieIhk3lnI7XstWv1A+sKdQZnj7insvTBDETkyZ5KfFxcS3YY6FBJ7LQOfoznkpO/Rpg1lV8NrvFMjCfg==;tM6biH6eVM5W89hpgTloEg=="
 ---

@@ -529,6 +529,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "NY Attorney General Says Trump Org Probe Is Now Criminal"
+    excerpt: "The New York attorney general’s office says that it is conducting a criminal investigation into former President Donald Trump’s business empire, expanding what had previously been a civil probe."
+    publishedDateTime: 2021-05-19T03:16:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-05-18/ny-attorney-general-says-trump-org-probe-is-now-criminal"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
   - title: "House Republicans Pick Stefanik to Replace Trump Critic Cheney in Leadership - Media"
     excerpt: "Republicans in the U.S. House of Representatives on Friday elected Elise Stefanik to serve in their No. 3 leadership position, replacing Liz Cheney, an outspoken critic of former President Donald Trump's false claims of election fraud,"
     publishedDateTime: 2021-05-14T13:34:00Z

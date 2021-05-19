@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/liz-cheney-house-gop/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/liz-cheney-house-gop/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/05/06/us/06new-washington-briefing-stefanik/06new-washington-briefing-stefanik-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "N.Y. state investigation into Trump is now a criminal probe"
+    excerpt: "The probe is “no longer purely civil in nature,” a spokesperson for state Attorney General Letitia James confirmed to POLITICO."
+    publishedDateTime: 2021-05-19T02:37:00Z
+    webUrl: "https://www.politico.com/states/new-york/whiteboard/2021/05/18/ny-state-investigation-into-trump-now-a-criminal-probe-1382990"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/f1/5d/3e4d90f74126898d776eaa18b883/5-5-21-donaldtrump-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "9P7cSTDcaIMW6ApM55Z0sWXcB7L+yokQUVesmGUJEp93TiSD23RVq5/l2qjlbquv8xAhT3gI4As1oUd2FRxDCa8X36rNeNH662Qz+eXzxFNuvjMuN6qXUp/01eO6aK1S62AaPwB2t2U3sodjQWRM9KwNbzmZTn9DWO0sji+dl+O6HLX4CBOOjhozjX4rf+N8ad17rWLsqYIxmtP/mxW5NbTjBTIH8dZFQDt2tFVm2rRE4EscNzEp5wV0DovXENDOYjDwYVrtjpkrluEOgm98r/FS/jTSA9ZFn2D0/ZtxMB+TcBvESy+3PhRtVHUpJ0+fmeFpfpGY59qOikX+Z0Dcg7wSsh66EroyhnoIUY7EYjg=;LnqUsIezKPlOT6EB37nPaQ=="
