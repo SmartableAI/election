@@ -30,51 +30,83 @@ images:
     isCached: true
 
 related:
-  - title: "Trump drags House GOP deeper into his theater of lies"
-    excerpt: "When the House Republican Party moves against Liz Cheney this week, it will prove that it prefers to unite behind a lie rather than stay divided over truth.\n    \n"
-    publishedDateTime: 2021-05-11T05:21:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rPQgA7AWBjY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/donald-trump-liz-cheney-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/donald-trump-liz-cheney-joe-biden/index.html"
+  - title: "Trump allies seek to import Arizona's election audit to Georgia"
+    excerpt: "In a bid to bolster former President Donald Trump's lies about widespread fraud in the 2020 election, Trump's Republican allies are now seeking Arizona-style audits in other swing states -- including Georgia, where the former President's false claims have set off an intraparty war.\n    \n"
+    publishedDateTime: 2021-05-19T22:44:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4uEmzFnER9g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/trump-allies-seek-more-audits/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/trump-allies-seek-more-audits/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Why GOP leaders are playing it smart when it comes to Trump"
+    excerpt: "The House GOP's move to remove Rep. Liz Cheney from her leadership position is widely seen as the latest move to placate the base at the risk of alienating the center of the electorate. Cheney had voted to impeach former President Donald Trump and has continued her critiques of him while most other Republicans"
+    publishedDateTime: 2021-05-15T16:24:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sadTD29IEkE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/15/politics/republicans-trump-cheney-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/15/politics/republicans-trump-cheney-analysis/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210510143029-23-liz-cheney-unf-restricted-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512134652-kevin-mccarthy-white-house-0512-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Life after leadership: Liz Cheney plots her long game against Donald Trump"
-    excerpt: "Liz Cheney entered this week knowing it would likely be her last as a member of the House Republican leadership team.\n    \n"
-    publishedDateTime: 2021-05-11T20:59:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j-mV13pNLWo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/liz-cheney-republican-party-trump-long-game/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/liz-cheney-republican-party-trump-long-game/index.html"
+  - title: "Analysis: The 5 key elements of Trump's Big Lie and how it came to be"
+    excerpt: "Former President Donald Trump has spent months spreading lies about the 2020 election, which he himself is now calling \"THE BIG LIE\" as he continues to claim that a massive conspiracy robbed him of a second term.\n    \n"
+    publishedDateTime: 2021-05-19T23:17:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eH5PTBen6U0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/donald-trump-big-lie-explainer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/donald-trump-big-lie-explainer/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210511093432-01-liz-cheney-vote-lead-image-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119172339-01-capitol-riot-wide-ground-shot-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "More than 150 Republicans launch new political movement questioning Trump's role in GOP"
-    excerpt: "A group of more than 150 Republicans, led by Donald Trump critics Evan McMullin and Miles Taylor, announced a new political movement that takes aim at former President Donald Trump's hold on the GOP and calls for a reform of the party.\n    \n"
-    publishedDateTime: 2021-05-13T11:39:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B5CSctn8HEk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/republican-political-movement-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/republican-political-movement-trump/index.html"
+  - title: "Capitol riot vote forces Republicans to pick truth or Trump"
+    excerpt: "It's Trump or the truth.\n    \n"
+    publishedDateTime: 2021-05-19T10:44:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9LEgQMyKvj4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/donald-trump-republican-party-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/donald-trump-republican-party-capitol-riot/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200828102949-miles-taylor-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420081143-01-kevin-mccarthy-0415-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McCarthy's bid to quash January 6 commission underscores GOP split on Trump "
+    excerpt: "Less than a week after Rep. Liz Cheney was ousted from her leadership position for her opposition to Donald Trump's lies about the 2020 election, House Republicans are mired in yet another fight over Trump -- this time whether to move forward with a bipartisan commission to investigate the January 6"
+    publishedDateTime: 2021-05-18T23:07:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rC-a6QHnBWo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/gop-infighting-january-6-commission-kevin-mccarthy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/gop-infighting-january-6-commission-kevin-mccarthy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518132633-mccarthy-for-oped-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -94,83 +126,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "F.E.C. Drops Case Reviewing Trump Hush-Money Payments to Women"
-    excerpt: "The case had examined whether Donald Trump violated election law with a $130,000 payment shortly before the 2016 election to a pornographic-film actress by his personal lawyer, Michael Cohen."
-    publishedDateTime: 2021-05-06T23:11:00Z
-    webUrl: "https://www.nytimes.com/2021/05/06/us/politics/trump-michael-cohen-fec.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/06/us/politics/trump-michael-cohen-fec.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/06/us/politics/trump-michael-cohen-fec.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/06/us/politics/06trump-payments-1/06trump-payments-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump takes victory lap after Cheney's ouster from House Republican leadership"
-    excerpt: "Cheney was demoted via a voice vote, meaning it will be impossible to know her level of support or opposition."
-    publishedDateTime: 2021-05-12T15:51:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-takes-victory-lap-after-cheney-s-ouster-house-republican-n1267081"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1267081"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1267081"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_19/3472284/210512-donald-trump-al-1029_f8418c0decab3404e85d1aeef062bdfc.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Cheney after being ousted from GOP leadership: 'We cannot be dragged backward' by Trump"
-    excerpt: "Rep. Liz Cheney continued to criticize former President Donald Trump after House Republicans held a voice vote to remove her from her position as conference chair. The congresswoman said she did not feel betrayed by the vote,"
-    publishedDateTime: 2021-05-12T14:27:00Z
-    webUrl: "https://www.nbcnews.com/video/cheney-speaks-after-being-ousted-from-gop-leadership-111771205665"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo111771205665"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111771205665"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 127
-    images:
-      - url: "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/f_mo_cheney_speaks_ousted_210512.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Full Crenshaw Interview: ‘There’s no point in re-litigating some of these things’ after Trump loyalists purge Cheney"
-    excerpt: "In an exclusive interview with Meet the Press, Rep. Dan Crenshaw (R-Texas) talks to Chuck Todd about the fight within the Republican Party over how closely the GOP should embrace former president Trump's lies about the 2020 election."
-    publishedDateTime: 2021-05-16T13:35:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-crenshaw-there-s-no-point-in-re-litigating-some-of-these-things-after-trump-lies-engulf-gop-112050757663"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo112050757663"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo112050757663"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 112
-    images:
-      - url: "https://media13.s-nbcnews.com/i/mpx/2704722219/2021_05/1621171952239_mtp_full_crenshaw_210516_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Mediaite: The Interview: Politico Playbook Team Dishes on The GOP Power Struggle, Pissing Off Both Sides, and Not Ignoring Trump"
-    excerpt: "Ryan Lizza, Rachael Bade, Eugene Daniels and Tara Palmeri — joined Aidan McLaughlin on The Interview to talk about everything from a Republican Party power struggle to what it’s like covering a new regime in D."
-    publishedDateTime: 2021-05-13T20:49:00Z
-    webUrl: "https://www.politico.com/blogs/politico-press/2021/05/13/mediaite-the-interview-politico-playbook-team-dishes-on-the-gop-power-struggle-pissing-off-both-sides-and-not-ignoring-trump-1528038"
+  - title: "N.Y. state investigation into Trump is now a criminal probe"
+    excerpt: "The probe is “no longer purely civil in nature,” a spokesperson for state Attorney General Letitia James confirmed to POLITICO."
+    publishedDateTime: 2021-05-19T02:37:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/05/18/ny-state-investigation-into-trump-now-a-criminal-probe-1382990"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 86
+    quality: 115
     images:
-      - url: "https://static.politico.com/e7/a9/2d6605ba4345aed8498376a5ff04/new-playbook-team.jpg"
-        width: 2240
-        height: 1260
+      - url: "https://static.politico.com/f1/5d/3e4d90f74126898d776eaa18b883/5-5-21-donaldtrump-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "V9wVYDMi0Vv1znIfHNeh66cGGgxgb1u8WcowFKJ+B14Ym6ptVvsC5quF4PbYdCT/XJ1P4VLGsQQLw0LMz4q+DO2eZoJyMsfHSLiKlHl1DPok0KCzytw35evfqUg4IEUftyeZWR2lFfaGsnDgtzMdInv4twBmP5ug+HRCXkZNSuzTJsjSH504P9dMolBj6Tn/FTUzXQhw1pelpr3/LH21efmDGC0cA9yTem4mLxO6jyUQzln281yVTbcEMrYiXBWbeiHr1d9NOXD4muC2iVSsk5NZTcqNOyyGPA6P0aoYEKgkiF+FiM81vIJoSyXFeFChYlJIVXbTFqOP55XQQ9o/o6npw5M9QwTryUUUT/ZvSKiTKgwrg9qx14PbdX2wY67RxJRz6IOqfzJ6o0bq8hfHLKyCQZ0TNrfKSVIuiKDiTGvVF/CS19FMKVr/X/fp4BkT4NHX3leBd3nfj6fpyZWN9DOV7n+L0J41PYqU6kY9RU8fyRsoU6MkdCiKIYD6eyU0wdcZzOcgSAv2YXrg/+bCzQ==;B2TPMEG5vTrsm8P3tQoYjQ=="

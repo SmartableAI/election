@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/analysis-violence-upends-bid
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -150,6 +150,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/13e6f108-43a7-461f-af2e-2aa8a483ac31_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Reluctant Biden pushes to end Mideast violence"
+    excerpt: "Facing mounting international and political pressure, U.S. President Joe Biden is switching from subtle diplomacy to publically calling for an end to missile strikes going between Israel and Hamas in Gaza that have killed hundreds."
+    publishedDateTime: 2021-05-19T23:44:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/19/reluctant-biden-pushes-end-mideast-violence/5174445001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/46686994-7046-4840-a3fd-113a9ae635af_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

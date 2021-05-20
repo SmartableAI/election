@@ -80,22 +80,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Arizona GOP election official defends office against Trump voting conspiracy theory: 'We are humans, it has to stop.'"
-    excerpt: "The Republican official who heads Maricopa County, Arizona's election department offered a forceful defense of his office on Monday after former President Donald Trump falsely claimed that the county's \"entire Database\" had been deleted.\n    \n"
-    publishedDateTime: 2021-05-18T02:56:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZHkT0Qa-iQQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/arizona-election-audit-stephen-richer-trump-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/arizona-election-audit-stephen-richer-trump-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517201014-stephen-richer-ebof-05172021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump takes victory lap after Cheney's ouster from House Republican leadership"
     excerpt: "Cheney was demoted via a voice vote, meaning it will be impossible to know her level of support or opposition."
     publishedDateTime: 2021-05-12T15:51:00Z
@@ -127,20 +111,6 @@ related:
       - url: "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/f_mo_cheney_speaks_ousted_210512.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "California recall candidates use auto-donation tactic Trump made famous"
-    excerpt: "Consumer advocates and campaign finance officials say the tactic misleads donors into giving more money than they intend because they must uncheck boxes to ensure their accounts are not regularly charged."
-    publishedDateTime: 2021-05-17T22:14:00Z
-    webUrl: "https://www.politico.com/states/california/story/2021/05/17/california-recall-candidates-use-auto-donation-tactic-trump-made-famous-1382586"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/03/ef/a61698614850894760b16836e8b4/210511-caitlin-jenner-getty-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Full Crenshaw Interview: ‘There’s no point in re-litigating some of these things’ after Trump loyalists purge Cheney"
     excerpt: "In an exclusive interview with Meet the Press, Rep. Dan Crenshaw (R-Texas) talks to Chuck Todd about the fight within the Republican Party over how closely the GOP should embrace former president Trump's lies about the 2020 election."

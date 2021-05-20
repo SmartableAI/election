@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Vice Pres. Kamala Harris speaking now"
+    excerpt: "Watch \"Vice Pres. Kamala Harris speaking now\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-05-19T22:02:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210519220232-vice-pres-kamala-harris-speaking-now/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/05/19/story_10441477_1621462384.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "US Officials Have Discussed Asking Mexico To Do More To Stem The Tide Of Immigrants Ahead Of Kamala Harris’s Meeting"
     excerpt: "Some of the measures discussed included Mexico apprehending an average of 1,000 immigrants moving through the country a day."
     publishedDateTime: 2021-05-06T21:39:00Z

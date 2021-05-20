@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-v
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1"
 type: article
 quality: 125
-heat: 585
+heat: 605
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/f80KcHyN02ys1DUVgempWW8QoG0=/1200x0/right/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2JNAWLAZUVGVXDCBJCXY5VUQNU.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Vice Pres. Kamala Harris speaking now"
+    excerpt: "Watch \"Vice Pres. Kamala Harris speaking now\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-05-19T22:02:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210519220232-vice-pres-kamala-harris-speaking-now/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/05/19/story_10441477_1621462384.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "US Officials Have Discussed Asking Mexico To Do More To Stem The Tide Of Immigrants Ahead Of Kamala Harris’s Meeting"
     excerpt: "Some of the measures discussed included Mexico apprehending an average of 1,000 immigrants moving through the country a day."

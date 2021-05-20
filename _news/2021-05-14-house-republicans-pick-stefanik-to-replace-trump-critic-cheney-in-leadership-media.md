@@ -622,6 +622,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "35 Republicans Buck Trump, Back Study of Jan. 6 Capitol Riot"
+    excerpt: "Thirty-five House Republicans have joined Democrats and voted to create a bipartisan commission to investigate the Jan. 6 attack on the Capitol."
+    publishedDateTime: 2021-05-19T22:59:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-19/35-republicans-buck-trump-back-study-of-jan-6-capitol-riot"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "eQk2rRJamUczG+M5vE6MViU5Nxx5/DttzhR9l4NSrxbZOo0T9cIqmegzI2Y8r072fmNZNZp3LQC1PKRjLGWRb56pDfjCsoTWKFVPOn3vArAlTyXr6CxgLYzEjPHnsSuQnU1DF5uDz3HjJCBHBg7GcNEsKSSxE0rW0jXfR1Djwo9pLBb48Er+zIDUNBRLCYr1woZrxN1Jh0AWkKPKUd1L5nRxGp0hfHjRHHgmA0/VeRCp+Hmm6FzIikjk3jXhdvPB5HZPNGxj/VviEGvRQ4r8YS5VXifvzCjwi08AHD7oVdvNoKFQrTvOrH4PTKU1YazvFAu1ecNUw04fPn68n9i8MzBxbuUxKDOSIVOLAvU7+tABwKCUO1zzSg8mNzsW/vYoTccgUvRPCKXBuXvA9ilFW7cszqUEJuqclApmOJRXkRdUDlf0aTgO9P4HDfrYXyasHgn6/IieIhk3lnI7XstWv1A+sKdQZnj7insvTBDETkyZ5KfFxcS3YY6FBJ7LQOfoznkpO/Rpg1lV8NrvFMjCfg==;tM6biH6eVM5W89hpgTloEg=="
 ---

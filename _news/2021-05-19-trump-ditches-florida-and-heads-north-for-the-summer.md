@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Capitol riot vote forces Republicans to pick truth or Trump"
-    excerpt: "It's Trump or the truth.\n    \n"
-    publishedDateTime: 2021-05-19T10:44:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9LEgQMyKvj4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/donald-trump-republican-party-capitol-riot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/donald-trump-republican-party-capitol-riot/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210420081143-01-kevin-mccarthy-0415-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump allies search for viable Cheney foe in Wyoming amid fight over 'Big Lie' "
     excerpt: "Chuck Gray, a Wyoming Republican state legislator, \"absolutely\" believes that former President Donald Trump won the 2020 election.\n    \n"
     publishedDateTime: 2021-05-06T15:01:51Z
@@ -95,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "NY attorney general has been looking into the taxes of Trump Organization CFO for months, sources say"
+    excerpt: "The New York attorney general's office has opened a criminal tax investigation into top Trump Organization officer Allen Weisselberg, increasing the legal pressure on the long-time aide to former President Donald Trump, people familiar with the investigation say.\n    \n"
+    publishedDateTime: 2021-05-19T23:03:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D1yGkBmLrak/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/ny-attorney-general-trump-org-cfo-weisselberg/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/ny-attorney-general-trump-org-cfo-weisselberg/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210519090102-01-trump-tower-nyc-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Auditioning to replace Cheney, Stefanik calls Trump ‘the strongest supporter’ of the Constitution."
     excerpt: "Representative Elise Stefanik pitched herself as an unshakable Trump ally as momentum gathered to oust his fervent critic, Representative Liz Cheney, from the Republican leadership."
     publishedDateTime: 2021-05-06T11:56:00Z
@@ -110,20 +110,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/05/06/us/06new-washington-briefing-stefanik/06new-washington-briefing-stefanik-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "N.Y. state investigation into Trump is now a criminal probe"
-    excerpt: "The probe is “no longer purely civil in nature,” a spokesperson for state Attorney General Letitia James confirmed to POLITICO."
-    publishedDateTime: 2021-05-19T02:37:00Z
-    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/05/18/ny-state-investigation-into-trump-now-a-criminal-probe-1382990"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/f1/5d/3e4d90f74126898d776eaa18b883/5-5-21-donaldtrump-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "2tE4Js6jj32/P8+AzHu7KFMkjT+v/Hal+ouzp/PnuVZEvK5dPNx6LgJRCjw70/573hnb+GousN0su5La5+l3TA2YIE39B1wNXygVO3YbrYZx87MkOkLi7irzeKm1TadgaSjTZVwQZ2RJMQh4WiQRM/GdIr1WvBQM/RHPhLBh/bJnwfClDAgxbQjJoEZ8kT0TzdAinJ5ayO9igUE6Sm+rODsL2/hweb9NVmyd3n4vCP0rhrL8qcWuUWqfkFyMdv6CCrNLyBN3Daei3FBSbkQ0EU9kl2xw6L1jbHn2gWzHqJ55/WxAe9z4Dlh0lRAaSFfeZfp31Td1FDkT9/osHkiavZPvkmlh0AQJTYHY6ET6BHk=;07QRp4nCUfC+jjxeuIhRDw=="

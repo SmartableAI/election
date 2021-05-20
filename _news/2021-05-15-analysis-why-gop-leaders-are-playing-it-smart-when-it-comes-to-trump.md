@@ -31,12 +31,44 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: The Trump Republican circus gears up for another tour"
-    excerpt: "Donald Trump schooled his protégés well in his politics of down-in-the-muck misinformation.\n    \n"
-    publishedDateTime: 2021-04-27T10:28:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V5wyQnnrMx4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald-trump/index.html"
+  - title: "Trump allies seek to import Arizona's election audit to Georgia"
+    excerpt: "In a bid to bolster former President Donald Trump's lies about widespread fraud in the 2020 election, Trump's Republican allies are now seeking Arizona-style audits in other swing states -- including Georgia, where the former President's false claims have set off an intraparty war.\n    \n"
+    publishedDateTime: 2021-05-19T22:44:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4uEmzFnER9g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/trump-allies-seek-more-audits/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/trump-allies-seek-more-audits/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: The 5 key elements of Trump's Big Lie and how it came to be"
+    excerpt: "Former President Donald Trump has spent months spreading lies about the 2020 election, which he himself is now calling \"THE BIG LIE\" as he continues to claim that a massive conspiracy robbed him of a second term.\n    \n"
+    publishedDateTime: 2021-05-19T23:17:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eH5PTBen6U0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/donald-trump-big-lie-explainer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/donald-trump-big-lie-explainer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119172339-01-capitol-riot-wide-ground-shot-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Capitol riot vote forces Republicans to pick truth or Trump"
+    excerpt: "It's Trump or the truth.\n    \n"
+    publishedDateTime: 2021-05-19T10:44:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9LEgQMyKvj4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/donald-trump-republican-party-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/donald-trump-republican-party-capitol-riot/index.html"
     type: article
     provider:
       name: CNN
@@ -47,85 +79,65 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "DOJ repeals Trump ban on grants to 'sanctuary cities'"
-    excerpt: "The Justice Department has repealed a policy put in place during the Trump administration that restricted so-called sanctuary cities from receiving federal grants for criminal justice efforts.\n    \n"
-    publishedDateTime: 2021-04-28T15:51:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OFOs5--oius/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/sanctuary-cities-justice-department-trump-policy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/sanctuary-cities-justice-department-trump-policy/index.html"
+  - title: "McCarthy's bid to quash January 6 commission underscores GOP split on Trump "
+    excerpt: "Less than a week after Rep. Liz Cheney was ousted from her leadership position for her opposition to Donald Trump's lies about the 2020 election, House Republicans are mired in yet another fight over Trump -- this time whether to move forward with a bipartisan commission to investigate the January 6"
+    publishedDateTime: 2021-05-18T23:07:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rC-a6QHnBWo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/gop-infighting-january-6-commission-kevin-mccarthy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/gop-infighting-january-6-commission-kevin-mccarthy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421190715-department-of-justice-ransomware-file-2019-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518132633-mccarthy-for-oped-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Biden's first 100 days, by the numbers"
-    excerpt: "President Joe Biden marks his first 100 days in office on Thursday. Let's run the numbers on that milestone:\n    \n"
-    publishedDateTime: 2021-04-29T22:30:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hsFjPoCXdpM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/biden-100-days-by-the-numbers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/biden-100-days-by-the-numbers/index.html"
+  - title: "Arizona GOP election official defends office against Trump voting conspiracy theory: 'We are humans, it has to stop.'"
+    excerpt: "The Republican official who heads Maricopa County, Arizona's election department offered a forceful defense of his office on Monday after former President Donald Trump falsely claimed that the county's \"entire Database\" had been deleted.\n    \n"
+    publishedDateTime: 2021-05-18T02:56:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZHkT0Qa-iQQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/arizona-election-audit-stephen-richer-trump-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/arizona-election-audit-stephen-richer-trump-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428215609-20210428-biden-joint-speech-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517201014-stephen-richer-ebof-05172021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: How the economy is turning into a strength for Biden"
-    excerpt: "President Joe Biden hopes his Democratic Party can defy history next year. It's usually a foregone conclusion that the President's party loses House seats in midterm elections. The Democrats, of course, have a thin House majority and no room for error.\n    \n"
-    publishedDateTime: 2021-05-01T16:02:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n2zgsioWaAc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/01/politics/biden-economy-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/01/politics/biden-economy-analysis/index.html"
+  - title: "California recall candidates use auto-donation tactic Trump made famous"
+    excerpt: "Consumer advocates and campaign finance officials say the tactic misleads donors into giving more money than they intend because they must uncheck boxes to ensure their accounts are not regularly charged."
+    publishedDateTime: 2021-05-17T22:14:00Z
+    webUrl: "https://www.politico.com/states/california/story/2021/05/17/california-recall-candidates-use-auto-donation-tactic-trump-made-famous-1382586"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: Politico
+      domain: politico.com
+    quality: 115
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429152424-01-biden-100-days-cnnphotos-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/03/ef/a61698614850894760b16836e8b4/210511-caitlin-jenner-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Analysis: Takeaways from a day of congressional Republicans embracing Trump and downplaying the US Capitol riot"
-    excerpt: "The ongoing battle between truth and lies, and the continued fallout from the January 6 insurrection, played out Wednesday on Capitol Hill with critical oversight hearings and a landmark vote among the House Republicans to oust Liz Cheney from their leadership ranks.\n    \n"
-    publishedDateTime: 2021-05-12T21:12:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Awl9sqVxTM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/takeaways-capitol-riot-cheney-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/takeaways-capitol-riot-cheney-trump/index.html"
+  - title: "N.Y. state investigation into Trump is now a criminal probe"
+    excerpt: "The probe is “no longer purely civil in nature,” a spokesperson for state Attorney General Letitia James confirmed to POLITICO."
+    publishedDateTime: 2021-05-19T02:37:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/05/18/ny-state-investigation-into-trump-now-a-criminal-probe-1382990"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 155
+      name: Politico
+      domain: politico.com
+    quality: 115
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512170948-gosar-cheney-mccarthy-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "‘There Is a Tension There’: Publishers Draw Fire for Signing Trump Officials"
-    excerpt: "Kellyanne Conway, Mike Pence and William Barr have book deals. That is raising new challenges for publishers trying to balance ideological lines with a desire to continue representing the political spectrum."
-    publishedDateTime: 2021-04-27T23:49:00Z
-    webUrl: "https://www.nytimes.com/2021/04/27/books/publishing-trump-conservatives-kellyanne-conway.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/27/books/publishing-trump-conservatives-kellyanne-conway.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/27/books/publishing-trump-conservatives-kellyanne-conway.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 132
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/27/books/27rightbooks1-sub/27rightbooks1-sub-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/f1/5d/3e4d90f74126898d776eaa18b883/5-5-21-donaldtrump-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "L5MZf6n7VqvWzbCLXq3+Lt+8K2bEHjL1PTMLbd7df/1Ph3FcYcXuY4C7kD1oYMw6e1AsUiBv5nSBdoUr0tzStGfKW+CaYTcazlTyP0MPLNDhuyIBu+hR6gXPjMszaWx+dYKx7DU9rcOlMQjtGSC3tUGD50sIEExTcyDZJ6MOo5UXN0PSiRNM0O/OOAteJR5CwN5iTtVXH/Ya3y1MmB8jWSYOUz2szmNCetmGe+4dtgAKHi4glDu/au7F9k69gEMIzFxV+IdneNu0Hi/VfNIaboQZM7RSAXeTOOSaD4Oy6JTmryXUM6bioCoxEBrsJkuiSZaZVHV9845Fj50UIfI8HoqjJEjmuxSet1K5Nh40tvw=;Y2ZPbmBovAlURQKyD+9YoA=="

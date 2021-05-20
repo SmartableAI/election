@@ -613,6 +613,15 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
+  - title: "35 Republicans Buck Trump, Back Study of Jan. 6 Capitol Riot"
+    excerpt: "Thirty-five House Republicans have joined Democrats and voted to create a bipartisan commission to investigate the Jan. 6 attack on the Capitol."
+    publishedDateTime: 2021-05-19T22:59:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-19/35-republicans-buck-trump-back-study-of-jan-6-capitol-riot"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
   - title: "House Republicans Pick Stefanik to Replace Trump Critic Cheney in Leadership - Media"
     excerpt: "Republicans in the U.S. House of Representatives on Friday elected Elise Stefanik to serve in their No. 3 leadership position, replacing Liz Cheney, an outspoken critic of former President Donald Trump's false claims of election fraud,"
     publishedDateTime: 2021-05-14T13:34:00Z

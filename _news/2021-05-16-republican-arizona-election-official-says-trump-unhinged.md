@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/republican-arizona-ele
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/republican-arizona-election-official-trump-unhinged-77717013"
 type: article
 quality: 140
-heat: 940
+heat: 960
 published: true
 
 provider:
@@ -609,6 +609,15 @@ related:
     excerpt: "Republicans in the U.S. House of Representatives will vote on Wednesday whether to eject Liz Cheney, an outspoken critic of Donald Trump, from her leadership post, a move likely to cement their dependence on the former president in the 2022 elections."
     publishedDateTime: 2021-05-12T10:03:00Z
     webUrl: "https://www.usnews.com/news/us/articles/2021-05-12/liz-cheney-vote-us-house-republicans-reach-watershed-over-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "35 Republicans Buck Trump, Back Study of Jan. 6 Capitol Riot"
+    excerpt: "Thirty-five House Republicans have joined Democrats and voted to create a bipartisan commission to investigate the Jan. 6 attack on the Capitol."
+    publishedDateTime: 2021-05-19T22:59:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-19/35-republicans-buck-trump-back-study-of-jan-6-capitol-riot"
     type: article
     provider:
       name: U.S. News & World Report

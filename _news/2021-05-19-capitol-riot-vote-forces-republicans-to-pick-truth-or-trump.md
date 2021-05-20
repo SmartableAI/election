@@ -31,85 +31,99 @@ images:
     isCached: true
 
 related:
-  - title: "Cheney shames colleagues who will purge her for disloyalty to Trump"
-    excerpt: "Liz Cheney won't move on and stop speaking about the threat to American democracy posed by Donald Trump for a simple reason: It hasn't gone away.\n    \n"
-    publishedDateTime: 2021-05-12T10:51:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CmPR2gXUgy8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/liz-cheney-house-gop/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/liz-cheney-house-gop/index.html"
+  - title: "Trump allies seek to import Arizona's election audit to Georgia"
+    excerpt: "In a bid to bolster former President Donald Trump's lies about widespread fraud in the 2020 election, Trump's Republican allies are now seeking Arizona-style audits in other swing states -- including Georgia, where the former President's false claims have set off an intraparty war.\n    \n"
+    publishedDateTime: 2021-05-19T22:44:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4uEmzFnER9g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/trump-allies-seek-more-audits/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/trump-allies-seek-more-audits/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Why GOP leaders are playing it smart when it comes to Trump"
+    excerpt: "The House GOP's move to remove Rep. Liz Cheney from her leadership position is widely seen as the latest move to placate the base at the risk of alienating the center of the electorate. Cheney had voted to impeach former President Donald Trump and has continued her critiques of him while most other Republicans"
+    publishedDateTime: 2021-05-15T16:24:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sadTD29IEkE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/15/politics/republicans-trump-cheney-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/15/politics/republicans-trump-cheney-analysis/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505064526-01-liz-cheney-0414-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512134652-kevin-mccarthy-white-house-0512-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump ditches Florida and heads north for the summer"
-    excerpt: "As reliably as seasons change, so does Donald Trump shift his primary residence.\n    \n"
-    publishedDateTime: 2021-05-19T11:02:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E_0oHW2keek/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/bedminster-mar-a-lago-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/bedminster-mar-a-lago-donald-trump/index.html"
+  - title: "Analysis: The 5 key elements of Trump's Big Lie and how it came to be"
+    excerpt: "Former President Donald Trump has spent months spreading lies about the 2020 election, which he himself is now calling \"THE BIG LIE\" as he continues to claim that a massive conspiracy robbed him of a second term.\n    \n"
+    publishedDateTime: 2021-05-19T23:17:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eH5PTBen6U0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/donald-trump-big-lie-explainer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/donald-trump-big-lie-explainer/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518182342-trump-bedminster-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119172339-01-capitol-riot-wide-ground-shot-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump allies search for viable Cheney foe in Wyoming amid fight over 'Big Lie' "
-    excerpt: "Chuck Gray, a Wyoming Republican state legislator, \"absolutely\" believes that former President Donald Trump won the 2020 election.\n    \n"
-    publishedDateTime: 2021-05-06T15:01:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c0bxwwRiiis/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/06/politics/wyoming-trump-allies-cheney-fight/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/06/politics/wyoming-trump-allies-cheney-fight/index.html"
+  - title: "McCarthy's bid to quash January 6 commission underscores GOP split on Trump "
+    excerpt: "Less than a week after Rep. Liz Cheney was ousted from her leadership position for her opposition to Donald Trump's lies about the 2020 election, House Republicans are mired in yet another fight over Trump -- this time whether to move forward with a bipartisan commission to investigate the January 6"
+    publishedDateTime: 2021-05-18T23:07:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rC-a6QHnBWo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/gop-infighting-january-6-commission-kevin-mccarthy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/gop-infighting-january-6-commission-kevin-mccarthy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505174309-chuck-gray-wyoming-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518132633-mccarthy-for-oped-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Cheney on Trump: 'He's going to unravel the democracy to come back into power'"
-    excerpt: "Rep. Liz Cheney is outlining her next steps in the aftermath of her ousting from leadership, telling NBC, \"I intend to be the leader, one of the leaders, in a fight to help to restore our party,\" and warning that former President Donald Trump is willing \"to unravel the democracy to come back into power.\"\n"
-    publishedDateTime: 2021-05-13T13:37:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kKbVxByHPkk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/cheney-trump-mccarthy-nbc-interview/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/cheney-trump-mccarthy-nbc-interview/index.html"
+  - title: "Arizona GOP election official defends office against Trump voting conspiracy theory: 'We are humans, it has to stop.'"
+    excerpt: "The Republican official who heads Maricopa County, Arizona's election department offered a forceful defense of his office on Monday after former President Donald Trump falsely claimed that the county's \"entire Database\" had been deleted.\n    \n"
+    publishedDateTime: 2021-05-18T02:56:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZHkT0Qa-iQQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/arizona-election-audit-stephen-richer-trump-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/arizona-election-audit-stephen-richer-trump-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210128192549-mccarthy-trump-cheney-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517201014-stephen-richer-ebof-05172021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Auditioning to replace Cheney, Stefanik calls Trump ‘the strongest supporter’ of the Constitution."
-    excerpt: "Representative Elise Stefanik pitched herself as an unshakable Trump ally as momentum gathered to oust his fervent critic, Representative Liz Cheney, from the Republican leadership."
-    publishedDateTime: 2021-05-06T11:56:00Z
-    webUrl: "https://www.nytimes.com/2021/05/06/us/politics/stefanik-trump-cheney.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/06/us/politics/stefanik-trump-cheney.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/06/us/politics/stefanik-trump-cheney.amp.html"
+  - title: "California recall candidates use auto-donation tactic Trump made famous"
+    excerpt: "Consumer advocates and campaign finance officials say the tactic misleads donors into giving more money than they intend because they must uncheck boxes to ensure their accounts are not regularly charged."
+    publishedDateTime: 2021-05-17T22:14:00Z
+    webUrl: "https://www.politico.com/states/california/story/2021/05/17/california-recall-candidates-use-auto-donation-tactic-trump-made-famous-1382586"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 121
+      name: Politico
+      domain: politico.com
+    quality: 115
     images:
-      - url: "https://static01.nyt.com/images/2021/05/06/us/06new-washington-briefing-stefanik/06new-washington-briefing-stefanik-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/03/ef/a61698614850894760b16836e8b4/210511-caitlin-jenner-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "N.Y. state investigation into Trump is now a criminal probe"
     excerpt: "The probe is “no longer purely civil in nature,” a spokesperson for state Attorney General Letitia James confirmed to POLITICO."

@@ -95,22 +95,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Why GOP leaders are playing it smart when it comes to Trump"
-    excerpt: "The House GOP's move to remove Rep. Liz Cheney from her leadership position is widely seen as the latest move to placate the base at the risk of alienating the center of the electorate. Cheney had voted to impeach former President Donald Trump and has continued her critiques of him while most other Republicans"
-    publishedDateTime: 2021-05-15T16:24:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sadTD29IEkE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/15/politics/republicans-trump-cheney-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/15/politics/republicans-trump-cheney-analysis/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512134652-kevin-mccarthy-white-house-0512-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "‘There Is a Tension There’: Publishers Draw Fire for Signing Trump Officials"
     excerpt: "Kellyanne Conway, Mike Pence and William Barr have book deals. That is raising new challenges for publishers trying to balance ideological lines with a desire to continue representing the political spectrum."
     publishedDateTime: 2021-04-27T23:49:00Z

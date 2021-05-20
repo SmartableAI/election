@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Vice Pres. Kamala Harris speaking now"
+    excerpt: "Watch \"Vice Pres. Kamala Harris speaking now\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-05-19T22:02:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210519220232-vice-pres-kamala-harris-speaking-now/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/05/19/story_10441477_1621462384.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Essential Politics: Kamala Harris’ online fans are intense. They’re just the beginning"
     excerpt: "It remains nasty and brutish at times. Good morning and welcome to Essential Politics, Kamala Harris edition. This week, I’ll talk about my takeaways from reporting on the vice president’s biggest online cheerleaders, the KHive, a loose-knit network of ..."
     publishedDateTime: 2021-04-14T13:44:00Z

@@ -174,6 +174,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Kamala Harris keeps list of reporters who don't ' fully understand her:' report"
+    excerpt: "Vice President Kamala Harris reportedly keeps a list of journalists and media members who she feels \"don't fully understand her.\" A profile of Harris published in The Atlantic claims that the vice president and her staff keep track of journalists ..."
+    publishedDateTime: 2021-05-19T22:45:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-keeps-list-of-reporters-who-dont-fully-understand-her-report"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-keeps-list-of-reporters-who-dont-fully-understand-her-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-keeps-list-of-reporters-who-dont-fully-understand-her-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d9cc64e-3031-4674-8195-c7abe250b4f8/4f273b67-7f3e-496b-bba3-09feaace0a1f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris’ niece says those who are neutral on Israel-Gaza have ‘chosen the side of the oppressor’"
     excerpt: "Vice President Kamala Harris’ niece Meena offered a more forceful take on the Israel-Gaza unrest Wednesday than that of her aunt, urging people to fight “Palestinian oppression.”"
     publishedDateTime: 2021-05-14T00:41:00Z

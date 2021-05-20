@@ -169,6 +169,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Reluctant Biden pushes to end Mideast violence"
+    excerpt: "Facing mounting international and political pressure, U.S. President Joe Biden is switching from subtle diplomacy to publically calling for an end to missile strikes going between Israel and Hamas in Gaza that have killed hundreds."
+    publishedDateTime: 2021-05-19T23:44:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/19/reluctant-biden-pushes-end-mideast-violence/5174445001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/46686994-7046-4840-a3fd-113a9ae635af_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Kamala Harris’ Niece Stands With Palestine, AOC Slams Biden For Israel Support"
     excerpt: "Biden expressed his support for Israel in a phone call with Prime Minister Netanyahu Harris and Ocasio-Cortez slammed Biden for 'siding with opposition' More than 100 Palestinians have died from the attacks by Israeli forces The ongoing conflict between Israel and Hamas militants in Gaza has put the Biden administration,"
     publishedDateTime: 2021-05-14T05:17:00Z
