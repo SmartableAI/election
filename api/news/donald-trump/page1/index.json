@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-21-trump-leaves-gop-paralyzed-in-congress-and-up-and-down-ballots-analysis.md",
+      "title": "Trump leaves GOP paralyzed, in Congress and up and down ballots: ANALYSIS",
+      "excerpt": "Former President Donald Trump may have left office in disgrace, but the four months since then have seen his influence grow.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/mccarthy-stefanik-ap-ps-210520_1621535991742_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576",
+      "publishedDateTime": "2021-05-20T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-21-mccarthy-says-he-would-testify-about-conversation-with-trump-during-jan-6-capitol-assault.md",
+      "title": "McCarthy says he would testify about conversation with Trump during Jan. 6 Capitol assault",
+      "excerpt": "House Minority Leader Kevin McCarthy took a swipe at the \"Pelosi commission\" to investigate the Jan. 6 Capitol attack as one plagued with politics.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974",
+      "originalUrl": "https://abcnews.go.com/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/kevin-mccarthy-presser-02-rt-jef-210520_1621534095132_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mccarthy-testify-conversation-trump-jan-capitol-assault/story?id=77801974",
+      "publishedDateTime": "2021-05-20T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-how-the-ags-trump-probe-might-play-out-feds-eye-cuomo-virus-tests-nyc-covid-numbers-hit-low-point-as-restrictions-lift.md",
       "title": "How the AG’s Trump probe might play out — Feds eye Cuomo virus tests — NYC Covid numbers hit low point as restrictions lift",
       "excerpt": "But those lanes crossed this week when James notified the Trump Organization that her civil probe into whether Trump and his family members misstated property values to get tax benefits now has a criminal element.",
@@ -870,49 +974,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-17-george-p-bush-wants-to-challenge-beleaguered-texas-ag-ken-paxton-but-can-he-keep-trump-out-of-it.md",
-      "title": "George P. Bush wants to challenge beleaguered Texas AG Ken Paxton. But can he keep Trump out of it?",
-      "excerpt": "Land Commissioner George P. Bush is sending strong signals that he’s preparing to launch a primary challenge against Attorney General Ken Paxton, hoping it can center on Paxton’s legal troubles and how he has run his office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/houston-texas/article/ken-paxton-george-p-bush-trump-16182082.php",
-      "originalUrl": "https://www.chron.com/news/houston-texas/article/ken-paxton-george-p-bush-trump-16182082.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/houston-texas/amp/ken-paxton-george-p-bush-trump-16182082.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/ken-paxton-george-p-bush-trump-16182082.php",
-      "publishedDateTime": "2021-05-17T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-05-17-trump-jr-praises-anti-cancel-culture-rant-unaware-same-comedian-roasted-his-father-even-better.md",
       "title": "Trump Jr. Praises Anti-Cancel-Culture Rant, Unaware Same Comedian Roasted His Father Even Better",
       "excerpt": "Trump Jr. shared a comedy clip of Jonathan Pie, a fictional news reporter portrayed by British comedian Tom Walker.",
@@ -1054,58 +1115,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-16-lin-wood-falls-to-trump-endorsed-drew-mckissick-in-bid-to-lead-south-carolina-gop.md",
-      "title": "Lin Wood Falls to Trump-Endorsed Drew McKissick in Bid to Lead South Carolina GOP",
-      "excerpt": "Pro-Trump lawyer Lin Wood's attempt to convince delegates to make him the next South Carolina Republican Party chairman fell through on Saturday, when incumbent Drew McKissick secured his reelection bid for a third two-year term,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850",
-      "originalUrl": "https://www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1798007/defamation-lawsuit-against-tesla-ceo-elon-musk.jpg",
-          "width": 3615,
-          "height": 2410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850?amp=1",
-      "publishedDateTime": "2021-05-15T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1438,7 +1447,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/epa-revokes-trump-era-policy-loosened-clean-air-77667886",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {

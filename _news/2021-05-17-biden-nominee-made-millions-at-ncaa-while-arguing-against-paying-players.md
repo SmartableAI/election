@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-ncaa-pay-college-athl
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-ncaa-pay-college-athletes.amp"
 type: article
 quality: 174
-heat: 174
+heat: 194
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Joe Biden needs three things from South Korean President Moon"
+    excerpt: "President Joe Biden will sit down with South Korean President Moon Jae-in Friday amid relative calm on the Korean Peninsula. But their first meeting arrives with questions about Korea's willingness to play a stronger deterrent role against China."
+    publishedDateTime: 2021-05-20T13:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-"
+    ampWebUrl: "https://www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/biden-needs-three-things-from-south-korean-president-?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "l5pMEn4LBBnNwHweHapRBJ18+vc0aQ5ntRl7cQ6Gyj/M1+XR7AL7UtsXRMsdoJa9EAM/Csq7VjoW5gqwwACtVH3BerTyfrcubtTU5MpCMQwBOw7kWc90b0aJdNiaaHw9jVpvnZ+OYJ97Y5peMLYV7cZMGQCCY/yPVl5xgIHwZxoTMVtY2DN3G+k7PJ4CF8m156VeYWj2U8jqj4hmxjVkxCcMPdYQBoO6Kljh+Wcz0XcmgigPxGKXkjzeK3zM77UdZ3+1ZWM8xbqnN4bZYwVBDkoYf1XMmmas/52RyFF8FxpYw/4Ro5duXh725kDsISHaWSAL7OzxW770C5mh+fvyE7xF9EQWvLqkvmxiq9e3viE=;rHyAQlRLdOsoDKvzlioUuw=="
 ---

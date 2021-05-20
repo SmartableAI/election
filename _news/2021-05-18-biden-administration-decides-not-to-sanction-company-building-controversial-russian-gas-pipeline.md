@@ -31,35 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration is open to sharing coronavirus vaccines with North Korea"
-    excerpt: "The Biden administration is open to sharing coronavirus vaccines and other humanitarian assistance to help North Korea combat the deadly pandemic, according to two sources familiar with internal discussions.\n    \n"
-    publishedDateTime: 2021-05-11T09:09:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z9CM_hlC2Go/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/us-coronavirus-vaccines-north-korea/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/us-coronavirus-vaccines-north-korea/index.html"
+  - title: "UN refugee agency urges Biden to end asylum restrictions on the border"
+    excerpt: "The United Nations refugee agency urged the United States on Thursday to end Trump-era asylum restrictions on the US-Mexico border the Biden administration continues to rely on.\n    \n"
+    publishedDateTime: 2021-05-20T18:52:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PNKtuV1z4uU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-asylum/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-asylum/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505110405-file-pfizer-covid-19-vaccine-canada-december-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210430194632-migrants-biden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden dismisses McConnell's pledge to focus 'on stopping this new administration'"
-    excerpt: "President Joe Biden responded on Wednesday to Senate Minority Leader Mitch McConnell's comment that \"100%\" of his focus is \"on stopping this new administration,\" asserting that he had heard such threats from the Kentucky Republican before and worked through them.\n    \n"
-    publishedDateTime: 2021-05-05T20:56:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3-dkiCWW_-c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/biden-mcconnell-100-stopping-new-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/biden-mcconnell-100-stopping-new-administration/index.html"
+  - title: "Biden administration to close two immigration detention centers that came under scrutiny"
+    excerpt: "The Biden administration announced Thursday that it will stop detaining immigrants at two detention centers that came under investigation over allegations of inadequate medical care and poor conditions.\n    \n"
+    publishedDateTime: 2021-05-20T16:31:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NVOc8d5HcW0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/ice-detention-center/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/ice-detention-center/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106100610-01-biden-mcconnell-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520112251-01-briston-corrections-2020-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -79,35 +79,67 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden sets goal of administering at least one Covid-19 vaccine shot to 70% of US adult population by July 4"
-    excerpt: "President Joe Biden on Tuesday will set a new goal of administering at least one Covid-19 vaccine dose to 70% of the US adult population and having 160 million US adults fully vaccinated by July 4, according to senior administration officials.\n    \n"
-    publishedDateTime: 2021-05-04T19:33:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uwxm92ZyKxE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/04/politics/biden-covid-goals-july-4/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/04/politics/biden-covid-goals-july-4/index.html"
+  - title: "Senators call on Biden administration to demand Saudi end blockade tactics on a starving Yemen "
+    excerpt: "A group of Democratic senators are calling on President Joe Biden to take \"immediate and decisive action\" to end Saudi Arabia's \"blockade tactics\" in Yemen that have prevented food, medicine and other crucial supplies from reaching desperate and starving people there.\n    \n"
+    publishedDateTime: 2021-05-20T13:00:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QS9U_bUNWM8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/yemen-letter-biden-saudis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/yemen-letter-biden-saudis/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 157
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210504134315-02-biden-covid-remarks-0504-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416131252-06-cnn-yemen-saif-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration officials privately frustrated with Colonial Pipeline's weak security ahead of crippling cyberattack"
-    excerpt: "Biden administration officials have privately voiced frustration with what they see as Colonial Pipeline's weak security protocols and a lack of preparation that could have allowed hackers to pull off a crippling ransomware attack , officials familiar with government's initial investigation into the"
-    publishedDateTime: 2021-05-11T20:20:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Jh-xa0KGqcM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/11/politics/biden-administration-ransomware-frustration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/11/politics/biden-administration-ransomware-frustration/index.html"
+  - title: "Blinken and Lavrov to hold first high-level meeting of Biden's presidency as US-Russia tensions simmer"
+    excerpt: "US Secretary of State Antony Blinken is set to meet Russian Foreign Minister Sergey Lavrov Wednesday, the first high-level encounter between the US and Russia since President Joe Biden took office that comes amid heightened tensions between the former Cold War foes.\n    \n"
+    publishedDateTime: 2021-05-19T17:26:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4N1jyX42c4g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/blinken-lavrov-us-russia-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/blinken-lavrov-us-russia-meeting/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 150
+    quality: 159
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210510160035-01-colonial-pipeline-new-jersey-0510-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512132815-tony-blinken-sergey-lavrov-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden wants to bring the economy from relief to recovery. A labor shortage may signal trouble for those plans."
+    excerpt: "Patti Eisenbraun had been anxiously waiting for the pandemic to subside so the dining room and patio at the Brown Iron Brewhouse would be bustling once again.\n    \n"
+    publishedDateTime: 2021-05-18T11:50:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WGt8RGleOwA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/labor-shortage-biden-economy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/labor-shortage-biden-economy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210402113121-01-biden-jobs-0402-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Advocates push for Biden to use his executive powers to grant clemency for hundreds of women in federal prisons "
+    excerpt: "Miquelle West was 10 when she learned the harsh realities about the criminal justice system as her mother was handed two life sentences plus 50 years in a federal lockup for a conspiracy drugs case that was connected to a murder.\n    \n"
+    publishedDateTime: 2021-05-19T12:02:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f7kHzuyDl9E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/biden-clemency-advocates-push-women-federal-prisons/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/biden-clemency-advocates-push-women-federal-prisons/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517133914-01-pressley-advocates-clemency-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -184,6 +184,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "First lady says she's 'moved on' from reported anger at Kamala Harris"
+    excerpt: "First lady Jill Biden on Thursday didn’t deny a report that she uttered a profanity about Vice President Kamala D. Harris for accusing Joe Biden of racism during a Democratic presidential primary debate in June 2019."
+    publishedDateTime: 2021-05-20T19:31:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/may/20/jill-biden-kamala-harris-busing-racism-charge-and-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/20/jill-biden-kamala-harris-busing-racism-charge-and-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/20/jill-biden-kamala-harris-busing-racism-charge-and-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/12/election_2020_joe_biden_vp_00766_c0-0-4061-2368_s1200x700.jpg?1b20ccd4a28d7efd04c18bd85a2c3907018d352d"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "VP Harris says illegal migration worsened by 'extreme climate' disasters"
     excerpt: "Vice President Kamala Harris said Monday that “extreme climate incidents” such as hurricanes destroy crops in Central America and prompt more people to migrate illegally to the U.S."
     publishedDateTime: 2021-05-17T23:10:00Z

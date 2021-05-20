@@ -143,6 +143,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump told his former White House doctor that he wants to run in 2024"
+    excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
+    publishedDateTime: 2021-05-20T19:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-running-in-2024-white-house-doctor-ronny-jackson-trump-wants-to-run-white-house-again-2024-2021-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/60a6a927e25d05001880cbb4?width=700"
+        width: 700
+        height: 525
+        isCached: true
   - title: "Explainer: Citizen Trump Faces Mounting Legal Woes"
     excerpt: "Donald Trump's legal woes escalated this week, as New York Attorney General Letitia James announced that a civil probe into the former president's family business had become criminal in nature. Here is a list of some of the investigations and lawsuits haunting Trump's post-presidency life."
     publishedDateTime: 2021-05-19T15:30:00Z

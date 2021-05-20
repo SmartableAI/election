@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html"
 type: article
 quality: 161
-heat: 201
+heat: 181
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Advocates push for Biden to use his executive powers to grant clemency for hundreds of women in federal prisons "
-    excerpt: "Miquelle West was 10 when she learned the harsh realities about the criminal justice system as her mother was handed two life sentences plus 50 years in a federal lockup for a conspiracy drugs case that was connected to a murder.\n    \n"
-    publishedDateTime: 2021-05-19T12:02:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f7kHzuyDl9E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/biden-clemency-advocates-push-women-federal-prisons/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/biden-clemency-advocates-push-women-federal-prisons/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 154
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517133914-01-pressley-advocates-clemency-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden won't rule out a retaliatory cyberattack on group responsible for pipeline hack and says Russia isn't to blame"
     excerpt: "President Joe Biden said Thursday he does not believe the Russian government was behind a cyberattack that shut down the pipeline supplying gasoline to the eastern US but said Moscow must do more to stop such attacks coming from Russia.\n    \n"
     publishedDateTime: 2021-05-13T19:06:29Z

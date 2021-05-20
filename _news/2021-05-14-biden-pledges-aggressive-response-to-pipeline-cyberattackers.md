@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -88,6 +88,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 101
+  - title: "Does Joe Biden Think He’s Done Enough to Placate Progressives?"
+    excerpt: "Does Joe Biden have a deliberate strategy for dealing with his party’s progressives, or is he just winging it?"
+    publishedDateTime: 2021-05-20T13:37:00Z
+    webUrl: "https://www.nationalreview.com/corner/does-joe-biden-think-hes-done-enough-to-placate-progressives/"
+    ampWebUrl: "https://www.nationalreview.com/corner/does-joe-biden-think-hes-done-enough-to-placate-progressives/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/does-joe-biden-think-hes-done-enough-to-placate-progressives/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/dem-debate-charleston-26.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "6GWAWb2QXp4CEwZHTp9FWYVthNyuj4YTpNLJzdUuEZXKxHa8j8dqyy0ndfJTuRtOvRVSGrYd8ppUZ6spB43E1mol+9W3uneydiUBgtWIhh3cVIUVpkF10IkwqDFOPglfkS9J+xYJ2KxTiQhVWFtwPF9l/oIOQ7ezcB+4VKiMWH4m4EFrvD13rukaQw5ssD1Qs8Pye/Y5p1NoXaAaC/JItDZvDE6frIBl5/80goJWEhG+mzR+lQxvCcgC602k0lv2SEfjJanZmmYgwRi3IxahxOSTySUI55c7T23ObOfYPlbbQfemv880Rd1pOWiJbFcXT1dGWNZU0Tq+/YMS/vw6aOnWl5v0963kQbq8PFZ+HdU=;6hql/NNtLzdgvtzkQaSDaQ=="
 ---

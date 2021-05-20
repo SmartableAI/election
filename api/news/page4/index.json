@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-05-15-a-colorado-man-accused-of-murdering-his-wife-told-fbi-agents-that-he-submitted-a-ballot-for-trump-in-her-name-because-the-other-guys-were-cheating.md",
-      "title": "A Colorado man accused of murdering his wife told FBI agents that he submitted a ballot for Trump in her name because the 'other guys' were cheating",
-      "excerpt": "Barry Morphew was charged with a felony count of forging public documents after telling investigators that he sent in a vote for his missing wife.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5",
-      "originalUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/609e9e50a807be0018d6227e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5?amp",
-      "publishedDateTime": "2021-05-14T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-05-14-trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown.md",
       "title": "Trump Considers Contenders to Be His New Social-Media Outlet After Big Tech Crackdown",
       "excerpt": "CloutHub and Skylab Apps are among companies vying to work with the former president, who was sidelined by Facebook and Twitter.",
@@ -393,7 +341,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -449,7 +397,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -505,7 +453,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 501,
+      "heat": 541,
       "tags": null,
       "images": [
         {
@@ -558,7 +506,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-team-moves-swiftly-to-tackle-pipeline-political-peril/2021/05/13/20745140-b3a2-11eb-bc96-fdf55de43bef_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -921,7 +869,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/epa-revokes-trump-era-policy-loosened-clean-air-77667886",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1343,6 +1291,62 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-ex-wh-counsel-mcgahn-to-testify-behind-closed-doors-about-trump-efforts-to-obstruct-russia-investigation.md",
+      "title": "Ex-WH counsel McGahn to testify behind closed doors about Trump efforts to obstruct Russia investigation",
+      "excerpt": "Former Trump White House counsel Don McGahn will testify before the House Judiciary Committee behind closed doors about then-President Donald Trump's attempts to obstruct the Russia investigation, the House and the Justice Department announced in a court filing Wednesday night.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5d3bRlEiH-Y/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5d3bRlEiH-Y/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170519173358-don-mcgahn-2-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/12/politics/don-mcgahn-house-testimony/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/don-mcgahn-house-testimony/index.html",
+      "publishedDateTime": "2021-05-12T18:59:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

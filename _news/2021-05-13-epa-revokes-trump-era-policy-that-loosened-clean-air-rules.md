@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/epa-revokes-trump-era-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/epa-revokes-trump-era-policy-loosened-clean-air-77667886"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/5ea2518ad66be58cfeab722641aea1a94e7b7e0c/0_3_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fc4e62efe4e614dff86ab2172e3b6c98"
         width: 600
         height: 360
+        isCached: true
+  - title: "Donald Trump told his former White House doctor that he wants to run in 2024"
+    excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
+    publishedDateTime: 2021-05-20T19:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-running-in-2024-white-house-doctor-ronny-jackson-trump-wants-to-run-white-house-again-2024-2021-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/60a6a927e25d05001880cbb4?width=700"
+        width: 700
+        height: 525
         isCached: true
   - title: "QAnon Shaman's Lawyer Gives Bold Response About Capitol Rioters And Donald Trump's Role"
     excerpt: "Trump may not be facing trial, but that hasn't stopped Capitol rioters from trying to make him part of their defense."

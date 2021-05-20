@@ -288,6 +288,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Why Biden Is Right to Leave Afghanistan"
+    excerpt: "The president should ignore the powerful voices in Washington pushing him to reverse course and not end our longest war."
+    publishedDateTime: 2021-05-20T19:00:00Z
+    webUrl: "https://www.nytimes.com/2021/05/20/opinion/biden-afghanistan-war.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/20/opinion/biden-afghanistan-war.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/20/opinion/biden-afghanistan-war.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/19/opinion/19scahill/19scahill-videoSixteenByNine3000.jpg"
+        width: 3000
+        height: 1689
+        isCached: true
   - title: "Biden's plans to withdraw US troops from Afghanistan splits Congress -- but not just on party lines"
     excerpt: "(CNN)President Joe Biden's decision to withdraw US troops from Afghanistan by September 11 -- the twentieth anniversary of the September 11, 2001, terrorist attacks -- prompted a split on Capitol Hill among both Republicans and Democrats, creating some ..."
     publishedDateTime: 2021-04-13T19:11:00Z

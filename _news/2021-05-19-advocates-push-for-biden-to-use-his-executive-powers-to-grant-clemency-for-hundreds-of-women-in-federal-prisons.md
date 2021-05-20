@@ -31,35 +31,115 @@ images:
     isCached: true
 
 related:
-  - title: "Biden signs cybersecurity executive order, though rules wouldn't have applied to Colonial Pipeline"
-    excerpt: "President Joe Biden signed an executive order Wednesday meant to better protect the nation from cyberattacks, but even as he signed it, the White House acknowledged more will need to be done to prevent the type of hack that affected the Colonial Pipeline.\n    \n"
-    publishedDateTime: 2021-05-12T22:51:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/12gzgGnLCC0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html"
+  - title: "UN refugee agency urges Biden to end asylum restrictions on the border"
+    excerpt: "The United Nations refugee agency urged the United States on Thursday to end Trump-era asylum restrictions on the US-Mexico border the Biden administration continues to rely on.\n    \n"
+    publishedDateTime: 2021-05-20T18:52:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PNKtuV1z4uU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-asylum/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/un-refugee-immigration-asylum/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 161
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512155902-04-pipeline-hack-fallout-0512-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210430194632-migrants-biden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden won't rule out a retaliatory cyberattack on group responsible for pipeline hack and says Russia isn't to blame"
-    excerpt: "President Joe Biden said Thursday he does not believe the Russian government was behind a cyberattack that shut down the pipeline supplying gasoline to the eastern US but said Moscow must do more to stop such attacks coming from Russia.\n    \n"
-    publishedDateTime: 2021-05-13T19:06:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YGEkudKnwU4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/cyberattack-russia-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/cyberattack-russia-biden/index.html"
+  - title: "Biden administration to close two immigration detention centers that came under scrutiny"
+    excerpt: "The Biden administration announced Thursday that it will stop detaining immigrants at two detention centers that came under investigation over allegations of inadequate medical care and poor conditions.\n    \n"
+    publishedDateTime: 2021-05-20T16:31:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NVOc8d5HcW0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/ice-detention-center/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/ice-detention-center/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 152
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210513132103-02-biden-colonial-pipeline-remarks-0513-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210520112251-01-briston-corrections-2020-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden has a 'core conviction' to hike taxes on corporations and the rich. It could cost him."
+    excerpt: "President Joe Biden's steadfast belief in taxing corporations and the rich has become a central plank in his legislative agenda, even as he's warned of political peril and red lines from Republicans.\n    \n"
+    publishedDateTime: 2021-05-13T11:04:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oa-1RAjw1jc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/joe-biden-tax-increases/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/joe-biden-tax-increases/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210507133814-01-joe-biden-0507-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Senators call on Biden administration to demand Saudi end blockade tactics on a starving Yemen "
+    excerpt: "A group of Democratic senators are calling on President Joe Biden to take \"immediate and decisive action\" to end Saudi Arabia's \"blockade tactics\" in Yemen that have prevented food, medicine and other crucial supplies from reaching desperate and starving people there.\n    \n"
+    publishedDateTime: 2021-05-20T13:00:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QS9U_bUNWM8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/yemen-letter-biden-saudis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/yemen-letter-biden-saudis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416131252-06-cnn-yemen-saif-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration decides not to sanction company building controversial Russian gas pipeline"
+    excerpt: "The Biden administration has decided against sanctioning the company in charge of building Russia's Nord Stream 2 gas pipeline, despite strongly opposing the project, according to two sources familiar with the decision, signaling that it is prioritizing unity with allies over concerns about a potential"
+    publishedDateTime: 2021-05-18T23:02:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xFiC7rRsdnM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/us-nord-stream-decision/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/us-nord-stream-decision/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518140311-02-biden-speaks-ford-michigan-0518-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Blinken and Lavrov to hold first high-level meeting of Biden's presidency as US-Russia tensions simmer"
+    excerpt: "US Secretary of State Antony Blinken is set to meet Russian Foreign Minister Sergey Lavrov Wednesday, the first high-level encounter between the US and Russia since President Joe Biden took office that comes amid heightened tensions between the former Cold War foes.\n    \n"
+    publishedDateTime: 2021-05-19T17:26:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4N1jyX42c4g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/blinken-lavrov-us-russia-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/blinken-lavrov-us-russia-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512132815-tony-blinken-sergey-lavrov-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden wants to bring the economy from relief to recovery. A labor shortage may signal trouble for those plans."
+    excerpt: "Patti Eisenbraun had been anxiously waiting for the pandemic to subside so the dining room and patio at the Brown Iron Brewhouse would be bustling once again.\n    \n"
+    publishedDateTime: 2021-05-18T11:50:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WGt8RGleOwA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/labor-shortage-biden-economy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/labor-shortage-biden-economy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210402113121-01-biden-jobs-0402-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

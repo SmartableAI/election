@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-30-leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango.md",
+      "title": "Leon Panetta on Biden's lack bipartisanship: It takes two to tango",
+      "excerpt": "We're going to get into the details of all of that, fair and balanced, with John Barrasso, the Republican senator from Wyoming, and Leon Panetta, Bill Clinton's chief of staff, and whether we are building up a lot of debt very,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango",
+      "originalUrl": "https://www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81623771-3b4f-45ee-8b65-03c338f4a578/58b06d7d-6c90-487b-aebe-6f2abac016ad/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/leon-panetta-on-bidens-lack-bipartisanship-it-takes-two-to-tango.amp",
+      "publishedDateTime": "2021-04-29T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-29-pence-to-target-biden-in-first-post-vice-presidency-speech.md",
       "title": "Pence to target Biden in first post-vice presidency speech",
       "excerpt": "It’s no coincidence that former Vice President Mike Pence’s first speech since the end of Donald Trump’s administration comes on the same day that President Biden marks his first 100 days in office.",
@@ -1610,63 +1667,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.md",
-      "title": "Biden ignores $1B in riot damage while praising George Floyd protesters after Chauvin conviction",
-      "excerpt": "President Biden neglected to acknowledge the rioting, looting, arson and worse that reportedly caused more than $1 billion in property damage last year as he praised George Floyd protesters Tuesday following Derek Chauvin's conviction on murder charges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction",
-      "originalUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/GettyImages-1312682563.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-ignores-1b-in-riot-damage-while-praising-george-floyd-protesters-after-chauvin-conviction.amp",
-      "publishedDateTime": "2021-04-21T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

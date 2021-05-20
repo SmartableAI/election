@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Hate has no place in America': Biden signs into law anti-Asian hate crimes bill"
+    excerpt: "The House and Senate overwhelmingly supported the measure, which will speed the review of the crimes and aid in their reporting."
+    publishedDateTime: 2021-05-20T19:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/hate-has-no-place-america-biden-sign-anti-asian-hate-n1268001"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268001"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268001"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_20/3476419/210520-joe-biden-hate-crime-bill-ew-258p_2e80140353ce2397c9f6ce4a6ecc838d.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "tk0eg76qoAq3MZLWsjNHu+1GUx/dAojmippKK76609hpO3UzUNrmI3OVppQuv5Vg2EEs5tUNPrAOMoFWSk+2iTZDpp3K+/zvRqiNEAggF4oWW+ybMxQ4TE50nluTQ3CQHRpVnZ20L+NclWoDk7+AoWWrtTqn7GLgYs8KaBm8EkC+bN/GhNNXIMxBgxoFUoOYVSGRnorcKU39Kkqz/LR5yecQzyNdUaXqBrHikgdj4fdIuv8pgK2Xnqe1I59wdPoFqh1Rlau1bbKGKLaL0HPbWTw+FqsxoZ2MK++i8r9VMF6k+TdZcsfRa63xO0kmcPjktXqQ1JQI373UtSUh25sBhGxjsj6mgaTX/WdVtJuE/s8=;//++Xg2c2aYkyJ0XYXYSaw=="
 ---

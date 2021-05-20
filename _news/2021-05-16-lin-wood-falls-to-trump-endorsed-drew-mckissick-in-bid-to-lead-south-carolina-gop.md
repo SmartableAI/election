@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissic
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850?amp=1"
 type: article
 quality: 120
-heat: 160
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump leaves GOP paralyzed, in Congress and up and down ballots: ANALYSIS"
+    excerpt: "Former President Donald Trump may have left office in disgrace, but the four months since then have seen his influence grow."
+    publishedDateTime: 2021-05-20T19:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mccarthy-stefanik-ap-ps-210520_1621535991742_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump Casino In Florida? GOP Lawmakers Clear Way For Gambling License"
     excerpt: "Eric Trump, son of the former president and the current executive vice president of the Trump Organization, previously suggested that the company had plans to establish a casino at Doral."
     publishedDateTime: 2021-05-20T04:31:00Z
@@ -46,20 +62,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
         width: 1024
         height: 731
-        isCached: true
-  - title: "Donald Trump endorses Texas Lt. Gov. Dan Patrick for reelection"
-    excerpt: "Former President Donald Trump endorsed Lt. Gov. Dan Patrick for reelection Monday, giving a top ally in Texas an early boost in his bid for a third term next year. \"Lieutenant Governor Dan Patrick is a great fighter for the people of Texas,"
-    publishedDateTime: 2021-05-10T23:48:00Z
-    webUrl: "https://www.chron.com/news/houston-texas/article/donald-trump-endorse-dan-patrick-16166069.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 70
-    images:
-      - url: "https://s.hdnux.com/photos/01/17/72/25/20948297/3/rawImage.jpg"
-        width: 2048
-        height: 1366
         isCached: true
 
 secured: "6GAA64DKQFI/ykW1/ulcjF1PX7PEscuDX2/kK0aegtqH1TGFxH7lGnbetXa01/VmN0W7Zm6RUTgY1jZ0dznBLBYojlW1eg6wnUltI1HbqQDrF/4a6U230r9wk43AN0edig1QGHVXeDzxNkOZOFAKVvmRptnvK/rp7XJ9mYgqY1isNaA+DBJxVIsMZxvso2Z0A5qiWUpEEYTLHR8vICS+8hKrKzbw1cm9txd4QHyfZf/Z+H8Q+mGmvGaw6r3YntTMPQDAGC9O+HCYNpahMaFwf/GfyBjiauj/oZf+zeoj0DRSJyqOV9L1Wpx+S/rak5azsil7eyh5kq7d6XpeubujRt8H/m2mE0Rwc72HIti+Xct5Jq8PKjSXXAh1Sfsjof2KCU0FnPM8rSfBe99XmfM/MLN9xtgWCVPWlmjpSshfeRRr3tljZ60ySZp42J7RfMBW00qR3PHFVRQT0h1WvURC6flkRWPW6HKePDEMAHxmkGE9BDn6pwdxJznffK9NHVfrujpUcuDCsr6eLIPvZzwi5g==;Dc8rm3HuDI0FYDSVAfgW3g=="

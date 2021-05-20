@@ -127,6 +127,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump told his former White House doctor that he wants to run in 2024"
+    excerpt: "\"He wants to be in the fight,\" Rep. Ronny Jackson, a Republican of Texas, said of his former boss. \"Just riding off in the sunset is not the way he's wired.\""
+    publishedDateTime: 2021-05-20T19:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-running-in-2024-white-house-doctor-ronny-jackson-trump-wants-to-run-white-house-again-2024-2021-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/60a6a927e25d05001880cbb4?width=700"
+        width: 700
+        height: 525
+        isCached: true
   - title: "QAnon Shaman's Lawyer Gives Bold Response About Capitol Rioters And Donald Trump's Role"
     excerpt: "Trump may not be facing trial, but that hasn't stopped Capitol rioters from trying to make him part of their defense."
     publishedDateTime: 2021-05-18T22:08:00Z

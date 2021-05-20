@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Hate has no place in America': Biden signs into law anti-Asian hate crimes bill"
+    excerpt: "The House and Senate overwhelmingly supported the measure, which will speed the review of the crimes and aid in their reporting."
+    publishedDateTime: 2021-05-20T19:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/hate-has-no-place-america-biden-sign-anti-asian-hate-n1268001"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1268001"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268001"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_20/3476419/210520-joe-biden-hate-crime-bill-ew-258p_2e80140353ce2397c9f6ce4a6ecc838d.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "An insider’s guide to Biden and Israel"
     excerpt: "The attorney general office’s investigation into the Trump Organization, which has been underway since 2019, will also continue as an ongoing civil probe, but the office recently informed Trump Organization officials of the criminal component."
     publishedDateTime: 2021-05-19T10:08:00Z

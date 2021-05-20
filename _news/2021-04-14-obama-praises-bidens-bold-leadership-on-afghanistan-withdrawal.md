@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
 type: article
 quality: 175
-heat: 535
+heat: 555
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_15/3464892/210415-anthony-blinken-mc-120427_0_1a83817b03f215ae8cc739d38746fac2.JPG"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "Why Biden Is Right to Leave Afghanistan"
+    excerpt: "The president should ignore the powerful voices in Washington pushing him to reverse course and not end our longest war."
+    publishedDateTime: 2021-05-20T19:00:00Z
+    webUrl: "https://www.nytimes.com/2021/05/20/opinion/biden-afghanistan-war.html"
+    ampWebUrl: "https://www.nytimes.com/2021/05/20/opinion/biden-afghanistan-war.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/20/opinion/biden-afghanistan-war.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/05/19/opinion/19scahill/19scahill-videoSixteenByNine3000.jpg"
+        width: 3000
+        height: 1689
         isCached: true
   - title: "Lawmakers Divided Over Biden’s Plan to Withdraw All Troops from Afghanistan by Sept. 11"
     excerpt: "The decision will keep more than 3,000 American troops in Afghanistan beyond the May 1 deadline that was announced under the Trump administration."

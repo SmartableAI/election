@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-18-biden-to-working-families-help-is-here.md",
+      "title": "Biden to working families: 'Help is here'",
+      "excerpt": "President Joe Biden says a new child tax credit “sends a clear and powerful message to American workers, working families with children: Help is here.\" 39 million families are set to receive monthly child payments beginning in July.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/05/17/biden-working-families-help-here/5134671001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/05/17/biden-working-families-help-here/5134671001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/7c75be8c-dca6-41d7-ac4b-b80419371f8e_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-17T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-17-how-trump-and-mcconnell-set-the-final-pieces-for-the-supreme-court-to-reconsider-roe-v-wade.md",
       "title": "How Trump and McConnell set the final pieces for the Supreme Court to reconsider Roe v. Wade",
       "excerpt": "Conservatives have been waiting decades for this moment: a transformed Supreme Court on Monday agreed to hear an abortion case that directly challenges women's reproductive rights tracing to the 1973 Roe v. Wade milestone.\n    \n",
@@ -221,49 +273,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-17-george-p-bush-wants-to-challenge-beleaguered-texas-ag-ken-paxton-but-can-he-keep-trump-out-of-it.md",
-      "title": "George P. Bush wants to challenge beleaguered Texas AG Ken Paxton. But can he keep Trump out of it?",
-      "excerpt": "Land Commissioner George P. Bush is sending strong signals that he’s preparing to launch a primary challenge against Attorney General Ken Paxton, hoping it can center on Paxton’s legal troubles and how he has run his office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/houston-texas/article/ken-paxton-george-p-bush-trump-16182082.php",
-      "originalUrl": "https://www.chron.com/news/houston-texas/article/ken-paxton-george-p-bush-trump-16182082.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/houston-texas/amp/ken-paxton-george-p-bush-trump-16182082.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/ken-paxton-george-p-bush-trump-16182082.php",
-      "publishedDateTime": "2021-05-17T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -754,58 +763,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-16-lin-wood-falls-to-trump-endorsed-drew-mckissick-in-bid-to-lead-south-carolina-gop.md",
-      "title": "Lin Wood Falls to Trump-Endorsed Drew McKissick in Bid to Lead South Carolina GOP",
-      "excerpt": "Pro-Trump lawyer Lin Wood's attempt to convince delegates to make him the next South Carolina Republican Party chairman fell through on Saturday, when incumbent Drew McKissick secured his reelection bid for a third two-year term,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850",
-      "originalUrl": "https://www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1798007/defamation-lawsuit-against-tesla-ceo-elon-musk.jpg",
-          "width": 3615,
-          "height": 2410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850?amp=1",
-      "publishedDateTime": "2021-05-15T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1351,6 +1308,58 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-15-a-colorado-man-accused-of-murdering-his-wife-told-fbi-agents-that-he-submitted-a-ballot-for-trump-in-her-name-because-the-other-guys-were-cheating.md",
+      "title": "A Colorado man accused of murdering his wife told FBI agents that he submitted a ballot for Trump in her name because the 'other guys' were cheating",
+      "excerpt": "Barry Morphew was charged with a felony count of forging public documents after telling investigators that he sent in a vote for his missing wife.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5",
+      "originalUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/609e9e50a807be0018d6227e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/colorado-man-tried-vote-for-trump-using-missing-wife-identity-2021-5?amp",
+      "publishedDateTime": "2021-05-14T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

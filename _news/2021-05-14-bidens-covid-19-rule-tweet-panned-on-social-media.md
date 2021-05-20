@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-covid-19-rule-tweet-panned-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-covid-19-rule-tweet-panned-on-social-media.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3f047c4-871f-4e61-a7da-a98906b45fa8/91073a72-3b67-41fb-ae4d-0ee06c5f7295/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden Signs COVID-19 Hate Crimes Act: \"Silence Is Complicity\""
+    excerpt: "President Biden is set to sign the COVID-19 Hate Crimes Act into law at 2:00 pm on Thursday. President Biden and Vice President Harris will deliver remarks from the East Room at the White House."
+    publishedDateTime: 2021-05-20T18:53:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/20/watch_live_biden_signs_covid-19_hate_crimes_act.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/20/watch_live_biden_signs_covid-19_hate_crimes_act.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/20/watch_live_biden_signs_covid-19_hate_crimes_act.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/543508.jpg"
+        width: 876
+        height: 656
         isCached: true
 
 secured: "bRvJZePgEFtYyXas/S/FXQvs/6AQAoO9/FfPLs3RjiJCwS/TaqiqwHDDiWzGmYHwokEt3VRgFrVEiB1ow2ESiNJiro9bjQjMCrj8zl+XB71OMusbAH1vbQfC/v7VdK3hRahKfbcXrtmJSTyhZ0pAMRN/GdKnmVNGjXgD6wqCIxK0SEOm3SjJ5ANFhZUi0Gxt2pYKZNPyU3jrMQAyAfgHRjtLw3P0nsQUViXd0AryM3uG8pi/LPbsTCwRVSyesDPmIRxUGdDlJCCQDevsChBQKRuku/jAgHuzCFP79bQtNovhT7iieOHi3c1cgntwSKn5cjI4dF6G5X6j+r1goIel35BkEWNRW1KncmUmWLOa/RE=;fyXuBdzL5AhvSNegqJvq+Q=="

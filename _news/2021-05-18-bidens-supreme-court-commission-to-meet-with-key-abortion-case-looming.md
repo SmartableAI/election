@@ -143,6 +143,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden Signs COVID-19 Hate Crimes Act: \"Silence Is Complicity\""
+    excerpt: "President Biden is set to sign the COVID-19 Hate Crimes Act into law at 2:00 pm on Thursday. President Biden and Vice President Harris will deliver remarks from the East Room at the White House."
+    publishedDateTime: 2021-05-20T18:53:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/20/watch_live_biden_signs_covid-19_hate_crimes_act.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/20/watch_live_biden_signs_covid-19_hate_crimes_act.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/20/watch_live_biden_signs_covid-19_hate_crimes_act.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/543508.jpg"
+        width: 876
+        height: 656
+        isCached: true
 
 secured: "gssM/NBFlQJFSidLCb3ns7W/adE8A2khnoZG48OmQQuuoMbONW7KMvebvU5vJ6iKCfQpMEj1sTb2r6bMeMASmJJqwkyaZ4mhh9blh2zylmUaNDDUYNwv1FgP44XwX1TNfc/892gS4yUA+rtJfdreSzrUfmLQNscRm7IOSSATtHTb5Xf81J0ImZINXT7hZGQQillZykMaNeLFWiASR6uVuji/4JVRqPBbXWxKd7a2i851s5sxuwHrrs3XkDRNSm6rln5QLXBJOxnE0MQLqRyr3C2qwCzlwj0dd3rcXOuIhWH5jFH8N1OI0z3bd1Hw5ZFrk1LMOuEs3/25wEJd/E52yCL5w2ewCXQOLhX2PXRh6AE=;F0P5Lz3tCefXarLK68LP7w=="
 ---

@@ -218,6 +218,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "CNN touts Kamala Harris as part of 'star-studded' graduation special featuring liberal celebrities"
+    excerpt: "Vice President Kamala Harris will keynote what CNN calls a “star-studded\" network special honoring the Class of 2021 featuring other liberal celebrities, the network announced on Wednesday."
+    publishedDateTime: 2021-05-20T17:51:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-touts-kamala-harris-star-studded-graduation-special-featuring-liberal-celebrities"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-touts-kamala-harris-star-studded-graduation-special-featuring-liberal-celebrities.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-touts-kamala-harris-star-studded-graduation-special-featuring-liberal-celebrities.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f472a982-3e78-4cf6-8ffd-5e458ff49499/3d19a006-1501-40a4-9bbc-9ca646c80a41/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris’ niece says those who are neutral on Israel-Gaza have ‘chosen the side of the oppressor’"
     excerpt: "Vice President Kamala Harris’ niece Meena offered a more forceful take on the Israel-Gaza unrest Wednesday than that of her aunt, urging people to fight “Palestinian oppression.”"
     publishedDateTime: 2021-05-14T00:41:00Z
@@ -277,6 +293,20 @@ related:
       - url: "https://assets.realclear.com/images/54/543462_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "VP Kamala Harris: \"In My Life, My Lived Experience, I Have Seen How Hate Can Pervade Our Communities\""
+    excerpt: "Vice President Harris spoke at a signing ceremony for an anti-hate crimes bill Thursday from the White House. \"Those here today are united. This bill brings us one step closer to stopping hate, not only for Asian-Americans,"
+    publishedDateTime: 2021-05-20T19:12:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/05/20/vp_kamala_harris_in_my_life_my_lived_experience_i_have_seen_how_hate_can_pervade_our_communities.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 50
+    images:
+      - url: "https://assets.realclear.com/images/54/543796.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "B6nnunJooQZmnYrxhC9Fp7ub0NEFAkqGgCFqp8W3bxhrjSWnD3QPot79vSnSj5rtp7oCwGt0TfwouJTaId0nu/Fpg4L3qKhG43yRZzQQTaI77E/C1Ed15nMjpEqxDbhLKt5JutrO4SDjEl9/hZgNpzOK9lE1or5TkVwwEN7ZbZneADUFPXWsTLblPrNwY37GLVKRjKl3g0WAkQ0R/TsGpBr5K0d2mAHUilEgJyuj3seK9N35DuG6GGJmh/VlgVlqJMlmfB6mNtAowb2Be4F6d6C/rzwRESda64Eo8rrY0SbTgCBRlUJJcj8+MmEH2miwP6eLSjc58yYXAs9WGDUkR4Dt1fa4xxz7SmCRGwW7UbPGNoJ0hqw+AuhULOHCLSczxKyNyLpIrxIZ5/2R283j7zKRJMXkZJRboc5uKh3XOAYW+cD9tXTyw31uAb1bGDaIwc2MqYyt8JupA5UwTVUZOIGV7ZPtphkvOHV1DF6lRLi/SJZblma+PXAfChV89lPKq7bwT9nyMJFKet67uJMjxg==;uLBtBEF3MIpyQ2xAWnYrkQ=="

@@ -88,6 +88,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 101
+  - title: "Does Joe Biden Think He’s Done Enough to Placate Progressives?"
+    excerpt: "Does Joe Biden have a deliberate strategy for dealing with his party’s progressives, or is he just winging it?"
+    publishedDateTime: 2021-05-20T13:37:00Z
+    webUrl: "https://www.nationalreview.com/corner/does-joe-biden-think-hes-done-enough-to-placate-progressives/"
+    ampWebUrl: "https://www.nationalreview.com/corner/does-joe-biden-think-hes-done-enough-to-placate-progressives/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/does-joe-biden-think-hes-done-enough-to-placate-progressives/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/dem-debate-charleston-26.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "SWEqhM5AFb+pklDIspNe7TvnITjyZ5LTlTusgSl6EyhDTGrv8xlOc+zyDs1y4rzl2xqHFKBi5JOZPFx1/CaPrW6QsGcV/YXX7PRCzX5GmDLwlcx/P3qp7apm7eT9M0/kJSYzwgeNaT8xvc7K4mDN4URxTWJ7yR5PSmXAtQyuUz9GjbQG1vHHBrz9NK4mBJ5tYUBmugApcmrJqxI6nuWtRkJTZpQAUpyzdaM1hDLXwfVdZwZeRXjMIu5pIJT3YaMKpPXOorPzlKpftlZEVaarVFyyLnfncr1YbFdT854bEZOkwWnT/DuCezY2VtSYRN89x3pwd7b4vVH5ZAiy40xbWkhIu9CEVG6dbH+dpu21IAM=;I5CFLsG7iOa6Drnu6+AeIg=="
 ---
