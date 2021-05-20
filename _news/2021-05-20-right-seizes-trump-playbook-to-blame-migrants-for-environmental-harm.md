@@ -1,22 +1,22 @@
 ---
 category: news
-title: "QAnon Shaman's Lawyer Gives Bold Response About Capitol Rioters And Donald Trump's Role"
-excerpt: "Trump may not be facing trial, but that hasn't stopped Capitol rioters from trying to make him part of their defense."
-publishedDateTime: 2021-05-18T22:08:00Z
-originalUrl: "https://www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112"
-webUrl: "https://www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112"
-ampWebUrl: "https://www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112?amp=1"
+title: "Right seizes Trump playbook to blame migrants for environmental harm"
+excerpt: "Arizona’s attorney general has filed a lawsuit framing the climate crisis as a nativist issue as the evident impacts of global heating make denial less viable"
+publishedDateTime: 2021-05-20T12:19:00Z
+originalUrl: "https://www.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
+webUrl: "https://www.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
+ampWebUrl: "https://amp.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
 type: article
-quality: 67
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/22/supporters-of-donald-trump-including-far-right-extremists.jpg"
-    width: 1024
-    height: 682
+  - url: "https://i.guim.co.uk/img/media/b289fcf53999c0954984c5be84fc6913d2c7a48b/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=554f7d094846e7ccadf088f01921c64e"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Right seizes Trump playbook to blame migrants for environmental harm"
-    excerpt: "Arizona’s attorney general has filed a lawsuit framing the climate crisis as a nativist issue as the evident impacts of global heating make denial less viable"
-    publishedDateTime: 2021-05-20T12:19:00Z
-    webUrl: "https://www.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/b289fcf53999c0954984c5be84fc6913d2c7a48b/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=554f7d094846e7ccadf088f01921c64e"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Families separated by Trump receive therapy, but funds could dry up soon"
     excerpt: "After Trump separated children from their families, they've gotten crucial therapy, paid for by the government. But the future of those services is up in the air."
     publishedDateTime: 2021-05-14T13:00:00Z
@@ -143,6 +127,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "QAnon Shaman's Lawyer Gives Bold Response About Capitol Rioters And Donald Trump's Role"
+    excerpt: "Trump may not be facing trial, but that hasn't stopped Capitol rioters from trying to make him part of their defense."
+    publishedDateTime: 2021-05-18T22:08:00Z
+    webUrl: "https://www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112"
+    ampWebUrl: "https://www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/qanon-shamans-lawyer-gives-bold-response-about-capitol-rioters-donald-trumps-role-3202112?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/22/supporters-of-donald-trump-including-far-right-extremists.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Explainer: Citizen Trump Faces Mounting Legal Woes"
     excerpt: "Donald Trump's legal woes escalated this week, as New York Attorney General Letitia James announced that a civil probe into the former president's family business had become criminal in nature. Here is a list of some of the investigations and lawsuits haunting Trump's post-presidency life."
     publishedDateTime: 2021-05-19T15:30:00Z
@@ -153,6 +153,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "1zUpxtrdmkpcyP+3/Cy1izPfVhjvyw4dLf7AdJ6hJ7Hcm+ZcAnWot2/h05T9i5ViYAEVXtPWdas0IVfEtr1Tft0i44a2pwbtvS022mDBfbja7ALhiRViL32EWoA2hiKj/EsQtuBFsyxyKgYsd258eQ3l/eraHCpAO1kKc3QUnFu5eCNjofo1WwgpZIhtj0z0j6oUFKOqXWh6dMQkC2W8+PLpt8SK4xLeKaW/W6t6nC/7ImrYmBxDaBMi6VCpjFnj5R8FtyGy2rK6hxn7Qot/fbARm5pYn3RVUU9VqRaEbp9E9hRUaq1vA5IAKZ6aOB1LjZcwETaiZGD4+y+Qhp9l+LZukj3I9waQZugek21TgHU=;Eru9Qm1JR+FSd+nGfJVqcg=="
+secured: "d3xf814bcvU0xJGlxTReBSisZZDi0GTQFgeBBKkgeByJ5C5yvb/uuW05clKWsfWvAaTZARPfXvmiQ4LmqaWSGP7Yd4Kzkz8rem9UMLCW1gy0MHnJfiU1SVmB88UL6EYKlZ4VNK31cQyecLAL+WAf6SUdiFHbG4C3/I5gY822HHqj8ChhWUORD/RQ2cvhnZOB4nJmgRtLmf+lewvRvzrKm2OAspdCCt2qhdFYUwJEhv9LwTf0BIGRzo7V2KS1G79P4Ia7S035shW2LHO79A4F5wx03hedl1yw2s4OfWDp3tKgf9fdOp5q+ACKzN/bxXKXrwWgoM7KI6DpIsmlQ+LHXz0sp/4H1wEz4kMnmSGXt5w=;Vy+LJAgRO5d163/ut7s6BQ=="
 ---
 

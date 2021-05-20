@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Right seizes Trump playbook to blame migrants for environmental harm"
+    excerpt: "Arizona’s attorney general has filed a lawsuit framing the climate crisis as a nativist issue as the evident impacts of global heating make denial less viable"
+    publishedDateTime: 2021-05-20T12:19:00Z
+    webUrl: "https://www.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/may/20/environment-migrants-population-us-right-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/b289fcf53999c0954984c5be84fc6913d2c7a48b/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=554f7d094846e7ccadf088f01921c64e"
+        width: 600
+        height: 360
+        isCached: true
   - title: "What we know about investigations looming over Donald Trump, his company"
     excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
     publishedDateTime: 2021-05-19T20:08:00Z

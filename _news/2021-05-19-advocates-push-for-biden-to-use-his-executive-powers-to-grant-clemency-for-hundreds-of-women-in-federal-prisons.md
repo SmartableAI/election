@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden signs cybersecurity executive order, though rules wouldn't have applied to Colonial Pipeline"
-    excerpt: "President Joe Biden signed an executive order Wednesday meant to better protect the nation from cyberattacks, but even as he signed it, the White House acknowledged more will need to be done to prevent the type of hack that affected the Colonial Pipeline.\n    \n"
-    publishedDateTime: 2021-05-12T22:51:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/12gzgGnLCC0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/cybersecurity-executive-order/index.html"
+  - title: "Senators call on Biden administration to demand Saudi end blockade tactics on a starving Yemen "
+    excerpt: "A group of Democratic senators are calling on President Joe Biden to take \"immediate and decisive action\" to end Saudi Arabia's \"blockade tactics\" in Yemen that have prevented food, medicine and other crucial supplies from reaching desperate and starving people there.\n    \n"
+    publishedDateTime: 2021-05-20T13:00:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QS9U_bUNWM8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/yemen-letter-biden-saudis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/yemen-letter-biden-saudis/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 161
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512155902-04-pipeline-hack-fallout-0512-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210416131252-06-cnn-yemen-saif-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

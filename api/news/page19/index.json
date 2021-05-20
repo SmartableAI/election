@@ -2,6 +2,62 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-04-12-chris-christie-turns-into-biden-attack-dog-in-early-days-of-administration.md",
+      "title": "Chris Christie turns into Biden attack dog in early days of administration",
+      "excerpt": "Chris Christie appears to be turning up the volume in his criticism of President Biden. For the second straight weekend, the former two-term GOP governor of New Jersey and 2016 Republican presidential candidate turned political analyst and pundit on the Sunday talk shows has accused the president of",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v7ogpEPwHUQ/chris-christie-attack-dog-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v7ogpEPwHUQ/chris-christie-attack-dog-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/chris-christie-attack-dog-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-attack-dog-biden.amp",
+      "publishedDateTime": "2021-04-12T10:34:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-55-progressive-groups-urge-biden-to-go-big-on-family-friendly-care-infrastructure.md",
       "title": "55 progressive groups urge Biden to go big on 'family-friendly care infrastructure'",
       "excerpt": "An envelope. It indicates the ability to send an email. The first $2.3 trillion part of the infrastructure package President Joe Biden unveiled on March 31 included some elements related to care-economy measures, like investments in home care. But ...",
@@ -1288,58 +1344,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-truth-will-prevail-matt-gaetz-takes-break-from-scandal-to-speak-at-trump-club.md",
-      "title": "‘Truth will prevail’: Matt Gaetz takes break from scandal to speak at Trump club",
-      "excerpt": "Women for America First helped stage a rally near the White House on 6 January where Donald Trump told supporters to fight to overturn his election defeat. A crowd attacked and breached the US Capitol. Five people died, including a police officer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/da0361692602303bd56482725aff0035c926bd36/0_88_5166_3100/master/5166.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6086a62db396c12b20bdfa14f23aabbf",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/10/matt-gaetz-scandal-trump-club-women-for-america-first",
-      "publishedDateTime": "2021-04-10T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
