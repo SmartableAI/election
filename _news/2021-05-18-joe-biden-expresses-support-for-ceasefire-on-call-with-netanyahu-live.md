@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden expresses support for ceasefire on call with Netanyahu – live"
 excerpt: "White House reported the US president urged Israel ‘to make every effort to ensure the protection of innocent civilians’"
-publishedDateTime: 2021-05-17T22:02:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live?page=with:block-60a2e9aa8f08e757a7357e4d"
-webUrl: "https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live?page=with:block-60a2e9aa8f08e757a7357e4d"
+publishedDateTime: 2021-05-17T21:30:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live?page=with:block-60a2d9548f08e659a47e8420"
+webUrl: "https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live?page=with:block-60a2d9548f08e659a47e8420"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live"
 type: article
@@ -126,6 +126,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "gtoCLNxJBZGV2uitgUgsXGKHTnOGARnCJzpCCfgbB4ziK87GCumZWNOhsdkV0+2B7w8CzEzOeyjteL06q5U+twumHSz+z5sY6b+53CBGGyJaBXq7hO76UU02DHuqw6VA9+1rQUEw0ytgrIu9DzENyMPaB0NFrdV8P3X54h21e1reY4D2CFrEDQ6cUZvEYeV7/ga3YT7lErNxWuEPExhZKxEbY8vzEg3IXXFIZ0T7fV8vfl9E0nMlSfLUnikqClyxMsFQ6wnJpoD2hlMr6fUNticuYDISbU0EfwRgu8DbPaGeYq1Q/GkDVZQibzfl+SKkAHsrqsG5Z5aNWVDc5NaW0bEARk9W/c0q1YlpNjocVng=;W5Z5jq+Kt+WbAv/L2GYkDw=="
+secured: "uMCmjPhqV+JLcpXYgIoc9jIyRwpr8JD2C/3ne1vEOi0+QtvCrpiwzHej/wrNm/74rjlOdUSCXbzzsoHG7/hXZd4jcOPV7z6wMjiThEPEAHHP/Hi97sdQTp+d7/wYWYQ3fgT+Fhlzq4RaE32ecInm1Upex7X2n/TC4kYw2leGhKIevGYy+uBDqhYbj7WdKc/1ppky+Uk2RuEVGPOpiQK4oyt7D0ue/diQ7G1S5zhXUmlYK9HlMljNO/VnCKIRQ1a9nSoKGqDZu2ghE0kA7BxxBct+tikdfKKy1P+HeHSLt0QcE29SfJ7FN6b+i/NJy/YnGzQiUONkpybu8vj4SmfxFRYnzFleXX2W/29CfKDQos4=;n5nYfjd3W6+I9b0BPAJ/Hg=="
 ---
 

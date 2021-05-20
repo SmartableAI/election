@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden holds car rally in Georgia to mark 100 days in office"
-excerpt: "President Biden spoke at a drive-in rally in Georgia on Thursday evening to mark his 100th day in office. The rally comes the day after the president outlined his ambitious legislative agenda in his first address before a joint session of Congress."
-publishedDateTime: 2021-04-29T23:41:00Z
-originalUrl: "https://www.cbsnews.com/news/biden-speech-georgia-100-days-live-stream-today-2021-04-29/"
-webUrl: "https://www.cbsnews.com/news/biden-speech-georgia-100-days-live-stream-today-2021-04-29/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/biden-speech-georgia-100-days-live-stream-today-2021-04-29/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-speech-georgia-100-days-live-stream-today-2021-04-29/"
+title: "10 Things in Politics: Israel defies Biden's plea"
+excerpt: "And 35 Republicans broke with party leaders to support a January 6 commission."
+publishedDateTime: 2021-05-20T09:38:00Z
+originalUrl: "https://www.businessinsider.com/10-things-in-politics-israel-biden-netanyahu-hamas"
+webUrl: "https://www.businessinsider.com/10-things-in-politics-israel-biden-netanyahu-hamas"
+ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-israel-biden-netanyahu-hamas?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-israel-biden-netanyahu-hamas?amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/29/e77dfacb-1c2e-411a-8a81-ed9aacdb4e54/thumbnail/1200x630/a470eebbe7ee0d7d920f5c6092255a08/gettyimages-1232598415.jpg"
-    width: 1200
-    height: 630
+  - url: "https://i.insider.com/609e47d967e41a0018622083?width=750&format=jpeg&auto=webp"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.insider.com/608af05135c46f0018c0b494?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden holds car rally in Georgia to mark 100 days in office"
+    excerpt: "President Biden spoke at a drive-in rally in Georgia on Thursday evening to mark his 100th day in office. The rally comes the day after the president outlined his ambitious legislative agenda in his first address before a joint session of Congress."
+    publishedDateTime: 2021-04-29T23:41:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-speech-georgia-100-days-live-stream-today-2021-04-29/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-speech-georgia-100-days-live-stream-today-2021-04-29/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-speech-georgia-100-days-live-stream-today-2021-04-29/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/04/29/e77dfacb-1c2e-411a-8a81-ed9aacdb4e54/thumbnail/1200x630/a470eebbe7ee0d7d920f5c6092255a08/gettyimages-1232598415.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "'Amtrak Joe' Biden pushes infrastructure in Philadelphia"
     excerpt: "President Joe Biden visited an Amtrak train station on Friday to promote his $1.9 trillion infrastructure proposal, saying the United States is \"way behind\" in improving its transportation grid and needs to do so to keep up with China."
@@ -158,22 +174,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_0bdebb6defa34edab106f6a66b36c6bb_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "10 Things in Politics: Israel defies Biden's plea"
-    excerpt: "And 35 Republicans broke with party leaders to support a January 6 commission."
-    publishedDateTime: 2021-05-20T09:38:00Z
-    webUrl: "https://www.businessinsider.com/10-things-in-politics-israel-biden-netanyahu-hamas"
-    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-israel-biden-netanyahu-hamas?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-israel-biden-netanyahu-hamas?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/609e47d967e41a0018622083?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 500
         isCached: true
   - title: "GOP senators unveil $568 billion counteroffer to Biden's infrastructure plan"
     excerpt: "Republican senators unveiled their counteroffer to President Biden's infrastructure proposal on Thursday, presenting a $568 billion framework that is significantly smaller than the president's $2 trillion plan."
@@ -386,6 +386,6 @@ related:
         height: 630
         isCached: true
 
-secured: "jG86maYUdcxCwLxFJdHvvkSbQ93IooIl30M70zny90o6iaF6p6RKoAgYp02Yw1l2O0Mi6ERpY9IOI0KzIS+MYDBlrTuzplte3UmpfGXwfv1n7vvT655X1YNr9OXlE8YkuomMInFajgz4G8j5DkAmDEOGrcXGu0UjiRsDFTDzO1YsUN0x0AkMc9thbSXbrLNnZy9E0pkHHjyE8cHyhp5Cs8C5X7Ttb4m5PDQl3S7dndYbGFimoTe7nO3VSYP+bQTfnVlvoCQy8VWbAlAnfAApn/3FzxhPjXSoy2Z5zShxwiwJ/2joT6QXc/sMkWBK1TYcu5Jp3ACPkGCqa0tcQHFqfmnBYAfv80NjXsPIVPMb0yI=;tfGK/xCtAmSuG1Xzj1ZD6g=="
+secured: "qKMTrbLisa5SYobJ+MwFDIFWNGOyyQ+eCepT7cIomkvQ9QwVO77oHTg2nBtBjTWRN+xvR/Ibg7vu+WSUx2GhUSmCMW+TPhzJ6mx+RCOXFHNmhpIZmfsqXzi2Z77WgNktddM/FQE9eARHRfnPufmVIXPeFww4rkOJ1jLoBLR0AVhOM1xNJIb9qVyAasYASoPRkYUG80nktzemtfEWj19RlTt3abO4RK1vRwVDqCYsDLVHp3jIoa7tTr9IiW+5XRyIWjtKUvfD8Kc4a5UpXs7Dmftl/CeF+/z9aWay3YPaOFqEz9kBMCWWA6uzquexhqNdqRihUpZxFOKiEKzTrPUMul8iuB2wYO+jd3tCGRmBqoA=;WMjhDqNcfFncSplQyJS9ag=="
 ---
 

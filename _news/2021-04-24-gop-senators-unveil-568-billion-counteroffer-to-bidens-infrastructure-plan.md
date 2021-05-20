@@ -175,6 +175,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "10 Things in Politics: Israel defies Biden's plea"
+    excerpt: "And 35 Republicans broke with party leaders to support a January 6 commission."
+    publishedDateTime: 2021-05-20T09:38:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-israel-biden-netanyahu-hamas"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-israel-biden-netanyahu-hamas?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-israel-biden-netanyahu-hamas?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/609e47d967e41a0018622083?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Joe Biden: ‘I don’t think the American people are racist’ – US politics live"
     excerpt: "President in new interview agrees with Republican senator Tim Scott’s comments to Congress – follow all the day’s politics news"
     publishedDateTime: 2021-04-30T12:21:00Z

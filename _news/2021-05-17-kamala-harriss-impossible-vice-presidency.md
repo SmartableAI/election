@@ -1,20 +1,18 @@
 ---
 category: news
-title: "VP Kamala Harris cheers Ella Emhoff on her college graduation"
-excerpt: "I am so proud of you,” the veep posted over a snap of her with her stepdaughter. “Keep dreaming with ambition and there is nothing you cannot achieve.”"
-publishedDateTime: 2021-05-15T23:55:00Z
-originalUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/"
-webUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/"
-ampWebUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
+title: "Kamala Harris's Impossible Vice Presidency"
+excerpt: "RealClearPolitics"
+publishedDateTime: 2021-05-17T11:39:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/05/17/kamala_harriss_impossible_vice_presidency_542966.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/05/17/kamala_harriss_impossible_vice_presidency_542966.html#!"
 type: article
-quality: 135
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
@@ -22,9 +20,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-ella-1.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://assets.realclear.com/images/54/543462_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -103,6 +101,22 @@ related:
     quality: 150
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/maryland-billboard-98.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "VP Kamala Harris cheers Ella Emhoff on her college graduation"
+    excerpt: "I am so proud of you,” the veep posted over a snap of her with her stepdaughter. “Keep dreaming with ambition and there is nothing you cannot achieve.”"
+    publishedDateTime: 2021-05-15T23:55:00Z
+    webUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/"
+    ampWebUrl: "https://nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/15/vp-kamala-harris-cheers-ella-emhoff-on-her-college-graduation/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-ella-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -248,21 +262,7 @@ related:
         width: 1038
         height: 778
         isCached: true
-  - title: "Kamala Harris's Impossible Vice Presidency"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-05-17T11:39:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/05/17/kamala_harriss_impossible_vice_presidency_542966.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/543462_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
-secured: "c2NG3gSVU2/haYmxESI8NxAUJXWsAwGHp4dyxBvOVAdnqGuEs5qfLP5CvCLLUFz6SycBOrKsiOVujG7cwhcP+ijyzuSpkglHatS96SCu0+d8tndNRfjyzV1bO07oqeyiA6QuahokbITzsO/M5JKERh8TLVUlS6Si1LSX7B/DNHqlB6xbNTdeeLOJAEEQIih/IhhxQDRll3tHDjkODDzWM+samMi+JqtBg+P/LNDHVDhmxoKzhCBeOw1A9/caJ3KFjuXXrXt8vubVdtkcrZ83LZTJIgx6PidXN8c5NFl80+QMvKFCsCZhP3Uk6kz0LHKNLlXntGK05L/C7RxPIeIIbQ8EAF77u9YmeUSCudZnCA0=;lQYDfCXehwhvxz+bJrcjmA=="
+secured: "9ruGk7EyZU4Ab6OnyO4qKRyUp3dMgL5JIgZoQzdUhlrWmQGhjr30Ugx4ppSDJeUumglp8z8fzZaTO0/XwClWuE+Ub6UJMvYmn11etOva6MHdo7BpEXl9rCJcDO1cv6d/clo3XPimKVouxmIEi4KCGAbD5XNAwPtAKQd0vOqiAAZRAQb9xdxLFUbhi87FEiySHUXaGoCpBDJtYk6fujV1ExT0nqG3/C6iUgiuj+qSgELVZynnPNXqjRukgQmbF47y6+h/fe07N/SASTzaiYHGG7oZ6DWCaC9lH5/lSPAWlvL/jmSqXgRyRSXyq3Lkq7ULrC0D0ho1iYUZotMVeoT/FBYpLLaYsUGdRFFdwRdSn+E=;HnIF/pHRghL2nGOgzESXqg=="
 ---
 

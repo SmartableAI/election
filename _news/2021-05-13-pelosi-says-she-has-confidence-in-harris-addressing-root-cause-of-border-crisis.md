@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-harris-root-cause-border-cri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-harris-root-cause-border-crisis.amp"
 type: article
 quality: 181
-heat: 461
+heat: 481
 published: true
 
 provider:
@@ -251,6 +251,20 @@ related:
       - url: "https://assets.realclear.com/images/54/543529.jpg"
         width: 1038
         height: 778
+        isCached: true
+  - title: "Kamala Harris's Impossible Vice Presidency"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-05-17T11:39:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/05/17/kamala_harriss_impossible_vice_presidency_542966.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/543462_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "V2p3E8zrSZ7gqBqT/70mr2Shzs7J3UxHEfRQCsN1L8xcvHhmm7eyaBjRASalpg9tlcWu7vK0v4cXX2itkVVWirnbEew6bpU3TUNyzPMv1U1UrQI9lp11PCV/6+l8k8flTHVqxK//DnGtBO7aJ1eCZWiRhxpVeKnKR1170YwUxlzkJlgO36rsSJoxMTYU64jWVLLy7OFW8dbJqQokuyPM/L9vsMjcuEUoadN/RzMigW/Q6l65GGBwvtX4LUc5ijjXThyv1bE6hW080Oz048ZDIDt4ZIY1ZPw3sgv++0V14XBuMvXWec6FOSHb9cKHF4gR7D1b7RlN47uZXMsgj0Mm9MvXArBvYaYBxoAo1YE1p3w=;zvu/MPLillCkGylH8lSltA=="
