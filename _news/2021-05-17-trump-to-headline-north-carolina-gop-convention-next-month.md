@@ -108,6 +108,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump, GOP leaders join forces to sink Jan. 6 commission"
+    excerpt: "Whatever the merits of a commission to be run by outside appointees, Republican leaders viewed it as a dagger aimed at former President Donald Trump."
+    publishedDateTime: 2021-05-20T06:48:00Z
+    webUrl: "https://www.foxnews.com/media/trump-gop-leaders-join-forces-to-sink-jan-6-commission"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/trump223.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Bet On It. Trump Is Running."
     excerpt: "President Donald Trump wants to run for president in 2024, and so he shall. The story some Republicans like to tell themselves -- that Trump will not run again for the White House because he knows he can't win and he's smart enough to see the glory in being a GOP kingmaker -- is wishful thinking."
     publishedDateTime: 2021-05-16T10:18:00Z

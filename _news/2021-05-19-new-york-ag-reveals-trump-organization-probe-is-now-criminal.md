@@ -44,6 +44,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "New York Attorney General Bolsters Manhattan Prosecutors’ Trump Investigation"
+    excerpt: "The attorney general’s investigation has been probing alleged financial misconduct similar to that being looked at by the Manhattan district attorney’s office."
+    publishedDateTime: 2021-05-20T00:54:00Z
+    webUrl: "https://www.wsj.com/articles/new-york-attorney-general-bolsters-manhattan-prosecutors-trump-investigation-11621459366"
+    ampWebUrl: "https://www.wsj.com/amp/articles/new-york-attorney-general-bolsters-manhattan-prosecutors-trump-investigation-11621459366"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-attorney-general-bolsters-manhattan-prosecutors-trump-investigation-11621459366"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 132
+    images:
+      - url: "https://images.wsj.net/im-341035/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump Administration Officials Defend Security Response to Jan. 6 Capitol Riot"
     excerpt: "Former acting defense secretary tells congressional panel that the military’s response was proper when the pro-Trump mob sought to prevent Congress from certifying President Biden’s election."
     publishedDateTime: 2021-05-12T17:34:00Z

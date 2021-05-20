@@ -1,26 +1,34 @@
 ---
 category: news
-title: "NY Attorney General Investigating Trump Organization In 'Criminal Capacity'"
-excerpt: "The Trump Organization is being investigated in a \"criminal capacity\" by the New York state attorney general's office, a spokesman said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."
-publishedDateTime: 2021-05-19T03:44:00Z
-originalUrl: "https://www.ibtimes.com/ny-attorney-general-investigating-trump-organization-criminal-capacity-3202406"
-webUrl: "https://www.ibtimes.com/ny-attorney-general-investigating-trump-organization-criminal-capacity-3202406"
+title: "Michael Cohen said he believes Trump will 'flip on all of them,' including his children, in the New York investigation into his company"
+excerpt: "Cohen, Trump's former lawyer and fixer who is cooperating with prosecutors, said: \"I really believe that Donald Trump cares for only himself.\""
+publishedDateTime: 2021-05-20T06:40:00Z
+originalUrl: "https://www.businessinsider.com/michael-cohen-trump-will-flip-on-during-criminal-investigation-2021-5"
+webUrl: "https://www.businessinsider.com/michael-cohen-trump-will-flip-on-during-criminal-investigation-2021-5"
+ampWebUrl: "https://www.businessinsider.com/michael-cohen-trump-will-flip-on-during-criminal-investigation-2021-5?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-cohen-trump-will-flip-on-during-criminal-investigation-2021-5?amp"
 type: article
-quality: 33
+quality: 93
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://i.insider.com/60a5e132f27b4c001944582e?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "New York Attorney General \"investigating the Trump Organization in a criminal capacity\""
@@ -55,22 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Michael Cohen said he believes Trump will 'flip on all of them,' including his children, in the New York investigation into his company"
-    excerpt: "Cohen, Trump's former lawyer and fixer who is cooperating with prosecutors, said: \"I really believe that Donald Trump cares for only himself.\""
-    publishedDateTime: 2021-05-20T06:40:00Z
-    webUrl: "https://www.businessinsider.com/michael-cohen-trump-will-flip-on-during-criminal-investigation-2021-5"
-    ampWebUrl: "https://www.businessinsider.com/michael-cohen-trump-will-flip-on-during-criminal-investigation-2021-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-cohen-trump-will-flip-on-during-criminal-investigation-2021-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
-    images:
-      - url: "https://i.insider.com/60a5e132f27b4c001944582e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump Organization Faces Criminal Probe In New York State"
     excerpt: "The Trump Organization is being investigated in a \"criminal capacity\", the New York state attorney general's office said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."
     publishedDateTime: 2021-05-19T10:35:00Z
@@ -94,6 +86,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "NY Attorney General Investigating Trump Organization In 'Criminal Capacity'"
+    excerpt: "The Trump Organization is being investigated in a \"criminal capacity\" by the New York state attorney general's office, a spokesman said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."
+    publishedDateTime: 2021-05-19T03:44:00Z
+    webUrl: "https://www.ibtimes.com/ny-attorney-general-investigating-trump-organization-criminal-capacity-3202406"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 33
   - title: "New York State Probe of Trump Organization Is Now Criminal -Attorney General"
     excerpt: "The New York attorney general's office said on Tuesday it has now opened a criminal investigation into former President Donald Trump's company, going beyond what began as a civil probe. Attorney General Letitia James has been investigating whether the Trump Organization falsely reported property values to secure loans and obtain economic and tax benefits."
     publishedDateTime: 2021-05-19T03:27:00Z
@@ -104,6 +105,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "IFBO59m6cL0HOQYWva6zISlhHHu2q64wjoC/zk50/z/mtlBCvbe9rvd2siJBN1J2Kpa7F2Ka5goj/ZjSjNXyhUvIRdc9PSCyctUdDRiwGSvgG7sqREFDOBQstP33OD1OkPanZv17lZMEOYh3wWJYkPc38DPXq6AWPcSzfW04sTj41MLJXKzVNPn5U7dMfM5GjFtmuHam+Csqxb3ro3hD++DJF3mBsUUUKVeoJzUWsaGknKcAtex/8x99hTtnvnJvyhUQyrozhapGKz+ZwO4SMX/laH1gHYCbgiG+UfDl0BXbBwPaqwEvLWUZmyIeLfMBNDb9j/3KxPs1x2Hguf99qDATpGJIwo4MVUf8oRnadNufK6jb5QQhDvh/c50coGKIO6GxS6oVRp8CFhXnuQa6tu2+h7Li5dTlOOFZNg4wUg/67Ki7lGtOe2kNq0ZruaSl2X5WhsLTp4oyIdOIM0X8sVcg+S2lQ3n0FFZHodwSm52WmBa8T/bTgaiNt9edJV+x+5q9v3CwyylJeaemJkw5Qw==;CgoW6F6YS8bcFw8mygFsKQ=="
+secured: "bspIcab2YhSMrjJTox9u4eQF54hCjoZcuTx4uv9wDmK+DKAoviD7Ont2LPobuWGFRGsqboC0TaflRGsuPgtSZrUo/Mk/Yz/Bt7Y+iJfXl38TSsbKVTbpcbw3YAg1PWwv3/3D9u9q84WZYiUufV2mU2qCArx5PMXmoxAkm9qqtakaDBDemzfOW7Vu5UbcguwwrgHAxA9xDL9uWwYVUslpVeg3uaamO6ri3c4wEvvB0GAlEBvp1pR8nCb1wa4b+Qvus2ZfFeaxsLLZO+UbJW2bvFDFDZT871WRZuDOiXl1HpE84/Q2g/7J77hgqWnxorWcIXkX5EW5Gfh7tUPCONVXurJdaZwIxFtfIwlmsZy+l0g=;DqSHxwOuPV3EsHTDaR/tlg=="
 ---
 

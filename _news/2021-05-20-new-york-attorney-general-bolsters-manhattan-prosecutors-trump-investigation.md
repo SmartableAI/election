@@ -1,14 +1,14 @@
 ---
 category: news
-title: "New York Attorney General Probe of Trump Organization Now a Criminal Investigation"
-excerpt: "The investigation is no longer “purely civil in nature,” state officials tell the former president’s firm."
-publishedDateTime: 2021-05-19T03:29:00Z
-originalUrl: "https://www.wsj.com/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
-webUrl: "https://www.wsj.com/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
-ampWebUrl: "https://www.wsj.com/amp/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+title: "New York Attorney General Bolsters Manhattan Prosecutors’ Trump Investigation"
+excerpt: "The attorney general’s investigation has been probing alleged financial misconduct similar to that being looked at by the Manhattan district attorney’s office."
+publishedDateTime: 2021-05-20T00:54:00Z
+originalUrl: "https://www.wsj.com/articles/new-york-attorney-general-bolsters-manhattan-prosecutors-trump-investigation-11621459366"
+webUrl: "https://www.wsj.com/articles/new-york-attorney-general-bolsters-manhattan-prosecutors-trump-investigation-11621459366"
+ampWebUrl: "https://www.wsj.com/amp/articles/new-york-attorney-general-bolsters-manhattan-prosecutors-trump-investigation-11621459366"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-attorney-general-bolsters-manhattan-prosecutors-trump-investigation-11621459366"
 type: article
-quality: 129
+quality: 132
 heat: -1
 published: false
 
@@ -26,7 +26,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-340537/social"
+  - url: "https://images.wsj.net/im-341035/social"
     width: 1280
     height: 640
     isCached: true
@@ -64,22 +64,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "New York Attorney General Bolsters Manhattan Prosecutors’ Trump Investigation"
-    excerpt: "The attorney general’s investigation has been probing alleged financial misconduct similar to that being looked at by the Manhattan district attorney’s office."
-    publishedDateTime: 2021-05-20T00:54:00Z
-    webUrl: "https://www.wsj.com/articles/new-york-attorney-general-bolsters-manhattan-prosecutors-trump-investigation-11621459366"
-    ampWebUrl: "https://www.wsj.com/amp/articles/new-york-attorney-general-bolsters-manhattan-prosecutors-trump-investigation-11621459366"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-attorney-general-bolsters-manhattan-prosecutors-trump-investigation-11621459366"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 132
-    images:
-      - url: "https://images.wsj.net/im-341035/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Trump Administration Officials Defend Security Response to Jan. 6 Capitol Riot"
     excerpt: "Former acting defense secretary tells congressional panel that the military’s response was proper when the pro-Trump mob sought to prevent Congress from certifying President Biden’s election."
     publishedDateTime: 2021-05-12T17:34:00Z
@@ -95,6 +79,22 @@ related:
       - url: "https://images.wsj.net/im-337338?width=620&size=1.5"
         width: 620
         height: 413
+        isCached: true
+  - title: "New York Attorney General Probe of Trump Organization Now a Criminal Investigation"
+    excerpt: "The investigation is no longer “purely civil in nature,” state officials tell the former president’s firm."
+    publishedDateTime: 2021-05-19T03:29:00Z
+    webUrl: "https://www.wsj.com/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    ampWebUrl: "https://www.wsj.com/amp/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 129
+    images:
+      - url: "https://images.wsj.net/im-340537/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump: Vance, James trying to ‘cancel’ voters with criminal probe into organization"
     excerpt: "Former President Donald Trump blasted New York Attorney General Letitia James and Manhattan District Attorney Cy​rus​ Vance Jr. for their joint criminal investigation into his organization."
@@ -113,6 +113,6 @@ related:
         height: 800
         isCached: true
 
-secured: "KwuoOL6O8iDRMz5NmJ3E1x+p4qtcjy55eCBHVhdgE8OKss/C1IQJzAETniq9qE3Wna0WIQr50aUPKl8gAefWW+FB1wLOhKhwr9sYyAo6HyhXB7c6uDZeT9EsvNMJdF2RQf0c/t/2YDjds5SqnyX/agKy2P6dLM3vS3Uh8ej3z/jKrzKJzeIjrhVBJ7Sb4gBUDbrMOFY5SiDztOvPcvedLMqvJZ4N0EKun5WF6Z1aMDJdQ2NsaoFruAuXSNJ2kjibuMsbQlHLVrk2Q4+WFOraV6kxQY6ZCEhNpbGVq28pfUd9i6DRZWGOyguCjyInthn5yDvnKWongS94WVu2I2PPASTpMsdiaZ2eLOvQPYWG11CSkMf9vmBPUmju01BTMEBwkFFyErkx+kSnB+GVBktCwQgxO8i1s9r0xaj9mPGk1kZkcJBJavKEarL5xwZrfxVbys+2SZj4WsW9Hy2E2YBTOWPt++H3WDTDjD2KruEFUaUdh5qeoHakhs8cBhHLGKFgRS6bij47YG85Fh7Pzuaq2Q==;FzlNKZ4HduURSCj8UJ/CzQ=="
+secured: "NCUog3Hu/CqyyIWe54kJI5N1lo0hzD9yGieJqIPzBY+KUOxOL2a1vh4qhi2sY73UPS9VxWC7RstxIU4XnSnJL+CjQ5sCRyNWz4OoxLOC3isMyYmmpugz5wlr6mDnKGp5C2HI1Ll5Ek7I/ai344Y9ISClRjqmTXrIUXNsO4WQgylX7FwUfUOo4V5Mlm4iQ4YChw68aotro55elRLXErz1uEUMPLgUJoK+5QG++EjsH0IBcpG2ha540rVvp6z7FLAl7j0mPoQv0KTzVwHZqdZY3T/a4aSm9eRsvic19+1J7vDre3eZGlNGsB4CcJYJY0H/OijG+4VMLw996n+0QVNhq5LlWvlonUGYIpjaYcc1dew=;Qw/bTXPE8XMIZnqtSeifYw=="
 ---
 

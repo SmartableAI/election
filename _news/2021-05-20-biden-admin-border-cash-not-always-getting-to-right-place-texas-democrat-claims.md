@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden meets with congressional leaders, jokes he'll 'snap my fingers' to reach compromise: 'It'll happen'"
-excerpt: "President Biden on Wednesday, meeting with congressional leaders at the White House, said he believes he can reach \"some consensus on a compromise\" with Republicans and Democrats, joking that he’ll \"just snap my fingers\" for it to happen."
-publishedDateTime: 2021-05-12T16:25:24Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bkPGPeT3bzE/biden-congressional-leaders-white-house-meeting-compromise"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bkPGPeT3bzE/biden-congressional-leaders-white-house-meeting-compromise"
-ampWebUrl: "https://www.foxnews.com/politics/biden-congressional-leaders-white-house-meeting-compromise.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-congressional-leaders-white-house-meeting-compromise.amp"
+title: "Biden admin border cash not always getting to right place, Texas Democrat claims"
+excerpt: "A South Texas Democrat expressed frustration Wednesday, claiming not all Biden administration allocations to communities along the U.S.-Mexico border get to where the cash is intended to go."
+publishedDateTime: 2021-05-20T06:10:54Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ec6fxC8A3I8/biden-admin-border-cash-not-always-getting-to-right-place-texas-democrat-claims"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ec6fxC8A3I8/biden-admin-border-cash-not-always-getting-to-right-place-texas-democrat-claims"
+ampWebUrl: "https://www.foxnews.com/politics/biden-admin-border-cash-not-always-getting-to-right-place-texas-democrat-claims.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-border-cash-not-always-getting-to-right-place-texas-democrat-claims.amp"
 type: article
-quality: 158
+quality: 170
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/34bbb2d9-b3c5-431e-a184-e3fd950d745e/796d553d-e935-4b22-98cb-fb635a33940d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden admin border cash not always getting to right place, Texas Democrat claims"
-    excerpt: "A South Texas Democrat expressed frustration Wednesday, claiming not all Biden administration allocations to communities along the U.S.-Mexico border get to where the cash is intended to go."
-    publishedDateTime: 2021-05-20T06:10:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ec6fxC8A3I8/biden-admin-border-cash-not-always-getting-to-right-place-texas-democrat-claims"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-border-cash-not-always-getting-to-right-place-texas-democrat-claims.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-border-cash-not-always-getting-to-right-place-texas-democrat-claims.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/34bbb2d9-b3c5-431e-a184-e3fd950d745e/796d553d-e935-4b22-98cb-fb635a33940d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Pelosi, Biden praise moms on Mother's Day amid progressive talk of 'birthing people'"
     excerpt: "House Speaker Nancy Pelosi and the White House issued Mother's Day messages on Sunday as some progressives use the term \"birthing people\" instead."
     publishedDateTime: 2021-05-09T18:28:54Z
@@ -78,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/16b0dc99-e121-415c-b87d-2f890616897e/236da878-ceff-4311-976e-acb04b43505a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden meets with congressional leaders, jokes he'll 'snap my fingers' to reach compromise: 'It'll happen'"
+    excerpt: "President Biden on Wednesday, meeting with congressional leaders at the White House, said he believes he can reach \"some consensus on a compromise\" with Republicans and Democrats, joking that he’ll \"just snap my fingers\" for it to happen."
+    publishedDateTime: 2021-05-12T16:25:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bkPGPeT3bzE/biden-congressional-leaders-white-house-meeting-compromise"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-congressional-leaders-white-house-meeting-compromise.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-congressional-leaders-white-house-meeting-compromise.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "'Your World' breaks down gas shortage fallout, Biden's spending agenda"
     excerpt: "Guests: Rob Portman, Purvi Parikh, Kristen Hawn, Charles Grassley, Danielle DiMartino Booth, Karl Rove, Kennedy"
@@ -112,6 +112,6 @@ related:
         height: 500
         isCached: true
 
-secured: "RQVsVD2lF3RxtiWz6L3f8AhUUb5pZ8Cc1dRCTBmiLGAh6i230jCg3ZwBUR5jSPii2E9WyHC24OtjEJOb93wJvGDTg7lh10MUZcCnJ1CWUFj+5Mio4hYU2n4Ql+GTNxo524aTPVri3vSECnINWs5K3z1wTFFRWtfLtupH+UO3VcEzgYoNWeYQSI5SgXJyOHKoiAcRijHqgYrRSbgdUtgzbwa8ZXCuTEY3AayxEl8aFIqn8QXcSZ0nBTEkAeDsQ+VuWfFCO/7pkQ9rmrP3HKsdCi0K4Gp4UnZUYHPttl7rW/Zd5heb4YBc52kgRo/orEtFO5UW2Wm3eVc6k7fDHwxEmQSwcvVmh08B/vlt1xiVEMI=;DyQIafnx9A8jMFsUz21dPg=="
+secured: "7CzDhTNrh1FMadCCdkN+hAjZRlQ+KU0xc0ir6YlLz6wdqNQ0MgSNWSItYIveJncSwBYlbbwg7TwYvhV9Udw8F/CZf6lIyF+Bgf+NRTkCdSLwnUPCTCjlFQh+JEadz9/Poa/hISf5HkMN0Op4VNnRWv4ePypf4EQlojg1q2B/a32cYKKoi2Gc4QOLUAh4oZ5lX0m4W9Vq9LXybSEnxkL892nrUQmxKx9cP1q82SxdY1V8D2mN1iFVz7+4cIaZ38FwVovc80qQ6QEOgUYrBdxMdJfH2dRlD/ZRuNvXDOOAWwmgebe91GcMnaHZ+XNln55jJzg3gvoTBS72FAFcXmI86UDb2idVbzEHad+bpKL7VUI=;wxYPYZ31bYsDG1CmyZLUCQ=="
 ---
 

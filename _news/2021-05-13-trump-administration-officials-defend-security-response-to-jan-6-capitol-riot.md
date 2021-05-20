@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "New York Attorney General Bolsters Manhattan Prosecutors’ Trump Investigation"
+    excerpt: "The attorney general’s investigation has been probing alleged financial misconduct similar to that being looked at by the Manhattan district attorney’s office."
+    publishedDateTime: 2021-05-20T00:54:00Z
+    webUrl: "https://www.wsj.com/articles/new-york-attorney-general-bolsters-manhattan-prosecutors-trump-investigation-11621459366"
+    ampWebUrl: "https://www.wsj.com/amp/articles/new-york-attorney-general-bolsters-manhattan-prosecutors-trump-investigation-11621459366"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-attorney-general-bolsters-manhattan-prosecutors-trump-investigation-11621459366"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 132
+    images:
+      - url: "https://images.wsj.net/im-341035/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "New York Attorney General Probe of Trump Organization Now a Criminal Investigation"
     excerpt: "The investigation is no longer “purely civil in nature,” state officials tell the former president’s firm."
     publishedDateTime: 2021-05-19T03:29:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/trump-organization-criminal-investi
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-organization-criminal-investigation-new-york/"
 type: article
 quality: 117
-heat: 217
+heat: 237
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/05/19/USAT/f3214550-5068-490d-b0cb-97f996ce2b59-AP_Trump-Legal_Troubles.jpg?auto=webp&crop=5471,3077,x0,y278&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Michael Cohen said he believes Trump will 'flip on all of them,' including his children, in the New York investigation into his company"
+    excerpt: "Cohen, Trump's former lawyer and fixer who is cooperating with prosecutors, said: \"I really believe that Donald Trump cares for only himself.\""
+    publishedDateTime: 2021-05-20T06:40:00Z
+    webUrl: "https://www.businessinsider.com/michael-cohen-trump-will-flip-on-during-criminal-investigation-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/michael-cohen-trump-will-flip-on-during-criminal-investigation-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-cohen-trump-will-flip-on-during-criminal-investigation-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/60a5e132f27b4c001944582e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump Organization Faces Criminal Probe In New York State"
     excerpt: "The Trump Organization is being investigated in a \"criminal capacity\", the New York state attorney general's office said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."

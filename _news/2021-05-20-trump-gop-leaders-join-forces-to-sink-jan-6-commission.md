@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Graham doubles down on claim GOP can’t move on without Trump"
-excerpt: "Sen. Lindsey Graham (R-S.C.) sounded a warning Monday night that Republicans who “try to erase” former President Donald Trump from the GOP “are going to wind up getting"
-publishedDateTime: 2021-05-11T04:24:00Z
-originalUrl: "https://nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/"
-webUrl: "https://nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/"
-ampWebUrl: "https://nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/amp/"
+title: "Trump, GOP leaders join forces to sink Jan. 6 commission"
+excerpt: "Whatever the merits of a commission to be run by outside appointees, Republican leaders viewed it as a dagger aimed at former President Donald Trump."
+publishedDateTime: 2021-05-20T06:48:00Z
+originalUrl: "https://www.foxnews.com/media/trump-gop-leaders-join-forces-to-sink-jan-6-commission"
+webUrl: "https://www.foxnews.com/media/trump-gop-leaders-join-forces-to-sink-jan-6-commission"
 type: article
-quality: 135
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -22,9 +24,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/graham-doubles-down-on-trump-index.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/trump223.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -76,6 +78,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Graham doubles down on claim GOP can’t move on without Trump"
+    excerpt: "Sen. Lindsey Graham (R-S.C.) sounded a warning Monday night that Republicans who “try to erase” former President Donald Trump from the GOP “are going to wind up getting"
+    publishedDateTime: 2021-05-11T04:24:00Z
+    webUrl: "https://nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/"
+    ampWebUrl: "https://nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/11/graham-doubles-down-on-claim-gop-cant-move-on-without-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/graham-doubles-down-on-trump-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "As GOP Wrestles Over Trump, Democrats Run Their Own Risks"
     excerpt: "The party is trying to turn a thin electoral mandate into an expansive agenda that involves a $6 trillion stimulus, infrastructure and jobs-creation effort that would change the relationship between government and the economy."
     publishedDateTime: 2021-05-17T12:12:00Z
@@ -108,20 +126,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump, GOP leaders join forces to sink Jan. 6 commission"
-    excerpt: "Whatever the merits of a commission to be run by outside appointees, Republican leaders viewed it as a dagger aimed at former President Donald Trump."
-    publishedDateTime: 2021-05-20T06:48:00Z
-    webUrl: "https://www.foxnews.com/media/trump-gop-leaders-join-forces-to-sink-jan-6-commission"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/trump223.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Bet On It. Trump Is Running."
     excerpt: "President Donald Trump wants to run for president in 2024, and so he shall. The story some Republicans like to tell themselves -- that Trump will not run again for the White House because he knows he can't win and he's smart enough to see the glory in being a GOP kingmaker -- is wishful thinking."
     publishedDateTime: 2021-05-16T10:18:00Z
@@ -139,6 +143,6 @@ related:
         height: 500
         isCached: true
 
-secured: "A4ToMyof3Tf4h3GylAqzG0VU0g0xQgdYocUc6tYNSZ5yH/qn+DLrazr49CdRP/z9U6/heESSOrxwlrrQc/XHRXzEv28dPvSYbh0UgK8zA/wl01nxwwAQGBEy74hpXcqOeDPorAG8+E43N039lHSCX+rfVQGZQYr5if7+0kkKrkKGp3TNfVmOnuZR39g7VsX3PgWCuBJ6ARB35lT/Ft7bYYbcnwGLVv8M734QyDVnMlscFoeMp81ILwCzwQJM4awSZn8KgZM0SO8ii/HhWC8t617D/N2HP5lvKNpwDjQ15QUVCgSYi45Pd3gEIiqeCgV+2O7ejikA35efo+3jO8MOlwXQdBbsvaVcXimGy+QSFKMApgv1fzBKM3OS9ku2RUeOvhuNbBIiZalfXCKnQ8aFCIh+3fLAeSnCx7H0AJYUE7xrE5UZ5iHMOqyyk5ldrmX+sip8MJsmgGAgNGi+Br62l53gwnFVcV4aBbab3ZvGd5v7tJk7yOJ03cGepwadXOK2ETTn/bdFSeGpr4f0oGEmuQ==;MSpF59RVEwI6O2R4gqHUTA=="
+secured: "rvHmWfL/mGMkFjtTBI+imXpejq3biWA6fm8AHuPccC6jXYtZ8QNZVyv6NVLHoGBJQWQy9kbTzRXUhcezmqW9z8mn+xdTJWKXTHgEQ2XbqwMRvWSFXoK1eeFfCMVWJdvES7wgS8cQ9O3olYZXI5UpjMWHl5Sz/UykaZ/BDXvxjcPtrf3Mo6KMziBv10mW9BiKvyEqovcwh85XGLQQUObROGZ2j26eNeh9bhrA5Ke6ptoUUwc/+ihhl2XQdpE+y84t6Fs3v7wkigoKzhn8jWBndVEpCRNeV8oOcRiGUZrnIkf6qZZHRc0HYidb62qZk6HDLuUdvzdUd6fpnaTQzM04K4iud9DglBw+9hWVL7ek4Nc=;6LWMW9M4Q97ekcBwC/nLDg=="
 ---
 

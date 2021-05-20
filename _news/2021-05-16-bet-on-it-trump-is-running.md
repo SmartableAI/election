@@ -124,6 +124,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump, GOP leaders join forces to sink Jan. 6 commission"
+    excerpt: "Whatever the merits of a commission to be run by outside appointees, Republican leaders viewed it as a dagger aimed at former President Donald Trump."
+    publishedDateTime: 2021-05-20T06:48:00Z
+    webUrl: "https://www.foxnews.com/media/trump-gop-leaders-join-forces-to-sink-jan-6-commission"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/trump223.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "JVSGohvIWkHCCigI3I9P0b5BQIGJsZg9He3CXw/wxzHcjDBlXRuG3BV/2bfvASfQDDjAiREYi5QaH1SYMcCcKw2b4gfXugoWyG32LJGL44SQqEOmbYf3cHjppCaJLrNRVcTnnMEgIsLBGG7KodBjUai68o9eu8rWjUlLXyGU/Cv97u6Y9sYeS/YynIFtX9pjH2NOdG53fY3uIhDFdpLeP+EV+m+Or8pMI4an61WSEnSHQ4IwK8qhQSfu9MvpVPVwnBAVmiu8QbDvmTaZno0gqAEt9f/h7VRrDxAaszIBCGpUrx2VtPJRHB5SP7/ceqaMgsuBjKo1DG0KdZ1N0GynBPhrVw950V8VXyko39bA1Bnmb9QtirQ+QRc55P/8v5FvQ9V0lSRtmRMbbBl/ytFnKIGxy/eQ0gc5ylz9MIQC4HUtWHBv0Hremsc/T4A5Rik6H0HZxH2FL/PIB9APoyBw8CnSfoUhf4nDJdtUmqHGqOyJ1lFQgGyTwIZXzDbTZtiedWi6aHcMkSxR4czeoL+A9w==;zYcLKcscYj78W3HxEqugpw=="
 ---

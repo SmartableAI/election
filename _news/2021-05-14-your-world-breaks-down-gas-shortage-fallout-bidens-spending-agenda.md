@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden admin border cash not always getting to right place, Texas Democrat claims"
+    excerpt: "A South Texas Democrat expressed frustration Wednesday, claiming not all Biden administration allocations to communities along the U.S.-Mexico border get to where the cash is intended to go."
+    publishedDateTime: 2021-05-20T06:10:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ec6fxC8A3I8/biden-admin-border-cash-not-always-getting-to-right-place-texas-democrat-claims"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-border-cash-not-always-getting-to-right-place-texas-democrat-claims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-border-cash-not-always-getting-to-right-place-texas-democrat-claims.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/34bbb2d9-b3c5-431e-a184-e3fd950d745e/796d553d-e935-4b22-98cb-fb635a33940d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Pelosi, Biden praise moms on Mother's Day amid progressive talk of 'birthing people'"
     excerpt: "House Speaker Nancy Pelosi and the White House issued Mother's Day messages on Sunday as some progressives use the term \"birthing people\" instead."
     publishedDateTime: 2021-05-09T18:28:54Z
