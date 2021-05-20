@@ -31,8 +31,8 @@ images:
 related:
   - title: "New York attorney general 'actively investigating' Trump Organization in a 'criminal capacity'"
     excerpt: "The New York attorney general is investigating the Trump Organization for criminality, a shift that could lead to charges if wrongdoing is uncovered."
-    publishedDateTime: 2021-05-19T04:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/18/trump-organization-new-york-attorney-general-criminal-investigation/5159082001/"
+    publishedDateTime: 2021-05-19T04:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/18/trump-organization-new-york-attorney-general-criminal-investigation/5159082001/?scrolla=5eb6d68b7fedc32c19ef33b4"
     ampWebUrl: "https://amp.usatoday.com/amp/5159082001"
     cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5159082001"
     type: article

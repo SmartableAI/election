@@ -2,9 +2,9 @@
 category: news
 title: "New York attorney general 'actively investigating' Trump Organization in a 'criminal capacity'"
 excerpt: "The New York attorney general is investigating the Trump Organization for criminality, a shift that could lead to charges if wrongdoing is uncovered."
-publishedDateTime: 2021-05-19T04:09:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/05/18/trump-organization-new-york-attorney-general-criminal-investigation/5159082001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/05/18/trump-organization-new-york-attorney-general-criminal-investigation/5159082001/"
+publishedDateTime: 2021-05-19T04:17:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/05/18/trump-organization-new-york-attorney-general-criminal-investigation/5159082001/?scrolla=5eb6d68b7fedc32c19ef33b4"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/05/18/trump-organization-new-york-attorney-general-criminal-investigation/5159082001/?scrolla=5eb6d68b7fedc32c19ef33b4"
 ampWebUrl: "https://amp.usatoday.com/amp/5159082001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5159082001"
 type: article
@@ -73,6 +73,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "cFapE+YmLqN6mCwEErEbidvB7HQWANf8kQeHbv+N4lt5zU260h7DDubCurmZePQGmG6N7fRYlMGb2/XdAyP8LZ49okXJvvAcafq07wo1jxRqiYhkIUSUis2gD9DXMl68y1dTeSCGYw+f5FLMyQHwhS/tqRMhezMVbNCQHopIaRCj0m4b5KtYdDdu2EBFbEwBXnTLMahIwZaloN6NYaz5hd3R3wGbb/EARGou2PsGtTdVS0cC/+a1TXl+rlQed9XxkhD8qtqo3gnkheM+QjUHikgRZ5THMdQzWFQ/zGOa1OrkeuJ8itVGRbPvYwaRenhkRQhX5jLVjAFZCYzh75KHLDzjEXvjNDg9O5OEME661E9Qcub0Z3DVhJB7mRpxLKTSyJ0KetdEkmBKCBHZ7dhvkDlOh1HpWkP//z+B9/GtPAIXB7yvhJ6Mob4oY4NX9a034y2YcDies69vdvjfXzKYNH7I+wOjSh8aD6MvST7HKsE2we3Tpyhm4V5DhzHWkiRmaRMTa9KvfG3OTBWZYoPJFQ==;ctbhWZf4G0f1mPIe2o+wrg=="
+secured: "6BOCI/TrjECnu7V1nnOOcTDJjdhIyxp9LvMh5O+BMOV46D1KsvdfaBwd5OkC5zUyaeFEsf5hNcptRW30yZmR93LB7bW66eanM0vhOYSFWRTukMFCNGXJW9Xba6Setgav3uSPGQ4Fft/X6blgBzAAOeic3tBrpoSBF42Ob3oYH/AwGrew9gFp9BHsvPr45t2OYyvKg/mIMdhI3aZPDPJonjq3cHnPUZz3UBcHULlfkkg52SSlfInX0uxW0FlyzzwPPshUbNvzzCVDVgafhKGIz2PODDRS1hNPmujvL3cN79K9wAU/80r0rZTzlqXOtXMmXiNjFOOpNTBTaX2FunFxmwxNtz+bceO+vBXvS9p4c5w=;GxzyXKNyFMCSYxZw39cBRg=="
 ---
 

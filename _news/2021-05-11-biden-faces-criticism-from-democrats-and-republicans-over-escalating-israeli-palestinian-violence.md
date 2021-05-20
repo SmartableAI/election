@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "State AGs ask Biden to withdraw education proposals supporting 1619 Project, critical race theory"
+    excerpt: "A coalition of 20 state attorneys general called Wednesday for the Biden administration to withdraw education proposals that, they argue, are meant to promote critical race theory and the New York Times’ “1619 Project” in classrooms."
+    publishedDateTime: 2021-05-20T01:32:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P926zVX0blg/state-ags-biden-education-proposals-1619-project-critical-race-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/state-ags-biden-education-proposals-1619-project-critical-race-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-ags-biden-education-proposals-1619-project-critical-race-theory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aad779fa-f3ed-4192-aeab-68221299c6c2/f4f5306b-320d-4f34-a7fd-b2edef0b6672/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Pence slams Biden admin for trying to create a 'false equivalency' between Israel, Hamas"
     excerpt: "EXCLUSIVE: Former Vice President Mike Pence slammed the Biden Administration for attempting to create a “false equivalency” between Israel and Hamas, saying he and former President Trump “set the table for lasting peace and an end to the decades-old conflict in the region,"
     publishedDateTime: 2021-05-18T16:37:00Z

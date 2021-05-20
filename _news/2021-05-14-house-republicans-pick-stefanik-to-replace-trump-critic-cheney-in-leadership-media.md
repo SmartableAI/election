@@ -449,6 +449,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What We Know So Far About The Trump Organization Criminal Investigation"
+    excerpt: "The New York attorney general's office has expanded its probe of former President Donald Trump's business. Here's what that means — and what could come next for the criminal inquiry."
+    publishedDateTime: 2021-05-19T20:39:00Z
+    webUrl: "https://www.npr.org/2021/05/19/998231343/criminal-investigation-into-the-trump-organization-in-new-york-what-we-know"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2021/05/19/ap21048630127598_wide-becdb02020ef1438c19b9968b970c3fe6b362849.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "House GOP elect Trump defender Stefanik as their number three in leadership"
     excerpt: "Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership, electing an ardent Donald Trump defender in hopes of calming their searing civil war over the deposed Rep. Liz Cheney's unremitting combat with the former president."
     publishedDateTime: 2021-05-15T00:07:00Z
@@ -517,6 +531,22 @@ related:
     webUrl: "https://www.chron.com/news/article/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
     ampWebUrl: "https://www.chron.com/news/amp/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "35 Republicans buck Trump, back study of Jan. 6 Capitol riot"
+    excerpt: "Thirty-five House Republicans joined Democrats Wednesday in voting to create a bipartisan commission to investigate the Jan. 6 attack on the Capitol, risking the wrath of former President Donald Trump and flouting GOP leaders who condemned the proposal as unfairly partisan and unneeded."
+    publishedDateTime: 2021-05-19T23:47:00Z
+    webUrl: "https://www.chron.com/news/nation-world/article/35-Republicans-buck-Trump-Jan-6-16189738.php"
+    ampWebUrl: "https://www.chron.com/news/nation-world/amp/35-Republicans-buck-Trump-Jan-6-16189738.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/nation-world/amp/35-Republicans-buck-Trump-Jan-6-16189738.php"
     type: article
     provider:
       name: Houston Chronicle
@@ -617,15 +647,6 @@ related:
     excerpt: "Republicans in the U.S. House of Representatives will vote on Wednesday whether to eject Liz Cheney, an outspoken critic of Donald Trump, from her leadership post, a move likely to cement their dependence on the former president in the 2022 elections."
     publishedDateTime: 2021-05-12T10:03:00Z
     webUrl: "https://www.usnews.com/news/us/articles/2021-05-12/liz-cheney-vote-us-house-republicans-reach-watershed-over-trump"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
-  - title: "35 Republicans Buck Trump, Back Study of Jan. 6 Capitol Riot"
-    excerpt: "Thirty-five House Republicans have joined Democrats and voted to create a bipartisan commission to investigate the Jan. 6 attack on the Capitol."
-    publishedDateTime: 2021-05-19T22:59:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-19/35-republicans-buck-trump-back-study-of-jan-6-capitol-riot"
     type: article
     provider:
       name: U.S. News & World Report

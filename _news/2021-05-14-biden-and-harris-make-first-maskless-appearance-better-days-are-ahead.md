@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden told Pete Buttigieg 'that was some f---ing bulls---' on stage after a combative debate exchange with Kamala Harris, according to a new book"
+    excerpt: "Biden was stunned when Harris went after his record on busing during a Democratic primary debate in June 2019."
+    publishedDateTime: 2021-05-19T17:19:00Z
+    webUrl: "https://www.businessinsider.com/biden-said-that-was-some-f-ing-bulls-on-primary-debate-stage-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/biden-said-that-was-some-f-ing-bulls-on-primary-debate-stage-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-said-that-was-some-f-ing-bulls-on-primary-debate-stage-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/60a51106f27b4c0019445460?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Harris, Emhoff earned more than Bidens with 7-figure earnings, taxes show"
     excerpt: "Both the first and second families' tax returns reveal losses of income since the successful Biden-Harris White House bid."
     publishedDateTime: 2021-05-18T12:32:00Z

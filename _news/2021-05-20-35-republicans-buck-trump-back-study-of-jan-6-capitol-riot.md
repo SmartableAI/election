@@ -1,26 +1,30 @@
 ---
 category: news
-title: "35 Republicans Buck Trump, Back Study of Jan. 6 Capitol Riot"
-excerpt: "Thirty-five House Republicans have joined Democrats and voted to create a bipartisan commission to investigate the Jan. 6 attack on the Capitol."
-publishedDateTime: 2021-05-19T22:59:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-05-19/35-republicans-buck-trump-back-study-of-jan-6-capitol-riot"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-05-19/35-republicans-buck-trump-back-study-of-jan-6-capitol-riot"
+title: "35 Republicans buck Trump, back study of Jan. 6 Capitol riot"
+excerpt: "Thirty-five House Republicans joined Democrats Wednesday in voting to create a bipartisan commission to investigate the Jan. 6 attack on the Capitol, risking the wrath of former President Donald Trump and flouting GOP leaders who condemned the proposal as unfairly partisan and unneeded."
+publishedDateTime: 2021-05-19T23:47:00Z
+originalUrl: "https://www.chron.com/news/nation-world/article/35-Republicans-buck-Trump-Jan-6-16189738.php"
+webUrl: "https://www.chron.com/news/nation-world/article/35-Republicans-buck-Trump-Jan-6-16189738.php"
+ampWebUrl: "https://www.chron.com/news/nation-world/amp/35-Republicans-buck-Trump-Jan-6-16189738.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/nation-world/amp/35-Republicans-buck-Trump-Jan-6-16189738.php"
 type: article
-quality: 35
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Republican Arizona election official says Trump 'unhinged'"
@@ -449,6 +453,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What We Know So Far About The Trump Organization Criminal Investigation"
+    excerpt: "The New York attorney general's office has expanded its probe of former President Donald Trump's business. Here's what that means — and what could come next for the criminal inquiry."
+    publishedDateTime: 2021-05-19T20:39:00Z
+    webUrl: "https://www.npr.org/2021/05/19/998231343/criminal-investigation-into-the-trump-organization-in-new-york-what-we-know"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2021/05/19/ap21048630127598_wide-becdb02020ef1438c19b9968b970c3fe6b362849.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "House GOP elect Trump defender Stefanik as their number three in leadership"
     excerpt: "Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership, electing an ardent Donald Trump defender in hopes of calming their searing civil war over the deposed Rep. Liz Cheney's unremitting combat with the former president."
     publishedDateTime: 2021-05-15T00:07:00Z
@@ -632,6 +650,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "Ix+GEMos86x+ImOD1r8FWNgyKggA+A5lyWiATZ802sMOlA6aALP6qjkRg4SlV63z3WrkD9tusRvl8C0Vk0evz5bNbjrUtzGFDW7hKniVKjHu9iR/DXHqq/L/2Q67AHxuR7sNVaiISy2UNoVKNqTu6BrRpb+m1WlRLIzLxEHYZAFyZ7+seiIYp+6Lf1Bs0uecMKL8BiH5PlbpB5lESjhIYixA5+n3uUoC4eYb/dGOHNZdkf0wsvablTjD0JB0fK/Kv6EGAeWFF5vh/oJ7i68WzJu7XsqInLJdaK3gJ0YdnIltyjRrJ4nn4tDAE94G2nIINnKJNNuljj2L6EFLrmwFS0JBq1rXu/9ro7dts9sW4hTQq3l2LiXQ5J/9tJb0BYUnJAsypWV4WAgDTZkQCy9QgBsDAsl/OX12fqUcfPYW+lArHEiN/8W+FaBY64ejS6ZpB+Etn4i+XH83wUCce5D/PQwdMe+uBd408DxCooEYxU4F+SKc5mj5PyG0FVBlfmTj2oXZhXeWsOP+WiNNw0FaZw==;SanOq3FYs+CtkJ/btEkajQ=="
+secured: "JQKUoKM09Ql4SaOjzSiIHB+re4kVuHvKUkDRLJkOYjzljjIdtywTqSHymd9qe/8v1yFFcyy5kVLESrrBDPS1SK/GaPkmVMWXQJX2vNwj3C4E5xwUGz2Q8rNA5Aj3lry4C8fM0zC2p622LJ+XNqavE7+fK3UJIzyTdkozG0EYAJZoLVJ4nF5rdNmmD0fXdrauEljOHKvm/yeJWC+Ini6F57E71eXAj3RisAE4B0WlMol+Pun4f6yJcPblEEcKncJXu5Dk9Yv8V51NNE0sqRTcn+G1kAIpav40KDEEzlJHi1ZyGeYNPx/rzYKGYbOx+CoojOm2axuIRtUpZwNRgZCIwmHvcNPUVniZY5Bd4Jl6ltQ=;FljwaWZ8QSDPOZZ0HuuPPw=="
 ---
 

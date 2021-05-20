@@ -1,24 +1,32 @@
 ---
 category: news
-title: "What does the new criminal inquiry mean for Donald Trump?"
-excerpt: "Donald Trump is facing a one-two punch of criminal investigations in New York, with the state attorney general’s office saying its ongoing civil inquiry into the former president and his businesses is now a criminal matter."
-publishedDateTime: 2021-05-19T21:16:00Z
-originalUrl: "https://www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/"
-webUrl: "https://www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/"
-ampWebUrl: "https://www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/?outputType=amp"
-cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/?outputType=amp"
+title: "What We Know So Far About The Trump Organization Criminal Investigation"
+excerpt: "The New York attorney general's office has expanded its probe of former President Donald Trump's business. Here's what that means — and what could come next for the criminal inquiry."
+publishedDateTime: 2021-05-19T20:39:00Z
+originalUrl: "https://www.npr.org/2021/05/19/998231343/criminal-investigation-into-the-trump-organization-in-new-york-what-we-know"
+webUrl: "https://www.npr.org/2021/05/19/998231343/criminal-investigation-into-the-trump-organization-in-new-york-what-we-know"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: NPR
+  domain: npr.org
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://media.npr.org/assets/img/2021/05/19/ap21048630127598_wide-becdb02020ef1438c19b9968b970c3fe6b362849.jpg?s=1400"
+    width: 1400
+    height: 787
+    isCached: true
 
 related:
   - title: "Republican Arizona election official says Trump 'unhinged'"
@@ -447,20 +455,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What We Know So Far About The Trump Organization Criminal Investigation"
-    excerpt: "The New York attorney general's office has expanded its probe of former President Donald Trump's business. Here's what that means — and what could come next for the criminal inquiry."
-    publishedDateTime: 2021-05-19T20:39:00Z
-    webUrl: "https://www.npr.org/2021/05/19/998231343/criminal-investigation-into-the-trump-organization-in-new-york-what-we-know"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2021/05/19/ap21048630127598_wide-becdb02020ef1438c19b9968b970c3fe6b362849.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "House GOP elect Trump defender Stefanik as their number three in leadership"
     excerpt: "Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership, electing an ardent Donald Trump defender in hopes of calming their searing civil war over the deposed Rep. Liz Cheney's unremitting combat with the former president."
     publishedDateTime: 2021-05-15T00:07:00Z
@@ -630,6 +624,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "What does the new criminal inquiry mean for Donald Trump?"
+    excerpt: "Donald Trump is facing a one-two punch of criminal investigations in New York, with the state attorney general’s office saying its ongoing civil inquiry into the former president and his businesses is now a criminal matter."
+    publishedDateTime: 2021-05-19T21:16:00Z
+    webUrl: "https://www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
   - title: "Liz Cheney Vote: U.S. House Republicans Reach Watershed Over Trump"
     excerpt: "Republicans in the U.S. House of Representatives will vote on Wednesday whether to eject Liz Cheney, an outspoken critic of Donald Trump, from her leadership post, a move likely to cement their dependence on the former president in the 2022 elections."
     publishedDateTime: 2021-05-12T10:03:00Z
@@ -649,6 +654,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "Go5WD/IV5rE5VvS5mAtwI7AoTuirShIS7kbkhyY8Ms21p2Muc8Rl4kwWg+JWPybfUT79SQlszXanfNZWrV10h12pw3tqymRV5Ii26XkOAPa8hWaUy+oHQ9id5+2b7VAPTl0YPmV8qmWWpEkY973KG3nOtI6LtNUnlKC8N6Aln495y8CYAkZFCHyp0Sqyc8wJWmV03GbiwGlEkgmh5toW61P8qcXhDDNR0+2I5EZaMQ/X/hkTVDOc3scS6+r8tqnC3L8cRfZRvH8fTq6QKTkRe53pdV09sKakKjLg7C3zK3CJCbje6NTZdyg2XdngaVxuPII5WFNHniowXZKDGH9LdElHjzcPEx3D0L4+Hn+H3QU=;Pwx1hhyjW2/SxMHwk8aixw=="
+secured: "5bIAG0W2Z2mDfA07m4VuZiEG7tiuHlb4WgVsuG9F+ioz2qZBJcUCKahLHDy6SHir0/M/jiY0JLPId1NqkxinSskdpHzFkO/tfMgEVuUGcH1eB3VhAS9zvzKRp7iuO5geFYMsZ2E4rK8aa8MVTCwMDWfH+J+b4mI0neyXPTw/W57qrOowZP696douX8UfonVjM+QmeaecnhKpX8s/td++N2LsJ4okwTkBNahP4wWZuCjk5MxcCbC3MsGIiSUk8hcvUX6Sqj543YWQ2KZQF36vYn3PGmo/yh8+COJ0fInVoQShwEJObrX1RV1J++xyPSoANGdkNs62TazqXjzYvTypDuyRDdmqKxY91NQfvXzwxD4=;A29JqjaUOEaDomUmkGDfXw=="
 ---
 
