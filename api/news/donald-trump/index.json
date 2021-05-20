@@ -61,10 +61,10 @@
     {
       "path": "_news/2021-05-20-obama-had-harsh-words-on-trump-book-claims.md",
       "title": "Obama had harsh words on Trump, book claims",
-      "excerpt": "Former President Barack Obama called Donald Trump a “corrupt motherf–ker,” “madman” and a “racist, sexist pig” to people behind the scenes, a new book claims. Obama had actually preferred",
+      "excerpt": "Former President Barack Obama called Donald Trump a “corrupt motherf–ker,” “madman” and a “racist, sexist pig” to people behind the scenes, a new book claims.",
       "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/19/obama-called-trump-a-racist-sexist-pig-book-claims/",
-      "originalUrl": "https://nypost.com/2021/05/19/obama-called-trump-a-racist-sexist-pig-book-claims/",
+      "webUrl": "https://www.foxnews.com/media/obama-had-harsh-words-on-trump-book-claims",
+      "originalUrl": "https://www.foxnews.com/media/obama-had-harsh-words-on-trump-book-claims",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
@@ -75,9 +75,9 @@
       "tags": null,
       "images": [
         {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/obama-trump-051.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7190891-3b68-4f0d-aee0-1b1e57fcd8b2/2f09ad27-6af7-42a5-bacf-9a12c3deec10/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -85,14 +85,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/19/obama-called-trump-a-racist-sexist-pig-book-claims/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/obama-called-trump-a-racist-sexist-pig-book-claims/amp/",
-      "publishedDateTime": "2021-05-19T19:36:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/media/obama-had-harsh-words-on-trump-book-claims.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/obama-had-harsh-words-on-trump-book-claims.amp",
+      "publishedDateTime": "2021-05-20T01:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

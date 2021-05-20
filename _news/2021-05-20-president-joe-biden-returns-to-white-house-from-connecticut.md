@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Returns to White House from Connecticut"
-excerpt: "US President Joe Biden talks on the phone in the beast on the ellipse at the White House in Washington, DC on Wednesday, May 19, 2021. President Joe Biden traveled to Connecticut for the US Coast Guards 140th commencement."
+excerpt: "US President Joe Biden walks off Marine One on the ellipse at the White House in Washington, DC on Wednesday, May 19, 2021. President Joe Biden traveled to Connecticut for the US Coast Guards 140th commencement."
 publishedDateTime: 2021-05-19T21:10:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/f370f38e1cce0bf8b9021074e82b8c24/President-Joe-Biden-Returns-to-White-House-from-Connecticut/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/f370f38e1cce0bf8b9021074e82b8c24/President-Joe-Biden-Returns-to-White-House-from-Connecticut/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/d1db6c15b39def8fe8bb0eb5b3f4cb87/President-Joe-Biden-Returns-to-White-House-from-Connecticut/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/d1db6c15b39def8fe8bb0eb5b3f4cb87/President-Joe-Biden-Returns-to-White-House-from-Connecticut/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/f370f38e1cce0bf8b9021074e82b8c24/BIDEN-WHITE-HOUSE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/d1db6c15b39def8fe8bb0eb5b3f4cb87/BIDEN-WHITE-HOUSE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -118,6 +118,6 @@ related:
         height: 630
         isCached: true
 
-secured: "1OcP4VRiPAWKmSzwWFfBoUbk8ycr51MF56TEYh+HVlsWV2+MgvbzbNStQE7Uccc2zDqsXtesDy0Kk5lo5WeblgusL38NEp6Owet4Sie0NYbU9Zs9QPKOS+JwGnffyZGW2tHcnMWEWFb5vMm71/VBG6nSK1ia4GTd3GJx909c9D8ljPzhjjAQG43oUbpCvaoGjpsWP0gEKtpPXhK5aYw+pZZhJHETr1/rUrzieN/Cej4jc67tA0MCks0HQZpfWDKqIKY9Vzqsw3zGZ6vChStbJ+OudL0sK8MLf4EgjRiUvnHrBUoIamo7kDyVoD1K6oRTIL+LeTs6MOJRlWpVnrhDbQMhPvtQFsvbM6Y86dmTof07Bc7JUy3PHTMoXl/jfelpZsQofZgM6qlm2BlYBaSi70PhIgiSBpxO99tlfkJaNhkJxr3NuhRkUeM8gb4onkUYdQaTxrN6etgIWc/VankAcUxgZKf5DaDTNkreLIAljGCH7Y6rvOSnt27VEwa3IrOEcSUN3GmdkDXnLpyxg4exBw==;SHCQJCZkI88ptpl1Xtg14w=="
+secured: "pc4xCHBxkWgm65UWaVK+DSoDoaBP0a/JhphLsq+YGSFUibJf5+MTbUU+AAFECiSQpz5r3EZIElyi4VjzknZxFqrzyN80VUXSm/hAs3AQmnVO54lhzt4F9497Q7ZWlIMVHXwzTa4L6U0wDan3TDdHR5nd2tn91i8cktQOlwH/8ALKVBGg5o4/6WRhjegMJGnW8yCTwGPlxuQDRFDS5qS1x6MGHLCOcqayoMsNhMgZ2Z4a/hAVlj5neklNN8TZFsqBp2QPgd7ZZVx6LFOv15/sJFiROwz4PQ34cTkbn652B7/triGPBrDE26VqWx76SqxWYNph421JQd+w5ua3VFkot6xXb+SzMkO+8KsctMdBZzU=;IQXbjDPWtD+TxD5gES7E/w=="
 ---
 
