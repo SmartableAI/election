@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/13/politics/joe-biden-cdc-mask-guida
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/joe-biden-cdc-mask-guidance/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -37,6 +37,22 @@ related:
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aZR6f7jowTw/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/middle-east-peace-joe-biden/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/middle-east-peace-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210513132103-02-biden-colonial-pipeline-remarks-0513-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to sign bill aimed at addressing rise in anti-Asian hate crimes"
+    excerpt: "President Joe Biden is scheduled to sign a bill into law on Thursday that's aimed at countering a rise in anti-Asian hate crimes that's come during the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-05-20T15:48:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKvEMYlAD04/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/biden-anti-asian-hate-crimes-covid-19-signing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/biden-anti-asian-hate-crimes-covid-19-signing/index.html"
     type: article
     provider:
       name: CNN

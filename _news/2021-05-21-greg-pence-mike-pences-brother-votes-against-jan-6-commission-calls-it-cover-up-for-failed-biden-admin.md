@@ -1,31 +1,33 @@
 ---
 category: news
-title: "Idaho governor signs bill to halt Biden moves on gun laws"
-excerpt: "Idaho Gov. Brad Little has signed legislation aimed at thwarting a half-dozen executive actions taken by President Joe Biden to combat gun violence"
-publishedDateTime: 2021-05-11T21:18:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/idaho-governor-signs-bill-halt-biden-moves-gun-77630134"
-webUrl: "https://abcnews.go.com/Politics/wireStory/idaho-governor-signs-bill-halt-biden-moves-gun-77630134"
+title: "Greg Pence, Mike Pence's Brother, Votes Against Jan. 6 Commission, Calls It 'Cover-up for Failed Biden Admin'"
+excerpt: "Greg Pence is defending his House vote against a commission to investigate the violent attack on the Capitol that forced his brother into a secured location, calling it a \"coverup for the failed Biden administration."
+publishedDateTime: 2021-05-20T17:42:00Z
+originalUrl: "https://www.newsweek.com/greg-pence-mike-pences-brother-votes-against-jan-6-commission-calls-it-cover-failed-biden-1593377"
+webUrl: "https://www.newsweek.com/greg-pence-mike-pences-brother-votes-against-jan-6-commission-calls-it-cover-failed-biden-1593377"
+ampWebUrl: "https://www.newsweek.com/greg-pence-mike-pences-brother-votes-against-jan-6-commission-calls-it-cover-failed-biden-1593377?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/greg-pence-mike-pences-brother-votes-against-jan-6-commission-calls-it-cover-failed-biden-1593377?amp=1"
 type: article
-quality: 105
+quality: 121
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Mike Pence
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_8b67b92eacf64c4eb158c419207af25c_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://d.newsweek.com/en/full/1802221/greg-pence-wasnt-worried-about-vp-brother.jpg"
+    width: 3500
+    height: 2333
     isCached: true
 
 related:
@@ -77,21 +79,19 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Greg Pence, Mike Pence's Brother, Votes Against Jan. 6 Commission, Calls It 'Cover-up for Failed Biden Admin'"
-    excerpt: "Greg Pence is defending his House vote against a commission to investigate the violent attack on the Capitol that forced his brother into a secured location, calling it a \"coverup for the failed Biden administration."
-    publishedDateTime: 2021-05-20T17:42:00Z
-    webUrl: "https://www.newsweek.com/greg-pence-mike-pences-brother-votes-against-jan-6-commission-calls-it-cover-failed-biden-1593377"
-    ampWebUrl: "https://www.newsweek.com/greg-pence-mike-pences-brother-votes-against-jan-6-commission-calls-it-cover-failed-biden-1593377?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/greg-pence-mike-pences-brother-votes-against-jan-6-commission-calls-it-cover-failed-biden-1593377?amp=1"
+  - title: "Idaho governor signs bill to halt Biden moves on gun laws"
+    excerpt: "Idaho Gov. Brad Little has signed legislation aimed at thwarting a half-dozen executive actions taken by President Joe Biden to combat gun violence"
+    publishedDateTime: 2021-05-11T21:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/idaho-governor-signs-bill-halt-biden-moves-gun-77630134"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
     images:
-      - url: "https://d.newsweek.com/en/full/1802221/greg-pence-wasnt-worried-about-vp-brother.jpg"
-        width: 3500
-        height: 2333
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8b67b92eacf64c4eb158c419207af25c_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Policy experts call Biden's tough China stance damaging to climate agenda"
     excerpt: "President Joe Biden touted his electric vehicle and infrastructure plans Tuesday during remarks at a Ford facility in Michigan, where he told reporters China was currently ahead in the race for green technology."
@@ -154,6 +154,6 @@ related:
         height: 433
         isCached: true
 
-secured: "ecrB8HnqEtnT44sfSXMaDWDJBOMIgDNGlL6bahIoFUb5kT4zj/9XF+RKfSG9WeHNsCFwP5Va2y41/k+Xpixzxvy1SF5amTvGUBXxkqZGc4Tju+tOR52Px8Uo+M8j8zuPbul7U0fylWGB59JgzrhFdPz1okp5LFfkkrDVOrVCuCyxrD5YhMW76LYAMIVCJS4PcQt6gXl2yg4NqstLT5U5LEjjBav9EHD+Rw4pYTp1xDPXJs9XOp7CqyTur9GJSCYQNPXAdsMLPsK4m+HW2Buq8MQVHb1CU7aQroiuoqtFC/vVmmfzrv3xPM/ikYMkrNNGEIVTzHnXAtrNHctNSz4+RggjO60H/tPStJJGyL0AMfSL/bo+iCSjHWVvb7NMwFOzNP66K72fhWpSBho6U4VqtMfY/uwCpCQZcWWbkq8IMMtLeBFutx6OG9TRNqA3A7pqz6+1/mkZxshMCH8UzPgBgtxfuvmSVdcz6mfniznhaLOqDB5kkFDUzlE59fA8y1gRBQ27mUnXnwwMteSYkOZaJA==;3U7kFHMG3pe2myD0R/qFhQ=="
+secured: "/NsjnCfC/QV7Hmv4xsiLF8V4kVdEcUS3BSs87ukZYutQ3Hf0+CjNVGyVuFyqUVgoqa3BA0K7Wa73dm2yopOEXlQIi4RUYMs/zBuLigP0pfsCjSNOA/gxfpN8vrwcN/4EfXmtILOio7UYheDDuz2mT77Ycg/aD/i0mJDF5nqaYdS8I1VO30KR/VtvWn1gx9gX+NxbSibI8rHh3+g4lLkaxufwFn4E1xHsANTBwoJBDJcZJ5PkU71yc2WYldv3aneKHU2yyV4q6tBR6+sqqFpAq/89A/jGGo4LQgZytUPOaLU2+ZbsZR7u0V1knBAlf96FC7qoJlhzmRR46NZ9Fq8ZGjjE/LvpD5fCCHN138j2akQ=;QT9LXDgz5o+55PSpvcm1SA=="
 ---
 

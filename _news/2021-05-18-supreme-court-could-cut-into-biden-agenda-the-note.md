@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/supreme-court-cut-biden-agenda-n
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -61,6 +61,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden to tap Homendy to head NTSB, White House confirms"
+    excerpt: "The White House confirmed on Wednesday that President Joe Biden plans to nominate Jennifer Homendy to chair the National Transportation Safety Board (NTSB)."
+    publishedDateTime: 2021-05-20T02:38:00Z
+    webUrl: "https://www.reuters.com/article/idUSL2N2N630R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N630R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N630R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "President Joe Biden Departs White House for Connecticut"
     excerpt: "US President Joe Biden walks on the ellipse to board Marine One at the White House in Washington, DC on Wednesday, May 19, 2021. President Joe Biden Departs White House for Connecticut for the US Coast Guards 140th commencement."
     publishedDateTime: 2021-05-19T13:31:00Z

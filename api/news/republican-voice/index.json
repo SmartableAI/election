@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-05-20-obama-had-harsh-words-on-trump-book-claims.md",
-      "title": "Obama had harsh words on Trump, book claims",
-      "excerpt": "Former President Barack Obama called Donald Trump a “corrupt motherf–ker,” “madman” and a “racist, sexist pig” to people behind the scenes, a new book claims.",
+      "path": "_news/2021-05-20-obama-called-trump-a-f-lunatic-in-remarks-to-foundation-donors-book-claims.md",
+      "title": "Obama called Trump a 'f------ lunatic' in remarks to foundation donors, book claims",
+      "excerpt": "Former President Barack Obama, known by the public as a reserved statesman who notably avoided using his successor’s name for years, reportedly called former President Donald Trump a \"f---ing lunatic,\" a \"madman\" and a \"corrupt motherf----er\" behind closed doors, according to a new book. ",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/obama-had-harsh-words-on-trump-book-claims",
-      "originalUrl": "https://www.foxnews.com/media/obama-had-harsh-words-on-trump-book-claims",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gTm9ZiXNaOU/dovere-book-obama-trump-lunatic",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gTm9ZiXNaOU/dovere-book-obama-trump-lunatic",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 135,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/obama-had-harsh-words-on-trump-book-claims.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/obama-had-harsh-words-on-trump-book-claims.amp",
-      "publishedDateTime": "2021-05-20T01:36:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/dovere-book-obama-trump-lunatic.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dovere-book-obama-trump-lunatic.amp",
+      "publishedDateTime": "2021-05-20T10:54:04-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -54,7 +54,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },

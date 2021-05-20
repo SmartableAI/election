@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Biden extolls global role to Coast Guard grads"
-excerpt: "President Joe Biden delivers his first commencement address as commander-in-chief, stressing the vital role new graduates at the Coast Guard Academy will have as the United States reasserts itself on the world stage."
-publishedDateTime: 2021-05-19T18:40:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/19/biden-extolls-global-role-coast-guard-grads/5167994001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/19/biden-extolls-global-role-coast-guard-grads/5167994001/"
+title: "Biden to tap Homendy to head NTSB, White House confirms"
+excerpt: "The White House confirmed on Wednesday that President Joe Biden plans to nominate Jennifer Homendy to chair the National Transportation Safety Board (NTSB)."
+publishedDateTime: 2021-05-20T02:38:00Z
+originalUrl: "https://www.reuters.com/article/idUSL2N2N630R"
+webUrl: "https://www.reuters.com/article/idUSL2N2N630R"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N630R"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N630R"
 type: article
 quality: 105
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f2bcc064-d462-4c4b-9148-e518fae4c884_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "Supreme Court could cut into Biden agenda: The Note"
@@ -61,17 +57,20 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Biden to tap Homendy to head NTSB, White House confirms"
-    excerpt: "The White House confirmed on Wednesday that President Joe Biden plans to nominate Jennifer Homendy to chair the National Transportation Safety Board (NTSB)."
-    publishedDateTime: 2021-05-20T02:38:00Z
-    webUrl: "https://www.reuters.com/article/idUSL2N2N630R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N630R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N630R"
+  - title: "Biden extolls global role to Coast Guard grads"
+    excerpt: "President Joe Biden delivers his first commencement address as commander-in-chief, stressing the vital role new graduates at the Coast Guard Academy will have as the United States reasserts itself on the world stage."
+    publishedDateTime: 2021-05-19T18:40:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/19/biden-extolls-global-role-coast-guard-grads/5167994001/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: USA Today
+      domain: usatoday.com
     quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f2bcc064-d462-4c4b-9148-e518fae4c884_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "President Joe Biden Departs White House for Connecticut"
     excerpt: "US President Joe Biden walks on the ellipse to board Marine One at the White House in Washington, DC on Wednesday, May 19, 2021. President Joe Biden Departs White House for Connecticut for the US Coast Guards 140th commencement."
     publishedDateTime: 2021-05-19T13:31:00Z
@@ -87,6 +86,6 @@ related:
         height: 433
         isCached: true
 
-secured: "Hr5tYbRvllydIGD7OUIfSFrBRN93HN8TZgtVI9cCeCWSwjsxxU0z7Cg8R024EdrT1ngWe3NUI0lsX2l3nh5kt1L41ZX+SNLtLQlnOREqkJjXQFEdzNEL3Z8xL4sBjf/fVFEgQD4spYhftMOC+xCvKW5D73h/g/8OQ2uTpbM6UDSevuPvR9fMR2twPvEOMCBxcLud+/BctctvSxLaxV1u5sOZkjczFagoph8jo1sZO3EgxyipVYpN5TXtYF5QIzOZ6k098vlFXvlvYm/ExkwUS6peRF1ZW0yEr7LAz6RpzFaqBeurcRRn5FrN2SXbMwP7yxqOe5eq4BBh8gH6uHQ9USMywFdBG7Rffm+XCltLmoc=;utM9knhGsDQU/Wncr0aIHg=="
+secured: "5RT5rw1cRIsBwnJKKcCkKmEfmzqp01o8PmT4xebbqJXEn2/5zuY5YLj9WFTq0N+EcLmX/WUs88m0dolrkBGAnoE6EePPANixcs5XqODcJS4WqomETNhFels/PPXKe6uOV/+1wYCfA088x9YYFKnlAU9igK+AnAX3ficbaKzjwihAbde58yN6FwAG3ZXB/STNy8Auen0MhRktXb9If2y8gONl9TJbZQpSCGptNp2S2j3QBn9NlkKcXEU9h8g6XvlGlS1VC5+ncrxxNQcly8gBFbMaPbh2qs90dC51lOj2bIhT9IPyBewRAfGTjZTGl4KU7cVKcU6x7quILONYQU0LuV9zwly3/ctHEGABLbMfFeE=;eDIPgn4i41kb5YvcP1dNEg=="
 ---
 

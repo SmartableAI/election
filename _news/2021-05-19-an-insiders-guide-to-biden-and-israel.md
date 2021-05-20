@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to sign bill aimed at addressing rise in anti-Asian hate crimes"
+    excerpt: "President Joe Biden is scheduled to sign a bill into law on Thursday that's aimed at countering a rise in anti-Asian hate crimes that's come during the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-05-20T15:48:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eKvEMYlAD04/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/20/politics/biden-anti-asian-hate-crimes-covid-19-signing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/20/politics/biden-anti-asian-hate-crimes-covid-19-signing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210513132103-02-biden-colonial-pipeline-remarks-0513-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "tk0eg76qoAq3MZLWsjNHu+1GUx/dAojmippKK76609hpO3UzUNrmI3OVppQuv5Vg2EEs5tUNPrAOMoFWSk+2iTZDpp3K+/zvRqiNEAggF4oWW+ybMxQ4TE50nluTQ3CQHRpVnZ20L+NclWoDk7+AoWWrtTqn7GLgYs8KaBm8EkC+bN/GhNNXIMxBgxoFUoOYVSGRnorcKU39Kkqz/LR5yecQzyNdUaXqBrHikgdj4fdIuv8pgK2Xnqe1I59wdPoFqh1Rlau1bbKGKLaL0HPbWTw+FqsxoZ2MK++i8r9VMF6k+TdZcsfRa63xO0kmcPjktXqQ1JQI373UtSUh25sBhGxjsj6mgaTX/WdVtJuE/s8=;//++Xg2c2aYkyJ0XYXYSaw=="
 ---

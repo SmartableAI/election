@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden expresses support for ceasefire on call with Netanyahu – live"
 excerpt: "White House reported the US president urged Israel ‘to make every effort to ensure the protection of innocent civilians’"
-publishedDateTime: 2021-05-17T21:30:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live?page=with:block-60a2d9548f08e659a47e8420"
-webUrl: "https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live?page=with:block-60a2d9548f08e659a47e8420"
+publishedDateTime: 2021-05-17T22:02:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live?page=with:block-60a2e4f08f08e659a47e849f"
+webUrl: "https://www.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live?page=with:block-60a2e4f08f08e659a47e849f"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/17/joe-biden-covid-relief-bill-child-tax-credit-benefits-liz-cheney-latest-news-live"
 type: article
@@ -126,6 +126,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "ihaRzHTg+peyUxpXYqAjKEi5C5a9i+tneESYuu1bQX3csZBfSYLEJuBGwjUrkucZSXSXm1VG2d0fPmAI4zamwoSaQkNKKkQDP5VJZbi+8nlMZ7NSDwGDVxH4kfwq7fYGkQgio5sCr4G/2TTytEkTGU3TfQODGqAgz37vPd3ZMVtoFNSbUP80bKWALX7ENWlx4n5kJJTWkyHo7TscAUOj5kIvOTpAQdwf9SfTeJB9BRbOtaP2oS39m7jouc9keXKgpw5nL/Xpg4ys1tyZoleevXNMePRxc3kA0HXE5xGJ0F1c8YJPBfoovTAz9DqL/wilBCwjA2yNmmkWHtdo0bTrLlpnIgiJn+1SpNJUdQZTzx2A9iBUTsXUgjbQhcxT+UddtfT9CjdiolU57rbY0vR5FZpQbYR3pVGw9FMhjsqGs+zfkavormCZA185Ra6LOq9lhVEXVtqsmV6TE1uvxY0WnHVqfl2MU9ZO2IY0gJNa337FJcbFdIHI9aqqigsE2GYkcXr+dfSMxkGnQA/wICFGQw==;aXJwHTEFf7bEtcBnLJiLVw=="
+secured: "SdTuBTy43PQyu6e1dFxk9zPUx0zKaXtkcfUrU6h4fcaBxXnVtH5U/O9LD2cYFevzf4/1IvKbrvEfm+BM/1S60WzDisuU/EiVzQssJWNJ6rMO0hOIiA5hKBan2WbVUiFHdWTUf8o02Zbc3RVsrBU+WJhOzH5/9MZNSXjphfkexyH9jiOaja/y8wXEDUu1j8ta+DNRXyVOvZIXAI0UQDJxR482fe+W0iRaHH6mqy41apVNFU0kfMYdI/UsNbOaz+Uq+wRrfFf6ca2vY8kIKJvZeCsJ055DOBy5Zz4pMaCZxGB8EZVQrBiz2X3FH2WIEaAL4Zkc+wX9e7+CXh9Jb7Q0siIEtSyhZuw1za7FHKL/qvE=;4hOJJSEHsBChkdlKzlC3hg=="
 ---
 

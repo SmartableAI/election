@@ -63,6 +63,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Senate panel advances Biden pick as WH science adviser"
+    excerpt: "The Senate Commerce Committee has approved President Joe Biden’s nomination of Eric Lander to be chief science adviser"
+    publishedDateTime: 2021-05-20T16:59:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/senate-panel-advances-biden-pick-wh-science-adviser-77806622"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/senate-panel-advances-biden-pick-wh-science-adviser-77806622"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/senate-panel-advances-biden-pick-wh-science-adviser-77806622"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_c1de04df1cbb4d7f8db33d6ae605f051_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Greg Pence, Mike Pence's Brother, Votes Against Jan. 6 Commission, Calls It 'Cover-up for Failed Biden Admin'"
+    excerpt: "Greg Pence is defending his House vote against a commission to investigate the violent attack on the Capitol that forced his brother into a secured location, calling it a \"coverup for the failed Biden administration."
+    publishedDateTime: 2021-05-20T17:42:00Z
+    webUrl: "https://www.newsweek.com/greg-pence-mike-pences-brother-votes-against-jan-6-commission-calls-it-cover-failed-biden-1593377"
+    ampWebUrl: "https://www.newsweek.com/greg-pence-mike-pences-brother-votes-against-jan-6-commission-calls-it-cover-failed-biden-1593377?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/greg-pence-mike-pences-brother-votes-against-jan-6-commission-calls-it-cover-failed-biden-1593377?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1802221/greg-pence-wasnt-worried-about-vp-brother.jpg"
+        width: 3500
+        height: 2333
+        isCached: true
   - title: "Idaho governor signs bill to halt Biden moves on gun laws"
     excerpt: "Idaho Gov. Brad Little has signed legislation aimed at thwarting a half-dozen executive actions taken by President Joe Biden to combat gun violence"
     publishedDateTime: 2021-05-11T21:18:00Z

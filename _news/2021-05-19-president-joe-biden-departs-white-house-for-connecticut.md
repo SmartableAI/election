@@ -71,6 +71,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden to tap Homendy to head NTSB, White House confirms"
+    excerpt: "The White House confirmed on Wednesday that President Joe Biden plans to nominate Jennifer Homendy to chair the National Transportation Safety Board (NTSB)."
+    publishedDateTime: 2021-05-20T02:38:00Z
+    webUrl: "https://www.reuters.com/article/idUSL2N2N630R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2N630R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2N630R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
 
 secured: "dkCFqDLsYy+KTdHK08/C6WEhKvuyX509Nd+bB9rspKQBxiK0C7crfFCD6HUJ15gI8KWZBmKiRBRr3lhfVKF3dMUlVssRBrl9iyYO6wcdkXlSAM57mJ6H/Oi6taKool9WZx1/zGMGUTLwdSjGQaDoyjgpmjiEEIkjOo1C30Njx9hGVUjhixeP0Y3a2BXKcbMP9SbLa0yGIGLAfcJf7dov1vAdshH/X54TlL1VG1WoOjwSIHVERzHz60GNAa5hxeELT3oC6OCAHFdASnKXecw2UmiFCfsho7tbwfSX0eLhbmAK6YIXSpTAvFQOUJ2F5UNYKQwoLPMJ+zzFppomco2+f+ylUX7EHI2QqaVUFqqcV70=;JEmewmYREr6dR2gSIVoYWw=="
 ---
