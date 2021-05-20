@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe-1592167?amp=1"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Technology/WireAP_c1de04df1cbb4d7f8db33d6ae605f051_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "GOP not budging on infrastructure offer in Biden talks"
+    excerpt: "Senate Republicans have not substantially budged off their initial $568 billion infrastructure proposal despite overtures from the White House to work toward a compromise as President Joe Biden tries to strike a bipartisan agreement on his sweeping $2."
+    publishedDateTime: 2021-05-20T19:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-budging-infrastructure-offer-biden-talks-77810009"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-budging-infrastructure-offer-biden-talks-77810009"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-budging-infrastructure-offer-biden-talks-77810009"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8d0f0fa182ac48f68b1a71c00a34181a_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

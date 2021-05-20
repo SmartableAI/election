@@ -221,6 +221,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris, not Biden, called king of Jordan to discuss Gaza ceasefire"
+    excerpt: "Vice President Kamala Harris on Thursday spoke to Jordanian King Abdullah II on behalf of President Biden to brief him on US efforts to support a ceasefire in the Israel-Hamas conflict. Biden has not spoken with the Arab nation’s leader since Hamas began firing rockets last week from Gaza into Israel following clashes in Jerusalem."
+    publishedDateTime: 2021-05-20T21:40:00Z
+    webUrl: "https://nypost.com/2021/05/20/kamala-harris-called-king-of-jordan-to-discuss-gaza-ceasefire/"
+    ampWebUrl: "https://nypost.com/2021/05/20/kamala-harris-called-king-of-jordan-to-discuss-gaza-ceasefire/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/20/kamala-harris-called-king-of-jordan-to-discuss-gaza-ceasefire/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 149
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-jordan.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Lawmakers urge Biden to push Iranian regime on rights abuses, amid bipartisan support for resolution"
     excerpt: "Two lawmakers have written to President Biden urging him to place human rights, and holding human rights abusers accountable, at the center of his Iran policy -- just as a resolution backing a secular and democratic Iran has picked up majority support in the House."
     publishedDateTime: 2021-04-28T22:09:06Z

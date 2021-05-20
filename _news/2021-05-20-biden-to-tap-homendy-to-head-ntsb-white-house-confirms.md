@@ -85,6 +85,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Joe Biden signs COVID-19 Hate Crimes Act - Washington"
+    excerpt: "U.S. President Joe Biden delivers remarks next to Vice President Kamala Harris before signing the COVID-19 Hate Crimes Act into law in the East Room at the White House in Washington on Thursday, May 20,"
+    publishedDateTime: 2021-05-20T20:17:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/576174ddc77e70bd3a67c8f5aef79c60/Joe-Biden-signs-COVID-19-Hate-Crimes-Act-Washington/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/576174ddc77e70bd3a67c8f5aef79c60/hate-crimes.jpg"
+        width: 650
+        height: 897
+        isCached: true
 
 secured: "5RT5rw1cRIsBwnJKKcCkKmEfmzqp01o8PmT4xebbqJXEn2/5zuY5YLj9WFTq0N+EcLmX/WUs88m0dolrkBGAnoE6EePPANixcs5XqODcJS4WqomETNhFels/PPXKe6uOV/+1wYCfA088x9YYFKnlAU9igK+AnAX3ficbaKzjwihAbde58yN6FwAG3ZXB/STNy8Auen0MhRktXb9If2y8gONl9TJbZQpSCGptNp2S2j3QBn9NlkKcXEU9h8g6XvlGlS1VC5+ncrxxNQcly8gBFbMaPbh2qs90dC51lOj2bIhT9IPyBewRAfGTjZTGl4KU7cVKcU6x7quILONYQU0LuV9zwly3/ctHEGABLbMfFeE=;eDIPgn4i41kb5YvcP1dNEg=="
 ---

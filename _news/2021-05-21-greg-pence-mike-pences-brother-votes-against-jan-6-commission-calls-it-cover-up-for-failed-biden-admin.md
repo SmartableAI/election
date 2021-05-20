@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "GOP not budging on infrastructure offer in Biden talks"
+    excerpt: "Senate Republicans have not substantially budged off their initial $568 billion infrastructure proposal despite overtures from the White House to work toward a compromise as President Joe Biden tries to strike a bipartisan agreement on his sweeping $2."
+    publishedDateTime: 2021-05-20T19:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-budging-infrastructure-offer-biden-talks-77810009"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-budging-infrastructure-offer-biden-talks-77810009"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-budging-infrastructure-offer-biden-talks-77810009"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8d0f0fa182ac48f68b1a71c00a34181a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Idaho governor signs bill to halt Biden moves on gun laws"
     excerpt: "Idaho Gov. Brad Little has signed legislation aimed at thwarting a half-dozen executive actions taken by President Joe Biden to combat gun violence"
     publishedDateTime: 2021-05-11T21:18:00Z

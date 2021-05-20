@@ -156,7 +156,23 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "UN urges Biden to end Title 42 restrictions that allow for migrant removals due to COVID-19 risk"
+    excerpt: "The United Nations is urging the Biden administration to “swiftly” end the Title 42 public health restrictions, which were implemented during the Trump administration in the early days of the COVID-19 pandemic -- and allow for the quick expulsion of migrants who come to the border."
+    publishedDateTime: 2021-05-20T21:01:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CkjyQp_KAqY/un-biden-title-42-restrictions-migrant-removals-covid-19-risk"
+    ampWebUrl: "https://www.foxnews.com/politics/un-biden-title-42-restrictions-migrant-removals-covid-19-risk.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/un-biden-title-42-restrictions-migrant-removals-covid-19-risk.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa1ca34f-9f74-46db-9bd5-5042c0171f84/2e33b16e-fa1c-4635-b692-498696848406/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
-secured: "faN9VEgnSp7/5/wLzXhduUFtw9KDGwHcToknu67SvIEi/tptu2vt45hMusvGW4u9VbD910wUFS+qz+1znvsbEJ+9rOly8Go3InlOiIoZMVRIypnZ+tuTXzzYY9dyeE/3fRqlT6ta25nLK7UQzjv1tKln/leLWpSlQFVr+V5qIDyB9ST7ks+QNylw3Vdqqk+VfaS60zDe4ZKYCxMdg2SxnpkwQAu2IcL9TvQ2txhlRIy/mjyFPOKiR6CO1Qg8CQ3BWYOMCocTbuhJrsgpZYPUESmNQDKFxb62BjXG6/FnSEnqBr3Pf4lDk9jEykPz2zb3dwCrfcxD1G5gSI3i8Oiq0ywx872pD/O9grDYnqvcNks=;u3VCrwWQcE9GM+rV77guOw=="
+secured: "yHg/Qg2+m+QBHmRhGpNipupL7Ao+dp40G+Js6PaJxKf1agnoeU8UAi3WgLryOIPr8+15Q+ri3uKqF1KNaOvIGkPAYXGiQxtfVRs/pxJ/hZV1FEcANoDpTpNRKblXXou3AKKxyKg/Iw9yjU8pDD+AVLKJIKKs2R2N1CFK1zLFbfwcDGvCwtFHapIKU//LxrStLcWqmDCH8bD+5bbszydEcFpEt1+fXjbZGJEq+xyEzw/fsJPu+cnb6MDC/oXoNKTQSwRmx/9OqABP90G0JNNLUhzJFH3No3FLH0SBWgxiFf+sJf4NrXVQi0XJmS4I/FSv9IITxFri/EN1s3hAdeIqmFRM7MvbF9TD7YNkYm8abg4opl+oZdeGCcvxn0A3jcdYkb27qK5dJCF34NhKHbFGvo5bnU7NIyR5aQddoVEapTBUpIzUsp+YVruFF/NCFBDe5vIGjiS9/s1kU3tA5sQu4R4Whok6rbfT8keWOeM+cKhnWAbjaFVOPeBaAaj8czu4yf0zR7b4xUtDV242ma0gMA==;KyiVRpW/lF/PnuSsVtasDA=="
 ---
 

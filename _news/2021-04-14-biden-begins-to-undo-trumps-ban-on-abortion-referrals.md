@@ -1612,6 +1612,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Eric Trump’s Pants on Fire claim that Joe Biden’s White House doesn’t travel"
+    excerpt: "President Joe Biden steps off Air Force One to board Marine One at Andrews Air Force Base, Md., on May 19, 2021, for a trip back to the White House after speaking at the commencement for the U.S. Coast Guard Academy in New London,"
+    publishedDateTime: 2021-05-20T20:26:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/may/20/eric-trump/eric-trumps-pants-fire-claim-joe-bidens-white-hous/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 67
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/tom_ruling_pof.png"
+        width: 667
+        height: 596
+        isCached: true
   - title: "After blowback, White House says Biden will move to lift Trump-era refugee caps"
     excerpt: "The White House on Friday said President Biden plans to lift his predecessor’s historically low cap on refugees by next month, after initially moving only to expand the eligibility criteria for resettlements."
     publishedDateTime: 2021-04-16T21:45:00Z

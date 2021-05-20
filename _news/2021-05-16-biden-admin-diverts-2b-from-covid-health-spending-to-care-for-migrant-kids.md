@@ -143,6 +143,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "UN urges Biden to end Title 42 restrictions that allow for migrant removals due to COVID-19 risk"
+    excerpt: "The United Nations is urging the Biden administration to “swiftly” end the Title 42 public health restrictions, which were implemented during the Trump administration in the early days of the COVID-19 pandemic -- and allow for the quick expulsion of migrants who come to the border."
+    publishedDateTime: 2021-05-20T21:01:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CkjyQp_KAqY/un-biden-title-42-restrictions-migrant-removals-covid-19-risk"
+    ampWebUrl: "https://www.foxnews.com/politics/un-biden-title-42-restrictions-migrant-removals-covid-19-risk.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/un-biden-title-42-restrictions-migrant-removals-covid-19-risk.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa1ca34f-9f74-46db-9bd5-5042c0171f84/2e33b16e-fa1c-4635-b692-498696848406/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden Signs COVID-19 Hate Crimes Act: \"Silence Is Complicity\""
     excerpt: "President Biden is set to sign the COVID-19 Hate Crimes Act into law at 2:00 pm on Thursday. President Biden and Vice President Harris will deliver remarks from the East Room at the White House."
     publishedDateTime: 2021-05-20T18:53:00Z
