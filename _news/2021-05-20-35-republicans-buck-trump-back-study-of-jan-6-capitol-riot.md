@@ -2,21 +2,21 @@
 category: news
 title: "35 Republicans buck Trump, back study of Jan. 6 Capitol riot"
 excerpt: "Thirty-five House Republicans have joined Democrats and voted to create a bipartisan commission to investigate the Jan. 6 attack on the Capitol"
-publishedDateTime: 2021-05-20T03:14:00Z
-originalUrl: "https://www.washingtonpost.com/politics/35-republicans-buck-trump-back-study-of-jan-6-capitol-riot/2021/05/20/d2881e3c-b921-11eb-bc4a-62849cf6cca9_story.html"
-webUrl: "https://www.washingtonpost.com/politics/35-republicans-buck-trump-back-study-of-jan-6-capitol-riot/2021/05/20/d2881e3c-b921-11eb-bc4a-62849cf6cca9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/35-republicans-buck-trump-back-study-of-jan-6-capitol-riot/2021/05/20/d2881e3c-b921-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/35-republicans-buck-trump-back-study-of-jan-6-capitol-riot/2021/05/20/d2881e3c-b921-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+publishedDateTime: 2021-05-20T02:23:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/35-republicans-buck-trump-back-study-jan-capitol-77790107"
+webUrl: "https://abcnews.go.com/Politics/wireStory/35-republicans-buck-trump-back-study-jan-capitol-77790107"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/35-republicans-buck-trump-back-study-jan-capitol-77790107"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/35-republicans-buck-trump-back-study-jan-capitol-77790107"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FM3BRCVY6YI6XPCKMKCJZ5WMVE.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/WireAP_f6aa2135e4b74efead80beaf4d48841e_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -670,6 +670,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "uZQmSnW/HmJeSAn6S4NME4WtHyrhtYPvrxaw8O1en5fyCb7jErd6GbSZUhsDcEDXLGXiufg8GIIBsum/arOQZGs1SmiWYB+HAokhrgzqQwum2g2IOhgZcN2oaAUwbFgYI+5xadSUPvNPpSda3d5M86ocnVdVUqn2XuAoPbD7rN/+hd7zC9ebEBm9h4gS6o/vo89mzf4+27oafB9+J5PulJiXsgyxC4VZYY8PxAxP1+eCY7omVa1f3D3w5OzYLqCxQ+i+xxiQuC5KhhGHHpkRAXB5XcYRmzwznvB8af5cHNERQQap63O8ZEOVly3VvLa17yhQhLZ/Ejgp9+J7Dd2DAA7pdolKGE1Fy8C0a4mbLgxh65l1c0mJSojN08l+xRkyr5rJh9rCT6VjK++SMCwaKvljAoQVVeEVz2ObdFVag6abfci9mVAW2nphaWfNrbBvviI4TH1Z0QQRFam1Mjck1wnuGT9KigEGSd/GVndhzK7fKO/5wXOyX8fvvIEvom+qbAH2dIITf6ESKm/S/5YTWA==;5+Kps54tw1FbY06jXolbeg=="
+secured: "IuICf91rbI7iB55bJgxtfVfL1Ngg5WB7r1Ta3JdNvoPEbtBGilqLiWwOwdZq1idNIUFrQGs7ZDlNkNMAXI0SAjlJcFYUutoAmcm6WdMSaPuOqz5PWdxRy8EfiWcWU7Y5wuSodU4oT+mOXN+HCowlf1N2VGO1CBxNAwRqPRysT63ALB08L2+x/+vn8LqmHbQRioJpgZJHPMruPOtOw31LcHzsah++mQhFRpnbuFncw6AGhrdUhLou8RuDKTVd2dxiphZPHsIgGlJ4LpsNN8s89kmhO5df+WYWJ502SsTsW5NuXNdNcWekRV5IWH0zZczp2N5IFEyhwZ2jNTv1LX5RlwE+4NBDNPhlSRHUd9nf/Fs=;iZ5HD6FocLiIp8gP7D3OQw=="
 ---
 

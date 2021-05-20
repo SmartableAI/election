@@ -7,8 +7,8 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2021/05/12/harris-unit
 webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/12/harris-united-asian-americans-against-hate/5047406001/"
 type: article
 quality: 105
-heat: -1
-published: false
+heat: 145
+published: true
 
 provider:
   name: USA Today
@@ -29,54 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "First lady, Vice President Harris highlight different paths to motherhood"
-    excerpt: "Kamala Harris’ childhood friends share memories about presidential hopeful With families around the country preparing to celebrate Mother’s Day on Sunday, first lady Jill Biden and Vice President Kamala Harris are putting a new national spotlight on less traditional types of motherhood."
-    publishedDateTime: 2021-05-08T19:44:00Z
-    webUrl: "https://abcnews.go.com/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/Politics/mothers-day-kamala-harris-jill-biden-09-gty-llr-210508_1620502085825_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Kamala Harris blasts how workers lose $200 billion a year from the anti-union trend in the US economy"
-    excerpt: "At the first meeting of the White House task force on worker organizing, the vice president ripped into the wages lost from America's lack of unions."
-    publishedDateTime: 2021-05-14T11:50:00Z
-    webUrl: "https://www.businessinsider.com/kamala-harris-union-task-force-white-house-200-billion-wages-2021-5"
-    ampWebUrl: "https://www.businessinsider.com/kamala-harris-union-task-force-white-house-200-billion-wages-2021-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-union-task-force-white-house-200-billion-wages-2021-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/601abcf001504a00197fb5b7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Arizona AG calls for Harris ouster as 'border czar'"
-    excerpt: "Vice President Kamala Harris must be removed from her role in dealing with the border surge, Arizona Attorney General Mark Brnovich said in a letter this week to President Biden, saying his running mate has blown her chance to fix things."
-    publishedDateTime: 2021-05-13T13:35:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/may/13/arizona-ag-calls-harris-ouster-border-czar/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/13/arizona-ag-calls-harris-ouster-border-czar/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/13/arizona-ag-calls-harris-ouster-border-czar/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/07/US_Mexico_Harris_Obrador_27987.jpg-ac6ed_c0-0-5527-3224_s1200x700.jpg?3598ffbb02b4836c4f9da67f95c650e0d52b03d3"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Kamala Harris said corruption costs as much as 5% of the world's GDP. That stat is questionable"
     excerpt: "For more than a decade, an interesting statistic about the cost of corruption has been bouncing around the global-economics community, showing up in statements and reports from or"
     publishedDateTime: 2021-05-09T08:51:00Z
@@ -100,15 +52,6 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 31
-  - title: "Vice President Harris Holds Inaugural Meeting of Worker Organizing and Empowerment Task Force"
-    excerpt: "Vice President Kamala Harris delivers remarks during the Inaugural Meeting of the Worker Organizing and Empowerment Task Force at the Vice Presidents Ceremonial Office on Thursday, May 13, 2021. The Task Force was formed to mobilize the federal government's policies and programs to provide workers in the private sector as well as federal,"
-    publishedDateTime: 2021-05-15T19:49:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/71eb83eb07d5af9bf835e1bf236e01fe/Vice-President-Harris-Holds-Inaugural-Meeting-of-Worker-Organizing-and-Empowerment-Task-Force/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 24
 
 secured: "aFnMK4ij2Frp9uVpNJxwgeFPcJ/2SdEMa2O3nF5y8uHXvDoENSOlB8BmCInvfl6a+2VsB92fi0X9fSTX+X2Puzw/KqiOQBTPq0v38ruQz9FHbLTf2ptRehobJq9eZj5IcfcOqSgVLLFt2YRtJxLqbHYEBpSyxL5xHP0pdfdxeiOjgxAuAnxv1kK988FVagPWAfsnKItTfGU7Cpp2TWhCUcXocWF9lvTEB6dfRxaitQixiQpIRf4nac2k1LtfqdYMfMSQv2KF1eweyUpx12HBBOWTW0mZl6DYktg5OPFGjNhiyLesE8ICG7qf7mCih4ZzHT4MT17RzLuy5s4lEvqewxSwInO2glWUca3WwdVp+mk=;HG6872fqozTByl7JXeZmew=="
 ---

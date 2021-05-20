@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Arizona AG calls for Harris to be removed from border role amid continued high migrant numbers"
-excerpt: "Arizona Attorney General Mark Brnovich is calling for Vice President Kamala Harris to be replaced in her role spearheading the administration’s diplomatic efforts to end the crisis at the southern border -- a day after Customs and Border Protection (CBP) announced that the number of migrant encounters had again risen."
-publishedDateTime: 2021-05-12T19:19:00Z
-originalUrl: "https://www.foxnews.com/politics/arizona-ag-harris-removed-border-role-migrant-numbers"
-webUrl: "https://www.foxnews.com/politics/arizona-ag-harris-removed-border-role-migrant-numbers"
+title: "Rep. Hinson to introduce bill halting funding for Harris travel costs until she visits border"
+excerpt: "EXCLUSIVE: Rep. Ashley Hinson, R-Iowa, on Thursday will introduce a bill that would bar taxpayer money being used for the travel expenses for Vice President Kamala Harris until she visits the southern border and issues a report on how to solve the crisis."
+publishedDateTime: 2021-05-20T10:00:23Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hYVH_PNiLNY/rep-hinson-bill-kamala-harris-travel-costs-border-visit"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hYVH_PNiLNY/rep-hinson-bill-kamala-harris-travel-costs-border-visit"
+ampWebUrl: "https://www.foxnews.com/politics/rep-hinson-bill-kamala-harris-travel-costs-border-visit.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-hinson-bill-kamala-harris-travel-costs-border-visit.amp"
 type: article
-quality: 103
+quality: 174
 heat: -1
 published: false
 
@@ -20,13 +22,13 @@ provider:
 
 topics:
   - Election
-  - Kamala Harris
   - Republican Voice
+  - Kamala Harris
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da9af38d-1e6c-4869-84ed-81658747abfe/b3315e7a-cfe1-432e-82e1-3f80bb618afd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -75,22 +77,6 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de3a1e91-b0da-44c6-9238-915f4385cf4b/6d6c657b-0a98-4c5d-b6af-d33cd0ebeecc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Rep. Hinson to introduce bill halting funding for Harris travel costs until she visits border"
-    excerpt: "EXCLUSIVE: Rep. Ashley Hinson, R-Iowa, on Thursday will introduce a bill that would bar taxpayer money being used for the travel expenses for Vice President Kamala Harris until she visits the southern border and issues a report on how to solve the crisis."
-    publishedDateTime: 2021-05-20T10:00:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hYVH_PNiLNY/rep-hinson-bill-kamala-harris-travel-costs-border-visit"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-hinson-bill-kamala-harris-travel-costs-border-visit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-hinson-bill-kamala-harris-travel-costs-border-visit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da9af38d-1e6c-4869-84ed-81658747abfe/b3315e7a-cfe1-432e-82e1-3f80bb618afd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -252,6 +238,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Arizona AG calls for Harris to be removed from border role amid continued high migrant numbers"
+    excerpt: "Arizona Attorney General Mark Brnovich is calling for Vice President Kamala Harris to be replaced in her role spearheading the administration’s diplomatic efforts to end the crisis at the southern border -- a day after Customs and Border Protection (CBP) announced that the number of migrant encounters had again risen."
+    publishedDateTime: 2021-05-12T19:19:00Z
+    webUrl: "https://www.foxnews.com/politics/arizona-ag-harris-removed-border-role-migrant-numbers"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 103
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aeb332b-ba8a-4e23-947b-7c1d35cd3c23/21a81c5c-8dda-4755-89e9-e4d6014ccb5b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris: Looking At How We Can Address The Root Causes Of Migration Is \"One Of My Areas Of Focus\""
     excerpt: "Vice President Kamala Harris met with leaders of the Congressional Hispanic Caucus Monday afternoon to discuss the \"root causes\" of migration. \"We are going to talk about and work together — and again,"
     publishedDateTime: 2021-05-17T00:00:00Z
@@ -283,6 +283,6 @@ related:
         height: 500
         isCached: true
 
-secured: "kuxSy1KPC7WaK/kMICwiHNZdLiDh6wVwwIbiLAiL/MrRJ1hwe1JpA2qMFMwPoxaM8QHzCzMSVhvygEXEjo3jPcZb2UI4BBS28dpU7/J6juI+dsS83msMFMrTYGJ9sZrtrDFbPgjYeQRLHx91ZB92NfKsnHFi89mvFVlIBEzcHEL88uYjo7F92Z9Euxuz/nYe0k30rZmtcnA9EuJuLQWxQ7flW2//0N42qj9DLQh1g+pqZl6DDhbMzyIwaOehCuABohxx/4Ljq23ffTY4Mnl+/mW9+4fEtPAAGpTzoV7ogUPFejxmXBV3v1RYrCAn2Uk6A3tcCHB4VsNo6aPlXpYXzzl9CLtLPo8jLwy3QpoipGkkrF68iYT+mOESHMbqai4ws4/V2NxrJ8ZnPUsdJEnVq9wbjgO9XtAA0T5KfoULCLNKRDWQMtan6IyKDr9tpTADBdED0C0wkh5S8XVb0BtSW685/Y2oi7poUPbTqChsST49YlXCXjZwsKbpfE/BSITO1S9F2kfVrFKEfDZWf7nCPg==;jI/THwChjOeiIxX6YZhnjg=="
+secured: "FpvlPxGv4IhBRTF+86Gf1onrUZr+Jz29bbHNru7mMTm6jbqyqJeOozeG2lYGIcKJqcQmS+ZOT/CR+iGpGjg9sUj03Pye6ljBbNSpBtpwI40qswl8JFLgXOB/ZUNg5WbMaC/80GX3vibluSvhH1YCDzucPtOzuT1AzcgBXuWPwMTQqZ0ODorQM0EgYuJ1Fym2ZHUMJW3Dq3KADwDKlBZzuhLQLV/mnSXw0HIq7Anp6RMCFNMBTYlJMZBr9rQQ7Ozgc/RrNXIze5m6cR6qb45CYc+HF28xR7btmVL40TrmBC0p162iShzKO1mceJrmZVwUUJmGffOp9gSAYxkwQWDPItwjYKKm1U7wFZ6c6tKdl0U=;hnF3MPnuueLigYw31R3JXA=="
 ---
 

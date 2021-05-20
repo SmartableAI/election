@@ -1,46 +1,36 @@
 ---
 category: news
-title: "Harris County to lower COVID threat level, KHOU 11 confirms"
-excerpt: "Harris County has spent a majority of this pandemic in the red threat level, but that is expected to change on Tuesday."
-publishedDateTime: 2021-05-18T03:09:00Z
-originalUrl: "https://www.khou.com/video/news/local/video/harris-county-to-lower-covid-threat-level-khou-11-confirms/285-28843615-0a37-42f6-a400-817d4f0b5032"
-webUrl: "https://www.khou.com/video/news/local/video/harris-county-to-lower-covid-threat-level-khou-11-confirms/285-28843615-0a37-42f6-a400-817d4f0b5032"
+title: "Kamala Harris grapples with unique challenges as vice president"
+excerpt: "Four months into her time as vice president, Kamala Harris Kamala Harris Biden was blindsided by Harris's attack in 2019 debate: book Stacey Abrams on not being Biden's VP: 'He picked the right person' House sends anti-Asian hate bill to Biden's desk MORE is still finding her footing in the role."
+publishedDateTime: 2021-05-20T10:00:00Z
+originalUrl: "https://thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president"
+webUrl: "https://thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president"
+ampWebUrl: "https://thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president?amp"
 type: article
-quality: 55
-heat: -1
-published: false
+quality: 125
+heat: 505
+published: true
 
 provider:
-  name: KHOU 11
-  domain: khou.com
+  name: The Hill
+  domain: thehill.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://media.khou.com/assets/KHOU/images/226da1c8-2490-44c6-8bf8-b5d355bf9a99/226da1c8-2490-44c6-8bf8-b5d355bf9a99_1140x641.jpg"
-    width: 1140
-    height: 641
+  - url: "https://thehill.com/sites/default/files/harriskamala_051721getty_harris.jpg"
+    width: 980
+    height: 580
     isCached: true
 
 related:
-  - title: "Kamala Harris grapples with unique challenges as vice president"
-    excerpt: "Four months into her time as vice president, Kamala Harris Kamala Harris Biden was blindsided by Harris's attack in 2019 debate: book Stacey Abrams on not being Biden's VP: 'He picked the right person' House sends anti-Asian hate bill to Biden's desk MORE is still finding her footing in the role."
-    publishedDateTime: 2021-05-20T10:00:00Z
-    webUrl: "https://thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president"
-    ampWebUrl: "https://thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/554443-kamala-harris-grapples-with-unique-challenges-as-vice-president?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/harriskamala_051721getty_harris.jpg"
-        width: 980
-        height: 580
-        isCached: true
   - title: "First lady, Vice President Harris highlight different paths to motherhood"
     excerpt: "Kamala Harris’ childhood friends share memories about presidential hopeful With families around the country preparing to celebrate Mother’s Day on Sunday, first lady Jill Biden and Vice President Kamala Harris are putting a new national spotlight on less traditional types of motherhood."
     publishedDateTime: 2021-05-08T19:44:00Z
@@ -226,6 +216,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Harris County to lower COVID threat level, KHOU 11 confirms"
+    excerpt: "Harris County has spent a majority of this pandemic in the red threat level, but that is expected to change on Tuesday."
+    publishedDateTime: 2021-05-18T03:09:00Z
+    webUrl: "https://www.khou.com/video/news/local/video/harris-county-to-lower-covid-threat-level-khou-11-confirms/285-28843615-0a37-42f6-a400-817d4f0b5032"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 55
+    images:
+      - url: "https://media.khou.com/assets/KHOU/images/226da1c8-2490-44c6-8bf8-b5d355bf9a99/226da1c8-2490-44c6-8bf8-b5d355bf9a99_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Naval Academy class president Cameron Kinley to present Kamala Harris with gift"
     excerpt: "Midshipman 1st Class Cameron Kinley, who was also the captain for the academy’s football team will present the award, according to a press release from Kinley’s agent."
     publishedDateTime: 2021-05-19T23:42:00Z
@@ -301,6 +305,6 @@ related:
       domain: upi.com
     quality: 24
 
-secured: "71IpZbyv40vmoikocnmbPxgaE51EBBXrGJPJdxTHQVqw6WcOIugreUT68D3FDBo37KtqTExsh9SJ4NtKG4SysbueIt8IZ1tahZDmoa5NmAafcQXjwPnZMyVkJre9tRp9s2FquN5+E0fPRmmUzEAqzYINLrrJSVME+G10JW3X/H7owjvNwk2fS19/VBt4WICkBtpfvizlAO1szUkcxpF8g7QWeFp4E7W78twFgaoaTZpzwf0q5PyUiKd6SDxD3I0LPYkBWNy4oFx4ECjAvN200Dkw6AXQ8I1+ylmQJz2/ePQS9ZT5KD4X+rY5rMeSxj/2JR9Ct0SsRmbW+NP59QReuoUA6wK9Qhgy4qjKKydCIV1yIwjzjgIuX4jD/kMcRe7/AQQ6qDAuQb9LI+kT3iqpWT9SGU2cbe13rkm63cUlEBeHlhpP15C6YuwXow7wfn3A1OnINIMqzAoTcuhF5J1O2hIG0KDUxSRWPY2HKXj2gazC1t63C6YHE/C11wfOEzlEIwobbvj6paUI2CkR1zayFw==;EQBAFIvPOdIQ2IVZXAy2nA=="
+secured: "VuGWU720tFWVYootCCPE4OoGV8fp9ctTt3W1z9r0M7tfvWTSLMMmbx50OAKsf4c8ccSiAnu5HsovALr6dRJvKr/SW+a50xTpiBwCszkhmzmmlH0lcSp2gFQ2CWNJM7p35HLVRsZ4ioxOP7rhUiW9HgR0PYhPdfX+AhrxBI57NVJQbAnk/v5yMpFAzhJSVfqUKiR4RETEdvjw21Rt5r+BgNPr5+7Y9ohDgZpQbeZXlhRhf6/QRBjXZo7Y2ZXbyMF8+mS+4tzAw+96fuhHON6i5JCRmJvhlHnxOX1I07pdRBaTki7IRZfi+9orYznOsii4z1LICaIiHP0nT7WAMCodE6AaS2IPlzVTF3CZNbS7Ecw=;J14uU1BOZcFLwog9Q7DVqQ=="
 ---
 

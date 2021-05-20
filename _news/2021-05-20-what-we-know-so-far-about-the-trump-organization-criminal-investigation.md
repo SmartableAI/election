@@ -287,19 +287,19 @@ related:
         isCached: true
   - title: "35 Republicans buck Trump, back study of Jan. 6 Capitol riot"
     excerpt: "Thirty-five House Republicans have joined Democrats and voted to create a bipartisan commission to investigate the Jan. 6 attack on the Capitol"
-    publishedDateTime: 2021-05-20T03:14:00Z
-    webUrl: "https://www.washingtonpost.com/politics/35-republicans-buck-trump-back-study-of-jan-6-capitol-riot/2021/05/20/d2881e3c-b921-11eb-bc4a-62849cf6cca9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/35-republicans-buck-trump-back-study-of-jan-6-capitol-riot/2021/05/20/d2881e3c-b921-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/35-republicans-buck-trump-back-study-of-jan-6-capitol-riot/2021/05/20/d2881e3c-b921-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+    publishedDateTime: 2021-05-20T02:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/35-republicans-buck-trump-back-study-jan-capitol-77790107"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/35-republicans-buck-trump-back-study-jan-capitol-77790107"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/35-republicans-buck-trump-back-study-jan-capitol-77790107"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FM3BRCVY6YI6XPCKMKCJZ5WMVE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f6aa2135e4b74efead80beaf4d48841e_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "10 Things in Politics: Anti-Trump Republicans threaten spinoff 3rd party"
     excerpt: "And the Colonial pipeline is slowly restarting operations."
