@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Florida GOP eases path for Trump to pursue casino license"
+    excerpt: "A deal negotiated by Gov. Ron DeSantis (R) bars the Seminole Tribe from opposing a casino at the former president’s ailing Doral golf course."
+    publishedDateTime: 2021-05-19T22:14:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/05/19/trump-casino-florida-desantis/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/05/19/trump-casino-florida-desantis/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/05/19/trump-casino-florida-desantis/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WXREBRUZOUI6XDYKGOCM6T5TTE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Key Trump officials face Congress with Capitol riot response under scrutiny"
     excerpt: "Wednesday’s House Oversight Committee hearing marks the first time former acting defense secretary Christopher Miller and former acting attorney general Jeffrey Rosen will speak to lawmakers about their preparations for and response to the attack on Congress."
     publishedDateTime: 2021-05-12T13:18:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/what-trump-obama-clinton-have-said-about-uf
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-trump-obama-clinton-have-said-about-ufos-1592844?amp=1"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘Madman … racist, sexist pig’: new book details Obama’s real thoughts on Trump"
+    excerpt: "The Democratic ex-president was candid in remarks to donors and advisers, according to Battle for the Soul by Edward-Isaac Dovere"
+    publishedDateTime: 2021-05-19T22:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/19/barack-obama-donald-trump-book"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/19/barack-obama-donald-trump-book"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/19/barack-obama-donald-trump-book"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/daa114a092daee0450549f9d613ef71d8ab09e2d/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9586292bfa592deea2efe4bd96ac3ee2"
+        width: 600
+        height: 360
+        isCached: true
   - title: "New polls show Trump and Clinton neck-and-neck"
     excerpt: "New polls show that Democratic candidate Hillary Clinton has lost her double-digit lead in a matchup against GOP presumptive nominee Donald Trump. What does this mean for the November election? CBS News senior political editor Steve Chaggaris and Real Clear Politics national reporter Caitlin Huey-Burns join CBSN to discuss."
     publishedDateTime: 2021-04-17T17:19:00Z

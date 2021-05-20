@@ -45,6 +45,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "‘Madman … racist, sexist pig’: new book details Obama’s real thoughts on Trump"
+    excerpt: "The Democratic ex-president was candid in remarks to donors and advisers, according to Battle for the Soul by Edward-Isaac Dovere"
+    publishedDateTime: 2021-05-19T22:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/19/barack-obama-donald-trump-book"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/19/barack-obama-donald-trump-book"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/19/barack-obama-donald-trump-book"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/daa114a092daee0450549f9d613ef71d8ab09e2d/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9586292bfa592deea2efe4bd96ac3ee2"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "3jFBZYk8uKRyDQ0NlvrlL/eq8KlbEwtT+S5E5sDM1Fky2wFZa5SMraqUUKyNa1Ibvkl5ErB9o/wF6OcK8pXU83i24NufwkHZolc+R+WpPhGxDfVMico9Gq+KTSibH3ASb/s7Bcg+sKoN7BDJMQnUWw0L+WgBxu22RQc66Y1tP1rGze/NcheWjPfbmMLOEorREXb4iXE2aVGemFMf4QEP8FBROxMKvHf6OK1PMXvaniEOXWD38RWJOSEwsoNwZHy5C/hYEzvAiagneffoSkG4xHh9vhqxNM2bkbpXTElttWarQO7r7Td+mRei42CaK1Pf4r9MYBtp9v/KJeEs1Nl/jzU/ixjeVuq33rs98h+TCYv+P5ITrEezfZSm157GANWD/iCPyqGCw2VUwW5bC4/wSv4u+Ci+J7l0wI9h9wcPKFqMztXb7V8TsLLYDdXAngFj/bbMtjEyhIllTo9o1wsm5GLd9jIqIw7gnsHGKb+sPMZGPnF5o0w++gEvgydx8yLo6ZCFGJTE1f6qiObyVOApTw==;MNP8zTdEDpuzuavUw0aaiA=="
 ---

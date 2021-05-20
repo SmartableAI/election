@@ -55,6 +55,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Naval Academy class president Cameron Kinley to present Kamala Harris with gift"
+    excerpt: "Midshipman 1st Class Cameron Kinley, who was also the captain for the academy’s football team will present the award, according to a press release from Kinley’s agent."
+    publishedDateTime: 2021-05-19T23:42:00Z
+    webUrl: "https://www.baltimoresun.com/education/ac-cn-cameron-kinley-naval-academy-20210519-5hznxd4qszax5gst2a6trzrpxe-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 51
+    images:
+      - url: "https://www.baltimoresun.com/resizer/hhQGTEcExdA-YJ7LKpjd8iYpBoU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/O4NDVYIG222SE7OUTGIA2VTZPY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "divTC3iJ1JIaSTaRD/rB67WlcjofutlX7xhlbpaJ/tBgfyvrxhAyL8pmOBw/Fn41oLUErzc/7cd8HGNOaxRc0qkO5Bs4af6xcdz67C5uoFTmcIYdpg6FNmxxPIxw5XdvAsAKuIEF0usUhMIqm6aeBxPcd5rE3yvZajRv+pgfNOm4yDT7YScsRwpBBvVOVGZJPkMdnix87VyXk1teXeL0MaGl05hd2yFGPHCoTO0xS8rjICZCqUMhOFa2CTR4IIun+VhRzOmoIpx9l/8h38J7oipggcDSDaJyeuZTC9/bSOfIfV87He/yq2LsEI86PheloSgDcKRIjcLoLzuxoljcKHo+2L89P4MAjoZKF6LH5pw=;nc6ociGKFAt34T6rcHqAWg=="
 ---
