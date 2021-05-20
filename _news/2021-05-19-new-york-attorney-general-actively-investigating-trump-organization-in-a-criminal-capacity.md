@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/5159082001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5159082001"
 type: article
 quality: 113
-heat: 193
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "New York Attorney General \"investigating the Trump Organization in a criminal capacity\""
+    excerpt: "New York Attorney General Letitia James launched a civil probe into the company in 2019, but that investigation \"is no longer purely civil in nature\""
+    publishedDateTime: 2021-05-19T23:07:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-organization-criminal-investigation-new-york/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-organization-criminal-investigation-new-york/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-organization-criminal-investigation-new-york/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 117
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/19/716aff60-3e3b-4a3e-b9a4-cf5a687cbabb/thumbnail/1200x630/7ebaf3a75f14a065879c2c0f557dd93d/gettyimages-1301295023.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump Organization Faces Criminal Probe In New York State"
     excerpt: "The Trump Organization is being investigated in a \"criminal capacity\", the New York state attorney general's office said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."
     publishedDateTime: 2021-05-19T10:35:00Z

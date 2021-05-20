@@ -778,6 +778,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "Kamala Harris to give 2021 commencement speech in CNN special"
+    excerpt: "CNN will honor the millions of students graduating from high school and college this weekend with a star-studded prime-time special."
+    publishedDateTime: 2021-05-20T00:27:00Z
+    webUrl: "https://thegrio.com/2021/05/19/kamala-harris-commencement-speech-cnn-graduation-special/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 55
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/04/280420211619611627-1-scaled.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Kamala Harris, Blackpink, Simu Liu Among Gold House's 100 Most Impactful Asians"
     excerpt: "A number of politicians, entertainers and athletes were honored in Gold House's new list of the 100 Most Impactful Asians of the Year."
     publishedDateTime: 2021-05-04T10:10:00Z

@@ -41,6 +41,22 @@ related:
         width: 3615
         height: 2410
         isCached: true
+  - title: "Trump Casino In Florida? GOP Lawmakers Clear Way For Gambling License"
+    excerpt: "Eric Trump, son of the former president and the current executive vice president of the Trump Organization, previously suggested that the company had plans to establish a casino at Doral."
+    publishedDateTime: 2021-05-20T04:31:00Z
+    webUrl: "https://www.ibtimes.com/trump-casino-florida-gop-lawmakers-clear-way-gambling-license-3203546"
+    ampWebUrl: "https://www.ibtimes.com/trump-casino-florida-gop-lawmakers-clear-way-gambling-license-3203546?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-casino-florida-gop-lawmakers-clear-way-gambling-license-3203546?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
+        width: 1024
+        height: 731
+        isCached: true
 
 secured: "cnrVIDQ6wEFgPLL2kQaZUFyaW+fOzZyg71wmEXU/waYPvoOOBAV+RsLDn8yrLXebNjqRY9scnMuny5snO0mrYc+XI/OeT5fe19oC6+0cB6YPiXGJ1hSxp9L3tjoMPm7nQDVDnCraGRGpu/S86cKBQ6Q+GFDeQy0zpYn5jH5iiBf6mIK7IruhucC3Fr0FxzHoBrfCiGsVS7K4lmrBsIco0IEqIhGZUSEt7TTbKbeRVdQucvghO9VTNSMM20rE5DMeqAiRE7w/TGsoIf2yAxo58RydaxJEaiHKHyhrdFYSx9MaqTE+VkEo3hE+HgUpHWf1v3LuFgAOo+C7pDZ+/nAKu9SGyadXLP2Ou2kZSGpxGhJ2h0mils838f2/dTUX9Yw1dMRE3tZg28FBCAucbO0XP652iLbyyljus0kEeokIRtFXfC3G4c7lyiqFV1kpn9yCX78p0EDaIJuwbjHMG5OROGXxYmC2iF3WC84mI8cLcOW3SyFLSyaw2Si9sci5vI3seF2UdPNDL0USVozNQig3nA==;A0hhGZ+Wuqfgzlgx9wwuOg=="
 ---

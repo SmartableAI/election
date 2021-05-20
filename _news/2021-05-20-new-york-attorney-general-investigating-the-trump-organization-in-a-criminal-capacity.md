@@ -1,20 +1,22 @@
 ---
 category: news
-title: "NY Attorney General Investigating Trump Organization In 'Criminal Capacity'"
-excerpt: "The Trump Organization is being investigated in a \"criminal capacity\" by the New York state attorney general's office, a spokesman said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."
-publishedDateTime: 2021-05-19T03:44:00Z
-originalUrl: "https://www.ibtimes.com/ny-attorney-general-investigating-trump-organization-criminal-capacity-3202406"
-webUrl: "https://www.ibtimes.com/ny-attorney-general-investigating-trump-organization-criminal-capacity-3202406"
+title: "New York Attorney General \"investigating the Trump Organization in a criminal capacity\""
+excerpt: "New York Attorney General Letitia James launched a civil probe into the company in 2019, but that investigation \"is no longer purely civil in nature\""
+publishedDateTime: 2021-05-19T23:07:00Z
+originalUrl: "https://www.cbsnews.com/news/trump-organization-criminal-investigation-new-york/"
+webUrl: "https://www.cbsnews.com/news/trump-organization-criminal-investigation-new-york/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/trump-organization-criminal-investigation-new-york/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-organization-criminal-investigation-new-york/"
 type: article
-quality: 33
-heat: -1
-published: false
+quality: 117
+heat: 217
+published: true
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,23 +24,13 @@ topics:
   - Election
   - Donald Trump
 
+images:
+  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/19/716aff60-3e3b-4a3e-b9a4-cf5a687cbabb/thumbnail/1200x630/7ebaf3a75f14a065879c2c0f557dd93d/gettyimages-1301295023.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
 related:
-  - title: "New York Attorney General \"investigating the Trump Organization in a criminal capacity\""
-    excerpt: "New York Attorney General Letitia James launched a civil probe into the company in 2019, but that investigation \"is no longer purely civil in nature\""
-    publishedDateTime: 2021-05-19T23:07:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-organization-criminal-investigation-new-york/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-organization-criminal-investigation-new-york/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-organization-criminal-investigation-new-york/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 117
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/19/716aff60-3e3b-4a3e-b9a4-cf5a687cbabb/thumbnail/1200x630/7ebaf3a75f14a065879c2c0f557dd93d/gettyimages-1301295023.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "New York attorney general 'actively investigating' Trump Organization in a 'criminal capacity'"
     excerpt: "The New York attorney general is investigating the Trump Organization for criminality, a shift that could lead to charges if wrongdoing is uncovered."
     publishedDateTime: 2021-05-19T04:17:00Z
@@ -78,6 +70,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "NY Attorney General Investigating Trump Organization In 'Criminal Capacity'"
+    excerpt: "The Trump Organization is being investigated in a \"criminal capacity\" by the New York state attorney general's office, a spokesman said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."
+    publishedDateTime: 2021-05-19T03:44:00Z
+    webUrl: "https://www.ibtimes.com/ny-attorney-general-investigating-trump-organization-criminal-capacity-3202406"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 33
   - title: "New York State Probe of Trump Organization Is Now Criminal -Attorney General"
     excerpt: "The New York attorney general's office said on Tuesday it has now opened a criminal investigation into former President Donald Trump's company, going beyond what began as a civil probe. Attorney General Letitia James has been investigating whether the Trump Organization falsely reported property values to secure loans and obtain economic and tax benefits."
     publishedDateTime: 2021-05-19T03:27:00Z
@@ -88,6 +89,6 @@ related:
       domain: usnews.com
     quality: 32
 
-secured: "IFBO59m6cL0HOQYWva6zISlhHHu2q64wjoC/zk50/z/mtlBCvbe9rvd2siJBN1J2Kpa7F2Ka5goj/ZjSjNXyhUvIRdc9PSCyctUdDRiwGSvgG7sqREFDOBQstP33OD1OkPanZv17lZMEOYh3wWJYkPc38DPXq6AWPcSzfW04sTj41MLJXKzVNPn5U7dMfM5GjFtmuHam+Csqxb3ro3hD++DJF3mBsUUUKVeoJzUWsaGknKcAtex/8x99hTtnvnJvyhUQyrozhapGKz+ZwO4SMX/laH1gHYCbgiG+UfDl0BXbBwPaqwEvLWUZmyIeLfMBNDb9j/3KxPs1x2Hguf99qDATpGJIwo4MVUf8oRnadNufK6jb5QQhDvh/c50coGKIO6GxS6oVRp8CFhXnuQa6tu2+h7Li5dTlOOFZNg4wUg/67Ki7lGtOe2kNq0ZruaSl2X5WhsLTp4oyIdOIM0X8sVcg+S2lQ3n0FFZHodwSm52WmBa8T/bTgaiNt9edJV+x+5q9v3CwyylJeaemJkw5Qw==;CgoW6F6YS8bcFw8mygFsKQ=="
+secured: "4s5rrSQ9596lGNfEsc5up0LWq3uSaZuJVg1wAQMn8FFTiSbjc9NJcOvmQFjIcKhB6fkjyhGLSIYcOlPMLLLBhXmnk5yyAWWauLb9IpKFgHLRKqRNJAQoYjEtDDM8t1nP7uL1Skp1AkmbTXMpgim55gwp+N5NjX6sbRlCP8VyMmMnHNpYd5DXlEMARWryD9VStncXOMkiH7PHSODTGJQmccQCezEkHc4EiX9rJxCv/rx3t3VHfdCeeanRyuvClCxH5x+JoJLzhD88ifhh6ca8tZcxr5BC3GBO3AV4N1wNJIosgJvhNRatP0Jx9xmwtKVAlVZHubC+eWkqwGCrdY9DrJx41adII0DY6LEh1qX3CDk=;LZ8sqDH3Tub73/Tb7GIFTw=="
 ---
 

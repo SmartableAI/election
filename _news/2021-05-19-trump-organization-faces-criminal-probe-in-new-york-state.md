@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "New York Attorney General \"investigating the Trump Organization in a criminal capacity\""
+    excerpt: "New York Attorney General Letitia James launched a civil probe into the company in 2019, but that investigation \"is no longer purely civil in nature\""
+    publishedDateTime: 2021-05-19T23:07:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-organization-criminal-investigation-new-york/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-organization-criminal-investigation-new-york/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-organization-criminal-investigation-new-york/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 117
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/19/716aff60-3e3b-4a3e-b9a4-cf5a687cbabb/thumbnail/1200x630/7ebaf3a75f14a065879c2c0f557dd93d/gettyimages-1301295023.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New York attorney general 'actively investigating' Trump Organization in a 'criminal capacity'"
     excerpt: "The New York attorney general is investigating the Trump Organization for criminality, a shift that could lead to charges if wrongdoing is uncovered."
     publishedDateTime: 2021-05-19T04:17:00Z

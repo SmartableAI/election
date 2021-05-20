@@ -1,24 +1,34 @@
 ---
 category: news
-title: "What does the new criminal inquiry mean for Donald Trump?"
-excerpt: "Donald Trump is facing a one-two punch of criminal investigations in New York, with the state attorney general’s office saying its ongoing civil inquiry into the former president and his businesses is now a criminal matter."
-publishedDateTime: 2021-05-19T21:16:00Z
-originalUrl: "https://www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/"
-webUrl: "https://www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/"
-ampWebUrl: "https://www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/?outputType=amp"
-cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/?outputType=amp"
+title: "What we know about investigations looming over Donald Trump and Trump Organization"
+excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
+publishedDateTime: 2021-05-19T20:00:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
+ampWebUrl: "https://amp.usatoday.com/amp/5164284001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5164284001"
 type: article
-quality: 55
+quality: 119
 heat: -1
 published: false
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2021/05/01/USAT/95db826e-249c-42a5-b9df-4635d1bce706-AFP_AFP_98Z3QA.jpg?auto=webp&crop=4055,2281,x0,y257&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Republican Arizona election official says Trump 'unhinged'"
@@ -357,22 +367,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "What we know about investigations looming over Donald Trump and Trump Organization"
-    excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
-    publishedDateTime: 2021-05-19T20:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5164284001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5164284001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/01/USAT/95db826e-249c-42a5-b9df-4635d1bce706-AFP_AFP_98Z3QA.jpg?auto=webp&crop=4055,2281,x0,y257&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "As Trump seizes on Arizona ballot audit, election officials fear partisan vote counts could be the norm in future elections"
     excerpt: "The GOP-backed recount of Maricopa County’s ballots has been criticized for abandoning state guidelines and allowing the rules to be set by a private contractor who promoted claims that the election was stolen."
     publishedDateTime: 2021-04-29T20:05:00Z
@@ -646,6 +640,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "What does the new criminal inquiry mean for Donald Trump?"
+    excerpt: "Donald Trump is facing a one-two punch of criminal investigations in New York, with the state attorney general’s office saying its ongoing civil inquiry into the former president and his businesses is now a criminal matter."
+    publishedDateTime: 2021-05-19T21:16:00Z
+    webUrl: "https://www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
   - title: "Liz Cheney Vote: U.S. House Republicans Reach Watershed Over Trump"
     excerpt: "Republicans in the U.S. House of Representatives will vote on Wednesday whether to eject Liz Cheney, an outspoken critic of Donald Trump, from her leadership post, a move likely to cement their dependence on the former president in the 2022 elections."
     publishedDateTime: 2021-05-12T10:03:00Z
@@ -665,6 +670,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "Go5WD/IV5rE5VvS5mAtwI7AoTuirShIS7kbkhyY8Ms21p2Muc8Rl4kwWg+JWPybfUT79SQlszXanfNZWrV10h12pw3tqymRV5Ii26XkOAPa8hWaUy+oHQ9id5+2b7VAPTl0YPmV8qmWWpEkY973KG3nOtI6LtNUnlKC8N6Aln495y8CYAkZFCHyp0Sqyc8wJWmV03GbiwGlEkgmh5toW61P8qcXhDDNR0+2I5EZaMQ/X/hkTVDOc3scS6+r8tqnC3L8cRfZRvH8fTq6QKTkRe53pdV09sKakKjLg7C3zK3CJCbje6NTZdyg2XdngaVxuPII5WFNHniowXZKDGH9LdElHjzcPEx3D0L4+Hn+H3QU=;Pwx1hhyjW2/SxMHwk8aixw=="
+secured: "MU5EOJ6HHuGNMvCpt3hU8NMvJ6nq2QocfmPDOFl2vWJQvj4BOCZc8IznuLz7b9zDFzg/Hc3icFRPd6TkTEbdF6UMYKZxtBzjjA9nbCqlbusF0TSxACgpK0PVO1o4gcNqOdJpvPUIWN54dF0C/HEzY2+54JW2IeokPdmGcQsfNIErBZoAkLdUCaPVD0XanTDxo9PVQP8WTKUNwNqGyTcpyoAqkQh5ytcFdXvX9ooQJdSRHPxMVFvYfx0vOSYs4zPFLsFAaKqINBiWjZXS1rrJrtPvqaNjZl3TlJA+dkG+/7Sr6CRz/d9Xl6t67FCqJILDILmPcHLbyTGCm8I57UtFeuAvnoPaElSWNds77g8QDHc=;LYj2ofo5z5n1c4nzy1sNew=="
 ---
 

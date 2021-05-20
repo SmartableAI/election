@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-20-ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one.md",
+      "title": "Ted Cruz: Biden 'rewarded' Russia for hacking US pipeline by blessing Russian one",
+      "excerpt": "Sen. Ted Cruz, R-Texas, sounded off Wednesday on President Biden responding to a debilitating hack of a U.S. oil pipeline from within the Russian Federation, by turning around and giving his approval to a lucrative Russian pipeline that will supply energy to Germany.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u5tzn7FUQa4/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u5tzn7FUQa4/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f4eb9de-2cb5-4510-8484-472066a72fd4/41d40886-d2bf-4211-a0e3-2d5708f9195f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one.amp",
+      "publishedDateTime": "2021-05-19T20:59:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-obama-had-harsh-words-on-trump-book-claims.md",
       "title": "Obama had harsh words on Trump, book claims",
       "excerpt": "Former President Barack Obama called Donald Trump a “corrupt motherf–ker,” “madman” and a “racist, sexist pig” to people behind the scenes, a new book claims. Obama had actually preferred",
@@ -82,6 +138,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-new-york-attorney-general-investigating-the-trump-organization-in-a-criminal-capacity.md",
+      "title": "New York Attorney General \"investigating the Trump Organization in a criminal capacity\"",
+      "excerpt": "New York Attorney General Letitia James launched a civil probe into the company in 2019, but that investigation \"is no longer purely civil in nature\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/trump-organization-criminal-investigation-new-york/",
+      "originalUrl": "https://www.cbsnews.com/news/trump-organization-criminal-investigation-new-york/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/19/716aff60-3e3b-4a3e-b9a4-cf5a687cbabb/thumbnail/1200x630/7ebaf3a75f14a065879c2c0f557dd93d/gettyimages-1301295023.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-organization-criminal-investigation-new-york/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-organization-criminal-investigation-new-york/",
+      "publishedDateTime": "2021-05-19T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -889,58 +997,6 @@
       ]
     },
     {
-      "path": "_news/2021-05-19-new-york-attorney-general-actively-investigating-trump-organization-in-a-criminal-capacity.md",
-      "title": "New York attorney general 'actively investigating' Trump Organization in a 'criminal capacity'",
-      "excerpt": "The New York attorney general is investigating the Trump Organization for criminality, a shift that could lead to charges if wrongdoing is uncovered.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/05/18/trump-organization-new-york-attorney-general-criminal-investigation/5159082001/?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/05/18/trump-organization-new-york-attorney-general-criminal-investigation/5159082001/?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/19/USAT/f3214550-5068-490d-b0cb-97f996ce2b59-AP_Trump-Legal_Troubles.jpg?auto=webp&crop=5471,3077,x0,y278&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5159082001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5159082001",
-      "publishedDateTime": "2021-05-18T21:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-05-19-new-york-attorney-general-adds-criminal-capacity-to-probe-of-trump-organization.md",
       "title": "New York attorney general adds 'criminal capacity' to probe of Trump Organization",
       "excerpt": "New York Attorney General Letitia James is joining the Manhattan district attorney's office in a criminal investigation of the Trump Organization, James' office said Tuesday.\n    \n",
@@ -1268,62 +1324,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-biden-takes-new-electric-f-150-for-a-test-drive-this-suckers-quick.md",
-      "title": "Biden takes new electric F-150 for a test drive: 'This sucker's quick'",
-      "excerpt": "It's not every day an American president gets to speed down a driving course in an electric pick-up truck trailed by Secret Service. But on Tuesday, President Joe Biden did just that.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nV4b01EMz3Y/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nV4b01EMz3Y/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210518155052-01-biden-ford-f-150-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/18/politics/biden-ford-test-drive/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/biden-ford-test-drive/index.html",
-      "publishedDateTime": "2021-05-18T14:44:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

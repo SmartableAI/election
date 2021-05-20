@@ -1,36 +1,46 @@
 ---
 category: news
-title: "Kamala Harris to give Naval Academy commissioning address"
-excerpt: "Vice President Kamala Harris will deliver the keynote address at the Naval Academy's commissioning ceremony, a White House official told a Maryland news outlet Friday. Harris is expected to give the speech May 28 during the in-person,"
-publishedDateTime: 2021-04-30T22:03:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
-webUrl: "https://www.houstonchronicle.com/news/article/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
+title: "Kamala Harris to give 2021 commencement speech in CNN special"
+excerpt: "CNN will honor the millions of students graduating from high school and college this weekend with a star-studded prime-time special."
+publishedDateTime: 2021-05-20T00:27:00Z
+originalUrl: "https://thegrio.com/2021/05/19/kamala-harris-commencement-speech-cnn-graduation-special/"
+webUrl: "https://thegrio.com/2021/05/19/kamala-harris-commencement-speech-cnn-graduation-special/"
 type: article
-quality: 125
-heat: 1245
-published: true
+quality: 55
+heat: -1
+published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Grio
+  domain: thegrio.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://s.hdnux.com/photos/01/17/67/05/20934993/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
+  - url: "https://thegrio.com/wp-content/uploads/2021/04/280420211619611627-1-scaled.jpg"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
+  - title: "Kamala Harris to give Naval Academy commissioning address"
+    excerpt: "Vice President Kamala Harris will deliver the keynote address at the Naval Academy's commissioning ceremony, a White House official told a Maryland news outlet Friday. Harris is expected to give the speech May 28 during the in-person,"
+    publishedDateTime: 2021-04-30T22:03:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/67/05/20934993/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Vice President Kamala Harris to lead National Space Council"
     excerpt: "In America, when we shoot for the moon, we plant our flag on it,\" the vice president tweeted following the announcement"
     publishedDateTime: 2021-05-03T00:34:00Z
@@ -768,20 +778,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
-  - title: "Kamala Harris to give 2021 commencement speech in CNN special"
-    excerpt: "CNN will honor the millions of students graduating from high school and college this weekend with a star-studded prime-time special."
-    publishedDateTime: 2021-05-20T00:27:00Z
-    webUrl: "https://thegrio.com/2021/05/19/kamala-harris-commencement-speech-cnn-graduation-special/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 55
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2021/04/280420211619611627-1-scaled.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "VP Kamala Harris visits Rhode Island with Commerce Secretary Gina Raimondo"
     excerpt: "Vice President Kamala Harris answers questions during a visit to RI with Commerce Secretary Gina Raimondo. Providence Journal video/ Kris Craig]"
     publishedDateTime: 2021-05-05T21:35:00Z
@@ -876,6 +872,6 @@ related:
       domain: bostonglobe.com
     quality: 22
 
-secured: "Q7uy9yHE6cIlbSKiVllftvIfCnofpOP0Ac0f47WFLTOtkn/EgGe6e7JEiX2W70U/zh2LT7BESwzAL5NXV9s1Y4DrgftC7/QcCbpyyre3Avr3K45MXksQi9G9PuZ9Szq4oNaxIYdJr8eSLCoCq/wG0b4pzLh5isVjc2nSffcbPmUXuUOsrR5sOcKRDOOnXlDu32sS8gz9KcQCpdO/hcPYO7huY+rvPbEWFQAHYIk8UBSGV/POMY6NlRCzR0Xn7o7AEMKojOtMmJYgiuQZg+QlVk3LuYDS2j448LHcOc1ofwO9zO0jiDUX7E77yvgfeEPLpLs63+QfEqJHV86q+NmDbZy1JcxcmZGGHrF6co52gkk=;IgtWnfA/GdbBHLQrnmvU+Q=="
+secured: "U86Tr0lar1BCMsN3i9zcDTghkdgpdOSHAdvVu4CYyUwZ3hyBcWROcFS0/etdPcmeECa2v8gBZInA5yau3HBqGLN6ZSG9GL9U0kFFg6ybfuJsK3qxZwaujGbuvB3MUWUYpNfrJMZWcIwQ8f+jBfuTnq1ijSG7kJ08wocouC7/MWOA7VZixSJ4oJeaojwW70mcD3u9H+tOTrYVsRjQQCS/HYu21ym3RGyjBd/5ElEcDNKkfsGp6Q6uVv0di76Ja9HZoNM9C3dP0CijaGgEN5QmY3qnURXyObJoQETOAHuskYx6FCP0ksRcnli/LW81vt0K0bpByfd1BXjIsuwWvZcew5EgPcaIWJryYjNcsvelMTE=;UqctW8faxA4MmP8lIBAhEQ=="
 ---
 

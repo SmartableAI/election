@@ -287,6 +287,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "35 Republicans buck Trump, back study of Jan. 6 Capitol riot"
+    excerpt: "Thirty-five House Republicans have joined Democrats and voted to create a bipartisan commission to investigate the Jan. 6 attack on the Capitol"
+    publishedDateTime: 2021-05-20T03:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/35-republicans-buck-trump-back-study-of-jan-6-capitol-riot/2021/05/20/d2881e3c-b921-11eb-bc4a-62849cf6cca9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/35-republicans-buck-trump-back-study-of-jan-6-capitol-riot/2021/05/20/d2881e3c-b921-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/35-republicans-buck-trump-back-study-of-jan-6-capitol-riot/2021/05/20/d2881e3c-b921-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FM3BRCVY6YI6XPCKMKCJZ5WMVE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The new criminal probe of the Trump Organization, and what it could mean"
     excerpt: "New York's attorney general says her probe of the Trump Organization is criminal in nature. So what does that mean? And why was it announced?"
     publishedDateTime: 2021-05-19T16:35:00Z
@@ -334,6 +350,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/322012509a779bf8a2215b72f98bb1fe899ff46f/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6b3dcdb2bf7fe19d716a8f5b9f568bcf"
         width: 600
         height: 360
+        isCached: true
+  - title: "What we know about investigations looming over Donald Trump and Trump Organization"
+    excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
+    publishedDateTime: 2021-05-19T20:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5164284001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5164284001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/01/USAT/95db826e-249c-42a5-b9df-4635d1bce706-AFP_AFP_98Z3QA.jpg?auto=webp&crop=4055,2281,x0,y257&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "As Trump seizes on Arizona ballot audit, election officials fear partisan vote counts could be the norm in future elections"
     excerpt: "The GOP-backed recount of Maricopa County’s ballots has been criticized for abandoning state guidelines and allowing the rules to be set by a private contractor who promoted claims that the election was stolen."
@@ -523,22 +555,6 @@ related:
     webUrl: "https://www.chron.com/news/article/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
     ampWebUrl: "https://www.chron.com/news/amp/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "35 Republicans buck Trump, back study of Jan. 6 Capitol riot"
-    excerpt: "Thirty-five House Republicans joined Democrats Wednesday in voting to create a bipartisan commission to investigate the Jan. 6 attack on the Capitol, risking the wrath of former President Donald Trump and flouting GOP leaders who condemned the proposal as unfairly partisan and unneeded."
-    publishedDateTime: 2021-05-19T23:47:00Z
-    webUrl: "https://www.chron.com/news/nation-world/article/35-Republicans-buck-Trump-Jan-6-16189738.php"
-    ampWebUrl: "https://www.chron.com/news/nation-world/amp/35-Republicans-buck-Trump-Jan-6-16189738.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/nation-world/amp/35-Republicans-buck-Trump-Jan-6-16189738.php"
     type: article
     provider:
       name: Houston Chronicle

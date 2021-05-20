@@ -1,29 +1,33 @@
 ---
 category: news
 title: "35 Republicans buck Trump, back study of Jan. 6 Capitol riot"
-excerpt: "Thirty-five House Republicans joined Democrats Wednesday in voting to create a bipartisan commission to investigate the Jan. 6 attack on the Capitol, risking the wrath of former President Donald Trump and flouting GOP leaders who condemned the proposal as unfairly partisan and unneeded."
-publishedDateTime: 2021-05-19T23:47:00Z
-originalUrl: "https://www.chron.com/news/nation-world/article/35-Republicans-buck-Trump-Jan-6-16189738.php"
-webUrl: "https://www.chron.com/news/nation-world/article/35-Republicans-buck-Trump-Jan-6-16189738.php"
-ampWebUrl: "https://www.chron.com/news/nation-world/amp/35-Republicans-buck-Trump-Jan-6-16189738.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/nation-world/amp/35-Republicans-buck-Trump-Jan-6-16189738.php"
+excerpt: "Thirty-five House Republicans have joined Democrats and voted to create a bipartisan commission to investigate the Jan. 6 attack on the Capitol"
+publishedDateTime: 2021-05-20T03:14:00Z
+originalUrl: "https://www.washingtonpost.com/politics/35-republicans-buck-trump-back-study-of-jan-6-capitol-riot/2021/05/20/d2881e3c-b921-11eb-bc4a-62849cf6cca9_story.html"
+webUrl: "https://www.washingtonpost.com/politics/35-republicans-buck-trump-back-study-of-jan-6-capitol-riot/2021/05/20/d2881e3c-b921-11eb-bc4a-62849cf6cca9_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/35-republicans-buck-trump-back-study-of-jan-6-capitol-riot/2021/05/20/d2881e3c-b921-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/35-republicans-buck-trump-back-study-of-jan-6-capitol-riot/2021/05/20/d2881e3c-b921-11eb-bc4a-62849cf6cca9_story.html?outputType=amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FM3BRCVY6YI6XPCKMKCJZ5WMVE.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -347,6 +351,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "What we know about investigations looming over Donald Trump and Trump Organization"
+    excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
+    publishedDateTime: 2021-05-19T20:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5164284001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5164284001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/01/USAT/95db826e-249c-42a5-b9df-4635d1bce706-AFP_AFP_98Z3QA.jpg?auto=webp&crop=4055,2281,x0,y257&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "As Trump seizes on Arizona ballot audit, election officials fear partisan vote counts could be the norm in future elections"
     excerpt: "The GOP-backed recount of Maricopa County’s ballots has been criticized for abandoning state guidelines and allowing the rules to be set by a private contractor who promoted claims that the election was stolen."
     publishedDateTime: 2021-04-29T20:05:00Z
@@ -650,6 +670,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "JQKUoKM09Ql4SaOjzSiIHB+re4kVuHvKUkDRLJkOYjzljjIdtywTqSHymd9qe/8v1yFFcyy5kVLESrrBDPS1SK/GaPkmVMWXQJX2vNwj3C4E5xwUGz2Q8rNA5Aj3lry4C8fM0zC2p622LJ+XNqavE7+fK3UJIzyTdkozG0EYAJZoLVJ4nF5rdNmmD0fXdrauEljOHKvm/yeJWC+Ini6F57E71eXAj3RisAE4B0WlMol+Pun4f6yJcPblEEcKncJXu5Dk9Yv8V51NNE0sqRTcn+G1kAIpav40KDEEzlJHi1ZyGeYNPx/rzYKGYbOx+CoojOm2axuIRtUpZwNRgZCIwmHvcNPUVniZY5Bd4Jl6ltQ=;FljwaWZ8QSDPOZZ0HuuPPw=="
+secured: "Dj5dxdOhbQy985FgPUPQqlQ7QSWJeNxu2PG66GLikP3PmrHAXfvSGuHDnpSVN1XI/7RJ6cEmsyg+Zrinoaluq2qd44ZcKSJpoX75oC0dR979s3b5sux0CcyIDL5w6YicSXOyJ0TqvUNviMTMAKb1bDj5ElA9MQ7lE39It3XsMzl2JQWJ8t5Tun+zr9Y4G5RzHnSv+evihp/B9DARSTfOQR1pKwTr+yIVj8tMzyZnAke3olIWXL+yN1F4Vs/L/adFCx8GE6rYW1Ityw38MmFwoIoRMKPiSZHmAvsoxTP+p/3Sy8RmuFq2xoHwWaIxrC5H1Qhd+LPBNRNsf2hbWDZMzXr45BeKDSx/Jll2gZGiF9k=;wL1S7/+11kvORE1xZ9RR9g=="
 ---
 

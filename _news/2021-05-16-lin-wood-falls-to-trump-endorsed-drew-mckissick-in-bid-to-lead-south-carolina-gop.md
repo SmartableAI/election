@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissic
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lin-wood-falls-trump-endorsed-drew-mckissick-bid-lead-south-carolina-gop-1591850?amp=1"
 type: article
 quality: 120
-heat: 140
+heat: 160
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Casino In Florida? GOP Lawmakers Clear Way For Gambling License"
+    excerpt: "Eric Trump, son of the former president and the current executive vice president of the Trump Organization, previously suggested that the company had plans to establish a casino at Doral."
+    publishedDateTime: 2021-05-20T04:31:00Z
+    webUrl: "https://www.ibtimes.com/trump-casino-florida-gop-lawmakers-clear-way-gambling-license-3203546"
+    ampWebUrl: "https://www.ibtimes.com/trump-casino-florida-gop-lawmakers-clear-way-gambling-license-3203546?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-casino-florida-gop-lawmakers-clear-way-gambling-license-3203546?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
+        width: 1024
+        height: 731
+        isCached: true
   - title: "Donald Trump endorses Texas Lt. Gov. Dan Patrick for reelection"
     excerpt: "Former President Donald Trump endorsed Lt. Gov. Dan Patrick for reelection Monday, giving a top ally in Texas an early boost in his bid for a third term next year. \"Lieutenant Governor Dan Patrick is a great fighter for the people of Texas,"
     publishedDateTime: 2021-05-10T23:48:00Z

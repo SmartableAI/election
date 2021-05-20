@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Explainer: What Does New Criminal Inquiry Mean for Trump?"
-excerpt: "Donald Trump is facing a one-two punch of criminal investigations in New York, with the state attorney general’s office saying its ongoing civil inquiry into the former president and his businesses is now a criminal matter."
-publishedDateTime: 2021-05-19T20:32:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-05-19/explainer-what-does-new-criminal-inquiry-mean-for-trump"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-05-19/explainer-what-does-new-criminal-inquiry-mean-for-trump"
+title: "Explainer: What does new criminal inquiry mean for Trump?"
+excerpt: "Donald Trump is facing a one-two punch of criminal investigations in New York, with the state attorney general’s office saying its ongoing civil inquiry into the former president and his businesses is"
+publishedDateTime: 2021-05-19T22:57:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/explainer-criminal-inquiry-trump-77787849"
+webUrl: "https://abcnews.go.com/Politics/wireStory/explainer-criminal-inquiry-trump-77787849"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/explainer-criminal-inquiry-trump-77787849"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/explainer-criminal-inquiry-trump-77787849"
 type: article
-quality: 35
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/US/WireAP_0f8190cbf6954199944306960cdc66c5_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Ilhan Omar Fires Back at Donald Trump for Support of Israel"
@@ -40,6 +48,6 @@ related:
         height: 683
         isCached: true
 
-secured: "nOHlxV3HFGeWnFReFZItJQ7csISkaR9fJ0FgnJmBKhXM4BVBmi7eq8AugVZqf0B0f2RCaWfZ+RkhknKiNg/XCaCyxHpvWjOkqeTuiR7B4edsedjAxaJklbFocsWdSZbGI9/ai3Ldy1KmVRYghJ/inSOhDFwK/Elp7fQvTcoXwhtc8Nnmk5jXSRMywHe01JkBqfsnROd14G3tONWs0/GC6RFnUqCvble9Jp0WLgTvF9X2P4dU1Y7Qcpx38LtYlFzHXE4Cbd8XAJcPY+jByirbk/7F/5esM+Gdxu44Kvtf+/F6vOOcR1pJ37TbtapaE6NhGi5dQsXcioQXLoqzr6V5erpRXGs4tdqo35rax3Oo/CH0u8HFQwU21V2/eVNRKi4FZ6dVkZjTumG88Q9ZUtRstTzpkZDTi3bSRsQfAl/aQyM+XPcNBb7JhuGy2vttSDxAGrgEB1cwDQZsTyG5qn6HigUs1N3Af2vvdhRFDfNipIu4801ML5wjF7FV8trMIEKzgZ0+Tg5O1TlRT+jNg3Izpg==;p+oGzvPyechu1eKH94xDwg=="
+secured: "zuiphEojnPv7fp2p/Nmet8y2WWIJdqff918NOWIlNXFwQuK+eFbWcXXFHHRiHX2e8/en/p/Si76URfHMvJmEkwRJY0xFjtAPrG0+7zVJuvkxi/ZA/Ys06wRkuTPdNB72bUEDhfXvOtUWU7lNkO54HgWn400dkSeu7GANwqZaCO+r/C2RZM0KqpiUifi2NWms3o1mZ34Kc8+8Ck6KF7UP+/RbF1eTkDSoLUXr6GD+aXUiIz5L9d6gNl33JEab1RurPS/lwBOg61j2Z9kxXHb4shYIcy+WTlfC0o5iTMh45DWB/dOzzuX3tS0Xd2TfQY91BbztoV0Ew9fY4XNfvs2GwFtHPeAeO6G2ykKbLGPXVMs=;jD5mnPet4Lj06b7c7LwMew=="
 ---
 
