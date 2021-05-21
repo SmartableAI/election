@@ -575,6 +575,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump Is Still Squeezing Money Out of Taxpayers"
+    excerpt: "The former president charged the Secret Service at least $40,000 for a room at Mar-a-Lago, and staffers have sought reimbursement for office supplies."
+    publishedDateTime: 2021-05-21T20:16:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/05/trump-charged-secret-service-usd40k-in-post-presidency.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/05/trump-charged-secret-service-usd40k-in-post-presidency.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/05/trump-charged-secret-service-usd40k-in-post-presidency.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/f35/da9/4d9af2aaaa4dda4e39377459781b009477-trump.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Here's Why Trump Is Calling A Kentucky Derby Horse A 'Junky'"
     excerpt: "Former President Donald Trump compared the Kentucky Derby horse to the \"borders\" and \"fake presidential election.\""
     publishedDateTime: 2021-05-10T03:48:00Z

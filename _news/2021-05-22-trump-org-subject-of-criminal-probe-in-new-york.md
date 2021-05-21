@@ -93,6 +93,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "New York AG has 2 lawyers working with DA on Trump probe"
+    excerpt: "New York’s attorney general said Friday that she’s assigned two lawyers to work with the Manhattan district’s attorney’s office on a criminal investigation into former President Donald Trump’s busines"
+    publishedDateTime: 2021-05-21T20:22:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/york-ag-lawyers-working-da-trump-probe-77832719"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/york-ag-lawyers-working-da-trump-probe-77832719"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/york-ag-lawyers-working-da-trump-probe-77832719"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6ca16e0974da443c99037cd301bbe566_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Key Trump officials face Congress with Capitol riot response under scrutiny"
     excerpt: "Wednesday’s House Oversight Committee hearing marks the first time former acting defense secretary Christopher Miller and former acting attorney general Jeffrey Rosen will speak to lawmakers about their preparations for and response to the attack on Congress."
     publishedDateTime: 2021-05-12T13:18:00Z
@@ -191,16 +207,7 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
-  - title: "New York AG Has 2 Lawyers Working With DA on Trump Probe"
-    excerpt: "New York’s attorney general said Friday that she’s assigned two lawyers to work with the Manhattan district’s attorney’s office on a criminal investigation into former President Donald Trump’s business dealings."
-    publishedDateTime: 2021-05-21T18:36:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-21/new-york-ag-has-2-lawyers-working-with-da-on-trump-probe"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
-secured: "LwocoYLhAj8hg4x5yvJWbdiRnux5elIyfZYSNKS09nihW9+JKsZNDfczDS3vAoo+pb3ddIjvBtfDJr+Okxt039XPT3ujAmwyhBGRbqg2vJO9aVw0eDOJwW7bWDcVL1qdZz1fnm5GcsYqLqEv0wT5UHaWZK6eJaPOw/wVRzBhLPV3PNeEDc87Qz6D7AfbpVb1PHlQkRCynz78cka7qWZMaTmiSNBgnL+TWedVYjPsfCgRgURBZmTnysCRvqdiuOfoM6LdSh0S9UWpj3f2zz9zjDMt8hZqySGyZYUZ1AmQRV3IWj228BNAiuPEFH37r03eBppWGSYTl9Bg4nms//liUhhz3q2yiHbuH2/LkLyDPFY=;8ef/kVy8TOc/BC/oijsdGg=="
+secured: "egbA995/mDIBLJyUZxWvZJ4tEh2mm+/M0K1TlObNMabgTOhGqWxOQWA10782opYw85MSDRQJc+VrTBUYTnPDMxnH+MNcuzy0FYUKCYq3D2/J5LEycVbr4DBJ2SlVhmnq/0PzcltrqwVzpxeu0SeoAWUbaxvNhH0f+sKSyfdS8nHeYG4cvwhAFFfu361N89aqUX3hDwD/ygqpsG9KgO+dzNkPNsHPMJ7S5DshnS6f2HOQx4p9kl11pGqPwHHSzB8rWQsfmb5AyNIwnr0N1VK2YwWtG8z4n1w0a0pBcIDSRVGABD2Ffs/ndmgK8fI6jYYaqJxSjLWnIZvG7OTLB/mmlTiNQr9Pl/FUxqS2Zka8LuQO0VJSc8YYVowzstH5IPv1EXSqC+qo1AHkDpC01mtIRJmzRVtv4PlwTHaOyFcqfEJGpoydT+fkfQxz4re1xWjrF5ltgjT/6AjRgLkdupac58DqQ2N50OOxrUrSlMrYQLh4UdtFMzK292gStE8ZAJZtDcM4E2UOzqqx3DQwMycn+g==;3LJ2cZaH3T8QZu7ZMIwskw=="
 ---
 

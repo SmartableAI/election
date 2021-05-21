@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Analysis: Reviving an old idea, Biden seeks to unlock bipartisan infrastructure deal"
-excerpt: "Walter Mondale, who passed away last month, hit an electoral buzzsaw after promising to raise taxes in his 1984 presidential campaign. His party learned fast.\n    \n"
-publishedDateTime: 2021-05-16T11:19:37Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PKsKpqjYktQ/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PKsKpqjYktQ/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/16/politics/taxes-infrastructure-biden-summers/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/16/politics/taxes-infrastructure-biden-summers/index.html"
+title: "Here's what's in Biden's counteroffer on infrastructure"
+excerpt: "Nearly two months after President Joe Biden laid out his massive plan to upgrade the nation's infrastructure, White House officials presented a slimmed-down version as a counteroffer to Republican lawmakers who are seeking a much smaller program.\n    \n"
+publishedDateTime: 2021-05-21T21:08:56Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DvJPj7bwFGE/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DvJPj7bwFGE/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/biden-infrastructure-proposal-counteroffer/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/biden-infrastructure-proposal-counteroffer/index.html"
 type: article
-quality: 168
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512120447-01-biden-bipartisan-meeting-0512-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521164038-infrastructure-construction-0521-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -108,22 +108,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517125338-02-biden-covid-remarks-0517-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Here's what's in Biden's counteroffer on infrastructure"
-    excerpt: "Nearly two months after President Joe Biden laid out his massive plan to upgrade the nation's infrastructure, White House officials presented a slimmed-down version as a counteroffer to Republican lawmakers who are seeking a much smaller program.\n    \n"
-    publishedDateTime: 2021-05-21T21:08:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DvJPj7bwFGE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/biden-infrastructure-proposal-counteroffer/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/biden-infrastructure-proposal-counteroffer/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521164038-infrastructure-construction-0521-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -236,6 +220,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303103803-01-jennifer-granholm-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Reviving an old idea, Biden seeks to unlock bipartisan infrastructure deal"
+    excerpt: "Walter Mondale, who passed away last month, hit an electoral buzzsaw after promising to raise taxes in his 1984 presidential campaign. His party learned fast.\n    \n"
+    publishedDateTime: 2021-05-16T11:19:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PKsKpqjYktQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/16/politics/taxes-infrastructure-biden-summers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/16/politics/taxes-infrastructure-biden-summers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210512120447-01-biden-bipartisan-meeting-0512-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -634,6 +634,6 @@ related:
         height: 629
         isCached: true
 
-secured: "QAAo1DUDCSPPrMQpHlu2VFm6gkastaIeTtu17akWx85+m4os2iYHdrVY2UW9NUPhyH2h4hXOBN9hAmMynqrpG/XdSyVpKCWlWIofU9vMMveqeI5dLe6eCicvWDSxURtp6NgSrDYISNiyQ/7VLaxmyAPwJ6A5dTNsfOc8KNCuLj6awC8+mflDZ0tEBhlY5Vjk3S4qd8WPcJj+p6XctcZvXiHCxOGhp+xW++QHPL8Q8JgEC5I3Rp5e1O0gcuwAdE3CeSoP070WXq8QXHN2JwAkeLMCW5UJgHHzbagTWkQfU21xeVR3VzzOdoyhsgcqEfdVj6bzalfBxyRKy45/Gjlbj9TKWs/eH9y057pbgRP+r88=;TDdGVhRnvTrX4KVQRJLZLg=="
+secured: "uJY8/J1FMWDX9gRAggbgPibDT2rO/FSJhwC/Gb/iC+34EaiKHyjiiepE0NT2ciQkITSeyLxX29Qs1uAch+Dv54QUpi4Xh3F66UQpWKDkO4C/qgLa57v7y2K3Oy0S7H/LslqcuqaZLfwB1ZvJeoEewVEM4yZvHsz5wm2bLja7Kjj1si0wAZfpVIUqxEWkJVZvlQKOkMO2hfhh09Z2zGbWvwOpA3YbCKxkrjjxU5mkg9gtiwxNzgsKyKJYbgx2vzfE2hIillcMLzXlGS/bXCZk8jClqNB2nWdhsjbMK8mgaGrk/HpaeBf4edpmkLJdq0i5R3pJsViYN9p08tzvXlemrLCEx/o/CYTpZL2RWnku57A=;Jd4aCOq+hVkbV7bldCZTug=="
 ---
 

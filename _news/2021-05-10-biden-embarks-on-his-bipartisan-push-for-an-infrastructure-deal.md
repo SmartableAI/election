@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html"
 type: article
 quality: 175
-heat: 915
+heat: 935
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517125338-02-biden-covid-remarks-0517-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Here's what's in Biden's counteroffer on infrastructure"
+    excerpt: "Nearly two months after President Joe Biden laid out his massive plan to upgrade the nation's infrastructure, White House officials presented a slimmed-down version as a counteroffer to Republican lawmakers who are seeking a much smaller program.\n    \n"
+    publishedDateTime: 2021-05-21T21:08:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DvJPj7bwFGE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/biden-infrastructure-proposal-counteroffer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/biden-infrastructure-proposal-counteroffer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210521164038-infrastructure-construction-0521-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

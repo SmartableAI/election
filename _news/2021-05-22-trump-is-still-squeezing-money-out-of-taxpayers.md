@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Arizona Republican calls Trump ‘deleted database’ statement ‘unhinged’"
-excerpt: "Maricopa county recorder calls for end to ‘insane’ election lies but Trump supporters back ongoing, chaotic partisan recount"
-publishedDateTime: 2021-05-16T11:41:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
-webUrl: "https://www.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
+title: "Trump Is Still Squeezing Money Out of Taxpayers"
+excerpt: "The former president charged the Secret Service at least $40,000 for a room at Mar-a-Lago, and staffers have sought reimbursement for office supplies."
+publishedDateTime: 2021-05-21T20:16:00Z
+originalUrl: "https://nymag.com/intelligencer/2021/05/trump-charged-secret-service-usd40k-in-post-presidency.html"
+webUrl: "https://nymag.com/intelligencer/2021/05/trump-charged-secret-service-usd40k-in-post-presidency.html"
+ampWebUrl: "https://nymag.com/intelligencer/amp/2021/05/trump-charged-secret-service-usd40k-in-post-presidency.html"
+cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/05/trump-charged-secret-service-usd40k-in-post-presidency.html"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Magazine
+  domain: nymag.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/73247b63ca2c55778629393e0bbd4538da04c34b/0_75_5127_3076/master/5127.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=782914235850df4359494194dcaf165c"
-    width: 600
-    height: 360
+  - url: "https://pyxis.nymag.com/v1/imgs/f35/da9/4d9af2aaaa4dda4e39377459781b009477-trump.1x.rsocial.w1200.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -174,6 +170,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/jon-karl-liz-cheney-interview-05-abc-jc-210514_1621022394989_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Arizona Republican calls Trump ‘deleted database’ statement ‘unhinged’"
+    excerpt: "Maricopa county recorder calls for end to ‘insane’ election lies but Trump supporters back ongoing, chaotic partisan recount"
+    publishedDateTime: 2021-05-16T11:41:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/73247b63ca2c55778629393e0bbd4538da04c34b/0_75_5127_3076/master/5127.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=782914235850df4359494194dcaf165c"
+        width: 600
+        height: 360
         isCached: true
   - title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
     excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
@@ -565,22 +577,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Trump Is Still Squeezing Money Out of Taxpayers"
-    excerpt: "The former president charged the Secret Service at least $40,000 for a room at Mar-a-Lago, and staffers have sought reimbursement for office supplies."
-    publishedDateTime: 2021-05-21T20:16:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/05/trump-charged-secret-service-usd40k-in-post-presidency.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/05/trump-charged-secret-service-usd40k-in-post-presidency.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/05/trump-charged-secret-service-usd40k-in-post-presidency.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/f35/da9/4d9af2aaaa4dda4e39377459781b009477-trump.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Murphy Gliding in NJ's Primary; GOP Wrestling With Trump"
     excerpt: "New Jersey Republicans will decide whether they want an outspoken Donald Trump supporter to be their standard bearer in the fall election for governor, while Democratic incumbent Gov. Phil Murphy is on an easy path toward capturing his party’s nomination."
     publishedDateTime: 2021-05-09T05:00:00Z
@@ -686,6 +682,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "XGteVVlfUsJ60VJqg6cummja7Xju7J4x+ZZmvD5fyv+M4neLZ2UJ3eYWLsHicFEln1MYi/L/kfaPDdfg9g8RjdigT0sUPXcj9rRVpZmz06Y7B0jL4OCZma5kCXOG4pRu4Y1QQkMt9e/5y+r439JUkr/dk6g5bFaccJSTVa6uw3XAAYRjPOdDlyRxXleUAogvcXVVfJ5758iXmksj2ItuCTsI4zrJF1KUWa1qlWY/GkMXQRUwenYWDDNjCtbPJPKKE7r/IgIs2oiRm49WHYn6tCNI8r1LlcQjnB8eZ3xCg/AFyoz7jvNjqZxGyXdxyx+4kuZ1RDes+/0iqrZnBFf9lcFGlxqj9/z06hqyG5aU0OQ1s0Q2nhwm4byDoIN77gXPF0rt1eySjxQeACh4Mh3WWo+mjT7uCsOs+wnuaXklKCD4Z6vbD1cfMTopsb4+JRZNUInthpVrab/wlhyLDtNcU8aMpXujoydSeBLlblYy2Z7JPfxV5XygjdtChngDAoFLWNmYza0A2di4VstZ9+oLtA==;l8FHrQYV0WRXRMyKzkKrUQ=="
+secured: "8VsvBu/RxvXUgJPk0YbFT8vADe7PFYaeWDKOMFZJ+JqnowYNn1nQDcZ+858F3dKqXEFIGn+TQVX3GCdT9WyMFgqO9bk0MTHnfSQslM4QyOyd5oIHu3N6mUU45LZ5rJ43BQaxAcwoLE1kNIJ8/ItaDUypshl+cRWrvTx1pB2pX6eckw9MICARpLfcs1ogIUh6soLBsiOQWall015zpWKZlxQUB/AgA3sHUgkzoe7Ihqmw5UAbxNxDDgC78uos8wSyIEnsfPFVEItOImrNnbGAoY9TvIa5260gcDEKanf+hh+Xs+gmIHxxYGjtsvom8ESYWaQ5xYrNU/td6Xqs5FC5p/BN0D1n4WDJB+D3CZHHb3A=;T3wXqwU6w5FCgSqXMROzdQ=="
 ---
 

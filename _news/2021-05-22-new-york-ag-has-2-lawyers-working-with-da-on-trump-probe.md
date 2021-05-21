@@ -1,26 +1,34 @@
 ---
 category: news
-title: "New York AG Has 2 Lawyers Working With DA on Trump Probe"
-excerpt: "New York’s attorney general said Friday that she’s assigned two lawyers to work with the Manhattan district’s attorney’s office on a criminal investigation into former President Donald Trump’s business dealings."
-publishedDateTime: 2021-05-21T18:36:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-05-21/new-york-ag-has-2-lawyers-working-with-da-on-trump-probe"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-05-21/new-york-ag-has-2-lawyers-working-with-da-on-trump-probe"
+title: "New York AG has 2 lawyers working with DA on Trump probe"
+excerpt: "New York’s attorney general said Friday that she’s assigned two lawyers to work with the Manhattan district’s attorney’s office on a criminal investigation into former President Donald Trump’s busines"
+publishedDateTime: 2021-05-21T20:22:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/york-ag-lawyers-working-da-trump-probe-77832719"
+webUrl: "https://abcnews.go.com/Politics/wireStory/york-ag-lawyers-working-da-trump-probe-77832719"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/york-ag-lawyers-working-da-trump-probe-77832719"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/york-ag-lawyers-working-da-trump-probe-77832719"
 type: article
-quality: 35
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_6ca16e0974da443c99037cd301bbe566_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Dump Trump? Kicking him off NYC golf course may not be easy"
@@ -200,6 +208,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "gYQcyLlRx8liltwdA72wJFwdC+9fg5znVnuQUp2Wjts80NALr4tODnyIEQu5XxOv7v+dDy0uRkp+ryksK3395d7EE858e8V9KBGvScxJPL8+QMYvMF9WIeCPR+hO6f4LlXChfJkrciB547EoNlLJmOevbeSpAlIuT5H79sNAbSA/rxpYthXkWs2XyZJ5jwdfg1wKcu68Fq1K9MUOaNLdjaICGls9rZ0Bdlh9pFezze88Hh93YV/ayAmf1cluFirx4vVGbqfxxKSQ1ZsSR6UpNmHNbKwxE0X97oeu2eEEbjx7Yq8WLKXDfATHkBrcl2txDrZ4iv2tTB7YK7WCRM1v2TlM4MnnZCN/i4LfFpf76Oun4V0zmA67gj1YLeZ5lkTMI/9/nb4224j/K3uMkxymSKplsZugqsN1kdT+ZYVG/cmKaS2Kjny6pgxY5a0SlOmzknvfBf1k/TkCxLTD7LpzX+ndZoiEuBO1a5iOiBoMuEtK5Eh5NM6Luw2wdPJD69/N+tHE0eE3oSsLHDPZd6fKEQ==;oFNlHYccF+tXffKAFSaj/g=="
+secured: "xXMLaXfDNNCzb9Op+6U5Xu91jxeO6a6Zuxrb3xhWFt14ic2Q6ZtTpc56ukvVR+Xbsj4QDEoPzklUo2RkgVvu1oL1V7CtcGJQnK6Oh9OXbRYXNt8H3znf7+3AJjreCFfXlMP0vEDseGVPtAFecehDS0DTsyCrtpXdpy3bKO9top69xXq2usoFGoGycLlYWVPhkZPTi0q75wgiheEjMcHbcsZZK4hJZoMd5UDlghJ6x5/YmBSqVf62sYF6ptMOWaNgzzRpSBsdt/cQCGFa/cjeKV+260fVPvPrIlN4gxcFQsevzDLSaevq7w9IKgBCfz+UBFSvkb7GsTrVUSsOR6VxeOe4g6AQzX+sq6GqJ+F4O3s=;ikJmUscqXIa8SLXTk9nt9g=="
 ---
 

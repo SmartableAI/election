@@ -104,6 +104,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Biden Cuts Infrastructure Offer to Gop to $1.7 Trillion"
+    excerpt: "President Joe Biden’s team offered Friday to reduce his infrastructure and jobs plan by about a quarter, to $1.7 trillion, a counter-proposal that’s still far higher than what Republicans have suggested they could support."
+    publishedDateTime: 2021-05-21T19:31:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-cuts-infrastructure-offer-to-gop-to-17-trillion/2021/05/21/6068fe26-ba6a-11eb-bc4a-62849cf6cca9_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OR5MIHF2MUI6XPCKMKCJZ5WMVE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "President Joe Biden Departs White House for Connecticut"
     excerpt: "US President Joe Biden walks on the ellipse to board Marine One at the White House in Washington, DC on Wednesday, May 19, 2021. President Joe Biden Departs White House for Connecticut for the US Coast Guards 140th commencement."
     publishedDateTime: 2021-05-19T13:31:00Z

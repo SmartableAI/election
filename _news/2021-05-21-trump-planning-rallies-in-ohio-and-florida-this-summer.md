@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump planning rallies in Ohio and Florida this summer "
-excerpt: "Former President Donald Trump plans to resume his signature campaign-style rallies in a series of battleground states this summer as he inches closer to a decision on whether to mount a comeback presidential bid in 2024.\n    \n"
-publishedDateTime: 2021-05-21T17:47:42Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nPWwVOmznlg/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nPWwVOmznlg/index.html"
+title: "Trump planning rallies in Ohio and Florida this summer"
+excerpt: "Former President Donald Trump plans to resume his signature campaign-style rallies in a series of battleground states this summer as he inches closer to a decision on whether to mount a comeback presidential bid in 2024."
+publishedDateTime: 2021-05-21T13:47:00Z
+originalUrl: "https://www.cnn.com/2021/05/21/politics/trump-rallies-summer/index.html"
+webUrl: "https://www.cnn.com/2021/05/21/politics/trump-rallies-summer/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/trump-rallies-summer/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/trump-rallies-summer/index.html"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
@@ -172,6 +173,6 @@ related:
         height: 773
         isCached: true
 
-secured: "r8iVHNP6LJJujJ2RlozCDV9M+99cDI8YtxBM1QoYYKLydoKmLyiim3mmC57ezL2cPMdjc1wmpJJhGUcLzWj/LoQQdt9jjHdPXe6bG7w1RI2kWyEjrdN7oskBFaBQPzmdyd9jPGyvSwPATL3HoeonNj8u4/bfXeJiRlwolyL6BSvq2iyiHBpy3RsPsvzb3haBuJuOcJgQxsvtYMGqZI3+VAhhGskE6n3wWeUWedE7AtvQvqtFHBBd+ui2KSB+ZDlQHguK/bFHwF/fJY83sEqZn7FhwSCoX5j4zt8WICGsBxYd4rFS0vZRRr7pFW6qfG/qwb9g3oCc+LjiT1jwWq181AmrCNKX7jGyo9aeS5xBJqs=;+rpjor4hTjM3ID0vZqG9Yw=="
+secured: "kPAdW5kqfQYF5l3xchTs/7G6Z0aKvUuD9cMQXzkGnQt52aDtDCqCa5TWNgh9C4dHK/At2np49XfGB4GZKOEFd5oLy5o6t/E8hfmPUBEDiDj2savg6pSk36LTG43Ww/JICB6LIHvi2sH2cxaFjcH7NHBkFAliWmfy9zR70MGUV2YFvn0diXPiite7E+bL+E4+1awHyzmzH3as8TjUt+dUIwc14/9lpzA8R9dFuhHiBlnx66sqETCm/+aIr5wnDcBN/q3Vn/h+/lNELI0ENVNFHEJdsagocM+NPafYxRzW9xFTSGwG4tb1PQrLEz+ccsx9b23b9vNqOXOP7NgzYyhMgxtgEloplYmV/ur4QXxXdIA=;D3zQGUGf9sHBnl7EzVlxxg=="
 ---
 

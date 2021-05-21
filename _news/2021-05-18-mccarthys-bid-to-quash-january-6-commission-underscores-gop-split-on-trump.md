@@ -95,22 +95,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump planning rallies in Ohio and Florida this summer "
-    excerpt: "Former President Donald Trump plans to resume his signature campaign-style rallies in a series of battleground states this summer as he inches closer to a decision on whether to mount a comeback presidential bid in 2024.\n    \n"
-    publishedDateTime: 2021-05-21T17:47:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nPWwVOmznlg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/trump-rallies-summer/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/trump-rallies-summer/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109230708-trump-florida-camilo-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump and his allies seize on small New Hampshire town's vote discrepancies to push lies about election outcome"
     excerpt: "A local clash over the audit of state legislative vote totals in a New Hampshire town of 14,000 has turned into one of the flashpoints in the attempts of former President Donald Trump and his supporters to cast doubt on the outcome of the 2020 election.\n    \n"
     publishedDateTime: 2021-05-21T19:02:28Z
@@ -140,6 +124,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517201014-stephen-richer-ebof-05172021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump planning rallies in Ohio and Florida this summer"
+    excerpt: "Former President Donald Trump plans to resume his signature campaign-style rallies in a series of battleground states this summer as he inches closer to a decision on whether to mount a comeback presidential bid in 2024."
+    publishedDateTime: 2021-05-21T13:47:00Z
+    webUrl: "https://www.cnn.com/2021/05/21/politics/trump-rallies-summer/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/trump-rallies-summer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/trump-rallies-summer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109230708-trump-florida-camilo-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

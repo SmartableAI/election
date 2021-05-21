@@ -579,6 +579,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump Is Still Squeezing Money Out of Taxpayers"
+    excerpt: "The former president charged the Secret Service at least $40,000 for a room at Mar-a-Lago, and staffers have sought reimbursement for office supplies."
+    publishedDateTime: 2021-05-21T20:16:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/05/trump-charged-secret-service-usd40k-in-post-presidency.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/05/trump-charged-secret-service-usd40k-in-post-presidency.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/05/trump-charged-secret-service-usd40k-in-post-presidency.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/f35/da9/4d9af2aaaa4dda4e39377459781b009477-trump.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Murphy Gliding in NJ's Primary; GOP Wrestling With Trump"
     excerpt: "New Jersey Republicans will decide whether they want an outspoken Donald Trump supporter to be their standard bearer in the fall election for governor, while Democratic incumbent Gov. Phil Murphy is on an easy path toward capturing his party’s nomination."
     publishedDateTime: 2021-05-09T05:00:00Z

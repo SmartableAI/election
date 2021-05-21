@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-award-1st-medal-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-award-1st-medal-honor-retired-georgia-colonel-77787792"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Entertainment/WireAP_5ac365c5e65e44b8992dfc210d726686_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden bestows Medal of Honor on Korean War veteran"
+    excerpt: "President Joe Biden is awarding his first Medal of Honor to a 94-year-old retired Army colonel for bravery more than a half-century ago in the Korean War"
+    publishedDateTime: 2021-05-21T19:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-bestows-medal-honor-korean-war-veteran-77832914"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-bestows-medal-honor-korean-war-veteran-77832914"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-bestows-medal-honor-korean-war-veteran-77832914"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_764161d3d08947de917ac7bb3ab3c822_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

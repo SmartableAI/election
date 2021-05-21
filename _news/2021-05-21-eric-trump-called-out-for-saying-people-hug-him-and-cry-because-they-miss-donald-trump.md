@@ -95,6 +95,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "New York AG has 2 lawyers working with DA on Trump probe"
+    excerpt: "New York’s attorney general said Friday that she’s assigned two lawyers to work with the Manhattan district’s attorney’s office on a criminal investigation into former President Donald Trump’s busines"
+    publishedDateTime: 2021-05-21T20:22:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/york-ag-lawyers-working-da-trump-probe-77832719"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/york-ag-lawyers-working-da-trump-probe-77832719"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/york-ag-lawyers-working-da-trump-probe-77832719"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6ca16e0974da443c99037cd301bbe566_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Key Trump officials face Congress with Capitol riot response under scrutiny"
     excerpt: "Wednesday’s House Oversight Committee hearing marks the first time former acting defense secretary Christopher Miller and former acting attorney general Jeffrey Rosen will speak to lawmakers about their preparations for and response to the attack on Congress."
     publishedDateTime: 2021-05-12T13:18:00Z
@@ -186,15 +202,6 @@ related:
     excerpt: "The New York attorney general's office said on Tuesday it has now opened a criminal investigation into former President Donald Trump's company, increasing the legal risk for Trump and his family. Attorney General Letitia James has been investigating whether the Trump Organization falsely reported property values to secure loans and obtain economic and tax benefits."
     publishedDateTime: 2021-05-19T07:02:00Z
     webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-19/new-york-state-mounts-criminal-probe-of-trump-organization-finances"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
-  - title: "New York AG Has 2 Lawyers Working With DA on Trump Probe"
-    excerpt: "New York’s attorney general said Friday that she’s assigned two lawyers to work with the Manhattan district’s attorney’s office on a criminal investigation into former President Donald Trump’s business dealings."
-    publishedDateTime: 2021-05-21T18:36:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-21/new-york-ag-has-2-lawyers-working-with-da-on-trump-probe"
     type: article
     provider:
       name: U.S. News & World Report

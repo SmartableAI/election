@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Texas drops challenge to Biden admin.'s deportation moratorium"
-excerpt: "The Texas attorney general's office has agreed to drop a lawsuit over the federal government's 100-day freeze on deportations after the policy expired and the Biden administration said it had no plans to extend or reinstate it,"
-publishedDateTime: 2021-05-21T14:27:00Z
-originalUrl: "https://www.reuters.com/article/us-immigration-moratorium-dismissal-idUSKCN2D21YW"
-webUrl: "https://www.reuters.com/article/us-immigration-moratorium-dismissal-idUSKCN2D21YW"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D21YW"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D21YW"
+title: "Biden Cuts Infrastructure Offer to Gop to $1.7 Trillion"
+excerpt: "President Joe Biden’s team offered Friday to reduce his infrastructure and jobs plan by about a quarter, to $1.7 trillion, a counter-proposal that’s still far higher than what Republicans have suggested they could support."
+publishedDateTime: 2021-05-21T19:31:00Z
+originalUrl: "https://www.washingtonpost.com/business/on-small-business/biden-cuts-infrastructure-offer-to-gop-to-17-trillion/2021/05/21/6068fe26-ba6a-11eb-bc4a-62849cf6cca9_story.html"
+webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-cuts-infrastructure-offer-to-gop-to-17-trillion/2021/05/21/6068fe26-ba6a-11eb-bc4a-62849cf6cca9_story.html"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210521&t=2&i=1562974591&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4K11T"
-    width: 816
-    height: 545
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OR5MIHF2MUI6XPCKMKCJZ5WMVE.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -62,6 +60,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_d5433e5cc9b54d29bd7cf89f9ebaf1a2_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Texas drops challenge to Biden admin.'s deportation moratorium"
+    excerpt: "The Texas attorney general's office has agreed to drop a lawsuit over the federal government's 100-day freeze on deportations after the policy expired and the Biden administration said it had no plans to extend or reinstate it,"
+    publishedDateTime: 2021-05-21T14:27:00Z
+    webUrl: "https://www.reuters.com/article/us-immigration-moratorium-dismissal-idUSKCN2D21YW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2D21YW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D21YW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210521&t=2&i=1562974591&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4K11T"
+        width: 816
+        height: 545
         isCached: true
   - title: "'U.S. Welcome Patrol': how some border agents are struggling with Biden's policy shift"
     excerpt: "Some U.S. border patrol agents are so frustrated with President Joe Biden's more liberal border policies that they are considering early retirement, while other disgruntled colleagues are buying unofficial coins that say 'U."
@@ -104,20 +118,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Biden Cuts Infrastructure Offer to Gop to $1.7 Trillion"
-    excerpt: "President Joe Biden’s team offered Friday to reduce his infrastructure and jobs plan by about a quarter, to $1.7 trillion, a counter-proposal that’s still far higher than what Republicans have suggested they could support."
-    publishedDateTime: 2021-05-21T19:31:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-cuts-infrastructure-offer-to-gop-to-17-trillion/2021/05/21/6068fe26-ba6a-11eb-bc4a-62849cf6cca9_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OR5MIHF2MUI6XPCKMKCJZ5WMVE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "President Joe Biden Departs White House for Connecticut"
     excerpt: "US President Joe Biden walks on the ellipse to board Marine One at the White House in Washington, DC on Wednesday, May 19, 2021. President Joe Biden Departs White House for Connecticut for the US Coast Guards 140th commencement."
     publishedDateTime: 2021-05-19T13:31:00Z
@@ -147,6 +147,6 @@ related:
         height: 897
         isCached: true
 
-secured: "OfJI+zJg637WNGhLijBMt4I7dt8zwOQAOZw44ZxwqcJ+OSSYD8CAFahaPNZF4UnjfygNyAydC9cm7Gz6UFEwWeAwF9Ugk3pyK5qcqNOz5Wv5T6lRpVKONmAqLAk/6eJghRAZClpynrjOyyOAPwH+yPhHXe1HTeXFsQYdQ6Kd3Q4pNzNAcX5H2Wl1pZkWHINaGuZfjxTA+5BxXEGfyyLVK3n/bK/YOiArhFOnqc4TGzFuawtravtfFo4l5rLhFzdNREosyaZRMEOpGJ8nWtNrisB6Fyz+VzJZRWxRb/m913zCIxCSo/4SCoNXHvztrI2FM9OsLvRoY1kUwF+fYMx6+y1qcxat6gxE0Im+d4Qp9TU=;UvAsliCHboqVppJgirYaIw=="
+secured: "5tsOBHvS77lyOImWZhKepB+hvtlPlWqNZeWT0iu/GIpc51E3vsybiOWgagoq9xrsc3/7SAlzhruDgVOiFpCOxQ4+29GFT2ILxjnL6EUwOBCdQ781qEyXY2h8U7pcnQO09AGYxx2jfEucqqsJbqQbR/2upAhjs6jK82KBnB+DGdC43hD/fS4O6tgbzLSTx+afy6aZyx7CJRjNUUOY9eI44iPo5pB4YYmksY0jcjBsrteNDMDZvF5hwP71h2PmGsS3dxN0CLWVUD65cW7B9UdcfV0Dh6VuQHnVKoBvvzhw5Pgn0m9a3I0XSxu0LZ0QW5qs9E0u08XEQuu9M0f4ePyTEiEH180qdrKEnkAGqOisrNQ=;DBf0JlsirNMZtc9zBl1jsQ=="
 ---
 
