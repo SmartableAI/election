@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/dump-trump-kicking-off
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/dump-trump-kicking-off-nyc-golf-easy-77689371"
 type: article
 quality: 125
-heat: 325
+heat: 365
 published: true
 
 provider:
@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Org. subject of criminal probe in New York"
+    excerpt: "New York's attorney general said Friday that she's assigned two lawyers to work with the Manhattan district's attorney's office on a criminal investigation into former President Donald Trump's business dealings."
+    publishedDateTime: 2021-05-21T19:38:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/21/trump-org-subject-criminal-probe-new-york/5208067001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/6026d8e2-3c12-42da-9ba8-67dd8fd97232_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Judge sentences co-founder of 'Students for Trump' to prison"
     excerpt: "A judge has sentenced a co-founder of “Students for Trump” to 13 months in prison after he admitted posing as a lawyer to cheat clients out of thousands of dollars"
     publishedDateTime: 2021-05-11T22:21:00Z
@@ -172,6 +186,15 @@ related:
     excerpt: "The New York attorney general's office said on Tuesday it has now opened a criminal investigation into former President Donald Trump's company, increasing the legal risk for Trump and his family. Attorney General Letitia James has been investigating whether the Trump Organization falsely reported property values to secure loans and obtain economic and tax benefits."
     publishedDateTime: 2021-05-19T07:02:00Z
     webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-19/new-york-state-mounts-criminal-probe-of-trump-organization-finances"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "New York AG Has 2 Lawyers Working With DA on Trump Probe"
+    excerpt: "New York’s attorney general said Friday that she’s assigned two lawyers to work with the Manhattan district’s attorney’s office on a criminal investigation into former President Donald Trump’s business dealings."
+    publishedDateTime: 2021-05-21T18:36:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-21/new-york-ag-has-2-lawyers-working-with-da-on-trump-probe"
     type: article
     provider:
       name: U.S. News & World Report

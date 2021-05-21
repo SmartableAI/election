@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump and his allies seize on small New Hampshire town's vote discrepancies to push lies about election outcome"
+    excerpt: "A local clash over the audit of state legislative vote totals in a New Hampshire town of 14,000 has turned into one of the flashpoints in the attempts of former President Donald Trump and his supporters to cast doubt on the outcome of the 2020 election.\n    \n"
+    publishedDateTime: 2021-05-21T19:02:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DdvporyAaUc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/new-hampshire-town-audit-trump-election-lies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/new-hampshire-town-audit-trump-election-lies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026051259-01-donald-trump-new-hampshire-1025-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "California recall candidates use auto-donation tactic Trump made famous"
     excerpt: "Consumer advocates and campaign finance officials say the tactic misleads donors into giving more money than they intend because they must uncheck boxes to ensure their accounts are not regularly charged."
     publishedDateTime: 2021-05-17T22:14:00Z

@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump and his allies seize on small New Hampshire town's vote discrepancies to push lies about election outcome"
+    excerpt: "A local clash over the audit of state legislative vote totals in a New Hampshire town of 14,000 has turned into one of the flashpoints in the attempts of former President Donald Trump and his supporters to cast doubt on the outcome of the 2020 election.\n    \n"
+    publishedDateTime: 2021-05-21T19:02:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DdvporyAaUc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/new-hampshire-town-audit-trump-election-lies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/new-hampshire-town-audit-trump-election-lies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026051259-01-donald-trump-new-hampshire-1025-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Arizona GOP election official defends office against Trump voting conspiracy theory: 'We are humans, it has to stop.'"
     excerpt: "The Republican official who heads Maricopa County, Arizona's election department offered a forceful defense of his office on Monday after former President Donald Trump falsely claimed that the county's \"entire Database\" had been deleted.\n    \n"
     publishedDateTime: 2021-05-18T02:56:44Z
@@ -156,6 +172,6 @@ related:
         height: 773
         isCached: true
 
-secured: "8+Mq4IMeZ5gAM8SI6sCAEh/24kjTc5SvvpnRilDs1vo4xfyMQVSkivTWaPiYBHG1v7WqFduWEmu/OW3ICIC+LcUgcSZciqDHKSJROSdMpFxSx3fj2PpYmREKwHcHeMnS3kVT2F1ONxdkeJrpGK8FWveqWJKgf89ZMoAGnoeS/0ofBte3/lv909An8yi/C48YGNa9plwuVPl90YwJTfxHQmm2VFGP0DLBDUgyULpQo6UBlycbr6JtsD8RNY7C0RBtLCLTIjjmJZLEcJzU5EFoJIz88jSwOy+I4XGRWiyoHpGr/fMxT2hsaORk8HdawuKkgbrdEXnvKvSgLPsda5tIe3PunsCBkxp6yEHzWGucjB4=;QMJ7r4VuzgF0458hHN3Y5g=="
+secured: "r8iVHNP6LJJujJ2RlozCDV9M+99cDI8YtxBM1QoYYKLydoKmLyiim3mmC57ezL2cPMdjc1wmpJJhGUcLzWj/LoQQdt9jjHdPXe6bG7w1RI2kWyEjrdN7oskBFaBQPzmdyd9jPGyvSwPATL3HoeonNj8u4/bfXeJiRlwolyL6BSvq2iyiHBpy3RsPsvzb3haBuJuOcJgQxsvtYMGqZI3+VAhhGskE6n3wWeUWedE7AtvQvqtFHBBd+ui2KSB+ZDlQHguK/bFHwF/fJY83sEqZn7FhwSCoX5j4zt8WICGsBxYd4rFS0vZRRr7pFW6qfG/qwb9g3oCc+LjiT1jwWq181AmrCNKX7jGyo9aeS5xBJqs=;+rpjor4hTjM3ID0vZqG9Yw=="
 ---
 

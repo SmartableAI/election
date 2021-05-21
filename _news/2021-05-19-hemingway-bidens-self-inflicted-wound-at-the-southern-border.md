@@ -42,6 +42,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Border Patrol has released more than 60,000 migrants into US under Biden"
+    excerpt: "Customs and Border Protection (CBP) has released more than 60,000 migrants into the U.S. since President Biden took office in January, as the administration has scrambled to deal with a dramatic surge in numbers at the border -- which critics say is a crisis of its own making."
+    publishedDateTime: 2021-05-21T16:31:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q9W4kIu8YG0/border-patrol-released-60000-migrants-under-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/border-patrol-released-60000-migrants-under-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-patrol-released-60000-migrants-under-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18f558c8-044d-40d8-b2a1-3c6a8b9e3263/bb4da93d-9b1e-4d30-8086-e40006961777/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Look here, not there! GOP lawmakers question timing of CDC mask announcement amid Biden crises"
     excerpt: "Republican lawmakers questioned the timing of the Centers for Disease Control and Prevention’s decision to ease indoor mask requirements on Thursday as the Biden administration contends with crises on several fronts."
     publishedDateTime: 2021-05-14T05:58:28Z

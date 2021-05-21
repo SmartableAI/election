@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-leaves-gop-paralyzed-congr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-leaves-gop-paralyzed-congress-ballots-analysis/story?id=77803576"
 type: article
 quality: 124
-heat: 164
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "10 Things in Politics: Trump's legal jeopardy has GOP worried"
+    excerpt: "And the cease-fire between Israel and Hamas appears to be holding."
+    publishedDateTime: 2021-05-21T12:18:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-investigations-new-york-legal-jeopardy"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-investigations-new-york-legal-jeopardy?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-investigations-new-york-legal-jeopardy?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/6066cc80902281001950ab74?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Lin Wood Falls to Trump-Endorsed Drew McKissick in Bid to Lead South Carolina GOP"
     excerpt: "Pro-Trump lawyer Lin Wood's attempt to convince delegates to make him the next South Carolina Republican Party chairman fell through on Saturday, when incumbent Drew McKissick secured his reelection bid for a third two-year term,"
     publishedDateTime: 2021-05-15T18:23:00Z

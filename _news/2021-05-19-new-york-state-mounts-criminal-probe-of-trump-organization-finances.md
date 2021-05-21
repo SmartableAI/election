@@ -135,6 +135,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Org. subject of criminal probe in New York"
+    excerpt: "New York's attorney general said Friday that she's assigned two lawyers to work with the Manhattan district's attorney's office on a criminal investigation into former President Donald Trump's business dealings."
+    publishedDateTime: 2021-05-21T19:38:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/21/trump-org-subject-criminal-probe-new-york/5208067001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/6026d8e2-3c12-42da-9ba8-67dd8fd97232_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Judge sentences co-founder of 'Students for Trump' to prison"
     excerpt: "A judge has sentenced a co-founder of “Students for Trump” to 13 months in prison after he admitted posing as a lawyer to cheat clients out of thousands of dollars"
     publishedDateTime: 2021-05-11T22:21:00Z
@@ -176,6 +190,15 @@ related:
         width: 1024
         height: 729
         isCached: true
+  - title: "New York AG Has 2 Lawyers Working With DA on Trump Probe"
+    excerpt: "New York’s attorney general said Friday that she’s assigned two lawyers to work with the Manhattan district’s attorney’s office on a criminal investigation into former President Donald Trump’s business dealings."
+    publishedDateTime: 2021-05-21T18:36:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-21/new-york-ag-has-2-lawyers-working-with-da-on-trump-probe"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "vh2HiZgeBc7PTqToEtsLJgXlbwyFwC1vk3Aw/H2zSr/6yQ4jtJyfKGbrQZeSS8xXTFRgXIE69m/OP9jm86uHaGNHk9AxgjNd8MeXva5UlELUmPr0WyNMtfnc2donVfNkeWkwDERwQpC0dN2M7tyVbD/XM22R32Fdq2q4LJHdvAO2KUwkSx16Se935c6h1K69q15LUku81URSfrfqSWvq41h9jYSU1/XyTvzkPoL4LtqXHOMKzrNC7qg7rgP9pQAwbhn5YPcTJTDoLR8y2WgGxCA6tSX4sp+4YMZrD1UYEYndY8+djPwQLXZCcf3dd54lYSw/nn5xvEbT466NWLodCFarJLtaRuFVOZyU4/wu/0BOUuy3IFtO3+CohVJRCWlTIZsM89cP3RjhxQuWjBt5ZKnz7BBJJo3YUsfGwJGD/YutC8+vtHCg44b/W54EEBq8mkoJW4/9UVXW1X3Q5jQIlpIrXssWaTTnOMxsC13Jm7PtEZm+glKoRc8AEMjnGHvU1gOzMU185HWjw1xgFpeprQ==;fq2EC/TYMUWe+vzBXATeHA=="
 ---
