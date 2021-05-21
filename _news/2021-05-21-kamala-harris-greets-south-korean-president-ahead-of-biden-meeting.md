@@ -1,18 +1,20 @@
 ---
 category: news
-title: "Kamala Harris To Tim Scott: \"No, I Don't Think America Is A Racist Country,\" But Racism Exists"
-excerpt: "Vice President Kamala Harris responded to GOP Sen. Tim Scott's statement that America is \"not a racist country\" and we can't \"fight discrimination with more discrimination\" during an appearance Thursday on \"Good Morning America."
-publishedDateTime: 2021-04-29T16:08:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/04/29/kamala_harris_no_i_dont_think_america_is_a_racist_country_but_racism_exists.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/04/29/kamala_harris_no_i_dont_think_america_is_a_racist_country_but_racism_exists.html#!"
+title: "Kamala Harris greets South Korean president ahead of Biden meeting"
+excerpt: "Vice President Kamala Harris exchanged pleasantries with South Korean President Moon Jae-in the White House-adjacent Eisenhower Executive Office Building."
+publishedDateTime: 2021-05-21T15:56:00Z
+originalUrl: "https://nypost.com/2021/05/21/vp-harris-greets-president-moon-jae-in-ahead-of-biden-visit/"
+webUrl: "https://nypost.com/2021/05/21/vp-harris-greets-president-moon-jae-in-ahead-of-biden-visit/"
+ampWebUrl: "https://nypost.com/2021/05/21/vp-harris-greets-president-moon-jae-in-ahead-of-biden-visit/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/21/vp-harris-greets-president-moon-jae-in-ahead-of-biden-visit/amp/"
 type: article
-quality: 53
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
@@ -20,9 +22,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/54/541903.jpg"
-    width: 750
-    height: 562
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/harris-moon-01.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -218,22 +220,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Kamala Harris greets South Korean president ahead of Biden meeting"
-    excerpt: "Vice President Kamala Harris exchanged pleasantries with South Korean President Moon Jae-in the White House-adjacent Eisenhower Executive Office Building."
-    publishedDateTime: 2021-05-21T15:56:00Z
-    webUrl: "https://nypost.com/2021/05/21/vp-harris-greets-president-moon-jae-in-ahead-of-biden-visit/"
-    ampWebUrl: "https://nypost.com/2021/05/21/vp-harris-greets-president-moon-jae-in-ahead-of-biden-visit/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/21/vp-harris-greets-president-moon-jae-in-ahead-of-biden-visit/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/harris-moon-01.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Kamala Harris, not Biden, called king of Jordan to discuss Gaza ceasefire"
     excerpt: "Vice President Kamala Harris on Thursday spoke to Jordanian King Abdullah II on behalf of President Biden to brief him on US efforts to support a ceasefire in the Israel-Hamas conflict. Biden has not spoken with the Arab nation’s leader since Hamas began firing rockets last week from Gaza into Israel following clashes in Jerusalem."
     publishedDateTime: 2021-05-20T21:40:00Z
@@ -402,7 +388,21 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Kamala Harris To Tim Scott: \"No, I Don't Think America Is A Racist Country,\" But Racism Exists"
+    excerpt: "Vice President Kamala Harris responded to GOP Sen. Tim Scott's statement that America is \"not a racist country\" and we can't \"fight discrimination with more discrimination\" during an appearance Thursday on \"Good Morning America."
+    publishedDateTime: 2021-04-29T16:08:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/04/29/kamala_harris_no_i_dont_think_america_is_a_racist_country_but_racism_exists.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 53
+    images:
+      - url: "https://assets.realclear.com/images/54/541903.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
-secured: "rokw5iSQjWqaFkFw+CR2aVMeBpkkY/T4AN13oQPnYj+LP04zs69wUnBbfP2LSgIpxIBfyBUIfbW4rzJ2Uf9BREydg7/b1loew2mn+hwyR5MXTrTBDW/MHdEwEpU4Q0twV+STGtNOCm58q13a8AkvMxjm/gxXFhB4zExO2mQ762EUGJSj8goOTrA8QD3Nadz00AQy1Bv0f12ENkGhcG7p+/14/9SBGw8i4VcsqbkScS/n6qcNLmuyhARUZvFsWoAlRVzY25rLEYEaSLESp3ryiWvRNHH7S0ALVs1odwVDq8wWYx+xvrnoI6XwNe+1uTgLukOz9LK72i5he9o4oXpGoVvFn2sB5qFtkzmiydnsX+acd1ncffeumKkr98CqSmt3pdJoNANdixxA46EO7vY52MhhCV7hRSwC3Uh/kSf/Wbm/SP8vYQiuE6L9zlHllKcxN4NMwiOaaOFjdvv1VCaiG0Ezg6nLHw2KIhNqoBs3GHMKPNG/Zg0ukelmQ8k0tJ9ExDlA5I/N0qsm0KdGHZMMQg==;i7S/WUJLpqfQ9sS1RZTfvQ=="
+secured: "sCi6wrPEdqqQUA1EcQLQtvelx3iCn/dLxHu3D5Ugrh+NeCzV9OLVkKIoQ2CSkyO202RJRUvagVyHtaTSESo56e9HqftgcPMoL2hmQuWOF75Ytr2JeHEEylzOfjba2uy/5REjaoNVkyRA7q7D5VOzU5ErinrWMVVxTNGSim3h6fuCx1RKsrTGhltG115EFOt/9TkenXXzN1yGK5qtxJcVYbtPASIYOIcx2CeIZo1vatrRx8GZZwiXNdiy7iYPLtOKi7Brm0O+oA0Ei5yOyc8ayzvt1g820kBQDApcAhQKVZEyL1lVGnU9OgquiC/Gi6aQzT7+bcACL4V8gaMS2gnSYY1lg1a4eKOn+dXhqwbjnlA=;t0qLqZAcIbgGxAsni5On6Q=="
 ---
 

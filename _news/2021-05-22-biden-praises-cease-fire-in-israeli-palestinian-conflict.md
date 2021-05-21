@@ -1,29 +1,33 @@
 ---
 category: news
-title: "President Joe Biden will visit Ford electric vehicle plant; protests of Israel expected"
-excerpt: "The president will tour the Dearborn facility where Ford's new electric pickup will be built. Protests of Biden's support of Israel are also expected."
-publishedDateTime: 2021-05-18T13:30:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/05/18/joe-biden-ford-visit-dearborn-michigan-electric-f-150/5142229001/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/05/18/joe-biden-ford-visit-dearborn-michigan-electric-f-150/5142229001/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/5142229001"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5142229001"
+title: "Biden praises cease-fire in Israeli-Palestinian conflict"
+excerpt: "President Joe Biden is vowing to continue his administration's \"quiet and relentless\" diplomacy in the Middle East after Israel announced it would end fighting in Gaza. CBS News senior White House correspondent Wejia Jiang joined CBSN to discuss just how involved the Biden administration was in facilitating this cease-fire and more from the White House."
+publishedDateTime: 2021-05-21T17:10:00Z
+originalUrl: "https://www.cbsnews.com/video/biden-praises-cease-fire-in-israeli-palestinian-conflict/"
+webUrl: "https://www.cbsnews.com/video/biden-praises-cease-fire-in-israeli-palestinian-conflict/"
+ampWebUrl: "https://www.cbsnews.com/amp/video/biden-praises-cease-fire-in-israeli-palestinian-conflict/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/biden-praises-cease-fire-in-israeli-palestinian-conflict/"
 type: article
-quality: 67
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: CBS News
+  domain: cbsnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/05/13/USAT/55e94e41-63bb-4b61-a737-f0e67127ee8f-AP_Biden_2.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/21/4feca956-c011-49f3-8935-b95e6a8fac89/thumbnail/1200x630/f4a7aee0694d9e155a9e9e88600fe77e/cbsn-fusion-biden-praises-cease-fire-in-israeli-palestinian-conflict-thumbnail-720657-640x360.jpg"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
 related:
@@ -74,22 +78,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/49b8587f85438117dca407bc628f7a24795fd979/0_47_3096_1858/master/3096.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f6d8582d2714f5f902f6a74ad09c3c59"
         width: 600
         height: 360
-        isCached: true
-  - title: "Biden praises cease-fire in Israeli-Palestinian conflict"
-    excerpt: "President Joe Biden is vowing to continue his administration's \"quiet and relentless\" diplomacy in the Middle East after Israel announced it would end fighting in Gaza. CBS News senior White House correspondent Wejia Jiang joined CBSN to discuss just how involved the Biden administration was in facilitating this cease-fire and more from the White House."
-    publishedDateTime: 2021-05-21T17:10:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-praises-cease-fire-in-israeli-palestinian-conflict/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/biden-praises-cease-fire-in-israeli-palestinian-conflict/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/biden-praises-cease-fire-in-israeli-palestinian-conflict/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/21/4feca956-c011-49f3-8935-b95e6a8fac89/thumbnail/1200x630/f4a7aee0694d9e155a9e9e88600fe77e/cbsn-fusion-biden-praises-cease-fire-in-israeli-palestinian-conflict-thumbnail-720657-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Biden was unprepared to respond to the worst violence Israel-Palestine has seen in years"
     excerpt: "President Joe Biden does not have an ambassador in Israel — and hasn't yet nominated anyone — amid the worst fighting the region has seen in years."
@@ -227,7 +215,23 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "President Joe Biden will visit Ford electric vehicle plant; protests of Israel expected"
+    excerpt: "The president will tour the Dearborn facility where Ford's new electric pickup will be built. Protests of Biden's support of Israel are also expected."
+    publishedDateTime: 2021-05-18T13:30:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/05/18/joe-biden-ford-visit-dearborn-michigan-electric-f-150/5142229001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5142229001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5142229001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/13/USAT/55e94e41-63bb-4b61-a737-f0e67127ee8f-AP_Biden_2.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "BPTk/QUcftdmVxipgaPjdwtsVCyeOaV8FgIQ96f4eXMvcXmdN0B39ShAJHLp+J0DnBjU5WX3hoiX5Npx+aamesLtZDOsojQr5y5bOgeseDSpqvWZK/5aiBHyDXzarznXlWItAX6SHlrHJJjUIoLfFUPr4lnzVQxvvHld9hJb4oz/sormjXdA0xN6uafwih0il35l6BJvW2nsufXtyNdoIlTgntBrlmylqLweS+yaDKj1pto4z7LfdwW7o+1kOO5cdl2NCYzssA4/KSbA32rZLgsQszqR8wwEp50B1/uZ79c5+8R1xh9RLjczQtvcRXn21pQaq0xRXRU1FBsYyj0omKN16F+s5k6mRCOblDoEmZdccZgo9mm7Zc/F3awOaE8zELH6v2k2XkEIiGy/AxurlHC3i7Aogg236MVnk/x9XwVeBHiulaQ8Uy0k6F1HuBXQBvrKSgBqV23m1P/gz4X9Y7lBlYAUYp+pmw+WplLZ3fpEHCDT2GdyYKg/kyEl3FWCmd+shIfArzwaXbb2MTzQxA==;chYf4dBEMImg6kcT6qzVxQ=="
+secured: "yOkysdK193xevqpJFkJ6tCTvxWnJMgxSCiDgCxQiKbeAusAKgr9aKd7Yq3U8mEfGReZfReTzp/TBcId4BHZvcVURCHP/NgQv1/8qedtsEvOAOl4tHPCl0MWBdnmrX9UD/mKnGHnjXtZNl6pn1VwOjw8jk8MQiHuU9KkV8V9GiHf99qbbeUEftAif8BSR2sAv/8SQalei4eaQKVntQ9VTo7FFHD4gKYcrR+iietnTaJlr+wIeGj8kjhU2l8VgCQszAuMc3MiB3Ch/NyN7isw6HPasJjBgC4etKKgE+bkbWUODcSi+h0HO4YP+VoU2FcgMWkqfZ4zmnShGwz25ZMk/BJLfIkvFsO2+i6vptL0CBmY=;YPnL3s4ALFEGsu7P1WZpPQ=="
 ---
 

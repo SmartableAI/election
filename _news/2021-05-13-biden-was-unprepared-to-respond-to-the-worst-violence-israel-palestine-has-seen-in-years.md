@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden praises cease-fire in Israeli-Palestinian conflict"
+    excerpt: "President Joe Biden is vowing to continue his administration's \"quiet and relentless\" diplomacy in the Middle East after Israel announced it would end fighting in Gaza. CBS News senior White House correspondent Wejia Jiang joined CBSN to discuss just how involved the Biden administration was in facilitating this cease-fire and more from the White House."
+    publishedDateTime: 2021-05-21T17:10:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-praises-cease-fire-in-israeli-palestinian-conflict/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/biden-praises-cease-fire-in-israeli-palestinian-conflict/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/biden-praises-cease-fire-in-israeli-palestinian-conflict/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/21/4feca956-c011-49f3-8935-b95e6a8fac89/thumbnail/1200x630/f4a7aee0694d9e155a9e9e88600fe77e/cbsn-fusion-biden-praises-cease-fire-in-israeli-palestinian-conflict-thumbnail-720657-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Rep. Rashida Tlaib presses Joe Biden on Palestinian rights as he faces growing pressure over Mideast"
     excerpt: "The congresswoman, the only Palestinian American in the US House, said Palestinian rights \"must be protected\" from Israeli attacks."
     publishedDateTime: 2021-05-19T14:20:00Z

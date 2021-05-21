@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Arizona GOP election official defends office against Trump voting conspiracy theory: 'We are humans, it has to stop.'"
-excerpt: "The Republican official who heads Maricopa County, Arizona's election department offered a forceful defense of his office on Monday after former President Donald Trump falsely claimed that the county's \"entire Database\" had been deleted.\n    \n"
-publishedDateTime: 2021-05-18T02:56:44Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZHkT0Qa-iQQ/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZHkT0Qa-iQQ/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/arizona-election-audit-stephen-richer-trump-cnntv/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/arizona-election-audit-stephen-richer-trump-cnntv/index.html"
+title: "Trump planning rallies in Ohio and Florida this summer "
+excerpt: "Former President Donald Trump plans to resume his signature campaign-style rallies in a series of battleground states this summer as he inches closer to a decision on whether to mount a comeback presidential bid in 2024.\n    \n"
+publishedDateTime: 2021-05-21T17:47:42Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nPWwVOmznlg/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nPWwVOmznlg/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/trump-rallies-summer/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/trump-rallies-summer/index.html"
 type: article
-quality: 167
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517201014-stephen-richer-ebof-05172021-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109230708-trump-florida-camilo-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -95,22 +95,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump planning rallies in Ohio and Florida this summer "
-    excerpt: "Former President Donald Trump plans to resume his signature campaign-style rallies in a series of battleground states this summer as he inches closer to a decision on whether to mount a comeback presidential bid in 2024.\n    \n"
-    publishedDateTime: 2021-05-21T17:47:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nPWwVOmznlg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/21/politics/trump-rallies-summer/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/21/politics/trump-rallies-summer/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109230708-trump-florida-camilo-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "McCarthy's bid to quash January 6 commission underscores GOP split on Trump "
     excerpt: "Less than a week after Rep. Liz Cheney was ousted from her leadership position for her opposition to Donald Trump's lies about the 2020 election, House Republicans are mired in yet another fight over Trump -- this time whether to move forward with a bipartisan commission to investigate the January 6"
     publishedDateTime: 2021-05-18T23:07:57Z
@@ -124,6 +108,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518132633-mccarthy-for-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Arizona GOP election official defends office against Trump voting conspiracy theory: 'We are humans, it has to stop.'"
+    excerpt: "The Republican official who heads Maricopa County, Arizona's election department offered a forceful defense of his office on Monday after former President Donald Trump falsely claimed that the county's \"entire Database\" had been deleted.\n    \n"
+    publishedDateTime: 2021-05-18T02:56:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZHkT0Qa-iQQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/17/politics/arizona-election-audit-stephen-richer-trump-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/17/politics/arizona-election-audit-stephen-richer-trump-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517201014-stephen-richer-ebof-05172021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -156,6 +156,6 @@ related:
         height: 773
         isCached: true
 
-secured: "uqeVtsVAkipbSqE7YHRaDOX7W1Q1VRhczBLXGlB3+JZ2DKTuixANJgSCsD/e7tutlFhI6gWoI/S4v4oXXgz1lKuWvDvCiGHC0i77TnE2T1hW/5jSFoEtho3TMC39UP6QuuP2j1uv5t0kK6H25mdSZwHt24zAYutpXhcDWzZ1bhaGsL81MduHh4+3SVb77F90MHnb2C11KFvHgSMzKcubuwnQI0cFjDWe/DzBBvcFdR42d3c6A/moDwBF3BrWVBlNj3/aVnSkvwGXX5JAaYLqhBgHlWtQeBKFmTXKX0jrAMOiwx1gcv6jbXj8qsCoT7hJyQv21yVyWzzHUw5NNOL+BqCX89v762H9XuKByXTOEiI=;9yBF7E6mGmM0QreXLDoevA=="
+secured: "8+Mq4IMeZ5gAM8SI6sCAEh/24kjTc5SvvpnRilDs1vo4xfyMQVSkivTWaPiYBHG1v7WqFduWEmu/OW3ICIC+LcUgcSZciqDHKSJROSdMpFxSx3fj2PpYmREKwHcHeMnS3kVT2F1ONxdkeJrpGK8FWveqWJKgf89ZMoAGnoeS/0ofBte3/lv909An8yi/C48YGNa9plwuVPl90YwJTfxHQmm2VFGP0DLBDUgyULpQo6UBlycbr6JtsD8RNY7C0RBtLCLTIjjmJZLEcJzU5EFoJIz88jSwOy+I4XGRWiyoHpGr/fMxT2hsaORk8HdawuKkgbrdEXnvKvSgLPsda5tIe3PunsCBkxp6yEHzWGucjB4=;QMJ7r4VuzgF0458hHN3Y5g=="
 ---
 

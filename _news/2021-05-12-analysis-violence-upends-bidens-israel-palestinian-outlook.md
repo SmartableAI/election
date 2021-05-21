@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/analysis-violence-upends-bid
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/49b8587f85438117dca407bc628f7a24795fd979/0_47_3096_1858/master/3096.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f6d8582d2714f5f902f6a74ad09c3c59"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden praises cease-fire in Israeli-Palestinian conflict"
+    excerpt: "President Joe Biden is vowing to continue his administration's \"quiet and relentless\" diplomacy in the Middle East after Israel announced it would end fighting in Gaza. CBS News senior White House correspondent Wejia Jiang joined CBSN to discuss just how involved the Biden administration was in facilitating this cease-fire and more from the White House."
+    publishedDateTime: 2021-05-21T17:10:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-praises-cease-fire-in-israeli-palestinian-conflict/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/biden-praises-cease-fire-in-israeli-palestinian-conflict/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/biden-praises-cease-fire-in-israeli-palestinian-conflict/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/21/4feca956-c011-49f3-8935-b95e6a8fac89/thumbnail/1200x630/f4a7aee0694d9e155a9e9e88600fe77e/cbsn-fusion-biden-praises-cease-fire-in-israeli-palestinian-conflict-thumbnail-720657-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden was unprepared to respond to the worst violence Israel-Palestine has seen in years"
     excerpt: "President Joe Biden does not have an ambassador in Israel — and hasn't yet nominated anyone — amid the worst fighting the region has seen in years."
